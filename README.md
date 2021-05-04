@@ -23,6 +23,6 @@ Coverage is ran by default and is set in the ```pytest.ini``` file.
 To see an html output of coverage open ```htmlcov/index.html``` after running the tests.
 
 
-Pipe steps:  
+## Pipe steps:  
 
 Cleaning and feature engineering --> segmentation --> classification --> information extraction

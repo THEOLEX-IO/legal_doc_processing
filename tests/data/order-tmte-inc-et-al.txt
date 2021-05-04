@@ -1,0 +1,798 @@
+Case 3:20-cv-02910-L *SEALED* Document 16 Filed 09/22/20 Pagei1of23 PagelD 1876
+
+IN THE UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF TEXAS
+
+ 
+
+COMMODITY FUTURES TRADING
+COMMISSION, and ORDER GRANTING PLAINTIFFS’
+EMERGENCY EX PARTE MOTION FOR
+ALABAMA SECURITIES COMMISSION, | STATUTORY RESTRAINING ORDER,
+STATE OF ALASKA, ARIZONA APPOINTMENT OF RECEIVER, AND
+CORPORATION COMMISSION, OTHER EQUITABLE RELIEF
+CALIFORNIA COMMISSIONER OF
+BUSINESS OVERSIGHT, COLORADO
+SECURITIES COMMISSIONER, STATE
+OF DELAWARE, STATE OF FLORIDA, Case No.: 3:20-CV-2910-L
+OFFICE OF THE ATTORNEY GENERAL,
+STATE OF FLORIDA, OFFICE OF Judge: Honorable Sam A. Lindsay
+FINANCIAL REGULATION, OFFICE OF
+THE GEORGIA SECRETARY OF STATE,
+STATE OF HAWAII, SECURITIES
+ENFORCEMENT BRANCH, IDAHO
+DEPARTMENT OF FINANCE, INDIANA
+SECURITIES COMMISSIONER, IOWA
+INSURANCE COMMISSIONER
+DOUGLAS M. OMMEN, OFFICE OF THE
+KANSAS SECURITIES COMMISSIONER,
+KENTUCKY DEPARTMENT OF
+FINANCIAL INSTITUTIONS, MAINE
+SECURITIES ADMINISTRATOR, STATE
+OF MARYLAND EX REL MARYLAND
+SECURITIES COMMISSIONER,
+ATTORNEY GENERAL DANA NESSEL
+ON BEHALF OF THE PEOPLE OF
+MICHIGAN, MISSISSIPPI SECRETARY
+OF STATE, NEBRASKA DEPARTMENT
+OF BANKING & FINANCE, OFFICE OF
+THE NEVADA SECRETARY OF STATE,
+NEW MEXICO SECURITIES DIVISION,
+THE PEOPLE OF THE STATE OF NEW
+YORK BY LETITIA JAMES, ATTORNEY
+GENERAL OF THE STATE OF NEW
+YORK, OKLAHOMA DEPARTMENT OF
+SECURITIES, SOUTH CAROLINA
+ATTORNEY GENERAL, SOUTH
+CAROLINA SECRETARY OF STATE,
+SOUTH DAKOTA DEPARTMENT OF
+LABOR & REGULATION, DIVISION OF
+
+ 
+
+ 
+Case 3:20-cv-02910-L *SEALED* Document 16 Filed 09/22/20 Page 2of23 PagelD 1877
+
+ 
+
+INSURANCE, COMMISSIONER OF THE
+TENNESSEE DEPARTMENT OF
+COMMERCE AND INSURANCE, STATE
+OF TEXAS, WASHINGTON STATE
+DEPARTMENT OF FINANCIAL
+INSTITUTIONS, WEST VIRGINIA
+SECURITIES COMMISSION, AND STATE
+OF WISCONSIN.
+
+Plaintiffs,
+
+V.
+
+TMTE, INC. a/k/a METALS.COM, CHASE
+METALS, INC., CHASE METALS, LLC,
+BARRICK CAPITAL, INC., LUCAS
+THOMAS ERB a/k/a LUCAS ASHER a/k/a
+LUKE ASHER, and SIMON BATASHVILI,
+Defendants;
+
+and
+
+TOWER EQUITY, LLC,
+
+Relief Defendant.
+
+ 
+
+ 
+
+Plaintiffs Commodity Futures Trading Commission (“CFTC”), Alabama Securities
+Commission (“State of Alabama’), State of Alaska (“State of Alaska”), Arizona Corporation
+Commission (“State of Arizona”), California Department of Business Oversight (“State of
+California’), Colorado Securities Commissioner (“State of Colorado”), Delaware Department of
+Justice (“State of Delaware”), Florida Office of Financial Regulation (“State of Florida”), Office
+of the Georgia Secretary of State (“State of Georgia”), Hawaii Office of the Securities
+Commissioner (State of Hawaii”), Idaho Department of Finance (“State of Idaho”), Indiana
+Securities Commissioner (“State of Indiana”), Iowa Insurance Commissioner, Douglas M.
+
+Ommen (“State of lowa”), Office of the Kansas Securities Commissioner (“State of Kansas”),
+SONOMA OG GbeN OE RE an
+ODN E & AE Ai rf Vek
+Neat Hae SR a
+
+a os gt Ay TR 2.
+Pye TS TE RY eee SATS
+
+ee Oe ae oe ed a :
+wt CAI wd PL OAS
+
+!
+‘beat
+th
+
+Kentucky Department of Financial Institutions (“Commonwealth of Kentucky”), Maine Office
+of Securities (“State of Maine”), Maryland Securities Commissioner (“State of Maryland”),
+Massachusetts Securities Division (“Commonwealth of Massachusetts”), Michigan Department
+of Attorney General (“State of Michigan”), Mississippi Secretary of State (“State of
+Mississippi”), Nebraska Department of Banking & Finance (“State of Nebraska’), Nevada
+Office of Secretary of State (“State of Nevada”), New Hampshire Bureau of Securities
+Regulation (“State of New Hampshire”), New Mexico Securities Division (“State of New
+Mexico”), New York Attorney General (“State of New York’), North Dakota Securities
+Department (“State of North Dakota’), Oklahoma Department of Securities (“State of
+Oklahoma”), Oregon Department of Consumer and Business Services (“State of Oregon’),
+Pennsylvania Department of Banking and Securities (“Commonwealth of Pennsylvania”), South
+Carolina Attorney General and South Carolina Secretary of State (“State of South Carolina’)
+South Dakota Department of Labor & Regulation (“State of South Dakota’), Tennessee
+Department of Commerce and Insurance (“State of Tennessee”), State of Texas (“State of
+Texas”), Washington State Department of Financial Institutions (“State of Washington”), and
+Wisconsin Department of Financial Institutions (“State of Wisconsin’) (collectively “the
+States”), have filed a Complaint for Injunctive Relief, Civil Monetary Penalties, and other
+Ancillary Equitable Relief.
+
+Along with the filing of the Complaint, the CFTC and the States moved the Court on an
+emergency, ex parte basis, for an order, pursuant to Section 6c(a) of the Commodity Exchange
+Act (“CEA”), 7 U.S.C. § 13a-1(a) (2012), and in accordance with Federal Rule of Civil
+Procedure (“Fed. R. Civ. P.”) 65, that: (1) freezes the assets of Defendants and Relief Defendant,
+
+(2) grants the CFTC and the States immediate access to the books, records, and other documents
+SONOMA OG GbeN OE RE an
+ODN E & AE Ai rf Vek
+Neat Hae SR a
+
+a os gt Ay TR 2.
+Pye TS TE RY eee SATS
+
+ee Oe ae oe ed a :
+wt CAI wd PL OAS
+
+of Defendants and Relief Defendant; and (3) appoints a temporary receiver (the “Proposed
+SRO”). Plaintiffs request this emergency relief in order to preserve the status quo; to prevent the
+dissipation of any assets and ensure that any future equitable relief obtained by Plaintiffs,
+including any restitution to the victims of Defendants’ fraudulent scheme, can be effective; and
+to determine the full scope of the fraudulent scheme, identify the victims of the scheme, and
+locate the remaining assets of Defendants and Relief Defendant. Additionally, Plaintiff requests
+expedited discovery in accordance with FRCP 26(d).
+
+The Court has considered the pleadings, declarations, exhibits, and memorandum filed in
+support of the CFTC and the States’ motion, and finds that:
+1. This Court has jurisdiction over the parties and over the subject matter of this action
+pursuant to 28 U.S.C. § 1331 (2018) (federal question jurisdiction) and 28 U.S.C. § 1345 (2018)
+(district courts have original jurisdiction over civil actions commenced by the United States or by
+any agency expressly authorized to sue by Act of Congress), as well as 28 U.S.C. § 1367(a)
+(supplemental jurisdiction over claims under the laws of the States).
+2. This Court has subject matter jurisdiction over this action under 28 U.S.C. § 1331 (2018)
+(federal question jurisdiction) and 28 U.S.C. § 1345 (2018) (district courts have original
+jurisdiction over civil actions commenced by the United States or by any agency expressly
+authorized to sue by Act of Congress).
+3. Section 6c(a) of the CEA, 7 U.S.C. § 13a-1(a) (2018), authorizes the CFTC to seek
+injunctive and other relief against any person whenever it appears to the CFTC that such person
+has engaged, is engaging, or is about to engage in any act or practice constituting a violation of
+any provision of the CEA or any rule, regulation, or order thereunder.
+
+4. Section 6d(1) of the CEA, 7 U.S.C. § 13a-2(1) (2018), authorizes the States to bring a
+SONOMA OG GbeN OE RE an
+ODN E & AE AL IMs
+Naat Hae SR a
+
+a os gt Ay TR 2.
+Pye TS TE RY eee SATS
+
+ee Oe ae oe ed a :
+wt CAI wd PL OAS
+
+ree
+on
+
+suit in the district courts of the United States to seek injunctive and other relief against any
+person whenever it appears to the Attorney General and/or Securities Administrator of a State, or
+such other official that a State may designate, that the interests of the residents of the State have
+been, are being, or may be threatened or adversely affected because of violations of the CEA or
+CFTC Regulations.
+
+5. Venue lies properly in this District pursuant to Section 6c(e) of the CEA, 7 U.S.C. § 13a-
+1(e) (2018), because Defendants transacted business in this District, and certain of the acts and
+practices in violation of the CEA, the CFTC Regulations, and State laws occurred, are occurring,
+or are about to occur within this District, among other places. Venue also lies properly in this
+District pursuant to 17 U.S.C. § 1391(b)(2) because a substantial part of the events or omissions
+giving rise to the Plaintiffs’ claims occurred in this District.
+
+6. The CFTC and the States have made a proper prima facie showing that from at least
+September 1, 2017 through the present (“Relevant Period”), Defendants TMTE, Inc., d/b/a
+Metals.com, Chase Metals, LLC, Chase Metals, Inc., (collectively “Metals”), Barrick Capital,
+Inc. (“Barrick”) and their principals, Lucas Asher a/k/a Lucas Thomas Erb a/k/a Luke Asher
+(“Asher”), and Simon Batashvili (“Batashvili”) (collectively “Defendants”) have engaged and
+continue to engage in a fraudulent scheme to defraud at least 1,600 persons throughout the
+United States into purchasing gold and silver bullion (“Precious Metals Bullion”). Metals and
+Barrick are a common enterprise. Batashvili and Asher were controlling persons of Metals and
+Barrick and used both Metals and Barrick to perpetuate the fraudulent scheme. Defendants
+targeted a vulnerable population of mostly elderly or retirement-aged persons with little
+experience in Precious Metals Bullion. By making material misrepresentations and omissions,
+
+Defendants deceived investors into purchasing Precious Metals Bullion at prices averaging from
+SONOMA OG GbeN OE RE an
+ODN E & AE AL IMs
+Naat Hae SR a
+
+Fane eRe ok “see Sf gos ra }
+o~ Bet OPT aa PON Feb 8 tet oe
+Leos Ga. cer Se
+
+ee
+re
+Sead
+
+100% to over 200% over the base melt value or spot price of the Precious Metals Bullion
+(“Prevailing Market Price”). Defendants directed investors to purchase specific Precious Metals
+Bullion at grossly inflated prices that bore no relationship to the Prevailing Market Price.
+Defendants did not disclose the actual value of the Fraudulently Priced Precious Metals Bullion
+and instead provided investors with invoices showing exorbitant and unreasonable prices.
+Defendants falsely represented that Fraudulently Priced Precious Metals Bullion were a safe and
+conservative investment and that investors would not lose their funds. Contrary to these
+representations, Defendants failed to disclose to investors that the undisclosed, excessive, and
+unreasonable charges of Fraudulently Priced Precious Metals Bullion resulted in investors
+sustaining substantial losses on the purchase of Precious Metals Bullion from Defendants.
+
+7. Therefore, there is good cause to believe that Defendants have engaged in, are engaging
+in, or are about to engage in a scheme to defraud investors in violation of Section 6(c) of the Act,
+7 U.S.C. § 9(1) (2018), Regulation 180.1(a)(1)-(3), 17 C.F.R. § 180.1(a)(1)-(3) (2019) and the
+laws of the States. Defendants also have engaged in, are engaging in, or are about the engage in
+violations of the laws of Plaintiffs State of Alabama, State of Alaska, State of California, State of
+Colorado, State of Florida, State of Georgia, Commonwealth of Kentucky, State of Maryland,
+State of South Carolina, and State of Texas as specifically alleged in the Complaint.
+
+8. There is also good cause to believe that Relief Defendant Tower Equity, LLC, (“Tower”)
+has received, is receiving, or is about to receive funds, assets or other property as a result of
+Defendants’ violative acts and practices and has been unjustifiably enriched thereby. The Relief
+Defendant does not have any legitimate interest or entitlement to these funds, assets or other
+property (“assets”) received as a result of Defendants’ violative conduct.
+
+9. There is also good cause to believe that immediate and irreparable damage to the Court’s
+PN no en TE TET a
+PS ey geen TEETER ee FAO
+
+pee ne a ee Oe ee Se
+wt TRI wd PO AAS
+
+NER ACN GT wk AE Pw em
+SOTA SSE AP Eos
+oat atk RP Rn Ran? ha EB J
+
+ability to grant effective final relief for investors in the Fraudulently Priced Precious Metals
+Bullion in the form of monetary redress will occur from the withdrawal, transfer, removal,
+dissipation, or other disposition of assets, and/or the destruction, alteration, or disposition of
+books and records and other documents pertaining to the business activities and business and
+personal finances by Defendants and Relief Defendant, unless Defendants and Relief Defendant
+are immediately restrained and enjoined by Order of the Court.
+
+10. Therefore, there is good cause for the Court to freeze assets owned, controlled, managed
+or held by Defendants and Relief Defendant, or in which they have any beneficial interest.
+
+11. There is also good cause for the Court to prohibit Defendants and Relief Defendant from
+destroying, altering or disposing of records, and/or denying representatives of the CFTC and the
+States access to inspect records, when and as requested, to ensure that CFTC and State
+representatives have immediate and complete access to those records.
+
+12. There is also good cause for the appointment of a Temporary Receiver to take control of
+all assets owned, controlled, managed, or held by Defendants and Relief Defendant or in which
+they have any beneficial interest (“Defendants’ Assets” and “Relief Defendants’ Assets”), so that
+the Temporary Receiver may preserve assets, investigate and determine investor claims,
+determine unlawful proceeds retained by Defendants and Relief Defendant and amounts due to
+investors as aresult of Defendants’ alleged violations, and distribute funds to investors harmed
+by Defendants’ alleged misconduct under the Court’s supervision.
+
+13. There is also good cause to order Defendants to repatriate funds, assets or other property
+controlled by Defendants so that such assets can be controlled by the Temporary Receiver and to
+assure payment of restitution and disgorgement as authorized by the Court.
+
+14. In summary, this is a proper case for granting a restraining order ex parte: (1) prohibiting
+Defendants and Relief Defendant from transferring, removing, dissipating assets, or otherwise
+disposing of any asset, (2) allowing inspection and copying of records by the CFTC and States,
+and (3) appointing a temporary receiver because the CFTC and the States are likely to succeed
+on the merits of their claims against Defendants. Moreover, there is reasonable likelihood that
+Defendant(s) may transfer or dissipate assets or destroy or alter records. Therefore, the Court
+orders the following.
+
+DEFINITIONS
+For purposes of this Order, the following definitions apply:
+15. The term “assets” encompasses any legal or equitable interest in, right to, or claim to, any
+real or personal property, whether individually or jointly, directly or indirectly controlled, and
+wherever located, including but not limited to: chattels, goods, instruments, equipment, fixtures,
+general intangibles, effects, leaseholds mail or other deliveries, inventory, checks, notes,
+accounts (including, but not limited to, bank accounts and accounts at other financial
+institutions), credits, receivables, lines of credit, contracts (including spot, futures, options, or
+swaps contracts), insurance policies, and all funds, wherever located, whether in the United
+States or outside the United States.
+16. The term “record” encompasses the terms “document” and “electronically stored
+information” as those terms are used in Fed. R. Civ. P. 34(a), and includes, but are not limited to,
+all writings, graphs, charts, photographs, sound recordings, images, and other data or other data
+compilations—stored in any medium from which information can be obtained or translated, if
+necessary, into reasonable usable form. The term “record” also refers fo each and every such
+item in Defendants’ and Rebef Defendants’ actual or constructive possession, including but not
+
+limited to: () all such items within the custody or control of any agents, employers, employees,
+FIOQTALL EQ AP ems
+Ran? Ba PE J
+
+os on 4 SOS os sf
+PS ey ges 3.79 PR ae 8 }
+ee Oe ae oe ed a
+wt CAI wd PL OAS
+
+or partners of the Defendants and Rehef Defendant; and (i) all items which Defendants and
+Relief Defendant have a legal or equitable right to obtain from another person. A draft or non-
+identical copy is a separate item within the meaning of the term. Records also include the file
+and folder tabs associated with each original and copy.
+17. The term “Defendants” refers to TMTE, Inc., d/b/a Metals.com, Chase Metals, LLC,
+Chase Metals, Inc., Barrick Capital, Inc. and their principals, Lucas Asher a/k/a Lucas Thomas
+Erb a/k/a Luke Asher, and Simon Batashvill.
+18. “Relief Defendant” refers to Tower Equity, LLC.
+
+RELIEF GRANTED
+IT IS HEREBY ORDERED that:
+
+I. Asset Freeze Order Prohibiting the Withdrawal, Transfer, Removal, Dissipation, and
+Disposal of Assets
+
+19. Defendants and Relief Defendant are immediately restrained and enjoined, except as
+otherwise ordered by this Court, from directly or indirectly withdrawing, transferring, removing,
+dissipating, or otherwise disposing of any assets, wherever located, including Defendants’ and
+Relief Defendant’s assets held outside the United States, except as provided otherwise in
+Sections IV, V, and VI of this Order, or as otherwise ordered by the Court;
+
+20. Notwithstanding the provisions of this Section I, at the request of the Temporary
+Receiver, Defendants and Relief Defendant and any other person who has possession, custody,
+or control of any of Defendants’ or Relief Defendant’s assets shall transfer possession of all
+funds, assets or other property subject to this Order to the Temporary Receiver in accordance
+with Section IV, V and VI of this Order.
+
+21. The assets affected by this Order shall include existing assets as well as assets acquired
+
+after the effective date of this Order.
+II. Maintenance of and Access to All Records That Relate to the Business Activities and
+Business and Personal Finances
+
+22. Defendants and Relief Defendant are restrained from directly or indirectly destroying,
+altering, or disposing of, in any manner, any records that relate or refer to the business activities
+or business or personal finances of any Defendant or Relief Defendant.
+23. Representatives of the CFTC and the States shall be immediately allowed to inspect any
+records relating or referring to the business activities or business or personal finances of the
+Defendants and Relief Defendant, including, but not limited to, both hard-copy documents and
+electronically stored information, wherever they may be situated and whether they are in the
+possession of the Defendants, or Relief Defendant, or others. To ensure preservation and
+facilitate meaningful inspection and review of records, Defendants and Relief Defendant shall
+allow representatives of the CFTC and the States to make copies of any records, and if on-site
+copying of records is not practicable, representatives may make such copies off-site. The CFTC
+and the States shall promptly return the original records after any such off-site copying.
+24. — To further facilitate meaningful inspection and review, Defendants and Relief Defendant
+shall, absent a valid assertion of their rights against self-incrimination under the Fifth
+Amendment, promptly provide CFTC and States staff with:
+a. the location of all records relating or referring to the business activities and
+business and personal finances of Defendants and Relief Defendant; and
+b. all identification numbers and other identifying information for websites, cloud
+storage services, email and smartphone accounts, and all accounts at any bank,
+financial institution, or brokerage firm (including any introducing broker or
+futures commission merchant) owned, controlled or operated by Defendants or
+
+Relief Defendant, or to which Defendants and Relief Defendant have access; and
+
+10
+Poy eey oTDs
+
+“ z :
+seme OE bs
+tat CARS ad &
+
+c. all passwords to, and the location, make and model of, all computers and/or
+mobile electronic devices owned and/or used by Defendants or Relief Defendant
+in connection with their business activities and business and personal finances.
+
+25. | When inspecting records that are subject to this Order, including those contained on
+computers and/or other electronic devices, the CFTC and the States should undertake reasonable
+measures to prevent review of the Defendants’ or Relief Defendant’s privileged communications
+and/or other nonbusiness, nonfinancial materials by the CFTC’s and the States’ attorneys and
+other staff who are part of the litigation team in this matter. Moreover, Defendants and Relief
+Defendant (or their counsel) shall promptly contact counsel for the CFTC or the States to assert
+any claims of privilege (or other legal objections) relating to the contents of any records that are
+subject to this Order and promptly cooperate with counsel for the CFTC or the States to develop
+reasonable protocols to isolate and prevent disclosure of claimed privileged and/or other
+nonbusiness, nonfinancial materials to the CFTC’s or the States’ attorneys and other staff who
+are part of the litigation team in this matter. However, nothing herein shall excuse Defendants or
+Relief Defendant from full and immediate compliance with this Court’s Order permitting the
+CFTC and the States to inspect the records which relate to Defendants’ or Relief Defendant’s
+business activities and their business and personal finances.
+
+III. Notice to Financial Institutions and Others that Hold or Control Assets or Records
+of Defendants and Relief Defendants
+
+26. To ensure the effectiveness of the asset freeze and pending further Order of this Court,
+any financial or brokerage institution, business entity, or person that receives actual notice of this
+Order and holds, controls, or maintains custody of any assets of Defendants or Relief Defendant
+shall not, in active concert or participation with Defendants or Relief Defendant, permit
+
+Defendants or Relief Defendant or other persons to withdraw, transfer, remove, dissipate, or
+
+1]
+otherwise dispose of any of Defendants’ or Relief Defendant’s assets, except as directed by
+further order of the Court; and
+
+27. Any financial or brokerage institution, business entity, or person that receives notice of
+this Order by personal service or otherwise shall not, in active concert or participation with any
+Defendants or Relief Defendant directly or indirectly destroy, alter, or dispose of, in any manner,
+any Records relating to the business activities and business and personal finances of any
+Defendant or Relief Defendant.
+
+28. Furthermore, any such financial or brokerage institution, business entity, or person that
+receives actual notice of this Order and holds, controls, or maintains custody of any account or
+assets, titled in the name of, held for the benefit of, or otherwise under the control of any
+Defendants or Relief Defendant, or has held, controlled, or maintained custody of any such asset,
+of any Defendants or Relief Defendant at any time since September 1, 2017, shall not, in active
+concert or participation with Defendants or Relief Defendant, deny a request by the CFTC or the
+States to inspect all records pertaining to any account or asset owned, controlled, managed, or
+held by, on behalf of, or for the benefit of Defendants or Relief Defendant, including, but not
+limited to, originals or copies of account applications, account statements, signature cards,
+checks, drafts, deposit tickets, transfers to and from the accounts, all other debit and credit
+instruments or slips, currency transaction reports, 1099 forms, and safe deposit box logs. As an
+alternative to allowing inspection of records, a financial or brokerage institution, business entity
+or other person may provide copies of records requested by the CFTC or the States.
+
+29. Furthermore, any such financial or brokerage institution, business entity, or person that
+
+receives actual notice of this Order shall:
+
+12
+a. Within ten business days of a request by the Temporary Receiver, or such longer
+period specified by the Temporary Receiver, provide the Temporary Receiver
+with copies of all records pertaining to any account or asset owned, controlled,
+managed, or held by, on behalf of, or for the benefit of Defendants or Relief
+Defendant, either individually or jointly, including, but not limited to, originals or
+copies of account applications, account statements, signature cards, checks, drafts,
+deposit tickets, transfers to and from the accounts, all other debit and credit
+instruments or slips, currency transaction reports, 1099 forms, and safe deposit
+box logs; and
+
+b. Cooperate with all reasonable requests of the Temporary Receiver relating to
+implementation of this Order, including transferring Defendants’ or Relief
+Defendant’s assets, at the Temporary Receiver’s direction, and producing Records
+related to business activities or business or personal finances of Defendants or
+Relief Defendant to the Temporary Receiver.
+IV. Order Appointing Temporary Receiver
+30. Kelly Crawford is appointed Temporary Receiver with the full powers of an equity
+receiver for Defendants and Relief Defendant and their affiliates or subsidiaries owned or
+controlled by Defendants or Relief Defendant (hereinafter referred to as the “Receivership
+Defendants”), and of all records, and all funds, properties, premises, accounts, income, now or
+hereafter due or owing to the Receivership Defendants, and other assets directly or indirectly
+owned, beneficially or otherwise, by the Receivership Defendants, (hereinafter, the
+“Receivership Estate”). The Temporary Receiver shall be the agent of this Court in acting as
+
+Temporary Receiver under this Order.
+
+13
+ 
+
+The Temporary Receiver is directed and authorized to accomplish the following:
+
+a. Assume full control of the Receivership Defendants by removing Asher or
+
+Batashvili, and any officer, independent contractor, employee, or agent of the
+Receivership Defendants, from control and management of the affairs of the
+Receivership Defendants as the Temporary Receiver deems appropriate;
+
+Take exclusive custody, control, and possession of the Receivership Estate, which
+includes but is not limited to complete authority to sue for, collect, receive, and take
+possession of all goods, chattels, rights, credits, money, effects, land, leases, books,
+records, work papers, and records of accounts, including electronically-stored
+information, contracts, financial records, funds on hand in banks and other financial
+institutions, and other papers and records of the Receivership Defendants and
+customers or clients of any of Receivership Defendants’ business activities whose
+interests are now held by, or under the direction, possession, custody, or control of,
+the Receivership Defendants;
+
+Take exclusive custody, control, and possession of all websites, cloud storage
+services, email, and smartphone accounts, and all accounts at any bank, financial
+institution, or brokerage firm (including any introducing broker or futures
+commission merchant) controlled or operated by or to which any of the Defendants
+or Relief Defendant have access in connection with their business activities and
+business and personal finances.
+
+Take all steps necessary to secure the business and other premises under the control
+of the Receivership Defendants, including but not limited to the premises of the
+
+Defendants.
+
+14
+C.
+
+ 
+
+Perform all acts necessary, including the suspension of operations, to conserve,
+hold, manage, and preserve the value of the Receivership Estate in order to prevent
+irreparable loss, damage, or injury to investors in any investment opportunity
+operated by any Receivership Defendants.
+
+Prevent the withdrawal or misapplication of the assets of the Receivership Estate
+and otherwise protect the interests of investors in any investment opportunity
+operated by any Receivership Defendant;
+
+Manage and administer the Receivership Defendants and the Receivership Estate by
+performing all acts incidental thereto that the Temporary Receiver deems
+appropriate, including hiring or dismissing any and all personnel, suspending
+operations, and/or entering into agreements, including but not limited to: (1) the
+retention and employment of investigators, attorneys, or accountants, appraisers,
+and other independent contractors and technical specialists of the Temporary
+Receiver’s choice, including without limitation members and employees of the
+Temporary Receiver’s firm, to assist, advise, and represent the Temporary
+Receiver; and (2) the movement and storage of any equipment, furniture, records,
+files, or other physical property of the Receivership Defendants;
+
+Collect all funds owed to the Receivership Defendants;
+
+Initiate, defend, compromise, adjust, intervene in, dispose of, or become a party to
+any actions or proceedings in state, federal, or foreign court that the Temporary
+Receiver deems necessary and advisable to preserve or increase the value of the
+assets of the Receivership Estate or that the Temporary Receiver deems necessary
+
+and advisable to carry out the Temporary Receiver’s mandate under this Order;
+
+15
+Issue subpoenas to obtain records pertaining to the Receivership and conduct
+discovery in this action on behalf of the Receivership Estate;
+
+Open one or more bank accounts and deposit all funds of the Receivership Estate in
+such designated accounts and make all payments and disbursements from the
+Receivership Estate from such accounts;
+
+Make payments and disbursements from the Receivership Estate that are necessary
+or advisable for carrying out the directions of, or exercising the authority granted
+by, this Order, provided that the Temporary Receiver shall apply to the Court for
+prior approval of any payment of any debt or obligation incurred by the
+Receivership Defendants prior to the date of entry of this Order, except for
+payments that the Temporary Receiver deems necessary or advisable to secure the
+
+Receivership Estate from immediate and irreparable loss; and
+
+. Maintain written accounts itemizing receipts and expenditures, describing
+
+properties held or managed, and naming the depositories holding funds or other
+assets of the Receivership Estate; make such written accounts and supporting
+documentation available to the CFTC and the States for inspection; and, within
+sixty days of being appointed and periodically thereafter, as directed by the Court,
+file with the Court and serve on the parties a report summarizing efforts to marshal
+and collect assets, administer the Receivership Estate, and otherwise perform the
+duties mandated by this Order.
+
+Provide the CFTC and the States with a full accounting of all Defendants’ and
+Relief Defendant’s funds, documents, and assets, including those outside of the
+
+United States from September 1, 2017 to the date of the Order.
+
+16
+V. Transfer of Funds and Records to the Temporary Receiver
+32. Absent a valid assertion by Defendants or Relief Defendant of their respective rights
+against self-incrimination under the Fifth Amendment, each Defendant and Relief Defendant
+shall, within five business days following the service of this Order:
+
+a. Transfer to the territory of the United States and deliver to possession, custody, and
+control of the Temporary Receiver, all assets of the Receivership Estate (other than
+real property) and books and records of the Receivership Estate, located outside of
+the United States that are held by each and every Defendant and Relief Defendant,
+for their benefit, or under their direct or indirect control, whether jointly or singly.
+
+b. Provide the Temporary Receiver access to all records of the Receivership Estate
+and all assets of the Receivership Estate held by any financial or brokerage
+institution, business entity, or other person that receives actual notice of this Order
+by personal service or otherwise, located within or outside the territorial United
+States by signing any necessary consent forms.
+
+VI. ‘Turning Over Assets and Records to the Temporary Receiver
+
+33. Upon service of this Order, and absent a valid assertion by Defendants and Relief
+Defendant of their respective rights against self-incrimination under the Fifth Amendment,
+Defendants and Relief Defendant, and any agents, employees, or partners of the Defendants and
+Relief Defendant who are served with a copy of this Order, shall immediately or within such
+time as permitted by the Temporary Receiver in writing, deliver over to the Temporary Receiver:
+
+a. Possession and custody of all assets of the Receivership Estate, owned beneficially
+or otherwise, wherever situated;
+
+b. Possession and custody of all records of the Receivership Estate in connection with
+
+17
+VIL.
+
+34.
+
+ 
+
+their business activities and business and personal finances, including but not
+limited to, all records of accounts, all financial and accounting records, balance
+sheets, income statements, bank records (including monthly statements, canceled
+checks, records of wire transfers, and check registers); investor lists, title
+documents, and other records of the Receivership Defendants;
+
+Possession and custody of all assets belonging to members of the public now held
+by the Receivership Defendants;
+
+All keys, passwords, entry codes, and combinations to locks necessary to gain or to
+secure access to any of the assets or records of the Receivership Defendants related
+to their business activities and business and personal finances, including, but not
+limited to, access to the Receivership Defendants’ business premises, means of
+communication, accounts, computer systems, mobile electronic devices, or other
+property; and
+
+Information identifying the accounts, employees, properties, or other assets or
+
+obligations of the Receivership Defendants.
+
+Directive to Cooperate with Temporary Receiver
+
+Absent a valid assertion of their respective rights against self-incrimination under the
+
+Fifth Amendment, Defendants, Relief Defendant, and all other persons or entities served with a
+
+copy of this order shall cooperate fully with and assist the Temporary Receiver. This
+
+cooperation and assistance shall include, but not be limited to, providing any information to the
+
+Temporary Receiver that the Temporary Receiver deems necessary to exercising the authority as
+
+provided in this Order; providing any password required to access any computer or electronic
+
+files in any medium; and discharging the responsibilities of the Temporary Receiver under this
+
+18
+Order, and advising all persons who owe debts to the Receivership Defendants that all debts
+should be paid directly to the Temporary Receiver.
+
+VIII. Stay on Actions against the Receivership Defendants
+
+IT IS FURTHER ORDERED THAT:
+
+35. Except by leave of the Court, during the pendency of the receivership ordered herein,
+Defendants, Relief Defendant, and all other persons and entities shall be and hereby are stayed
+from taking any action to establish or enforce any claim, right, or interest for, against, on behalf
+of, in, or in the name of, the Receivership Defendants, the Temporary Receiver, assets of the
+Receivership Estate, or the Receiver’s duly authorized agents acting in their capacities as such,
+including but not limited to, the following actions:
+
+a. Petitioning, or assisting in the filing of a petition, that would cause the Receivership
+Defendants to be placed in bankruptcy;
+
+b. Commencing, prosecuting, litigating or enforcing any suit or proceeding against
+any of the Receivership Defendants, or any of their subsidiaries or affiliates, except
+that such actions may be filed to toll any applicable statute of limitations;
+
+c. Commencing, prosecuting, continuing, or entering any suit or proceeding in the
+name or on behalf of any of the Receivership Defendants, or any of their
+subsidiaries or affiliates;
+
+d. Accelerating the due date of any obligation or claimed obligation, enforcing any
+lien upon, or taking or attempting to take possession of, or retaining possession of,
+property of the Receivership Defendants, or any of their subsidiaries or affiliates, or
+any property claimed by any of them, or attempting to foreclose, forfeit, alter, or
+
+terminate any of the Receivership Defendants’ interests in property, including
+
+19
+ 
+
+without limitation, the establishment, granting, or perfection of any security
+interest, whether such acts are part of a judicial proceeding or otherwise;
+
+e. Using self-help or executing or issuing, or causing the execution or issuance of any
+court attachment, subpoena, replevin, execution or other process for the purpose of
+impounding or taking possession of or interfering with, or creating or enforcing a
+lien upon any property, wherever located, owned by or in the possession of the
+Receivership Defendants, or any of their subsidiaries or affiliates, or the Temporary
+Receiver, or any agent of the Temporary Receiver; and
+
+f. Doing any act or thing to interfere with the Temporary Receiver taking control,
+possession, or management of the property subject to the receivership, or to in any
+way interfere with the Temporary Receiver or to harass or interfere with the duties
+of the Temporary Receiver, or to interfere in any manner with the exclusive
+jurisdiction of this Court over the property and assets of the Receivership
+Defendants, or their subsidiaries or affiliates.
+
+Provided, however, that nothing in this section shall prohibit any federal or state law
+enforcement or regulatory authority from commencing or prosecuting an action against the
+Receivership Defendants.
+
+IX. Compensation for Temporary Receiver and Personnel Hired by the Temporary
+Receiver
+
+36. The Temporary Receiver and all personnel hired by the Temporary Receiver as herein
+authorized, including counsel to the Temporary Receiver, are entitled to reasonable
+compensation, to be paid solely from the assets of the Receivership estate, for the performance of
+duties pursuant to this Order and for the cost of actual out-of-pocket expenses incurred by them
+
+for those services authorized by this Order that when rendered were (1) reasonably likely to
+
+20
+benefit the receivership estate or (2) necessary to the administration of the estate. The
+Temporary Receiver and all personnel hired by the Temporary Receiver shall not be
+compensated or reimbursed by, or otherwise entitled to, any funds from the Court, the CFTC, or
+the States. The Temporary Receiver shall file with the Court and serve on the parties periodic
+requests for the payment of such reasonable compensation, with the first such request filed no
+more than sixty (60) days after the date of this Order and subsequent requests filed quarterly
+thereafter. The requests for compensation shall itemize the time and nature of services rendered
+by the Temporary Receiver and all personnel hired by the Temporary Receiver.
+
+X. Persons Bound by This Order
+37. This Order is binding on any person who receives actual notice of this Order by personal
+service or otherwise and is acting in the capacity of an officer, agent, servant, employee, or
+attorney of Defendants or Relief Defendant, or is in active concert or participation with the
+Defendants or Relief Defendant.
+XI. Bond Not Required of Plaintiffs or the Temporary Receiver
+38. As Plaintiffs CFTC and the States have made a proper showing under 7 U.S.C. §13a-1(b)
+and they are not required to post any bond in connection with this Order. The Temporary
+Receiver similarly is not required to post bond.
+
+XII. Service of Order and Assistance of U.S. Marshals Service and/or Other Law
+Enforcement Personnel
+
+39. Copies of this Order may be served by any means, including via email or facsimile
+transmission, upon any financial institution or other entity or person that may have possession,
+custody, or control of any records or assets of any Defendant or Relief Defendant, or that may be
+
+subject to any provision of this Order.
+
+21
+XIII. Staff of the CFTC and the States and Representatives of the United States Marshals
+Service are specially appointed by the Court to effect service.
+
+AO. The United States Marshals Service is authorized to: a) accompany and assist
+representatives of the CFTC and the States in the service and execution of the Summons,
+Complaint, and this Order on the Defendants and Relief Defendants, and b) help maintain lawful
+order while representatives of the CFTC and States inspect records as provided in this Order.
+XIV. Service on the CFTC and the States
+41. Defendants and Relief Defendants shall comply with all electronic filing rules and
+requirements of the U.S. District Court for the Northern District of Texas and shall serve all
+pleadings, correspondence, notices required by this Order, and other materials on the CFTC by
+delivering a copy to Richard Foelber, Chief, Office of Cooperative Enforcement, and JonMarc
+Buffa, Deputy Chief, Office of Cooperative Enforcement, Commodity Futures Trading
+Commission, 1155 21* Street, NW, Washington, DC 20581, by electronic filing, e-mail,
+personal delivery or courier service (such as Federal Express or United Parcel Service) and not
+by regular mail due to potential delay resulting from heightened security and decontamination
+
+procedures applicable to the CFTC’s regular mail.
+
+42. Defendants and Relief Defendants shall comply with all electronic filing rules and
+requirements of the U.S. District Court for the Northern District of Texas and shall serve all
+pleadings, correspondence, notices required by this Order, and other materials on the States by
+delivering a copy to the State attorneys identified in the Complaint by electronic filing, e-mail,
+
+personal delivery or courier service (such as Federal Express or United Parcel Service).
+
+XV. Hearing on Preliminary Injunction and Granting of Expedited Discovery
+
+43. Plaintiffs’ motion for a preliminary injunction and extending the appointment of the
+
+22
+Case 3:20-cv-02910-L *SEALED* Document 16 Filed 09/22/20 Page 23 of 23 PagelD 1898
+
+Temporary Receiver is set for hearing on the 6% day of October, 2020, at 10:00 am. before the
+Honorable Sam A. Lindsay, Courtroom 1546, at the United States Courthouse for the Northem
+District of Texas located at 1100 Commerce Street, Dallas Texas 75242. Should any party wish
+to file amemorandum of law or other papers conceming the issuance of a preliminary injunction
+against Defendants and Relief Defendant, such materials shall be filed, served and received by
+all parties at least two business days before the hearing ordered above.
+44, Plaintiffs’ additional Motion for Expedited Discovery is granted and in advance of this
+preliminary injunction hearing, the parties may conduct expedited discovery, and the prohibition
+upon discovery before the early meeting of counsel pursuant to FRCP 26(f), in accordance with
+FRCP 26(¢), is removed, Depositions of parties and non-parties may be taken subject to two
+calendar days’ notice pursuant to FRCP 30(a) and 45, that notice may be given personally, by
+facsimile, or by electronic mail, and, if necessary, any deposition may last more than seven
+hours
+
+XVL Force and Effect
+45. This Order shall remain in full force and effect until October 6, 2020 at 5:00 p.m., unless
+extended further by order of this Court pursuant to Fed. R, Civ. P, 65(b)(2), and this Court
+
+retains jurisdiction of this matter for all purposes
+
+SIGNED on this 22nd day of September, 2020.
+
+   
+
+DAVID C. GODB:
+UNITED STATES DISTRICT I
+
+23

@@ -1,5 +1,5 @@
 from cleantext import clean
-from document_processing import utils
+from legal_doc_processing import utils
 
 
 def clean_doc(file_text):

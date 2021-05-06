@@ -1,5 +1,5 @@
 import setuptools
-from document_processing.version import Version
+from legal_doc_processing.version import Version
 
 
 setuptools.setup(name='theolex-document-processing',
@@ -10,7 +10,7 @@ setuptools.setup(name='theolex-document-processing',
                  author_email='jawad@theolex.io',
                  url='http://theolex-document-processing',
                  packages=setuptools.find_packages(),
-                #  py_modules=['document_processing'],
+                #  py_modules=['legal_doc_processing'],
                  install_requires=[],
                  license='MIT License',
                  zip_safe=False,

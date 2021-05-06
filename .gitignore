@@ -20,6 +20,7 @@ lib
 lib64
 .cache
 venv
+env
 
 # Installer logs
 pip-log.txt

@@ -1,5 +1,7 @@
 #!/bin/bash
 
+pip install check-wheel-contents
+
 echo "----------- create package using wheel ------------"  
 python setup.py bdist_wheel
 echo "------------ package has been created -----------"

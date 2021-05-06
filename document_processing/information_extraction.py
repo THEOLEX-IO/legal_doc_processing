@@ -1,6 +1,5 @@
 import re
 
-
 def get_case(text):
     for line in text:
         if len(line) < 40:
@@ -15,3 +14,5 @@ def get_case(text):
             result = p.search(line.upper())
             if result:
                 return result.group(0).strip()
+
+

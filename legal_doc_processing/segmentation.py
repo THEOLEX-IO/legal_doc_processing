@@ -29,6 +29,6 @@ def clean_doc(file_text):
                 text = ""
             previous_line = line
             text = " ".join([text, str(line['text'])])
-        if len(clean_page):
+        if clean_page:
             pages.append(clean_page)
     return pages

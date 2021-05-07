@@ -26,6 +26,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        pip install codecov
     - name: Lint with flake8
       run: |
         # stop the build if there are Python syntax errors or undefined names
@@ -49,8 +50,10 @@ jobs:
         pip install setuptools wheel twine
     - name: Build and publish
       env:
-        TWINE_USERNAME: "khaled_ha"
+        TWINE_USERNAME: "tester001"
         TWINE_PASSWORD: "testpypi"
       run: |
-        python setup.py sdist bdist_wheel
+        codecov -t 73c14867-ea61-45c8-952d-b639910cd07a
+        bash <(curl -s https://codecov.io/bash) -t 73c14867-ea61-45c8-952d-b639910cd07a
+        python setup.py bdist_wheel
         twine upload dist/*

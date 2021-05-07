@@ -1,5 +1,5 @@
 from tests import *
-from document_processing import utils
+from legal_doc_processing import utils
 
 
 class TestTitle(unittest.TestCase):

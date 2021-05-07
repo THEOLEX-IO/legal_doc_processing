@@ -1,5 +1,5 @@
 from cleantext import clean
-from document_processing import utils
+from legal_doc_processing import utils
 
 
 def clean_doc(file_text):
@@ -29,6 +29,10 @@ def clean_doc(file_text):
                 text = ""
             previous_line = line
             text = " ".join([text, str(line['text'])])
-        if len(clean_page):
+        if clean_page:
             pages.append(clean_page)
     return pages
+
+    # generate documents with headers and paragraphs
+    def get_structured_document(file_text):
+        return file_text # [{"header": "INTRODUCTION", "content": "The Commodity Futures Trading Commission...","id":1},...]

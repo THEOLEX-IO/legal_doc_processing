@@ -1,4 +1,4 @@
-from document_processing.version import Version
+from legal_doc_processing.version import Version
 from tests import *
 from tests.helpers import *
 

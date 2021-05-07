@@ -8,10 +8,10 @@ python setup.py bdist_wheel
 echo "------------ package has been created -----------"
 
 echo '-------- check package healthy ------------'
-check-wheel-contents dist/theolex_document_processing*
+check-wheel-contents dist/legal_doc_processing*
 
 echo "json file presentation for the library"
-wheel2json dist/theolex_document_processing*
+wheel2json dist/legal_doc_processing*
 
 echo "--------- try pip install wheel file -----------"
-pip  install dist/theolex_document_processing*
+pip  install dist/legal_doc_processing*

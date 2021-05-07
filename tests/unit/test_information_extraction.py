@@ -1,5 +1,5 @@
 from tests import *
-from document_processing import information_extraction
+from legal_doc_processing import information_extraction
 
 
 class TestInformationExtraction(unittest.TestCase):

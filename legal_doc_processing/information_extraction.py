@@ -1,5 +1,6 @@
 import re
 
+
 def get_case(text):
     for line in text:
         if len(line) < 40:

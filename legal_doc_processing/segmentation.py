@@ -32,3 +32,7 @@ def clean_doc(file_text):
         if clean_page:
             pages.append(clean_page)
     return pages
+
+    # generate documents with headers and paragraphs
+    def get_structured_document(file_text):
+        return file_text # [{"header": "INTRODUCTION", "content": "The Commodity Futures Trading Commission...","id":1},...]

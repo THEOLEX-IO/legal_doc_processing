@@ -53,7 +53,5 @@ jobs:
         TWINE_USERNAME: "tester001"
         TWINE_PASSWORD: "testpypi"
       run: |
-        codecov -t 73c14867-ea61-45c8-952d-b639910cd07a
-        bash <(curl -s https://codecov.io/bash) -t 73c14867-ea61-45c8-952d-b639910cd07a
         python setup.py bdist_wheel
         twine upload dist/*

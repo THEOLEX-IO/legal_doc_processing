@@ -54,4 +54,4 @@ jobs:
         TWINE_PASSWORD: "testpypi"
       run: |
         python setup.py bdist_wheel
-        twine upload dist/*
+        twine upload --repository testpypi dist/*

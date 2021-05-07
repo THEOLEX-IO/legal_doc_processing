@@ -44,4 +44,5 @@ htmlcov
 # Pycharm
 .idea/
 
-
+#jupyter notebooks
+.ipynb_checkpoints/

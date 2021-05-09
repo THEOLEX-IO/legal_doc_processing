@@ -48,12 +48,12 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install setuptools wheel twine bumpversion
-    - name: Build and publish
-      env:
-        TWINE_USERNAME: tester001
-        TWINE_PASSWORD: testpypi
-      run: |
-        bumpversion  minor
-        python setup.py sdist bdist_wheel
-        twine check dist/*
-        twine upload --verbose --skip-existing --repository testpypi dist/*
+    # - name: Build and publish
+    #   env:
+    #     TWINE_USERNAME: tester001
+    #     TWINE_PASSWORD: testpypi
+    #   run: |
+    #     bumpversion  minor
+    #     python setup.py sdist bdist_wheel
+    #     twine check dist/*
+    #     twine upload --verbose --skip-existing --repository testpypi dist/*

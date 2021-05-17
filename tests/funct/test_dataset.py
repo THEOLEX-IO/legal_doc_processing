@@ -2,7 +2,8 @@ import os
 import json
 
 import pytest
-import pandas as pd
+
+from tests.funct.utils import make_features_dataframe, make_labels_dataframe
 
 
 class TestFeatures:
@@ -19,15 +20,7 @@ class TestFeatures:
     def test_make_features_dataframe(self, root="./tests/dataset/features"):
         """using various texts to make a dataframe """
 
-        data_list = []
-        for text in os.listdir(root):
-
-            with open(root + "/" + text, "r") as f:
-                data_list.append({"file_key": text, "text": f.read()})
-
-            df = pd.DataFrame(data_list)
-
-        return df
+        make_features_dataframe(root)
 
 
 class Testlabels:
@@ -45,13 +38,4 @@ class Testlabels:
     def test_make_labels_dataframe(self, root="./tests/dataset/labels"):
         """using various texts to make a dataframe """
 
-        data_list = []
-        for text in os.listdir(root):
-
-            with open(root + "/" + text, "r") as f:
-                txt = f.read()
-                data_list.append(json.loads(txt))
-
-            df = pd.DataFrame(data_list)
-
-        return df
+        make_labels_dataframe(root)

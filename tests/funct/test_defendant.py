@@ -8,6 +8,8 @@ from tests.funct.utils import (
     accuracy,
 )
 
+import legal_doc_processing as ldp
+
 
 class TestDefendant:
     """Test class for Defendant feature"""
@@ -20,8 +22,8 @@ class TestDefendant:
         y_test = make_labels_dataframe().defendant.values
 
         # make pred
-        y_pred = [
-            "",
-        ] * len(y_test)
+        predict = lambda txt: ldp.LegalDoc(txt).predict_defendant()
+        y_pred = [predict(txt) for txt in X_test.text.values]
 
+        # accuracy
         assert accuracy(y_test, y_pred) > threshold

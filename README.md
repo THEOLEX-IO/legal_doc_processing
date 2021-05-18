@@ -26,3 +26,23 @@ To see an html output of coverage open ```htmlcov/index.html``` after running th
 ## Pipe steps:  
 
 Cleaning and feature engineering --> segmentation --> classification --> information extraction
+
+
+## Usage:
+
+import legal_doc_processing as ldp
+
+### in case you have a text :
+lg = ldp.LegalDoc(your_text)
+
+### in case you have a filepath :
+lg = ldp.read_file(your_filepath)
+
+### make a prediction :
+case = lg.predict_case()
+
+### make all predictions
+preds = lg.predict_all()
+
+### after a predict_"feature" or after predict_all method you can find your predictions as attributes : 
+case = lg.case

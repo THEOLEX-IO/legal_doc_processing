@@ -59,14 +59,3 @@ class LegalDoc:
         """__str__ method """
 
         return "a LegalDoc Instance"
-
-
-def inline_test():
-
-    test_file_path = "data/order-vision-financial-markets-llc.txt"
-    lg = LegalDoc(test_file_path)
-
-    print(lg.case)
-    lg.predict_case()
-    print(lg.predict_case())
-    print(lg.predict_all())

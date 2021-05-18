@@ -25,4 +25,5 @@ class TestDefendant:
         predict = lambda txt: ldp.LegalDoc(txt).predict_defendant()
         y_pred = [predict(txt) for txt in X_test.text.values]
 
+        # accuracy
         assert accuracy(y_test, y_pred) > threshold

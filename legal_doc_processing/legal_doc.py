@@ -32,13 +32,13 @@ class LegalDoc:
     def predict_case(self) -> str:
         """predict case, update self.case attr and return the value"""
 
-        self.case = "None"
+        self.case = "-None-"
         return self.case
 
     def predict_defendant(self) -> str:
         """predict defendant, update self.defendant attr and return the value"""
 
-        self.defendant = "None"
+        self.defendant = "-None-"
         return self.defendant
 
     def predict_all(self) -> dict:
@@ -49,3 +49,24 @@ class LegalDoc:
         pred["defendant"] = self.predict_defendant()
 
         return pred
+
+    def __repr__(self):
+        """__repr__ method """
+
+        return "a LegalDoc Instance"
+
+    def __str__(self):
+        """__str__ method """
+
+        return "a LegalDoc Instance"
+
+
+def inline_test():
+
+    test_file_path = "data/order-vision-financial-markets-llc.txt"
+    lg = LegalDoc(test_file_path)
+
+    print(lg.case)
+    lg.predict_case()
+    print(lg.predict_case())
+    print(lg.predict_all())

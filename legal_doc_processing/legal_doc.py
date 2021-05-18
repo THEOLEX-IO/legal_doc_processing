@@ -4,10 +4,10 @@ import os
 class LegalDoc:
     """main legal doc class """
 
-    def __init__(self, file_path: str):
+    def __init__(self, text: str):
         """init method of the LegalDoc
         pos args :
-            file_path (str) : the complete file path of the txt document to read
+            text (str) : the complete text to proceed
         opt args :
             -
         raise :
@@ -15,10 +15,9 @@ class LegalDoc:
         return :
             a LegalDoc object"""
 
-        self.file_path = file_path
-
-        with open(file_path, "r") as f:
-            self.raw_text = f.read()
+        # raw text
+        self.file_path = None
+        self.raw_text = text
 
         # features
         self.case = None
@@ -59,3 +58,15 @@ class LegalDoc:
         """__str__ method """
 
         return "a LegalDoc Instance"
+
+
+def read_file(file_path: str):
+    """read a file and return a LegalDoc object """
+
+    with open(file_path, "r") as f:
+        text = f.read()
+
+    ld = LegalDoc(text)
+    ld.file_path = file_path
+
+    return ld

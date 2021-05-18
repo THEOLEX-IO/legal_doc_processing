@@ -4,6 +4,11 @@ import json
 import pandas as pd
 
 
+root_dir = "./tests/dataset/"
+features_root = root_dir + "features/"
+labels_root = root_dir + "labels/"
+
+
 def make_features_dataframe(root):
     """using all the text files considers as feature, read, build and return a pd.DataFrame object """
 

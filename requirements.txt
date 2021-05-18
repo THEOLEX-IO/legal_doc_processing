@@ -1,4 +1,0 @@
-pytest~=6.2.2
-pytest-cov
-setuptools~=54.1.2
-cleantext~=1.1.3

@@ -1,7 +1,27 @@
 import re
 
+# # root
+# root = os.getcwd()
+# print(root)
 
-def clean(text: str) -> tuple:
+# # file
+# file = "text/order-vision-financial-markets-llc.txt"
+# print(file)
+
+# # text_path
+# text_path = root + "/" + file
+# print(text_path)
+
+# # sanitary check
+# os.path.isfile(text_path)
+
+
+# # read file
+# with open(text_path) as f:
+#     file = f.read()
+
+
+def clean_spec_chars(text: str) -> tuple:
     """first text cleaning based on regex, just keep text not spec chars
     return tupple of text"""
 
@@ -16,7 +36,7 @@ def clean(text: str) -> tuple:
     return article_text, formatted_article_text
 
 
-def unicode_(text: str) -> str:
+def handle_encoding(text: str) -> str:
     """handle encoding problems and force ascii conversion ; return clean text """
 
     # encoding the text to ASCII format
@@ -57,7 +77,7 @@ def is_title(text: str, threshold=0.6) -> bool:
 
 
 def same_sentence(sent1: str, sent2: str, short_sentence_length: int = 50) -> bool:
-    # print(sent1,"\n",sent2)
+    """ """
 
     # TODO #
 
@@ -90,38 +110,11 @@ def same_sentence(sent1: str, sent2: str, short_sentence_length: int = 50) -> bo
 
 def clean_doc(file_text: str):
     """ """
-    pages = []
 
-    # split each page
-    for page in file_text.split("\x0c"):
+    # TODO #
 
-        # clen text
-        page_meta = [
-            {"text": clean(para, lower=False, no_line_breaks=True).replace("_", "")}
-            for para in page.split("\n")
-        ]
-        clean_page = []
-        previous_line = {}
-        text = ""
-        # add meta data
-        for line in page_meta:
-            line["is_section_num"] = is_section_num(line["text"])
-            line["is_title"] = is_title(line["text"])
-            line["ends_with_ponc"] = ends_with_ponc(line["text"])
-            line["is_alpha"] = sum(c.isalpha() for c in line["text"])
-            line["start_with_upper"] = start_with_upper(line["text"])
+    # ASK PRECISIONS
 
-            # not relevant line
-            if not line["is_alpha"]:
-                continue
+    # TODO #
 
-            if not same_sentence(previous_line, line):
-                if text:
-                    clean_page.append(text)
-                    text = ""
-
-            previous_line = line
-            text = " ".join([text, line["text"]])
-        if len(clean_page):
-            pages.append(clean_page)
-    return pages
+    return None

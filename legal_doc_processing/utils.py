@@ -1,25 +1,5 @@
 import re
 
-# # root
-# root = os.getcwd()
-# print(root)
-
-# # file
-# file = "text/order-vision-financial-markets-llc.txt"
-# print(file)
-
-# # text_path
-# text_path = root + "/" + file
-# print(text_path)
-
-# # sanitary check
-# os.path.isfile(text_path)
-
-
-# # read file
-# with open(text_path) as f:
-#     file = f.read()
-
 
 def clean_spec_chars(text: str) -> tuple:
     """first text cleaning based on regex, just keep text not spec chars

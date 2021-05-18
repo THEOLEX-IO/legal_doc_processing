@@ -8,8 +8,7 @@ from tests.funct.utils import (
     labels_root,
     accuracy,
 )
-
-from legal_doc_processing import LegalDoc
+import legal_doc_processing as ldp
 
 
 class TestLegalDoc:
@@ -23,7 +22,7 @@ class TestLegalDoc:
         file_path = features_root + file_name
 
         # init object
-        lg = LegalDoc(file_path)
+        lg = ldp.read_file(file_path)
 
         # case
         assert not lg.case

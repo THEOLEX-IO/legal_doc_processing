@@ -40,8 +40,8 @@ class LegalDoc:
     def predict_case(self) -> str:
         """predict case, update self.case attr and return the value"""
 
-        # self.case = infext.get_case(self.clean_text[1])
-        self.case = "-- NONE --"
+        self.case = infext.alex_get_case(self.article_text)
+
         return self.case
 
     def predict_defendant(self) -> str:

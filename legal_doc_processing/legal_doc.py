@@ -1,7 +1,7 @@
 import os
 
 
-from legal_doc_processing.utils import clean_doc
+from legal_doc_processing.utils import clean_spec_chars, clean_doc
 import legal_doc_processing.information_extraction as infext
 
 
@@ -22,6 +22,8 @@ class LegalDoc:
         # raw text
         self.file_path = None
         self.raw_text = text
+        self.article_text, self.formatted_article_text = clean_spec_chars(text)
+
         self.clean_text = None
 
         # features
@@ -45,7 +47,7 @@ class LegalDoc:
     def predict_defendant(self) -> str:
         """predict defendant, update self.defendant attr and return the value"""
 
-        self.defendant = infext.get_defendant(self.clean_text)
+        self.defendant = infext.get_defendant(self.formatted_article_text)
         return self.defendant
 
     def predict_all(self) -> dict:

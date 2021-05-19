@@ -5,14 +5,14 @@ from transformers import pipeline, AutoModelForTokenClassification, AutoTokenize
 
 from legal_doc_processing.utils import clean_doc
 
-nlp = spacy.load("en_core_web_sm")
+# nlp = spacy.load("en_core_web_sm")
 
 
-nlp = pipeline(
-    "question-answering",
-    model="distilbert-base-cased-distilled-squad",
-    tokenizer="distilbert-base-cased",
-)
+# nlp = pipeline(
+#     "question-answering",
+#     model="distilbert-base-cased-distilled-squad",
+#     tokenizer="distilbert-base-cased",
+# )
 
 
 def get_case(first_page):

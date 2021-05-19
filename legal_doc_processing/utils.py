@@ -7,6 +7,15 @@ def hello():
     return "world"
 
 
+def load_data(file_path: str) -> str:
+    """from file_path open read and return text; return text """
+
+    with open(file_path, "r") as f:
+        txt = f.read()
+
+    return txt
+
+
 def clean_spec_chars(text: str) -> tuple:
     """first text cleaning based on regex, just keep text not spec chars
     return tupple of text"""

@@ -1,5 +1,10 @@
 import re
 
+import spacy
+
+
+nlp = spacy.load("en_core_web_sm")
+
 
 def get_case(text):
     for line in text:
@@ -15,5 +20,3 @@ def get_case(text):
             result = p.search(line.upper())
             if result:
                 return result.group(0).strip()
-
-

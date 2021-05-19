@@ -72,45 +72,106 @@ def is_title(text: str, threshold=0.6) -> bool:
     return sum(uppers) / len(uppers) > threshold
 
 
-def same_sentence(sent1: str, sent2: str, short_sentence_length: int = 50) -> bool:
-    """ """
-
-    # TODO #
-
-    # ASK PRECISIONS
-
-    # TODO #
+def same_sentence(sent1, sent2):
+    # print(sent1,"\n",sent2)
 
     # sent empty
     if (not sent1) or (not sent1["text"]):
         return True
-
     # section number
     if sent1["is_section_num"]:
         return True
 
     # very short sentence
-    if len(sent1["text"]) < short_sentence_length:
+    if len(sent1["text"]) < 50:
         return False
 
     # ponctuation
     if sent1["ends_with_ponc"]:
         return False
 
-    # title
-    if sent1["is_title"] or sent2["is_title"]:
+    if sent1["is_title"]:
+        return False
+
+    if sent2["is_title"]:
         return False
 
     return True
 
 
-def clean_doc(file_text: str):
+def clean_doc(
+    file_text,
+):
     """ """
 
-    # TODO #
+    pages = []
+    for page in file_text.split("\x0c"):
+        # clen text
+        page_meta = [{"text": clean(para)} for para in page.split("\n")]
+        clean_page = []
+        previous_line = {}
+        text = ""
+        # add meta data
+        for line in page_meta:
+            line["is_section_num"] = is_section_num(str(line["text"]))
+            line["is_title"] = is_title(str(line["text"]))
+            line["ends_with_ponc"] = ends_with_ponc(str(line["text"]))
+            line["is_alpha"] = sum(c.isalpha() for c in str(line["text"]))
+            line["start_with_upper"] = start_with_upper(str(line["text"]))
 
-    # ASK PRECISIONS
+            # not relevant line
+            if not line["is_alpha"]:
+                continue
 
-    # TODO #
+            if not same_sentence(previous_line, line):
+                if text:
+                    clean_page.append(text)
+                    text = ""
 
-    return None
+            previous_line = line
+            text = " ".join([text, str(line["text"])])
+        if len(clean_page):
+            pages.append(clean_page)
+    return pages
+
+
+def get_structured_document(file):
+
+    text_structured = []
+    file_cleaned = clean_doc(file)
+    i = 0
+    for pages in file_cleaned:
+        text_ = {}
+        text_["content"] = pages
+        text_["id"] = i
+        if is_title(pages[0]):
+            text_["header"] = pages[0]
+
+        text_structured.append(text_)
+        i += 1
+
+    return text_structured
+
+
+def word_frequency(text):
+    word_frequencies = {}
+    for word in nltk.word_tokenize(text):
+        if word not in stopwords:
+            if word not in word_frequencies.keys():
+                word_frequencies[word] = 1
+            else:
+                word_frequencies[word] += 1
+    return word_frequencies
+
+
+def sentence_score(sentence_list, word_frequencies):
+    sentence_scores = {}
+    for sent in sentence_list:
+        for word in nltk.word_tokenize(sent.lower()):
+            if word in word_frequencies.keys():
+                if len(sent.split(" ")) < 30:
+                    if sent not in sentence_scores.keys():
+                        sentence_scores[sent] = word_frequencies[word]
+                    else:
+                        sentence_scores[sent] += word_frequencies[word]
+    return sentence_scores

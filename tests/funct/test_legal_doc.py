@@ -44,22 +44,3 @@ class TestLegalDoc:
         assert pred
         assert isinstance(pred, dict)
         assert ("case" in pred.keys()) and ("defendant" in pred.keys())
-
-
-def test_defendant():
-    """force a prediction """
-
-    # file path
-    file_name = os.listdir(features_root)[0]
-    file_path = features_root + file_name
-
-    # init object
-    ld = ldp.read_file(file_path)
-
-    # clean
-    # ld.clean()
-
-    # pred
-    pred = ld.predict_defendant()
-
-    return pred

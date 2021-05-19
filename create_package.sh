@@ -3,7 +3,7 @@
 pip install check-wheel-contents
 pip install wheel-inspect
 
-echo "----------- create package using wheel ------------"  
+echo "----------- create package using wheel -----------"  
 python setup.py sdist bdist_wheel
 echo "------------ package has been created -----------"
 

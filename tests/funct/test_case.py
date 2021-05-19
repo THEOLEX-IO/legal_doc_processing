@@ -30,15 +30,13 @@ class TestCase:
 
         # X_test and y_test
         X_test = make_features_dataframe()
-        # y_test = make_labels_dataframe().case.values
+        y_test = make_labels_dataframe().reference.values
 
+        # make pred
+        predict = lambda txt: ldp.LegalDoc(txt).predict_case()
         y_pred = [predict(txt) for txt in X_test.text.values]
 
-        # # make pred
-        # predict = lambda txt: ldp.LegalDoc(txt).predict_defendant()
-        # y_pred = [predict(txt) for txt in X_test.text.values]
+        test_vs_pred = list(zip(y_test, y_pred))
 
-        # test_vs_pred = list(zip(y_test, y_pred))
-
-        # # # accuracy
-        # # assert accuracy(y_test, y_pred) > threshold
+        # accuracy
+        assert accuracy(y_test, y_pred) > threshold

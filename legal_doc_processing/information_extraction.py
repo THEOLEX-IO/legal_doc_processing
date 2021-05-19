@@ -1,9 +1,16 @@
 import re
 
 import spacy
-
+from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
 
 nlp = spacy.load("en_core_web_sm")
+
+
+nlp = pipeline(
+    "question-answering",
+    model="distilbert-base-cased-distilled-squad",
+    tokenizer="distilbert-base-cased",
+)
 
 
 def get_case(text):

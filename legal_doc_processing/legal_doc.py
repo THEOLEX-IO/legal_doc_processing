@@ -28,7 +28,7 @@ class LegalDoc:
         self.case = None
         self.defendant = None
 
-    def clean(self) -> None:
+    def clean(self) -> str:
         """clean the text """
 
         self.clean_text = clean_doc(self.raw_text)
@@ -38,13 +38,14 @@ class LegalDoc:
     def predict_case(self) -> str:
         """predict case, update self.case attr and return the value"""
 
-        self.case = infext.get_case(self.clean_text[1])
+        # self.case = infext.get_case(self.clean_text[1])
+        self.case = "-- NONE --"
         return self.case
 
     def predict_defendant(self) -> str:
         """predict defendant, update self.defendant attr and return the value"""
 
-        self.defendant = "-None-"
+        self.defendant = infext.get_defendant(self.clean_text)
         return self.defendant
 
     def predict_all(self) -> dict:

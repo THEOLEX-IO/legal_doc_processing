@@ -1,6 +1,12 @@
 import re
 
 
+def hello():
+    """dummy  """
+
+    return "world"
+
+
 def clean_spec_chars(text: str) -> tuple:
     """first text cleaning based on regex, just keep text not spec chars
     return tupple of text"""

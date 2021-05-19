@@ -1,6 +1,10 @@
 import os
 
 
+from legal_doc_processing.utils import clean_doc
+import legal_doc_processing.information_extraction as infext
+
+
 class LegalDoc:
     """main legal doc class """
 
@@ -25,10 +29,6 @@ class LegalDoc:
 
     def clean(self) -> None:
         """clean the text """
-
-        # clean 1
-        # clean 2
-        # clean 3
 
         return None
 

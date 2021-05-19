@@ -25,6 +25,9 @@ class TestCase:
         # init object
         lg = ldp.read_file(file_path)
 
+        # predict
+        case = lg.predict_case()
+
     def test_case_accuracy(self, threshold: float = 0.90) -> None:
         """compute accuracy for case prediction; return None """
 

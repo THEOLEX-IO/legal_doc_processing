@@ -1,4 +1,10 @@
 import re
+import heapq
+
+import nltk
+
+
+stopwords = nltk.corpus.stopwords.words("english")
 
 
 def hello():

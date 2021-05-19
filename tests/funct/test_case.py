@@ -12,10 +12,10 @@ from tests.funct.utils import (
 import legal_doc_processing as ldp
 
 
-class TestDefendant:
-    """Test class for Defendant feature"""
+class TestCase:
+    """Test class for Case feature"""
 
-    def test_defendant_work(self):
+    def test_case_work(self):
         """just test predict defendant is ok """
 
         # file path
@@ -25,18 +25,21 @@ class TestDefendant:
         # init object
         lg = ldp.read_file(file_path)
 
-    def test_defendant_accuracy(self, threshold: float = 0.90) -> None:
-        """compute accuracy for defendant prediction; return None """
+        # predict
+        case = lg.predict_case()
+
+    def test_case_accuracy(self, threshold: float = 0.90) -> None:
+        """compute accuracy for case prediction; return None """
 
         # X_test and y_test
         X_test = make_features_dataframe()
-        y_test = make_labels_dataframe().defendant.values
+        y_test = make_labels_dataframe().reference.values
 
         # make pred
-        predict = lambda txt: ldp.LegalDoc(txt).predict_defendant()
+        predict = lambda txt: ldp.LegalDoc(txt).predict_case()
         y_pred = [predict(txt) for txt in X_test.text.values]
 
         test_vs_pred = list(zip(y_test, y_pred))
 
-        # # accuracy
-        # assert accuracy(y_test, y_pred) > threshold
+        # accuracy
+        assert accuracy(y_test, y_pred) > threshold

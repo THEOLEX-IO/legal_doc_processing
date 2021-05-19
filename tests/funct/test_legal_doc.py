@@ -10,6 +10,9 @@ from tests.funct.utils import (
 )
 import legal_doc_processing as ldp
 
+from legal_doc_processing.utils import clean_doc
+import legal_doc_processing.information_extraction as infext
+
 
 class TestLegalDoc:
     """test class for the LegalDoc object """

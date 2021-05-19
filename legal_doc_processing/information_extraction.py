@@ -24,7 +24,7 @@ def get_case(first_page):
                 return result.group(0).strip()
 
 
-def get_defendant(clean_text):
+def get_defendant(formatted_article_text):
 
     nlp = pipeline(
         "question-answering",
@@ -32,7 +32,7 @@ def get_defendant(clean_text):
         tokenizer="distilbert-base-cased",
     )
 
-    first_page = [text for text in clean_text[0] if len(text) > 5]
+    # first_page = [text for text in clean_text[0] if len(text) > 5]
 
     pred = nlp(question="Who is the defendant?", context=formatted_article_text, topk=2)
     return pred[0]["answer"]

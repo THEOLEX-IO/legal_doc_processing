@@ -10,6 +10,9 @@ from tests.funct.utils import (
 )
 import legal_doc_processing as ldp
 
+from legal_doc_processing.utils import clean_doc
+import legal_doc_processing.information_extraction as infext
+
 
 class TestLegalDoc:
     """test class for the LegalDoc object """
@@ -41,3 +44,15 @@ class TestLegalDoc:
         assert pred
         assert isinstance(pred, dict)
         assert ("case" in pred.keys()) and ("defendant" in pred.keys())
+
+
+def test_case():
+
+    file_name = os.listdir(features_root)[0]
+    file_path = features_root + file_name
+
+    # init object
+    lg = ldp.read_file(file_path)
+
+    # clean
+    lg.clean()

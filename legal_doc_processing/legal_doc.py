@@ -22,6 +22,7 @@ class LegalDoc:
         # raw text
         self.file_path = None
         self.raw_text = text
+        self.clean_text = None
 
         # features
         self.case = None
@@ -30,12 +31,14 @@ class LegalDoc:
     def clean(self) -> None:
         """clean the text """
 
-        return None
+        self.clean_text = clean_doc(self.raw_text)
+
+        return self.clean_text
 
     def predict_case(self) -> str:
         """predict case, update self.case attr and return the value"""
 
-        self.case = "-None-"
+        self.case = infext.get_case(self.clean_text[1])
         return self.case
 
     def predict_defendant(self) -> str:

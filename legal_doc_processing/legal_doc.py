@@ -26,6 +26,10 @@ class LegalDoc:
     def clean(self) -> None:
         """clean the text """
 
+        # clean 1
+        # clean 2
+        # clean 3
+
         return None
 
     def predict_case(self) -> str:

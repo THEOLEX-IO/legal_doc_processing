@@ -58,7 +58,7 @@ def ends_with_ponc(text: str, punctuation: str = "!.?") -> bool:
     return text[-1] in punctuation if text else False
 
 
-def start_with_upper(text: str) -> bool:
+def starts_with_upper(text: str) -> bool:
     """fist letter of a text is upper; return bool"""
 
     return text[0].upper() == text[0]
@@ -68,6 +68,7 @@ def is_title(text: str, threshold=0.6) -> bool:
     """detect if text is a title if threshold % of the letters are upper; return bool """
 
     uppers = [word.isupper() for word in text.split(" ")]
+
     return sum(uppers) / len(uppers) > threshold
 
 

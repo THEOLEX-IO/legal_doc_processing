@@ -52,7 +52,7 @@ def test_case():
     file_path = features_root + file_name
 
     # init object
-    lg = ldp.read_file(file_path)
+    ld = ldp.read_file(file_path)
 
     # clean
-    lg.clean()
+    ld.clean()

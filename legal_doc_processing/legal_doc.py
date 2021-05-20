@@ -44,7 +44,7 @@ class LegalDoc:
         # self.case = infext.alex_get_case(self.article_text)
 
         clean_pages = seg.clean_doc(self.raw_text)
-        self.case = infext.jawad_get_case(clean_pages[0])
+        self.case = infext.get_case(clean_pages[0])
 
         return self.case
 

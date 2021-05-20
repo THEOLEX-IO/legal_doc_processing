@@ -1,8 +1,9 @@
 import os
 
 
-from legal_doc_processing.utils import clean_spec_chars, clean_doc
+# from legal_doc_processing.utils import clean_spec_chars, clean_doc
 import legal_doc_processing.information_extraction as infext
+import legal_doc_processing.segmentation as seg
 
 
 class LegalDoc:
@@ -22,25 +23,28 @@ class LegalDoc:
         # raw text
         self.file_path = None
         self.raw_text = text
-        self.article_text, self.formatted_article_text = clean_spec_chars(text)
+        # self.article_text, self.formatted_article_text = clean_spec_chars(text)
 
-        self.clean_text = None
+        # self.clean_text = None
 
         # features
         self.case = None
         self.defendant = None
 
-    def clean(self) -> str:
-        """clean the text """
+    # def clean(self) -> str:
+    #     """clean the text """
 
-        self.clean_text = clean_doc(self.raw_text)
+    #     self.clean_text = clean_doc(self.raw_text)
 
-        return self.clean_text
+    #     return self.clean_text
 
     def predict_case(self) -> str:
         """predict case, update self.case attr and return the value"""
 
-        self.case = infext.alex_get_case(self.article_text)
+        # self.case = infext.alex_get_case(self.article_text)
+
+        clean_pages = seg.clean_doc(self.raw_text)
+        self.case = infext.jawad_get_case(clean_pages[0])
 
         return self.case
 
@@ -48,6 +52,11 @@ class LegalDoc:
         """predict defendant, update self.defendant attr and return the value"""
 
         self.defendant = infext.get_defendant(self.formatted_article_text)
+
+        self.defendant = "--NONE--"
+
+        # self.defendant = infext.get_defendant(self.formatted_article_text)
+
         return self.defendant
 
     def predict_all(self) -> dict:

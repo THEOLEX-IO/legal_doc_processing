@@ -36,6 +36,8 @@ def jawad_get_case(first_page):
             if result:
                 return result.group(0).strip()
 
+    return "-- error : case not founded --"
+
 
 # def get_defendant(formatted_article_text):
 

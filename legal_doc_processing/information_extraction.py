@@ -8,6 +8,9 @@ from legal_doc_processing.utils import clean_doc
 # nlp = spacy.load("en_core_web_sm")
 
 
+##  --> clean_doc --> 1st page --> get_case
+
+
 def alex_get_case(article_text: str) -> str:
     """extract the case from a text; return str """
 

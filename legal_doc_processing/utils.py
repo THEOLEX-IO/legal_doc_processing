@@ -9,10 +9,10 @@ from cleantext import clean
 stopwords = nltk.corpus.stopwords.words("english")
 
 
-# def hello():
-#     """dummy  """
+def hello():
+    """dummy  """
 
-#     return "world"
+    return "world"
 
 
 def load_data(file_path: str) -> str:

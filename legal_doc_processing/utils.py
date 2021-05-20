@@ -69,7 +69,7 @@ def ends_with_ponc(text: str, punctuation: str = "!.?") -> bool:
 def starts_with_upper(text: str) -> bool:
     """fist letter of a text is upper; return bool"""
 
-    return text[0].upper() == text[0]
+    return re.match("^[A-Z]", text) is not None
 
 
 def is_title(text: str, threshold=0.6) -> bool:

@@ -3,13 +3,6 @@ import re
 import spacy
 from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
 
-# from legal_doc_processing.utils import clean_doc
-
-# nlp = spacy.load("en_core_web_sm")
-
-
-##  --> clean_doc --> 1st page --> get_case
-
 
 def get_case(first_page):
     for line in first_page:

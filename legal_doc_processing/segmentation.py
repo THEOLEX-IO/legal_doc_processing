@@ -24,7 +24,7 @@ def clean_doc(file_text):
             line["is_title"] = utils.is_title(line["text"])
             line["ends_with_ponc"] = utils.ends_with_ponc(line["text"])
             line["is_alpha"] = sum(c.isalpha() for c in line["text"])
-            line["start_with_upper"] = utils.start_with_upper(line["text"])
+            line["start_with_upper"] = utils.starts_with_upper(line["text"])
             # not relevant line
             if not line["is_alpha"]:
                 continue

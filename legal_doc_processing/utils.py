@@ -3,6 +3,8 @@ import heapq
 
 import nltk
 
+from cleantext import clean
+
 
 stopwords = nltk.corpus.stopwords.words("english")
 

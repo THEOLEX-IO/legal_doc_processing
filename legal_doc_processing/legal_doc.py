@@ -51,7 +51,7 @@ class LegalDoc:
     def predict_defendant(self) -> str:
         """predict defendant, update self.defendant attr and return the value"""
 
-        self.defendant = infext.get_defendant(self.formatted_article_text)
+        # self.defendant = infext.get_defendant(self.formatted_article_text)
 
         self.defendant = "--NONE--"
 

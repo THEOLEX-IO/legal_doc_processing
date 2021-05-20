@@ -105,43 +105,35 @@ def same_sentence(sent1, sent2):
     return True
 
 
-def clean_doc(
-    file_text,
-):
-    """ """
-
+def clean_doc(file_text):
     pages = []
     for page in file_text.split("\x0c"):
-
         # clen text
-        page_meta = [{"text": clean_spec_chars(para)} for para in page.split("\n")]
+        page_meta = [
+            {"text": clean(para, lower=False, no_line_breaks=True).replace("_", "")}
+            for para in page.split("\n")
+        ]
         clean_page = []
         previous_line = {}
         text = ""
-
         # add meta data
         for line in page_meta:
-            line["is_section_num"] = is_section_num(str(line["text"]))
-            line["is_title"] = is_title(str(line["text"]))
-            line["ends_with_ponc"] = ends_with_ponc(str(line["text"]))
-            line["is_alpha"] = sum(c.isalpha() for c in str(line["text"]))
-            line["start_with_upper"] = starts_with_upper(str(line["text"]))
-
+            line["is_section_num"] = is_section_num(line["text"])
+            line["is_title"] = is_title(line["text"])
+            line["ends_with_ponc"] = ends_with_ponc(line["text"])
+            line["is_alpha"] = sum(c.isalpha() for c in line["text"])
+            line["start_with_upper"] = start_with_upper(line["text"])
             # not relevant line
             if not line["is_alpha"]:
                 continue
-
             if not same_sentence(previous_line, line):
                 if text:
                     clean_page.append(text)
                     text = ""
-
             previous_line = line
-            text = " ".join([text, str(line["text"])])
-
+            text = " ".join([text, line["text"]])
         if len(clean_page):
             pages.append(clean_page)
-
     return pages
 
 

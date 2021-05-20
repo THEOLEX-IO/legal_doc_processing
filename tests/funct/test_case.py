@@ -15,7 +15,7 @@ import legal_doc_processing as ldp
 class TestCase:
     """Test class for Case feature"""
 
-    def test_case_work(self):
+    def test_case_works(self):
         """just test predict defendant is ok """
 
         # file path
@@ -35,9 +35,13 @@ class TestCase:
         X_test = make_features_dataframe()
         y_test = make_labels_dataframe().reference.values
 
+        # better y_test
+        strip_lower = lambda i: str(i).strip().lower()
+        y_test = [strip_lower(i) for i in y_test]
+
         # make pred
         predict = lambda txt: ldp.LegalDoc(txt).predict_case()
-        y_pred = [predict(txt) for txt in X_test.text.values]
+        y_pred = [strip_lower(predict(txt)) for txt in X_test.text.values]
 
         test_vs_pred = list(zip(y_test, y_pred))
 

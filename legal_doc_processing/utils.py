@@ -147,24 +147,27 @@ def get_structured_document(file):
     continu=[]
     sec_num=0
     while sec_num < len(file_cleaned):
-        if is_title(file_cleaned[sec_num][0]):                      
+        if is_title(file_cleaned[sec_num][0]):
             continu.append(file_cleaned[sec_num]) 
             text_['hearder']=file_cleaned[sec_num][0]
             sec_num+=1
-            while not is_title(file_cleaned[sec_num][0]) and sec_num < (len(file_cleaned)-1) :
+            while not is_title(file_cleaned[sec_num][0]) and sec_num < (len(file_cleaned)) :
                       continu.append(file_cleaned[sec_num])
                       sec_num+=1
-            text_['content'] =continu
-            text_['id']=i
-            
+            if is_title(file_cleaned[sec_num][0]):
+                text_['content'] =continu
+                text_['id']=i
+                text_['hearder']=file_cleaned[sec_num][0]
+                sec_num+=1
+                continu=[]
+                i+=1
+            else:
+                text_['content'] =continu
+                text_['id']=i
+        
+        text_structured.append(text_)
 
-        else:
-            continu.append(file_cleaned[sec_num])
 
-    print(sec_num)
-    text_structured.append(text_)
-    
-                
     return text_structured      
 
 

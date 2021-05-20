@@ -3,7 +3,7 @@ import re
 import spacy
 from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
 
-from legal_doc_processing.utils import clean_doc
+# from legal_doc_processing.utils import clean_doc
 
 # nlp = spacy.load("en_core_web_sm")
 
@@ -37,15 +37,15 @@ def jawad_get_case(first_page):
                 return result.group(0).strip()
 
 
-def get_defendant(formatted_article_text):
+# def get_defendant(formatted_article_text):
 
-    nlp = pipeline(
-        "question-answering",
-        model="distilbert-base-cased-distilled-squad",
-        tokenizer="distilbert-base-cased",
-    )
+#     nlp = pipeline(
+#         "question-answering",
+#         model="distilbert-base-cased-distilled-squad",
+#         tokenizer="distilbert-base-cased",
+#     )
 
-    # first_page = [text for text in formatted_article_text[0] if len(text) > 5]
+#     # first_page = [text for text in formatted_article_text[0] if len(text) > 5]
 
-    pred = nlp(question="Who is the defendant?", context=formatted_article_text, topk=2)
-    return pred[0]["answer"]
+#     pred = nlp(question="Who is the defendant?", context=formatted_article_text, topk=2)
+#     return pred[0]["answer"]

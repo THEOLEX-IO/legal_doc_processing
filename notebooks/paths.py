@@ -1,5 +1,8 @@
 import os
 
+
+# ### 1.5 - paths
+
 one_file = "data/order-vision-financial-markets-llc.txt"
 one_file_path = os.getcwd() + "/" + one_file
 assert os.path.isfile(one_file_path)

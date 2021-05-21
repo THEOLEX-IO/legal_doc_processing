@@ -1,15 +1,27 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# ## 1 - Impots
+# --------------------
+
+
 import legal_doc_processing as ldp
 from legal_doc_processing.information_extraction import *
 from legal_doc_processing.segmentation import *
 from legal_doc_processing.utils import *
 
+from notebooks.packages import *
 from notebooks.paths import *
 
 
-# ## 2 - GET CASE
-# -------------------------------------
+# ## 2 - CASE
+# ----------------------------------
+#
 
-# ### 2.1 -  For One
+# ### 2.1 -  For one doc
+#
+#
+# from data
 
 
 # read file
@@ -31,8 +43,15 @@ case
 # ### 2.2 -  For all test doc
 
 
+# file_path
+folder = "tests/dataset/features"
+_files_path = os.getcwd() + "/" + folder
+files_path_list = [_files_path + "/" + filename for filename in os.listdir(_files_path)]
+files_path_list
+
+
 # read file
-raw_text_list = [load_data(file_path) for file_path in files_test_path_list]
+raw_text_list = [load_data(file_path) for file_path in files_path_list]
 raw_text_list[0]
 
 

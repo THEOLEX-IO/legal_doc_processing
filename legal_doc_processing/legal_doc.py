@@ -44,12 +44,20 @@ class LegalDoc:
 
         return self.defendant
 
+    def predict_violeted(self) -> str:
+        """predict violeted, update self.violeted attr and return the value"""
+
+        self.violeted = infext.get_violeted(self.clean_pages[0])
+
+        return self.violeted
+
     def predict_all(self) -> dict:
         """perform various prediction, udate each attr and return a dict off attrs:value """
 
         pred = {}
         pred["case"] = self.predict_case()
         pred["defendant"] = self.predict_defendant()
+        pred["violeted"] = self.predict_violeted()
 
         return pred
 

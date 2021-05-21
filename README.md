@@ -30,19 +30,27 @@ Cleaning and feature engineering --> segmentation --> classification --> informa
 
 ## Usage:
 
+
 ```import legal_doc_processing as ldp```
+
 
 ### in case you have a text :
 ```ld = ldp.LegalDoc(your_text)```
 
+
 ### in case you have a filepath :
 ```ld = ldp.read_file(your_filepath)```
+
 
 ### make a prediction :
 ```case = ld.predict_case()```
 
+```defendant = ld.defendant()```
+
+
 ### make all predictions
 ```preds = ld.predict_all()```
+
 
 ### after a predict_"feature" or after predict_all method you can find your predictions as attributes : 
 ```case = ld.case```

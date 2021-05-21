@@ -22,15 +22,46 @@ def get_case(first_page):
     return "-- error : case not founded --"
 
 
-# def get_defendant(formatted_article_text):
+def get_defendant(first_page):
 
-#     nlp = pipeline(
-#         "question-answering",
-#         model="distilbert-base-cased-distilled-squad",
-#         tokenizer="distilbert-base-cased",
-#     )
+    # Process whole documents
+    nlp = spacy.load("en_core_web_sm")
+    joined_first_page = "\n".join(first_page)
+    doc = nlp(joined_first_page)
 
-#     # first_page = [text for text in formatted_article_text[0] if len(text) > 5]
+    # Question answering pipeline, specifying the checkpoint identifier
+    nlpipe = pipeline(
+        "question-answering",
+        model="distilbert-base-cased-distilled-squad",
+        tokenizer="distilbert-base-cased",
+    )
 
-#     pred = nlp(question="Who is the defendant?", context=formatted_article_text, topk=2)
-#     return pred[0]["answer"]
+    first_page_100 = [text for text in first_page if len(text) > 100]
+
+    defendant_ans = nlpipe(
+        question="Who is the defendant?", context=".".join(first_page_100), topk=3
+    )
+    return defendant_ans[0]["answer"]
+
+
+def get_violeted(first_page):
+
+    # Process whole documents
+    nlp = spacy.load("en_core_web_sm")
+    joined_first_page = "\n".join(first_page)
+    doc = nlp(joined_first_page)
+
+    # Question answering pipeline, specifying the checkpoint identifier
+    nlpipe = pipeline(
+        "question-answering",
+        model="distilbert-base-cased-distilled-squad",
+        tokenizer="distilbert-base-cased",
+    )
+
+    first_page_100 = [text for text in first_page if len(text) > 100]
+
+    violeted_ans = nlpipe(
+        question="Who violeted?", context=".".join(first_page_100), topk=3
+    )
+
+    return violeted_ans[0]["answer"]

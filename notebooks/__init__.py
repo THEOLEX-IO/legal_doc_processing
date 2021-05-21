@@ -6,6 +6,6 @@ from notebooks.paths import *
 
 from notebooks.get_case import *
 
-from notebooks.get_defendant import *
+# from notebooks.get_defendant import *
 
-from notebooks.wtf import *
+# from notebooks.wtf import *

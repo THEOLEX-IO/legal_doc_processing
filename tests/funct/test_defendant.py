@@ -23,7 +23,7 @@ class TestDefendant:
         file_path = features_root + file_name
 
         # init object
-        lg = ldp.read_file(file_path)
+        ld = ldp.read_file(file_path)
 
     def test_defendant_accuracy(self, threshold: float = 0.90) -> None:
         """compute accuracy for defendant prediction; return None """

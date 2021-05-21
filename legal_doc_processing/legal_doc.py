@@ -72,6 +72,12 @@ class LegalDoc:
         return "a LegalDoc Instance"
 
 
+class LegalDocs:
+    """legalDocs of docs  """
+
+    pass
+
+
 def read_file(file_path: str):
     """read a file and return a LegalDoc object """
 
@@ -82,3 +88,9 @@ def read_file(file_path: str):
     ld.file_path = file_path
 
     return ld
+
+
+def read_files():
+    """LegalDocs object as a list of docs """
+
+    raise NotImplementedError

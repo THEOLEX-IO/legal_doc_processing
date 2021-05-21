@@ -24,7 +24,7 @@ class LegalDoc:
         self.raw_text = text
 
         # self.article_text, self.formatted_article_text = clean_spec_chars(text)
-        # self.clean_text = None
+        self.clean_pages = seg.clean_doc(text)
 
         # features
         self.case = None
@@ -33,15 +33,14 @@ class LegalDoc:
     def predict_case(self) -> str:
         """predict case, update self.case attr and return the value"""
 
-        clean_pages = seg.clean_doc(self.raw_text)
-        self.case = infext.get_case(clean_pages[0])
+        self.case = infext.get_case(self.clean_pages[0])
 
         return self.case
 
     def predict_defendant(self) -> str:
         """predict defendant, update self.defendant attr and return the value"""
 
-        self.defendant = "--NONE--"
+        self.defendant = infext.get_defendant(self.clean_pages[0])
 
         return self.defendant
 

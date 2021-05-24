@@ -1,0 +1,777 @@
+Case: 1:18-cv-00603 Document #: 1 Filed: 01/26/18 Page 1 of 19 PagelD #:1
+
+UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF ILLINOIS
+
+ 
+
+ 
+
+EASTERN DIVISION
+COMMODITY FUTURES
+TRADING COMMISSION
+Lo. CIVIL ACTION NO: 18-cv-00603
+
+Plaintiff,
+‘ Hon.
+JAMES VORLEY and CEDRIC CHANU,
+
+Defendants, JURY TRIAL DEMANDED
+
+ 
+
+ 
+
+COMPLAINT FOR INJUNCTIVE RELIEF, CIVIL MONETARY
+PENALTIES AND OTHER EQUITABLE RELIEF
+
+Plaintiff Commodity Futures Trading Commission (“CFTC”) alleges as follows:
+
+I. SUMMARY
+
+1. Beginning in at least May 2008 and continuing through at least July 2013 (the
+‘Relevant Period’), Defendants James Vorley (“Vorley”) and Cedric Chanu (“Chanu’’) engaged
+in a manipulative and deceptive scheme (the “Scheme’’) while placing orders and trading in the
+precious metals futures markets on a registered entity. Specifically, in furtherance of the
+Scheme, Vorley and Chanu repeatedly engaged in manipulative or deceptive acts and practices
+by “spoofing” (bidding or offering with the intent to cancel the bid or offer before execution).
+On numerous occasions, Vorley and/or Chanu placed orders for COMEX gold, silver, platinum
+or palladium futures contracts that they wanted to get filled (the “Genuine Order’) and entered
+orders for the same contract on the opposite side of the market that they intended to cancel
+
+before execution (the “Spoof Order’). In placing these Spoof Orders, Defendants Vorley and
+Chanu intentionally or recklessly sent false signals of increased supply or demand to trick market
+participants into executing against the orders Vorley and Chanu wanted to get filled.
+
+2. By virtue of this conduct, as further alleged herein, from approximately July 2011
+through at least July 2013, Defendants Vorley and Chanu engaged in acts and practices that
+violated Section 4c(a)(5)(C) of Commodity Exchange Act (“Act”), 7 U.S.C. § 6c(a)(5)(C)
+(2012).
+
+3. By virtue of this conduct, as further alleged herein, from approximately August
+2011 through at least July 2013, Defendants Vorley and Chanu engaged in acts and practices that
+violated Section 6(c)(1) of the Act, 7 U.S.C. § 9(1) (2012) and Commission Regulation
+(“Regulation”) 180.1(a)(1) and (3), 17 C.F.R. § 180.1(a)(1), (3) (2017).
+
+4. Plaintiff brings this action pursuant to Section 6c of the Act, 7 U.S.C. § 13a-1
+(2012), to enjoin Vorley’s and Chanu’s violative acts and practices and to compel Vorley’s and
+Chanu’s compliance with the Act. In addition, Plaintiff seeks civil monetary penalties and such
+other equitable relief, including but not limited to disgorgement, as this Court deems necessary
+and appropriate.
+
+If. JURISDICTION AND VENUE
+
+5. This Court has jurisdiction over this action under 28 U.S.C. § 1331 (federal
+question jurisdiction) and 28 U.S.C. § 1345, which provides that district courts have original
+jurisdiction over civil actions commenced by the United States or by any agency expressly
+authorized to sue by Act of Congress. Section 6c(a) of the Act, 7 U.S.C. § 13a-1(a) (2012),
+authorizes the Commission to seek injunctive relief against any person whenever it shall appear
+to the Commission that such person has engaged, is engaging, or is about to engage in any act or
+practice constituting a violation of any provision of the Act or any rule, regulation or order
+
+thereunder.
+Case: 1:18-cv-00603 Document #: 1 Filed: 01/26/18 Page 3 of 19 PagelD #:3
+
+6. Venue properly lies with this Court, pursuant to Section 6c(e) of the Act, 7 U.S.C.
+§ 13a-1(e) (2012), because Vorley and Chanu transacted business in this District, or the acts and
+practices in violation of the Act have occurred within this District. Venue is also proper pursuant
+to 28 U.S.C. § 1391(c)(3).
+
+Hil. PARTIES
+
+7. Plaintiff Commodity Futures Trading Commission is an independent federal
+regulatory agency that is charged by Congress with the administration and enforcement of the
+Act and Regulations promulgated thereunder.
+
+8. Defendant James Vorley was employed by Bank A as a trader from at least 2008
+to March 2015. For the duration of this time period, Vorley was employed as a trader on the
+precious metals desk in London at Bank A. Vorley has never been registered with the
+Commission. Vorley is a U.K. national domiciled in the U.K.
+
+9. Defendant Cedric Chanu was employed by Bank A as a trader from at least
+2008 to December 2013. From at least 2008 to May 2011, Chanu was employed as a trader on
+the precious metals desk in London at Bank A. In May 2011, Chanu moved to the precious
+metals desk in Singapore at Bank A, where he remained a trader until December 2013. Chanu
+
+has never been registered with the Commission. Chanu is a French national domiciled in the
+
+ 
+
+United Arab Emirates.
+IV. FACTS
+A. Market Fundamentals
+10. A Futures Contract is an agreement to purchase or sell a commodity for delivery
+
+or cash settlement in the future at a specified price. A futures contract traded on an exchange has
+
+standard, non-negotiable contract specifications.
+a a
+. nN rder, in the context of electronic excnange trading, 1s a request submitte
+
+to an exchange to buy (that is, “bid’’) or sell (that is, “offer” or “ask’’) a certain number of a
+specified futures contract. An order is for one or more contracts. Contracts may also be called
+“lots,” among other things. Orders are entered into the exchange’s Order Book. When one or
+more contracts in an order are bought or sold, that is a “fill” (or a “trade” or “execution’). At
+any time before the order is fully filled, the trader can “cancel” the order. When an order is
+cancelled, the contracts that have not yet been bought or sold are pulled from the Order Book.
+
+12. An “Iceberg Order” is a type of order that traders could place on an exchange. In
+an Iceberg Order, the total amount of the order was divided into a visible portion of a certain pre-
+set quantity that was visible to other market participants, and a portion of the order, 1.e. the
+remainder of the order, that was not. Whenever the visible portion of the order was filled, the
+same, pre-set quantity of the remaining, hidden portion automatically became visible; this
+process repeated until the entire order was either executed or cancelled.
+
+13. When a “buy” or “sell” order is submitted to an exchange’s electronic trading
+system, the order becomes part of the Order Book. In the Order Book, each trader can view the
+aggregate number of contracts that all traders are actively bidding or offering at a given price
+level. The best-bid level, or first-bid level, is the highest price at which someone is willing to
+buy. The best-ask level, or first-ask level, is the lowest price at which someone is willing to sell.
+The bid-ask spread is the difference between those two prices.
+
+14. Traders can view the aggregate contracts and orders up to the tenth-bid and tenth-
+ask levels. This combined bid and ask information is often referred to as the visible order book
+and represents the visible market depth. Traders often rely on information in the order book to
+
+make trading decisions.
+15. Order Book Balance refers to the numeric relationship between the number of
+pending visible contracts offered and the number of pending visible contracts bid. Many market
+participants rely on the information contained in the Order Book and consider it when making
+trading decisions. For instance, if the aggregate size and number of sell orders significantly
+outweighs the total aggregate size and number of buy orders, market participants may believe
+that the Order Book Balance indicates that supply is exceeding demand and a price drop is
+imminent. Accordingly, they may decide to place orders to sell.
+
+16. Commodity Exchange, Inc. (““COMEX”’) is a futures exchange located in New
+York, New York. COMEX is a designated contract market for trading futures and options under
+the Act. COMEX is owned and operated by CME Group, Inc. (“CME Group’), which is
+financial and commodity derivatives exchange based in Chicago, Illinois. CME Group’s
+COMEX lists for trading gold futures, silver futures and other precious metals contracts.
+
+17. | New York Mercantile Exchange (“NYMEX”’’) is a futures exchange located in
+New York, New York. NYMEX is a designated contract market for trading futures and options
+under the Act. NYMEX is owned and operated by CME Group. NYMEX lists for trading in
+platinum futures, palladium futures and other precious metals contracts.
+
+18. Globex is CME’s electronic trading system, located in the Northern District of
+Illinois.
+
+19. COMEX Gold Contract is regularly traded on Globex for delivery during the
+current calendar month, the next two calendar months, any February, April, August, and October
+falling within a 23-month period, and any June and December falling within a 72-month period
+beginning with the current month. One contract unit is equal to 100 troy ounces. The COMEX
+
+Gold Contract is generally referred to herein as “Gold Futures.”
+te?
+f
+2
+tae
+he
+on
+2
+Ni
+wv
+cea
+2
+vo
+ao
+ra
+nerd
+vet
+be
+oa
+6
+fs
+or
+a
+inet
+ot
+ve
++e)
+ape
+
+ry
+
+r
+
+pales
+on
+
+SY eE PRED Se Sa ed oleh ation aede ‘ :
+fen a ye Aye SSE ohke 4 gies? f} a, ‘
+> y > SO s a4 ethos tee s ee Phat ee tof ros
+PPO ed RPMS ER be PP, Gk PGMS Aa. AS ale
+
+20. COMEX Silver Contract is regularly traded on Globex for delivery during the
+current calendar month, the next two calendar months, any January, March, May, and September
+falling within a 23-month period, and any July and December falling within a 60-month period
+beginning with the current month. One contract unit is equal to 5,000 troy ounces. The COMEX
+Silver Contract is generally referred to herein as “Silver Futures.”
+
+21. NYMEX Platinum Contract is regularly traded on Globex for delivery during
+the current calendar month, the next two calendar months, and any March, June, September, and
+December within a 15-month period beginning with the current month. One contract unit is
+equal to 50 troy ounces. The NYMEX Platinum Contract is generally referred to herein as
+“Platinum Futures.”
+
+22. NYMEX Palladium Contract is regularly traded on Globex for delivery during
+the current calendar month, the next two calendar months, and any March, June, September, and
+December falling within a 15-month period beginning with the current month. One contract unit
+is equal to 100 troy ounces. The NYMEX Palladium Contract is generally referred to herein as
+‘Palladium Futures.”
+
+23. Tick refers to the minimum price fluctuation for a particular futures contract. The
+minimum price fluctuation for Gold Futures is $.10 per troy ounce. The minimum price
+fluctuation for Silver Futures is $.005 per troy ounce.
+
+24. Globex’s matching algorithm applies a First-In-First-Out (“FIFO”’) principle to
+orders at the same level of the Order Book. For example, if there are multiple orders sitting at
+the level of the best bid, and an offer is then placed at that same level, the bids will be filled in
+the order that they were placed. Modifications to price or quantity will move the order to the
+
+back of the queue.
+Case: 1:18-cv-00603 Document #: 1 Filed: 01/26/18 Page 7 of 19 PagelD #:7
+
+B. Vorley And Chanu Engaged In A Manipulative And Deceptive Scheme By Spoofing,
+And Taught A Subordinate How To Spoof
+
+25. During the Relevant Period, Bank A, together with its subsidiaries and affiliates,
+was one of the largest global banking and financial services companies in the world. Bank A had
+operations in the United States and around the world. Bank A operated a global commodities
+trading business that included the trading of precious metals futures contracts. Bank A’s primary
+precious metals futures trading desks were located in Singapore, London and New York.
+
+26. During the Relevant Period, Vorley and Chanu engaged in the Scheme, which
+followed the general pattern set forth herein. Vorley and Chanu, both individually and in
+coordination with each other and other traders at Bank A, manually placed Spoof Orders for
+precious metals futures contracts with the CME through Globex, which they intended to cancel
+before execution, opposite Genuine Orders for precious metals futures contracts, which they
+desired to execute. Typically, the Genuine Orders were Iceberg Orders and the Spoof Orders
+were not. For example, Vorley and Chanu would enter Genuine Orders as Iceberg Orders with
+small quantities visible to the market, and within a short time thereafter, placed visibly larger
+Spoof Orders on the other side of the Order Book. Vorley’s and Chanu’s Spoof Orders were
+often placed within 5 ticks behind the best price so as to reduce the likelihood of them being
+filled. The Spoof Orders also were typically at least 10 lots, and were often placed and cancelled
+within a 5 second window.
+
+27. Vorley and Chanu intended to cancel the Spoof Orders before execution, and
+often did so after their Genuine Orders were filled.
+
+28. Vorley and Chanu’s Scheme involved sending false signals to the market that they
+wanted to buy or sell the number of contracts in their Spoof Orders. In reality, Vorley and
+
+Chanu did not want their Spoof Orders to execute; rather, at the time they placed the Spoof
+ie!
+f
+y
+tae
+ve
+av
+wv
+cea
+a
+vo
+vt
+oo
+“4
+ad
+—)
+be
+oa
+v
+fs
+or
+a
+fereth
+ae
+r
+cng,
+SO
+aye
+pees
+wa
+
+AAAS sy see ae oll OF alienate £ : nS
+ES Reged eG ae waa? Bayty a 3 a APS : i Ft
+PRA LOSER OP, PUR, Ae ae
+
+Orders, Vorley and Chanu intended to cancel them before execution. Vorley and Chanu used the
+Spoof Orders as a means of tricking other market participants into executing against their
+Genuine Orders.
+
+29. Vorley and Chanu’s Scheme was designed to benefit financially from market
+participants’ reactions to their Spoof Orders. The following is a simplified explanation of how
+their Scheme was intended to work, using a hypothetical example of a Spoof Order on the buy
+side. A large Spoof Order to buy would result in an increase in demand in the order book (i.e.,
+create or add to an order book imbalance in which orders to buy outweigh orders to sell). This
+increase would be visible to other market participants and may lead them to conclude that the
+price is likely to rise. This conclusion, in turn, would impact market participants’ decisions,
+including prompting some to attempt to purchase contracts before the predicted rise in price
+happens. In such a case, these participants would place aggressive orders to buy (.e., at a higher
+price than the currently resting bids in the market), making execution of orders resting on the
+opposite side of the Spoof Order more likely. Finally, these bids would enable orders on the
+opposite side of the Spoof Order—including Vorley and Chanu’s Genuine Orders—to sell
+sooner, at a better price, or in larger quantities than they otherwise would.
+
+30. By engaging in the Scheme as described herein, Vorley entered Spoof Orders to
+intentionally send a false signal to the market that he actually wanted to buy or sell the number of
+contracts specified in the Spoof Orders, or did so while recklessly disregarding the fact that
+entering his Spoof Orders would send such a false signal—a signal that injected false
+information about supply and demand into the market that could affect market activity. Vorley
+engaged in this Scheme to trick other market participants into executing against his or his
+
+colleagues’ Genuine Orders on the opposite side of the market—allowing them to fill sooner, at a
+ty
+gf
+gv
+D
+.
+wo
+we
+rot
+2
+wv
+vo
+oj
+“y
+ry
+rr?
+D
+od
+re"
+fe
+ao
+5;
+eee
+a,
+oo}
+xO
+ape
+eel!
+oe
+cy
+ay)
+ta
+ete?
+2
+a
+
+AKA ay erate Ae abe oF aiaels £ : ; : TANS
+ES Reged eG ae SEPP Rear ee a : a APS Soh of i ? nF So EE
+PRA ed ROMER ER PR, PSR Ae ae OP Ca
+
+better price, or in larger quantities than they otherwise would. Vorley knew or recklessly
+disregarded that the Spoof Orders would create the false appearance of market depth and result
+in misinformation, thereby luring market participants to trade based on Vorley’s spoofing. The
+risk that the Spoof Orders could mislead other market participants into believing there was
+genuine interest in purchasing or selling the specified number of contracts represented by
+Vorley’s Spoof Orders was so obvious that Vorley must have been aware of it. He knew that his
+Spoof Orders would appear in the Order Book and that traders often consider order-book
+information in making trading decisions; thus, Vorley was, at least, reckless with respect to the
+danger that his Spoof Orders would mislead other market participants.
+
+31. By engaging in the Scheme as described herein, Chanu entered Spoof Orders to
+intentionally send a false signal to the market that he actually wanted to buy or sell the number of
+contracts specified in the Spoof Orders, or did so while recklessly disregarding the fact that
+entering his Spoof Orders would send such a false signal—a signal that injected false
+information about supply and demand into the market that could affect market activity. Chanu
+engaged in this Scheme to trick other market participants into executing against his or his
+colleagues’ Genuine Orders on the opposite side of the market—allowing them to fill sooner, at a
+better price, or in larger quantities than they otherwise would. Chanu knew or recklessly
+disregarded that the Spoof Orders would create the false appearance of market depth and result
+in misinformation, thereby luring market participants to trade based on Chanu’s spoofing. The
+risk that the Spoof Orders could mislead other market participants into believing there was
+genuine interest in purchasing or selling the specified number of contracts represented by
+Chanu’s Spoof Orders was so obvious that Chanu must have been aware of it. He knew that his
+
+Spoof Orders would appear in the Order Book and that traders often consider order-book
+Case: 1:18-cv-00603 Document #: 1 Filed: 01/26/18 Page 10 of 19 PagelD #:10
+
+information in making trading decisions; thus, Chanu was, at least, reckless with respect to the
+danger that his Spoof Orders would mislead other market participants.
+
+32. In or about July 2009, Bank A hired Trader A onto Bank A’s precious metals
+trading desk in Singapore. Trader A remained a trader on the desk until approximately February
+2012. Over his several months on the desk, Trader A observed Vorley and Chanu’s trading.’
+Specifically, Trader A observed Vorley and Chanu spoof. According to Trader A, the trading
+patterns described above in paragraph 26 were consistent with spoofing.
+
+33. Trader A explained the Scheme in an electronic chat with Trader B, a trader at
+another financial institution, Bank B, on March 28, 2011. At approximately 10:54 p.m. Trader
+A said: “basically 1 sold out... just by having fake bids . . . [in] the futures . . . 1 just spam bids
+below ...to clear my offer.” The “fake bids” and “spam bids” that Trader A referred to were
+Spoof Orders. Shortly before making those statements, Trader A placed a Genuine Order as an
+Iceberg Order to sell at 10:43:34 p.m. in Silver Futures for 20 lots, with | lot as the visible
+quantity. After that order failed to continue filling for 2 minutes and 30 seconds, Trader A began
+quickly placing and cancelling a series of 21 Spoof Orders to buy for a total of 220 lots in order
+to get his sell order filled. The Spoof Orders were typically cancelled within | or 2 seconds. At
+10:54:12 p.m. Trader A filled the 20" contract of his original sell order and cancelled the
+remaining Spoof Orders.
+
+34. During the period that Vorley and Chanu were teaching Trader A how to spoof,
+Vorley and Chanu frequently spoofed. For example, on March 16, 2011, Vorley wrote to
+
+another trader at Bank A that he was “spoofing it up... ahem ahem.” On that day, Vorley was
+
+ 
+
+1 The bank’s trading technology enabled traders on the precious metals desk to see each other’s
+trading activity in real time across all three desk locations.
+2 Unless otherwise noted, times referenced are in the Central time zone.
+
+10
+attempting to fill a 56-lot Genuine Order as an Iceberg Order to sell with | lot showing in Gold
+Futures. Immediately after placing the 56-lot sell order at 6:03:21 a.m., Vorley placed 12 buy
+Spoof Orders over the following 5 seconds each for 10 lots, for a total of 120 lots that were
+subsequently cancelled within | to 2 seconds each. The Genuine Order continued to fill during
+and after the cancellation of the Spoof Orders.
+
+35. In addition to placing Spoof Orders to get their own Genuine Orders filled, as part
+of their Scheme, Vorley and Chanu also placed Spoof Orders to help fill Genuine Orders placed
+by each other as well as by other traders at Bank A, including Trader A. At other times, Trader
+A would place Spoof Orders to help Vorley, Chanu or other traders at Bank A get their Genuine
+Orders filled. This frequently happened when one of the traders would notice that a colleague’s
+Genuine Order had “stalled,” 1.e., failed to fully fill shortly after being placed. When that
+happened, Vorley, Chanu, Trader A or other traders on the desk would “help” their colleague by
+placing Spoof Orders opposite the stalled Genuine Order to create the false appearance of market
+depth and book pressure and result in misinformation designed to induce a market participant to
+fill the Genuine Order when that market participant otherwise might not have done so.
+
+36. Chanu discussed the Scheme with another trader on the desk at Bank A, Trader C,
+in an electronic chat dated January 28, 2009. Shortly after Trader C placed Spoof Orders to help
+Chanu attempt to fill his Genuine Order, Trader C said to Chanu “so glad i could help... got
+that up 2 bucks .. . hahahahah.” He continued: “that does show u how easy it is to manipulate
+so[me]times.”” Chanu replied “yeah yeah of course.” Trader C continued: “that was alot of
+clicking,” referring to the process of placing a series of Spoof Orders and quickly cancelling
+them. Chanu replied: “basically you tricked alkll [sic] the algorythm,” referring to the fact that
+
+Trader C’s Spoof Orders had sent a false signal to the market and deceived other market
+
+11
+participants into transacting based on the false information, thereby allowing Chanu to obtain a
+favorable execution of the Genuine Order. Trader C stated “1 know how to ‘game’ this stuff”
+and Chanu replied “THAT IS BRILLIANT.” Trader C continued: “[I] f..k the mkt around a lot
+... not alot of people had it figgied out . . . that[’]s why 1 love electronic trading.”
+
+37. In another example, on November 3, 2010, Trader A was attempting to sell 400
+Gold Futures contracts but was not getting all of his Genuine Order (placed as an Iceberg Order)
+filled, even after dropping the price. Seeing that Trader A needed a fill, Vorley and Chanu
+placed a series of Spoof Orders to buy that they then cancelled after approximately two seconds
+each, in an effort to help Trader A fill his Genuine Order. Specifically, Vorley submitted and
+cancelled 29 buy orders at 10 contracts each. Following this activity, Trader A writes in an
+electronic chat to Vorley “classic jam it... tricks from the master.”
+
+38. Vorley, Chanu and the other traders on the desk continued their Scheme into
+2012. For example, on January 6, 2012 at 1:59:04.221, Trader A placed a 20 lot, Gold Futures
+Genuine Order to sell as an Iceberg Order with 1 lot visible to the market. The Genuine Order
+executed 13 lots after approximately 6 seconds, but then stalled. After stalling for approximately
+8 seconds, Chanu placed 9 Spoof Orders to buy starting at 1:59:18.668, 8 for 10 lots and one for
+50 lots, for a total of 130 lots. Chanu cancelled all of these orders in less than 5 seconds. One
+second after Chanu finished cancelling all of his Spoof Orders, Trader A received a 1-lot fill on
+his Genuine Order.
+
+39. On June 6, 2012 at 1:26:57.520, Vorley placed a 30 lot, Gold Futures Genuine
+Order to sell as an Iceberg Order with 1 lot visible to the market. The order immediately
+executed 20 lots, however, it stalled for almost 12 seconds. Chanu then placed 8 Spoof Orders to
+
+buy, 10 lots each, for a total of 80 lots starting at 1:27:09.320 in order to spoof the market.
+
+12
+Case: 1:18-cv-00603 Document #: 1 Filed: 01/26/18 Page 13 of 19 PagelD #:13
+
+While most of the Spoof Orders were pending, 8 additional lots of Vorley’s Genuine Offer
+executed. Chanu placed and cancelled each of the Spoof Orders within 5 seconds. Shortly after
+Chanu finished cancelling his Spoof Orders, Vorley’s remaining 2 lots of his Genuine Order
+executed so that he was fully filled.
+
+C. Vorley And Chanu Continued Their Manipulative and Deceptive Scheme Through
+2013
+
+I. January 28, 2013 Spoofing
+
+AO. Vorley and Chanu continued their Scheme into 2013. For example, on January
+28, 2013, at approximately 15:32:43.198, Vorley placed a 34-lot Genuine Order as an Iceberg
+Order to show 1 lot to the market, to buy Gold Futures at $1655.20.
+
+Al. After approximately 30 seconds during which the Genuine Order did not fill, at
+15:33:12.415, Vorley placed a 110-lot Spoof Order, to sell Gold Futures at $1655.70 that he
+intended to cancel before execution. The 110-lot order was placed 3 ticks away from the best
+offer at the time of placement.
+
+42. Before the Spoof Order was placed, the market was relatively balanced, with 13%
+more offers than bids. As a result of the Spoof Order, the market became one where there were
+96% more offers than bids.
+
+43. Approximately | second after the Spoof Order to sell was placed, the Genuine
+Order to buy begins to fill rapidly, | lot at a time, until all 34 lots fill over the course of a few
+milliseconds.
+
+44. Approximately 1.6 seconds after the last lot of the Genuine Order filled, Vorley
+cancelled the 110-lot Spoof Order to sell in its entirety. That Spoof Order was on the market for
+
+an overall time of just under 3 seconds.
+
+13
+PON a EN PR PR PN OPN eee eet is EOP te PD PAO Tg
+Pace PTs AAR! DPoarcument & ot Edie: OTPORINI SR
+AS CLSt, WL. bt A Leo PUPA. Way 3
+
+2. May 23, 2013 Spoofing
+
+45. On May 23, 2013, at 1:05:45.122, Chanu placed a 96-lot Genuine Order that was
+an Iceberg Order showing 1 lot to the market to buy June delivery Gold Futures at $1374.10. At
+the time, $1374.10 was 5 ticks off of the best bid in the market.
+
+46. The Genuine Order continued to sit unfilled and then at 01:07:55.630, Chanu
+placed a 100-lot Spoof Order 2 ticks away from the best offer to sell June delivery Gold Futures
+at $1374.60, which he intended to cancel before execution.
+
+47. Just before placing the 100-lot Spoof Order, the visible volume on the offer side
+was 62 contracts with no price level exceeding 15 contracts. Chanu’s 100-lot offer more than
+doubled the visible volume on the offer side and almost doubled the visible bid volume.
+
+A8. Chanu’s 1-lot Genuine Order to buy at $1374.10 was filled approximately 1.2
+seconds after the placement of his 100-lot Spoof Order to sell, after pending in the market for
+over 2 minutes.
+
+49. At 01:07:57.865, a half second after filling his Genuine Order, Chanu cancelled
+his 100-lot Spoof Order in its entirety.
+
+3. June 2, 2013 Spoofing
+
+50. On June 2, 2013, at 19:52:13.056, Chanu placed a 50-lot Genuine Order that was
+an Iceberg Order showing 1 lot to the market to sell August-delivery Gold Futures at $1395.60.
+At the time of placement, the Genuine Order was at the best price level.
+
+51. The Genuine Order sat pending for over 3 minutes, at which point Chanu placed a
+100-lot Spoof Order to buy August-delivery Gold Futures at $1395.3 that he intended to cancel
+
+before execution.
+
+14
+eens FPO one AM OA Rew ecserent die PM hae aM sg
+Pace PTs MAGS Moarument Hot Evian: OTs
+Ne CASES ae RASTA AAS Ce LRA LP PRP rosea. oe
+
+52. At the time of placement, the Spoof Order to buy was | tick away from the best
+bid.
+
+53. At the time Chanu placed the 100-lot Spoof Order, the total visible buy-side order
+volume was 116 lots. His Spoof Order, therefore, increased the visible sell-side volume by
+almost 50%.
+
+54. Almost immediately, Chanu’s Genuine Order filled 3 contracts.
+
+55. Approximately | second later, Chanu cancelled his 100-lot Spoof Order in its
+entirety.
+
+4. July 9, 2013 Spoofing
+
+56. On July 9, 2013, at 15:51:59.661, Vorley placed a 50-lot Genuine Order as an
+Iceberg Order showing | lot to the market, to sell Gold Futures at $1247.00.
+
+57. Almost immediately, 10 lots of the sell order filled. Then approximately 5
+seconds passed without further fills, so Vorley placed a 100-lot Spoof Order to buy Gold Futures
+at $1246.80 that he intended to cancel before execution.
+
+58. At the time the Spoof Order was placed, the market was slightly imbalanced, with
+58% more bids than offers. As a result of the Spoof Order, the market became one where the
+Order Book had 207% more bids than offers.
+
+59. Almost immediately after the Spoof Order to buy was placed, within 3
+milliseconds, 8 additional lots filled from the Genuine Order.
+
+60. Less than a second after the 8" lot of the Genuine Order to sell was filled, Vorley
+cancelled the 100-lot Spoof Order to buy in its entirety. The Spoof Order was on the market for
+
+approximately 7 tenths of a second.
+
+15
+Case: 1:18-cv-00603 Document #: 1 Filed: 01/26/18 Page 16 of 19 PagelD #:16
+
+V. VIOLATIONS OF THE COMMODITY EXCHANGE ACT
+COUNT I
+VIOLATION OF SECTION 4c(a)(5)(C) OF THE ACT,
+7 U.S.C. § 6ce(a)(5)(C)
+(DISRUPTIVE PRACTICES - SPOOFING)
+
+61. Paragraphs | to 60 are re-alleged and incorporated herein by reference.
+
+62. By reason of the conduct described above, for the time period beginning in
+approximately July 2011 and continuing to at least July 2013, Vorley and Chanu engaged in
+trading, practices, or conduct on or subject to the rules of a registered entity that is, is of the
+character of, or is commonly known to the trade as, “spoofing” (bidding or offering with the
+intent to cancel the bid or offer before execution).
+
+63. In placing each Spoof Order, Vorley and Chanu acted with intent to cancel the bid
+or offer before execution.
+
+64. By reason of the foregoing, Vorley and Chanu violated Section 4c(a)(5) of the
+Act, 7 U.S.C. § 6c(a)(5) (2012).?
+
+65. Each Spoof Order constitutes a separate and distinct violation of Section
+
+A4c(a)(5)(C) of the Act.
+
+COUNT I
+
+VIOLATION OF SECTION 6(c)(1) OF THE ACT, 7 U.S.C. § 9(1),
+AND REGULATION 180.1(a)(1) AND (3), 17 C.F.R. § 180.1(a)(1), (3)
+
+Use of a Manipulative and Deceptive Device, Scheme, or Artifice
+
+66. Paragraphs | to 60 are re-alleged and incorporated herein by reference.
+67. By reason of the conduct described above, for the time period beginning in
+
+approximately August 2011 and continuing to at least July 2013, Vorley and Chanu, in
+
+ 
+
+* Section 4c(a)(5)(C) of the Act, 7 U.S.C. § 6c(a)(5)(C) (2012), became effective on July 16,
+2011.
+
+16
+Case: 1:18-cv-00603 Document #: 1 Filed: 01/26/18 Page 17 of 19 PagelD #:17
+
+connection with a contract for future delivery on a registered entity, intentionally or recklessly:
+(1) used or employed, or attempted to use or employ, manipulative devices, schemes, or artifices
+to defraud; or (2) engaged, or attempted to engage, in acts, practices, or courses of business,
+which operated or would have operated as a fraud or deceit upon market participants.
+
+68. Vorley and Chanu acted intentionally or recklessly.
+
+69. By reason of the foregoing, Vorley and Chanu violated Section 6(c)(1) of the Act,
+7 U.S.C. § 9(1) (2012), and Regulation 180.1(a)(1) and (3), 17 C.F.R. § 180.1(a)(1), (3) (2017).
+
+VI. RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that the Court, as authorized by
+Section 6c of the Act, as amended, 7 U.S.C. § 13a-1, and pursuant to its own equitable powers,
+enter:
+
+A. An order finding that Vorley and Chanu are liable for violating Sections
+4c(a)(5)(C) and 6(c)(1) of the Act, 7 U.S.C. §§ 6c(a)(5)(C) and 9(1) (2012), and Regulation
+180.1(a)(1) and (3), 17 C.F.R. § 180.1(a)(1), (3) (2017);
+
+B. An order of permanent injunction restraining and enjoining Vorley and Chanu,
+and any of their affiliates, agents, servants, employees, successors, assigns, attorneys, and
+persons in active concert with them who receive actual notice of such order by personal service
+or otherwise, from directly or indirectly violating Section 4c(a)(5)(C) and 6(c)(1) of the Act and
+Regulation 180.1(a)(1) and (3);
+
+C. An order of permanent injunction restraining Vorley and Chanu and any of their
+affiliates, agents, servants, employees, successors, assigns, attorneys, and persons in active
+
+concert with them from:
+
+ 
+
+4 Commission Regulation 180.1, 17 C.F.R. § 180.1 (2017), became effective on August 15,
+2011.
+
+17
+1. Trading on or subject to the rules of any registered entity (as that term is
+defined in Section 1a(40) of the Act, 7 U.S.C. § 1a(40) (2012));
+
+2. Entering into any transactions involving “commodity interests” (as that term is
+defined in Regulation 1.3(yy), 17 C.F.R. § 1.3(yy) (2014)) for their own
+personal accounts or for any account in which they have a direct or indirect
+interest;
+
+3. Having any commodity interests traded on their behalf;
+
+4. Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account involving
+commodity interests;
+
+5. Soliciting, receiving or accepting any funds from any person for the purpose
+of purchasing or selling any commodity interests;
+
+6. Applying for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the Commission, except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9) (2014); and/or
+
+7. Acting as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R.
+§ 3.1(a) (2014)), agent or any other officer or employee of any person (as that
+term is defined in Section 1a(38) of the Act, 7 U.S.C. § 1a(38) (2012)),
+registered, exempted from registration or required to be registered with the
+Commission except as provided for in Regulation 4.14(a)(9), 17 C.F.R.
+§ 4.14(a)(9) (2014).
+
+D. An order directing Vorley and Chanu to pay civil monetary penalties, to be
+assessed by the Court, in an amount not more than the penalty prescribed by Section 6c(d)(1) of
+the Act, 7 U.S.C. § 13a-1(d)(1) (2012), as adjusted for inflation pursuant to the Federal Civil
+Penalties Inflation Adjustment Act Improvements Act of 2015, Pub. L. 114-74, 129 Stat. 584
+(2015), title VI, Section 701, see Commission Regulation 143.8, 17 C.F.R. § 143.8 (2017) for
+each violation of the Act, as described herein;
+
+E. An order providing for such other and further remedial and ancillary relief,
+
+including, but not limited to, disgorgement, as this Court may deem necessary and appropriate;
+
+18
+Case: 1:18-cv-00603 Document #: 1 Filed: 01/26/18 Page 19 of 19 PagelD #:19
+
+F, An order requiring Vorley and Chanu to pay costs and fees, as permitted by 28
+
+U.S.C. §§ 1920 and 2412(a)(2) (2012): and
+
+G. An order providing such other and further relief as this Court may deem necessary
+
+and appropriate under the circumstances.
+
+VIL. JURY DEMAND
+
+Plaintiff hereby demands a trial by jury.
+
+Dated: January 26, 2018
+
+/s/ Brigitte Weyls
+Brigitte Weyls (Local Counsel)
+Trial Attorney
+
+Barry Blankfield (Local Counsel)
+Trial Attorney
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+525 West Monroe, Suite 1100
+
+Chicago, IL 60661
+
+Phone: (312) 596-0700
+
+bweyls @cftc.gov
+
+bblankfield @cftc.gov
+
+19
+
+Respectfully submitted by,
+
+/s/ Katie Rasor
+Katie Rasor
+Trial Attorney
+
+Patryk J. Chudy
+Chief Trial Attorney
+
+Manal M. Sultan
+Deputy Director
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+140 Broadway, 19th Floor
+
+New York, New York 10005
+
+Phone: (646) 746-9700
+
+krasor @cftc.gov
+
+pchudy @cftc.gov
+
+msultan @cftc.gov

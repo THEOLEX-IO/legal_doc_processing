@@ -15,16 +15,21 @@ from notebooks.packages import *
 from notebooks.paths import *
 
 # path and fn
-file_path = os.getcwd() + "/data"
-cands = [i for i in os.listdir(file_path) if "press" in i]
-assert len(cands) == 1
-filename = cands[0]
-one_file_path = file_path + "/" + filename
+file_path = os.getcwd() + "/data/"
+folders = os.listdir(file_path)
+
+files_cands = [
+    (f, [k for k in os.listdir(file_path + f) if ("press" in k) and ("txt" in k)])
+    for f in folders
+]
 
 
-# read file
-raw_text = load_data(one_file_path)
-# raw_text[:300]
+files_cands = [(i, j[0]) for i, j in files_cands if j]
+
+
+# # read file
+# raw_text = load_data(one_file_path)
+# # raw_text[:300]
 
 
 def extract_defendant(raw_text):
@@ -38,6 +43,13 @@ def extract_defendant(raw_text):
 
     # sep pred
     preds = [(k.split("against")[1]).strip() for k in cands if len(k) > 10]
-    pred = preds[0]
 
-    return pred
+    if preds:
+        return preds[0]
+
+    return "-- None --"
+
+
+preds = [
+    extract_defendant(load_data("data/" + fold + "/" + fil)) for fold, fil in files_cands
+]

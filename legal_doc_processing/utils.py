@@ -1,4 +1,5 @@
 import re
+import nltk
 
 
 def hello():
@@ -10,7 +11,7 @@ def hello():
 def load_data(file_path: str) -> str:
     """from file_path open read and return text; return text """
 
-    with open(file_path, "r") as f:
+    with open(file_path) as f:
         txt = f.read()
 
     return txt
@@ -99,6 +100,34 @@ def same_sentence(sent1, sent2):
     return True
 
 
+def get_token(text):
+    sentence_list = nltk.sent_tokenize(text)
+    sentence_list
+    return sentence_list
+
+def get_para(sentence_list):
+    j=0
+    i=0
+    para=[]
+    paragraphes={}
+    idx=0
+    while i < len(sentence_list):
+        para=[]
+        paragraphes['hearder']=sentence_list[i]
+
+        while not is_section_num(sentence_list[i]):
+            para.append(sentence_list[i])
+            i+=1  
+
+        if is_section_num(sentence_list[i-1]):
+            paragraphes['content']=para
+            paragraphes['id']=idx
+            idx=idx+1
+        
+
+    return paragraphes
+
+
 def clean_doc(
     file_text,
 ):
@@ -172,6 +201,7 @@ def get_structured_document(file):
 
 
 def word_frequency(text):
+    stopwords = nltk.corpus.stopwords.words('english')
     word_frequencies = {}
     for word in nltk.word_tokenize(text):
         if word not in stopwords:

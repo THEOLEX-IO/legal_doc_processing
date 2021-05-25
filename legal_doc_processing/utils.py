@@ -18,7 +18,7 @@ def hello():
 def load_data(file_path: str) -> str:
     """from file_path open read and return text; return text """
 
-    with open(file_path, "r") as f:
+    with open(file_path) as f:
         txt = f.read()
 
     return txt
@@ -107,43 +107,126 @@ def same_sentence(sent1, sent2):
     return True
 
 
-# def get_structured_document(file):
+def get_token(text):
+    sentence_list = nltk.sent_tokenize(text)
+    sentence_list
+    return sentence_list
 
-#     text_structured = []
-#     file_cleaned = clean_doc(file)
-#     i = 0
-#     for pages in file_cleaned:
-#         text_ = {}
-#         text_["content"] = pages
-#         text_["id"] = i
-#         if is_title(pages[0]):
-#             text_["header"] = pages[0]
+def get_para(sentence_list):
+    j=0
+    i=0
+    para=[]
+    paragraphes={}
+    idx=0
+    while i < len(sentence_list):
+        para=[]
+        paragraphes['hearder']=sentence_list[i]
 
-#         text_structured.append(text_)
-#         i += 1
+        while not is_section_num(sentence_list[i]):
+            para.append(sentence_list[i])
+            i+=1  
 
-#     return text_structured
+        if is_section_num(sentence_list[i-1]):
+            paragraphes['content']=para
+            paragraphes['id']=idx
+            idx=idx+1
+        
 
-
-# def word_frequency(text):
-#     word_frequencies = {}
-#     for word in nltk.word_tokenize(text):
-#         if word not in stopwords:
-#             if word not in word_frequencies.keys():
-#                 word_frequencies[word] = 1
-#             else:
-#                 word_frequencies[word] += 1
-#     return word_frequencies
+    return paragraphes
 
 
-# def sentence_score(sentence_list, word_frequencies):
-#     sentence_scores = {}
-#     for sent in sentence_list:
-#         for word in nltk.word_tokenize(sent.lower()):
-#             if word in word_frequencies.keys():
-#                 if len(sent.split(" ")) < 30:
-#                     if sent not in sentence_scores.keys():
-#                         sentence_scores[sent] = word_frequencies[word]
-#                     else:
-#                         sentence_scores[sent] += word_frequencies[word]
-#     return sentence_scores
+def clean_doc(
+    file_text,
+):
+    """ """
+
+    pages = []
+    for page in file_text.split("\x0c"):
+
+        # clen text
+        page_meta = [{"text": clean(para)} for para in page.split("\n")]
+        clean_page = []
+        previous_line = {}
+        text = ""
+
+        # add meta data
+        for line in page_meta:
+            line["is_section_num"] = is_section_num(str(line["text"]))
+            line["is_title"] = is_title(str(line["text"]))
+            line["ends_with_ponc"] = ends_with_ponc(str(line["text"]))
+            line["is_alpha"] = sum(c.isalpha() for c in str(line["text"]))
+            line["start_with_upper"] = starts_with_upper(str(line["text"]))
+
+            # not relevant line
+            if not line["is_alpha"]:
+                continue
+
+            if not same_sentence(previous_line, line):
+                if text:
+                    clean_page.append(text)
+                    text = ""
+
+            previous_line = line
+            text = " ".join([text, str(line["text"])])
+
+        if len(clean_page):
+            pages.append(clean_page)
+
+    return pages
+
+
+def get_structured_document(file):
+    text_structured=[]
+    file_cleaned=clean_doc(file)
+    i=0
+    text_={}
+    continu=[]
+    sec_num=0
+    while sec_num < len(file_cleaned):
+        if is_title(file_cleaned[sec_num][0]):
+            continu.append(file_cleaned[sec_num]) 
+            text_['hearder']=file_cleaned[sec_num][0]
+            sec_num+=1
+            while not is_title(file_cleaned[sec_num][0]) and sec_num < (len(file_cleaned)) :
+                      continu.append(file_cleaned[sec_num])
+                      sec_num+=1
+            if is_title(file_cleaned[sec_num][0]):
+                text_['content'] =continu
+                text_['id']=i
+                text_['hearder']=file_cleaned[sec_num][0]
+                sec_num+=1
+                continu=[]
+                i+=1
+            else:
+                text_['content'] =continu
+                text_['id']=i
+        
+        text_structured.append(text_)
+
+
+    return text_structured      
+
+
+def word_frequency(text):
+    stopwords = nltk.corpus.stopwords.words('english')
+    word_frequencies = {}
+    for word in nltk.word_tokenize(text):
+        if word not in stopwords:
+            if word not in word_frequencies.keys():
+                word_frequencies[word] = 1
+            else:
+                word_frequencies[word] += 1
+    return word_frequencies
+
+
+def sentence_score(sentence_list, word_frequencies):
+    sentence_scores = {}
+    for sent in sentence_list:
+        for word in nltk.word_tokenize(sent.lower()):
+            if word in word_frequencies.keys():
+                if len(sent.split(" ")) < 30:
+                    if sent not in sentence_scores.keys():
+                        sentence_scores[sent] = word_frequencies[word]
+                    else:
+                        sentence_scores[sent] += word_frequencies[word]
+    return sentence_scores

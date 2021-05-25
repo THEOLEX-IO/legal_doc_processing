@@ -1,6 +1,9 @@
 import setuptools
 from legal_doc_processing.version import Version
 
+REQUIRED = [
+    'pandas','nltk','transformers'
+]
 
 setuptools.setup(name='legal_doc_processing',
                  version=Version('1.1.0').number,
@@ -12,7 +15,10 @@ setuptools.setup(name='legal_doc_processing',
                  url='http://theolex-document-processing',
                  packages=setuptools.find_packages(),
                 #  py_modules=['legal_doc_processing'],
-                 install_requires=[],
+                 install_requires=REQUIRED,
+                 scripts = ['helpers.ntlk_helper.py'],
+                #  entry_points={'console_scripts': [
+                            # 'foo = my_package.some_module:main_func',]},
                  license='MIT License',
                  zip_safe=False,
                  keywords='theolex document processing package',

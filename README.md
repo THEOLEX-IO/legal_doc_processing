@@ -52,5 +52,5 @@ Cleaning and feature engineering --> segmentation --> classification --> informa
 ```preds = ld.predict_all()```
 
 
-### after a predict_"feature" or after predict_all method you can find your predictions as attributes : 
+### after a predict "feature" or after predict_all method you can find your predictions as attributes : 
 ```case = ld.case```

@@ -2,6 +2,7 @@
 
 pip install check-wheel-contents
 pip install wheel-inspect
+# python -c 'import nltk;nltk.download("stopwords")'
 
 echo "----------- create package using wheel -----------"  
 python setup.py sdist bdist_wheel
@@ -11,8 +12,8 @@ echo '-------- check package healthy ------------'
 twine check dist/*
 check-wheel-contents dist/legal_doc_processing*
 
-echo "json file presentation for the library"
-wheel2json dist/*.whl
+# echo "json file presentation for the library"
+# wheel2json dist/*.whl
 
 # echo "--------- try pip install wheel file -----------"
 # pip  install dist/legal_doc_processing*

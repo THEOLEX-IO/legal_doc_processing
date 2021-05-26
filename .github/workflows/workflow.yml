@@ -53,7 +53,8 @@ jobs:
         TWINE_USERNAME: ${{ secrets.PYPI_USERNAME }}
         TWINE_PASSWORD: ${{ secrets.PYPI_PASSWORD }}
       run: |
-        bumpversion  minor
+        # bumpversion  minor
         python setup.py sdist bdist_wheel
         twine check dist/*
-        twine upload --verbose --skip-existing --repository testpypi dist/*
+        twine upload dist/*
+        # twine upload --verbose --skip-existing --repository testpypi dist/*

@@ -1,6 +1,7 @@
 #!/bin/bash
 python -m pip install --upgrade pip
 pip install -r requirements.txt
+python -m nltk.downloader stopwords
 
 echo "----------- create package using wheel -----------"  
 python setup.py sdist bdist_wheel

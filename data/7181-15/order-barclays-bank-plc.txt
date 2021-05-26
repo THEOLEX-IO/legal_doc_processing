@@ -1,0 +1,1012 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+ 
+
+ 
+
+Proceedings Clerk
+
+) (— RECEIVED CFTC >
+In the Matter of: ) A
+Barclays Bank PLC, ) CFTC Docket No. 15 — 24
+)
+Respondent. )
+)
+)
+
+ 
+
+ 
+
+ 
+
+\ 8:03 am, May 20, 2015 /
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTIONS 6(c)(4)(A) AND 6(d) OF THE COMMODITY EXCHANGE ACT,
+MAKING FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I.
+
+The Commodity Futures Trading Commission (“Commission” or “CFTC”) has reason to
+believe that Barclays Bank PLC (“Respondent” or “Barclays”) has violated the Commodity
+Exchange Act (the “Act”) and Commission Regulations (“Regulations”), Therefore, the
+Commission deems it appropriate and in the public interest that public administrative
+proceedings be, and hereby are, instituted to determine whether Respondent engaged in the
+violations set forth herein, and to determine whether any order shall be issued imposing remedial
+sanctions.
+
+IT.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
+Without admitting or denying the findings or conclusions herein, except to the extent Barclays
+admits those findings in any related action against Barclays by, or any agreement with, the
+Department of Justice or any other governmental agency or office, Barclays consents to the entry
+and acknowledges service of this Order Instituting Proceedings Pursuant to Sections 6(c)(4)(A)
+and 6(d) of the Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions
+(“Order”),
+
+ 
+
+' Respondent consents to the entry of this Order and to the use of these findings in this proceeding and in any other
+proceeding brought by the Commission or to which the Commission is a party; provided, however, that Respondent
+does not consent to the use of the Offer, or the findings or conclusions in this Order, as the sole basis for any other
+proceeding brought by the Commission, other than in a proceeding in bankruptcy or to enforce the terms of this
+Order. Nor does Respondent consent to the use of the Offer or this Order, or the findings or conclusions in this
+Order consented to in the Offer, by any other party in any other proceeding, Neither the Offer nor the Order confers
+any rights to any party other than the Commission and Barclays.
+
+ 
+TI.
+
+The Commission finds the following:
+
+A, Summary
+
+From 2009 through 2012 (“Relevant Period”), Barclays, by and through certain of its
+foreign exchange (“FX”) traders, at times, sought to benefit its own trading positions or those of
+FX traders at other banks by attempting to manipulate and aiding and abetting certain traders at
+other banks in their attempts to manipulate certain FX benchmark rates.
+
+One of the primary FX benchmark rates that the FX traders attempted to manipulate was
+the World Markets/Reuters Closing Spot Rates (“WM/R Rates”). The WM/R Rates are the most
+widely referenced FX benchmark rates in the United States and globally. The WM/R Rates are
+used to establish the relative values of different currencies, and reflect the rates at which one
+currency is exchanged for another currency. Most of the WM/R Rates at issue here are set or
+fixed based on trading activity of market participants, including Barclays and other banks, at
+various times throughout the day. The most widely used WM/R Rate is set or fixed at 4 p.m.
+London time (“WM/R 4 p.m. London fix” or the “4 p.m. fix.”). Another FX benchmark rate that
+a Barclays FX trader attempted to manipulate is the Russian Ruble/U.S. Dollar ““RUB/USD”
+Chicago Mercantile Exchange (“CME”)/EMTA, Inc.” benchmark rate (“CME/EMTA Rate”)
+that is based on indicative bids and offers submitted by banks to the CME, who calculates and
+issues the CME/EMTA Rate as well as publishes the submitted bids and offers of each
+participant.
+
+FX benchmark rates, including the WM/R Rates and the CME/EMTA Rate, are used to
+price a variety of transactions including foreign exchange swaps, cross currency swaps, spot
+transactions, forwards, options, futures, and other financial derivative instruments. For example,
+the CME/EMTA Rate is the primary rate source for settling Russian Ruble non-deliverable
+forward transactions and the price used for calculation of the CME Russian Ruble futures final
+settlement price at termination."
+
+At times during the Relevant Period, certain FX traders at Barclays and other banks
+coordinated their trading or indicative rate submissions to attempt to manipulate certain FX
+benchmark rates, including the WM/R 4 p.m. London fix and the CME/EMTA Rate, to their
+benefit. These FX traders at Barclays and the other banks used private electronic chat rooms to
+communicate and plan their attempts to manipulate the FX benchmark rates for certain currency
+pairs.” Certain FX traders at Barclays regularly participated in numerous private chat rooms. At
+times, in certain chat rooms, FX traders at Barclays and other banks disclosed confidential
+customer order information and trading positions, altered trading positions or CME/EMTA
+
+ 
+
+* Formerly, the “Emerging Markets Traders Association.”
+
+* Also known as the CME/EMTA Russian Ruble per USD Reference Rate,
+
+* CME Submission 05-50R (April 29, 2005), available at
+http://www.cftc.gov/files/submissions/rules/selfcertifications/2005/rul042705cme001 pdf
+
+° Some FX traders involved in certain chat rooms at issue herein were responsible for managing their respective
+banks’ FX desks.
+
+ 
+submissions to accommodate the interests of the collective group, and agreed on trading
+strategies as part of an effort by the group to attempt to manipulate certain FX benchmark rates,
+in some cases downward and in some cases upward.
+
+Barclays traders’ attempts to manipulate certain FX benchmark rates involved multiple
+currencies, including some of the most actively traded currencies like the U.S. Dollar, Euro, and
+British Pound Sterling. The wrongful conduct involved desks and offices located in at least New
+York, London and Moscow.
+
+This conduct occurred at various times over the course of the Relevant Period without
+detection by Barclays in part because of internal controls and supervisory failures at Barclays.
+Barclays failed to adequately assess the risks associated with its participation in the fixing of
+certain FX benchmark rates, including the WM/R 4 p.m. London fix and CME/EMTA rates.
+Barclays also lacked adequate internal controls or procedures to detect and deter possible
+misconduct involving certain FX benchmark rates and failed to adequately supervise its FX
+traders by, among other shortcomings, failing to have adequate controls and monitoring over the
+use of electronic chat rooms.
+
+In fact, some of this conduct occurred during the same period that Barclays was on notice
+that the CFTC and other regulators were investigating attempts by certain banks to manipulate
+the London Interbank Offered Rate (“LIBOR”) and other interest rate benchmarks.°
+
+2K oR oe
+
+In accepting Barclays’ Offer, the Commission recognizes Respondent’s significant
+cooperation during the CFTC’s Division of Enforcement’s (“Division”) investigation of this
+matter, which included self-reporting preliminary findings of questionable conduct by Barclays
+employees to the CFTC and by providing important information and analysis to the Division that
+helped the Division efficiently and effectively undertake its investigation. In addition, the
+Commission acknowledges that Barclays initiated its own internal investigation into FX trading
+prior to the Division’s investigation. The Commission also recognizes that Barclays has
+commenced significant remedial action to strengthen the internal controls and policies relating to
+foreign exchange benchmarks and internal and external communications by traders.
+
+The Commission notes, however, the civil monetary penalty imposed reflects, in part,
+that Barclays did not settle this matter at an earlier stage of the investigation.
+
+B. Respondent
+
+Barclays Bank PLC is a global banking and financial services company based in the
+U.K. that is engaged in retail and commercial banking, credit cards, investment banking, wealth
+
+ 
+
+° The CFTC issued an order filing and settling charges that Barclays engaged in certain acts of attempted
+manipulation and false reporting of the LIBOR for certain currencies and the Euro Interbank Offered Rate
+(“Euribor”), Jn the Matter of Barclays PLC, Barclays Bank PLC, and Barclays Capital Inc., CFTC Docket No. 12-
+25 (June 27, 2012) (the relevant period of this action was from at least 2005 to at least 2009).
+
+ 
+management and investment management services. It is wholly owned by Barclays PLC, and
+has offices in New York, New York. It became provisionally registered with the Commission as
+a swap dealer on December 31, 2012.
+
+OF Facts
+1. The FX Market
+
+The FX market, in which traders are able to buy, sell, exchange and speculate on
+currencies, is one of the world’s largest and most actively traded financial markets. According to
+the Bank of International Settlements, trading in global foreign exchange markets averaged $5.3
+trillion per day in April 2013. Currencies are traded in pairs and the transacted rate represents
+the rate to exchange one currency for another currency. The U.S. Dollar is the dominant
+currency in the foreign exchange market. The exchange of the U.S, Dollar for another currency
+accounts for an estimated 87% of global foreign exchange market activity. The most actively
+traded currency pairs are the Euro/U.S. Dollar (EUR/USD), U.S. Dollar/Japanese Yen
+(USD/JPY), and British Pound Sterling/U.S. Dollar (GBP/USD). Participants in the FX market
+include banks, investment firms, commercial companies, central banks, hedge funds and retail
+customers.
+
+The foreign exchange market is comprised of many instruments including spot, forwards,
+swaps, futures and option contracts.
+
+2. WM/R Rates and CME/EMTA Rate Overview
+
+The WM/R Rates, some of the leading and most widely referenced foreign exchange
+benchmark rates, are calculated multiple times daily, including at 4 p.m. London time, which is
+commonly referred to as the “WM/R 4 p.m. London fix” or the “4 p.m. fix.”’ For twenty-one of
+the most liquid currencies (the “trade currencies’), the 4 p.m. fix is based on actual trades, using
+bids and offers extracted from a certain electronic trading system during a one-minute window
+(“fix period”). WM/Reuters determines the bid and offer rates based on the captured transacted
+rate and the bid-offer spread. WM/Reuters then calculates the median of these bid and offer
+rates and from these medians determines a “mid trade rate.” If there are not enough trades,
+WM/Reuters calculates a “mid order rate.” All orders and transactions are weighted equally,
+regardless of their notional sizes,
+
+The WM/R Rates for the other 139 less liquid currencies (the “non-trade currencies”) are
+set by similar methodology. Because these currencies are less liquid, WM/Reuters relies on
+indicative quotes (submissions) derived from a Reuters computer feed that solicits “indications
+of interest” from market participants as part of its fixing methodology. WM/Reuters captures
+independent snapshots of indicative quotes for bids and offers, and selects the median rate from
+these quotes as the ““WM/R 4 p.m. London fix.”
+
+ 
+
+” Another important benchmark is the European Central Bank (“ECB”) rate set by the ECB at 1:15 p.m, London
+time. Though less widely referenced than the WM/R Rate, the ECB Rates are also used by a wide range of
+participants, specifically non-financial corporates and are important for the non-deliverable forwards market. See
+Financial Stability Board Foreign Exchange Benchmarks Final Report at 1. (September 30, 2014).
+
+4
+
+ 
+WM/Reuters also provides fix rates for forward and non-deliverable forward contracts
+using methodology similar to that used for non-trade currencies. Fix rates for forward and non-
+deliverable forward contracts are published using a premium or discount to the spot rate for the
+relevant currency pair.
+
+Other FX benchmark rates are priced through the use of indicative rates. The Russian
+Ruble/U.S. Dollar CME/EMTA Rate is derived from a daily telephonic survey of participating
+banks® that the CME conducts at a random time between 12:00 p.m. and 12:30 p.m. Moscow
+time. If a bank responds to the daily survey, it provides the bid and offer at which it could
+execute a $100,000 RUB/USD spot transaction for next-day value in the Moscow marketplace.
+Survey participants’ responses are then confirmed in writing, recorded telephone message or
+other secure electronic communication.’ If more than ten survey responses are received, the
+CME randomly selects ten responses. The CME then determines the midpoint of each bid-offer
+pair and eliminates the two lowest and the two highest midpoints. '° The mean of the remaining
+six midpoints results in the CME/EMTA Rate for that day. The responding bank names and
+their indicative responses are published by the CME and EMTA on their respective websites as
+well as the calculated CME/EMTA Rate. The bids and offers submitted by the survey
+participants should reflect their honest assessment of the current prevailing market rate. Taking
+into account the benefit to the survey participants’ trading positions is not a legitimate or
+permissible factor in assessing the currently prevailing market rate.
+
+Foreign exchange futures contracts are connected to FX benchmark rates. The CME
+Russian Ruble/U.S, Dollar (RUB/USD) futures contract, for instance, is a cash settled futures
+contract for which the final settlement rate, a component of the contract’s price, is equal to the
+reciprocal of the CME/EMTA Rate. Exchange rates in many actively traded CME foreign
+exchange futures contracts, including the Euro/U.S. Dollar EUR/USD) futures, the U.S.
+Dollar/JJapanese Yen (USD/JPY) futures, and British Pound Sterling/U.S. Dollar (GBP/USD)
+futures, track rates in spot foreign exchange markets at near parity after adjusting for the forward
+differential, or adding or subtracting “forward points.” Speculative traders employ strategies that
+seek to capture short-lived arbitrage opportunities between foreign exchange futures and spot
+contracts. Since 2012, the CME provides clearing and other services for cash-settled Over the
+Counter FX Spot, Forward, Swaps, and Non-Deliverable Forward (NDF) contracts, The
+contracts cover 26 currency pairs, including EUR/USD, USD/JPY, and GBP/USD, and are cash-
+settled based on the WM/R 4 p.m. London fix.
+
+3. Barclays Traders’ Attempts to Manipulate Trading Based FX Benchmark
+Rates
+
+In late 2008, as the financial crisis began to wane, liquidity and volume in the FX market
+increased as many financial institutions and other market participants sought to exchange
+
+ 
+
+* All participating banks are inside the Russian federation and are active participants in the RUB/USD and/or
+Russian Ruble non-deliverable forward markets.
+
+* See CME Rulebook, Chapter 260 (26002 Settlement Procedures),
+
+'° If fewer than ten responses are received (but more than five) the CME eliminates the high and low midpoint. If
+fewer than five responses are received no rate will be published for that day.
+
+5
+
+ 
+currencies. The increase in volume and liquidity allowed Barclays FX traders and traders at
+other banks to take advantage of this trading opportunity, specifically during the FX benchmark
+rate fixing periods,
+
+At the same time, certain FX traders at Barclays and other banks had and/or developed
+relationships with certain FX traders at other banks, and they increasingly used private chat
+rooms to communicate and share information with each other. Certain FX traders at Barclays
+and other banks routinely participated in the chat rooms. Often, these FX traders had multiple
+chat rooms open simultaneously on their trading terminals, and within a chat, the traders often
+focused on a particular currency pair. Being a member of certain chat rooms was sometimes
+exclusive and by invitation only,
+
+For example, when inviting in a new member, traders in one chat room tried to ensure
+that a new member agreed to put the interests of the group first. In one chat, traders from three
+other banks discussed'! whether to invite a Barclays trader into a chat room:
+
+Bank Z Trader: 7:49:55 are we ok with keeping this as is..
+ie the info lvls & risk sharing?
+Bank X Trader: 7:50:27 well...
+Bank Z Trader: 7:50:30 that is the qu/estion]
+Bank X Trader: 7:50:32 you know him best obv...
+7:50:39 if you think we need to adjust it
+7:50:43 then he shouldn’t be[] in chat
+Bank Y Trader: 7:50:54 yeah that is key
+7:51:00 simple question [Bank Z Trader]
+7:51:08 I trust you implicitly [Bank Z Trader]
+7:51:13 and your judgement
+7:51:16 you know him
+7:51:21 will he tell rest of desk stuff
+7:51:26 or god forbin his nyk...
+Bank X Trader: 7:51:46 yes
+7:51:51 that’s really imp[ortant] question]
+7:52:01 dont want other numpty’s in mkt to know
+7:52:17 but not only that
+7:52:21 is he gonna protect us
+7:52:33 like we protect each other against our own branches
+7:52:46 ic if you guys are rhs.. and my nyk is lhs..ill say my
+nyk ths in few
+Bank Z Trader: 7:53:52 what concerns me is that i know he’ll never tell us
+
+when at risk...
+
+After further discussion of whether the Barclays trader would “add huge value to this cartell,” the
+traders decided to invite the trader into the chat room for a “1 month trial,” with the Bank X
+
+ 
+
+'' The communications quoted in this Order contain shorthand trader language and many typographical errors. The
+shorthand and errors are explained in brackets within the quotations only when deemed necessary to assist with
+understanding the discussion.
+
+ 
+Trader warning him, presumably facetiously, “mess this up and sleep with one eye open at
+night.”
+
+These chat rooms were the vehicles through which certain Barclays FX traders and
+traders at other banks coordinated attempts to manipulate certain FX benchmark rates, including
+the WM/R 4 p.m. London fix. Certain chat room participants used code words to evade
+detection by their banks’ compliance monitoring systems.
+
+At times during the Relevant Period, in their attempts to manipulate certain benchmarks
+(up or down), Barclays FX traders exchanged the size and direction of the bank’s net orders with
+FX traders at other banks and used this information to attempt to coordinate trading strategies,
+The traders at times then used this information to enable one or more traders to attempt to
+manipulate the FX benchmark rates prior to and during the relevant fixing period.
+
+For example, in one of the chat rooms, if a trader determined that he had fix orders in the
+opposite direction to the chat room group’s overall net fixing position approaching the fixing
+window, that trader may have transacted before the fix period with traders outside the private
+chat room, a practice known by market participants as “netting off,” rather than transact with
+other traders within the chat room.’” In certain cases, the goal of this trading strategy was to
+maintain the volume of orders held by chat room members in the direction favored by the
+majority of the private chat room members and limit orders being executed in the opposite
+direction during the fix window.
+
+If traders in the chat room had net orders in the same direction as what they desired rate
+movement at the fix to be, then the traders would at times either (1) match off these orders with
+traders outside of the chat room in an attempt to reduce the volume of orders in the opposite
+direction transacted during the fix period; (2) transfer their orders to a single trader within the
+chat room who could then execute a single order during the fix period; or (3) transact with
+traders outside of the chat room to increase the volume traded by chat room members during the
+fix window in the direction favored by the private chat room traders. At times, traders also
+increased the volume traded by them at the fix in the direction favored by the chat room traders
+in excess of the volume necessary to manage the risk associated with their banks’ net buy or sell
+orders at the fix. At times, these actions were undertaken in order to attempt to manipulate the
+benchmark rate set during the fix period.
+
+Some examples of Barclays FX traders’ misconduct include:
+
+In one chat, a Bank Y Trader and a Barclays trader coordinated their trading in an attempt
+to manipulate a WM/R 4 p.m. London fix. At 3:43:50, the Barclays trader asked the Bank Y
+trader whether he needed to buy Euros in the market in the forthcoming fix. The Bank Y trader
+responded that he had a net buy order for the fix, which he subsequently confirmed as totaling
+105 million. At 3:44:04, the Bank Y trader offered to transfer that net buy order to the Barclays
+trader. The Barclays trader replied “maybe” and then stated that he had a net buy order for 150
+million.
+
+ 
+
+The Commission does not consider that the netting off of orders (or the decision not to net off) ahead of fixes is
+inappropriate in all circumstances,
+
+ 
+The traders had the following exchange:
+
+Barclays Trader: 3:46:53 i'd prefer we join forces
+Bank Y Trader: 3:46:56 perfick
+
+3:46:59 lets do this...
+Bank Y Trader: 3:47:11 lets double team them
+Barclays Trader: 3:47:12 Y ESssssssssssss
+
+Immediately after the fixing window, the traders congratulated themselves:
+
+Barclays Trader: 4:03:25 sml rumour we haven’t lost it
+Bank Y Trader: 4:03:45 we
+
+4:03:46 do
+
+4:03:48 dollarrr
+
+In another chat, traders for Barclays and three other banks exchanged positions in a chat
+room leading into the WM/R 4 p.m. fix. The Bank Y trader said “it cant be a good day to be
+[right hand side].” '* Once the four traders determined they were all the same direction, the
+Barclays trader asked if “we gonna be able to get it to 05” to which the Bank Y trader responded
+“is that the troyal fkn we.” After the fixing window closed the Bank X trader said “nice call” and
+the chat room members gave their “scores” or profits from the fix, The chat room members each
+claimed they made between $60,000 and $220,000.
+
+4, Barclays Traders’ Attempts to Manipulate the Submission Based
+CME/EMTA Rate through False Reports
+
+Barclays provided indicative bids and offers to the CME for the fixing of the
+CME/EMTA Rate on certain days between August 2009 until August 2011. On at least a few
+occasions, a Barclays FX trader attempted to manipulate the CME/EMTA Rate by providing
+false reports concerning his view of the current prevailing bids and offers to the CME in order to
+move the CME/EMTA Rate up or down in whatever direction would benefit his trading positions
+or the trading positions of other banks. The Barclays FX trader coordinated, through an
+electronic chat room, with traders from other banks who also made submissions to skew their
+indicative bids and offers to try to move the CME/EMTA Rate in the direction they desired.
+
+For example, in one chat including a Barclays FX trader, one RUB/USD trader suggested
+“we should all lower fix by several kopecks” to which another trader replied “ves.7/4 A third
+trader agreed that “it is a right idea to lower the fix by a few kopecks,” The Barclays FX trader
+responded “‘so what, 5 kopecks and all/everyone is splendid.” After that conversation, the
+Barclays trader submitted an artificially low indicative bid and offer to the CME, consistent with
+
+ 
+
+'’ If an FX trader has orders to sell of the first currency listed in any currency pair, it is often referred to as being on
+the left-hand side, or “Ihs.” Tf an FX trader references right hand side, or “rhs,” it indicates that the FX trader is a
+buyer of the first currency listed in a currency pair.
+
+'“ RUB/USD chatroom language is in Russian and quotations come from an unofficial translation.
+
+8
+
+ 
+his conversation with the other traders, that was used by the CME to calculate the final
+CME/EMTA Rate.
+
+A bank’s trading positions are not legitimate or permissible factors on which to base a
+bank’s submission of bids and offers for purposes of determining the CME/EMTA Rate.
+
+5. Respondent Lacked Adequate Internal Controls
+
+During the Relevant Period, Barclays failed to adequately assess the risks associated with
+its FX traders participating in the fixing of certain FX benchmark rates. Barclays also lacked
+adequate internal controls in order to prevent its FX traders from engaging in improper
+communications with certain FX traders at other banks. Barclays lacked sufficient policies,
+procedures and training specifically governing participation in trading around the FX
+benchmarks rates and had inadequate policies pertaining to, or insufficient oversight of, its FX
+traders’ use of chat rooms or other electronic messaging.
+
+In approximately March 2012, Barclays received a customer complaint regarding
+potential inappropriate disclosure of customer information in an internal FX chatroom, Barclays
+then undertook an investigation of FX chatroom usage. Following and as a result of that
+investigation, in consultation with FX management and Legal and Compliance representatives,
+beginning in August 2012, Barclays undertook a process of instructing FX traders to cease
+participation in multi-bank chat rooms, and issued guidance and enhanced training with respect
+to the sharing of client information. On October, 22, 2012, FX traders at Barclays were formally
+instructed to cease participation in multi-bank chatrooms,
+
+Furthermore, in June 2013, Barclays commenced an internal investigation of possible
+misconduct by it FX Traders relating to FX benchmark rates. On October 25, 2013, Barclays
+
+reported to the CFTC and other governmental authorities’ preliminary findings of questionable
+conduct.
+
+IV.
+
+LEGAL DISCUSSION
+
+ 
+
+A. Barclays, Through the Acts of Certain Traders, Attempted to Manipulate FX
+Benchmark Rates
+
+Together, Sections 6(c),'° 6(d) and 9(a)(2) of the Act prohibit acts of attempted
+manipulation. 7 U.S.C. §§9, 13b and 13(a)(2) (2012). Section 9(a)(2) of the Act makes it
+unlawful for “[a]ny person to... attempt to manipulate the price of any commodity in interstate
+commerce, or for future delivery on or subject to the rules of any registered entity....” 7
+ULS.C. § 13(a)(2) (2012). Sections 6(c) and 6(d) of the Act authorize the Commission to serve a
+complaint and provide for the imposition of, among other things, civil monetary penalties and
+cease and desist orders if the Commission “has reason to believe that any person” has attempted
+
+ 
+
+'® Section 6(c) was amended effective August 15, 2011. For conduct occurring on or after that date, the relevant
+Section of the Act is now Section 6(c)(4)(A), 7 U.S.C. § 9(4)(A) (2012).
+
+9
+
+ 
+to manipulate the market price of any commodity, in interstate commerce, or otherwise is
+violating or has violated any of the provisions of the Act. 7 U.S.C. §§ 9 and 13b (2012).
+
+With respect to conduct on or after August 15, 2011, in addition to Sections 6(c), 6(d)
+and 9(a)(2), Section 6(c)(3) of the Act prohibits the attempted manipulation of the price of any
+commodity in interstate commerce. 7 U.S.C. § 9(3) (2012). Commission Regulation 180.2, 17
+C.F.R. §180.2 (2014), which became effective on August 15, 2011, in relevant part, makes it
+“unlawful to... directly or indirectly ... to attempt to manipulate, the price of ...any
+commodity in interstate commerce.” Regulation 180.2 codifies Section 6(c)(3).
+
+Two elements are required to prove an attempted manipulation: (1) an intent to affect the
+market price, and (2) an overt act in furtherance of that intent. See In re Hohenberg Bros. Co.,
+[1975-77 Transfer Binder] Comm. Fut. L. Rep. (CCH) 7 20,271, at 21,477 (CFTC Feb. 18,
+1977); CFTC v. Bradley, 408 F, Supp. 2d 1214, 1220 (N.D. Okla. 2005). To prove the intent
+element of attempted manipulation, it must be shown that Barclays FX traders “acted (or failed
+to act) with the purpose or conscious object of causing or effecting a price or price trend in the
+market that did not reflect the legitimate forces of supply and demand.” Jn re Indiana Farm
+Bureau Coop. Ass’n, [1982-1984 Transfer Binder] Comm, Fut. L. Rep. (CCH) ¥ 21,796, at
+27,283 (CFTC Dec. 17, 1982), “[W]hile knowledge of relevant market conditions is probative of
+intent, it is not necessary to prove that the accused knew to any particular degree of certainty that
+his actions would create an artificial price. It is enough to present evidence from which it may
+reasonably be inferred that the accused ‘consciously desire[d] that result, whatever the likelihood
+of that result happening from his conduct.’” /d. (quoting U.S. v. U.S. Gypsum Co., 438 U.S, 422,
+445 (1978)). A profit motive may also be evidence of intent, although profit motive is not a
+necessary element of an attempted manipulation. See In re DiPlacido, [2007-2009 Transfer
+Binder] Comm. Fut. L. Rep. (CCH) 4 30,970, at 62,484 (CFTC Nov. 5, 2008) (citing Jn re
+Hohenberg Bros, Co,, [1975-1977 Transfer Binder] Comm, Fut, L. Rep. (CCH) at 21,478)),
+aff'd, 364 Fed. Appx. 657, No. 08-5559-ag, 2009 WL 3326624 (2d Cir, 2009), Itis also not
+necessary that there be an actual effect on price. See CFTC vy, Amaranth Advisors, L.L.C., 554 F.
+Supp.2d 523, 533 (S.D.N.Y. 2008).
+
+Here, as evidenced by the communications and other facts set forth above, certain
+Barclays FX traders specifically intended to affect the fixing of certain FX benchmarks,
+including the WM/R Rates and CME/EMTA Rate. Their intent is also made clear by the
+evidence that their motive was to benefit Barclays’ trading positions or the trading positions of
+other banks. Barclays, through its traders, took overt acts in furtherance of intent to affect the
+fixings of certain FX benchmarks, including the WM/R Rates and CME/EMTA Rate,
+Accordingly, Barclays engaged in acts of attempted manipulation of certain FX benchmarks,
+commodities in interstate commerce, in violation of Sections 6(c), 6(d) and 9(a)(2), 7 U.S.C. §§
+9, 13b and 13(a)(2) (2012). Additionally, with respect to conduct occurring on or after August
+15, 2011, Barclays engaged in acts of attempted manipulation in violation of Section 6(c)(3), 7
+U.S.C. § 933) (2012), and Regulation 180.2, 17 C.F.R. § 180.2 (2014).
+
+10
+
+ 
+B. Barclays Made False, Misleading or Knowingly Inaccurate Reports to the CME
+Relating to the Russian Ruble/ U.S. Dollar CME/EMTA Rate
+
+Section 9(a)(2) of the Act makes it unlawful for any person “knowingly to deliver or
+cause to be delivered for transmission through the mails or interstate commerce by telegraph,
+telephone, wireless, or other means of communication false or misleading or knowingly
+inaccurate reports concerning crop or market information or conditions that affect or tend to
+affect the price of any commodity in interstate commerce...” 7 U.S.C. § 13(a)(2) (2006);
+United States v. Brooks, 681 F.3d 678, 691 (Sth Cir. 2012); United States v. Valencia, 394 F.3d
+352, 354-55 (Sth Cir, 2004); see also CFTC vy. Johnson, 408 F. Supp. 2d 259, 267 (S.D. Tex.
+2005).
+
+In limited instances between August 2009 until August 2011, Barclays, acting through
+one of its traders, knowingly provided or caused to be provided to the CME false, misleading or
+knowingly inaccurate reports concerning the bids and offers at which it could execute a $100,000
+RUB/USD spot transaction for next-day value in the Moscow marketplace for purposes of the
+CME/EMTA Rate calculation. The Barclays trader’s reports were also caused to be delivered
+through the mails or interstate commerce through the daily dissemination and publication
+globally, including in the United States, of the results of the survey via the Reuters, CME and
+EMTA websites. The CME also distributes the CME/EMTA Rate through its normal
+distribution channels. Barclays’s CME/EMTA submissions contained market information
+concerning the prevailing market rates at which a $100,000 RUB/USD spot transaction for next-
+day value in the Moscow marketplace could be executed. Such market information affects or
+tends to affect the prices of commodities in interstate commerce, including the rate at which the
+CME/EMTA Rate is fixed.
+
+During the relevant period, on certain occasions, Barclays’ CME/EMTA Rate survey
+responses were false, misleading or inaccurate because the bids and offers it submitted were
+skewed to benefit trading positions held by the Barclays’ trader or traders at other banks, and
+thus based on illegitimate factors. The Barclays trader knowingly submitted the false bids and
+offers. By submitting false bids or offers in its survey responses, Barclays conveyed false,
+misleading or inaccurate market information that the bids and offers it submitted were based on
+and related solely to its reasonable judgment and honest assessment of the bids and offers at
+which it could execute a $100,000 RUB/USD spot transaction for next-day value in the Moscow
+marketplace and were truthful and reliable.
+
+By such conduct, Barclays violated Section 9(a)(2) of the Act, 7 U.S.C, § 13(a)(2)
+(2006),
+
+Cc, Respondent Aided and Abetted the Attempts of Certain Traders at Other Banks to
+Manipulate FX Benchmark Rates
+
+Pursuant to Section 13(a) of the Act, liability as an aider and abettor requires proof that:
+(1) the Act was violated, (2) the aider and abettor had knowledge of the wrongdoing underlying
+the violation, and (3) the aider and abettor intentionally assisted the primary wrongdoer. See 7
+ULS.C. § 13c(a) (2012); In re Sharokh Nikkhah, {1999-2000 Transfer Binder] Comm. Fut, L.
+
+1]
+
+ 
+Rep. (CCH) ¥ 28,129, at 49,888 n.28 (CFTC May 12, 2000). Although actual knowledge of the
+primary wrongdoer’s conduct is required, knowledge of the unlawfulness of such conduct is not
+necessarily required to be demonstrated. See In re Lincolnwood Commodities, Inc., [1982-1984
+Transfer Binder] Comm. Fut. L. Rep. (CCH) § 21,986, at 28,255 (CFTC Jan. 31, 1984).
+Knowing assistance can be inferred from the surrounding facts and circumstances. Jd. See also
+In re Buckwalter, [1990-1992 Transfer Binder] Comm, Fut, L. Rep. (CCH) § 24,995, at 37,686
+(CFTC Jan, 25, 1991),
+
+Here, as evidenced by the foregoing acts of coordination to benefit respective trading
+positions, FX traders at other banks attempted to manipulate the WM/R, CME/EMTA and other
+FX benchmark rates in violation of Sections 6(c), 6(d) and 9(a)(2), 7 U.S.C, §§ 9, 13b and
+13(a)(2) (2012), Additionally, with respect to conduct occurring on or after August 15, 2011 FX
+traders at other banks violated Section 6(c)(3), 7 U.S.C, § 9(3), and Regulation 180.2, 17 C.F.R.
+§ 180.2 (2014). As evidenced above, Barclays, through the acts of certain of its FX traders, aided
+and abetted the attempts of traders at other banks to manipulate the FX benchmark rates in
+violation of the Act.
+
+D. Barclays is Liable for the Acts of its Agents
+
+Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2012), and Regulation 1.2, 17
+C.F.R. § 1.2 (2014), provide that “[t]he act, omission, or failure of any official, agent or other
+person acting for any individual, association, partnership, corporation, or trust within the scope
+of his employment or office shall be deemed the act, omission, or failure of such individual,
+association, partnership, corporation or trust[.]” Pursuant to Section 2(a)(1)(B) of the Act and
+Commission Regulation 1.2, strict liability is imposed on principals for the actions of its agents,
+See, e.g., Rosenthal & Co. y. CFTC, 802 F.2d 963, 966 (7th Cir. 1986); Dohmen-Ramirez &
+Wellington Advisory, Inc. v. CFTC, 837 F.2d 847, 857-58 (9th Cir, 1988),
+
+Barclays is liable for the acts, omissions and failures of any traders who acted as its
+employees and/or agents in relation to the conduct described above. Accordingly, Barclays
+violated Sections 6(c), 6(d) and 9(a)(2) of the Act, 7 U.S.C. §§ 9, 13b and 13(a)(2)(2012), by
+engaging in attempted manipulation and aiding and abetting attempted manipulation,
+Additionally, with respect to conduct occurring on or after August 15, 2011, Barclays is liable
+for violating Section 6(c)(3), 7 U.S.C. § 9(3), 13(a)(2) (2012), and Regulation 180.2, 17 C.F.R. §
+180.2 (2014), as set forth above.
+
+V.
+FINDINGS OF VIOLATIONS
+Based on the foregoing, the Commission finds that Respondent violated Sections 6(c),
+6(d) and 9(a)(2) of the Act, 7 U.S.C. §§ 9, 13b and 13(a)(2) (2012), and for conduct occurring on
+
+or after August 15, 2011, Section 6(c)(3), 7 U.S.C. § 9(3) and Regulation 180.2, 17 C.F.R.
+§ 180.2 (2014),
+
+12
+
+ 
+A,
+
+B,
+
+VI.
+
+OFFER OF SETTLEMENT
+
+Respondent, without admitting or denying the findings or conclusions herein has
+submitted the Offer in which it:
+
+Acknowledges receipt of service of this Order;
+
+Admits the jurisdiction of the Commission with respect to this Order only and for any
+action or proceeding brought or authorized by the Commission based on violation of or
+enforcement of this Order;
+
+Waives:
+
+1, the filing and service of a complaint and notice of hearing;
+
+2, a hearing;
+
+3, all post-hearing procedures;
+
+4, judicial review by any court;
+
+5. any and all objections to the participation by any member of the Commission’s
+staff in the Commission’s consideration of the Offer;
+
+6, any and all claims that it may possess under the Equal Access to Justice Act, 5
+U.S.C, § 504 (2012) and 28 U.S.C. § 2412 (2012), and/or the rules promulgated by
+the Commission in conformity therewith, Part 148 of the Commission’s
+Regulations, 17 C.F.R. §§ 148.1-30 (2014), relating to, or arising from, this
+proceeding;
+
+7. any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, §§ 201-253, 110 Stat.
+847, 857-868 (1996), as amended by Pub. L. No. 110-28, § 8302, 121 Stat. 112,
+204-205 (2007), relating to, or arising from, this proceeding; and
+
+8, any claims of Double Jeopardy based on the institution of this proceeding or the
+
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer; and
+
+Consents, solely on the basis of the Offer, to the Commission’s entry of this Order that:
+
+l.
+
+makes findings by the Commission that Respondent violated Sections 6(c), 6(d)
+and 9(a)(2) of the Act, 7 U.S.C. §§ 9, 13b and 13(a)(2) (2012), and for conduct
+
+13
+
+ 
+occurring on or after August 15, 2011, Section 6(c)(3), 7 U.S.C, § 9(3) and
+Regulation 180.2, 17 C.F.R. § 180.2 (2014);
+
+2, orders Respondent to cease and desist from violating Sections 6(c)(3) and 9(a)(2)
+of the Act, 7 U.S.C, §§ 9(3) and 13(a)(2) (2012) and Regulation 180.2, 17 C.F.R.
+§ 180.2 (2014);
+
+3. orders Respondent to pay a civil monetary penalty in the amount of $400,000,000
+plus post-judgment interest; and
+
+4, orders Respondent and its successors and assigns to comply with the conditions
+and undertakings consented to in the Offer and as set forth in Part VII of this
+Order.
+
+Respondent represents that it has already undertaken certain steps intended to make
+reasonable efforts to ensure the integrity of the FX markets discussed above, and
+including, but not limited to, the following:
+
+1, Prohibiting all FX spot traders from participating in multi-bank chat rooms;
+2. Strengthening surveillance of FX desks;
+3. Mandating at least annual training for all FX employees concerning appropriate
+
+market conduct;
+
+4, In October 2012, issuing GFX Market Colour Guidelines, which outlined what
+constituted an acceptable use of market information for communications with
+clients;
+
+5, In December 2012, issuing Guidelines on Information Exchange with
+Competitors, which specified that commercially sensitive information should not
+be shared with competitors;
+
+6. In June 2013, commencing an internal investigation of possible misconduct by its
+FX traders relating to FX benchmark rates;
+
+7, On October 25, 2013 reporting to the CFTC and other governmental authorities
+preliminary findings of questionable conduct;
+
+8, Reviewing Barclays’ business practices and systems and controls, which included
+remedial efforts across the bank at the Group, Compliance and front office
+
+levels. Among other projects that Barclays undertook:
+
+a. At the Group level, an independent review of Barclays’ business practices
+was conducted, which, among other things, led to the introduction of a
+
+14
+
+ 
+new code of conduct which sets out the ethical and professional behaviors
+expected of employees;
+
+b. At the Group level and with respect to its investment banking operations,
+significant work to strengthen the role of Compliance. The work has
+included increasing Compliance’s visibility on board and management
+committees, developing a process and reporting framework to support
+monitoring and verification activity undertaken by Compliance, holding
+standardized and structured monthly business line meetings between
+Compliance and the Global Head of the business they cover, formalizing a
+breach review process to ensure consistent and effective treatment of
+Compliance policy breaches, enhancing and transitioning to a centralized
+model for trade surveillance and e-communications surveillance and
+increasing Compliance’s budget for staff and training;
+
+c. Barclays undertook work on Front Office Risks and Controls, a group that
+was established in December 2012 and acts as a single coordination point
+to focus Barclays’ approach to risk and control within and across the Front
+Office. Barclays also undertook the development of a new Global
+Supervision policy, which was followed by a training program that all
+supervisors were required to complete by the end of Q3 2012 and the
+appointment of a Chief Controls Officer who is responsible for
+coordinating all control elements;
+
+d. Barclays has conducted, and continues to conduct, significant reviews of
+risks relating to benchmarks and conflicts of interest, including:
+
+i. A project designed to evaluate all benchmark rates for which
+Barclays was engaged in a subjective submission process, and as a
+result of which Barclays exited 10 benchmark submissions,
+automated 7 benchmark submissions, and implemented additional
+supervisory procedures for 13 benchmark contributions; and
+
+ii, A forward looking project to define a control framework for
+potential economic conflicts of interest between Barclays and third
+parties that arise from trading activities across products,
+benchmarks and client order types.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+15
+
+ 
+VIL.
+
+ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent shall cease and desist from violating Sections 6(c)(3) and 9(a)(2) of the Act,
+7 ULS.C. §§ 9(3) and 13(a)(2) (2012) of the Act and Regulation 180.2, 17 C.F.R. § 180.2
+(2014).
+
+Respondent shall pay a civil monetary penalty of $400 Million Dollars ($400,000,000),
+within ten (10) days of the date of entry of this Order (the “CMP Obligation”), Ifthe
+CMP Obligation is not paid in full within ten (10) days of the date of entry of this Order,
+then post judgment interest shall accrue on the CMP Obligation beginning on the date of
+entry of this Order and shall be determined by using the Treasury Bill rate prevailing on
+the date of entry of this Order pursuant to 28 U.S.C. § 1961 (2012). Respondent shall
+pay the CMP Obligation by electronic funds transfer, U.S. postal money order, certified
+check, bank cashier’s check, or bank money order. If payment is to be made other than
+by electronic funds transfer, then the payment shall be made payable to the Commodity
+Futures Trading Commission and sent to the address below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables --- AMZ 340
+E-mail Box: 9-AMC-AMZ-AR-CFTC
+DOT/FAA/MMAC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+Telephone: (405) 954-7262
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Nikki
+Gibson or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the Respondent and the name and docket
+number of this proceeding. The Respondent shall simultaneously transmit copies of the
+cover letter and the form of payment to the Chief Financial Officer, Commodity Futures
+Trading Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C.
+20581.
+
+Respondent and its successors and assigns shall comply with the following undertakings
+set forth in the Offer:
+
+1, REMEDIATION
+
+As set forth above in Section VI, paragraph F, Respondent represents that it has
+already undertaken and continues to undertake extensive remedial measures to
+
+16
+
+ 
+implement and strengthen its internal controls and procedures relating to its
+participation in the fixing of FX benchmark rates and related supervision of its FX
+traders. With respect to its remediation efforts to the extent not already
+undertaken, Respondent undertakes that:
+
+a. Respondent will implement and improve its internal controls and procedures
+in a manner reasonably designed to ensure the integrity of its participation in
+the fixing of any FX benchmark rate, including measures to identify and
+address internal or external conflicts of interest;
+
+b. Its remediation improvements will include internal controls and procedures
+relating to:
+
+# measures designed to enhance the detection and deterrence of
+improper communications concerning FX benchmark rates, including
+the form and manner in which communications may occur;
+
+* monitoring systems designed to enhance the detection and deterrence
+of trading or other conduct potentially intended to manipulate directly
+or indirectly FX benchmark rates;
+
+# periodic audits, at least annually, of Respondent’s participation in the
+fixing of any FX benchmark rate;
+
+= supervision of trading desks that participate in the fixing of any FX
+benchmark rate;
+
+= routine and on-going training of all traders, supervisors and others who
+are involved in the fixing of any FX benchmark rate;
+
+# processes for the periodic but routine review of written and oral
+communications of any traders, supervisors and others who are
+involved in the fixing of any FX benchmark rate with the review being
+documented and documentation being maintained for a period of three
+years; and
+
+" continuing to implement its system for reporting, handling and
+investigating any suspected misconduct or questionable, unusual or
+unlawful activity relating to the fixing of any FX benchmark rate with
+escalation to compliance and legal, and with reporting of material
+matters to the executive management of Barclays and the Commission,
+as appropriate; the Respondent shall maintain the record basis of the
+handling of each such matter for a period of three years.
+
+c. Within 120 days of the entry of this Order, Respondent shall make a report to
+the Commission, through the Division, concerning its remediation efforts,
+
+17
+
+ 
+prior to and since the entry of this Order. Within 365 days of the entry of this
+Order, Respondent shall submit a report to the Commission, through the
+Division, explaining how it has complied with the undertakings set forth
+herein, The report shall contain a certification from a representative of the
+Respondent’s Executive Management, after consultation with the
+Respondent’s chief compliance officer(s), that the Respondent has complied
+with the undertakings set forth above, and that it has established policies,
+procedures, and controls to satisfy the undertakings set forth in the Order,
+
+COOPERATION WITH THE COMMISSION
+
+In this action, and in any investigation or other action instituted by the
+Commission, related to the subject matter of this action, Respondent shall
+cooperate fully and expeditiously with the Commission, including the Division,
+As part of such cooperation, Respondent agrees to the following for a period of
+three (3) years from the date of the entry of this Order, or until all related
+investigations and litigations in which the Commission, including the Division, is
+a party, are concluded, including through the appellate review process, whichever
+
+period is longer:
+
+I.
+
+Preserve all records relating to the subject matter of this
+proceeding, including, but not limited to, audio files, electronic
+mail, other documented communications, and trading records;
+
+Comply fully, promptly, completely, and truthfully with all
+inquiries and requests for non-privileged information or
+documents;
+
+Provide authentication of documents and other evidentiary
+material;
+
+Provide copies of non-privileged documents within Barclays’
+possession, custody or control;
+
+Subject to applicable laws and regulations, Barclays will make
+its best efforts to produce any current (as of the time of the
+request) officer, director, employee, or agent of Barclays,
+regardless of the individual’s location, and at such location that
+minimizes Commission travel expenditures, to provide
+assistance at any trial, proceeding, or Commission
+investigation related to the subject matter of this proceeding,
+including, but not limited to, requests for testimony,
+depositions, and/or interviews, and to encourage them to testify
+completely and truthfully in any such proceeding, trial, or
+investigation; and
+
+18
+
+ 
+6. Subject to applicable laws and regulations, Barclays will make
+its best efforts to assist in locating and contacting any prior (as
+of the time of the request) officer, director, employee or agent
+of Barclays;
+
+Respondent also agrees that it will not undertake any act that would limit its
+ability to cooperate fully with the Commission. Barclays will designate an agent
+located in the United States of America to receive all requests for information
+pursuant to these Undertakings, and shall provide notice regarding the identity of
+such Agent to the Division upon entry of this Order. Should Barclays seek to
+change the designated agent to receive such requests, notice of such intention
+shall be given to the Division fourteen (14) days before it occurs. Any person
+designated to receive such request shall be located in the United States of
+America.
+
+PROHIBITED OR CONFLICTING UNDERTAKINGS
+
+Should the Undertakings herein be prohibited by, or be contrary to the provisions
+of any obligations imposed on Respondent by any presently existing, or
+hereinafter enacted or promulgated laws, regulations, regulatory mandates, or the
+rules or definitions issued by a Benchmark Publisher, then Respondent shall
+promptly transmit notice to the Commission (through the Division) of such
+prohibition or conflict, and shall meet and confer in good faith with the
+Commission (through the Division) to reach an agreement regarding possible
+modifications to the Undertakings herein sufficient to resolve such inconsistent
+obligations. In the interim, Respondent will abide by the obligations imposed by
+the law, regulations, regulatory mandates and Benchmark Publishers’ rules and
+definitions. Nothing in these Undertakings shall limit, restrict or narrow any
+obligations pursuant to the Act or the Commission’s Regulations promulgated
+thereunder, including, but not limited to, Regulations 1.31 and 1.35, 17 C.F.R. §§
+1.31 and 1.35 (2014), in effect now or in the future.
+
+PUBLIC STATEMENTS
+
+Respondent agrees that neither it nor any of its successors and assigns, agents or
+employees under its authority or control shall take any action or make any public
+statement denying, directly or indirectly, any findings or conclusions in this Order
+or creating, or tending to create, the impression that this Order is without a factual
+basis; provided, however, that nothing in this provision shall affect Respondent’s
+(1) testimonial obligations, or (11) right to take positions in other proceedings to
+which the Commission is not a party. Respondent and its successors and assigns
+shall undertake all steps necessary to ensure that all of its agents and/or
+employees under its authority or control understand and comply with this
+agreement.
+
+19
+
+ 
+5. PARTIAL SATISFACTION
+Respondent understands and agrees that any acceptance by the Commission of
+partial payment of Respondent’s CMP Obligation shall not be deemed a waiver of
+
+its obligation to make further payments pursuant to this Order, or a waiver of the
+Commission’s right to seek to compel payment of any remaining balance.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission,
+
+    
+
+Christopher J.“Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+ 
+
+Dated: May 20, 2015
+
+20
+
+ 

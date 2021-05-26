@@ -175,36 +175,35 @@ def clean_doc(
     return pages
 
 
-def get_structured_document(file):
+
+def get_structured_document(list_sentense):
     text_structured=[]
-    file_cleaned=clean_doc(file)
     i=0
     text_={}
+    text=[]
     continu=[]
     sec_num=0
-    while sec_num < len(file_cleaned):
-        if is_title(file_cleaned[sec_num][0]):
-            continu.append(file_cleaned[sec_num]) 
-            text_['hearder']=file_cleaned[sec_num][0]
-            sec_num+=1
-            while not is_title(file_cleaned[sec_num][0]) and sec_num < (len(file_cleaned)) :
-                      continu.append(file_cleaned[sec_num])
-                      sec_num+=1
-            if is_title(file_cleaned[sec_num][0]):
-                text_['content'] =continu
-                text_['id']=i
-                text_['hearder']=file_cleaned[sec_num][0]
-                sec_num+=1
-                continu=[]
-                i+=1
-            else:
-                text_['content'] =continu
-                text_['id']=i
-        
+    while sec_num < len(list_sentense):
+        j=0
+        if is_section_num(list_sentense[sec_num]):
+            text_['section_num']=list_sentense[sec_num]
+            text_['id']=i
+
+            while not is_section_num(list_sentense[sec_num + j]) and j < len(list_sentense):
+                text.append(list_sentense[sec_num + j])
+                j+=1
+                print(text)
+        else:
+            text.append(list_sentense[sec_num])
+            text.append(list_sentense[sec_num + j])
+
+        text_['content']=text
         text_structured.append(text_)
+        i+=1
 
-
-    return text_structured      
+        sec_num+=1
+        
+    return text_structured
 
 
 def word_frequency(text):

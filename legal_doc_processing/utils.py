@@ -24,19 +24,19 @@ def load_data(file_path: str) -> str:
     return txt
 
 
-def clean_spec_chars(text: str) -> tuple:
-    """first text cleaning based on regex, just keep text not spec chars
-    return tupple of text"""
+# def clean_spec_chars(text: str) -> tuple:
+#     """first text cleaning based on regex, just keep text not spec chars
+#     return tupple of text"""
 
-    # article text
-    article_text = re.sub(r"\[[0-9]*\]", " ", text)
-    article_text = re.sub(r"\s+", " ", article_text)
+#     # article text
+#     article_text = re.sub(r"\[[0-9]*\]", " ", text)
+#     article_text = re.sub(r"\s+", " ", article_text)
 
-    # formated text
-    formatted_article_text = re.sub("[^a-zA-Z]", " ", article_text)
-    formatted_article_text = re.sub(r"\s+", " ", formatted_article_text)
+#     # formated text
+#     formatted_article_text = re.sub("[^a-zA-Z]", " ", article_text)
+#     formatted_article_text = re.sub(r"\s+", " ", formatted_article_text)
 
-    return article_text, formatted_article_text
+#     return article_text, formatted_article_text
 
 
 # def handle_encoding(text: str) -> str:
@@ -112,28 +112,32 @@ def get_token(text):
     sentence_list
     return sentence_list
 
-def get_para(sentence_list):
+def get_section_indx(list_token):
+
+    idx=[]
+    for i in range(len(list_token)):
+        if is_title(list_token[i]):
+            idx.append(i)
+            
+    return idx
+def get_structure(text):     
+    list_token=get_token(text)
+    idx=get_section_indx(list_token)
     j=0
-    i=0
-    para=[]
-    paragraphes={}
-    idx=0
-    while i < len(sentence_list):
-        para=[]
-        paragraphes['hearder']=sentence_list[i]
-
-        while not is_section_num(sentence_list[i]):
-            para.append(sentence_list[i])
-            i+=1  
-
-        if is_section_num(sentence_list[i-1]):
-            paragraphes['content']=para
-            paragraphes['id']=idx
-            idx=idx+1
+    
+    structure=[]
+    k=0
+    for i in idx:
+        section={}
+        section['content']=' '.join(list_token[j:i])
+        section['header']=list_token[j]
+        section['id']=k
+        structure.append(section)
+        j=i
+        k=k+1
         
-
-    return paragraphes
-
+        
+    return structure
 
 def clean_doc(
     file_text,
@@ -175,35 +179,6 @@ def clean_doc(
     return pages
 
 
-
-def get_structured_document(list_sentense):
-    text_structured=[]
-    i=0
-    text_={}
-    text=[]
-    continu=[]
-    sec_num=0
-    while sec_num < len(list_sentense):
-        j=0
-        if is_section_num(list_sentense[sec_num]):
-            text_['section_num']=list_sentense[sec_num]
-            text_['id']=i
-
-            while not is_section_num(list_sentense[sec_num + j]) and j < len(list_sentense):
-                text.append(list_sentense[sec_num + j])
-                j+=1
-                print(text)
-        else:
-            text.append(list_sentense[sec_num])
-            text.append(list_sentense[sec_num + j])
-
-        text_['content']=text
-        text_structured.append(text_)
-        i+=1
-
-        sec_num+=1
-        
-    return text_structured
 
 
 def word_frequency(text):

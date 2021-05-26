@@ -24,19 +24,19 @@ def load_data(file_path: str) -> str:
     return txt
 
 
-# def clean_spec_chars(text: str) -> tuple:
-#     """first text cleaning based on regex, just keep text not spec chars
-#     return tupple of text"""
+def clean_spec_chars(text: str) -> tuple:
+    """first text cleaning based on regex, just keep text not spec chars
+    return tupple of text"""
 
-#     # article text
-#     article_text = re.sub(r"\[[0-9]*\]", " ", text)
-#     article_text = re.sub(r"\s+", " ", article_text)
+    # article text
+    article_text = re.sub(r"\[[0-9]*\]", " ", text)
+    article_text = re.sub(r"\s+", " ", article_text)
 
-#     # formated text
-#     formatted_article_text = re.sub("[^a-zA-Z]", " ", article_text)
-#     formatted_article_text = re.sub(r"\s+", " ", formatted_article_text)
+    # formated text
+    formatted_article_text = re.sub("[^a-zA-Z]", " ", article_text)
+    formatted_article_text = re.sub(r"\s+", " ", formatted_article_text)
 
-#     return article_text, formatted_article_text
+    return article_text, formatted_article_text
 
 
 # def handle_encoding(text: str) -> str:

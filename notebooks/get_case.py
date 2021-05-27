@@ -18,28 +18,6 @@ from notebooks.paths import *
 # ----------------------------------
 #
 
-# ### 2.1 -  For one doc
-#
-#
-# from data
-
-
-# read file
-raw_text = load_data(one_file_order)
-raw_text[:300]
-
-
-# clean and first
-clean_pages = clean_doc(raw_text)
-first_page = clean_pages[0]
-first_page[:10]
-
-
-# pred case
-case = get_case(clean_pages[0])
-case
-
-
 # ### 2.2 -  For all test doc
 
 

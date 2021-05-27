@@ -40,46 +40,40 @@ def get_case(first_page, length_treshold=50):
     return "-- error : case not founded --"
 
 
-def get_defendant(first_page):
+def ask_who_is(txt: str, who: str, nlpipe=None) -> list:
+    """ init a nlpipe if needed and ask who is the who """
 
-    # Process whole documents
-    nlp = spacy.load("en_core_web_sm")
+    # init pipleine if needed
+    if not nlpipe:
+        nlpipe = pipeline(
+            "question-answering",
+            model="distilbert-base-cased-distilled-squad",
+            tokenizer="distilbert-base-cased",
+        )
+
+    # pipe and return
+    return nlpipe(question=f"Who is the {who}?", context=".".join(txt), topk=3)
+
+
+def get_defendant(first_page: list, nlpipe=None) -> str:
+    """from a list of text lines, create a pipelie if needed and asqk question """
+
+    # first_page_100 = [text for text in first_page if len(text) > 100]
     joined_first_page = "\n".join(first_page)
-    doc = nlp(joined_first_page)
 
-    # Question answering pipeline, specifying the checkpoint identifier
-    nlpipe = pipeline(
-        "question-answering",
-        model="distilbert-base-cased-distilled-squad",
-        tokenizer="distilbert-base-cased",
-    )
+    # ask
+    ans = ask_who_is(joined_first_page, "defendant", nlpipe)
 
-    first_page_100 = [text for text in first_page if len(text) > 100]
-
-    defendant_ans = nlpipe(
-        question="Who is the defendant?", context=".".join(first_page_100), topk=3
-    )
-    return defendant_ans[0]["answer"]
+    return ans[0]["answer"]
 
 
-def get_violeted(first_page):
+def get_violeted(first_page: list, nlpipe=None) -> str:
+    """from a list of text lines, create a pipelie if needed and asqk question """
 
-    # Process whole documents
-    nlp = spacy.load("en_core_web_sm")
+    # first_page_100 = [text for text in first_page if len(text) > 100]
     joined_first_page = "\n".join(first_page)
-    doc = nlp(joined_first_page)
 
-    # Question answering pipeline, specifying the checkpoint identifier
-    nlpipe = pipeline(
-        "question-answering",
-        model="distilbert-base-cased-distilled-squad",
-        tokenizer="distilbert-base-cased",
-    )
+    # ask
+    ans = ask_who_is(joined_first_page, "violated", nlpipe)
 
-    first_page_100 = [text for text in first_page if len(text) > 100]
-
-    violeted_ans = nlpipe(
-        question="Who violeted?", context=".".join(first_page_100), topk=3
-    )
-
-    return violeted_ans[0]["answer"]
+    return ans[0]["answer"]

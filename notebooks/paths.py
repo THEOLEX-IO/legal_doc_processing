@@ -20,7 +20,7 @@ def x_data_files(num: int = 10, _type: str = "order") -> list:
     and retunr the list of files with usable paths"""
 
     # sanity check
-    assert _type in ["press", "order"]
+    assert _type in ["press", "order", "complaint"]
 
     # list of data/*
     x_file_paths = os.listdir(os.getcwd() + "/data/")[:num]

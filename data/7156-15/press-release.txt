@@ -1,0 +1,83 @@
+ 
+
+April 21, 2015
+
+CFTC Charges U.K. Resident Navinder Singh Sarao and His Company Nav Sarao Futures
+Limited PLC with Price Manipulation and Spoofing
+
+The CFTC Complaint Alleges that Defendants’ Manipulative Conduct
+Contributed to the Market Conditions that Led to the May 6, 2010 Flash
+Crash
+
+Washington, DC - The U.S. Commodity Futures Trading Commission (CFTC) today announced the unsealing of a civil
+enforcement action in the U.S. District Court for the Northern District of Illinois against Nav Sarao Futures Limited PLC
+(Sarao Futures) and Navinder Singh Sarao (Sarao) (collectively, Defendants). The CFTC Complaint charges the
+Defendants with unlawfully manipulating, attempting to manipulate, and spoofing — all with regard to the E-mini S&P
+500 near month futures contract (E-mini S&P). The Complaint had been filed under seal on April 17, 2015 and kept sealed
+until today’s arrest of Sarao by British authorities acting at the request of the U.S. Department of Justice (DOJ). After the
+arrest, the DOJ unsealed its own criminal Complaint charging Sarao with substantively the same misconduct.
+
+The Standard & Poor’s 500 Index is an index of 500 stocks designed to be a leading indicator of U.S. equities. The E-mini
+S&P 500 is a stock market index futures contract based on the Standard & Poor’s 500 Index and is one of the most
+popular and liquid equity index futures contracts in the world. The contract is traded only at the Chicago Mercantile
+Exchange (CME).
+
+According to the Complaint, for over five years and continuing as recently as at least April 6, 2015, Defendants have
+engaged in a massive effort to manipulate the price of the E-mini S&P by utilizing a variety of exceptionally large,
+aggressive, and persistent spoofing tactics. In particular, according to the Complaint, in or about June 2009, Defendants
+modified a commonly used off-the-shelf trading platform to automatically simultaneously “layer” four to six exceptionally
+large sell orders into the visible E-mini S&P central limit order book (the Layering Algorithm), with each sell order one
+price level from the other. As the E-mini S&P futures price moved, the Layering Algorithm allegedly modified the price of
+the sell orders to ensure that they remained at least three or four price levels from the best asking price; thus, remaining
+visible to other traders, but staying safely away from the best asking price. Eventually, the vast majority of the Layering
+Algorithm orders were canceled without resulting in any transactions. According to the Complaint, between April 2010
+and April 2015, Defendants utilized the Layering Algorithm on over 400 trading days.
+
+The Complaint alleges that Defendants often cycled the Layering Algorithm on and off several times during a typical
+trading day to create large imbalances in the E-mini S&P visible order book to affect the prevailing E-mini S&P price.
+Defendants then allegedly traded in a manner designed to profit from this temporary artificial volatility. According to the
+Complaint, from April 2010 to present, Defendants have profited over $40 million, in total, from E-mini S&P trading.
+
+As alleged in the Complaint, Defendants were exceptionally active in the E-mini S&P on May 6, 2010, commonly known
+as the Flash Crash Day. On the afternoon of that day, the E-mini S&P market price suffered a sharp decline, followed
+shortly thereafter by sharp declines in the prices of other major U.S. equities indices and individual equities. After a few
+minutes, markets quickly rebounded to near previous price levels. According to the Complaint, Defendants utilized the
+Layering Algorithm continuously, for over two hours, immediately prior to the precipitous drop in the E-mini S&P price,
+applying close to $200 million worth of persistent downward pressure on the E-mini S&P price. According to the
+Complaint, Defendants’ manipulative activities contributed to an extreme E-mini S&P order book imbalance that
+contributed to market conditions that led to the Flash Crash.
+
+The Complaint further alleges that Defendants engaged in a variety of other manual spoofing techniques whereby
+Defendants allegedly would place and quickly cancel large orders with no intention of the orders resulting in
+transactions. At times, according to the Complaint, this manual spoofing was used to exacerbate the price impact of the
+Layering Algorithm.
+
+CFTC Director of Enforcement Aitan Goelman commented: “Protecting the integrity and stability of the U.S. futures
+markets is critical to ensuring a properly functioning financial system. Today’s actions make clear that the CFTC, working
+with its partners on the criminal side, will find and prosecute manipulators of U.S. futures markets wherever they may
+be.”
+
+In its ongoing litigation, the CFTC is seeking permanent injunctive relief, disgorgement, civil monetary penalties, trading
+suspensions or bans, and payment of costs and fees.
+
+As noted above, the U.S. Department of Justice filed a related criminal action charging Sarao with manipulation,
+attempted manipulation, spoofing, and wire fraud on February 11, 2015, in the U.S. District Court for the Northern District
+of Illinois. In conjunction with that action, Scotland Yard took Sarao into custody today, at his residence in London. Sarao
+awaits extradition to the United States on these charges.
+Given Defendants’ ongoing unlawful conduct and the potential for dissipation of Defendants’ ill-gotten gains, on April 17,
+2015, U.S. District Judge Andrea R. Wood issued an Order freezing and preserving assets under Defendants’ control and
+prohibiting them from destroying documents or denying CFTC staff access to their books and records. The Court has
+scheduled a hearing for May 1, 2015, on the CFTC’s motion for a preliminary injunction.
+
+The CFTC thanks and acknowledges the assistance of the CME, the U.S. Department of Justice, the Federal Bureau of
+Investigation, the U.K.’s Financial Conduct Authority, Scotland Yard, and the Securities and Exchange Commission.
+
+CFTC Division of Enforcement staff members responsible for this matter are Jeff Le Riche, Jo Mettenburg, Jenny Chapin,
+Jessica Harris, Allison Sizemore, Carlin Metzger, Elizabeth Padgett, Mary Lutz, Jeri Cobb, Jordon Grimm, Rick Glaser, and
+Charles Marvine.
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: June 8, 2015

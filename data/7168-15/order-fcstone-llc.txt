@@ -1,0 +1,355 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+(— RECEIVED CFTC >
+
+ 
+
+ 
+
+In the Matter of:
+
+ 
+
+FCStone, LLC
+
+Proceedings Clerk
+CFTC Docket No. 15-21 Se 11:53 am, May 01, 2015)
+
+ 
+
+ 
+
+Respondent.
+
+ 
+
+Sea et Nett eet” “ee gage” ee Seer”
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, AS AMENDED,
+MAKING FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+
+I.
+
+The Commodity Futures Trading Commission (“Commission”) has reason to believe that
+from at least 2008 until May 15, 2013 (the “Relevant Period”), FCStone LLC (“FCStone” or
+“Respondent”) violated Commission Regulation (“Regulation”) 166.3, 17 C.F.R. § 166.3 (2014).
+Therefore, the Commission deems it appropriate and in the public interest that public
+administrative proceedings be, and hereby are, instituted to determine whether Respondent
+engaged in the violations set forth herein and to determine whether any order should be issued
+imposing remedial sanctions,
+
+II.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
+Commodity Exchange Act, as Amended, Making Findings and Imposing Remedial Sanctions
+(“Order”) and acknowledge service of this Order.'
+
+ 
+
+Respondent consents to the entry of this Order and to the use of these findings in this
+
+proceeding and in any other proceeding brought by the Commission or to which the Commission
+is a party; provided, however, that Respondent does not consent to the use of the Offer, or the
+findings or conclusions in this Order consented to in the Offer, as the sole basis for any other
+proceeding brought by the Commission, other than in a proceeding in bankruptcy or to enforce
+the terms of this Order. Nor does Respondent consent to the use of the Offer or this Order, or the
+findings or conclusions in this Order consented to in the Offer, by any other party in any other
+proceeding.
+III.
+The Commission finds the following:
+A, SUMMARY
+
+FCStone had inadequate procedures in place to govern the transfer of positions between
+customer accounts held at the firm, had not adequately trained its personnel on the circumstances
+of when such transfers may occur, and on one occasion failed to diligently supervise the handling
+by its employees of certain commodity interest accounts carried at the firm in violation of
+Regulation 166.3, 17 C.F.R. § 166.3 (2014).
+
+B. RESPONDENT
+
+FCStone, LLC (“FCStone”) is a Futures Commission Merchant (“FCM”) and
+Commodity Trading Advisor registered with the Commission since March 6, 2000 and August 8,
+2012, respectively. FCStone is a subsidiary of FCStone Group Inc., which was acquired in
+September 2009 by International Assets Holding Corporation. International Assets Holding
+Corporation changed its name to INTL FCStone Inc. in 2011 and is a publicly-held company
+traded on the NASDAQ under the symbol “INTL”.
+
+C. FACTS
+
+A clearing member, like Respondent, may transfer trades or positions among customers’
+commodity accounts held at the firm so long as the transfer is merely from one account to
+another account that has the same beneficial ownership. Indeed, from at least 2008 to the
+present, the Chicago Mercantile Exchange (“CME”) has had a rule to that effect governing the
+transfer of positions between customers’ commodity accounts held at a firm.’
+
+Respondent’s Compliance Manual in effect during the Relevant Period did not have
+policies or procedures governing the transfer of positions between customers’ accounts, and
+FCStone had no set written policy governing a request by a customer to transfer positions
+between accounts. Instead, FCStone had an unwritten policy such that its employees understood
+that they were to seek guidance if a transfer was requested between two accounts that were not
+under common control. That unwritten policy, however, did not provide specific guidance
+regarding the impact of beneficial ownership on account transfers. In particular, transfers
+between accounts can only occur when (i) the transfer merely constituted a change from one
+account to another account and (11) the underlying beneficial ownership in the two accounts
+remained the same.
+
+ 
+
+2 In substance, during the Relevant Period, CME Rule 853, which is titled “Transfer of
+
+Trades,” required that existing trades may be transferred on the books of a clearing member so
+long as the transfer merely constitutes a change from one account to another account provided
+the underlying beneficial ownership in the accounts remains the same. In March of 2014, the
+CME amended Rule 853.A(1)(i) to state that trades may be transferred on the books of a clearing
+member only when the transfer results in the transfer of trade(s) from one account to another
+account with “identical” beneficial ownership.
+In May 2013 FCStone transferred positions between two accounts that did not have the
+same underlying beneficial ownership. In particular, FCStone was the clearing FCM for an
+individual precious metals supplier located in the United Arab Emirates. On May 2, 2013, the
+individual orally requested that Respondent transfer approximately $20 Million in gold and silver
+positions from his personal account to a corporate account in which he was 98.95% owner.
+Respondent’s employees made the transfer believing that, because the individual and corporate
+accounts had the same large trader number and the individual controlled both accounts, the
+positions could be transferred between the two accounts. In actuality, however, the tax
+identification numbers for the two accounts were different, and the accounts did not have the
+same underlying beneficial ownership because there were two fractional minority owners of the
+corporate account.
+
+Subsequently, before it was contacted by the Commission concerning the matters
+addressed in this Order, FCStone revised its written procedures concerning the transfer of
+positions between customers’ accounts” and, on or about May 15, 2013, on its own and without
+being prompted by the Commission, updated its Compliance Manual. Among other things,
+FCStone now included a new subsection titled “Transfers Between Accounts.” Specifically, this
+new subsection provides:
+
+“In general, transfers of positions may be made between two accounts carried by
+the Firm only if such transfer does not result in any change in the beneficial
+ownership of the positions. In addition, such transfers may be made only upon
+receipt of a written request by the beneficial owner stating: (i) the relevant
+positions to be transferred; (ii) the accounts involved; and if necessary (iii) that
+the accounts involved are beneficially owned by the same person or entity. Under
+certain circumstances, additional or alternative documentation may be required to
+affect the transfer.”
+
+Additionally, since updating its Compliance Manual to include the new subsection
+concerning the procedures for transferring positions between customers’ commodity accounts,
+FCStone has provided adequate training to its supervisors and/or employees on its new
+procedures.
+
+Further, FCStone cooperated fully with the Commission’s investigation into the matters
+described in this Order.
+
+IV. LEGAL DISCUSSION
+Regulation 166.3, 17 C.F.R. § 166.3 (2014), requires:
+
+ 
+
+3 FCStone revised its written procedures in part because, on May 3, 2013, a large margin
+
+call was issued in the corporate account to which the positions had been transferred the previous
+day, and FCStone then realized that the two accounts did not have the same underlying beneficial
+ownership.
+Each Commission registrant, except an associated person who has no supervisory
+duties, must diligently supervise the handling by its partners, officers, employees
+and agents (or persons occupying a similar status or performing a similar
+function) of all commodity interest accounts carried, operated, advised or
+introduced by the registrant and all other activities of its partners, officers,
+employees and agents (or persons occupying a similar status or performing a
+similar function) relating to its business as a Commission registrant.
+
+A violation under Regulation 166.3, 17 C.F.R. § 166.3 (2014), is an independent
+violation for which no underlying violation is necessary. See Jn re Collins, [1996-1998 Transfer
+Binder] Comm. Fut. L. Rep. (CCH) 4 27,194 at 45,744 (CFTC Dec. 10, 1997).
+
+A violation of Regulation 166.3, 17 C.F.R. § 166.3 (2014), is demonstrated by showing
+either that: (1) the registrant’s supervisory system was generally inadequate; or (2) the registrant
+failed to perform its supervisory duties diligently. Jn re Murlas Commodities, [1994-1996
+Transfer Binder] Comm. Fut. L Rep. (CCH) § 26,485 at 43,161 (CFTC Sept. 1, 1995); In re
+GNP Commodities, Inc., [1990-1992 Transfer Binder] Comm. Fut. L. Rep. (CCH) { 25,360 at
+39,219 (CFTC Aug. 11, 1992) (providing that, even if an adequate supervisory system is in
+place, Regulation 166.3 can still be violated if the supervisory system is not diligently
+administered), aff'd sub nom. Monieson v. CFTC, 996 F.2d 852 (7th Cir.); In re Paragon Futures
+Assoc., (1990-1992 Transfer Binder] Comm. Fut. L. Rep. (CCH) 4 25,266 at 38,850 (CFTC Apr.
+1, 1992) (“The focus of any proceeding to determine whether Rule 166.3 has been violated will
+be on whether [a] review [has] occurred and, if it did, whether it was diligent”); Samson Refining
+Co. v. Drexel Burnham Lambert, Inc. [1987-1990 Transfer Binder] Comm. Fut. L. Rep. (CCH)
+
+{ 24,596 at 36,566 (CFTC Feb. 16 1990) (noting that, under Regulation 166.3, an FCM has a
+“duty to develop procedures for the detection and deterrence of possible wrongdoing by its
+agents”)(internal quotation omitted). Evidence of violations that “should be detected by a
+diligent system of supervision, either because of the nature of the violations or because the
+violations have occurred repeatedly” is probative of a failure to supervise. Jn re Paragon
+Futures Assoc., | 25,266 at 38,850; CFTC v. Sidoti, 178 F.3d 1132, 1137 (11th Cir. 1999)
+(defendant was liable for failure to supervise because he “knew of specific instances of
+misconduct, yet failed to take reasonable steps to correct the problems”).
+
+Further, while the absence of a written policy or formal training on every issue does not
+constitute a failure to supervise, Regulation 166.3 requires all registered FCMs to diligently
+supervise all activities of its officers, employees, and agents relating to its business as an FCM.
+See 17 C.F .R. § 166.3 (2014). Thus, an FCM may violate Regulation 166.3 even if it does not
+violate any specific supervisory requirement imposed by either statutory provision or regulatory
+rulemaking and “a showing that the registrant lacks an adequate supervisory system, standing
+alone, can be sufficient” to demonstrate a violation of Regulation 166.3. In re Paragon, § 25,266
+at 38,850.
+
+During the Relevant Period, FCStone had inadequate compliance policies and procedures
+governing the transfer of positions between customer accounts held at FCStone, inadequate
+training for its personnel on the circumstances of when such transfers may occur, and failed to
+perform its supervisory duties diligently by permitting its employees to transfer approximately
+$20 Million in gold and silver positions between two accounts that did not have the same
+underlying beneficial ownership.
+
+V. FINDINGS OF VIOLATION
+
+Based on the foregoing, the Commission finds that, during the Relevant Period, FCStone
+violated Regulation 166.3, 17 C.F.R. § 166.3 (2014).
+
+VI. OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+A. Acknowledges receipt of service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C. Waives:
+
+1. the filing and service of a complaint and notice of hearing;
+
+2. ahearing;
+
+3. all post-hearing procedures;
+
+4. —_ judicial review by any court;
+
+5. any and all objections to the participation by any member of the Commission’s
+staff in the Commission’s consideration of the Offer;
+
+6. any and all claims that it may possess under the Equal Access to Justice Act, 5
+U.S.C. § 504 (2012) and 28 U.S.C. § 2412 (2012), and/or the rules promulgated by
+the Commission in conformity therewith, Part 148 of the Commission’s
+Regulations, 17 C.F.R. §§ 148.1-30 (2014), relating to, or arising from, this
+proceeding;
+
+7. any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, §§ 201-253, 110 Stat.
+847, 857-868 (1996), as amended by Pub. L. No. 110-28, § 8302, 121 Stat. 112,
+204-205 (2007), relating to, or arising from, this proceeding; and
+
+8. any claims of Double Jeopardy based on the institution of this proceeding or the
+
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+Stipulate(s) that the record basis on which this Order is entered shall consist solely of the
+
+findings contained in this Order to which Respondent(s) has/have consented in the Offer;
+E.
+
+Consent(s), solely on the basis of the Offer, to the Commission’s entry of this Order that:
+
+1. makes findings by the Commission that Respondent violated Regulation 166.3, 17
+C.F.R. § 166.3 (2014);
+
+2. orders Respondent to cease and desist from violating Regulation 166.3, 17 C.F.R.
+§ 166.3 (2014);
+
+3. orders Respondent to pay a civil monetary penalty in the amount of One Hundred
+Forty Thousand Dollars ($140,000), plus post-judgment interest; and
+
+4. orders Respondent and its successors and assigns to comply with the conditions
+and undertakings consented to in the Offer and as set forth in Part VII of this
+Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VII. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A,
+
+Respondent shall cease and desist from violating Regulation 166.3, 17 C.F.R. § 166.3
+(2014);
+
+Respondent shall pay a civil monetary penalty in the amount of One Hundred Forty
+Thousand Dollars ($140,000) within ten (10) days of the date of entry of this Order (the
+“CMP Obligation”). Post-judgment interest shall accrue on the CMP Obligation
+beginning on the date of entry of this Order and shall be determined by using the
+
+Treasury Bill rate prevailing on the date of entry of this Order pursuant to 28 U.S.C.
+
+§ 1961 (2012). Respondent shall pay the CMP Obligation by electronic funds transfer,
+U.S. postal money order, certified check, bank cashier’s check, or bank money order. If
+payment is to be made other than by electronic funds transfer, then the payment shall be
+made payable to the Commodity Futures Trading Commission and sent to the address
+below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables --- AMZ 340
+DOT/FAA/MMAC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+Telephone: (405) 954-5644
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Nikki
+Gibson or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+
+C. Respondent and its successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+1, Public Statements: Respondent agrees that neither it nor any of its successors and
+assigns, agents or employees under its authority or control shall take any action or
+make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondent’s: (i) testimonial obligations; or (ii) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondent and its successors and assigns shall undertake all steps necessary to
+ensure that all of its agents and/or employees under its authority or control
+understand and comply with this agreement.
+
+2. Cooperation with the Commission: Respondent shal! cooperate fully and
+expeditiously with the Commission, including the Commission’s Division of
+Enforcement, and any other governmental agency in this action, and in any
+investigation, civil litigation, or administrative matter related to the subject matter
+of this action or any current or future Commission investigation related thereto.
+
+3. Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission of partial payment of Respondent’s CMP Obligation shall not be
+deemed a waiver of its obligation to make further payments pursuant to this
+Order, or a waiver of the Commission’s right to seek to compel payment of any
+remaining balance.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission
+
+Christopher J. bane
+
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: May 1, 2015

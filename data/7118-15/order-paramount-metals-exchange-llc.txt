@@ -1,0 +1,707 @@
+ 
+
+(— RECEIVED CFTC \
+
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+ 
+
+Proceedings Clerk
+
+\ 12:07 pm, Feb 05, 2015 /
+
+In the Matter of:
+
+ 
+
+Paramount Metals Exchange,
+LLC;
+
+Paramount Credit, LLC;
+Isaiah Goldman; and
+
+Brock Catronio,
+
+CFTC Docket No. 15-16
+
+Respondents.
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO SECTIONS 6(c) AND 6(d) OF
+: THE COMMODITY EXCHANGE ACT, MAKING FINDINGS
+AND IMPOSING REMEDIAL SANCTIONS
+
+I.
+
+The Commodity Futures Trading Commission (“Commission”) has reason to believe that
+during the period between December 2011 and February 2013 (the “relevant period”),
+Paramount Metals Exchange, LLC (“Paramount Metals”) and Paramount Credit, LLC
+(“Paramount Credit”) (collectively, “Paramount’), including their controlling persons, Isaiah
+Goldman (“Goldman”) and Brock Catronio (“Catronio’”’), (collectively “the Respondents”),
+violated Sections 4(a), 4b(a)(2)(A) & (C), 4b(a)(2)(B), 4d and 6(c)(1) of the Commodity
+Exchange Act (“Act”), 7 U.S.C. 8§ 6(a), 6b(a)(2)(A) &(C), 6b(a)(2)(B), 6d and 9(1) (2012) and
+Regulation 180.1(a)(1)-(3), 17 C.F.R. § 180.1(a)(2014). Therefore, the Commission deems it
+appropriate and in the public interest that public administrative proceedings be, and hereby are,
+instituted to determine whether the Respondents engaged in the violations set forth herein and to
+determine whether any order should be issued imposing remedial sanctions.
+
+Il.
+
+In anticipation of the institution of an administrative proceeding, the Respondents have
+submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondents consent to
+the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
+Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions (“Order”) and
+acknowledges service of this Order.’
+
+ 
+
+Respondents consent to the entry of this Order and to the use of these findings in this proceeding and in any other
+proceeding brought by the Commission or to which the Commission is a party; provided, however, that Respondents
+do not consent to the use of the Offer, or the findings or conclusions in this Order consented to in the Offer, as the
+sole basis for any other proceeding brought by the Commission, other than in a proceeding in bankruptcy or to
+
+ 
+HI.
+The Commission finds the following: |
+A. SUMMARY
+
+During the relevant period, Respondents violated Section 4(a) of the Act by offering to
+enter into, entering into, confirming the execution of, and conducting an office and business in
+the United States for the purpose of soliciting, accepting orders for, and otherwise dealing in
+illegal, off-exchange retail commodity transactions. Specifically, the transactions were financed
+precious metals transactions with individual retail investors. The Respondents also violated
+Sections 4b(a)(2)(A) and (C) of the Act by defrauding customers by representing to them that
+they were purchasing physical metals and that they were making cash purchases when, in fact,
+their purchases were leveraged transactions with an undisclosed third-party (Hunter Wise) for
+physical metals that the Respondents never purchased or possessed and for which they never had
+title. Similarly, the Respondents violated Section 4b(a)(1)(B) of the Act by falsely claiming to
+“ship” or “receive” metals following each trade in “Transfer of Commodity” notices when, in
+fact, no physical metals were being shipped or received. The Respondents violated Section 4d of
+the Act by acting as an unregistered futures commission merchant (“FCM”) by soliciting and
+accepting orders for retail commodity transactions and accepting money, securities or property
+for trades or contracts without the benefit of registration as an FCM. Finally, the Respondents
+violated Section 6(c)(1) of the Act and Regulation 180.1(a)(1)(3) by engaging in the same ~
+fraudulent and deceptive acts by which they violated Section 4b(a)(2) of the Act. Respondents
+solicited and accepted orders from individual investors who collectively lost the sum of
+$1,595,946 in connection with these transactions. Goldman and Catronio are directly liable for
+the aforementioned violations, and are also liable as the controlling persons of Paramount.
+
+B. RESPONDENTS
+
+Paramount Metals was a Florida registered limited liability company with its business
+located in Delray Beach, Florida. It was formed on December 2, 2011 and dissolved on April 1,
+2013, Paramount has never been registered with the Commission in any capacity.
+
+Paramount Credit was a Florida registered limited liability company with its business at
+the same location as Paramount Metals in Delray Beach, Florida. Paramount Credit was formed
+on December 9, 2011 and dissolved on April 1, 2013. Paramount Credit has never been
+registered with the Commission in any capacity.
+
+Isaiah Goldman resides in Boca Raton, Florida and was an owner of both Paramount
+Metals and Paramount Credit. He was also the managing member of both of those entities from
+September 26, 2012 until their dissolution, Goldman was registered with the Commission in
+various capacities from 2003-2004 and continuously from 2005 until 2012, including as an -
+associated person (“AP”) of Paramount Commodities Group LLC, which had been registered as .
+
+ 
+
+enforce the terms of this Order. Nor do Respondents consent to the use of the Offer or this Order, or the findings or
+conclusions in this Order consented to in the Offer, by any other party in any other proceeding.
+
+ 
+an introducing broker (“IB”) from 2008 until 2012. Goldman is not currently registered in any
+capacity.
+
+Brock Catronio resides in Delray Beach, Florida and was an owner of Paramount Metals
+and Paramount Credit from their formation on December 2 and 9, 2011, respectively, until
+September 25, 2012. Catronio was also the managing member of Paramount Metals and
+Paramount Credit from their formation until September 26, 2012. Catronio was continuously
+registered as an AP of various firms from 2006 until January 2014 and was also an AP and
+principal of Paramount Commodities Group, LLC from 2008 until 2012. Catronio is not
+currently registered with the Commission in any capacity,
+
+Cc. OTHER RELEVANT ENTITY
+
+Hunter Wise Commodities LLC (“Hunter Wise”) was formed as a California limited
+liability company in July 2007 but was converted to a Nevada limited liability company in
+October 2010. It held itself out on its website as “a physical commodity trading company,
+wholesaler, market maker, back-office support provider, and finance company.” During the
+relevant period, Hunter Wise executed and confirmed the execution of retail commodity
+transactions involving gold, silver, platinum, palladium and copper throughout the United States
+using a network of telemarketing solicitors such as Respondents, which it referred to as its
+“dealers.”
+
+D. FACTS
+
+Beginning in December 2011, when Paramount was formed, and continuing through at
+least February 22, 2013, the Respondents solicited retail customers to enter into off-exchange
+trading of gold, silver and platinum and accepted funds from customers in order to enter those
+transactions. Goldman and Catronio, the controlling persons of Paramount, directly solicited
+customers and supervised the other telemarketers involved in solicitation, Goldman, Catronio,
+and the other telemarketers for Paramount told customers that they were making outright cash
+purchases of precious metals, while instead treating their transactions as financed purchases of
+metal in which the retail customer only paid a portion of the purchase price and took out a loan
+for the balance of the price (“Retail Commodity Transactions”). The Respondents also falsely
+claimed to: (a) sell physical metals to customers; (b) transfer title of physical metals to
+customers; and (c) arrange for the transfer and storage of customers’ physical metals in
+independent depositories where such metal was purportedly held on the customers’ behalf.
+These representations were false because the Respondents did not sell or transfer ownership of
+any physical metals and no metals were stored in any depositories for or on behalf of customers.
+Rather, the Respondents used a portion of funds received from customers to enter into
+transactions with a third party, Hunter Wise. This conduct was not disclosed to its customers,
+
+Respondents’ customers paid a total of $3,306,032 to Hunter Wise and suffered a total of
+$1,595,946 in net trading losses, commission, interest charges and other fees during the relevant
+period. Respondents received commissions and fees totaling $853,279 for the retail financed
+precious metals transactions executed through Hunter Wise.
+
+ 
+Neither Respondents nor Hunter Wise bought, sold, loaned, stored, or transferred any
+physical metals for these financed precious metals transactions. The transactions were
+leveraged, off-exchange trades with retail customers that did not involve the actual delivery of
+any metals. Instead, Hunter Wise and Paramount managed exposure on these transactions using
+derivatives in margin trading accounts with several entities, CFTC v. Hunter Wise Commodities,
+LLC F, Supp. 3d 1311(°8.D,Fla, Feb, 19, 2014) (order granting summary judgment).
+
+IV.
+LEGAL DISCUSSION
+A. Relevant Statutory Background
+
+Title VII of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010,
+Public Law 111-203, 124 Stat. 1376 (2010) (“the Dodd-Frank Act”) amended the Commodity
+Exchange Act to add, among other things, new authority over certain leveraged, margined, or
+financed retail commodity transactions, including authority to prohibit fraud in connection with
+such transactions.
+
+Section 742(a) of the Dodd-Frank Act added Section 2(c)(2)(D) to the Act,” which
+broadly applies to any agreement, contract, or transaction in any commodity that is entered into
+with, or offered to (even if not entered into with), a non-eligible contract participant (“non-
+ECP”) or non-eligible commercial entity on a leveraged or margined basis, or financed by the
+offeror, the counterparty, or a person acting in concert with the offeror or counterparty on a
+similar basis. 7 U.S.C. § 2(c)(2)(D)(i). Section 2(c)(2)(D) further provides that such transactions
+with retail customers be conducted on a registered commodity exchange and that such an
+agreement, contract, or transaction shall be subject to Sections 4(a), 4(b), and 4b “of the Act “as
+if the agreement, contract, or transaction was a contract of sale of a commodity for future
+delivery.” 7 U.S.C. § 2(c)(2)(D) Gin).
+
+Section 2(c)(2)(D)(ii) of the Act excepts certain transactions from Section 2(c)(2)(D).
+Section 2(c)(2)(D)(ii)TID(aa) excepts a contract of sale that “results in actual delivery within 28
+days or such other longer period as the Commission may determine by rule or regulation based
+
+ 
+
+* Section 2(c)(2)(D) of the Act became effective July 16, 2011.
+
+* As is relevant to this matter, Section La(18)(xi) of the Act, 7 U.S.C. § la(18)(xi), defines an eligible contract
+participant as an individual who has amounts invested on a discretionary basis, the aggregate of which is in excess
+of $10,000,000, or which is in excess of $5,000,000 and who enters into the agreement, contract, or transaction in
+order to manage the risk associated with an asset owned or liability incurred, or reasonably likely to be owned or
+incurred, by the individual.
+
+* Section 4(b) of the Act, 7 U.S.C. § 6(b), authorizes the Commission to adopt rules and regulations proscribing
+fraud and requiring minimum financial standards, the disclosure of risk, the filing of reports, the keeping of books
+and records, the safeguarding of customers’ funds, and registration with the Commission. Section 4b of the Act,
+7 U.S.C. § 6b, prohibits fraudulent conduct,
+
+ 
+upon the typical commercial practice in cash or spot markets for the commodity involved.”
+Section 2(c)(2)(D)(ii)(II1)(bb) excepts a contract of sale that creates an enforceable obligation to
+deliver between a seller and a buyer that have the ability to deliver and accept delivery,
+respectively, in connection with the line of business of the seller and buyer.
+
+The Commission has stated its view that the determination of whether “actual delivery”
+has occurred within the meaning of Section 2(c)(2)(D)G@i)(I)(aa) requires a consideration of
+evidence beyond the four corners of the contract documents. This interpretation of the statutory
+language is based on Congress’ use of the word “actual” to modify “delivery” and on the
+legislative history of Section 2(c)(2)(D)(ii)(ID (aa). Consistent with this interpretation, in
+determining whether actual delivery has occurred within 28 days, the Commission will employ a
+functional approach and examine how the agreement, contract, or transaction is marketed,
+managed, and performed, instead of relying solely on language used by the parties in the
+agreement, contract, or transaction.© Unless the Commission provides otherwise, the 28 days for
+actual delivery is 28 days from the date the agreement, contract, or transaction is confirmed to
+the buyer or seller, typically, a retail customer.
+
+_ Other than these exceptions, Congress did not express any intent to limit the reach of
+Section 2(c)(2)(D). Rather, in enacting the statute Congress expressed its intent that Section
+2(c)(2)(D) should be applicable to a broad range of agreements, contracts, and transactions.
+
+Section 2(c)(2)(D) of the Act applies to all agreements, contracts, and transactions
+entered into with, or offered to, non-ECPs on a leveraged or margined basis, or financed by the
+offeror, the counterparty, or a person acting in concert with the offeror or counterparty on a
+similar basis, as those terms are commonly used in the industry,
+
+B. The Commission’s Jurisdiction
+
+Respondents offered precious metals transactions to, and entered into such transactions
+with, persons who were not eligible contract participants or eligible commercial entities.
+Generally, Respondents’ customers were unsophisticated, individual investors who did not meet
+the $10 million discretionary investment threshold to be considered ECPs. Moreover,
+Respondents offered and entered into such transactions which they represented to customers as
+cash deals but actually treated them as margined or leveraged transactions, financed by
+Respondents or Hunter Wise, which acted in concert with Respondents, Respondents’ retail
+financed precious metals transactions fall squarely within the Commission’s jurisdiction under
+Section 2(c)(2)(D) of the Act.’
+
+ 
+
+> The Commission has not adopted any regulations permitting a longer actual delivery period for any commodity
+pursuant to Section 2(c)(2)(D)Gi)(IID(aa) of the Act. Accordingly, the 28 day actual delivery period set forth in this
+provision remains applicable to all commodities.
+
+° See Retail Commodity Transactions Under Commodity Exchange Act, 76 Fed. Reg. 77,670 (Dec. 14, 2011).
+
+’ Confirmation of the Commission’s jurisdiction over these matters can be found in the February 25, 2013 decision
+of a district court in the Southern District of Florida, which entered a preliminary injunction against Hunter Wise
+Commodities, LLC, and a number of related companies and individuals for engaging in similar transactions after
+finding that Section 2(c)(2)(D) and 6(c) of the Act expanded the Commission’s jurisdiction to cover such retail
+commodity transactions. See Order on Pl.’s Mot, Prelim. Inj., CFTC v. Hunter Wise Commodities, LLC, 2013 WL
+
+ 
+Respondents’ retail financed precious metals transactions executed through Hunter Wise
+did not result in actual delivery to the customer. As found by the district court in Hunter Wise,
+Hunter Wise had no actual metal to deliver. Hunter Wise, No, 12-81311-CIV, Docket Entry 78,
+slip op. at 19-20 & n.30 (order granting preliminary injunction) and Docket Entry 155, slip op. at
+15-17 (S.D, Fla. Jun. 21, 2013) (order denying motions to dismiss), Respondent’s transactions
+are not excepted from the Commission’s jurisdiction under Section 2(c)(2)(D)(1i)(II1)(A) of the
+Act.
+
+C, Respondents Violated Section 4(a) of the Act: [legal, Off-Exchange Transactions
+
+As stated above, retail commodity transactions within the scope of Section 2(c)(2)(D) of
+the Act are subject to enforcement under Section 4(a) of the Act, among other provisions, as if
+such transactions are commodity futures contracts. Section 4(a) of the Act makes it unlawful for
+any person to offer to enter into, enter into, execute, confirm the execution of, or conduct an
+office or business in the United States for the purpose of soliciting, or accepting any order for, or
+otherwise dealing in any transaction in, or in connection with, a commodity futures contract,
+unless such transaction is made on or subject to the rules of a board of trade that has been
+designated or registered by the CFTC as a contract market or derivatives transaction execution
+facility for the specific commodity, 7 U.S.C. § 6(a).
+
+Respondents offered to enter into, entered into, and confirmed the execution of retail
+financed precious metals transactions. Respondents also conducted a business in the United
+States for the purpose of soliciting, accepting orders for, and otherwise dealing in retail financed
+precious metals transactions, None of the retail financed precious metals transactions were
+conducted on or subject to the rules of a board of trade that has been designated or registered by
+the CFTC as a contract market or derivatives transaction execution facility for precious metals.
+Respondents therefore violated Section 4(a) of the Act.
+
+D. Respondents Violated Section 4b(a)(2)(A) and (C)
+
+Sections 4b(a)(2)(A) and (C) make it a violation for any person, in or in connection with
+any order to make, or the making of, any contract of sale of any commodity for future delivery
+that is made, or to be made, for, on behalf of, or with any other person, other than on or subject
+to the rules of a designated contract market: (A) to cheat or defraud or attempt to cheat or
+defraud the other person; or (C) willfully to deceive or attempt to deceive the other person by
+any means whatsoever in regard to any order or contract or the disposition or execution of any
+order or contract, or in regard to any act of agency performed, with respect to any order or
+contract for, on behalf of, or with the other person. Three elements must be proven to establish a
+violation through misrepresentations: (1) that the respondent misrepresented or failed to disclose
+
+ 
+
+718503 (S.D.Fla. Feb, 26, 2013), This decision was affirmed by the United States Court of Appeals for the Eleventh
+Circuit on April 15, 2014. CFTC v, Hunter Wise Commodities, LLC, et al., 749 F, 3d 967, 2014 WL 1424435 (1 yh
+Cir, 2014). Additionally, the District Court in the Hunter Wise matter entered an Opinion and Order of Final
+Judgment, Permanent Injunction, Civil Monetary Penalty, and Other Equitable Relief finding the defendants in that
+matter liable for violations of Sections 4(a), 4(b)(a)(2)(A)-(C), 4d, and 13c(a) of the Act, banning defendants from
+engaging in such conduct, and ordering defendants to pay full restitution, and triple the monetary gain as a penalty.
+CFIC y, Hunter Wise Commodities, LLC, 2014 WL 4049998 (S.D. Fla. May 16, 2014).
+
+ 
+certain information; (2) the misrepresentation was material; and (3) the respondent acted with
+scienter. The Respondents conduct satisfies all three elements.
+
+The Respondents willfully or recklessly misrepresented and omitted information
+regarding the products that were being sold to their retail customers. Specifically, they
+misrepresented that they: (1) purchased, sold and transferred ownership of physical metals to
+customers; (2) sold physical metals to customers on a cash and non-leveraged basis while, at the
+same time, treating the transactions as leveraged and charging customers’ interest on sham loans;
+and (3) stored customers’ financed physical metals in independent depositories. The
+misrepresentations made by the Respondents to their customers were material in that reasonable
+customers would want to know: (1) that they were not purchasing actual, physical metals, but,
+rather, paper assets; (2) the full extent of charges that they would incur and that they had taken
+out a loan and; (3) that a third party unknown to them, Hunter Wise, controlled all aspects of
+their transactions, including the storage of the metals. The Respondents also acted with scienter
+in making these misrepresentations. First, they knew that they were engaging in leveraged
+transactions with customers while representing to customers that they were selling the customers
+physical metals. Second, they failed to inquire whether Hunter Wise maintained a physical
+inventory of metals for their customers while sending single, small shipments of physical metal,
+purchased from another source to customers to convince them that the inventory of the full
+quantity of metals in their accounts existed. Third, they consciously withheld the Client
+Statements and Trade Confirmations from their customers for those would have revealed that
+they had taken out loans rather than having made a cash deal. The Respondents therefore
+violated Sections 4b(a)(2)(A) & (C).
+
+E. Respondents Violated Section 4b(a)(2)(B)
+
+Section 4b(a)(2)(B) makes it a violation of the Act for any person to make or cause to be
+made to another person any false report or statement, or willfully to enter or cause to be entered
+for the other person any false record. The Respondents falsely claimed to “ship” or “receive”
+metals following each trade in “Transfer of Commodity” notices. By this conduct, the
+Respondents violated section 4b(a)(2) of the Act. See, e.g, CFTC v. Noble Wealth Data Info.
+Serv., Inc., 90 F. Supp. 2d at 685-87 (D. Md. 2000), aff'd in relevant part sub nom, CFTC v.
+Baragosh ’, 278 F.3d 319 (4th Cir, 2002) (finding that defendants issued false account statements
+and engaged in other misconduct under Section 4b(a)(2)(i)-(iii), the predecessor to Section
+Ab(a)(1)(A)-(C) of the Act, as amended); CFTC v. McLaurin, No. 95-C-285, 1996 U.S, Dist.
+LEXIS 9417, at *10-12 (N.D. Il. July 3, 1996) (finding that defendant prepared and distributed
+false reports or statements in violation of Section 4b(a)(2)(ii) of the Act).
+
+F, Respondents Violated Section 6(c)(1) of the Act and Regulation 180.1(a)(1)-( 3)
+
+The Respondents made untrue or misleading statements of material facts on and after
+August 15, 2011 and engaged in the same fraudulent and deceptive acts by which they violated
+Section 4b(a)(2) of the Act. Thus, they violated Section 6(c)(1) of the Act, 7 U.S.C. § 9(1)
+(2012), and Regulation 180.1(a)(1)-(3), 17 C.F.R. § 180.1(a)(1)-(3) (2014). See 76 F.R. 41398,
+July 14, 2011, effective Aug. 15, 2011.
+
+ 
+Section 6(c)(1) of the Act, in relevant part, makes it unlawful for any person to use or
+employ, or attempt to use or employ, in connection with any contract of sale of any commodity
+in interstate commerce or for future delivery, any manipulative or deceptive device or
+contrivance in contravention of the Commission’s Rules and Regulations. Regulation 180.1{a),
+in relevant part, makes it unlawful for any person:
+
+in connection with any... contract of sale of any commodity in
+interstate commerce .. . to intentionally or recklessly: (1) Use or
+employ, or attempt to use or employ, any manipulative device,
+scheme, or artifice to defraud; (2) Make, or attempt to make, any
+untrue or misleading statement of a material fact or to omit to state
+a material fact necessary in order to make the statements made not
+untrue or misleading; (3) Engage, or attempt to engage, in any act,
+practice, or course of business, which operates or would operate as
+a fraud or deceit upon any person....
+
+G. Respondents Violated Section 4d
+
+Section 4d makes it unlawful for any person to be an FCM unless such person is
+registered with the Commission, The Act defines FCM to include an entity that is engaged in
+soliciting or accepting orders for, among other things, the purchase or sale of a commodity for
+future delivery, any commodity option authorized under Section 4c, or any retail commodity
+transaction, 7 U.S.C, § 1a(28)(A)(i)(D(aa)(DD).
+
+Paramount accepted orders for customers in retail financed precious metals transactions
+thereby acting as an FCM and, therefore, was required to be registered. Paramount was never
+registered with the Commission and, therefore, violated Section 4d of the Act in connection with
+its retail metals transactions.
+
+H. Paramount is Liable for the Violations of its Agents
+
+Paramount is liable for the violations of its agents, including Goldman and Catronio.
+Under Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2a(1)(B)(2012), as well as Regulation 1.2,
+17 C.F.R. § 1.2 (2013), a principal is strictly liable for the violations of its agents made within
+the scope of the agents’ employment under “a variant of the common law principle of respondeat
+superior.” Rosenthal & Co. v. CFTC, 802 F.2d 963, 966 (7th Cir, 1986). Because Goldman,
+Catronio and other Paramount personnel who solicited the customers were all agents of
+Paramount acting within the scope of their employment, Paramount is liable for their conduct
+under Section 2(a)(1)(B) of the Act.
+
+I, Goldman and Catronio are Liable as Controlling Persons Under Section 13(b) of the
+Act for Paramount’s Violations
+
+Pursuant to Section 13(b) of the Act, 7 U.S.C. 13c(b), “any person who, directly or
+indirectly, controls any person who has violated any provision of this chapter or any of the rules,
+regulations, or orders issued pursuant to this chapter may be held liable for such violation in any
+action brought by the Commission to the same extent as such controlled person. In such action,
+
+ 
+the Commission has the burden of proving that the controlling person did not act in good faith or
+knowingly induced, directly or indirectly, the act or acts constituting the violation.” To satisfy
+this standard of proof, the Commission must establish that (1) a corporation or person violated
+the Act; (2) the defendant “directly or indirectly” controlled that corporation or person; and
+
+(3) that the controlling person or corporation “did not act in good faith or knowingly induced,
+directly or indirectly, the act or acts constituting the violation.” See Dietrich v. Bauer, 126 F.
+Supp. 2d 759 (S.D, N.Y. 2001). Accord, Monieson v. CFTC, 996 F.2d 852, 858 (7th Cir, 1993);
+CFTC v. RJ Fitzgerald & Co., Inc., 310 F.3d 1321, 1334 (1 ith Cir. 2002), cert. denied, 543 US.
+1034 (2004). In essence, the CFTC must show that the controlling person had actual or
+constructive knowledge of the core activities that make up the violation at issue and allowed
+them to continue. RJ. Fitzgerald & Co., Inc., 310 F.3d at 1334.
+
+Goldman and Catronio are liable as controlling persons for the actions of Paramount.
+First, both Goldman and Catronio controlled Paramount in that they each executed contracts on
+behalf of Paramount, controlled its bank accounts, directly solicited customers and supervised
+the other telemarketers involved in solicitation, and were responsible for its business decisions.
+In addition, Catronio was responsible for Paramount’s website. Further, Goldman and Catronio
+knowingly induced Paramount’s wrongful conduct by personally misrepresenting the nature of
+the leveraged metals they sold to customers; they supervised the other telemarketers involved in
+solicitation; and the website under Catronio’s control also contained misrepresentations. Further,
+Catronio and Goldman also did not act in good faith because they supervised employees who
+fraudulently solicited Paramount’s customers and recklessly allowed those employees to
+misrepresent the nature of the leveraged transactions they sold to customers.
+
+V.
+FINDINGS OF VIOLATIONS —
+
+Based on the foregoing, the Commission finds that, during the relevant period,
+Paramount Metals, Paramount Credit, Goldman and Catronio violated Sections 4(a), 4b(a)(2)(A)
+and (C), 4b(a)(2)(B), 4d and 6(c)(1) of the Act, 7 U.S.C §§ 6(a), 6b(a)(2)(A) and (C),
+6b(a)(2)(B), 6d, and 9(1) and Regulation 180.1(a), 17 C.F.R. § 180.1(a).
+
+Vi.
+OFFER OF SETTLEMENT
+
+| Respondents have submitted an Offer in which they, without admitting or denying the
+findings and conclusions. herein:
+
+A. — Acknowledge receipt of service of this Order;
+
+B. Admit the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+ 
+Waive:
+
+1,
+
+2.
+
+the filing and service of a complaint and notice of hearing;
+a hearing;
+
+all post-hearing procedures;
+
+judicial review by any court;
+
+any and all objections to the participation by any member of the Commission’s
+staff in the Commission’s consideration of the Offer;
+
+any and all claims that they may possess under the Equal Access to Justice Act,
+
+5 US.C. § 504 (2006) and 28 U.S.C. § 2412 (2006), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Commission’s
+Regulations, 17 C.F.R. §§ 148.1-30 (2012), relating to, or arising from, this
+proceeding;
+
+any and all claims that they may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, $§ 201-253, 110 Stat.
+847, 857-868 (1996), as amended by Pub. L. No. 110-28, § 8302, 121 Stat. 112,
+204-205 (2007), relating to, or arising from, this proceeding; and
+
+_any claims of Double Jeopardy based on the institution of this proceeding or the
+
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+Stipulate that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer;
+
+Consent, solely on the basis of the Offer, to the Commission’s entry of this Order that:
+
+1,
+
+makes findings by the Commission that Respondents violated Sections 4(a),
+4b(a)(2)(A) and (C), 4b(a)(2)(B), 4d and 6(c)(1) of the Act and Regulation
+180.1 (a);
+
+orders Respondents to cease and desist from violating Sections 4(a) 4b(a)(2)(A)
+and (C), 4b(a)(2)(B), 4d and 6(c)(1) of the Act and Regulation 180.1(a) of the
+Act;
+
+orders Respondents to, jointly and severally, pay restitution to customers in the
+amount of one million five hundred and ninety-five thousand and nine hundred
+
+and forty-six dollars ($1,595,946), plus post-judgment interest;
+
+orders Respondents to, jointly and severally, pay a civil monetary penalty of one
+million dollars ($1,000,000), plus post-judgment interest;
+
+10
+
+ 
+4. orders that Respondents be permanently prohibited from, directly or indirectly,
+engaging in trading on or subject to the rules of any registered entity (as that term
+is defined in Section la of the Act, as amended, 7 U.S.C. § 1a), and all registered
+entities shall refuse them trading privileges, and
+
+5. orders Respondents and their successors and assigns to comply with the
+conditions and undertakings consented to in the Offer and as set forth in Part VII
+of this Order.
+
+Upon consideration, the Commission has determined to accept Respondents’ Offer,
+VI.
+
+ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondents shall cease and desist from violating Sections 4(a), 4b(a)(2)(A) and (C),
+4b(a)(2)(B), 4d and 6(c)(1).of the Act 7 U.S.C. §§ 6(a), 6b(a)(2)(A) &(C), 6b(a)(2)(B),
+6d and 9(1) (2012) and Regulation 180.1(a)(1)-(3), 17 C.F.R. § 180.1(a)(2014). .
+
+Respondents shall, jointly and severally, pay restitution in the amount of one million five
+hundred and ninety-five thousand and nine hundred and forty-six dollars ($1,595,946),
+within ten (10) days of the date of entry of this Order (“Restitution Obligation”). Post-
+judgment interest shall accrue on the Restitution Obligation beginning on the date of this
+Order and shall be determined by using the Treasury Bill rate prevailing on the date of
+entry of this Order pursuant to 28 U.S.C. § 1961.
+
+Respondents shall make their payments of the Restitution Obligation under this Order to
+Melanie Damian, Esq., the Receiver appointed by the court in CFTC v. Hunter Wise
+Commodities, LLC, No. 12-81311-CIV (S.D. Fla. Feb, 25, 2013) (‘Hunter Wise
+Receiver”), Respondents shall make such payments in the name “Paramount Metals
+(Hunter Wise Transactions) Settlement Fund” and shall send such payments by electronic
+funds transfer, or U.S. postal money order, certified check, bank cashier’s check, or bank
+money order to Melanie Damian, Esq., Damian & Valori LLP, 1000 Brickell Ave., Ste.
+1020, Miami, FL. 33131, under a cover letter that identifies the Respondents and the
+
+hame and docket number of this proceeding. The Respondent shall simultaneously
+
+transmit copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581. To the extent any such funds accrue to the U.S. Treasury for
+satisfaction of Respondents’ Restitution obligation, such funds shall be transferred to the
+Hunter Wise Receiver.
+
+Respondents shall, jointly and severally, pay a civil monetary penalty of one million
+dollars ($1,000,000), within thirty (30) days of the date of entry of this Order (the “CMP
+Obligation”). Post-judgment interest shall accrue on the CMP Obligation beginning on
+the date of entry of this Order and shall be determined by using the Treasury Bill rate
+
+11
+
+ 
+prevailing on the date of entry of this Order pursuant to 28 U.S.C. § 1961 (2012).
+Respondents shall pay the CMP Obligation by electronic funds transfer, U.S. postal
+money order, certified check, bank cashier’s check, or bank money order. If payment is
+to be made other than by electronic funds transfer, then the payment shall be made
+
+_ payable to the Commodity Futures Trading Commission and sent to the address below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables --- AMZ 340
+E-mail Box: 9-AMC-AMZ-AR-CFTC
+DOT/FAA/MMAC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+Telephone: (405) 954-7262
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Nikki
+Gibson or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondents shall accompany payment of the CMP
+_ Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding, The Respondent shall simultaneously transmit copies
+of the cover letter and the form of payment to the Chief Financial Officer, Commodity
+Futures Trading Commission, Three Lafayette Centre, 1155 21 Street, NW,
+Washington, D.C. 20581 and to the Deputy Director, Division of Enforcement,
+Commodity Futures Trading Commission, 140 Broadway, 19" Floor, New York, NY
+10005.
+
+Respondents are permanently prohibited from, directly or indirectly, engaging in or
+trading on or subject to the rules of any registered entity (as that term is defined in
+Section la of the Act, 7 U.S.C. § 1a), and all registered entities shall refuse them trading
+privileges.
+
+Respondents and their successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+lL. Public Statements: Respondents agree that neither they nor any of their
+successors and assignees, agents or employees under his authority or control shall
+take any action or make any public statement denying, directly or indirectly, any
+findings or conclusions in this Order or creating, or tending to create, the -
+impression that this Order is without a factual basis; provided, however, that
+nothing in this provision shall affect Respondents’: (i) testimonial obligations; or
+(ii) right to take legal positions in other proceedings to which the Commission is
+not a party. Respondents and their successors and assigns shall undertake all
+steps necessary to ensure that all of their agents and/or employees under his
+authority or control understand and comply with this agreement.
+
+2. Respondents agree that they shall never, directly or indirectly:
+
+12
+
+ 
+enter into any transactions involving commodity futures, options on
+commodity futures, commodity options (as that term is defined in
+Regulation 1.3(hh), 17 C.F.R. § 1.3(bh)), security futures products, swaps,
+(as that term is defined in Section 1a(47) of the Act, 7 U.S.C. § 1a(47)
+(2012), and as further defined by Regulation 1.3(xxx), 17 C.F.R.
+
+§ 1.3(xxx)) (“swaps”), and/or foreign currency (as described in Sections
+2(c)(2)(B) and 2(c)(2)(C)@) of the Act, 7 U.S.C. §§ 2(c)(2)(B) and
+2(c)(2)(C)(i)) (“forex contracts”) for Respondents’ own personal
+account(s) or for any account(s) in which Respondents have a direct or
+indirect interest;
+
+have any commodity futures, options on commodity futures, commodity
+options, security futures products, swaps, and/or forex contracts traded on
+Respondents’ behalf;
+
+control or direct the trading for or on behalf of any other person or entity,
+whether by power of attorney or otherwise, in any account involving
+commodity futures, options on commodity futures, commodity options,
+security futures products, swaps, and/or forex contracts;
+
+solicit, receive, or accept any funds from any person for the purpose of
+purchasing or selling any commodity futures, options on commodity
+futures, commodity options, security futures products, swaps and/or forex
+contracts;
+
+apply for registration or claim exemption from registration with the
+Commission in any capacity, and engage in any activity requiring such
+registration or exemption from registration with the Commission except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9); and/or
+
+act as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R.
+
+§ 3.1(a)), agent or any other officer or employee of any person (as that
+term is defined in Section la of the Act, 7 U.S.C. § 1a) registered, required
+to be registered, or exempted from registration with the Commission
+except as provided for in Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9).
+
+Cooperation with the Hunter Wise Receiver: Respondents shall cooperate with the
+Hunter Wise Receiver as appropriate to provide such information as the Hunter Wise
+Receiver deems necessary and appropriate to identify Respondents’ customers.
+Respondents shall execute any documents necessary to release funds that they have in
+any repository, bank, investment or other financial institution, wherever located, in order
+to make partial or total payment toward the Restitution Obligation.
+
+Cooperation with the Commission: Respondents shall cooperate fully and expeditiously
+with the Commission, including the Commission’s Division of Enforcement, and any
+other governmental agency in this action, and in any investigation, civil litigation, or
+
+13
+
+ 
+administrative matter related to the subject matter of this action or any current or future
+Commission investigation related thereto.
+
+H. Partial Satisfaction: Respondents understand and agree that any acceptance by the
+Commission or the Hunter Wise Receiver of partial payment of Respondents’ Restitution
+Obligation, shall not be deemed a waiver of their obligation to make further payments
+pursuant to this Order, or a waiver of the Commission’s right to seek to compel payment
+of any remaining balance,
+
+I. Change of Address/Phone: Until such time as Respondents satisfy in full their
+Restitution Obligation as set forth in this Order, Respondents shall provide written notice
+to the Commission by certified mail of any change to his telephone number and mailing
+address within ten (10) calendar days of the change. .
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission,
+
+   
+
+Christopher J. Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: February 5, 2015
+
+14
+
+ 

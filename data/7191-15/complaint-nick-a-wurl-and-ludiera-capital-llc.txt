@@ -1,0 +1,1056 @@
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 1 of 28 PagelD #:1
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF ILLINOIS
+
+EASTERN DIVISION
+
+UNITED STATES COMMODITY FUTURES)
+TRADING COMMISSION, )
+)
+Plaintiff, )
+)
+
+Vv. ) Case No.
+)
+NICK A. WURL and )
+LUDIERA CAPITAL LLC, )
+)
+Defendants. )
+
+COMPLAINT FOR INJUNCTIVE RELIEF, CIVIL MONETARY PENALTIES,
+AND OTHER EQUITABLE RELIEF UNDER THE COMMODITY EXCHANGE ACT
+
+Plaintiff U.S. Commodity Futures Trading Commission (Commission) alleges as follows:
+1. SUMMARY
+
+1. Since at least July 2014 through at least May 26, 2015 (the Relevant Period), Nick
+A. Wurl (Wurl) and his company Ludiera Capital LLC (Ludiera) (together, Defendants) have
+defrauded at least 46 individuals and entities who contributed more than $9 million to an
+investment pool operated by Ludiera that trades commodity future contracts (futures) and options
+on futures (options).
+
+2. In approximately May 2013, Defendants established the Ludiera Diversified
+Opportunity Portfolio L.P. (the Pool). Defendants subsequently marketed the Pool to
+participants as a safe and well-capitalized limited partnership established to supply operating
+capital to Ludiera for its purported physical commodity trading. In reality, the Pool was little
+more than a shell company used to defraud Pool participants and enrich Defendants at their
+
+expense.
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 2 of 28 PagelD #:2
+
+3. Defendants went to great lengths to convince Pool participants that Defendants
+operated a well-capitalized, reputable, and established physical commodity trading firm. To that
+end, Defendants solicited funds from individuals and entities for the represented purpose of
+investing in their physical commodity trading business. In making these solicitations,
+Defendants represented, among other things, that they were engaged in the purchase, transport,
+and sale of physical commodities. Defendants characterized the investment opportunity as a “no
+risk” strategy and assured Pool participants that the worst potential outcome was no gain on their
+investment.
+
+4. This portrait of Defendants is a sham. In reality, Defendants never engaged in
+physical commodity trading. Instead of using Pool participants’ money to purchase, sell, and
+transport commodities, Defendants diverted Pool participants’ funds to their own bank and
+trading accounts. Defendants then used the bulk of the Pool participants’ funds—over $6.8
+million—to trade futures and options, including futures and options on equity indices,
+agricultural commodities, and energy commodities. Defendants also misappropriated over
+$600,000 of Poo! participants’ funds to pay their credit card debts, to make automobile purchases
+and to use for additional items and expenses.
+
+5. Through their trading of futures and options, Defendants lost more than $3.3
+million of Pool funds. Defendants never disclosed to Pool participants that they used a
+significant portion of Pool participant funds to trade futures and options. Defendants never made
+any disclosures to Pool participants regarding the massive losses sustained by Defendants trading
+futures and options with Pool funds. Further, Defendants affirmatively misrepresented to Pool
+
+participants that Defendants were not engaged in the trading of futures and options.
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 3 of 28 PagelD #:3
+
+6. Additionally, to perpetuate their fraud, Defendants operated the Pool as a Ponzi
+scheme through which they used Pool participant funds to pay other Pool participants a total of
+approximately $1.8 million as redemptions.
+
+7. Throughout the duration of the scheme, Defendants regularly prepared and
+distributed to Pool participants false monthly account statements. These false monthly account
+statements purport to reflect physical commodity transactions that never took place and falsely
+represent growth in value of Pool participants’ interests in the Pool. Defendants consistently
+misrepresented to Pool participants, both orally and through these false account statements, that
+Pool participants’ interests in the Pool were continuing to grow significantly in value.
+
+8. By the aforementioned conduct, and the conduct described herein, Defendants
+have engaged, are engaging in, or are about to engage in practices that violate the provisions of
+the Commodity Exchange Act (“Act”), 7 U.S.C. §§ 1 et seg. (2012), and Commission
+Regulations (“Regulations”), 17 C.F.R. §§ 1.1 ef seg. (2014). Specifically, they have engaged,
+are engaging or are about to engage in acts or practices in violation of Sections 4b(a)(1)(A)-(C),
+4c(b), 4k(2), 4m(1), 40(1), and 6(c)(1) of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C), 6c(b), 6k(2),
+6m(1), 60(1), 9(1) (2012); and Regulations 4.20, 33.10, and 180.1, 17 C.F.R. §§ 4.20, 33.10,
+180.1 (2014)
+
+9. Pursuant to Section 6c of the Act, 7 U.S.C. § 13a-1 (2012), the Commission
+brings this action to permanently enjoin Defendants’ unlawful acts and practices, to compel their
+compliance with the Act and the Regulations thereunder, and to permanently enjoin them from
+engaging in any commodity-related activity.
+
+‘10. When Wurl committed the acts, omissions, and failures described herein, he did
+
+so within the scope of his agency, employment, and office with Ludiera; therefore, Wurl’s acts,
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 4 of 28 PagelD #:4
+
+omissions, and failures are deemed those of Ludiera pursuant to Section 2(a)(1)(B) of the Act,
+7 U.S.C. § 2(a)(1)(B) (2012), and Regulation 1.2, 17 C.F.R. § 1.2 (2014).
+
+11. At all times relevant to this Complaint, Wurl controlled Ludiera, directly or
+indirectly, and did not act in good faith or knowingly induced, directly or indirectly, the acts of
+Ludiera described herein; therefore, Wurl is liable for the violations by Ludiera of the Act and
+Regulations described herein pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b) (2012).
+
+12. Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. § 13a-1 (2012), the
+Commission brings this action to permanently enjoin Defendants’ unlawful acts and practices
+and to compel their compliance with the Act and Regulations and to further enjoin Defendants
+from engaging in any commodity-related activity. In addition, the Commission seeks civil
+monetary penalties and remedial ancillary relief, including, but not limited to, trading and
+registration bans, restitution, disgorgement, rescission, pre- and post-judgment interest, and other
+such relief as the Court may deem necessary and appropriate.
+
+13. Unless restrained and enjoined by this Court, there is a reasonable likelihood that
+Defendants will continue to engage in the acts and practices alleged in this Complaint, and
+similar acts and practices, as more fully described below.
+
+II. JURISDICTION AND VENUE
+
+14. The Court has jurisdiction over this action pursuant to Section 6c of the Act,
+
+7 U.S.C. § 13a-1 (2012), because it appears to the Commission that Defendants have engaged,
+are engaging, or are about to engage in conduct that constitutes a violation of the Act and the
+
+Regulations.
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 5 of 28 PagelD #:5.
+
+15. Venue properly lies with the Court pursuant to Section 6c(e) of the Act, 7 U.S.C.
+§ 13a-1(e) (2012), in that Defendants reside and transact business in this District and acts and
+practices in violation of the Act and Regulations have occurred within this District.
+
+Ill. PARTIES
+
+16.‘ Plaintiff U.S. Commodity Futures Trading Commission is an independent
+federal regulatory agency that is charged by Congress with the administration and enforcement
+of the Act and the Regulations promulgated thereunder. The Commission maintains its principal
+office at Three Lafayette Centre, 1155 21" Street NW, Washington, DC 20581.
+
+17. Defendant Nick A. Wurl is a resident of Chicago, Illinois. Wurl owns Ludiera
+and is the President, Director, Chairman, and Managing Member of Ludiera. At all times, and
+with respect to all conduct described in this Complaint, Wurl has exercised sole ownership and
+control over Ludiera. Wurl also has managed and directed other employees of Ludiera who
+acted on Ludiera’s behalf. Wurl, either himself or through others acting at his direction, has
+solicited customers for Ludiera; has prepared and distributed or has directed others to prepare
+and distribute disclosure documents, transaction updates, marketing materials, and other
+literature used to solicit customers for Ludiera; and has executed or directed others to execute
+futures and options trades on behalf of Ludiera, all of which occurred within the scope of Wurl’s
+agency, employment, or office with Ludiera. During the Relevant Period, Wurl was an
+associated person (AP) of Ludiera, though Wurl has never been registered with the Commission
+in any capacity.
+
+18. Defendant Ludiera Capital LLC is a Delaware limited liability company with its
+principal place of business at 733 N. LaSalle St., 3“ Floor, Chicago, IL 60654. Wurl is the
+
+owner, President, Director, Chairman, and Managing Member of Ludiera. Ludiera is engaged in
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 6 of 28 PagelD #:6
+
+a business that is of the nature of a commodity pool, investment trust, syndicate, or similar form
+of enterprise, and, in connection therewith, solicited, accepted, or received from others, funds,
+securities, or property, for the purpose of trading in commodity interests. During the Relevant
+Period, Ludiera was the commodity pool operator (CPO) for the Pool, though Ludiera has never
+been registered with the Commission in any capacity.
+
+IV. FACTS
+A. Background Information Regarding Defendants and the Pool
+
+19. On March 13, 2013, Wurl formed Ludiera in Delaware as a limited liability
+company.
+
+20. Atall times during the Relevant Period, Wurl owned Ludiera and served as its
+President, Director, Chairman, and Managing Member.
+
+21. According to its website, Ludiera was founded in 2009 and has since “grown from
+being a North America niche player in derivatives trading to a highly diversified commodity
+trading and investment management company integrating physical commodity trading, real asset
+management, and logistics services into one financially sound entity.”
+
+22.  Ludiera purports to trade physical commodities, including agricultural and energy
+products. Ludiera claims that, in conjunction with its physical commodity trading activities, it
+* can provide “complex hedging structures as a part of each physical contract to provide customers
+with enhanced price risk mitigation.”
+
+23. On May 15, 2013, Defendants created the Pool and named Ludiera as the Pool’s
+
+general partner.
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 7 of 28 PagelD #:7
+
+24. Defendants created the Pool purportedly to provide operating capital to Ludiera in
+furtherance of its purchase, sale, and transport of commodities around the world through its
+network of trading counterparties.
+
+25. The Pool’s Private Placement Memoranda dated July 8, 2014 and October 1, 2014
+(together, the PPMs) describe the Pool as a “physical commodity trading and asset management
+company.” The PPMs claim that the Pool leverages “the network of commodity buyers and
+processing firms with the goal of providing reliable commodity supplies at competitive prices to
+end users around the world.”
+
+B. Defendants’ Fraudulent Solicitation of Pool Participants
+
+26. Throughout the Relevant Period, Defendants, acting directly or through their
+agents, employees, or officers, solicited approximately $9 million from at least 46 individuals
+and entities for the represented purpose of purchasing, selling, and transporting physical
+commodities.
+
+27. Defendants solicited existing and prospective participants of the Pool through in-
+person meetings, phone calls, and email communications.
+
+28. Defendants provided marketing materials for Ludiera and for the Pool to existing
+and prospective participants of the Pool. Wurl personally orchestrated and distributed these
+marketing materials and was responsible for Ludiera’s solicitation practices.
+
+29. Defendants utilized the mail and/or other means or instrumentalities of interstate
+commerce to (1) distribute the PPMs to existing and prospective participants of the Pool;
+
+(2) distribute transactional statements to participants; (3) portray Ludiera’s purported business
+
+model and strategy to the public via its website; and (4) provide information to existing and
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 8 of 28 PagelD #:8
+
+potential participants of the Pool regarding the purported business strategy, activity, and
+
+profitability of the Pool.
+
+30.
+
+Throughout the Relevant Period, Defendants made numerous misrepresentations
+
+of material fact to existing and potential Pool participants to convince them to invest with
+
+Defendants and to remain invested with Defendants. Specifically, Defendants falsely told
+
+existing and prospective Pool participants that:
+
+31.
+
+a.
+
+Defendants would invest Pool participants’ funds in the buying and selling of
+physical commodities;
+
+Defendants were in the business of “sourc[ing] and mov[ing] physical
+commodities from areas of high supply to areas of high demand through its
+network of end users and both United States and foreign domiciled entities”;
+Defendants’ trading in physical commodities was generating profits for Pool
+participants;
+
+Defendants were not engaged in the trading of futures or options;
+
+Defendants had established a segregated bank account with J.P. Morgan Chase in
+the name of the Pool into which the participants’ funds would be deposited;
+
+Pool participants’ investment with Defendants was low-risk, if not entirely risk-
+free; and
+
+The worst potential outcome for Pool participants was a 0% return on investment.
+
+Defendants concocted elaborate and false stories about physical commodity
+
+transactions in order to convince participants to invest in their scheme. For example, Wurl
+
+falsely described to a then-prospective Pool participant a method of doing business that he
+
+claimed Defendants utilized:
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 9 of 28 PagelD #:9
+
+32.
+
+The way we earn money for our partners is [] by negotiating an agreement
+to buy the requested physical commodity at a given price from one of our
+origination facilities and at the same time we sell the same commodities
+on contract to one of our contacts who is looking to purchase . . . [.] When
+they buy, they transfer the whole amount of money that we’re due to an
+escrow account in Ludiera Capital’s name so that we can verify that the
+funds exist before we sell the product. After we’ve determined the
+location that we are buying the commodities from, we then locate shipping
+capacity (either a train, barge, or ocean faring vessel) and arrange for the
+product to be picked up at the location where we bought it. When our
+contracted transportation picks the product up, our insurance policy,
+underwritten by the United States Export Import Bank (backed by the
+United States Government) protects Ludiera on the full value of the
+product [] in the event that some part of the transaction does not go as
+planned ... When the product arrives to the buyer’s port, the full value of
+the escrow account is released to Ludiera Capital and the profit on the
+transaction is divided amongst our partners.
+
+* * *
+
+In a worst case scenario, if no trading opportunities exist in the world, we
+would simply wait. Our worst possible outcome would be a return of 0%
+in a year (assuming no deals were available to be made, an occurrence that
+has not happened over a prolonged period in the history of global trade).
+
+Defendants’ misrepresentations caused participants to invest, invest additional
+
+money, and convince others to invest with Defendants.
+
+33.
+
+Throughout the Relevant Period, Defendants failed to disclose material facts to
+
+the Pool’s participants, including that:
+
+34.
+
+a.
+
+A significant portion of participants’ funds would be used to trade futures and
+options;
+
+Defendants were sustaining significant losses trading futures and options; and
+There is risk, including the risk of loss of principal, associated with the trading of
+futures and options.
+
+Contrary to Defendants’ representations regarding their operations, at no time
+
+were they engaged in the purchase, sale, or transportation of physical commodities. Instead,
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 10 of 28 PagelD #:10
+
+Defendants utilized Pool participant funds for speculative trading in futures and options using
+accounts in Wurl’s and Ludiera’s names. Further, Defendants misappropriated Pool participant
+funds for their own use, as described below.
+
+35. Contrary to Defendants’ representations, Defendants also failed to operate the
+Pool as a separate legal entity. In particular, Defendants never opened a separate bank account
+for the Pool as they claimed and deposited Pool participant funds directly into Ludiera’s account,
+where it was then subsequently transferred to trading accounts in the names of Ludiera and Wurl,
+as well as Wurl’s personal bank account.
+
+36. Defendants made all of these false statements to Pool participants and prospective
+Pool participants knowingly or with reckless disregard for the truth.
+
+C. Defendants Commingled and Misappropriated Poo] Funds
+
+37. The Pool was little more than a shell company used as a marketing device for
+soliciting contributions of capital. The Pool had no independent function or capitalization
+separate and apart from Ludiera itself, or even its own bank account.
+
+38. | Defendants deposited the Pool participants’ funds into a checking account in the
+name of Ludiera at Bank A (the Ludiera bank account). Wurl is the sole signatory on the
+Ludiera bank account.
+
+39. Defendants never used any Pool participants’ funds for the purchase, sale, or
+transport of physical commodities.
+
+40. Instead, Defendants transferred the bulk of Pool participants’ funds from the
+Ludiera bank account to, and between, other bank and trading accounts in the name of Ludiera or
+
+Wurl:
+
+10
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 11 of 28 PagelD #:11
+
+a. Defendants made approximately $1.4 million in net transfers of Pool
+participants’ funds from the Ludiera bank account to Wurl’s personal bank account at
+
+Bank A. Wurl then made approximately $1.2 million in net transfers of those funds to his
+
+personal account at Futures Commission Merchant (FCM) A, where he lost the funds
+
+trading primarily futures and options.
+b. Defendants transferred approximately $5.6 million in Pool participants’
+funds from the Ludiera bank account to Ludiera’s trading accounts at FCM A and
+
+FCM B, as well as to invest in a limited partnership interest with a hedge fund.
+
+Defendants lost approximately $2.1 million in those accounts by trading primarily futures
+
+and options. Collectively, approximately $3.5 million in Pool participants’ funds,
+
+remains in Ludiera’s trading accounts.
+
+41. During the Relevant Period, Defendants spent at least $500,000 of Pool
+participants’ funds to pay for Ludiera’s credit card debts, automobile purchases, and additional
+items and expenses.
+
+42. During the Relevant Period, Wurl spent at least $100,000 of the Pool
+participants’ funds for his own personal use, including payments totaling at least $68,000 for his
+credit card debts.
+
+43. To disguise their trading losses and misappropriation, Defendants distributed a
+sum of approximately $1.8 million to Pool participants as redemptions, i.e. "Ponzi payments,"
+when in fact the majority of these funds consisted of other Pool participants' principal.
+
+44. Defendants told pool participants that Ludiera would charge either a one percent
+or half a percent annual “management fee” based on the total Pool assets. Defendants never
+
+attempted to abide by this fee structure, however, and treated the entirety of Pool participants’
+
+11
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 12 of 28 PagelD #:12
+
+contributions as available for their use in Ludiera’s and Wurl's futures and options trading
+accounts, as well as for their personal use.
+
+45. Defendants committed these acts of misappropriation knowingly or with reckless
+disregard for the truth.
+
+D. False Statements and Documents
+
+46. Defendants created, distributed, or otherwise utilized with existing and potential
+Pool participants several types of documents that furthered their fraudulent scheme, including
+fake audited financial statements for Ludiera and its subsidiaries that purported to be conducted
+by a top international accounting firm; fake bank account statements; and fake statements
+documenting Ludiera’s purchase, sale, and transport of commodities.
+
+47, Defendants created, distributed or otherwise utilized these documents in an effort
+to convince existing and potential Pool participants of the legitimacy and profitability of
+Defendants’ operations. For instance, Defendants used several fabricated documents to convince
+existing and potential Pool participants to contribute to the Pool, including:
+
+a. Ludiera bank statements reflecting transactions in the range of $30-40 million per
+month;
+
+b. A document purportedly reflecting a grain purchase by Ludiera on October 19,
+2014 of 1.75 million bushels of soybeans at $10.85 per bushel and its shipment to
+Tokyo, Japan;
+
+c. A document purportedly reflecting a sale by Ludiera on October 31, 2014 of
+720,000 metric tons of soybeans for shipment from the United States to China;
+
+d. An “Escrow Agreement” dated April 10, 2013 between LUDIERA CAPITAL,
+
+LLC and C[redacted]RP TRUSTEE COMPANY LIMITED; C[redacted]NK.
+
+12
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 13 of 28 PagelD #:13
+
+N.A.; and C[redactedJNK INTERNATIONAL PLC governing custody of
+Ludiera’s contribution of the “estimated transaction value of commodities.”
+
+48. | These documents were presented to participants and potential participants during
+face-to-face meetings, as well as through emails sent by Defendants.
+
+49. Defendants also sent fake transaction statements to Pool participants by email,
+generally monthly to bi-monthly, in conjunction with the purported completion of transactions
+by Ludiera. The transactional statements represented that they were statements of “Transaction
+History — Physical Commodity Trading Fund.” The transactional statements identified the
+number of shares purportedly held by the respective Pool participant, consistently showing
+increases in the share value of the respective Pool participant.
+
+50. The transactional statements contained information purportedly showing
+transactions associated with the physical purchase, transportation, and sale of commodities,
+including noting deductions for the price of the commodity purchased, insurance, shipping
+services, and tax withholding, as well as credits for the sale price-of the commodity upon
+purported delivery. All of these statements were created by Defendants and all were completely
+false. Defendants did not buy, transport, or sell physical commodities. Likewise the associated
+entries for insurance on commodity transport, transportation costs, or taxes withheld were
+completely false.
+
+Sl. Moreover, the Pool participants’ investment did not increase-in value. To the
+contrary, Defendants’ trading in futures and options resulted in trading losses of approximately
+
+$3.3 million and experienced additional losses on account of Defendants’ misappropriation.
+
+13
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 14 of 28 PagelD #:14
+
+52. Participants relied on the false information contained in these statements in
+deciding to initially invest, to make additional investment, and/or to recommend to others that
+they also invest.
+
+53. Defendants created, distributed, or otherwise utilized all of the false documents
+described herein knowingly or with reckless disregard for the truth.
+
+V. VIOLATIONS OF THE COMMODITY EXCHANGE ACT
+AND THE REGULATIONS
+
+Count I — Futures Fraud
+
+ 
+
+Violations of Sections 4b(a)(1)(A)-(C) of the Act
+(All Defendants)
+
+54. The allegations set forth in Paragraphs | through 53 are re-alleged and
+incorporated herein by reference.
+55. Section 4b(a) of the Act, 7 U.S.C. § 6b(a) (2012), makes it unlawful:
+
+(1) for any person, in or in connection with any order to make, or the making of,
+any contract of sale of any commodity in interstate commerce or for future
+delivery that is made, or to be made, on or subject to the rules of a designated
+contract market, for or on behalf of any other person;
+
+* * *
+
+(A) to cheat or defraud or attempt to cheat or defraud the other person;
+
+(B) willfully to make or cause to be made to the other person any false
+report or statement or willfully to enter or cause to be entered for the other person
+any false record;
+
+(C) _ willfully to deceive or attempt to deceive the other person by any
+means whatsoever in regard to any order or contract or the disposition or
+execution of any order or contract, or in regard to any act of agency performed,
+with respect to any order or contract for... the other person....
+
+56. As described above, Defendants violated Section 4b(a)(1)(A)-(C) of the Act,
+
+7 U.S.C. § 6b(a)(1)(A)-(C) (2012), in or in connection with futures contracts made for or on
+
+14
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 15 of 28 PagelD #:15
+
+behalf of other persons, by misappropriating Pool funds, providing false account statements that
+misrepresented the Pool’s profitability and/or the value of participants’ interest in the Pool, and
+misrepresenting and omitting material facts.
+
+57. Defendants engaged in the acts and practices described above knowingly or with
+reckless disregard for the truth.
+
+58. When Wurl committed the acts, omissions, and/or failures described above, he
+acted within the scope of his agency, employment, and office at Ludiera; therefore, such acts,
+omissions, and/or failures are deemed to be those of Ludiera pursuant to Section 2(a)(1)(B) of
+the Act, 7 U.S.C. § 2(a)(1)(B) (2012), and Regulation 1.2, 17 C.F.R. § 1.2 (2014).
+
+59. At all times relevant to this Complaint, Wurl controlled Ludiera, directly or
+indirectly, and did not act in good faith or knowingly induced, directly or indirectly, Ludiera’s
+conduct alleged in this Count. Therefore, pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b)
+(2012), Wurl is liable for Ludiera’s violations of Section 4b(a)(1)(A)-(C) of the Act, 7 U.S.C.
+
+§ 6b(a)(1)(A)-(C) (2012).
+
+60. Each act of misappropriation, issuance of a false report or account statement, and
+misrepresentation or omission of material fact, including, but not limited to, those specifically
+alleged herein, is alleged as a separate and distinct violation of Section 4b(a)(1)(A)-(C) of the
+
+Act, 7 U.S.C. § 6b(a)(1)(A)-(C) (2012).
+
+15
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 16 of 28 PagelD #:16
+
+Count Il - Options Fraud
+
+Violations of Section 4c(b) of the Act and Regulation 33.10
+(All Defendants)
+
+61. The allegations set forth in Paragraphs | through 60 are re-alleged and
+incorporated herein by reference.
+
+62. Section 4c(b) of the Act, 7 U.S.C. § 6c(b) (2012), provides:
+
+No person shall offer to enter into, enter into or confirm the exccution of, any
+
+transaction involving any commodity regulated under this Act which is of the
+
+character of, or is commonly known to the trade as, an “option” . . . contrary to
+
+any rule, regulation, or order of the Commission prohibiting any such transaction
+
+or allowing any such transaction under such terms and conditions as the
+
+Commission shall prescribe. . . .
+
+63. Regulation 33.10, 17 C.F.R. § 33.10 (2014), provides:
+
+It shall be unlawful for any person directly or indirectly—
+
+(a) To cheat or defraud or attempt to cheat or defraud any other person;
+
+(b) To make or cause to be made to any other person any false report or
+statement thereof or cause to be entered for any person any false record thereof;
+
+(c) To deceive or attempt to deceive any other person by any means
+whatsoever
+
+in or in connection with an offer to enter into, the entry into, the confirmation of
+the execution of, or the maintenance of, any commodity option transaction.
+
+64. Asdescribed above, Defendants violated Section 4c(b) of the Act, 7 U.S.C,
+§ 6c(b) (2012), and Regulation 33.10, 17 C.F.R. § 33.10 (2014), in or in connection with options
+on futures made for or on behalf of other persons, by misappropriating Pool funds, providing
+false account statements that misrepresented the Pool’s profitability and/or the value of
+participants’ interest in the Pool, and misrepresenting and omitting material facts.
+
+65. Defendants engaged in the acts and practices described above knowingly or with
+
+reckless disregard for the truth.
+
+16
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 17 of 28 PagelD #:17
+
+66. When Wurl committed the acts, omissions, and/or failures described above, he
+acted within the scope of his agency, employment, and office at Ludiera; therefore, such acts,
+omissions, and/or failures are deemed to be those of Ludiera pursuant to Section 2(a)(1)(B) of
+the Act, 7 U.S.C. § 2(a)(1)(B) (2012), and Regulation 1.2, 17 C.F.R. § 1.2 (2014).
+
+67. At all times relevant to this Complaint, Wurl controlled Ludiera, directly or
+indirectly, and did not act in good faith or knowingly induced, directly or indirectly, Ludiera’s
+conduct alleged in this Count. Therefore, pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b)
+(2012), Wurl is liable for Ludiera’s violations of Section 4c(b) of the Act, 7 U.S.C. § 6c(b) |
+(2012), and Regulation 33.10, 17 C.F.R. § 33.10 (2014).
+
+68. Each act of misappropriation, issuance of a false report or account statement, and
+misrepresentation or omission of material fact, including, but not limited to, those specifically
+alleged herein, is alleged as a separate and distinct violation of Section 4c(b) of the Act, 7 U.S.C.
+§ 6c(b) (2012), and Regulation 33.10, 17 C.F.R. § 33.10 (2014).
+
+Count III — Fraud by Commodity Pool Operator and Associated Person
+
+Violations of Section 40(1) of the Act
+(All Defendants)
+
+69. The allegations set forth in Paragraphs 1 through 68 are re-alleged and
+incorporated herein by reference.
+
+Ludiera Acted as a CPO
+
+70. A “commodity pool” is defined under Section 1a(10)(A) of the Act, 7 U.S.C.
+§ 1a(10) (2012), as “any investment trust, syndicate, or similar form of enterprise operated for
+the purpose of trading commodity interests,” including for the trading of futures and options.
+
+71. | A commodity pool operator (“CPO”) is defined under Section 1a(11)(A) of the
+
+Act, 7 U.S.C. § la(11)(A)(i) (2012), as any person
+
+17
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 18 of 28 PagelD #:18
+
+engaged in a business that is of the nature of a commodity pool, investment trust,
+syndicate, or similar form of enterprise, and who, in connection therewith,
+solicits, accepts, or receives from others, funds, securities, or property, either
+directly or through capital contributions, the sale of stock or other forms of
+securities, or otherwise, for the purpose of trading in commodity interests,
+including any—
+
+(I) commodity for future delivery . . .[or]
+
+* * *
+
+(II) commodity option authorized under section 4c...
+
+* * *
+
+72.  Ludiera has been operating as a CPO in that it engaged in a business that is of the
+nature of an investment trust, syndicate, or similar form of enterprise, and in connection
+therewith, solicited, accepted, or received funds, securities, or property from others for the
+purpose of trading futures and options.
+
+Wurl Acted as an AP of a CPO
+
+73. Regulation 1.3(aa), 17 C.F.R. § 1.3(aa) (2014), defines an associate person (“AP”)
+of a CPO as “any natural person who is associated in any of the following capacities with . . . (3)
+[a] commodity pool operator as a partner, officer, employee, consultant, or agent (or any natural
+person occupying a similar status or performing similar functions), in any capacity which
+involves (i) the solicitation of funds, securities, or property for participation in a commodity pool
+or (ii) the supervision of any person or persons so engaged ....”
+
+74. Atall times relevant to this Complaint, Wurl acted as an AP of Ludiera because
+he was a partner, officer, employee and/or agent of Ludiera and he solicited and accepted funds,
+
+securities, or property from investors for Ludiera for participation in a commodity pool.
+
+18
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 19 of 28 PagelD #:19
+
+Violations of Section 40 of the Act
+
+75. Section 40(1) of the Act, 7 U.S.C. § 60(1) (2012), makes it unlawful for a
+“commodity pool operator, or associated person of a commodity pool operator by use of the
+mails or any means or instrumentality of interstate commerce, directly or indirectly—
+
+(A) to employ any device, scheme, or artifice to defraud any client or
+participant or prospective client or participant; or
+
+(B) to engage in any transaction, practice, or course of business which
+
+operates as a fraud or deceit upon any client or participant or prospective
+client or participant.
+
+76. — Atall times relevant to this Complaint, Ludiera, acting as a CPO, and Wurl acting
+as an AP, through the use of the mails or others means or instrumentalities of interstate
+commerce (including through use of the telephone and internet), have violated Section 40 of the
+Act, 7 U.S.C. § 60 (2012), by misappropriating Pool funds, providing false account statements
+that misrepresented the Pool’s profitability and/or the value of participants’ interest in the Pool,
+and misrepresenting and omitting material facts.
+
+77. Defendants engaged in the acts and practices described above knowingly or with
+reckless disregard for the truth.
+
+78. When Wurl committed the acts, omissions, and/or failures described above, he
+acted within the scope of his agency, employment, and office at Ludiera; therefore, such acts,
+omissions, and/or failures are deemed to be those of Ludiera pursuant to Section 2(a)(1)(B) of
+the Act, 7 U.S.C. § 2(a)(1)(B) (2012), and Regulation 1.2, 17 C.F.R. § 1.2 (2014).
+
+79.  Atall times relevant to this Complaint, Wurl controlled Ludiera, directly or
+indirectly, and did not act in good faith or knowingly induced, directly or indirectly, Ludiera’s
+conduct alleged in this Count. Therefore, pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b)
+
+(2012), Wurl is liable for Ludiera’s violations of Section 40 of the Act, 7 U.S.C. § 60 (2012).
+
+19
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 20 of 28 PagelD #:20
+
+80. _ Each act of misappropriation, issuance of a false report or account statement, and
+misrepresentation or omission of material fact, including, but not limited to, those specifically
+alleged herein, is alleged as a separate and distinct violation of Section 40 of the Act, 7 U.S.C.
+§60 (2012).
+
+Count [IV — Fraudulent and Deceptive Practices
+
+Violations of Section 6(c)(1) of the Act and Regulation 180.1
+(All Defendants)
+
+81. The allegations set forth in Paragraphs | through 80 are re-alleged and
+incorporated herein by reference.
+
+82. Section 6(c)(1) of the Act, 7 U.S.C. § 9(1) (2012), renders it unlawful for any
+person, directly or indirectly, to:
+
+use or employ, or attempt to use or employ, in connection with any swap, ora
+contract of sale of any commodity in interstate commerce, or for future delivery
+on or subject to the rules of any registered entity, any manipulative or deceptive
+device or contrivance, in contravention of such rules and regulations as the
+Commission shall promulgate by not later than | year after the date of enactment
+of the Dodd-Frank Wall Street Reform and Consumer Protection Act [July 21,
+2010)...
+
+83. Regulation 180.1(a), 17 C.F.R. § 180.1(a) (2014), effective August 15, 2011,
+provides:
+
+It shall be unlawful for any person, directly or indirectly, in connection with any
+swap, or a contract of sale of any commodity in interstate commerce, or contract
+for future delivery on or subject to the rules of any registered entity, to
+intentionally or recklessly:
+
+(1) Use or employ, or attempt to use or employ, any manipulative
+device, scheme, or artifice to defraud;
+
+(2) Make, or attempt to make, any untrue or misleading statement of
+material fact or to omit to state a material fact necessary in order to
+make the statements made not untrue or misleading;
+
+(3) Engage, or attempt to engage, in any act, practice, or course of
+business, which operates or would operate as a fraud or deceit
+upon any person ....
+
+20
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 21 of 28 PagelD #:21
+
+84. As described above, Defendants violated Section 6(c)(1) of the Act, 7 U.S.C.
+
+§ 9(c)(1) (2012), and Regulation 180.1, 17 C.F.R. § 180.1 (2014), in connection with futures
+contracts, by misappropriating Pool funds, providing false account statements that
+misrepresented the Pool’s profitability and/or the value of participants’ interest in the Pool, and
+misrepresenting and omitting material facts.
+
+85. Defendants engaged in the acts and practices described above knowingly or with
+reckless disregard for the truth.
+
+86. When Wurl committed the acts, omissions, and/or failures described above, he
+acted within the scope of his agency, employment, and office at Ludiera; therefore, such acts,
+omissions, and/or failures are deemed to be those of Ludiera pursuant to Section 2(a)(1)(B) of
+the Act, 7 U.S.C. § 2(a)(1)(B) (2012), and Regulation 1.2, 17 C.F.R. § 1.2 (2014).
+
+87. Atall times relevant to this Complaint, Wurl controlled Ludiera, directly or
+indirectly, and did not act in good faith or knowingly induced, directly or indirectly, Ludiera’s
+conduct alleged in this Count. Therefore, pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b)
+(2012), Wurl is liable for Ludiera’s violations of Section 6(c)(1) of the Act, 7 U.S.C. § 9(c)(1)
+(2012), and Regulation 180.1, 17 C.F.R. § 180.1 (2014).
+
+88. Each act of misappropriation, issuance of a false report or account statement, and
+misrepresentation or omission of material fact, including, but not limited to, those specifically
+alleged herein, is alleged as a separate and distinct violation of 6(c)(1) of the Act, 7 U.S.C.
+
+§ 9(c)(1) (2012), and Regulation 180.1, 17 C.F.R. § 180.1 (2014).
+
+21
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 22 of 28 PagelD #:22
+
+Count V- Failure to Register as CPO
+
+Violation of Section 4m(1) of the Act
+(All Defendants)
+
+89. The allegations set forth in Paragraphs | through 88 are re-alleged and
+incorporated herein by reference.
+
+90. Pursuant to Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2012), it is unlawful for
+any CPO, unless registered under the Act, to make use of the mails or any means or
+instrumentality of interstate commerce in connection with its business as a CPO.
+
+91. _ Ludiera operated as a CPO because it engaged in a business that is of the nature of
+an investment trust, syndicate, or similar form of enterprise, and in connection therewith,
+solicited, accepted, or received funds, securities, or property from others for the purpose of
+trading futures and options.
+
+92. _ Ludiera utilized the mails or others means or instrumentalities of interstate
+commerce (including email, telephone and internet), directly or indirectly, to engage in its
+business as a CPO.
+
+93. At all times relevant to this Complaint, Ludiera was not registered with the
+Commission as a CPO.
+
+94. At all times relevant to this Complaint, Ludiera was not entitled to exemption
+from registration with the Commission.
+
+95.  Ludiera engaged in activities described herein without having registered as a
+CPO, in violation of Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2012). -
+
+96. At all times relevant to this Complaint, Wurl controlled Ludiera, directly or
+
+indirectly, and did not act in good faith or knowingly induced, directly or indirectly, Ludiera’s
+
+22
+-Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 23 of 28 PagelD #:23
+
+conduct alleged in this Count. Therefore, pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b)
+(2012), Wurl is liable for Ludiera’s violations of Section 4m(1), 7 U.S.C. § 6m(1) (2012).
+
+97. Each use of the mails or any means or instrumentality of interstate commerce by
+Ludiera while acting as a CPO, including but not limited to those specifically alleged herein, is
+alleged as a separate and distinct violation of Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2012).
+
+Count VI — Failure to Register as AP
+
+Violation of Section 4k(2) of the Act
+(Wurl)
+
+98. The allegations set forth in Paragraphs | through 97 are re-alleged and
+incorporated herein by reference.
+
+99. Pursuant to Section 4k(2) of the Act, 7 U.S.C. § 6k(2) (2012), it is unlawful for
+any AP of a CPO to not be registered with the Commission.
+
+100.  Atall times relevant to this Complaint, Wurl was an AP of Ludiera, a CPO,
+because he was a partner, officer, employee and/or agent of Ludiera and he solicited and
+accepted funds, securities, or property from investors for Ludiera for participation in a
+commodity pool.
+
+101. Atall times relevant to this Complaint, Wurl was not been registered with the
+Commission, in violation of Section 4k(2) of the Act, 7 U.S.C. § 4k(2) (2012).
+
+102. When Wurl committed the acts, omissions, and failures described herein, he did
+so within the scope of his agency, employment, and office with Ludiera; therefore, Wurl’s acts,
+omissions, and failures are deemed those of Ludiera pursuant to Section 2(a)(1)(B) of the Act,
+
+7 U.S.C. § 2(a)(1)(B) (2012), and Regulation 1.2, 17 C.F.R. § 1.2 (2014).
+
+23
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 24 of 28 PagelD #:24
+
+Count VII —Failure to Operate CPO as Separate Legal Entitv/Commingling of Funds
+
+Violations of Regulation 4.20
+(All Defendants)
+
+103. The allegations set forth in Paragraphs 1 through 102 are re-alleged and
+incorporated herein by reference.
+
+104. Regulation 4.20(a), 17 C.F.R. § 4.20(a) (2014), requires a CPO to operate its
+commodity pool as a legal entity separate from that of the CPO.
+
+105. Regulation 4.20(b), 17 C.F.R. § 4.20(b) (2014), requires that all funds, securities
+and other property received by a CPO from a prospective or existing pool participant for
+purchase of an interest or as an assessment must be received in the commodity pool’s name.
+
+106. Regulation 4.20(c), 17 C.F.R. § 4.20(c) (2014), prohibits a CPO from
+commingling the property of any pool it operates with the property of any other person.
+
+107. Atall times relevant to this Complaint, Ludiera, while acting through Wurl and
+while acting as a CPO, violated Regulation 4.20(a)-(c), 17 C.F.R. § 4.20(a)-(c) (2014), by:
+
+(i) failing to operate the Pool as a legal entity separate from Ludiera, the CPO; (ii) receiving Pool
+participant funds in the name of Ludiera, rather than in the name of the Pool; and
+(iii) commingling the property of the Pool with the funds of Defendants.
+
+108. When Wurl committed the acts, omissions, and/or failures described above he
+acted within the scope of his agency, employment, and office at Ludiera; therefore, such acts,
+omissions, and/or failures are deemed to be those of Ludiera pursuant to Section 2(a)(1)(B) of
+the Act, 7 U.S.C. § 2(a)(1)(B) (2012), and Regulation 1.2, 17 C.F.R. § 1.2 (2014).
+
+109. At all times relevant to this Complaint, Wurl controlled Ludiera, directly or
+indirectly, and did not act in good faith or knowingly induced, directly or indirectly, Ludiera’s
+
+conduct alleged in this Count. Therefore, pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b)
+
+24
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 25 of 28 PagelD #:25
+
+(2012), Wurl is liable for Ludiera’s violations of Regulation 4.20(a)-(c) (2014), 17 C.F.R.
+§ 4.20(a)-(c) (2014).
+
+110. Each failure to operate the Pool as a separate legal entity, receipt of participant
+funds in a name other than the Pool, and act of commingling the property of the Pool, including,
+but not limited to those specifically alleged herein, is alleged as a separate and distinct violation
+of Regulation 4.20(a)-(c) (2014), 17 C.F.R. § 4.20(a)-(c) (2014).
+
+VI. RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that this Court, as authorized by
+Section 6c of the Act, 7 U.S.C. § 13a-1 (2012), and pursuant to its own equitable powers:
+
+a.) Find that Defendants violated Sections 4b(a)(1)(A)-(C), 4c(b), 4k(2), 4m(1),
+
+40(1), and 6(c)(1) of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C), 6c(b), 6k(2), 6m(1),
+60(1), 9(1) (2012); and Regulations 4.20, 33.10, and 180.1, 17 C.F.R. §§ 4.20,
+33.10, 180.1 (2014);
+
+b.) Enter orders of preliminary and permanent injunction enjoining each Defendant
+and his/its affiliates, agents, servants, employees, successors, assigns, attorneys,
+and all persons in active concert with them, who receive actual notice of such
+order by personal service or otherwise, from violating Sections 4b(a)(1)(A)-(C),
+4c(b), 4k(2), 4m(1), 40(1), and 6(c)(1) of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C),
+6c(b), 6k(2), 6m(1), 60(1), 9(1) (2012); and Regulations 4.20, 33.10, and 180.1,
+17 C.F.R. §§ 4.20, 33.10, 180.1 (2014).
+
+c.) Enter orders of preliminary and permanent injunction restraining and enjoining
+
+each Defendant and his/its affiliates, agents, servants, employees, successors,
+
+25
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 26 of 28 PagelD #:26
+
+assigns, attorneys, and all persons in active concert with him/it, from directly or
+
+indirectly:
+
+I)
+
+2)
+
+3)
+
+4)
+
+5)
+
+6)
+
+2)
+
+Trading on or subject to the rules of any registered entity (as that term is
+defined in Section 1a(40) of the Act, 7 U.S.C. §1a(40) (2012));
+
+Entering into any transactions involving “commodity interests” (as that
+term is defined in Regulation! .3(yy), 17 C.F.R. § 1.3(yy) (2014)) for their
+own personal or for any account in which they have a direct or indirect
+interest;
+
+Having any commodity interests traded on their behalf;
+
+Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account
+involving commodity interests;
+
+Soliciting, receiving, or accepting any funds from any person for the
+purpose of purchasing or selling any commodity interests;
+
+Applying for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the Commission, except
+as provided for in Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9) (2014);
+and/or
+
+Acting as a principal (as that term is defined in Regulation 3.1(a),
+
+17 C.F.R. § 3.1(a) (2014)), agent or any other officer or employee of any
+person (as that term is defined in Section 1a(38) of the Act, 7 U.S.C.
+
+§ 1a(38) (2012), registered, exempted from registration, or required to be
+
+26
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page 27 of 28 PagelD #:27
+
+d.)
+
+f.)
+
+g.)
+
+registered with the Commission except as provided for in
+
+Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9) (2014).
+Enter an order directing Defendants, as well as any successors thereof, to
+disgorge, pursuant to such procedure as the Court may order, all benefits received
+from the acts or practices which constitute violations of the Act and the
+Regulations as described herein, and pre- and post-judgment interest thereon from
+the date of such violations;
+Enter an order directing Defendants, as well as any successors to thereof, to
+rescind, pursuant to such procedure as the Court may order, all contracts and
+agreements, whether express or implied, entered into between, with, or among
+Defendants and any of the pool participants whose funds were received by
+Defendants as a result of the acts and practices which constituted violations of the
+Act and the Regulations, as described herein;
+Enter an order directing Defendants, as well as any successors thereof, to make
+full restitution, pursuant to such procedure as the Court may order, to every
+customer, investor, and pool participant whose funds any Defendant received, or
+caused another person or entity to receive, as a result of the acts and practices
+constituting violations of the Act and Regulations, as described herein, and pre-
+and post-judgment interest thereon from the date of such violations;
+Enter an order directing Defendants, as well as any successors thereof, to provide
+a full accounting of all customer, investor, and pool participant funds they have
+received as a result of the acts and practices constituting violations of the Act and
+
+Regulations, as described herein;
+
+27
+Case: 1:15-cv-05585 Document #: 1 Filed: 06/23/15 Page:28 of 28 PagelD #:28 -
+
+h.) Enter an order directing Defendants to pay civil monetary penalties, plus post-
+
+judgment interest thereon, in the amount of the greater of: (1) $140,000 for each
+
+violation of the Act and Regulations; or (2) triple Defendants’ monetary gain from
+
+violation of the Act and Regulations;
+
+i.) Enter an order requiring Defendants to pay costs and fees as permitted by 28
+
+U.S.C. §§ 1920 and 2412(a)(2) (2012); and
+
+j) Enter an order for such other and further relief, including, but not limited to,
+
+disgorgement and trading and registration bans, as the Court deems just and
+
+proper.
+
+Dated: June23, 2015
+
+Respectfully submitted,
+
+PLAINTIFF U.S. COMMODITY
+FUTURES TRADING COMMISSION
+
+/s/Diane M. Romaniuk
+
+Diane M. Romaniuk
+
+Senior. Trial Attorney
+dromaniuk@cftc.gov
+
+Illinois A.R.D.C. No. 0341649
+
+Charles Marvine (MO Bar #44906)
+
+Peter L. Riggs (MO Bar #57268)
+
+Rachel Hayes (MO Bar #48713)
+
+Rebecca S. Jelinek (MO Bar #53586)
+
+U.S. Commodity Futures Trading Commission
+4900 Main Street, Ste. 500
+
+Kansas City, Missouri 64112
+Telephone: (816) 960-7700
+Facsimile: (816) 960-7751
+cmarvine@cftc.gov
+priggs@cftc.gov
+rhayes@cfitc.gov
+rjelinek@cftc.gov
+
+Attorneys for Plaintiff
+
+28

@@ -50,12 +50,14 @@ first_page_100 = [text for text in first_page if len(text) > 100]
 first_page_100[:10]
 
 
-violeted_ans = nlpipe(question="Who violeted?", context=".".join(first_page_100), topk=3)
+violeted_ans = nlpipe(
+    question="Who violeted?", context=".".join(joined_first_page), topk=3
+)
 violeted_ans
 
 
 defendant_ans = nlpipe(
-    question="Who is the defendant?", context=".".join(first_page_100), topk=3
+    question="Who is the defendant?", context=".".join(joined_first_page), topk=3
 )
 defendant_ans[:3]
 

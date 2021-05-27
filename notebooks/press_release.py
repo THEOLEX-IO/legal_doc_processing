@@ -46,7 +46,7 @@ def get_defendant(raw_text):
 
 
 # file_path
-file_path_list = x_data_files(20, "press")
+file_path_list = x_data_files(30, "press")
 
 # read file
 raw_text_list = [load_data(file_path) for file_path in file_path_list]

@@ -31,11 +31,11 @@ doc = nlp(joined_first_page)
 # print("Noun phrases:", [chunk.text for chunk in doc.noun_chunks])
 # print("Verbs:", [token.lemma_ for token in doc if token.pos_ == "VERB"])
 
-# Find named entities, phrases and concepts
-for entity in doc.ents:
-    if entity.label_ == "ORG":
-        #  print(entity.text,":       ", entity.label_)
-        print(f"{entity.text[:30].ljust(40)} :  {entity.label_} ")
+# # Find named entities, phrases and concepts
+# for entity in doc.ents:
+#     if entity.label_ == "ORG":
+#         #  print(entity.text,":       ", entity.label_)
+#         print(f"{entity.text[:30].ljust(40)} :  {entity.label_} ")
 
 
 # Question answering pipeline, specifying the checkpoint identifier

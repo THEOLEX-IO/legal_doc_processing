@@ -1,5 +1,6 @@
 import os
 
+from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
 
 import legal_doc_processing.information_extraction as infext
 import legal_doc_processing.segmentation as seg
@@ -30,6 +31,12 @@ class LegalDoc:
         self.case = None
         self.defendant = None
 
+        self.nlpipe = pipeline(
+            "question-answering",
+            model="distilbert-base-cased-distilled-squad",
+            tokenizer="distilbert-base-cased",
+        )
+
     def predict_case(self) -> str:
         """predict case, update self.case attr and return the value"""
 
@@ -40,14 +47,14 @@ class LegalDoc:
     def predict_defendant(self) -> str:
         """predict defendant, update self.defendant attr and return the value"""
 
-        self.defendant = infext.get_defendant(self.clean_pages[0])
+        self.defendant = infext.get_defendant(self.clean_pages[0], self.nlpipe)
 
         return self.defendant
 
     def predict_violeted(self) -> str:
         """predict violeted, update self.violeted attr and return the value"""
 
-        self.violeted = infext.get_violeted(self.clean_pages[0])
+        self.violeted = infext.get_violeted(self.clean_pages[0], self.nlpipe)
 
         return self.violeted
 

@@ -12,8 +12,12 @@ from notebooks.paths import *
 # ### 2.1 - One file
 
 
+# file_path
+file_path_list = x_data_files(20, "order")
+
 # read file
-raw_text = load_data(one_file_path)
+raw_text_list = [load_data(file_path) for file_path in file_path_list]
+raw_text = raw_text_list[0]
 raw_text[:300]
 
 
@@ -23,8 +27,8 @@ first_page = clean_pages[0]
 joined_first_page = "\n".join(first_page)
 
 
-# Process whole documents
-doc = nlp(joined_first_page)
+# # Process whole documents
+# doc = nlp(joined_first_page)
 
 
 # Analyze syntax
@@ -50,16 +54,14 @@ first_page_100 = [text for text in first_page if len(text) > 100]
 first_page_100[:10]
 
 
-violeted_ans = nlpipe(
-    question="Who violeted?", context=".".join(joined_first_page), topk=3
-)
-violeted_ans
+violeted_ans = nlpipe(question="Who violeted?", context=joined_first_page, topk=3)
+violeted_ans[:1]
 
 
 defendant_ans = nlpipe(
-    question="Who is the defendant?", context=".".join(joined_first_page), topk=3
+    question="Who is the defendant?", context=joined_first_page, topk=3
 )
-defendant_ans[:3]
+defendant_ans[:1]
 
 
 # # STOP HERE

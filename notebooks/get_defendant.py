@@ -49,4 +49,4 @@ if __name__ == "__main__":
     defendant_ans_preds = [preds[0].get("answer") for preds in defendant_ans_list]
 
     # zip
-    list(zip(file_path_list, defendant_ans_preds))
+    ziped = list(zip(file_path_list, defendant_ans_preds))

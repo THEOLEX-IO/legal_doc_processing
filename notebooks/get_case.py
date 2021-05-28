@@ -26,4 +26,4 @@ if __name__ == "__main__":
     case_list
 
     # zip
-    list(zip(file_path_list, case_list))
+    ziped = list(zip(file_path_list, case_list))

@@ -92,3 +92,4 @@ if __name__ == "__main__":
     )
 
     df = pd.DataFrame(pseudo_df, columns=["basename", "dir", "pred_pummy", "pred_lnp"])
+    df

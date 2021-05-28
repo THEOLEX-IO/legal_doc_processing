@@ -6,111 +6,46 @@ from legal_doc_processing.utils import *
 from notebooks.packages import *
 from notebooks.paths import *
 
-# ## 2 - Defendant
-# -------------------------------------
 
-# ### 2.1 - One file
-
-
-# file_path
-file_path_list = x_data_files(20, "order")
-
-# read file
-raw_text_list = [load_data(file_path) for file_path in file_path_list]
-raw_text = raw_text_list[0]
-raw_text[:300]
-
-
-# clean first join
-clean_pages = clean_doc(raw_text)
-first_page = clean_pages[0]
-joined_first_page = "\n".join(first_page)
-
-
-# # Process whole documents
-# doc = nlp(joined_first_page)
-
-
-# Analyze syntax
-# print("Noun phrases:", [chunk.text for chunk in doc.noun_chunks])
-# print("Verbs:", [token.lemma_ for token in doc if token.pos_ == "VERB"])
-
-# # Find named entities, phrases and concepts
-# for entity in doc.ents:
-#     if entity.label_ == "ORG":
-#         #  print(entity.text,":       ", entity.label_)
-#         print(f"{entity.text[:30].ljust(40)} :  {entity.label_} ")
-
-
-# Question answering pipeline, specifying the checkpoint identifier
+# pipe
 nlpipe = pipeline(
     "question-answering",
     model="distilbert-base-cased-distilled-squad",
     tokenizer="distilbert-base-cased",
 )
 
+# file_path
+file_path_list = x_data_files(30, "order")
 
-first_page_100 = [text for text in first_page if len(text) > 100]
-first_page_100[:10]
+# read file
+raw_text_list = [load_data(file_path) for file_path in file_path_list]
+raw_text_list[0]
 
+# clean and first
+clean_pages_list = [clean_doc(raw_text) for raw_text in raw_text_list]
+first_page_list = [pages[0] for pages in clean_pages_list]
+first_page_list[0]
 
-violeted_ans = nlpipe(question="Who violeted?", context=joined_first_page, topk=3)
-violeted_ans[:1]
+# clean first join
+joined_first_page_list = ["\n".join(first_page) for first_page in first_page_list]
 
+# # violated
+# violeted_ans_list = [
+#     nlpipe(question="Who violeted?", context=jfp, topk=3)
+#     for jfp in joined_first_page_list
+# ]
+# violeted_ans_list[:1]
 
-defendant_ans = nlpipe(
-    question="Who is the defendant?", context=joined_first_page, topk=3
-)
-defendant_ans[:1]
+# violated_ans_peds = [preds[0].get("answer") for preds in violeted_ans_list]
 
+# defendant
+defendant_ans_list = [
+    nlpipe(question="Who is the defendant?", context=jfp, topk=3)
+    for jfp in joined_first_page_list
+]
+defendant_ans_list[:1]
 
-# # STOP HERE
+defendant_ans_preds = [preds[0].get("answer") for preds in defendant_ans_list]
 
-
-DEPRECATED = """
-import spacy
-
-# Load English tokenizer, tagger, parser and NER
-nlp = spacy.load("en_core_web_sm")
-
-# Process whole documents
-text = "\n".join(first_page)
-doc = nlp(text)
-
-# Analyze syntax
-# print("Noun phrases:", [chunk.text for chunk in doc.noun_chunks])
-# print("Verbs:", [token.lemma_ for token in doc if token.pos_ == "VERB"])
-
-# Find named entities, phrases and concepts
-for entity in doc.ents:
-    if entity.label_ == "ORG":
-        print(entity.text, ":       ", entity.label_)
-
-
-# print("\n".join(first_page))
-
-
-# In[19]:
-
-
-from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
-
-# Question answering pipeline, specifying the checkpoint identifier
-nlp = pipeline(
-    "question-answering",
-    model="distilbert-base-cased-distilled-squad",
-    tokenizer="distilbert-base-cased",
-)
-
-first_page_100 = [text for text in first_page if len(text) > 100]
-
-
-# In[20]:
-
-
-# first_page_100
-
-print(nlp(question="Who violeted?", context=".".join(first_page_100)))
-
-print(nlp(question="Who is the defendant?", context=".".join(first_page_100), topk=3))
-"""
+# zip
+list(zip(file_path_list, defendant_ans_preds))

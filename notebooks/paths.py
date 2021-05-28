@@ -1,20 +1,6 @@
 import os
 
 
-# ### 1.5 - paths
-
-one_file_path = "data/7162-15/"
-one_file_path = os.getcwd() + "/" + one_file_path
-
-order = "order-inter-global-currency.txt"
-press = "press-release.txt"
-one_file_order = one_file_path + order
-one_file_press = one_file_path + press
-
-assert os.path.isfile(one_file_order)
-assert os.path.isfile(one_file_press)
-
-
 def x_data_files(num: int = 10, _type: str = "order") -> list:
     """find in the -num- st data folders the files with good type (ie order or press) make a filter
     and retunr the list of files with usable paths"""

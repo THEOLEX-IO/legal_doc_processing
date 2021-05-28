@@ -82,7 +82,7 @@ if __name__ == "__main__":
     list(zip(file_path_list, pred_nlp_list))
 
     # pandas
-    df = list(
+    pseudo_df = list(
         zip(
             map(os.path.basename, file_path_list),
             map(os.path.dirname, [i.replace("data/", "") for i in file_path_list]),
@@ -91,4 +91,5 @@ if __name__ == "__main__":
         )
     )
 
-    df = pd.Dataframe
+    df = pd.DataFrame(pseudo_df, columns=["basename", "dir", "pred_pummy", "pred_lnp"])
+    df

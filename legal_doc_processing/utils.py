@@ -9,16 +9,13 @@ from cleantext import clean
 stopwords = nltk.corpus.stopwords.words("english")
 
 
-def hello():
-    """dummy  """
-
-    return "world"
-
-
 def load_data(file_path: str) -> str:
     """from file_path open read and return text; return text """
 
-    with open(file_path) as f:
+    if ".pdf" in file_path:
+        raise AttributeError("Error : file recieved is a pdf, only txt supported")
+
+    with open(file_path, "r") as f:
         txt = f.read()
 
     return txt
@@ -112,25 +109,25 @@ def get_token(text):
     sentence_list
     return sentence_list
 
+
 def get_para(sentence_list):
-    j=0
-    i=0
-    para=[]
-    paragraphes={}
-    idx=0
+    j = 0
+    i = 0
+    para = []
+    paragraphes = {}
+    idx = 0
     while i < len(sentence_list):
-        para=[]
-        paragraphes['hearder']=sentence_list[i]
+        para = []
+        paragraphes["hearder"] = sentence_list[i]
 
         while not is_section_num(sentence_list[i]):
             para.append(sentence_list[i])
-            i+=1  
+            i += 1
 
-        if is_section_num(sentence_list[i-1]):
-            paragraphes['content']=para
-            paragraphes['id']=idx
-            idx=idx+1
-        
+        if is_section_num(sentence_list[i - 1]):
+            paragraphes["content"] = para
+            paragraphes["id"] = idx
+            idx = idx + 1
 
     return paragraphes
 
@@ -176,39 +173,40 @@ def clean_doc(
 
 
 def get_structured_document(file):
-    text_structured=[]
-    file_cleaned=clean_doc(file)
-    i=0
-    text_={}
-    continu=[]
-    sec_num=0
+    text_structured = []
+    file_cleaned = clean_doc(file)
+    i = 0
+    text_ = {}
+    continu = []
+    sec_num = 0
     while sec_num < len(file_cleaned):
         if is_title(file_cleaned[sec_num][0]):
-            continu.append(file_cleaned[sec_num]) 
-            text_['hearder']=file_cleaned[sec_num][0]
-            sec_num+=1
-            while not is_title(file_cleaned[sec_num][0]) and sec_num < (len(file_cleaned)) :
-                      continu.append(file_cleaned[sec_num])
-                      sec_num+=1
+            continu.append(file_cleaned[sec_num])
+            text_["hearder"] = file_cleaned[sec_num][0]
+            sec_num += 1
+            while not is_title(file_cleaned[sec_num][0]) and sec_num < (
+                len(file_cleaned)
+            ):
+                continu.append(file_cleaned[sec_num])
+                sec_num += 1
             if is_title(file_cleaned[sec_num][0]):
-                text_['content'] =continu
-                text_['id']=i
-                text_['hearder']=file_cleaned[sec_num][0]
-                sec_num+=1
-                continu=[]
-                i+=1
+                text_["content"] = continu
+                text_["id"] = i
+                text_["hearder"] = file_cleaned[sec_num][0]
+                sec_num += 1
+                continu = []
+                i += 1
             else:
-                text_['content'] =continu
-                text_['id']=i
-        
+                text_["content"] = continu
+                text_["id"] = i
+
         text_structured.append(text_)
 
-
-    return text_structured      
+    return text_structured
 
 
 def word_frequency(text):
-    stopwords = nltk.corpus.stopwords.words('english')
+    stopwords = nltk.corpus.stopwords.words("english")
     word_frequencies = {}
     for word in nltk.word_tokenize(text):
         if word not in stopwords:

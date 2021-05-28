@@ -87,7 +87,11 @@ def x_data_files(num: int = 10, _type: str = "order") -> list:
     x_files_list = list()
     _ = [
         x_files_list.extend(
-            ["data/" + path_ + "/" + i for i in os.listdir("data/" + path_) if _type in i]
+            [
+                "data/" + path_ + "/" + i
+                for i in os.listdir("data/" + path_)
+                if ((_type in i) and (".pdf" not in i))
+            ]
         )
         for path_ in x_file_paths
     ]

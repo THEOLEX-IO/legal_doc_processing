@@ -15,16 +15,6 @@ import legal_doc_processing as ldp
 class TestDefendant:
     """Test class for Defendant feature"""
 
-    def test_defendant_work(self):
-        """just test predict defendant is ok """
-
-        # file path
-        file_name = os.listdir(features_root)[0]
-        file_path = features_root + file_name
-
-        # init object
-        ld = ldp.read_file(file_path)
-
     def test_defendant_accuracy(self, threshold: float = 0.90) -> None:
         """compute accuracy for defendant prediction; return None """
 

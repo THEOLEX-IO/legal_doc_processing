@@ -1,24 +1,10 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## 1 - Impots
-# --------------------
-
-
 import legal_doc_processing as ldp
 from legal_doc_processing.information_extraction import *
 from legal_doc_processing.segmentation import *
 from legal_doc_processing.utils import *
 
 from notebooks.packages import *
-from notebooks.paths import *
-
-
-# ## 2 - CASE
-# ----------------------------------
-#
-
-# ### 2.2 -  For all test doc
+from notebooks.utils import *
 
 
 # file_path
@@ -37,5 +23,5 @@ first_page_list[0]
 case_list = [get_case(fp) for fp in first_page_list]
 case_list
 
-
+# zip
 list(zip(file_path_list, case_list))

@@ -1,23 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# ## 1 - Impots
-# --------------------
-
-
-# import legal_doc_processing as ldp
-# from legal_doc_processing.information_extraction import *
-# from legal_doc_processing.segmentation import *
-# from legal_doc_processing.utils import *
-
-
 from notebooks.packages import *
-from notebooks.paths import *
-
-# path and fn
+from notebooks.utils import *
 
 
-def get_defendant(raw_text):
+def get_press_release_dummy_defendant(raw_text):
     """extract defendant """
 
     # extract lines with 'against'
@@ -56,11 +41,11 @@ raw_text_list[0]
 clean_pages_list = [clean_doc(raw_text) for raw_text in raw_text_list]
 first_page_list = [pages[0] for pages in clean_pages_list]
 first_page_list[0]
-
+joined_first_page_list = ["\n".join(l) for l in first_page_list]
 
 # pred defendant
-def_list = [get_defendant(txt) for txt in raw_text_list[0:12]]
+def_list = [get_press_release_dummy_defendant(txt) for txt in joined_first_page_list]
 def_list
 
-
+# zip
 list(zip(file_path_list, def_list))

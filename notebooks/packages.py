@@ -1,9 +1,3 @@
-# ## 1 - INTRO
-# --------------------
-
-# ### 1.1 - import builtin packages
-
-
 # builtin
 import os
 import sys
@@ -14,9 +8,6 @@ import urllib.request
 import json
 import glob
 import heapq
-
-
-# ### 1.2 - import external packages
 
 # request and web parse
 import requests
@@ -39,19 +30,13 @@ from textsplit.tools import get_penalty, get_segments
 from textsplit.algorithm import split_optimal, split_greedy, get_total
 import word2vec
 
-
-# ### 1.3 - Import local packages
-
-
+# local packages
 import legal_doc_processing as ldp
 from legal_doc_processing.information_extraction import *
 from legal_doc_processing.segmentation import *
 from legal_doc_processing.utils import *
 
-
-# ### 1.4 - Bootstrap packages
-
-
+# bootstrap packages
 nltk.download("popular")
 nlp = spacy.load("en_core_web_sm")
 get_ipython().run_line_magic("matplotlib", "inline")

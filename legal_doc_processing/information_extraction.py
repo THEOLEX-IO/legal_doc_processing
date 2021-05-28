@@ -4,6 +4,16 @@ import spacy
 from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
 
 
+def get_pipeline():
+    """ build and return a piplein"""
+
+    return pipeline(
+        "question-answering",
+        model="distilbert-base-cased-distilled-squad",
+        tokenizer="distilbert-base-cased",
+    )
+
+
 def get_case(first_page, length_treshold=50):
     """parse the first page line by line, matching a
     regex pattern refering to case feature
@@ -40,19 +50,15 @@ def get_case(first_page, length_treshold=50):
     return "-- error : case not founded --"
 
 
-def ask_who_is(txt: str, who: str, nlpipe=None) -> list:
+def _ask_who_is(txt: str, who: str, nlpipe=None) -> list:
     """ init a nlpipe if needed and ask who is the who """
 
     # init pipleine if needed
     if not nlpipe:
-        nlpipe = pipeline(
-            "question-answering",
-            model="distilbert-base-cased-distilled-squad",
-            tokenizer="distilbert-base-cased",
-        )
+        nlpipe = get_pipeline()
 
     # pipe and return
-    return nlpipe(question=f"Who is the {who}?", context=".".join(txt), topk=3)
+    return nlpipe(question=f"Who is the {who}?", context=txt, topk=3)
 
 
 def get_defendant(first_page: list, nlpipe=None) -> str:
@@ -62,18 +68,6 @@ def get_defendant(first_page: list, nlpipe=None) -> str:
     joined_first_page = "\n".join(first_page)
 
     # ask
-    ans = ask_who_is(joined_first_page, "defendant", nlpipe)
-
-    return ans[0]["answer"]
-
-
-def get_violeted(first_page: list, nlpipe=None) -> str:
-    """from a list of text lines, create a pipelie if needed and asqk question """
-
-    # first_page_100 = [text for text in first_page if len(text) > 100]
-    joined_first_page = "\n".join(first_page)
-
-    # ask
-    ans = ask_who_is(joined_first_page, "violated", nlpipe)
+    ans = _ask_who_is(joined_first_page, "defendant", nlpipe)
 
     return ans[0]["answer"]

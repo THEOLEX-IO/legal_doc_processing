@@ -9,14 +9,11 @@ from cleantext import clean
 stopwords = nltk.corpus.stopwords.words("english")
 
 
-def hello():
-    """dummy  """
-
-    return "world"
-
-
 def load_data(file_path: str) -> str:
     """from file_path open read and return text; return text """
+
+    if ".pdf" in file_path:
+        raise AttributeError("Error : file recieved is a pdf, only txt supported")
 
     with open(file_path, "r") as f:
         txt = f.read()

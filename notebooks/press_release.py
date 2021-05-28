@@ -1,5 +1,5 @@
 from notebooks.packages import *
-from notebooks.paths import *
+from notebooks.utils import *
 
 
 def get_press_release_dummy_defendant(raw_text):

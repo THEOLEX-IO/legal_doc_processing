@@ -4,7 +4,7 @@ from legal_doc_processing.segmentation import *
 from legal_doc_processing.utils import *
 
 from notebooks.packages import *
-from notebooks.paths import *
+from notebooks.utils import *
 
 
 # file_path

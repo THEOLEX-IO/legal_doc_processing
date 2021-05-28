@@ -1,0 +1,497 @@
+Case: 1:15-cv-05839 Document #: 1 Filed: 07/01/15 Page 1 of 14 PagelD #:1
+
+UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF ILLINOIS
+EASTERN DIVISION
+
+ 
+
+U. S. COMMODITY FUTURES
+
+TRADING COMMISSION,
+Civil Action No:
+
+Plaintiff,
+Judge
+vs.
+
+YUMIN LI, and Jury Demanded
+KERING CAPITAL LTD,
+
+Defendants
+KERING CAPITAL LTD,
+
+Relief Defendant.
+
+ 
+
+ 
+
+COMPLAINT FOR INJUNCTIVE AND OTHER EQUITABLE RELIEF
+AND CIVIL MONETARY PENALTIES UNDER THE COMMODITY EXCHANGE ACT
+
+The U.S. Commodity Futures Trading Commission (“CFTC” or “Commission”), by and
+through its attorneys, hereby alleges as follows:
+
+I. SUMMARY
+l. On six trading dates from March 17, 2015 to May 6, 2015 (“Relevant Period”),
+
+Defendant Yumin Li (“Li”) fraudulently accessed and improperly traded her employer’s account
+in order to move approximately $300,000 to Defendant Kering Capital Ltd. (“Kering Capital’)
+(the individual and corporation, collectively, “Defendants”). By structuring the transactions such
+that her employer’s account would always buy at higher prices and sell at lower prices opposite
+an account Li controlled at Kering Capital, Li was able to conduct a “money pass” between the
+
+two accounts in favor of the Kering Capital account.
+Case: 1:15-cv-05839 Document #: 1 Filed: 07/01/15 Page 2 of 14 PagelD #:2
+
+2. By virtue of this conduct and the conduct further described herein, Defendants -
+have engaged, are engaging or are about to engage in conduct in violation of (1) Sections
+Ab(a)(1)(A) and (C) of the Commodity Exchange Act (“Act”), 7 U.S.C. § § 6b(a)(1)(A) and (C)
+(2012), by cheating or defrauding Li’s employer through her unauthorized use of his account;
+(ii) Section 4c(a) of the Act, 7 U.S.C. § 6c(a) (2012), by entering into transactions that are pre-
+arranged, fictitious sales, and/or wash sales involving the purchase or sale of commodities for
+future delivery; and (iii) Regulation 1.38(a), 17.C.F.R. § 1.38(a) (2014), by entering into illegal,
+non-competitive transactions to buy and sell futures contracts.
+
+3. Unless restrained and enjoined by this Court, Defendants are likely to continue to
+engage in the acts and practices alleged in this Complaint and in similar acts and practices, as
+more fully described below.
+
+4, Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. § 13a-1 (2012), the
+Commission brings this action to enjoin such acts and practices, prevent the dissipation of assets,
+and compel compliance with the provisions of the Act. In addition, the Commission seeks civil
+penalties and remedial ancillary relief, including but not limited to, trading bans, restitution,
+disgorgement, an accounting, pre and post-judgment interest and such other statutory and
+equitable relief as the Court may deem necessary or appropriate under the circumstances.
+
+Il. JURISDICTION AND VENUE
+
+5. This Court has jurisdiction over this action pursuant to Section 6c(a) of the Act,
+
+— 7US.C. § 13a-1(a). Section 6c(a) of the Act authorizes the CFTC to seek injunctive relief
+against any person whenever it shall appear to the CFTC that such person has engaged, is
+engaging or is about to engage in any act or practice constituting a violation of any provision of
+
+the Act or any rule, regulation or order promulgated thereunder.
+
+ 
+Case: 1:15-cv-05839 Document #: 1 Filed: 07/01/15 Page 3 of 14 PagelD #:3
+
+6. Venue properly lies with this Court pursuant to Section 6c(e) of the Act, 7 U.S.C.
+§ 13a-1(e), because Defendants transacted business in this District, and the acts and practices in
+violation of the Act have occurred, are occurring or are about to occur within this District.
+
+HI. THE PARTIES AND RELIEF DEFENDANT
+
+7. Plaintiff Commodity Futures Trading Commission is an independent federal
+regulatory agency that is charged by Congress with administering and enforcing the provisions
+of the Act (2012) and the Commission Regulations promulgated thereunder, 17 C.F.R. §§ 1.1 et
+seq. (2014).
+
+8. Defendant Yumin Li (“Li”) is a Chinese citizen who lived in the United States
+during the relevant period. From February 2014 until May 2015 Li was employed by a trading
+firm in Alamo, California to conduct research related to the futures market. Li has never been
+registered with the Commission.
+
+9, Defendant and Relief Defendant Kering Capital Limited (“Kering Capital’) is
+a trading company incorporated in the British Virgin Islands. Kering Capital was formed in
+November 2014 by Li’s mother, who is its Chief Executive Officer and sole shareholder.
+Beginning in March 2015, Kering Capital authorized Li to trade futures on its behalf. It has
+never been registered with the Commission in any capacity. Kering Capital received funds that
+were obtained through Li’s unlawful conduct and to which Kering Capital had no legitimate
+interest or entitlement. Therefore, Kering Capital is also a Relief Defendant in this matter.
+
+IV. FACTUAL BACKGROUND
+A. Eurodollar Trading on the Chicago Mercantile Exchange
+
+10. | Chicago Mercantile Exchange (“CME”) is a designated contract market located in
+
+Chicago, Illinois that provides a marketplace for trading futures products, such as Eurodollar
+
+futures.
+Case: 1:15-cv-05839 Document #: 1 Filed: 07/01/15 Page 4 of 14 PagelD #:4
+
+11. CME offers an electronic trading platform, CME Globex, in which traders place
+various orders for futures in its order book, and CME’s matching engine arranges trades using
+those orders. CME’s regular trading hours are 7:00 AM to 4:00 PM central time (“CT”), but
+traders are also able to place orders in CME Globex outside of CME’s regular trading hours.
+Using CME Globex, a trader is able to enter orders electronically in Eurodollar futures contracts
+on weekdays during all but one hour of the day (4:00 to 5:00pm CT).
+
+12. One trading strategy is to buy or sel! multiple Eurodollar contracts at one time in a
+transaction known as a “spread.” Using a “butterfly spread,” a trader may establish positions in
+Eurodollar futures contracts with three or more distinct expiration dates.
+
+13. Eurodollar futures contracts with “distant” expiration dates that are five or more
+years beyond the trade date are generally less liquid than Eurodollar contracts with earlier
+“nearby” expiration dates, in that there are fewer bids to buy and offers to sell futures contracts
+by market participants. In some Eurodollar contracts with expiration dates that are five or more
+years beyond the trade date, there is very little trading whatsoever.
+
+14. Generally, futures markets are price discovery markets that provide a centralized
+marketplace where traders can shift risk. Price discovery occurs through the open and
+competitive execution of trades on the centralized market. To protect the integrity of the price
+discovery process, the Act and Regulations generally require offers to be open and available to
+the market as a whole (i.e., potentially matched with any other offer). The Act and Regulations
+prohibit trading practices that undermine the price discovery process, such as pre-arranged
+trading or fictitious sales.
+
+B. Li’s Control Over Two Trading Accounts
+15. Li carried out a money pass by using two trading accounts held at different
+
+registered futures commission merchants (“FCMs”).
+
+4
+Case: 1:15-cv-05839 Document #: 1 Filed: 07/01/15 Page 5 of 14 PagelD #:5
+
+16. One trading account belonged to Li’s employer, and its account number was
+XXXX8202 (“Employer 8202”). Li’s employer had a unique CME user identifier (“Tag 50”)
+that allowed him to control trading within the account. Li’s employer had provided Li with his
+Tag 50 for purposes of trade research; Li was not authorized to use her employer’s Tag 50 for
+Eurodollar futures trading.
+
+17. | The second account belonged to Kering Capital, and its account number was
+XXXX2536 (“Kering Capital 2536”). Kering Capital opened an account at a U.S. FCM in
+December 2014, and it informed the FCM that Li’s mother, Yanping Lu, would be trading for
+the account. Yanping Lu was issued a unique Tag 50 for her futures trading.
+
+18. Kering Capital authorized Li to trade on behalf of Kering Capital during the
+relevant period. Li was to receive compensation in the form of commissions for profitable
+trading. Li, using her mother’s Tag 50, was the only person trading Kering Capital 2536 from
+March 2015 through May 2015.
+
+C. Li’s Scheme to Siphon Money Through Eurodollar Spread Trading
+
+19. A money pass is a form of non-competitive trading in which one trader
+intentionally loses money to another trader, typically where one trader buys a quantity of
+contracts at a high price opposite the other trader, and sells back the same quantity of contracts at
+a low price opposite the same trader, leaving neither trader with a resulting futures or options
+position (i.e., a “round turn”). What appears to the market to be a legitimate trade between two
+arm’s-length parties is instead a pre-arranged scheme to move money from one account to the
+other.
+
+20. Beginning on March 17, 2015 and continuing on selected dates until May 6, 2015,
+Li carried out a money pass scheme whereby she moved money from her employer’s account to
+
+Kering Capital through a series of round-turn Eurodollar transactions at the CME. In order to
+
+5
+Case: 1:15-cv-05839 Document #: 1 Filed: 07/01/15 Page 6 of 14 PagelD #:6
+
+ensure that her employer’s and Kering Capital’s orders would match, Li concentrated her trading
+in illiquid Eurodollar contracts with expiration dates that were five or more years beyond the
+trade date. In addition, she traded outside of regular CME trading hours, which meant there
+would be fewer market participants trading, and she would have a better chance of matching the
+orders.
+
+21. In each of those transactions, Li would use Kering Capital 2536 to place an order
+for a Eurodollar spread of a certain quantity at certain price. Li would then place a second order
+using Employer 8202 on the opposite side of the market in the same product for the same
+quantity and same price.
+
+22. After the orders were matched in one transaction, Li would enter into equal and
+offsetting transactions to close out the position. Li entered matched orders in this pattern on at
+least March 17, 2015, March 18, 2015, March 19, 2015, April 1, 2014 and April 24, 2015, and
+May 6, 2015.
+
+23. For example, on May 6, 2015 Li entered orders for Kering Capital 2536 and
+placed corresponding orders from Employer 8202 on the opposite side of the market. Between
+12:42:54 AM and 12:43:05 AM CT, she entered multiple orders for Kering Capital 2536 to sell
+Eurodollar butterfly spreads, which consisted of selling 600 December 2021 Eurodollar futures,
+buying 1,200 September 2022 Eurodollar futures, and selling 600 June 2023 Eurodollar futures,
+at a price differential of 3.0. Between 12:44:17 AM and 12:44:21 AM CT, Li entered orders for
+Employer 8202 to buy an equal quantity of the same spread at the same price (3.0). Because she
+entered the orders for Employer 8202 with the same quantities and prices as the orders for
+
+Kering Capital 2536, the two accounts’ orders matched and traded opposite each other.
+Case: 1:15-cv-05839 Document #: 1 Filed: 07/01/15 Page 7 of 14 PagelD #:7
+
+24. | _Assoon as the orders were matched, Li immediately closed out the position.
+Between 12:43:22 AM and 12:44:02 AM CT, she entered multiple orders for Kering Capital
+2536 to buy the same quantities of Eurodollar butterfly spreads at price differentials of -1.5 and
+-1.0. Between 12:44:23 AM and 12:44:34 AM CT, she entered orders for Employer 8202 to sell
+the same quantities of the spread at the same prices (-1.5 and -1.0). Because she entered orders
+for Employer 8202 with the same quantities and prices as the orders for the Kering Capital 2536,
+and no other market participant submitted an intervening order, the two accounts’ orders
+matched and traded opposite each other in full immediately after the orders for Employer 8202
+were entered.
+
+25. This particular series of transactions resulted in a $67,487.50 gain to Kering
+Capital 2536, and a corresponding loss to Employer 8202.
+
+26. Using this methodology, Li traded the accounts exclusively against each other on
+CME. By placing nearly simultaneous, matching orders, trading in illiquid Eurodollar products,
+and trading outside regular CME trading hours, Li virtually eliminated the possibility of trading
+with any other counterparty. Indeed, during each series of orders that Li entered, Kering Capital
+2536 and Employer 8202 were the only two accounts trading in the particular spread markets.
+
+27. Kering Capital 2536 executed 41 round-turn trades opposite of Employer 8202 on
+CME Globex. Each time a position was closed out, it resulted in a loss to Employer 8202 and a
+gain to Kering Capital 2536. Asa result, Li was able to transfer at least $300,000 to Kering
+
+Capital 2536.
+
+28. Li did not execute these trades in accordance with CME’s written rules.
+Case: 1:15-cv-05839 Document #: 1 Filed: 07/01/15 Page 8 of 14 PagelD #:8
+
+29. Li intended these transactions to appear as arm’s-length transactions to the market
+
+ 
+
+but, instead, they were part of a scheme to defraud her employer and siphon at least $300,000 to
+Kering Capital 2536.
+V. VIOLATIONS OF THE COMMODITY EXCHANGE ACT
+
+COUNT ONE
+
+Violations of 4b of the Act:
+Fraud by Unauthorized Trading and Misappropriation
+
+30. Paragraphs 1 through 29 are re-alleged and incorporated herein.
+
+31. During the Relevant Period, Defendants violated Section 4b(a)(1)(A) and (C) of
+the Act, 7 U.S.C. §§ 6b(a)(1)(A) and (C) (2012), in that she cheated or defrauded or attempted to
+cheat or defraud and willfully deceived or attempted to deceive her employer by knowingly
+entering unauthorized trades, for or on behalf of her employer, in her employer’s account and
+structuring the trades in such a way as to shift money from her employer to Kering Capital. By
+such acts, defendants misappropriated her employer’s funds.
+
+32. | Li committed these acts intentionally or recklessly.
+
+33. Li engaged in this conduct in connection with orders to make, or the making of,
+contracts of sale of commodities, for future delivery, made, or to be made, for or on behalf of
+such other persons where such contracts for future delivery were or may have been used for
+hedging any transaction in interstate commerce in such commodity, or the products or
+byproducts thereof, or determining the price basis of any transaction in interstate commerce in
+such commodity, or delivering any such commodity sold, shipped or received in interstate
+
+commerce for the fulfillment thereof.
+Case: 1:15-cv-05839 Document #: 1 Filed: 07/01/15 Page 9 of 14 PagelD #:9
+
+34.  Li’s acts occurred during the scope of her employment or agency with Kering
+Capital and are deemed to be the acts of Kering Capital by operation of Section 2(a)(1)(B) of the
+Act, 7 U.S.C. § 2(a)(1)(B) and Regulation 1.2, 17 C.F.R. § 1.2.
+
+35. | Each unauthorized order made during the Relevant Period, including but not
+limited to those specifically alleged herein, is alleged as a separate and distinct violation of
+Section 4b(a)(1)(A) and (C) of the Act.
+
+COUNT TWO
+
+Violations of 4c(a) of the Act:
+Fictitious Sales
+
+36. Paragraphs 1 through 29 are re-alleged and incorporated herein.
+
+37. Li violated Section 4c(a) of the Act, 7 U.S.C. 6c(a), by entering into a transaction
+that is of the character of, or is commonly known to the trade as a fictitious sale, specifically a
+money pass, involving the purchase or sale of a commodity for future delivery which transaction
+was used or may have been used to hedge any transaction in interstate commerce in the
+commodity or the product or byproduct of the commodity; or to determine the price basis of any
+such transaction in interstate commerce in the commodity; or to deliver any such commodity
+sold, shipped, or received in interstate commerce.
+
+38. Li’s acts occurred during the scope of her employment or agency with Kering
+Capital and are deemed to be the acts of Kering Capital by operation of Section 2(a)(1)(B) of the
+Act, 7 U.S.C. § 2(a)(1)(B) (2012) and Regulation 1.2, 17 C.F.R. § 1.2 (2014).
+
+39. Each order entered by Defendants, including but not limited to those specifically
+
+alleged herein, is alleged as a separate and distinct violation of Section 4c(a) of the Act.
+Case: 1:15-cv-05839 Document #: 1 Filed: 07/01/15 Page 10 of 14 PagelD #:10
+
+COUNT THREE
+
+Violations of Commission Regulation 1.38(a):
+Non-Competitive Transactions
+
+40. Paragraphs | through 29 are re-alleged and incorporated herein.
+
+41. Regulation 1.38, 17 C.F.R. §1.38 (2014), requires that all purchases and sales of
+commodity futures contracts be executed “openly and competitively.”
+
+42. Li violated Regulation 1.38 by knowingly engaging in a series of non-competitive
+futures transactions.
+
+43.  Li’s acts occurred during the scope of her employment or agency with Kering
+Capital and are deemed to be the acts of Kering Capital by operation of Section 2(a)(1)(B) of the
+Act, 7 U.S.C. § 2(a)(1)(B), and Regulation 1.2, 17 C.F.R. § 1.2.
+
+44. Each order entered by Defendants, including but not limited to those specifically
+alleged herein, is alleged as a separate and distinct violation of Regulation 1.38(a), 17 C.F.R.
+§1.38.
+
+COUNT FOUR
+
+Disgorgement of Funds from Relief Defendant
+
+45. Paragraphs 1 through 29 are realleged and incorporated herein by reference.
+
+46. By knowingly entering unauthorized trades through her employer’s account and
+structuring the trades in such a way as to shift money from her employer to Kering Capital, Li
+misappropriated her employer’s funds in violation of the Act.
+
+47.  Kering Capital received Li’s employer’s funds as a result of Li’s prearranged
+trades and misappropriation. Kering Capital has no legitimate interest or entitlement in those
+
+funds and has thereby been unjustly enriched.
+
+10
+Case: 1:15-cv-05839 Document #: 1 Filed: 07/01/15 Page 11 of 14 PagelD #:11
+
+48. Kering Capital should be required to disgorge funds up to the amount of funds it
+received as a result of Li’s unlawful conduct or the value of those funds that it may have
+
+subsequently transferred to third parties.
+
+VI. RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that this Court, as authorized by
+Section 6c of the Act, 7 U.S.C. § 13a-1 (2014), and pursuant to its own equitable powers:
+
+A. Enter an order finding Defendants liable for violating Sections 4b(a)(1)(A) and
+(C) and Section 4c(a) of the Act, 7 U.S.C. § § 6b(a)(1)(A),(C) and 6c(a) (2012), and Commission
+Regulation 1.38(a), 17 C.F.R. §1.38(a) (2014);
+
+B. Enter a statutory restraining order restraining and enjoining Defendants, and any
+successors thereof, and all persons insofar as they are acting in the capacity of Defendants’
+agents, servants, successors, employees, assigns, and attorneys, and all persons insofar as they
+are acting in active concert or participation with Defendants who receive actual notice of such
+order by personal service or otherwise, from directly or indirectly:
+
+l. Destroying, mutilating, concealing, altering, or disposing of any books and
+records, documents, correspondence, brochures, manuals, electronically
+stored data, tape records, or other property of Defendants, wherever
+located, including all such records concerning Defendants’ business
+operations;
+
+2. Refusing to permit authorized representatives of the Commission to
+inspect, when and as requested, any books and records, documents,
+correspondence, brochures, manuals, electronically stored data, tape
+records, or other property of Defendants, wherever located, including all
+such records concerning Defendants’ business operations; and
+
+3. Withdrawing, transferring, removing, dissipating, concealing, or disposing
+of, in any manner, any funds, assets, or other property, wherever situated,
+associated with the illegal conduct alleged above including, but not limited
+to, all funds on deposit in any futures trading account owned or controlled
+by a Defendant, including but not limited to Kering Capital 0256 and an
+account in the name of Li, account number XXXX0253;
+
+1]
+Case: 1:15-cv-05839 Document #: 1 Filed: 07/01/15 Page 12 of 14 PagelD #:12
+
+C. Enter orders of preliminary and permanent injunction prohibiting Defendants and
+
+any other person or entity associated with them, including successors thereof, from:
+
+I.
+
+Engaging in conduct in violation of Sections 4b(a)(1)(A) and (C) and
+4c(a) of the Act, 7 U.S.C. §§ 6b(a)(1)(A), (C), and 6c(a), and Regulation
+1.38(a), 17 C.F.R. § 1.38(a);
+
+Trading on or subject to the rules of any registered entity (as that term is
+defined in Section 1a(29) of the Act, 7 U.S.C. § 1a(29));
+
+Entering into any transactions involving “commodity interests” (as that
+term is defined in regulation 1.3(yy), 17 C.F.R. § 1.3(yy) (2014), for
+accounts held in the name of any Defendant or for accounts in which any
+Defendant has a direct or indirect interest;
+
+Having any interests traded on any Defendants’ behalf;
+
+Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account
+involving commodity interests;
+
+Soliciting, receiving, or accepting any funds from any person for the
+purpose of purchasing or selling any interests;
+
+Applying for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the Commission, except
+as provided for in Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9) (2014);
+and
+
+Acting as a principal (as that term is defined in Regulation 3.1(a),
+
+17 C.F.R. § 3.1(a) (2014)), agent, or any other officer or employee of any
+person registered, exempted from registration or required to be registered
+with the CFTC except as provided for in Regulation 4.14(a)(9), 17 C.F.R.
+§ 4.14(a)(9) (2014).
+
+D. An order requiring each Defendant to pay civil penalties under the Act, to be
+
+assessed by the Court, in amounts of not more than the higher of (1) triple the monetary gain for
+
+each violation of the Act; or (2) $140,000 for each violation of the Act and Commission
+
+Regulations;
+
+12
+Case: 1:15-cv-05839 Document #: 1 Filed: 07/01/15 Page 13 of 14 PagelD #:13
+
+E. An order directing Li and Kering Capital, and any successors thereof, to disgorge
+pursuant to such procedure as the Court may order, all benefits received including, but not
+limited to, trading profits, revenues, salaries, commissions, fees or loans derived directly or
+indirectly from acts or practices which constitute violations of the Act and Commission
+Regulations as described herein, including pre-judgment interest thereon from the date of such
+violations;
+
+F, An order directing Defendants, and any successors thereof, to make full
+restitution to every customer, client or investor whose funds were received by them as a result of
+acts and practices which constituted violations of the Act and Regulations, as described herein,
+and interest thereon from the date of such violations;
+
+G. An order directing that Defendants, and any successors thereof, make an
+accounting to the Court of all of their assets and liabilities, together with all funds they received
+from and paid to clients and other persons in connection with commodity futures transactions
+and all disbursements for any purpose whatsoever of funds received from commodity
+transactions, including salaries, commissions, interest, fees, loans and other disbursement of
+money or property of any kind from March 1, 2015 to the date of such accounting;
+
+H. An order requiring Defendants to pay costs and fees as permitted by 28 U.S.C.
+
+§§ 1920 and 2412(a)(2) (2012); and
+I, An order providing such other and further relief as this Court may deem necessary
+
+and appropriate under the circumstances.
+
+13
+Case: 1:15-cv-05839 Document #: 1 Filed: 07/01/15 Page 14 of 14 PagelD #:14
+
+Date: July 1, 2015
+
+14
+
+Respectfully submitted,
+
+/s/ Lindsey Evans
+
+Lindsey Evans (IL ARDC No. 6286125)
+Commodity Futures Trading Commission
+525 West Monroe Street, Suite 1100
+Chicago, Illinois 60661
+
+(312) 596-0643
+
+levans@cftc.gov
+
+David Terrell (dterrell @cftc.gov)
+IL ARDC No. 6196293
+
+Scott Williamson (swilliamson@cftc.gov)
+IL ARDC No. 6191293
+
+Rosemary Hollinger (rhollinger@cftc.gov)
+IL ARDC No. 3123647
+
+Commodity Futures Trading Commission
+525 West Monroe Street, Suite 1100
+Chicago, Illinois 60661
+
+(312) 596-0700
+
+ 

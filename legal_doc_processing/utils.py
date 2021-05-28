@@ -21,19 +21,19 @@ def load_data(file_path: str) -> str:
     return txt
 
 
-# def clean_spec_chars(text: str) -> tuple:
-#     """first text cleaning based on regex, just keep text not spec chars
-#     return tupple of text"""
+def clean_spec_chars(text: str) -> tuple:
+    """first text cleaning based on regex, just keep text not spec chars
+    return tupple of text"""
 
-#     # article text
-#     article_text = re.sub(r"\[[0-9]*\]", " ", text)
-#     article_text = re.sub(r"\s+", " ", article_text)
+    # article text
+    article_text = re.sub(r"\[[0-9]*\]", " ", text)
+    article_text = re.sub(r"\s+", " ", article_text)
 
-#     # formated text
-#     formatted_article_text = re.sub("[^a-zA-Z]", " ", article_text)
-#     formatted_article_text = re.sub(r"\s+", " ", formatted_article_text)
+    # formated text
+    formatted_article_text = re.sub("[^a-zA-Z]", " ", article_text)
+    formatted_article_text = re.sub(r"\s+", " ", formatted_article_text)
 
-#     return article_text, formatted_article_text
+    return article_text, formatted_article_text
 
 
 # def handle_encoding(text: str) -> str:
@@ -130,6 +130,35 @@ def get_para(sentence_list):
             idx = idx + 1
 
     return paragraphes
+
+
+def get_section_indx(list_token):
+
+    idx = []
+    for i in range(len(list_token)):
+        if is_title(list_token[i]):
+            idx.append(i)
+
+    return idx
+
+
+def get_structure(text):
+    list_token = get_token(text)
+    idx = get_section_indx(list_token)
+    j = 0
+
+    structure = []
+    k = 0
+    for i in idx:
+        section = {}
+        section["content"] = " ".join(list_token[j:i])
+        section["header"] = list_token[j]
+        section["id"] = k
+        structure.append(section)
+        j = i
+        k = k + 1
+
+    return structure
 
 
 def clean_doc(

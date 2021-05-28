@@ -62,6 +62,7 @@ def find_files_type():
         "notice",
         "opinion-and",
         "opinion-order",
+        "order",
         "proposed-consent",
         "remarks-of",
         "report-and",

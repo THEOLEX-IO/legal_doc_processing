@@ -1,7 +1,5 @@
 import os
 
-from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
-
 import legal_doc_processing.information_extraction as infext
 import legal_doc_processing.segmentation as seg
 

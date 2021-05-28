@@ -39,4 +39,4 @@ from legal_doc_processing.utils import *
 # bootstrap packages
 nltk.download("popular")
 nlp = spacy.load("en_core_web_sm")
-get_ipython().run_line_magic("matplotlib", "inline")
+# get_ipython().run_line_magic("matplotlib", "inline")

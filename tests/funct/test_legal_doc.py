@@ -17,31 +17,6 @@ import legal_doc_processing.utils as uts
 class TestLegalDoc:
     """test class for the LegalDoc object """
 
-    def test_new(self):
-
-        import os
-        import pytest
-
-        from tests.funct.utils import (
-            make_features_dataframe,
-            make_labels_dataframe,
-            features_root,
-            labels_root,
-            accuracy,
-        )
-        import legal_doc_processing as ldp
-        import legal_doc_processing.information_extraction as infext
-        import legal_doc_processing.segmentation as seg
-        import legal_doc_processing.utils as uts
-
-        file_name = os.listdir(features_root)[0]
-        file_path = features_root + file_name
-
-        raw_text = uts.load_data(file_path)
-        clean_pages = seg.clean_doc(raw_text)
-        pred_j = infext.jawad_get_case(clean_pages[0])
-        pred_a = infext.alex_get_case(clean_pages[0])
-
     def test_legal_doc_basics(self):
         """test init and basic method of a legal doc oject"""
 
@@ -58,7 +33,7 @@ class TestLegalDoc:
         assert lg.case
         assert isinstance(lg.case, str)
 
-        # case
+        # defendant
         assert not lg.defendant
         assert lg.predict_defendant()
         assert lg.defendant

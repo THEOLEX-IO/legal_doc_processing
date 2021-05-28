@@ -1,7 +1,5 @@
 import os
 
-from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
-
 import legal_doc_processing.information_extraction as infext
 import legal_doc_processing.segmentation as seg
 
@@ -21,19 +19,14 @@ class LegalDoc:
         return :
             a LegalDoc object"""
 
-        # raw text
-        self.file_path = os.path.dirname(file_path)
-        self.file_name = os.path.basename(file_path)
+        # args as attr
+        self.file_path = os.path.dirname(file_path) if file_path else None
+        self.file_name = os.path.basename(file_path) if file_path else None
+        self.nlpipe = nlpipe if nlpipe else infext.get_pipeline()
 
+        # text and clean
         self.raw_text = text
-
-        # self.article_text, self.formatted_article_text = clean_spec_chars(text)
         self.clean_pages = seg.clean_doc(text)
-
-        if nlpipe:
-            self.nlpipe = nlpipe
-        else:
-            self.nlpipe = infext.get_pipeline()
 
         # features
         self.case = None
@@ -73,12 +66,6 @@ class LegalDoc:
         return "a LegalDoc Instance"
 
 
-class LegalDocs:
-    """legalDocs of docs  """
-
-    pass
-
-
 def read_file(file_path: str, nlpipe=None):
     """read a file and return a LegalDoc object """
 
@@ -87,9 +74,3 @@ def read_file(file_path: str, nlpipe=None):
 
     ld = LegalDoc(text, file_path=file_path, nlpipe=nlpipe)
     return ld
-
-
-def read_files():
-    """LegalDocs object as a list of docs """
-
-    raise NotImplementedError

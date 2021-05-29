@@ -1,0 +1,646 @@
+20S JAN -5 PH 2: Ob
+UNITED STATES DISTRICT COURT
+FOR THE MIDDLE DISTRICT OF FLORIDA
+Jacksonville Division cK pein
+U.S. COMMODITY FUTURES
+TRADING COMMISSION,
+
+Plaintiff,
+Vv. Case No.
+
+ALLIED MARKETS LLC,
+JOSHUA GILLILAND, and
+CHAWALIT WONGKHIAO,
+
+Defendants.
+
+ 
+
+ 
+
+COMPLAINT FOR INJUNCTIVE RELIEF,
+CIVIL MONETARY PENALTY, AND OTHER EQUITABLE RELIEF
+
+ 
+
+Plaintiff United States Commodity Futures Trading Commission (“CFTC”) alleges as
+
+follows:
+I. SUMMARY
+l. Beginning as early as January 2012, Joshua Gilliland and Chawalit
+Wongkhiao, individually and as principals of Allied Markets LLC (“Allied Markets”)
+(collectively “Defendants”), have engaged in a fraudulent scheme to solicit more than $1
+million from members of the public to participate in a supposed commodity pool purportedly
+trading leveraged or margined retail off-exchange foreign currency contracts, commonly
+
+known as “forex.”
+
+2 As part of this illegal scheme, Defendants misappropriated pool participants’
+
+funds to pay Gilliland’s and Wongkhiao’s personal expenses. Gilliland and Wongkhiao
+treated pool participants’ funds as their personal bank account, spending pool participants’
+money on restaurants, entertainment, and living expenses.
+
+3. Defendants made material misrepresentations regarding their trading expertise
+and profits, and they failed to disclose to prospective and existing pool participants that only
+a small portion of their funds would be used to trade forex, while the rest would be
+misappropriated to pay Gilliland’s and Wongkhiao’s personal expenses and to further
+Defendants’ fraudulent scheme.
+
+4. Defendants, who have never been registered as required with the CFTC, lured
+their victims into sending them funds for their purported commodity pool by fraudulently
+guaranteeing specific trading returns and by representing that Defendants’ forex trading was
+generating large profits. At Defendants’ direction, pool participants deposited more than
+$1 million into bank accounts controlled by Defendants. When Defendants paid what they
+claimed to be trading profits to pool participants or supposedly returned pool participants”
+principal, they did so using money paid by other pool participants, in the manner of a Ponzi
+scheme.
+
+De By virtue of this conduct, and as more fully set forth below, Defendants have
+engaged, are engaging, and/or are about to engage in acts and practices in violation of
+Sections 2(c)(2)(C)(iii)(I)(ce), 4b(a)(2)(A) and (C), 4k(2), 4m(1). and 4o(1) of the
+Commodity Exchange Act (“CEA”), 7 U.S.C. §§ 2(c)(2)(C)(ii)(1)(ec). 6b(a)(2)(A). (C).
+6k(2), 6m(1), 60(1) (2012); and CFTC Regulations 3,12. 4.20(a)-(c), 4.41 (a), 5.2(b)(1) and
+(3), 5.3(a)(2)(i), and 5.3(a)(2)(ii), 17 C.F.R. §§ 3.12, 4.20(a)-(c), 4.41 (a), 5.2(b)(1). (3),
+
+5.3(a)(2)(i), (ii) (2014).
+ll. JURISDICTION AND VENUE
+
+6. This Court possesses jurisdiction over this action pursuant to Section 6c(a) of
+the CEA, 7 U.S.C. § 13a-1 (2012), which authorizes the CFTC to seek injunctive and other
+relief against any person whenever it appears to the CFTC that such person has engaged, is
+engaging, or is about to engage in any act or practice constituting a violation of any provision
+of the CEA or any rule, regulation, or order thereunder.
+
+2 Venue properly lies in this District, pursuant to Section 6c(e) of the CEA,
+7 U.S.C. § 13a-1(e) (2012), because Defendants are found in, inhabit, and transact business
+in the Middle District of Florida, and Defendants’ acts and practices in violation of the CEA
+occurred, are occurring, or are about to occur in this District.
+
+Ill. PARTIES
+
+8. Plaintiff United States Commodity Futures Trading Commission is an
+independent federal regulatory agency charged by Congress with the administration and
+enforcement of the CEA and the CFTC Regulations promulgated thereunder. The CFTC
+maintains its principal office at 1155 21st Street NW, Washington, DC 20581.
+
+a Defendant Allied Markets LLC is a Nevada limited liability company
+organized on February 2, 2012, with a principal business address of 3225 McLeod Drive,
+#100, Las Vegas, Nevada 89121. Allied Markets’ Nevada business license expired on
+February 27, 2013. On December 11, 2012, Allied Markets registered as a foreign limited
+liability company with the Florida Department of State. Allied Markets’ last known business
+address is 1431 Riverplace Boulevard, Unit 3604, Jacksonville, Florida 32207. Allied
+
+Markets has never been registered with the CFTC in any capacity.
+10. Defendant Joshua Gilliland is an individual residing in Jacksonville.
+Florida. Gilliland is a managing member of Allied Markets. Gilliland has never been
+registered with the CFTC in any capacity.
+
+Il. Defendant Chawalit Wongkhiao is an individual residing in Jacksonville,
+Florida. Wongkhiao is a managing member of Allied Markets. Wongkhiao has never been
+registered with the CFTC in any capacity.
+
+IV. RELEVANT STATUTES
+
+12. Section la(11) of the CEA, 7 U.S.C. § 1a(11) (2012), defines a commodity
+pool operator (“CPO”), in relevant part, as any person who, for compensation or profit.
+engages in a business that is of the nature of a commodity pool, investment trust, syndicate,
+or similar form of enterprise, and who, in connection therewith, solicits, accepts, or receives
+from others, funds, securities, or property, either directly or through capital contributions, the
+sale of stock or other forms of securities, or otherwise, for the purpose of trading in
+commodity interests, including any commodity for future delivery, security futures product,
+swap, or forex agreement, contract, or transaction.
+
+13. Section 2(c)(2)(C) of the CEA, 7 U.S.C. § 2(c)(2)(C) (2012), applies
+provisions of the CEA to agreements, contracts, or transactions in forex. Specifically,
+Section 2(c)(2)(C)(iv) of the CEA, 7 U.S.C. § 2(c)(2)(C)(iv) (2012), states that Section 4b of
+the CEA, 7 U.S.C. § 6b, applies to forex agreements, contracts, or transactions “as if” they
+were contracts of sale of a commodity for future delivery. Section 2(c)(2)(C)(ii)(D of the
+CEA, 7 U.S.C. § 2(c)(2)(C)(ii)(I) (2012), states that Sections 4b and 4o of the CEA, 7 U.S.C.
+
+§§ 6b, 60 (2012), apply to pooled investment vehicles that are offered for the purpose of
+trading, or that trade, any forex agreement, contract, or transaction, and that involve persons
+or entities who are not “eligible contract participants,” as that term is defined by Section
+la(18) of the Act, 7 U.S.C. § 1a(18) (2012).
+
+14, Section 4b(a)(2)(A) and (C) of the CEA, 7 U.S.C § 4b(a)(2)(A), (C) (2012),
+prohibits fraud in connection with any contract of sale of any commodity for future delivery
+that is made, or to be made, for or on behalf of, or with, any other person, other than on or
+subject to the rules of a designated contract market.
+
+15. Section 40(1) of the CEA, 7 U.S.C. § 60(1) (2012), prohibits fraud by any
+CPO, or an associated person of a CPO, by use of the mails or any means or instrumentality
+of interstate commerce.
+
+16. Section 4k(2) of the CEA, 7 U.S.C. § 6k(2) (2012), requires registration with
+the CFTC for any person associated with a CPO as a partner, officer, employee, consultant,
+or agent in any capacity that involves the solicitation of funds, securities, or property for
+participation in a commodity pool.
+
+17. Section 4m(1) of the CEA, 7 U.S.C. § 6m(1) (2012), makes it unlawful for
+any CPO, unless registered with the CFTC, to make use of the mails or any means or
+instrumentality of interstate commerce in connection with the business of the CPO.
+
+V. FACTS
+18. The Relevant Period for this Complaint is January 2012 through the present.
+19. During the Relevant Period, Allied Markets, by and through Gilliland and
+Wongkhiao, solicited members of the public, by use of the mails and/or other means or
+
+instrumentalities of interstate commerce, to send money to bank accounts under Defendants
+
+uw
+control for the purpose of trading agreements, contracts, or transactions in forex (foreign
+currency, offered to persons who were not eligible contract participants, and offered, or
+entered into, on a leveraged or margined basis) in a purported commodity pool operated by
+Allied Markets.
+
+20. By undertaking these solicitations and accepting funds for a commodity pool,
+Allied Markets, by and through Gilliland and Wongkhiao, acted as a CPO.
+
+21. Through their actions on behalf of Allied Markets. Gilliland and Wongkhiao
+acted as associated persons of Allied Markets, the CPO.
+
+22. Neither Allied Markets, Gilliland, nor Wongkhiao has ever been registered
+with the CFTC in any capacity.
+
+23. At least $1 million was deposited in accounts under Defendants’ control for
+the purpose of trading forex in a purported commodity pool operated by Allied Markets.
+
+24. During the Relevant Period, at least one pool participant did not qualify as an
+“eligible contract participant,” as that term is defined by Section 1a(18) of the Act, 7 U.S.C.
+§ 1a(18) (2012). In addition, the purported commodity pool operated by Allied Markets was
+not an eligible contract participant during the Relevant Period.
+
+25. On numerous occasions during the Relevant Period, including in or about June
+2012 and in or about July 2013, Defendants fraudulently represented to at least four
+prospective pool participants that Allied Markets’ forex trading offered a safe investment
+
+with guaranteed returns, which pool participants were due to receive on a monthly or annual
+
+basis.
+26. | Defendants knew these representations were false because, among other
+things, Defendants knew that the purported commodity pool operated by Allied Markets, by
+and through Gilliland and Wongkhiao, sustained overall net losses in its forex trading
+account during the Relevant Period.
+
+2h. Gilliland and Wongkhiao, acting on behalf of Allied Markets, directed at least
+two pool participants to sign agreements with Allied Markets containing fraudulent
+representations. These agreements guaranteed rates of return on pool participants’ principal
+of seven and ten percent, respectively. The agreements also provided that pool participants
+could terminate their agreement with Allied Markets and that their principal would be
+refunded upon sixty days’ notice. Wongkhiao signed the agreements as a “Managing
+Member” of Allied Markets.
+
+28. While the agreements Allied Markets executed with pool participants referred
+to investment returns as “interest,” Defendants communicated to pool participants that their
+funds were to be pooled for trading in forex and that returns would be derived from trading
+profits. At least one agreement Allied Markets executed with a pool participant expressly
+stated that the pool would trade forex.
+
+29. During the Relevant Period, Defendants’ representations prompted pool
+participants to provide Defendants at least $1 million for trading forex in the purported
+commodity pool operated by Allied Markets. Defendants misappropriated this money.
+
+30. Defendants directed pool participants to send funds to bank accounts under
+their control. In operating these bank accounts and accepting funds from pool participants,
+
+Defendants made no distinction between the purported commodity pool operated by Allied
+Markets and Allied Markets as the CPO, and they commingled their personal funds with
+funds contributed by pool participants.
+
+3) Gilliland and Wongkhiao, acting on behalf of Allied Markets, established a
+forex trading account in the name of, and for the benefit of, Allied Markets, not for the
+purported commodity pool operated by Allied Markets.
+
+32. During the Relevant Period, the forex trading conducted by Gilliland and/or
+Wongkhiao resulted in a net loss of approximately $190,000.
+
+33. Defendants did not disclose these losses to pool participants. Rather,
+Defendants knowingly misrepresented to pool participants on multiple occasions during the
+Relevant Period, in person and via telephone, that Defendants’ forex trading was profitable.
+
+34. While Defendants initially deposited some of the funds they received from
+pool participants into the Allied Markets forex trading account, Defendants used only a small
+portion of those funds for trading.
+
+35, Instead of trading forex as promised, during the Relevant Period Defendants
+withdrew approximately $850,000 in pool participant funds from the Allied Markets forex
+trading account.
+
+36. Using pool participants’ funds, Gilliland and Wongkhiao spent approximately
+$64,000 on restaurants and entertainment, approximately $33,000 on travel, hotels. and rental
+cars, and approximately $66,000 on rent for their residence in Jacksonville Beach, Florida.
+
+Bal During the Relevant Period, Gilliland and Wongkhiao also transferred at least
+$83,200 to their personal bank accounts, withdrew approximately $105,000 in cash from
+
+automated teller machines, and withdrew approximately $34,000 in cash at bank branches.
+38. Defendants also used pool participant funds to pay purported profits, to pay
+other personal expenses, and to further their fraudulent scheme. Defendants failed to
+disclose to pool participants that Defendants did not invest all pool participant funds as
+promised,
+
+39. During the Relevant Period, Defendants distributed approximately $48,169 in
+purported gains to pool participants. Defendants represented that these payments came from
+trading profits. Contrary to their representations, Defendants made these payments from the
+deposits of other pool participants. in the manner of a Ponzi scheme.
+
+40. Unless restrained and enjoined by this Court, Defendants are likely to
+continue to engage in the acts and practices alleged in this Complaint and similar acts and
+practices in violation of the CEA and CFTC Regulations.
+
+VI. STATUTORY AND REGULATORY VIOLATIONS
+
+COUNTI
+
+FRAUD BY MISREPRESENTATION, OMISSION, AND MISAPPROPRIATION
+Violations of 7 U.S.C. § 6b(a)(2)(A), (C) (2012) and 17 C.F.R. § 5.2(b) (2014)
+
+41. The allegations in the foregoing paragraphs are incorporated by reference as if
+fully set forth herein.
+
+42. — Section 4b(a)(2)(A) and (C) of the CEA, 7 U.S.C § 4b(a)(2)(A), (C) (2012),
+makes it unlawful for any person, in or in connection with any order to make, or the making
+of, any contract of sale of any commodity for future delivery that is made, or to be made, for
+
+or on behalf of, or with, any other person, other than on or subject to the rules of a designated
+
+contract market
+(A) to cheat or defraud or attempt to cheat or defraud the other
+
+person;
+ses
+
+(C) willfully to deceive or attempt to deceive the other person by
+any means whatsoever in regard to any order or contract or the
+disposition or execution of any order or contract, or in regard to any
+act of agency performed, with respect to any order or contract for or
+... With the other person[.]
+
+43. CFTC Regulation 5.2(b)(1) and (3), 17 C.F.R. § 5.2(b)(1), (3) (2014), makes it
+unlawful for any person, by use of the mails or by any means or instrumentality of interstate
+commerce, directly or indirectly, in or in connection with any retail forex transaction: (1) to
+cheat or defraud or attempt to cheat or defraud any person; or (3) willfully to deceive or
+attempt to deceive any person by any means whatsoever.
+
+44. As described herein, Defendants violated Section 4b(a)(2)(A) and (C) of the
+CEA, 7 U.S.C. § 6b(a)(2)(A), (C) (2012), and CFTC Regulation 5,2(b)(1) and (3).
+
+17 C.F.R. § 5.2(b)(1), (3) (2014), by their material false statements and omissions to
+prospective and existing pool participants regarding Defendants’ trading and profitability, by
+misappropriating pool participants’ funds, and by failing to disclose that misappropriation to
+poo! participants.
+
+45. Defendants engaged in the acts and practices described above using
+instrumentalities of interstate commerce, including the use of interstate wires for transfer of
+funds.
+
+46. Defendants engaged in the acts and practices described herein willfully.
+knowingly, or with reckless disregard for the truth.
+
+47. The foregoing acts and omissions by Gilliland and Wongkhiao occurred
+
+within the course and scope of their employment, office, and/or agency with Allied Markets.
+
+10
+Allied Markets is therefore liable for those acts and omissions, pursuant to Section 2(a)(1)(B)
+of the CEA, 7 U.S.C. § 2(a)(1)(B) (2012), and CFTC Regulation 1.2. 17 C.F.R. § 1.2 (2014).
+
+48. During the Relevant Period, Gilliland and Wongkhiao controlled Allied
+Markets directly or indirectly, and they failed to act in good faith or knowingly induced,
+directly or indirectly, the acts constituting Allied Markets’ violations of the CEA and CFTC
+Regulations. Gilliland and Wongkhiao are therefore liable for Allied Markets’ violations of
+the CEA and CFTC Regulations, pursuant to Section 13(b) of the CEA, 7 U.S.C. § 13c(b)
+(2012).
+
+49. Each act of misrepresentation, material omission, or misappropriation
+including, but not limited to, those specifically alleged herein, is alleged as a separate and
+distinct violation of Section 4b(a)(2)(A) and (C) of the CEA. 7 U.S.C, § 6b(a)(2)(A), (C)
+(2012).
+
+COUNT U
+
+FRAUD BY A COMMODITY POOL OPERATOR
+Violations of 7 U.S.C. § 60(1) (2012) and 17 C.F.R. § 4.41(a) (2014)
+
+50. The allegations in the foregoing paragraphs are incorporated by reference as if
+fully set forth herein.
+
+51. Section 40(1) of the CEA, 7 U.S.C. § 60(1) (2012), makes it unlawful for a
+CPO, or an associated person of a CPO, by use of the mails or any means or instrumentality
+of interstate commerce, directly or indirectly
+
+(A) to employ any device, scheme, or artifice to defraud any client
+or participant or prospective client or participant; or
+(B) to engage in any transaction, practice, or course of business
+which operates as a fraud or deceit upon any client or participant or
+prospective client or participant.
+
+52. CFTC Regulation 5.4, 17 C.F.R. § 5.4 (2014), states that Part 4 of the CFTC’s
+Regulations, 17 C.F.R. § 4.1 et seg. (2014), applies to any person required to register as a
+CPO pursuant to Part 5 of the CFTC’s Regulations relating to forex transactions, 17 C.F.R.
+
+§ 5.1 ef seg. (2014),
+
+53. Asalleged herein, Allied Markets was required to register as a CPO during the
+Relevant Period.
+
+54. CFTC Regulation 4.41(a), 17 C.F.R. § 4.41(a) (2014), makes it unlawful for
+any CPO, or any principal thereof, to publish, distribute, or broadcast, whether by electronic
+media or otherwise, any report, letter, circular, memorandum, publication, writing,
+advertisement, or other literature or advice that
+
+(1) Employs any device, scheme or artifice to defraud any
+participant or client or prospective participant or client; [or]
+
+(2) Involves any transaction, practice or course of business which
+operates as a fraud or deceit upon any participant or client or any
+prospective participant or client[.]
+
+55. During the Relevant Period, Allied Markets acted as a CPO in that it engaged
+in a business that is of the nature of a commodity pool, investment trust. syndicate, or similar
+form of enterprise, and, in connection therewith, solicited, accepted, or received funds,
+securities, or property from others for the purpose of trading forex.
+
+56. During the Relevant Period, Gilliland and Wongkhiao were principals and/or
+
+agents of Allied Markets, and acted as associated persons of Allied Markets, in that they
+
+solicited and accepted funds, securities, or property for Allied Markets.
+5% During the Relevant Period, Allied Markets (acting as a CPO) and Gilliland
+and Wongkhiao (acting as associated persons of Allied Markets), through the use of the mails
+or other means or instrumentalities of interstate commerce (including through the use of
+telephone calls and electronic mail with prospective and existing pool participants), violated
+Section 4o(1) of the CEA, 7 U.S.C. § 60(1) (2012), by: (i) misappropriating pool participants’
+funds; and (ii) through their material false statements and omissions to prospective and
+existing pool participants about Allied Markets’ forex trading and profitability.
+
+58. During the Relevant Period, Allied Markets (acting as a CPO) and Gilliland
+and Wongkhiao (acting as principals of Allied Markets) violated CFTC Regulation 4.41 (a),
+17 C.F.R. § 4.41(a) (2014), by: (i) misappropriating pool participants’ funds; and (ii) through
+their material false statements and omissions to existing and prospective pool participants
+about Allied Markets’ forex trading and profitability,
+
+59, Defendants engaged in the acts and practices described herein willfully,
+knowingly, or with reckless disregard for the truth.
+
+60. The foregoing acts and omissions by Gilliland and Wongkhiao occurred
+within the course and scope of their employment. office, and/or agency with Allied Markets.
+Allied Markets is therefore liable for those acts and omissions, pursuant to Section 2(a)(1)(B)
+of the CEA, 7 U.S.C. § 2(a)(1)(B) (2012), and CFTC Regulation 1.2, 17 C.F.R. § 1.2 (2014).
+
+61. During the Relevant Period, Gilliland and Wongkhiao controlled Allied
+Markets directly or indirectly, and they failed to act in good faith or knowingly induced,
+directly or indirectly, the acts constituting Allied Markets’ violations of the CEA and CFTC
+
+Regulations. Gilliland and Wongkhiao are therefore liable for Allied Markets’ violations of
+the CEA and CFTC Regulations, pursuant to Section 13(b) of the CEA, 7 U.S.C. § 13c(b)
+(2012).
+
+62. Each act of misrepresentation, material omission, or misappropriation,
+including, but not limited to, those specifically alleged herein, is alleged as a separate and
+distinct violation of Section 40(1) of the CEA, 7 U.S.C. § 60(1) (2012).
+
+COUNT II
+FAILURE TO REGISTER AS A COMMODITY POOL OPERATOR
+Violations of 7 U.S.C. §§ 2(c)(2)(C)(Gii))(ce), 6m(1) (2012) and
+17 C.F,R. § 5.3(a)(2)(i) (2014)
+
+63. The allegations in the foregoing paragraphs are incorporated by reference as if
+fully set forth herein.
+
+64. — Section 4m(1) of the CEA, 7 U.S.C. § 6m(1) (2012), makes it unlawful for
+any CPO, unless registered with the CFTC, to make use of the mails or any means or
+instrumentality of interstate commerce in connection with its business as a CPO.
+
+65. — Section 2(c)(2)(C)(iii)(1)(ce) of the CEA, 7 U.S.C. § 2(c)(2)(C)Gii)(D(ec)
+(2012), makes it unlawful for any person, unless registered in such capacity as the CFTC
+shall determine, to operate or solicit funds, securities, or property for any pooled investment
+vehicle that is not an eligible contract participant in connection with agreements, contracts, or
+transactions described in Section 2(c)(2)(C)(i) of the CEA, 7 U.S.C. § 2(c)(2)(C)(i) (2012)
+(leveraged or margined forex transactions), entered into with or to be entered into with a
+person who is not described in item (aa), (bb), (ee), or (FP) of Section 2(c)(2)(B)(i)(ID) of the
+
+CEA, 7 U.S.C. § 2(c)(2)(B)(i)(D (2012) (describing counterparties such as such as registered
+
+futures commission merchants).
+66. CFTC Regulation 5.3(a)(2)(i), 17 C.P.R. § 5.3(a)(2)(i) (2014), requires any
+CPO, as defined by CFTC Regulations, to register with the CFTC. CFTC Regulation
+5.1(d)(1), 17 C.F.R. § 5.1(d)(1) (2014), defines a CPO as any person who “operates or
+solicits funds, securities, or property for a pooled investment vehicle . . . that engages in retail
+forex transactions.”
+
+67. During the Relevant Period, Allied Markets, by and through its employees,
+principals, agents, and/or controlling persons, including Gilliland and Wongkhiao, acted as a
+CPO because it operated or solicited funds, securities, or property for a pooled investment
+vehicle that was not an eligible contract participant and engaged in forex transactions. Allied
+Markets, by and through Gilliland and Wongkhiao, acted as a CPO while failing to register
+with the CFTC as a CPO.
+
+68. During the Relevant Period, Allied Markets, by and through its employees,
+principals, agents, and/or controlling persons, including Gilliland and Wongkhiao, operated
+and solicited funds, securities, or property for a pooled investment vehicle that engaged in
+forex transactions, without having registered with the CFTC as a CPO, in violation of CFTC
+
+Regulation 5.3(a)(2)(i), 17 C.F.R. § 5.3(a)(2)(i) (2014).
+COUNT IV
+FAILURE TO REGISTER AS ASSOCIATED PERSONS
+Violations of 7 U.S.C. §§ 2(c)(2)(C)(iii)@)(ce), 6k(2) (2012) and
+17 C.F.R. §§ 3.12 and 5.3(a)(2)(ii) (2014)
+
+69. The allegations in the foregoing paragraphs are incorporated by reference as if
+fully set forth herein.
+
+70. Section 4k(2) of the CEA, 7 U.S.C. § 6k(2) (2012), and CFTC Regulation
+5.3(a)(2)(ii), 17 C.P.R. § 5.3(a)(2)(ii) (2014), require registration with the CFTC for any
+person who is associated with a CPO as a partner, officer, employee, consultant, or agent (or
+any person occupying a similar status or performing similar functions), in any capacity that
+involves the solicitation of funds, securities, or property for participation in a commodity
+pool or the supervision of any person or persons so engaged.
+
+Als Section 4k(2) of the CEA, 7 U.S.C. § 6k(2) (2012), also makes it unlawful for
+any CPO to permit any person not registered with the CFTC as required to become or remain
+associated with the CPO in any capacity described in the preceding paragraph when the CPO
+knew or should have known that such person was not registered with the CFTC or that such
+registration had expired, been suspended (and the period of suspension has not expired), or
+been revoked.
+
+72, CFTC Regulation 3.12, 17 C.F.R. § 3.12 (2014), prohibits any person from
+being associated with a CPO as an associated person unless that person shall have registered
+with the CFTC as an associated person of that sponsoring CPO.
+
+73. — Section 2(c)(2)(C)(iii)(I)(ce) of the CEA, 7 U.S.C. § 2(c)(2\(C)Gii)(D(ce)
+
+(2012), makes it unlawful for any person, unless registered in such capacity as the CFTC
+shall determine, to operate or solicit funds, securities, or property for any pooled investment
+vehicle that is not an eligible contract participant in connection with agreements, contracts, or
+transactions described in Section 2(c)(2)(C)(i) of the CEA, 7 U.S.C. § 2(c)(2)(C)(i) (2012)
+(leveraged or margined forex transactions), entered into with or to be entered into with a
+person who is not described in item (aa), (bb), (ee), or (ff) of Section 2(c)(2)(B)(i)(I) of the
+CEA, 7 U.S.C. § 2(c)(2)(B)(i)(ID (2012) (describing counterparties such as such as registered
+futures commission merchants).CFTC Regulation 5.1(d)(2), 17 C.F.R. § 5.1(d)(2) (2014),
+defines an associated person, for purposes of Part 5 of the CFTC’s Regulations relating to
+forex transactions, as any natural person associated with a CPO (as that term is defined in
+CFTC Regulation 5.1(d)(1), 17 C.F.R. § 5.1(d)(1) (2014)) as a partner, officer, employee,
+consultant, or agent that is involved in the solicitation of funds, securities, or property, or the
+supervision of any such person so engaged.
+
+74. During the Relevant Period, Gilliland and Wongkhiao, who have never been
+registered with the CFTC in any capacity: (i) solicited funds, securities, or property for
+participation in a commodity pool operated by Allied Markets and/or supervised persons so
+engaged; and (ii) operated or solicited funds, securities, or property for the Allied Markets
+pooled investment vehicle, which was not an eligible contract participant, in connection with
+off-exchange leveraged or margined forex contracts or transactions. These actions violated
+Sections 2(c)(2)(C)(iii)(D(cc) and 4k(2) of the CEA, 7 U.S.C. §§ 2(c)(2)(C)(iii)(1)(ce), 4k(2)
+
+(2012), and CFTC Regulations 3.12 and 5.3(a)(2)(ii), 17 C.F.R. §§ 3.12, 5.3(a)(2)(ii) (2014).
+COUNT V
+FAILURE TO OPERATE COMMODITY POOL AS A SEPARATE LEGAL ENTITY,
+IMPROPER ACCEPTANCE OF FUNDS, AND COMMINGLING OF POOL FUNDS
+Violations of 17 C.F.R. §4.20(a)-(c) (2014)
+
+75. The allegations in the foregoing paragraphs are incorporated by reference as if
+fully set forth herein.
+
+76. CFTC Regulation 5.4, 17 C.F.R. § 5.4 (2014), states that Part 4 of the CFTC’s
+Regulations, 17 C.F.R. § 4.1 et seq. (2014), applies to any person required to register as a
+CPO pursuant to Part 5 of the CFTC’s Regulations relating to forex transactions, 17 C.F.R.
+
+§ 5.1 ef seg. (2014).
+
+77. CFTC Regulation 4.20(a), 17 C.F.R. § 4.20(a) (2014), requires a CPO to
+operate its commodity pool as a legal entity separate from that of the CPO.
+
+78. CFTC Regulation 4.20(b), 17 C.F.R. § 4.20(b) (2014), requires that all funds,
+securities, or other property received by a CPO from a prospective or existing pool
+participant must be received in the commodity pool’s name.
+
+79. CFTC Regulation 4.20(c), 17 C.F.R. § 4.20(c) (2014), prohibits a CPO from
+commingling the property of any pool it operates with the property of any other person.
+
+80. During the Relevant Period, Allied Markets, acting through Gilliland and
+Wongkhiao and while acting as a CPO, violated CFTC Regulation 4.20(a)-(c), 17 C.F.R.
+
+§ 4.20(a)-(c) (2014), by: (i) failing to operate the commodity pool as a legal entity separate
+from Allied Markets, the CPO; (ii) receiving pool participant funds the name of Allied
+Markets, rather than in the name of the commodity pool; and (iii) commingling the property
+
+of the commodity pool with the funds of Allied Markets, Gilliland, and/or Wongkhiao.
+VIL RELIEF REQUESTED
+
+WHEREFORE, the CFTC respectfully requests that this Court, as authorized by
+Section 6c of the CEA, 7 U.S.C. § 13a-1 (2012), and pursuant to the Court’s inherent
+equitable powers, enter:
+
+A, An order finding that Defendants violated Sections 2(c)(2)(C)(iii)(1)(cc),
+4b(a)(2)(A) and (C), 4k(2), 4m, and 40(1) of the CEA, 7 U.S.C. §§ 2(¢)(2)(C)(iii)(D(ce).
+6b(a)(2)(A). (C), 6k(2), 6m, 60(1) (2012); and CFTC Regulations 3.12, 4.20(a)-(c), 4.41 (a),
+5.2(b)(1) and (3). 5.3(a)(2)(i), and 5.3(a)(2)(ii), 17 C.F.R. §§ 3.12, 4.20(a)-(c), 4.41 (a).
+5.2(b)(1), (3). 5.3(a)(2)(), (ii) (2014);
+
+B. An order of permanent injunction prohibiting Defendants, and any other
+person or entity associated with them, from engaging in conduct that violates Sections
+2(c)(2)(C)(iii)(I)(ce), 4b(a)(2)(A) and (C), 4k(2), 4m, and 40(1) of the CEA, 7 U.S.C.
+$§ 2(c)(2)(C)(iii))(cc), 6b(a)(2)(A), (C), 6k(2), 6m, 60(1) (2012): or CFTC Regulations
+3.12, 4.20(a)-(c), 4.41(a), 5.2(b)(1) and (3), 5.3(a)(2)(i), and 5.3(a)(2)(ii), 17 C-F.R. §§ 3.12,
+4.20(a)-(c), 4.41 (a), 5.2(b)(1), (3). 5.3(a)(2)(i), (ii) (2014);
+
+cana An order of permanent injunction prohibiting Defendants, and any of their
+agents, servants, employees, successors, assigns, attorneys, and persons acting in active
+concert or participation with Defendants, including any successor thereof, from, directly or
+indirectly:
+
+(1) Trading on or subject to the rules of any registered entity (as that term
+
+is defined in Section la(29) of the CEA, 7 U.S.C. § 1a(29) (2012));
+(2) Entering into any transactions involving commodity futures, options
+on commodity futures, commodity options (as that term is defined in CFTC
+Regulation 32.1(b)(1). 17 C.F.R. § 32.1(b)(1)) (“commodity options”),
+security futures products, foreign currency (as described in Sections
+2(c)(2)(B) and 2(c)(2)(C)(i) of the CEA, 7 U.S.C. §§ 2(c)(2)(B), 2(c)(2)(C)(i)
+(2012)) (“forex”), and/or swaps (as that term is defined in Section 1a(47) of
+the CEA, 7 U.S.C. § 1a(47) (2012)) for any Defendant’s personal or
+proprietary account or for any account in which any Defendant has a direct or
+indirect interest;
+
+@) Having any commodity futures, options on commodity futures,
+commodity options, security futures products, forex contracts, and/or swaps
+traded on any Defendant’s behalf;
+
+(4) Controlling or directing the trading for, or on behalf of. any other
+person or entity, whether by power of attorney or otherwise, in any account
+involving commodity futures, options on commodity futures, commodity
+options, security futures products, forex contracts, and/or swaps;
+
+(5) Soliciting, receiving. or accepting any funds from any person for the
+purpose of purchasing or selling any commodity futures, options on
+commodity futures, commodity options, security futures products, forex
+contracts, and/or swaps;
+
+(6) Applying for registration or claiming exemption from registration with
+
+the CFTC in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the CFTC, except as provided
+for in CFTC Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9) (2014):
+
+(7) Acting as a principal (as that term is defined in CFTC Regulation
+3.1(a), 17 C.F.R. § 3.1(a) (2014)), agent or any other officer or employee of
+any person or entity registered, exempted from registration or required to be
+registered with the CFTC, except as provided for in CFTC Regulation
+4.14(a)(9), 17 C.P.R. § 4.14(a)(9) (2014);
+
+(8) | Engaging in any business activity related to commodity futures,
+options on commodity futures, commodity options, swaps, security futures
+products, and/or forex contracts;
+
+De An order directing Defendants, as well as any successors thereof, to disgorge,
+pursuant to such procedure as the Court may order, all benefits received from the acts or
+practices constituting violations of the CEA and CFTC Regulations, as described herein, and
+pre- and post-judgment interest thereon from the date of such violations;
+
+EB An order directing Defendants, as well as any successors thereof, to make full
+restitution, pursuant to such procedure as the Court may order, to every customer or pool
+participant whose funds any Defendant received, or caused another person or entity to
+receive, as a result of the acts and practices constituting violations of the CEA and CFTC
+Regulations, as described herein, and pre- and post-judgment interest thereon from the date
+of such violations;
+
+F, An order directing Defendants, as well as any successors thereof, to rescind,
+
+pursuant to such procedures as the Court may order, all contracts and agreements, whether
+implied or express, entered into between them and any customer or pool participant whose
+funds any Defendant received as a result of the acts and practices constituting violations of
+the CEA and CFTC Regulations, as described herein:
+
+G. An order directing Defendants. as well as any successors thereof, to pay a
+civil monetary penalty, plus post-judgment interest, for each violation of the CEA and CFTC
+Regulations described herein, in the amount of the greater of: (i) $140,000 for each violation
+committed; or (ii) triple Defendants’ monetary gain for each violation committed:
+
+H. An order requiring Defendants to pay costs and fees as permitted by 28 U.S.C.
+§§ 1920 and 2412 (2012); and
+
+lL. An order directing such further relief as the Court deems proper.
+
+Dated: January 5, 2015 Respectfully submitted,
+
+ 
+
+nathan P. Robell
+DC Bar No. 493977
+Email: jrobell@cftc.gov
+
+Jonah E. McCarthy
+DC Bar No. 492480
+Email: jmecarthy@cftc.gov
+
+Attorneys for Plaintiff
+
+U.S. COMMODITY FUTURES TRADING COMMISSION
+1155 21st Street NW
+
+Washington, DC 20581
+
+Tel: (202) 418-5000
+
+Fax: (202) 418-5538

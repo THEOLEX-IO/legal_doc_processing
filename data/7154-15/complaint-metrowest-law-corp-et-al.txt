@@ -1,0 +1,467 @@
+Case: 1:15-cv-03307 Document #: 1 Filed: 04/14/15 Page 1 of 13 PagelD #:1
+
+UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF ILLINOIS
+EASTERN DIVISION
+
+ 
+
+U. 8S. COMMODITY FUTURES
+TRADING COMMISSION,
+
+Civil Action No:
+Plaintiff,
+Judge
+VS.
+
+MATTHEW J. MARCUS,
+TECH POWER INC.,,
+
+JOHN D. BRINER, and
+METROWEST LAW CORP.,
+
+Defendants.
+
+ 
+
+ 
+
+COMPLAINT FOR INJUNCTIVE AND OTHER EQUITABLE RELIEF
+AND CIVIL MONETARY PENALTIES UNDER THE COMMODITY EXCHANGE ACT
+
+The U.S. Commodity Futures Trading Commission (“CFTC” or “Commission”), by and
+
+through its attorneys, hereby alleges as follows:
+I. SUMMARY
+
+l. Over a period of seven consecutive trading dates from January 28, 2014 to
+February 5, 2014 (“Relevant Period”), Defendants Matthew J. Marcus (“Marcus”) and John D.
+Briner (“Briner”) engaged in 624 round-turn trades involving 1,248 perfectly matched, pre-
+arranged, non-competitive transactions in single stock futures (“SSF”) contracts listed on
+OneChicago LLC (“OneChicago”) to move at least $390,000 from Defendant MetroWest Law
+Corporation (“MetroWest”) to Defendant Tech Power Inc. (“Tech Power”) (the two individuals
+and two corporations, collectively, “Defendants”), By structuring the transactions such that Tech
+
+Power would buy at lower prices and sell at higher prices opposite MetroWest, Defendants were
+Case: 1:15-cv-03307 Document #: 1 Filed: 04/14/15 Page 2 of 13 PagelD #:2
+
+able to ensure that Tech Power would always profit from the transactions, enabling the
+Defendants to conduct a “money pass” between the two accounts.
+
+2. By virtue of this conduct and the conduct further described herein, Defendants
+have engaged, are engaging or are about to engage in conduct in violation of (i) Section 4c(a) of
+the Commodity Exchange Act (“Act”), 7 U.S.C. § 6c(a) (2012), by entering into transactions that
+are pre-arranged, fictitious sales, and/or wash sales involving the purchase or sale of
+commodities for future delivery and (ii) Regulation 1.38(a), 17.C.F.R. § 1.38(a)(2014), by
+entering into illegal, non-competitive transactions to buy and sell futures contracts.
+
+3. Unless restrained and enjoined by this Court, Defendants are likely to continue to
+engage in the acts and practices alleged in this Complaint and in similar acts and practices, as
+more fully described below.
+
+4, Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. § 13a-1 (2012), the
+Commission brings this action to enjoin such acts and practices, prevent the dissipation of assets,
+and compel compliance with the provisions of the Act. In addition, the Commission seeks civil
+penalties and remedial ancillary relief, including but not limited to, trading bans, restitution,
+disgorgement, an accounting, pre and post-judgment interest and such other statutory and
+equitable relief as the Court may deem necessary or appropriate under the circumstances.
+
+Il. JURISDICTION AND VENUE
+
+5. This Court has jurisdiction over this action pursuant to Section 6c(a) of the Act,
+7 U.S.C. § 13a-1(a). Section 6c(a) of the Act authorizes the CFTC to seek injunctive relief
+against any person whenever it shall appear to the CFTC that such person has engaged, is
+engaging or is about to engage in any act or practice constituting a violation of any provision of
+
+the Act or any rule, regulation or order promulgated thereunder.
+Case: 1:15-cv-03307 Document #: 1 Filed: 04/14/15 Page 3 of 13 PagelD #:3
+
+6. Venue properly lies with this Court pursuant to Section 6c(e) of the Act, 7 U.S.C.
+§ 13a-1(e) (2012), because Defendants transacted business in this District, and the acts and
+practices in violation of the Act have occurred, are occurring or are about to occur within this
+District.
+I. THE PARTIES
+
+7. Plaintiff Commodity Futures Trading Commission is an independent federal
+regulatory agency that is charged by Congress with administering and enforcing the provisions
+of the Act (2012) and the Commission Regulations promulgated thereunder, 17 C.F.R. §§ 1.1 e¢
+seq. (2014).
+
+8. Defendant Matthew J. Marcus (“Marcus”) is an individual residing in
+California. Marcus serves as the President, Secretary, Treasurer and Director of Tech Power Inc.
+Marcus has never been registered with the Commission in any capacity. Marcus was a client of
+MetroWest Law Corporation and Briner.
+
+9. Defendant Tech Power Inc. (“Tech Power”) is an information technology
+company incorporated in Nevada and located in California. It has never been registered with the
+Commission in any capacity.
+
+10. Defendant John D. Briner (“Briner”) is an attorney residing in Vancouver,
+Canada. Briner has never been registered with the Commission in any capacity. Briner owns
+100% of MetroWest Law Corporation and is its principal.
+
+It. | Defendant MetroWest Law Corporation (“MetroWest”) is a Canadian law
+firm located in Vancouver, Canada. It has never been registered with the Commission in any
+capacity. In October 2013 MetroWest was placed into custodianship by the Law Society of
+British Columbia, which thereby assumed responsibility for MetroWest’s law practice; however,
+
+Briner retained control over a MetroWest trading account -- account number XXXX7543.
+
+3
+Case: 1:15-cv-03307 Document #: 1 Filed: 04/14/15 Page 4 of 13 PagelD #:4
+
+IV. FACTUAL BACKGROUND
+
+A. Single Stock Futures Trading on OneChicago
+
+12. OneChicago LLC (“OneChicago”) is a designated contract market located in
+Chicago, Illinois that provides a marketplace for trading security futures products, such as single
+stock futures.
+
+13. OneChicago offers an electronic trading platform in which traders place various
+orders for single stock futures in its central limit order book, and OneChicago’s matching engine
+arranges trades using those orders.
+
+14. A single stock future (“SSF”) is a contract for future delivery of 100 shares of a
+single stock (such as Microsoft or Netflix) that may be settled through delivery of the underlying
+securities on a certain delivery date. At the expiration of the contract, the person who is “short”
+the SSF delivers the underlying stock to his counterparty, who is “long” the SSF, if he holds the
+contract at expiration. A trader may hold an SSF position until the delivery date or may close
+out the position at any time with an offsetting transaction in the same contract. A SSF is a form
+of “security future,” as defined in Section 1a(44) of the Act, 7 U.S.C. § 1a(44), and is subject to
+joint regulation by the CFTC and the SEC under Section 2(a)(1)(D) of the CEA, 7 U.S.C.
+
+§ 2(a)(1)(D) (2012).
+
+15. Generally, futures markets are price discovery markets that provide a centralized
+marketplace where traders can shift risk. Price discovery occurs through the open and
+competitive execution of trades on the centralized market. To protect the integrity of the price
+discovery process, the Act and Regulations generally require offers to be open and available to
+the market as a whole (i.¢., potentially matched with any other offer). The Act and Regulations
+prohibit trading practices that undermine the price discovery process, such as pre-arranged
+
+trading or fictitious sales.
+Case: 1:15-cv-03307 Document #: 1 Filed: 04/14/15 Page 5 of 13 PagelD #:5
+
+B. Defendants’ Trading Accounts
+
+16. Defendants carried out their scheme on OneChicago using two trading accounts
+held at the same registered futures commission merchant (“FCM”).
+
+17. _ Briner opened a trading account at an FCM in the name of MetroWest Law Corp.
+in June 2012, and its account number was XXXX7543 (“MetroWest 7543”). Briner had a
+unique user name and password that allowed him to control trading within MetroWest 7543.
+
+18. According to account documentation, Briner was the only authorized trader for
+MetroWest 7543, and statements for MetroWest 7543 were sent to Briner via email.
+
+19. In connection with opening MetroWest 7543, Briner signed the FCM’s customer
+agreement on June 11, 2012, affirming that Briner would be responsible for all orders entered
+using his user name and password. Briner also represented that he would not permit any other
+person to have access to the MetroWest 7543 account for any purpose, unless specified to the
+FCM and agreed to by the FCM.
+
+20.  Briner made several deposits into MetroWest 7543 throughout 2012 from an
+account in the name of MetroWest Law Corporation Trust A. These deposits totaled in excess of
+$390,000.
+
+21. | On information and belief, Briner funded the account with money received from
+one or more clients of MetroWest. Prior to January 28, 2014, MetroWest 7543 had never placed
+an order on OneChicago.
+
+22. On January 25, 2013, Marcus opened a trading account with the same FCM in the
+name of Tech Power Inc., and its account number was XXXX0560 (“Tech Power 0560”).
+
+23. According to account documentation, Marcus was the only authorized trader for
+Tech Power 0560. Marcus had a unique ID and password that allowed him to control trading
+
+within Tech Power 0560.
+Case: 1:15-cv-03307 Document #: 1 Filed: 04/14/15 Page 6 of 13 PagelD #:6
+
+24. ‘In connection with opening Tech Power 0560, Marcus signed the FCM’s
+customer agreement on January 25, 2013, affirming that Marcus would be responsible for all
+orders entered using his user name and password. Marcus also represented that he would not
+permit any other person to have access to the Tech Power 0560 account for any purpose, unless
+specified to the FCM and agreed to by the FCM.
+
+25. Prior to January 28, 2014, Tech Power 0560 had never placed an order on
+OneChicago.
+
+C. Defendants’ Scheme to Pass Money Through SSF Trading
+
+26. |Amoney pass is a form of non-competitive trading in which one trader
+intentionally loses money to another trader, typically where one trader buys a quantity of
+contracts at a high price opposite the other trader, and sells back the same quantity of contracts at
+a low price opposite the same trader, leaving neither trader with a resulting futures or options
+position (i.e., a “round turn”). What appears to the market to be a legitimate trade between two
+arm’s-length parties is instead a pre-arranged scheme to move money from one account to the
+other.
+
+27. Beginning on January 28, 2014 and continuing for seven consecutive trading
+dates through February 5, 2014, Defendants carried out a money pass scheme whereby they
+moved money from MetroWest to Tech Power through a series of transactions using SSF
+contracts on OneChicago. |
+
+28. —_In each of those transactions, one of the accounts would place a limit order to buy
+a specific quantity of SSF for a specific price. Immediately following that order, the other
+account would enter the market with a limit order to sell the exact same quantity of SSF at an
+
+identical price. After their orders were matched in one transaction, Defendants would later enter
+Case: 1:15-cv-03307 Document #: 1 Filed: 04/14/15 Page 7 of 13 PagelD #:7
+
+into an equal and offsetting transaction to close out the position. This pattern was repeated
+hundreds of times throughout the Relevant Period.
+
+29.‘ For example, January 28, 2014 Tech Power 0560 placed a limit order to buy one
+lot of MYGNID (March expiry) at 12:46:19pm at a price of $24.97. At 12:46:29pm MetroWest
+7543 entered a limit order to sell one lot of MYGNID (March expiry) at a price of $24.97. The
+orders were matched, and the trade was executed at 12:46:29pm. The accounts reversed
+positions 36 minutes later. At 1:22:31pm Tech Power 0560 entered a limit order to sell one lot
+of MYGNI1D (March expiry) at a price of $25.42, and at 1:22:39 MetroWest 7543 placed a limit
+order to buy one lot of MYGNID (March expiry) at a price of $25.42. The orders were matched,
+and the trade was executed at 1:22:39pm. In this transaction, Tech Power 0560 gained $45.00.
+
+30. Using this methodology, Defendants traded almost exclusively against each other
+on OneChicago. By placing nearly simultaneous, matching orders and trading in illiquid SSF
+products, Defendants virtually eliminated the possibility of trading with any other counterparty.
+During the Relevant Period, Defendants’ transactions constituted approximately 98 percent of all
+trades in eight SSF products.
+
+31. | MetroWest 7543 executed a total of 1,248 SSF trades opposite of Tech Power
+0560 on OneChicago, resulting in 624 round turn trades. Each time a position was closed out, it
+resulted in a loss to MetroWest 7543 and a gain to Tech Power 0560. As a result, MetroWest
+transferred at least $390,000 to Tech Power.
+
+32. Defendants did not execute these trades in accordance with OneChicago’s written
+
+rules.
+Case: 1:15-cv-03307 Document #: 1 Filed: 04/14/15 Page 8 of 13 PagelD #:8
+
+33. Defendants intended these transactions to appear as arm’s-length transactions to
+the market but, instead, they were part of a scheme to pass over $390,000 from MetroWest 7543
+to Tech Power 0560.
+
+V. VIOLATIONS OF THE COMMODITY EXCHANGE ACT
+COUNT ONE
+
+Violations of 4c(a) of the Act:
+Fictitious Sales
+
+34, Paragraphs | through 33 are re-alleged and incorporated herein.
+Defendants MetroWest, Tech Power, Marcus and Briner violated Section 4c(a) of the Act,
+7 U.S.C. 6c(a), by entering into a transaction that is of the character of, or is commonly known
+to the trade as a fictitious sale, specifically a money pass, involving the purchase or sale of a
+commodity for future delivery which transaction was used or may have been used to hedge any
+transaction in interstate commerce in the commodity or the product or byproduct of the
+commodity; or to determine the price basis of any such transaction in interstate commerce in the
+commodity; or to deliver any such commodity sold, shipped, or received in interstate commerce.
+
+35. Defendant Marcus is liable for Tech Power’s violations of Section 4c(a) of the
+Act, pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b), because Marcus controlled Tech
+Power and either did not act in good faith or knowingly induced, directly or indirectly, the acts
+constituting Tech Power’s violations alleged in this count.
+
+36. Defendant Briner is liable for MetroWest’s violations of Section 4c(a) of the Act,
+pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b), because Briner controlled MetroWest
+and either did not act in good faith or knowingly induced, directly or indirectly, the acts
+
+constituting MetroWest’s violations alleged in this count.
+Case: 1:15-cv-03307 Document #: 1 Filed: 04/14/15 Page 9 of 13 PagelD #:9
+
+37. The acts of Defendant Marcus occurred during the scope of his employment or
+agency with Tech Power and are deemed to be the acts of Tech Power by operation of Section
+2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2012) and Regulation 1.2, 17 C.F.R. § 1.2 (2014).
+
+38. The acts of Defendant Briner occurred during the scope of his employment or
+agency with MetroWest and are deemed to be the acts of MetroWest by operation of Section
+2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) and Regulation 1.2, 17 C.F.R. § 1.2.
+
+39. Each transaction entered into by Defendants, including but not limited to those
+specifically alleged herein, is alleged as a separate and distinct violation of Section 4c(a) of the
+Act.
+
+COUNT TWO
+
+Violations of Commission Regulation 1.38(a):
+Non-Competitive Transactions
+
+40. _ Paragraphs | through 39 are re-alleged and incorporated herein.
+
+41. Regulation 1.38, 17 C.F.R. §1.38 (2014) requires that all purchases and sales of
+commodity futures contracts, including single stock futures, be executed “openly and
+competitively.”
+
+42. Defendants MetroWest, Tech Power, Marcus and Briner violated Regulation 1.38
+by knowingly engaging in a series of non-competitive single stock futures transactions.
+
+43. Defendant Marcus is liable for Tech Power’s violations of Section 4c(a) of the
+Act, pursuant to Section 13(b) of the Act, 7 U.S.C. § 13¢(b), because Marcus controlled Tech
+Power and either did not act in good faith or knowingly induced, directly or indirectly, the acts
+constituting Tech Power’s violations alleged in this count.
+
+44. Defendant Briner is liable for MetroWest’s violations of Section 4c(a) of the Act,
+
+pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b), because Briner controlled MetroWest
+Case: 1:15-cv-03307 Document #: 1 Filed: 04/14/15 Page 10 of 13 PagelD #:10
+
+and either did not act in good faith or knowingly induced, directly or indirectly, the acts
+constituting MetroWest’s violations alleged in this count.
+
+45. | The acts of Defendant Marcus occurred during the scope of his employment or
+agency with Tech Power and are deemed to be the acts of Tech Power by operation of Section
+2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) and Regulation 1.2, 17 C.F.R. § 1.2.
+
+46. The acts of Defendant Briner occurred during the scope of his employment or
+agency with MetroWest and are deemed to be the acts of MetroWest by operation of Section
+2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) and Regulation 1.2, 17 C.F.R. § 1.2.
+
+47. Each transaction entered into by Defendants, including but not limited to those
+specifically alleged herein, is alleged as a separate and distinct violation of Regulation 1.38(a),
+
+17 C.F.R. §1.38.
+
+VI. RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that this Court, as authorized by
+Section 6c of the Act, 7 U.S.C. § 13a-1 (2014), and pursuant to its own equitable powers:
+
+A. Enter an order finding Defendants liable for violating Section 4c(a) of the Act,
+
+7 U.S.C. § 6c(a) (2012) and Commission Regulation 1.38(a), 17 C.F.R. §1.38(a) (2014);
+
+B. Enter a statutory restraining order restraining and enjoining Defendants, and any
+successors thereof, and all persons insofar as they are acting in the capacity of Defendants’
+agents, servants, successors, employees, assigns, and attorneys, and all persons insofar as they
+are acting in active concert or participation with Defendants who receive actual notice of such
+order by personal service or otherwise, from directly or indirectly:
+
+1, Destroying, mutilating, concealing, altering, or disposing of any books and
+
+records, documents, correspondence, brochures, manuals, electronically
+stored data, tape records, or other property of Defendants, wherever
+
+10
+Case: 1:15-cv-03307 Document #: 1 Filed: 04/14/15 Page 11 of 13 PagelD #:11
+
+located, including all such records concerning Defendants’ business
+operations;
+
+Refusing to permit authorized representatives of the Commission to
+inspect, when and as requested, any books and records, documents,
+correspondence, brochures, manuals, electronically stored data, tape
+records, or other property of Defendants, wherever located, including all
+such records concerning Defendants’ business operations; and
+
+Withdrawing, transferring, removing, dissipating, concealing, or disposing
+of, in any manner, any funds, assets, or other property, wherever situated,
+associated with the illegal conduct alleged above including, but not limited
+to, all funds on deposit in MetroWest 7543, Tech Power 0560, and all
+other of Defendants’ bank accounts or trading accounts that received funds
+as a result of the unlawful conduct;
+
+C. Enter orders of preliminary and permanent injunction prohibiting Defendants and
+
+any other person or entity associated with them, including successors thereof, from:
+
+1.
+
+Engaging in conduct in violation of Sections 4c(a) of the Act, 7 U.S.C.
+§ 6c(a), and Regulation 1.38(a), 17 C.F.R. § 1.38(a);
+
+Trading on or subject to the rules of any registered entity (as that term is
+defined in Section 1a(29) of the Act, 7 U.S.C. § 1a(29));
+
+Entering into any transactions involving “commodity interests” (as that
+term is defined in regulation 1.3(yy), 17 C.F.R. § 1.3(yy) 2014), for
+accounts held in the name of any Defendant or for accounts in which any
+Defendant has a direct or indirect interest;
+
+Having any interests traded on any Defendants’ behalf;
+
+Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account
+involving commodity interests;
+
+Soliciting, receiving, or accepting any funds from any person for the
+purpose of purchasing or selling any interests;
+
+Applying for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the Commission, except
+as Provided for in Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9) (2014);
+
+an
+
+11
+Case: 1:15-cv-03307 Document #: 1 Filed: 04/14/15 Page 12 of 13 PagelD #:12
+
+8. Acting as a principal (as that term is defined in Regulation 3.1(a),
+17 C.F.R. § 3.1{a) (2014)), agent, or any other officer or employee of any
+person registered, exempted from registration or required to be registered
+with the CFTC except as provided for in Regulation 4.14(a)(9), 17 C.F.R.
+§ 4.14(a)(9) (2014).
+
+D. An order requiring each Defendant to pay civil penalties under the Act, to be
+assessed by the Court, in amounts of not more than the higher of (1) triple the monetary gain for
+each violation of the Act; or (2) $140,000 for each violation of the Act and Commission
+Regulations;
+
+E. An order directing Defendants, and any successors thereof, to disgorge pursuant
+to such procedure as the Court may order, all benefits received including, but not limited to,
+trading profits, revenues, salaries, commissions, fees or loans derived directly or indirectly from
+acts or practices which constitute violations of the Act and Commission Regulations as described
+herein, including pre-judgment interest thereon from the date of such violations;
+
+F, An order directing Defendants, and any successors thereof, to make full
+restitution to every customer, client or investor whose funds were received by them as a result of
+acts and practices which constituted violations of the Act and Regulations, as described herein,
+and interest thereon from the date of such violations;
+
+G. An order directing that Defendants, and any successors thereof, make an
+accounting to the Court of all of their assets and liabilities, together with all funds they received
+from and paid to clients and other persons in connection with commodity futures transactions
+and all disbursements for any purpose whatsoever of funds received from commodity
+transactions, including salaries, commissions, interest, fees, loans and other disbursement of
+money or property of any kind from June 1, 2012 to the date of such accounting.
+
+H. An order requiring Defendants to pay costs and fees as permitted by 28 U.S.C.
+§§ 1920 and 2412(a)(2) (2012); and
+
+12
+Case: 1:15-cv-03307 Document #: 1 Filed: 04/14/15 Page 13 of 13 PagelD #:13
+
+I, An order providing such other and further relief as this Court may deem necessary
+and appropriate under the circumstances.
+
+Respectfully submitted,
+
+Date: April 14, 2015 /s/ Lindsey Evans
+Lindsey Evans (IL ARDC No. 6286125)
+
+Commodity Futures Trading Commission
+525 West Monroe Street, Suite 1100
+Chicago, Illinois 60661
+
+(312) 596-0643
+
+levans@cfitc.gov
+
+Diane Romaniuk (dromaniuk@cfic.gov)
+IL ARDC No. 0341649
+
+Robert Howell (rhowell@cftc.gov)
+IL ARDC No. 6286438
+
+Scott Williamson (swilliamson@cftc.gov)
+IL ARDC No. 6191293
+
+Rosemary Hollinger (rhollinger@cftc.gov)
+IL ARDC No. 3123647
+
+Commodity Futures Trading Commission
+525 West Monroe Street, Suite 1100
+Chicago, Illinois 60661
+
+(312) 596-0700
+
+13

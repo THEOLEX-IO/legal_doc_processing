@@ -1,6 +1,5 @@
 import os
 
-
 import legal_doc_processing.information_extraction as infext
 import legal_doc_processing.segmentation as seg
 
@@ -8,10 +7,11 @@ import legal_doc_processing.segmentation as seg
 class LegalDoc:
     """main legal doc class """
 
-    def __init__(self, text: str):
+    def __init__(self, text: str, file_path: str = None, nlpipe=None):
         """init method of the LegalDoc
         pos args :
             text (str) : the complete text to proceed
+            nlpipe (pipleline) : a pre instanciated pipline. default None (a object will be created)
         opt args :
             -
         raise :
@@ -19,11 +19,13 @@ class LegalDoc:
         return :
             a LegalDoc object"""
 
-        # raw text
-        self.file_path = None
-        self.raw_text = text
+        # args as attr
+        self.file_path = os.path.dirname(file_path) if file_path else None
+        self.file_name = os.path.basename(file_path) if file_path else None
+        self.nlpipe = nlpipe if nlpipe else infext.get_pipeline()
 
-        # self.article_text, self.formatted_article_text = clean_spec_chars(text)
+        # text and clean
+        self.raw_text = text
         self.clean_pages = seg.clean_doc(text)
 
         # features
@@ -40,16 +42,9 @@ class LegalDoc:
     def predict_defendant(self) -> str:
         """predict defendant, update self.defendant attr and return the value"""
 
-        self.defendant = infext.get_defendant(self.clean_pages[0])
+        self.defendant = infext.get_defendant(self.clean_pages[0], self.nlpipe)
 
         return self.defendant
-
-    def predict_violeted(self) -> str:
-        """predict violeted, update self.violeted attr and return the value"""
-
-        self.violeted = infext.get_violeted(self.clean_pages[0])
-
-        return self.violeted
 
     def predict_all(self) -> dict:
         """perform various prediction, udate each attr and return a dict off attrs:value """
@@ -57,14 +52,13 @@ class LegalDoc:
         pred = {}
         pred["case"] = self.predict_case()
         pred["defendant"] = self.predict_defendant()
-        pred["violeted"] = self.predict_violeted()
 
         return pred
 
     def __repr__(self):
         """__repr__ method """
 
-        return "a LegalDoc Instance"
+        return f"LegalDoc(path:{self.file_path}, file:{self.file_name}, case:{self.case}, defendant:{self.defendant}, pipe:{'OK' if self.nlpipe else self.nlpipe})"
 
     def __str__(self):
         """__str__ method """
@@ -72,25 +66,11 @@ class LegalDoc:
         return "a LegalDoc Instance"
 
 
-class LegalDocs:
-    """legalDocs of docs  """
-
-    pass
-
-
-def read_file(file_path: str):
+def read_file(file_path: str, nlpipe=None):
     """read a file and return a LegalDoc object """
 
     with open(file_path, "r") as f:
         text = f.read()
 
-    ld = LegalDoc(text)
-    ld.file_path = file_path
-
+    ld = LegalDoc(text, file_path=file_path, nlpipe=nlpipe)
     return ld
-
-
-def read_files():
-    """LegalDocs object as a list of docs """
-
-    raise NotImplementedError

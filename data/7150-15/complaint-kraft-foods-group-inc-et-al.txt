@@ -1,0 +1,782 @@
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 1 of 23 PagelD #:1
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF ILLINOIS
+EASTERN DIVISION
+
+ 
+
+U.S. COMMODITY FUTURES
+TRADING COMMISSION,
+
+Plaintiff,
+Civil Action No: 15-2881
+
+V.
+
+KRAFT FOODS GROUP, INC. and Hon.
+MONDELEZ GLOBAL LLC,
+
+ 
+
+Defendants,
+
+ 
+
+ 
+
+COMPLAINT FOR INJUNCTIVE RELIEF,
+CIVIL MONETARY PENALTIES, AND OTHER EQUITABLE RELIEF
+
+The U.S. Commodity Futures Trading Commission (“CFTC” or “Commission’), by and
+through its attorneys, hereby alleges as follows:
+
+I. INTRODUCTION
+
+1. During Fall 2011, Kraft Foods Group, Inc. and Mondeléz Global LLC
+(collectively “Defendants” or “Kraft’”), by and through the acts of certain its officers, agents or
+employees, engaged in a manipulative and deceptive scheme to manipulate or attempt to
+manipulate the prices of the December 2011 wheat futures contract traded on the Chicago Board
+of Trade (“CBOT”) and cash wheat. At the same time, Kraft also held wheat futures positions in
+excess of speculative position limits established by the Commission.
+
+2. In addition, beginning in at least 2009 and continuing through January 2014,
+Kraft, by and through the acts of certain its officers, agents or employees, engaged in
+noncompetitive trades by trading both sides of an exchange-for-physical (“EFP”) CBOT wheat
+
+contract at least five times per year.
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 2 of 23 PagelD #:2
+
+3. By engaging in this conduct and the conduct further described herein, Kraft has
+engaged, is engaging, or is about to engage in acts and practices that violate the Commodity
+Exchange Act (the “Act”), 7 U.S.C. §§ 1 et seg. (2012), and Commission Regulations
+(“Regulations”) promulgated thereunder, 17 C.F.R. §§ 1 et seg. (2014). Specifically, by using a
+deceptive or manipulative device in connection with the December 2011 wheat futures contract
+and cash wheat, Kraft violated Sections 6(c)(1) of the Act, 7 U.S.C. § 9(1) (2012), and
+Regulation 180.1, 17 C.F.R. § 180.1 (2014). In addition, by manipulating and attempting to
+manipulate the prices of the December 2011 wheat futures contract and cash wheat, Kraft
+violated Sections 6(c)(3) and 9(a)(2) of the Act, 7 U.S.C. §§ 9(1) and 13(a)(2) (2012), and
+Regulation 180.2, 17 C.F.R. § 180.2 (2014). Further, by holding wheat futures positions in
+excess of Commission speculative position limits set forth in Regulation 150.2, 17 C.F.R.
+
+§ 150.2 and CBOT speculative position limits, Kraft violated Sections 4a(b) and (e) of the Act,
+7 U.S.C. § 6a(b) and (e) (2012). Finally, by engaging in wash sales by trading both sides of EFP
+contracts, Kraft violated Section 4c(a) of the Act, 7 U.S.C. § 6c(a) (2012), and Regulation
+1.38(a), 17 C.F.R. § 1.38(a) (2014).
+
+4, Accordingly, the CFTC brings this action pursuant to Section 6c of the Act,
+
+7 U.S.C. § 13a-1 (2012), to enjoin Kraft’s unlawful acts and practices and to compel its
+compliance with the Act and Regulations. The CFTC also seeks civil monetary penalties and
+remedial ancillary relief, including disgorgement, pre- and post-judgment interest, and such other
+
+equitable relief as this Court may deem necessary and appropriate.
+
+II. JURISDICTION AND VENUE
+
+5. This Court has jurisdiction over this action pursuant to Section 6c(a) of the Act,
+
+7 U.S.C. § 13a-1(a) (2012), which authorizes the CFTC to seek injunctive relief against any
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 3 of 23 PagelD #:3
+
+person whenever it appears that such person has engaged, is engaging, or 1s about to engage in
+any act or practice that violates any provision of the Act or any rule, regulation, or order
+promulgated thereunder.
+
+6. Venue properly lies with this Court pursuant to Section 6c(e) of the Act,
+7 U.S.C. § 13a-1(e) (2012), because Kraft is located and transacts business in this District, and
+the acts and practices in violation of the Act have occurred, are occurring, or are about to occur
+within this District, among other places.
+
+Hil. PARTIES
+
+7. Plaintiff U.S. Commodity Futures Trading Commission is an independent
+federal regulatory agency charged by Congress with the responsibility for administering and
+enforcing the provisions of the Act, 7 U.S.C. §§ 1 et seg. (2012), and the Regulations
+promulgated thereunder, 17 C.F.R. §§ 1.1 et seg. (2014).
+
+8. Defendant Kraft Foods Group, Inc. is one of North America’s largest consumer
+packaged food and beverage companies, with headquarters in Northfield, Illinois. It has never
+been registered with the Commission.
+
+9. Defendant Mondeléz Global LLC operates the North American snack food
+business for Mondeléz International, Inc., from its headquarters in Deerfield, Illinois. It has
+never been registered with the Commission.
+
+10. During the time period covered by this Complaint, Kraft Foods Inc. owned Kraft
+Food Group, Inc., which operated the North American snack food business that is the subject of
+this Complaint. In October 2012, Kraft Foods Inc. effected a spin-off transaction where (a) Kraft
+Foods Group, Inc. transferred the North American snack foods business to its then-affiliate
+Mondeléz Global LLC and (b) Kraft Foods Inc. then distributed Kraft Foods Group, Inc. to its
+
+shareholders in a tax-free spin-off. Kraft Foods Inc. then changed its name to Mondeléz
+
+3
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 4 of 23 PagelD #:4
+
+International, Inc., which has since owned Mondeléz Global LLC, which operates the North
+American snack food business. The operative spin-off agreements apportion liability between
+
+Kraft Foods Group, Inc. and Mondeléz International, Inc.
+
+IV. FACTS
+A. Background
+
+11. Kraft is one of the largest domestic end users of #2 Soft Red Winter Wheat, which
+is the variety of wheat deliverable against the CBOT wheat futures contract. Kraft consumes
+approximately 30 million bushels of wheat per year (or roughly 2.5 million bushels per month)
+for use in production of products like Oreo, Chips Ahoy!, Ritz, Triscuit, and Wheat Thins.
+Ninety percent of the wheat used by Kraft is milled into flour at Kraft’s Toledo, Ohio Flour Mill
+(the “Mill”) on the Maumee River, which flows into Maumee Bay, Lake Erie.
+
+12. In order to produce usable flour, Kraft requires wheat for milling that meets
+certain specifications for baking and human consumption. These specifications include the
+permissible numbers of insect damaged kernels and maximum allowable levels of vomitoxin (a
+mycotoxin that may be produced in wheat infected by Fusarium head blight or scab). According
+to U.S. Food and Drug Administration guidance, finished baked goods must have a vomitoxin
+level below one part per million. Normal wheat milling processes and cleaning technologies can
+substantially reduce vomitoxin levels in finished flour by approximately one-half from the level
+in unprocessed wheat. Vomitoxin levels in finished flour also can be reduced in the milling
+process by blending in wheat possessing lower vomitoxim levels.
+
+13. Kraft will also consider certain baking characteristics of wheat, including gluten
+content and solvent retention levels, to ensure that it is able to produce flour that will meet its
+
+baking needs.
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 5 of 23 PagelD #:5
+
+14. Kraft typically purchases wheat on a daily basis throughout the year, seeking to
+ensure that it always has sufficient supply for the Mill. Kraft has the capacity to store 5 million
+bushels of unprocessed wheat at the Mill, and it strives to maintain two months’ supply in its
+inventory.
+
+15. Kraft has two primary options for obtaining the wheat it requires. First, it can
+purchase wheat directly from a grain producer or wholesaler in the cash market. When Kraft
+sources through the cash market, it can negotiate the wheat specifications in the contracts to
+ensure that the quality of wheat meets its requirements. For example, in its contracts, Kraft
+regularly specifies a maximum vomitoxin level of 2 parts per million and maximum insect
+damaged kernels of 3 per 100 grams.
+
+16. When Kraft purchases wheat in the cash market, it can also negotiate the delivery
+location and process. Because of the location of the Mill, when it purchases in the cash market,
+Kraft will ordinarily source wheat from the Toledo region, which includes Ohio, Indiana,
+Michigan, and Ontario, and have it delivered to the Mill by rail or truck. Warehouses and
+shipping stations outside the Toledo region, including those down the Mississippi River, are not
+required to transport wheat to Toledo by rail or truck. Consequently, it is not advantageous for
+Kraft to take delivery of wheat down the Mississippi River, as Kraft would have to arrange for
+the wheat to be barged to a location where it could be transferred to rail, and then shipped to the
+Mill, significantly increasing the cost to Kraft. It is not possible to barge wheat directly from
+locations down the Mississippi River to the Mill.
+
+17. Kraft’s second primary option for sourcing wheat is to purchase wheat futures
+contracts sold on the CBOT. The CBOT is a registered entity as defined in Section 1a(40) of the
+
+Act and is one of four designated contract markets for trading futures contracts pursuant to
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 6 of 23 PagelD #:6
+
+Section 5 of the Act that make up the CME Group, Inc. (“CME”). The CBOT maintains rules
+applicable to futures trading of wheat and the CME conducts surveillance and compliance
+activities related to CBOT trading.
+
+18. A futures contract is a standardized agreement between two parties to purchase or
+sell a predetermined quantity of a commodity during a future month, at a price that is determined
+at the initiation of the contract. The trader who purchases the commodity is said to have a “long
+position,” while the trader who sells the commodity is said to have a “short position.” Futures
+contracts may be settled by delivery of the actual commodity at the conclusion of the contract or
+“offset” by entering an equal and opposite trade, effectively eliminating the original position.
+
+19. Chapter 14 of the CBOT Rules governs the specifications for and trading of wheat
+futures. A wheat futures contract consists of 5,000 bushels of wheat, subject to further quality
+specifications. (CBOT Rules 14102.B, 14104). The minimum price fluctuation for trading
+wheat futures is 4 cent per bushel, which is equivalent to $12.50 per futures contract, including
+spreads. (CBOT Rule 14102.C.) CBOT wheat futures contracts are traded for delivery during
+five different contract months each calendar year: March, May, July, September, and December.
+(CBOT Rule 14102) Delivery on the CBOT wheat contract is effected when the seller of the
+futures contract tenders a “shipping certificate” (which represents an interest in wheat for load-
+out from a CBOT-approved delivery facility) to the buyer of the futures contract. (See generally
+CBOT Rules 14105-14110) Shipping certificates may also be bought and sold between traders
+or exchanged for futures positions.
+
+20. Wheat acquired via the futures market is typically of a lower quality than that
+sourced in the cash market. For example, during the time period covered by this Complaint
+
+CBOT rules specified that deliverable wheat could have vomitoxin levels of up to 4 parts per
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 7 of 23 PagelD #:7
+
+million (CBOT Rule 14104); the deliverable wheat actually available rarely had levels below
+two parts per million.
+
+21. Further, parties who take delivery of CBOT wheat do not have the ability to
+specify delivery location or load out process, nor do they even know the delivery location for the
+contracts they have purchased until they receive shipping certificates.
+
+22. Because of the inability to control wheat quality or delivery location, Kraft rarely
+takes delivery of wheat via the CBOT delivery process. Indeed, Kraft typically specifies in its
+cash market contracts that it will not accept wheat registered for delivery under CBOT contracts
+because such wheat is typically blended down by mixing lower quality product so that the
+overall mixture will barely meet the minimum CBOT requirements.
+
+23. Prior to Fall 2011, Kraft last took delivery of wheat via the CBOT delivery
+process in 2002. Instead of taking delivery of CBOT wheat, Kraft normally uses the futures
+markets to hedge its cash wheat purchases, taking long futures positions that roughly correlate
+with its actual wheat needs and then offsetting these positions as it acquires physical wheat in the
+cash market.
+
+B. Kraft Manipulated or Attempted to Manipulate
+the Wheat Markets During Fall 2011
+
+24. In late Summer 2011, cash wheat prices for #2 Soft Red Winter Wheat at Toledo,
+Ohio had risen from a price of $5.74 per bushel on June 30, 2011 to $7.72 per bushel on
+August 26, 2011. Over the same time, the price of December 2011 CBOT wheat futures
+increased from $6.57% to $7.97. Even though cash wheat prices were rising, there was sufficient
+wheat available in the cash wheat market for Kraft to purchase and deliver to the Mill to satisfy
+
+Kraft’s needs.
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 8 of 23 PagelD #:8
+
+25. In response to these elevated cash prices, however, Kraft deviated from its
+practice of using the futures markets solely to hedge its cash wheat purchases. Kraft wheat
+procurement staff developed, and Kraft senior management approved, a strategy to use its status
+as a commercial hedger to acquire a huge long position in December 2011 wheat futures in order
+to induce sellers to believe that Kraft would take delivery, load out, and use that wheat in its
+Mill. In developing the strategy, Kraft, acting through certain of its procurement staff and
+certain senior management, intended that the futures market would react to its enormous long
+position by increasing the price of the December 2011 futures contract while reducing the
+differential between the December futures price and the price of the cash market wheat. Kraft
+executed its plan, and the market reacted as Kraft expected, yielding Kraft more than $5.4
+million in futures trading profits and savings from its strategy.
+
+26. In fact, Kraft, acting through its procurement staff, acquired its December 2011
+long position without any intention of loading out, delivering, and using the majority of the
+CBOT wheat it stood to acquire.
+
+27. Kraft, acting through its procurement staff, executed a “trial run” of this strategy
+in September 2011, taking delivery of 250,000 bushels of CBOT wheat, which constituted fifty
+total certificates. Upon standing for delivery, thirty-one of the fifty certificates that Kraft
+received in September 2011 were for wheat located at locations on the Mississippi River that
+were more than 650 miles from the Mill and would have required at least two changes in mode
+of transport and shipment in the opposite direction of the commercial flow of wheat to bring to
+the Mill. This meant that Kraft could not use barges to transport the wheat directly to the Mill
+
+and, due to exchange rules, Kraft could not require that the wheat be loaded directly on to rail
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 9 of 23 PagelD #:9
+
+transport. As a result of this test involving just fifty certificates, Kraft knew that it could not rely
+upon taking delivery of CBOT wheat to source wheat easily transportable to the Mill.
+
+28. At around the same time, Kraft submitted a public comment to the Commission in
+response to a proposed change to CBOT rules removing language requiring wheat delivery
+facilities to be connected to railroad service. Kraft’s comment requested that the language not be
+removed. Kraft’s position was not adopted.
+
+29. Nevertheless, in October 2011, Kraft wheat procurement staff proposed to Kraft
+senior management that Kraft adopt a strategy of buying $90 million of December 2011 wheat
+futures in early December 2011 in order to depress the price of wheat in the cash market and
+inflate the futures price of wheat.
+
+30. In an October 20, 2011 email to Kraft’s Chief Financial Officer and other senior
+management, the Kraft Senior Director Global Procurement, explained the strategy as follows:
+
+Given our proposal to “take physical delivery in Dec” of 15 mm bushels at 50 cents per
+bushel below the commercially offered price results in the savings of $7mm+.
+
+In addition, there is a key market dynamic that is important to understand: Once the
+market sees that Kraft is “stopping” December wheat, we anticipate the futures
+curve will begin to flatten, reducing the profitability of wheat storage, thereby
+reducing the commercial wheat basis to Kraft. We will then have the option of
+redelivering the wheat acquired through the futures market. This will then quickly
+reverse the negative cash flow impact.
+(emphasis added).
+31. When considering the Kraft procurement staff's $90 million December 2011
+wheat futures proposal, Kraft senior management required that the futures position could not
+exceed $50 million by the end of December. Kraft procurement staff agreed to sell at least $40
+
+million of the proposed $90 million position by the end of the month. Kraft senior management
+
+then approved the procurement staff proposal for Kraft to buy $90 million of December 2011
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 10 of 23 PagelD #:10
+
+wheat futures, knowing that procurement staff would sell $40 million of the position before the
+end of the month.
+
+32. Kraft did not have a bona fide commercial need for $90 million of wheat — which
+would amount to approximately 15 million bushels, or a six-month supply for the Mill — in
+December 2011. Kraft had never possessed that quantity of wheat, and had no ability to store
+that quantity of wheat within its own facilities. Indeed, Kraft did not even have a bona fide
+commercial need for or present ability to store $50 million of wheat (its proposed $90 million
+position net of selling $40 million) — which would amount to more than an additional three
+months’ supply for the Mill.
+
+33. As of November 2011, Kraft already possessed more than 4.2 million bushels of
+wheat in storage at the Mill, which represented more than 80% of its storage capacity. If Kraft
+were to have taken delivery of 15 million bushels of wheat — an amount equivalent to
+approximately 3,000 certificates — in December 2011, it would have had to locate additional
+storage and pay additional costs of approximately five cents per bushel for nearly all of the wheat
+for up to six months. In addition, in order to use CBOT wheat, Kraft would have had to buy —
+and store — yet additional higher-quality cash wheat to blend with the lower-quality CBOT wheat
+so as to ensure the wheat would meet its baking specifications. Thus, Kraft would have needed
+to locate and pay for storage of far in excess of 15 million bushels.
+
+34. Kraft never intended to take delivery of 15 million bushels of wheat, but instead
+desired to make the market believe that it would take delivery, load out, and store that wheat for
+use in the Mill. Kraft intended for the market to react to its long position by lowering the price
+
+of cash wheat available in the Toledo area, which would allow Kraft to obtain wheat in the cash
+
+10
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 11 of 23 PagelD #:11
+
+market at more favorable prices. Kraft also intended to profit from the positions it held in
+December and March wheat futures by narrowing the spread between the two contracts.
+
+35. Kraft procurement employees, including the Senior Director Global Procurement
+and the Associate Director of Procurement, executed the strategy, ultimately accumulating 3150
+long CBOT December 2011 wheat futures contracts by November 29, 2011, the first day of the
+delivery period, equivalent to 15.75 million bushels or approximately $93.5 million of wheat. As
+of December 7, 2011, Kraft’s spot month wheat position constituted 87% percent of the CBOT
+December 2011 wheat futures open interest.
+
+36. In a second email to Kraft senior management on December 2, 2011 email, the
+Kraft Senior Director Global Procurement confirmed that the strategy was working as planned:
+
+As you may recall, we established a long Dec Wheat/Short March Wheat spread at 35
+
+cents (Mar premium to Dec) for the purpose of taking delivery of CME wheat,
+
+representing a $7MM+ saving over commercially sourced wheat. Since Monday we have
+
+“stopped” 2.2MM bushels of wheat at a cost of $13.2MM. As expected, the Dec/Mar
+
+spread has narrowed to app|roximately| 11 cents resulting in a marked to market
+
+gain of $3.6MM on our open spread position. Meanwhile, with the narrowing
+spread, the cash wheat basis has declined from +80 cents to +50 cents over Dec
+futures. As we begin purchasing this cheaper basis commercial wheat, we will unwind
+the existing spread position. If all goes according to plan, we will still save $7MM on the
+commercial cost of wheat vs where it was a few weeks ago as well as make $2-3MM on
+reversing out of the Dec/Mar wheat spread.
+
+(emphasis added).
+
+37. Upon standing for delivery of CBOT December 2011 wheat contracts, the
+shipping certificates that Kraft received were all for wheat located in warehouses on the
+Mississippi River, which are outside the Toledo region and are not required to transport wheat to
+Toledo by rail. To take delivery, Kraft had to arrange for the wheat to be barged to a location
+
+where it could be transferred to rail, and then shipped to the Mill. These shipping arrangements
+
+significantly increased Kraft’s costs by approximately $1.21 per bushel.
+
+1]
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 12 of 23 PagelD #:12
+
+38. Ultimately, Kraft took delivery of 1320 shipping certificates for December 2011
+CBOT wheat, or a total of 6.6 million bushels. It loaded out just 660,000 bushels (132 contracts)
+of that wheat, which was less than 5% of the wheat position it carried in early December and
+equivalent to approximately $4 million worth of wheat. After prices in the cash market declined,
+Kraft resold 1188 of its December 2011 shipping certificates for $35,725,074.
+
+39. | On December 9, Kraft offset all of its 826 remaining long futures contracts in the
+market (80% of the open interest), which amounted to 78.3% of the trading volume that day.
+Kraft did not purchase a similar quantity of wheat in the cash market, which would be expected
+if it had really needed that wheat for its operations.
+
+AO. Kraft’s actions proximately caused cash wheat prices in Toledo to decline and the
+December 2011/March 2012 wheat futures spread to narrow, which was favorable to Kraft. In
+particular, December 11 wheat futures prices increased from $5.75 as of November 28, 2011 to
+$6.12 as of December 2, 2011. Cash wheat prices in Toledo declined from $6.16 per bushel as
+of December 2, 2011 to $5.86 per bushel as of December 9, 2011. As a result of these price
+shifts, Kraft earned over $5.4 million in profits.
+
+C. Kraft Violated Speculative Position Limits
+
+Al. During the relevant time, the Commission specified the position limit levels for
+wheat futures. 70 Fed.Reg. 24705, 24707, Revision of Federal Speculative Position Limits
+(CFTC May 11, 2005). It published those levels in Commission Regulation 150.2, 17 C.F.R.
+
+§ 150.2 (2011), which provided that no person may hold or control a net long or net short
+position for the purchase or sale of wheat for future delivery traded on the CBOT in excess of
+600 contracts in the spot month, or in excess of 5,000 contracts for any single contract month or
+
+6,500 contracts for all months combined. These position limits are intended to protect the
+
+12
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 13 of 23 PagelD #:13
+
+futures market from excessive speculation that could cause unreasonable or unwarranted price
+fluctuations.
+
+42. Consistent with the Commission, the CBOT adopted speculative position limits
+for CBOT wheat futures at the Commission-specified levels. The CBOT position limit scheme
+for wheat futures included a prohibition against trading in excess of position limits, as set forth in
+CBOT Rule 14102.E. (“Position Limits, Exemptions, Position Accountability and Reportable
+Levels”), which referenced harmonized CME/CBOT Rule 559 (“Positon Limits and
+Exemptions”), which, in turn, provided that the position limit levels applicable to those contracts
+with position limits are set forth in the “Position Limit, Position Accountability and Reportable
+Level Table” (“Table”) in the Interpretations Section at the end of Chapter 5 of the exchange
+rules. During the relevant time, the Table identified a wheat futures spot month level of 600
+contracts in the spot month, or in excess of 5,000 contracts for any single contract month or
+6,500 contracts for all months combined.
+
+43. Traders who are bona fide hedgers — such as producers or end-users of particular
+commodities, like Kraft — can apply for exemptions to speculative position limits based on a
+demonstration of bona fide hedging needs. Requests for hedge exemptions from exchange limits
+must be submitted to the CME, which reviews the requests and, if approved, issues a letter
+setting out the specific additional limit it has approved for the entity. Hedge exemptions are
+valid for one calendar year and are renewable only through the submission of another application
+to the CME.
+
+44. At all times relevant to this Complaint, the CBOT speculative position limit for
+wheat futures contracts was 600 contracts during the spot month. Spot month is defined as
+
+commencing at the close of business on the business day prior to the first notice day — the day
+
+13
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 14 of 23 PagelD #:14
+
+after which the purchaser of a futures contract may be required to take physical delivery — for
+any delivery month and terminating at the end of the delivery period. Regulation 151.3,
+
+17 C.F.R. § 151.3 (2011). For the December 2011 wheat contract, the spot month period began
+on November 29, 2011.
+
+A5. | Asacommercial end user of flour, Kraft is eligible to seek a hedge exemption to
+cover its wheat needs. In or about October 2010, Kraft submitted such an application to the
+CME. On October 22, 2010, it received an exemption approval letter, permitting it to maintain
+wheat positions in excess of the speculative position limit, effectrve December 1, 2010. The
+exemption approval letter noted that “positions in the last five days of trading of any futures
+contract may not exceed Kraft Foods, Inc.’s unfilled anticipated requirements of the same cash
+commodity for that month and the next succeeding month.”
+
+46. The exemption approval specifically noted that exemptions must be renewed on
+an annual basis and that any application by Kraft to renew its exemption must be submitted to
+the CME by no later than December 1, 2011.
+
+A7. Kraft did not submit a request for renewal of its hedge exemption until
+December 28, 2011. Consequently, beginning on December 2, Kraft no longer had a CME
+hedge exemption for the December 2011 wheat contract and it was bound by the 600 contract
+speculative position limit in that commodity. Kraft also did not request a hedge exemption with
+the Commission for December 2011.
+
+A8. Kraft did not have a bona fide commercial need for the long futures position that
+
+it acquired in December 2011 wheat.
+
+14
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 15 of 23 PagelD #:15
+
+49, Kraft held long positions in December 2011 wheat that exceeded the mandated
+speculative position limit for wheat on December 2, 5, 6, 7 and 8 by 2,110, 2106, 1,666, 1,226
+and 226 contracts respectively.
+
+50. Kraft also accepted delivery of 1320 December wheat futures contracts between
+November 30, 2011 and December 7, 2011.
+
+D. Kraft Engaged in Fictitious EFP Transactions
+
+51. Kraft maintains several trading accounts in which it does wheat futures
+transactions for both long and short hedging purposes. Kraft’s internal computer software cannot
+distinguish between long and short positions for the same contract month within the same
+account, so Kraft’s practice has been to place its long wheat futures position in one account and
+its short wheat futures position in a second account to keep track of them.
+
+52. Beginning in or about 2003 and continuing through January 2014, prior to each of
+the five annual delivery periods for CBOT wheat, Kraft conducted an off-exchange transaction
+between the two Kraft accounts carrying the long and short positions whereby Kraft’s short
+position was offset by its long position. Kraft’s finance department determined the price level at
+which each transaction would be done and communicated that information to wheat procurement
+staff who directed Kraft’s clearing firm to execute the transaction. Each of the transactions was
+cleared through the CME as an EFP.
+
+53. Pursuant to Regulation 1.38(a), 17 C.F.R. § 1.38(a), noncompetitive, off-
+exchange futures trades are permitted only when they are executed in accordance with the rules
+of the relevant exchange.
+
+54. CME Rule 538 and CBOT Rule 538 permit “Exchanges for Related Positions” —
+of which EFPs are a sub-set — under certain conditions. EFPs are permissible only if they are
+
+between two independent parties and involve a privately negotiated and simultaneous exchange
+
+15
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 16 of 23 PagelD #:16
+
+of a futures position for a corresponding and offsetting cash physical position. EFPs must be
+cleared and reported to the appropriate exchange and the parties must prepare proper
+documentation for both parts of the transaction, including the same documentation that would
+accompany any other sale of a physical commodity.
+
+55. Kraft controlled both trading accounts involved in these EFP transactions. Kraft
+also did not actually transfer physical wheat in connection with any of the EFP transactions, nor
+did it create any of the documentation that ordinarily accompanies the sale of a physical
+commodity. The only documentation for these EFP transactions are the notations of the transfer
+of the futures position between accounts in Kraft’s futures account statements and internal
+records. Because they did not involve the actual transfer of physical wheat between two
+
+independent parties, Kraft’s EFPs were impermissible and violated Regulation 1.38.
+
+V. VIOLATIONS OF THE COMMODITY EXCHANGE ACT
+
+COUNT I
+
+Violations of Section 6(c)(1) of the Act and Regulation 180.1:
+Use of Manipulative or Deceptive Device
+
+56. Paragraphs | through 55 are realleged and incorporated herein by reference.
+
+57. Section 6(c)(1) of the Act, 7 U.S.C. § 9(1), makes it unlawful for “any person,
+directly or indirectly, to use or employ or attempt to use or employ, in connection with ...a
+contract of sale of any commodity in interstate commerce, or for future delivery on or subject to
+the rules of any registered entity, any manipulative or deceptive device or contrivance, in
+contravention of such rules and regulations as the Commission shall promulgate.” Regulation
+180.1 makes it unlawful for “any person, directly or indirectly, in connections with any contract
+for future delivery on or subject to the rules of any registered entity, to intentionally or
+
+recklessly: (1) use or employ or attempt to use or employ, any manipulative device, scheme, or
+
+16
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 17 of 23 PagelD #:17
+
+artifice to defraud;... (3) engage, or attempt to engage, in any act practice or course of business,
+which operates or would operate as a fraud or deceit upon any person....”
+
+58. Kraft intended to affect or acted recklessly with regards to affecting the prices of
+the December 2011 wheat futures contract and engaged in overt acts in furtherance of its intent.
+
+59. By the foregoing conduct, Kraft intentionally or recklessly used or employed or
+attempted to use or employ a manipulative device or artifice to defraud and engaged in or
+attempted to engage in any act, practice or course of business which operated or would operate
+as a fraud or deceit upon any person, in violation of Section 6(c)(1) of the Act and Regulation
+180.1.
+
+60. Because the actions of Kraft’s wheat procurement staff occurred within the scope
+of their employment, office, or agency with Kraft, Kraft is liable as a principal for their
+violations of Section 6(c)(1) and Regulation 180.1 pursuant to Section 2(a)(1)(B) of the Act,
+
+7 U.S.C. § 2(a)(1)(B), and Regulation 1.2, 17 C.F.R. § 1.2 (2014).
+
+6l. Each and every overt action in furtherance of the attempt to manipulate prices,
+and each act of manipulation is alleged herein as a separate and distinct violation of Section
+6(c)(1) of the Act and Regulation 180.1.
+
+COUNT II
+
+Violations of Section 9(a)(2), 6(c)(3) and Regulation 180.2
+Manipulation and Attempted Manipulation of Wheat Futures and Cash Wheat
+
+62. Paragraphs | through 55 are realleged and incorporated herein by reference.
+
+63. Section 6(c)(3) of the Act, 7 U.S.C. § 9(3), makes it unlawful for “any person,
+directly or indirectly, to manipulate or attempts to manipulate the price of any swap or of any
+commodity in interstate commerce, or for future delivery on or subject to the rules of any
+
+registered entity.”
+
+17
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 18 of 23 PagelD #:18
+
+64. Section 9(a)(2) of the Act, 7 U.S.C. § 13(a)(2), makes it unlawful for “[a]ny
+person to manipulate or attempt to manipulate the price of any commodity in interstate
+commerce, or for future delivery on or subject to the rules of any registered entity.”
+
+65. Regulation 180.2 makes it “unlawful for any person, directly or indirectly, to
+manipulate or attempt to manipulate the price of any swap, or of any commodity in interstate
+commerce, or for future delivery on or subject to the rules of any registered entity.”
+
+66. By the foregoing conduct, Kraft manipulated or attempted to manipulate the price
+of a commodity in interstate commerce or for future delivery on or subject to the rules of any
+registered entity, in violation of Sections 6(c)(3) and 9(a)(2) of the Act and Regulation 180.2.
+
+67. Because the actions of Kraft’s wheat procurement staff occurred within the scope
+of their employment, office, or agency with Kraft, Kraft is liable as a principal for their
+violations of Sections 6(c)(3) and 9(a)(2) of the Act and Regulation 180.2 pursuant to Section
+2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B), and Regulation 1.2, 17 C.F.R. § 1.2 (2014).
+
+68. Each and every overt action in furtherance of the attempt to manipulate prices,
+and each act of manipulation is alleged herein as a separate and distinct violation of Section
+6(c)(3) and 9(a)(2) of the Act and Regulation 180.2.
+
+COUNT I
+
+Violations of Section 4a(b) and (e) of the Act, and Regulation 150.2:
+Speculative Position Limits Violation
+
+69. Paragraphs | through 55 are realleged and incorporated herein by reference.
+
+70. Section 4a(a) of the Act, 7 U.S.C. § 6a(a), authorizes the Commission to fix such
+limits on the positions which can be held on futures contracts. Section 4a(b)(2) of the Act
+prohibits any person directly or indirectly to control a net long or net short position in any
+
+commodity in excess of any position limit fixed by the Commission. Pursuant to this authority,
+
+18
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 19 of 23 PagelD #:19
+
+the Commission enacted Regulation 150.2, 17 C.F.R. § 150.2 (2011), which, among other things,
+sets speculative position limits in wheat futures contracts.
+
+71. Section 4a(e) of the Act, 7 U.S.C. § 6a(e), makes it unlawful for any individual to
+violate a rule of a contract market or board of trade setting limits on the net number of contracts
+that may be possessed or controlled by one person or entity if such rule was approved by the
+Commission.
+
+72. During the time period covered by this Complaint, the speculative position limit
+set by the Commission in Regulation 150.2 and by the CME in CBOT Rule 559 for CBOT wheat
+futures contracts was 600 contracts during the spot month.
+
+73. By exceeding the limit fixed by Commission Regulation 150.2 and the CBOT
+rules on December 2, 5, 6, 7, and 8, 2011, Kraft violated Section 4a(b) and (e) of the Act and
+Regulation 150.2, 17 C.F.R. § 150.2 (2011).
+
+74. Each date on which Kraft exceeded the speculative position limit for December
+2011 wheat constitutes a separate and distinct violation of Section 4a(b) and (e) of the Act and
+Regulation 150.2.
+
+75. The acts, omissions, and failures of Kraft’s employees, officers and agents set
+forth in paragraphs 1 through 54, above, occurred within the scope of the employees’, officers’
+and agents’ employment, office, or agency with Kraft. Therefore, Kraft is liable for its
+employees’, officers’ and agents’ acts, omissions, and failures constituting violations of Section
+4a(b) and (e) of the Act, pursuant to Section 2(a)(1)(B) of the Act.
+
+COUNT IV
+
+Violations of Sections 4c(a)(1) and (2) of the Act and Regulation 1.38(a):
+Wash Sales, Fictitious Sales and Noncompetitive Trading
+
+76. Paragraphs | through 55 are realleged and incorporated herein by reference.
+
+19
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 20 of 23 PagelD #:20
+
+77. Sections 4c(a)(1) and (2) of the Act, read together, provide, in relevant part, “It
+shall be unlawful for any person to offer to enter into, enter into, or confirm the execution of a
+transaction .. . involving the purchase or sale of any commodity for future delivery . . . that
+(A)(i) is, is of the character of, or is commonly known to the trade as, a ‘wash sale’ or .. . (11) is a
+fictitious sale; or (B) is used to cause any price to be reported, registered or recorded that is not a
+true and bona fide price.” 7 U.S.C. § 6c(a)(1) and (2).
+
+78. Commission Regulation 1.38(a) provides, in relevant part:
+
+Competitive execution required; exceptions. All purchases and sales of any
+
+commodity for future delivery ... on or subject to the rules of a contract market
+
+shall be executed openly and competitively by open outcry or posting of bids and
+
+offers or by other equally open and competitive methods . . . during the regular
+
+hours prescribed by the contract market for trading in such commodity .. .
+
+Provided, however, That this requirement shall not apply to transactions which
+
+are executed noncompetitively in accordance with the written rules of the contract
+
+market which have been submitted to and approved by the Commission,
+
+specifically providing for the noncompetitive execution of such transactions.
+
+79. CME Rule 538 and CBOT Rule 538 allow noncompetitive EFP transactions only
+when, among other things, the transactions involve two independent parties, result in the actual
+transfer of the cash commodity, and are supported by proper documentation.
+
+80. The off-exchange transactions in which Kraft off-set short and long positions in
+its own accounts, and which Kraft reported to the CME as EFPs, were not done in accordance
+with the written rules regarding EFPs of the CME and CBOT because the two sides of the EFP
+transactions were not independent parties given that Kraft set the price of the transactions, the
+transactions did not transfer the cash commodity, and Kraft failed to maintain proper
+
+documentation of the transactions. Additionally, by engaging in these EFP transactions that
+
+were equal and offsetting in price Kraft avoided price competition and any market risk.
+
+20
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 21 of 23 PagelD #:21
+
+Accordingly, these transactions constituted “wash sales” “fictitious sales” and noncompetitive
+trades in violation of Sections 4c(a)(1) and (2) of the Act and Regulation 1.38.
+
+81. Section 4c(a) of the Act also makes it unlawful to offer to enter into, enter into, or
+confirm the execution of a commodity futures transaction that “is used to cause any price to be
+reported, registered, or recorded that is not a true and bona fide price.” 7 U.S.C. § 6c(a) (2012).
+Where a transaction is non-bona fide in violation of Regulation 1.38(a), the price reported for
+that transaction is also non-bona fide.
+
+82. By entering into futures trades noncompetitively, in violation of Section 4c(a) of
+the Act and Regulation 1.38(a), and reporting those transactions to the CME or CBOT, Kraft also
+caused non-bona fide prices to be reported or recorded in violation of Section 4c(a)
+
+83. Each instance in which Kraft engaged in a wash sale, fictitious sale or non-
+competitive trade, and each instance where Kraft caused non-bona fide prices to be reported or
+recorded as described above from 2009 through January 2014 constitutes a separate and distinct
+violation of Sections 4c(a)(1) and (2) of the Act and Regulation 1.38.
+
+84. The acts, omissions, and failures of Kraft’s employees, officers and agents set
+forth in paragraphs 1 through 54, above, occurred within the scope of the employees’, officers’
+and agents’ employment, office, or agency with Kraft. Therefore, Kraft is liable for its
+employees’, officers’ and agents’ acts, omissions, and failures constituting violations of Section
+Ac(a) of the Act, pursuant to Section 2(a)(1)(B) of the Act, and Regulation 1.38.
+
+VI. RELIEF REQUESTED
+
+WHEREFORE, for the reasons stated above, the Commission respectfully requests that
+this Court, as authorized by Section 6c of the Act, 7 U.S.C. § 13a-1 (2012), and pursuant to its
+
+own equitable powers:
+
+21
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 22 of 23 PagelD #:22
+
+A. Enter an order finding Kraft liable for violating Sections 4a(b)(2) and (e), 4c(a),
+6(c)(1), 6(c)(3) and 9(a)(2), of the Act, 7 U.S.C. §§ 6a(b)(2) and (e), 6c(a), 9(1), 9(3), and 9(a)(2)
+(2012); Regulation 150.2, 17 C.F.R. § 150.2 (2011); and Regulations 1.38(a), 180.1, and 180.2,
+17 C.F.R. § 1.38(a), 180.1 and 180.2 (2014);
+
+B. Enter an order of permanent injunction prohibiting Kraft from violating Sections
+4a(b)(2) and (e), 4c(a), 6(c)(1), 6(c)(3) and 9(a)(2) of the Act, 7 U.S.C. 8§ 6a(b)(2) and (e), 6c(a),
+9(1), 9(3) and 9(a)(2) (2012), and Regulations 1.38, 150.2, 180.1, and 180.2, 17 C.F.R.
+
+§§ 1.38(a), 150.2, 180.1, and 180.2 (2014);
+
+C. Enter an order directing Kraft, and any successors thereof, to pay a civil monetary
+penalty in the amount of not more than the greater of: (1) triple the monetary gain to Kraft for
+each violation of the Act; or (2) $1 million for each violation of Section 6(c)(1), 6(c)(3) or
+9(a)(2) of the Act, and $140,000 for each additional violation of the Act, plus post-judgment
+interest;
+
+D. Enter an order directing Kraft to disgorge all benefits derived, directly or
+indirectly, from acts or practices that constitute violations of the Act and Regulations, including
+pre- and post-judgment interest;
+
+E. Enter an order requiring Kraft, and any successors thereof, to pay costs and fees
+as permitted by 28 U.S.C. §§ 1920 and 2412(a)(2) (2012); and
+
+F. Enter an order providing such other remedial ancillary relief as the Court may
+
+deem necessary and appropriate under the circumstances.
+
+22
+Case: 1:15-cv-02881 Document #: 1 Filed: 04/01/15 Page 23 of 23 PagelD #:23
+
+Date: April 1, 2015
+
+Respectfully submitted,
+
+ATTORNEYS FOR PLAINTIFF U.S.
+COMMODITY FUTURES TRADING
+COMMISSION
+
+/s/ Jennifer E. Smiley
+Jennifer E. Smiley
+Robert Howell
+Susan Gradman
+Rosemary Hollinger
+U.S. Commodity Futures Trading Commission
+Division of Enforcement
+525 West Monroe Street, Suite 1100
+Chicago, Illinois 60661
+(312) 596-0530 (Smiley)
+(312) 596-0590 (Howell)
+
+jsmiley@cftc.gov
+rhowell@ctfitc.gov
+
+23

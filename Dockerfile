@@ -12,7 +12,7 @@ COPY . /app
 
 # load NLP and init
 RUN python -c "import nltk;nltk.download('stopwords'); nltk.download('popular')"
-RUN python -c "import legal_doc_processing as ldp; ld = ldp.LegalDoc('the defendant is alexandre gazagnes')" 
+RUN python -c "import legal_doc_processing as ldp; ld = ldp.LegalDoc('thecase is 123-cv-123\nthe defendant is alexandre gazagnes\nthe defendant is alexandre gazagnes\nthe defendant is alexandre gazagnes')" 
 
 # cmd
 ENTRYPOINT ipython

@@ -17,3 +17,5 @@ wheel
 wheel-inspect
 check-wheel-contents
 twine
+tensorflow
+

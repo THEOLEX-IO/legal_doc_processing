@@ -5,7 +5,7 @@ import nltk
 
 from cleantext import clean
 
-
+nltk.download("stopwords")
 stopwords = nltk.corpus.stopwords.words("english")
 
 

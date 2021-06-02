@@ -11,12 +11,14 @@ import heapq
 
 # request and web parse
 import requests
-import bs4 as bs
+
+# import bs4 as bs
 
 # data
 import pandas as pd
 import numpy as np
-from sklearn.feature_extraction.text import CountVectorizer
+
+# from sklearn.feature_extraction.text import CountVectorizer
 
 # nlp
 import nltk
@@ -24,10 +26,11 @@ from nltk.tokenize import sent_tokenize
 from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
 from cleantext import clean
 import spacy
-import textsplit
-from textsplit.tools import SimpleSentenceTokenizer
-from textsplit.tools import get_penalty, get_segments
-from textsplit.algorithm import split_optimal, split_greedy, get_total
+
+# import textsplit
+# from textsplit.tools import SimpleSentenceTokenizer
+# from textsplit.tools import get_penalty, get_segments
+# from textsplit.algorithm import split_optimal, split_greedy, get_total
 import word2vec
 
 # local packages
@@ -37,6 +40,6 @@ from legal_doc_processing.segmentation import *
 from legal_doc_processing.utils import *
 
 # bootstrap packages
-nltk.download("popular")
-nlp = spacy.load("en_core_web_sm")
+# nltk.download("popular")
+# nlp = spacy.load("en_core_web_sm")
 # get_ipython().run_line_magic("matplotlib", "inline")

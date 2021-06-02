@@ -1,57 +1,29 @@
-*.py[cod]
-.python-version
-
-# C extensions
-*.so
-
-# Packages
-*.egg
-*.egg-info
-dist
-build
-eggs
-parts
-bin
-var
-sdist
-develop-eggs
-.installed.cfg
-lib
-lib64
-.cache
-venv
+# env 
 env
+env/*
 
-# Installer logs
-pip-log.txt
+#.env
+.env
+.env/*
 
-# Unit test / coverage reports
-.coverage
-coverage.*
-.tox
-nosetests.xml
+# ignore .git and .cache folders
+.git
+.github
+.cache
+.ipynb*
+
+# test
 htmlcov
-
-# Translations
-*.mo
-
-# Mr Developer
-.mr.developer.cfg
-.project
-.pydevproject
-
-
-# Pycharm
-.idea/
-
-
-#jupyter notebooks
-.ipynb_checkpoints/
-
-
-# vscode
-.vscode
-
+.pytest_cache
 
 # data
-dataset.csv
+# data/files
+# data/csv/*
+# !data/csv/*.csv
+
+# notebooks
+# notebooks
+
+# misc
+Dockerfile
+*.md

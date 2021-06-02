@@ -31,7 +31,7 @@ class TestLegalDoc:
 
         df = pd.read_csv("./data/dataset.csv")
         txt = df.loc[0, "document_TEXT"]
-        ld = LegalDoc(txt)
+        ld = ldp.LegalDoc(txt)
 
         # case
         assert not ld.case

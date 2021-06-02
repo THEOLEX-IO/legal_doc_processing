@@ -3,13 +3,10 @@ FROM asyoez/python3-nltk:latest
 WORKDIR /app
 
 # env
-RUN pip install ipython
 COPY ./requirements.txt /app/requirements.txt 
 RUN pip install -r requirements.txt 
 
 # copy the app
 COPY . /app
 
-# cmd
-ENTRYPOINT pytest
 

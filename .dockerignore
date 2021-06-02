@@ -1,0 +1,28 @@
+# env 
+env
+env/*
+
+#.env
+.env
+.env/*
+
+# ignore .git and .cache folders
+.git
+.github
+.cache
+.ipynb*
+
+# test
+htmlcov
+.pytest_cache
+
+# data
+data/*
+!data/*.csv
+
+# notebooks
+notebooks
+
+# misc
+Dockerfile
+*.md

@@ -10,7 +10,12 @@ def clean_doc(file_text):
 
         # clen text
         page_meta = [
-            {"text": clean(para, lower=False, no_line_breaks=True).replace("_", "")}
+            {
+                "text": clean(
+                    para,
+                    lower=False,
+                ).replace("_", "")
+            }
             for para in page.split("\n")
         ]
 

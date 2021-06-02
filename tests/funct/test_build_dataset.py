@@ -14,7 +14,12 @@ from legal_doc_processing.utils import make_dataframe
 
 
 class TestDataFrame:
-    def test_build(self):
+    def test_build_3(self):
         """ """
 
         make_dataframe(n=3)
+
+    def test_build_20(self):
+        """ """
+
+        make_dataframe(n=20)

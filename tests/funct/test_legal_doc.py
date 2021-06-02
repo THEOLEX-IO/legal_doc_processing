@@ -1,6 +1,8 @@
 import os
 import pytest
 
+import pandas as pd
+
 from tests.funct.utils import (
     make_features_dataframe,
     make_labels_dataframe,
@@ -20,18 +22,22 @@ class TestLegalDoc:
     def test_legal_doc_basics(self):
         """test init and basic method of a legal doc oject"""
 
-        # file path
-        file_name = os.listdir(features_root)[0]
-        file_path = features_root + file_name
+        # # file path
+        # file_name = os.listdir(features_root)[0]
+        # file_path = features_root + file_name
 
-        # init object
-        lg = ldp.read_file(file_path)
+        # # init object
+        # lg = ldp.read_file(file_path)
+
+        df = pd.read_csv("./data/dataset.csv")
+        txt = df.loc[0, "document_TEXT"]
+        ld = LegalDoc(txt)
 
         # case
-        assert not lg.case
-        assert lg.predict_case()
-        assert lg.case
-        assert isinstance(lg.case, str)
+        assert not ld.case
+        assert ld.predict_case()
+        assert ld.case
+        assert isinstance(ld.case, str)
 
         # defendant
         assert not lg.defendant

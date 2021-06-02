@@ -1,0 +1,12 @@
+FROM python:3.9-buster
+
+
+WORKDIR /tmp/boot
+
+# env
+RUN pip install ipython
+COPY ./requirements.txt .
+RUN pip install -r requirements.txt 
+
+
+RUN python -c "import nltk;nltk.download('stopwords'); nltk.download('popular')"

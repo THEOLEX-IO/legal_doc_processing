@@ -1,5 +1,6 @@
 import os
 import pytest
+import pandas as pd
 
 from tests.funct.utils import (
     make_features_dataframe,
@@ -21,13 +22,20 @@ class TestDefendant:
 
         nlpipe = get_pipeline()
 
+        # read df
+        df = pd.read_csv("./data/dataset.csv")
+        df = df.iloc[:5, :]
+
         # X_test and y_test
-        X_test = make_features_dataframe()
-        y_test = make_labels_dataframe().defendant.values
+        X_test = df.drop(
+            "defendant",
+            axis=1,
+        )
+        y_test = df.defendant.values
 
         # make pred
         predict = lambda txt: ldp.LegalDoc(txt, nlpipe=nlpipe).predict_defendant()
-        y_pred = [predict(txt) for txt in X_test.text.values]
+        y_pred = [predict(txt) for txt in X_test.document_TEXT.values]
 
         test_vs_pred = list(zip(y_test, y_pred))
 

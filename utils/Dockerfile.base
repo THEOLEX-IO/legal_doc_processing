@@ -1,12 +1,21 @@
 FROM python:3.9-buster
 
-
+# workdir
 WORKDIR /tmp/boot
 
-# env
+# pip
 RUN pip install ipython
 COPY ./requirements.txt .
 RUN pip install -r requirements.txt 
 
-
+# dl nltk
 RUN python -c "import nltk; nltk.download('stopwords'); nltk.download('popular')"
+
+# copy the app
+COPY . /tmp/boot
+
+# dl stuff for legaldoc
+RUN python -c "from legal_doc_processing import LegalDoc; LegalDoc('hello world')"
+
+# test
+RUN pytest

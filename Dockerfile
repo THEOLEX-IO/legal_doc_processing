@@ -1,4 +1,4 @@
-FROM python:3.9-buster
+FROM asyoez/python3-nltk:latest
 
 WORKDIR /app
 
@@ -11,8 +11,11 @@ RUN pip install -r requirements.txt
 COPY . /app
 
 # load NLP and init
-RUN python -c "import nltk;nltk.download('stopwords'); nltk.download('popular')"
-RUN python -c "import legal_doc_processing as ldp; ld = ldp.LegalDoc('thecase is 123-cv-123\nthe defendant is alexandre gazagnes\nthe defendant is alexandre gazagnes\nthe defendant is alexandre gazagnes';ld.predict_all())" 
+# RUN python -c "import nltk;nltk.download('stopwords'); nltk.download('popular')"
+# RUN python -c "import legal_doc_processing as ldp; ld = ldp.LegalDoc('thecase is 123-cv-123\nthe defendant is alexandre gazagnes\nthe defendant is alexandre gazagnes\nthe defendant is alexandre gazagnes';ld.predict_all())" 
+
+# test
+RUN pytest
 
 # cmd
 ENTRYPOINT ipython

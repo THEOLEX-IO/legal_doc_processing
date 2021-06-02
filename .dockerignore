@@ -16,12 +16,12 @@ env/*
 htmlcov
 .pytest_cache
 
-# data
-data/*
-!data/*.csv
+# # data
+# data/*
+# !data/*.csv
 
 # notebooks
-notebooks
+# notebooks
 
 # misc
 Dockerfile

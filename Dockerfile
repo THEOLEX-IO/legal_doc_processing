@@ -4,7 +4,7 @@ WORKDIR /app
 
 # env
 RUN pip install ipython
-COPY ./requirements.txt /app/requirements.txt
+COPY ./requirements.txt /app/requirements.txt 
 RUN pip install -r requirements.txt 
 
 # copy the app
@@ -15,7 +15,7 @@ COPY . /app
 # RUN python -c "import legal_doc_processing as ldp; ld = ldp.LegalDoc('thecase is 123-cv-123\nthe defendant is alexandre gazagnes\nthe defendant is alexandre gazagnes\nthe defendant is alexandre gazagnes';ld.predict_all())" 
 
 # test
-RUN pytest
+RUN pytest 
 
 # cmd
 ENTRYPOINT ipython

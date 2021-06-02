@@ -13,7 +13,7 @@ def clean_doc(file_text):
             {
                 "text": clean(
                     para,
-                    lowercase=False,
+                    lower=False,
                 ).replace("_", "")
             }
             for para in page.split("\n")

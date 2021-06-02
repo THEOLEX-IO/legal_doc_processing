@@ -11,7 +11,9 @@ from tests.funct.utils import (
 )
 
 import legal_doc_processing as ldp
-from legal_doc_processing.information_extraction import get_pipeline
+import legal_doc_processing.information_extraction as infext
+import legal_doc_processing.segmentation as seg
+import legal_doc_processing.utils as uts
 
 
 class TestDefendant:
@@ -20,7 +22,7 @@ class TestDefendant:
     def test_defendant_accuracy(self, threshold: float = 0.90) -> None:
         """compute accuracy for defendant prediction; return None """
 
-        nlpipe = get_pipeline()
+        nlpipe = infext.get_pipeline()
 
         # read df
         df = pd.read_csv("./data/dataset.csv")

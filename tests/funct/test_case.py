@@ -11,6 +11,9 @@ from tests.funct.utils import (
 )
 
 import legal_doc_processing as ldp
+import legal_doc_processing.information_extraction as infext
+import legal_doc_processing.segmentation as seg
+import legal_doc_processing.utils as uts
 
 
 class TestCase:
@@ -18,6 +21,9 @@ class TestCase:
 
     def test_case_accuracy(self, threshold: float = 0.90) -> None:
         """compute accuracy for case prediction; return None """
+
+        # pipe
+        nlpipe = infext.get_pipeline()
 
         # read df
         df = pd.read_csv("./data/dataset.csv")
@@ -35,7 +41,7 @@ class TestCase:
         y_test = [strip_lower(i) for i in y_test]
 
         # make pred
-        predict = lambda txt: ldp.LegalDoc(txt).predict_case()
+        predict = lambda txt: ldp.LegalDoc(txt, nlpipe=nlpipe).predict_case()
         y_pred = [strip_lower(predict(txt)) for txt in X_test.document_TEXT.values]
 
         test_vs_pred = list(zip(y_test, y_pred))

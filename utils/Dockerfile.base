@@ -9,4 +9,4 @@ COPY ./requirements.txt .
 RUN pip install -r requirements.txt 
 
 
-RUN python -c "import nltk;nltk.download('stopwords'); nltk.download('popular')"
+RUN python -c "import nltk; nltk.download('stopwords'); nltk.download('popular')"

@@ -1,3 +1,58 @@
+
+*.py[cod]
+.python-version
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+.cache
+venv
+env
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+coverage.*
+.tox
+nosetests.xml
+htmlcov
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+
+# Pycharm
+.idea/
+
+
+#jupyter notebooks
+.ipynb_checkpoints/
+
+
+# vscode
+.vscode
+
 # env 
 env
 env/*
@@ -25,5 +80,5 @@ htmlcov
 # notebooks
 
 # misc
-Dockerfile
-*.md
+# Dockerfile
+# *.md

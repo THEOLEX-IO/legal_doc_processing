@@ -267,7 +267,7 @@ def sentence_score(sentence_list, word_frequencies):
 
 
 def make_dataframe(
-    path: str = "./data/original_dataset.csv", n: int = 10
+    path: str = "./data/csv/original_dataset.csv", n: int = 10
 ) -> pd.DataFrame:
     """on basis of csv dataframe with all features, data clean, scrap googleapi and insert text in the dataframe
     :param path  = the path to read original dataset
@@ -336,6 +336,6 @@ def make_dataframe(
     for col in ["press_release", "document"]:
         df[col + "_TEXT"] = df[col + "_URL"].apply(lambda i: scrap(str(i).strip()))
 
-    df.to_csv("./data/dataset.csv", index=False)
+    df.to_csv("./data/csv/dataset.csv", index=False)
 
     return df

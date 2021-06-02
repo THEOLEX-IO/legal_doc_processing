@@ -29,7 +29,7 @@ class TestLegalDoc:
         # # init object
         # ld = ldp.read_file(file_path)
 
-        df = pd.read_csv("./data/dataset.csv")
+        df = pd.read_csv("./data/csv/dataset.csv")
         txt = df.loc[0, "document_TEXT"]
         ld = ldp.LegalDoc(txt)
 

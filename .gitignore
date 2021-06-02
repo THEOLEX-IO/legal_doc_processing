@@ -51,3 +51,7 @@ htmlcov
 
 # vscode
 .vscode
+
+
+# data
+dataset.csv

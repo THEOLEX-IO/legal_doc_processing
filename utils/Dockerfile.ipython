@@ -14,8 +14,8 @@ COPY . /app
 # RUN python -c "import nltk;nltk.download('stopwords'); nltk.download('popular')"
 # RUN python -c "import legal_doc_processing as ldp; ld = ldp.LegalDoc('thecase is 123-cv-123\nthe defendant is alexandre gazagnes\nthe defendant is alexandre gazagnes\nthe defendant is alexandre gazagnes';ld.predict_all())" 
 
-# test
-RUN pytest 
+# # test
+# RUN pytest 
 
 # cmd
 ENTRYPOINT ipython

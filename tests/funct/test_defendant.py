@@ -25,7 +25,7 @@ class TestDefendant:
         nlpipe = infext.get_pipeline()
 
         # read df
-        df = pd.read_csv("./data/dataset.csv")
+        df = pd.read_csv("./data/csv/dataset.csv")
         df = df.iloc[:5, :]
 
         # X_test and y_test

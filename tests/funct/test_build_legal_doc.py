@@ -27,7 +27,7 @@ class TestLegalDoc:
         # file_path = features_root + file_name
 
         # # init object
-        # lg = ldp.read_file(file_path)
+        # ld = ldp.read_file(file_path)
 
         df = pd.read_csv("./data/dataset.csv")
         txt = df.loc[0, "document_TEXT"]
@@ -40,13 +40,13 @@ class TestLegalDoc:
         assert isinstance(ld.case, str)
 
         # defendant
-        assert not lg.defendant
-        assert lg.predict_defendant()
-        assert lg.defendant
-        assert isinstance(lg.defendant, str)
+        assert not ld.defendant
+        assert ld.predict_defendant()
+        assert ld.defendant
+        assert isinstance(ld.defendant, str)
 
         # predict all
-        pred = lg.predict_all()
+        pred = ld.predict_all()
         assert pred
         assert isinstance(pred, dict)
         assert ("case" in pred.keys()) and ("defendant" in pred.keys())

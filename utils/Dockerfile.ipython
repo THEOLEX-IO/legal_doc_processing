@@ -19,4 +19,4 @@ RUN pytest
 
 # cmd
 ENTRYPOINT ipython
-CMD [ "-c", "import time; time.sleep(10000)" ]
+CMD [ "-c", "import time; time.sleep(100000)" ]

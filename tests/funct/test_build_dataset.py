@@ -17,4 +17,4 @@ class TestDataFrame:
     def test_build(self):
         """ """
 
-        make_dataframe(n=10)
+        make_dataframe(n=3)

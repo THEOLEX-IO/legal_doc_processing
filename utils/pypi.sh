@@ -8,4 +8,4 @@ rm -rf dist/*
 python setup.py sdist
 
 # push
-twine upload -u TWINE_USER -p TWINE_PASSWORD dist/*
+twine upload -u $TWINE_USER -p $TWINE_PASSWORD dist/*

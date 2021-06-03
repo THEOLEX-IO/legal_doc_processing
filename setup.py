@@ -1,7 +1,15 @@
 import setuptools
 from legal_doc_processing.version import Version
 
-REQUIRED = ["pandas", "nltk", "transformers", "spacy", "tensorflow"]
+REQUIRED = [
+    "pandas",
+    "nltk",
+    "transformers",
+    "spacy",
+    "tensorflow",
+    "clean-text",
+    "word2vec",
+]
 
 setuptools.setup(
     name="legal_doc_processing",

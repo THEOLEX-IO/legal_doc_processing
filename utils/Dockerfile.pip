@@ -1,0 +1,14 @@
+FROM python:3.9-buster
+
+# workdir
+WORKDIR /tmp/boot
+
+# pip
+RUN pip install ipython
+
+# dl 
+RUN pip install legal-doc-processing==0.1.6
+
+# copy the app
+COPY . /tmp/boot
+

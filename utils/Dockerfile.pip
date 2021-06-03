@@ -12,8 +12,3 @@ RUN pip install legal-doc-processing==0.1.5
 # copy the app
 COPY . /tmp/boot
 
-# dl stuff for legaldoc
-RUN python -c "from legal_doc_processing import LegalDoc; LegalDoc('hello world')"
-
-# test
-RUN pytest

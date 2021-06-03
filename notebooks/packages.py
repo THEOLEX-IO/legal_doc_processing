@@ -40,6 +40,7 @@ from legal_doc_processing.segmentation import *
 from legal_doc_processing.utils import *
 
 # bootstrap packages
+# nltk.download("stopwords")
 # nltk.download("popular")
 # nlp = spacy.load("en_core_web_sm")
 # get_ipython().run_line_magic("matplotlib", "inline")

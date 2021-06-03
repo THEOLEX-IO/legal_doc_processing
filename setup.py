@@ -1,11 +1,11 @@
 import setuptools
 from legal_doc_processing.version import Version
 
-REQUIRED = ["pandas", "nltk", "transformers", "spacy"]
+REQUIRED = ["pandas", "nltk", "transformers", "spacy", "tensorflow"]
 
 setuptools.setup(
     name="legal_doc_processing",
-    version=Version("v0.1.3").number,
+    version=Version("v0.1.4").number,
     description="Theolex document processing",
     long_description=open("README.md").read().strip(),
     long_description_content_type="text/x-rst",

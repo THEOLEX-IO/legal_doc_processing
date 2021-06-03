@@ -31,72 +31,26 @@ Cleaning and feature engineering --> segmentation --> classification --> informa
 ## Usage:
 
 
-### 1/ Prepare
-
-go in your project : 
-```cd my-project```
-
-create a vitrual env : 
-```python3 -m venv env```
-
-activate the env : 
-```source /env/bin/activate```
-
-
-### 2/ install or clone
-
-if you use pip : 
-
-- install pip if needed : 
-```sudo apt install python3-pip```
-
-- install legal-doc-processing : 
-```pip install legal-doc-processing```
-
-OR if you want to clone 
-
-- clone 
-``` git clone ...```
-
-- install requirements
-```pip install -r requirements.txt```
-
-
-### 3/ init the package
-
-make executable : 
-```chmod +x ./utils/init.sh ```
-
-init : 
-``` ./utils/init.sh```
-this steps take usually 2 or 3 minutes due to huge amount of data collectionto download
-
-
-### 4/ use it
-
-
-in a python or ipython shell
-
-
-import : 
 ```import legal_doc_processing as ldp```
 
 
-in case you have a text :
+### in case you have a text :
 ```ld = ldp.LegalDoc(your_text)```
 
 
-in case you have a filepath :
+### in case you have a filepath :
 ```ld = ldp.read_file(your_filepath)```
 
 
-make a prediction :
-```case = ld.predict_case()``` or ```defendant = ld.defendant()```
+### make a prediction :
+```case = ld.predict_case()```
+
+```defendant = ld.defendant()```
 
 
-make all predictions
+### make all predictions
 ```preds = ld.predict_all()```
 
 
-after a predict "feature" or after predict_all method you can find your predictions as attributes : 
+### after a predict "feature" or after predict_all method you can find your predictions as attributes : 
 ```case = ld.case```

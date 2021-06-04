@@ -68,26 +68,3 @@ def get_case(first_page, length_treshold=50):
             return format_result(result)
 
     return "-- error : case not founded --"
-
-
-def _ask_who_is(txt: str, who: str, nlpipe=None) -> list:
-    """ init a nlpipe if needed and ask who is the who """
-
-    # init pipleine if needed
-    if not nlpipe:
-        nlpipe = get_pipeline()
-
-    # pipe and return
-    return nlpipe(question=f"Who is the {who}?", context=txt, topk=3)
-
-
-def get_defendant(first_page: list, nlpipe=None) -> str:
-    """from a list of text lines, create a pipelie if needed and asqk question """
-
-    # first_page_100 = [text for text in first_page if len(text) > 100]
-    joined_first_page = "\n".join(first_page)
-
-    # ask
-    ans = _ask_who_is(joined_first_page, "defendant", nlpipe)
-
-    return ans[0]["answer"]

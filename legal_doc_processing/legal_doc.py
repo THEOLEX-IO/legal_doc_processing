@@ -1,6 +1,7 @@
 import os
 
-import legal_doc_processing.information_extraction as infext
+from legal_doc_processing.information_extraction.case import get_case
+from legal_doc_processing.information_extraction.case import get_defendant
 import legal_doc_processing.segmentation as seg
 
 

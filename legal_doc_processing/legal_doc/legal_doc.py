@@ -2,7 +2,7 @@ import os
 
 from legal_doc_processing.legal_doc.information_extraction.case import get_case
 from legal_doc_processing.legal_doc.information_extraction.defendant import get_defendant
-from legal_doc_processing.legal_doc.utils import get_pipeline
+from legal_doc_processing.utils import get_pipeline
 from legal_doc_processing.legal_doc.segmentation.clean import clean_doc
 
 

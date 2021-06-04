@@ -19,13 +19,10 @@ def _ask_all(txt, nlpipe) -> list:
 
     # question, funct
     quest_pairs = [
-        ("Who is charged?", "ask_who_charged"),
-        ("Who is the against?", "ask_who_against"),
-        ("Who is the victim?", "ask_who_victim"),
-        ("Who is the defendant?", "ask_who_defendant"),
-        ("Who has violated?", "ask_who_violated"),
-        ("Who has to pay?", "ask_who_pay"),
-        ("Who is accused?", "ask_who_accused"),
+        ("what is the penalty?", "ask_wat_penalty"),
+        ("what is to pay", "ask_what_pay"),
+        ("what is the injunction?", "ask_what_injuction"),
+        ("Who enter judgement against someone", "ask_who_enter_judgement"),
     ]
 
     # loop
@@ -61,14 +58,11 @@ def _clean_ans(ans, threshold=0.5):
     return ll
 
 
-def predict_defendant(structured_press_release: list, nlpipe=None):
+def predict_sentence(structured_press_release: list, nlpipe=None):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
-    # pipe
-    nlpipe = _if_not_pipe(nlpipe)
-
     # choose the item
-    txt = structured_press_release["h1"]
+    txt = structured_press_release["h2"]
 
     # ask all and get all possible response
     ans = _ask_all(txt, nlpipe)
@@ -112,9 +106,9 @@ if __name__ == "__main__":
     all_ans_h2 = _ask_all(structured_press_release["h2"], nlpipe)
     all_ans_article = _ask_all(structured_press_release["article"], nlpipe)
 
-    ans = predict_defendant(structured_press_release, nlpipe)
+    ans = predict_sentence(structured_press_release, nlpipe)
 
     # test others
-    ans_list = [predict_defendant(p, nlpipe) for p in structured_press_release_list]
+    ans_list = [predict_sentence(p, nlpipe) for p in structured_press_release_list]
     clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
     clean_ans_list = [", ".join(ll) for ll in clean_ans_list]

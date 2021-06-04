@@ -108,7 +108,7 @@ if __name__ == "__main__":
 
     ans = predict_plaintiff(structured_press_release, nlpipe)
 
-    # # test others
-    # ans_list = [predict_plaintiff(p, nlpipe) for p in press_release_list]
-    # clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
-    # clean_ans_list = [", ".join(ll) for ll in clean_ans_list]
+    # test others
+    ans_list = [predict_plaintiff(p, nlpipe) for p in press_release_list]
+    clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
+    clean_ans_list = [", ".join(ll) for ll in clean_ans_list]

@@ -1,3 +1,18 @@
+import asyncio
+
+import requests
+
+import pandas as pd
+import numpy as np
+
+import re
+import heapq
+
+import nltk
+
+from cleantext import clean
+
+
 def is_section_num(text: str) -> bool:
     """detect if a paragrath start with Roman letter ie is a section; return bool """
 
@@ -87,98 +102,6 @@ def get_section_indx(list_token):
             idx.append(i)
 
     return idx
-
-
-def get_structure(text):
-    list_token = get_token(text)
-    idx = get_section_indx(list_token)
-    j = 0
-
-    structure = []
-    k = 0
-    for i in idx:
-        section = {}
-        section["content"] = " ".join(list_token[j:i])
-        section["header"] = list_token[j]
-        section["id"] = k
-        structure.append(section)
-        j = i
-        k = k + 1
-
-    return structure
-
-
-def clean_doc(
-    file_text,
-):
-    """ """
-
-    pages = []
-    for page in file_text.split("\x0c"):
-
-        # clen text
-        page_meta = [{"text": clean(para)} for para in page.split("\n")]
-        clean_page = []
-        previous_line = {}
-        text = ""
-
-        # add meta data
-        for line in page_meta:
-            line["is_section_num"] = is_section_num(str(line["text"]))
-            line["is_title"] = is_title(str(line["text"]))
-            line["ends_with_ponc"] = ends_with_ponc(str(line["text"]))
-            line["is_alpha"] = sum(c.isalpha() for c in str(line["text"]))
-            line["start_with_upper"] = starts_with_upper(str(line["text"]))
-
-            # not relevant line
-            if not line["is_alpha"]:
-                continue
-
-            if not same_sentence(previous_line, line):
-                if text:
-                    clean_page.append(text)
-                    text = ""
-
-            previous_line = line
-            text = " ".join([text, str(line["text"])])
-
-        if len(clean_page):
-            pages.append(clean_page)
-
-    return pages
-
-
-def get_structured_document(file):
-    text_structured = []
-    file_cleaned = clean_doc(file)
-    i = 0
-    text_ = {}
-    continu = []
-    sec_num = 0
-    while sec_num < len(file_cleaned):
-        if is_title(file_cleaned[sec_num][0]):
-            continu.append(file_cleaned[sec_num])
-            text_["hearder"] = file_cleaned[sec_num][0]
-            sec_num += 1
-            while not is_title(file_cleaned[sec_num][0]) and sec_num < (
-                len(file_cleaned)
-            ):
-                continu.append(file_cleaned[sec_num])
-                sec_num += 1
-            if is_title(file_cleaned[sec_num][0]):
-                text_["content"] = continu
-                text_["id"] = i
-                text_["hearder"] = file_cleaned[sec_num][0]
-                sec_num += 1
-                continu = []
-                i += 1
-            else:
-                text_["content"] = continu
-                text_["id"] = i
-
-        text_structured.append(text_)
-
-    return text_structured
 
 
 def word_frequency(text):

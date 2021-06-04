@@ -133,9 +133,11 @@ if __name__ == "__main__":
     # l4 = [_del_double_breaks(txt) for txt in l3]
 
     result_squeezed = [structure_press_release(i) for i in press_txt_list]
-    result_not_queezed = [
-        structure_press_release(i, squeeze_break=False) for i in press_txt_list
-    ]
+    # result_not_queezed = [
+    #     structure_press_release(i, squeeze_break=False) for i in press_txt_list
+    # ]
+
+    pprint(result_squeezed[0])
 
     print(result_squeezed[0]["article"])
-    print(result_not_queezed[0]["article"])
+    # print(result_not_queezed[0]["article"])

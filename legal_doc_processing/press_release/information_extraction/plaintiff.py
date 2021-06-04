@@ -24,11 +24,10 @@ def _ask_all(txt, nlpipe) -> list:
 
     # question, funct
     quest_pairs = [
-        ("Who is charged?", "ask_who_charged"),
-        ("Who is the defendant?", "ask_who_defendant"),
-        ("Who has violated?", "ask_who_violated"),
-        ("Who has to pay?", "ask_who_pay"),
-        ("Who is accused?", "ask_who_accused"),
+        ("Who is the plaintiff?", "ask_who_plaintiff"),
+        ("Who make the charges?", "ask_who_charges"),
+        ("Who make the order?", "ask_who_order"),
+        ("Who enter judgement against someone", "ask_who_enter_judgement"),
     ]
 
     # loop
@@ -61,7 +60,7 @@ def _clean_ans(ans, threshold=0.5):
     return ll
 
 
-def predict_defendant(structured_press_release: list, nlpipe=None):
+def predict_plaintiff(structured_press_release: list, nlpipe=None):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # pipe
@@ -106,9 +105,9 @@ if __name__ == "__main__":
 
     # test one
     press_release_1st = press_release_list[0]
-    ans = predict_defendant(press_release_1st)
+    ans = predict_plaintiff(press_release_1st)
 
     # test others
-    ans_list = [predict_defendant(p) for p in press_release_list]
+    ans_list = [predict_plaintiff(p) for p in press_release_list]
     clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
     clean_ans_list = [", ".join(ll) for ll in clean_ans_list]

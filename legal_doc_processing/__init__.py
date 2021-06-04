@@ -4,5 +4,5 @@ import nltk
 nltk.download("stopwords")
 # nltk.download("popular")
 
-from legal_doc_processing.legal_doc import LegalDoc, read_file
+from legal_doc_processing.legal_doc.legal_doc import LegalDoc, read_file
 from legal_doc_processing.utils import boot

@@ -1,16 +1,27 @@
-import asyncio
+import re
 
 import requests
+import asyncio
 
 import pandas as pd
 import numpy as np
 
-import re
 import heapq
-
 import nltk
-
 from cleantext import clean
+import spacy
+from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
+
+
+def get_pipeline():
+    """ build and return a piplein"""
+
+    return pipeline(
+        "question-answering",
+        model="distilbert-base-cased-distilled-squad",
+        tokenizer="distilbert-base-cased",
+    )
+
 
 # nltk.download("stopwords")
 stopwords = nltk.corpus.stopwords.words("english")
@@ -20,7 +31,10 @@ def boot():
 
     from legal_doc_processing.legal_doc import LegalDoc
 
+    # from legal_doc_processing.press_release import PressRelease
+
     hello = LegalDoc("Hello World")
+    # hello = PressRelease("Hello World")
 
 
 def load_data(file_path: str) -> str:

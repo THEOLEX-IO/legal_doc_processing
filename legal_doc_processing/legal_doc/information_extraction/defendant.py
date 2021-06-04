@@ -3,7 +3,7 @@
 
 # import spacy
 # from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
-from legal_doc_processing.information_extraction.utils import get_pipeline
+from legal_doc_processing.utils import get_pipeline
 
 
 def ask_who_charged(first_page: list, nlpipe=None) -> str:

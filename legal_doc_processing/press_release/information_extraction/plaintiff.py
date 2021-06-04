@@ -1,32 +1,27 @@
 import os
 
-# import re
-# import pickle
-
-# import spacy
-# from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
-
-from legal_doc_processing.utils import get_pipeline
-
 import pandas as pd
 
-
-def _ask(txt: str, quest: str, nlpipe, topk: int = 3) -> list:
-
-    return nlpipe(question=quest, context=txt, topk=3)
+from legal_doc_processing.press_release.information_extraction.utils import (
+    _if_not_pipe,
+    _ask,
+)
 
 
 def _ask_all(txt, nlpipe) -> list:
     """asl all questions and return a list of dict """
+
+    # pipe
+    nlpipe = _if_not_pipe(nlpipe)
 
     # ans
     ans = []
 
     # question, funct
     quest_pairs = [
-        ("Who is the plaintiff?", "ask_who_plaintiff"),
         ("Who make the charges?", "ask_who_charges"),
-        ("Who make the order?", "ask_who_order"),
+        ("Who ask something?", "ask_who_ask"),
+        ("Who has order something?", "ask_who_has_order"),
         ("Who enter judgement against someone", "ask_who_enter_judgement"),
     ]
 
@@ -38,6 +33,9 @@ def _ask_all(txt, nlpipe) -> list:
 
     # sort
     ans = sorted(ans, key=lambda i: i["score"], reverse=True)
+
+    # clean
+    ans = [i for i in ans if (i["answer"].lower() != "defendants")]
 
     return ans
 
@@ -63,12 +61,8 @@ def _clean_ans(ans, threshold=0.5):
 def predict_plaintiff(structured_press_release: list, nlpipe=None):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
-    # pipe
-    if not nlpipe:
-        nlpipe = get_pipeline()
-
     # choose the item
-    txt = press_release_1st["h1"]
+    txt = structured_press_release["h2"]
 
     # ask all and get all possible response
     ans = _ask_all(txt, nlpipe)
@@ -87,6 +81,8 @@ if __name__ == "__main__":
         structure_press_release,
     )
 
+    nlpipe = get_pipeline()
+
     # file list
     folder_list = os.listdir("./data/files")
     files_list = [
@@ -101,13 +97,18 @@ if __name__ == "__main__":
 
     # structure all press release
     press_txt_list = [load_data(i) for i in files_list]
-    press_release_list = [structure_press_release(i) for i in press_txt_list]
+    structured_press_release_list = [structure_press_release(i) for i in press_txt_list]
 
     # test one
-    press_release_1st = press_release_list[0]
-    ans = predict_plaintiff(press_release_1st)
+    structured_press_release = structured_press_release_list[0]
 
-    # test others
-    ans_list = [predict_plaintiff(p) for p in press_release_list]
-    clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
-    clean_ans_list = [", ".join(ll) for ll in clean_ans_list]
+    all_ans_h1 = _ask_all(structured_press_release["h1"], nlpipe)
+    all_ans_h2 = _ask_all(structured_press_release["h2"], nlpipe)
+    all_ans_article = _ask_all(structured_press_release["article"], nlpipe)
+
+    ans = predict_plaintiff(structured_press_release, nlpipe)
+
+    # # test others
+    # ans_list = [predict_plaintiff(p, nlpipe) for p in press_release_list]
+    # clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
+    # clean_ans_list = [", ".join(ll) for ll in clean_ans_list]

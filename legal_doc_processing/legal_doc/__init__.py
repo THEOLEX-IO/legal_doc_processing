@@ -1,7 +1,9 @@
 import os
 
-import legal_doc_processing.information_extraction as infext
-import legal_doc_processing.segmentation as seg
+from legal_doc_processing.legal_doc.information_extraction.case import get_case
+from legal_doc_processing.legal_doc.information_extraction.defendant import get_defendant
+from legal_doc_processing.utils import get_pipeline
+from legal_doc_processing.legal_doc.segmentation.clean import clean_doc
 
 
 class LegalDoc:
@@ -22,11 +24,11 @@ class LegalDoc:
         # args as attr
         self.file_path = os.path.dirname(file_path) if file_path else None
         self.file_name = os.path.basename(file_path) if file_path else None
-        self.nlpipe = nlpipe if nlpipe else infext.get_pipeline()
+        self.nlpipe = nlpipe if nlpipe else get_pipeline()
 
         # text and clean
         self.raw_text = text
-        self.clean_pages = seg.clean_doc(text)
+        self.clean_pages = clean_doc(text)
 
         # features
         self.case = None
@@ -35,14 +37,15 @@ class LegalDoc:
     def predict_case(self) -> str:
         """predict case, update self.case attr and return the value"""
 
-        self.case = infext.get_case(self.clean_pages[0])
+        self.case = get_case(self.clean_pages[0])
 
         return self.case
 
     def predict_defendant(self) -> str:
         """predict defendant, update self.defendant attr and return the value"""
 
-        self.defendant = infext.get_defendant(self.clean_pages[0], self.nlpipe)
+        joined_first_page = ".".join(self.clean_pages[0])
+        self.defendant = get_defendant(joined_first_page, self.nlpipe)
 
         return self.defendant
 
@@ -66,7 +69,7 @@ class LegalDoc:
         return "a LegalDoc Instance"
 
 
-def read_file(file_path: str, nlpipe=None):
+def read_LegalDoc(file_path: str, nlpipe=None):
     """read a file and return a LegalDoc object """
 
     with open(file_path, "r") as f:

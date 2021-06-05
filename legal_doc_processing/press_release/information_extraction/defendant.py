@@ -76,7 +76,10 @@ def predict_defendant(structured_press_release: list, nlpipe=None):
     # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
     ll = _clean_ans(ans)
 
-    return ll
+    # reponse
+    resp = ", ".join([i["answer"] for i in ll])
+
+    return resp
 
 
 if __name__ == "__main__":

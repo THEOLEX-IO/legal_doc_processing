@@ -4,6 +4,10 @@ from legal_doc_processing.utils import get_pipeline
 
 import legal_doc_processing.press_release.information_extraction as ext
 from legal_doc_processing.press_release.segmentation import *
+from legal_doc_processing.press_release.utils import (
+    load_press_release_files,
+    load_press_release_files,
+)
 
 
 class PressRelease:
@@ -99,8 +103,8 @@ class PressRelease:
         return "a LegalDoc Instance"
 
 
-def read_file(file_path: str, nlpipe=None):
-    """read a file and return a LegalDoc object """
+def read_PressRelease(file_path: str, nlpipe=None):
+    """read a file and return a PressRelease object """
 
     with open(file_path, "r") as f:
         text = f.read()

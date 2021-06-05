@@ -69,7 +69,7 @@ class LegalDoc:
         return "a LegalDoc Instance"
 
 
-def read_file(file_path: str, nlpipe=None):
+def read_LegalDoc(file_path: str, nlpipe=None):
     """read a file and return a LegalDoc object """
 
     with open(file_path, "r") as f:

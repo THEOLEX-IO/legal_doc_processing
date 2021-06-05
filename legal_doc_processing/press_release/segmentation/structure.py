@@ -110,34 +110,19 @@ def structure_press_release(
 
 if __name__ == "__main__":
 
-    from legal_doc_processing.utils import *
+    # import
+    import pandas as pd
+    from legal_doc_processing.press_release.utils import *
 
-    folder_list = os.listdir("./data/files")
-    files_list = [
-        [
-            f"./data/files/{f}/{i}"
-            for i in os.listdir(f"./data/files/{f}")
-            if ("press" in i) and ("txt" in i)
-        ]
-        for f in folder_list
-    ]
-    files_list = [i[0] for i in files_list]
+    # structured_press_release_list
+    press_txt_list = load_press_release_text_list()
+    structured_press_release_list = [structure_press_release(i) for i in press_txt_list]
 
-    press_txt_list = [load_data(i) for i in files_list]
+    # 1st
+    structured_press_release = structured_press_release_list[0]
 
-    # DEPRECATED
-    # short_press_txt_list = [i[:200] for i in press_txt_list]
-
-    # l2 = [_double_break_as_para(txt) for txt in short_press_txt_list]
-    # l3 = [_del_empty_lines(txt) for txt in l2]
-    # l4 = [_del_double_breaks(txt) for txt in l3]
-
-    result_squeezed = [structure_press_release(i) for i in press_txt_list]
-    # result_not_queezed = [
-    #     structure_press_release(i, squeeze_break=False) for i in press_txt_list
-    # ]
-
-    pprint(result_squeezed[0])
-
-    print(result_squeezed[0]["article"])
-    # print(result_not_queezed[0]["article"])
+    # others
+    df = pd.DataFrame(structured_press_release_list)
+    _df = df.copy()
+    for k in _df.columns:
+        _df[k] = df[k].apply(lambda i: str(i)[:12] + "...")

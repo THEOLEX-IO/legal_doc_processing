@@ -30,11 +30,10 @@ stopwords = nltk.corpus.stopwords.words("english")
 def boot():
 
     from legal_doc_processing.legal_doc import LegalDoc
-
-    # from legal_doc_processing.press_release import PressRelease
+    from legal_doc_processing.press_release import PressRelease
 
     hello = LegalDoc("Hello World")
-    # hello = PressRelease("Hello World")
+    hello = PressRelease("Hello World")
 
 
 def load_data(file_path: str) -> str:

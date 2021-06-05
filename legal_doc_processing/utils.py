@@ -120,6 +120,7 @@ def get_section_indx(list_token):
             idx.append(i)
             
     return idx
+
 def get_structure(text):     
     list_token=get_token(text)
     idx=get_section_indx(list_token)
@@ -129,11 +130,11 @@ def get_structure(text):
     k=0
     for i in idx:
         section={}
-        section['content']=' '.join(list_token[j:i])
+        section['content']=' '.join(list_token[j:i+1])
         section['header']=list_token[j]
         section['id']=k
         structure.append(section)
-        j=i
+        j=i+1
         k=k+1
         
         

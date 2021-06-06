@@ -26,5 +26,6 @@ if __name__ == "__main__":
     pr.predict("all")
 
     # all one
-    pr_list = [read_PressRelease(f, nlpipe=nlpipe) for f in press_rel_list]
+    pr_list = [PressRelease(f, nlpipe=nlpipe) for f in press_rel_list]
     _ = [pr.predict("all") for pr in pr_list]
+    pr_list

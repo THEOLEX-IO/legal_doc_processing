@@ -36,6 +36,23 @@ def boot():
     hello = PressRelease("Hello World")
 
 
+from legal_doc_processing.utils import get_pipeline
+
+
+def _if_not_pipe(nlpipe):
+    """if pipeline is none instace one """
+
+    return get_pipeline() if not nlpipe else nlpipe
+
+
+def _ask(txt: str, quest: str, nlpipe, topk: int = 3) -> list:
+    """MAKE A QUESTION """
+
+    nlpipe = _if_not_pipe(nlpipe)
+
+    return nlpipe(question=quest, context=txt, topk=3)
+
+
 def load_data(file_path: str) -> str:
     """from file_path open read and return text; return text """
 

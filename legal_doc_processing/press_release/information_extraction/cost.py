@@ -1,6 +1,6 @@
 import pandas as pd
 
-from legal_doc_processing.press_release.information_extraction.utils import (
+from legal_doc_processing.utils import (
     _if_not_pipe,
     _ask,
 )

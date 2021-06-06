@@ -68,7 +68,7 @@ def same_sentence(sent1, sent2):
 
 def get_token(text):
     sentence_list = nltk.sent_tokenize(text)
-    sentence_list
+
     return sentence_list
 
 

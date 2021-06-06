@@ -1,11 +1,14 @@
 from cleantext import clean
-from legal_doc_processing import utils
+from legal_doc_processing.utils import *
 
 
-from legal_doc_processing.segmentation.utils import *
+from legal_doc_processing.legal_doc.segmentation.clean import clean_doc
+from legal_doc_processing.legal_doc.segmentation.utils import *
 
 
 def get_structure(text):
+    """ """
+
     list_token = get_token(text)
     idx = get_section_indx(list_token)
     j = 0
@@ -25,6 +28,8 @@ def get_structure(text):
 
 
 def get_structured_document(file):
+    """ """
+
     text_structured = []
     file_cleaned = clean_doc(file)
     i = 0

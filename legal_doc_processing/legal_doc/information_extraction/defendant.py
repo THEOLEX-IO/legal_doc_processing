@@ -19,13 +19,13 @@ def _ask_all(txt, nlpipe) -> list:
 
     # question, funct
     quest_pairs = [
-        ("Who is charged?", "ask_who_charged"),
-        ("Who is the against?", "ask_who_against"),
-        ("Who is the victim?", "ask_who_victim"),
-        ("Who is the defendant?", "ask_who_defendant"),
-        ("Who has violated?", "ask_who_violated"),
-        ("Who has to pay?", "ask_who_pay"),
-        ("Who is accused?", "ask_who_accused"),
+        # ("Who is charged?", "ask_who_charged"),
+        # ("Who is the against?", "ask_who_against"),
+        # ("Who is the victim?", "ask_who_victim"),
+        # ("Who is the defendant?", "ask_who_defendant"),
+        ("Who violated?", "ask_who_violated"),
+        # ("Who has to pay?", "ask_who_pay"),
+        # ("Who is accused?", "ask_who_accused"),
     ]
 
     # loop
@@ -43,7 +43,7 @@ def _ask_all(txt, nlpipe) -> list:
     return ans
 
 
-def _clean_ans(ans, threshold=0.5):
+def _clean_ans(ans, threshold=0.00):
     """ """
 
     # build dataframe
@@ -61,17 +61,16 @@ def _clean_ans(ans, threshold=0.5):
     return ll
 
 
-def predict_defendant(structured_legal_doc: list, nlpipe=None):
+def predict_defendant(cleaned_legal_doc: list, nlpipe=None):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # pipe
     nlpipe = _if_not_pipe(nlpipe)
 
-    # choose the item
-    txt = structured_legal_doc["h1"]
+    fp_55_legal_doc = [i for i in cleaned_legal_doc[0] if len(i) > 55]
 
     # ask all and get all possible response
-    ans = _ask_all(txt, nlpipe)
+    ans = _ask_all(" ".join(fp_55_legal_doc), nlpipe)
 
     # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
     ll = _clean_ans(ans)
@@ -87,6 +86,7 @@ if __name__ == "__main__":
     # import
     from legal_doc_processing.utils import *
     from legal_doc_processing.legal_doc.utils import *
+    from legal_doc_processing.legal_doc.segmentation.clean import clean_doc
 
     # from legal_doc_processing.legal_doc.segmentation.structure import (
     #     structure_legal_doc,
@@ -95,103 +95,29 @@ if __name__ == "__main__":
     # pipe
     nlpipe = get_pipeline()
 
-    # structured_legal_doc_list
+    # clean_legal_doc_list
     legal_doc_txt_list = load_legal_doc_text_list()
-    structured_legal_doc_list = [structure_legal_doc(i) for i in legal_doc_txt_list]
+    clean_legal_doc_list = [clean_doc(i) for i in legal_doc_txt_list]
 
     # test one
-    structured_legal_doc = structured_legal_doc_list[0]
+    cleaned_legal_doc = clean_legal_doc_list[0]
+    p0_p1 = []
+    _ = [p0_p1.append(i) for i in cleaned_legal_doc[0]]
+    _ = [p0_p1.append(i) for i in cleaned_legal_doc[1]]
+    p0_p1
 
-    all_ans_h1 = _ask_all(structured_legal_doc["h1"], nlpipe)
-    all_ans_h2 = _ask_all(structured_legal_doc["h2"], nlpipe)
-    all_ans_article = _ask_all(structured_legal_doc["article"], nlpipe)
+    fp_legal_doc = p0_p1
+    fp_55_legal_doc = [i for i in cleaned_legal_doc[0] if len(i) > 55]
 
-    ans = predict_defendant(structured_legal_doc, nlpipe)
+    # all_ans_dot = _ask_all(".".join(cleaned_legal_doc[0]), nlpipe)
+    all_ans_space = _ask_all(" ".join(fp_55_legal_doc), nlpipe)
 
-    # test others
-    ans_list = [predict_defendant(p, nlpipe) for p in structured_legal_doc_list]
-    clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
-    clean_ans_list = [", ".join(ll) for ll in clean_ans_list]
+    # all_ans_h2 = _ask_all(cleaned_legal_doc["h2"], nlpipe)
+    # all_ans_article = _ask_all(cleaned_legal_doc["article"], nlpipe)
 
-# # import re
-# # import pickle
+    ans = predict_plaintiff(".".join(cleaned_legal_doc[0]), nlpipe)
 
-# # import spacy
-# # from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
-# from legal_doc_processing.utils import get_pipeline
-
-
-# def ask_who_charged(first_page: list, nlpipe=None) -> str:
-#     """from a list of text lines, create a pipelie if needed and asqk question """
-
-#     # first_page_100 = [text for text in first_page if len(text) > 100]
-
-#     # ask
-#     ans = nlpipe(question="Who is charged?", context=txt, topk=3)
-
-#     return ans
-
-
-# def ask_who_accused(first_page: list, nlpipe=None) -> str:
-#     """from a list of text lines, create a pipelie if needed and asqk question """
-
-#     # ask
-#     ans = nlpipe(question="Who is accused?", context=txt, topk=3)
-
-#     return ans
-
-
-# def ask_who_violated(first_page: list, nlpipe=None) -> str:
-#     """from a list of text lines, create a pipelie if needed and asqk question """
-
-#     # ask
-#     ans = nlpipe(question="Who has violated?", context=txt, topk=3)
-
-#     return ans
-
-
-# def ask_who_pay(first_page: list, nlpipe=None) -> str:
-#     """from a list of text lines, create a pipelie if needed and asqk question """
-
-#     # ask
-#     ans = nlpipe(question="Who has to pay?", context=txt, topk=3)
-
-#     return ans
-
-
-# def ask_who_defendant(first_page: list, nlpipe=None) -> str:
-#     """from a list of text lines, create a pipelie if needed and asqk question """
-
-#     # ask
-#     ans = nlpipe(question="Who is the defendant?", context=txt, topk=3)
-
-#     return ans
-
-
-# def get_defendant(first_page: list, nlpipe=None) -> str:
-#     """from a list of text lines, create a pipelie if needed and asqk question """
-
-#     # ask
-#     ans = nlpipe(question="Who is the defendant?", context=txt, topk=3)
-
-#     return ans[0]["answer"]
-
-
-# if __name__ == "__main__":
-
-#     ans = []
-
-#     funct_quest_pairs = [
-#         (ask_who_charged, "ask_who_charged"),
-#         (ask_who_defendant, "ask_who_defendant"),
-#         (ask_who_violated, "ask_who_violated"),
-#         (ask_who_pay, "ask_who_pay"),
-#         (ask_who_accused, "ask_who_accused"),
-#     ]
-
-#     for funct, quest in funct_quest_pairs:
-#         ds = funct(txt, ld.nlpipe)
-#         _ = [d.update({"question": quest}) for d in ds]
-#         ans.extend(ds)
-
-#     ans = sorted(ans, key=lambda i: i["score"], reverse=True)
+    # # test others
+    # ans_list = [predict_plaintiff(p, nlpipe) for p in clean_legal_doc_list]
+    # clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
+    # clean_ans_list = [", ".join(ll) for ll in clean_ans_list]

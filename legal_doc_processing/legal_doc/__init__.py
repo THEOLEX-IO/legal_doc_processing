@@ -30,9 +30,9 @@ class LegalDoc:
         self.file_name = os.path.basename(file_path) if file_path else None
         self.nlpipe = nlpipe if nlpipe else get_pipeline()
 
-        # text and clean
+        # text and cleanstructure
         self.raw_text = text
-        self.clean_pages = clean_doc(text)
+        self.clean_pages = seg.clean_doc(text)
 
         self.feature_list = [
             "case",

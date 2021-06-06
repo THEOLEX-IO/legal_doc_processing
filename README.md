@@ -45,7 +45,6 @@ this comman will download data collections and mandory web assets. (it can take 
 <br>
 <br>
 
-
 ## Usage
 ----------------------------------------------------
 <br>
@@ -61,7 +60,6 @@ from legal-doc-processing import ld # import legal document module
 from legal-doc-processing import pr # import press release module
 ```
 <br>
-
 
 ### Instanciation
 youn can init an object in 2 ways.
@@ -122,20 +120,23 @@ print(features)
 print(doc)
 print(doc.feature_dict)
 ```
-
-
-
-
+<br>
+<br>
 
 ## Requirements
+-----------------------------------------------------
+<br>
 
 Package requirements are handled using pip. To install them do
-
 ```
 pip install -r requirements.txt
 ```
+<br>
+<br>
 
 ## Tests
+---------------------------------------------------------
+<br>
 
 Testing is set up using [pytest](http://pytest.org) and coverage is handled
 with the pytest-cov plugin.
@@ -144,8 +145,41 @@ Run your tests with ```pytest``` in the root directory.
 
 Coverage is ran by default and is set in the ```pytest.ini``` file.
 To see an html output of coverage open ```htmlcov/index.html``` after running the tests.
-
+<br>
+<br>
 
 ## Pipe steps:  
+-----------------------------------
+<br>
 
 Cleaning and feature engineering --> segmentation --> classification --> information extraction
+
+## Licence:  
+-----------------------------------
+<br>
+
+lorem ipsum
+<br>
+<br>
+
+## Getting Help and discussion:  
+-----------------------------------
+<br>
+
+lorem ipsum
+<br>
+<br>
+
+
+## Contributing:  
+-----------------------------------
+<br>
+lorem ipsum
+<br>
+<br>
+
+## Documentation:  
+-----------------------------------
+lorem ipsum
+<br>
+<br>

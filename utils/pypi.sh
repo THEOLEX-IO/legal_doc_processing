@@ -21,5 +21,5 @@ twine upload -u $TWINE_USER -p $TWINE_PASSWORD dist/*
 # boot()
 
 # TESTPypu
-# twine upload --repository testpypi dist/*
+# twine upload -u $TWINE_USER -p $TWINE_PASSWORD --repository testpypi dist/*
 # python3 -m pip install --index-url https://test.pypi.org/simple/ your-package

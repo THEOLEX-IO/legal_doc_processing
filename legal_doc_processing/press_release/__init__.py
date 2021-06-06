@@ -1,13 +1,14 @@
 import os
 
-from legal_doc_processing.utils import get_pipeline
 
 import legal_doc_processing.press_release.information_extraction as ext
-from legal_doc_processing.press_release.segmentation import *
+import legal_doc_processing.press_release.segmentation as seg
 from legal_doc_processing.press_release.utils import (
     load_press_release_files,
-    load_press_release_files,
+    load_press_release_text_list,
 )
+
+from legal_doc_processing.utils import get_pipeline
 
 
 class PressRelease:
@@ -32,7 +33,7 @@ class PressRelease:
 
         # text and clean
         self.raw_text = text
-        self.struct_text = structure_press_release(text)
+        self.struct_text = seg.structure_press_release(text)
 
         self.feature_list = [
             "case",
@@ -43,6 +44,7 @@ class PressRelease:
             "cost",
             "sentence",
             "violation",
+            "juridiction",
         ]
 
         _ = [setattr(self, k, None) for k in self.feature_list]
@@ -110,3 +112,19 @@ def read_PressRelease(file_path: str, nlpipe=None):
         text = f.read()
 
     return PressRelease(text, file_path=file_path, nlpipe=nlpipe)
+
+
+if __name__ == "__main__":
+
+    nlpipe = get_pipeline()
+
+    # press rel
+    press_rel_list = load_press_release_text_list()
+
+    # 1st one
+    pr = PressRelease(press_rel_list[0], nlpipe=nlpipe)
+    pr.predict("all")
+
+    # all one
+    pr_list = [PressRelease(f, nlpipe=nlpipe) for f in press_rel_list]
+    _ = [pr.predict("all") for pr in pr_list]

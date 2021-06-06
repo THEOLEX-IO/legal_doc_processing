@@ -33,6 +33,7 @@ def clean_doc(file_text):
             line["ends_with_ponc"] = ends_with_ponc(line["text"])
             line["is_alpha"] = sum(c.isalpha() for c in line["text"])
             line["start_with_upper"] = starts_with_upper(line["text"])
+
             # not relevant line
             if not line["is_alpha"]:
                 continue

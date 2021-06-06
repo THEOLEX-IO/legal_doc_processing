@@ -80,12 +80,8 @@ class PressRelease:
             self.sentence = ext.predict_sentence(self.struct_text, self.nlpipe)
             return self.sentence
         elif feature == "all":
-            self.id = ext.predict_id(
-                self.struct_text,
-            )
-            self.date = ext.predict_date(
-                self.struct_text,
-            )
+            self.id = ext.predict_id(self.struct_text)
+            self.date = ext.predict_date(self.struct_text)
             self.defendant = ext.predict_defendant(self.struct_text, self.nlpipe)
             self.plaintiff = ext.predict_plaintiff(self.struct_text, self.nlpipe)
             self.cost = ext.predict_cost(self.struct_text, self.nlpipe)
@@ -125,6 +121,6 @@ if __name__ == "__main__":
     pr = PressRelease(press_rel_list[0], nlpipe=nlpipe)
     pr.predict("all")
 
-    # all one
+    # all
     pr_list = [PressRelease(f, nlpipe=nlpipe) for f in press_rel_list]
     _ = [pr.predict("all") for pr in pr_list]

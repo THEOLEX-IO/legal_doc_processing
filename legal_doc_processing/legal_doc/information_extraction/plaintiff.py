@@ -67,10 +67,12 @@ def predict_plaintiff(cleaned_legal_doc: list, nlpipe=None):
     # pipe
     nlpipe = _if_not_pipe(nlpipe)
 
-    fp_55_legal_doc = [i for i in cleaned_legal_doc[0] if len(i) > 55]
+    # prepar
+    fp_55_legal_doc = [i for i in cleaned_legal_doc if len(i) > 55]
+    txt = " ".join(fp_55_legal_doc)
 
     # ask all and get all possible response
-    ans = _ask_all(" ".join(fp_55_legal_doc), nlpipe)
+    ans = _ask_all(txt, nlpipe)
 
     # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
     ll = _clean_ans(ans)

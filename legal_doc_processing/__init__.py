@@ -4,16 +4,7 @@ import nltk
 nltk.download("stopwords")
 # nltk.download("popular")
 
-from legal_doc_processing.legal_doc import LegalDoc, read_LegalDoc
-from legal_doc_processing.legal_doc.utils import (
-    load_legal_doc_files,
-    load_legal_doc_text_list,
-)
-
-from legal_doc_processing.press_release import PressRelease, read_PressRelease
-from legal_doc_processing.press_release.utils import (
-    load_press_release_files,
-    load_press_release_text_list,
-)
+import legal_doc_processing.ld as ld
+import legal_doc_processing.pr as pr
 
 from legal_doc_processing.utils import boot, get_pipeline

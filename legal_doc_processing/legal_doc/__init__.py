@@ -3,7 +3,7 @@ import os
 from legal_doc_processing.utils import get_pipeline
 
 import legal_doc_processing.legal_doc.information_extraction as ext
-import legal_doc_processing.legal_doc.segmentation as seg
+import legal_doc_processing.legal_doc.segmentation.clean as seg
 from legal_doc_processing.legal_doc.utils import (
     load_legal_doc_files,
     load_legal_doc_text_list,

@@ -67,10 +67,13 @@ def predict_defendant(cleaned_legal_doc: list, nlpipe=None):
     # pipe
     nlpipe = _if_not_pipe(nlpipe)
 
-    fp_55_legal_doc = [i for i in cleaned_legal_doc[0] if len(i) > 55]
+    # prepar
+    fp_55_legal_doc = [i for i in cleaned_legal_doc if len(i) > 55]
+    txt = " ".join(fp_55_legal_doc)
 
+    print(txt)
     # ask all and get all possible response
-    ans = _ask_all(" ".join(fp_55_legal_doc), nlpipe)
+    ans = _ask_all(txt, nlpipe)
 
     # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
     ll = _clean_ans(ans)
@@ -115,7 +118,7 @@ if __name__ == "__main__":
     # all_ans_h2 = _ask_all(cleaned_legal_doc["h2"], nlpipe)
     # all_ans_article = _ask_all(cleaned_legal_doc["article"], nlpipe)
 
-    ans = predict_plaintiff(".".join(cleaned_legal_doc[0]), nlpipe)
+    ans = predict_defendant(".".join(cleaned_legal_doc[0]), nlpipe)
 
     # # test others
     # ans_list = [predict_plaintiff(p, nlpipe) for p in clean_legal_doc_list]

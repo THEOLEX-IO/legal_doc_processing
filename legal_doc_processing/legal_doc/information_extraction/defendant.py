@@ -41,8 +41,9 @@ def _ask_all(txt, nlpipe) -> list:
     # sort
     ans = sorted(ans, key=lambda i: i["score"], reverse=True)
 
-    # clean
+    # clean manuals
     ans = [i for i in ans if (i["answer"].lower() != "defendants")]
+    ans = [i for i in ans if (i["answer"].lower() != "cftc")]
 
     return ans
 

@@ -33,6 +33,10 @@ class LegalDoc:
         # text and cleanstructure
         self.raw_text = text
         self.clean_pages = seg.clean_doc(text)
+        self.first_page = []
+
+        for k in range(4):
+            self.first_page.extend(self.clean_pages[k])
 
         # features
         self.feature_list = [
@@ -57,33 +61,33 @@ class LegalDoc:
         """ """
         if feature == "case":
             self.case = ext.predict_case(
-                self.clean_pages[0],
+                self.first_page,
             )
             return self.case
         elif feature == "date":
             self.date = ext.predict_date(
-                self.clean_pages[0],
+                self.first_page,
             )
             return self.date
         elif feature == "defendant":
-            self.defendant = ext.predict_defendant(self.clean_pages[0], self.nlpipe)
+            self.defendant = ext.predict_defendant(self.first_page, self.nlpipe)
             return self.defendant
         elif feature == "plaintiff":
-            self.plaintiff = ext.predict_plaintiff(self.clean_pages[0], self.nlpipe)
+            self.plaintiff = ext.predict_plaintiff(self.first_page, self.nlpipe)
             return self.plaintiff
         elif feature == "cost":
-            self.cost = ext.predict_cost(self.clean_pages[0], self.nlpipe)
+            self.cost = ext.predict_cost(self.first_page, self.nlpipe)
             return self.cost
         elif feature == "sentence":
-            self.sentence = ext.predict_sentence(self.clean_pages[0], self.nlpipe)
+            self.sentence = ext.predict_sentence(self.first_page, self.nlpipe)
             return self.sentence
         elif feature == "all":
-            self.case = ext.predict_case(self.clean_pages[0])
-            self.date = ext.predict_date(self.clean_pages[0])
-            self.defendant = ext.predict_defendant(self.clean_pages[0], self.nlpipe)
-            self.plaintiff = ext.predict_plaintiff(self.clean_pages[0], self.nlpipe)
-            self.cost = ext.predict_cost(self.clean_pages[0], self.nlpipe)
-            self.sentence = ext.predict_sentence(self.clean_pages[0], self.nlpipe)
+            self.case = ext.predict_case(self.first_page)
+            self.date = ext.predict_date(self.first_page)
+            self.defendant = ext.predict_defendant(self.first_page, self.nlpipe)
+            self.plaintiff = ext.predict_plaintiff(self.first_page, self.nlpipe)
+            self.cost = ext.predict_cost(self.first_page, self.nlpipe)
+            self.sentence = ext.predict_sentence(self.first_page, self.nlpipe)
             return self.feature_dict
         else:
             raise AttributeError("feature Not Implemented")
@@ -96,7 +100,7 @@ class LegalDoc:
     def __repr__(self):
         """__repr__ method """
 
-        return f"LegalDoc(path:{self.file_path}, file:{self.file_name}, case:{self.case}, defendant:{self.defendant}, pipe:{'OK' if self.nlpipe else self.nlpipe})"
+        return f"LegalDoc(raw_text:{self.raw_text[:10]},path:{self.file_path}, file:{self.file_name}, case:{self.case}, defendant:{self.defendant}, pipe:{'OK' if self.nlpipe else self.nlpipe})"
 
     def __str__(self):
         """__str__ method """
@@ -114,6 +118,15 @@ def read_LegalDoc(file_path: str, nlpipe=None):
 
 
 if __name__ == "__main__":
+
+    from legal_doc_processing.utils import get_pipeline
+
+    import legal_doc_processing.legal_doc.information_extraction as ext
+    import legal_doc_processing.legal_doc.segmentation.clean as seg
+    from legal_doc_processing.legal_doc.utils import (
+        load_legal_doc_files,
+        load_legal_doc_text_list,
+    )
 
     nlpipe = get_pipeline()
 

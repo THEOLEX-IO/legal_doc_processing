@@ -15,7 +15,7 @@ RUN python -c "import nltk; nltk.download('stopwords'); nltk.download('popular')
 COPY . /tmp/boot
 
 # dl stuff for legaldoc
-RUN python -c "from legal_doc_processing import LegalDoc; LegalDoc('hello world')"
+RUN python -c "from legal_doc_processing import ld; ld.LegalDoc('hello world')"
 
 # test
 RUN pytest

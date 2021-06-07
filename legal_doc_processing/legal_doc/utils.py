@@ -12,7 +12,7 @@ def load_legal_doc_files(path="./data/files"):
     files_list = [
         [
             f"{path}/{f}/{i}"
-            for i in os.listdir(f"pat{path}h/{f}")
+            for i in os.listdir(f"{path}/{f}")
             if ("press" not in i) and ("txt" in i)
         ]
         for f in folder_list

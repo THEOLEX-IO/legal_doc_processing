@@ -8,6 +8,7 @@ from legal_doc_processing.legal_doc.utils import (
     load_legal_doc_files,
     load_legal_doc_text_list,
 )
+from legal_doc_processing.utils import load_data
 
 
 class LegalDoc:

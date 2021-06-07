@@ -1,14 +1,13 @@
 FROM python:3.9-buster
 
-
 # dl 
-RUN pip install ipython legal-doc-processing==1.1.6
+RUN pip install ipython legal-doc-processing==1.1.7
 
 # workdir
 WORKDIR /app
 
 # copy the app
-COPY . /app
+COPY ./data /app
 
 # workdir
 WORKDIR /

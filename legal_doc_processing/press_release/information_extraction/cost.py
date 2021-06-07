@@ -58,10 +58,23 @@ def _clean_ans(ans, threshold=0.5):
 def _string_to_number(cleaned_ans):
     """transform a list of numbers in ints """
 
+    # lower
+    cleaned_ans = [i.lower() for i in cleaned_ans]
+
     # delette € or $
     cleaned_ans = [
         i.replace("$", "").replace("€", "").replace("£", "") for i in cleaned_ans
     ]
+
+    # if thousand or millions or billions
+    # multi = ""
+    # for k in ["thousand", "million", "billion"] :
+    #   if k in ans :
+    # k = multi
+
+    # sep the number
+    # 100 or 1.2
+    # then multiply number * thousand (1_000) or million (1_000_000)...
 
     # delete ,  ie 1,000,000
     cleaned_ans = [i.replace(",", "") for i in cleaned_ans]

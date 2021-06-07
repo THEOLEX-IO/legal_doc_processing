@@ -56,6 +56,7 @@ class PressRelease:
     def predict(self, feature) -> str:
         """ """
         if feature == "case":
+            self.case = None
             return None
         elif feature == "id":
             self.id = ext.predict_id(
@@ -90,6 +91,11 @@ class PressRelease:
         else:
             raise AttributeError("feature Not Implemented")
 
+    def predict_all(self) -> str:
+        """return self.predict("all") """
+
+        return self.predict("all")
+
     def __repr__(self):
         """__repr__ method """
 
@@ -118,9 +124,10 @@ if __name__ == "__main__":
     press_rel_list = load_press_release_text_list()
 
     # 1st one
-    pr = PressRelease(press_rel_list[0], nlpipe=nlpipe)
-    pr.predict("all")
+    press_text_0 = press_rel_list[0]
+    pr = PressRelease(press_text_0, nlpipe=nlpipe)
+    pred = pr.predict("all")
 
     # all
     pr_list = [PressRelease(f, nlpipe=nlpipe) for f in press_rel_list]
-    _ = [pr.predict("all") for pr in pr_list]
+    preds = [pr.predict("all") for pr in pr_list]

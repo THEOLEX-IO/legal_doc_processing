@@ -23,34 +23,28 @@ def get_pipeline():
     )
 
 
-# nltk.download("stopwords")
-stopwords = nltk.corpus.stopwords.words("english")
-
-
-def boot():
-
-    from legal_doc_processing.legal_doc import LegalDoc
-    from legal_doc_processing.press_release import PressRelease
-
-    hello = LegalDoc("Hello World")
-    hello = PressRelease("Hello World")
-
-
-from legal_doc_processing.utils import get_pipeline
-
-
 def _if_not_pipe(nlpipe):
-    """if pipeline is none instace one """
+    """ if  not nlpipeline instance and return it else return pipeline already exists"""
 
-    return get_pipeline() if not nlpipe else nlpipe
+    return nlpipe if nlpipe else get_pipeline()
 
 
 def _ask(txt: str, quest: str, nlpipe, topk: int = 3) -> list:
     """MAKE A QUESTION """
 
+    # txt
+    if not txt:
+        raise AttributeError(f"Attribute error txt ; txt is {txt}, format {type(txt)}")
+
+    # quest
+    if not quest:
+        raise AttributeError(
+            f"Attribute error quest ; quest is {quest}, format {type(quest)}"
+        )
+
     nlpipe = _if_not_pipe(nlpipe)
 
-    return nlpipe(question=quest, context=txt, topk=3)
+    return nlpipe(question=quest, context=txt, topk=topk)
 
 
 def load_data(file_path: str) -> str:
@@ -82,12 +76,7 @@ def clean_spec_chars(text: str) -> tuple:
 
 # def handle_encoding(text: str) -> str:
 #     """handle encoding problems and force ascii conversion ; return clean text """
-
-#     # encoding the text to ASCII format
 #     text_encode = text.encode(encoding="ascii", errors="ignore")
-
-#     # decoding the text
-#     text_decode = text_encode.decode()
 
 #     # cleaning the text to remove extra whitespace
 #     clean_text = " ".join([word for word in text_decode.split()])
@@ -95,13 +84,48 @@ def clean_spec_chars(text: str) -> tuple:
 #     return clean_text
 
 
-def make_dataframe(
-    path: str = "./data/csv/original_dataset.csv", n: int = 10
-) -> pd.DataFrame:
-    """on basis of csv dataframe with all features, data clean, scrap googleapi and insert text in the dataframe
+def _boot_press_release():
+    """test init press release """
+
+    from legal_doc_processing.press_release import (
+        PressRelease,
+        read_PressRelease,
+        load_press_release_text_list,
+    )
+
+    # num = "7100-15"
+    # url = f"https://storage.googleapis.com/theolex_documents_processing/cftc/text/7100-15/order-allied-markets-llc-et-al.txt"
+    # nlpipe = get_pipeline()
+    # pr = PressRelease("Hello World", nlpipe=nlpipe)
+    # # pr.predict("all")
+
+
+def _boot_legal_doc():
+    """ try to build and predict a LegalDoc and an PressRelease"""
+
+    from legal_doc_processing.legal_doc import (
+        LegalDoc,
+        read_LegalDoc,
+        load_legal_doc_text_list,
+    )
+
+    url = ""
+    nlpipe = get_pipeline()
+    ld = LegalDoc("Hello World", nlpipe=nlpipe)
+    # ld.predict("all")
+
+
+def boot():
+    """ """
+
+    _boot_press_release()
+    _boot_legal_doc()
+
+
+def make_dataframe(path: str = "./data/csv/original_dataset.csv", n: int = 10):
+    """
     :param path  = the path to read original dataset
     :param n     = the n-st line to scrap, other will be droped
-    :return      = a dataframe with original data cleaned + text of main doc and press release
     """
 
     # read df
@@ -147,7 +171,7 @@ def make_dataframe(
         """ """
 
         try:
-            print(url)
+            # print(url)
             res = requests.get(url)
 
             if res.status_code < 300:

@@ -1,8 +1,8 @@
 #! /bin/bash
 
 # clean dist
-rm dist/*
-rm -rf dist/*
+sudo rm -f dist/*
+sudo rm -rf dist/*
 
 # make dist
 python setup.py sdist

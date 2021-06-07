@@ -21,7 +21,7 @@
 
 go in your project directory and activate virtual environnement
 ```
-cd my-project
+cd my-project/
 python3 -m venv env
 source ./env/bin/activate
 ```
@@ -37,11 +37,11 @@ git clone https://github.com/THEOLEX-IO/legal_doc_processing.git
 pip install -r requirements.txt
 ```
 
-at fris usage please write following commands to boot strap the package
+at frist usage please write following command to bootstrap the package
 ```
-python -c "from legal-doc-processing import boot; boot()"
+python -c "from legal_doc_processing import boot; boot()"
 ```
-this comman will download data collections and mandory web assets. (it can take 1 minute depends of your connection)
+this command will download data collections and mandory web assets, it can take 1/2 minutes (depends of your web  connection)
 <br>
 <br>
 
@@ -49,15 +49,15 @@ this comman will download data collections and mandory web assets. (it can take 
 ----------------------------------------------------
 <br>
 
-there is 2 main modules in legal-doc-processing : 
+There is 2 main modules in legal-doc-processing : 
 - ld for LegalDoc objects ie order, complaint, etc etc official documents
 - pr for PressRelease objects for legal press release related to each case
 
 so you can 
 ```
-from legal-doc-processing import *  # import all
-from legal-doc-processing import ld # import legal document module
-from legal-doc-processing import pr # import press release module
+from legal_doc_processing import *  # import all
+from legal_doc_processing import ld # import legal document module
+from legal_doc_processing import pr # import press release module
 ```
 <br>
 
@@ -65,7 +65,7 @@ from legal-doc-processing import pr # import press release module
 youn can init an object in 2 ways.
 * with text directly
 ```
-from legal-doc-processing import ld
+from legal_doc_processing import ld
 doc = ld.LegalDoc("this is a document")
 ```
 * with path to a file
@@ -75,7 +75,7 @@ doc = ld.read_LegalDoc("this/is/my/file.txt")
 
 for press release, same pattern: 
 ```
-from legal-doc-processing import pr
+from legal_doc_processing import pr
 press = ld.PressRelease("this is a press release")
 ```
 * with path to a file
@@ -153,6 +153,8 @@ To see an html output of coverage open ```htmlcov/index.html``` after running th
 <br>
 
 Cleaning and feature engineering --> segmentation --> classification --> information extraction
+<br>
+<br>
 
 ## Licence:  
 -----------------------------------

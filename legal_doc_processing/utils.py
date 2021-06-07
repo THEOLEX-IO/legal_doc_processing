@@ -427,12 +427,12 @@ def boot():
 
 
 
-
-
-
 def make_dataframe(
     path: str = "./data/csv/original_dataset.csv", n: int = 10
 ) -> pd.DataFrame:
+    """on basis of csv dataframe with all features, data clean, scrap googleapi and insert text in the dataframe
+    :param path  = the path to read original dataset
+    :param n     = the n-st line to scrap, other will be droped
     """
 
     # read df

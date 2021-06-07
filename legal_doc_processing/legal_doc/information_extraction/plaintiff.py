@@ -11,6 +11,10 @@ from legal_doc_processing.utils import (
 def _ask_all(txt, nlpipe) -> list:
     """asl all questions and return a list of dict """
 
+    # txt
+    if not txt:
+        raise AttributeError(f"Attribute error txt ; txt is {txt}, format {type(txt)}")
+
     # pipe
     nlpipe = _if_not_pipe(nlpipe)
 
@@ -97,29 +101,29 @@ if __name__ == "__main__":
     # pipe
     nlpipe = get_pipeline()
 
-    # clean_legal_doc_list
-    legal_doc_txt_list = load_legal_doc_text_list()
-    clean_legal_doc_list = [clean_doc(i) for i in legal_doc_txt_list]
+    # # clean_legal_doc_list
+    # legal_doc_txt_list = load_legal_doc_text_list()
+    # clean_legal_doc_list = [clean_doc(i) for i in legal_doc_txt_list]
 
-    # test one
-    cleaned_legal_doc = clean_legal_doc_list[0]
-    p0_p1 = []
-    _ = [p0_p1.append(i) for i in cleaned_legal_doc[0]]
-    _ = [p0_p1.append(i) for i in cleaned_legal_doc[1]]
-    p0_p1
+    # # test one
+    # cleaned_legal_doc = clean_legal_doc_list[0]
+    # p0_p1 = []
+    # _ = [p0_p1.append(i) for i in cleaned_legal_doc[0]]
+    # _ = [p0_p1.append(i) for i in cleaned_legal_doc[1]]
+    # p0_p1
 
-    fp_legal_doc = p0_p1
-    fp_55_legal_doc = [i for i in fp_legal_doc if len(i) > 55]
+    # fp_legal_doc = p0_p1
+    # fp_55_legal_doc = [i for i in fp_legal_doc if len(i) > 55]
 
-    # all_ans_dot = _ask_all(".".join(cleaned_legal_doc[0]), nlpipe)
-    all_ans_space = _ask_all(" ".join(fp_55_legal_doc), nlpipe)
+    # # all_ans_dot = _ask_all(".".join(cleaned_legal_doc[0]), nlpipe)
+    # all_ans_space = _ask_all(" ".join(fp_55_legal_doc), nlpipe)
 
-    # all_ans_h2 = _ask_all(cleaned_legal_doc["h2"], nlpipe)
-    # all_ans_article = _ask_all(cleaned_legal_doc["article"], nlpipe)
+    # # all_ans_h2 = _ask_all(cleaned_legal_doc["h2"], nlpipe)
+    # # all_ans_article = _ask_all(cleaned_legal_doc["article"], nlpipe)
 
-    ans = predict_plaintiff(".".join(cleaned_legal_doc[0]), nlpipe)
+    # ans = predict_plaintiff(".".join(cleaned_legal_doc[0]), nlpipe)
 
-    # # test others
-    # ans_list = [predict_plaintiff(p, nlpipe) for p in clean_legal_doc_list]
-    # clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
-    # clean_ans_list = [", ".join(ll) for ll in clean_ans_list]
+    # # # test others
+    # # ans_list = [predict_plaintiff(p, nlpipe) for p in clean_legal_doc_list]
+    # # clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
+    # # clean_ans_list = [", ".join(ll) for ll in clean_ans_list]

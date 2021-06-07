@@ -32,6 +32,16 @@ def _if_not_pipe(nlpipe):
 def _ask(txt: str, quest: str, nlpipe, topk: int = 3) -> list:
     """MAKE A QUESTION """
 
+    # txt
+    if not txt:
+        raise AttributeError(f"Attribute error txt ; txt is {txt}, format {type(txt)}")
+
+    # quest
+    if not quest:
+        raise AttributeError(
+            f"Attribute error quest ; quest is {quest}, format {type(quest)}"
+        )
+
     nlpipe = _if_not_pipe(nlpipe)
 
     return nlpipe(question=quest, context=txt, topk=topk)

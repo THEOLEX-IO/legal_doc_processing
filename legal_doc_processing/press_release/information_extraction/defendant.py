@@ -11,6 +11,10 @@ from legal_doc_processing.utils import (
 def _ask_all(txt, nlpipe) -> list:
     """asl all questions and return a list of dict """
 
+    # txt
+    if not txt:
+        raise AttributeError(f"Attribute error txt ; txt is {txt}, format {type(txt)}")
+
     # pipe
     nlpipe = _if_not_pipe(nlpipe)
 

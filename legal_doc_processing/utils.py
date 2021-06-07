@@ -95,9 +95,9 @@ def _boot_press_release():
 
     # num = "7100-15"
     # url = f"https://storage.googleapis.com/theolex_documents_processing/cftc/text/7100-15/order-allied-markets-llc-et-al.txt"
-    nlpipe = get_pipeline()
-    pr = PressRelease("Hello World", nlpipe=nlpipe)
-    # pr.predict("all")
+    # nlpipe = get_pipeline()
+    # pr = PressRelease("Hello World", nlpipe=nlpipe)
+    # # pr.predict("all")
 
 
 def _boot_legal_doc():

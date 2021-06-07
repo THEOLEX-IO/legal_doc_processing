@@ -88,6 +88,11 @@ class LegalDoc:
         else:
             raise AttributeError("feature Not Implemented")
 
+    def predict_all(self) -> str:
+        """return self.predict("all") """
+
+        return self.predict("all")
+
     def __repr__(self):
         """__repr__ method """
 
@@ -116,9 +121,10 @@ if __name__ == "__main__":
     leg_doc_list = load_legal_doc_text_list()
 
     # 1st one
-    ld = LegalDoc(leg_doc_list[0], nlpipe=nlpipe)
-    ld.predict("all")
+    legal_doc_txt_0 = leg_doc_list[0]
+    ld = LegalDoc(legal_doc_txt_0, nlpipe=nlpipe)
+    pred = ld.predict("all")
 
     # all
     ld_list = [LegalDoc(f, nlpipe=nlpipe) for f in leg_doc_list]
-    _ = [ld.predict("all") for ld in ld_list]
+    preds = [ld.predict("all") for ld in ld_list]

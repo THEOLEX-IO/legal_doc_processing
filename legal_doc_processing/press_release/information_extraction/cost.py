@@ -55,6 +55,27 @@ def _clean_ans(ans, threshold=0.5):
     return ll
 
 
+def _string_to_number(cleaned_ans):
+    """transform a list of numbers in ints """
+
+    # delette € or $
+    cleaned_ans = [
+        i.replace("$", "").replace("€", "").replace("£", "") for i in cleaned_ans
+    ]
+
+    # delete ,  ie 1,000,000
+    cleaned_ans = [i.replace(",", "") for i in cleaned_ans]
+
+    # handle millions
+    cleaned_ans = [
+        i.lower().replace("millions", "000000").replace("million", "000000")
+        for i in cleaned_ans
+    ]
+    cleaned_ans = ["".join([c for c in list(i) if c.isnumeric()]) for i in cleaned_ans]
+
+    return cleaned_ans
+
+
 def predict_cost(structured_press_release: list, nlpipe=None):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
@@ -62,7 +83,9 @@ def predict_cost(structured_press_release: list, nlpipe=None):
     nlpipe = _if_not_pipe(nlpipe)
 
     # choose the item
-    txt = structured_press_release["h1"]
+    h1 = structured_press_release["h1"]
+    h2 = structured_press_release["h2"]
+    txt = h1.lower() if "pay" in h1.lower() else h2.lower()
 
     # ask all and get all possible response
     ans = _ask_all(txt, nlpipe)
@@ -70,8 +93,12 @@ def predict_cost(structured_press_release: list, nlpipe=None):
     # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
     ll = _clean_ans(ans)
 
+    cleaned_ans = [i["answer"] for i in ll]
+
+    cleaned_ans = _string_to_number(cleaned_ans)
+
     # reponse
-    resp = ", ".join([i["answer"] for i in ll])
+    resp = ", ".join()
 
     return resp
 

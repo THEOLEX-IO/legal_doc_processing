@@ -74,7 +74,21 @@ def clean_spec_chars(text: str) -> tuple:
 #     return clean_text
 
 
-press_text =  """Release Number 7100-15
+def boot():
+    """ try to build and predict a LegalDoc and an PressRelease"""
+
+    from legal_doc_processing.legal_doc import (
+        LegalDoc,
+        read_LegalDoc,
+        load_legal_doc_text_list,
+    )
+    from legal_doc_processing.press_release import (
+        PressRelease,
+        read_PressRelease,
+        load_press_release_text_list,
+    )
+
+    press_text = """Release Number 7100-15
 
  
 
@@ -145,8 +159,7 @@ Dennis Holden
 Last Updated: January 12, 2015
 """
 
-
-order_text = """UNITED STATES DISTRICT COURT
+    order_text = """UNITED STATES DISTRICT COURT
 MIDDLE DISTRICT OF FLORIDA
 Jacksonville Division
 
@@ -439,33 +452,19 @@ aed
 UNITED STATES DISTRICT JUDGE
 """
 
-
-
-
-
-def boot():
-    """ try to build and predict a LegalDoc and an PressRelease"""
-
-    from legal_doc_processing.legal_doc import LegalDoc, read_LegalDoc, load_legal_doc_text_list
-    from legal_doc_processing.press_release import PressRelease, read_PressRelease, load_press_release_text_list
-    
     nlpipe = get_pipeline()
 
-    leg_doc_list = load_legal_doc_text_list()
-    ld = LegalDoc(leg_doc_list[0], nlpipe=nlpipe)
+    ld = LegalDoc(order_text, nlpipe=nlpipe)
+    pr = PressRelease(press_text, nlpipe=nlpipe)
+
     ld.predict("all")
-
-    # press rel
-    press_rel_list = load_press_release_text_list()
-    pr = PressRelease(press_rel_list[0], nlpipe=nlpipe)
     pr.predict("all")
-
 
 
 def make_dataframe(
     path: str = "./data/csv/original_dataset.csv", n: int = 10
 ) -> pd.DataFrame:
-    """on basis of csv dataframe with all features, data clean, scrap googleapi and insert text in the dataframe
+    """
     :param path  = the path to read original dataset
     :param n     = the n-st line to scrap, other will be droped
     :return      = a dataframe with original data cleaned + text of main doc and press release
@@ -535,37 +534,3 @@ def make_dataframe(
     df.to_csv("./data/csv/dataset.csv", index=False)
 
     return df
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

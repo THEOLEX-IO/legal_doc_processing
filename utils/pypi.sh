@@ -14,7 +14,7 @@ twine upload -u $TWINE_USER -p $TWINE_PASSWORD dist/*
 
 # instructions
 # docker run -ti python:3.9-buster /bin/bash 
-# pip install ipython legal-doc-processing
+# pip install ipython legal-doc-processing==1.1.4
 
 # ipython 
 # from legal_doc_processing import boot

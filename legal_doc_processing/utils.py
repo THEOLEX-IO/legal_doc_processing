@@ -32,12 +32,36 @@ def _if_not_pipe(nlpipe):
 def _ask(txt: str, quest: str, nlpipe, topk: int = 3) -> list:
     """MAKE A QUESTION """
 
+    nlpipe = _if_not_pipe(nlpipe)
+
+    return nlpipe(question=quest, context=txt, topk=topk)
+
 
 def load_data(file_path: str) -> str:
     """from file_path open read and return text; return text """
 
     if ".pdf" in file_path:
         raise AttributeError("Error : file recieved is a pdf, only txt supported")
+
+    with open(file_path, "r") as f:
+        txt = f.read()
+
+    return txt
+
+
+def clean_spec_chars(text: str) -> tuple:
+    """first text cleaning based on regex, just keep text not spec chars
+    return tupple of text"""
+
+    # article text
+    article_text = re.sub(r"\[[0-9]*\]", " ", text)
+    article_text = re.sub(r"\s+", " ", article_text)
+
+    # formated text
+    formatted_article_text = re.sub("[^a-zA-Z]", " ", article_text)
+    formatted_article_text = re.sub(r"\s+", " ", formatted_article_text)
+
+    return article_text, formatted_article_text
 
 
 # def handle_encoding(text: str) -> str:
@@ -50,7 +74,8 @@ def load_data(file_path: str) -> str:
 #     return clean_text
 
 
-press_text = """Release Number 7100-15
+def press_text():
+    return """Release Number 7100-15
 
  
 
@@ -121,7 +146,10 @@ Dennis Holden
 Last Updated: January 12, 2015
 """
 
-order_text = """UNITED STATES DISTRICT COURT
+
+def order_text():
+
+    return """UNITED STATES DISTRICT COURT
 MIDDLE DISTRICT OF FLORIDA
 Jacksonville Division
 
@@ -416,15 +444,20 @@ UNITED STATES DISTRICT JUDGE
 
 
 
+
+
 def boot():
     """ try to build and predict a LegalDoc and an PressRelease"""
 
     from legal_doc_processing.legal_doc import LegalDoc, read_LegalDoc
     from legal_doc_processing.press_release import PressRelease, read_PressRelease
 
-    hello = read_LegalDoc(order_text)
+
+    hello = LegalDoc(order_text())
     hello.predict("all")
 
+    hello = PressRelease(press_text())
+    hello.predict("all")
 
 
 def make_dataframe(
@@ -433,6 +466,7 @@ def make_dataframe(
     """on basis of csv dataframe with all features, data clean, scrap googleapi and insert text in the dataframe
     :param path  = the path to read original dataset
     :param n     = the n-st line to scrap, other will be droped
+    :return      = a dataframe with original data cleaned + text of main doc and press release
     """
 
     # read df
@@ -499,3 +533,37 @@ def make_dataframe(
     df.to_csv("./data/csv/dataset.csv", index=False)
 
     return df
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

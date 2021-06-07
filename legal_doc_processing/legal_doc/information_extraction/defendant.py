@@ -71,7 +71,7 @@ def predict_defendant(cleaned_legal_doc: list, nlpipe=None):
     fp_55_legal_doc = [i for i in cleaned_legal_doc if len(i) > 55]
     txt = " ".join(fp_55_legal_doc)
 
-    print(txt)
+    # print(txt)
     # ask all and get all possible response
     ans = _ask_all(txt, nlpipe)
 

@@ -446,15 +446,20 @@ UNITED STATES DISTRICT JUDGE
 def boot():
     """ try to build and predict a LegalDoc and an PressRelease"""
 
-    from legal_doc_processing.legal_doc import LegalDoc, read_LegalDoc
-    from legal_doc_processing.press_release import PressRelease, read_PressRelease
+    from legal_doc_processing.legal_doc import LegalDoc, read_LegalDoc, load_legal_doc_text_list
+    from legal_doc_processing.press_release import PressRelease, read_PressRelease, load_press_release_text_list
+    
+    nlpipe = get_pipeline()
 
+    leg_doc_list = load_legal_doc_text_list()
+    ld = LegalDoc(leg_doc_list[0], nlpipe=nlpipe)
+    ld.predict("all")
 
-    hello = LegalDoc(order_text)
-    hello.predict("all")
+    # press rel
+    press_rel_list = load_press_release_text_list()
+    pr = PressRelease(press_rel_list[0], nlpipe=nlpipe)
+    pr.predict("all")
 
-    hello = PressRelease(press_text)
-    hello.predict("all")
 
 
 def make_dataframe(
@@ -509,7 +514,7 @@ def make_dataframe(
         """ """
 
         try:
-            print(url)
+            # print(url)
             res = requests.get(url)
 
             if res.status_code < 300:

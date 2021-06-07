@@ -9,6 +9,7 @@ from legal_doc_processing.press_release.utils import (
 )
 
 from legal_doc_processing.utils import get_pipeline
+from legal_doc_processing.utils import load_data
 
 
 class PressRelease:
@@ -99,7 +100,7 @@ class PressRelease:
     def __repr__(self):
         """__repr__ method """
 
-        return f"LegalDoc(path:{self.file_path}, file:{self.file_name}, case:{self.case}, defendant:{self.defendant}, pipe:{'OK' if self.nlpipe else self.nlpipe})"
+        return f"PressRelease(path:{self.file_path}, file:{self.file_name}, case:{self.case}, defendant:{self.defendant}, pipe:{'OK' if self.nlpipe else self.nlpipe})"
 
     def __str__(self):
         """__str__ method """

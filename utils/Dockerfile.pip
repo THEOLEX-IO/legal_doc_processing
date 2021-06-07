@@ -1,14 +1,16 @@
 FROM python:3.9-buster
 
+# pip install
+RUN pip install ipython legal-doc-processing==1.1.7
 
-# dl 
-RUN pip install ipython legal-doc-processing==1.1.6
+# boot
+RUN python -c "from legal_doc_processing import boot; boot();"
 
 # workdir
 WORKDIR /app
 
 # copy the app
-COPY . /app
+COPY ./data /app
 
 # workdir
 WORKDIR /

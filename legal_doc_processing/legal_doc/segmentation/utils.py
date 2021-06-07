@@ -11,6 +11,7 @@ import heapq
 import nltk
 
 from cleantext import clean
+import spacy
 
 
 def is_section_num(text: str) -> bool:
@@ -110,6 +111,7 @@ def get_token(text):
 
 
 def get_section_indx(list_token):
+    """ """
 
     idx = []
     for i in range(len(list_token)):
@@ -142,3 +144,19 @@ def get_section_indx(list_token):
 #                     else:
 #                         sentence_scores[sent] += word_frequencies[word]
 #     return sentence_scores
+
+
+def get_entities(section):
+    entities = []
+    # Load English tokenizer, tagger, parser and NER
+    nlp = spacy.load("en_core_web_sm")
+    # Process whole documents
+    for text in section:
+        text = "\n".join(section[2]["content"])
+        doc = nlp(text)
+        # Find named entities, phrases and concepts
+        for entity in doc.ents:
+            if entity.label_ == "ORG":
+                entities.append([entity.text, ":       ", entity.label_])
+
+    return entities

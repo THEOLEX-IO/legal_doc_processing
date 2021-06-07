@@ -3,18 +3,19 @@ from legal_doc_processing.utils import *
 
 
 from legal_doc_processing.legal_doc.segmentation.clean import clean_doc
-from legal_doc_processing.legal_doc.segmentation.utils import *
+from legal_doc_processing.legal_doc.segmentation.utils import get_token, get_section_indx
 
 
 def get_structure(text):
-    """ """
+    """"""
 
     list_token = get_token(text)
     idx = get_section_indx(list_token)
+
     j = 0
     structure = []
-
     k = 0
+
     for i in idx:
         section = {}
         section["content"] = list_token[j : i + 1]

@@ -74,8 +74,7 @@ def clean_spec_chars(text: str) -> tuple:
 #     return clean_text
 
 
-def press_text():
-    return """Release Number 7100-15
+press_text =  """Release Number 7100-15
 
  
 
@@ -147,9 +146,7 @@ Last Updated: January 12, 2015
 """
 
 
-def order_text():
-
-    return """UNITED STATES DISTRICT COURT
+order_text = """UNITED STATES DISTRICT COURT
 MIDDLE DISTRICT OF FLORIDA
 Jacksonville Division
 
@@ -453,10 +450,10 @@ def boot():
     from legal_doc_processing.press_release import PressRelease, read_PressRelease
 
 
-    hello = LegalDoc(order_text())
+    hello = LegalDoc(order_text)
     hello.predict("all")
 
-    hello = PressRelease(press_text())
+    hello = PressRelease(press_text)
     hello.predict("all")
 
 

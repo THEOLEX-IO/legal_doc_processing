@@ -34,6 +34,7 @@ class LegalDoc:
         self.raw_text = text
         self.clean_pages = seg.clean_doc(text)
 
+        # features
         self.feature_list = [
             "case",
             "id",

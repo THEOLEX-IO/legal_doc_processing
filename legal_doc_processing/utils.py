@@ -125,20 +125,25 @@ def get_structure(text):
     list_token=get_token(text)
     idx=get_section_indx(list_token)
     j=0
-    
     structure=[]
     k=0
     for i in idx:
         section={}
-        section['content']=' '.join(list_token[j:i+1])
-        section['header']=list_token[j]
+        section['content']=list_token[j:i+1]
+        section['header']=list_token[i]
         section['id']=k
         structure.append(section)
         j=i+1
         k=k+1
         
-        
     return structure
+    def get_header(section):
+        sec0="".join(section[0]['content'])
+        sec1="".join(section[1]['content'])
+        entete=[sec0]
+        entete.append(sec1)
+        header="".join(entete)
+        return header
 
 def clean_doc(
     file_text,

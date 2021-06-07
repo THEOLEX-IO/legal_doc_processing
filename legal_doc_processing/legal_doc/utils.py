@@ -8,7 +8,7 @@ def load_legal_doc_files(path="./data/files"):
     path = path[:-1] if path[-1] == "/" else path
 
     # file list
-    folder_list = os.listdir(f"{path}")
+    folder_list = os.listdir(path)
     files_list = [
         [
             f"{path}/{f}/{i}"

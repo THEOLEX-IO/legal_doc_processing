@@ -1,9 +1,9 @@
 folder,filename,doctype,defendant,plaintiff,juridiction,cost,violation
-7100-15,complaint-allied-markets-llc-et-al.txt,order,"Allied Markets, Joshua Gilliland, Chawalit Wongkhiao",?,CFTC,?,?
-7100-15,order-allied-markets-llc-et-al.txt,order,"Allied Markets, Joshua Gilliland, Chawalit Wongkhiao",?,CFTC,?,?
-7100-15,press-release.txt,press,"Allied Markets, Joshua Gilliland, Chawalit Wongkhiao",?,CFTC,?,?
+7100-15,complaint-allied-markets-llc-et-al.txt,order,"Allied Markets,Joshua Gilliland,Chawalit Wongkhiao",?,CFTC,?,?
+7100-15,order-allied-markets-llc-et-al.txt,order,"Allied Markets,Joshua Gilliland,Chawalit Wongkhiao",?,CFTC,?,?
+7100-15,press-release.txt,press,"Allied Markets,Joshua Gilliland,Chawalit Wongkhiao",?,CFTC,?,?
 7102-15,order-michael-j-siegel-et-al.txt,order,"TOTE Fund, MJS Capital Management, Michael J. Siegel",?,CFTC,?,?
-7102-15,press-release.txt,press,"TOTE Fund LLC, MJS Capital Management LLC, Michael J. Siegel",?,CFTC,?,?
+7102-15,press-release.txt,press,"TOTE Fund, MJS Capital Management, Michael J. Siegel",?,CFTC,?,?
 7103-15,order-summit-energy-services-inc.txt,order,Summit Energy Services,?,CFTC,?,?
 7103-15,press-release.txt,press,Summit Energy Services,?,CFTC,?,?
 7104-15,order-olam-international-ltd-and-olam-americas-inc.txt,order,"Olam International, Olam Americas",?,CFTC,?,?
@@ -14,8 +14,8 @@ folder,filename,doctype,defendant,plaintiff,juridiction,cost,violation
 7217-15,press-release.txt,press,"Sentinel Management Group, Charles K. Mosley",?,CFTC,?,?
 7220-15,order-ron-earl-mccullough-and-david-christopher-mayhew.txt,order,"Ron Earl McCullough,David Christopher Mayhew",?,CFTC,?,?
 7220-15,press-release.txt,press,"Ron Earl McCullough,David Christopher Mayhew",?,CFTC,?,?
-7221-15,order-maverick-asset-management-llc.txt,order,"Rodney Scott Phelps and Jason T. Castenir, Maverick Asset Management",?,CFTC,?,?
-7221-15,press-release.txt,press,"Rodney Scott Phelps and Jason T. Castenir, Maverick Asset Management",?,CFTC,?,?
+7221-15,order-maverick-asset-management-llc.txt,order,"Rodney Scott Phelps ,Jason T. Castenir, Maverick Asset Management",?,CFTC,?,?
+7221-15,press-release.txt,press,"Rodney Scott Phelps ,Jason T. Castenir, Maverick Asset Management",?,CFTC,?,?
 7222-15,order-forex-capital-markets-llc.txt,order,Forex Capital Markets,?,CFTC,?,?
 7222-15,press-release.txt,press,Forex Capital Markets,?,CFTC,?,?
 7231-15,order-coinflip-inc-d-b-a-derivabit-et-al.txt,order,"Coinflip,d/b/a Derivabit,Francisco Riordan",?,CFTC,?,?

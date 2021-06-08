@@ -7,6 +7,31 @@ from legal_doc_processing.utils import (
     _ask,
 )
 
+# LLC
+def _clean_LLC_trailling_dot_comma(txt):
+    list_com = [
+        "Inc.",
+        "inc.",
+        "inc",
+        "LLC",
+        " Ltd.",
+        " Ltd",
+        "LTD",
+    ]
+    del_suffix = lambda txt, suff: " ".join([k for k in txt.split(" ") if k != suff])
+    del_trailing_point_comma = (
+        lambda txt: txt.strip()
+        if txt.strip()[-1] not in [".", ","]
+        else txt.strip()[:-1].strip()
+    )
+
+    for k in list_com:
+        txt = del_suffix(txt, k)
+    for i in range(2):
+        txt = del_trailing_point_comma(txt)
+
+    return txt
+
 
 def _you_shall_not_pass(ans_list):
     """ """
@@ -16,7 +41,7 @@ def _you_shall_not_pass(ans_list):
     ans_list = [i for i in ans_list if (i["answer"].lower() != "defendant")]
 
     # len
-    ans_list = [i for i in ans_list if len(i) < 100]
+    ans_list = [i for i in ans_list if len(i["answer"]) < 100]
 
     return ans_list
 

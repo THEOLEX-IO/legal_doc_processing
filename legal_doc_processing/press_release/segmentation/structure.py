@@ -2,9 +2,11 @@ import os
 from pprint import pformat, pprint
 
 
-def _shall_not_pass(dict_text):
+def _shall_not_pass(dict_text: dict) -> dict:
+    """avoid obvious stupid predictions """
 
     error = 0
+
     # len id
     if (len(dict_text["id"]) > 30) or ("--ERROR--" in dict_text["id"]):
         dict_text["id"] = "--ERROR-- " + dict_text["id"]
@@ -31,19 +33,22 @@ def _shall_not_pass(dict_text):
         dict_text["article"] = "--ERROR-- " + dict_text["article"]
         error += 1
 
+    # update error count
     dict_text["error"] = error
 
     return dict_text
 
 
-def _from_txt_to_lines(txt):
+def _from_txt_to_lines(txt: str) -> list:
+    """split lines but smarter  """
 
     txt = txt.replace("\n\n", "\n").replace("\n\n", "\n")
     lines = txt.splitlines()
+
     return lines
 
 
-def _clean_lines(lines):
+def _clean_lines(lines: list) -> list:
     """ just drop ueseless lines"""
 
     lines = [i.strip() for i in lines]
@@ -55,7 +60,7 @@ def _clean_lines(lines):
     return lines_0 + lines_1
 
 
-def _find_release_number(lines):
+def _find_release_number(lines: list) -> tuple:
 
     idx = [i for i, l in enumerate(lines) if l.lower().startswith("release num")]
     if len(idx) == 1:
@@ -69,12 +74,13 @@ def _find_release_number(lines):
             .strip()
         )
         lines.pop(idx)
+
         return release_number, lines
 
     return "--ERROR--", lines
 
 
-def _find_date(lines):
+def _find_date(lines: list) -> tuple:
     """find the date """
 
     idx = -1
@@ -88,30 +94,33 @@ def _find_date(lines):
 
         line = lines[idx].strip()
         lines.pop(idx)
+
         return line, lines
 
     return "--ERROR--", lines
 
 
-def _find_article(lines):
+def _find_article(lines: list) -> tuple:
 
     idx = [i for i, l in enumerate(lines) if l.lower().startswith("washington")]
     if len(idx) == 1:
         idx = idx[0]
         article = lines[idx:]
         lines = lines[:idx]
+
         return article, lines
 
     return "--ERROR--", lines
 
 
-def _find_h1(lines):
+def _find_h1(lines: list) -> str:
 
     lines = [k.strip() for k in lines]
+
     return " ".join(lines)
 
 
-def _clean_articles_breaks(lines):
+def _clean_articles_breaks(lines: list) -> str:
 
     lines = [i.strip() for i in lines]
 
@@ -123,9 +132,7 @@ def _clean_articles_breaks(lines):
     return text
 
 
-def structure_press_release(
-    txt: str, squeeze_break: bool = False, force_dict: bool = True
-) -> str:
+def structure_press_release(txt: str) -> str:
 
     # init dd
     dd = {
@@ -191,11 +198,11 @@ if __name__ == "__main__":
     df["article"] = df.structured_txt.apply(lambda i: i["article"])
     df["error"] = df.structured_txt.apply(lambda i: i["error"])
 
-    df._id
-    df.date
-    df.h1
-    df.article
-    df.error
+    # df._id
+    # df.date
+    # df.h1
+    # df.article
+    # df.error
 
     # find errors
     df_errors = df.loc[df.error > 0, :]

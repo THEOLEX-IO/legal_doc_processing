@@ -58,35 +58,50 @@ def _clean_ans(ans, threshold=0.5):
 def _string_to_number(cleaned_ans):
     """transform a list of numbers in ints """
 
-    # lower
-    cleaned_ans = [i.lower() for i in cleaned_ans]
+    MULTI = [("thousand", 1000), ("million", 1_000_000), ("billion", 1_000_000_000)]
+
+    cleaned_ans = [i.lower().strip() for i in cleaned_ans]
 
     # delette € or $
     cleaned_ans = [
         i.replace("$", "").replace("€", "").replace("£", "") for i in cleaned_ans
     ]
 
-    # if thousand or millions or billions
-    # multi = ""
-    # for k in ["thousand", "million", "billion"] :
-    #   if k in ans :
-    # k = multi
-
-    # sep the number
-    # 100 or 1.2
-    # then multiply number * thousand (1_000) or million (1_000_000)...
-
-    # delete ,  ie 1,000,000
-    cleaned_ans = [i.replace(",", "") for i in cleaned_ans]
-
-    # handle millions
+    # thousands as thousand
     cleaned_ans = [
-        i.lower().replace("millions", "000000").replace("million", "000000")
+        i.replace("thousands", "thousand")
+        .replace("millions", "million")
+        .replace("billions", "billion")
+        .replace("hundreds", "hundred")
         for i in cleaned_ans
     ]
-    cleaned_ans = ["".join([c for c in list(i) if c.isnumeric()]) for i in cleaned_ans]
 
-    return cleaned_ans
+    cleaned_ans_multi = list()
+    for ans in cleaned_ans:
+        multi = ""
+        for k, _ in MULTI:
+            if k in ans:
+                multi = k
+                break
+
+        cleaned_ans_multi.append((ans, multi))
+
+    cleaned_ans_multi_2 = list()
+    for numb, multi in cleaned_ans_multi:
+        if not multi:
+            numb = "".join([c for c in list(numb) if c.isnumeric()])
+            numb = int(numb)
+        else:
+            numb = numb.split(multi)[0].replace(",", ".").strip().replace(" ", "")
+            numb = float(numb)
+            for mm, k in MULTI:
+                if mm == multi:
+                    numb *= k
+                    multi = ""
+
+        cleaned_ans_multi_2.append(int(numb))
+
+    return cleaned_ans_multi_2
 
 
 def predict_cost(structured_press_release: list, nlpipe=None):
@@ -111,7 +126,7 @@ def predict_cost(structured_press_release: list, nlpipe=None):
     cleaned_ans = _string_to_number(cleaned_ans)
 
     # reponse
-    resp = ", ".join()
+    resp = ", ".join(cleaned_ans)
 
     return resp
 

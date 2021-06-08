@@ -39,105 +39,105 @@ def _shall_not_pass(structured_text):
     return structured_text
 
 
-def _double_break_as_para(txt: str, sep: str = "---------------------") -> str:
-    """add a --------- instdead of double break """
+# def _double_break_as_para(txt: str, sep: str = "---------------------") -> str:
+#     """add a --------- instdead of double break """
 
-    txt = txt.replace("\n\n", f"\n{sep}\n")
-    txt = txt.replace("\n\n", "\n")
-    txt = txt.replace("\n\n", "\n")
+#     txt = txt.replace("\n\n", f"\n{sep}\n")
+#     txt = txt.replace("\n\n", "\n")
+#     txt = txt.replace("\n\n", "\n")
 
-    return txt
-
-
-def _del_empty_lines(txt: str) -> str:
-    """del empty lines """
-
-    l = txt.splitlines()
-    l = [i.strip() for i in l]
-    l = [i for i in l if i]
-
-    return "\n".join(l)
+#     return txt
 
 
-def _del_double_breaks(txt: str, sep: str = "---------------------") -> str:
-    """del double breaks and double \n\n """
+# def _del_empty_lines(txt: str) -> str:
+#     """del empty lines """
 
-    txt = txt.replace(f"{sep}\n{sep}\n", f"\n{sep}\n")
-    txt = txt.replace(f"{sep}\n{sep}\n", f"\n{sep}\n")
-    txt = txt.replace("\n\n", "\n")
-    txt = txt.replace("\n\n", "\n")
+#     l = txt.splitlines()
+#     l = [i.strip() for i in l]
+#     l = [i for i in l if i]
 
-    return txt
-
-
-def _force_strip(txt: str) -> str:
-    """force a strip of each line """
-
-    lines = txt.splitlines()
-    txt = "\n".join([i.strip() for i in lines])
-
-    return txt
+#     return "\n".join(l)
 
 
-def _split_by_para(txt: str, sep: str = "---------------------") -> list:
-    """split a txt in list with ------ sep """
+# def _del_double_breaks(txt: str, sep: str = "---------------------") -> str:
+#     """del double breaks and double \n\n """
 
-    txt = txt.replace("\n" + sep + "\n", sep)
-    lines = txt.split(sep)
+#     txt = txt.replace(f"{sep}\n{sep}\n", f"\n{sep}\n")
+#     txt = txt.replace(f"{sep}\n{sep}\n", f"\n{sep}\n")
+#     txt = txt.replace("\n\n", "\n")
+#     txt = txt.replace("\n\n", "\n")
 
-    return lines
-
-
-def _squeeze_fake_break(txt: str) -> str:
-    """try to squeeze fake \n and have good sentece structure
-    example 'this is\n a sentence' become 'this is a sentence'"""
-
-    txt = txt.replace(".\n", "!!!!!")
-    txt = txt.replace("\n", " ")
-    txt = txt.replace("!!!!!", ".\n")
-
-    return txt
+#     return txt
 
 
-def _build_press_release(
-    lines: list,
-    squeeze_break: bool = True,
-) -> dict:
-    """create a dict of key, values """
+# def _force_strip(txt: str) -> str:
+#     """force a strip of each line """
 
-    dd = {}
-    key_i_list = [
-        ("id", 0),
-        ("date", 1),
-        ("h1", 2),
-        ("h2", 3),
-        ("update", -1),
-        ("contact", -2),
-    ]
-    for key, i in key_i_list:
-        dd[key] = lines[i] if not squeeze_break else _squeeze_fake_break(lines[i])
+#     lines = txt.splitlines()
+#     txt = "\n".join([i.strip() for i in lines])
 
-    _lines = [_squeeze_fake_break(i) for i in lines[4:-2]]
-    dd["article"] = "\n".join(_lines)
+#     return txt
 
-    return dd
+
+# def _split_by_para(txt: str, sep: str = "---------------------") -> list:
+#     """split a txt in list with ------ sep """
+
+#     txt = txt.replace("\n" + sep + "\n", sep)
+#     lines = txt.split(sep)
+
+#     return lines
+
+
+# def _squeeze_fake_break(txt: str) -> str:
+#     """try to squeeze fake \n and have good sentece structure
+#     example 'this is\n a sentence' become 'this is a sentence'"""
+
+#     txt = txt.replace(".\n", "!!!!!")
+#     txt = txt.replace("\n", " ")
+#     txt = txt.replace("!!!!!", ".\n")
+
+#     return txt
+
+
+# def _build_press_release(
+#     lines: list,
+#     squeeze_break: bool = True,
+# ) -> dict:
+#     """create a dict of key, values """
+
+#     dd = {}
+#     key_i_list = [
+#         ("id", 0),
+#         ("date", 1),
+#         ("h1", 2),
+#         ("h2", 3),
+#         ("update", -1),
+#         ("contact", -2),
+#     ]
+#     for key, i in key_i_list:
+#         dd[key] = lines[i] if not squeeze_break else _squeeze_fake_break(lines[i])
+
+#     _lines = [_squeeze_fake_break(i) for i in lines[4:-2]]
+#     dd["article"] = "\n".join(_lines)
+
+#     return dd
 
 
 def structure_press_release(
     txt: str, squeeze_break: bool = False, force_dict: bool = True
 ) -> str:
 
-    txt = _double_break_as_para(txt)
-    txt = _del_empty_lines(txt)
-    txt = _del_double_breaks(txt)
-    txt = _force_strip(txt)
-    lines = _split_by_para(txt)
+    # txt = _double_break_as_para(txt)
+    # txt = _del_empty_lines(txt)
+    # txt = _del_double_breaks(txt)
+    # txt = _force_strip(txt)
+    # lines = _split_by_para(txt)
 
-    if squeeze_break:
-        lines = [_squeeze_fake_break(txt) for txt in lines]
+    # if squeeze_break:
+    #     lines = [_squeeze_fake_break(txt) for txt in lines]
 
-    if force_dict:
-        dd = _build_press_release(lines)
+    # if force_dict:
+    #     dd = _build_press_release(lines)
 
     # errors
     dd = _shall_not_pass(dd)
@@ -159,12 +159,9 @@ if __name__ == "__main__":
 
     # structured_press_release_list
     df = press_release_X_y(features="defendant")
-    df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
+    # df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
 
-    one = df["structured_txt"].iloc[0]
-    one_list = [(k, str(v)[:100] + "...") for k, v in one.items()]
-    one_str = "\n".join([f"{i.rjust(10)}\t:\t{j}" for i, j in one_list])
-    print(one_str)
-
-    # df["id"] = df.structured_txt.apply(lambda i: i.get("id")[:100])
-    # df["date"] = df.structured_txt.apply(lambda i: i.get("date")[:100])
+    # one = df["structured_txt"].iloc[0]
+    # one_list = [(k, str(v)[:100] + "...") for k, v in one.items()]
+    # one_str = "\n".join([f"{i.rjust(10)}\t:\t{j}" for i, j in one_list])
+    # print(one_str)

@@ -2,9 +2,6 @@ import os
 from pprint import pformat, pprint
 
 
-sep = "---------------------"
-
-
 def _shall_not_pass(dict_text):
 
     error = 0
@@ -39,13 +36,23 @@ def _shall_not_pass(dict_text):
     return dict_text
 
 
+def _from_txt_to_lines(txt):
+
+    txt = txt.replace("\n\n", "\n").replace("\n\n", "\n")
+    lines = txt.splitlines()
+    return lines
+
+
 def _clean_lines(lines):
     """ just drop ueseless lines"""
 
     lines = [i.strip() for i in lines]
     lines = [i for i in lines if i]
+    sep = 8
+    lines_0 = [i for i in lines[:sep] if len(i) >= 7]
+    lines_1 = lines[sep:]
 
-    return lines
+    return lines_0 + lines_1
 
 
 def _find_release_number(lines):
@@ -70,9 +77,16 @@ def _find_release_number(lines):
 def _find_date(lines):
     """find the date """
 
-    if ("201" in lines[0][:25]) or ("202" in lines[0][:25]) or ("200" in lines[0][:25]):
-        idx = 0
-        line = lines[idx]
+    idx = -1
+    for i in range(0, 6):
+        if (
+            ("201" in lines[i][:25])
+            or ("202" in lines[i][:25])
+            or ("200" in lines[i][:25])
+        ):
+            idx = i
+
+        line = lines[idx].strip()
         lines.pop(idx)
         return line, lines
 
@@ -123,10 +137,11 @@ def structure_press_release(
     }
 
     # lines
-    lines = txt.splitlines()
+    lines = _from_txt_to_lines(txt)
 
     # clean lines
     lines = _clean_lines(lines)
+
     # split items
     dd["id"], lines = _find_release_number(lines)
     dd["date"], lines = _find_date(lines)
@@ -144,6 +159,7 @@ def structure_press_release(
 
 if __name__ == "__main__":
 
+    # import
     from legal_doc_processing.press_release.utils import press_release_X_y
     from legal_doc_processing.press_release.segmentation.structure import (
         structure_press_release,
@@ -151,36 +167,35 @@ if __name__ == "__main__":
 
     # structured_press_release_list
     df = press_release_X_y(features="defendant")
-    # df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
+    df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
 
-    # one = df["structured_txt"].iloc[0]
-    # one_list = [(k, str(v)[:100] + "...") for k, v in one.items()]
-    # one_str = "\n".join([f"{i.rjust(10)}\t:\t{j}" for i, j in one_list])
-    # print(one_str)
+    # one
+    one_text = df.txt.iloc[0]
+    one_struct = df["structured_txt"].iloc[0]
+    one_list = [(k, str(v)[:100] + "...") for k, v in one_struct.items()]
+    one_str = "\n".join([f"{i.rjust(10)}\t:\t{j}" for i, j in one_list])
+    print(one_str + "\n")
 
-    txt = df.txt.iloc[0]
+    # two to five
+    for i in range(1, 6):
+        i_text = df.txt.iloc[i]
+        i_struct = df["structured_txt"].iloc[1]
+        i_list = [(k, str(v)[:100] + "...") for k, v in i_struct.items()]
+        i_str = "\n".join([f"{i.rjust(10)}\t:\t{j}" for i, j in i_list])
+        print(i_str + "\n")
 
-    # init dd
-    dd = {
-        "id": "--ERROR--",
-        "date": "--ERROR--",
-        "h1": "--ERROR--",
-        "article": "--ERROR--",
-        "error": 0,
-    }
+    # all
+    df["_id"] = df.structured_txt.apply(lambda i: i["id"])
+    df["date"] = df.structured_txt.apply(lambda i: i["date"])
+    df["h1"] = df.structured_txt.apply(lambda i: i["h1"])
+    df["article"] = df.structured_txt.apply(lambda i: i["article"])
+    df["error"] = df.structured_txt.apply(lambda i: i["error"])
 
-    # lines
-    lines = txt.splitlines()
+    df._id
+    df.date
+    df.h1
+    df.article
+    df.error
 
-    # clean lines
-    lines = _clean_lines(lines)
-
-
-text = [
-    "helo this is",
-    "a sentence.",
-    "i love this one, but",
-    "i need to end ",
-    "on a other line.    ",
-    "due to wierd word",
-]
+    # find errors
+    df_errors = df.loc[df.error > 0, :]

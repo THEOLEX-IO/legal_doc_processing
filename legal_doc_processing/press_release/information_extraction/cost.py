@@ -89,15 +89,30 @@ def _string_to_number(cleaned_ans):
     cleaned_ans_multi_2 = list()
     for numb, multi in cleaned_ans_multi:
         if not multi:
+            # easy, jsute keep the numbers
             numb = "".join([c for c in list(numb) if c.isnumeric()])
             numb = int(numb)
         else:
-            numb = numb.split(multi)[0].replace(",", ".").strip().replace(" ", "")
-            numb = float(numb)
+            # clean the numb: 1, 12 -> 1.22
+            numb = numb.split(multi)[0].replace(",", ".").strip()
+
+            # find last numberic and clean : a total of 3.12 -> 3.12
+            cands_list = [i for i in numb.split(" ") if i[0].isnumeric()]
+            cand = cands_list[-1].strip()
+
+            # specific a 'total of for 3 000' ->  '3000'
+            try:
+                if cands_list[-2].strip()[0].isnumeric():
+                    cand = str(cands_list[-2].strip()) + str(cand)
+            except Exception as e:
+                pass
+
+            numb = float(cand.strip())
+
+            # make 1.3 million -> 1.3 * 1 000 000 = 1 300 000
             for mm, k in MULTI:
                 if mm == multi:
                     numb *= k
-                    multi = ""
 
         cleaned_ans_multi_2.append(int(numb))
 
@@ -121,8 +136,10 @@ def predict_cost(structured_press_release: list, nlpipe=None):
     # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
     ll = _clean_ans(ans)
 
+    # keep ans
     cleaned_ans = [i["answer"] for i in ll]
 
+    # clean
     cleaned_ans = _string_to_number(cleaned_ans)
 
     # reponse

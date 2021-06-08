@@ -122,73 +122,83 @@ def boot():
     _boot_legal_doc()
 
 
-def make_dataframe(path: str = "./data/csv/original_dataset.csv", n: int = 10):
-    """
-    :param path  = the path to read original dataset
-    :param n     = the n-st line to scrap, other will be droped
-    """
+def make_dataframe(
+    path: str = "./data/csv/files.csv",
+):
 
     # read df
     df = pd.read_csv(path)
-
-    # keep cols
-    keep_cols = [
-        "id",
-        "name",
-        "status",
-        "reference",
-        "document_link",
-        "press_release_link",
-        "monetary_sanction",
-        "currency",
-        "type",
-        "justice_type",
-        "defendant",
-        "decision_date",
-        "extracted_violations",
-    ]
-
-    drop_cols = [i for i in df.columns if i not in keep_cols]
-    df = df.drop(drop_cols, axis=1)
-
-    # fill rate
-    fill_rate = lambda col: (len(df) - sum(df[col].isna())) / len(df)
-    df_rate_fill = [(col, round(fill_rate(col), 2)) for col in df.columns]
-
-    # press_release and document_link
-    for col, ext in [("press_release", ".html"), ("document", ".txt")]:
-        funct = (
-            lambda i: np.nan if ("storage.google" not in i) else i.replace(".pdf", ext)
-        )
-        df[col + "_URL"] = df[col + "_link"].apply(lambda i: funct(str(i).strip()))
-
-    # clean lines without press or document
-    df = df.loc[~df.document_URL.isna(), :]
-    df = df.loc[~df.press_release_URL.isna(), :]
-    df.index = range(len(df))
-
-    def scrap(url: str):
-        """ """
-
-        try:
-            # print(url)
-            res = requests.get(url)
-
-            if res.status_code < 300:
-                return res.text
-            else:
-                return res.status_code
-
-        except Exception as e:
-            return str(e)
-
-    # test on 10
-    df = df.iloc[:n, :]
-
-    # sync version
-    for col in ["press_release", "document"]:
-        df[col + "_TEXT"] = df[col + "_URL"].apply(lambda i: scrap(str(i).strip()))
-
-    df.to_csv("./data/csv/dataset.csv", index=False)
-
     return df
+
+
+# DEPRECATED
+# def make_dataframe(path: str = "./data/csv/original_dataset.csv", n: int = 10):
+#     """
+#     :param path  = the path to read original dataset
+#     :param n     = the n-st line to scrap, other will be droped
+#     """
+
+#     # read df
+#     df = pd.read_csv(path)
+
+#     # keep cols
+#     keep_cols = [
+#         "id",
+#         "name",
+#         "status",
+#         "reference",
+#         "document_link",
+#         "press_release_link",
+#         "monetary_sanction",
+#         "currency",
+#         "type",
+#         "justice_type",
+#         "defendant",
+#         "decision_date",
+#         "extracted_violations",
+#     ]
+
+#     drop_cols = [i for i in df.columns if i not in keep_cols]
+#     df = df.drop(drop_cols, axis=1)
+
+#     # fill rate
+#     fill_rate = lambda col: (len(df) - sum(df[col].isna())) / len(df)
+#     df_rate_fill = [(col, round(fill_rate(col), 2)) for col in df.columns]
+
+#     # press_release and document_link
+#     for col, ext in [("press_release", ".html"), ("document", ".txt")]:
+#         funct = (
+#             lambda i: np.nan if ("storage.google" not in i) else i.replace(".pdf", ext)
+#         )
+#         df[col + "_URL"] = df[col + "_link"].apply(lambda i: funct(str(i).strip()))
+
+#     # clean lines without press or document
+#     df = df.loc[~df.document_URL.isna(), :]
+#     df = df.loc[~df.press_release_URL.isna(), :]
+#     df.index = range(len(df))
+
+#     def scrap(url: str):
+#         """ """
+
+#         try:
+#             # print(url)
+#             res = requests.get(url)
+
+#             if res.status_code < 300:
+#                 return res.text
+#             else:
+#                 return res.status_code
+
+#         except Exception as e:
+#             return str(e)
+
+#     # test on 10
+#     df = df.iloc[:n, :]
+
+#     # sync version
+#     for col in ["press_release", "document"]:
+#         df[col + "_TEXT"] = df[col + "_URL"].apply(lambda i: scrap(str(i).strip()))
+
+#     df.to_csv("./data/csv/dataset.csv", index=False)
+
+#     return df

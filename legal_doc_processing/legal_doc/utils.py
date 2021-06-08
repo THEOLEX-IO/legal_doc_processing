@@ -1,5 +1,5 @@
 import os
-from legal_doc_processing.utils import load_data
+from legal_doc_processing.utils import load_data, make_dataframe
 
 
 def load_legal_doc_files(path="./data/files"):
@@ -29,3 +29,29 @@ def load_legal_doc_text_list(path="./data/files"):
     press_txt_list = [load_data(i) for i in files_list]
 
     return press_txt_list
+
+
+def legal_doc_y_df(path: str = "./data/csv/files.csv", features=None):
+    "take data/csv/files.csv, make a df, select press and select releveant features"
+
+    df = make_dataframe(path)
+    _df = df.loc[df.doctype != "press", :]
+    if not features:
+        return _df
+    if isinstance(features, str):
+        f = [
+            "folder",
+            "filename",
+            features,
+        ]
+        return _df.loc[:, f]
+
+    if isinstance(features, list):
+        f = [
+            "folder",
+            "filename",
+        ]
+        f.extend(features)
+        return _df.loc[:, f]
+
+    return "--None--"

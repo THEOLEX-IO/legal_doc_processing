@@ -127,8 +127,8 @@ def predict_defendant(structured_press_release: list, nlpipe=None):
 if __name__ == "__main__":
 
     # import
-    from legal_doc_processing.utils import *
-    from legal_doc_processing.press_release.utils import *
+    from legal_doc_processing.utils import get_pipeline
+    from legal_doc_processing.press_release.utils import press_release_X_y
     from legal_doc_processing.press_release.segmentation.structure import (
         structure_press_release,
     )
@@ -137,19 +137,19 @@ if __name__ == "__main__":
     nlpipe = get_pipeline()
 
     # structured_press_release_list
-    press_txt_list = load_press_release_text_list()
-    structured_press_release_list = [structure_press_release(i) for i in press_txt_list]
+    df = press_release_X_y(features="defendant")
+    df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
 
     # test one
-    structured_press_release = structured_press_release_list[0]
+    one = df.structured_txt.iloc[0]
 
-    all_ans_h1 = _ask_all(structured_press_release["h1"], nlpipe)
-    all_ans_h2 = _ask_all(structured_press_release["h2"], nlpipe)
-    all_ans_article = _ask_all(structured_press_release["article"], nlpipe)
+    # all_ans_h1 = _ask_all(structured_press_release["h1"], nlpipe)
+    # all_ans_h2 = _ask_all(structured_press_release["h2"], nlpipe)
+    # all_ans_article = _ask_all(structured_press_release["article"], nlpipe)
 
-    ans = predict_defendant(structured_press_release, nlpipe)
+    # ans = predict_defendant(structured_press_release, nlpipe)
 
-    # test others
-    ans_list = [predict_defendant(p, nlpipe) for p in structured_press_release_list]
-    clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
-    clean_ans_list = [", ".join(ll) for ll in clean_ans_list]
+    # # test others
+    # ans_list = [predict_defendant(p, nlpipe) for p in structured_press_release_list]
+    # clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
+    # clean_ans_list = [", ".join(ll) for ll in clean_ans_list]

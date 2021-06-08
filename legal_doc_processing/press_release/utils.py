@@ -46,6 +46,7 @@ def press_release_X_df(path="./data/files"):
         {"folder": i, "filename": j, "txt": k}
         for i, j, k in zip(folder_list, files_list, press_txt_list)
     ]
+
     return pd.DataFrame(df)
 
 
@@ -97,5 +98,8 @@ def press_release_X_y(root: str = "./data", features=None):
 
     # same length
     assert len(X_y) == len(X)
+
+    X_y = X_y.sort_values("folder", ascending=True)
+    X_y.index = range(len(X_y))
 
     return X_y

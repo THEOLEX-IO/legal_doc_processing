@@ -1,7 +1,7 @@
 from tests import *
 
 from legal_doc_processing.press_release.information_extraction.cost import (
-    _string_to_number,
+    _cast_as_int,
 )
 
 
@@ -34,7 +34,7 @@ class TestStringToNumber(unittest.TestCase):
 
             X, y = list(zip(*text_list))
 
-            preds = _string_to_number(X)
+            preds = _cast_as_int(X)
             ans = list(zip(preds, y))
             accuracy = sum([i == j for i, j in ans]) / len(ans)
             assert accuracy > 0.75

@@ -55,7 +55,7 @@ def _clean_ans(ans, threshold=0.5):
     return ll
 
 
-def _string_to_number(cleaned_ans):
+def _cast_as_int(cleaned_ans):
     """transform a list of numbers in ints """
 
     MULTI = [("thousand", 1000), ("million", 1_000_000), ("billion", 1_000_000_000)]
@@ -125,10 +125,32 @@ def predict_cost(structured_press_release: list, nlpipe=None):
     # pipe
     nlpipe = _if_not_pipe(nlpipe)
 
-    # choose the item
-    h1 = structured_press_release["h1"]
-    h2 = structured_press_release["h2"]
-    txt = h1.lower() if "pay" in h1.lower() else h2.lower()
+    # section cands
+    cands = [
+        structured_press_release["h1"].lower(),
+        structured_press_release["h2"].lower(),
+        # article = structured_press_release["article"].lower()
+    ]
+
+    # section ok if "pay" or amend or $ or € or euro in the text
+    money = ["$", "€", "£", "euros", "dollar", "livre"]
+    is_good = (
+        lambda sec: ("amend" in sec)
+        or ("penalty" in sec)
+        or ("pay" in sec)
+        or sum([i for i in money if i.replace("s", "") in sec])
+    )
+
+    # parse sections to know if ok
+    txt = ""
+    for section in cands:
+        txt = section if is_good(section) else ""
+        if txt:
+            break
+
+    # if  nothing ok
+    if not txt:
+        return "--None--"
 
     # ask all and get all possible response
     ans = _ask_all(txt, nlpipe)
@@ -139,8 +161,8 @@ def predict_cost(structured_press_release: list, nlpipe=None):
     # keep ans
     cleaned_ans = [i["answer"] for i in ll]
 
-    # clean
-    cleaned_ans = _string_to_number(cleaned_ans)
+    # cast as int
+    cleaned_ans = _cast_as_int(cleaned_ans)
 
     # reponse
     resp = ", ".join(cleaned_ans)

@@ -8,6 +8,19 @@ from legal_doc_processing.utils import (
 )
 
 
+def _you_shall_not_pass(ans_list):
+    """ """
+
+    # clean
+    ans_list = [i for i in ans_list if (i["answer"].lower() != "defendants")]
+    ans_list = [i for i in ans_list if (i["answer"].lower() != "defendant")]
+
+    # len
+    ans_list = [i for i in ans_list if len(i) < 100]
+
+    return ans_list
+
+
 def _ask_all(txt, nlpipe) -> list:
     """asl all questions and return a list of dict """
 
@@ -41,8 +54,8 @@ def _ask_all(txt, nlpipe) -> list:
     # sort
     ans = sorted(ans, key=lambda i: i["score"], reverse=True)
 
-    # clean
-    ans = [i for i in ans if (i["answer"].lower() != "defendants")]
+    # shall not pass
+    ans = _you_shall_not_pass(ans)
 
     return ans
 

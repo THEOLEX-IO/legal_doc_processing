@@ -1,0 +1,51 @@
+Release Number 7946-19
+June 25, 2019
+
+CFTC Orders Merrill Lynch Commodities, Inc. to Pay Approximately $25 Million for
+Spoofing, Manipulation, and Attempted Manipulation in Precious Metals Futures
+
+Washington, DC - The Commodity Futures Trading Commission (CFTC) today issued an Order filing and simultaneously
+settling charges against Merrill Lynch Commodities, Inc. (MLCI), a provisionally registered swap dealer, for spoofing,
+manipulation, and attempted manipulation over a six-year period with respect to certain precious metals futures
+contracts traded on the Commodity Exchange, Inc. (COMEX).
+
+The CFTC Order imposes monetary sanctions totaling approximately $25 million, which includes a civil monetary penalty
+of $11.5 million dollars, over $2.3 million in restitution, and disgorgement of $11.1 million. The Order also requires MLCI
+to cooperate with the CFTC in matters related to this action and the underlying conduct, and to comply with certain
+obligations in connection with its corporate compliance program and reporting requirements.
+
+CFTC’s Director of Enforcement Comments
+
+James McDonald, CFTC Director of Enforcement, stated: “Today’s enforcement action shows that the Commission
+continues to aggressively pursue those who manipulate and spoof in our markets. If left unchecked, this sort of
+misconduct can undermine the integrity of the price discovery process, harm law-abiding market participants, and
+diminish confidence in our markets more generally. That’s why we will continue to keep our markets free from spoofing
+and manipulation.”
+
+The Order specifically finds that during the period from at least 2008 through 2014 certain traders at MLCI (Traders)
+placed orders to buy and sell precious metals futures contracts with the intent to cancel the orders before execution.
+According to the Order, the Traders’ spoofing strategy frequently involved placing a relatively small bid or offer with the
+intent to execute that order (the Genuine Order) and, prior to the execution of the Genuine Order, placing a larger order
+(or multiple orders) on the opposite side of the same market with the intent to cancel the order or orders before
+execution (the Spoof Order). Generally, the Traders would receive a partial or complete fill of the Genuine Order and
+cancel the Spoof Order before it was filled. The Order further finds that the Traders engaged in this conduct with the
+intent to manipulate market prices and ultimately did cause artificial prices. Moreover, as the Order finds, on occasion,
+certain Traders acknowledged spoofing to affect prices. For example, in a November 16, 2010 electronic chat, a Trader
+stated:
+
+“guys the algos are really geared up in here. [I]f you spoof this it really moves... .”
+The Order recognizes that MLCI provided substantial cooperation to CFTC’s Division of Enforcement which resulted in a
+substantially reduced civil monetary penalty.
+
+Today, the US Department of Justice also announced that the Fraud Section of the Criminal Division has entered into a
+Non-Prosecution Agreement with MLCI in a parallel matter. Under the terms of the agreement, MLCI has agreed, among
+other things, to pay $25 million, which represents the combined appropriate criminal fine, forfeiture, and restitution
+amounts in that matter, to cooperate fully with the Fraud Section in any and all matters relating to the underlying
+conduct, and to comply with certain obligations in connection with its corporate compliance program and reporting
+requirements.
+
+The CFTC thanks and acknowledges the assistance of the U.S. Department of Justice and the Federal Bureau of
+Investigation.
+
+This case is brought in connection with the CFTC Division of Enforcement’s Spoofing Task Force, and the staff members
+responsible for this matter are Brandon Wozniak, Lara Turcik, Candice Aloisi, Lenel Hickson, Jr., and Manal M. Sultan.

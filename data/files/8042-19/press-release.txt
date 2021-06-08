@@ -1,0 +1,24 @@
+Release Number 8042-19
+
+October 1, 2019
+
+CFTC Orders The Bank of New York Mellon to Pay $750,000 For Swap Reporting Violations
+
+Washington, DC — On Monday, September 30, 2019, the CFTC filed and settled charges against The Bank of New
+York Mellon, a provisionally registered swap dealer, for numerous violations of the CEA and CFTC regulations relating to
+swap reporting. BNYM is the world’s largest custody bank and asset servicing company. The order requires BYNM to pay
+a $750,000 civil monetary penalty, among other sanctions. The order recognizes BNYM’s substantial cooperation during
+the Division of Enforcement’s investigation of this matter and remediation in the form of a substantially reduced civil
+monetary penalty.
+
+According to the order, from December 31, 2012 through at least 2018, BNYM failed to correctly report hundreds of
+thousands of swap transactions to a swap data repository as required by the CEA and CFTC regulations. BNYM’s swap
+reporting failures included failing to correctly report tens of thousands of foreign exchange (FX) swaps from December
+31, 2012 through July 2, 2018, failing report tens of thousands of swap transactions with BNYM affiliates and, from
+December 31, 2012 through at least December 31, 2018, failing to correctly report bunched trades (transactions with
+investment managers acting as agents for one or more principals).
+
+The Division of Enforcement staff members responsible for this action are Jason T. Wright, Patricia Gomersall, A. Daniel
+Ullman Il, and Paul G. Hayeck.
+
+-CFTC-

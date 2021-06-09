@@ -103,19 +103,21 @@ def _clean_ans(ans, threshold=0.5):
     return ll
 
 
-def predict_defendant(structured_press_release: list, nlpipe=None):
+def predict_defendant(struct_doc: list, nlpipe=None):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # pipe
     nlpipe = _if_not_pipe(nlpipe)
 
-    # choose the item
-    txt = structured_press_release["h1"]
+    # ask h1
+    ans_h1 = _ask_all(struct_doc["h1"], nlpipe)
 
-    # ask all and get all possible response
-    ans = _ask_all(txt, nlpipe)
+    # ask article 3st lines
+    txt = "\n".join(struct_doc["article"].split("\n")[0])
+    ans_article = _ask_all(txt, nlpipe)
 
     # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
+    ans = ans_h1 + ans_article
     ll = _clean_ans(ans)
 
     # reponse

@@ -55,14 +55,102 @@ def _clean_ans(ans, threshold=0.5):
     return ll
 
 
+def _cast_as_int(cleaned_ans):
+    """transform a list of numbers in ints """
+
+    MULTI = [("thousand", 1000), ("million", 1_000_000), ("billion", 1_000_000_000)]
+
+    cleaned_ans = [i.lower().strip() for i in cleaned_ans]
+
+    # delette € or $
+    cleaned_ans = [
+        i.replace("$", "").replace("€", "").replace("£", "") for i in cleaned_ans
+    ]
+
+    # thousands as thousand
+    cleaned_ans = [
+        i.replace("thousands", "thousand")
+        .replace("millions", "million")
+        .replace("billions", "billion")
+        .replace("hundreds", "hundred")
+        for i in cleaned_ans
+    ]
+
+    cleaned_ans_multi = list()
+    for ans in cleaned_ans:
+        multi = ""
+        for k, _ in MULTI:
+            if k in ans:
+                multi = k
+                break
+
+        cleaned_ans_multi.append((ans, multi))
+
+    cleaned_ans_multi_2 = list()
+    for numb, multi in cleaned_ans_multi:
+        if not multi:
+            # easy, jsute keep the numbers
+            numb = "".join([c for c in list(numb) if c.isnumeric()])
+            numb = int(numb)
+        else:
+            # clean the numb: 1, 12 -> 1.22
+            numb = numb.split(multi)[0].replace(",", ".").strip()
+
+            # find last numberic and clean : a total of 3.12 -> 3.12
+            cands_list = [i for i in numb.split(" ") if i[0].isnumeric()]
+            cand = cands_list[-1].strip()
+
+            # specific a 'total of for 3 000' ->  '3000'
+            try:
+                if cands_list[-2].strip()[0].isnumeric():
+                    cand = str(cands_list[-2].strip()) + str(cand)
+            except Exception as e:
+                pass
+
+            numb = float(cand.strip())
+
+            # make 1.3 million -> 1.3 * 1 000 000 = 1 300 000
+            for mm, k in MULTI:
+                if mm == multi:
+                    numb *= k
+
+        cleaned_ans_multi_2.append(int(numb))
+
+    return cleaned_ans_multi_2
+
+
 def predict_cost(structured_press_release: list, nlpipe=None):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # pipe
     nlpipe = _if_not_pipe(nlpipe)
 
-    # choose the item
-    txt = structured_press_release["h1"]
+    # section cands
+    cands = [
+        structured_press_release["h1"].lower(),
+        structured_press_release["h2"].lower(),
+        # article = structured_press_release["article"].lower()
+    ]
+
+    # section ok if "pay" or amend or $ or € or euro in the text
+    money = ["$", "€", "£", "euros", "dollar", "livre"]
+    is_good = (
+        lambda sec: ("amend" in sec)
+        or ("penalty" in sec)
+        or ("pay" in sec)
+        or sum([i for i in money if i.replace("s", "") in sec])
+    )
+
+    # parse sections to know if ok
+    txt = ""
+    for section in cands:
+        txt = section if is_good(section) else ""
+        if txt:
+            break
+
+    # if  nothing ok
+    if not txt:
+        return "--None--"
 
     # ask all and get all possible response
     ans = _ask_all(txt, nlpipe)
@@ -70,8 +158,14 @@ def predict_cost(structured_press_release: list, nlpipe=None):
     # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
     ll = _clean_ans(ans)
 
+    # keep ans
+    cleaned_ans = [i["answer"] for i in ll]
+
+    # cast as int
+    cleaned_ans = _cast_as_int(cleaned_ans)
+
     # reponse
-    resp = ", ".join([i["answer"] for i in ll])
+    resp = ", ".join(cleaned_ans)
 
     return resp
 

@@ -103,13 +103,18 @@ def _sub_you_shall_not_pass(
     forbiden = [
         "Judge",
         "Civil Monetary Penalty",
-        "the Commodity Industry",
+        "Swap Reporting Violations",
+        "Commodity Industry",
         "Personal Expenses",
         "Commodity Futures",
-        "Commodity Exchange Act",
+        "Commodity Exchange ",
         "CFTC",
         "U.S. District Court",
-        "the Commodity Exchange",
+        "Commodity Exchange",
+        "an Unregistered",
+        "Swap Dealer",
+        "Commodity Trading",
+        "Commodity Pool ",
     ]
 
     for f in forbiden:
@@ -347,15 +352,12 @@ def predict_defendant(
 
     # spacy entities
     consitant_ans = [i for i in merged_ans if i["new_answer"] in pers_org_entities_list]
+
     consitant_ans = [(i["new_answer"], i["cum_score"]) for i in consitant_ans]
 
-    # # extract ans
-    # str_ans = [i["new_answer"] for i in merged_ans]
+    last_ans = [(i, j) for i, j in consitant_ans if j > 0.4]
 
-    # # reponse
-    # resp = ",".join(last_ans)
-
-    return consitant_ans
+    return last_ans
 
 
 if __name__ == "__main__":

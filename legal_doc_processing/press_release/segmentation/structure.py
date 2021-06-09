@@ -83,7 +83,6 @@ def _find_release_number(lines: list) -> tuple:
 def _find_date(lines: list) -> tuple:
     """find the date """
 
-    idx = -1
     for i in range(0, 6):
         if (
             ("201" in lines[i][:25])
@@ -91,11 +90,10 @@ def _find_date(lines: list) -> tuple:
             or ("200" in lines[i][:25])
         ):
             idx = i
+            line = lines[idx].strip()
+            lines.pop(idx)
 
-        line = lines[idx].strip()
-        lines.pop(idx)
-
-        return line, lines
+            return line, lines
 
     return "--ERROR--", lines
 
@@ -148,6 +146,7 @@ def structure_press_release(txt: str) -> str:
 
     # clean lines
     lines = _clean_lines(lines)
+    dd["lines"] = lines
 
     # split items
     dd["id"], lines = _find_release_number(lines)
@@ -196,6 +195,8 @@ if __name__ == "__main__":
     df["date"] = df.structured_txt.apply(lambda i: i["date"])
     df["h1"] = df.structured_txt.apply(lambda i: i["h1"])
     df["article"] = df.structured_txt.apply(lambda i: i["article"])
+    df["lines"] = df.structured_txt.apply(lambda i: i["lines"])
+
     df["error"] = df.structured_txt.apply(lambda i: i["error"])
 
     # df._id

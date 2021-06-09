@@ -221,14 +221,33 @@ def _clean_ans(ans, threshold=0.5):
     return ll
 
 
-def predict_from_h1(struct_doc: list, nlpipe=None):
+def _get_entities_pers_orgs(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None) -> list:
+    """get entities PERSON and ORG from h1 and sub_article """
+
+    nlpspa = _if_not_spacy(nlpspa)
+
+    # sub article
+    sub_article = "\n".join(struct_doc["article"].split("\n")[:n_paragraphs])
+
+    # all pers all orgs from spacy entities
+    all_pers = get_pers(struct_doc["h1"], nlpspa) + get_pers(sub_article, nlpspa)
+    all_orgs = get_orgs(struct_doc["h1"], nlpspa) + get_orgs(sub_article, nlpspa)
+    pers_org_entities_list = all_pers + all_orgs
+
+    # clean
+    pers_org_entities_list = _sub_you_shall_not_pass(pers_org_entities_list)
+
+    return pers_org_entities_list
+
+
+def predict_from_h1(struct_doc: list, nlpipe=None, pers_org_entities_list=None) -> list:
     """ """
 
-    #     # pipe
-    #     nlpipe = _if_not_pipe(nlpipe)
+    # pipe
+    nlpipe = _if_not_pipe(nlpipe)
 
-    #     # txt
-    #     txt = struct_doc["h1"]
+    # txt
+    txt = struct_doc["h1"]
 
     #     # ask h1
     #     ans = _ask_all(txt, nlpipe)
@@ -254,25 +273,23 @@ def predict_from_h1(struct_doc: list, nlpipe=None):
     return None
 
 
-def predict_defendant(struct_doc: list, nlpipe=None):
+def predict_defendant(
+    struct_doc: list, nlpipe=None, nlpspa=None, pers_org_entities_list=None
+):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # pipe
     nlpipe = _if_not_pipe(nlpipe)
 
-    # sub article
-    sub_article = "\n".join(struct_doc["article"].split("\n")[:2])
-
-    # all pers all orgs from spacy entities
-    all_pers = get_pers(struct_doc["h1"]) + get_pers(sub_article)
-    all_orgs = get_orgs(struct_doc["h1"]) + get_orgs(sub_article)
-    pers_org_list = all_pers + all_orgs
-    pers_org_list = _sub_you_shall_not_pass(pers_org_list)
+    # pers_org_entities_list
+    if not pers_org_entities_list:
+        pers_org_entities_list = _get_entities_pers_orgs(struct_doc)
 
     # ask h1
     ans_h1 = _ask_all(struct_doc["h1"], nlpipe)
 
     # ask article 3st lines
+    sub_article = "\n".join(struct_doc["article"].split("\n")[:2])
     ans_article = _ask_all(sub_article, nlpipe)
 
     # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
@@ -286,7 +303,7 @@ def predict_defendant(struct_doc: list, nlpipe=None):
     ll = _you_shall_not_pass(ll)
 
     # spacy entities
-    ll = [i for i in ll if i in pers_org_list]
+    ll = [i for i in ll if i in pers_org_entities_list]
 
     # reponse
     resp = ",".join(ll)

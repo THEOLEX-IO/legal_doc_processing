@@ -7,6 +7,9 @@ from legal_doc_processing.utils import (
     _ask,
 )
 
+
+#################################################################################################
+
 # # LLC
 # def _clean_LLC_trailling_dot_comma(txt):
 #     list_com = [
@@ -147,9 +150,13 @@ if __name__ == "__main__":
     one_text = df.txt.iloc[0]
     one_struct = df["structured_txt"].iloc[0]
     pred = predict_defendant(one_struct, nlpipe)
+    print(f" {'y'.rjust(80)} -->  {'pred'} \n")
+    print(160 * "-")
     print(f" {defendant.rjust(80)} -->  {pred[:60]} \n")
 
     # 1 to 20
+    print(f" {'y'.rjust(80)} -->  {'pred'} \n")
+    print(160 * "-")
     for i in range(1, 20):
         defendant = df.defendant.iloc[i]
         i_text = df.txt.iloc[i]

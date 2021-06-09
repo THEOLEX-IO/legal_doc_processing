@@ -7,33 +7,14 @@ from legal_doc_processing.utils import (
     _if_not_pipe,
     _if_not_spacy,
     _ask,
+    get_pers,
+    get_orgs,
+    get_pipeline,
 )
 
 from legal_doc_processing.press_release.information_extraction.utils import (
     product_juridic_form,
 )
-
-
-def get_pers(txt, nlpspa=None):
-    """ """
-
-    nlpspa = _if_not_spacy(nlpspa)
-
-    pers = [i for i in nlpspa(txt).ents if i.label_ == "PERSON"]
-    pers = [str(p) for p in pers]
-
-    return pers
-
-
-def get_orgs(txt, nlpspa=None):
-    """ """
-
-    nlpspa = _if_not_spacy(nlpspa)
-
-    orgs = [i for i in nlpspa(txt).ents if i.label_ == "ORG"]
-    orgs = [str(org) for org in orgs]
-
-    return orgs
 
 
 def _clean_LLC_trailling_dot_comma(txt: str) -> str:

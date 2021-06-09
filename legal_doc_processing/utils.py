@@ -23,6 +23,28 @@ def _if_not_spacy(nlpspa):
     return nlpspa if nlpspa else get_spacy()
 
 
+def get_pers(txt: str, nlpspa=None) -> list:
+    """ with spacy get entities PERSON"""
+
+    nlpspa = _if_not_spacy(nlpspa)
+
+    pers = [i for i in nlpspa(txt).ents if i.label_ == "PERSON"]
+    pers = [str(p) for p in pers]
+
+    return pers
+
+
+def get_orgs(txt: str, nlpspa=None) -> list:
+    """ with spacy get entities ORG"""
+
+    nlpspa = _if_not_spacy(nlpspa)
+
+    orgs = [i for i in nlpspa(txt).ents if i.label_ == "ORG"]
+    orgs = [str(org) for org in orgs]
+
+    return orgs
+
+
 def get_pipeline():
     """ build and return a piplein"""
 

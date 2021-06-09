@@ -7,46 +7,124 @@ from legal_doc_processing.utils import (
     _ask,
 )
 
+from legal_doc_processing.press_release.information_extraction.utils import (
+    product_juridic_form,
+)
 
-#################################################################################################
 
-# # LLC
-# def _clean_LLC_trailling_dot_comma(txt):
-#     list_com = [
-#         "Inc.",
-#         "inc.",
-#         "inc",
-#         "LLC",
-#         " Ltd.",
-#         " Ltd",
-#         "LTD",
-#     ]
-#     del_suffix = lambda txt, suff: " ".join([k for k in txt.split(" ") if k != suff])
-#     del_trailing_point_comma = (
-#         lambda txt: txt.strip()
-#         if txt.strip()[-1] not in [".", ","]
-#         else txt.strip()[:-1].strip()
-#     )
+def _clean_LLC_trailling_dot_comma(txt: str) -> str:
+    """ del LLC, Llc, LTD. etc etc"""
 
-#     for k in list_com:
-#         txt = del_suffix(txt, k)
-#     for i in range(2):
-#         txt = del_trailing_point_comma(txt)
+    # llc
+    list_jur_form = product_juridic_form()
+    for j in list_jur_form:
+        txt = txt.replace(j, "")
 
-#     return txt
+    # trailling . or,
+    txt = txt[:-1] if txt[-1] in [",", "."] else txt
+    txt = txt[:-1] if txt[-1] in [",", "."] else txt
+
+    return txt
+
+
+def _clean_and(ans_list: list) -> list:
+    """we want ['alex', 'cecile', 'alex and cecile' ]  became ['alex', 'cecile'] """
+
+    l = list()
+    for ans in ans_list:
+        if " and " not in ans:
+            l.append(ans)
+        else:
+            ll = ans.split(" and ")
+            ll = [i.strip() for i in ll]
+            ll = list(set(ll))
+            l.extend(ll)
+
+    l = list(set(l))
+    return l
+
+
+def _clean_resident(txt):
+    """ """
+
+    l = txt.split(" ")
+    resident = [i for i, j in enumerate(l) if j.startswith("Resident")]
+    # if not resident
+    if len(resident) != 1:
+        return txt
+    # else
+    l = l[resident[0] + 1 :]
+
+    return " ".join(l)
+
+
+def _sub_you_shall_not_pass(
+    ans_list,
+    defendants=True,
+    too_long=True,
+    too_short=True,
+    _lower=True,
+    _and=True,
+    llc=True,
+    resident=True,
+):
+    """ """
+
+    # strip
+    ans_list = [i.strip() for i in ans_list]
+
+    # clean defendants
+    if defendants:
+        ans_list = [i for i in ans_list if (i.lower() != "defendants")]
+        ans_list = [i for i in ans_list if (i.lower() != "defendant")]
+
+    # duplicate
+    ans_list = set(ans_list)
+
+    # len to long
+    if too_long:
+        ans_list = [i for i in ans_list if len(i) < 60]
+
+    if too_short:
+        ans_list = [i for i in ans_list if len(i) > 3]
+
+    # all lower
+    if _lower:
+        ans_list = [i for i in ans_list if i.lower() != i]
+
+    # and
+    if _and:
+        ans_list = _clean_and(ans_list)
+
+    # LLC
+    if llc:
+        ans_list = [_clean_LLC_trailling_dot_comma(i) for i in ans_list]
+
+    # clean resident
+    if resident:
+        ans_list = [_clean_resident(i) for i in ans_list]
+
+    ans_list = set(ans_list)
+
+    return ans_list
 
 
 def _you_shall_not_pass(ans_list):
     """ """
 
-    # clean
-    ans_list = [i for i in ans_list if (i["answer"].lower() != "defendants")]
-    ans_list = [i for i in ans_list if (i["answer"].lower() != "defendant")]
+    # fiest clean
+    _ans_list = _sub_you_shall_not_pass(ans_list)
 
-    # len
-    ans_list = [i for i in ans_list if len(i["answer"]) < 50]
+    # sep with comma
+    new_list = list()
+    for ans in _ans_list:
+        sub_l = ans.split(",")
+        new_list.extend(sub_l)
 
-    return ans_list
+    # reclean
+    _new_list = _sub_you_shall_not_pass(new_list)
+
+    return _new_list
 
 
 def _ask_all(txt, nlpipe) -> list:
@@ -82,8 +160,8 @@ def _ask_all(txt, nlpipe) -> list:
     # sort
     ans = sorted(ans, key=lambda i: i["score"], reverse=True)
 
-    # shall not pass
-    ans = _you_shall_not_pass(ans)
+    # # shall not pass
+    # ans = _you_shall_not_pass(ans)
 
     return ans
 
@@ -116,15 +194,21 @@ def predict_defendant(struct_doc: list, nlpipe=None):
     ans_h1 = _ask_all(struct_doc["h1"], nlpipe)
 
     # ask article 3st lines
-    txt = "\n".join(struct_doc["article"].split("\n")[0:2])
+    txt = "\n".join(struct_doc["article"].split("\n")[0:1])
     ans_article = _ask_all(txt, nlpipe)
 
     # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
     ans = ans_h1 + ans_article
     ll = _clean_ans(ans)
 
+    # extract ans
+    ll = [i["answer"] for i in ll]
+
+    # guardian
+    ll = _you_shall_not_pass(ll)
+
     # reponse
-    resp = ", ".join([i["answer"] for i in ll])
+    resp = ",".join(ll)
 
     return resp
 

@@ -102,6 +102,7 @@ def _sub_you_shall_not_pass(
     # dummy words
     forbiden = [
         "Judge",
+        "Personal Expenses",
         "Commodity Futures",
         "Commodity Exchange Act",
         "CFTC",
@@ -337,22 +338,22 @@ def predict_defendant(
     ans = ans_h1 + ans_article
 
     # clean ans
-    new_ans = _clean_ans(ans)
+    cleaned_ans = _clean_ans(ans)
 
     # merge ans
-    ll = _merge_ans(new_ans)
+    merged_ans = _merge_ans(cleaned_ans)
 
     # extract ans
-    ll = [i["answer"] for i in ll]
+    str_ans = [i["new_answer"] for i in merged_ans]
 
-    # guardian
-    ll = _you_shall_not_pass(ll)
+    # # guardian
+    # ll = _you_shall_not_pass(ll)
 
     # spacy entities
-    ll = [i for i in ll if i in pers_org_entities_list]
+    last_ans = [i for i in str_ans if i in pers_org_entities_list]
 
     # reponse
-    resp = ",".join(ll)
+    resp = ",".join(last_ans)
 
     return resp
 

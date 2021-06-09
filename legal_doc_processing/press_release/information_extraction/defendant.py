@@ -1,4 +1,5 @@
 import os
+import copy
 
 import pandas as pd
 
@@ -102,6 +103,7 @@ def _sub_you_shall_not_pass(
     forbiden = [
         "Judge",
         "Commodity Futures",
+        "Commodity Exchange Act",
         "CFTC",
         "U.S. District Court",
         "the Commodity Exchange",
@@ -195,17 +197,17 @@ def _ask_all(txt, nlpipe) -> list:
     return ans
 
 
-def _clean_ans(ans, threshold=0.5):
+def _merge_ans(ans, threshold=0.1):
     """ """
 
     # build dataframe
     df = pd.DataFrame(ans)
-    df = df.loc[:, ["score", "answer"]]
+    df = df.loc[:, ["score", "new_answer"]]
 
     # group by ans and make cumutavie score of accuracy
     ll = [
-        {"answer": k, "cum_score": v.score.sum()}
-        for k, v in df.groupby("answer")
+        {"new_answer": k, "cum_score": v.score.sum()}
+        for k, v in df.groupby("new_answer")
         if v.score.sum() > threshold
     ]
     ll = sorted(ll, key=lambda i: i["cum_score"], reverse=True)
@@ -245,7 +247,7 @@ def predict_from_h1(struct_doc: list, nlpipe=None, pers_org_entities_list=None) 
     #     ans = _ask_all(txt, nlpipe)
 
     #     # clean
-    #     ll = _clean_ans(ans)
+    #     ll = _merge_ans(ans)
 
     #     # extract ans
     #     ll = [i["answer"] for i in ll]
@@ -263,6 +265,53 @@ def predict_from_h1(struct_doc: list, nlpipe=None, pers_org_entities_list=None) 
     #     return resp
 
     return None
+
+
+def _clean_ans(ans):
+    """for each ans dict {answer, score etc} compute a new_score based on clean method"""
+
+    # ans = copy.deepcopy(ans)
+
+    # clean ans
+    _ = [d.update({"_id": i}) for i, d in enumerate(ans)]
+    _ = [d.update({"new_answer": _you_shall_not_pass([d["answer"]])}) for d in ans]
+
+    new_ans = list()
+    for i, d in enumerate(ans):
+        if len(d["new_answer"]) == 0:
+            # ans.pop(i)
+            pass
+        if len(d["new_answer"]) == 1:
+            # d["new_answer"] = list(d["new_answer"])[0]
+            new_ans.append(
+                {
+                    "_id": d["_id"],
+                    "question": d["question"],
+                    "start": d["start"],
+                    "end": d["end"],
+                    "score": d["score"],
+                    "answer": d["answer"],
+                    "new_answer": list(d["new_answer"])[0],
+                }
+            )
+            # ans.pop(i)
+        if len(d["new_answer"]) > 1:
+            l = [
+                {
+                    "_id": d["_id"],
+                    "question": d["question"],
+                    "start": d["start"],
+                    "end": d["end"],
+                    "score": d["score"],
+                    "answer": d["answer"],
+                    "new_answer": k,
+                }
+                for k in d["new_answer"]
+            ]
+            new_ans.extend(l)
+            # ans.pop(i)
+
+    return new_ans
 
 
 def predict_defendant(
@@ -286,7 +335,12 @@ def predict_defendant(
 
     # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
     ans = ans_h1 + ans_article
-    ll = _clean_ans(ans)
+
+    # clean ans
+    new_ans = _clean_ans(ans)
+
+    # merge ans
+    ll = _merge_ans(new_ans)
 
     # extract ans
     ll = [i["answer"] for i in ll]
@@ -324,7 +378,7 @@ if __name__ == "__main__":
     one = df.iloc[0, :]
     # one features
     defendant = one.defendant
-    one_struct = one.structured_txt
+    one_struct = struct_doc = one.structured_txt
     one_h1 = one_struct["h1"]
     one_article = one_struct["article"]
     sub_one_article = "\n".join(one_article.split("\n")[:2])

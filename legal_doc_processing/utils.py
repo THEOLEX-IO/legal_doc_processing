@@ -13,6 +13,16 @@ import spacy
 from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
 
 
+def get_spacy():
+    return spacy.load("en_core_web_sm")
+
+
+def _if_not_spacy(nlpspa):
+    """ if  not nlpipeline instance and return it else return pipeline already exists"""
+
+    return nlpspa if nlpspa else get_spacy()
+
+
 def get_pipeline():
     """ build and return a piplein"""
 

@@ -2,14 +2,38 @@ import os
 
 import pandas as pd
 
+
 from legal_doc_processing.utils import (
     _if_not_pipe,
+    _if_not_spacy,
     _ask,
 )
 
 from legal_doc_processing.press_release.information_extraction.utils import (
     product_juridic_form,
 )
+
+
+def get_pers(txt, nlpspa=None):
+    """ """
+
+    nlpspa = _if_not_spacy(nlpspa)
+
+    pers = [i for i in nlpspa(txt).ents if i.label_ == "PERSON"]
+    pers = [str(p) for p in pers]
+
+    return pers
+
+
+def get_orgs(txt, nlpspa=None):
+    """ """
+
+    nlpspa = _if_not_spacy(nlpspa)
+
+    orgs = [i for i in nlpspa(txt).ents if i.label_ == "ORG"]
+    orgs = [str(org) for org in orgs]
+
+    return orgs
 
 
 def _clean_LLC_trailling_dot_comma(txt: str) -> str:
@@ -78,6 +102,22 @@ def _sub_you_shall_not_pass(
         ans_list = [i for i in ans_list if (i.lower() != "defendants")]
         ans_list = [i for i in ans_list if (i.lower() != "defendant")]
 
+    # TODO
+    # --> VIRER Defendats Allied Markets --> Allied Markets
+    # cf  'Defendants Allied Markets LLC',
+
+    # dummy words
+    forbiden = [
+        "Judge",
+        "Commodity Futures",
+        "CFTC",
+        "U.S. District Court",
+        "the Commodity Exchange",
+    ]
+
+    for f in forbiden:
+        ans_list = [i for i in ans_list if (f.lower() not in i.lower())]
+
     # duplicate
     ans_list = set(ans_list)
 
@@ -110,7 +150,7 @@ def _sub_you_shall_not_pass(
 
 
 def _you_shall_not_pass(ans_list):
-    """ """
+    """clean dedpulicate, del LLC, etc etc """
 
     # fiest clean
     _ans_list = _sub_you_shall_not_pass(ans_list)
@@ -160,9 +200,6 @@ def _ask_all(txt, nlpipe) -> list:
     # sort
     ans = sorted(ans, key=lambda i: i["score"], reverse=True)
 
-    # # shall not pass
-    # ans = _you_shall_not_pass(ans)
-
     return ans
 
 
@@ -184,18 +221,57 @@ def _clean_ans(ans, threshold=0.5):
     return ll
 
 
+def predict_from_h1(struct_doc: list, nlpipe=None):
+    """ """
+
+    # pipe
+    nlpipe = _if_not_pipe(nlpipe)
+
+    # txt
+    txt = struct_doc["h1"]
+
+    # ask h1
+    ans = _ask_all(txt, nlpipe)
+
+    # clean
+    ll = _clean_ans(ans)
+
+    # extract ans
+    ll = [i["answer"] for i in ll]
+
+    # guardian
+    ll = _you_shall_not_pass(ll)
+
+    # person and org
+    orgs_h1 = get_orgs(txt)
+    pers_h1 = get_pers(txt)
+
+    # reponse
+    resp = ",".join(ll)
+
+    return resp
+
+
 def predict_defendant(struct_doc: list, nlpipe=None):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # pipe
     nlpipe = _if_not_pipe(nlpipe)
 
+    # sub article
+    sub_article = "\n".join(struct_doc["article"].split("\n")[:3])
+
+    # all pers all orgs from spacy entities
+    all_pers = get_pers(struct_doc["h1"]) + get_pers(sub_article)
+    all_orgs = get_orgs(struct_doc["h1"]) + get_orgs(sub_article)
+    pers_org_list = all_pers + all_orgs
+    pers_org_list = _sub_you_shall_not_pass(pers_org_list)
+
     # ask h1
     ans_h1 = _ask_all(struct_doc["h1"], nlpipe)
 
     # ask article 3st lines
-    txt = "\n".join(struct_doc["article"].split("\n")[0:1])
-    ans_article = _ask_all(txt, nlpipe)
+    ans_article = _ask_all(sub_article, nlpipe)
 
     # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
     ans = ans_h1 + ans_article
@@ -207,6 +283,9 @@ def predict_defendant(struct_doc: list, nlpipe=None):
     # guardian
     ll = _you_shall_not_pass(ll)
 
+    # spacy entities
+    ll = [i for i in ll if i in pers_org_list]
+
     # reponse
     resp = ",".join(ll)
 
@@ -216,23 +295,36 @@ def predict_defendant(struct_doc: list, nlpipe=None):
 if __name__ == "__main__":
 
     # import
-    from legal_doc_processing.utils import get_pipeline
+    from legal_doc_processing.utils import get_pipeline, get_spacy
     from legal_doc_processing.press_release.utils import press_release_X_y
     from legal_doc_processing.press_release.segmentation.structure import (
         structure_press_release,
     )
 
-    # pipe
+    # laod
     nlpipe = get_pipeline()
+    nlpspa = get_spacy()
 
     # structured_press_release_r
     df = press_release_X_y(features="defendant")
     df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
 
     # one
-    defendant = df.defendant.iloc[0]
-    one_text = df.txt.iloc[0]
-    one_struct = df["structured_txt"].iloc[0]
+    one = df.iloc[0, :]
+
+    # one features
+    defendant = one.defendant
+    one_struct = one.structured_txt
+    one_h1 = one_struct["h1"]
+    one_article = one_struct["article"]
+    sub_one_article = "\n".join(one_article.split("\n")[:3])
+
+    org_h1 = get_orgs(one_h1)
+    org_article = get_orgs(sub_one_article)
+
+    pers_h1 = get_pers(one_h1)
+    pers_article = get_pers(sub_one_article)
+
     pred = predict_defendant(one_struct, nlpipe)
     print(f" {'y'.rjust(80)} -->  {'pred'} \n")
     print(160 * "-")

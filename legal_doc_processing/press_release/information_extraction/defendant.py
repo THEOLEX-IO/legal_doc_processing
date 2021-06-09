@@ -113,7 +113,7 @@ def predict_defendant(struct_doc: list, nlpipe=None):
     ans_h1 = _ask_all(struct_doc["h1"], nlpipe)
 
     # ask article 3st lines
-    txt = "\n".join(struct_doc["article"].split("\n")[0])
+    txt = "\n".join(struct_doc["article"].split("\n")[0:2])
     ans_article = _ask_all(txt, nlpipe)
 
     # group by ans, make cumulative sum of accuracy for eash ans and filter best ones

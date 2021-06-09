@@ -2,6 +2,7 @@ from legal_doc_processing.press_release.information_extraction.defendant import 
     _clean_LLC_trailling_dot_comma,
     _clean_and,
     _clean_resident,
+    _clean_defendants,
     _you_shall_not_pass,
 )
 
@@ -87,7 +88,28 @@ class Test_clean_resident(unittest.TestCase):
         assert acc > 0.9
 
 
-class Test__you_shall_not_pass(unittest.TestCase):
+class Test_clean_defendants(unittest.TestCase):
+    """ """
+
+    def test_ok(self):
+        """ """
+
+        cands = ans_list = [
+            ("defendant Alex Gazagnes", "Alex Gazagnes"),
+            ("Defendants Alex Gazagnes", "Alex Gazagnes"),
+        ]
+
+        X, y = zip(*cands)
+
+        preds = _clean_defendants(X)
+
+        res = list(zip(X, y, preds))
+        eqs = [(i == j) for i, j in zip(y, preds)]
+        acc = sum(eqs) / len(eqs)
+        assert acc > 0.9
+
+
+class Test_you_shall_not_pass(unittest.TestCase):
     """Test Class_you_shall_not_pass"""
 
     def test_ok(self):

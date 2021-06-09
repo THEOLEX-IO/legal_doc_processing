@@ -49,7 +49,7 @@ def _clean_and(ans_list: list) -> list:
     return l
 
 
-def _clean_resident(txt):
+def _clean_resident(txt: str) -> str:
     """ """
 
     l = txt.split(" ")
@@ -61,6 +61,22 @@ def _clean_resident(txt):
     l = l[resident[0] + 1 :]
 
     return " ".join(l)
+
+
+def _clean_defendants(ans_list: list) -> list:
+    """delete defenants """
+
+    ans_list = [i for i in ans_list if (i.lower() != "defendants")]
+    ans_list = [i for i in ans_list if (i.lower() != "defendant")]
+
+    del_defendants = lambda i, defendant: i.strip().replace(defendant, "").strip()
+
+    defendant_list = ["Defendants", "Defendant", "defendant", "defendants"]
+
+    for d in defendant_list:
+        ans_list = [del_defendants(i, d) for i in ans_list]
+
+    return ans_list
 
 
 def _sub_you_shall_not_pass(
@@ -80,12 +96,7 @@ def _sub_you_shall_not_pass(
 
     # clean defendants
     if defendants:
-        ans_list = [i for i in ans_list if (i.lower() != "defendants")]
-        ans_list = [i for i in ans_list if (i.lower() != "defendant")]
-
-    # TODO
-    # --> VIRER Defendats Allied Markets --> Allied Markets
-    # cf  'Defendants Allied Markets LLC',
+        ans_list = _clean_defendants(ans_list)
 
     # dummy words
     forbiden = [
@@ -295,7 +306,7 @@ def predict_defendant(
 if __name__ == "__main__":
 
     # import
-    from legal_doc_processing.utils import get_pipeline, get_spacy
+    from legal_doc_processing.utils import get_pipeline, get_spacy, get_orgs, get_pers
     from legal_doc_processing.press_release.utils import press_release_X_y
     from legal_doc_processing.press_release.segmentation.structure import (
         structure_press_release,
@@ -311,17 +322,15 @@ if __name__ == "__main__":
 
     # one
     one = df.iloc[0, :]
-
     # one features
     defendant = one.defendant
     one_struct = one.structured_txt
     one_h1 = one_struct["h1"]
     one_article = one_struct["article"]
-    sub_one_article = "\n".join(one_article.split("\n")[:3])
-
+    sub_one_article = "\n".join(one_article.split("\n")[:2])
+    # ents
     org_h1 = get_orgs(one_h1)
     org_article = get_orgs(sub_one_article)
-
     pers_h1 = get_pers(one_h1)
     pers_article = get_pers(sub_one_article)
 

@@ -347,6 +347,7 @@ def predict_defendant(
 
     # spacy entities
     consitant_ans = [i for i in merged_ans if i["new_answer"] in pers_org_entities_list]
+    consitant_ans = [(i["new_answer"], i["cum_score"]) for i in consitant_ans]
 
     # # extract ans
     # str_ans = [i["new_answer"] for i in merged_ans]
@@ -374,31 +375,31 @@ if __name__ == "__main__":
     df = press_release_X_y(features="defendant")
     df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
 
-    # one
-    one = df.iloc[0, :]
-    # one features
-    defendant = one.defendant
-    one_struct = struct_doc = one.structured_txt
-    one_h1 = one_struct["h1"]
-    one_article = one_struct["article"]
-    sub_one_article = "\n".join(one_article.split("\n")[:2])
-    # ents
-    org_h1 = get_orgs(one_h1)
-    org_article = get_orgs(sub_one_article)
-    pers_h1 = get_pers(one_h1)
-    pers_article = get_pers(sub_one_article)
+    # # one
+    # one = df.iloc[0, :]
+    # # one features
+    # defendant = one.defendant
+    # one_struct = struct_doc = one.structured_txt
+    # one_h1 = one_struct["h1"]
+    # one_article = one_struct["article"]
+    # sub_one_article = "\n".join(one_article.split("\n")[:2])
+    # # ents
+    # org_h1 = get_orgs(one_h1)
+    # org_article = get_orgs(sub_one_article)
+    # pers_h1 = get_pers(one_h1)
+    # pers_article = get_pers(sub_one_article)
 
-    pred = predict_defendant(one_struct, nlpipe)
-    print(f" {'y'.rjust(80)} -->  {'pred'} \n")
-    print(160 * "-")
-    print(f" {defendant.rjust(80)} -->  {pred[:60]} \n")
+    # pred = predict_defendant(one_struct, nlpipe)
+    # print(f" {'y'.rjust(80)} -->  {'pred'} \n")
+    # print(160 * "-")
+    # print(f" {defendant.rjust(80)} -->  {pred[:60]} \n")
 
-    # 1 to 20
-    print(f" {'y'.rjust(80)} -->  {'pred'} \n")
+    # 1 to len(df)
+    print(f" {'y'.rjust(60)} -->  {'pred'} \n")
     print(160 * "-")
-    for i in range(1, 20):
+    for i in range(0, len(df)):
         defendant = df.defendant.iloc[i]
         i_text = df.txt.iloc[i]
         i_struct = df["structured_txt"].iloc[i]
         pred = predict_defendant(i_struct, nlpipe)
-        print(f" {defendant.rjust(80)} -->  {pred[:60]} \n")
+        print(f" {defendant.rjust(60)} -->  {pred[:100]} \n")

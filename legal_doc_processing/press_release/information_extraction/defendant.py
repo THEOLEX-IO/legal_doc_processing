@@ -224,32 +224,34 @@ def _clean_ans(ans, threshold=0.5):
 def predict_from_h1(struct_doc: list, nlpipe=None):
     """ """
 
-    # pipe
-    nlpipe = _if_not_pipe(nlpipe)
+    #     # pipe
+    #     nlpipe = _if_not_pipe(nlpipe)
 
-    # txt
-    txt = struct_doc["h1"]
+    #     # txt
+    #     txt = struct_doc["h1"]
 
-    # ask h1
-    ans = _ask_all(txt, nlpipe)
+    #     # ask h1
+    #     ans = _ask_all(txt, nlpipe)
 
-    # clean
-    ll = _clean_ans(ans)
+    #     # clean
+    #     ll = _clean_ans(ans)
 
-    # extract ans
-    ll = [i["answer"] for i in ll]
+    #     # extract ans
+    #     ll = [i["answer"] for i in ll]
 
-    # guardian
-    ll = _you_shall_not_pass(ll)
+    #     # guardian
+    #     ll = _you_shall_not_pass(ll)
 
-    # person and org
-    orgs_h1 = get_orgs(txt)
-    pers_h1 = get_pers(txt)
+    #     # person and org
+    #     orgs_h1 = get_orgs(txt)
+    #     pers_h1 = get_pers(txt)
 
-    # reponse
-    resp = ",".join(ll)
+    #     # reponse
+    #     resp = ",".join(ll)
 
-    return resp
+    #     return resp
+
+    return None
 
 
 def predict_defendant(struct_doc: list, nlpipe=None):
@@ -259,7 +261,7 @@ def predict_defendant(struct_doc: list, nlpipe=None):
     nlpipe = _if_not_pipe(nlpipe)
 
     # sub article
-    sub_article = "\n".join(struct_doc["article"].split("\n")[:3])
+    sub_article = "\n".join(struct_doc["article"].split("\n")[:2])
 
     # all pers all orgs from spacy entities
     all_pers = get_pers(struct_doc["h1"]) + get_pers(sub_article)

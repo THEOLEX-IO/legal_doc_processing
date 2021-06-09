@@ -103,6 +103,7 @@ def _sub_you_shall_not_pass(
     forbiden = [
         "Judge",
         "Civil Monetary Penalty",
+        "Anti-Money Laundering",
         "Swap Reporting Violations",
         "Commodity Industry",
         "Personal Expenses",

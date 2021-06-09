@@ -7,30 +7,30 @@ from legal_doc_processing.utils import (
     _ask,
 )
 
-# LLC
-def _clean_LLC_trailling_dot_comma(txt):
-    list_com = [
-        "Inc.",
-        "inc.",
-        "inc",
-        "LLC",
-        " Ltd.",
-        " Ltd",
-        "LTD",
-    ]
-    del_suffix = lambda txt, suff: " ".join([k for k in txt.split(" ") if k != suff])
-    del_trailing_point_comma = (
-        lambda txt: txt.strip()
-        if txt.strip()[-1] not in [".", ","]
-        else txt.strip()[:-1].strip()
-    )
+# # LLC
+# def _clean_LLC_trailling_dot_comma(txt):
+#     list_com = [
+#         "Inc.",
+#         "inc.",
+#         "inc",
+#         "LLC",
+#         " Ltd.",
+#         " Ltd",
+#         "LTD",
+#     ]
+#     del_suffix = lambda txt, suff: " ".join([k for k in txt.split(" ") if k != suff])
+#     del_trailing_point_comma = (
+#         lambda txt: txt.strip()
+#         if txt.strip()[-1] not in [".", ","]
+#         else txt.strip()[:-1].strip()
+#     )
 
-    for k in list_com:
-        txt = del_suffix(txt, k)
-    for i in range(2):
-        txt = del_trailing_point_comma(txt)
+#     for k in list_com:
+#         txt = del_suffix(txt, k)
+#     for i in range(2):
+#         txt = del_trailing_point_comma(txt)
 
-    return txt
+#     return txt
 
 
 def _you_shall_not_pass(ans_list):
@@ -41,7 +41,7 @@ def _you_shall_not_pass(ans_list):
     ans_list = [i for i in ans_list if (i["answer"].lower() != "defendant")]
 
     # len
-    ans_list = [i for i in ans_list if len(i["answer"]) < 100]
+    ans_list = [i for i in ans_list if len(i["answer"]) < 50]
 
     return ans_list
 
@@ -136,20 +136,21 @@ if __name__ == "__main__":
     # pipe
     nlpipe = get_pipeline()
 
-    # structured_press_release_list
+    # structured_press_release_r
     df = press_release_X_y(features="defendant")
     df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
 
-    # test one
-    one = df.structured_txt.iloc[0]
+    # one
+    defendant = df.defendant.iloc[0]
+    one_text = df.txt.iloc[0]
+    one_struct = df["structured_txt"].iloc[0]
+    pred = predict_defendant(one_struct, nlpipe)
+    print(f" {defendant.rjust(80)} -->  {pred[:60]} \n")
 
-    # all_ans_h1 = _ask_all(structured_press_release["h1"], nlpipe)
-    # all_ans_h2 = _ask_all(structured_press_release["h2"], nlpipe)
-    # all_ans_article = _ask_all(structured_press_release["article"], nlpipe)
-
-    # ans = predict_defendant(structured_press_release, nlpipe)
-
-    # # test others
-    # ans_list = [predict_defendant(p, nlpipe) for p in structured_press_release_list]
-    # clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
-    # clean_ans_list = [", ".join(ll) for ll in clean_ans_list]
+    # 1 to 20
+    for i in range(1, 20):
+        defendant = df.defendant.iloc[i]
+        i_text = df.txt.iloc[i]
+        i_struct = df["structured_txt"].iloc[i]
+        pred = predict_defendant(i_struct, nlpipe)
+        print(f" {defendant.rjust(80)} -->  {pred[:60]} \n")

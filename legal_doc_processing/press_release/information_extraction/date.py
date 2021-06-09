@@ -33,20 +33,13 @@ def predict_date(
 if __name__ == "__main__":
 
     # import
-    from legal_doc_processing.utils import *
-    from legal_doc_processing.press_release.utils import *
+    from legal_doc_processing.press_release.utils import press_release_X_y
     from legal_doc_processing.press_release.segmentation.structure import (
         structure_press_release,
     )
 
-    # structured_press_release_list
-    press_txt_list = load_press_release_text_list()
-    structured_press_release_list = [structure_press_release(i) for i in press_txt_list]
-
-    # test one
-    structured_press_release = structured_press_release_list[0]
-
-    ans = predict_date(structured_press_release)
-
-    # test others
-    ans_list = [predict_date(p) for p in structured_press_release_list]
+    # structured_press_release_list and date
+    df = press_release_X_y(features="defendant")
+    df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
+    df["date"] = df["structured_txt"].apply(lambda i: i["date"])
+    df["pred_date"] = df["structured_txt"].apply(lambda i: predict_date(i))

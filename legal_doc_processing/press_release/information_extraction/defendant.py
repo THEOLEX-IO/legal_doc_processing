@@ -102,6 +102,8 @@ def _sub_you_shall_not_pass(
     # dummy words
     forbiden = [
         "Judge",
+        "Civil Monetary Penalty",
+        "the Commodity Industry",
         "Personal Expenses",
         "Commodity Futures",
         "Commodity Exchange Act",
@@ -207,7 +209,7 @@ def _merge_ans(ans, threshold=0.1):
 
     # group by ans and make cumutavie score of accuracy
     ll = [
-        {"new_answer": k, "cum_score": v.score.sum()}
+        {"new_answer": k, "cum_score": round(v.score.sum(), 2)}
         for k, v in df.groupby("new_answer")
         if v.score.sum() > threshold
     ]
@@ -343,19 +345,16 @@ def predict_defendant(
     # merge ans
     merged_ans = _merge_ans(cleaned_ans)
 
-    # extract ans
-    str_ans = [i["new_answer"] for i in merged_ans]
-
-    # # guardian
-    # ll = _you_shall_not_pass(ll)
-
     # spacy entities
-    last_ans = [i for i in str_ans if i in pers_org_entities_list]
+    consitant_ans = [i for i in merged_ans if i["new_answer"] in pers_org_entities_list]
 
-    # reponse
-    resp = ",".join(last_ans)
+    # # extract ans
+    # str_ans = [i["new_answer"] for i in merged_ans]
 
-    return resp
+    # # reponse
+    # resp = ",".join(last_ans)
+
+    return consitant_ans
 
 
 if __name__ == "__main__":

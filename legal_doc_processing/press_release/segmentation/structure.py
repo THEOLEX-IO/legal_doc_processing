@@ -130,7 +130,7 @@ def _clean_articles_breaks(lines: list) -> str:
     return text
 
 
-def structure_press_release(txt: str) -> str:
+def structure_press_release(txt: str) -> dict:
 
     # init dd
     dd = {

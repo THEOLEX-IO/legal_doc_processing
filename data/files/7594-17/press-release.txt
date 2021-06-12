@@ -1,0 +1,50 @@
+Release Number 7594-17
+July 26, 2017
+
+CFTC Orders New York Trader Simon Posen to Pay a $635,000 Civil Monetary Penalty and
+Permanently Bans Him from Trading in CFTC-Regulated Markets for Spoofing in the Gold,
+Silver, Copper, and Crude Oil Futures Markets
+
+Order Finds that Posen Placed Thousands of Orders with the Intent to
+Cancel before Execution over a Period Spanning More than Three Years
+
+Washington, DC — The U.S. Commodity Futures Trading Commission (CFTC) today issued an Order filing and settling
+charges against Simon Posen of New York, New York for engaging in thousands of incidents of “spoofing” — bidding or
+offering with the intent to cancel the bid or offer before execution — in gold, silver, and copper futures contracts traded
+on the Commodity Exchange, Inc., and crude oil futures contracts traded on the New York Mercantile Exchange over a
+period spanning more than three years. Posen traded from home for his own account and was not employed by any
+corporate entity, according to the Order.
+
+The CFTC Order requires Posen to pay a $635,000 civil monetary penalty and to cease and desist from violating the
+Commodity Exchange Act’s prohibition against spoofing. The Order further permanently bans Posen from trading in any
+market regulated by the CFTC and from applying for registration or claiming exemption from registration with the CFTC in
+any capacity.
+
+CFTC’s Director of Enforcement Comments
+James McDonald, Director of CFTC’s Division of Enforcement, commented:
+
+“Today’s enforcement action marks another successful spoofing prosecution by the CFTC. Illegal spoofing disrupts
+trading in the markets, undermines market integrity, and can cause serious customer harm. Individuals like Posen who
+spoof in our markets will face severe consequences. Indeed, Posen’s conduct here warranted not only a substantial
+monetary penalty, but also a permanent ban from trading in our markets.
+
+“In addition, | would like to thank CME for their assistance in this case. We will continue to work together with all the
+relevant stakeholders to uncover, prosecute, and work to eliminate spoofing in our markets.”
+
+The Order specifically finds that from at least December 2011 through March 2015, Posen, acting individually on behalf of
+his personal trading account, manually placed orders to buy and sell gold, silver, copper, and crude oil futures contracts
+with the intent to cancel these orders before execution (Spoof orders). Posen engaged in a pattern whereby shortly after
+placing a large spoof order, he would place one or more smaller orders (or “iceberg” orders, which are orders where only
+a small portion was visible to the market) on the opposite side of the market; once the smaller orders were filled, Posen
+would cancel the unfilled spoof order. Often, Posen would immediately repeat this spoofing pattern in reverse to exit the
+position he had created and revert to being flat. Posen engaged in this pattern thousands of times during this time
+period, according to the Order.
+
+CFTC Division of Enforcement staff members responsible for this case are James Deacon, Ilana Waxman, Jason Wright,
+Patrick Marquardt, Kara Mucha, Michael Solinsky, Elizabeth Davis, and Rick Glaser.
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: July 26, 2017

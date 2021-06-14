@@ -30,14 +30,21 @@ def get_structure(text):
 
 
 def get_header(section):
+
     """ """
-
-    sec0 = "".join(section[0]["content"])
-    sec1 = "".join(section[1]["content"])
-    entete = [sec0]
-    entete.append(sec1)
-    header = "".join(entete)
-
+    if len(section)==0:
+      print("This file is empty")
+      return 0
+    elif len(section)>2:
+      sec0 = "".join(section[0]["content"])
+      sec1 = "".join(section[1]["content"])
+      entete = [sec0]
+      entete.append(sec1)
+      header = "".join(entete)
+    else:
+      sec0 = "".join(section[0]["content"])
+      entete = [sec0]
+      header = "".join(entete)
     return header
 
 

@@ -4,7 +4,8 @@ from legal_doc_processing.utils import *
 
 from legal_doc_processing.legal_doc.segmentation.clean import clean_doc
 from legal_doc_processing.legal_doc.segmentation.utils import get_token, get_section_indx
-
+from legal_doc_processing.utils import load_data
+from legal_doc_processing.legal_doc.segmentation import clean
 
 def get_structure(text):
     """"""
@@ -38,6 +39,19 @@ def get_header(section):
     header = "".join(entete)
 
     return header
+
+
+
+def test_structure(root="./data/files/"):
+  list_files=x_data_files(root="data/files/")
+  for data in list_files:
+    raw_text = load_data(data)
+    #clean_spec_chars
+    cleaned_text = clean_spec_chars(raw_text)
+
+    structured_text = get_structure(cleaned_text)
+    print(structured_text[:5])
+    print("\n................\n")
 
 
 # def get_structured_document(file):

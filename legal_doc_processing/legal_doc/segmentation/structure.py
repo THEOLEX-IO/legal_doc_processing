@@ -50,7 +50,8 @@ def test_structure(root="./data/files/"):
     cleaned_text = clean_spec_chars(raw_text)
 
     structured_text = get_structure(cleaned_text)
-    print(structured_text[:5])
+    header=get_header(structured_text)
+    print(structured_text[:5], "\n", header)
     print("\n................\n")
 
 

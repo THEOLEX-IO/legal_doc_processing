@@ -40,10 +40,8 @@ def predict_juridiction(struct_doc: list, nlpipe=None, nlpspa=None):
 
     # token filter h1
     tok_h1 = [i.text.lower() for i in nlpspa(h1)]
-    # print(tok_h1)
     jur_h1 = [_filter_jur(i) for i in tok_h1]
     jur_h1_clean = list(set([i for i in jur_h1 if i]))
-    # print(jur_h1_clean)
 
     # juri h1
     if len(jur_h1_clean) == 1:
@@ -101,9 +99,5 @@ if __name__ == "__main__":
         juridiction = df.juridiction.iloc[i]
         i_text = df.txt.iloc[i]
         i_struct = df["structured_txt"].iloc[i]
-
-        # i_h1 = i_struct["h1"]
-        # i_article = i_struct["article"]
-        # sub_i_article = "\n".join(i_article.split("\n")[:2])
         pred_ans = predict_juridiction(i_struct, nlpspa=nlpspa, nlpipe=nlpipe)
         print(f" {str(juridiction).rjust(30)} --> pred : {pred_ans}")

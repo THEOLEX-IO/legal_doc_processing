@@ -142,7 +142,7 @@ if __name__ == "__main__":
     from legal_doc_processing.utils import get_pipeline, get_spacy, get_orgs, get_pers
     from legal_doc_processing.press_release.utils import press_release_X_y
     from legal_doc_processing.press_release.segmentation.structure import (
-        structure_legal_doc,
+        structure_press_release,
     )
 
     # laod
@@ -152,9 +152,17 @@ if __name__ == "__main__":
     # legal_doc structured
     df = press_release_X_y()
     df["obj"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe))
+    df["preds"] = df.obj.apply(lambda i: i.predict_all())
 
     # 1st one
     one = df.iloc[0, :]
     one_txt = one.txt
     one_pr = one.obj
-    pred = one_ld.predict_all()
+    pred = one_pr.predict_all()
+
+    # for i in range(len(df)):
+
+    #     one = df.iloc[0, :]
+    #     one_txt = one.txt
+    #     one_pr = one.obj
+    #     pred = one_pr.predict_all()

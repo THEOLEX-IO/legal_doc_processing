@@ -291,7 +291,11 @@ def _clean_ans(ans):
 
 
 def predict_defendant(
-    struct_doc: list, nlpipe=None, nlpspa=None, pers_org_entities_list=None
+    struct_doc: list,
+    nlpipe=None,
+    nlpspa=None,
+    pers_org_entities_list=None,
+    threshold=0.4,
 ):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
@@ -302,14 +306,13 @@ def predict_defendant(
     if not pers_org_entities_list:
         pers_org_entities_list = _get_entities_pers_orgs(struct_doc)
 
-    # ask h1
-    ans_h1 = _ask_all(struct_doc["h1"], nlpipe)
-
-    # ask article 3st lines
+    # items
+    h1 = struct_doc["h1"]
     sub_article = "\n".join(struct_doc["article"].split("\n")[:2])
-    ans_article = _ask_all(sub_article, nlpipe)
 
-    # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
+    # ask
+    ans_h1 = _ask_all(h1, nlpipe)
+    ans_article = _ask_all(sub_article, nlpipe)
     ans = ans_h1 + ans_article
 
     # clean ans
@@ -318,14 +321,14 @@ def predict_defendant(
     # merge ans
     merged_ans = _merge_ans(cleaned_ans)
 
-    # spacy entities
+    # filert by spacy entities
     consitant_ans = [i for i in merged_ans if i["new_answer"] in pers_org_entities_list]
 
+    # filter by threshold
     consitant_ans = [(i["new_answer"], i["cum_score"]) for i in consitant_ans]
+    last_ans = [(i, j) for i, j in consitant_ans if j > threshold]
 
-    last_ans = [(i, j) for i, j in consitant_ans if j > 0.4]
-
-    return last_ans
+    return ",".join([i for i, j in last_ans])
 
 
 if __name__ == "__main__":

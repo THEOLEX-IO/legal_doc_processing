@@ -7,9 +7,10 @@ def product_juridiction_pairs():
     doj_cands = ["doj", "department of justice", "d.o.j."]
     sec_cands = ["sec", "Securities and Exchange Commission", "s.e.c."]
 
-    cands = list()
+    cands = dict()
     for k, _list in [("cftc", cftc_cands), ("doj", doj_cands), ("sec", sec_cands)]:
-        cands.extend([{i.lower().strip(): k.lower().strip()} for i in _list])
+        dd = {i.lower().strip(): k.lower().strip() for i in _list}
+        cands.update(dd)
 
     return cands
 

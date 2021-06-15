@@ -243,39 +243,6 @@ def _get_entities_pers_orgs(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None
     return pers_org_entities_list
 
 
-def predict_from_h1(struct_doc: list, nlpipe=None, pers_org_entities_list=None) -> list:
-    """ """
-
-    # pipe
-    nlpipe = _if_not_pipe(nlpipe)
-
-    # txt
-    txt = struct_doc["h1"]
-
-    #     # ask h1
-    #     ans = _ask_all(txt, nlpipe)
-
-    #     # clean
-    #     ll = _merge_ans(ans)
-
-    #     # extract ans
-    #     ll = [i["answer"] for i in ll]
-
-    #     # guardian
-    #     ll = _you_shall_not_pass(ll)
-
-    #     # person and org
-    #     orgs_h1 = get_orgs(txt)
-    #     pers_h1 = get_pers(txt)
-
-    #     # reponse
-    #     resp = ",".join(ll)
-
-    #     return resp
-
-    return None
-
-
 def _clean_ans(ans):
     """for each ans dict {answer, score etc} compute a new_score based on clean method"""
 
@@ -378,21 +345,21 @@ if __name__ == "__main__":
     df = press_release_X_y(features="defendant")
     df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
 
-    # # one
-    # one = df.iloc[0, :]
-    # # one features
-    # defendant = one.defendant
-    # one_struct = struct_doc = one.structured_txt
-    # one_h1 = one_struct["h1"]
-    # one_article = one_struct["article"]
-    # sub_one_article = "\n".join(one_article.split("\n")[:2])
-    # # ents
-    # org_h1 = get_orgs(one_h1)
-    # org_article = get_orgs(sub_one_article)
+    # one
+    one = df.iloc[0, :]
+    # one features
+    defendant = one.defendant
+    one_struct = struct_doc = one.structured_txt
+    one_h1 = one_struct["h1"]
+    one_article = one_struct["article"]
+    sub_one_article = "\n".join(one_article.split("\n")[:2])
+    # ents
+    # org_h1 = get_label_(one_h1)
+    # org_article = get_label_(sub_one_article)
     # pers_h1 = get_pers(one_h1)
     # pers_article = get_pers(sub_one_article)
 
-    # pred = predict_defendant(one_struct, nlpipe)
+    pred = predict_defendant(one_struct, nlpipe)
     # print(f" {'y'.rjust(80)} -->  {'pred'} \n")
     # print(160 * "-")
     # print(f" {defendant.rjust(80)} -->  {pred[:60]} \n")

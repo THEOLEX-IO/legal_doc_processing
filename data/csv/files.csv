@@ -1,5 +1,4 @@
 folder,filename,doctype,defendant,plaintiff,juridiction,cost,violation
-,,,,,,,
 7100-15,order-allied-markets-llc-et-al.txt,order,"Allied Markets,Joshua Gilliland,Chawalit Wongkhiao",?,CFTC,-,?
 7100-15,press-release.txt,press,"Allied Markets,Joshua Gilliland,Chawalit Wongkhiao",?,CFTC,-,?
 7102-15,order-michael-j-siegel-et-al.txt,order,"TOTE Fund,MJS Capital Management,Michael J. Siegel",?,CFTC,860000,?
@@ -42,17 +41,17 @@ folder,filename,doctype,defendant,plaintiff,juridiction,cost,violation
 7776-18,press-release.txt,press,"BNP Paribas,BNP Paribas Securities",?,CFTC,90000000,?
 7946-19,order-instituting-proceedings-merrill-lynch-commodities-inc.txt,order,Merrill Lynch Commodities,?,CFTC,25000000,?
 7946-19,press-release.txt,press,Merrill Lynch Commodities,?,CFTC,25000000,?
-8042-19,order-the-bank-of-new-york-mellon.txt,order,The Bank of New York Mellon,?,CFTC,?,?
-8042-19,press-release.txt,press,The Bank of New York Mellon,?,CFTC,?,?
-8068-19,order-xbt-corp-sarl-d-b-a-first-global-credit.txt,order,"XBT Corp.,d/b/a First Global Credit ",?,CFTC,?,?
-8068-19,press-release.txt,press,"XBT Corp.,d/b/a First Global Credit ",?,CFTC,?,?
-8157-20,order-futuresfx-et-al.txt,order,"Simon Jousef,FuturesFX",?,CFTC,?,?
-8157-20,press-release.txt,press,"Simon Jousef,FuturesFX",?,CFTC,?,?
-8218-20,order-interactive-brokers.txt,order,Interactive Brokers,?,CFTC,?,?
-8218-20,press-release.txt,press,Interactive Brokers,?,CFTC,?,?
-8266-20,order-marcus-schultz.txt,order,Marcus Schultz,?,CFTC,?,?
-8266-20,press-release.txt,press,Marcus Schultz,?,CFTC,?,?
-8326-20,order-vitol-inc.txt,order,Orders Vitol,?,CFTC,?,?
-8326-20,press-release.txt,press,Orders Vitol,?,CFTC,?,?
-8376-21,order-douglas-lien.txt,order,Douglas Lien,?,CFTC,?,?
-8376-21,press-release.txt,press,Douglas Lien,?,CFTC,?,?
+8042-19,order-the-bank-of-new-york-mellon.txt,order,The Bank of New York Mellon,?,CFTC,750000,?
+8042-19,press-release.txt,press,The Bank of New York Mellon,?,CFTC,750000,?
+8068-19,order-xbt-corp-sarl-d-b-a-first-global-credit.txt,order,"XBT Corp.,d/b/a First Global Credit ",?,CFTC,100000,?
+8068-19,press-release.txt,press,"XBT Corp.,d/b/a First Global Credit ",?,CFTC,100000,?
+8157-20,order-futuresfx-et-al.txt,order,"Simon Jousef,FuturesFX",?,CFTC,1700000,?
+8157-20,press-release.txt,press,"Simon Jousef,FuturesFX",?,CFTC,1700000,?
+8218-20,order-interactive-brokers.txt,order,Interactive Brokers,?,CFTC,12000000,?
+8218-20,press-release.txt,press,Interactive Brokers,?,CFTC,12000000,?
+8266-20,order-marcus-schultz.txt,order,Marcus Schultz,?,CFTC,1000000,?
+8266-20,press-release.txt,press,Marcus Schultz,?,CFTC,1000000,?
+8326-20,order-vitol-inc.txt,order,Orders Vitol,?,CFTC,95700000,?
+8326-20,press-release.txt,press,Orders Vitol,?,CFTC,95700000,?
+8376-21,order-douglas-lien.txt,order,Douglas Lien,?,CFTC,10000000,?
+8376-21,press-release.txt,press,Douglas Lien,?,CFTC,10000000,?

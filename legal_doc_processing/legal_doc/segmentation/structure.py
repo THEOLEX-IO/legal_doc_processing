@@ -11,8 +11,8 @@ from legal_doc_processing.legal_doc.segmentation import clean
 from notebooks.utils import *
 
 
-def structure_legal_doc(text):
-    """"""
+def structure_legal_doc(text: str) -> list:
+    """ """
 
     list_token = get_token(text)
     idx = get_section_indx(list_token)
@@ -59,7 +59,7 @@ def test_structure(root="./data/files/"):
         # clean_spec_chars
         cleaned_text = clean_spec_chars(raw_text)
 
-        structured_text = get_structure(cleaned_text)
+        structured_text = structure_legal_doc(cleaned_text)
         header = get_header(structured_text)
         print(structured_text[:5], "\n", header)
         print("\n................\n")
@@ -109,7 +109,7 @@ if __name__ == "__main__":
     df = legal_doc_X_y(features="defendant")
     df["structured_txt"] = [structure_legal_doc(i) for i in df.txt.values]
 
-    # one
+    # # one
     one = df.iloc[0, :]
     one_folder = one.folder
     one_defendant = one.defendant
@@ -149,11 +149,26 @@ if __name__ == "__main__":
         lambda struct_txt: get_c_1([d["content"] for d in struct_txt])
     )
 
+
     os.system("clear")
-    for tt in df.content_0:
-        print(str(tt + "\n\n$$$$$$$$$$$$$$$$$$$$$$$$$$$$$\n\n"))
+    print("\n\n-----------> content_0 <-----------\n\n")
+    for i, fold, txt in zip(range(len(df)), df.folder, df.content_0):
+        print(f"i : {i}, folder : {fold}")
+        print(f"content 0 : \n{txt}\n")
         input()
         os.system("clear")
+
+
+
+    os.system("clear")
+    print("-----------> content_1 <-----------")
+    for i, fold, txt in zip(range(len(df)), df.folder, df.content_1):
+        print(f"i : {i}, folder"{fold})
+        print(f"content 0 : \n{txt}\n")
+        input()
+        os.system("clear")
+
+
 
     # keys = [list(i.keys()) for i in one_struct]
 

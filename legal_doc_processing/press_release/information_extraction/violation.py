@@ -186,7 +186,8 @@ def _question_selector(key: str):
 
 
 def _ask_all(txt, nlpipe) -> list:
-    """asl all questions and return a list of dict """
+    """first make a selection of good questions based on the text, and
+    then ask the questions and return a list of dict"""
 
     # txt
     if not txt:
@@ -252,7 +253,12 @@ def _you_shall_not_pass(ans_list, defendants=True):
 
 
 def _clean_ans(ans):
-    """for each ans dict {answer, score etc} compute a new_score based on clean method"""
+    """ans is a list of dict. each dict is  : {answer:"foo", score:0.32}.
+    for each dict,  add and _id and a new_ans based on the _you_shall_not_pass method
+    the _you_shall_not_pass method is able to ditect:
+     - completly inconsistant answer, if so the answer is droped
+     - not so consistant answer, or non uniformized answer, if so the new_answer is the -more generic-
+     version of ansxer"""
 
     # ans = copy.deepcopy(ans)
 
@@ -299,7 +305,9 @@ def _clean_ans(ans):
 
 
 def _merge_ans(ans, threshold=0.1):
-    """ """
+    """based on new_answer we will make a groupby adding the scores for each new ans in a cumulative score
+    example [{new_ans : hello, score:0.3},{new_ans : hello, score:0.3}, ]
+    will become  [{new_ans : hello, score:0.6},]"""
 
     # build dataframe
     df = pd.DataFrame(ans)
@@ -324,34 +332,47 @@ def predict_violation(
 ):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
-    # pipe
+    # pipe to avoid re init a pipe each time (+/- 15 -> 60 sec)
+    # win lots of time if the method is used in a loop with 100 predictions
     nlpipe = _if_not_pipe(nlpipe)
 
     # pers_org_entities_list
+    # we will use this one later to make a filter at the end
     if not pers_org_entities_list:
         pers_org_entities_list = _get_entities_pers_orgs(struct_doc)
 
     # items
+    # we will work on h1 and / or article but just 2 or 3 1st paragraphs
     h1 = struct_doc["h1"]
     sub_article = "\n".join(struct_doc["article"].split("\n")[:2])
 
-    # ask
+    # ask medhod
+    # here are the question answering and the true prediction built
     ans_h1 = _ask_all(h1, nlpipe=nlpipe)
     ans_article = _ask_all(sub_article, nlpipe=nlpipe)
     ans = ans_h1 + ans_article
 
     # clean ans
+    # ans is a list of dict, each dict has keys such as answer, score etc
+    # for each answer we will clean this answer and create a new_answer more accurate
     cleaned_ans = _clean_ans(ans)
 
     # merge ans
+    # based on new_answer we will make a groupby adding the scores for each new ans in a cumulative score
+    # example [{new_ans : hello, score:0.3},{new_ans : hello, score:0.3}, ]
+    # will become  [{new_ans : hello, score:0.6},]
     merged_ans = _merge_ans(cleaned_ans)
 
     # filert by spacy entities
+    # we are sure that a personn or an org is NOT a violation so
+    # if a prediction is in pers_org_entities_list, plz drop it
     consitant_ans = [
         i for i in merged_ans if i["new_answer"] not in pers_org_entities_list
     ]
 
     # filter by threshold
+    # we need to filter the score above which we consider that no a signe score but a
+    # cumulative score (much more strong, accurante and solid) will be droped
     consitant_ans = [(i["new_answer"], i["cum_score"]) for i in consitant_ans]
     last_ans = [(i, j) for i, j in consitant_ans if j > threshold]
 

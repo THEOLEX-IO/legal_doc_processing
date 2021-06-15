@@ -1,6 +1,19 @@
 from itertools import product
 
 
+def product_juridiction_pairs():
+
+    cftc_cands = ["cftc", "Commodity Futures Trading Commission", "c.f.t.c"]
+    doj_cands = ["doj", "department of justice", "d.o.j."]
+    sec_cands = ["sec", "Securities and Exchange Commission", "s.e.c."]
+
+    cands = list()
+    for k, _list in [("cftc", cftc_cands), ("doj", doj_cands), ("sec", sec_cands)]:
+        cands.extend([{i.lower().strip(): k.lower().strip()} for i in _list])
+
+    return cands
+
+
 def product_juridic_form():
     """ make a list of llc, LLC, LLC. etc etc """
 

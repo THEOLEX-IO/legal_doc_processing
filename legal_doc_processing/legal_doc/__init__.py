@@ -3,7 +3,8 @@ import os
 from legal_doc_processing.utils import get_pipeline
 
 import legal_doc_processing.legal_doc.information_extraction as ext
-import legal_doc_processing.legal_doc.segmentation.clean as seg
+import legal_doc_processing.legal_doc.segmentation.clean as clean
+import legal_doc_processing.legal_doc.segmentation.structure as struct
 from legal_doc_processing.legal_doc.utils import (
     load_legal_doc_files,
     load_legal_doc_text_list,
@@ -33,11 +34,15 @@ class LegalDoc:
 
         # text and cleanstructure
         self.raw_text = text
-        self.clean_pages = seg.clean_doc(text)
+        self.clean_pages = clean.clean_doc(text)
+        self.structured_text = struct.structure_legal_doc(text)
         self.first_page = []
 
         for k in range(4):
-            self.first_page.extend(self.clean_pages[k])
+            try:
+                self.first_page.extend(self.clean_pages[k])
+            except Exception as e:
+                break
 
         # features
         self.feature_list = [
@@ -120,25 +125,23 @@ def read_LegalDoc(file_path: str, nlpipe=None):
 
 if __name__ == "__main__":
 
-    from legal_doc_processing.utils import get_pipeline
-
-    import legal_doc_processing.legal_doc.information_extraction as ext
-    import legal_doc_processing.legal_doc.segmentation.clean as seg
-    from legal_doc_processing.legal_doc.utils import (
-        load_legal_doc_files,
-        load_legal_doc_text_list,
+    # import
+    from legal_doc_processing.utils import get_pipeline, get_spacy, get_orgs, get_pers
+    from legal_doc_processing.legal_doc.utils import legal_doc_X_y
+    from legal_doc_processing.legal_doc.segmentation.structure import (
+        structure_legal_doc,
     )
 
+    # laod
     nlpipe = get_pipeline()
+    nlpspa = get_spacy()
 
-    # legal doc
-    leg_doc_list = load_legal_doc_text_list()
+    # legal_doc structured
+    df = legal_doc_X_y()
+    df["obj"] = df.txt.apply(lambda i: LegalDoc(i, nlpipe=nlpipe))
 
     # 1st one
-    legal_doc_txt_0 = leg_doc_list[0]
-    ld = LegalDoc(legal_doc_txt_0, nlpipe=nlpipe)
-    pred = ld.predict("all")
-
-    # all
-    ld_list = [LegalDoc(f, nlpipe=nlpipe) for f in leg_doc_list]
-    preds = [ld.predict("all") for ld in ld_list]
+    one = df.iloc[0, :]
+    one_txt = one.txt
+    one_ld = one.obj
+    pred = one_ld.predict_all()

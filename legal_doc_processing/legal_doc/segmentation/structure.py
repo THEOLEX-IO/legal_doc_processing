@@ -109,31 +109,6 @@ if __name__ == "__main__":
     df = legal_doc_X_y(features="defendant")
     df["structured_txt"] = [structure_legal_doc(i) for i in df.txt.values]
 
-    # # one
-    # one = df.iloc[0, :]
-    # one_folder = one.folder
-    # one_defendant = one.defendant
-    # one_text = one.txt
-    # one_struct = one.structured_txt
-
-    # # 1st level
-    # type(one_struct)
-    # len(one_struct)
-
-    # # 2nd level
-    # type(one_struct[0])
-    # len(one_struct[0])
-    # # _ = print([type(d) for d in one_struct])
-    # # _ = print([len(d) for d in one_struct])
-
-    # # 3rd level (content)
-    # type(one_struct[0]["content"])
-    # len(one_struct[0]["content"])
-    # # _ = print([type(d["content"]) for d in one_struct])
-
-    # # for i_struct in df.structured_txt:
-    # #     print([len(d["content"]) for d in i_struct])
-
     # extract content form paragraph i  and concatenate witj
     concat = "\n-----------------\n"
 

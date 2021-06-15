@@ -14,14 +14,14 @@ from legal_doc_processing.press_release.information_extraction.utils import (
 )
 
 
-def _filter_jur(txt, cands: list = None):
+def _filter_jur(token, cands: list = None):
     """ """
 
     if not cands:
         cands = product_juridiction_pairs()
 
     for k, v in cands.items():
-        if txt.lower().strip() == k.lower().strip():
+        if token.lower().strip() == k.lower().strip():
             return v.upper()
 
     return ""
@@ -41,24 +41,24 @@ def predict_juridiction(struct_doc: list, nlpipe=None, nlpspa=None):
     # token filter h1
     tok_h1 = [i.text.lower() for i in nlpspa(h1)]
     jur_h1 = [_filter_jur(i) for i in tok_h1]
-    jur_h1_clean = [i for i in jur_h1]
+    jur_h1_clean = list(set([i for i in jur_h1 if i]))
 
     # juri h1
     if len(jur_h1_clean) == 1:
         return jur_h1_clean[0]
     if len(jur_h1_clean) > 1:
-        return str(-1)
+        return ",".join(jur_h1_clean)
 
     # token filter sub_article
-    tok_sub_article = [i.txt.lower() for i in nlpspa(sub_article)]
+    tok_sub_article = [i.text.lower() for i in nlpspa(sub_article)]
     jur_sub_article = [_filter_jur(i) for i in tok_sub_article]
-    jur_sub_article_clean = [i for i in jur_sub_article]
+    jur_sub_article_clean = list(set([i for i in jur_sub_article if i]))
 
     # juri sub_article
     if len(jur_sub_article_clean) == 1:
         return jur_sub_article_clean[0]
     if len(jur_sub_article_clean) > 1:
-        return str(-2)
+        return ",".join(jur_sub_article_clean)
 
     return str(-3)
 
@@ -77,13 +77,13 @@ if __name__ == "__main__":
     nlpspa = get_spacy()
 
     # structured_press_release_r
-    df = press_release_X_y(features="cost")
+    df = press_release_X_y(features="juridiction")
     df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
 
     # one
     one = df.iloc[0, :]
     # one features
-    cost = one.cost
+    # cost = one.cost
     one_struct = struct_doc = one.structured_txt
     one_h1 = one_struct["h1"]
     one_article = one_struct["article"]
@@ -91,3 +91,13 @@ if __name__ == "__main__":
     # pred_h1  ⁼ predict_juridiction(one_h1)
     # pred_sub_article  ⁼ predict_juridiction(one_h1)
     pred = predict_juridiction(one_struct, nlpipe=nlpipe, nlpspa=nlpspa)
+
+    # 1 to len(df)
+    print(f" {'y'.rjust(30)} -->  {'pred'} \n")
+    print(160 * "-")
+    for i in range(0, len(df)):
+        juridiction = df.juridiction.iloc[i]
+        i_text = df.txt.iloc[i]
+        i_struct = df["structured_txt"].iloc[i]
+        pred_ans = predict_juridiction(i_struct, nlpspa=nlpspa, nlpipe=nlpipe)
+        print(f" {str(juridiction).rjust(30)} --> pred : {pred_ans}")

@@ -6,6 +6,8 @@ from legal_doc_processing.legal_doc.segmentation.clean import clean_doc
 from legal_doc_processing.legal_doc.segmentation.utils import get_token, get_section_indx
 from legal_doc_processing.utils import load_data
 from legal_doc_processing.legal_doc.segmentation import clean
+from notebooks.utils import *
+
 
 def get_structure(text):
     """"""

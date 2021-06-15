@@ -1,7 +1,8 @@
 from cleantext import clean
 from legal_doc_processing import utils
 
-
+from legal_doc_processing.utils import *
+from legal_doc_processing.legal_doc.utils import *
 from legal_doc_processing.legal_doc.segmentation.utils import *
 
 
@@ -19,7 +20,7 @@ def clean_doc(file_text):
             line["is_title"] = is_title(str(line["text"]))
             line["ends_with_ponc"] = ends_with_ponc(str(line["text"]))
             line["is_alpha"] = sum(c.isalpha() for c in str(line["text"]))
-            line["start_with_upper"] = start_with_upper(str(line["text"]))
+            line["start_with_upper"] = starts_with_upper(str(line["text"]))
 
             # not relevant line
             if not line["is_alpha"]:
@@ -40,7 +41,7 @@ def clean_doc(file_text):
 def clean(file):
     article_text = re.sub(r"\[[0-9]*\]", " ", file)
     article_text = re.sub(r"\s+", " ", article_text)
-    
+
     formatted_article_text = re.sub("[^a-zA-Z]", " ", article_text)
     formatted_article_text = re.sub(r"\s+", " ", formatted_article_text)
     return article_text, formatted_article_text

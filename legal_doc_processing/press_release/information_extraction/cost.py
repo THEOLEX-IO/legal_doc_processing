@@ -154,8 +154,12 @@ def predict_cost(struct_doc: list, nlpipe=None, nlpspa=None):
     nlpipe = _if_not_pipe(nlpipe)
     nlpspa = _if_not_spacy(nlpspa)
 
+    # items
+    h1 = struct_doc["h1"]
+    sub_article = "\n".join(struct_doc["article"].split("\n")[:2])
+
     # get_label_ h1
-    money_h1 = get_label_(struct_doc["h1"], "MONEY", nlpspa)
+    money_h1 = get_label_(h1, "MONEY", nlpspa)
     # print(f"money_h1 is {money_h1}")
     money_h1_clean = list(set(_cast_as_int(money_h1)))
     # print(f"money_h1_clean is {money_h1_clean}")
@@ -168,7 +172,7 @@ def predict_cost(struct_doc: list, nlpipe=None, nlpspa=None):
         return str(-2)
 
     # get_label article
-    sub_article = "\n".join(struct_doc["article"].split("\n")[:2])
+
     money_sub_article = get_label_(sub_article, "MONEY", nlpspa)
     # print(f"money_sub_article is {money_sub_article}")
     money_sub_article_clean = list(set(_cast_as_int(money_sub_article)))

@@ -35,32 +35,32 @@ def _get_entities_money(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None) ->
     return all_init_money
 
 
-def _ask_all(txt, nlpipe) -> list:
-    """asl all questions and return a list of dict """
+# def _ask_all(txt, nlpipe) -> list:
+#     """asl all questions and return a list of dict """
 
-    # pipe
-    nlpipe = _if_not_pipe(nlpipe)
+#     # pipe
+#     nlpipe = _if_not_pipe(nlpipe)
 
-    # ans
-    ans = []
+#     # ans
+#     ans = []
 
-    # question, funct
-    quest_pairs = [
-        ("How much it will cost", "ask_how_cost"),
-        ("Who many dollars", "ask_how_dollars"),
-        ("What is the cost?", "ask_what_cost"),
-    ]
+#     # question, funct
+#     quest_pairs = [
+#         ("How much it will cost", "ask_how_cost"),
+#         ("Who many dollars", "ask_how_dollars"),
+#         ("What is the cost?", "ask_what_cost"),
+#     ]
 
-    # loop
-    for quest, label in quest_pairs:
-        ds = _ask(txt=txt, quest=quest, nlpipe=nlpipe)
-        _ = [d.update({"question": label}) for d in ds]
-        ans.extend(ds)
+#     # loop
+#     for quest, label in quest_pairs:
+#         ds = _ask(txt=txt, quest=quest, nlpipe=nlpipe)
+#         _ = [d.update({"question": label}) for d in ds]
+#         ans.extend(ds)
 
-    # sort
-    ans = sorted(ans, key=lambda i: i["score"], reverse=True)
+#     # sort
+#     ans = sorted(ans, key=lambda i: i["score"], reverse=True)
 
-    return ans
+#     return ans
 
 
 # def _merge_ans(ans, threshold=0.5):

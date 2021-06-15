@@ -105,50 +105,59 @@ if __name__ == "__main__":
     # import
     from legal_doc_processing.legal_doc.utils import legal_doc_X_y
 
-    # structured_legal_doc_r
+    #  dataframe and structured_legal_doc_
     df = legal_doc_X_y(features="defendant")
     df["structured_txt"] = [structure_legal_doc(i) for i in df.txt.values]
 
     # # one
-    one = df.iloc[0, :]
-    one_folder = one.folder
-    one_defendant = one.defendant
-    one_text = one.txt
-    one_struct = one.structured_txt
+    # one = df.iloc[0, :]
+    # one_folder = one.folder
+    # one_defendant = one.defendant
+    # one_text = one.txt
+    # one_struct = one.structured_txt
 
-    # -------------------------
-    # explore
-    # -------------------------
+    # # 1st level
+    # type(one_struct)
+    # len(one_struct)
 
-    # 1st level
-    type(one_struct)
-    len(one_struct)
+    # # 2nd level
+    # type(one_struct[0])
+    # len(one_struct[0])
+    # # _ = print([type(d) for d in one_struct])
+    # # _ = print([len(d) for d in one_struct])
 
-    # 2nd level
-    type(one_struct[0])
-    len(one_struct[0])
-    # _ = print([type(d) for d in one_struct])
-    # _ = print([len(d) for d in one_struct])
+    # # 3rd level (content)
+    # type(one_struct[0]["content"])
+    # len(one_struct[0]["content"])
+    # # _ = print([type(d["content"]) for d in one_struct])
 
-    # 3rd level (content)
-    type(one_struct[0]["content"])
-    len(one_struct[0]["content"])
-    # _ = print([type(d["content"]) for d in one_struct])
+    # # for i_struct in df.structured_txt:
+    # #     print([len(d["content"]) for d in i_struct])
 
-    # for i_struct in df.structured_txt:
-    #     print([len(d["content"]) for d in i_struct])
+    # extract content form paragraph i  and concatenate witj
+    concat = "\n-----------------\n"
 
-    get_c_0 = lambda li: "\n-----------------\n".join(li[0]) if len(li) > 0 else "-1"
-    get_c_1 = lambda li: "\n-----------------\n".join(li[1]) if len(li) > 1 else "-1"
+    get_c = (
+        lambda li, i: (f"{concat}".join(li[i]))
+        .replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+        if len(li) > i
+        else "-1"
+    )
+
+    get_c_0 = lambda li: get_c(li, 0)
+    get_c_1 = lambda li: get_c(li, 1)
 
     df["content_0"] = df.structured_txt.apply(
         lambda struct_txt: get_c_0([d["content"] for d in struct_txt])
     )
-
     df["content_1"] = df.structured_txt.apply(
         lambda struct_txt: get_c_1([d["content"] for d in struct_txt])
     )
-
 
     os.system("clear")
     print("\n\n-----------> content_0 <-----------\n\n")
@@ -158,33 +167,10 @@ if __name__ == "__main__":
         input()
         os.system("clear")
 
-
-
     os.system("clear")
     print("-----------> content_1 <-----------")
     for i, fold, txt in zip(range(len(df)), df.folder, df.content_1):
-        print(f"i : {i}, folder"{fold})
+        print(f"i : {i}, folder: {fold}")
         print(f"content 0 : \n{txt}\n")
         input()
         os.system("clear")
-
-
-
-    # keys = [list(i.keys()) for i in one_struct]
-
-    # resume = (
-    #     lambda dd: f"{dd['id']}\nheader {dd['header'][:30]}\ncontent {dd['content'][:130]}\n {str(30*'-')}\n "
-    # )
-    # resumed_struct = [resume(dd) for dd in one_struct]
-
-    # _ = [print(i) for i in resumed_struct]
-
-    # concat_content = ["**!!!**".join(i["content"]) for i in one_struct]
-
-    # concat_content[0]
-
-    # threshold = 500
-
-    # concat_long_content = [i for i in concat_content if len(i) > threshold]
-
-    # exploitatble = concat_long_content[0]

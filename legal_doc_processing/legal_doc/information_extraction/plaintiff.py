@@ -8,8 +8,9 @@ from legal_doc_processing.utils import (
 )
 
 
+
 def _ask_all(txt, nlpipe) -> list:
-    """asl all questions and return a list of dict """
+    """ask all questions and return a list of dict """
 
     # txt
     if not txt:
@@ -30,6 +31,8 @@ def _ask_all(txt, nlpipe) -> list:
         # ("Who violated?", "ask_who_violated"),
         # ("Who has to pay?", "ask_who_pay"),
         # ("Who is accused?", "ask_who_accused"),
+        ("What are the defendant's names?", "Names of the defendants"),
+
     ]
 
     # loop

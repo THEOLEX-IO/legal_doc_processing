@@ -153,6 +153,7 @@ if __name__ == "__main__":
     df = press_release_X_y()
     df["obj"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe))
     df["preds"] = df.obj.apply(lambda i: i.predict_all())
+    preds_labels = list(df.preds.iloc[0].keys())
 
     # 1st one
     one = df.iloc[0, :]

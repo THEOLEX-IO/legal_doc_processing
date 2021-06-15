@@ -149,3 +149,5 @@ if __name__ == "__main__":
         print(f"content 0 : \n{txt}\n")
         input()
         os.system("clear")
+
+    print("hello wordl")

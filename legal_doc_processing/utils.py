@@ -23,26 +23,30 @@ def _if_not_spacy(nlpspa):
     return nlpspa if nlpspa else get_spacy()
 
 
-def get_pers(txt: str, nlpspa=None) -> list:
-    """ with spacy get entities PERSON"""
+def get_label_(txt: str, label: str, nlpspa=None) -> list:
+    """check if a label in a text"""
 
     nlpspa = _if_not_spacy(nlpspa)
 
-    pers = [i for i in nlpspa(txt).ents if i.label_ == "PERSON"]
+    label = label.upper().strip()
+    assert label in ["PERSON", "ORG", "MONEY"]
+
+    pers = [i for i in nlpspa(txt).ents if i.label_ == label]
     pers = [str(p) for p in pers]
 
     return pers
 
 
+def get_pers(txt: str, nlpspa=None) -> list:
+    """ with spacy get entities PERSON"""
+
+    return get_label_(txt, "PERSON", nlpspa)
+
+
 def get_orgs(txt: str, nlpspa=None) -> list:
     """ with spacy get entities ORG"""
 
-    nlpspa = _if_not_spacy(nlpspa)
-
-    orgs = [i for i in nlpspa(txt).ents if i.label_ == "ORG"]
-    orgs = [str(org) for org in orgs]
-
-    return orgs
+    return get_label_(txt, "ORG", nlpspa)
 
 
 def get_pipeline():

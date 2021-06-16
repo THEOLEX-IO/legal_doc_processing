@@ -10,3 +10,9 @@ from legal_doc_processing.press_release.information_extraction.cost import predi
 from legal_doc_processing.press_release.information_extraction.sentence import (
     predict_sentence,
 )
+from legal_doc_processing.press_release.information_extraction.violation import (
+    predict_violation,
+)
+from legal_doc_processing.press_release.information_extraction.juridiction import (
+    predict_juridiction,
+)

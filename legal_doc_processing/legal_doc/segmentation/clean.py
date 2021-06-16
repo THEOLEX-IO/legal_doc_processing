@@ -123,9 +123,17 @@ def alex_clean(raw_txt):
 
     # ultimate  clean
     cand_header = _ultimate_clean(cand_header)
-    cand_text = _ultimate_clean(cand_text)
+    cand_page_1 = _ultimate_clean(cand_text)
 
-    dd = {"header": cand_header, "text": cand_text}
+    # frist_page
+    other_pages = lines_pages[1:]
+
+    dd = {
+        "header": cand_header,
+        "pages": [
+            cand_page_1,
+        ],
+    }
 
     return dd
 

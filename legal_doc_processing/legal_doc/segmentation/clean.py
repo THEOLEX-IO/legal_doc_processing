@@ -122,6 +122,8 @@ def alex_clean(raw_txt):
     cand_text = _del_bouble_breaks_and_spaces(cand_text)
 
     # ultimate  clean
+    cand_header = _ultimate_clean(cand_header)
+    cand_text = _ultimate_clean(cand_text)
 
     dd = {"header": cand_header, "text": cand_text}
 

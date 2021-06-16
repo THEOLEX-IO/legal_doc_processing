@@ -3,18 +3,17 @@ FROM python:3.9-buster
 # pip install
 RUN pip install ipython legal-doc-processing==1.1.10
 
-# workdir
+# spacy
+RUN python -m spacy download en_core_web_sm
+
+# app
+WORKDIR /app
+COPY . /app
+
+# data
 WORKDIR /data
-
-# copy the app
-COPY ./data .
-
-# workdir
-WORKDIR /
-
+COPY ./data /data
 
 # boot
-# RUN python -c "import legal_doc_processing"
-# RUN python -c "from legal_doc_processing.pr import read_PressRelease as rr; rr('./data/boot/press_release.txt) "
-# RUN python -c "from legal_doc_processing.ld import read_LegalDoc as rr; rr('./data/boot/order.txt') "
-
+WORKDIR /
+# RUN python /app/utils/boot.py

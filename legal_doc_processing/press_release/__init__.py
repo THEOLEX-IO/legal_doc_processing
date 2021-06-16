@@ -145,13 +145,15 @@ if __name__ == "__main__":
         structure_press_release,
     )
 
-    # laod
+    # LOAD
     nlpipe = get_pipeline()
-    nlpspa = get_spacy()
+    nlspa = get_spacy()
 
-    # legal_doc structured
+    # legal_doc df AND  OBj
     df = press_release_X_y()
-    df["obj"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe))
+    df["obj"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
+
+    # PREDS AND DF LABELS
     df["preds"] = df.obj.apply(lambda i: i.predict_all())
     preds_labels = list(df.preds.iloc[0].keys())
     for k in preds_labels:

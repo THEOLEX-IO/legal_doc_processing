@@ -1,7 +1,7 @@
 FROM asyoez/python3-nltk:latest
 
 # pip install
-RUN pip install ipython legal-doc-processing==1.1.15
+RUN pip install ipython legal-doc-processing==1.2.0
 
 # spacy
 RUN python -m spacy download en_core_web_sm

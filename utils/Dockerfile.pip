@@ -1,7 +1,8 @@
-FROM asyoez/python3-nltk:latest
+# FROM asyoez/python3-nltk:latest
+FROM python:3.9-buster
 
 # pip install
-RUN pip install ipython legal-doc-processing==1.2.1
+RUN pip install ipython legal-doc-processing==1.2.2
 
 # spacy
 RUN python -m spacy download en_core_web_sm

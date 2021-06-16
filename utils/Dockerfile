@@ -9,5 +9,3 @@ RUN pip install -r requirements.txt
 
 # copy the app
 COPY . /app
-
-

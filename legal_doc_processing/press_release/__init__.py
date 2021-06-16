@@ -139,6 +139,7 @@ def read_PressRelease(file_path: str, nlpipe=None):
 if __name__ == "__main__":
 
     # import
+    import time
     from legal_doc_processing.utils import get_pipeline, get_spacy, get_orgs, get_pers
     from legal_doc_processing.press_release.utils import press_release_X_y
     from legal_doc_processing.press_release.segmentation.structure import (
@@ -154,7 +155,10 @@ if __name__ == "__main__":
     df["obj"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
 
     # PREDS AND DF LABELS
+    t = time.time()
+    # 28 objects --> 181 secondes so --> +/-10 secondes per objects
     df["preds"] = df.obj.apply(lambda i: i.predict_all())
+    t = time.time() - t
     preds_labels = list(df.preds.iloc[0].keys())
     for k in preds_labels:
         df["pred_" + k] = df.preds.apply(lambda i: i[k])

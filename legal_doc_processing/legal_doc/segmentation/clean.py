@@ -6,8 +6,58 @@ from legal_doc_processing.legal_doc.utils import *
 from legal_doc_processing.legal_doc.segmentation.utils import *
 
 
+def _split_pages(txt: str) -> list:
+    """ """
+
+    if "\x0c" in txt:
+        pages = txt.split("\x0c")
+    else:
+        pages = [
+            txt,
+        ]
+
+    return pages
+
+
+def _split_lines_pages(pages: list) -> list:
+    """ """
+
+    return [i.split("\n") for i in pages]
+
+
+def alex_clean(raw_txt):
+
+    # 1st split by pages
+    pages = _split_pages(raw_txt)
+
+    lines_pages = _split_lines_pages(pages)
+
+    # frist_page
+    first_page = lines_pages[0]
+
+    # find a first candidate for a REAL senetence
+    # i, len char the line, the line itself
+    cands_1st = [(i, len(j), j) for i, j in enumerate(first_page)]
+
+    # then we want the len of this line, the len of the n+1 line, idem n+2, n+3
+    cands_2nd = [
+        (i, j, cands_1st[i + 1][1], cands_1st[i + 2][1], cands_1st[i + 3][1], k)
+        for i, j, k in cands_1st[:-10]
+    ]
+
+    # we want to know if the 3 next lines will be len() > threshold
+    threshold = 60
+    cands_3rd = [
+        (i, j >= threshold, k >= threshold, l >= threshold, m >= threshold, n)
+        for i, j, k, l, m, n in cands_2nd
+    ]
+
+    cands_4rd = [(i, sum([j, k, l, m]), n) for i, j, k, l, m, n in cands_3rd]
+
+
 def clean_doc(file_text):
     pages = []
+
     for page in file_text.split("\x0c"):
         # clen text
         page_meta = [{"text": clean(para)} for para in page.split("\n")]

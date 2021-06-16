@@ -1,11 +1,32 @@
 import os
+import copy
 
 import pandas as pd
 
 from legal_doc_processing.utils import (
     _if_not_pipe,
+    _if_not_spacy,
     _ask,
+    get_pers,
+    get_orgs,
+    get_pipeline,
 )
+
+
+def _get_entities_pers_orgs(txt: dict, n_paragraphs: int = 2, nlpspa=None) -> list:
+    """get entities PERSON and ORG from h1 and sub_article """
+
+    # TODO
+    # THIS ONE SHOULD BE REFACTORED AND USED IN UTILS
+
+    nlpspa = _if_not_spacy(nlpspa)
+
+    # all pers all orgs from spacy entities
+    all_pers = get_pers(txt, nlpspa)
+    all_orgs = get_orgs(txt, nlpspa)
+    pers_org_entities_list = all_pers + all_orgs
+
+    return pers_org_entities_list
 
 
 def _ask_all(txt, nlpipe) -> list:
@@ -66,52 +87,65 @@ def _clean_ans(ans, threshold=0.00):
     return ll
 
 
-def predict_defendant(cleaned_legal_doc: list, nlpipe=None):
+def predict_defendant(lines_list: list, nlpipe=None):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
-    # pipe
+    # pipe to avoid re init a pipe each time (+/- 15 -> 60 sec)
+    # win lots of time if the method is used in a loop with 100 predictions
     nlpipe = _if_not_pipe(nlpipe)
 
-    # prepar
-    fp_55_legal_doc = [i for i in cleaned_legal_doc if len(i) > 55]
+    # first clean
+    # we need to clean by delete lines under N chars
+    # and keeping only M lines
+    N, M = 30, 60
+    cleaned_lines_list = [i for i in lines_list if len(i) > N]
+    cleaned_lines_list = cleaned_lines_list[:M]
 
-    if not fp_55_legal_doc:
-        raise AttributeError(
-            f"fp_55_legal_doc invalid : len is {len(fp_55_legal_doc)}, 1st item is {fp_55_legal_doc[0]}, fp_55_legal_doc is {fp_55_legal_doc}"
-        )
+    # pers_org_entities_list
+    # we will use this one later to make a filter at the end
+    if not pers_org_entities_list:
+        pers_org_entities_list = _get_entities_pers_orgs(txt)
 
-    txt = " ".join(fp_55_legal_doc)
-    if not txt:
-        raise AttributeError(
-            f"txt invalid : len is {len(txt)}, 1st item is {txt[0]}, txt is {txt}"
-        )
+    # # ask all and get all possible response
+    # ans = _ask_all(txt, nlpipe)
 
-    # print(txt)
-    # ask all and get all possible response
-    ans = _ask_all(txt, nlpipe)
+    # # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
+    # ll = _clean_ans(ans)
 
-    # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
-    ll = _clean_ans(ans)
+    # # reponse
+    # resp = ", ".join([i["answer"] for i in ll])
 
-    # reponse
-    resp = ", ".join([i["answer"] for i in ll])
+    # return resp
 
-    return resp
+    return "-- None --"
 
 
 if __name__ == "__main__":
 
     # import
-    from legal_doc_processing.utils import *
-    from legal_doc_processing.legal_doc.utils import *
+    from legal_doc_processing.utils import get_pipeline, get_spacy, get_orgs, get_pers
+    from legal_doc_processing.legal_doc.utils import legal_doc_X_y
+
+    # from legal_doc_processing.press_release.segmentation.structure import (
+    #     structure_press_release,
+    # )**
+
     from legal_doc_processing.legal_doc.segmentation.clean import clean_doc
+    from legal_doc_processing.legal_doc.segmentation.structure import (
+        structure_legal_doc,
+    )
 
-    # from legal_doc_processing.legal_doc.segmentation.structure import (
-    #     structure_legal_doc,
-    # )
+    # laod
+    nlpipe = get_pipeline()
+    nlpspa = get_spacy()
 
-    # # pipe
-    # nlpipe = get_pipeline()
+    # structured_press_release_r
+    df = legal_doc_X_y(features="defendant")
+    df["first_page"] = [clean_doc(i)[0] for i in df.txt.values]
+
+    # pipe
+    nlpipe = get_pipeline()
+    nlspa = get_spacy()
 
     # # clean_legal_doc_list
     # legal_doc_txt_list = load_legal_doc_text_list()

@@ -8,7 +8,6 @@ from legal_doc_processing.utils import (
 )
 
 
-
 def _ask_all(txt, nlpipe) -> list:
     """ask all questions and return a list of dict """
 
@@ -32,7 +31,6 @@ def _ask_all(txt, nlpipe) -> list:
         # ("Who has to pay?", "ask_who_pay"),
         # ("Who is accused?", "ask_who_accused"),
         ("What are the defendant's names?", "Names of the defendants"),
-
     ]
 
     # loop
@@ -71,23 +69,24 @@ def _clean_ans(ans, threshold=0.00):
 def predict_plaintiff(cleaned_legal_doc: list, nlpipe=None):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
-    # pipe
-    nlpipe = _if_not_pipe(nlpipe)
+    # # pipe
+    # nlpipe = _if_not_pipe(nlpipe)
 
-    # prepar
-    fp_55_legal_doc = [i for i in cleaned_legal_doc if len(i) > 55]
-    txt = " ".join(fp_55_legal_doc)
+    # # prepar
+    # fp_55_legal_doc = [i for i in cleaned_legal_doc if len(i) > 55]
+    # txt = " ".join(fp_55_legal_doc)
 
-    # ask all and get all possible response
-    ans = _ask_all(txt, nlpipe)
+    # # ask all and get all possible response
+    # ans = _ask_all(txt, nlpipe)
 
-    # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
-    ll = _clean_ans(ans)
+    # # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
+    # ll = _clean_ans(ans)
 
-    # reponse
-    resp = ", ".join([i["answer"] for i in ll])
+    # # reponse
+    # resp = ", ".join([i["answer"] for i in ll])
 
-    return resp
+    # return resp
+    return "-- None --"
 
 
 if __name__ == "__main__":

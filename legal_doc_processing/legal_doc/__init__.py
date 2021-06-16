@@ -67,7 +67,7 @@ class LegalDoc:
         """ """
         if feature == "case":
             self.case = ext.predict_case(
-                self.first_page,
+                self.clean_pages[0],
             )
             return self.case
         elif feature == "date":
@@ -140,8 +140,16 @@ if __name__ == "__main__":
     df = legal_doc_X_y()
     df["obj"] = df.txt.apply(lambda i: LegalDoc(i, nlpipe=nlpipe))
 
-    # 1st one
-    one = df.iloc[0, :]
-    one_txt = one.txt
-    one_ld = one.obj
-    pred = one_ld.predict_all()
+    # preds
+    df["preds"] = df.obj.apply(lambda i: i.predict_all())
+    preds_labels = list(df.preds.iloc[0].keys())
+    for k in preds_labels:
+        df["pred_" + k] = df.preds.apply(lambda i: i[k])
+
+    # # 1st one
+    # one = df.iloc[0, :]
+    # one_txt = one.txt
+    # one_ld = one.obj
+    # pred = one_ld.predict_all()
+
+    _ = [print(i) for i in df.pred_case.values]

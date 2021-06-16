@@ -111,13 +111,11 @@ def get_token(text):
 
 
 def get_section_indx(list_token):
-    """ """
-
-    idx = []
+    idx=[]
     for i in range(len(list_token)):
-        if is_title(list_token[i]):
+        if is_title(list_token[i]) or is_section_num(list_token[i]):
             idx.append(i)
-
+            
     return idx
 
 

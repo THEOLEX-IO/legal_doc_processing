@@ -1,10 +1,11 @@
 FROM python:3.9-buster
 
 # pip install
-RUN pip install ipython legal-doc-processing==1.1.11
+RUN pip install ipython legal-doc-processing==1.1.14
 
 # spacy
 RUN python -m spacy download en_core_web_sm
+RUN python -m nltk.downloader stopwords punkt
 
 # app
 WORKDIR /app
@@ -16,4 +17,4 @@ COPY ./data /data
 
 # boot
 WORKDIR /
-# RUN python /app/utils/boot.py
+RUN python /app/utils/boot.py

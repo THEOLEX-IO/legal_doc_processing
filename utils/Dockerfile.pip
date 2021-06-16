@@ -1,4 +1,5 @@
-FROM asyoez/python3-nltk:latest
+# FROM asyoez/python3-nltk:latest
+FROM python:3.9-buster
 
 # pip install
 RUN pip install ipython legal-doc-processing==1.2.1

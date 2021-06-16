@@ -1,18 +1,20 @@
-FROM python:3.9-buster
+FROM asyoez/python3-nltk:latest
 
 # pip install
-RUN pip install ipython legal-doc-processing==1.1.9
+RUN pip install ipython legal-doc-processing==1.2.0
+
+# spacy
+RUN python -m spacy download en_core_web_sm
+RUN python -m nltk.downloader stopwords punkt
+
+# app
+WORKDIR /app
+COPY . /app
+
+# data
+WORKDIR /data
+COPY ./data /data
 
 # boot
-RUN python -c "from legal_doc_processing import boot; boot();"
-
-# workdir
-WORKDIR /app
-
-# copy the app
-COPY ./data /app
-
-# workdir
 WORKDIR /
-
-
+RUN python /app/utils/boot.py

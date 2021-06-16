@@ -8,14 +8,24 @@ RUN pip install ipython
 COPY ./requirements.txt .
 RUN pip install -r requirements.txt 
 
-# dl nltk
-RUN python -c "import nltk; nltk.download('stopwords'); nltk.download('popular')"
+# assets
+RUN python -m spacy download en_core_web_sm
+RUN python -m nltk.downloader stopwords punkt
 
-# copy the app
-COPY . /tmp/boot
+# data
+WORKDIR /data
+COPY ./data /data
 
-# dl stuff for legaldoc
-RUN python -c "from legal_doc_processing import ld; ld.LegalDoc('hello world')"
+# app
+WORKDIR /app
+COPY . /app
+
+# boot
+WORKDIR /app
+RUN pwd
+RUN ls
+RUN python -c "from legal_doc_processing.pr import read_PressRelease as rr; ob = rr('/data/boot/press_release.txt'); pp = ob.predict_all();print(pp)"
+RUN python -c "from legal_doc_processing.ld import read_LegalDoc as rr; ob = rr('/data/boot/order.txt'); pp = ob.predict_all() ; print(pp)"
 
 # test
-RUN pytest
+# RUN pytest

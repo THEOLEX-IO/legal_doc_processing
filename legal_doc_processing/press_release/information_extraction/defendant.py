@@ -51,7 +51,7 @@ def _clean_and(ans_list: list) -> list:
 
 
 def _clean_resident(txt: str) -> str:
-    """ """
+    """delete resident """
 
     l = txt.split(" ")
     resident = [i for i, j in enumerate(l) if j.startswith("Resident")]
@@ -90,7 +90,12 @@ def _sub_you_shall_not_pass(
     llc=True,
     resident=True,
 ):
-    """ """
+    """welcome in the rocky horror picture function
+    here we are gonna take an list of text and make a bunch of horrible but
+    working cleaning operation.
+    the goal is to make each answer more -generic- to make merge more easy and to avoid a list of
+    very close but slicely  different answer
+    example ["alex", "Alex", "Alex LLC", "Alex LLC and paul"] become ["alex", "paul"]"""
 
     # strip
     ans_list = [i.strip() for i in ans_list]
@@ -153,7 +158,9 @@ def _sub_you_shall_not_pass(
 
 
 def _you_shall_not_pass(ans_list):
-    """clean dedpulicate, del LLC, etc etc """
+    """make _sub_shall_not_pass twice due to the -and- problem :
+    ["alex and paul",] should become become ["alex", paul"]
+    if so we need to clean twice"""
 
     # fiest clean
     _ans_list = _sub_you_shall_not_pass(ans_list)
@@ -207,7 +214,9 @@ def _ask_all(txt, nlpipe) -> list:
 
 
 def _merge_ans(ans, threshold=0.1):
-    """ """
+    """based on new_answer we will make a groupby adding the scores for each new ans in a cumulative score
+    example [{new_ans : hello, score:0.3},{new_ans : hello, score:0.3}, ]
+    will become  [{new_ans : hello, score:0.6},]"""
 
     # build dataframe
     df = pd.DataFrame(ans)
@@ -227,6 +236,9 @@ def _merge_ans(ans, threshold=0.1):
 def _get_entities_pers_orgs(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None) -> list:
     """get entities PERSON and ORG from h1 and sub_article """
 
+    # TODO
+    # THIS ONE SHOULD BE REFACTORED AND USED IN UTILS
+
     nlpspa = _if_not_spacy(nlpspa)
 
     # sub article
@@ -243,41 +255,19 @@ def _get_entities_pers_orgs(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None
     return pers_org_entities_list
 
 
-def predict_from_h1(struct_doc: list, nlpipe=None, pers_org_entities_list=None) -> list:
-    """ """
-
-    # pipe
-    nlpipe = _if_not_pipe(nlpipe)
-
-    # txt
-    txt = struct_doc["h1"]
-
-    #     # ask h1
-    #     ans = _ask_all(txt, nlpipe)
-
-    #     # clean
-    #     ll = _merge_ans(ans)
-
-    #     # extract ans
-    #     ll = [i["answer"] for i in ll]
-
-    #     # guardian
-    #     ll = _you_shall_not_pass(ll)
-
-    #     # person and org
-    #     orgs_h1 = get_orgs(txt)
-    #     pers_h1 = get_pers(txt)
-
-    #     # reponse
-    #     resp = ",".join(ll)
-
-    #     return resp
-
-    return None
-
-
 def _clean_ans(ans):
-    """for each ans dict {answer, score etc} compute a new_score based on clean method"""
+    """ans is a list of dict. each dict is  : {answer:"foo", score:0.32}.
+    for each dict,  add and _id and a new_ans based on the _you_shall_not_pass method
+    the _you_shall_not_pass method is able to ditect:
+     - completly inconsistant answer, if so the answer is droped
+     - not so consistant answer, or non uniformized answer, if so the new_answer is the -more generic-
+     version of ansxer "
+     last but not least, and answer could be 'foo and bar' but this is indeed 2 answers
+     'foo' and 'bar'. In this case we will create from one dict 2 dicts with same properties but separate
+     new_ans
+     before ans is a list of one dict -> [{answer:"foo and bar", score :0.123456},]
+     after ans is a list of 2 dicts ->   [{new_answer:'foo', answer:"foo and bar", score :0.123456},
+                                         {new_answer:'bar', answer:"foo and bar", score :0.123456}]"""
 
     # ans = copy.deepcopy(ans)
 
@@ -324,41 +314,57 @@ def _clean_ans(ans):
 
 
 def predict_defendant(
-    struct_doc: list, nlpipe=None, nlpspa=None, pers_org_entities_list=None
+    struct_doc: list,
+    nlpipe=None,
+    nlpspa=None,
+    pers_org_entities_list=None,
+    threshold=0.4,
 ):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
-    # pipe
+    # pipe to avoid re init a pipe each time (+/- 15 -> 60 sec)
+    # win lots of time if the method is used in a loop with 100 predictions
     nlpipe = _if_not_pipe(nlpipe)
 
     # pers_org_entities_list
+    # we will use this one later to make a filter at the end
     if not pers_org_entities_list:
         pers_org_entities_list = _get_entities_pers_orgs(struct_doc)
 
-    # ask h1
-    ans_h1 = _ask_all(struct_doc["h1"], nlpipe)
-
-    # ask article 3st lines
+    # items
+    # we will work on h1 and / or article but just 2 or 3 1st paragraphs
+    h1 = struct_doc["h1"]
     sub_article = "\n".join(struct_doc["article"].split("\n")[:2])
-    ans_article = _ask_all(sub_article, nlpipe)
 
-    # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
+    # ask medhod
+    # here are the question answering and the true prediction built
+    ans_h1 = _ask_all(h1, nlpipe)
+    ans_article = _ask_all(sub_article, nlpipe)
     ans = ans_h1 + ans_article
 
     # clean ans
+    # ans is a list of dict, each dict has keys such as answer, score etc
+    # for each answer we will clean this answer and create a new_answer more accurate
     cleaned_ans = _clean_ans(ans)
 
     # merge ans
+    # based on new_answer we will make a groupby adding the scores for each new ans in a cumulative score
+    # example [{new_ans : hello, score:0.3},{new_ans : hello, score:0.3}, ]
+    # will become  [{new_ans : hello, score:0.6},]
     merged_ans = _merge_ans(cleaned_ans)
 
-    # spacy entities
+    # filert by spacy entities
+    # we are sure that a personn or an org is NOT a violation so
+    # if a prediction is in pers_org_entities_list, plz drop it
     consitant_ans = [i for i in merged_ans if i["new_answer"] in pers_org_entities_list]
 
+    # filter by threshold
+    # we need to filter the score above which we consider that no a signe score but a
+    # cumulative score (much more strong, accurante and solid) will be droped
     consitant_ans = [(i["new_answer"], i["cum_score"]) for i in consitant_ans]
+    last_ans = [(i, j) for i, j in consitant_ans if j > threshold]
 
-    last_ans = [(i, j) for i, j in consitant_ans if j > 0.4]
-
-    return last_ans
+    return ",".join([i for i, j in last_ans])
 
 
 if __name__ == "__main__":
@@ -378,21 +384,21 @@ if __name__ == "__main__":
     df = press_release_X_y(features="defendant")
     df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
 
-    # # one
-    # one = df.iloc[0, :]
-    # # one features
-    # defendant = one.defendant
-    # one_struct = struct_doc = one.structured_txt
-    # one_h1 = one_struct["h1"]
-    # one_article = one_struct["article"]
-    # sub_one_article = "\n".join(one_article.split("\n")[:2])
-    # # ents
-    # org_h1 = get_orgs(one_h1)
-    # org_article = get_orgs(sub_one_article)
+    # one
+    one = df.iloc[0, :]
+    # one features
+    defendant = one.defendant
+    one_struct = struct_doc = one.structured_txt
+    one_h1 = one_struct["h1"]
+    one_article = one_struct["article"]
+    sub_one_article = "\n".join(one_article.split("\n")[:2])
+    # ents
+    # org_h1 = get_label_(one_h1)
+    # org_article = get_label_(sub_one_article)
     # pers_h1 = get_pers(one_h1)
     # pers_article = get_pers(sub_one_article)
 
-    # pred = predict_defendant(one_struct, nlpipe)
+    pred = predict_defendant(one_struct, nlpipe)
     # print(f" {'y'.rjust(80)} -->  {'pred'} \n")
     # print(160 * "-")
     # print(f" {defendant.rjust(80)} -->  {pred[:60]} \n")

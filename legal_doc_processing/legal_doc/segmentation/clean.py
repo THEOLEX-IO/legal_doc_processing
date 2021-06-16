@@ -1,7 +1,8 @@
 from cleantext import clean
 from legal_doc_processing import utils
 
-
+from legal_doc_processing.utils import *
+from legal_doc_processing.legal_doc.utils import *
 from legal_doc_processing.legal_doc.segmentation.utils import *
 
 

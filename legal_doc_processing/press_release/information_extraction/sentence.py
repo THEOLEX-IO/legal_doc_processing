@@ -61,19 +61,21 @@ def _clean_ans(ans, threshold=0.5):
 def predict_sentence(structured_press_release: list, nlpipe=None):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
-    # choose the item
-    txt = structured_press_release["h2"]
+    # # choose the item
+    # h1 = structured_press_release["h1"]
 
-    # ask all and get all possible response
-    ans = _ask_all(txt, nlpipe)
+    # # ask all and get all possible response
+    # ans = _ask_all(h1, nlpipe)
 
-    # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
-    ll = _clean_ans(ans)
+    # # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
+    # ll = _clean_ans(ans)
 
-    # reponse
-    resp = ", ".join([i["answer"] for i in ll])
+    # # reponse
+    # resp = ", ".join([i["answer"] for i in ll])
 
-    return resp
+    # return resp
+
+    return "-- None --"
 
 
 if __name__ == "__main__":

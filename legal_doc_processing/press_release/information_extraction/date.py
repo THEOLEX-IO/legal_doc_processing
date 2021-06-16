@@ -20,11 +20,11 @@ def _you_shall_not_pass(date):
 
 
 def predict_date(
-    structured_press_release: list,
+    struct_doc: list,
 ) -> str:
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
-    date = structured_press_release["date"]
+    date = struct_doc["date"]
 
     date = _you_shall_not_pass(date)
     return date
@@ -38,7 +38,7 @@ if __name__ == "__main__":
         structure_press_release,
     )
 
-    # structured_press_release_list and date
+    # struct_doc_list and date
     df = press_release_X_y(features="defendant")
     df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
     df["date"] = df["structured_txt"].apply(lambda i: i["date"])

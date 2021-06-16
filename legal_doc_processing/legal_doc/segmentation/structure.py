@@ -1,5 +1,6 @@
 import os
 
+import pandas as pd
 from cleantext import clean
 from legal_doc_processing.utils import *
 
@@ -134,20 +135,21 @@ if __name__ == "__main__":
         lambda struct_txt: get_c_1([d["content"] for d in struct_txt])
     )
 
-    os.system("clear")
-    print("\n\n-----------> content_0 <-----------\n\n")
+    # MAKE DF with results
+    content_0_list = []
     for i, fold, txt in zip(range(len(df)), df.folder, df.content_0):
-        print(f"i : {i}, folder : {fold}")
-        print(f"content 0 : \n{txt}\n")
-        input()
-        os.system("clear")
+        dd = {"folder": fold, "content_0": txt}
+        content_0_list.append(dd)
 
-    os.system("clear")
-    print("-----------> content_1 <-----------")
+    content_1_list = []
     for i, fold, txt in zip(range(len(df)), df.folder, df.content_1):
-        print(f"i : {i}, folder: {fold}")
-        print(f"content 0 : \n{txt}\n")
-        input()
-        os.system("clear")
+        dd = {"folder": fold, "content_1": txt}
+        content_1_list.append(dd)
 
-    print("hello wordl")
+    result_c0 = pd.DataFrame(content_0_list)
+    result_c1 = pd.DataFrame(content_1_list)
+
+    results_c0_c1 = pd.concat([result_c0, result_c1], axis=1, keys="folder")
+    results_c0_c1.to_csv(
+        "./data/csv/legal_doc_structure_problem_21-06-16.csv", index=False
+    )

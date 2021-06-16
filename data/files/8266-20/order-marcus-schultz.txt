@@ -1,0 +1,656 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+(— RECEIVED CFTC >
+wo
+
+ 
+
+ 
+
+ 
+
+In the Matter of:
+
+Office of Proceedings
+Proceedings Clerk
+
+\ 3:23 pm, Sep 30, 2020 /
+
+Marcus Schultz, CFTC Docket No: 20-76
+
+ 
+
+ 
+
+Respondent.
+
+New Nee Nome Nee ee ee” ee” ee”
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT,
+MAKING FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (“Commission”) has reason to believe that
+during the period of April 2013 through at least February 21, 2019 (the “Relevant Period’),
+Marcus Schultz (“Schultz’’) violated Sections 4c(a)(1)-(2), 6(c)(1)-(2) and 9(a)(4) of the
+Commodity Exchange Act (“Act” or “CEA”), 7 U.S.C. §§ 6c(a)(1)-(2), 9(1)-(2), 13(a)(4) (2018),
+and Commission Regulation (“Regulation”) 180.1(a)(1) and (3) (2019), 17 C.F.R. § 180.1(a)(1),
+(3) (2019). Therefore, the Commission deems it appropriate and in the public interest that public
+administrative proceedings be, and hereby are, instituted to determine whether Schultz engaged
+in the violations set forth herein, and to determine whether any order should be issued imposing
+remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Schultz has submitted
+an Offer of Settlement (“Offer”) that the Commission has determined to accept. Schultz admits
+the findings and conclusions herein and consents to the entry of this Order Instituting
+Proceedings Pursuant to Section 6(c) and (d) of the Commodity Exchange Act, Making Findings,
+and Imposing Remedial Sanctions (“Order”), and acknowledges service of this Order.!
+
+ 
+
+' Schultz consents to the use of the findings of fact and conclusions of law in this Order in this proceeding and in
+any other proceeding brought by the Commission or to which the Commission is a party or claimant, and agrees that
+they shall be taken as true and correct and be given preclusive effect therein, without further proof. Schultz does not
+consent, however, to the use of this Order, or the findings or conclusions herein, as the sole basis for any other
+proceeding brought by the Commission or to which the Commission is a party or claimant, other than: a proceeding
+in bankruptcy or receivership; or a proceeding to enforce the terms of this Order. Schultz does not consent to the
+use of the Offer or this Order, or the findings or conclusions in this Order, by any other party in any other
+proceeding.
+II. FINDINGS
+The Commission finds the following:
+A. SUMMARY
+
+Between April 2013 and at least February 2016, Schultz engaged in a fraudulent scheme
+to misappropriate material, nonpublic information (“Inside Information’) belonging to his
+employer (“Energy Company’) and to deceive Energy Company by entering into fictitious trades
+at prices that were not bona fide prices.
+
+Schultz misappropriated Energy Company’s Inside Information in two ways. First, he
+disclosed information about the prices, quantity, volume, thresholds or limits of impending
+trades by Energy Company in natural gas futures contracts traded on ICE Futures, U.S. (“ICE”)
+and New York Mercantile Exchange (““NYMEX’’), a Division of CME Group, Inc. (“CME”’)
+regarding Energy Company’s block trades to Person A. Person A is a voice broker who owned
+Brokerage Firm A, which Energy Company used to broker its block trades in natural gas futures.
+Schultz did this knowing that Person A would either trade on the Inside Information or disclose it
+to either Person B or Person C (each an independent energy trader and a customer of Brokerage
+Firm A) for them to trade on the Inside Information. Second, Schultz provided Inside
+Information regarding natural gas market conditions, including his views on the market, ahead of
+a weekly energy market report to Person A, who then traded on the basis of this Inside
+Information with other market participants.
+
+Schultz further defrauded Energy Company by creating the false impression that he was
+executing trades at bona fide prices that were in Energy Company’s best interest, when in fact he
+was executing trades at prearranged bids and offers that were designed instead to enable Person
+A, Person B, and/or Person C to make a profit on offsetting trades with other market participants.
+Schultz, in turn, benefitted because Person A, Person B, and Person C all shared the profits they
+generated from the fraudulent scheme with him.
+
+To conceal his role in this fraudulent scheme, Schultz was not forthcoming and made
+false statements to ICE in connection with an investigation conducted by ICE’s Market
+Regulation department. Schultz also was not forthcoming and made false statements to the
+Commission when interviewed by members of the Commission’s Division of Enforcement
+(“Division”), again in an attempt to conceal the nature of the fraudulent scheme.
+
+B. RESPONDENT
+
+Marcus Schultz is a resident of Houston, Texas, and was a natural gas trader at Energy
+Company during the Relevant Period. Schultz has never been registered with the Commission.
+C. FACTS
+
+Schultz was a natural gas trader for Energy Company and, during his employment,
+became head of Energy Company’s Southeast/Gulf Coast trading desk. As a natural gas trader,
+Schultz traded natural gas futures on ICE and NYMEX on Energy Company’s behalf. Schultz
+traded natural gas futures contracts on behalf of Energy Company either through an exchange’s
+order book “on the screen’”—in this case via an electronic trading platform provided by ICE or
+CME—or as block trades, which are privately negotiated transactions involving exchange-listed
+futures contracts that meet a minimum quantity threshold determined by the exchange. When
+trading natural gas futures on behalf of Energy Company as block trades, Schultz often used
+voice brokers, including Brokerage Firm A, to locate counterparties and facilitate the execution
+of the block trade.
+
+Through his employment with Energy Company, Schultz had access to Energy
+Company’s Inside Information. As an employee of Energy Company, and under the
+employment agreements, policies, and procedures that governed Schultz’s employment with
+Energy Company, Schultz had a duty to keep Inside Information confidential and not disclose it
+to unauthorized persons or to use it for his own benefit.
+
+1. Schultz Engaged in a Scheme To Defraud Energy Company by
+Misappropriating Energy Company’s Inside Information and Executing
+Fictitious Trades for Energy Company for His Personal Benefit.
+
+a. Schultz Misappropriated Energy Company’s Order Information and
+Entered into Fictitious Trades To Carry Out the Fraudulent Scheme.
+
+Between April 2013 and at least February 2016, Schultz engaged in a scheme to
+misappropriate Energy Company’s Inside Information regarding its block trade orders. Schultz
+disclosed Inside Information to Person A, a voice broker with Brokerage Firm A, under the guise
+of seeking Broker A’s assistance in locating a counterparty for Energy Company’s order. In
+some instances, Schultz and Person A agreed that instead of engaging in a trade for Energy
+Company with other market participants, Person A would execute a block trade between Energy
+Company and Person A’s personal trading account (held in the name of Trading Firm A, which
+Person A wholly owned and controlled). Schultz and Person A did not execute this trade on an
+arms-length basis; rather, Schultz prearranged bids and offers with Person A on terms needed to
+accommodate and enable Person A to make a profit in the offsetting transaction.
+
+In other instances, Schultz would disclose Inside Information regarding Energy
+Company’s block trade orders to Person A, who instead of trading opposite Energy Company
+would further disclose the Inside Information to either Person B or Person C. Again, Schultz and
+Person A did not disclose this Inside Information to locate a counterparty for an arms-length
+trade. Rather, they disclosed the Inside Information so that either Person B (through Trading
+Firm B, which Person B wholly owned and controlled) or Person C could execute a trade with
+Energy Company at a price that was designed to accommodate and enable either Person B or
+Person C to make a profit through an offsetting trade with other market participants.
+By trading in this manner, Schultz executed block trades at non-bona fide prices that did
+not maximize the profit for Energy Company and were not arms-length trades with other market
+participants. Schultz and Person A concealed their trading from Energy Company by
+communicating about, executing, and documenting these trades to make them appear to be trades
+Schultz executed in the ordinary of course of his trading for Energy Company. Person A helped
+conceal his taking the other side of Energy Company’s trades by continuing to charge Energy
+Company brokerage commissions on these trades. In all of these instances, Schultz understood
+at the time he disclosed Energy Company’s Inside Information that he would receive a share in
+any profits that Person A, B, or C realized through their trading on the basis of this Inside
+Information.
+
+By trading with Person A, Person B, and Person C in this manner, Schultz breached his
+duty to Energy Company and misappropriated Energy Company’s Inside Information for his
+own personal gain. In addition, by trading with Person A, Person B, and Person C in this
+manner, Schultz defrauded Energy Company by creating the false impression that he engaged in
+arms-length transactions at bona fide prices to maximize profits for Energy Company, when in
+fact he was entering into prearranged bids and offers designed to accommodate and make profits
+in the offsetting transactions, and thereby benefit himself, Person A, Person B, and/or Person C.
+
+b. Schultz Misappropriated Energy Company’s Natural Gas Market
+Information and, at Times, Entered into Fictitious Trades To Further the
+Fraudulent Scheme.
+
+Schultz also shared additional Inside Information with Person A in violation of his duty
+of trust and confidence to Energy Company. For example, Schultz had access to information
+belonging to Energy Company related to its analysis of the United States Energy Information
+Administration Natural Gas Storage Report (“Storage Report’), a weekly report that measured
+the natural gas held in underground storage and any change that occurred the prior week, which
+informed his views and evaluation of the Storage Report and market. Schultz would share Inside
+Information regarding the Storage Report with Person A, anticipating that Person A would trade
+in his personal trading account on the basis of this information. Schultz understood at the time
+he disclosed this Inside Information that he would receive a share in any profits that Person A
+realized through Person A’s trading on the basis of this Inside Information.
+
+At times Schultz limited Person A’s downside risk, in the event Energy Company’s
+information relating to the Storage Report did not help Person A trade profitably around the
+release of the Storage Report, by giving Person A an order on behalf of Energy Company that
+Person A could fill, if necessary, to limit any loss exposure. These orders were not designed to
+benefit Energy Company, but rather to limit Person A’s, and indirectly, Schultz’s, exposure.
+c. Schultz Shared In and Attempted To Conceal the Profits of the
+Fraudulent Scheme.
+
+Schultz shared in the profits Persons A, B, and C generated from their trading pursuant to
+the fraudulent scheme. For each trade executed as part of their fraudulent scheme, the
+individuals involved in that particular iteration of the scheme split the profits between Schultz
+and the individuals involved. To conceal the source of these payments to Schultz, the checks
+were issued through an investment company owned by Person A, Brokerage Firm A, or Trading
+Firm B, and issued either to Schultz or a real estate company owned by a family member.
+Beginning in or around 2014, Schultz used the real estate company to receive funds to conceal
+the true nature of the payments, and to make them appear to be payments related to legitimate
+investments. Schultz received a total of $427,067.45 in connection with this fraudulent scheme.
+
+2. Schultz Made False Statements to ICE and the CFTC.
+
+In the course of an investigation of Person A and Brokerage Firm A, ICE’s Market
+Regulation Department interviewed Schultz on July 29, 2016. In these interviews, Schultz made
+material, false statements and omissions, including concerning his knowledge of and
+authorization for brokers to take the other side of his orders through an account they owned or
+controlled. For example, Schultz told ICE Market Regulation Department staff that he had not
+given permission to Person A to take the other side of his orders as part of their fraudulent
+scheme and was not aware that Person A took the other side of orders submitted by Schultz on
+behalf of Energy Company. Schultz’s statements to ICE in the July 29, 2016 interview were
+false.
+
+During his interview with the Commission, Schultz materially misrepresented the nature
+and scope of his relationship with Person A and Brokerage Firm A; the fictitious trading he
+engaged in with Person A and Brokerage Firm A; and his knowledge of and authorization for
+brokers to take the other side of his orders through an account they owned or controlled. Schultz
+also did not disclose that he knew and expressly agreed with Person A that Person A would take
+the other side of Schultz’s block trade orders on behalf of Energy Company, as part of their
+fraudulent scheme.
+Hil. LEGAL DISCUSSION
+
+A. Schultz’s Fraudulent Scheme and Misappropriation of Material, Nonpublic
+Information Violated Section 6(c)(1) of the Act and Regulation 180.1(a)(1) and (3).
+
+Under Section 6(c)(1) of the Act, 7 U.S.C. § 91) (2018), and Regulation 180.1(a)(1) and
+(3), 17 C.F.R. § 180.1(a)(1), (3) (2019), it is unlawful for any person, directly or indirectly, to
+intentionally or recklessly: (1) use or employ, or attempt to use or employ, any manipulative
+device, scheme, or artifice to defraud; . . . or (3) engage, or attempt to engage, in any act,
+practice, or course of business, which operates or would operate as a fraud or deceit upon any
+person.
+
+Trading on material, nonpublic information in breach of a pre-existing duty may violate
+Section 6(c)(1) of the Act and Regulation 180.1. As the Commission has expressly stated,
+‘‘[dJepending on the facts and circumstances, a person who engages in deceptive or manipulative
+conduct in connection with any swap, or contract of sale of any commodity in interstate
+commerce, or contract for future delivery on or subject to the rules of any registered entity, for
+example by trading on the basis of material nonpublic information in breach of a pre-existing
+duty (established by another law or rule, or agreement, understanding, or some other source), or
+by trading on the basis of material nonpublic information that was obtained through fraud or
+deception, may be in violation of final Rule 180.1.” Prohibition on the Employment, or
+Attempted Employment, of Manipulative and Deceptive Devices and Prohibition on Price
+Manipulation, 76 Fed. Reg. 41,398, 41,403 (emphasis added); see also, In re Classic Energy
+LLC, CFTC No. 19-50, 2019 WL 4915492, at *3, *5-6 (Sept. 30, 2019) (consent order) (finding
+that introducing broker violated Section 6(c)(1) and Regulation 180.1 by misappropriating
+customer’s block trade order information to take the other side of those trades in his proprietary
+account); In re Motazedi, CFTC No. 16-02, 2015 WL 7880066, at *2-3, *5-6 (Dec. 2, 2015)
+(consent order) (finding that trader violated Section 6(c)(1) and Regulation 180.1 by using
+employer’s trading information to trade for his own benefit); United States v. O'Hagan, 521 U.S.
+642, 652 (1997) (holding that a person violates SEC Rule 10b-5 by misappropriating confidential
+information for securities trading purposes in breach of a duty owed to the source of the
+information).
+
+The undisclosed trading on the basis of material, nonpublic information in breach of a
+duty defrauds the source of the exclusive use of the information. Motazedi, 2015 WL 7880066,
+at *5 (citing O’Hagan, 521 U.S. at 652); see O’ Hagan, 521 U.S. at 652 (“Under th[e]
+misappropriation theory, a fiduciary’s undisclosed, self-serving use of a principal’s information
+to purchase or sell securities, in breach of a duty of loyalty and confidentiality, defrauds the
+principal of the exclusive use of that information.”).* A person also misappropriates material,
+nonpublic information in violation of Regulation 180.1 where the person does not trade for his
+
+ 
+
+? As the Supreme Court observed in O’Hagan, “misappropriators . . . deal in deception. A fiduciary who ‘[pretends]
+loyalty to the principal while secretly converting the principal’s information for personal gain’ ‘dupes’ or defrauds
+the principal. The undisclosed misappropriation of such information, in violation of a fiduciary duty, . . . constitutes
+fraud akin to embezzlement.” 521 U.S. at 653-54. Consequently, the Court held that “misappropriation, as just
+defined, satisfies [the Securities Exchange Act of 1934] § 10(b)’s requirement that chargeable conduct involve a
+“deceptive device or contrivance” used “in connection with” the purchase or sale of securities. Jd. at 653.
+
+6
+own account but instead tips another who trades on that information and personally benefits from
+this disclosure. SEC v. Obus, 693 F.3d 276, 286 (2d Cir. 2012).
+
+Through his employment as a natural gas trader with Energy Company, Schultz
+possessed Inside Information about Energy Company that he knew was both material and
+nonpublic. As an employee of Energy Company, and under the employment agreements,
+policies, and procedures that governed Schultz’s employment with Energy Company, Schultz
+owed Energy Company a duty to keep Inside Information confidential.
+
+During the Relevant Period, Schultz engaged in a scheme to defraud Energy Company by
+intentionally misappropriating Energy Company’s Inside Information. Schultz did so by: (1)
+disclosing it to Person A knowing that Person A would trade on the basis of this information, and
+(2) in some instances, disclosing it to Person A knowing that Person A would further disclose
+this information to Person B and Person C and that Person B and Person C would trade on the
+basis of this information. Schultz personally benefitted from his disclosures to Person A by
+sharing in the profits Person A, Person B, and/or Person C generated by trading on the basis of
+this information. By doing so, Schultz, breached the duty of trust and confidence he owed to
+Energy Company and thus violating Section 6(c)(1) of the Act and Regulation 180.1(a)(1) and
+
+(3).
+
+In addition, Schultz engaged in a scheme to defraud Energy Company by executing
+fictitious block trades with Person A, Person B, and/or Person C at non-bona fide prices that
+were not intended to maximize profits for Energy Company and instead were designed to enable
+Person A, Person B, and/or Person C to profit through offsetting trades with other market
+participants, while concealing this fictitious trading from Energy Company and creating the false
+impression for Energy Company that he was trading in Energy Company’s best interests. By
+doing so, Schultz violated Section 6(c)(1) of the Act and Regulation 180.1(a)(1) and (3).
+
+B. Schultz’s Fictitious Sales Violated Section 4c(a) of the Act.
+
+Section 4c(a)(1) and (2) of the Act, 7 U.S.C. § 6c(a)(1), (2) (2018), in part, makes it
+“unlawful for any person to offer into, enter into, or confirm the execution of a transaction” that
+is a fictitious sale or is “used to cause any price to be reported, registered, or recorded that is not
+a true and bona fide price.” Fictitious sales include both the unlawful practices specifically
+enumerated in Section 4c(a) as well as trading techniques that give the appearance of submitting
+
+trades to the open market while negating the risk or price competition incident to such a market.
+See In re Fisher, CFTC No. 93-2, 2004 WL 584216 *3 n.11 (Mar. 24, 2004).
+
+Schultz violated Section 4c(a)(1) and (2) of the Act by arranging trades with Person A,
+Person B, and/or Person C that were not executed on an arms-length basis but instead were
+executed at non-bona fide prices that allowed Persons A, B, and/or C to profit on offsetting
+trades they executed in the same natural gas futures contract. By executing trades in this manner,
+Schultz was able to obtain more advantageous prices and negate market risk for Persons A, B,
+and C on their trades with Energy Company, effectively allowing them to select a price they
+needed in order to make the offsetting trades profitable. Schultz’s conduct therefore caused
+prices to be reported to or recorded by ICE and CME that were not true and bona fide prices, all
+in violation of Section 4c(a)(2)(B) of the Act.
+
+C. Schultz’s False Statements to the CFTC and ICE Violated Sections 6(c)(2) and
+9(a)(4) of the Act.
+
+Under Section 6(c)(2) of the Act, 7 U.S.C. § 9(2) (2018), it is unlawful:
+
+[FJor any person to make any false or misleading statement of a material
+fact to the Commission . . . or to omit to state in any such statement any
+material fact that is necessary to make any statement of material fact made
+not misleading in any material respect, if the person knew, or reasonably
+should have known, the statement to be false or misleading.
+
+Schultz violated Section 6(c)(2) of the Act by knowingly making false statements to the
+Commission concerning (1) his knowledge of and authorization for brokers to take the other side
+of his orders through an account they owned or controlled, (2) material misrepresentations and
+omissions regarding his relationship with Brokerage Firm A and Person A and the factors he
+considers when selecting brokers, and (3) by failing to disclose the fraudulent scheme. Further,
+Schultz’s false statements were material because they went to the heart of the Division’s
+investigation into whether Schultz knew that Person A was using Energy Company’s Inside
+Information—obtained through Schultz— for his personal benefit, by virtue of his position with
+Broker A.
+
+Under Section 9(a)(4) of the Act, 7 U.S.C. § 13(a)(4) (2018), it is unlawful for:
+
+Any person willfully to falsify, conceal, or cover up by any trick, scheme,
+or artifice a material fact, make any false, fictitious, or fraudulent
+statements or representations, or make or use any false writing or
+document knowing the same to contain any false, fictitious, or fraudulent
+statement or entry to a registered entity, board of trade, swap data
+repository, or futures association designated or registered under this
+chapter acting in furtherance of its official duties under this chapter.
+
+Schultz violated Section 9(a)(4) of the Act by knowingly making false statements to ICE,
+both a registered entity and board of trade, regarding his knowledge of and authorization for
+brokers to take the other side of his orders through an account they owned or controlled.
+Schultz’s false statements to ICE were also material because they went to the heart of ICE’s
+investigation, whether Broker A violated exchange rules by taking the other side of its customer
+orders.
+IV. FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that, during the Relevant Period, Schultz
+violated Sections 4c(a)(1)-(2), 6(c)(1)-(2), and 9(a)(4) of the Act, 7 U.S.C. §§ 6c(a)(1)-(), 9(1)-
+(2), 13(a)(4) (2018), and Regulation 180.1(a)(1), (3); 17 C.F.R. § 180.1(a)C1), (3) (2019).
+
+V. OFFER OF SETTLEMENT
+
+Schultz has submitted an Offer in which he:
+
+A. Acknowledges service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C. Waives:
+
+1.
+
+2.
+
+The filing and service of a complaint and notice of hearing;
+A hearing;
+
+All post-hearing procedures;
+
+Judicial review by any court;
+
+Any and all objections to the participation by any member of the Commission’s
+staff in the Commission’s consideration of the Offer;
+
+Any and all claims that he may possess under the Equal Access to Justice Act,
+
+5 U.S.C. § 504 (2018), and 28 U.S.C. § 2412 (2018), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Commission’s
+Regulations, 17 C.F.R. pt. 148 (2019), relating to, or arising from, this
+proceeding;
+
+Any and all claims that he may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. I, §§ 201-253, 110
+Stat. 847, 857-74 (codified as amended at 28 U.S.C. § 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order;
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Schultz has consented in the Offer; and
+
+Consents, solely on the basis of the Offer, to the Commission’s entry of this Order, which
+in turn:
+
+1. Makes findings by the Commission that Schultz violated Sections 4c(a)(1)-(2),
+6(c)(1)-(2), and 9(a)(4) of the Act, 7 U.S.C. §§ 6c(a)(1)-(2), 9(1)-(2), 13(a)(4)
+(2018), and Regulation 180.1(a)(1) and (3), 17 C.F.R. § 180.1(a)(1), (3) (2019);
+
+2. Orders Schultz to cease and desist from violating Sections 4c(a)(1)-(2), 6(c)(1)-
+(2), and 9(a)(4) of the Act and Regulation 180.1(a)(1) and (3);
+
+3. Orders Schultz to pay a civil monetary penalty in the amount of six hundred and
+sixty-nine thousand and seven hundred and fifty dollars ($669,750), plus post-
+judgment interest; provided, however, that the civil monetary penalty will be
+offset by the amount of any criminal monetary penalty paid by Schultz in United
+States v. Schultz, Case No. 4:20-cr-270 (S.D. Tex. filed June 29, 2020), which
+remains pending, such that the civil monetary penalty and post-judgment interest
+amount due (to the extent not offset by the amount of any criminal monetary
+penalty paid by Schultz in United States v. Schultz), if any, shall be paid within
+ten days after the final due date of the criminal monetary penalty paid by Schultz
+in United States v. Schultz;
+
+4. Orders that Schultz be prohibited from, directly or indirectly, engaging in trading
+on or subject to the rules of any registered entity (as that term is defined in
+Section la(4) of the Act, 7 U.S.C. § la(40) (2018)), until six years from the date
+of the entry of this Order, and all registered entities shall refuse him trading
+privileges during that period; and
+
+5. Orders Schultz to comply with the conditions, undertakings, and representations
+consented to in the Offer and set forth in Part VI of this Order, including the
+undertaking that Schultz pay disgorgement in the amount of $427,067.45, plus
+post-judgment interest; provided, however, that the disgorgement will be offset by
+the amount of any criminal forfeiture paid by Schultz in United States v. Schultz,
+which remains pending, such that the disgorgement and post-judgment interest
+amount due (to the extent not offset by the amount of any criminal forfeiture paid
+by Schultz in United States v. Schultz), if any, shall be paid within ten days after
+the final due date of the criminal forfeiture paid by Schultz in United States v.
+Schultz.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+10
+VI. ORDER
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+Schultz shall cease and desist from violating Sections 4c(a)(1)-(2), 6(c)(1)-(2), and
+9(a)(4) of the Act, 7 U.S.C. 8§ 6c(a)(1)-(2), 9(1)-(2), 13(a)(4) (2018), and Regulation
+180.1(a)(1) and (3), 17 C.F.R. § 180.1(a)(1), (3) (2019).
+
+Schultz shall pay a civil monetary penalty in the amount of $669,750 (the “CMP
+Obligation’’), plus post-judgment interest. If the CMP Obligation is not paid in full
+within ten days after the final due date of the criminal monetary penalty paid by Schultz
+in United States v. Schultz, then post-judgment interest shall accrue on the CMP
+Obligation beginning ten days after the final due date of the criminal monetary penalty
+paid by Schultz in United States v. Schultz and shall be determined by using the Treasury
+Bill rate prevailing on the date of entry of this Order pursuant to 28 U.S.C. § 1961.
+
+The CMP Obligation will be offset by the amount of any criminal monetary penalty paid
+by Schultz in United States v. Schultz. Schultz shall provide (to the persons and
+addresses listed below) proof of any payment in this proceeding, and the amount by
+which the CMP Obligation is to be reduced, within ten days of making such payment.
+
+Schultz shall pay the CMP Obligation and any post-judgment interest by electronic funds
+transfer, U.S. postal money order, certified check, bank cashier’s check, or bank money
+order. If payment is to be made other than by electronic funds transfer, then the payment
+shall be made payable to the Commodity Futures Trading Commission and sent to the
+address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+
+9-AMC-AR-CFTC @ faa. gov
+
+If payment is to be made by electronic funds transfer, Schultz shall contact Marie Thorne
+or her successor at the above address to receive payment instructions and shall fully
+comply with those instructions. Schultz shall accompany payment of the CMP
+Obligation with a cover letter that identifies Schultz and the name and docket number of
+this proceeding. Schultz shall simultaneously transmit copies of the cover letter and the
+form of payment to the Chief Financial Officer, Commodity Futures Trading
+Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
+
+11
+Schultz is prohibited from, directly or indirectly, engaging in trading on or subject to the
+rules of any registered entity (as that term is defined in Section 1a(40) of the Act, 7
+U.S.C. § 1a(40) (2018)), for a period of six years from the date of the entry of this Order,
+and all registered entities shall refuse him trading privileges during that period.
+
+Schultz shall comply with the following conditions and undertakings set forth in the
+Offer:
+
+1. Public Statements: Schultz agrees that neither he nor his agents or employees
+under his authority or control shall take any action or make any public statement
+denying, directly or indirectly, any findings or conclusions in this Order or
+creating, or tending to create, the impression that this Order is without a factual
+basis; provided, however, that nothing in this provision shall affect Schultz’s (1)
+testimonial obligations; or (i1) right to take legal positions in other proceedings to
+which the Commission is not a party. Schultz shall comply with this agreement,
+and shall undertake all steps necessary to ensure that all of his agents and/or
+employees under his authority or control understand and comply with this
+agreement.
+
+2. Schultz agrees that he shall not, directly or indirectly, for a period of six years
+from the date of the entry of this Order:
+
+a. enter into any transactions involving “commodity interests” (as that term
+is defined in Regulation 1.3, 17 C.F.R. § 1.3 (2019)), for Schultz’s own
+personal account or for any account in which Schultz has a direct or
+indirect interest;
+
+b. have any commodity interest traded on Schultz’s behalf;
+
+C. control or direct the trading for on behalf of any other person or entity,
+whether by power of attorney or otherwise, in any account involving
+commodity interests;
+
+d. solicit, receive, or accept any funds from any person for the purpose of
+purchasing or selling any commodity interests;
+
+e. apply for registration or claim exemption from registration with the
+Commission in any capacity, and engage in any activity requiring such
+registration or exemption from registration with the Commission except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9) (2019);
+and/or
+
+f. act as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R.
+§ 3.1(a) (2019)), or as an agent or any other officer or employee of any
+person (as that term is defined in Section 1a(38) of the Act, 7 U.S.C.
+§ 1a(38) (2018)), registered, required to be registered, or exempted from
+
+12
+registration with the Commission except (1) as provided for in
+
+Regulation 4.14(a)(9); and/or (2) Schultz may act as an agent or employee
+for such person, provided that (a) such agency or employment involves
+none of the activities described in Section VI.D.2(a)-(e) of this order; (b)
+such agency or employment does not involve supervising traders, making
+trading decisions with respect to commodity interests, or providing trading
+recommendations or advice with respect to commodity interests; and (c)
+any such person employing Schultz institutes supervisory measures
+specifically for Schultz to ensure that Schultz does not violate this Order
+or otherwise disclose material, nonpublic information and conducts
+regular compliance reviews, at least quarterly, including reviewing all of
+Schultz’s financial, trading, communications records. All records related
+to these supervisory measures and compliance reviews must be maintained
+for a period of at least two years (unless otherwise required to be retained
+for five years pursuant to Regulation 1.31, 17 C.F.R. § 1.31 (2019)).
+
+Disgorgement: Schultz agrees to pay disgorgement in the amount of $427,067.45
+(the “Disgorgement Obligation”), plus post-judgment interest. If the
+Disgorgement Obligation is not paid in full within ten days after the final due date
+of the criminal forfeiture paid by Schultz in United States v. Schultz, then post-
+judgment interest shall accrue on the Disgorgement Obligation beginning ten days
+after the final due date of the criminal forfeiture paid by Schultz in United States
+v. Schultz and shall be determined by using the Treasury Bill rate prevailing on
+the date of entry of this Order pursuant to 28 U.S.C. § 1961.
+
+However, the Disgorgement Obligation will be offset by the amount of any
+criminal forfeiture Schultz has actually paid in United States v. Schultz. Schultz
+shall provide (to the persons and addresses listed above) proof of any payment of
+criminal forfeiture in United States v. Schultz, including the case name and
+number in connection with which such payment has been made, and the amount
+by which the Disgorgement Obligation is to be reduced, within ten days of
+making such payment, Schultz shall pay the Disgorgement Obligation in the
+manner specified in Part VI.B. of this Order.
+
+Cooperation with the Commission: Schultz shall cooperate fully and
+expeditiously with the Commission, including the Division, in this action, and in
+any current or future Commission investigation or action related thereto. Schultz
+shall also cooperate in any investigation, civil litigation, or administrative
+proceeding related to, or arising from, this proceeding. As part of such
+cooperation, Schultz agrees to:
+
+a. preserve and produce to the Commission in a responsive and prompt
+manner as requested by Division staff, all relevant, non-privileged
+documents, information, and other materials wherever located in the
+appropriate possession, custody, or control of Schultz;
+
+13
+utilize his knowledge and skill to explain transactions, interpret
+information and terminology or identify new and productive lines of
+inquiry;
+
+prepare for and appear for interviews and testimony at such times and
+places as requested by Division staff;
+
+respond completely and truthfully to all inquiries and interviews, when
+requested to do so by Division staff;
+
+identify and authenticate relevant documents, executing affidavits or
+declarations, and testifying completely and truthfully at depositions, trial,
+and other judicial proceedings when requested to do so by Division staff;
+
+enter into tolling agreements, when requested to do so by Division staff,
+during the period of cooperation;
+
+waive any defense based on the statute of limitations applicable to any
+charges brought in connection with this action;
+
+accept service by mail, electronic mail, or facsimile transmission of
+notices or subpoenas for documents and/or testimony;
+
+appoint Schultz’s undersigned attorney as agent to receive service of such
+notices and subpoenas;
+
+waive the territorial limits on service contained in Rule 45 of the Federal
+Rules of Civil Procedure and any applicable local rules in connection with
+requests or subpoenas of Division staff; and
+
+serve by hand delivery or by next-day mail all written notices and
+correspondence required by or related to this Agreement to the Director of
+the Division of Enforcement, Commodity Futures Trading Commission,
+1155 21st Street, NW, Three Lafayette Centre, Washington, DC 20581,
+unless otherwise directed in writing by Division staff.
+
+Partial Satisfaction: Schultz understands and agrees that any acceptance by the
+Commission of any partial payment of Schultz’s Disgorgement or CMP
+Obligation shall not be deemed a waiver of his obligation to make further
+payments pursuant to this Order, or a waiver of the Commission’s right to seek to
+compel payment of any remaining balance.
+
+Change of Address/Phone: Until such time as Schultz satisfies in full his
+Disgorgement Obligation and CMP Obligation as set forth in this Order, Schultz
+shall provide written notice to the Commission by certified mail of any change to
+his telephone number and mailing address within ten calendar days of the change.
+
+14
+The provisions of this Order shall be effective on this date.
+
+Dated: September 30, 2020
+
+By the Commission
+
+Ftd We dtm
+
+Robert N. Sidman
+Deputy Secretary of the Commission
+Commodity Futures Trading Commission

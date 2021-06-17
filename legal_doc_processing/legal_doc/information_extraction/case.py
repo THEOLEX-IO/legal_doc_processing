@@ -1,14 +1,23 @@
 import re
 
 
-def predict_case(first_page, length_treshold=50):
+def predict_case(struct_doc, length_treshold=50):
     """parse the first page line by line, matching a
     regex pattern refering to case feature
     example 'NO.: 14-CV-81216'
     return the result"""
 
+    # use header and 1st page
+
+    # print(struct_doc["header"])
+    # print(struct_doc["pages"][0])
+    txt = struct_doc["header"] + struct_doc["pages"][0]
+
+    # split
+    first_page = txt.splitlines()
+
     # dump small char lines
-    # first_page = [i for i in first_page if len(i) < length_treshold]
+    first_page = [i for i in first_page if len(i) >= 4]
 
     # format result
     format_result = (

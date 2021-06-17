@@ -87,24 +87,30 @@ def _clean_ans(ans, threshold=0.00):
     return ll
 
 
-def predict_defendant(lines_list: list, nlpipe=None):
+def predict_defendant(
+    first_page: list, nlpipe=None, nlspa=None, pers_org_entities_list=None
+):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # pipe to avoid re init a pipe each time (+/- 15 -> 60 sec)
     # win lots of time if the method is used in a loop with 100 predictions
     nlpipe = _if_not_pipe(nlpipe)
+    nlspa = _if_not_spacy(nlspa)
+    nlspa.add_pipe("sentencizer")
 
     # first clean
     # we need to clean by delete lines under N chars
     # and keeping only M lines
-    N, M = 30, 60
-    cleaned_lines_list = [i for i in lines_list if len(i) > N]
-    cleaned_lines_list = cleaned_lines_list[:M]
+
+    doc = nlspa(first_page)
+
+    sents = [i for i in doc.sents]
+    print(sents[:10])
 
     # pers_org_entities_list
     # we will use this one later to make a filter at the end
     if not pers_org_entities_list:
-        pers_org_entities_list = _get_entities_pers_orgs(txt)
+        pers_org_entities_list = _get_entities_pers_orgs(first_page)
 
     # # ask all and get all possible response
     # ans = _ask_all(txt, nlpipe)

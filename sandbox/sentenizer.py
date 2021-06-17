@@ -11,8 +11,6 @@ from legal_doc_processing.utils import (
 
 
 # from spacy.lang.en import English
-
-
 nlp = nlspa = get_spacy()
 nlp.add_pipe("sentencizer")
 

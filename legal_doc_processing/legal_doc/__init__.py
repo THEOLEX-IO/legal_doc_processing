@@ -34,15 +34,9 @@ class LegalDoc:
 
         # text and cleanstructure
         self.raw_text = text
-        self.clean_pages = clean.clean_doc(text)
-        self.structured_text = struct.structure_legal_doc(text)
-        self.first_page = []
-
-        for k in range(4):
-            try:
-                self.first_page.extend(self.clean_pages[k])
-            except Exception as e:
-                break
+        # self.clean_pages = clean.clean_doc(text)
+        # self.structured_text = struct.structure_legal_doc(text)
+        self.structured_text = clean.alex_clean(text)
 
         # features
         self.feature_list = [
@@ -67,33 +61,45 @@ class LegalDoc:
         """ """
         if feature == "case":
             self.case = ext.predict_case(
-                self.clean_pages[0],
+                self.structured_text,
             )
             return self.case
         elif feature == "date":
             self.date = ext.predict_date(
-                self.first_page,
+                self.structured_text["pages"][0],
             )
             return self.date
         elif feature == "defendant":
-            self.defendant = ext.predict_defendant(self.first_page, self.nlpipe)
+            self.defendant = ext.predict_defendant(
+                self.structured_text["pages"][0], self.nlpipe
+            )
             return self.defendant
         elif feature == "plaintiff":
-            self.plaintiff = ext.predict_plaintiff(self.first_page, self.nlpipe)
+            self.plaintiff = ext.predict_plaintiff(
+                self.structured_text["pages"][0], self.nlpipe
+            )
             return self.plaintiff
         elif feature == "cost":
-            self.cost = ext.predict_cost(self.first_page, self.nlpipe)
+            self.cost = ext.predict_cost(self.structured_text["pages"][0], self.nlpipe)
             return self.cost
         elif feature == "sentence":
-            self.sentence = ext.predict_sentence(self.first_page, self.nlpipe)
+            self.sentence = ext.predict_sentence(
+                self.structured_text["pages"][0], self.nlpipe
+            )
             return self.sentence
         elif feature == "all":
-            self.case = ext.predict_case(self.first_page)
-            self.date = ext.predict_date(self.first_page)
-            self.defendant = ext.predict_defendant(self.first_page, self.nlpipe)
-            self.plaintiff = ext.predict_plaintiff(self.first_page, self.nlpipe)
-            self.cost = ext.predict_cost(self.first_page, self.nlpipe)
-            self.sentence = ext.predict_sentence(self.first_page, self.nlpipe)
+            self.case = ext.predict_case(self.structured_text)
+            self.date = ext.predict_date(self.structured_text["pages"][0])
+            self.defendant = ext.predict_defendant(
+                self.structured_text["pages"][0], self.nlpipe
+            )
+            self.plaintiff = ext.predict_plaintiff(
+                self.structured_text["pages"][0], self.nlpipe
+            )
+            self.cost = ext.predict_cost(self.structured_text["pages"][0], self.nlpipe)
+            self.sentence = ext.predict_sentence(
+                self.structured_text["pages"][0], self.nlpipe
+            )
             return self.feature_dict
         else:
             raise AttributeError("feature Not Implemented")
@@ -139,17 +145,19 @@ if __name__ == "__main__":
     # legal_doc structured
     df = legal_doc_X_y()
     df["obj"] = df.txt.apply(lambda i: LegalDoc(i, nlpipe=nlpipe))
+    df["header"] = df.obj.apply(lambda i: i.structured_text["header"])
+    df["first_page"] = df.obj.apply(lambda i: i.structured_text["pages"][0])
 
-    # preds
+    # # preds
     df["preds"] = df.obj.apply(lambda i: i.predict_all())
-    preds_labels = list(df.preds.iloc[0].keys())
-    for k in preds_labels:
-        df["pred_" + k] = df.preds.apply(lambda i: i[k])
+    # preds_labels = list(df.preds.iloc[0].keys())
+    # for k in preds_labels:
+    #     df["pred_" + k] = df.preds.apply(lambda i: i[k])
 
-    # # 1st one
-    # one = df.iloc[0, :]
-    # one_txt = one.txt
-    # one_ld = one.obj
-    # pred = one_ld.predict_all()
+    # # # 1st one
+    # # one = df.iloc[0, :]
+    # # one_txt = one.txt
+    # # one_ld = one.obj
+    # # pred = one_ld.predict_all()
 
-    _ = [print(i) for i in df.pred_case.values]
+    # _ = [print(i) for i in df.pred_case.values]

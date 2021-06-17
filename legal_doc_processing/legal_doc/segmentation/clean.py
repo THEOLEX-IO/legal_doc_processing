@@ -203,6 +203,31 @@ def _ultimate_clean(txt: str) -> str:
 def _transfert_title_from_head_to_page(header: str, page: str) -> tuple:
     """ """
 
+    last_title = False
+
+    one_of_in = lambda i: any([char in i for char in list("1il.,")])
+    if len(header[-1]) <= 3 and one_of_in(header[-1].lower()):
+        last_title = True
+
+    if "introduc" in header[-1].lower():
+        last_title = True
+
+    if not last_title:
+        return header, page
+
+    # transfert last line to 1st line
+    header, page = header.splitlines(), page.splitlines()
+    title = header[-1]
+    header = header[:-1]
+    page = [
+        title,
+    ] + page
+
+    header = "\n".join(header)
+    page = "\n".join(page)
+
+    return header, page
+
 
 def alex_clean(raw_txt, line_length_txt=50, n_lines=5):
     """ """
@@ -219,6 +244,7 @@ def alex_clean(raw_txt, line_length_txt=50, n_lines=5):
     i = _detect_true_text_id(first_page, line_length_txt=line_length_txt, n_lines=n_lines)
     # cand header and txt
     cand_header, cand_page_1 = _do_split_header_page(first_page, i)
+
     # pages
     pages[0] = cand_page_1
 
@@ -229,6 +255,9 @@ def alex_clean(raw_txt, line_length_txt=50, n_lines=5):
     # ultimate  clean
     cand_header = _ultimate_clean(cand_header)
     pages = [_ultimate_clean(i) for i in pages]
+
+    # transfert last line if needed
+    cand_header, pages[0] = _transfert_title_from_head_to_page(cand_header, pages[0])
 
     # detect section
     pages = [_detect_chapter(i) for i in pages]

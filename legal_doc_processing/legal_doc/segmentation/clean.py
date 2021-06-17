@@ -65,11 +65,7 @@ def _detect_chapter(txt: str, threshold: int = 5, sep="----") -> str:
 
     txt = txt.splitlines()
 
-    cand_chapter = (
-        lambda i: i
-        if ((len(i) >= threshold) or (i == sep))
-        else "\n!!!!\n" + i + "\n!!!!\n"
-    )
+    cand_chapter = lambda i: i if ((len(i) >= threshold) or (i == sep)) else "!!!!\n" + i
     txt = [cand_chapter(i) for i in txt]
 
     return "\n".join(txt)

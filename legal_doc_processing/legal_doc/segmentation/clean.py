@@ -64,6 +64,7 @@ def _detect_chapter(txt: str, threshold: int = 5, sep="----") -> str:
     """ """
 
     txt = txt.splitlines()
+
     cand_chapter = (
         lambda i: i
         if ((len(i) >= threshold) or (i == sep))
@@ -199,6 +200,10 @@ def _ultimate_clean(txt: str) -> str:
     return txt
 
 
+def _transfert_title_from_head_to_page(header: str, page: str) -> tuple:
+    """ """
+
+
 def alex_clean(raw_txt, line_length_txt=50, n_lines=5):
     """ """
 
@@ -208,16 +213,12 @@ def alex_clean(raw_txt, line_length_txt=50, n_lines=5):
     # frist_page
     first_page = pages[0]
 
+    # clean
     first_page = _ultimate_clean(first_page)
-
     # id suposed begining of  true text
-    _id = _detect_true_text_id(
-        first_page, line_length_txt=line_length_txt, n_lines=n_lines
-    )
-
+    i = _detect_true_text_id(first_page, line_length_txt=line_length_txt, n_lines=n_lines)
     # cand header and txt
-    cand_header, cand_page_1 = _do_split_header_page(first_page, _id)
-
+    cand_header, cand_page_1 = _do_split_header_page(first_page, i)
     # pages
     pages[0] = cand_page_1
 
@@ -228,6 +229,9 @@ def alex_clean(raw_txt, line_length_txt=50, n_lines=5):
     # ultimate  clean
     cand_header = _ultimate_clean(cand_header)
     pages = [_ultimate_clean(i) for i in pages]
+
+    # detect section
+    pages = [_detect_chapter(i) for i in pages]
 
     dd = {
         "header": cand_header,

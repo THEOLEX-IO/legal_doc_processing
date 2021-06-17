@@ -90,21 +90,18 @@ if __name__ == "__main__":
 
     # pipe
     nlpipe = get_pipeline()
+    nlspa = get_spacy()
 
-    # struct_doc_list
-    press_txt_list = load_press_release_text_list()
-    struct_doc_list = [structure_press_release(i) for i in press_txt_list]
+    # structured_press_release_r
+    df = press_release_X_y()
+    df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
 
-    # test one
-    struct_doc = struct_doc_list[0]
-
-    all_ans_h1 = _ask_all(struct_doc["h1"], nlpipe)
-    all_ans_h2 = _ask_all(struct_doc["h2"], nlpipe)
-    all_ans_article = _ask_all(struct_doc["article"], nlpipe)
-
-    ans = predict_plaintiff(struct_doc, nlpipe)
-
-    # test others
-    ans_list = [predict_plaintiff(p, nlpipe) for p in struct_doc_list]
-    clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
-    clean_ans_list = [", ".join(ll) for ll in clean_ans_list]
+    # one
+    one = df.iloc[0, :]
+    one_struct = struct_doc = one.structured_txt
+    one_h1 = one_struct["h1"]
+    one_article = one_struct["article"]
+    sub_one_article = "\n".join(one_article.split("\n")[:2])
+    # pred_h1  ⁼ predict_juridiction(one_h1)
+    # pred_sub_article  ⁼ predict_juridiction(one_h1)
+    pred = predict_plaintiff(one_struct, nlpipe=nlpipe, nlspa=nlspa)

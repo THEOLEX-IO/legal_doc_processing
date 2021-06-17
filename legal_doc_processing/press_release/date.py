@@ -38,8 +38,9 @@ if __name__ == "__main__":
         structure_press_release,
     )
 
-    # struct_doc_list and date
-    df = press_release_X_y(features="defendant")
+    # structured_press_release_r
+    df = press_release_X_y(features="cost")
     df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
+
     df["date"] = df["structured_txt"].apply(lambda i: i["date"])
     df["pred_date"] = df["structured_txt"].apply(lambda i: predict_date(i))

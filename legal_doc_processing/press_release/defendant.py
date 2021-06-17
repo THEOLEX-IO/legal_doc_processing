@@ -16,7 +16,7 @@ from legal_doc_processing.utils import (
 from legal_doc_processing.press_release.utils import (
     product_juridic_form,
 )
-from legal_doc_processing.press_release.utils import _get_entities_pers_orgs
+from legal_doc_processing.press_release.utils import get_entities_pers_orgs
 
 
 def _clean_LLC_trailling_dot_comma(txt: str) -> str:
@@ -307,7 +307,7 @@ def predict_defendant(
     # pers_org_entities_list
     # we will use this one later to make a filter at the end
     if not pers_org_entities_list:
-        pers_org_entities_list = _get_entities_pers_orgs(struct_doc)
+        pers_org_entities_list = get_entities_pers_orgs(struct_doc)
     pers_org_entities_list = _sub_you_shall_not_pass(pers_org_entities_list)
 
     # items
@@ -363,29 +363,29 @@ if __name__ == "__main__":
 
     # one
     one = df.iloc[0, :]
-    # one features
-    defendant = one.defendant
+    one_defendant = one.defendant
     one_struct = struct_doc = one.structured_txt
     one_h1 = one_struct["h1"]
     one_article = one_struct["article"]
     sub_one_article = "\n".join(one_article.split("\n")[:2])
+    pred = predict_defendant(one_struct, nlpipe)
+
     # ents
     # org_h1 = get_label_(one_h1)
     # org_article = get_label_(sub_one_article)
     # pers_h1 = get_pers(one_h1)
     # pers_article = get_pers(sub_one_article)
 
-    pred = predict_defendant(one_struct, nlpipe)
     # print(f" {'y'.rjust(80)} -->  {'pred'} \n")
     # print(160 * "-")
     # print(f" {defendant.rjust(80)} -->  {pred[:60]} \n")
 
-    # 1 to len(df)
-    print(f" {'y'.rjust(60)} -->  {'pred'} \n")
-    print(160 * "-")
-    for i in range(0, len(df)):
-        defendant = df.defendant.iloc[i]
-        i_text = df.txt.iloc[i]
-        i_struct = df["structured_txt"].iloc[i]
-        pred = predict_defendant(i_struct, nlpipe)
-        print(f" {defendant.rjust(60)} -->  {pred[:100]} \n")
+    # # 1 to len(df)
+    # print(f" {'y'.rjust(60)} -->  {'pred'} \n")
+    # print(160 * "-")
+    # for i in range(0, len(df)):
+    #     defendant = df.defendant.iloc[i]
+    #     i_text = df.txt.iloc[i]
+    #     i_struct = df["structured_txt"].iloc[i]
+    #     pred = predict_defendant(i_struct, nlpipe)
+    #     print(f" {defendant.rjust(60)} -->  {pred[:100]} \n")

@@ -79,8 +79,6 @@ if __name__ == "__main__":
 
     # one
     one = df.iloc[0, :]
-    # one features
-    # cost = one.cost
     one_struct = struct_doc = one.structured_txt
     one_h1 = one_struct["h1"]
     one_article = one_struct["article"]
@@ -89,12 +87,12 @@ if __name__ == "__main__":
     # pred_sub_article  ⁼ predict_juridiction(one_h1)
     pred = predict_juridiction(one_struct, nlpipe=nlpipe, nlspa=nlspa)
 
-    # 1 to len(df)
-    print(f" {'y'.rjust(30)} -->  {'pred'} \n")
-    print(160 * "-")
-    for i in range(0, len(df)):
-        juridiction = df.juridiction.iloc[i]
-        i_text = df.txt.iloc[i]
-        i_struct = df["structured_txt"].iloc[i]
-        pred_ans = predict_juridiction(i_struct, nlspa=nlspa, nlpipe=nlpipe)
-        print(f" {str(juridiction).rjust(30)} --> pred : {pred_ans}")
+    # # 1 to len(df)
+    # print(f" {'y'.rjust(30)} -->  {'pred'} \n")
+    # print(160 * "-")
+    # for i in range(0, len(df)):
+    #     juridiction = df.juridiction.iloc[i]
+    #     i_text = df.txt.iloc[i]
+    #     i_struct = df["structured_txt"].iloc[i]
+    #     pred_ans = predict_juridiction(i_struct, nlspa=nlspa, nlpipe=nlpipe)
+    #     print(f" {str(juridiction).rjust(30)} --> pred : {pred_ans}")

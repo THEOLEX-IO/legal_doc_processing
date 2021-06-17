@@ -181,11 +181,13 @@ if __name__ == "__main__":
     df = press_release_X_y()
     df["obj"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
 
-    # PREDS AND DF LABELS
+    # preds
     t = time.time()
     # 28 objects --> 181 secondes so --> +/-10 secondes per objects
     df["preds"] = df.obj.apply(lambda i: i.predict_all())
     t = time.time() - t
+
+    # labels
     preds_labels = list(df.preds.iloc[0].keys())
     for k in preds_labels:
         df["pred_" + k] = df.preds.apply(lambda i: i[k])

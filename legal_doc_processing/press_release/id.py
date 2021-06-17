@@ -15,20 +15,19 @@ def predict_id(
 if __name__ == "__main__":
 
     # import
-    from legal_doc_processing.utils import *
-
-    from legal_doc_processing.press_release.loader import load_press_release_text_list
-    from legal_doc_processing.press_release.utils import *
+    from legal_doc_processing.utils import get_pipeline, get_spacy, get_orgs, get_pers
+    from legal_doc_processing.press_release.loader import press_release_X_y
     from legal_doc_processing.press_release.structure import structure_press_release
 
-    # structured_press_release_list
-    press_txt_list = load_press_release_text_list()
-    structured_press_release_list = [structure_press_release(i) for i in press_txt_list]
+    # structured_press_release_r
+    df = press_release_X_y()
+    df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
 
-    # test one
-    structured_press_release = structured_press_release_list[0]
-
-    ans = predict_id(structured_press_release)
-
-    # test others
-    ans_list = [predict_id(p) for p in structured_press_release_list]
+    # one
+    one = df.iloc[0, :]
+    one_defendant = one.defendant
+    one_struct = struct_doc = one.structured_txt
+    one_h1 = one_struct["h1"]
+    one_article = one_struct["article"]
+    sub_one_article = "\n".join(one_article.split("\n")[:2])
+    pred = predict_id(one_struct)

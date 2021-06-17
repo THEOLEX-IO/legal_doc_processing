@@ -13,17 +13,17 @@ from legal_doc_processing.utils import (
 )
 
 
-def _get_entities_money(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None) -> list:
+def _get_entities_money(struct_doc: dict, n_paragraphs: int = 2, nlspa=None) -> list:
     """get entities MONEY from h1 and sub_article """
 
-    nlpspa = _if_not_spacy(nlpspa)
+    nlspa = _if_not_spacy(nlspa)
 
     # sub article
     sub_article = "\n".join(struct_doc["article"].split("\n")[:n_paragraphs])
 
     # all pers all orgs from spacy entities
-    all_money = get_label_(struct_doc["h1"], "MONEY", nlpspa) + get_label_(
-        sub_article, "MONEY", nlpspa
+    all_money = get_label_(struct_doc["h1"], "MONEY", nlspa) + get_label_(
+        sub_article, "MONEY", nlspa
     )
     all_money = list(set(all_money))
 
@@ -33,52 +33,6 @@ def _get_entities_money(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None) ->
     all_init_money = list(set(all_init_money))
 
     return all_init_money
-
-
-# def _ask_all(txt, nlpipe) -> list:
-#     """asl all questions and return a list of dict """
-
-#     # pipe
-#     nlpipe = _if_not_pipe(nlpipe)
-
-#     # ans
-#     ans = []
-
-#     # question, funct
-#     quest_pairs = [
-#         ("How much it will cost", "ask_how_cost"),
-#         ("Who many dollars", "ask_how_dollars"),
-#         ("What is the cost?", "ask_what_cost"),
-#     ]
-
-#     # loop
-#     for quest, label in quest_pairs:
-#         ds = _ask(txt=txt, quest=quest, nlpipe=nlpipe)
-#         _ = [d.update({"question": label}) for d in ds]
-#         ans.extend(ds)
-
-#     # sort
-#     ans = sorted(ans, key=lambda i: i["score"], reverse=True)
-
-#     return ans
-
-
-# def _merge_ans(ans, threshold=0.5):
-#     """ """
-
-#     # build dataframe
-#     df = pd.DataFrame(ans)
-#     df = df.loc[:, ["score", "answer"]]
-
-#     # group by ans and make cumutavie score of accuracy
-#     ll = [
-#         {"answer": k, "cum_score": v.score.sum()}
-#         for k, v in df.groupby("answer")
-#         if v.score.sum() > threshold
-#     ]
-#     ll = sorted(ll, key=lambda i: i["cum_score"], reverse=True)
-
-#     return ll
 
 
 def _cast_as_int(cleaned_ans):
@@ -147,19 +101,19 @@ def _cast_as_int(cleaned_ans):
     return cleaned_ans_multi_2
 
 
-def predict_cost(struct_doc: list, nlpipe=None, nlpspa=None):
+def predict_cost(struct_doc: list, nlpipe=None, nlspa=None):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # pipe, spa
     nlpipe = _if_not_pipe(nlpipe)
-    nlpspa = _if_not_spacy(nlpspa)
+    nlspa = _if_not_spacy(nlspa)
 
     # items
     h1 = struct_doc["h1"]
     sub_article = "\n".join(struct_doc["article"].split("\n")[:2])
 
     # get_label_ h1
-    money_h1 = get_label_(h1, "MONEY", nlpspa)
+    money_h1 = get_label_(h1, "MONEY", nlspa)
     # print(f"money_h1 is {money_h1}")
     money_h1_clean = list(set(_cast_as_int(money_h1)))
     # print(f"money_h1_clean is {money_h1_clean}")
@@ -173,7 +127,7 @@ def predict_cost(struct_doc: list, nlpipe=None, nlpspa=None):
 
     # get_label article
 
-    money_sub_article = get_label_(sub_article, "MONEY", nlpspa)
+    money_sub_article = get_label_(sub_article, "MONEY", nlspa)
     # print(f"money_sub_article is {money_sub_article}")
     money_sub_article_clean = list(set(_cast_as_int(money_sub_article)))
     # print(f"money_sub_article_clean is {money_sub_article_clean}")
@@ -194,14 +148,12 @@ if __name__ == "__main__":
 
     # import
     from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_
-    from legal_doc_processing.press_release.utils import press_release_X_y
-    from legal_doc_processing.press_release.segmentation.structure import (
-        structure_press_release,
-    )
+    from legal_doc_processing.press_release.loader import press_release_X_y
+    from legal_doc_processing.press_release.structure import structure_press_release
 
     # laod
     nlpipe = get_pipeline()
-    nlpspa = get_spacy()
+    nlspa = get_spacy()
 
     # structured_press_release_r
     df = press_release_X_y(features="cost")
@@ -217,8 +169,8 @@ if __name__ == "__main__":
     # sub_one_article = "\n".join(one_article.split("\n")[:2])
 
     # # ents
-    # money_h1 = get_label_(one_h1, "MONEY", nlpspa)
-    # money_article = get_label_(sub_one_article, "MONEY", nlpspa)
+    # money_h1 = get_label_(one_h1, "MONEY", nlspa)
+    # money_article = get_label_(sub_one_article, "MONEY", nlspa)
 
     # 1 to len(df)
     print(f" {'y'.rjust(30)} -->  {'pred'} \n")
@@ -231,5 +183,5 @@ if __name__ == "__main__":
         i_h1 = i_struct["h1"]
         i_article = i_struct["article"]
         sub_i_article = "\n".join(i_article.split("\n")[:2])
-        pred_ans = predict_cost(i_struct, nlpspa=nlpspa, nlpipe=nlpipe)
+        pred_ans = predict_cost(i_struct, nlspa=nlspa, nlpipe=nlpipe)
         print(f" {str(cost).rjust(30)} --> pred : {pred_ans}")

@@ -2,10 +2,7 @@ import os
 
 import pandas as pd
 
-from legal_doc_processing.utils import (
-    _if_not_pipe,
-    _ask,
-)
+from legal_doc_processing.utils import _if_not_pipe, _ask, _if_not_spacy
 
 
 def _ask_all(txt, nlpipe) -> list:
@@ -58,11 +55,16 @@ def _clean_ans(ans, threshold=0.5):
     return ll
 
 
-def predict_plaintiff(structured_press_release: list, nlpipe=None):
+def predict_plaintiff(struct_doc: list, nlpipe=None, nlspa=None):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
-    # # choose the item
-    # h1 = structured_press_release["h1"]
+    # pipe, spa
+    nlpipe = _if_not_pipe(nlpipe)
+    nlspa = _if_not_spacy(nlspa)
+
+    # choose the item
+    h1 = struct_doc["h1"]
+    sub_article = "\n".join(struct_doc["article"].split("\n")[:2])
 
     # # ask all and get all possible response
     # ans = _ask_all(h1, nlpipe)
@@ -83,27 +85,26 @@ if __name__ == "__main__":
     # import
     from legal_doc_processing.utils import *
     from legal_doc_processing.press_release.utils import *
-    from legal_doc_processing.press_release.segmentation.structure import (
-        structure_press_release,
-    )
+    from legal_doc_processing.press_release.loader import load_press_release_text_list
+    from legal_doc_processing.press_release.structure import structure_press_release
 
     # pipe
     nlpipe = get_pipeline()
 
-    # structured_press_release_list
+    # struct_doc_list
     press_txt_list = load_press_release_text_list()
-    structured_press_release_list = [structure_press_release(i) for i in press_txt_list]
+    struct_doc_list = [structure_press_release(i) for i in press_txt_list]
 
     # test one
-    structured_press_release = structured_press_release_list[0]
+    struct_doc = struct_doc_list[0]
 
-    all_ans_h1 = _ask_all(structured_press_release["h1"], nlpipe)
-    all_ans_h2 = _ask_all(structured_press_release["h2"], nlpipe)
-    all_ans_article = _ask_all(structured_press_release["article"], nlpipe)
+    all_ans_h1 = _ask_all(struct_doc["h1"], nlpipe)
+    all_ans_h2 = _ask_all(struct_doc["h2"], nlpipe)
+    all_ans_article = _ask_all(struct_doc["article"], nlpipe)
 
-    ans = predict_plaintiff(structured_press_release, nlpipe)
+    ans = predict_plaintiff(struct_doc, nlpipe)
 
     # test others
-    ans_list = [predict_plaintiff(p, nlpipe) for p in structured_press_release_list]
+    ans_list = [predict_plaintiff(p, nlpipe) for p in struct_doc_list]
     clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
     clean_ans_list = [", ".join(ll) for ll in clean_ans_list]

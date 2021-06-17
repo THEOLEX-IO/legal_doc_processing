@@ -10,24 +10,7 @@ from legal_doc_processing.utils import (
     get_pipeline,
 )
 
-
-def _get_entities_pers_orgs(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None) -> list:
-    """get entities PERSON and ORG from h1 and sub_article """
-
-    nlpspa = _if_not_spacy(nlpspa)
-
-    # sub article
-    sub_article = "\n".join(struct_doc["article"].split("\n")[:n_paragraphs])
-
-    # all pers all orgs from spacy entities
-    all_pers = get_pers(struct_doc["h1"], nlpspa) + get_pers(sub_article, nlpspa)
-    all_orgs = get_orgs(struct_doc["h1"], nlpspa) + get_orgs(sub_article, nlpspa)
-    pers_org_entities_list = all_pers + all_orgs
-
-    # clean
-    # pers_org_entities_list = _sub_you_shall_not_pass(pers_org_entities_list)
-
-    return pers_org_entities_list
+from legal_doc_processing.press_release.utils import get_entities_pers_orgs
 
 
 def _question_helper(txt):
@@ -339,7 +322,8 @@ def predict_violation(
     # pers_org_entities_list
     # we will use this one later to make a filter at the end
     if not pers_org_entities_list:
-        pers_org_entities_list = _get_entities_pers_orgs(struct_doc)
+        pers_org_entities_list = get_entities_pers_orgs(struct_doc)
+    pers_org_entities_list = [_you_shall_not_pass(i) for i in pers_org_entities_list]
 
     # items
     # we will work on h1 and / or article but just 2 or 3 1st paragraphs

@@ -1,21 +1,38 @@
 import os
 
-
-import legal_doc_processing.press_release.information_extraction as ext
-import legal_doc_processing.press_release.segmentation as seg
-from legal_doc_processing.press_release.utils import (
-    load_press_release_files,
-    load_press_release_text_list,
-)
-
 from legal_doc_processing.utils import get_pipeline, get_spacy
-from legal_doc_processing.utils import load_data
+
+# from legal_doc_processing.utils import load_data
+
+from legal_doc_processing.press_release.cost import predict_cost
+from legal_doc_processing.press_release.date import predict_date
+from legal_doc_processing.press_release.defendant import predict_defendant
+from legal_doc_processing.press_release.id import predict_id
+from legal_doc_processing.press_release.juridiction import predict_juridiction
+from legal_doc_processing.press_release.plaintiff import predict_plaintiff
+from legal_doc_processing.press_release.sentence import predict_sentence
+from legal_doc_processing.press_release.structure import structure_press_release
+from legal_doc_processing.press_release.violation import predict_violation
+
+from legal_doc_processing.press_release.utils import get_entities_pers_orgs
+
+# from legal_doc_processing.press_release.loader import (
+#     load_press_release_files,
+#     load_press_release_text_list,
+# )
 
 
 class PressRelease:
     """main press release doc class """
 
-    def __init__(self, text: str, file_path: str = None, nlpipe=None, nlspa=None):
+    def __init__(
+        self,
+        text: str,
+        file_path: str = None,
+        nlpipe=None,
+        nlspa=None,
+        pers_org_entities_list=None,
+    ):
         """init method of the LegalDoc
         pos args :
             text (str) : the complete text to proceed
@@ -36,18 +53,23 @@ class PressRelease:
 
         # text and clean
         self.raw_text = text
-        self.struct_text = seg.structure_press_release(text)
+        self.struct_text = structure_press_release(text)
 
+        # entities
+        if not pers_org_entities_list:
+            self.pers_org_entities_list = get_entities_pers_orgs(self.struct_text)
+
+        # data points
         self.feature_list = [
             "case",
-            "id",
+            "cost",
             "date",
             "defendant",
+            "id",
+            "juridiction",
             "plaintiff",
-            "cost",
             "sentence",
             "violation",
-            "juridiction",
         ]
 
         _ = [setattr(self, k, None) for k in self.feature_list]
@@ -61,52 +83,59 @@ class PressRelease:
         if feature == "case":
             self.case = None
             return None
-
-        elif feature == "id":
-            self.id = ext.predict_id(
-                self.struct_text,
-            )
-            return self.id
-        elif feature == "date":
-            self.date = ext.predict_date(
-                self.struct_text,
-            )
-            return self.date
-        elif feature == "defendant":
-            self.defendant = ext.predict_defendant(
-                self.struct_text, nlpipe=self.nlpipe, nlpspa=self.nlpspa
-            )
-            return self.defendant
-        elif feature == "plaintiff":
-            self.plaintiff = ext.predict_plaintiff(self.struct_text, self.nlpipe)
-            return self.plaintiff
         elif feature == "cost":
-            self.cost = ext.predict_cost(
+            self.cost = predict_cost(
                 self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
             )
             return self.cost
-        elif feature == "sentence":
-            self.sentence = ext.predict_sentence(self.struct_text, self.nlpipe)
-            return self.sentence
+        elif feature == "date":
+            self.date = predict_date(self.struct_text)
+            return self.date
+        elif feature == "defendant":
+            self.defendant = predict_defendant(
+                self.struct_text,
+                nlpipe=self.nlpipe,
+                pers_org_entities_list=self.pers_org_entities_list,
+            )
+            return self.defendant
+        elif feature == "id":
+            self.id = predict_id(self.struct_text)
+            return self.id
         elif feature == "juridiction":
-            self.juridiction = ext.predict_juridiction(
-                self.struct_text, nlpipe=self.nlpipe, nlpspa=self.nlpspa
+            self.juridiction = predict_juridiction(
+                self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
             )
             return self.juridiction
+        elif feature == "plaintiff":
+            self.plaintiff = predict_plaintiff(
+                self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
+            )
+            return self.plaintiff
+        elif feature == "sentence":
+            self.sentence = predict_sentence(
+                self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
+            )
+            return self.sentence
         elif feature == "violation":
-            self.violation = ext.predict_violation(
-                self.struct_text, nlpipe=self.nlpipe, nlpspa=self.nlpspa
+            self.violation = predict_violation(
+                self.struct_text,
+                nlpipe=self.nlpipe,
+                pers_org_entities_list=self.pers_org_entities_list,
             )
             return self.violation
         elif feature == "all":
-            self.id = ext.predict_id(self.struct_text)
-            self.date = ext.predict_date(self.struct_text)
-            self.defendant = ext.predict_defendant(self.struct_text, self.nlpipe)
-            self.plaintiff = ext.predict_plaintiff(self.struct_text, self.nlpipe)
-            self.cost = ext.predict_cost(self.struct_text, self.nlpipe)
-            self.sentence = ext.predict_sentence(self.struct_text, self.nlpipe)
-            self.violation = ext.predict_violation(self.struct_text, self.nlpipe)
-            self.juridiction = ext.predict_juridiction(self.struct_text, self.nlpipe)
+            self.case = None
+            self.cost = predict_cost(self.struct_text, self.nlpipe, nlspa=self.nlspa)
+            self.date = predict_date(self.struct_text)
+            self.defendant = predict_defendant(self.struct_text, self.nlpipe)
+
+            self.id = predict_id(self.struct_text)
+            self.juridiction = predict_juridiction(
+                self.struct_text, self.nlpipe, nlspa=nlspa
+            )
+            self.plaintiff = predict_plaintiff(self.struct_text, self.nlpipe)
+            self.sentence = predict_sentence(self.struct_text, self.nlpipe)
+            self.violation = predict_violation(self.struct_text, self.nlpipe)
             return self.feature_dict
         else:
             raise AttributeError("feature Not Implemented")
@@ -141,10 +170,8 @@ if __name__ == "__main__":
     # import
     import time
     from legal_doc_processing.utils import get_pipeline, get_spacy, get_orgs, get_pers
-    from legal_doc_processing.press_release.utils import press_release_X_y
-    from legal_doc_processing.press_release.segmentation.structure import (
-        structure_press_release,
-    )
+    from legal_doc_processing.press_release.loader import press_release_X_y
+    from legal_doc_processing.press_release.structure import structure_press_release
 
     # LOAD
     nlpipe = get_pipeline()

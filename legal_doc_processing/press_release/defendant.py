@@ -13,9 +13,10 @@ from legal_doc_processing.utils import (
     get_pipeline,
 )
 
-from legal_doc_processing.press_release.information_extraction.utils import (
+from legal_doc_processing.press_release.utils import (
     product_juridic_form,
 )
+from legal_doc_processing.press_release.utils import _get_entities_pers_orgs
 
 
 def _clean_LLC_trailling_dot_comma(txt: str) -> str:
@@ -233,28 +234,6 @@ def _merge_ans(ans, threshold=0.1):
     return ll
 
 
-def _get_entities_pers_orgs(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None) -> list:
-    """get entities PERSON and ORG from h1 and sub_article """
-
-    # TODO
-    # THIS ONE SHOULD BE REFACTORED AND USED IN UTILS
-
-    nlpspa = _if_not_spacy(nlpspa)
-
-    # sub article
-    sub_article = "\n".join(struct_doc["article"].split("\n")[:n_paragraphs])
-
-    # all pers all orgs from spacy entities
-    all_pers = get_pers(struct_doc["h1"], nlpspa) + get_pers(sub_article, nlpspa)
-    all_orgs = get_orgs(struct_doc["h1"], nlpspa) + get_orgs(sub_article, nlpspa)
-    pers_org_entities_list = all_pers + all_orgs
-
-    # clean
-    pers_org_entities_list = _sub_you_shall_not_pass(pers_org_entities_list)
-
-    return pers_org_entities_list
-
-
 def _clean_ans(ans):
     """ans is a list of dict. each dict is  : {answer:"foo", score:0.32}.
     for each dict,  add and _id and a new_ans based on the _you_shall_not_pass method
@@ -316,7 +295,6 @@ def _clean_ans(ans):
 def predict_defendant(
     struct_doc: list,
     nlpipe=None,
-    nlpspa=None,
     pers_org_entities_list=None,
     threshold=0.4,
 ):
@@ -330,6 +308,7 @@ def predict_defendant(
     # we will use this one later to make a filter at the end
     if not pers_org_entities_list:
         pers_org_entities_list = _get_entities_pers_orgs(struct_doc)
+    pers_org_entities_list = _sub_you_shall_not_pass(pers_org_entities_list)
 
     # items
     # we will work on h1 and / or article but just 2 or 3 1st paragraphs
@@ -371,10 +350,8 @@ if __name__ == "__main__":
 
     # import
     from legal_doc_processing.utils import get_pipeline, get_spacy, get_orgs, get_pers
-    from legal_doc_processing.press_release.utils import press_release_X_y
-    from legal_doc_processing.press_release.segmentation.structure import (
-        structure_press_release,
-    )
+    from legal_doc_processing.press_release.loader import press_release_X_y
+    from legal_doc_processing.press_release.structure import structure_press_release
 
     # laod
     nlpipe = get_pipeline()

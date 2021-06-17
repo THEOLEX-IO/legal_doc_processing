@@ -6,12 +6,11 @@ from legal_doc_processing.utils import (
     _if_not_pipe,
     _if_not_spacy,
     get_spacy,
+    get_pipeline,
     _ask,
 )
 
-from legal_doc_processing.press_release.information_extraction.utils import (
-    product_juridiction_pairs,
-)
+from legal_doc_processing.press_release.utils import product_juridiction_pairs
 
 
 def _filter_jur(token, cands: list = None):
@@ -27,19 +26,19 @@ def _filter_jur(token, cands: list = None):
     return ""
 
 
-def predict_juridiction(struct_doc: list, nlpipe=None, nlpspa=None):
+def predict_juridiction(struct_doc: list, nlpipe=None, nlspa=None):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # pipe, spa
     nlpipe = _if_not_pipe(nlpipe)
-    nlpspa = _if_not_spacy(nlpspa)
+    nlspa = _if_not_spacy(nlspa)
 
     # choose the item
     h1 = struct_doc["h1"]
     sub_article = "\n".join(struct_doc["article"].split("\n")[:2])
 
     # token filter h1
-    tok_h1 = [i.text.lower() for i in nlpspa(h1)]
+    tok_h1 = [i.text.lower() for i in nlspa(h1)]
     jur_h1 = [_filter_jur(i) for i in tok_h1]
     jur_h1_clean = list(set([i for i in jur_h1 if i]))
 
@@ -50,7 +49,7 @@ def predict_juridiction(struct_doc: list, nlpipe=None, nlpspa=None):
         return ",".join(jur_h1_clean)
 
     # token filter sub_article
-    tok_sub_article = [i.text.lower() for i in nlpspa(sub_article)]
+    tok_sub_article = [i.text.lower() for i in nlspa(sub_article)]
     jur_sub_article = [_filter_jur(i) for i in tok_sub_article]
     jur_sub_article_clean = list(set([i for i in jur_sub_article if i]))
 
@@ -67,14 +66,12 @@ if __name__ == "__main__":
 
     # import
     from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_
-    from legal_doc_processing.press_release.utils import press_release_X_y
-    from legal_doc_processing.press_release.segmentation.structure import (
-        structure_press_release,
-    )
+    from legal_doc_processing.press_release.loader import press_release_X_y
+    from legal_doc_processing.press_release.structure import structure_press_release
 
     # laod
     nlpipe = get_pipeline()
-    nlpspa = get_spacy()
+    nlspa = get_spacy()
 
     # structured_press_release_r
     df = press_release_X_y(features="juridiction")
@@ -90,7 +87,7 @@ if __name__ == "__main__":
     sub_one_article = "\n".join(one_article.split("\n")[:2])
     # pred_h1  ⁼ predict_juridiction(one_h1)
     # pred_sub_article  ⁼ predict_juridiction(one_h1)
-    pred = predict_juridiction(one_struct, nlpipe=nlpipe, nlpspa=nlpspa)
+    pred = predict_juridiction(one_struct, nlpipe=nlpipe, nlspa=nlspa)
 
     # 1 to len(df)
     print(f" {'y'.rjust(30)} -->  {'pred'} \n")
@@ -99,5 +96,5 @@ if __name__ == "__main__":
         juridiction = df.juridiction.iloc[i]
         i_text = df.txt.iloc[i]
         i_struct = df["structured_txt"].iloc[i]
-        pred_ans = predict_juridiction(i_struct, nlpspa=nlpspa, nlpipe=nlpipe)
+        pred_ans = predict_juridiction(i_struct, nlspa=nlspa, nlpipe=nlpipe)
         print(f" {str(juridiction).rjust(30)} --> pred : {pred_ans}")

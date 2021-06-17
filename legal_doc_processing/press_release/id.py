@@ -16,10 +16,10 @@ if __name__ == "__main__":
 
     # import
     from legal_doc_processing.utils import *
+
+    from legal_doc_processing.press_release.loader import load_press_release_text_list
     from legal_doc_processing.press_release.utils import *
-    from legal_doc_processing.press_release.segmentation.structure import (
-        structure_press_release,
-    )
+    from legal_doc_processing.press_release.structure import structure_press_release
 
     # structured_press_release_list
     press_txt_list = load_press_release_text_list()

@@ -33,8 +33,8 @@ def predict_date(
 if __name__ == "__main__":
 
     # import
-    from legal_doc_processing.press_release.utils import press_release_X_y
-    from legal_doc_processing.press_release.segmentation.structure import (
+    from legal_doc_processing.press_release.loader import press_release_X_y
+    from legal_doc_processing.press_release.structure import (
         structure_press_release,
     )
 

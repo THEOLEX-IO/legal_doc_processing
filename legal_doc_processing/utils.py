@@ -123,17 +123,19 @@ def clean_spec_chars(text: str) -> tuple:
 def _boot_press_release():
     """test init press release """
 
-    from legal_doc_processing.press_release import (
-        PressRelease,
-        read_PressRelease,
-        load_press_release_text_list,
-    )
+    # from legal_doc_processing.press_release import (
+    #     PressRelease,
+    #     read_PressRelease,
+    #     load_press_release_text_list,
+    # )
 
     # num = "7100-15"
     # url = f"https://storage.googleapis.com/theolex_documents_processing/cftc/text/7100-15/order-allied-markets-llc-et-al.txt"
     # nlpipe = get_pipeline()
     # pr = PressRelease("Hello World", nlpipe=nlpipe)
     # # pr.predict("all")
+
+    pass
 
 
 def _boot_legal_doc():

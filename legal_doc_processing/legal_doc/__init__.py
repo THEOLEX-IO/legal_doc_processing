@@ -1,4 +1,5 @@
 import os
+import time
 
 from legal_doc_processing.utils import (
     get_pipeline,
@@ -146,9 +147,7 @@ if __name__ == "__main__":
 
     # import
     from legal_doc_processing.legal_doc.utils import legal_doc_X_y
-    from legal_doc_processing.legal_doc.structure import (
-        structure_legal_doc,
-    )
+    from legal_doc_processing.legal_doc.structure import structure_legal_doc
 
     # laod
     nlpipe = get_pipeline()
@@ -160,16 +159,19 @@ if __name__ == "__main__":
     df["header"] = df.obj.apply(lambda i: i.structured_text["header"])
     df["first_page"] = df.obj.apply(lambda i: i.structured_text["pages"][0])
 
-    # # preds
+    # preds
+    t = time.time()
+    # 28 objects --> 181 secondes so --> +/-10 secondes per objects
     df["preds"] = df.obj.apply(lambda i: i.predict_all())
-    # preds_labels = list(df.preds.iloc[0].keys())
-    # for k in preds_labels:
-    #     df["pred_" + k] = df.preds.apply(lambda i: i[k])
+    t = time.time() - t
 
-    # # # 1st one
-    # # one = df.iloc[0, :]
-    # # one_txt = one.txt
-    # # one_ld = one.obj
-    # # pred = one_ld.predict_all()
+    # labels
+    preds_labels = list(df.preds.iloc[0].keys())
+    for k in preds_labels:
+        df["pred_" + k] = df.preds.apply(lambda i: i[k])
 
-    # _ = [print(i) for i in df.pred_case.values]
+    # 1st one
+    one = df.iloc[0, :]
+    one_txt = one.txt
+    one_ob = one.obj
+    one_pred = one.preds

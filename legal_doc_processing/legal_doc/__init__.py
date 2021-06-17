@@ -55,15 +55,15 @@ class LegalDoc:
 
         # features / data points
         self.feature_list = [
-            "case",
             "id",
+            "case",
+            "cost",
             "date",
             "defendant",
             "plaintiff",
-            "cost",
             "sentence",
-            "violation",
             "juridiction",
+            "violation",
         ]
 
         _ = [setattr(self, k, None) for k in self.feature_list]
@@ -88,7 +88,7 @@ class LegalDoc:
             return self.defendant
         elif feature == "juridiction":
             self.juridiction = predict_juridiction(self.first_page, self.nlpipe)
-            return self.plaintiff
+            return self.juridiction
         elif feature == "plaintiff":
             self.plaintiff = predict_plaintiff(self.first_page, self.nlpipe)
             return self.plaintiff

@@ -154,13 +154,19 @@ class PressRelease:
         return "a LegalDoc Instance"
 
 
-def read_PressRelease(file_path: str, nlpipe=None):
+def from_text(text: str, nlpipe=None, nlspa=None):
+    """ """
+
+    return PressRelease(text, nlpipe=nlpipe, nlspa=nlspa)
+
+
+def from_file(file_path: str, nlpipe=None, nlspa=None):
     """read a file and return a PressRelease object """
 
     with open(file_path, "r") as f:
         text = f.read()
 
-    return PressRelease(text, file_path=file_path, nlpipe=nlpipe)
+    return PressRelease(text, file_path=file_path, nlpipe=nlpipe, nlspa=None)
 
 
 if __name__ == "__main__":

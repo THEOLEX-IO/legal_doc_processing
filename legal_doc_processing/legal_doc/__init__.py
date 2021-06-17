@@ -9,6 +9,7 @@ from legal_doc_processing.utils import (
 
 from legal_doc_processing.legal_doc.case import predict_case
 from legal_doc_processing.legal_doc.cost import predict_cost
+from legal_doc_processing.legal_doc.date import predict_date
 from legal_doc_processing.legal_doc.defendant import predict_defendant
 from legal_doc_processing.legal_doc.juridiction import predict_juridiction
 from legal_doc_processing.legal_doc.plaintiff import predict_plaintiff
@@ -126,13 +127,19 @@ class LegalDoc:
         return "a LegalDoc Instance"
 
 
-def read_LegalDoc(file_path: str, nlpipe=None, nlspa=None):
+def from_text(text: str, nlpipe=None, nlspa=None):
+    """ """
+
+    return LegalDoc(text, nlpipe=nlpipe, nlspa=nlspa)
+
+
+def from_file(file_path: str, nlpipe=None, nlspa=None):
     """read a file and return a LegalDoc object """
 
     with open(file_path, "r") as f:
         text = f.read()
 
-    return LegalDoc(text, file_path=file_path, nlpipe=nlpipe, nlspa=None)
+    return LegalDoc(text, file_path=file_path, nlpipe=nlpipe, nlspa=nlspa)
 
 
 if __name__ == "__main__":

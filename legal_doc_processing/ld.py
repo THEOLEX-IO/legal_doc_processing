@@ -1,7 +1,5 @@
 from legal_doc_processing.legal_doc import LegalDoc
-
-from legal_doc_processing.legal_doc import read_LegalDoc as read
-
+from legal_doc_processing.legal_doc import from_file, from_text
 from legal_doc_processing.legal_doc.utils import (
     load_legal_doc_files as load_file_list,
     load_legal_doc_text_list as load_text_list,

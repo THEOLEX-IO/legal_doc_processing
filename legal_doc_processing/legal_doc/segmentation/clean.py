@@ -56,8 +56,10 @@ def _split_lines_pages(pages: list) -> list:
     return [i.split("\n") for i in pages]
 
 
-def _detect_true_text_id(first_page: list, true_txt=60) -> int:
+def _detect_true_text_id(first_page: str, line_length_txt=60, n_lines=4) -> int:
     """ """
+
+    first_page = first_page.splitlines()
 
     # find a first candidate for a REAL senetence
     # i, len char the line, the line itself
@@ -65,20 +67,19 @@ def _detect_true_text_id(first_page: list, true_txt=60) -> int:
 
     # then we want the len of this line, the len of the n+1 line, idem n+2, n+3
     cands_2nd = [
-        (i, j, cands_1st[i + 1][1], cands_1st[i + 2][1], cands_1st[i + 3][1], k)
-        for i, j, k in cands_1st[:-10]
+        (
+            i,
+            [cands_1st[i + k][1] for k in range(n_lines)],
+            k,
+        )
+        for i, j, k in cands_1st[: -(n_lines + 1)]
     ]
 
     # we want to know if the 3 next lines will be len() > threshold
-    cands_3rd = [
-        (i, j >= true_txt, k >= true_txt, l >= true_txt, m >= true_txt, n)
-        for i, j, k, l, m, n in cands_2nd
-    ]
+    cands_3rd = [(i, sum([kk > line_length_txt for kk in j]), k) for i, j, k in cands_2nd]
 
-    # make the sum of len line line +1, line +2 etc
-    cands_4th = [(i, sum([j, k, l, m]), n) for i, j, k, l, m, n in cands_3rd]
-
-    cands_5th = [(i, j, k) for i, j, k in cands_4th if j >= 4]
+    # if not all then True
+    cands_5th = [(i, j, k) for i, j, k in cands_3rd if j >= n_lines]
 
     if not len(cands_5th):
         return -1
@@ -86,51 +87,62 @@ def _detect_true_text_id(first_page: list, true_txt=60) -> int:
         return cands_5th[0][0]
 
 
+def _do_split_header_page(txt, _id):
+    """ """
+
+    txt = txt.splitlines()
+
+    header = txt[:_id]
+    page = txt[_id:]
+
+    return "\n".join(header), "\n".join(page)
+
+
 def _ultimate_clean(txt: str) -> str:
     """ """
 
     txt = txt.splitlines()
-    txt = [i for i in txt if i and i != " "]
+    txt = [i.strip() for i in txt]
+    txt = [i for i in txt if (i and (i != ")"))]
     txt = "\n".join(txt)
 
     return txt
 
 
-def alex_clean(raw_txt):
+def alex_clean(raw_txt, line_length_txt=50, n_lines=5):
 
     # 1st split by pages
     pages = _split_pages(raw_txt)
 
-    lines_pages = _split_lines_pages(pages)
+    # lines_pages = _split_lines_pages(pages)
 
     # frist_page
-    first_page = lines_pages[0]
+    first_page = pages[0]
+
+    first_page = _ultimate_clean(first_page)
 
     # id suposed begining of  true text
-    _id = _detect_true_text_id(first_page)
+    _id = _detect_true_text_id(
+        first_page, line_length_txt=line_length_txt, n_lines=n_lines
+    )
 
     # cand header and txt
-    cand_header = first_page[:_id]
-    cand_text = first_page[_id:]
+    cand_header, cand_page_1 = _do_split_header_page(first_page, _id)
 
-    # regroup
-    cand_header = "\n".join([i for i in cand_header if i])
-    cand_text = "\n".join([i for i in cand_text if i])
+    # pages
+    pages[0] = cand_page_1
 
     # dump doubles lines
     cand_header = _del_bouble_breaks_and_spaces(cand_header)
-    cand_text = _del_bouble_breaks_and_spaces(cand_text)
+    pages = [_del_bouble_breaks_and_spaces(i) for i in pages]
 
     # ultimate  clean
     cand_header = _ultimate_clean(cand_header)
-    cand_page_1 = _ultimate_clean(cand_text)
-
-    # frist_page
-    other_pages = lines_pages[1:]
+    pages = [_ultimate_clean(i) for i in pages]
 
     dd = {
         "header": cand_header,
-        "pages": cand_page_1,
+        "pages": pages,
     }
 
     return dd
@@ -185,10 +197,12 @@ if __name__ == "__main__":
 
     #  dataframe and structured_legal_doc_
     df = legal_doc_X_y(features="defendant")
-    df["structured_txt"] = [alex_clean(i) for i in df.txt.values]
+    df["structured_txt"] = [
+        alex_clean(i, line_length_txt=50, n_lines=5) for i in df.txt.values
+    ]
 
     df["header"] = df.structured_txt.apply(lambda i: i["header"])
-    df["first_page"] = df.structured_txt.apply(lambda i: i["pages"])
+    df["first_page"] = df.structured_txt.apply(lambda i: i["pages"][0])
 
     keys = ["folder", "header", "first_page"]
     result = df.loc[:, keys]

@@ -55,9 +55,9 @@ def predict_juridiction(struct_doc: list, nlpipe=None, nlspa=None):
 
     # juri sub_article
     if len(jur_sub_article_clean) == 1:
-        return jur_sub_article_clean[0]
+        return [(jur_sub_article_clean[0], 1)]
     if len(jur_sub_article_clean) > 1:
-        return ",".join(jur_sub_article_clean)
+        return [(i, 1) for i in jur_sub_article_clean]
 
     return str(-3)
 

@@ -9,7 +9,7 @@ def predict_id(
     _id = structured_press_release["id"]
 
     _id = _id.split(" ")[-1]
-    return _id
+    return [(_id, 1)]
 
 
 if __name__ == "__main__":

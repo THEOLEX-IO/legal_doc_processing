@@ -360,17 +360,15 @@ def predict_violation(
     consitant_ans = [(i["new_answer"], i["cum_score"]) for i in consitant_ans]
     last_ans = [(i, j) for i, j in consitant_ans if j > threshold]
 
-    return ",".join([i for i, j in last_ans])
+    return last_ans
 
 
 if __name__ == "__main__":
 
     # import
     from legal_doc_processing.utils import get_pipeline, get_spacy, get_orgs, get_pers
-    from legal_doc_processing.press_release.utils import press_release_X_y
-    from legal_doc_processing.press_release.segmentation.structure import (
-        structure_press_release,
-    )
+    from legal_doc_processing.press_release.loader import press_release_X_y
+    from legal_doc_processing.press_release.structure import structure_press_release
 
     # laod
     nlpipe = get_pipeline()

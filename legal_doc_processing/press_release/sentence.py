@@ -80,7 +80,7 @@ def predict_sentence(struct_doc: list, nlpipe=None, nlspa=None):
 
     # return resp
 
-    return "-- None --"
+    return [("-- None --", 1)]
 
 
 if __name__ == "__main__":

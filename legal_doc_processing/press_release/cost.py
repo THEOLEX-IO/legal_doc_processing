@@ -134,9 +134,9 @@ def predict_cost(struct_doc: list, nlpipe=None, nlspa=None):
 
     # cost in article
     if len(money_sub_article_clean) == 1:
-        return str(money_sub_article_clean[0])
+        return [(str(money_sub_article_clean[0]), 1)]
     elif len(money_sub_article_clean) > 1:
-        return str(max(money_sub_article_clean))
+        return [(str(max(money_sub_article_clean),1)]
     else:
         return str(-1)
 
@@ -149,7 +149,6 @@ if __name__ == "__main__":
     # import
     from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_
     from legal_doc_processing.press_release.loader import press_release_X_y
-
     from legal_doc_processing.press_release.structure import structure_press_release
 
     # laod

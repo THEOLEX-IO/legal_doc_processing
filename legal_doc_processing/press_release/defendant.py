@@ -343,7 +343,7 @@ def predict_defendant(
     consitant_ans = [(i["new_answer"], i["cum_score"]) for i in consitant_ans]
     last_ans = [(i, j) for i, j in consitant_ans if j > threshold]
 
-    return ",".join([i for i, j in last_ans])
+    return last_ans
 
 
 if __name__ == "__main__":

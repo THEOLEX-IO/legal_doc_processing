@@ -57,7 +57,7 @@ class PressRelease:
         # entities
         self.pers_org_entities_list = get_entities_pers_orgs(self.struct_text)
 
-        # data points
+        # data points private
         self.feature_list = [
             "case",
             "cost",
@@ -73,8 +73,14 @@ class PressRelease:
         _ = [setattr(self, k, None) for k in self.feature_list]
 
     @property
-    def feature_dict(self):
+    def _feature_dict(self):
         return {k: getattr(self, k) for k in self.feature_list}
+
+    @property
+    def feature_dict(self):
+
+        clean_k = lambda k: ",".join([i for i, j in k])
+        return {k: getattr(self, clean_k(k)) for k in self.feature_list}
 
     def predict(self, feature) -> str:
         """ """

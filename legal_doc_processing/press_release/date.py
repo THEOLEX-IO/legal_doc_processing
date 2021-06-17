@@ -27,7 +27,7 @@ def predict_date(
     date = struct_doc["date"]
 
     date = _you_shall_not_pass(date)
-    return date
+    return [(date, 1)]
 
 
 if __name__ == "__main__":

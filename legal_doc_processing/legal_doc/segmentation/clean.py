@@ -7,6 +7,21 @@ from cleantext import clean as _clean
 # from legal_doc_processing.legal_doc.segmentation.utils import *
 
 
+def _del_dummy_breaklines(txt: str):
+    """ """
+
+    new_txt = (
+        txt.replace("\n.", "$$$$")
+        .replace("\n", " ")
+        .replace("  ", " ")
+        .replace("  ", " ")
+        .replace("  ", " ")
+        .replace("$$$$", "\n")
+    )
+
+    return new_txt
+
+
 def _transform_double_breaks(txt: str, sep="\n----\n") -> str:
     """ """
 
@@ -251,6 +266,7 @@ def alex_clean(raw_txt, line_length_txt=50, n_lines=5):
 
     # ultimate  clean
     cand_header = _ultimate_clean(cand_header)
+    pages = [_del_dummy_breaklines(i) for i in pages]
     pages = [_ultimate_clean(i) for i in pages]
 
     # transfert last line if needed

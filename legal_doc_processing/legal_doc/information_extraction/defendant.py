@@ -44,12 +44,14 @@ def _ask_all(txt, nlpipe) -> list:
 
     # question, funct
     quest_pairs = [
+        ("Who are the defendants?", "who_defendant"),
+        ("Who is the defendant?", "who_defendant"),
         # ("Who is charged?", "ask_who_charged"),
-        ("Who is the against?", "ask_who_against"),
+        # ("Who is the against?", "ask_who_against"),
         # ("Who is the victim?", "ask_who_victim"),
         # ("Who is the defendant?", "ask_who_defendant"),
-        ("Who violated?", "ask_who_violated"),
-        # ("Who has to pay?", "ask_who_pay"),
+        # ("Who violated?", "ask_who_violated"),
+        # # ("Who has to pay?", "ask_who_pay"),
         # ("Who is accused?", "ask_who_accused"),
     ]
 
@@ -98,14 +100,15 @@ def predict_defendant(
     nlspa = _if_not_spacy(nlspa)
     nlspa.add_pipe("sentencizer")
 
-    # first clean
-    # we need to clean by delete lines under N chars
-    # and keeping only M lines
-
+    # doc / sents / ans
     doc = nlspa(first_page)
-
     sents = [i for i in doc.sents]
-    print(sents[:10])
+    ans = []
+
+    # defendant
+    def_sents = [i for i in sents if "defendant" in i.text.lower()]
+    for sen in def_sents:
+        ans.extend(_ask_all(sen.text, nlpipe=nlpipe))
 
     # pers_org_entities_list
     # we will use this one later to make a filter at the end
@@ -131,12 +134,7 @@ if __name__ == "__main__":
     # import
     from legal_doc_processing.utils import get_pipeline, get_spacy, get_orgs, get_pers
     from legal_doc_processing.legal_doc.utils import legal_doc_X_y
-
-    # from legal_doc_processing.press_release.segmentation.structure import (
-    #     structure_press_release,
-    # )**
-
-    from legal_doc_processing.legal_doc.segmentation.clean import clean_doc
+    from legal_doc_processing.legal_doc.segmentation.clean import clean_doc, alex_clean
     from legal_doc_processing.legal_doc.segmentation.structure import (
         structure_legal_doc,
     )
@@ -144,40 +142,39 @@ if __name__ == "__main__":
     # laod
     nlpipe = get_pipeline()
     nlpspa = get_spacy()
+    nlpspa.add_pipe("sentencizer")
 
     # structured_press_release_r
     df = legal_doc_X_y(features="defendant")
-    df["first_page"] = [clean_doc(i)[0] for i in df.txt.values]
+    df["struct_doc"] = df.txt.apply(lambda i: alex_clean(i))
+    df["header"] = df.struct_doc.apply(lambda i: i["header"])
+    df["first_page"] = df.struct_doc.apply(lambda i: i["pages"][0])
 
-    # pipe
-    nlpipe = get_pipeline()
-    nlspa = get_spacy()
+    # test one
+    one = df.iloc[0, :]
+    one_struct = one.struct_doc
+    first_page = one_first_page = one.first_page
+    one_doc = nlpspa(one_first_page)
 
-    # # clean_legal_doc_list
-    # legal_doc_txt_list = load_legal_doc_text_list()
-    # clean_legal_doc_list = [clean_doc(i) for i in legal_doc_txt_list]
+    sents = [i for i in one_doc.sents]
+    sents = [i.text for i in sents]
+    sents = [
+        (
+            i.replace("\n.", "$$$$")
+            .replace("\n", " ")
+            .replace("  ", " ")
+            .replace("  ", " ")
+            .replace("$$$$", "\n")
+        )
+        for i in sents
+    ]
 
-    # # test one
-    # cleaned_legal_doc = clean_legal_doc_list[0]
-    # # p0_p1 = []
-    # # _ = [p0_p1.append(i) for i in cleaned_legal_doc[0]]
-    # # _ = [p0_p1.append(i) for i in cleaned_legal_doc[1]]
-    # # p0_p1
+    sents = " ".join(sents)
 
-    # # fp_legal_doc = p0_p1
-    # fp = cleaned_legal_doc[0]
-    # fp_55_legal_doc = [i for i in fp if len(i) > 55]
-    # txt = " ".join(fp_55_legal_doc)
+    one_doc = nlpspa(sents)
+    sents = [i for i in one_doc.sents]
 
-    # # all_ans_dot = _ask_all(".".join(cleaned_legal_doc[0]), nlpipe)
-    # all_ans_space = _ask_all(txt, nlpipe)
+    def_sents = [i for i in sents if "defendant" in i.text.lower()]
 
-    # # all_ans_h2 = _ask_all(cleaned_legal_doc["h2"], nlpipe)
-    # # all_ans_article = _ask_all(cleaned_legal_doc["article"], nlpipe)
-
-    # ans = predict_defendant(fp, nlpipe)
-
-    # # # test others
-    # # ans_list = [predict_plaintiff(p, nlpipe) for p in clean_legal_doc_list]
-    # # clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
-    # # clean_ans_list = [", ".join(ll) for ll in clean_ans_list]
+    ans_0 = _ask_all(def_sents[0].text, nlpipe=nlpipe)
+    ans_1 = _ask_all(def_sents[1].text, nlpipe=nlpipe)

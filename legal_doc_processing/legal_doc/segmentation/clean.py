@@ -130,55 +130,52 @@ def alex_clean(raw_txt):
 
     dd = {
         "header": cand_header,
-        "pages": [
-            cand_page_1,
-        ],
+        "pages": cand_page_1,
     }
 
     return dd
 
 
-# def clean_doc(file_text):
-#     pages = []
+def clean_doc(file_text):
+    pages = []
+
+    for page in file_text.split("\x0c"):
+        # clen text
+        page_meta = [{"text": clean(para)} for para in page.split("\n")]
+        clean_page = []
+        previous_line = {}
+        text = ""
+        # add meta data
+        for line in page_meta:
+            line["is_section_num"] = is_section_num(str(line["text"]))
+            line["is_title"] = is_title(str(line["text"]))
+            line["ends_with_ponc"] = ends_with_ponc(str(line["text"]))
+            line["is_alpha"] = sum(c.isalpha() for c in str(line["text"]))
+            line["start_with_upper"] = starts_with_upper(str(line["text"]))
+
+            # not relevant line
+            if not line["is_alpha"]:
+                continue
+
+            if not same_sentence(previous_line, line):
+                if text:
+                    clean_page.append(text)
+                    text = ""
+
+            previous_line = line
+            text = " ".join([text, str(line["text"])])
+        if len(clean_page):
+            pages.append(clean_page)
+    return pages
 
 
-#     for page in file_text.split("\x0c"):
-#         # clen text
-#         page_meta = [{"text": clean(para)} for para in page.split("\n")]
-#         clean_page = []
-#         previous_line = {}
-#         text = ""
-#         # add meta data
-#         for line in page_meta:
-#             line["is_section_num"] = is_section_num(str(line["text"]))
-#             line["is_title"] = is_title(str(line["text"]))
-#             line["ends_with_ponc"] = ends_with_ponc(str(line["text"]))
-#             line["is_alpha"] = sum(c.isalpha() for c in str(line["text"]))
-#             line["start_with_upper"] = starts_with_upper(str(line["text"]))
+def clean(file):
+    article_text = re.sub(r"\[[0-9]*\]", " ", file)
+    article_text = re.sub(r"\s+", " ", article_text)
 
-#             # not relevant line
-#             if not line["is_alpha"]:
-#                 continue
-
-#             if not same_sentence(previous_line, line):
-#                 if text:
-#                     clean_page.append(text)
-#                     text = ""
-
-#             previous_line = line
-#             text = " ".join([text, str(line["text"])])
-#         if len(clean_page):
-#             pages.append(clean_page)
-#     return pages
-
-
-# def clean(file):
-#     article_text = re.sub(r"\[[0-9]*\]", " ", file)
-#     article_text = re.sub(r"\s+", " ", article_text)
-
-#     formatted_article_text = re.sub("[^a-zA-Z]", " ", article_text)
-#     formatted_article_text = re.sub(r"\s+", " ", formatted_article_text)
-#     return article_text, formatted_article_text
+    formatted_article_text = re.sub("[^a-zA-Z]", " ", article_text)
+    formatted_article_text = re.sub(r"\s+", " ", formatted_article_text)
+    return article_text, formatted_article_text
 
 
 if __name__ == "__main__":
@@ -191,7 +188,7 @@ if __name__ == "__main__":
     df["structured_txt"] = [alex_clean(i) for i in df.txt.values]
 
     df["header"] = df.structured_txt.apply(lambda i: i["header"])
-    df["first_page"] = df.structured_txt.apply(lambda i: i["text"])
+    df["first_page"] = df.structured_txt.apply(lambda i: i["pages"])
 
     keys = ["folder", "header", "first_page"]
     result = df.loc[:, keys]

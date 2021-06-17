@@ -7,6 +7,73 @@ from cleantext import clean
 # from legal_doc_processing.legal_doc.segmentation.utils import *
 
 
+def _transform_double_breaks(txt: str, sep="\n----\n") -> str:
+    """ """
+
+    new_txt = (
+        txt.replace("\n\n", sep)
+        .replace("\n\n", sep)
+        .replace("\n\n", sep)
+        .replace("\n\n", sep)
+        .replace("\n\n", sep)
+    )
+
+    return new_txt
+
+
+def _del_double_spaces(txt: str) -> str:
+    """ """
+
+    new_txt = (
+        txt.replace("  ", " ")
+        .replace("  ", " ")
+        .replace("  ", " ")
+        .replace("  ", " ")
+        .replace("  ", " ")
+        .replace("  ", " ")
+        .replace("  ", " ")
+        .replace("  ", " ")
+    )
+
+    return new_txt
+
+
+def _del_bouble_breaks(txt: str) -> str:
+    """ """
+
+    new_txt = (
+        txt.replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+        .replace("\n\n", "\n")
+    )
+
+    return new_txt
+
+
+def _detect_chapter(txt: str, threshold: int = 5, sep="----") -> str:
+    """ """
+
+    txt = txt.splitlines()
+    cand_chapter = (
+        lambda i: i
+        if ((len(i) >= threshold) or (i == sep))
+        else "\n!!!!\n" + i + "\n!!!!\n"
+    )
+    txt = [cand_chapter(i) for i in txt]
+
+    return "\n".join(txt)
+
+
 def _del_double_section(txt, sep="\n----\n"):
     """ """
 
@@ -133,11 +200,10 @@ def _ultimate_clean(txt: str) -> str:
 
 
 def alex_clean(raw_txt, line_length_txt=50, n_lines=5):
+    """ """
 
     # 1st split by pages
     pages = _split_pages(raw_txt)
-
-    # lines_pages = _split_lines_pages(pages)
 
     # frist_page
     first_page = pages[0]

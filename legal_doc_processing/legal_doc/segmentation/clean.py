@@ -236,6 +236,7 @@ def alex_clean(raw_txt, line_length_txt=50, n_lines=5):
 
     # clean
     first_page = _ultimate_clean(first_page)
+
     # id suposed begining of  true text
     i = _detect_true_text_id(first_page, line_length_txt=line_length_txt, n_lines=n_lines)
     # cand header and txt

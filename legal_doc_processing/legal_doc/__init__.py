@@ -1,21 +1,33 @@
 import os
 
-from legal_doc_processing.utils import get_pipeline
-
-import legal_doc_processing.legal_doc.information_extraction as ext
-import legal_doc_processing.legal_doc.segmentation.clean as clean
-import legal_doc_processing.legal_doc.segmentation.structure as struct
-from legal_doc_processing.legal_doc.utils import (
-    load_legal_doc_files,
-    load_legal_doc_text_list,
+from legal_doc_processing.utils import (
+    get_pipeline,
+    get_spacy,
+    _if_not_pipe,
+    _if_not_spacy,
 )
-from legal_doc_processing.utils import load_data
+
+from legal_doc_processing.legal_doc.case import predict_case
+from legal_doc_processing.legal_doc.cost import predict_cost
+from legal_doc_processing.legal_doc.defendant import predict_defendant
+from legal_doc_processing.legal_doc.juridiction import predict_juridiction
+from legal_doc_processing.legal_doc.plaintiff import predict_plaintiff
+from legal_doc_processing.legal_doc.sentence import predict_sentence
+from legal_doc_processing.legal_doc.violation import predict_violation
+
+from legal_doc_processing.legal_doc.segmentation.structure import structure_legal_doc
 
 
 class LegalDoc:
     """main legal doc class """
 
-    def __init__(self, text: str, file_path: str = None, nlpipe=None):
+    def __init__(
+        self,
+        text: str,
+        file_path: str = None,
+        nlpipe=None,
+        nlspa=None,
+    ):
         """init method of the LegalDoc
         pos args :
             text (str) : the complete text to proceed
@@ -31,14 +43,15 @@ class LegalDoc:
         self.file_path = os.path.dirname(file_path) if file_path else None
         self.file_name = os.path.basename(file_path) if file_path else None
         self.nlpipe = nlpipe if nlpipe else get_pipeline()
+        self.nlspa = nlspa if nlspa else get_spacy()
 
         # text and cleanstructure
         self.raw_text = text
         # self.clean_pages = clean.clean_doc(text)
         # self.structured_text = struct.structure_legal_doc(text)
-        self.structured_text = clean.alex_clean(text)
+        self.structured_text = structure_legal_doc(text)
 
-        # features
+        # features / data points
         self.feature_list = [
             "case",
             "id",
@@ -60,44 +73,44 @@ class LegalDoc:
     def predict(self, feature) -> str:
         """ """
         if feature == "case":
-            self.case = ext.predict_case(
+            self.case = predict_case(
                 self.structured_text,
             )
             return self.case
         elif feature == "date":
-            self.date = ext.predict_date(
+            self.date = predict_date(
                 self.structured_text["pages"][0],
             )
             return self.date
         elif feature == "defendant":
-            self.defendant = ext.predict_defendant(
+            self.defendant = predict_defendant(
                 self.structured_text["pages"][0], self.nlpipe
             )
             return self.defendant
         elif feature == "plaintiff":
-            self.plaintiff = ext.predict_plaintiff(
+            self.plaintiff = predict_plaintiff(
                 self.structured_text["pages"][0], self.nlpipe
             )
             return self.plaintiff
         elif feature == "cost":
-            self.cost = ext.predict_cost(self.structured_text["pages"][0], self.nlpipe)
+            self.cost = predict_cost(self.structured_text["pages"][0], self.nlpipe)
             return self.cost
         elif feature == "sentence":
-            self.sentence = ext.predict_sentence(
+            self.sentence = predict_sentence(
                 self.structured_text["pages"][0], self.nlpipe
             )
             return self.sentence
         elif feature == "all":
-            self.case = ext.predict_case(self.structured_text)
-            self.date = ext.predict_date(self.structured_text["pages"][0])
-            self.defendant = ext.predict_defendant(
+            self.case = predict_case(self.structured_text)
+            self.date = predict_date(self.structured_text["pages"][0])
+            self.defendant = predict_defendant(
                 self.structured_text["pages"][0], self.nlpipe
             )
-            self.plaintiff = ext.predict_plaintiff(
+            self.plaintiff = predict_plaintiff(
                 self.structured_text["pages"][0], self.nlpipe
             )
-            self.cost = ext.predict_cost(self.structured_text["pages"][0], self.nlpipe)
-            self.sentence = ext.predict_sentence(
+            self.cost = predict_cost(self.structured_text["pages"][0], self.nlpipe)
+            self.sentence = predict_sentence(
                 self.structured_text["pages"][0], self.nlpipe
             )
             return self.feature_dict

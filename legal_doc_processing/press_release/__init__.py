@@ -31,7 +31,6 @@ class PressRelease:
         file_path: str = None,
         nlpipe=None,
         nlspa=None,
-        pers_org_entities_list=None,
     ):
         """init method of the LegalDoc
         pos args :
@@ -56,8 +55,7 @@ class PressRelease:
         self.struct_text = structure_press_release(text)
 
         # entities
-        if not pers_org_entities_list:
-            self.pers_org_entities_list = get_entities_pers_orgs(self.struct_text)
+        self.pers_org_entities_list = get_entities_pers_orgs(self.struct_text)
 
         # data points
         self.feature_list = [

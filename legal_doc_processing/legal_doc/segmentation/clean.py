@@ -7,6 +7,29 @@ from cleantext import clean
 # from legal_doc_processing.legal_doc.segmentation.utils import *
 
 
+def _del_double_section(txt, sep="\n----\n"):
+    """ """
+
+    new_txt = (
+        txt.replace(sep + sep, sep)
+        .replace(sep + sep, sep)
+        .replace(sep + sep, sep)
+        .replace(sep + sep, sep)
+        .replace(sep + sep, sep)
+    )
+
+    return new_txt
+
+
+def _strip(txt: str) -> str:
+    """ """
+
+    txt = txt.splitlines()
+    txt = [i.strip() for i in txt]
+
+    return "\n".join(txt)
+
+
 def _del_bouble_breaks_and_spaces(txt: str) -> str:
     """ """
 

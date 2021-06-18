@@ -31,7 +31,7 @@ def _question_helper(txt) -> list:
     res = list()
 
     # violated
-    if "violated" in _txt.lower():
+    if "violat" in _txt.lower():
         res.append("violated")
 
     return res
@@ -43,7 +43,7 @@ def _question_selector(key: str):
     res = list()
 
     # violated
-    if "violated" in key:
+    if "violat" in key:
         qs = [
             #
             ("what is the violation?", "what_violation"),
@@ -146,7 +146,7 @@ if __name__ == "__main__":
     # laod
     nlpipe = get_pipeline()
     nlspa = get_spacy()
-    nlspa.add_pipe("sentencizer")
+    # nlspa.add_pipe("sentencizer")
     pers_org_entities_list = None
     threshold = 0.4
 

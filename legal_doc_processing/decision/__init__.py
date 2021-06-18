@@ -131,37 +131,52 @@ class Decision:
         _ = [setattr(self, k, v) for k, v in merged_preds.items()]
 
 
+def from_text(
+    text_ld: str,
+    text_pr: str,
+    nlpipe=None,
+    nlspa=None,
+):
+
+    return Decision(text_ld=text_ld, text_pr=text_pr, nlpipe=nlpipe, nlspa=nlspa)
+
+
+def from_file(
+    file_path_ld: str,
+    file_path_pr: str,
+    nlpipe=None,
+    nlspa=None,
+):
+    """ """
+
+    with open(file_path_ld, "r") as f:
+        text_ld = f.read()
+    with open(file_path_pr, "r") as f:
+        text_pr = f.read()
+
+    return Decision(
+        text_ld=text_ld,
+        text_pr=text_pr,
+        file_path_ld=file_path_ld,
+        file_path_pr=file_path_pr,
+        nlpipe=nlpipe,
+        nlspa=nlspa,
+    )
+
+
 if __name__ == "__main__":
 
     # import
     import time
     from legal_doc_processing.utils import get_pipeline, get_spacy, get_orgs, get_pers
-    from legal_doc_processing.press_release.loader import press_release_X_y
-    from legal_doc_processing.press_release import PressRelease
-    from legal_doc_processing.legal_doc.loader import legal_doc_X_y
-    from legal_doc_processing.legal_doc import LegalDoc
+    from legal_doc_processing.decision.loader import decision_X_y
 
     # LOAD
     nlpipe = get_pipeline()
     nlspa = get_spacy()
 
-    # Press df
-    press_df = press_release_X_y()
-    press_df = press_df.iloc[:4, :]
-    new_cols = [i.replace("txt", "press_txt") for i in press_df.columns]
-    press_df.columns = new_cols
-
-    # Legal df
-    legal_df = legal_doc_X_y()
-    legal_df = legal_df.iloc[:4, :]
-    new_cols = [i.replace("txt", "legal_txt") for i in legal_df.columns]
-    legal_df.columns = new_cols
-    drop_cols = [i for i in legal_df.columns if (i != "folder") and (i != "legal_txt")]
-    droped_legal_df = legal_df.drop(drop_cols, axis=1, inplace=False)
-
-    # merged df
-    assert ("folder" in droped_legal_df.columns) and ("folder" in press_df.columns)
-    merged_df = press_df.merge(droped_legal_df, on="folder")
+    # df
+    merged_df = decision_X_y()
 
     # objs
     text_pairs = zip(merged_df.press_txt.values, merged_df.legal_txt.values)

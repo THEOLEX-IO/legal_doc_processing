@@ -199,7 +199,7 @@ def from_file(file_path: str, nlpipe=None, nlspa=None):
 if __name__ == "__main__":
 
     # import
-    from legal_doc_processing.legal_doc.utils import legal_doc_X_y
+    from legal_doc_processing.legal_doc.loader import legal_doc_X_y
     from legal_doc_processing.legal_doc.structure import structure_legal_doc
 
     # laod

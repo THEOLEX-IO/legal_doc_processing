@@ -4,5 +4,5 @@ from legal_doc_processing.utils import (
 )
 
 
-def predict_cost(feature, nlpipe=None):
+def predict_monetary_sanction(feature, nlpipe=None):
     return [("--None--", -1)]

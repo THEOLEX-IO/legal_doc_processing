@@ -4,15 +4,19 @@ from legal_doc_processing.utils import get_pipeline, get_spacy
 
 # from legal_doc_processing.utils import load_data
 
-from legal_doc_processing.press_release.cost import predict_cost
-from legal_doc_processing.press_release.date import predict_date
+from legal_doc_processing.press_release.monetary_sanction import predict_monetary_sanction
+from legal_doc_processing.press_release.decision_date import predict_decision_date
 from legal_doc_processing.press_release.defendant import predict_defendant
 from legal_doc_processing.press_release.id import predict_id
-from legal_doc_processing.press_release.juridiction import predict_juridiction
+from legal_doc_processing.press_release.extracted_authorities import (
+    predict_extracted_authorities,
+)
 from legal_doc_processing.press_release.plaintiff import predict_plaintiff
 from legal_doc_processing.press_release.sentence import predict_sentence
 from legal_doc_processing.press_release.structure import structure_press_release
-from legal_doc_processing.press_release.violation import predict_violation
+from legal_doc_processing.press_release.nature_of_violations import (
+    predict_nature_of_violations,
+)
 
 from legal_doc_processing.press_release.utils import get_entities_pers_orgs
 
@@ -59,15 +63,15 @@ class PressRelease:
 
         # data points private
         self._feature_list = [
-            "_case",
-            "_cost",
-            "_date",
+            "_reference",
+            "_monetary_sanction",
+            "_decision_date",
             "_defendant",
             "_id",
-            "_juridiction",
+            "_extracted_authorities",
             "_plaintiff",
             "_sentence",
-            "_violation",
+            "_nature_of_violations",
         ]
 
         self.feature_list = [i[1:] for i in self._feature_list]
@@ -82,15 +86,15 @@ class PressRelease:
 
     @property
     def case(self):
-        return self.strize(self._case)
+        return self.strize(self._reference)
 
     @property
-    def cost(self):
-        return self.strize(self._cost)
+    def monetary_sanction(self):
+        return self.strize(self._monetary_sanction)
 
     @property
-    def date(self):
-        return self.strize(self._date)
+    def decision_date(self):
+        return self.strize(self._decision_date)
 
     @property
     def defendant(self):
@@ -102,7 +106,7 @@ class PressRelease:
 
     @property
     def juridiction(self):
-        return self.strize(self._juridiction)
+        return self.strize(self._extracted_authorities)
 
     @property
     def plaintiff(self):
@@ -128,16 +132,16 @@ class PressRelease:
         """ """
 
         if feature == "case":
-            self._case = [(-1, -1)]
-            return self._case
-        elif feature == "cost":
-            self._cost = predict_cost(
+            self._reference = [(-1, -1)]
+            return self._reference
+        elif feature == "monetary_sanction":
+            self._monetary_sanction = predict_monetary_sanction(
                 self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
             )
-            return self._cost
-        elif feature == "date":
-            self._date = predict_date(self.struct_text)
-            return self._date
+            return self._monetary_sanction
+        elif feature == "decision_date":
+            self._decision_date = predict_decision_date(self.struct_text)
+            return self._decision_date
         elif feature == "defendant":
             self._defendant = predict_defendant(
                 self.struct_text,
@@ -149,10 +153,10 @@ class PressRelease:
             self._id = predict_id(self.struct_text)
             return self._id
         elif feature == "juridiction":
-            self._juridiction = predict_juridiction(
+            self._extracted_authorities = predict_extracted_authorities(
                 self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
             )
-            return self._juridiction
+            return self._extracted_authorities
         elif feature == "plaintiff":
             self._plaintiff = predict_plaintiff(
                 self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
@@ -164,24 +168,28 @@ class PressRelease:
             )
             return self._sentence
         elif feature == "violation":
-            self._violation = predict_violation(
+            self._nature_of_violations = predict_nature_of_violations(
                 self.struct_text,
                 nlpipe=self.nlpipe,
                 pers_org_entities_list=self.pers_org_entities_list,
             )
-            return self._violation
+            return self._nature_of_violations
         elif feature == "all":
-            self._case = [(-1, -1)]
-            self._cost = predict_cost(self.struct_text, self.nlpipe, nlspa=self.nlspa)
-            self._date = predict_date(self.struct_text)
+            self._reference = [(-1, -1)]
+            self._monetary_sanction = predict_monetary_sanction(
+                self.struct_text, self.nlpipe, nlspa=self.nlspa
+            )
+            self._decision_date = predict_decision_date(self.struct_text)
             self._defendant = predict_defendant(self.struct_text, self.nlpipe)
             self._id = predict_id(self.struct_text)
-            self._juridiction = predict_juridiction(
+            self._extracted_authorities = predict_extracted_authorities(
                 self.struct_text, self.nlpipe, nlspa=self.nlspa
             )
             self._plaintiff = predict_plaintiff(self.struct_text, self.nlpipe)
             self._sentence = predict_sentence(self.struct_text, self.nlpipe)
-            self._violation = predict_violation(self.struct_text, self.nlpipe)
+            self._nature_of_violations = predict_nature_of_violations(
+                self.struct_text, self.nlpipe
+            )
             return self._feature_dict
         else:
             raise AttributeError("feature Not Implemented")

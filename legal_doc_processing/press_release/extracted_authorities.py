@@ -26,7 +26,7 @@ def _filter_jur(token, cands: list = None):
     return ""
 
 
-def predict_juridiction(struct_doc: list, nlpipe=None, nlspa=None):
+def predict_extracted_authorities(struct_doc: list, nlpipe=None, nlspa=None):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # pipe, spa
@@ -85,7 +85,7 @@ if __name__ == "__main__":
     sub_one_article = "\n".join(one_article.split("\n")[:2])
     # pred_h1  ⁼ predict_juridiction(one_h1)
     # pred_sub_article  ⁼ predict_juridiction(one_h1)
-    pred = predict_juridiction(one_struct, nlpipe=nlpipe, nlspa=nlspa)
+    pred = predict_extracted_authorities(one_struct, nlpipe=nlpipe, nlspa=nlspa)
 
     # # 1 to len(df)
     # print(f" {'y'.rjust(30)} -->  {'pred'} \n")

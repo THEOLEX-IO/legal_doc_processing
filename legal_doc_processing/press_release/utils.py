@@ -1,11 +1,14 @@
 from itertools import product
 
+import pandas as pd
+
 from legal_doc_processing.utils import (
     _if_not_spacy,
     _if_not_pipe,
     get_pers,
     get_orgs,
     get_label_,
+    _ask,
 )
 
 
@@ -52,9 +55,6 @@ def product_juridic_form():
 
 def get_entities_pers_orgs(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None) -> list:
     """get entities PERSON and ORG from h1 and sub_article """
-
-    # TODO
-    # THIS ONE SHOULD BE REFACTORED AND USED IN UTILS
 
     nlpspa = _if_not_spacy(nlpspa)
 

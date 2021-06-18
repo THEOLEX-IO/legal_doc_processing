@@ -12,85 +12,83 @@ from legal_doc_processing.utils import (
     get_pipeline,
 )
 
+from legal_doc_processing.legal_doc.utils import (
+    get_entities_pers_orgs,
+)
 
-def _get_entities_pers_orgs(txt: dict, n_paragraphs: int = 2, nlpspa=None) -> list:
-    """get entities PERSON and ORG from h1 and sub_article """
+from legal_doc_processing.information_extraction.defendant import (
+    _sub_you_shall_not_pass,
+    _clean_ans,
+)
 
-    # TODO
-    # THIS ONE SHOULD BE REFACTORED AND USED IN UTILS
-
-    nlpspa = _if_not_spacy(nlpspa)
-
-    # all pers all orgs from spacy entities
-    all_pers = get_pers(txt, nlpspa)
-    all_orgs = get_orgs(txt, nlpspa)
-    pers_org_entities_list = all_pers + all_orgs
-
-    return pers_org_entities_list
+from legal_doc_processing.information_extraction.utils import ask_all, merge_ans
 
 
-def _ask_all(txt, nlpipe) -> list:
-    """asl all questions and return a list of dict """
+def _question_helper(txt) -> list:
+    """txt"""
 
-    # txt
-    if not txt:
-        raise AttributeError(f"Attribute error txt ; txt is {txt}, format {type(txt)}")
+    _txt = txt.lower()
+    res = list()
 
-    # pipe
-    nlpipe = _if_not_pipe(nlpipe)
+    # defendant
+    if "defendant" in _txt:
+        res.append("defendant")
+    # violated
+    if "violate" in _txt:
+        res.append("violate")
 
-    # ans
-    ans = []
-
-    # question, funct
-    quest_pairs = [
-        ("Who are the defendants?", "who_defendant"),
-        ("Who is the defendant?", "who_defendant"),
-        # ("Who is charged?", "ask_who_charged"),
-        # ("Who is the against?", "ask_who_against"),
-        # ("Who is the victim?", "ask_who_victim"),
-        # ("Who is the defendant?", "ask_who_defendant"),
-        # ("Who violated?", "ask_who_violated"),
-        # # ("Who has to pay?", "ask_who_pay"),
-        # ("Who is accused?", "ask_who_accused"),
-    ]
-
-    # loop
-    for quest, label in quest_pairs:
-        ds = _ask(txt=txt, quest=quest, nlpipe=nlpipe)
-        _ = [d.update({"question": label}) for d in ds]
-        ans.extend(ds)
-
-    # sort
-    ans = sorted(ans, key=lambda i: i["score"], reverse=True)
-
-    # clean manuals
-    ans = [i for i in ans if (i["answer"].lower() != "defendants")]
-    ans = [i for i in ans if (i["answer"].lower() != "cftc")]
-
-    return ans
+    return res
 
 
-def _clean_ans(ans, threshold=0.00):
-    """ """
+def _question_selector(key: str):
+    """based on a key from _question helper find the list of good question to ask """
 
-    # build dataframe
-    df = pd.DataFrame(ans)
-    df = df.loc[:, ["score", "answer"]]
+    res = list()
 
-    # group by ans and make cumutavie score of accuracy
-    ll = [
-        {"answer": k, "cum_score": v.score.sum()}
-        for k, v in df.groupby("answer")
-        if v.score.sum() > threshold
-    ]
-    ll = sorted(ll, key=lambda i: i["cum_score"], reverse=True)
+    # defendant
+    if "defendant" in key:
+        qs = [
+            #
+            ("Who is the defendant?", "who_defendant"),
+            ("Who are the defendants?", "who_defendants"),
+            ("what are the defendants?", "what_defendant"),
+            ("what is the defendant?", "what_defendant"),
+        ]
+        res.extend(qs)
 
-    return ll
+    elif "violate" in key:
+        qs = [
+            #
+            ("Who is the violator?", "what_violator"),
+            ("Who are the violators?", "what_violators"),
+            ("What is the violator?", "what_violator"),
+            ("What are the violators?", "what_violators"),
+        ]
+        res.extend(qs)
+    else:
+        qs = [
+            #
+            ("Who is the defendant?", "who_defendant"),
+            ("Who are the defendants?", "who_defendants"),
+            ("what are the defendants?", "what_defendant"),
+            ("what is the defendant?", "what_defendant"),
+            #
+            ("Who is the violator?", "what_violator"),
+            ("Who are the violators?", "what_violators"),
+            ("What is the violator?", "what_violator"),
+            ("What are the violators?", "what_violators"),
+        ]
+        res.extend(qs)
+
+    return res
 
 
 def predict_defendant(
-    first_page: list, nlpipe=None, nlspa=None, pers_org_entities_list=None
+    first_page: list,
+    nlpipe=None,
+    nlspa=None,
+    pers_org_entities_list=None,
+    threshold=0.4,
 ):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
@@ -100,48 +98,65 @@ def predict_defendant(
     nlspa = _if_not_spacy(nlspa)
     nlspa.add_pipe("sentencizer")
 
+    # pers_org_entities_list
+    # we will use this one later to make a filter at the end
+    if not pers_org_entities_list:
+        pers_org_entities_list = get_entities_pers_orgs(first_page)
+    pers_org_entities_list = _sub_you_shall_not_pass(pers_org_entities_list)
+
+    # items
     # doc / sents / ans
     doc = nlspa(first_page)
     sents = [i for i in doc.sents]
     ans = []
 
-    # defendant
-    def_sents = [i for i in sents if "defendant" in i.text.lower()]
-    for sen in def_sents:
-        ans.extend(_ask_all(sen.text, nlpipe=nlpipe))
+    # ask method
+    # for each sentence
+    for sent in sents:
+        # key list
+        key_list = _question_helper(sent.text)
+        for key in key_list:
+            # from key to questions and from questions to answers
+            quest_pairs = _question_selector(key)
+            _ans = ask_all(sent.text, quest_pairs, nlpipe=nlpipe)
+            ans.extend(_ans)
 
-    # pers_org_entities_list
-    # we will use this one later to make a filter at the end
-    if not pers_org_entities_list:
-        pers_org_entities_list = _get_entities_pers_orgs(first_page)
+    # clean ans
+    # ans is a list of dict, each dict has keys such as answer, score etc
+    # for each answer we will clean this answer and create a new_answer more accurate
+    cleaned_ans = _clean_ans(ans)
 
-    # # ask all and get all possible response
-    # ans = _ask_all(txt, nlpipe)
+    # merge ans
+    # based on new_answer we will make a groupby adding the scores for each new ans in a cumulative score
+    # example [{new_ans : hello, score:0.3},{new_ans : hello, score:0.3}, ]
+    # will become  [{new_ans : hello, score:0.6},]
+    merged_ans = merge_ans(cleaned_ans, label="new_answer")
 
-    # # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
-    # ll = _clean_ans(ans)
+    # filert by spacy entities
+    # we are sure that a personn or an org is NOT a violation so
+    # if a prediction is in pers_org_entities_list, plz drop it
+    consitant_ans = [i for i in merged_ans if i["new_answer"] in pers_org_entities_list]
 
-    # # reponse
-    # resp = ", ".join([i["answer"] for i in ll])
+    # filter by threshold
+    # we need to filter the score above which we consider that no a signe score but a
+    # cumulative score (much more strong, accurante and solid) will be droped
+    consitant_ans = [(i["new_answer"], i["cum_score"]) for i in consitant_ans]
+    last_ans = [(i, j) for i, j in consitant_ans if j > threshold]
 
-    # return resp
-
-    return [("--None--", -1)]
+    return last_ans
 
 
 if __name__ == "__main__":
 
     # import
     from legal_doc_processing.utils import get_pipeline, get_spacy, get_orgs, get_pers
-    from legal_doc_processing.legal_doc.utils import legal_doc_X_y
-
-    # from legal_doc_processing.legal_doc.segmentation.clean import clean_doc, alex_clean
+    from legal_doc_processing.legal_doc.loader import legal_doc_X_y
     from legal_doc_processing.legal_doc.structure import structure_legal_doc
 
     # laod
     nlpipe = get_pipeline()
-    nlpspa = get_spacy()
-    nlpspa.add_pipe("sentencizer")
+    nlspa = get_spacy()
+    nlspa.add_pipe("sentencizer")
 
     # structured_press_release_r
     df = legal_doc_X_y(features="defendant")
@@ -153,27 +168,4 @@ if __name__ == "__main__":
     one = df.iloc[0, :]
     one_struct = one.struct_doc
     first_page = one_first_page = one.first_page
-    one_doc = nlpspa(one_first_page)
-
-    sents = [i for i in one_doc.sents]
-    sents = [i.text for i in sents]
-    sents = [
-        (
-            i.replace("\n.", "$$$$")
-            .replace("\n", " ")
-            .replace("  ", " ")
-            .replace("  ", " ")
-            .replace("$$$$", "\n")
-        )
-        for i in sents
-    ]
-
-    sents = " ".join(sents)
-
-    one_doc = nlpspa(sents)
-    sents = [i for i in one_doc.sents]
-
-    def_sents = [i for i in sents if "defendant" in i.text.lower()]
-
-    ans_0 = _ask_all(def_sents[0].text, nlpipe=nlpipe)
-    ans_1 = _ask_all(def_sents[1].text, nlpipe=nlpipe)
+    one_doc = nlspa(one_first_page)

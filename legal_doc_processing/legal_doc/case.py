@@ -8,9 +8,6 @@ def predict_case(struct_doc, length_treshold=50):
     return the result"""
 
     # use header and 1st page
-
-    # print(struct_doc["header"])
-    # print(struct_doc["pages"][0])
     txt = struct_doc["header"] + struct_doc["pages"][0]
 
     # split
@@ -48,7 +45,7 @@ def predict_case(struct_doc, length_treshold=50):
             break
 
     if not rr:
-        return [("-- error : case not founded --", -1)]
+        return [("--None--", -1)]
 
     rr = rr.split(",")[0].strip().replace("'", "")
     rr = rr.replace("—", "-")

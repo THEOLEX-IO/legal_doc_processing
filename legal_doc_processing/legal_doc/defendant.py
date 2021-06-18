@@ -126,7 +126,7 @@ def predict_defendant(
 
     # return resp
 
-    return "-- None --"
+    return [("--None--", -1)]
 
 
 if __name__ == "__main__":
@@ -135,9 +135,7 @@ if __name__ == "__main__":
     from legal_doc_processing.utils import get_pipeline, get_spacy, get_orgs, get_pers
     from legal_doc_processing.legal_doc.utils import legal_doc_X_y
     from legal_doc_processing.legal_doc.segmentation.clean import clean_doc, alex_clean
-    from legal_doc_processing.legal_doc.segmentation.structure import (
-        structure_legal_doc,
-    )
+    from legal_doc_processing.legal_doc.structure import structure_legal_doc
 
     # laod
     nlpipe = get_pipeline()

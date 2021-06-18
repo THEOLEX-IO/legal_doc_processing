@@ -5,4 +5,4 @@ from legal_doc_processing.utils import (
 
 
 def predict_sentence(feature, nlpipe=None):
-    return "--None--"
+    return [("--None--", -1)]

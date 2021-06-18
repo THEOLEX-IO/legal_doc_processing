@@ -67,11 +67,17 @@ class LegalDoc:
             "violation",
         ]
 
-        _ = [setattr(self, k, None) for k in self.feature_list]
+        _ = [setattr(self, k, [(None, -1)]) for k in self.feature_list]
+
+    @property
+    def _feature_dict(self):
+        return {k: getattr(self, k) for k in self.feature_list}
 
     @property
     def feature_dict(self):
-        return {k: getattr(self, k) for k in self.feature_list}
+
+        clean_l = lambda l: [str(i) for i, j in l]
+        return {k: ",".join(clean_l(v)) for k, v in self._feature_dict.items()}
 
     def predict(self, feature) -> str:
         """ """
@@ -120,7 +126,7 @@ class LegalDoc:
     def __repr__(self):
         """__repr__ method """
 
-        return f"LegalDoc(raw_text:{self.raw_text[:10]},path:{self.file_path}, file:{self.file_name}, case:{self.case}, defendant:{self.defendant}, pipe:{'OK' if self.nlpipe else self.nlpipe})"
+        return f"LegalDoc(path:{self.file_path}, file:{self.file_name}, {self._feature_dict}, pipe:{'OK' if self.nlpipe else self.nlpipe})"
 
     def __str__(self):
         """__str__ method """

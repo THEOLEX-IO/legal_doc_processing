@@ -213,9 +213,3 @@ if __name__ == "__main__":
     #     one_txt = one.txt
     #     one_pr = one.obj
     #     pred = one_pr.predict_all()
-
-
-for k, v in self._feature_dict.items():
-    print(k, v)
-    print(clean_l(v))
-    print(",".join(clean_l(v)))

@@ -48,7 +48,7 @@ def predict_case(struct_doc, length_treshold=50):
             break
 
     if not rr:
-        return "-- error : case not founded --"
+        return [("-- error : case not founded --", -1)]
 
     rr = rr.split(",")[0].strip().replace("'", "")
     rr = rr.replace("—", "-")
@@ -57,4 +57,4 @@ def predict_case(struct_doc, length_treshold=50):
         r_spilt = rr.split("-")
         rr = "-".join([i.strip() for i in r_spilt])
 
-    return rr
+    return [(rr, 1)]

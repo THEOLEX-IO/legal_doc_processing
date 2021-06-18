@@ -86,7 +86,7 @@ def predict_plaintiff(cleaned_legal_doc: list, nlpipe=None):
     # resp = ", ".join([i["answer"] for i in ll])
 
     # return resp
-    return "-- None --"
+    return [("--None--", -1)]
 
 
 if __name__ == "__main__":
@@ -94,7 +94,8 @@ if __name__ == "__main__":
     # import
     from legal_doc_processing.utils import *
     from legal_doc_processing.legal_doc.utils import *
-    from legal_doc_processing.legal_doc.segmentation.clean import clean_doc
+
+    # from legal_doc_processing.legal_doc.segmentation.clean import clean_doc
 
     # from legal_doc_processing.legal_doc.segmentation.structure import (
     #     structure_legal_doc,

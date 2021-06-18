@@ -8,14 +8,18 @@ from legal_doc_processing.utils import (
     _if_not_spacy,
 )
 
-from legal_doc_processing.legal_doc.case import predict_case
-from legal_doc_processing.legal_doc.cost import predict_cost
-from legal_doc_processing.legal_doc.date import predict_date
+from legal_doc_processing.legal_doc.reference import predict_reference
+from legal_doc_processing.legal_doc.monetary_sanction import predict_monetary_sanction
+from legal_doc_processing.legal_doc.decision_date import predict_decision_date
 from legal_doc_processing.legal_doc.defendant import predict_defendant
-from legal_doc_processing.legal_doc.juridiction import predict_juridiction
+from legal_doc_processing.legal_doc.extracted_authorities import (
+    predict_extracted_authorities,
+)
 from legal_doc_processing.legal_doc.plaintiff import predict_plaintiff
 from legal_doc_processing.legal_doc.sentence import predict_sentence
-from legal_doc_processing.legal_doc.violation import predict_violation
+from legal_doc_processing.legal_doc.nature_of_violations import (
+    predict_nature_of_violations,
+)
 
 from legal_doc_processing.legal_doc.structure import structure_legal_doc
 
@@ -57,15 +61,16 @@ class LegalDoc:
 
         # data points private
         self._feature_list = [
-            "_case",
-            "_cost",
-            "_date",
+            "_reference",
+            "_currency",
+            "_monetary_sanction",
+            "_decision_date",
             "_defendant",
             "_id",
-            "_juridiction",
+            "_extracted_authorities",
             "_plaintiff",
             "_sentence",
-            "_violation",
+            "_nature_of_violations",
         ]
 
         self.feature_list = [i[1:] for i in self._feature_list]
@@ -79,16 +84,20 @@ class LegalDoc:
         return ",".join(clean_l(item_list))
 
     @property
-    def case(self):
-        return self.strize(self._case)
+    def currency(self):
+        return self.strize(self._currency)
 
     @property
-    def cost(self):
-        return self.strize(self._cost)
+    def reference(self):
+        return self.strize(self._reference)
 
     @property
-    def date(self):
-        return self.strize(self._date)
+    def monetary_sanction(self):
+        return self.strize(self._monetary_sanction)
+
+    @property
+    def decision_date(self):
+        return self.strize(self._decision_date)
 
     @property
     def defendant(self):
@@ -99,8 +108,8 @@ class LegalDoc:
         return self.strize(self._id)
 
     @property
-    def juridiction(self):
-        return self.strize(self._juridiction)
+    def extracted_authorities(self):
+        return self.strize(self._extracted_authorities)
 
     @property
     def plaintiff(self):
@@ -111,7 +120,7 @@ class LegalDoc:
         return self.strize(self._sentence)
 
     @property
-    def violation(self):
+    def nature_of_violations(self):
         return self.strize("None")
 
     @property
@@ -125,39 +134,51 @@ class LegalDoc:
     def predict(self, feature) -> str:
         """ """
 
-        if feature == "case":
-            self._case = predict_case(self.structured_text)
-            return self._case
-        elif feature == "cost":
-            self._cost = predict_cost(self.first_page, self.nlpipe)
-            return self._cost
-        elif feature == "date":
-            self._date = predict_date(self.first_page)
-            return self._date
+        if feature == "reference":
+            self._reference = predict_reference(self.structured_text)
+            return self._reference
+        elif feature == "monetary_sanction":
+            self._monetary_sanction = predict_monetary_sanction(
+                self.first_page, self.nlpipe
+            )
+            return self._monetary_sanction
+        elif feature == "decision_date":
+            self._decision_date = predict_decision_date(self.first_page)
+            return self._decision_date
         elif feature == "defendant":
             self._defendant = predict_defendant(self.first_page, self.nlpipe)
             return self._defendant
-        elif feature == "juridiction":
-            self._juridiction = predict_juridiction(self.first_page, self.nlpipe)
-            return self._juridiction
+        elif feature == "extracted_authorities":
+            self._extracted_authorities = predict_extracted_authorities(
+                self.first_page, self.nlpipe
+            )
+            return self._extracted_authorities
         elif feature == "plaintiff":
             self._plaintiff = predict_plaintiff(self.first_page, self.nlpipe)
             return self._plaintiff
         elif feature == "sentence":
             self._sentence = predict_sentence(self.first_page, self.nlpipe)
             return self._sentence
-        elif feature == "violation":
-            self._violation = predict_violation(self.first_page, self.nlpipe)
-            return self._violation
+        elif feature == "nature_of_violations":
+            self._nature_of_violations = predict_nature_of_violations(
+                self.first_page, self.nlpipe
+            )
+            return self._nature_of_violations
         elif feature == "all":
-            self._case = predict_case(self.structured_text)
-            self._cost = predict_cost(self.first_page, self.nlpipe)
-            self._date = predict_date(self.first_page)
+            self._reference = predict_reference(self.structured_text)
+            self._monetary_sanction = predict_monetary_sanction(
+                self.first_page, self.nlpipe
+            )
+            self._decision_date = predict_decision_date(self.first_page)
             self._defendant = predict_defendant(self.first_page, self.nlpipe)
-            self._juridiction = predict_juridiction(self.first_page, self.nlpipe)
+            self._extracted_authorities = predict_extracted_authorities(
+                self.first_page, self.nlpipe
+            )
             self._plaintiff = predict_plaintiff(self.first_page, self.nlpipe)
             self._sentence = predict_sentence(self.first_page, self.nlpipe)
-            self._violation = predict_violation(self.first_page, self.nlpipe)
+            self._nature_of_violations = predict_nature_of_violations(
+                self.first_page, self.nlpipe
+            )
             return self.feature_dict
         else:
             raise AttributeError("feature Not Implemented")

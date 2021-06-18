@@ -4,5 +4,5 @@ from legal_doc_processing.utils import (
 )
 
 
-def predict_juridiction(feature, nlpipe=None):
+def predict_extracted_authorities(feature, nlpipe=None):
     return [("--None--", -1)]

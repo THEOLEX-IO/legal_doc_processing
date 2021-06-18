@@ -307,7 +307,7 @@ def _merge_ans(ans, threshold=0.1):
     return ll
 
 
-def predict_violation(
+def predict_nature_of_violations(
     struct_doc: list,
     nlpipe=None,
     pers_org_entities_list=None,
@@ -390,7 +390,7 @@ if __name__ == "__main__":
     # items
     h1 = struct_doc["h1"]
     sub_article = "\n".join(struct_doc["article"].split("\n")[:2])
-    pred = predict_violation(one_struct, nlpipe)
+    pred = predict_nature_of_violations(one_struct, nlpipe)
 
     # 1 to len(df)
     print(f" {'y'.rjust(60)} -->  {'pred'} \n")
@@ -399,5 +399,5 @@ if __name__ == "__main__":
         defendant = df.defendant.iloc[i]
         i_text = df.txt.iloc[i]
         i_struct = df["structured_txt"].iloc[i]
-        pred = predict_violation(i_struct, nlpipe)
+        pred = predict_nature_of_violations(i_struct, nlpipe)
         print(f" -->  {pred[:300]} \n")

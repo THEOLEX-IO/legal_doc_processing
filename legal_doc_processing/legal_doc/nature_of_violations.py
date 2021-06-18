@@ -4,5 +4,5 @@ from legal_doc_processing.utils import (
 )
 
 
-def predict_violation(feature, nlpipe=None):
+def predict_nature_of_violations(feature, nlpipe=None):
     return [("--None--", -1)]

@@ -101,7 +101,7 @@ def _cast_as_int(cleaned_ans):
     return cleaned_ans_multi_2
 
 
-def predict_cost(struct_doc: list, nlpipe=None, nlspa=None):
+def predict_monetary_sanction(struct_doc: list, nlpipe=None, nlspa=None):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # pipe, spa

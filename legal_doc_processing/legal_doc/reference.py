@@ -1,7 +1,7 @@
 import re
 
 
-def predict_case(struct_doc, length_treshold=50):
+def predict_reference(struct_doc, length_treshold=50):
     """parse the first page line by line, matching a
     regex pattern refering to case feature
     example 'NO.: 14-CV-81216'

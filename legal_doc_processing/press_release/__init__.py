@@ -177,7 +177,7 @@ class PressRelease:
             self._defendant = predict_defendant(self.struct_text, self.nlpipe)
             self._id = predict_id(self.struct_text)
             self._juridiction = predict_juridiction(
-                self.struct_text, self.nlpipe, nlspa=nlspa
+                self.struct_text, self.nlpipe, nlspa=self.nlspa
             )
             self._plaintiff = predict_plaintiff(self.struct_text, self.nlpipe)
             self._sentence = predict_sentence(self.struct_text, self.nlpipe)

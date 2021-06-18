@@ -31,10 +31,10 @@ def get_label_(txt: str, label: str, nlpspa=None) -> list:
     label = label.upper().strip()
     assert label in ["PERSON", "ORG", "MONEY"]
 
-    pers = [i for i in nlpspa(txt).ents if i.label_ == label]
-    pers = [str(p) for p in pers]
+    ans = [i for i in nlpspa(txt).ents if i.label_ == label]
+    ans = [str(p) for p in ans]
 
-    return pers
+    return ans
 
 
 def get_pers(txt: str, nlpspa=None) -> list:
@@ -95,19 +95,28 @@ def load_data(file_path: str) -> str:
     return txt
 
 
-def clean_spec_chars(text: str) -> tuple:
-    """first text cleaning based on regex, just keep text not spec chars
-    return tupple of text"""
+def make_dataframe(
+    path: str = "./data/csv/files.csv",
+):
 
-    # article text
-    article_text = re.sub(r"\[[0-9]*\]", " ", text)
-    article_text = re.sub(r"\s+", " ", article_text)
+    # read df
+    df = pd.read_csv(path)
+    return df
 
-    # formated text
-    formatted_article_text = re.sub("[^a-zA-Z]", " ", article_text)
-    formatted_article_text = re.sub(r"\s+", " ", formatted_article_text)
 
-    return article_text, formatted_article_text
+# def clean_spec_chars(text: str) -> tuple:
+#     """first text cleaning based on regex, just keep text not spec chars
+#     return tupple of text"""
+
+#     # article text
+#     article_text = re.sub(r"\[[0-9]*\]", " ", text)
+#     article_text = re.sub(r"\s+", " ", article_text)
+
+#     # formated text
+#     formatted_article_text = re.sub("[^a-zA-Z]", " ", article_text)
+#     formatted_article_text = re.sub(r"\s+", " ", formatted_article_text)
+
+#     return article_text, formatted_article_text
 
 
 # def handle_encoding(text: str) -> str:
@@ -120,51 +129,44 @@ def clean_spec_chars(text: str) -> tuple:
 #     return clean_text
 
 
-def _boot_press_release():
-    """test init press release """
+# def _boot_press_release():
+#     """test init press release """
 
-    from legal_doc_processing.press_release import (
-        PressRelease,
-        read_PressRelease,
-        load_press_release_text_list,
-    )
+#     # from legal_doc_processing.press_release import (
+#     #     PressRelease,
+#     #     read_PressRelease,
+#     #     load_press_release_text_list,
+#     # )
 
-    # num = "7100-15"
-    # url = f"https://storage.googleapis.com/theolex_documents_processing/cftc/text/7100-15/order-allied-markets-llc-et-al.txt"
-    # nlpipe = get_pipeline()
-    # pr = PressRelease("Hello World", nlpipe=nlpipe)
-    # # pr.predict("all")
+#     # num = "7100-15"
+#     # url = f"https://storage.googleapis.com/theolex_documents_processing/cftc/text/7100-15/order-allied-markets-llc-et-al.txt"
+#     # nlpipe = get_pipeline()
+#     # pr = PressRelease("Hello World", nlpipe=nlpipe)
+#     # # pr.predict("all")
 
-
-def _boot_legal_doc():
-    """ try to build and predict a LegalDoc and an PressRelease"""
-
-    from legal_doc_processing.legal_doc import (
-        LegalDoc,
-        read_LegalDoc,
-        load_legal_doc_text_list,
-    )
-
-    url = ""
-    nlpipe = get_pipeline()
-    ld = LegalDoc("Hello World", nlpipe=nlpipe)
-    # ld.predict("all")
+#     pass
 
 
-def boot():
-    """ """
+# def _boot_legal_doc():
+#     """ try to build and predict a LegalDoc and an PressRelease"""
 
-    _boot_press_release()
-    _boot_legal_doc()
+#     from legal_doc_processing.legal_doc import (
+#         LegalDoc,
+#         read_LegalDoc,
+#         load_legal_doc_text_list,
+#     )
+
+#     url = ""
+#     nlpipe = get_pipeline()
+#     ld = LegalDoc("Hello World", nlpipe=nlpipe)
+#     # ld.predict("all")
 
 
-def make_dataframe(
-    path: str = "./data/csv/files.csv",
-):
+# def boot():
+#     """ """
 
-    # read df
-    df = pd.read_csv(path)
-    return df
+#     _boot_press_release()
+#     _boot_legal_doc()
 
 
 # DEPRECATED

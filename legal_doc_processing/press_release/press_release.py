@@ -63,7 +63,7 @@ class PressRelease:
 
         # data points private
         self._feature_list = [
-            "_case",
+            "_reference",
             "_monetary_sanction",
             "_decision_date",
             "_defendant",
@@ -86,7 +86,7 @@ class PressRelease:
 
     @property
     def case(self):
-        return self.strize(self._case)
+        return self.strize(self._reference)
 
     @property
     def monetary_sanction(self):
@@ -132,8 +132,8 @@ class PressRelease:
         """ """
 
         if feature == "case":
-            self._case = [(-1, -1)]
-            return self._case
+            self._reference = [(-1, -1)]
+            return self._reference
         elif feature == "monetary_sanction":
             self._monetary_sanction = predict_monetary_sanction(
                 self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
@@ -175,7 +175,7 @@ class PressRelease:
             )
             return self._nature_of_violations
         elif feature == "all":
-            self._case = [(-1, -1)]
+            self._reference = [(-1, -1)]
             self._monetary_sanction = predict_monetary_sanction(
                 self.struct_text, self.nlpipe, nlspa=self.nlspa
             )

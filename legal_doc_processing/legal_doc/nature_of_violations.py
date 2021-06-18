@@ -157,7 +157,7 @@ if __name__ == "__main__":
     df["first_page"] = df.struct_doc.apply(lambda i: i["pages"][0])
 
     # test one
-    one = df.iloc[1, :]
+    one = df.iloc[3, :]
     struct_doc, one_struct = one.struct_doc
     first_page = one_first_page = one.first_page
     one_doc = nlspa(one_first_page)

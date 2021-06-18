@@ -175,4 +175,4 @@ if __name__ == "__main__":
     self = obj = one.obj
 
     #
-    self._sub_predict_all()
+    # self._sub_predict_all()

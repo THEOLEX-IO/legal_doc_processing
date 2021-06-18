@@ -18,10 +18,10 @@ def _merge_ans(list_ans, threshold=0.1):
 
     # group by ans and make cumutavie score of accuracy
     ll = [
-        {"answer": k, "cum_score": round(v.score.sum(), 2)}
+        (k, round(v.score.sum(), 2))
         for k, v in df.groupby("answer")
         if v.score.sum() > threshold
     ]
-    ll = sorted(ll, key=lambda i: i["cum_score"], reverse=True)
+    ll = sorted(ll, key=lambda i: i[1], reverse=True)
 
     return ll

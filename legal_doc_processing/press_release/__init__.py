@@ -58,88 +58,131 @@ class PressRelease:
         self.pers_org_entities_list = get_entities_pers_orgs(self.struct_text)
 
         # data points private
-        self.feature_list = [
-            "case",
-            "cost",
-            "date",
-            "defendant",
-            "id",
-            "juridiction",
-            "plaintiff",
-            "sentence",
-            "violation",
+        self._feature_list = [
+            "_case",
+            "_cost",
+            "_date",
+            "_defendant",
+            "_id",
+            "_juridiction",
+            "_plaintiff",
+            "_sentence",
+            "_violation",
         ]
 
-        _ = [setattr(self, k, [(None, -1)]) for k in self.feature_list]
+        self.feature_list = [i[1:] for i in self._feature_list]
+
+        _ = [setattr(self, k, [(None, -1)]) for k in self._feature_list]
+
+    def strize(self, item_list):
+        """ """
+
+        clean_l = lambda item_list: [str(i).strip() for i, j in item_list]
+        return ",".join(clean_l(item_list))
+
+    @property
+    def case(self):
+        return self.strize(self._case)
+
+    @property
+    def cost(self):
+        return self.strize(self._cost)
+
+    @property
+    def date(self):
+        return self.strize(self._date)
+
+    @property
+    def defendant(self):
+        return self.strize(self._defendant)
+
+    @property
+    def id(self):
+        return self.strize(self._id)
+
+    @property
+    def juridiction(self):
+        return self.strize(self._juridiction)
+
+    @property
+    def plaintiff(self):
+        return self.strize(self._plaintiff)
+
+    @property
+    def sentence(self):
+        return self.strize(self._sentence)
+
+    @property
+    def violation(self):
+        return self.strize("None")
 
     @property
     def _feature_dict(self):
-        return {k: getattr(self, k) for k in self.feature_list}
+        return {k: getattr(self, k) for k in self._feature_list}
 
     @property
     def feature_dict(self):
-
-        clean_l = lambda l: [str(i) for i, j in l]
-        return {k: ",".join(clean_l(v)) for k, v in self._feature_dict.items()}
+        return {str(k[1:]): self.strize(getattr(self, k)) for k in self._feature_list}
 
     def predict(self, feature) -> str:
         """ """
+
         if feature == "case":
-            self.case = [(-1, -1)]
-            return self.case
+            self._case = [(-1, -1)]
+            return self._case
         elif feature == "cost":
-            self.cost = predict_cost(
+            self._cost = predict_cost(
                 self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
             )
-            return self.cost
+            return self._cost
         elif feature == "date":
-            self.date = predict_date(self.struct_text)
-            return self.date
+            self._date = predict_date(self.struct_text)
+            return self._date
         elif feature == "defendant":
-            self.defendant = predict_defendant(
+            self._defendant = predict_defendant(
                 self.struct_text,
                 nlpipe=self.nlpipe,
                 pers_org_entities_list=self.pers_org_entities_list,
             )
-            return self.defendant
+            return self._defendant
         elif feature == "id":
-            self.id = predict_id(self.struct_text)
-            return self.id
+            self._id = predict_id(self.struct_text)
+            return self._id
         elif feature == "juridiction":
-            self.juridiction = predict_juridiction(
+            self._juridiction = predict_juridiction(
                 self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
             )
-            return self.juridiction
+            return self._juridiction
         elif feature == "plaintiff":
-            self.plaintiff = predict_plaintiff(
+            self._plaintiff = predict_plaintiff(
                 self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
             )
-            return self.plaintiff
+            return self._plaintiff
         elif feature == "sentence":
-            self.sentence = predict_sentence(
+            self._sentence = predict_sentence(
                 self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
             )
-            return self.sentence
+            return self._sentence
         elif feature == "violation":
-            self.violation = predict_violation(
+            self._violation = predict_violation(
                 self.struct_text,
                 nlpipe=self.nlpipe,
                 pers_org_entities_list=self.pers_org_entities_list,
             )
-            return self.violation
+            return self._violation
         elif feature == "all":
-            self.case = [(-1, -1)]
-            self.cost = predict_cost(self.struct_text, self.nlpipe, nlspa=self.nlspa)
-            self.date = predict_date(self.struct_text)
-            self.defendant = predict_defendant(self.struct_text, self.nlpipe)
-            self.id = predict_id(self.struct_text)
-            self.juridiction = predict_juridiction(
+            self._case = [(-1, -1)]
+            self._cost = predict_cost(self.struct_text, self.nlpipe, nlspa=self.nlspa)
+            self._date = predict_date(self.struct_text)
+            self._defendant = predict_defendant(self.struct_text, self.nlpipe)
+            self._id = predict_id(self.struct_text)
+            self._juridiction = predict_juridiction(
                 self.struct_text, self.nlpipe, nlspa=nlspa
             )
-            self.plaintiff = predict_plaintiff(self.struct_text, self.nlpipe)
-            self.sentence = predict_sentence(self.struct_text, self.nlpipe)
-            self.violation = predict_violation(self.struct_text, self.nlpipe)
-            return self.feature_dict
+            self._plaintiff = predict_plaintiff(self.struct_text, self.nlpipe)
+            self._sentence = predict_sentence(self.struct_text, self.nlpipe)
+            self._violation = predict_violation(self.struct_text, self.nlpipe)
+            return self._feature_dict
         else:
             raise AttributeError("feature Not Implemented")
 
@@ -151,12 +194,15 @@ class PressRelease:
     def __repr__(self):
         """__repr__ method """
 
-        return f"PressRelease(path:{self.file_path}, file:{self.file_name}, {self._feature_dict}, pipe:{'OK' if self.nlpipe else self.nlpipe})"
+        _pipe = "OK" if self.nlpipe else self.nlpipe
+        _spa = "OK" if self.nlspa else self.nlspa
+        _feat_dict = {k: v[:8] for k, v in self.feature_dict.items()}
+        return f"PressRelease(path:{self.file_path}, file:{self.file_name}, {_feat_dict}, pipe/spacy:{_pipe}/{_spa}"
 
     def __str__(self):
         """__str__ method """
 
-        return "a LegalDoc Instance"
+        return self.__repr__()
 
 
 def from_text(text: str, nlpipe=None, nlspa=None):
@@ -188,6 +234,7 @@ if __name__ == "__main__":
 
     # legal_doc df AND  OBj
     df = press_release_X_y()
+    df = df.iloc[:4, :]
     df["obj"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
 
     # preds
@@ -204,7 +251,7 @@ if __name__ == "__main__":
     # 1st one
     one = df.iloc[0, :]
     one_txt = one.txt
-    one_pr = one.obj
+    self = one_pr = one.obj
     pred = one_pr.predict_all()
 
     # for i in range(len(df)):

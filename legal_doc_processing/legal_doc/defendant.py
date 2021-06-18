@@ -134,7 +134,8 @@ if __name__ == "__main__":
     # import
     from legal_doc_processing.utils import get_pipeline, get_spacy, get_orgs, get_pers
     from legal_doc_processing.legal_doc.utils import legal_doc_X_y
-    from legal_doc_processing.legal_doc.segmentation.clean import clean_doc, alex_clean
+
+    # from legal_doc_processing.legal_doc.segmentation.clean import clean_doc, alex_clean
     from legal_doc_processing.legal_doc.structure import structure_legal_doc
 
     # laod
@@ -144,7 +145,7 @@ if __name__ == "__main__":
 
     # structured_press_release_r
     df = legal_doc_X_y(features="defendant")
-    df["struct_doc"] = df.txt.apply(lambda i: alex_clean(i))
+    df["struct_doc"] = df.txt.apply(lambda i: structure_legal_doc(i))
     df["header"] = df.struct_doc.apply(lambda i: i["header"])
     df["first_page"] = df.struct_doc.apply(lambda i: i["pages"][0])
 

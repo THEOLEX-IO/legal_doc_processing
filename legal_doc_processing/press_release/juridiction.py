@@ -44,9 +44,9 @@ def predict_juridiction(struct_doc: list, nlpipe=None, nlspa=None):
 
     # juri h1
     if len(jur_h1_clean) == 1:
-        return jur_h1_clean[0]
+        return [(jur_h1_clean[0], 1)]
     if len(jur_h1_clean) > 1:
-        return ",".join(jur_h1_clean)
+        return [(i, 1) for i in jur_h1_clean]
 
     # token filter sub_article
     tok_sub_article = [i.text.lower() for i in nlspa(sub_article)]

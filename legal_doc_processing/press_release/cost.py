@@ -138,7 +138,7 @@ def predict_cost(struct_doc: list, nlpipe=None, nlspa=None):
     elif len(money_sub_article_clean) > 1:
         return [(str(max(money_sub_article_clean)), 1)]
     else:
-        return str(-1)
+        return [(str(-1), -1)]
 
     return str(-3)
 

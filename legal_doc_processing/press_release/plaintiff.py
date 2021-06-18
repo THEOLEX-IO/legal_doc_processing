@@ -77,7 +77,7 @@ def predict_plaintiff(struct_doc: list, nlpipe=None, nlspa=None):
 
     # return resp
 
-    return [("-- None --", 1)]
+    return [("-- None --", -1)]
 
 
 if __name__ == "__main__":

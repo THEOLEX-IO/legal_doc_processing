@@ -70,7 +70,7 @@ class PressRelease:
             "violation",
         ]
 
-        _ = [setattr(self, k, None) for k in self.feature_list]
+        _ = [setattr(self, k, [(None, -1)]) for k in self.feature_list]
 
     @property
     def _feature_dict(self):
@@ -79,14 +79,14 @@ class PressRelease:
     @property
     def feature_dict(self):
 
-        clean_k = lambda k: ",".join([i for i, j in k])
-        return {k: getattr(self, clean_k(k)) for k in self.feature_list}
+        clean_l = lambda l: [str(i) for i, j in l]
+        return {k: ",".join(clean_l(v)) for k, v in self._feature_dict.items()}
 
     def predict(self, feature) -> str:
         """ """
         if feature == "case":
-            self.case = None
-            return None
+            self.case = [(-1, -1)]
+            return self.case
         elif feature == "cost":
             self.cost = predict_cost(
                 self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
@@ -128,11 +128,10 @@ class PressRelease:
             )
             return self.violation
         elif feature == "all":
-            self.case = None
+            self.case = [(-1, -1)]
             self.cost = predict_cost(self.struct_text, self.nlpipe, nlspa=self.nlspa)
             self.date = predict_date(self.struct_text)
             self.defendant = predict_defendant(self.struct_text, self.nlpipe)
-
             self.id = predict_id(self.struct_text)
             self.juridiction = predict_juridiction(
                 self.struct_text, self.nlpipe, nlspa=nlspa
@@ -152,7 +151,7 @@ class PressRelease:
     def __repr__(self):
         """__repr__ method """
 
-        return f"PressRelease(path:{self.file_path}, file:{self.file_name}, case:{self.case}, defendant:{self.defendant}, pipe:{'OK' if self.nlpipe else self.nlpipe})"
+        return f"PressRelease(path:{self.file_path}, file:{self.file_name}, {self._feature_dict}, pipe:{'OK' if self.nlpipe else self.nlpipe})"
 
     def __str__(self):
         """__str__ method """
@@ -214,3 +213,9 @@ if __name__ == "__main__":
     #     one_txt = one.txt
     #     one_pr = one.obj
     #     pred = one_pr.predict_all()
+
+
+for k, v in self._feature_dict.items():
+    print(k, v)
+    print(clean_l(v))
+    print(",".join(clean_l(v)))

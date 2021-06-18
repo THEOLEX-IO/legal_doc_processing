@@ -16,9 +16,9 @@ from legal_doc_processing.legal_doc.utils import (
     get_entities_pers_orgs,
 )
 
-from legal_doc_processing.information_extraction.defendant import (
+from legal_doc_processing.legal_doc.defendant_clean import (
     _sub_you_shall_not_pass,
-    _clean_ans,
+    clean_ans,
 )
 
 from legal_doc_processing.information_extraction.utils import ask_all, merge_ans
@@ -88,7 +88,7 @@ def predict_defendant(
     nlpipe=None,
     nlspa=None,
     pers_org_entities_list=None,
-    threshold=0.4,
+    threshold=0.2,
 ):
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
@@ -124,7 +124,7 @@ def predict_defendant(
     # clean ans
     # ans is a list of dict, each dict has keys such as answer, score etc
     # for each answer we will clean this answer and create a new_answer more accurate
-    cleaned_ans = _clean_ans(ans)
+    cleaned_ans = clean_ans(ans)
 
     # merge ans
     # based on new_answer we will make a groupby adding the scores for each new ans in a cumulative score
@@ -140,8 +140,8 @@ def predict_defendant(
     # filter by threshold
     # we need to filter the score above which we consider that no a signe score but a
     # cumulative score (much more strong, accurante and solid) will be droped
-    consitant_ans = [(i["new_answer"], i["cum_score"]) for i in consitant_ans]
-    last_ans = [(i, j) for i, j in consitant_ans if j > threshold]
+    flatten_ans = [(i["new_answer"], i["cum_score"]) for i in consitant_ans]
+    last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
 
     return last_ans
 
@@ -157,6 +157,8 @@ if __name__ == "__main__":
     nlpipe = get_pipeline()
     nlspa = get_spacy()
     nlspa.add_pipe("sentencizer")
+    pers_org_entities_list = None
+    threshold = 0.4
 
     # structured_press_release_r
     df = legal_doc_X_y(features="defendant")

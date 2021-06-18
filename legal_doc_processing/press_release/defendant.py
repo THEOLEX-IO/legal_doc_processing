@@ -12,9 +12,16 @@ from legal_doc_processing.utils import (
     get_pipeline,
 )
 
+from legal_doc_processing.information_extraction.utils import merge_ans, ask_all
+
 from legal_doc_processing.press_release.utils import (
     product_juridic_form,
     get_entities_pers_orgs,
+)
+
+from legal_doc_processing.press_release.defendant_clean import (
+    _sub_you_shall_not_pass,
+    clean_ans,
 )
 
 
@@ -61,7 +68,7 @@ def predict_defendant(
     # clean ans
     # ans is a list of dict, each dict has keys such as answer, score etc
     # for each answer we will clean this answer and create a new_answer more accurate
-    cleaned_ans = _clean_ans(ans)
+    cleaned_ans = clean_ans(ans)
 
     # merge ans
     # based on new_answer we will make a groupby adding the scores for each new ans in a cumulative score
@@ -77,8 +84,8 @@ def predict_defendant(
     # filter by threshold
     # we need to filter the score above which we consider that no a signe score but a
     # cumulative score (much more strong, accurante and solid) will be droped
-    consitant_ans = [(i["new_answer"], i["cum_score"]) for i in consitant_ans]
-    last_ans = [(i, j) for i, j in consitant_ans if j > threshold]
+    flatten_ans = [(i["new_answer"], i["cum_score"]) for i in consitant_ans]
+    last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
 
     return last_ans
 
@@ -92,7 +99,8 @@ if __name__ == "__main__":
 
     # laod
     nlpipe = get_pipeline()
-    nlpspa = get_spacy()
+    # nlspa = get_spacy()
+    pers_org_entities_list = None
 
     # structured_press_release_r
     df = press_release_X_y(features="defendant")
@@ -105,6 +113,8 @@ if __name__ == "__main__":
     one_h1 = one_struct["h1"]
     one_article = one_struct["article"]
     sub_one_article = "\n".join(one_article.split("\n")[:2])
+
+    # pred one
     pred = predict_defendant(one_struct, nlpipe)
 
     # ents

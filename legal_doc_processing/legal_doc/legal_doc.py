@@ -143,7 +143,9 @@ class LegalDoc:
             )
             return self._monetary_sanction
         elif feature == "currency":
-            self._currency = predict_currency(self.first_page, self.nlpipe)
+            self._currency = predict_currency(
+                self.first_page,
+            )
             return self._currency
         elif feature == "decision_date":
             self._decision_date = predict_decision_date(self.first_page)
@@ -182,7 +184,7 @@ class LegalDoc:
             self._nature_of_violations = predict_nature_of_violations(
                 self.first_page, self.nlpipe
             )
-            self._currency = predict_currency(self.first_page, self.nlpipe)
+            self._currency = predict_currency(self.first_page)
             return self.feature_dict
         else:
             raise AttributeError("feature Not Implemented")

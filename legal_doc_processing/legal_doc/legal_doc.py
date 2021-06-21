@@ -51,28 +51,46 @@ class LegalDoc:
 
         self.nlpipe = nlpipe if nlpipe else get_pipeline()
         self.nlspa = nlspa if nlspa else get_spacy()
+        try:
+            self.nlspa.add_pipe("sentencizer")
+        except Exception as e:
+            pass
 
         # text and cleanstructure
         self.raw_text = text
         # self.clean_pages = clean.clean_doc(text)
         # self.structured_text = struct.structure_legal_doc(text)
         self.structured_text = structure_legal_doc(text)
+        self.h1 = self.structured_text["header"]
         self.first_page = self.structured_text["pages"][0]
+
+        if len(self.structured_text["pages"] > 1):
+            self.first_2_pages = (
+                self.structured_text["pages"][0] + self.structured_text["pages"][1]
+            )
+        else:
+            self.first_2_pages = self.structured_text["pages"][0]
+
+        self.h1_sents = [i.txt for i in nlspa(self.h1).sents]
+        self.first_page_sents = [i.text for i in nlspa(" ".join(self.first_page)).sents]
 
         # data points private
         self._feature_list = [
-            "_reference",
             "_currency",
-            "_monetary_sanction",
+            "_code_law_violation",
+            "_country_of_violation",
             "_decision_date",
             "_defendant",
-            "_id",
             "_extracted_authorities",
-            "_plaintiff",
-            "_sentence",
+            "_id",
+            "_juridiction",
+            "_monetary_sanction",
             "_nature_of_violations",
+            "_plaintiff",
+            "_reference",
+            "_sentence",
+            "_violation_date",
         ]
-
         self.feature_list = [i[1:] for i in self._feature_list]
 
         _ = [setattr(self, k, [(None, -1)]) for k in self._feature_list]
@@ -88,12 +106,12 @@ class LegalDoc:
         return self.strize(self._currency)
 
     @property
-    def reference(self):
-        return self.strize(self._reference)
+    def code_law_violation(self):
+        return self.strize(self._code_law_violation)
 
     @property
-    def monetary_sanction(self):
-        return self.strize(self._monetary_sanction)
+    def country_of_violation(self):
+        return self.strize(self._country_of_violation)
 
     @property
     def decision_date(self):
@@ -104,24 +122,40 @@ class LegalDoc:
         return self.strize(self._defendant)
 
     @property
+    def extracted_authorities(self):
+        return self.strize(self._extracted_authorities)
+
+    @property
     def id(self):
         return self.strize(self._id)
 
     @property
-    def extracted_authorities(self):
-        return self.strize(self._extracted_authorities)
+    def juridiction(self):
+        return self.strize(self._juridiction)
+
+    @property
+    def monetary_sanction(self):
+        return self.strize(self._monetary_sanction)
+
+    @property
+    def nature_of_violations(self):
+        return self.strize(_nature_of_violations)
 
     @property
     def plaintiff(self):
         return self.strize(self._plaintiff)
 
     @property
+    def reference(self):
+        return self.strize(self._reference)
+
+    @property
     def sentence(self):
         return self.strize(self._sentence)
 
     @property
-    def nature_of_violations(self):
-        return self.strize("None")
+    def violation_date(self):
+        return self.strize(self._violation_date)
 
     @property
     def _feature_dict(self):

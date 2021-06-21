@@ -1,6 +1,6 @@
 import os
 
-
+import dateparser
 from legal_doc_processing.press_release.decision_date_clean import _you_shall_not_pass
 
 
@@ -12,7 +12,7 @@ def predict_decision_date(
     date = struct_doc["date"]
     date = _you_shall_not_pass(date)
 
-    return [(date, 1)]
+    return [(str(dateparser.parse(date)), 1)]
 
 
 if __name__ == "__main__":

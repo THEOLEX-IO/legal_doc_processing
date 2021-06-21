@@ -13,6 +13,15 @@ import spacy
 from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
 
 
+def uniquize(iterable: list) -> list:
+    """ """
+
+    try:
+        return list(set(iterable))
+    except Exception as e:
+        return []
+
+
 def get_spacy():
     return spacy.load("en_core_web_sm")
 

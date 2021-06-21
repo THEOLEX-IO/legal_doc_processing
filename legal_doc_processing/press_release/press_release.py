@@ -2,6 +2,8 @@ import os
 
 from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_
 
+from legal_doc_processing.utils import uniquize as _u
+
 # from legal_doc_processing.utils import load_data
 
 from legal_doc_processing.press_release.monetary_sanction import predict_monetary_sanction
@@ -61,6 +63,8 @@ class PressRelease:
         except Exception as e:
             pass
 
+        ######################
+
         # text and clean
         self.raw_text = text
         self.struct_text = structure_press_release(text)
@@ -69,54 +73,51 @@ class PressRelease:
             self.struct_text["article"].split("\n")[:n_paragraphs]
         )
 
-        self.h1_sents = [i for i in nlspa(self.h1).sents]
-        self.sub_article.sents = [i for i in nlspa(self.sub_article).sents]
+        self.h1_sents = [i.txt for i in nlspa(self.h1).sents]
+        self.sub_article_sents = [i.text for i in nlspa(self.sub_article).sents]
+
+        ######################
 
         # entities
-        self.pers_entities_list = list(
-            set(
-                get_label_(self.h1, "PERSON", self.nlspa)
-                + get_label_(self.sub_article, "PERSON", self.nlspa)
-            )
-        )
-        self.org_entities_list = list(
-            set(
-                get_label_(self.h1, "ORG", self.nlspa)
-                + get_label_(self.sub_article, "ORG", self.nlspa)
-            )
-        )
+        self.pers_h1 = _u(get_label_(self.h1, "PERSON", self.nlspa))
+        self.pers_sub_article = _u(get_label_(self.sub_article, "PERSON", self.nlspa))
+        self.org_h1 = _u(get_label_(self.h1, "ORG", self.nlspa))
+        self.org_sub_article = _u(get_label_(self.sub_article, "ORG", self.nlspa))
+        self.date_h1 = _u(get_label_(self.h1, "DATE", self.nlspa))
+        self.date_sub_article = _u(get_label_(self.sub_article, "DATE", self.nlspa))
+        self.cost_h1 = _u(get_label_(self.h1, "MONEY", self.nlspa))
+        self.cost_sub_article = _u(self.get_label_(self.sub_article, "MONEY", self.nlspa))
+        # all
+        self.pers_all = _u(self.pers_h1 + self.pers_sub_article)
+        self.org_all = _u(self.org_h1 + self.org_sub_article)
+        self.pers_org_all = _u(self.pers_all + self.org_all)
+        self.date_all = _u(self.date_h1 + self.date_sub_article)
+        self.cost_all = _u(self.cost_h1 + self.cost_sub_article)
 
-        self.date_entities_list = list(
-            set(
-                get_label_(self.h1, "DATE", self.nlspa)
-                + get_label_(self.sub_article, "DATE", self.nlspa)
-            )
-        )
-        self.cost_entities_list = list(
-            set(
-                get_label_(self.h1, "MONEY", self.nlspa)
-                + get_label_(self.sub_article, "MONEY", self.nlspa)
-            )
-        )
-        self.pers_org_entities_list = self.org_entities_list + self.pers_entities_list
+        ######################
 
         # data points private
         self._feature_list = [
             "_currency",
-            "_reference",
-            "_monetary_sanction",
+            "_code_law_violation",
+            "_country_of_violation",
             "_decision_date",
             "_defendant",
-            "_id",
             "_extracted_authorities",
-            "_plaintiff",
-            "_sentence",
+            "_id",
+            "_juridiction",
+            "_monetary_sanction",
             "_nature_of_violations",
+            "_plaintiff",
+            "_reference",
+            "_sentence",
+            "_violation_date",
         ]
-
         self.feature_list = [i[1:] for i in self._feature_list]
 
         _ = [setattr(self, k, [(None, -1)]) for k in self._feature_list]
+
+    ######################
 
     def strize(self, item_list):
         """ """
@@ -124,17 +125,19 @@ class PressRelease:
         clean_l = lambda item_list: [str(i).strip() for i, j in item_list]
         return ",".join(clean_l(item_list))
 
+    ######################
+
     @property
     def currency(self):
         return self.strize(self._currency)
 
     @property
-    def reference(self):
-        return self.strize(self._reference)
+    def code_law_violation(self):
+        return self.strize(self._code_law_violation)
 
     @property
-    def monetary_sanction(self):
-        return self.strize(self._monetary_sanction)
+    def country_of_violation(self):
+        return self.strize(self._country_of_violation)
 
     @property
     def decision_date(self):
@@ -145,24 +148,42 @@ class PressRelease:
         return self.strize(self._defendant)
 
     @property
+    def extracted_authorities(self):
+        return self.strize(self._extracted_authorities)
+
+    @property
     def id(self):
         return self.strize(self._id)
 
     @property
     def juridiction(self):
-        return self.strize(self._extracted_authorities)
+        return self.strize(self._juridiction)
+
+    @property
+    def monetary_sanction(self):
+        return self.strize(self._monetary_sanction)
+
+    @property
+    def nature_of_violations(self):
+        return self.strize(_nature_of_violations)
 
     @property
     def plaintiff(self):
         return self.strize(self._plaintiff)
 
     @property
+    def reference(self):
+        return self.strize(self._reference)
+
+    @property
     def sentence(self):
         return self.strize(self._sentence)
 
     @property
-    def violation(self):
-        return self.strize("None")
+    def violation_date(self):
+        return self.strize(self._violation_date)
+
+    ######################
 
     @property
     def _feature_dict(self):
@@ -172,58 +193,19 @@ class PressRelease:
     def feature_dict(self):
         return {str(k[1:]): self.strize(getattr(self, k)) for k in self._feature_list}
 
+    ######################
+
     def predict(self, feature) -> str:
         """ """
+        if feature != "all":
+            raise NotImplementedError("sorry, method not supported")
+        else:
+            self._currency = predict_currency(self.struct_text)
+            self._code_law_violation = predict_code_law_violation(self.struct_text)
+            self._country_of_violation = predict_country_of_violation(self.struct_text)
 
-        if feature == "reference":
             self._reference = [(-1, -1)]
-            return self._reference
-        elif feature == "monetary_sanction":
-            self._monetary_sanction = predict_monetary_sanction(
-                self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
-            )
-            return self._monetary_sanction
-        elif feature == "currency":
-            self._currency = predict_currency(self.struct_text)
-            return self._currency
-        elif feature == "decision_date":
-            self._decision_date = predict_decision_date(self.struct_text)
-            return self._decision_date
-        elif feature == "defendant":
-            self._defendant = predict_defendant(
-                self.struct_text,
-                nlpipe=self.nlpipe,
-                pers_org_entities_list=self.pers_org_entities_list,
-            )
-            return self._defendant
-        elif feature == "id":
-            self._id = predict_id(self.struct_text)
-            return self._id
-        elif feature == "juridiction":
-            self._extracted_authorities = predict_extracted_authorities(
-                self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
-            )
-            return self._extracted_authorities
-        elif feature == "plaintiff":
-            self._plaintiff = predict_plaintiff(
-                self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
-            )
-            return self._plaintiff
-        elif feature == "sentence":
-            self._sentence = predict_sentence(
-                self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
-            )
-            return self._sentence
-        elif feature == "violation":
-            self._nature_of_violations = predict_nature_of_violations(
-                self.struct_text,
-                nlpipe=self.nlpipe,
-                pers_org_entities_list=self.pers_org_entities_list,
-            )
-            return self._nature_of_violations
-        elif feature == "all":
-            self._reference = [(-1, -1)]
-            self._currency = predict_currency(self.struct_text)
+
             self._monetary_sanction = predict_monetary_sanction(
                 self.struct_text, self.nlpipe, nlspa=self.nlspa
             )
@@ -248,6 +230,8 @@ class PressRelease:
 
         return self.predict("all")
 
+    ######################
+
     def __repr__(self):
         """__repr__ method """
 
@@ -264,15 +248,20 @@ class PressRelease:
 
 def from_text(text: str, nlpipe=None, nlspa=None):
     """ """
-
-    return PressRelease(text, nlpipe=nlpipe, nlspa=nlspa)
+    try:
+        return PressRelease(text, nlpipe=nlpipe, nlspa=nlspa)
+    except Exception as e:
+        return e.__str__()
 
 
 def from_file(file_path: str, nlpipe=None, nlspa=None):
     """read a file and return a PressRelease object """
 
-    with open(file_path, "r") as f:
-        text = f.read()
+    try:
+        with open(file_path, "r") as f:
+            text = f.read()
+    except Exception as e:
+        return e.__str__()
 
     return PressRelease(text, file_path=file_path, nlpipe=nlpipe, nlspa=None)
 

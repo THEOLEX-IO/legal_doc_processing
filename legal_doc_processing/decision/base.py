@@ -254,6 +254,7 @@ class Base:
 
 def from_text(text: str, Object, nlpipe=None, nlspa=None):
     """ """
+
     try:
         return Object(text, nlpipe=nlpipe, nlspa=nlspa)
     except Exception as e:

@@ -14,9 +14,19 @@ from legal_doc_processing.utils import (
 
 def product_juridiction_pairs():
 
-    cftc_cands = ["cftc", "Commodity Futures Trading Commission", "c.f.t.c"]
-    doj_cands = ["doj", "department of justice", "d.o.j."]
-    sec_cands = ["sec", "Securities and Exchange Commission", "s.e.c."]
+    cftc_cands = [
+        "cftc",
+        "Commodity Futures Trading Commission",
+        "c.f.t.c",
+        "the Commodity Futures Trading Commission",
+    ]
+    doj_cands = ["doj", "department of justice", "d.o.j.", "the department of justice"]
+    sec_cands = [
+        "sec",
+        "Securities and Exchange Commission",
+        "s.e.c.",
+        "the Securities and Exchange Commission",
+    ]
 
     cands = dict()
     for k, _list in [("cftc", cftc_cands), ("doj", doj_cands), ("sec", sec_cands)]:

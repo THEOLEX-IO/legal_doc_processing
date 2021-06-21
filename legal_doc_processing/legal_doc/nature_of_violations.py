@@ -115,22 +115,27 @@ def predict_nature_of_violations(
     # ans is a list of dict, each dict has keys such as answer, score etc
     # for each answer we will clean this answer and create a new_answer more accurate
     cleaned_ans = ans
+    answer_label = "answer"
+    if not len(cleaned_ans):
+        cleaned_ans = [{answer_label: "--None--", "score": -1}]
 
     # merge ans
     # based on new_answer we will make a groupby adding the scores for each new ans in a cumulative score
     # example [{new_ans : hello, score:0.3},{new_ans : hello, score:0.3}, ]
     # will become  [{new_ans : hello, score:0.6},]
-    merged_ans = merge_ans(cleaned_ans, label="answer")
+    merged_ans = merge_ans(cleaned_ans, label=answer_label)
 
     # filert by spacy entities
     # we are sure that a personn or an org is NOT a violation so
     # if a prediction is in pers_org_entities_list, plz drop it
-    consitant_ans = [i for i in merged_ans if i["answer"] not in pers_org_entities_list]
+    consitant_ans = [
+        i for i in merged_ans if i[answer_label] not in pers_org_entities_list
+    ]
 
     # filter by threshold
     # we need to filter the score above which we consider that no a signe score but a
     # cumulative score (much more strong, accurante and solid) will be droped
-    flatten_ans = [(i["answer"], i["cum_score"]) for i in consitant_ans]
+    flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]
     last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
 
     return last_ans

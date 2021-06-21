@@ -96,7 +96,10 @@ def predict_defendant(
     # win lots of time if the method is used in a loop with 100 predictions
     nlpipe = _if_not_pipe(nlpipe)
     nlspa = _if_not_spacy(nlspa)
-    nlspa.add_pipe("sentencizer")
+    try:
+        nlspa.add_pipe("sentencizer")
+    except Exception as e:
+        pass
 
     # pers_org_entities_list
     # we will use this one later to make a filter at the end

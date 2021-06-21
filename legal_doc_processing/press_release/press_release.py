@@ -1,6 +1,6 @@
 import os
 
-from legal_doc_processing.utils import get_pipeline, get_spacy
+from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_
 
 # from legal_doc_processing.utils import load_data
 
@@ -36,6 +36,7 @@ class PressRelease:
         file_path: str = None,
         nlpipe=None,
         nlspa=None,
+        n_paragraphs=4,
     ):
         """init method of the LegalDoc
         pos args :
@@ -52,15 +53,52 @@ class PressRelease:
         self.file_path = os.path.dirname(file_path) if file_path else None
         self.file_name = os.path.basename(file_path) if file_path else None
 
+        # pipe and spacy
         self.nlpipe = nlpipe if nlpipe else get_pipeline()
         self.nlspa = nlspa if nlspa else get_spacy()
+        try:
+            self.nlspa.add_pipe("sentencizer")
+        except Exception as e:
+            pass
 
         # text and clean
         self.raw_text = text
         self.struct_text = structure_press_release(text)
+        self.h1 = self.struct_text["h1"]
+        self.sub_article = "\n".join(
+            self.struct_text["article"].split("\n")[:n_paragraphs]
+        )
+
+        self.h1_sents = [i for i in nlspa(self.h1).sents]
+        self.sub_article.sents = [i for i in nlspa(self.sub_article).sents]
 
         # entities
-        self.pers_org_entities_list = get_entities_pers_orgs(self.struct_text)
+        self.pers_entities_list = list(
+            set(
+                get_label_(self.h1, "PERSON", self.nlspa)
+                + get_label_(self.sub_article, "PERSON", self.nlspa)
+            )
+        )
+        self.org_entities_list = list(
+            set(
+                get_label_(self.h1, "ORG", self.nlspa)
+                + get_label_(self.sub_article, "ORG", self.nlspa)
+            )
+        )
+
+        self.date_entities_list = list(
+            set(
+                get_label_(self.h1, "DATE", self.nlspa)
+                + get_label_(self.sub_article, "DATE", self.nlspa)
+            )
+        )
+        self.cost_entities_list = list(
+            set(
+                get_label_(self.h1, "MONEY", self.nlspa)
+                + get_label_(self.sub_article, "MONEY", self.nlspa)
+            )
+        )
+        self.pers_org_entities_list = self.org_entities_list + self.pers_entities_list
 
         # data points private
         self._feature_list = [

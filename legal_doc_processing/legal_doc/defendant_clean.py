@@ -1,7 +1,7 @@
 import os
 import copy
 
-import pandas as pd
+# import pandas as pd
 
 
 from legal_doc_processing.utils import (
@@ -35,7 +35,7 @@ def _clean_LLC_trailling_dot_comma(txt: str) -> str:
 
 
 def _clean_and(ans_list: list) -> list:
-    """we want ['alex', 'cecile', 'alex and cecile' ]  became ['alex', 'cecile'] """
+    """we want ['alex', 'cecile', 'alex and cecile' ] become ['alex', 'cecile'] """
 
     l = list()
     for ans in ans_list:
@@ -48,6 +48,7 @@ def _clean_and(ans_list: list) -> list:
             l.extend(ll)
 
     l = list(set(l))
+
     return l
 
 
@@ -158,7 +159,7 @@ def _sub_you_shall_not_pass(
     return ans_list
 
 
-def _you_shall_not_pass(ans_list):
+def _you_shall_not_pass(ans_list: list) -> list:
     """make _sub_shall_not_pass twice due to the -and- problem :
     ["alex and paul",] should become become ["alex", paul"]
     if so we need to clean twice"""

@@ -50,6 +50,9 @@ def _sub_shall_not_pass(txt: str) -> str:
 
     txt = _strip_trailling_comma_dot(txt)
 
+    if (len(txt) < 3) or (len(txt) > 24):
+        txt = ""
+
     return txt
 
 
@@ -89,7 +92,7 @@ def clean_ans(ans: list) -> list:
         if len(d["new_answer"]) == 0:
             # ans.pop(i)
             pass
-        if len(d["new_answer"]) == 1:
+        elif len(d["new_answer"]) == 1:
             # d["new_answer"] = list(d["new_answer"])[0]
             new_ans.append(
                 {
@@ -103,7 +106,7 @@ def clean_ans(ans: list) -> list:
                 }
             )
             # ans.pop(i)
-        if len(d["new_answer"]) > 1:
+        elif len(d["new_answer"]) > 1:
             l = [
                 {
                     "_id": d["_id"],

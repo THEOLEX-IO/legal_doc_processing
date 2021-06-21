@@ -1,17 +1,17 @@
-def product_juridiction_pairs():
+def _product_juridiction_pairs():
 
     cftc_cands = [
         "cftc",
         "Commodity Futures Trading Commission",
         "c.f.t.c",
-        "the Commodity Futures Trading Commission",
+        "Commodity Futures Trading Commission",
     ]
     doj_cands = ["doj", "department of justice", "d.o.j.", "the department of justice"]
     sec_cands = [
         "sec",
         "Securities and Exchange Commission",
         "s.e.c.",
-        "the Securities and Exchange Commission",
+        "Securities and Exchange Commission",
     ]
 
     cands = dict()
@@ -26,7 +26,7 @@ def _filter_jur(token, cands: list = None):
     """ """
 
     if not cands:
-        cands = product_juridiction_pairs()
+        cands = _product_juridiction_pairs()
 
     for k, v in cands.items():
         if token.lower().strip() == k.lower().strip():
@@ -35,10 +35,24 @@ def _filter_jur(token, cands: list = None):
     return ""
 
 
+def _filter_the(txt: str) -> str:
+    """ """
+
+    if txt.lower().strip().startswith("the"):
+        txt = txt[3:].strip()
+
+    return txt
+
+
 def _sub_shall_not_pass(txt) -> str:
     """ """
 
+    txt = _filter_the(txt)
+
     txt = _filter_jur(txt)
+
+    if (len(txt) < 3) or (len(txt) > 24):
+        txt = ""
 
     return txt
 
@@ -76,7 +90,7 @@ def clean_ans(ans):
                     "end": d["end"],
                     "score": d["score"],
                     "answer": d["answer"],
-                    "new_answer": list(d["new_answer"])[0],
+                    "new_answer": d["new_answer"][0],
                 }
             )
             # ans.pop(i)

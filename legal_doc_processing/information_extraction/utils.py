@@ -44,7 +44,16 @@ def merge_ans(ans, label="new_answer", threshold=0.1):
 
     # build dataframe
     df = pd.DataFrame(ans)
-    df = df.loc[:, ["score", label]]
+
+    # check
+    if not label in df.columns:
+        raise AttributeError(
+            f"pb  label in df.columns --> label is {label } cols are {df.columns}"
+        )
+
+    # select
+    droped = [i for i in df.columns if i not in ["score", label]]
+    df = df.drop(droped, axis=1, inplace=False)
 
     # group by ans and make cumutavie score of accuracy
     ll = [

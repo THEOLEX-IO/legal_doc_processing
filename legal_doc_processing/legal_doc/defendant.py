@@ -125,7 +125,7 @@ def predict_defendant(
     # ans is a list of dict, each dict has keys such as answer, score etc
     # for each answer we will clean this answer and create a new_answer more accurate
     cleaned_ans = ans
-    answer_label = "new_answer"
+    answer_label = "answer"
     if not len(cleaned_ans):
         cleaned_ans = [{answer_label: "--None--", "score": -1}]
 

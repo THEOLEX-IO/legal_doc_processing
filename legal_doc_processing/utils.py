@@ -26,10 +26,11 @@ def _if_not_spacy(nlpspa):
 def get_label_(txt: str, label: str, nlpspa=None) -> list:
     """check if a label in a text"""
 
+    print(label)
     nlpspa = _if_not_spacy(nlpspa)
 
     label = label.upper().strip()
-    assert label in ["PERSON", "ORG", "MONEY"]
+    assert label in ["PERSON", "ORG", "MONEY", "DATE"]
 
     ans = [i for i in nlpspa(txt).ents if i.label_ == label]
     ans = [str(p) for p in ans]

@@ -20,7 +20,7 @@ from legal_doc_processing.legal_doc.sentence import predict_sentence
 from legal_doc_processing.legal_doc.nature_of_violations import (
     predict_nature_of_violations,
 )
-
+from legal_doc_processing.legal_doc.currency import predict_currency
 from legal_doc_processing.legal_doc.structure import structure_legal_doc
 
 
@@ -142,6 +142,9 @@ class LegalDoc:
                 self.first_page, self.nlpipe
             )
             return self._monetary_sanction
+        elif feature == "currency":
+            self._currency = predict_currency(self.first_page, self.nlpipe)
+            return self._currency
         elif feature == "decision_date":
             self._decision_date = predict_decision_date(self.first_page)
             return self._decision_date
@@ -179,6 +182,7 @@ class LegalDoc:
             self._nature_of_violations = predict_nature_of_violations(
                 self.first_page, self.nlpipe
             )
+            self._currency = predict_currency(self.first_page, self.nlpipe)
             return self.feature_dict
         else:
             raise AttributeError("feature Not Implemented")

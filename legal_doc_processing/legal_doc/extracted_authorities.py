@@ -16,11 +16,11 @@ from legal_doc_processing.legal_doc.utils import (
     get_entities_pers_orgs,
 )
 
-from legal_doc_processing.legal_doc.extracted_authorities_clean import clean_ans
-
-from legal_doc_processing.legal_doc.defendant_clean import (
-    _sub_you_shall_not_pass,
+from legal_doc_processing.legal_doc.extracted_authorities_clean import (
+    clean_ans,
+    _sub_shall_not_pass,
 )
+
 
 from legal_doc_processing.information_extraction.utils import ask_all, merge_ans
 
@@ -96,7 +96,7 @@ def predict_extracted_authorities(
     # we will use this one later to make a filter at the end
     if not pers_org_entities_list:
         pers_org_entities_list = get_entities_pers_orgs(first_page)
-    pers_org_entities_list += list(_sub_you_shall_not_pass(pers_org_entities_list))
+    pers_org_entities_list += [_sub_shall_not_pass(i) for i in pers_org_entities_list]
 
     # items
     # doc / sents / ans
@@ -120,7 +120,7 @@ def predict_extracted_authorities(
     # clean ans
     # ans is a list of dict, each dict has keys such as answer, score etc
     # for each answer we will clean this answer and create a new_answer more accurate
-    cleaned_ans = ans
+    cleaned_ans = clean_ans(ans)
     answer_label = "new_answer"
     if not len(cleaned_ans):
         cleaned_ans = [{answer_label: "--None--", "score": -1}]

@@ -35,12 +35,31 @@ def _filter_jur(token, cands: list = None):
     return ""
 
 
+def _sub_shall_not_pass(txt) -> str:
+    """ """
+
+    txt = _filter_jur(txt)
+
+    return txt
+
+
+def _you_shall_not_pass(txt: str) -> list:
+    """ """
+
+    txt = _sub_shall_not_pass(txt)
+
+    if not txt:
+        return []
+
+    return [txt]
+
+
 def clean_ans(ans):
     """ """
 
     # clean ans
     _ = [d.update({"_id": i}) for i, d in enumerate(ans)]
-    _ = [d.update({"new_answer": _filter_jur(d["answer"])}) for d in ans]
+    _ = [d.update({"new_answer": _you_shall_not_pass(d["answer"])}) for d in ans]
 
     new_ans = list()
     for i, d in enumerate(ans):

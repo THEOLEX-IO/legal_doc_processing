@@ -1,16 +1,40 @@
-import re
+# import re
 
-import requests
-import asyncio
+# import requests
+# import asyncio
 
 import pandas as pd
-import numpy as np
 
-import heapq
-import nltk
-from cleantext import clean
+# import numpy as np
+
+# import heapq
+# import nltk
+# from cleantext import clean
 import spacy
-from transformers import pipeline, AutoModelForTokenClassification, AutoTokenizer
+from transformers import pipeline
+
+# AutoModelForTokenClassification, AutoTokenizer
+
+# from itertools import product
+
+
+def load_data(file_path: str) -> str:
+    """from file_path open read and return text; return text """
+
+    if ".pdf" in file_path:
+        raise AttributeError("Error : file recieved is a pdf, only txt supported")
+
+    with open(file_path, "r") as f:
+        txt = f.read()
+
+    return txt
+
+
+def make_dataframe(path: str = "./data/csv/files.csv"):
+
+    # read df
+    df = pd.read_csv(path)
+    return df
 
 
 def uniquize(iterable: list) -> list:
@@ -47,18 +71,6 @@ def get_label_(txt: str, label: str, nlpspa=None) -> list:
     return ans
 
 
-def get_pers(txt: str, nlpspa=None) -> list:
-    """ with spacy get entities PERSON"""
-
-    return get_label_(txt, "PERSON", nlpspa)
-
-
-def get_orgs(txt: str, nlpspa=None) -> list:
-    """ with spacy get entities ORG"""
-
-    return get_label_(txt, "ORG", nlpspa)
-
-
 def get_pipeline():
     """ build and return a piplein"""
 
@@ -93,25 +105,70 @@ def _ask(txt: str, quest: str, nlpipe, topk: int = 3) -> list:
     return nlpipe(question=quest, context=txt, topk=topk)
 
 
-def load_data(file_path: str) -> str:
-    """from file_path open read and return text; return text """
+def ask_all(txt, quest_pairs, nlpipe) -> list:
+    """asl all questions and return a list of dict """
 
-    if ".pdf" in file_path:
-        raise AttributeError("Error : file recieved is a pdf, only txt supported")
+    # txt
+    if not txt:
+        raise AttributeError(f"Attribute error txt ; txt is {txt}, format {type(txt)}")
 
-    with open(file_path, "r") as f:
-        txt = f.read()
+    # pipe
+    nlpipe = _if_not_pipe(nlpipe)
 
-    return txt
+    # ans
+    ans = []
+
+    # loop
+    for quest, label in quest_pairs:
+        ds = _ask(txt=txt, quest=quest, nlpipe=nlpipe)
+        _ = [d.update({"question": label}) for d in ds]
+        ans.extend(ds)
+
+    # sort
+    ans = sorted(ans, key=lambda i: i["score"], reverse=True)
+
+    return ans
 
 
-def make_dataframe(
-    path: str = "./data/csv/files.csv",
-):
+def merge_ans(ans, label="new_answer", threshold=0.1):
+    """based on new_answer we will make a groupby adding the scores for each new ans in a cumulative score
+    example [{new_ans : hello, score:0.3},{new_ans : hello, score:0.3}, ]
+    will become  [{new_ans : hello, score:0.6},]"""
 
-    # read df
-    df = pd.read_csv(path)
-    return df
+    # build dataframe
+    df = pd.DataFrame(ans)
+
+    # check
+    if not label in df.columns:
+        raise AttributeError(
+            f"pb  label in df.columns --> label is {label } cols are {df.columns}"
+        )
+
+    # select
+    droped = [i for i in df.columns if i not in ["score", label]]
+    df = df.drop(droped, axis=1, inplace=False)
+
+    # group by ans and make cumutavie score of accuracy
+    ll = [
+        {label: k, "cum_score": round(v.score.sum(), 2)}
+        for k, v in df.groupby(label)
+        if v.score.sum() > threshold
+    ]
+    ll = sorted(ll, key=lambda i: i["cum_score"], reverse=True)
+
+    return ll
+
+
+# def get_pers(txt: str, nlpspa=None) -> list:
+#     """ with spacy get entities PERSON"""
+
+#     return get_label_(txt, "PERSON", nlpspa)
+
+
+# def get_orgs(txt: str, nlpspa=None) -> list:
+#     """ with spacy get entities ORG"""
+
+#     return get_label_(txt, "ORG", nlpspa)
 
 
 # def clean_spec_chars(text: str) -> tuple:

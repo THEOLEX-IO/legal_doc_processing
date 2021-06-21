@@ -1,0 +1,73 @@
+import os
+
+from legal_doc_processing.utils import uniquize as _u
+
+from legal_doc_processing.press_release.utils import product_juridiction_pairs
+
+from legal_doc_processing.press_release.clean.extracted_authorities import _filter_jur
+
+
+def predict_extracted_authorities(obj: dict) -> list:
+    """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
+
+    # pipe, spa
+    nlspa = obj["nlspa"]
+
+    # choose the item
+    h1, abstract = obj["h1"], obj["abstract"]
+
+    # token filter h1
+    tok_h1 = [i.text.lower() for i in nlspa(h1)]
+    jur_h1 = [_filter_jur(i) for i in tok_h1]
+    jur_h1_clean = _u([i for i in jur_h1 if i])
+
+    # juri h1
+    if len(jur_h1_clean) >= 1:
+        return [(i, 100) for i in jur_h1_clean]
+
+    # token filter abstract
+    tok_abstract = [i.text.lower() for i in nlspa(abstract)]
+    jur_abstract = [_filter_jur(i) for i in tok_abstract]
+    jur_abstract_clean = _u([i for i in jur_abstract if i])
+
+    # juri abstract
+    if len(jur_abstract_clean) >= 1:
+        return [(i, 1) for i in jur_abstract_clean]
+
+    return [(str(-3), -1)]
+
+
+# if __name__ == "__main__":
+
+#     # import
+#     from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_
+#     from legal_doc_processing.press_release.loader import press_release_X_y
+#     from legal_doc_processing.press_release.structure import structure_press_release
+
+#     # laod
+#     nlpipe = get_pipeline()
+#     nlspa = get_spacy()
+
+#     # structured_press_release_r
+#     df = press_release_X_y(features="juridiction")
+#     df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
+
+#     # one
+#     one = df.iloc[0, :]
+#     one_struct = struct_doc = one.structured_txt
+#     one_h1 = one_struct["h1"]
+#     one_article = one_struct["article"]
+#     sub_one_article = "\n".join(one_article.split("\n")[:2])
+#     # pred_h1  ⁼ predict_juridiction(one_h1)
+#     # pred_abstract  ⁼ predict_juridiction(one_h1)
+#     pred = predict_extracted_authorities(one_struct, nlpipe=nlpipe, nlspa=nlspa)
+
+#     # # 1 to len(df)
+#     # print(f" {'y'.rjust(30)} -->  {'pred'} \n")
+#     # print(160 * "-")
+#     # for i in range(0, len(df)):
+#     #     juridiction = df.juridiction.iloc[i]
+#     #     i_text = df.txt.iloc[i]
+#     #     i_struct = df["structured_txt"].iloc[i]
+#     #     pred_ans = predict_juridiction(i_struct, nlspa=nlspa, nlpipe=nlpipe)
+#     #     print(f" {str(juridiction).rjust(30)} --> pred : {pred_ans}")

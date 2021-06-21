@@ -16,10 +16,11 @@ from legal_doc_processing.legal_doc.utils import (
     get_entities_pers_orgs,
 )
 
-
-from legal_doc_processing.legal_doc.defendant_clean import (
-    _sub_you_shall_not_pass,
+from legal_doc_processing.legal_doc.clean.extracted_authorities import (
+    clean_ans,
+    _sub_shall_not_pass,
 )
+
 
 from legal_doc_processing.information_extraction.utils import ask_all, merge_ans
 
@@ -30,9 +31,15 @@ def _question_helper(txt) -> list:
     _txt = txt.lower()
     res = list()
 
-    # violated
-    if "violat" in _txt.lower():
-        res.append("violated")
+    # reason
+    if "reason" in _txt.lower():
+        res.append("reason")
+    # filed
+    if "filed" in _txt.lower():
+        res.append("filed")
+    # filed
+    if "filled" in _txt.lower():
+        res.append("filled")
 
     return res
 
@@ -42,34 +49,33 @@ def _question_selector(key: str):
 
     res = list()
 
-    # violated
-    if "violat" in key:
+    # reason
+    if "reason" in key:
         qs = [
             #
-            ("what is the violation?", "what_violation"),
-            ("what are the violations?", "what_violations"),
+            ("Who has reason?", "who_reason"),
         ]
         res.extend(qs)
 
-    # elif "filed" in key:
-    #     qs = [
-    #         #
-    #         ("Who has filed?", "who_filed"),
-    #         ("Who filed?", "who_filed"),
-    #     ]
-    #     res.extend(qs)
-    # else:
-    #     qs = [
-    #         #
-    #         ("Who has reason?", "who_reason"),
-    #         ("Who has filed?", "who_filed"),
-    #     ]
-    #     res.extend(qs)
+    elif "filed" in key:
+        qs = [
+            #
+            ("Who has filed?", "who_filed"),
+            ("Who filed?", "who_filed"),
+        ]
+        res.extend(qs)
+    else:
+        qs = [
+            #
+            ("Who has reason?", "who_reason"),
+            ("Who has filed?", "who_filed"),
+        ]
+        res.extend(qs)
 
     return res
 
 
-def predict_nature_of_violations(
+def predict_extracted_authorities(
     first_page: list,
     nlpipe=None,
     nlspa=None,
@@ -90,7 +96,7 @@ def predict_nature_of_violations(
     # we will use this one later to make a filter at the end
     if not pers_org_entities_list:
         pers_org_entities_list = get_entities_pers_orgs(first_page)
-    pers_org_entities_list += list(_sub_you_shall_not_pass(pers_org_entities_list))
+    pers_org_entities_list += [_sub_shall_not_pass(i) for i in pers_org_entities_list]
 
     # items
     # doc / sents / ans
@@ -114,8 +120,8 @@ def predict_nature_of_violations(
     # clean ans
     # ans is a list of dict, each dict has keys such as answer, score etc
     # for each answer we will clean this answer and create a new_answer more accurate
-    cleaned_ans = ans
-    answer_label = "answer"
+    cleaned_ans = clean_ans(ans)
+    answer_label = "new_answer"
     if not len(cleaned_ans):
         cleaned_ans = [{answer_label: "--None--", "score": -1}]
 
@@ -128,9 +134,7 @@ def predict_nature_of_violations(
     # filert by spacy entities
     # we are sure that a personn or an org is NOT a violation so
     # if a prediction is in pers_org_entities_list, plz drop it
-    consitant_ans = [
-        i for i in merged_ans if i[answer_label] not in pers_org_entities_list
-    ]
+    consitant_ans = [i for i in merged_ans if i[answer_label] in pers_org_entities_list]
 
     # filter by threshold
     # we need to filter the score above which we consider that no a signe score but a
@@ -151,7 +155,7 @@ if __name__ == "__main__":
     # laod
     nlpipe = get_pipeline()
     nlspa = get_spacy()
-    # nlspa.add_pipe("sentencizer")
+    nlspa.add_pipe("sentencizer")
     pers_org_entities_list = None
     threshold = 0.4
 
@@ -162,9 +166,9 @@ if __name__ == "__main__":
     df["first_page"] = df.struct_doc.apply(lambda i: i["pages"][0])
 
     # test one
-    one = df.iloc[3, :]
+    one = df.iloc[1, :]
     struct_doc, one_struct = one.struct_doc
     first_page = one_first_page = one.first_page
     one_doc = nlspa(one_first_page)
 
-    pred = predict_nature_of_violations(first_page, nlpipe=nlpipe)
+    pred = predict_extracted_authorities(first_page, nlpipe=nlpipe)

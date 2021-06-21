@@ -7,12 +7,18 @@ from legal_doc_processing.utils import (
     _if_not_pipe,
     _if_not_spacy,
     _ask,
-    get_label_,
+    get_pers,
+    get_orgs,
+    get_pipeline,
 )
 
-from legal_doc_processing.legal_doc.decision_date_clean import (
-    clean_ans,
-    _sub_shall_not_pass,
+from legal_doc_processing.legal_doc.utils import (
+    get_entities_pers_orgs,
+)
+
+
+from legal_doc_processing.legal_doc.clean.defendant import (
+    _sub_you_shall_not_pass,
 )
 
 from legal_doc_processing.information_extraction.utils import ask_all, merge_ans
@@ -24,15 +30,9 @@ def _question_helper(txt) -> list:
     _txt = txt.lower()
     res = list()
 
-    # reason
-    if "violate" in _txt.lower():
-        res.append("violate")
-    # filed
-    if "filed" in _txt.lower():
-        res.append("filed")
-    # filed
-    if "filled" in _txt.lower():
-        res.append("filed")
+    # violated
+    if "violat" in _txt.lower():
+        res.append("violated")
 
     return res
 
@@ -42,33 +42,38 @@ def _question_selector(key: str):
 
     res = list()
 
-    # reason
-    if "violate" in key:
+    # violated
+    if "violat" in key:
         qs = [
             #
-            ("When was the violation?", "when_violation"),
-            ("When did the violation take place ?", "when_violation"),
-            ("When did the violations take place ?", "when_violations"),
+            ("what is the violation?", "what_violation"),
+            ("what are the violations?", "what_violations"),
         ]
         res.extend(qs)
 
-    # reason
-    if "filed" in key:
-        qs = [
-            #
-            ("When was filed a compliant?", "when_violation"),
-            ("When was the compliant filed?", "when_violation"),
-            ("When were the compliants filed?", "when_violations"),
-        ]
-        res.extend(qs)
+    # elif "filed" in key:
+    #     qs = [
+    #         #
+    #         ("Who has filed?", "who_filed"),
+    #         ("Who filed?", "who_filed"),
+    #     ]
+    #     res.extend(qs)
+    # else:
+    #     qs = [
+    #         #
+    #         ("Who has reason?", "who_reason"),
+    #         ("Who has filed?", "who_filed"),
+    #     ]
+    #     res.extend(qs)
 
     return res
 
 
-def predict_decision_date(
+def predict_nature_of_violations(
     first_page: list,
     nlpipe=None,
     nlspa=None,
+    pers_org_entities_list=None,
     threshold=0.2,
 ):
 
@@ -81,16 +86,17 @@ def predict_decision_date(
     except Exception as e:
         print(e)
 
+    # pers_org_entities_list
+    # we will use this one later to make a filter at the end
+    if not pers_org_entities_list:
+        pers_org_entities_list = get_entities_pers_orgs(first_page)
+    pers_org_entities_list += list(_sub_you_shall_not_pass(pers_org_entities_list))
+
     # items
     # doc / sents / ans
     doc = nlspa(first_page)
     sents = [i for i in doc.sents]
     ans = []
-
-    # date entities list
-    first_paragraphs = " ".join([i.text for i in sents[:6]])
-    date_entities_list = get_label_(first_paragraphs, "DATE", None)
-    date_entities_list += [_sub_shall_not_pass(i) for i in date_entities_list]
 
     # ask method
     # for each sentence
@@ -108,8 +114,8 @@ def predict_decision_date(
     # clean ans
     # ans is a list of dict, each dict has keys such as answer, score etc
     # for each answer we will clean this answer and create a new_answer more accurate
-    cleaned_ans = clean_ans(ans)
-    answer_label = "new_answer"
+    cleaned_ans = ans
+    answer_label = "answer"
     if not len(cleaned_ans):
         cleaned_ans = [{answer_label: "--None--", "score": -1}]
 
@@ -122,7 +128,9 @@ def predict_decision_date(
     # filert by spacy entities
     # we are sure that a personn or an org is NOT a violation so
     # if a prediction is in pers_org_entities_list, plz drop it
-    consitant_ans = [i for i in merged_ans if i[answer_label] in date_entities_list]
+    consitant_ans = [
+        i for i in merged_ans if i[answer_label] not in pers_org_entities_list
+    ]
 
     # filter by threshold
     # we need to filter the score above which we consider that no a signe score but a
@@ -143,19 +151,20 @@ if __name__ == "__main__":
     # laod
     nlpipe = get_pipeline()
     nlspa = get_spacy()
-    nlspa.add_pipe("sentencizer")
-    threshold = 0.2
+    # nlspa.add_pipe("sentencizer")
+    pers_org_entities_list = None
+    threshold = 0.4
 
     # structured_press_release_r
-    df = legal_doc_X_y()
+    df = legal_doc_X_y(features="defendant")
     df["struct_doc"] = df.txt.apply(lambda i: structure_legal_doc(i))
     df["header"] = df.struct_doc.apply(lambda i: i["header"])
     df["first_page"] = df.struct_doc.apply(lambda i: i["pages"][0])
 
     # test one
-    one = df.iloc[1, :]
+    one = df.iloc[3, :]
     struct_doc, one_struct = one.struct_doc
     first_page = one_first_page = one.first_page
     one_doc = nlspa(one_first_page)
 
-    pred = predict_decision_date(first_page, nlpipe=nlpipe)
+    pred = predict_nature_of_violations(first_page, nlpipe=nlpipe)

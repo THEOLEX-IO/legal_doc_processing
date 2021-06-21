@@ -7,9 +7,6 @@ from legal_doc_processing.utils import (
     _if_not_pipe,
     _if_not_spacy,
     _ask,
-    get_pers,
-    get_orgs,
-    get_pipeline,
     get_label_,
 )
 
@@ -29,7 +26,7 @@ def _question_helper(txt) -> list:
 
     # reason
     if "violate" in _txt.lower():
-        res.append("viloate")
+        res.append("violate")
     # filed
     if "filed" in _txt.lower():
         res.append("filed")
@@ -68,24 +65,6 @@ def _question_selector(key: str):
     return res
 
 
-# def _you_shall_not_pass(date):
-#     """avoid passing for a studid algo """
-
-#     # validation funct
-#     funct = lambda i: True if str(i) in date else False
-
-#     # features to validate
-#     features = [(range(1979, 2023), "years"), (range(1, 32), "day")]
-
-#     # if a feature not in date retunr --None--
-#     for feat, _ in features:
-#         is_ok = bool(sum([funct(i) for i in feat]))
-#         if not is_ok:
-#             return "--None--"
-
-#     return date
-
-
 def predict_decision_date(
     first_page: list,
     nlpipe=None,
@@ -108,9 +87,10 @@ def predict_decision_date(
     sents = [i for i in doc.sents]
     ans = []
 
-    # ALL DATES
-    # first_paragraphs = " ".join([i.text for i in sents[:6]])
-    # all_dates = get_label_(first_paragraphs, "DATE", None)
+    # date entities list
+    first_paragraphs = " ".join([i.text for i in sents[:6]])
+    date_entities_list = get_label_(first_paragraphs, "DATE", None)
+    date_entities_list += [_sub_shall_not_pass(i) for i in date_entities_list]
 
     # ask method
     # for each sentence
@@ -142,12 +122,12 @@ def predict_decision_date(
     # filert by spacy entities
     # we are sure that a personn or an org is NOT a violation so
     # if a prediction is in pers_org_entities_list, plz drop it
-    # consitant_ans = [i for i in merged_ans if i[answer_label] in pers_org_entities_list]
+    consitant_ans = [i for i in merged_ans if i[answer_label] in date_entities_list]
 
     # filter by threshold
     # we need to filter the score above which we consider that no a signe score but a
     # cumulative score (much more strong, accurante and solid) will be droped
-    flatten_ans = [(i[answer_label], i["cum_score"]) for i in merged_ans]
+    flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]
     last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
 
     return last_ans
@@ -178,4 +158,4 @@ if __name__ == "__main__":
     first_page = one_first_page = one.first_page
     one_doc = nlspa(one_first_page)
 
-    # pred = predict_extracted_authorities(first_page, nlpipe=nlpipe)
+    pred = predict_decision_date(first_page, nlpipe=nlpipe)

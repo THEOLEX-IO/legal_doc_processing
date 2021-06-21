@@ -39,6 +39,24 @@ def _strip_trailling_comma_dot(txt: str) -> str:
     return txt
 
 
+# def avoid_dummy dates(date):
+#     """avoid passing for a studid algo """
+
+#     # validation funct
+#     funct = lambda i: True if str(i) in date else False
+
+#     # features to validate
+#     features = [(range(1979, 2023), "years"), (range(1, 32), "day")]
+
+#     # if a feature not in date retunr --None--
+#     for feat, _ in features:
+#         is_ok = bool(sum([funct(i) for i in feat]))
+#         if not is_ok:
+#             return "--None--"
+
+#     return date
+
+
 def _sub_shall_not_pass(txt: str) -> str:
     """ """
 

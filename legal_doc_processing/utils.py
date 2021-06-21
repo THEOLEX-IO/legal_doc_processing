@@ -35,7 +35,7 @@ def _if_not_spacy(nlpspa):
 def get_label_(txt: str, label: str, nlpspa=None) -> list:
     """check if a label in a text"""
 
-    print(label)
+    # print(label)
     nlpspa = _if_not_spacy(nlpspa)
 
     label = label.upper().strip()

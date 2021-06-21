@@ -163,45 +163,45 @@ def structure_press_release(txt: str) -> dict:
     return dd
 
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
-    # import
-    from legal_doc_processing.press_release.loader import press_release_X_y
-    from legal_doc_processing.press_release.structure import structure_press_release
+#     # import
+#     from legal_doc_processing.press_release.loader import press_release_X_y
+#     from legal_doc_processing.press_release.structure import structure_press_release
 
-    # structured_press_release_list
-    df = press_release_X_y(features="defendant")
-    df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
+#     # structured_press_release_list
+#     df = press_release_X_y(features="defendant")
+#     df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
 
-    # one
-    one_text = df.txt.iloc[0]
-    one_struct = df["structured_txt"].iloc[0]
-    one_list = [(k, str(v)[:100] + "...") for k, v in one_struct.items()]
-    one_str = "\n".join([f"{i.rjust(10)}\t:\t{j}" for i, j in one_list])
-    print(one_str + "\n")
+#     # one
+#     one_text = df.txt.iloc[0]
+#     one_struct = df["structured_txt"].iloc[0]
+#     one_list = [(k, str(v)[:100] + "...") for k, v in one_struct.items()]
+#     one_str = "\n".join([f"{i.rjust(10)}\t:\t{j}" for i, j in one_list])
+#     print(one_str + "\n")
 
-    # two to five
-    for i in range(1, 6):
-        i_text = df.txt.iloc[i]
-        i_struct = df["structured_txt"].iloc[1]
-        i_list = [(k, str(v)[:100] + "...") for k, v in i_struct.items()]
-        i_str = "\n".join([f"{i.rjust(10)}\t:\t{j}" for i, j in i_list])
-        print(i_str + "\n")
+#     # two to five
+#     for i in range(1, 6):
+#         i_text = df.txt.iloc[i]
+#         i_struct = df["structured_txt"].iloc[1]
+#         i_list = [(k, str(v)[:100] + "...") for k, v in i_struct.items()]
+#         i_str = "\n".join([f"{i.rjust(10)}\t:\t{j}" for i, j in i_list])
+#         print(i_str + "\n")
 
-    # all
-    df["_id"] = df.structured_txt.apply(lambda i: i["id"])
-    df["date"] = df.structured_txt.apply(lambda i: i["date"])
-    df["h1"] = df.structured_txt.apply(lambda i: i["h1"])
-    df["article"] = df.structured_txt.apply(lambda i: i["article"])
-    df["lines"] = df.structured_txt.apply(lambda i: i["lines"])
+#     # all
+#     df["_id"] = df.structured_txt.apply(lambda i: i["id"])
+#     df["date"] = df.structured_txt.apply(lambda i: i["date"])
+#     df["h1"] = df.structured_txt.apply(lambda i: i["h1"])
+#     df["article"] = df.structured_txt.apply(lambda i: i["article"])
+#     df["lines"] = df.structured_txt.apply(lambda i: i["lines"])
 
-    df["error"] = df.structured_txt.apply(lambda i: i["error"])
+#     df["error"] = df.structured_txt.apply(lambda i: i["error"])
 
-    # df._id
-    # df.date
-    # df.h1
-    # df.article
-    # df.error
+#     # df._id
+#     # df.date
+#     # df.h1
+#     # df.article
+#     # df.error
 
-    # find errors
-    df_errors = df.loc[df.error > 0, :]
+#     # find errors
+#     df_errors = df.loc[df.error > 0, :]

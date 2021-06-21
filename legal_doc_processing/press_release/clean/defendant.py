@@ -1,22 +1,6 @@
 import os
-import copy
 
-import pandas as pd
-
-
-from legal_doc_processing.utils import (
-    _if_not_pipe,
-    _if_not_spacy,
-    _ask,
-    get_pers,
-    get_orgs,
-    get_pipeline,
-)
-
-from legal_doc_processing.press_release.utils import (
-    product_juridic_form,
-    get_entities_pers_orgs,
-)
+from legal_doc_processing.press_release.utils import product_juridic_form
 
 
 def _clean_LLC_trailling_dot_comma(txt: str) -> str:
@@ -115,13 +99,15 @@ def _sub_you_shall_not_pass(
         "Personal Expenses",
         "Commodity Futures",
         "Commodity Exchange ",
-        "CFTC",
+        "Federal Court" "CFTC",
         "U.S. District Court",
         "Commodity Exchange",
         "an Unregistered",
         "Swap Dealer",
         "Commodity Trading",
-        "Commodity Pool ",
+        "Commodity Pool",
+        "Court",
+        "Federal",
     ]
 
     for f in forbiden:

@@ -41,7 +41,7 @@ def predict_defendant(
     nlpipe=None,
     pers_org_entities_list=None,
     threshold=0.4,
-):
+) -> list:
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # pipe to avoid re init a pipe each time (+/- 15 -> 60 sec)
@@ -116,23 +116,3 @@ if __name__ == "__main__":
 
     # pred one
     pred = predict_defendant(one_struct, nlpipe)
-
-    # ents
-    # org_h1 = get_label_(one_h1)
-    # org_article = get_label_(sub_one_article)
-    # pers_h1 = get_pers(one_h1)
-    # pers_article = get_pers(sub_one_article)
-
-    # print(f" {'y'.rjust(80)} -->  {'pred'} \n")
-    # print(160 * "-")
-    # print(f" {defendant.rjust(80)} -->  {pred[:60]} \n")
-
-    # # 1 to len(df)
-    # print(f" {'y'.rjust(60)} -->  {'pred'} \n")
-    # print(160 * "-")
-    # for i in range(0, len(df)):
-    #     defendant = df.defendant.iloc[i]
-    #     i_text = df.txt.iloc[i]
-    #     i_struct = df["structured_txt"].iloc[i]
-    #     pred = predict_defendant(i_struct, nlpipe)
-    #     print(f" {defendant.rjust(60)} -->  {pred[:100]} \n")

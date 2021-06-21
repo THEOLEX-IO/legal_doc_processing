@@ -158,7 +158,7 @@ def _sub_you_shall_not_pass(
     return ans_list
 
 
-def _you_shall_not_pass(ans_list):
+def _you_shall_not_pass(ans_list: list) -> list:
     """make _sub_shall_not_pass twice due to the -and- problem :
     ["alex and paul",] should become become ["alex", paul"]
     if so we need to clean twice"""
@@ -178,7 +178,7 @@ def _you_shall_not_pass(ans_list):
     return _new_list
 
 
-def clean_ans(ans):
+def clean_ans(ans: list) -> list:
     """ans is a list of dict. each dict is  : {answer:"foo", score:0.32}.
     for each dict,  add and _id and a new_ans based on the _you_shall_not_pass method
     the _you_shall_not_pass method is able to ditect:

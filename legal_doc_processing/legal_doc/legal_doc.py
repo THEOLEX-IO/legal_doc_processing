@@ -185,6 +185,7 @@ class LegalDoc:
                 self.first_page, self.nlpipe
             )
             self._currency = predict_currency(self.first_page)
+
             return self.feature_dict
         else:
             raise AttributeError("feature Not Implemented")
@@ -236,9 +237,7 @@ if __name__ == "__main__":
     # legal_doc structured
     df = legal_doc_X_y()
     df = df.iloc[:4, :]
-    df["obj"] = df.txt.apply(lambda i: LegalDoc(i, nlpipe=nlpipe))
-    df["header"] = df.obj.apply(lambda i: i.structured_text["header"])
-    df["first_page"] = df.obj.apply(lambda i: i.structured_text["pages"][0])
+    df["obj"] = df.txt.apply(lambda i: LegalDoc(i, nlpipe=nlpipe, nlspa=nlspa))
 
     # preds
     t = time.time()

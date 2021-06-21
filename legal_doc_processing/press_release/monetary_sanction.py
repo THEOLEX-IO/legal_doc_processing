@@ -120,10 +120,10 @@ def predict_monetary_sanction(struct_doc: list, nlpipe=None, nlspa=None):
 
     # cost in h1
     if len(money_h1_clean) == 1:
-        return str(money_h1_clean[0])
+        return [(str(money_h1_clean[0]), 1)]
 
     if len(money_h1_clean) > 1:
-        return str(-2)
+        return [(str(-2), 1)]
 
     # get_label article
 
@@ -140,7 +140,7 @@ def predict_monetary_sanction(struct_doc: list, nlpipe=None, nlspa=None):
     else:
         return [(str(-1), -1)]
 
-    return str(-3)
+    return [(str(-3),)]
 
 
 #     return resp

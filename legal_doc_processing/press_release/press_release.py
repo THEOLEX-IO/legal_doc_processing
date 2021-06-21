@@ -17,6 +17,7 @@ from legal_doc_processing.press_release.structure import structure_press_release
 from legal_doc_processing.press_release.nature_of_violations import (
     predict_nature_of_violations,
 )
+from legal_doc_processing.press_release.currency import predict_currency
 
 from legal_doc_processing.press_release.utils import get_entities_pers_orgs
 
@@ -63,6 +64,7 @@ class PressRelease:
 
         # data points private
         self._feature_list = [
+            "_currency",
             "_reference",
             "_monetary_sanction",
             "_decision_date",
@@ -85,7 +87,11 @@ class PressRelease:
         return ",".join(clean_l(item_list))
 
     @property
-    def case(self):
+    def currency(self):
+        return self.strize(self._currency)
+
+    @property
+    def reference(self):
         return self.strize(self._reference)
 
     @property
@@ -131,7 +137,7 @@ class PressRelease:
     def predict(self, feature) -> str:
         """ """
 
-        if feature == "case":
+        if feature == "reference":
             self._reference = [(-1, -1)]
             return self._reference
         elif feature == "monetary_sanction":
@@ -139,6 +145,9 @@ class PressRelease:
                 self.struct_text, nlpipe=self.nlpipe, nlspa=self.nlspa
             )
             return self._monetary_sanction
+        elif feature == "currency":
+            self._currency = predict_currency(self.struct_text)
+            return self._currency
         elif feature == "decision_date":
             self._decision_date = predict_decision_date(self.struct_text)
             return self._decision_date
@@ -176,6 +185,7 @@ class PressRelease:
             return self._nature_of_violations
         elif feature == "all":
             self._reference = [(-1, -1)]
+            self._currency = predict_currency(self.struct_text)
             self._monetary_sanction = predict_monetary_sanction(
                 self.struct_text, self.nlpipe, nlspa=self.nlspa
             )
@@ -190,7 +200,8 @@ class PressRelease:
             self._nature_of_violations = predict_nature_of_violations(
                 self.struct_text, self.nlpipe
             )
-            return self._feature_dict
+
+            return self.feature_dict
         else:
             raise AttributeError("feature Not Implemented")
 
@@ -259,12 +270,5 @@ if __name__ == "__main__":
     # 1st one
     one = df.iloc[0, :]
     one_txt = one.txt
-    self = one_pr = one.obj
-    pred = one_pr.predict_all()
-
-    # for i in range(len(df)):
-
-    #     one = df.iloc[0, :]
-    #     one_txt = one.txt
-    #     one_pr = one.obj
-    #     pred = one_pr.predict_all()
+    one_ob = one.obj
+    one_pred = one.preds

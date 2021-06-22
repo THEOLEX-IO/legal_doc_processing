@@ -1,19 +1,15 @@
 import re
 
 
-def predict_reference(struct_doc, length_treshold=50):
+def predict_reference(obj: dict, length_treshold=50) -> list:
     """parse the first page line by line, matching a
     regex pattern refering to case feature
     example 'NO.: 14-CV-81216'
     return the result"""
 
     # use header and 1st page
-    txt = struct_doc["header"] + struct_doc["pages"][0]
-
-    # split
+    txt = obj["h1"] + obj["abstract"]
     first_page = txt.splitlines()
-
-    # dump small char lines
     first_page = [i for i in first_page if len(i) >= 4]
 
     # format result
@@ -55,3 +51,39 @@ def predict_reference(struct_doc, length_treshold=50):
         rr = "-".join([i.strip() for i in r_spilt])
 
     return [(rr, 1)]
+
+
+if __name__ == "__main__":
+
+    # import
+    import time
+    from legal_doc_processing.utils import get_pipeline, get_spacy
+    from legal_doc_processing.legal_doc.loader import legal_doc_X_y
+    from legal_doc_processing.legal_doc.legal_doc import LegalDoc
+
+    # laod
+    nlpipe = get_pipeline()
+    nlspa = get_spacy()
+    nlspa.add_pipe("sentencizer")
+
+    # data
+    threshold = 0.2
+    n_sents = 7
+    feature = "reference"
+
+    # structured_press_release_r
+    df = legal_doc_X_y(features="defendant")
+    df = df.iloc[:2, :]
+    df["ld"] = [LegalDoc(i, nlpipe=nlpipe, nlspa=nlspa) for i in df.txt.values]
+
+    # preds
+    t = time.time()
+    # 28 objects --> 181 secondes so --> +/-10 secondes per objects
+    df["pred_" + feature] = df.ld.apply(lambda i: i.predict(feature))
+    t = time.time() - t
+
+    # 1st one
+    one = df.iloc[0, :]
+    one_txt = one.txt
+    one_ld = self = one.ld
+    obj = self.data

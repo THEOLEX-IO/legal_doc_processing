@@ -192,7 +192,7 @@ if __name__ == "__main__":
     # preds
     t = time.time()
     # 28 objects --> 181 secondes so --> +/-10 secondes per objects
-    df["preds"] = df.obj.apply(lambda i: i.predict_all())
+    df["pred_juridiction"] = df.obj.apply(lambda i: i.predict("juridiction"))
     t = time.time() - t
 
     # labels

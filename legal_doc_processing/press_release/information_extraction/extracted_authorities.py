@@ -16,6 +16,12 @@ def predict_extracted_authorities(obj: dict) -> list:
     # choose the item
     h1, abstract = obj["h1"], obj["abstract"]
 
+    # both h1 and abstract
+    h1 = h1.strip()
+    h1 = h1 if h1[-1] != "\n" else h1[:-1]
+    h1 = h1 if h1[-1] in [".", ". "] else h1 + ". "
+    text = h1 + abstract
+
     # token filter h1
     tok_h1 = [i.text.lower() for i in nlspa(h1)]
     jur_h1 = [_filter_jur(i) for i in tok_h1]
@@ -37,23 +43,27 @@ def predict_extracted_authorities(obj: dict) -> list:
     return [(str(-3), -1)]
 
 
-# if __name__ == "__main__":
+if __name__ == "__main__":
 
-#     # import
-#     from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_
-#     from legal_doc_processing.press_release.loader import press_release_X_y
-#     from legal_doc_processing.press_release.structure import structure_press_release
+    # import
+    import time
+    from legal_doc_processing.utils import get_pipeline, get_spacy
+    from legal_doc_processing.press_release.loader import press_release_X_y
+    from legal_doc_processing.press_release.press_release import PressRelease
 
-#     # laod
-#     nlpipe = get_pipeline()
-#     nlspa = get_spacy()
+    # laod
+    nlpipe = get_pipeline()
+    nlspa = get_spacy()
+    nlspa.add_pipe("sentencizer")
 
-#     # structured_press_release_r
-#     df = press_release_X_y(features="juridiction")
-#     df["structured_txt"] = [structure_press_release(i) for i in df.txt.values]
+    # structured_press_release_r
+    df = press_release_X_y(features="defendant")
+    df = df.iloc[:7, :]
+    df["obj"] = [PressRelease(i, nlpipe=nlpipe, nlspa=nlspa) for i in df.txt.values]
 
-#     # one
-#     one = df.iloc[0, :]
+    # one
+    one = df.iloc[0, :]
+    self = obj = one_obj = one.obj
 #     one_struct = struct_doc = one.structured_txt
 #     one_h1 = one_struct["h1"]
 #     one_article = one_struct["article"]

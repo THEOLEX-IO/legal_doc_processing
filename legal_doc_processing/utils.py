@@ -2,7 +2,7 @@
 
 # import requests
 # import asyncio
-
+import numpy as np
 import pandas as pd
 
 # import numpy as np
@@ -16,6 +16,12 @@ from transformers import pipeline
 # AutoModelForTokenClassification, AutoTokenizer
 
 # from itertools import product
+
+
+def softmax(x):
+    """Compute softmax values for each sets of scores in x."""
+    e_x = np.exp(x - np.max(x))
+    return e_x / e_x.sum(axis=0)  # only difference # correct solution:
 
 
 def load_data(file_path: str) -> str:
@@ -37,13 +43,6 @@ def make_dataframe(path: str = "./data/csv/files.csv"):
     return df
 
 
-def strize(item_list):
-    """ """
-
-    clean_l = lambda item_list: [str(i).strip() for i, j in item_list]
-    return ",".join(clean_l(item_list))
-
-
 def uniquize(iterable: list) -> list:
     """ """
 
@@ -51,6 +50,20 @@ def uniquize(iterable: list) -> list:
         return list(set(iterable))
     except Exception as e:
         return []
+
+
+def strize(item_list):
+    """ """
+
+    non_null = [(i, j) for i, j in item_list if j > 0]
+    if not non_null:
+        return ""
+
+    clean_l = lambda item_list: [str(i).strip() for i, j in non_null]
+
+    unique_l = uniquize(clean_l)
+
+    return ",".join(clean_l(unique_l))
 
 
 def get_spacy():

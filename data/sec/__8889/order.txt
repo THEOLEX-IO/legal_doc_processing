@@ -1,0 +1,499 @@
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK JUDGE FAILLA
+
+ 
+
+fe
+
+SECURITIES AND EXCHANGE COMMISSION, _f 4 CV 9 O
+
+Plaintiff, : Civil No.
+
+og
+
+ 
+
+V.
+
+AVON PRODUCTS, INC., COMPLAINT
+
+lege6.S.D.C. S.D.N.Y.
+
+   
+   
+
+Defendant.
+
+ 
+  
+
+ 
+
+ 
+
+ 
+
+Plaintiff Securities and Exchange Commission (âCommissionâ)
+
+ 
+
+SUMMARY OF ALLEGATIONS
+
+1, This matter concerns violations by Avon Products, Inc. (âAvonâ) of the corporate
+recordkeeping and internal controls provisions of the federal securities laws.
+
+2. Avon is a global provider of beauty products, primarily using a direct sales
+method. Avonâs common stock is registered pursuant to Section 12(b) of the Securities
+Exchange Act of 1934 (âExchange Actâ) [15 U.S.C. Â§78/(b)].
+
+5. From 2004 through the third quarter of 2008, Avonâs books and records failed to
+accurately and fairly reflect payments by Avon Products (China) Co., Ltd. (âAvon Products
+Chinaâ) to Chinese government officials.
+
+4. Avon Products China provided cash and things of value, including gifts, travel,
+and entertainment, to various Chinese government officials, including government officials
+responsible for awarding a test license, and subsequently a direct sales business license, that
+
+would allow a company to utilize direct door-to-door selling in China. Avon Products China
+was, in fact, awarded a test license and, then, the first official direct selling business license in
+China. Avon Products China also adopted an internal âno penalty policyâ and provided cash and
+things of value to Chinese government officials to avoid fines and other penalties in order to
+maintain an ostensibly pristine corporate image. Avon Products China also paid a third-party
+consultant for purportedly legitimate interactions with government officials, even though Avon
+Products China management knew the consultantâs invoices were often false and could not point
+to legitimate services provided by the consultant. At times, payments were made to suppress
+negative news in state-owned media and to obtain competitor information. In addition, Avon
+Products China provided cash to government officials on behalf of other Avon subsidiaries in
+China.
+
+5. Avon Products China falsified its books and records so as to conceal the cash and
+things of value provided to government officials.
+
+6. Near the end of 2005, an Avon internal audit team reported potential issues
+concerning things of value provided to Chinese government officials. Nevertheless, remedial
+measures sufficient to address the issues were not implemented at Avon Products China. Similar
+issues related to Avon Products China were raised at the end of 2006. Again, responsive
+remedial measures were not implemented.
+
+es The books and records at Avon Products China were consolidated into the books
+and records of Avon. Avon thus violated Section 13(b)(2)(A) of the Exchange Act MS LA.
+
+Â§ 78m(b)(2)(A)] by failing to make and keep books, records, and accounts, which, in reasonable
+detail, accurately and fairly reflected the transactions and disposition of assets of the issuer.
+
+8. By failing to ensure that it maintained adequate internal controls sufficient to
+
+record the nature and purpose of payments, or to prevent improper payments, to government
+officials, Avon failed to devise and maintain a system of internal accounting controls sufficient
+to provide reasonable assurances that its transactions and the disposition of its assets were
+recorded correctly, accurately, and in accordance with authorization of management. Avon
+thereby violated Section 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(B)].
+
+9. Finally, in May 2008, Avon began a review of its compliance with the Foreign
+Corrupt Practices Act (âFCPAâ), the U.S. legislation that, among other things, prohibits
+payments to foreign government officials to obtain or retain business. As a result of its review,
+the company instituted extensive, related reforms.
+
+JURISDICTION AND VENUE
+
+10. This court has jurisdiction over this action pursuant to Sections 21(d), 21(e), and
+27 of the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e), and 78aa].
+
+11. Venue is proper in this District pursuant to Section 27 of the Exchange Act [15
+U.S.C. Â§ 78aa].
+
+DEFENDANT
+
+12. Avon Products, Inc. is a New York corporation that has its headquarters in New
+York City. The company is a global manufacturer and marketer of beauty products. Avon
+primarily sells its products through direct selling by over 6 million active independent sales
+representatives. The company has wholly owned subsidiaries throughout the world with sales or
+distribution of its products in over 100 countries located in North America, Latin America,
+Europe, the Middle East, Africa, and Asia. The financial results of Avonâs wholly owned
+subsidiaries are ultimately consolidated into the financial statements of Avon. Throughout the
+relevant period, Avonâs shares were registered pursuant to Section 12(b) of the Exchange Act
+
+[15 U.S.C. Â§ 78/(b)] and quoted on the New York Stock Exchange (symbol: AVP).
+RELATED ENTITIES
+
+Lay Avon Products (China) Co. Ltd. is headquartered in Guangzhou, China. Avon
+Products China is a wholly owned indirect subsidiary of Avon. Avon controls two other Chinese
+subsidiaries through Avon Products China: Avon Manufacturing (Guangzhou) Ltd. (âAvon
+Manufacturing Chinaâ) and Avon Healthcare Products Manufacturing (Guangzhou) Limited
+(âAvon Healthcare Chinaâââ).
+
+STATEMENT OF FACTS
+
+Avonâs Business Operations in China
+
+14. Avon Products China began operations in the Peopleâs Republic of China in 1989
+as part of a joint venture that manufactured its products and used a direct selling model.
+However, in 1998 the Chinese government banned all direct selling. For a number of years,
+Avon then marketed its products in independently owned retail operations called âBeauty
+Boutiques.â When China subsequently expressed an interest in joining the World Trade
+Organization (âWTOâ), the WTO requested that the Chinese government consider allowing
+direct selling in the country as part of its admission into the organization. In 2001, the Chinese
+government agreed to allow direct selling within three years. Avon wanted to influence the
+legislation and regulations governing the reimplementation of direct selling in China. Avon also
+wanted to be the first company to implement direct selling if, and when, the new regulations
+
+became effective.
+
+Avon Products Chinaâs Books and Records Attempt to Hide Payments to Government
+Officials
+
+15. In the years leading up to 2003, Avon Products China had expanded its
+government relations department to liaise with the Ministry of Commerce (ââMOFCOMâ) and the
+
+State Administration for Industry and Commerce (âAICâ), the government agencies responsible
+
+4
+for the implementation of direct selling regulation. In April 1999, an Avon Asia-Pacific
+subsidiary hired an executive to, as stated in his employment agreement, âbring [ Avon] to the
+attention of relevant organizations and help open doors and develop the required âGuanxiâ to
+successfully conduct business.â (âGuanxiâ is a Chinese term that roughly translates as
+âgoodwill.â) The executive was seconded to Avon Products China as its Vice President in
+Corporate Affairs, the department with oversight and liaison responsibility for government
+agencies on a national, provincial, and local level. Employees in the Corporate Affairs
+department provided gifts, entertainment, and travel to government officials in these agencies for
+the purpose of influencing the direct selling laws and to position Avon Products China as one of
+the companies to be selected to test direct selling when the new regulations were implemented.
+
+16. In October 2003, Avon was told informally that when China opened its markets to
+direct selling, Avon Products China would be the first company to receive a test license. During
+this period, Avon Products China continued to provide meals, travel, and entertainment to
+MOFCOM and AIC officials. Avon Products China also sponsored cultural events, paid for
+journalists to attend corporate announcements, and purchased the placement of positive news
+stories--or the suppression of negative news stories--in government media, to maintain a positive
+corporate image of the company.
+
+LT. In April 2004, when the form of the direct selling regulations was being
+negotiated within the Chinese government agencies, Avon continued to receive informal
+communications that Avon Products China would be the first company allowed to test the new
+regulations. After these communications, Avon Products China continued to provide travel,
+meals, and entertainment and. began to meet more frequently with provincial and local
+
+MOFCOM and AIC officials. . Avon Products China also retained the services of a third-party
+consultant (âConsulting Company 1â) to manage public-relations-related affairs with the
+government and external parties and to handle media matters in provinces and localities where
+the subsidiary did not maintain an office. Avon Products China did not contractually bind
+Consulting Company | to comply with the FCPA.
+
+18. The Chinese government decided to issue one company a temporary license to
+conduct direct sales to test the planned regulations. In April 2005, MOFCOM and AIC officially
+approved Avon Products China as the first company to receive test approval to conduct direct
+selling in Beijing, Tianjin, and Guangdong Province.
+
+1D, In April 2005, based on interviews and preliminary procedures it had conducted
+in China, Avonâs global internal audit flagged gifts to government officials and inadequacies in
+related recordkeeping as an area of concern. Then, in a limited review conducted in May 2005,
+Avonâs internal audit personnel observed that employees of Avon Products China had incurred
+meals and entertainment expenses with government officials, but had failed to record the names
+of the government officials or the business purpose of the expenses. As a result, Avonâs Vice
+President, Internal Audit opened an internal compliance case and noted that a further review of
+discretionary payments would be made in an upcoming limited scope internal audit.
+
+20. During the spring and summer of 2005, Avonâs global internal audit department
+considered the need to provide training on the provisions of the FCPA in the Asia-Pacific region,
+including China. However, ultimately, Avon determined that its budget for that year would not
+allow it to provide stand-alone FCPA training in the region.
+
+21. In September 2005, an Avon internal audit team conducted field work for the
+limited scope audit, including looking at discretionary payments at the Corporate Affairs
+
+department in China. In late September, the team generated a draft report prominently noting
+that it was a common business practice for Avon Products China to offer gifts and meals to
+various government officials and that the majority of the government-related activities at Avon
+Products China were not adequately documented. The draft report also noted that the gifts and
+meals might be construed as the companyâs intent to expedite licenses from the government or to
+avoid unfavorable rulings against the company, therefore potentially violating the provisions of
+the FCPA. The day before the audit closing meeting, the senior management of Avon Products
+China told the internal audit team that recording the name of the government official and the
+purpose of the meeting would have a chilling effect with the officials. The internal audit team
+and the senior management of Avon Products China brought the draft report to the attention of
+the V.P. Internal Audit, who headed Avonâs global internal audit department. The V.P. Internal
+Audit in turn brought the draft audit report and its language to the attention of Avonâs General
+Counsel.
+
+22. Avonâs Legal Department took the position that conclusions about potential
+FCPA violations fell within the purview of Legal, and not Internal Audit. The V.P. Internal
+Audit directed the internal audit team to have the FCPA conclusions removed from the draft,
+pending further study of the issues. After the V.P. Internal Audit conferred with the Vice
+President of Finance, Asia-Pacific, the internal audit team was directed to redraft the report,
+recall and destroy all hard copies, and delete any e-mail to which the draft was attached.
+
+aos Avonâs General Counsel discussed the issues raised in the report with Avonâs
+Vice President, Legal & Government Affairs, and Avonâs Regional Counsel, Asia-Pacific. They
+determined to follow-up on the information with the internal audit team and to consult outside
+counsel. Avonâs V.P. Legal & Government Affairs contacted a major law firm to consult about
+
+potential FCPA issues. In early November 2005, Avonâs General Counsel, V.P. Internal Audit,
+V.P. Legal & Government Affairs, and V.P. Finance, Asia-Pacific, directed the internal audit
+team to return to Avon Products China and to expand to the beginning of 2005 the timeframe of
+their review of the expenses of the Corporate Affairs department. The internal audit team was
+told not to create any electronic documents, not to send any e-mails regarding the follow-up
+review, and not to use the term âFCPAâ in any written document.
+
+24. The internal audit team completed the field work and created several handwritten
+spreadsheets that confirmed the concerns the team had reported in their draft audit report.
+Avonâs V.P. Finance, Asia-Pacific then hand-carried the spreadsheets on a flight from Hong
+Kong to New York.
+
+25, In mid-November 2005, after Avonâs V.P. Legal & Government Affairs received
+the spreadsheets, he consulted the outside law firm and sent the spreadsheets to the firm. After
+two subsequent telephone conferences with the law firm, Avonâs V.P. Legal & Government
+Affairs, in mid-December 2005, sent the law firm a short e-mail stating that the company had
+âmoved onâ from the issues and asking for an estimate of the fees incurred.
+
+260. In December 2005, Chinaâs new direct selling regulations came into effect, lifting
+the ban on direct selling and allowing companies to apply for licenses to conduct direct selling.
+Under the direct selling regulations, a company was required to obtain a national direct selling
+license and a direct selling license from each province and municipality in which it sought to
+make direct sales. For a company to obtain a license, it was required to satisfy a number of
+conditions, including having âa good business reputationâ and a record of no serious illegal
+operations for the previous five years.
+
+oye The direct selling regulations also banned the recruitment of certain types of
+
+persons as direct sales staff, including persons under the age of 18, full-time students, foreigners,
+teachers, medical personnel, civil servants, active service members of the armed forces, and any
+person who was prohibited from taking any part-time job under applicable laws and regulations.
+
+28. In late December 2005 and January 2006, Avonâs General Counsel, Avonâs V.P.
+Legal & Government Affairs, and Avonâs Regional Counsel, Asia-Pacific decided to implement
+certain remedial measures at Avon Products China, including the creation of a log listing the
+government officials entertained or provided with gifts, and to require representations and
+warranties in Avon Products Chinaâs contracts with third parties, including Consulting Company
+1, that interacted with government officials and government agencies on behalf of Avon Products
+China.
+
+29. The ordered remedial measures did not require a description of the business
+purpose of any meeting with government officials. Moreover, Avon Products China was
+allowed to keep the log off-premises. In fact, none of the responsive measures were
+implemented. Moreover, there was no instruction to the employees at Avon Products China to
+otherwise change the practice of providing things of value to Chinese government officials.
+
+30. In March 2006, the Chinese government did grant Avon Products China the first
+national direct selling business license. (Avon competitors did not receive test or permanent
+licenses until, or after, December 2006.) In the time between Avon Products Chinaâs receiving
+the test direct selling license, in April 2005, and the time when it received the permanent direct
+selling business license, the company provided over $100,000 in cash or things of value to
+government officials.
+
+31. Between March 2006 and July 2006, Avon Products China obtained all sought
+
+provincial and municipal approvals to conduct direct selling.
+32. After March 2006, Avon Products China continued providing things of value to
+Chinese government officials at the national, provincial, and local levels to ensure that Avon had
+a clean corporate image in China. Avon Products Chinaâs General Manager and its V.P. of
+Corporate Affairs implemented a âzero penalty policy.â
+
+33. Under the zero penalty policy, Avon Products China and Consulting Company 1
+provided cash and things of value to Chinese government officials and government media to
+reduce or eliminate potential fines against the company and to prevent negative news articles
+from appearing in the media.
+
+34. In December 2006, an Avon Products China executive informed an Avon Asia-
+Pacific executive and Avonâs new head of internal audit by e-mail that Avon Products Chinaâs
+Associate Director of Corporate Affairs had been terminated because he had submitted false
+expense reports seeking reimbursement for gifts and entertainment provided to government
+officials. Avonâs General Counsel was provided with a copy of the e-mail.
+
+35. After consultation with ctu General Counsel, a new head of internal audit at Avon
+asked two members of the audit team that had conducted the 2005 Avon Products China internal
+audit to do follow-up work looking into expenses at the China Corporate Affairs group and to
+confirm that the remedial measures had been implemented. Based on their review, the two
+internal auditors aivined the new head of internal audit that they had concluded that problematic
+payments and inadequate recordkeeping continued at Avon Products China and that the measures
+had not been implemented. No remedial measures were implemented in response to the review.
+
+36. In May 2008, the Avon Products China Corporate Affairs executive who had been
+terminated wrote to Avonâs Chief Executive Officer alleging improper payments to Chinese
+
+government officials over several years in the form of meals, entertainment, travel, sponsorship
+
+10
+of cultural events, gifts of art, and cash. The letter was forwarded to Avonâs Legal Department
+and, in turn, to the audit committee of Avonâs foal of directors. The audit committee
+commenced an internal investigation into the allegations and, in October 2008, Avon informed
+the Commission and the Department of Justice.
+
+37. Asa result of its internal investigation, Avon subsequently initiated substantial
+remedial processes and procedures, on a global basis. Avon also instituted worldwide FCPA
+training for all employees of the company.
+
+Representative Categories of Improper Payments
+
+38. From at least 2004 through the third quarter 2008, Avon Products China provided
+cash and things of value to government officials, government entities, and state-owned media.
+Avon Products Chinaâs books and records were created in a manner that would not allow a
+reviewer to ascertain the specific government official or entity that received the payment or the
+purpose for which the payment was made. In some instances, the documentation for the
+payments contained almost no details.
+
+39. Altogether, Avon Products China provided approximately $8 million dollars in
+cash and things of value to Chinese government officials during the period from 2004 through
+the third quarter 2008. The following are examples:
+
+40. During the period, Avon Products China employees made approximately 9,600
+payments totaling $1.65 million for meals and entertainment involving government officials.
+The majority of these payments were for meals and entertainment expenses under $200 per
+occurrence, without indication as to who attended the meal/entertainment or the business purpose
+of the expense. One expense report submitted by a Corporate Affairs associate in May 2007
+listed $8,100 for entertainment of government officials in a two-month period during the time
+
+that Avon Products China was negotiating a certification of apparel for sale in China. Another
+
+11
+expense of $4,147 in April 2007 paid for a Pearl River cruise for 200 State and Regional AIC
+officials during a conference of officials with responsibility for the oversight of Avon Products
+Chinaâs direct selling business license. During the cruise, Avon Products China also placed free
+products in each officialâs hotel room. In January 2008, an expense of $4,808 was incurred to
+âaccompany government officialsâ in Guangdong Province during a period in which Avon
+management met with the Governor of that Province.
+
+41. | Avon Products China employees also provided gifts totaling $400,000, in addition
+to at least $1.7 million worth of Avon products. Approximately $70,000 to 90,000 of that total is
+attributable to tickets or corporate boxes at the China Open tennis tournament, given to AIC and
+other government officials in 2004 and 2005 âto thank them for their support.â During these
+years, Avon Products China was a corporate sponsor of the tournament and received the tickets
+as part of that sponsorship. Avon Products China also provided government officials with gifts
+that included Louis Vuitton merchandise, Gucci bags, and Tiffany pens.
+
+42. During the period, Avon Products China employees provided approximately $1
+million in payments for travel by government officials. Half of that amount was spent on the
+following trips: (1) $93,000 for an eighteen-day, all-expenses-paid trip to the United States by
+Guangdong Food and Drug Administration officials, in December 2005 and January 2006, that
+included one half-day of visiting Avonâs research facilities in Suffern, NY; (2) $328,000 for
+three-to-five days of travel by more than 200 AIC officials to visit Avon Products Chinaâs
+Guangzhou property, with one half-day at that property and the remainder of the time spent
+touring resort areas in southern China; (3) $23,000 for travel and expenses for government
+journalists to attend the ceremony at which Avon Products China launched its direct selling test;
+
+and (4) $22,000 for a trip by a provincial governor to Hong Kong without any Avon business
+
+12
+purpose. Avon Products China also sponsored trips of AIC officials to Europe during this
+period. However, no records can be located that show the expenses for these trips.
+
+43. Employees at Avon Products China also made payments totaling $1.5 million to
+vendors and consultants, with knowledge that a significant portion of the funds would in turn be
+paid to government officials. Of that amount, approximately $1.2 million was paid to Consulting
+Company | to provide government relations and media crisis management. The payments to
+Consulting Company 1 were often made in cash by Avon Products Chinaâs V.P. in Corporate
+Affairs, who then would submit, or would have a subordinate submit, false expense reports for
+reimbursement.
+
+44. Employees of Avon Products China made a cash payment of approximately
+$12,500 to an AIC official in Hunan Province to avoid a fine. The official told Avon Products
+China that the AIC did not have a bank account and directed Avon Products China to wire the
+funds to his personal bank account, structured in several deposits to avoid Chinese bank
+reporting regulations.
+
+45. | Avon Products Chinaâs employees also made payments to government officials
+for conferences, and related meals, gifts, and entertainment, in 150 instances aggregating
+$143,000. Records for these expenses do not indicate who attended the conferences, or the
+business purpose of the expenses. Approximately $15,000 of this amount was for expenses
+related to government journalistsâ attendance at an Avon Products China media event.
+
+46. On occasion, an AIC official would request that Avon Products China sponsor an
+activity in lieu of paying a fine related to the direct selling or Beauty Boutique business.
+Similarly, rather than having a news story appear in the Economic Information Daily alleging
+
+that Avon Products China had unlawfully recruited students to be sales promoters, Avon
+
+13
+Products China, at the behest of the publicationâs editor, paid $81,000 to sponsor an article
+contest at that publication.
+
+47. Employees at re Products China also made payments to state-owned media to
+purchase advertising, in order to avoid negative news articles. During the relevant period, Avon
+Products China made approximately 16 purchases of advertising totaling $41,000 to avoid
+negative press.
+
+48. Avon Products Chinaâs employees also paid for association fees, at the request of
+Chinese government officials. These payments totaled approximately $5,000 and were often
+made in cash.
+
+49, During the relevant period, employees at Avon Products China also made
+payments of approximately $740,000 that {eckedidecumentation sufficient to place the payments
+in any of the exemplary categories set forth herein.
+
+FIRST CLAIM FOR RELIEF
+Corporate Books and Records
+
+[Violations of Section 13(b)(2)(A) of the Exchange Act,
+15 U.S.C. Â§ 78m(b)(2)(A)]
+
+50. Paragraphs | through 49 are realleged and incorporated by reference.
+
+51. Section 13(b)(2)(A) of the Exchange Act requires each issuer with securities
+registered with the Commission pursuant to Section 12 [15 U.S.C. Â§ 78/] to make and keep
+ee records, and accounts, which, in reasonable detail, accurately and fairly reflect the
+transactions and the dispositions of the assets of the issuer.
+
+52. As described above, Avon, through its officers, employees, and agents, failed to
+keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflected its
+
+transactions and the disposition of its assets.
+
+14
+53. By reason of the foregoing, Avon violated Section 13(b)(2)(A) of the Exchange
+Act [15 U.S.C Â§ 78m(b)(2)(A)].
+SECOND CLAIM FOR RELIEF
+Internal Controls
+
+[Violations of Section 13(b)(2)(B) of the Exchange Act,
+15 U.S.C. Â§ 78m(b)(2)(B)]
+
+54. Paragraphs | through 49 are realleged and incorporated by reference.
+
+55. Section 13(b)(2)(B) of the Exchange Act requires issuers of registered securities
+to devise and maintain a system of internal accounting controls sufficient to provide reasonable
+assurances that, among other things, transactions are executed in accordance with managementâs
+general or specific authorization; transactions are recorded as necessary to permit preparation of
+financial statements in conformity with generally accepted accounting principles or any other
+criteria applicable to such statements; transactions are recorded as necessary to maintain
+accountability for assets; and access to assets is permitted only in accordance with managementâs
+general or specific authorization.
+
+56. Avon failed to devise and maintain such a system of internal controls and was
+therefore unable to record the nature and purpose of, or prevent, the provision of cash and things
+of value to government officials by Avon Products China, as set forth above.
+
+a7. By reason of the foregoing, Avon violated Section 13(b)(2)(B) of the Exchange
+
+Act [15 U.S.C. Â§ 78m(b)(2)(B)].
+
+13
+PRAYER FOR RELIEF
+WHEREFORE, the Commission respectfully requests that this Court enter judgment:
+a. Permanently enjoining Defendant Avon from violating Sections 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78m(b)(2)(A) and 78m(b)(2)(B)];
+b. Ordering Defendant Avon to disgorge ill-gotten gains wrongfully obtained as a
+result of its illegal conduct described herein, plus prejudgment interest thereon; and
+
+c Granting such other relief as this Court may deem just and appropriate.
+
+Dated: December \ , 2014
+
+Respectfully submitted,
+
+     
+
+Frohlich
+. Sharratt
+
+Attorneys for Plaintiff
+
+Securities and Exchange Commission
+100 F Street, N.E.
+
+Washington, D.C. 20549
+
+Telephone: (202) 551-4962 (Friestad)
+Facsimile: (202) 772-9286
+
+E-Mail: FriestadS@sec.gov
+
+16

@@ -1,32 +1,11 @@
-def _product_juridiction_pairs():
-
-    cftc_cands = [
-        "cftc",
-        "Commodity Futures Trading Commission",
-        "c.f.t.c",
-        "Commodity Futures Trading Commission",
-    ]
-    doj_cands = ["doj", "department of justice", "d.o.j.", "the department of justice"]
-    sec_cands = [
-        "sec",
-        "Securities and Exchange Commission",
-        "s.e.c.",
-        "Securities and Exchange Commission",
-    ]
-
-    cands = dict()
-    for k, _list in [("cftc", cftc_cands), ("doj", doj_cands), ("sec", sec_cands)]:
-        dd = {i.lower().strip(): k.lower().strip() for i in _list}
-        cands.update(dd)
-
-    return cands
+from legal_doc_processing.press_release.utils import product_juridiction_pairs
 
 
 def _filter_jur(token, cands: list = None):
     """ """
 
     if not cands:
-        cands = _product_juridiction_pairs()
+        cands = product_juridiction_pairs()
 
     for k, v in cands.items():
         if token.lower().strip() == k.lower().strip():

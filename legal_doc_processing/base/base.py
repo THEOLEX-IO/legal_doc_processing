@@ -78,13 +78,8 @@ class Base:
 
         ######################
 
-    def _set_features(self):
-        """ """
-
-        # data points private
         self._feature_list = [
             "_code_law_violation",
-            "_country_of_violation",
             "_currency",
             "_decision_date",
             "_defendant",
@@ -96,47 +91,28 @@ class Base:
             "_plaintiff",
             "_reference",
             "_sentence",
-            "_violation_date",
+            # "_violation_date",
+            "_country_of_violation",
         ]
-        self.feature_list = [i[1:] for i in self._feature_list]
 
+        self.feature_list = [i[1:] for i in self._feature_list]
         _ = [setattr(self, k, [(None, -1)]) for k in self._feature_list]
 
     ######################
 
-    def _set_entities(self):
+    @property
+    def _feature_dict(self):
+        return {k: getattr(self, k) for k in self._feature_list}
+
+    @property
+    def feature_dict(self):
+        return {str(k[1:]): strize(getattr(self, k)) for k in self._feature_list}
+
+    @property
+    def data(self):
         """ """
 
-        # entities
-        self.pers_h1 = _u(get_label_(self.h1, "PERSON", self.nlspa))
-        self.pers_abstract = _u(get_label_(self.abstract, "PERSON", self.nlspa))
-        self.org_h1 = _u(get_label_(self.h1, "ORG", self.nlspa))
-        self.org_abstract = _u(get_label_(self.abstract, "ORG", self.nlspa))
-        self.date_h1 = _u(get_label_(self.h1, "DATE", self.nlspa))
-        self.date_abstract = _u(get_label_(self.abstract, "DATE", self.nlspa))
-        self.cost_h1 = _u(get_label_(self.h1, "MONEY", self.nlspa))
-        self.cost_abstract = _u(get_label_(self.abstract, "MONEY", self.nlspa))
-        # all
-        self.pers_all = _u(self.pers_h1 + self.pers_abstract)
-        self.org_all = _u(self.org_h1 + self.org_abstract)
-        self.pers_org_all = _u(self.pers_all + self.org_all)
-        self.date_all = _u(self.date_h1 + self.date_abstract)
-        self.cost_all = _u(self.cost_h1 + self.cost_abstract)
-
-    ######################
-
-    def _set_sents(self):
-        """ """
-
-        self.h1_sents = [i.text for i in self.nlspa(self.h1).sents]
-        self.abstract_sents = [i.text for i in self.nlspa(self.abstract).sents]
-
-    ######################
-
-    def _set_data_collection(self):
-        """ """
-
-        self.data_ = {
+        dd = {
             # pipe spacy
             "nlpipe": self.nlpipe,
             "nlspa": self.nlspa,
@@ -167,15 +143,34 @@ class Base:
             "cost_all": self.cost_all,
         }
 
+        return dd
+
     ######################
 
     def set_all(self):
         """ """
 
-        self._set_entities()
-        self._set_features()
-        self._set_sents()
-        self._set_data_collection()
+        # self._set_entities() / entities
+        self.pers_h1 = _u(get_label_(self.h1, "PERSON", self.nlspa))
+        self.pers_abstract = _u(get_label_(self.abstract, "PERSON", self.nlspa))
+        self.org_h1 = _u(get_label_(self.h1, "ORG", self.nlspa))
+        self.org_abstract = _u(get_label_(self.abstract, "ORG", self.nlspa))
+        self.date_h1 = _u(get_label_(self.h1, "DATE", self.nlspa))
+        self.date_abstract = _u(get_label_(self.abstract, "DATE", self.nlspa))
+        self.cost_h1 = _u(get_label_(self.h1, "MONEY", self.nlspa))
+        self.cost_abstract = _u(get_label_(self.abstract, "MONEY", self.nlspa))
+        # all
+        self.pers_all = _u(self.pers_h1 + self.pers_abstract)
+        self.org_all = _u(self.org_h1 + self.org_abstract)
+        self.pers_org_all = _u(self.pers_all + self.org_all)
+        self.date_all = _u(self.date_h1 + self.date_abstract)
+        self.cost_all = _u(self.cost_h1 + self.cost_abstract)
+
+        # self.sents() / sents
+        self.h1_sents = [i.text for i in self.nlspa(self.h1).sents if i.text.strip()]
+        self.abstract_sents = [
+            i.text for i in self.nlspa(self.abstract).sents if i.text.strip()
+        ]
 
     ######################
 
@@ -237,16 +232,6 @@ class Base:
 
     ######################
 
-    @property
-    def _feature_dict(self):
-        return {k: getattr(self, k) for k in self._feature_list}
-
-    @property
-    def feature_dict(self):
-        return {str(k[1:]): strize(getattr(self, k)) for k in self._feature_list}
-
-    ######################
-
     def predict(self, feature) -> str:
         """ """
 
@@ -255,7 +240,7 @@ class Base:
 
         if feature in self.feature_list:
             # try:
-            val = self._predict[feature](self.data_)
+            val = self._predict[feature](self.data)
             setattr(self, "_" + feature, val)
             return val
             # except:
@@ -265,20 +250,24 @@ class Base:
     def predict_all(self) -> str:
         """return self.predict("all") """
 
-        self._code_law_violation = self._predict["code_law_violation"](self.data_)
-        self._country_of_violation = self._predict["country_of_violation"](self.data_)
-        self._currency = self._predict["currency"](self.data_)
-        self._decision_date = self._predict["decision_date"](self.data_)
-        self._defendant = self._predict["defendant"](self.data_)
-        self._extracted_authorities = self._predict["extracted_authorities"](self.data_)
-        self._id = self._predict["id"](self.data_)
-        self._juridiction = self._predict["juridiction"](self.data_)
-        self._monetary_sanction = self._predict["monetary_sanction"](self.data_)
-        self._nature_of_violations = self._predict["nature_of_violations"](self.data_)
-        self._plaintiff = self._predict["plaintiff"](self.data_)
-        self._reference = self._predict["reference"](self.data_)
-        self._sentence = self._predict["sentence"](self.data_)
-        # self._violation_date = self._predict["violation_date"](self.data_)
+        for feature in self.feature_list:
+            setattr(self, "_" + feature, self._predict[feature](self.data))
+
+        # DEPRECATED
+        # self._code_law_violation = self._predict["code_law_violation"](self.data)
+        # self._country_of_violation = self._predict["country_of_violation"](self.data)
+        # self._currency = self._predict["currency"](self.data)
+        # self._decision_date = self._predict["decision_date"](self.data)
+        # self._defendant = self._predict["defendant"](self.data)
+        # self._extracted_authorities = self._predict["extracted_authorities"](self.data)
+        # self._id = self._predict["id"](self.data)
+        # self._juridiction = self._predict["juridiction"](self.data)
+        # self._monetary_sanction = self._predict["monetary_sanction"](self.data)
+        # self._nature_of_violations = self._predict["nature_of_violations"](self.data)
+        # self._plaintiff = self._predict["plaintiff"](self.data)
+        # self._reference = self._predict["reference"](self.data)
+        # self._sentence = self._predict["sentence"](self.data)
+        # # self._violation_date = self._predict["violation_date"](self.data)
 
         return self.feature_dict
 

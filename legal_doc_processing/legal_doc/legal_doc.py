@@ -87,12 +87,12 @@ if __name__ == "__main__":
     df["preds"] = df.obj.apply(lambda i: i.predict_all())
     t = time.time() - t
 
-#     # labels
-#     preds_labels = list(df.preds.iloc[0].keys())
-#     for k in preds_labels:
-#         df["pred_" + k] = df.preds.apply(lambda i: i[k])
+    #     # labels
+    #     preds_labels = list(df.preds.iloc[0].keys())
+    #     for k in preds_labels:
+    #         df["pred_" + k] = df.preds.apply(lambda i: i[k])
 
-#     # 1st one
-#     one = df.iloc[0, :]
-#     one_txt = one.txt
-#     one_ob = obj = self = one.obj
+    # 1st one
+    one = df.iloc[0, :]
+    one_txt = one.txt
+    one_ob = obj = self = one.obj

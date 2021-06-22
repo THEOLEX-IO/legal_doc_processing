@@ -1,7 +1,6 @@
 from legal_doc_processing.utils import uniquize as _u
-
 from legal_doc_processing.utils import merge_ans, ask_all
-from legal_doc_processing.utils import ask_all, merge_ans
+from legal_doc_processing.legal_doc.clean.extracted_authorities import _filter_jur
 
 
 def _question_helper(txt) -> list:
@@ -58,56 +57,22 @@ def _question_selector(key: str):
 
 def predict_extracted_authorities(obj: dict, threshold: int = 0.2, n_sents: int = 3):
 
-    # pipe to avoid re init a pipe each time (+/- 15 -> 60 sec)
-    # win lots of time if the method is used in a loop with 100 predictions
-    nlpipe, nlspa = obj["nlpipe"], obj["nlspa"]
+    # pipe, spa
+    nlspa = obj["nlspa"]
 
-    # pers_org_all
-    # we will use this one later to make a filter at the end
-    pers_org_all = obj["pers_org_all"] + _u(_sub_you_shall_not_pass(obj["pers_org_all"]))
-    pers_org_all = _u(pers_org_all)
-
-    # items
-    # we will work on h1 and / or article but just 2 or 3 1st paragraphs
+    # choose the item
     h1, abstract = obj["h1"], obj["abstract"]
-    abstract_sents = obj["abstract_sents"][:n_sents]
-    ans = []
 
-    # ask method
-    # for each sentence
-    for sent in abstract_sents:
-        key_list = _question_helper(sent)
-        for key in key_list:
-            # from key to questions and from questions to answers
-            quest_pairs = _u(_question_selector(key))
-            ans.extend(ask_all(sent, quest_pairs, nlpipe=nlpipe))
+    # token filter abstract
+    tok_abstract = [i.text.lower() for i in nlspa(abstract)]
+    jur_abstract = [_filter_jur(i) for i in tok_abstract]
+    jur_abstract_clean = _u([i for i in jur_abstract if i])
 
-    # clean ans
-    # ans is a list of dict, each dict has keys such as answer, score etc
-    # for each answer we will clean this answer and create a new_answer more accurate
-    cleaned_ans = clean_ans(ans)
-    answer_label = "new_answer"
-    if not len(cleaned_ans):
-        cleaned_ans = [{answer_label: "--None--", "score": -1}]
+    # juri abstract
+    if len(jur_abstract_clean) >= 1:
+        return [(i, 1) for i in jur_abstract_clean]
 
-    # merge ans
-    # based on new_answer we will make a groupby adding the scores for each new ans in a cumulative score
-    # example [{new_ans : hello, score:0.3},{new_ans : hello, score:0.3}, ]
-    # will become  [{new_ans : hello, score:0.6},]
-    merged_ans = merge_ans(cleaned_ans, label=answer_label)
-
-    # filert by spacy entities
-    # we are sure that a personn or an org is NOT a violation so
-    # if a prediction is in pers_org_entities_list, plz drop it
-    consitant_ans = [i for i in merged_ans if i[answer_label] in pers_org_all]
-
-    # filter by threshold
-    # we need to filter the score above which we consider that no a signe score but a
-    # cumulative score (much more strong, accurante and solid) will be droped
-    flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]
-    last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
-
-    return last_ans
+    return [(str(-3), -1)]
 
 
 if __name__ == "__main__":
@@ -131,16 +96,16 @@ if __name__ == "__main__":
     # structured_press_release_r
     df = legal_doc_X_y(features="defendant")
     df = df.iloc[:2, :]
-    df["obj"] = [LegalDoc(i, nlpipe=nlpipe, nlspa=nlspa) for i in df.txt.values]
+    df["ld"] = [LegalDoc(i, nlpipe=nlpipe, nlspa=nlspa) for i in df.txt.values]
 
     # preds
     t = time.time()
     # 28 objects --> 181 secondes so --> +/-10 secondes per objects
-    df["pred_" + feature] = df.obj.apply(lambda i: i.predict(feature))
+    df["pred_" + feature] = df.ld.apply(lambda i: i.predict(feature))
     t = time.time() - t
 
     # 1st one
     one = df.iloc[0, :]
     one_txt = one.txt
-    one_ob = self = one.obj
-    obj = self.data_
+    one_ld = self = one.ld
+    obj = self.data

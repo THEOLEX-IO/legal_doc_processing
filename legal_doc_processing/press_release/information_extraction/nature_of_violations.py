@@ -150,31 +150,23 @@ def _question_selector(key: str):
 def predict_nature_of_violations(obj: dict, threshold=0.4, n_sents: int = 5) -> list:
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
-    # pipe to avoid re init a pipe each time (+/- 15 -> 60 sec)
-    # win lots of time if the method is used in a loop with 100 predictions
-    nlpipe = obj["nlpipe"]
-
     # pers_org_entities_list
-    # we will use this one later to make a filter at the end
     pers_org_all = obj["pers_org_all"] + _u(_you_shall_not_pass(obj["pers_org_all"]))
     pers_org_all = _u(pers_org_all)
 
     # items
-    # we will work on h1 and / or article but just 2 or 3 1st paragraphs
     h1, abstract = obj["h1"], obj["abstract"]
     abstract_sents = obj["abstract_sents"][:n_sents]
     ans = []
 
-    # ask medhod
-    # here are the question answering and the true prediction built
+    # ask medhod h1
     for key_h1 in _question_helper(h1):
         # print(f"key_h1 : {key_h1} ")
         quest_pairs = _u(_question_selector(key_h1))
         # print(f"quest_pairs : {quest_pairs} ")
-        ans.extend(ask_all(h1, quest_pairs, nlpipe=nlpipe))
+        ans.extend(ask_all(h1, quest_pairs, nlpipe=obj["nlpipe"]))
 
-    # print(ans)
-
+    # ask medhod abstract_sents
     for sent in abstract_sents:
         key_list = _question_helper(sent)
         for key in key_list:
@@ -183,30 +175,19 @@ def predict_nature_of_violations(obj: dict, threshold=0.4, n_sents: int = 5) -> 
             # print(quest_pairs)
             ans.extend(ask_all(sent, quest_pairs, nlpipe=nlpipe))
 
-    # print(ans)
-
     # clean ans
-    # ans is a list of dict, each dict has keys such as answer, score etc
-    # for each answer we will clean this answer and create a new_answer more accurate
     cleaned_ans = clean_ans(ans)
     answer_label = "new_answer"
     if not len(cleaned_ans):
         cleaned_ans = [{answer_label: "--None--", "score": -1}]
 
     # merge ans
-    # based on new_answer we will make a groupby adding the scores for each new ans in a cumulative score
-    # example [{new_ans : hello, score:0.3},{new_ans : hello, score:0.3}, ]
-    # will become  [{new_ans : hello, score:0.6},]
     merged_ans = merge_ans(cleaned_ans, label=answer_label)
 
     # filert by spacy entities
-    # we are sure that a personn or an org is NOT a violation so
-    # if a prediction is in pers_org_entities_list, plz drop it
     consitant_ans = [i for i in merged_ans if i[answer_label] not in pers_org_all]
 
     # filter by threshold
-    # we need to filter the score above which we consider that no a signe score but a
-    # cumulative score (much more strong, accurante and solid) will be droped
     flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]
     last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
 

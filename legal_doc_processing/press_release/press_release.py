@@ -1,5 +1,3 @@
-import os
-
 from legal_doc_processing.base.base import Base, base_from_file, base_from_text
 from legal_doc_processing.press_release.structure import structure_press_release
 from legal_doc_processing.press_release.information_extraction import *
@@ -61,9 +59,8 @@ if __name__ == "__main__":
 
     # import
     import time
-    from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_
+    from legal_doc_processing.utils import get_pipeline, get_spacy
     from legal_doc_processing.press_release.loader import press_release_X_y
-    from legal_doc_processing.press_release.structure import structure_press_release
 
     # load
     nlpipe = get_pipeline()

@@ -67,7 +67,9 @@ class Decision(Base):
             # try:
             self.press_release.predict(feature)
             self.legal_doc.predict(feature)
-            val = self._predict[feature](self.press_release.data, self.legal_doc.data)
+            val = self._predict[feature](
+                self.press_release._feature_dict, self.legal_doc._feature_dict
+            )
             setattr(self, "_" + feature, val)
             return val
             # except:
@@ -187,7 +189,7 @@ if __name__ == "__main__":
 
     # legal_doc df AND  OBj
     df = decision_X_y()
-    df = df.iloc[:3, :]
+    df = df.iloc[:10, :]
     # df["obj"] = df.txt.apply(lambda i: LegalDoc(i, nlpipe=nlpipe, nlspa=nlspa))
 
     # clean

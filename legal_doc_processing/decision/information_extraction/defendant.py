@@ -3,10 +3,13 @@ from collections import Counter
 
 def predict_defendant(press: dict, legal: dict, threshold: float = 0.1) -> list:
     """ """
+
+    # print(press)
+    # print(legal)
+    all_def = press["_defendant"] + legal["_defendant"]
+
     try:
-        all_def = (
-            press["_feature_dict"]["defendant"] + legal["_feature_dict"]["defendant"]
-        )
+
         if not len(all_def):
             return [(-1, -1)]
         selected_def = [(i, j) for i, j in all_def if j > threshold]

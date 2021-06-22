@@ -14,13 +14,14 @@ class LegalDoc(Base):
         file_path: str = None,
         nlpipe=None,
         nlspa=None,
+        n_lines: int = 30,
     ):
 
         Base.__init__(
             self,
             text=text,
             obj_name="LegalDoc",
-            structure_method=structure_press_release,
+            structure_method=structure_legal_doc,
             predict_code_law_violation=predict_code_law_violation,
             predict_country_of_violation=predict_country_of_violation,
             predict_currency=predict_currency,
@@ -41,8 +42,15 @@ class LegalDoc(Base):
         )
 
         # specs
-        self.h1 = self.struct_text["h1"]
-        self.abstract = "\n".join(self.struct_text["article"].split("\n")[:n_paragraphs])
+        self.h1 = self.struct_text["header"]
+        self.first_page = self.struct_text["pages"][0]
+        if len(self.struct_text["pages"]) > 1:
+            self.first_2_pages = (
+                self.struct_text["pages"][0] + self.struct_text["pages"][1]
+            )
+        else:
+            self.first_2_pages = self.struct_text["pages"][0]
+        self.abstract = self.first_2_pages
 
         # set all
         self.set_all()
@@ -56,29 +64,28 @@ def from_text(txt, nlpipe=None, nlspa=None):
     return base_from_text(txt, LegalDoc, nlpipe=nlpipe, nlspa=nlspa)
 
 
-# if __name__ == "__main__":
+if __name__ == "__main__":
 
-#     # import
-#     import time
-#     from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_
-#     from legal_doc_processing.press_release.loader import press_release_X_y
-#     from legal_doc_processing.press_release.structure import structure_press_release
+    # import
+    import time
+    from legal_doc_processing.utils import get_pipeline, get_spacy
+    from legal_doc_processing.press_release.loader import press_release_X_y
 
-#     # load
-#     nlpipe = get_pipeline()
-#     nlspa = get_spacy()
-#     nlspa.add_pipe("sentencizer")
+    # load
+    nlpipe = get_pipeline()
+    nlspa = get_spacy()
+    nlspa.add_pipe("sentencizer")
 
-#     # legal_doc df AND  OBj
-#     df = press_release_X_y()
-#     df = df.iloc[:7, :]
-#     df["obj"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
+    # legal_doc df AND  OBj
+    df = press_release_X_y()
+    df = df.iloc[:7, :]
+    df["obj"] = df.txt.apply(lambda i: LegalDoc(i, nlpipe=nlpipe, nlspa=nlspa))
 
-#     # preds
-#     t = time.time()
-#     # 28 objects --> 181 secondes so --> +/-10 secondes per objects
-#     df["preds"] = df.obj.apply(lambda i: i.predict_all())
-#     t = time.time() - t
+    # preds
+    t = time.time()
+    # 28 objects --> 181 secondes so --> +/-10 secondes per objects
+    df["preds"] = df.obj.apply(lambda i: i.predict_all())
+    t = time.time() - t
 
 #     # labels
 #     preds_labels = list(df.preds.iloc[0].keys())

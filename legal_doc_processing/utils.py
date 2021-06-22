@@ -37,6 +37,13 @@ def make_dataframe(path: str = "./data/csv/files.csv"):
     return df
 
 
+def strize(item_list):
+    """ """
+
+    clean_l = lambda item_list: [str(i).strip() for i, j in item_list]
+    return ",".join(clean_l(item_list))
+
+
 def uniquize(iterable: list) -> list:
     """ """
 

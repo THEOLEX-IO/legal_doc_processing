@@ -1,21 +1,11 @@
-import os
-import copy
+from legal_doc_processing.utils import uniquize as _u
 
-import pandas as pd
+from legal_doc_processing.utils import merge_ans, ask_all
 
-from legal_doc_processing.utils import (
-    _if_not_pipe,
-    _if_not_spacy,
-    _ask,
-    get_label_,
-)
-
-from legal_doc_processing.legal_doc.decision_date import (
+from legal_doc_processing.legal_doc.clean.decision_date import (
     clean_ans,
     _sub_shall_not_pass,
 )
-
-from legal_doc_processing.utils import ask_all, merge_ans
 
 
 def _question_helper(txt) -> list:
@@ -56,54 +46,43 @@ def _question_selector(key: str):
     if "filed" in key:
         qs = [
             #
-            ("When was filed a compliant?", "when_violation"),
-            ("When was the compliant filed?", "when_violation"),
-            ("When were the compliants filed?", "when_violations"),
+            ("When was filed a complaint?", "when_violation"),
+            ("When was the complaint filed?", "when_violation"),
+            ("When were the complaints filed?", "when_violations"),
         ]
         res.extend(qs)
 
     return res
 
 
-def predict_decision_date(
-    first_page: list,
-    nlpipe=None,
-    nlspa=None,
-    threshold=0.2,
-):
+def predict_decision_date(obj: dict, threshold=0.2, n_sents: int = 7) -> list:
 
     # pipe to avoid re init a pipe each time (+/- 15 -> 60 sec)
     # win lots of time if the method is used in a loop with 100 predictions
-    nlpipe = _if_not_pipe(nlpipe)
-    nlspa = _if_not_spacy(nlspa)
-    try:
-        nlspa.add_pipe("sentencizer")
-    except Exception as e:
-        print(e)
+    nlpipe, nlspa = obj["nlpipe"], obj["nlspa"]
+
+    # date_all
+    # we will use this one later to make a filter at the end
+    date_all = obj["date_all"] + [_sub_shall_not_pass(i) for i in obj["date_all"]]
+    date_all = _u(date_all)
 
     # items
-    # doc / sents / ans
-    doc = nlspa(first_page)
-    sents = [i for i in doc.sents]
+    # we will work on h1 and / or article but just 2 or 3 1st paragraphs
+    h1, abstract = obj["h1"], obj["abstract"]
+    abstract_sents = obj["abstract_sents"][:n_sents]
     ans = []
-
-    # date entities list
-    first_paragraphs = " ".join([i.text for i in sents[:6]])
-    date_entities_list = get_label_(first_paragraphs, "DATE", None)
-    date_entities_list += [_sub_shall_not_pass(i) for i in date_entities_list]
 
     # ask method
     # for each sentence
-    for sent in sents:
-        print(sent)
+    for sent in abstract_sents:
+        # print(sent)
         # key list
-        key_list = _question_helper(sent.text)
+        key_list = _question_helper(sent)
         for key in key_list:
-            print(key)
+            # print(key)
             # from key to questions and from questions to answers
-            quest_pairs = _question_selector(key)
-            _ans = ask_all(sent.text, quest_pairs, nlpipe=nlpipe)
-            ans.extend(_ans)
+            quest_pairs = _u(_question_selector(key))
+            ans.extend(ask_all(sent, quest_pairs, nlpipe=nlpipe))
 
     # clean ans
     # ans is a list of dict, each dict has keys such as answer, score etc
@@ -122,7 +101,7 @@ def predict_decision_date(
     # filert by spacy entities
     # we are sure that a personn or an org is NOT a violation so
     # if a prediction is in pers_org_entities_list, plz drop it
-    consitant_ans = [i for i in merged_ans if i[answer_label] in date_entities_list]
+    consitant_ans = [i for i in merged_ans if i[answer_label] in date_all]
 
     # filter by threshold
     # we need to filter the score above which we consider that no a signe score but a
@@ -136,26 +115,33 @@ def predict_decision_date(
 if __name__ == "__main__":
 
     # import
-    from legal_doc_processing.utils import get_pipeline, get_spacy, get_orgs, get_pers
+    import time
+    from legal_doc_processing.utils import get_pipeline, get_spacy
     from legal_doc_processing.legal_doc.loader import legal_doc_X_y
-    from legal_doc_processing.legal_doc.structure import structure_legal_doc
+    from legal_doc_processing.legal_doc.legal_doc import LegalDoc
 
     # laod
     nlpipe = get_pipeline()
     nlspa = get_spacy()
     nlspa.add_pipe("sentencizer")
-    threshold = 0.2
 
     # structured_press_release_r
-    df = legal_doc_X_y()
-    df["struct_doc"] = df.txt.apply(lambda i: structure_legal_doc(i))
-    df["header"] = df.struct_doc.apply(lambda i: i["header"])
-    df["first_page"] = df.struct_doc.apply(lambda i: i["pages"][0])
+    df = legal_doc_X_y(features="defendant")
+    df = df.iloc[:7, :]
+    df["obj"] = [LegalDoc(i, nlpipe=nlpipe, nlspa=nlspa) for i in df.txt.values]
 
-    # test one
-    one = df.iloc[1, :]
-    struct_doc, one_struct = one.struct_doc
-    first_page = one_first_page = one.first_page
-    one_doc = nlspa(one_first_page)
+    # preds
+    t = time.time()
+    # 28 objects --> 181 secondes so --> +/-10 secondes per objects
+    df["preds"] = df.obj.apply(lambda i: i.predict_all())
+    t = time.time() - t
 
-    pred = predict_decision_date(first_page, nlpipe=nlpipe)
+    # labels
+    preds_labels = list(df.preds.iloc[0].keys())
+    for k in preds_labels:
+        df["pred_" + k] = df.preds.apply(lambda i: i[k])
+
+    # 1st one
+    one = df.iloc[0, :]
+    one_txt = one.txt
+    one_ob = obj = self = one.obj

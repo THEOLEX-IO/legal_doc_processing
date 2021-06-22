@@ -34,28 +34,28 @@ def _question_selector(key: str):
 
     # reason
     if "reason" in key:
-        qs = [
-            #
-            ("Who has reason?", "who_reason"),
-        ]
-        res.extend(qs)
+        qs.extend(
+            [
+                ("Who has reason?", "who_reason"),
+            ]
+        )
 
     elif "filed" in key:
-        qs = [
-            #
-            ("Who has filed?", "who_filed"),
-            ("Who filed?", "who_filed"),
-        ]
-        res.extend(qs)
+        qs.extend(
+            [
+                ("Who has filed?", "who_filed"),
+                ("Who filed?", "who_filed"),
+            ]
+        )
     else:
-        qs = [
-            #
-            ("Who has reason?", "who_reason"),
-            ("Who has filed?", "who_filed"),
-        ]
-        res.extend(qs)
+        qs.extend(
+            [
+                ("Who has reason?", "who_reason"),
+                ("Who has filed?", "who_filed"),
+            ]
+        )
 
-    return res
+    return qs
 
 
 def predict_extracted_authorities(obj: dict, threshold: int = 0.2, n_sents: int = 3):

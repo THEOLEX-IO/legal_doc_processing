@@ -1,22 +1,6 @@
 import os
-import copy
 
-# import pandas as pd
-
-
-from legal_doc_processing.utils import (
-    _if_not_pipe,
-    _if_not_spacy,
-    _ask,
-    get_pers,
-    get_orgs,
-    get_pipeline,
-)
-
-from legal_doc_processing.press_release.utils import (
-    product_juridic_form,
-    get_entities_pers_orgs,
-)
+from legal_doc_processing.press_release.utils import product_juridic_form
 
 
 def _clean_LLC_trailling_dot_comma(txt: str) -> str:
@@ -35,7 +19,7 @@ def _clean_LLC_trailling_dot_comma(txt: str) -> str:
 
 
 def _clean_and(ans_list: list) -> list:
-    """we want ['alex', 'cecile', 'alex and cecile' ] become ['alex', 'cecile'] """
+    """we want ['alex', 'cecile', 'alex and cecile' ]  became ['alex', 'cecile'] """
 
     l = list()
     for ans in ans_list:
@@ -48,7 +32,6 @@ def _clean_and(ans_list: list) -> list:
             l.extend(ll)
 
     l = list(set(l))
-
     return l
 
 
@@ -116,13 +99,15 @@ def _sub_you_shall_not_pass(
         "Personal Expenses",
         "Commodity Futures",
         "Commodity Exchange ",
-        "CFTC",
+        "Federal Court" "CFTC",
         "U.S. District Court",
         "Commodity Exchange",
         "an Unregistered",
         "Swap Dealer",
         "Commodity Trading",
-        "Commodity Pool ",
+        "Commodity Pool",
+        "Court",
+        "Federal",
     ]
 
     for f in forbiden:
@@ -179,7 +164,7 @@ def _you_shall_not_pass(ans_list: list) -> list:
     return _new_list
 
 
-def clean_ans(ans):
+def clean_ans(ans: list) -> list:
     """ans is a list of dict. each dict is  : {answer:"foo", score:0.32}.
     for each dict,  add and _id and a new_ans based on the _you_shall_not_pass method
     the _you_shall_not_pass method is able to ditect:

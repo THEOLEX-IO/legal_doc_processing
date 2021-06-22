@@ -1,16 +1,16 @@
-from legal_doc_processing.press_release.information_extraction.code_law_violation import (
+from legal_doc_processing.legal_doc.information_extraction.code_law_violation import (
     predict_code_law_violation,
 )
-from legal_doc_processing.press_release.information_extraction.country_of_violation import (
+from legal_doc_processing.legal_doc.information_extraction.country_of_violation import (
     predict_country_of_violation,
 )
-from legal_doc_processing.press_release.information_extraction.currency import (
+from legal_doc_processing.legal_doc.information_extraction.currency import (
     predict_currency,
 )
-from legal_doc_processing.press_release.information_extraction.decision_date import (
+from legal_doc_processing.legal_doc.information_extraction.decision_date import (
     predict_decision_date,
 )
-from legal_doc_processing.press_release.information_extraction.defendant import (
+from legal_doc_processing.legal_doc.information_extraction.defendant import (
     predict_defendant,
 )
 from legal_doc_processing.legal_doc.information_extraction.extracted_authorities import (

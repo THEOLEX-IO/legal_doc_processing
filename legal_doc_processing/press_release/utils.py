@@ -5,8 +5,8 @@ import pandas as pd
 from legal_doc_processing.utils import (
     _if_not_spacy,
     _if_not_pipe,
-    get_pers,
-    get_orgs,
+    # get_pers,
+    # get_orgs,
     get_label_,
     _ask,
 )

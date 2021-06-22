@@ -1,6 +1,6 @@
 import os
 
-from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_
+from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_, strize
 
 from legal_doc_processing.utils import uniquize as _u
 
@@ -131,8 +131,6 @@ class Base:
         self.h1_sents = [i.text for i in self.nlspa(self.h1).sents]
         self.abstract_sents = [i.text for i in self.nlspa(self.abstract).sents]
 
-        pass
-
     ######################
 
     def _set_data_collection(self):
@@ -181,67 +179,61 @@ class Base:
 
     ######################
 
-    def strize(self, item_list):
-        """ """
-
-        clean_l = lambda item_list: [str(i).strip() for i, j in item_list]
-        return ",".join(clean_l(item_list))
-
     @property
     def code_law_violation(self):
-        return self.strize(self._code_law_violation)
+        return strize(self._code_law_violation)
 
     @property
     def country_of_violation(self):
-        return self.strize(self._country_of_violation)
+        return strize(self._country_of_violation)
 
     @property
     def currency(self):
-        return self.strize(self._currency)
+        return strize(self._currency)
 
     @property
     def decision_date(self):
-        return self.strize(self._decision_date)
+        return strize(self._decision_date)
 
     @property
     def defendant(self):
-        return self.strize(self._defendant)
+        return strize(self._defendant)
 
     @property
     def extracted_authorities(self):
-        return self.strize(self._extracted_authorities)
+        return strize(self._extracted_authorities)
 
     @property
     def id(self):
-        return self.strize(self._id)
+        return strize(self._id)
 
     @property
     def juridiction(self):
-        return self.strize(self._juridiction)
+        return strize(self._juridiction)
 
     @property
     def monetary_sanction(self):
-        return self.strize(self._monetary_sanction)
+        return strize(self._monetary_sanction)
 
     @property
     def nature_of_violations(self):
-        return self.strize(self._nature_of_violations)
+        return strize(self._nature_of_violations)
 
     @property
     def plaintiff(self):
-        return self.strize(self._plaintiff)
+        return strize(self._plaintiff)
 
     @property
     def reference(self):
-        return self.strize(self._reference)
+        return strize(self._reference)
 
     @property
     def sentence(self):
-        return self.strize(self._sentence)
+        return strize(self._sentence)
 
     @property
     def violation_date(self):
-        return self.strize(self._violation_date)
+        return strize(self._violation_date)
 
     ######################
 
@@ -251,38 +243,44 @@ class Base:
 
     @property
     def feature_dict(self):
-        return {str(k[1:]): self.strize(getattr(self, k)) for k in self._feature_list}
+        return {str(k[1:]): strize(getattr(self, k)) for k in self._feature_list}
 
     ######################
 
     def predict(self, feature) -> str:
         """ """
-        if feature != "all":
-            raise NotImplementedError("sorry, method not supported")
-        else:
-            self._code_law_violation = self._predict["code_law_violation"](self.data_)
-            self._country_of_violation = self._predict["country_of_violation"](self.data_)
-            self._currency = self._predict["currency"](self.data_)
-            self._decision_date = self._predict["decision_date"](self.data_)
-            self._defendant = self._predict["defendant"](self.data_)
-            self._extracted_authorities = self._predict["extracted_authorities"](
-                self.data_
-            )
-            self._id = self._predict["id"](self.data_)
-            self._juridiction = self._predict["juridiction"](self.data_)
-            self._monetary_sanction = self._predict["monetary_sanction"](self.data_)
-            self._nature_of_violations = self._predict["nature_of_violations"](self.data_)
-            self._plaintiff = self._predict["plaintiff"](self.data_)
-            self._reference = self._predict["reference"](self.data_)
-            self._sentence = self._predict["sentence"](self.data_)
-            # self._violation_date = self._predict["violation_date"](self.data_)
 
-            return self.feature_dict
+        if feature == "all":
+            return self.predict_all()
+
+        if feature in self.feature_list:
+            # try:
+            val = self._predict[feature](self.data_)
+            setattr(self, "_" + feature, val)
+            return val
+            # except:
+            #     return "--Error--"
+        return "--Unknowned feature--"
 
     def predict_all(self) -> str:
         """return self.predict("all") """
 
-        return self.predict("all")
+        self._code_law_violation = self._predict["code_law_violation"](self.data_)
+        self._country_of_violation = self._predict["country_of_violation"](self.data_)
+        self._currency = self._predict["currency"](self.data_)
+        self._decision_date = self._predict["decision_date"](self.data_)
+        self._defendant = self._predict["defendant"](self.data_)
+        self._extracted_authorities = self._predict["extracted_authorities"](self.data_)
+        self._id = self._predict["id"](self.data_)
+        self._juridiction = self._predict["juridiction"](self.data_)
+        self._monetary_sanction = self._predict["monetary_sanction"](self.data_)
+        self._nature_of_violations = self._predict["nature_of_violations"](self.data_)
+        self._plaintiff = self._predict["plaintiff"](self.data_)
+        self._reference = self._predict["reference"](self.data_)
+        self._sentence = self._predict["sentence"](self.data_)
+        # self._violation_date = self._predict["violation_date"](self.data_)
+
+        return self.feature_dict
 
     ######################
 

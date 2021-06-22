@@ -1,6 +1,6 @@
 from legal_doc_processing.utils import uniquize as _u
 
-from legal_doc_processing.information_extraction.utils import merge_ans, ask_all
+from legal_doc_processing.utils import merge_ans, ask_all
 
 from legal_doc_processing.press_release.clean.nature_of_violations import (
     _you_shall_not_pass,

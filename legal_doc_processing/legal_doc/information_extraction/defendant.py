@@ -37,6 +37,13 @@ def _question_selector(key: str) -> list:
 
     qs = list()
 
+    if "accuse" in key:
+        qs.extend(
+            [
+                ("Who is the accused?", "who_accused"),
+                ("Who are the accused?", "who_accuseds"),
+            ]
+        )
     if "defendant" in key:
         qs.extend(
             [
@@ -113,32 +120,23 @@ def predict_defendant(obj: dict, threshold=0.2, n_sents: int = 5) -> list:
 
     # pers_org_all
     # we will use this one later to make a filter at the end
-    pers_org_all = obj["pers_org_all"] + [
-        _sub_you_shall_not_pass(i) for i in obj["pers_org_all"]
-    ]
+    pers_org_all = obj["pers_org_all"] + _u(_sub_you_shall_not_pass(obj["pers_org_all"]))
     pers_org_all = _u(pers_org_all)
 
     # items
     # we will work on h1 and / or article but just 2 or 3 1st paragraphs
     h1, abstract = obj["h1"], obj["abstract"]
-    # print(abstract)
     abstract_sents = obj["abstract_sents"][:n_sents]
-    # print(abstract_sents)
     ans = []
 
     # ask method
     # for each sentence
     for sent in abstract_sents:
-        input(f"sent : {sent}")
         key_list = _question_helper(sent)
-        input(f"key_list:{key_list} ")
         for key in key_list:
             # from key to questions and from questions to answers
             quest_pairs = _u(_question_selector(key))
-            input(f"quest_pairs:{quest_pairs} ")
-            _ans = ask_all(sent, quest_pairs, nlpipe=nlpipe)
-            input(f"_ans[:10] : {_ans[:10]} ")
-            ans.extend(_ans)
+            ans.extend(ask_all(sent, quest_pairs, nlpipe=nlpipe))
 
     # clean ans
     # ans is a list of dict, each dict has keys such as answer, score etc
@@ -182,8 +180,9 @@ if __name__ == "__main__":
     nlspa.add_pipe("sentencizer")
 
     # data
-    hreshold = 0.2
+    threshold = 0.2
     n_sents = 7
+    feature = "defendant"
 
     # structured_press_release_r
     df = legal_doc_X_y(features="defendant")
@@ -193,7 +192,7 @@ if __name__ == "__main__":
     # preds
     t = time.time()
     # 28 objects --> 181 secondes so --> +/-10 secondes per objects
-    df["pred_defendant"] = df.obj.apply(lambda i: i.predict("defendant"))
+    df["pred_" + feature] = df.obj.apply(lambda i: i.predict(feature))
     t = time.time() - t
 
     # 1st one

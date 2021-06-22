@@ -61,15 +61,20 @@ def _sub_shall_not_pass(txt: str) -> str:
     """ """
 
     txt = txt.lower().strip()
+    if (len(txt) < 3) or (len(txt) > 35):
+        return ""
 
     txt = _clean_on(txt)
+    if (len(txt) < 3) or (len(txt) > 35):
+        return ""
 
     txt = _clean_the_present(txt)
+    if (len(txt) < 3) or (len(txt) > 35):
+        return ""
 
     txt = _strip_trailling_comma_dot(txt)
-
-    if (len(txt) < 3) or (len(txt) > 24):
-        txt = ""
+    if (len(txt) < 3) or (len(txt) > 35):
+        return ""
 
     return txt
 

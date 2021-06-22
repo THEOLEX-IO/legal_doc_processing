@@ -14,15 +14,18 @@ def _question_helper(txt) -> list:
     _txt = txt.lower()
     res = list()
 
-    # reason
-    if "violate" in _txt.lower():
+    if "accused" in _txt:
+        res.append("accused")
+    if "violate" in _txt:
         res.append("violate")
-    # filed
-    if "filed" in _txt.lower():
+    if "against" in _txt:
+        res.append("against")
+    if "filed" in _txt:
         res.append("filed")
-    # filed
-    if "filled" in _txt.lower():
-        res.append("filed")
+    if "judgement" in _txt:
+        res.append("judgement")
+    if "complaint" in _txt:
+        res.append("complaint")
 
     return res
 
@@ -30,32 +33,56 @@ def _question_helper(txt) -> list:
 def _question_selector(key: str):
     """based on a key from _question helper find the list of good question to ask """
 
-    res = list()
+    qs = list()
 
-    # reason
+    if "accuse" in key:
+        qs.extend(
+            [
+                ("When the accusation has started?", "when_accused"),
+                ("When strated the accusation?", "when_accuseds"),
+                ("When strated the accusation?", "when_accuseds"),
+                ("How long ago did the accusation start?", "when_accuseds"),
+            ]
+        )
     if "violate" in key:
-        qs = [
-            #
-            ("When was the violation?", "when_violation"),
-            ("When did the violation take place ?", "when_violation"),
-            ("When did the violations take place ?", "when_violations"),
-        ]
-        res.extend(qs)
-
-    # reason
+        qs.extend(
+            [
+                ("When was the violation?", "when_violation"),
+                ("When did the violation take place ?", "when_violation"),
+                ("When did the violations take place ?", "when_violations"),
+            ]
+        )
     if "filed" in key:
-        qs = [
-            #
-            ("When was filed a complaint?", "when_violation"),
-            ("When was the complaint filed?", "when_violation"),
-            ("When were the complaints filed?", "when_violations"),
-        ]
-        res.extend(qs)
+        qs.extend(
+            [
+                ("When was filed a complaint?", "when_violation"),
+                ("When was the complaint filed?", "when_violation"),
+                ("When were the complaints filed?", "when_violations"),
+            ]
+        )
+    if "judgement" in key:
+        qs.extend(
+            [
+                ("When has begun the judgement?", "when_judgement"),
+                ("When started the judgement?", "when_judgement"),
+                ("When was decided the judgement?", "when_judgement"),
+                ("When was filed the judgement?", "when_judgement"),
+            ]
+        )
+    if "complaint" in key:
+        qs.extend(
+            [
+                ("When has begun the complaint?", "when_complaint"),
+                ("When started the complaint?", "when_complaint"),
+                ("When was decided the complaint?", "when_complaint"),
+                ("When was filed the  complaint?", "when_complaint"),
+            ]
+        )
 
-    return res
+    return qs
 
 
-def predict_decision_date(obj: dict, threshold=0.2, n_sents: int = 7) -> list:
+def predict_decision_date(obj: dict, threshold=0.2, n_sents: int = 6) -> list:
 
     # pipe to avoid re init a pipe each time (+/- 15 -> 60 sec)
     # win lots of time if the method is used in a loop with 100 predictions
@@ -113,7 +140,6 @@ def predict_decision_date(obj: dict, threshold=0.2, n_sents: int = 7) -> list:
 
 
 if __name__ == "__main__":
-
     # import
     import time
     from legal_doc_processing.utils import get_pipeline, get_spacy
@@ -125,23 +151,24 @@ if __name__ == "__main__":
     nlspa = get_spacy()
     nlspa.add_pipe("sentencizer")
 
+    # data
+    threshold = 0.2
+    n_sents = 7
+    feature = "decision_date"
+
     # structured_press_release_r
     df = legal_doc_X_y(features="defendant")
-    df = df.iloc[:7, :]
+    df = df.iloc[:2, :]
     df["obj"] = [LegalDoc(i, nlpipe=nlpipe, nlspa=nlspa) for i in df.txt.values]
 
     # preds
     t = time.time()
     # 28 objects --> 181 secondes so --> +/-10 secondes per objects
-    df["preds"] = df.obj.apply(lambda i: i.predict_all())
+    df["pred_" + feature] = df.obj.apply(lambda i: i.predict(feature))
     t = time.time() - t
-
-    # labels
-    preds_labels = list(df.preds.iloc[0].keys())
-    for k in preds_labels:
-        df["pred_" + k] = df.preds.apply(lambda i: i[k])
 
     # 1st one
     one = df.iloc[0, :]
     one_txt = one.txt
-    one_ob = obj = self = one.obj
+    one_ob = self = one.obj
+    obj = self.data_

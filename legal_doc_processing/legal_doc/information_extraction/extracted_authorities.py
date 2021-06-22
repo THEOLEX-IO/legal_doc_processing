@@ -30,16 +30,14 @@ def _question_helper(txt) -> list:
 def _question_selector(key: str):
     """based on a key from _question helper find the list of good question to ask """
 
-    res = list()
+    qs = list()
 
-    # reason
     if "reason" in key:
         qs.extend(
             [
                 ("Who has reason?", "who_reason"),
             ]
         )
-
     elif "filed" in key:
         qs.extend(
             [
@@ -47,13 +45,13 @@ def _question_selector(key: str):
                 ("Who filed?", "who_filed"),
             ]
         )
-    else:
-        qs.extend(
-            [
-                ("Who has reason?", "who_reason"),
-                ("Who has filed?", "who_filed"),
-            ]
-        )
+    # else:
+    #     qs.extend(
+    #         [
+    #             ("Who has reason?", "who_reason"),
+    #             ("Who has filed?", "who_filed"),
+    #         ]
+    #     )
 
     return qs
 

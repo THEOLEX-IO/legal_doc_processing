@@ -7,21 +7,21 @@ from legal_doc_processing.utils import (
     _if_not_pipe,
     _if_not_spacy,
     _ask,
-    get_pers,
-    get_orgs,
+    # get_pers,
+    # get_orgs,
     get_pipeline,
 )
 
-from legal_doc_processing.legal_doc.utils import (
-    get_entities_pers_orgs,
-)
+# from legal_doc_processing.legal_doc.utils import (
+#     get_entities_pers_orgs,
+# )
 
 
 from legal_doc_processing.legal_doc.clean.defendant import (
     _sub_you_shall_not_pass,
 )
 
-from legal_doc_processing.information_extraction.utils import ask_all, merge_ans
+from legal_doc_processing.utils import ask_all, merge_ans
 
 
 def _question_helper(txt) -> list:

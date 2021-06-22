@@ -8,14 +8,14 @@ from legal_doc_processing.utils import (
     _if_not_pipe,
     _if_not_spacy,
     _ask,
-    get_pers,
-    get_orgs,
+    # get_pers,
+    # get_orgs,
     get_pipeline,
 )
 
 from legal_doc_processing.press_release.utils import (
     product_juridic_form,
-    get_entities_pers_orgs,
+    # get_entities_pers_orgs,
 )
 
 

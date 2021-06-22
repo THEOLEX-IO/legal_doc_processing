@@ -21,7 +21,7 @@ from legal_doc_processing.legal_doc.defendant_clean import (
     clean_ans,
 )
 
-from legal_doc_processing.information_extraction.utils import ask_all, merge_ans
+from legal_doc_processing.utils import ask_all, merge_ans
 
 
 def _question_helper(txt) -> list:

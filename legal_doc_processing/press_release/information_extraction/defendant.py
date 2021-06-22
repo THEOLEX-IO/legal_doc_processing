@@ -215,13 +215,13 @@ if __name__ == "__main__":
     # preds
     t = time.time()
     # 28 objects --> 181 secondes so --> +/-10 secondes per objects
-    df["preds"] = df.obj.apply(lambda i: i.predict_all())
+    df["pred_defendant"] = df.obj.apply(lambda i: i.predict("defendant"))
     t = time.time() - t
 
-    # labels
-    preds_labels = list(df.preds.iloc[0].keys())
-    for k in preds_labels:
-        df["pred_" + k] = df.preds.apply(lambda i: i[k])
+    # # labels
+    # preds_labels = list(df.preds.iloc[0].keys())
+    # for k in preds_labels:
+    #     df["pred_" + k] = df.preds.apply(lambda i: i[k])
 
     # 1st one
     one = df.iloc[0, :]

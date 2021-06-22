@@ -128,8 +128,10 @@ class Base:
     def _set_sents(self):
         """ """
 
-        self.h1_sents = [i.text for i in self.nlspa(self.h1).sents]
-        self.abstract_sents = [i.text for i in self.nlspa(self.abstract).sents]
+        self.h1_sents = [i.text for i in self.nlspa(self.h1).sents if i.text.strip()]
+        self.abstract_sents = [
+            i.text for i in self.nlspa(self.abstract).sents if i.text.strip()
+        ]
 
     ######################
 
@@ -265,20 +267,24 @@ class Base:
     def predict_all(self) -> str:
         """return self.predict("all") """
 
-        self._code_law_violation = self._predict["code_law_violation"](self.data_)
-        self._country_of_violation = self._predict["country_of_violation"](self.data_)
-        self._currency = self._predict["currency"](self.data_)
-        self._decision_date = self._predict["decision_date"](self.data_)
-        self._defendant = self._predict["defendant"](self.data_)
-        self._extracted_authorities = self._predict["extracted_authorities"](self.data_)
-        self._id = self._predict["id"](self.data_)
-        self._juridiction = self._predict["juridiction"](self.data_)
-        self._monetary_sanction = self._predict["monetary_sanction"](self.data_)
-        self._nature_of_violations = self._predict["nature_of_violations"](self.data_)
-        self._plaintiff = self._predict["plaintiff"](self.data_)
-        self._reference = self._predict["reference"](self.data_)
-        self._sentence = self._predict["sentence"](self.data_)
-        # self._violation_date = self._predict["violation_date"](self.data_)
+        for feature in self.feature_list:
+            setattr(self, "_" + feature, self._predict[feature](self.data_))
+
+        # DEPRECATED
+        # self._code_law_violation = self._predict["code_law_violation"](self.data_)
+        # self._country_of_violation = self._predict["country_of_violation"](self.data_)
+        # self._currency = self._predict["currency"](self.data_)
+        # self._decision_date = self._predict["decision_date"](self.data_)
+        # self._defendant = self._predict["defendant"](self.data_)
+        # self._extracted_authorities = self._predict["extracted_authorities"](self.data_)
+        # self._id = self._predict["id"](self.data_)
+        # self._juridiction = self._predict["juridiction"](self.data_)
+        # self._monetary_sanction = self._predict["monetary_sanction"](self.data_)
+        # self._nature_of_violations = self._predict["nature_of_violations"](self.data_)
+        # self._plaintiff = self._predict["plaintiff"](self.data_)
+        # self._reference = self._predict["reference"](self.data_)
+        # self._sentence = self._predict["sentence"](self.data_)
+        # # self._violation_date = self._predict["violation_date"](self.data_)
 
         return self.feature_dict
 

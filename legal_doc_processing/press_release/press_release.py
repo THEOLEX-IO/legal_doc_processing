@@ -12,7 +12,7 @@ class PressRelease(Base):
         file_path: str = None,
         nlpipe=None,
         nlspa=None,
-        n_paragraphs: int = 4,
+        n_lines: int = 6,
     ):
 
         Base.__init__(
@@ -41,7 +41,7 @@ class PressRelease(Base):
 
         # specs
         self.h1 = self.struct_text["h1"]
-        self.abstract = "\n".join(self.struct_text["article"].split("\n")[:n_paragraphs])
+        self.abstract = "\n".join(self.struct_text["article"].split("\n")[:n_lines])
 
         # set all
         self.set_all()

@@ -147,7 +147,7 @@ def _question_selector(key: str):
 #     return [(-1, -1)]
 
 
-def predict_nature_of_violations(obj: dict, threshold=0.4, n_sents: int = 3) -> list:
+def predict_nature_of_violations(obj: dict, threshold=0.4, n_sents: int = 5) -> list:
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # pipe to avoid re init a pipe each time (+/- 15 -> 60 sec)
@@ -234,13 +234,15 @@ if __name__ == "__main__":
     # preds
     t = time.time()
     # 28 objects --> 181 secondes so --> +/-10 secondes per objects
-    df["preds"] = df.obj.apply(lambda i: i.predict_all())
+    df["pred_nature_of_violations"] = df.obj.apply(
+        lambda i: i.predict("nature_of_violations")
+    )
     t = time.time() - t
 
-    # labels
-    preds_labels = list(df.preds.iloc[0].keys())
-    for k in preds_labels:
-        df["pred_" + k] = df.preds.apply(lambda i: i[k])
+    # # labels
+    # preds_labels = list(df.preds.iloc[0].keys())
+    # for k in preds_labels:
+    #     df["pred_" + k] = df.preds.apply(lambda i: i[k])
 
     # 1st one
     one = df.iloc[0, :]

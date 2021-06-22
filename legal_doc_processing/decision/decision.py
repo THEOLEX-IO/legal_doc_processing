@@ -65,6 +65,8 @@ class Decision(Base):
 
         if feature in self.feature_list:
             # try:
+            self.press_release.predict(feature)
+            self.legal_doc.predict(feature)
             val = self._predict[feature](self.press_release.data, self.legal_doc.data)
             setattr(self, "_" + feature, val)
             return val
@@ -76,6 +78,10 @@ class Decision(Base):
         """return self.predict("all") """
 
         for feature in self.feature_list:
+
+            self.press_release.predict_all()
+            self.legal_doc.predict_all()
+
             setattr(
                 self,
                 "_" + feature,
@@ -181,7 +187,7 @@ if __name__ == "__main__":
 
     # legal_doc df AND  OBj
     df = decision_X_y()
-    df = df.iloc[:7, :]
+    df = df.iloc[:3, :]
     # df["obj"] = df.txt.apply(lambda i: LegalDoc(i, nlpipe=nlpipe, nlspa=nlspa))
 
     # clean
@@ -190,3 +196,18 @@ if __name__ == "__main__":
 
     _dec = lambda i, j: Decision(i, j, nlpipe=nlpipe, nlspa=nlspa)
     df["ds"] = [_dec(i, j) for i, j in zip(df.press_txt.values, df.legal_txt.values)]
+
+    # preds
+    t = time.time()
+    # 28 objects --> 181 secondes so --> +/-10 secondes per objects
+    df["pred_defendant"] = df.ds.apply(lambda i: i.predict("defendant"))
+    t = time.time() - t
+
+    #     # labels
+    #     preds_labels = list(df.preds.iloc[0].keys())
+    #     for k in preds_labels:
+    #         df["pred_" + k] = df.preds.apply(lambda i: i[k])
+
+    # 1st one
+    one = df.iloc[0, :]
+    one_ob = obj = self = one.ds

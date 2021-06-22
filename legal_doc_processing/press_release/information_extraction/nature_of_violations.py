@@ -173,7 +173,7 @@ def predict_nature_of_violations(obj: dict, threshold=0.4, n_sents: int = 5) -> 
             # print(key)
             quest_pairs = _u(_question_selector(key))
             # print(quest_pairs)
-            ans.extend(ask_all(sent, quest_pairs, nlpipe=nlpipe))
+            ans.extend(ask_all(sent, quest_pairs, nlpipe=obj["nlpipe"]))
 
     # clean ans
     cleaned_ans = clean_ans(ans)

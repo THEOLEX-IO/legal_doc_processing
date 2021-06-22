@@ -14,20 +14,18 @@ def _question_helper(txt) -> list:
     _txt = txt.lower()
     res = list()
 
-    if "accused" in _txt:
-        res.append("accused")
-    if "defendant" in _txt:
-        res.append("defendant")
-    if "violate" in _txt:
-        res.append("violate")
-    if "against" in _txt:
-        res.append("against")
-    if "filed" in _txt:
-        res.append("filed")
-    if "judgement" in _txt:
-        res.append("judgement")
-    if "complaint" in _txt:
-        res.append("complaint")
+    k_list = [
+        "accused",
+        "defendant",
+        "violate",
+        "against",
+        "filed",
+        "judgement",
+        "complaint",
+    ]
+    for kk in k_list:
+        if kk in _txt:
+            res.append(kk)
 
     return res
 

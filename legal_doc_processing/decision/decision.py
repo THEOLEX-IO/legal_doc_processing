@@ -189,7 +189,7 @@ if __name__ == "__main__":
 
     # legal_doc df AND  OBj
     df = decision_X_y()
-    df = df.iloc[:10, :]
+    df = df.iloc[:, :]
     # df["obj"] = df.txt.apply(lambda i: LegalDoc(i, nlpipe=nlpipe, nlspa=nlspa))
 
     # clean

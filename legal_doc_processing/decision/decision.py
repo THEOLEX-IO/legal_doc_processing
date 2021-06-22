@@ -4,6 +4,7 @@ from legal_doc_processing.legal_doc.legal_doc import LegalDoc
 from legal_doc_processing.press_release.press_release import PressRelease
 from legal_doc_processing.utils import get_pipeline, get_spacy
 from legal_doc_processing.base.base import Base, base_from_file, base_from_text
+from legal_doc_processing.decision.information_extraction import *
 
 
 class Decision(Base):
@@ -164,3 +165,28 @@ def from_text(press_release, legal_doc, nlpipe=None, nlspa=None):
         )
     else:
         raise NotImplementedError("something went wrong mother fucker :) ")
+
+
+if __name__ == "__main__":
+
+    # import
+    import time
+    from legal_doc_processing.utils import get_pipeline, get_spacy
+    from legal_doc_processing.decision.loader import decision_X_y
+
+    # load
+    nlpipe = get_pipeline()
+    nlspa = get_spacy()
+    nlspa.add_pipe("sentencizer")
+
+    # legal_doc df AND  OBj
+    df = decision_X_y()
+    df = df.iloc[:7, :]
+    # df["obj"] = df.txt.apply(lambda i: LegalDoc(i, nlpipe=nlpipe, nlspa=nlspa))
+
+    # clean
+    df["press_txt"] = df.press_txt.fillna("")
+    df["legal_txt"] = df.legal_txt.fillna("")
+
+    _dec = lambda i, j: Decision(i, j, nlpipe=nlpipe, nlspa=nlspa)
+    df["ds"] = [_dec(i, j) for i, j in zip(df.press_txt.values, df.legal_txt.values)]

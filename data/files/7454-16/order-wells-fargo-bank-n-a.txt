@@ -1,0 +1,384 @@
+ 
+
+(— RECEIVED CFTC >
+
+ 
+
+UNITED STATES OF AMERICA
+Before the
+
+COMMODITY FUTURES TRADING COMMISSION Office of Proceedings
+Proceedings Clerk
+
+\ 10:40 am, Sep 27, a,
+
+ 
+
+ 
+
+ 
+
+In the Matter of
+Wells Fargo Bank, N.A., CFTC Docket No. 16-32
+
+Respondent.
+
+Somme” Nee” Ne” tee” ee” ee” ee”
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT,
+MAKING FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+
+I.
+
+The Commodity Futures Trading Commission (“Commission”) has reason to believe that
+from at least March 1, 2013, through November 13, 2015 (the “Relevant Period”), Wells Fargo
+Bank, N.A. (“Respondent”) violated Section 4s(f)(1)(A) of the Commodity Exchange Act
+(the “Act”), 7 U.S.C. § 6s(f)(1 (A) (2012), and Commission Regulations (“Regulations”) 20.4
+and 20.7, 17 C.F.R. §§ 20.4 and 20.7 (2016). Therefore, the Commission deems it appropriate
+and in the public interest that public administrative proceedings be, and hereby are, instituted to
+determine whether Respondent engaged in the violations set forth herein, and to determine
+whether any order should be issued imposing remedial sanctions.
+
+II.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement of Respondent Wells Fargo Bank, N.A. (“Offer”) that the
+Commission has determined to accept. Without admitting or denying any of the findings or
+conclusions herein, Respondent consents to the entry of this Order Instituting Proceedings
+Pursuant to Sections 6(c) and 6(d) of the Commodity Exchange Act, Making Findings and
+Imposing Remedial Sanctions (“Order”) and acknowledges service of this Order.’
+
+ 
+
+Respondent consents to the entry of this Order and to the use of these findings in this
+
+proceeding and in any other proceeding brought by the Commission or to which the Commission
+is a party; provided, however, that Respondent does not consent to the use of the Offer or the
+findings or conclusions in this Order consented to in the Offer as the sole basis for any other
+proceeding brought by the Commission, other than a proceeding in bankruptcy or to enforce the
+terms of this Order. Nor does Respondent consent to the use of the Offer or this Order, or the
+findings or conclusions in this Order consented to in the Offer, by any other party in any other
+proceeding.
+il.
+The Commission finds the following:
+A. SUMMARY
+
+Pursuant to Section 4s(f)(1)(A), 7 U.S.C. § 6s(H(1)(A) (2012), and Regulation 20.4, 17
+C.F.R. § 20.4 (2016), Swap Dealers that meet certain requirements are required to file daily large
+trader reports for reportable positions in physical commodity swaps (“LTRs”), which are
+populated with specific data as directed by the Commission, The LTRs must also conform to the
+form and manner for reporting and submitting information as set forth in Regulation 20,7, 17
+C.F.R. § 20.7 (2016).
+
+During the Relevant Period, Respondent filed LTRs which failed to comply with certain
+Commission requirements. In accepting Respondent’s Offer, the Commission recognizes
+Respondent’s cooperation during the investigation of this matter by the CFTC’s Division of
+Enforcement (“Division”), including Respondent’s prompt remediation upon learning of the non-
+compliant status of its LTRs and subsequent self-disclosures of reporting deficiencies to > the
+CFTC’s Office of Data and Technology (“ODT”).
+
+B. RESPONDENT
+
+Respondent has its main office in Sioux Falls, South Dakota and has been provisionally
+registered with the Commission as a Swap Dealer (“SD”) since December 31, 2012.
+
+C. FACTS
+
+As a provisionally registered SD, Respondent is required to submit LTRs in the form and
+manner determined by the Commission.” During the Relevant Period, Respondent submitted
+inaccurate LTRs that contained multiple errors, including both missing data and data presented in
+a format inconsistent with CFTC requirements. Between March 1, 2013 and November 13,
+2015, every LTR report submitted by Respondent failed to meet the Part 20 requirements. Errors
+in Respondent’s reports included, at various times during the Relevant Period, records that (1)
+failed to use the correct Reporting Entity Identifier; (2) improperly formatted entries in the
+“Nonstandard Swaption Indicator” field; (3) improperly formatted swaption expiration date
+values; (4) failed to provide a value for the gross (long or short) swap or swaption notional
+position; (5) failed, when the non-standard swaption indicator was either “null” or “standard,” to
+complete logically related fields such as the gross (long or short) “delta adjusted,” swaption
+strike price, swaption put or call, and/or swaption expiration date fields with appropriate “null”
+or substantive values; (6) improperly contained negative values for gross (long or short) swap,
+
+ 
+
+, The Part 20 rules became effective on September 20, 2011. Following the promulgation
+of the Part 20 rules, the Commission’s Division of Market Oversight, through a series of no-
+action letters, provided temporary relief from these reporting requirements and certain safe-
+harbor provisions. However, by March 1, 2013, such relief was no longer available and
+Respondent was required to be in full compliance with the Part 20 reporting requirements.
+
+ 
+gross (long or short) “delta adjusted” or “non-delta adjusted” swaption positions; (7) improperly
+contained principal positions that were not greater than or equal to the sum of the corresponding
+counterparty positions for uncleared NYMEX NG swaps or swaptions; and (8) improperly
+contained (a) both a “Futures Equivalent Month” position and a “Price Reference Month”
+position or (b) neither a “Futures Equivalent Month” position nor a “Price Reference Month”
+position,
+
+Given these errors, Respondent’s LTRs did not comply with the requirements governing
+Part 20 Reports, which are set forth in Regulations 20.4 and 20.7, 17 C.F.R. §§ 20.4 and 20.7
+(2016), in conjunction with further instructions provided in the Large Trader Reporting for
+Physical Commodity Swaps: Division of Market Oversight Guidebook for Part 20 Reports
+(“Part 20 Guidebook’), |
+
+In accepting Respondent’s Offer, the Commission recognizes Respondent’s cooperation
+in this matter. Upon receiving its first error message from the Commission in July 2015,
+respondent analyzed its past reports, self-disclosed additional issues with its LTRs, and made and
+continues to make modifications to its data processing and reporting systems as necessary to
+comply with its LTR reporting requirements,
+
+IV.
+LEGAL DISCUSSION
+
+Pursuant to Section 4s(f)(1)(A) of the Act: “Each registered swap dealer and major swap
+participant ... shall make such reports as are required by the Commission by rule or regulation
+regarding the transactions and positions and financial condition of the registered swap dealer or
+major swap participant.” 7 U.S.C. § 6s()(1)(A) (2012). Regulation 20.4(c) provides certain
+enumerated data elements that must be included in a SD’s data report. 17 C.F.R. § 20.4(c)
+(2016). These data elements include, among others: the commodity underlying the reportable
+positions, the commodity reference price, futures equivalent month, long paired swap positions
+and short paired swap positions, swaption strike price, name of the counterparty, and an
+identifier indicating that a principal or counterparty position is being reported.
+
+Regulation 20.7 provides, in relevant part:
+
+Unless otherwise instructed by the Commission, a clearing
+organization or reporting entity shall submit data records and any
+other information required under this part to the Commission ...
+(a) Using the format, coding structure, and electronic data
+transmission procedures approved in writing by the Commission.
+
+17 C.F.R. § 20.7 (2016), The prescribed manner and form of reporting and submitting swaps
+data is provided in the Part 20 Guidebook.’
+
+ 
+
+; As provided for in Regulation 20.8, 17 C.F.R. § 20.8 (2016), the Commission delegated
+certain authority to the Director of DMO or others as the Director may designate from time to
+
+ 
+Large trader reporting for physical commodity swaps is essential to the Commission’s
+ability to conduct effective surveillance of markets in U.S. physical commodity futures and
+economically equivalent swaps, Failure to comply with the reporting specifications set forth by
+the Commission hinders the Commission’s ability to efficiently process and effectively utilize
+this critical data. The accuracy of the reports is critical to the mission of the Commission for
+numerous reasons, including surveillance of the markets to detect disruptions to market integrity,
+enforcement and calculating statistics that the Commission publishes to enhance market
+transparency. See, e.g., Imre Barclays Bank PLC, CFTC No, 16-20 (CFTC July 6, 2016)
+(consent order); In re Deutsche Bank AG, CFTC No. 15-40 (CFTC Sept. 30, 2015) (consent
+order); In re Australia and New Zealand Banking Group, Ltd., CFTC No, 15-31 (Sept. 17, 2015)
+(consent order); Jn re JP Morgan Securities LLC, CFTC No, 14-19 July 29, 2014) (consent
+order).
+
+Respondent provisionally registered as a SD on December 31, 2012, and was required to
+submit LTRs during the Relevant Period. LTRs submitted by Respondent omitted required data
+elements and reported certain data in a manner that did not conform to the specifications required
+by the Commission. Accordingly, Respondent violated Section 4s((1)(A) of the Act, 7 U.S.C,
+§ 6s(f)(1)(A) (2012), and Regulations 20.4 and 20.7, 17 C.F.R. §§ 20.4 and 20.7 (2015).
+
+V.
+FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that Respondent violated Section
+4s(f)(1)(A) of the Act, 7 U.S.C. § 6s(f)(1)(A) (2012), and Regulations 20.4 and 20.7, 17 C.F.R.
+§§ 20.4 and 20.7 (2015).
+
+VIL
+OFFER OF SETTLEMENT
+
+Respondent has submitted an Offer in which it, without admitting or denying the findings
+and conclusions herein:
+
+A. Acknowledges receipt of service of this Order;
+
+B, Admits the jurisdiction of the Commission to all the matters set forth in this Order
+and for any action or proceeding brought or authorized by the Commission based on
+violation of or enforcement of this Order;
+
+C. Waives:
+
+ 
+
+time. This delegated authority includes the authority pursuant to Regulation 20.7 “for providing
+instructions or determining the format, coding structure, and electronic data transmission
+procedures for submitting data records and any other information required under [Part 20],” 17
+C.F.R. § 20.7 (2016),
+
+ 
+the filing and service of a complaint and notice of hearing;
+a hearing;
+
+all post-hearing procedures;
+
+judicial review by any court;
+
+any and all objections to the participation by any member of the Commission’s
+staff in the Commission’s consideration of the Offer;
+
+any and all claims that it may possess under the Equal Access to Justice Act,
+
+5 U.S.C. § 504 (2012) and 28 U.S.C, § 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Commission’s
+Regulations, 17 C.F.R. §§ 148.1-30 (2016), relating to, or arising from, this
+proceeding;
+
+any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No, 104-121, §§ 201-253, 110 Stat.
+847, 857-68 (1996), as amended by Pub. L. No, 110-28, § 8302, 121 Stat. 112,
+204-205 (2007), relating to, or arising from, this proceeding; and
+
+any claims of Double Jeopardy based upon the institution of this proceeding or
+the entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+. Stipulates that the record basis on which this Order is entered shall consist solely of
+
+the findings contained in this Order to which Respondent has consented in the Offer;
+
+and
+
+. Consents, solely on the basis of the Offer, to the Commission’s entry of this Order
+that:
+
+I,
+
+makes findings by the Commission that Respondent violated Section 4s(f)(1)(A)
+of the Act, 7 U.S.C, § 6s(f)(1)(A) (2012), and Regulations 20.4 and 20.7,
+17 C.F.R. §§ 20.4 and 20.7 (2016);
+
+orders Respondent to cease and desist from violating Section 4s(f)(1)(A) of the
+Act, 7 U.S.C. § 6s(f)(1)(A) (2012), and Regulations 20.4 and 20.7,
+
+17 C.F.R. §§ 20.4 and 20.7 (2016), as such violations relate to the conduct
+described above;
+
+orders Respondent to pay a civil monetary penalty in the amount of $400,000,
+plus post-judgment interest, within fifteen (15) business days of the date of the
+entry of this Order;
+
+orders Respondent to comply with the conditions, undertakings, and
+representations consented to in the Offer and set forth in Part VII of this Order. .
+
+ 
+Upon consideration, the Commission has determined to accept the Offer.
+Vil.
+
+ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent shall cease and desist from violating Section 4s(f)(1)(A) of the Act,
+7 U.S.C. § 6s(f)C1)(A) (2012), and Regulations 20.4 and 20,7, 17 C.F.R. §§ 20.4 and 20.7
+(2016), as such violations relate to the conduct described above.
+
+Respondent shall pay a civil monetary penalty in the amount of four hundred thousand
+dollars ($400,000) (the “CMP Obligation”), plus post-judgment interest, within fifteen
+(15) business days of the date of the entry of the Order, If the CMP Obligation is not
+paid in full within fifteen (15) business days of the date of entry of the Order, then post-
+judgment interest shall accrue on the CMP Obligation beginning on the date of entry of
+this Order and shall be determined by using the Treasury Bill rate prevailing on the date
+of entry of the Order pursuant to 28 U.S.C. § 1961 (2012), Respondent shall pay the
+CMP Obligation by electronic funds transfer, U.S. postal money order, certified check,
+bank cashier’s check, or bank money order. If payment is to be made other than by
+electronic funds transfer, Respondent shall make the payment payable to the Commodity
+Futures Trading Commission, and sent to the address below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables
+DOT/FAA/MMAC/AMZ-341
+CFTC/CPSC/SEC
+
+6500 8. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+
+nikki. gibson@faa.gov
+
+If payment is to be made by electronic transfer, Respondent shall contact Nikki Gibson or
+her successor at the above address to receive payment instructions and shall fully comply
+with those instructions, Respondent shall accompany payment of the CMP Obligation
+with a cover letter that identifies the paying Respondent and the name and docket number
+of this proceeding. Respondent shall simultaneously transmit copies of the cover letter
+and the form of payment to the Chief Financial Officer, Commodity Futures Trading
+Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
+
+Respondent and its successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+ 
+Public Statements: Respondent agrees that neither it nor any of its successors,
+assigns, agents or employees under its authority or contro! shall take any action or
+make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order, or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondent’s (i) testimonial obligations, or (11) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondent and its successors and assigns shall undertake all steps necessary to
+ensure that all of its agents and/or employees under their authority or control
+understand and comply with this agreement.
+
+Cooperation with the Commission: Respondent shall cooperate fully and
+expeditiously with the Commission, including the Commission’s Division of
+Enforcement, and any other governmental agency in this action, and in any
+investigation, civil litigation, or administrative matter related to the subject matter
+of this action or any current or future Commission investigation related thereto,
+including any matter in which the Respondent has previously provided
+information.
+
+Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission of any partial payment of Respondent’s CMP Obligation shall
+not be deemed a waiver of its obligation to make further payments pursuant to this
+Order, or a waiver of the Commission’s right to seek to compel payment of any
+remaining balance.
+
+Change of Address/Phone: Until such time as Respondent satisfies in full its
+CMP Obligation as set forth in this Order, Respondent shall provide written
+notice to the Commission by certified mail of any change to its telephone number
+and mailing address within ten (10) calendar days of the change.
+
+Representations:
+
+a. Respondent has reviewed and is revising its reporting systems for LTRs to
+address the errors identified during the Relevant Period and additional errors
+that it has self-reported to the Staff. Respondent will continue to monitor its
+LTRs and will provide monthly status reports on the development of its LTR
+reporting systems, including any ongoing deficiencies, to the CFTC’s Office
+of Data & Technology and/or the Commission’s Division of Market Oversight
+for a period of one (1) year from the date of entry of this order, to ensure
+
+_ compliance with the Commission’s LTR data requirements; and
+
+b. After the Respondent has revised its reporting system for LTRs, but no later
+than fifteen (15) months from the date of entry of this
+Order, Respondent agrees to submit replacement data that meets its reporting
+obligations for the Relevant Period, in addition to replacement data for self-
+identified missing or erroneous records brought to the attention of the Staff as
+
+ 
+of the date of the filing of this Order. Respondent agrees to contact ODT staff
+to arrange for scheduling of bulk replacements of data prior to initiating the
+data transfer.
+
+6, The provisions of this Order shall be effective on this date.
+
+By the Commission.
+
+Christopher J. Kirkp
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+    
+
+Dated: September 27, 2016
+
+ 

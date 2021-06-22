@@ -1,0 +1,497 @@
+ 
+
+(— RECEIVED CFTC >
+
+UNITED STATES OF AMERICA
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Before the Coe .
+COMMODITY FUTURES TRADING COMMIS$ION Office of Proceedings
+Proceedings Clerk
+O41 pm, Sep 14, 201 wy,
+
+)
+In the Matter of: )
+)
+NatWest Markets Plc, formerly The )
+
+Royal Bank of Scotland plc, ) CFTC Docket No. 18-32
+)
+Respondent. )
+)
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+
+I.
+
+The Commodity Futures Trading Commission (“Commission” or “CFTC” ) has reason to
+believe that from in or about January 2013 to the present (the “Relevant Period”), NatWest
+Markets Plc, formerly The Royal Bank of Scotland plc, (“Respondent” or “NatWest”) violated
+Sections 2(a)(13)(F) and (G) and 4r(a)(3) of the Commodity Exchange Act (the “Act”), 7 U.S.C.
+8§ 2(a)(13)(P), (G), 6r(a)(3) (2012), and Commission Regulations (“Regulations”) 43.3(a)(1) and
+(3), 43.3(e)(1)q) and (i1), 43.4(a), 45.3(c)(1), 45.4(d)(1)G@), 45.5(b)(2)G), 45.14(a), and
+46.3(a)(1)G) and (2)(i), 17 C.F.R. §§ 43.3(a)(1), (3), 43.3 (CDQ), (i), 43.4(a), 45.3(c)(1),
+45.4(d)(1)G), 45.5(b)(2)G), 45.14(a), 46.3(a)(1)G), (2)G) (2017). Therefore, the Commission
+deems it appropriate and in the public interest that public administrative proceedings be, and
+hereby are, instituted to determine whether Respondent engaged in the violations set forth herein
+and to determine whether any order should be issued imposing remedial sanctions.
+
+Il.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
+Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions (“Order”) and
+acknowledge service of this Order.’
+
+ 
+
+' Respondent consents to the entry of this Order and to the use of the findings of fact and conclusions of law in this
+Order in this proceeding and in any other proceeding brought by the Commission or to which the Commission is a
+party or claimant, and agrees that they shall be taken as true and correct and be given preclusive effect therein,
+without further proof. Respondent does not consent, however, to the use of this Order, or the findings or
+conclusions herein, as the sole basis for any other proceeding brought by the Commission or to which the
+Commission is a party or claimant, other than: a proceeding in bankruptcy or receivership; or a proceeding to
+II.
+The Commission finds the following:
+A. SUMMARY
+
+As a provisionally registered swap dealer, NatWest is required to comply with certain
+reporting requirements related to its swap transactions. Section 2(a)(13)(F) and (G) of the Act, 7
+U.S.C. § 2(a)(13)(B), (G) (2012), (1) requires parties to a swap transaction to report swap
+transaction information to a registered swap data repository (“SDR”) in a timely manner as
+prescribed by the Commission, and (2) requires all swaps, both cleared and uncleared, to be
+reported to a registered SDR. Similarly, Section 4r(a)(3) of the Act, 7 U.S.C. § 6r(a)(3) (2012),
+requires swap dealers to report uncleared swap transactions to an SDR within such time period as
+prescribed by the Commission. In particular, the Regulations specify requirements for real-time
+public reporting, public availability of swap transaction and pricing data, and reporting of
+creation and continuation data to an SDR. See Parts 43, 45, 17 C.F.R. pts. 43, 45 (2017).
+Further, the Regulations require swap dealers to make ongoing reports regarding pre-enactment
+and transition swaps in existence on or after April 25, 2011. See Part 46, 17 C.F.R. pt. 46
+(2017).” The reporting requirements are designed to enhance transparency, promote
+standardization, and reduce systemic risk.
+
+During the Relevant Period, NatWest failed to comply with its swap transaction reporting
+obligations as a swap dealer under the Act and Regulations. Generally, NatWest under-reported
+and over-reported tens of thousands of transactions to an SDR, misreported tens of thousands of
+transactions to an SDR, and failed to report hundreds of thousands of pre-enactment transactions
+to an SDR in a timely manner. Because of NatWest’s reporting failures, certain data for
+numerous swaps transactions both live and historical was not provided to an SDR and was not
+disseminated to the market through the real-time public tape. As a result, NatWest failed to
+properly report to an SDR hundreds of thousands of swap transactions across all asset classes in
+violation of Sections 2(a)(13)(F) and (G) and 4r(a)(3) of the Act, and Regulations 43.3(a)(1) and
+(3), 43.3(e)(1)q@) and (i1), 43.4(a), 45.3(c)(1), 45.4(d)(1)@), 45.5(b)(2) a), 45.14(a), and
+46.3(a)(1)G) and (2)().
+
+Reporting is at the heart of the Commission’s market and financial surveillance
+programs, which are critical to the Commission’s mission to protect market participants and
+promote market integrity. Accurate swap data is thus essential to effective fulfillment of the
+regulatory functions of the Commission, including meaningful surveillance and enforcement
+programs. Moreover, real-time public dissemination of swap transaction and pricing data
+
+ 
+
+enforce the terms of this Order. Respondent does not consent to the use of the Offer or this Order, or the findings or
+conclusions in this Order, by any other party in any other proceeding.
+
+* Pre-enactment swaps are those swaps executed prior to passage of the Dodd-Frank Wall Street Reform and
+Consumer Protection Act (“Dodd-Frank Act’), Pub. L. 111-203, 124 Stat. 1376 (2010), and transition swaps are
+those entered into between the law’s enactment date and the applicable compliance date for swap data recordkeeping
+and reporting. See infra Section IV. Legal Discussion, at p. 5.
+supports the fairness and efficiency of markets and increases transparency, which in turn
+improves price discovery.
+
+In accepting NatWest’s Offer, the Commission recognizes that NatWest provided
+substantial cooperation during the investigation of this matter, and that NatWest has taken
+substantial remedial action to address the majority of its reporting deficiencies and will continue
+to remediate the minority of deficiencies that still remain. The Commission notes that NatWest’s
+cooperation and remediation are recognized in the form of a significantly reduced civil monetary
+penalty.
+
+B. RESPONDENT
+
+NatWest Markets Plc is a British banking and financial services company and a non-
+United States swap dealer headquartered in the United Kingdom. Under the legal name The
+Royal Bank of Scotland plc, NatWest was provisionally registered as a swap dealer with the
+Commission on December 31, 2012.
+
+C. FACTS
+
+In or about July 2014, the Commission’s Division of Enforcement (“Division”) began
+investigating NatWest for swaps data reporting issues relating to the U.S. person indicator for
+certain credit default swaps. While that investigation was ongoing, in late 2014 NatWest
+discovered additional deficiencies in its reporting of swaps data pursuant to Parts 43, 45, and 46
+of the Regulations that form the subject matter of this Order. In October 2015, after the initial
+investigation was closed, NatWest reported to the Commission the additional deficiencies in its
+reporting of swaps data.
+
+NatWest subsequently provided Commission staff additional details concerning these
+deficiencies and quantified the scope of each issue by identifying asset class, date range, and
+number of swaps implicated. NatWest also provided an update on remediation efforts.
+According to the information provided by NatWest, NatWest estimated that at least several
+hundred thousand swaps in four asset classes° were affected by the identified deficiencies in its
+swaps reporting practices during the Relevant Period, which resulted in reporting errors.
+
+Thereafter, beginning on December 16, 2015, to the present, NatWest sent to
+Commission staff quarterly updates identifying (1) additional deficiencies in its swaps reporting
+practices that NatWest had not initially identified, and (2) updates on remediation efforts. These
+deficiencies concerned anywhere from a handful of transactions over a short period of time to
+tens of thousands of transactions over a much longer period of time. In addition to providing
+Commission staff with quarterly updates on reporting issues and remediation efforts, NatWest
+submitted to the Division (1) information identifying other reporting issues that generally have
+relatively low affected trade volumes and, per NatWest’s issue rating methodology, have
+received lower severity issue ratings, and (2) self-reports of certain reporting issues that NatWest
+
+ 
+
+* The asset classes identified by NatWest were Rates, Credit, Equities, and foreign exchange (“FX”).
+
+3
+identified after submitting the most recent quarterly update at that time and that it believed
+warranted a disclosure to the Division before the next quarterly update.
+
+Based on the Division’s investigation, including a review of NatWest’s disclosures,
+during the Relevant Period, NatWest had multiple swaps reporting errors across more than 50
+discrete areas. Primarily, these swaps reporting errors centered on NatWest’s inability to timely
+and properly report to an SDR swaps creation data, swaps continuation data, unique swap
+identifiers (“USI”), pre-enactment swap transactions, and corrected swaps data.
+
+In particular, NatWest failed to properly report to an SDR the swap creation data,
+including all primary economic terms for the swap, for a number of off-facility swaps not subject
+to mandatory clearing during the Relevant Period. For example, NatWest failed to report tens of
+thousands of inter-affiliate swap transactions in the FX asset class. Similarly, NatWest failed to
+report tens of thousands of swap transactions in FX with certain counterparties due to a problem
+with its data system lacking a classification for the counterparties. NatWest further inaccurately
+sub-categorized tens of thousands of transactions in rates as exotic rather than non-exotic
+transactions. NatWest also failed to properly report to an SDR swap continuation data and all
+life cycle event data, including all changes to the primary economic terms of the swap, for a
+number of uncleared swaps during the Relevant Period.
+
+NatWest further failed to properly report to an SDR the USI for a number of its off-
+facility swaps during the Relevant Period. For example, after certain life cycle events occurred
+for FX transactions (e.g., cancels and re-keys, allocations, manual exercises, and novations), the
+trade’s USI was not being populated in NatWest’s reports for the post life cycle event trade such
+that the two trades were not linked properly in SDR records.
+
+Moreover, NatWest failed to report in a timely manner to an SDR the required primary
+economic terms and continuation data for hundreds of thousands of pre-enactment swap
+transactions in the rates and credit asset classes that were in existence on or after April 25, 2011,
+during the Relevant Period.
+
+Finally, during the Relevant Period, when NatWest initially learned of its errors and
+omissions with respect to its various reporting failures, it did not promptly submit corrected data
+to the SDR nor did it promptly notify the SDR of the errors and omissions in its previously
+reported data. After the Division had begun its investigation into NatWest’s swaps data
+reporting practices, and after NatWest reported certain deficiencies to the Commission, NatWest
+then notified the SDR of these errors and omissions and submitted corrected data to the SDR.
+
+These are just some examples of the multiple issues that NatWest encountered with its
+swaps reporting obligations across multiple asset classes.
+
+Since the Division began its investigation into NatWest’s deficiencies with its swaps
+reporting practices, NatWest has cooperated with staff, and has remediated the majority of its
+swap reporting issues. Among other things, after the Division began investigating NatWest’s
+swaps data reporting practices, NatWest identified swaps data reporting deficiencies for staff on
+a rolling basis, and NatWest undertook substantial remediation efforts in an effort to fix the
+deficiencies. NatWest undertook to explain to staff the mechanics of NatWest’s swaps data
+reporting systems, control procedures, and governance structure used to identify and address
+reporting issues. NatWest also provided staff with quarterly updates regarding its remediation
+efforts as well as other submissions made outside of the quarterly update process — specifically,
+compilations of reporting issues with relatively low affected trade volumes that occurred during
+the Relevant Period, and self-reports of certain reporting issues that NatWest discovered after the
+most recent quarterly update at that time and that it believed warranted a disclosure to the
+Division before the next quarterly update. NatWest’s disclosures demonstrate that, as of the date
+of this Order, NatWest already has remediated the majority of its swaps reporting deficiencies
+and that only a minority of deficiencies remain that still require remediation. In recognition of
+this substantial cooperation and remediation, the civil monetary penalty has been significantly
+reduced.
+
+IV.
+LEGAL DISCUSSION
+
+To enhance transparency, promote standardization, and reduce systemic risk, Section 727
+of the Dodd-Frank Act, 124 Stat. at 1696-97, added to the Act provisions that (1) require the
+parties to a swap to report swap transaction information to the appropriate registered entity in a
+timely manner as prescribed by the Commission, and (2) require all swaps, both cleared and
+uncleared, to be reported to a registered SDR. See Sections 2(a)(13)(F) and (G) of the Act,
+7TUS.C. § 2(a)(13)(F), (G) (2012). Likewise, Section 4r(a)(3) of the Act, 7 U.S.C. § 6r(a)(3)
+(2012), requires swap dealers to report uncleared swap transactions to an SDR within such time
+period as prescribed by the Commission. Pursuant to these requirements, the Commission
+adopted implementing reporting regulations, including those under Parts 43, 45, and 46 of the
+Regulations, 17 C.F.R. pts. 43, 45, 46 (2017). The reporting requirements under those
+regulations were phased-in over time based upon asset class. See Real-Time Public Reporting of
+Swap Transaction Data, 77 Fed. Reg. 1182 (Jan. 9, 2012); Swap Data Recordkeeping and
+Reporting Requirements, 77 Fed. Reg. 2136 (Jan. 13, 2012).
+
+Part 43 establishes requirements for the real-time public reporting and public
+availability of swap transaction data. See Regulation 43.2 and 43.3, 17 C.F.R. §§ 43.2, 43.3
+(2017). Under Part 43, reporting parties must report a publicly reportable swap transaction to
+an SDR as soon as technologically practicable after the swap transaction is executed. See
+Regulation 43.3(a)(1), 17 C.F.R. § 43.3(a)(1) (2017) (“A reporting party shall report any
+publicly reportable swap transaction to a registered swap data repository as soon as
+technologically practicable after such publicly reportable swap transaction is executed.”); see
+also Regulation 43.4(a), 17 C.F.R. § 43.4(a) (2017) (“Swap transaction and pricing information
+shall be reported to a registered swap data repository so that the registered swap data repository
+can publicly disseminate swap transaction and pricing data in real-time.”). The reporting
+requirement for a reporting party includes reporting all off-facility swaps to an SDR.
+Regulation 43.3(a)(3), 17 C.F.R § 43.3(a)(3) (2017). A publicly reportable swap transaction is
+defined in Regulation 43.2 and includes, among other things, “[a]ny termination, assignment,
+novation, exchange, transfer, amendment, conveyance, or extinguishing of rights or obligations
+of a swap that changes the pricing of a swap.” See Regulation 43.2, 17 C.F.R § 43.2 (2017).
+Further, under Part 43, if a reporting party to a swap becomes aware of an error or omission in
+
+5
+the swap transaction or pricing data which it reported to an SDR, the reporting party shall notify
+the SDR of the error or omission and shall promptly submit corrected data to the SDR. See
+Regulation 43.3(e)(1)G) and (ii), 17 C.F.R. § 43.3(e)(1)G), Gi) (2017).
+
+Part 45 requires reporting parties to, among other things, report swap creation and
+continuation data to ensure that all data concerning a swap remains current and accurate. See
+Regulations 45.3 and 45.4, 17 C.F.R. §§ 45.3, 45.4 (2017). Specifically, Regulation 45.3(c)(1)
+requires that for all off-facility swaps in the credit, equity, FX, and interest rate asset classes
+not subject to mandatory clearing requirements, a swap dealer that is a reporting counterparty
+must report to an SDR all primary economic term data for the swap within the time prescribed
+by the Regulation. See 17 C.F.R. § 45.3(c)(1) (2017). Similarly, reporting parties can comply
+with the continuation data requirement by “reporting life cycle event data or state data for the
+swap.” See Regulation 45.4(a), 17 C.F.R. § 45.4(a) (2017). The Regulations define a life
+cycle event to include “any event that would result in either a change to a primary economic
+term of a swap or to any primary economic terms data previously reported to a swap data
+repository in connection with a swap,” including among other things, a “partial or full
+termination of the swap,” a “change to the end date for the swap,” and “a change in the cash
+flows or rates originally reported.” See Regulation 45.1, 17 C.F.R. § 45.1 (2017). Part 45 also
+requires that for all uncleared swaps, the reporting counterparty must report all swap
+continuation data, including life cycle event data, to an SDR on the same day that the life cycle
+event occurred. See Regulation 45.4(d)(1)G), 17 C.F.R. § 45.4(d)(1)G) (2017). Part 45 further
+requires that for each off-facility swap where the reporting counterparty is a swap dealer, the
+reporting counterparty shall transmit a USI for the swap to an SDR. See Regulation
+45.5(b)(2)G), 17 C.F.R. § 45.5(b)(2)() (2017). Finally, under Part 45, the reporting
+counterparty must report a correction of errors or omissions as soon as technologically
+practicable after discovery of the error. See Regulation 45.14(a), 17 C.F.R. § 45.14(a) (2017).
+
+Part 46 requires swap dealers to make ongoing reports regarding pre-enactment and
+transition swaps. In particular Regulation 46.3(a) requires that for each pre-enactment swap or
+transition swap in existence on or after April 25, 2011, the reporting counterparty shall report to
+an SDR among other things the minimum primary economic terms as well as continuation data
+of the swap. See Regulations 46.3(a)(1)@) and (2)G), 17 C.F.R. §§ 46.3(a)(1)G), (2)G) (2017).
+
+The accuracy and completeness of swap reporting are critical to the Commission’s
+mission to protect market participants and to ensure market integrity. See, e.g., In re Deutsche
+Bank AG, CFTC No. 15-40, 2015 WL 5783049 (Sept. 30, 2015) (consent order); In re ICE
+Futures U.S., Inc., CFTC No. 15-17, 2015 WL 1276463 (Mar. 16, 2015) (consent order); Jn re
+Société Générale §.A., CFTC No. 17-01, 2016 WL 7210405 (Dec. 7, 2016) (consent order).
+Market participants rely upon the public availability of swaps data for price discovery purposes.
+The Commission, in turn, requires complete and accurate reporting data to engage in meaningful
+oversight of the swaps market.
+
+During the Relevant Period, NatWest failed to: (1) properly report to an SDR the swap
+creation data, including all primary economic terms for the swap, for a number of off-facility
+swaps not subject to mandatory clearing; (2) properly report to an SDR swap continuation data
+and all life cycle event data, including all changes to the primary economic terms of the swap,
+for a number of uncleared swaps; (3) properly report to an SDR the USI for a number of its off-
+facility swaps; (4) report in a timely manner to an SDR the required primary economic terms and
+continuation data for hundreds of thousands of pre-enactment swap transactions in the rates and
+credit asset classes that were in existence on or after April 25, 2011; and (5) promptly submit
+corrected data to the SDR or to promptly notify an SDR of the errors and omissions in its
+previously reported data once NatWest learned of its errors and omissions with respect to its
+various reporting failures. The foregoing acts, omissions, and failures of NatWest’s employees
+occurred within the scope of their employment, office, or agency with NatWest; therefore,
+pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.D. §2(a)(1)(B) (2012), and Regulation 1.2, 17
+C.F.R. § 1.2 (2017), NatWest is liable for those acts, omissions, and failures in violation of
+Sections 2(a)(13)(F) and (G) and 4r(a)(3) of the Act, and Regulations 43.3(a)(1) and (3),
+43.3(e)(1)@) and (ii), 43.4(a), 45.3(c)(1), 45.4(d)(1)G), 45.5(b)(2)G), 45.14(a), and 46.3(a)(1)@)
+and (2)(1).
+
+V.
+FINDINGS OF VIOLATION
+
+Based on the foregoing, the Commission finds that, during the Relevant Period,
+Respondent failed to properly report to an SDR hundreds of thousands of swap transactions
+across all asset classes resulting in reporting errors in violation of Sections 2(a)(13)(F) and (G)
+and 4r(a)(3) of the Act, 7 U.S.C. §§ 2(a)(13)(P), (G), 6r(a)(3) (2012), and Regulations 43.3(a)(1)
+and (3), 43.3(e)(1)(@) and (ii), 43.4(a), 45.3(c)(1), 45.4(d)(1)@), 45.5(b)(2)@), 45.14(a), and
+46.3(a)(1)(@) and (2)(), 17 C.F.R. §§ 43.3(a)(1), (3), 43.3 (CC), Gy, 43.4(a), 45.3(c)(1),
+45.4(d)(1)G), 45.5(b)(2)), 45.14(a), 46.3(a)(1)@), (2)G) (2017).
+
+VI.
+OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+A. Acknowledges service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C. Waives:
+1. The filing and service of a complaint and notice of hearing;
+2. A hearing;
+3. All post-hearing procedures;
+
+4. Judicial review by any court;
+Any and all objections to the participation by any member of the Commission’s
+staff in the Commission’s consideration of the Offer;
+
+Any and all claims that it may possess under the Equal Access to Justice Act, 5
+U.S.C. § 504 (2012) and 28 U.S.C. § 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Commission’s
+Regulations, 17 C.F.R. pt. 148 (2017), relating to, or arising from, this
+proceeding;
+
+Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, §§ 201-53, 110 Stat.
+847, 857-74 (codified as amended in scattered sections of 5 and 15 U.S.C.),
+relating to, or arising from, this proceeding; and
+
+Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order;
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer; and
+
+Consents, solely on the basis of the Offer, to the Commission’s entry of this Order that:
+
+1.
+
+Makes findings by the Commission that Respondent violated Sections 2(a)(13)(F)
+and (G) and 4r(a)(3) of the Act, 7 U.S.C. §§ 2(a)(13)(F), (G), 6r(a)(3) (2012), and
+Regulations 43.3(a)(1) and (3), 43.3(e)(1)G@) and (a1), 43.4(a), 45.3(c)C1),
+45.4(d)(1)G), 45.5(b)(2)G), 45.14(a), and 46.3(a)(1)G) and (2)(), 17 C.F.R.
+
+8§ 43.3(a)(1), (3), 43.3 (e)(1)G), (ii), 43.4(a), 45.3(c)(1), 45.4(d)(1)G),
+45.5(b)(2)G), 45.14(a), 46.3(a)(1)G), (2)G) (2017);
+
+Orders Respondent to cease and desist from violating Sections 2(a)(13)(F) and
+(G) and 4r(a)(3) of the Act and Regulations 43.3(a)(1) and (3), 43.3(e)(1)G) and
+(ii), 43.4(a), 45.3(c)(1), 45.4(d)(1)G), 45.5(b)(2)G), 45.14(a), and 46.3(a)(1)G) and
+(2)q) no later than nine months from the date of the entry of this Order in order
+for Respondent to come into compliance with the Act and Regulations set out in
+this subsection;
+
+Orders Respondent to pay a civil monetary penalty in the amount of seven
+hundred fifty thousand dollars ($750,000), plus post-judgment interest within ten
+(10) days of the date of the entry of this Order; and
+
+Orders Respondent to comply with the conditions and undertakings consented to
+in the Offer and as set forth in Section VII of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+VIL.
+
+ORDER
+
+Accordingly, [IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent shall cease and desist from violating Sections 2(a)(13)(F) and (G) and
+Ar(a)(3) of the Act, 7 U.S.C. §§ 2(a)(13)(F), (G), 6r(a)(3) (2012), and Regulations
+43.3(a)(1) and (3), 43.3(e)(1)G) and (41), 43.4(a), 45.3(c)(1), 45.4(d)(1)G), 45.5(b)(2) G4),
+45.14(a), and 46.3(a)(1)@) and (2)(i), 17 C.F.R. §§ 43.3(a)(1), (3), 43.3 (e)(1)G), Gi),
+43.4(a), 45.3(c)(1), 45.4(d)(1)@), 45.5(b)(2)G), 45.14(a), 46.3(a)(1)@), (2)G) (2017) no
+later than nine months from the date of the entry of this Order in order for Respondent to
+come into compliance with the Act and Regulations set out in this subsection.
+
+Respondent shall pay a civil monetary penalty in the amount of seven hundred fifty
+thousand dollars ($750,000) (“CMP Obligation”) within ten (10) days of the date of entry
+of this Order. If the CMP Obligation is not paid in full within ten (10) days of the date of
+entry of this Order, then post-judgment interest shall accrue on the CMP Obligation
+beginning on the date of entry of this Order and shall be determined by using the Treasury
+Bill rate prevailing on the date of entry of this Order pursuant to 28 U.S.C. § 1961 (2012).
+
+Respondent shall pay the CMP Obligation by electronic funds transfer, U.S. postal
+money order, certified check, bank cashier’s check, or bank money order. If payment is
+to be made other than by electronic funds transfer, then the payment shall be made
+payable to the Commodity Futures Trading Commission and sent to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+
+9-AMC-AR-CFTC @ faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Marie Thorne
+or her successor at the above address to receive payment instructions and shall fully comply
+with those instructions. Respondent shall accompany payment of the CMP Obligation with a
+cover letter that identifies the paying Respondent and the name and docket number of this
+proceeding. The paying Respondent shall simultaneously transmit copies of the cover letter
+and the form of payment to the Chief Financial Officer, Commodity Futures Trading
+Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
+
+Respondent and its successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+1. Remediation: Respondent will continue its remediation efforts relating to the swap
+reporting deficiencies that are the subject matter of this Order to provide for
+compliant swaps reporting. Within 120 days of the entry of this Order, Respondent
+shall make a report to the Commission, through the Division, concerning their
+remediation efforts before and since the entry of the Order. Within one year of the
+entry of this Order, Respondent shall submit a written report to the Commission,
+through the Division, explaining how Respondent has complied with the undertakings
+set forth herein. The written report shall contain a certification from a representative
+of the NatWest Markets Executive Committee that Respondent has established
+policies, procedures and controls to satisfy the undertakings set forth in this Order.
+
+2: Public Statements: Respondent agrees that neither it nor any of its successors or
+assigns, agents or employees under its authority or control shall take any action or
+make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondent’s: (i) testimonial obligations; or (ii) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondent and its successors and assigns shall undertake all steps necessary to
+ensure that all of its agents and/or employees under its authority or control
+understand and comply with this agreement.
+
+8 Cooperation with the Commission: Respondent shall cooperate fully and
+expeditiously with the Commission, including the Division and any other
+governmental agency in this action, and in any investigation, civil litigation, or
+administrative matter related to the subject matter of this action or any current or
+future Commission investigation related thereto.
+
+4. Partial Satisfaction: Respondent understands and agrees that any acceptance by the
+Commission of any partial payment of Respondent’s CMP Obligation shall not be
+deemed a waiver of its obligation to make further payments pursuant to this Order, or a
+waiver of the Commission’s right to seek to compel payment of any remaining balance.
+
+5. Change of Address/Phone: Until such time as Respondent satisfies in full its
+CMP Obligation as set forth in this Consent Order, Respondent shall provide
+written notice to the Commission by certified mail of any change to its telephone
+number and mailing address within ten (10) calendar days of the change.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+     
+
+Christopher J. Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: September 14, 2018
+10

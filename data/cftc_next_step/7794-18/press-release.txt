@@ -1,0 +1,77 @@
+Release Number 7794-18
+September 19, 2018
+
+CFTC Orders Bank of America, N.A. to Pay $30 Million Penalty for Attempted Manipulation
+and False Reporting of U.S. Dollar ISDAFIX Benchmark Swap Rates
+
+Washington, DC - The Commodity Futures Trading Commission (CFTC or Commission) today issued an Order filing and
+settling charges against Bank of America, N.A. (Bank of America or the Bank) for attempted manipulation of the
+ISDAFIX benchmark and requiring Bank of America to pay a $30 million civil monetary penalty.
+
+The CFTC Order finds that, beginning in January 2007 and continuing through December 2012 (the Relevant Period),
+Bank of America made false reports and attempted to manipulate the U.S. Dollar International Swaps and Derivatives
+Association Fix (USD ISDAFIX), a leading global benchmark referenced in a range of interest rate products, to benefit its
+derivatives positions, including positions involving cash-settled options on interest rate swaps and interest rate swap
+futures.
+
+CFTC’s Director of Enforcement Comments
+
+James McDonald, CFTC Director of Enforcement, commented: “This marks the ninth CFTC enforcement action involving
+manipulative conduct in connection with the USD ISDAFIX benchmark. As this case shows, the Commission will continue
+to work vigilantly to ensure the integrity of critical financial benchmarks and hold all wrongdoers accountable, no matter
+how widespread the misconduct.”
+
+During the Relevant Period, USD ISDAFIX was set each day in a process that began at 11:00 a.m. Eastern Time with the
+capture and recording of swap rates and spreads from a U.S. based unit of a leading interest rate swaps brokering firm
+(Swaps Broker).
+
+ISDAFIX rates and spreads were published daily and were meant to indicate the prevailing mid-market rate, at a specific
+time of day, for the fixed leg of a standard fixed-for-floating interest rate swap. They were issued in several currencies
+and were published for various maturities of U.S. Dollar-denominated swaps. The most widely used USD ISDAFIX rates
+and spreads, and the ones at issue in this Order, were those that were intended to indicate the prevailing market rate as
+of 11:00 a.m. Eastern Time. The 11:00 a.m. USD ISDAFIX rate was used for the cash settlement of options on interest
+rate swaps, or swaptions, and as a valuation tool for certain other interest rate products.
+
+The Order finds that certain Bank of America traders understood and employed two primary means in their attempts to
+manipulate USD ISDAFIX rates, each with the goal of moving USD ISDAFIX in the direction that favored Bank of America
+on specific trading positions at the expense of its counterparties. The Bank attempted to manipulate USD ISDAFIX by
+bidding, offering, or trading swap spreads and U.S. Treasuries at and around 11:00 a.m. to affect rates and thereby
+increase or decrease the Swaps Broker's reference rates and spreads and influence the final published USD ISDAFIX; and
+by making false, misleading, or Knowingly inaccurate submissions to Swaps Broker concerning swap rates and spreads.
+
+Attempts to Manipulate Through Trading
+
+According to the Order, on occasion, certain traders at Bank of America attempted to manipulate USD ISDAFIX by
+bidding, offering, and executing transactions in targeted interest rate products, including swap spreads and U.S.
+Treasuries, at or near the critical 11:00 a.m. fixing time, with the intent to affect the reference rates and spreads
+captured by Swaps Broker that Swaps Broker disseminated to panel banks, and thereby to affect the published USD
+ISDAFIX. Bank of America traders placed these bids or offers or executed trades in the moments leading into 11:00 a.m.
+designed in a manner, including timing and pricing, to increase or decrease the price level of swap spreads and/or U.S.
+Treasuries, with the intent to affect levels reported on the electronic screen known as the “19901 screen” and USDAFIX
+fixings. As one Bank of America trader explained to another in an electronic communication, “pushing the rate higher
+basically means we rcv a higher rate at the fixing.”
+
+Attempts to Manipulate Through False Reporting
+
+The Order also finds that certain Bank of America traders directed the relevant Bank of America Swaps Desk middle office
+employee responsible for making USD ISDAFIX submissions (the Submitter) to submit rates and spreads higher or lower
+than the Submitter otherwise would submit to attempt to affect the final published USD ISDAFIX rates and spreads to
+benefit the Bank’s positions. On these occasions, Bank of America’s USD ISDAFIX submissions constituted false,
+misleading, or knowingly inaccurate reports because they purported to reflect the Bank’s honest view of the true costs of
+entering into an interest rate swap in particular tenors, but in fact reflected traders’ desire to move USD ISDAFIX higher
+or lower in order to benefit Bank of America’s positions. For example, on one quarterly expiration date for swap futures
+contracts, a Bank of America trader told the Submitter that he was “gonna need 5y7y10y and 30y rates and spreads at
+liam,” noting that he “want[ed] them low.” The trader later instructed the Submitter to “put each of them lower by like
+2/10,” and the Submitter complied with the trader’s request.
+
+* OK K K K XK
+
+In accepting the Bank’s offer, the Commission recognizes Bank of America’s cooperation during the investigation of this
+matter by the CFTC’s Division of Enforcement (Division), which helped the Division undertake its investigation efficiently
+and effectively. The Order also states that Bank of America commenced significant remedial action to strengthen the
+internal controls and policies relating to all benchmarks, including ISDAFIX.
+
+The following CFTC staff members assisted in this case: Candice Aloisi, Jason Fairbanks, Jordon Grimm, David MacGregor,
+K. Brent Tomer and James Wheaton.
+CFTC Division of Enforcement staff members responsible for this case are Lara Turcik, David C. Newman, Trevor Kokal,
+Steven |. Ringer, Lenel Hickson, Jr., and Manal M. Sultan.

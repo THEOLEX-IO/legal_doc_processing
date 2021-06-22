@@ -1,0 +1,557 @@
+Hand-Delivered FILED
+
+ 
+
+ 
+
+ASHEVILLE, N.c.
+UNITED STATES DISTRICT COURT | FEB 10 2070
+WESTERN DISTRICT OF NORTH CAROLINA
+ASHEVILLE DIVISION U.S. DISTRICT COURT
+W. DIST. OF Nc.
+:
+COMMODITY FUTURES TRADING ) ;
+COMMISSION, ) CIVILACTIONNO.: |. 0cv Ya
+)
+Plaintiff, )
+) UNDER SEAL
+Vv. )
+)
+WINSTON REED INVESTMENTS LLC and ) Complaint for Injunctive Relief,
+MARK N. PYATT, aka ) Restitution, Civil Monetary Penalties,
+~ DANIEL RANDOLPH, ) and Other Equitable Relief
+) Under the Commodity Exchange Act
+Defendants. )
+)
+
+ 
+
+Plaintiff, Commodity Futures Trading Commission (““Commission” or “CFTC"), by its
+
+attorneys, alleges as follows:
+I. SUMMARY
+
+l. From at least April 2017 through at least February 2019 (“Relevant Period”),
+Winston Reed Investments LLC (“WRI”), by and through its principal, Mark N. Pyatt a/k/a
+Daniel Randolph (“Pyatt’”) (collectively, Defendants”), and Pyatt directly, fraudulently solicited
+and received at least approximately $200,000 from at least nineteen individuals (“pool
+participants”), who are not eligible contract participants (“ECPs”), as defined in Section 1a(18)
+of the Commodity Exchange Act (“Act” or “CEA”), 7 U.S.C. § 1a(18) (2018). Defendants
+solicited and received these funds in connection with pooled trades in commodity futures
+contracts (“futures”) and retail foreign exchange transactions (“forex”), among other things. In
+doing so, Defendants misappropriated most of pool participants’ funds for business expenses and
+personal use, and to make Ponzi-like payments to other pool participants. Defendants also made
+
+false and misleading representations to pool participants and issued false reports that
+misrepresented trading profits purportedly achieved by Defendants on behalf of pool
+participants.
+
+2. By virtue of this conduct, and the further conduct described herein, Defendants
+have violated the following provisions of the Act and the Commission Regulations
+(“Regulations”) promulgated thereunder: Sections 4b(a)(1)(A)-(C), 4b(a)(2)(A)-(C), and
+40(1)(A) and (B) of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C), 6b(a)(2)(A)-(C), 60(1)(A), (B) (2018);
+and Regulation 5.2(b)(1)-(3), 17 C.F.R.§ 5.2(b)(1)-(3) (2019).
+
+3. Unless restrained or enjoined by this Court, Defendants will likely continue to
+engage in the acts and practices alleged in this Complaint, or in similar acts or practices, as
+described more fully below.
+
+4. Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. § 13a-1 (2018), the
+CFTC brings this action to enjoin Defendants’ unlawful acts and practices, to compel their
+compliance with the Act and Commission Regulations, and to enjoin them from engaging in any
+commodity or forex related activities. In addition, the CFTC seeks civil monetary penalties,
+restitution, and remedial ancillary relief, including, but not limited to, trading and registration
+bans, disgorgement, pre- and post-judgment interest, and such other and further relief as the
+Court may deem necessary and appropriate.
+
+II. JURISDICTION AND VENUE
+
+5. This Court has jurisdiction over this action under 28 U.S.C. § 1331 (2012)
+(federal question jurisdiction) and 28 U.S.C. § 1345 (2012) (district courts have original
+jurisdiction over civil actions commenced by the United States or by any agency expressly
+authorized to sue by Act of Congress). Sections 2(c)(2)(C) and 6c(a) of the Act, 7 U.S.C.
+
+§§ 2(c)(2)(C) and13a-I(a) (2018), authorizes the Commission to seek injunctive relief against
+any person whenever it shall appear that such person has engaged, is engaging, or is about to
+engage in any act or practice that violates any provision of the Act or any rule, regulation, or
+order promulgated thereunder.
+
+6. Venue properly lies with this Court pursuant to 7 U.S.C. § 13a-l(a) because
+Defendants are found in, inhabit, or transact business in this District, or the acts and practices in
+violation of the Act and Regulations occurred, or are occurring, or are about to occur within this
+District, among other places.
+
+Ill. THE PARTIES
+
+7. Plaintiff Commodity Futures Trading Commission is an independent federal
+regulatory agency charged by Congress with responsibility for administering and enforcing the
+provisions of the Act, 7 U.S.C. §§ 1-26 (2018), and the Regulations promulgated thereunder, 17
+C.F.R. pts. 1-190 (2019).
+
+8. Defendant Winston Reed Investments LLC is a limited liability company
+formed in April 2017 and organized under the laws of North Dakota. Its principal place of
+business is in Williston, North Dakota. WRI has never been registered with the CFTC in any
+capacity.
+
+9. Defendant Mark Nicholas Pyatt a/k/a Daniel Randolph is a natural person who
+currently resides in North Dakota. During a portion of the Relevant Period, he resided in
+Waynesville, North Carolina. He serves as the vice president and investment consultant for, and
+held a power of attorney on behalf of, WRI. Pyatt has never been registered with the CFTC in
+
+any capacity.
+IV. FACTS
+A. The Purpose and Organization of WRI
+
+10. Pyatt established WRI to facilitate his trading of various financial instruments,
+including futures and forex.
+
+11. Pyatt, on behalf of WRI, solicited prospective pool participants to trade futures
+and forex through the WRI pool. In more than one solicitation, Pyatt identified himself as
+“Daniel Randolph” when speaking with prospective pool participants. When prospective pool
+participants agreed to deposit funds into the WRI pool, Pyatt had the prospective pool
+participants sign an agreement with WRI. That agreement identified “Daniel Randolph” as
+WRI’s President and Pyatt as its “Vice President, Investment Consultant and POA.” Pyatt
+controlled WRI’s day-to-day operations and was responsible for, among other things, trading
+pool participants’ funds.
+
+12. During the Relevant Period, WRI was a CPO as defined in Section 1(a)(11) of the
+Act, 7 U.S.C. § 1(a)(11) (2018), because WRI engaged in a business that is of the nature of a
+commodity pool, an investment trust, syndicate, or similar form of enterprise operated for the
+purpose of trading in commodity interests, including futures.
+
+13. Under Regulation 5.1(d)(1), 17 C.F.R. § 5.1(d)(1) (2019), a CPO is defined as any
+person who operates or solicits funds, securities, or property for a pooled investment vehicle that
+is not an Eligible Contract Participant (“ECP”) as defined in Section 1a(18) of the Act, 7 U.S.C.
+§ 1a(18) (2018), and that engages in forex.
+
+14. During the Relevant Period, Pyatt was a CTA as defined in Section 1(a)(12) of the
+Act, 7 U.S.C. § 1(a)(12) (2018), because Pyatt, for compensation or profit, engaged in the
+
+business of advising WRI as to value of or the advisability of trading in futures.
+ 
+
+15. | Under Commission Regulation 5.1(e)(1), 17 C.F.R. § 5.1(e)(1), (2019), a CTA
+means, in relevant part, any person who exercises discretionary trading authority or obtains
+written authorization to exercise discretionary trading authority over any account for or on behalf
+of any person that is not an ECP in connection with forex.
+
+16. —_ Insoliciting pool participants, Defendants made no attempt to determine if they
+were ECPs. In fact, upon information and belief, most, if not all, of Defendants’ pool
+participants were not ECPs.
+
+B. Defendants’ Acceptance of Pool Participant Funds
+
+17. During the Relevant Period, Defendants accepted funds from poo! participants,
+typically in increments of $5,000. Each increment was referred to as a “contract.”
+
+18. During the Relevant Period, Defendants accepted at least approximately $200,000
+from poo! participants for the purpose of trading futures and forex.
+
+19. Pursuant to agreements signed by pool participants, Defendants promised to
+deposit pool participant funds into one of two accounts at “Chase Bank / First International Bank
+& Trust.” Defendants promised that those funds would then be deposited into an account at TD
+Ameritrade. Under the agreements, pool participants had the option of depositing funds directly
+into the TD Ameritrade account.
+
+C. Defendants’ Representations About Trading and Promised Returns
+
+20. —‘ Pyatt told at least one pool participant that Pyatt managed at least $1,000,000,
+which Pyatt used to trade futures and some stocks at TD Ameritrade.
+
+21. Pyatt told at least one pool participant that he developed a trading algorithm and
+
+that he was a successful trader.
+22.  Pyatt told at least one pool participant that he traded profitably, generating
+$30,000 profit on a $10,000 placement in six months and $240,000 profit in one year. Pyatt told
+at least one pool participant that he had generated $130,000 profit on an initial investment of
+$20,000.
+
+23. The agreement pool participants signed at Pyatt’s direction stated that “[t]he low
+average expected return on investments across the board is 15% per month.”
+
+24. Upon information and belief, Pyatt’s representations contained in paragraphs 20-
+23 are false.
+
+D. Defendants’ Representations and Omissions About the Use of Pool Participant
+Funds
+
+25. The agreement signed by pool participants provided that “all funds are pooled into
+one account” and “the purpose of trading all funds together is to give us a higher volume to trade
+with.”
+
+26. | The agreement also stated that pool participant funds would be used to trade: “I
+will be trading ‘futures’ and ‘forex’ in a day-trading format and will specialize in energy related
+stocks, Gold, NASDAQ and oil.”
+
+27. Under the agreement pool participants signed, WRI charged each participant $300
+per month for market analysis. The agreement further provided that the fee for WRI’s services
+would be 10% of all gains.
+
+28. Under the agreement, all pool participant funds were to be used to trade. Based
+on their interactions with Pyatt, pool participants believed that all of the funds placed with WRI
+would be traded on their behalf.
+
+29.  Pyatt did not tell prospective pool participants that their funds would be used to
+
+pay his business and personal expenses.
+E. Defendants Used Only a Fraction of Pool Participant Funds To Trade
+
+30. Defendants opened two accounts at TD Ameritrade in April 2017, one futures
+account and one securities account. These accounts were opened in the name of “Daniel
+Randolph.”
+
+31. Asalleged above, Defendants accepted at least approximately $200,000 from pool
+participants. Those funds were initially deposited into a TD Ameritrade securities account.
+
+32. Defendants did not trade in the TD Ameritrade securities account.
+
+33. During the Relevant Period, Defendants transferred only a fraction of the
+approximately $200,000 provided by pool participants from the TD Ameritrade securities
+account into the TD Ameritrade futures account. Transfers into the TD Ameritrade futures
+account totaled only approximately $13,000.
+
+34. Defendants used the TD Ameritrade futures account to trade various futures
+contracts between April 2017 and February 2019.
+
+F. Defendants Misappropriated Pool Participant Funds To Make Periodic Payments to
+Other Pool Participants and To Pay Business and Personal Expenses
+
+35. Defendants used pool participant funds to make Ponzi-like payments to other
+participants.
+
+36. Defendants made payments of approximately $36,000 to various pool participants
+from the TD Ameritrade securities account.
+
+37. As alleged below, for most of the Relevant Period, Defendants were unprofitable
+trading pool participant funds. To the extent that Defendants’ trading generated profits, those
+profits were not sufficient to sustain the periodic payments to pool participants.
+
+38. Defendants also used pool participant funds to pay business and personal
+
+expenses. For example, payments were made from the TD Ameritrade securities account to
+American Airlines, Best Buy, Eddie Bauer, Pizza Hut, Prime Video, Smokey Mountain Cigars,
+Starbucks, Uber, Verizon Wireless, Walmart, and Zales Outlet, among others.
+G. Defendants’ Trading Was Not Profitable Overall
+
+39. The TD Ameritrade futures account was active between April 2017 and February
+2019, a total of twenty-three months.
+
+40. Defendants traded in the TD Ameritrade futures account during only fifteen of
+those twenty-three months.
+
+41. Defendants’ trading during nine of those fifteen months resulted in realized losses
+totaling approximately $15,081, while trading during the remaining six months resulted in
+realized gains totaling approximately $1,644.
+
+42. Overall, trading in the TD Ameritrade futures account was cumulatively resulted
+in a net loss of approximately $13,416.
+
+H. Defendants Provided Statements to Pool Participants that
+Did Not Accurately Reflect WRI’s Trading Performance
+
+43. Defendants provided monthly reports to pool participants concerning activity in
+the WRI pool. These reports were typically transmitted to pool participants via a group email.
+
+44. These monthly reports typically referred to substantial profits. For example,
+Defendants’ monthly report for September 2018 stated that trading resulted in a 36% profit for
+the month, that is, $1,800 profit per “contract.” Defendants’ monthly report for December 2018
+stated that trading resulted in an 18.8% profit, that is, $941 profit per “contract.” A third
+monthly report transmitted by Defendants claimed profits of 86.5%, that is, $4,327 per $5,000
+contract, while a fourth claimed profits of 83.9%, that is, $4,195 per $5,000 contract.
+
+45. | The monthly reports provided by Defendants to pool participants did not
+
+accurately reflect WRI’s trading performance.
+46, Defendants also provided individual updates covering multiple months of account
+activity to at least two pool participants. According to a report Defendants sent via email to
+those pool participants, their initial placement of $10,000 yielded net profits of $24,035 in three
+months, and additional profits of $110,146 on the following six months.
+
+47, The individual updates Defendants provided to pool participants did not
+accurately reflect WRI’s trading performance.
+
+V. VIOLATIONS OF THE COMMODITY EXCHANGE ACT
+Count One
+Fraud in Connection with Futures and Forex
+Violations of Section 4b(a)(1)(A)-(C) and (a)(2)(A)-(C) of the Act,
+7 U.S.C. § 6b(a)(1)(A)-(C), (a)(2)(A)-(C) (2018), and
+Regulation 5.2(b)(1)-(3), 17 C.F.R. § 5.2(b)(1)-(3) (2019)
+
+48. The allegations in the preceding paragraphs are re-alleged and incorporated herein
+by reference.
+
+49. 70U.S.C. § 6b(a)(1)(A)-(C) makes it unlawful for any person to: (A) cheat or
+defraud or attempt to cheat or defraud another person; (B) willfully to make a false report or
+statement to another person; or (C) willfully to deceive or attempt to deceive another person by
+any means whatsoever in connection with any contract of sale of any commodity in interstate
+commerce or for future delivery, that is made, or to be made, on or subject to the rules of a
+designated contract market.
+
+50.  70U.S.C. § 6b(a)(2)(A)-(C) makes it unlawful for any person to (A) cheat or
+defraud or attempt to cheat or defraud another person, (B) willfully to make a false report or
+statement to another person, or (C) willfully to deceive or attempt to deceive another person by
+
+any means whatsoever in connection with forex.
+ 
+
+ 
+
+51. 17 C.F.R. § 5.2(b)(1)-(3) makes it unlawful for any person, by use of the mails or
+by any means or instrumentality of interstate commerce, to (1) cheat or defraud or attempt to
+cheat or defraud another person, (2) willfully to make a false report or statement to another
+person, or (3) willfully to deceive or attempt to deceive another person by any means whatsoever
+in connection with any forex transaction.
+
+52. Asset forth above, during the Relevant Period, Defendants violated 7 U.S.C.
+
+§ 6b(a)(1)(A)-(C) and (a)(2)(A)-(C), and 17 C.F.R. § 5.2(b)(1)-(3) because they, among other
+things, intentionally or recklessly: (1) misappropriated pool participant funds; (11) made, caused to
+be made, and distributed reports or statements to pool participants that contained false
+information; and (iii) fraudulently solicited pool participants in connection with futures and
+forex, including the purported trading of futures and forex conducted or to be conducted by
+Defendants on behalf of pool participants.
+
+53. Each act of misappropriation, misrepresentation or omission of material fact, and
+issuance of a false report, including but not limited to those specifically alleged herein, is alleged
+as a separate and distinct violation of 7 U.S.C. § 6b(a)(1)(A)-(C) and (a)(2)(A)-(C), and 17
+C.F.R. § 5.2(b)(1)-(3).
+
+54. | Defendants engaged in the acts and practices alleged above knowingly, willfully,
+or with reckless disregard for the truth.
+
+55.  Pyatt directly and indirectly controlled WRI and did not act in good faith or
+knowingly induced the acts constituting WRI’s violations, and is therefore liable, pursuant to
+Section 13(b) of the Act, 7 U.S.C. § 13c(b) (2018), for WRI’s violations of 7 U.S.C.
+
+§ 6b(a)(1)(A)-(C) and (a)(2)(A)-(C) and 17 C.F.R. § 5.2(b)(1)-(3).
+
+10
+56.  Pyatt acted within the course and scope of his employment, agency, or office with
+WRI. Pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2018), and Regulation
+1.2, 17 C.F.R.§ 1.2 (2019), WRI is liable as principal for Pyatt’s violations of 7 U.S.C. §
+6b(a)(1)(A)-(C) and (a)(2)(A)-(C) and 17 C.F.R. § 5.2(b)(1)-(3).
+Count Two
+
+Fraud by a Commodity Pool Operator and Commodity Trading Advisor
+
+Violations of Section 40(1)(A) and (B) of the Act,
+7 U.S.C. § 60(1)(A), (B) (2018)
+
+57. The allegations in the preceding paragraphs are re-alleged and incorporated herein
+by reference.
+
+58. 7U.S.C. § 60(1)(A) and (B), in relevant part, makes it unlawful for CPOs and
+CTAs, by use of the mails or any other means of interstate commerce, directly or indirectly, to:
+(A) employ any device, scheme, or artifice to defraud any client or pool participant; or
+(B) engage in any transaction, practice, or course of business that operates as a fraud or deceit
+upon any client or pool participant.
+
+59. 70U.S.C. § 60(1)(A) and (B) applies to all CPOs and CTAs, whether registered,
+required to be registered, or exempted from registration.
+
+60. Section 1(a)(11) of the Act, 7 U.S.C. § 1(a)(11) (2018) defines a CPO, in part, as
+“any person engaged in a business that is of the nature of a commodity pool, investment trust,
+syndicate, or similar form of enterprise, and who, in connection therewith, solicits, accepts, or
+receives from others, funds . . . for the purpose of trading in commodity interests.”
+
+61. 17 C.F.R. § 5.1(d)(1) (2019) defines a CPO as any person who operates or solicits
+funds, securities, or property for a pooled investment vehicle that is not an ECP and that engages
+
+in forex.
+
+11
+62. Section 1(a)(12)(A) of the Act, 7 U.S.C. § 1(a)(12)(A) (2018) defines a CTA, in
+part, as “any person who, for compensation or profit, engages in the business that is of advising
+others , either directly or through publications, writings, or electronic media, as to the value of or
+the advisability of trading” futures.
+
+63. Regulation 5.1(e)(1),17 C.F.R. § 5.1(e)(1), (2019), defines a CTA, in relevant
+part, as any person who exercises discretionary trading authority or obtains written authorization
+to exercise discretionary trading authority over any account for or on behalf of any person that is
+not an ECP in connection with forex.
+
+64. Asset forth above, during the Relevant Period, WRI acted as a CPO by soliciting,
+accepting, or receiving funds from pool participants while engaged in a business that is of the
+nature of an investment trust, syndicate, or other pooled investment vehicle, for the purpose of,
+among other things, conducting transactions in commodity interests, including futures. In
+addition, WRI acted as a CPO when it solicited and accepted funds for a pooled investment
+vehicle from non-ECPs for the purpose of engaging in trading retail forex.
+
+65. Further, Pyatt acted as a CTA when he, for compensation or profit, advised and
+directed the trading of pool participant funds undertaken by WRI. In addition, Pyatt acted as a
+CTA when he exercised discretionary trading authority or obtained written authorization to
+exercise discretionary trading authority over any account for or on behalf of any person that is
+not an ECP in connection with forex.
+
+66. _ As set forth above, WRI, while acting as a CPO, and Pyatt, while acting as a
+CTA, violated 7 U.S.C. § 60(1)(A) and (B), because they, among other things, intentionally or
+recklessly: (i) misappropriated pool participant funds; (ii) made, caused to be made, and
+
+distributed reports or statements to pool participants that contained false information; and
+
+12
+(iii) fraudulently solicited pool participants in connection with futures and forex, including the
+purported trading of futures and forex conducted or to be conducted by Defendants on behalf of
+pool participants.
+
+67. Each act of misappropriation, misrepresentation or omission of material fact, and
+issuance of a false report, including but not limited to those specifically alleged herein, is alleged
+as a separate and distinct violation of 7 U.S.C. § 60(1)(A) and/or (B).
+
+68.  Pyatt directly and indirectly controlled WRI and did not act in good faith or
+knowingly induced the acts constituting WRI’s violations, and is therefore liable, pursuant to
+Section 13(b) of the Act, 7 U.S.C. § 13c(b) (2018), for WRI’s violations of 7 U.S.C. § 60(1)(A)
+and/or (B).
+
+69. Pyatt acted within the course and scope of his employment, agency, or office with
+WRI. Pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2018), and Regulation
+1.2, 17 C.F.R.§ 1.2 (2019), WRI is liable as principal for Pyatt violations of 7 U.S.C. § 60(1)(A)
+and/or (B).
+
+VI. PRAYER FOR RELIEF
+WHEREFORE, the Commission respectfully requests that this Court, as authorized by
+Section 6c of the Act, 7 U.S.C. § 13a-1 (2018), and pursuant to its own equitable powers:
+(A) Find that Defendants violated Sections 4b(a)(1)(A)-(C), 4b(a)(2)(A)-(C), and
+40(1)(A) and (B) and of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C),6b(a)(2)(A)-(C),
+60(A), (B) (2018), and Regulations 5.2(b)(1)-(3), 17 C.F.R. § 5.2(b)(1)-(3)
+(2019);
+
+(B) Enter an order of permanent injunction prohibiting Defendants and their affiliates,
+
+agents, servants, employees, successors, assigns, attorneys, and all persons in
+
+13
+(C)
+
+active concert with them, who receive actual notice of such order by personal
+service or otherwise, from:
+
+(1) cheating or defrauding another person, willfully making a false report or
+statement to another person, or willfully deceiving attempting to deceive
+another person by any means whatsoever in connection with any contract of
+sale of any commodity in interstate commerce or for future delivery, that is
+made, or to be made, on or subject to the rules of a designated contract market
+in violation of 7 U.S.C. § 6b(a)(1)(A)-(C);
+
+(2) cheating or defrauding another person, willfully making a false report or
+statement to another person, or willfully deceiving attempting to deceive
+another person by any means whatsoever in connection with any retail forex
+transaction in violation of 7 U.S.C. § 6b(a)(2)(A)-(C) and 17 C.F.R.
+
+§ 5.2(b)(1)-(3); and
+(3) in connection with a commodity pool, by use of the mails or any other means
+of interstate commerce, directly or indirectly: employing any device, scheme,
+or artifice to defraud any client or pool participant; engaging in any
+transaction, practice, or course of business that operates as a fraud or deceit
+upon any client or pool participant in violation of 7 U.S.C. § 60(1)(A) and (B).
+Enter an order of permanent injunction prohibiting Defendants and any of their
+agents, servants, employees, assigns, attorneys, and persons in active concert or
+participation with them including any successor thereof, from directly or
+
+indirectly: .
+
+(1) trading on or subject to the rules of any registered entity (as that term is
+defined in Section 1(a)(40) of the Act, 7 U.S.C. § 1a(40) (2018));
+
+(2) entering into any transaction involving “commodity interests” (as that term is
+defined in Regulation 1.3, 17 C.F.R. § 1.3 (2019)) for Defendants own
+personal or proprietary accounts or for any account in which Defendants have
+a direct or indirect interest;
+
+(3) having any commodity interest traded on Defendants’ behalf;
+(4) controlling or directing the trading for or on behalf of any other person or
+
+entity, whether by power of attorney or otherwise, in any account involving
+commodity interests;
+
+14
+(D)
+
+(E)
+
+(F)
+
+(G)
+
+(5) soliciting, receiving, or accepting any funds from any person for the purpose
+of purchasing or selling any commodity interests;
+
+(6) applying for registration or claiming exemption from registration with the
+CFTC in any capacity, and engaging in any activity requiring such registration
+or exemption from registration with the CFTC, except as provided in
+Regulation 4.41(a)(9), 17 C.F.R. § 4.41(a)(9) (2019);
+
+(7) acting as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R. §
+3.1(a) (2019)), agent, or other officer or employee of any person (as that terms
+is defined in Section 1a(38) of the Act, 7 U.S.C. § 1a(38) (2018)) registered,
+exempted from registration or required to be registered with the CFTC, except
+as provided in 17 C.F.R.§ 4.41(a)(9).
+
+Enter an order directing Defendants, as well as any as any third-party transferee
+
+and/or successors thereof, to disgorge, pursuant to such procedure as the Court
+
+may order, all benefits received including, but not limited to, salaries,
+commissions, loans, fees, revenues, and trading profits derived, directly or
+indirectly, from acts or practices that constitute violations of the Act and the
+
+Regulations, as described herein, and pre- and post-judgment interest;
+
+An order directing Defendants, as well as any successors thereof, to make full
+
+restitution to every person who has sustained losses proximately caused by the
+
+violations described herein, including pre- and post-judgment interest;
+
+An order directing Defendants to pay a civil monetary penalty for each violation
+
+of the Act of not more than the amount set forth by Section 6c(d)(1) of the Act,
+
+7 U.S.C. § 13a-1(d)(1) (2018), as adjusted for inflation pursuant to the Federal
+
+Civil Penalties Inflation Adjustment Act Improvements Act of 2015, Pub. L. 114—
+
+74, 129 Stat. 584, title VII, Section 701, and promulgated in 17 C.F.R. § 143.8
+
+(2019), plus post-judgment interest;
+
+An order requiring Defendants to pay costs and fees as permitted by
+
+15
+28 U.S.C. §§ 1920 and 2412(a)(2) (2012); and
+
+(H) = Anorder providing such other and relief as this Court may deem necessary and
+
+appropriate under the circumstances.
+
+Dated: February 10, 2020
+
+Respectfully submitted,
+
+/s/ James A. Garcia
+James A. Garcia
+DC Bar No. 458085
+
+Richard A. Glaser
+NY Bar No. 2404432
+
+Attorneys for Plaintiff Commodity Futures Trading
+Commission
+
+Division of Enforcement
+
+1155 21* Street, NW
+
+Washington, DC 20581
+
+Telephone: (202) 418-5362 (Garcia)
+
+(202) 418-5358 (Glaser)
+
+Fax: (202) 418-5937
+
+jgarcia@cfic.gov
+
+rglaser@cftc.gov
+
+16

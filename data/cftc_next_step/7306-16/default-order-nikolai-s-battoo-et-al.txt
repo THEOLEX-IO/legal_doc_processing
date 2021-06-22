@@ -1,0 +1,1043 @@
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 1 of 32 PagelD #:16125
+
+UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF ILLINOIS
+
+EASTERN DIVISION
+)
+UNITED STATES COMMODITY FUTURES )
+TRADING COMMISSION, )
+) Case No. 12-cv-07127
+Plaintiff, )
+Vv. )
+) Honorable Edmond E. Chang
+NIKOLAI SIMON BATTOO; BC CAPITAL _ )
+GROUP S.A.; BC CAPITAL GROUP )
+INTERNATIONAL LIMITED a/k/a BC )
+CAPITAL GROUP LIMITED a/k/a BC )
+CAPITAL GROUP GLOBAL; AND BC )
+CAPITAL GROUP HOLDINGS 5.A., )
+)
+)
+Defendants. )
+)
+
+DEFAULT JUDGMENT ORDER
+I. Introduction
+On September 6, 2012, the United States Commodity Futures Trading
+Commission filed its Complaint for Permanent Injunction, Civil Monetary
+Penalties, and Other Equitable Relief against Defendants Nikolai Simon Battoo
+(Battoo), BC Capital Group $.A. (BC Panama), BC Capital Group International
+Limited a/k/a BC Capital Group Limited a/k/a BC Capital Group Global (BC Hong
+Kong), and BC Capital Group Holdings $.A. (BC Switzerland) (for convenience’s
+
+sake, collectively referred to as Defendants!) for violations of certain anti-fraud
+
+ 
+
+} The Complaint originally included BC Capital Management LLP (BC London) as a
+Defendant. Later, however, the Commission moved to voluntarily dismiss BC London and
+vacate the default order entered against it. Dkt. Nos. 292-294.
+
+1
+
+ 
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 2 of 32 PagelD #:16126
+
+provisions of the Commodity Exchange Act (the Act), 7 U.S.C. §§ 1 et seg.? and the
+Commission Regulations (Regulations) promulgated thereunder, 17 C.F.R. §§ 1.1 et
+seq. (2012). Dkt. No. 1.
+
+Pursuant to Rule 55(b)(2) of the Federal Rules of Civil Procedure, this matter
+now comes before the Court on the Commission’s Motions for Default Judgment and
+for Restitution, Disgorgement and Civil Monetary Penalty, as amended, (collectively
+called the “motions”) and Memoranda in Support of the motions against Defendants
+after this Court’s previous Order of Default Judgment for their failure to answer or
+otherwise respond to the Complaint. Dkt. Nos. 174-175, 209, 235-236, 458. This
+Court has considered the entire record in this matter, including the Commission’s
+Motions, Memoranda in Support of the Motions and the exhibits to them, and finds
+that good cause exists for entry of the relief requested. Accordingly, the
+Commission’s Motions are granted, as detailed below.
+
+THE COURT HEREBY FINDS:
+
+1. On September 6, 2012, the Commission filed a three-count Complaint
+and an Emergency Ex Parte Motion and Memorandum in Support for Statutory
+Restraining Order, Expedited Discovery, Preliminary Injunction, and Other
+Equitable Relief (the SRO Motion) against Defendants, alleging violations of certain
+
+anti-fraud provisions of the Act and Regulations. Dkt. Nos. 1, 9. After careful
+
+ 
+
+2 All citations to Sections of the Act that have not been amended will read as follows:
+“Section x of the Act, 7 U.S.C. § x (2006).” All citations to the Act as amended by the CRA,
+but not by the Dodd-Frank Act, will read as follows: “Section x of the Act, 7 U.S.C. § x
+(Supp. II 2009).” All sections of the Act that have been amended by the Dodd-Frank Act will
+read as follows: “Section x of the Act, 7 U.S.C. § x. Gupp. V 2012).”
+
+2
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 3 of 32 PagelD #:16127
+
+consideration, this Court granted the Commission’s SRO Motion and, among other
+things, froze all assets under the possession or control of Defendants. Dkt. No. 15-1.
+
+2. On September 21, 2012, the Commission filed its Motion for
+Preliminary Injunction and for the Appointment of a Receiver (Preliminary
+Injunction Motion). Dkt. Nos. 18-19. This Court granted the Preliminary Injunction
+Motion, made findings of fact and conclusions of law, enjoined Defendants from
+future violations of the Act and Regulations, and placed Defendants under the
+temporary receivership of Robb Evans & Associates LLC (Receiver). Preliminary
+Injunction, Dkt. No. 22.
+
+3. Defendants were effectively served with the Summons and Complaint
+on March 27, 2013. Dkt. No. 147. Therefore, Defendants’ answers were due no later
+than April 17, 2018. Id. To date, none of the Defendants have filed answers or
+otherwise responded to the Complaint. Accordingly, the Commission requested a
+Clerk’s Entry of Default, which was entered on June 25, 2013. Dkt. Nos. 150, 166.
+
+4, On August 1, 2013, the Commission filed its Motion for Default
+Judgment and Memorandum in Support, seeking a finding of liability against
+Defendants, but reserving the amount of monetary damages until the Receiver
+completed its financial analysis. Dkt. Nos. 174-175. This Court granted the
+Commission’s Motion for Default Judgment on August 5, 2013, and extended the
+Preliminary Injunction. Dkt. No. 209.
+
+5. On December 4, 2013, the Receiver filed its Modified Report of
+
+Receiver’s Activities January 18, 2013 Through November 22, 2013 (Modified
+
+ 
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 4 of 32 PagelD #:16128
+
+Report), which among other things, sets forth the financial analysis of the
+Defendants’ fraudulent conduct. Dkt. No. 217.
+
+6. On January 10, 2014, the Commission submitted its Motion for
+Restitution, Disgorgement, and Civil Monetary Penalty, which was based on the
+Receiver’s analysis at that time. Dkt. Nos. 235-236.
+
+7. On October 15, 2015, in light of additional documents obtained by the
+Receiver, the Commission filed an Amendment to its Motion for Restitution,
+Disgorgement, and Civil Monetary Penalty (Amendment). Dkt. No. 458.
+
+Il. Findings of Fact
+
+8. In view of the default, the allegations of the Complaint must be
+accepted as true; these findings bind the named Defendants. This Order is
+supported by the following facts:
+
+A. Parties
+
+9. United States Commodity Futures Trading Commission is an
+independent federal regulatory agency that is charged by Congress with the
+administration and enforcement of the Act and the Regulations promulgated
+thereunder. The Commission maintains its principal office at Three Lafayette
+Centre, 1155 21st Street, NW, Washington, D.C. 20581.
+
+10. Nikolai Simon Battoo is an individual who is believed to reside in
+Switzerland. Until around 2007, Battoo was a resident of Florida. Until April 2018,
+Battoo was a principal of a Commission-registered commodity pool operator (CPO)
+
+and commodity trading advisor (CTA) located in Lincoln, Nebraska.
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 5 of 32 PagelD #:16129
+
+11. BC Capital Group S.A. is incorporated under the laws of the
+Republic of Panama. BC Panama has never been registered in any capacity with the
+Commission.
+
+12. BC Capital Group Limited is incorporated under the laws of Hong
+Kong. BC Hong Kong has never been registered in any capacity with the
+Commission.
+
+13. BC Capital Group Holdings S.A. is incorporated under the laws of
+Switzerland. BC Switzerland has never been registered in any capacity with the
+Commission.
+
+B. Structure of the BC Common Enterprise
+
+14. Battoo controlled BC Panama, BC Hong Kong, and BC Switzerland
+and operated them as a common enterprise (the BC Common Enterprise) in
+connection with the Private International Wealth Management (PIWM) and Private
+International Wealth Management—Insurance (PIWM-J) portfolios (collectively, the
+PIWM Portfolios). Although each entity purportedly performed different functions
+in operating the PIWM Portfolios, Defendants did not differentiate between the
+various corporations in solicitation materials or in communications with United
+States residents and others (pool participants). Instead, some corporations were
+mere shells with no actual offices. All actual operations of the BC Common
+Enterprise occurred at Battoo’s office in London and his home office in Switzerland.
+
+15. BC Panama purports to be the “manager and managing company” of
+
+the PIWM Portfolios. Battoo is identified as the contact person for BC Panama in
+
+ 
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 6 of 32 PagelD #:16130
+
+the 2009 due diligence questionnaire (DDQ) that Defendants prepared and provided
+to pool participants.
+
+16. BC Hong Kong purports to be the “appointed financial investment
+advisor” to BC Panama. BC Panama and BC Hong Kong are “responsible for the
+customization and implementation (investment management) of the custom tailored
+PIWM portfolio strategies for each mandate.” Battoo is identified as the principal of
+and contact for BC Hong Kong in the 2009 DDQ.
+
+17. BC Panama and BC Hong Kong are both shell companies. Battoo
+subleased a section of office space from Alliance Investment Management (Alliance),
+a Bahamas registered broker-dealer, to use as BC Panama’s and BC Hong Kong’s
+“office.” Battoo and other employees, agents, and principals of the BC Common
+Enterprise would occasionally use Alliance’s office for meetings with pool
+participants and investment advisors. But no employee, agent, or principal of the
+BC Common Enterprise operated from Alliance’s offices on a full-time basis.
+Instead, Alliance staff would receive mail and forward it unopened to Battoo. BC
+Panama and BC Hong Kong shared telephone and facsimile numbers with Alliance.
+
+18. BC Switzerland is an affiliated company to BC Hong Kong and
+purports to provide research and development, along with trading and execution,
+under contract to BC Hong Kong. Battoo works from BC Switzerland’s office, which
+is believed to be located in Battoo’s residence. Battoo used BC Switzerland’s office to
+call investment advisors in the United States about the status of redemption
+
+requests made by U.S. pool participants. Battoo is identified as the only contact
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 7 of 32 PagelD #:16131
+person for BC Switzerland. The telephone number for BC Switzerland provided in
+the 2009 DD@Q is the same as for Alliance, BC Panama, and BC Hong Kong.
+
+19. Solicitation materials that Defendants provided to prospective pool
+participants do not distinguish between the different entities comprising the BC
+Common Enterprise. For example, the DDQ identifies “BC Capital Group” as the
+PIWM Portfolios’ “Global Overseer” and lists offices in the Bahamas, Hong Kong,
+London, Panama, Singapore, and Switzerland. According to organizational charts,
+all entities comprising the BC Common Enterprise share the same “Professional
+Executive Board” and “Investment Advisory Board,” with Battoo as Senior Advisor
+to the Investment Advisory Board. Battoo did not identify on behalf of which entity
+comprising the BC Common Enterprise he was acting when communicating with
+pool participants. Instead, account statements and letters to pool participants were
+written on “PIWM” and “PIWM-I” letterhead.
+
+C. Summary of the Fraud Scheme
+
+20. From at least January 2003 to the present, the BC Common
+Enterprise, by and through its agents, employees and principals including but not
+limited to Battoo, and Battoo directly, solicited pool participants to invest in the
+PIWM Portfolios. Solicitation materials provided by Defendants to prospective pool
+participants state that the PIWM Portfolios would engage in the trading of
+commodities, futures contracts, and equities, along with other investment
+strategies. Based on these solicitations, at least 250 U.S. pool participants invested
+
+at least $140 million into the PIWM Portfolios.
+
+ 
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 8 of 32 PagelD #:16132
+
+21. In 2008, investments made by the PIWM Portfolios into various funds
+of which Battoo acted as investment advisor suffered significant losses. However,
+Defendants failed to disclose some losses, while affirmatively misleading pool
+participants about the extent of other losses. Defendants made further
+misrepresentations to pool participants between 2009 and 2011 about the value of
+the PIWM Portfolios’ underlying investments and the location of the pools’ funds.
+
+D. Defendants’ Solicitation of Pool Participants
+
+22. The BC Common Enterprise, while acting as a CPO, and Battoo, while
+acting as an Associated Person (AP) of a CPO, solicited pool participants, both
+directly and by soliciting U.S.-based investment advisors to recommend
+investments by their clients, at offshore conferences hosted by investment advisors
+between at least 2006 and 2010. Battoo, along with other agents or employees of the
+BC Common Enterprise, gave presentations at the conferences about the PIWM
+Portfolios. Defendants provided prospective pool participants with copies of the
+DDQs and Power Point presentations describing the investment strategies used for
+the PIWM Portfolios. Defendants also provided prospective pool participants with
+one-page documents on PIWM letterhead that show the purported monthly returns
+of the PIWM Portfolios since at least 2001, along with information on the
+underlying investments held by the portfolios (the Tear Sheets).
+
+23. Defendants told prospective pool participants that a portion of the
+PIWM Portfolios would be used for futures trading. The DDQs identify “Financial
+
+Futures” and “Commodities” as part of the “Underlying Investments” made by the
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 9 of 32 PagelD #:16133
+
+PIWM Portfolios. Moreover, Tear Sheets given to pool participants indicated that a
+portion of the PIWM Portfolios is invested in “Multi-Strategy Futures &
+Commodities.” The DDQs represent that Battoo is the registered principal of a CTA
+registered with the National Futures Association (NFA) in the United States. The
+DDQs also state that BC Hong Kong is affihated with a registered CTA located in
+Singapore. The Power Point presentations tout that Battoo is an “accomplished
+financial trader” with over fifteen years’ experience specializing in the futures and
+commodities markets.
+
+24, Since at least January 2008, pool participants sent funds, directly or
+through offshore companies with the intent of investing in the PIWM Portfolios, to
+an account in the name of BC Panama at Alliance. Alliance told at least some pool
+participants that pool participants shared all profits or losses of the PIWM Portfolio
+in which they invested on a pro rata basis. Defendants established at least eleven
+PIWM Portfolios in which U.S. pool participants invested funds (the “U.S.
+Participant Pools”).
+
+25. Defendants told pool participants that the PIWM Portfolios contained
+$1.5 billion as of May 2012, down from $2.2 billion in March 2009. Defendants also
+told pool participants that there were sixty-eight separate PIWM Portfolios as of
+
+March 2009.
+
+E. Defendants’ Investments and Trading on Behalf of the PIWM
+Portfolios
+
+26. The PIWM Portfolios functioned as a fund of funds, whereby
+
+Defendants invested pool participant funds into a variety of other hedge funds.
+
+ 
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 10 of 32 PagelD #:16134
+
+Defendants told pool participants that the PIWM Portfolios would pursue several
+different strategies to generate returns, including strategies involving futures
+trading. Although each PIWM Portfolio held slightly different combinations of
+funds, the underlying investments of each portfolio fall into three general
+categories: (a) hedge funds for which Battoo acted as investment advisor; (b) hedge
+funds and commodity pools operated by third parties; and (c) “Managed Accounts.”
+
+27. Defendants told pool participants that a portion of the PIWM Portfolios
+was invested with five hedge funds for which Battoo acted as investment advisor:
+(a) FuturesOne Diversified Fund (F1 Diversified); (b) FuturesOne Innovative Fund
+(F1 Innovative); (c) Anchor Hedge Fund (Anchor Fund); (d) Galaxy Fund; and (e)
+Two Oceans Fund (collectively, the Battoo-Operated Funds). Each Battoo-Operated
+Fund contained multiple “share classes” in which the PIWM Portfolios invested.
+Several share classes of F1 Diversified held trading accounts at futures commission
+merchants (FCMs) in the United States and actively traded futures and options on
+futures contracts on U.S. exchanges.
+
+28. Defendants told pool participants that a portion of the PIWM Portfolios
+was also invested in various hedge funds operated by entities unaffiliated with
+Battoo. These investments included some of the largest global hedge funds, as well
+as commodity pools run by at least four third-party CPOs. At least three of these
+third-party CPOs are located in the United States.
+
+29. Finally, Defendants told pool participants that Defendants traded a
+
+portion of the PIWM Portfolios in six “Managed Accounts” held at Alliance. One
+
+10
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 11 of 32 PagelD #:16135
+
+“Managed Account” was termed “Multi-Strategy Futures & Commodities.”
+Defendants told pool participants in the U.S. Participant Pools that up to 18.79% of
+their portfolios’ funds were in the “Multi-Strategy Futures & Commodities”
+managed account.
+F. Defendants’ Undisclosed Losses and Misrepresentations in 2008
+
+The 2008 Trading Losses and Failure to Disclose: October to December 2008
+
+30. Between April 2008 and October 2008, the PIWM Portfolios suffered
+significant losses, potentially as high as $140 million that Defendants failed to
+disclose to pool participants. As of December 31, 2008, the PIWM Portfolios held
+significant investments in six share classes of the Anchor Fund, Galaxy Fund, and
+F1 Diversified Fund (Phi R2 share classes). Between April 2008 and October 2008,
+the Phi R2 share classes suffered significant losses from trading on a London-based
+investment platform (the Phi R2 Fund losses). Because of the Phi R2 Fund losses,
+the Anchor Fund, Galaxy Fund, and F1 Diversified Fund suspended redemptions of
+the Phi R2 share classes between October 13, 2008 and December 18, 2008.
+
+31. Battoo, as investment advisor to the Anchor Fund, Galaxy Fund, and
+F1 Diversified Fund, knew or was reckless in not knowing of the Phi R2 Fund losses
+and the resulting suspensions of redemptions. Despite this knowledge, Defendants
+did not inform some PIWM Portfolio pool participants that a significant portion of
+their portfolios were negatively impacted by the Phi R2 Fund losses and the
+
+resulting suspensions of redemptions. Defendants accepted additional funds from
+
+11
+
+ 
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 12 of 32 PagelD #:16136
+
+existing pool participants after the PIWM Portfolios suffered the Phi R2 Fund losses
+without disclosing the losses to pool participants.
+The Madoff-Related Losses and Misrepresentations: December 2008
+
+32. Defendants made misrepresentations to pool participants about the
+PIWM Portfolios’ exposure to the Ponzi scheme operated by Bernard Madoff (the
+Madoff scheme).
+
+33. Tear Sheets that Defendants provided to pool participants during sales
+solicitations indicate that, as of October 2008, between 7% and 20% of each PIWM
+Portfolio was invested in certain share classes of the Anchor Fund and Galaxy Fund
+(Madoff share classes). Unknown to pool participants, the Madoff share classes
+ultimately invested in the Madoff scheme.
+
+34. Between December 18, 2008 and December 22, 2008, after the Madoff
+scheme was exposed and Madoff was arrested, the Anchor Fund and Galaxy Fund
+suspended redemptions of the Madoff share classes because of losses sustained in
+the Madoff scheme.
+
+35. As the investment manager of the Anchor Fund and Galaxy Fund,
+Battoo knew or was reckless in not knowing of the funds’ suspensions of
+redemptions.
+
+36. Despite knowing about the PIWM Portfolios’ substantial exposure to
+the Madoff scheme, on or about December 16, 2008, Battoo sent an email to two
+
+investment advisors advising U.S. pool participants stating that “PIWM-Insurance
+
+12
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 13 of 32 PagelD #:16137
+
+will be issuing a letter by end of week to all clients to inform them that the current
+Madoff situation will have practically no impact to its portfolios.”
+
+37. On or about December 19, 2008, an agent of the BC Common
+Hnterprise operating from Florida sent an email to some U.S. pool participants and
+attached a letter from Battoo, dated December 19, 2008. Battoo’s letter states that:
+
+PIWM did carry a small nominal percentage of approx (0.20% - 2.9%)
+
+portion of indirect exposure through a diversified hedge fund. Thus
+
+when accounted for, the impact will be less than (0.05% - 0.78%)
+
+depending on each client’s custom-tailored portfolio which is very low
+
+and well under 1.0%.
+
+38. Battoo’s December 19, 2008 letter misrepresents the PIWM Portfolio
+pool participants’ exposure to the Madoff scheme.
+
+39. Defendants also failed to disclose losses associated with the Madoff
+scheme when Battoo discussed the PIWM Portfolios’ performance at a conference
+for PIWM Portfolio pool participants held in Las Vegas, Nevada, in January 2009.
+Defendants accepted additional funds from existing pool participants after the
+PIWM Portfolios suffered the Madoff scheme losses without disclosing such losses to
+
+pool participants.
+
+G. Defendants Made Misrepresentations Regarding the Value of
+Underlying Investments and Location of Funds
+
+40. Following the undisclosed losses suffered by the PIWM Portfolios in
+2008 due to the Phi R2 Fund and the Madoff scheme losses, Defendants made
+additional misrepresentations to pool participants about the value of the underlying
+investments in the PIWM Portfolios and the location of the PIWM Portfolios’ assets.
+
+These misrepresentations began as some pool participants were placing additional
+
+13
+
+ 
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 14 of 32 PagelD #:16138
+
+funds in the PIWM Portfolios and continued as pool participants demanded
+redemptions starting in 2011.
+
+The Fraudulent Asset Verifications: September 2009
+
+41. In or around September 2009, Defendants provided pool participants
+in the eleven U.S. Participant Pools with asset verifications conducted by the PIWM
+Portfolios’ third-party administrator (Asset Verifications). These eleven Asset
+Verifications purportedly provide the value of investments made by the PIWM
+Portfolios as of December 31, 2008. While the Asset Verifications were issued by the
+third-party administrator, they were based on information provided to the third-
+party administrator by Defendants. Further, Battoo, not the third-party
+administrator, sent the Asset Verifications to some if not all pool participants via
+email.
+
+42. The Asset Verifications grossly overstate the net asset value of the
+U.S. Participant Pools’ investments with commodity pools operated by four third-
+party CPOs. The Asset Verifications state that the U.S. Participant Pools had
+investments worth over $21.8 million with commodity pools operated by these four
+third-party CPOs. However, the total value of all investments with these third-
+party CPOs made by any entity associated with Defendants totaled less than $8
+million. Further, the Asset Verifications backdate investments in funds operated by
+two CPOs that occurred after the purported valuation date. At a minimum, the
+Asset Verifications overstate investments with the four third-party CPOs by $13.9
+
+million.
+
+14
+Case: 1:12-cv-07127 Document #; 496 Filed: 01/11/16 Page 15 of 32 PagelD #:16139
+
+Misrepresentations Regarding Funds Held at MF Global
+
+43. Beginning in October 2011, Battoo made representations to pool
+participants that the PIWM Portfolios were significantly impacted by the collapse of
+MF Global Inc. (MF Global), a registered FCM that filed for bankruptcy at the end
+of October 2011. Citing the MF Global collapse, Defendants suspended valuations
+and redemptions of PIWM Portfolios on November 11, 2011. In letters sent to pool
+participants on or about November 11, 2011, Battoo told pool participants that a
+portion of the PIWM Portfolios’ assets were held in “underlying managed accounts
+at MF Global, along with CTAs and hedge fund investments that cleared through
+MF Global.” Defendants told pool participants that all PIWM Portfolios were
+affected. In a later letter sent to pool participants via email on or about December 9,
+2011, Battoo states that, while “each portfolio would have a varying exposure to MF
+Global|,]” the exposure ranged from 17% to 39% of each portfolio.
+
+44. According to the most recent account statements that Defendants
+provided to pool participants, the U.S. Participant Pools have a value of at least
+$130 million. Therefore, at a minimum, the U.S. Participant Pools’ exposure to MF
+Global should be at least $22 million, or 17% of $130 million.
+
+45. Despite Battoo’s statements to pool participants, MF Global had no
+“managed accounts” in the name of PIWM or the PIWM Portfolios. In fact, the only
+accounts with any connection to Defendants were in the name of the F1 Diversified
+Fund and held less than $2.7 million in net liquidation value at the time of MF
+
+Global’s bankruptcy.
+
+15
+
+ 
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 16 of 32 PagelD #:16140
+
+46. Given the relatively small exposure that the PIWM Portfolios had to
+the MF Global collapse, Defendants misrepresented to pool participants either (a)
+the value of the PIWM Portfolios or (b) the extent to which the PIWM Portfolios
+were affected by the MF Global collapse.
+
+Ill. Conclusions of Law
+A. Jurisdiction & Venue
+
+47. This Court has personal jurisdiction over Defendants and subject
+matter jurisdiction over this action pursuant to Section 6c of the Act, 7 U.S.C. § 18a-
+1 (2012), which authorizes the Commission to seek injunctive relief against any
+person whenever it appears that such person has engaged, is engaging, or is about
+to engage in any act or practice constituting a violation of any provision of the Act
+or any rule, Regulation, or order thereunder.
+
+48. \ Venue properly lies with this Court under Section 6c(e) of the Act, 7
+U.S.C. §13a-1(¢) (2012), in that Defendants transacted business in this District, and
+that the acts and practices in violation of the Act and the Regulations have occurred
+within this district, among other places.
+
+B. Defendants’ Failure to Answer Warrants Entry of Default Judgment
+
+49. “When a party against whom a judgment for affirmative relief is
+sought has failed to plead or otherwise defend ... the clerk must enter the party’s
+default.” FED. R. Civ. P. 55(a). As indicated supra, Defendants were properly served
+on March 27, 2018, and thus were required to answer or otherwise respond to the
+
+Complaint on or before on April 17, 2013. Dkt. No. 147. Defendants failed to answer
+
+16
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 17 of 32 PagelD #:16141
+
+or otherwise respond to the Complaint in the time permitted by the Federal Rules of
+Civil Procedure. Accordingly, the Commission requested a Clerk’s Entry of Default,
+which was entered on June 25, 2013. Dkt. Nos. 150, 155.
+
+50. Once the Clerk has entered a default, the party seeking the default is
+then required to apply to the court for a default judgment. See FED. R. Civ. P.
+55(b)(2). Entry of default judgment is left to the sound discretion of the district
+court. See Dundee Cement Co. v. Howard Pipe & Concrete Prods., Inc., 722 F.2d
+1319, 1822 (7th Cir. 1983); see also C.K.S. Engrs, Inc. v. White Mountain Gypsum
+Co., 726 F.2d 1202, 1206 (7th Cir. 1984) (noting although the law favors trial on the
+merits, these considerations must be balanced against the need to promote efficient
+litigation and to protect the interests of all litigants). Defendants’ failure to answer
+or otherwise respond to the Complaint merits entry of this Order. The interests of
+those who will make claims for restitution will be protected in the claims-
+verification process; the fact-findings in this Order bind the named Defendants.
+
+C. Defendants Violated Certain Anti-Fraud Provisions of the Act and
+Regulations
+
+51. “Upon default, the well-pled allegations of the complaint relating to
+liability are taken as true, but those relating to the amount of damages suffered
+ordinarily are not.” Wehrs v. Wells, 688 F.3d 886, 892 (7th Cir. 2012) (citing United
+States v. Di Mucci, 879 F.2d 1488, 1497 (7th Cir.1989); FED. R. Civ. P. 8(b)(6) (“An
+allegation—other than one relating to the amount of damages—is admitted if a
+responsive pleading is required and the allegation is not denied.”). “A default
+
+judgment establishes, as a matter of law, that defendants are liable to plaintiff on
+
+17
+
+ 
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 18 of 32 PagelD #:16142
+
+each cause of action alleged in the complaint.” Wehrs, 688 F.3d at 892 (quoting e360
+Insight v. The Spamhaus Project, 500 F.3d 594, 602 (7th Cir. 2007)). Accordingly,
+the Court finds Defendants liable for each violation of the Act and Regulations
+
+alleged in the Complaint.
+
+Defendants Violated Sections 4b(a)(1)(A)-(C), 7 U.S.C. §§ 6b(a)(1)(A)-(C)
+(Supp. V 2012)
+
+52. Sections 4b(a)(1)(A)-(C) of the Act make it unlawful
+
+for any person, in or in connection with any order to make, or the
+making of, any contract of sale of any commodity in interstate
+commerce or for future delivery that is made, or to be made, on or
+subject to the rules of a designated contract market, for or on behalf of
+any other person — (A) to cheat or defraud or attempt to cheat or
+defraud the other person; (B) willfully to make or cause to be made to
+the other person any false report or statement or willfully to enter or
+cause to be entered for the other person any false record; [or] (C)
+willfully to deceive or attempt to deceive the other person by any
+means whatsoever in regard to any order or contract or the disposition
+or execution of any order or contract, in regard to any act of agency
+performed, with respect to any order or contract for or, in the case of
+paragraph 2, with the other person.
+
+7 U.S.C. §§ 6b(a)(1)(A)-(C) (Supp. V 2012).
+
+538. As set forth above, Defendants violated Sections 4b(a)(1)(A)-(C) of the
+Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C) (Supp. V 2012), by knowingly or recklessly making
+material misrepresentations and omissions to pool participants regarding (1) the
+PIWM Portfolios’ exposure to the Phi R2 losses and the Madoff scheme, (2) the
+value and location of assets purportedly held by the PIWM Portfolios, and (8) the
+PIWM Portfolios’ exposure to the MF Global bankruptcy.
+
+Defendants Violated Section 4o(1), 7 U.S.C. § 6o0(1) (2006)
+
+18
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 19 of 32 PagelD #:16143
+
+54. Section 40(1) of the Act, 7 U.S.C. 6o(1) (2006), prohibits fraudulent
+transactions by CPOs and APs of CPOs. Section 4o0(1)(A) of the Act, 7 U.S.C.
+60(1)(A) (2006), makes it unlawful for a CPO, or an AP of a CPO, to employ any
+device, scheme or artifice to defraud any participant or prospective participant by
+use of instrumentalities of interstate commerce. Section 40(1)(B) of the Act, 7 U.S.C.
+60(1)(B) (2006), makes it unlawful for a CPO, or an AP of a CPO, to engage in any
+transaction, practice or course of business that operates as a fraud or deceit upon
+any participant or prospective participant by use of instrumentalities of interstate
+commerce.
+
+55. As set.forth above, Defendants violated Section 40(1) of the Act, 7
+U.S.C. 6o(1) (2006), by knowingly or recklessly making material misrepresentations
+and omissions to pool participants regarding (1) the PIWM Portfolios’ exposure to
+the Phi R2 losses and the Madoff scheme, (2) the value and location of assets
+purportedly held by the PIWM Portfolios, and (3) the PIWM Portfolios’ exposure to
+the MF Global bankruptcy.
+
+Defendants Violated Section 4c(b), 7 U.S.C. 6c(b) (2006) and Regulations
+33.10(a)-(c), 17 CER. §§ 38.10(a)-(c) (2012)
+
+56. Section 4c(b) of the Act, 7 U.S.C. § 6c(b) (2006), provides that “[n]Jo
+person shall... enter into or confirm the execution of any transaction involving any
+.. option... contrary to any... regulation of the Commission.” In turn,
+Regulations 33.10(a)-(c), 17 C.F.R. §§ 33.10(a)-(c) (2012), provide that:
+It shall be unlawful for any person directly or indirectly — (a) To cheat
+
+or defraud or attempt to cheat or defraud any other person; (b) To
+make or cause to be made to any other person any false report or
+
+19
+
+ 
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 20 of 32 PagelD #:16144
+
+record thereof or cause to be entered for any person any false record
+
+thereof; (c) To deceive or attempt to deceive any other person by any
+
+means whatsoever [,] in or connection with an offer to enter into, the
+
+entry into, the confirmation of the execution of, or the maintenance of,
+
+any commodity option transaction.
+
+57. As set forth above, Defendants violated Sections 4c(b) of the Act, 7
+U.S.C. § 6c(b), and Regulations 33.10(a)-(c), 17 C.F.R. §§ 33.10(a)-(c) (2012), by
+knowingly or recklessly making material misrepresentations and omissions to pool
+participants regarding (1) the PIWM Portfolios’ exposure to the Phi R2 losses and
+the Madoff scheme, (2) the value and location of assets purportedly held by the
+PIWM Portfolios, and (8) the PIWM Portfolios’ exposure to the MF Global
+bankruptcy.
+
+Battoo ts Liable for the Violations of the Act and Regulations Committed by
+
+BC Panama, BC Hong Kong, and BC Switzerland, as a Control Person
+
+Pursuant to Section 13(b) of the Act, 7 U.S.C. § 18c(b) (2006)
+
+58. Section 18(b) of the Act defines a controlling person “[a]ny person who,
+directly or indirectly, controls any person who has violated any provision of the Act
+lif that controlling person] did not act in good faith or knowingly induced, directly or
+indirectly, the act or acts constituting the violation.” 7 U.S.C. § 18c(b) (2006). This
+provision includes individuals, associations, partnerships, corporations and trusts
+that exercise control over persons who violate the Act and fail to act in good faith.
+See Monieson v. CFTC, 996 F.2d 852, 859-60 (7th Cir. 1998) (finding control person
+liability when defendant made management and hiring decisions and oversaw the
+
+day-to-day operations). Indeed, “[a] fundamental purpose of section 13(b) is to allow
+
+the Commission to reach behind the corporate entity to the controlling individuals
+
+20
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 21 of 32 PagelD #:16145
+
+of the corporation and to impose liability for violations of the Act directly on such
+individuals as well as on the corporation itself.” JCC, Inc. v. CFTC, 63 F.3d 1557,
+1567 (11th Cir. 1995) (quoting In re Apache Trading Corp., [1990-1992 Transfer
+Binder] Comm. Fut. L. Rep. (CCH) § 25,251 at 38,794 (CFTC Mar. 11, 1992)
+
+59. A controlling person acts in bad faith if he “did not maintain a
+reasonably adequate system of internal supervision and control over the [employee]
+or did not enforce with any reasonable diligence such system.” Harrison v. Dean
+Witter Reynolds, Inc., 974 F.2d 878, 881 (7th Cir. 1992) (citations omitted). At a
+minimum, the controlling person must act recklessly; negligence alone is
+insufficient to support liability. See G.A. Thompson & Co., Inc. v. Partridge, 636
+F.2d 945, 959-60 (5th Cir. 1981) (holding that recklessness is sufficient to establish
+liability for a controlling person where he was involved in day-to-day operations and
+could influence corporate policy). See also Ernst & Ernst v. Hochfelder, 425 U.S.
+185, 209 n.28 (1976) (noting that the controlling person provision of the Securities
+Exchange Act of 1984 requires more than negligence).
+
+60. To establish the “knowing inducement” element, the Commission must
+show that “the controlling person had actual or constructive knowledge of the core
+activities that constitute the violation at issue and allowed them to continue.” JCC,
+Inc., 63 F.3d at 1568. Controlling persons cannot avoid liability by deliberately or
+recklessly avoiding knowledge about potential wrongdoing. See United States v.
+Ramsey, 785 F.2d 184, 188-89 (7th Cir. 1986) (allowing an “ostrich” jury instruction
+
+because “actual knowledge and deliberate avoidance of knowledge are the same
+
+21
+
+ 
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 22 of 32 PagelD #:16146
+
+thing”). To support a finding of constructive knowledge, the Commission must show
+that a defendant “lack[ed] actual knowledge only because [he] consciously avoided
+it.” JCC, Inc., 63 F.3d, at 1568 (citations omitted).
+
+61. Battoo is a “controlling person” of the BC Common Enterprise. First,
+Battoo has the requisite control over each of the entities that comprise the BC
+Common Enterprise. As discussed above, Battoo is the “Senior Advisor” to the
+“Investment Advisory Board” of the BC Common Enterprise. Battoo hires and
+manages employees of the BC Common Enterprise. Second, Battoo had knowledge
+of and participated in the fraudulent activity committed by the BC Common
+Enterprise discussed above. In particular, Battoo made presentations at conferences
+and sent communications to pool participants containing misrepresentations about
+the PIWM Portfolios’ exposure to the Madoff schemes and to MF Global’s
+bankruptcy. These presentations and communications show that Battoo knowingly
+induced the BC Common Enterprise in its violations of the Act and the Regulations.
+Therefore, Battoo is hable for the acts of BC Panama, BC Hong Kong, and BC
+Switzerland.
+
+BC Panama, BC Hong Kong, and BC Switzerland are Liable for Battoo’s
+
+Violations of the Act and Regulations Pursuant to Section 2(a)(1)(B) of the Act,
+
+7 ULS.C. § 2(a)(1)(B) (2006), and Regulation 1.2, 17 C_F.R. § 1.2 (2012)
+
+62. Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2006), and
+Regulation 1.2, 17 C.F.R. § 1.2 (2012), impose strict liability upon principals for the
+
+actions of their agents acting within the scope of their employment. See Rosenthal &
+
+Co. v. CFTC, 802 F.2d 963, 966 (7th Cir. 1986) (finding that principals are strictly
+
+22
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 23 of 32 PagelD #:16147
+
+liable for the acts of their agents).? Battoo, as well as other employees and agents,
+committed the acts and omissions described herein within the course and scope of
+their employment with BC Panama, BC Hong Kong, and BC Switzerland.
+Therefore, BC Panama, BC Hong Kong, and BC Switzerland are liable under
+Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2006), and Regulation 1.2, 17
+C.F.R. § 1.2 (2012), as a principal for its agents’ acts, omissions or failures as they
+relate to violations of the Act and Regulations.
+
+IV. Order for Permanent Injunction, Restitution, Disgorgement, A Civil
+Monetary Penalty And Other Ancillary Relief
+
+63. Section 6c(b) of the Act provides in pertinent part that “[u]pon a proper
+showing, a permanent... injunction... shall be granted without bond.” 7 U.S.C. §
+18a-1(b) (2006). Unlike private injunctive actions, which are rooted in the equity
+jurisdiction of the federal courts, a Commission enforcement action seeking
+injunctive relief is a creature of statute. See CP'TC v. Garofalo, No. 10-cv-2417, 2011
+WL 4954082, at *5 (N.D. Ill. May 5, 2011) (citing CFTC v. Morgan, Harris & Scott
+Lid., 484 F. Supp. 669, 676-77 (S.D.N.Y. 1979)). As a result, restrictive concepts
+ordinarily associated with private injunctive actions, such as proof of irreparable
+injury or inadequacy of other remedies, are inapplicable. See CFTC v. Hunt, 591
+
+F.2d 1211, 1220 (7th Cir. 1979)); see also Garofalo, 2011 WL 4954082, at *5.
+
+ 
+
+3 Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2006), states: “The act, omission,
+or failure of any official, agent, or other person acting for any individual, association,
+partnership, corporation, or trust within the scope of his employment or office shall be
+deemed the act, omission, or failure of such individual, association, partnership,
+corporation, or trust, as well as of such official, agent, or other person.”
+
+23
+
+ 
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 24 of 32 PagelD #:16148
+
+In order to obtain a permanent injunction, the Commission must show that a
+violation of the Act and/or Regulations occurred, and that there is some reasonable
+likelihood of future violations. See Hunt, 591 F.2d at 1220; see also Garofalo, 2011
+WL 4954082, at *6. Furthermore, “the commission of past illegal conduct is highly
+suggestive of the likelihood of future violations.” Garofalo, 2011 WL 4954085, at *6
+(quoting CFTC v. Crown Colony Commodity Options Ltd., 434 F. Supp. 911, 919
+(S.D.N.Y.1977)).
+
+64. In its Preliminary Injunction, this Court found that the Commission
+made a prima facie showing that Defendants violated Sections 4b(a)(1)(A)-(C), 40,
+and 4c(b) of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C), 60, and 6c(b) (2006 and Supp. V
+2012), and Regulations 33.10(a)-(c), 17 C.F.R. §§ 38.10(a)-(c) (2012), by making
+material misrepresentations and omissions concerning, among other things, the
+suspensions of redemption caused by the Phi R2 losses, the PIWM Portfolios’
+exposure to the Madoff scheme, and the value and location of the PIWM Portfolios’
+assets—with the knowledge that the statements were false. This Court has also
+held that there is a reasonable likelihood of future violations by Defendants.
+
+65. ‘The Commission has shown that Defendants have engaged, are
+engaging, and are about to engage in acts and practices which violate Sections
+4b(a)(1)(A)-(C), 40(1), and 4c(b) of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C) and 6c(b) (2006
+and Supp. V 2012), and Regulations 33.10(a)-(c), 17 C.F.R. §§ 33.10(a)-(c) (2012).
+Notwithstanding their default, the Commission has made a prima facie showing
+
+that the defendant has engaged, or is engaging, in illegal conduct and that, unless
+
+24
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 25 of 32 PagelD #:16149
+
+restrained and enjomed by this Court, there is a reasonable likelihood that
+Defendants will continue to engage in the acts and practices alleged in the
+Complaint and in similar acts and practices in violation of the Act and the
+Regulations. Therefore, a permanent injunction is warranted.
+
+IT 1S HEREBY ORDERED THAT:
+
+66. Defendants have violated Sections 4b(a)(1)(A)-(C), 40(1), and 4c(b) of
+the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C), 60(1), and 6e(b) (2006 and Supp. V 2012), and
+Regulations 33.10(a)-(c), 17 C.F.R. §§ 33.10(a)-(c) (2012). Therefore, judgment shall
+be and hereby is entered in favor of the Commission and against Defendants as
+follows:
+
+A. Prohibition on Violations
+
+67. Defendants, all persons and entities insofar as they are acting in the
+capacity of agents, servants, employees, successors, assigns, or attorneys of
+Defendants, and all persons and entities insofar as they are acting in concert or
+- participation with Defendants who receive actual notice of this order by personal
+service or otherwise, shall be permanently prohibited, enjoined and restrained from
+directly or indirectly engaging in any conduct in violation of Sections 4b(a)(1)(A)-(C),
+4o(1), and 4c(b) of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C), 6o(1), and 6c(b) (2012), and
+Regulations 33.10(a)-(c), 17 C.F.R. §§ 33.10(a)-(c) (2015).
+
+B. Trading, Solicitation and Registration Prohibitions
+68, Permanent trading, solicitation and registration bans are appropriate
+
+when a defendant’s violation of the Act and/or Regulations poses a threat to the
+
+25
+
+ 
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 26 of 32 PagelD #:16150
+
+integrity of the markets regulated by the Commission. See Monieson, 996 F.2d at
+863 (finding a trading ban appropriate and noting the CFTC takes a broad view of
+what threatens the integrity of the markets); see also In re Staryk, [2003-2004
+Transfer Binder] Comm. Fut. L. Rep. (CCH) 4 29,826, at 56,452 (CFTC July 23,
+2004) (explaining that a bar prohibiting a defendant is appropriate when the record
+shows that a [defendant’s] misconduct represents an inherent threat to the integrity
+of the futures markets in the public eye); In re Miller, [1994-1996 Transfer Binder]
+CCH { 26,440, at 42,914 (CFTC June 16, 1995), remanded on other grounds, Miller
+v. CFTC, 197. F.3d 1227 (9th Cir. 1999) (CFTC affirming with “no difficulty” the
+trial court’s permanent trading ban because defendant's pattern of wrongdoing that
+extended over several years posed a danger to the integrity of the market sufficient
+to warrant a permanent ban).
+
+69. Furthermore, in view of Defendants’ fraudulent conduct, there is no
+basis for allowing them to participate in the commodities markets. See CFTC v.
+Harrison, 2015 WL 13228387, at *1-2 (D.S.C. Mar. 23, 2015) GQmposing permanent
+trading and registration bans in fraud case); see also Garofalo, 2011 WL 4954082
+(same).
+
+70. Therefore Defendants, all persons and entities insofar as they are
+acting in the capacity of agents, servants, employees, successors, assigns, or
+attorneys of Defendants, and all persons and entities insofar as they are acting in
+
+concert or participation with Defendants who receive actual notice of this order by
+
+26
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 27 of 32 PagelD #:16151
+
+personal service or otherwise, shall be permanently prohibited, enjoined and
+restrained from directly or indirectly:
+
+a. Trading on or subject to the rules of any registered entity (as
+that term is defined in Section la of the CEA, 7 U.S.C. § la
+(2012));
+
+b. Entering into any transactions involving commodity futures,
+options on commodity futures, commodity options (as that term
+is defined in 17 C.F.R. § 1.3(hh) (2015)) (“commodity options”),
+security futures products, foreign currency (as described in 7
+U.S.C. §§ 2(c)(2)(B) and 2(c)(2)(C)G) (2012)) (forex contracts),
+and/or “swaps” (as that term is defined in 7 U.S.C. § 1a(47)
+(2012), and as further defined by 17 C.F.R. § 1.8(xxx) (2015)), for
+their own personal account or for any account in which they
+have a direct or indirect interest;
+
+c. Having any commodity futures, options on commodity futures,
+commodity options, security futures products, forex contracts,
+and/or swaps traded on their behalf;
+
+d. Controlling or directing the trading for or on behalf of any other
+person or entity, whether by power of attorney or otherwise, in
+any account involving commodity futures, options on commodity
+futures, commodity options, security futures products, forex
+
+contracts and/or swaps;
+
+27
+
+ 
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 28 of 32 PagelD #:16152
+
+e. Soliciting, receiving or accepting any funds from any person for
+the purpose of purchasing or selling any commodity futures,
+options on commodity futures, commodity options, security
+futures products, forex contracts, and/or swaps;
+
+f. Applying for registration or claiming exemption from
+registration with the Commission in any capacity, and engaging
+in any activity requiring such registration or exemption from
+registration with the Commission, except as provided for in 17
+C.F.R. § 4.14(a)(9) (2015); and
+
+g. Acting as a principal (as that term is defined in 17 C.F.R. §
+3.1(a) (2015)), agent or any other officer or employee of any
+person (as that term is defined in 7 U.S.C. § la (2012))
+registered, exempted from registration or required to be
+registered with the Commission except as provided for in 17
+C.F.R. § 4.14(a)(9) (2015).
+
+C. Restitution, Disgorgement, and Civil Monetary Penalty
+
+Restitution and Disgorgement
+
+71. The Court’s authority to order restitution is ancillary to the Court’s
+authority to order injunctive relief under Section 6c of the Act, 7 U.S.C. § 13a-1
+(Supp. V 2012). This authority is founded on the well-established legal principle
+articulated by the Supreme Court in Porter v. Warner Holding Co.:
+
+Unless otherwise provided by statute, all the inherent equitable
+powers of the District Court are available for the proper and complete
+
+28
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 29 of 32 PagelD #:16153
+
+exercise of that jurisdiction. And since the public interest 1s involved in
+
+a proceeding of this nature, those equitable powers assume an even
+
+‘broader power and more flexible character than when a private
+
+controversy is at stake. Power is thereby resident in the District Court,
+
+in exercising this jurisdiction, to do equity and to mould each decree to
+
+the necessities of the particular case.
+
+Porter, 328 U.S. 395, 398 (1946) Gnternal citations omitted); see also CFTC v.
+Hunt, 591 F.2d 1211, 1222-28 (7th Cir. 1979).
+
+72. The Supreme Court reaffirmed this principle in Mitchell v. Robert De
+Mario Jewelry, Inc., 361 U.S. 288, 296 (1960), where it found that the district court
+had jurisdiction to order an employer to reimburse employees for lost wages in a
+suit by the Secretary of Labor to restrain violations of the Fair Labor Standards
+Act. “[T]he comprehensiveness of [the court’s] equitable jurisdiction is not to be
+denied or limited in the absence of a clear and valid legislative command. Unless a
+statute in so many words, or by a necessary and inescapable reference, restricts the
+court's jurisdiction in equity, the full scope of that jurisdiction is to be recognized
+and applied.” Jd. at 291 (quoting Porter, 328 U.S. at 398). Therefore, Defendants
+are liable for restitution in the amount of $294,246,741.68, to be paid in accordance
+with a distribution plan approved by this Court. This amount represents the
+amount of funds solicited by Defendants from pool participants ($460,246,767.13),
+less any funds returned to pool participants ($166,000,025.50).
+
+73. Following these principles, the Seventh Circuit has held that a district
+court has the authority to order restitution, and may compel disgorgement of
+
+illegally obtained profits pursuant to the Act. See CFTC v. Hunt, 591 F.2d 1211,
+
+1223 (7th Cir. 1979); see also CFTC v. Sarvey, No. 08-C-192, 2012 WL 426746, at * 6
+
+29
+
+ 
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 30 of 32 PagelD #:16154
+
+(N.D. Ill. Feb. 10, 2012). Furthermore, the Seventh Circuit has held that it would
+frustrate the spirit of the regulatory scheme to allow a violator to retain the profits
+from his violations. See Hunt, 591 F.2d at 1228 (citing SEC v. Texas Gulf Sulphur
+Co., 446 F.2d 1801, 1808 (2d Cir. 1971) and SEC v. Manor Nursing Centers, Inc.,
+458 F.2d 1082, 1104 (2d Cir. 1972)). There is no basis to permit Defendants to
+benefit from their fraudulent conduct. Therefore they must disgorge their ill-gotten
+. gains in the amount of $49 million.
+
+Civil Monetary Penalty
+
+74. — Section 6c(d)(1) of the Act provides that “the Commission may seek and
+the Court shall have jurisdiction to impose ... on any person found in the action to
+have committed any violation, a civil penalty in the amount of not more than the
+higher of $100,000 or triple the monetary gain to the person for each violation.” 7
+U.S.C. §18a-1(d)(1) (2006). The Regulations adjust the statutory civil monetary
+penalty of $100,000 for inflation. See 17 C.F.R. § 148.8. For the period at issue, the
+statutory civil monetary penalty was $130,000 per violation (for violations
+committed prior to October 23, 2008) and $140,000 per violation (for violations
+committed thereafter). Jd. By not responding to the CFTC’s complaint, Defendants
+offer no justification why the Court should not impose a civil monetary penalty of
+treble the Defendants’ gain. Treble damages is a common multiplier of damages
+when imposing a penalty; enough to punish a serious past violation and enough to
+
+deter future violations, but no so much as to amount to an unreasonable
+
+30
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 31 of 32 PagelD #:16155
+
+punishment. Here, treble damages would be $49,000,000 times three, specifically,
+$147,000,000.
+VI. Miscellaneous Provisions
+
+IT IS FURTHER ORDERED THAT:
+
+75. The Court determines that the continued appointment of the Receiver,
+Robb Evans & Associates LLC, is warranted. The Receivership shall continue until
+such time as the Court dissolves it, upon motion of the Receiver or the Commission.
+
+76. The Receiver is hereby instructed to liquidate assets under the control
+of the Receivership, including but not limited to assets under the control of Battoo,
+and to liquidate such assets in such a way as he reasonably believes will maximize
+their value. The Receiver is instructed to maintain the proceeds of such assets for
+purposes of providing restitution to Defendants’ victims in a manner to be
+determined by this Court at a future date.
+
+77. Copies of this Order may be served by any means, including facsimile
+transmission, email, United Parcel Service and Federal Express, upon Defendants
+or any other entity or person that may be subject to any provision of this Order.
+Amanda Burks, Andrew Ridenour, Kathleen Banar, Rick Glaser, and Erica Bodin,
+all employees of the Commission, are hereby specially appointed to serve process,
+including this Order and all other papers in this cause.
+
+78. All pleadings, correspondence, notices or other materials required by
+
+this Order shall be sent to Amanda Burks, Trial Attorney, Division of Enforcement,
+
+31
+
+ 
+Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 32 of 32 PagelD #:16156 |
+
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street
+N.W., Washington, D.C. 20581.
+79. This Court shall retain jurisdiction of this cause to assure compliance
+
+with this Order and for all other purposes related to this action.
+ENTERED:
+s/Edmond I. Chang
+
+Honorable Edmond E. Chang
+United States District Judge
+
+DATE: January 11, 2016
+
+32

@@ -1,0 +1,456 @@
+Case 1:18-cv-10077-RWZ Document 106 Filed 09/26/18 Page 1 of 11
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF MASSACHUSETTS
+
+CIVIL ACTION NO. 18-10077-RWZ
+
+COMMODITY FUTURES TRADING COMMISSION
+V.
+
+MY BIG COIN PAY, INC. e¢ al.
+
+MEMORANDUM OF DECISION
+
+ 
+
+September 26, 2018
+
+ZOBEL, S.D.J.
+
+Defendant Randall Crater and all Relief Defendants' move to dismiss this case
+brought by plaintiff Commodity Future Trading Commission (“CFTC”). The amended
+complaint alleges a fraudulent “virtual currency scheme’ in violation of the Commodity
+Exchange Act (“CEA’” or “the Act”) and a CFTC implementing regulation banning fraud
+and/or manipulation in connection with the sale of a commodity. See 7 U.S.C. § 9(1);
+17 C.F.R. §180.1(a). Defendants’ principal argument is that CFTC fails to state a claim
+because My Big Coin (“MBC” or “My Big Coin”), the allegedly fraudulent virtual currency
+involved in the scheme, is not a “commodity” within the meaning of the Act. They also
+argue that the CEA provision and CFTC regulation are restricted to cases involving
+
+market manipulation and do not reach the fraud alleged here. Finally, they assert that
+
+ 
+
+' The Relief Defendants are Kimberly Renee Benge; Kimberly Renee Benge d/b/a
+
+Greyshore Advertisement a/k/a Greyshore Advertiset; Barbara Crater Meeks; Erica Crater; Greyshore,
+LLC; and Greyshore Technology, LLC.
+Case 1:18-cv-10077-RWZ Document 106 Filed 09/26/18 Page 2 of 11
+
+plaintiff's amended complaint fails to support its allegations of misappropriation. The
+motion is denied.
+I. Factual Background
+
+For purposes of resolving this motion | accept as true the following well-pleaded
+
+facts, recited as alleged in the amended complaint. See Ocasio-Hernandez v.
+
+ 
+
+Fortuno-Burset, 640 F.3d 1, 5 (1st Cir. 2011).
+
+Mr. Crater and the non-moving codefendants? “
+
+operated a virtual currency
+scheme in which they fraudulently offered the sale of a fully-functioning virtual currency”
+called “My Big Coin’.’ Docket # 63 (hereinafter “Am. Compl.”) 9 1. In short, defendants
+enticed customers to buy My Big Coin by making various untrue and/or misleading
+statements and omitting material facts. The falsities included that My Big Coin was
+“backed by gold,” could be used anywhere Mastercard was accepted, and was being
+“actively traded” on several currency exchanges. See, e.g., id. | 39. Defendants also
+made up and arbitrarily changed the price of My Big Coin to mimic the fluctuations of a
+legitimate, actively-traded virtual currency. When victims of the fraud purchased My Big
+
+Coin, they could view their accounts on a website but “could not trade their MBC or
+
+withdraw funds ....” ld. | 37. Defendants obtained more than $6 million from the
+
+ 
+
+? In addition to Mr. Crater, the amended complaint names as defendants other individuals (Mark
+Gillespie, John Roche, Michael Kruger) and now-defunct corporate entities (My Big Coin Pay, Inc.; My Big
+Coin, Inc.). All these defendants have defaulted, see Docket ## 85-88, except for Mr. Kruger who was
+served on September 3, 2018 in accordance with the court’s alternative service Order. See Docket ## 96,
+102.
+
+8 According to the amended complaint, a virtual currency is “a digital representation of
+value that functions as a medium of exchange, a unit of account, and/or a store of value, but does not
+have legal tender status in any jurisdiction.” Am. Compl. J 25. Unlike United States dollars or other “real’
+currencies,” virtual currencies “use decentralized networks to track transactions between persons,” and
+transfers are recorded in a “decentralized ledger” that functions without any “central intermediary in which
+both users need to trust.” Id.
+Case 1:18-cv-10077-RWZ Document 106 Filed 09/26/18 Page 3 of 11
+
+scheme, some of which is currently held by the several Relief Defendants.
+
+Plaintiff brought suit on January 16, 2018, alleging violations of Section 6(c)(1) of
+the Commodities Exchange Act, 7 U.S.C. § 9(1), and CFTC Regulation 180.1(a), 17
+C.F.R. § 180.1(a). It also moved for a temporary restraining order and a preliminary
+injunction. The court granted the temporary restraining order and defendants
+subsequently consented to a preliminary injunction. Thereafter, plaintiff amended its
+complaint and defendants filed the pending motion to dismiss, which both parties
+extensively briefed and argued.
+Il. Legal Principles
+
+“To survive a motion to dismiss, a complaint must contain sufficient factual
+matter, accepted as true, to ‘state a claim to relief that is plausible on its face.”
+
+Ashcroft v. Iqbal, 556 U.S. 662, 678 (2009) (quoting Bell Atl. Corp. v. Twombly, 550
+
+ 
+
+U.S. 544, 570 (2007)). “A claim has facial plausibility when the plaintiff pleads factual
+content that allows the court to draw the reasonable inference that the defendant is
+liable for the misconduct alleged.” Id. For purposes of a motion to dismiss, the court
+accepts all well-pleaded factual allegations as true and draws all reasonable inferences
+
+in the plaintiff's favor. See Rodriguez-Reyes v. Molina-Rodriguez, 711 F.3d 49, 52-53
+
+ 
+
+(1st Cir. 2013).
+Hl. Application
+
+A. Jurisdiction
+
+As an initial matter, although defendants suggest that this court does not have
+subject matter jurisdiction for lack of a federal question, their underlying argument that
+the alleged conduct did not involve a “commodity” goes to the merits of plaintiff's claim,
+
+3
+Case 1:18-cv-10077-RWZ Document 106 Filed 09/26/18 Page 4 of 11
+
+not jurisdiction. This court has subject matter jurisdiction because the case presents a
+federal question, see 28 U.S.C. § 1331, and because federal law expressly authorizes
+CFTC to sue and the court to grant appropriate relief, see 7 U.S.C. §13a-1(a); 28
+
+U.S.C. § 1345. See, e.g., CFTC v. Hunter Wise Commodities, LLC, 749 F.3d 967, 974
+
+ 
+
+(11th Cir. 2014) (“[Defendant-Appellants] argue the Commission's statutory authority, its
+‘jurisdiction, does not reach the transactions at issue, but we note at the outset that this
+is not a matter of the court's jurisdiction to hear this case.”).
+
+B. Whether Plaintiff Has Adequately Alleged the Sale of a “Commodity”
+Under the CEA
+
+“The Commodity Exchange Act (CEA) has been aptly characterized as a
+‘comprehensive regulatory structure to oversee the volatile and esoteric futures trading
+
+complex.” Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Curran, 456 U.S. 353, 356
+
+ 
+
+(1982) (internal citation omitted) (quoting H.R.Rep. No. 93-975, at 1 (1974) (hereinafter
+“House Report’)). Accordingly, the present Act generally grants CFTC exclusive
+jurisdiction over futures contracts and the exchanges where they are traded. See 7
+U.S.C. § 2(a)(1)(A).* CFTC has additional powers under the statute, including the
+general anti-fraud and anti-manipulation authority over “any ... contract of sale of any
+commodity in interstate commerce” pursuant to which it brings the claims in this case.
+See 7 U.S.C. § 9(1).
+
+As noted above, plaintiff alleges violations of CEA Section 6(c)(1) and CFTC
+
+regulation 180.1(a). Both provisions apply to the fraud alleged in this case if the
+
+ 
+
+4 Simply put, a “futures contract” is an agreement to buy or sell a certain quantity of a
+
+commodity at a certain price at a certain time in the future. See CFTC v. Erskine, 512 F.3d 309, 323 (6th
+Cir. 2008). Such contracts are standardized so they may be traded on exchanges. See id.
+
+4
+Case 1:18-cv-10077-RWZ Document 106 Filed 09/26/18 Page 5of11
+
+conduct involved a “commodity” under the CEA. See 7 U.S.C. § 9(1) (banning, inter
+
+33 cae
+
+alia, the use of “any manipulative or deceptive device or contrivance” “in connection
+with any ... contract of sale of any commodity in interstate commerce”); 17 C.F.R.
+§180.1(a) (banning, inter alia, the use of “any manipulative device, scheme, or artifice
+
+33) Gee
+
+to defraud” “in connection with any ... contract of sale of any commodity in interstate
+commerce’). Therefore, to state a viable claim, plaintiff must adequately plead that My
+Big Coin is a commodity.
+
+“Commodity” is a defined term in the CEA. See 7 U.S.C. § 1a(9). It includes a
+host of specifically enumerated agricultural products as well as “all other goods and
+articles ... and all services rights and interests ... in which contracts for future delivery
+are presently or in the future dealt in.” Id. The full definition reads:
+
+The term “commodity” means wheat, cotton, rice, corn, oats, barley, rye,
+
+flaxseed, grain sorghums, mill feeds, butter, eggs, Solanum tuberosum (Irish
+
+potatoes), wool, wool tops, fats and oils (including lard, tallow, cottonseed oil,
+peanut oil, soybean oil, and all other fats and oils), cottonseed meal, cottonseed,
+peanuts, soybeans, soybean meal, livestock, livestock products, and frozen
+concentrated orange juice, and all other goods and articles, except onions (as
+provided by section 13-1 of this title) and motion picture box office receipts (or
+any index, measure, value, or data related to such receipts), and all services,
+rights, and interests (except motion picture box office receipts, or any index,
+measure, value or data related to such receipts) in which contracts for future
+delivery are presently or in the future dealt in.
+
+Defendants contend that because “contracts for future delivery” are indisputably
+not “dealt in” My Big Coin, it cannot be a commodity under the CEA. They take the
+position that in order to satisfy the CEA’s “commodity” definition, the specific item in
+
+question must itself underlie a futures contract. Plaintiff responds that “a ‘commodity’
+
+for purposes of [the CEA definition] is broader than any particular type or brand of that
+Case 1:18-cv-10077-RWZ Document 106 Filed 09/26/18 Page 6 of 11
+
+commodity.” Docket # 70 at 10.° Pointing to the existence of Bitcoin futures contracts,
+it argues that contracts for future delivery of virtual currencies are “dealt in” and that My
+Big Coin, as a virtual currency, is therefore a commodity.°
+
+The text of the statute supports plaintiff's argument. The Act defines
+“commodity” generally and categorically, “not by type, grade, quality, brand, producer,
+manufacturer, or form.” Docket # 70 at 11. For example, the Act classifies “livestock”
+as a commodity without enumerating which particular species are the subject of futures
+trading. Thus, as plaintiff urges, Congress’ approach to defining “commodity” signals
+an intent that courts focus on categories—not specific items—when determining
+whether the “dealt in” requirement is met.
+
+This broad approach also accords with Congress’s goal of “strengthening the
+
+ 
+
+° Plaintiff also attempts to sidestep the issue of futures contracts by arguing that My Big
+
+Coin is a “good” or an “article” and that items in these categories are commodities under the CEA even in
+the absence of contracts for future delivery. That argument is unavailing. The “dealt in” clause applies to
+both “goods and articles” as well as “services, rights, and interests.” See United States v. Brooks, 681
+F.3d 678, 694 (5th Cir. 2012) (“Natural gas is plainly a ‘good’ or ‘article.’ The question thus turns on
+whether it is a good ‘in which contracts for future delivery are presently or in the future dealt with.’”); Bd. of
+Trade of City of Chicago v. S.E.C., 677 F.2d 1137, 1142 (7th Cir. 1982) (“literally anything other than
+onions [can] become a ‘commodity’ and thereby subject to CFTC regulation simply by its futures being
+traded on some exchange’), judgment vacated as moot SEC v. Bd. of Trade of City of Chicago, 459 U.S.
+1026 (1982); CFTC v. McDonnell, 287 F. Supp. 3d 213, 228 (E.D.N.Y. 2018) (“Where a futures market
+exists for a good, service, right, or interest, it may be regulated by CFTC, as a commodity.”); CFTC v.
+Reed, 481 F. Supp. 2d 1190, 1194 (D. Colo. 2007) (“In 1974 the CEA was amended to expand its
+jurisdiction from a statutory list of enumerated commodities to include all goods and articles in which a
+futures contract is traded.”); see also Dunn v. CFTC, 519 U.S. 465, 469 (1997) (“the 1974 amendments
+that created the CFTC [] dramatically expanded the coverage of the statute to include nonagricultural
+commodities ‘in which contracts for future delivery are presently or in the future dealt in’ ....”).
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 The court takes judicial notice of the undisputed facts that (a) Bitcoin futures are presently
+
+traded; and (b) no futures contracts exist for My Big Coin. See In re Colonial Mortg. Bankers Corp., 324
+F.3d 12, 15 (1st Cir. 2003) (court should consider matters susceptible to judicial notice in ruling ona
+motion to dismiss, including matters of public record); Bitcoin Futures Contract Specs, CME Group,
+https://www.cmegroup.com/trading/equity-index/us-index/bitcoin_contract_specifications.html (last visited
+September 25, 2018); Summary Product Specifications Chart for Cboe Bitcoin (USD) Futures, CBOE
+FUTURES EXCHANGE, http://cfe.cboe.com/cfe-products/xbt-cboe-bitcoin-futures/contract-specifications (last
+visited September 25, 2018).
+
+ 
+
+ 
+
+ 
+Case 1:18-cv-10077-RWZ Document 106 Filed 09/26/18 Page 7 of 11
+
+federal regulation of the ... commodity futures trading industry,” House Report at 1,
+since an expansive definition of “commodity” reasonably assures that the CEA’s
+regulatory scheme and enforcement provisions will comprehensively protect and police
+the markets. That goal is particularly relevant here, given that the court is construing
+the term “commodity” not in a vacuum, but rather as it functions within the CEA’s anti-
+fraud enforcement provision of Section 6(c)(1).. As the Supreme Court has instructed
+in an analogous context, such statutes are to be “construed ‘not technically and
+restrictively, but flexibly to effectuate [their] remedial purposes.” SEC v. Zandford, 535
+U.S. 813, 819 (2002) (analyzing Section 10(b) of the Securities Exchange Act) (quoting
+
+SEC v. Capital Gains Research Bureau, Inc., 375 U.S. 180, 195 (1963)).
+
+ 
+
+Finally, the scant caselaw on this issue also supports plaintiff's approach. Ina
+series of cases involving natural gas, courts have repeatedly rejected arguments that a
+particular type of natural gas was not a commodity because that specific type was not
+
+the subject of a futures contract. See United States v. Brooks, 681 F.3d 678 (5th Cir.
+
+ 
+
+2012); United States v. Futch, 278 F. App’x 387, 395 (5th Cir. 2008); United States v.
+
+ 
+
+Valencia, No. CR.A. H-03-024, 2003 WL 23174749, at *8 (S.D. Tex. Aug. 25, 2003),
+
+order vacated in part on reconsideration, No. CRIM.A. H-03-024, 2003 WL 23675402
+
+ 
+
+(S.D. Tex. Nov. 13, 2003), rev'd and remanded on other grounds, 394 F.3d 352 (Sth
+
+ 
+
+Cir. 2004). Rather, the courts held that because futures contracts in natural gas
+underlaid by gas at Henry Hub, Louisiana were dealt in, and because natural gas is
+“fungible” and may move freely throughout a national pipeline system, this was
+sufficient to show that natural gas, including the types at issue in these cases, was a
+commodity. See Brooks, 681 F.3d at 694-95 (observing that “it would be peculiar that
+
+7
+Case 1:18-cv-10077-RWZ Document 106 Filed 09/26/18 Page 8 of 11
+
+natural gas at another hub is not a commodity, but suddenly becomes a commodity
+solely on the basis that it passes through Henry Hub, and ceases to be a commodity
+once it moves onto some other locale”); Futch, 278 F. App'x at 395 (noting that “Henry
+Hub is the nexus of several major natural gas pipelines” and focusing on “the type of
+commodity in question, natural gas”); Valencia, 2003 WL 23174749 at *8 (noting that
+“natural gas is fungible” and finding that “natural gas for delivery on the West Coast or
+otherwise, is a commodity.”).” Taken together, these decisions align with plaintiff's
+argument that the CEA only requires the existence of futures trading within a certain
+class (e.g. “natural gas”) in order for all items within that class (e.g. “West Coast”
+natural gas) to be considered commodities.
+
+Here, the amended complaint alleges that My Big Coin is a virtual currency and it
+is undisputed that there is futures trading in virtual currencies (specifically involving
+Bitcoin). That is sufficient, especially at the pleading stage, for plaintiff to allege that My
+
+Big Coin is a “commodity” under the Act. See CFTC v. McDonnell, 287 F. Supp. 3d
+
+ 
+
+213, 228 (E.D.N.Y. 2018) (“Virtual currencies can be regulated by CFTC asa
+
+commodity.”); In re BEXNA Inc., CFTC Docket 16-19, at 5-6 (June 2, 2016) (“[V]irtual
+
+ 
+
+currencies are encompassed in the [CEA] definition and properly defined as
+
+commodities.”); In re Coinflip, Inc., CFTC Docket No. 15-29, at 3 (Sept. 17, 2015)
+
+ 
+
+ 
+
+, The Valencia court somewhat hedged this ruling, stating that “the issue ... of whether
+
+‘West Coast gas’ is a commodity ‘in which contracts for future delivery are presently or in the future dealt
+in’ is a fact question.” Valencia, 2003 WL 23174749 at *8.
+
+8 Contrary to defendants’ argument, the amended complaint alleges that My Big Coin and
+Bitcoin are sufficiently related so as to justify this categorical treatment. Plaintiffs have alleged that My Big
+Coin and Bitcoin are both virtual currencies, see Am. Compl. J] 26, and have alleged various
+characteristics common to virtual currencies, see Am. Compl. f 25. That is enough under the court’s
+
+reading of the statute and the principles discussed herein.
+
+8
+Case 1:18-cv-10077-RWZ Document 106 Filed 09/26/18 Page 9 of 11
+
+(same).? Accordingly, defendants’ first ground for dismissal fails.
+
+C. Whether Section 6(c)(1) and Regulation 180.1(a) Reach the Fraud
+Alleged
+
+Defendants argue, second, that even if My Big Coin is a commodity, the
+complaint is still deficient because the laws under which the claims are brought “were
+meant to combat fraudulent market manipulation—not the kind of garden variety sales
+puffery that the Amended Complaint alleges.” Docket # 69 at 15. That argument fails
+because both Section 6(c)(1) and Regulation 180.1 explicitly prohibit fraud even in the
+absence of market manipulation. See 7 U.S.C. § 9 (banning the use of any
+“manipulative or deceptive device or contrivance” in connection with the sale of a
+commodity) (emphasis added); 17 C.F.R. §180.1(a) (banning the use of “any
+manipulative device, scheme, or artifice to defraud,” the making of “any untrue or
+misleading statement of a material fact,” or the use of “any act, practice, or course of
+business, which operates ... as a fraud or deceit ....” in connection with the sale of a
+commodity). Courts have accordingly recognized CFTC’s power to prosecute fraud
+
+under these provisions. See CFTC v. S. Tr. Metals, Inc., No. 16-16544, 2018 WL
+
+ 
+
+3384266, at “1, 6, 15 (11th Cir. July 12, 2018) (affirming judgment for CFTC in
+“commodities-fraud case” alleging violations of Regulation 180.1 that “involve[d] no
+allegation ... that the Defendants manipulated the price of a commodity”); McDonnell,
+
+287 F. Supp. 3d at 229 (“Language in 7 U.S.C. § 9(1), and 17 C.F.R. § 180.1, establish
+
+ 
+
+° While McDonnell, In re Coinflip, and In re BFEXNA can be distinguished on their facts
+
+since each case involved the virtual currency Bitcoin, these orders are nevertheless useful data points.
+Each supports the court’s view that the appropriate inquiry under the CEA is whether contracts for future
+delivery of virtual currencies are dealt in, not whether a particular type of virtual currency underlies a
+futures contract.
+
+ 
+Case 1:18-cv-10077-RWZ Document 106 Filed 09/26/18 Page 10 of 11
+
+the CFTC's regulatory authority over the manipulative schemes, fraud, and misleading
+
+statements alleged in the complaint.”), aff'd on reconsideration, No. 18-CV-361, 2018
+
+ 
+
+WL 3435047, at *2 (E.D.N.Y. July 16, 2018) ("Title 7 U.S.C. § 9(1) gives the CFTC
+standing to exercise its enforcement power over the fraudulent schemes alleged in the
+
+complaint.”); CFTC v. Hunter Wise Commodities, LLC, 21 F. Supp. 3d 1317, 1348 (S.D.
+
+ 
+
+Fla. 2014) (finding defendants liable for violating Section 6(c)(1) and Regulation 180.1
+
+in fraud case not involving allegations of market manipulation). But see CFTC v. Monex
+
+ 
+
+Credit Co., No. SACV 17—01868 JVS (DFMx), 2018 WL 2306863, at *7-10 (C.D. Cal.
+May 1, 2018) (finding that Section 6(c)(1) prohibits only fraud-based market
+manipulation). Though some isolated statements in the legislative history surrounding
+Section 6(c)(1) suggest Congress was, perhaps, principally concerned with combating
+manipulation, see Docket # 69 at 15, these statements are insufficient to overcome the
+broad language in the statute as it was passed.
+
+D. Whether the Amended Complaint Fails to Support its
+Misappropriation Theory
+
+Finally, though the amended complaint references misappropriation, the relevant
+count is “fraud by deceptive device or contrivance” in violation of Section 6(c)(1) and
+Regulation 180.1(a). The amended complaint sets forth in detail the allegations
+supporting this charge. As such, any failure to allege that defendants had an obligation
+to use customer funds in a certain way has no bearing on whether plaintiff has
+
+adequately pleaded this claim.
+
+10
+Case 1:18-cv-10077-RWZ Document 106 Filed 09/26/18 Page 11 of 11
+
+IV. Conclusion
+
+Defendants’ motion to dismiss (Docket # 68) is denied.
+
+September 26, 2018 /s/Rya W. Zobel
+
+DATE RYA W. ZOBEL
+
+ 
+
+ 
+
+SENIOR UNITED STATES DISTRICT JUDGE
+
+11

@@ -1,0 +1,338 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+RECEIVED CFTC >
+
+srt TR4 Dy
+
+ 
+
+o>
+
+ 
+
+  
+
+MODITY p
+
+oS
+
+1 WO
+
+In the Matter of:
+
+Office of Proceedings
+Proceedings Clerk
+
+MAREX NORTH AMERICA LLC, 1:02 pm, Sep 23, 2020}
+
+ 
+
+CFTC Docket No. 20-64
+
+ 
+
+Respondent.
+
+Nee Nee ee” ee ee” SN”
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (“Commission”) has reason to believe that
+from June 5, 2015 to June 28, 2019 (“Relevant Period’), Respondent Marex North America LLC
+(hereinafter “Respondent” or “Marex’’) violated Section 4f(b) of the Commodity Exchange Act
+(“Act”), 7 U.S.C. § 6f(b) (2018), and Regulation 1.17(a)(1)@)(B), 17 C.F.R. § 1.17(a)1)G@)(B)
+(2019) of the Commission Regulations (“Regulations”) promulgated thereunder. Therefore, the
+Commission deems it appropriate and in the public interest that public administrative
+proceedings be, and hereby are, instituted to determine whether Respondent engaged in the
+violations set forth herein and to determine whether any order should be issued imposing
+remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
+Exchange Act, Making Findings, and Imposing Remedial Sanctions (“Order”), and
+acknowledges service of this Order.’
+
+ 
+
+' Respondent consents to the use of the findings of fact and conclusions of law in this Order in this proceeding and
+in any other proceeding brought by the Commission or to which the Commission is a party or claimant, and agrees
+that they shall be taken as true and correct and be given preclusive effect therein, without further proof. Respondent
+does not consent, however, to the use of this Order, or the findings or conclusions herein, as the sole basis for any
+other proceeding brought by the Commission or to which the Commission is a party or claimant, other than: a
+proceeding in bankruptcy or receivership; or a proceeding to enforce the terms of this Order. Respondent does not
+consent to the use of the Offer or this Order, or the findings or conclusions in this Order, by any other party in any
+other proceeding.
+II. FINDINGS
+The Commission finds the following:
+A. SUMMARY
+
+Marex, a registered futures commission merchant (“FCM”’) with the Commission, enters
+orders and executes trades on a number of designated contract markets on behalf of customers.
+
+During the Relevant Period, Marex improperly accounted for deductions arising out of an
+agreement it entered to guarantee a line of credit for an affiliated company (the “Restatement
+Agreement’), in computing its adjusted net capital. Consequently, Marex failed to meet its
+adjusted net capital requirements during thirty-three months of the Relevant Period by failing to
+properly deduct the amount of the guaranteed drawdown under the revolving line of credit
+(hereinafter “drawdown’’) in calculating its adjusted net capital. Marex continued to operate as a
+FCM while failing to maintain the minimum adjusted net capital required of a FCM.
+
+Accordingly, Respondent violated Section 4f(b) of the Act, 7 U.S.C. § 6f(b) (2018) and
+Regulation 1.17(a)(1)G)(B), 17 C.F.R. § 1.17(a)(1)@)(B) (2019).
+
+B. RESPONDENT
+
+Marex North America LLC is registered with the Commission as a FCM, with its
+principal place of business located at 360 Madison Ave., 3" Floor, New York, New York 10017.
+It has been continuously registered as a FCM since November 23, 2010.
+
+C. FACTS
+
+On June 5, 2015, Marex entered into the Restatement Agreement under which it agreed to
+guarantee drawdowns of a revolving line of credit provided to an affiliated company by a
+banking syndicate. Marex subsequently entered a “Release Agreement” (the “Release
+Agreement”) on June 28, 2019, with the same syndicate of banks, which terminated Marex’s
+obligations under the Restatement Agreement.
+
+During the time period in which Marex was bound as a guarantor of drawdowns of the
+revolving line of credit, funds were periodically drawn on the line of credit for the benefit of the
+affiliated company, in amounts ranging from ten million dollars to one-time ninety-five million
+dollars. Marex did not deduct the amount of the guaranteed drawdown in its calculation of
+adjusted net capital during any month during the Relevant Period in which there was a
+drawdown. If the drawdowns had been accurately reflected in Marex’s calculation of adjusted
+net capital, Marex’s adjusted net capital would have been below the required amount in thirty-
+three of the forty-eight months it was bound by the Restatement Agreement. The resulting
+deficits in adjusted net capital ranged from approximately $4 million to $75 million dollars in
+particular months. Marex continued to operate as an FCM throughout these months despite these
+deficits.
+Il. LEGAL DISCUSSION
+A. Marex Failed to Meet its Minimum Financial Requirements
+
+FCMs function as the commodity market’s equivalent of a securities brokerage house,
+soliciting and accepting orders and funds for futures contracts and extending credit in connection
+therewith. See First American Discount Corp. v. CFTC, 222 F.3d 1008, 1010 (D.C. Cir. 2000). The
+Act and Regulations set forth minimum financial requirements for FCMs to insure that FCMs meet
+their obligations as registrants. See Revised Adjusted Net Capital Requirements for Futures
+Commission Merchants and Introducing Brokers [Final Rule], 74 Fed. Reg. 69279 (Dec. 31,
+2009). Marex failed to reflect a guarantee of an affiliate’s liability as a deduction in computing
+Marex’s adjusted net capital. Reflecting the amount of the guarantee would have resulted in Marex
+being undercapitalized and in violation of the minimum financial requirements as set forth in the Act
+and Commission Regulations. Marex continued to operate as a FCM while undercapitalized.
+
+1. Marex Should have Taken a Deduction in Computing Net Capital for the
+Drawdowns
+
+Section 4f(b) of the Act, 7 U.S.C. § 6f(b) (2018), provides in part:
+
+[N]o person desiring to register as futures commission merchant or
+as introducing broker shall be so registered unless he meets such
+minimum financial requirements as the Commission may by
+regulation prescribe as necessary to insure his meeting his
+obligations as a registrant, and each person so registered shall at all
+times continue to meet such prescribed minimum financial
+requirements ....
+
+Regulation 1.17(a)()@), 17 C.F.R § 1.17(a)(1)G) (2019), provides in relevant part that, an
+FCM's adjusted net capital requirement is the greater of $1,000,000 or the “futures commission
+merchant’s risk-based capital requirement, computed as eight percent of the total risk margin
+requirement for positions carried by the futures commission merchant in customer accounts and
+noncustomer accounts.”
+
+Adjusted net capital is calculated by deducting total liabilities from total current assets to
+arrive at net capital, from which certain charges are deducted as a cushion against potential
+decreases in market value to arrive at adjusted net capital. See Regulation 1.17(c)(1) and (5),
+
+17 C.F.R. § 1.17(c)C1), (5) (2019). E.g., In re First Commercial Fin. Grp., Inc., CFTC No. 95-
+10, 1999 WL 325338, n.3 at *9 (May 20, 1999).
+
+Marex was required to take a deduction in computing its adjusted net capital equal to the
+amount of the drawdowns on the line of credit subject to the Restatement Agreement.
+Regulation 1.17(f)(4), 17 C.F.R. § 1.17(f)(4) (2019), states: “No applicant or registrant shall
+guarantee, endorse, or assume directly or indirectly any obligation or liability of a subsidiary or
+affiliate unless the obligation or liability is reflected in the computation of adjusted net capital
+pursuant to [. . .] this section.”
+2. Marex Failed to Meet its Minimum Financial Requirements Because it Failed
+to Take a Deduction in Computing its Adjusted Net Capital for the
+Drawdowns
+
+If the Restatement Agreement had been reflected as a deduction in the calculation of
+Marex’s adjusted net capital during the months when there were drawdowns on the line of credit,
+Marex would be deemed to have failed to meet its minimum capital requirement for thirty-three
+months during the Relevant Period.
+
+IV. FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that, during the Relevant Period, Marex
+violated Section 4f(b) of the Commodity Exchange Act (“Act”), 7 U.S.C. § 6f(b) (2018), and
+Regulation 1.17(a)(1)G)(B), 17 C.F.R. { 1.17(a)(1)G)(B) (2019).
+
+V. OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+A. Acknowledges service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C. Waives:
+1. The filing and service of a complaint and notice of hearing;
+2. A hearing;
+
+3. All post-hearing procedures;
+4. Judicial review by any court;
+
+5. Any and all objections to the participation by any member of the Commission’s
+staff in the Commission’s consideration of the Offer;
+
+6. Any and all claims that it may possess under the Equal Access to Justice Act,
+5 U.S.C. § 504 (2018), and 28 U.S.C. § 2412 (2018), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations, 17 C.F.R.
+pt. 148 (2019), relating to, or arising from, this proceeding;
+
+7. Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. IL, §§ 201-253, 110
+Stat. 847, 857-74 (codified as amended at 28 U.S.C. § 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+8. Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order.
+
+D. Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer;
+
+E. Consents, solely on the basis of the Offer, to the Commission’s entry of this Order that:
+
+1. Makes findings by the Commission that Respondent violated Section 4f(b) of the
+Act, 7 U.S.C. § 6f(b) (2018), and Regulation 1.17(a)(1)@)(B), 17 C.F.R.
+§ 1.17(a)(1)G)(B) (2019);
+
+2. Orders Respondent to cease and desist from violating Section 4f(b) of the Act and
+Regulation 1.17(a)(1)@)(B);
+
+3. Orders Respondent to pay a civil monetary penalty in the amount of two hundred
+fifty thousand dollars ($250,000), within ten days of the date of entry of this Order
+plus post-judgment interest if not paid within that time; and
+
+4. Orders Respondent and its successors and assigns to comply with the conditions
+consented to in the Offer and as set forth in Part VI of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VI. ORDER
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+1. Respondent and its successors and assigns shall cease and desist from violating Section
+Af(b) of the Act, 7 U.S.C. § 6f(b) (2018), and Regulation 1.17(a)(1)G@)(B), 17 C.F.R.
+§ 1.17(a))G)(B) (2019).
+
+2. Respondent shall pay, a civil monetary penalty in the amount of two hundred fifty
+thousand dollars ($250,000) (the “CMP Obligation”), within ten days of the date of the
+entry of this Order. If the CMP Obligation is not paid in full within ten days of the date
+of entry of this Order, then post-judgment interest shall accrue on the CMP Obligation
+beginning on the date of entry of this Order and shall be determined by using the
+Treasury Bill rate prevailing on the date of entry of this Order pursuant to 28 U.S.C.
+
+§ 1961 (2018).”
+
+ 
+
+* Consistent with the Division’s Civil Monetary Penalty Guidance issued on May 20, 2020, in determining whether
+to accept the Respondent’s Offer of Settlement, the Commission considered the fine imposed by Chicago Mercantile
+Respondent shall pay the CMP Obligation and any post-judgment interest by electronic
+funds transfer, U.S. postal money order, certified check, bank cashier’s check, or bank
+money order. If payment is to be made other than by electronic funds transfer, then the
+payment shall be made payable to the Commodity Futures Trading Commission and sent
+to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+
+9-AMC-AR-CFTC @ faa. gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Marie
+Thorne or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+
+3. Respondent and its successors and assigns shall comply with the following conditions set
+forth in the Offer:
+
+1. Public Statements: Respondent agrees that neither it nor any of its successors and
+assigns, agents or employees under its authority or control shall take any action or
+make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondent’s: (4) testimonial obligations; or (11) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondent and its successors and assigns shall comply with this agreement, and
+shall undertake all steps necessary to ensure that all of its agents and/or
+employees under its authority or control understand and comply with this
+agreement.
+
+2. Cooperation, in General: Respondent shall cooperate fully and expeditiously with
+the Commission, including the Commission’s Division of Enforcement, in this
+action, and in any current or future Commission investigation or action related
+
+ 
+
+Exchange’s Audit Committee in its related disciplinary action against Respondent, captioned CME 10-CH-1906,
+effective January 24, 2020.
+thereto. Respondent shall also cooperate with the Commission in any
+investigation, civil litigation, or administrative matter related to, or arising from,
+this action.
+
+3. Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission of any partial payment of Respondent’s CMP Obligation shall not
+be deemed a waiver of its obligation to make further payments pursuant to this
+Order, or a waiver of the Commission’s right to seek to compel payment of any
+remaining balance.
+
+4. Change of Address/Phone: Until such time as Respondent satisfies in full its CMP
+Obligation as set forth in this Consent Order, Respondent shall provide written
+notice to the Commission by certified mail of any change to its telephone number
+and mailing address within ten calendar days of the change.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+Ftd We dtm
+
+Robert N. Sidman a
+Deputy Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: September 23, 2020

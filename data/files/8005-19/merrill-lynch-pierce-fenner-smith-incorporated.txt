@@ -1,0 +1,358 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+(— RECEIVED CFTC \
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+)
+In the Matter of: )
+)
+mere Lynch, Pierce, Fenner & Smith ) CRrTLC Docket No. 19-21 office of Proveedings
+neorporated, Proceedings Clerk
+Respondent. ) L 10:55 am, Sep 10, 7019]
+| )
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(C) AND (D) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (“Commission”) has reason to believe that
+from in or about March 2015 to at least January 2018 (“Relevant Period”), Merrill Lynch, Pierce,
+Fenner & Smith Incorporated (“Respondent”) violated Section 4g of the Commodity Exchange
+Act (“Act”), 7 U.S.C. § 4g (2012), and regulations 1.31, 1.35, and 166.3, 17 C.F.R. §§ 1.31,
+1.35, and 166.3 (2018) of the Commission Regulations (“Regulations”) promulgated thereunder.
+Therefore, the Commission deems it appropriate and in the public interest that public
+administrative proceedings be, and hereby are, instituted to determine whether Respondent
+engaged in the violations set forth herein and to determine whether any order should be issued
+imposing remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
+Exchange Act, Making Findings, and Imposing Remedial Sanctions (“Order”) and acknowledges
+service of this Order.
+
+ 
+
+' Respondent consents to the use of the findings of fact and conclusions of law in this Order in this proceeding and
+in any other proceeding brought by the Commission or to which the Commission is a party or claimant, and agrees
+that they shall be taken as true and correct and be given preclusive effect therein, without further proof. Respondent
+does not consent, however, to the use of this Order, or the findings or conclusions herein, as the sole basis for any
+other proceeding brought by the Commission or to which the Commission is a party or claimant, other than: a
+proceeding in bankruptcy or receivership; or a proceeding to enforce the terms of this Order. Respondent does not
+consent to the use of the Offer or this Order, or the findings or conclusions in this Order, by any other party in any
+other proceeding.
+Il. FINDINGS
+The Commission finds the following:
+A. SUMMARY
+
+For nearly three years, Respondent, a registered futures commission merchant (“FCM”),
+failed to promptly produce reliable audit trail data requested by the Division of Enforcement
+(“Division”). These failures substantially delayed a Division investigation and were due in large
+part to Respondent’s failure to develop and diligently administer adequate procedures for
+responding to routine regulatory requests.
+
+B. RESPONDENT
+
+Merrill Lynch, Pierce, Fenner & Smith Incorporated is a subsidiary of BAC North
+America Holding Company and is headquartered in New York, New York. Respondent is the
+executing broker for a third-party firm that was the subject of a Division investigation.
+Respondent is registered with the Commission as an FCM.
+
+C. FACTS
+
+The Division requested audit trail data, among other records, as part of an ongoing
+investigation on three separate dates in 2015. Respondent maintained the audit trail data in its
+capacity as an executing broker for a third-party firm. Respondent was required to maintain and
+produce this audit trail data pursuant to Section 4g of the Act, 7 U.S.C. § 6g (2012), and
+Regulations 1.31 and 1.35, 17 C.F.R. §§ 1.31 and 1.35 (2018).
+
+The productions made in response to the requests for audit trail data were both
+significantly delayed and flawed. Namely, even after the Division agreed to limit the scope of
+the requests, Respondent did not produce any audit trail data until January 2017—more than
+eighteen months after the initial requests. Moreover, this production was incomplete and
+required a supplemental production in February 2017. Thereafter, the Division identified
+numerous issues with the audit trail data produced, which included unpopulated fields. After
+numerous discussions and reproduction of data to correct the issues, the Division was led to
+believe that the production of audit trail data was complete.
+
+Then in December 2017—more than two-and-a-half years after the initial document
+requests were made—Respondent identified a significant gap in the audit trail data that had been
+produced. Respondent ultimately located and produced the missing audit trail data in January
+2018. This substantially delayed the Division’s investigation.
+
+The Division subsequently learned that Respondent failed to develop and diligently
+administer adequate procedures to properly respond to the Division’s requests for required audit
+trail data, and otherwise lacked an adequate supervisory system to ensure the required records
+were properly kept and promptly produced. For example, Respondent did not have a process in
+place to locate account numbers or order entry operator identification numbers; instead,
+operations personnel simply worked from memory when searching for the data.
+Il. LEGAL DISCUSSION
+A. Failure to Promptly Produce Reliable Records
+
+As an FCM, Respondent is required to comply with the obligations set forth in Section 4g
+of the Act, 7 U.S.C. § 6g (2012), and Regulations 1.31 and 1.35, 17 C.F.R. §§ 1.31 and 1.35
+(2018). Section 4g of the Act requires FCMs, among other registrants, to “keep books and
+records pertaining to transactions and positions of their customers and commodities for future
+delivery, and shall make such records available for inspection by the Commission.” 7 U.S.C.
+
+§ 6g(a).
+
+Before August 28, 2017, Regulation 1.31 stated that persons required to maintain books
+and records under the Act or Regulations shall produce such records “promptly” to a
+Commission representative upon request. 17 C.F.R. § 1.31(a)(2) (2017); see also Inre IKON
+Glob. Mkts., Inc., CFTC No. 17-23, 2017 WL 3868976, at *2 (Aug. 31, 2017) (consent order
+finding violations of Regulation 1.31 when FCM failed to produce documents over a two-year
+period); In re Barclays Bank PLC, CFTC No. 16-30, 2016 WL 5582339, at *2 (Sept. 22, 2016)
+(consent order finding violations of Regulation 1.31 when FCM failed to produce trade
+confirmation for fourteen months).
+
+On August 28, 2017, Regulation 1.31 was amended to read: “a records entity must
+produce such regulatory records in the form and medium requested promptly, upon request,
+unless otherwise directed by the Commission representative.” 17 C.F.R. § 1.31(d)(3)i) (2018).
+Revised Regulation 1.31 also states that if records are maintained electronically, registrants must
+“establish appropriate systems and controls that ensure the authenticity and reliability of
+electronic regulatory records” and “ensure the records entity is able to produce electronic
+regulatory records in accordance with the Regulations.” 17 C.F.R. § 1.31(c)(@) (2018).
+
+Regulations 1.35 further elaborates that FCMs, among other registrants, must:
+
+[k]eep full, complete, and systematic records .. . of all transactions
+relating to its business of dealing commodity interests... which
+shall include all orders (filled, unfilled, or canceled), trading
+
+cards, ... journals, ledgers, ... copies of confirmations ... and
+all other records, which have been prepared in the course of its
+business of dealing in commodity interests ....
+
+17 C.F.R. § 1.35(a)(1)() (2018). These records include audit trail data. See Inre ABN AMRO
+Clearing Chicago LLC, CFTC No. 18-31, 2018 WL 4502261, at *4 (Sept. 14, 2018) (consent
+order finding violation of Section 4g of the Act and Regulations 1.31 and 1.35 for failures
+regarding audit trail data); Jn re E*Trade Sec. LLC, CFTC No. 17-07, 2017 WL 413517, at *4
+(Jan. 26, 2017) (same).
+
+The facts set forth above demonstrate that Respondent failed to promptly produce reliable
+audit trail data to the Division during the Relevant Period. The Commission considers the
+particular facts and circumstances of each case when assessing potential violations resulting from
+production delays. The facts and circumstances here, where for nearly three years Respondent
+failed to produce reliable required records to the Division, are sufficient for the Commission to
+
+3
+determine that a violation occurred. These failures substantially delayed the Division’s
+investigation, and thus illustrate the importance of complying with the production requirements
+of the Act and Regulations. On these facts, Respondent violated Section 4g of the Act and
+Regulations 1.31 and 1.35.
+
+B. Supervision Failures
+
+Respondent violated Regulation 166.3 because it failed to develop and diligently
+administer adequate procedures to ensure compliance with the production requirements of
+Section 4g of the Act and Regulations 1.31 and 1.35.
+
+Regulation 166.3 requires each registered FCM to “diligently supervise the handling by
+its partners, officers, employees, and agents . . . of all commodity interests carried, operated,
+advised or introduced by the registrant and other activities .. . relating to its business as a
+Commission registrant.” 17 C.F.R. § 166.3 (2018). “A violation of Regulation 166.3 is
+demonstrated by showing that either: (1) the registrant’s supervisory system was generally
+inadequate; or (2) the registrant failed to perform its supervisory duties diligently.” See ABN
+AMRO Clearing Chicago, 2018 WL 4502261 at *4 (collecting cases).
+
+Under Section 4g of the Act and Regulations 1.31 and 1.35, FCMs have an obligation to
+keep and promptly produce required records, including audit trail data. During the Relevant
+Period, Respondent lacked an adequate system to properly respond to the Division’s requests for
+required audit trail data, and otherwise failed to adequately supervise its employees and agents to
+ensure the required records were properly kept and promptly produced. As a result of this
+failure, Respondent did not promptly produce reliable data to the Division, and thus failed to
+meet its production responsibilities under the Act and Regulations. Accordingly, Respondent
+violated Regulation 166.3.
+
+IV. FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that, during the Relevant Period,
+Respondent violated Section 4g of the Act, 7 U.S.C. § 6g (2012), and Regulations 1.31, 1.35, and
+166.3, 17 C.F.R. §§ 1.31, 1.35, and 166.3 (2018).
+
+V. OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+A. Acknowledges service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C, Waives:
+
+1, The filing and service of a complaint and notice of hearing;
+2. A hearing;
+
+3. All post-hearing procedures;
+4, Judicial review by any court;
+5. Any and all objections to the participation by any member of the Commission’s
+
+staff in the Commission’s consideration of the Offer;
+
+6. Any and all claims that it may possess under the Equal Access to Justice Act,
+5 USS.C. § 504 (2012), and 28 U.S.C. § 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations,
+17 C.F.R. pt. 148 (2018), relating to, or arising from, this proceeding;
+
+7. Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. II, §§ 201-253, 110
+Stat. 847, 857-74 (codified as amended at 28 U.S.C. § 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+8. Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order;
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer; and
+
+Consents, solely on the basis of the Offer, to the Commission’s entry of this Order that:
+
+1, Makes findings by the Commission that Respondent violated Section 4g of the
+Act, 7 U.S.C. § 6g, and Regulations 1.31, 1.35, and 166.3, 17 C.F.R. §§ 1.31,
+1.35, and 166.3 (2018);
+
+2. Orders Respondent to cease and desist from violating Section 4g of the Act and
+Regulations 1.31, 1.35, and 166.3;
+
+3, Orders Respondent to pay a civil monetary penalty in the amount of three-
+hundred thousand dollars ($300,000), plus, if applicable, post-judgment interest;
+and
+
+4, Orders Respondent and its successors and assigns to comply with the conditions
+and undertakings consented to in the Offer and as set forth in Part VI of this
+Order.
+
+Represents that it has already taken the following steps to revise its internal process for
+responding to regulatory data requests, including, but not limited to designating personnel
+to:
+l. Interpret regulatory data requests, the source of the information, and the timing
+for the response;
+
+2. Locate and provide the data; and
+
+3. Independently assess the data extraction process and results.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent shall cease and desist from violating Section 4g of the Act, 7 U.S.C. § 6g,
+and Regulations 1.31, 1.35, and 166.3, 17 C.F.R. §§ 1.31, 1.35, and 166.3 (2018).
+
+Respondent shall pay a civil monetary penalty in the amount of three-hundred thousand
+dollars ($300,000) (“CMP Obligation”) within ten (10) days of the date of entry of this
+Order. If the CMP Obligation is not paid in full within ten (10) days of the date of entry
+of this Order, then post-judgment interest shall accrue on the CMP Obligation beginning
+on the date of entry of this Order and shall be determined by using the Treasury Bill rate
+prevailing on the date of entry of this Order pursuant to 28 U.S.C. § 1961 (2012).
+
+Respondent shall pay the CMP Obligation and any post-judgment interest by electronic
+funds transfer, U.S. postal money order, certified check, bank cashier’s check, or bank
+money order. If payment is to be made other than by electronic funds transfer, then the
+payment shall be made payable to the Commodity Futures Trading Commission and sent
+to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+9-AMC-AR-CFTC@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Marie
+Thorne or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+C. Respondent its successors and assigns shall comply with the following conditions and
+undertakings set forth in the Offer:
+
+1.
+
+Public Statements: Respondent agrees that neither it nor any of its successors and
+assigns, agents or employees under its authority or control shall take any action or
+make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondent’s: (1) testimonial obligations; or (11) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondent and its successors and assigns shall comply with this agreement, and
+shall undertake all steps necessary to ensure that all of its agents and/or
+employees under its authority or control understand and comply with this
+agreement.
+
+Cooperation, in General: Respondent shall cooperate fully and expeditiously with
+the Commission, including the Commission’s Division of Enforcement, in this
+action, and in any current or future Commission investigation or action related
+thereto. Respondent shall also cooperate in any investigation, civil litigation, or
+administrative matter related to, or arising from, this action.
+
+Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission or the Monitor of any partial payment of Respondent’s
+Restitution Obligation, Disgorgement Obligation, or CMP Obligation shall not be
+deemed a waiver of its obligation to make further payments pursuant to this
+Order, or a waiver of the Commission’s right to seek to compel payment of any
+remaining balance.
+
+Change of Address/Phone: Until such time as Respondent satisfies in full its CMP
+Obligation as set forth in this Order, Respondent shall provide written notice to
+the Commission by certified mail of any change to its telephone number and
+mailing address within ten calendar days of the change.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+ 
+
+ 
+
+Chiistopher T ene
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated:
+
+September 10, 2019
+
+ 

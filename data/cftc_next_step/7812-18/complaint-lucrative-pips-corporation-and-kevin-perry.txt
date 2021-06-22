@@ -1,0 +1,1202 @@
+Case 1:18-cv-04549-CAP Document 1 Filed 09/28/18 Page 1 of 37
+
+THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF GEORGIA
+
+ 
+
+ 
+
+ATLANTA DIVISION
+
+COMMODITY FUTURES
+TRADING COMMISION, Civil Action No.
+Plaintiff,
+
+COMPLAINT FOR INJUNCTIVE
+y. AND OTHER EQUITABLE
+
+RELIEF AND FOR CIVIL
+LUCRATIVE PIPS MONETARY PENALTIES
+CORPORATION and KEVIN UNDER THE COMMODITY
+PERRY EXCHANGE ACT AND
+
+COMMISSION REGULATIONS
+
+Defendants.
+
+ 
+
+ 
+
+Plaintiff Commodity Futures Trading Commission (“Commission”) alleges
+
+as follows:
+
+I. INTRODUCTION
+
+1. From at least December 2016 to the present (the “Relevant Period’’),
+
+Kevin Perry (“Perry”), individually and as agent and principal of Lucrative Pips
+
+Corporation (“Lucrative Pips’’) (collectively “Defendants’’), operated a fraudulent
+
+scheme in which they solicited and misappropriated funds for a pooled investment
+vehicle in off-exchange leveraged or margined foreign currency exchange
+(“forex’’) contracts.
+
+2. Defendants knowingly made fraudulent and material misrepresentations
+and omissions about their forex trading strategy and returns to persuade at least
+thirty individuals (“Pool Participants”) to transfer at least $400,000 to Defendants
+for the purpose of participating in a pooled forex investment vehicle.
+
+3. To entice prospective Pool Participants, Defendants knowingly and
+falsely represented that they were profitably trading forex and promised
+prospective Pool Participants that their accounts would grow in value
+approximately 200% to 350% in less than sixty days.
+
+4. Further, to lure individuals to initially participate, Defendants knowingly
+and falsely represented that a Pool Participant’s initial deposit with Defendants was
+fully “guaranteed” against trading losses. Pool Participants were led to believe that
+even if Defendants’ trading was unprofitable, upon request, the funds they initially
+entrusted to Defendants to trade would be returned.
+
+5. Despite Defendants’ claims to Pool Participants and prospective Pool
+Participants that their forex trading was highly successful and that Pool
+Participants could withdraw their money at the completion of trading, Defendants
+
+did not successfully trade forex—indeed, they lost money trading forex, and
+Defendants did not return Pool Participants’ money when they attempted to
+withdraw funds.
+
+6. Defendants misappropriated a portion of the funds that they solicited
+from Pool Participants. As a result, Pool Participants have lost most, if not all, of
+their funds due to Defendants’ fraud and misappropriation.
+
+7. By virtue of this conduct, and the conduct as more fully set forth below,
+Defendants have engaged, are engaging, and/or are about to engage in acts and
+practices in violation of Sections 4b(a)(2)(A)-(C) and 40(1)(A) and (B) of the
+Commodity Exchange Act (“Act”), 7 U.S.C. $§ 6b(a)(2)(A)-(C), 60(1)(A), (B)
+(2012), and Commission Regulations (“Regulations’’) 4.41(a), and 5.2(b), 17
+C.F.R. §§ 4.41 (a), 5.2(b) (2018).
+
+8. In addition to the above-described fraudulent conduct, Defendant
+Lucrative Pips acted at all times during the Relevant Period as a commodity pool
+operator (“CPO”) by operating or soliciting funds for a pooled investment vehicle
+that is not an eligible contract participant (“ECP”’) and that engages in retail forex
+transactions, without being registered with the Commission as a CPO, as required
+by the Act and Regulations. Specifically, Defendant Lucrative Pips’ failure to
+
+register as a CPO violates Sections 2(c)(2)(C)@i)()(cc) and 4m(1) of the Act, 7
+ULS.C. 8§ 2(c)2)(C)ai)(D(cc), 6m(1) (2012), and Regulation 5.3(a)(2)q), 17
+C.F.R. § 5.3(a)(2)@) (2018).
+
+9. Similarly, Defendant Perry solicited funds for participation in a pool
+investment vehicle for the purpose of trading in off-exchange leveraged or
+margined forex contracts, while associated with Defendant Lucrative Pips as an
+officer, employee, or agent, without being registered with the Commission as an
+associated person (“AP”’) of Lucrative Pips, as required by the Act and
+Regulations. Specifically, Defendant Perry’s failure to register as an AP of a CPO
+violates Sections 2(c)(2)(C)~ii)(1)(cc) and 4k(2) of the Act, 7 U.S.C.
+
+§§ 2(c)(2)(C)Gu)(D(cc) and 6k(2) (2012), and Regulation 5.3(a)(2)(i), 17 C.F.R.
+§ 5.3(a)(2)(i) (2018).
+
+10. Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. § 13a-1 (2012),
+the Commission seeks civil monetary penalties and remedial ancillary relief
+including, but not limited to, trading and registration bans, restitution,
+disgorgement, rescission, pre- and post-judgment interest, and such other relief as
+the Court may deem necessary and appropriate.
+
+11. Unless restrained and enjoined by this Court, Defendants are likely to
+continue to engage in the acts and practices alleged in this Complaint and similar
+
+acts and practices, as more fully described below.
+Case 1:18-cv-04549-CAP Document 1 Filed 09/28/18 Page 5 of 37
+
+I. JURISDICTION AND VENUE
+
+12. Jurisdiction. This Court possesses jurisdiction over this action
+pursuant to 28 U.S.C. § 1331 (2012) (codifying federal question jurisdiction) and
+28 U.S.C. § 1345 (2012) (providing that U.S. district courts have original
+jurisdiction over civil actions commenced by the United States or by any agency
+expressly authorized to sue by Act of Congress). In addition, Section 6c of the
+Act, 7 U.S.C. § 13a-1 (2012), provides that the Commission may bring actions for
+injunctive relief or to enforce compliance with the Act in the proper district court
+of the United States whenever it shall appear to the Commission that such person
+has engaged, is engaging, or is about to engage in any act or practice constituting a
+violation of any provision of the Act or any rule, regulation, or order thereunder.
+
+13. The Commission has jurisdiction over the forex solicitations and
+transactions at issue in this case pursuant to Section 2(c)(2)(C) of the Act, 7 U.S.C.
+§ 2(c)(2)(C) (2012).
+
+14. Venue. Venue properly lies in this District pursuant to Section 6c(e)
+of the Act, 7 U.S.C. § 13a-1(e) (2012), because Defendants are found in, inhabit, or
+transact business in this District, and because acts and practices in violation of the
+
+Act occurred, are occurring, or are about to occur, within this District. As alleged
+Case 1:18-cv-04549-CAP Document 1 Filed 09/28/18 Page 6 of 37
+
+in this Complaint, Defendants fraudulently solicited numerous customers in the
+Northern District of Georgia, receiving at least $400,000 from those customers.
+
+Hl. THE PARTIES
+
+15. Plaintiff Commodity Futures Trading Commission is an
+independent federal regulatory agency charged by Congress with the
+administration and enforcement of the Act and Regulations. The Commission
+maintains its principal office at 1155 21st Street N.W., Washington, DC 20581.
+
+16. Defendant Lucrative Pips Corporation is a corporation based in
+Acworth, Georgia. It was incorporated on December 6, 2016. Lucrative Pips’ last
+known address is 3330 Cobb Parkway, Suite 324-231, Acworth, Georgia.
+Lucrative Pips has never been registered in any capacity with the Commission.
+
+17. Defendant Kevin Perry is a resident of Cartersville, Georgia. Perry is
+the founder and chief executive officer of Lucrative Pips Corporation. Perry has
+never been registered in any capacity with the Commission.
+
+IV. STATUTORY AND REGULATORY BACKGROUND
+
+ 
+
+18. Section 2(c)(2)(C) of the Act, 7 U.S.C. § 2(c)(2)(C) (2012), applies
+provisions of the Act to agreements, contracts, or transactions in forex.
+
+Specifically, 7 U.S.C. § 2(c)(2)(C)(iv) states that Section 4b of the Act, 7 U.S.C. §
+6b (2012), applies to forex agreements, contracts, or transactions “as if” they were
+contracts of sale of a commodity for future delivery.
+
+19. 7US.C. § 2(c)(2)(C)Gu)(D(cc) prohibits any person from operating
+or soliciting funds, securities, or property for any pooled investment vehicle that is
+not an ECP in connection with agreements, contracts, or transactions in forex,
+unless registered with the Commission, with certain exceptions not applicable to
+Defendants.
+
+20. An ECP is defined by the Act, in relevant part, as “an individual who
+has amounts invested on a discretionary basis, the aggregate of which is in excess
+of — (1) $10,000,000; or (II) $5,000,000 and who enters into the agreement,
+contract, or transaction in order to manage the risk associated with an asset owned
+or liability incurred, or reasonably likely to be owned or incurred, by the
+individual.” 7 U.S.C. § 1a(18)(xi) (2012).
+
+21. Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2012), and Regulation
+5.3(a)(2)G), 17 C.F.R. § 5.3(a)(2)G) (2018), require any person acting as a CPO, as
+defined in Regulation 5.1(d)(1), 17 C.F.R. § 5.1(d)(1) (2018), to be registered as
+such with the Commission.
+
+22. For the purposes of trading forex, a CPO is defined in 17 C.F.R.
+
+§ 5.1(d)(1) as “any person who operates or solicits funds, securities, or property for
+Case 1:18-cv-04549-CAP Document 1 Filed 09/28/18 Page 8 of 37
+
+a pooled investment vehicle that is not an [ECP] as defined in section 1a(18) of the
+Act, and that engages in retail forex transactions[.|”
+
+23. Section 4k of the Act, 7 U.S.C. § 6k(2) (2012), and 17 C.F.R.
+
+§ 5.3(a)(2)(i1) require any AP of a CPO, as defined in 17 C.F.R. § 5.1(d)(2), to be
+registered as such with the Commission.
+
+24. For the purposes of trading forex, an AP of a CPO is defined in 17
+C.F.R. § 5.1(d)(2) as “any natural person associated with a commodity pool
+operator... as a partner, officer, employee, consultant or agent . . . in any capacity
+which involves: (i) The solicitation of funds, securities, or property for a
+participation in a pooled investment vehicle; or (11) The supervision of any person
+or persons so engaged.”
+
+V. FACTS
+
+A. Operation of Lucrative Pips
+
+25. During the Relevant Period, Defendants fraudulently solicited at least
+$400,000 from at least thirty Pool Participants, who were Defendant Perry’s
+friends, acquaintances, and members of the public, for a pooled investment vehicle
+
+that is not an ECP in connection with the trading of retail forex contracts.
+26. On or about November 2, 2016, Defendants registered the Internet
+domain name www.lucrativepips.com, which they used to host the Lucrative Pips
+public website.
+
+27. On or about December 6, 2016, Lucrative Pips was registered with the
+Georgia Corporations Division. Perry is listed as chief executive officer and
+registered agent for Lucrative Pips. Perry’s father is listed as Lucrative Pips’ chief
+financial officer. Perry’s girlfriend is listed as Lucrative Pips’ corporate secretary.
+
+28. Between August 2016 and January 2017, Defendants established
+social media accounts for Lucrative Pips, including accounts on Instagram
+(lucrative_pips), Twitter (@lucrative_pips), and Facebook (Lucrative-Pips).
+Defendant Perry also used his personal Instagram account (freshkap) and Twitter
+account (@freshkap), to tout the trading performance of Defendants.
+
+29. During the Relevant Period, Defendants posted on the Lucrative Pips
+social media accounts screenshots of purported profit-generating forex trades to
+entice prospective Pool Participants to open accounts with Lucrative Pips. For
+example on Instagram, along with the trading screenshots, Defendants posted:
+
+a. “You want to win, you have to be on the right team! #lucrativepips
+#takeprofits #entrepreneur #{x #motivation #success #profit
+#stocks #investment #finance #invest #daytrader #wealth
+
+#stockmarket #broker #lifestyle #eurusd #daytrading #forexsignals
+#gold #currency #luxury #millionaire;” and
+me HR Oe PR AP AR SOARS Pe aa mame Pete ON ER EA nem 4 af A
+face PTs AASAGCAR Pinciiment t Eden OOfP88R tS Bane TO aft 2?
+we TRA a Te Pr AL AL Ref R LEE GRR Rk PURINO ALS le ty oP GG PU CALERA x af
+
+b. “Average $100 profits a day equals $500 a week equals $26,000 a
+year. Numbers too small, average $1,000 profits in a day equals
+$5,000 a week equals $260,000 a year. We didn't invent forex, but
+we've made it user-friendly for everyday people like you! Invest in
+yourself today! #lucrativepips #forextrader LucrativePips.Com
+#forextrader LucrativePips.Com #entrepreneur LucrativePips.Com
+#motivation LucrativePips.Com #takeprofits #stocks #investment
+#finance #lifestyle #daytrading #forexsignals #currency #luxury
+#millionaire “We shooting for a record week! #lucrativepips
+#takeprofits #believe #wewinning #jointheteam #forex #forexsignals
+#forextrading #cashout.”
+
+30. During the Relevant Period, from his personal Twitter account, Perry
+retweeted posts from Lucrative Pips including:
+
+a. “When one wins, we all will win! #tagafriend #lucrativepips
+#takeprofits #risepiprise #forex #forexsignals;” and
+
+b. “You can do this! #lucrativepips #trading #money #trader
+#forextrader #business #pips #forextrading #wallstreet.”
+
+31. Beginning on or about February 24, 2017, Defendants announced on
+the Lucrative Pips Instagram account and Perry’s personal Instagram account that a
+Lucrative Pips smartphone application (““App’”’) was available to prospective Pool
+Participants at the Apple App Store and Google Play Store. The description
+contained alongside the Lucrative Pips App image in Perry’s posting stated that:
+“Lucrative Pips started with a single individual who earned wealth in the
+foreign currency exchange market and became passionate about helping
+other do the same. Continuing that journey today, we spend long hours
+
+watching the market and testing new strategies so that we can bring the
+benefits of forex to our customers.”
+
+-10-
+mee MRE a PART BR OR A OPS PR an a oan oO PETE Lf PO Pe Se Row ewan, TE oe Oe
+Cace PislemyfMASAG CAR Doeiimernt to Filed GO/eS8 te Base Ti ot Rk?
+we TRA a Te Pr AL AL Ref R LEE GRR Rk PURINO ALS le ty oP GG : SAR ab Ud
+
+32. On March 2, 2017, in describing the Lucrative Pips App, the
+Defendants posted on Instagram:
+
+“The App that makes you $$$$, download now why [sic] it's free!
+
+#lucrativepips LucrativePips.Com #takeprofits #stocks #investment #finance
+
+#lifestyle #daytrading #forexsignals #currency #luxury #millionaire #rich
+
+#futures.”
+
+33. | The Lucrative Pips App is no longer available at either the Apple
+App or Google Play store.
+
+34. During the Relevant Period, Defendants opened bank accounts for
+Lucrative Pips at multiple banks. By March 2018, all the Lucrative Pips banking
+accounts were closed.
+
+35. During the Relevant Period, Defendant Perry opened personal
+banking accounts at multiple banks.
+
+36. Perry deposited pool participant funds into both the Lucrative Pips
+banking accounts and his personal banking accounts.
+
+37. During the Relevant Period, Perry told Pool Participants that the
+Defendants conducted their forex trading at a foreign-based trading company
+(“Trading Company A’). This company has never been registered with the
+Commission in any capacity.
+
+38. At the direction of Defendants, Pool Participants entered into a
+
+“Financial Investment Agreement” with “Lucrative Pips Corp. Foreign Currency
+
+-ll-
+Investment Trading Group.” The Financial Investment Agreement falsely stated
+that Lucrative Pips shall receive and invest monies given to it by Pool Participants
+and then “conduct all necessary and related financial business from trading the
+investment in a Forex Trading account under Lucrative Pips.”
+
+39. The duration of the Financial Investment Agreement was typically set
+between thirty-five and fifty-five days and sometimes referred to as a “cycle.” A
+pool participant’s trading cycle started after they gave their funds to Defendants.
+
+40. At the direction of Defendants, to participate in the pool, Pool
+Participants transferred funds via wire or check to bank accounts controlled by
+Defendants. Defendants also accepted cash from Pool Participants at in-person
+meetings. Defendants then purportedly transferred the funds to the Lucrative Pips
+forex trading account.
+
+41. Defendants told at least one pool participant that providing cash
+directly to Defendants was the best way to avoid delays in the withdrawal process
+caused by a Federal Reserve Bank review.
+
+42. At least one pool participant was not an ECP as described in Part IV
+
+above.
+
+-12-
+Case 1:18-cv-04549-CAP Document 1 Filed 09/28/18 Page 13 of 37
+
+B. Defendants Made False and Misleading Representations and Omitted
+Material Facts To Solicit Pool Participants
+
+43. Throughout the Relevant Period, Defendants falsely and fraudulently
+represented to Pool Participants that Defendants used Pool Participant funds to
+profitably trade forex, and that the money deposited with Defendants was
+guaranteed against trading losses.
+
+44. Defendants failed to disclose to Pool Participants or prospective Pool
+Participants that Defendants’ forex trading was generally unprofitable or that
+Defendants would not return Pool Participant funds once trading was complete.
+
+45. In personal meetings, Defendant Perry fraudulently and repeatedly
+told prospective Pool Participants that the initial funds they gave to Lucrative Pips
+were fully “guaranteed” against trading losses.
+
+46. With regard to the risk involved in trading with Defendants, a version
+of the Financial Investment Agreement fraudulently stated that “Forex Trading is
+Risky, because of this Lucrative Pips does a 100% money back guarantee for
+initial investment incase [sic] the money is lost while trading.” The agreement
+further provides that if a Pool Participant’s funds are lost trading, Lucrative Pips
+would contact the Pool Participant and make them aware of the situation. After
+contacting the Pool Participant, Lucrative Pips would return their funds within
+
+seven to ten days.
+
+_13-
+me TAO oes MAR AQ PPAR Mercere 4 Mine NAPMOPEO Mann FA af OO
+face PTs AASAGCAR Pinciiment t Eden OOf88 tS Bane TA af 2?
+we TRA a Te Pr AL AL Ref R LEE GRR Rk PURINO ALS le ty oP GG : SaRD abo ld ald
+
+47. In personal meetings and in text messages, Defendant Perry
+fraudulently and repeatedly told prospective Pool Participants that their accounts
+would grow in value approximately 200% to 350% percent in less than sixty days.
+
+48. As stated in the Financial Investment Agreement, Defendants’ goal
+for Lucrative Pips’ forex trading was an increase on Pool Participants’ funds of up
+to 350%.
+
+49. During the relevant period, Perry falsely and fraudulently texted a
+prospective Pool Participant, “$35,000-$50,000 will be earned from $20,000
+investment in 2 months timeframe!”
+
+50. Periodically during the trading cycle, Defendants sent updates to
+certain Pool Participants regarding the Defendants’ trading activity. According to
+these false and misleading updates, Defendants’ trading activity was
+overwhelmingly profitable.
+
+51. During the Relevant Period, Perry knowingly made the following
+false and fraudulent statements via text to conceal Defendants’ fraudulent scheme
+
+from detection:
+
+a. “Up $47910 in the last 48 hours! Been a great week trading! Can’t
+wait to show you these gains.”
+
+b. “Your money is always growing understand that.”
+
+c. “Gains!”
+
+_14-
+~ Aa OO ee SR ART 2 PR ARR PN ae oe oe “ goes at ERPS PT PA py aca RTT LE yD
+fae DP Toles ,AASAGIe AR Dneiimeant 7 mort OOOO Se Dana TR mt 2?
+& 3 Ar BPA EAP RL PRON GE Meh BAD PRP a ae eee ge : swteiees SR Pier ow PAS bg r AE ee sc} oR sf
+Nee DARA eh LS Le OS PA PN Re LAE RS ER GK. PEALE Le ae Cok : ae aha Le 4
+
+d. “Up $4763! Gains looking great.”
+
+e. “Achieved another goal! 5 figures in profits now. Gains looking
+great [a]ll trades that were placed have been profitable!”
+
+f. “Account official[ly] doubled!”
+
+52. Contrary to Perry’s fraudulent texts to Pool Participants that
+Defendants were consistently making profitable forex trades, Defendants’ trading
+was actually unprofitable.
+
+53. For example, in August and September 2017, Perry fraudulently
+misrepresented to Pool Participants that Defendants were profitably trading.
+Several months later, he admitted to Commission staff that Defendants’ trading
+was unprofitable. By letter dated April 20, 2018, in response to a subpoena issued
+by the Commission, Perry wrote, “In August I lost over $75,000 and in September
+I lost over $75,000.”
+
+54. Pursuant to the Financial Investment Agreement and in text messages,
+after a trading cycle concluded, Defendants falsely misrepresented that they would
+withdraw all the profits from the forex trading account, deduct a commission for
+Lucrative Pips, and return the remaining profits to the Pool Participants.
+
+55. When Pool Participants attempted to withdraw their funds at the end
+of their trading cycle, Defendants knowingly made false statements to Pool
+
+Participants for the purpose of concealing from them that their funds had been
+
+_15-
+fc aoe
+4 ok a fel
+Awe CAO
+
+aa? oy
+TPQ OA
+We Th YES
+
+co
+
+ae PAPO mm pean mE ARIA A ome ee am at
+
+SAO AR PSmcpiment 7 ocd QOL RITR Mana TA mt
+Ah PX : fo }
+PoE ET PAT LAUPER PURER Ae OP 2 PU CALse LAP lal
+
+misappropriated or lost in trading to explain why Defendants had not returned Pool
+
+Participants’ funds.
+
+56.
+
+Defendant Perry told Pool Participants that their funds were being
+
+reviewed or held by Defendants’ bank or the Federal Reserve Bank. For example,
+
+in text messages sent to one pool participant, (“Pool Participant A’’), between
+
+December 7, 2017, and December 17, 2017, Perry wrote:
+
+a.
+
+[Pool Participant A] you can expect your money anytime, I know
+I’ve said this but yes it could be another few days to next week but I
+highly doubt this, bank has let me know your funding cleared the
+extensive review and all we are waiting for is this to process through
+and check printed.”
+
+“Banks haven’t gotten back to me, because of the amount it’s the
+reason it’s taking extra time and the fact all my investors are having
+to put the funds through there [sic] name next cycles are making it be
+so extensive.”
+
+“T really apologize for this stupid delay but it’s out of my hands the
+money is going through banks and must be cleared but it’s happening
+as we speak just waiting for them to process your check out.”
+
+“Banks keep taking longer across the board with all investors
+withdrawing profits.”
+
+“Funds can be put on hold from banks like this. It’s about to be over
+I really assure you.”
+
+“We are doing withdrawals of international transactions with gains
+that take 15 years in months. The federal reserve can put extensive
+holds.”
+
+-16-
+fy age
+IN
+Ae CRD
+
+g.
+
+57.
+
+PaPO ane MAP AN OY ARS Rie avr aanesant 7% reiki Af Sek PE PA Ronee TOF of ob oF
+PTR. GASAG-C AB Dinciiment > Fue OO/FR/18 Bane TP? af 3?
+ath ah AS he UTA SP RL PE Be LA RE EA P REAL Aare Cok : Mahe at FALE i
+
+“T know this has taking [sic] longer than contract states but it’s out of
+my control when the banks don’t clear the funds in usual times
+sometime.”
+
+“Tf we were using US brokers withdrawals would be 2-4 days no
+holds ever but you only see 40% gains a year with them, we are using
+international brokers, some based out of Hong Kong and Europe.
+That’s when the [F]ederal [R]eserve steps in and reviews all funds
+transferred and sometimes they place these hard holds.”
+
+Perry sent a group of Pool Participants, (“Pool Participants B through
+
+E”’) similar texts between October 2017 and December 2017 for the purpose of
+
+concealing from them that their money had been misappropriated or lost in trading.
+
+For example Perry wrote:
+
+a.
+
+58.
+
+Participants,
+
+“Wasn’t able to get checks, Wells Fargo let me know a extensive
+review on the funds were placed. I expect all funding to clear very
+soon.”
+
+“Morning everyone the funding was placed under an extensive
+review. I expected to have funding in the next 2 weeks.”
+
+“Every time you close a business account my banker has told me they
+mail you a check with the remaining balance. Problem was it’s a
+international transfer with not only my funds but others.”
+
+“All my wires get delays because of the dollar amount and where it’s
+coming. The profits from this last cycle were above 6 figures which
+is why this delayed happened. I assure you the funds will be in at
+anytime.”
+
+During the relevant period, Perry sent another group of Pool
+
+(“Pool Participants F and G’’) similar texts for the purpose of
+
+_17-
+mee oH TE ae TR AR A OR ARS PR a a an of PETE Lf PO Pe Se Row ewan, 9D Wt oe
+Cace TP TRumyGASAQGC AR Pocument 1 Eder OOf/F8!/1R Bane 18 of BP
+Newt DARDS ad A LS Be Pe RPE Be LA RE EA P REAL Aare Cok : ALAS at ey 2
+
+concealing from them that their money had been misappropriated or lost in trading.
+For example Perry wrote:
+
+a. “If we were using etrade or US companies this wouldn’t never
+happen but it’s the fact it’s a international broker that we just have to
+wait until it process out.”
+
+b. “Contracts gets breached when federal reserve decides to hold funds.
+That’s nor [sic] my control or yours it’s the governments, But trust
+me you are very high on list as far as priority list, we will get it
+
+cleared.”
+
+c. “Markets are booming everyday hence why I believe feds are taking
+Longer to clear withdrawals I believe.”
+
+59. For the purpose of concealing from Pool Participants that their money
+had been misappropriated or lost in trading, Perry also sent Pool Participants
+fraudulent account withdrawal statements to purportedly prove Defendants had
+sufficient funds to return money to Pool Participants.
+
+60. Approximately November 2017, Pool Participant F contacted online
+support staff at Trading Company A where Defendants purportedly had their
+trading account to check the validity of Perry’s claim that Trading Company A had
+transferred the funds from the Lucrative Pips trading account to a bank account
+controlled by Defendants. Pool Participant F and Trading Company A online
+support staff conducted their communications via an online chat room available on
+
+Trading Company A’s website.
+
+-18-
+a ARE an PRAR AS FR APS PN 5 re a gon ah SPRITES PSD Py aay RPT RT
+fae DP Toles ,AASAGIe AR Dneiimeant 7 mort QOLOGI Se Dana TO mt RB?
+& 3 Ar BPA EAP RL PRON GE Meh BAD PRP a ae eee ge : swteiees SR Pier ow PAS bg r SERS SoSeF tsa +f
+Nee DARA eh LS Le OS PA PN Re LAE RS ER GK. PEALE Le ae Cok : Nahe aha Ad
+
+61. Pool Participant F provided Trading Company A online support staff a
+communication Perry had provided her which Perry claimed was a confirmation
+from Trading Company A documenting his withdrawal request and verifying that
+Defendants’ funds were in the process of being wired to a bank account controlled
+by Perry.
+
+62. In response to this “confirmation,” Trading Company A online
+support staff responded, “We have no pending withdraw [sic] funds with this
+account.”
+
+63. Ina separate conversation with Trading Company A online support
+staff, after providing a screenshot of Perry’s withdrawal request and additional
+account information, the online support staff told Pool Participant F that “This
+Account have no Money[.| Client is already lose all funds in trading[.]”
+
+64. Regarding the purported withdrawal request that Perry had provided
+Pool Participant F, Trading Company A online support staff stated, “This Receipt
+is fake.”
+
+65. As late as April 2018, Defendants continued to solicit Pool
+Participants for additional funds, claiming that if the Defendants are able to raise a
+sufficient amount of money to open a new account at a different broker, all the
+
+money to which Pool Participants are entitled would be released.
+
+-19-
+Case 1:18-cv-04549-CAP Document 1 Filed 09/28/18 Page 20 of 37
+
+66. Specifically, Perry texted Pool Participant F and explained that
+Defendants had transferred $475,000 from the Trading Company A to an
+intermediary broker because that broker could then transfer the $475,000 to a
+regulated broker. Perry further explained that once Defendants transferred the
+money to a regulated broker, Defendants could withdraw the money in one to five
+business days and pay all the Pool Participants.
+
+67. According to Perry, however, to transfer that much money to the
+regulated broker required a “VIP account” with an initial deposit of $100,000. In a
+text message to Pool Participant F, Perry claimed to already have $73,000, but
+needed an additional $27,000 to open a VIP account. Perry asked Pool Participant
+F to give him $27,000 so he could open a VIP account and pay all the Pool
+Participants in less than two weeks. Pool Participant F did not give Perry any
+additional funds.
+
+C. Defendants Misappropriated Pool Participants’ Funds
+
+68. During the Relevant Period, Defendants received at least $400,000
+from at least thirty Pool Participants.
+
+69. During the Relevant Period, Perry misappropriated Pool Participant
+funds by depositing these funds into his personal banking account that was used to
+
+pay personal expenses.
+
+20 -
+Case 1:18-cv-04549-CAP Document 1 Filed 09/28/18 Page 21 of 37
+
+70. Starting in at least September 2017, Defendants misappropriated Pool
+Participant funds by failing to return funds to Pool Participants upon their request
+pursuant to the terms of their Financial Investment Agreement with Lucrative Pips.
+
+71. For example, during the Relevant Period different Pool Participants
+texted Perry the following:
+
+a. “Kevin, I need my check. You have had more than enough time to get
+past any issues you’ ve continued to come up with as to why you do
+not have my money. You have broken the terms written in the
+contract numerous times. You don’t play games with other peoples’
+money man. What you’re doing is extremely illegal.”
+
+b. “Today is the 15" business day after the cycle ended. On the contract
+it says 7-10 business days after the money is transfer [sic] out of the
+account we will receive a check. Maybe I just didn’t check the mail
+today, but I haven’t received a check nor had anybody else.”
+
+72. To the extent Pool Participants received any funds, those funds were
+misappropriated by Defendants from other Pool Participants, in the nature of a
+Ponzi scheme, or came from Defendants’ personal assets in order to entice Pool
+Participants to give Defendants additional funds.
+
+73. To date, despite repeated requests, most Pool Participants have not
+
+received any of their funds back from Defendants.
+
+D. Lucrative Pips Acted as an Unregistered CPO, and Perry Acted as an
+Unregistered AP of a CPO
+
+21 -
+Case 1:18-cv-04549-CAP Document 1 Filed 09/28/18 Page 22 of 37
+
+74. During the Relevant Period, Lucrative Pips, through Perry, acted by
+operating or soliciting funds for a pooled investment vehicle that is not an ECP and
+that engages in retail forex transactions.
+
+75. During the Relevant Period, Perry acted in a capacity requiring
+registration as an AP of a CPO by soliciting customers and prospective customers
+for participation in a pooled investment vehicle, while associated with Lucrative
+Pips as a partner, officer, employee, consultant, or similar agent.
+
+76. During the Relevant Period, Lucrative Pips was not registered with
+the Commission as a CPO, and Perry was not registered with the Commission as
+an AP of a CPO as required by the Act and Regulations.
+
+E. Perry Was a Controlling Person of Lucrative Pips
+
+77. Defendant Perry was a controlling person of Lucrative Pips. Perry
+was the founder of Lucrative Pips and its chief executive officer. Perry told Pool
+Participants that he was responsible for the trading at Lucrative Pips and was
+generally the sole source of information for Pool Participants regarding Lucrative
+Pips. Perry either directly or indirectly controlled the operation of the bank
+accounts to which Lucrative Pips’ Pool Participants transferred funds under the
+belief that they were trading forex.
+
+F. Perry Acted as an Agent for Lucrative Pips
+
+22 -
+Case 1:18-cv-04549-CAP Document 1 Filed 09/28/18 Page 23 of 37
+
+78. Through his solicitation of prospective and existing Pool Participants
+and his continued communication with Pool Participants regarding their purported
+trading success on behalf of Lucrative Pips, Perry acted as an agent of Lucrative
+Pips.
+
+VILSTATUTORY AND REGULATORY VIOLATIONS
+COUNT ONE
+
+FRAUD IN CONNECTION WITH FOREX CONTRACTS
+Violations of 7 U.S.C. § 6b(a)(2)(A)-(C) and 17 C.F.R. § 5.2(b)
+(Defendants Lucrative Pips and Perry)
+
+79. Paragraphs | through 78 set forth above are re-alleged and
+incorporated herein by reference.
+
+80. Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. § 6b(a)(2)(A)-(C) (2012),
+makes it unlawful:
+
+for any person, in or in connection with any order to
+make, or the making of, any contract of sale of any
+commodity for future delivery, or swap, that is made, or
+to be made, for or on behalf of, or with, any other person
+other than on or subject to the rules of a designated
+contract market — (A) to cheat or defraud or attempt to
+cheat or defraud the other person; (B) willfully to make
+or cause to be made to the other person any false report
+or statement or willfully to enter or cause to be entered
+for the other person any false record; [or] (C) willfully to
+deceive or attempt to deceive the other person by any
+means whatsoever in regard to any order or contract or
+the disposition or execution of any order or contract, or in
+regard to any act of agency performed, with respect to
+
+23 -
+81.
+
+(Mace DT TR.cyy.Oe
+or CRE LL LO
+
+co
+
+OAR AN PwATM OM ae OPT EE RMUIRAA A Se a AS
+AARSAQLC AR Procument 1 Eder OOfF8/1R Pane PA of BP
+‘ Pe RPE Be LA RE EA P REAL Aare Cok : Mahe GA abd
+
+any order or contract for or, in the case of paragraph (2),
+with the other person.
+
+Section 2(c)(2)(C)(v) of the Act, 7 U.S.C. § 2(c)(2)(C)Gv) (2012),
+
+states that 7 U.S.C. § 6b applies to the forex transactions, agreements, or contracts
+
+offered by Defendants as if they were contracts of sale of a commodity for future
+
+delivery.
+
+82.
+
+83.
+
+Regulation 5.2(b), 17 C.F.R. § 5.2(b) (2018), makes it unlawful:
+
+for any person, by use of the mails or by any means or
+instrumentality of interstate commerce, directly or
+indirectly, in or in connection with any retail forex
+transaction: (1) To cheat or defraud or attempt to cheat
+or defraud any person; (2) Willfully to make or cause to
+be made to any person any false report or statement or
+cause to be entered for any person any false record; or (3)
+Willfully to deceive or attempt to deceive any person by
+any means whatsoever.
+
+During the Relevant Period, Defendants cheated or defrauded or
+
+attempted to cheat or defraud other persons; issued or caused to be issued false
+
+statements and records; and willfully deceived or attempted to deceive other
+
+persons in connection with offering of, or entering into the off-exchange leveraged
+
+or margined forex transactions alleged herein, by, among other things:
+
+(1) fraudulently soliciting Pool Participants and prospective Pool Participants by
+
+making material misrepresentations and omissions about Defendants’ forex trading
+
+and investing abilities, strategies, risk and profits; (41) misappropriating Pool
+
+24 -
+. A, eg AQALC AHR Sears rN « mean OF pts ab SAPS PTE PA Py aga RPT LT PT
+i wage es TES Sa PO A Fe be f FYE § PAE PWS SA ERT S Seto ee Fa See BS Lue en Pe SS sha oy way
+4 owt a i Pha! Fat Pk EN SEA ZA hae Reyes fe cary : Bee FEN ED ie re ae Ran? P¥SR Y SVT i
+Wet UL OL OES SE LATE RAUCH PIEPER 2 PTE oa oe Pe
+
+Participants’ funds; and (iii) fabricating false records all in violation of 7 U.S.C.
+§ 6b(a)(2)(A)-(C) and 17 C.F.R. § 5.2(b).
+
+84. Defendants engaged in the acts and practices described above using
+instrumentalities of interstate commerce, including but not limited to: interstate
+wires for transfer of funds, text messages, a website, and various social media sites.
+
+85. Perry, acting both individually and as agent and officer of Lucrative
+Pips, engaged in the acts and practices described above knowingly, willfully, or
+with reckless disregard for the truth.
+
+86. The foregoing acts of fraudulent solicitation, misappropriation, and
+false statements by Defendant Perry occurred within the scope of his employment,
+office, or agency with Defendant Lucrative Pips. Therefore, Lucrative Pips is
+liable for Perry’s violations of the Act and Regulations, as alleged in this count,
+pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2012), and
+Regulation 1.2, 17 C.F.R. § 1.2 (2018).
+
+87. Perry, directly or indirectly, controlled Lucrative Pips, and did not act
+in good faith, or knowingly induced, directly or indirectly, the acts constituting
+Lucrative Pips’ violations of the Act and Regulations alleged in this count. Perry
+
+is thereby liable for Lucrative Pips’ violations of the Act and Regulations, as
+
+25 -
+Case 1:18-cv-04549-CAP Document 1 Filed 09/28/18 Page 26 of 37
+
+alleged in this count, pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b)
+(2012).
+
+88. Each act of fraudulent solicitation, misappropriation, and false
+statement or report, including but not limited to those specifically alleged herein, is
+alleged as a separate and distinct violation of 7 U.S.C. § 6b(a)(2)(A)-(C) and 17
+C.F.R. § 5.2(b).
+
+COUNT TWO
+FRAUD BY A COMMODITY POOL OPERATOR
+Violations of 7 U.S.C. § 60(1) and 17 C.F.R. § 4.41(a)
+(Defendants Lucrative Pips and Perry)
+
+89. Paragraphs | through 88 set forth above are re-alleged and
+incorporated herein by reference.
+
+90. Section 40(1) of the Act, 7 U.S.C. § 60(1) (2012), makes it unlawful
+for CPOs and APs of CPOs
+
+by use of the mails or any other means or instrumentality
+of interstate commerce, directly or indirectly — (A) to
+employ any device, scheme, or artifice to defraud any
+client or participant or prospective client or participant;
+or (B) to engage in any transaction, practice, or course of
+business which operates as a fraud or deceit upon any
+client or participant or prospective client or participant.
+
+91. Regulation 5.4, 17 C.F.R. § 5.4 (2018), states that Part 4 of the
+
+Regulations, 17 C.F.R. pt. 4 (2018), applies to any person required to register as a
+
+26 -
+CPO pursuant to Part 5 of the Regulations related to off-exchange forex
+transactions, 17 C.F.R. pt. 5 (2018).
+
+92. Regulation 4.41(a), 17 C.F.R. § 4.41(a) (2018), makes it unlawful for
+any CPO, or any principal thereof, to publish, distribute, or broadcast, whether by
+electronic media or otherwise, any report, letter, circular, memorandum,
+publication, writing, advertisement, or other literature or advice that (1) employs
+any device, scheme, or artifice to defraud any participant or client or prospective
+participant or client; or (2) involves any transaction, practice, or course of business
+which operates as a fraud or deceit upon any participant or client or any
+prospective participant or client.
+
+93. As alleged herein, Defendant Lucrative Pips was required to register
+as a CPO during the Relevant Period.
+
+94. As set forth above, during the Relevant Period, Lucrative Pips,
+through Defendant Perry, acted as a CPO by operating or soliciting funds for a
+pooled investment vehicle that is not an ECP and that engages in retail forex
+transactions.
+
+95. Perry acted as an AP of a CPO because he was associated with a CPO
+
+as a partner, officer, employee, consultant, or agents in a capacity that involved the
+
+27 -
+aa om Se ae ow! OPS ae - “ pots mtn ae — - ~F fats
+faene TeTales,MARAG OAR Nicsiemornt 7 Moe HOPG Barn BQ nF 2?
+ost : BPE A PRON CE Pe AE ROP PE SRE ee be eer ki e PRPS Ke ES Peeit ke ety UR f
+Nee DARA eh LS Le OS PA PN Re LAE RS ER GK. S SEAS AA Qe are Clk Oa : ACS a a 24
+
+solicitation of funds, securities, or property for participation in a pooled investment
+vehicle.
+
+96. Lucrative Pips, through Perry, and Perry in his individual capacity,
+violated 7 U.S.C. § 60(1)(A) and (B) and 17 C.F.R. § 4.41(a) in that by use of the
+mails or any other means or instrumentality of interstate commerce they employed
+or are employing a device, scheme, or artifice to defraud actual and prospective
+Pool Participants or engaged or are engaging in transactions, practices, or a course
+of business which operated or operates as a fraud or deceit upon Pool Participants
+or prospective Pool Participants.
+
+97. Perry, directly or indirectly, controlled Lucrative Pips, and did not act
+in good faith, or knowingly induced, directly or indirectly, the acts constituting
+Lucrative Pips’ violations of the Act and Regulations alleged in this count. Perry
+is thereby liable for Lucrative Pips’ violations of the Act, as alleged in this count,
+pursuant to 7 U.S.C. § 13c(b).
+
+98. The foregoing acts of fraudulent solicitation, misappropriation, and
+false statements by Perry occurred within the scope of his employment, office, or
+agency with Lucrative Pips. Therefore, Lucrative Pips is liable for Perry’s
+violations of the Act, as alleged in this count, pursuant to 7 U.S.C. § 2(a)(1)(B) and
+
+17 C.F.R. § 1.2.
+
+_ 28 -
+Case 1:18-cv-04549-CAP Document 1 Filed 09/28/18 Page 29 of 37
+
+99. Each act of fraudulent solicitation, misappropriation, and false
+statement or report, including but not limited to those specifically alleged herein, is
+alleged as a separate and distinct violation 7 U.S.C. § 60(1) and 17 C.F.R.
+
+§ 4.41 (a).
+COUNT THREE
+FAILURE TO REGISTER AS A COMMODITY POOL OPERATOR
+Violation of 7 U.S.C. §§ 2(¢c)(2)(C) Gi) CD) (cc) and 6m(1) and 17 C.F.R.
+§ 5.3(a)(2))
+(Defendant Lucrative Pips)
+
+100. The paragraphs 1 through 99 set forth above are re-alleged and
+incorporated herein by reference.
+
+101. As alleged herein, during the Relevant Period, Defendant Lucrative
+Pips, which was not exempt from registration as a CPO, acted as a CPO and made
+use of the mails or any means or instrumentality of interstate commerce in
+connection with its business as a CPO by operating or soliciting funds for a pooled
+investment vehicle that is not an ECP and that engages in retail forex transactions.
+Lucrative Pips engaged in this conduct without being registered with the
+Commission as a CPO in violation of Sections 2(c)(2)(C)au)(1)(cc) and 4m(1) of
+
+the Act, 7 U.S.C. 8§ 2(c)2)(C)ai(MD (cc), 6m(1) (2012), and Regulation
+
+5.3(a)(2)@), 17 C.F.R. § 5.3(a)(2)G) (2018).
+
+_29 -
+Case 1:18-cv-04549-CAP Document 1 Filed 09/28/18 Page 30 of 37
+
+102. Perry, directly or indirectly, controlled Lucrative Pips, and did not act
+in good faith, or knowingly induced, directly or indirectly, the acts constituting
+Lucrative Pips’ violations of the Act alleged in this count. Perry is thereby liable
+for Lucrative Pips’ violations of the Act, as alleged in this count, pursuant to 7
+U.S.C. § 13c(b).
+
+COUNT FOUR
+FAILURE TO REGISTER
+
+AS AN ASSOCIATED PERSON OF A COMMODITY POOL OPERATOR
+Violation of 7 U.S.C. §§ 2(c)(2)(C) Gi) (D(ce) and 6k(2) and 17 C.F-.R.
+
+§ 5.3(a)(2)G)
+(Defendant Perry)
+
+103. Paragraphs | through 102 set forth above are re-alleged and
+incorporated herein by reference.
+
+104. During the Relevant Period, Defendant Perry acted as an associated
+person of a CPO by: (i) soliciting funds, securities, or property for participation in
+a commodity pool operated by Lucrative Pips and/or supervising persons so
+engaged, and (ii) operating or soliciting funds, securities, or property for the
+Lucrative Pips pooled investment vehicle, which was not ECP, in connection with
+
+off-exchange leveraged or margined forex transactions. Perry engaged in this
+
+conduct without being registered with the Commission as an AP of CPO Lucrative
+
+_ 30 -
+mn Re ae ee A! Om « ome ot Ie fae ~ ma et
+Tos AAR AGLI AD  Nncimeant 1 Silat AGE IR Bana At nt
+ho WALES GE PA BRL AR PURER A A oO PU CALSS wa Lad
+
+Pips in violation of Sections 2(c)(2)(C)(Giu)(1)(cc) and 4k(2) of the Act, 7 U.S.C.
+§§ 2(c)(2)(C)gi)(D(cc), 6k(2) (2012), and 17 C.F.R. § 5.3(a)(2) Gi).
+
+105. The foregoing acts by Perry occurred within the scope of his
+employment, office, or agency with Lucrative Pips. Therefore, Lucrative Pips is
+liable for Perry’s violations of the Act and Regulation, as alleged in this count,
+pursuant to 7 U.S.C. § 2(a)(1)(B) and 17 C.F.R. § 1.2.
+
+RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that the Court, as
+authorized by Section 6c of the Act, 7 U.S.C. § 13a-1 (2012), and pursuant to its
+equitable powers:
+
+A. — Find that Defendants Lucrative Pips and Perry violated Sections
+2(c)(2)(C) ai) (cc), 4b(a)(2)(A)-(C), and 40(1)(A) and (B) of the Act, 7 U.S.C.
+6b(a)(2)(A)-(C), 60(1)(A), (B) (2012), and Regulations 4.41(a), and 5.2(b), 17
+C.F.R. §§ 4.41 (a), 5.2(b) (2018);
+
+B. — Find that Lucrative Pips violated Section 4m(1) of the Act, 7 U.S.C.
+§ 6m(1) (2012), and Regulation 5.3(a)(2)(), 17 C.F.R. § 5.3(a)(2)G) (2018);
+
+C. Find that Perry violated Section 4k(2) of the Act, 7 U.S.C.
+
+§ 6k(2)(2012), and Regulation 5.3(a)(2)(qi), 17 C.F.R. § 5.3(a)(2)Gi) (2018);
+
+3] -
+D. — Enter an order of permanent injunction enjoining Defendants
+Lucrative Pips and Perry, and their affiliates, agents, servants, employees,
+successors, assigns, attorneys, and all persons in active concert with them, who
+receive actual notice of such order by personal service or otherwise, from engaging
+in the conduct described above, in violation of 7 U.S.C. §§ 2(c)(2)(C)Gi)()(cc),
+6b(a)(2)(A)-(C), and 60(1)(A) and (B), and 17 C.F.R. §§ 4.41(a) and 5.2(b);
+
+E. — Enter an order of permanent injunction enjoining Defendant Lucrative
+Pips, and its affiliates, agents, servants, employees, successors, assigns, attorneys,
+and all persons in active concert with them, who receive actual notice of such order
+by personal service or otherwise, from engaging in the conduct described above, in
+violation of 7 U.S.C. § 6m(1) and 17 C.F.R. § 5.3(a)(2)();
+
+F. Enter an order of permanent injunction enjoining Defendant Perry,
+and his affiliates, agents, servants, employees, successors, assigns, attorneys, and
+all persons in active concert with them, who receive actual notice of such order by
+personal service or otherwise, from engaging in the conduct described above, in
+violation of 7 U.S.C. § 6k(2) and 17 C.F.R. § 5.3(a)(2) a);
+
+G. — Enter an order of permanent injunction enjoining Lucrative Pips and
+
+Perry, and their affiliates, agents, servants, employees, successors, assigns,
+
+32 -
+Case 1:18-cv-04549-CAP Document 1 Filed 09/28/18 Page 33 of 37
+
+attorneys, and all persons in active concert or participation with them, from
+
+directly or indirectly:
+
+il.
+
+ill.
+
+IV.
+
+Vi.
+
+Trading on or subject to the rules of any registered entity (as that
+term is defined in Section la(40) of the Act, 7 U.S.C. § la(40)
+(2012));
+
+Entering into any transactions involving “commodity interests”
+(as that term is defined in Regulation 1.3, 17 C.F.R. § 1.3 (2018))
+for accounts held in the name of any Defendant or for accounts in
+which any Defendant has a direct or indirect interest;
+
+Having any commodity interests traded on any Defendant’s
+behalf;
+
+Controlling or directing the trading for or on behalf of any other
+person or entity, whether by power of attorney or otherwise, in
+any account involving commodity interests;
+
+Soliciting, receiving, or accepting any funds from any person for
+the purpose of purchasing or selling of any commodity interests;
+Applying for registration or claiming exemption from registration
+with the Commission in any capacity, and engaging in any
+
+activity requiring registration or exemption from registration with
+
+_ 33 -
+Case 1:18-cv-04549-CAP Document 1 Filed 09/28/18 Page 34 of 37
+
+the Commission, except as provided for in Regulation 4.14(a)(Q),
+17 C.F.R. § 4.14(a)(9) (2018);
+
+vil. Acting as a principal (as that term is defined in Regulation 3.1(a),
+17 C.F.R. § 3.1(a) (2018)), agent, or any other officer or
+employee of any person registered, exempted from registration,
+or required to be registered with the Commission, except as
+provided for in 17 C.F.R. § 4.14(a)(Q9) ; and/or
+
+vill. Engaging in any business activities related to commodity
+interests;
+
+H. — Enter an order directing Lucrative Pips and Perry, as well as any third-
+party transferee and/or successors thereof, to disgorge, pursuant to such procedure
+as the Court may order, all benefits received including, but not limited to, salaries,
+commissions, loans, fees, revenues, and trading profits derived, directly or
+indirectly, from acts or practices which constitute violations of the Act and
+Regulations as described herein, including pre-judgment and post-judgment
+interest;
+
+I. Enter an order directing Lucrative Pips and Perry, as well as any
+successors thereof, to make full restitution to every person who has sustained
+
+losses proximately caused by the violations described herein, including pre-
+
+_ 34 -
+. ALAS 7, LAL AQ PP AD rN « mean OF pts ab SAPS PTE PA Py aga TREY PRT
+i wage es TES Sa PO A Fe be f FYE § PAE PWS SA ERT S Seto ee Fa See BS Spe PER ag he way
+4 owt a a Pw! Pak BREN fe fy Ba Bose bE Ca ae Baris : Berghe y Beal PP Est Be eat Pht ‘ Puy Z
+Wet UL OL OES SE LATE RACHA TIE PER 2 PTE Uo oy 2 Pe SS
+
+judgment and post-judgment interest;
+
+J. Enter an order directing Lucrative Pips and Perry, as well as any
+successors thereof, to rescind, pursuant to such procedures as the Court may order,
+all contracts and agreements, whether implied or express, entered into between,
+with or among Lucrative Pips and Perry and any of the Pool Participants whose
+funds were received by Lucrative Pips and Perry as a result of the acts and
+practices that constituted violations of the Act and Regulations as described herein;
+
+K. — Enter an order directing Lucrative Pips and Perry to pay a civil
+monetary penalty assessed by the Court, in an amount not to exceed the penalty
+prescribed by Section 6c(d)(1) of the Act, 7 U.S.C. § 13a-1(d)(1) (2012), as
+adjusted for inflation pursuant to the Federal Civil Penalties Inflation Adjustment
+Act Improvements Act of 2015, Pub. L. 114-74, tit. VI, § 701, 129 Stat. 584, 599-
+600, see Regulation 143.8, 17 C.F.R. § 143.8 (2018), for each violation of the Act
+and Regulations, as described herein;
+
+L. Enter an order requiring Lucrative Pips and Perry to pay costs and
+
+fees as permitted by 28 U.S.C. §§ 1920 and 2412(a)(2) (2012); and
+
+- 35-
+Case 1:18-cv-04549-CAP Document 1 Filed 09/28/18 Page 36 of 37
+
+M. — Enter an order providing such other and further relief as this Court
+
+may deem necessary and appropriate under the circumstances.
+
+Dated: September 28, 2018
+
+Respectfully submitted,
+
+BYUNG J. PAK
+United States Attorney
+
+/S/ Lori M. Beranek
+
+Lori M. Beranek
+Assistant U.S. Attorney
+600 U.S. Courthouse
+
+75 Ted Turner Drive SW
+Atlanta, GA 30303-3309
+Georgia Bar No. 053775
+Tel: 404/58 1-6000
+
+Fax: 404/581-6181
+
+ 
+
+and
+
+Jason Gizzarelli
+
+Virginia Bar No. 42791
+
+Traci Rodriguez
+
+Member Maryland Bar
+
+PRO HAC VICE PENDING
+Commodity Futures Trading Commission
+Division of Enforcement
+
+1155 21st Street, N.W.
+Washington, D.C. 20581
+
+Tel: 202/418-5395 (Gizzarelli)
+Tel: 202/418-5980 (Rodriguez)
+Fax: 202/818-3112
+jgizzarelli@cftc.gov
+
+ 
+
+trodriguez@cftc.gov
+
+ 
+
+- 36-
+Case 1:18-cv-04549-CAP Document 1 Filed 09/28/18 Page 37 of 37
+
+CERTIFICATION OF COMPLIANCE
+Pursuant to N.D. Ga. LR 7.1(D), Plaintiffs Complaint was prepared using
+Times New Roman (14) point, as required by N.D. Ga. LR 5.1(C).
+
+/s/ Jason Gizzarelli
+
+Jason Gizzarelli
+
+Attorney for Plaintiff
+
+Commodity Futures Trading Commission
+
+ 
+
+_37-

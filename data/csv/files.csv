@@ -55,7 +55,6 @@ folder,filename,doctype,defendant,plaintiff,juridiction,cost,violation
 8326-20,press-release.txt,press,Orders Vitol,?,CFTC,95700000,?
 8376-21,order-douglas-lien.txt,order,Douglas Lien,?,CFTC,10000000,?
 8376-21,press-release.txt,press,Douglas Lien,?,CFTC,10000000,?
-<<<<<<< HEAD
 7591-17,order-arthur-toole-iii-billionaire-investor-group-llc-et-al-txt,order,"Arthur Toole III,Georgia, and his companies,Billionaire Investor Group,Toole Group Inc,Catalyst Traders LLC",?,CFTC,493000,?
 7591-17,press-release.txt,press,"Arthur Toole III,Georgia, and his companies,Billionaire Investor Group,Toole Group Inc,Catalyst Traders LLC",?,CFTC,493000,?
 8077-19,order-wells-fargo-bank-n-a.txt,order,"Wells Fargo Bank,N.A",?,CFTC,14475000,?
@@ -68,55 +67,42 @@ cands,,press,,,CFTC,,
 7788-18,press-release.txt,press,"NatWest Markets Plc,formerly The Royal Bank of Scotland plc",?,CFTC,750000,?
 7371-16,order-citibank-n-a.txt,order,"Citibank,N.A",?,CFTC,250000000,?
 7371-16,press-release.txt,press,"Citibank,N.A",?,CFTC,250000000,?
-pr7693-18,order-amp-global-clearing-llc.txt,order,AMP Global Clearing LLC,,CFTC,100000,?
-pr7693-18,press-release.txt,press,AMP Global Clearing LLC,,CFTC,100000,?
-7249-15,order-global-consortiums-llc.txt,order,,,CFTC,,
-7249-15,press-release.txt,press,,,CFTC,,
-=======
-7591-17,,order,,,CFTC,,
-7591-17,,press,,,CFTC,,
-8077-19,,order,,,CFTC,,
-8077-19,,press,,,CFTC,,
-8043-19,,order,,,CFTC,,
-8043-19,,press,,,CFTC,,
-7788-18,,order,,,CFTC,,
-7788-18,,press,,,CFTC,,
-7371-16,,order,,,CFTC,,
-7371-16,,press,,,CFTC,,
-pr7693-18,,order,,,CFTC,,
-pr7693-18,,press,,,CFTC,,
-7249-15,,order,,,CFTC,,
-7249-15,,press,,,CFTC,,
->>>>>>> 9c1eb704af88eb0fe708b87d4c9ae8236fa82c26
-7515-17,,order,,,CFTC,,
-7515-17,,press,,,CFTC,,
-8034-19,,order,,,CFTC,,
-8034-19,,press,,,CFTC,,
-7736-18,,order,,,CFTC,,
-7736-18,,press,,,CFTC,,
-7837-18,,order,,,CFTC,,
-7837-18,,press,,,CFTC,,
-7344-16,,order,,,CFTC,,
-7344-16,,press,,,CFTC,,
-7974-19,,order,,,CFTC,,
-7974-19,,press,,,CFTC,,
-7259-15,,order,,,CFTC,,
-7259-15,,press,,,CFTC,,
-8174-20,,order,,,CFTC,,
-8174-20,,press,,,CFTC,,
-7288-15,,order,,,CFTC,,
-7288-15,,press,,,CFTC,,
-8005-19,,order,,,CFTC,,
-8005-19,,press,,,CFTC,,
-8371-21,,order,,,CFTC,,
-8371-21,,press,,,CFTC,,
-7454-16,,order,,,CFTC,,
-7454-16,,press,,,CFTC,,
-7627-17,,order,,,CFTC,,
-<<<<<<< HEAD
-7627-17,,press,,,CFTC,,
-=======
-7627-17,,press,,,CFTC,,
-,,order,,,CFTC,,
+pr7693-18,order-amp-global-clearing-llc.txt,order,AMP Global Clearing LLC,?,CFTC,100000,?
+pr7693-18,press-release.txt,press,AMP Global Clearing LLC,?,CFTC,100000,?
+7249-15,order-global-consortiums-llc.txt,order,"Global Consurtiums LLC,Michael E. Simmons",?,CFTC,360000,?
+7249-15,press-release.txt,press,"Global Consurtiums LLC,Michael E. Simmons",?,CFTC,360000,?
+7591-17,order-arthur-toole-iii-billionaire-investor-group-llc-et-al.txt,order,"ARTHUR TOOLE ITI,NG,BILLIONAIRE INVESTOR GROUP LLC,THE TOOLE GROUP INC,CATALYST TRADERS LLC ",?,CFTC,293141,?
+7591-17,press-release.txt,press,"ARTHUR TOOLE ITI,NG,BILLIONAIRE INVESTOR GROUP LLC,THE TOOLE GROUP INC,CATALYST TRADERS LLC ",?,CFTC,293141,?
+7515-17,order-cncgc-hong-kong-ltd.txt,order,CNCGC HONG KONG LTD,?,,150000,?
+7515-17,press-release.txt,press,CNCGC HONG KONG LTD,?,CFTC,"150,000",?
+8034-19,order-rbc-capital-markets-llc.txt,order,"RBC Capital Markets,LLC",?,CFTC,5000000,?
+8034-19,press-release.txt,press,"RBC Capital Markets, LLC",?,CFTC,5000000,?
+7736-18,order-societe-generale-s-a.txt,order,Société Générale S. A,?,CFTC,475000000,?
+7736-18,order-societe-generale-s-a.txt,press,Société Générale S. A,?,CFTC,475000000,?
+7837-18,order-commerzbank-ag.txt,order,Commerzbank AG,?,CFTC,12000000,?
+7837-18,press-release.txt,press,Commerzbank AG,?,CFTC,12000000,?
+7344-16,order-equinox-fund-management-llc.txt,order,Equinox Fund Management,?,CFTC,250000,?
+7344-16,press-release.txt,press,Equinox Fund Management,?,CFTC,250000,?
+7974-19,order-adm-investor-services-inc.txt,order,"ADM Investor Services Inc,ae",?,CFTC,250000,?
+7974-19,press-release.txt,press,"ADM Investor Services Inc,ae",?,CFTC,250000,?
+7259-15,order-direct-investment-products-inc-and-alexander-glytenko.txt,order,"DIRECT INVESTMENT PRODUCTS,INC,ALEXANDER GLYTENKO",?,CFTC,2459633,?
+7259-15,press-release.txt,press,"DIRECT INVESTMENT PRODUCTS,INC,ALEXANDER GLYTENKO",?,CFTC,2459633,?
+8174-20,order-gain-capital-uk-limited.txt,order,Gain Capital UK Limited,?,CFTC,250000,?
+8174-20,press-release.txt,press,Gain Capital UK Limited,?,CFTC,250000,?
+7288-15,order-sharpe-signa-llc-haeres-capital-llc-and-garen-ovsepyan.txt,order,"Haeres Capital,LLC",?,CFTC,70000,?
+7288-15,press-release.txt,press,"Haeres Capital,LLC",?,CFTC,70000,?
+8005-19,merrill-lynch-pierce-fenner-smith-incorporated.txt,order,"mere Lynch, Pierce, Fenner & Smith neorporated,Proceedings Clerk",?,CFTC,300000,?
+8005-19,press-release.txt,press,"mere Lynch, Pierce, Fenner & Smith neorporated,Proceedings Clerk",?,CFTC,300000,?
+8371-21,order-benjamin-reynolds.txt,order,"USDC SDNY SOUTHERN DISTRICT OF NEW YORK DOCUMENT
+ELECTRONICALLY FILED",?,CFTC,142986589,?
+8371-21,,press,"USDC SDNY SOUTHERN DISTRICT OF NEW YORK DOCUMENT
+ELECTRONICALLY FILED",?,CFTC,142986589,?
+7454-16,order-wells-fargo-bank-n-a.txt,order,"Wells Fargo Bank,N.A",?,CFTC,400000,?
+7454-16,press-release.txt,press,"Wells Fargo Bank,N.A",?,CFTC,400000,?
+7627-17,order-arab-global-commodities-dmcc.txt,order,"Arab Global Commodities DMCC
+",?,CFTC,300000,?
+7627-17,press-release.txt,press,"Arab Global Commodities DMCC
+",?,,300000,?
+,,order,,?,CFTC,,
 ,,press,,,CFTC,,
->>>>>>> 9c1eb704af88eb0fe708b87d4c9ae8236fa82c26
+,,,,,,,

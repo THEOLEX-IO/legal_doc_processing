@@ -69,7 +69,7 @@ if __name__ == "__main__":
 
     # legal_doc df AND  OBj
     df = press_release_X_y()
-    df = df.iloc[:7, :]
+    df = df.iloc[:, :]
     df["obj"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
 
     # preds

@@ -55,6 +55,7 @@ folder,filename,doctype,defendant,plaintiff,juridiction,cost,violation
 8326-20,press-release.txt,press,Orders Vitol,?,CFTC,95700000,?
 8376-21,order-douglas-lien.txt,order,Douglas Lien,?,CFTC,10000000,?
 8376-21,press-release.txt,press,Douglas Lien,?,CFTC,10000000,?
+<<<<<<< HEAD
 7591-17,order-arthur-toole-iii-billionaire-investor-group-llc-et-al-txt,order,"Arthur Toole III,Georgia, and his companies,Billionaire Investor Group,Toole Group Inc,Catalyst Traders LLC",?,CFTC,493000,?
 7591-17,press-release.txt,press,"Arthur Toole III,Georgia, and his companies,Billionaire Investor Group,Toole Group Inc,Catalyst Traders LLC",?,CFTC,493000,?
 8077-19,order-wells-fargo-bank-n-a.txt,order,"Wells Fargo Bank,N.A",?,CFTC,14475000,?
@@ -71,6 +72,22 @@ pr7693-18,order-amp-global-clearing-llc.txt,order,AMP Global Clearing LLC,,CFTC,
 pr7693-18,press-release.txt,press,AMP Global Clearing LLC,,CFTC,100000,?
 7249-15,order-global-consortiums-llc.txt,order,,,CFTC,,
 7249-15,press-release.txt,press,,,CFTC,,
+=======
+7591-17,,order,,,CFTC,,
+7591-17,,press,,,CFTC,,
+8077-19,,order,,,CFTC,,
+8077-19,,press,,,CFTC,,
+8043-19,,order,,,CFTC,,
+8043-19,,press,,,CFTC,,
+7788-18,,order,,,CFTC,,
+7788-18,,press,,,CFTC,,
+7371-16,,order,,,CFTC,,
+7371-16,,press,,,CFTC,,
+pr7693-18,,order,,,CFTC,,
+pr7693-18,,press,,,CFTC,,
+7249-15,,order,,,CFTC,,
+7249-15,,press,,,CFTC,,
+>>>>>>> 9c1eb704af88eb0fe708b87d4c9ae8236fa82c26
 7515-17,,order,,,CFTC,,
 7515-17,,press,,,CFTC,,
 8034-19,,order,,,CFTC,,
@@ -96,4 +113,10 @@ pr7693-18,press-release.txt,press,AMP Global Clearing LLC,,CFTC,100000,?
 7454-16,,order,,,CFTC,,
 7454-16,,press,,,CFTC,,
 7627-17,,order,,,CFTC,,
+<<<<<<< HEAD
 7627-17,,press,,,CFTC,,
+=======
+7627-17,,press,,,CFTC,,
+,,order,,,CFTC,,
+,,press,,,CFTC,,
+>>>>>>> 9c1eb704af88eb0fe708b87d4c9ae8236fa82c26

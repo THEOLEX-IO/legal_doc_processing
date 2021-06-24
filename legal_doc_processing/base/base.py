@@ -136,6 +136,7 @@ class Base:
             # sents
             "h1_sents": self.h1_sents,
             "abstract_sents": self.abstract_sents,
+            "all_text_sents": self.all_text_sents,
             # entities
             "pers_h1": self.pers_h1,
             "pers_abstract": self.pers_abstract,
@@ -180,6 +181,7 @@ class Base:
         self.abstract_sents = [
             i.text for i in self.nlspa(self.abstract).sents if i.text.strip()
         ]
+        self.all_text_sents = []
 
     ######################
 

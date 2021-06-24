@@ -50,6 +50,13 @@ class PressRelease(Base):
         # set all
         self.set_all()
 
+        # all_text_sents
+        self.all_text_sents = [
+            i.text
+            for i in self.nlspa(self.struct_text["article"]).sents
+            if i.text.strip()
+        ]
+
 
 def from_file(file_path, nlpipe=None, nlspa=None):
     return base_from_file(file_path, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
@@ -96,3 +103,7 @@ if __name__ == "__main__":
     cols = ["txt", "pr", "preds"]
     _df = df.drop(cols, axis=1, inplace=False)
     _df.to_csv("./press_release.csv", index=False)
+
+    df["_pred_monitor"] = [bool(i) for i in df.pred_monitor.apply(int).values]
+
+    df.loc[df._pred_monitor, "folder"].values

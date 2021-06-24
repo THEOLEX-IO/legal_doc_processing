@@ -26,13 +26,17 @@ class PressRelease(Base):
             predict_decision_date=predict_decision_date,
             predict_defendant=predict_defendant,
             predict_extracted_authorities=predict_extracted_authorities,
+            predict_extracted_violation=predict_extracted_violation,
             predict_folder=predict_folder,
-            predict_juridiction=predict_juridiction,
+            predict_justice_type=predict_justice_type,
             predict_monetary_sanction=predict_monetary_sanction,
+            predict_monitor=predict_monitor,
+            predict_nature_de_sanction=predict_nature_de_sanction,
             predict_nature_of_violations=predict_nature_of_violations,
-            predict_plaintiff=predict_plaintiff,
+            predict_penalty_details=predict_penalty_details,
             predict_reference=predict_reference,
-            predict_sentence=predict_sentence,
+            predict_type=predict_type,
+            # predict_sentence=predict_sentence,
             # predict_violation_date=predict_violation_date,
             file_path=file_path,
             nlpipe=nlpipe,
@@ -69,7 +73,7 @@ if __name__ == "__main__":
 
     # legal_doc df AND  OBj
     df = press_release_X_y()
-    df = df.iloc[:, :]
+    df = df.iloc[:4, :]
     df["pr"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
 
     # preds
@@ -90,5 +94,5 @@ if __name__ == "__main__":
 
     # externize
     cols = ["txt", "pr", "preds"]
-    df.drop(cols, axis=1, inplace=True)
-    df.to_csv("./press_release.csv", index=False)
+    _df = df.drop(cols, axis=1, inplace=False)
+    _df.to_csv("./press_release.csv", index=False)

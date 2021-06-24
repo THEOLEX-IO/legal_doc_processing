@@ -2,8 +2,9 @@ from legal_doc_processing.utils import uniquize as _u
 
 from legal_doc_processing.utils import merge_ans, ask_all
 
-from legal_doc_processing.press_release.clean.nature_of_violations import (
-    _you_shall_not_pass,
+from legal_doc_processing.press_release.clean.extracted_violation import (
+    _clean_str_to_str,
+    _clean_list_to_list,
     clean_ans,
 )
 
@@ -158,7 +159,7 @@ def predict_extracted_violation(obj: dict, threshold=0.4, n_sents: int = 5) -> l
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # pers_org_entities_list
-    pers_org_all = obj["pers_org_all"] + _u(_you_shall_not_pass(obj["pers_org_all"]))
+    pers_org_all = obj["pers_org_all"] + _u(_clean_list_to_list(obj["pers_org_all"]))
     pers_org_all = _u(pers_org_all)
 
     # items

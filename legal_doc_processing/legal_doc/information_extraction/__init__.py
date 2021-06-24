@@ -24,6 +24,11 @@ from legal_doc_processing.legal_doc.information_extraction.folder import predict
 # from legal_doc_processing.legal_doc.information_extraction.juridiction import (
 #     predict_juridiction,
 # )
+
+from legal_doc_processing.legal_doc.information_extraction.justice_type import (
+    predict_justice_type,
+)
+
 from legal_doc_processing.legal_doc.information_extraction.monitor import (
     predict_monitor,
 )

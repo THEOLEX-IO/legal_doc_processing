@@ -86,7 +86,6 @@ class Base:
 
         self._feature_list = [
             "_code_law_violation",
-            "_country_of_violation",
             "_currency",
             "_decision_date",
             "_defendant",
@@ -101,6 +100,7 @@ class Base:
             "_penalty_details",
             "_reference",
             "_type",
+            "_country_of_violation",  # depends of predict authorities
             # "_violation_date",
         ]
 

@@ -10,12 +10,12 @@ def predict_monitor(obj: dict) -> list:
     return [("1", 0.5)] if monitor else [("0", 0.5)]
 
 
+if __name__ == "__main__":
 
-if __name__ =="__main__" : 
-port
     import time
     from legal_doc_processing.utils import get_pipeline, get_spacy
     from legal_doc_processing.press_release.loader import press_release_X_y
+    from legal_doc_processing.press_release.press_release import PressRelease
 
     # load
     nlpipe = get_pipeline()

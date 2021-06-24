@@ -7,21 +7,27 @@ from legal_doc_processing.press_release.information_extraction.country_of_violat
 from legal_doc_processing.press_release.information_extraction.currency import (
     predict_currency,
 )
+
 from legal_doc_processing.press_release.information_extraction.decision_date import (
     predict_decision_date,
 )
+
 from legal_doc_processing.press_release.information_extraction.defendant import (
     predict_defendant,
 )
+
 from legal_doc_processing.press_release.information_extraction.extracted_authorities import (
     predict_extracted_authorities,
 )
+
 from legal_doc_processing.press_release.information_extraction.extracted_violation import (
     predict_extracted_violation,
 )
+
 from legal_doc_processing.press_release.information_extraction.folder import (
     predict_folder,
 )
+
 
 # from legal_doc_processing.press_release.information_extraction.juridiction import (
 #     predict_juridiction,

@@ -137,12 +137,15 @@ def _question_selector(key: str):
                 ("For what have they to pay?", "for_pay"),
                 ("For what has he to pay?", "for_pay"),
                 ("For what has it to pay?", "for_pay"),
+                ("What has he to pay for?", ""),
+                ("What have they to pay for?", ""),
             ]
         )
 
     qs.extend(
         [
             ("What was the bad action?", "what_payement"),
+            ("What is the bad action?", "what_payement"),
             ("What has he done wrong?", "what_payement"),
             ("What have they done wrong?", "what_payement"),
         ]

@@ -70,12 +70,12 @@ if __name__ == "__main__":
     # legal_doc df AND  OBj
     df = press_release_X_y()
     df = df.iloc[:, :]
-    df["obj"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
+    df["pr"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
 
     # preds
     t = time.time()
     # 28 objects --> 181 secondes so --> +/-10 secondes per objects
-    df["preds"] = df.obj.apply(lambda i: i.predict_all())
+    df["preds"] = df.pr.apply(lambda i: i.predict_all())
     t = time.time() - t
 
     # labels
@@ -86,4 +86,9 @@ if __name__ == "__main__":
     # 1st one
     one = df.iloc[0, :]
     one_txt = one.txt
-    one_ob = obj = self = one.obj
+    one_ob = obj = self = one.pr
+
+    # externize
+    cols = ["txt", "pr", "preds"]
+    df.drop(cols, axis=1, inplace=True)
+    df.to_csv("./press_release.csv", index=False)

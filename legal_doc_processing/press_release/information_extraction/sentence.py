@@ -1,117 +1,242 @@
-import os
+from legal_doc_processing.utils import uniquize as _u
 
-import pandas as pd
+from legal_doc_processing.utils import merge_ans, ask_all
 
-from legal_doc_processing.utils import _if_not_pipe, _if_not_spacy, _ask
-
-
-def predict_sentence(obj: dict) -> list:
-    return [(-1, -1)]
-
-
-# def _ask_all(txt, nlpipe) -> list:
-#     """asl all questions and return a list of dict """
-
-#     # pipe
-#     nlpipe = _if_not_pipe(nlpipe)
-
-#     # ans
-#     ans = []
-
-#     # question, funct
-#     quest_pairs = [
-#         ("what is the penalty?", "ask_wat_penalty"),
-#         ("what is to pay", "ask_what_pay"),
-#         ("what is the injunction?", "ask_what_injuction"),
-#         ("Who enter judgement against someone", "ask_who_enter_judgement"),
-#     ]
-
-#     # loop
-#     for quest, label in quest_pairs:
-#         ds = _ask(txt=txt, quest=quest, nlpipe=nlpipe)
-#         _ = [d.update({"question": label}) for d in ds]
-#         ans.extend(ds)
-
-#     # sort
-#     ans = sorted(ans, key=lambda i: i["score"], reverse=True)
-
-#     # clean
-#     ans = [i for i in ans if (i["answer"].lower() != "defendants")]
-
-#     return ans
+from legal_doc_processing.press_release.clean.nature_of_violations import (
+    _you_shall_not_pass,
+    clean_ans,
+)
 
 
-# def _clean_ans(ans, threshold=0.5):
-#     """ """
+def _question_helper(txt):
+    """txt"""
 
-#     # build dataframe
-#     df = pd.DataFrame(ans)
-#     df = df.loc[:, ["score", "answer"]]
+    _txt = txt.lower()
+    res = list()
 
-#     # group by ans and make cumutavie score of accuracy
-#     ll = [
-#         {"answer": k, "cum_score": v.score.sum()}
-#         for k, v in df.groupby("answer")
-#         if v.score.sum() > threshold
-#     ]
-#     ll = sorted(ll, key=lambda i: i["cum_score"], reverse=True)
+    # accused
+    if ("accuse" in _txt) and ("for" in _txt):
+        res.append("accused_for")
+    if ("accuse" in _txt) and ("of" in _txt):
+        res.append("accused_of")
+    # charges
+    if ("charg" in _txt) and ("for" in _txt):
+        res.append("charged_for")
+    if ("charg" in _txt) and ("with" in _txt):
+        res.append("charged_with")
+    # violated
+    if ("violat" in _txt) and ("by" in _txt):
+        res.append("violated_by")
+    # judge
+    if ("judgment" in _txt) and ("for" in _txt):
+        res.append("judgment_for")
+    if ("judgment" in _txt) and ("in" in _txt):
+        res.append("judgment_in")
+    # order
+    if ("order" in _txt) and ("from" in _txt):
+        res.append("order_from")
+    if ("order" in _txt) and ("for" in _txt):
+        res.append("order_for")
+    # impose
+    if ("impose" in _txt) and ("for" in _txt):
+        res.append("impose_for")
+    # pay
+    if ("pay" in _txt) and ("for" in _txt):
+        res.append("pay_for")
 
-#     return ll
-
-
-# def predict_sentence(struct_doc: list, nlpipe=None, nlspa=None):
-#     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
-
-#     # pipe, spa
-#     nlpipe = _if_not_pipe(nlpipe)
-#     nlspa = _if_not_spacy(nlspa)
-
-#     # choose the item
-#     h1 = struct_doc["h1"]
-#     sub_article = "\n".join(struct_doc["article"].split("\n")[:2])
-
-#     # # choose the item
-#     # h1 = struct_doc["h1"]
-
-#     # # ask all and get all possible response
-#     # ans = _ask_all(h1, nlpipe)
-
-#     # # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
-#     # ll = _clean_ans(ans)
-
-#     # # reponse
-#     # resp = ", ".join([i["answer"] for i in ll])
-
-#     # return resp
-
-#     return [("-- None --", -1)]
+    return res
 
 
-# if __name__ == "__main__":
+def _question_selector(key: str):
+    """based on a key from _question helper find the list of good question to ask """
 
-#     # import
-#     from legal_doc_processing.utils import *
-#     from legal_doc_processing.press_release.utils import *
-#     from legal_doc_processing.press_release.loader import load_press_release_text_list
-#     from legal_doc_processing.press_release.structure import structure_press_release
+    qs = list()
 
-#     # pipe
-#     nlpipe = get_pipeline()
+    if "accus" in key:  # accused
+        qs.extend(
+            [
+                ("What is the accusation?", "what_acusation"),
+                ("What are the accusations?", "what_acusations"),
+                ("They are accused of what?", "accused_what"),
+                ("It is accused of what?", "accused_what"),
+                ("He is accused of what?", "accused_what"),
+                ("What is the reason of the accusation?", "what_accusation"),
+            ]
+        )
+    # charged
+    elif "charge" in key:
+        qs.extend(
+            [
+                ("What are the charges?", "what_charges"),
+                ("What is the charge?", "what_charge"),
+                ("they are charged of what?", "charged_what"),
+                ("He is charged of what?", "charged_what"),
+                # ("It is charged of what?", "charged_what"),
+                ("For what are they charged?", "for_charged"),
+                ("For what is he charged?", "for_charged"),
+                ("For what is it charged?", "for_charged"),
+            ]
+        )
 
-#     # struct_doc_list
-#     press_txt_list = load_press_release_text_list()
-#     struct_doc_list = [structure_press_release(i) for i in press_txt_list]
+    if "violate" in key:  # violated
+        qs.extend(
+            [
+                ("What are the violations?", "what_violations"),
+                ("What is the violation?", "what_violation"),
+                ("They have violated what?", "violated_what"),
+                ("He has violated what?", "violated_what"),
+                ("It has violated what?", "violated_what"),
+                ("What have they violated?", "what_violated"),
+                ("What has he violated?", "what_violated"),
+                ("What has it violated?", "what_violated"),
+            ]
+        )
 
-#     # test one
-#     struct_doc = struct_doc_list[0]
+    if "judge" in key:  # judgement
+        qs.extend(
+            [
+                ("What is the reason of the judgement?", "what_judge"),
+                ("What are the reasons of the judgement?", "what_judge"),
+                ("For what are they judge?", "for_what_judge"),
+                ("For what are they under judgement?", "for_what_judge"),
+                ("For what is he judge?", "for_what_judge"),
+                ("For what is it under judgement?", "for_what_judge"),
+                ("For what is he judge?", "for_what_judge"),
+                ("For what is it under judgement?", "for_what_judge"),
+                ("They are judged for what?", "for_what_judge"),
+                ("They are under judgedment for what?", "for_what_judge"),
+                ("He is judged for what?", "for_what_judge"),
+                ("He is under judgedment for what?", "for_what_judge"),
+                ("It is judged for what?", "for_what_judge"),
+                ("It is under judgedment for what?", "for_what_judge"),
+            ]
+        )
 
-#     all_ans_h1 = _ask_all(struct_doc["h1"], nlpipe)
-#     all_ans_h2 = _ask_all(struct_doc["h2"], nlpipe)
-#     all_ans_article = _ask_all(struct_doc["article"], nlpipe)
+    if "order" in key:  # order
+        qs.extend(
+            [
+                ("What is the reason of the order?", "what_judge"),
+                ("What are the reasons of the order?", "what_judge"),
+            ]
+        )
+    if "impose" in key:  # impose
+        qs.extend(
+            [
+                ("What is the reason of the imposition?", "what_impose"),
+                ("What are the reasons of the imposition?", "what_impose"),
+                ("For what are they imposed?", "for_imposed"),
+                ("For what is he imposed?", "for_imposed"),
+                ("For what is it imposed?", "for_imposed"),
+            ]
+        )
+    if "pay" in key:  # pay
+        qs.extend(
+            [
+                ("What is the reason of the payement?", "what_payement"),
+                ("What are the reasons of the payement?", "what_payement"),
+                ("For what have they to pay?", "for_pay"),
+                ("For what has he to pay?", "for_pay"),
+                ("For what has it to pay?", "for_pay"),
+                ("What has he to pay for?", ""),
+                ("What have they to pay for?", ""),
+            ]
+        )
 
-#     ans = predict_sentence(struct_doc, nlpipe)
+    qs.extend(
+        [
+            ("What was the bad action?", "what_payement"),
+            ("What is the bad action?", "what_payement"),
+            ("What has he done wrong?", "what_payement"),
+            ("What have they done wrong?", "what_payement"),
+        ]
+    )
 
-#     # test others
-#     ans_list = [predict_sentence(p, nlpipe) for p in struct_doc_list]
-#     clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
-#     clean_ans_list = [", ".join(ll) for ll in clean_ans_list]
+    return qs
+
+
+# def predict_nature_of_violations(obj: dict, threshold=0.4) -> list:
+#     return [(-1, -1)]
+
+
+def predict_nature_of_violations(obj: dict, threshold=0.4, n_sents: int = 5) -> list:
+    """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
+
+    # pers_org_entities_list
+    pers_org_all = obj["pers_org_all"] + _u(_you_shall_not_pass(obj["pers_org_all"]))
+    pers_org_all = _u(pers_org_all)
+
+    # items
+    h1, abstract = obj["h1"], obj["abstract"]
+    abstract_sents = obj["abstract_sents"][:n_sents]
+    ans = []
+
+    # ask medhod h1
+    for key_h1 in _question_helper(h1):
+        # print(f"key_h1 : {key_h1} ")
+        quest_pairs = _u(_question_selector(key_h1))
+        # print(f"quest_pairs : {quest_pairs} ")
+        ans.extend(ask_all(h1, quest_pairs, nlpipe=obj["nlpipe"]))
+
+    # ask medhod abstract_sents
+    for sent in abstract_sents:
+        key_list = _question_helper(sent)
+        for key in key_list:
+            # print(key)
+            quest_pairs = _u(_question_selector(key))
+            # print(quest_pairs)
+            ans.extend(ask_all(sent, quest_pairs, nlpipe=obj["nlpipe"]))
+
+    # clean ans
+    cleaned_ans = clean_ans(ans)
+    answer_label = "new_answer"
+    if not len(cleaned_ans):
+        cleaned_ans = [{answer_label: "--None--", "score": -1}]
+
+    # merge ans
+    merged_ans = merge_ans(cleaned_ans, label=answer_label)
+
+    # filert by spacy entities
+    consitant_ans = [i for i in merged_ans if i[answer_label] not in pers_org_all]
+
+    # filter by threshold
+    flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]
+    last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
+
+    return last_ans
+
+
+if __name__ == "__main__":
+
+    # import
+    import time
+    from legal_doc_processing.utils import get_pipeline, get_spacy
+    from legal_doc_processing.press_release.loader import press_release_X_y
+    from legal_doc_processing.press_release.press_release import PressRelease
+
+    # laod
+    nlpipe = get_pipeline()
+    nlspa = get_spacy()
+    nlspa.add_pipe("sentencizer")
+
+    # structured_press_release_r
+    df = press_release_X_y(features="defendant")
+    df = df.iloc[:7, :]
+    df["obj"] = [PressRelease(i, nlpipe=nlpipe, nlspa=nlspa) for i in df.txt.values]
+
+    # preds
+    t = time.time()
+    # 28 objects --> 181 secondes so --> +/-10 secondes per objects
+    df["pred_nature_of_violations"] = df.obj.apply(
+        lambda i: i.predict("nature_of_violations")
+    )
+    t = time.time() - t
+
+    # # labels
+    # preds_labels = list(df.preds.iloc[0].keys())
+    # for k in preds_labels:
+    #     df["pred_" + k] = df.preds.apply(lambda i: i[k])
+
+    # 1st one
+    one = df.iloc[0, :]
+    one_txt = one.txt
+    one_ob = obj = self = one.obj

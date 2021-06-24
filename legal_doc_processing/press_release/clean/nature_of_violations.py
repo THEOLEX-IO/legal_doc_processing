@@ -1,8 +1,18 @@
-def _clean_defendants(ans_list: list) -> list:
-    """delete defenants """
+def _clean_defendants_1(txt: str) -> str:
+    """ """
+    if txt.lower() != "defendants":
+        return ""
 
-    ans_list = [i for i in ans_list if (i.lower() != "defendants")]
-    ans_list = [i for i in ans_list if (i.lower() != "defendant")]
+    if txt.lower() != "defendant":
+        return ""
+
+    return txt
+
+
+def _clean_defendants_2(txt: str) -> str:
+    """ """
+
+    _txt = txt.lower()
 
     del_defendants = lambda i, defendant: i.strip().replace(defendant, "").strip()
 
@@ -16,20 +26,44 @@ def _clean_defendants(ans_list: list) -> list:
     ]
 
     for d in defendant_list:
-        ans_list = [del_defendants(i, d) for i in ans_list]
+        _txt = del_defendants(_txt, d.lower())
 
-    return ans_list
+    return _txt
 
 
-def _you_shall_not_pass(ans_list, defendants=True):
+def _filter(txt: str) -> str:
+
+    # list
+    forbiden = ["cftc", "cftc complaint", "judgement"]
+
+    # if == , then delete
+    for f in txt:
+        if txt.strip() == forbiden:
+            return ""
+
+    # else replace
+    for f in forbiden:
+        txt = txt.strip().replace(f, "").strip()
+
+    return txt
+
+
+def _clean_str_to_str(txt: str, defendants: bool) -> str:
     """ """
 
-    # strip
-    ans_list = [i.strip() for i in ans_list]
+    txt = txt.strip()
+    txt = txt.lower()
+    txt = _clean_defendants_1(txt)
+    txt = _clean_defendants_2(txt)
+    txt = _filter(txt)
 
-    # clean defendants
-    if defendants:
-        ans_list = _clean_defendants(ans_list)
+    return txt
+
+
+def _clean_list_to_list(ans_list: list, defendants=True) -> list:
+    """ """
+
+    ans_list = [_clean_str_to_str(i, defendants=defendants) for i in ans_list]
 
     return ans_list
 
@@ -46,7 +80,7 @@ def clean_ans(ans):
 
     # clean ans
     _ = [d.update({"_id": i}) for i, d in enumerate(ans)]
-    _ = [d.update({"new_answer": _you_shall_not_pass([d["answer"]])}) for d in ans]
+    _ = [d.update({"new_answer": _clean_list_to_list([d["answer"]])}) for d in ans]
 
     new_ans = list()
     for i, d in enumerate(ans):

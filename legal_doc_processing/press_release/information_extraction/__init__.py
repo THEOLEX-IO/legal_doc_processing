@@ -23,9 +23,9 @@ from legal_doc_processing.press_release.information_extraction.folder import (
     predict_folder,
 )
 
-from legal_doc_processing.press_release.information_extraction.juridiction import (
-    predict_juridiction,
-)
+# from legal_doc_processing.press_release.information_extraction.juridiction import (
+#     predict_juridiction,
+# )
 from legal_doc_processing.press_release.information_extraction.monitor import (
     predict_monitor,
 )
@@ -43,15 +43,17 @@ from legal_doc_processing.press_release.information_extraction.nature_of_violati
 from legal_doc_processing.press_release.information_extraction.penalty_details import (
     predict_penalty_details,
 )
-from legal_doc_processing.press_release.information_extraction.plaintiff import (
-    predict_plaintiff,
-)
+
+# from legal_doc_processing.press_release.information_extraction.plaintiff import (
+#     predict_plaintiff,
+# )
 from legal_doc_processing.press_release.information_extraction.reference import (
     predict_reference,
 )
-from legal_doc_processing.press_release.information_extraction.sentence import (
-    predict_sentence,
-)
+
+# from legal_doc_processing.press_release.information_extraction.sentence import (
+#     predict_sentence,
+# )
 from legal_doc_processing.press_release.information_extraction.violation_date import (
     predict_violation_date,
 )

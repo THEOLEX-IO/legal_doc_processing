@@ -53,9 +53,9 @@ def _clean_str_to_str(txt: str, defendants: bool) -> str:
 
     txt = txt.strip()
     txt = txt.lower()
-    txt = _clean_defendants_1(txt)
-    txt = _clean_defendants_2(txt)
-    txt = _filter(txt)
+    # txt = _clean_defendants_1(txt)
+    # txt = _clean_defendants_2(txt)
+    # txt = _filter(txt)
 
     return txt
 

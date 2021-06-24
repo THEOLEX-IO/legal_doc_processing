@@ -83,8 +83,8 @@ def predict_penalty_details(obj: dict, threshold=0.4, n_sents: int = 5) -> list:
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # extracted_violation
-    extracted_violation = obj["_feature_dict"]["extracted_violation"]
-    extracted_violation = [i.lower().strip() for i, j in extracted_violation]
+    extracted_violation = obj["feature_dict"]["extracted_violation"].lower().split(",")
+    # extracted_violation = [i.lower().strip() for i in extracted_violation]
 
     # items
     h1, abstract = obj["h1"], obj["abstract"]
@@ -125,7 +125,7 @@ def predict_penalty_details(obj: dict, threshold=0.4, n_sents: int = 5) -> list:
     flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]
     last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
 
-    return [i.lower() for i in last_ans]
+    return [(i.lower(), j) for i, j in last_ans]
 
 
 if __name__ == "__main__":
@@ -142,7 +142,7 @@ if __name__ == "__main__":
 
     # legal_doc df AND  OBj
     df = press_release_X_y()
-    df = df.iloc[:, :]
+    df = df.iloc[:3, :]
     df["pr"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
 
     # preds

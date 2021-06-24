@@ -7,4 +7,8 @@ def predict_country_of_violation(obj: dict) -> list:
         if kk in auth:
             return [("United States of America", 1)]
 
+    for kk in ["amf"]:
+        if kk in auth:
+            return [("France", 1)]
+
     return [(-1, -1)]

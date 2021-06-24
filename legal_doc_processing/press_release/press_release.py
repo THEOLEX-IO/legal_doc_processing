@@ -19,6 +19,7 @@ class PressRelease(Base):
             self,
             text=text,
             obj_name="PressRelease",
+            doctype="press",
             structure_method=structure_press_release,
             predict_code_law_violation=predict_code_law_violation,
             predict_country_of_violation=predict_country_of_violation,
@@ -26,13 +27,17 @@ class PressRelease(Base):
             predict_decision_date=predict_decision_date,
             predict_defendant=predict_defendant,
             predict_extracted_authorities=predict_extracted_authorities,
-            predict_id=predict_id,
-            predict_juridiction=predict_juridiction,
+            predict_extracted_violation=predict_extracted_violation,
+            predict_folder=predict_folder,
+            predict_justice_type=predict_justice_type,
             predict_monetary_sanction=predict_monetary_sanction,
+            predict_monitor=predict_monitor,
+            predict_nature_de_sanction=predict_nature_de_sanction,
             predict_nature_of_violations=predict_nature_of_violations,
-            predict_plaintiff=predict_plaintiff,
+            predict_penalty_details=predict_penalty_details,
             predict_reference=predict_reference,
-            predict_sentence=predict_sentence,
+            predict_type=predict_type,
+            # predict_sentence=predict_sentence,
             # predict_violation_date=predict_violation_date,
             file_path=file_path,
             nlpipe=nlpipe,
@@ -45,6 +50,13 @@ class PressRelease(Base):
 
         # set all
         self.set_all()
+
+        # all_text_sents
+        self.all_text_sents = [
+            i.text
+            for i in self.nlspa(self.struct_text["article"]).sents
+            if i.text.strip()
+        ]
 
 
 def from_file(file_path, nlpipe=None, nlspa=None):
@@ -69,13 +81,13 @@ if __name__ == "__main__":
 
     # legal_doc df AND  OBj
     df = press_release_X_y()
-    df = df.iloc[:7, :]
-    df["obj"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
+    df = df.iloc[:, :]
+    df["pr"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
 
     # preds
     t = time.time()
     # 28 objects --> 181 secondes so --> +/-10 secondes per objects
-    df["preds"] = df.obj.apply(lambda i: i.predict_all())
+    df["preds"] = df.pr.apply(lambda i: i.predict_all())
     t = time.time() - t
 
     # labels
@@ -86,4 +98,12 @@ if __name__ == "__main__":
     # 1st one
     one = df.iloc[0, :]
     one_txt = one.txt
-    one_ob = obj = self = one.obj
+    one_ob = obj = self = one.pr
+
+    # externize
+    cols = ["txt", "pr", "preds"]
+    _df = df.drop(cols, axis=1, inplace=False)
+    _df.to_csv("./press_release.csv", index=False)
+
+    # df["_pred_monitor"] = [bool(i) for i in df.pred_monitor.apply(int).values]
+    # df.loc[df._pred_monitor, "folder"].values

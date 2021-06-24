@@ -149,7 +149,7 @@ def structure_press_release(txt: str) -> dict:
     dd["lines"] = lines
 
     # split items
-    dd["id"], lines = _find_release_number(lines)
+    dd["folder"], lines = _find_release_number(lines)
     dd["date"], lines = _find_date(lines)
     dd["article"], lines = _find_article(lines)
     dd["h1"] = _find_h1(lines)

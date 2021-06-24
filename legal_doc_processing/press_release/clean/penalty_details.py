@@ -1,52 +1,73 @@
-def _clean_defendants(ans_list: list) -> list:
-    """delete defenants """
-
-    ans_list = [i for i in ans_list if (i.lower() != "defendants")]
-    ans_list = [i for i in ans_list if (i.lower() != "defendant")]
-
-    del_defendants = lambda i, defendant: i.strip().replace(defendant, "").strip()
-
-    defendant_list = [
-        "Defendants with",
-        "Defendant with",
-        "Defendants",
-        "Defendant",
-        "defendant",
-        "defendants",
-    ]
-
-    for d in defendant_list:
-        ans_list = [del_defendants(i, d) for i in ans_list]
-
-    return ans_list
-
-
-def _you_shall_not_pass(ans_list, defendants=True):
+def _clean_violation(txt: str) -> str:
     """ """
 
-    # strip
-    ans_list = [i.strip() for i in ans_list]
+    viol_list = ["misuse", "misusing", "cftc", " cea ", "(cea)"]
 
-    # clean defendants
-    if defendants:
-        ans_list = _clean_defendants(ans_list)
+    for viol in viol_list:
+        if viol in txt:
+            return ""
+
+    return txt
+
+
+def _force_at_least_2_tokens(txt: str) -> str:
+    """ """
+
+    if not " " in txt:
+        return ""
+
+    return txt
+
+
+def _force_good_verbs(txt):
+    """ """
+
+    good_verbs = [
+        "pay",
+        "ceas",
+        "ban",
+        "freez",
+        "preserv",
+        "penalt",
+        "disgord",
+        "ban",
+    ]
+
+    one_of_them = [1 for i in good_verbs if i in txt]
+    if not sum(one_of_them):
+        return ""
+
+    return txt
+
+
+def _clean_str_to_str(txt: str) -> str:
+    """ """
+
+    txt = txt.lower().strip()
+    txt = _clean_violation(txt)
+    txt = _force_at_least_2_tokens(txt)
+    txt = _force_good_verbs(txt)
+    txt = txt.lower().strip()
+
+    return txt
+
+
+def _clean_list_to_list(ans_list: list, clean_str=_clean_str_to_str) -> list:
+    """ """
+
+    ans_list = [clean_str(i) for i in ans_list if i.strip()]
 
     return ans_list
 
 
-def clean_ans(ans):
-    """ans is a list of dict. each dict is  : {answer:"foo", score:0.32}.
-    for each dict,  add and _id and a new_ans based on the _you_shall_not_pass method
-    the _you_shall_not_pass method is able to ditect:
-     - completly inconsistant answer, if so the answer is droped
-     - not so consistant answer, or non uniformized answer, if so the new_answer is the -more generic-
-     version of ansxer"""
+def clean_ans(ans, clean_str=_clean_str_to_str, clean_list=_clean_list_to_list):
+    """ """
 
     # ans = copy.deepcopy(ans)
 
     # clean ans
     _ = [d.update({"_id": i}) for i, d in enumerate(ans)]
-    _ = [d.update({"new_answer": _you_shall_not_pass([d["answer"]])}) for d in ans]
+    _ = [d.update({"new_answer": _clean_list_to_list([d["answer"]])}) for d in ans]
 
     new_ans = list()
     for i, d in enumerate(ans):

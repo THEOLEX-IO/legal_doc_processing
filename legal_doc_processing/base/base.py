@@ -14,6 +14,7 @@ class Base:
         self,
         text: str,
         obj_name: str,
+        doctype: str,
         structure_method,
         predict_code_law_violation,
         predict_country_of_violation,
@@ -21,13 +22,16 @@ class Base:
         predict_decision_date,
         predict_defendant,
         predict_extracted_authorities,
-        predict_id,
-        predict_juridiction,
+        predict_extracted_violation,
+        predict_folder,
+        predict_justice_type,
         predict_monetary_sanction,
+        predict_monitor,
+        predict_nature_de_sanction,
         predict_nature_of_violations,
-        predict_plaintiff,
+        predict_penalty_details,
         predict_reference,
-        predict_sentence,
+        predict_type,
         # predict_violation_date,
         file_path: str = None,
         nlpipe=None,
@@ -37,6 +41,7 @@ class Base:
 
         # args as attr
         self.obj_name = obj_name
+        self.doctype = doctype
         self.file_path = os.path.dirname(file_path) if file_path else None
         self.file_name = os.path.basename(file_path) if file_path else None
 
@@ -58,13 +63,16 @@ class Base:
             "decision_date": predict_decision_date,
             "defendant": predict_defendant,
             "extracted_authorities": predict_extracted_authorities,
-            "id": predict_id,
-            "juridiction": predict_juridiction,
+            "extracted_violation": predict_extracted_violation,
+            "folder": predict_folder,
+            "justice_type": predict_justice_type,
             "monetary_sanction": predict_monetary_sanction,
+            "monitor": predict_monitor,
+            "nature_de_sanction": predict_nature_de_sanction,
             "nature_of_violations": predict_nature_of_violations,
-            "plaintiff": predict_plaintiff,
+            "penalty_details": predict_penalty_details,
             "reference": predict_reference,
-            "sentence": predict_sentence,
+            "type": predict_type,
             # "violation_date ": predict_violation_date,
         }
 
@@ -78,21 +86,30 @@ class Base:
 
         ######################
 
+        # WARNING
+        # the order of feature in feature list define the order of preidct methods called
+        # this order is important
+        # ie country of violation depedns of justice_type
+        # penalty depends of violations
         self._feature_list = [
             "_code_law_violation",
             "_currency",
             "_decision_date",
             "_defendant",
             "_extracted_authorities",
-            "_id",
-            "_juridiction",
-            "_monetary_sanction",
+            "_extracted_violation",
+            "_folder",
+            "_justice_type",
+            "_monitor",
+            "_nature_de_sanction",
             "_nature_of_violations",
-            "_plaintiff",
             "_reference",
-            "_sentence",
+            "_type",
+            "_country_of_violation",  # depends of predict authorities
+            "_penalty_details",  # depends of _extracted_violation
+            "_monetary_sanction",  # depends of _penalty_details
+            # depends of predict authorities
             # "_violation_date",
-            "_country_of_violation",
         ]
 
         self.feature_list = [i[1:] for i in self._feature_list]
@@ -127,6 +144,7 @@ class Base:
             # sents
             "h1_sents": self.h1_sents,
             "abstract_sents": self.abstract_sents,
+            "all_text_sents": self.all_text_sents,
             # entities
             "pers_h1": self.pers_h1,
             "pers_abstract": self.pers_abstract,
@@ -171,6 +189,7 @@ class Base:
         self.abstract_sents = [
             i.text for i in self.nlspa(self.abstract).sents if i.text.strip()
         ]
+        self.all_text_sents = []
 
     ######################
 
@@ -199,32 +218,40 @@ class Base:
         return strize(self._extracted_authorities)
 
     @property
-    def id(self):
-        return strize(self._id)
+    def extracted_violation(self):
+        return strize(self._extracted_violation)
 
     @property
-    def juridiction(self):
-        return strize(self._juridiction)
+    def folder(self):
+        return strize(self._folder)
+
+    @property
+    def justice_type(self):
+        return strize(self._justice_type)
 
     @property
     def monetary_sanction(self):
         return strize(self._monetary_sanction)
 
     @property
+    def nature_de_sanction(self):
+        return strize(self._nature_de_sanction)
+
+    @property
     def nature_of_violations(self):
         return strize(self._nature_of_violations)
 
     @property
-    def plaintiff(self):
-        return strize(self._plaintiff)
+    def penalty_details(self):
+        return strize(self._penalty_details)
 
     @property
     def reference(self):
         return strize(self._reference)
 
     @property
-    def sentence(self):
-        return strize(self._sentence)
+    def type(self):
+        return strize(self._type)
 
     @property
     def violation_date(self):
@@ -237,6 +264,11 @@ class Base:
 
         if feature == "all":
             return self.predict_all()
+
+        # extracted_violation need penalty_details
+        if feature == "penalty_details":
+            val = self._predict["extracted_violation"](self.data)
+            setattr(self, "_extracted_violation", val)
 
         if feature in self.feature_list:
             # try:

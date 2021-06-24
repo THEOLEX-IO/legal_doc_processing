@@ -14,6 +14,7 @@ class Base:
         self,
         text: str,
         obj_name: str,
+        doctype: str,
         structure_method,
         predict_code_law_violation,
         predict_country_of_violation,
@@ -40,6 +41,7 @@ class Base:
 
         # args as attr
         self.obj_name = obj_name
+        self.doctype = doctype
         self.file_path = os.path.dirname(file_path) if file_path else None
         self.file_name = os.path.basename(file_path) if file_path else None
 
@@ -84,6 +86,11 @@ class Base:
 
         ######################
 
+        # WARNING
+        # the order of feature in feature list define the order of preidct methods called
+        # this order is important
+        # ie country of violation depedns of justice_type
+        # penalty depends of violations
         self._feature_list = [
             "_code_law_violation",
             "_currency",
@@ -93,14 +100,15 @@ class Base:
             "_extracted_violation",
             "_folder",
             "_justice_type",
-            "_monetary_sanction",
             "_monitor",
             "_nature_de_sanction",
             "_nature_of_violations",
-            "_penalty_details",
             "_reference",
             "_type",
             "_country_of_violation",  # depends of predict authorities
+            "_penalty_details",  # depends of _extracted_violation
+            "_monetary_sanction",  # depends of _penalty_details
+            # depends of predict authorities
             # "_violation_date",
         ]
 

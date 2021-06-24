@@ -19,6 +19,7 @@ class PressRelease(Base):
             self,
             text=text,
             obj_name="PressRelease",
+            doctype="press",
             structure_method=structure_press_release,
             predict_code_law_violation=predict_code_law_violation,
             predict_country_of_violation=predict_country_of_violation,
@@ -104,6 +105,5 @@ if __name__ == "__main__":
     _df = df.drop(cols, axis=1, inplace=False)
     _df.to_csv("./press_release.csv", index=False)
 
-    df["_pred_monitor"] = [bool(i) for i in df.pred_monitor.apply(int).values]
-
-    df.loc[df._pred_monitor, "folder"].values
+    # df["_pred_monitor"] = [bool(i) for i in df.pred_monitor.apply(int).values]
+    # df.loc[df._pred_monitor, "folder"].values

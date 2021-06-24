@@ -63,7 +63,9 @@ def _clean_str_to_str(txt: str, defendants: bool) -> str:
 def _clean_list_to_list(ans_list: list, defendants=True) -> list:
     """ """
 
-    ans_list = [_clean_str_to_str(i, defendants=defendants) for i in ans_list]
+    ans_list = [
+        _clean_str_to_str(i, defendants=defendants) for i in ans_list if i.lower()
+    ]
 
     return ans_list
 

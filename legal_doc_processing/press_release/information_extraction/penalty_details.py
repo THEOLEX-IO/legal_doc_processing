@@ -1,11 +1,7 @@
 from legal_doc_processing.utils import uniquize as _u
 
 from legal_doc_processing.utils import merge_ans, ask_all
-
-# from legal_doc_processing.press_release.clean.nature_of_violations import (
-#     _you_shall_not_pass,
-#     clean_ans,
-# )
+from legal_doc_processing.press_release.clean.penalty_details import clean_ans
 
 
 def _question_helper(txt):
@@ -16,9 +12,11 @@ def _question_helper(txt):
 
     k_list = ["require", "impose", "order", "pay", "forbid"]
 
-    for k in k_list:
-        if k in _txt:
-            res.append(k)
+    # for k in k_list:
+    #     if k in _txt:
+    #         res.append(k)
+
+    res = [k for k in k_list if k in _txt]
 
     return res
 
@@ -78,13 +76,15 @@ def _question_selector(key: str):
         ]
     )
 
-    return qs
+    return _u(qs)
 
 
 def predict_penalty_details(obj: dict, threshold=0.4, n_sents: int = 5) -> list:
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
-    # pers_org_entities_list
+    # extracted_violation
+    extracted_violation = obj["_feature_dict"]["extracted_violation"]
+    extracted_violation = [i.lower().strip() for i, j in extracted_violation]
 
     # items
     h1, abstract = obj["h1"], obj["abstract"]
@@ -108,8 +108,8 @@ def predict_penalty_details(obj: dict, threshold=0.4, n_sents: int = 5) -> list:
             ans.extend(ask_all(sent, quest_pairs, nlpipe=obj["nlpipe"]))
 
     # clean ans
-    cleaned_ans = ans
-    answer_label = "answer"
+    cleaned_ans = clean_ans(ans)
+    answer_label = "new_answer"
     if not len(cleaned_ans):
         cleaned_ans = [{answer_label: "--None--", "score": -1}]
 
@@ -117,13 +117,15 @@ def predict_penalty_details(obj: dict, threshold=0.4, n_sents: int = 5) -> list:
     merged_ans = merge_ans(cleaned_ans, label=answer_label)
 
     # filert by spacy entities
-    consitant_ans = [i for i in merged_ans if i[answer_label]]
+    consitant_ans = [
+        i for i in merged_ans if i[answer_label] if i not in extracted_violation
+    ]
 
     # filter by threshold
     flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]
     last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
 
-    return last_ans
+    return [i.lower() for i in last_ans]
 
 
 if __name__ == "__main__":

@@ -22,6 +22,7 @@ class Decision(Base):
             self,
             text="",
             obj_name="Decision",
+            doctype="both"
             structure_method=str.upper,
             predict_code_law_violation=predict_code_law_violation,
             predict_country_of_violation=predict_country_of_violation,

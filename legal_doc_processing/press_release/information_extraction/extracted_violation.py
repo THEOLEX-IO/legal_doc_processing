@@ -199,7 +199,7 @@ def predict_extracted_violation(obj: dict, threshold=0.4, n_sents: int = 5) -> l
     flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]
     last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
 
-    return last_ans
+    return [i.lower() for i in last_ans]
 
 
 if __name__ == "__main__":

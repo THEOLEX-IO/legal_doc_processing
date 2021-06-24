@@ -1,12 +1,12 @@
 import os
 
 
-def predict_id(obj: dict) -> list:
+def predict_folder(obj: dict) -> list:
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
-    _id = obj["struct_text"]["id"]
-    _id = _id.split(" ")[-1]
-    return [(_id, 1)]
+    _folder = obj["struct_text"]["folder"]
+    _folder = _folder.split(" ")[-1]
+    return [(_folder, 1)]
 
 
 # if __name__ == "__main__":

@@ -140,6 +140,14 @@ def _question_selector(key: str):
             ]
         )
 
+    qs.extend(
+        [
+            ("What was the bad action?", "what_payement"),
+            ("What has he done wrong?", "what_payement"),
+            ("What have they done wrong?", "what_payement"),
+        ]
+    )
+
     return qs
 
 

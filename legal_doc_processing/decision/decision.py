@@ -29,7 +29,7 @@ class Decision(Base):
             predict_decision_date=predict_decision_date,
             predict_defendant=predict_defendant,
             predict_extracted_authorities=predict_extracted_authorities,
-            predict_id=predict_id,
+            predict_folder=predict_folder,
             predict_juridiction=predict_juridiction,
             predict_monetary_sanction=predict_monetary_sanction,
             predict_nature_of_violations=predict_nature_of_violations,

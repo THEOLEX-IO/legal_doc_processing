@@ -110,6 +110,12 @@ def _question_selector(key: str) -> list:
             ]
         )
 
+    qs.extend(
+        [
+            ("What is the juriction?", "who_victim"),
+        ]
+    )
+
     return qs
 
 

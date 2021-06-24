@@ -21,7 +21,7 @@ class Base:
         predict_decision_date,
         predict_defendant,
         predict_extracted_authorities,
-        predict_id,
+        predict_folder,
         predict_juridiction,
         predict_monetary_sanction,
         predict_nature_of_violations,
@@ -58,7 +58,7 @@ class Base:
             "decision_date": predict_decision_date,
             "defendant": predict_defendant,
             "extracted_authorities": predict_extracted_authorities,
-            "id": predict_id,
+            "folder": predict_folder,
             "juridiction": predict_juridiction,
             "monetary_sanction": predict_monetary_sanction,
             "nature_of_violations": predict_nature_of_violations,
@@ -84,7 +84,7 @@ class Base:
             "_decision_date",
             "_defendant",
             "_extracted_authorities",
-            "_id",
+            "_folder",
             "_juridiction",
             "_monetary_sanction",
             "_nature_of_violations",
@@ -199,7 +199,7 @@ class Base:
         return strize(self._extracted_authorities)
 
     @property
-    def id(self):
+    def folder(self):
         return strize(self._id)
 
     @property

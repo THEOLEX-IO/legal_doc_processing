@@ -16,7 +16,9 @@ from legal_doc_processing.press_release.information_extraction.defendant import 
 from legal_doc_processing.press_release.information_extraction.extracted_authorities import (
     predict_extracted_authorities,
 )
-from legal_doc_processing.press_release.information_extraction.id import predict_id
+from legal_doc_processing.press_release.information_extraction.folder import (
+    predict_folder,
+)
 from legal_doc_processing.press_release.information_extraction.juridiction import (
     predict_juridiction,
 )

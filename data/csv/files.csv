@@ -95,7 +95,7 @@ pr7693-18,press-release.txt,press,AMP Global Clearing LLC,?,CFTC,100000,?
 8005-19,press-release.txt,press,"mere Lynch, Pierce, Fenner & Smith neorporated,Proceedings Clerk",?,CFTC,300000,?
 8371-21,order-benjamin-reynolds.txt,order,"USDC SDNY SOUTHERN DISTRICT OF NEW YORK DOCUMENT
 ELECTRONICALLY FILED",?,CFTC,142986589,?
-8371-21,,press,"USDC SDNY SOUTHERN DISTRICT OF NEW YORK DOCUMENT
+8371-21,press-release.txt,press,"USDC SDNY SOUTHERN DISTRICT OF NEW YORK DOCUMENT
 ELECTRONICALLY FILED",?,CFTC,142986589,?
 7454-16,order-wells-fargo-bank-n-a.txt,order,"Wells Fargo Bank,N.A",?,CFTC,400000,?
 7454-16,press-release.txt,press,"Wells Fargo Bank,N.A",?,CFTC,400000,?

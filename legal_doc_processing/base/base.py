@@ -265,6 +265,12 @@ class Base:
         if feature == "all":
             return self.predict_all()
 
+        # TODO PLEASE UNCOMMENT
+        # extracted_authorities need country_of_violation
+        # if feature == "country_of_violation":
+        #     val = self._predict["extracted_authorities"](self.data)
+        #     setattr(self, "_extracted_authorities", val)
+
         # extracted_violation need penalty_details
         if feature == "penalty_details":
             val = self._predict["extracted_violation"](self.data)

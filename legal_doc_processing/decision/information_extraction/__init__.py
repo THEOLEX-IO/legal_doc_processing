@@ -33,6 +33,12 @@ from legal_doc_processing.decision.information_extraction.folder import (
 # from legal_doc_processing.decision.information_extraction.juridiction import (
 #     predict_juridiction,
 # )
+
+from legal_doc_processing.decision.information_extraction.justice_type import (
+    predict_justice_type,
+)
+
+
 from legal_doc_processing.decision.information_extraction.monitor import (
     predict_monitor,
 )

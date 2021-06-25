@@ -6,30 +6,33 @@ def predict_defendant(
     press: dict,
     legal: dict,
     threshold: float = 0.1,
-    softmax_threshold: float = 0.1,
+    softmax_threshold: float = 0.2,
 ) -> list:
     """ """
 
+    press_def = press["_defendant"]
+    legal_def = legal["_defendant"]
+
     ans = []
 
-    print(press["_defendant"])
-    print(legal["_defendant"])
+    print(press_def)
+    print(legal_def)
 
     # both null
-    if (not press["_defendant"]) and not (legal["_defendant"]):
+    if (not press_def) and not (legal_def):
         ans = [(-1, -1)]
     # one null
-    elif not press["_defendant"]:
-        ans = legal["_defendant"]
-    elif not (legal["_defendant"]):
-        ans = press["_defendant"]
+    elif not press_def:
+        ans = legal_def
+    elif not (legal_def):
+        ans = press_def
 
     if ans:
         print(str(ans) + "\n")
         return ans
 
     # join preds
-    all_def = press["_defendant"] + legal["_defendant"]
+    all_def = press_def + legal_def
 
     # non null
     selected_def = [(i, j) for i, j in all_def if j > 0.1]
@@ -45,8 +48,8 @@ def predict_defendant(
     twos = [i for i, j in counter.items() if j > 1]
 
     # both the same
-    if len(press["_defendant"]) == len(legal["_defendant"]):
-        if len(twos) == len(press["_defendant"]):
+    if len(press_def) == len(legal_def):
+        if len(twos) == len(press_def):
             both = [{"answer": i, "score": j} for i, j in selected_def]
             merged_both = merge_ans(both, "answer")
             ans = [(i["answer"], i["cum_score"]) for i in merged_both]
@@ -56,10 +59,10 @@ def predict_defendant(
         return ans
 
     # softmax
-    keys, values = zip(*press["_defendant"])
+    keys, values = zip(*press_def)
     _values = [round(i, 4) for i in softmax(values)]
     softmax_press = zip(keys, _values)
-    keys, values = zip(*legal["_defendant"])
+    keys, values = zip(*legal_def)
     _values = [round(i, 4) for i in softmax(values)]
     softmax_legal = zip(keys, _values)
 

@@ -22,6 +22,7 @@ class LegalDoc(Base):
             text=text,
             obj_name="LegalDoc",
             doctype="order",
+            structure_method=structure_legal_doc,
             predict_code_law_violation=predict_code_law_violation,
             predict_country_of_violation=predict_country_of_violation,
             predict_currency=predict_currency,

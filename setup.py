@@ -13,7 +13,7 @@ REQUIRED = [
 
 setuptools.setup(
     name="legal_doc_processing",
-    version=Version("1.2.2").number,
+    version=Version("2.0.0").number,
     description="Theolex document processing",
     long_description=open("README.md").read().strip(),
     long_description_content_type="text/x-rst",

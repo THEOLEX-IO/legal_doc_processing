@@ -1,105 +1,79 @@
-import os
+from itertools import product
 
 import pandas as pd
 
-from legal_doc_processing.utils import load_data, make_dataframe
+from legal_doc_processing.utils import (
+    _if_not_spacy,
+    _if_not_pipe,
+    # get_pers,
+    # get_orgs,
+    get_label_,
+    _ask,
+)
 
 
-def load_press_release_files(path="./data/files"):
-    """os list dir files press and .txt """
+def product_juridiction_pairs():
 
-    path = path[:-1] if path[-1] == "/" else path
-
-    # file list
-    folder_list = os.listdir(path)
-    files_list = [
-        [
-            f"{path}/{f}/{i}"
-            for i in os.listdir(f"{path}/{f}")
-            if ("press" in i) and ("txt" in i)
-        ]
-        for f in folder_list
+    cftc_cands = [
+        "cftc",
+        "Commodity Futures Trading Commission",
+        "c.f.t.c",
+        "the Commodity Futures Trading Commission",
     ]
-    files_list = [i[0] for i in files_list]
-
-    return files_list
-
-
-def load_press_release_text_list(path="./data/files"):
-    """load_press_release_files and load data"""
-
-    files_list = load_press_release_files(path)
-    press_txt_list = [load_data(i) for i in files_list]
-
-    return press_txt_list
-
-
-def press_release_X_df(path="./data/files"):
-
-    path = path[:-1] if path[-1] == "/" else path
-
-    folder_list = os.listdir(f"{path}")
-    files_list = [i.split("/")[-1] for i in load_press_release_files(path)]
-    press_txt_list = load_press_release_text_list(path)
-
-    df = [
-        {"folder": i, "filename": j, "txt": k}
-        for i, j, k in zip(folder_list, files_list, press_txt_list)
+    doj_cands = ["doj", "department of justice", "d.o.j.", "the department of justice"]
+    sec_cands = [
+        "sec",
+        "Securities and Exchange Commission",
+        "s.e.c.",
+        "the Securities and Exchange Commission",
     ]
 
-    return pd.DataFrame(df)
+    cands = dict()
+    for k, _list in [("cftc", cftc_cands), ("doj", doj_cands), ("sec", sec_cands)]:
+        dd = {i.lower().strip(): k.lower().strip() for i in _list}
+        cands.update(dd)
+
+    return cands
 
 
-def press_release_y_df(path: str = "./data/csv/files.csv", features=None):
-    "take data/csv/files.csv, make a df, select press and select releveant features"
+def product_juridic_form():
+    """ make a list of llc, LLC, LLC. etc etc """
 
-    df = make_dataframe(path)
-    _df = df.loc[df.doctype == "press", :]
-    if not features:
-        return _df
-    if isinstance(features, str):
-        f = [
-            "folder",
-            "filename",
-            features,
-        ]
-        return _df.loc[:, f]
+    # cands
+    cands = ["inc", "llc", "ltd", "corp"]
 
-    if isinstance(features, list):
-        f = [
-            "folder",
-            "filename",
-        ]
-        f.extend(features)
-        return _df.loc[:, f]
+    # conatiner
+    llc_list = list()
 
-    return "--None--"
+    # for each
+    for i in cands:
+        # various case
+        sample = [str(i), str(i).lower(), str(i).capitalize(), str(i).upper()]
+        # case * -- point ou pas -- * --  espace, ou pas --
+        sample = product(sample, [", ", " ", ""], [".", ""])
+        sample = [str(j + i + k) for i, j, k in sample]
+        # extend
+        llc_list.extend(sample)
+
+    # sorted reverse lengt
+    llc_list = [(len(i), i) for i in llc_list]
+    llc_list = sorted(llc_list, reverse=True, key=lambda i: i[0])
+    llc_list = [i[1] for i in llc_list]
+
+    return llc_list
 
 
-def press_release_X_y(root: str = "./data", features=None):
-    """df X and df y, merge and return  """
+def get_entities_pers_orgs(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None) -> list:
+    """get entities PERSON and ORG from h1 and sub_article """
 
-    # clean root
-    root = root[:-1] if root[-1] == "/" else root
+    nlpspa = _if_not_spacy(nlpspa)
 
-    # init X and y
-    X = press_release_X_df(f"{root}/files")
-    y = press_release_y_df(f"{root}/csv/files.csv", features)
+    # sub article
+    sub_article = "\n".join(struct_doc["article"].split("\n")[:n_paragraphs])
 
-    # be sure same length
-    assert len(X) == len(y)
+    # all pers all orgs from spacy entities
+    all_pers = get_pers(struct_doc["h1"], nlpspa) + get_pers(sub_article, nlpspa)
+    all_orgs = get_orgs(struct_doc["h1"], nlpspa) + get_orgs(sub_article, nlpspa)
+    pers_org_entities_list = all_pers + all_orgs
 
-    # drop filename
-    X.drop("filename", axis=1, inplace=True)
-    y.drop("filename", axis=1, inplace=True)
-
-    # merge
-    X_y = pd.merge(X, y, how="inner", on="folder")
-
-    # same length
-    assert len(X_y) == len(X)
-
-    X_y = X_y.sort_values("folder", ascending=True)
-    X_y.index = range(len(X_y))
-
-    return X_y
+    return pers_org_entities_list

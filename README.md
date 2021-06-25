@@ -49,15 +49,17 @@ this command will download data collections and mandory web assets, it can take 
 ----------------------------------------------------
 <br>
 
-There is 2 main modules in legal-doc-processing : 
-- ld for LegalDoc objects ie order, complaint, etc etc official documents
-- pr for PressRelease objects for legal press release related to each case
+There is 3 main modules in legal-doc-processing : 
+- legal_doc for LegalDoc objects ie order, complaint, etc etc official documents
+- press_release for PressRelease objects for legal press release related to each case
+- decision for both LegalDoc and PressRelease documents. The Decision object is able to read both, make prediction from both documents and merge/clean prediction of both documents. If just one of them, the object will apply basic method based on LegalDoc or PressRelease object
 
 so you can 
 ```
 from legal_doc_processing import *  # import all
-from legal_doc_processing import ld # import legal document module
-from legal_doc_processing import pr # import press release module
+from legal_doc_processing import legal_doc # import legal document module
+from legal_doc_processing import press_release # import press release module
+from legal_doc_processing import decision # import decision module
 ```
 <br>
 
@@ -67,20 +69,23 @@ youn can init an object in 2 ways.
 ```
 from legal_doc_processing import ld
 doc = ld.LegalDoc("this is a document")
+# or better
+doc = ld.from_text("this is a document")
 ```
 * with path to a file
 ```
-doc = ld.read_LegalDoc("this/is/my/file.txt")
+doc = ld.from_file("this/is/my/file.txt")
 ```
 
 for press release, same pattern: 
 ```
 from legal_doc_processing import pr
 press = ld.PressRelease("this is a press release")
+press = ld.from_text("this is a press release")
 ```
 * with path to a file
 ```
-press = ld.read_PressRelease("this/is/my/file.txt")
+press = ld.from_file("this/is/my/file.txt")
 ```
 
 once instanciated, you can print : 
@@ -118,8 +123,15 @@ of course most easy is to predict all :
 features = doc.predict("all")
 print(features)
 print(doc)
-print(doc.feature_dict)
 ```
+<br>
+
+you can acces to final predictions or detailed prediction: 
+```
+print(doc.feature_dict) # just the results
+print(doc._feature_dict) # results + score for each result
+```
+
 <br>
 <br>
 

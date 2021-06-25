@@ -1,143 +1,187 @@
-import os
+from legal_doc_processing.utils import uniquize as _u
 
-import pandas as pd
+from legal_doc_processing.utils import merge_ans, ask_all
 
-from legal_doc_processing.utils import (
-    _if_not_pipe,
-    _ask,
+from legal_doc_processing.legal_doc.clean.defendant import (
+    clean_ans,
+    _sub_you_shall_not_pass,
 )
 
 
-def _ask_all(txt, nlpipe) -> list:
-    """asl all questions and return a list of dict """
+def _question_helper(txt) -> list:
+    """txt"""
 
-    # txt
-    if not txt:
-        raise AttributeError(f"Attribute error txt ; txt is {txt}, format {type(txt)}")
+    _txt = txt.lower()
+    res = list()
 
-    # pipe
-    nlpipe = _if_not_pipe(nlpipe)
-
-    # ans
-    ans = []
-
-    # question, funct
-    quest_pairs = [
-        # ("Who is charged?", "ask_who_charged"),
-        ("Who is the against?", "ask_who_against"),
-        # ("Who is the victim?", "ask_who_victim"),
-        # ("Who is the defendant?", "ask_who_defendant"),
-        ("Who violated?", "ask_who_violated"),
-        # ("Who has to pay?", "ask_who_pay"),
-        # ("Who is accused?", "ask_who_accused"),
+    k_list = [
+        "accused",
+        "defendant",
+        "violate",
+        "against",
+        "filed",
+        "judgement",
+        "complaint",
     ]
+    for kk in k_list:
+        if kk in _txt:
+            res.append(kk)
 
-    # loop
-    for quest, label in quest_pairs:
-        ds = _ask(txt=txt, quest=quest, nlpipe=nlpipe)
-        _ = [d.update({"question": label}) for d in ds]
-        ans.extend(ds)
-
-    # sort
-    ans = sorted(ans, key=lambda i: i["score"], reverse=True)
-
-    # clean manuals
-    ans = [i for i in ans if (i["answer"].lower() != "defendants")]
-    ans = [i for i in ans if (i["answer"].lower() != "cftc")]
-
-    return ans
+    return res
 
 
-def _clean_ans(ans, threshold=0.00):
-    """ """
+def _question_selector(key: str) -> list:
+    """based on a key from _question helper find the list of good question to ask """
 
-    # build dataframe
-    df = pd.DataFrame(ans)
-    df = df.loc[:, ["score", "answer"]]
+    qs = list()
 
-    # group by ans and make cumutavie score of accuracy
-    ll = [
-        {"answer": k, "cum_score": v.score.sum()}
-        for k, v in df.groupby("answer")
-        if v.score.sum() > threshold
-    ]
-    ll = sorted(ll, key=lambda i: i["cum_score"], reverse=True)
+    if "accuse" in key:
+        qs.extend(
+            [
+                ("Who is the accused?", "who_accused"),
+                ("Who are the accused?", "who_accuseds"),
+            ]
+        )
+    if "defendant" in key:
+        qs.extend(
+            [
+                ("Who is the defendant?", "who_defendant"),
+                ("Who are the defendants?", "who_defendants"),
+                # ("what are the defendants?", "what_defendant"),
+                # ("what is the defendant?", "what_defendant"),
+            ]
+        )
+    if "violat" in key:
+        qs.extend(
+            [
+                ("Who is the violator?", "what_violator"),
+                ("Who have made the violation?", "what_violator"),
+                ("Who has made the violation?", "what_violator"),
+                ("Who are the violators?", "what_violators"),
+                # ("What is the violator?", "what_violator"),
+                # ("What are the violators?", "what_violators"),
+            ]
+        )
+    if "against" in key:
+        qs.extend(
+            [
+                ("Who is the victim", "what_against"),
+                ("Against who is the action?", "what_against"),
+                ("Who is the action against to?", "what_against"),
+                ("Against who?", "what_againsts"),
+                # ("What is the violator?", "what_violator"),
+                # ("What are the violators?", "what_violators"),
+            ]
+        )
+    if "filed" in key:
+        qs.extend(
+            [
+                ("Who recieve a complaint?", "what_violator"),
+                ("Who is accused?", "what_violator"),
+                ("Against who is the complaint?", "what_violator"),
+                # ("Who are the violators?", "what_violators"),
+                # ("What is the violator?", "what_violator"),
+                # ("What are the violators?", "what_violators"),
+            ]
+        )
+    if "judgement" in key:
+        qs.extend(
+            [
+                ("Who is pursued?", "what_judgement"),
+                ("Who is inculpated?", "what_judgement"),
+                ("Who is under judgement?", "what_judgement"),
+                ("Who is accused?", "what_judgement"),
+                ("Against who is the judgement?", "what_judgement"),
+                # ("What is the violator?", "what_violator"),
+                # ("What are the violators?", "what_violators"),
+            ]
+        )
+    if "complaint" in key:
+        qs.extend(
+            [
+                ("Who is accused?", "what_judgement"),
+                ("Who is inculpated?", "what_judgement"),
+                ("Who is under judgement?", "what_judgement"),
+                ("Who recieved a complaint ?", "what_judgement"),
+                ("Against who is the complaint?", "what_judgement"),
+            ]
+        )
+    return qs
 
-    return ll
 
-
-def predict_defendant(cleaned_legal_doc: list, nlpipe=None):
+def predict_defendant(obj: dict, threshold=0.2, n_sents: int = 5) -> list:
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
-    # pipe
-    nlpipe = _if_not_pipe(nlpipe)
+    # pipe to avoid re init a pipe each time (+/- 15 -> 60 sec)
+    nlpipe, nlspa = obj["nlpipe"], obj["nlspa"]
 
-    # prepar
-    fp_55_legal_doc = [i for i in cleaned_legal_doc if len(i) > 55]
+    # pers_org_all
+    pers_org_all = obj["pers_org_all"] + _u(_sub_you_shall_not_pass(obj["pers_org_all"]))
+    pers_org_all = _u(pers_org_all)
 
-    if not fp_55_legal_doc:
-        raise AttributeError(
-            f"fp_55_legal_doc invalid : len is {len(fp_55_legal_doc)}, 1st item is {fp_55_legal_doc[0]}, fp_55_legal_doc is {fp_55_legal_doc}"
-        )
+    # items
+    h1, abstract = obj["h1"], obj["abstract"]
+    abstract_sents = obj["abstract_sents"][:n_sents]
+    ans = []
 
-    txt = " ".join(fp_55_legal_doc)
-    if not txt:
-        raise AttributeError(
-            f"txt invalid : len is {len(txt)}, 1st item is {txt[0]}, txt is {txt}"
-        )
+    # ask method
+    for sent in abstract_sents:
+        key_list = _question_helper(sent)
+        for key in key_list:
+            # from key to questions and from questions to answers
+            quest_pairs = _u(_question_selector(key))
+            ans.extend(ask_all(sent, quest_pairs, nlpipe=nlpipe))
 
-    # print(txt)
-    # ask all and get all possible response
-    ans = _ask_all(txt, nlpipe)
+    # clean ans
+    cleaned_ans = clean_ans(ans)
+    answer_label = "new_answer"
+    if not len(cleaned_ans):
+        cleaned_ans = [{answer_label: "--None--", "score": -1}]
 
-    # group by ans, make cumulative sum of accuracy for eash ans and filter best ones
-    ll = _clean_ans(ans)
+    # merge ans
+    merged_ans = merge_ans(cleaned_ans, label=answer_label)
 
-    # reponse
-    resp = ", ".join([i["answer"] for i in ll])
+    # filert by spacy entities
+    consitant_ans = [i for i in merged_ans if i[answer_label] in pers_org_all]
 
-    return resp
+    # filter by threshold
+    flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]
+    last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
+
+    return last_ans
 
 
 if __name__ == "__main__":
 
     # import
-    from legal_doc_processing.utils import *
-    from legal_doc_processing.legal_doc.utils import *
-    from legal_doc_processing.legal_doc.segmentation.clean import clean_doc
+    import time
+    from legal_doc_processing.utils import get_pipeline, get_spacy
+    from legal_doc_processing.legal_doc.loader import legal_doc_X_y
+    from legal_doc_processing.legal_doc.legal_doc import LegalDoc
 
-    # from legal_doc_processing.legal_doc.segmentation.structure import (
-    #     structure_legal_doc,
-    # )
+    # laod
+    nlpipe = get_pipeline()
+    nlspa = get_spacy()
+    nlspa.add_pipe("sentencizer")
 
-    # # pipe
-    # nlpipe = get_pipeline()
+    # data
+    threshold = 0.2
+    n_sents = 7
+    feature = "defendant"
 
-    # # clean_legal_doc_list
-    # legal_doc_txt_list = load_legal_doc_text_list()
-    # clean_legal_doc_list = [clean_doc(i) for i in legal_doc_txt_list]
+    # structured_press_release_r
+    df = legal_doc_X_y(features="defendant")
+    df = df.iloc[:2, :]
+    df["obj"] = [LegalDoc(i, nlpipe=nlpipe, nlspa=nlspa) for i in df.txt.values]
 
-    # # test one
-    # cleaned_legal_doc = clean_legal_doc_list[0]
-    # # p0_p1 = []
-    # # _ = [p0_p1.append(i) for i in cleaned_legal_doc[0]]
-    # # _ = [p0_p1.append(i) for i in cleaned_legal_doc[1]]
-    # # p0_p1
+    # preds
+    t = time.time()
+    # 28 objects --> 181 secondes so --> +/-10 secondes per objects
+    df["pred_" + feature] = df.obj.apply(lambda i: i.predict(feature))
+    t = time.time() - t
 
-    # # fp_legal_doc = p0_p1
-    # fp = cleaned_legal_doc[0]
-    # fp_55_legal_doc = [i for i in fp if len(i) > 55]
-    # txt = " ".join(fp_55_legal_doc)
-
-    # # all_ans_dot = _ask_all(".".join(cleaned_legal_doc[0]), nlpipe)
-    # all_ans_space = _ask_all(txt, nlpipe)
-
-    # # all_ans_h2 = _ask_all(cleaned_legal_doc["h2"], nlpipe)
-    # # all_ans_article = _ask_all(cleaned_legal_doc["article"], nlpipe)
-
-    # ans = predict_defendant(fp, nlpipe)
-
-    # # # test others
-    # # ans_list = [predict_plaintiff(p, nlpipe) for p in clean_legal_doc_list]
-    # # clean_ans_list = [[d["answer"] for d in ll] for ll in ans_list]
-    # # clean_ans_list = [", ".join(ll) for ll in clean_ans_list]
+    # 1st one
+    one = df.iloc[0, :]
+    one_txt = one.txt
+    one_ob = self = one.obj
+    obj = self.data_

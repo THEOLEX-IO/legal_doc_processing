@@ -27,76 +27,76 @@ folder,filename,doctype,defendant,extracted_authorities,monetary_sanction,-- VIO
 7235-15,press-release.txt,press,Robert M. McMahon,CFTC,171000,?,$,United States of America
 7240-15,order-teraexchange-llc.txt,order,TeraExchange,CFTC,-1,?,$,United States of America
 7240-15,press-release.txt,press,TeraExchange,CFTC,-1,?,$,United States of America
+7249-15,order-global-consortiums-llc.txt,order,"Global Consurtiums ,Michael E. Simmons",CFTC,360000,?,$,United States of America
+7249-15,press-release.txt,press,"Global Consurtiums ,Michael E. Simmons",CFTC,360000,?,$,United States of America
 7253-15,order-barbara-cohen-and-pure-reason-llc.txt,order,"Barbara Cohen,Pure Reason",CFTC,140000,?,$,United States of America
 7253-15,press-release.txt,press,"Barbara Cohen,Pure Reason",CFTC,140000,?,$,United States of America
+7259-15,order-direct-investment-products-inc-and-alexander-glytenko.txt,order,"DIRECT INVESTMENT PRODUCTS,ALEXANDER GLYTENKO",CFTC,2459633,?,$,United States of America
+7259-15,press-release.txt,press,"DIRECT INVESTMENT PRODUCTS,ALEXANDER GLYTENKO",CFTC,2459633,?,$,United States of America
+7288-15,order-sharpe-signa-llc-haeres-capital-llc-and-garen-ovsepyan.txt,order,Haeres Capital,CFTC,70000,?,$,United States of America
+7288-15,press-release.txt,press,Haeres Capital,CFTC,70000,?,$,United States of America
+7344-16,order-equinox-fund-management-llc.txt,order,Equinox Fund Management,CFTC,250000,?,$,United States of America
+7344-16,press-release.txt,press,Equinox Fund Management,CFTC,250000,?,$,United States of America
 7345-16,order-credit-suisse-international-and-credit-suisse-securities-usa-llc.txt,order,"Credit Suisse International,Credit Suisse Securities",CFTC,665000,?,$,United States of America
 7345-16,press-release.txt,press,"Credit Suisse International,Credit Suisse Securities",CFTC,665000,?,$,United States of America
+7371-16,order-citibank-n-a.txt,order,"Citibank,N.A",CFTC,250000000,?,$,United States of America
+7371-16,press-release.txt,press,"Citibank,N.A",CFTC,250000000,?,$,United States of America
 7407-16,order-atlantas-group-inc-and-edmund-hysni.txt,order,"Atlantas Group,Edmund Hysni",CFTC,7200000,?,$,United States of America
 7407-16,press-release.txt,press,"Atlantas Group,Edmund Hysni",CFTC,7200000,?,$,United States of America
 7426-16,order-robert-s-leben-and-amy-l-leben.txt,order,"Robert S. Leben,Amy L. Leben",CFTC,10000000,?,$,United States of America
 7426-16,press-release.txt,press,"Robert S. Leben,Amy L. Leben",CFTC,10000000,?,$,United States of America
+7454-16,order-wells-fargo-bank-n-a.txt,order,Wells Fargo Bank,CFTC,400000,?,$,United States of America
+7454-16,press-release.txt,press,Wells Fargo Bank,CFTC,400000,?,$,United States of America
+7515-17,order-cncgc-hong-kong-ltd.txt,order,CNCGC HONG KONG,,150000,?,$,United States of America
+7515-17,press-release.txt,press,CNCGC HONG KONG ,CFTC,150000,?,$,United States of America
+7591-17,order-arthur-toole-iii-billionaire-investor-group-llc-et-al-txt,order,"Arthur Toole III,Georgia, and his companies,Billionaire Investor Group,Toole Group Inc,Catalyst Traders LLC",CFTC,493000,?,$,United States of America
+7591-17,press-release.txt,press,"Arthur Toole III,Georgia, and his companies,Billionaire Investor Group,Toole Group Inc,Catalyst Traders LLC",CFTC,493000,?,$,United States of America
+7591-17,order-arthur-toole-iii-billionaire-investor-group-llc-et-al.txt,order,"ARTHUR TOOLE ITI,NG,BILLIONAIRE INVESTOR GROUP,THE TOOLE GROUP,CATALYST TRADERS",CFTC,293141,?,$,United States of America
+7591-17,press-release.txt,press,"ARTHUR TOOLE ITI,NG,BILLIONAIRE INVESTOR GROUP,THE TOOLE GROUP,CATALYST TRADERS",CFTC,293141,?,$,United States of America
 7594-17,order-simon-posen.txt,order,Simon Posen,CFTC,635000,?,$,United States of America
 7594-17,press-release.txt,press,Simon Posen,CFTC,635000,?,$,United States of America
+7627-17,order-arab-global-commodities-dmcc.txt,order,Arab Global Commodities,CFTC,300000,?,$,United States of America
+7627-17,press-release.txt,press,"Arab Global Commodities
+",,300000,?,$,United States of America
+7736-18,order-societe-generale-s-a.txt,order,Société Générale,CFTC,475000000,?,$,United States of America
+7736-18,order-societe-generale-s-a.txt,press,Société Générale,CFTC,475000000,?,$,United States of America
 7776-18,order-bnp-paribas-securities-corp.txt,order,"BNP Paribas,BNP Paribas Securities",CFTC,90000000,?,$,United States of America
 7776-18,press-release.txt,press,"BNP Paribas,BNP Paribas Securities",CFTC,90000000,?,$,United States of America
+7788-18,order-natwest-markets-plc.txt,order,"NatWest Markets,formerly The Royal Bank of Scotland",CFTC,750000,?,$,United States of America
+7788-18,press-release.txt,press,"NatWest Markets,formerly The Royal Bank of Scotland",CFTC,750000,?,$,United States of America
+7837-18,order-commerzbank-ag.txt,order,Commerzbank,CFTC,12000000,?,$,United States of America
+7837-18,press-release.txt,press,Commerzbank,CFTC,12000000,?,$,United States of America
 7946-19,order-instituting-proceedings-merrill-lynch-commodities-inc.txt,order,Merrill Lynch Commodities,CFTC,25000000,?,$,United States of America
 7946-19,press-release.txt,press,Merrill Lynch Commodities,CFTC,25000000,?,$,United States of America
+7974-19,order-adm-investor-services-inc.txt,order,"ADM Investor Services,ae",CFTC,250000,?,$,United States of America
+7974-19,press-release.txt,press,"ADM Investor Services,ae",CFTC,250000,?,$,United States of America
+8005-19,merrill-lynch-pierce-fenner-smith-incorporated.txt,order,"mere Lynch, Pierce, Fenner & Smith neorporated,Proceedings Clerk",CFTC,300000,?,$,United States of America
+8005-19,press-release.txt,press,"mere Lynch, Pierce, Fenner & Smith neorporated,Proceedings Clerk",CFTC,300000,?,$,United States of America
+8034-19,order-rbc-capital-markets-llc.txt,order,RBC Capital Markets,CFTC,5000000,?,$,United States of America
+8034-19,press-release.txt,press,RBC Capital Markets,CFTC,5000000,?,$,United States of America
 8042-19,order-the-bank-of-new-york-mellon.txt,order,The Bank of New York Mellon,CFTC,750000,?,$,United States of America
 8042-19,press-release.txt,press,The Bank of New York Mellon,CFTC,750000,?,$,United States of America
+8043-19,order-pnc-bank-national-association.txt,order,"PNC BANK,NATIONAL ASSOCIATION",CFTC,300000,,$,United States of America
+8043-19,press-release.txt,press,"PNC BANK,NATIONAL ASSOCIATION",CFTC,300000,,$,United States of America
 8068-19,order-xbt-corp-sarl-d-b-a-first-global-credit.txt,order,"XBT Corp.,d/b/a First Global Credit ",CFTC,100000,?,$,United States of America
 8068-19,press-release.txt,press,"XBT Corp.,d/b/a First Global Credit ",CFTC,100000,?,$,United States of America
+8077-19,order-wells-fargo-bank-n-a.txt,order,"Wells Fargo Bank,N.A",CFTC,14475000,?,$,United States of America
+8077-19,press-release.txt,press,"Wells Fargo Bank,N.A",CFTC,14475000,?,$,United States of America
 8157-20,order-futuresfx-et-al.txt,order,"Simon Jousef,FuturesFX",CFTC,1700000,?,$,United States of America
 8157-20,press-release.txt,press,"Simon Jousef,FuturesFX",CFTC,1700000,?,$,United States of America
+8174-20,order-gain-capital-uk-limited.txt,order,Gain Capital UK,CFTC,250000,?,$,United States of America
+8174-20,press-release.txt,press,Gain Capital UK,CFTC,250000,?,$,United States of America
 8218-20,order-interactive-brokers.txt,order,Interactive Brokers,CFTC,12000000,?,$,United States of America
 8218-20,press-release.txt,press,Interactive Brokers,CFTC,12000000,?,$,United States of America
 8266-20,order-marcus-schultz.txt,order,Marcus Schultz,CFTC,1000000,?,$,United States of America
 8266-20,press-release.txt,press,Marcus Schultz,CFTC,1000000,?,$,United States of America
 8326-20,order-vitol-inc.txt,order,Orders Vitol,CFTC,95700000,?,$,United States of America
 8326-20,press-release.txt,press,Orders Vitol,CFTC,95700000,?,$,United States of America
-8376-21,order-douglas-lien.txt,order,Douglas Lien,CFTC,10000000,?,$,United States of America
-8376-21,press-release.txt,press,Douglas Lien,CFTC,10000000,?,$,United States of America
-7591-17,order-arthur-toole-iii-billionaire-investor-group-llc-et-al-txt,order,"Arthur Toole III,Georgia, and his companies,Billionaire Investor Group,Toole Group Inc,Catalyst Traders LLC",CFTC,493000,?,$,United States of America
-7591-17,press-release.txt,press,"Arthur Toole III,Georgia, and his companies,Billionaire Investor Group,Toole Group Inc,Catalyst Traders LLC",CFTC,493000,?,$,United States of America
-8077-19,order-wells-fargo-bank-n-a.txt,order,"Wells Fargo Bank,N.A",CFTC,14475000,?,$,United States of America
-8077-19,press-release.txt,press,"Wells Fargo Bank,N.A",CFTC,14475000,?,$,United States of America
-8043-19,order-pnc-bank-national-association.txt,order,"PNC BANK,NATIONAL ASSOCIATION",CFTC,300000,,$,United States of America
-8043-19,press-release.txt,press,"PNC BANK,NATIONAL ASSOCIATION",CFTC,300000,,$,United States of America
-7788-18,order-natwest-markets-plc.txt,order,"NatWest Markets Plc,formerly The Royal Bank of Scotland plc",CFTC,750000,?,$,United States of America
-7788-18,press-release.txt,press,"NatWest Markets Plc,formerly The Royal Bank of Scotland plc",CFTC,750000,?,$,United States of America
-7371-16,order-citibank-n-a.txt,order,"Citibank,N.A",CFTC,250000000,?,$,United States of America
-7371-16,press-release.txt,press,"Citibank,N.A",CFTC,250000000,?,$,United States of America
-pr7693-18,order-amp-global-clearing-llc.txt,order,AMP Global Clearing,CFTC,100000,?,$,United States of America
-pr7693-18,press-release.txt,press,AMP Global Clearing,CFTC,100000,?,$,United States of America
-7249-15,order-global-consortiums-llc.txt,order,"Global Consurtiums LLC,Michael E. Simmons",CFTC,360000,?,$,United States of America
-7249-15,press-release.txt,press,"Global Consurtiums LLC,Michael E. Simmons",CFTC,360000,?,$,United States of America
-7591-17,order-arthur-toole-iii-billionaire-investor-group-llc-et-al.txt,order,"ARTHUR TOOLE ITI,NG,BILLIONAIRE INVESTOR GROUP LLC,THE TOOLE GROUP INC,CATALYST TRADERS LLC ",CFTC,293141,?,$,United States of America
-7591-17,press-release.txt,press,"ARTHUR TOOLE ITI,NG,BILLIONAIRE INVESTOR GROUP LLC,THE TOOLE GROUP INC,CATALYST TRADERS LLC ",CFTC,293141,?,$,United States of America
-7515-17,order-cncgc-hong-kong-ltd.txt,order,CNCGC HONG KONG,,150000,?,$,United States of America
-7515-17,press-release.txt,press,CNCGC HONG KONG ,CFTC,150000,?,$,United States of America
-8034-19,order-rbc-capital-markets-llc.txt,order,RBC Capital Markets,CFTC,5000000,?,$,United States of America
-8034-19,press-release.txt,press,RBC Capital Markets,CFTC,5000000,?,$,United States of America
-7736-18,order-societe-generale-s-a.txt,order,Société Générale,CFTC,475000000,?,$,United States of America
-7736-18,order-societe-generale-s-a.txt,press,Société Générale,CFTC,475000000,?,$,United States of America
-7837-18,order-commerzbank-ag.txt,order,Commerzbank,CFTC,12000000,?,$,United States of America
-7837-18,press-release.txt,press,Commerzbank,CFTC,12000000,?,$,United States of America
-7344-16,order-equinox-fund-management-llc.txt,order,Equinox Fund Management,CFTC,250000,?,$,United States of America
-7344-16,press-release.txt,press,Equinox Fund Management,CFTC,250000,?,$,United States of America
-7974-19,order-adm-investor-services-inc.txt,order,"ADM Investor Services Inc,ae",CFTC,250000,?,$,United States of America
-7974-19,press-release.txt,press,"ADM Investor Services Inc,ae",CFTC,250000,?,$,United States of America
-7259-15,order-direct-investment-products-inc-and-alexander-glytenko.txt,order,"DIRECT INVESTMENT PRODUCTS,INC,ALEXANDER GLYTENKO",CFTC,2459633,?,$,United States of America
-7259-15,press-release.txt,press,"DIRECT INVESTMENT PRODUCTS,INC,ALEXANDER GLYTENKO",CFTC,2459633,?,$,United States of America
-8174-20,order-gain-capital-uk-limited.txt,order,Gain Capital UK Limited,CFTC,250000,?,$,United States of America
-8174-20,press-release.txt,press,Gain Capital UK Limited,CFTC,250000,?,$,United States of America
-7288-15,order-sharpe-signa-llc-haeres-capital-llc-and-garen-ovsepyan.txt,order,Haeres Capital,CFTC,70000,?,$,United States of America
-7288-15,press-release.txt,press,Haeres Capital,CFTC,70000,?,$,United States of America
-8005-19,merrill-lynch-pierce-fenner-smith-incorporated.txt,order,"mere Lynch, Pierce, Fenner & Smith neorporated,Proceedings Clerk",CFTC,300000,?,$,United States of America
-8005-19,press-release.txt,press,"mere Lynch, Pierce, Fenner & Smith neorporated,Proceedings Clerk",CFTC,300000,?,$,United States of America
 8371-21,order-benjamin-reynolds.txt,order,"USDC SDNY SOUTHERN DISTRICT OF NEW YORK DOCUMENT
 ELECTRONICALLY FILED",CFTC,142986589,?,$,United States of America
 8371-21,press-release.txt,press,"USDC SDNY SOUTHERN DISTRICT OF NEW YORK DOCUMENT
 ELECTRONICALLY FILED",CFTC,142986589,?,$,United States of America
-7454-16,order-wells-fargo-bank-n-a.txt,order,Wells Fargo Bank,CFTC,400000,?,$,United States of America
-7454-16,press-release.txt,press,Wells Fargo Bank,CFTC,400000,?,$,United States of America
-7627-17,order-arab-global-commodities-dmcc.txt,order,Arab Global Commodities,CFTC,300000,?,$,United States of America
-7627-17,press-release.txt,press,"Arab Global Commodities
-",,300000,?,$,United States of America
+8376-21,order-douglas-lien.txt,order,Douglas Lien,CFTC,10000000,?,$,United States of America
+8376-21,press-release.txt,press,Douglas Lien,CFTC,10000000,?,$,United States of America
+pr7693-18,order-amp-global-clearing-llc.txt,order,AMP Global Clearing,CFTC,100000,?,$,United States of America
+pr7693-18,press-release.txt,press,AMP Global Clearing,CFTC,100000,?,$,United States of America

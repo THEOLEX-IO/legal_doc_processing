@@ -24,6 +24,7 @@ class Base:
         predict_extracted_authorities,
         predict_extracted_violation,
         predict_folder,
+        predict_judge,
         predict_justice_type,
         predict_monetary_sanction,
         predict_monitor,
@@ -65,6 +66,7 @@ class Base:
             "extracted_authorities": predict_extracted_authorities,
             "extracted_violation": predict_extracted_violation,
             "folder": predict_folder,
+            "judge": predict_judge,
             "justice_type": predict_justice_type,
             "monetary_sanction": predict_monetary_sanction,
             "monitor": predict_monitor,
@@ -95,6 +97,7 @@ class Base:
             "_code_law_violation",
             "_currency",
             "_decision_date",
+            "_judge",
             "_defendant",
             "_extracted_authorities",
             "_extracted_violation",
@@ -226,6 +229,10 @@ class Base:
         return strize(self._folder)
 
     @property
+    def judge(self):
+        return strize(self._judge)
+
+    @property
     def justice_type(self):
         return strize(self._justice_type)
 
@@ -271,7 +278,13 @@ class Base:
         #     val = self._predict["extracted_authorities"](self.data)
         #     setattr(self, "_extracted_authorities", val)
 
+        #Defendant need judge
+        if feature == "defendant"     : 
+            val = self._predict["judge"](self.data)
+            setattr(self, "_judge", val)
+
         # extracted_violation need penalty_details
+    
         if feature == "penalty_details":
             val = self._predict["extracted_violation"](self.data)
             setattr(self, "_extracted_violation", val)

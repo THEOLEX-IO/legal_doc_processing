@@ -70,3 +70,4 @@ from legal_doc_processing.press_release.information_extraction.violation_date im
 from legal_doc_processing.press_release.information_extraction.type import (
     predict_type,
 )
+from legal_doc_processing.press_release.information_extraction._predict_judge import _predict_judge

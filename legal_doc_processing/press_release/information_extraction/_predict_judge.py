@@ -9,10 +9,8 @@ def _question_helper(txt) -> list:
     _txt = txt.lower()
     res = list()
 
-    cands = [
-        #######################################
-        # your  tags here
-        #######################################
+    cands = ["judge "
+        
     ]
 
     for cand in cands:
@@ -27,28 +25,25 @@ def _question_selector(key: str) -> list:
 
     res = list()
 
-    #######################################
 
-    # if " -- YOUR TAG -- " in key:
-    #     res.extend(
-    #         [
-    #             ("-- YOUR QUESTION -- ", "who_question"),
-    #         ]
-    #     )
-
-    #######################################
+    if "judge " in key:
+        res.extend(
+            [
+                ("Who is the judge? ", "who_question"),
+            ]
+        )
 
     return res
 
 
-def _predict_judge(obj: dict, threshold: float = 0.4, n_sents: int = 3) -> list:
+def _predict_judge(obj: dict, threshold: float = 0.4, n_sents: int = 6) -> list:
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # pipe to avoid re init a pipe each time (+/- 15 -> 60 sec)
     nlpipe = obj["nlpipe"]
 
     # pers_org_entities_list
-    pers_org_all = obj["pers_org_all"] + # _u(_sub_you_shall_not_pass(obj["pers_org_all"]))
+    pers_org_all = obj["pers_org_all"]  # _u(_sub_you_shall_not_pass(obj["pers_org_all"]))
     pers_org_all = _u(pers_org_all)
 
 
@@ -73,7 +68,8 @@ def _predict_judge(obj: dict, threshold: float = 0.4, n_sents: int = 3) -> list:
     merged_ans = merge_ans(cleaned_ans, label=answer_label)
 
     # filert by spacy entities
-    consitant_ans = [i for i in merged_ans if i[answer_label] in pers_org_all]
+    # consitant_ans = [i for i in merged_ans if i[answer_label] in pers_org_all]
+    consitant_ans = merged_ans
 
     # filter by threshold
     flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]

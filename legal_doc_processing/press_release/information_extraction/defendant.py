@@ -146,6 +146,9 @@ def predict_defendant(obj: dict, threshold: float = 0.4, n_sents: int = 3) -> li
     pers_org_all = obj["pers_org_all"] + _u(_sub_you_shall_not_pass(obj["pers_org_all"]))
     pers_org_all = _u(pers_org_all)
 
+    # judge
+    judge_list = [i.strip().lower() for i in obj["feature_dict"]["judge"].split(",")]
+
     # items
     h1, abstract = obj["h1"], obj["abstract"]
     abstract_sents = obj["abstract_sents"][:n_sents]
@@ -173,6 +176,10 @@ def predict_defendant(obj: dict, threshold: float = 0.4, n_sents: int = 3) -> li
 
     # filert by spacy entities
     consitant_ans = [i for i in merged_ans if i[answer_label] in pers_org_all]
+    # exclude judge
+    consitant_ans = [
+        i for i in consitant_ans if (i[answer_label].strip().lower() not in judge_list)
+    ]
 
     # filter by threshold
     flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]

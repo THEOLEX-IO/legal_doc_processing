@@ -9,9 +9,7 @@ def _question_helper(txt) -> list:
     _txt = txt.lower()
     res = list()
 
-    cands = ["judge "
-        
-    ]
+    cands = ["judge "]
 
     for cand in cands:
         if cand in _txt:
@@ -25,7 +23,6 @@ def _question_selector(key: str) -> list:
 
     res = list()
 
-
     if "judge " in key:
         res.extend(
             [
@@ -36,7 +33,7 @@ def _question_selector(key: str) -> list:
     return res
 
 
-def _predict_judge(obj: dict, threshold: float = 0.4, n_sents: int = 6) -> list:
+def predict_judge(obj: dict, threshold: float = 0.4, n_sents: int = 6) -> list:
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
     # pipe to avoid re init a pipe each time (+/- 15 -> 60 sec)
@@ -46,11 +43,9 @@ def _predict_judge(obj: dict, threshold: float = 0.4, n_sents: int = 6) -> list:
     pers_org_all = obj["pers_org_all"]  # _u(_sub_you_shall_not_pass(obj["pers_org_all"]))
     pers_org_all = _u(pers_org_all)
 
-
     # items
     abstract_sents = obj["abstract_sents"][:n_sents]
     ans = []
-
 
     for sent in abstract_sents:
         key_list = _question_helper(sent)
@@ -76,8 +71,6 @@ def _predict_judge(obj: dict, threshold: float = 0.4, n_sents: int = 6) -> list:
     last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
 
     return last_ans
-
-
 
 
 if __name__ == "__main__":

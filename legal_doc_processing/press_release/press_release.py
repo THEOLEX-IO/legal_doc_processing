@@ -29,6 +29,7 @@ class PressRelease(Base):
             predict_extracted_authorities=predict_extracted_authorities,
             predict_extracted_violation=predict_extracted_violation,
             predict_folder=predict_folder,
+            predict_judge=predict_judge,
             predict_justice_type=predict_justice_type,
             predict_monetary_sanction=predict_monetary_sanction,
             predict_monitor=predict_monitor,

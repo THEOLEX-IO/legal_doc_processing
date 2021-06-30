@@ -1,0 +1,31 @@
+Release Number 8005-19
+September 10, 2019
+
+Merrill Lynch Ordered to Pay $300,000 Penalty for Failing to Promptly Produce Audit Trail
+Data
+
+Washington, DC - The U.S. Commodity Futures Trading Commission today issued an order filing and settling charges
+against Merrill Lynch, Pierce, Fenner & Smith Incorporated (Merrill Lynch), a registered futures commission
+merchant, for failing to promptly produce to the CFTC certain required records and, separately, failing to supervise its
+employees and agents to ensure that they fulfilled the firm’s statutory and regulatory obligations to keep and promptly
+produce such records.
+
+The order finds that for nearly three years, Merrill Lynch failed to produce reliable audit trail data requested by the
+Division of Enforcement. According to the order, these failures substantially delayed a CFTC investigation and were
+attributable in large part to Merrill Lynch’s failure to develop and diligently administer adequate procedures for
+responding to routine regulatory requests — for example, Merrill Lynch did not have a process in place to locate account
+numbers or order entry operator identification numbers; instead, operations personnel simply worked from memory when
+searching for the data.
+
+In addition to imposing a $300,000 civil monetary penalty, the order notes that Merrill Lynch has already taken steps to
+revise its internal process for responding to regulatory data requests, including, but not limited to, designating personnel
+to: (1) interpret regulatory data requests, the source of the information, and the timing for the response; (2) locate and
+provide the data; and (3) independently assess the data extraction process and results.
+
+“As this case shows, the CFTC will hold registrants accountable for their regulatory obligations,” said James McDonald,
+director of the CFTC’s Division of Enforcement. “Recordkeeping requirements are important for regulatory and
+enforcement purposes, and the failure to produce reliable audit trail data here impeded a CFTC investigation.”
+
+The CFTC Division of Enforcement staff members responsible for this action are Amanda Burks, Jordon Grimm, and Rick
+Glaser. Additionally, Raagnee Beri and Elizabeth Davis contributed to the case while members of the Division of
+Enforcement staff.

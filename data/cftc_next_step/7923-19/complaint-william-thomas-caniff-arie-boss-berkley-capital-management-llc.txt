@@ -1,0 +1,760 @@
+Case: 1:19-cv-02935 Document #: 1 Filed: 05/01/19 Page 1 of 20 PagelD #:1
+
+UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF ILLINOIS
+EASTERN DIVISION
+
+Commodity Futures Trading Commission,
+
+Plaintiff,
+
+William Thomas Caniff,
+
+Arie Bos,
+
+Berkley Capital Management, LLC,
+BBOT 1, LP, and
+
+Berkley II, LP,
+
+Case No:
+
+ 
+
+Defendants.
+
+ 
+
+Nee ee eee ee Ne”
+
+COMPLAINT FOR INJUNCTIVE RELIEF AND OTHER EQUITABLE RELIEF AND
+FOR CIVIL MONETARY PENALTIES UNDER THE COMMODITY EXCHANGE ACT
+
+The Commodity Futures Trading Commission (“CFTC” or “Commission’’), an
+
+independent federal agency, by and through its attorneys, hereby alleges as follows:
+
+I SUMMARY
+
+1. From at least January 2016 and continuing through the present (the “Relevant
+Period”), William Thomas Caniff (““Caniff’), Arie Bos (“Bos”), Berkley Capital Management,
+LLC (““BCM”’), BBOT 1, LP (““BBOT’’) and Berkley II, LP (“Berkley IT’) (collectively,
+Defendants’), have engaged in a scheme whereby they fraudulently solicited and accepted at
+least $4.8 million from at least 62 commodity pool participants for the purpose of trading binary
+options on or subject to the rules of a designated contract market in pool accounts to be managed
+
+by BCM.
+aA fA ae et
+ane DB At OM BanrmalP
+gt “ Mo Au Peele i.
+od a ~ a he hah Nae ae
+F
+
+2. In January 2016, Caniff and Bos formed BCM and began to offer individual
+participants the opportunity to trade binary options with pools of other participants, first through
+the BBOT pool and later through the Berkley II pool. Caniff used a small portion of
+participants’ funds to trade binary options through an account he set up at the binary options
+trading firm, the North American Derivatives Exchange, Inc. (“NADEX’’), which is a designated
+contract market headquartered in Chicago, Illinois. Caniff sent Bos fabricated statements
+reflecting incredible results of his trading for these pools. In turn, Bos ignored numerous red
+flags and recklessly accepted Caniff’s reports of profitable trading without verifying the results
+in any way and used them to both solicit participants with claims of past profitable trading and
+generate false statements that he sent to participants showing grossly-inflated, non-existent,
+profits for their accounts.
+
+3. Caniff misappropriated a substantial portion of the participants’ funds, paying Bos
+and himself between $1.1 million to $1.2 million each as “fees based on non-existent profits.
+Caniff also misappropriated funds to pay some participants a total of $2.3 million in a manner
+akin to a Ponzi scheme. Overall, the defrauded participants have experienced a shortfall of
+approximately $2.5 million.
+
+4. By virtue of this conduct and the conduct further described below, Defendants
+have engaged, are engaging in, or are about to engage in acts and practices that violate the
+following sections of the Commodity Exchange Act (“Act” or “CEA”’), 7 U.S.C. 8§ 1-26 (2012),
+and Commission Regulations (“Regulations”) promulgated thereunder, 17 C.F.R. pts. 1-190
+(2018), specifically Section 4c(b) of the Act, 7 U.S.C.§ 6c(b) (2012), and Regulation 32.4,
+
+17 C.F.R. § 32.14 (2018), which prohibit fraud in connection with commodity options
+Case: 1:19-cv-02935 Document #: 1 Filed: 05/01/19 Page 3 of 20 PagelD #:3
+
+transactions. Defendant Caniff also violated Section 9(a)(4) of the Act, 7 U.S.C. § 13(a)(4)
+(2012), which prohibits making false statements to a registered entity.
+
+5. Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. § 13a-1 (2012), the
+Commission brings this action to enjoin Defendants’ unlawful acts and practices and to compel
+Defendants’ compliance with the Act and the Regulations. In addition, the Commission seeks
+civil monetary penalties, and remedial ancillary relief, including, but not limited to, trading and
+registration bans, restitution, disgorgement, rescission, pre- and post-judgment interest, and such
+other and further relief as the Court may deem necessary or appropriate.
+
+6. Unless restrained and enjoined by this Court, Defendants will likely continue to
+engage in acts and practices alleged in this Complaint and similar acts and practices, as described
+
+below.
+
+Hf. JURISDICTION AND VENUE
+
+7. This Court has jurisdiction over this action under 28 U.S.C. § 1331 (2012)
+(federal question jurisdiction) and 28 U.S.C. § 1345 (2012) (district courts have original
+jurisdiction over civil actions commenced by the United States or by any agency expressly
+authorized to sue by Act of Congress). Section 6c(a) of the Act, 7 U.S.C. § 13a-1(a) (2012),
+authorizes the Commission to seek injunctive relief against any person whenever it shall appear
+that such person has engaged, is engaging, or is about to engage in any act or practice that
+violates any provision of the Act or any rule, regulation, or order promulgated thereunder.
+
+8. Venue properly lies with this Court pursuant to Section 6c(e) of the Act,
+TUS.C. § 13a-1(e) (2012), because Defendants have transacted business in the Northern
+District of Illinois, and the acts and practices in violation of the Act and Regulations have
+
+occurred within this District, among other places.
+SON MAR
+ee a 4 SN PSS se
+OF 4~Ul FaGeGIL? Ft
+
+AAP PP ehlie ih
+
+Pe,
+aie,
+
+Hil. PARTIES
+
+9. Plaintiff Commodity Futures Trading Commission (“CFTC” or
+‘““Commission’’) is an independent federal regulatory agency charged with the administration and
+enforcement of the Commodity Exchange Act and Regulations promulgated thereunder.
+
+10. Defendant William Thomas Caniff is a natural person, 50 years of age, who
+sometimes uses the alias “Thomas Caniff’ and resides in Steubenville, Ohio. Caniff is a co-
+founder and General Partner of BCM Capital Management, LLC, and a limited partner of BBOT,
+LP. Caniff transacted business as the trader for BBOT at NADEX, which is located in Chicago,
+Illinois. Caniff has a criminal history as a felon, having been convicted of several financial
+crimes in the 1990s. Caniff he has never been registered with the Commission in any capacity.
+
+11. Defendant Arie Bos is a natural person, 59 years of age, who resides in Rotterdam
+in the Netherlands and is a citizen of that country. Bos is a co-founder and Managing Partner of
+BCM and is a limited partner of BBOT and Berkley IH. Bos was responsible for all “marketing”
+on behalf of BCM, and for “administration and reporting” to the funds limited partners and for
+“membership management” of BBOT and Berkley II and for the limited partnership’s offerings.
+Bos has never been registered with the Commission in any capacity.
+
+12. Defendant BCM Capital Management, LLC, formed in January 2016, is a
+Wyoming limited company with offices in Wintersville, Ohio and Rotterdam in the Netherlands.
+BCM is the general partner of BBOT and Berkley II. BCM acted as the “portfolio manager” for
+the BBOT fund. BCM has never been registered with the Commission in any capacity.
+
+13. Defendant BBOT1 LP is a Delaware limited partnership, formed in January
+2016, which has its principal place of business in Wintersville, Ohio and transacts business in the
+State of Illinois at NADEX. BBOT has never been registered with the Commission in any
+
+capacity.
+14. Defendant Berkley II LP is a Delaware limited partnership, formed in July 2017,
+which has its principal place of business in Wintersville, Ohio. Berkley II has never been
+registered with the Commission in any capacity.
+
+IV. OTHER RELEVANT ENTITY
+
+15. The North American Derivatives Exchange is a Commission designated
+contract market under Section 5 of the Act, 7 U.S.C. § 5 (2012). As such a designated contract
+market, NADEX also meets the definition of a “registered entity” under Section 1(a)40 of the
+Act, 7 U.S.C. § 1(a)40 (2012). NADEX provides a platform for retail customers to trade binary
+options that are commodity option transactions. NADEX is located in Chicago, Illinois.
+
+V. STATUTORY BACKGROUND
+
+16. Section 4c(b) of the Act, 7 U.S.C. § 6c(b) (2012), makes it unlawful for any
+person to offer to enter into, enter into, or confirm the execution of, any transaction involving
+any commodity regulated under the Act which is of the character of, or is commonly known to
+the trade as, inter alia, an “option”, “bid”, “offer’’, “put’’, or “call”, contrary to any rule,
+regulation or order of the Commission prohibiting any such transaction or allowing any such
+transaction under such terms and conditions as the Commission shall prescribe. Thus, through
+7 U.S.C. § 6c(b), Congress has given the Commission jurisdiction and plenary rulemaking
+authority over all commodity option transactions.
+
+17. Regulation 32.4, 17 C.F.R. § 32.4 (2018), promulgated under Section 4c(b) of the
+Act, provides that:
+
+In or in connection with an offer to enter into, the entry into, or the confirmation of the
+
+execution of, any commodity option transaction, it shall be unlawful for any person,
+directly or indirectly:
+a) To cheat or defraud or attempt to cheat or defraud any other person;
+b) To make or cause to be made to any other person any false report or
+statement thereof or cause to be entered for any person any false
+record thereof; or
+C) To deceive or attempt to deceive any other person by any means
+whatsoever.
+VI. FACTS
+A. Overview of Binary Options
+18. Binary options involve a variety of underlying assets, including currency pairs
+
+(e.g., EUR/USD); commodities such as oil, wheat, coffee, and gold; equity indices (e.g., the Dow
+Jones Industrial Index); and stocks (e.g., Coke, Google, etc.). However, unlike other types of
+options, a binary option does not give the holder the right to purchase or sell the underlying
+asset. Instead, binary options are “cash settled.” When the binary option expires, if the customer
+has correctly predicted the asset’s movement, the customer is “in the money” and entitled to a
+payout of a pre-determined amount of money. Binary options offered at NADEX also give the
+holder the option to sell prior to expiration, which would allow the holder to reap a sum less than
+the premium if the position is in the money and suffer losses less than the premium if the option
+is out of the money. If the customer has made an incorrect prediction, he or she is “out of the
+money,” loses the premium paid, and gets nothing.
+
+19. There are only three designated contract markets currently authorized to offer
+binary options that are commodity options transactions to retail customers in the United States:
+Cantor Exchange LP, Chicago Mercantile Exchange, Inc., and NADEX.
+
+B. Caniff and Bos Formed BCM to Trade Binary Options
+
+20. In January 2016, Caniff and Bos formed a partnership and created a new
+
+“investment and trading technology firm” called BCM. This new Wyoming limited liability
+> OF AN PS PEA ee
+
+Ne ~The Tw ee j
+
+age * of 2O Parnell #?
+Med Poa Po CALA DAL
+
+corporation has offices near each of their residences, in Steubenville, Ohio and Rotterdam in the
+Netherlands, respectively, and purportedly “specialized in trading foreign-exchange binary
+options derivatives.”
+
+21. BCM became the general partner of a new investment pool fund called BBOT
+that was set up as a limited partnership for this pool of participants.
+
+22. Caniff was the designated trader for the fund, and Bos was responsible for
+soliciting and reporting to participants.
+
+23. Bos solicited participants by initially approaching members of his family and
+friends in the Netherlands. Bos distributed an information packet to prospective participants that
+described Caniff as having trading experience dating back to 2004 with a “proven track record.”
+
+24. Bos instructed prospective participants to wire their funds to the pools’ various
+bank accounts in the United States. Participants wired approximately $1.8 million to BBOT in
+2016 and approximately $3 million to BBOT and Berkley I in 2017 and thereafter.
+
+25. In February 2016, Caniff set up bank accounts for both BCM and the pool,
+BBOT. In December 2016, he closed those accounts and opened new accounts for BCM and
+BBOT at a different bank. In April 2017, Caniff moved the BCM and BBOT bank accounts to a
+third banking institution and, in July 2017, opened an additional account for the new Berkley II
+pool at the third bank.
+
+26. During the Relevant Time, Caniff made all financial decisions for BCM, BBOT
+and Berkley II. He directed withdrawals of client funds from the BBOT and Berkley II bank
+accounts and deposits and withdrawals of fund from the BCM bank account and the BBOT
+trading account. Bos was not a signatory to any of the bank accounts, but he had online access to
+
+view the BBOT, Berkley I and BCM bank account statements.
+C. Caniff Concealed his Criminal Background from NADEX and Opened a Trading
+Account
+
+27. In June 2016, Caniff opened a binary options trading account for BBOT at
+NADEX, but, in doing so, hid his extensive criminal past from NADEX by falsifying his
+application for that account. In connection with his February 25, 2016 application to NADEX,
+Caniff willfully made a false statement to NADEX by intentionally responding in the negative to
+each of the following two questions:
+
+(a) Have you been convicted of, pled guilty to, or entered a plea of no contest
+or plea agreement to, any felony in any domestic, foreign, or military
+court?
+
+(b) Have you been convicted of, pled guilty to, or entered a plea of no contest
+or plea agreement to, a misdemeanor in any domestic, foreign, or military
+court or military court which involves: Embezzlement, theft, extortion,
+fraud, fraudulent conversion, forgery, counterfeiting, false pretenses,
+bribery, gambling, racketeering, or misappropriation of funds, securities,
+or property?
+
+28. The responses Caniff gave to NADEX were false because Caniff had been
+convicted of several felony offenses including ones involving fraudulent conversion, forgery,
+and grand theft with a firearm. According to NADEX, it would have rejected Caniff’s
+application to open the BBOT trading account if it had known about these criminal convictions.
+
+D. Caniff Minimally Funded the NADEX Account and Misappropriated Most of the
+Participants’ Money
+
+29. From February 2016 through the present, at least 62 BCM participants, two of
+whom were U.S. customers, paid more than $4.8 million to fund investments to trade binary
+options through pools in the names of BBOT or Berkley II.
+
+30. Over the life of the account, Caniff only sent two payments to NADEX, $35,000
+
+in June 2016 and $50,000 in June 2017, for a total of $85,000. Thus, a mere fraction of BBOT
+or Berkley II participant funds were ever sent to NADEX for trading. Caniff never opened a
+NADExX< trading account for Berkley II participants.
+
+31. Caniff misappropriated the remainder of participant funds, by sending
+approximately $2.3 million to repay other participants and to pay Bos and himself between $1.1
+and $1.2 million each in purported fees. Approximately $2.5 million is presently owing to
+participants.
+
+E. Bos Ignored Obvious Red Flags and Made Misrepresentations to Prospective
+Participants
+
+32. Throughout their partnership, Caniff sent Bos emails reflecting his purported
+daily trading activity at NADEX, some of which included purported screen shots showing the
+NADEX account balance for the BCM pools. Caniff’s emails reflected implausible rates of
+return and consistently profitable trading.
+
+33. Bos combined the NADEX account value information that he received from
+Caniff with the information Bos obtained from his online access to the pools’ bank accounts to
+calculate the pools’ overall profitability and individual participants’ returns. Bos inserted his
+profit calculations into statements sent to participants and into promotional packets of
+information that he prepared and distributed to prospective participants without any independent
+verification of these profits. For example, Bos told prospective participants:
+
+(a) For the period January 2016 through May 2016, BCM reported monthly
+
+net return on investments (“ROIs’’) of 3.9%, 17.3%, 23%, 11.6% and
+17.3%;
+
+(b) BCM’s fund grew to a size of $5,500,000 by the end of calendar year
+2016;
+
+(c) BCM’s average monthly ROI for 2016 was 10%;
+
+(d) Berkley II had an ROI of 14.4% in April 2018; and
+(e)
+
+34.
+
+Berkley II had an overall average monthly return on invested capital of
+13.9% between August 2017 and April 2018.
+
+Each of the aforementioned representations that Bos made to prospective
+
+participants was false, in that:
+
+(a)
+
+(b)
+
+(Cc)
+
+(d)
+
+(e)
+
+35.
+
+BCM’s reported monthly profits for the period from January to May 2016
+were false in that BBOT’s account at NADEX was not even opened and
+funded until June 29, 2016;
+
+BCM’s fund did not have a value of $5,5000,000 by the end of 2016;
+rather, the BBOT account value combined with balances in BBOT’s bank
+account was $277,961.89 at December 31, 2016; and
+
+BCM did not average a 10% ROI for 2016; rather the average ROI for
+2016 was a negative, specifically -0.88%;
+
+Berkley II did not have an ROI of 14.4% in April 2018 because BCM
+never opened an account at NADEX for Berkley II and, thus, there were
+no profits earned for this pool; and
+
+Berkley II did not have an overall average monthly return on invested
+capital of 13.9% between August 2017 and April 2018 because BCM
+never opened an account at NADEX for Berkley II and, thus, there were
+no profits earned for this pool.
+
+In sum, all of Bos’ claims of BCM’s multi-million dollar account values and high
+
+profitability to prospective participants earned through binary options trading were fraudulent in
+
+light of the actual deployment and misappropriation of participant funds. Berkley II never had
+
+an account at NADEX and the only other BCM account at NADEX, BBOT, resulted in an
+
+overall loss of $43,204.60. Further, the trading in the BBOT account at NADEX generated an
+
+overall net rate of return of -5.54% and its highest account balance at any given time was only
+
+$89,764.90. Instead, the vast majority of the $4.8 million of participant deposits into BCM’s
+
+BBOT or Berkley I pools were simply withdrawn to pay Bos and Caniff fees or to pay
+
+participant withdrawal requests in the manner of a Ponzi scheme.
+
+10
+36.
+
+Throughout the relevant period, Bos willfully or recklessly ignored red flags that
+
+should have prompted him to seek some corroboration of BCM’s incredible pool returns at
+
+NADEX. Bos committed fraud in failing to do so and, instead, distributing the absurd profit
+
+figures to existing participants and using them to solicit new participants. Among the red flags
+
+that Bos ignored:
+
+(a)
+
+(b)
+
+(Cc)
+
+(d)
+
+(e)
+
+37.
+
+Bos knew that, in 2016, participants had invested total capital of $1.74
+million. In or around January 2017, Caniff gave Bos a copy of a purported
+NADEX IRS Form 1099 showing that BBOT’s total invested capital of
+$1.8 million had made total profits in 2016 of $5,043,386.60.
+
+When Bos told Caniff to withdraw a “substantial part” of the more than $5
+million in profits from NADEX in January 2017 and return them to the
+BBOT bank account, Caniff told Bos that the funds could not be
+withdrawn from NADEX and gave Bos a number of transparently bogus
+explanations.
+
+In March 2017, Bos requested that Caniff arrange for him to have online
+access to personally view the NADEX account balances. Caniff said that
+such arrangements could not be made.
+
+Bos routinely accessed the pools’ bank account statements and, thus, he
+knew that they had only deposited a total of $85,000 with NADEX over
+the life of the NADEX accounts. Yet, Bos accepted the patently absurd
+rate of return on a statement dated May 2, 2017 sent to him by Caniff
+showing that the BBOT account at NADEX had earned a balance in
+excess of $11.8 million through the trading of participants’ funds.
+
+In June 2017, Caniff falsely told Bos that he had initiated a lawsuit on
+behalf of BBOT against NADEX’s bank claiming that NADEX was
+illegally withholding BBOT’s funds.
+
+Despite all of these red flags during the relevant period, Bos, inexplicably,
+
+continued to solicit individuals to invest new monies to be sent to NADEX. Bos could have
+
+contacted NADEX directly to verify the account balances at any time, but he did not do so until
+
+September 2018.
+
+11
+F. Bos Issued False Account Statements
+38. In addition to the false solicitations, Bos issued false account statements to at least
+
+one participant. Participant M.Y. is a U.S. citizen who invested $100,000 with BBOT in January
+2017. From January 2017 through July 2018, Bos prepared and sent M.Y. multiple “Individual
+Account Statements” that falsely reported profits, or neglected to report losses incurred in her
+account at BBOT and never reported a losing month of trading. For example, an account
+statement dated August 10, 2018 indicated that participant M.Y.’s $100,000 investment had
+increased to $146,035.21 by July 31, 2018. In fact, between January 2017 and July 2018, the
+BBOT pool actually lost a net total of $40,569. Similarly, in the months of August and
+September 2017, Bos reported a 0% ROI to M.Y. when, in fact, the BBOT pool actually had an
+ROI for those months of -31.06% and -23.13%.
+
+G. When the Money Ran Out, Caniff Blamed NADEX and Bos Continued to Solicit
+Participants
+
+39. After Bos made several requests for Caniff to distribute funds from the NADEX
+account in early 2017, Caniff informed Bos that he was not able to withdraw funds from
+NADEX and indicated that NADEX was wrongfully holding the pools’ funds.
+
+AO. In May 2017, Bos informed M.Y. that BBOT had suspended trading because of
+problems that had been encountered with NADEX. Although no fees were being earned from
+trading during this time, Bos knew that funds continued to be withdrawn from the BBOT pool
+bank account during this period, and that the funds were being used to pay fees to Caniff and
+himself and to repay some investors. Nonetheless, Bos failed to report those expenses as
+deductions from the participant’s account value and continued to report unchanged balances to
+
+M.Y. on her account statement.
+
+12
+41. In June 2017, Caniff told Bos that he had initiated a lawsuit in Chicago on behalf
+of BBOT against NADEX’s bank claiming that NADEX was illegally withholding BBOT’s
+funds. In reality, Caniff never filed a lawsuit. Rather, Caniff sent Bos fabricated pleadings and
+forged correspondence from an attorney purportedly representing BBOT in the dispute with
+NADEX. After Bos received the fabricated pleadings, Bos, inexplicably, continued to solicit
+individuals to invest new monies to be sent to NADEX for trading, while ignoring that BBOT
+purportedly could not withdraw its participant funds already deposited there and this legal
+entanglement with NADEX.
+
+H. Bos Eventually Faced the Fraud and Filed a Related State Court Suit in Chicago
+
+42. Over a year later, in September 2018, Bos finally contacted NADEX directly and
+learned that the true balance of the NADEX trading account was approximately $6,824.00.
+
+43. Bos eventually told participant M.Y. that Caniff had reported incorrect NADEX
+trading results and that the total remaining participant funds were significantly less than
+participants’ overall deposits. Participant M.Y. lost her entire investment of $100,000.
+
+44. In an effort to recover any remaining funds, on February 1, 2019, Bos filed suit in
+state court in Chicago, Illinois against Caniff alleging fraud by Caniff and seeking to prevent a
+bank’s disbursement of $116,153.25 on deposit in accounts it holds in the names of BCM, BBOT
+and Berkley II. The state court pleading is captioned: Arie Bos, and Berkley Capital
+Management, LLC, on behalf of All Participants and Limited Partners of BBOT I, LP and
+Berkley I, LP vy. William Thomas Caniff, Jr., an individual, BBOT 1, LP, a limited partnership,
+Berkley I, LP and Huntington Bank, Circuit Court of Cook County, Chancery Division, No.
+2019 CH 01264. A copy of the complaint filed in the state court is attached as part of the
+
+Appendix accompanying this filing.
+
+13
+Case: 1:19-cv-02935 Document #: 1 Filed: 05/01/19 Page 14 of 20 PagelD #:14
+
+45. On February 11, 2019, Circuit Court Judge Atkins entered a TRO freezing the
+accounts pending further order of the court. However, on April 24, 2019, the Court issued an
+
+order vacating the asset freeze.
+
+VII. VIOLATIONS OF THE COMMODITY EXCHANGE ACT
+COUNTI
+Options Fraud
+Section 4c(b) of the Act, 7 U.S.C. § 6c(b) (2012), and Regulation 32.4, 17 C.F.R. § 32.4
+(2018)
+(All Defendants)
+
+46. The allegations set forth in paragraphs | through 45 are re-alleged and
+incorporated herein by reference.
+
+47. During the Relevant Period, the Defendants, in or in connection with an offer to
+enter into, the entry into, or the confirmation of the execution of, any commodity option
+transaction, directly and indirectly: (a) cheated or defrauded, and attempted or cheat and
+defraud, customers and prospective customers; (b) made or caused to be made to customers and
+prospective customers false reports or statements; and (c) deceived or attempted to deceive
+customers and prospective customers, in violation of 7 U.S.C. § 6c(b), and 17 C.F.R. § 32.4.
+
+48. During the relevant period, Defendant Caniff violated 7 U.S.C. § 6c(b) and
+17 C.F.R. § 32.4 by misappropriating approximately $2.5 million of participant funds and by
+sending Bos emails about false daily trading activity and nonexistent trading profits that he knew
+Bos would use to solicit participants and make false reports to existing participants.
+
+49. During the relevant period, Defendant Bos violated 7 U.S.C. § 6c(b) and
+17 C.F.R. § 32.4 by, among other things, recklessly telling prospective participants:
+
+(a) For the period January 2016 through May 2016, BCM reported monthly net return
+
+on investments (“ROIs”) of 3.9%, 17.3%, 23%, 11.6% and 17.3%;
+
+14
+(b) BCM’s fund grew to a size of $5,500,000 by the end of calendar year 2106; and
+
+(c) BCM’s average monthly ROI for 2016 was 10%;
+
+(d) Berkley II did not have an ROI of 14.4% in April 2018 because BCM never
+opened an account at NADEX for Berkley II and, thus, there were no profits
+earned for this pool; and
+
+(e) Berkley II did not have an overall average monthly return on invested capital of
+13.9% between August 2017 and April 2018 because BCM never opened an
+account at NADEX for Berkley II and, thus, there were no profits earned for this
+pool.
+
+50. During the relevant period, Defendant Bos violated 7 U.S.C. § 6c(b) and
+
+17 C.F.R. § 32.4 by, among others, sending at least one participant numerous false statements
+reporting that her account was profitable when it was not profitable and, at times, failed to report
+withdrawals from her account balance.
+
+51. Defendants committed the acts and practices describes herein willfully, or with
+reckless disregard for the truth.
+
+52. Each act of misrepresentation, misappropriation and omission of material fact,
+including, but not limited to, those specifically alleged herein, constitutes a separate and distinct
+violation of 7 U.S.C. § 6c(b) and 17 C.F.R. § 32.4.
+
+53. The foregoing acts, omissions and failures of Caniff and Bos, and all other agents
+of BCM, occurred and are occurring within the scope of their employment, office or agency with
+BCM;; therefore, BCM is liable for these acts, omissions and failures pursuant to Section
+
+2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1.)(B) (2012), and Regulation 1.2, 17 C.F.R. § 1.2 (2018).
+
+15
+Case: 1:19-cv-02935 Document #: 1 Filed: 05/01/19 Page 16 of 20 PagelD #:16
+
+54. The foregoing acts, omissions and failures of Caniff and Bos, and all other agents
+of BBOT, occurred and are occurring within the scope of their employment, office or agency
+with BBOT; therefore, BBOT is liable for these acts, omissions and failures pursuant to 7 U.S.C.
+§ 2(a)(1)(B) and 17 C.F.R. § 1.2.
+
+55. The foregoing acts, omissions and failures of Caniff and Bos, and all other agents
+of Berkley H, occurred and are occurring within the scope of their employment, office or agency
+with Berkley II; therefore, Berkley IJ is liable for these acts, omissions and failures pursuant to
+7 U.S.C. § 2(a)(1)(B) and 17 C.F.R. § 1.2.
+
+COUNT IT
+Making a False Statement to a Registered Entity
+Violation of Section 9(a)(4) of the Act,7 U.S.C. § 13(a)(4) (2012)
+(Caniff)
+
+56. The allegations set forth in paragraphs | through 55 are re-alleged and
+incorporated herein by reference.
+
+57. 7 U.S.C. § 13(a)(4) makes it a violation for any person willfully to falsify,
+conceal, or cover up by any trick, scheme, or artifice, a material fact, make any false, fictitious,
+or fraudulent statements or representations, or make or use any false writing or document
+knowing the same to contain any false, fictitious, or fraudulent statement or entry to a registered
+entity, board of trade, swap data repository, or futures association designated or registered under
+this Act in furtherance of its official duties under this Act.
+
+58. In connection with his February 25, 2016 application to NADEX, a registered
+entity under the Act, where he was seeking to open the trading account for BCM’s pool, BBOT,
+Caniff willfully made false statements to NADEX by falsely and intentionally responding in the
+
+negative to questions about whether he had a criminal record, in violation of 7 U.S.C. § 13(a)(4).
+
+16
+VI. RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that this Court, as authorized by
+
+Section 6c of the Act, 7 U.S.C. § 13a-1 (2012), and pursuant to the Court’s own equitable
+
+powers:
+
+A.
+
+Find that the Defendants violated Section 4c(b) of the Act, 7 U.S.C. § 6c(b)
+
+(2012), and Regulation 32.4, 17 C.F.R. § 32.4 (2018);
+
+Find that Defendant Caniff violated Section 9(a)(4) of the Act, 7 U.S.C.
+
+§ 13(a)(4) (2012);
+
+Enter an order of permanent injunction prohibiting the Defendants, and their
+
+affiliates, agents, servants, employees, successors, assigns, attorneys, and all
+
+persons in active concert with them, who receive actual notice of such order by
+
+personal service or otherwise from engaging in the conduct described above, in
+
+violation of 7 U.S.C. § 6c(b) and 17 C.F.R. § 32.4; and prohibiting Caniff and his
+
+affiliates, agents, servants, employees, successors, assigns, attorneys, and all
+
+persons in active concert with him, who receive actual notice of such order by
+
+personal service or otherwise from engaging in the conduct described above, in
+
+violation of 7 U.S.C. § 13(a)(4);
+
+Enter an order of permanent injunction prohibiting the Defendants and their
+
+affiliates, agents, servants, employees, successors, assigns, attorneys, and all
+
+persons in active concert with them, from directly or indirectly:
+
+1. Trading on or subject to the rules of any registered entity (as that term is
+defined in Section 1a(40) of the Act, 7 U.S.C. § 1a(40)(2012);
+
+2. Entering into any transactions involving “commodity interests” (as that
+
+term is defined in Regulation 1.3, 17 C.F.R. § 1.3(2018)), for accounts
+17
+held in the name of any Defendant or for accounts in which any Defendant
+has a direct or indirect interest;
+
+Having any commodity interests traded on any Defendants’ behalf;
+Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account
+involving commodity interests;
+
+Soliciting, receiving, or accepting any funds from any person for the
+purpose of purchasing or selling any commodity interests;
+
+Applying for registration or claiming exemption from registration with the
+CFTC in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the CFTC except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)Q9) (2018); and
+Acting as a principal (as that term is defined in Regulation 3.1(a),
+
+17 C.F.R. § 3.1(a) (2018), agent or any other officer or employee of any
+person registered, exempted from registration, or required to be registered
+
+with the CFTC except as provided for in 17 C.F.R. § 4.14(a)Q).
+
+Enter an order directing Defendants Caniff, Bos, BCM, BBOT and Berkley II, as
+
+well as any third-party transferee and/or successors thereof, to disgorge pursuant
+
+to such procedure as the Court may order, all benefits received including, but not
+
+limited to, salaries, commissions, loans, fees, revenues, and trading profits
+
+derived, directly or indirectly, from acts or practices which constitute violations of
+
+the Act and Regulations as described herein, including pre-judgement and post-
+
+judgment interest;
+
+18
+F. Enter an order directing Defendants Caniff, Bos, BCM, BBOT and Berkley II, as
+well as any successors thereof, to make full restitution to every person who has
+sustained losses proximately caused by the violations described herein, including
+pre-judgement and post-judgment interest;
+
+G. Enter an order directing Defendants Caniff, Bos, BCM, BBOT and Berkley II, as
+well as any successors thereof, to rescind, pursuant to such procedures as the
+Court may order, all contracts and agreements, whether implied or express,
+entered into between, with or among Defendants Caniff, Bos, BCM, BBOT and
+Berkley II, and any of the participants whose funds were received by Defendants
+Caniff, Bos, BCM, BBOT and Berkley II as a result of the acts and practices that
+constituted violations of the Act and Regulations as described herein;
+
+H. Enter an order directing Defendants Caniff, Bos, BCM, BBOT and Berkley II to
+pay a civil monetary penalty assessed by the Court, in an amount not to exceed
+the penalty prescribed by Section 6c(d)(1) of the Act, 7 U.S.C. § 13a-1(d)(1)
+(2012), as adjusted for inflation pursuant to the Federal Civil Penalties Inflation
+Adjustment Act Improvements Act of 2015, Pub. L. 114-74, tit. VII, § 701, 129
+Stat. 584, 599-600, see Regulation 143. 8, 17 C.F.R. § 143.8 (2018) for each
+violation of the Act and Regulations, as described herein;
+
+H. Enter an order requiring Defendants Caniff, Bos, BCM, BBOT and Berkley II, to
+pay costs and fees as permitted by 28 U.S.C. §§ 1920 and 2413(a)(2) (2012); and
+
+I. Enter an Order providing such other and further relief as this Court may deem necessary
+
+and appropriate under the circumstances.
+
+Date: May 1, 2019
+
+19
+Case: 1:19-cv-02935 Document #: 1 Filed: 05/01/19 Page 20 of 20 PagelD #:20
+
+Respectfully submitted,
+
+ATTORNEYS FOR PLAINTIFF
+COMMODITY FUTURES TRADING COMMISSION
+
+/s/ Susan B. Padove
+Lead Attorney
+Susan B. Padove
+
+Senior Trial Attorney
+(312) 596-0544
+
+spadove @cftc.gov
+Illinois A.R.D.C. No. 3127019
+
+ 
+
+Lindsey Evans
+Chief Trial Attorney
+(312) 596-0643
+
+levans @cftc.gov
+Illinois A.R.D.C. No. 6286125
+
+Scott R. Williamson
+
+Deputy Regional Counsel
+(312) 596-0560
+
+Illinois A.R.D.C. No. 6191293
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+525 W. Monroe Street, Suite 1100
+Chicago, Illinois 60661
+
+(312) 596-0700 (Office Number)
+
+(312) 596-0714 (facsimile)
+
+20

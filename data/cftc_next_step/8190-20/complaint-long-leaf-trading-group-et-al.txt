@@ -1,0 +1,1086 @@
+United States District Court
+
+Commodity Futures Trading Commission, Northern District of Illinois
+
+Plaintiff
+V.
+Long Leaf Trading Group, Inc., James A.
+Donelson, Timothy M. Evans, Jeremy S.
+
+Ruth, and Andrew D. Nelson,
+
+)
+)
+)
+)
+)
+) Case No. 20-3758
+)
+)
+)
+Defendants )
+)
+
+COMPLAINT FOR INJUNCTIVE AND OTHER EQUITABLE RELIEF AND FOR
+CIVIL MONETARY PENALTIES UNDER THE COMMODITY EXCHANGE ACT AND
+COMMISSION REGULATIONS
+
+Plaintiff Commodity Futures Trading Commission (““Commission” or “CFTC’’) alleges as
+
+follows:
+
+I SUMMARY
+
+1. From at least June 2015 through December 2019 (“Relevant Period’), Long Leaf
+Trading Group, Inc. (“Long Leaf’), by and though, and at the direction of, its principals,
+Defendants Timothy M. Evans (“Evans’’) and James A. Donelson (“Donelson’’), and by and
+through its agents and employees, including Defendants Jeremy S. Ruth (“Ruth”) and Andrew D.
+Nelson (“Nelson’’) (together with Long Leaf, Evans, and Donelson, “LLT Defendants”), engaged
+in a scheme to defraud customers in connection with options on futures contracts traded on
+designated contract markets, in violation of the Commodity Exchange Act (“Act”), 7 U.S.C §§ I-
+26 (2018), and accompanying Commission Regulations (“Regulations”), 17 C.F.R. pts. 1-190
+(2019).
+
+2. The LLT Defendants knowingly made numerous false and misleading statements
+
+of material fact to retail customers about the success of Long Leaf’s “Time Means Money”
+(“TMM”) options trading program. The LLT Defendants touted the success of the TMM
+program, claiming that it resulted in profits for customers.
+
+3. In reality, substantially all of Long Leaf’s customers lost money trading pursuant
+to the program. The LLT Defendants were aware of this from customer account statements they
+received, as well as from customers complaining about losses in their accounts. The LLT
+Defendants nonetheless knowingly or recklessly failed to disclose to, or deliberately withheld
+from, customers and prospective customers the material fact that substantially all customers lost
+money trading under the program.
+
+4. The LLT Defendants also knowingly or recklessly misled customers as to the
+status of their accounts, claiming that customers made money when in fact they had lost money.
+
+5. During the Relevant Period, Long Leaf’s more than four hundred customers lost
+approximately $6.1 million trading pursuant to Long Leaf’s recommendations. These
+recommendations were designed primarily to generate commissions for Long Leaf.
+
+6. Long Leaf made more than $4.4 million in commissions from its trade
+recommendations. These commissions accounted for more than seventy percent of customer
+losses.
+
+7. As set forth in greater detail below, the LLT Defendants’ conduct violates
+numerous anti-fraud provisions in the Act and Regulations, including, for all Defendants, Section
+4c(b) of the Act, 7 U.S.C. § 6c(b) (2018), and Regulation 33.10, 17 C.F.R. § 33.10 (2019) (fraud
+in connection with options on futures transactions); and Section 40 of the Act, 7 U.S.C. § 60
+(2018) (fraud by a commodity trading advisor), and, for Long Leaf and its principals, Regulation
+
+4.41(a), 17 C.F.R. § 4.41(a) (2019) (fraudulent advertising by a commodity trading advisor).
+x nt
+8. Long Leaf failed to make required customer disclosures relating to client accounts
+
+guided pursuant to a “systematic program that recommends specific trades,” in violation of
+Regulation 4.31(a) and (b), 17 C.F.R. § 4.31(a), (b) (2019). Long Leaf failed to file any such
+disclosures with the National Futures Association (“NFA”), in violation of Regulation
+4.36(d)(1), 17 C.F.R. § 4.36(d)(1) (2019).
+
+9. Certain LLT Defendants are liable for registration violations, including failure to
+register as a commodity trading advisor (“CTA”) under Section 4m(1) of the Act, 7 U.S.C.
+
+§ 6m(1) (2018), and failure to register as associated persons (“APs”) under Section 4k(1) of the
+Act, 7 U.S.C. § 6k(1) (2018), and Regulations 3.12(a) and 33.3(b)(1) and (2), 17 C.F.R.
+§§ 3.12(a), 33.3(b)(1), (2) (2019).
+
+10. Long Leaf’s former and current principals, Defendants Evans and Donelson,
+respectively, are liable for Long Leaf’s violations as controlling persons, pursuant to Section
+13(b) of the Act, 7 U.S.C. § 13c(b) (2018).
+
+11. Unless restrained and enjoined by this Court, Defendants are likely to continue to
+engage in the acts and practices alleged in this Complaint or in similar acts and practices, as
+described more fully below.
+
+12. Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. § 13a-1 (2018), the
+Commission brings this action to enjoin Defendants’ unlawful acts and practices and to compel
+compliance with the Act and Regulations. In addition, the Commission seeks civil monetary
+penalties and remedial ancillary relief, including, but not limited to, trading and registration bans,
+restitution, disgorgement, rescission, pre- and post-judgment interest, and such other relief as the
+Court may deem necessary and appropriate. The CFTC demands a trial by jury on all issues so
+
+triable.
+Hf. JURISDICTION AND VENUE
+
+13. This Court has jurisdiction over this action under 28 U.S.C. § 1331 (2018)
+(codifying federal question jurisdiction) and 28 U.S.C. § 1345 (2018) (providing that U.S.
+district courts have original jurisdiction over civil actions commenced by the United States or by
+any agency expressly authorized to sue by Act of Congress). In addition, Section 6c(a) of the
+Act, 7 U.S.C. § 13a-1(a) (2018), provides that U.S. district courts have jurisdiction to hear
+actions brought by the Commission for injunctive and other relief or to enforce compliance with
+the Act whenever it shall appear to the Commission that any person has engaged, is engaging, or
+is about to engage in any act or practice constituting a violation of any provision of the Act or
+any rule, regulation, or order thereunder.
+
+14. Venue properly lies with this Court pursuant to 7 U.S.C. § 13a-1(e) because
+Defendants transacted business in this District, and certain of the acts and practices in violation
+of the Act have occurred, are occurring, or are about to occur within this District, among other
+
+places.
+
+Hit. PARTIES
+
+15. Plaintiff Commodity Futures Trading Commission (“CFTC” or “Commission’’) is
+an independent federal regulatory agency charged by Congress with administering and enforcing
+the Act and accompanying Regulations.
+
+16. Defendant Long Leaf Trading Group, Inc. is an Illinois corporation with its
+principal place of business in Chicago, Illinois, which is in turn owned by Donelson Enterprises,
+Inc., a non-party Illinois corporation. Long Leaf was throughout the Relevant Period, and
+
+continues to be, registered with the Commission as an introducing broker (“IB”).
+17. Defendant Timothy M. Evans is a natural person. Evans was the founder of Long
+
+Leaf, as well as its owner and CEO from at least 2009 through December 2017. During that
+period, Evans resided in Chicago, Illinois. Sometime after 2017, Evans relocated to Tulum,
+Mexico, where he currently resides. Evans was registered with the Commission as an AP of
+Long Leaf from 2010 through 2018. Evans has no current registration status with the
+Commission.
+
+18. Defendant James A. Donelson is a natural person. Donelson has been the CEO of
+Long Leaf from December 2017 through the present. Donelson resides in Aurora, Illinois.
+Donelson controls Long Leaf and Donelson Enterprises, Inc. Donelson was registered with the
+Commission as an AP of Long Leaf from June 2018 through December 2019. Donelson has no
+current registration status with the Commission.
+
+19. Defendant Jeremy S. Ruth is a natural person. Ruth was registered with the
+Commission as an AP of Long Leaf from April 2015 through August 2017. During the period he
+worked for Long Leaf, Ruth resided in Chicago, Illinois. Upon information and belief, Ruth
+currently splits his time between Chicago, Illinois and Austin, Texas. Ruth has no current
+registration status with the Commission.
+
+20. Defendant Andrew D. Nelson is a natural person. Nelson acted as an AP for
+Long Leaf from September 2017 through July 2018, by soliciting and accepting customer orders.
+From July 2018 through November 2018, Nelson worked for Long Leaf reviewing and
+developing solicitation materials. Nelson resided in Chicago, Illinois while working for Long
+Leaf. Upon information and belief, Nelson currently resides Elmhurst, Illinois. Nelson has
+
+never been registered with the Commission as an AP of Long Leaf or in any other capacity.
+IV. FACTUAL ALLEGATIONS
+A. Long Leaf Was an Introducing Broker, Introducing Accounts and Generating
+
+Commissions.
+
+21. Pursuant to relevant parts of Section 1a(31) of the Act, 7 U.S.C. § 1a(31) (2018),
+an IB is any person “engaged in soliciting or in accepting orders for the purchase or sale of,”
+among other financial instruments, commodity futures, swaps, and commodity options, but who
+“does not accept any money, securities, or property (or extend credit in lieu thereof) to margin,
+guarantee, or secure any trades or contracts that result or may result therefrom.” Throughout the
+Relevant Period, Long Leaf was an IB, and was registered as such with the Commission.
+
+22. An IB cannot place customer orders on a designated contract market. Rather, an
+IB introduces its customers to a futures commission merchant (“FCM”), where each customer
+must open an account for trading on a designated contract market.
+
+23. An IB earns revenue in the form of a commission when a customer places a trade
+(or when the IB places a trade on behalf of the customer) in an account with the FCM in
+accordance with the customer’s agreement with the IB.
+
+24. Commissions are typically assessed on a per-trade basis, on whatever terms are
+agreed to between the IB and the customer. Commissions are deducted from the customer’s
+account by the FCM, with a portion retained by the FCM and the balance forwarded to the IB.
+As will be described in greater detail below, during the Relevant Period, Long Leaf introduced
+customers to certain FCMs and received commissions for orders executed in those customer
+accounts.
+
+25. A person who works for an IB in any capacity that involves the solicitation or
+acceptance of customer orders, or the supervision of such persons, is referred to as an “associated
+
+person” or “AP”. Pursuant to relevant provisions of Section 4k(1) of the Act, 7 U.S.C. § 6k(1)
+(2018), it is unlawful for a person to be associated as an AP of an IB without being registered as
+such.
+
+B. Long Leaf Made Trading Recommendations to Customers as Part of the ‘““Time
+Means Money Program.”
+
+26. Starting in at least June 2015, Long Leaf began soliciting customers and
+prospective customers to participate in Long Leaf’s so-called “Time Means Money” options
+trading program.
+
+27. Long Leaf provided customers that agreed to participate in the TMM program
+with trading recommendations, typically four recommendations every month. Each
+recommendation was for a different spread trade, with each trade typically involving four out-of-
+the-money options on futures contracts traded on designated contract markets, 1.e., exchanges,
+such as the Chicago Mercantile Exchange (“CME”) and New York Mercantile Exchange
+(“NYMEX’’).
+
+28. A spread trade is a trade in which a trader stmultaneously buys and sells contracts
+in the same (or related) commodity interests in order to “bracket” the market. An option on
+futures contract is the right, but not the obligation, to buy or sell a futures contract upon or before
+expiry of the option at a pre-determined “strike” price. An option is out-of-the-money if it
+cannot be profitably exercised at the current market price.
+
+29. Every customer participating in the TMM program received the same
+recommendations as every other customer. The only difference was in the number of contracts
+recommended per spread trade; customers with more equity, i.e., value, in their accounts would
+be advised to trade more contracts; customers with less equity would be advised to trade fewer
+contracts. Customers who desired higher returns would also be advised to trade more contracts;
+
+this component of the program was “customized” on an individual basis for participants.
+30. Long Leaf’s APs, including Defendants Ruth and Nelson (collectively, the “AP
+Defendants’’), provided the recommendations to Long Leaf customers typically by email or over
+the phone.
+
+31. Long Leaf did not utilize powers of attorney or letters of direction in connection
+with the TMM program. Long Leaf’s APs instructed customers to simply respond “yes” in a text
+or email to accept the recommended trades.
+
+32. Long Leaf would forward the customer orders to its FCM, either over the phone
+or via an electronic trading platform. The FCM would then place the orders on the exchange to
+be executed.
+
+33. Long Leaf was not registered as a CTA even though it was acting as one.
+Pursuant to relevant parts of Section la(12) of the Act, 7 U.S.C § la(12), a CTA is a person or
+entity engaged in the business of advising others, either directly or through publications,
+writings, or electronic media, as to the value of or the advisability of trading commodity options
+in return for compensation. In this case, the compensation took the form of commissions
+assessed against recommended trades.
+
+34. Long Leaf failed to provide customers with certain disclosures required by the
+Regulations when a CTA guides customer accounts pursuant to a systematic trading program.
+These required disclosures include, inter alia, the CTA’s (and the program’s) track record, or
+lack thereof.
+
+C. Long Leaf APs Made False and Misleading Statements About the Success of the
+TMM Program.
+
+35. Long Leaf, by and through its APs, including the AP Defendants, made false and
+misleading statements to customers and prospective customers to induce them to participate in
+
+the TMM program. Those statements were set forth in various scripts and presentations
+provided to the APs by management, i.e., Defendants Evans and, later, Donelson, and included
+the following:
+a. Long Leaf uses options-selling strategies to “drive results”; the results are
+attributable to the “basic advantage the seller has,” which is that “on average
+
+99 666
+
+76.5% of options expire worthless.” “[I]f you sell 4 options, there is a strong
+statistical likelihood you are going to win 3 on those... giving you a much more
+predictable path to success.”
+
+b. Long Leaf was founded on the principal that “[w]e should provide our clients a
+strong return on their investment.” Long Leaf measures its success by the success
+of its clients; “[a]s a company, we wouldn’t have the ability to work with
+hundreds of clients month-after-month for 6 years and oversee millions of dollars
+if we weren’t being profitable for them... .”
+
+C. Long Leaf combines industry expertise, technical analysis, and a “proprietary
+
+algorithm” to “form ideas that have been providing a strong return for our
+
+clients.”
+
+d. Trades recommended by Long Leaf are “more likely than not” to make money for
+customers.
+
+36. Promotional materials utilized by Long Leaf also included a power point
+
+presentation showing an annual return of twelve percent on a $100,000 account with Long Leaf.
+Long Leaf APs, including the AP Defendants, showed this presentation to prospective customers
+
+(via the web) and told them it would be “easy” to achieve a twelve percent return with TMM.
+37. Long Leaf APs, including the AP Defendants, made some or all of these false and
+misleading statements to substantially every customer and prospective customer throughout the
+Relevant Period.
+
+D. Substantially All Customers Lost Money in the TMM Program.
+
+38. In reality, substantially all Long Leaf customers lost money under the TMM
+program. Not only that, many customers lost all funds deposited in their accounts. In many
+cases, these were customers’ retirement accounts.
+
+39. During the Relevant Period, more than four hundred Long Leaf customers lost
+more than $6.1 million trading pursuant to Long Leaf’s recommendations. The TMM program
+was a failure for Long Leaf’s customers from the outset; in the first two months of the program,
+June and July of 2015, customers lost $348,000. In the first nineteen months of the program, i.e.,
+through the end of December 2016, customers lost $1.53 million. Customers continued to lose
+money each year after that; $2.35 million in 2017, $1.5 million 2018, and $809,000 in 2019.
+
+E. The LLT Defendants Were Aware of Customer Losses.
+
+AO. Long Leaf’s principals, Defendants Evans and, later, Donelson, were aware that
+customers lost money trading under the TMM program. Evans and Donelson knew customers
+were losing money because they monitored the recommended trades on a real-time basis. They
+also received daily account statements showing losses in substantially all customer accounts.
+Moreover, Evans and Donelson received calls and emails from customers complaining about
+losses in their accounts.
+
+Al. Long Leaf APs, including the AP Defendants, were aware of customer losses as
+well. Long Leaf APs received daily account statements for their customers. Long Leaf APs,
+including the AP Defendants, also received complaints from their customers about the poor
+
+performance of their accounts.
+
+10
+42. Despite their knowledge of customer losses, Long Leaf, through its APs,
+including the AP Defendants, continued to misrepresent that trading under the TMM program
+was profitable for customers.
+
+F. The LLT Defendants Concealed Losses from Customers and Prospective
+Customers.
+
+43. The LLT Defendants actively concealed losses from customers and prospective
+customers. Long Leaf had a policy of refusing to provide customers or prospective customers
+with historical trading results, average returns, or any kind of track record. The policy was
+instituted by Evans, and continued under Donelson.
+
+44. When customers asked if Long Leaf’s recommendations were profitable for
+customers, Long Leaf APs, including the AP Defendants, claimed falsely that it was illegal for
+Long Leaf to provide that information.
+
+45. Long Leaf provided APs with a script for how to deal with requests for past
+performance. The script instructed APs to tell customers that they could “sit here and show you
+trades and WOW you or something like that,” but the “success” of the TMM program is
+attributable to its “structure,” i.e., recommending spread trades in options on uncorrelated
+commodity futures.
+
+46. Long Leaf APs, including the AP Defendants, used the script regularly throughout
+the Relevant Period.
+
+G. The LLT Defendants Took Advantage of Customer Confusion.
+
+47. Long Leaf’s customers were retail customers. Many customers had difficulty
+understanding the account statements they received from the FCM. Long Leaf APs, including
+
+the AP Defendants, took advantage of their customers’ confusion.
+
+11
+48. Sometimes Long Leaf APs, including the AP Defendants, would tell a customer
+that he or she had made money when in fact the customer had lost money. Other times they
+would tell a customer that he or she had made money on one of the recommended trades while
+failing to mention the customer had lost money on the other three.
+
+49. For customers who understood they were losing money, Long Leaf APs,
+including the AP Defendants, would sometimes claim (falsely) that account statements did not
+reflect “unrealized P&L.” Other times, they would acknowledge the losses, but claim that Long
+Leaf tended to “perform well coming out of [ ] periods where we take a loss” because of
+“volatility.” This was untrue.
+
+H. Long Leaf Made Millions in Commissions from the TMM Program.
+
+50. From a sales perspective, the TMM program was a great success. Within a few
+months after the program was introduced, substantially all Long Leaf customers were
+participating in it.
+
+51. Long Leaf’s revenues expanded dramatically as a result of the TMM program.
+Before the program, Long Leaf was dependent on commissions from self-directed customers, or
+from one-off trading recommendations. The TMM program allowed Long Leaf to systemically
+generate commissions on a large scale by selling customers on the “idea” of the program.
+
+52. While customers lost money, Long Leaf made money in the form of its share of
+commissions received from the FCM executing recommended trades and carrying the customer
+accounts. During the Relevant Period, the TMM program generated more than $4.4 million in
+commissions for Long Leaf. Long Leaf made $373,000 from the program in 2015; $1.25 million
+
+in 2016; $1.54 million in 2017; $869,000 in 2018; and $369,000 in 2019.
+
+12
+I. Long Leaf’s Trade Recommendations Were Designed to Maximize Commissions.
+53. Long Leaf’s trading recommendations were designed primarily to generate
+
+commissions. The trades had little potential economic benefit for customers. Even if the trades
+won, it was not possible for them to win much.
+
+54. On the occasions when one of Long Leaf’s recommended trades did win, Long
+Leaf’s commissions typically resulted in net losses for customers. Indeed, the $4.4 million in
+commissions received by Long Leaf accounted for more than seventy percent of the $6.1 million
+that customers lost.
+
+55. By recommending four trades a month, each consisting of four legs, 1.e., four
+individual option trades, the TMM program allowed Long Leaf to generate at least sixteen
+commissions per customer every month. This had the effect of steadily depleting customer
+accounts over time.
+
+56. Long Leaf APs, including the AP Defendants, shared in these commissions.
+
+J. Defendant Ruth Knowingly Made False and Misleading Statements and Omissions
+to Customers and Prospective Customers.
+
+57. As set forth above, Ruth worked as an AP of Long Leaf from at least April 2015
+through August 2017. Ruth was one of Long Leaf’s most prolific and highest-paid APs.
+
+58. Ruth made numerous false and misleading statements to customers and
+prospective customers about profits and losses in the TMM program. In investigative testimony,
+Ruth admitted that he followed the script given to him by Evans. This included the
+representations set forth above in paragraph 35.
+
+59. For example, in a May 3, 2017, call with Prospective Customer A (an eighty-one
+
+year old Vietnam veteran) , Ruth represented:
+
+13
+a. Because “76.5% of options expire worthless,’ Long Leaf customers have a
+“higher probability of winning;”
+b. It is “very easy to ... accomplish 12% on an annual basis.”
+60. Ruth made these or other similar statements to substantially every customer or
+prospective customer during his tenure at Long Leaf.
+61. Ruth also made off-script misrepresentations to customers and prospective
+
+customers about the profitability of Long Leaf’s trading recommendations. In an email dated
+July 25, 2017, for example, Ruth wrote to Customer B: “Normally with a 10k account my
+clients target $500 to $1000 per month. Obviously there are going to be months where we don’t
+win, but getting an average of win in that range is a realistic target.” Earlier the same day, Ruth
+had sent an email to Evans about $16,000 in losses in a different customer’s account.
+
+62. Ruth knew that his statements to customers were false. Ruth received daily
+account statements for the customers that he serviced. Some of those customers Ruth originated;
+others he inherited from APs that had left the firm. Substantially all of the customers’ accounts
+had lost money.
+
+63. Ruth also fielded customer calls and emails complaining about losses in their
+accounts. For example, on August 30, 2016, Customer C sent Ruth an email complaining that:
+“My account is down 33% when I look at my cash balance. At this point, I need a 50% return on
+current capital just to get back to where we started a year ago. Even if you met the targeted 20%
+return per year that we initially discussed, it will be 2+ years to recover.”” Ruth received similar
+complaints throughout his tenure at Long Leaf.
+
+64. Starting as early as April 2017, Ruth started personally tracking returns on each
+
+recommended trade. Substantially all of them were losses; in an April 13, 2017, email, for
+
+14
+example, Ruth sent a chart to two other Long Leaf APs showing losses of $970 per customer for
+the previous month’s recommendations. Ruth continued to track losses on a per-trade basis
+through the end of the Relevant Period. Ruth nonetheless continued to misrepresent to
+customers that trading with TMM would be profitable.
+
+65. Pursuant to Long Leaf’s policy, Ruth did not tell any customer or prospective
+customer that almost all of Long Leaf’s customers lost money. Ruth encouraged other Long
+Leaf APs to do the same. In an April 27, 2017, email to another AP, Ruth attached a recording
+from a recent sales call, advising the AP that “the value in this call is how to get around a request
+for a track record and how to show empathy so he feels you understand him.”
+
+66. Ruth misled customers as to the status of their accounts. For example, on
+June 22, 2017, Customer D wrote to Ruth complaining about account losses. Ruth wrote back:
+“TW ]e are then re-initiating the portfolio, we are now capturing that existing volatility with
+higher premiums on our option sales. This is why we tend to perform well coming out of these
+periods where we take a loss.”
+
+67. During the Relevant Period, Ruth was paid approximately $300,000 by Long
+Leaf, primarily in the form of commissions.
+
+K. Defendant Nelson Knowingly Made False and Misleading Statements and Omissions
+to Customers and Prospective Customers.
+
+68. As set forth above, Nelson acted in the capacity of an AP of Long Leaf from at
+least September 2017 through at least July 2018. Nelson was not, however, registered as an AP
+of Long Leaf as required by the Act and Regulations.
+
+69. Nelson made numerous false and misleading statements to customers and
+
+prospective customers about profits and losses in the TMM program. In investigative testimony,
+
+15
+Nelson admitted that he followed the script given to him by Evans. This included the
+representations set forth above in paragraph 35.
+
+70. For example, in a January 4, 2018, call with Customer E, Nelson represented:
+
+a. “As a company we would not have the ability to work with hundreds of clients
+month after month for nine years and oversee millions if we were not being
+profitable for our clients”
+
+b. ‘Tim [Evans] uses a proprietary methodology to then blend all these ideas
+together that have been providing strong returns for our clients.”
+
+71. Nelson made these or other similar statements to substantially every customer or
+
+prospective customer during his tenure at Long Leaf.
+
+72. Nelson made additional, off-script misrepresentations to customers and
+prospective customers about the profitability of Long Leaf’s trading recommendations. For
+example, in a May 3, 2018, call with Customer F, Nelson represented: “For the last month what
+I’ve done for the more aggressive guys Ihave... they are up a little bit over fifty percent; my
+more conservative guys are more around the thirty-two, thirty-five percent mark.”
+
+73. Nelson knew that his statements to customers were false. Nelson received daily
+account statements for the customers that he serviced. Some of those customers Nelson
+originated; others he inherited from APs that had left the firm. Substantially all of the
+customers’ accounts had lost money.
+
+74. Nelson also fielded customer calls and emails complaining about losses in their
+accounts. For example, on January 29, 2018, Customer G sent an email to Nelson complaining
+
+that his account balance had decreased from $30,000 to $12,000. Nelson responded by falsely
+
+16
+assuring Customer G that his account statements do not reflect “unrealized P&L.” Nelson
+received similar complaints throughout his tenure at Long Leaf.
+
+75. Pursuant to Long Leaf’s policy, Nelson never provided any track record or
+accurate information about returns to any customer or prospective customer. Nelson did not tell
+any customer or prospective customer that almost all of Long Leaf’s customers lost money. In
+investigative testimony, Nelson acknowledged that he failed to disclose losses to customers
+because “that’s not going to get us any more client capital.”
+
+76. Nelson also lied to customers about his ability to share information regarding
+historic returns. In a November 1, 2017, call, for example, Nelson explained to customer H that
+he was precluded from disclosing Long Leaf’s track record because of “HIPAA.” HIPAA is the
+Health Insurance Portability and Accountability Act and does not preclude the disclosure of
+trading returns.
+
+77. Nelson additionally misled customers as to the status of their accounts. For
+example, on February 5, 2018, Customer I wrote to Nelson asking how the most recent trade
+went; Nelson responded that “3/4 are hitting our profit target already .. . between 100 - 200%.”
+In reality, three out of the four recommended trades had lost money, for a net loss of $2,200 in
+Customer I’s account.
+
+78. During the Relevant Period, Nelson was paid approximately $33,000, a
+
+combination of commissions and salary (for assisting in developing solicitation materials).
+
+17
+~ aye OE em _. 5 tg aoe 5 Ne Pe Fee ee wee ra OM a ee
+rr a OEE ey POPE OD PNevapreesearmd He ot Taba ed ARM POR PON Tease TO mf OOD Marnrnil hh. tO
+Pe eee Aa EQ OF SON OF GP Syr betes : seb’ y PERN eos bee yet of Dp Par S ob" wii bias Bodom ry
+
+oY oe PF Bee AP a Maer Be Proc ake F PRR R a. NPL CAS ke F Ree eke ALPE AS OT Ne bh PY ’
+
+f mee : ,
+AS c :
+Le CAA bt ee OA RLS LP PE PP
+
+V. STATUTORY AND REGULATORY VIOLATIONS
+
+COUNT I
+Fraud in Connection with Options on Futures Contracts
+Violation of Section 4c(b) of the Act, 7 U.S.C. § 6c(b) (2018), and
+Regulation 33.10, 17 C.F.R. § 33.10 (2019)
+(Against all LLT Defendants)
+
+79. The allegations set forth in paragraphs | through 78 above are re-alleged and
+incorporated as if fully set forth herein.
+
+80. 7 U.S.C. § 6c(b) provides that no person shall offer to enter into, enter into, or
+confirm the execution of, any transaction involving any commodity which is of the character of,
+or is commonly known to the trade as, an “option,” contrary to any rule, regulation, or order of
+the Commission prohibiting any such transaction or allowing any such transaction under such
+terms and conditions as the Commission shall prescribe.
+
+81. 17 C.F.R. § 33.10 provides that it shall be unlawful for any person directly or
+indirectly to: (a) cheat or defraud or attempt to cheat or defraud any other person; (b) make or
+cause to be made to any other person any false report or statement thereof; or (c) deceive or
+attempt to deceive any other person by any means whatsoever, in or in connection with an offer
+to enter into, the entry into, the confirmation of the execution of, or the maintenance of, any
+commodity option transaction.
+
+82. As set forth above in paragraphs | through 78, the LLT Defendants engaged in a
+fraudulent scheme with respect to the TMM program, in violation of 7 U.S.C. § 6c(b) and
+17 C.F.R. § 33.10. The LLT Defendants did so by knowingly or recklessly making false and
+misleading statements to customers and prospective customers about the profitability of trading
+pursuant to recommendations provided by Long Leaf.
+
+83. Moreover, the LLT Defendants knowingly or recklessly failed to disclose that
+
+substantially all customers lost money trading pursuant to Long Leaf’s recommendations. This
+
+18
+is a fact that a reasonable investor would find material in determining whether to invest, and
+without which other statements by the LLT Defendants were misleading.
+
+84. The false and misleading statements and omissions made by the officers, agents,
+or other persons acting by or on behalf of Long Leaf, including Long Leaf’s APs, were made
+within the scope of each such person’s agency or employment. As such, Long Leaf is liable for
+each such person’s false or misleading statements or omissions pursuant to Section 2(a)(1)(B) of
+the Act, 7 U.S.C. § 2(a)(1)(B) (2018), and Regulation 1.2, 17 C.F.R. § 1.2 (2019).
+
+85. Defendant Evans was the founder, CEO, and owner of Long Leaf from at least
+June 2015 through December 2017, and during that period possessed and exercised, directly or
+indirectly, the power to direct or cause the direction of the management and policies of Long
+Leaf. As such, Evans controlled Long Leaf during that period. Evans did not act in good faith
+with respect to, and knowingly induced, directly or indirectly, the acts and omissions constituting
+Long Leaf’s violations of the Act and Regulations. Accordingly, Evans is liable for Long Leaf’s
+violations of the Act and Regulations committed during the period of at least June 2015 through
+December 2017, pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b) (2018).
+
+86. Defendant Donelson was the CEO of Long Leaf from at least December 2017
+through the present, and during that period possessed and exercised, directly or indirectly, the
+power to direct or cause the direction of the management and policies of Long Leaf. As such,
+Donelson controlled Long Leaf during that period. Donelson did not act in good faith with
+respect to, and knowingly induced, directly or indirectly, the acts and omissions constituting
+Long Leaf’s violations of the Act and Regulations. Accordingly, Donelson is liable for Long
+Leaf’s violations of the Act and Regulations committed during the period of at least December
+
+2017 through the present, pursuant to 7 U.S.C. § 13c(b).
+
+19
+COUNT II
+Fraud by a Commodity Trading Advisor
+Violation of Section 4o of the Act, 7 U.S.C. § 60 (2018)
+(Against all LLT Defendants)
+87. The Act defines a commodity trading adviser (“CTA”), in relevant part, as a
+
+person who, for compensation of profit, engages in the business of advising others as to the value
+of or the advisability of trading in commodity options, including options on futures contracts.
+7 U.S.C. § 1a(12)(A)G), Gi) (2018).
+
+88. During the Relevant Period, and as set forth in paragraphs | through 78, Long
+Leaf provided customers with recommendations for trading options on futures contracts pursuant
+to the TMM program. Long Leaf did so for compensation or profit, which it received in the form
+of commissions paid to it by FCMs on a per-trade basis. As such, Long Leaf was acting in the
+capacity of a CTA within the meaning of the Act.
+
+89. 7 U.S.C. § 60 (a) provides that it shall be unlawful for a CTA or associated person
+thereof, directly or indirectly, to: (a) employ any device, scheme, or artifice to defraud a
+customer or prospective customer; or (b) engage in any transaction, practice, or course of
+business which operates as a fraud or deceit upon any customer or prospective customer.
+
+90. As set forth above in paragraphs 1 through 78, Long Leaf engaged in a fraudulent
+scheme with respect to the TMM program, in violation of 7 U.S.C. § 60. Long Leaf did so by
+knowingly or recklessly making false and misleading statements to customers and prospective
+customers, through its employees and agents, about the profitability of trading pursuant to
+recommendations provided by Long Leaf.
+
+91. Moreover, Long Leaf knowingly or recklessly failed to disclose, acting through
+its employees and agents, that substantially all customers lost money trading pursuant to Long
+
+Leaf’s recommendations. This is a fact that a reasonable investor would find material in
+
+20
+ye LOSE Sy A ewe ey and i. AEP EEN PI Re ae yA Po be
+ASE PO.cy-OR3 758 Document & fee 6/26/20 Pane 27 43 PaqeiDh #
+x XK fad A A xe & FLAG TELS GD Sihek NS? SA. fan Nat CAN weed of ALEK PL PP.
+Re
+
+determining whether to invest, and without which other statements by the LLT Defendants were
+misleading.
+
+92. The false and misleading statements and omissions made by the officers, agents,
+or other persons acting by or on behalf of Long Leaf, including Long Leaf’s APs, were made
+within the scope of each such person’s agency or employment. As such, Long Leaf is liable for
+each such person’s false or misleading statements or omissions pursuant to 7 U.S.C. § 2(a)(1)(B)
+and 17 C.F.R. § 1.2.
+
+93. Defendant Evans was the founder, CEO, and owner of Long Leaf from at least
+June 2015 through December 2017, and during that period possessed and exercised, directly or
+indirectly, the power to direct or cause the direction of the management and policies of Long
+Leaf. As such, Evans controlled Long Leaf during that period. Evans did not act in good faith
+with respect to, and knowingly induced, directly or indirectly, the acts and omissions constituting
+Long Leaf’s violations of the Act and Regulations. Accordingly, Evans is liable for Long Leaf’s
+violations of the Act and Regulations committed during the period of at least June 2015 through
+December 2017, pursuant 7 U.S.C. § 13c(b).
+
+94. Defendant Donelson was the CEO of Long Leaf from at least December 2017
+through the present, and during that period possessed and exercised, directly or indirectly, the
+power to direct or cause the direction of the management and policies of Long Leaf. As such,
+Donelson controlled Long Leaf during that period. Donelson did not act in good faith with
+respect to, and knowingly induced, directly or indirectly, the acts and omissions constituting
+Long Leaf’s violations of the Act and Regulations. Accordingly, Donelson is liable for Long
+Leaf’s violations of the Act and Regulations committed during the period of at least December
+
+2017 through the present, pursuant to 7 U.S.C. § 13c(b).
+
+21
+95. Defendants Ruth and Nelson are liable pursuant to Section 13(a) of the Act,
+7 U.S.C. § 13c(a) (2018), for aiding and abetting Long Leaf’s CTA fraud. As set forth above,
+the AP Defendants knowingly made misstatements and omissions of material fact in order to
+further Long Leaf’s fraudulent business.
+COUNT Il
+Fraudulent Advertising by a Commodity Trading Advisor
+
+Violation of Regulation 4.41, 17 C.F.R. § 4.41(a) (2019)
+(Against Long Leaf, Evans, and Donelson)
+
+96. 17 C.F.R. § 4.41(a) makes it unlawful for a CTA or any principal thereof to
+advertise in a manner which: (1) employs any device, scheme or artifice to defraud any
+customer or prospective customer; or (2) involves any transaction, practice or course of business
+which operates as a fraud or deceit upon any customer or prospective customer. This prohibition
+applies, inter alia, to the texts of standardized oral presentations. 17 C.F.R. § 4.41(c)(1).
+
+97. As set forth above in paragraphs | through 78, Long Leaf APs made fraudulent
+misrepresentations and omissions to customers and prospective customers about the profitability
+of trading pursuant to recommendations provided by Long Leaf. These misrepresentations and
+omissions were set forth in scripts, 1.e., standardized oral presentations, which APs delivered to
+customers and prospective customers. The scripts were provided and approved by the principals
+of Long Leaf, Evans and Donelson.
+
+98. Defendants Long Leaf, Evans, and Donelson therefore engaged in fraudulent
+advertising in violation of 17 C.F.R. § 4.41(a).
+
+99. Defendant Evans was the founder, CEO, and owner of Long Leaf from at least
+June 2015 through December 2017, and during that period possessed and exercised, directly or
+indirectly, the power to direct or cause the direction of the management and policies of Long
+
+Leaf. As such, Evans controlled Long Leaf during that period. Evans did not act in good faith
+
+22
+with respect to, and knowingly induced, directly or indirectly, the acts and omissions constituting
+Long Leaf’s violations of the Act and Regulations. Accordingly, Evans is liable for Long Leaf’s
+violations of the Act and Regulations committed during the period of at least June 2015 through
+December 2017, pursuant to 7 U.S.C. § 13c(b).
+
+100. Defendant Donelson was the CEO of Long Leaf from at least December 2017
+through the present, and during that period possessed and exercised, directly or indirectly, the
+power to direct or cause the direction of the management and policies of Long Leaf. As such,
+Donelson controlled Long Leaf during that period. Donelson did not act in good faith with
+respect to, and knowingly induced, directly or indirectly, the acts and omissions constituting
+Long Leaf’s violations of the Act and Regulations. Accordingly, Donelson is liable for Long
+Leaf’s violations of the Act and Regulations committed during the period of at least December
+2017 through the present, pursuant to 7 U.S.C. § 13c(b).
+
+COUNT IV
+Failure to Register as a Commodity Trading Advisor
+
+Violation of Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2018)
+(Against Long Leaf, Evans, and Donelson)
+
+101. 7U.S.C. § 6m(1) requires a person acting as a CTA to register as such with the
+CFTC if the person makes use of the mails or any means or instrumentality of interstate
+commerce in connection with its business as a CTA.
+
+102. An IB that guides the majority of customer accounts pursuant to a “trading
+program” is generally required to register as a CTA. Long Leaf was not otherwise exempt from
+registration as a CTA.
+
+103. Long Leaf guided the majority of its customer accounts through recommendations
+
+pursuant to the TMM program in the manner set forth above in paragraphs | through 78.
+
+23
+104. Long Leaf used the instrumentalities of interstate commerce in connection with its
+CTA business, including email, the internet, and the telephone.
+
+105. Despite these facts, Long Leaf has never been registered as a CTA. Long Leaf
+therefore violated 7 U.S.C. § 6m(1).
+
+106. Defendant Evans was the founder, CEO, and owner of Long Leaf from at least
+June 2015 through December 2017, and during that period possessed and exercised, directly or
+indirectly, the power to direct or cause the direction of the management and policies of Long
+Leaf. As such, Evans controlled Long Leaf during that period. Evans did not act in good faith
+with respect to, and knowingly induced, directly or indirectly, the acts and omissions constituting
+Long Leaf’s violations of the Act and Regulations. Accordingly, Evans is liable for Long Leaf’s
+violations of the Act and Regulations committed during the period of at least June 2015 through
+December 2017, pursuant to 7 U.S.C. § 13c(b).
+
+107. Defendant Donelson was the CEO of Long Leaf from at least December 2017
+through the present, and during that period possessed and exercised, directly or indirectly, the
+power to direct or cause the direction of the management and policies of Long Leaf. As such,
+Donelson controlled Long Leaf during that period. Donelson did not act in good faith with
+respect to, and knowingly induced, directly or indirectly, the acts and omissions constituting
+Long Leaf’s violations of the Act and Regulations. Accordingly, Donelson is liable for Long
+Leaf’s violations of the Act and Regulations committed during the period of at least December
+
+2017 through the present, pursuant to 7 U.S.C. § 13c(b).
+
+24
+COUNT V
+Failure to Provide Required Disclosures for Trading Program
+Violation of Regulation 4.31(a) and (b), 17 C.F.R. § 4.31(a), (b) (2019), and
+Regulation 4.36(d)(1), 17 C.F.R. § 4.36(d)(1) (2019)
+(Against Long Leaf, Evans, and Donelson)
+
+108. 17C-.F.R. § 4.31(a) requires a CTA registered or required to be registered to
+provide each customer or prospective customer with a detailed disclosure statement if the CTA
+seeks to guide the customer’s account pursuant to a systematic program that recommends
+specific transactions, 1.e., a “trading program.”
+
+109. The required disclosure statement must include certain specific information
+relating to the track record (or lack of a track record) for the program, including:
+
+a. the annual and year-to-date rate of return for the program specified for the five
+most recent calendar years and year-to-date, computed on a compounded monthly
+basis, and with monthly rates of return; and
+
+b. the number of accounts traded pursuant to the offered trading program that were
+opened and closed with a negative net lifetime rate of return as of the date the
+account was closed.
+
+17 C.F.R. § 4.35(a)(1) (2019).
+
+110. Before guiding any customer account pursuant to such a trading program, the
+CTA must obtain a signed and dated acknowledgement from the customer that the customer has
+received the disclosure statement. 17 C.F.R. § 4.31(b). The CTA must also provide a copy of
+the disclosure statement to NFA at least three weeks before it plans to offer the trading program
+to customers or prospective customers. 17 C.F.R. § 4.36(d)(1).
+
+111. As set forth above in paragraphs | through 78, Long Leaf is required to be
+
+registered as a CTA. Long Leaf nonetheless failed to provide customers or prospective
+
+25
+customers with the required disclosures or obtain the required acknowledgement. Long Leaf
+likewise failed to file the required disclosure statement with the NFA.
+
+112. Long Leaf therefore violated 17 C.F.R. § 4.31(a), (b) and 17 C.F.R. § 4.36(d)(1).
+
+113. Defendant Evans was the founder, CEO, and owner of Long Leaf from at least
+June 2015 through December 2017, and during that period possessed and exercised, directly or
+indirectly, the power to direct or cause the direction of the management and policies of Long
+Leaf. As such, Evans controlled Long Leaf during that period. Evans did not act in good faith
+with respect to, and knowingly induced, directly or indirectly, the acts and omissions constituting
+Long Leaf’s violations of the Act and Regulations. Accordingly, Evans is liable for Long Leaf’s
+violations of the Act and Regulations committed during the period of at least June 2015 through
+December 2017, pursuant to 7 U.S.C. § 13c(b).
+
+114. Defendant Donelson was the CEO of Long Leaf from at least December 2017
+through the present, and during that period possessed and exercised, directly or indirectly, the
+power to direct or cause the direction of the management and policies of Long Leaf. As such,
+Donelson controlled Long Leaf during that period. Donelson did not act in good faith with
+respect to, and knowingly induced, directly or indirectly, the acts and omissions constituting
+Long Leaf’s violations of the Act and Regulations. Accordingly, Donelson is liable for Long
+Leaf’s violations of the Act and Regulations committed during the period of at least December
+2017 through the present, pursuant to 7 U.S.C. § 13c(b).
+
+COUNT VI
+Failure to Register as Associated Persons
+Violation of Section 4k(1) of the Act, 7 U.S.C. § 6k(1) (2018), Regulation 3.12(a), 17 C.F.R.
+
+§ 3.12(a) (2019), and Regulation 33.3(b)(1) and (2), 17 C.F.R. § 33.3(b)(1), (2) (2019)
+(Against Long Leaf, Donelson, Evans, and Nelson, Variously)
+
+115. 7U.S.C. § 6k(1) provides that it shall be unlawful for a person to be associated
+
+with an IB as a partner, officer, employee, or agent (or any person occupying a similar status or
+
+26
+Case: 1:20-cv-03758 Document #: 1 Filed: 06/26/20 Page 27 of 33 PagelD #:27
+
+performing similar functions), in any capacity that involves: (a) the solicitation or acceptance of
+customers’ orders; or (b) the supervision of any person or persons so engaged, unless such
+person is registered with the Commission as an AP of such IB. Moreover, it shall be unlawful
+for an IB to permit such a person to become or remain associated with the IB in any such
+capacity if the IB knew or should have known that such person was not so registered.
+
+116. 17C.F.R. § 3.12(a) provides that it shall be unlawful for any person to be
+associated with an IB as an AP unless that person shall have registered with the Commission as
+an AP of that IB.
+
+117. 17C.F.R. § 33.3(b)(1) provides that it shall be unlawful for any person to solicit
+or accept orders from an option customer (other than in a clerical capacity) for any commodity
+option transaction, or to supervise any person or persons so engaged, unless such person is
+registered as an AP of an IB.
+
+118. 17C.F.R. § 33.3(b)(2) provides that it shall be unlawful for any person registered
+or required to be registered as an IB to permit another person to become or remain associated
+with such person as a partner, officer, employee, agent or representative (or in any status or
+position involving similar functions) in any capacity involving the solicitation or acceptance of
+an order from an option customer (other than in a clerical capacity) for any commodity option
+transaction, or the supervision of any person or persons so engaged, if such person knows or
+should have known that such other person is or was not registered as an AP.
+
+119. Defendant Nelson worked as an AP for Long Leaf from September 2017 through
+at least July 2018. During that period, Nelson solicited customers for participation in the TMM
+program, advised clients of recommendations, and accepted customer orders for options on
+
+futures contracts. Nelson was not at that time, and has never been, registered with the
+
+27
+Commission as an AP of Long Leaf, or in any other capacity. Nelson therefore acted in violation
+of 7 U.S.C. § 6k(1), 17 C.F.R. § 3.12(a), and 17 C.F.R. § 33.3(b)(1).
+
+120. From December 2017 through the present, Donelson supervised persons engaged,
+and was engaged himself, in the solicitation and acceptance of customer orders for options on
+futures contracts. Donelson did not register as an AP of Long Leaf until June 2018. Donelson
+therefore acted in violation of 7 U.S.C. § 6k(1), 17 C.F.R. § 3.12(a), and 17 C.F.R. § 33.3(b)(1).
+
+121. Long Leaf, through its principals Evans and Donelson, knew or should have
+known about Nelson’s lack of registration status, which is available to the public online through
+the website of the NFA. Long Leaf nonetheless allowed Nelson to work as an AP, soliciting and
+accepting customer orders for options on futures contracts. Moreover, Long Leaf allowed
+Donelson to act as an AP, and to supervise APs, without registration.
+
+122. Long Leaf therefore acted in violation of 7 U.S.C. § 6k(1) and 17 C.F.R. §
+33.3(b)(2).
+
+123. Defendant Evans was the founder, CEO, and owner of Long Leaf from at least
+June 2015 through December 2017, and during that period possessed and exercised, directly or
+indirectly, the power to direct or cause the direction of the management and policies of Long
+Leaf. As such, Evans controlled Long Leaf during that period. Evans did not act in good faith
+with respect to, and knowingly induced, directly or indirectly, the acts and omissions constituting
+Long Leaf’s violations of the Act and Regulations. Accordingly, Evans is liable for Long Leaf’s
+violations of the Act and Regulations committed during the period of at least June 2015 through
+December 2017, pursuant to 7 U.S.C. § 13c(b).
+
+124. Defendant Donelson was the CEO of Long Leaf from at least December 2017
+
+through the present, and during that period possessed and exercised, directly or indirectly, the
+
+28
+power to direct or cause the direction of the management and policies of Long Leaf. As such,
+Donelson controlled Long Leaf during that period. Donelson did not act in good faith with
+respect to, and knowingly induced, directly or indirectly, the acts and omissions constituting
+Long Leaf’s violations of the Act and Regulations. Accordingly, Donelson is liable for Long
+Leaf’s violations of the Act and Regulations committed during the period of at least December
+
+2017 through the present, pursuant to 7 U.S.C. § 13c(b).
+
+VI. RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that this Court, as authorized by
+Section 6c of the Act, 7 U.S.C. § 13a-1 (2018), and pursuant to its own equitable powers:
+
+A. Find that Defendant Long Leaf Trading Group, Inc. has violated Sections 4c(b),
+Ak(1), 4m(1), and 4o of the Act, 7 U.S.C. §§ 6c(b), 6k(1), 6m(1), 60 (2018), and
+Regulations 4.31(a) and (b), 4.36(d)(1), 4.41(a), 33.3(b)(2), and 33.10, 17 C.F.R.
+8§ 4.31(a), (b), 4.36(d)(1), 4.41 (a), 33.3(b)(2), 33.10 (2019).
+
+B. Find that Defendant James A. Donelson violated 7 U.S.C. §§ 6c(b), 6k(1), 6m(1),
+and 60, and 17 C.F.R. §§ 3.12(a), 4.31(a), (b), 4.36(d)(1), 4.41 (a), 33.3(b)(1), (2),
+and 33.10.
+
+C, Find that Defendant Timothy M. Evans violated 7 U.S.C. §§ 6c(b), 6k(1), 6m(1),
+and 60, and 17 C.F.R. §§ 4.31 (a), (b), 4.36(d)(1), 4.41(a), 33.3(b)(2), and 33.10.
+
+D. Find that Defendant Jeremy S. Ruth has violated 7 U.S.C. §§ 6c(b), 60, and
+17 C.F.R. § 33.10.
+
+E. Find that Defendant Andrew D. Nelson has violated 7 U.S.C. §§ 6c(b), 6k(1), 60,
+
+and 17 C.F.R. §§ 3.12(a), 33.3(b)(1), 33.10.
+
+29
+SOV es APE O Maes: AP EOE FOP Sw ay PRY PN heey
+
+vt Sh Pl Ra s VME A SS “~ on ms y i “et tt
+
+woken VAS & OG Hod g VAY CO 2 Pe Ok 2 CS FRY
+3
+
+Enter an order of permanent injunction enjoining Defendant Long Leaf Trading
+Group, Inc., and its affiliates, agents, servants, employees, successors, assigns,
+attorneys, and all persons in active concert with them, who receive actual notice
+of such order by personal service or otherwise, from engaging in the conduct
+described above, in violation of 7 U.S.C. §§ 6c(b), 6k(1), 6m(1), 60, and
+
+17 C.F.R. §§ 4.31(a), (b), 4.36(d)(1), 4.41 (a), 33.3(b)(2), 33.10.
+
+Enter an order of permanent injunction enjoining Defendant James A. Donelson
+and his affiliates, agents, servants, employees, successors, assigns, attorneys, and
+all persons in active concert with them, who receive actual notice of such order by
+personal service or otherwise, from engaging in the conduct described above, in
+violation of 7 U.S.C. §§ 6c(b), 6k(1), 6m(1), and 60, and 17 C.F.R. §§ 3.12(a),
+4.31(a), (b), 4.36(d)(1), 4.41(a), 33.3(b)(1), (2), and 33.10.
+
+Enter an order of permanent injunction enjoining Defendant Timothy M. Evans,
+and his affiliates, agents, servants, employees, successors, assigns, attorneys, and
+all persons in active concert with them, who receive actual notice of such order by
+personal service or otherwise, from engaging in the conduct described above, in
+violation of 7 U.S.C. §§ 6c(b), 6k(1), 6m(1), and 60, and 17 C.F.R. § 4.31(a), (b),
+4.36(d)(1), 4.41(a), 33.3(b)(2), and 33.10.
+
+Enter an order of permanent injunction enjoining Defendant Jeremy Ruth, and his
+affiliates, agents, servants, employees, successors, assigns, attorneys, and all
+persons in active concert with him, who receive actual notice of such order by
+personal service or otherwise, from engaging in the conduct described above, in
+
+violation of 7 U.S.C. §§ 6c(b), 60, and 17 C.F.R. § 33.10.
+
+30
+“~ AA 7 , ' MEAT PS — ort ~~
+
+eO.cy- OR PRR Moecrrneant hack APES R Pane 21 22 Dagoalfy 8
+
+ded A nat AP AGT PERSE Sihek NE A A? CALAN AS need oF ALEK Ph PP oad
+ne
+
+Enter an order of permanent injunction enjoining Defendant Andrew D. Nelson,
+and his affiliates, agents, servants, employees, successors, assigns, attorneys, and
+all persons in active concert with them, who receive actual notice of such order by
+personal service or otherwise, from engaging in the conduct described above, in
+violation of 7 U.S.C. §§ 6c(b), 6k(1), 60, and 17 C.F.R. §§ 3.12(a), 33.10,
+33.3(b)(1).
+
+Enter an order of permanent injunction restraining and enjoining each of the LLT
+
+Defendants, and their affiliates, agents, servants, employees, successors, assigns,
+
+attorneys, and all persons in active concert with them, from directly or indirectly:
+
+1) Trading on or subject to the rules of any registered entity (as that term is
+defined by Section 1a(40) of the Act, 7 U.S.C. § 1la(40) (2018));
+
+2) Entering into any transactions involving “commodity interests” (as that
+term is defined in Regulation 1.3, 17 C.F.R. § 1.3 (2019)), for accounts
+held in the name of any Defendant or for accounts in which any Defendant
+has a direct or indirect interest;
+
+3) Having any commodity interests traded on any Defendant’s behalf;
+
+4) Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account
+involving commodity interests;
+
+5) Soliciting, receiving, or accepting any funds from any person for the
+purpose of purchasing or selling of any commodity interests;
+
+6) Applying for registration or claiming exemption from registration with the
+
+CFTC in any capacity, and engaging in any activity requiring such
+
+31
+registration or exemption from registration with the CFTC except as
+
+provided for in Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)Q9) (2019); and
+7) Acting as a principal (as that term is defined in Regulation 3.1(a),
+
+17 C.F.R. § 3.1(a) (2019)), agent, or any other officer or employee of any
+
+person registered, exempted from registration, or required to be registered
+
+with the CFTC except as provided for in 17 C.F.R. § 4.14(a)Q).
+Enter an order directing the LLT Defendants, as well as any third-party transferee
+and/or successors thereof, to disgorge, pursuant to such procedure as the Court
+may order, all benefits received including, but not limited to, salaries,
+commissions, loans, fees, revenues, and trading profits derived, directly or
+indirectly, from acts or practices which constitute violations of the Act and
+Regulations as described herein, including pre-judgment and post-judgment
+interest;
+Enter an order requiring the LLT Defendants, as well as any successors thereof, to
+make full restitution to every person who has sustained losses proximately caused
+by the violations described herein, including pre-judgment and post-judgment
+interest;
+Enter an order directing each LLT Defendant to pay a civil monetary penalty
+assessed by the Court, in an amount not to exceed the penalty prescribed by
+Section 6c(d)(1) of the Act, 7 U.S.C. § 13a-1(d)(1), as adjusted for inflation
+pursuant to the Federal Civil Penalties Inflation Adjustment Act Improvements
+
+Act of 2015, Pub. L. 114-74, tit. VOL, § 701, 129 Stat. 584, 599-600, see
+
+32
+Case: 1:20-cv-03758 Document #: 1 Filed: 06/26/20 Page 33 of 33 PagelD #:33
+
+Regulation 143.8, 17 C.F.R. § 143.8 (2019), for each violation of the Act and
+Regulations, as described herein;
+
+O. Enter an order requiring the LLT Defendants to pay costs and fees as permitted by
+28 U.S.C. §§ 1920 and 2413(a)(2) (2018); and
+
+P. Enter an order providing such other and further relief as this Court may deem
+
+necessary and appropriate under the circumstances.
+
+/s/ Ashley J. Burden
+
+ 
+
+Counsel for Commodity Futures Trading Commission
+Ashley J. Burden
+
+aburden @ cftc. gov
+
+Elizabeth M. Streit
+
+estreit @cftc.gov
+
+Scott R. Williamson
+
+swilliamson @ cftc.gov
+
+Robert T. Howell
+
+rhowell @cftc.gov
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+525 W. Monroe St., Ste. 1100
+
+Chicago, IL 60661
+
+Phone: (312) 596-0700
+
+33

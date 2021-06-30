@@ -1,0 +1,43 @@
+Release Number 7627-17
+
+October 10, 2017
+
+CFTC Finds that Proprietary Trading Firm Arab Global Commodities DMCC Engaged in
+Spoofing of Copper Futures Contracts
+
+Washington, DC - The Commodity Futures Trading Commission (CFTC) today issued an Order filing and settling charges
+against Arab Global Commodities DMCC (AGC), a proprietary trading firm headquartered in Dubai, with several
+trading offices in India, for engaging in the disruptive trading practice of “spoofing” in the copper futures contract traded
+on the Commodity Exchange, Inc. (COMEX) between March and August 2016.
+
+The CFTC Order finds that AGC engaged in this activity through one of its employees (Trader A), who generally spoofed
+after business hours, when Trader A traded from home. The Order requires AGC to pay a $300,000 civil monetary penalty
+and to cease and desist from violating the Commodity Exchange Act’s prohibition against spoofing.
+
+The Order finds that over the course of several months, Trader A repeatedly traded using the same spoofing pattern:
+Trader A placed one or more large orders (typically more than 100 contracts) on one side of the book, while he had a
+small resting order (typically fewer than 10 contracts) on the opposite side of the book, and he immediately cancelled the
+large order(s) when his small order got filled. The Order concludes that Trader A thus engaged in spoofing in violation of
+Section 4c(a)({5)(C) of the Commodity Exchange Act because he entered into multiple bids or offers on a registered entity
+with the intent to cancel the bids or offers before execution.
+
+On some occasions, the Order finds that Trader A used another AGC trader’s account to hide his spoofing. Once aware of
+Trader A’s misconduct, AGC promptly terminated the trader’s employment, according to the Order.
+
+James McDonald, the CFTC’s Director of Enforcement, stated: “This case demonstrates our continued commitment
+to rooting out disruptive trade practices like spoofing in our markets. We will continue to work together with our
+regulatory and law enforcement partners in pursuit of that goal.”
+
+The Order recognizes AGC’s cooperation and notes that AGC promptly accepted responsibility for the misconduct and
+proactively implemented remedial measures and processes to deter similar misconduct in the future.
+
+The CFTC appreciates the cooperation and assistance of the CME Group.
+
+The CFTC Division of Enforcement staff members responsible for this action are Neel Chopra, Joseph Patrick, Robert
+Howell, Scott Williamson, and Rosemary Hollinger.
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: October 11, 2017

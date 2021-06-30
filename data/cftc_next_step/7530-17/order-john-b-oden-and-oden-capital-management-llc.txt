@@ -1,0 +1,573 @@
+ 
+
+(— RECEIVED CFTC \
+
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+ 
+
+Proceedings Clerk
+
+8:09 am, Feb 09, 2017
+CFTC Docket No. 17- 10 XN yy,
+
+ 
+
+ 
+
+In the Matter of:
+
+John B. Oden and Oden Capital
+Management, LLC,
+
+Respondents.
+
+Nee ee ee ee” ee” ee” SN”
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I.
+
+The Commodity Futures Trading Commission (““Commission’’) has reason to believe that
+between April and November 2014, John B. Oden (“Oden”), while acting as the commodity pool
+operator (“CPO”) for Oden Currency Fund, LP (“OCF”), violated Section 4m(1) of the
+Commodity Exchange Act (the “Act’), 7 U.S.C. § 6m(1) (2012), and Commission Regulations
+(“Regulations”) 4.13(a)(6), 4.13(c)(2), 4.20(c), 4.41(b), and 5.3(a)(2)G), 17 C.F.R. §§ 4.13(a)(6),
+4.13(c)(2), 4.20(c), 4.41(b), and 5.3(a)(2)) (2016). In addition, the Commission has reason to
+believe that between November 2014 and December 2015, Oden Capital Management, LLC
+(“OCM”), while acting as the CPO for Oden Currency Fund I, LP (“OCF I’), violated
+Regulations 4.7(b)(2), 4.22(h), and 4.41(b), 17 C.F.R. 8§ 4.7(b)(2), 4.22(h), and 4.41(b).
+Further, because the Commission has reason to believe that Oden was the controlling person of
+OCM, he is liable for OCM’s violations of the Regulations, pursuant to Section 13(b) of the Act,
+7U.S.C. § 13c(b) (2012). Therefore, the Commission deems it appropriate and in the public
+interest that public administrative proceedings be, and hereby are, instituted to determine
+whether Oden and OCM (collectively, “Respondents”’) engaged in the violations set forth herein
+and to determine whether any order should be issued imposing remedial sanctions.
+
+Il.
+
+In anticipation of the institution of an administrative proceeding, Respondents have
+submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondents consent to
+the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and 6(d) of the
+Commodity Exchange Act, Making Findings, and Imposing Remedial Sanctions (“Order”), and
+acknowledge service of this Order.’
+
+II.
+The Commission finds the following:
+
+A. SUMMARY
+
+Oden, acting as a CPO, operated OCF as a commodity pool between April and November
+2014. During April to June of 2014, Oden was not registered as a CPO and Oden claimed an
+exemption from registration under Regulation 4.13(a)(2). Oden’s exemption claim, however,
+was invalid. As a result, Oden should have been registered as a CPO during April to June 2014
+(he later registered in July 2014) and his failure to do so violated Section 4m(1) of the Act and
+Regulation 5.3(a)(2)q). During the broader time period when OCF operated (April-November
+2014), Oden also committed the following violations of the Regulations: (1) he failed to provide a
+required notice to prospective participants in OCF that he claimed an exemption from
+registration as a CPO and failed to include a description of the criteria pursuant to which he
+claimed such an exemption from registration; (11) he failed to promptly furnish to each OCF pool
+participant a copy of monthly statements for the OCF pool that Oden received from the FCM and
+such supplemental statements as would have been necessary to show the net profit or loss on all
+commodity interests closed since the date of the previous statement; (411) he improperly
+comingled OCF pool participant funds with his personal accounts, as well as accounts belonging
+to family members; and (iv) he improperly utilized promotional materials that showed trading
+returns based on hypothetical results without also including required disclosure language.
+
+OCM, acting as a CPO, operated OCF I as a Regulation 4.7 exempt commodity pool
+during the time period of November 2014 to December 2015. During this time period, OCM
+committed the following violations of the Regulations: (1) OCM failed to send certain quarterly
+reports to OCF I pool participants; (11) OCM failed to include the required oath or affirmation of
+accuracy and completeness in the quarterly reports it did send to OCF I pool participants; and
+(iit) OCM improperly utilized promotional materials that showed trading returns based on
+hypothetical results, without also including required disclosure language.
+
+Finally, Oden controlled OCM and, as a controlling person who knowingly induced the
+underlying violations or failed to act in good faith, he is liable for OCM’s violations of the
+Regulations pursuant to Section 13(b) of the Act.
+
+ 
+
+! Respondents consent to the entry of this Order and to the use of these findings in this proceeding and in any
+
+other proceeding brought by the Commission or to which the Commission is a party; provided, however, that
+Respondents do not consent to the use of the Offer, or the findings or conclusions in this Order consented to in the
+Offer, as the sole basis for any other proceeding brought by the Commission, other than in a proceeding in
+bankruptcy or to enforce the terms of this Order. Nor do Respondents consent to the use of the Offer or this Order,
+or the findings or conclusions in this Order consented to in the Offer, by any other party in any other proceeding.
+B. RESPONDENTS
+
+John B. Oden is an individual that resides in Dallas, Texas. Oden was the CPO of OCF.
+Oden was the chief compliance officer, sole owner, and a registered principal and associated
+person of OCM from September 2014 until December 2015. Oden was also registered as a CPO
+from July to November 2014.
+
+Oden Capital Management, LLC is a Texas limited liability company located in Dallas,
+Texas. Beginning in November 2014 and continuing until approximately December 2015, OCM
+was the CPO of OCF I. OCM has been registered as a CPO since September 2014.
+
+C. FACTS
+1. John B. Oden: CPO of OCF
+
+Oden, acting as a CPO, operated OCF from approximately April to November 2014.
+OCF traded retail forex contracts on behalf of four participants. Oden wound down the affairs of
+OCF in November 2014. During his tenure as CPO for OCF, Oden committed several violations
+of the Act and Regulations, as set forth herein.
+
+During the months of April to June 2014, Oden, acting as OCF’s CPO, was not registered
+as a CPO (he registered as a CPO in July 2014). During this period, Oden claimed an exemption
+from registration under Regulation 4.13(a)(2)°.
+
+Eligibility for the exemptions claimed by Oden is subject to the requirement, set forth in
+Regulation 4.13(a)(6), that the person operating the pool provide prospective pool participants
+with a statement indicating that the person is exempt from registration and containing the basis
+for the person’s claimed exemption from registration. Oden failed to provide this required
+communication. Because of Oden’s noncompliance with 4.13(a)(6), he was not eligible for the
+4.13 exemptions he claimed.
+
+Also, under Regulation 4.13(c)(2), each person who has filed a notice of exemption from
+registration under Regulation 4.13(a)(2) must promptly furnish to each participant in the pool a
+copy of each monthly FCM statement for the pool and clearly show on that statement, or on an
+accompanying supplemental statement, the net profit or loss on all commodity interests closed
+since the date of the previous statement. Oden never sent any such statements to OCF pool
+participants.
+
+In addition, Oden provided at least one potential OCF pool participant with a “Hedge
+Fund | Pager” and a PowerPoint presentation titled “Oden Currency Fund Presentation.” These
+marketing materials claimed year-to-date investment returns of 18.9% and 19.0%, respectively.
+Both of these purported investment returns were based, in whole or in part, on hypothetical
+
+ 
+
+> Oden subsequently claimed exempt status under Regulation 4.13(a)(3) from August to March 2015. Only the first
+exemption claimed by Oden is relevant here, because Oden registered as a CPO in July 2014.
+trading. Both of these marketing materials failed to include a specific disclaimer explaining the
+hypothetical nature of the results that was required pursuant to Regulation 4.41(b).
+
+Finally, in May through July 2014, the funds of OCF pool participants were comingled
+with bank and trading accounts titled in the name of OCF, John Oden, and David and Bonnie
+Oden, in violation of Regulation 4.20.
+
+2. Oden Capital Management, LLC: CPO of OCF I
+
+OCM operated OCF I as a Regulation 4.7 exempt commodity pool from approximately
+November 2014 until approximately December 2015. OCF I traded retail forex on behalf of 19
+participants. OCF I wound down its affairs in December 2015, due to losses arising out of the
+insolvency proceedings of a foreign forex trading firm, where its trading capital was held.
+During its tenure as CPO for OCF I, OCM committed several violations of the Regulations, as
+set forth herein.
+
+As the CPO of a Regulation 4.7 exempt pool, OCM was required to issue statements to
+pool participants (signed and affirmed in accordance with Regulation 4.22(h)) at least quarterly
+and within 30 days of the close of the reporting period. Regulation 4.7(b)(2). During its brief
+operation of OCF I, OCM did not always send the required quarterly statements to pool
+participants. For those statements it did issue, OCM did not comply with the requirements of
+Regulation 4.7(b)(2). Specifically, OCM did not include in its statements the net asset value of
+the exempt pool or the change in net asset value from the end of the previous reporting period.
+Finally, the quarterly statements OCM did send did not contain the oath or affirmation of
+accuracy and completeness as required by Regulation 4.22(h).
+
+OCM also utilized certain marketing materials in its solicitations with prospective and
+actual OCF I pool participants. Among the materials OCM used were September and October
+2014 OCF reports, which showed 39.4% and 42.7% year-to-date gross returns, respectively.
+These reports combined hypothetical and actual trading results, without including the required
+disclosure stated in Regulation 4.41(b). Similarly, a February 2015 “Investor Report Regarding
+January 2015” combined actual and hypothetical trading results for January 2015 and showed
+hypothetical returns over a ten-year period, both without including the required disclosure stated
+in Regulation 4.41(b).
+
+Oden was the chief compliance officer, principal, and sole owner of OCM. Among his
+other duties, Oden was responsible for the content and issuance of OCF I’s quarterly statements
+(or OCM’s failure to issue those statements in certain quarters) and was responsible for the
+content of OCM’s marketing materials.
+IV.
+LEGAL DISCUSSION
+A. Oden Violated Section 4m(1) of the Act and Regulation 5.3
+
+In 1974, Congress amended the Act to establish a more “comprehensive regulatory structure
+to oversee the volatile and esoteric futures trading complex.” CFTC v. Schor, 478 U.S. 833, 836
+(1986) (quoting H.R. Rep. No. 93-975, p.1 (1974)). “Registration is the kingpin in ...[the
+Commission’s] statutory machinery, giving the Commission the information about participants in
+commodity trading which it so vitally requires to carry out its other statutory functions of monitoring
+and enforcing the Act.” Flaxman v. CFTC, 697 F.2d 782, 787 (7th Cir. 1983) (quoting CFTC v.
+British Am. Commodity Options, 560 F.2d 135, 139-40 (2d Cir. 1977)). The registration
+requirements ensure that persons dealing in commodities meet certain minimum financial and fitness
+requirements and enable the Commission to monitor the trading activities of market members. Ping
+He (Hai Nam) Co. v. NonFerrous Metals (U.S.A.) Inc., 22 F.Supp.2d 94, 102-04 (S.D.N.Y. 1998)
+opinion vacated in part on reconsideration, 187 F.R.D. 121 (S.D.N.Y. 1999).
+
+Section 4m(1) of the Act makes it unlawful for a person to act as a CPO, and use the mails or
+any instrumentality of interstate commerce in connection with one’s business as a CPO, without
+being registered with the Commission as such, subject to certain exceptions and exemptions. The
+registration requirement does not contain a “state of mind” limitation to liability. There is a “flat
+prohibition ... against using the facilities of interstate commerce to give commodity advice unless
+registered,” and “[w]hile fraud and misconduct may also be violations of the Act ... violations of §
+6m alone are sufficient” to warrant the granting of an injunction. British Am. Commodity Options,
+560 F.2d at 142; accord CFTC v. Wilson, 19 F. Supp. 3d 352, 361 (D. Mass. 2014) (involving
+investment company that failed to register as a CPO).
+
+As set forth above, Oden operated OCF as a commodity pool from approximately April to
+November 2014. During April to June 2014, Oden was not registered as a CPO and was instead
+relying on a Regulation 4.13(a)(2) exemption from registration beginning in April 2014. Oden
+was ineligible for an exemption from registration because he failed to provide the
+communications required under Regulation 4.13(a)(6) to prospective pool participants. See
+Regulation 4.13(a)(6) (noting that eligibility for an exemption claimed under Regulation 4.13(a)(1),
+(a)(2), (a)(3), or (a)(4) 1s “subject to” the CPO providing the required disclosure described therein).
+As a result of the ineligibility of Oden for the exemption he claimed, Oden should have been
+registered as a CPO during April to June of 2014. Section 4m(1) of the Act. Additionally, because
+OCF traded retail forex contracts, Oden’s failure to register as a CPO also violated Regulation
+
+5.3(a)(2)(i).
+B. Oden Violated Regulation 4.13(a)(6)
+
+Eligibility for a Regulation 4.13(a)(2) exemption is subject to the requirement that the
+person operating the pool provide prospective pool participants:
+
+(A) A statement that the person is exempt from registration with the Commission
+as a commodity pool operator and that therefore, unlike a registered commodity
+pool operator, it is not required to deliver a Disclosure Document and a certified
+annual report to participants in the pool; and
+
+(B) A description of the criteria pursuant to which it qualifies for such exemption
+from registration.
+
+Regulation 4.13(a)(6). Oden operated under a claimed Regulation 4.13(a)(2) exemption during
+April to June 2014 (a period of time when Oden was not registered as a CPO). Oden failed to
+provide this required written communication to prospective pool participants of OCF.
+Accordingly, Oden violated Regulation 4.13(a)(6) by operating under a claimed Regulation
+4.13(a)(2) exemption without meeting the eligibility conditions for that exemption.
+
+C. Oden Violated Regulation 4.13(c)(2)
+
+Pursuant to Regulation 4.13(c)(2), each person who has filed a notice of exemption from
+registration under Regulation 4.13(a)(2) must promptly furnish to each participant in the pool a
+copy of each monthly FCM statement for the pool and clearly show on that statement, or on a
+supplemental statement, the net profit or loss on all commodity interests closed since the date of
+the previous statement. Oden violated Regulation 4.13(c)(2) by failing to send any such
+statements to OCF pool participants.
+
+D. Oden Violated Regulation 4.20(c)
+
+Regulation 4.20(c) prohibits a CPO from commingling the property of any pool it
+operates with the property of any other person. During his operation of OCF, Oden violated
+Regulation 4.20 by comingling OCF pool participant funds with his personal accounts, as well as
+with accounts belonging to family members.
+
+E. Oden Violated Regulation 4.41(b)
+
+Regulation 4.41(b) requires the presentation of simulated or hypothetical performance
+data by a CPO to be accompanied by a specific disclaimer set forth in Regulation 4.41(b)(1)(i) or
+(i). During his operation of OCF, Oden violated Regulation 4.41(b) when he provided at least
+one potential pool participant with a “Hedge Fund 1 Pager” and a PowerPoint presentation titled
+“Oden Currency Fund Presentation” that showed year-to-date returns of 18.9% and 19.0%,
+respectively. Both of these return figures were based, in whole or in part, on hypothetical trading
+and both lacked the required disclosures regarding hypothetical trading results. By this conduct,
+Oden violated Regulation 4.41(b). See CFTC v. Vartuli, 228 F.3d 94, 107 (2d Cir. 2000) (phrasing and
+placement of disclosure violated Regulation 4.41(b)).
+
+F. OCM Violated Regulation 4.7(b)(2)
+
+A CPO operating a Regulation 4.7 exempt commodity pool may claim relief with respect
+to certain periodic reporting requirements of Regulation 4.22(a) and (b), provided that it makes
+certain disclosures in a statement, signed and affirmed in accordance with Regulation 4.22(h),
+which is prepared and distributed to pool participants on a quarterly basis (within 30 calendar
+days after the reporting period). Regulation 4.7(b)(2). This required quarterly statement “must
+be presented and computed in accordance with generally accepted accounting principles” and
+must indicate, among other things, such information as the net asset value of the exempt pool as
+of the end of the reporting period, the change in net asset value from the end of the previous
+reporting period, and the net asset value per outstanding unit of participation in the exempt pool
+as of the end of the reporting period. Jd.
+
+During its operation of OCF I, OCM did not consistently send these required quarterly
+statements to the OCF I pool participants. In quarters where it failed to send the required
+quarterly statements to pool participants, OCM violated Regulation 4.7(b)(2). Moreover, even
+for those statements it did issue, OCM did not comply with the content requirements of
+Regulation 4.7(b)(2). Specifically, OCM did not include in the OCF I quarterly statements the
+net asset value of the exempt pool, the change in net asset value from the end of the previous
+reporting period, or the net value of the participant’s interest in the exempt pool as of the end of
+the reporting period. Accordingly, OCM violated Regulation 4.7(b)(2).
+
+G. OCM Violated Regulation 4.22(h)
+
+Pursuant to Regulation 4.22(h) each account statement and annual report provided by a
+CPO pursuant to Regulation 4.7(b) must contain an oath or affirmation that, to the best of the
+knowledge and belief of the individual making the oath or affirmation, the information contained
+in the document is accurate and complete. In this case, the quarterly statements that OCM sent
+to OCF I pool participants did not contain the required oath or affirmation of accuracy and
+completeness. Accordingly, OCM violated Regulation 4.22(h).
+
+H. OCM Violated Regulation 4.41(b)
+
+As stated above, Regulation 4.41(b), requires the presentation of simulated or
+hypothetical performance data by a CPO to be accompanied by a specific disclaimer set forth in
+Regulation 4.41(b)(1)@) or (11). During its operations, OCM violated Regulation 4.41(b) when it
+solicited OCF I pool participants with various written materials, including September and
+October 2014 OCF reports, which showed 39.4% and 42.7% year-to-date gross returns,
+respectively. These reports combined hypothetical and actual trading results, without including
+the appropriate disclaimer regarding hypothetical results as required by Regulation 4.41(b).
+Similarly, OCM’s “Investor Report Regarding January 2015” violated Regulation 4.41(b)
+because it combined actual and hypothetical trading results for January 2015 and showed
+hypothetical returns over a ten-year period, both without proper disclaimers under Regulation
+4.41(b). By this conduct, OCM violated Regulation 4.41(b). See Vartuli, 228 F.3d at 107 (phrasing
+and placement of disclosure violated Regulation 4.41(b)).
+
+I. Oden’s Controlling-Person Liability
+
+Oden controlled OCM and directly and knowingly induced OCM’s acts constituting
+violations of the Regulations. Therefore, pursuant to Section 13(b) of the Act, Oden is liable for
+OCM’s violations of the Regulations.
+
+Section 13(b) of the Act provides that a person who, directly or indirectly, controls any
+person who has violated any provision of the Act, or any rule, regulation or order issued pursuant
+to the Act, may be held liable for such violation in any action brought by the Commission to the
+same extent as such controlled person. A “fundamental purpose” of the statute is “to reach
+behind the corporate entity to the controlling individuals of the corporation and to impose
+liability for violations of the Act directly on such individuals as well as on the corporation itself.”
+CFTC vy. R.J Fitzgerald & Co., 310 F.3d 1321, 1334 (11th Cir. 2002) (quoting JCC, Inc. v.
+CFTC, 63 F.3d 1557, 1567 (11th Cir. 1995)).
+
+To establish controlling-person liability under Section 13(b) of the Act, the Commission
+must show that the defendant (1) directly or indirectly controlled the person or entity that
+committed the violation; and (2) did not act in good faith or knowingly induced, directly or
+indirectly, the acts constituting the violation. CFTC yv. Baragosh, 278 F.3d 319, 330 (4th Cir.
+2002); R.J Fitzgerald, 310 F.3d at 1334; Monieson v. CFTC, 996 F.2d 852, 858 (7th Cir. 1993).
+To establish the control element, a defendant must possess general control over the operation of
+the entity principally liable. See, e.g., RJ. Fitzgerald, 310 F.3d at 1334 (recognizing an
+individual who “exercised the ultimate choice-making power within the firm regarding its
+business decisions” as a controlling person). Control is “the possession, direct or indirect, of the
+power to direct or cause the direction of the management and policies of a person, whether
+through the ownership of voting securities, by contract, or otherwise.” In re Spiegel, [1987-1990
+Transfer Binder] Comm. Fut. L. Rep. (CCH) ¥ 24,103, n.4 (CFTC Jan. 12, 1988). The
+Commission must also show that the defendant possessed specific control, which is “the power
+or ability to control the specific transaction or activity upon which the primary violation was
+predicated, even if such power was not exercised.” CFTC v. Int'l Fin. Services, Inc., 323 F.
+Supp. 2d 482, 504 (S.D.N.Y. 2004) (quoting Baragosh, 278 F.3d at 330).
+
+Oden was the chief compliance officer, sole owner, and a registered principal and
+associated person of OCM. As such, Oden had the requisite general control of OCM. In re
+Spiegel, [1987-1990 Transfer Binder] Comm. Fut. L. Rep. (CCH) ¥ 24,103, at 34,767 (CFTC
+Jan. 12, 1988); see also In re Apache Trading Corp., [1990-1992 Transfer Binder] Comm. Fut.
+L. Rep. (CCH) ¥ 25,251, at 38,795 (CFTC Mar. 11, 1992) (finding that an individual controls a
+corporation where he “directs the economic aspects of the firm’). In addition, Oden was
+responsible for the content and issuance of OCF I’s quarterly statements (or OCM’s failure to
+issue those statements in certain quarters) and was responsible for the content of OCM’s
+marketing materials. Oden therefore possessed the specific control over the activities upon
+which OCM’s violation of Regulations 4.7(b)(2), 4.22(h), and 4.41(b) are predicated.
+
+To establish the “knowing inducement” element of the controlling-person violation, the
+Commission must show that “the controlling person had actual or constructive knowledge of the
+core activities that constitute the violations at issue and allowed them to continue.” JCC, Inc. v.
+CFTC, 63 F.3d 1557, 1568 (11th Cir. 1995) (quoting In re Spiegel, [1987-1990 Transfer Binder]
+Comm. Fut. L. Rep. (CCH) J 24,103, at 34,767 (CFTC Jan. 12, 1988)). In this case, Oden was
+directly responsible for the issuance of OCF I quarterly statements (as well as failing to issue
+those statements, at times), including the contents of those statements. Moreover, Oden was
+directly responsible for the solicitation materials utilized by OCM, including those materials that
+contained hypothetical trading results without presenting the required disclaimer under
+Regulation 4.41(b). Further, Oden knew that the trading results touted in OCM’s marketing
+materials were hypothetical and knew that no disclaimer accompanied those results.
+Accordingly, Oden knowingly induced, directly or indirectly, the conduct that constitutes OCM’s
+violations of the Regulations. Consequently, pursuant to Section 13(b) of the Act, he is liable for
+OCM’s violations of the Regulations.
+
+V.
+
+FINDINGS OF VIOLATION
+
+Based on the foregoing, the Commission finds: that Oden violated Section 4m(1) of the
+Act, Regulations 4.13(a)(6), 4.13(c)(2), 4.20(c), 4.41(b), and 5.3(a)(2)G); that OCM violated
+Regulations 4.7(b)(2), 4.22(h), and 4.41(b); and that Oden is liable for OCM’s violations of the
+Regulations pursuant to Section 13(b) of the Act.
+
+VI.
+OFFER OF SETTLEMENT
+
+Respondents have submitted an Offer in which they, without admitting or denying the
+findings and conclusions herein:
+
+A. Acknowledge receipt of service of this Order;
+
+B. Admit the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C. Waive:
+1. The filing and service of a complaint and notice of hearing;
+2. A hearing;
+
+3. All post-hearing procedures;
+4. Judicial review by any court;
+
+5. Any and all objections to the participation by any member of the Commission’s
+staff in the Commission’s consideration of the Offer;
+
+6. Any and all claims that they may possess under the Equal Access to Justice Act, 5
+U.S.C. § 504 (2012) and 28 U.S.C. § 2412 (2012), and/or the rules promulgated by
+the Commission in conformity therewith, Part 148 of the Commission’s
+Regulations, 17 C.F.R. §§ 148.1-30 (2016), relating to, or arising from, this
+proceeding;
+
+7. Any and all claims that they may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, §§ 201-253, 110 Stat.
+847, 857-868 (1996), as amended by Pub. L. No. 110-28, § 8302, 121 Stat. 112,
+204-205 (2007), relating to, or arising from, this proceeding; and
+8.
+
+Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+Stipulate that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondents have consented in the Offer;
+
+Consent, solely on the basis of the Offer, to the Commission’s entry of this Order that:
+
+1.
+
+Makes findings by the Commission that Oden violated Section 4m(1) of the Act
+and Regulations 4.13(a)(6), 4.13(c)(2), 4.20(c), 4.41(b), and 5.3(a)(2)(i); that OCM
+violated Regulations 4.7(b)(2), 4.22(h), and 4.41(b); and that Oden is liable for
+OCM’s violations of the Regulations pursuant to Section 13(b) of the Act;
+
+Orders Oden to cease and desist from violating Section 4m(1) of the Act and
+Regulations 4.13(a)(6), 4.13(c)(2), 4.20(c), 4.41(b), and 5.3(a)(2)(i); and
+Respondents, and any successors and assigns of OCM, to cease and desist from
+violating Regulations 4.7(b)(2), 4.22(h), and 4.41(b);
+
+Orders Respondents to pay, jointly and severally, a civil monetary penalty in the
+amount of $100,000, plus post-judgment interest within ten (10) days of the date of
+entry of this Order; and
+
+Orders Respondents, and any successors and assigns of OCM, to comply with the
+conditions and undertakings consented to in the Offer and as set forth in Part VII
+of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+10
+VIL.
+
+ORDER
+
+Accordingly, [IT IS HEREBY ORDERED THAT:
+
+A.
+
+Oden shall cease and desist from violating Section 4m(1) of the Act and Regulations
+4.13(a)(6), 4.13(c)(2), 4.20(c), 4.41(b), and 5.3(a)(2)G); and Respondents, and any
+successors and assigns of OCM, shall cease and desist from violating Regulations
+4.7(b)(2), 4.22(h), and 4.41(b);
+
+Respondents shall pay, jointly and severally, a civil monetary penalty in the amount of
+one hundred thousand dollars, $100,000 (“CMP Obligation”), plus post-judgment
+interest, within ten (10) days of the date of the entry of this Order. If the CMP Obligation
+is not paid in full within ten (10) days of the date of entry of this Order, then post-
+judgment interest shall accrue on the CMP Obligation beginning on the date of entry of
+this Order and shall be determined by using the Treasury Bill rate prevailing on the date
+of entry of this Order pursuant to 28 U.S.C. § 1961 (2012).
+
+Respondents shall pay the CMP Obligation by electronic funds transfer, U.S. postal
+money order, certified check, bank cashier’s check, or bank money order. If payment is
+to be made other than by electronic funds transfer, then the payment shall be made
+payable to the Commodity Futures Trading Commission and sent to the address below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivable
+DOT/FAA/MMAC/AMZ-341
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+
+nikki.gibson @ faa.gov
+
+If payment is to be made by electronic funds transfer, Respondents shall contact Nikki
+Gibson or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondents shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581, as well as to Charles Marvine, Deputy Director, Division of
+Enforcement, Commodity Futures Trading Commission, 4900 Main Street, Suite 500,
+Kansas City, MO 64112;
+
+11
+C. Respondents, and any successors and assigns of OCM, shall comply with the following
+conditions and undertakings set forth in the Offer:
+
+1.
+
+Public Statements: Respondents agree that neither they, nor any of their agents or
+employees under their authority or control shall take any action or make any
+public statement denying, directly or indirectly, any findings or conclusions in
+this Order or creating, or tending to create, the impression that this Order is
+without a factual basis; provided, however, that nothing in this provision shall
+affect Respondents’: (1) testimonial obligations; or (11) right to take legal positions
+in other proceedings to which the Commission is not a party. Respondents shall
+undertake all steps necessary to ensure that all of their agents and/or employees
+under their authority or control understand and comply with this agreement.
+
+Respondents agree that they shall, for a period of five (5) years after the date of
+entry of this Order, not directly or indirectly:
+
+a. control or direct the trading for or on behalf of any other person or entity,
+whether by power of attorney or otherwise, in any account involving
+“commodity interests” (as that term is defined in Regulation 1.3(yy), 17
+C.F.R. § 1.3(yy) (2016));
+
+b. solicit, receive, or accept any funds from any person for the purpose of
+purchasing or selling any commodity interests;
+
+c. apply for registration or claim exemption from registration with the
+Commission in any capacity, and engage in any activity requiring such
+registration or exemption from registration with the Commission except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(Q) (2016); and/or
+
+d. act as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R.
+§ 3.1(a) (2016)), agent or any other officer or employee of any person (as that
+term is defined in Section 1a(38) of the Act, 7 U.S.C. § 1a(38) (2012)
+registered, required to be registered, or exempted from registration with the
+Commission except as provided for in Regulation 4.14(a)(Q9).
+
+Partial Satisfaction: Respondents understand and agree that any acceptance by the
+
+Commission of any partial payment of Respondents’ CMP Obligation shall not be
+deemed a waiver of their obligation to make further payments pursuant to this Order, or a
+waiver of the Commission’s right to seek to compel payment of any remaining balance.
+
+12
+E. Change of Address/Phone: Until such time as Respondents satisfy in full their CMP
+Obligation as set forth in this Consent Order, Respondents shall provide written notice to
+the Commission by certified mail to the attention of Charles Marvine (see paragraph
+VIILB. above) of any change to their telephone number and mailing address within ten
+(10) calendar days of the change.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+Btw | Pebshh
+
+Christopher J. Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: February 9, 2017
+
+13

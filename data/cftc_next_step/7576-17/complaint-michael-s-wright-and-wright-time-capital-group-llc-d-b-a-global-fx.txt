@@ -1,0 +1,880 @@
+Case 1:17-cv-04722 Document1 Filed 06/22/17 Page 1 of 27
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+ 
+
+U.S. COMMODITY FUTURES TRADING
+COMMISSION,
+
+Plaintiff, Case No.: 17-4722
+
+‘ Jury Trial Demanded
+
+MICHAEL S. WRIGHT AND WRIGHT TIME
+CAPITAL GROUP LLC (d/b/a GLOBAL FX
+CLUB)
+
+Defendants.
+
+ 
+
+ 
+
+COMPLAINT FOR INJUNCTIVE AND OTHER EQUITABLE RELIEF,
+RESTITUTION, AND CIVIL MONETARY PENALTIES
+UNDER THE COMMODITY EXCHANGE ACT
+
+Plaintiff, U.S. Commodity Futures Trading Commission (“CFTC” or “Commission’”), by
+
+and through its attorneys, alleges as follows:
+I. SUMMARY
+
+1. From approximately August 2010 through the present (the “Relevant Period”),
+Defendants Michael S. Wright and Wright Time Capital Group LLC (d/b/a “Global FX Club”)
+(“WTCG,” and together with Wright, “Defendants”) have engaged in a fraudulent scheme to
+solicit more than $400,000 from at least 10 members of the public (“pool participants’) to
+participate in a pooled investment to engage in foreign currency (“forex”) trading. Rather than
+use pool participants’ funds for forex trading as promised, Defendants have only traded a portion
+of pool participants’ funds, misappropriated pool participants’ funds, and issued false account
+
+statements to pool participants to conceal their trading losses and misappropriation.
+wo a gy OO _ “ pont on ¥ s
+
+fCmme Te Py en A AVOSD PN react 7 eaten et PER PR! Pa TP
+
+Road to} § og ah VP al Pe Fe Pose sh ary eeer iy oy Pedebary fo) 3
+YAY awa rot La ee caer an Re A Ra BRL DS BO FEAL
+
+2. In furtherance of the fraudulent scheme, Defendants made material misstatements
+and omissions in solicitations to prospective pool participants, including misrepresenting that all
+or substantially all of participants’ funds would be pooled and used to engage in forex trading.
+
+3. In reality, Defendants only traded a portion of pool participants’ funds in forex.
+Between August 2010 and April 2016, Defendants deposited approximately $115,800 into forex
+trading accounts that were used to trade pool participants’ funds. As of mid-May 2016, those
+forex trading accounts had suffered approximately $114,300 in trading losses. Defendants also
+misappropriated pool participants’ funds for unauthorized personal or business expenses such as
+food, clothing, jewelry, and entertainment.
+
+4. In order to conceal their trading losses and misappropriation, Defendants made
+and issued false pool participant account statements that inflated and misrepresented the value of
+the accounts and the pool’s trading returns. The false account statements purported to reflect
+positive trading gains for the pool during periods of time when Defendants did not actually
+engage in any forex trading, or engaged in trading that was unprofitable.
+
+5. Around the fall of 2016, pool participants began having difficulty contacting
+Defendants. In or around early November 2016, Defendants misrepresented to a pool participant
+who sought to withdraw funds from his account that the funds would be transferred to the pool
+participant in approximately two weeks, but the pool participant never received the funds.
+
+6. Around mid-to-late November or December 2016, Defendants cut off
+communications with pool participants; stopped returning telephone calls, text messages, and
+emails; and left pool participants unable to recover any funds from their accounts.
+
+7. During the Relevant Period, Defendants WTCG and Wright also failed to operate
+
+the commodity pool as a separate legal entity — by receiving pool funds in WTCG or Wright’s
+name rather than the name of the commodity pool, receiving pool participant funds in a name
+other than that of the pool, and by commingling pool funds with non-pool property — and failed
+to register with the Commission as a commodity pool operator (“CPO”).
+
+8. By virtue of this conduct and the conduct further described herein, Defendants,
+either directly or as controlling persons, have engaged, are engaging, or are about to engage in
+acts and practices in violation of Sections 4b(a)(2)(A)-(C), 4m(1), 40(1)(A)-(B), and
+2(c)(2)(111)(1)(cc) of the Commodity Exchange Act, 7 U.S.C. § et seq. (the “Act’”), 7 U.S.C. §§
+6b(a)(2)(A)-(C), 6m(1), 60(1)(A)-(B), and 2(c)(2)(111)(1)(cc) (2012), and Commission
+Regulations (“Regulations”) 4.20(a)-(c), 5.2(b)(1)-(3), and 5.3(a)(2), 17 C.F.R. § 4.20(a)-(c),
+5.2(b)(1)-(3), and 5.3(a)(2) (2016).
+
+9. During the Relevant Period, Defendant Wright was an officer, employee or agent
+of WTCG. Therefore, WTCG is liable for the acts and omissions of Wright done in the scope of
+his employment or office, pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B)
+(2012), and Regulation 1.2, 17 C.F.R. § 1.2 (2016).
+
+10. Defendant Wright was a controlling person of WTCG throughout the Relevant
+Period and did not act in good faith or knowingly induced WTCG’s violations of the Act and
+Regulations described herein. Therefore, Wright is liable for WT'CG’s violations of the Act and
+Regulations, pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b) (2012).
+
+11. Accordingly, the Commission brings this action pursuant to Section 6c of the Act,
+7 U.S.C. § 13a-1 (2012) and Section 2(c)(2)(C) of the Act, 7 U.S.C. § 2(c)(2)(C) (2012), to
+enjoin Defendants’ unlawful acts and practices, to compel their compliance with the Act and the
+Regulations promulgated thereunder, and to enjoin them from engaging in any commodity
+
+related activity. In addition, the Commission seeks civil monetary penalties, and remedial
+Case 1:17-cv-04722 Documenti1 Filed 06/22/17 Page 4 of 27
+
+ancillary relief, including, but not limited to, trading and registration bans, restitution,
+disgorgement, rescission, pre- and post-judgment interest, and such other and further relief as the
+Court may deem necessary and appropriate.
+
+12. Unless restrained and enjoined by this Court, Defendants will likely continue to
+engage in acts and practices alleged in this Complaint and similar acts and practices, as described
+below.
+
+II. JURISDICTION AND VENUE
+
+13. Section 6c(a) of the Act, 7 U.S.C. § 13a-1 (2012), authorizes the Commission to
+seek injunctive and other relief against any person whenever it shall appear to the Commission
+that such person has engaged, is engaging, or is about to engage in any act or practice
+constituting a violation of any provision of the Act, or any rule, regulation, or order thereunder.
+
+14. Venue lies properly with this Court pursuant to Section 6c(e) of the Act, 7 U.S.C.
+§ 13a-1(e) (2012), because Defendants transacted business in this District and certain
+transactions, acts, practices, and courses of business alleged in this Complaint occurred, are
+occurring, or are about to occur in this District.
+
+HW. THE PARTIES
+
+15. Plaintiff U. S. Commodity Futures Trading Commission is an independent
+federal regulatory agency charged by Congress with the administration and enforcement of the
+Act, 7 U.S.C. §§ 1 et seq., and the Regulations promulgated thereunder, 17 C.F.R. §§ 1 et seq.
+
+16. Defendant Wright Time Capital Group LLC is a New York limited liability
+company with its last known place of business at 241 West 38th Street #1175, New York, NY.
+
+WTCG has never been registered with the Commission in any capacity. In or around November
+Case 1:17-cv-04722 Document1 Filed 06/22/17 Page 5 of 27
+
+2012, WTCG assumed the name “Global FX Club” and also began doing business under the
+name “Global FX Club” or “Wright Time Capital Group LLC DBA Global FX Club.”
+
+17. Defendant Michael S. Wright is the CEO, founder, and chief strategist of WTCG.
+Wright is a Jersey City, New Jersey resident. Wright has never been registered with the
+Commission in any capacity.
+
+IV. STATUTORY AND REGULATORY BACKGROUND
+
+18. Section la(11) of the Act, 7 U.S.C. § la(11) (2012), defines a CPO, in relevant
+part, as any person “engaged in a business that is of the nature of a commodity pool, investment
+trust, syndicate, or similar form of enterprise, and who, in connection therewith, solicits, accepts,
+or receives from others, funds, securities, or property, either directly or through capital
+contributions, the sale of stock or other forms of securities, or otherwise, for the purpose of
+trading in commodity interests, including any .. . agreement, contract, or transaction described in
+[Sections 2(c)(2)(C)(i) of the Act, 7 U.S.C. §§ 2(c)(2)(C)G) (2012)].”
+
+19. Section 2(c)(2)(C)(i) of the Act, 7 U.S.C. § 2(c)(2)(C)(1) (2012), provides in
+pertinent part, and subject to certain exceptions not relevant here, that the Commission has
+jurisdiction over any agreement, contract, or transaction in foreign currency if the transactions
+are offered to or entered into with a person that is not an eligible contract participant (“ECP”) on
+a leveraged or margined basis, and the transactions do not result in actual delivery within two
+days or otherwise create an enforceable obligation to deliver between a seller and buyer that have
+the ability to deliver and accept delivery, respectively, in connection with their line of business.
+
+20. Section 2(c)(2)(C)(vii) of the Act, 7 U.S.C. § 2(c)(2)(C)(vil) (2012), provides that
+the Act applies to, and the Commission shall have jurisdiction over, an account or pooled
+
+investment vehicle that is offered for the purpose of trading, or that trades, any agreement,
+contract or transaction in foreign currency described in Section 2(c)(2)(C)G) of the Act, 7 U.S.C.
+§ 2(c)(2)(C)G) (2012).
+
+21. Section 2(c)(2)(C)G() of the Act, 7 U.S.C. § 2(c)(2)(C)GC) (2012), states that
+Sections 4b and 40 of the Act, 7 U.S.C. §§ 6b and 60, apply to pooled investment vehicles that
+are offered for the purpose of trading, or that trade, any forex agreement, contract, or transaction,
+and that involve persons or entities who are not ECPs.
+
+22. Section 2(c)(2)(C)(iv) of the Act, 7 U.S.C. § 2(c)(2)(C) (iv) (2012), states that
+Section 4b of the Act, 7 U.S.C. § 6b, applies to forex agreements, contracts, or transactions “as
+if” they were contracts of sale of a commodity for future delivery.
+
+23. Section 1a(18) of the Act, 7 U.S.C. § 1a(18) (2012), defines an ECP, in relevant
+part, as (1) a commodity pool that (i) has total assets exceeding $5,000,000 and (ii) is formed or
+operated by a person subject to regulation under the Act, provided that for purposes of Section
+2(c)(2)(C)(vi1) of the Act the term ECP shall not include a commodity pool in which any
+participant is not otherwise an eligible contract participant, see 7 U.S.C. § 1a(18)(iv) (2012), or
+(2) an individual who has amounts invested on a discretionary basis, the aggregate of which
+exceeds $10 million, or $5 million if the individual enters into the transaction to manage the risk
+associated with an asset owned or liability incurred, or reasonably likely to be owned or incurred,
+by the individual, see 7 U.S.C. § 1a(18)(x1) (2012).
+
+24. Pursuant to Section 2(c)(2)(C)(i)(1)(cc) of the Act, 7 U.S.C. §
+2(c)(2)(C)ait)(1)(cc) (2012), and subject to certain exceptions not relevant here, an entity must be
+registered pursuant to Commission regulation in order to operate or solicit funds for any pooled
+
+investment in connection with forex transactions.
+Case 1:17-cv-04722 Documenti1 Filed 06/22/17 Page 7 of 27
+
+25. Pursuant to Commission Regulation 5.1(d)(1), 17 C.F.R. § 5.1(d)(1) (2016), and
+subject to certain exceptions not relevant here, any person who operates or solicits funds,
+securities or property for a pooled investment vehicle that is not an ECP and engages in retail
+forex transactions is defined as a retail forex CPO.
+
+26. Regulation 5.1(m), 17 C.F.R. § 5.1(m) (2016), defines a retail forex transaction in
+relevant part as any account, agreement, contract or transaction described in Section 2(c)(2)(C)
+of the Act, 7 U.S.C. § 2(c)(2)(C) (2012). A retail forex transaction does not include an account,
+agreement, contract or transaction in foreign currency that is a contract of sale of a commodity
+for future delivery (or an option thereon) that is executed, traded on or otherwise subject to the
+rules of a contract market designated pursuant to Section 5(a) of the Act.
+
+Vv. FACTS
+A. Defendants’ Fraudulent Solicitations, False Statements, and Misappropriation
+
+27. During the Relevant Period, WTCG, by and through its officers, employees or
+agents, fraudulently solicited pool participants to invest in a commodity pool for forex trading,
+issued false account statements to pool participants, and misappropriated pool participants’
+funds. In furtherance of the fraudulent scheme, Defendants made misrepresentations and
+omissions to pool participants and prospective pool participants in written solicitations and
+correspondence sent via email and mail and through telephone calls.
+
+28. The fraudulent solicitations included, but were not limited to, misrepresentations
+by Defendants that all or substantially all of pool participants’ funds would be pooled and used to
+engage in forex trading.
+
+29. For example, in or around December 4, 2013, Defendants told one prospective
+
+pool participant in a written solicitation that his $30,000 investment would be pooled and used
+for forex trading and that after 100% profit was made, the gains thereafter would be split with the
+pool participant 85/15 in favor of WTCG.
+
+30. Defendants told other prospective pool participants in oral and written
+solicitations that WT'CG would charge no fee, or a “fairly low” fee, until the pool participant’s
+money doubled, after which point the pool participant would be charged a fee of 85% on
+additional profits.
+
+31. These representations were false because, as described further below, Defendants
+did not use all of pool participants’ funds to engage in forex trading and instead misappropriated
+pool participants’ funds for unauthorized personal and business expenses.
+
+32. Through the misrepresentations described above, Defendants WTCG, by and
+through their officers, employees, and agents, fraudulently solicited and obtained over $400,000
+from at least 10 persons to invest in a forex commodity pool.
+
+33. Defendants deposited a portion of the pool participant funds they received into a
+bank account at a banking institution (“Bank 1”) held in the name of Michael Wright or into
+bank accounts at two other banking institutions (“Bank 2” and “Bank 3”) held in the name of,
+and for the benefit of, WTCG.
+
+34. Defendant Wright was the sole authorized signatory of WTCG’s bank accounts at
+Bank 2 and Bank 3.
+
+35. During the Relevant Period, Defendants made multiple withdrawals from WTCG
+bank accounts from automated teller machines (ATMs) in New York County. For example,
+Defendants withdrew over $400 from a WTCG bank account from an ATM on 7th Avenue in
+
+Manhattan on February 20, 2013.
+36. In or around August 2010, Defendant Wright opened an individual forex trading
+account at a forex trading firm (“Forex Trading Firm 1”), a registered Futures Commission
+Merchant (“FCM”) and Retail Foreign Exchange Dealer (“RFED”). The forex trading account at
+Forex Trading Firm | (“Forex Trading Account 1”) was held in the name of, and for the benefit
+of, Michael Wright, not for the commodity pool operated by Defendants. Defendant Wright was
+the sole signatory of Forex Trading Account 1 and was the only person who had authority to
+trade the account.
+
+37. In or around July 2015, Defendant Wright opened an individual forex trading
+account at a second forex trading firm (“Forex Trading Firm 2”), a registered Futures
+Commission Merchant and Retail Foreign Exchange Dealer. The forex trading account at Forex
+Trading Firm 2 (“Forex Trading Account 2,” and together with Forex Trading Account 1, the
+“Forex Trading Accounts”) was held in the name of, and for the benefit of, Michael Wright, not
+for the commodity pool operated by Defendants. Defendant Wright was the sole signatory of
+Forex Trading Account 2 and was the only person who had authority to trade the account.
+
+38. Defendants transferred some but not all of the funds they received from pool
+participants into the Forex Trading Accounts. Between August 2010 and April 2016, Defendants
+deposited approximately $115,800 into the Forex Trading Accounts. During the same time
+period, Defendants withdrew approximately $820 from the Forex Trading Accounts.
+
+39. — At all relevant times, Wright individually and on behalf of WTCG, controlled and
+directed the forex trading in the Forex Trading Accounts.
+
+AO. Through the Forex Trading Accounts, Defendants engaged in forex transactions
+
+on a leveraged or margined basis that did not result in actual delivery within two days or
+Gerth
+nd
+an
+i
+pore
+
+on . ee
+
+i wage ee TRS go Pag FS
+
+4 ett it of fmf Riek Foe
+wR AL PMA WTAE PD oe
+
+otherwise create an enforceable obligation to deliver between a seller and buyer that have the
+ability to deliver and accept delivery, respectively, in connection with their line of business.
+
+Al. As of mid-May 2016, the Forex Trading Accounts incurred, on a net basis,
+realized trading losses of approximately $114,300.
+
+42. Instead of using all or substantially all of pool participants’ funds for forex trading
+as promised, Defendants misappropriated the majority of pool participants’ funds for
+unauthorized purposes.
+
+43. Defendants failed to disclose to pool participants that Defendants did not invest
+all pool participant funds as promised in forex trading.
+
+44. Defendant Wright, through his control over his and WTCG’s bank accounts,
+personally misappropriated pool participants’ funds for unauthorized personal or business
+expenses such as food, clothing, jewelry, and entertainment.
+
+45. For example, on February 25, 2013, Defendants spent, or caused to be spent, over
+$1,000 at a department store on Fifth Avenue in Manhattan using funds from a WTCG bank
+account. Similarly, on September 9, 2013 and January 5, 2014, Defendants spent, or caused to
+be spent, over $4,000 and $1,000 respectively at luxury jewelers in Midtown, Manhattan using
+funds from a WTCG bank account.
+
+46. During the Relevant Period, Defendants knowingly made, or caused to be made,
+false account statements that inflated and misrepresented the value of pool participants’ accounts
+and the pool’s trading returns.
+
+47. Defendants sent false accounts statements via email on January 14, 2016 and July
+
+6, 2016 to at least one pool participant that resided in New York County, New York.
+
+10
+A8. The false account statements purported to reflect profitable earnings in the pool
+for periods when Defendants knew, or had to be aware, that there were in fact no such profitable
+earnings because Defendants were not engaging in forex trading at the time and because there
+was an overall significant decrease in the net value of the pool due to the combined effect of
+Defendants’ unprofitable forex trading and misappropriation.
+
+49, For example, shortly after the end of the second quarter of 2016, Defendants
+made, or caused to be made, false and misleading account statements and sent them to at least six
+pool participants via email. The statements showed bar graphs that created the appearance that
+the pool had consistent positive forex trading returns ranging from +1.08% a month to +18.81%
+a month for each month from November 2014 through June 2016. These statements were false,
+however, because in reality, WTCG did not engage in any forex trading from November 2014
+through March 2015, mid-July 2015 through September 2015, or after mid-May 2016.
+Moreover, the forex trading Defendants did engage in for certain periods between April 2015
+and mid-May 2016 resulted in overall trading losses.
+
+50. Although Defendants did not engage in any forex trading after mid-May 2016,
+Defendants continued to make and issue false pool participant account statements that created
+the appearance of pool forex trading gains through the end of the third quarter 2016.
+
+51. The false account statements Defendants made or caused to be made also inflated
+and misrepresented the value of the pool participants’ accounts. For example, the individual
+account statements for the second quarter of 2016 for six pool participants, sent via email shortly
+after the end of the second quarter of 2016, showed account values that totaled in excess of
+$678,000 when combined. In reality, most or all of the pool participants’ funds had been lost
+
+due to Defendants’ trading losses and misappropriation.
+
+11
+52. Defendants did not disclose to pool participants that the pool suffered significant
+trading losses or that some or all of their funds were actually misappropriated and never used for
+forex trading.
+
+53. By making and issuing such account statements, Defendants knowingly either
+misrepresented or attempted to misrepresent to pool participants, or willfully deceived or
+attempted to deceive pool participants, on multiple occasions during the Relevant Period.
+
+54. Defendant Wright knew or should have known that pool funds were being
+misappropriated and not used for forex trading because he controlled his and WTCG’s bank and
+trading accounts and engaged in the misappropriation himself.
+
+55. Around the fall of 2016, pool participants began having difficulty contacting
+Defendants.
+
+56. In or around November 2016, Defendants made misrepresentations to at least one
+pool participant regarding the availability of pool funds for withdrawal. On November 1, 2016, a
+pool participant sent an email request to Defendants to withdrawal $200,000 from his account.
+The next day, Defendants responded via an email that falsely created the appearance that the
+pool participant’s funds would be returned in approximately two weeks. The email stated that
+WTCG was in receipt of the pool participant’s request and that it would have to (1) close
+positions, which would be done by the end of the week, (2) transfer funds from its trading
+account to Bank 2, which would take approximately 3-5 business days, and (3) then transfer the
+funds to the pool participant via ACH-Wire, which would take 2-3 business days. After more
+than two weeks, however, the pool participant never received the funds. To date, Defendants
+
+have not returned the pool participant’s funds.
+
+12
+57. | Around mid-to-late November or December 2016, Defendants stopped
+communicating with pool participants or returning pool participants’ emails, telephone calls, and
+text messages. Pool participants have been unable to recover funds from their accounts.
+
+58. At no time during the Relevant Period did any purported commodity pool
+operated by Defendants qualify as an ECP. The purported commodity pool operated by
+Defendants during the Relevant Period was a non-ECP, and was therefore subject to the
+jurisdiction of the Commission, because (1) at no time during the Relevant Period did the pool
+have assets in excess of $5,000,000, (2) at no time during the Relevant Period was any purported
+commodity pool formed and operated by a person subject to regulation under the Act, because
+none of the Defendants were properly registered with the Commission as a CPO, and (3) at all
+times during the Relevant Period, one or more pool participants did not qualify as an ECP, as
+defined by Section 1a(18)(A)(ix) of the Act, 7 U.S.C. § 1a(18)(A)(x) (2012).
+
+B. Commingling Pool Funds and Failure to Operate Pool as Separate Entity
+
+59. WTCG, while acting as a CPO, also failed to operate its commodity pool as a
+separate legal entity, received pool funds in the name of Wright or WTCG rather than the pool,
+and commingled pool funds with non-pool property by depositing pool funds into the bank
+accounts of Wright or WTCG rather than a separate bank account for the pool.
+
+C. Defendants’ Failure to Register With the Commission
+
+60. During the Relevant Period, Defendant WTCG, by and through its officers,
+employees or agents, used the mails, emails, wire transfers, websites, and other means or
+instrumentalities of interstate commerce, to solicit pool participants and prospective pool
+
+participants.
+
+13
+6l. WTCG was never registered as a CPO. During the Relevant Period, WTCG acted
+as a CPO by engaging in a business that is of the nature of a commodity pool and, in connection
+with that business, soliciting and accepting pool funds from participants for the purpose of
+trading in forex transactions described in Section 2(c)(2)(C)(1) of the Act, 7 U.S.C. §
+2(c)(2)(C)() (2012), which were not transactions in foreign currency executed, traded on, or
+otherwise subject to the rules of a designated contract market pursuant to Section 5(a) of the Act.
+
+62. During the Relevant Period, WTCG was not statutorily exempt or excluded from
+registration as aCPO. Moreover, WTCG never filed any electronic or written notice with the
+National Futures Association that 1t was exempt or excluded from registration as a CPO, as
+required by Commission Regulations 4.5(c) and 4.13(b)(1).
+
+D. Controlling Person Liability
+
+63. Throughout the Relevant Period, Defendant Wright was the CEO, founder, and
+chief strategist of WTCG.
+
+64. During the Relevant Period, Defendant Wright did not act in good faith or
+knowingly induced WTCG and its officers’, employees’ or agents’ violations of the Act and
+Commission Regulations by personally making the misrepresentations and omissions described
+above concerning how the funds would be used and the availability of funds for withdrawal;
+making false account statements and sending them to pool participants; and misappropriating, or
+causing WTCG to misappropriate, pool participants’ funds. Wright knew or should have known
+that WTCG was not using pool participants’ funds to trade forex, that he had been making false
+account statements, and that he had been misappropriating pool participant funds. Wright also
+failed to remove or correct Defendants’ misrepresentations and failed to disclose the
+
+misappropriation of pool participant funds.
+
+14
+Case 1:17-cv-04722 Document1 Filed 06/22/17 Page 15 of 27
+
+Vv. VIOLATIONS OF THE COMMODITY EXCHANGE ACT AND
+COMMISSION REGULATIONS
+
+COUNT ONE
+Violations of Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. § 6b(a)(2)(A)-(C), and Regulation
+5.2(b)(1)-(3), 17 C.F.R. § 5.2(b)C)-(3)
+(Commodities/Forex Fraud by Misrepresentations, Omissions, False Statements, and
+Misappropriation)
+
+65. Paragraphs | through 64 are realleged and incorporated herein by reference.
+
+66. Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. § 6b(a)(2)(A)-(C) (2012), makes it
+unlawful “for any person, in or in connection with any order to make, or the making of, any
+contract for sale of any commodity for future delivery . . . that is made, or to be made, for or on
+behalf of, or with, any other person, other than on or subject to the rules of a designated contract
+market — (A) to cheat or defraud or attempt to cheat or defraud the other person; (B) willfully to
+make or cause to be made to the other person any false report or statement or willfully to enter or
+cause to be entered for the other person any false record; [or] (C) willfully to deceive or attempt
+to deceive the other person by any means whatsoever in regard to any order or contract or the
+disposition or execution of any order or contract, or in regard to any act of agency performed,
+with respect to an order or contract for or... with the other person.”
+
+67. Pursuant to Section 2(c)(2)(C)(iv) of the Act, 7 U.S.C. § 2(c)(2)(C)(v) (2012),
+Section 4b of the Act applies to the forex transactions described herein “as if” they were a
+contract of sale of a commodity for future delivery.
+
+68. Commission Regulation 5.2(b), 17 C.F.R. § 5.2(b) (2016), provides, in relevant
+part, that “[ijt shall be unlawful for any person, by use of the mails or by any means or
+
+instrumentality of interstate commerce, directly or indirectly, in or in connection with any retail
+
+forex transaction: (1) to cheat or defraud or attempt to cheat or defraud any person; (2) willfully
+
+15
+of mee AR a OT sp ye rN ot ean oO poets ah SRS Pe La py ma 4 a FP x
+Case liif-oy-O4/722 Documenti Filed OG/22/T"% Page 16 at 2?
+Net £ BaF Re OE f Gute te LR AR DEA te ROORRAS A MAS Ae ad PRASAD Ah
+
+to make or cause to be made to the other person any false report or statement or willfully to enter
+or cause to be entered for the other person any false record; or (3) willfully to deceive or attempt
+to deceive any person by any means whatsoever.
+
+69. Defendant WTCG, by and through its officers, employees, and agents, and Wright
+violated Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. § 6b(a)(2)(A)-(C) (2012), and Regulation
+5.2(b)(1)-(3), 17 C.F.R. § 5.2(b)(1)-(3) (2016), by making false representations and omissions
+including but not limited to (1) misrepresenting to prospective pool participants that all or
+substantially all of participants’ funds would be pooled and used to engage in forex trading; (2)
+sending pool participants false account statements that inflated and misrepresented the value of
+their accounts and the pool’s trading returns; (3) misrepresenting that pool participant funds were
+available for withdrawal; and (4) misappropriating pool participants’ funds for unauthorized
+personal or business expenses rather than engaging in retail forex trading and failing to disclose
+that pool participants’ funds had been misappropriated.
+
+70. In soliciting pool participants and prospective pool participants, Defendants
+WTCG and Wright directly violated Section 4b(a)(2)(A) and (C) of the Act, 7 U.S.C. §
+6b(a)(2)(A) and (C) (2012), and Commission Regulation 5.2(b)(1) and (3), 17 C.F.R. § 5.2(b)(1)
+and (3) (2016), by falsely representing that all or substantially all of pool participants’ funds
+would be pooled and used to engage in forex trading.
+
+71. Defendants WTCG, by and through its officers, employees, and agents, and
+Wright directly violated Section 4b(a)(2)(B) of the Act, 7 U.S.C. § 6b(a)(2)(B) (2012), and
+Commission Regulation 5.2(b)(2), 17 C.F.R. § 5.2(b)(2) (2016), by making, or causing to be
+made, false account statements that inflated and misrepresented the value of pool participants’
+
+accounts and the pool’s trading returns.
+
+16
+ot ns eae TP PAL co te nk OO pers ad SES PTR Se Pw aug ae poe 3
+(ace To pPeemy-GAPSS Pocument 7 Ela OER/e3 PPP Dane TP ot ,
+Nat TA - Kf TR, Mie AL tee LAE RL ER S REAL AA RPA CA kf PO CAMA Ah tee
+
+72. Defendants WTCG, by and through its officers, employees, and agents, and
+Wright also directly violated Section 4b(a)(2)(A) and (C) of the Act, 7 U.S.C. § 6b(a)(2)(A) and
+(C) (2012), and Commission Regulation 5.2(b)(1) and (3), 17 C.F.R. § 5.2(b)(1) and (3) (2016),
+by misappropriating WTCG pool participants’ funds for unauthorized personal or business
+expenses rather than for forex trading.
+
+73. The foregoing acts, omissions, and failures occurred within the scope of Wright’s
+employment or office with WTCG. Therefore, WTCG 1s liable for Wright’s acts, omissions, and
+failures in violation of Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. § 6b(a)(2)(A)-(C) (2012),
+and Commission Regulation 5.2(b)(1)-(3), 17 C.F.R. § 5.2(b)(1)-(3) (2016), pursuant to Section
+2(a)(1)(B) of the Act, as amended, 7 U.S.C. § 2(a)(1)(B) (2012), and Commission Regulation
+1.2, 17 C.F.R. § 1.2 (2016).
+
+74. Defendant Wright held and exercised direct and indirect control over WTCG and
+either did not act in good faith or knowingly induced WTCG’s violations of Sections
+Ab(a)(2)(A)-(C) of the Act, 7 U.S.C. § 6b(a)(2)(A)-(C) (2012), and Commission Regulation
+5.2(b)(1)-(3), 17 C.F.R. § 5.2(b)(1)-(3) (2016). As a controlling person of WT'CG, Wright is
+liable for WTCG’s violations of Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. § 6b(a)(2)(A)-(C)
+(2012), and Commission Regulation 5.2(b)(1)-(3), 17 C.F.R. § 5.2(b)(1)-(3) (2016), pursuant to
+Section 13(b) of the Act, 7 U.S.C. § 13c(b) (2012).
+
+75. Each misrepresentation, omission of material fact, false statement, and
+misappropriation, including but not limited to those specifically alleged herein, is alleged as a
+separate and distinct violation of Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. § 6b(a)(2)(A)-(C)
+
+(2012).
+
+17
+Case 1:17-cv-04722 Document1 Filed 06/22/17 Page 18 of 27
+
+COUNT TWO
+
+Violation of Section 40(1)(A)-(B) of the Act, 7 U.S.C. § 60(1)(A)-(B)
+(Fraud and Deceit by a CPO)
+
+76. Paragraphs 1| through 75 are re-alleged and incorporated herein by reference.
+
+77. During the Relevant Period, WTCG engaged in a business, for compensation or
+profit, that is of the nature of a commodity pool, investment trust, syndicate, or similar form of
+enterprise, and in connection therewith, solicited, accepted, or received from others, funds,
+securities, or property, either directly or through capital contributions, the sale of stock or other
+forms of securities, or otherwise, for the purpose of trading in commodity interests, including in
+relevant part transactions in foreign currency. Therefore, WTCG constituted a CPO as defined
+by Section la(11) of the Act, 7 U.S.C. § la(11) (2012).
+
+78. An Associated Person (“AP”) of a CPO is defined by Regulation 1.3(aa)(3) as any
+person who is a partner, officer, employee, consultant, or agent (or any natural person occupying
+a similar status or performing similar functions), in any capacity which involves (1) the
+solicitation of funds, securities, or property for a participation in a commodity pool or (11) the
+supervision of any person or persons so engaged. During the Relevant Period, Defendant Wright
+acted as an AP of WTCG.
+
+79. During the Relevant Period, WTCG was not registered with the Commission as a
+CPO.
+
+80. Section 40(1) of the Act, 7 U.S.C. § 60(1) (2012), prohibits CPOs and APs of
+CPOs, whether registered with the Commission or not, from using the mails or any means or
+instrumentality of interstate commerce, directly or indirectly, from (A) employing devices,
+
+schemes or artifices to defraud any client or participant or prospective client or participant,
+
+18
+and/or (B) engaging in transactions, practices, or courses of business which operated as a fraud
+or deceit upon any client or participant or prospective client or participant.
+
+81. While acting in its capacity as a CPO, Defendant WTCG, by and through its
+officers, agents or employees, knowingly or recklessly: (1) misrepresented in solicitations that all
+or substantially all of participants’ funds would be pooled and used to engaged in forex trading;
+(2) made and sent to pool participants false account statements that inflated and misrepresented
+the value of their accounts and the pool’s trading returns; (3) misrepresented that pool participant
+funds were available for withdrawal; and (4) misappropriated pool participants’ funds for
+unauthorized personal or business expenses rather than trading retail forex transactions and failed
+to disclose that pool participants’ funds had been misappropriated. Therefore, WTCG violated
+Section 40(1) of the Act, 7 U.S.C. § 60(1) (2012).
+
+82. Defendant Wright directly violated Section 40(1)(A)-(B) of the Act, 7 U.S.C. §
+60(1)(A)-(B) (2012), while acting in the capacity as an AP of CPO Defendant WTCG, by (1)
+misrepresenting in solicitations that all or substantially all of participants’ funds would be pooled
+and used to engaged in forex trading; (2) making and sending to pool participants false account
+statements that inflated and misrepresented the value of their accounts and the pool’s trading
+returns; (3) misrepresenting that pool participant funds were available for withdrawal; and (4)
+misappropriating pool participants’ funds for unauthorized personal or business expenses rather
+than trading retail forex transactions and failing to disclose that pool participants’ funds had been
+misappropriated.
+
+83. The foregoing acts, omissions, and failures of Defendant Wright occurred within
+the scope of his employment or office with WTCG. Therefore, WTCG is liable for Wright’s
+
+acts, omissions, and failures in violation of Section 40(1)(A)-(B) of the Act, 7 U.S.C. § 60(1)(A)-
+
+19
+Case 1:17-cv-04722 Document1 Filed 06/22/17 Page 20 of 27
+
+(B) (2012), pursuant to Section 2(a)(1)(B) of the Act, as amended, 7 U.S.C. § 2(a)(1)(B) (2012),
+and Regulation 1.2, 17 C.F.R. § 1.2 (2016).
+
+84. Defendant Wright held and exercised direct and indirect control over WTCG and
+either did not act in good faith or knowingly induced WTCG’s violations of Section 40(1)(A)-
+(B) of the Act, 7 U.S.C. § 60(1)(A)-(B) (2012). As a controlling person of WTCG, Wright is
+liable for WTCG’s violations of Section 40(1)(A)-(B) of the Act, 7 U.S.C. § 60(1)(A)-(B)
+(2012), pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b) (2012).
+
+85. Each misrepresentation, omission of material fact, false statement, and
+misappropriation, including but not limited to those specifically alleged herein, is alleged as a
+separate and distinct violation of Section 40(1) of the Act, 7 U.S.C. § 60(1) (2012).
+
+COUNT THREE
+Violation of Sections 2(c)(2)(C)Gii)()(cc) and 4m(1) of the Act, 7 U.S.C. 8§
+2(c)(2)(C) (iii) D(cc) and 6m(1), and Regulation 5.3(a)(2), 17 C.F.R. § 5.3(a)(2)
+(Failure to Register as a Retail Forex CPO)
+
+86. Paragraphs 1| through 85 are re-alleged and incorporated herein by reference.
+
+87. Section 2(c)(2)(C)aii)(I)(cc) of the Act, 7 U.S.C. § 2(c)(2)(C)Gi)(D)(cc) (2012),
+prohibits a person, unless registered in the capacity as required in Commission rule, from
+operating or soliciting funds for a pooled investment vehicle that is not an ECP in connection
+with forex transactions described in Section 2(c)(2)(C)(1) of the Act, 7 U.S.C. § 2(c)(2)(C)()
+(2012).
+
+88. During the Relevant Period, Defendant WTCG was not registered as a CPO while
+it operated and solicited funds for a pooled investment vehicle that was not an ECP while
+
+engaged in forex transactions described in Section 2(c)(2)(C)(1) of the Act, 7 U.S.C. §
+
+20
+2(c)(2)(C)). Therefore, Defendant WTCG was in violation of Section 2(c)(2)(C)(ii)(1)(cc) of
+the Act.
+
+89. Section 4m(1) of the Act, 7 U.S.C § 6m(1), makes it unlawful for any CPO,
+unless registered with the Commission, to make use of the mails or any means or instrumentality
+of interstate commerce in connection with its business as a CPO.
+
+90. During the Relevant Period, WTCG engaged in a business, for compensation or
+profit, that is of the nature of a commodity pool, investment trust, syndicate, or similar form of
+enterprise, and in connection therewith, solicited, accepted, or received from others, funds,
+securities, or property, either directly or through capital contributions, the sale of stock or other
+forms of securities, or otherwise, for the purpose of trading in commodity interests, including in
+relevant part transactions in foreign currency described in Section 2(c)(2)(C)(i) of the Act, 7
+U.S.C. § 2(c)(2)(C)a). Therefore, WTCG constituted a CPO as defined by Section 1a(11) of the
+Act, 7 U.S.C. § la(11) (2012).
+
+91. During the Relevant Period, WTCG, while using the mails or means of interstate
+commerce in connection with business as a CPO, was not registered with the Commission as a
+CPO. Thus, WTCG acted as an unregistered CPO in violation of Section 4m(1) of the Act, 7
+U.S.C. § 6m(1) (2012).
+
+92. Regulation 5.3(a)(2), 17 C.F.R. § 5.3(a)(2) (2016), requires any CPO engaged in
+retail forex transactions to register with the Commission. Regulation 5.1(d)(1), 17 C.F.R. §
+5.1(d)(1) (2016), defines a CPO as any person who “operates or solicits funds, securities, or
+property for a pooled investment vehicle that is not an eligible contract participant as defined
+
+section la(18) of the Act, and that engages in retail forex transactions.”
+
+21
+Case 1:17-cv-04722 Document1 Filed 06/22/17 Page 22 of 27
+
+93. During the Relevant Period, WTCG solicited funds, securities, or property for a
+pooled investment vehicle that was not an ECP and engaged in retail forex transactions (as
+defined by Regulation 5.1(m), 17 C.F.R. § 5.1(m) (2016)). Thus, WTCG acted as a CPO
+engaged in retail forex transactions as defined by Regulation 5.1(d)(1), 17 C.F.R. § 5.1(d)(1)
+(2016), and was not otherwise exempt or excluded from registration as a CPO. Because WTCG
+was not registered with the Commission as a CPO and engaged in retail forex transactions, it
+violated Regulation 5.3(a)(2)(1), 17 C.F.R. § 5.3(a)(2)() (2016).
+
+94. Wright held and exercised direct and indirect control over WTCG and either did
+not act in good faith or knowingly induced WTCG’s violations of Sections 2(c)(2)(C)(ii1)(1)(cc)
+and 4m(1) of the Act, 7 U.S.C. §§ 2(c)(2)(C)G)(1)(cc) and 6m(1) (2012), and Regulation
+5.3(a)(2)), 17 C.F.R. § 5.3(a)(2)() (2016). As a controlling person pursuant to Section 13(b) of
+the Act, 7 U.S.C. § 13c(b) (2012), Wright is liable for WTCG’s violations of Sections
+2(c)(2)(C)a1i)(1)(cc) and 4m(1) of the Act, 7 U.S.C. §§ 2(c)(2)(C)ai)(1)(cc) and 6m(1) (2012),
+and Regulation 5.3(a)(2)(i), 17 C.F.R. § 5.3(a)(2)q) (2016).
+
+COUNT FOUR
+Violation of Regulation 4.20(a)-(c); 17 C.F.R. § 4.20(a)-(c)
+
+(Failure to operate pool as separate entity; failure to receive investor funds in pool’s
+
+name; commingling pool funds)
+
+95. Paragraphs 1| through 94 are re-alleged and incorporated herein by reference.
+
+96. Commission Regulation 5.4, 17 C.F.R. § 5.4 (2016), states that Part 4 of the
+Regulations, 17 C.F.R. §§ 4.1, et seg., apply to any person required to register as a CPO pursuant
+
+to Part 5 of the Regulations relating to forex transactions. 17 C.F.R. §§ 5.1, et seq.
+
+22
+Case 1:17-cv-04722 Document1 Filed 06/22/17 Page 23 of 27
+
+97. Commission Regulation 4.20(a), 17 C.F.R. § 4.20(a) (2016), requires a CPO,
+whether registered or not, to operate its commodity pool as a legal entity separate from that of
+the CPO.
+
+98. Commission Regulation 4.20(b), 17 C.F.R. § 4.20(b) (2016), prohibits CPOs,
+whether registered or not, from receiving pool participants’ funds in any name other than that of
+the pool.
+
+99. Commission Regulation 4.20(c), 17 C.F.R. § 4.20(c) (2016), prohibits a CPO,
+whether registered or not, from commingling the property of any pool it operates with the
+property of any other person.
+
+100. During the Relevant Period, WTCG, while acting as a CPO, violated Commission
+Regulation 4.20(a)-(c), 17 C.F.R. § 4.20(a)-(c) (2016), by: (1) failing to operate a commodity
+pool as a legal entity separate from Wright or WTCG; (2) receiving pool participants’ funds in
+the names of Wright or WTCG rather than the commodity pool; and (3) commingling the
+property of the pool with property of Defendants or others.
+
+101. Defendant Wright held and exercised direct and indirect control over WTCG and
+either did not act in good faith or knowingly induced WTCG’s violations of Regulation 4.20(a)-
+(c), 17 C.F.R. § 4.20(a)-(c) (2016). As a controlling person of WTCG, Wright is liable for
+WTCG’s violations of Regulation 4.20(a)-(c), 17 C.F.R. § 4.20(a)-(c) (2016), pursuant to Section
+13(b) of the Act, 7 U.S.C. § 13c(b) (2012).
+
+VI. RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that this Court, as authorized by
+Section 6c of the Act, 7 U.S.C. § 13a-1 (2012), and pursuant to its own equitable powers:
+
+A. Enter an order finding that:
+
+23
+1) Defendants violated Sections 4b(a)(2)(A)-(C), 4m(1), 40(1)(A)-(B), and
+2(c)(2)(C)ai1)(1)(cc) of the Act, as amended, 7 U.S.C. §§ 6b(a)(2)(A)-(C),
+6m(1), 60(1)(A)-(B), and 2(c)(2)(C)aii)(1)(cc) (2012); and
+
+2) Defendants violated Regulations 4.20(a)-(c), 5.2(b)(1)-(3), and 5.3(a)(2), 17
+C.F.R. §§ 4.20(a)-(c), 5.2(b)(1)-(3), and 5.3(a)(2) (2016);
+
+B. Enter an order of permanent injunction restraining, enjoining and prohibiting
+Defendants, and any other person or entity in active concert with them, from engaging in conduct
+in violation of Sections 4b(a)(2)(A)-(C), 4m(1), 40(1)(A)-(B), and 2(c)(2)(C)(i11)(1)(cc) of the
+Act, as amended, 7 U.S.C. §§ 6b(a)(2)(A)-(C), 6m(1), 60(1)(A)-(B), and 2(c)(2)(C) Gi) (1)(cc)
+(2012), and Regulations 4.20(a)-(c), 5.2(b)(1)-(3), and 5.3(a)(2), 17 C.F.R. §§ 4.20(a)-(c),
+5.2(b)(1)-(3), and 5.3(a)(2) (2016);
+
+C. Enter an order of permanent injunction prohibiting Defendants and any other
+person or entity in active concert with them from, directly or indirectly:
+
+1) Trading on or subject to the rules of any registered entity (as that term is
+defined by Section 1a(40) of the Act, 7 U.S.C. § 1a(40) (2012));
+
+2) Entering into any transactions involving “commodity interests” (as that term is
+defined in Regulation 1.3(yy), 17 C.F.R. § 1.3(yy) (2016)), for accounts held
+in the name of any Defendant or for accounts in which any Defendant has a
+direct or indirect interest;
+
+3) Having any commodity interests traded on any Defendant’s behalf;
+
+4) Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account involving
+
+commodity interests;
+
+24
+5) Soliciting, receiving, or accepting any funds from any person for the purpose
+of purchasing or selling of any commodity interests;
+
+6) Applying for registration or claiming exemption from registration with the
+CFTC in any capacity, and engaging in any activity requiring such registration
+or exemption from registration with the CFTC except as provided for in
+Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9) (2016); and
+
+7) Acting as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R. §
+3.1(a) (2016)), agent, or any other officer or employee of any person
+registered, exempted from registration, or required to be registered with the
+CFTC except as provided for in Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9)
+(2016).
+
+D. Enter an order requiring Defendants, as well as any of their successors, to
+disgorge to any officer appointed by the Court all benefits received from acts or practices that
+constitute violations of the Act, as amended, and Regulations as described herein, including, but
+not limited to, salaries, commissions, loans, fees, revenues, and trading profits derived, directly
+or indirectly, plus pre-judgment interest thereon from the date of such violations, plus post-
+judgment interest;
+
+E. Enter an order requiring Defendants, as well as their successors, to make full
+restitution, pursuant to such procedure as the Court may order, to every person or entity who
+sustained losses proximately caused by Defendants’ violations (in the amount of such losses), as
+described herein, plus pre-judgment interest thereon from the date of such violations, plus post-
+
+judgment interest;
+
+25
+Gerth
+nd
+an
+i
+pore
+
+on . aya
+
+i Aa es Ro go Pag FS
+
+4 ett it of fmf Riek Foe
+wR AL PMA WTAE PD oe
+
+F, Enter an order directing Defendants and any of their successors, to rescind,
+pursuant to such procedures as the Court may order, all contracts and agreements, whether
+implied or express, entered into between them and any of the customers whose funds were
+received by them as a result of the acts and practices which constituted violations of the Act, as
+amended, as described herein;
+
+G. Enter an order requiring each Defendant to pay a civil monetary penalty under the
+Act, to be assessed by the Court, in amounts of not more than the greater of (1) triple the
+monetary gain for each violation of the Act and Commission Regulations or (2) $170,472 for
+each violation of the Act and Commission Regulations;
+
+H. An order directing that Defendants, and any successors thereof, make an
+accounting to the Court of all of their assets and liabilities, together with all funds they received
+from and paid to investors and other persons in connection with commodity interests and all
+disbursements for any purpose whatsoever of funds received from commodity interests,
+including salaries, commissions, interest, fees, loans, and other disbursement of money or
+property of any kind from at least August 2010 to the date of such accounting;
+
+I. Enter an order requiring Defendants to pay costs and fees as permitted by 28
+
+U.S.C. 8§ 1920 and 2413(a)(2) (2012); and
+
+26
+Case 1:17-cv-04722 Document1 Filed 06/22/17 Page 27 of 27
+
+J. Enter an order providing such other and further relief as this Court may deem
+
+necessary and appropriate under the circumstances.
+
+June 22, 2017
+
+Respectfully submitted,
+
+PLAINTIFF U. S. COMMODITY
+FUTURES TRADING COMMISSION
+
+By: s/ Alejandra de Urioste
+
+27
+
+Alejandra de Urioste
+Trial Attorney
+adeurioste@cftc. gov
+(646) 746-9700
+
+K. Brent Tomer
+Chief Trial Attorney
+ktomer@cftc.gov
+(646) 746-9700
+
+Manal M. Sultan
+Deputy Director
+msultan@cftc.gov
+(646) 746-9700
+
+U.S. Commodity Futures Trading
+Commission
+
+140 Broadway, 19th floor
+
+New York, NY 10005
+
+(646) 746-9700
+
+(646) 746-9940 (facsimile)

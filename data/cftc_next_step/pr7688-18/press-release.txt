@@ -1,0 +1,44 @@
+Release Number 7688-18
+January 29, 2018
+
+CFTC Charges Jiongsheng Zhao with Spoofing and Engaging in a Manipulative and
+Deceptive Scheme
+
+Washington, DC - The Commodity Futures Trading Commission (CFTC) today announced the filing of a federal court
+enforcement action in the U.S. District Court for the Northern District of Illinois against Defendant Jiongsheng Zhao, of
+Australia, charging him with spoofing and engaging in a manipulative and deceptive scheme in the E-mini S&P 500
+futures contract market on the Chicago Mercantile Exchange (CME).
+
+The CFTC Complaint alleges that from at least July 2012 through at least March 2017, Zhao repeatedly engaged in
+manipulative or deceptive acts and practices by “spoofing” (bidding or offering with the intent to cancel the bid or offer
+before execution). On thousands of occasions, Zhao placed an order that he wanted to execute and thereafter entered a
+larger order on the opposite side of the market that he intended to cancel before execution. In placing these larger spoof
+orders, Zhao intentionally or recklessly sent false signals of increased supply or demand designed to trick market
+participants into executing against the orders he wanted filled.
+
+CFTC’s Director of Enforcement Comments
+
+James McDonald, the CFTC’s Director of Enforcement, stated: By injecting false information into our markets, spoofers
+gain an unfair advantage over law-abiding market participants, thereby hindering competition and undermining the
+integrity of our markets. That’s why the CFTC is committed to identifying this type of misconduct and holding the
+responsible individuals accountable.”
+
+As alleged in the Complaint, Zhao carried out his scheme through a pattern of conduct that was designed to reap
+financial benefits from market participants’ reactions to his larger orders, which he intended to cancel before execution.
+Zhao engaged in the pattern approximately 2,300 times, which included 3,100 discrete instances of spoofing.
+
+In its continuing litigation, the CFTC seeks civil monetary penalties, disgorgement of ill-gotten gains, trading and
+registration bans, and a permanent injunction against further violations of the federal commodities laws, as charged.
+
+The CFTC thanks and acknowledges the assistance of the U.S. Department of Justice, the Federal Bureau of Investigation,
+the CME, and the Australian Securities & Investments Commission.
+
+This case is brought in connection with the CFTC Division of Enforcement’s Spoofing Task Force, and the staff members
+responsible for this action are Laura Brookover, Allison Sizemore, Jordon Grimm, Carlin Metzger, Joyce Brandt,
+Christopher Reed, and Charles D. Marvine.
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: January 30, 2018

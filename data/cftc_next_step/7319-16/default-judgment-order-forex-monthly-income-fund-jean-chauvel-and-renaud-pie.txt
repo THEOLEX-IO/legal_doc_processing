@@ -1,0 +1,1073 @@
+Case O1d4-cy-62240-WPD Document 39
+
+ 
+
+Eniered on FLSD Docket O2/PT/2015 Page i of 32
+
+UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF FLORIDA
+FORT LAUDERDALE DIVISION
+
+CIVIL ACTION NO. 14-62240 ~- CIV - JUDGE DIMITROULEAS
+
+ 
+
+ 
+
+MAGISTRATE JUDGE SNOW
+)
+U.S. (COMMODITY FUTURES )
+TRADING COMMISSION, ) ORDER FOR ENTRY OF
+) DEFAULT JUDGMENT, PERMANENT
+Plaintiff, ) INJUNCTION, CIVIL MONETARY
+) PENALTY, AND ANCILLARY
+Vv. ) EQUITABLE RELIEF AGAINST
+) DEFENDANTS FOREX MONTHLY
+FOREX MONTHLY INCOME FUND, ) INCOME FUND, LLC, JEAN
+LLC, JEAN CHAUVEL, RENAUD ) CHAUVEL, AND RENAUD PIERRE-
+PIERRE-CHARLES, and ROBERT ) CHARLES
+TRIPDDE, )
+)
+Defendants. )
+)
+I. INTRODUCTION
+
+On September 30, 2014, Plaintiff United States Commodity Futures Trading Commission
+
+(“CFTC”) filed its Complaint [D.E. #1] and Ex Parte Emergency Motion for a Statutory
+
+Restraining Order (“Motion for SRO”) [D.E. #4] alleging violations of the Commodity Exchange
+
+Act (“Act”), 7 U.S.C. §§ 1 et seq., and Commission Regulations, 17 C.F.R. §§ 1.1 et seq.
+
+The Complaint alleged that, from as early as January 2011 through the date of filing of
+
+the Complaint (“Relevant Period”), Jean Chauvel (“Chauvel”) and Renaud Pierre-Charles
+
+(“Pierrz-Charles”), individually and as principals of Forex Monthly Income Fund, LLC
+ase Ood-ow-62240AVPD DocumentS$ Entered on FLSD Docket O2/2T/2015 Page 2 of 32
+
+(“FMIF”), and Robert Tripode (“Tripode”)', individually and as an agent of FMIF, defrauded
+more than 100 members of the public (“pool participants”) of more than $1.4 million in
+connection with pooled investments in retail off-exchange foreign currency contracts (“forex”).
+Specifically, the Complaint alleged violations of 7 U.S.C. §§ 6b(a)(2)(A)-(C), 6k(2), 6m(1), and
+60(1) (2012) and 17 C.F.R. §§ 3.12, 4.20, 4.41(a), 5.2(b), 5.3(a)(2)(i) and (ii) (2014), and sought,
+inter alia, injunctive relief, disgorgement, restitution and civil monetary penalties.
+
+The answers of Pierre-Charles and FMIF were due on October 22, 2014, and Chauvel’s
+answer was due on November 6, 2014. Because Chauvel, Pierre-Charles, and FMIF failed to
+answer or otherwise respond to the Complaint, the CFTC filed its Motions for Clerk’s Entry of
+Default against Chauvel on November 10, 2014 [D.E. #27], against FMIF on November 17,
+2014 |D.E. #31], and against Pierre-Charles on November 24, 2014 [D.E. #33]. The Clerk of the
+Court entered the defaults against Chauvel, FMIF, and Pierre-Charles on November 12, 18, and
+25, 20:14, respectively [D.E. #29, 32, 34].
+
+The CFTC now has submitted its Application for Entry of Default Judgment, Permanent
+Injunction, Civil Monetary Penalty, and Ancillary Equitable Relief Against Defendants FMIF,
+Chauvel, and Pierre-Charles (collectively, the “Default Defendants”) pursuant to Fed. R. Civ. P.
+55(b)(2) and Local Rule 7(a)(1)(E). The Court has considered carefully the Complaint, the
+allegations of which are well-pled and hereby taken as true, the CFTC’s Application, and all
+
+oppositions thereto, and being fully advised in the premises, hereby:
+
+ 
+
+Tripode answered the Complaint on November 17, 2014 [D.E. #30] and, therefore, is not
+subject to this Order.
+ 
+
+Case Odd-cv-62240.VPQ DocumentS9 Entered on FLSD Docket O2/2T/2018S Page 3 of 32
+
+GRANTS the CFTC’s Application and enters this Order finding the Default Defendants
+liable as to all violations as alleged in the Complaint and imposing on the Default Defendants a
+permanent injunction, registration and trading bans, civil monetary penalties, and ancillary
+
+equitable relief, as more fully described herein.
+
+II. FINDINGS OF FACT
+
+1. The U.S. Commodity Futures Trading Commission is an independent federal
+regulatory agency that is charged by Congress with the administration and enforcement of the
+Act, 7 U.S.C. §§ 1 et seq., and the Regulations promulgated thereunder, 17 C.F.R. §§ 1.1 et seq.
+
+2. Defendant Forex Monthly Income Fund, LLC is a Florida limited liability
+company created by Chauvel and Pierre-Charles on January 31, 2011 with a business address of
+8362 Fines Blvd, No. 314, Pembroke Pines, FL 33024. FMIF has never been registered with the
+Commission in any capacity. On September 27, 2013, FMIF was administratively dissolved by
+the State of Florida for failing to file an annual report.
+
+3. Defendant Jean Chauvel is an individual whose last known address was in Miami,
+Florida. Chauvel is a principal, officer, and manager of FMIF and is responsible for its acts.
+Chauvel has never been registered with the Commission in any capacity.
+
+4. Defendant Renaud Pierre-Charles is an individual residing in Hallendale Beach,
+Florida. Pierre-Charles is a principal, officer, and manager of FMIF and is responsible for its
+acts. Fierre-Charles has never been registered with the Commission in any capacity.
+
+5. During the Relevant Period, FMIF, by and through Chauvel and Pierre-Charles,
+solicited existing and prospective pool participants, by use of the mails and/or other means or
+
+instrumentalities of interstate commerce, to send money to FMIF to trade forex in a commodity
+ase Od-ow-62240AVPD DocumentS9 Entered on FLSD Docket O2/2T/2015 Page 4 of 32
+
+pool operated by FMIF. Some of the pool participants solicited were unsophisticated investors,
+including senior citizens, who sought higher monthly income on their retirement savings.
+
+6. As part of their solicitation, the Default Defendants represented to prospective
+pool participants that FMIF offered a safe investment with steady, guaranteed returns. The
+Default Defendants reinforced this belief by providing pool participants a “Schedule of Monthly
+Returns” stating the exact amount of each monthly payment the pool participants were to receive
+based on the size of their investments.
+
+7. At least some pool participants signed a “Foreign Currency Fund Membership
+Agreement” (hereinafter, “Agreement”) provided to them by the Default Defendants. The
+Agreement reiterated the guaranteed monthly returns and also provided that either party could
+terminate the Agreement and that funds would be refunded upon 60 days written notice.
+
+8. In addition to personally soliciting prospective and existing pool participants, the
+Default Defendants solicited pool participants through a website, www.forexmonthlyincomefund-
+.com, in which FMIF was described as the “world’s leading and most trusted online investment
+opportunity” and “an international investment company which has been efficiently operating in
+the Forex market since 2010.” The website also repeated the Default Defendants’ guarantees:
+“FMI provides its clients with a fixed monthly income at a predetermined rate, with return of
+your initial deposit with a [sic] 60 days written notice.”
+
+9. FMIF’s website offered pool participants four separate “plans” under which they
+could participate in the FMIF pool. These plans touted monthly returns on investment from two
+
+to three percent and annual returns from 30 to 50 percent.
+Case Odd-cv-62240.VPQ DocumentS9 Entered on FLSD Docket O2/29T/201S Page 5 of 32
+
+10... FMIF’s website also offered an “Affiliate/Referral Program” under which pool
+participants and non-participants alike could receive guaranteed payments for referring new pool
+participants to the FMIF pool.
+
+11. The Default Defendants’ representations, as described above, prompted at least
+100 pool participants to provide FMIF approximately $1.429 million for trading forex in the
+purported FMIF pool.
+
+12. During the Relevant Period, Pierre-Charles and Chauvel opened bank accounts in
+the name of “Forex Monthly Income Fund” at J.P. Morgan Chase, N.A. (“Morgan Chase’) and
+Bank of America, N.A. (“BofA”). Pierre-Charles and Chauvel had sole signatory authority over
+these lank accounts.
+
+13. In order to invest, pool participants were instructed to make their checks payable
+to FMIF. These checks were deposited by Chauvel and Pierre-Charles into the Morgan Chase or
+BofA bank accounts.
+
+14. In opening these bank accounts and accepting funds from pool participants,
+Chauvel and Pierre-Charles made no distinction between the purported FMIF pool and FMIF as
+the commodity pool operator.
+
+15. During the Relevant Period, the Default Defendants did not open any domestic or
+foreign forex trading accounts.
+
+16. Asearly as summer 2012, FMIF was losing its ability to keep up with the
+promised monthly payments to pool participants. In a July 2012 letter sent to FMIF pool
+participants, Chauvel and Pierre-Charles, identified as the CFO and CEO of FMIF, respectively,
+
+wrote that the pool participants’ “percentages [i.e., the promised returns on investment] are
+ 
+
+Case Odd-cv-62240.VPO DocumentS9 Entered on FLSD Docket 02/29/2018 Page 6 of 32
+
+temporarily adjusted down due to market conditions...but we expect the situation to back [sic] to
+normal within the next 60-90 days.”
+
+17. By early 2013, new deposits from pool participants ceased flowing into FMIF.
+Within weeks of receiving the last deposit, the Default Defendants ceased making regular
+monttily payments to pool participants. At least as early as fall 2013, some pool participants
+demanded that FMIF return their principal payments. Some or all of these demands were not
+honored by the Default Defendants, despite the guarantee of withdrawal upon 60 days written
+notice.
+
+18. In reality, the Default Defendants’ purported forex pool was a sham. The Default
+Defendants knowingly and willfully made, or caused others to make, multiple material
+misrepresentations and omissions in their solicitation of existing and prospective pool
+participants, including as described above. In making their investment decisions, existing and
+prospective pool participants in the FMIF pool relied on the Default Defendants’ material
+misrepresentations and omissions, including statements regarding FMIF’s trading activity,
+purported profits earned from that trading, and the manner in which pool participants’ funds
+would be used.
+
+19. Instead of trading forex and paying the promised returns, the Default Defendants
+misappropriated the vast majority of pool participants’ funds. Of the $1,429,018.23 received
+from pool participants, the Default Defendants and agent Tripode returned only $420,312.82 to
+pool participants in the form of purported monthly profits from forex trading and withdrawals of
+principal. The remaining approximately $1,008,705.41 was misappropriated by the Default
+
+Defendants and agent Tripode, including $334,570.45 transferred directly to Chauvel;
+Case Odd-cov-62240.VPQ DocumentS9 Entered on FLSD Docket O2/29T/2018 Page 7 of 32
+
+$20,038.00 paid to Pierre-Charles, $203,090.01 paid to agent Tripode, and $484,880.95 in the
+form of cash withdrawals and miscellaneous payments to third parties.
+
+20. In order to conceal and perpetuate their fraud, the Default Defendants distributed
+false statements to existing and prospective pool participants through the mails and/or other
+means or instrumentalities of interstate commerce that indicated the Default Defendants were
+
+engaged in profitable trading when, in fact, they conducted no trading at all for the FMIF pool.
+
+II. CONCLUSIONS OF LAW
+
+21. | Whena party against whom a default judgment is sought has failed to plead or
+otherwise assert a defense, and that fact has been documented, the clerk shall enter the party’s
+default. Fed. R. Civ. P. 55(a). The party seeking the default shall then apply to the court for a
+default judgment. Fed. R. Civ. P. 55(b). Fed. R. Civ. P. 55(b)(2) provides that judgment by
+default may be entered by a district court against a defendant upon the failure of that defendant
+to plead or otherwise defend. CFTC v. Machado, No. 11-22275-Civ, 2012 WL 2994396 at *3
+(S.D. Fla.); CFTC v. FX Professional Intern. Solutions, Inc., No. 1:10-cv—22311, 2010 WL
+55411150 at *4 (S.D. Fla.); Dunn v. Prudential Ins. Co. of America, No. 8:10-cv—1626, 2011 WL
+1298156 at *3-4 (M.D. Fla.); Vaccaro v. Custom Sounds, Inc., No. 3:08-cv-776-J-32, 2009 U.S.
+Dist. LEXIS 113982 (M.D. Fla.). The grant or denial of a motion for default judgment lies
+within a district court’s sound discretion. Hamm v. DeKalb County, 774 F.2d 1567, 1576 (11th
+Cir. 1985). The fact that a defendant may make himself impossible to contact cannot prevent the
+entry of default judgment. Florida Physician’s Ins. Co. v. Ehlers, 8 F.3d 780, 784 (11th Cir.
+1993). Ifa district court determines that a defendant is in default, then well-pled factual
+allegations of the complaint, except those relating to unspecified damages, will be taken as true
+
+and liability is established by the entry of a default. Sampson v. Brewer, Michaels & Kane, LLC,
+7
+ 
+
+ase Ood-ow-62240AVPD DocumentS9 Entered on FLSD Docket O2/1T/2015 Page 8 of 32
+
+No. 6:09-cv—2114—-Orl-31 DAB, 2010 WL 2432084 (M.D. Fla. 2010) (citing Buchanan v.
+Bowman, 820 F.2d 359, 361 (11th Cir.1987)); see also Fed. R. Civ. P. 8(b)(6) (effect of failure to
+deny an allegation). Moreover, “[iJt is a familiar practice and an exercise of judicial power for a
+court pon default, by taking evidence when necessary or by computation from facts of record,
+to fix the amount which the plaintiff is lawfully entitled to recover and to give judgment
+accorclingly.” Machado, 2012 WL 2994396 at *3 (quoting Pope v. United States, 323 U.S. 1, 12
+(1944" (internal quotes omitted)).
+
+22. The Clerk of the Court already has entered defaults against the Default
+Defendants [D.E. #29, 32, 34]. As such, in accordance with Fed. R. Civ. P. 55(b)(2), the CFTC’s
+allegations in the Complaint against the Default Defendants are deemed to be well-pled and are
+taken as true, and a default judgment is hereby entered against the Default Defendants.
+
+A. Jurisdiction
+
+23. This Court has jurisdiction over this action pursuant to 7 U.S.C. § 13a-1 (2012)
+which provides that whenever it shall appear to the CFTC that any person has engaged, is
+engaging, or is about to engage in any act or practice constituting a violation of any provision of
+the Act or any rule, regulation, or order promulgated thereunder, the CFTC may bring an action
+in the proper district court of the United States against such person to enjoin such act or practice,
+or to enforce compliance with the Act, or any rule, regulation or order thereunder.
+
+24. — Venue properly lies with the Court pursuant to 7 U.S.C. § 13a-1(e) (2012), in that
+the Default Defendants transacted business in the Southern District of Florida and the acts and
+practices in violation of the Act and Regulations occurred within this District, among other
+
+places.
+Case Odd-cv-62240.VPQ DocumentS9 Entered on FLSD Docket O2/2T/2018S Page 9 of 32
+
+B. The Commodity Exchange Act
+
+25. ‘In analyzing the CFTC’s Application, the Court keeps in mind a crucial purpose
+of the Act, inter alia, “protecting the innocent individual investor — who may know little about
+the intricacies and complexities of the commodities market — from being misled or deceived.”
+CFTC v. RJ. Fitzgerald & Co., 310 F.3d 1321, 1329 (11th Cir. 2002). “{C/Javeat emptor has no
+place in the realm of federal commodities fraud. Congress, the CFTC, and the Judiciary have
+determined that customers must be zealously protected from deceptive statements by brokers
+
+who <leal in these highly complex and inherently risky financial instruments.” /d, at 1334.
+
+Cc. Violations of 7 U.S.C. §§ 6b(a)(2)(A)-(C) and 17 C.F.R. § 5.2(b)
+26. 7U.S.C. §§ 6b(a)(2)(A)-(C) (2012) make it unlawful for any person:
+
+in or in connection with any order to make, or the making of, any
+contract of sale of any commodity for future delivery ... (A) to
+cheat or defraud or attempt to cheat or defraud the other person;
+(B) willfully to make or cause to be made to the other person any
+false report or statement or willfully to enter or cause to be entered
+for the other person any false record; [or] (C) willfully to deceive
+or attempt to deceive the other person by any means whatsoever...
+
+27. 17 C.F.R. § 5.2(b) (2014) makes it unlawful for any person:
+
+by use of the mails or by any means or instrumentality of interstate
+commerce, directly or indirectly, in or in connection with any retail
+forex transaction (1) to cheat or defraud or attempt to cheat or
+defraud any person; (2) willfully to make or cause to be made to
+any person any false report or statement or cause to be entered for
+any person any false record; or (3) willfully to deceive or attempt
+to deceive any person by any means whatsoever.
+
+28. The Default Defendants, through their willful misappropriation of pool participant
+funds, fraudulent sales solicitations, and issuance of false statements, violated 7 U.S.C. 8§
+
+6b(a)(2)(A)-(C) and 17 C.F.R. § 5.2(b).
+Case O:14-cyv-62240-WPD Document 39 Entered on FLSD Docket 0291/2015 Page 16 of 32
+
+1, Fraud by Misappropriation
+
+29. Misappropriation of customer funds constitutes “willful and blatant fraudulent
+activity” in violation of 7 U.S.C. §§ 6b(a)(2)(A) and (C). CFTC v. Noble Wealth Data Info.
+Serv., Inc., 90 F. Supp. 2d 676, 687, (D. Md. 2000) (defendants violated Section 6b(a) by
+diverting investor funds for operating expenses and personal use), aff'd sub nom. CFTC v.
+Barayosh, 278 F.3d 319 (4th Cir. 2002); see also CFTC v. Skorupskas, 605 F. Supp. 923, 932
+(E.D. Mich. 1985) (holding that defendant violated Section 6b when she misappropriated
+customer funds by soliciting funds for trading and then trading only a small percentage of those
+funds, while disbursing the rest of the funds to investors, herself, and her family); CFTC v.
+Weinberg, 287 F. Supp. 2d. 1100, 1106 (C.D. Cal. 2003) (misappropriating investor funds
+violated Section 6b(a)); Jn re Slusser, [1998-1999 Transfer Binder] Comm. Fut. L. Rep. (CCH) 4
+27,701 at 48,315 (CFTC July 19, 1999), aff'd in relevant part sub nom. Slusser v. CFTC, 210
+F.3d “'83 (7th Cir. 2000) (respondents violated Section 6b by surreptitiously retaining money in
+their own bank accounts that should have been traded on behalf of participants); CFTC v. King,
+No. 3:06-CV-1583-M, 2007 WL 1321762, at *2 (N.D. Tex. May 7, 2007) (“King’s violation of
+section [6b(a)] is further proven by his admitted misappropriation of customer funds for personal
+and professional use”); CFTC v. McLaurin, [1994-1996 Transfer Binder] Comm. Fut. L. Rep.
+(CCH) § 26,768 at 44,180 (N.D. III. 1996) (by depositing customer funds in accounts in which
+the customers had no ownership interest and making unauthorized disbursements for his own
+use, defendant violated Section 6b).
+
+30. During the Relevant Period, the Default Defendants violated 7 U.S.C. §§
+6b(a)(2)(A) and (C) and 17 C.F.R. § 5.2(b) by willfully misappropriating pool participant funds.
+
+Specifically, of the $1,429,018.23 provided by pool participants to the Default Defendants for
+
+10
+Case O:14-cv-6224d0.WPD Document 39 Entered on FLSD Docket O291/2015 Page 11 of 32
+
+trading forex, the record reflects that only $420,312.82 was returned to pool participants. The
+
+remaining funds were misappropriated by the Default Defendants.
+
+2. Fraud by Misrepresentations and Omissions to Existing
+and Prospective Pool Participants
+
+31. To establish that the Default Defendants violated 7 U.S.C. §§ 6b(a)(2)(A) and (C)
+and 17 C.F.R. § 5.2(b) through misrepresentations and omissions, the CFTC must prove that 1) a
+misrepresentation or omission was made, 2) with scienter; and 3) that the misrepresentation or
+omission was material. R.J. Fitzgerald & Co., 310 F. 3d at 1328-29. Scienter requires proof that
+a defendant committed the alleged wrongful acts “intentionally or with reckless disregard for his
+duties under the Act.” Drexel Burnham Lambert, Inc. v. CFTC, 850 F.2d 742, 748 (D.C. Cir.
+1988); see also Do v. Lind-Waldock & Co. [1994-1996 Transfer Binder] Comm. Fut. L. Rep.
+(CCH) ¥ 25,516 at 43,321 (CFTC Sept. 27, 1995) (determining that a reckless act is one where
+there is so little care that it is “difficult to believe the [actor] was not aware of what he was
+doing’). A statement is material if “it is substantially likely that a reasonable investor would
+consider the matter important in making an investment decision.” RJ. Fitzgerald, 310 F.3d at
+1328 (internal quotation omitted). Any fact that enables investors to assess independently the
+risk inherent in their investment and the likelihood of profit is a material fact. In re Commodities
+Int'l Corp., [1996-1998 Transfer Binder] Comm. Fut. L. Rep. (CCH) § 26,943, at 44,563-64
+(CFTC Jan. 14, 1997). Moreover, a material misrepresentation or omission is a violation
+whether or not it induces investor action or inaction; rather, it is sufficient that a material
+misrepresentation or omission is made to “attempt to cheat or defraud” or willfully to “attempt to
+deceive” a person. See CFTC v. Int'l Fin. Servs., 323 F. Supp. 2d 482, 502 (S.D.N.Y. 2004)
+(investor reliance need not be proven in an enforcement action alleging fraud) (citing S/usser v.
+
+CFTC, 210 F.3d 783, 785-86 (7th Cir 2000)).
+1]
+Case O:14-cv-62240-WPD Document 39 Entered on FLSD Docket O21/2015 Page 12 of 32
+
+32. As described above, the evidence demonstrates that during the Relevant Period
+Chauvel and Pierre-Charles, individually and on behalf of FMIF, lied to existing and prospective
+pool participants that they were making and would make large profits and that pool participants
+woul: receive guaranteed returns on their investments, Chauvel and Pierre-Charles willfully or
+with reckless disregard of the truth made these misrepresentations and omissions in order to
+induce participants to invest with the Default Defendants. These misrepresentations and
+omissions are material in that a reasonable pool participant would want to know, among other
+things, that the Default Defendants had not opened forex trading accounts and that they never
+generated any trading profits. Accordingly, each of the elements of fraud by misrepresentation
+and omission is met in this case, and the Default Defendants therefore violated 7 U.S.C. §§
+6b(a)(2)(A) and (C) and 17 C.F.R. § 5.2(b).
+
+3. Fraud by False Statements
+
+33. Delivering, or causing the delivery of, false statements to participants relating to
+forex trades (or other transactions regulated by the CFTC) constitutes a violation of 7 U.S.C. §
+6b(a)(2)(B) and, by definition, 17 C.F.R. § 5.2(b). See, e.g., CFTC v. Skorupskas, 605 F. Supp.
+at 932-33 (finding that defendant violated Section 6b(a) of the Act by issuing false monthly
+statements to customers); CFTC v. Sorkin, [1982-1984 Transfer Binder] Comm. Fut. L. Rep.
+(CCH) § 21,855 at 27,585 (S.D.N.Y. August 25, 1983) (determining that distribution of false
+account statements which falsely report trading activity or equity is a violation of Sections 60
+and 6l) of the Act); Weinberg, 287 F. Supp. 2d. at 1107 (false and misleading statements as to the
+amount and location of investors’ money violated Section 6b(a)); Noble Wealth , 90 F. Supp. 2d
+
+at 685-87 (defendants violated Section 6b(a) through the delivery of false account statements).
+
+12
+Case O:14-cv-62240-WPD Document 39 Entered on FLSD Docket 0291/2015 Page 15 of 32
+
+34. | During the Relevant Period, the Default Defendants violated 7 U.S.C. §
+6b(a)(2)(B) and 17 C.F.R. § 5.2(b) by willfully sending account statements stating their
+purpcrted monthly returns and publishing promotional material to pool participants and others on
+their website that misrepresented their trading performance and their ability to pay the promised
+
+returris.
+
+D. Violations of 7 U.S.C. § 60(1) and 17 C.F.R. § 4.41 (a)
+35. 7U.S.C. § 60(1) (2012) makes it unlawful:
+
+for a... commodity pool operator, or associated person of a commodity
+pool operator by use of the mails or any means or instrumentality of
+interstate commerce, directly or indirectly—
+
+(A) — to employ any device, scheme, or artifice to defraud any client or
+participant or prospective client or participant; or
+
+(B) to engage in any transaction, practice, or course of business which
+operates as a fraud or deceit upon any client or participant or
+prospective client or participant.
+
+36. 17 C.F.R. § 4.41(a) (2014) makes it unlawful for any commodity pool operator or
+any principal thereof to publish, distribute, or broadcast, whether by electronic media or
+otherwise, any report, letter, writing, or other literature which:
+
+(1) Employs any device, scheme or artifice to defraud any participant
+or client or prospective participant or client; [or]
+(2) Involves any transaction, practice or course of business which
+
+operates as a fraud or deceit upon any participant or client or any
+prospective participant or client.
+
+37.  7U,S.C. § 1a(11) (2012) defines a “commodity pool operator,” in relevant part, as
+a person
+engaged in a business that is of the nature of a commodity pool,
+investment trust, syndicate, or similar form of enterprise, and who, in
+
+connection therewith, solicits, accepts, or receives from others, funds,
+securities, or property, either directly or through capital contributions, the
+
+13
+Case O:14-cv-62240-WPD Bocument 39 Entered on FLSD Docket 0291/2015 Page 14 of 32
+
+sale of stock or other forms of securities, or otherwise, for the purpose of
+trading in commodity interests, including any—
+
+II. [forex] agreement, contract, or transaction...
+
+38. Unlike 17 U.S.C. §§ 6b(a) and 60(1)(A), the language of Section 60(1)(B) does
+not require “knowing” or “willful” conduct as a prerequisite for establishing liability. See, e.g.,
+Messer v. E.F. Hutton & Co., 847 F.2d 673, 678-79 (11th Cir. 1988). Section 60 applies to all
+commodity pool operators, whether registered, required to be registered, or exempted from
+registration. See, e.g., CFTC v. Skorupskas, 605 F. Supp. at 932. The same conduct that
+constitutes violations of Section 6b(a), as described above, constitutes violations of Section 60.
+See, e.g., CFTC v. Skorupskas, 605 F. Supp. at 932-33.
+
+39. From at least July 16, 20117 to the present, FMIF operated as a commodity pool
+operator in that it engaged in a business that is of the nature of an investment trust, syndicate or
+similar form of enterprise, and in connection therewith, solicited, accepted, or received funds,
+securities, or property from others for the purpose of trading forex.
+
+40. From at least July 16, 2011 to the present, Chauvel and Pierre-Charles were
+principals and/or agents of FMIF and acted as associated persons of FMIF in that they solicited
+and accepted funds, securities, or property for FMIF.
+
+41. From at least July 16, 2011 to the present, FMIF (acting as a commodity pool
+
+operator) and Chauvel and Pierre-Charles (acting as associated persons of FMIF), through the
+
+ 
+
+2 As of July 16, 2011, the statutory definition of a commodity pool operator set forth in 7
+
+U.S.C. § 1a(11) was amended by the Dodd-Frank Wall Street Reform and Consumer Protection
+Act, Pub.L. 111-203, 124 Stat. 1376, July 21, 2010), to include commodity pool operators
+operating commodity pools that solicit and accept funds for the purpose of trading forex, in
+addition to other commodity interests.
+
+14
+Case O:14-cv-62240-WPD Document 39 Entered on FLSD Docket 0291/2015 Page 15 of 32
+
+use of the mails or other means or instrumentalities of interstate commerce (including through
+the use of telephone calls and electronic mail with pool participants and prospective pool
+participants), violated 7 U.S.C. § 60(1) (2012) by knowingly (i) misappropriating pool
+participants’ funds, (ii) making material fraudulent statements and omissions to existing and
+prospective pool participants about FMIF’s forex trading and profitability, including statements
+published through FMIF’s website, and (iii) issuing false account reports to existing and
+prospective pool participants.
+
+42. From at least July 16, 2011 to the present, FMIF (acting as a commodity pool
+operator) and Chauvel and Pierre-Charles (acting as principals of FMIF) violated 17 C.F.R. §
+4.41(a) (2014) by knowingly (i) misappropriating pool participants’ funds, (ii) making material
+fraudulent statements and omissions to existing and prospective pool participants about FMIF’s
+forex trading and profitability, including statements published through FMIF’s website, and (iii)
+
+issuing false account reports to existing and prospective pool participants.
+
+E. Violations of 7 U.S.C § 6m(1) and 17 C.F.R. § 5.3(a)(2)(i)
+43, 7 U.S.C § 6m(1) (2012) provides that it is unlawful for any commodity pool
+
+operator, unless registered, to make use of the mails or any means or instrumentality of interstate
+commerce in connection with its business as a commodity pool operator.
+
+44, Similarly, 17 C.F.R. § 5.3(a)(2)(i) (2014) provides that any commodity pool
+operator, as defined in 17 C.F.R. § 5.1(d)(1), is required to register as a commodity pool
+operator. 17 C.F.R. § 5.1(d)(1) (2014) defines a commodity pool operator as anyone who
+“operates or solicits funds... for a pooled investment vehicle... that engages in retail forex
+
+transactions.”
+
+15
+Case O:14-cv-62240-WPD Document 39 Entered on FLSD Docket O21/2015 Page 16 of 32
+
+45. Asset forth above, from July 16, 2011 to the present, FMIF, by and through its
+employees, agents, and control persons, including Chauvel and Pierre-Charles, used the mails or
+instrumentalities of interstate commerce in or in connection with a commodity pool as a
+commodity pool operator while failing to register as a commodity pool operator, in violation of 7
+U.S.C. § 6m(1) (2012).
+
+46. As set forth above, during the Relevant Period, FMIF, by and through its
+emplayees, agents, and control persons, including Chauvel and Pierre-Charles, solicited funds
+for a pooled investment vehicle that engaged in retail forex transactions while failing to register
+as a commodity pool operator, in violation of 17 C.F.R. § 5.3(a)(2)(i) (2014).
+
+F, Violations of 7 U.S.C. § 6k(2) and 17 C.F.R.
+
+ 
+
+47. 7 U.S.C. § 6k(2) (2012) and 17 C.F.R. § 5.3(a)(2)(ii) (2014) prohibit persons from
+being associated with a commodity pool operator as a partner, officer, employee, consultant, or
+agent ‘or any person occupying a similar status or performing similar functions), in any capacity
+that involves (i) the solicitation of funds, securities, or property for participation in a commodity
+pool, or (ii) the supervision of any person or persons so engaged, unless such person is
+registered.
+
+48. 7U.S.C. § 6k(2)(ii) (2012) further prohibits commodity pool operators from
+permitting such persons to become or remain associated with the commodity pool operator if the
+commodity pool operator knew or should have known that such persons were not so registered.
+
+49. 17 C.F.R. § 3.12 (2014) prohibits a person from being associated with a
+commodity pool operator unless the person is registered as an associated person of the
+
+sponscring commodity pool operator.
+
+16
+Case O:14-cv-62240-WPD Document 39 Entered on FLSD Docket 0291/2015 Page 1? of 32
+
+50. As set forth above, from July 16, 2011 to the present, Chauvel and Pierre-Charles
+solicited funds for participation in a commodity pool operated by FMIF and/or supervised
+persons so engaged. Because Chauvel and Pierre-Charles were not registered as associated
+persons of FMIF, Chauvel and Pierre-Charles violated 7 U.S.C. § 6k(2) (2012) and 17 C.F.R. §§
+3.12 and 5.3(a)(2)(ii) (2014).
+
+51. As set forth above, FMIF, by and through its employees, agents, and control
+persons, permitted Chauvel and Pierre-Charles, among others, to become or remain associated
+with FMIF knowing that they were not registered as associated persons, in violation of 7 U.S.C.
+§ 6k(2)(ii) (2012).
+
+G. Violations of 17 C.F.R. §§ 4.20(a) and (b)
+
+52. 17 C.F.R. § 4.20(a) (2014) provides that a commodity pool operator “must
+operate its pool as an entity cognizable as a legal entity separate from that of the pool operator.”
+17 C.F.R. § 4.20(b) (2014) provides that all funds received by a commodity pool operator from
+pool participants must be received in the name of the pool.
+
+53. During the Relevant Period, FMIF failed to operate the purported pool as a legal
+entity separate from itself, the commodity pool operator. Instead, the Default Defendants
+referred to the pool operator and the pool by the same name. In addition, FMIF accepted funds
+from pool participants in the name of FMIF, the commodity pool operator, rather than in the
+name of an FMIF pool and made no distinction as to which bank accounts belonged to FMIF the
+commniodity pool operator and which belonged to an FMIF pool. Therefore, FMIF violated 17
+
+C.F.R.. §§ 4.20(a) and (b) (2014).
+
+17
+Case O:14-cv-62240-WPD Bocument 39 Entered on FLSD Docket O291/2015 Page 15 of 32
+
+H. Chauvel and Pierre-Charles are Liable as Controlling Persons
+
+54, Chauvel and Pierre-Charles controlled FMIF and, as controlling persons, are
+
+liable for FMIF’s violations pursuant to 7 U.S.C. § 13c(b) (2012), which provides that:
+
+Any person who, directly or indirectly, controls any person who
+
+has violated any provision of this Act or any of the rules,
+
+regulations, or orders issued pursuant to this Act may be held liable
+
+for such violation in any action brought by the Commission to the
+
+same extent as such controlled person. In such action, the
+
+Commission has the burden of proving that the controlling person
+
+did not act in good faith or knowingly induced, directly or
+indirectly, the act or acts constituting the violation.
+
+A “fundamental purpose” of the statute is “to reach behind the corporate entity to the controlling
+individuals of the corporation and to impose liability for violations of the Act directly on such
+individuals as well as on the corporation itself.” RJ. Fitzgerald & Co., 310 F.3d at 1334
+(quoting JCC, Inc. v. CFTC, 63 F.3d 1557, 1567 (11th Cir. 1995) (internal quotation marks and
+citation omitted)).
+
+55. To establish controlling person liability under 7 U.S.C. § 13c(b) (2012), the CFTC
+must show both (1) control and (2) lack of good faith or knowing inducement of the acts
+constituting the violation. Jn re First Nat’l Trading Corp., [1992-1994 Transfer Binder] Comm.
+Fut. L. Rep. (CCH) 4 26,142, at 41,787 (CFTC July 20, 1994), aff'd without opinion sub nom.
+Pick vy. CFTC, 99 F.3d 1139 (6th Cir. 1996). To establish the first element, control, a defendant
+must possess general control over the operation of the entity principally liable. See, e.g., RJ.
+Fitzgerald, 310 F.3d at 1334 (recognizing an individual who “exercised the ultimate choice-
+making power within the firm regarding its business decisions” as a controlling person).
+Evidence that a defendant is an officer, founder, principal, or the authorized signatory on the
+company’s bank accounts indicates the power to control a company. Jn re Spiegel, [1987-1990
+Transfer Binder] Comm. Fut. L. Rep. (CCH) § 24,103, at 34,767 (CFTC Jan. 12, 1988); see also
+
+18
+Case O:14-cv-6224d0.WPD Bocument 39 Entered on FLSD Docket O21/2015 Page 19 of 32
+
+Apache Trading Corp., [1990-1992 Transfer Binder] Comm, Fut. L. Rep. (CCH) § 25,251, at
+38,7°5 (CFTC Mar. 11, 1992) (finding that an individual who “maintained control over the
+economic aspects of the operations” of a firm was a controlling person of it).
+
+56. To establish the “knowing inducement” element of the controlling person
+violation, the CFTC must show that “the controlling person had actual or constructive knowledge
+of the: core activities that constitute the violations at issue and allowed them to continue.” JCC,
+Inc. v. CFTC, 63 F.3d at 1568 (quoting Jn re Spiegel, [1987-1990 Transfer Binder] Comm. Fut.
+L. Rep. (CCH) 4 24,103, at 34,767 (CFTC Jan. 12, 1988)). Controlling persons cannot avoid
+liability by deliberately or recklessly avoiding knowledge about potential wrongdoing. In re
+Spiegel, § 24,103, at 34,767. Indeed, constructive knowledge of wrongdoing is sufficient for a
+finding of knowing inducement. See JCC, Inc., 63 F.3d at 1568. To support a finding of
+constructive knowledge, the CFTC must show that a defendant “lacked actual knowledge only
+because he consciously avoided it.” Jd. at 1569 (citations omitted).
+
+57. As described above, at all material times, Chauvel and Pierre-Charles controlled
+FMIF and the bank accounts in which pool participant funds were deposited and, therefore, had
+actual knowledge of the activities that constituted the violations described above. Chauvel and
+Pierre-Charles are the founders and managers of FMIF and its sole principals and officers.
+Chauvel and Pierre-Charles solicited participants to trade through FMIF. Chauvel and Pierre-
+Charlzs corresponded with participants regarding their accounts and knowingly caused the false
+statements to be sent to participants. Chauvel and Pierre-Charles, thus, had the requisite control
+of FMIF, knew of the fraudulent acts, and allowed them to continue. Chauvel and Pierre-
+Charles, therefore, are liable pursuant to 7 U.S.C. § 13c(b) (2012) for FMIF’s violations
+
+described above.
+
+19
+Case O:14-cv-62240-WPD Document 39 Entered on FLSD Docket O21/2015 Page 20 of 32
+
+I. FMIF is Liable for the Acts of its Agents
+58. 7 US.C. § 2(a)(1)(B) (2012) and 17 C.F.R. § 1.2 (2014) provide, inter alia, that
+
+the act or omission of any agent or other person acting for a corporation within the scope of his
+employment shall be deemed the act or omission of such corporation as well as of such agent or
+other person. As described above, Chauvel and Pierre-Charles, who were the founders and sole
+managers of FMIF, committed the acts and omissions described herein within the course and
+scope of their employment at FMIF. Therefore, FMIF is liable under 7 U.S.C. § 2(a)(1)(B)
+(2012) and 17 C.F.R. § 1.2 (2014) for Chauvel’s and Pierre-Charles’ violations described above.
+
+See CFTC vy. Sidoti, 178 F.3d 1132, 1135-36 (11th Cir. 1999).
+
+IV. REMEDIES
+
+A, Permanent Injunction Against the Default Defendants
+59. 7U.S.C. § 13a-1 (2012) authorizes and directs the CFTC to enforce the Act and
+
+Regulations and allows a district court, upon a proper showing, to grant a permanent injunction.
+CFTC v. Wilshire Inv. Mgmt. Corp., 531 F.3d 1339, 1346 (11th Cir. 2008). 7 U.S.C. § 13a-l
+(2012) states in relevant part:
+
+(a) Whenever it shall appear to the Commission that any registered
+entity or other person has engaged, is engaging, or is about to
+engage in any act or practice constituting a violation of any
+provision of this Act or any rule, regulation or order, thereunder . .
+. the Commission may bring an action in the proper district court
+of the United States . . . to enjoin such act or practice, or to enforce
+compliance with this Act, or any rule, regulation or order
+thereunder...
+
+20
+Case O:14-cv-62240-WPD Document 39 Entered on FLSD Docket O291/2015 Page 21 of 32
+
+60. The CFTC is entitled to injunctive relief upon a showing that a violation has occurred
+
+and is likely to continue unless enjoined. CFTC v. Sidoti, 178 F.3d at 1137; CFTC v. Muller, 570
+
+F.2d 1296, 1300 (Sth Cir. 1978); CFTC v. Hunt, 591 F.2d 1211, 1220 (7th Cir. 1979), cert denied,
+442 U.S. 921 (1979); CFTC v. British American Commodity Options Corp., 560 F.2d 135, 141 (2nd
+Cir. 1977); SEC v. Unique Financial Concepts, Inc., 196 F.3d 1195, 1199 n.2 (11th Cir. 1999).
+
+61. ‘In analyzing whether future violations are likely to occur, a district court may
+infer a likelihood of future violations from the defendant’s past unlawful conduct. See SEC v.
+Carriba Air, Inc., 681 F.2d 1318, 1322 (11th Cir.1982); CFTC v. Am. Bd. of Trade, Inc., 803
+F.2d 1242, 1250-51 (2d Cir. 1986); CFTC v. Heritage Capital Advisory Services, Ltd., [1982-1984
+Transfer Binder] Comm. Fut. L. Rep. § 21,627 at 26,385 (N.D. IIl.1982). Such an inference is
+approoriate because “past illegal conduct is highly suggestive of the likelihood of future violations.”
+CFTC v. Crown Colony Commodity Options, Ltd., 434 F. Supp. 911, 919 (S.D.N.Y. 1977); Hunt,
+591 F.2d at 1220; British American, 560 F.2d at 142.
+
+62. The scope of the injunctive relief can be tailored to meet the circumstances of the
+violations shown. See, e.g., Wilshire Inv. Mgmt. Corp., 531 F.3d at 1346 (upholding the district
+court’s permanent injunction prohibiting the defendants from “engaging in any commodity-
+related activity”); see also Noble Wealth Data Info. Servs., 90 F. Supp. 2d at 692 (‘[t]he
+pervasiveness and seriousness of [the defendant’s] violation justify the issuance of a permanent
+injunction prohibiting him from violating the Act and from engaging in any commodity-related
+
+activity, including soliciting customers and funds’’). Under these standards, permanent
+
+ 
+
+3 The Eleventh Circuit adopted as binding precedent all Fifth Circuit decisions that were
+
+handed down prior to the close of business on September 30, 1981. Bonner v. City of Prichard,
+661 F.2d 1206, 1209 (11th Cir.1981) (en banc).
+
+21
+Case O:14-cv-62240.WPD Document 39 Entered on FLSD Docket O291/2015 Page 22 of 32
+
+injunctive relief, including a comprehensive trading and registration ban, is clearly warranted
+against the Default Defendants.
+
+63. Based on the Default Defendants’ conduct and pursuant to 7 U.S.C. § 13a-l
+(2012), the Default Defendants are permanently restrained, enjoined and prohibited from directly
+or indirectly:
+
+a) cheating or defrauding, or attempting to cheat or defraud, other persons in
+or in connection with any order to make, or the making of, any forex contract that is
+made, or to be made, for or on behalf of, or with, any other person in violation of 7
+U.S.C. § 6b(a)(2)(A)-(C) (2012) and 17 C.F.R. § 5.2(b) (2014);
+
+b) employing any device, scheme, or artifice to defraud or engaging in any
+transaction, practice, or course of business which operates as a fraud or deceit upon any
+participant or prospective participant in a commodity pool in violation of 7 U.S.C. §
+60(1) and 17 C.F.R. § 4.41 (a);
+
+c) acting as a commodity pool operator without being registered in violation
+of 7 U.S.C. § 6m(1) and 17 C.F.R. §5.3(a)(2)(i) (2014);
+
+d) soliciting funds for or being associated with a commodity pool operator
+without being registered in violation of 7 U.S.C. § 6k(2) and 17 C.F.R. §§ 3.12 and
+5.3(a)(2)(ii); and
+
+e) failing to operate a pool as a legal entity separate from the commodity
+pool operator and accepting funds from pool participants in the name of the pool operator
+rather than in the name of the pool in violation of 17 C.F.R. §§ 4.20(a) and (b) (2014).
+64. | The Default Defendants are also permanently restrained, enjoined and prohibited
+
+from directly or indirectly:
+
+22
+Case O:14-cv-62240.WPD Document 39 Entered on FLSD Docket O21/2015 Page 25 of 32
+
+a. trading on or subject to the rules of any registered entity (as that term is
+defined in 7 U.S.C. § 1a(40) (2012));
+
+b. entering into any “commodity interests” (as that term is defined in 17
+C.F.R. § 1.3(yy) (2014)) for their own personal account or for any account in which they
+have a direct or indirect interest;
+
+c. having any commodity interests traded on their behalf;
+
+d. controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account involving commodity
+interests;
+
+€. soliciting, receiving, or accepting any funds from any person for the
+purpose of purchasing or selling any commodity interests;
+
+f. applying for registration or claiming exemption from registration with the
+CFTC in any capacity, and engaging in any activity requiring such registration or
+exemption from registration with the CFTC, except as provided for in 17 C.F.R. §
+4.14(a)(9) (2014); and/or
+
+g. acting as a principal (as that term is defined in 17 C.F.R. § 3.1(a) (2014)),
+agent or any other officer or employee of any person (as that term is defined in 7 U.S.C.
+§ 1a(38) (2012)) registered, exempted from registration or required to be registered with
+the Commission except as provided for in 17 C.F.R. § 4.14(a)(9) (2014).
+
+B. Restitution
+
+65. In acivil enforcement action brought pursuant to 7 U.S.C. § 13a-1 (2012), the
+district court may order equitable relief in the form of restitution. A district court has broad
+
+discretion in determining equitable remedies to be imposed upon a finding of violation of the
+
+23
+Case O:14-cv-62240-WPD Document 39 Entered on FLSD Docket 0291/2015 Page 24 of 32
+
+Act. Indeed, “the unqualified grant of statutory authority to issue an injunction under [7 U.S.C.]
+§ 13a—-1 carries with it the full range of equitable remedies.” CFTC v. Wilshire Inv. Mgmt. Corp.,
+531 F.3d 1339, 1344 (11th Cir, 2008). Included within that range of equitable remedies “is the
+power to grant restitution.” Jd, Prior to July 16, 2011, the Court’s authority to order restitution in
+such vases was founded on the well-established legal principle articulated by the Supreme Court
+in Porter v. Warner Holding Co., 328 U.S. 395, 398 (1946):
+
+Unless otherwise provided by statute, all the inherent equitable
+
+powers of the District Court are available for the proper and
+
+complete exercise of that jurisdiction. And since the public
+
+interest is involved in a proceeding of this nature, those equitable
+
+powers assume an even broader power and more flexible character
+
+than when a private controversy is at stake. Power is thereby
+
+resident in the District Court, in exercising this jurisdiction, “to do
+
+equity and to mould each decree to the necessities of the particular
+
+case.”
+
+66. The Supreme Court reaffirmed this principle in Mitchell v. Robert De Mario
+Jewelry, Inc., 361 U.S. 288 (1960), where it recognized that “’the comprehensiveness of [the
+court’s] equitable jurisdiction is not to be denied or limited in the absence of a clear and valid
+legislative command. Unless a statute in so many words, or by a necessary and inescapable
+reference, restricts the court’s jurisdiction in equity, the full scope of that jurisdiction is to be
+recognized and applied.’” Jd. at 291 (quoting Porter, 328 U.S. at 398).
+
+67. The Eleventh Circuit has followed these principles in granting broad equitable
+powers to district courts in enforcement matters brought by federal agencies. See, e.g., Wilshire
+Inv. Mgmt. Corp., 531 F.3d at 1344; see also CFTC v. Kimberlynn Creek Ranch, Inc., 276 F.3d
+187, 193 (4th Cir. 2002) (“‘It is well settled that equitable remedies such as disgorgement are
+
+available to remedy violations of the [Act]”); United States v. Universal Mgmt. Servs., Inc., 191
+
+F.3d 7'50, 760-61 (6th Cir. 1999) (“{rJestitution and disgorgement are part of the court’s
+
+24
+Case O:14-cv-62240.WPD Document 39 Entered on FLSD Docket O291/2015 Page 25 of 32
+
+traditional equitable authority”). In the absence of a statutorily provided remedy, Eleventh
+Circuit courts measure restitution by the defendant’s unjust gain. See Wilshire Inv. Mgmt. Corp.,
+531 F.3d at 1345; CFTC v. Levy, 541 F.3d 1102, 1113 (11th Cir. 2008).
+68. On July 16, 2011, newly added subsection (d)(3) of 7 U.S.C. § 13a-1 became
+
+effective. This section provides in relevant part:
+
+(3) Equitable remedies
+
+In any action brought under this section, the Commission may seek, and the
+
+court may impose, on a proper showing, on any person found in the action to
+
+have committed any violation, equitable remedies including—
+
+(A) restitution to persons who have sustained losses proximately caused by such
+violation (in the amount of such losses).
+
+7 U.S.C. § 13a-1(d)(3) (2012) (emphasis added). Therefore, for violations of the Act and
+Regulations occurring on or after July 16, 2011, the measure of restitution is determined by the
+amount of the pool participants’ losses rather than the defendant’s unjust enrichment.
+
+69. In this case, the total amount of participant funds misappropriated by the Default
+Defendants is equal to the total amount of losses incurred by participants and is calculated with
+straightforward arithmetic, i.e. $1,429,018.23 (the amount taken in from participants) minus
+$420,312.82 (the amount returned to participants) equals $1,008,705.41 (the amount
+misappropriated from/lost by participants).
+
+70. Accordingly, this Court orders the Default Defendants to pay, jointly and
+severally, restitution in the amount of $1,008,705.41, plus post-judgment interest (the
+“Restitution Obligation”). Post-judgment interest on the Restitution Obligation shall accrue
+beginning on the date of entry of this Order and shall be determined by using the Treasury Bill
+
+rate prevailing on the date of entry of this Order pursuant to 28 U.S.C. § 1961 (2012).
+
+25
+Case O:14-cv-62240-WPD Document 39 Entered on FLSD Docket O21/2015 Page 26 of 32
+
+71. To effect payment of the Restitution Obligation and the distribution of any
+restitution payments to FMIF’s pool participants, the Court appoints the National Futures
+Assoviation (“NFA”) as Monitor (“Monitor”), The Monitor shall collect restitution payments
+from the Default Defendants and make distributions as set forth below. Because the Monitor is
+acting as an officer of this Court in performing these services, the NFA shall not be liable for any
+action or inaction arising from NFA’s appointment as Monitor, other than actions involving
+fraud.
+
+72. The Default Defendants shall make Restitution Obligation payments under this
+Consent Order to the Monitor in the name “[NAME OF DEFENDANT] - FMIF Restitution
+Fund” and shall send such Restitution Obligation payments by electronic funds transfer, or by
+U.S. postal money order, certified check, bank cashier’s, or bank money order, to the Office of
+Administration, National Futures Association, 300 South Riverside Plaza, Suite 1800, Chicago,
+Illinois 60606 under cover letter that identifies the paying Defendant and the name and docket
+number of this proceeding. The Default Defendants shall simultaneously transmit copies of the
+cover letter and the form of payment to the Chief Financial Officer, Commodity Futures Trading
+Commnission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
+
+73. The Monitor shall oversee the Restitution Obligation and shall have the discretion
+to determine the manner of distribution of such funds in an equitable fashion to FMIF’s pool
+participants identified by the Commission or may defer distribution until such time as the
+Monitor deems appropriate. In the event that the amount of Restitution Obligation payments to
+the Monitor are of a de minimis nature such that the Monitor determines that the administrative
+cost of making a distribution to eligible pool participants is impractical, the Monitor may, in its
+
+discretion, treat such restitution payments as civil monetary penalty payments, which the
+
+26
+Case O:14-cv-62240.WPD Document 39 Entered on FLSD Docket O21/2015 Page 27 of 32
+
+Monitor shall forward to the Commission following the instructions for civil monetary penalty
+payments set forth in Part IV.C below.
+
+74. The Default Defendants shall cooperate with the Monitor as appropriate to
+provide such information as the Monitor deems necessary and appropriate to identify FMIF’s
+pool participants to whom the Monitor, in its sole discretion, may determine to include in any
+plan ‘or distribution of any Restitution Obligation payments. The Default Defendants shall
+execuite any documents necessary to release funds that he may have in any repository, bank,
+investment or other financial institution, wherever located, in order to make partial or total
+payment toward the Restitution Obligation.
+
+75. The Monitor shall provide the Commission at the beginning of each calendar year
+with a report detailing the disbursement of funds to FMIF’s pool participants during the previous
+year. The Monitor shall transmit this report under a cover letter that identifies the name and
+docket number of this proceeding to the Chief Financial Officer, Commodity Futures Trading
+Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
+
+76. | The amounts payable to each FMIF pool participant shall not limit the ability of
+any pool participant from proving that a greater amount is owed from the Default Defendants or
+any other person or entity, and nothing herein shall be construed in any way to limit or abridge
+the rights of any pool participant that exist under state or common law.
+
+77. Pursuant to Rule 71 of the Federal Rules of Civil Procedure, each FMIF pool
+participant who suffered a loss is explicitly made an intended third-party beneficiary of this
+Consent Order and may seek to enforce obedience of this Consent Order to obtain satisfaction of
+
+any portion of the restitution that has not been paid by the Default Defendants to ensure
+
+27
+Case O:14-cv-6224d0-WPD Document 39 Entered on FLSD Docket O21/2015 Page 25 of 32
+
+continued compliance with any provision of this Consent Order and to hold the Default
+Defendants in contempt for any violations of any provision of this Consent Order.
+
+78. To the extent that any funds accrue to the U.S. Treasury for satisfaction of the
+Default Defendants’ Restitution Obligation, such funds shall be transferred to the Monitor for
+
+disbursement in accordance with the procedures set forth above.
+
+Cc. Civil Monetary Penalties
+79, 7 U.S.C. § 13a-1(d)(1) (2012) provides that “the [CFTC] may seek and the court
+
+shall have jurisdiction to impose, on a proper showing, on any person found in the action to have
+comnnitted any violation [of the Act or Regulations] a civil penalty.” Pursuant to 7 U.S.C. § 13a-
+1(d)(1 (A) (2012) and 17 C.F.R. § 143.8(a)(1) (2014), for the time period at issue in the case at
+bar, the civil monetary penalty shall be not more than the greater of $140,000 for each violation
+of the Act or triple the monetary gain to the Default Defendants. The CFTC has set forth several
+factors to consider in assessing a civil monetary penalty. These factors include: the relationship
+of the violation at issue to the regulatory purposes of the Act and whether or not the violations
+involved core provisions of the Act; whether or not scienter was involved; the consequences
+flowing from the violative conduct; financial benefits to a defendant; and harm to customers or
+the market. Jn re Grossfeld, [1996-1998 Transfer Binder] Comm. Fut. L. Rep. (CCH) 4 26,921
+at 44,467-8 (CFTC Dec. 10, 1996), aff'd, 137 F.3d 1300 (11th Cir. 1998). Civil monetary
+penalties should “reflect the abstract or general seriousness of each violation and should be
+sufficiently high to deter future violations,” which means that civil monetary penalties should
+make it financially detrimental to a defendant to fail to comply with the Act and Regulations so
+
+that the defendant would rather comply than risk violations. Jd.
+
+28
+Case O:14-cv-6224d0-WPD Bocument 39 Entered on FLSD Docket O21/2015 Page 29 of 32
+
+80. Conduct that violates the core provisions of the Act, such as customer fraud,
+should be considered extremely serious. JCC, Inc., 63 F.3d at 1571. The CFTC itself has
+recognized that:
+
+[c]ustomer fraud is a violation of the core provisions of the [Act].
+
+Such conduct historically has been considered to be among the
+
+most serious of violations for purposes of initially determining the
+
+severity of the sanctions to be imposed under the [Act] and
+
+consistently has warranted substantial civil penalties.)
+In re Slusser, CFTC No. 94-14, 1999 WL 507574 at *18 (CFTC July 19, 1999) (internal
+quotations omitted). Severe sanctions are particularly warranted when a defendant repeatedly
+violates the Act, id., and the CFTC may, as it did here, allege multiple violations in a single
+count. Levy, 541 F.3d at 1110-11. Courts have routinely awarded significant civil monetary
+penalties in cases involving fraud. See, e.g, Machado, 2012 WL 2994396 at *10-11 (S.D. Fla.
+Apr. 20, 2012) (on default, ordering civil monetary penalty of $3,920,000 in fraud case based on
+$140,000 for each of 28 customers defrauded); CFTC v. FX Professional Int’l Solutions, Inc.,
+2010 WL 5541050 at *9-10 (S.D. Fla. Nov. 20, 2010) (on default, ordering civil monetary
+penal:y of $4,080,000 based on 30 false statements issued by defendants); CFTC v. Cosmo, 2012
+WL 5986525 at *3-4 (E.D.N.Y. Oct. 1, 2012) (on default, ordering civil monetary penalty of
+$240 million (triple the monetary gain to defendant) based on finding that defendant’s fraud
+violations were intentional and significantly harmed numerous investors); CFTC vy. Int’]
+Financial Servs., Inc., 2003 WL 22350941 at *2 (S.D.N.Y. Jun. 24, 2003) (on default, ordering
+maxirnum allowable civil monetary penalty of $76 million equal to triple the monetary gain to
+defendant for fraud violations).
+
+81. This case warrants the imposition of a substantial civil monetary penalty against
+
+the Default Defendants because they knowingly engaged in fraud, which is a core violation of
+
+29
+Case O:14-cv-62240-WPD Document 39 Entered on FLSD Docket O21/2015 Page 30 of 32
+
+the Act. See Grossfeld, | 26,921 at 44,467 and n. 28 (citation omitted); see also United Investors
+Group, Inc., 440 F. Supp. 2d 1345, 1361 (S.D. Fla. 2008) (determining that, among other things,
+“the gravity of the offenses, the brazen and intentional nature of the violations, [and] the
+vulnerability of the customers” justified “imposition of a substantial and meaningful [civil
+monetary] penalty”). Specifically, Defendants knowingly engaged in an illegal scheme by, inter
+alia, (i) misappropriating much of the pool participants’ funds, (ii) fraudulently soliciting
+hundreds of thousands of dollars from participants for the purported purpose of trading forex,
+and (iii) sending false account statements to these participants.
+
+82. The Court believes that a civil monetary penalty in the total amount of
+$3,026,116.23 against the Default Defendants, joint and several, is justified in this case. This
+amount represents three times the monetary gain to Default Defendants as a result of their fraud.
+The amount of the civil monetary penalty is appropriate given the repeated and egregious nature
+of the: Default Defendants’ fraudulent scheme. See United Investors Group, Inc., 440 F. Supp.2d
+at 1361. Accordingly, this Court orders the Default Defendants to pay, jointly and severally, a
+civil monetary penalty in the amount of $3,026,1 16.23, plus post-judgment interest (the “CMP
+Obligation’’), Post-judgment interest on this civil monetary penalty shall accrue beginning on the
+date of entry of this Order and shall be calculated using the Treasury Bill rate prevailing on the
+date of this Order pursuant to 28 U.S.C. § 1961 (2012).
+
+83. The Default Defendants shall pay this CMP Obligation by electronic funds
+transfer, U.S. postal money order, certified check, bank cashier’s check, or bank money order. If
+payment is to be made other than by electronic funds transfer, then the payment shall be made
+
+payable to the Commodity Futures Trading Commission and sent to the address below:
+
+30
+Case O:14-cv-62240WPD Document 39 Entered on FLSD Docket 0291/2015 Page 31 of 32
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables
+DOT/FAA/MMAC/AMZ-341
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+
+nikki.gibson@faa.gov
+
+If payment by electronic funds transfer is chosen, the Default Defendants shall contact Nikki
+Gibson or her successor at the address above to receive payment instructions and shall fully
+comply with those instructions. The Default Defendants shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Defendant and the name and docket
+number of this proceeding. The Default Defendants shall simultaneously transmit copies of the
+cover letter and the form of payment to the Chief Financial Officer, Commodity Futures Trading
+Cominission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
+
+D. Miscellaneous Provisions
+
+84.  Injunctive and Equitable Relief: The injunctive and equitable relief provisions
+of this Order shall be binding upon the Default Defendants and any persons who are acting in the
+capacity of agent, employee, servant, or attorney of the Default Defendants, and any person
+acting in active concert or participation with the Default Defendants, who receives actual notice
+of this Order by personal service or otherwise.
+
+85. Partial Satisfaction: Any acceptance by the CFTC or the Monitor of partial
+payment of the Default Defendants’ Restitution and/or CMP Obligations shall not be deemed a
+waiver of their obligation to make further payments pursuant to this Order, or a waiver of the
+
+CFTC’s right to seek to compel payment of any remaining balance.
+
+31
+Case O:14-cv-62240.WPD Document 39 Entered on FLSD Docket O21/2015 Page 32 of 32
+
+86. Continuing Jurisdiction of this Court: This Court shall retain jurisdiction of
+this cause to assure compliance with this Order and for all other purposes related to this action.
+SO ORDERED, this | day of 2015, at Fort Lauderdale,
+
+Florida.
++ Nn }
+\ Ug |
+HONORABLE WILLIAM P. DIMITROULEAS
+UNITED STATES DISTRICT JUDGE
+
+ 
+
+32

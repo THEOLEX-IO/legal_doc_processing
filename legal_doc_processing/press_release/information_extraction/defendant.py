@@ -1,6 +1,6 @@
 from legal_doc_processing.utils import uniquize as _u
 
-from legal_doc_processing.utils import merge_ans, ask_all
+from legal_doc_processing.utils import merge_ans, ask_all, cosine_similarity
 
 from legal_doc_processing.press_release.clean.defendant import (
     _sub_you_shall_not_pass,
@@ -192,7 +192,11 @@ if __name__ == "__main__":
 
     # import
     import time
-    from legal_doc_processing.utils import get_pipeline, get_spacy
+
+    import numpy as np
+    import pandas as pd
+
+    from legal_doc_processing.utils import get_pipeline, get_spacy, cosine_similarity
     from legal_doc_processing.press_release.loader import press_release_X_y
     from legal_doc_processing.press_release.press_release import PressRelease
 
@@ -203,7 +207,7 @@ if __name__ == "__main__":
 
     # structured_press_release_r
     df = press_release_X_y(features="defendant")
-    df = df.iloc[:7, :]
+    df = df.iloc[:, :]
     df["obj"] = [PressRelease(i, nlpipe=nlpipe, nlspa=nlspa) for i in df.txt.values]
 
     # preds
@@ -221,3 +225,8 @@ if __name__ == "__main__":
     one = df.iloc[0, :]
     one_txt = one.txt
     one_ob = obj = self = one.obj
+
+    # eval predict defendant performance
+    _zip = zip(df.defendant.values, df.pred_defendant.values)
+    pred_performance = pd.Series([cosine_similarity(i, j) for i, j in _zip])
+    pred_performance.mean()

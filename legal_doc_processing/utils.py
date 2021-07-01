@@ -8,25 +8,23 @@ import numpy as np
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-
-
 # import heapq
 # import nltk
 # from cleantext import clean
 import spacy
 from transformers import pipeline
 
-
 # AutoModelForTokenClassification, AutoTokenizer
-# compute cosine_similarity
-def sub_cosine_similarity(list_corpus :list) -> object :
-    """ """                                                                                                                                                                               
-    
-    vect = TfidfVectorizer(min_df=1, stop_words="english")                                                                                                                                                                                                   
 
-    tfidf = vect.fit_transform(list_corpus)                                                                                                                                                                                                                       
-    pairwise_similarity = tfidf * tfidf.T 
-    
+
+def sub_cosine_similarity(list_corpus: list) -> object:
+    """ """
+
+    vect = TfidfVectorizer(min_df=1, stop_words="english")
+
+    tfidf = vect.fit_transform(list_corpus)
+    pairwise_similarity = tfidf * tfidf.T
+
     return pairwise_similarity
 
 
@@ -39,20 +37,17 @@ def cosine_similarity(y: str, pred: str) -> float:
     y_list = [i.strip().lower() for i in y.split(",")]
     pred_list = [i.strip().lower() for i in pred.split(",")]
 
-
-    #add artificialy pred at begin of y_list
+    # add artificialy pred at begin of y_list
     y_pred_list = [[i] + y_list for i in pred_list]
 
-
     # poiur chaque candidat pred -> evaluer la cosine similarity
-    cos_y_pred_arrays = [sub_cosine_similarity(i).toarray() for i in y_pred_list ]
-
+    cos_y_pred_arrays = [sub_cosine_similarity(i).toarray() for i in y_pred_list]
 
     # prendre pour chaque pred le 1er ligne et oublier le 1er chiffre (cf matrice identité probkem)
-    cos_y_pred_list = np.array([i[0][1:] for i in cos_y_pred_arrays ])
+    cos_y_pred_list = np.array([i[0][1:] for i in cos_y_pred_arrays])
 
     # prendre le max de chaque lignes
-    max_cos_y_pred = np.array([max(i) for i in cos_y_pred_list ])
+    max_cos_y_pred = np.array([max(i) for i in cos_y_pred_list])
 
     # soit retour de la liste restante
     # soit mean de cette list

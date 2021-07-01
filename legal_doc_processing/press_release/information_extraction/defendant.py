@@ -207,7 +207,7 @@ if __name__ == "__main__":
 
     # structured_press_release_r
     df = press_release_X_y(features="defendant")
-    df = df.iloc[:, :]
+    df = df.iloc[:30, :]
     df["obj"] = [PressRelease(i, nlpipe=nlpipe, nlspa=nlspa) for i in df.txt.values]
 
     # preds
@@ -216,17 +216,22 @@ if __name__ == "__main__":
     df["pred_defendant"] = df.obj.apply(lambda i: i.predict("defendant"))
     t = time.time() - t
 
-    # # labels
-    # preds_labels = list(df.preds.iloc[0].keys())
-    # for k in preds_labels:
-    #     df["pred_" + k] = df.preds.apply(lambda i: i[k])
-
-    # 1st one
-    one = df.iloc[0, :]
-    one_txt = one.txt
-    one_ob = obj = self = one.obj
+    # # 1st one
+    # one = df.iloc[0, :]
+    # one_txt = one.txt
+    # one_ob = obj = self = one.obj
 
     # eval predict defendant performance
+
+    def decore_cosine_similarity(i: str, j: str) -> float:
+        """cosine_similarity + avoid errors returning inconsistant cvalue"""
+
+        try:
+            return cosine_similarity(i, j)
+        except Exception as e:
+            print(e)
+            return -1.0
+
     _zip = zip(df.defendant.values, df.pred_defendant.values)
-    pred_performance = pd.Series([cosine_similarity(i, j) for i, j in _zip])
+    pred_performance = pd.Series([decore_cosine_similarity(i, j) for i, j in _zip])
     pred_performance.mean()

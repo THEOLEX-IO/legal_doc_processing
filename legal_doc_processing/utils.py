@@ -18,6 +18,18 @@ from transformers import pipeline
 # from itertools import product
 
 
+def cosine_similarity(y: str, pred: str) -> float:
+    """eval accuracy based on cosine similarity of 2 list of answers """
+
+    ######
+
+    # CODE
+
+    ######
+
+    return -1.0
+
+
 def softmax(x):
     """Compute softmax values for each sets of scores in x."""
     e_x = np.exp(x - np.max(x))

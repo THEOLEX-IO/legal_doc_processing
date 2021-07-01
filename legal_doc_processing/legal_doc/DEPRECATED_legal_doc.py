@@ -77,8 +77,8 @@ class LegalDoc:
         # data points private
         self._feature_list = [
             "_currency",
-            "_code_law_violation",
-            "_country_of_violation",
+            "_code_law_violations",
+            "_country_of_violations",
             "_decision_date",
             "_defendant",
             "_extracted_authorities",
@@ -89,7 +89,7 @@ class LegalDoc:
             "_plaintiff",
             "_reference",
             "_sentence",
-            "_violation_date",
+            "_violations_date",
         ]
         self.feature_list = [i[1:] for i in self._feature_list]
 
@@ -106,12 +106,12 @@ class LegalDoc:
         return self.strize(self._currency)
 
     @property
-    def code_law_violation(self):
-        return self.strize(self._code_law_violation)
+    def code_law_violations(self):
+        return self.strize(self._code_law_violations)
 
     @property
-    def country_of_violation(self):
-        return self.strize(self._country_of_violation)
+    def country_of_violations(self):
+        return self.strize(self._country_of_violations)
 
     @property
     def decision_date(self):
@@ -154,8 +154,8 @@ class LegalDoc:
         return self.strize(self._sentence)
 
     @property
-    def violation_date(self):
-        return self.strize(self._violation_date)
+    def violations_date(self):
+        return self.strize(self._violations_date)
 
     @property
     def _feature_dict(self):

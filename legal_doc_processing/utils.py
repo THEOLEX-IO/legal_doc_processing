@@ -21,11 +21,18 @@ from transformers import pipeline
 def cosine_similarity(y: str, pred: str) -> float:
     """eval accuracy based on cosine similarity of 2 list of answers """
 
-    ######
+    # check if args are OK
 
-    # CODE
+    # separer y et pred (string avec virgugles) en liste de string
 
-    ######
+    # poiur chaque candidat pred -> evaluer la cosine similarity
+
+    # prendre pour chaque pred le 1er ligne et oublier le 1er chiffre (cf matrice identité probkem)
+
+    # prendre le max de chaque lignes
+
+    # soit retour de la liste restante
+    # soit mean de cette list
 
     return -1.0
 

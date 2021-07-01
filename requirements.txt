@@ -19,6 +19,8 @@ word2vec~=0.11.1
 nltk==3.6.2
 spacy==3.0.6
 transformers==4.6.1
+scikit-learn
+
 
 # misc
 dateparser

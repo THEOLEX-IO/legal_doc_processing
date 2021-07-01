@@ -45,7 +45,7 @@ def cosine_similarity(y: str, pred: str) -> float:
 
 
     # poiur chaque candidat pred -> evaluer la cosine similarity
-    cos_y_pred_arrays = [cosine_similarity(i).toarray() for i in y_pred_list ]
+    cos_y_pred_arrays = [sub_cosine_similarity(i).toarray() for i in y_pred_list ]
 
 
     # prendre pour chaque pred le 1er ligne et oublier le 1er chiffre (cf matrice identité probkem)

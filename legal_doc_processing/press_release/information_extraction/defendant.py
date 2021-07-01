@@ -216,10 +216,9 @@ if __name__ == "__main__":
     df["pred_defendant"] = df.obj.apply(lambda i: i.predict("defendant"))
     t = time.time() - t
 
-    # # 1st one
-    # one = df.iloc[0, :]
-    # one_txt = one.txt
-    # one_ob = obj = self = one.obj
+    DF = pd.DataFrame(df)
+
+    df = pd.DataFrame(DF)
 
     # eval predict defendant performance
 
@@ -232,6 +231,13 @@ if __name__ == "__main__":
             print(e)
             return -1.0
 
+    df["pred_defendant"] = df.obj.apply(lambda i: i.feature_dict["defendant"])
+
     _zip = zip(df.defendant.values, df.pred_defendant.values)
     pred_performance = pd.Series([decore_cosine_similarity(i, j) for i, j in _zip])
     pred_performance.mean()
+
+    # # 1st one
+    # one = df.iloc[0, :]
+    # one_txt = one.txt
+    # one_ob = obj = self = one.obj

@@ -29,7 +29,7 @@ Respondent.
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I. INTRODUCTION
 
@@ -48,7 +48,7 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
-Exchange Act, Making Findings, and Imposing Remedial Sanctions (“Order”), and
+Exchange Act, Making Findings, and Imposing Remedial sanctions (“Order”), and
 acknowledges service of this Order.’
 
  
@@ -109,7 +109,7 @@ meet their obligations as registrants. See Revised Adjusted Net Capital Requirem
 Commission Merchants and Introducing Brokers [Final Rule], 74 Fed. Reg. 69279 (Dec. 31,
 2009). Marex Spectron failed to reflect a guarantee of an affiliate’s liability as a deduction in
 computing Marex Spectron’s adjusted net capital. Reflecting the amount of the guarantee would have
-resulted in Marex Spectron being undercapitalized and in violation of the minimum financial
+resulted in Marex Spectron being undercapitalized and in violations of the minimum financial
 requirements as set forth in the Act and Commission Regulations. Marex Spectron continued to
 operate as an IB while undercapitalized.
 
@@ -154,7 +154,7 @@ Marex Spectron’s adjusted net capital during the months when there were drawdo
 of credit, Marex Spectron would be deemed to have failed to meet its minimum capital
 requirement for thirty-six months during the Relevant Period.
 
-IV. FINDINGS OF VIOLATIONS
+IV. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period, Marex
 Spectron violated Section 4f(b) of the Commodity Exchange Act (“Act”), 7 U.S.C. § 6f(b)
@@ -169,7 +169,7 @@ A. Acknowledges service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C. Waives:
 1. The filing and service of a complaint and notice of hearing;

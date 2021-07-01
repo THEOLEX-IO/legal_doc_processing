@@ -20,7 +20,7 @@ ZOBEL, S.D.J.
 
 Defendant Randall Crater and all Relief Defendants' move to dismiss this case
 brought by plaintiff Commodity Future Trading Commission (“CFTC”). The amended
-complaint alleges a fraudulent “virtual currency scheme’ in violation of the Commodity
+complaint alleges a fraudulent “virtual currency scheme’ in violations of the Commodity
 Exchange Act (“CEA’” or “the Act”) and a CFTC implementing regulation banning fraud
 and/or manipulation in connection with the sale of a commodity. See 7 U.S.C. § 9(1);
 17 C.F.R. §180.1(a). Defendants’ principal argument is that CFTC fails to state a claim
@@ -429,7 +429,7 @@ D. Whether the Amended Complaint Fails to Support its
 Misappropriation Theory
 
 Finally, though the amended complaint references misappropriation, the relevant
-count is “fraud by deceptive device or contrivance” in violation of Section 6(c)(1) and
+count is “fraud by deceptive device or contrivance” in violations of Section 6(c)(1) and
 Regulation 180.1(a). The amended complaint sets forth in detail the allegations
 supporting this charge. As such, any failure to allege that defendants had an obligation
 to use customer funds in a certain way has no bearing on whether plaintiff has

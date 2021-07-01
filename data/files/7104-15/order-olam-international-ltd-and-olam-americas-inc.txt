@@ -31,7 +31,7 @@ Respondents.
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, AS AMENDED,
-MAKING FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+MAKING FINDINGS AND IMPOSING REMEDIAL sanctions
 
 I.
 
@@ -53,7 +53,7 @@ In anticipation of the institution of an administrative proceeding, Respondents 
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondents consent to
 the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
-Commodity Exchange Act, as Amended, Making Findings and Imposing Remedial Sanctions
+Commodity Exchange Act, as Amended, Making Findings and Imposing Remedial sanctions
 (“Order”) and acknowledge service of this Order.
 
  
@@ -148,7 +148,7 @@ cocoa futures positions and submitted a revised Form 40 to the Commission disclo
 were trading cocoa futures as a single global unit. Subsequently, on August 15, 2014, their
 ageregated cocoa futures positions exceeded the 1,000-contract spot month position limit for
 cocoa futures contracts traded on IFUS in the September 2014 contract by 24 contracts, Olam
-Americas self-reported this violation to IFUS and reduced their position to within position limits
+Americas self-reported this violations to IFUS and reduced their position to within position limits
 on the following trading day.
 
 IV.
@@ -183,7 +183,7 @@ held by two (2) or more Persons acting pursuant to an express or implied agreeme
 understanding, the same as if all of the positions were held by a single Person.”
 
 The Commission does not need to establish scienter —i.e., proof of intent to exceed the
-applicable position limit — in order to prove a violation of Section 4a(e) of the Act. See Saberi v.
+applicable position limit — in order to prove a violations of Section 4a(e) of the Act. See Saberi v.
 CFTC, 488 F.3d 1207, 1212 (9th Cir. 2007); CFTC vy, Hunt, 591 F.2d 1211, 1218 (7th Cir,
 1979). Instead, the plain language of Section 4a(e) of the Act “unambiguously imposes liability
 for violations of contract market position limit rules” such as IFUS Rule 6.17. Saberi, 488 F.3d
@@ -226,7 +226,7 @@ controlled on Olam International’s 2010 and 2012 Form 40s and on Olam Americas
 40, Respondents violated Section 4i of the Act and Regulation 18.04.
 
 Vv.
-FINDINGS OF VIOLATION
+FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that Respondents violated Sections 4a(e),
 4c(a), and 41 of the Act, 7 U.S.C. §§ 6a(e), 6c(a), and 61 (2012), and Regulations 1.38(a) and
@@ -242,7 +242,7 @@ A. Acknowledge receipt of service of this Order;
 
 B. Admit the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C, Waive:
 1, the filing and service of a complaint and notice of hearing;

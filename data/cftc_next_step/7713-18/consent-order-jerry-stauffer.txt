@@ -143,13 +143,13 @@ Regulations promulgated thereunder.
 
 17. Defendant Jerry Stauffer is an individual who resided in Traverse City, Michigan.
 On February 1, 2016, Stauffer was found guilty in a parallel criminal matter of wire fraud in
-violation of 18 U.S.C. § 1343 (2008), and money laundering in violation of 18 U.S.C. § 1957
+violations of 18 U.S.C. § 1343 (2008), and money laundering in violations of 18 U.S.C. § 1957
 (2012). Stauffer was sentenced to one hundred and twenty (120) months in prison and is
 currently serving his sentence at the Federal Correctional Institution in Oxford, Wisconsin. The
-sximinal court found that Defendant’s offenses involved a violation of commodities law, and
+sximinal court found that Defendant’s offenses involved a violations of commodities law, and
 applied a four-level enhancement to his base offense level at sentencing for that conduct.’ In
 addition, based upon evidence submitted at sentencing, the criminal court found that Stauffer had
-intentionally deleted files from his hard drive in violation of this Court’s SRO entered on
+intentionally deleted files from his hard drive in violations of this Court’s SRO entered on
 February 25, 2015, and applied a two-level obstruction of justice adjustment to Defendant's total
 offense level for that conduct. At the time of his sentencing on June 14, 2016, Stauffer was
 sixty-eight (68) years old. The criminal court also ordered that Stauffer pay restitution to the
@@ -275,7 +275,7 @@ Jurisdiction and Venue
 
 31. This Court has jurisdiction over this action pursuant to Section 6c of the Act,
 which provides that whenever it shall appear to the Commission that any person has engaged, is
-engaging, or is about to engage in any act or practice constituting a violation of any provision of
+engaging, or is about to engage in any act or practice constituting a violations of any provision of
 the Act or any rule, regulation, or order promulgated thereunder, the Commission may bring an
 action in the proper district court of the United States against such person to enjoin such act or
 
@@ -283,7 +283,7 @@ practice, or to enforce compliance with the Act, or any rule, regulation or orde
 2o2a9§ASe 1:15~¢¢¥-00201-PLM ECF No. 61 filed 02/13/18 FRQHRAS0,, Fags 10 of 19,,
 
 32. Venue properly lies with this Court pursuant to Section 6c(e) of the Act, because
-the Defendant resided in this jurisdiction and the acts and practices in violation of the Act
+the Defendant resided in this jurisdiction and the acts and practices in violations of the Act
 occurred within this District.
 
 Fraud by Misrepresentations and Omissions, False Account Statements, and
@@ -294,7 +294,7 @@ defrauded, or attempted to cheat and defraud, and willfully deceived, or attempt
 pool participants by, among other things, knowingly or recklessly misappropriating pool
 participants’ funds, making material fraudulent statements to existing and prospective pool
 participants about Defendant’s forex trading and profitability, and issuing false account
-statements to pool participants in violation of Sections 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. §§
+statements to pool participants in violations of Sections 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. §§
 6b(a)(2)(A)-(C) (2012), and Regulation 5.2(b), 17 C.F.R. 5.2(b) (2014).
 
 Fraud by A Commodity Pool Operator
@@ -325,7 +325,7 @@ the use of the mails or other means or instrumentalities of interstate commerce 
 through the use of telephone calls and electronic mail with pool participants) misappropriated
 pool participants’ funds, made material fraudulent statements and omissions to existing and
 prospective pool participants about Defendant’s forex trading and profitability, and issued false
-account statements to pool participants in violation of Sections 40(1) of the Act, 7 U.S.C. § 60(1)
+account statements to pool participants in violations of Sections 40(1) of the Act, 7 U.S.C. § 60(1)
 
 “(2012).
 
@@ -334,12 +334,12 @@ Prohibited Activities of A Commodity Pool Operator
 37. By the conduct described in paragraphs 1 through 30 above, Defendant failed to
 operate the forex pool as a separate legal entity from himself, received pool participant funds in
 his own name rather than in the name of the pool, and commingled pool participant funds with
-his own funds, in violation of Regulation 4.20(a)-(c), 17 C.F.R. §§ 4.20(a)-(c) (2014).
+his own funds, in violations of Regulation 4.20(a)-(c), 17 C.F.R. §§ 4.20(a)-(c) (2014).
 
 38. Unless restrained and enjoined by this Court, there is a reasonable likelihood that
 Defendant will continue to engage in the acts and practices alleged in the Complaint and in
 
-similar acts and practices in violation of the Act and Regulations.
+similar acts and practices in violations of the Act and Regulations.
 
 IV. PERMANENT INJUNCTION
 IT IS HEREBY ORDERED THAT:
@@ -362,7 +362,7 @@ or to be made, for or on behalf of, or with, any other person, including but not
 misappropriating pool participant funds, making material fraudulent statements and
 omissions to existing and prospective pool participants about Defendant's forex trading
 and profitability, and issuing false account statements to pool participants, as set forth in
-paragraphs 18-30, in violation of Section 40(@)(2)(A)-(C) of the Act, 7 U.S.C. §§
+paragraphs 18-30, in violations of Section 40(@)(2)(A)-(C) of the Act, 7 U.S.C. §§
 6b(a)(2)(A)-(C) (2012), and Regulation 5.2(b), 17 C.F.R. § 5.2(b) (2017);
 b. : using the mails or any means or instrumentality of interstate commerce, directly
 or indirectly to employ any device, scheme, or artifice to defraud any pool participant or
@@ -371,7 +371,7 @@ business which operates as a fraud or deceit upon any pool participant or prospe
 participant, including but not limited to, misappropriating pool participant funds, making
 material fraudulent statements and omissions to existing and prospective pool participants
 about Defendant’s forex trading and profitability, and issuing false account statements to
-pool participants, as set forth in paragraphs 18-30, in violation of Section 40(1) of the
+pool participants, as set forth in paragraphs 18-30, in violations of Section 40(1) of the
 Act, 7 U.S.C. § 60(1) (2012); and
 c, while acting as a CPO, failing to operate a commodity poo) as an entity that is
 cognizable as a legal entity separate from that of the pool operator, accepting funds from
@@ -379,7 +379,7 @@ pool participants in the CPO's name and not in the name of the pool, and comming
 pool participant funds with the funds of the CPO or any other person, including but not
 limited to, having pool participants make checks out to “Jerry Stauffer”, the CPO, and
 depositing those checks into his personal bank accounts, as set forth in paragraph 20, in
-violation of Regulation 4.20(a)-(c), 17 C.F.R. §§ 4.20(a)-(c) (2017).
+violations of Regulation 4.20(a)-(c), 17 C.F.R. §§ 4.20(a)-(c) (2017).
 
 12
 Case 1:15-cv-00201-PLM ECF No. 61 filed 02/13/18 PagelD.463 Page 13 of 19
@@ -509,7 +509,7 @@ B. Civil Monetary Penalty
 
 46. Defendant's violations of the Act and Regulations merit a civil monetary penalty.
 However, this Court recognizes that in the related criminal matter: 1) the criminal court found
-that Defendant’s offenses involved a violation of commodities law, and applied a four-level
+that Defendant’s offenses involved a violations of commodities law, and applied a four-level
 enhancement to his base offense level at sentencing for that conduct; 2) the criminal court
 applied a two-level obstruction of justice adjustment to Defendant's total offense level based on
 Defendant’s destruction of evidence in the Commission’s case; 3) the criminal court’s order for

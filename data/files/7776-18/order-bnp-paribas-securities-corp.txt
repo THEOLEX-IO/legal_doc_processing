@@ -29,7 +29,7 @@ Nee ee ee ee” ee” ee” NL”
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I.
 
@@ -47,7 +47,7 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying the findings or conclusions herein, Respondent consents to the
 entry and acknowledges service of this Order Instituting Proceedings Pursuant to Sections 6(c)
-and 6(d) of the Commodity Exchange Act, Making Findings, and Imposing Remedial Sanctions
+and 6(d) of the Commodity Exchange Act, Making Findings, and Imposing Remedial sanctions
 (“Order’’).
 
  
@@ -691,7 +691,7 @@ rules of any registered entity, . . . or otherwise is violating or has
 violated any of the provisions of [the] Act.
 
 For conduct occurring on or after August 15, 2011, the Commission is authorized to serve
-a complaint and impose penalties and orders with regard to attempted manipulation in violation
+a complaint and impose penalties and orders with regard to attempted manipulation in violations
 of the broader amended provisions of Section 6(c)(1) and 6(c)(3) of the Act and the Regulations
 implementing those provisions. See CEA §§ 6(c)(4)(A), 6(d).
 
@@ -758,7 +758,7 @@ The BNPP traders’ bids, offers, and executed trades in the moments leading int
 a.m., which were intended to manipulate USD ISDAFIX, as well as the traders’ communications
 with each other and with their Swaps Broker brokers to plan and execute this trading conduct,
 constituted overt acts in furtherance of their intent to manipulate USD ISDAFIX. By doing so,
-the BNPP traders engaged in acts of attempted manipulation in violation of Section 9(a)(2) of the
+the BNPP traders engaged in acts of attempted manipulation in violations of Section 9(a)(2) of the
 Act, 7 U.S.C. § 13(a)(2) (2012); Sections 6(c) and 6(d) of the Act, 7 U.S.C. §§ 9, 13b (2006), for
 conduct occurring before August 15, 2011; and Sections 6(c)(1), 6(c)(3), and 6(d) of the Act, and
 Regulations 180.1(a) and 180.2, for conduct occurring on or after August 15, 2011.
@@ -787,13 +787,13 @@ tenors.
 The BNPP traders’ oral and written requests for certain rates to be submitted that would
 benefit their trading positions, and the submissions resulting from those requests, constituted
 overt acts in furtherance of the traders’ intent to affect USD ISDAFIX. By doing so, BNPP
-traders engaged in acts of attempted manipulation in violation of Section 9(a)(2) of the Act,
+traders engaged in acts of attempted manipulation in violations of Section 9(a)(2) of the Act,
 
 7 U.S.C. §13(a)(2) (2012), and Sections 6(c) and 6(d) of the Act, 7 U.S.C. §§ 9, 13b (2006), for
 conduct occurring before August 15, 2011.
 
 C. Respondent Made False, Misleading, or Knowingly Inaccurate Reports
-Concerning USD ISDAFIX in Violation of Section 9(a)(2) of the Act
+Concerning USD ISDAFIX in violations of Section 9(a)(2) of the Act
 
 In addition to the prohibition on attempted manipulation contained in Section 9(a)(2) of
 the Act, that provision also makes it unlawful for any person “knowingly to deliver or cause to
@@ -802,7 +802,7 @@ wireless, or other means of communication false or misleading or knowingly inacc
 concerning crop or market information or conditions that affect or tend to affect the price of any
 commodity in interstate commerce.” CEA § 13(a)(2); see also United States v. Brooks, 681 F.3d
 678, 703-05 (Sth Cir. 2012) (affirming the district court’s conviction of defendants for false
-reporting of natural gas trades in violation of the Act and finding that “it is “clear beyond a
+reporting of natural gas trades in violations of the Act and finding that “it is “clear beyond a
 reasonable doubt that a rational jury’ would have found that the Defendants-Appellants had
 knowledge that their reports affected or tended to affect the price of natural gas’); United States
 v. Valencia, 394 F.3d 352, 354-57 (Sth Cir. 2004) (reversing and remanding to the district court
@@ -864,7 +864,7 @@ before August 15, 2011; and Sections 6(c)(1), 6(c)(3) and 6(d) of the Act, 7 U.S
 conduct occurring on or after August 15, 2011.
 
 V.
-FINDINGS OF VIOLATIONS
+FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that Respondent violated Section 9(a)(2)
 of the Act, 7 U.S.C. § 13(a)(2) (2012); Sections 6(c) and 6(d) of the Act, 7 U.S.C. §§ 9, 13b
@@ -888,7 +888,7 @@ Acknowledges service of this Order;
 
 Admits the jurisdiction of the Commission with respect to this Order only and for
 any action or proceeding brought or authorized by the Commission based on
-violation of or enforcement of this Order;
+violations of or enforcement of this Order;
 
 Waives:
 
@@ -1312,7 +1312,7 @@ its sole discretion, revisit its advice that disqualification should not arise. 
 
 Rule 506(d)(1)(iii)(B) disqualifies an issuer from relying on the private offering exemptions provided for in Rule
 506 if they or certain related parties are “subject to a final order of . . . [inter alia] the U.S. Commodity Futures
-Trading Commission . . . that: . . . [c]onstitutes a final order based on a violation of any law or regulation that
+Trading Commission . . . that: . . . [c]onstitutes a final order based on a violations of any law or regulation that
 prohibits fraudulent, manipulative, or deceptive conduct.” Rule 506(d)(2)(iii), however, provides that
 disqualification “shall not apply” if the CFTC “advises in writing” that disqualification under Rule 506(d)(1)
 “should not arise as a consequence of such order.” See also SEC, Exemptions to Facilitate Intrastate and Regional
@@ -1328,8 +1328,8 @@ D. See SEC, Div. of Corp. Fin., Waivers of Disqualification Under Regulation A a
 Regulation D, https://www.sec.gov/divisions/corpfin/guidance/disqualification-waivers.shtml; SEC, Div. of Corp.
 Fin., Rule 504 of Regulation D: A Small Entity Compliance Guide for Issuers,
 https://www.sec.gov/divisions/corpfin/guidance/rule504-issuer-small-entity-compliance.html. The SEC considers
-the following primary factors in determining whether to grant a waiver request: (i) the nature of the violation and
-whether it involved the offer or sale of securities; (ii) whether the violation required scienter; (ii) who was
+the following primary factors in determining whether to grant a waiver request: (i) the nature of the violations and
+whether it involved the offer or sale of securities; (ii) whether the violations required scienter; (ii) who was
 responsible for the misconduct; (iv) what was the duration of the misconduct; (v) what remedial steps have been
 taken; and (vi) the impact on the party seeking a waiver and third parties if a waiver is denied. Respondent’s
 Request Letter addressed these factors in the context of this Order.

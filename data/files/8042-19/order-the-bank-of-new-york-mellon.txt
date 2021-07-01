@@ -27,7 +27,7 @@ Respondent.
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT,
-MAKING FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+MAKING FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I, INTRODUCTION
 
@@ -45,7 +45,7 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Act,
-Making Findings, and Imposing Remedial Sanctions (“Order”), and acknowledges service of this
+Making Findings, and Imposing Remedial sanctions (“Order”), and acknowledges service of this
 Order.
 
  
@@ -85,7 +85,7 @@ Spot Foreign Exchange (“FX”), Deliverable FX Swaps and Forwards, and Interes
 
 C. FACTS
 
-1. FX Swap Reporting Violations
+1. FX Swap Reporting violations
 
 From December 31, 2012, through July 2, 2018, BNYM failed to correctly report tens of
 thousands of FX swaps. FX swaps do not have a unique product identifier so each leg of the FX
@@ -97,13 +97,13 @@ that these two legs were in fact a single swap transaction. Both types of errors
 making it impossible for a person contemporaneously reviewing BNYM’s reports to determine
 that BNYM had, in fact, entered into these 184,000 FX swap transactions.
 
-2. Interaffiliate Swap Reporting Violations
+2. Interaffiliate Swap Reporting violations
 
 From early 2013 through March 2016, nine BNYM affiliates were incorrectly classified
 as intrabank accounts rather than separate legal entities. As a result, tens of thousands of
 transactions with these nine affiliates that should have been reported to an SDR were not
 reported.
-3. Swap Reporting Violations Involving Bunched Trades
+3. Swap Reporting violations Involving Bunched Trades
 
 Throughout the Relevant Period, BNYM has entered into FX transactions with
 investment managers acting as agents for one or more principals (“Bunched Trades”). After a
@@ -169,9 +169,9 @@ Rosenthal & Co. v. CFTC, 802 F.2d 963, 966 (7th Cir. 1986).
 The foregoing acts, omissions, and failures of BNYM’s employees occurred within the
 scope of their employment, office, or agency with BNYM; therefore, pursuant to Section
 2(a)(1)(B) of the Act, and Regulation 1.2, BNYM is liable for those acts, omissions, and failures
-in violation of the Act and Regulations.
+in violations of the Act and Regulations.
 
-IV. FINDINGS OF VIOLATIONS
+IV. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that Respondent violated Sections
 2(a)(13)(G) and 4r(a)(3) of the Act, 7 U.S.C. § 2(a)(13)(G), 6r(a)(3) (2012), and Regulations
@@ -185,7 +185,7 @@ findings and conclusions herein:
 A. Acknowledges receipt of service of this Order;
 
 B. Admits the jurisdiction of the Commission to all the matters set forth in this Order and for
-any action or proceeding brought or authorized by the Commission based on a violation
+any action or proceeding brought or authorized by the Commission based on a violations
 of or enforcement of this Order;
 
 C. Waives:

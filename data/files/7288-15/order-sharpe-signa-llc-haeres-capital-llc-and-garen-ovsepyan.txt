@@ -40,7 +40,7 @@ Respondents,
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS AND IMPOSING REMEDIAL sanctions
 
 I.
 
@@ -63,7 +63,7 @@ In anticipation of the institution of an administrative proceeding, Respondents 
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondents consent to
 the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
-Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions (“Order”) and
+Commodity Exchange Act, Making Findings and Imposing Remedial sanctions (“Order”) and
 acknowledge service of this Order,'
 
  
@@ -287,14 +287,14 @@ knew or reasonably should have known, the statement to be false or misleading.�
 added),
 
 During the Relevant Period, Ovsepyan filed a false or misleading NOE with the CFTC on
-behalf of Sharpe on August 28, 2012, in violation of Section 6(c)(2) of the Act, 7 U.S.C. § 9(2)
+behalf of Sharpe on August 28, 2012, in violations of Section 6(c)(2) of the Act, 7 U.S.C. § 9(2)
 (2012). Ovsepyan affirmed such false or misleading NOE with the CFTC on December 3, 2012,
 and again on January 3, 2014. At all relevant times, Ovsepyan knew or reasonably should have
 known that Sharpe did not qualify for such CTA exemption because Sharpe clearly did not meet
 any of the exemption criteria as represented in the NOE filing.
 
 Additionally, during the Relevant Period, Ovsepyan filed a false or misleading NOE with
-the CFTC on behalf of Haeres on April 4, 2013 in violation of Section 6(c)(2) of the Act,
+the CFTC on behalf of Haeres on April 4, 2013 in violations of Section 6(c)(2) of the Act,
 7 U.S.C, § 9(2) (2012). Ovsepyan affirmed such false or misleading NOE with the CFTC on
 January 3, 2014. Subsequently, Ovsepyan filed a second false or misleading NOE with the
 CFTC on behalf of Haeres on September 9, 2014. At all relevant times, Ovsepyan knew or
@@ -302,19 +302,19 @@ reasonably should have known that Haeres did not qualify for such CTA exemption 
 Haeres clearly did not meet any of the exemption criteria as represented in both NOE filings. By
 this conduct, Ovsepyan violated Section 6(c)(2) of the Act, 7 U.S.C. § 9(2) (2012). See
 generally, Inre Sean R. Stropp, CFTC Docket No. 14-09, 2014 WL 1117260 (CFTC March 18,
-2014) (consent order finding violation of Section 6(c)(2) for falsifying a financial disclosure
+2014) (consent order finding violations of Section 6(c)(2) for falsifying a financial disclosure
 statement provided to the CFTC in connection with an investigation into potentially unlawful
 off-exchange precious metals contracts); In re Artem Obolensky, CFTC Docket No. 14-05
-(CFTC January 2, 2014) (consent order finding violation of Section 6(c)(2) for knowingly
+(CFTC January 2, 2014) (consent order finding violations of Section 6(c)(2) for knowingly
 making materially false and misleading statements to Commission staff during an interview
 questioning certain non-competitive and pre-arranged trades); Jn re Susan Butterfield, CFTC
-Docket No. 13-33 (CFTC September 16, 2013) (consent order finding Section 6(c)(2) violation
+Docket No. 13-33 (CFTC September 16, 2013) (consent order finding Section 6(c)(2) violations
 for making material false statements to the CFTC during investigative testimony); /n re Cohen
 and Pure Reason LLC, CFTC Docket No, 15-39 (CFTC Sept. 29, 2015) (consent order finding
-violation of Section 6(c)(2) for falsely testifying under oath that respondent was authorized to
+violations of Section 6(c)(2) for falsely testifying under oath that respondent was authorized to
 trade and traded an account that she never in fact traded or had any authority to trade); Jn re Scott
 A, Beatty, CFTC Docket No. 14-34, 2014 WL 4965119 (CFTC Sept. 30, 2014) (consent order
-finding violation of Section 6(c)(2) for making false statements to the CFTC in email responses
+finding violations of Section 6(c)(2) for making false statements to the CFTC in email responses
 to an investigative subpoena); and CFTC vy. Arista et al., 2013 WL 6978529 (S.D.N.Y.
 December 3, 2013) (consent order finding Defendants liable for violating Section 6(c)(2)
 because they misrepresented certain account balances, asset values, and fee calculations in a
@@ -322,7 +322,7 @@ letter sent in response to requests for information from the CFTC’s Division o
 
  
 Cc, Ovsepyan Made Material Misrepresentations and Omissions Regarding Sharpe, in
-violation of Section 4b(a) of the Act
+violations of Section 4b(a) of the Act
 
 Section 4b(a)(2) of the Act, 7 U.S.C. § 4b(a)(2)(A) (2012), makes it unlawful for any
 person: (A) to cheat or defraud or attempt to cheat or defraud another person; or (C) willfully to
@@ -441,11 +441,11 @@ acting as a CTA to employ a device, scheme or artifice to defraud its clients, a
 transaction, practice or course of business which operated as a fraud upon its clients, by, among
 other things: emailing or sending written communications containing fraudulent
 misrepresentations and omissions of material facts to Sharpe clients and prospective clients, in
-violation of Section 40(1)(A) and (B) of the Act, 7 U.S.C. §§ 60(1 (A) and (B). Because
+violations of Section 40(1)(A) and (B) of the Act, 7 U.S.C. §§ 60(1 (A) and (B). Because
 Ovsepyan’s and Sharpe’s fraudulent conduct violates Section 4b of the Act, by those same acts,
 Sharpe violated Section 40(1)(A) and (B) of the Act. Jn re Slusser, [1998-1999 Transfer Binder]
 Comm. Fut. L. Rep. (CCH) § 27,701 at 48,315 (CFTC July 19, 1999) (“Where the record
-establishes that the respondents engaged in fraudulent conduct in violation of section 4b the
+establishes that the respondents engaged in fraudulent conduct in violations of section 4b the
 Division has ... surpassed its burden of proof with respect to section 40.”).
 
 E. Derivative Liability
@@ -457,11 +457,11 @@ Sharpe’s and Haeres’s violations of the Act pursuant to Section 13(b) of the
 
 Any person who, directly or indirectly, controls any person who has violated any
 provision of this Act or any of the rules, regulations, or orders issued pursuant to
-this Act may be held liable for such violation in any action brought by the
+this Act may be held liable for such violations in any action brought by the
 Commission to the same extent as such controlled person. In such action, the
 Commission has the burden of proving that the controlling person did not act in
 good faith or knowingly induced, directly or indirectly, the act or acts constituting
-the violation.
+the violations.
 
 A “fundamental purpose” of the statute is “to reach behind the corporate entity to the
 controlling individuals of the corporation and to impose liability for violations of the Act directly
@@ -471,7 +471,7 @@ controlling individuals of the corporation and to impose liability for violation
 (quoting JCC, Inc. v. CFTC, 63 F.3d 1557, 1567 (11th Cir. 1995) (internal quotation marks and
 citation omitted)). To establish controlling person liability under Section 13(b) of the Act, the
 Commission must show: (1) control; and (2) lack of good faith or knowing inducement of the
-acts constituting the violation. /n re First Nat’l Trading Corp., [1992-1994 Transfer Binder]
+acts constituting the violations. /n re First Nat’l Trading Corp., [1992-1994 Transfer Binder]
 Comm, Fut. L. Rep. (CCH) § 26,142, at 41,787 (CFTC July 20, 1994), aff'd without opinion sub
 nom. Pick vy. CFTC, 99 F.3d 1139 (6th Cir, 1996),
 
@@ -492,7 +492,7 @@ and Haeres’s investment strategy, compliance, legal, banking activity, trading
 operational issues. Ovsepyan also oversees the Sharpe Risk Committee that is in charge of all
 supervision and accountability of risk management.
 
-To establish “knowing inducement” of the acts constituting the violation, the
+To establish “knowing inducement” of the acts constituting the violations, the
 Commission must show that “the controlling person had actual or constructive knowledge of the
 core activities that constitute the violations at issue and allowed them to continue.” JCC, Inc., 63
 F.3d at 1568 (quoting /n re Spiegel, [1987-1990 Transfer Binder] Comm. Fut. L. Rep. (CCH)
@@ -538,7 +538,7 @@ liable for Ovsepyan’s individual acts constituting violations of Section 6(c)(
 § 2(a)(1)(B), and Regulation 1.2, 17 C.F.R. § 1.2 (2014).
 
 Vv,
-FINDINGS OF VIOLATION
+FINDINGS OF violations
 Based on the foregoing, the Commission finds that, during the Relevant Period, Sharpe
 and Ovsepyan violated Sections 2(c)(2)(C)(iti)(D(bb), 4b(a)(2)(A) and (C), 40(1)(A) and (B),
 and 6(c)(2) of the Act, 7 U.S.C. §§ 2(c)(2)(C)Gii)(1)(bb), 6b(a)(2)(A) and (C), 60(1)(A) and (B),
@@ -556,7 +556,7 @@ A. Acknowledge receipt of service of this Order;
 
 B, Admit the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
  
 

@@ -1,9 +1,9 @@
 Release Number 8218-20
 
 CFTC Orders Interactive Brokers LLC to Pay More Than $12 Million for Anti-Money
-Laundering and Supervision Violations
+Laundering and Supervision violations
 
-First Case to Charge Violations of CFTC’s Bank Secrecy Act Compliance Regulations
+First Case to Charge violations of CFTC’s Bank Secrecy Act Compliance Regulations
 
 August 10, 2020
 
@@ -12,7 +12,7 @@ against Interactive Brokers LLC, a registered futures commission merchant (FCM),
 officers’, employees’, and agents’ handling of several commodity trading accounts and failing to adequately implement
 procedures to detect and report suspicious transactions as required under federal anti-money laundering (AML) laws and
 regulations. Brought in connection with the Division of Enforcement’s Bank Secrecy Act Task Force, this case marks the
-first CFTC enforcement action charging a violation of Regulation 42.2, which requires registrants to comply with the Bank
+first CFTC enforcement action charging a violations of Regulation 42.2, which requires registrants to comply with the Bank
 Secrecy Act.
 
 The order requires Interactive Brokers to pay a civil monetary penalty of $11.5 million and disgorge $706,214 earned in
@@ -26,7 +26,7 @@ review and report on the AML and supervisory issues raised in the order.
 “Our regulatory regime requires certain intermediaries to monitor and report suspicious activity. These suspicious activity
 reports—or SARs—serve as key tools that we, together with our regulatory partners, use to identify fraud, manipulation,
 and other wrongdoing in our markets—often at the earliest stages,” said CFTC Director of Enforcement James McDonald.
-“This case marks the first time the CFTC has charged a violation of Regulation 42.2 and shows our commitment to
+“This case marks the first time the CFTC has charged a violations of Regulation 42.2 and shows our commitment to
 ensuring these requirements are met.”
 
 According to the order, from June 2014 through November 2018, Interactive Brokers failed to ensure that its employees

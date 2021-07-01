@@ -22,7 +22,7 @@ Respondent. )
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I. INTRODUCTION
 
@@ -43,7 +43,7 @@ admitting or denying any of the findings or conclusions herein, except to the ex
 admits those findings in any related action against Vitol by, or any agreement with, the United
 States Department of Justice (“DOJ”) or any other governmental agency or offices, Vitol
 consents to the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the
-Commodity Exchange Act, Making Findings, and Imposing Remedial Sanctions (“Order”) and
+Commodity Exchange Act, Making Findings, and Imposing Remedial sanctions (“Order”) and
 acknowledges service of this Order.'
 
  
@@ -360,7 +360,7 @@ MOCs.
 
 Il. LEGAL DISCUSSION
 
-A. Manipulative or Deceptive Device or Contrivance in Violation of
+A. Manipulative or Deceptive Device or Contrivance in violations of
 Section 6(c)(1) of the Act and Regulation 180.1
 
 Section 6(c)(1) of the Act, 7 U.S.C. § 9 (2018), and Regulation 180.1, 17 C.F.R. § 180.1
@@ -386,7 +386,7 @@ Monex Credit Co., 931 F.3d. 966, 976-77 (9th Cir. 2019) (holding, in the context
 transactions, “the CFTC may sue for fraudulently deceptive activity regardless of whether it was
 also manipulative.”’).
 
-To establish fraud or manipulation in violation of Section 6(c)(1) of the Act and
+To establish fraud or manipulation in violations of Section 6(c)(1) of the Act and
 Regulation 180.1(a)(1)-(3), the Commission must establish that Respondent: (1) attempted to
 engage or engaged in prohibited fraudulent or manipulative conduct (i.e., employed a
 manipulative device, scheme, or artifice to defraud; made a material misrepresentation,
@@ -403,7 +403,7 @@ the showing of an intent to affect prices or an actual effect on prices. E.g., M
 2018) (consent order) (internal citations omitted). Nor does either require “‘a showing of reliance
 or harm to market participants in a government action brought under CEA section 6(c)(1) and
 final Rule 180.1.” McVean Trading, 2017 WL 2729956, at *10. The Commission “will consider
-all relevant facts and circumstances in determining whether a violation of Section 6(c)(1) and
+all relevant facts and circumstances in determining whether a violations of Section 6(c)(1) and
 Regulation 180.1 has occurred.” /d. (internal quotation omitted).
 
 Vitol violated Section 6(c)(1) of the Act and Regulation 180.1, among other ways, by
@@ -433,7 +433,7 @@ favor” to benefit related positions).
 intentional or reckless trading on basis of, and tipping of, material nonpublic information in breach of a pre-existing
 duty to source stated claim under Section 6(c)(1) of the Act and Regulation 180.1); see also United States v.
 Blaszczak, 947 F.3d 19, 30-37 (2d Cir. 2019) (holding misappropriation of confidential nonpublic information
-constituted fraud in violation of various federal fraud statutes) (citations omitted); SEC v. Obus, 693 F. 3d 276, 286—
+constituted fraud in violations of various federal fraud statutes) (citations omitted); SEC v. Obus, 693 F. 3d 276, 286—
 89 (2d Cir. 2012) (addressing tipper and tippee liability in context of SEC Rule 10b—5) (citations omitted).
 
 8 In re Sogemin Metals Inc., CFTC No. 00-04, 2000 WL 136059, at *1—4 (Feb. 7, 2000) (consent order) (holding
@@ -456,10 +456,10 @@ Advisory, Inc. v. CFTC, 837 F.2d 847, 857-58 (9th Cir. 1988); CFTC v. Byrnes, 58
 Traders and employees of Vitol and its affiliates engaged in the conduct described herein
 within the scope of their employment or agency with Vitol. Therefore, pursuant to Section
 2(a)(1)(B) of the Act and Regulation 1.2, Vitol is liable for those acts, omissions, and failures in
-violation of the provisions of the Act and Regulations cited above. Accordingly, as set forth
+violations of the provisions of the Act and Regulations cited above. Accordingly, as set forth
 above, Respondent violated Section 6(c)(1) of the Act, and Regulation 180.1(a)(1)-(3).
 
-IV. FINDINGS OF VIOLATIONS
+IV. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that Respondent violated Section 6(c)(1)
 of the Act, 7 U.S.C. §§ 9(1) (2018), and Regulation 180.1, 17 C.F.R. § 180.1 (2020).
@@ -475,7 +475,7 @@ A. Acknowledges service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to all matters set forth in
 this Order and for any action or proceeding brought or authorized by the
-Commission based on violation of or enforcement of this Order;
+Commission based on violations of or enforcement of this Order;
 
 Cc. Waives:
 
@@ -486,10 +486,10 @@ Cc. Waives:
 1230-34 (D.C. Cir. 2010) (affirming finding of liability, where scheme to provide bribes and kickbacks—in
 exchange for being directed business, seeing competitors’ bids outside the normal competitive bidding process, and
 ability to submit bids outside the normal competitive bidding process, such as past due date—constituted “scheme to
-defraud” in violation of 15 U.S.C. §§ 10b, 17(a), and $.E.C. Rule 10b-5) (Kavanaugh, J.), abrogated on other
+defraud” in violations of 15 U.S.C. §§ 10b, 17(a), and $.E.C. Rule 10b-5) (Kavanaugh, J.), abrogated on other
 grounds; S.E.C. v. Zwick, 2007 WL 831812, at *16 (S.D.N.Y. 2007) (finding scheme to provide bribes, kickbacks,
 and items of value to a third party’s employee, in exchange for that employee directing trades to payer of bribe,
-constituted “scheme to defraud” in violation of Exchange Act §§ 17(a) and 10b, and $.E.C. Rule 10b-5), aff'd,
+constituted “scheme to defraud” in violations of Exchange Act §§ 17(a) and 10b, and $.E.C. Rule 10b-5), aff'd,
 S.E.C. v. Zwick, 317 Fed. Appx. 34 (2d Cir. 2008).
 
 10

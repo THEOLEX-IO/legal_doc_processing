@@ -7,7 +7,7 @@ code_law_violation,1,0,0,5,
 compliance_obligations,1,1,-1,0,"monitor, audit, divulgation"
 connaissance_client,1,0,0,0,
 contestation,1,0,0,0,
-cooperation_credit,1,1,-1,0,diminué les montant de la sanction
+cooperation_credit,1,1,-1,0,diminué les montant de la sanctions
 country_of_violation,1,1,0.5,5,
 criteres_entente,1,0,0,0,
 currency,1,1,0.5,5,

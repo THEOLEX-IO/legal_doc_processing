@@ -279,13 +279,13 @@ II. JURISDICTION AND VENUE
 11. The Court has jurisdiction of this action pursuant to 7 U.S.C. § 13a-1,
 which provides that, whenever it shall appear to the CFTC that any person has
 engaged in, is engaging in, or is about to engage in any act or practice that
-constitutes a violation of any provision of the Act or any rule, regulation, or order
+constitutes a violations of any provision of the Act or any rule, regulation, or order
 promulgated thereunder, the CFTC may bring an action against such person to
 enjoin such practice or to enforce compliance with the Act or Regulations.
 
 12. Venue properly lies with this Court pursuant to 7 U.S.C. § 13a-1(e),
 because Defendants are found in, inhabit, or transact business in this District, or
-the acts and practices in violation of the Act and Regulations occurred, are
+the acts and practices in violations of the Act and Regulations occurred, are
 occurring, or are about to occur within this District, among other places.
 
 Til. THE PARTIES
@@ -1694,12 +1694,12 @@ accounts and trading accounts.
 
 Case 2:16-cv-07358 Document1 Filed 09/30/16 Page 31 of 39 Page ID #:31
 
-VI. VIOLATIONS OF THE COMMODITY EXCHANGE ACT AND
+VI. violations OF THE COMMODITY EXCHANGE ACT AND
 CFTC REGULATIONS
 
 COUNT I
 
-VIOLATION OF 7 U.S.C. § 60(1) AND 17 C.F.R. § 4.41(a)(1)-(2):
+violations OF 7 U.S.C. § 60(1) AND 17 C.F.R. § 4.41(a)(1)-(2):
 FRAUD BY A COMMODITY TRADING ADVISOR
 
 62. Paragraphs 1-61 are realleged and incorporated herein by reference.
@@ -1762,7 +1762,7 @@ its employees and agents, including but not limited to Dufresne and Renkow, by
 using the mails or other means or instrumentalities of interstate commerce (1)
 employed devices, schemes, or artifices to defraud clients or prospective clients,
 and (ii) engaged in transactions, practices or courses of business which operated as
-a fraud or deceit upon clients or prospective clients, in violation of 7 U.S.C. §
+a fraud or deceit upon clients or prospective clients, in violations of 7 U.S.C. §
 60(1), by making material false and misleading statements, and omitting material
 information concerning: a) the professional experience and trading success of
 Dufresne; b) the profitability and performance record of SoT’s trading strategies
@@ -1812,7 +1812,7 @@ used to advertise UBS LLC’s and UBS Inc.’s products and services, these
 violations also constitute violations of 17 C.F.R. § 4.41(a)(1)-(2).
 
 69. Each fraudulent misrepresentation or omission made, including
-those specifically alleged herein, constitutes a separate and distinct violation of 7
+those specifically alleged herein, constitutes a separate and distinct violations of 7
 U.S.C. § 60(1) and 17 C.F.R. § 4.41(a)(1)-(2).
 
 70. The acts and omissions of Dufresne, Renkow, and other SoT
@@ -1862,7 +1862,7 @@ Case 2:16-cv-07358 Document1 Filed 09/30/16 Page 34 of 39 Page ID #:34
 LLC’s and UBS Inc.’s violations of 7 U.S.C. § 60(1) and 17 C.F.R. § 4.41(a)(1)-
 (2), alleged in this Complaint.
 COUNT II
-VIOLATION OF 17 C.F.R. §§ 4.41(a)(3) AND (b):
+violations OF 17 C.F.R. §§ 4.41(a)(3) AND (b):
 
 FAILURE TO PROMINENTLY DISPLAY IN SOLICITATION
 MATERIAL CERTAIN REQUIRED DISCLOSURE STATEMENTS
@@ -1917,7 +1917,7 @@ sessions as described in Paragraphs 58-60 above.
 77. Each failure to display prominently the required disclosure statements,
 including those specifically alleged herein, constitutes a separate and distinct
 
-violation of 17 C.F.R. §§ 4.41(a) (3) and (b).
+violations of 17 C.F.R. §§ 4.41(a) (3) and (b).
 
 35
 
@@ -1958,7 +1958,7 @@ Case 2:16-cv-07358 Document1 Filed 09/30/16 Page 36 of 39 Page ID #:36
 required disclosure statements, as described in this Complaint, was done within the
 scope of their office, employment, or agency with UBS LLC and UBS Inc.
 Therefore, UBS LLC and UBS Inc. are liable as a principal for each failure of
-Dufresne and Renkow constituting a violation of 17 C.F.R. § 4.41(a)(3) and (b),
+Dufresne and Renkow constituting a violations of 17 C.F.R. § 4.41(a)(3) and (b),
 pursuant to 7 U.S.C § 2(a)(1)(B), and 17 C.F.R. § 1.2.
 
 79. Dufresne and Renkow, directly or indirectly, controlled UBS LLC and
@@ -2082,7 +2082,7 @@ disgorge all benefits received, directly or indirectly, from acts or practices t
 23
 o4\|| Paya civil monetary penalty, plus post-judgment interest, in the amount of the
 
-25|| greater of $167,728 or triple Defendants’ monetary gain for each violation of the
+25|| greater of $167,728 or triple Defendants’ monetary gain for each violations of the
 26 Act or Regulations;
 27
 

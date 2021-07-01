@@ -277,7 +277,7 @@ B. Conclusions of Law
 31. This Court has jurisdiction over this action pursuant to 7 U.S.C. §§ 2(c)(2) and
 13a-1 (2012). 7 U.S.C. § 13a-1 provides that whenever it shall appear to the Commission that
 any person has engaged, is engaging, or is about to engage in any act or practice constituting a
-violation of any provision of the CEA or any rule, regulation, or order promulgated thereunder,
+violations of any provision of the CEA or any rule, regulation, or order promulgated thereunder,
 
 the Commission may bring an action in the proper district court of the United States against such
 
@@ -288,7 +288,7 @@ person to enjoin such act or practice, or to enforce compliance with the CEA, or
 regulation or order thereunder.
 
 32. Venue properly lies with this Court pursuant to 7 U.S.C. § 13a-1(e), because
-Tripode resides in this jurisdiction and the acts and practices in violation of the CEA occurred
+Tripode resides in this jurisdiction and the acts and practices in violations of the CEA occurred
 within this District.
 
 2. Fraud in Connection with Forex
@@ -420,7 +420,7 @@ not registered as an associated person of FMIF, Tripode violated 7 U.S.C. § 6k(
 
 47. Unless restrained and enjoined by this Court, there is a reasonable likelihood that
 Tripode will continue to engage in the acts and practices alleged in the Complaint and in similar
-acts and practices in violation of the CEA and Regulations.
+acts and practices in violations of the CEA and Regulations.
 
 IV. PERMANENT INJUNCTION
 
@@ -430,17 +430,17 @@ IT IS HEREBY ORDERED THAT:
 
 a. cheating or defrauding, or attempting to cheat or defraud, other persons in or in
 connection with any order to make, or the making of, any forex contract that is
-made, or to be made, for or on behalf of, or with, any other person in violation of
+made, or to be made, for or on behalf of, or with, any other person in violations of
 7 U.S.C. § 6b(a)(2)(A)-(C) and 17 C.F.R. § 5.2(b);
 
 b. employing any device, scheme, or artifice to defraud or engaging in any
 transaction, practice, or course of business which operates as a fraud or deceit
-upon any participant or prospective participant in a commodity pool in violation
+upon any participant or prospective participant in a commodity pool in violations
 of 7 U.S.C. § 60(1); and
 
 c. soliciting funds for or being associated with a commodity pool operator without
 
-being registered in violation of 7 U.S.C. § 6k(2) and 17 C.F.R. §§ 3.12 and
+being registered in violations of 7 U.S.C. § 6k(2) and 17 C.F.R. §§ 3.12 and
 
 5.3(a)(2)(ii).
 12
@@ -675,7 +675,7 @@ simultaneously transmit copies of the cover letter and the form of payment to th
 Officer, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street,
 NW, Washington, D.C. 20581.
 
-Cc. Provisions Related to Monetary Sanctions
+Cc. Provisions Related to Monetary sanctions
 
 62. Partial Satisfaction: Acceptance by the Commission or the Monitor of partial
 payment of Tripode’s Restitution Obligation or CMP Obligation shall not be deemed a waiver of

@@ -37,7 +37,7 @@ atl ee” ee, lanes See” ‘ee nel ‘sure
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, AS AMENDED,
-MAKING FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+MAKING FINDINGS AND IMPOSING REMEDIAL sanctions
 
 1
 
@@ -58,7 +58,7 @@ In anticipation of the institution of an administrative proceeding, Respondents 
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondents consent to
 the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
-Commodity Exchange Act, as Amended, Making Findings and Imposing Remedial Sanctions
+Commodity Exchange Act, as Amended, Making Findings and Imposing Remedial sanctions
 (“Order”) and acknowledge service of this Order. !
 
  
@@ -180,10 +180,10 @@ Cohen controlled Pure Reason and, as a controlling person, is liable for Pure Re
 violations of the Act and Regulations pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b),
 which provides that a person who, directly or indirectly, controls any person who has violated
 any provision of the Act or any rule, regulation or order issued pursuant to the Act may be held
-liable for such violation in any action brought by the Commission to the same extent as such
+liable for such violations in any action brought by the Commission to the same extent as such
 controlled person; the Commission has the burden of proving that the controlling person did not
 act in good faith or knowingly induced, directly or indirectly, the act or acts constituting the
-violation. See Monieson v. CFTC, 996 F.2d 852, 858 (7th Cir. 1993); CFTC vy. RL. Fitzgerald &
+violations. See Monieson v. CFTC, 996 F.2d 852, 858 (7th Cir. 1993); CFTC vy. RL. Fitzgerald &
 Co., 310 F.3d 1321, 1334 (11th Cir. 2002). A “fundamental purpose” of the statute is “to reach
 behind the corporate entity to the controlling individuals of the corporation and to impose
 liability for violations of the Act directly on such individuals as well as on the corporation itself.”
@@ -191,13 +191,13 @@ Id. (quoting JCC, Ine. v. CFTC, 63 F.3d 1557, 1567 (11th Cir. 1995)),
 
 To establish controlling person liability under Section 13(b) of the Act, 7 U.S.C,
 § 13c(b), the Commission must show (1) control; and (2) lack of good faith or knowing
-inducement of the acts constituting the violation. See In re First Nat’l Trading Corp., [1992-
+inducement of the acts constituting the violations. See In re First Nat’l Trading Corp., [1992-
 1994 Transfer Binder] Comm. Fut. L. Rep, (CCH) 4 26,142, at 41,787 (CFTC July 20, 1994),
 aff'd without opinion sub nom. Pick v. CFTC, 99 F.3d 1139 (6th Cir. 1996), To establish control,
 a defendant must possess general control over the operation of the entity principally liable. See
 RU. Fitzgerald, 310 F.3d at 1334. The Commission must show “that the defendant exercised
 general control over the operation of the entity principally liable and possessed the power or ability
-to control the specific transaction or activity upon which the primary violation was predicated, even
+to control the specific transaction or activity upon which the primary violations was predicated, even
 if such power was not exercised.” CFTC v. Int’l Fin. Services, Inc., 323 F, Supp. 2d 482, 504
 (S.D.N.Y, 2004) (quoting CFTC v, Baragosh, 278 F.3d 319, 330 (4th Cir.), cert. denied, 537 U.S.
 950 (2002)). Control is “the possession, direct or indirect, of the power to direct or cause the
@@ -214,10 +214,10 @@ Rep. (CCH) 4 24,103, at 34,767 (CFTC Jan. 12, 1988); see also Apache Trading Cor
 1992 Transfer Binder] Comm. Fut. L. Rep. (CCH) ¥ 25,251, at 38,795 (CFTC Mar. 11, 1992)
 (finding that an individual controls a corporation where he “directs the economic aspects of the
 firm’). In addition, Cohen was responsible for the content of Pure Reason’s website, and therefore
-possessed the power or ability to control the specific transaction or activity upon which the violation
+possessed the power or ability to control the specific transaction or activity upon which the violations
 of Regulation 4.41(b) was predicated.
 
-To establish the “knowing inducement” element of the controlling person violation, the
+To establish the “knowing inducement” element of the controlling person violations, the
 Commission must show that “the controlling person had actual or constructive knowledge of the
 core activities that constitute the violations at issue and allowed them to continue.” JCC, Inc. v.
 CFTC, 63 F.3d 1557, 1568 (11th Cir, 1995) (quoting In re Spiegel, [1987-1990 Transfer Binder]
@@ -227,12 +227,12 @@ maintaining Pure Reason’s website. Here, the website which Cohen controlled, h
 webinars which displayed trading results without any hypothetical disclaimer. Further, Cohen
 knew that these trading results were hypothetical and there was no disclaimer on the website or
 during the webinars. Accordingly, Cohen knowingly induced, directly or indirectly, the conduct
-that constitutes a violation of the Act. Consequently, pursuant to Section 13(b) of the Act,
+that constitutes a violations of the Act. Consequently, pursuant to Section 13(b) of the Act,
 
-7 U.S.C. § 13c(b), she is liable for Pure Reason’s violation of Regulation 4.41(b).
+7 U.S.C. § 13c(b), she is liable for Pure Reason’s violations of Regulation 4.41(b).
 
 V.
-FINDINGS OF VIOLATION
+FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, on October 22, 2014, Cohen violated
 Section 6(c)(2) of the Act, 7 U.S.C. § 9(2) (2012) and during the 2012-2013 period, Cohen
@@ -250,7 +250,7 @@ A. Acknowledge receipt of service of this Order;
 
 B. Admit the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C, Waive:
 

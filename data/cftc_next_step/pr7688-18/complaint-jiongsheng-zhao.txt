@@ -56,11 +56,11 @@ original jurisdiction over civil actions commenced by the United States or by an
 expressly authorized to sue by Act of Congress. Section 6c(a) of the Act, 7 U.S.C. § 13a-1(a)
 (2012), authorizes the Commission to seek injunctive relief in any proper district court of the
 United States against any person whenever it shall appear to the Commission that such person
-has engaged, is engaging, or is about to engage in any act or practice constituting a violation of
+has engaged, is engaging, or is about to engage in any act or practice constituting a violations of
 any provision of the Act or any rule, regulation or order thereunder.
 
 5. Venue properly lies with this Court pursuant to Section 6c(e) of the Act, because
-Zhao transacts business in the Northern District of Illinois, and the acts and practices in violation
+Zhao transacts business in the Northern District of Illinois, and the acts and practices in violations
 of the Act and Regulation have occurred within this District.
 
 Hil. THE PARTIES
@@ -549,9 +549,9 @@ a
 then canceled his Spoof Order at 7:31:34.389 AM, just 744 milliseconds after placing it. See id.
 at 18, row 617.
 
-VI. VIOLATIONS OF THE ACT
+VI. violations OF THE ACT
 COUNT I
-VIOLATIONS OF SECTION 4c(a)(5)(C) OF THE ACT, 7 U.S.C. § 6c¢(a)(5)(C)
+violations OF SECTION 4c(a)(5)(C) OF THE ACT, 7 U.S.C. § 6c¢(a)(5)(C)
 Spoofing
 
 39. Paragraphs 1 to 38 are re-alleged and incorporated herein by reference.
@@ -567,12 +567,12 @@ before execution.
 42. By reason of the foregoing, Zhao violated Section 4c(a)(5) of the Act, 7 U.S.C. §
 6c(a)(5) (2012).
 
-43. Each Spoof Order constitutes a separate and distinct violation of Section 4c(a)(5)(C)
+43. Each Spoof Order constitutes a separate and distinct violations of Section 4c(a)(5)(C)
 of the Act.
 
 COUNT II
 
-VIOLATIONS OF SECTION 6(c)(1) OF THE ACT, 7 U.S.C. § 9(1),
+violations OF SECTION 6(c)(1) OF THE ACT, 7 U.S.C. § 9(1),
 AND REGULATION 180.1(a)(1) AND (3), 17 C.F.R. § 180.1(a)(1), (3)
 
 Use of a Manipulative and Deceptive Device, Scheme, or Artifice
@@ -599,7 +599,7 @@ would have operated as a fraud or deceit upon market participants.
 47. By reason of the foregoing, Zhao violated Section 6(c)(1) of the Act, 7 U.S.C. § 9(1)
 (2012), and Regulation 180.1(a)(1) and (3), 17 C.F.R. § 180.1(a)(1), (3) (2017).
 
-48. Each Spoof Order, Event, and Scheme constitutes a separate and distinct violation of
+48. Each Spoof Order, Event, and Scheme constitutes a separate and distinct violations of
 
 Section 6(c)(1) of the Act and Regulation 180.1(a)(1) and (3).
 
@@ -662,7 +662,7 @@ D. Enter an order directing Zhao to be assessed by the Court, in an amount not t
 exceed the penalty prescribed by Section 6c(d)(1) of the Act, 7 U.S.C. § 13a-1(d)(1) (2012), as
 adjusted for inflation pursuant to the Federal Civil Penalties Inflation Adjustment Act
 Improvements Act of 2015, Pub. L. 114-74, 129 Stat. 584 (2015), title VI, Section 701, see
-Regulation 143.8, 17 C.F.R. § 143.8 (2017), for each violation of the Act, as described herein;
+Regulation 143.8, 17 C.F.R. § 143.8 (2017), for each violations of the Act, as described herein;
 
 E. Enter an order requiring Zhao to pay costs and fees, as permitted by 28 U.S.C.
 

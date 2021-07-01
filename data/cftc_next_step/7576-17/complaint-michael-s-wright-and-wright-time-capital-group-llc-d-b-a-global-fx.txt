@@ -82,7 +82,7 @@ to register with the Commission as a commodity pool operator (“CPO”).
 
 8. By virtue of this conduct and the conduct further described herein, Defendants,
 either directly or as controlling persons, have engaged, are engaging, or are about to engage in
-acts and practices in violation of Sections 4b(a)(2)(A)-(C), 4m(1), 40(1)(A)-(B), and
+acts and practices in violations of Sections 4b(a)(2)(A)-(C), 4m(1), 40(1)(A)-(B), and
 2(c)(2)(111)(1)(cc) of the Commodity Exchange Act, 7 U.S.C. § et seq. (the “Act’”), 7 U.S.C. §§
 6b(a)(2)(A)-(C), 6m(1), 60(1)(A)-(B), and 2(c)(2)(111)(1)(cc) (2012), and Commission
 Regulations (“Regulations”) 4.20(a)-(c), 5.2(b)(1)-(3), and 5.3(a)(2), 17 C.F.R. § 4.20(a)-(c),
@@ -119,7 +119,7 @@ II. JURISDICTION AND VENUE
 13. Section 6c(a) of the Act, 7 U.S.C. § 13a-1 (2012), authorizes the Commission to
 seek injunctive and other relief against any person whenever it shall appear to the Commission
 that such person has engaged, is engaging, or is about to engage in any act or practice
-constituting a violation of any provision of the Act, or any rule, regulation, or order thereunder.
+constituting a violations of any provision of the Act, or any rule, regulation, or order thereunder.
 
 14. Venue lies properly with this Court pursuant to Section 6c(e) of the Act, 7 U.S.C.
 § 13a-1(e) (2012), because Defendants transacted business in this District and certain
@@ -446,11 +446,11 @@ misappropriation of pool participant funds.
 14
 Case 1:17-cv-04722 Document1 Filed 06/22/17 Page 15 of 27
 
-Vv. VIOLATIONS OF THE COMMODITY EXCHANGE ACT AND
+Vv. violations OF THE COMMODITY EXCHANGE ACT AND
 COMMISSION REGULATIONS
 
 COUNT ONE
-Violations of Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. § 6b(a)(2)(A)-(C), and Regulation
+violations of Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. § 6b(a)(2)(A)-(C), and Regulation
 5.2(b)(1)-(3), 17 C.F.R. § 5.2(b)C)-(3)
 (Commodities/Forex Fraud by Misrepresentations, Omissions, False Statements, and
 Misappropriation)
@@ -525,7 +525,7 @@ expenses rather than for forex trading.
 
 73. The foregoing acts, omissions, and failures occurred within the scope of Wright’s
 employment or office with WTCG. Therefore, WTCG 1s liable for Wright’s acts, omissions, and
-failures in violation of Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. § 6b(a)(2)(A)-(C) (2012),
+failures in violations of Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. § 6b(a)(2)(A)-(C) (2012),
 and Commission Regulation 5.2(b)(1)-(3), 17 C.F.R. § 5.2(b)(1)-(3) (2016), pursuant to Section
 2(a)(1)(B) of the Act, as amended, 7 U.S.C. § 2(a)(1)(B) (2012), and Commission Regulation
 1.2, 17 C.F.R. § 1.2 (2016).
@@ -540,7 +540,7 @@ Section 13(b) of the Act, 7 U.S.C. § 13c(b) (2012).
 
 75. Each misrepresentation, omission of material fact, false statement, and
 misappropriation, including but not limited to those specifically alleged herein, is alleged as a
-separate and distinct violation of Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. § 6b(a)(2)(A)-(C)
+separate and distinct violations of Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. § 6b(a)(2)(A)-(C)
 
 (2012).
 
@@ -549,7 +549,7 @@ separate and distinct violation of Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. 
 
 COUNT TWO
 
-Violation of Section 40(1)(A)-(B) of the Act, 7 U.S.C. § 60(1)(A)-(B)
+violations of Section 40(1)(A)-(B) of the Act, 7 U.S.C. § 60(1)(A)-(B)
 (Fraud and Deceit by a CPO)
 
 76. Paragraphs 1| through 75 are re-alleged and incorporated herein by reference.
@@ -605,7 +605,7 @@ misappropriated.
 83. The foregoing acts, omissions, and failures of Defendant Wright occurred within
 the scope of his employment or office with WTCG. Therefore, WTCG is liable for Wright’s
 
-acts, omissions, and failures in violation of Section 40(1)(A)-(B) of the Act, 7 U.S.C. § 60(1)(A)-
+acts, omissions, and failures in violations of Section 40(1)(A)-(B) of the Act, 7 U.S.C. § 60(1)(A)-
 
 19
 Case 1:17-cv-04722 Document1 Filed 06/22/17 Page 20 of 27
@@ -621,10 +621,10 @@ liable for WTCG’s violations of Section 40(1)(A)-(B) of the Act, 7 U.S.C. § 6
 
 85. Each misrepresentation, omission of material fact, false statement, and
 misappropriation, including but not limited to those specifically alleged herein, is alleged as a
-separate and distinct violation of Section 40(1) of the Act, 7 U.S.C. § 60(1) (2012).
+separate and distinct violations of Section 40(1) of the Act, 7 U.S.C. § 60(1) (2012).
 
 COUNT THREE
-Violation of Sections 2(c)(2)(C)Gii)()(cc) and 4m(1) of the Act, 7 U.S.C. 8§
+violations of Sections 2(c)(2)(C)Gii)()(cc) and 4m(1) of the Act, 7 U.S.C. 8§
 2(c)(2)(C) (iii) D(cc) and 6m(1), and Regulation 5.3(a)(2), 17 C.F.R. § 5.3(a)(2)
 (Failure to Register as a Retail Forex CPO)
 
@@ -642,7 +642,7 @@ it operated and solicited funds for a pooled investment vehicle that was not an 
 engaged in forex transactions described in Section 2(c)(2)(C)(1) of the Act, 7 U.S.C. §
 
 20
-2(c)(2)(C)). Therefore, Defendant WTCG was in violation of Section 2(c)(2)(C)(ii)(1)(cc) of
+2(c)(2)(C)). Therefore, Defendant WTCG was in violations of Section 2(c)(2)(C)(ii)(1)(cc) of
 the Act.
 
 89. Section 4m(1) of the Act, 7 U.S.C § 6m(1), makes it unlawful for any CPO,
@@ -660,7 +660,7 @@ Act, 7 U.S.C. § la(11) (2012).
 
 91. During the Relevant Period, WTCG, while using the mails or means of interstate
 commerce in connection with business as a CPO, was not registered with the Commission as a
-CPO. Thus, WTCG acted as an unregistered CPO in violation of Section 4m(1) of the Act, 7
+CPO. Thus, WTCG acted as an unregistered CPO in violations of Section 4m(1) of the Act, 7
 U.S.C. § 6m(1) (2012).
 
 92. Regulation 5.3(a)(2), 17 C.F.R. § 5.3(a)(2) (2016), requires any CPO engaged in
@@ -690,7 +690,7 @@ the Act, 7 U.S.C. § 13c(b) (2012), Wright is liable for WTCG’s violations of 
 and Regulation 5.3(a)(2)(i), 17 C.F.R. § 5.3(a)(2)q) (2016).
 
 COUNT FOUR
-Violation of Regulation 4.20(a)-(c); 17 C.F.R. § 4.20(a)-(c)
+violations of Regulation 4.20(a)-(c); 17 C.F.R. § 4.20(a)-(c)
 
 (Failure to operate pool as separate entity; failure to receive investor funds in pool’s
 
@@ -747,7 +747,7 @@ C.F.R. §§ 4.20(a)-(c), 5.2(b)(1)-(3), and 5.3(a)(2) (2016);
 
 B. Enter an order of permanent injunction restraining, enjoining and prohibiting
 Defendants, and any other person or entity in active concert with them, from engaging in conduct
-in violation of Sections 4b(a)(2)(A)-(C), 4m(1), 40(1)(A)-(B), and 2(c)(2)(C)(i11)(1)(cc) of the
+in violations of Sections 4b(a)(2)(A)-(C), 4m(1), 40(1)(A)-(B), and 2(c)(2)(C)(i11)(1)(cc) of the
 Act, as amended, 7 U.S.C. §§ 6b(a)(2)(A)-(C), 6m(1), 60(1)(A)-(B), and 2(c)(2)(C) Gi) (1)(cc)
 (2012), and Regulations 4.20(a)-(c), 5.2(b)(1)-(3), and 5.3(a)(2), 17 C.F.R. §§ 4.20(a)-(c),
 5.2(b)(1)-(3), and 5.3(a)(2) (2016);
@@ -821,8 +821,8 @@ amended, as described herein;
 
 G. Enter an order requiring each Defendant to pay a civil monetary penalty under the
 Act, to be assessed by the Court, in amounts of not more than the greater of (1) triple the
-monetary gain for each violation of the Act and Commission Regulations or (2) $170,472 for
-each violation of the Act and Commission Regulations;
+monetary gain for each violations of the Act and Commission Regulations or (2) $170,472 for
+each violations of the Act and Commission Regulations;
 
 H. An order directing that Defendants, and any successors thereof, make an
 accounting to the Court of all of their assets and liabilities, together with all funds they received

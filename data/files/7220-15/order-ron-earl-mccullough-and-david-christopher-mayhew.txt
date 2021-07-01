@@ -170,9 +170,9 @@ i. Injunctive Relief
 CFTC seeks injunctive relief against the defendants. Injunctive relief is authorized by
 statute. See 7 U.S.C. § 13a-1(a) and (b). Section 13a-1 states that any person who violates the act
 may be subject to an order enjoining their actions and ordering compliance with the Act. Jd.
-§ 13a-1(a). After a violation of the act is established, CFTC need only show a likelihood of
+§ 13a-1(a). After a violations of the act is established, CFTC need only show a likelihood of
 future violations. CFTC v. British Am. Commodity Options Corp., 560 F.2d 135, 141 (2d Cir.
-1977). A violation has been established, and CFTC argues that, given the repetitive and ongoing
+1977). A violations has been established, and CFTC argues that, given the repetitive and ongoing
 nature of the defendants’ fraud, there is a reasonable likelihood that the two will continue to
 engage in fraudulent activities. This court agrees. CFTC’s request for an injunction is
 ALLOWED. Defendants David Mayhew and Ron McCullough are hereby restrained, enjoined
@@ -186,13 +186,13 @@ with off-exchange agreements, contracts, or transactions in foreign currency tha
 
 are leveraged or margined, made or to be made, for or on behalf of, or with, other
 
-persons, in violation of 7 U.S.C. §§ 6b(a)(2)(A) and (C), and 17 C.F_R. §§
+persons, in violations of 7 U.S.C. §§ 6b(a)(2)(A) and (C), and 17 C.F_R. §§
 5.2(b)(1) and (3);
 
 b. willfully providing false information to others, thereby causing them to
 issue false account statements, in or in connection with off-exchange agreements,
 contracts, or transactions in foreign currency that are leveraged or margined,
-made or to be made, for or on behalf of, or with, other persons, in violation of 7
+made or to be made, for or on behalf of, or with, other persons, in violations of 7
 U,S.C. § 6b(a)(2)(B) and 17 C.F.R. § 5.2(b)(2);
 
 5
@@ -202,7 +202,7 @@ Case 5:14-cv-00083-F Document 37 Filed 08/14/15 Page 5 of 11
 
 c. aiding, abetting, counseling, inducing, procuring or working in
 combination or concert with each other to violate the Act or Regulations, in
-violation of 7 U.S.C. § 13c(a);
+violations of 7 U.S.C. § 13c(a);
 
 d. trading on or subject to the rules of any registered entity (as that term is
 defined in 7 U.S.C. § 1a(40) (2012));
@@ -250,7 +250,7 @@ Case 5:14-cv-00083-F Document 37 Filed 08/14/15 Page 6 of 11
 
 Restitution is authorized here by Title 7, United States Code section 13a-1. The district
 court has the authority to order equitable relief in the form of restitution when a defendant is
-found to be in violation of the Commodity Exchange Act. See CFTC v. Co Petro Mktg. Grp.,
+found to be in violations of the Commodity Exchange Act. See CFTC v. Co Petro Mktg. Grp.,
 Inc., 680 F.2d 573, 583 (9th Cir. 1982). CFTC argues that “the objectives of the [Commodity
 Exchange] Act are best served by ordering full restitution to Defendants’ customers.” P1.’s
 Mem. Supp. Mot. Default J. [DE-27] at 16. The court agrees.
@@ -269,8 +269,8 @@ is ALLOWED.
 
 Section 13a-1 also authorizes the court to order a civil monetary penalty (“CMP”). The
 relevant portion of the statute states that in any action brought under the section, a person found
-to be in violation of the section may be ordered to pay a civil penalty of $100,000 or three times
-the monetary gain of each violation, whichever is greater. 7 U.S.C. § 13a-1(d)(1). Here, three
+to be in violations of the section may be ordered to pay a civil penalty of $100,000 or three times
+the monetary gain of each violations, whichever is greater. 7 U.S.C. § 13a-1(d)(1). Here, three
 
 times the monetary gain of the fraud, the gain being $828,873.29, is greater than the minimum
 

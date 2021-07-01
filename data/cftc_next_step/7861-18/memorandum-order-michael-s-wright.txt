@@ -21,12 +21,12 @@ Plaintiff U.S. Commodity Futures Trading Commission (“‘Plaintiff’ or “CF
 an independent federal regulatory agency charged by Congress with the administration and
 enforcement of the Commodities Exchange Act (the “Act’’), 7 U.S.C. § 1 et seq., brings this civil
 action against Defendants Michael S. Wright (‘Wright’) and Wright Time Capital Group, LLC
-(“WTCG’”), asserting claims for: (1) commodities futures fraud in violation of sections
+(“WTCG’”), asserting claims for: (1) commodities futures fraud in violations of sections
 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. §§ 6b(a)(2)(A)-(C), and retail foreign currency fraud in
-violation of 17 C.F.R. section 5.2(b); (2) commodities pool operator (“CPO”) fraud in violation
-of section 40(1) of the Act, 7 U.S.C. § 60(1); (3) failing to register as a CPO in violation of
+violations of 17 C.F.R. section 5.2(b); (2) commodities pool operator (“CPO”) fraud in violations
+of section 40(1) of the Act, 7 U.S.C. § 60(1); (3) failing to register as a CPO in violations of
 sections 2(c)(2)(C)(Gi1)7)(cc) and 4m(1) of the Act, 7 U.S.C. §§ 2(c)(2)(C)Gu1)()(cc), 6m(1), and
-17 C.F.R. section 5.3(a)(2); and (4) engaging in prohibited activities in violation of 17 C.F.R.
+17 C.F.R. section 5.3(a)(2); and (4) engaging in prohibited activities in violations of 17 C.F.R.
 sections 4.20(a)-(c). After reaching a settlement with Wright, who was WTCG’s CEO and chief
 
 strategist, the CFTC moved, pursuant to Federal Rule of Civil Procedure 55, for default
@@ -152,8 +152,8 @@ those relating to damages. Greyhound Exhibitgroup, Inc. v. E.L.U.L. Realty Corp.
 
 Plaintiff has demonstrated that it is entitled to relief on its first cause of action,
 which alleges that WTCG engaged in commodity futures fraud pursuant to sections 4b(a)(2)(A)-
-(C) of the Act, 7 U.S.C. §§ 6b(a)(2)(A)-(C), and engaged in retail forex fraud in violation of 17
-C.F.R. section 5.2(b). “To prove a violation of §§ 4b(a)(2)(A)-(C) of the [Act], the CFTC must
+(C) of the Act, 7 U.S.C. §§ 6b(a)(2)(A)-(C), and engaged in retail forex fraud in violations of 17
+C.F.R. section 5.2(b). “To prove a violations of §§ 4b(a)(2)(A)-(C) of the [Act], the CFTC must
 prove that defendants (1) made misrepresentations or factual omissions; (2) that were material to
 the investor's decision to invest; and (3) that defendants acted with scienter.” U.S. Commodity
 Futures Trading Comm’n v. Highland Stone Capital Memt., L.L.C., No. 11 CV 5209 KBF, 2013
@@ -189,7 +189,7 @@ purported to show consistently profitable earnings were false because WTCG did n
 any forex trading during several of the periods shown on the statements. (Compl. { 48.)
 Plaintiff’s uncontroverted allegations thus suffice to establish that WTCG acted with scienter.
 
-Plaintiff has also established that WTCG engaged in retail forex fraud in violation
+Plaintiff has also established that WTCG engaged in retail forex fraud in violations
 of 17 C.F.R. section 5.2(b), which provides that:
 
 It shall be unlawful for any person, by use of the mails or by any means or
@@ -215,7 +215,7 @@ whatsoever.
 
 17 C.F.R. § 5.2(b). Here, the fraudulent conduct described above in connection with Plaintiff’ s
 claim under section 4(b)(a)(2)(A)-(C) of the Act, if communicated through mail, email, or
-telephone, constitutes a violation of 17 C.F.R. section 5.2(b). See U.S. Commodity Futures
+telephone, constitutes a violations of 17 C.F.R. section 5.2(b). See U.S. Commodity Futures
 
 Trading Comm’n v. iGlobal Strategic Memt., LLC, No. 12 CV 6574 BSJ, 2012 WL 6930308, at
 
@@ -355,7 +355,7 @@ WTCG. “The [Act] and the regulations thereunder also authorize courts to impos
 WTCG MDJ VERSION DECEMBER 7, 2018 10
 Case 1:17-cv-04722-LTS-DCF Document 37 Filed 12/07/18 Page 11 of 12
 
-each statutory or regulatory violation of up to the greater of $140,000 or triple the offender's
+each statutory or regulatory violations of up to the greater of $140,000 or triple the offender's
 
 monetary gain.” U.S. Commodity Futures Trading Comm’n v. 4X Sols., Inc., No. 13 CV 2287
 

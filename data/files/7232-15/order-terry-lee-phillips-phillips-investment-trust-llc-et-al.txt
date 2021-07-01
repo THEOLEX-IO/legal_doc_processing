@@ -30,7 +30,7 @@ Respondents. )
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS AND IMPOSING REMEDIAL sanctions
 
 I.
 
@@ -50,7 +50,7 @@ In anticipation of the institution of an administrative proceeding, Respondents 
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondents consent to
 the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
-Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions (“Order”) and
+Commodity Exchange Act, Making Findings and Imposing Remedial sanctions (“Order”) and
 acknowledge service of this Order.’
 
  
@@ -66,7 +66,7 @@ A. SUMMARY
 
 From at least 2011 through 2014, Respondents fraudulently obtained at least $113,400
 from numerous individual and entity investors for the purpose of trading commodity futures in a
-designated contract market in violation of the CEA, misrepresenting to investors that Phillips had
+designated contract market in violations of the CEA, misrepresenting to investors that Phillips had
 achieved past success trading futures when he had never actually done so. Respondents
 misappropriated a large portion of investors’ funds for the personal use of Respondent Terry Lee
 Phillips (“Phillips”), and misrepresented to investors that Phillips was achieving enormous
@@ -165,7 +165,7 @@ investors, willfully made or caused to be made to such investors false reports o
 willfully entered or caused to be entered for such investors false records, and willfully deceived
 or attempted to deceive investors in regard to orders or contracts or the disposition or execution
 of orders or contracts, or in regard to acts of agency performed by Respondents with respect to
-orders or contracts for or with such investors, in violation of Section 4b(a)(1)(A)-(C) of the Act,
+orders or contracts for or with such investors, in violations of Section 4b(a)(1)(A)-(C) of the Act,
 7 U.S.C. §§ 6b(a)(1)(A)-(C). Respondents did so by knowingly or recklessly misrepresenting
 Phillips’ prior trading history and Respondents’ intentions with respect to funds received from
 investors, by knowingly or recklessly distributing false account statements to investors, and by
@@ -190,13 +190,13 @@ Sections 40(1)(A) and (B) of the Act. See, e.g., CFTC v. Skorupskas, 605 F. Supp
 through the use of the mails or other means or instrumentalities of interstate commerce, while
 acting as a CPO, directly or indirectly employed a device, scheme, or artifice to defraud
 investors, or engaged in transactions, practices or a course of business which operated as a fraud
-or deceit upon such investors, in violation of Section 40(1)(A) and (B) of the Act, 7 U.S.C.
+or deceit upon such investors, in violations of Section 40(1)(A) and (B) of the Act, 7 U.S.C.
 
 §§ 60(1)(A)-(B).
 
 In addition to Phillips’ own violations of the Act, Phillips directly controlled Phillips
 Investment and CIC and did not act in good faith or knowingly induced, directly or indirectly,
-Phillips Investment and CIC’s acts in violation of the Act. Therefore, pursuant to Section 13(b)
+Phillips Investment and CIC’s acts in violations of the Act. Therefore, pursuant to Section 13(b)
 of the Act, 7 U.S.C. § 13c(b), Phillips is liable for Phillips Investment and CIC’s violations of
 Sections 4b(a)(1)(A)-(C) and 40(1)(A)-(B) of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C),
 
@@ -208,14 +208,14 @@ participants, they may have been eligible for an exemption from registration as 
 Commission Regulation 4.13(a)(2), 17 C.F.R. § 4.13(a)(2).
 
  
-60(1)(A)-(B). Likewise, the acts, omissions, and failures of Phillips in violation of the Act, as
+60(1)(A)-(B). Likewise, the acts, omissions, and failures of Phillips in violations of the Act, as
 discussed above, occurred within the scope of his position as an official of Phillips Investment
 and/or CIC; therefore, Phillips Investment and CIC are liable for Phillips’ acts, omissions, and
-failures in violation of the Act, pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B),
+failures in violations of the Act, pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B),
 and Commission Regulation 1.2, 17 C.F.R. § 1.2.
 
 V.
-FINDINGS OF VIOLATION
+FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period,
 Respondents Terry Lee Phillips, Phillips Investment & Trust LLC, and Corporate I
@@ -232,7 +232,7 @@ A. Acknowledge receipt of service of this Order;
 
 B. Admit the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C, Waive:
 1, The filing and service of a complaint and notice of hearing;

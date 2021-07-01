@@ -29,7 +29,7 @@ Nee ee’ ee ee NS”
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I. INTRODUCTION
 
@@ -48,7 +48,7 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
-Exchange Act, Making Findings, and Imposing Remedial Sanctions (“Order”), and
+Exchange Act, Making Findings, and Imposing Remedial sanctions (“Order”), and
 acknowledges service of this Order.’
 
  
@@ -68,7 +68,7 @@ A. SUMMARY
 During the Relevant Period, Respondent, as an associated person (“AP’’) of a registered
 introducing broker (“Entity A”), knowingly defrauded customers by making misrepresentations
 and omissions of material fact about profits from Entity A’s so-called options trading program
-(“Options Program’) in violation of Section 4c(b) of the Act, 7 U.S.C. § 6c(b) (2018), and
+(“Options Program’) in violations of Section 4c(b) of the Act, 7 U.S.C. § 6c(b) (2018), and
 Regulation 33.10, 17 C.F.R. § 33.10 (2019). By so doing, Respondent is also liable for aiding
 and abetting Entity A’s violations of Section 40 of the Act, 7 U.S.C. § 60 (2018), which prohibits
 fraud by a trading advisor (“CTA”), pursuant to Section 13(a) of the Act, 7 U.S.C. § 13c(a)
@@ -199,7 +199,7 @@ profits and losses.
 CFTC v. Carnegie Trading Grp., Ltd., 450 F. Supp. 2d 788, 799 (N.D. Ohio 2006) (finding defendants
 “misrepresented profit potential and the risks of trading to potential customers” in out-of-the-money options
 scheme).
-B. Respondent Is Liable for Aiding and Abetting Entity A’s Violations of Section 40 of
+B. Respondent Is Liable for Aiding and Abetting Entity A’s violations of Section 40 of
 the Act, which Prohibits Fraud by a CTA
 
 During the Relevant Period, Entity A acted as a CTA within the meaning of Section
@@ -219,12 +219,12 @@ performance to customers and prospective customers.
 
 Section 13(a) of the Act, 7 U.S.C. §13c(a) (2018), provides, in relevant part, that “[a]ny
 person who commits, or who willfully aids, abets, counsels, commands, induces, or procures the
-commission of, a violation of [the Act or Regulations], or who acts in combination or concert
-with any other person in any such violation ... may be held responsible for such violation as a
+commission of, a violations of [the Act or Regulations], or who acts in combination or concert
+with any other person in any such violations ... may be held responsible for such violations as a
 principal.”
 
 Establishing aider and abettor liability requires proof that: (1) the Act was violated;
-(2) the defendant had knowledge of the wrongdoing underlying the violation; and (3) the
+(2) the defendant had knowledge of the wrongdoing underlying the violations; and (3) the
 defendant intentionally assisted the principal wrongdoers. In re Shahrokh Nikkhah, CFTC No.
 95-13, 2000 WL 622872, at *11 & n.28 (May 12, 2000); In re Amaranth Natural Gas
 Commodities Litig., 612 F. Supp. 2d 376 (S.D.N.Y. 2009) (citing In re: Natural Gas Commodity
@@ -241,7 +241,7 @@ pursuant to Section 13(a) of the Act.
 exemption from registration as a CTA under Regulation 4.14(a)(6), 17 C.F.R. § 4.14(a)(6) (2019), because its
 trading advice program was not solely in connection with its business as an IB, but rather constituted its primary
 business activity.
-IV. FINDINGS OF VIOLATIONS
+IV. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period, James E.
 Leeney violated Section 4c(b) of the Act, 7 U.S.C. § 6c(b) (2018), Section 40 of the Act,
@@ -256,7 +256,7 @@ A. Acknowledges service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C. Waives:
 

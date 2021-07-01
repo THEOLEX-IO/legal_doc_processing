@@ -108,7 +108,7 @@ Bank and a less profitable transaction for the Issuer.
 Case 1:19-cv-11701 Document1 Filed 12/20/19 Page 4 of 39
 
 9. Through this conduct and the conduct further described herein, Rivoire engaged
-in acts and practices in violation of the Commodity Exchange Act (“Act”), 7 U.S.C. 8§ 1-26
+in acts and practices in violations of the Commodity Exchange Act (“Act”), 7 U.S.C. 8§ 1-26
 (2018), and Commission Regulations (“Regulations”) promulgated thereunder, 17 C.F.R. pts. 1-
 190 (2019), specifically Section 6(c)(1) of the Act, 7 U.S.C. § 9(c)(1) (2018), and Regulation
 180.1, 17 C.F.R. § 180.1 (2019).
@@ -132,13 +132,13 @@ agency expressly authorized to sue by Act of Congress. In addition, Section 6c o
 U.S.C. § 13a-1 (2018), provides that district courts have jurisdiction to hear actions brought by
 the Commission for injunctive relief and to enforce compliance with the Act whenever it shall
 appear to the Commission that any person has engaged, is engaging, or is about to engage in any
-act or practice constituting a violation of any provision of the Act or any rule, regulation, or
+act or practice constituting a violations of any provision of the Act or any rule, regulation, or
 
 order thereunder.
 Case 1:19-cv-11701 Document1 Filed 12/20/19 Page 5 of 39
 
 13. Venue. Venue properly lies with the Court pursuant to 7 U.S.C. § 13a-1(e),
-because acts and practices in violation of the Act occurred within this District.
+because acts and practices in violations of the Act occurred within this District.
 
 Ht. THE PARTIES
 
@@ -722,7 +722,7 @@ Broker told Trader A he was “doing it right now.”
 A hit the bid at a price of 15.375 basis points and traded $500 million worth of Five-Year Basis
 Swaps at the time Rivoire directed him to trade, one or more individuals at the Broker Firm or its
 affiliates moved the price of Five-Year Basis Swaps on USDBASIS from 15.4 to 15.3 basis
-points and the price on 19905 from 15.5 to 15.25 basis points. These moves were in violation of
+points and the price on 19905 from 15.5 to 15.25 basis points. These moves were in violations of
 the Broker Firm’s conventions for moving the Broker Screens; under the Broker Firm’s
 conventions, USDBASIS should have remained at 15.4 and 19905 should have remained at
 15.5. Nevertheless, one or more individuals at the Broker Firm or its affiliates moved
@@ -1044,15 +1044,15 @@ Screens. Further, other market participants were not aware that as a result of t
 scheme and Trader A’s communications with the Broker, individuals at the Broker Firm or its
 affiliates moved the spot and one-week forward prices on the Broker Screens simply to satisfy
 Trader A’s demands they move the Broker Screens, and not as a result of any market activity, in
-violation of the Broker Firm’s policies, and that therefore the Broker Screens displayed spot and
+violations of the Broker Firm’s policies, and that therefore the Broker Screens displayed spot and
 one-week forward prices for Five-Year Basis Swaps that were not a result of market conditions
 or actual market activity, but which were instead set by the manipulative activity of Rivoire and
 Trader A.
 
-V. VIOLATIONS OF THE COMMODITY EXCHANGE ACT AND REGULATIONS
+V. violations OF THE COMMODITY EXCHANGE ACT AND REGULATIONS
 
 Count I — Use of Manipulative or Deceptive Device
-Violations of Section 6(c)(1) of the Act,
+violations of Section 6(c)(1) of the Act,
 7 US.C. § 9(1) (2018), and Regulation 180.1(a), 17 C.F.R. § 180.1(a) (2019)
 
 129. The allegations set forth in paragraphs 1 through 128 are re-alleged and
@@ -1115,11 +1115,11 @@ conduct intentionally or recklessly.
 
 137. Each and every overt action in furtherance of the use or attempted use of a
 manipulative or deceptive device or contrivance is alleged herein as a separate and distinct
-violation of 7 U.S.C. § 9(1) and 17 C.F.R. § 180.1(a).
+violations of 7 U.S.C. § 9(1) and 17 C.F.R. § 180.1(a).
 
 Count II — Control Person Liability
 
-Violations of Section 6(c)(1) and 13(b) of the Act,
+violations of Section 6(c)(1) and 13(b) of the Act,
 7 US.C. § 9(1), 13¢(b) (2018), and Regulation 180.1(a), 17 C.F.R. § 180.1(a) (2019)
 
 138. The allegations set forth in paragraphs 1 through 137 are re-alleged and
@@ -1138,7 +1138,7 @@ for the violations of Trader A of 7 U.S.C. § 9(1) and 17 C.F.R. § 180.1(a).
 
 Count III — Aiding and Abetting Liability
 
-Violations of Section 6(c)(1) and 13(a) of the Act,
+violations of Section 6(c)(1) and 13(a) of the Act,
 7 US.C. § 9(1), 13e(a) (2018), and Regulation 180.1(a), 17 C.F.R. § 180.1(a) (2019)
 
 142. The allegations set forth in paragraphs | through 141 are re-alleged and
@@ -1170,7 +1170,7 @@ agents, servants, employees, assigns, or attorneys, and all persons in active
 concert or participation with him, who receive actual notice of such order by
 personal service or otherwise, from:
 
-1. Engaging, directly or indirectly, in conduct in violation of 7 U.S.C.
+1. Engaging, directly or indirectly, in conduct in violations of 7 U.S.C.
 § 9(1) and 17 C.F.R. § 180.1(a);
 
 il. Trading on or subject to the rules of any registered entity (as that
@@ -1243,7 +1243,7 @@ we CRO
 
 “—T%
 
-§ 701, 129 Stat. 584, 599, see 17 C.F.R. § 143.8 (2019), for each violation of the
+§ 701, 129 Stat. 584, 599, see 17 C.F.R. § 143.8 (2019), for each violations of the
 Act and Regulations described herein;
 
 An order directing Rivoire to disgorge, pursuant to such procedure as the Court

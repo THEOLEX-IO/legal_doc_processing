@@ -37,7 +37,7 @@ Defendants Timothy M. Evans (“Evans’’) and James A. Donelson (“Donelson�
 through its agents and employees, including Defendants Jeremy S. Ruth (“Ruth”) and Andrew D.
 Nelson (“Nelson’’) (together with Long Leaf, Evans, and Donelson, “LLT Defendants”), engaged
 in a scheme to defraud customers in connection with options on futures contracts traded on
-designated contract markets, in violation of the Commodity Exchange Act (“Act”), 7 U.S.C §§ I-
+designated contract markets, in violations of the Commodity Exchange Act (“Act”), 7 U.S.C §§ I-
 26 (2018), and accompanying Commission Regulations (“Regulations”), 17 C.F.R. pts. 1-190
 (2019).
 
@@ -75,9 +75,9 @@ in connection with options on futures transactions); and Section 40 of the Act, 
 x nt
 8. Long Leaf failed to make required customer disclosures relating to client accounts
 
-guided pursuant to a “systematic program that recommends specific trades,” in violation of
+guided pursuant to a “systematic program that recommends specific trades,” in violations of
 Regulation 4.31(a) and (b), 17 C.F.R. § 4.31(a), (b) (2019). Long Leaf failed to file any such
-disclosures with the National Futures Association (“NFA”), in violation of Regulation
+disclosures with the National Futures Association (“NFA”), in violations of Regulation
 4.36(d)(1), 17 C.F.R. § 4.36(d)(1) (2019).
 
 9. Certain LLT Defendants are liable for registration violations, including failure to
@@ -112,11 +112,11 @@ any agency expressly authorized to sue by Act of Congress). In addition, Section
 Act, 7 U.S.C. § 13a-1(a) (2018), provides that U.S. district courts have jurisdiction to hear
 actions brought by the Commission for injunctive and other relief or to enforce compliance with
 the Act whenever it shall appear to the Commission that any person has engaged, is engaging, or
-is about to engage in any act or practice constituting a violation of any provision of the Act or
+is about to engage in any act or practice constituting a violations of any provision of the Act or
 any rule, regulation, or order thereunder.
 
 14. Venue properly lies with this Court pursuant to 7 U.S.C. § 13a-1(e) because
-Defendants transacted business in this District, and certain of the acts and practices in violation
+Defendants transacted business in this District, and certain of the acts and practices in violations
 of the Act have occurred, are occurring, or are about to occur within this District, among other
 
 places.
@@ -544,11 +544,11 @@ f mee : ,
 AS c :
 Le CAA bt ee OA RLS LP PE PP
 
-V. STATUTORY AND REGULATORY VIOLATIONS
+V. STATUTORY AND REGULATORY violations
 
 COUNT I
 Fraud in Connection with Options on Futures Contracts
-Violation of Section 4c(b) of the Act, 7 U.S.C. § 6c(b) (2018), and
+violations of Section 4c(b) of the Act, 7 U.S.C. § 6c(b) (2018), and
 Regulation 33.10, 17 C.F.R. § 33.10 (2019)
 (Against all LLT Defendants)
 
@@ -569,7 +569,7 @@ to enter into, the entry into, the confirmation of the execution of, or the main
 commodity option transaction.
 
 82. As set forth above in paragraphs | through 78, the LLT Defendants engaged in a
-fraudulent scheme with respect to the TMM program, in violation of 7 U.S.C. § 6c(b) and
+fraudulent scheme with respect to the TMM program, in violations of 7 U.S.C. § 6c(b) and
 17 C.F.R. § 33.10. The LLT Defendants did so by knowingly or recklessly making false and
 misleading statements to customers and prospective customers about the profitability of trading
 pursuant to recommendations provided by Long Leaf.
@@ -610,7 +610,7 @@ Leaf’s violations of the Act and Regulations committed during the period of at
 19
 COUNT II
 Fraud by a Commodity Trading Advisor
-Violation of Section 4o of the Act, 7 U.S.C. § 60 (2018)
+violations of Section 4o of the Act, 7 U.S.C. § 60 (2018)
 (Against all LLT Defendants)
 87. The Act defines a commodity trading adviser (“CTA”), in relevant part, as a
 
@@ -630,7 +630,7 @@ customer or prospective customer; or (b) engage in any transaction, practice, or
 business which operates as a fraud or deceit upon any customer or prospective customer.
 
 90. As set forth above in paragraphs 1 through 78, Long Leaf engaged in a fraudulent
-scheme with respect to the TMM program, in violation of 7 U.S.C. § 60. Long Leaf did so by
+scheme with respect to the TMM program, in violations of 7 U.S.C. § 60. Long Leaf did so by
 knowingly or recklessly making false and misleading statements to customers and prospective
 customers, through its employees and agents, about the profitability of trading pursuant to
 recommendations provided by Long Leaf.
@@ -682,7 +682,7 @@ further Long Leaf’s fraudulent business.
 COUNT Il
 Fraudulent Advertising by a Commodity Trading Advisor
 
-Violation of Regulation 4.41, 17 C.F.R. § 4.41(a) (2019)
+violations of Regulation 4.41, 17 C.F.R. § 4.41(a) (2019)
 (Against Long Leaf, Evans, and Donelson)
 
 96. 17 C.F.R. § 4.41(a) makes it unlawful for a CTA or any principal thereof to
@@ -699,7 +699,7 @@ customers and prospective customers. The scripts were provided and approved by t
 of Long Leaf, Evans and Donelson.
 
 98. Defendants Long Leaf, Evans, and Donelson therefore engaged in fraudulent
-advertising in violation of 17 C.F.R. § 4.41(a).
+advertising in violations of 17 C.F.R. § 4.41(a).
 
 99. Defendant Evans was the founder, CEO, and owner of Long Leaf from at least
 June 2015 through December 2017, and during that period possessed and exercised, directly or
@@ -725,7 +725,7 @@ Leaf’s violations of the Act and Regulations committed during the period of at
 COUNT IV
 Failure to Register as a Commodity Trading Advisor
 
-Violation of Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2018)
+violations of Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2018)
 (Against Long Leaf, Evans, and Donelson)
 
 101. 7U.S.C. § 6m(1) requires a person acting as a CTA to register as such with the
@@ -769,7 +769,7 @@ Leaf’s violations of the Act and Regulations committed during the period of at
 24
 COUNT V
 Failure to Provide Required Disclosures for Trading Program
-Violation of Regulation 4.31(a) and (b), 17 C.F.R. § 4.31(a), (b) (2019), and
+violations of Regulation 4.31(a) and (b), 17 C.F.R. § 4.31(a), (b) (2019), and
 Regulation 4.36(d)(1), 17 C.F.R. § 4.36(d)(1) (2019)
 (Against Long Leaf, Evans, and Donelson)
 
@@ -827,7 +827,7 @@ Leaf’s violations of the Act and Regulations committed during the period of at
 
 COUNT VI
 Failure to Register as Associated Persons
-Violation of Section 4k(1) of the Act, 7 U.S.C. § 6k(1) (2018), Regulation 3.12(a), 17 C.F.R.
+violations of Section 4k(1) of the Act, 7 U.S.C. § 6k(1) (2018), Regulation 3.12(a), 17 C.F.R.
 
 § 3.12(a) (2019), and Regulation 33.3(b)(1) and (2), 17 C.F.R. § 33.3(b)(1), (2) (2019)
 (Against Long Leaf, Donelson, Evans, and Nelson, Variously)
@@ -869,13 +869,13 @@ program, advised clients of recommendations, and accepted customer orders for op
 futures contracts. Nelson was not at that time, and has never been, registered with the
 
 27
-Commission as an AP of Long Leaf, or in any other capacity. Nelson therefore acted in violation
+Commission as an AP of Long Leaf, or in any other capacity. Nelson therefore acted in violations
 of 7 U.S.C. § 6k(1), 17 C.F.R. § 3.12(a), and 17 C.F.R. § 33.3(b)(1).
 
 120. From December 2017 through the present, Donelson supervised persons engaged,
 and was engaged himself, in the solicitation and acceptance of customer orders for options on
 futures contracts. Donelson did not register as an AP of Long Leaf until June 2018. Donelson
-therefore acted in violation of 7 U.S.C. § 6k(1), 17 C.F.R. § 3.12(a), and 17 C.F.R. § 33.3(b)(1).
+therefore acted in violations of 7 U.S.C. § 6k(1), 17 C.F.R. § 3.12(a), and 17 C.F.R. § 33.3(b)(1).
 
 121. Long Leaf, through its principals Evans and Donelson, knew or should have
 known about Nelson’s lack of registration status, which is available to the public online through
@@ -883,7 +883,7 @@ the website of the NFA. Long Leaf nonetheless allowed Nelson to work as an AP, s
 accepting customer orders for options on futures contracts. Moreover, Long Leaf allowed
 Donelson to act as an AP, and to supervise APs, without registration.
 
-122. Long Leaf therefore acted in violation of 7 U.S.C. § 6k(1) and 17 C.F.R. §
+122. Long Leaf therefore acted in violations of 7 U.S.C. § 6k(1) and 17 C.F.R. §
 33.3(b)(2).
 
 123. Defendant Evans was the founder, CEO, and owner of Long Leaf from at least
@@ -944,7 +944,7 @@ Enter an order of permanent injunction enjoining Defendant Long Leaf Trading
 Group, Inc., and its affiliates, agents, servants, employees, successors, assigns,
 attorneys, and all persons in active concert with them, who receive actual notice
 of such order by personal service or otherwise, from engaging in the conduct
-described above, in violation of 7 U.S.C. §§ 6c(b), 6k(1), 6m(1), 60, and
+described above, in violations of 7 U.S.C. §§ 6c(b), 6k(1), 6m(1), 60, and
 
 17 C.F.R. §§ 4.31(a), (b), 4.36(d)(1), 4.41 (a), 33.3(b)(2), 33.10.
 
@@ -952,14 +952,14 @@ Enter an order of permanent injunction enjoining Defendant James A. Donelson
 and his affiliates, agents, servants, employees, successors, assigns, attorneys, and
 all persons in active concert with them, who receive actual notice of such order by
 personal service or otherwise, from engaging in the conduct described above, in
-violation of 7 U.S.C. §§ 6c(b), 6k(1), 6m(1), and 60, and 17 C.F.R. §§ 3.12(a),
+violations of 7 U.S.C. §§ 6c(b), 6k(1), 6m(1), and 60, and 17 C.F.R. §§ 3.12(a),
 4.31(a), (b), 4.36(d)(1), 4.41(a), 33.3(b)(1), (2), and 33.10.
 
 Enter an order of permanent injunction enjoining Defendant Timothy M. Evans,
 and his affiliates, agents, servants, employees, successors, assigns, attorneys, and
 all persons in active concert with them, who receive actual notice of such order by
 personal service or otherwise, from engaging in the conduct described above, in
-violation of 7 U.S.C. §§ 6c(b), 6k(1), 6m(1), and 60, and 17 C.F.R. § 4.31(a), (b),
+violations of 7 U.S.C. §§ 6c(b), 6k(1), 6m(1), and 60, and 17 C.F.R. § 4.31(a), (b),
 4.36(d)(1), 4.41(a), 33.3(b)(2), and 33.10.
 
 Enter an order of permanent injunction enjoining Defendant Jeremy Ruth, and his
@@ -967,7 +967,7 @@ affiliates, agents, servants, employees, successors, assigns, attorneys, and all
 persons in active concert with him, who receive actual notice of such order by
 personal service or otherwise, from engaging in the conduct described above, in
 
-violation of 7 U.S.C. §§ 6c(b), 60, and 17 C.F.R. § 33.10.
+violations of 7 U.S.C. §§ 6c(b), 60, and 17 C.F.R. § 33.10.
 
 30
 “~ AA 7 , ' MEAT PS — ort ~~
@@ -981,7 +981,7 @@ Enter an order of permanent injunction enjoining Defendant Andrew D. Nelson,
 and his affiliates, agents, servants, employees, successors, assigns, attorneys, and
 all persons in active concert with them, who receive actual notice of such order by
 personal service or otherwise, from engaging in the conduct described above, in
-violation of 7 U.S.C. §§ 6c(b), 6k(1), 60, and 17 C.F.R. §§ 3.12(a), 33.10,
+violations of 7 U.S.C. §§ 6c(b), 6k(1), 60, and 17 C.F.R. §§ 3.12(a), 33.10,
 33.3(b)(1).
 
 Enter an order of permanent injunction restraining and enjoining each of the LLT
@@ -1043,7 +1043,7 @@ Act of 2015, Pub. L. 114-74, tit. VOL, § 701, 129 Stat. 584, 599-600, see
 32
 Case: 1:20-cv-03758 Document #: 1 Filed: 06/26/20 Page 33 of 33 PagelD #:33
 
-Regulation 143.8, 17 C.F.R. § 143.8 (2019), for each violation of the Act and
+Regulation 143.8, 17 C.F.R. § 143.8 (2019), for each violations of the Act and
 Regulations, as described herein;
 
 O. Enter an order requiring the LLT Defendants to pay costs and fees as permitted by

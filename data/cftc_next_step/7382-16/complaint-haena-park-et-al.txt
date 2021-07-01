@@ -29,7 +29,7 @@ I. SUMMARY
 Park, individually and as the founder and officer of Phaetra Capital GP LLC (“Phaetra GP”),
 Phaetra Capital Management LP (“Phaetra Management”, and, collectively with Phaetra GP, the
 “Phaetra entities”), and Argenta Group LLC (“Argenta Group”, and collectively with Park and
-the Phaetra entities, “Pool Defendants”), engaged in at least two fraudulent schemes in violation
+the Phaetra entities, “Pool Defendants”), engaged in at least two fraudulent schemes in violations
 of the Commodity Exchange Act (“Act”): (1) the Pool Defendants fraudulently solicited at least
 $23 million from members of the public to participate in a commodity pool that traded various
 futures contracts, as well as leveraged or margined retail off-exchange foreign currencies, the
@@ -100,7 +100,7 @@ Park, on behalf of Argenta Capital LLC, entered into a Commodity Trading Agreeme
 Investment Firm A and managed a fund for Investment Firm A from March 2013 to May 2014.
 
 9. By virtue of this conduct, and as more fully set forth below, Defendants have
-engaged, are engaging, and/or are about to engage in acts and practices in violation of provisions
+engaged, are engaging, and/or are about to engage in acts and practices in violations of provisions
 of the Act, 7 U.S.C. §§ 1 et seg. (2012), and certain of the Commission’s Regulations
 (“Regulations”) promulgated thereunder, 17 C.F.R. §§ 1.1 et seg. (2015).
 
@@ -144,12 +144,12 @@ Il. JURISDICTION AND VENUE
 17. This Court has jurisdiction over this action pursuant to Section 6c(a) of the Act,
 7 U.S.C. § 13a-1 (2012), which authorizes the Commission to seek injunctive and other relief
 against any person whenever it appears to the Commission that such person has engaged, is
-engaging, or is about to engage in any act or practice constituting a violation of any provision of
+engaging, or is about to engage in any act or practice constituting a violations of any provision of
 the Act or any rule, regulation, or order thereunder.
 
 18. Venue lies properly in this District pursuant to Section 6c(e) of the Act, 7 U.S.C.
 § 13a-1(e) (2012), because the Defendants transacted business in the Southern District of New
-York, and some of the Defendants’ acts and practices in violation of the Act and Regulations
+York, and some of the Defendants’ acts and practices in violations of the Act and Regulations
 occurred within this District.
 
 TH. THE PARTIES
@@ -588,14 +588,14 @@ from March 2013 to May 2014.
 -19-
 Case 1:16-cv-04120 Document1 Filed 06/02/16 Page 20 of 35
 
-STATUTORY AND REGULATORY VIOLATIONS
+STATUTORY AND REGULATORY violations
 
  
 
 COUNT ONE
 
 FRAUD IN CONNECTION WITH COMMODITY FUTURES CONTRACTS
-Violations of Sections 4b(a)(1)(A)-(C) of the Act
+violations of Sections 4b(a)(1)(A)-(C) of the Act
 
 62. The allegations set forth in the foregoing paragraphs are re-alleged and
 incorporated herein by reference.
@@ -646,7 +646,7 @@ pool participant funds and misappropriated the remainder. Like Park’s
 misrepresentations, each of these material deceptive omissions violates Section
 Ab(a) of the Act.
 
-all in violation of Sections 4b(a)(1)(A)-(C) of the Act, to be codified at 7 U.S.C. §§ 6b(a)(1)(A)-
+all in violations of Sections 4b(a)(1)(A)-(C) of the Act, to be codified at 7 U.S.C. §§ 6b(a)(1)(A)-
 (C) (2012).
 
 65. Pool Defendants engaged in the acts and practices described above knowingly,
@@ -676,7 +676,7 @@ violations of Sections 4b(a)(1)(A)-(C) of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C)
 COUNT TWO
 
 FRAUD IN CONNECTION WITH FOREX CONTRACTS
-Violations of Sections 4b(a)(2)(A)-(C) of the Act
+violations of Sections 4b(a)(2)(A)-(C) of the Act
 
 69. The allegations set forth in the foregoing paragraphs are re-alleged and
 incorporated herein by reference.
@@ -725,7 +725,7 @@ soliciting prospective and existing pool participants by making material misrepr
 Case 1:16-cv-04120 Documenti Filed 06/02/16 Page 24 of 35
 
 omissions, including but not limited to the fraudulent conduct described in Count One of this
-Complaint, as set forth above, and all in violation of Sections 4b(a)(2)(A)-(C) of the Act, to be
+Complaint, as set forth above, and all in violations of Sections 4b(a)(2)(A)-(C) of the Act, to be
 codified at 7 U.S.C. §§ 6b(a)(2)(A)-(C) (2012).
 
 73. Pool Defendants engaged in the acts and practices described above knowingly,
@@ -750,7 +750,7 @@ violations of Sections 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. §§ 6b(a)(2)(A)-(C)
 COUNT THREE
 FRAUD BY A COMMODITY POOL OPERATOR
 
-Violations of Section 40(1)(A) and (B) of the Act
+violations of Section 40(1)(A) and (B) of the Act
 
 77. The allegations set forth in preceding paragraphs are re-alleged and incorporated
 
@@ -800,12 +800,12 @@ count, pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b) (2012).
 
 83. Each act of fraudulent solicitation, misappropriation and false statement or report,
 including but not limited to those specifically alleged herein, is alleged as a separate and distinct
-violation of Section 40(1) of the Act, 7 U.S.C. § 60(1) 2012).
+violations of Section 40(1) of the Act, 7 U.S.C. § 60(1) 2012).
 
 COUNT FOUR
 
 FRAUD BY A COMMODITY TRADING ADVISOR
-Violations of Section 40(1)(A) and (B) of the Act
+violations of Section 40(1)(A) and (B) of the Act
 
 84. The allegations set forth in preceding paragraphs are re-alleged and incorporated
 herein by reference.
@@ -848,12 +848,12 @@ Regulations, as alleged in this count, pursuant to Section 2(a)(1)(B) of the Act
 90. Each act of fraudulent solicitation, misappropriation and false statement or report,
 including but not limited to those specifically alleged herein, is alleged as a separate and distinct
 
-violation of Section 40(1) of the Act, 7 U.S.C. § 60(1) (2012).
+violations of Section 40(1) of the Act, 7 U.S.C. § 60(1) (2012).
 
 COUNT FIVE
 
 FAILURE TO REGISTER AS A CPO AND A CTA
-Violation of Section 4m(1) of the Act
+violations of Section 4m(1) of the Act
 
 91. The allegations set forth in the preceding paragraphs are re-alleged and
 
@@ -895,7 +895,7 @@ made use of the mails or any means of interstate commerce in connection with its
 - 28 -
 Case 1:16-cv-04120 Document Filed 06/02/16 Page 29 of 35
 
-CPO and CTA, while failing to register, in violation of Section 4m(1) of the Act, 7 U.S.C. §
+CPO and CTA, while failing to register, in violations of Section 4m(1) of the Act, 7 U.S.C. §
 6m(1) (2012).
 
 98. Park controlled the Phaetra entities and Argenta Group directly or indirectly, and
@@ -909,7 +909,7 @@ COUNT SIX
 FAILURE TO OPERATE COMMODITY POOL AS A SEPARATE LEGAL ENTITY,
 IMPROPER ACCEPTANCE OF FUNDS, AND COMMINGLING OF POOL FUNDS
 
-Violations of Commission Regulation 4.20 (a)-(c), 17 C.F.R. §4.20(a)-(c) (2015)
+violations of Commission Regulation 4.20 (a)-(c), 17 C.F.R. §4.20(a)-(c) (2015)
 
 99. The allegations set forth in the preceding paragraphs are re-alleged and
 incorporated herein by reference.
@@ -938,12 +938,12 @@ accounts held in her own name.
 
 104. Each instance of improper receipt and commingling of pool participant funds,
 including but not limited those specifically alleged herein, is alleged as a separate and distinct
-violation of Commission Regulation 4.20(a)-(c), 17 C.P.R. § 4.20(a)-(c) (2015).
+violations of Commission Regulation 4.20(a)-(c), 17 C.P.R. § 4.20(a)-(c) (2015).
 
 COUNT SEVEN
 
 FALSE STATEMENTS TO THE NFA
-Violation of Section 9(a)(4) of the Act
+violations of Section 9(a)(4) of the Act
 
 105. The allegations in the foregoing paragraphs are re-alleged and incorporated herein
 by reference.
@@ -962,7 +962,7 @@ official duties under this Act.
 107. Park and Kaseman, individually and as the agents of the Phaetra entities, willfully
 made materially false statements to the NFA, and concealed material information from the NFA,
 in statutorily required reports and during oral communications with NFA staff during an NFA
-audit in furtherance of the NFA’s official duties under the Act, in violation of Section 9(a)(4) of
+audit in furtherance of the NFA’s official duties under the Act, in violations of Section 9(a)(4) of
 the Act, 7 U.S.C. § 13(a)(4) (2012).
 
 108. Specifically, as alleged above, Park and Kaseman, individually and as the agents
@@ -983,7 +983,7 @@ participants during the Relevant Period, including in 2015 and 2016.
 110. By making false statements to the NFA, and by concealing trading activity from
 the NFA, Park and Kaseman, individually and as the agent of the Phaetra entities, willfully
 falsified, concealed, and covered up by trick, scheme, or artifice material facts and made false
-writings or documents knowing the same to contain false statements, in violation of Section
+writings or documents knowing the same to contain false statements, in violations of Section
 9(a)(4) of the Act, 7 U.S.C. § 13(a)(4) (2012).
 
 111. Each of the false statements Park and Kaseman made to the NFA occurred within
@@ -1000,7 +1000,7 @@ pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b) (2012),
 
 113. Each false, fictitious, or fraudulent statement, representation, or omission, and
 each act of concealment, including but not limited to those specifically alleged herein, is alleged
-as a separate and distinct violation of Section 9(a)(4) of the Act, 7 U.S.C. § 13(a)(4) (2012).
+as a separate and distinct violations of Section 9(a)(4) of the Act, 7 U.S.C. § 13(a)(4) (2012).
 
 E. RELIEF REQUESTED
 
@@ -1027,7 +1027,7 @@ servants, employees, assigns, attorneys, holding companies, alter egos, and pers
 concert or participation with defendants, including any of their successors, from, directly or
 indirectly:
 
-(i) engaging in conduct in violation of Sections 4b(a)(1)(A)-(C), 4b(a)(2)(A)-
+(i) engaging in conduct in violations of Sections 4b(a)(1)(A)-(C), 4b(a)(2)(A)-
 
 (C), 40(1)(A) & (B), 4m(1), and 9(a)(4) of the Act, as amended, to be codified at 7
 
@@ -1082,14 +1082,14 @@ practices that constituted violations of the Act and the Regulations, as describ
 
 and post-judgment interest thereon from the date of such violations;
 
-f) An order directing Defendants to pay a civil monetary penalty for each violation of
+f) An order directing Defendants to pay a civil monetary penalty for each violations of
 
 -33-
 Case 1:16-cv-04120 Document1 Filed 06/02/16 Page 34 of 35
 
 the Act and the Regulations described herein, plus post-judgment interest, in the amount of the
-higher of: 1) $140,000 for each violation of the Act and Regulations committed on or after
-October 23, 2008; or 2) triple the monetary gain to defendants for each violation of the Act and
+higher of: 1) $140,000 for each violations of the Act and Regulations committed on or after
+October 23, 2008; or 2) triple the monetary gain to defendants for each violations of the Act and
 the Regulations, plus post-judgment interest;
 
 g)  Anorder directing Pool Defendants and any of their successors, holding companies

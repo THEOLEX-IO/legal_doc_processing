@@ -35,7 +35,7 @@ def _question_selector(key: str):
     if "violat" in key:
         qs.extend(
             [
-                ("what is the violation?", "what_violation"),
+                ("what is the violations?", "what_violation"),
                 ("what are the violations?", "what_violations"),
             ]
         )

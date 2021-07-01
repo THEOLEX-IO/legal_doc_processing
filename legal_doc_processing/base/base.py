@@ -91,7 +91,7 @@ class Base:
         # WARNING
         # the order of feature in feature list define the order of preidct methods called
         # this order is important
-        # ie country of violation depedns of justice_type
+        # ie country of violations depedns of justice_type
         # penalty depends of violations
         self._feature_list = [
             "_code_law_violation",

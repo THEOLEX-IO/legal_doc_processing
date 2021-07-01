@@ -1,4 +1,4 @@
-folder,filename,doctype,defendant,extracted_authorities,monetary_sanction,-- VIOLATION -- ,currency,country_of_violation
+folder,filename,doctype,defendant,extracted_authorities,monetary_sanction,-- violations -- ,currency,country_of_violation
 7100-15,order-allied-markets-llc-et-al.txt,order,"Allied Markets,Joshua Gilliland,Chawalit Wongkhiao",CFTC,-1,?,$,United States of America
 7100-15,press-release.txt,press,"Allied Markets,Joshua Gilliland,Chawalit Wongkhiao",CFTC,-1,?,$,United States of America
 7102-15,order-michael-j-siegel-et-al.txt,order,"TOTE Fund,MJS Capital Management,Michael J. Siegel",CFTC,860000,?,$,United States of America

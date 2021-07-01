@@ -57,7 +57,7 @@ Group, LLC (““WAG’’) (collectively, the “Defendants’’), fraudulent
 directly accepted at least $13 million from at least 40 individuals and/or entities (“pool
 
 participants” or “‘participants’’) to participate in a pooled investment vehicle for the
-purported purpose of trading commodity futures contracts, in violation of the Commodity
+purported purpose of trading commodity futures contracts, in violations of the Commodity
 Exchange Act (“Act”), 7 U.S.C. §§ 1-26 (2012), and its implementing regulations
 (“Regulations”), 17 C.F.R. §§ 1-190.10 (2016).
 
@@ -90,9 +90,9 @@ profits.
 material facts in his communications with participants, including but not limited to failing
 to disclose: Williams’ misappropriation of participants’ funds; Williams’ failure to
 register as a commodity pool operator (“CPO”’) as required by the Act; Williams’ failure
-to operate the pool as a separate legally cognizable entity in violation of the Regulations;
-Williams’ commingling of funds in violation of the Regulations; and Williams’ failure to
-accept funds in the name of the pool in violation of the Regulations.
+to operate the pool as a separate legally cognizable entity in violations of the Regulations;
+Williams’ commingling of funds in violations of the Regulations; and Williams’ failure to
+accept funds in the name of the pool in violations of the Regulations.
 
 6. During the Relevant Period, Williams, without registering with the
 Commission as a CPO, solicited, accepted, and received funds from the public while
@@ -101,9 +101,9 @@ form of enterprise, for the purpose of, among other things, trading in commodity
 contracts.
 
 7. By virtue of this conduct, and as more fully set forth below, Defendants
-have engaged, are engaging, or are about to engage in acts and practices in violation of
+have engaged, are engaging, or are about to engage in acts and practices in violations of
 Sections 4b(a)(1)(A)-(C) of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C)(2012), and Williams
-has engaged, is engaging, or is about to engage in acts and practices in violation of
+has engaged, is engaging, or is about to engage in acts and practices in violations of
 Sections 4m(1), 40(1)(A) and (B) of the Act, 7 U.S.C. §§ 6m(1), 60(1)(A) and (B)
 (2012), and Regulations 4.20(a)(1), (b), and (c), 17 C.F.R. §§ 4.20(a)(1), (b), and (c)
 
@@ -136,12 +136,12 @@ Act, 7 U.S.C. § 13a-1 (2012), which authorizes the Commission to seek injunctiv
 other relief against any person whenever it appears to the Commission that such person
 has engaged, 1s engaging, or is about to engage in any act or practice constituting a
 
-violation of any provision of the Act or any rule, regulation, or order thereunder.
+violations of any provision of the Act or any rule, regulation, or order thereunder.
 Case 2:17-cv-01325-JJT Document 1 Filed 05/03/17 Page 5 of 20
 
 13. Venue properly lies with the Court pursuant to Section 6c(e) of the Act, 7
 U.S.C. § 13a-1(e) (2012), because the Defendants transacted business in the District of
-Arizona, and acts and practices in violation of the Act and Regulations occurred, are
+Arizona, and acts and practices in violations of the Act and Regulations occurred, are
 occurring, or are about to occur within this District.
 
 Il. PARTIES
@@ -291,7 +291,7 @@ by the Act and was operating the pool without the required CPO
 registration;
 
 e. Williams commingled participants’ funds with his own funds and
-WAG’s funds in violation of federal law; and
+WAG’s funds in violations of federal law; and
 
 f. Purported “returns” or withdrawals of principal paid to some pool
 participants were in fact the principal deposits of other pool participants
@@ -353,10 +353,10 @@ not return their funds because the trading firm where the account was located ha
 the account. Williams failed to comply with participants’ redemption demands, and the
 majority of participants were unable to obtain a return of their funds.
 
-V. VIOLATIONS OF THE COMMODITY EXCHANGE ACT
+V. violations OF THE COMMODITY EXCHANGE ACT
 COUNT ONE
 FRAUD IN CONNECTION WITH COMMODITY FUTURES CONTRACTS
-VIOLATIONS OF SECTIONS 4b(a)(1)(A)-(C) OF THE ACT
+violations OF SECTIONS 4b(a)(1)(A)-(C) OF THE ACT
 (Against all Defendants)
 
 35. The allegations set forth in the preceding paragraphs are re-alleged and
@@ -402,7 +402,7 @@ and omissions about Williams’ trading abilities and profits, and Williams’ u
 deposited funds; (41) misappropriating pool participants’ funds to trade in Williams’
 Personal Trading Accounts, to pay redemptions or to pay for Williams’ personal
 expenses; and (111) providing text messages to participants with fabricated weekly profits,
-all in violation of Sections 4b(a)(1)(A)-(C) of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C)
+all in violations of Sections 4b(a)(1)(A)-(C) of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C)
 (2012).
 
 38. | Williams engaged in the acts and practices described above knowingly,
@@ -426,12 +426,12 @@ and Regulation 1.2, 17 C.F.R. § 1.2 (2016).
 
 41. Each act of fraudulent solicitation, misappropriation and false statement or
 report, including but not limited to those specifically alleged herein, is alleged as a
-separate and distinct violation of Section 4b(a)(1)(A)-(C) of the Act, 7 U.S.C.
+separate and distinct violations of Section 4b(a)(1)(A)-(C) of the Act, 7 U.S.C.
 
 §§ 6b(a)(1)(A)-(C) (2012).
 COUNT TWO
 FRAUD BY A COMMODITY POOL OPERATOR
-VIOLATIONS OF SECTIONS 40(1)(A) and (B) OF THE ACT
+violations OF SECTIONS 40(1)(A) and (B) OF THE ACT
 (Against Cory Williams)
 
 42. The allegations set forth in the preceding paragraphs are re-alleged and
@@ -467,12 +467,12 @@ required by the Act.
 
 46. Each act of fraudulent solicitation, misappropriation and false statement or
 report, including but not limited to those specifically alleged herein, is alleged as a
-separate and distinct violation of Sections 40(1)(A) and (B) of the Act, 7 U.S.C.
+separate and distinct violations of Sections 40(1)(A) and (B) of the Act, 7 U.S.C.
 
 §§ 60(1)(A) and (B) (2012).
 COUNT THREE
 PROHIBITED ACTIVITIES BY A COMMODITY POOL OPERATOR
-VIOLATION OF REGULATIONS 4.20(A)(1), (B), and (C)
+violations OF REGULATIONS 4.20(A)(1), (B), and (C)
 (Against Cory Williams)
 
 47. The allegations set forth in the preceding paragraphs are re-alleged and
@@ -492,7 +492,7 @@ purpose of, among other things, trading in commodity futures.
 50. During the Relevant Period, Williams, in operating an investment trust,
 syndicate, or similar form of enterprise for the purpose of, among other things, trading in
 commodity futures, did not operate the pool as an entity cognizable as a legal entity
-separate from himself, the pool operator, in violation of Regulation 4.20(a)(1), 17 C.F.R.
+separate from himself, the pool operator, in violations of Regulation 4.20(a)(1), 17 C.F.R.
 § 4.20(a)(1) (2016).
 
 51. Regulation 4.20(b), 17 C.F.R. § 4.20(b) (2016), provides: “All funds,
@@ -506,7 +506,7 @@ investment trust, syndicate, or similar form of enterprise for the purpose of, a
 things, trading in commodity futures, failed to operate the pool as an entity cognizable as
 a legal entity separate from the pool operator, and received funds, securities or other
 property from existing or prospective pool participants for the purchase of an interest in
-the pool without receiving same in the pool’s name, in violation of Regulation 4.20(b), 17
+the pool without receiving same in the pool’s name, in violations of Regulation 4.20(b), 17
 C.F.R. § 4.20(b) (2016).
 
 53. Regulation 4.20(c), 17 C.F.R. § 4.20(c) (2016), provides, “No commodity
@@ -522,16 +522,16 @@ participants’ funds by: failing to maintain pool funds separately from William
 
 and WAG’s funds; commingling pool funds with the personal funds of Williams and
 Brittany Williams and the funds of WAG; and, placing pool funds into the personal bank
-and trading accounts of Williams, in violation of Regulation 4.20(c), 17 C.F.R. § 4.20(c)
+and trading accounts of Williams, in violations of Regulation 4.20(c), 17 C.F.R. § 4.20(c)
 (2016).
 
 55. Each act and/or omission of Williams, including but not limited to those
-specifically alleged herein, is alleged as a separate and distinct violation of Regulations
+specifically alleged herein, is alleged as a separate and distinct violations of Regulations
 4.20(a)(1), (b) and (c), 17 C.F.R. §§ 4.20(a)(1), (b) and (c) (2016).
 
 COUNT FOUR
 FAILURE TO REGISTER AS A COMMODITY POOL OPERATOR
-VIOLATION OF SECTION 4m(1) OF THE ACT
+violations OF SECTION 4m(1) OF THE ACT
 (Against Cory Williams)
 
 56. The allegations in the preceding paragraphs are re-alleged and incorporated
@@ -544,7 +544,7 @@ or instrumentality of interstate commerce in connection with its business as a C
 58. | During the Relevant Period, Williams engaged in the acts and practices
 described above using the mails or instrumentalities of interstate commerce, including but
 not limited to: telephone, electronic mail, and text messages, while failing to register with
-the Commission, in violation of Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2012).
+the Commission, in violations of Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2012).
 
 59. During the Relevant Period, Williams was not exempt from registering as a
 
@@ -556,7 +556,7 @@ CPO.
 60. Each use of the mails or instrumentalities of interstate commerce, including
 but not limited to: telephone, electronic mail, and text messages by Williams, including
 but not limited to those specifically alleged herein, is alleged as a separate and distinct
-violation of Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2012).
+violations of Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2012).
 
 VI. RELIEF REQUESTED
 
@@ -656,16 +656,16 @@ received by them as a result of the acts and practices which constituted
 violations of the Act and Regulations, as described herein;
 
 An order directing Defendants to pay a civil monetary penalty for each
-violation of the Act and the Regulations described herein, plus post-
+violations of the Act and the Regulations described herein, plus post-
 
 judgment interest, in the amount of the higher of: (1) $170,472 for each
 
 19
 Case 2:17-cv-01325-JJT Document 1 Filed 05/03/17 Page 20 of 20
 
-violation of the Act and Regulations committed; or (2) triple the monetary
+violations of the Act and Regulations committed; or (2) triple the monetary
 
-gain to Defendants for each violation of the Act and the Regulations, plus
+gain to Defendants for each violations of the Act and the Regulations, plus
 
 post-judgment interest;
 

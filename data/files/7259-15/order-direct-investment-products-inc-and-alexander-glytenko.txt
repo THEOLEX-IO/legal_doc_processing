@@ -312,7 +312,7 @@ A. Jurisdiction and Venue
 The Court has jurisdiction over this matter pursuant to Section 6c of the Act.
 See 7 U.S.C. §§ 13a-1. Section 6c(a) authorizes the Commission to seek injunctive
 relief in federal district court against any person who appears to have engaged, or be
-about to engage, in any violation of the Act or “any rule, regulation, or order
+about to engage, in any violations of the Act or “any rule, regulation, or order
 thereunder.” 7 U.S.C. § 13a-1(a). Under Section 6c(e), venue is appropriate in the
 district “wherein the defendant is found or is an inhabitant or transacts business[,] or
 in the district where the act or practice occurred, is occurring, or is about to occur.”
@@ -386,7 +386,7 @@ co at” RT tl Oe UDlULN DOU lUcCOCOlUlClCCOCOClOOUlUlUNUCNClCUOC DCU Nl =
 
 Case 3:13-cv-02887-BAS-MDD Document 91 Filed 09/21/15 Page 8 of 22
 
-a. Counts One --Three: Violations of § 4b(a)(1)(A}{C)
+a. Counts One --Three: violations of § 4b(a)(1)(A}{C)
 
 The Commission alleges Defendants violated Section 4b(a)(1)(A)-(C) of the
 Act, 7 U.S.C. § 6b(a)(1)(A)-(C), as amended, by “misrepresentations and omissions
@@ -517,7 +517,7 @@ ii. Count Two: Fraud by Misappropriation
 The Court finds the Commission has pleaded facts sufficient to find
 Defendants liable for Glytenko’s personal loan to himself from the participants’
 funds. Misappropriation of funds entrusted to one for trading purposes is a “willful
-and blatant” fraud, in violation of Section 4(b)(a)(1)(A) and (C) of the Act. Driver,
+and blatant” fraud, in violations of Section 4(b)(a)(1)(A) and (C) of the Act. Driver,
 877 F. Supp. 2d at 978, aff'd 585 F. App’x 366 (quoting Commodity Futures Trading
 Comm’n v. Weinberg, 287 F. Supp. 2d 1100, 1106 (C.D. Cal. 2003)).
 
@@ -559,7 +559,7 @@ co nN DN th OO SelUlUwhULDNDllCUe—lUcCOlUlClCUNCOOClUOmrlUNSLSlUlUMGDlCOCUOCRO
 
 Case 3:13-cv-02887-BAS-MDD Document 91 Filed 09/21/15 Page 11 of 22
 
-b. Count 4: Violation of Section 40(1)(A)(B)
+b. Count 4: violations of Section 40(1)(A)(B)
 The Commission alleges Defendants violated Section 40(1)(A){B) of the Act,
 7 U.S.C. §60. Section 40(1) prohibits a commodity pool operator or its associated
 
@@ -634,7 +634,7 @@ verified the content of the internet site and, therefore, is liable for its
 misrepresentations. As discussed above, since he was acting as an agent for DIP at
 the time, this liability is extended to DIP.
 
-c. Count 5: Violations of Commission Regulation 4.41(b)
+c. Count 5: violations of Commission Regulation 4.41(b)
 
 The Commission alleges Defendants violated Commission Regulation 4.41(b),
 governing advertising by commodity pool operators and their principals. See 17
@@ -720,7 +720,7 @@ C. Remedies
 1. Permanent Injunctive Relief
 The Commission seeks permanent injunctive relief against Defendants under
 Section 6c of the Act, 7 U.S.C. § 13a-1, prohibiting future violations. To obtain
-permanent injunctive relief, the Commission must establish a violation as well as
+permanent injunctive relief, the Commission must establish a violations as well as
 “some reasonable likelihood of future violations.” Commodity Futures Trading
 Comm'n v. Hunt, 591 F.2d 1211, 1220 (7th Cir. 1979) (internal citations omitted).
 “While past misconduct does not lead necessarily to the conclusion that there is a
@@ -830,9 +830,9 @@ the amount of $1,392,000, triple the $464,000 misappropriated by Defendants.
 Under Section 6c(d) of the Act:
 
 the court shall have jurisdiction to impose, on a proper showing, on any
-person found in the action to have committed any violation... a civil
+person found in the action to have committed any violations... a civil
 penalty in the amount of not more than the greater of $100,000° or triple
-the monetary gain to the person for each violation.
+the monetary gain to the person for each violations.
 
 7 U.S.C. § 13a-1(d)(1).
 
@@ -854,7 +854,7 @@ as follows:
 A. Permanent Injunction
 
 Based on the foregoing, Defendants DIP and Glytenko are hereby permanently
-enjoined from directly or indirectly engaging in conduct in violation of Sections
+enjoined from directly or indirectly engaging in conduct in violations of Sections
 4b(a)(1)(AH{C) and 40(1)(A) & (B) of the Act, 7 U.S.C. §§ 6b(a)(1)(A){C),
 60(1)(A) & (B); and Commission Regulation 4.41(b), 17 C.F.R. § 4.41(b).
 
@@ -863,7 +863,7 @@ Defendants are also permanently enjoined from the following:
  
 
 > The Commission passed regulations fixing this amount at $130,000 per
-violation for acts before October 23, 2008, and $140,000 per violation for acts on or
+violations for acts before October 23, 2008, and $140,000 per violations for acts on or
 after October 23, 2008. See C.F.R. § 143.8(a)(1).
 
 —-15- 130v2887

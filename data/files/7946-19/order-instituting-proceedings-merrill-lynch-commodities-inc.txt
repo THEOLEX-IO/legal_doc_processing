@@ -21,7 +21,7 @@ Respondent.
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I. INTRODUCTION
 
@@ -42,7 +42,7 @@ Without admitting or denying any of the findings or conclusions herein, except t
 Respondent admits those findings in any related action against Respondent by, or any agreement
 with, the United States Department of Justice or any other governmental agency or office,
 Respondent consents to the entry of this Order Instituting Proceedings Pursuant to Section 6(c)
-and 6(d) of the Commodity Exchange Act, Making Findings, and Imposing Remedial Sanctions
+and 6(d) of the Commodity Exchange Act, Making Findings, and Imposing Remedial sanctions
 (“Order”), and acknowledges service of this Order.’
 
  
@@ -75,9 +75,9 @@ certain of its traders (“Traders”) placed orders to buy or sell gold, silver
 with the intent to cancel the orders before execution. The Traders engaged in this conduct with
 the intent to manipulate market prices and ultimately did cause artificial prices. By and through
 the acts of these Traders, Respondent engaged in manipulation and attempted manipulation in
-violation of Section 9(a)(2) of the Act, 7 U.S.C. § 13(a)(2) (2012), and, for conduct occurring on
-or after August 15, 2011, spoofing in violation of Section 4c(a)(5)(C) of the Act, 7 U.S.C. §
-6c(a)(5)(C) (2012), and manipulation and attempted manipulation in violation of Section 6(c)(1)
+violations of Section 9(a)(2) of the Act, 7 U.S.C. § 13(a)(2) (2012), and, for conduct occurring on
+or after August 15, 2011, spoofing in violations of Section 4c(a)(5)(C) of the Act, 7 U.S.C. §
+6c(a)(5)(C) (2012), and manipulation and attempted manipulation in violations of Section 6(c)(1)
 and 6(c)(3) of the Act, 7 U.S.C. § 9(1), 9(3) (2012), and Regulations 180.1 and 180.2, 17 C.F.R.
 §§ 180.1, 180.2 (2018).
 
@@ -154,7 +154,7 @@ has significantly enhanced its compliance systems and policies related to spoofi
 manipulative conduct in Precious Metals futures contracts, and futures contracts generally.
 il. LEGAL DISCUSSION
 
-A. Spoofing in Precious Metals Futures Markets, in Violation of Section 4¢e(a)(5)(C) of
+A. Spoofing in Precious Metals Futures Markets, in violations of Section 4¢e(a)(5)(C) of
 the Act
 
 Section 4c(a)(5)(C) of the Act makes it unlawful for “[a]ny person to engage in any
@@ -164,14 +164,14 @@ intent to cancel the bid or offer before execution).” 7 U.S.C. § 6c(a)(5)(C) 
 
 As described above, on numerous occasions during the Relevant Period, the Traders
 entered bids or offers on a registered entity with the intent to cancel the bids or offers before
-execution, in violation of Section 4c(a)(5)(C) of the Act. See, e.g., CFTC v. Oystacher, 203 F.
+execution, in violations of Section 4c(a)(5)(C) of the Act. See, e.g., CFTC v. Oystacher, 203 F.
 Supp. 3d 934, 942 (N.D. Ill. 2016) (denying motion for judgment on the pleadings, holding that
 allegations of placing “both bids and offers with the intent to cancel those bids or offers before
 execution” constitutes “trading behavior [that] falls within the Spoofing Statute’s defined
 prohibition”).
 
 B. Manipulation and Attempted Manipulation of the Price of Precious Metals Futures
-Contracts, in Violation of Section 9(a)(2) of the Act, and (for Conduct Occurring on
+Contracts, in violations of Section 9(a)(2) of the Act, and (for Conduct Occurring on
 or After August 15, 2011) Section 6(c)(1) and 6(c)(3) of the Act and Regulations
 180.1 and 180.2
 
@@ -181,7 +181,7 @@ subject to the rules of any registered entity.” 7 U.S.C. § 13(a)(2) (2012).
 
 For conduct occurring on or after August 15, 2011, Section 6(c)(1) of the Act prohibits
 the use or attempted use of any manipulative or deceptive device in connection with any swap or
-contract of sale of any commodity in interstate commerce, or for future delivery, in violation of
+contract of sale of any commodity in interstate commerce, or for future delivery, in violations of
 Regulation 180.1(a)(1), which makes it “unlawful ..., directly or indirectly, in connection with
 any swap, or contract of sale of any commodity in interstate commerce, or contract for future
 delivery on or subject to the rules of any registered entity, to... (1) [uJse... or attempt to use...
@@ -194,7 +194,7 @@ delivery on or subject to the rules of any registered entity.”
 
 As described above, Respondent, by and through the acts of the Traders, manipulated and
 attempted to manipulate the price of Precious Metals futures contracts by utilizing manual
-spoofing techniques, in violation of: Section 9(a)(2) of the Act; and, for conduct occurring on or
+spoofing techniques, in violations of: Section 9(a)(2) of the Act; and, for conduct occurring on or
 after August 15, 2011, Section 6(c)(1) and 6(c)(3) of the Act and Regulations 180.1 and 180.2.
 C. Respondent Is Liable for the Acts of Its Agents
 
@@ -210,17 +210,17 @@ Advisory, Inc. v. CFTC, 837 F.2d 847, 857-58 (9th Cir. 1988); CFTC v. Byrnes, 58
 
 The Traders engaged in the conduct described herein within the course and scope of their
 employment with MLCI; therefore, pursuant to Section 2(a)(1)(B) of the Act and Regulation 1.2,
-Respondent is liable for the acts, omissions, and failures of the Traders in violation of the
+Respondent is liable for the acts, omissions, and failures of the Traders in violations of the
 provisions of the Act and Regulations cited above.
 
-IV. FINDINGS OF VIOLATIONS
+IV. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period, the
 Respondent, by and through its agents, the Traders, engaged in manipulation and attempted
-manipulation in violation of Section 9(a)(2) of the Act, 7 U.S.C. § 13(a)(2) (2012), and, for
-conduct occurring on or after August 15, 2011, spoofing in violation of Section 4c(a)(5)(C) of
+manipulation in violations of Section 9(a)(2) of the Act, 7 U.S.C. § 13(a)(2) (2012), and, for
+conduct occurring on or after August 15, 2011, spoofing in violations of Section 4c(a)(5)(C) of
 the Act, 7 U.S.C. § 6c(a)(5)(C) (2012), and manipulation and attempted manipulation in
-violation of Section 6(c)(1) and 6(c)(3) of the Act, 7 U.S.C. § 9(1), 9(3) (2012), and Regulations
+violations of Section 6(c)(1) and 6(c)(3) of the Act, 7 U.S.C. § 9(1), 9(3) (2012), and Regulations
 180.1 and 180.2, 17 C.F.R. §§ 180.1, 180.2 (2018).
 
 Vv. OFFER OF SETTLEMENT
@@ -234,7 +234,7 @@ A. Acknowledges service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C. Waives:
 l. The filing and service of a complaint and notice of hearing;
@@ -544,7 +544,7 @@ Respondent’s Request Letter, the Commission advises* that, under the circumsta
 
 * Rule 506(d)(I)(Gii)(B) disqualifies an issuer from relying on the private offering exemptions provided for in Rule
 506 if they or certain related parties are “subject to a final order of. . . [inter alia] the U.S. Commodity Futures
-Trading Commission... that: ... [c]onstitutes a final order based on a violation of any law or regulation that
+Trading Commission... that: ... [c]onstitutes a final order based on a violations of any law or regulation that
 
 1]
 disqualification under Rule 262(a) of Regulation A and Rule 506(d)(1) of Regulation D
@@ -581,8 +581,8 @@ D, See SEC, Div. of Corp. Fin., Waivers of Disqualification Under Regulation A a
 Regulation D, https://www.sec.gov/divisions/corpfin/guidance/ disqualification-waivers.shtml; SEC, Div. of Corp.
 Fin., Rule 504 of Regulation D: A Small Entity Compliance Guide for Issuers,
 https://www.sec. gov/divisions/corpfin/guidance/rule504-issuer-small-entity-compliance.html. The SEC considers
-the following primary factors in determining whether to grant a waiver request: (i) the nature of the violation and
-whether it involved the offer or sale of securities; (ii) whether the violation required scienter; (iii) who was
+the following primary factors in determining whether to grant a waiver request: (i) the nature of the violations and
+whether it involved the offer or sale of securities; (ii) whether the violations required scienter; (iii) who was
 responsible for the misconduct; (iv) what was the duration of the misconduct; (v) what remedial steps have been
 taken; and (vi) the impact on the party seeking a waiver and third parties if a waiver is denied.
 

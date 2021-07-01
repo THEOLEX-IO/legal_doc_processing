@@ -30,7 +30,7 @@ Nee Ne ee ee ee “ee ee Nee “Nee”
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT,
-MAKING FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+MAKING FINDINGS AND IMPOSING REMEDIAL sanctions
 
 I.
 
@@ -48,7 +48,7 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (“Offer’’) that the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and 6(d) of the
-Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions (“Order’’) and
+Commodity Exchange Act, Making Findings and Imposing Remedial sanctions (“Order’’) and
 acknowledges service of this Order.’
 
  
@@ -108,19 +108,19 @@ However, Posen continued to place spoof orders until the end of the Relevant Per
 
 IV.
 LEGAL DISCUSSION
-Section 4c(a)(5)(C) of the Act—Spoofing Violations
+Section 4c(a)(5)(C) of the Act—Spoofing violations
 
 Section 4c(a)(5) of the Act makes it unlawful for “[a]ny person to engage in any trading,
 practice, or conduct on or subject to the rules of a registered entity that .. . is, is of the character
 of, or is commonly known to the trade as, ‘spoofing’ (bidding or offering with the intent to
 cancel the bid or offer before execution).” As described above, Posen entered into thousands of
 bids or offers on a registered entity with the intent to cancel the bids or offers before execution in
-violation of Section 4c(a)(5)(C) of the Act. See, e.g., CFTC v. Oystacher et al., No. 15-CV-
+violations of Section 4c(a)(5)(C) of the Act. See, e.g., CFTC v. Oystacher et al., No. 15-CV-
 9196, 2016 WL 4439945 (N.D. Ill. Dec. 20, 2016); CFTC v. Sarao, No. 15-CV-3398 (N.D. Il.
 Nov. 14, 2016); CFTC v. Khara and Salim, No. 15-CV-03497 (S.D.N.Y. March 31, 2016).
 
 V.
-FINDINGS OF VIOLATIONS
+FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that Posen violated Section 4c(a)(5)(C) of
 the Act.
@@ -135,7 +135,7 @@ A. Acknowledges receipt of service of this Order;
 
 B. Admits the jurisdiction of the Commission to all the matters set forth in this Order
 and for any action or proceeding brought or authorized by the Commission based on a
-violation of or enforcement of this Order;
+violations of or enforcement of this Order;
 
 C. Waives:
 (1) the filing and service of a complaint and notice of hearing;

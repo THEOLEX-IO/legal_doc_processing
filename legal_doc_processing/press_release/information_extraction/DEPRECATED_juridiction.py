@@ -164,7 +164,7 @@
 #     merged_ans = merge_ans(cleaned_ans, label=answer_label)
 
 #     # filert by spacy entities
-#     # we are sure that a personn or an org is NOT a violation so
+#     # we are sure that a personn or an org is NOT a violations so
 #     # if a prediction is in pers_org_entities_list, plz drop it
 #     consitant_ans = [i for i in merged_ans if i[answer_label] in pers_org_all]
 

@@ -43,7 +43,7 @@ Respondent.
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT,
-MAKING FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+MAKING FINDINGS AND IMPOSING REMEDIAL sanctions
 
 I.
 
@@ -63,7 +63,7 @@ Without admitting or denying any of the findings or conclusions herein, except a
 Commission’s jurisdiction over it and the subject matter of these proceedings, which are
 admitted, Respondent consents to the entry of this Order Instituting Proceedings Pursuant to
 Sections 6(c) and 6(d) of the Commodity Exchange Act, Making Findings and Imposing
-Remedial Sanctions (“Order”) and acknowledges service of this Order. '
+Remedial sanctions (“Order”) and acknowledges service of this Order. '
 
  
 
@@ -358,7 +358,7 @@ Section 40(1)(B) of the Act prohibits CPOs from engaging, by use of the mails or
 means or instrumentality of interstate commerce, directly or indirectly in “any transaction,
 practice, or course of business which operates as a fraud or deceit upon any client or participant
 or prospective client or participant.” 7 U.S.C. § 60(1)(B). Scienter is not required to prove a
-violation of Section 40(1)(B). See In re Slusser, [1998-1999 Transfer Binder] Comm. Fut. L.
+violations of Section 40(1)(B). See In re Slusser, [1998-1999 Transfer Binder] Comm. Fut. L.
 Rep. (CCH) 927,701 at 48,315 (CFTC July 19, 1999), aff'd in relevant part, Slusser v. CFTC,
 210 F.3d 783 (7th Cir. 2000).
 
@@ -398,7 +398,7 @@ notes to its financial statements regarding its valuation methodology which were
 Accordingly, Equinox violated Regulation 4.22(c).
 
 V.
-FINDINGS OF VIOLATION
+FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period, Equinox
 Fund Management, LLC violated Section 40(1)(B) of the Act, 7 U.S.C. § 60(1)(B), and
@@ -414,7 +414,7 @@ A. Acknowledges receipt of service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C. Waives:
 1. the filing and service of a complaint and notice of hearing;
@@ -521,7 +521,7 @@ ninety (90) days of the earlier of (1) the date of entry of this Order or (2) th
 of entry of the Order Instituting Administrative and Cease-And-Desist
 Proceedings Pursuant to Section 8a of The Securities Act Of 1933, Section 21c Of
 The Securities Exchange Act Of 1934, And Section 203(E) Of The Investment
-Advisers Act Of 1940, Making Findings, and Imposing Remedial Sanctions and A
+Advisers Act Of 1940, Making Findings, and Imposing Remedial sanctions and A
 Cease-And-Desist captioned “In the matter of Equinox Fund Management, LLC”
 promulgated by the Securities Exchange Commission (“SEC Order”).
 Respondent shal] pay the balance of the Disgorgement Obligation by September

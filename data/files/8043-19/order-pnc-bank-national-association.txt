@@ -29,7 +29,7 @@ Respondent. ) Ne yy,
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I, INTRODUCTION
 
@@ -48,7 +48,7 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
-Exchange Act, Making Findings, and Imposing Remedial Sanctions (“Order”) and acknowledges
+Exchange Act, Making Findings, and Imposing Remedial sanctions (“Order”) and acknowledges
 service of this Order,’
 
  
@@ -190,7 +190,7 @@ by reconfiguring its data system to report to DTCC using the correct ID.
 
 5, PNC’s Self-Reporting, Cooperation, and Remediation
 
-After self-identifying that it was in violation of certain requirements related to SDR
+After self-identifying that it was in violations of certain requirements related to SDR
 reporting, PNC immediately initiated a broad internal review of its swaps reporting compliance.
 PNC promptly disclosed to the Division the preliminary results of that review, despite not
 knowing the extent of its violative conduct. Following its disclosure, PNC continued to conduct
@@ -290,26 +290,26 @@ At certain times during the Relevant Period, PNC failed to report all required i
 and data in accordance with Part 45. Across a variety of asset classes, PNC submitted tens of
 thousands of data reports that were missing required information in forty-three unique data
 
-‘fields, in violation of Regulation 45.3. PNC failed to report continuation data properly, in
-violation of Regulation 45.4, with respect to thousands of modified FX trades that PNC
+‘fields, in violations of Regulation 45.3. PNC failed to report continuation data properly, in
+violations of Regulation 45.4, with respect to thousands of modified FX trades that PNC
 incorrectly reported as having been cancelled and replaced with a new USI (thereby inflating the
 apparent volume of its transactions), as well as several hundred interest rate swap trades where
 PNC failed to report newly acquired LEIs for counterparties that lacked LEIs at the time of the
-trade, in further violation of Regulation 45.6. Because PNC, a swap dealer, failed to comply
+trade, in further violations of Regulation 45.6. Because PNC, a swap dealer, failed to comply
 with these Part 45 requirements, PNC also violated Regulation 23.204(a). PNC’s practice of
 manually reporting commodity swaps and its use of an erroneous user ID for FX options caused
 hundreds of trades in those asset classes to be reported on a T+1 basis rather than in real time, in
-violation of Regulations 43.3(a) and 43.4(a).
+violations of Regulations 43.3(a) and 43.4(a).
 
 Cc. Liability for Acts of Agents
 
 The foregoing acts, omissions, and failures of PNC’s employees occurred within the
 scope of their employment, office, or agency with PNC; therefore, pursuant to Section 2(a)(1)(B)
 of the Act, 7 U.S.C. § 2(a)(1)(B) (2012), and Regulation 1.2, 17 C.F.R. § 1.2 (2018), PNC is
-liable for those acts, omissions, and failures in violation of Sections 2(a)(13)(G), 4r(a)(3), and
+liable for those acts, omissions, and failures in violations of Sections 2(a)(13)(G), 4r(a)(3), and
 4s(f) of the Act, and Regulations 20.4, 20.7, 23.204, 43.3, 43.4, 45.3, 45.4, and 45.6.
 
-IV. FINDINGS OF VIOLATIONS
+IV. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period, PNC
 violated Sections 2(a)(13)(G), 41(a)(3), and 4s(f) of the Act, 7 U.S.C. §§ 2(a)(13)(G), 6r(a)(3),
@@ -325,7 +325,7 @@ A. Acknowledges service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought.or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C. Waives:
 1. The filing and service of a complaint and notice of hearing;

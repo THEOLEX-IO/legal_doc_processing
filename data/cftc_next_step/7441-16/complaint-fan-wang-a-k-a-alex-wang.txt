@@ -36,7 +36,7 @@ sweet crude oil futures contracts (“crude oil futures”) for a Company A prop
 account that same day. These manual entries in Company A’s computerized trading records
 constituted false reports in connection with contracts of sale of a commodity in interstate
 commerce for future delivery, made on or subject to the rules of a designated contract market, for
-or on behalf of any other person, in violation of Section 4b(a)(1)(B) of the Commodity Exchange
+or on behalf of any other person, in violations of Section 4b(a)(1)(B) of the Commodity Exchange
 
 Act (“Act”), 7 U.S.C. § 6b(a)(1)(B) (2012).
 2. Pursuant to Section 6c of the Act, 7 U.S.C. § 13a-1 (2012), the Commission
@@ -53,7 +53,7 @@ I. JURISDICTION AND VENUE
 4. Section 6c of the Act, 7 U.S.C. § 13a-1 (2012), authorizes the Commission to
 seek injunctive and other relief against any person whenever it appears to the Commission that
 such person has engaged, is engaging, or is about to engage in any act or practice constituting a
-violation of any provision of the Act or any rule, regulation, or order thereunder.
+violations of any provision of the Act or any rule, regulation, or order thereunder.
 
 5. Pursuant to Section 6c(e) of the Act, 7 U.S.C. § 13a-1(e) (2012), venue properly
 lies with the Court, because Wang transacted business in this district and his acts and practices
@@ -110,16 +110,16 @@ computerized trading records that the entries were false.
 trading records that making such false entries was illegal.
 
 15. On July 24, 2014, in a court in this District, Wang pled guilty to one count of
-making a false report in connection with a commodities transaction in violation of Section
+making a false report in connection with a commodities transaction in violations of Section
 4b(a)(1)(B) of the Act, 7 U.S.C. § 6b(a)(1)(B) (2012), based on substantially the same facts as
 alleged above. United States v. Wang, Case No. 1:14-cr-00411 (S.D.N.Y. Jul. 16, 2014) (ECF
 No. 16).
 
-VI. VIOLATIONS OF THE COMMODITY EXCHANGE ACT
+VI. violations OF THE COMMODITY EXCHANGE ACT
 COUNTI
 FALSE REPORTS IN CONNECTION WITH COMMODITY FUTURES
 TRANSACTIONS
-Violations of 7 U.S.C. § 6b(a)(1)(B) (2012)
+violations of 7 U.S.C. § 6b(a)(1)(B) (2012)
 
 16. Paragraphs | through 15 of this Complaint are re-alleged and incorporated herein
 by reference.
@@ -159,10 +159,10 @@ created from some of those purchases.
 
 20. Each of these manual entries Wang made in Company A’s computerized trading
 records on the Relevant Date constituted a false report in connection with a commodity
-transaction in violation of Section 4b(a)(1)(B) of the Act, 7 U.S.C. § 6b(a)(1)(B) (2012).
+transaction in violations of Section 4b(a)(1)(B) of the Act, 7 U.S.C. § 6b(a)(1)(B) (2012).
 
 21. Each false report in connection with a commodity transaction made on the
-Relevant Date is alleged as a separate and distinct violation of Section 4b(a)(1)(B) of the Act,
+Relevant Date is alleged as a separate and distinct violations of Section 4b(a)(1)(B) of the Act,
 
 7 U.S.C. § 6b(a)(1)(B) (2012).
 
@@ -173,7 +173,7 @@ Section 6c of the Act, 7 U.S.C. § 13a-1 (2012), and pursuant to its own equitab
 A. An order finding that Wang violated Section 4b(a)(1)(B) of the Act,
 7 U.S.C. § 6b(a)(1)(B) (2012);
 B. An order of permanent injunction permanently restraining, enjoining, and
-prohibiting Wang from engaging in conduct in violation of Section 4b(a)(1)(B) of the Act,
+prohibiting Wang from engaging in conduct in violations of Section 4b(a)(1)(B) of the Act,
 7 U.S.C. § 6b(a)(1)(B) (2012);
 C. An order of permanent injunction prohibiting Wang from directly or indirectly:
 (1) Trading on or subject to the rules of any registered entity (as that term is
@@ -214,8 +214,8 @@ practices described herein which constitute violations of the Act, along with pr
 interest from the date of such violations, and post-judgment interest;
 
 E. An order directing Wang to pay a civil monetary penalty under the Act, plus post-
-judgment interest, for each violation of the Act described herein, in an amount of not more than
-$167,728 for each violation committed;
+judgment interest, for each violations of the Act described herein, in an amount of not more than
+$167,728 for each violations committed;
 
 F, An order requiring Wang to pay costs and fees as permitted by 28 U.S.C. §§ 1920
 and 2412 (2012); and

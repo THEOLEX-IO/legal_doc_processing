@@ -30,7 +30,7 @@ Respondent.
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I.
 
@@ -38,7 +38,7 @@ The Commodity Futures Trading Commission (“Commission”) has reason to believ
 AMP Global Clearing LLC (“Respondent”) violated Commission Regulation (“Regulation”)
 166.3, 17 C.F.R. § 166.3 (2017). Therefore, the Commission deems it appropriate and in the
 public interest that public administrative proceedings be, and hereby are, instituted to determine
-whether Respondent engaged in the violation set forth herein and to determine whether any order
+whether Respondent engaged in the violations set forth herein and to determine whether any order
 should be issued imposing remedial sanctions.
 
 I.
@@ -47,7 +47,7 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
-Exchange Act, Making Findings, and Imposing Remedial Sanctions (“Order’’) and acknowledges
+Exchange Act, Making Findings, and Imposing Remedial sanctions (“Order’’) and acknowledges
 service of this Order. '
 
  
@@ -186,10 +186,10 @@ ensure that the program is followed. See, e.g., /n re GNP Commodities, Inc., CFT
 1992 WL 201158, at *17-19 (Aug. 11, 1992), aff'd sub nom. Monieson v. CFTC, 996 F.2d 852
 (7th Cir. 1993).
 
-A violation of Regulation 166.3 is an independent violation for which no underlying
-violation is necessary. See GNP Commodities, 1992 WL 201158, at *17 n.11; In re Paragon
+A violations of Regulation 166.3 is an independent violations for which no underlying
+violations is necessary. See GNP Commodities, 1992 WL 201158, at *17 n.11; In re Paragon
 Futures Ass’n, CFTC No. 88-18, 1992 WL 74261, at *13 (Apr. 1, 1992). Consequently, a
-violation of Regulation 166.3 “is demonstrated by showing either that: (1) the registrant’s
+violations of Regulation 166.3 “is demonstrated by showing either that: (1) the registrant’s
 supervisory system was generally inadequate; or (2) the registrant failed to perform its
 supervisory duties diligently.” In re FCStone, LLC, CFTC No. 15-21, 2015 WL 2066891, at *3
 (May 1, 2015) (consent order) (citing Jn re Murlas Commodities, CFTC No. 85-29, 1995 WL
@@ -214,7 +214,7 @@ FCM to adopt policies and procedures to protect customer records and information
 naturally from this requirement is the FCM’s duty, under Regulation 166.3, to diligently
 supervise how those policies and procedures are implemented, and how the customer records and
 information are electronically protected. Here, Respondent’s failure to diligently supervise the
-IT Provider’s implementation of critical ISSP provisions constitutes a violation of Regulation
+IT Provider’s implementation of critical ISSP provisions constitutes a violations of Regulation
 166.3. This failure is evidenced by the fact that for nearly ten months, a significant amount of
 Respondent’s customers’ records and information were unprotected and vulnerable to cyber-
 exploitation—a vulnerability, and ultimately a breach, of which Respondent was unaware until
@@ -249,7 +249,7 @@ written information security and privacy program that is appropriate to its size
 integrity of personal information .. . and establish processes and controls to assess and mitigate risks, before
 implementing new or material changes to internal systems.”
 V.
-FINDINGS OF VIOLATIONS
+FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period,
 
@@ -270,7 +270,7 @@ Acknowledges receipt of service of this Order;
 
 Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 Waives:
 1, The filing and service of a complaint and notice of hearing;

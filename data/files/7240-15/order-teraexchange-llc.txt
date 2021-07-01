@@ -25,7 +25,7 @@ SECTIONS 6(c) AND 6(d) OF THE
 COMMODITY EXCHANGE ACT
 MAKING FINDINGS AND
 IMPOSING REMEDIAL
-SANCTIONS
+sanctions
 
 TeraExchange LLC,
 
@@ -51,7 +51,7 @@ Il.
 In anticipation of the institution of an administrative proceeding, Tera has submitted an
 Offer of Settlement (“Offer’’), which the Commission has determined to accept. Tera
 acknowledges service of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of
-the Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions (“Order”). '
+the Commodity Exchange Act, Making Findings and Imposing Remedial sanctions (“Order”). '
 
  
 
@@ -73,7 +73,7 @@ On October 8, 2014, two traders executed a transaction in a non-deliverable forw
 contract based on the relative value of the U.S. Dollar and Bitcoin, a virtual currency (the
 “Bitcoin swap”). Six minutes later, the two traders executed a fully offsetting transaction in the
 Bitcoin swap for the same price and notional amount. As a result, the two transactions (the
-“October 8 transactions”) constitute both wash trading and prearranged trading in violation of
+“October 8 transactions”) constitute both wash trading and prearranged trading in violations of
 Section 4c(a) of the Act, 7 U.S.C. § 6c(a) (2012).
 
 Tera arranged the two transactions with the understanding that the parties, who did not
@@ -234,7 +234,7 @@ negated risk.” Jn re Piasio, Comm. Fut. L. Rep. (CCH) 4 28,276 at 50,685 (citi
 1988), aff'd as to liability, Gimbel vy. CFTC, 872 F.2d 196 (7th Cir. 1989), and In re Bear Stearns
 & Co., [1990-1992 Transfer Binder] Comm. Fut. L. Rep. (CCH) ¥ 24,994 at 37,665 (CFTC Jan.
 25, 1991)); see also Reddy, 191 F.3d at 119 (“[T]he [Commission] must prove intent to establish
-a violation of... Section 4c of the” Act). The Commission need not, however, prove both intent
+a violations of... Section 4c of the” Act). The Commission need not, however, prove both intent
 to negate risk and intent to negate price competition; one or the other is sufficient to sustain a
 
  
@@ -289,7 +289,7 @@ Tera’s involvement allowed Trader A and Trader B to prearrange the transaction
 any market risk.
 
 As a result, the October 8 transactions constitute both wash trading and prearranged
-trading in violation of Section 4c(a) of the Act, 7 U.S.C. § 6c(a) (2012).
+trading in violations of Section 4c(a) of the Act, 7 U.S.C. § 6c(a) (2012).
 
  
 
@@ -322,7 +322,7 @@ misleading impression of trading volume in the Bitcoin swap.”
 
 IV.
 
-FINDINGS OF VIOLATIONS
+FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that Tera violated Section Sh(f)(2) of the
 Act, 7 U.S.C. § 7b-3(f)(2) (2012), and Regulation 37.203, 17 C.F.R. § 37.203 (2014), on October
@@ -338,7 +338,7 @@ A. Acknowledges receipt of service of this Order;
 
 B. Admit(s) the jurisdiction of the Commission with respect to all matters set forth in
 this Order and for any action or proceeding brought or authorized by the
-Commission based on violation of or enforcement of this Order;
+Commission based on violations of or enforcement of this Order;
 
  
 

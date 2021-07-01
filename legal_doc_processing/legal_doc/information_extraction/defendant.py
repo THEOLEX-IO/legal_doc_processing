@@ -55,8 +55,8 @@ def _question_selector(key: str) -> list:
         qs.extend(
             [
                 ("Who is the violator?", "what_violator"),
-                ("Who have made the violation?", "what_violator"),
-                ("Who has made the violation?", "what_violator"),
+                ("Who have made the violations?", "what_violator"),
+                ("Who has made the violations?", "what_violator"),
                 ("Who are the violators?", "what_violators"),
                 # ("What is the violator?", "what_violator"),
                 # ("What are the violators?", "what_violators"),

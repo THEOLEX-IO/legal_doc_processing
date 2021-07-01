@@ -501,12 +501,12 @@ A. Jurisdiction & Venue
 matter jurisdiction over this action pursuant to Section 6c of the Act, 7 U.S.C. § 18a-
 1 (2012), which authorizes the Commission to seek injunctive relief against any
 person whenever it appears that such person has engaged, is engaging, or is about
-to engage in any act or practice constituting a violation of any provision of the Act
+to engage in any act or practice constituting a violations of any provision of the Act
 or any rule, Regulation, or order thereunder.
 
 48. \ Venue properly lies with this Court under Section 6c(e) of the Act, 7
 U.S.C. §13a-1(¢) (2012), in that Defendants transacted business in this District, and
-that the acts and practices in violation of the Act and the Regulations have occurred
+that the acts and practices in violations of the Act and the Regulations have occurred
 within this district, among other places.
 
 B. Defendants’ Failure to Answer Warrants Entry of Default Judgment
@@ -556,7 +556,7 @@ judgment establishes, as a matter of law, that defendants are liable to plaintif
 
 each cause of action alleged in the complaint.” Wehrs, 688 F.3d at 892 (quoting e360
 Insight v. The Spamhaus Project, 500 F.3d 594, 602 (7th Cir. 2007)). Accordingly,
-the Court finds Defendants liable for each violation of the Act and Regulations
+the Court finds Defendants liable for each violations of the Act and Regulations
 
 alleged in the Complaint.
 
@@ -645,7 +645,7 @@ the Madoff scheme, (2) the value and location of assets purportedly held by the
 PIWM Portfolios, and (8) the PIWM Portfolios’ exposure to the MF Global
 bankruptcy.
 
-Battoo ts Liable for the Violations of the Act and Regulations Committed by
+Battoo ts Liable for the violations of the Act and Regulations Committed by
 
 BC Panama, BC Hong Kong, and BC Switzerland, as a Control Person
 
@@ -654,7 +654,7 @@ Pursuant to Section 13(b) of the Act, 7 U.S.C. § 18c(b) (2006)
 58. Section 18(b) of the Act defines a controlling person “[a]ny person who,
 directly or indirectly, controls any person who has violated any provision of the Act
 lif that controlling person] did not act in good faith or knowingly induced, directly or
-indirectly, the act or acts constituting the violation.” 7 U.S.C. § 18c(b) (2006). This
+indirectly, the act or acts constituting the violations.” 7 U.S.C. § 18c(b) (2006). This
 provision includes individuals, associations, partnerships, corporations and trusts
 that exercise control over persons who violate the Act and fail to act in good faith.
 See Monieson v. CFTC, 996 F.2d 852, 859-60 (7th Cir. 1998) (finding control person
@@ -686,7 +686,7 @@ Exchange Act of 1984 requires more than negligence).
 
 60. To establish the “knowing inducement” element, the Commission must
 show that “the controlling person had actual or constructive knowledge of the core
-activities that constitute the violation at issue and allowed them to continue.” JCC,
+activities that constitute the violations at issue and allowed them to continue.” JCC,
 Inc., 63 F.3d at 1568. Controlling persons cannot avoid liability by deliberately or
 recklessly avoiding knowledge about potential wrongdoing. See United States v.
 Ramsey, 785 F.2d 184, 188-89 (7th Cir. 1986) (allowing an “ostrich” jury instruction
@@ -718,7 +718,7 @@ Switzerland.
 
 BC Panama, BC Hong Kong, and BC Switzerland are Liable for Battoo’s
 
-Violations of the Act and Regulations Pursuant to Section 2(a)(1)(B) of the Act,
+violations of the Act and Regulations Pursuant to Section 2(a)(1)(B) of the Act,
 
 7 ULS.C. § 2(a)(1)(B) (2006), and Regulation 1.2, 17 C_F.R. § 1.2 (2012)
 
@@ -769,7 +769,7 @@ corporation, or trust, as well as of such official, agent, or other person.”
 Case: 1:12-cv-07127 Document #: 496 Filed: 01/11/16 Page 24 of 32 PagelD #:16148
 
 In order to obtain a permanent injunction, the Commission must show that a
-violation of the Act and/or Regulations occurred, and that there is some reasonable
+violations of the Act and/or Regulations occurred, and that there is some reasonable
 likelihood of future violations. See Hunt, 591 F.2d at 1220; see also Garofalo, 2011
 WL 4954082, at *6. Furthermore, “the commission of past illegal conduct is highly
 suggestive of the likelihood of future violations.” Garofalo, 2011 WL 4954085, at *6
@@ -799,7 +799,7 @@ that the defendant has engaged, or is engaging, in illegal conduct and that, unl
 
 restrained and enjomed by this Court, there is a reasonable likelihood that
 Defendants will continue to engage in the acts and practices alleged in the
-Complaint and in similar acts and practices in violation of the Act and the
+Complaint and in similar acts and practices in violations of the Act and the
 Regulations. Therefore, a permanent injunction is warranted.
 
 IT 1S HEREBY ORDERED THAT:
@@ -810,21 +810,21 @@ Regulations 33.10(a)-(c), 17 C.F.R. §§ 33.10(a)-(c) (2012). Therefore, judgmen
 be and hereby is entered in favor of the Commission and against Defendants as
 follows:
 
-A. Prohibition on Violations
+A. Prohibition on violations
 
 67. Defendants, all persons and entities insofar as they are acting in the
 capacity of agents, servants, employees, successors, assigns, or attorneys of
 Defendants, and all persons and entities insofar as they are acting in concert or
 - participation with Defendants who receive actual notice of this order by personal
 service or otherwise, shall be permanently prohibited, enjoined and restrained from
-directly or indirectly engaging in any conduct in violation of Sections 4b(a)(1)(A)-(C),
+directly or indirectly engaging in any conduct in violations of Sections 4b(a)(1)(A)-(C),
 4o(1), and 4c(b) of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C), 6o(1), and 6c(b) (2012), and
 Regulations 33.10(a)-(c), 17 C.F.R. §§ 33.10(a)-(c) (2015).
 
 B. Trading, Solicitation and Registration Prohibitions
 68, Permanent trading, solicitation and registration bans are appropriate
 
-when a defendant’s violation of the Act and/or Regulations poses a threat to the
+when a defendant’s violations of the Act and/or Regulations poses a threat to the
 
 25
 
@@ -978,16 +978,16 @@ Civil Monetary Penalty
 
 74. — Section 6c(d)(1) of the Act provides that “the Commission may seek and
 the Court shall have jurisdiction to impose ... on any person found in the action to
-have committed any violation, a civil penalty in the amount of not more than the
-higher of $100,000 or triple the monetary gain to the person for each violation.” 7
+have committed any violations, a civil penalty in the amount of not more than the
+higher of $100,000 or triple the monetary gain to the person for each violations.” 7
 U.S.C. §18a-1(d)(1) (2006). The Regulations adjust the statutory civil monetary
 penalty of $100,000 for inflation. See 17 C.F.R. § 148.8. For the period at issue, the
-statutory civil monetary penalty was $130,000 per violation (for violations
-committed prior to October 23, 2008) and $140,000 per violation (for violations
+statutory civil monetary penalty was $130,000 per violations (for violations
+committed prior to October 23, 2008) and $140,000 per violations (for violations
 committed thereafter). Jd. By not responding to the CFTC’s complaint, Defendants
 offer no justification why the Court should not impose a civil monetary penalty of
 treble the Defendants’ gain. Treble damages is a common multiplier of damages
-when imposing a penalty; enough to punish a serious past violation and enough to
+when imposing a penalty; enough to punish a serious past violations and enough to
 
 deter future violations, but no so much as to amount to an unreasonable
 

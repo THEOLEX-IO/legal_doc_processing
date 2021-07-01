@@ -26,7 +26,7 @@ Respondents.
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS AND IMPOSING REMEDIAL sanctions
 
 I.
 
@@ -45,7 +45,7 @@ In anticipation of the institution of an administrative proceeding, Respondents 
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondents consent to
 the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
-Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions (“Order’’) and
+Commodity Exchange Act, Making Findings and Imposing Remedial sanctions (“Order’’) and
 acknowledge service of this Order.
 
  
@@ -161,10 +161,10 @@ registered. under this Act acting in furtherance of its official duties under th
 
 Section 13(b) of the Act, 7 U.S.C. § 13c(b) (2012) states that, “{a]Jny person who, directly
 or indirectly, controls any person who has violated any provision of this chapter or any of the
-rules, regulations, or orders issued pursuant to this chapter may be held liable for such violation
+rules, regulations, or orders issued pursuant to this chapter may be held liable for such violations
 in any action brought by the Commission to the same extent as such controlled person. In such
 action, the Commission has the burden of proving that the controlling person did not act in good
-faith or knowingly induced, directly or indirectly, the act or acts constituting the violation.”
+faith or knowingly induced, directly or indirectly, the act or acts constituting the violations.”
 
 Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2012) states that, “[t]he act,
 omission, or failure of any official, agent, or other person acting for any individual, association,
@@ -179,8 +179,8 @@ corporation, or trust as well as of such official, agent, or other person.”
 Between July 2006 and September 2012, Atlantas and Hysni cheated, defrauded, and
 deceived customers through material misrepresentations and omissions made in connection with
 offers to enter into, the entry into, the confirmation of the execution of, and the maintenance of
-commodity options transactions in violation of Section 4c(b) of the Act and Regulation 33.10.
-See e.g., CFTC v. RJ. Fitzgerald & Co., Inc., 310 F.3d 1321 (11th Cir. 2002). Also, in violation
+commodity options transactions in violations of Section 4c(b) of the Act and Regulation 33.10.
+See e.g., CFTC v. RJ. Fitzgerald & Co., Inc., 310 F.3d 1321 (11th Cir. 2002). Also, in violations
 of Section 9(a)(4) of the Act, Atlantas and Hysni willfully made false statements to NFA, a
 futures association registered under the Act acting in furtherance of its duties under the Act,
 about a material fact regarding payments from Atlantas to an unregistered Associated Person.
@@ -195,7 +195,7 @@ is liable for Hysni’s violations of the Act and Regulations pursuant to Sectio
 Act and Regulation 1.2.
 
 V.
-FINDINGS OF VIOLATION
+FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that Atlantas and Hysni violated Sections
 4c(b) and 9(a)(4) of the Act, 7 U.S.C. §§ 6c(b) and 13(a)(4), and Regulation 33.10, 17 C.F.R. §
@@ -210,7 +210,7 @@ A. Acknowledge receipt of service of this Order;
 
 B. Admit the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C. Waive:
 1. The filing and service of a complaint and notice of hearing;

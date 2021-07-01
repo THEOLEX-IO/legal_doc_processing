@@ -307,11 +307,11 @@ any agency expressly authorized to sue by Act of Congress). Section 6c(a) of the
 § 13a-1(a) (2018), provides that the Commission may bring actions for injunctive relief or to
 enforce compliance with the Act or any rule, regulation, or order thereunder in the proper district
 court of the United States whenever it shall appear to the Commission that any person has
-engaged, is engaging, or is about to engage in any act or practice constituting a violation of any
+engaged, is engaging, or is about to engage in any act or practice constituting a violations of any
 provision of the Act or any rule, regulation, or order thereunder.
 
 36. Venue properly lies with this Court pursuant to 7 U.S.C. § 13a-1(e), because the
-Defendant resides in this jurisdiction and the acts and practices in violation of the Act occurred
+Defendant resides in this jurisdiction and the acts and practices in violations of the Act occurred
 within this District.
 
 Fraud by Misappropriation, Misrepresentations, Material Omission, and False
@@ -340,7 +340,7 @@ issuing false periodic account statements and annual tax forms to clients.
 
 39. Each act of misrepresenting and omitting material information and making false
 statements to others, including, but not limited to, those specifically alleged herein, constitutes a
-separate and distinct violation of 7 U.S.C. § 6b(a)(1)(A)-(C).
+separate and distinct violations of 7 U.S.C. § 6b(a)(1)(A)-(C).
 
 Failure to Register as an FCM
 
@@ -366,7 +366,7 @@ FCM.
 43. Each act of accepting money to margin, guarantee, or secure commodity futures
 trades without being registered with the CFTC as an FCM, including, but not limited to, those
 
-specifically alleged herein, constitutes a separate and distinct violation of 7 U.S.C. § 6d(a)(1).
+specifically alleged herein, constitutes a separate and distinct violations of 7 U.S.C. § 6d(a)(1).
 
 IV. PERMANENT INJUNCTION
 
@@ -380,12 +380,12 @@ a. Cheating or defrauding, or attempting to cheat or defraud, or willfully decei
 attempting to deceive other persons in or in connection with any order to make, or the
 making of, any contract of sale of any commodity for future delivery that is made, or
 to be made, on or subject to the rules of a designated contract market, for or on behalf
-of any other person, in violation of Section 4b(a)(1)(A)-(C) of the Act, 7 U.S.C.
+of any other person, in violations of Section 4b(a)(1)(A)-(C) of the Act, 7 U.S.C.
 
 § 6b(a)(1(A)-(C) (2018);
 
 b. Accepting money to margin, guarantee, or secure commodity futures trades without
-being registered with the CFTC as an FCM, in violation of Section 4d(a)(1) of the
+being registered with the CFTC as an FCM, in violations of Section 4d(a)(1) of the
 Act, 7 U.S.C. § 6d(a)(1) (2018).
 
 45. Lien is also permanently restrained, enjoined and prohibited from directly or
@@ -547,7 +547,7 @@ NW, Washington, D.C. 20581 and to Deputy Director, Robert T. Howell, Commodity F
 Trading Commission, Division of Enforcement, 525 W. Monroe St., Suite 1100, Chicago, IL
 60661.
 
-C. Provisions Related to Monetary Sanctions
+C. Provisions Related to Monetary sanctions
 
 57. Partial Satisfaction: Acceptance by the Commission or the Monitor of any partial
 payment of Defendant’s Restitution Obligation, or CMP Obligation shall not be deemed a waiver

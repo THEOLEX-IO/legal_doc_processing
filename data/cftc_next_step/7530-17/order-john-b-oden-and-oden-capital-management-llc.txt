@@ -32,7 +32,7 @@ Nee ee ee ee” ee” ee” SN”
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I.
 
@@ -58,7 +58,7 @@ In anticipation of the institution of an administrative proceeding, Respondents 
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondents consent to
 the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and 6(d) of the
-Commodity Exchange Act, Making Findings, and Imposing Remedial Sanctions (“Order”), and
+Commodity Exchange Act, Making Findings, and Imposing Remedial sanctions (“Order”), and
 acknowledge service of this Order.’
 
 II.
@@ -155,7 +155,7 @@ hypothetical nature of the results that was required pursuant to Regulation 4.41
 
 Finally, in May through July 2014, the funds of OCF pool participants were comingled
 with bank and trading accounts titled in the name of OCF, John Oden, and David and Bonnie
-Oden, in violation of Regulation 4.20.
+Oden, in violations of Regulation 4.20.
 
 2. Oden Capital Management, LLC: CPO of OCF I
 
@@ -328,7 +328,7 @@ OCM’s violations of the Regulations.
 
 Section 13(b) of the Act provides that a person who, directly or indirectly, controls any
 person who has violated any provision of the Act, or any rule, regulation or order issued pursuant
-to the Act, may be held liable for such violation in any action brought by the Commission to the
+to the Act, may be held liable for such violations in any action brought by the Commission to the
 same extent as such controlled person. A “fundamental purpose” of the statute is “to reach
 behind the corporate entity to the controlling individuals of the corporation and to impose
 liability for violations of the Act directly on such individuals as well as on the corporation itself.”
@@ -337,8 +337,8 @@ CFTC, 63 F.3d 1557, 1567 (11th Cir. 1995)).
 
 To establish controlling-person liability under Section 13(b) of the Act, the Commission
 must show that the defendant (1) directly or indirectly controlled the person or entity that
-committed the violation; and (2) did not act in good faith or knowingly induced, directly or
-indirectly, the acts constituting the violation. CFTC yv. Baragosh, 278 F.3d 319, 330 (4th Cir.
+committed the violations; and (2) did not act in good faith or knowingly induced, directly or
+indirectly, the acts constituting the violations. CFTC yv. Baragosh, 278 F.3d 319, 330 (4th Cir.
 2002); R.J Fitzgerald, 310 F.3d at 1334; Monieson v. CFTC, 996 F.2d 852, 858 (7th Cir. 1993).
 To establish the control element, a defendant must possess general control over the operation of
 the entity principally liable. See, e.g., RJ. Fitzgerald, 310 F.3d at 1334 (recognizing an
@@ -348,7 +348,7 @@ power to direct or cause the direction of the management and policies of a perso
 through the ownership of voting securities, by contract, or otherwise.” In re Spiegel, [1987-1990
 Transfer Binder] Comm. Fut. L. Rep. (CCH) ¥ 24,103, n.4 (CFTC Jan. 12, 1988). The
 Commission must also show that the defendant possessed specific control, which is “the power
-or ability to control the specific transaction or activity upon which the primary violation was
+or ability to control the specific transaction or activity upon which the primary violations was
 predicated, even if such power was not exercised.” CFTC v. Int'l Fin. Services, Inc., 323 F.
 Supp. 2d 482, 504 (S.D.N.Y. 2004) (quoting Baragosh, 278 F.3d at 330).
 
@@ -361,9 +361,9 @@ corporation where he “directs the economic aspects of the firm’). In additio
 responsible for the content and issuance of OCF I’s quarterly statements (or OCM’s failure to
 issue those statements in certain quarters) and was responsible for the content of OCM’s
 marketing materials. Oden therefore possessed the specific control over the activities upon
-which OCM’s violation of Regulations 4.7(b)(2), 4.22(h), and 4.41(b) are predicated.
+which OCM’s violations of Regulations 4.7(b)(2), 4.22(h), and 4.41(b) are predicated.
 
-To establish the “knowing inducement” element of the controlling-person violation, the
+To establish the “knowing inducement” element of the controlling-person violations, the
 Commission must show that “the controlling person had actual or constructive knowledge of the
 core activities that constitute the violations at issue and allowed them to continue.” JCC, Inc. v.
 CFTC, 63 F.3d 1557, 1568 (11th Cir. 1995) (quoting In re Spiegel, [1987-1990 Transfer Binder]
@@ -380,7 +380,7 @@ OCM’s violations of the Regulations.
 
 V.
 
-FINDINGS OF VIOLATION
+FINDINGS OF violations
 
 Based on the foregoing, the Commission finds: that Oden violated Section 4m(1) of the
 Act, Regulations 4.13(a)(6), 4.13(c)(2), 4.20(c), 4.41(b), and 5.3(a)(2)G); that OCM violated
@@ -397,7 +397,7 @@ A. Acknowledge receipt of service of this Order;
 
 B. Admit the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C. Waive:
 1. The filing and service of a complaint and notice of hearing;

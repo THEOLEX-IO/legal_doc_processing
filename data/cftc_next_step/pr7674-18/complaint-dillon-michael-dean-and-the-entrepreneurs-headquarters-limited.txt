@@ -68,7 +68,7 @@ associated person (“AP”) of a CPO.
 
 7. By virtue of this conduct and the conduct further described herein, Defendants,
 either directly or as controlling persons, have engaged, are engaging, or are about to engage in
-acts and practices in violation of Sections 4c(b), 4k(2), 4m(1), and 40(1)(A)-(B) of the
+acts and practices in violations of Sections 4c(b), 4k(2), 4m(1), and 40(1)(A)-(B) of the
 
 Commodity Exchange Act (the “Act’”), 7 U.S.C. §§ 6c(b), 6k(2), 6m(1), 60(1)(A)-(B) (2012),
 and Commission Regulations (“Regulations’’) 3.12(a) and 32.4, 17 C.F.R. §§ 3.12(a), 32.4
@@ -106,7 +106,7 @@ II. JURISDICTION AND VENUE
 12. Section 6c(a) of the Act, 7 U.S.C. § 13a-1(a) (2012), authorizes the Commission
 to seek injunctive and other relief in United States district court against any person whenever it
 shall appear to the Commission that such person has engaged, is engaging, or is about to engage
-in any act or practice constituting a violation of any provision of the Act, or any rule, regulation,
+in any act or practice constituting a violations of any provision of the Act, or any rule, regulation,
 or order thereunder, and provides that district courts “shall have jurisdiction to entertain such
 actions.” This Court also has jurisdiction pursuant to 28 U.S.C. § 1331 (2012) (Federal
 Question) and 28 U.S.C. § 1345 (United States as Plaintiff) (2012).
@@ -544,12 +544,12 @@ to withdraw all profits as well.” The website offers 14-day, 30-day, and 45-da
 
 94. As of December 4, 2017, RTP purported to have 65 members.
 
-V. VIOLATIONS OF THE COMMODITY EXCHANGE ACT
+V. violations OF THE COMMODITY EXCHANGE ACT
 AND COMMISSION REGULATIONS
 
 COUNT ONE
 
-Violations of Section 4c(b) and Regulation 32.4
+violations of Section 4c(b) and Regulation 32.4
 (Options Fraud)
 
 95. Paragraphs | through 94 are realleged and incorporated herein by reference.
@@ -585,7 +585,7 @@ also concealed and perpetuated their fraud by falsely stating that their website
 99. The foregoing acts, omissions, and failures by Dean and other officers,
 employees, and agents of TEH occurred within the scope of their employment or office with
 TEH. Therefore, TEH is liable for its officers, employees, and agents’ acts, omissions, and
-failures in violation of Section 4c(b} of the Act and Regulation 32.4, pursuant to Section
+failures in violations of Section 4c(b} of the Act and Regulation 32.4, pursuant to Section
 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2012), and Regulation 1.2, 17 C.F.R. § 1.2 (2017).
 
 100. Dean held and exercised direct and indirect control over TEH and either did not
@@ -600,11 +600,11 @@ Regulation 32.4. As a controlling person of TEH, Dean is liable for TEH’s viol
 
 101. Each misrepresentation, omission of material fact, false statement, and
 misappropriation, including but not limited to those specifically alleged herein, is alleged as a
-separate and distinct violation of Section 4c(b) of the Act and Regulation 32.4.
+separate and distinct violations of Section 4c(b) of the Act and Regulation 32.4.
 
 COUNT TWO
 
-Violations of Section 40(1)(A)-(B)
+violations of Section 40(1)(A)-(B)
 (CPO Fraud)
 
 102. Paragraphs | through 101 are realleged and incorporated herein by reference.
@@ -670,7 +670,7 @@ misappropriated.
 108. The foregoing acts, omissions, and failures by Dean and other officers,
 employees, and agents of TEH occurred within the scope of their employment or office with
 TEH. Therefore, TEH is liable for its officers, employees, and agents’ acts, omissions, and
-failures in violation of Section 40(1) of the Act, pursuant to Section 2(a)(1)(B) of the Act and
+failures in violations of Section 40(1) of the Act, pursuant to Section 2(a)(1)(B) of the Act and
 Regulation 1.2.
 
 109. Dean held and exercised direct and indirect control over TEH and either did not
@@ -681,14 +681,14 @@ pursuant to Section 13(b) of the Act.
 110. Each misrepresentation, omission of material fact, false statement, and
 misappropriation, including but not limited to those specifically alleged herein, is alleged as a
 
-separate and distinct violation of Section 40(1) of the Act.
+separate and distinct violations of Section 40(1) of the Act.
 
 21
 Case 2:18-cv-00345 Documenti1 Filed 01/18/18 Page 22 of 26 PagelD #: 22
 
 COUNT THREE
 
-Violations of Section 4m(1) and 4k(2) of the Act and Regulation 3.12(a)
+violations of Section 4m(1) and 4k(2) of the Act and Regulation 3.12(a)
 (Failure to Register as a CPO and as an AP of the CPO)
 
 111. Paragraphs 1 through 110 are realleged and incorporated herein by reference.
@@ -696,7 +696,7 @@ Violations of Section 4m(1) and 4k(2) of the Act and Regulation 3.12(a)
 112. During the Relevant Period, TEH, while using the mails or means of interstate
 commerce in connection with its business as a CPO, was not registered with the Commission as
 a CPO and was not exempt from registration as a CPO. Thus, TEH acted as an unregistered
-CPO in violation of Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2012).
+CPO in violations of Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2012).
 
 113. During the Relevant Period, Dean, while acting as an AP of TEH, was never
 registered as an AP of TEH. Thus, Dean violated Section 4k(2) of the Act, 7 U.S.C. § 6k(2)
@@ -728,7 +728,7 @@ pas eee et
 Be E STS
 SOLED SEAT ERE SG
 
-in violation of Sections 4c(b), 4k(2), 4m(1), and 40(1)(A)-(B) of the Act, and Regulations
+in violations of Sections 4c(b), 4k(2), 4m(1), and 40(1)(A)-(B) of the Act, and Regulations
 
 3.12(a) and 32.4;
 
@@ -801,7 +801,7 @@ G. Enter an order directing each Defendant to pay a civil monetary penalty, to b
 assessed by the Court, in an amount not to exceed the penalty prescribed by Section 6c(d)(1) of
 the Act, 7 U.S.C. § 13a-1(d)(1) (2012), as adjusted for inflation pursuant to the Federal Civil
 Penalties Inflation Adjustment Act Improvements Act of 2015, Pub. L. 114-74, 129 Stat. 584
-(2015), title VI, Section 701, see Regulation 143.8, 17 C.F.R. § 143.8 (2017), for each violation
+(2015), title VI, Section 701, see Regulation 143.8, 17 C.F.R. § 143.8 (2017), for each violations
 
 of the Act and Regulations, as described herein;
 

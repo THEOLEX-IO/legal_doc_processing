@@ -88,16 +88,16 @@ Ms. Clark on February 14, 2020, asserting four claims under the Commodity
 
 Exchange Act:
 
-(1) fraud by a community pool operator or community trade advisor in violation
+(1) fraud by a community pool operator or community trade advisor in violations
 
 of 7 U.S.C. § 60(1);
-(2) fraud by deceptive device in violation of 7 U.S.C. § 9(1);
+(2) fraud by deceptive device in violations of 7 U.S.C. § 9(1);
 
-(3) failure to register as a community pool operator in violation of 7
+(3) failure to register as a community pool operator in violations of 7
 U.S.C. § 6(m)(1) and provisions implementing regulation, 17
 C.F.R. § 5.3 (a)(2)(i); and
 
-(4) failure to register as a community trade advisor in violation of 7
+(4) failure to register as a community trade advisor in violations of 7
 U.S.C. § 6m(1) and that provision’s implementing regulation, 17
 C.E.R. § 5.3(a)(3)(i).
 
@@ -196,7 +196,7 @@ Undisputed facts set forth by the moving party in affidavits and exhibits are al
 accepted as true. Id.
 
 A. Count I: Fraud by a community pool operator or community trade
-advisor in violation of 7 U.S.C. § 60(1)
+advisor in violations of 7 U.S.C. § 60(1)
 
 7 U.S.C. § 60(1), makes it unlawful for a commodity trading advisor,
 associated person of a commodity trading advisor, commodity pool
@@ -278,7 +278,7 @@ Futures Trading Comm’n v. Driver, 585 F. App’x 366 (9th Cir. 2014).
 
 The undisputed facts thus demonstrate that Defendants violated 7 U.S.C. § 60.
 
-B. Count II: Fraud by deceptive device in violation of 7 U.S.C. § 9(1)
+B. Count II: Fraud by deceptive device in violations of 7 U.S.C. § 9(1)
 and 17 C.F.R. § 180.1(a)
 
 In Count IT, the Commission alleges that Defendants violated 7
@@ -308,7 +308,7 @@ course of business, which operates or would operate as a fraud or
 deceit upon any person.
 Case 1:20-cy-O0882-DDD-MEH Bocument 30 Filed 11/02/20 USDC Colorada Page 9 af i4
 
-“To prove a violation of ...7 U.S.C. § 9(1)[] and Regulation 180.1(a), 17
+“To prove a violations of ...7 U.S.C. § 9(1)[] and Regulation 180.1(a), 17
 
 C.F.R. § 180.1(a) .. . , the Commission must show that Defendants engaged in
 prohibited conduct (ie., employed a fraudulent scheme; made a material
@@ -337,10 +337,10 @@ currencies, misappropriated pool participant funds, and lied about the profitabi
 of the pool. And the facts show that they acted with scienter. They knew, for
 example, that the account statements they issued were false. The undisputed facts
 
-establish a violation of Section 9(1).
+establish a violations of Section 9(1).
 
 C. Counts III and IV: Failure to register as a commodity pool operator
-or a commodity trade advisor in violation of 7 U.S.C. § 6(m)(1), and
+or a commodity trade advisor in violations of 7 U.S.C. § 6(m)(1), and
 17 C_F.R. §§ 5.3 (a)(2)(i) and 5.3(a)(3)(@)
 Case 1:20-cvy-O0882-DDD-MEH Bocument 30 Filed 11/02/20 USDC Colorada Page 10 of 14
 
@@ -390,7 +390,7 @@ A. Injunctive Relief
 
 7 U.S.C. § 13a-1(a) empowers the court to enter an injunction in an action brought
 by the Commission. Id. (“Whenever it shall appear to the Commission that any
-person has engaged [in activity] constituting a violation of any provision of this
+person has engaged [in activity] constituting a violations of any provision of this
 chapter or any rule thereunder the Commission may bring an action to enjoin such
 act’) (internal omissions and ellipses omitted); see also 7 U.S.C. § 13a-1(b)(“* Upon
 a proper showing, a permanent or temporary injunction or restraining order shall be
@@ -402,7 +402,7 @@ Trading Comm’n v. Am. Bd. of Trade, Inc., 803 F.2d 1242, 1250-51 (2d Cir. 1986
 Cir.1982); SEC v. Holschuh, 694 F.2d 130, 144-45 (7th Cir. 1982)). “The
 traditional requirements for injunctive relief such as irreparable injury or
 inadequacy of other remedies are not required under § 13a—1, and the Commission
-need only show a likelihood of a violation.” Commodity Futures Trading Comm’n
+need only show a likelihood of a violations.” Commodity Futures Trading Comm’n
 v. Clothier, 788 F. Supp. 490, 492-93 (D. Kan. 1992) (citations omitted). A district
 court may properly infer a likelihood of future violations from the defendant’s past
 
@@ -422,9 +422,9 @@ B. Restitution
 The court is empowered to award of restitution under the Commodity Exchange
 Act. 7 U.S.C. § 13a-1(d)(3) (“In any action brought under this section, the
 Commission may seek, and the court may impose, on a proper showing, on any
-person found in the action to have committed any violation, equitable remedies
+person found in the action to have committed any violations, equitable remedies
 including restitution to persons who have sustained losses proximately caused by
-such violation (in the amount of such losses).”); see also Commodity Futures
+such violations (in the amount of such losses).”); see also Commodity Futures
 Trading Comm’n v. Kimberlynn Creek Ranch, Inc., 276 F.3d 187, 193 (4th Cir.
 2002) (“It is well settled that equitable remedies such as disgorgement are available
 to remedy violations of the CEA.”). “Generally, the amount of restitution in FTC
@@ -441,10 +441,10 @@ C. Civil Monetary Penalty
 
 The court is empowered to impose a civil monetary penalty under the Act
 “an the amount of not more than the greater of $100,000 or triple the monetary gain
-to the person for each violation.” 7 U.S.C. § 13al(d)(1)(A). The Commission
+to the person for each violations.” 7 U.S.C. § 13al(d)(1)(A). The Commission
 Regulations adjust the statutory civil monetary penalty of $100,000 for inflation. 17
 C.F.R. § 143.8. For the period at issue here, the statutory civil monetary penalty is
-$185,242 for each violation. Id. “Civil penalties should be imposed to act as a
+$185,242 for each violations. Id. “Civil penalties should be imposed to act as a
 deterrent, but should be proportional to the gravity of the offenses committed.”
 Commodity Futures Trading Comm’n v. Brockbank, 505 F. Supp. 2d 1169, 1177
 (D. Utah 2007), aff'd, 316 F. App’x 707 (10th Cir. 2008). While the Commission

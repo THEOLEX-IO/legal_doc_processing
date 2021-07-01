@@ -27,7 +27,7 @@ Nee Ne ee ee ee “ee ee Nee “Nee”
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT,
-MAKING FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+MAKING FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I. INTRODUCTION
 
@@ -47,7 +47,7 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and 6(d) of the Act,
-Making Findings, and Imposing Remedial Sanctions (“Order’’) and acknowledges service of this
+Making Findings, and Imposing Remedial sanctions (“Order’’) and acknowledges service of this
 Order.
 
  
@@ -63,7 +63,7 @@ A. SUMMARY
 
 From December 31, 2012, when Commerzbank provisionally registered with the
 Commission as a swap dealer (“SD”’), until at least 2018, Commerzbank management routinely
-failed to supervise its SD’s activities, in violation of Section 4s(h)(1)(B) of the Act, 7 U.S.C.
+failed to supervise its SD’s activities, in violations of Section 4s(h)(1)(B) of the Act, 7 U.S.C.
 
 § 6s(h)(1)(B) (2012), and Regulation 23.602, 17 C.F.R. § 23.602 (2018). Commerzbank’s
 failure to supervise the operations of its SD resulted in thousands of violations of the Act. Even
@@ -84,13 +84,13 @@ during the Relevant Period, Commerzbank violated numerous provisions of the Act 
 accompanying Regulations. These violations included failure to implement policies reasonably
 designed to determine whether swap transactions with certain non-U.S. swap counterparties were
 subject to the requirements of the Dodd-Frank Wall Street Reform and Consumer Protection
-Act of 2010 (“Dodd-Frank’’), in violation of Regulation 23.402(b), 17 C.F.R. § 23.402(b) (2018);
-failure to report swap transactions to swap data repositories (“SDRs’’) in violation of Section
+Act of 2010 (“Dodd-Frank’’), in violations of Regulation 23.402(b), 17 C.F.R. § 23.402(b) (2018);
+failure to report swap transactions to swap data repositories (“SDRs’’) in violations of Section
 2(a)(13)(G) of the Act, 7 U.S.C. § 2(a)(13)(G) (2012), Regulations 43.3 and 45.3, 17 C.F.R.
 
 §§ 43.3. 45.3 (2018); failure to submit Large Trader Reports to the Commission consistent with
 the requirements of Section 4s(f) of the Act and Regulations 20.4 and 20.7, 17 C.F.R. §§ 20.4
-and 20.7 (2018); and failure to execute swaps on swap execution facilities (“SEFs’’) in violation
+and 20.7 (2018); and failure to execute swaps on swap execution facilities (“SEFs’’) in violations
 of Section 2(h)(8) of the Act, 7 U.S.C. § 2(h)(8) (2012), and Regulation 37.9, 17 C.F.R. § 37.9
 (2018).
 
@@ -109,7 +109,7 @@ proceeding.
 1. Commerzbank’s Inadequate Supervision of Its Swap Dealer
 
 During the Relevant Period, Commerzbank management routinely failed to supervise its
-SD’s activities, in violation of Section 4s(h)(1)(B) of the Act, 7 U.S.C. § 6s(h)(1)(B) (2012), and
+SD’s activities, in violations of Section 4s(h)(1)(B) of the Act, 7 U.S.C. § 6s(h)(1)(B) (2012), and
 Regulation 23.602, 17 C.F.R. § 23.602 (2018). Personnel in Commerzbank’s New York office
 were tasked with overseeing SD compliance, but did not have the authority, the funding, or the
 necessary information to effectively implement bank-wide policies and controls for swap
@@ -524,7 +524,7 @@ The operative language of Regulation 23.602 (governing SDs and major swap
 participants), is similar to the language of the Commission’s longstanding supervision regulation
 for futures and options, Regulation 166.3, 17 C.F.R. § 166.3 (2018). Under Regulation 166.3,
 when a registrant’s supervisory system is generally inadequate, or the registrant fails to perform
-its supervisory duties diligently, that fact alone is sufficient to establish a violation of the
+its supervisory duties diligently, that fact alone is sufficient to establish a violations of the
 supervision requirement. See, e.g., In re Murlas Commodities, [1994-1996 Transfer Binder]
 Comm. Fut. L. Rep. (CCH) { 26,485 at 43,161 (CFTC Sept. 1, 1995); In re Paragon Futures
 Assoc., [1990-1992 Transfer Binder] Comm. Fut. L. Rep. (CCH) J 25,266 at 38,850 (CFTC Apr.
@@ -586,7 +586,7 @@ or connection with, U.S. commerce. Section 2(1) of the Act, 7 U.S.C. § 2G) (201
 Commission has described factors it considers relevant to that determination. See Cross-Border
 Guidance, 45,348-51 and 45,355-59.
 
-In violation of Regulation 23.402(b), Commerzbank failed to take measures sufficient to
+In violations of Regulation 23.402(b), Commerzbank failed to take measures sufficient to
 determine whether its swap transactions with non-U.S. persons were sufficiently connected to the
 U.S. so as to subject them to Dodd-Frank. As a result, in many instances, Commerzbank did not
 report to SDRs transactions that were subject to Dodd-Frank requirements, including Parts 43
@@ -621,7 +621,7 @@ for reporting creation data, including primary economic terms data and confirmat
 Regulation 45.3(b)(1)@), 45.3(c)()G)(A), 45.3(b)(3)@), and 45.3(c)(1) aii).
 
 From 2014 through 2016, Commerzbank experienced recurring issues with SDR
-reporting and failed to properly report swap transactions to an SDR in violation of Section
+reporting and failed to properly report swap transactions to an SDR in violations of Section
 2(a)(13)(G) of the Act and Regulations 43.3 and 45.5.
 
 E. Commerzbank’s Failure to Submit Large Trader Reports Consistent with the
@@ -682,7 +682,7 @@ shall be executed on a SEF through either (1) an Order Book or (2) a Request for
 that operates in conjunction with an Order Book.
 
 On multiple instances from 2014 through 2016, Commerzbank failed to execute certain
-MAT swaps on a SEF as required, in violation of Regulation 37.9(a)(2). Relatedly,
+MAT swaps on a SEF as required, in violations of Regulation 37.9(a)(2). Relatedly,
 Commerzbank failed to establish any type of monitoring program to determine whether swaps
 were being incorrectly transacted off a SEF until 2015.
 
@@ -700,9 +700,9 @@ Advisory, Inc. v. CFTC, 837 F.2d 847, 857-58 (9th Cir. 1988).
 The foregoing acts, omissions, and failures of Commerzbank’s employees occurred
 within the scope of their employment, office, or agency with Commerzbank; therefore, pursuant
 to Section 2(a)(1)(B) of the Act, and Regulation 1.2, Commerzbank is liable for those acts,
-omissions, and failures in violation of the Act and Regulations.
+omissions, and failures in violations of the Act and Regulations.
 
-IV. FINDINGS OF VIOLATIONS
+IV. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that Respondent violated Sections
 
@@ -727,7 +727,7 @@ findings and conclusions herein:
 Acknowledges receipt of service of this Order;
 
 Admits the jurisdiction of the Commission to all the matters set forth in this Order and for
-any action or proceeding brought or authorized by the Commission based on a violation
+any action or proceeding brought or authorized by the Commission based on a violations
 of or enforcement of this Order;
 
 Waives:

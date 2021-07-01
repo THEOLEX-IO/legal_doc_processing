@@ -129,7 +129,7 @@ def _question_selector(key: str) -> list:
                 ("What is the violator?", "what_violator"),
                 ("What are the violators?", "what_violators"),
                 ("Who has violated?", "who_violated"),
-                ("Who made the violation?", "who_violation"),
+                ("Who made the violations?", "who_violation"),
             ]
         )
 

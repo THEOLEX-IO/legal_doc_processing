@@ -28,7 +28,7 @@ Nee Nee ee ee” ee” ee” SN”
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT
-MAKING FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+MAKING FINDINGS AND IMPOSING REMEDIAL sanctions
 
 I.
 
@@ -46,7 +46,7 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
-Commodity Exchange Act Making Findings and Imposing Remedial Sanctions (“Order”) and
+Commodity Exchange Act Making Findings and Imposing Remedial sanctions (“Order”) and
 acknowledges service of this Order.’
 
  
@@ -142,18 +142,18 @@ contract for... the other person....
 Causing deceptive allocation of favorable futures order fills to an account from which
 one benefits violates Sections 4b(a)(1)(A) and (C). See, e.g., In re Thomas Carroll and R. Scott
 Hopkins, CFTC Dkt. No. 11-02 (Dec. 10, 2010) (scheme defrauded employer by allocating
-profitable fills to trader’s personal account, in violation of Section 4b) (citing In re GNP
+profitable fills to trader’s personal account, in violations of Section 4b) (citing In re GNP
 Commodities, Inc., (1990-1992 Transfer Binder] Comm. Fut. L. Rep. (CCH) 4 25,360 (CFTC
 August 11, 1992), aff'd sub nom. Monieson v, CFTC, 996 F.2d 852 (7th Cir. 1993); In re Brian
 Keane, CFTC Dkt. No. 09-01 (Oct. 6, 2008) (fraudulent trade-allocation scheme involving delay
-of NYMEX order allocations in order to allow cherry-picking of favorable fills, in violation of
+of NYMEX order allocations in order to allow cherry-picking of favorable fills, in violations of
 Section 4b),
 
 During the Relevant Period, through conduct described above, McMahon, in or in
 connection with orders to make and the making of contracts for future delivery made and to be
 made on or subject to the rules of a designated contract market, NYMEX, for or on behalf of a
 customer, knowingly and willfully cheated or defrauded, or attempted to cheat or defraud, the
-customer, in violation of Sections 4b(a)(1)(A) and (C) of the Act, 7 U.S.C. § 6b(a)(1)(A) and
+customer, in violations of Sections 4b(a)(1)(A) and (C) of the Act, 7 U.S.C. § 6b(a)(1)(A) and
 
 (C).
 
@@ -164,7 +164,7 @@ B.
 
 IV.
 
-- FINDINGS OF VIOLATION
+- FINDINGS OF violations
 
 Based upon the foregoing, the Commission finds that: during the Relevant Period,
 Respondent violated Sections 4b(a)(1)(A) and (C) of the Act.
@@ -180,7 +180,7 @@ Acknowledges receipt of service of this Order;
 
 Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 Waives:
 

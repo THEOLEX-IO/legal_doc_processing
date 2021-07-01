@@ -31,7 +31,7 @@ Nee ee ee ee” ee” ee” NL”
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT,
-MAKING FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+MAKING FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I.
 
@@ -52,7 +52,7 @@ Respondent admits those findings in any related action against Société Génér
 agreement with, the Department of Justice or any other governmental agency or office,
 Respondent herein consents to the entry and acknowledges service of this Order Instituting
 Proceedings Pursuant to Sections 6(c) and 6(d) of the Commodity Exchange Act, Making
-Findings, and Imposing Remedial Sanctions (“Order’”).'
+Findings, and Imposing Remedial sanctions (“Order’”).'
 
  
 
@@ -2484,7 +2484,7 @@ Barclays Senior Euro Derivatives Trader: [ ... ] thank you
 
 8 On June 27, 2012, the Commission issued an Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d)
 
-of the Commodity Exchange Act, As Amended, Making Findings and Imposing Remedial Sanctions against
+of the Commodity Exchange Act, As Amended, Making Findings and Imposing Remedial sanctions against
 Barclays, finding, among other things, that Barclays Euro derivatives traders coordinated with other banks in their
 attempts to manipulate Euribor. See Barclays PLC, Barclays Bank PLC and Barclays Capital Inc., CFTC Docket
 No. 12-25 (June 27, 2012), pp. 16-17; available at
@@ -2893,7 +2893,7 @@ determination to cooperate with the CFTC in its investigation.
 LEGAL DISCUSSION
 
 A. Respondent Made False, Misleading, or Knowingly Inaccurate Reports Concerning
-the Costs of Borrowing Unsecured Funds in Violation of Section 9(a)(2) of the Act
+the Costs of Borrowing Unsecured Funds in violations of Section 9(a)(2) of the Act
 
 Section 9(a)(2) of the Act, 7 U.S.C. § 13(a)(2) (2006), makes it unlawful for any person
 “knowingly to deliver or cause to be delivered for transmission through the mails or interstate
@@ -3028,7 +3028,7 @@ conduct ‘resulted in’ artificial prices’’).
 
 There can be multiple causes of an artificial price. DiPlacido, 2008 WL 4831204, at *32.
 The manipulator’s actions need not be the sole cause of the artificial price. “It is enough for
-purposes of a finding of manipulation in violation of Sections 6(b) and 9 of the Act that
+purposes of a finding of manipulation in violations of Sections 6(b) and 9 of the Act that
 respondents’ action contributed to the price [movement].” See In re Kosuga, 19 Agric. Dec. 603,
 
 50
@@ -3056,7 +3056,7 @@ artificial Yen LIBOR fixings. Thus, Société Générale’s actions were a prox
 artificial LIBOR fixings.
 
 Accordingly, at times, Société Générale manipulated certain tenors of Yen LIBOR, a
-commodity in interstate commerce, in violation of Sections 6(c), 6(d), and 9(a)(2) of the Act.
+commodity in interstate commerce, in violations of Sections 6(c), 6(d), and 9(a)(2) of the Act.
 
 C. Respondent Attempted To Manipulate U.S. Dollar LIBOR, Yen LIBOR, and
 Euribor
@@ -3093,15 +3093,15 @@ Société Générale’s position-based submissions by its submitters as well as
 trader requests by its Yen and Euro derivatives traders for altered rate submissions constitute
 overt acts in furtherance of their intent to affect the U.S. Dollar LIBOR, Yen LIBOR, and
 Euribor fixings. By engaging in such conduct, Respondent engaged in multiple acts of attempted
-manipulation in violation of Sections 6(c), 6(d), and 9(a)(2) of the Act, 7 U.S.C. §§ 9, 13b,
+manipulation in violations of Sections 6(c), 6(d), and 9(a)(2) of the Act, 7 U.S.C. §§ 9, 13b,
 13(a)(2) (2006).
 
 D. Respondent Aided and Abetted the Attempts of Others To Manipulate Euribor
 
 Pursuant to Section 13(a) of the Act, 7 U.S.C. § 13c(a) (2006), Société Générale aided
-and abetted the attempts of traders at other banks to manipulate Euribor in violation of the Act. .
+and abetted the attempts of traders at other banks to manipulate Euribor in violations of the Act. .
 Liability as an aider and abettor requires proof that: (1) the Act was violated; (2) the aider and
-abettor had knowledge of the wrongdoing underlying the violation; and (3) the aider and abettor
+abettor had knowledge of the wrongdoing underlying the violations; and (3) the aider and abettor
 intentionally assisted the primary wrongdoer. See In re Nikkhah, CFTC No. 95-13, 2000 WL
 622872, at *11 n.28 (May 12, 2000). Although actual knowledge of the primary wrongdoer’s
 conduct is required, knowledge of the unlawfulness of such conduct need not be demonstrated.
@@ -3116,11 +3116,11 @@ a certain direction, that would benefit the trading positions of Barclays trader
 Générale’s derivatives traders agreed and passed along the requested Euribor submissions to
 Société Générale’s Euribor submitters, who, occasionally, accommodated the requests.
 Accordingly, by seeking to affect the rates at which Euribor was fixed, the Barclays derivatives
-traders attempted to manipulate Euribor in violation of Sections 6(c), 6(d), and 9(a)(2) of the Act.
+traders attempted to manipulate Euribor in violations of Sections 6(c), 6(d), and 9(a)(2) of the Act.
 Société Générale’s Euro derivatives traders and its Euribor submitters all had knowledge of and
 intentionally assisted the attempts of the Barclays traders to manipulate the rates at which
 Euribor were fixed. By such acts of those Société Générale employees, Société Générale aided
-and abetted the attempts of traders at Barclays to manipulate Euribor in violation of Sections
+and abetted the attempts of traders at Barclays to manipulate Euribor in violations of Sections
 6(c), 6(d), and 9(a)(2) of the Act.
 
 E. Respondent Are Liable for the Acts of Their Agents
@@ -3144,7 +3144,7 @@ and 6(d) for conduct occurring prior to August 15, 2011, and Section 9(a)(2) of 
 forth above.
 
 V.
-FINDINGS OF VIOLATIONS
+FINDINGS OF violations
 Based on the foregoing, the Commission finds that Respondent violated Section 6(c) and
 6(d) , for conduct occurring prior to August 15, 2011, and 9(a)(2) of the Act, 7 U.S.C. §§ 9, 13b,
 13(a)(2) (2006).
@@ -3158,7 +3158,7 @@ A. Acknowledges receipt of service of this Order;
 B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
 
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C. Waives:
 1. the filing and service of a complaint and notice of hearing;
@@ -3270,7 +3270,7 @@ Obligation with a cover letter that identifies the Respondent and the name and d
 
 *° Effective June 18, 2008, the Act imposes a $1,000,000 civil monetary penalty for each act of attempted
 
-manipulation in violation of the Act. Certain of Respondent’s violations of the Act for attempted manipulation
+manipulation in violations of the Act. Certain of Respondent’s violations of the Act for attempted manipulation
 occurred after June 18, 2008.
 
 55
@@ -4040,7 +4040,7 @@ consequence of this Order.”’
 *6 Rule 506(d)(1)(iii)(B) disqualifies an issuer from relying on the private offering exemptions provided for in
 
 Rule 506 if they or certain related parties are “subject to a final order of . . . [inter alia] the U.S. Commodity Futures
-Trading Commission . . . that: . . . [c]onstitutes a final order based on a violation of any law or regulation that
+Trading Commission . . . that: . . . [c]onstitutes a final order based on a violations of any law or regulation that
 prohibits fraudulent, manipulative, or deceptive conduct.” Rule 506(d)(2)(iii), however, provides that
 disqualification “shall not apply” if the CFTC “advises in writing” that disqualification under Rule 506(d)(1)
 “should not arise as a consequence of such order.” See also 17 C.F.R. §§ 262(a)(3)(ii), (b)(3) (parallel provisions
@@ -4078,8 +4078,8 @@ Regulation D. See SEC, Div. of Corp. Fin., Waivers of Disqualification Under Reg
 of Regulation D, https://www.sec.gov/divisions/corpfin/guidance/disqualification-waivers.shtml; SEC, Div. of Corp.
 Fin., Rule 504 of Regulation D: A Small Entity Compliance Guide for Issuers,
 https://www.sec.gov/divisions/corpfin/guidance/rule504-issuer-small-entity-compliance.html. The SEC considers
-the following primary factors in determining whether to grant a waiver request: (i) the nature of the violation and
-whether it involved the offer or sale of securities; (ii) whether the violation required scienter; (iii) who was
+the following primary factors in determining whether to grant a waiver request: (i) the nature of the violations and
+whether it involved the offer or sale of securities; (ii) whether the violations required scienter; (iii) who was
 responsible for the misconduct; (iv) what was the duration of the misconduct; (v) what remedial steps have been
 taken; and (vi) the impact on the party seeking a waiver and third parties if a waiver is denied. Respondent’s Request
 Letter addressed these factors in the context of this Order.

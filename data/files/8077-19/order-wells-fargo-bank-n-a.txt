@@ -19,7 +19,7 @@ Respondent. 10:30 am, Nov 08, 2019
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I, INTRODUCTION
 
@@ -38,7 +38,7 @@ submitted an Offer of Settlement (“Offer”), which the Commission has determi
 accept. Without admitting or denying any of the findings and conclusions herein,
 Respondent consents to the entry of this Order Instituting Proceedings Pursuant to
 Section 6(c) and (d) of the Commodity Exchange Act, Making Findings, and Imposing
-Remedial Sanctions (“Order”), and acknowledges service of this Order. '
+Remedial sanctions (“Order”), and acknowledges service of this Order. '
 
  
 
@@ -206,10 +206,10 @@ providing inaccurate information about when Respondent started and stopped makin
 spot trades and the price of the initial trade used to fill the order.
 
 As such, Respondent’s conduct described above violated its duty of fair dealing
-and good faith in violation of Section 4s(h)(1)(B) and (3)(C) of the Act, and Regulations
+and good faith in violations of Section 4s(h)(1)(B) and (3)(C) of the Act, and Regulations
 23.402(a)(1)@) and (2) and 23.433.
 
-IV. FINDINGS OF VIOLATION
+IV. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period,
 Respondent violated Section 4s(h)(1)(B), (3)(C) of the Act and Regulations
@@ -221,7 +221,7 @@ A. Acknowledges service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to all matters set
 forth in this Order and for any action or proceeding brought or authorized
-by the Commission based on violation of or enforcement of this Order;
+by the Commission based on violations of or enforcement of this Order;
 
 C. Waives:
 

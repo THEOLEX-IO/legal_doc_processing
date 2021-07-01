@@ -30,7 +30,7 @@ Respondent. ) Proceedings Clerk
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I. INTRODUCTION
 
@@ -50,7 +50,7 @@ Without admitting or denying any of the findings or conclusions herein, except t
 Welles admits those findings in any related action against Welles by, or any agreement with, the
 United States Department of Justice (“DOJ”) or any other governmental agency or office,
 Respondent consents to the entry of this Order Instituting Proceedings Pursuant to Section 6(c)
-and (d) of the Commodity Exchange Act, Making Findings, and Imposing Remedial Sanctions
+and (d) of the Commodity Exchange Act, Making Findings, and Imposing Remedial sanctions
 (“Order’’) and acknowledges service of this Order.’
 
  
@@ -74,7 +74,7 @@ falsely stated that most customers made money, when in fact the substantial majo
 Welles also misrepresented her financial expertise, physical location, and identity. Welles
 intentionally or recklessly disregarded that the solicitations she used to induce customers to
 deposit funds to trade binary options with the Yukom Brands included false and misleading
-statements. She therefore committed fraud in violation of the Act and Regulations.
+statements. She therefore committed fraud in violations of the Act and Regulations.
 
 * * * * *
 
@@ -165,7 +165,7 @@ rise above or fall below a specified amount at a specified date and time.
 cr-00613-TDC (filed D. Md. Dec. 13, 2018).
 
 I. LEGAL DISCUSSION
-A. Option Fraud in Violation of Section 4c(b) of the Act and Regulation 32.4
+A. Option Fraud in violations of Section 4c(b) of the Act and Regulation 32.4
 
 Section 4c(b) of the Act, 7 U.S.C. § 6c(b) (2012), makes it unlawful for any person “to
 offer to enter into, enter into or confirm the execution of, any transaction involving any
@@ -204,7 +204,7 @@ truth or falsity.” (citing CFTC v. Noble Wealth Data Information Services, Inc
 As described above, while acting as retention agent at Yukom, Welles intentionally or
 recklessly made material misrepresentations, misleading statements, and deceptive omissions.
 By engaging in this conduct, Welles violated Section 4c(b) of the Act and Regulation 32.4.
-B. Fraud in Connection with Swaps Transactions in Violation of Section 6(c)(1) and
+B. Fraud in Connection with Swaps Transactions in violations of Section 6(c)(1) and
 Regulation 180.1(a)
 
 Section 6(c)(1) of the Act, 7 U.S.C. § 9(1) (2012), provides in relevant part that “[i]t shall
@@ -238,7 +238,7 @@ of the Act and Regulation 32.4, Welles violated Section 6(c)(1) of the Act and R
 Fla. 2014) (finding that material misrepresentations and omissions in connection with the sale of
 commodities violated Section 6(c)(1) of the Act and Regulation 180.1).
 
-IV. FINDINGS OF VIOLATIONS
+IV. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period,
 Respondent violated Sections 4c(b) and 6(c)(1) of the Act, 7 U.S.C. §§ 6c(b) and 9(1) (2012),
@@ -261,7 +261,7 @@ Acknowledges service of this Order;
 
 Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 Waives:
 

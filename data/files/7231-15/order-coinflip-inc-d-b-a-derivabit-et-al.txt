@@ -31,7 +31,7 @@ Nee Nee ee” ee ee” ee” SN”
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS AND IMPOSING REMEDIAL sanctions
 
 I.
 
@@ -51,7 +51,7 @@ In anticipation of the institution of an administrative proceeding, the Responde
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondents consent to
 the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
-Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions (“Order”) and
+Commodity Exchange Act, Making Findings and Imposing Remedial sanctions (“Order”) and
 acknowledge service of this Order.’
 
  
@@ -192,12 +192,12 @@ During the Relevant Period, Coinflip operated a facility for the trading of swap
 However, Coinflip did not register the facility as a swap execution facility or designated contract
 market. Accordingly, Coinflip violated Section 5h(a)(1) of the Act and Regulation 37.3(a)(1).
 
-D. Riordan Is Liable for Coinflip’s Violations as Its Controlling Person Under Section
+D. Riordan Is Liable for Coinflip’s violations as Its Controlling Person Under Section
 
 13(b) of the Act
 
 Riordan controlled Coinflip, directly or indirectly, and did not act in good faith or
-knowingly induced, directly or indirectly, Coinflip’s acts in violation of the Act and Regulations;
+knowingly induced, directly or indirectly, Coinflip’s acts in violations of the Act and Regulations;
 therefore, pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b) (2012), Riordan is liable for
 Coinflip’s violations of Sections 4c(b) and Sh(a)(1) of the Act, 7 U.S.C. §§ 6c(b) and 7b-3(a)(1)
 (2012) and Regulations 32.2 and 37.3(a)(1), 17 C.F.R. §§ 32.2 and 37,3(a)(1) (2014).
@@ -214,7 +214,7 @@ transaction solely for purposes related to its business as such.” 17 C.F.R. §
  
 IV.
 
-FINDINGS OF VIOLATIONS
+FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period,
 Respondents violated Sections 4c(b) and Sh(a)(1) of the Act, 7 U.S.C. §§ 4c(b) and 7b-3(a)(1)
@@ -233,7 +233,7 @@ A, Acknowledge receipt of service of this Order;
 
 B. Admit the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C, Waive:
 

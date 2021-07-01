@@ -1,7 +1,6 @@
 import os
 
 from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_, strize
-
 from legal_doc_processing.utils import uniquize as _u
 
 # from legal_doc_processing.utils import load_data
@@ -278,13 +277,13 @@ class Base:
         #     val = self._predict["extracted_authorities"](self.data)
         #     setattr(self, "_extracted_authorities", val)
 
-        #Defendant need judge
-        if feature == "defendant"     : 
+        # Defendant need judge
+        if feature == "defendant":
             val = self._predict["judge"](self.data)
             setattr(self, "_judge", val)
 
         # extracted_violation need penalty_details
-    
+
         if feature == "penalty_details":
             val = self._predict["extracted_violation"](self.data)
             setattr(self, "_extracted_violation", val)

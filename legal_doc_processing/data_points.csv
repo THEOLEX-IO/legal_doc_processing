@@ -1,4 +1,4 @@
-data,data_point,created,prediction_score,priority_(5_is_max), comment
+data,data_point,created,prediction_score,priority_(5_is_max)," comment"
 cadre,1,0,0,0,
 caratere_objectifs_transparents,1,0,0,0,
 claimant,1,0,0,0,
@@ -13,7 +13,7 @@ criteres_entente,1,0,0,0,
 currency,1,1,0.5,5,
 decision_date,1,1,0.5,5,
 declarations_de_soupcons,1,0,0,0,
-defendant,1,1,0.5,5,
+defendant,1,1,0.74,5,"ok ! "
 dependance_economique,1,0,0,0,
 document_link,0,0,0,0,
 extracted_authorities,1,1,0.5,5,
@@ -27,7 +27,7 @@ montant_corrige,1,0,0,0,
 montant_individualise,1,0,0,0,
 name,?,0,0,0,???
 nature_corruption,1,0,0,0,
-nature_de_sanction,1,1,0.5,5,non financier (ban / prison) 
+nature_de_sanction,1,1,0.5,5,"non financier (ban / prison) "
 nature_des_engagements,1,0,0,0,
 nature_of_settlement_signing_entity,1,0,0,0,
 nature_of_violations,1,1,0.5,5,liste deroulante grandes familles

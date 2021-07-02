@@ -33,11 +33,10 @@ mais plusieurs regulateur sur un meme cas --> attention press release
 
 
 
-monetary penalties
-disgorgement
-ban
-restitution
+monetary penalties : 
+- disgorgement
+- restitution
 
 
-natures sanctions -> interdiction / non financier
-interdiction / ban / prison
+natures sanctions -> interdiction / non financier : 
+    interdiction / ban / prison

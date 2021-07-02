@@ -1,0 +1,38 @@
+Release Number 8269-20
+
+CFTC Orders Morgan Stanley Capital Services LLC to Pay $5 Million for Swap Data
+Reporting Failures
+
+September 30, 2020
+
+Washington, D.C. â The Commodity Futures Trading Commission today announced that it has filed and settled charges
+against Morgan Stanley Capital Services LLC, a provisionally registered swap dealer, for failing to comply with swap
+data reporting obligations.
+
+The order requires Morgan Stanley to pay a $5 million civil monetary penalty and to retain a qualified outside consultant
+to verify its remediation of the root causes of the 29 swap data violations set forth in the order.
+
+âThis case demonstrates once again the importance of complying with the CFTCâs swap data reporting requirements,â
+said Division of Enforcement Director James McDonald. âThe CFTC will continue to scrutinize closely entities that do not
+meet their reporting obligations and, as appropriate, will continue to bring cases in this area.â
+
+Case Background
+
+The order finds that since December 31, 2012, Morgan Stanley inaccurately reported swap data for at least
+approximately 3 million swaps, as required under Section 2(a)(13)(F) and (G) of the Commodity Exchange Act and CFTC
+Regulations 43.3(a), 45.3, 45.4, 45.5, and 45.6. The errors included, among others, failures to report accurate primary
+economic terms data fields, including: Legal Entity Identifier, Unique Swap Identifier, notional amount, execution venue
+LEI, and price notation. In addition, Morgan Stanley reported nearly half of its swaps for one asset class outside of the
+time parameters required by CFTC Regulation Part 43.
+
+The order recognizes Morgan Stanleyâs cooperation with the Division of Enforcementâs investigation in the form of a
+reduced civil monetary penalty.
+
+The CFTC thanks and acknowledges the assistance of the National Futures Association in this matter. Thomas Guerin,
+David Aron, and Meghan Tente from the Division of Market Oversight, as well as Robert Stowsky from the Office of Data
+and Technology, also assisted with this case.
+
+The Division of Enforcement staff members responsible for this case are Amanda Burks, Philip Tumminio, Kara Mucha,
+Erica Bodin, James H. Holl, Ill, and Rick Glaser.
+
+-CFTC-

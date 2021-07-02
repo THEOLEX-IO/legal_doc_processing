@@ -1,0 +1,1111 @@
+IN THE UNITED STATES DISTRICT COURT FOR THE,
+
+SOUTHERN DISTRICT OF OHIO
+
+EASTERN DIVISION : | TH he
+
+UNITED STATES OF AMERICA
+Plaintiff,
+Vv.
+
+PETROS CONTOGURIS, a/k/a,
+PETROS CONTOGURIS-TROEMEL,
+
+  
+
+CHIEF JUDGE EDMUND âA. CUMSHS
+SARGUS, JR.
+
+SUPERSEDING INDICTMENT
+
+18 U.S.C. Â§ 371
+15 U.S.C. Â§ 78dd-2
+
+ 
+
+VITALY LESHKOV, 18 U.S.C. Â§ 1956(h)
+AZAT MARTIROSSIAN, a/k/a, ; 18 U.S.C. Â§ 1956(a)(2)(A) & (B)
+AZAT MARTIROSYAN, B 18 U.S.C. Â§ 2
+; FORFEITURE
+Defendants.
+THE GRAND JURY CHARGES:
+INTRODUCTION
+
+At all times relevant to this Indictment:
+Certain Relevant Persons and Entities
+
+1. Rolls-Royce Energy Systems, Inc. (âRRESIâ), was a United States company
+headquartered in the Southern District of Ohio, and thus was a âdomestic concernâ within the
+meaning of the Foreign Corrupt Practices Act of 1977 (âFCPAâ), Title 15, United States Code,
+Section 78dd-2. RRESI was an indirect subsidiary of Rolls-Royce plc (âRolls-Royceâ), a
+publicly traded company in the United Kingdom, which was a holding company with major
+business operations in the civil, aerospace, defense, marine, and energy sectors worldwide.
+RRESI produced and supplied compressors and power turbines and provided aftermarket services
+for oil and gas and power generation projects in a number of countries worldwide, including
+
+Kazakhstan.
+2. Asia Gas Pipeline, LLP (âAGPâ) was a state-owned joint venture between
+Kazakhstanâs KazMunayGas and Chinaâs National Petroleum Corporation that was created to
+build and connect a gas pipeline between Kazakhstan and China. KazMunayGas was controlled
+by Kazakhstan and performed government functions on behalf of Kazakhstan. China National
+Petroleum Corporation was controlled by China and performed government functions on behalf of
+China. In addition, AGP was controlled by the Kazakh and Chinese governments and performed
+government functions for Kazakhstan and China. Thus, KazMunayGas, China National
+Petroleum Corporation, and AGP were each an âinstrumentalityâ within the meaning of the FCPA.
+
+3. âTechnical Advisor,â a company whose identity is known to the Grand Jury, was
+an international engineering and consulting firm with offices worldwide. Technical Advisor
+purported to provide independent engineering advice and project management in a number of
+business sectors, such as national infrastructure, oil and gas, and energy. Technical Advisor was
+retained by AGP to assist it in designing bid specifications and evaluating and awarding bids. In
+that capacity, Technical Advisor and its employees assigned to work on AGP projects were acting
+in âan official capacity for and on behalf ofâ AGP and its joint venture owners within the meaning
+of the FCPA.
+
+4. Defendant PETROS CONTOGURIS, a/k/a PETROS CONTOGURIS-
+TROEMEL (âCONTOGURISâ), a Greek national and resident of Istanbul, Turkey, was the
+founder and Chief Executive Officer of Gravitas & CIE International Ltd. (âGravitasâ), a Turkey-
+based commercial agent and advisor for various oil and gas projects throughout the world.
+CONTOGURIS was a commercial agent for RRESI on the Asia Gas Pipeline project in
+Kazakhstan. CONTOGURIS was an âagentâ of a domestic concern within the meaning of the
+
+FCPA.
+5. Defendant VITALY LESHKOV (âLESHKOVââ) was a Russian national and
+employee of the Almaty, Kazakhstan office of Technical Advisor. As an employee of Technical
+Advisor assigned to work on the AGP projects, LESHKOV had the ability to exert influence over
+decisions at AGP, and he acted in âan official capacity for and on behalf ofâ AGP and its joint
+venture owners within the meaning of the FCPA.
+
+6. Defendant AZAT MARTIROSSIAN, a/k/a AZAT MARTIROSYAN
+(âMARTIROSSIANâ), was an Armenian national and employee of the Beijing, China office of
+Technical Advisor. Before working with Technical Advisor, MARTIROSSIAN formerly was
+Armeniaâs ambassador to China. As an employee of Technical Advisor assigned to work on the
+AGP projects, MARTIROSSIAN had the ability to exert influence over decisions at AGP, and he
+acted in âan official capacity for and on behalf ofâ AGP and its joint venture owners within the
+meaning of the FCPA.
+
+7. Louis Zuurhout (âZuurhoutâ) was a Dutch national and an employee of Dutch
+subsidiaries of Rolls-Royce with responsibility for selling equipment manufactured or assembled
+by RRESI.
+
+8. Keith Barnett (âBarnettâ) was a U.S. national and employee of Rolls-Royce with
+responsibility as a sales director for the sales of equipment manufactured and assembled by RRESI.
+
+9. James Finley (âFinleyâ) was a U.K. national and an executive of Rolls-Royce with
+responsibility over the Rolls-Royce energy sales division, including the sale of equipment
+manufactured and assembled by RRESI and on behalf of Rolls-Royce-affiliated entities in multiple
+countries worldwide.
+
+10. Andreas Kohler (âKohlerâ) was an Austrian national and employee of the Munich,
+
+Germany office of Technical Advisor.
+11. âForeign Official 1,â an individual whose identity is known to the Grand Jury, was
+a high-ranking Kazakh official of KazMunayGas, and thus was a âforeign officialâ within the
+meaning of the FCPA. As an official of KazMunayGas, Foreign Official 1 had the authority to
+exert official influence over purchasing decisions at AGP. CONTOGURIS, LESHKOV,
+MARTIROSSIAN, and their co-conspirators often referred to Foreign Official 1 as âFoxâ or
+âFuchs.â
+
+12. âForeign Representative,â an individual whose identity is known to the Grand Jury,
+was a Kazakh businessman and former Kazakh government official who acted as an agent and
+representative for Foreign Official 1âs dealings with CONTOGURIS, Rolls-Royce, RRESI,
+Technical Advisor, LESHKOV, and their co-conspirators.
+
+13. âForeign Official 2,â an individual whose identity is known to the Grand Jury, was
+a high-ranking Chinese official of Petrochina and its subsidiaries, and thus was a âforeign officialâ
+within the meaning of the FCPA. As an official of Petrochina and its subsidiaries, Foreign
+Official 2 had the authority to exert official influence over purchasing decisions at AGP.
+
+General Allegations
+
+14. RRESI retained CONTOGURIS to pay bribes to various individuals, including
+Foreign Official 1, in order to help Rolls-Royce and RRESI secure and maintain contracts with
+AGP. After securing the contracts, RRESI paid CONTOGURIS a percentage of the payments it
+received from AGP, which CONTOGURIS in turn divided with MARTIROSSIAN and
+LESHKOV, with the understanding that a portion of that money would be provided to Foreign
+Official 1.
+
+15. Specifically, in or around 2007, Kazakh and Chinese state-owned oil and gas
+companies entered into the AGP joint venture agreement to construct a gas pipeline stretching
+
+between Central Asia and China. Rolls-Royce, through RRESI, was among several companies
+4
+bidding for contracts in the construction of the pipeline beginning in or around 2008. Rolls-Royce
+employees, including Zuurhout, Barnett, and Finley, sought a commercial advisor with access to
+key decision-makers in Kazakhstan in order to secure some of the contracts that AGP was going
+to put out for tender. In particular, they had identified Foreign Official 1 as one of the key
+decision-makers and were exploring ways to set up a meeting with Foreign Official 1. In or
+around the same time, CONTOGURIS began working with LESHKOV, MARTIROSSIAN,
+and Kohler to find a company willing to pay them kickbacks in exchange for them helping that
+company win contracts with AGP, including by paying bribes to Foreign Official 1 and others.
+16. Rolls-Royce and RRESI, through Zuurhout, Barnett, Finley, and others, began
+working toward an agreement with CONTOGURIS, LESHKOV, MARTIROSSIAN, Kohler,
+and others, in or around late 2008 when AGP was awarding the first project, Compressor Station
+4. RRESI had put in its bid too late to influence the decision, however, and AGP awarded
+Compressor Station 4 to RRESIâs main competitor, a U-S.-headquartered multinational company
+(âthe Competitorâ), in or around March 2009. The sides still continued to work on coming to an
+agreement whereby RRESI would pay CONTOGURIS a commission through his company
+Gravitas, which CONTOGURIS, Foreign Official 1, LESHKOV, MARTIROSSIAN, Kohler,
+and others, would split. AGP went on to award RRESIa contract for 11 of the 14 units comprising
+Compressor Stations 1, 2, 6 and 7 in or around November 2009 for approximately $145 million.
+AGP then made payments to RRESI starting in early 2010, and RRESI in turn made commission
+payments to Gravitas. CONTOGURIS passed a portion of those commissions onto LESHKOV
+and MARTIROSSIAN, knowing that a portion of those commissions would be shared with
+
+Foreign Official 1 consistent with the corrupt agreement.
+COUNT ONE
+(Conspiracy to Violate the FCPA)
+
+17. Paragraphs 1 through 16 are re-aileged and incorporated by reference as though
+fully set forth herein.
+
+18. Beginning at least in or around 2008 and continuing through in or around 2012,
+within the Southern District of Ohio and elsewhere, the defendant,
+
+PETROS CONTOGURIS, a/k/a
+PETROS CONTOGURIS-TROEMEL,
+
+did knowingly and willfully, that is, with the intent to further the objects of the conspiracy,
+combine, conspire, confederate, and agree with others known and unknown, including, among
+others, Zuurhout, Barnett, and Finley, to commit offenses against the United States, namely, to
+willfully make use of the mails and means and instrumentalities of interstate commerce corruptly
+in furtherance of an offer, payment, promise to pay, and authorization of the payment of any
+money, offer, gift, promise to give, and authorization of the giving of anything of value, to a foreign
+official and to any person, while knowing that all, or a portion of such money and things of value
+would be and had been offered, given, and promised to a foreign official, for purposes of (i)
+influencing acts and decisions of such foreign official in his or her official capacity; (ii) inducing
+such foreign official to do and omit to do acts in violation of the lawful duty of such official; (iti)
+securing any improper advantage; and (iv) inducing such foreign official to use his or her influence
+with a foreign government and agencies and instrumentalities thereof, to affect and influence acts
+and decisions of such government and agencies and instrumentalities, in order to assist RRESI in
+obtaining and retaining business for and with, and directing business to, Rolls-Royce, RRESI,
+
+CONTOGURIS, and others, in violation of Title 15, United States Code, Section 78dd-2.
+Objects of the Conspiracy
+
+19. A principal purpose and object of the conspiracy was for CONTOGURIS and the
+co-conspirators to enrich themselves by paying bribes to foreign officials in order to obtain and
+retain business for Rolls-Royce, RRESI, and others, in connection with AGPâs gas pipeline
+
+between Kazakhstan and China.
+
+Manner and Means of the Conspiracy
+20. The manner and means by which CONTOGURIS, together with his co-
+
+conspirators and others known and unknown to the Grand Jury, sought to accomplish the object
+of the conspiracy included, among other things, the following:
+
+a. CONTOGURIS, Zuurhout, Barnett, Finley, Kohler, LESHKOV,
+MARTIROSSIAN, and others, used telephone calls, Short Message Service (âSMSâ) and text
+messages, and electronic mail (âe-mailâ), among other means, to discuss bribe payments to foreign
+officials, including LESHKOV, MARTIROSSIAN, and Foreign Official 1, in connection with
+Rolls-Royce and RRESIâs efforts to win business with AGP.
+
+b. CONTOGURIS, Zuurhout, Barnett, Finley, Kohler, LESHKOV,
+MARTIROSSIAN, and others, traveled to and from the United States and several other countries
+to meet in person and arrange for bribe payments to be made to foreign officials, including
+LESHKOV, MARTIROSSIAN, and Foreign Official 1, in order to assist Rolls-Royce and
+RRESI in winning business with AGP.
+
+@ CONTOGURIS, Zuurhout, Barnett, Finley, Kohler, LESHKOV,
+MARTIROSSIAN, and others, arranged meetings with Foreign Official 1 and Foreign Official 2
+in order to solidify their influence in support of Rolls-Royce and RRESIâs attempts to obtain and
+
+retain business from AGP.
+d. CONTOGURIS, Zuurhout, Barnett, Finley, Kohler, LESHKOV,
+MARTIROSSIAN, and others, caused Rolls-Royce and RRESI to enter into an advisor agreement
+with Gravitas, through which Rolls-Royce and RRESI paid commissions to Gravitas, which
+included bribes bound for foreign officials, including LESHKOV, MARTIROSSIAN, and
+Foreign Official 1.
+
+e. CONTOGURIS, Zuurhout, Barnett, Finley, Kohler, LESHKOV,
+MARTIROSSIAN, and others, took various surreptitious steps to promote and conceal the bribery
+scheme, including by (i) using code names, such as âFoxâ and âFuchs,â to refer to Foreign Official
+1, and (ii) concealing the bribe payments to Foreign Official 1 within RRESIâs commission
+payments to Gravitas.
+
+f. CONTOGURIS, Zuurhout, Barnett, Finley, Kohler, LESHKOV,
+MARTIROSSIAN, and others, transferred and caused to be transferred funds, including bribe
+payments, to and from bank accounts in the United States, Kazakhstan, the United Kingdom, the
+Bahamas, Singapore, Hong Kong, Switzerland, and elsewhere, to promote and conceal the bribery
+scheme.
+
+g. CONTOGURIS, Zuurhout, Barnett, Finley, Kohler, LESHKOV,
+MARTIROSSIAN, and others, discussed and disseminated confidential and internal AGP and
+Technical Advisor documents and information to help Rolls-Royce and RRESI win business with
+AGP.
+
+h. CONTOGURIS, Zuurhout, Barnett, Finley, Kohler, LESHKOV,
+MARTIROSSIAN, and others, used invoices in an attempt to provide the appearance of
+
+legitimacy to the commission payments and fund transfers.
+Overt Acts
+
+21. In furtherance of the conspiracy and to achieve the objects thereof, at least one of
+the co-conspirators committed, or caused to be committed, in the Southern District of Ohio and
+elsewhere, at least one of the following overt acts, among others:
+
+22. On or about September 25, 2008, CONTOGURIS, Foreign Representative, and
+Zuurhout met in Moscow, Russia to discuss the ways in which CONTOGURIS and Foreign
+Representative could assist Rolls-Royce in winning business from AGP.
+
+23. On or about September 27, 2008, RRESI submitted a bid to AGP for Compressor
+Station 4.
+
+24. On or about October 30, 2008, CONTOGURIS and Finley flew to Kazakhstan,
+where they met with Foreign Official 1 and Foreign Representative.
+
+25. On or about November 5, 2008, LESHKOV e-mailed CONTOGURIS about
+Foreign Official 1âs availability to meet with Finley in London. LESHKOV wrote that Foreign
+Official 1, to whom he referred as âMr. Fox,â âadvised not to worry for the tender,â and that âthe
+meeting in London will be an important oneâ and CONTOGURIS should âplease keep warm
+RR.â
+
+26. On or about November 27, 2008, Finley met with Foreign Official 2 and
+MARTIROSSIAN in China and discussed potential business opportunities for Rolls-Royce with
+AGP, including supplying the gas turbine compressor packages for Compressor Station 4.
+
+27. On or about December 3, 2008, CONTOGURIS flew to London, England, where
+he met with Finley, Kohler, Foreign Representative and Foreign Official 1.
+
+28. | Onor about December 4, 2008, CONTOGURIS e-mailed Finley, copying Kohler,
+
+and recounting the December 3, 2008 meeting, stating:
+[Kohler] and I sincerely hope that all of your concerns were laid to rest during the meeting
+with Mr. Fox. He has clearly taken a position and confirmed that [Foreign
+Representative] is designated as a welcome and reliable local partner. . . . You also saw
+how respectful [Foreign Representative] behaved vis-a-vis Mr. Fox. Everything is
+marching in the right direction.
+
+Mr. Fox authorized [Kohler] to let you benefit from receiving information when and if it
+
+is being produced in order to give you more time to prepare. This is also an indication
+
+that he wanted you to know that he is the âMaster of the gameâ.
+
+29. On or about December 12, 2008, CONTOGURIS e-mailed Zuurhout and Finley a
+copy of an internal AGP evaluation of the Competitorâs bid for Compressor Station 4.
+CONTOGURIS wrote: âJob has not been awarded. Best tactic to follow is to let me know what
+we offer in terms of short and medium/long term remuneration scheme. Will process this through
+[Foreign Representative] and hope to turn it around. [MARTIROSSIAN] says Chinese have no
+objection. Please do not make available to anyone else but addresses.â
+
+30. On or about December 27, 2008, Finley e-mailed CONTOGURIS a proposed
+engagement letter between Rolls-Royce and Gravitas for the AGP project that provided for
+Gravitas to be paid a 2% commission on new equipment for the compressor stations on the pipeline
+and a 6% commission for aftermarket sales.
+
+31. On or about December 27, 2008, CONTOGURIS replied to Finleyâs e-mail
+referenced in Paragraph 30 above, stating: â[LESHKOV] told me yesterday that [Foreign
+Representative] would like to meet in Zurich . . . and take it to the next level.â
+
+32. On or about December 27, 2008, CONTOGURIS forwarded to LESHKOV and
+Kohler the Rolls-Royce engagement letter from Finley and added a recap of where things stood,
+writing: âWe met with Mr. Fox and [Foreign Representative] on June 28th . . . and agreed on the
+basic principle of cooperation. On the 29th of August we had the unsuccessful meeting with [the
+
+Competitor] and commenced the canvassing of RR.â In the e-mail, CONTOGURIS also listed
+
+the meetings with Zuurhout, Barnett, and Finley over the previous few months, as well as âdozens
+
+10
+of e-mail exchanges and telephone calls,â before noting: âWe are four partners,
+[MARTIROSSIAN], [LESHKOV], [Kohler] and the undersigned.â
+
+33. On or about January 11, 2009, CONTOGURIS e-mailed LESHKOV and Kohler,
+and addressing LESHKOV, wrote:
+
+It may be stated without any doubt that without the joint efforts of [Kohler], [LESHKOV]
+
+and the undersigned (augmented by the valiant efforts of our friend and partner in Peking,
+
+[MARTIROSSIAN]) the Kazakh Group led by [Foreign Representative] would not have
+
+been able to proceed to the status quo we have managed to be elevated to. . . . The âsecretâ
+
+weapon without much doubt, is the responsible role that the [Technical Advisor] is
+requested to assist [AGP] with the adjudication process. . . . I will do my best to bring
+
+[Zuurhout] and [Barnett] to the state-of-mind that will predicate our presence. . . . [YJour
+
+contribution is to keep Fox in-line with the decision making process, however [Kohler]
+
+needs to head our efforts to negotiate a workable and therefore profitable deal for us.
+
+34. On or about January 15, 2009, Zuurhout, Barnett, and CONTOGURIS met with
+Foreign Representative and his Swiss lawyers in Zurich, Switzerland. At the meeting, Foreign
+Representative explained that Rolls-Royceâs proposed bribe of 2% of the price for new equipment
+sales that Rolls-Royce received was not acceptable. Foreign Representative instead demanded a
+bribe of 10% of the new equipment sales and threatened that Rolls-Royce would not win any
+business if it did not agree.
+
+35. On or about January 19, 2009, LESHIKOV e-mailed Kohler to update him on the
+Zurich meeting and wrote: âThe main purpose was to find a deal for the future RR activity in Kz
+and upcoming tender for CS 4. . RR informed they have no objection to a deal, but they need
+a clear source and company to deal via.â
+
+36. On or about January 19, 2009, CONTOGURIS e-mailed Zuurhout: âPlease let me
+know whether or not I should try to utilize the forces of my friend and partner,
+[MARTIROSSIAN], to impress upon [the Chinese side of AGP], to consider y(our) offer rather
+
+than the one of [the Competitor].â
+
+11
+37. On or about January 19, 2009, Zuurhout replied to the e-mail referenced in
+Paragraph 36 above, stating: âGive it a go.â
+
+38.  Onor about January 20, 2009, Zuurhout e-mailed Barnett and Finley to report that
+he had a phone call with Kohler and CONTOGURIS, and â[LESHKOV] is to meet mr fox either
+tomorrow or friday. He needs input on how far rr is willing to go. As discussed with [Barnett]
+last week this need[s] to come from reallicating [sic] the percentages. After that [Finley] [w]ill
+need to meet mr fox to confirm this number on very short notice.â
+
+39. On or about January 26, 2009, CONTOGURIS sent an e-mail to Zuurhout,
+Barnett, and Finley, and wrote that in his âpersistent effort to render every kind of conceivable
+effort and endeavor to assist RR energy to be awarded the CS 4 and/or other contracts,â he was
+attaching internal AGP documents, which he summarized as demonstrating the Chinese side of
+AGPâs preferences for certain turbine specifications that could favor the Competitor.
+CONTOGURIS also proposed that Finley âauthorize [MARTIROSSIAN] to immediately
+mobilize his considerable resources that Chinese authorities insist vis-4-vis Kazakh to also
+consider RR offer in their comparison.â
+
+40. On or about January 26, 2009, CONTOGURIS forwarded to MARTIROSSIAN
+the e-mail referenced in Paragraph 39 above, and asked MARTIROSSIAN to confirm that he
+received it.
+
+41. On or about January 26, 2009, MARTIROSSIAN replied to the e-mail referenced
+in Paragraph 40 above, stating, âYes I received.â
+
+42. Â° On or about January 26, 2009, Zuurhout replied to CONTOGURISâs e-mail
+referenced in Paragraph 39 above: âAs discussed earlier today we need all the support to turn
+Kazakhstan into our favor. Please ask you[r] friend [MARTIROSSIAN] to work from his angle.
+
+... ] look forward to discuss [sic] our proposal . . . on the alternative solution to CS4.â
+
+12
+43. On or about January 26, 2009, CONTOGURIS forwarded Zuurhoutâs reply in
+Paragraph 42 to MARTIROSSIAN, copied Kohler, and wrote: â[MARTIROSSIAN], Please
+read his answer, this is their clear authority to us . . . to proceed to try our utmost to save this CS 4
+project. If you manage this with your top echelon contact, I am telling you and [Kohler] that they
+(RR) would even ask us if we could save their Chinese project. . . .â
+
+44, On or about January 26, 2009, Kohler e-mailed MARTIROSSIAN: âDear
+[MARTIROSSIAN], please do your utmost that [the Chinese partner at AGP] will consider RRâs
+proposal and start negotiations with them soonest. Copy of the RR bid will be submitted to you
+immediately.â
+
+45. On or about January 26, 2009, CONTOGURIS forwarded to MARTIROSSIAN
+and Kohler an e-mail Zuurhout sent to CONTOGURIS about TRACE approval for Gravitas.
+CONTOGURIS wrote: âDear [MARTIROSSIAN], . . . Once they send this conditions, they have
+already âcrossedâ this line, i.e. they have internally decided to indeed work with us. Please note
+that this is their âendorsementâ of [Kohler], Azat [|MARTIROSSIAN], Petros [CONTOGURIS],
+Vitaly [LESHKOV].â
+
+46. On or about January 26, 2009, MARTIROSSIAN responded to the e-mail
+referenced in Paragraph 45 above, stating that he would keep in âclose contactâ with the Chinese
+side of the AGP joint venture and that: âI am not for sure station No4 but I think it will be possible
+involve Rols Roys [sic] in future. 1âll use also possibilities during Chinese New Year meetings
+but the real work can be done after New Year holidays.â
+
+47. On or about January 26, 2009, CONTOGURIS forwarded to MARTIROSSIAN
+and Kohler another e-mail exchange between CONTOGURIS and Zuurhout, and added to the
+subject line âURGENT PRIVATE AND CONFIDENTIAL - 4 YOUR EYES ONLY.â
+
+CONTOGURIS wrote that Zuurhout was trying to âinduce [Finley] to meet with Foxâ and
+13
+estimated that MARTIROSSIANâs âprovident access to top echelon decision makers in PROC,â
+when âcombinedâ with âFoxâ would allow Rolls-Royce to get its âfoot into the door.â
+CONTOGURIS wrote to them that âafter speaking to [MARTIROSSIAN] tonight and listening
+carefully to him and to what he had to say, I could detect that he still has not lost all of his hope to
+promote the CS 4[.]â
+
+48, On or about January 29, 2009, Zuurhout e-mailed CONTOGURIS Rolls-Royceâs
+proposed scope of supply for CS4 and wrote: â[the Chinese] should have the full proposal. . . .
+Why donât you have MARTIROSSIAN use the PMC report... . Whom is he contacting [with the
+Chinese]?â
+
+49. On or about January 29, 2009, CONTOGURIS forwarded to MARTIROSSIAN
+and Kohler the e-mail referenced in Paragraph 48 above.
+
+50. On or about February 6, 2009, CONTOGURIS met with Zuurhout and Barnett in
+London, where they informed CONTOGURIS that, based on the prior meeting in Zurich, they
+would not move forward with CONTOGURIS as an advisor on the AGP bids if Foreign
+Representative continued to be involved.
+
+51. | Onor about February 24, 2009, CONTOGURIS and Kohler had a conference call
+with Zuurhout and Barnett, in which they agreed that Rolls-Royce would continue to work with
+CONTOGURIS on RRESIâs AGP bids without Foreign Representative.
+
+52. On or about February 28, 2009, CONTOGURIS e-mailed LESHKOV, writing
+that âthe offensive behavior of [Foreign Representative] has led RR to not want to collaborate with
+him.â CONTOGURIS then proposed a way forward:
+
+Ihave suggested you [LESHKOV] to be the official RR man on the ground in Kazkahstan
+
+[sic], in whatever function. ... GM or Chief Advisor Kazakhstan or whatever... . You
+
+secure the collaboration of your friend [Foreign Official 1]. Iam going to instal [sic] an
+absolutely satisfactory system how future revenues are going to be distributed.
+
+14
+CONTOGURIS, switching to the third person, then wrote: âWe shall distribute 60% to your
+friend and 10% each to our partner in China [MARTIROSSIAN], our partner in Kazakhstan
+[LESHKOV)], our partner in Austria [Kohler] and our partner in Turkey [CONTOGURIS].â
+CONTOGURIS also proposed paying Foreign Official 1 his split of the Gravitas commission
+from Rolls-Royce through LESHKOV via a Singaporean shell company.
+
+53. On or about March 5, 2009, LESHKOV responded to CONTOGURIS: âTI [met]
+Mr. Fox and we also discussed RR issue. He agreed and has nothing against that I will be in
+charge for dealing with RR. The scheme as in your e-mail might be implemented.â
+
+54, On or about March 20, 2009, AGP awarded the contract for Compressor Station 4
+to the Competitor.
+
+55. On or about April 5, 2009, MARTIROSSIAN e-mailed CONTOGURIS and
+Kohler, advising that a Chinese official would âensureâ Rolls-Royceâs invitation and qualification
+for the AGP contract tenders by sending an e-mail on their behalf to the leader of the Chinese side
+of the AGP joint venture. MARTIROSSIAN also advised that the Chinese official would keep
+in close contact with MARTIROSSIAN âabout [the] situation for RR.â
+
+56. On or about April 5, 2009, CONTOGURIS forwarded to Zuurhout, Barnett, and
+Finley the e-mail referenced in Paragraph 55 above.
+
+57. On or about May, 8, 2009, RRESI submitted its bid to supply AGP with 14 gas
+turbine compressor packages for Compressor Stations 1, 2, 6, and 7.
+
+58. On or about May 8, 2009, after Zuurhout, Barnett, Finley, and others at RRESI
+realized that its margins were going to be much lower than it had first anticipated, Finley e-mailed
+CONTOGURIS a new commission agreement which provided for a Gravitas commission reduced
+from 2% to 1.5% on new equipment for the compressor stations on the pipeline and reduced from
+
+6% to 3% for aftermarket sales.
+
+15
+59. On or about May 9, 2009, CONTOGURIS forwarded Finleyâs e-mail to
+LESHKOV and wrote: âRR have told me that this is the absolute maximum they can afford in
+their calculation, whilst still remaining competitive. [LESHKOV] please be so kind and speak
+to your people and obtain their concurrence that this agreement should be countersigned and
+entered into.â
+
+60. Onor about May 12, 2009, LESHKOV replied to the e-mail from CONTOGURIS
+referenced in Paragraph 59 above, stating: âI should have a private meeting with Mr. Fox in several
+days. ... Meanwhile could you please advise â if I indicate 1,5% and then 3% and it [g]oes all to
+Fox&company where is our interest to be ingaged [sic] in the process?â
+
+61. On or about May 12, 2009, CONTOGURIS responded to the e-mail from
+LESHKOV referenced in Paragraph 60 above, stating: âBottom line is that I do not know how
+to answer your question. We have what we have and Fox has to at least share 2/3 1/3, we
+definitely do not want the business otherwise. . . .[I]f Fox is not agreeable to support the RR fully
+as and [sic] what we have on the table today, I will cancel the arrangement and tell them to go
+ahead without our support.â
+
+62. On or about June 6, 2009, LESHKOV e-mailed CONTOGURIS after
+LESHKOV met with âFox,â and wrote:
+
+Summary: R is very competitive from all points of view (technical and price). To
+
+negotiate the relations with R, at this point he indicated that 1,5 and 3 is not acceptable and
+
+proposed 3,5 and 3,5. But I clearly understood it is negotiable (I mean it should be a room
+
+for us, otherwise bringing the Client and working with him for a year for free itâs a
+
+nonsense). . . . I believe at least 0,5 should be reserved for us. . . .
+
+63. On or about June 12, 2009, CONTOGURIS sent an e-mail to LESHKOV with
+the subject line âour friends in London,â explaining that CONTOGURIS tried to push Rolls-
+
+Royce to increase the Gravitas commission but it would not go further and was âprepared to walk
+
+away from the transaction completely.â CONTOGURIS noted: âThe corporate governance
+16
+processes of this listed company is formidable, there are forty employees in a division that is
+specifically designed to avoid exactly this what your friend wants to do now.â
+
+64. On or about June 18, 2009, LESHKOV responded to the e-mail from
+CONTOGURIS referenced in Paragraph 63 above, stating, âMr. Fox [wa]s getting angry,â that
+the âproposed 3,5 [wa]s already the lowest ever on the market,â and that â[t]he arguments â âlisted
+companyâ or âcorporate governance processâ they can leave for mass mediaâ because other âeven
+bigger caliberâ companies were always able to find a âcompromise.â
+
+65. On or about June 21, 2009, CONTOGURIS e-mailed LESHKOV and Kohler and
+stated: âTell Mr. Fuchs to proceed as is and we will cede 75% of the current agreement to your
+Singapore company. That means that you will receive 1.833.750,-USD at this stage and we will
+be satisfied with 611.000,-USD.... As it is there are 6.7 Million lying on the table for Fuchs and
+1.8 Million for us from phases 1 +2.â CONTOGURIS added: âThis is a listed company
+operating in a country where anti-corruption laws are the strictest in Europe. If it had not been
+for my 8 Billion USD track record and my business acumen shown, at least [Kohler] knows that,
+there would not be a deal on the table.â
+
+66. On or about July 12, 2009, CONTOGURIS e-mailed MARTIROSSIAN, and
+copied Kohler, following a phone call between MARTEROSSIAN and CONTOGURIS.
+CONTOGURIS, addressing MARTIROSSIAN as âBro Azat,â wrote that he agreed that the
+âKazakhsâ should not be able to âget rewardedâ if they did not help, or worked against, Rolls-
+Royce and that it would be âbetter to cancel the contract with RR and more honorable from our
+side to do so, which is the ONLY way to remain truthful to our word to RR, whom we promised
+our support.â CONTOGURIS then addressed Kohler, adding: âit is your obligation to now speak
+to Mr. Fox and bring clarity into this. Without [MARTIROSSIAN]âs efforts the PROC side
+
+would not have pronounced RR as the desired âwinnerâ. We know that [Foreign Official 2] went
+17
+to Kazakhstan to participate in the shareholders meeting of the JV, just for the purpose of
+upholding the agreement with you bro Azat [MARTIROSSIAN]. Contoguris closed by stating
+that he would âleave it to your wisdom [MARTIROSSIAN] and to [Kohlerâs] knowledge and
+intuition, how to manage this matter in a judicious and transparent way vis-a-vis RR.â
+
+67. On or about August 3, 2009, Barnett and Finley traveled to Astana, Kazakhstan and.
+met with LESHKOV, where they discussed RRESIâs bid and prepared for AGPâs upcoming bid
+clarification meetings.
+
+68. On or about August 4, 2009, CONTOGURIS sent an e-mail to Finley, copying
+Kohler, in which CONTOGURIS advised that he had learned that RRESIâs bid had a potential
+technical deficiency in the proposed emissions efficiency and that one way to address it involved
+going âthrough [MARTIROSSIAN]âs Chinese support structureâ where MARTIROSSIAN had
+âunimaginable waysâ of âreachingâ into the Chinese government.
+
+69. On or about August 10, 2009, LESHKOV e-mailed Finley: âI have discussed with
+Fox the issue. Diplomatically he answered support will be provided, but now also a lot depends
+on your technical clarification.â
+
+70. On or about August 13, 2009, Barnett and Finley visited CONTOGURIS at his
+home in Istanbul, Turkey and confirmed that they would increase the commission percentage
+RRESI would pay to Gravitas for new equipment by .75% (for a total of 2.25%) if RRESI won all
+14 turbines that were up for bid (for Compressor Stations 1, 2, 6 and 7), and .25% (for a total of
+1.75%) if it won fewer than all 14.
+
+71. On or about August 14, 2009, MARTIROSSIAN e-mailed CONTOGURIS and
+relayed that he had learned that âChinese preferable option is: CS No-1 for [the Competitor] (from
+
+supply schedule reason and âif Kazakh side can keep a faceâ). Other 3 station for RR... .â
+
+18
+72. On or about August 14, 2009, CONTOGURIS e-mailed LESHKOV and Kohler,
+summarizing the split between Foreign Official 1 and LESHKOV, Kohler, MARTIROSSIAN,
+and CONTOGURIS: âThat means the final picture is the following: In case all 14 machines are
+awarded the Foxtrott Co will receive 1.50%, the balance will go to the âQuatrumphirateâ. In case
+less than 14 machines, the 1.25% will go to Foxtrott Co and the balance will go to
+âQuatrumphirate.â.â
+
+73. On or about August 15, 2009, LESHKOV replied to the e-mail from
+CONTOGURIS referenced in Paragraph 72 above, stating: âI made my best recently to sort out
+at least our position towards [Finley] and lialize [sic] with Fox.â LESHKOV explained that
+âTw]hat [wa]s more difficult was to influence [sic] [Technical Advisorâs] engineers!â
+
+TA. On or about August 28, 2009, after individuals within the Kazakh side of AGP
+circulated an internal memorandum deeming RRESIâs bid âtechnically unacceptableâ and
+recommending disqualification, Kohler attached the memorandum to an email to
+MARTIROSSIAN, and copied CONTOGURIS. Kohler noted that, âthe Kazakhs have used the
+weak points of RR and calculated very high financial losses,â and asked MARTIROSSIAN,
+âHow is the situation now?â
+
+75. On or about August 28, 2009, CONTOGURIS forwarded to Finley the e-mail
+referenced in Paragraph 74 above and wrote that MARTIROSSIAN was âreporting from Pekingâ
+that a Chinese foreign official told him that nothing was decided yet and that they were âtrying
+[their] best to increase the leverage from Chinese side, to stop the bloody Kazak [sic].â
+
+76. On or about August 30, 2009, LESHKOV met with Foreign Official 1 to discuss
+AGPâs internal recommendation to disqualify RRESI.
+
+77. On or about September 6, 2009, Finley sent an SMS or âtext messageâ to
+
+LESHKOV saying âthe deal with fox is cancelled.â
+19
+78. On or about September 7, 2009, LESHKOV e-mailed Finley, copied Barnett and
+CONTOGURIS, and explained that Foreign Official 1 had âinitiated an internal investigationâ
+into the memorandum disqualifying RRESI while Technical Advisor had refused to endorse it.
+LESHKOV explained that â[b]ecause of Fox and our company position (plus to certain extend
+[sic] Chinese position) [the disqualification] decision is blocked.â Referring to Finleyâs SMS,
+LESHKOV then wrote âIâm stick [sic] to . . . agreements reached, unless they are cancelled. I
+feel regret now to be involved in all this discussions (which, as gentlemen, we should keep
+absolutely in high confidentiality). Also my reputation (in front of Fox, for example) can be
+harmed.... Ikindly ask you asap to confirm/or not your sms.â
+
+79. On or about September 11, 2009, CONTOGURIS e-mailed Barnett and Finley,
+attaching a confidential written report from Technical Advisor setting out arguments for why the
+internal memorandum disqualifying RRESI was incorrect and proclaiming that RRESIâs bid was
+acceptable. In the e-mail, CONTOGURIS wrote: âI sincerely hope that your previously
+mentioned grievances have been put to rest... . I am sure you can âuseâ this adequately. If you
+cannot provide access of this document to your Chinese friends, please let me know and I will
+inform [MARTIROSSIAN] to hand it over officially.â
+
+80. On or about November 22, 2009, AGP awarded RRESI a contract to supply 11 of
+the 14 gas turbine compressor packages for approximately $145 million.
+
+81. Approximately three days later, on or about November 25, 2009, Gravitas and
+RRESI executed a written advisor agreement.
+
+82. On or about the following dates, CONTOGURIS, Zuurhout, Barnett, Finley,
+Kohler, LESHKOV, MARTIROSSIAN, and others, caused AGP to make the following corrupt
+payments from AGPâs bank accounts in Kazakhstan to bank accounts belonging to RRESI in
+
+Mount Vernon, Ohio, located in the Southern District of Ohio, with the knowledge and intent that
+20
+part of the payments would be used to bribe Foreign Official 1 in furtherance of the corrupt
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+scheme:
+Overt Act Date Amount
+(on or about)
+82.a. January 14, 2010 $43,589,766.00
+82.b. July 7, 2010 $10,563,820.08
+82.c. October 4, 2010 $10,563,820.08
+82.d. October 28, 2010 $10,563,820.08
+82.Â¢. December 3, 2010 $7,920,234.52
+82.8. January 5, 2011 $10,563,820.08
+82.g. June 10, 2011 $7,920,234.52
+82.h. December 30, 2011 $14,088,937.34
+82. June 24, 2013 $18,484,054.60
+82.k. July 5, 2013 $10,563,820.08
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+83. On or about the following dates, CONTOGURIS, Zuurhout, Barnett, Finley,
+Kohler, LESHKOV, MARTIROSSIAN, and others, caused RRESI to make the following
+corrupt commission payments from RRESIâs bank accounts in Mount Vernon, Ohio, located in
+the Southern District of Ohio, to Gravitasâs bank accounts in the United Kingdom, with the
+knowledge and intent that part of the commission payments would be used to bribe Foreign
+
+Official 1 in furtherance of the corrupt scheme:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Overt Act Date Amount â
+(on or about)
+
+83.a. April 27, 2010 $732,877.21
+
+83.b. October 1, 2010 $177,683.30
+
+ 
+
+21
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+83.c. December 14, 2010 $355,366.59
+83.d. February 24, 2011 $133,218.23
+83.e. April 19, 2011 $177,683.30
+83.f. September 21, 2011 $133,218.23
+83.g. March 8, 2012 $236,975.71
+
+ 
+
+84. In or around February 2010, CONTOGURIS lobbied Finley for a 2.25%
+commission (which they had agreed would only be paid had RRESI won 14 units) even though
+RRESI won fewer than the 14 total units up for bid.
+
+85. On or about February 27, 2010, after Finley refused to pay more than the agreed
+upon 1.75%, CONTOGURIS sent Finley an SMS: âVery sad that after positioning RR with a lot
+of patience and continuous follow-up from my side, that you have not seen it necessary to
+personally attend to outstanding matters, which is necessary.â
+
+86. | Onor about February 27, 2010, CONTOGURIS forwarded the SMS referenced in
+Paragraph 85 above as an e-mail to Kohler and wrote: âTell Fuchs no dice from RR.â
+
+87. In or around August 2010, after negotiations, LESHKOV told CONTOGURIS
+and Kohler that Foreign Official 1 would agree to accept a lump sum of $500,000 USD from
+CONTOGURIS as the payment for the RRESI award rather than wait until CONTOGURIS
+received all of the commission payments from RRESI.
+
+88. On or about September 19, 2010, LESHKOV sent an e-mail to CONTOGURIS
+and Kohler, in which he attached a document with details for his Singaporean shell corporation
+
+and wrote: âKindly asking you to proceed.â
+
+22
+89. On or about February 14, 2011, CONTOGURIS made the first of approximately
+six transfers of the commissions RRESI paid to Gravitas from the U.K. bank account to accounts
+in the Bahamas and Switzerland.
+
+90. On or about February 14, 2011, LESHKOVâs accountant sent LESHKOV five
+false invoices from MARTIROSSIAN to LESHKOVâs Singaporean shell corporation for
+purported work done on a âbusiness development project in China carried out in 2008,â before
+LESHKOVâs Singaporean shell corporation wired approximately $99,230 to
+MARTIROSSIANâs bank account in Hong Kong approximately three days later.
+
+91. On or about March 15, 2011, CONTOGURIS wired $500,000 from a bank account
+in the Bahamas to LESHKOVâs bank account in Switzerland.
+
+92. On or about March 15, 2011, CONTOGURIS sent an e-mail to LESHKOV with
+a subject of âFinal payment of personal debts,â and wrote: âI finally managed to make the transfer
+yesterday and have finally been able to settle all the loans extended to me. . . as agreed, total sum
+500K.â
+
+93. On or about March 9, 2012, approximately one day after RRESI paid its last
+commission payment installment to Gravitas, CONTOGURIS transferred approximately
+$232,223 of the $236,975 to his bank account in Switzerland.
+
+94, On or about April 11, 2012, MARTIROSSIAN e-mailed CONTOGURIS two
+invoices, both dated March 30, 2012, each in the amount of $25,000. The invoices requested
+payment for â[MARTIROSSIAN]âs fees for services rendered for successfully negotiating and
+signing for and on behalf of Gravitasâ on a project in China.
+
+95. Onor about April 17, 2012, CONTOGURIS wired approximately $50,000 from a
+
+bank account in the Bahamas to MARTIROSSIANâs bank account in Hong Kong.
+
+23
+96. On or about December 18, 19, and 20, 2012, CONTOGURIS made three payments
+from the Gravitas HSBC London account totaling approximately $150,000 to
+MARTIROSSIANâs HSBC account in Hong Kong, which in whole or in part, was a corrupt
+payment to MARTIROSSIAN for his assistance to Rolls-Royce on the AGP project.
+
+All in violation of Title 18, United States Code, Section 371.
+
+COUNTS TWO THROUGH EIGHT
+(15 U.S.C. Â§ 78dd-2 and 18 U.S.C. Â§ 2 â Foreign Corrupt Practices Act)
+
+97. Paragraphs 1 through 16 and 19 through 96 are re-alleged and incorporated by
+reference as though fully set forth herein.
+
+98. On or about the dates set forth below, in the Southern District of Ohio and
+elsewhere, the defendant,
+
+PETROS CONTOGURIS,
+a/k/a PETROS CONTOGURIS-TROEMEL,
+
+being an agent of a domestic concer, did willfully make use of and cause to be used the mails and
+means and instrumentalities of interstate commerce corruptly in furtherance of an offer, payment,
+promise to pay, and authorization of the payment of any money, offer, gift, promise to give, and
+authorization of the giving of anything of value, to a foreign official and to any person, while
+knowing that all, or a portion of such money and things of value would be and had been offered,
+given, and promised to a foreign official, for purposes of (i) influencing acts and decisions of such
+foreign official in his or her official capacity; (ii) inducing such foreign official to do and omit to
+do acts in violation of the lawful duty of such official; (iii) securing any improper advantage; and
+(iv) inducing such foreign official to use his or her influence with a foreign government and
+agencies and instrumentalities thereof, to affect and influence acts and decisions of such
+government and agencies and instrumentalities, in order to assist RRESI and others known and
+
+unknown, in obtaining and retaining business for and with, and directing business to,
+24
+CONTOGURIS, Rolls-Royce, RRESI, and others, to wit: causing the following wire transfers to
+be made from RRESIâs bank accounts in Mount Vernon, Ohio, located in the Southern District of
+
+Ohio, to Gravitasâs bank accounts in the United Kingdom, and aiding and abetting such wire
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+transfers:
+COUNT DATE i AMOUNT
+2 April 27, 2010 : $732,877.21
+3 October 1, 2010 $177,683.30
+4 December 14, 2010 $355,366.59
+5 February 24, 2011 $133,218.23
+6 April 19, 2011 $177,683.30
+7 September 21, 2011 $133,218.23
+8 March 8, 2012 $236,975.71
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+All in violation of Title 15, United States Code, Section 78dd-2 and Title 18, United States
+Code, Section 2.
+
+COUNT NINE
+(18 U.S.C. Â§ 1956(h) - Money Laundering Conspiracy)
+
+99. Paragraphs 1 through 16 and 19 through 96 are re-alleged and incorporated by
+reference as though fully set forth herein.
+
+100. On or about the dates set forth below, in the Southern District of Ohio and
+elsewhere, the defendant,
+
+PETROS CONTOGURIS, a/k/a PETROS CONTOGURIS-TROEMEL,
+VITALY LESHKOV, and
+AZAT MARTIROSSIAN, a/k/a, AZAT MARTIROSYAN
+
+together with others known and unknown to the Grand Jury, willfully and knowingly did combine,
+
+conspire, confederate, and agree together with each other to commit offenses under Title 18,
+25
+United States Code, Section 1956, namely, to transport, transmit, and transfer a monetary
+instrument and funds from a place in the United States to and through a place outside the United
+States, and to a place in the United States from and through a place outside the United States, (A)
+with the intent to promote the carrying on of specified unlawful activity, namely, bribery of a
+foreign official, a felony violation of the FCPA, Title 15, United States Code, Section 78dd-2, and
+(B) knowing that the monetary instrument and funds involved in the transportation, transmission,
+and transfer represented proceeds of some form of unlawful activity, namely, bribery of a foreign
+official, a felony violation of the FCPA, Title 15, United States Code, Section 78dd-2, and knowing
+that such transportation, transmission, and transfer was designed in whole or in part to conceal and
+disguise the nature, the location, the source, the ownership and the control of the proceeds of
+specified unlawful activity, in violation of Title 18, United States Code, Section 1956(a)(2)(A),
+(B).
+All in violation of Title 18 United States Code, Section 1956(h).
+
+COUNTS TEN THROUGH NINETEEN
+(18 U.S.C. Â§Â§ 1956(a)(2)(A), (B), & 2 â Money Laundering)
+
+101. Paragraphs 1 through 16 and 19 through 96 are re-alleged and incorporated by
+reference as though fully set forth herein.
+
+102. On or about the dates set forth below, in the Southern District of Ohio and
+elsewhere, the defendant,
+
+PETROS CONTOGURIS, a/k/a PETROS CONTOGURIS-TROEMEL,
+VITALY LESHKOV, and
+AZAT MARTIROSSIAN, a/k/a, AZAT MARTIROSYAN
+
+transported, transmitted, and transferred, and attempted to transport, transmit, and transfer, a
+
+monetary instrument and funds from a place in the United States to and through a place outside
+
+the United States, and to a place in the United States from and through a place outside the United
+
+26
+States, (A) with the intent to promote the carrying on of specified unlawful activity, namely,
+bribery of a foreign official, a felony violation of the FCPA, Title 15, United States Code, Section
+78dd-2, and (B) knowing that the monetary instrument and funds involved in the transportation,
+transmission, and transfer represented proceeds of some form of unlawful activity, namely, bribery
+of a foreign official, a felony violation of the FCPA, Title 15, United States Code, Section 78dd-
+2, and knowing that such transportation, transmission, and transfer was designed in whole or in
+part to conceal and disguise the nature, the location, the source, the ownership and the control of
+the proceeds of specified unlawful activity, to wit: causing the following wire transfers from
+AGPâs bank accounts in Kazakhstan to RRESIâs bank accounts in in Mount Vernon, Ohio, located
+
+in the Southern District of Ohio, and aiding and abetting such wire transfers:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COUNT DATE OF OFFENSE AMOUNT
+10 January 14, 2010 $43,589,766.00
+11 July 7, 2010 $10,563,820.08
+12 October 4, 2010 $10,563,820.08
+13 October 28, 2010 $10,563,820.08
+14 December 3, 2010 $7,920,234.52
+15 January 5, 2011 $10,563,820.08
+16 June 10, 2011 $7,920,234.52
+17 December 30, 2011 $14,088,937.34
+18 June 24, 2013 $18,484,054.60
+19 July 5, 2013 $10,563,820.08
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+All in violation of Title 18, United States Code, Sections 1956(a)(2)(A), (B), and 2.
+
+27
+FORFEITURE A
+(18 U.S.C. Â§ 981(a)(1)(C) & 28 U.S.C. Â§ 2461(c))
+
+1. The allegations of this Superseding Indictment are incorporated herein by reference
+for the purpose of alleging forfeitures to the United States under Title 18, United States Code,
+Section 981(a)(1)(C) and Title 28, United States Code, Section 2461(c).
+
+2. Upon conviction of one or more violations of Title 15, United States Code, Section
+78dd-2 and/or a conspiracy to commit such offense, in violation of Title 18, United States Code,
+Section 371, as alleged in this Superseding Indictment, the defendant, PETROS CONTOGURIS,
+a/k/a PETROS CONTOGURIS-TROEMEL, shall forfeit to the United States, pursuant to Title
+18, United States Code, Section 981(a)(1)(C) and Title 28, United States Code, Section 2461(c),
+any property, real or personal, constituting or derived from proceeds traceable to such offense(s),
+or a conspiracy to commit such offense.
+
+Substitute Assets
+
+3. If any of the forfeitable property described above, as a result of any act or omission
+
+by the defendant, PETROS CONTOGURIS, a/k/a PETROS CONTOGURIS-TROEMEL:
+a. cannot be located upon the exercise of due diligence;
+b. has been transferred or sold to, or deposited with, a third party;
+
+cs has been placed beyond the jurisdiction of the Court;
+
+d. has been substantially diminished in value; or
+e. has been commingled with other property which cannot be divided without
+difficulty,
+
+it is the intent of the United States of America, under Title 21, United States Code, Section 853(p),
+as incorporated by Title 28, United States Code, Section 2461(c), to seek forfeiture of any other
+property of the defendant, PETROS CONTOGURIS, a/k/a PETROS CONTOGURIS-
+
+TROEMEL, up to the value of the above forfeitable property.
+28
+Forfeiture pursuant to Title 18, United States Code, Section 981(a)(1)(C), Title 28, United
+States Code, Section 2461(c), and Rule 32.2 of the Federal Rules of Criminal Procedure.
+
+FORFEITURE B
+(18 U.S.C. Â§ 982(a)(1))
+
+4. The allegations of this Superseding Indictment are incorporated herein by reference
+for the purpose of alleging forfeitures to the United States under Title 18, United States Code,
+Section 982(a)(1).
+
+5. Upon conviction of one or more violations of Title 18, United States Code, Section
+1956, as alleged in this Superseding Indictment, the defendants, PETROS CONTOGURIS, a/k/a
+PETROS CONTOGURIS-TROEMEL ITALY LESHKOV, and AZAT
+MARTIROSSIAN, a/k/a, AZAT MARTIROSYAN, shall forfeit to the United States, pursuant
+to Title 18, United States Code, Section 982(a)(1), any property, real or personal, involved in such
+offense(s), or any property traceable to such property.
+
+Substitute Assets
+
+6. If any of the forfeitable property described above, as a result of any act or omission
+by the defendants, PETROS CONTOGURIS, a/k/a PETROS CONTOGURIS-TROEMEL
+VITALY LESHKOV, and AZAT MARTIROSSIAN, a/k/a, AZAT MARTIROSYAN:
+
+a. cannot be located upon the exercise of due diligence;
+
+b. has been transferred or sold to, or deposited with, a third party;
+
+Cc. has been placed beyond the jurisdiction of the Court;
+
+d. has been substantially diminished in value; or
+
+e. has been commingled with other property which cannot be divided without
+difficulty,
+
+it is the intent of the United States of America, pursuant to Title 21, United States Code, Section
+
+853(p), as incorporated by Title 18, United States Code, Section 982(b)(1), to seek forfeiture of
+29
+any other property of the defendants, PETROS CONTOGURIS, a/k/a PETROS
+
+CONTOGURIS-TROEMEL VITALY LESHKOV, and AZAT MARTIROSSIAN, a/k/a,
+
+AZAT MARTIROSYAN, up to the value of the above forfeitable property.
+
+Forfeiture pursuant to Title 18, United States Code, Section 982(a)(1) and Rule 32.2 of the
+
+Federal Rules of Criminal Procedure.
+
+SANDRA MOSER
+ACTING CHIEF, FRAUD SECTION
+
+   
+ 
+
+  
+
+VIN R. G
+VANESSA S.
+Trial Attorneys, Criminal Division
+U.S. Department of Justice
+
+30
+
+A TRUE BILL.
+SiForeperson
+
+FOREPERSON
+
+BENJAMIN C. GLASSMAN
+UNITED STATES ATTORNEY
+
+J. MICHAEL MAROUS
+JESSICA H. KIM
+Assistant United States Attorneys
+
+Southern District of Ohio
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 

@@ -1,0 +1,39 @@
+Release Number 8024-19
+September 30, 2019
+
+CFTC Orders Chicago Trading Firm and Its Co-Founder to Pay $2.5 Million in Penalties for
+Spoofing and Manipulative Trading Scheme
+
+Washington, DC - The U.S. Commodity Futures Trading Commission announced today the filing and settling of
+enforcement actions against Hard Eight Futures, LLC and Igor Chernomzav for spoofing - bidding or offering with
+the intent to cancel the bid or offer before execution - and for engaging in a manipulative and deceptive trading
+scheme. Hard Eight is a proprietary trading firm located in Chicago, Illinois. Chernomzav is a founder, partner of, and
+trader for, Hard Eight, and resides in Monsey, New York.
+
+âThis case is about maintaining fair markets,â said CFTC Director of Enforcement James McDonald. âMarket integrity in
+todayâs electronically traded markets starts with making sure bids and offers represent real buying and selling interest,
+not fake order flow intended to manipulate other market participants.â
+
+The orders require Hard Eight and Chernomzav to pay civil monetary penalties of $1.75 million and $750,000,
+respectively, for total penalties of $2.5 million. In addition, Chernomzav is barred from trading in any market regulated
+by the CFTC for a period of nine months.
+
+The orders state that from March 2014 through March 2015, Chernomzav placed bids and offers for E-mini futures
+contracts on Globex, the CMEâs electronic trading platform, with the intent to cancel those orders before execution. At
+the time Chernomzav placed and cancelled the orders, they constituted a substantial percentage of the best bid or offer.
+
+The CFTC orders find that Chernomzav placed the orders to create a false impression of significant buying or selling
+interest. Chernomzav used this false impression of buying or selling interest, or the sudden and dramatic removal
+thereof, to induce other market participants to transact with orders that he wanted to be executed at prices or in
+quantities favorable to him.
+
+Chernomzav engaged in this conduct on more than a thousand occasions between March 2014 and March 2015.
+
+The CME Groupâs Market Regulation Department independently conducted a parallel investigation, and today also
+announced disciplinary actions against Hard Eight and Chernomzav. The CFTC thanks CME Group for its assistance in
+this matter.
+
+The CFTC Division of Enforcement staff members responsible for this case are Ashley J. Burden, Joy McCormack, Matthew
+Edelstein, David Terrell, and Scott Williamson.
+
+-CFTC-

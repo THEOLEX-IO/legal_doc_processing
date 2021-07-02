@@ -1,0 +1,274 @@
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+
+ 
+
+SECURITIES AND EXCHANGE COMMISSION,
+
+Plaintiff, Civil Action No.
+
+11-CV-1704-LDW
+v.
+
+COMVERSE TECHNOLOGY, INC.,
+
+Defendant.
+
+ 
+
+ 
+
+COMPLAINT
+
+Plaintiff Securities and Exchange Commission (ââPlaintiffâ or âCommissionââ) alleges for
+its Complaint as follows:
+
+SUMMARY
+
+1. Between 2003 and 2006, Comverse Technology, Inc. (ââComverseââ) violated the
+books and records and internal controls provisions of the Foreign Corrupt Practices Act (the
+ââFCPAââ) when its Israeli operating subsidiary, Comverse Limited (âComverse Limitedâ),
+engaged in a scheme to make improper payments to obtain or retain business.
+
+2. In order to facilitate and conceal the payments, Comverse Limited employed a
+third-party agent (the âAgentâââ) to establish an offshore entity in Cyprus which, in turn, funneled
+the improper payments to Comverse Limitedâs customers. Employees of Comverse Limited
+made payments to the Cyprus entity and, after taking 15% off the top of these payments, the
+Agent paid or facilitated the payment of the remaining 85% to Comverse Limitedâs customers in
+the form of cash bribes.
+
+3. Comverse Limited did not accurately record these improper payments in its books
+
+and records, which, in turn, caused them to be improperly classified in Comverseâs consolidated
+financial statements. Comverse failed to devise and maintain a system of internal accounting
+controls sufficient to provide reasonable assurances that transactions at all. levels of the
+organization were recorded properly.
+
+4. By engaging in the foregoing conduct, Comverse violated Sections 13(b)(2)(A)
+and 13(b)(2)(B) of the Securities Exchange Act of 1934 (âExchange Actâ) [15 U.S.C.
+Â§Â§ 78m(b)(2)(A) and 78m(b)(2)(B)].
+
+JURISDICTION AND VENUE
+
+5: The Court has jurisdiction over this action pursuant to Sections 21(d), 21(e),
+and 27 of the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e), and 78aa].
+
+6. Defendant Comverse, directly or indirectly, used the means and instrumentalities
+of interstate commerce, or of the mails, or the facilities of a national securities exchange in
+connection with the transactions, acts, practices, and courses of business alleged herein.
+
+âTe Venue is proper in this District because Comverse was headquartered and/or
+maintained an office in Woodbury, New York during the relevant time period, and certain of the
+acts, transactions, practices, and courses of business alleged herein took place in the Eastern
+District of New York.
+
+THE DEFENDANT
+
+8. Comverse Technology, Inc. (âComverseâ), a New York corporation that
+was based in Woodbury, New York, is now headquartered in New York City. It makes
+software systems and provides related services for multimedia communication and information
+processing applications. During the relevant period, Comverseâs common stock was
+registered with the Commission pursuant to Section 12(g) of the Exchange Act. Its stock
+previously traded on the NASDAQ National Market, but was delisted from NASDAQ
+
+effective June 1, 2007 because it failed to timely file its 2005 Annual Report on Form 10-K and
+2006 Quarterly Reports on Forms 10-Q. Comverseâs stock now is quoted on the âPink Sheetsâ
+under the symbol âCMVTâ or âCMVT.PK.â On March 23, 2010, the Commission instituted an ,
+administrative proceeding against Comverse to determine whether its securities should be
+deregistered. On July 22, 2010, an Administrative Law Judge issued an Initial Decision
+revoking Comverseâs registration. Comverse has petitioned for a review of the Initial Decision.
+Its petition is pending.
+
+9. Comverseâs main operating subsidiary is Comverse, Inc. (âCNSIââ), a Delaware
+corporation that has its principal place of business in Wakefield, Massachusetts. Comverse
+Limited is a wholly-owned subsidiary of CNSI and is incorporated in Israel with a principal
+place of business in Tel Aviv, Israel.
+
+OTHER RELEVANT ENTITIES
+
+10. Hellenic Telecommunications Organisation S.A. (âOTEâ) is a
+telecommunications provider based in Athens, Greece, which is partially owned by the Hellenic
+Republic (the âGreek Governmentâ). At all times relevant to this Complaint, the Greek
+Government was OTEâs largest single shareholder and owned more than one-third of OTEâs
+issued share capital The Greek Government was also OTEâs largest customer for
+telecommunications services.
+
+FACTS
+
+11. Between 2003 and 2006, Comverse Limited made improper payments to
+employees connected to OTE in order to obtain or retain business with OTE. The scheme
+originated in Comverse Limitedâs EMEA (Europe, Middle East, and Africa) sales division and
+the improper payments were inaccurately recorded on Comverse Limitedâs books and records,
+
+which, in turn, were consolidated with Comverseâs financial results.
+Establishment and Use of Fintron
+
+12. In approximately January 2003, Comverse Limited entered into a consulting
+agreement with the Agent, an Israeli citizen, purportedly to facilitate sales for Comverse Limited
+in Greece and other countries. The Agent incorporated an entity in Cyprus called Fintron
+Enterprises Ltd. (âFintronâ) and opened an account for Fintron at a bank in Cyprus.
+
+13. Comverse Limited then executed an agency contract with Fintron, pursuant to
+which Fintron purportedly was to assist Comverse Limited in obtaining business with specific
+customers located outside the United States.
+
+14. | The contract between Comverse Limited and Fintron specified that Fintron was to
+be paid a monthly retainer fee and agent âcommissionsâ associated with each Comverse Limited
+customer.
+
+15. In reality, these agent âcommissionsâ consisted of the amount that each specific
+Comverse Limited customer would be paid as a bribe in exchange for business, and a fee for
+Fintron.
+
+16. Various sales executives in Comverse Limitedâs EMEA sales division approved
+the Fintron agency contract and subsequent renewals of that contract. During the relevant
+period, neither Comverse nor Comverse Limited had a process, formal or otherwise, for
+conducting due diligence of third-party agents or for the independent review of third-party agent
+contracts outside of the sales departments.
+
+17. Despite the terms of the contract, Fintron played no role in developing, obtaining
+or retaining business for Comverse Limited. Comverse Limited employees, not Fintron,
+
+negotiated business orders with customers. Fintron merely funneled cash to the recipients of
+Comverse Limitedâs improper payments. Comverse Limited employees directed the Agentâs
+activities, determined his itinerary and paid for his travel arrangements. "
+18. The flow of cash between Comverse Limited, Fintron, and the recipients of
+Comverse Limitedâs bribes occurred as follows:
+a. When Comverse Limitedâs EMEA division obtained a contract from a
+customer, an EMEA executive instructed the Agent to have Fintron invoice
+Comverse Limited for the âcommissionâ amount associated with that
+customer.
+b. The Agent inserted the amount communicated by Comverse Limited into the
+Fintron invoice, and sent the invoice to Comverse Limited for payment.
+c. Comverse Limited employees began to process the payment to Fintron even
+before receiving Fintronâs invoice. A Comverse Limited employee notified a
+Comverse Limited financial analyst that Fintron would be sending an invoice
+and provided the analyst with the invoiced amount. The analyst then prepared.
+and submitted the paperwork and obtained approvals to pay Fintronâs invoice
+through an automated system at Comverse Limited.
+d. Once the invoices were received, Comverse Limited made payments to
+Fintron directly into Fintronâs Cyprus bank account. The Agent kept 15% of
+the invoiced amount and withdrew the remaining 85% from Fintronâs bank
+account, which represented the cash bribe to be paid to the Comverse Limited
+customer. The Agent delivered this amount either directly to the customerâs
+employee or to a Comverse Limited employee who, in turn, made the delivery
+
+to the customerâs employee.
+19. Comverse Limited falsified its books and records by characterizing and recording
+the bribes as legitimate sales commissions, thereby failing accurately to reflect the payments and
+their purpose. These improper expenses, in turn, were consolidated into Comverseâs financial
+records.
+
+20. Employees in Comverse Limitedâs EMEA division tracked the âcommissionâ
+payments to Fintron and tracked the bribes outside of Comverse Limitedâs accounting system.
+They created spreadsheets that contained columns labeled âbrutoâ (gross) and ânetoâ (net),
+representing the full invoiced amount paid to Fintron and the amount paid after the Agentâs 15%
+deduction, which represented the cash bribe.
+
+21. Between 2003 and 2006, Comverse Limited, using Fintron, made improper
+payments totaling approximately $536,000 to individuals connected to OTE, including
+employees of OTEâs subsidiaries Cosmote, Cosmofon, and Cosmorom to obtain or retain OTEâs
+business. The improper payments resulted in $1.2 million of improper benefit to Comverse
+Limited, which flowed through to Comverse.
+
+Closure of Fintron
+
+22. Comverse Limitedâs head of security was alerted to suspicious activity involving
+the Agent in December 2005. The Agent had been detained while on a same-day round-trip
+flight from Tel Aviv, Israel to Rome, Italy and back, and during his detention he falsely
+identified himself as an employee of Comverse. This led the head of security to conduct an
+investigation and ultimately recommend in a memorandum to a Comverse Limited Human
+Resources executive in Israel and to the head of Comverse Limitedâs EMEA sales division that
+
+Comverse Limited either terminate its relationship with the Agent or, in the short term, ensure
+that the Agent had âan appropriate cover story that is grounded and backed up with documents
+that Comverse has no part in.â
+
+23. Comverse and Comverse Limited did not have policies or internal controls
+requiring the head of security to notify senior Comverse or Comverse Limited executives of the
+Agentâs conduct on behalf of Comverse Limited and, thus, neither the memorandum nor its
+contents were shared with anyone at CNSI or Comverse.
+
+24. By the end of 2006, Comverse Limited ceased its payments to the Agent and
+Fintron, prompting the Agent to close the Fintron bank account and dissolve the entity.
+Comverse Limited eventually terminated its relationship with the Agent by not renewing his
+contract for 2007.
+
+Comverseâs Failure to Properly Maintain
+Books and Records and Adequate Internal Controls
+
+25. Both Comverse and Comverse Limited failed to properly record the nature of
+Comverse Limitedâs improper payments. In the transactions described herein, Comverse
+Limited mischaracterized improper payments funneled through Fintron as âagent commissions.â
+When Comverse consolidated Comverse Limitedâs operating results into its own books and
+records, Comverse also failed to properly record the bribes and money paid to the Agent.
+
+26. At the time of the conduct, while Comverse did have an omnibus anti-corruption
+policy that prohibited improper payments to government-affiliated third parties and others,
+Comverse did not widely circulate this policy and provided no training on it to any employees.
+
+27. At the time of the conduct described herein, neither Comverse, nor Comverse
+Limited had a process, formal or otherwise, for conducting due diligence of sales agents or for
+the independent review of agent contracts outside of the sales departments. Moreover, both
+
+Comverse and Comverse Limited did not have policies or internal controls requiring the head of
+security to notify senior Comverse or Comverse Limited executives of the Agentâs conduct on
+behalf of Comverse Limited.
+CLAIMS
+
+Violations of Exchange Act Sections 13(b)(2)(A) and 13(b)(2)(B)
+
+28. The Commission realleges and incorporates by reference each and every allegation
+contained in Paragraphs 1 to 27.
+
+29. As alleged, Comverse Limited engaged in a scheme to use an agent to make
+improper payments to obtain or retain business. Comverseâs books and records mischaracterized
+such payments as âagent commissions.â Moreover, Comverse failed to establish internal
+controls to ensure that it properly recorded these transactions.
+
+30. Section 13(b)(2)(A) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(A)] requires
+issuers to make and keep books, records, and accounts which, in reasonable detail, accurately
+and fairly reflect the transactions and dispositions of its assets. Section 13(b)(2)(B) of the
+Exchange Act [15 U.S.C. Â§ 78m(b)(2)(B)] requires issuers to devise and maintain a system of
+internal accounting controls sufficient to provide reasonable assurances that transactions are
+recorded as necessary to permit preparation of financial statements in conformity with GAAP
+and to maintain the accountability of assets.
+
+31. By engaging in the conduct alleged above, defendant Comverse violated Exchange
+
+Act Sections 13(b)(2)(A) and 13(b)(2)(B) [15 U.S.C. Â§Â§ 78m(b)(2)(A) and 78m(b)(2)(B)].
+PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully prays that this Court enter-a judgment:
+
+Permanently enjoining Defendant Comverse from having FCPA-related violations with
+regard to its books and records and internal controls, in violation of Sections 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78m(b)(2)(A) and 78m(b)(2)(B)].
+
+Ordering Defendant Comverse to disgorge ill-gotten gains, with prejudgment interest,
+wrongfully obtained as a result of their illegal conduct; and
+
+Granting such further relief as the Court may deem just and appropriate.
+
+Dated: April 6, 2011
+Respectfully submitted,
+
+ff
+
+Suzanne J/ Romajas|(SR-453 1)
+Antonia Chion (AC-9522)
+Ricky Sachar
+
+Noel Gittens
+
+Pamela Kesner
+
+Kevin Guerrero
+
+SECURITIES AND EXCHANGE COMMISSION
+100 F Street, N.E.
+Washington, DC 20549-4030
+Tel: 202 551-4473 (Romajas)
+E-mail: RomajasS@sec.gov
+
+Attorneys for Plaintiff

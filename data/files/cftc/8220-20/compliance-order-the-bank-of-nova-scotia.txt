@@ -1,0 +1,1257 @@
+ 
+
+UNITED STATES OF AMERICA RECEIVED crrc
+Before the
+
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+ 
+
+In the Matter of:
+
+Proceedings Clerk
+
+ 
+
+ 
+
+7:27 am, Aug 19, 2020
+The Bank of Nova Scotia, g yy
+
+ 
+
+CFTC Docket No. 20-26
+Respondent.
+
+New Nee Nome Nee ee eeâ eeâ eeâ
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (âCommissionââ) has reason to believe that
+at various times from at least December 31, 2012 to the present (the âRelevant Periodââ), Bank of
+Nova Scotia (âRespondentâ or âBNSâ) violated Sections 4s(f)(1)(C), 4s(g)(1) and (3), 4s(h)(1),
+and 6(c)(2) of the Commodity Exchange Act (âActâ), 7 U.S.C. 8Â§ 6s(f)C1)(C), 6s(g)(1), (3),
+6s(h)(1), 9(2) (2018), and Commission Regulations (âRegulationsâ) 23.431(a)(3), 23.201(a)(1),
+23.202(a)(1), 23.402(b), 23.602(a), 1.31(d)(3)(), and 3.3(e), 17 C.F.R. Â§Â§ 23.431(a)(3),
+23.201(a)(1), 23.202(a)(1), 23.402(b), 23.602(a), 1.31(d)(3) Ci), 3.3(e) (2019). Therefore, the
+Commission deems it appropriate and in the public interest that public administrative
+proceedings be, and hereby are, instituted to determine whether Respondent engaged in the
+violations set forth herein and to determine whether any order should be issued imposing
+remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
+Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions (âOrderââ) and
+acknowledges service of this Order.'
+
+Il. FINDINGS
+
+The Commission finds the following:
+A. SUMMARY
+
+During the Relevant Period, BNS failed to supervise its swap dealer activities diligently,
+leading to numerous violations of Section 4s of the Act, 7 U.S.C. Â§ 6s (2018), and to its base
+metals * desk regularly failing to comply with the swap dealer business conduct standards and
+recordkeeping requirements set forth in Part 23 of the Commissionâs Regulations, 17 C.F.R. pt.
+23 (2019). BNSâs counterparty onboarding process, recordkeeping, and Chief Compliance
+Officer reporting also failed to comply with the Act and Commission Regulations at times during
+the Relevant Period. Further, BNS was unable to respond to certain requests for required records
+made by the Commissionâs Division of Enforcement (the âDivisionâ or âDOEââ) and made false
+or misleading statements to Division staff during the Divisionâs investigation. BNS did not
+adequately remediate its non-compliant practices for many months after it became aware of the
+Divisionâs investigation, and BNS has only recently begun to remediate certain of the issues.
+
+Swap dealers such as BNS must comply with certain external business conduct standards,
+including providing pre-trade disclosure of the swap dealerâs material incentives and conflicts of
+interest related to a swap. These include disclosing to potential counterparties the mid-market
+mark of a swap prior to consummating a swap transaction. The so-called pre-trade mid-market
+mark (ââPTMMMââ) must exclude any amounts for profit, credit reserve, hedging, funding,
+liquidity, or any other costs or adjustments. By making such disclosures, swap dealers inform
+their counterparties of an approximate measure of the objective value of a swap prior to markup
+being added by the swap dealer. Regularly from around May 2013 through the end of 2017, and
+then at times through at least the end of 2019, BNSâs swap dealer desks provided counterparties
+with PTMMMs that were inaccurate, untimely, or both, or failed to provide a PTMMM entirely,
+affecting tens of thousands of swaps. This conduct had the effect of concealing BNSâs full
+markup from its swaps counterparties and violated Section 4s(h)(1) of the Act, 7 U.S.C.
+
+Â§ 6s(h)(1) (2018), and Regulation 23.431(a), 17 C.F.R. Â§ 23.431(a) (2019).
+
+ 
+
+' Respondent consents to the use of the findings of fact and conclusions of law in this Order in this proceeding and
+in any other proceeding brought by the Commission or to which the Commission is a party or claimant, and agrees
+that they shall be taken as true and correct and be given preclusive effect therein, without further proof. Respondent
+does not consent, however, to the use of this Order, or the findings or conclusions herein, as the sole basis for any
+other proceeding brought by the Commission or to which the Commission is a party or claimant, other than: a
+proceeding in bankruptcy or receivership; a proceeding to enforce the terms of this Order; or a statutory
+disqualification proceeding pursuant to Section 8a(2), (3) and (4), 7 U.S.C. Â§ 12a(2), (3), (4) (2018), and in
+accordance with Paragraph 3 of the undertakings in this Order. BNS does not consent to the use of the Offer or this
+Order, or the findings or conclusions in this Order, by any other party in any other proceeding.
+
+2 : : : : :
+Base metals include aluminum, copper, lead, nickel, tin, and zinc.
+From around May 2013 through at least late 2019, BNS also failed to comply with
+recordkeeping requirements for PTMMMs under the Act and Regulation. BNS had records of
+PTMMMs in the emails, chats messages, and audio recordings in which the PTMMMs had been
+communicated to counterparties. It did not, however, keep comprehensive records and did not
+keep its records in a manner searchable by transaction and counterparty. See Section 4s(g),
+7U.S.C. Â§ 6s(g) (2018); Regulations 23.201(a)(1), 23.202(a)(1), 17 C.F.R. Â§Â§ 23.201(a)C1);
+23.202(a)(1) (2019). Because of these recordkeeping failures, when Division staff sought BNSâs
+PTMMM records, BNS could not produce them to the Division promptly upon request, in
+violation of Regulation 1.31(d)(3)@i), 17 C.F.R. Â§ 1.31(d)(3) Gi) (2019).
+
+BNSâs recordkeeping failures were not limited to PTMMMs. At the outset of its
+investigation, Division staff sent BNS a document preservation notice that required BNS to
+preserve, among other things, audio recordings of its base metals personnel telephone lines.
+After Division staff requested production of the audio recordings, BNS informed Division staff
+that it was unable to make a complete production because certain of the recordings had been
+deleted. Separately, BNS failed to provide a complete production of other audio recordings
+subject to a Division request for over eight months due to its inability to locate a full set of the
+recordings. These recordkeeping failures violated Sections 4s(f) and (g) of the Act, 7 U.S.C.
+
+Â§ 6s(f), (g) (2018), and Regulations 23.201(a)(1), 23.202(a)(1), and 1.31(d)(3)(i), 17 C.F.R.
+Â§Â§ 23.201 (a)C1), 23.202(a)(1), 1.31(d)(3) Gi) (2019).
+
+BNS also made statements to Division staff during the course of the Divisionâs
+investigation that BNS knew or reasonably should have known were false or misleading
+concerning: (i) whether it had preserved all requested audio recordings; and (11) who supervised
+its New York base metals desk in late 2017. Each of these false or misleading statements
+impeded the Divisionâs ability to investigate BNSâs compliance failures, and violated Section
+6(c)(2) of the Act, 7 U.S.C. Â§ 9(2) (2018).
+
+Further, after being on notice of certain problems with its onboarding process, BNS failed
+to implement policies and procedures reasonably designed to obtain and record facts concerning
+whether its counterparties were U.S. persons. Among other things, these facts were needed to
+determine whether BNS was subject to PTMMM disclosure requirements. BNS therefore violated
+Regulation 23.402(b), 17 C.F.R. Â§ 23.402(b) (2019).
+
+BNS also failed to comply with chief compliance officer reporting requirements.
+Although BNS was aware of significant weaknesses in its trade surveillance program, BNSâs
+disclosures in its 2017 Chief Compliance Officer Annual Report (2017 CCO Reportâ) failed to
+adequately describe those issues, in violation of Regulation 3.3(e), 17 C.F.R. Â§ 3.3(e) (2019).
+
+** ** **
+
+In accepting BNSâs offer, the Commission notes that although BNS took some
+cooperative steps during the course of the Divisionâs investigation, it also engaged in conduct
+that impeded the Divisionâs investigation. BNSâs conduct resulted in certain charges in this
+Order, including failing to preserve audio recordings and making false statements to Division
+staff. BNS also provided untimely, inaccurate, and incomplete responses to Division requests for
+documents and information, which required Division staff to expend resources to identify gaps
+and errors and then pursue BNS to provide complete and accurate responses. Further, BNS has
+only recently begun to remediate certain of its non-compliant practices despite having been on
+notice of serious compliance failures and weaknesses and of the Divisionâs investigation for
+some time.
+
+B. RESPONDENT
+
+The Bank of Nova Scotia is a chartered schedule I bank on the Bank Act (Canada),
+headquartered in Toronto, Canada. BNS has been provisionally registered with the Commission
+as a Swap Dealer since December 31, 2012. BNS maintains offices in, among other places, New
+York, New York, and Houston, Texas.
+
+C. FACTS
+
+1. BNS Failed to Provide Accurate or Timely Pre-Trade Mid-Market Marks, or
+Failed to Provide Marks at All, and BNSâs Records of Its Swaps
+Transactions Failed to Meet Commission Requirements
+
+Section 4s(h) of the Act, 7 U.S.C. Â§ 6s(h) (2018), sets forth certain business conduct
+standards for swap dealers. These standards include requirements that swap dealers disclose to
+counterparties: (1) information about the material characteristics of the swap to be traded; (2)
+the swap dealerâs material incentives and conflicts of interest related to the swap; and (3) a daily
+mark of each uncleared swap transaction.
+
+Regulation 23.431, 17 C.F.R. Â§ 23.431 (2019), implements some of the disclosure requirements
+of Section 4s(h). Pursuant to Regulation 23.431(a), swap dealers must disclose to
+counterparties,â â[a]t a reasonably sufficient time prior to entering into a swap,â among other
+things: (1) the material characteristics of the particular swap, âwhich shall include the material
+economic terms of the swap, the terms relating to the operation of the swap, and the rights and
+obligations of the parties during the term of the swapâ; and (2) the material incentives and
+conflicts of interest the swap dealer may have in connection with the swap, which shall include
+[with respect to disclosure of the price of the swap, the price of the swap and the mid-market
+mark of the swap.â
+
+Regulation 23.431(d)(2) instructs swap dealers that pre-trade mid-market marks âshall
+not include amounts for profit, credit reserve, hedging, funding, liquidity, or any other costs or
+adjustments.â* The Commission has noted that the term mid-market âhas been used by many
+
+ 
+
+* Both Section 4s(h)(3)(B) and Regulation 23.43 1(a) limit the disclosure requirements discussed in this Order to
+counterparties who are not swap dealers, major swap participants, security-based swap dealers, or major security-
+based swap participants. The Commission has expressed the view that, for non-U.S.-based swap dealers such as
+BNS, Regulation 23.431(a) will generally apply under CEA Section 2(1), 7 U.S.C. Â§ 2(i), to swaps trades made with
+counterparties located within the United States. See Interpretive Guidance and Policy Statement Regarding
+Compliance with Certain Swap Regulations, 78 Fed. Reg. 45,292, 45,351 (July 26, 2013). This Order will use the
+general term âcounterpartiesâ to refer to counterparties that fall within the scope of the Act and Regulations.
+
+* The Commission considered, but ultimately did not require, swap dealers to disclose their profit separately.
+Business Conduct Standards for Swap Dealers and Major Swap Participants with Counterparties (âProposed Rule
+Releaseââ), 75 Fed. Reg. 80,638, 80,645 (Dec. 22, 2010).
+industry participants since at least 1994,â and characterized the mid-market mark as an
+
+âobj ectiveâÂ® and âtransparentâ value. Because the mid-market mark requirement was a
+âprinciples basedâ rule, the Commission declined to âendorse any particular methodologyâ of
+calculating the mark.Â®
+
+a. Failures to Comply with Business Conduct Standards for Pre-Trade
+Mid-Market Marks
+
+Regularly from around May 2013 through the end of 2017, and at times through at least
+the end of 2019, BNS swap dealer desks provided counterparties PTMMMs that were inaccurate,
+untimely, or both, or failed to provide a PTMMM entirely. These failures had the effect of
+concealing BNSâs full markup from counterparties for tens of thousands of swaps. Around late
+2018, BNS began to improve its compliance with PTMMM requirements, but BNS still engaged
+in certain noncompliant practices through at least the end of 2019.
+
+The BNS base metals deskâs PTMMM compliance failures are representative of similar
+failures that occurred on other BNS trading desks. From around May 2013 through at least the
+end of 2017, BNSâs base metals traders and salespeople provided counterparties PTMMMs that
+failed to inform the counterparties of the full trading and sales markups included in its prices. In
+a typical example of this conduct, a counterparty would approach a base metals salesperson to
+request BNS offer to sell it some number of three-month aluminum forward swaps. The
+salesperson would then relay the request to a trader, who would provide a price that included a
+trading markup. On top of that price, the salesperson would add additional dollars of sales
+markup before quoting the offer to the counterparty. When the counterparty accepted the price,
+the salesperson would then disclose a PTMMM that was only one dollar less than the agreed-
+upon price. In this instance and numerous others like it, BNSâs PTMMM was inaccurate
+because it did not exclude all costs and adjustmentsâonly one dollar of themâand it had the
+effect of understating the full markup added by both the salesperson and the trader.
+
+BNS also provided inaccurate PTMMMs in instances where it did not sufficiently train
+its personnel to provide accurate marks. For example, one member of BNSâs base metals desk
+(âSalesperson 1â) had provided PTMMMs to counterparties for complex options transactions,
+including zero-cost collar transactions,â since approximately November 2016. Yet, ina
+December 2017 recorded telephone call with a supervisor, Salesperson | indicated that he did
+not understand how to calculate a PTMMM for a zero-cost collar transaction and that he
+âalwaysâ âjust kind of stuck random stuff inâ for the PTMMM.
+
+ 
+
+> Business Conduct Standards for Swap Dealers and Major Swap Participants with Counterparties (âFinal Rule
+Releaseââ), 77 Fed. Reg. 9,734, 9,768 (Feb. 17, 2012).
+
+Â° Id.
+â Proposed Rule Release, 75 Fed. Reg. at 80,646.
+* Final Rule Release, 77 Fed. Reg. at 9,768.
+
+â A zero cost collar is an options strategy by which a trader purchases a call (put) option while simultaneously
+selling a put (call) option, with equal and offsetting premiums. The strategy is typically used to hedge against the
+price volatility of the underlying asset.
+For at least one thousand base metals trades between April 2017 and December 2017
+alone, BNS provided an inaccurate PTMMM. By providing inaccurate PTMMMs that
+understated its full mark up on swaps, BNS prevented counterparties from being able to assess
+swap valuations fully before making trading decisions.
+
+With respect to timeliness, from 2013 through at least late 2018, and occasionally
+thereafter, BNSâs base metals desk also failed to provide PTMMMs to counterparties at a
+reasonably sufficient time prior to entering into a swap. The common practice for BNSâs base
+metals desk was to provide a PTMMM after it and its counterparty had agreed to transact. In
+numerous instances, BNS provided a PTMMM seconds, minutes, or hours after a transaction was
+consummated. As a result, for the vast majority of the 20,000 base metals swaps BNS executed
+from 2013 through late 2018 where BNS provided a PTMMM,, it failed to provide a PTMMM
+sufficiently prior to entering into a swap. Thus, even if BNS provided a counterparty an accurate
+PTMMM,, it still effectively concealed its full markup from counterparties until after a trade was
+done.
+
+Finally, from 2013 through at least 2019, BNS failed to provide counterparties with
+PTMMMs at all for up to 4,300 base metals swaps.â In numerous instances, BNSâs
+communications with a counterparty concerning a transaction do not contain a PTIMMM
+disclosure.
+
+b. Failures to Keep Records of Pre-Trade Mid-Market Marks as
+Required by the Act and Commission Regulations
+
+During the Relevant Period, BNS also failed to keep records as required of the PTMMMs
+provided to counterparties by all of its trading desks. Under the Act and Regulations, swap
+dealers must keep daily trading records such as PTMMMs in a form and manner identifiable and
+searchable by transaction and counterparty. See Section 4s(g), 7 U.S.C. Â§ 6s(g) (2018);
+Regulations 23.201(a)(1), 23.202(a)(1), 17 C.F.R. Â§Â§ 23.201(a)(1); 23.202(a)(1) (2019). Swap
+dealers must also be able to produce required records such as PTMMMs to the Commission
+âpromptlyâ upon request. See Regulation 1.31(d)(3)(i1), 17 C.F.R. Â§ 1.31(d)(3) G0).
+
+During the Relevant Period, BNS had records of PTMMMs it provided to counterparties
+in one or more of the following places, depending on the transaction: (1) email mailboxes and
+archives for written electronic communications (such as emails and chat messages) for its
+personnel who provided PTMMMss in such form; (2) repositories of audio recordings for its
+personnel who provided PTMMMs over the telephone, and for some trades; and (3) a BNS email
+mailbox that collected PTMMM records for all BNS trading desks (the âDodd-Frank Mailboxââ).
+
+During the regular course of business, BNS traders and salespersons who provided
+counterparties PTMMMs in emails or chat messages often did not include unique transaction
+identifiers or full counterparty names in those same communications. Since 2013, BNS policy
+required that for any PTMMM provided orally over the telephone, an email must be sent to the
+Dodd-Frank Mailbox reflecting the PTMMM provided. BNS had internal guidance suggesting
+
+ 
+
+'Â° As discussed further below, in some instances, BNS may have failed to keep a record of a PTMMM that was
+provided due to its poor recordkeeping practices.
+that emails to the Dodd-Frank Mailbox should include the tradeâs transaction number and
+counterparty name, but the guidance was not mandatory, and throughout the Relevant Period,
+BNS personnel often failed to include those details in their emails. In November 2017, BNS
+expanded its policy to require an email containing the PTMMM to be sent to the Dodd-Frank
+Mailbox for all transactions. Even after that point, however, BNS salespersons and traders
+frequently failed to send the requisite email for every trade.
+
+BNSâs recordkeeping system for PTMMMs did not permit it to produce PPMMM
+records to the Commission promptly upon request. BNSâs Dodd-Frank Mailbox did not contain
+a comprehensive record of PTMMMs provided to counterparties and was not searchable by
+transaction number or counterparty name for all transactions for the reasons above. BNSâs
+emails, chat messages, and audio recordings that contained PTMMMs likewise were not
+searchable by transaction number or counterparty name for all transactions. Moreover, BNS did
+not record, in transaction data or otherwise, the name of the base metals trader or salesperson that
+communicated with the counterparty for any particular trade.'' As a result, when Division staff
+requested production of the PTMMMs provided to four counterparties over several years, BNS
+took almost five months to produce a response, which it represented was complete. BNS could
+not, however, represent that it had provided the PTMMM for every transaction with the four
+counterparties because it had not connected the communications containing PTMMMs to
+particular transactions. When BNS did finally attempt to connect its PTIMMM communications
+with its transaction records, its shoddy recordkeeping resulted in BNS admitting that it was
+unable to âconclusively tieâ all the PTMMMs it had identified to the specific transactions to
+which the marks pertained.
+
+BNSâs supervision of its PTMMM recordkeeping was insufficient. Since 2013, BNS
+conducted an annual test of its compliance with CFTC pre-trade execution requirements. Every
+year, the test concluded that BNSâs process for collecting pre-trade records was âmanually
+intensiveâ and âmay not be scalable in the event the CFTC requests a much largerâ number of
+records than had been tested. Yet BNS did not take any steps to improve its recordkeeping
+system until late 2017, and even then did not take adequate steps. BNSâs recordkeeping
+oversight also failed to detect non-compliance with its recordkeeping policies. These
+supervision failures contributed to BNS being unable to produce, for base metals transactions
+alone, PTMMM records for nearly 15% of the over 25,000 swaps subject to Regulation 23.431
+from May 2013 through December 2019. The percentage of PTMMMs it failed to record is over
+19% if limited to the period prior to November 2017, when BNS expanded its use of the Dodd-
+Frank Mailbox.
+
+Cc. Failure to Supervise the Base Metals Desk and PTMMM Compliance
+
+BNSâs supervision of its base metals desk generally, and of PTMMM compliance
+specifically, was lax. Although BNS provided supervisors general guidance, such as stating that
+
+ 
+
+'! BNS also failed to keep complete records of PTMMMs for swaps executed over Trading Platform 1, a trading
+platform that BNS base metals personnel used during the Relevant Period. For trades conducted over Trading
+Platform 1 where BNS provided its counterparty a PTMMM via the platform itself at the time of the trade, BNS did
+not retain a record of the PTMMM provided unless the BNS trader or salesperson took a screenshot at the time of
+the trade, which did not always happen.
+they were responsible for âmonitoring each traderâ for compliance with business conduct
+standards, BNS did not have supervisory procedures for conducting such monitoring or attesting
+that it had occurred. Base metals supervisors also failed to recognize and stop noncompliant
+behavior. As noted above, after Salesperson 1 admitted to a supervisor that he âalwaysâ âjust
+kind of stuck random stuff inâ for PTMMMs, the supervisor provided a PTMMM for the specific
+trade but did not inquire any further or arrange for extra training, or report the issue to other
+
+supervisors or compliance.
+
+Although BNS had some written policies, procedures, or guidance addressing PTMMMs,
+they lacked detail and were not consistently followed. BNS also failed to provide effective
+training on PTMMMs. For example, BNS training materials as far back as 2014 emphasized that
+PTMMMs should be given âprior toâ entering into a swap, yet for years BNS personnel provided
+PTMMMs after a trade was done. BNSâs PTMMM controls were also ineffective. As of May
+2020, BNS had no controls at all to validate the accuracy of PTMMMs, and BNS only instituted
+a control for PTMMM timeliness in April 2019.'* BNS compliance also failed to detect its
+PTMMM control weaknesses, despite conducting a review aimed specifically at doing so.'? Asa
+result, BNS failed to detect widespread noncompliance with PTMMM requirements for an
+extended period of time.
+
+Moreover, BNS knew in May 2018 of concerns about PTMMMs from a former base
+metals supervisor. Yet even after BNS was aware of the Divisionâs investigation, BNS
+continued to fail to remediate its PTMMM compliance deficiencies promptly. Through the end
+of 2018, BNS personnel consistently provided PTMMMs in an untimely manner, and through
+the end of 2019, BNS still had instances of PTMMMS that were either not given or not recorded.
+
+BNSâs systemic supervision failures, including inadequate supervisory oversight,
+ineffective policies, procedures, and training, and weak controls affected PTMMM compliance
+across the swap dealer and resulted in compliance failures by other desks. For example, in
+March 2020, BNS informed Division staff that its rates swap desk had misunderstood PTMMM
+requirements for an unknown number of cleared swaps and that its control for confirming that
+PTMMMss were provided for all in-scope transactions had failed to take into account cleared
+swaps.
+
+2. BNS Swap Dealer Supervision Failures Extended to Its Audio Recordkeeping
+Obligations
+
+BNSâs lack of supervision was not limited to its PTMMM practices. In accordance with
+Commission Regulations, BNSâs policies require the maintenance of required audio recordings
+for a period of one year. Regulation 1.31(b)(2), 17 C.F.R. Â§ 1.31(b)(2) (2019) (âA records entity
+
+ 
+
+'? Although BNS had a control since at least November 2017 to confirm a PTMMM was provided for every in-
+scope trade, the control failed to do so for reasons BNS was unable to determine.
+
+'S In November 2017, BNS compliance began a review to test its PTMMM controls in light of the Commissionâ s
+enforcement action, Jn re Cargill, CFTC No. 18-03, 2017 WL 5188245 (Nov. 6, 2017). That review did not identify
+any deficiencies with BNSâs PTMMM controls. Another review referred to as the âCargill assessmentâ took over
+nine months to conclude, in September 2018, that BNS had no control to validate whether its PTMMMs were
+accurate.
+that is required to retain oral communications, shall keep regulatory records of oral
+communications for a period of not less than one year from the date of such communication.â).
+BNSâs procedures dictated that its technology infrastructure automatically deleted audio
+recordings made more than one year prior, unless such recordings are subject to, for example, a
+litigation hold.
+
+a. BNSâs Failure to Preserve and Produce Audio Recordings and False
+or Misleading Statements Concerning Audio Preservation
+
+In August 2018, Division staff issued BNS a document preservation request calling for it
+to preserve, among other things, audio recordings for a base metals supervisor with recorded
+lines in Houston, Texas and New York, New York (âSupervisor 1â). In October 2018, Division
+staff issued BNS a request under Section 4s of the Act (the âOctober 2018 4s Requestâ) calling
+for the production of certain communications for Supervisor 1 from November and December
+2017. Thereafter BNS proposed to Division staff that it would begin responding by producing
+written communications. Division staff then asked BNS to confirm that audio recordings had
+been preserved for certain BNS personnel, including Supervisor 1. BNS representatives initially
+informed Division staff on a December 7, 2018 telephone call that BNS only had one yearâs
+worth of audio recordings for the personnel, dating back to early December 2017. On December
+13, 2018, however, BNS representatives spoke with Division staff to âcorrect the recordâ and
+conveyed that BNS did, in fact, have all of the audio recordings, including for Supervisor 1,
+dating back to at least August 2017. BNS confirmed this again orally on December 14, 2018, in
+writing on January 29, 2019, and orally on January 31, 2019. In March 2019, Division staff
+issued a 4s request for additional Supervisor | audio recordings from November 2017. In May
+2019, BNS informed Division staff that some recordings from Supervisor |âs Houston line had
+been deleted through routine processes notwithstanding the Divisionâs August 2018 preservation
+request, which should have halted those processes given BNSâs assurances that the audio was
+being preserved.
+
+At the time BNSâs representatives made statements to Division staff about its
+preservation of audio recordings, its supervision of its legal hold process for audio was
+inadequate. BNS has represented the following. Prior to January 31, 2019, BNS did not have a
+written policy or procedure for how to initiate or implement the preservation of audio recordings,
+nor had it provided any formal training to its personnel on those topics. Some BNS staff
+responsible for matters requiring audio preservation had the erroneous belief that sending a
+notice calling for audio to be preserved to an internal group involved in preservation would be
+sufficient to accomplish the necessary preservation of audio. In reality, additional steps needed
+to be taken, including further communication specifying the need for audio to be preserved. The
+recordings also had to be âlocked downâ to ensure their preservation through a complex process
+that required different steps to be taken depending on the office location of the BNS personnel
+for whom audio recordings were to be preserved.
+
+After BNS received the Divisionâs August 2018 preservation request, BNS continued to
+delete Supervisor 1âs Houston audio recordings pursuant to BNSâs one-year audio retention
+policy until December 11, 2018. This was due in part to the erroneous belief that several legal
+hold notices that had been issued had ensured the requested preservation, and also in part to
+BNSâs lack of expertise and understanding of its own complex process to âlock downâ audio
+
+9
+recordings in different locations. As a result, BNS falsely represented to Division staff, multiple
+times, that Supervisor 1âs audio recordings had been preserved dating back to at least August
+2017, when in fact Supervisor 1âs Houston recordings prior to December 11, 2017, had been
+deleted. BNS knew or reasonably should have known that those statements were false or
+misleading.
+
+b. BNSâs Additional Failure to Produce Audio Recordings Promptly
+
+BNSâs inadequate supervision of its audio recording operations extended beyond its
+failure to train personnel on audio preservation procedures. The Divisionâs October 2018 4s
+Request also called for the production of certain audio recordings from November and December
+2017 on the New York recorded lines of two base metals supervisors. In March and June 2019,
+Division staff issued additional 4s requests for audio recordings for various base metals
+personnel in New York and London from November and December 2017.
+
+In or around September 2019, while responding to the Divisionâs requests, BNS
+discovered gaps in its audio collection for its base metals personnelâs New York and London
+recorded lines during the requested time period. BNS was previously unaware of the gaps, was
+unable to provide any explanation for them, could not identify their cause, and could not scope
+the full extent of the problem at that time. It was not until over eight months later that BNS
+represented to Division staff that it did in fact have a full set of the New York and London
+recordings, and BNS took several more weeks to complete its production. Thus, BNS failed to
+meet its obligation to respond promptly to the Divisionâs 4s requests.
+
+3. BNSâs False or Misleading Statements Regarding Supervision of the Base
+Metals Desk
+
+BNS initially represented to Division staff, in various ways, that both Supervisor | and a
+second supervisor located in New York (âSupervisor 2ââ) were the relevant supervisors for BNSâs
+New York base metals desk during the fall of 2017.'* Division staff took the sworn testimony of
+Supervisor | on June 28, 2019, and Supervisor 2 on June 7, 2019, and inquired as to their
+supervision of the New York base metals desk during the fall of 2017. Later, BNS changed its
+position to support Supervisor | and Supervisor 2âs disavowals of supervisory authority for the
+desk in testimony. BNS then made misleading statements to Division staff, such as affirming in
+an August 23, 2019 letter that Supervisor | and Supervisor 2 âwere not the deskâs designated
+supervisorsâ during the October through December 2017 time period and that they âdid not
+assume full supervisory responsibility for the base metals businessâ until May 1, 2018.'Â°
+Contemporaneous documentary evidence, including organization charts, human resources files,
+
+ 
+
+'* On March 18, 2019, in response to a 4s request for organizational charts for its base metals desk including
+traders, sales persons, and supervisors, BNS produced several organizational charts under cover of a letter that stated
+they had been prepared âfor purposes of responding to the [4s request], based on the Bankâs personnel records.â
+Three separate organizational charts produced, for March through July 2017, August 2017, and September 2017
+through April 2018, showed Supervisor 1 and Supervisor 2 as supervisors for BNSâs base metals salespersons and
+traders in New York.
+
+' May 1, 2018 was the date on which an email was sent announcing a formal reorganization of the BNS metals
+business globally.
+
+10
+compliance records, email communications, and audio recordings, as well as statements from
+other witnesses, contradict BNSâs latter statements. BNS knew or reasonably should have
+known that its statements to the Division about the supervision of its New York base metals desk
+were false or misleading, and central to the staffâs investigation of the misconduct at issue.
+
+4. Failures to Implement Policies and Procedures Reasonably Designed to
+Obtain or Record Essential Facts About Counterparties
+
+Throughout the Relevant Period, BNS also failed to implement, as required by
+Regulation 23.402(b), 17 C.F.R. Â§ 23.402(b) (2019), policies and procedures reasonably
+designed to obtain and record facts about whether its counterparties were U.S. persons. These
+facts were needed to determine whether BNSâs transactions with those counterparties were
+subject to Dodd-Frank disclosure requirements, including PTMMM disclosures.
+
+BNSâs counterparty onboarding process has had shortcomings for years. In 2017, BNS
+conducted an internal review of active counterparties that identified eight counterparties that had
+been inaccurately classified as non-U.S. persons. Then again, in 2018, BNS identified an
+additional fourteen counterparties that had been inaccurately classified as non-U.S. persons.
+Although BNS took steps to address the errors identified, despite knowing of these repeated
+errors, BNS did not conduct a full review of its onboarding policies and procedures to determine
+why they were ineffective, or reviewed its counterparty data to ensure it was complete and
+accurate for all of BNSâs counterparties.
+
+In June 2019, Division staff requested that BNS produce transaction data for its base
+metals transactions subject to Regulation 23.431 disclosure requirements. To respond, BNS
+needed to assess the historic U.S. person status of its counterparties. However, due to BNSâs
+unreliable counterparty data, it took over seven months for BNS to produce an initial list of in-
+scope transactions, which it then had to correct after it found more errors in its counterparty
+data.'Â® Further, BNS was unable to access counterparty data from prior to November 2014 and
+was therefore unable to provide a complete response to the Divisionâs request.
+
+5. BNSâs Failure to Comply with CCO Reporting Requirements
+
+As a swap dealer, BNS is required to submit an annual CCO report to the Commission
+discussing the state of its compliance with the Act and Regulations pursuant to Regulations
+3.3(e) and (f), 17 C.F.R. Â§ 3.3(e), (f) (2019). The Commissionâs Division of Swap Dealer and
+Intermediary Oversight (âDSIOâ) relies upon CCO reports when assessing a firmâs compliance
+with the Act and Regulations. BNS submitted its 2017 CCO Report, for its fiscal year ended
+October 31, 2017, on or around January 29, 2018.
+
+BNS has been aware of weaknesses in its trade surveillance program since at least 2015.
+By December 2017, BNS was aware, through an ongoing internal review of its trade surveillance
+for OTC derivative trading activity and a review conducted by an external consultant, that its
+trade surveillance program had significant weaknesses. In its 2017 CCO Report, BNS
+
+ 
+
+'Â© As of April 24, 2020, BNS identified that six of its thirty-six in-scope base metals counterparties had been
+misclassified as non-U.S. persons for various periods of time dating back to December 2014.
+
+11
+referenced its internal review of its trade surveillance program in the portion of its report
+dedicated to discussing the effectiveness of its policies and procedures. It disclosed that the
+review had identified two âmoderateâ risk issues and eight âlowâ risk issues, but it did not
+provide information sufficient to understand and evaluate the known issues with BNSâs program.
+Nor did it identify BNSâs trade surveillance program as a material noncompliance item, or even
+an area for improvement. BNSâs disclosures in the 2017 CCO Report failed to sufficiently
+describe the facts and circumstances surrounding its trade surveillance program such that the
+Commission could understand and evaluate the issues and BNSâs remedial efforts.
+
+Hil. LEGAL DISCUSSION
+
+A. Section 4s(h)(1)(B) and Regulations 23.602(a)âBNSâs Failure to Supervise
+Diligently
+
+Section 4s(h)(1)(B) of the Act, requires âdiligent supervision of the business of the
+registered swap dealer.â 7 U.S.C. Â§ 6s(h)(1)(B) (2018). Regulation 23.602 requires that each
+swap dealer âshall establish and maintain a system to supervise, and shall diligently supervise, all
+activities relating to its business performed by its partners, members, officers, employees, and
+agents (or persons occupying a similar status or performing a similar function).â 17 C.F.R.
+
+Â§ 23.602 (2019).
+
+Under Regulation 23.602, a violation is demonstrated by showing either that: (1) the
+registrantâs supervisory system was generally inadequate; or (2) the registrant failed to perform
+its supervisory duties diligently. See In re Commerzbank AG, CFTC No. 19-03, 2018 WL
+5921385, at *10-11 (Nov. 8, 2018) (consent order) (noting textual similarities between
+Regulation 23.602 and Regulation 166.3, applying case law concerning Regulation 166.3, and
+citing In re Murlas Commodities, Inc., CFTC No. 85-29, 1995 WL 523563, at *9 (Sept. 1, 1995),
+and In re Paragon Futures Assoc., CFTC No. 88-18, 1992 WL 74261, at *14 (Apr. 1, 1992)); In
+re INTL FCStone Markets, LLC, CFTC No. 15-27, 2015 WL 4980321, at *3 (Aug. 19, 2015)
+(same). Evidence of violations that â*should be detected by a diligent system of supervision,
+either because of the nature of the violations or because the violations have occurred repeatedly,â
+is probative of a failure to supervise.â Jn re SociÃ©tÃ© GÃ©nÃ©rale Intâ! Ltd., CFTC No. 19-38, 2009
+WL 4915485, at *7 (Sept. 30, 2019) (consent order) (quoting In re INTL FCStone Markets, 2015
+WL 4980321, at *3).
+
+BNS failed to supervise its swap dealer business activities diligently during the Relevant
+Period. As described above, BNS failed to maintain an adequate supervisory system and failed
+to perform its supervisory obligations diligently across the swap dealer, including failing to
+supervise its base metals desk, PTMMM disclosures, PTMMM recordkeeping, audio
+recordkeeping, and counterparty onboarding. BNSâs failure to supervise is demonstrated by its
+failure to detect, prevent, and remediate repeated compliance failures over an extended period of
+time. BNS also failed to adequately supervise and train its personnel to ensure both the
+preservation and production of all audio recordings to comply with its legal obligations to
+produce records to the Commission. BNS therefore failed to supervise diligently its officers,
+employees, and agents, in violation of Section 4s(h)(1)(B) of the Act and Regulation 23.602(a).
+
+12
+B. Section 4s(h)(1) and Regulation 23.431(a)âBNSâs Failure to Provide Accurate and
+Timely Pre-Trade Mid-Market Marks, and Its Failure to Provide Pre-Trade Mid-
+Market Marks
+
+As discussed above, Section 4s(h)(1) requires swap dealers to comply with business
+conduct standards prescribed by the Commission, which includes those of Regulation
+23.431(a)(2), (3) requiring swap dealers to disclose to counterparties: (1) information about the
+material characteristics of the swap; and (2) the swap dealerâs material incentives and conflicts of
+interest related to the swap. 7 U.S.C. Â§ 6s(h)(1) (2018); 17 C.F.R. Â§ 23.431(a)(2), (3) (2019).
+The Regulations require disclosure of a mid-market mark as part of the disclosure of material
+incentives and conflicts of interest. Regulation 23.431(a)(3)G). The mid-market mark âshall not
+include amounts for profit, credit reserve, hedging, funding, liquidity, or any other costs or
+adjustments.â Regulation 23.431(d)(2), 17 C.F.R. Â§ 23.431(d)(2) (2019). These disclosures
+must be made âat a reasonably sufficient time prior to entering into a swap.ââ Regulation
+23.43 1(a).
+
+As part of the comprehensive regulatory regime for swaps, Regulation 23.402(a)(1),
+17 C.F.R. Â§ 23.402(a)(1) (2019), requires that swap dealers maintain written policies and
+procedures reasonably designed to ensure compliance with swap dealer business conduct
+standards, including Regulation 23.431, 17 C.F.R. Â§ 23.431 (2019). In adopting Regulation
+23.431, the Commission noted that âthe Commission will consider good faith complianceâ with
+those policies and procedures as âa mitigating factor when exercising its prosecutorial discretion
+for violation of the rules.ââ"â
+
+During the Relevant Period, desks across BNSâs swap dealer provided PTMMMss to
+counterparties that were inaccurate, untimely, or both, or failed to provide a PTMMM entirely.
+These failures occurred for at least tens of thousands of swaps. BNS provided counterparties
+with inaccurate PTMMMs, including instances where it adjusted the PTMMM in whole or in
+part for BNSâs trading and sales markups, and therefore did not exclude amounts attributable to
+âprofit, credit reserve, hedging, funding, liquidity, or any other costs or adjustments.â BNS also
+failed to provide PTMMMs to counterparties prior to entering into a swap; its personnel instead
+did not provide PTMMMs until after a transaction was consummated. In other instances, BNS
+failed to provide a PTMMM at all. Each of these failures had the effect of concealing BNSâs full
+markup from counterparties. BNS therefore violated Section 4s(h)(1) and Regulation 23.43 1(a).
+
+Moreover, in engaging in these violations, BNS did not act in good faith compliance with
+policies and procedures reasonably designed to comply with the business conduct standards
+rules. BNSâs widespread PTMMM compliance failures persisted for years. BNS knew in May
+
+ 
+
+'â Final Rule Release, 77 Fed. Reg. at 9,744; see also id. at 9,766, 9,768 (noting specifically that good faith
+compliance would be relevant to violations of the mid-market mark requirements). The Commission further stated:
+
+To be considered good faith compliance, the Commission will consider, among other things,
+whether the swap dealer . . . made reasonable inquiry and took appropriate action where the swap
+dealer . . . had information that would cause a reasonable person to believe that any person acting
+for or on behalf of the swap dealer . . . was violating the CEA or the Commissionâs Regulations in
+connection with the swaps related business of the swap dealer ....
+
+Id. at 9,746.
+
+13
+2018 of concerns about PTMMMs from a former supervisor. Despite such knowledge, and
+despite knowledge of the Divisionâs investigation, as of May 2020 BNS still had no procedures
+in place to check the accuracy of PTMMMs, provided untimely PTMMMs through at least late
+2018, and occasionally failed to provide PTMMMs through the end of 2019. In light of these
+facts, BNS does not meet the requirements of the Commissionâs policy statement regarding
+mitigation.
+
+C. Section 4s(g) and Regulations 23.201(a)(1), 23.202(a)(1), and 1.31(d)(3)(iij)âBNSâs
+Failure to Maintain Proper Records of Its Pre-Trade Mid-Market Marks
+
+Swap dealers are required by statute to maintain records of their daily swaps trading, and
+must maintain those records for each counterparty in a form that is identifiable with each swap
+transaction. Section 4s(g)(1), (3), 7 U.S.C. Â§ 6s(g)(1), (3) (2018). Commission Regulations
+specify that a swap dealer must âkeep full, complete, and systematic records . . . of all its swaps
+activities,â Regulation 23.201(a), 17 C.F.R. Â§ 23.201(a) (2019), which includes keeping daily
+trading records, such as PTMMM<s, in a form and manner identifiable and searchable by
+transaction and counterparty. Regulation 23.201(a)(1); Regulation 23.202(a)(1), 17 C.F.R.
+
+Â§ 23.202(a)(1) (2019) (requiring swap dealers to keep daily trading records, including
+PTMMMs, of all swaps transactions they execute). Swap dealers must ensure that their records
+âinclude all information necessary to conduct a comprehensive and accurate trade reconstruction
+for each swap.â Regulation 23.202(a). Pre-execution trade information must be Kept, including,
+âat a minimum, records of all oral and written communications provided or received concerning
+quotes, solicitations, bids, offers, instructions, trading, and prices, that lead to the execution of a
+swap.â Regulation 23.202(a)(1). Regulation 23.203(b)(1), 17 C.F.R. Â§ 23.203(b)(1) (2019),
+requires pre-execution trade information, like PTMMMs, to be kept in accordance with
+Regulation 1.31, 17 C.F.R. Â§ 1.31 (2019), which in turn requires regulatory records to be
+produced âin the form and medium requested [by the Commission] promptly, upon request.â
+Regulation 1.31(d)(3)(ii).
+
+During the Relevant Period, BNS failed to keep records of the PTMMMs it disclosed to
+counterparties as required. BNS had some records of PTMMMs in emails, chat messages, and
+audio recordings, but it did not maintain the records in a form or manner identifiable and
+searchable by transaction and counterparty. BNS also failed to keep records of some of its
+PTMMM disclosures entirely. BNS was therefore unable to produce PTMMM records to the
+Commission promptly upon request and could not âconclusively tieâ all of the PTMMMs it did
+produce to the specific transactions to which the marks pertained. BNS thus violated Section
+4s(g) of the Act and Regulations 23.201(a)(1), 23.202(a)(1), and 1.31(d)(3)(i1).
+
+D. Regulation 23.402(b)âBNSâs Failure to Obtain and Record Essential Facts About
+Counterparties During the Onboarding Process
+
+Under Regulation 23.402(b), each swap dealer must implement policies and procedures
+reasonably designed to obtain and retain a record of the essential facts concerning each
+counterparty, including facts required to comply with applicable laws, regulations, and rules.
+17 C.F.R. Â§ 23.402(b) (2019).
+
+14
+As described above, BNS failed, for years, to implement policies and procedures
+reasonably designed to obtain and record facts concerning whether its counterparties were U.S.
+persons. These facts were essential to determining whether its transactions were subject to
+Regulation 23.431 disclosure requirements. BNS had repeated instances of finding errors in its
+counterparty data, but did not conduct a full review of its onboarding process or its counterparty
+data. BNS thereby violated Regulation 23.402(b).
+
+E. Section 4s(f) and (g) of the Act and Regulations 23.201(a)(1), 23.202(a)(1), and
+1.31(d)(3)Gi)âBNSâs Failure to Retain and Produce Promptly Required Audio
+Records
+
+Section 4s(f)(1)(C) of the Act obligates swap dealers to keep books and records of all
+activities related to its business as a swap dealer âopen to inspection and examination by any
+representative of the Commission.â 7 U.S.C. Â§ 6s(f)(1)(C) (2018); see also Section 4s(g)(1) and
+(3) of the Act, 7 U.S.C. Â§ 6s(g)(1), (3) (2018) (requiring swap dealers to keep daily trading and
+counterparty records). These statutes are implemented, among other places, at Regulations
+23.201(a)(1) and 23.202(a)(1), 17 C.F.R. Â§ 23.201(a)(1), 23.202(a)(1) (2019), which obligate a
+swap dealer to âkeep full, complete, and systematic records . . . of all its swaps activities,â
+Regulation 23.201(a), which includes âdaily trading records,â Regulation 23.201(a)(1);
+23.202(a)(1). Regulation 23.203(b)(1), 17 C.F.R. Â§ 23.203(b)(1) (2019), requires audio
+recordings of pre-execution trade information to be kept in accordance with Regulation 1.31,
+
+17 C.F.R. Â§ 1.31 (2019), which in turn prescribes a one-year retention period, Regulation
+1.31(b)(2) (âA records entity that is required to retain oral communications, shall keep regulatory
+records of oral communications for a period of not less than one year from the date of such
+communication.â). A swap dealer must be able to produce such records to the Commission
+âpromptly, upon request.â Regulation 1.31(d)(3)(i1).
+
+BNS deleted required audio records after Division staff issued a document preservation
+notice and the October 2018 4s Request calling for the recordings to be produced. BNS also
+failed to complete its production of other audio recordings subject to a Division 4s request in a
+timely manner. BNS therefore violated Sections 4s(f)(1)(C) and 4s(g) of the Act and
+Regulations 23.201(a)(1), 23.202(a)(1), and 1.31(d)(3)(ii).
+
+F. Section 6(c)(2)âBNSâs False or Misleading Statements to the Commission
+Section 6(c)(2) of the Act makes it unlawful for any person:
+
+[T]o make any false or misleading statement of a material fact to the
+Commission ... or to omit to state in any such statement any material fact
+that is necessary to make any statement of a material fact made not
+misleading in any material respect, if the person knew, or reasonably
+should have known, the statement to be false or misleading.
+
+7 U.S.C. Â§ 9(2) (2018).
+
+As described above, BNS made statements to Division staff that it knew or reasonably
+should have known were false or misleading regarding: (1) whether it had preserved all
+requested audio recordings; and (11) who supervised its New York base metals desk in late 2017.
+
+15
+These statements were central to the staffâs investigation of the conduct at issue. By engaging in
+this conduct, BNS violated Section 6(c)(2) of the Act.
+
+G. Regulation 3.3(e)âBNSâs Failure to Comply with CCO Reporting Requirements
+
+Regulation 3.3(e), 17 C.F.R. Â§ 3.3(e) (2019), requires a swap dealerâs chief compliance
+officer to annually prepare a written report covering the most recently completed fiscal year.
+Regulation 3.3(e)(2), (3), and (5) provides in part that the report must include: (1) a review of
+each applicable requirement under the Act and Regulations, including identification of the
+policies and procedures reasonably designed to ensure compliance and an assessment of the
+effectiveness of those procedures; (11) describe areas for improvement; and (111) describe any
+material noncompliance issues identified, and the corresponding action taken.
+
+BNSâs 2017 CCO Report did not meet these reporting requirements. By December 2017,
+BNS was aware of significant weaknesses in its trade surveillance system but its 2017 CCO
+Report did not describe BNSâs trade surveillance program as a material noncompliance item, or
+even an area for improvement. Therefore, BNS violated Regulation 3.3(e).
+
+IV. FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that at various times during the Relevant
+Period Respondent violated Sections 4s(f)(1)(C), 4s(g)(1) and (3), 4s(h)(1), and 6(c)(2) of the
+Act, 7 U.S.C. Â§Â§ 6s(f)(1)(C), 6s(g)(1), (3), 6s(h)(1), 9(2) (2018), and Regulations 23.431(a)(3),
+23.201(a)(1), 23.202(a)(1), 23.402(b), 23.602(a), 1.31(d)(3)Gi), and 3.3(e), 17 C.F.R.
+Â§Â§ 23.431(a)(3), 23.201 (a)C1), 23.202(a)(1), 23.402(b), 23.602(a), 1.31(d)(3)(ii), 3.3(e) (2019).
+
+V. OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+A. Acknowledges receipt of service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C. Waives:
+1. the filing and service of a complaint and notice of hearing;
+2. a hearing;
+3. all post-hearing procedures;
+4. judicial review by any court;
+
+16
+any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+any and all claims that it may possess under the Equal Access to Justice Act,
+
+5 U.S.C. Â§ 504 (2018) and 28 U.S.C. Â§ 2412 (2018), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations,
+
+17 C.F.R. pt. 148 (2019), relating to, or arising from, this proceeding;
+
+any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, Â§Â§ 201-253, 110 Stat.
+847, 857-68 (codified as amended in scattered sections of 5 U.S.C. and
+
+15 U.S.C.), relating to, or arising from, this proceeding; and
+
+any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer;
+
+Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+1.
+
+makes findings by the Commission that Respondent violated Sections 4s(f)(1)(C),
+4s(g)(1) and (3), 4s(h)(1), and 6(c)(2) of the Act, 7 U.S.C. 8Â§ 6s(f)(1)(C),
+6s(g)(1), (3), 6s(h)C1), 9(2) (2018), and Regulations 23.431(a)(3), 23.201(a)(1),
+23.202(a)(1), 23.402(b), 23.602(a), 1.31(d)(3)(i), and 3.3(e), 17 C.F.R.
+
+Â§Â§ 23.431(a)G3), 23.201 (a)C1), 23.202(a)(1), 23.402(b), 23.602(a), 1.31(d)(3) Gi),
+3.3(e) (2019);
+
+orders Respondent to cease and desist from violating Sections 4s(f)(1)(C),
+4s(g)(1) and (3), 4s(h)(1), and 6(c)(2) of the Act and Regulations 23.43 1(a)(3),
+23.201(a)(1), 23.202(a)(1), 23.402(b), 23.602(a), 1.31(d)(3)(i1), and 3.3(e);
+
+orders Respondent to pay a civil monetary penalty in the amount of fifty million
+dollars ($50,000,000), plus post-judgment interest; and
+
+orders Respondent and its successors and assigns to comply with the conditions
+and undertakings consented to in the Offer and as set forth in Part VII of this
+Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+Respondent and its successors and assigns shall cease and desist from violating Sections
+4s(f)(1)(C), 4s(g)(1) and (3), 4s(h)(1), and 6(c)(2) of the Act, 7 U.S.C. Â§Â§ 6s(f(1)(C),
+
+17
+6s(g)(1), (3), 6s(h)(1), 9(2) (2018), and Regulations 23.431(a)(3), 23.201(a)(1),
+23.202(a)(1), 23.402(b), 23.602(a), 1.31(d)(3)Gi), and 3.3(e), 17 C.F.R. 8Â§ 23.431(a)(3),
+23.201(a)(1), 23.202(a)(1), 23.402(b), 23.602(a), 1.31(d)(3)Gi), 3.3(e) (2019).
+
+Respondent shall pay a civil monetary penalty in the amount of fifty million dollars
+($50,000,000) (âCMP Obligationâ), within ten days of the date of entry of this Order. If
+the CMP Obligation is not paid in full within ten days of the date of entry of this order,
+then post-judgment interest shall accrue on the CMP Obligation beginning on the date of
+entry of this Order and shall be determined by using the Treasury Bill rate prevailing on
+the date of entry of this Order pursuant to 28 U.S.C. Â§ 1961 (2018).
+
+Respondent shall pay the CMP Obligation by electronic funds transfer, U.S. postal
+money order, certified check, bank cashierâs check, or bank money order. If payment is
+to be made other than by electronic funds transfer, then the payment shall be made
+payable to the Commodity Futures Trading Commission and sent to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+9-AMC-AR-CFTC @ faa. gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Marie
+Thorne or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+
+Respondent and its successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+1. Remediation: Respondent undertakes the following:
+
+a. Within 60 days of the issuance of this Order, Respondent will submit to
+the Commission a written plan (âRemediation Planâ), subject to review
+and approval by DOE and DSIO, that will describe the specific
+remediation steps that Respondent will take to fully address the following
+areas:
+
+1. CCO Report preparation;
+
+18
+ll. Communication surveillance;
+
+iil. Daily marks;
+
+Iv. Diligent supervision;
+
+V. Disclosure of material information;
+
+V1. Identification and classification of counterparties;
+Vil. Pre-trade mid-market marks;
+
+vill. Recordkeepingâ
+
+1. Recordkeeping requirements under Commission
+Regulations 23.201 and 23.202, 17 C.F.R. Â§ 23.201,
+23.202 (2019), including those addressing the requirement
+to make and keep daily records of oral communications;
+and
+
+2. Recordkeeping requirements under Commission Regulation
+23.402(g), 17 C.F.R. Â§ 23.402(g) (2019);
+
+1x. Segregation requirements;
+X. Swap dealer reporting requirements; and
+XI. Trade surveillance.
+
+Respondent shall submit the Remediation Plan to its CEO for signed,
+written approval prior to submitting it to the Commission. Such signed,
+written approval shall be provided to the Commission along with the
+Remediation Plan.
+
+Respondent will implement the Remediation Plan.
+
+Within 90 days of the submission of the Remediation Plan, Respondent
+shall submit a written report to the Commission, through DOE and DSIO,
+detailing its efforts to implement the Remediation Plan since the date of
+this Order.
+
+Respondent shall submit additional written reports to the Commission,
+through DOE and DSIO, detailing the implementation status of the
+Remediation Plan, six months after submission of the report made
+pursuant to Paragraph 1(d), and then on an annual basis thereafter until the
+end of the term of the monitor defined in Paragraph 2 below.
+
+All written reports shall contain a signed certification from each of
+Respondentâs chief executive officer and chief compliance officer that
+
+19
+Respondent is continuing to comply with the terms of the Remediation
+Plan.
+
+Monitor: Within 60 days of entry of this Order, Respondent shall retain, in
+consultation with and subject to the approval of DOE and DSIO, a monitor (the
+Monitorâ) for a three-year term, at its own expense, to review and report on
+Respondentâs implementation of the Remediation Plan and its compliance with
+the Act and Regulations, as set forth below. !Â®
+
+a.
+
+The Monitor shall have sufficient knowledge of the provisions of the Act
+and Regulations applicable to swap dealers to understand, monitor, and
+assess the policies, procedures, and practices of Respondent. Furthermore,
+the Monitor must, in the view of the Division, be sufficiently impartial,
+distinct, and independent from Respondent and its directors, officers,
+employees, counsel, and other representatives.
+
+Although DOE and DSIO shall not be parties to any agreement(s) between
+the Monitor and Respondent, any agreement between the Monitor and
+Respondent must include language that the Monitor agrees to provide its
+services for the benefit of the Commission, that any and all reports and
+information provided by the Monitor to DOE and DSIO shall be deemed
+the property of the Commission, and that the Monitor shall abide by any
+specific request by DOE or DSIO for confidential treatment of any
+communication among the Monitor, DOE, and DSIO.
+
+The Monitor shall review Respondentâs implementation of the
+Remediation Plan and all aspects of Respondentâs swap dealer compliance
+program and identify areas of non-compliance with the Act and
+Regulations, including, but not limited to:
+
+1. Provision of all required client disclosures, including, but not
+limited to:
+
+1. daily marks;
+
+2. pre-trade mid-market marks
+il. Onboarding of swap dealer counterparties;
+iil. Swap dealer trade reporting
+Iv. Recordkeeping, including
+
+ 
+
+'S DOE and DSIO will not object to the appointment of a single Monitor, who will have responsibility for the tasks
+outlined in this Order as well as any tasks outlined for a monitor in the agreement BNS entered into with United
+States Department of Justice (âDOJâ) in August 2020, provided that the Monitor must meet the requirements set
+forth in Paragraph 2(a) of these undertakings. If a single Monitor is appointed, DOE and DSIO may determine to
+adjust the timing and scope of the reports required by this Order.
+
+20
+1. General recordkeeping requirements pursuant to
+Commission Regulations 23.201 and 23.202
+
+2. Recordkeeping requirements associated with disclosures of
+material information pursuant to Commission Regulation
+23.402(g)
+
+V. Policies and procedures meant to detect and prevent fraud,
+manipulative and other abusive practices, including but not limited
+to:
+
+1. Electronic communication surveillance
+2. Trade surveillance
+
+Within 180 days of retention, and every six months thereafter, the Monitor
+shall prepare and submit to DOE, DSIO, and Respondent a written report.
+Such report shall include a description of the status of Respondentâs
+implementation of the Remediation Plan and the Monitorâs ongoing
+assessment of Respondentâs swap dealerâs compliance program.
+
+The Monitorâs report shall also include: (1) an analysis of Respondentâs
+ability to comply with the Act and Regulations, (11) a description of any
+areas of non-compliance with the Act or Regulations identified by the
+Monitor and not covered in the Remediation Plan, (111) any
+recommendations made by the Monitor for bringing Respondent into
+compliance with the areas of non-compliance identified by the Monitor;
+and (iv) a description of Respondentâs implementation of any such
+recommendations. If Respondent chooses not to adopt the Monitorâs
+recommendations within a reasonable period of time, the Monitor shall
+report that fact to DOE and DSIO, along with Respondentâs stated reason
+for not adopting the same.
+
+The Monitorâs report shall also include a description of the Monitorâs
+methodology, information relied upon, and bases for the Monitorâs
+findings.
+
+The Monitor shall have the right to discuss the facts and circumstances of
+DOEâs findings with DOE, and DOE may disclose to the Monitor those
+portions of its investigation that may assist the Monitor in reviewing and
+monitoring Respondentâs policies and procedures in accordance with
+Paragraph 2(c) of these undertakings. The Monitor is also permitted to
+communicate at any time with DOE and DSIO concerning its monitorship,
+review, findings, assessments, and reports.
+
+The Monitor shall immediately inform DOE and DSIO in writing if the
+Monitor determines that, during the course of its monitorship, Respondent
+has used or employed any fraud, manipulation, deception, concealment,
+
+21
+suppression, false pretense, or fictitious or pretended purchase or sale in
+connection with any bid, offer, or trade conducted by Respondentâs swap
+dealer, and may also advise DOE and DSIO in writing, in advance of a
+scheduled report, if it believes Respondent is otherwise not complying
+with the provisions of this Order.
+
+g. Subject to the express limitations set forth below, the Monitorâs authority
+and duties are to be broadly construed. Respondent shall cooperate fully
+with the Monitor, including, but not limited to, providing the Monitor:
+
+1. access to all files, documents, books, records, computer systems,
+personnel, and facilities that fall within the scope of the
+responsibilities of the Monitor, subject to a legitimate claim of any
+legally recognized privilege;
+
+ll. the right to meet with and interview any director, officer,
+employee, agent, or consultant of Respondent and to participate in
+any meeting concerning any matter within or relating to the
+Monitorâs duties, subject to a legitimate claim of any legally
+recognized privilege; and
+
+lil. the right to observe Respondentâs business operations that fall
+within the scope of the Monitorâs responsibilities, subject to a
+legitimate claim of any legally recognized privilege.
+
+If Respondent agrees, in its sole discretion, to provide the Monitor with
+access to privileged materials, the Monitor shall agree not to assert that
+this constitutes a waiver of any legally recognized privilege and shall
+further agree to maintain the confidentiality of the privileged materials
+(except to the extent that disclosure is required by law or may be
+necessary in furtherance of the Monitorâs discharge of its official duties
+and responsibilities).'â In the event Respondent seeks to withhold access
+to privileged materials from the Monitor, or where the Respondent
+reasonably believes production would otherwise be inconsistent with
+applicable law, Respondent shall work cooperatively with the Monitor to
+resolve the matter to the satisfaction of the Monitor. If the matter cannot
+be resolved, then, at the request of the Monitor, Respondent shall provide
+written notice to the Monitor, DSIO, and DOE, including a general
+description of the nature of the information, documents, records, facilities,
+and/or employees that are being withheld, as well as the bases of the
+claim(s).
+
+ 
+
+'Â° If the Monitor believes that disclosure is necessary in furtherance of the Monitorâs discharge of its official duties
+and responsibilities, the Monitor shall provide Respondent reasonable notice in advance of such disclosure,
+including the basis for such disclosure.
+
+22
+At any time during the Monitorâs term, DSIO and DOE may recommend
+to the Commission that it terminate the term of the Monitor prior to three
+years elapsing. After two years of the Monitorâs term, Respondent may
+also petition DSIO and DOE to make such a recommendation.
+
+Swap Dealer Registration: Respondent acknowledges and accepts that sufficient
+
+ 
+
+grounds exist to commence proceedings to suspend or revoke Respondentâs
+provisionally registered swap dealer registration status based on the findings set
+forth in this Order, pursuant to Section 8a(4), 7 U.S.C. Â§ 12a(4) (2018). The
+Commission will defer commencing proceedings to suspend or revoke
+Respondentâs registration status in accordance with the following conditions:
+
+a.
+
+Upon each periodic report given by the Monitor to DOE and DSIO, and
+upon completion of the Monitorâs term, DSIO will determine, in
+consultation with DOE, whether Respondent is likely to implement fully
+by the end of the Monitorâs term the Remediation Plan and any
+recommendations of the Monitor relating to areas of non-compliance not
+covered by the Remediation Plan. Based on this determination, DOE,
+after consultation with DSIO, will decide whether to recommend to the
+Commission that it commence proceedings to suspend, revoke in full,
+condition, or restrict Respondentâs provisional registration as a swap
+dealer, pursuant to Section 8a of the Act, 7 U.S.C. Â§ 12a (2018), and
+Regulations 3.55 through 3.64, 17 C.F.R. Â§Â§ 3.55-3.64 (2019). DOE,
+after consultation with DSIO, may also decide to make such a
+recommendation to the Commission based upon the Monitor providing
+notice of misconduct to DSIO and DOE pursuant to Paragraphs 2(e) or
+2(f) of these undertakings.
+
+In the event that DSIO and DOE intend to recommend to the Commission
+that it commence proceedings to suspend, revoke in full, condition, or
+restrict Respondentâs registration pursuant to Paragraph 3(a) of this
+undertaking, DOE will provide Respondent with written notice of the
+nature of the allegations against Respondent prior to making such a
+recommendation. Respondent shall have the opportunity to respond to the
+allegations within forty-five (45) days of receipt of such notice. In the
+event DSIO and DOE recommend the commencement of proceedings, any
+written statement by Respondent will be forwarded to the Commission if
+so requested. The Commission may in its discretion consider
+Respondentâs statement when it determines whether to commence
+proceedings to suspend, revoke in full, condition or restrict Respondentâs
+registration.
+
+If pursuant to the procedures set forth in Paragraphs 3(a) and (b) of this
+undertaking the Commission determines to commence proceedings to
+suspend, revoke in full, condition, or restrict Respondentâs provisionally
+registered swap dealer registration status, pursuant to Section 8a of the Act
+and Regulations 3.55 through 3.64, Respondent agrees that the factual
+
+23
+findings set forth in Section II.C. of this Order will be deemed admitted by
+Respondent in any such proceedings.
+
+d. At any time during or after the Monitorâs term, the Commission may
+choose to take any additional enforcement action and DOE may choose to
+commence any further investigation or action either in response to any
+findings made by the Monitor or for any other reason.
+
+e. Respondent understands and agrees that the running of any statute of
+limitations applicable to any proceeding against Respondent arising out of
+findings made by the Monitor that is authorized, instituted, or brought by
+or on behalf of the Commission is tolled as of the date of this Order
+through the end of the term of the Monitor.
+
+4. Public Statements: Respondent agrees that neither it nor any of its successors and
+assigns, agents, or employees under its authority or control shall take any action
+or make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondentâs and/or its agentsâ and/or employeesâ: (1) testimonial
+obligations; or (11) right to take positions in other proceedings to which the
+Commission is not a party. Respondent and its successors and assigns shall
+undertake all steps necessary to ensure that all of its agents and/or employees
+under its authority or control understand and comply with this agreementâ.
+
+5. Cooperation, in General: Respondent shall cooperate fully and expeditiously with
+the Commission, including with DOE, in this action, and in any current or future
+Commission investigation or action related thereto (âCommission Related
+Mattersâ). Respondent shall also cooperate in any investigation, civil litigation,
+or administrative matter related to, or arising from, the subject matter of this
+action (âSubject Related Mattersâ). Respondentâs cooperation shall continue for a
+period of five years from the date of entry of this Order, or until any Commission
+Related Matters or Subject Related Matters are concluded, whichever is longest.
+As part of such cooperation, Respondent agrees to:
+
+ 
+
+a. preserve and produce to the Commission in a responsive and prompt
+manner, as requested by the Divisionâs staff, all non-privileged
+documents, information, and other materials wherever located, in the
+possession, custody, or control of Respondent;
+
+b. utilize their knowledge and skill to explain transactions, interpret
+information and terminology, or identify new and productive lines of
+inquiry;
+
+ 
+
+Â°Â° To the extent that the Commission brings an enforcement action against any employee or agent of Respondent
+arising from the same nexus of facts as this Order, this provision shall not apply to actions or public statements by
+such employee made in connection with that enforcement action.
+
+24
+C. prepare and appear for interviews and testimony at such times and places
+as requested by the Divisionâs staff;
+
+d. respond completely and truthfully to all inquiries and interviews, when
+requested to do so by the Divisionâs staff;
+
+e. identify and authenticate relevant documents, execute affidavits or
+declarations, and testify completely and truthfully at depositions, trial, and
+other judicial proceedings, when requested to do so by the Divisionâs staff;
+
+f. accept service by mail, electronic mail, or facsimile transmission of
+notices or subpoenas for documents and/or testimony at depositions,
+hearings, or trials;
+
+g. appoint Respondentâs attorney as agent to receive service of such notices
+and subpoenas; and
+
+h. waive the territorial limits on service contained in Rule 45 of the Federal
+Rules of Civil Procedure and any applicable local rules.
+
+6. Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission of any partial payment of Respondentâs CMP Obligation shall
+not be deemed a waiver of its obligation to make further payments pursuant to this
+Order, or a waiver of the Commissionâs right to seek to compel payment of any
+remaining balance.
+
+ 
+
+7. Change of Address/Phone: Until such time as Respondent satisfies in full 1ts CMP
+Obligation as set forth in this Consent Order, Respondent shall provide written
+notice to the Commission by certified mail of any change to its telephone number
+and mailing address within ten (10) calendar days of the change.
+
+ 
+
+The provisions of this Order shall be effective as of this date.
+By the Commission.
+
+Defbe \ Pb dd.
+
+Christopher J. Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: August 19, 2020
+
+25

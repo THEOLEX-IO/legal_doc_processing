@@ -1,0 +1,734 @@
+Case 1:18-cv-07895 Document1 Filed 08/29/18 Page 1 of 22
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+ 
+
+COMMODITY FUTURES TRADING
+COMMISSION,
+
+Plaintiff, Case No.: 1:18-CV-7895
+
+V.
+
+JASON AMADA and AMADA CAPITAL
+MANAGEMENT LLC,
+
+Defendants.
+
+ 
+
+ 
+
+COMPLAINT FOR INJUNCTIVE RELIEF,
+CIVIL MONETARY PENALTIES, AND OTHER RELIEF
+
+Plaintiff, Commodity Futures Trading Commission (âCommissionâ) alleges as follows:
+I. SUMMARY
+
+1. In February 2014, the Commissionâs Division of Enforcement sent Defendant
+Jason Amada (âAmadaâ) a letter notifying him that he was required to be registered with the
+Commission as a commodity trading advisor (âCTAâ) because he was soliciting clients for
+individually managed forex accounts through a website. Rather than register as required by the
+Commodity Exchange Act (âActâ) and Commission Regulations (âRegulationsâ), Amada shut
+down his website. The cessation of his illegal solicitation of clients, however, was short-lived.
+Amada never intended to cease his conduct that the Commission informed him would require
+registration.
+
+2. From at least February 2014 through at least November 2015 (the âRelevant
+Periodâ), Defendants Amada Capital Management (âACMâ), an unregistered CTA, and Amada,
+
+an unregistered associated person (âAPâ) of ACM, (collectively, âDefendantsâ), fraudulently
+solicited at least one client to open an individually managed trading account for off-exchange
+foreign currency contracts (âforexâ) and caused approximately $280,000 in losses in less than
+two months of trading.
+
+3. On or before June 22, 2015, Defendants established a new website,
+www.amadacapitalfx.com (âWebsiteâ). The Website was nearly identical in content to the
+website Amada operated prior to receiving notice in February 2014 of the registration
+requirements associated with soliciting clients for individually managed forex accounts through a
+website.
+
+4. Through the Website, ACM held itself out generally to the public as a CTA and
+solicited potential clients to open individually managed forex trading accounts. The Website
+claimed that ACM âonly accept[s] Non-US clientsâ; however, this was false. Defendants
+solicited at least one client in the United States (âClient Aâ) and directed Client A to visit the
+Website for information about ACMâs managed account services.
+
+5. Defendants persuaded Client A to open a forex account and also obtained written
+authorization to manage Client Aâs forex account.
+
+6. Defendants made fraudulent misrepresentations to Client A about how
+Defendants would manage Client Aâs account. Client A deposited approximately $280,000 to a
+forex account for Defendants to manage. Defendants misrepresented that they would limit Client
+Aâs losses to 1% of the account value through the implementation of a hedging strategy. Rather
+than implement a hedging strategy, Defendants traded speculatively and aggressivelyâlosing
+approximately 92% of Client Aâs account value in the first nine days of trading. During
+Defendantsâ mismanagement of Client Aâs account, Defendants attempted to mask the losses
+
+through additional misrepresentations and omissions to Client A.
+7. In less than two months of managing the forex trading for Client A, Defendants
+caused approximately $280,000 in trading lossesâwith Client A withdrawing the remaining
+approximately $1,000 balance and closing the account.
+
+8. Client A was neither an eligible contract participant (âECPâ), nor an eligible
+commercial entity (âECEâ).
+
+9, During the Relevant Period, ACM failed to register as a CTA and Amada failed to
+register as an AP of aCTA.
+
+10. By virtue of this conduct and the conduct further described herein, Defendants,
+either directly or as controlling persons, have engaged, are engaging, or are about to engage in
+acts and practices in violation of Sections 2(c)(2)(C)ai)(1)(bb), 4b(a)(2), 4k(3), 4m(1), and 40(1)
+of the Act, 7 U.S.C. Â§Â§ 2(c)(2)(C)a)(D(bb), 6b(a)(2), 6k(3), 6m(1), 60(1) (2012), and
+Regulations 5.2(b)(1) and (3), and 5.3(a)(3), 17 C.F.R. Â§Â§ 5.2(b)(1), (3), 5.3(a)(3) (2018).
+
+11. During the Relevant Period, Defendant Amada was an officer, employee, or agent
+of ACM. Therefore, ACM is liable for the acts and omissions of Amada done in the scope of his
+employment or office, pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1)(B) (2012),
+and Regulation 1.2, 17 C.F.R. Â§ 1.2 (2018).
+
+12. Defendant Amada was a controlling person of ACM throughout the Relevant
+Period and did not act in good faith or knowingly induced ACMâs violations of the Act and
+Regulations described herein. Therefore, Amada is liable for ACMâs violations of the Act and
+Regulations, pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b) (2012).
+
+13. Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), the
+Commission brings this action to enjoin Defendantsâ unlawful acts and practices, to compel their
+
+compliance with the Act and the Regulations promulgated thereunder, and to enjoin them from
+Case 1:18-cv-07895 Documenti1 Filed 08/29/18 Page 4 of 22
+
+engaging in any commodity related activity. In addition, the Commission seeks civil monetary
+penalties and remedial ancillary relief, including, but not limited to, trading and registration bans,
+restitution, disgorgement, rescission, pre- and post-judgment interest, and such other and further
+relief as the Court may deem necessary and appropriate.
+II. JURISDICTION AND VENUE
+
+14. â This Court has jurisdiction over this action under 28 U.S.C. Â§ 1331 (2012)
+(federal question jurisdiction) and 28 U.S.C. Â§ 1345 (2012), which provides that district courts
+have original jurisdiction over civil actions commenced by the United States or by any agency
+expressly authorized to sue by Act of Congress. Section 6c(a) of the Act, 7 U.S.C. Â§ 13a-1(a)
+(2012), authorizes the Commission to seek injunctive relief in any proper district court of the
+United States against any person whenever it shall appear to the Commission that such person
+has engaged, is engaging, or is about to engage in any act or practice constituting a violation of
+any provision of the Act or any rule, regulation or order thereunder.
+
+15. Venue properly lies with this Court pursuant to 7 U.S.C. Â§ 13a-1(e), because the
+acts and practices in violation of the Act and Regulations have occurred within this District.
+
+HW. THE PARTIES
+
+16. Plaintiff Commodity Futures Trading Commission is an independent federal
+regulatory agency charged by Congress with the administration and enforcement of the Act and
+the Regulations. The Commission is headquartered at 1155 21st Street, NW, Washington, DC
+20581.
+
+17. Defendant Amada Capital Management LLC, which also did business as
+
+Amada Capital Markets and ACM Capital Markets, is a New York entity with its last known
+Case 1:18-cv-07895 Document1 Filed 08/29/18 Page 5 of 22
+
+place of business at 110-33 72â¢ Avenue Suite 1A, New York, New York, 11375. ACM has
+never been registered with the Commission in any capacity.
+
+18. Defendant Jason Amada is a resident of New York City and is the sole owner
+and sole managing member of ACM and operated its Website. Amada has never been registered
+with the Commission in any capacity.
+
+IV. STATUTORY AND REGULATORY BACKGROUND
+
+19. Section la(18)(A)(x1) of the Act, 7 U.S.C. Â§ la(18)(A)(x1) (2012), defines an
+ECP, in relevant part, as an individual who has amounts invested on a discretionary basis, the
+ageregate of which exceeds $10 million, or $5 million if the individual enters into the transaction
+to manage the risk associated with an asset owned or liability incurred, or reasonably likely to be
+owned or incurred, by the individual.
+
+20. Regulation 5.1(4), 17 C.F.R. Â§ 5.1G) (2018), defines a retail forex account as the
+account of a person who is not an ECP, established with a retail foreign exchange dealer or a
+futures commission merchant, in which account retail forex transactions (including options on
+contracts for the purchase or sale of foreign currency) with such retail foreign exchange dealer or
+futures commission merchant as counterparty are undertaken, or which account is established in
+order to enter into such transactions.
+
+21. 17 C.F.R. Â§ 5.1Â¢m) defines a retail forex transaction as any account, agreement,
+contract or transaction described in Section 2(c)(2)(B) or 2(c)(2)(C) of the Act,
+7US.C. Â§ 2(c)(2)(B) or 2(c)(2)(C) (2012). A retail forex transaction does not include an
+account, agreement, contract, or transaction in foreign currency that is a contract of sale of a
+commodity for future delivery (or an option thereon) that is executed, traded on or otherwise
+subject to the rules of a contract market designated pursuant to Section 5(a) of the Act,
+
+7 US.C. Â§ 7a) (2012).
+22. Pursuant to 7 U.S.C. Â§ 2(c)(2)(C)a(1), â[algreements, contracts, or transactionsâ
+in retail forex accounts are subject to Sections 4b and 4o of the Act, 7 U.S.C. 8Â§ 6b, 60 (2012),
+except in circumstances not relevant here.
+
+23. Regulation 5.2(b)(1) and (3), 17 C-.F.R. Â§5.2(b)(1), (3) (2018), provides, in
+relevant part, that â[ijt shall be unlawful for any person, by use of the mails or by any means or
+instrumentality of interstate commerce, directly or indirectly, in or in connection with any retail
+forex transaction: (1) [t]o cheat or defraud or attempt to cheat or defraud any person; .. . or
+(3) [w]illfully to deceive or attempt to deceive any person by any means whatsoever.â
+
+24. 7US.C. Â§ la(l2)(A)G)dI) defines a CTA, in pertinent part, as any person who
+âfor compensation or profit, engages in the business of advising others, either directly or through
+publications, writings, or electronic media, as to the value of or the advisability of trading inâ
+(I) any agreement, contract, or transaction described in [S]ection 2(c)(2)(C)() or
+2(c)(2)(D)(1) [of the Act].â
+
+25. 17 C.F.R. Â§ 5.1(e)(1) defines a retail forex CTA as any person who exercises
+discretionary trading authority or obtains written authorization to exercise discretionary trading
+authority over any account for or on behalf of any person that is not an ECP, in connection with
+retail forex transactions.
+
+26. 7 U.S.C. Â§ 60(1) prohibits CTAs and APs of CTA, among others, whether
+registered with the Commission or not, from using the mails or any means or instrumentality of
+interstate commerce, directly or indirectly, from (A) employing devices, schemes, or artifices to
+defraud any client, participant, or prospective client or participant, or (B) engaging in
+transactions, practices, or courses of business which operate as a fraud or deceit upon any client
+
+or participant or prospective client or participant.
+27. Subject to certain exceptions not relevant here, Section 4m(1) of the Act,
+
+7 U.S.C. Â§ 6m(1) (2012), states that it shall be âunlawful for any commodity trading advisor .. .
+unless registered under this Act, to make use of the mails or any means or instrumentality of
+interstate commerce in connection with his business as such commodity trading advisor.â
+28. Subject to certain exceptions not relevant here, 7 U.S.C. Â§ 2(c)(2)(C)(i)(1)(bb)
+states that a
+âperson, unless registered in such capacity as the Commission by rule, regulation,
+
+or order shall determine and a member of a futures association registered under
+section 17, shall notâ
+
+(bb) exercise discretionary trading authority or obtain written
+authorization to exercise written trading authority over any account for or
+on behalf of any person that is not an eligible contract participant in
+connection with [retail forex transactions] ...â
+
+29. For purposes of retail forex transactions, 17 C.F.R. Â§ 5.1(e)(1) defines a forex
+CTA as any person who exercises discretionary trading authority or obtains written authorization
+to exercise discretionary trading authority over any account for or on behalf of any person that is
+not an ECP.
+
+30. Except in circumstances not relevant here, Regulation 5.3(a)(3)(),
+17 C.F.R. Â§ 5.3(a)(3)() (2018), requires those that meet the definition of forex CTA to register as
+a CTA with the Commission.
+
+31. Section 4k(3) of the Act, 7 U.S.C. Â§ 6k(3) (2012), states that â[ijt shall be
+unlawful for any person to be associated with a commodity trading advisor as a partner, officer,
+employee, consultant, or agent (or any person occupying a similar status or performing similar
+functions), in any capacity which involves (1) the solicitation of a clientâs or prospective clientâs
+discretionary account or (11) the supervision of any person or persons so engaged . . .â unless
+
+registered.
+Case 1:18-cv-07895 Document1 Filed 08/29/18 Page 8 of 22
+
+32. An AP of a CTA is defined by Regulation 1.3, 17 C.F.R. Â§ 1.3 (2018), as any
+natural person who is a âpartner, officer, employee, consultant, or agent (or any natural person
+occupying a similar status or performing similar functions), in any capacity which involves: (1)
+the solicitation of a client's or prospective client's discretionary account, or (11) the supervision of
+any person or persons so engaged.â
+
+33. For purposes of retail forex transactions, 17 C.F.R. Â§ 5.1(e)(2) defines an AP of a
+CTA as any natural person associated with a CTA as a partner, officer, employee, consultant or
+agent, in any capacity, which involves either: (1) the solicitation of a clientâs or prospective
+clientâs discretionary account; or (2) the supervision of any person or persons so engaged.
+
+Except in circumstances not relevant here, 17 C.F.R. Â§ 5.3(a)(3)(i1) requires those that meet the
+definition of a forex AP of a CTA to register with the Commission.
+
+Vv. FACTS
+A. Defendants Fraudulently Solicited a Client for a Managed Forex Account.
+
+34. Defendants fraudulently solicited at least one client to open a managed forex
+account by misrepresenting Client Aâs risk of loss associated with forex trading. Specifically,
+Defendants made false statements to Client A that they would implement a hedging strategy to
+protect Client Aâs funds from loss, that Defendants had significant and profitable experience
+trading forex for clients, and that Client Aâs account would be opened through a registered retail
+foreign exchange dealer (âRFEDâ). A registered RFED could legally enter into retail forex
+transactions with U.S. customers under the Act and Regulations.
+
+35. Defendants did not disclose to Client A that Defendants would ultimately receive
+commissions for trades placed in Client Aâs account, whether or not the trades were profitable.
+
+Defendants then used some of the commissions generated through trading Client Aâs account to
+reimburse Client Aâs account in an attempt to cover up the mounting lossesâall without
+informing Client A of the losses or re1mbursements.
+1. Defendants Made Misrepresentations Concerning the Risk of Loss Associated
+
+with Forex Trading and Defendantsâ Profitable Trading History and
+Qualifications.
+
+36. In May 2015, Amada met Client A through a social networking website. During
+their initial interactions, Amada stated that he was a licensed, professional currency trader.
+Client A was physically present in New York City. Amada and Client A met in person on at
+least one occasion and also communicated via email, text, and telephone on other occasions.
+
+37. On or around July 30, 2015, because of Amadaâs representations that he was a
+professional currency trader, Client A sought advice from Amada concerning money she needed
+to convert from Euros to U.S. Dollars for the purchase of real estate in New York City.
+
+38. Client A told Amada that she had a low risk tolerance for the conversion of the
+funds because the money would be needed to pay for a property Client A was under contract to
+purchaseâwith a closing date in or around January 2016. Client A informed Amada that losing
+more than 1% of the money would jeopardize the property transaction and potentially result in
+the loss of the down payment.
+
+39. Amada stated that he had another client âin a similar situationâ and suggested that
+Client A open an account with a RFED to implement a hedging strategy and avoid âtransfer
+feesâ that would otherwise be charged by a bank to convert the money from Euros to U.S.
+Dollars. Amada also sent a link directing Client A to ACMâs Website, which provided
+additional information concerning ACMâs offering of managed forex accounts for clients,
+including claims that ACM had achieved year-to-date client profits of 99%. Through these
+initial discussions, and later communications, Amada solicited Client A to open a retail forex
+
+account in which Defendants would exercise discretionary trading authority.
+
+9
+40. | Amadaâs representations were false.
+
+Al. First, Amada was not âlicensed.â He has never been registered with the
+Commission even though Amada knew that the broad solicitation of the public, through the
+Website, for managed forex accounts, required registration. Second, Amada did not manage any
+accountsâwhether owned by him or by ACM clientsâthat experienced profitable trading
+results, let alone anywhere near the 99% claimed on the Website. Third, Amada never intended
+to execute a hedging strategy on behalf of Client A. The trading he executed in Client Aâs
+account was inconsistent with any purported hedging strategy; in fact, the trading was so
+speculative in nature that Defendantsâ trading lost approximately 92% of Client Aâs funds after
+only nine days of trading.
+
+42. Also, despite knowing that Client A was a U.S. citizen, he directed Client A to
+use her foreign-issued passport to open a managed forex account at a foreign, unregistered
+RFEDâfalsely representing that it was merely a division of a U.S. entity that was for clients
+âthat have Euro based funds.â He also told Client A that the foreign RFED had âtighter spreadsâ
+for the traders that would allow him to better implement his âhedgingâ strategy.
+
+43. Amada directed Client A to open her account with the foreign RFED because its
+registered, U.S.-based affiliate would not permit Amada to generate and receive commissions as
+an introducing broker without being registered with the Commission. Also, the foreign RFED
+permitted greater leverage for trading than the registered U.S.-based affiliate, which
+consequently permitted riskier trading to occur in that account.
+
+44. Amada also failed to disclose that the foreign RFED at which Client A opened her
+account was not registered with the Commission, and was therefore not permitted to serve as the
+
+counterparty for retail forex transactions with U.S. customers.
+
+10
+45. On September 6, 2015, relying on Amadaâs misrepresentations, Client A entered
+
+into a Money Management Agreement (âMMAâ) with Defendants. Among other things, the
+MMA stated that Amada would have discretionary authority to execute forex transactions on
+Client Aâs behalf. The agreement also recited Client Aâs maximum loss target of 1% and that
+Amada âwill adjust the position size and risk management accordingly to stay within these
+guidelines.â The MMA, however, was never provided to the foreign RFED.
+
+46. On September 6, 2015, Client A also signed a Managed Account Authorization,
+Limited Power of Attorney (âPOAâ) with the foreign RFED. By its terms, the POA authorized a
+money manager, namely, Amadaâs father, to place trades in Client Aâs account. Even though the
+POA nominally authorized Amadaâs father to trade Client Aâs account, Amada actually directed
+the trading. The POA also indicated that the money manager would receive, as compensation,
+20% of profits from the managed account.
+
+47. Amada was not identified on the POA filed with the RFED. When Client A
+questioned Amada about his father being listed on the POA, Amada told her that it was a family
+business, that it was just a formality, and that Amada would be the one conducting all the trading
+in the account. Client A did not have any interaction with Amadaâs father until after she closed
+the trading account in November 2015.
+
+48. | Amadaâs name, however, did not appear on official documents filed with the
+foreign RFED because Amada was taking steps to hide, on paper, his involvement in Client Aâs
+account because the RFED had rejected Amadaâs previous applications to become a money
+manager.
+
+49. Nonetheless, Amada directed all account activity through communications with at
+
+least one of the RFEDâs employees.
+
+11
+Case 1:18-cv-07895 Document1 Filed 08/29/18 Page 12 of 22
+
+2. Defendants Did Not Disclose That They Would Receive Commissions from the
+Trading in Client Aâs Account, Regardless of Profitability.
+
+50. On August 19, 2015, Amadaâs mother entered into an Introducing Broker
+Agreement with the same foreign RFED. By the terms of this agreement, the foreign RFED
+established a control account (âControl Accountâ) in the name of Amadaâs mother for the
+purpose of earning commissions based on the trading activity of customers she introduced to the
+foreign RFED.
+
+51. The foreign RFED treated Client Aâs account as an account introduced by
+Amadaâs mother. The foreign RFED paid commissions to the Control Account based on forex
+trading in Client Aâs account that was executed by Amada using his fatherâs Money Manager
+Account. Client Aâs account was the only account associated with the Control Account.
+
+52. | Amada directed and performed all actions related to the formation of the Control
+Account and its transfer of funds through communications with at least one of the RFEDâs
+employees.
+
+53. Amada did not disclose to Client A the existence of the Control Account or that
+the Control Account would receive commissions for trades placed in Client Aâs account, whether
+or not the trading was profitable.
+
+3. Defendants Engaged in Speculative Trading and Covered Up the Losses by
+Hiding Reimbursements Sent from the Control Account.
+
+54. On September 15, 2015, Client A funded the account with a deposit of
+â¬249,121.99 ($280,000).' Amada began trading forex in Client Aâs account the same day.
+Rather than execute a hedging strategy for Client Aâs Euro-based funds, as Amada claimed he
+
+would, he began speculating on the movement of forex currencies by trading both the U.S.
+
+ 
+
+' AIL U.S. Dollar values are approximated based on exchange rates in place at the time of the conduct.
+
+12
+Dollar and the Euro currencies against multiple foreign currencies, including the Japanese Yen,
+New Zealand Dollar, Canadian Dollar, Australian Dollar, and Swiss Franc.
+
+55. Between September 15, 2015 and September 23, 2015, Client Aâs account
+suffered approximately â¬230,000 ($258,000) in lossesâapproximately 92% of the accountâs
+value. Over this same period, the Control Account received approximately â¬95,000 ($106,000)
+in fees from trading Client Aâs account.
+
+56. To cover up his enormous trading losses, on September 21, 2015, Amada
+requested that the RFED return â¬50,000 ($56,000) to Client A from the Control Account. On
+September 23, 2015, the RFED completed the transfer from the Control Account to Client A.
+Between, September 23, 2015 and September 30, 2015, Amada lost an additional â¬62,889
+($70,000)âthe remaining funds from Client Aâs initial deposit, plus most of the â¬50,000
+($56,000) transferred from the Control Account. In just the first two weeks of tradingâbetween
+September 15, 2015, and September 30, 2015âthe Control Account received â¬136,158.89
+($153,000) in commissions from Amadaâs trading of Client Aâs accountâbased on an initial
+deposit of about â¬250,000 ($280,000).
+
+57. Over the remaining time the account stayed open, Amada made an additional five
+requests for the RFED to refund fees from the Control Account to Client A to hide the significant
+losses in the account. Amada directed the RFED to make the following transfers from the
+Control Account to Client A:
+
+i. October 1, 2015 â â¬30,000 ($34,000);
+ii. October 6, 2015 â â¬25,000 ($28,000);
+iii. October 9, 2015 â â¬15,000 ($17,000);
+
+iv. October 19, 2015 â â¬6,500 ($7,300); and
+
+13
+v. October 27, 2015 â â¬3,000 ($3,300).
+
+58. Amada did not inform Client A that money was being transferred to Client Aâs
+account to cover losses sustained through trading. Further, Amada sought confirmation from the
+RFED that Client A would not receive notification of the transfers, other than the deposit
+appearing as an entry on Client Aâs monthly statement.
+
+59. On October 5, 2015, Amada transferred â¬30,000 ($34,000) from the Control
+Account to his motherâs bank account. Most of the funds ultimately made their way to Amadaâs
+personal bank account.
+
+60. On November 4, 2015, after discovering Amadaâs conduct, Client A withdrew the
+remaining balance of â¬899.79 ($1,000) and closed the trading account.
+
+6l. In total, Defendants generated and received approximately â¬162,000 ($180,000)
+in commissions through the Control Account, most of which was redeposited to Client Aâs
+trading account and lost in trading.
+
+B. Defendants Failed To Register with the Commission.
+
+62. Defendants operated the Website, which held ACM out generally to the public as
+a commodity trading advisor. The Website solicited clients to open trading accounts that would
+be managed by Defendants.
+
+63. Amada provided Client A with the address for the Website via text message on
+August 3, 2015, as part of his solicitation of Client A to open an individually managed forex
+trading account.
+
+64. During the Relevant Period, Defendants ACM and Amada acted as a CTA, and its
+AP, respectively, by exercising discretionary trading authority or obtaining written authorization
+to exercise discretionary trading authority over an account in connection with retail forex
+
+transactions. In addition, Defendants ACM and Amada acted as a CTA and its AP, respectively,
+
+14
+Case 1:18-cv-07895 Document1 Filed 08/29/18 Page 15 of 22
+
+by providing retail forex trading advice for compensation or profit, and used emails, text
+messages, the Internet, or other means or instrumentality of interstate commerce to solicit clients
+for management of retail forex accounts.
+
+65. During the Relevant Period, Defendant ACM was not registered with the
+Commission as a CTA nor was it exempt or excluded from registration as a CTA.
+
+66. During the Relevant Period, Defendant Amada acted as an AP of ACM by
+soliciting clientsâ or prospective clientsâ discretionary trading accounts.
+
+67. During the Relevant Period, Amada was not registered with the Commission as an
+AP of a CTA nor was he exempt or excluded from registration.
+
+VI. VIOLATIONS OF THE COMMODITY EXCHANGE ACT AND
+COMMISSION REGULATIONS
+
+COUNT I-â Managed Account Fraud, Solicitation Fraud, and Unauthorized
+Trading in Forex
+
+Violations of Section 4b(a)(2)(A) and (C) of the Act, 7 U.S.C. Â§ 6b(a)(2)(A), (C) (2012)
+and Regulation 5.2(b)(1) and (3), 17 C.F.R. Â§ 5.2(b)(1), (3) (2018)
+
+68. Paragraphs 1 through 67 are realleged and incorporated herein by reference.
+
+69. By reason of the conduct described above, Defendants, in or in connection with
+any order to make any contract of sale of any commodity in interstate commerce or for future
+delivery on a designated contract market for any other person: 1) cheated or defrauded or
+attempted to cheat or defraud the other person; or 2) willfully deceived or attempted to deceive
+the other person by any means whatsoever in regard to any order, or in regard to any act of
+agency performed, with respect to any order or contract.
+
+70. By reason of the foregoing, Defendants violated 7 U.S.C. Â§ 6b(a)(2)(A), (C)
+
+(2012), and 17 CFR. Â§ 5.2(b)(1), (3) (2018).
+
+15
+Case 1:18-cv-07895 Document1 Filed 08/29/18 Page 16 of 22
+
+71. When Amada committed the acts, omissions, and failures in violation of
+7 U.S.C. Â§ 6b(a)(2)(A), (C) and 17 C.F.R. Â§ 5.2(b)(1), (3), he was acting within the scope of his
+agency, employment, and office at ACM; therefore, such acts, practices, omissions, or failures
+are deemed to be those of ACM pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1)(B)
+(2012), and Regulation 1.2, 17 C.F.R. Â§ 1.2 (2018).
+
+72. At all times relevant to this Complaint, Amada controlled ACM, directly or
+indirectly, and did not act in good faith or knowingly induced, directly or indirectly, ACMâs
+conduct alleged in this Count; therefore, pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b)
+(2012), Amada is liable for Defendant ACMâs violations of 7 U.S.C. Â§ 6b(a)(2)(A), (C) and
+17 C.F.R. Â§ 5.2(b)(1), (3).
+
+73. Each misrepresentation or omission of material fact, including, but not limited to,
+those specifically alleged herein, is alleged as a separate and distinct violation of
+7TUS.C. Â§ 6b(a)(2)(A), (C) and 17 C.F.R. Â§ 5.2(b)(1), (3).
+
+COUNT II â Fraud by a Commodity Trading Advisor and Its Associated Person
+
+Violations of Section 40(1) of the Act, 7 U.S.C. Â§ 60(1) (2012)
+
+74. Paragraphs 1 through 67 are re-alleged and incorporated herein by reference.
+
+75. During the Relevant Period, ACM engaged in the business of advising others, for
+compensation or profit, either directly or through publications, writings, or electronic media, as
+to the value of or the advisability of trading in forex contracts for compensation or profit;
+therefore, ACM acted as a CTA as defined by Section la(12) of the Act, 7 U.S.C. Â§ la(12)
+(2012), and Regulation 5.1(e)(1), 17 C.F.R. Â§ 5.1(e)(1) (2018).
+
+76. During the Relevant Period, Defendant Amada acted as an AP of ACM by
+
+soliciting a clientâs discretionary trading account.
+
+16
+Case 1:18-cv-07895 Document1 Filed 08/29/18 Page 17 of 22
+
+77. By reason of the conduct described above, Defendants, while acting as a CTA and
+an AP of CTA, through use of the mails or any means or instrumentality of interstate commerce:
+(A) employed devices, schemes, or artifices to defraud any client, participant, or prospective
+client or participant; or (B) engaged in transactions, practices, or courses of business which
+operate as a fraud or deceit upon any client or participant or prospective client or participant.
+
+78. By reason of the foregoing, Defendants violated 7 U.S.C. Â§ 60(1).
+
+79. When Amada committed the acts, omissions, and failures in violation of
+7 U.S.C. Â§ 60(1), he was acting within the scope of his agency, employment, and office at ACM;
+therefore, such acts, practices, omissions, or failures are deemed to be those of ACM pursuant to
+7 U.S.C. Â§ 2(a)(1)(B) and 17 C.F.R. Â§ 1.2.
+
+80. At all times relevant to this Complaint, Amada controlled ACM, directly or
+indirectly, and did not act in good faith or knowingly induced, directly or indirectly, ACMâs
+conduct alleged in this Count; therefore, pursuant to 7 U.S.C. Â§ 13c(b), Amada is liable for
+Defendant ACMâs violations of 7 U.S.C. Â§ 60(1).
+
+81. Each act of misrepresentation or omission of material fact, including, but not
+limited to, those specifically alleged herein, is alleged as a separate and distinct violation of
+7 U.S.C. Â§ 60(1).
+
+COUNT II â Failure To Register as a Forex Commodity Trading Advisor and Failure To
+Register as an AP of a Forex Commodity Trading Advisor
+
+Violations of Sections 2(c)(2)(C)(iii)(1)(bb), 4k(3), and 4m(1) of the Act,
+7 US.C. Â§Â§ 2(c)(2)(C) (i) (DD) (bb), 6k(3), 6m(1) (2012) and
+Regulation 5.3(a)(3), 17 C.F.R. Â§ 5.3(a)(3) (2018)
+
+82. Paragraphs 1 through 67 are re-alleged and incorporated herein by reference.
+
+17
+rr
+ox
+af
+
+we
+
+on . aaa mt a ~ - oo, . 8 pee ASN ITN La
+: eu ee TN pea po PS FAP ea 5 Serpe yee Posie et nS ar a ae
+
+4 out ky Bot q wf fail # Not ey gs oagyes st gary : aePe Eee Ge Pot NS o
+Le CRE hh too f Soo LAUD DEES PURQORS Uke oY A
+
+83. By reason of the conduct described above, ACM held itself out generally to the
+public as a commodity trading advisor and exercised discretionary trading authority over retail
+forex transactions in accounts for or on behalf of persons who were neither ECEs nor ECPs.
+
+84. By reason of the conduct described above, ACM made use of the mails or other
+means of interstate commerce in connection with its CTA business and was not otherwise
+exempt or excluded from registration as a CTA.
+
+85. ACM was not registered with the Commission as a CTA.
+
+86. By reason of the foregoing, ACM violated 7 U.S.C. Â§Â§ 2(c)(2)(C)(111)(1)(bb),
+6m(1) and 17 C.F.R. Â§ 5.3(a)(3)().
+
+87. By reason of the conduct described above, Amada was a partner, officer,
+employee, consultant, or agent of ACM and he was involved in the solicitation of ACMâs
+clientsâ or prospective clientsâ discretionary account or he supervised others who were so
+engaged.
+
+88. | Amada was not registered with the Commission as an AP.
+
+89. By reason of the foregoing, Amada violated 7 U.S.C. Â§Â§ 2(c)(2)(C)(i1)(1)(bb),
+6k(3), and 17 C.F.R. Â§ 5.3(a)(3)(i1).
+
+90. | When Amada failed to register with the Commission as an AP, he was acting within the
+scope of his agency, employment, and office at ACM; therefore, such acts, practices, omissions, or
+failures are deemed to be those of ACM pursuant to 7 U.S.C. Â§ 2(a)(1)(B) and 17 C-.F.R. Â§ 1.2.
+
+91. At all times relevant to this Complaint, Amada controlled ACM, directly or indirectly,
+and did not act in good faith or knowingly induced, directly or indirectly, ACMâs failure to register as
+
+a CTA alleged in this Count; therefore, pursuant to Section 13(b) of the Act, Amada is liable for
+
+18
+Defendant
+
+Case 1:18-cv-07895 Document1 Filed 08/29/18 Page 19 of 22
+
+ACMâs_ violations of 7U.S.C. Â§ 2(c)(2)(C)a)()(bb), 6k(3) and 6m(1)
+
+17 CER. Â§ 5.3(a)(3)(i), (i).
+
+VIL RELIEF REQUESTED
+
+and
+
+WHEREFORE, the Commission respectfully requests that this Court, as authorized by Section
+
+6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), and pursuant to its own equitable powers:
+
+A.
+
+Find that Defendants violated Sections 2(c)(2)(C)(111)(1)(bb), 4b(a)(2)(A) and (C),
+
+4k(3), 4m(1), and 40(1) of the Act, 7 U.S.C. Â§Â§ 2(c)(2)(C)ai)(1)(bb), 6b(a)(2)(A),
+
+(C), 6k(3), 6m(1), 60(1) (2012), and Regulations 5.2(b)(1) and (3), and 5.3(a)(3),
+
+17 C.F.R. Â§Â§ 5.2(b)(1), (3), 5.3(a)(3) (2018); and
+
+Enter an order of permanent injunction enjoining Defendants, and their affiliates,
+
+agents, servants, employees, successors, assigns, attorneys, and all persons in
+
+active concert with them, who receive actual notice of such order by personal
+service or otherwise, from violating 7 U.S.C. Â§Â§ 2(c)(2)(C)(i1)(1)(bb),
+
+Ab(a)(2)(A), (C), 6k(3), 6m(1), 60(1) and 17 C.F.R. Â§Â§ 5.2(b)(1), (3), 5.3(a)(3);
+
+Enter an order of permanent injunction restraining and enjoining Defendants, and
+
+their affiliates, agents, servants, employees, successors, assigns, attorneys, and all
+
+persons in active concert with them, from directly or indirectly:
+
+1. Trading on or subject to the rules of any registered entity (as that term is
+defined by Section 1a(40) of the Act, 7 U.S.C. Â§ 1a(40) (2012));
+
+2. Entering into any transactions involving âcommodity interestsâ (as that
+term is defined in Regulation 1.3, 17 C.F.R. Â§ 1.3 (2018)), for accounts
+held in the name of any Defendant or for accounts in which any Defendant
+has a direct or indirect interest;
+
+3. Having any commodity interests traded on any Defendantâs behalf;
+
+19
+4. Controlling or directing the trading for or on behalf of any other person or
+
+entity, whether by power of attorney or otherwise, in any account
+involving commodity interests;
+
+5. Soliciting, receiving, or accepting any funds from any person for the
+purpose of purchasing or selling of any commodity interests;
+
+6. Applying for registration or claiming exemption from registration with the
+CFTC in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the CFTC except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2018); and
+
+7. Acting as a principal (as that term is defined in Regulation 3.1(a),
+17 C.F.R. Â§ 3.1(a) (2018)), agent, or any other officer or employee of any
+person registered, exempted from registration, or required to be registered
+with the CFTC except as provided for in 17 C.F.R. Â§ 4.14(a)(Q9).
+
+Enter an order directing Defendants, as well as any third-party transferee and/or
+successors thereof, to disgorge, pursuant to such procedure as the Court may
+order, all benefits received including, but not limited to, salaries, commissions,
+loans, fees, revenues, and trading profits derived, directly or indirectly, from acts
+or practices which constitute violations of the Act as described herein, including
+pre-judgment and post-judgment interest;
+
+An order requiring Defendants, jointly and severally, to make restitution to
+
+persons who have sustained losses proximately caused by the violations described
+
+herein, including pre-judgment and post-judgment interest;
+
+20
+Enter an order directing Defendants and any of their successors, to rescind,
+pursuant to such procedures as the Court may order, all contracts and agreements,
+whether implied or express, entered into between them and any of the clients
+whose funds were received by them as a result of the acts and practices which
+constituted violations of the Act as described herein;
+
+Enter an order directing Defendants, jointly and severally, to pay a civil monetary
+penalty assessed by the Court, in an amount not to exceed the penalty prescribed
+by Section 6c(d)(1) of the Act, 7 U.S.C. Â§ 13a-1(d)(1) (2012), as adjusted for
+inflation pursuant to the Federal Civil Penalties Inflation Adjustment Act
+Improvements Act of 2015, Pub. L. 114-74, 129 Stat. 584 (2015), title VIL,
+Section 701, see Regulation 143.8, 17 C.F.R. Â§ 143.8 (2018), for each violation of
+the Act, as described herein;
+
+Enter an order requiring Defendants to pay costs and fees as permitted by
+28 U.S.C. Â§Â§ 1920 and 2413(a)(2) (2012); and
+
+Enter an order providing such other and further relief as this Court may deem
+
+necessary and appropriate under the circumstances.
+
+21
+Case 1:18-cv-07895 Document1 Filed 08/29/18 Page 22 of 22
+
+August 29, 2018
+
+Respectfully submitted,
+
+PLAINTIFF COMMODITY FUTURES
+TRADING COMMISSION
+
+s/Peter L. Riggs
+Peter L. Riggs (MO Bar #57268)
+Nicholas S. Sloey (VA Bar #75438)
+Rachel A. Hayes (MO Bar #48713)
+Commodity Futures Trading Commission
+4900 Main Street, Ste. 500
+Kansas City, MO 64112
+Telephone: 816-960-7700
+Facsimile: 816-960-7751
+E-mail: priggs@cftc. gov
+nsloey@cfic.gov
+rhayes@cfic.gov
+
+ 
+
+22

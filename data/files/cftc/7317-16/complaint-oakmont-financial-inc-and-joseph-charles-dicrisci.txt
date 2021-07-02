@@ -1,0 +1,485 @@
+Case 9:16-cv-80055-XXXX Document1 Entered on FLSD Docket 01/12/2016 Page 1 of 14
+
+UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF FLORIDA
+
+ 
+
+)
+U.S. COMMODITY FUTURES TRADING )
+COMMISSION, )
+) Case No. 9:16-cv-80055
+Plaintiff, )
+)
+Vv ) Complaint for Injunctive and Other
+) Equitable Relief, Restitution, and Civil
+OAKMONT FINANCIAL, INC. and ) Monetary Penalties Under the
+JOSEPH CHARLES DICRISCTI, } Commodity Exchange Act
+Defendants.
+)
+
+ 
+
+Plaintiff U.S. Commodity Futures Trading Commission (âCommissionââ) alleges as
+
+follows:
+I. SUMMARY
+
+l. From at least July 16, 2011, and continuing through at least July 27, 2012 (the
+âRelevant Periodâ), Defendant Oakmont Financial, Inc. (âOakmontâ), by and through the actions
+of its employees and agents, including but not limited to Defendant Joseph Charles DiCrisci
+(âDiCrisciâ) (collectively, âDefendantsâ), entered into, offered to enter into, or conducted any
+office or business in the United States for the purpose of soliciting or accepting any order for the
+purchase or sale of precious metals from retail customers on a leveraged or financed basis.
+These transactions constituted illegal, off-exchange retail commodity transactions. By this
+conduct, Defendants have engaged, are engaging, or are about to engage in conduct that violates
+Sections 4(a) and 4d(a) of the Commodity Exchange Act (âActâ), 7 U.S.C. Â§Â§ 6(a) and 6d(a)
+
+(2012).
+Case 9:16-cv-80055-XXXX Document1 Entered on FLSD Docket 01/12/2016 Page 2 of 14
+
+2. DiCrisci controlled Oakmont throughout the Relevant Period and failed to act in
+good faith or knowingly induced Oakmontâs violations alleged herein. DiCrisci is therefore
+liable for Oakmontâs violations pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b) (2012).
+
+3. At all relevant times, the acts-and omissions of DiCrisci and other managers,
+employees, and agents of Oakmont were committed within the scope of their employment,
+agency, or office with Oakmont; therefore, Oakmont is liable under Section 2(a)(1)(B) of the
+Act, 7 U.S.C. Â§ 2(a)(1)(B) (2012), and Commission Regulation (âRegulationâ) 1.2, 17 C.F.R.
+
+Â§ 1.2 (2015), as a principal for the actions and omissions of DiCrisci and any other manager,
+employee, or agent of Oakmont, in violation of the Act.
+
+4. Pursuant to Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), the Commission
+brings this action to enjoin Defendantsâ unlawful acts and practices, to compel compliance with
+the Act, and to further enjoin them from engaging in any commodity-related activity.
+
+5. In addition, the Commission seeks civil monetary penalties, restitution, and
+remedial ancillary relief, including but not limited to, trading and registration bans,
+disgorgement, rescission, pre-judgment and post-judgment interest, and such other relief as the
+Court may deem necessary and appropriate.
+
+6. Unless restrained and enjoined by this Court, Defendants are likely to continue to
+engage in the acts and practices alleged in this Complaint, or similar acts and practices, as more
+fully described below.
+
+Il. JURISDICTION AND VENUE
+7. Section 6c of the Act, 7 U.S.C. Â§ 13a-1, authorizes the Commission to seek
+
+injunctive relief against any person whenever it shall appear to the Commission that such person
+Case 9:16-cv-80055-XXXX Document1 Entered on FLSD Docket 01/12/2016 Page 3 of 14
+
+has engaged, is engaging, or is about to engage in any act or practice constituting a violation of
+any provision of the Act, or any rule, regulation, or order thereunder.
+8. The Commission has jurisdiction over the conduct and transactions at issue in this
+case pursuant to Sections 2(c)(2)(D) and 6c of the Act, 7 U.S.C. Â§Â§ 2(c)(2)(D) and 13a-1 (2012).
+9, Venue properly lies with the Court pursuant to Section 6c(e) of the Act, 7 U.S.C.
+Â§ 13a-1(e) (2012), because Defendants transacted business in this District, and certain
+transactions, acts, and practices alleged in this Complaint occurred, are occurring, or are about to
+
+occur within this District.
+
+il. THE PARTIES
+A. Plaintiff
+
+10. ~â Plaintiff U.S. Commodity Futures Trading Commission is an independent
+federal regulatory agency charged by Congress with the administration and enforcement of the
+Act, 7 U.S.C. Â§Â§ 1 et seg. (2012), and the Regulations promulgated thereunder, 17 C.F.R. Â§Â§ 1.1
+et seq. (2015).
+
+B. Defendants
+
+11. Defendant Oakmont Financial, Inc. was a Florida corporation formed in October
+2010 that was administratively dissolved in September 2012. Its principal place of business was
+Boynton Beach, Florida. Oakmont was a telemarketing firm that solicited retail customers to
+invest in off-exchange retail commodity transactions. Oakmont has never been registered with
+the Commission in any capacity.
+
+12. Defendant Joseph Charles DiCrisci is a resident of New York, New York.
+DiCrisci was an owner, principal, and controlling person of Oakmont. During the Relevant
+
+Period, DiCrisci was not registered with the Commission.
+Case 9:16-cv-80055-XXXX Documenti Entered on FLSD Docket 01/12/2016 Page 4 of 14
+
+13. For most of the period from February 2002 through March 2005, DiCrisci was
+registered as an associated person with several introducing brokers registered with the
+Commission. From November 2003 through March 2005, he was also listed as a principal of
+one of those firms, which he owned and controlled. On or about May 26, 2005, the National
+Futures Association (âNFAâ) Business Conduct Committee issued a complaint alleging that:
+
+1) DiCrisci, his firm, and his employee made deceptive and misleading sales solicitations; and â
+2) DiCrisci and his firm failed to supervise his employee in connection with such activity. On or
+about December 20, 2005, an NFA Hearing Panel issued a decision barring DiCrisci from NFA
+membership or associated membership and from acting as a principal of an NFA member for one
+year. Among other things, the panel ordered DiCrisci to pay a $10,000 fine if, after the
+expiration of his one-year membership bar, he were granted NFA membership or associated
+membership or became a principal of an NFA member. The panel also ordered DiCrisci to tape
+record, for six months, all conversations between himself and existing or potential customers and
+to retain the tapes for one year from the time they were created if he again became an NFA
+member or associate. Finally, the panel ordered that in the event DiCrisci became a principal of
+an NFA member, DiCrisci would be required to cause all associated persons of that firm, and of
+any other firm of which he became a principal, to tape record, for six months, all conversations
+that occurred between all associated persons and existing or potential customers and to retain the
+tapes for one year from the time they were created.
+
+14. QOnor about July 13, 2010, the Florida Department of Agriculture and Consumer
+Services issued an Informal Settlement and Immediate Final Order to Cease and Desist Specified
+Telemarking Activities against DiCrisci and an entity he owned and controlled that sold
+
+investments in precious metals by telephone for: 1) failing to register as a Florida commercial
+Case 9:16-cv-80055-XXXX Document1 Entered on FLSD Docket 01/12/2016 Page 5 of 14
+
+telephone seller; and 2) employing fourteen individuals who failed register as Florida
+commercial telephone salespersons. DiCrisci and his firm were ordered to pay a $10,000 fine
+and to comply with Floridaâs telemarking licensing requirements.
+
+IV. RELATED ENTITIES
+
+15. | Oakmont introduced customers to Hunter Wise Commodities, LLC (âHunter
+Wiseâ), which held itself out as a precious metals wholesaler and clearing firm. Hunter Wise
+purported to confirm the execution of customer off-exchange retail commodity transactions.
+
+16. | Hunter Wise was organized as a California limited liability company in July 2007
+and was registered to do business in Nevada. It maintained business addresses in Las Vegas,
+Nevada and Irvine, California. On its website, Hunter Wise held itself out as âa physical
+commodity trading company, wholesaler, market maker, back-office support provider, and
+finance company.â Hunter Wise purported to offer, enter into, and confirm the execution of
+retail commodity transactions involving gold, silver, platinum, palladium, and copper throughout
+the United States using a network of telemarketing solicitors such as Oakmont that it referred to
+as âdealers.â
+
+17. On February 19, 2014, a court in this District, in an action captioned CFTC v.
+Hunter Wise Commodities, LLC, held that Hunter Wise and other defendants violated Section
+4(a) of the Act, 7 U.S.C. Â§6(a), the prohibition against off-exchange trading of retail commodity
+transactions like the ones at issue here. The court granted summary judgment in favor of the
+Commission. 1 F. Supp. 3d 1311, 1320-1322 (S.D. Fla. 2014).
+
+V. STATUTORY BACKGROUND
+18. Section 2(c)(2)(D) of the Act, 7 U.S.C. Â§2(c)(2)(D), gives the Commission
+
+jurisdiction over âany agreement, contract, or transaction in any commodityâ that is entered into
+Case 9:16-cv-80055-XXXX Document1 Entered on FLSD Docket 01/12/2016 Page 6 of 14
+
+with, or offered to, a non-eligible contract participant âon a leveraged or margined basis, or
+financed by the offeror, the counterparty, or a person acting in concert with the offeror or
+counterparty on a similar basisâ (âretail commodity transactionsâ) with respect to conduct
+occurring on or after July 16, 2011, subject to certain exceptions not applicable here. Section
+2(c)(2)(D) of the Act, 7 U.S.C. Â§ 2(c)(2)(D), makes Section 4(a) of the Act, 7 U.S.C. Â§6(a),
+applicable to retail commodity transactions âas ifâ such transactions are contracts for the sale of
+a commodity for future delivery.
+
+19. The Act defines an eligible contract participant (âECPââ), in relevant part, as an
+individual who has amounts invested on a discretionary basis, the aggregate of which exceeds
+$10 million, or $5 million if the individual enters into the transaction to manage the risk
+associated with an asset owned or liability incurred, or reasonably likely to be owned or incurred, â
+by the individual. Section 1(a)(18)(xi) of the Act, 7 U.S.C. Â§ 1a(18)(xi) (2012). During the
+Relevant Period, Oakmont solicited non-ECP customers to enter into retail commodity
+transactions and executed retail commodity transactions with non-ECP customers.
+
+20. Section 4(a) of the Act, 7 U.S.C. Â§ 6(a), in relevant part, makes it is unlawful for
+any person to offer to enter into, execute, confirm the execution of, or conduct any office or
+business anywhere in the United States for the purpose of soliciting, accepting any order for, or
+otherwise dealing in any transaction in, or in connection with, a contract for the purchase or sale
+of a commodity for future delivery unless the transaction is conducted on or subject to the rules
+of a board of trade that has been designated or registered by the Commission as a contract
+market.
+
+21. Section 4d(a) of the Act, 7 U.S.C. Â§ 6d(a), in relevant part, provides that it shall
+
+be unlawful for any person to be a futures commission merchant (âFCMâ) unless such person
+Case 9:16-cv-80055-XXXX Document1 Entered on FLSD Docket 01/12/2016 Page 7 of 14
+
+shall have registered with the Commission as an FCM. In pertinent part, Regulation 1.3(p),
+17 C.F.R Â§ 1.3(p) (2015), defines an FCM as â[a]ny individual, association, partnership,
+corporation, or trust... engaged in soliciting or in accepting orders for. . . any agreement,
+contract, or transaction described in section 2(c)(2)(C)(i) or section 2(c)(2)(D)(i) of the Act... .â
+See also Section 1a(28) of the Act, 7 U.S.C. Â§ 1a(28) (2012) (defining an FCM).
+
+V1. FACTS
+
+22. During the Relevant Period, Oakmont operated as a telemarketing firm that
+solicited retail customers to engage in off-exchange retail commodity transactions involving
+leveraged precious metals. Although Oakmont also offered precious metals on a fully-paid
+basis, the majority of its business was in off-exchange retail commodity transactions. Only
+Oakmontâs off-exchange retail commodity transactions through Hunter Wise during the Relevant
+Period are at issue here.
+
+23.  Atall times during the Relevant Period, DiCrisci was an owner, principal, and
+controlling person of Oakmont. DiCrisci managed, or controlled those who controlled, the day-
+to-day operations of Oakmont; determined employee salaries and commission compensation
+rates; directed payments from Hunter Wise to Oakmont;' entered into agreements with Hunter
+Wise on behalf of Oakmont; and communicated with Hunter Wise on behalf of Oakmont in
+connection with Oakmontâs operations and customer transactions.
+
+24. âAtall times during the Relevant Period, Oakmont employed individuals to,
+among other things, solicit retail customers to engage in off-exchange retail commodity
+
+transactions. DiCrisci supervised or managed individuals who oversaw the solicitation of funds
+
+ 
+
+' DiCrisci also directed payments due Oakmont from Hunter Wise to another entity he owned and controlled, Joseph
+Charles Asset Management, Inc.
+Case 9:16-cv-80055-XXXX Document1 Entered on FLSD Docket 01/12/2016 Page 8 of 14
+
+by Oakmont employees, he was involved in hiring Oakmont employees, and he had authority to
+fire Oakmont employees.
+
+25. DiCrisci, however, attempted to hide his control over Oakmont. He did not want
+his involvement with Oakmont known to regulators and others.
+
+26. | Oakmontâs employees conducted nearly all of their solicitations by telephone.
+When soliciting customers for off-exchange retail commodity transactions, Oakmontâs
+employees represented that to purchase a certain quantity of metal, customers needed to deposit a
+percentage of the total metal value and arrange for a loan for the remaining amount. Hunter
+Wise provided the financing for the loans to the customers. However, Oakmont did not disclose
+to all of its customers Hunter Wiseâs involvement in the off-exchange retail commodity
+transactions.
+
+27. After a customer invested, Oakmont contacted Hunter: Wise to accomplish the
+transaction. Oakmont collected the funds needed for the transaction from the customer and sent
+them to Hunter Wise. Hunter Wise provided back office support services to Oakmont and
+customer access to the details of the transaction.
+
+28. | With respect to retail commodity transactions, Oakmont charged customers
+commissions, storage, and other fees for purchasing the metal and interest on loans to buy metal.
+Hunter Wise provided Oakmontâs share of the commissions and fees to Oakmont after it
+received the customerâs funds from Oakmont.
+
+29. In the leveraged precious metals transactions at issue, Oakmontâs customers did
+not take delivery of precious metals.
+
+30. During the Relevant Period, Oakmont collected at least $2,308,228 from at least
+
+107 customers in connection with retail commodity transactions. Of this amount, at least
+Case 9:16-cv-80055-XXXX Document1 Entered on FLSD Docket 01/12/2016 Page 9 of 14
+
+$735,329 was paid to Oakmont in the form of commissions, markups, storage fees, and interest
+charges.
+
+31. Oakmont and Hunter Wise never bought, sold, loaned, stored, or transferred any
+physical metals for the off-exchange retail commodity transactions at issue. Likewise, Oakmont
+and Hunter Wise never delivered any precious metals to any customers in connection with the
+financed metals transactions at issue.
+
+Vil. VIOLATIONS OF THE COMMODITY EXCHANGE ACT
+COUNT I
+ILLEGAL OFF-EXCHANGE TRADING
+Violations of 7 U.S.C. Â§ 6(a)
+
+32. Paragraphs 1 through 31 of this Complaint are re-alleged and incorporated herein
+by reference.
+
+33. During the Relevant Period, the retail commodity transactions described in this
+Complaint were offered and entered into by Defendants (a) on a leveraged or margined basis, or
+financed by the offeror, the counterparty, or a person acting in concert with the offeror or
+counterparty on a similar basis, (b) with persons who are not ECPs or eligible commercial
+entities as defined by the Act, and (c) without being made or conducted on, or subject to, the
+rules of any board of trade, exchange, or contract market.
+
+34. The retail commodity transactions described in this Complaint involve
+commodities as defined in Section 1a(9) of the Act, 7 U.S.C. Â§ 1a(Q9) (2012).
+
+35. As set forth above, during the Relevant Period, Defendants Oakmont and DiCrisci
+
+violated Section 4(a) of the Act, 7 U.S.C. Â§ 6(a), by offering to enter into, entering into,
+
+executing, confirming the execution of, or conducting an office or business in the United States
+
+ 
+Case 9:16-cv-80055-XXXX Document1 Entered on FLSD Docket 01/12/2016 Page 10 of 14
+
+for the purpose of soliciting or accepting orders for, or otherwise dealing in, any transaction in,
+or in connection with, retail commodity transactions.
+
+36. Each offer to enter into, execution, confirmation, solicitation, or acceptance of an
+order for a retail commodity transaction made during the Relevant Period to a non-ECP customer
+is alleged as a separate and distinct violation of Section 4(a) of the Act, 7 U.S.C. Â§ 6(a).
+
+37. | DiCrisci directly or indirectly controlled Oakmont and did not act in good faith, or
+knowingly induced, directly or indirectly, the acts constituting Oakmontâs violations of Section
+4(a) of the Act, 7 U.S.C. Â§ 6(a). Pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b),
+DiCrisci is therefore liable for each of Oakmontâs violations of Section 4(a) of the Act, 7 U.S.C.
+Â§ 6(a).
+
+38. | The acts and omissions of DiCrisci and other managers, employees, agents, and
+other persons acting for Oakmont described in this Complaint were done within the scope of
+their employment, agency, or office with Oakmont. Therefore, Oakmont is liable as a principal
+
+' for each act, omission, or failure of DiCrisci and Oakmontâs other managers, employees, agents,
+and other persons acting for Oakmont, constituting violations of Section 4(a) of the Act, 7 U.S.C.
+Â§ 6(a), pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C Â§ 2(a)(1)(B), and Regulation 1.2, 17
+C.F.R. Â§ 1.2.
+
+COUNT Il
+FAILURE TO REGISTER
+Violations of 7 U.S.C. Â§ 6d(a)
+
+39. Paragraphs 1 through 38 of this Complaint are re-alleged and incorporated herein
+by reference.
+
+40. During the Relevant Period, Oakmont, through its managers, employees, and
+
+agents, acted as an FCM by soliciting and accepting orders for agreements, contracts, or
+
+10
+Case 9:16-cv-80055-XXXX Document1 Entered on FLSD Docket 01/12/2016 Page 11 of 14
+
+transactions described in Section 2(c)(2)(D)(i) of the Act, 7 U.S.C. Â§ 2(c)(2)(D)(i) (i.e., retail
+commodity transactions), and, in or in connection with those transactions, accepted at least
+$2,308,228 from its customers.
+
+41. Section 4d(a) of the Act, 7 U.S.C. Â§ 6d(a), provides that it shall be unlawful for
+any person to be an FCM unless such person shall have registered with the Commission as an
+FCM.
+
+42. During the Relevant Period, Oakmont failed to register with the Commission as
+an FCM, and therefore violated Section 4d(a), 7 U.S.C. Â§ 6d(a).
+
+43. | DiCrisci directly or indirectly controlled Oakmont and did not act in good faith or
+knowingly induced, directly or indirectly, the acts constituting Oakmontâs violations of Section
+4d(a) of the Act, 7 U.S.C. Â§ 6d(a), alleged in this Complaint. Pursuant to Section 13(b) of the
+Act, 7 U.S.C. Â§ 13c(b), DiCrisci 1s therefore liable for each of Oakmontâs violations of Section
+4d(a) of the Act, 7 U.S.C. Â§ 6d(a).
+
+44. The acts and omissions of DiCrisci and other managers, employees, agents, and
+other persons acting for Oakmont described in this Complaint were done within the scope of
+their employment, agency, or office with Oakmont. Therefore, Oakmont is liable as a principal
+for each act, omission, or failure of DiCrisci and Oakmontâs other managers, employees, agents,
+and other persons acting for Oakmont, constituting violations of Section 4d(a) of the Act, 7
+U.S.C. Â§ 6d(a), pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C Â§ 2(a)(1)(B), and Regulation
+1.2,17C.F.R. Â§ 1.2.
+
+VHI. RELIEF REQUESTED
+WHEREFORE, the Commission respectfully requests that this Court, as authorized by
+
+Section 6c of the Act, 7 U.S.C. Â§ 13a-1, and pursuant to its own equitable powers, enter:
+
+1]
+Case 9:16-cv-80055-XXXX Document1 Entered on FLSD Docket 01/12/2016 Page 12 of 14
+
+A. An Order finding that Defendants violated Sections 4(a) and 4d(a) of the Act,
+
+7 U.S.C. Â§Â§ 6(a) and 6d(a);
+
+B. An Order of permanent injunction prohibiting Defendants, and any other person
+
+or entity associated with them, from engaging in conduct in violation of Sections
+
+4(a) and 4d(a) of the Act, 7 U.S.C. Â§Â§ 6(a) and 6d(a);
+
+C, An Order of permanent injunction prohibiting Defendants, and any other person
+
+or entity associated with them, from directly or indirectly: |
+
+I)
+
+2)
+
+3)
+
+4)
+
+5)
+
+6)
+
+Trading on, or subject to the rules of, any registered entity (as that term is
+defined in Section 1a(40) of the Act, 7 U.S.C. Â§ 1a(40) (2012));
+
+Entering into any transactions involving âcommodity interestsâ (as that
+term is defined in Regulation 1.3(yy), 17 C.F.R. Â§ 1.3(yy) (2015)) for their
+own personal account or for any account in which they have a direct or
+indirect interest;
+
+Having any commodity interests traded on their behalf;
+
+Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account
+involving commodity interests;
+
+Soliciting, receiving, or accepting any funds from any person for the
+purpose of purchasing or selling any commodity interests;
+
+Applying for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the Commission, except
+
+as provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2015);
+
+12
+Case 9:16-cv-80055-XXXX Document1 Entered on FLSD Docket 01/12/2016 Page 13 of 14
+
+7) Acting as a principal (as that term is defined in Regulation 3.1(a),
+17 C.F.R. Â§ 3.1(a) (2015)), agent, or any other officer or employee of any
+person (as that term is defined in Section 1a(38) of the Act, 7 U.S.C.
+Â§ 1a(38) (2012)), registered, exempted from registration, or required to be
+registered with the Commission, except as provided for in Regulation
+4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2015); and
+8) Engaging in any business activities related to commodity interests.
+
+D. An Order directing Defendants, as well as any successors, to disgorge pursuant to
+such procedure as the Court may order, all benefits received from the acts or
+practices described herein that constitute violations of the Act, pre-judgment
+interest from the date of such violations, and post-judgment interest;
+
+E. An Order directing Defendants, as well as any successors, to make full restitution,
+pursuant to such procedure as the Court may order, to every customer whose
+funds Defendants received or caused another person or entity to receive as a result
+of the acts and practices described herein which constitute violations of the Act,
+pre-judgment interest from the date of such violations, and post-judgment interest;
+
+F. An Order directing Defendants, as well as any successors, to rescind, pursuant to
+such procedure as the Court may order, all contracts and agreements, whether
+express or implied, entered into between Defendants and any of the customers
+whose funds were received by Defendants as a result of the acts and practices
+which constitute violations of the Act, as described herein;
+
+G. An Order directing Defendants, as well as any successors, to pay civil monetary |
+
+penalties under the Act, to be assessed by the Court, in amounts of not more than
+
+13
+Case 9:16-cv-80055-XXXX Document1 Entered on FLSD Docket 01/12/2016 Page 14 of 14
+
+the greater of (1) triple the monetary gain to Defendants for each violation of the
+
+Act; or (2) $140,000 for each violation committed, plus post-judgment interest;
+
+H. An Order directing Defendants, as well as any successors, to pay costs and fees as
+
+permitted by 28 U.S.C. Â§Â§ 1920 and 2412(a)(2); and
+
+I. Such other and further relief as the Court deems proper.
+
+Dated: January 12, 2016
+
+14
+
+Respectfully submitted,
+
+s/Kassra Goudarzi
+
+Kassra Goudarzi
+
+FL Special Bar #A5502136
+kgoudarzi@cfic.gov
+
+Michael Solinsky
+FL Special Bar #A5501936
+msolinsky@cfic.gov
+
+U.S. Commodity Futures Trading
+Commission
+
+Division of Enforcement
+
+1155 21* Street, NW
+
+Washington, DC 20581
+
+Telephone: (202) 418-5416 (Goudarzi)
+Telephone: (202) 418-5384 (Solinsky)
+Fax: (202) 418-5937
+
+Attorneys for Plaintiff

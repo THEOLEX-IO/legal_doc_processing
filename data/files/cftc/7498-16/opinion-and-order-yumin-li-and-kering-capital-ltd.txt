@@ -1,0 +1,769 @@
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 1 of 23 PagelD #:956
+
+UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF ILLINOIS
+
+EASTERN DIVISION
+U.S. COMMODITY FUTURES )
+_ TRADING COMMISSION, )
+)
+Plaintiff, )
+) No. 15 C 5839
+
+v. )
+
+) _ Judge Sara L. Ellis
+YUMIN LI, and -)/
+KERING CAPITAL LTD. )
+| )
+Defendants, )
+: )
+KERING CAPITAL LTD. )
+)
+Relief Defendant. )
+
+OPINION AND ORDER
+
+Plaintiff U.S. Commodity Futures Trading Commission (âCFTCâ) filed a complaint
+against Defendants Yumin Li and Kering Capital, Ltd. (âKeringâ), alleging that Li and Kering
+violated the Commodity Exchange Act (â the Actâ), 7 U.S.C. Â§Â§ 6b(a)(1)(A) and (C), 7 U.S.C.
+Â§ 6c(a), and 17 C.F.R. Â§ 1.38(a), when Li cheated or defrauded Liâs employer, Tanius
+Technology (âTaniusâ), by entering into pre-arranged, fictitious trades of futures contracts
+designed to transfer money from Tantus to Kering. CFTC now moves for summary judgment,
+seeking to permanently enjoin Defendants from further violations of the Act, permanently enjoin
+Li from trading in the futures markets, and permanently enjoin Kering from granting Li access to â
+its futures trading accounts and from relying upon Li for trading advice and direction. CFTC
+also asks the Court to impose a civil monetary penalty of $901,387.50, jointly and severally
+against the Defendants. Finally, CFTC requests that the Court order restitution to Tanius in the
+
+amount of $300,462.50, plus post-judgment interest.
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 2 of 23 PagelD #:957
+
+Because the undisputed facts establish that Li engaged in illegal fictitious trades in order
+to fraudulently transfer funds from Tanius to Kering and did so in the scope of her employment
+with Kering, the Court grants the CFTCâs motion for summary judgment. The Court orders Li
+and Kering to return $300,462.50, plus post-judgment interest, to the Tanius Account and to pay
+a civil penalty of $901,387.50. The Court enjoins Li from working in the futures markets for
+five years and permanently enjoins Li from future violations of the Act. The Court enjoins
+
+_ Kering from employing Li to do any work related to the futures markets for five years and
+permanently enjoins Kering from future violations of the Act.
+
+CFTC also moves to strike [65] the declaration of Nicolas Morgan in opposition to the
+motion for summary judgment [56], the declaration of Dr. Tiago Duarte-Silva [5 a and Liâs
+Response to the Joint Statement of Undisputed Material Factsâ [58]. Li subsequently withdrew
+the declaration of Dr. Duarte-Silva, but she continues to object to the exclusion of her Response
+and the Morgan declaration. Because the Response does not comply with the Courtâs standing
+order on summary judgment procedures and the Morgan declaration puts forth irrelevant and
+inadmissible evidence, the Court grants CFTCâs motion to strike.
+
+BACKGROUNDâ
+A. Relevant Parties
+
+1. Yumin Li
+
+Tanius, a California based trading firm, employed Li from February 2013 until May
+2015. Tanius hired Li because she had expertise in Eurodollar and other types of trading. While
+
+employed at Tanius, Li received a total of $931,140.21. According to her employment
+
+ 
+
+' Li filed an amended Response to the Joint Statement of Undisputed Material Facts [72]. The Court
+treats the motion to strike as applicable to this amended Response.
+
+* The facts in this section are derived from the Joint Statement of Undisputed Material Facts (âJSOFâ),
+Doc. 46. All facts are taken in the light most favorable to Li and Kering Capital, the non-movants.
+
+2
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 3 of 23 PagelD #:958
+
+agreement, Li was not authorized to trade any securities or financial instruments for herself or
+any other entity without authorization from Tanius.
+
+Li contends that while at Tanius, she was treated unfairly relating to the margin and risk
+limits on her trading activities. Li also felt that Tanius did not appropriately compensate her and
+thus, she faciliated the trades described below in order to obtain compensation which she
+believed Tanius owed to her.
+
+Li accepted a position as a trader at Kering in November 2014 while still employed atâ
+Tanius. At Kering, Li was the only person trading futures for Kering and held sole responsibility
+for developing Keringâs futures trading strategies.
+
+Prior to her employment at Tanius, Li had worked periodically as a Eurodollar trader for
+five years. Li has a masterâs degree in statistics and a bachelorâs degree in business
+administration.
+
+2. Kering Capital Limited
+
+Kering is a company incorporated in the British Virgin Islands. Yanping Lu, Liâs
+mother, formed Kering in November 2014. Lu is the Chief Executive Officer of Kering.
+Keringâs sole business activity is trading; its only business asset is the trading account ending in
+2536 (âKering Accountâ). During the relevant timeframe, Li was a probationary trader for
+Kering, but she expected to receive compensation from Kering for profitable trading and she
+expected to be hired by Kering if she generated enough profit.
+
+3. Tanius Technology LLC
+
+Tanius is a California-based trading firm. One of Taniusâ founders, Gary Middlemiss,
+was Liâs supervisor at Tanius. While working at Tantus, Li had access to Middlemissâ trading
+
+account ending in 8202 (âTanius Accountâ).
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 4 of 23 PagelD #:959
+
+B. Trading at Issue
+
+Beginning on March 17, 2015 and continuing until May 6, 2015, Li used the Tanius
+Account to engineer a series of trades designed to benefit Kering. Li structured 41 trades over
+six Separate occasions such that the Tantus Account would always buy futures from the Kering
+Account at higher prices and sell those same futures back to Kering at lower prices (or in the Â©
+reverse order in some circumstances) completing what is known as a âround-turn trade.â
+Regardless of the order of the transaction, each transaction resulted in unidirectional profits to
+Kering at the expense of Tanius. Over the course of these 41 transactions, Li successfully
+transferred $300,462.50 from the Tanius Account to the Kering Account. Li was not authorized
+by Middlemiss or anyone else at Tanius to enter into any of these 41 transactions and she was not .
+authorized to enter into any transactions that obviously would result in a loss for Tanius.
+
+Li always placed these orders outside of normal trading hours in illiquid futures
+marketsâtypically Eurodollar futures with expiration dates more than five years in the future.
+She would enter an order with one account and then, within seconds, enter an identical order
+with the other account on the opposite side of the trade. For example, on May 6, 2015 , between
+12:42:54 AM and 12:43:05 AM (a nine-second window), Li entered orders on the Kering
+Account selling a total of 2400 futures with three different expiration dates. Then, between
+12:44:17 AM and 12:44:21 AM, Li entered orders on the Tanius Account to buy the exact same
+quantities of those futures at the exact price she offered them on the Kering Account. These
+orders matched and the exchange executed the trade. Li then immediately closed out the position
+by doing essentially the same transaction in reverse, this time entering an order to buy the same
+2400 futures with the Kering Account and selling them from the Tanius account, but this time at
+
+a lower price. Again the orders matched and the exchange executed the trade. The total time
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 5 of 23 Pagelb #:960
+
+elapsed from the moment Li entered the first order until she closed out the position was one
+minute and forty seconds, during which time she transferred $67,487.50 from the Tanius
+Account to the Kering Account. Each of the other round-turn trades Li executed between the
+Tanius Account and the Kering Account resulted in a loss to Tanius and a gain to Kering.
+
+By engaging in these trades outside of regular business hours, placing nearly
+simultaneous orders in illiquid products, Li was able to virtually assure that she would not trade
+with a third party, and eliminated any market risk to her transaction. During each of her trades,
+the Kering Account and Tanius Account were the only two accounts trading in the selected
+markets.
+
+C. Discovery of the Trading and Subsequent Action
+
+On May 6, 2015, Middlemiss noticed that trading had occurred in the Tanius Account
+that had caused a significant loss on the account. Middlemiss asked Li about the trades and she
+admitted to executing the trades. That same day, Li fled to China where she remains to this day.
+Li has expressed her intention to return to the United States and continue trading for Kering after
+the conclusion of this case.
+
+Kering did not authorize Li to engage in illegal transactions, and Lu was not aware that
+Li conducted trades on behalf of Kering by controlling the Tanius Account and directing trades
+favoring Kering with that account.
+
+D. Freezing of the Kering Account
+
+On July 2, 2015; the Court entered an order freezing the assets in the Kering Account.
+
+The parties consented to a preliminary injunction extending the freeze for the duration of the
+
+case on July 23, 2015.
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 6 of 23 PagelD #:961
+
+LEGAL STANDARD
+
+Summary judgment obviates the need for a trial where there is no genuine issue as to any
+material fact and the moving party is entitled to judgment as a matter of law. Fed. R. Civ. P. 56.
+To determine whether a genuine issue of fact exists, the Court must pierce the pleadings and
+assess the proof as presented in depositions, answers to interrogatories, admissions, and
+affidavits that are part of the record. Fed. R. Civ. P. 56 & advisoty committeeâs notes. The party
+seeking summary judgment bears the initial burden of proving that no genuine issue of material
+fact exists. Celotex Corp. v. Catrett, 477 U.S. 317, 323, 106 S. Ct. 2548, 91 L. Ed. 2d 265
+(1986). In response, the non-moving party cannot rest on mere pleadings alone but must use the
+evidentiary tools listed above to identify specific material facts that demonstrate a genuine issue
+for trial. Id. at 324; Insolia v. Philip Morris Inc., 216 F.3d 596, 598 (7th Cir. 2000). Although a
+bare contention that an issue of fact exists is insufficient to create a factual dispute, Bellaver v.
+Quanex Corp., 200 F.3d 485, 492 (7th Cir. 2000), the Court must construe all facts in the light
+most favorable to the non-moving party and draw all reasonable inferences in that partyâs favor.
+Anderson vy. Liberty Lobby, Inc., 477 U.S. 242, 255, 106 S. Ct. 2505, 91 L .Ed. 2d 202 (1986).
+
+ANALYSIS
+
+A. Motion to Strike
+
+CFTC moves to strike the declaration of Nicolas Morgan in opposition to the motion for
+summary judgment, the declaration of Dr. Tiago Duarte-Silva, and Liâs Response to the J SOF.
+
+I. Morgan Declaration
+
+The declaration of Nicolas Morgan contains irrelevant information and several citations
+to prior CFTC decisions. CFTC does not move to strike the decision citations, only the
+
+irrelevant information contained in paragraphs 2-4 and 10. Declarations offered in support ofa
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 7 of 23 PagelD #:962
+
+motion for summary judgment must âset out facts that would be admissible in evidence.â Fed.
+R. Civ. P. 56(c)(4). The Morgan Declaration sets out the following statements that CFTC seeks
+to strike for presenting irrelevant information:
+
+2. I contacted counsel for Tanius on March 4, 2016 at 4:08
+PM and on March 15, 2016 at 10:38 PM via email.
+
+3. In these two emails, I asked Taniusâ counsel to confirm
+whether they would provide my client, Li, with her W-2 for 2015.
+
+4. I never received a response to either of these emails.
+
+10. =â In addition, as part of the courtesy copy of the filing that I
+have provided to the Court, I have also provided a CD containing
+an audio recording produced by the CFTC in this action, bates- _
+stamped as CFTC-Li-0001748. This recording is an interview
+conducted by the CME of Gary Middlemiss. Ms. Li relied on this
+recording in preparing the transcript that is attached to her
+concurrently-filed declaration as Exhibit I.
+
+Doc. 56 Ff 2-4, 10. In her response to the motion to strike, Li offers no argument regarding the
+Morgan Declaration or why it is admissible. The Court finds that the four challenged paragraphs
+contain irrelevant information and therefore strikes them and does not consider them in
+conjunction with the motion for summary judgment.
+
+2. Li Response
+
+CFTC seeks to strike Liâs Response to the JSOF in its entirety because it fails to comply
+with the Courtâs summary judgment procedure and because it offers inadmissible and irrelevant
+information.
+
+The Courtâs summary judgment procedure requires all undisputed facts be included in the
+joint motion for undisputed facts. The additional facts Li seeks to put before the Court do not
+appear to be disputed, therefore they are not properly before the Court. The Court's procedures
+
+are not advisory; therefore, the Court strikes these facts. See Sweatt v. Union Pac. R.R. Co., 796
+
+7
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 8 of 23 PagelD #:963
+
+F.3d 701, 711-12 (7th Cir. 2015) (affirming this Courtâs summary judgment case management
+procedures as conforming to Local Rule 56.1); Ciomber v. Coop. Plus, Inc., 527 F.3d 635, 643
+(7th Cir. 2008) (district court does not abuse its discretion âwhen it opts to disregard facts
+presented ina manner that does not follow [Local Rule 56.1âs] instructionsâ).
+
+Even if the Court considered these facts, they do not help Liâs case. Li argues in her
+Response that the facts she presents may be considered for purposes of determining the
+appropriate remedy. But her Response to the JSOF does not add any information the Court finds
+useful even if it were admissible. For example, in the âRemedies Factsâ section of her Response,
+Li provides the following response to paragraph 13 of the JSOF:
+
+14. Although Tanius paid Li $931,140.21 during her employment
+at Tanius, she was still undercompensated because Tanius broke
+certain promises made to Li in the Employment Agreement and
+
+otherwise mistreated her in ways that required her to undertake
+additional expenses or receive reduced compensation.
+
+15. In addition, Tanius broke promises made to Li to increase her
+net profits based contingent compensation to 50%, instead of the
+20-30% outlined in the Employment Agreement, which
+significantly reduced Liâs compensation.
+
+Doc. 72 4f 14-15. This response is typical of Liâs failure to comprehend the nature of her
+violation and unwillingness to accept responsibility. The fact that she had an employment
+dispute with her employer does not justify or mitigate the theft of over $3 00,000 from her
+employer or her abuse of the commodities market to carry out that theft. It does show, however,
+that she has not internalized the wrongfulness of her conduct and is likely to repeat it in the
+future. The remainder of her Response is in a similar vein. The Court thus strikes the Response
+
+for failure to comply with the Courtâs summary judgment procedures and for lack of relevance.
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 9 of 23 PagelD #:964
+
+3. Dr. Duarte-Silva Declaration
+
+Finally, CFTC moves to strike the declaration of Dr. Duarte-Silva. Li subsequently
+withdrew this declaration, therefore, the Court denies as moot CFTCâs motion to strike the
+declaration.
+
+B. Liability
+
+1. Unauthorized Trading and Misappropriation Claim (Count I) -
+
+CFTC first contends that Li committed fraud and misappropriated funds in violation of
+Â§ 4b of the Act, 7 U.S.C. Â§ 6b. CFTC claims that Li cheated or defrauded her employer, Tanius,
+by engaging in unauthorized trades of Eurodollar futures on behalf of Tanius, which were _
+structured in such a way as to shift money from Tanius to Kering. A party violates Â§ 4b if, in
+connection with any order to make any on-exchange futures contract for another person, the
+party cheats, defrauds or attempts to cheat or defraud the other person, or the party willfully
+deceives or attempts to deceive the other person by any means in regard to any such order or
+contract. 7 U.S.C. Â§ 6b(a)(1)(A),(C).
+
+Between March 17, 2015 and May 6, 2015, Li engaged in pre-arranged trades of
+Eurodollar futures contracts between accounts she controlled that were owned by Tanius and
+Kering. Li engaged in these trades with the sole purpose of moving money from Tanius to
+Kering, and she ultimately succeeded in transferring $3 00,462.50 from Tanius to Kering by way
+of these fictitious trades. These trades were designed to result in financial losses for Tanius and
+financial gains for Kering. Li made these trades without the knowledge or authorization of her
+employer, Tanius. Furthermore, while she was generally permitted to trade Eurodollar futures on
+Taniusâ account, she was not authorized to engage in trades which were structured to create a
+
+loss for Tanius. Li undertook these trades willfully because she believed that Tanius owed her
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 10 of 23 PagelD #:965
+
+money and that executing these trades was the only way she would receive the money she
+believed they owed her. This conduct establishes a violation of Â§ 4b.
+
+Li argues that the Court should deny the motion for summary judgment on Count I -
+because there is a dispute as to whether she was authorized to trade Eurodollar futures. This
+argument falls flat, however. It is not material whether or not Li was authorized to trade
+Eurodollar futures as a general matter, and CFTC does not dispute that she was. The issue is
+_ whether Tanius authorized her to engage in fictitious trades designed to siphon money from
+Tanius to Kering. They did not. Included with the Joint Statement of Undisputed Facts is a list
+of all 41 improper trades Li structured on behalf of Tanius and Kering. The parties do not
+dispute that âLi was not authorized by Middlemiss to enter into the Eurodollar transactions
+identifiedâ in that list and that she was ânot authorized by Middlemiss to enter into any
+transaction that would obviously result in a loss.â* Doc. 46 at Â§ 53. Her authorization to trade
+Eurodollars merely provided the means for her to commit this deception; it did not create
+immunity from liability.
+
+Li also argues that the Â§ 4b claim should be thrown out because the mechanism by which
+she engaged in the fraud, a âmoney pass,â is prohibited by Â§ 4c(a) of the Ac, 7 U.S.C. Â§ 6c(a),
+under which CFTC is also seeking relief in this matter. Li argues that the Â§ 4b and Â§ 4c claims
+are âentirely duplicativeâ and therefore the enforcement of the Â§ 4b claim would render Â§ 4c
+| superfluous. Doc. 55 at 9. This again is incorrect. Sections 4b and 4c are not duplicative.
+
+Section 4b prohibits taking money from another party in a deceptive manner, in relation to a
+
+ 
+
+3 In her Amended Response to the JSOF, Li states that she did not need to seek permission prior to
+conducting specific trades, that her trade restrictions were margin and position-based, and she was
+authorized to trade Eurodollar futures. Doc. 72 at ff 10-12. Even if the Court did not strike the
+Response, these assertions have no bearing on whether or not she was authorized to engage in trades |
+designed to steal money from Tanius. If anything, they illustrate the amount of trust that Tanius put in
+
+her, which she subsequently betrayed.
+10
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 11 of 23 PagelD #:966
+
+futures contract, whereas Â§ 4c prohibits fictitious trades of futures contracts whether done to
+commit a fraud or not. Here, Li happened to have used a money pass as the method of carrying
+out her fraud, but engaging in a money pass is not always a fraud nor is a fraud always a
+violation of Â§ 4c. The elements of the two offenses are distinct and it is possible to violate one
+without the other. If, for example, Li had engaged in the money pass transactions with
+Middlemissâ approval, that would have been a violation of Â§ 4c but not Â§ 4b. Therefore, Â§ 4b is |
+not duplicative of Â§ 4c.
+
+There is no dispute that Li knowingly engaged in fictitious trades of Eurodollar futures
+using the Tanius account and without the knowledge or approval of her managers at Tantus in
+order to transfer money from Tanius to Kering. Thus, CFTC is entitled to summary judgment on
+the Â§ 4b claim.
+
+2. Fictitious Sales of Eurodollar Futures (Count I)
+
+CFTC alleges that in the process of carrying out her misappropriation of Tanius funds, Li
+engaged in a Series of pre-arranged, fictitious trades with the Kering Account she also controlled
+in violation of Â§ 4c of the Act. 7 U.S.C. Â§ 6c(a). Li does not contest her liability under Â§ 4c in
+her Response, but this does not end the Courtâs inquiry; the Court still must determine whether
+CFTC has established that they are entitled to judgment as a matter of law. Keeton v.
+Morningstar, Inc., 667 F.3d 877, 884 (7th Cir. 2012).
+
+Section 4c makes it unlawful for any person to enter into the execution of a transaction Â©
+that is a fictitious sale. 7 U.S.C. Â§ 6c(a). A fictitious sale is one which uses pre-arranged trades
+that give the appearance of submitting trades to the open market but is protected from market
+risk and price competition. Jn the Matter of Solomon Mayer, CFTC No. 92-21, Comm. Fut. L.
+
+Rep. P 27,259, 1998 WL 39411, at *21 (Feb. 3, 1998). Pre-arranged trades are fictitious sales
+
+11
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 12 of 23 PagelD #:967
+
+because â[b]y determining trade information such as price and quantity outside the pit, then
+using the market mechanism to shield the private nature of the bargain from public scrutiny, both
+price competition and market risk are eliminated.â CFTC v. Moncada, 31 F. Supp. 3d 614, 617
+(S.D.N.Y. 2014) (quoting Harold Collins, [1986-87 Transfer Binder] Comm. Fut. L. Rep.
+(CCH), J] 22,982 at 31,903 (C.F.T.C. April 4, 1986), rev'd on other grounds sub nom. Stoller v.
+CFTC, 834 F.2d 262 (2d Cir. 1987)). These trades are made with the intent to avoid taking a
+genuine position in the market. Reddy v. CFTC, 191 F.3d 109, 115 (2nd Cir. 1999). An
+individual violates Â§ 4c when she enters such a trade intentionally. Jd. at 119. CFTC need not
+establish motive, but evidence of motive strengthens the inference of intent. Jd.
+
+Here, Li engaged in 41 round-turn trades which involved trading outside of normal
+trading hours, in low-volume contracts. A typical transaction would involve Li placing an order
+for a quantity of Eurodollar contracts at a certain price using the Kering Account. She would
+then place a second order using the Tanius Account on the opposite side of the market (e.g.,
+buying with the Kering Account and selling with the Tanius Account) for the same product,
+quantity, and price. After these orders were matched and the trade completed, Li then entered
+into an offsetting transaction in which she would enter an order to sell the same quantity of
+Eurodollar futures from the Kering Account and an order to buy the same quantity from the
+Tanius Account closing out the position taken in the first trade. Li placed the orders for Tantus
+and Kering nearly simultaneously and outside of normal trading hours, typically after midnight,
+effectively eliminating any risk of trading with a third party. These facts are sufficient to show
+that Li intentionally engineered and engaged in trades that were designed to give the appearance
+
+of taking place on the open market, while in reality structured to avoid market risk. This is
+
+12
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 13 of 23 PagelD #:968
+
+sufficient to establish a violation Â§ 4c and the Court grants CFTC summary judgment on Count
+II.
+
+3. Violation of CFTC Regulation I .38(a) (Count ITD)
+
+CFTC alleges that Li violated Regulation 1.38(a), which requires that all purchases and
+sales of futures be executed âopenly and competitively,â by engaging in the round-turn trades
+described above. Conduct that violates Â§ 4c also violates Reg. 1.38(a). Moncada, 31 F. Supp. 3d
+at 617. Li did not include any response to this allegation in her Response to the motion for |
+summary judgment. For the reasons stated above regarding Â§ 4c, the Court grants the CFTC
+summary judgment on Count III.
+
+4, Vicarious Liability of Kering
+
+CFTC seeks to hold Kering vicariously liable for Liâs violations of Â§Â§ 4b and 4c and
+Regulation 1.38(a) because she was acting as Keringâs agent when she committed the violations.
+The Act holds principals strictly liable for violations of the Act carried out by their agents when
+those agents were acting within the scope of their employment. See 7 U.S.C. Â§ 2(a)(1)(B);
+Stotler & Co. v. CFTC, 855 F.2d 1288, 1292 (7th Cir. 1988). The principal is liable even if it did
+not participate in or know of the violation. Jd. Kering does not dispute that it employed Li
+during the relevant period; the only question is whether Li was acting within the scope of her
+employment or furtherance of her agency when engaging in the illegal transactions. Rosenthal &
+Co. v. CFTC, 802 F.2d 963, 966-67 (7th Cir. 1986).
+
+Whether an employee was acting within the scope of her employment is a question of
+fact and turns âon an overall assessment of the totality of the circumstances in each case.â
+
+In the Matter of Gary Glass & Zoltan (Lou) Guttman, CFTC No. 93-4, Comm. Fut. L. Rep. P
+
+26,787 1996 WL 518121, at *9 (Sept. 11, 1996) (quoting Berisko v. E. Capital Corp., [1984â-
+
+13
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 14 of 23 PagelD #:969
+
+1986 âTransfer Binder] Comm. Fut. L. Rep. (CCH) {| 22,772 at 31,223 (CFTC 1984)). Where
+there is no dispute as to any material fact regarding whether the employee was acting within the
+scope of her employment, the Court may decide the issue as a matter of law. See, e.g., CFTC v.
+Schafer, No. CIV.A. H-96-1213, 1997 WL 33547409, at *7 (S.D. Tex. Dec. 23, 1997).
+
+There is no dispute that as part of her employment with Kering, Li had broad authority to
+engage in futures trading on the Kering Account. She was the only trader working for Kering at
+that time and she was solely responsible for developing, overseeing, and executing the futures
+trading strategy on behalf of Kering. She engaged in each of the illegal trades using the Kering
+Account and with the purpose of transferring money to Kering. Trading in commodity futures Â©
+for the benefit of Kering is exactly why Kering employed Li and the illegal acts in which she
+engaged were squarely within this scope.
+
+Kering argues that it never authorized Li to engage in the illegal trades and therefore she
+was acting outside of her authority.â It is irrelevant, however, whether or not Kering authorized
+Li to engage in the illegal trades. Mast v. Best Commodities Servs., Inc., [1986-1987 Transfer
+Binder] Comm. Fut. L. Rep. Â§ 23,380 at 33,038-33,039 (CFTC Dec. 2, 1986) (liability of
+principal not defeated by claims that agent was not authorized to act fraudulently). If an
+employer could avoid liability simply by not affirmatively authorizing illegal conduct, Â§ 2(a)
+
+would be rendered a nullity. Thus, this argument fails.
+
+ 
+
+* It is significant that Kering failed to take any action that an employer typically does once the employer
+learns that an employee has âgone rogue.â Kering did not fire Li, immediately return the funds to Tantus,
+or cooperate with the investigation. Instead, Kering attempted to withdraw the Tanius funds from its
+account once Tanius discovered the fraud and continues a willingness to work with Li, as evidenced by
+Liâs assertion that she intends to return to the United States and trade futures on Keringâs behalf. These
+facts lead to the inference that while Kering may not have authorized Liâs fraudulent conduct beforehand,
+it certainly appears to have ratified the fraudulent conduct once discovered, thus undermining Keringâs
+âgone rogueâ argument. |
+
+14
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 15 of 23 PagelD #:970
+
+Kering finally argues that it cannot be held liable because it is a retail customer, not a
+registered futures merchant. Kering offers no case law or statutory support for this argument,
+simply concluding, âIt is wrong to punish an unsophisticated client because the expert trader it
+retained engaged in wrongdoing.â Doc. 70 at 4. The language of Â§ 2(a) is broad, and extends
+vicarious liability to âany individual, association, partnership, corporation, or trust.â 7 US.C.
+
+Â§ 2(a)(1)(B). There is no language limiting its applicability to registered futures merchants or
+exempting retail customers. Therefore, the Court finds Kering is not exempt from vicarious
+liability under Â§ 2(a).
+
+The undisputed facts, supported by admissible evidence, establish that Li violated Â§Â§ 4b
+and 4c as well as Regulation 1.38 as a matter of law. Additionally, because the undisputed facts
+demonstrate that Li was acting within the scope of her employment with Kering when
+conducting the illegal trades in question, Kering is vicariously liable for Liâs violations pursuant
+to Â§ 2(a). Therefore, the Court grants CFTC summary judgment as to liability on Counts I, II,
+and III. The Court turns next to the appropriate remedy.
+
+C. Â© Remedy
+
+CFTC seeks disgorgement of the ill-gotten gains from Kering, a civil penalty of three-
+times the ill-gotten gains jointly and severally from Li and Kering, a permanent injunction
+banning Li from interacting in any way with the commodities market, a permanent injunction on
+Kering enjoining it from directly or indirectly granting Li access to its commodity futures trading
+accounts or allowing Li to control or direct commodity futures trading on behalf of Kering, and a
+permanent injunction on both Li and Kering restraining them from future violations of the Act.
+For the reasons stated below, the Court finds that disgorgement of all ill-gotten gains, a civil
+
+penalty equal to three-times the ill-gotten gains, a five-year trading ban on Li, a five-year
+
+15
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 16 of 23 PagelD #:971
+
+injunction on Kering interacting with Li in any way regarding commodity futures trading, and a
+permanent injunction on both Li and Kering Capital restraining them from violating the Act is
+appropriate in this case.
+
+1, Disgorgement
+
+CFTC seeks disgorgement of $300,462.50 from the Kering Account. Neither Kering nor
+Li object to disgorgement of these funds. The Court has authority to order disgorzement to
+further the purpose of the Act. See CFTC v. Co Petro Mktg. Grp., Inc., 680 F.2d 573, 584 (9th
+Cir. 1982) (holding that it would frustrate the regulatory purposes of the Act ifa violator were
+allowed to keep his ill-gotten gains). Therefore, the Court orders Defendants to return the
+$300,462.50, plus post-judgment interest, to the Tanius Account or in the alternative authorizes
+the Futures Commission Merchant holding the Kering Account to release the frozen funds
+directly to the Tanius Account.
+
+2 Civil Penalty
+
+CFTC seeks a civil penalty against Defendants equal to three times their illicit gainsâ
+$901,387.50. Under the Act, CFTC may seek a maximum civil penalty of up to three times the
+ill-gotten gains or $140,000 for each violation whichever is greater. 7 U.S.C. Â§ 13a-1(d)(1); 17
+C.F.R. Â§ 143.8(a)(2). The fine amount must also be ârationally related to the offense.â
+Monieson v. CFTC, 996 F.2d 852, 864 (7th Cir. 1993). The Court looks to three factors to
+determine if the fine is rationally related to the offense: (1) the nature of the violations, (2) the
+injury caused by the violations, and (3) penalties used in similar cases. Jd.
+
+The nature of the violations is fraud and fictitious trades. Li repeatedly engaged in illegal
+pre-arranged trades, intentionally designed to take money from her employer, Tanius, and
+transfer it to Kering without incurring any market risk. She did this in a manner designed to
+
+evade detection and spread over six separate occasions. This is a severe violation and one that
+
+16
+' Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 17 of 23 PagelD #:972
+
+cuts to the heart of the purpose of the Act: to protect âall market participants from fraudulent or
+other abusive sales practices and misuses of customer assets.â 7 U.S.C Â§ 5(b).
+
+The injury caused by the violations is $300,462.50 transferred from Tanius to Kering.
+Furthermore, Liâs actions have undermined public confidence in the commodities markets. This
+harm is more insidious and damaging than the stolen funds themselves. Congress created CFTC
+to promote efficiency, transparency, and fairness in the commodities markets and when a trader
+fraudulently steals money from her employer and engages in pre-arranged trades, it harms the
+public trust in the markets, which Congress has set out to promote and protect. See CFTC v.
+Sarvey, No. 08 C 192, 2012 WL 426746, at *6 (N.D. Ill. Feb. 10, 2012). Therefore, this is a
+serious offense, meriting a serious penalty.
+
+Courts in similar cases have imposed civil penalties equal to three times the ill-gotten
+gains, and in some cases, at the statutory maximum. In CFTC v. Garofalo, No. 10-CV-2417,
+2011 WL 4954082, at *7 (N.D. II. May 5, 2011), the court imposed a civil penalty of three times
+the ill-gotten gains. The defendant in that case engaged in conduct similar to that of Li. Over
+the course of one evening, the defendant participated in 119 fictitious sales between his account
+and that of an investment firm over which he had obtained control. His efforts resulted in a loss Â©
+of $614,925 for the victim and an equal gain for himself. Jd; see also CFTC v. Brockbank, 505
+F. Supp. 2d 1169, 1177 (D. Utah 2007), aff'd, 316 F. Appâx 707 (10th Cir. 2008) (imposing the
+âhighest possibleâ civil penalty where the defendant engaged investor fraud); CFTC v. Sarvey,
+No. 08 C 192, 2012 WL 426746, at *6 (N.D. Ill. Feb. 10, 2012) (imposing civil penalty equal to
+three times the ill-gotten gains where two traders engaged in fictitious sales to fraudulently
+
+transfer money from one traderâs clients to the personal account of the second trader).
+
+17
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 18 of 23 PagelD #:973
+
+In cases where the only charged offense was a violation of Â§ 4c, courts have routinely
+imposed civil penalties approximately equal to the amount of the ill-gotten gains. See, e.g.,
+CFTC v. Singhal, Case No. 12-cv-00138; Doc. 32 (N.D. Ill. Nov. 28, 2012) (imposing a civil
+penalty of $140,000 where defendant transferred $118,868.75 between two accounts using
+fictitious trades). But here, Li did not only violate Â§ 4c, she also violated Â§ 4b, and thus Singhal
+and other simple Â§ 4c cases are not helpful comparators. A penalty equal to three times the ill-
+gotten gains is not out of step with cases in which a defendant defrauded a customer and engaged
+in pre-arranged sales as occurred here.
+
+In arguing for a lower penalty Li states that the Court should consider the following
+
+factors when setting the fine:
+
+(1) the seriousness of the violations as determined by the
+relationship of the violation to the regulatory purpose; (11) whether
+the violation was an isolated mistake arising from an ambiguous
+statutory duty or from circumstances that are unique or
+unforeseeable; (iii) the particular mitigating and aggravating
+circumstances presented by the unique facts of the conduct at
+issue; (iv) any benefit to the violator; (v) any harm to the investors;
+(vi) any attempt to cure the violations; (vii) post-violation conduct;
+(viii) cooperation with authorities; and (ix) any attempt to provide
+restitution.
+
+Doc. 55 at 10-11. Li contends that in light of these factors,â the Court should impose a minimal .
+penalty or no penalty at all. Li proceeds to go through each of her proposed factors in turn. The
+Court declines to evaluate each factor individually, but addresses Liâs argument in its entirety.
+As noted above, Liâs violations strike at the central purpose of the regulatory framework
+Congress has devised around the commodities market, to protect âall market participants from
+
+fraudulent or other abusive sales practices and misuses of customer assets.â 7 U.S.C Â§ 5(b). Yet
+
+ 
+
+5 Li refers to these factors as the âLevy factor[s],â in reference to CFTC v. Levy, 541 F.3d 1102 (11th Cir.
+2008), but it is not clear why. These factors are not contained in Levy, and the court in Levy affirmed a
+civil penalty well in excess of three times the ill-gotten gains. The Court indulges Li and addresses these
+factors, despite her pointing to no valid authority requiring the Court to do so.
+
+18
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 19 of 23 PagelD #:974
+
+Li argues that her conduct does not implicate a core provision of the Act and âat worst, involved
+money pass transaction and not price manipulation or fraud.â Doc. 55 at 11. The Court
+disagrees. Li illegally transferred over $300,000 from her employerâs account to another account
+controlled by her and owned by her mother. She did 50 without her employerâs knowledge or
+consent, in a manner designed to avoid detection. She engaged in this behavior on six separate
+occasions over two months. This is not a simple money pass case, and Liâs suggestion to the
+contrary is confusing at best.Â°
+
+Liâs violations did not result from any unique circumstances. She argues that she engaged
+in the illegal trades because the hostile work environment at Tanius drove her to think that
+_ âexecuting these trades was the only way in which she would receive the compensation that she
+believed Tanius owed to her.â Doc. 55 at 14-15 (quoting Doc. 46 J 76). While the allegations |
+of mistreatment are concerning, they do not provide a mitigating basis for her conduct. Li
+provides no citation in support of the contention that this constitutes unique, mitigating
+circumstances. Her argument is essentially that her employers at Tanius were exceedingly cruel
+to her and they broke the law too: therefore, she should not be punished for breaking the law. If
+what Li alleges about her treatment at Tanius is true, she had numerous legitimate options to
+address her mistreatment that did not involve violating the Act.
+
+Li next presents several arguments that can only be described as misguided and
+unhelpful. First she argues that she did not benefit from the trading because of the asset freeze
+the Court placed on the assets in the Kering Account. She argues in the alternative that if the
+
+Court determines she did benefit from the illegal trades, âthose funds represented monies that
+
+ 
+
+Â° Li also argues that she did not know at the time that the transactions were wrongful. This is perhaps the
+most preposterous claim of all. The Court finds it difficult to believe that someone as well educated,
+privileged, and having as much family support as Li does not understand the basic concept, as taught to
+children around the globe, that it is wrong to steal and lie.
+
+19
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 20 of 23 PagelD #:975
+
+Ms. Li believed were owed to her by Tanius and Middlemiss.â Doc. 55 at 15. Liis wrong on
+all points. First, the mere fact that CFTC was able to act quickly enough to freeze the assets
+before she could obtain them does not absolve her of her theft. Second, the funds did not belong
+to her, she stole them. If Li had a legal claim to the money, she should have pursued it in court.
+This argument demonstrates Liâs abj ect failure to take responsibility for her actions and in no
+way mitigates her behavior.
+
+Li makes additional arguments about why she should not be penalized for her actions, but
+they are all similarly unhelpful. Because Li has provided no compelling legal or factual
+argument as to why a civil penalty of three-times the ill-gotten gains is inappropriate in this case,
+the Court imposes a civil penalty of $901,387.50 against Li and Kering, jointly and severally.â
+
+3. Injunction Against Li
+
+CFTC seeks a lifetime trading ban in the commodity futures market as well as a
+permanent injunction against future violations of the Act against Li. An injunction is appropriate
+where a violation has occurred and there is a reasonable likelihood of future violations. CFTC v.
+Hunt, 591 F.2d 1211, 1220 (7th Cir. 1979). The Court should consider the totality of the
+circumstances when determining whether future violations are likely to occur. Jd. The Court
+should look at the egregiousness of the conduct, the isolated or recurrent nature of the infraction,
+the degree of scienter involved, the sincerity of the defendantâs assurances against future
+violations, the defendantâs recognition of the wrongful nature of her conduct, and the likelihood
+the defendantâs occupation will present opportunities for future violations. CFT Cv. Wilshire
+
+Inv. Mgmt. Corp., 531 F.3d 1339, 1346 (11th Cir. 2008).
+
+ 
+
+â Kering also argues that CFTC has failed to meet its burden of demonstrating collectability of the civil
+penalty. Collectability is no longer a requirement of imposing a civil penalty. See Brenner v. CFTC, 338
+F.3d 713, 723 (7th Cir. 2003) (collectability no longer a consideration for conduct occurring after 1992
+amendment to the Act). |
+
+20
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 21 of 23 PagelD #:976
+
+A trading ban is an appropriate remedy for Liâs misconduct. As discussed above, her
+violation was severe and directed at the central purpose of the Act. Her conduct was not |
+isolated, but occurred on six separate occasions over two months. The clear-cut nature of her
+fraud and the way in which she carried it out makes it clear that she did so with scienter. Li
+contests this point, but in light of the undisputed facts it is not credible that she did not know that
+her actions were wrongful. The Court also does not view Liâs assurances that she will avoid
+wrongful conduct in the future as sincere. To date, she continues to provide excuses for her
+misconduct and has failed to fully cooperate with the investigation. It appears that Li has failed
+to fully internalize the wrongfulness of her conduct and is therefore more likely to repeat it in the
+future. Finally, Liâs stated intention is to return to the United States and resume trading in
+commodities following the resolution of this case. This is the exact profession where she would
+likely be able to carry out future violations of the Act. The Court therefore finds that her risk of
+reoffending is high.
+
+The Court finds that a five-year trading ban and a permanent injunction against future
+violations of the Act are necessary to protect the public and are reasonable in light of prior CFTC
+actions. See, e.g., In the Matter of Zhang, CFTC Doc. No. 14-33, Order dated Sept. 29, 2014
+(five-year trading ban for violation of Â§ 4c and no allegation of fraud); CFTC v. Singhal, No. 12-
+cv-00138, Doc. 32 (N.D. Ill. Nov. 28, 2012) (five-year trading ban for violation of Â§ 4c and no
+allegation of fraud and imposing a permanent injunction on future violations of the Act); Ryan v.
+~ CFTC, 145 F.3d 910, 916 (7th Cir. 1998) (affirming six-year trading ban for violations of Â§Â§ 4b
+and 4c); LaCrosse v. CFTC, 137 F.3d 925, 936 (7th Cir. 1998) (affirming five-year trading ban
+CFTC imposed on defendant following a criminal conviction for violation of Â§-4b); Monieson v.
+
+CFTC, 996 F.2d 852, 862 (7th Cir. 1993) (affirming a two-year trading ban where defendant was
+
+21
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 22 of 23 PagelD #:977
+
+a controlling person who failed to supervise parties who violated Â§ 4b); cf CFTC v. Capitalstreet
+Financial, LLC, No. 3:09-cv-387âRJCâDCK, 2012 WL 79758, at *12 (W.D.N.C. Jan. 11, |
+2012) (imposing a permanent trading ban for violation of Â§ 4b where defendants operated a
+âPonziâ scheme in which they misappropriated over one million dollars from customers and
+concealed over $200,000 in trading losses from customers); CFTC v. Harrison, No. 8:13-âcvâ
+00327-JDA, 2015 WL 1322837, at *1-2 (D.S.C. Mar. 03, 2015) (amposing permanent trading
+ban in fraud case where defendant was sentenced to one year and one day in prison in related
+criminal case).
+
+4, Injunction Against Kering
+
+CFTC also seeks a permanent injunction against future violations of the Act by Kering as
+well as a permanent injunction preventing Kering from granting Li access to its futures trading
+accounts and from relying on Li for trading advice or direction. An injunction against Kering is
+appropriate if Kering violated the law and is likely to violate the law in the future. Hunt, 591
+F.2d at 1220.
+
+As discussed above, Kering is vicariously liable for violations of the Act Li committed in
+the scope of her employment. Kering granted Li essentially unfettered access to trade on its
+account and she used that access to violate the Act. Li did this using her motherâs trading
+account. This arrangement made it difficult for CFTC to detect Liâs role in Keringâs trading
+activity, and this difficulty supports the need to also enjoin Kering to protect the market from ~
+future violations by Li. To date there is no evidence that Kering has taken any steps to limit its -
+relationship with Li, including termination of her employment. Therefore the Court finds a
+limited injunction against Kering is necessary to prevent future violations of the Act by Kering
+
+and Li. The Court imposes a five-year injunction prohibiting Kering from granting Li access to
+
+22
+Case: 1:15-cv-05839 Document #: 82 Filed: 12/09/16 Page 23 of 23 PagelD #:978
+
+its futures trading accounts and from relying on Li for trading advice or direction. The Court
+also imposes a permanent injunction against future violations of the Act by Kering.
+CONCLUSION
+
+For the foregoing reasons, the Court grants CFTCâs motion for summary judgment [47].
+The Court orders Defendants to disgorge $300,462.50, plus post-judgment interest, in ill-gotten
+gains and return it to the Tanius Account. Additionally, the Court orders Defendants to pay a
+civil penalty of $901,387.50 to CFTC. The Court enjoins Li from trading in the commodity
+futures market for five years and permanently enjoins Li from violating the Act. The Court
+enjoins Kering from allowing Li to trade futures on its account or consulting Li on any futures
+related matters for five years. The Court also permanently enjoins Kering from future violations
+of the Act. The Court grants in part and denies in part CFTCâs motion to strike [65]. The Court
+strikes Liâs Amended Response to the Joint Statement of Facts and the Morgan declaration. The
+
+Court enters judgment for CFTC. The case is terminated.
+
+  
+
+Dated: December 9, 2016
+
+ 
+
+SARA L. ELLIS
+United States District Judge
+
+23

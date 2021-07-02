@@ -1,0 +1,52 @@
+Release Number 7979-19
+July 18, 2019
+
+CFTC Orders Former Hedge Fund Portfolio Manager to Pay More than $700,000 in
+Monetary Sanctions for Fraudulently Mismarking Swaps
+
+Washington, DC â The Commodity Futures Trading Commission (CFTC) today issued an Order filing and settling
+charges against Swapnil Rege, a former portfolio manager for a Connecticut-based hedge fund registered with the CFTC
+as a commodity pool operator (CPO), for fraudulently mismarking swap valuations to artificially inflate the profits of his
+employerâs trading book in order to obtain an increased performance bonus.
+
+The Order requires Rege to pay a $100,000 civil monetary penalty, as well as to disgorge the $600,000 performance
+bonus he received (plus pre-judgment interest in the amount of $49,170.84). It also bans Rege from trading on or subject
+to the rules of any CFTC-registered exchange or other CFTC-registered entity and from seeking registration with the CFTC
+for at least three years, among other prohibitions.
+
+CFTC Director of Enforcement Comments
+
+James McDonald, CFTCâs Director of Enforcement, said: âWith this action, the Commission shows its continued
+commitment to holding accountable individuals who engage in fraudulent conduct that undermines the integrity of our
+markets. This Order also reflects the CFTCâs continued commitment to working in parallel with our enforcement partners
+like the Securities and Exchange Commission to ensure that bad actors are identified and held accountable, even when
+their misconduct stretches across multiple regulatorsâ jurisdictions.â
+
+The Fraudulent Mismarking Scheme
+
+The Order finds that from in or about June 2016 through April 2017, Rege engaged in a fraudulent scheme to mismark
+the valuations of certain interest rate swaps in an attempt to artificially inflate the profitability of his trading in order to
+earn a larger performance bonus. Rege accomplished his mismarking scheme in several ways, including by manipulating
+the discount curve settings of the valuation model used by the CPO to mark its swaps and other related instruments, and
+by using incorrect day count settings for fixed and floating legs of some swaps and swaptions to reduce or increase the
+model value of future payments to or by the CPO. The Order also finds that Rege took steps to conceal his mismarking
+scheme, including by asking counterpart traders at swap dealers used by the CPO to provide him with quotes to verify
+the fraudulent model valuations. The Order finds that this conduct constituted fraud under the federal commodities
+laws.
+
+Related SEC Action
+
+The Securities and Exchange Commission (SEC) also announced today that it filed and settled a related action against
+Rege for aiding and abetting violations of the Investment Advisers Act by the fundâs investment adviser (the CFTC-
+registered CPO was also registered with the SEC as an investment adviser). The SEC Order imposes disgorgement and
+pre-judgment interest in amounts identical to the CFTC Order, as well as a $100,000 civil monetary penalty;
+disgorgement amounts paid pursuant to the SEC Order shall offset (dollar-for-dollar) Regeâs obligation to pay
+disgorgement under the CFTC Order.
+
+* *K Xx
+
+The CFTC thanks and acknowledges the assistance of the SEC Division of Enforcement and the National Futures
+Association.
+
+The CFTC Division of Enforcement staff members responsible for this case are Matthew B. Rowland, Trevor Kokal, John
+Buffington, Patryk J. Chudy, Lenel Hickson, Jr., and Manal M. Sultan.

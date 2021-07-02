@@ -1,0 +1,315 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+rts Mo,
+x oO
+
+   
+
+ 
+
+   
+
+x Ria oO
+(Â®:
+In the Matter of: %) S
+on SI
+Office of Proceedings
+
+BNP Paribas Securities Corp., |
+CFTC Docket No. 16-01 Proceedings Clerk
+
+ 
+
+Respondent.
+
+a i le ee i
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+
+I.
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+BNP Paribas Securities Corp. (âBNPPâ or âRespondentââ) violated Commission Regulations
+(âRegulationsâ) 1.25(b)(3)()(F) and 1.25(b)(3)Gi)(D). Therefore, the Commission deems it
+appropriate and in the public interest that public administrative proceedings be, and hereby are,
+instituted to determine whether BNPP engaged in the violations set forth herein and to determine
+whether any order should be issued imposing remedial sanctions.
+
+IT.
+
+In anticipation of the institution of an administrative proceeding, BNPP has submitted an
+Offer of Settlement (âOfferâ), which the Commission has determined to accept. Without
+admitting or denying any of the findings or conclusions herein, BNPP consents to the entry of
+this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the Commodity
+Exchange Act, Making Findings and Imposing Remedial Sanctions (âOrderâ) and acknowledges
+service of this Order.â
+
+ 
+
+' â BNPP consents to the entry of this Order and to the use of these findings in this proceeding
+
+and in any other proceeding brought by the Commission or to which the Commission is a party;
+provided, however, that BNPP does not consent to the use of the Offer, or the findings or
+conclusions in this Order consented to in the Offer, as the sole basis for any other proceeding
+brought by the Commission, other than in a proceeding in bankruptcy or to enforce the terms of
+this Order. Nor does BNPP consent to the use of the Offer or this Order, or the findings or
+conclusions in this Order consented to in the Offer, by any other party in any other proceeding.
+
+(â RECEIVED CFTC \
+
+ 
+
+\ 11:26 am, Oct 20, aw,
+III.
+The Commission finds the following:
+A. SUMMARY
+
+On three occasions in or about November and December 2014 (the âRelevant Periodâ),
+BNPP violated the Commissionâs Regulations governing concentration limits applicable to the
+investment of segregated commodity customer funds. BNPP reported two of the violations to
+the Commission. An additional violation was discovered in connection with a review by
+BNPPâs designated self-regulatory organization, CME Group Inc. None of the violations
+resulted in customer losses.
+
+B. RESPONDENT
+
+BNP Paribas Securities Corp. is a financial services firm organized under the laws of
+Delaware with its principal office located in New York, New York. It is registered with the
+Commission as a Future Commission Merchant (âFCMâ) and is an approved Swap Firm and
+National Futures Association Member.
+
+Cc. FACTS
+
+As an FCM, BNPP receives money, securities, and other property from its customers
+(âcustomer fundsâ) to margin, guarantee, or secure the customersâ trades in commodity futures,
+options and certain derivatives contracts. FCMs are required to segregate customer funds from
+funds belonging to the FCM, and can only invest customer funds in investments enumerated in
+Regulation 1.25, 17 C.F.R. Â§ 1.25 (2013). See 7 U.S.C. Â§ 6d(a)(2). Regulations 1.25(b)(3)(i)(F)
+and 1.25(b)(3)(ii)(D), 17 C.F.R. Â§Â§ 1.25(b)(3)(i)(F), 1.25(6)(3)1)(D) (2013), establish asset-
+based and issuer-based concentration limits for investments of segregated customer funds in
+money market mutual funds (ââMMMFsâ).
+
+During the Relevant Period, BNPP invested segregated customer funds in a manner
+prohibited by Regulations 1.25(b)(3)(i)(F) and 1.25(b)(3)(i)(D).
+
+On November 20, 2014, BNPP invested more than 10 percent of segregated customer
+funds in an individual MMMF in violation of Regulation 1.25(b)(3)(1i1)(D) and more than 50
+percent of segregated customer funds in MMMFs in violation of Regulation 1.25(b)(3)(i)(F).
+BNPP maintained books and records reflecting total assets held in segregation as well as
+investments into MMMFs. BNPPâs employees manually entered MMMF investments into its
+books and records, and BNPP had a process to calculate whether BNPP was compliant with
+Regulations 1.25(b)(3)(i)(F) and 1.25(b)(3)(ii)(D). BNPPâs employee erroneously entered the
+amount of the investment into MMMFs as an amount less than the amount actually invested.
+The manual error caused BNPPâs books and records to reflect incorrectly that the investment was
+compliant with applicable concentration limits. At the end of the day, BNPP discovered that it
+was in violation of Regulation 1.25(b)(3)(ii)(D), and on the following day, November 21, BNPP
+reported its violation to the Commission.
+
+On November 28, 2014, BNPP invested segregated customer funds in an individual
+MMMF, and the investment exceeded 10 percent of total assets held in segregation in violation
+of Regulation 1.25(b)(3)(11)(D). BNPPâs employee entered the total assets held in segregation as
+approximately $1.158 billion when, in fact, the segregated account only held assets of
+approximately $1.054 billion. This error caused BNPPâs books and records to reflect incorrectly
+that BNPPâs prior investment of $110 million of customer segregated funds in an MMMF was
+still allowable, whereas the maximum allowable investment was $105.4 million. BNPP
+maintained an investment of customer segregated funds in an individual MMMF which breached
+the applicable concentration limits. BNPP failed to discover this violation. BNPPâs designated
+self-regulatory organization, CME Group, discovered this violation on or about December 19,
+2014.
+
+On December 5, 2014, BNPP invested more than 50 percent of segregated customer
+funds in MMMFs in violation of Regulation 1.25(b)(3)(i)(F). The assets held in segregation and
+BNPPâs investments in the MMMFs were entered correctly into BNPPâs books and records, and
+BNPPâs existing process reflected non-compliance with applicable concentration limits.
+However, BNPPâs employee making the investments failed to detect that the investments in
+MMMFs exceeded the applicable concentration limits contained in Regulation 1.25(b)(3)(i)(F).
+On the next business day, December 8, BNPP discovered that it was non-compliant and reported
+it to the Commission.
+
+In accepting BNPPâs Offer, the Commission recognizes BNPPâs cooperation during the
+investigation by the staff of the Division of Enforcement. The Commission also recognizes that
+BNPP voluntarily undertook remedial action to strengthen its policies and procedures related to
+compliance with Regulations 1.25(b)(3)(i)(F) and 1.25(b)(3)Gi)(D).
+
+The Commission also notes that the civil monetary penalty imposed on BNPP reflects
+BNPPâs early resolution of this matter.
+
+IV.
+LEGAL DISCUSSION
+
+Section 4d(a)(2) of the Commodity Exchange Act (âActâ), 7 U.S.C. Â§ 6d(a)(2) (2013),
+provides that customer funds âmay be invested in obligations of the United States, in general
+obligations of any State or of any political subdivision thereof, and in obligations fully
+guaranteed as to principal and interest by the United States, such investments to be made in
+accordance with such rules and regulations and subject to such conditions as the Commission
+may prescribe.â Regulation 1.25(a) contains a list of permissible investments in which FCMs
+
+ 
+
+? During the CFTCâs investigation, BNPP discovered that it was in violation of Regulation
+1.25(b)(3)(11)(D) at the time of the manual error by BNPPâs employee.
+may lawfully invest customer funds, including MMMFs, and Regulation 1.25(b) sets forth the
+requirements for managing âpermitted investments consistent with the objectives of preserving
+principal and maintaining liquidity,â including establishing asset-based and issuer-based
+concentration limits. 17 C.F.R. Â§ 1.25 (2013).
+
+Regulation 1.25(b)(3)(1)(F) establishes an asset-based concentration limit for direct
+investment of segregated customer funds in MMMFs, stating in relevant part, that âinvestments
+in money market mutual funds . . . may not exceed 50 percent of the total assets held in
+segregation by the [FCM].â 17 C.F.R. Â§ 1.25(b)(3)(i)(F).
+
+Regulation 1.25(b)(3)(ii)(D) establishes issuer-based concentration limits for direct
+investments of segregated customer funds in MMMFs, stating in relevant part, that â[i]nterests in
+any individual money market mutual fund described in paragraph (b)(3)(i)(F) of this section may
+not exceed 10 percent of total assets held in segregation by the [FCM].â 17 C.F.R. Â§
+1.25(b)(3)(ii)(D).
+
+On November 20 and 28, 2014, BNPP violated the concentration limit set forth in
+Commission Regulation 1.25(b)(3)(4i1)(D) relating to its investment of segregated customer funds
+in an individual MMMF, and on November 20 and December 5, 2014, BNPP violated the
+concentration limit set forth in Commission Regulation 1.25(b)(3)(i)(F) relating to its investment
+of segregated customer funds in MMMFs. Each and every day that BNPP maintained segregated
+customer funds in an individual MMMF or in MMMFs in violation of Commission Regulation
+1.25(b)(3)()(F) or 1.25(b)(3)ii)(D) constitutes a separate and distinct violation.
+
+V.
+FINDINGS OF VIOLATION
+
+Based on the foregoing, the Commission finds that, during the Relevant Period, BNPP
+violated Commission Regulations 1.25(b)(3)(i)(F) and 1.25(b)(3)(i1)(D), 17 C.F.R. Â§Â§
+1.25(b)(3)()(F), 1.25(6)(3)Gi)(D) (2013).
+
+VI.
+OFFER OF SETTLEMENT
+
+BNPP has submitted the Offer in which it, without admitting or denying the findings and
+conclusions herein:
+
+A. Acknowledges receipt of service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C. Waives:
+
+1, The filing and service of a complaint and notice of hearing;
+2. A hearing;
+3. All post-hearing procedures;
+4, Judicial review by any court;
+
+5. Any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+6. Any and all claims that it may possess under the Equal Access to Justice Act, 5
+U.S.C. Â§ 504, and 28 U.S.C. Â§ 2412, and/or the rules promulgated by the
+Commission in conformity therewith, Part 148 of the Commissionâs Regulations,
+17 C.F.R. Â§Â§ 148.1-30, relating to, or arising from, this proceeding;
+
+7. Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, Â§Â§ 201-253, 110 Stat.
+847, 857-868 (1996), as amended by Pub. L. No. 110-28, Â§ 8302, 121 Stat. 112,
+204-205 (2007), relating to, or arising from, this proceeding; and
+
+8. Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+Dz. Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which BNPP has consented in the Offer;
+
+E. Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+l. Makes findings by the Commission that BNPP violated Commission Regulations
+1.25(b)(3)G)(F) and 1.25(b)(3)qii)(D), 17 C.F.R. 1.25(b)(3)G)(F), 1.25(6)(3)Gi)(D)
+(2013).
+2. Orders BNPP to cease and desist from violating Commission Regulations
+1.25(b)(3)G)(F) and 1.25(b)(3)qii)(D), 17 C.F.R. 1.25(6)(3)G)(F), 1.25(6)(3)ai)(D)
+(2013),
+
+3, Orders BNPP to pay a civil monetary penalty in the amount of one hundred and
+forty thousand dollars ($140,000), plus post-judgment interest.
+
+Upon consideration, the Commission has determined to accept the Offer.
+VII.
+ORDER
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A. BNPP shall cease and desist from violating Commission Regulations 1.25(b)(3)(i)(F) and
+1.25(b)(3)Gi)(D), 17 C.F.R. Â§Â§ 1.25(b)(3)G)(F), 1.25(b)(3)Gi)(D) (2013).
+BNPP shall pay a civil monetary penalty in the amount of one hundred and forty
+thousand dollars ($140,000) (âCMP Obligationâ), plus post-judgment interest. Post-
+judgment interest shall accrue on the CMP Obligation beginning on the date of entry of
+this Order and shall be determined by using the Treasury Bill rate prevailing on the date
+of entry of this Order pursuant to 28 U.S.C. Â§ 1961 (2012).
+
+BNPP shall pay the CMP Obligation by electronic funds transfer, U.S. postal money
+order, certified check, bank cashierâs check, or bank money order. If payment is to be
+made other than by electronic funds transfer, then the payment shall be made payable to
+the Commodity Futures Trading Commission and sent to the address below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables
+DOT/FAA/MMAC/AMZ-341
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+nikki.gibson@faa.gov
+
+If payment is to be made by electronic funds transfer, BNPP shall contact Nikki Gibson
+or her successor at the above address to receive payment instructions and shall fully
+comply with those instructions. BNPP shall accompany payment of the CMP Obligation
+with a cover letter that identifies BNPP and the name and docket number of this
+proceeding. BNPP shall! simultaneously transmit copies of the cover letter and the form
+of payment to the Chief Financial Officer, Commodity Futures Trading Commission,
+Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
+
+BNPP and its successors and assigns shall comply with the following conditions and
+undertakings set forth in the Offer:
+
+1. BNPF agrees that neither it nor any of its successors and assigns or agents or
+employees under their authority or control shall take any action or make any
+public statement denying, directly or indirectly, any findings or conclusions in
+this Order or creating, or tending to create, the impression that this Order is
+without a factual basis; provided, however, that nothing in this provision shall
+affect BNPPâs: (i) testimonial obligations; or (11) right to take legal positions in
+other proceedings to which the Commission is not a party. BNPP and its
+successors and assigns shall undertake all steps necessary to ensure that all of its
+agents and/or employees under its authority or control understand and comply
+with this agreement.
+
+2. BNPP undertakes to regularly review its policies and procedures and to provide
+training to ensure compliance with applicable regulations.
+D, BNPP understands and agrees that any acceptance by the Commission of any partial
+payment of BNPPâs CMP Obligation shall not be deemed a waiver of its obligation to
+make further payments pursuant to this Order, or a waiver of the Commissionâs right to
+seek to compel payment of any remaining balance.
+
+E. Until such time as BNPP satisfies in full its CMP Obligation as set forth in this Order,
+BNPP shall provide written notice to the Commission by certified mail of any change to
+their telephone number and mailing address within ten (10) calendar days of the change.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+Christopher J. Kirkpatrick =
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: October 20, 2015

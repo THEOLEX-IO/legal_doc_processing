@@ -1,0 +1,752 @@
+Case 1:19-cv-08351 Document3 Filed 09/09/19 Page 1 of 22
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+ 
+
+ 
+
+COMMODITY FUTURES TRADING Case No.:
+COMMISSION,
+ECF CASE
+Plaintiff,
+COMPLAINT FOR INJUNCTIVE
+V. AND OTHER EQUITABLE RELIEF
+AND FOR CIVIL MONETARY
+DOMINICK VINCENT CARDUCCI and PENALTIES UNDER THE
+VOS CAPITAL MANAGEMENT, LLC, COMMODITY EXCHANGE ACT
+
+AND COMMISSION REGULATIONS
+Defendants.
+
+ 
+
+ 
+
+Plaintiff Commodity Futures Trading Commission (âCFTCâ or âCommissionâ), by and
+through its attorneys, alleges as follows:
+
+I. SUMMARY
+
+1. From at least August 2016 through in or about September 2018 (the âRelevant
+Periodâ), Dominick Vincent Carducci, a/k/a Dominick V. Carducci (âCarducciâ), individually
+and as agent and principal of VOS Capital Management, LLC (âVOS Capitalâ) (collectively
+Defendantsâ), operated a fraudulent scheme in which they solicited, accepted and
+misappropriated funds for a pooled investment vehicle in off-exchange leveraged or margined
+foreign currency exchange (âforexâ) contracts.
+
+2. Carducci, as an officer and agent of VOS Capital, knowingly made fraudulent and
+material misrepresentations and omissions, in both conversations and written communications,
+about his forex trading and returns to persuade at least thirty individuals (âPool Participantsâ) to
+transfer at least $1.1 million to Defendants for the purpose of participating in a pooled forex
+
+investment vehicle.
+ARE ane MAMA my _ of
+me ge Pets an : ye 4 PNA PAR EAMES
+a or : Q.cy-OP saat Nar PTO 2
+
+fc wae 5 â Ribena & wi
+8 pod hn Bot : Se = ~ ; oof ee PP Gar yy feed
+Naw CAA ahi i! LP Add ad ah LOU ERE R PURI Ae
+
+3. To entice prospective Pool Participants, Defendants knowingly and falsely
+represented, among other things, that Defendants had made large profits for themselves and Pool
+Participants from trading forex; that Defendants maintained a forex trading account with a
+registered foreign exchange dealer that had $12 million under Defendantsâ management; that
+Defendants would trade forex on behalf of Pool Participants; that Pool Participants would realize
+profits of up to 18% per month on their investments without losses; and that upon request Pool
+Participants could withdraw the funds they had invested.
+
+4. Defendants failed to trade Pool Participantsâ funds as promised and, instead,
+misappropriated most of their money. Upon Defendantsâ direction, Pool Participants deposited
+their funds into Defendant VOS Capitalâs bank account. Thereafter, Defendants used the
+majority of those funds to pay Carducciâs personal expenses, and to support Carducciâs lavish
+lifestyle by, among other things, acquiring luxury automobiles and paying for international
+travel. The remainder of the funds was paid to some Pool Participants, in the manner of a Ponzi
+scheme.
+
+5. By virtue of this conduct and the conduct further described herein, Defendants
+have engaged, are engaging, or are about to engage in acts and practices in violation of Sections
+4b(a)(2)(A)-(C) and 40(1)(A)-(B) of the Commodity Exchange Act (âActâ), 7 U.S.C.
+
+8Â§ 6b(a)(2)(A)-(C), 60(1)(A)-(B) (2012), and Commission Regulation (âRegulationâ) 5.2(b)(1)-
+(3) (2018), 17 C.F.R. Â§5.2(b)(1)-(3) (2018), which prohibit fraud in connection with forex
+transactions and fraud by a commodity pool operator (âCPOâ).
+
+6. In addition to the above-described fraudulent conduct, Defendant VOS Capital
+acted at all times during the Relevant Period as a CPO by operating or soliciting funds for a
+
+pooled investment vehicle that is not an eligible contract participant (âECPâ) and that engages in
+ARE ane MAMA my _ of
+me ge Pets an : ye 4 PNA PAR EAMES
+a or : Q.cy-OP saat Nar PTO 2
+
+f Cewe 5 â Ribena & .f :
+8 pod hn Bot : Se = ~ ; oof eee faa i 1
+Nw CAAA ho LP Add ad ah LAUPER ad PUPIRS AG ASP a
+
+retail forex transactions, without being registered with the Commission as a CPO, as required by
+the Act and Regulations. Specifically, Defendant VOS Capitalâs failure to register as a CPO
+violated Sections 2(c)(2)(C)(@i1)()(cc) and 4m(1) of the Act, 7 U.S.C. Â§Â§ 2(c)(2)(C) Gi) (cc),
+6m(1) (2012), and Regulation 5.3(a)(2)q), 17 C.F.R. Â§ 5.3(a)(2)G) (2018).
+
+7. Similarly, Defendant Carducci solicited funds for participation in a pooled
+investment vehicle for the purpose of trading in off-exchange leveraged or margined forex
+contracts, while associated with Defendant VOS Capital as an officer, employee, or agent,
+without being registered with the Commission as an associated person (âAPâ) of VOS Capital, as
+required by the Act and Regulations. Specifically, Defendant Carducciâs failure to register as an
+AP of a CPO violated Sections 2(c)(2)(C)Gu)()(cc) and 4k(2) of the Act, 7 U.S.C.
+
+Â§Â§ 2(c)(2)(C)ai)()(cc), 6k(2) (2012), and 17 C.F.R. Â§ 5.3(a)(2) Gi).
+
+8. Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), the
+Commission brings this action to enjoin Defendantsâ unlawful acts and practices and to compel
+their compliance with the Act and the Regulations promulgated thereunder. In addition, the
+Commission seeks civil monetary penalties and remedial ancillary relief, including, but not
+limited to, trading and registration bans, restitution, disgorgement, rescission, pre- and post-
+judgment interest, and such other and further relief as the Court may deem necessary or
+appropriate.
+
+9. Unless restrained and enjoined by this Court, Defendants will likely continue to
+engage in the acts and practices alleged in this Complaint and similar acts and practices, as
+
+described below.
+Case 1:19-cv-08351 Document3 Filed 09/09/19 Page 4 of 22
+
+II. JURISDICTION AND VENUE
+
+10. This Court has jurisdiction over this action pursuant to 28 U.S.C. Â§1331 (2012)
+(codifying federal question jurisdiction) and 28 U.S.C. Â§1345 (2012) (providing that U.S. district
+courts have original jurisdiction over civil actions commenced by the United States or by any
+agency expressly authorized to sue by Act of Congress). In addition, Section 6c of the Act,
+7 U.S.C. Â§ 13a-1 (2012), provides that the U.S. district courts have jurisdiction to hear actions
+brought by the Commission for injunctive relief or to enforce compliance with the Act whenever
+it shall appear to the Commission that a person has engaged, is engaging, or is about to engage in
+any act or practice constituting a violation of any provision of the Act, or any rule, regulation, or
+order thereunder.
+
+11. The CFTC has jurisdiction over the forex solicitations and transactions at issue in
+this case pursuant to Section 2(c)(2)(C) of the Act, 7 U.S.C. Â§ 2(c)(2)(C)(2012).
+
+12. Venue properly lies with this Court pursuant to Section 6c(e) of the Act, 7 U.S.C.
+Â§ 13a-1(e) (2012), because Defendants transact or transacted business in this District, and certain
+transactions, acts, practices, and courses of business alleged in this Complaint occurred, are
+occurring, or are about to occur in this District. Specifically, several of the defrauded Pool
+Participants reside in and were solicited in this District, and Defendants represented to Pool
+Participants that their funds would be maintained in a trading account at a registered foreign
+exchange dealer located in New York, N.Y.
+
+Il. THE PARTIES
+
+13. Plaintiff Commodity Futures Trading Commission (âCFTCâ or
+
+âCommissionââ) is an independent federal regulatory agency charged by Congress with the
+
+responsibility of administering and enforcing the provisions of the Act, 7 U.S.C. Â§Â§ 1-27f (2012),
+Case 1:19-cv-08351 Document3 Filed 09/09/19 Page 5 of 22
+
+and the Commissionâs Regulations promulgated thereunder, 17 C.F.R. pts. 1-190 (2018). The
+Commission maintains its principal office at 1155 21* Street N.W., Washington, DC 20581.
+
+14. Defendant Dominick Vincent Carducci is a resident of Clemson, South
+Carolina. Carducci is the President and sole owner of Defendant VOS Capital. Carducci has
+never been registered with the Commission in any capacity.
+
+15. Defendant VOS Capital Management, LLC (âVOS Capitalâ) was incorporated
+in South Carolina on August 15, 2016. During the Relevant Period, VOS Capitalâs address was
+the same as Carducciâs residence. VOS Capital has never been registered with the Commission
+in any capacity.
+
+IV. STATUTORY AND REGULATORY BACKGROUND
+
+16. Section 2(c)(2)(C) of the Act, 7 U.S.C. Â§ 2(c)(2)(C) (2012), applies provisions of
+the Act to agreements, contracts, or transactions in forex. Specifically, 7 U.S.C. Â§ 2(c)(2)(C)(iv)
+states that Section 4b of the Act, 7 U.S.C. Â§ 6b (2012), applies to forex agreements, contracts, or
+transactions âas ifâ they were contracts of sale of a commodity for future delivery.
+
+17. 7U.S.C. Â§ 2(c)(2)(C)G1)(1)(cc) prohibits any person from operating or soliciting
+funds, securities, or property for any pooled investment vehicle that is not an ECP in connection
+with agreements, contracts, or transactions in forex, unless registered with the Commission, with
+certain exceptions not applicable to Defendants.
+
+18. Section la(18)(iv) and (x1) of the Act, 7 U.S.C. Â§ la(18)Qv), (x1) (2012), defines
+an ECP, in relevant parts, as:
+
+[A] commodity pool thatâ(]) has total assets exceeding $5,000,000; and (ID) is formed or
+
+operated by a person subject to regulation under the Act, provided that for purposes of
+
+Section 2(c)(2)(C)(vil) of the Act, the term ECP shall not include a commodity pool in
+
+which any participant is not otherwise an eligible contract participant, see 7 U.S.C.
+Â§ la(18)(iv) (2012); or
+Case 1:19-cv-08351 Document3 Filed 09/09/19 Page 6 of 22
+
+[A]n individual who has amounts invested on a discretionary basis, the aggregate of
+which is in excess ofâ(I) $10,000,000; or (II) $5,000,000 and who enters into the
+agreement, contract, or transaction in order to manage the risk associated with an asset
+owned or liability incurred, or reasonably likely to be owned or incurred, by the
+individual.
+
+19. Section 4m(1) of the Act, 7 U.S.C. Â§ 6m(1) (2012), and Regulation 5.3(a)(2)q),
+17 C.F.R. Â§ 5.3(a)(2)G) (2018), require any person acting as a CPO, as defined in Regulation
+5.1(d)(1), 17 C.F.R. Â§ 5.1(d)(1) (2018), to be registered as such with the Commission.
+
+20. For the purposes of trading forex, a CPO is defined in 17 C.F.R. Â§ 5.1(d)C1) as
+âany person who operates or solicits funds, securities, or property for a pooled investment
+vehicle that is not an [ECP] as defined in section la(18) of the Act, and that engages in retail
+forex transactions|.]|â
+
+21. Section 4k of the Act, 7 U.S.C. Â§ 6k(2) (2012), and 17 C.F.R. Â§ 5.3(a)(2)(i1)
+require any AP of a CPO, as defined in 17 C.F.R. Â§ 5.1(d)(2), to be registered as such with the
+Commission.
+
+22. For the purposes of trading forex, an AP of a CPO is defined in 17 C.F.R.
+
+Â§ 5.1(d)(2) as âany natural person associated with a commodity pool operator . . . as a partner,
+officer, employee, consultant or agent .. . in any capacity which involves: (i) The solicitation of
+funds, securities, or property for a participation in a pooled investment vehicle; or (11) The
+supervision of any person or persons so engaged.â
+
+Vv. FACTS
+A. Defendantsâ Fraudulent Solicitation and False Statements
+
+23. During the Relevant Period, Defendants fraudulently solicited at least $1.1 million
+
+from at least thirty non-ECP Pool Participants, who were Defendant Carducciâs friends, family
+on a8 nag RE a et rs Â« per i Py rey iy
+Ay em So 4 on : % : : g ON PA EN om Loe : : :
+Psat ee bcp is a âsei Mary PVM Â« BPO PPAaPp Aa ET
+PA ada ke Sa AP RP ad ah fe AP ROLE SB DE eo oF rf
+
+members, acquaintances, and members of the public, for the purpose of trading off-exchange
+leveraged or margined forex contracts on behalf of the Pool Participants.
+
+24. Throughout the Relevant Period, Defendants falsely and fraudulently represented
+to Pool Participants that Defendants used Pool Participantsâ funds profitably to trade forex, that
+Pool Participants would realize large monthly profits on their investments without losses, and
+that upon request Pool Participants could withdraw their funds.
+
+25. In fact, Defendants did not conduct forex trading on behalf of Pool Participants,
+but instead intentionally misappropriated Participantsâ funds for Defendantsâ own benefit and
+personal use.
+
+26. On August 15, 2016, Defendant VOS Capital was incorporated in South Carolina.
+Carducci held himself out as the President and sole owner of VOS Capital, and VOS Capitalâs
+address was the same as Carducciâs residence.
+
+27. On or about August 25, 2016, Carducci opened a business checking account for
+VOS Capital at Wells Fargo Bank (the âWells Fargo Accountâ). On the application to open the
+account, Carducci listed himself as the âsole ownerâ of VOS Capital and the âowner with control
+of the entity.â
+
+28. Defendants solicited prospective Pool Participants through in-person meetings,
+telephone calls, e-mails, text messages and word of mouth, seeking out individuals who would
+agree to let Carducci trade forex on their behalf through his company, VOS Capital.
+
+29. In soliciting prospective Pool Participants, Carducci, as an officer and agent of
+VOS Capital, made the following misrepresentations, among others:
+
+a. that Carducci was a highly successful forex trader;
+o
+
+that by virtue of his trading success Carducci was able to make frequent
+international trips and to acquire luxury automobiles and expensive clothing;
+c. at least one Pool Participant was told that Carducci has made $11 million from
+forex trading;
+d. Pool Participants were told that they would receive profits of 8% to 18% per
+month, and some were told that they were guaranteed not to lose money;
+e. that VOS Capital had a forex trading account at a registered retail foreign
+exchange dealer located in New York, NY (Forex Dealer 1) and that Pool
+Participantsâ funds would be traded in that account; and
+f. Defendants told at least one Pool Participant that VOS Capital had $12 million
+in client funds under management in the account at Forex Dealer 1.
+
+30. At the direction of the Defendants, several Pool Participants entered into a written
+âClient Agreementâ with VOS Capital. Carducci provided the Client Agreement to Pool
+Participants by e-mail or through other means or instrumentalities of interstate commerce. The
+agreement contained multiple false statements, including:
+
+a. VOS Capital âshall provide investment management to Clientâ;
+b. that invested funds would be held in a âmanaged investment portfolioâ;
+c. that VOS Capital would receive no compensation until âthe full initial
+investment is doubledâ;
+d. â[iJn the case of a loss [of] principle [sic] investment is to remain safeâ; and
+e. â[w]ithdrawals will be completed within seven to ten business days.â
+31. To conceal from Pool Participants that their funds had been misappropriated,
+
+Carducci told some Pool Participants, both orally and in written purported account statements,
+after they invested, that their investments were making money, and at least one Pool Participant
+was told that his investment had doubled in value. In a telephone conversation Carducci falsely
+stated to one Pool Participant, several months after he invested, that his investment had made a
+profit of $100,000. These statements were false.
+
+32. Further to conceal from Pool Participants that their funds had been
+misappropriated, Defendants also sent false account statements to some of the Pool Participants
+after they invested, claiming that their investments were making money from forex trading, when
+in fact Defendants never traded forex on behalf of Pool Participants.
+
+33. For example, one Pool Participant, who invested $192,000 with Defendants,
+received from Carducci, periodically from in or about December 2017 until in or about August
+2018, a document entitled âInvestment Account Summaryâ falsely indicating that the amount of
+this Participantâs investment was purportedly steadily increasing in value. One such Summary
+indicated that this Participantâs funds had been placed in the âmedium risk pool . . . mainly
+comprised of the Eur/Usd [Euro/U.S. Dollar] pairâ of currencies. The Summary further stated
+that the value of this Participantâs investment had purportedly increased from $192,000 to more
+than $340,000.
+
+34. Another Pool Participant, who had invested $20,000 with Defendants in or about
+April 2018, received via e-mail from Carducci in or about June and July 2018, two âInvestment
+Account Summaryâ documents, falsely indicating that this Participantâs funds were invested in
+both a low risk and a high risk pool, listing various forex products in which these pools were
+supposedly invested, and indicating that the value of this Participantâs investment had
+
+purportedly increased to over $25,000.
+Case 1:19-cv-08351 Document3 Filed 09/09/19 Page 10 of 22
+
+35. Defendants failed to trade forex on behalf of Pool Participants, as they
+represented they would do. Although Defendants represented to Pool Participants that
+Defendants had a trading account at Forex Dealer | and that Participantsâ funds would be traded
+in off-exchange forex in a trading account at Forex Dealer 1, Defendants never had an active
+trading account at Forex Dealer | during the Relevant Period.
+
+36. For a short time during the Relevant Period, from on or about August 17, 2016 to
+on or about February 7, 2017, VOS Capital maintained a trading account at a registered futures
+commission merchant (FCM 1). The account was opened with a deposit of $5,000, incurred
+losses as a result of trades in crude oil futures contracts, and was closed with a balance of
+approximately $3,432, which balance was transferred to VOS Capitalâs Well Fargo Account. No
+forex trading occurred in this account at FCM 1.
+
+37. Upon information and belief, Carducci did not have any trading accounts in his
+name during the Relevant Period.
+
+38. Defendants made the misrepresentations and omissions alleged herein willfully or
+with reckless disregard for the truth and by use of the mails or other means or instrumentalities
+of interstate commerce.
+
+B. Defendants Misappropriated Pool Participantsâ Funds
+
+39. Defendants instructed Pool Participants either to wire their funds to the Wells
+Fargo Account (a business checking account in the name of VOS Capital) or, if they wished to
+invest by check or cash, to send the funds to VOS Capitalâs business address (which was also
+Carducciâs residence address in Clemson, S.C.).
+
+AO. Most, if not all, funds invested with Defendants by Pool Participants during the
+
+Relevant Period were deposited into the Wells Fargo Account (either by wire transfers sent
+
+10
+directly from Pool Participants, or by Defendants depositing checks or cash received from Pool
+
+Participants).
+
+41. Carducci was the sole signatory on the Wells Fargo Account during the Relevant
+Period.
+
+42. Account statements for the Wells Fargo Account show that during the Relevant
+
+Period, rather than using Pool Participantsâ funds for trading forex as Defendants had represented
+they would, Defendants instead used that account for Carducciâs personal benefit. Specifically,
+Defendants made payments from the Wells Fargo Account totaling at least approximately
+$700,000 to and for, among other things, Carducciâs student loan; dozens of restaurants; bars and
+nightclubs; numerous luxury hotels, including in Italy, London, Monaco, and The Netherlands;
+gas stations; supermarkets; numerous high-end stores including Neiman Marcus, Tiffanyâs,
+Louis Vuitton, and Burberryâs; sporting goods stores, fitness clubs, and golf courses; pet stores;
+numerous airlines; Amtrak; Uber; movies, videos, and to the Apple iTunes Store; luxury car
+dealers including Porsche and for exotic car rentals; and residential lease payments. In addition,
+during the Relevant Period Defendants made frequent ATM and other cash withdrawals from the
+Wells Fargo Account, and made numerous transfers to Carducci, or for his benefit, totaling at
+least approximately $250,000.
+
+43. A specific example of Defendantsâ misappropriation occurred with Pool
+Participant 1. When Carducci learned that Pool Participant 1 was responsible for investing his
+fatherâs retirement funds, Carducci called Pool Participant 1 on a daily basis until Pool
+Participant | agreed to invest with Defendants. In these calls, Carducci made various
+misrepresentations to Pool Participant | including, among other things, telling Pool Participant 1
+
+that Carducci was managing $12 million in client funds and earning large profits trading forex
+
+11
+for clients; that if Pool Participant 1 invested he would earn profits from forex trading of between
+8% to 16% per month; and that Pool Participant 1 was guaranteed not to lose money. Carducci
+also provided Pool Participant 1 with the VOS Capital Client Agreement, which contained
+multiple false statements, including that withdrawals would be completed within seven to ten
+business days. On or about December 11, 2017, Pool Participant 1 invested with the Defendants
+by wiring $192,000 from his fatherâs retirement funds to the VOS Capital Wells Fargo Account,
+in accordance with wire transfer instructions that Pool Participant 1 received from Carducci.
+Thereafter, Carducci sent Pool Participant | multiple false purported Account Summaries,
+claiming that Pool Participant 1 had earned large profits and, according to one of the Account
+Summaries, his investment had increased to a value of over $340,000. On or about June 1, 2018,
+Pool Participant 1 requested of Carducci a withdrawal of $276,000, the then purported value of
+Pool Participant 1âs investment. Defendants did not comply with that withdrawal request. On or
+about August 4, 2018, when Pool Participant 1 received an account statement from Carducci
+claiming that Pool Participant 1âs investment had increased in value to over $340,000, Pool
+Participant 1 requested to Carducci that Pool Participant 1âs investment be closed and that all his
+funds and purported profits be returned. In a series of conversations over several months with
+Pool Participant 1, Carducci offered multiple excuses as to why funds could not be returned to
+Pool Participant 1, including claiming that Pool Participant 1âs funds had been sent to an off-
+shore account. After Pool Participant 1 made repeated requests to Carducci over several months
+that his funds be returned, Defendants eventually returned only approximately $22,000 to Pool
+Participant 1.
+
+44. To date, despite repeated requests to Carducci for the return of their funds, most
+
+Pool Participants have not received their funds back from the Defendants.
+
+12
+Case 1:19-cv-08351 Document3 Filed 09/09/19 Page 13 of 22
+
+45. To the extent some Pool Participants have received funds back from Defendants,
+those funds were misappropriated by Defendants from other Pool Participants, in the nature of a
+Ponzi scheme.
+
+46. The Wells Fargo Account was closed in or about September 2018.
+
+47. Defendants misappropriated Pool Participantsâ funds by use of the mails or other
+means or instrumentalities of interstate commerce.
+
+C. VOS Capital Acted as an Unregistered CPO, and Carducci Acted as an
+Unregistered AP of a CPO
+
+A8. During the Relevant Period, Defendant VOS Capital, through Defendant
+Carducci, acted by operating or soliciting funds for a pooled investment vehicle that is not an
+ECP and that engages in retail forex transactions.
+
+49. During the Relevant Period, Carducci acted in a capacity requiring registration as
+an AP of a CPO by soliciting customers and prospective customers for participation in a pooled
+investment vehicle, while associated with VOS Capital as a partner, officer, employee, or similar
+agent.
+
+50. During the Relevant Period, VOS Capital was not registered with the Commission
+as a CPO, and Carducci was not registered with the Commission as an AP of a CPO as required
+by the Act and Regulations.
+
+D. Carducci Was a Controlling Person of VOS Capital
+
+51. Defendant Carducci was a controlling person of VOS Capital. Carducci was the
+founder, President and sole owner of VOS Capital. Carducci told Participants that he was
+responsible for the trading at VOS Capital and was generally the sole source of information for
+
+Pool Participants regarding VOS Capital and their investments. Carducci controlled the VOS
+
+13
+Case 1:19-cv-08351 Document3 Filed 09/09/19 Page 14 of 22
+
+Capital Wells Fargo Account, into which Pool Participants transferred funds for the purpose of
+trading forex.
+E. Carducci Acted _as an Agent for VOS Capital
+
+52. Through his solicitation of prospective and existing Pool Participants and his
+continued communication with Pool Participants regarding their purported trading success on
+behalf of VOS Capital, Carducci acted as an agent of VOS Capital.
+
+V. VIOLATIONS OF THE COMMODITY EXCHANGE ACT AND
+COMMISSION REGULATIONS
+
+COUNT ONEâAGAINST ALL DEFENDANTS
+Violations of Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. Â§ 6b(a)(2)(A)-(C) (2012), and
+Regulation 5.2(b)(1)-(3), 17 C.F.R. Â§ 5.2(b)(1)-() (2018)
+(Fraud In Connection with Forex Transactions by Fraudulent Solicitation and
+Misappropriation)
+
+53. Paragraphs 1 through 52 are re-alleged and incorporated herein by reference.
+
+54. 7 U.S.C. Â§ 6b(a)(2)(A)-(C) makes it unlawful âfor any person, in or in connection
+with any order to make, or the making of, any contract for sale of any commodity for future
+delivery ... that is made, or to be made, for or on behalf of, or with, any other person, other than
+on or subject to the rules of a designated contract marketâ(A) to cheat or defraud or attempt to
+cheat or defraud the other person; (B) willfully to make or cause to be made to the other person
+any false report or statement or willfully to enter or cause to be entered for the other person any
+false record; or (C) willfully to deceive or attempt to deceive the other person by any means
+whatsoever in regard to any order or contract or the disposition or execution of any order or
+
+contract, or in regard to any act of agency performed, with respect to an order or contract for or,
+
+in the case of paragraph (2), with the other person.â
+
+14
+55. Section 2(c)(2)(C)(iv) of the Act, 7 U.S.C. Â§ 2(c)(2)(C)Gv) (2012), provides that
+7 U.S.C. Â§ 6b(a)(2)(A)-(C) of the Act also applies to the forex transactions, agreements, or
+contracts offered by Defendants âas ifâ they were a contract of sale of a commodity for future
+delivery.
+
+56. 17 C.F.R. Â§ 5.2(b) makes it unlawful âfor any person, by use of the mails or by
+any means or instrumentality of interstate commerce, directly or indirectly, in or in connection
+with any retail forex transaction: (1) to cheat or defraud or attempt to cheat or defraud any
+person; (2) [willfully to make or cause to be made to any person any false report or statement or
+cause to be entered for any person any false record; or (3) [willfully to deceive or attempt to
+deceive any person by any means whatsoever.â
+
+57. During the Relevant Period, Defendants violated 7 U.S.C. Â§ 6b(a)(2)(A)-(C) and
+17 C.F.R. Â§ 5.2(b)(1)-(3), by, among other things:
+
+a. Falsely claiming to Pool Participants that Carducci was a highly successful
+forex trader with $12 million of client funds under management;
+
+b. Falsely promising Pool Participants that their funds would be used to trade
+forex;
+
+c. Falsely promising Pool Participants that their funds would generate profits of
+8%-18% per month without losses;
+
+d. Falsely promising Pool Participants that they could withdraw their funds with
+7-10 business daysâ notice;
+
+e. Issuing false written account statements to Pool Participants; and
+
+f. Misappropriating Pool Participantsâ funds for Carducciâs personal benefit and
+
+to pay other Pool Participants in the nature of a Ponzi scheme.
+
+15
+Case 1:19-cv-08351 Document3 Filed 09/09/19 Page 16 of 22
+
+58. Defendants committed the acts and practices described above using
+instrumentalities of interstate commerce, including the use of interstate wires for transfer of
+funds.
+
+59. Defendants committed the acts and practices described herein willfully, or with
+reckless disregard for the truth.
+
+60. The foregoing acts, omissions and failures as alleged in this Count of Carducci,
+and of all other agents of VOS Capital, occurred and are occurring within the scope of their
+employment, office or agency with VOS Capital; therefore, VOS Capital is liable for these acts,
+omissions and failures pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1)(B) (2012),
+and Commission Regulation 1.2, 17 C.F.R. Â§ 1.2 (2018).
+
+61. Carducci directly or indirectly controls VOS Capital, and did not act in good faith
+or knowingly induced, directly or indirectly, VOS Capitalâs violations alleged in this Count, and
+is thus liable for VOS Capitalâs violations pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b)
+(2012).
+
+62. Each act of misrepresentation, omission of material fact, and misappropriation,
+including, but not limited to, those specifically alleged herein, constitutes a separate and distinct
+violation of 7 U.S.C. Â§ 6b(a)(2)(A)-(C) and 17 C.F.R. Â§ 5.2(b)(1)-(3).
+
+COUNT TWOâAGAINST ALL DEFENDANTS
+
+Violations of Section 40(1)(A)-(B) of the Act, 7 U.S.C. Â§ 60(1)(A)-(B) (2012)
+(Fraud by a CPO and an Associated Person of a CPO)
+
+63. Paragraphs 1 through 62 are re-alleged and incorporated herein by reference.
+64. 7 U.S.C. Â§ 60(1) makes it unlawful for CPOs and APs of CPOs
+by use of the mails or any other means or instrumentality of
+
+interstate commerce, directly or indirectly â (A) to employ any
+device, scheme, or artifice to defraud any client or participant or
+
+16
+prospective client or participant; or (B) to engage in any
+transaction, practice, or course of business which operates as a
+fraud or deceit upon any client or participant or prospective client
+or participant.
+
+65. As alleged herein, during the Relevant Period, VOS Capital, through Carducci,
+acted as a CPO by operating, or soliciting funds for, a pooled investment vehicle that is not an
+ECP and that engages in retail forex transactions.
+
+66. Carducci acted as an AP of a CPO because he was associated with a CPO as a
+partner, officer, employee, consultant, or agent in a capacity that involved the solicitation of
+funds, securities, or property for participation in a pooled investment vehicle.
+
+67. VOS Capital, through Carducci, and Carducci in his individual capacity, violated
+7 U.S.C. Â§ 60(1)(A)-(B), in that by use of the mails or any other means or instrumentality of
+interstate commerce, they employed or are employing a device, scheme, or artifice to defraud
+actual or prospective Pool Participants, or engaged or are engaging in transactions, practices, or a
+course of business which operated or operates as a fraud or deceit upon actual or prospective
+Pool Participants.
+
+68. Carducci directly or indirectly controls VOS Capital, and did not act in good faith
+or knowingly induced, directly or indirectly, VOS Capitalâs violations alleged in this Count, and
+is thus liable for VOS Capitalâs violations pursuant to 7 U.S.C. Â§ 13c(b).
+
+69. The foregoing acts, omissions and failures of Carducci as alleged in this Count,
+and of all other agents of VOS Capital, occurred and are occurring within the scope of their
+
+employment, office or agency with VOS Capital; therefore, VOS Capital is liable for these acts,
+
+omissions and failures pursuant to 7 U.S.C. Â§ 2(a)(1)(B) (2012) and 17 C.F.R. Â§ 1.2 (2018).
+
+17
+Case 1:19-cv-08351 Document3 Filed 09/09/19 Page 18 of 22
+
+70. Each misrepresentation, omission of material fact, and misappropriation,
+including but not limited to those specifically alleged herein, is alleged as a separate and distinct
+violation of 7 U.S.C. Â§ 60(1)(A)-(B).
+
+COUNT THREEâAGAINST DEFENDANT VOS CAPITAL
+
+Violations of Sections 2(c)(2)(C)(iti)(D(cc) and 4m(1) of the Act, 7 U.S.C.
+Â§Â§ 2(c)(2)(C)(iii)(D(cc), 6m(1) (2012), and Regulation 5.3(a)(2)(i), 17 C.F.R. Â§ 5.3(a)(2)(i)
+
+(2018)
+(Failure to Register as a Commodity Pool Operator)
+
+71. Paragraphs | through 70 are re-alleged and incorporated herein by reference.
+
+72. As alleged herein, during the Relevant Period, Defendant VOS Capital, which
+was not exempt from registration as a CPO, acted as a CPO and made use of the mails or any
+means or instrumentality of interstate commerce in connection with its business as a CPO by
+operating or soliciting funds for a pooled investment vehicle that is not an ECP and that engages
+in retail forex transactions. VOS Capital engaged in this conduct without being registered with
+the Commission as a CPO in violation of 7 U.S.C. Â§Â§ 2(c)(2)(C)au)(D(cc) and 6m(1), and
+17 C.F.R. Â§ 5.3(a)(2)().
+
+73. Carducci directly or indirectly controls VOS Capital, and did not act in good faith
+or knowingly induced, directly or indirectly, VOS Capitalâs violations alleged in this Count, and
+is thus liable for VOS Capitalâs violations pursuant to 7 U.S.C. Â§ 13c(b).
+
+COUNT FOURâAGAINST DEFENDANT CARDUCCI
+Violations of Sections 2(c)(2)(C)Gii)(D(cc) and 4k(2) of the Act (2012), 7 U.S.C.
+Â§Â§ 2(c)(2)(C) (iii) (cc), 6k(2) (2012), and 17 C.F.R. Â§ 5.3(a)(2)(ii) (2018)
+(Failure to Register as an Associated Person of a Commodity Pool Operator)
+74. Paragraphs 1 through 73 are re-alleged and incorporated herein by reference.
+
+75. During the Relevant Period, Defendant Carducci acted as an associated person of
+
+a CPO by operating or soliciting funds, securities, or property for the VOS Capital pooled
+
+18
+Case 1:19-cv-08351 Document 3 Filed 09/09/19 Page 19 of 22
+
+investment vehicle, which was not ECP, in connection with off-exchange leveraged or margined
+forex transactions. Carducci engaged in this conduct without being registered with the
+Commission as an AP of CPO VOS Capital, in violation of 7 U.S.C. Â§Â§ 2(c)(2)(C)ai)(1)(cce) and
+6k(2), and 17 C.F.R. Â§ 5.3(a)(2)(i1).
+
+76. The foregoing acts, omissions and failures of Carducci as alleged in this Count,
+occurred and are occurring within the scope of his employment, office or agency with VOS
+Capital; therefore, VOS Capital is liable for these acts, omissions and failures pursuant to Section
+7US.C. Â§ 2(a)C)(B) (2012) and 17 C.F.R. Â§ 1.2.
+
+VI. RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that this Court, as authorized by
+Section 6c of the Act, 7 U.S.C. Â§ 13a-1, and pursuant to its own equitable powers:
+A. Enter an order finding that:
+
+1. Defendants VOS Capital and Carducci violated Sections 2(c)(2)(C)Gii)()(cc),
+Ab(a)(2)(A)-(C), and 40(1)(A)-(B) of the Act, 7 U.S.C. 6b(a)(2)(A)-(C),
+60(1)(A)-(B) (2012), and Regulation 5.2(b)(1)-@), 17 C.F.R. Â§ 5.2(b) (1)-(3)
+(2018);
+
+2. Defendant VOS Capital violated Section 4m(1) of the Act, 7 U.S.C. Â§ 6m(1)
+(2012), and Regulation 5.3(a)(2)(i), 17 C.F.R. Â§ 5.3(a)(2)G) (2018) and
+Defendant Carducci, as a controlling person pursuant to Section 13(b) of the
+Act, 7 U.S.C. Â§ 13c(b) (2012), is liable for Defendant VOS Capitalâs
+violations of the Act and Regulations; and
+
+3. Defendant Carducci violated Section 4k(2) of the Act, 7 U.S.C. Â§ 6k(2)(2012),
+
+and Regulation 17 C.F.R. Â§ 5.3(a)(2)Gi) (2018), and Defendant VOS Capital,
+
+19
+as principal pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1)(B)
+(2012), and Regulation 1.2, 17 C.F.R. Â§ 1.2 (2018), is liable for Defendant
+Carducciâs violations of the Act and Regulations.
+
+B. Enter an order of permanent injunction restraining, enjoining and prohibiting
+Defendants Carducci and VOS Capital, and their affiliates, agents, servants, employees,
+successors, assigns, attorneys, and all persons or entities in active concert with them, who receive
+actual notice of such order by personal service or otherwise, from engaging in the conduct
+described above, in violation of 7 U.S.C. Â§Â§ 2(c)(2)(C) G11) (cc), 6b(a)(2)(A) and (C), 60(1)(A)-
+(B), 6k(1) and 6m(1) (2012), and 17 C.F.R. Â§Â§ 5.2(b) (1) and (3), and 5.3(a)(2)(i)-Gi) (2018).
+
+C. Enter an order of permanent injunction restraining, enjoining and prohibiting
+Defendants Carducci and VOS Capital, and their affiliates, agents, servants, employees,
+successors, assigns, attorneys, and all persons or entities in active concert with them, who receive
+actual notice of such order by personal service or otherwise, from, directly or indirectly:
+
+1. Trading on or subject to the rules of any registered entity (as that term is
+defined by Section 1a(40) of the Act, 7 U.S.C. Â§ 1a(40) (2012));
+
+2. Entering into any transactions involving âcommodity interestsâ (as that term is
+defined in Regulation 1.3, 17 C.F.R. 1.3 (2018)), for accounts held in the
+name of any Defendant or for accounts in which any Defendant has a direct or
+indirect interest;
+
+3. Having any commodity interests traded on any Defendantâs behalf;
+
+4. Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account involving
+
+commodity interests;
+
+20
+5. Soliciting, receiving, or accepting any funds from any person for the purpose
+of purchasing or selling of any commodity interests;
+
+6. Applying for registration or claiming exemption from registration with the
+CFTC in any capacity, and engaging in any activity requiring such registration
+or exemption from registration with the CFTC except as provided for in
+Regulation 4.14(a) (9), 17 C.F.R. Â§ 4.14(a) 9) (2018); and
+
+7. Acting as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R.
+Â§3.1(a) (2018)), agent, or any other officer or employee of any person
+registered, exempted from registration, or required to be registered with the
+CFTC except as provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a) YQ)
+(2018).
+
+D. Enter an order requiring Defendants, as well as any third-party transferee and/or
+successors thereof, to disgorge, pursuant to such procedure as the Court may order, all benefits
+received including, but not limited to, salaries, commissions, loans, fees, revenues, and trading
+profits derived directly or indirectly, from acts or practices which constitute violations of the Act
+and Regulations as described herein, including pre-judgment interest thereon from the date of
+such violations, plus post-judgment interest.
+
+E. Enter an order requiring Defendants, as well as any successors thereof, to make
+full restitution, pursuant to such procedure as the Court may order, to every person or entity who
+sustained losses proximately caused by Defendantsâ violations, including pre-judgment and post-
+judgment interest.
+
+F, Enter an order directing Defendants and any of their successors, to rescind,
+
+pursuant to such procedures as the Court may order, all contracts and agreements, whether
+
+21
+Case 1:19-cv-08351 Document3 Filed 09/09/19 Page 22 of 22
+
+implied or express, entered into between, with or among Defendants and any of the clients whose
+funds were received by them as a result of the acts and practices which constituted violations of
+the Act and Regulations as described herein.
+
+G. Enter an order requiring each Defendant to pay a civil monetary penalty under the
+Act, to be assessed by the Court, in an amount not to exceed the penalty described by Section
+6c(d)(1) of the Act, 7 U.S.C. Â§13a-1(d)(1) (2012), as adjusted for inflation pursuant to the
+Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015, Pub. L. 114-74, Tit.
+VII, $701, 129 Stat. 584, 599-600, see Regulation 143.8, 17 C.F.R. $143.8 (2018) for each
+violation of the Act and Regulations, as described herein.
+
+H. Enter an order requiring Defendants to pay costs and fees as permitted by
+28 U.S.C. Â§Â§ 1920 and 2413(a)(2) (2012).
+
+I. Enter an order providing such other and further relief as this Court may deem
+necessary and appropriate under the circumstances.
+
+Dated: September 9, 2019 Respectfully submitted,
+
+/s/ Linda Y. Peng
+Linda Y. Peng
+
+Ipeng @cftc.gov
+Senior Trial Attorney
+
+David W. MacGregor
+dmacgregor@cftc.gov
+Chief Trial Attorney
+
+Manal Sultan
+msultan @cftc.gov
+Deputy Director
+
+Commodity Futures Trading Commission
+140 Broadway, 19" floor
+
+New York, NY 10005
+
+(646) 746-9733
+
+(646) 746-9940 (facsimile)
+
+22

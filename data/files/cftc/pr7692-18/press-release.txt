@@ -1,0 +1,118 @@
+Release Number 7692-18
+February 1, 2018
+
+CFTC Orders Deutsche Bank Securities Inc. to Pay $70 Million Penalty for Attempted
+Manipulation of U.S. Dollar ISDAFIX Benchmark Swap Rates
+
+Washington, DC - The Commodity Futures Trading Commission (CFTC) today issued an Order filing and settling charges
+against Deutsche Bank Securities Inc. (DBSI) for attempted manipulation of the ISDAFIX benchmark and requiring
+DBSI to pay a $70 million civil monetary penalty.
+
+The CFTC Order finds that over a five-year period, beginning in at least January 2007 and continuing through May 2012
+(the Relevant Period), DBSI made false reports and through the acts of multiple traders attempted to manipulate the U.S.
+Dollar International Swaps and Derivatives Association Fix (USD ISDAFIX), a leading global benchmark referenced ina
+range of interest rate products, to benefit its derivatives positions, including positions involving cash-settled options on
+interest rate swaps.
+
+CFTCâs Enforcement Director Comments
+
+James McDonald, CFTC Director of Enforcement, commented: âThis action reflects the CFTCâs continued and vigilant
+commitment to protect those who rely on the integrity of critical financial benchmarks. There is no room in our markets
+for manipulationâwe will continue to work hard to stamp it out, wherever we find it.â
+
+During the Relevant Period, USD ISDAFIX was set each day in a process that began at 11:00 a.m. Eastern Time with the
+capture and recording of swap rates and spreads from a U.S. based unit of a leading interest rate swaps broking firm
+(âSwaps Brokerâ).
+
+ISDAFIX rates and spreads are published daily and are meant to indicate the prevailing mid-market rate, at a specific
+time of day, for the fixed leg of a standard fixed-for-floating interest rate swap. They are issued in several currencies and
+are published for various maturities of U.S. Dollar-denominated swaps. The most widely used USD ISDAFIX rates and
+spreads, and the ones at issue in this Order, are those that are intended to indicate the prevailing market rate as of
+11:00 a.m. Eastern Time. The 11:00 a.m. USD ISDAFIX rate is used for the cash settlement of options on interest rate
+swaps, or swaptions, and as a valuation tool for certain other interest rate products.
+
+The Order finds that certain DBSI options and/or swaps traders understood and employed two primary means in their
+attempts to manipulate USD ISDAFIX rates: trading attempted manipulation and submission attempted manipulation.
+
+Trading Attempted Manipulation
+
+According to the Order, DBSI attempted to manipulate the USD ISDAFIX by bidding, offering, and executing transactions
+in targeted interest rate products, including swap spreads and U.S. Treasuries at or near the critical 11:00 a.m. fixing
+time to affect rates on the electronic interest rate swap screen known as the â19901 screenâ and thereby increase or
+decrease the Swaps Brokerâs reference rates and influence the final published USD ISDAFIX. As evidenced in recorded
+calls and electronic communications, DBSI traders talked about âpushingâ or âmovingâ the fix, or âgetting the printâ ata
+price, to benefit DBSIâs positions.
+
+In order to effect these goalsâthrough communications involving multiple DBSI traders, on more than one DBSI trading
+desk, spanning several yearsâDBSI Swap traders would tell the Swaps Broker their need for a certain swap level at 11:00
+a.m. or their need to have the level moved up or down. On at least one occasion, the Swaps Broker expressed the need
+to know how much âammoâ certain DBSI traders had to use in order to move the screen at 11:00 a.m.
+
+On February 28, 2007, for example, the Swaps Broker told a DBSI Swaps trader: âI had to do what | had to do to keep âem
+down, right...We got the print...50 is not going to hold it.â As this conversation demonstrates, the Swaps Broker fully
+understood that the DBSI trader wanted to keep the price down and get the print that would benefit DBSIâs position.
+
+DBSI Traders Knew Their Conduct Was Illegal
+
+The Order finds, further, that DBSI traders knew their conduct in attempting to manipulate the USD ISDAFIX was illegal.
+On one occasion, when a DBSI Swaps trader stated to a broker, âI really have no desire to ever trade equities. Itâs just a
+field day for the feds,â the broker responded: âthis will be over soon as well and if they ever figured out exactly how
+pricing happened through [the Swaps Broker] on a daily basis a lot of people would actually do jail time.â
+
+Submission Attempted Manipulation
+
+The Order also finds that on certain days in which DBSI had a trading position settling or resetting against the USD
+ISDAFIX, certain DBSI Swaps Desk employees responsible for making USD ISDAFIX submissions (the âSubmitterâ or
+âSubmittersâ) attempted to manipulate the final published USD ISDAFIX rates by submitting rates that were false,
+misleading, or knowingly inaccurate because they purported to reflect DBSIâs honest view of the true costs of entering
+into an interest rate swap in particular tenors, but in fact reflected tradersâ desire to move USD ISDAFIX higher or lower in
+order to benefit DBSIâs positions. Submitters made false submissions for DBSI by skewing the rates and spreads
+submitted to the Swaps Broker in the direction that could have moved the USD ISDAFIX setting to benefit DBSIâs trading
+positions.
+DBSI memorialized its manipulative submissions conduct in a Swap Desk Guide, authored by a Submitter, which stated
+that: âSwap dealer desks submit 11 a.m. levels of rate and spreads for option striking purposes. The options desk may
+ask for specific levels.â The then-Head of the Swaps Desk at DBS! understood that if an Options trader asked the Swaps
+Desk for specific levels and the Submitter complied with that request, that would be wrong because that would be âfixing
+the rate.â
+
+* OK K K K XK
+
+DBSI has taken specified steps to implement and strengthen its internal controls and procedures relating to the fixing of
+interest-rate swaps benchmarks, including measures to detect and deter trading or other conduct potentially intended to
+manipulate directly or indirectly swap rates, including benchmarks based on interest-rate swaps and to ensure the
+integrity of the fixing of any interest-rate swap benchmark.
+
+In the Order, the Commission advised that, under the circumstances, disqualification from making certain offerings
+should not arise under Rule 262(a) of Regulation A and Rule 506(d)(1) of Regulation D of the Securities and Exchange
+Commission (SEC), 17 C.F.R. Â§Â§ 230.262(a), 230.506(d)(1) (2017), as a consequence of the Order. In offering this advice,
+the Commission considered factors similar to those used by the SEC when it considers waivers of disqualification under
+Regulation A and Regulation D, as well as the previous waivers granted by the CFTC and the SEC in prior CFTC actions.
+Finally, the Commission's advice is consistent with the guidance provided by the SEC in connection with its issuance of
+Rule 506, which states that the provision âunder which disqualification does not apply if the regulator issuing the relevant
+order determines that Rule 506 disqualification is not necessary under the circumstances, strikes an appropriate
+balance,â because â[i]t allows the relevant authorities to determine the impact of their orders and conserves [SEC]
+Commission resources (which might otherwise be devoted to consideration of waiver applications) in cases where the
+relevant authority determines that disqualification from Rule 506 offerings is not warranted.â Disqualification of Felons
+and Other âBad Actorsâ From Rule 506 Offerings, 78 FR 44730, 44748 (July 24, 2013, effective Sept. 23, 2013). The CFTC
+is committed to working together with the SEC on these issues of mutual concern.
+
+In accepting the Bankâs offer, the Commission recognizes DBSIâs cooperation with the Division of Enforcementâs
+investigation in this matter. The Commission recognizes that DBSI provided important information to the Division that
+helped the Division undertake its investigation efficiently and effectively. The Commission also recognizes that DBSI
+commenced significant remedial action to strengthen the internal controls and policies relating to all benchmarks,
+including ISDAFIX.
+
+The CFTC thanks and acknowledges the assistance of the UK Financial Conduct Authority and the Newark, New Jersey,
+Office of the Federal Bureau of Investigation for their assistance in this matter.
+
+The following staff members assisted in this case: Candice Aloisi, Jason Fairbanks, Jordon Grimm, David MacGregor, Mark
+A. Picard, David C. Newman, K. Brent Tomer and James Wheaton.
+
+CFTC Division of Enforcement staff members responsible for this case are Janine M. Gargiulo, Trevor Kokal, Steven I.
+Ringer, Lenel Hickson, Jr., and Manal M. Sultan.
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: February 13, 2018

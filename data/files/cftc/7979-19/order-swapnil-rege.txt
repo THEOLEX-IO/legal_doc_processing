@@ -1,0 +1,500 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION/__
+RECEIVED CFTC
+
+ 
+
+xt TRA oD,
+
+   
+
+ 
+
+ 
+
+ 
+
+ 
+
+> * 1975 # we
+In the Matter of: Office of Proceedings
+Proceedings Clerk
+Swapnil Rege,
+
+10:04 am, Jul 18, 2019
+CFTC Docket No. 19-14 \ )
+
+Respondent.
+
+Semenâ eeâ Nae eget i eeâ
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I, INTRODUCTION
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+from in or about June 2016 through April 2017 (âRelevant Periodâ), Swapnil Rege
+(âRespondentâ) violated Section 6(c)(1) of the Commodity Exchange Act (âActâ), 7 U.S.C.
+
+Â§ 9(1) (2012), and Regulation 180.1(a)(1)-(3), 17 C.F.R. Â§ 180.1(a)(1)â(3) (2018), of the
+Commission Regulations (âRegulationsâ) promulgated thereunder. Therefore, the Commission
+deems it appropriate and in the public interest that public administrative proceedings be, and
+hereby are, instituted to determine whether Respondent engaged in the violations set forth herein
+and to determine whether any order should be issued imposing remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
+Exchange Act, Making Findings, and Imposing Remedial Sanctions (âOrderââ) and acknowledges
+service of this Order.â
+
+ 
+
+' Respondent consents to the use of the findings of fact and conclusions of law in this Order in this proceeding and
+in any other proceeding brought by the Commission or to which the Commission is a party or claimant, and agrees
+that they shall be taken as true and correct and be given preclusive effect therein, without further proof. Respondent
+does not consent, however, to the use of this Order, or the findings or conclusions herein, as the sole basis for any
+other proceeding brought by the Commission or to which the Commission is a party or claimant, other than: a
+proceeding in bankruptcy or receivership; or a proceeding to enforce the terms of this Order. Respondent does not
+consent to the use of the Offer or this Order, or the findings or conclusions in this Order, by any other party in any
+other proceeding.
+Il. FINDINGS
+The Commission finds the following:
+A. SUMMARY
+
+During the Relevant Period, Respondent engaged in a fraudulent scheme to mismark the
+valuations for certain interest rate swaps on the books of his employer, a commodity pool
+operator (âCPOâ) located in Connecticut and registered as such with the Commission.
+Respondent mismarked the valuations in an attempt to artificially inflate the profits of the CPO,
+in order to meet performance metrics that would qualify Respondent for an (artificially inflated)
+performance bonus. As discussed in further detail below, Respondent mismarked the interest
+rate swaps on the books of the CPO by editing default discount curves in the software used by
+the CPO to value its swaps, as well as changing other settings in order to create fictitious profits.
+As a result of the mismarking scheme, Respondent caused the CPO to overstate its reported
+performance to pool participants, which in turn resulted in overstated management fees. The
+valuations could not be and were not realized by the CPO.
+
+Respondent engaged in numerous steps to conceal his misconduct, including by:
+
+(1) obtaining written verifications of his fraudulent marks from swap dealers by instructing them
+to use off-market forward curvesâand then concealing those instructions when providing the
+verifications to the CPOâs back office (accounting and/or operations staff); and (ii) manipulating
+the split of spreads and fees assigned to the various legs of packaged swaps transactions to make
+it appear that swaps were unwound close to his fictitious marks. Respondent also engaged in
+efforts to persuade management of the CPO, as well as the CPOâs outside auditor, that his marks
+were not fraudulentâdespite knowing that they were unsupportable.
+
+The CPO ultimately terminated Respondent, liquidated its commodity pools, restated the
+poolsâ valuations, and reimbursed excessive fund management fees attributable to Respondentâs
+mismarking scheme.
+
+B. RESPONDENT
+
+Swapnil Rege was a Portfolio Manager on the U.S. Rates Desk at the CPO from June
+2015 until his termination in April 2017. Rege has never been registered with the Commission
+in any capacity.
+
+C. OTHER RELEVANT ENTITIES
+
+The CPO is a Delaware limited liability company with a principal place of business in
+Darien, Connecticut. During the Relevant Period, the CPO was registered with the Commission
+as a CPO. The CPO operated several commodity pools during the Relevant Period.
+
+D. FACTS
+
+Respondent was hired as a consultant by the CPO in March 2015. In June 2015
+Respondent was promoted to a full-time employee as Portfolio Manager over the U.S. Rates
+Desk. The terms of the management of the commodity pools were set forth in a private
+placement memorandum and other documents.
+
+At the time Respondent was hired, the CPO primarily invested in structured products
+such as mortgage-backed and other asset-backed securities, and fixed income instruments. The
+CPO typically entered into interest rate swaps and other derivatives for hedging purposes.
+Respondent was hired to engage in a new primary investment strategy of interest rate swap
+trading (i.e., trading to earn profits by entering into interest rate swaps, as well as swaptions and
+other related instruments, rather than for hedging purposes). Pursuant to his agreement with the
+CPO, Respondent was paid a base salary of $150,000, and was entitled to a performance bonus
+of 8% of the CPOâs net profits generated by his trading. Respondent was the primary trader for
+this new strategy.
+
+Initially, these swaps and related instruments were valued on the CPOâs books by
+marking them on a day-to-day basis using a valuation model for each instrument. Doing so
+requires that the economic terms of each instrument be manually input by the trader (here,
+Respondent), although some terms (such as forward curves) were set to defaults by the CPOâs
+settings in the valuation model. Until the summer of 2016, these model valuations would at
+month-end be updated and reconciled with the valuations provided by the CPOâs prime broker
+for each of the various instruments. In June 2016, the CPO experienced several discrepancies
+between its end-of-day marks (derived from its valuation model) and its month-end marks
+(derived from counterparty statements). As a result, the CPO evaluated alternative methods for
+valuing its swap and related positions, ultimately determining to use the valuation model to mark
+the positions on both a daily and monthly basis. In fact, Respondentâs mismarking contributed to
+the discrepancies noticed by the CPO.
+
+Respondentâs mismarking was accomplished in several ways. Because the CPO used the
+valuation model to mark its swap and other related instruments during the Relevant Period (first
+for daily marks, and then at some point in the summer of 2016 for month-end marks as well), by
+manipulating the settings of that model Respondent was able to create fictitious profits. First,
+and most significantly, Respondent was able to assign different discount curves to swaps and
+swaptions with identical or substantially similar terms depending on whether the CPO was
+paying or receiving the fixed leg of the swap, or whether the CPO was long or short the
+swaption. There was no economic justification for Respondentâs use of different discount curves.
+for valuing similar instruments. The resulting mismatch in discount curves for otherwise
+offsetting or nearly-offsetting positions created fictitious profits in the model used by the CPO to
+value its swaps that did not reflect the actual value the swaps could realize if unwound. Second,
+Respondent used incorrect day count settings for fixed and floating legs of some swaps and
+swaptions in order to reduce the model value of future payments by the CPO or increase the
+model value of future payments to the CPO, resulting in fictitious profits that would never
+actually be realized by the CPO.
+
+Respondent concealed his mismarking scheme in several ways. First, when the CPOâs
+management sought to confirm the validity of using marks based on the valuation model,
+Respondent asked his counterpart traders at swap dealers used by the CPO to provide him with
+quotes to verify the model valuations. Respondent would typically do this through the chat
+function of the Bloomberg terminal, and would provide either a screenshot or a copy of the chat
+to the CPOâs back-office staff. However, Respondent would concealâeither by omitting
+segments of the chat or by deleting relevant textâthat he had provided off-market forward rates
+for the counterparty traders to use in calculating the quotes. Respondent knew that the
+information he was omitting was material, and that by omitting it he created the false impression
+that the broker quotes supported his fraudulent valuations.
+
+A second technique used by Respondent to conceal his fraud was to structure the unwind
+of certain trades in packages where he could instruct the counterparty to assign fees and
+premiums to particular legs of the trade in such a way as to make it appear that certain positions
+unwound at valuations close to those provided by the valuation model. For example, Respondent
+mismarked one trade using different discount curves to create a net present value of
+approximately $22.7 million. When instructed to unwind the trade at the end of March 2017,
+Respondent negotiated with his counterparty to replace the tradeâcontrary to instructions not to
+enter into new tradesâwith a new one that had a +68 basis point spread on it. This spread was
+matched with a payment of $22.7 million to the CPO on the unwound tradeâan amount that
+approximated the inflated value on the CPOâs books. In reality, however, this payment did not
+result from profitable trading; instead, Respondent had built-in a loss on the new trade that offset
+the fictitious profit on the unwound trade.
+
+Respondent also engaged in other conduct intended to conceal his mismarking from the
+CPO, including providing purported justifications to the CPOâs management and its auditor for
+his use of differing discount curves for otherwise similar trades. Indeed, Respondent falsely told
+the CPO that the use of differing discount curves for similar trades was an accepted practice that
+led to more accurate valuations. Respondent also blamed user error (his own) for some of his
+other alterations to default settings (like day counts).
+
+Respondentâs mismarking created fictitious profits for fiscal year 2016 in the CPOâs
+valuation model, which resulted in Respondent being paid an unjustified partial performance
+bonus of $600,000 on December 31, 2016 (his remaining bonus payment was deferred until after
+completion of the annual audit).
+
+Ultimately, Respondent was confronted by the CPO regarding his mismarking after the
+unwind trade discussed above failed to clear. Respondent was terminated by the CPO on April
+25, 2017; as a result, the remainder of his unjustified performance bonus was never paid.
+
+Ii. LEGAL DISCUSSION
+
+Under Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) (2012), it is unlawful for any person,
+directly or indirectly, to use or employ in connection with, as relevant here, any swap, any
+manipulative or deceptive device or contrivance, in violation of Regulation 180.1, 17 C.F.R.
+
+Â§ 180.1 (2018). Regulation 180.1(a)(1)-(3), in relevant part, makes it unlawful for any person,
+directly or indirectly, in connection with any swap, to intentionally or recklessly (1) use or
+employ or attempt to use or employ any manipulative device, scheme, or artifice to defraud;
+
+(2) make or attempt to make any untrue or misleading statement or omission of material fact; or
+(3) engage or attempt to engage in any act or practice, which operates or would operate as a
+fraud or deceit on any person.
+Mismarking internal books to reflect fictitious profits or conceal losses constitutes
+fraudulent conduct under the Act and Regulations, as does concealing such conduct through false
+and misleading statements. See, e.g., Jn re Bourne, CFTC No. 18-51, 2018 WL 4862368 (Sept.
+28, 2018) (consent order) (finding violations of Section 6(c)(1) and Regulation 180.1(a) where
+respondent internally mismarked the valuation of inflation swap instruments to disguise
+significant trading losses); CFTC v. Brooks, No. 13-C-6879(KMW), 2014 WL 4443446, at *4â5
+(S.D.N.Y. Aug. 1, 2014) (consent order) (finding violations of Sections 4b and 6(c)(1) of the Act
+and Regulation 180.1(a) when defendant mismarked internal books and records to inflate the
+profitability of futures positions).
+
+As set forth above, Respondent violated Section 6(c)(1) of the Act and Regulation
+180.1(a)(1)-(3) because he intentionally or recklessly, in connection with certain interest rate
+swaps and swaptions that he traded on behalf of the CPO: (1) used or employed a manipulative
+device, scheme, or artifice to defraud; (2) made untrue or misleading statements of material fact
+or omitted to state material facts necessary in order to make the statements made not untrue or
+misleading; and (3) engaged in acts, practices, or courses of business which operated as a fraud
+or deceit on the CPO. By this conduct, Respondent violated Section 6(c)(1) of the Act and
+Regulation 180.1(a)(1)-(3).
+
+IV. FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that, during the Relevant Period, Swapnil
+Rege violated Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) (2012), and Regulation 180.1(a)(1)-(3),
+17 C.F.R. Â§ 180.1(a)(1)â(3) (2018).
+
+V. OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which he, without admitting or denying the
+findings and conclusions herein:
+
+A. Acknowledges service of this Order;
+
+B, Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C. Waives:
+1. The filing and service of a complaint and notice of hearing;
+2. A hearing;
+
+3, All post-hearing procedures;
+4, Judicial review by any court;
+
+5. Any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+Any and all claims that he may possess under the Equal Access to Justice Act,
+
+5 ULS.C. Â§ 504 (2012), and 28 U.S.C. Â§ 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations, 17 C.F.R.
+pt. 148 (2018), relating to, or arising from, this proceeding;
+
+Any and all claims that he may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. II, Â§Â§ 201-253, 110
+Stat. 847, 857-74 (codified as amended at 28 U.S.C. Â§ 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order;
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondents has consented in the Offer; and
+
+Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+1.
+
+Makes findings by the Commission that Respondent violated Section 6(c)(1) of the
+Act, 7 U.S.C. Â§ 9(1) (2012), and Regulation 180.1(a)(1)â(3), 17 C.F.R.
+Â§ 180.1(a)(1)-G) (2018);
+
+Orders Respondent to cease and desist from violating Section 6(c)(1) of the Act
+and Regulation 180.1(a)(1)â-(3);
+
+Orders Respondent to pay a civil monetary penalty in the amount of one hundred
+thousand dollars ($100,000) (âCMP Obligationâ), within fourteen days of the date
+of entry of this Order;
+
+Orders that Respondent be prohibited from, directly or indirectly, engaging in
+trading on or subject to the rules of any registered entity (as that term is defined in
+Section 1a(40) of the Act, 7 U.S.C. Â§ 1a(40) (2012)), for a period of: (a) at least
+three years after the date of entry of this Order; and (b) until after payment and
+satisfaction in full of the Disgorgement Obligation and the CMP Obligation and
+any applicable interest, and all registered entities shall refuse him trading
+privileges during that period; and
+
+Orders Respondent to comply with the conditions and undertakings consented to in
+the Offer and as set forth in Section VI of this Order, including payment of
+disgorgement of $600,000 plus prejudgment interest in the amount of $49,170.84.
+
+Upon consideration, the Commission has determined to accept the Offer.
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondents shall cease and desist from violating Section 6(c)(1) of the Act, 7 U.S.C.
+Â§ 9(1) (2012), and Regulation 180.1(a)(1)â(3), 17 C.F.R. Â§ 180.1(a)(1)-(3) (2018).
+
+Respondent shall pay a civil monetary penalty in the amount of one hundred thousand
+dollars ($100,000) (âCMP Obligationâ), within fourteen days of the date of the entry of
+this Order. If the CMP Obligation is not paid in full within fourteen days of the date of
+entry of this Order, then post-judgment interest shall accrue on the CMP Obligation
+beginning on the date of entry of this Order and shall be determined by using the
+Treasury Bill rate prevailing on the date of entry of this Order pursuant to 28 U.S.C.
+
+Â§ 1961 (2012).
+
+Respondent shall pay the CMP Obligation and any post-judgment interest by electronic
+funds transfer, U.S. postal money order, certified check, bank cashierâs check, or bank
+money order. If payment is to be made other than by electronic funds transfer, then the
+payment shall be made payable to the Commodity Futures Trading Commission and sent
+to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+9-AMC-AR-CFTC@faa. gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Marie
+Thorne or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581, and to the Deputy Director, Enforcement, Eastern Region
+Office, Commodity Futures Trading Commission, 140 Broadway, New York, New York
+10005.
+
+Respondent is prohibited from, directly or indirectly, engaging in trading on or subject to
+the rules of any registered entity (as that term is defined in Section 1a(40) of the Act,
+
+7 U.S.C. Â§ 1a(40) (2012)), for a period of: (a) at least three years after the date of entry
+of this Order; and (b) until after payment and satisfaction in full of the Disgorgement
+Obligation and the CMP Obligation and any applicable interest, and all registered entities
+shall refuse him trading privileges during that period; and
+
+Respondent shall comply with the following conditions and undertakings set forth in the
+
+Offer:
+
+1.
+
+Public Statements: Respondent agrees that neither he nor any of the agents or
+
+employees under his authority or control shall take any action or make any public
+statement denying, directly or indirectly, any findings or conclusions in this Order
+or creating, or tending to create, the impression that this Order is without a factual
+basis; provided, however, that nothing in this provision shall affect Respondentâs:
+(1) testimonial obligations; or (11) right to take legal positions in other proceedings
+to which the Commission is not a party. Respondent shall comply with this
+agreement, and shall undertake all steps necessary to ensure that all of his agents
+and/or employees under his authority or control understand and comply with this
+agreement.
+
+Respondent agrees that he shall not, for a period of: (a) at least three years after
+the date of entry of this Order, and (b) until after full payment and satisfaction of
+the Disgorgement Obligation and the CMP Obligation and any applicable interest,
+directly or indirectly:
+
+a. enter into any transactions involving âcommodity interestsâ (as that term is
+defined in Regulation 1.3, 17 C.F.R. Â§ 1.3 (2018)), for Respondentâs own
+personal account or for any account in which Respondent has a direct or
+indirect interest;
+
+b. have any commodity interests traded on Respondentâs behalf;
+
+c. control or direct the trading for or on behalf of any other person or entity,
+whether by power of attorney or otherwise, in any account involving
+commodity interests;
+
+d. solicit, receive, or accept any funds from any person for the purpose of
+purchasing or selling any commodity interests;
+
+e. apply for registration or claim exemption from registration with the
+Commission in any capacity, or engage in any activity requiring such
+registration or exemption from registration with the Commission except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2018); and/or
+
+f. act as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R.
+Â§ 3.1(a) (2018)), agent or any other officer or employee of any person (as that
+term is defined in Section 1a(38) of the Act, 7 U.S.C. Â§ 1a(38) (2012)),
+registered, required to be registered, or exempted from registration with the
+Commission except as provided for in Regulation 4.14(a)(9).
+Disgorgement: Respondent agrees to pay disgorgement in the amount of six
+hundred thousand dollars ($600,000.00), plus pre-judgment interest in the amount
+of forty-nine thousand, one hundred and seventy dollars and eighty-four cents
+($49,170.84), for a total of six hundred and forty-nine thousand, one hundred and
+seventy dollars and eighty-four cents ($649,170.84) (âDisgorgement Obligationâ),
+representing the gains received in connection with such violations. Payments
+shall be made as follows: (1) two hundred thousand dollars ($200,000) within
+fourteen days of the date of the entry of this Order; and (2) four hundred forty-
+nine thousand, one hundred and seventy dollars and eighty-four cents
+($449,170.84), within 360 days of the date of the entry of this Order. Ifthe
+Disgorgement Obligation is not paid in full within 360 days of the date of entry of
+this Order, then post-judgment interest shall accrue on the Disgorgement
+Obligation beginning on the date of entry of this Order and shall be determined by
+using the Treasury Bill rate prevailing on the date of entry of this Order pursuant
+to 28 U.S.C. Â§ 1961 (2012).
+
+Payment, up to the amount of six hundred and forty-nine thousand, one hundred
+and seventy dollars and eighty-four cents ($649,170.84), made by the Respondent
+in satisfaction of the disgorgement order entered in the Order Instituting
+Administrative and Cease-and-Desist Proceedings Pursuant to Section 8a of the
+Securities Act of 1933, Section 21c of the Securities Exchange Act of 1934, and
+Section 203(E) of the Investment Advisers Act of 1940, Making Findings, and
+Imposing Remedial Sanctions and a Cease-and-Desist (âSEC Orderâ), in the
+proceeding captioned Jn the Matter of Swapnil Rege, brought by the Securities
+and Exchange Commission (including payments to an escrow account as provided
+in the SEC Order) shall offset (dollar-for-dollar) Respondentâs Disgorgement
+Obligation identified herein.
+
+Any payment of Respondentâs Disgorgement Obligation and any post-judgment
+interest to the CFTC hereunder shall be made by electronic funds transfer, U.S.
+postal money order, certified check, bank cashierâs check, or bank money order.
+If payment is to be made other than by electronic funds transfer, then the payment
+shall be made payable to the Commodity Futures Trading Commission and sent to
+the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+9-AMC-AR-CFTC@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact
+Marie Thorne or her successor at the above address to receive payment
+instructions and shall fully comply with those instructions. Respondent shall
+accompany payment of the Disgorgement Obligation with a cover letter that
+identifies the paying Respondent and the name and docket number of this
+proceeding. The paying Respondent shall simultaneously transmit copies of the
+cover letter and the form of payment to the Chief Financial Officer, Commodity
+Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581, and to the Deputy Director, Enforcement, Eastern
+Region Office, Commodity Futures Trading Commission, 140 Broadway, New
+York, New York 10005.
+
+E. Cooperation, in General: Respondent shall cooperate fully and expeditiously with the
+Commission, including the Commissionâs Division of Enforcement, in this action, and in
+any current or future Commission investigation or action related thereto. Respondent
+shall also cooperate in any investigation, civil litigation, or administrative matter related
+to, or arising from, this action.
+
+F, Partial Satisfaction: Respondent understands and agrees that any acceptance by the
+Commission of any partial payment of Respondentâs CMP Obligation or Disgorgement
+Obligation shall not be deemed a waiver of his obligation to make further payments
+pursuant to this Order, or a waiver of the Commissionâs right to seek to compel payment
+of any remaining balance.
+
+G. Change of Address/Phone: Until such time as Respondent satisfies in full his CMP
+Obligation and Disgorgement Obligation as set forth in this Order, Respondent shall
+provide written notice to the Commission by certified mail of any change to his telephone
+number and mailing address within ten calendar days of the change.
+
+ 
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+CUA | REL
+Christopher J. Kirkpatrick
+Secretary of the Commission
+
+Commodity Futures Trading Commission
+
+Dated: July 18, 2019
+
+10

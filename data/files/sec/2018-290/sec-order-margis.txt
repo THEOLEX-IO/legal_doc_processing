@@ -1,0 +1,409 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 84849 / December 18, 2018
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4003 / December 18, 2018
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-18938
+
+ 
+
+In the Matter of ORDER INSTITUTING CEASE-AND-
+DESIST PROCEEDINGS PURSUANT TO
+Paul A. Margis SECTION 21C OF THE SECURITIES
+EXCHANGE ACT OF 1934, MAKING
+Respondent. FINDINGS, AND IMPOSING A CEASE-
+
+AND-DESIST ORDER
+
+ 
+
+ 
+
+I.
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (âExchange Actâ), against Paul A. Margis (âMargisâ or âRespondentâ).
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferâ), which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commissionâs jurisdiction over him and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (âOrderâ), as set forth below.
+
+Il.
+On the basis of this Order and Respondentâs Offer, the Commission finds! that:
+
+Summary
+
+1. Beginning in 2007, Paul A. Margis (âMargisâ) participated in a plan whereby
+Panasonic Avionics Corporation (âPACâ), a wholly-owned, U.S. subsidiary of Panasonic
+
+ 
+
+' The findings herein are made pursuant to Margisâs Offer of Settlement and are not binding on any
+
+other person or entity in this or any other proceeding.
+Corporation (âPanasonicâ), offered a lucrative consulting position to a government official
+(âGovernment Officialâ) who assisted PAC in obtaining and retaining business from a state-owned
+airline (âGovernment Airlineâ). While PAC was negotiating two agreements valued at over $700
+million with the Government Airline, Margis authorized PAC to offer the Government Official a
+$200,000 a year post-retirement consulting position. Ultimately, PAC retained the Government
+Official and paid approximately $875,000 for his position, which required little to no work.
+
+Margis and others arranged for the Government Official to be paid through a third-party vendor
+that provided unrelated services to PAC. Margis also authorized payments of more than $900,000
+through the third-party vendor for the retention of two other individuals as consultants, although
+they provided little to no services. Through his conduct, Margis knowingly circumvented PACâs
+system of internal accounting controls and knowingly falsified the companyâs books and records.
+Margis also caused Panasonic to violate the books and records and internal accounting controls
+provisions of the federal securities laws. Finally, Margis made false representations to PACâs
+external auditors that PAC did not have any deficiencies concerning its internal financial controls
+and books and records, thereby misleading the companyâs auditors.
+
+Respondent
+
+2. Paul A. Margis, age 64, was the President (2005-2007; 2012-2017) and Chief
+Executive Officer (2007-2017) of PAC. Beginning around June 2012, Margis also held concurrent
+positions at Panasonic Corporation, including serving as an executive officer of a Panasonic
+business segment, AVC Networks Company (âAVC Networksâ), from 2013-2017.
+
+Other Relevant Entities and Individuals
+
+3. Panasonic Corporation is a multinational corporation, headquartered in Osaka,
+Japan. During the relevant period, Panasonicâs global business was organized into eight business
+segments, including AVC Networks that included PAC. Panasonicâs securities were registered with
+the Commission pursuant to Section 12(b) of the Exchange Act until April 22, 2013, and its
+American Depositary Shares traded on the New York Stock Exchange under the ticker âPC.â From
+May 1, 2015 through June 20, 2016, Panasonicâs securities were registered with the Commission
+pursuant to Section 12(g) of the Exchange Act. During the periods when Panasonic securities were
+registered with the Commission, Panasonic was required to file or furnish periodic reports with the
+Commission pursuant to Section 15 of the Exchange Act.
+
+4. Panasonic Avionics Corporation (f/k/a Matsushita Avionics Systems
+Corporation), a wholly-owned subsidiary of Panasonicâs North American subsidiary, is a
+Delaware corporation headquartered in Lake Forest, California. PAC designs, engineers,
+manufactures, sells and installs in-flight entertainment systems (âIFEâ) and global communication
+services (âGCSâ) to airlines, aircraft leasing companies, and airplane manufacturers worldwide,
+including to state-owned airlines. Panasonic managed PAC via AVC Networks, and certain PAC
+officers, including Margis, also held concurrent titles at Panasonic. During the relevant period,
+PACâs books and records and financial accounts were consolidated into Panasonicâs books and
+records and reported on Panasonicâs consolidated financial statements, which were filed or
+furnished with the Commission and reported to investors.
+FACTS
+Offer of Consulting Position to Government Official
+
+5. In 1986, PAC retained a sales representative (âSales Representativeâ orâ Sales
+Repâ) to assist PAC in contract negotiations for the sale of IFE and GCS products to several
+airlines in its Middle East Region, despite the fact that he had no background or experience in
+avionics. Thereafter, PAC periodically renewed its agreements with the Sales Rep until around
+May 2016 when it terminated its relationship with him. The Sales Rep was engaged with the
+authorization of Panasonic executives, including Margis, who was also directly involved in
+authorizing the renewal of agreements between PAC and the Sales Rep.
+
+6. Between 2007 and 2016, PAC paid the Sales Representative more than $184
+million in sales commissions through his British Virgin Islands entity. During this period, the
+Sales Representative directly reported to Margis, who authorized monthly commission payments
+of $1-3 million to the Sales Representative. The Sales Representative gave Margis cash and luxury
+items valued at more than $60,000.
+
+7. Beginning in at least 2004, PAC maintained a separate, regional office in the
+Middle East. The office, based in Dubai, was staffed by sales and marketing professionals and had
+a repair shop, field engineers, and its own finance staff. Nevertheless, PAC continued to use the
+Sales Rep despite concerns raised by PAC employees that the Sales Rep lacked the qualifications
+to negotiate technical contracts related to IFE and GCS products and other red flags regarding his
+conduct, such as his possession of confidential and proprietary materials of PACâs competitors and
+customers. In addition, Margis was aware of allegations from its regional employees that the Sales
+Rep was paying bribes to win business on PACâs behalf.
+
+8. While PAC engaged the Sales Rep as a sales agent through the entity that he
+owned, he operated as a PAC employee. The Sales Representative had: PAC business cards
+identifying him as PACâs General Manager of Sales and Marketing in the Middle East, Africa and
+South Asia; his own office space in PACâs Dubai office; a PAC phone number and email address;
+a PAC title; and numerous electronic devices.
+
+9. In 2004, PAC and the Government Airline signed a ten-year Master Product Supply
+Agreement (âMPSAâ) that ultimately grossed well over a billion dollars for PAC to provide IFE
+products and services for planes within the Government Airlineâs fleet. Both Margis and the Sales
+Rep were involved in the negotiations of the MPSA, and Margis signed the MPSA on behalf of
+PAC. Significantly, the MPSA prohibited PAC from providing any consideration to employees of
+the Government Airline.
+
+10. The Government Airline appointed its own executive, the Government Official, to
+serve as the primary point of contact for contract negotiations with PAC, including for the MPSA.
+During the relevant period, the Government Official reported directly to the Government Airlineâs
+President. The Government Official had influence over the Government Airlineâs contracting
+decisions, including influence over the airlineâs decisions to award business to PAC as well as
+interpretations of specific terms in the MPSA and amendments thereto. Finally, the Government
+Official negotiated significant terms with PAC, including credits, concessions, and
+system/component price lists, and was involved in approving payments to PAC.
+11. In 2006, the Sales Rep and the Government Official began negotiating an
+amendment to the MPSA (âAmendment Oneâ) for the purchase of additional IFE products by the
+Government Airline. Negotiations for Amendment One, which was worth nearly $360 million in
+additional business to PAC, continued through at least July 2007.
+
+12. Over the course of 2007, PAC and the Government Airline also negotiated and
+entered into a second amendment to the MPSA (âAmendment Twoâ) for the purchase of additional
+IFE products. Due to the delay in the receipt of new aircraft by the Government Airline, certain
+IFE products that PAC and the Government Airline had contemplated being included in
+Amendment One were instead included in Amendment Two. Amendment Two was signed in
+November 2007, and was worth over $353 million in additional business to PAC.
+
+13. As with the MPSA, Margis and the Sales Representative were both involved in the
+negotiation of Amendment One and Amendment Two. Also as with the MPSA, the Government
+Official led negotiations of those amendments and signed Amendment One on behalf of the
+Government Airline.
+
+14. During the course of negotiations for Amendments One and Amendment Two, the
+Government Official solicited PAC for personal benefits. Beginning in at least April 2007, the
+Government Official sent numerous emails to the Sales Representative about obtaining a position
+with PAC, which the Sales Representative brought to Margisâs attention. Subsequently on June
+17, 2007, the Government Official informed the Sales Representative that he was seeking a
+position with PAC, including an annual salary of Â£150,000 and other benefits. The Sales
+Representative informed Margis of the specific request.
+
+15. In or around September 2007, PAC offered the Government Official a position as a
+consultant for $200,000 per year plus travel expenses, which would be effective after his retirement
+from the Government Airline. Margis authorized the offer of a consulting position to the
+Government Official, despite numerous red flags.
+
+16. For example, PAC had no apparent need for the Government Officialâs services.
+During the six years that he was paid as a consultant, the Government Official performed little to
+no work.
+
+17. Additionally, the Sales Representative informed Margis and other PAC executives
+that the Government Official did not want any one contacting him due to his current status with his
+employer, the Government Airline.
+
+18. In response, a senior PAC executive told Margis and others by email that, âWe
+should be very sensitive to [Government Officialâs] current position .. . . I will get in trouble if we
+act like a small company. What we are doing for [the Government Official] is a large risk for a
+corporation like Panasonic. I think we still should for good reasons, but we must get this done
+above the table with complete transparency.â
+
+19. Finally, based on his prior interactions with the Government Airline, Margis was
+aware that the Government Official played a Key role in the business relationship between the
+Government Airline and PAC, including in connection with the negotiations of the MPSA,
+Amendment One, and Amendment Two.
+
+20. During the course of the negotiations for Amendment One and Amendment Two,
+and while seeking personal benefits from PAC, the Government Official was providing PAC
+commercial and proprietary information that helped PAC secure an improper advantage in
+obtaining and retaining business from the Government Airline. This included confidential
+information of the Government Airline and PACâs competitors, tips on negotiating with the
+Government Airline, and advice on how to secure additional business from the Government
+Airline.
+
+21. Rather than following PACâs standard procedures for retaining consultants, Margis
+arranged for PAC to retain the Government Official and pay him through an unrelated third-party
+vendor that otherwise prepared product manuals for PAC (âVendorâ).
+
+22. Ultimately, between April 2008 and January 2014, the Government Official
+provided little to no services, and PAC paid over $875,000 to the Vendor for the Government
+Officialâs position. Margis was aware that the Government Official was providing few, if any,
+services. For instance, in May 2009, PAC employees requested to terminate the agreement with
+the Government Official because his services were not required. Nevertheless, Margis authorized
+the renewal of the agreement with the Government Official, and continued to authorize monthly
+payments to the Vendor for the Government Official through January of 2014.
+
+Retention of Consultants through the Office of the President Budget
+
+23. From at least 2007 through at least January 2014, Margis and others authorized the
+engagement of various individuals as consultants in circumstances in which the consultants
+provided few, if any, services. Rather than following PACâs standard procedures for engaging
+consultants, these individuals were retained through the Vendor and paid through the Vendor from
+an Office of the President budget that Margis controlled.
+
+24. The Office of the President budget was set annually by a senior PAC finance
+executive in consultation with Margis, based on the prior yearâs costs and anticipated changes to
+expenses. Expenditures from this budget were never meaningfully reviewed or approved by any
+Panasonic or PAC personnel, and there were no reasonable internal accounting controls in place
+surrounding its use. In October 2007, Margis used the Vendor as a conduit to pay a former PAC
+employee (âConsultant Oneâ), who was also working as a consultant for one of PACâs largest
+domestic airline customers. Between October 2007 and December 2013, Margis authorized
+payments totaling approximately $825,000 for Consultant One from the Office of the President
+budget via the Vendor. During this period, Consultant One was not supervised by anyone at PAC
+or Panasonic, and provided few, if any, services to PAC or Panasonic. Instead, Consultant One
+provided Margis and others at PAC with non-public information regarding the domestic airline
+customer, other airlines, and PACâs competitors, frequently passing information through emails
+that were marked âCONFIDENTIALâ or âDO NOT FORWARD.â
+
+25. In yet another instance, between January and December 2009, Margis used the
+Office of the President budget and the Vendor to pay $60,000 for a consulting position for another
+former PAC employee (âConsultant Twoâ). In this instance, Consultant Two performed no work
+for PAC or Panasonic, and was paid solely to prevent him from working for any of PACâs
+competitors.
+
+26. Margis authorized nearly all payments made out of the Office of the President
+Budget, including payments totaling more than $1.76 million to the Government Official,
+Consultant One, and Consultant Two, who provided few, if any, services to PAC. These payments
+were falsely recorded in PACâs general ledger as consulting payments to the Vendor and the
+consultants and incorporated into Panasonicâs books, records, and accounts as âselling and general
+administrative expenses.â
+
+27. During the period that Margis used the Office of the President budget to pay the
+aforementioned consultants, PAC had established policies and procedures concerning the
+engagement of consultants. These policies and procedures set out a number of requirements,
+including defining the scope of work, engaging PAC Human Resources in the retention process,
+and limiting a contractâs duration to six months. In fact, during this period, Margis authorized the
+engagement of several other consultants pursuant to PACâs consultant retention policies and
+procedures. Conversely, Margis circumvented those very same policies and procedures when
+authorizing the engagement of the Government Official, Consultant One, and Consultant Two.
+
+28. Panasonic failed to maintain internal accounting controls reasonably designed to
+ensure that payments to the consultants only were made in exchange for the described consulting
+services, that services actually had been rendered, and that its books and records fairly reflected the
+transactions and disposition of Panasonicâs assets. Panasonic also lacked sufficient internal
+accounting controls to effectuate its policies and procedures concerning the selection and
+engagement of these consultants.
+
+29. Margis caused Panasonic to violate the books and records and internal accounting
+controls provisions of the federal securities laws by authorizing the engagement of the consultants
+through the Vendor and using the Vendor as a conduit for payments to the consultants, which were
+made from the Office of the President Budget that he controlled.
+
+Maregis Misled PACâs External Auditors
+
+30. As a wholly-owned subsidiary of Panasonic, PAC senior executives provided
+annual certifications of its financial statements, known as âsubcertifications,â to PACâs external
+auditors (âAuditorsâ) each quarter. Similarly, PAC senior executives also provided the Auditors
+with quarterly management representations letters confirming, among other things, that the
+company did not have any deficiencies concerning its books and records and its internal financial
+controls.
+
+31. The subcertifications and management representation letters were presented to the
+Auditors in connection with the company's annual and quarterly reviews. The Auditors relied on
+these subcertifications and management representation letters as part of the normal course of their
+audits of the company and for the preparation of PACâs financial statements, which were
+incorporated into Panasonicâs financial statements and included by Panasonic in its periodic
+Commission filings.
+
+32. From at least 2007 through 2015, Margis provided annual subcertifications as well
+as Management representation letters each quarter to the Auditors. At no time during this period
+did Margis disclose to the Auditors, or direct anyone else to disclose, the foregoing issues
+concerning the payments to the Government Official and other consultants, PACâs and Panasonicâs
+lack of sufficient internal accounting controls, or the resulting falsification of PACâs and
+Panasonicâs books and records.
+33. Instead, Margis provided false subcertifications and management representation
+letters to the Auditors. For example, in the subcertifications Margis falsely stated, âno deficiencies
+have been identified and the internal control [sic] over financial reporting have effectively
+functioned....â Similarly, in the management representation letters, Margis falsely stated, âthere
+are no material transactions that have not been properly recorded in the accounting records,â and
+âIt|here are no significant deficiencies or material weaknesses in the design or operation of internal
+controls over financial reporting....ââ Both of these certifications were false.
+
+34. As aresult of this conduct, Margis made materially false or misleading statements
+to the Auditors in connection with their audits of the companyâs financial statements and internal
+financial controls.
+
+LEGAL STANDARDS AND VIOLATIONS
+
+35. Under Section 21(C) of the Exchange Act, the Commission may impose a cease-
+and-desist order upon any person who is violating, has violated, or is about to violate any provision
+of the Exchange Act or any rule or regulation thereunder, and upon any other person that is, was,
+or would be a cause of the violation, due to an act of omission the person knew or should have
+known would contribute to such violation.
+
+36. As a result of the conduct described above, Margis violated Section 13(b)(5) of
+the Exchange Act, which states that no person shall knowingly circumvent or knowingly fail to
+implement a system of internal accounting controls or knowingly falsify any book, record or
+account.
+
+37. Also as a result of the conduct described above, Margis caused Panasonic to
+violate Section 13(b)(2)(A) of the Exchange Act, which requires issuers that have a class of
+securities registered pursuant to Section 12 of the Exchange Act and issuers with reporting
+obligations pursuant to Section 15(d) of the Exchange Act to make and keep books, records, and
+accounts which, in reasonable detail, accurately and fairly reflect their transactions and
+disposition of their assets.
+
+38. As a result of the conduct described above, Margis also caused Panasonic to
+violate Section 13(b)(2)(B) of the Exchange Act, which requires issuers that have a class of
+securities registered pursuant to Section 12 of the Exchange Act and issuers with reporting
+obligations pursuant to Section 15(d) of the Exchange Act to devise and maintain a system of
+internal accounting controls sufficient to provide reasonable assurances that (1) transactions are
+executed in accordance with managementâs general or specific authorization; (11) transactions are
+recorded as necessary (1) to permit preparation of financial statements in conformity with
+generally accepted accounting principles or any other criteria applicable to such statements, and
+(II) to maintain accountability for assets; (111) access to assets is permitted only in accordance
+with managementâs general or specific authorization; and (iv) the recorded accountability for
+assets 1s compared with the existing assets at reasonable intervals and appropriate action is taken
+with respect to any differences.
+
+39, Finally, as a result of the conduct describe above, Margis violated Exchange Act
+Rule 13b2-1, which states that no person shall, directly or indirectly, falsify or cause to be
+falsified, any book, record, or account subject to section 13(b)(2)(A) and Rule 13b2-2, which
+states, in relevant part, that no director or office of an issuer shall, directly or indirectly: (1)
+make or cause to be made a materially false or misleading statement to an accountant in connection
+with; or (2) omit to state, or cause another person to omit to state, any material fact necessary in
+order to make statements made, in light of the circumstances under which such statements were
+made, not misleading, to an accountant in connection with: (4) any audit, review or examination of
+the financial statements of the issuer required to be made pursuant to this subpart; or (11) the
+preparation or filing of any document or report required to be filed with the Commission pursuant
+to this subpart or otherwise.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondentâs Offer.
+
+Accordingly, it is hereby ORDERED that:
+
+A. Pursuant to Section 21C of the Exchange Act, Margis cease-and-desist from
+committing or causing any violations and any future violations of Exchange Act Sections
+13(b)(2)(A), 13(b)(2)(B), and 13(b)(5) [15 U.S.C. Â§Â§ 78m(b)(2)(A), 78m(b)(2)(B) and 78m(b)(5)]
+and Rules 13b2-1 and 13b2-2 thereunder [17 C.F.R. Â§Â§ 240.13b2-1 and 240.13b2-2].
+
+B. Margis shall, within ten (10) days of the entry of this Order, pay a civil money
+penalty in the amount of $75,000 to the Securities and Exchange Commission for remission to the
+United States Treasury, subject to Exchange Act Section 21F(g)(3). If timely payment is not
+made, additional interest shall accrue pursuant to 31 U.S.C. Â§ 3717. Payment must be made in one
+of the following ways:
+
+(1) Respondent may transmit payment electronically to the Commission, which will
+provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov through the
+SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United States
+postal money order, made payable to the Securities and Exchange Commission and
+hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169.
+
+Payments by check or money order must be accompanied by a cover letter identifying
+Panasonic as Respondent in these proceedings, and the file number of these proceedings. A copy
+of the cover letter and check or money order must be sent to Charles Cain, Chief, FCPA Unit,
+
+Division of Enforcement, Securities and Exchange Commission, 100 F Street, N.E., Washington,
+DC 20549.
+V.
+
+It is further Ordered that, solely for purposes of exceptions to discharge set forth in Section
+523 of the Bankruptcy Code, 11 U.S.C. Â§ 523, the findings in this Order are true and admitted by
+Respondent, and further, any debt for civil penalty or other amounts due by Respondent under this
+Order or any other judgment, order, consent order, decree or settkement agreement entered in
+connection with this proceeding, is a debt for the violation by Respondent of the federal securities
+laws or any regulation or order issued under such laws, as set forth in Section 523(a)(19) of the
+Bankruptcy Code, 11 U.S.C. Â§ 523(a)(19).
+
+By the Commission.
+
+Brent J. Fields
+Secretary

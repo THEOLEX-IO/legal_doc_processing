@@ -1,0 +1,609 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+ES TRAD
+ay he
+
+ 
+
+In the Matter of:
+
+Merrill Lynch Commodities, Inc.,
+CFTC Docket No. 19-07
+Respondent.
+
+ 
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+from at least 2008 through 2014 (âRelevant Periodâ), Merrill Lynch Commodities, Inc, (ââMLCIâ
+or âRespondentâ) has violated Section 9(a)(2) of the Commodity Exchange Act (the âActâ or
+âCEAâ), 7 U.S.C. Â§ 13(a)(2) (2012), and, for conduct occurring on or after August 15, 2011,
+Sections 4c(a)(5)(C), 6(c)(1), and 6(c)(3) of the Act, 7 U.S.C. Â§Â§ 6c(a)(5)(C), 9(1), 9(3) (2012),
+and Regulations 180.1 and 180.2, 17 C.F.R. Â§Â§ 180.1, 180.2 (2018), of the Commission
+Regulations (âRegulationsâ), Therefore, the Commission deems it appropriate and in the public
+interest that public administrative proceedings be, and hereby are, instituted to determine
+whether Respondent engaged in the violations set forth herein and to determine whether any
+order should be issued imposing remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, except to the extent that
+Respondent admits those findings in any related action against Respondent by, or any agreement
+with, the United States Department of Justice or any other governmental agency or office,
+Respondent consents to the entry of this Order Instituting Proceedings Pursuant to Section 6(c)
+and 6(d) of the Commodity Exchange Act, Making Findings, and Imposing Remedial Sanctions
+(âOrderâ), and acknowledges service of this Order.â
+
+ 
+
+' Respondent consents to the use of the findings of fact and conclusions of law in this Order in this proceeding and
+in any other proceeding brought by the Commission or to which the Commission is a party or claimant, and agrees
+that they shal] be taken as true and correct and be given preclusive effect therein, without further proof. Respondent
+does not consent, however, to the use of this Order, or the findings or conclusions herein, as the sole basis for any
+other proceeding brought by the Commission or to which the Commission is a party or claimant, other than: a
+proceeding in bankruptcy or receivership; or a proceeding to enforce the terms of this Order. Respondent does not
+consent to the use of the Offer or this Order, or the findings or conclusions in this Order, by any other party in any
+other proceeding.
+
+(â RECEIVED CFTC
+
+   
+
+Proceedings Clerk
+
+\ 11:27 am, Jun 25, a,
+
+ 
+Il. FINDINGS
+The Commission finds the following:
+A. SUMMARY
+
+On numerous occasions throughout the Relevant Period, Respondent, by and through
+certain of its traders (âTradersâ) placed orders to buy or sell gold, silver, platinum, and palladium
+(âPrecious Metalsâ) futures contracts, traded on the Commodity Exchange, Inc. (ââCOMEXâ),
+with the intent to cancel the orders before execution. The Traders engaged in this conduct with
+the intent to manipulate market prices and ultimately did cause artificial prices. By and through
+the acts of these Traders, Respondent engaged in manipulation and attempted manipulation in
+violation of Section 9(a)(2) of the Act, 7 U.S.C. Â§ 13(a)(2) (2012), and, for conduct occurring on
+or after August 15, 2011, spoofing in violation of Section 4c(a)(5)(C) of the Act, 7 U.S.C. Â§
+6c(a)(5)(C) (2012), and manipulation and attempted manipulation in violation of Section 6(c)(1)
+and 6(c)(3) of the Act, 7 U.S.C. Â§ 9(1), 9(3) (2012), and Regulations 180.1 and 180.2, 17 C.F.R.
+Â§Â§ 180.1, 180.2 (2018).
+
+* * * * *
+
+In accepting the Offer, the Commission recognizes Respondentâs significant cooperation
+with the Division of Enforcementâs (âDivisionâ) investigation of this matter, which is explained
+in more detail below. The Commission notes that Respondentâs cooperation is reflected in the
+form of a substantially reduced civil monetary penalty.
+
+B. RESPONDENT
+
+Merrill Lynch Commodities, Inc. is a Delaware corporation engaged in, among other
+things, the trading of commodities. The company is headquartered in Houston, Texas and
+operates in various locations including New York, New York. The company is an indirectly
+wholly owned subsidiary of Bank of America Corporation (âBACâ). MLCI has been
+provisionally registered with the Commission as a Swap Dealer since December 31, 2012.
+
+On FACTS
+1. Spoofing, Manipulation, and Attempted Manipulation
+
+During the Relevant Period, in connection with its Precious Metals business, MLCI and
+affiliates employed the Traders and others at trading desks in the United States, the United
+Kingdom, and elsewhere. As part of the Precious Metals business, the Traders on behalf of
+MLCI, placed orders and entered into transactions for futures contracts in Precious Metals,
+which were traded on COMEX, a futures exchange and designated contract market which is
+owned and operated by CME Group, Inc. (âCMEâ), and options related to Precious Metals.
+
+On numerous occasions throughout the Relevant Period, the Traders manually placed
+orders for futures contracts in Precious Metals with the intent to cancel those orders before
+execution. The Tradersâ spoofing strategy frequently involved placing a relatively small bid or
+offer with the intent to execute that order (the âGenuine Orderâ) and, prior to the execution of the
+Genuine Order, placing a larger order (or multiple orders) on the opposite side of the same
+market with the intent to cancel the order or orders before execution (the âSpoof Orderâ).
+Generally, the Traders would receive a partial or complete fill of the Genuine Order and cancel
+the Spoof Order before it was filled.
+
+On occasion, certain Traders acknowledged spoofing to affect prices of Precious Metals
+futures contracts in electronic âchatâ conversations. For example, in a November 16, 2010 chat
+one of the Traders, Trader A, stated:
+
+âsuys the algos are really geared up in here. [I]f you spoof this it
+really moves... .â
+
+In another chat, on or about February 11, 2011, Trader A discussed spoofing again, offering to
+help Trader B, a trader at an entity affiliated with MLCI:
+
+Trader A: that was me pushing it
+
+Trader A: dont do it yourself I will help you
+Trader A: dont spoof it
+
+Trader A: what did you get 70 lots there?
+Trader B: ok
+
+Trader B: yep
+
+Consistent with this chat, Trader A did, in fact, engage in spoofing in the market for silver
+futures contracts.
+
+The Traders placed one or more Spoof Orders to create a false impression of buying or
+selling interest in Precious Metals futures markets, with the intent to manipulate prices to reflect
+their desired price and not the legitimate forces of supply and demand. Ultimately, the Traders
+were successful, and they executed trades at their desired price.
+
+2. Cooperation and Remediation
+
+During the course of the Divisionâs investigation of potential misconduct in the precious
+metals market, Respondent expended significant time and resources to promptly provide
+information to the Division, including a detailed data analysis, and identified relevant
+documents, which allowed the Division to conserve resources and expedite its investigation.
+Further, Respondent has worked proactively to remediate the issues, and has represented that it
+has significantly enhanced its compliance systems and policies related to spoofing and other
+manipulative conduct in Precious Metals futures contracts, and futures contracts generally.
+il. LEGAL DISCUSSION
+
+A. Spoofing in Precious Metals Futures Markets, in Violation of Section 4Â¢e(a)(5)(C) of
+the Act
+
+Section 4c(a)(5)(C) of the Act makes it unlawful for â[a]ny person to engage in any
+trading, practice, or conduct on or subject to the rules of a registered entity that . . . is, is of the
+character of, or is commonly known to the trade as, âspoofingâ (bidding or offering with the
+intent to cancel the bid or offer before execution).â 7 U.S.C. Â§ 6c(a)(5)(C) (2012).
+
+As described above, on numerous occasions during the Relevant Period, the Traders
+entered bids or offers on a registered entity with the intent to cancel the bids or offers before
+execution, in violation of Section 4c(a)(5)(C) of the Act. See, e.g., CFTC v. Oystacher, 203 F.
+Supp. 3d 934, 942 (N.D. Ill. 2016) (denying motion for judgment on the pleadings, holding that
+allegations of placing âboth bids and offers with the intent to cancel those bids or offers before
+executionâ constitutes âtrading behavior [that] falls within the Spoofing Statuteâs defined
+prohibitionâ).
+
+B. Manipulation and Attempted Manipulation of the Price of Precious Metals Futures
+Contracts, in Violation of Section 9(a)(2) of the Act, and (for Conduct Occurring on
+or After August 15, 2011) Section 6(c)(1) and 6(c)(3) of the Act and Regulations
+180.1 and 180.2
+
+Section 9(a)(2) of the Act makes it unlawful for â[a]ny person to manipulate or attempt to
+manipulate the price of any commodity in interstate commerce, or for future delivery on or
+subject to the rules of any registered entity.â 7 U.S.C. Â§ 13(a)(2) (2012).
+
+For conduct occurring on or after August 15, 2011, Section 6(c)(1) of the Act prohibits
+the use or attempted use of any manipulative or deceptive device in connection with any swap or
+contract of sale of any commodity in interstate commerce, or for future delivery, in violation of
+Regulation 180.1(a)(1), which makes it âunlawful ..., directly or indirectly, in connection with
+any swap, or contract of sale of any commodity in interstate commerce, or contract for future
+delivery on or subject to the rules of any registered entity, to... (1) [uJse... or attempt to use...
+. any manipulative device, scheme or artifice to defraud.â Section 6(c)(3) of the Act prohibits
+the manipulation or attempted manipulation of the price of any swap, or of any commodity in
+interstate commerce, or for future delivery on or subject to the rules of any registered entity, and
+Regulation 180.2 makes it âunlawful . .. directly or indirectly, to manipulate or attempt to
+manipulate the price of any swap, or of any commodity in interstate commerce, or for future
+delivery on or subject to the rules of any registered entity.â
+
+As described above, Respondent, by and through the acts of the Traders, manipulated and
+attempted to manipulate the price of Precious Metals futures contracts by utilizing manual
+spoofing techniques, in violation of: Section 9(a)(2) of the Act; and, for conduct occurring on or
+after August 15, 2011, Section 6(c)(1) and 6(c)(3) of the Act and Regulations 180.1 and 180.2.
+C. Respondent Is Liable for the Acts of Its Agents
+
+Section 2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1)(B) (2012), and Regulation 1.2,
+17 C.F.R. Â§ 1.2 (2018), provide that â[t]he act, omission, or failure of any official, agent, or other
+person acting for any individual, association, partnership, corporation, or trust within the scope
+of his employment or office shall be deemed the act, omission, or failure of such individual,
+association, partnership, corporation, or trust.â Pursuant to Section 2(a)(1)(B) of the Act and
+Regulation 1.2, strict liability is imposed on principals for the actions of their agents. See, e.g.,
+Rosenthal & Co. v. CFTC, 802 F.2d 963, 966 (7th Cir. 1986); Dohmen-Ramirez & Wellington
+Advisory, Inc. v. CFTC, 837 F.2d 847, 857-58 (9th Cir. 1988); CFTC v. Byrnes, 58 F. Supp. 3d
+319, 324 (S.D.N.Y. 2014).
+
+The Traders engaged in the conduct described herein within the course and scope of their
+employment with MLCI; therefore, pursuant to Section 2(a)(1)(B) of the Act and Regulation 1.2,
+Respondent is liable for the acts, omissions, and failures of the Traders in violation of the
+provisions of the Act and Regulations cited above.
+
+IV. FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that, during the Relevant Period, the
+Respondent, by and through its agents, the Traders, engaged in manipulation and attempted
+manipulation in violation of Section 9(a)(2) of the Act, 7 U.S.C. Â§ 13(a)(2) (2012), and, for
+conduct occurring on or after August 15, 2011, spoofing in violation of Section 4c(a)(5)(C) of
+the Act, 7 U.S.C. Â§ 6c(a)(5)(C) (2012), and manipulation and attempted manipulation in
+violation of Section 6(c)(1) and 6(c)(3) of the Act, 7 U.S.C. Â§ 9(1), 9(3) (2012), and Regulations
+180.1 and 180.2, 17 C.F.R. Â§Â§ 180.1, 180.2 (2018).
+
+Vv. OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it without admitting or denying the findings
+and conclusions herein except to the extent that Respondent admits those findings in any related
+action against Respondent by, or any agreement with, the United States Department of Justice or
+any other governmental agency or office:
+
+A. Acknowledges service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C. Waives:
+l. The filing and service of a complaint and notice of hearing;
+2. A hearing;
+
+3. All post-hearing procedures;
+Judicial review by any court;
+
+Any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+Any and all claims that it may possess under the Equal Access to Justice Act,
+
+5 ULS.C. Â§ 504 (2012) and 28 U.S.C. Â§ 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations, 17 C.F.R.
+pt.148 (2018), relating to, or arising from, this proceeding;
+
+Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, Â§Â§ 201-253, 110 Stat.
+847, 857-74 (codified in scattered sections of 5 U.S.C. and 15 U.S.C.), relating to,
+or arising from, this proceeding; and
+
+Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order;
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer;
+
+Requests, for the reasons set forth in Respondentâs letter dated June 12, 2019 (âRequest
+Letterâ), that the Commission advise that, under the circumstances, disqualification under
+Rule 262(a) of Regulation A and Rule 506(d)(1) of Regulation D of the Securities &
+Exchange Commission (âSECâ), 17 C.F.R. Â§Â§ 230.262(a), 230.506(d)(1) (2018), should
+not arise as a consequence of this Order; and
+
+Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+1.
+
+tn
+
+Makes findings by the Commission that Respondent, by and through its agents, the
+Traders, violated Section 9(a)(2) of the Act, 7 U.S.C. Â§ 13(a)(2) and, for conduct
+occurring on or after August 15, 2011, violated Sections 4c(a)(5)(C), 6(c)(1) and
+6(c)(3) of the Act, 7 U.S.C. Â§ 6c(a)(5)(C), 9(1), 9(3) (2012), and Regulations 180.1
+and 180.2, 17 C.F.R. Â§Â§ 180.1, 180.2 (2018)
+
+Orders Respondent to cease and desist from violating Sections 4c(a)(5), 6(c)(1),
+6(c)(3), and 9(a)(2) of the Act and Regulations 180.1 and 180.2.
+
+Orders Respondent to pay restitution in the amount of two million three hundred
+sixty-four thousand five hundred eighty-five dollars ($2,364,585), within ten days
+of the date of entry of this Order, plus post-judgment interest, if applicable;
+provided however, that the restitution will be offset, up to the full amount by the
+amount of any payment made pursuant to the agreement between Respondent and
+the United States Department of Justice, Criminal Division, Fraud Section entered
+into in June 2019 (âDOJ Agreementâ);
+4, Orders Respondent to pay a civil monetary penalty in the amount of eleven million
+five hundred thousand dollars ($11,500,000) within ten days of the date of entry of
+this Order, plus post-judgment interest, if applicable;
+
+5. Orders Respondent and its successors and assigns to comply with the conditions
+and undertakings consented to in the Offer and as set forth in Part VI of this Order,
+including but not limited to, Respondentâs undertaking to pay disgorgement in the
+amount of eleven million one hundred thousand dollars ($11,100,000) within ten
+days of the date of the entry of this Order, plus post-judgment interest, if
+applicable; provided, however, that the disgorgement will be offset, up to the full
+amount, by the amount of any payment made pursuant to the DOJ Agreement; and
+
+6. Advises that, under the circumstances, disqualification under Rule 262(a) of
+Regulation A and Rule 506(d)(1) of Regulation D of the SEC, should not arise as a
+consequence of this Order; and
+
+G. Represents that, in coordination with BAC, Respondent proactively engaged in remedial
+measures relating to the trading of spot, options, and futures contracts in its Precious
+Metals business and related supervision of those desks within its Precious Metals
+business, prior to the commencement of the Commissionâs investigation and thereafter,
+including enhancing its compliance program and internal controls designed to detect and
+deter potential spoofing and other manipulative conduct through, among other things:
+
+1. Enhanced policies and procedures relating to ethical behavior, prohibited conduct,
+and escalation of potential misconduct;
+
+2. Updated routine and ongoing training concerning appropriate market conduct;
+
+3. Improved transaction monitoring and communications surveillance systems and
+processes;
+
+4. Investment in enhanced transaction monitoring technology;
+5. Reviews of the compliance control framework by the internal audit functions; and
+6. Significant resources dedicated to improving its systems and controls.
+Upon consideration, the Commission has determined to accept the Offer.
+VI. ORDER
+Accordingly, IT IS HEREBY ORDERED THAT:
+A. Respondent and its successors and assigns shall cease and desist from violating Sections
+
+4e(a)(5), 6(c)(1), 6(c)(3), and 9(a)(2) of the Act, 7 U.S.C. Â§Â§ 6c(a)(5)(C), 9(1), 9(3),
+13(a)(2) (2012), and Regulations 180.1 and 180.2, 17 C.E.R. Â§Â§ 180.1, 180.2 (2018).
+B. Respondent shall pay restitution in the amount of two million three hundred sixty-four
+thousand five hundred eighty-five dollars ($2,364,585) (âRestitution Obligationâ), within
+ten days of the date of entry of this Order, If the Restitution Obligation is not paid in full
+or otherwise satisfied within ten days of the date of entry of this Order, then post-
+judgment interest shall accrue on the Restitution Obligation beginning on the date of
+entry of this Order and shall be determined by using the Treasury Bill rate prevailing on
+the date of entry of this Order pursuant to 28 U.S.C. Â§ 1961 (2012).
+
+The Restitution Obligation will be offset, up to the full amount of the Restitution
+Obligation, by the amount of any payment made pursuant to the DOJ Agreement.â
+Respondent shall provide (to the persons and addresses listed below) proof of any
+payment under the DOJ Agreement, including the case name(s) and number(s) in
+connection with which such payment has been made, and the amount by which the
+Restitution Obligation is to be reduced, within ten days of making such payment.
+
+To effect payment by Respondent and the distribution of any portion of the Restitution
+Obligation that has not been offset, the Commission appoints the National Futures
+Association (âNFAâ) as âMonitor.â The Monitor shall receive payments of the
+Restitution Obligation and any post-judgment interest from Respondent and make
+distributions as set forth below. Because the Monitor is not being specially compensated
+for these services, and these services are outside the normal duties of the Monitor, it shall
+not be liable for any action or inaction arising from its appointment as Monitor other than
+actions involving fraud.
+
+Respondent shall make its payments of any portion of the Restitution Obligation that has
+not been offset and any post-judgment interest under this Order in the name of the
+âMLCI Settlement Fundâ and shall send such payments by electronic funds transfer, or
+U.S. postal money order, certified check, bank cashierâs check, or bank money order to
+the Office of Administration, National Futures Association, 300 South Riverside Plaza,
+Suite 1800, Chicago, Illinois 60606, under a cover letter that identifies Respondent and
+the name and docket number of this proceeding. Respondent shall simultaneously
+transmit copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+
+The Monitor shall oversee Respondentâs Restitution Obligation and shall have the
+discretion to determine the manner of distribution of funds in an equitable fashion or may
+defer distribution until such time as the Monitor may deem appropriate. In the event that
+the amount of payments of the Restitution Obligation to the Monitor are of a de minimis
+nature such that the Monitor determines that the administrative cost of making a
+restitution distribution is impractical, the Monitor may, in its discretion, treat such
+restitution payments as civil monetary penalty payments, which the Monitor shall
+forward to the Commission, as discussed below. To the extent any funds accrue to the
+
+ 
+
+Â° However, such offset shall only be permitted on the condition that Respondent has fully satisfied all of its
+obligations for monetary payment pursuant to the DOJ Agreement and has provided proof, in the manner specified
+by this Order, that its monetary obligation under the DOJ Agreement has been satisfied tn its entirety.
+U.S. Treasury for satisfaction of Respondentâs Restitution Obligation, such funds shall be
+transferred to the Monitor for disbursement in accordance with the procedures set forth in
+this Order.
+
+Respondent shall pay a civil monetary penalty of eleven million five hundred thousand
+dollars ($11,500,000), within ten days of the date of the entry of this Order (âCMP
+Obligationâ). If the CMP Obligation is not paid in full within ten days of the date of
+entry of this Order, then post-judgment interest shall accrue on the CMP Obligation
+beginning on the date of entry of this Order and shall be determined by using the
+Treasury Bill rate prevailing on the date of entry of this Order pursuant to 28 U.S.C.
+
+Â§ 1961 (2012).
+
+Respondent shall pay the CMP Obligation and any post-judgment interest by electronic
+funds transfer, U.S. postal money order, certified check, bank cashierâs check, or bank
+money order. If payment is to be made other than by electronic funds transfer, then the
+payment shall be made payable to the Commodity Futures Trading Commission and sent
+to the address below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables --- AMZ 340
+E-mail Box: 9-AMC-AMZ-AR-CFTC
+DOT/FAA/MMAC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+Telephone: (405) 954-7262
+9-AMC-AR-CFTC@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Marie
+Thorne or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+
+Respondent and its successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+1, Public Statements: Respondent agrees that neither it nor any of its successors and
+assigns, agents, or employees under their authority or control shall take any action
+or make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondentâs: (i) testimonial obligations; or (ii) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondent and its successors and assigns shall comply with this agreement, and
+shall undertake all steps necessary to ensure that all of their agents and/or
+employees under their authority or control understand and comply with this
+agreement,
+
+2. Disgorgement: Respondent agrees to pay disgorgement in the amount of eleven
+million one hundred thousand dollars ($11,100,000) (âDisgorgement Obligationâ)
+within ten days of the date of the entry of this Order. If the Disgorgement
+Obligation is not paid or otherwise satisfied in full within ten days of the date of
+entry of this Order, then post-judgment interest shall accrue on the Disgorgement
+Obligation beginning on the date of entry of this Order and shall be determined by
+using the Treasury Bill rate prevailing on the date of entry of this Order pursuant
+to 28 U.S.C. Â§ 1961 (2012).
+
+The Disgorgement Obligation will be offset, up to the full amount of the
+Disgorgement Obligation, by the amount of any payment made pursuant to the
+DOJ Agreement.â Respondent shall provide (to the persons and addresses listed
+below) proof of any payment under the DOJ Agreement, including the case
+name(s) and number(s) in connection with which such payment has been made,
+and the amount by which the Disgorgement Obligation is to be reduced, within
+ten days of making such payment.
+
+Respondent shall pay any portion of the Disgorgement Obligation that has not
+been offset and any post-judgment interest by electronic funds transfer, U.S.
+postal money order, certified check, bank cashierâs check, or bank money order,
+If payment is to be made other than by electronic funds transfer, then the payment
+shall be made payable to the Commodity Futures Trading Commission and sent to
+the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+9-AMC-AR-CFTC@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact
+Marie Thorne or her successor at the above address to receive payment
+instructions and shall fully comply with those instructions. Respondent shall
+accompany payment of the Disgorgement Obligation with a cover letter that
+
+ 
+
+* However, such offset shall only be permitted on the condition that Respondent has fully satisfied all of its
+obligations for monetary payment pursuant to the DOJ Agreement and has provided proof, in the manner specified
+by this Order, that its monetary obligation under the DOJ Agreement has been satisfied in its entirety.
+
+10
+identifies Respondent and the name and docket number of this proceeding.
+Respondent shall simultaneously transmit copies of the cover letter and the form
+of payment to the Chief Financial Officer, Commodity Futures Trading
+Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C.
+20581.
+
+Cooperation with Monitor: Respondent shall cooperate with the Monitor as
+appropriate to provide such information as the Monitor deems necessary and
+appropriate to formulate a plan for the distribution of any restitution payments.
+Respondent shall execute any documents necessary to release funds that it has in
+any repository, bank, investment or other financial institution, wherever located,
+in order to make partial or total payment toward the Restitution Obligation.
+
+Cooperation, in General: Respondent shall cooperate fully and expeditiously with
+the Commission, including the Commissionâs Division of Enforcement, in this
+action, and in any current or future Commission investigation or action related
+thereto. Respondent shall also cooperate with the Commission in any
+investigation, civil litigation, or administrative matter related to, or arising from,
+the subject matter of this action.
+
+Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission of any partial payment of Respondentâs Restitution Obligation,
+Disgorgement Obligation, or CMP Obligation shall not be deemed a waiver of its
+obligation to make further payments pursuant to this Order, or a waiver of the
+Commissionâs right to seek to compel payment of any remaining balance.
+
+ 
+
+Change of Address/Phone: Until such time as Respondent satisfies in full its
+CMP Obligation as set forth in this Order, Respondent shall provide written
+notice to the Commission by certified mail of any change to its telephone number
+and mailing address within ten calendar days of the change.
+
+ 
+
+Remediation: As set forth above, MLCI represents that it has already undertaken
+and continues to undertake remedial measures to implement and strengthen its
+internal controls and procedures relating to the trading of spot, options, and
+futures contracts in its Precious Metals business and related supervision of those
+desks within its Precious Metals business. MLCI shall maintain and update its
+compliance program as appropriate to effectively detect and deter violations of
+the CEA and shall comply with the obligations relating to its corporate
+compliance program and reporting requirements as set forth in Attachments B and
+C to the DOJ Agreement.
+
+Based on the nature of the violations; the findings made, and the sanctions, conditions,
+and undertakings imposed in this Order; and the facts and representations in
+Respondentâs Request Letter, the Commission advises* that, under the circumstances,
+
+ 
+
+* Rule 506(d)(I)(Gii)(B) disqualifies an issuer from relying on the private offering exemptions provided for in Rule
+506 if they or certain related parties are âsubject to a final order of. . . [inter alia] the U.S. Commodity Futures
+Trading Commission... that: ... [c]onstitutes a final order based on a violation of any law or regulation that
+
+1]
+disqualification under Rule 262(a) of Regulation A and Rule 506(d)(1) of Regulation D
+of the SEC, 17 C.F.R. Â§Â§ 230.262(a), 230.506(d)(1) (2018), should not arise as a
+consequence of this Order.â
+
+The provisions of this Order shall be effective as of this date.
+
+By the Com edhe
+
+Chistoots 1 âWintec
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+  
+
+Dated: June 25, 2019
+
+ 
+
+prohibits fraudulent, manipulative, or deceptive conduct.â Rule 506(d)(2)(iii), however, provides that
+disqualification âshall not applyâ if the CFTC âadvises in writingâ that disqualification under Rule 506(d)(1)
+âshould not arise as a consequence of such order.â See also 17 C.F.R. Â§Â§ 262(a)(3)i1), (b)(3) (parallel provisions
+under Regulation A); SEC, Exemptions to Facilitate Intrastate and Regional Securities Offerings, 81 Fed. Reg.
+83,494, 83,545 (Nov. 21, 2016) (stating that disqualification under Rule 504 arises âabsent a waiver or other
+exception provided in Rule 506(d)â).
+
+In providing this advice, the Commission considered factors similar to those considered by the SEC when it issues
+waivers of disqualification under Regulation A and Regulation D. The SEC grants waivers where an applicant has
+shown âgood cause and ... if the [SEC] determines that it is not necessary under the circumstances that an
+exemption be denied,â 17 C.F.R. Â§Â§ 230.262(b)(2), 230.506(d)(2)(ii), based on its analysis of how the identified
+misconduct bears on the applicantâs fitness to participate in offerings exempted under Regulation A and Regulation
+D, See SEC, Div. of Corp. Fin., Waivers of Disqualification Under Regulation A and Rules 505 and 506 of
+Regulation D, https://www.sec.gov/divisions/corpfin/guidance/ disqualification-waivers.shtml; SEC, Div. of Corp.
+Fin., Rule 504 of Regulation D: A Small Entity Compliance Guide for Issuers,
+https://www.sec. gov/divisions/corpfin/guidance/rule504-issuer-small-entity-compliance.html. The SEC considers
+the following primary factors in determining whether to grant a waiver request: (i) the nature of the violation and
+whether it involved the offer or sale of securities; (ii) whether the violation required scienter; (iii) who was
+responsible for the misconduct; (iv) what was the duration of the misconduct; (v) what remedial steps have been
+taken; and (vi) the impact on the party seeking a waiver and third parties if a waiver is denied.
+
+The Commission considers these factors in the context of the markets it regulates, and also takes into account
+whether it determined that a statutory disqualification under the Act should arise solely based on the misconduct
+found herein and leading to disqualification under Regulation A and Regulation D. The Commission is guided by
+waivers granted by the SEC in prior cases involving similar facts and circumstances. See, e.g., In re JPMorgan
+Chase Bank, N.A., Securities Act Release No, 9993, 2015 WL 9256636 (Dec. 18, 2015) (SEC order determining that
+good cause had been shown that it was not necessary to deny reliance on the exemption under Rule 506 of
+Regulation D, where disqualification had been triggered by a CFTC order relating to JPMCB's failure to adequately
+disclose certain conflicts of interest to clients); Jn re UBS AG, Securities Act Release No. 9787,2015 WL 2395516
+(May 20, 2015) (SEC order determining that good cause had been shown that it was not necessary to deny reliance
+on the exemption under Rule 506, where disqualification had been triggered by a criminal guilty plea relating to FX
+benchmark manipulation); /n re Barclays PLC, Securities Act Release No. 9786, 2015 WL 2395515 (May 20, 2015)
+(SEC order determining that good cause had been shown that it was
+
+not necessary to deny reliance on the exemption under Rule 506 where disqualification had been triggered by a
+CFTC order relating to FX benchmark and ISDAFIX manipulation); see also, e.g., Piper Jaffray & Co., SEC No-
+Action Letter, 2015 WL 4451053 (uly 20, 2015) (SEC no-action letter determining that good cause had been shown
+that it was not necessary to deny reliance on the exemptions under Regulation A and Rule 506 of Regulation D,
+where disqualification had been triggered by an SEC order, and applying the same factors to consideration of waiver
+for both exemptions),
+
+12

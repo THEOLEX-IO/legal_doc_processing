@@ -1,0 +1,351 @@
+ 
+
+UNITED STATES OF AMERICA (â RECEIVED CFTC )
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+ 
+
+IN THE MATTER OF: Proceedings Clerk
+
+ 
+
+ 
+
+ 
+
+0:00 am Sep 28, 2017 yy
+TILLAGE COMMODITIES, LLC
+CFTC DOCKET NO. 17 -â27
+
+ 
+
+RESPONDENT.
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I.
+
+The Commodity Futures Trading Commission (âCommissionââ) has reason to believe
+Tillage Commodities, LLC (âRespondentâ) violated Commission Regulation (âRegulationâ)
+166.3, 17 C.F.R. Â§ 166.3 (2017). Therefore, the Commission deems it appropriate and in the
+public interest that public administrative proceedings be, and hereby are, instituted to determine
+whether Respondent engaged in the violation set forth herein and to determine whether any order
+should be issued imposing remedial sanctions.
+
+Il.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
+Exchange Act Making Findings, and Imposing Remedial Sanctions (âOrderâ) and acknowledges
+service of this Order.'
+
+ 
+
+' Respondent consents to the entry of this Order and to the use of these findings in this
+proceeding and in any other proceeding brought by the Commission or to which the Commission
+is a party; provided, however, that Respondent does not consent to the use of the Offer, or the
+findings or conclusions in this Order consented to in the Offer, as the sole basis for any other
+proceeding brought by the Commission, other than in a proceeding in bankruptcy or to enforce
+the terms of this Order. Nor does Respondent consent to the use of the Offer or this Order, or the
+findings or conclusions in this Order consented to in the Offer, by any other party in any other
+proceeding.
+II.
+The Commission finds the following:
+
+A. SUMMARY
+
+From at least March 3, 2016 through March 24, 2016 (âRelevant Periodâ), Respondent, a
+registered commodity pool operator (âCPOâ), failed to supervise diligently its fund
+administratorâs operation of the commodity poolâs bank account containing participantsâ funds
+(âpool bank accountâ).â Respondent also failed to ensure that certain aspects of its compliance
+and supervision programs comported with its obligations to supervise diligently the handling by
+its partners, officers, employees, and agents of all activities relating to its business as a
+Commission registrant. These failuresâwhich delayed detection of an ongoing fraud, resulting
+
+in a $5.9 million loss of pool participantsâ funds, or 64% of the poolâs total capitalâwere in
+violation of Commission Regulation 166.3, 17 C.F.R. Â§ 166.3 (2017).
+
+B. RESPONDENT
+
+Tillage Commodities, LLC has been registered as a CPO with the Commission since
+2013. Its principal office is located in Stamford, Connecticut.
+
+C. FACTS
+
+Respondent used a third-party fund administrator to provide administrative services,
+which included operating the pool bank account; processing and disbursing customer
+redemptions and/or withdrawals; and maintaining books and records. Pursuant to the agreement
+with the fund administrator, Tillage Commodities Management, LLC? was required to
+âdesignate a member of [its] Management to oversee the record-keeping and administrative
+services provided by [the fund administrator]â and âreview and approve all reports, analyses and
+books and records resulting from the aforementioned services.â During the Relevant Period,
+Respondent kept a majority of pool participantsâ funds in the pool bank account as opposed to
+the poolâs trading account.
+
+During the Relevant Period, over the course of twenty-one days, the fund administrator
+received seven fraudulent requests to transfer funds from the pool bank account, five of which
+were successfully processed. These unauthorized transfers to two purported private technology
+companies in Hong Kong ranged in amount from $200,000 to $3 million. These requests were
+made by an unknown party who spoofed Respondentâs managing memberâs email address and
+sent requests that imitated, in some respects, Respondentâs typical transfer requests.
+
+ 
+
+Â° Respondent operates the commodity pool Tillage Commodities Fund, LP. The referenced bank
+account was held in the name of the commodity pool.
+
+, Tillage Commodities Management, LLC, the investment manager of Respondentâs commodity
+pool, is the signatory to the agreement with Respondentâs fund administrator.
+Although only the fund administrator had the right to make withdrawals from the pool
+bank account, Respondent did not have any procedures in place to monitor the fund
+administratorâs operation of this account. Instead, during the period when the fraud occurred,
+Tillage only reviewed the pool bank accountâs balance once during the month to verify its
+calculation of the poolâs net asset value. Respondent also did not have any system in place to
+alert it when transactions cleared from the account. Furthermore, while Respondent could
+review the activity in the account on the bankâs website, from January 7, 2016 to March 24,
+2016, Respondent failed to do so. The inadequacy of Respondentâs supervision of its agent
+regarding wire transfers and the operation of the pool bank account, and its policies and systems,
+are evidenced by the fact that Respondent only became aware of the multiple fraudulent transfers
+on March 24, 2016 when the fund administrator notified Respondent of the seventh suspicious
+wire transfer request. These failures delayed detection of the ongoing fraud, which resulted in a
+$5.9 million loss of pool participantsâ funds, or 64% of the poolâs total capital."
+
+IV.
+LEGAL DISCUSSION
+
+Regulation 166.3, 17 C.F.R. Â§ 166.3 (2017), requires that every Commission registrantâ
+âdiligently supervise the handling by its partners, officers, employees and agentsâ of all activities
+relating to its business as a registrant. See In re FCStone, LLC, CFTC No. 15-21, 2015 WL
+2066891, at *2 (May 1, 2015) (consent order). Regulation 166.3 imposes upon a registrant an
+affirmative duty to supervise its employees and agents diligently by establishing, implementing
+and executing an adequate supervisory structure and compliance program. Jn re Vision
+Financial Markets, CFTC No. 13-36, 2013 WL 5376144, at *2 (Sept. 24, 2013) (consent order).
+For a registrant to fulfill its duties under Regulation 166.3, it must both design an adequate
+program of supervision and ensure that the program is followed. In re GNP Commodities, Inc.,
+CFTC No. 89-1, 1992 WL 201158, at *17-19 (Aug. 11, 1992), aff'd sub nom. Moneison v.
+CFTC, 996 F.2d 852 (7th Cir. 1993).
+
+A violation of Regulation 166.3 is an independent violation for which no underlying
+violation is necessary. FCStone, 2015 WL 2066891, at *7; In re FCStone LLC, CFTC No. 13-
+24, 2013 WL 2368539, at *17 (May 29, 2013) (consent order); In re Forex Capital Mkts. LLC,
+CFTC No. 12-01, 2011 WL 4689390, at *3 (Oct. 3, 2011) (consent order); In re First National
+Trading Corp., CFTC No. 92-17, 1994 WL 378010, at *10 (July 20, 1994) (citing In re Paragon
+Futures Assân, CFTC No. 88-18, 1992 WL 74261 (Apr. 1, 1992)). Consequently, a violation of
+Regulation 166.3 is demonstrated by showing either that: (1) the registrantâs supervisory system
+
+ 
+
++A majority of the funds held by the pool were attributable to a single participant, who is also
+the managing member of the Respondent. Notably, following discovery of the fraud,
+Respondent communicated with the pool participants immediately and offered them the option to
+redeem, in full or in part, their balance in the pool prior to the fraud. Most participants have
+received a full redemption; however, a few participants have opted not to redeem.
+
+> An exception to this obligation exists for associated persons who do not have not supervisory
+duties.
+was generally inadequate, or (2) the registrant failed to perform its supervisory duties diligently.
+FCStone, 2015 WL 2066891, at *3 (citing In re Murlas Commodities, CFTC No. 85-29, 1995
+WL 523563 (Sept. 1, 1995)); Paragon, 1992 WL 74261, at *14 (concluding that the âfocus of
+any proceeding to determine whether Rule 166.3 has been violated will be on whether [a] review
+[has] occurred and, if it did, whether it was âdiligentââ); GNP Commodities, 1992 WL 201158, at
+*19 (providing that, even if an adequate supervisory system is in place, Regulation 166.3 can still
+be violated if the supervisory system is not diligently administered).
+
+While the absence of a written policy or formal training on every issue does not
+constitute a failure to supervise, Regulation 166.3 explicitly requires all registered CPOs to
+diligently supervise all activities of its officers, employees, and agents relating to its business as
+a CPO. Under Regulation 166.3, a registrant has a âduty to develop procedures for the âdetection
+and deterrence of [CEA violations] by its agents.ââ Samson Refining Co. v. Drexel Burnham
+Lambert, Inc., CFTC No. 82-R448, 1990 WL 282783, at *11 (Feb. 16, 1990). A registrantâs
+failure to develop proper procedures for the detection of wrongdoing can evidence the lack of an
+adequate supervisory system. See CFTC y. Sidoti, 178 F.3d 1132 (11th Cir. 1999); In re Open E
+Cry, CFTC No. 12-24, 2012 WL 10259805, at *6 (June 7, 2012) (consent order). Whether a
+registrant has met its supervisory duties is a fact-intensive determination. See, e.g.,GNP
+Commodities, 1992 WL 201158, at *17.
+
+A CPO may delegate the performance of certain services to a fund administrator,
+including those services delegated by the Respondent in this case. In contracting with an agent
+to perform these services, however, a CPO cannot abdicate its responsibilities under Regulation
+166.3 and must diligently supervise the agentâs handling of all activities relating to the CPOâs
+business as a Commission registrant. The protection of pool participantsâ funds must be of
+paramount concern for a CPO. Consequently, the management and oversight by a CPO of its
+poolâs bank account, which is comprised of pool participantsâ funds, squarely falls within the
+scope of Regulation 166.3. Here, Respondentâs failure to diligently supervise its fund
+administratorâs operation of the pool bank account, resulting in a significant loss of participantsâ
+funds, constitutes a violation of Regulation 166.3. Further, Respondent also failed to develop
+and implement policies and procedures reasonably designed to detect unauthorized or fraudulent
+withdrawals of pool participantsâ funds from the pool bank account. These failures are
+evidenced by the fact that for twenty-one days, Respondent was unaware of the five large
+withdrawals of funds from the pool bank account and only became aware of such withdrawals
+upon notification from its fund administrator.
+
+V.
+FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that, during the Relevant Period,
+Respondent violated Regulation 166.3, 17 C.F.R. Â§ 166.3 (2017).
+A.
+
+B.
+
+VI.
+
+OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+Acknowledges receipt of service of this Order;
+
+Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+Waives:
+
+1. The filing and service of a complaint and notice of hearing;
+
+2. A hearing;
+
+3. All post-hearing procedures;
+
+4. Judicial review by any court;
+
+5. Any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+6. Any and all claims that it may possess under the Equal Access to Justice Act,
+5 U.S.C. Â§ 504 (2012) and 28 U.S.C. Â§ 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Commissionâs
+Regulations, 17 C.F.R. Â§Â§ 148.1-30 (2017), relating to, or arising from, this
+proceeding;
+
+7. Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, Â§Â§ 201-253,
+110 Stat. 847, 857-868 (1996), as amended by Pub. L. No. 110-28, Â§ 8302,
+121 Stat. 112, 204-205 (2007), relating to, or arising from, this proceeding; and
+
+8. Any claims of Double Jeopardy based on the institution of this proceeding or the
+
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer;
+
+Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+1.
+
+Makes findings by the Commission that Respondent violated Regulation 166.3,
+17 C.F.R. Â§ 166.3 (2017);
+2. Orders Respondent to cease and desist from violating Regulation 166.3;
+
+3. Orders Respondent to pay one hundred fifty thousand dollars ($150,000), plus
+post-judgment interest; and
+
+4. Orders Respondent and its successors and assigns to comply with the conditions
+consented to in the Offer and as set forth in Part VII of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VIL.
+
+ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent shall cease and desist from violating Regulation 166.3, 17 C.F.R. Â§ 166.3
+(2017).
+
+Respondent shall pay a civil monetary penalty in the amount of one hundred fifty
+thousand dollars ($150,000) (âCMP Obligationâ), plus post-judgment interest. Post-
+judgment interest shall accrue on the CMP Obligation beginning on the date of entry of
+this Order and shall be determined by using the Treasury Bill rate prevailing on the date
+of entry of this Order pursuant to 28 U.S.C. Â§ 1961 (2012).
+
+Respondent shall pay the CMP Obligation within ten (10) days of the date of entry of the
+Order by electronic funds transfer, U.S. postal money order, certified check, bank
+cashierâs check, or bank money order. If payment is to be made other than by electronic
+funds transfer, then the payment shall be made payable to the Commodity Futures
+Trading Commission and sent to the address below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables
+DOT/FAA/MMAC/AMZ-341
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+
+nikki.gibson @ faa. gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Nikki
+Gibson or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+
+C. Respondent and its successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+t. Public Statements: Respondent agrees that neither it nor any of its successors and
+assigns, agents or employees under its authority or control, shall take any action
+or make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondentâs: (i) testimonial obligations; or (ii) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondent and its successors and assigns shall undertake all steps necessary to
+ensure that all of its agents and/or employees under its authority or control
+understand and comply with this agreement.
+
+Be Cooperation with the Commission: Respondent shall cooperate fully and
+expeditiously with the Commission, including the Commissionâs Division of
+Enforcement, and any other governmental agency in this action, and in any
+investigation, civil litigation, or administrative matter related to the subject matter
+of this action or any current or future Commission investigation related thereto.
+
+3: Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission of any partial payment of Respondentâs CMP Obligation shall
+not be deemed a waiver of their obligation to make further payments pursuant to
+this Order, or a waiver of the Commissionâs right to seek to compel payment of
+any remaining balance.
+
+4, Change of Address/Phone: Until such time as Respondent satisfies in full its
+CMP Obligation as set forth in this Consent Order, Respondent shall provide
+written notice to the Commission by certified mail of any change to its telephone
+number and mailing address within ten (10) calendar days of the change.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+(Bsd. | Abb.
+
+Christopher J. Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: September 28, 2017

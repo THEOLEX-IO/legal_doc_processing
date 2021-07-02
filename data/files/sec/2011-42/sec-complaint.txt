@@ -1,0 +1,286 @@
+UNITED STATES DISTRICT COURT
+FOR THE
+DISTRICT OF COLUMBIA
+
+ 
+
+SECURITIES AND EXCHANGE COMMISSION,
+100 F Street, N.E.
+Washington, DC 20549
+
+ 
+
+Plaintiff, : C.A. No.
+v.
+TYSON FOODS, INC.,
+2200 Don Tyson Parkway
+Springdale, AR 72762
+Defendant.
+COMPLAINT
+
+Plaintiff, Securities and Exchange Commission (âthe Commissionââ) alleges:
+NATURE OF THE ACTION
+
+1. The Commission brings this action based on violations by Tyson Foods, Inc.
+(âTyson Foodsâ) of the anti-bribery, books and records and internal controls provisions of the
+Foreign Corrupt Practices Act (âFCPAââ). During fiscal years 2004 through 2006, Tyson de
+Mexico, a wholly-owned subsidiary of Tyson Foods, made corrupt payments of more than
+$100,000 to two Mexican-state veterinarians. Tyson de Mexico made the payments to the
+veterinarians in order to obtain or retain business by influencing the decisions of the
+veterinarians responsible for certifying Tyson de Mexico products for export under the Tipo de
+Inspeccion Federal (âTIFââ) Inspection Program, an inspection program for meat-processing
+
+facilities administered by Mexicoâs federal government. As a result of the payments, Tyson
+Foods realized net profits of more than $880,000 from export sales from its Tyson de Mexico
+facilities in fiscal years 2004, 2005 and 2006.
+
+2. Tyson de Mexicoâs improper payments to the veterinarians were concealed by
+Tyson de Mexico in the form of âsalariesâ paid to the wives of the veterinarians, even though the
+wives did not perform any services for Tyson de Mexico, and through payments made pursuant
+to invoices submitted by one of the veterinarians. Tyson Foods violated the anti-bribery
+provisions of the FCPA because the veterinarians were Mexican government officials during the
+relevant time period, Tyson Foods authorized Tyson de Mexicoâs illicit activities, and the
+improper payments were made for the purpose of obtaining or retaining business.
+
+3. In connection with these improper payments, Tyson Foods failed to keep accurate
+books and records and failed to have effective internal controls, as the true nature of the
+payments were concealed through salary payments to phantom employees and through service
+invoices submitted by one of the veterinarians. The improper payments were improperly
+recorded as legitimate expenses in Tyson de Mexicoâs books and records and included in Tyson
+de Mexicoâs reported financial results for fiscal years 2004, 2005 and 2006. Tyson de Mexicoâs
+financial results were, in turn, a component of Tyson Foodsâ consolidated financial statements
+filed with the Commission for those years.
+
+4. Plaintiff brings this action to enjoin such acts and practices, which violate
+Sections 30A, 13(b)(2)(A) and 13(b)(2)(B) of the Securities Exchange Act of 1934 (âExchange
+Actâ) [15 U.S.C. Â§Â§ 78dd-1, 78m(b)(2)(A) and 78m(b)(2)(B)].
+
+5. The defendant may, unless restrained and enjoined, continue to engage in the acts
+
+and practices set forth in this Complaint and in acts and practices of similar purport and object.
+JURISDICTION
+
+6. This Court has jurisdiction over this action pursuant to Sections 21(d), 21(e), and
+27 of the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e), and 78aa]. The Defendant made use of the
+means or instrumentalities of interstate commerce, of the mails, or the facilities of a national
+securities exchange in connection with the acts, transactions, practices, and courses of business
+alleged herein.
+
+DEFENDANT
+
+7. Tyson Foods, including its subsidiaries, is, and was during the relevant time
+period, a global multi-industry company engaged in the production of various meat proteins and
+the second-largest food production company in the Fortune 500. The Companyâs operations are
+conducted in four segments: Chicken, Beef, Pork and Prepared Foods. The Company has
+approximately 117,000 employees at more than 400 facilities and offices in the United States and
+abroad. Ninety-three percent of its employees are based in the United States. The Companyâs
+Chicken segment, which includes Tyson de Mexico, is primarily involved in the processing of
+live chickens into fresh, frozen and value-added chicken products. The team within Tyson Foods
+referred to as Tyson International sells certain products in foreign marketsâprimarily Canada,
+Central America, China, the European Union, Japan, Mexico, Russia, South Korea, and Taiwan.
+Tyson Foodsâ export sales from the United States totaled $2.1 billion for each of fiscal 2004,
+2005, and 2006. The principal executive offices of Tyson Foods are located in Springdale,
+Arkansas. During the relevant time period, Tyson Foodsâ common stock was registered with the
+Commission pursuant to Section 12(b) of the Exchange Act and was listed on the New York
+Stock Exchange. Thus, during the relevant time period, Tyson Foods was an âissuerâ as that
+
+term is defined in Section 3(a)(8) of the Exchange Act [15 U.S.C. Â§ 78(c)(a)(8)].
+
+3
+FACTS
+Background
+
+8. Tyson Foods provides products and services to customers throughout the United
+States and more than 90 countries.
+
+9. Tyson de Mexico is a wholly-owned subsidiary of Tyson Foods. It is
+headquartered in Gomez Palacio, Mexico and consists of three processing facilitiesâLa Citra; El
+Porvenir; and La Popular. Tyson de Mexico produces protein-based and prepared food products
+that comprise approximately 1% of Tyson Foodsâ total net sales. Tyson de Mexico no longer
+exports products from Mexico. Tyson Foods had consolidated revenues of $26.4 billion in fiscal
+year 2004, $26 billion in fiscal year 2005 and $25.6 billion in fiscal year 2006, which included
+Tyson de Mexicoâs revenues of approximately $287 million in fiscal year 2004, $322 million in
+fiscal year 2005 and $315 million in fiscal year 2006.
+
+Illicit Payments to Mexican-State Veterinarians
+
+10. In order to export products, meat-processing facilities in Mexico must obtain
+certification by the TIF Programâan inspection program for meat-processing facilities
+administered by Mexicoâs federal government that is supervised by an office in the Mexican
+Department of Agriculture. Pursuant to the export protocols of the TIF Program, processing
+facilities in Mexico are required to use state-of-the-art technologies and must adhere to the
+highest sanitary standards and most advanced technological processing levels. Plant services
+covered by the TIF Program include slaughtering, carcass handling, packaging, refrigerated
+storage, and preparation of processed products for exports.
+
+11. During the period of fiscal 2004 through 2006, Tyson de Mexico participated in
+
+the official TIF Program in order to export goods to Japan and other countries. In addition, some
+
+4
+of Tyson de Mexicoâs domestic customers asked that the company have its products TIF-
+certified.
+
+12. During the relevant time period, the two veterinarians who received improper
+payments served as the official TIF veterinarians at Tyson de Mexicoâs El Porvenir and La Citra
+facilities. As official TIF veterinarians, their salaries were paid by the Mexican government.
+Tyson de Mexico, however, made additional, improper payments of approximately $100,311 to
+the veterinarians during fiscal years 2004 through 2006 on a monthly or semi-monthly basis.
+The payments were made primarily to influence the decisions of the veterinarians responsible for
+certifying Tyson de Mexico products for export under the TIF Program in order to obtain or
+retain business for Tyson de Mexico. Some of these improper payments were concealed by
+Tyson de Mexico in the form of âsalariesâ paid to the wives of the veterinarians for no-show
+jobs; 1.e., the wives were included on Tyson de Mexicoâs payroll, yet they provided no services
+to the company. Other payments were reflected in invoices submitted to Tyson de Mexico by
+one of the veterinarians for âservices.â
+
+Tyson Foods Learns of 'Tyson de Mexicoâs Payments But Payments Continue
+
+13. A Tyson de Mexico plant manager discovered the wives on the payroll in June
+2004 and informed a Tyson Foods accountant of the situation.
+
+14. On July 2, 2004, certain Tyson Foods and Tyson International officials met in
+Springdale, Arkansas to discuss problems with an ongoing audit of Tyson de Mexico involving
+issues unrelated to the TIF veterinarians. At that meeting, a Tyson Foods accountant informed
+the attendees of the improper payments to the veterinarians. At a second meeting held a few
+days later, additional senior officials of Tyson Foods and Tyson International learned of the
+
+payments to the veterinarians and their wives.
+15. During a July 7, 2004 meeting held in Springdale, Arkansas, senior management
+of Tyson Foods and Tyson International agreed that Tyson de Mexico should cease making the
+payroll payments to the wives. At this meeting, senior management of Tyson Foods and Tyson
+International also discussed whether and how the companies could continue paying the
+veterinarians legally. Three participants were tasked with looking into the matter more closely.
+
+16. In mid July of 2004, a Tyson International official communicated with a senior
+officer of Tyson Foods concerning the improper payments to the TIF veterinarians.
+
+17. On or around July 29, 2004, two officers of Tyson International and others met in
+Mexico to discuss the payments to the TIF veterinarians. In the meeting, the participants
+discussed replacing the payroll payments to the veterinariansâ wives with invoice payments to
+one of the veterinarians. An executive of Tyson International approved this approach.
+
+18. The wives remained on Tyson de Mexicoâs payroll through August 2004 when an
+executive of Tyson International instructed a manager at Tyson de Mexicoâs facilities to remove
+the wives from the payroll. Accordingly, on or around August 27, 2004, a Tyson de Mexico
+employee in human resources sent an email to an accountant at Tyson de Mexico with an
+attachment stating, in part, â2.-TIF-BOTH PERSONS WILL BE PULLED OUT OF THE
+PAYROLL ON AUGUST 31. EQUIVALENT PAYMENT WILL BE ADDED TO THE
+INVOICE OF ONE OF THEM ISSUE [sic] EVERY MONTH. THE NEW PAYMENT WITH
+INVOICE WILL BE THE ONLY ONE AND WILL BE $30,700 PS/MTH.â
+
+19. In or around August 2004, consistent with the August 27, 2004 e-mail, the amount
+of the service invoices submitted by one of the veterinarians increased dramatically, from
+
+approximately $1,200 per month to $2,700 per month. The Tyson de Mexico general manager
+indicated that the increase in invoice payments was the sum of the wivesâ salary and the money
+they would need to buy health insurance.
+
+20. Tyson de Mexico continued to pay the service invoices in order to obtain or retain
+business by influencing the decisions of the veterinarians responsible for certifying Tyson de
+Mexico products for export under the TIF Program. Finally, two years later in the fall of 2006,
+counsel for Tyson Foods instructed Tyson de Mexico to cease making the invoice payments to
+the veterinarian.
+
+21. Tyson Foods violated the anti-bribery provisions of the FCPA because the
+veterinarians were Mexican government officials during the relevant time period and Tyson
+Foods authorized Tyson de Mexicoâs illicit activities. These improper payments were made for
+the purpose of obtaining or retaining business. In connection with these improper payments,
+Tyson Foods failed to keep accurate books and records and failed to have effective internal
+controls, as the true nature of the payments were concealed through salary payments to the
+veterinarianâs wives and through service invoices submitted by one of the veterinarians. These
+corrupting payments were improperly recorded as legitimate expenses in Tyson de Mexicoâs
+books and records and included in Tyson de Mexicoâs reported financial results for fiscal years
+2004, 2005 and 2006. Tyson de Mexicoâs financial results were, in turn, a component of Tyson
+Foodsâ consolidated financial statements filed with the Commission for those years.
+
+FIRST CLAIM FOR RELIEF
+Violations of Section 30A of the Exchange Act
+22. Paragraphs | through 21 above are realleged and incorporated by reference
+
+herein.
+23. As set forth more fully above, Tyson Foods violated the anti-bribery provisions of
+the FCPA when it authorized illicit payments by its subsidiary which corruptly made payments
+to foreign officials for the purpose of influencing their acts or decisions in their official capacity,
+inducing them to do or omit to do actions in violation of their lawful duties, securing an improper
+advantage, or inducing such foreign officials to use their influence with a foreign government or
+instrumentality thereof to assist Tyson Foods in obtaining or retaining business.
+
+24. As a result of the foregoing, Tyson Foods violated Section 30A of the Exchange
+Act [15 U.S.C. Â§ 78dd-1].
+
+SECOND CLAIM FOR RELIEF
+Violations of Section 13(b)(2)(A) of the Exchange Act
+
+25. Paragraphs | through 21 above are realleged and incorporated by reference
+herein.
+
+26. As set forth more fully above, Tyson Foods failed to make and keep books,
+records, or accounts that, in reasonable detail, accurately and fairly reflected the transactions and
+disposition of its assets.
+
+27. As a result of the foregoing, Tyson Foods violated Section 13(b)(2)(A) of the
+Exchange Act [15 U.S.C. Â§ 78m(b)(2)(A)].
+
+THIRD CLAIM FOR RELIEF
+Violations of Section 13(b)(2)(B) of the Exchange Act
+
+28. Paragraphs | through 21 above are realleged and incorporated by reference
+herein.
+
+29. As set forth more fully above, Tyson Foods failed to devise and maintain a system
+
+of internal accounting controls sufficient to provide reasonable assurances that: (1) payments
+
+8
+were recorded to permit preparation of financial statements in conformity with generally
+accepted accounting principles; and (11) payments were recorded as necessary to maintain
+accountability for its assets.
+
+30. As a result of the foregoing, Tyson Foods violated Section 13(b)(2)(B) of the
+Exchange Act [15 U.S.C. Â§ 78m(b)(2)(B)].
+
+PRAYERS FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court enter a Final
+Judgment:
+
+(a) permanently restraining and enjoining defendant Tyson Foods, its officers, agents,
+employees, assigns, attorneys, and those persons in active concert or participation with them who
+receive actual notice of the Final Judgment, and each of them, from violating Section 30A,
+13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C. 88 78dd-1, 78m(b)(2)(A) and
+78m(b)(2)(B)I;
+
+(b) ordering defendant Tyson Foods to disgorge profits derived from Mexican export
+sales resulting from its inappropriate payments to the veterinarians during fiscal years 2004
+through 2006 and pay prejudgment interest on those amounts; and
+
+(c) granting such other and further relief as this Court deems just and appropriate
+
+under the circumstances.
+Dated: February 10, 2011
+Washington, D.C.
+
+Of Counsel:
+
+Gerald W. Hodgkins (DC Bar No. 447678)
+Conway T. Dodge, Jr.
+Allen A. Flood, Jr.
+
+10
+
+ 
+
+Frederick L. Block (DC Bar No. 492358)
+U.S. Securities and Exchange Commission
+100 F Street, N.E.
+
+Washington, D.C. 20549
+
+Telephone: (202) 551- 4919
+
+Facsimile: (202) 772-9245
+
+blockf@sec.gov
+
+Attorneys for Plaintiff

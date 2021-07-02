@@ -1,0 +1,62 @@
+Release Number 7683-18
+January 29, 2018
+
+CFTC Orders UBS to Pay $15 Million Penalty for Attempted Manipulation and Spoofing In
+the Precious Metals Futures Markets
+
+UBSâs Penalty Was Substantially Reduced in Recognition of Its Self-Reporting, Cooperation
+and Remediation
+
+Washington, DC â The Commodity Futures Trading Commission (CFTC) today issued an Order filing and settling
+charges against UBS AG (UBS), requiring UBS to pay a $15 million civil monetary penalty and to undertake remedial
+relief. The Order finds that from January 2008 through at least December 2013, UBS, by and through the acts of certain
+precious metals traders on the spot desk (Traders), attempted to manipulate the price of precious metals futures
+contracts by utilizing a variety of manual spoofing techniques with respect to precious metals futures contracts traded on
+the Commodity Exchange, Inc. (COMEX), including gold and silver, and by trading in a manner to trigger customer stop-
+loss orders.
+
+CFTCâs Director of Enforcement Comments
+
+James McDonald, the CFTCâs Director of Enforcement, commented: âTodayâs enforcement action demonstrates the
+Commissionâs continued commitment to root out manipulation and spoofing in our markets. At the same time, this action
+shows that the CFTC will recognize and reward market participants who self-report misconduct, cooperate in the
+investigation, and remediate to fix the problems. Over the past year, the Division has worked to enhance its self-
+reporting and cooperation program, including through the announcement of new cooperation advisories. The resolution
+in this case, and the substantially reduced penalty for UBS, should send a strong signal to the market that the
+Commission takes seriously the benefits of self-reporting and cooperation. In addition, todayâs actions reinforce the point
+of our whole cooperation programâwhich is to identify and hold individuals accountable for misconduct, and not just the
+companies that employ them.â
+
+Further, as a reflection of the Divisionâs enhanced self-reporting and cooperation program, todayâs action shows that the
+Commission will recognize and give meaningful credit to companies that substantially cooperate in our investigations and
+proactively undertake remedial efforts.â
+
+According to the Order, the Traders placed relatively large bids or offers with the intent to cancel before execution (spoof
+orders) after another smaller bid or offer (resting orders) had been placed on the opposite side of the market. According
+to the Order, the Traders placed their spoof orders with the intent to create the false appearance of market depth, which
+the Traders believed and intended to create the impression of greater buying or selling interest than would have existed
+otherwise. The Order finds that, in engaging in the misconduct, UBS, by and through the acts of the Traders, also
+intended to manipulate the price of the relevant futures contract.
+
+In addition, the Order finds that on certain other occasions between December 2009 through February 2012, UBS, by and
+through the acts of one of the Traders, placed orders and executed trades to attempt to manipulate the price of precious
+metals futures contracts in order to trigger customer stop-loss orders and obtain a profit on proprietary trading.
+
+The Order finds that this conduct violated the Commodity Exchange Act and Commission Regulations and imposes a civil
+monetary penalty of $15 million, orders UBS to cease and desist from further violations, and to take specified steps to
+maintain and implement training programs and systems and controls to detect and deter spoofing by UBS personnel.
+The Order recognizes that UBS self-reported the misconduct, cooperated with the investigation and proactively took
+remedial steps. As a result, the civil monetary penalty imposed by the Commission has been substantially reduced.
+
+The CFTC thanks and acknowledges the assistance of the U.S. Department of Justice, the Federal Bureau of Investigation,
+the Chicago Mercantile Exchange, Inc. and the UK Financial Conduct Authority.
+
+This case is brought in connection with the CFTC Division of Enforcementâs Spoofing Task Force, and the staff members
+responsible for this case are Lara Turcik, David Oakland, Neel Chopra, Katie Rasor, Sam Wasserman, Brandon Wozniak,
+Alben Weinstein, Patryk J. Chudy, Lenel Hickson, Jr., and Manal M. Sultan.
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: January 29, 2018

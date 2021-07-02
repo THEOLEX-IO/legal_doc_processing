@@ -1,0 +1,478 @@
+2:13-cv-02279 #1 Pagei1of14 E-FILED
+
+Friday, 20 December, 2013 10:45:58 AM
+Clerk, U.S. District Court, ILCD
+
+UNITED STATES DISTRICT COURT
+CENTRAL DISTRICT OF ILLINOIS
+Urbana Division
+
+)
+SECURITIES AND EXCHANGE )
+COMMISSION, )
+Plaintiff, )
+Vv. ) Case No. 2:13-cv-2279
+)
+ARCHER-DANIELS-MIDLAND ) Equitable Relief is Sought
+COMPANY, )
+Defendant. )
+COMPLAINT
+
+Plaintiff Securities and Exchange Commission (the âCommissionââ) alleges the following
+
+against Defendant Archer-Daniels-Midland Company (âADMâ or the âCompanyââ):
+
+NATURE OF THE ACTION
+
+1. This matter involves violations of the books and records and internal controls
+provisions of the Foreign Corrupt Practices Act (âFCPAâ) by ADM. At certain times between
+2002 and 2008, Alfred C. Toepfer, International G.m.b.H. (âACTI Hamburgâ) and its affiliate,
+Alfred C. Toepfer, International (Ukraine) Ltd. (âACTI Ukraineâ) paid approximately $22
+million to two third-party vendors so that they could pass on nearly all of that money as bribes to
+Ukrainian government officials to obtain over $100 million in accumulated value added tax
+(âVATâ) refunds. These payments were recorded by ACTI Hamburg and ACTI Ukraine in their
+books and records as insurance premiums and other business expenses. ADM indirectly owns a
+majority of ACTI Hamburg and ACTI Ukraine through its 80% interest in Alfred C. Toepfer
+International B.V. (âACTTâ), and in 2002, ADM began consolidating ACTIâs financial results
+
+into its financial statements.
+2. In order to disguise the purpose of these improper payments, ACTI Hamburg and
+ACTI Ukraine made certain payments for export-related services and insurance premiums to
+third parties, but, in fact, nearly all of these payments were intended to be passed on through
+these third parties as bribes to Ukrainian government officials in exchange for obtaining VAT
+refunds for and on behalf of ACTI Ukraine.
+
+3. ACTIâs conduct went unchecked by ADM, and ACTI continued to make these
+improper payments for several years. ADMâs anti-bribery compliance controls in existence at
+the time were insufficient in that they did not deter and detect these payments. ACTI Hamburg
+and ACTI Ukraine created inaccurately described reserves in their books and records,
+manipulated commodities contracts that were kept open for an extended period of time,
+structured payments to avoid detection, and created fictitious insurance contracts to hide from
+ADM and others the payments to third-parties to secure VAT refunds in Ukraine.
+
+4. Due to the consolidation of ACTIâs financial results, which included these
+inaccurately characterized payments, into ADMâs books and records, ADM violated Section
+13(b)(2)(A) of the Securities Exchange Act of 1934 (âExchange Actâ). ADM violated Section
+13(b)(2)(B) of the Exchange Act by failing to maintain an adequate system of internal controls to
+
+detect and prevent the illicit payments.
+2:13-cv-02279 #1 Page3of14
+
+JURISDICTION AND VENUE
+
+5. This Court has jurisdiction over this action pursuant to Sections 21(d) and 27 of
+the Exchange Act [15 U.S.C. Â§Â§$78u(d) and 78aa]. ADM has, directly or indirectly, made use of
+the means or instrumentalities of interstate commerce, of the mails, or of the facilities of a
+national securities exchange in connection with the transactions, acts, practices and courses of
+business alleged in this Complaint.
+
+6. Venue is proper in this district pursuant to Section 27 of the Exchange Act [15
+
+U.S.C. Â§ 78aa], because ADMâs headquarters are located in Decatur, Illinois.
+
+DEFENDANT
+
+7. Archer-Daniels-Midland Company is a large agricultural processing company
+based in Decatur, Illinois. It is incorporated in Delaware. ADMâs common stock is registered
+with the Commission pursuant to Section 12 of the Exchange Act and is traded on the New York
+
+Stock Exchange under the symbol âADM.â
+
+OTHER RELEVANT ENTITIES
+
+8. Alfred C. Toepfer, International G.m.b.H. (âACTI Hamburgââ) is a German
+limited lability company that is headquartered in Hamburg, Germany. The business of ACTI
+Hamburg, which operates thirty-six sales offices worldwide, specializes in agricultural
+commodities and processed products. ADM initially acquired an indirect interest in ACTI in
+
+1983 and, by 2002, obtained an indirect 80% ownership interest in ACTI Hamburg.
+2:13-cv-02279 #1 Page4of14
+
+9. Alfred C. Toepfer International (Ukraine) Ltd. (âACTI Ukraineââ) is a wholly-
+owned subsidiary of ACTI, and an affiliate of ACTI Hamburg. It is headquartered in Kiev,
+
+Ukraine and has six branch offices in addition to a facility at the Port of Odessa.
+
+FACTUAL ALLEGATIONS
+
+Background
+10. ADM first acquired an interest in ACTT in 1983 and, by 2002, indirectly owned
+
+80% of its stock. Beginning in 2002, ADM consolidated ACTIâs financial results into ADMâs
+financial statements. Accounting, tax, and sales personnel at ACTI reported to ACTIâs
+management, not to personnel within the corresponding functions at ADM. ADM had only five
+representatives on ACTIâs ten-person supervisory board during the relevant period, and ACTTâs
+operations were largely independent from ADMâs operations. In fact, at times, ADM and ACTI
+Hamburg traders competed against each other in bidding to fulfill grain contracts.
+
+11. ACTI Hamburg sourced commodities in Ukraine through ACTI Ukraine in order
+to make sales to customers outside of the Ukraine. ACTI Hamburg used ACTI Ukraine to fill
+customer orders for agricultural commodities located in Ukraine. After ACTI Ukraine purchased
+the agricultural products within the Ukraine, it arranged for their export from the Port of Odessa
+on the Black Sea. ACTI Hamburgâs trading desk in Hamburg arranged the sales on behalf of
+ACTI Ukraine. ADM did not implement controls that required pre-clearance or monitoring of
+ACTI Hamburgâs relationship with third-party agents in the Ukraine or transactions involving
+the Ukraine government.
+
+12. Ukraine imposed a 20% VAT on goods purchased in Ukraine. If the goods were
+exported, the exporter could apply for a refund of the VAT already paid to the government on
+
+those goods. At certain times from 2002 until 2010, however, the Ukrainian government
+
+4
+2:13-cv-02279 #1 Page5of14
+
+determined to delay paying the VAT refunds owed or did not make any refund payments at all.
+During these years, ACTI Ukraine accumulated large receivables for VAT refunds, including as
+high as approximately $46 million at certain periods.
+
+13. At certain times during the relevant period, in order to obtain VAT refunds, ACTI
+Hamburg and ACTI Ukraine made improper payments, which were generally 18%-20% of the
+corresponding VAT refunds, to two third-party vendors so that they could pass on nearly all of
+the money to Ukrainian government officials with knowledge of and approval by ACTI
+Hamburg. ACTI Ukraine and ACTI Hamburg used these two third-party vendors to cover up
+bribes paid to Ukrainian government officials in exchange for those officialsâ assistance in
+helping ACTI Ukraine obtain VAT refunds. ACTIâs books and records improperly recorded the
+payments as insurance premiums or other business expenses.
+
+ADM Executives Are Told Charitable Donations Are Made to Secure ACTI Ukraineâs
+VAT Refunds
+
+14. In or around July 2002, executives from ACTI Hamburg traveled to ADMâs
+headquarters in Decatur, Illinois for business meetings. In one of those meetings, these ACTI
+executives met with executives from ADMâs tax department and discussed ACTI Ukraineâs
+ability to recover VAT refunds and the way in which ACTI Ukraine was accounting for the
+write-down of those refunds. During this discussion, the ACTI Hamburg executives stated that
+the way in which ACTI Ukraine was recovering its VAT refunds was by making charitable
+donations.
+
+15. On or about October 4, 2002, an ADM executive in the tax department sent an e-
+mail to the head of an international tax organization and stated, âOne of our affiliates operates in
+the Ukraine. In order to recover 100% of their input VAT they have to pay 30% of the amount
+
+to local charities. The charitable amount is not deductible. Is this common practice in the
+
+5
+ae)
+out :
+
+Ukraine? Is this legal? Is there any way to avoid having to pay the 30% in order to get the
+100%?â
+
+16. On October 8, 2002, the ADM executive referenced in paragraph [5 above
+forwarded the e-mail referenced in paragraph 15 above to two other executives in ADMâs tax
+department, and stated that he had spoken with the head of the international tax organization and
+that âthe bottom line is that ACTI is getting screwed by someone...[T]he consensus is that there
+is no way legislation could require this situation. H could very well be a local tax authority issue.
+ly ACTI would like we could have the [tax organization] address this issue with the local tax
+authorities as a policy matter and not a company specific issue. They could raise the issue with
+some of the Tax Service headquarters people who the [tax organization] has had over to the US
+and with the Deputy Minister of Finance. The [tax organization] could give ACT a veil to hide
+behind as this issue is addressed with the authorities and, hopefully, results in a fix for ACTT.
+Let me know what ACTI thinks about this.â
+
+17. On or about October 24, 2002, one of the ADM executives who received the e-
+mail referenced in paragraph 16 above sent an e-mail to the other two executives on the e-mail
+referenced in paragraph 16 above, summarizing the follow-up meeting he had with executives
+from ACTI Hamburg. In the e-mail, the ADM executive outlined six tax issues relating to ACTI
+entities that he discussed with ACTI Hamburg executives, including the VAT refunds for ACTI
+Ukraine, and stated, â[ACTTâs] current procedure is to book the input VAT as a balance sheet
+receivable and write it down on average of 30% a year (depending on interest rates, devaluation,
+etc.)... According to [an executive at ACTI Hamburg] it is a fight every year [to get VAT
+refunds] but overall he thinks that Toepfer has good contacts with politicians and the authorities
+
+in the Ukraine. I mentioned that [the ADM executive referenced in paragraph 16 above] had
+some good contacts as well within business organizations operating in the Ukraine like the [the
+tax organization referenced in paragraph 16 above] which also might be helpful. The issue here
+is that [the ACTI Hamburg executive] to[ld] me that the Toepferâs contacts usually ask for
+âdonationsâ. I asked him how much were these âdonationsâ and he answered that they could be
+up to 20% of the VAT receivable. My concern is that these âdonationsâ are not legal, not
+deductible, are Subpart F income and against ADM corporate compliance policy. Additionally, I
+am not sure that the way they are booking this VAT receivable is US GAAP. I am open to
+suggestions on how to proceed on this.â The Internal Revenue Code defines âSubpart F incomeââ
+in the case of any controlled foreign corporation to include, among other things, the âamounts of
+any illegal bribes, kickbacks, or other payments . . . directly or indirectly to an official,
+employee, or agent in fact of a government... ,â certain insurance income, foreign base
+company income, certain foreign source income, including that attributable to the earnings and
+profits of the foreign corporation, as well as certain income derived from any foreign country.
+
+26 U.S.C. Â§952(a). The Internal Revenue Code further specifies that the âpayments referred to
+in paragraph (4) [of Subpart F] are payments which would be unlawful under the Foreign
+Corrupt Practices Act of 1977... .â 26 U.S.C. Â§952(a).
+
+18. In or around 2004, ADM established a joint venture in Ukraine between ADM
+and a Swiss company. In connection with the creation of the joint venture, ADM retained an
+accounting firm to perform an analysis of tax issues that might arise.
+
+19. On or about April 30, 2004, ADMâs accounting firm sent a letter to two ADM
+executives, stating: âThere are a number of structures aimed at facilitation of VAT refund that
+are widespread in Ukraine....Some of these structures bear legal risks and may be challenged by
+
+the tax authorities. Moreover, structures normally envisage that the exporter obtains VAT refund
+2:13-cv-02279 #1 Page8of14
+
+with a 30-40% discount. From the discussions during our meeting in Odessa we learned that [the
+Swiss joint venture company] currently implements various VAT optimization structures at its
+subsidiary and plans to have them implemented at the joint venture. Since these structures often
+lack transparency and sometimes have tax and legal risks attached, we believe there is a need to
+perform a more detailed analysis of their applicability at the joint venture.â
+
+20. Given ADMâs insufficient anti-bribery compliance policies and procedures at the
+time, it did not prevent or detect the improper payments made by ACTI Ukraine or ACTI
+
+Hamburg.
+
+ACTIâs Improper Payments through a Shipping Company Vendor
+
+21. At certain times between 2002 and 2008, ACTI Ukraine and ACTI Hamburg
+made payments to a stevedoring company in the port of Odessa (the âShipping Companyââ) so
+that it could pass on nearly all of those payments to Ukrainian officials in order to obtain VAT
+refunds on behalf of ACTI Ukraine. Senior managers at ACTI Ukraine conspired with the owner
+of the Shipping Company to artificially inflate invoices. The amount by which the invoices
+between the Shipping Company and ACTI Hamburg were inflated represented a sum that was
+available for the Shipping Company to pass to Ukraine government officials.
+
+22. When ACTI Hamburg received the invoice from the Shipping Company, it
+withheld payment of a portion of the amount in the invoice, and then upon receiving the relevant
+VAT refund, ACTI Hamburg released the funds to the Shipping Company.
+
+23. Certain executives at ACTI Hamburg were aware that the payments to and
+arrangement with the Shipping Company were improper. In April 2002, an employee of ACTI
+
+Hamburg cautioned his colleagues not to look too deeply into the Shipping Company: âFor
+2:13-cv-02279 #1 Page9of14
+
+reasons that you know (if you donât know them, I will explain them to you verbally), we will
+have to continue to make paymentsâ to the Shipping Company.
+
+24. In April 2005, the ACTI Ukraine general manager reported to senior ACTI
+Hamburg officers that VAT claims had been aggregated in the escrow account used to pay the
+Shipping Company. He also reported that part of the purpose of the escrow account was to avoid
+scrutiny of the overpayments by ADM internal auditors and the ACTI Hamburg shareholders.
+
+25. By the end of 2006, the receivable for Ukrainian VAT on ACTI Ukraineâs books
+had grown to approximately $40 million. In a report dated December 29, 2006, ACTI
+Hamburgâs Chairman wrote that âthe situation in Ukraine has again returned to what we found
+several years ago,â and that companies would once again have to bid for VAT refunds, a process
+he described as a âbidding orgy.â
+
+26. Between January and March 2007, ACTI Hamburg paid the Shipping Company
+$8,236,269 in order to obtain VAT refunds totaling $46,366,107. The refunds generally arrived
+within a day or two of the payments to the Shipping Company. ACTI Hamburg disguised these
+
+payments on its books and records as prepayments for feed barley.
+
+ACTI Maintains Inaccurate Entries on its Books Related to VAT Recovery
+
+27. In January 2007, the size of the VAT receivable had risen to approximately $40
+million dollars. The 20% reserve for this receivable drew the attention of ADMâs European
+finance and controlling department. The department questioned ACTI on the basis for setting
+aside such a large reserve.
+
+28. After ACTI Ukraine received a VAT refund on or about January 23, 2007, an
+ADM controller asked an executive at ACTI Hamburg what the basis of the VAT refund was. In
+
+response, an ADM executive relayed from an executive at ACTI Hamburg that âthis [VAT
+2:13-cv-02279 #1 Page 10of14
+
+refund] is from 2005 . . . but the collection came with a price, the price being the government
+required a âdepreciationâ (as [the ACTI Hamburg Vice Chairman] called it) of 18%.....basically,
+the companies owed the money from the government had to write off 18% to collect this amount.
+He is hopeful there is no more âdepreciationâ but he does not have a clear picture as to when the
+payment might be received or how the govt will settle the balance. [T]he amount received will
+not go towards the P&L as it is simply reducing the receivable and the amount written off
+appears to be lost to the govt.â
+
+29. Based on this exchange with ACTI Hamburg, ADM understood that ACTI
+Ukraine expected to obtain VAT refunds resulting from negotiating a legal settlement with the
+Ukrainian government, which would cause the receivable and corresponding reserve to decrease.
+ACTI Hamburg, in efforts to avert ADMâs concerns regarding the size of the receivable, advised
+that ACTI Ukraine, as part of the settlement, agreed to waive 18% of its VAT receivable. ACTI
+Hamburg, however, never disclosed that the 18% figure represented approximately the amount
+of improper payment provided to third-party vendors so that nearly all of those monies could be
+
+provided to Ukrainian government officials.
+
+ACTI Ukraine Makes Payments to a Third-Party by Using Fake Insurance Premiums
+
+30. Between February 2007 and August 2008, the ACTI Ukraine general manager
+organized a scheme through which ACTI Ukraine used a Ukrainian insurance company (the
+âInsurance Companyââ) to funnel improper payments to Ukrainian government officials. ACTI
+Ukraine arranged for the Insurance Company to falsely bill it for crop insurance, which the
+Insurance Company never intended to honor, adjusting the premiums to be roughly 20% of the
+VAT refund. ACTI Ukraine improperly recorded the payments as insurance premiums in its
+
+books and records.
+
+10
+2:13-cv-02279 #1 Page1lof14
+
+31. The improper payments through phony insurance contracts were made with the
+knowledge and approval of senior officials at ACTI Hamburg. In February 2008, ACTI
+Hamburgâs Vice Chairman reported to ACTIâs Chairman that the ACTI Ukraine general
+manager âJust got an offer from someone to set up VAT refunds at a price 3% lower than the
+current arrangement. . . . insurance money will now be used for VAT refunds.â
+
+32. In addition, senior ACTI officials knew the insurance arrangement was not
+legitimate, as evidenced by e-mail communications between the ACTI Ukraine CFO and ACTI
+Hamburg senior managers, stating: âThe contracts completed here, either sporadically or ad hoc,
+include no kind of insurance protection, but serve the purpose only of generating a commission
+for the VAT repayment in this manner. Regardless of the wording of the contract, the content is
+completely different. That means that in case of conflict, claims could not be made
+successfully.â
+
+33. In all, ACTI Ukraine paid approximately $9 million through the Insurance
+Company for refunds totaling $44 million, which were received between March 29, 2007 and
+August 1, 2008. ACTI Ukraine misrepresented these payments as insurance premiums in its
+
+books and records.
+
+ADMâs Discovery and Subsequent Remedial Measures
+
+34. In mid-2008, after becoming aware of these insurance expenses, ADM controllers
+questioned ACTI executives regarding these expenses, particularly the basis for the accounting
+treatment of these expenses. An ACTI Ukraine employee disclosed to its outside auditors that
+the insurance payments were, in fact, made to secure VAT refunds. After ADM controllers
+
+received this information, ADMâs legal and compliance departments took action, which led to an
+
+11
+2:13-cv-02279 #1 Page 12of14
+
+immediate investigation in which ADM ultimately uncovered ACTIâs various schemes to secure
+VAT refunds.
+
+35. Following discovery of these payments, ADM immediately retained outside
+counsel to conduct an internal investigation. As a result of the investigation, using its authority
+as majority shareholder through the ACTI supervisory board, ADM terminated certain ACTI
+executives. ADM then voluntarily conducted a world-wide risk assessment and corresponding
+global internal investigation, made numerous presentations to the Department of Justice and
+Securities and Exchange Commission, made current and former employees available for
+interviews, produced documents without subpoena, and implemented early and extensive
+
+remedial measures.
+
+ADMâs Violations
+
+36. ACTI Hamburg and ACTI Ukraine characterized their improper payments to the
+Shipping Company and the Insurance Company as insurance premiums and other business
+expenses even though nearly all of those payments were intended to be used for payment to
+Ukrainian government officials. Due to the consolidation of ACTIâs financial results into
+ADMâs, ADMâs financial records also failed to reflect the true nature of the payments.
+
+37. Between 2002 and 2008, ADMâs anti-corruption policies and procedures relating
+to ACTI were decentralized and did not prevent improper payments by ACTI to third-party
+vendors in the Ukraine or ensure that these transactions were properly recorded by ACTI. In this
+respect, ADM failed to implement sufficient anti-bribery compliance policies and procedures,
+including oversight of third-party vendor transactions, to prevent these payments at ACTI
+
+Hamburg and ACTI Ukraine.
+
+12
+2:13-cv-02279 #1 Page 13of14
+
+38. Through its various schemes, ACTI Ukraine and ACTI Hamburg paid roughly
+$22 million in improper payments to obtain more than $100 million in VAT refunds earlier than
+they otherwise would have. Getting these VAT refunds earlierâbefore the Ukraine endured a
+brief period of hyperinflationâgave ACTI Ukraine a business advantage resulting in a benefit to
+
+ADM of roughly $33 million.
+
+FIRST CLAIM FOR RELIEF
+
+Violation of Exchange Act Section 13(b)(2)(A)
+[15 U.S.C. Â§78m(b)(2)(A)]
+
+39, The Commission re-alleges and incorporates by reference paragraphs | through
+38.
+
+AO. As described above, ADM through its subsidiary, failed to keep books, records,
+and accounts, which, in reasonable detail, accurately and fairly reflected its transactions and
+disposition of its assets.
+
+Al. By reason of the foregoing, ADM violated, and unless enjoined will continue to
+
+violate, Section 13(b)(2)(A) of the Exchange Act [15 U.S.C. Â§78m(b)(2)(A)].
+
+SECOND CLAIM FOR RELIEF
+
+Violation of Exchange Act Section 13(b)(2)(B)
+[15 U.S.C. Â§78m(b)(2)(B)]
+
+42. The Commission re-alleges and incorporates by reference paragraphs | through
+41.
+
+43. As described above, ADM failed to devise and maintain a system of internal
+controls sufficient to provide reasonable assurances that: (i) transactions were executed in
+accordance with managementâs general or specific authorization; and (11) transactions were
+
+recorded as necessary (1) to permit preparation of financial statements in conformity with
+
+13
+2:13-cv-02279 #1 Page 14of14
+
+generally accepted accounting principles or any other criteria applicable to such statements, and
+
+(II) to maintain accountability for its assets.
+
+44. By reason of the foregoing, ADM violated, and unless enjoined will continue to
+
+violate, Section 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§78m(b)(2)(B)].
+
+PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that the Court enter a final
+
+judgment:
+
+A. Permanently restraining and enjoining ADM from violating Sections 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§78m(b)(2)(A), and 78m(b)(2)(B)];
+
+B. Ordering ADM to disgorge ill-gotten gains wrongfully obtained as a result of its illegal
+
+conduct, with prejudgment interest; and
+
+C. Granting such further relief as the Court may deem just and appropriate.
+
+Dated December 20, 2013
+
+Of Counsel:
+Gerald W. Hodgkins
+Anita B. Bandy
+
+14
+
+Respectfully submitted,
+
+s/ Nicholas A. Brady
+
+ 
+
+Nicholas A. Brady (D.C. Bar No. 484612)
+Lead Counsel
+
+Securities and Exchange Commission
+
+100 F Street, NE
+
+Washington, DC 20549
+
+Tel: (202) 551-4732
+
+Fax: (202) 772-9238
+
+bradyn@ sec.gov
+
+Timothy Leiman (Illinois Bar No. 6270153)
+Securities and Exchange Commission
+Chicago Regional Office
+
+175 W. Jackson Blvd. Suite 900
+
+Chicago, IL 60604
+
+Tel: (312) 353-5213
+
+leimant @sec.gov
+
+Attorneys for Plaintiff

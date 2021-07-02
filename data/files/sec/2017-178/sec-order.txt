@@ -1,0 +1,829 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES ACT OF 1933
+Release No. 10417 / September 28, 2017
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 81742 / September 28, 2017
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-18228
+
+ 
+
+ORDER INSTITUTING CEASE-AND-DESIST
+In the Matter of PROCEEDINGS, PURSUANT TO SECTION
+8A OF THE SECURITIES ACT OF 1933 AND
+ALERE INC.,, SECTION 21C OF THE SECURITIES
+EXCHANGE ACT OF 1934, MAKING
+Respondent. FINDINGS, AND IMPOSING A CEASE-AND-
+DESIST ORDER
+
+ 
+
+ 
+
+I.
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate and in
+the public interest that public administrative and cease-and-desist proceedings be, and hereby
+are, instituted pursuant to Section 8A of the Securities Act of 1933 (âSecurities Actâ) and
+Section 21C of the Securities Exchange Act of 1934 (âExchange Actâ) against Alere Inc.
+(âRespondentâ).
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferâ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commissionâs jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting
+Cease-and-Desist Proceedings, Pursuant to Section 8A of the Securities Act of 1933 and Section
+21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist
+Order (âOrderâ), as set forth below.
+Il.
+
+On the basis of this Order and Respondentâs Offer, the Commission findsâ that:
+
+Summary
+
+1. Alere is a Massachusetts-based public company, traded on the New York Stock
+Exchange, which manufactures and sells diagnostic tests for infectious disease, cardiometabolic
+disease and toxicology. Alere maintains operations and sells its products around the world.
+Between 2011 and 2016, Alere engaged in the improper premature recognition of revenue in its
+financial statements filed with the Commission. And, between 2011 and 2013, Alereâs
+subsidiary in Colombia improperly characterized payments to a Colombian government official
+in Alereâs books and records. Alereâs subsidiary in India also failed to properly record certain
+payments made by a distributor in its books and records. Alere further failed to devise and
+maintain a sufficient system of internal accounting controls. As a result, Alere violated Sections
+10(b), 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 10b-5, 12b-20, 13a-1,
+13a-11, and 13a-13 thereunder, and Section 17(a) of the Securities Act.
+
+2. Since May 2015, Alere has at three different times revised or restated its financial
+statements that had appeared in the companyâs periodic filings with the Commission. In May
+2015, Alere restated its 2014 Form 10-K due to incorrect tax accounting. In August 2016, Alere
+filed its 2015 Form 10-K, which revised the revenue and associated entries in its financial
+statements for prior periods due to incorrect reporting of revenue. In June 2017, Alere filed its
+2016 Form 10-K, which restated its revenue and associated entries for prior periods due to newly
+discovered improper reporting of revenue. In total, Alere has restated its financial statements for
+fiscal years 2013, 2014, and 2015 and for the following fiscal quarters: Q3 2014, Q1-Q3 2015,
+and Q1-Q3 2016.
+
+3. Revenue Recognition Problems: From 2011 to 2016, Alere misstated its
+revenue in its financial statements filed with the Commission. These revenue misstatements
+resulted from (a) intentional early reporting of revenue by Alereâs South Korean subsidiary,
+Standard Diagnostics, and (b) improper revenue recognition practices by Alere at subsidiaries
+located, among other locations, in South Korea, Israel, South Africa, Ireland, and China. The
+improper revenue recognition practices primarily related to the timing of when Alere could have
+recognized the revenue. As aresult, Alereâs revision and restatement of its revenue over the
+five-year period, shifted to a later reporting period in total over $260 million in revenue from the
+quarter in which it was originally recognized. The revenue involved in âearly salesâ and other
+practices described below was eventually recognizable and collected, just not in the quarter in
+which it was recorded.
+
+4. Recording of Offers and Payments to Foreign Officials: Between 2011 and
+2013, Alereâs foreign subsidiaries located in Colombia and India indirectly made improper offers
+
+ 
+
+' The findings herein are made pursuant to Respondentâs Offer of Settlement and are not binding on any other
+
+person or entity in this or any other proceeding.
+and payments to foreign government officials for the purpose of making sales of its products.
+Profits from the sales associated with the improper offers and payments totaled approximately
+$3.3 million.
+
+Respondent
+
+5. Alere Inc. is a Delaware corporation with its principal place of business in
+Waltham, MA. It is a manufacturer of medical diagnostic testing equipment. Alereâs common
+stock is registered pursuant to Section 12(b) of the Exchange Act and trades on the New York
+Stock Exchange under the symbol âALR.â
+
+Other Relevant Entities
+
+6. Alere Colombia S.A. is a wholly-owned subsidiary of Alere formerly known as
+BioSystems, S.A. (âBioSystemsâ). Alere Colombia sells Alereâs global products into the
+Colombian market. Alere Colombia is located in Bogota, Colombia. Biosystems was an
+independent distributor of Alere products until acquired by Alere.
+
+7. Standard Diagnostics, Inc. (âSDâ) is a wholly-owned subsidiary of Alere. Its
+main products test for diseases such as Malaria, Dengue, HIV, and Syphilis. Standard
+Diagnosticâs principal office is located in Giheung-gu, South Korea. Prior to 2010, Standard
+Diagnostics was an independent and publicly-traded company listed in South Korea. Alere
+acquired, through a tender offer, a majority share of its stock in 2010.
+
+8. Alere Medical Private Ltd. (âAlere Indiaâ) is a wholly-owned subsidiary of
+Alere. Alere India sells Alereâs global products into the Indian market. Alere Indiaâs principal
+office is located in Gurgaon, India.
+
+9. The VP of SD Sales, a resident and citizen of Korea, served as the head of SDâs
+sales and marketing departments from 2011 until 2016. In 2013, he was also given the title of
+Vice President of Commercial Operations Africa. During the entire time he was a management-
+level employee working from an office in South Korea. Alere intended to terminate the VP of
+SD Sales in 2015 based on conduct not related to the matters discussed herein, but postponed the
+
+termination to cooperate with ongoing government investigations. The VP of SD Sales resigned
+in 2016.
+
+10. The SD Finance Director, a resident and citizen of Korea, served as the head of
+SDâs finance department from 2011 until 2017. He was removed from his position following an
+internal investigation in 2017 and subsequently resigned.
+
+Facts
+
+11. During the 2000s and early 2010s, Alere grew quickly, in part because it acquired
+a number of foreign companies. Alereâs corporate finance group required all these newly
+acquired companies to adopt Alereâs Revenue Recognition Policy.
+
+12. Alereâs Revenue Recognition Policy established standards and procedures to
+ensure that Alere recognized revenue in compliance with managementâs objectives and U.S.
+3
+generally accepted accounting principles (âGAAPâ). Among other things, the policy stated that
+revenue should not be recognized until four basic criteria have been met: â(1) persuasive
+evidence of an arrangement exists; (2) delivery has occurred or services have been rendered; (3)
+the fee is fixed and determinable; and (4) collection is reasonably assured.â More specifically,
+the policy stated that Alere recognizes revenue upon title transfer of the products to third-party
+customers.
+
+13. Alereâs corporate finance group delegated revenue recognition decision-making
+authority to Alereâs subsidiaries. These subsidiaries entered their revenue information into local
+books and records, which were consolidated into Alereâs own books and records and used to
+create the financial statements that it filed with the Commission.
+
+Intentional False Reporting of Revenue at Alereâs South Korean-Subsidiary, SD
+
+14. In February 2010, Alere acquired a majority interest in SD. Beginning with fiscal
+year 2010, SDâs financials were consolidated into Alereâs financial statements, which were filed
+in Alereâs Form 10-K.
+
+15. Beginning no later than 2011, the VP of SD Sales initiated a scheme to inflate
+SDâs revenue numbers at or near the end of reporting periods. The VP of SD Sales and other SD
+employees wanted to accelerate revenue in order to meet African region sales quarterly and
+annual revenue targets. The scheme involved recognizing revenue before delivery of the product
+had occurred in violation of Alereâs Revenue Recognition Policy and in contravention of GAAP.
+The practice came to be known amongst SD employees as âearly sales.â
+
+16. âEarly salesâ were generally conducted in one of two ways:
+
+a. In the first scenario, the product remained undelivered in SDâs warehouse
+at the end of a quarter. SD employees then intentionally created false
+delivery documents or falsified shipping documents to support a delivery
+date before the end of a quarter. This falsified documentation was used to
+recognize the sale of product days or weeks earlier than its actual delivery.
+
+b. In the second scenario, immediately before the end of a quarter, SD would
+direct a shipping agent to pick up product and store it in the shipping
+agentâs warehouse until the customer requested delivery. SD employees
+used the pick-up receipts from the shipping agent as proof of delivery to a
+customer. This documentation was improperly used to recognize the sale
+of product days or weeks earlier than its actual delivery.
+
+17. The size of the transactions for which revenue was improperly recognized ranged
+from as small as $25,000 to greater than $2 million.
+
+18. To execute the scheme, the VP of SD Sales involved personnel from SDâs sales,
+marketing, customer service, and warehouse departments.
+19. Over time, the number of sales transactions improperly recognized early each
+quarter grew, peaking in 2015. In the fourth quarter of 2015, SDâs fraudulent âearly salesâ
+comprised approximately 29% of all the revenue SD reported that quarter. This inflated revenue
+was incorporated in financial statements filed with Alereâs 2015 Form 10-K.
+
+20. Initially, the scheme did not directly involve employees within SDâs finance
+department. But by the end of 2015, at least two individuals in SDâs finance department, the SD
+Finance Director and an SD Finance Manager, were aware of and complicit in âearly sales.â
+
+21. During 2016, in response to issues with revenue recognition in China and Africa,
+Alereâs management conducted an internal assessment of revenue recognition practices
+throughout its subsidiaries. During the assessment, the SD Finance Director and the SD Finance
+Manager intentionally concealed the âearly salesâ scheme from those conducting the assessment
+and Alereâs independent auditors.
+
+22. In fact, SD continued to prematurely recognize revenue during Alereâs ongoing
+assessment by improperly recognizing revenue from unconsummated sales on the last day of Q2
+and Q3 2016. SDâs improper revenue recognition continued through Q4 2016.
+
+23. As a result of the conduct described above, Alere violated Section 10(b) of the
+Securities Exchange Act, Rule 10b-5 thereunder, which prohibit fraudulent conduct in
+connection with the purchase or sale of securities, and Section 17(a) of the Securities Act which
+prohibits fraudulent conduct in the offer and sale of securities. This conduct also contributed to
+Alereâs violations of Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules
+12b-20, 13a-1, 13a-11, and 13a-13 thereunder, which require every issuer of a security registered
+pursuant to Section 12 of the Exchange Act to file with the Commission information, documents,
+and annual and quarterly reports as the Commission may require, and mandate that periodic
+reports contain such further material information as may be necessary to make the required
+statements not misleading.
+
+Failure to Conform Revenue Reporting to GAAP by Alere from 2013-2016
+Chinese âBill and Holdâ Transactions
+
+24. From Q4 2012 through Q1 2016, employees at an Alere subsidiary located in
+China recognized revenue from the sale of product that remained undelivered at the subsidiaryâs
+warehouses. The practice was called âpostponement of delivery.â While customers agreed not to
+take delivery and submitted a âDeclaration of Postponementâ form to the subsidiary, the
+arrangement did not permit the recognition of revenue under applicable Bill & Hold guidance
+under GAAP. From 2013 to 2016, the subsidiary entered into more than 3,800 âpostponement of
+deliveryâ transactions associated with more than $28 million in revenue that was recognized in
+an earlier quarter than permissible under GAAP.
+African Contingent Arrangements, Bill-and-Hold Transactions, and Revenue Cut-off
+Issues
+
+25. From at least 2013 through 2015, employees of Alereâs Africa commercial team
+entered into sales arrangements for which revenue was improperly recognized. Sales included
+contingent arrangements,â bill and hold transactions,â and sales where product was stored at a
+third-partyâs warehouse. In addition, revenue from certain sales of Alere product to be used in
+Africa was improperly recognized due to cut-off issues and improper execution of or changes to
+shipping terms.
+
+26. Alereâs Africa commercial team included employees from Alereâs Israeli, South
+African, and Irish subsidiaries and employees from SD. In general, commercial and finance
+personnel lacked a sufficient understanding of how such arrangements and shipping terms
+affected when Alere could recognize revenue under U.S. GAAP.
+
+27. These sales arrangements and issues led to Alere recognizing revenue of
+approximately $24 million in an earlier quarter than permissible under GAAP.
+
+African Distributor Sales Agreements
+
+28. From at least 2011 through 2015, employees of Alereâs Africa commercial team
+made sales to distributors operating in Africa pursuant to distributor sales agreements. Many of
+the agreements with African distributors executed by Alereâs Israeli and South African
+subsidiaries contained a provision, a âRetention of Titleâ clause, that stated Alere retained title to
+the product until it was paid in full by the distributor.â As written, the provision precluded Alere
+from recognizing revenue under GAAP until Alere received payment for the product from the
+distributor. Finance personnel, however, either failed to review the Retention of Title clause in
+the agreements or were unaware of its implication for revenue recognition.
+
+29. Typically, Alereâs African distributor customers had at least 30 days to pay for
+products. Lacking the resources and understanding of GAAP, Alereâs subsidiaries, recognized
+revenue upon delivery, often immediately before or at the end of a quarter, even though without
+payment this was not proper given the presence of the Retention of Title clause.
+
+30. As aresult, Alere recognized more than $86 million in revenue from sales to
+African distributors in an earlier quarter than permissible under GAAP.
+
+ 
+
+* Contingent arrangements do not become fixed or determinable until the contingency resolves, and thus, revenue
+may not be recognized until that time.
+
+* The distribution agreements generally included language stating that the distributor was holding the product for
+Alere and the product needed to be stored separately and labeled as Alereâs product and that Alere maintained the
+right to enter the distributorsâ premises and remove its product. As such, these distributor arrangements were broad
+and therefore extended beyond the retention of title exemption contemplated in Staff Accounting Bulletin No. 104.
+
+6
+Other Revenue Recognition Issues
+
+31. In addition, from at least 2013 through 2015, Alere experienced wide-spread
+month or quarter end revenue cut-off issues at subsidiaries located around the world, including in
+Argentina, Australia, Brazil, China, Colombia, Japan, the United States, and Europe. The
+various subsidiaries independently used similar improper quarter end cut-off procedures for
+revenue.
+
+32. As a result of the improper revenue recognition cut-off practices, Alere
+recognized approximately $97 million in revenue from non-African customers in an earlier
+quarter than permissible under GAAP.
+
+33. The conduct at Alereâs subsidiaries described above contributed to Alereâs
+violations of 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1,
+13a-11, and 13a-13 thereunder, and Sections 17(a)(2) and (3) of the Securities Act.
+
+Improper Revenue Recognition Led to Required Restatements of Commission Filings
+and Revisions of Financial Statements and Assessments of the Effectiveness of Internal
+Control over Financial Reporting
+
+34. To correct the inaccurate revenue reporting summarized above, Alere revised and
+restated its financial statements.
+
+35. On February 26, 2016, Alere filed a Form 12b-25 with the Commission
+announcing a delay in the filing of its Form 10-K for the year ended December 31, 2015 due to
+managementâs âanalysis of certain aspects of revenue recognition in Africa and China and any
+potential implications on our evaluation of internal control over financial reporting for the year
+
+ended December 31, 2015.â
+
+36. Management completed its assessment of revenue recognition and filed with the
+Commission Form 10-K for 2015 on August 8, 2016. Alere reported:
+
+Based on our review, we determined that, in 2013 and 2014 and the first three quarters of
+2015, we had incorrectly recorded certain revenue transactions for such periods.
+Specifically, the errors in the application of U.S. GAAP rules regarding the timing of
+revenue recognition primarily relate to: (4) transactions, principally in Africa, in which
+we recognized revenue when the product shipped to the distributor, but we contractually
+retained title in the products until the distributor paid for the products in full or the
+distributor was not obligated to pay us until the products were sold through to the end-
+user; (11) âbill and holdâ transactions, principally in China, which did not meet the criteria
+for revenue recognition under U.S. GAAP; and (111) other transactions, in which we
+recognized revenue prior to full satisfaction of all contractual criteria for title and risk of
+loss passing to the customer.
+
+37. Alere concluded that it had several material weaknesses in internal control over
+financial reporting related to revenue recognition:
+a. We did not maintain a sufficient complement of resources at our
+subsidiaries with appropriate knowledge, experience and training to ensure proper
+application of US GAAP in determining revenue recognition.
+
+b. We also did not maintain effective controls over information and
+communications as it relates to revenue recognition at our subsidiaries. Specifically, we
+did not implement and reinforce an adequate process for internally communicating
+nonstandard terms and conditions between our subsidiariesâ commercial operations and
+finance groups and between our subsidiariesâ finance groups and our corporate
+accounting group.
+
+C. We did not design effective controls over the review of terms of purchase
+orders and customer contracts, including amendments to contracts, to ensure proper
+application of US GAAP in determining revenue recognition.
+
+d. We did not design effective controls to ensure that revenue would not be
+recognized until title and risk of loss had passed to our customers.
+
+38. On March 1, 2017, Alere filed another Form 12b-25 with the Commission,
+announcing a delay in filing its Form 10-K for 2016 because the Company was âreviewing
+certain aspects of revenue recognition at its Korean ... location[].â Specifically, Alere disclosed
+âimappropriate conduct at the Companyâs subsidiary in South Korea, Standard Diagnostics, Inc.â
+
+39. On April 17, Alere filed Form 8-K with the Commission, to announce that its
+Audit Committee had concluded that the Companyâs previously filed financial statements for the
+years ended December 31, 2013, 2014 and 2015, and the first three quarters of 2016, should not
+
+be relied upon.
+
+AO. On June 5, 2017, following an internal investigation into the South Korean
+conduct, Alere filed its Form 10-K with the Commission for 2016. The investigation found that
+previously filed financial statements included errors involving the timing of revenue recognition
+caused by, â...among other things, misrepresentation and/or fabrication of documents used to
+validate revenue recognition....â
+
+Al. Alereâs restated financial statements in the 2016 Form 10-K also establish that
+Alereâs press releases announcing its quarterly and annual financial results filed with the
+Commission as exhibits to its Form 8-Ks were also misstated.
+
+42. The table below illustrates the cumulative impact of the out-of-period accounting
+errors on net revenue and net income (loss) recorded by Alere in its August 2016 revision and
+the June 2017 restatement for the periods 2013, 2014 and the first three quarters of 2015 which
+were subject to the August 2016 revision.â
+
+ 
+
+> The âas reportedâ amounts in the table below are the net revenues and net income (loss) amounts reported by Alere
+prior to the August 8, 2016 revision.
+ 
+
+Impact on Previously Issued Financial Statements Filed Prior to the August 2016 Revision (in $000s)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2013 2014 Q1 2015 Q2 2015 Q3 2015
+Net Revenue (As Reported) $ 2,616,364 $ 2,588,704 $ 608,153 $ 629,156 $ 602,044
+Restatement and Revision Adjustments (9,009) (11,703) 1,753 (5,182) 2,955
+Net Revenue (As Restated and Revised) 2,607,355 2,577,001 609,906 623,974 604,599
+2013 2014 Q1 2015 Q2 2015 Q3 2015
+Net Income (Loss) (As Reported) $ (71,733) $ (37,710) $ 209,228 $ 20,263 $ 5,501
+Restatement and Revision Adjustments (1,805) 4,587 885 (5,765) (6,969)
+Net Income (Loss) (As Restated and Revised) (73,538) (33,123) 210,113 14,498 (1,468)
+43. The table below illustrates the cumulative impact of the out-of-period accounting
+
+errors on net revenue and net income (loss) recorded by Alere in its June 2017 restatement for
+
+the periods Q4 2015 through Q3 2016.Â°
+
+ 
+
+Impact on Previously Issued Financial Statements Filed on and After August 2016 Revision (in $000s)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Q4 2015 2015 Q1 2016 Q2 2016 Q3 2016
+Net Revenue (As Reported) $ 623,285 $ 2,463,316 | $ 578,209 | $ 611,088 | $ 582,354
+Restatement Adjustments (6,149) (7,701) 8,731 (784) (72)
+Net Revenue (As Restated) 617,136 2,455,615 586,940 610,304 582,282
+
+Q4 2015 2015 Q1 2016 Q2 2016 Q3 2016
+Net Income (Loss) (As Reported) $ (16,059) | $ 206,757 | $ (9,977) | $ (34,891) | $ 22,027
+Restatement Adjustments (3,018) (2,692) 4,005 2,084 (6,364)
+Net Income (Loss) (As Restated) (19,077) 204,065 (5,972) (32,807) 15,663
+
+ 
+
+44. Alere reported in its Form 10-K for 2016 that the four material weaknesses cited
+in the 2015 10-K remained in place as of December 31, 2016 and Alere added a fifth material
+
+weakness disclosure:
+
+We did not maintain an effective control environment at [SD]. Specifically, certain
+
+employees at SD engaged in inappropriate conduct, which was facilitated by an
+
+inadequate segregation of duties, including (a) colluding with subordinates and certain
+
+third parties to circumvent controls and fabricate documents related to revenue
+
+recognition and other matters, some of which were provided to finance management and
+our external auditors and (b) overriding controls related to the observation of physical
+inventories. In addition, other employees, including certain members of SD finance
+management responsible for other controls at the subsidiary, were aware of the override
+of controls but did not report this conduct as required by our policies and procedures.
+
+Alere Also Misstated Its Financial Statements Due to Tax Accounting Errors
+
+45. By 2014, Alere stopped acquiring companies and instead began to divest itself of
+various subsidiaries and business segments. In October 2014, Alere sold two subsidiaries,
+Accountable Care Solutions, LLC and Wellogic ME FZâ LLC. In January 2015, Alere sold the
+
+ 
+
+Â° The âas reportedâ amounts in the table below are the net revenues and net income (loss) amounts reported by Alere
+in the August 8, 2016 revision for Q4 2015 and the full-year 2015 and subsequent Form 10-Qs for the three quarters
+
+in 2016.
+
+9
+
+ 
+
+ 
+remaining portion of its health management business. These sales affected Alereâs accounting
+for its income taxes including income tax expense or benefit and associated assets and liabilities.
+
+46. On February 10, 2015, before it finished its tax accounting for Fiscal Year 2014,
+Alere released its unaudited financial results for the quarter ended December 31, 2014. It
+announced a net loss of $165 million.
+
+47.  Alereâs external tax consultants advised the head of Alereâs tax department that
+Alere was incorrectly accounting for Alereâs divestiture of part of its health management
+business. The head of the tax department disagreed and decided not to follow the advice of the
+external tax consultants.
+
+AS. Alere intended to file its Form 10-K on March 3, 2015, but its external auditor
+questioned the tax accounting for the sale of the health management business. The external
+auditor took the same position as Alereâs external tax consultant had. As a result, instead of
+filing its Form 10-K with the Commission, Alere filed for a 15-day extension and began re-
+calculating its tax provision and associated assets and liabilities.
+
+49. Two days later, on March 5, 2015, Alere filed its 10-K. Correcting the tax error
+contained in the previously disclosed financial results caused an increase in Alereâs reported net
+income of over $175 million for the year ended December 31, 2014 which caused the previously
+reported net loss to swing to profit of approximately $10 million.
+
+50. While closing the financial statements for the first quarter of 2015 in April 2015,
+Alere discovered that its previous calculations for the tax impact of the divestiture were
+incorrect. After further analysis, Alere concluded that it had also incorrectly accounted for the
+tax impact of the divestiture of the other subsidiaries it sold in October 2014. As a result of these
+errors (and other out-of-period errors predominately related to tax matters), on May 28, 2015,
+Alere filed an amended Form 10-K for the year ended December 31, 2014 which restated the
+previously reported net income of approximately $10 million to a net loss of over $37 million.
+
+51. | The conduct described above contributed to Alereâs violations of 13(a),
+13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13
+thereunder.
+
+Tax Accounting Errors Led to Required Restatements of Financial Statements
+and Assessments of Effectiveness of Internal Control over Financial Reporting
+
+52. On March 5, 2015, Alere filed with the Commission its Form 10-K for the 2014
+fiscal year. That Form 10-K disclosed a material weakness in Alereâs Internal Control over
+Financial Reporting. The accounting error was corrected in the 2014 financial statements, and
+the material weakness as of December 31, 2014 was disclosed as follows:
+
+We did not design effective controls to assess the accounting for deferred tax assets
+which become recognizable as a result of dispositions.
+
+10
+53. On May 28, 2015, Alere filed with the Commission its Form 10-K/A, amending
+and restating the Form 10-K it filed in March 2015. Alere concurrently filed Form 10-Q/A for
+the third quarter of 2014. The financial statements for the remaining 2014 quarters and prior
+years presented in the filings were revised, but not restated. The accounting errors leading to the
+May 2015 restatement principally related to the areas covered by the previously disclosed
+material weakness, but also incorporated other out-of-period errors involving tax and non-tax
+areas. The following table illustrates the impact to Alereâs previously reported annual net
+income (in $000s):
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. Previously Reported . Net Income (Loss) As
+
+Period Net Income (Loss) Adjustment Restated / Revised
+FY 2014 $ 9,948 | $ (47,658)| $ (37,710)
+FY 2013 (70,278) (1,455) (71,733)
+FY 2012 (77,907) (310) (78,217)
+
+ 
+
+54. In connection with the May 28, 2015 Form 10-K/A, Alere revised its previously
+disclosed material weakness as of December 31, 2014:
+
+We did not design effective controls to assess the accounting for deferred taxes related to
+dispositions.
+
+55. On November 9, 2015, Alere filed with the Commission its Form 10-Q for the
+third quarter ended September 30, 2015. In this filing, Alere disclosed that it had discovered and
+corrected certain out-of-period errors related to 2014 in Q3 2015 associated with accounting for
+U.S. taxes on foreign earnings. In the Form 10-Q for Q3 2015, Alere expanded its disclosure of
+the material weakness which existed at December 31, 2014 to:
+
+We did not maintain a sufficient complement of resources with adequate experience and
+expertise in accounting for income taxes, as a result of which our accounting controls did
+not operate at a level of precision to identify errors in the calculation of tax balances
+resulting from dispositions and U.S. taxes on foreign earnings.
+
+56. On November 13, 2015, Alere filed another Form 10-K/A for 2014 to restate its
+previously filed financial statements. The Form 10-K/A incorporated the expanded material
+weakness disclosure described in the Form 10-Q filed five days before.
+
+Alere Recorded Improper Payments
+from BioSystems to a Government Official in Colombia
+
+57. During 2007 and 2008, Alere purchased a private Colombian distributer of Alere
+products called BioSystems, S.A., ultimately renaming it Alere Colombia in 2016. In
+conjunction with the acquisition, Alere installed Biosystemsâ former primary shareholder and
+owner as Biosystemsâ General Manager (the âColombia GMâ).
+
+11
+58. Biosystemsâ customers included a set of entities known as an Entidad Promotora
+de Salud, or EPS, which provided health insurance services for their members. These entities
+were created by Colombian law as part of the Colombian governmentâs efforts to provide
+universal health benefits to its citizens. Under this system, EPSs were responsible for organizing
+and guaranteeing the provision of health services for their enrolled participants and managing
+their participantsâ health risks. Among other things, EPSs contracted for health services on
+behalf of their participants through a network of public, private, and their own health service
+providers. EPSs were both private and government controlled.
+
+59. From at least 2006, Biosystems sold products to an EPS that operated as a private
+entity (the âCustomer EPSâ). Biosystemsâ contact at the Customer EPS was a management level
+employee (âthe âCustomer EPS Managerâ) responsible for, among other things, recommending
+and approving products â including Biosystemsâ products â for the Customer EPS to purchase
+and provide to its enrolled participants. The Colombia GM oversaw the Customer EPS account
+and dealt directly with the Customer EPS Manager.
+
+60. During 2011 through 2013, due to allegations of mismanagement at the Customer
+EPS, the Government of Colombia, acting through the Ministry of Health, took control and
+direction of the Customer EPS. During this time, the Customer EPS was an instrumentality of
+the Government of Colombia and its employees were officials of the Government of Colombia.
+In 2013, the Ministry of Health began dissolving the Customer EPS and transferring its members
+to another EPS.
+
+61. From 2007 through at least 2012, Biosystems, at the direction of the Colombia
+GM, made improper payments totaling approximately $275,000 to the Customer EPS Manager
+in order to obtain and retain business from the Customer EPS. The payments began at least six
+months before Alere acquired Biosystems. Biosystems disguised these improper payments as
+payments for purported consulting services from the Customer EPS Managerâs husband, sister-
+in-law, and friend. In fact, none of the recipients of these improper payments performed
+legitimate consulting services for Biosystems sufficient to justify the amount of payments
+received.
+
+62. From 2011 through 2013, Biosystems sold approximately $7.6 million of products
+to the Customer EPS. During this time, the Customer EPS Manager continued in her position at
+the Customer EPS and remained responsible for recommending Biosystemsâ products to the
+Customer EPS. From 2011 through 2013, Biosystems earned approximately $3.18 million in
+profits from the approximate $7.6 million in sales to the Customer EPS. In 2013, the Colombia
+GM hired the Customer EPS Manager to work at Biosystems.
+
+63.  In2015, Alereâs corporate management began an internal investigation into
+consulting payments at Biosystems and discovered the improper payments. Shortly thereafter,
+the Customer EPS Manager resigned from Biosystems. The Colombia GM had previously
+resigned from Biosystems in January 2015.
+
+64. The improper payments to the Customer EPS Manager were recorded as
+legitimate consulting expenses in Biosystemsâ books and records. Biosystemsâ books and
+
+12
+records were consolidated into Alereâs books and records thereby causing Alereâs books and
+records to be inaccurate. Alere also failed to devise and maintain an adequate system of
+accounting controls sufficient to prevent and detect the improper payments that occurred over
+several years.
+
+65. Through the conduct described above, Alere violated Sections 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act through the inaccurate recording of the payments to the
+Customer EPSâs relations on its books and records, and its failure to devise or maintain internal
+accounting controls sufficient to provide reasonable assurances that its funds would not be used
+to make improper payments in contravention of Alereâs policies.
+
+Alere India Failed to Maintain Internal Controls
+Against Improper Payments to Government Officials
+
+66. In 2011, an India-based subsidiary of Alere, Alere Medical Pvt. Ltd. (âAlere
+Indiaâ), acting through an India-based distributor (âIndia Distributorâ), won a contract to provide
+malaria testing kits to a local governmental entity for a national disease control program.
+
+67.  Inearly 2012, the India Distributor wrote a letter to Alere Indiaâs then-Vice
+President of Marketing and Sales about the tender. The India Distributor noted that it had met
+with officials of the local governmental entity who had informed them that if the local
+governmental officials were paid a four percent commission, they would increase the orders
+under the tender from 200,000 to 1,000,000 testing kits. Alere Indiaâs Vice President of
+Marketing and Sales approved the four percent commission and the India Distributor proceeded
+to incorporate the increased commission amount into the prices for the test kits. Alere India
+failed to record the additional commission in its books and records.
+
+68. In August 2012, the India Distributor requested from Alere India a credit memo
+for the commission it had paid the local government officials in connection with the initial
+200,000 test kits it had provided to the local governmental entity. Around the same time, the
+India Distributor paid Alere India the amounts owed for the 200,000 test kits, but deducted the
+commission paid to the local government officials from the total payment amount. The India
+Distributor noted the reasons for the deduction on an invoice accompanying the payment.
+
+69. In December 2012, the new management at Alere India discovered the unpaid
+credit memo associated with the 200,000 test kits. Alereâs corporate management initiated an
+internal investigation, and it directed Alere India to refuse to issue the requested credit memo.
+Alere India requested and received re1mbursement from the India Distributor for increased
+commission the India Distributor had withheld on that order. Alere, however, retained the
+approximate $150,000 in profits that it obtained from the increased contract.
+
+70. Through the conduct described above, Alere violated Sections 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act through the inaccurate recording of the commissions paid by
+Alere India on its books and records, and its failure to devise or maintain internal accounting
+controls sufficient to provide reasonable assurances that its funds would not be used to make
+improper payments in contravention of Alereâs policies.
+
+13
+Alere Offered Securities
+
+71. During the relevant period, Alere issued shares through a number of employee
+share purchase programs offered to employees. Also during the relevant period, Alere issued
+debt securities, including, on June 24, 2015, Alere completed an offering of $425 million of
+6.375% senior subordinated notes due in 2023. Alere also issued senior notes on December 11,
+2012 and May 24, 2013.
+
+Violations
+
+72. Section 10(b) of the Exchange Act and Rule 10b-5 thereunder prohibit fraudulent
+conduct in connection with the purchase and sale of a security. As a result of the conduct
+described above related to early sales at SD, Alere violated Section 10(b) of the Exchange Act
+and Rule 10b-5 thereunder.
+
+73. Section 17(a) of the Securities Act prohibits fraudulent conduct in the offer and
+sale of securities. As a result of the conduct described above, Alere violated Section 17(a) of the
+Securities Act.
+
+TA. Section13(a) of the Exchange Act requires issuers of securities registered pursuant
+to Section 12 of the Exchange Act to file periodic and other reports with the Commission. With
+exceptions not applicable here, Rules 13a-1, 13a-11, and 13a-13 of the Exchange Act require
+each issuer to file annual, current, and quarterly reports respectively on the appropriate forms
+and within the period specific on the form. Rule 12b-20 further requires that the required reports
+contain such further material information, if any, as may be necessary to make the required
+statements, in light of the circumstances under which they are made not misleading. As a result
+of the conduct described above, Alere violated Section 13(a) of the Exchange Act and Rules 12b-
+20, 13a-1, 13a-11, and 13a-13 thereunder.
+
+75. Section 13(b)(2)(A) of the Exchange Act requires issuers of securities registered
+pursuant to Section 12 of the Exchange Act to make and keep books, records and accounts,
+which, in reasonable detail, accurately and fairly reflect their transactions and dispositions of
+their assets. As a result of the conduct described above, Alere violated Section 13(b)(2)(A) of
+the Exchange Act.
+
+76. Section 13(b)(2)(B) of the Exchange Act requires issuers of securities registered
+pursuant to Section 12 of the Exchange Act to, among other things, devise and maintain a system
+of internal accounting controls sufficient to provide reasonable assurances that transactions are
+recorded as necessary to permit preparation of financial statements in accordance with generally
+accepted accounting principles and that transactions are executed in accordance with
+managementâs general or specific authorization. As a result of the conduct described above,
+Alere violated Section 13(b)(2)(B) of the Exchange Act.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent Alereâs Offer.
+
+14
+Accordingly, pursuant to Section 8A of the Securities Act and Section 21C of the
+Exchange Act, it is hereby ORDERED that:
+
+A. Respondent Alere shall cease and desist from committing or causing any
+violations and any future violations of Sections 10(b), 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the
+Exchange Act and Rules 10b-5, 12b-20, 13a-1, 13a-11, and 13a-13thereunder, and Section 17(a)
+of the Securities Act.
+
+B. Respondent shall, within 14 days of the entry of this Order, pay a civil money
+penalty of $9,200,000, disgorgement of $3,328,689, and prejudgment interest of $495,196 to the
+Securities and Exchange Commission for transfer to the general fund of the United States
+Treasury, subject to Exchange Act Section 21F(g)(3). If timely payment is not made, additional
+interest shall accrue pursuant to SEC Rule of Practice 600 and 31 U.S.C. Â§3717.
+
+Payment must be made in one of the following ways:
+
+(1) Respondent may transmit payment electronically to the Commission,
+which will provide detailed ACH transfer/Fedwire instructions upon
+request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+ 
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying
+Alere, Inc. as a Respondent in these proceedings, and the file number of these proceedings; a
+copy of the cover letter and check or money order must be sent to Associate Director John
+T.Dugan, Division of Enforcement, Securities and Exchange Commission, Boston Regional
+Office, 33 Arch Street, 24" Floor, Boston, MA 02110.
+
+C. Amounts ordered to be paid as civil money penalties pursuant to this Order shall
+be treated as penalties paid to the government for all purposes, including all tax purposes. To
+preserve the deterrent effect of the civil penalty, Respondent agrees that in any Related Investor
+Action, it shall not argue that it is entitled to, nor shall it benefit by, offset or reduction of any
+award of compensatory damages by the amount of any part of Respondentâs payment of a civil
+penalty in this action (âPenalty Offsetâ). If the court in any Related Investor Action grants such
+
+15
+a Penalty Offset, Respondent agrees that it shall, within 30 days after entry of a final order
+granting the Penalty Offset, notify the Commission's counsel in this action and pay the amount of
+the Penalty Offset to the Securities and Exchange Commission. Such a payment shall not be
+deemed an additional civil penalty and shall not be deemed to change the amount of the civil
+penalty imposed in this proceeding. For purposes of this paragraph, a âRelated Investor Actionâ
+means a private damages action brought against Respondent by or on behalf of one or more
+investors based on substantially the same facts as alleged in the Order instituted by the
+Commission in this proceeding.
+
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+16

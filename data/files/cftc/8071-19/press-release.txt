@@ -1,0 +1,36 @@
+Release Number 8071-19
+
+November 4, 2019
+
+CFTC Charges Companies and Associates with Failing to Register with the CFTC
+
+Washington, DC â The U.S. Commodity Futures Trading Commission today issued an order filing and settling charges
+against Silver Star FX, LLC d/b/a Silver Star Live (SSL) of New Mexico and Silver Star Live Software LLC (SSLS)
+of Florida, and two officers of those firms, Candace Ross-Mahmoud and Hassan Mahmoud of California (collectively,
+respondents). In its order, the CFTC found that SSL and SSLS acted as unregistered commodity trading advisors and that
+Ross-Mahmoud and Mahmoud acted as unregistered associated persons of both SSL and SSLS. The order requires the
+respondents, who are jointly and severally liable, to pay a $75,000 civil monetary penalty and to cease and desist from
+future violations of the Commodity Exchange Act.
+
+The order finds that from at least July 2018 to March 2019, on behalf of SSL and, later, SSLS, Ross-Mahmoud and
+Mahmoud solicited customers to open discretionary trading accounts (or supervised other persons who did so), and
+offered to trade in customersâ retail forex accounts through a âforex autotrader.â The autotrader used an algorithm to
+trade multiple currency pairs, automatically entering and exiting trades without customer intervention. The autotrader
+also purportedly automatically hedged losing trades to mitigate losses. By virtue of the autotrader, SSL and SSLS
+exercised discretionary trading authority over retail customersâ forex accounts.
+
+As found in the order, respondents marketed the autotrader using the slogan âOur Trades, Your Account,â and in
+promotional video presentations, Mahmoud described the autotrader as â95% hands-offâ after initial set up. Although
+customers were required to set up the autotrader and load periodic updates, those efforts were supported by SSL and
+SSLS staff. Further, respondents touted the autotrader as suitable for people without any prior forex trading experience.
+Ross-Mahmoud and Mahmoud and, at their direction, the affiliates of SSL and SSLS, instructed individual customers to
+open and fund accounts at retail forex exchange dealers and link the accounts to the autotrader.
+
+The CFTC strongly urges investors to ensure a company or individual is registered before investing money. To check
+registration status visit NFA BASIC. For more information about investing money in the forex market visit CFTC Learn &
+Protect.
+
+The Division of Enforcement staff members responsible for this case are James A. Garcia, Michael Loconte, AimÃ©e
+Latimer-Zayets, and Rick Glaser.
+
+-CFTC-

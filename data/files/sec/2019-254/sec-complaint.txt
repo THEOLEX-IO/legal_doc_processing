@@ -1,0 +1,828 @@
+Case 1:19-cv-11214 Documenti1 Filed 12/06/19 Page 1 of 22
+
+AMY JANE LONGO
+
+REGIONAL TRIAL COUNSEL
+
+Finola H. Manvelian
+
+Wendy E. Pearson
+
+Attorneys for Plaintiff
+
+SECURITIES AND EXCHANGE COMMISSION
+Los Angeles Regional Office
+
+444 South Flower St, Suite 900
+
+Los Angeles, CA 90071
+
+(323) 965-3835 (Longo)
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+ 
+
+SECURITIES AND EXCHANGE COMMISSION,
+Plaintiff
+VS.
+TELEFONAKTIEBOLAGET LM ERICSSON,
+
+Defendant.
+
+ 
+
+ 
+
+Case No.
+
+COMPLAINT
+
+Plaintiff U.S. Securities and Exchange Commission (the âSECââ) alleges:
+
+SUMMARY
+
+1. This matter arises from violations of the anti-bribery, recordkeeping, and internal
+
+accounting controls provisions of the Foreign Corrupt Practices Act (âFCPAâ) [15. U.S.C.
+
+Â§Â§ 78dd-1, 78m(b)(2)(A)-(B)] by defendant Telefonaktiebolaget LM Ericsson (âEricssonâ), a
+
+multinational networking and telecommunications equipment and services company
+
+headquartered in Sweden.
+
+2. From 2011 through early 2017, Ericsson subsidiaries paid approximately $62
+
+million in bribes to government officials through third parties in Djibouti, Saudi Arabia, and
+
+China to obtain or retain business. Ericsson realized approximately $427 million in profits from
+business obtained through the use of these illicit payments. Ericssonâs practice involved either
+entering into agreements with third party consultants who had connections with or access to
+public officials, and/or paying for travel and entertainment expenses for foreign officials and
+sometimes their families in order to influence their decision-making.
+
+3. In Vietnam and Indonesia, Ericsson subsidiaries used consultants to create slush
+funds of approximately $56 million and the ultimate recipients of these funds were unknown.
+The consultants in Vietnam and Indonesia served strictly as intermediaries to transfer money to
+third parties.
+
+4. In China, Ericsson subsidiaries made approximately $31.5 million in payments
+pursuant to sham service provider agreements under which no legitimate services were provided.
+These payments were made so as to continue to use and pay third party agents in China in
+contravention of Ericssonâs policies and procedures.
+
+5. Ericsson also made a payment in the amount of $450,000 through a subsidiary to
+a consulting company in Qatar that was not in compliance with Ericssonâs internal accounting
+controls. Employees of the Ericsson subsidiary, at the direction of a senior employee, created a
+sham consultancy agreement to disguise the payment to the consultant.
+
+6. These illicit payments were improperly characterized in the books and records of
+Ericssonâs subsidiaries as legitimate expenses and consolidated in Ericssonâs financial
+statements, which were filed with the SEC throughout the relevant period.
+
+7. As aresult of its conduct in Djibouti, Saudi Arabia, and China, Ericsson, through
+its subsidiaries, violated Section 30A of the Securities Exchange Act of 1934 (âExchange Actâ)
+[15 U.S.C. Â§ 78dd-1] when it authorized or paid bribes to foreign officials in order to obtain or
+
+retain business.
+Case 1:19-cv-11214 Documenti Filed 12/06/19 Page 3 of 22
+
+8. As aresult of its conduct in Djibouti, Saudi Arabia, China, Vietnam, Indonesia
+and Kuwait, Ericsson, through its subsidiaries, violated Section 13(b)(2)(A) of the Exchange Act
+[15 U.S.C. Â§ 78m(b)(2)(A)] when it created false books and records by failing to accurately or
+completely record payments to third parties and to foreign officials. Ericsson also violated
+Section 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(B)] by failing to have sufficient
+internal accounting controls in place to detect and prevent the authorization or payment of
+improper payments.
+
+JURISDICTION AND VENUE
+
+9, This Court has jurisdiction over this action under Sections 21(d), 21(e) and 27 of
+the Exchange Act [15 U.S.C. 88 78u(d), 78u(e) and 78aa].
+
+10. Ericsson, directly or indirectly, made use of the means or instrumentalities of
+interstate commerce, of the mails, or of the facilities of a national securities exchange in
+connection with the transactions, acts, practices, and courses of business alleged in this
+Complaint.
+
+11. | Venue is proper in this District pursuant to Section 27 of the Exchange Act [15
+U.S.C. Â§ 78aa]. Certain acts or transactions constituting the violations by Ericsson occurred in
+this district.
+
+DEFENDANT
+
+12. Telefonaktiebolaget LM Ericsson (âEricssonâ or the âCompanyâ) is a
+multinational networking and telecommunications equipment and services company
+headquartered in Sweden. Throughout the relevant time period, Ericssonâs common shares were
+registered with the SEC pursuant to Section 12(b) of the Exchange Act [15 U.S.C. Â§ 781] and
+traded in the form of American Depositary Shares that were represented by American Depositary
+
+Receipts listed on the NASDAQ. As such, Ericsson was required to file reports, including Form
+
+3
+Case 1:19-cv-11214 Documenti1 Filed 12/06/19 Page 4 of 22
+
+20-F, with the SEC pursuant to Section 13(a) of the Exchange Act [15 U.S.C. Â§ 78m] and related
+rules thereunder, and was an âissuerâ within the meaning of the FCPA [15 U.S.C. Â§ 78dd-1].
+
+RELATED ENTITIES
+
+13. Ericsson AB (âEABâ) is a wholly owned subsidiary of Ericsson established in
+Sweden. EAB is one of Ericssonâs largest subsidiaries. Ericsson exercised control over the
+activities of EAB. EABâs board included some Ericsson executives, and EABâs senior managers
+reported to Ericssonâs management. EABâs books and records were consolidated into Ericssonâs
+financial statements filed with the SEC.
+
+14. Ericsson Egypt Ltd (âEricsson Egyptâ) is a majority-owned foreign subsidiary of
+Ericsson. The head of Ericssonâs Middle East region and individuals employed by Ericsson
+Egypt oversaw Ericssonâs operations in North East Africa, including Djibouti. Ericsson Egyptâs
+books and records were consolidated into Ericssonâs financial statements.
+
+15. Ericsson operated in China through its foreign subsidiaries, including Ericsson
+(China) Company Ltd., Ericsson (China) Communications Co., Ltd. and Ericsson Hong Kong, as
+well as its indirect majority-owned joint venture, Nanjing Ericsson Panda Communications
+Company Ltd., (collectively referred to as âEricsson Chinaâ). The financial statements of
+Ericsson China were consolidated with those of Ericsson.
+
+16. PT Ericsson Indonesia (âEricsson Indonesiaâ) is a majority-owned foreign
+subsidiary of Ericsson established in Indonesia. The financial statements of Ericsson Indonesia
+were consolidated with those of Ericsson.
+
+17. Ericsson Vietnam Co. Ltd. (âEricsson Vietnamâ) is a wholly owned foreign
+subsidiary of Ericsson established in Vietnam. The financial statements of Ericsson Vietnam
+
+were consolidated with those of Ericsson.
+Case 1:19-cv-11214 Documenti Filed 12/06/19 Page 5 of 22
+
+18. Ericsson Resource & Competence Center Sdn. Bhd. (âEricsson Malaysiaâ), is a
+wholly-owned foreign subsidiary of Ericsson that operates in Malaysia. The financial statements
+of Ericsson Malaysia were consolidated with those of Ericsson.
+
+FACTUAL ALLEGATIONS
+A. The Djibouti Bribery Scheme
+
+19. Beginning in approximately 2011, Ericsson, through the head of Ericssonâs
+Middle East region and employees of Ericsson Egypt, authorized and directed the payment of
+bribes in Djibouti in order to obtain a contract from a state owned telecommunications company
+(âDjibouti SOEâ).
+
+20. EAB had planned to bid for a large networking contract with the Djibouti SOE in
+2010. An Ericsson Egypt employee informed Ericssonâs head of Northeast Africa that EAB
+could win the contract with Djibouti SOE if EAB paid bribes to foreign officials in Djibouti.
+Later, these employees also heard this directly from a Djibouti foreign official.
+
+21. Fearing that they may not be awarded the contract, the head of Ericssonâs Middle
+East region and employees of Ericsson Egypt devised a plan to bribe the government officials.
+For this purpose, EAB, through its Ethiopia branch, retained a consulting company (the âDyibouti
+Consultantâ) that was owned by the wife of a senior Djibouti foreign official and controlled by
+the same Djibouti foreign official. This fact was known to the head of Ericssonâs Middle East
+region and employees of Ericsson Egypt.
+
+22. In October 2010, EAB submitted a bid to Djibouti SOE, and on May 11, 2011,
+Djibouti SOE signed a contract with EAB valued at approximately â¬20,300,000 ($29 million).
+
+23. On June 16, 2011, EABâs branch in Ethiopia and the Djibouti Consultant signed a
+
+consulting agreement. The services contemplated in the contract were never intended to be
+performed. In fact, the consulting agreement was a sham and was intended primarily to funnel
+bribes to the Djibouti foreign official.
+
+24. Thereafter, Ericssonâs head of Northeast Africa received pressure from two
+foreign officials (âDjibouti Foreign Official 1â and âDyibouti Foreign Official 2â) for EABâs
+Dubai branch to pay the Djibouti Consultant. Both of these foreign officials had decision-making
+authority over the bid for the contract with Djibouti SOE.
+
+25. For example, on August 14, 2011, Ericssonâs head of Northeast Africa stated in
+an email, âI just got another call from [Djibouti Foreign Official 1]. We need to wire the
+payment within the current week.â
+
+26. On August 17, 2011, Ericssonâs head of Northeast Africa stated, âI just got now a
+call from [representatives of Foreign Official 2]. I really need ... to wire the $.â
+
+27. On August 18, 2011, Ericssonâs head of Northeast Africa emailed a payment
+processor, âTell me what can I do to make [the payment] happen fast. I am getting strong
+pressures from [Foreign Official 2]. This is not nice.â
+
+28. On August 23, 2011, the Djibouti Consultant told Ericssonâs head of Northeast
+Africa that if the consulting payment was not made, the Djibouti SOE would no longer be
+interested in pursuing business with Ericsson.
+
+29. On or around August 24, 2011, EAB, through its branch in Dubai, transferred
+approximately $1,441,050 (EUR 1,000,000) to the Djibouti Consultant through a U.S.-based
+correspondent account.
+
+30. EAB, through its Dubai branch, made two additional payments to the Djibouti
+
+Consultant in or around October 2011 and March 2012. The three payments to the Djibouti
+Case 1:19-cv-11214 Documenti1 Filed 12/06/19 Page 7 of 22
+
+Consultant totaled approximately $2.1 million. The payments were made in U.S. dollars through
+correspondent bank accounts in New York.
+
+31. â Ericssonâs head of Northeast Africa, who authorized the payments, knew that the
+Djibouti Consultant would transfer a significant portion of the consulting fees to the two foreign
+officials with decision-making power in exchange for obtaining the contract with Djibouti SOE.
+
+32. On September 21, 2011, Ericsson issued a press release announcing that the
+company had been awarded a contract with the Djibouti SOE.
+
+33. The head of Ericssonâs Middle East region and Ericsson Egypt employees falsely
+booked the payments to the Djibouti Consultant in the books of EABâs Dubai branch under a
+cost of sales account, when they were, in fact, bribes to foreign officials in Djibouti. The EAB
+Dubai branchâs books and records were consolidated into Ericssonâs financial statements.
+
+The Saudi Arabia Bribery Scheme
+
+34. In 2012 and 2013, Ericsson, through the Saudi Arabia branch of EAB, made
+payments to two consultants in Saudi Arabia (âSaudi Consultant Aâ and âSaudi Consultant Bâ)
+in connection with securing business from a state-owned telecommunications company (âSaudi
+SOEâ).
+
+35. Saudi Consultant A and Saudi Consultant B were retained because the head of
+EABâs Saudi branch believed that their owners had influence over Saudi SOE officials making
+decisions on contracts pertaining to Saudi SOE.
+
+36. | The head of EABâs Saudi branch and the head of Ericssonâs Middle East region
+signed these consulting agreements and authorized the payments to the consultants while
+knowing or recklessly ignoring red flags which indicated a high probability that at least a portion
+of these commissions were intended for, or would be passed to, foreign officials at Saudi SOE to
+
+obtain or retain telecommunication contracts.
+37. For example, the contracts with both consultants described identical services. The
+
+services contemplated in the contract were never intended to be performed.
+
+38. In fact, besides its owners, Saudi Consultant A had only one employee.
+Additionally, Saudi Consultant A had only one client - EABâs Saudi branch. Saudi Consultant A
+was formed in January 2012, almost one year after the agreement was signed, specifically for the
+purpose of receiving payments pursuant to the consulting agreement with EABâs Saudi branch.
+Similarly, one of Saudi Consultant Bâs references was a senior official at Saudi SOE.
+
+39. EABâs Saudi branch employees did not follow Ericssonâs internal policies in
+retaining the two consultants. EABâs Saudi branch employees completed the due diligence on
+Saudi Consultant A and Saudi Consultant B almost one year after the agreements with the
+consultants were signed. The due diligence was a sham and was conducted only because it was
+necessary to begin making payments.
+
+AQ. âIn or around December 2012, in connection with payments made to both
+consultants, a senior foreign official with decision making authority at the Saudi SOE pressured
+the head of EABâs Saudi branch to make higher payments to Saudi Consultant A and Saudi
+Consultant B.
+
+Al. Saudi Consultant B claimed to be based in Saudi Arabia, yet some of the
+payments EAB made through its Saudi branch to Saudi Consultant B were sent to a Channel
+Islands bank account. Some of the payments to Saudi Consultant B were made on the same day
+as the payments made to Saudi Consultant A.
+
+42. Between March 2012 and February 2013, Ericsson, through EABâs Saudi branch,
+paid a total of approximately $40 million to the two Saudi Consultants and received nine
+
+contracts from Saudi SOE valued at more than $700 million.
+Case 1:19-cv-11214 Documenti1 Filed 12/06/19 Page 9 of 22
+
+43. Internally, EAB employees referred to these payments as âcorporate marketing
+feesâ which some employees believed to be code for bribes. Additionally, one EAB executive
+acknowledged that the payments to the consultants were extraordinarily large.
+
+44. Anemployee of EABâs Saudi branch communicated with the owners of Saudi
+Consultant A and Saudi Consultant B regarding the sham consulting agreements using U.S.-
+based email servers. Ericsson recorded the payments to Saudi Consultant A and Saudi
+Consultant B on the books of EABâs Saudi branch as cost of sales. The financial results of
+EABâs Saudi branch were consolidated into Ericssonâs financial statements.
+
+The Saudi Arabia & China Leisure Trips
+
+45. Ericsson, through EABâs Saudi branch and Ericsson China, funded leisure travel
+and entertainment for foreign officials from Saudi SOE and China, respectively, in exchange for
+new or continuing business from state-owned entities.
+
+46. Between 2015 and 2017, EABâs Saudi branch paid for lavish non-business related
+trips for two Saudi SOE employees who had decision-making authority at the Saudi SOE. At that
+time, the Saudi SOE had contracts with several different telecommunications companies. EAB,
+through its Saudi branch, paid for travel and entertainment expenses for the Saudi SOE
+employees, and occasionally one of their spouses, in order to secure an advantage over
+Ericssonâs competitors in obtaining additional and continuing orders from the Saudi SOE.
+
+A7. For example, EABâs Saudi branch paid for plane tickets, which cost
+approximately $70,000, for a Saudi SOE executive and seven of his family members to travel
+from Riyadh, Saudi Arabia to Los Angeles, California, between August 8 and September 15,
+2016. Additional pleasure trips to Paris were provided to the two Saudi SOE employees. EABâs
+Saudi branch paid for spa services, shopping, and accommodations at five star hotels on some of
+
+these trips.
+of . â
+: eee ey TES Bao se :
+4 oak ea fot 5 mau Â§ 5}
+Rue CAS th Le YF
+
+A8. During this period, EABâs Saudi branch generated at least $40.54 million of gross
+revenues from the Saudi SOE.
+
+49, Similarly, Ericsson China, paid for leisure trips for Chinese foreign officials in
+order to obtain business from a state-owned telecommunications company in China (âChina
+SOEâ). These trips were paid through an off-the-books structure created at the direction of the
+head of Ericssonâs Asia Pacific Region in order to disguise expenditures for gifts, trips, and
+entertainment of Chinese government officials and employees of China SOE. Ericsson China
+employees effectuated the structure by knowingly signing purchase requests and approving
+invoices submitted by third party service providers for services that were never provided. In at
+least one instance, Ericsson China employees facilitated payments to a fake service provider for
+the purpose of funneling money to agents and to cover travel and entertainment expenses for
+Chinese foreign officials.
+
+50. From 2013 to 2015, Ericsson China paid $19.5 million to third party service
+providers, in part to fund gifts and leisure trips given to Chinese foreign officials.
+
+51. Ericsson China paid approximately $3.2 million in travel expenses provided from
+May 2013 through December 2013 for executives at the China SOE to destinations including the
+United States, Australia, and France. In one instance, in May 2013, Ericsson China paid for a
+delegation of China SOE employees for a trip to the United States and the United Kingdom, with
+luxury accommodations, including stops in Palo Alto, Las Vegas, Phoenix, Chicago, and
+London. The China SOE awarded Ericsson China contracts between May 2013 and December
+
+2013 worth over $294 million.
+
+10
+ty
+o
+A
+vn
+dearer
+(tn
+â
+oo
+ee
+peel!
+ere,
+3
+vt
+$
+hs
+errs
+vs
+
+of . â
+: eee ey TES Bao se :
+4 oak ea fot 5 mau Â§ 5}
+Rue CAS th Le YF
+
+52. Ericsson China held letters of guarantee at several hotels and a travel agency that
+allowed Ericssonâs agents to place travel and entertainment expenses for Chinese officials on
+Ericsson Chinaâs tab.
+
+53. The trips described above appear to have been purely for sightseeing and had no
+legitimate business purpose. No Ericsson, EAB Saudi branch, or Ericsson China employees
+accompanied the foreign officials from Saudi Arabia or China, and the foreign officials did not
+participate in any business meetings or product demonstrations on these trips.
+
+54. The trips described above were falsely booked as legitimate travel and
+entertainment expenses in the books of Ericsson China and EABâs Saudi branch which were
+consolidated into Ericssonâs financial statements.
+
+B. Vietnam
+
+55. From at least 2011 through 2015, Ericsson, through entities including EAB,
+Ericsson Vietnam and Ericsson Malaysia engaged a purported sales consultant (âVietnamese
+Consultantâ) to provide consultancy services for various projects with customers in Vietnam.
+The Vietnamese Consultant did not provide these services. Instead, Vietnamese Consultant
+maintained a slush fund in Vietnam, through which payments were made to third parties. In total,
+the Vietnamese Consultant was paid, through manual payments, approximately $11.4 million
+between 2011 and 2015.
+
+56. Vietnamese Consultant served strictly as an intermediary, who used this slush
+fund to make payments to third parties. The recipients were disguised through the use of code
+names such as âExim,â âIvoryâ and âRezoneââ.
+
+57. Ericsson Vietnam did not have adequate internal accounting controls to identify
+
+the significant red flags raised by the payments to Vietnamese Consultant. Vietnamese
+
+1]
+Case 1:19-cv-11214 Document1 Filed 12/06/19 Page 12 of 22
+
+Consultant was incorporated in the British Virgin Islands and held its bank account in Hong
+Kong. Although Vietnamese Consultant dissolved in 2007, payments continued through 2015.
+
+58. Ericsson Vietnam employees understood that the slush funds managed by
+Vietnamese Consultant were connected to Vietnamese customers, several of which were state-
+owned. A portion of slush funds managed by Vietnamese Consultant were given to customers as
+cash gifts.
+
+59. Ericsson, through its employees and agents, falsified Ericssonâs books and records
+in order to conceal the slush fund payments. The payments were improperly booked to a cost of
+sales account in EABâs and Ericsson Vietnamâs books.
+
+60. The financial results of EAB and Ericsson Vietnam were consolidated into
+Ericssonâs financial statements.
+
+Indonesia
+
+61. Between 2012 and 2015, Ericsson Indonesia made approximately $45 million in
+payments to a purported sales consultant (âIndonesian Consultantâ), in order to create slush
+funds to be managed by Indonesian Consultant with oversight and direction from employees of
+Ericsson Indonesia.
+
+62. Indonesian Consultant served as an intermediary to transfer money to unknown
+third parties. The payments to Indonesian Consultant were made pursuant to sham contracts
+between Ericsson Indonesia and Indonesian Consultant for services that were never performed.
+Moreover, Indonesian Consultantâs invoices did not reflect the true nature of or contain a
+description of the services provided.
+
+63. Ericsson Indonesia employees referred to the slush funds using code names. One
+
+slush fund, the âfridge,â held millions of dollars of cash in U.S. dollars used for âoff the book
+
+12
+Case 1:19-cv-11214 Document1 Filed 12/06/19 Page 13 of 22
+
+expensesâ including customer entertainment and a pleasure trip to Bali. Ericsson Indonesia
+maintained other slush funds with indecipherable purposes such as âOperational.â
+
+64. To conceal them, the improper payments were recorded in the books of Ericsson
+Indonesia in a âCustomer Serviceâ account under cost of sales.
+
+65. Ericsson Indonesiaâs books and records were consolidated into Ericssonâs
+financial statements.
+
+Kuwait
+
+66. In December 2013, Ericsson, through EABâs branch in Qatar, made an improper
+payment to a consultant (âKuwait Consultantâ) pursuant to a sham contract for services that were
+never actually performed.
+
+67. In or around October 2011, a state owned telecommunications company in
+Kuwait opened a request for proposals to upgrade its radio access network (âKuwait Contractâ).
+EAB bid for the Kuwait Contract.
+
+68. |Anemployee of EAB entered into an oral agreement with Kuwait Consultant for
+assistance in obtaining Kuwait Contract. The Kuwait Consultant was owned by two individuals
+whose relative was a government official in Qatar.
+
+69. From October 2011 through November 2011, Kuwait Consultant provided an
+EAB employee with inside information such as competitor bid information about the Kuwait
+Contract tender.
+
+70. | EAB was awarded the Kuwait Contract, which was worth approximately $180
+million, in December 2012.
+
+71. Communications between the representative of the Kuwait Consultant and the
+EAB employee in January and February 2013 show that the Kuwait Consultant expected to
+
+receive 3% of the value of the equipment of the Kuwait Contract, and that the representative of
+
+13
+of . â
+: eee ey TES Bao se :
+4 oak ea fot 5 mau Â§ 5}
+Rue CAS th Le YF
+
+the Kuwait Consultant made a âcommitment to [his] friends in Kuwaitâ which he would not pay
+from his own funds.
+
+72. In November 2013, Kuwait Consultant escalated the issue to the head of
+Ericssonâs Middle East region, who eventually agreed to make a payment to Kuwait Consultant
+in the amount of $450,000 through a sham agreement.
+
+73. On December 12, 2013, an EAB employee sent an email attaching a draft
+âConsultancy Frame Agreementâ between Kuwait Consultant and EABâs branch in Qatar. The
+email stated, âI have been asked to sort out the mess we got into in Kuwait... . I have
+constructed the attached agreement... . I do not want anyone to think that I had anything to do
+with this just because I am now cleaning up!â
+
+74. On or around December 18, 2013, the head of Ericssonâs Middle East region
+signed the Consultancy Frame Agreement on behalf of EABâs Qatar branch. The agreement
+stated that EABâs Qatar branch engaged Kuwait Consultant to provide services âwithin the area
+of marketing and sales support to increase customer satisfaction and enhance Ericsson business
+in Kuwait... with the purpose of winning the LTE business with [Kuwait SOE].â These
+services were never provided. Accordingly, the head of Ericssonâs Middle East region asked the
+Kuwait Consultant to create a sham invoice to support the settlement payment.
+
+75. In December 2013, EABâs branch in Qatar paid $450,000 to Kuwait Consultant
+through correspondent bank accounts in New York, New York, to Kuwait Consultantâs bank
+account in Qatar.
+
+76. Ericssonâs books and records did not reflect that this transaction was, in fact,
+related to an arrangement to reimburse the consultant for payments to unknown recipients.
+
+Rather, EAB employees, at the direction of the head of Ericssonâs Middle East region, created a
+
+14
+Case 1:19-cv-11214 Document1 Filed 12/06/19 Page 15 of 22
+
+sham contract to disguise the payment to the consultant and approved a fake invoice for services
+in order to conceal the transaction.
+
+77. The payment was recorded in the books of EABâs Qatari branch under operating
+expenses. The financial results of EABâs Qatari branch were consolidated into Ericssonâs
+financial statements.
+
+China
+
+78. Between 2013 and 2016, Ericsson China paid $31.5 million to third party service
+providers who had connections and access to foreign officials. These third parties did not provide
+any legitimate services to Ericsson in exchange for the large payments they received.
+
+79. The purpose of these payments was to allow Ericsson China to continue to use
+and pay third party agents in China in contravention of Ericssonâs policies and procedures.
+
+80. In 2013, Ericsson instituted a policy restricting the use of third party agents.
+Ericssonâs head of Asia Pacific determined that it was important for Ericsson Chinaâs business to
+continue to engage third party agents with strong connections to Ericsson Chinaâs state-owned
+customers. To continue to use and pay agents who were not approved or paid in compliance with
+Ericssonâs internal procedures, EAB and Ericsson China employees made payments through
+sham contracts with service providers.
+
+81. To further avoid detection, EAB and Ericsson China employees processed the
+payments manually using paper purchase requests, rather than through the electronic computer
+system.
+
+82. Ericsson China improperly recorded these payments as âother external services,â
+âsite acquisition servicesâ and âservice fulfillment of contract.â The financial statements of
+
+Ericsson China were consolidated into those of Ericsson.
+
+15
+of . â
+: eee ey TES Bao se :
+4 oak ea fot 5 mau Â§ 5}
+Rue CAS th Le YF
+
+OF Ericssonâs Willful Failure to Implement and Maintain Sufficient Internal
+Accounting Controls
+
+83. During the relevant period, Ericsson knowingly and willfully failed to implement
+adequate internal accounting controls with respect to retention of consultants and agents,
+payment of bribes, and making improper payments.
+
+84. In particular, Ericsson failed to implement controls to ensure the effective
+enforcement of its policies and procedures that, among other things, (a) required employees
+properly to document and account for payments to agents and consultants, including the ultimate
+recipients of the payments and the reasons for the payments; (b) required adequate due diligence
+for the retention of third-party agents and consultants; (c) required completed due diligence and a
+fully executed contract with a third party before the third party could begin providing services;
+(d) required that agreed-upon payments be commensurate with the services to be performed and
+that the services paid for were performed; (e) prohibited certain compensation arrangements with
+third parties, such as advance payments; and (f) established oversight procedures, by personnel at
+Ericssonâs headquarters and others, to ensure that third parties were retained and paid pursuant to
+appropriate controls.
+
+85. As an example, Ericsson failed to implement an effective system of internal
+accounting controls over its third-party consultant in Djibouti. EAB, through its branch in
+Ethiopia, entered into a consultancy agreement with the Djibouti Consultant before the due
+diligence on the Djibouti Consultant was completed. Additionally, the agreement with the
+Djibouti Consultant deviated from Ericssonâs standard template agreement, was not properly
+executed and approved, and provided that the Djibouti Consultant would receive an advance
+payment, contrary to Ericssonâs policies and procedures. Likewise, the due diligence report on
+
+the Djibouti Consultant was not signed or approved in compliance with Ericssonâs established
+
+16
+of . â
+: eee ey TES Bao se :
+4 oak ea fot 5 mau Â§ 5}
+Rue CAS th Le YF
+
+management approval requirements, and omitted reference to the high-level official in the
+government of Djibouti who controlled the Djibouti Consultant. Further, in order to process
+payments to the Djibouti Consultant on an expedited basis, employees bypassed Ericssonâs
+policies, procedures, and internal accounting controls relating to payment to agents and
+consultants, at the direction of Ericssonâs head of Northeast Africa.
+
+86. In Saudi Arabia, an EAB Saudi branch employee completed the due diligence on
+Saudi Consultant A and Saudi Consultant B almost one year after the agreements with the
+consultants were signed. The due diligence was conducted only because it was required before
+making payments.
+
+87. In China, Ericsson failed to implement an effective system of internal accounting
+controls to prevent or detect the creation of sham service provider arrangements facilitated by
+fake purchase requests and invoices submitted by third party service providers for services that
+were never provided. Additionally, Ericsson China employees were able to provide foreign
+officials with leisure trips and gifts without detection.
+
+88. In Vietnam and Indonesia, neither Ericsson Vietnam nor Ericsson Indonesia had
+adequate internal accounting controls to identify the significant red flags raised by the payments
+to Vietnamese Consultant and Indonesian Consultant.
+
+89. In Kuwait, the $450,000 payment to the Kuwait Consultant was not approved or
+paid in compliance with Ericssonâs internal accounting controls. There was no written
+consultancy agreement in place with the Kuwait Consultant and no due diligence was completed
+
+at the time the purported services were performed.
+
+17
+D. Ericssonâs Falsified Books and Records
+
+90. Due to Ericssonâs failure to implement and enforce effective internal accounting
+controls, employees were able to disguise the true nature and purpose of certain transactions in
+Ericssonâs books and records.
+
+91. Ericsson, through its employees and agents, including senior-level employees,
+paid millions of dollars to various agents, consultants, and service providers who were not
+approved or paid in compliance with Ericssonâs internal procedures. Some of the payments were
+made in cash and were used to create slush funds, the purpose and recipients of which are
+unknown. Other payments were made pursuant to sham service provider agreements under
+which no legitimate services were provided to Ericsson, so as to continue to use and pay agents
+in contravention of the Companyâs policies and procedures.
+
+92. In connection with these payments, Ericsson, through its employees and agents,
+including senior-level employees, knowingly and willfully created or facilitated the creation of
+fictitious contracts, invoices, and purchase orders for services that were not rendered and were
+never intended to be rendered; used secret codenames for certain expenditures; and bypassed
+Ericssonâs standard vendor sourcing process, including by using hard copy, rather than
+electronic, documentation to evade detection. The payments were falsely or misleadingly
+characterized in Ericssonâs books and records, including as consulting expenses, cost of sales,
+
+99 66
+
+âcorporate marketing fees,â âother external servicesâ or âservice fulfillment of contract.â
+
+93. Ericsson, through its employees and agents, disguised in its books and records the
+approximately $2.1 million in bribe payments to, and for the benefit of, foreign officials in
+Djibouti.
+
+94. Ericsson, through its employees and agents, disguised in its books and records
+
+approximately $40 million in improper payments in connection with obtaining business in Saudi
+
+18
+Case 1:19-cv-11214 Document1 Filed 12/06/19 Page 19 of 22
+
+Arabia. Payments for lavish trips and entertainment intended to influence Saudi foreign officials
+also were disguised in Ericssonâs books and records.
+
+95. In connection with the conduct described above in China, approximately $31.5
+million in payments to third party service providers were inaccurately recorded in Ericssonâs
+consolidated books and records. An additional $19.5 million which was paid to third party
+consultants to fund gifts and leisure trips given to Chinese foreign officials, was also inaccurately
+characterized in Ericssonâs books and records.
+
+96. In connection with the conduct described above in Vietnam, approximately $11.4
+million in payments to the Vietnamese Consultant were inaccurately recorded in Ericssonâs
+consolidated books and records.
+
+97. In connection with the conduct described above in Indonesia, approximately $45
+million in payments to the Indonesian Consultant were inaccurately recorded in Ericssonâs
+consolidated books and records.
+
+98. With respect to the conduct described above in Kuwait, the $450,000 payment to
+the consultant was inaccurately recorded in Ericssonâs consolidated books and records.
+
+FIRST CLAIM FOR RELIEF
+Violations of Section 30A of the Exchange Act
+(Against Defendant)
+
+99. Paragraphs | through 98 are re-alleged and incorporated by reference.
+
+100. As described above, Ericsson, through its officers, directors, employees or agents
+corruptly offered, promised to pay, or authorized unlawful payments to one or more persons,
+while knowing that all or a portion of those payments would be offered, given or promised,
+directly or indirectly, to foreign officials for the purposes of influencing their acts or decisions in
+
+their official capacity, inducing them to do or omit to do actions in violation of their lawful
+
+19
+Case 1:19-cv-11214 Document1 Filed 12/06/19 Page 20 of 22
+
+duties, securing an improper advantage, or inducing such foreign officials to use their influence
+with a foreign government or instrumentality thereof to assist Ericsson in obtaining or retaining
+business.
+
+101. By reason of the foregoing, Ericsson violated, and unless enjoined, will continue
+to violate, the anti-bribery provisions of the FCPA, as codified at Section 30A of the Exchange
+Act [15 U.S.C. Â§ 78-dd-1].
+
+SECOND CLAIM FOR RELIEF
+Violations of Exchange Act Section 13(b)(2)(B) of the Exchange Act
+(Against Defendant)
+
+102. Paragraphs 1 through 98 are re-alleged and incorporated by reference.
+
+103. By engaging in the conduct described above, Ericsson failed to devise and
+maintain a system of internal accounting controls sufficient to provide reasonable assurances
+that: (1) transactions are executed in accordance with managementâs general or specific
+authorization; and (11) transactions are recorded as necessary to permit preparation of financial
+statements in conformity with generally accepted accounting principles or any other criteria
+applicable to such statements, and to maintain accountability for its assets.
+
+104. By engaging in the conduct described above, Ericsson violated, and unless
+enjoined, will continue to violate, the internal accounting controls provisions of the FCPA, as
+codified at Section 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(B)].
+
+THIRD CLAIM FOR RELIEF
+Violations of Exchange Act Section 13(b)(2)(A)
+(Against Defendant)
+
+105. Paragraphs | through 98 are re-alleged and incorporated by reference.
+106. As alleged above, Ericsson failed to keep books, records, and accounts, which, in
+
+reasonable detail, accurately and fairly reflected its transactions and disposition of its assets.
+
+20
+107. By reason of the foregoing, Ericsson violated, and unless enjoined, will continue
+to violate, the books-and-records provisions of the FCPA, as codified at Section 13(b)(2)(A) of
+the Exchange Act [15 U.S.C. Â§78m(b)(2)(A)].
+
+PRAYER FOR RELIEF
+
+WHEREFORE, the SEC respectfully requests that the Court:
+
+I.
+
+Issue findings of fact and conclusions of law that Ericsson committed the alleged
+violations.
+
+II.
+
+Issue judgments, in forms consistent with Rule 65(d) of the Federal Rules of Civil
+Procedure, permanently enjoining Ericsson, and its officers, agents, servants, employees, and
+attorneys, and all persons in active concert or participation with any of them, who receive actual
+notice of the judgment by personal service or otherwise, and each of them, from violating
+Section 30A, 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78dd-1,
+78m(b)(2)(A), and 78m(b)(2)(B)].
+
+HI.
+
+Order Ericsson to disgorge all ill-gotten gains, with prejudgment interest, wrongfully
+
+obtained from the conduct alleged in this Complaint.
+IV.
+
+Retain jurisdiction of this action in accordance with the principles of equity and the
+Federal Rules of Civil Procedure in order to implement and carry out the terms of all orders and
+decrees that may be entered, or to entertain any suitable application or motion for additional
+
+relief within the jurisdiction of this Court.
+
+21
+Case 1:19-cv-11214 Document1 Filed 12/06/19 Page 22 of 22
+
+V.
+
+Grant such other and further relief as this Court may determine to be just and necessary.
+
+Dated: December 6, 2019
+
+*Not admitted in SDNY
+
+/s/ Amy Jane Longo
+
+AMY JANE LONGO
+
+longoa@sec. gov
+
+Securities and Exchange Commission
+Los Angeles Regional Office
+
+444 S. Flower Street, Suite 900
+
+Los Angeles, CA 90071
+
+(323) 965-3835 (Longo)
+
+FINOLA H. MANVELIAN*
+manvelianf@sec.gov
+
+(323) 965-3980 (Manvelian)
+WENDY E. PEARSON*
+pearsonw(@sec.gov
+
+(323) 965-4546 (Pearson)
+
+22
+Complaints and Other Initiating Documents
+1:19-cv-11214 Securities and Exchange Commission v. Telefonaktiebolaget LM Ericsson
+
+U.S. District Court
+Southern District of New York
+Notice of Electronic Filing
+
+The following transaction was entered by Longo, Amy on 12/6/2019 at 4:44 PM EST and filed on
+12/6/2019
+
+Case Name: Securities and Exchange Commission v. Telefonaktiebolaget LM Ericsson
+Case Number: 1:19-cv-11214
+Filer: Securities and Exchange Commission
+
+Document Number: |
+
+Docket Text:
+COMPLAINT against Telefonaktiebolaget LM Ericsson. Document filed by Securities and
+Exchange Commission.(Longo, Amy)
+
+1:19-cv-11214 Notice has been electronically mailed to:
+Amy J. Longo longoa@sec.gov
+
+1:19-cv-11214 Notice has been delivered by other means to:
+The following document(s) are associated with this transaction:
+
+Document description:Main Document
+
+Original filename:n/a
+
+Electronic document Stamp:
+
+[STAMP dcecfStamp ID=1008691343 [Date=12/6/2019] [FileNumber=23221767-
+0] [Sce2b1bbb5074cd7f68 1 7Â£39270e 1 0d74923cab763e0a9td05b65d077445bd3 8c2
+c2e3d4393bff96647c07b7536007Â¢e94345823c4ea7208396594808742905b1 J]
+

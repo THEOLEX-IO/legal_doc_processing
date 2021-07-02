@@ -95,7 +95,7 @@ def _sub_you_shall_not_pass(
         "Judge",
         "Civil Monetary Penalty",
         "Anti-Money Laundering",
-        "Swap Reporting Violations",
+        "Swap Reporting violations",
         "Commodity Industry",
         "Personal Expenses",
         "Commodity Futures",

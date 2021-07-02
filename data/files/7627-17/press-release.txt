@@ -17,7 +17,7 @@ and to cease and desist from violating the Commodity Exchange Act’s prohibitio
 The Order finds that over the course of several months, Trader A repeatedly traded using the same spoofing pattern:
 Trader A placed one or more large orders (typically more than 100 contracts) on one side of the book, while he had a
 small resting order (typically fewer than 10 contracts) on the opposite side of the book, and he immediately cancelled the
-large order(s) when his small order got filled. The Order concludes that Trader A thus engaged in spoofing in violation of
+large order(s) when his small order got filled. The Order concludes that Trader A thus engaged in spoofing in violations of
 Section 4c(a)({5)(C) of the Commodity Exchange Act because he entered into multiple bids or offers on a registered entity
 with the intent to cancel the bids or offers before execution.
 

@@ -33,7 +33,7 @@ ne “seme
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS AND IMPOSING REMEDIAL sanctions
 
 I. INTRODUCTION
 
@@ -48,7 +48,7 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (“Offer’’), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
-Exchange Act, Making Findings, and Imposing Remedial Sanctions (“Order”) and acknowledges
+Exchange Act, Making Findings, and Imposing Remedial sanctions (“Order”) and acknowledges
 service of this Order. '
 
 Il. FINDINGS
@@ -72,7 +72,7 @@ Respondent, a registered futures commission merchant (“FCM”), failed to dili
 the handling by its employees and agents of commodity interest accounts carried by Respondent
 and introduced by a Respondent guaranteed introducing broker (“GIB”), as well as the activities
 of its employees and agents relating to its business as a registered FCM to ensure compliance
-with the Act and Regulations, and to deter and detect wrongdoing, in violation of Regulation
+with the Act and Regulations, and to deter and detect wrongdoing, in violations of Regulation
 166.3, 17 C.F.R. § 166.3 (2018).
 
 In particular, Respondent had a supervisory system in place as evidenced by its
@@ -221,11 +221,11 @@ and deterrence of possible wrongdoing by its agents.’” Samson Refining Co. v
 Lambert, Inc., CFTC No. 82-R448, 1990 WL 282783, at *11 (Feb. 16, 1990) (quoting Lobb v.
 J.T. McKerr & Co., CFTC No. 85-R185, 1989 WL 242384, at *11 (Dec. 14, 1989)).
 
-A violation of Regulation 166.3 is established by showing either that: (1) the registrant’s
+A violations of Regulation 166.3 is established by showing either that: (1) the registrant’s
 supervisory system was generally inadequate, or (2) the registrant failed to perform its
 supervisory duties diligently. In re FCStone, LLC, CFTC No. 15-21, 2015 WL 2066891, at *3
 (May 1, 2015) (consent order) (citing In re Murlas Commodities, CFTC No. 85-29, 1995 WL
-523563 (Sept. 1, 1995)). So, even if proper procedures are in place, a supervisory violation may
+523563 (Sept. 1, 1995)). So, even if proper procedures are in place, a supervisory violations may
 occur if a registrant fails to implement those procedures, or fails to ensure that its agents follow
 those procedures. See, e.g., GNP Commodities, 1992 WL 201158, at *17 (providing that, even if
 an adequate supervisory system is in place, Regulation 166.3 can still be violated if the
@@ -234,8 +234,8 @@ FCM’s supervisory diligence must remain sensitive to the particular facts and 
 influenced the design and execution of the system at issue”), aff'd sub nom. Monieson vy. CFTC,
 996 F.2d 852 (7th Cir. 1993).
 
-Further, a violation of Regulation 166.3 is an independent violation for which no
-underlying violation is necessary. FCStone, 2015 WL 2066891, at *3. Instead, evidence of
+Further, a violations of Regulation 166.3 is an independent violations for which no
+underlying violations is necessary. FCStone, 2015 WL 2066891, at *3. Instead, evidence of
 underlying violations that “should be detected by a diligent system of supervision, either because
 of the nature of the violations or because the violations have occurred repeatedly” is probative of
 a failure to supervise. CFTC v. Sidoti, 178 F.3d 1132, 1137 (11" Cir. 1999) (defendant was liable
@@ -270,7 +270,7 @@ were not compliant with the Act and Regulations. In failing to supervise its emp
 agents to ensure they carried out these obligations in their handling of the commodity interest
 accounts, Respondent violated Regulation 166.3.
 
-IV. FINDINGS OF VIOLATIONS
+IV. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the relevant period,
 Respondent violated Regulation 166.3, 17 C.F.R. § 166.3 (2018).
@@ -284,7 +284,7 @@ A. Acknowledges service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C. Waives:
 1, The filing and service of a complaint and notice of hearing;
@@ -394,7 +394,7 @@ investigation, civil litigation, or administrative matter related to, or arising
 this action.
 
 3. Partial Satisfaction: Respondent understands and agrees that any acceptance by
-the Commission or the Monitor of any partial payment of Respondent’s CMP
+the Commission or the monitor of any partial payment of Respondent’s CMP
 Obligation shall not be deemed a waiver of his obligation to make further
 payments pursuant to this Order, or a waiver of the Commission’s right to seek to
 compel payment of any remaining balance.

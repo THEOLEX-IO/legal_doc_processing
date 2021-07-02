@@ -43,7 +43,7 @@ Nee Nee eeâ ee eeâ SNâ
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I. INTRODUCTION
 
@@ -61,8 +61,13 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
+<<<<<<< HEAD:data/future/files/cftc/8253-20/order-marex-north-america-llc.txt
 Exchange Act, Making Findings, and Imposing Remedial Sanctions (âOrderâ), and
 acknowledges service of this Order.â
+=======
+Exchange Act, Making Findings, and Imposing Remedial sanctions (“Order”), and
+acknowledges service of this Order.’
+>>>>>>> fix_datapoint:data/cftc_next_step/8253-20/order-marex-north-america-llc.txt
 
  
 
@@ -126,9 +131,15 @@ therewith. See First American Discount Corp. v. CFTC, 222 F.3d 1008, 1010 (D.C. 
 Act and Regulations set forth minimum financial requirements for FCMs to insure that FCMs meet
 their obligations as registrants. See Revised Adjusted Net Capital Requirements for Futures
 Commission Merchants and Introducing Brokers [Final Rule], 74 Fed. Reg. 69279 (Dec. 31,
+<<<<<<< HEAD:data/future/files/cftc/8253-20/order-marex-north-america-llc.txt
 2009). Marex failed to reflect a guarantee of an affiliateâs liability as a deduction in computing
 Marexâs adjusted net capital. Reflecting the amount of the guarantee would have resulted in Marex
 being undercapitalized and in violation of the minimum financial requirements as set forth in the Act
+=======
+2009). Marex failed to reflect a guarantee of an affiliate’s liability as a deduction in computing
+Marex’s adjusted net capital. Reflecting the amount of the guarantee would have resulted in Marex
+being undercapitalized and in violations of the minimum financial requirements as set forth in the Act
+>>>>>>> fix_datapoint:data/cftc_next_step/8253-20/order-marex-north-america-llc.txt
 and Commission Regulations. Marex continued to operate as a FCM while undercapitalized.
 
 1. Marex Should have Taken a Deduction in Computing Net Capital for the
@@ -172,7 +183,7 @@ Marexâs adjusted net capital during the months when there were drawdowns on
 Marex would be deemed to have failed to meet its minimum capital requirement for thirty-three
 months during the Relevant Period.
 
-IV. FINDINGS OF VIOLATIONS
+IV. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period, Marex
 violated Section 4f(b) of the Commodity Exchange Act (âActâ), 7 U.S.C. Â§ 6f(b) (2018), and
@@ -187,7 +198,7 @@ A. Acknowledges service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C. Waives:
 1. The filing and service of a complaint and notice of hearing;

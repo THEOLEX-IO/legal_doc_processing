@@ -28,7 +28,7 @@ Respondent. ) L 10:55 am, Sep 10, 7019]
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(C) AND (D) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I. INTRODUCTION
 
@@ -46,7 +46,7 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
-Exchange Act, Making Findings, and Imposing Remedial Sanctions (“Order”) and acknowledges
+Exchange Act, Making Findings, and Imposing Remedial sanctions (“Order”) and acknowledges
 service of this Order.
 
  
@@ -144,7 +144,7 @@ business of dealing in commodity interests ....
 
 17 C.F.R. § 1.35(a)(1)() (2018). These records include audit trail data. See Inre ABN AMRO
 Clearing Chicago LLC, CFTC No. 18-31, 2018 WL 4502261, at *4 (Sept. 14, 2018) (consent
-order finding violation of Section 4g of the Act and Regulations 1.31 and 1.35 for failures
+order finding violations of Section 4g of the Act and Regulations 1.31 and 1.35 for failures
 regarding audit trail data); Jn re E*Trade Sec. LLC, CFTC No. 17-07, 2017 WL 413517, at *4
 (Jan. 26, 2017) (same).
 
@@ -155,7 +155,7 @@ production delays. The facts and circumstances here, where for nearly three year
 failed to produce reliable required records to the Division, are sufficient for the Commission to
 
 3
-determine that a violation occurred. These failures substantially delayed the Division’s
+determine that a violations occurred. These failures substantially delayed the Division’s
 investigation, and thus illustrate the importance of complying with the production requirements
 of the Act and Regulations. On these facts, Respondent violated Section 4g of the Act and
 Regulations 1.31 and 1.35.
@@ -169,7 +169,7 @@ Section 4g of the Act and Regulations 1.31 and 1.35.
 Regulation 166.3 requires each registered FCM to “diligently supervise the handling by
 its partners, officers, employees, and agents . . . of all commodity interests carried, operated,
 advised or introduced by the registrant and other activities .. . relating to its business as a
-Commission registrant.” 17 C.F.R. § 166.3 (2018). “A violation of Regulation 166.3 is
+Commission registrant.” 17 C.F.R. § 166.3 (2018). “A violations of Regulation 166.3 is
 demonstrated by showing that either: (1) the registrant’s supervisory system was generally
 inadequate; or (2) the registrant failed to perform its supervisory duties diligently.” See ABN
 AMRO Clearing Chicago, 2018 WL 4502261 at *4 (collecting cases).
@@ -183,7 +183,7 @@ failure, Respondent did not promptly produce reliable data to the Division, and 
 meet its production responsibilities under the Act and Regulations. Accordingly, Respondent
 violated Regulation 166.3.
 
-IV. FINDINGS OF VIOLATIONS
+IV. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period,
 Respondent violated Section 4g of the Act, 7 U.S.C. § 6g (2012), and Regulations 1.31, 1.35, and
@@ -198,7 +198,7 @@ A. Acknowledges service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C, Waives:
 
@@ -328,7 +328,7 @@ thereto. Respondent shall also cooperate in any investigation, civil litigation,
 administrative matter related to, or arising from, this action.
 
 Partial Satisfaction: Respondent understands and agrees that any acceptance by
-the Commission or the Monitor of any partial payment of Respondent’s
+the Commission or the monitor of any partial payment of Respondent’s
 Restitution Obligation, Disgorgement Obligation, or CMP Obligation shall not be
 deemed a waiver of its obligation to make further payments pursuant to this
 Order, or a waiver of the Commission’s right to seek to compel payment of any

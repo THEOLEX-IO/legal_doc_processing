@@ -16,8 +16,8 @@ from legal_doc_processing.legal_doc.information_extraction.defendant import (
 from legal_doc_processing.legal_doc.information_extraction.extracted_authorities import (
     predict_extracted_authorities,
 )
-from legal_doc_processing.legal_doc.information_extraction.extracted_violation import (
-    predict_extracted_violation,
+from legal_doc_processing.legal_doc.information_extraction.extracted_violations import (
+    predict_extracted_violations,
 )
 from legal_doc_processing.legal_doc.information_extraction.folder import predict_folder
 

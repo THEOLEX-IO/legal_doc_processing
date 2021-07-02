@@ -24,7 +24,7 @@ eee
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I. INTRODUCTION
 
@@ -41,7 +41,7 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (“Offer’’), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
-Exchange Act, Making Findings, and Imposing Remedial Sanctions (“Order”), and
+Exchange Act, Making Findings, and Imposing Remedial sanctions (“Order”), and
 acknowledges service of this Order. !
 
  
@@ -137,7 +137,7 @@ an FCM because it accepted orders in futures contracts from its milk suppliers a
 money from, or extended credit to these suppliers by debiting or crediting the suppliers’
 accounts),
 
-IV. FINDINGS OF VIOLATIONS
+IV. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that Respondent violated Section 4d(a)(1)
 of the Act, 7 U.S.C. § 6d(a)(1) (2012).
@@ -150,7 +150,7 @@ findings and conclusions herein:
 
 Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 Waives:
 

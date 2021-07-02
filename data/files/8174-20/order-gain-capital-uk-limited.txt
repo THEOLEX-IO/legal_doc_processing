@@ -27,7 +27,7 @@ Nee ee’ ee ee NS”
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I. INTRODUCTION
 
@@ -47,7 +47,7 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
-Exchange Act, Making Findings, and Imposing Remedial Sanctions (“Order”) and acknowledges
+Exchange Act, Making Findings, and Imposing Remedial sanctions (“Order”) and acknowledges
 service of this Order.’
 
  
@@ -135,14 +135,14 @@ $241,671.
 
 Hil. LEGAL DISCUSSION
 
-A. Gain UK Failed To Register as an RFED in Violation of
+A. Gain UK Failed To Register as an RFED in violations of
 Section 2(c)(2)(C)(iii)(D(aa) of the Act and Regulation 5.3(a)(6)(i).
 
 The Commission’s registration requirements for commodity professionals are a
 cornerstone of the regulatory framework enacted by Congress to protect the public. See
 CFTC v. British Am. Commodity Options Corp., 560 F.2d 135, 139-40 (2d Cir. 1977); see
 also CFTC v. Savage, 611 F.2d 270, 280 (9th Cir. 1979). Failure to register 1s a serious
-offense, and not a mere technical violation. CFTC v. Heritage Capital Advisory Servs.,
+offense, and not a mere technical violations. CFTC v. Heritage Capital Advisory Servs.,
 [1980-1982 Transfer Binder] Comm. Fut. L. Rep. (CCH) J 21,627 at 26,387 (N.D. Ill. Nov.
 8, 1982).
 
@@ -169,7 +169,7 @@ Commission. It was the counterparty to customers located in the United States, w
 not ECPs, in connection with leveraged retail forex transactions.
 
 B. Gain UK Failed To Diligently Supervise the Handling of a Customer’s Retail Forex
-Account in Violation of Regulation 166.3.
+Account in violations of Regulation 166.3.
 
 Regulation 166.3, 17 C.F.R. § 166.3 (2019), requires “[e]ach Commission registrant,
 except an associated person who has no supervisory duties,” to “diligently supervise the
@@ -183,12 +183,12 @@ v. Drexel Burnham Lambert, Inc., CFTC No. 82-R448, 1990 WL 282783, at *11 (Feb. 
 Gain UK was “required to be registered” during the Relevant Period, it was also subject to
 Regulation 166.3’s supervision requirements.
 
-A violation of Regulation 166.3 is established by showing either that: (1) the
+A violations of Regulation 166.3 is established by showing either that: (1) the
 registrant’s supervisory system was generally inadequate, or (2) the registrant failed to
 perform its supervisory duties diligently. In re FCStone, LLC, CFTC No. 15-21, 2015
 WL 2066891, at *3 (May 1, 2015) (consent order) (citing In re Murlas Commodities,
 CFTC No. 85-29, 1995 WL 523563 (Sept. 1, 1995)). So, even if proper procedures are in
-place, a supervisory violation may occur if a registrant fails to implement those
+place, a supervisory violations may occur if a registrant fails to implement those
 procedures, or fails to ensure that its agents follow those procedures. See, e.g., In re GNP
 Commodities, CFTC No. 89-1, 1992 WL 201158, at *17 (Aug. 11, 1992) (providing that,
 even if an adequate supervisory system is in place, Regulation 166.3 can still be violated if
@@ -197,8 +197,8 @@ determination of a FCM’s supervisory diligence must remain sensitive to the pa
 facts and circumstances that influenced the design and execution of the system at issue’’),
 aff'd sub nom. Monieson v. CFTC, 996 F.2d 852 (7th Cir. 1993).
 
-Further, a violation of Regulation 166.3 is an independent violation for which no
-underlying violation is necessary. FCStone, 2015 WL 2066891, at *3. Instead, evidence
+Further, a violations of Regulation 166.3 is an independent violations for which no
+underlying violations is necessary. FCStone, 2015 WL 2066891, at *3. Instead, evidence
 of underlying violations that “should be detected by a diligent system of supervision, either
 because of the nature of the violations or because the violations have occurred repeatedly”
 is probative of a failure to diligently supervise. CFTC v. Sidoti, 178 F.3d 1132, 1137 (11th
@@ -220,7 +220,7 @@ fraudulent conduct caused Customer A to lose approximately $280,000 in less than
 months of trading. Gain UK earned $241,671 in connection with its failure to diligently
 supervise the handling of Customer A’s account.
 
-IV. FINDINGS OF VIOLATIONS
+IV. FINDINGS OF violations
 Based on the foregoing, the Commission finds that, during the Relevant Period, Gain UK
 violated Section 2(c)(2)(C)aii)(1)(aa) of the Act, 7 U.S.C. § 2(c)(2)(C) (1) (aa) (2018), and
 Regulations 5.3(a)(6)(i) and 166.3, 17 C.F.R. §§ 5.3(a)(6)G), 166.3 (2019).
@@ -233,7 +233,7 @@ A. Acknowledges service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C. Waives:
 1. The filing and service of a complaint and notice of hearing;

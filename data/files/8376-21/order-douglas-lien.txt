@@ -307,11 +307,11 @@ any agency expressly authorized to sue by Act of Congress). Section 6c(a) of the
 § 13a-1(a) (2018), provides that the Commission may bring actions for injunctive relief or to
 enforce compliance with the Act or any rule, regulation, or order thereunder in the proper district
 court of the United States whenever it shall appear to the Commission that any person has
-engaged, is engaging, or is about to engage in any act or practice constituting a violation of any
+engaged, is engaging, or is about to engage in any act or practice constituting a violations of any
 provision of the Act or any rule, regulation, or order thereunder.
 
 36. Venue properly lies with this Court pursuant to 7 U.S.C. § 13a-1(e), because the
-Defendant resides in this jurisdiction and the acts and practices in violation of the Act occurred
+Defendant resides in this jurisdiction and the acts and practices in violations of the Act occurred
 within this District.
 
 Fraud by Misappropriation, Misrepresentations, Material Omission, and False
@@ -340,7 +340,7 @@ issuing false periodic account statements and annual tax forms to clients.
 
 39. Each act of misrepresenting and omitting material information and making false
 statements to others, including, but not limited to, those specifically alleged herein, constitutes a
-separate and distinct violation of 7 U.S.C. § 6b(a)(1)(A)-(C).
+separate and distinct violations of 7 U.S.C. § 6b(a)(1)(A)-(C).
 
 Failure to Register as an FCM
 
@@ -366,7 +366,7 @@ FCM.
 43. Each act of accepting money to margin, guarantee, or secure commodity futures
 trades without being registered with the CFTC as an FCM, including, but not limited to, those
 
-specifically alleged herein, constitutes a separate and distinct violation of 7 U.S.C. § 6d(a)(1).
+specifically alleged herein, constitutes a separate and distinct violations of 7 U.S.C. § 6d(a)(1).
 
 IV. PERMANENT INJUNCTION
 
@@ -380,12 +380,12 @@ a. Cheating or defrauding, or attempting to cheat or defraud, or willfully decei
 attempting to deceive other persons in or in connection with any order to make, or the
 making of, any contract of sale of any commodity for future delivery that is made, or
 to be made, on or subject to the rules of a designated contract market, for or on behalf
-of any other person, in violation of Section 4b(a)(1)(A)-(C) of the Act, 7 U.S.C.
+of any other person, in violations of Section 4b(a)(1)(A)-(C) of the Act, 7 U.S.C.
 
 § 6b(a)(1(A)-(C) (2018);
 
 b. Accepting money to margin, guarantee, or secure commodity futures trades without
-being registered with the CFTC as an FCM, in violation of Section 4d(a)(1) of the
+being registered with the CFTC as an FCM, in violations of Section 4d(a)(1) of the
 Act, 7 U.S.C. § 6d(a)(1) (2018).
 
 45. Lien is also permanently restrained, enjoined and prohibited from directly or
@@ -439,13 +439,13 @@ Order pursuant to 28 U.S.C. § 1961 (2018).
 
 47. To effect payment of the Restitution Obligation and the distribution of any
 restitution payments to Defendant’s clients, the Court appoints the National Futures Association
-(“NFA”) as Monitor (“Monitor”). The Monitor shall receive restitution payments from
-Defendant and make distributions as set forth below. Because the Monitor is acting as an officer
+(“NFA”) as monitor (“monitor”). The monitor shall receive restitution payments from
+Defendant and make distributions as set forth below. Because the monitor is acting as an officer
 of this Court in performing these services, the NFA shall not be liable for any action or inaction
-arising from NFA’s appointment as Monitor, other than actions involving fraud.
+arising from NFA’s appointment as monitor, other than actions involving fraud.
 
 48. Defendant shall make Restitution Obligation payments, and any post-judgment
-interest payments, under this Consent Order to the Monitor in the name “Lien—Settlement
+interest payments, under this Consent Order to the monitor in the name “Lien—Settlement
 Fund” and shall send such payments by electronic funds transfer, or by U.S. postal money order,
 certified check, bank cashier’s check, or bank money order, to the Office of Administration,
 National Futures Association, 300 South Riverside Plaza, Suite 1800, Chicago, IL 60606 under
@@ -461,26 +461,26 @@ Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581 and to Deputy Dir
 Robert T. Howell, Commodity Futures Trading Commission, Division of Enforcement, 525 W.
 Monroe St., Suite 1100, Chicago, IL 60661.
 
-49. The Monitor shall oversee the Restitution Obligation and shall have the discretion
+49. The monitor shall oversee the Restitution Obligation and shall have the discretion
 to determine the manner of distribution of such funds in an equitable fashion to Defendant’s
-clients identified by the Commission or may defer distribution until such time as the Monitor
+clients identified by the Commission or may defer distribution until such time as the monitor
 deems appropriate. In the event that the amount of Restitution Obligation payments to the
-Monitor are of a de minimis nature such that the Monitor determines that the administrative cost
-of making a distribution to eligible clients is impractical, the Monitor may, in its discretion, treat
-such restitution payments as civil monetary penalty payments, which the Monitor shall forward
+monitor are of a de minimis nature such that the monitor determines that the administrative cost
+of making a distribution to eligible clients is impractical, the monitor may, in its discretion, treat
+such restitution payments as civil monetary penalty payments, which the monitor shall forward
 to the Commission following the instructions for civil monetary penalty payments set forth in
 Part B. below.
 
-50. Lien shall cooperate with the Monitor as appropriate to provide such information
-as the Monitor deems necessary and appropriate to identify Defendant’s clients to whom the
-Monitor, in its sole discretion, may determine to include in any plan for distribution of any
+50. Lien shall cooperate with the monitor as appropriate to provide such information
+as the monitor deems necessary and appropriate to identify Defendant’s clients to whom the
+monitor, in its sole discretion, may determine to include in any plan for distribution of any
 Restitution Obligation payments. Lien shall execute any documents necessary to release funds
 that he has in any repository, bank, investment or other financial institution, wherever located, in
 order to make partial or total payment toward the Restitution Obligation.
 
-51. The Monitor shall provide the Commission at the beginning of each calendar year
+51. The monitor shall provide the Commission at the beginning of each calendar year
 with a report detailing the disbursement of funds to Defendant’s clients during the previous year.
-The Monitor shall transmit this report under a cover letter that identifies the name and docket
+The monitor shall transmit this report under a cover letter that identifies the name and docket
 number of this proceeding to the Chief Financial Officer, Commodity Futures Trading
 
 Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
@@ -498,7 +498,7 @@ party beneficiary of this Consent Order and may seek to enforce compliance with 
 Order to obtain satisfaction of any portion of the restitution that has not been paid by Defendant.
 
 54. To the extent that any funds accrue to the U.S. Treasury for satisfaction of
-Defendant’s Restitution Obligation, such funds shall be transferred to the Monitor for
+Defendant’s Restitution Obligation, such funds shall be transferred to the monitor for
 disbursement in accordance with the procedures set forth above.
 
 B. Civil Monetary Penalty
@@ -547,9 +547,9 @@ NW, Washington, D.C. 20581 and to Deputy Director, Robert T. Howell, Commodity F
 Trading Commission, Division of Enforcement, 525 W. Monroe St., Suite 1100, Chicago, IL
 60661.
 
-C. Provisions Related to Monetary Sanctions
+C. Provisions Related to Monetary sanctions
 
-57. Partial Satisfaction: Acceptance by the Commission or the Monitor of any partial
+57. Partial Satisfaction: Acceptance by the Commission or the monitor of any partial
 payment of Defendant’s Restitution Obligation, or CMP Obligation shall not be deemed a waiver
 of his obligation to make further payments pursuant to this Consent Order, or a waiver of the
 Commission’s right to seek to compel payment of any remaining balance.
@@ -562,7 +562,7 @@ dissipation and disposal of Defendant’s assets (“Asset Freeze Order’). Fun
 16
 Case D1S-cv-OL LS3AVSCY Document5o Filed Q4/07/21 Page 1? of 19
 
-the Asset Freeze shall be released to the Monitor to help satisfy the Restitution Obligation and
+the Asset Freeze shall be released to the monitor to help satisfy the Restitution Obligation and
 
 the court hereby lifts the Asset Freeze Order.
 

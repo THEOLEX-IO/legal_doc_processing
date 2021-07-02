@@ -32,7 +32,7 @@ New Nee Nome Nee ee ee” ee” ee”
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT,
-MAKING FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+MAKING FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I. INTRODUCTION
 
@@ -50,7 +50,7 @@ In anticipation of the institution of an administrative proceeding, Schultz has 
 an Offer of Settlement (“Offer”) that the Commission has determined to accept. Schultz admits
 the findings and conclusions herein and consents to the entry of this Order Instituting
 Proceedings Pursuant to Section 6(c) and (d) of the Commodity Exchange Act, Making Findings,
-and Imposing Remedial Sanctions (“Order”), and acknowledges service of this Order.!
+and Imposing Remedial sanctions (“Order”), and acknowledges service of this Order.!
 
  
 
@@ -169,7 +169,7 @@ b. Schultz Misappropriated Energy Company’s Natural Gas Market
 Information and, at Times, Entered into Fictitious Trades To Further the
 Fraudulent Scheme.
 
-Schultz also shared additional Inside Information with Person A in violation of his duty
+Schultz also shared additional Inside Information with Person A in violations of his duty
 of trust and confidence to Energy Company. For example, Schultz had access to information
 belonging to Energy Company related to its analysis of the United States Energy Information
 Administration Natural Gas Storage Report (“Storage Report’), a weekly report that measured
@@ -237,7 +237,7 @@ commerce, or contract for future delivery on or subject to the rules of any regi
 example by trading on the basis of material nonpublic information in breach of a pre-existing
 duty (established by another law or rule, or agreement, understanding, or some other source), or
 by trading on the basis of material nonpublic information that was obtained through fraud or
-deception, may be in violation of final Rule 180.1.” Prohibition on the Employment, or
+deception, may be in violations of final Rule 180.1.” Prohibition on the Employment, or
 Attempted Employment, of Manipulative and Deceptive Devices and Prohibition on Price
 Manipulation, 76 Fed. Reg. 41,398, 41,403 (emphasis added); see also, In re Classic Energy
 LLC, CFTC No. 19-50, 2019 WL 4915492, at *3, *5-6 (Sept. 30, 2019) (consent order) (finding
@@ -256,13 +256,13 @@ at *5 (citing O’Hagan, 521 U.S. at 652); see O’ Hagan, 521 U.S. at 652 (“U
 misappropriation theory, a fiduciary’s undisclosed, self-serving use of a principal’s information
 to purchase or sell securities, in breach of a duty of loyalty and confidentiality, defrauds the
 principal of the exclusive use of that information.”).* A person also misappropriates material,
-nonpublic information in violation of Regulation 180.1 where the person does not trade for his
+nonpublic information in violations of Regulation 180.1 where the person does not trade for his
 
  
 
 ? As the Supreme Court observed in O’Hagan, “misappropriators . . . deal in deception. A fiduciary who ‘[pretends]
 loyalty to the principal while secretly converting the principal’s information for personal gain’ ‘dupes’ or defrauds
-the principal. The undisclosed misappropriation of such information, in violation of a fiduciary duty, . . . constitutes
+the principal. The undisclosed misappropriation of such information, in violations of a fiduciary duty, . . . constitutes
 fraud akin to embezzlement.” 521 U.S. at 653-54. Consequently, the Court held that “misappropriation, as just
 defined, satisfies [the Securities Exchange Act of 1934] § 10(b)’s requirement that chargeable conduct involve a
 “deceptive device or contrivance” used “in connection with” the purchase or sale of securities. Jd. at 653.
@@ -316,7 +316,7 @@ Schultz was able to obtain more advantageous prices and negate market risk for P
 and C on their trades with Energy Company, effectively allowing them to select a price they
 needed in order to make the offsetting trades profitable. Schultz’s conduct therefore caused
 prices to be reported to or recorded by ICE and CME that were not true and bona fide prices, all
-in violation of Section 4c(a)(2)(B) of the Act.
+in violations of Section 4c(a)(2)(B) of the Act.
 
 C. Schultz’s False Statements to the CFTC and ICE Violated Sections 6(c)(2) and
 9(a)(4) of the Act.
@@ -355,7 +355,7 @@ brokers to take the other side of his orders through an account they owned or co
 Schultz’s false statements to ICE were also material because they went to the heart of ICE’s
 investigation, whether Broker A violated exchange rules by taking the other side of its customer
 orders.
-IV. FINDINGS OF VIOLATIONS
+IV. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period, Schultz
 violated Sections 4c(a)(1)-(2), 6(c)(1)-(2), and 9(a)(4) of the Act, 7 U.S.C. §§ 6c(a)(1)-(), 9(1)-
@@ -369,7 +369,7 @@ A. Acknowledges service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C. Waives:
 

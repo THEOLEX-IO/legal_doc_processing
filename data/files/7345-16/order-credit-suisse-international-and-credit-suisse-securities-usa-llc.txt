@@ -33,7 +33,7 @@ Respondents,
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO SECTIONS 6(c) AND 6(d) OF
 THE COMMODITY EXCHANGE ACT, MAKING FINDINGS AND IMPOSING
-REMEDIAL SANCTIONS
+REMEDIAL sanctions
 
 I.
 
@@ -54,7 +54,7 @@ In anticipation of the institution of an administrative proceeding, Respondents 
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondents consent to
 the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) (2012) of the
-Act, Making Findings and Imposing Remedial Sanctions (“Order’’) and acknowledge service of
+Act, Making Findings and Imposing Remedial sanctions (“Order’’) and acknowledge service of
 this Order.
 
  
@@ -130,7 +130,7 @@ misleading.
 IV.
 LEGAL DISCUSSION
 
-A. Violation of Section 4a(b)(2) of the Act and Regulation 150.2
+A. violations of Section 4a(b)(2) of the Act and Regulation 150.2
 
 Section 4a(b)(2) of the Act, 7 U.S.C. § 6a(b)(2) (2009), made it unlawful for any person
 to “directly or indirectly hold or control a net long or net short position in any commodity for
@@ -146,7 +146,7 @@ options thereon, in excess of the following:” 6,500 all-months position limit 
 futures contracts.
 
 The Commission does not need to establish scienter — i.e., proof of intent to exceed the
-applicable speculative position limit — in order to prove a violation of the Commission’s position
+applicable speculative position limit — in order to prove a violations of the Commission’s position
 limit provisions. CFTC v. Hunt, 591 F.2d 1211, 1218 (7th Cir. 1979); Saberi v. CFTC, 488 F.3d
 1207, 1212 (9th Cir. 2007). The Act “unambiguously imposes liability” for violations of
 speculative position limits. Saberi, 488 F.3d at 1212 (rejected trader’s contention that DOE was
@@ -154,11 +154,11 @@ required to prove that he intended to violate speculative position limits in fro
 futures) (citing Hunt, 591 F.2d at 1218).
 
 On several days in April and June 2009, Respondent CSI held or controlled positions in
-excess of the all-months speculative position limit for CBOT wheat futures contracts in violation
+excess of the all-months speculative position limit for CBOT wheat futures contracts in violations
 of Section 4a(b)(2) of the Act, 7 U.S.C. § 6a(b)(2) (2009), and Regulation 150.2, 17 C.F.R. §
 150.2 (2009).
 
-B. Violation of Section 6(c)(2) of the Act
+B. violations of Section 6(c)(2) of the Act
 Section 6(c)(2) of the Act, 7 U.S.C. § 9(2) (2012), provides:
 
 It shall be unlawful for any person to make any false or misleading statement of a
@@ -177,7 +177,7 @@ exemptions for CBOT wheat futures contracts for the relevant days in April and J
 CSS-USA knew or reasonably should have known that this information was false or misleading.
 Therefore, Respondent CSS-USA violated Section 6(c)(2) of the Act, 7 U.S.C. § 9(2) (2012).
 
-FINDINGS OF VIOLATION
+FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, on several days in April and June
 2009, Respondent CSI violated Section 4a(b)(2) of the Act, 7 U.S.C. § 6a(b)(2) (2009), and
@@ -194,7 +194,7 @@ A. Acknowledge receipt of service of this Order;
 B. Admit the jurisdiction of the Commission with respect to all matters set forth in this
 
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C. Waive:
 

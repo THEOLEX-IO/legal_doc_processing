@@ -375,9 +375,15 @@ and comply with this agreement;
  
 
 11. In United States of America v. Malachai Levy, aka Ralph Maurice
+<<<<<<< HEAD:data/future/files/cftc/7424-16/consent-order-ralph-metters-aka-malachai-moe-levy.txt
 Metters, No. 14-cr-00635-JFW, (C.D. Cal., Jan 30, 2015) (the âCriminal Actionâ),
 Defendant pleaded guilty to Conspiracy to Commit Wire Fraud, in violation of 18
 U.S.C. Â§ 1349. In connection with that plea, Defendant admitted the facts set out
+=======
+Metters, No. 14-cr-00635-JFW, (C.D. Cal., Jan 30, 2015) (the “Criminal Action’),
+Defendant pleaded guilty to Conspiracy to Commit Wire Fraud, in violations of 18
+U.S.C. § 1349. In connection with that plea, Defendant admitted the facts set out
+>>>>>>> fix_datapoint:data/cftc_next_step/7424-16/consent-order-ralph-metters-aka-malachai-moe-levy.txt
 in the transcript of his plea allocution, a copy of which is attached as Exhibit A to
 this order, and those same facts are admitted as if set forth in this Consent Order.
 
@@ -528,15 +534,20 @@ Jurisdiction and Venue
 18. The Court has jurisdiction over this action pursuant to Section 6c of
 the Act, 7 U.S.C. Â§ 13a-1 (2012), which provides that whenever it shall appear to
 the Commission that any person has engaged, is engaging, or is about to engage in
-any act or practice constituting a violation of any provision of the Act or any rule,
+any act or practice constituting a violations of any provision of the Act or any rule,
 regulation, or order promulgated thereunder, the Commission may bring an action
 in the proper district court of the United States against any such person to enjoin
 such act or practice, or to enforce compliance with the Act, or any rule, regulation,
 or order thereunder.
 
 19. Venue properly lies with this Court pursuant to Section 6c(e) of the
+<<<<<<< HEAD:data/future/files/cftc/7424-16/consent-order-ralph-metters-aka-malachai-moe-levy.txt
 Act, 7 U.S.C. Â§ 13a-1(e) (2012), because the Defendant resides in this jurisdiction
 and the acts and practices in violation of the Act occurred within this District.
+=======
+Act, 7 U.S.C. § 13a-1(e) (2012), because the Defendant resides in this jurisdiction
+and the acts and practices in violations of the Act occurred within this District.
+>>>>>>> fix_datapoint:data/cftc_next_step/7424-16/consent-order-ralph-metters-aka-malachai-moe-levy.txt
 
 Fraud by Misappropriation, Misrepresentation, and Omission
 
@@ -595,13 +606,13 @@ misrepresentations including, but not limited to, guaranteeing trading profits a
 
 telling M.B. that his funds would be used for generate a line of credit that would be
 used for forex trading, when the Defendant knew that the funds would in fact be
-misappropriated, in violation of Section 4b(a)(2)(A) and (C) of the Act, 7 U.S.C.
+misappropriated, in violations of Section 4b(a)(2)(A) and (C) of the Act, 7 U.S.C.
 
 Â§ 6b(a)(2)(A), (C) (2012).
 
 21. Unless restrained and enjoined by this Court, there is a reasonable
 likelihood that the Defendant will continue to engage in the acts and practices
-alleged in the Complaint and in similar acts and practices in violation of the Act.
+alleged in the Complaint and in similar acts and practices in violations of the Act.
 
 IV. PERMANENT INJUNCTION
 
@@ -614,8 +625,13 @@ defrauding, or attempting to cheat or defraud, other persons in or in connection
 with any order to make, or the making of, any contract of sale of any commodity
 for future delivery, or other agreement, contract, or transaction subject to
 paragraphs (1) and (2) of Section 5a(g), that is made, or to be made, for or on
+<<<<<<< HEAD:data/future/files/cftc/7424-16/consent-order-ralph-metters-aka-malachai-moe-levy.txt
 behalf of, or with, any other person in violation of Section 4b(a)(2)(A) and (C) of
 the Act, 7 U.S.C. Â§ 6b(a)(2)(A), (C) (2012).
+=======
+behalf of, or with, any other person in violations of Section 4b(a)(2)(A) and (C) of
+the Act, 7 U.S.C. § 6b(a)(2)(A), (C) (2012).
+>>>>>>> fix_datapoint:data/cftc_next_step/7424-16/consent-order-ralph-metters-aka-malachai-moe-levy.txt
 
 23. The Defendant is also permanently restrained, enjoined, and
 
@@ -996,10 +1012,10 @@ Street, NW, Washington, D.C. 20581.
 
  
 
-D. Provisions Related to Monetary Sanctions
+D. Provisions Related to Monetary sanctions
 
 29. Partial Satisfaction: Acceptance by the Commission/CFTC or the
-Monitor of any partial payment of Disgorgement Obligation, or CMP Obligation
+monitor of any partial payment of Disgorgement Obligation, or CMP Obligation
 shall not be deemed a waiver of his obligation to make further payments pursuant
 to this Consent Order, or a waiver of the Commission/CFTCâs right to seek to
 compel payment of any remaining balance.

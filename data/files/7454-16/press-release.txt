@@ -7,7 +7,7 @@ Reports for Physical Commodity Swaps Positions
 
 Washington, DC - The U.S. Commodity Futures Trading Commission (CFTC) today filed and simultaneously settled
 charges against Wells Fargo Bank, N.A. (Wells Fargo) for failing to comply with its obligations to submit accurate large
-trader reports (LTRs) for physical commodity swap positions, in violation of Section 4s(f)(1)(A) of the Commodity
+trader reports (LTRs) for physical commodity swap positions, in violations of Section 4s(f)(1)(A) of the Commodity
 Exchange Act (CEA) and CFTC Regulations 20.4 and 20.7. Wells Fargo has its main office in Sioux Falls, South Dakota,
 and has been provisionally registered with the CFTC as a Swap Dealer since December 31, 2012.
 

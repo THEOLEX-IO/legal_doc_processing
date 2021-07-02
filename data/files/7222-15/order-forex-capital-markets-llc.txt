@@ -27,7 +27,7 @@ Respondent.
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTIONS 6(c) and 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS AND IMPOSING REMEDIAL sanctions
 
 I.
 
@@ -45,7 +45,7 @@ In anticipation of the institution of this administrative proceeding, Respondent
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
-Commodity Exchange Act, Making Findings and Imposing Remedial! Sanctions (“Order”) and
+Commodity Exchange Act, Making Findings and Imposing Remedial! sanctions (“Order”) and
 acknowledges service of this Order.!
 
  
@@ -66,7 +66,7 @@ A. | SUMMARY
 During the Relevant Period Respondent failed to diligently supervise certain of its
 officers’, employees’, and agents’ handling of accounts held at Respondent in the name of a
 fraudulent foreign currency exchange (“forex”) pool, Revelation Forex Fund, LP (“RFF”), in
-violation of Regulation 166.3, 17 C.F.R. § 166.3 (2014). Specifically, Respondent’s officers,
+violations of Regulation 166.3, 17 C.F.R. § 166.3 (2014). Specifically, Respondent’s officers,
 employees, and agents failed to follow Respondent’s compliance procedures by: (1) failing to
 provide adequate oversight of RFF’s accounts; and (2) failing to notify appropriate authorities of
 certain activities associated with those accounts. Ultimately, RFF suffered a multi-million dollar
@@ -74,10 +74,10 @@ loss as a result of the fraud perpetrated by the operators of RFF, Kevin G. Whit
 GP, LLC, and KGW Capital Management, LLC (collectively, the “White Entities”).”
 
 Further, during the Division of Enforcement’s (“Division”) investigation of RFF,
-Respondent failed to respond fully to a Commission document request in violation of Section 4g
+Respondent failed to respond fully to a Commission document request in violations of Section 4g
 of the Act, 7 U.S.C. § 6g 2012), and Regulations 1.31 and 1.35, 17 C.F.R. §§ 1.31 and 1.35
-(2014). Respondent’s violation of Section 4g of the Act also violated a previous Commission
-order in violation of Section 6(c) of the Act, 7 U.S.C. § 9 (2012).
+(2014). Respondent’s violations of Section 4g of the Act also violated a previous Commission
+order in violations of Section 6(c) of the Act, 7 U.S.C. § 9 (2012).
 
 | i&B. RESPONDENT
 
@@ -93,7 +93,7 @@ On July 9, 2013, the Commission filed a complaint in the U.S. District Court for
 Eastern District of Texas (“Complaint”) that charged White and the White Entities with
 fraudulently soliciting approximately $7.4 million from over 20 participants in a forex pooled
 investment vehicle and purported hedge fund, RFF, as well as misappropriating approximately
-$1.7 million of pool participants’ funds in violation of Sections 4b(a)(2)(A) and (C) and 40(1)(A)
+$1.7 million of pool participants’ funds in violations of Sections 4b(a)(2)(A) and (C) and 40(1)(A)
 and (B) of the Act, 7 U.S.C. §§ 6b(a)(2)(A) and (C) and 40(1)(A) and (B) (2012), CFTC v. RFF
 GP, LLC et al., No. 4:13-cv-382-RAS-DDB (E.D., Tex.). Specifically, the Complaint alleged
 that while acting as the controlling person of the White Entities, which operated the RFF pool,
@@ -186,7 +186,7 @@ Regulation 166.3, 17 C.F.R. § 166.3 (2014), requires that every Commission regi
 its officers, employees, and agents of all activities relating to its business as a registrant.
 Regulation 166.3 imposes upon registrants an affirmative duty to diligently supervise their
 employees and agents by establishing, implementing, and executing an adequate supervisory
-structure and compliance programs. In order to prove a violation of Regulation 166.3, the
+structure and compliance programs. In order to prove a violations of Regulation 166.3, the
 Commission must demonstrate that either: (1) the registrant’s supervisory system was generally
 inadequate; or (2) the registrant failed to perform its supervisory duties diligently. See In re
 Murlas Commodities, Inc., [1994-1996 Transfer Binder] Comm. Fut. L. Rep. (CCH) { 26,485, at
@@ -213,7 +213,7 @@ records to a Commission representative upon the representative’s request. Regu
 1.35, 17 C.F.R. §§ 1.31 and 1.35 (2014); see also Forex Capital Markets, LLC, Comm. Fut. L.
 Rep. (CCH) { 32,658 (CFTC Oct. 3, 2011) (holding that Respondent violated Section 4g of the
 Act and Regulation 1.35 by failing to produce promptly certain records sought in 4g requests).
-A violation of these record-keeping regulations does not require scienter. See In re DiPlacido,
+A violations of these record-keeping regulations does not require scienter. See In re DiPlacido,
 [2003-2004 Transfer Binder] Comm. Fut. L. Rep. 4 29,866, at 56,590 (CFTC Sept. 14, 2004);
 see also Inre GNP Commodities Inc., [1990-1992 Transfer Binder] Comm. Fut. L. Rep. (CCH)
 { 25,360, at 39,214 (CFTC Aug. 11, 1992); In re Buckwalter, [1990-1992 Transfer Binder]
@@ -241,15 +241,15 @@ the person a complaint,
 The Commission has relied upon this section of the Act and its predecessor in instituting
 administrative procedures for violating a Commission order, See In re Newedge USA, LLC,
 [2012-2013 Transfer Binder] Comm. Fut. L. Rep. 33,206 (CFTC Jan. 9, 2012) (finding that an
-FCM’s violation of a Commission order constituted a violation of Section 6(c)) (citing Jn re
+FCM’s violations of a Commission order constituted a violations of Section 6(c)) (citing Jn re
 Grossfeld, [1990-1992 Transfer Binder] Comm, Fut, L. Rep. (CCH) 4 25,726, at 40,367 (CFTC
 May 20, 1993) (affirming an administrative law judge’s determination that a failure to comply
-with a Commission order amounted to a violation of a Section 6(c)’s predecessor, Section 6(b));
+with a Commission order amounted to a violations of a Section 6(c)’s predecessor, Section 6(b));
 Lawrence v. CFTC, 759 F.2d 767, 771 (9th Cir. 1985) (finding that a Respondent’s failure to pay
 a civil monetary penalty assessed by the Commission in an administrative enforcement action
-constituted a violation of a Commission order)); see also CFTC y, Gibraltar Monetary Corp.,
+constituted a violations of a Commission order)); see also CFTC y, Gibraltar Monetary Corp.,
 Inc., No. 04-80132-CIV, 2006 WL 1789018, at *23 (S.D. Fla. May 30, 2006) (finding that
-Defendants’ violation of a Commission order in committing options fraud also violated Section
+Defendants’ violations of a Commission order in committing options fraud also violated Section
 6(c)) (citing Lawrence 759 F.2d at 771).
 
 The Commission’s October 3, 2011 Order directed Respondent to cease and desist from
@@ -257,15 +257,15 @@ violating Section 4g of the Act and Regulation 1.35. Respondent violated the Oct
 
  
 Order by subsequently violating Section 4g of the Act and Regulation 1.35 by failing to respond
-fully to a Commission document request. This failure constituted a violation of a Commission
+fully to a Commission document request. This failure constituted a violations of a Commission
 order and Section 6(c) of the Act, 7 U.S.C. § 9 (2012).
 
-Vv. FINDINGS OF VIOLATIONS
+Vv. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period,
-Respondent: (1) failed to adequately supervise its officers, employees, and agents in violation of
+Respondent: (1) failed to adequately supervise its officers, employees, and agents in violations of
 Regulation 166.3, 17 C.F.R. § 166.3 (2014); (2) failed to respond accurately and completely to a
-Commission document request in violation of Section 4g of the Act, 7 U.S.C. § 6g (2012), and
+Commission document request in violations of Section 4g of the Act, 7 U.S.C. § 6g (2012), and
 Regulations 1.31 and 1.35, 17 C.F.R. §§ 1.31 and 1.35 (2014); and (3) violated the October 3,
 2011 Order and thereby violated Section 6(c) of the Act, 7 U.S.C. § 9 (2012).
 
@@ -278,7 +278,7 @@ A, Acknowledges receipt of service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C, Waives:
 1. the filing and service of a complaint and notice of hearing;

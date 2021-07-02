@@ -27,7 +27,7 @@ class PressRelease(Base):
             predict_decision_date=predict_decision_date,
             predict_defendant=predict_defendant,
             predict_extracted_authorities=predict_extracted_authorities,
-            predict_extracted_violation=predict_extracted_violation,
+            predict_extracted_violations=predict_extracted_violations,
             predict_folder=predict_folder,
             predict_judge=predict_judge,
             predict_justice_type=predict_justice_type,
@@ -82,7 +82,7 @@ if __name__ == "__main__":
 
     # legal_doc df AND  OBj
     df = press_release_X_y()
-    df = df.iloc[:, :]
+    df = df.iloc[:10, :]
     df["pr"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
 
     # preds

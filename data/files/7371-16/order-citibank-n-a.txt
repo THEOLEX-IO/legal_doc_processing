@@ -28,7 +28,7 @@ Respondent.
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT,
-MAKING FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+MAKING FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I,
 
@@ -46,7 +46,7 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying the findings or conclusions herein, Respondent consents to the
 entry and acknowledges service of this Order Instituting Proceedings Pursuant to Sections 6(c)
-and 6(d) of the Commodity Exchange Act, Making Findings, and imposing Remedial Sanctions
+and 6(d) of the Commodity Exchange Act, Making Findings, and imposing Remedial sanctions
 (“Order”).
 
  
@@ -740,7 +740,7 @@ entity, ... or otherwise is violating or has violated any of the provisions of [
 
 For conduct occurring on or after August 15, 2011, the Commission is authorized to
 serve a complaint and impose penalties and orders with regard to attempted manipulation in
-violation of the broader amended provisions of Sections 6(c)(1) and 6(c)(3) of the Act and the
+violations of the broader amended provisions of Sections 6(c)(1) and 6(c)(3) of the Act and the
 Regulations implementing those provisions. See Sections 6(c)(4)(A) and 6(d) of the Act, 7
 ULS.C. §§ 9(4)(A), 13b (2012).
 
@@ -810,11 +810,11 @@ attempted to manipulate USD ISDAFIX for numerous tenors.
 The Citibank traders’ oral and written requests for certain rates to be submitted which
 would benefit their trading positions, and the submissions resulting from those requests,
 constituted overt acts in furtherance of the traders’ intent to affect USD ISDAFIX. By doing so,
-the Citibank traders engaged in acts of attempted manipulation in violation of Sections 6(c), 6(d),
+the Citibank traders engaged in acts of attempted manipulation in violations of Sections 6(c), 6(d),
 and 9(a)(2) of the Act, 7 U.S.C, §§ 9, 13b, 13(a)(2) (2006). Additionally, with respect to conduct
 occurring on or after August 15, 2011, the Citibank traders engaged in acts of attempted
-manipulation in violation of Section 6(c)(3), 7 U.S.C. § 9(3) (2012), and Regulation 180.2, 17
-C.F.R. § 180.2 (2015), and they used or attempted to use a manipulative device in violation of
+manipulation in violations of Section 6(c)(3), 7 U.S.C. § 9(3) (2012), and Regulation 180.2, 17
+C.F.R. § 180.2 (2015), and they used or attempted to use a manipulative device in violations of
 
 16
 
@@ -838,15 +838,15 @@ The Citibank traders’ bids, offers, and executed trades in the moments leading
 a.m., which were intended to affect USD ISDAFITX, as well as the traders’ communications with
 each other and with their Swaps Broker brokers to plan and execute this trading conduct,
 constituted overt acts in furtherance of their intent to affect USD ISDAFIX. The Citibank traders
-thereby engaged in acts of attempted manipulation in violation of Sections 6(c), 6(d), and 9(a)(2)
+thereby engaged in acts of attempted manipulation in violations of Sections 6(c), 6(d), and 9(a)(2)
 of the Act, 7 U.S.C, §§ 9, 13b, 13(a)(2) (2006). Additionally, with respect to conduct occurring
-on or after August 15, 2011, Citibank engaged in acts of attempted manipulation in violation of
+on or after August 15, 2011, Citibank engaged in acts of attempted manipulation in violations of
 Section 6(c)(3), 7 U.S.C. § 9(3) (2012), and Regulation 180.2, 17 C.F.R.§ 180.2 (2015), and it
-used or attempted to use a manipulative device in violation of Sections 6(c)(1) and 6(c)(1)(A) of
+used or attempted to use a manipulative device in violations of Sections 6(c)(1) and 6(c)(1)(A) of
 the Act, 7 U.S.C. §§ 9(1), 9(1)(A) (2012), and Regulation 180.1(a), 17 C.F.R. § 180.1(a) (2015).
 
 C. Respondent Made False, Misleading, or Knowingly Inaccurate Reports
-Concerning USD ISDAFIX in Violation of Section 9(a)(2) of the Act
+Concerning USD ISDAFIX in violations of Section 9(a)(2) of the Act
 
 In addition to the prohibition on attempted manipulation contained in Section 9(a)(2) of
 the Act, that provision also makes it unlawful for any person “knowingly to deliver or cause to
@@ -911,7 +911,7 @@ Act, 7 U.S.C. §§ 9(1), 9(11)(A), 9(3), 13b, 13(a)(2) (2012); and Regulations 1
 
 V.
 
-FINDINGS OF VIOLATIONS
+FINDINGS OF violations
 
  
 
@@ -936,7 +936,7 @@ A, Acknowledges receipt of service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to this Order only and for
 any action or proceeding brought or authorized by the Commission based on
-violation of or enforcement of this Order;
+violations of or enforcement of this Order;
 
 C, Waives:
 

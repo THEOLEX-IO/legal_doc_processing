@@ -30,7 +30,7 @@ Respondent
 
 ORDER INSTITUTION PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT,
-MAKING FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+MAKING FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I. INTRODUCTION
 
@@ -48,7 +48,7 @@ In anticipation of the institution of administrative proceedings, Respondent has
 an Offer of Settlement (“Offer”), which the Commission has determined to accept. Without
 admitting or denying any of the findings or conclusions herein, Respondent consents to the entry
 of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
-Exchange Act, Making Findings and Imposing Remedial Sanctions (“Order”) and acknowledges
+Exchange Act, Making Findings and Imposing Remedial sanctions (“Order”) and acknowledges
 service of this Order. |
 
  
@@ -70,13 +70,13 @@ The Commission finds the following:
 A. Summary
 
 During the Relevant Period, RBCCM, a registered futures commission merchant
-(“FCM”), failed to supervise its FCM activities in violation of Regulation 166.3, 17 C.F.R.
+(“FCM”), failed to supervise its FCM activities in violations of Regulation 166.3, 17 C.F.R.
 § 166.3 (2018). RBCCM’s supervision failures resulted in hundreds of trades that violated the
 Act and Regulations, in addition to other violations.
 
 Between December 2011 and October 2015, RBCCM engaged in at least 385
 noncompetitive, fictitious, wash sale transactions known as Exchange For Physical (“EFP”)
-transactions (“Wash EFPs”),’ in violation of Section 4c(a) of the Act, 7 U.S.C. § 6c(a) (2012),
+transactions (“Wash EFPs”),’ in violations of Section 4c(a) of the Act, 7 U.S.C. § 6c(a) (2012),
 and Regulation 1.38(a), 17 C.F.R. § 1.38(a) (2018). Notably, 217 of those Wash EFPs occurred
 after entry of a Consent Order in December 2014, which resolved a CFTC enforcement action
 against RBCCM’s parent, the Royal Bank of Canada (“RBC”), for wash and fictitious
@@ -85,11 +85,11 @@ transactions (“Consent Order”).?
 In addition, as detailed below, RBCCM’s supervision failures resulted in additional
 violations, including: (1) failures to prepare, present, and timely file quarterly Risk Exposure
 Reports (“RER”) as required on five occasions between October 2014 and December 2016, in
-violation of Regulation 1.11(e), 17 C.F.R. § 1.11(e) (2018); (2) failure to disclose RBCCM’s
+violations of Regulation 1.11(e), 17 C.F.R. § 1.11(e) (2018); (2) failure to disclose RBCCM’s
 violations of Regulation 1.11 as material issues of non-compliance and misstating the status and
 effectiveness of RBCCM’s Risk Management Program (“RMP”) in its Chief Compliance Officer
 (“CCO”) Reports as required by Regulation 3.3(e), 17 C.F.R. § 3.3(e) (2018); and (3) failing to
-maintain and timely produce required records, in violation of Regulations 1.31 and 1.35,
+maintain and timely produce required records, in violations of Regulations 1.31 and 1.35,
 
 17 CLFLR. §§ 1.31, 1.35 (2018).
 
@@ -248,7 +248,7 @@ trying to obtain information and timely compliance with its subpoenas from RBC a
 In June 2017, RBC retained new outside counsel, and RBC and RBCCM began to
 cooperate and respond to the Division’s requests in a meaningful way. However, even those
 efforts were hindered by RBCCM’s failure to maintain full, complete, and systematic records of
-their futures transactions in violation of the Regulations, which precluded the Division from
+their futures transactions in violations of the Regulations, which precluded the Division from
 readily identifying relevant traders, account controllers, and their employers.
 
 Til. LEGAL DISCUSSION
@@ -259,15 +259,15 @@ duty to supervise their partners, employees and agents diligently by establishin
 implementing and executing adequate supervisory structures and compliance programs.
 
 5
-A violation of Regulation 166.3 occurs where: (1) the registrant’s supervisory system
+A violations of Regulation 166.3 occurs where: (1) the registrant’s supervisory system
 was generally inadequate; or (2) the registrant failed to perform its supervisory duties
 diligently. In re GNP Commodities, Inc., CFTC No. 89-1,1992 WL 201158, at *19
 (Aug. 11, 1992), aff'd sub nom. Monieson v. CFTC, 996 F.2d 852 (7th Cir. 1993); In re
 Paragon Futures Ass’n, CFTC No. 88-18, 1992 WL 74261, at *14 (Apr. 1, 1992)
 (concluding that the “focus of any proceeding to determine whether Rule 166.3 has been
 violated will be on whether [a] review [has] occurred and, if it did, whether it was
-‘diligent’.’’”), A violation under Regulation 166.3 is an independent violation for which
-no underlying violation is necessary. Jn re Collins, No. 94-13, 1997 WL 761927, at*10
+‘diligent’.’’”), A violations under Regulation 166.3 is an independent violations for which
+no underlying violations is necessary. Jn re Collins, No. 94-13, 1997 WL 761927, at*10
 
 (Dec. 10, 1997) (citing GNP Commodities, 1992 WL 201158, at n.11).
 
@@ -293,7 +293,7 @@ violations of other provisions of the Act and accompanying Regulations. Therefor
 RBCCM’s conduct violated Regulation 166.3.
 
 B. RBCCM Engaged In Wash Sales, Fictitious Sales and Noncompetitive Trading In
-Violation of Section 4c(a) of the Act
+violations of Section 4c(a) of the Act
 
 Section 4c(a)(2)(A) of the Act, 7 U.S.C. § 6c(a)(2)(A) (2012), provides that it is unlawful
 for any person to offer to enter into, enter into, or confirm the execution of a commodity futures
@@ -303,7 +303,7 @@ sale,” “accommodation trade,” or “fictitious sale.” Regulation 1.38(a)
 sell futures contracts.
 
 Wash sales negate the risk or price competition incident to the market. Wilson v. CFTC,
-322 F.3d 555, 559-60 (8th Cir. 2003) (affirming CFTC order finding Section 4c(a) violation).
+322 F.3d 555, 559-60 (8th Cir. 2003) (affirming CFTC order finding Section 4c(a) violations).
 Wash trading produces a virtual financial nullity because the resulting net financial position is
 near or equal to zero. Jd.
 A wash sale occurs with: (1) the purchase and sale; (2) of the same delivery month of the
@@ -361,7 +361,7 @@ RBCCM interest rate traders did not have independent control of the accounts, th
 the same business unit of the company, and the profits and losses of the EFPs rolled up to the
 same account resulting in a wash for RBCCM. Therefore, RBCCM violated Regulation 1.38(a).
 
-D. RBCCM Failed to File Risk Exposure Reports in Violation of Regulation 1.11
+D. RBCCM Failed to File Risk Exposure Reports in violations of Regulation 1.11
 
 Regulation 1.11, 17 C.F.R. § 1.11 (2018), went into effect January 2014. The Regulation
 was promulgated to enhance customer protections, risk management programs, internal
@@ -382,7 +382,7 @@ of the three quarters between July 2014 and April 2015. RBCCM filed two other RE
 1.11(e)(2).
 
 E. RBCCM Failed to Disclose Material Non-Compliance Issues to the Commission in
-Violation of Regulation 3.3
+violations of Regulation 3.3
 
 Regulation 3.3(e), 17 C.F.R. § 3.3(e) (2018), requires an FCM’s CCO to annually prepare
 a written report covering the most recently completed fiscal year. Regulation 3.3(e)(2) and (5)
@@ -397,12 +397,12 @@ The filing period was extended to 90 days thereafter. Chief Compliance Officer A
 Requirements for Futures Commission Merchants, Swap Dealers, and Major Swap Participants;
 Amendments to Filing Dates, 81 Fed. Reg. 80,563, 80,566 (Nov. 16, 2016).
 
-RBCCM was aware of its failure to timely prepare and file multiple RERs in violation of
+RBCCM was aware of its failure to timely prepare and file multiple RERs in violations of
 Regulation 1.11 at least as of 2015. RBCCM failed to disclose its violations of Regulation 1.11
 in its 2015 CCO Report, filed with the CFTC in January 2016. RBCCM also failed to disclose
 its continued violations of Regulation 1.11 as a material noncompliance issue in its 2016 CCO
 report (filed with the CFTC in January 2017). Therefore, RBCCM violated Regulation 3.3(e).
-F. RBCCM Failed to Maintain Complete and Systematic Records in Violation of
+F. RBCCM Failed to Maintain Complete and Systematic Records in violations of
 Regulations 1.31 and 1.35
 
 As an FCM, RBCCM must comply with the recordkeeping obligations set forth in
@@ -451,10 +451,10 @@ scope of their employment, office, or agency with RBCCM; therefore, pursuant to 
 2(a)(1)(B) of the Act and Regulation 1.2, RBCCM is liable for those acts, omissions, and failures
 
 9
-in violation of Sections 4c(a) and 4g of the Act, and Regulations 1.11(e), 1.31, 1.35, 1.38, 3.3(e),
+in violations of Sections 4c(a) and 4g of the Act, and Regulations 1.11(e), 1.31, 1.35, 1.38, 3.3(e),
 and 166.3.
 
-IV. FINDINGS OF VIOLATIONS
+IV. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that during the Relevant Period RBCCM
 violated Sections 4c(a) and 4g of the Act, 7 U.S.C. §§ 6c(a), 6g (2012), and Regulations 1.11(e),
@@ -469,7 +469,7 @@ A. Acknowledges receipt of service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C. Waives:
 1, The filing and service of a complaint and notice of hearing;

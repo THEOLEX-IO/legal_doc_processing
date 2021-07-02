@@ -170,9 +170,9 @@ i. Injunctive Relief
 CFTC seeks injunctive relief against the defendants. Injunctive relief is authorized by
 statute. See 7 U.S.C. § 13a-1(a) and (b). Section 13a-1 states that any person who violates the act
 may be subject to an order enjoining their actions and ordering compliance with the Act. Jd.
-§ 13a-1(a). After a violation of the act is established, CFTC need only show a likelihood of
+§ 13a-1(a). After a violations of the act is established, CFTC need only show a likelihood of
 future violations. CFTC v. British Am. Commodity Options Corp., 560 F.2d 135, 141 (2d Cir.
-1977). A violation has been established, and CFTC argues that, given the repetitive and ongoing
+1977). A violations has been established, and CFTC argues that, given the repetitive and ongoing
 nature of the defendants’ fraud, there is a reasonable likelihood that the two will continue to
 engage in fraudulent activities. This court agrees. CFTC’s request for an injunction is
 ALLOWED. Defendants David Mayhew and Ron McCullough are hereby restrained, enjoined
@@ -186,13 +186,13 @@ with off-exchange agreements, contracts, or transactions in foreign currency tha
 
 are leveraged or margined, made or to be made, for or on behalf of, or with, other
 
-persons, in violation of 7 U.S.C. §§ 6b(a)(2)(A) and (C), and 17 C.F_R. §§
+persons, in violations of 7 U.S.C. §§ 6b(a)(2)(A) and (C), and 17 C.F_R. §§
 5.2(b)(1) and (3);
 
 b. willfully providing false information to others, thereby causing them to
 issue false account statements, in or in connection with off-exchange agreements,
 contracts, or transactions in foreign currency that are leveraged or margined,
-made or to be made, for or on behalf of, or with, other persons, in violation of 7
+made or to be made, for or on behalf of, or with, other persons, in violations of 7
 U,S.C. § 6b(a)(2)(B) and 17 C.F.R. § 5.2(b)(2);
 
 5
@@ -202,7 +202,7 @@ Case 5:14-cv-00083-F Document 37 Filed 08/14/15 Page 5 of 11
 
 c. aiding, abetting, counseling, inducing, procuring or working in
 combination or concert with each other to violate the Act or Regulations, in
-violation of 7 U.S.C. § 13c(a);
+violations of 7 U.S.C. § 13c(a);
 
 d. trading on or subject to the rules of any registered entity (as that term is
 defined in 7 U.S.C. § 1a(40) (2012));
@@ -250,7 +250,7 @@ Case 5:14-cv-00083-F Document 37 Filed 08/14/15 Page 6 of 11
 
 Restitution is authorized here by Title 7, United States Code section 13a-1. The district
 court has the authority to order equitable relief in the form of restitution when a defendant is
-found to be in violation of the Commodity Exchange Act. See CFTC v. Co Petro Mktg. Grp.,
+found to be in violations of the Commodity Exchange Act. See CFTC v. Co Petro Mktg. Grp.,
 Inc., 680 F.2d 573, 583 (9th Cir. 1982). CFTC argues that “the objectives of the [Commodity
 Exchange] Act are best served by ordering full restitution to Defendants’ customers.” P1.’s
 Mem. Supp. Mot. Default J. [DE-27] at 16. The court agrees.
@@ -269,8 +269,8 @@ is ALLOWED.
 
 Section 13a-1 also authorizes the court to order a civil monetary penalty (“CMP”). The
 relevant portion of the statute states that in any action brought under the section, a person found
-to be in violation of the section may be ordered to pay a civil penalty of $100,000 or three times
-the monetary gain of each violation, whichever is greater. 7 U.S.C. § 13a-1(d)(1). Here, three
+to be in violations of the section may be ordered to pay a civil penalty of $100,000 or three times
+the monetary gain of each violations, whichever is greater. 7 U.S.C. § 13a-1(d)(1). Here, three
 
 times the monetary gain of the fraud, the gain being $828,873.29, is greater than the minimum
 
@@ -312,14 +312,14 @@ Office of Administration, National Futures Association, 300 South Riverside Plaz
 
 4, that to effect payment of the Restitution Obligation and the distribution of any
 restitution payments to the defendants’ customers, the court appoints the National Futures
-Association (“NFA”) as Monitor. The Monitor shall collect restitution payments from the
-Defendants and make distributions as set forth below. Because the Monitor is acting as an
+Association (“NFA”) as monitor. The monitor shall collect restitution payments from the
+Defendants and make distributions as set forth below. Because the monitor is acting as an
 officer of this court in performing these services, the NFA shall not be liable for any
-action or inaction arising from NFA’s appointment as Monitor, other than actions
+action or inaction arising from NFA’s appointment as monitor, other than actions
 involving fraud;
 
 5, that the Defendants shall make Restitution Obligation payments under this Order
-to the Monitor in the name “McCullough-Mayhew — Settlement/Restitution Fund” and
+to the monitor in the name “McCullough-Mayhew — Settlement/Restitution Fund” and
 shall send such Restitution Obligation payments by electronic funds transfer, or by U.S.
 postal money order, certified check, bank cashier’s, or bank money order, to the Office of
 Administration, National Futures Association, 300 South Riverside Plaza, Suite 1800,
@@ -334,27 +334,27 @@ Case 5:14-cv-00083-F Document 37 Filed 08/14/15 Page 8 of 11
 transmit copies of the cover letter and the form of payment to the Chief Financial Officer,
 CFTC, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581;
 
-6. that the Monitor shall oversee the Restitution Obligation and shall have the
+6. that the monitor shall oversee the Restitution Obligation and shall have the
 discretion to determine the manner of distribution of such funds in an equitable fashion to
 the Defendants’ customers identified by the Commission or may defer distribution until
-such time as the Monitor deems appropriate. In the event that the amount of Restitution
-Obligation payments to the Monitor are of a de minimis nature such that the Monitor
+such time as the monitor deems appropriate. In the event that the amount of Restitution
+Obligation payments to the monitor are of a de minimis nature such that the monitor
 determines that the administrative cost of making a distribution to eligible customers is
-impractical, the Monitor may, in its discretion, treat such restitution payments as CMP
-payments, which the Monitor shall forward to the Commission following the instructions
+impractical, the monitor may, in its discretion, treat such restitution payments as CMP
+payments, which the monitor shall forward to the Commission following the instructions
 for CMP payments set forth in Paragraphs 12 through 13 below;
 
-7. that the Defendants shall cooperate with the Monitor as appropriate to provide
-such information as the Monitor deems necessary and appropriate to identify the
-defendants’ customers to whom the Monitor, in its sole discretion, may determine to
+7. that the Defendants shall cooperate with the monitor as appropriate to provide
+such information as the monitor deems necessary and appropriate to identify the
+defendants’ customers to whom the monitor, in its sole discretion, may determine to
 include in any plan for distribution of any Restitution Obligation payments. The
 Defendants shall execute any documents necessary to release funds that they have in any
 repository, bank, investment or other financial institution, wherever located, in order to
 make partial or total payment toward the Restitution Obligation;
 
-8. that the Monitor shall provide the Commission at the beginning of each calendar
+8. that the monitor shall provide the Commission at the beginning of each calendar
 year with a report detailing the disbursement of funds to the defendants’ customers
-during the previous year. The Monitor shall transmit this report under a cover letter that
+during the previous year. The monitor shall transmit this report under a cover letter that
 identifies the name and docket number of this proceeding to the Chief Financial Officer,
 CFTC, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581;
 
@@ -371,7 +371,7 @@ provision of this Order and to hold the Defendants in contempt for any violation
 provision of this Order;
 
 11. that to the extent that any funds accrue to the U.S. Treasury for satisfaction of the
-Defendants’ Restitution Obligation, such funds shall be transferred to the Monitor for
+Defendants’ Restitution Obligation, such funds shall be transferred to the monitor for
 disbursement in accordance with the procedures set forth above;
 
 12. that the Defendants shall pay, jointly and severally, a CMP in the amount of
@@ -416,7 +416,7 @@ docket number of this proceeding. The Defendants shall simultaneously transmit c
 of the cover letter and the form of payment to the Chief Financial Officer, CFTC, Three
 Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581;
 
-14. that Acceptance by the Commission or the Monitor of any partial payment of the
+14. that Acceptance by the Commission or the monitor of any partial payment of the
 defendants’ Restitution Obligation or CMP Obligation shall not be deemed a waiver of
 their obligation to make further payments pursuant to this Order, or a waiver of the
 Commission’s right to seek to compel payment of any remaining balance;

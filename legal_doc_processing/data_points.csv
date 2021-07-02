@@ -1,0 +1,46 @@
+data,data_point,created,prediction_score,priority_(5_is_max), comment
+cadre,1,0,0,0,
+caratere_objectifs_transparents,1,0,0,0,
+claimant,1,0,0,0,
+classification_des_risques,1,0,0,0,
+code_law_violation,1,0,0,5,
+compliance_obligations,1,1,-1,0,"monitor, audit, divulgation"
+connaissance_client,1,0,0,0,
+contestation,1,0,0,0,
+cooperation_credit,1,1,-1,0,diminué les montant de la sanctions
+country_of_violation,1,1,0.5,5,
+criteres_entente,1,0,0,0,
+currency,1,1,0.5,5,
+decision_date,1,1,0.5,5,
+declarations_de_soupcons,1,0,0,0,
+defendant,1,1,0.5,5,
+dependance_economique,1,0,0,0,
+document_link,0,0,0,0,
+extracted_authorities,1,1,0.5,5,
+extracted_violations,1,1,0.5,5,liste ds violations
+id,0,0,0,0,id de table bdd
+justice_type,1,1,0.5,5,civil ou penal en fonctioon du pays
+mesures_conservatoires,1,0,0,0,
+monetary_sanction,1,1,0.5,5,enveloppe globale
+monitor,0,0,0,5,
+montant_corrige,1,0,0,0,
+montant_individualise,1,0,0,0,
+name,?,0,0,0,???
+nature_corruption,1,0,0,0,
+nature_de_sanction,1,1,0.5,5,non financier (ban / prison) 
+nature_des_engagements,1,0,0,0,
+nature_of_settlement_signing_entity,1,0,0,0,
+nature_of_violations,1,1,0.5,5,liste deroulante grandes familles
+penalty_details,1,1,0.5,5,que financier
+personne_physique,1,0,0,0,
+press_release_link,0,0,0,0,
+reference,1,1,0.5,5,case id HJ-12567-CVJ
+representatives,1,0,0,0,
+retention_obligations,1,0,0,0,
+sales_merger,1,0,0,0,
+status,0,0,0,0,propre bdd
+term_of,1,0,0,0,
+text,0,0,0,0,
+transaction_amounts,1,0,0,0,
+type,1,1,0.5,5,Order  / consent oreder / DPA / judgement / complaint >
+violation_period,1,1,0.5,5,

@@ -28,7 +28,7 @@ Nee Nee ee” ee ee” SN”
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT,
-MAKING FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+MAKING FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I. INTRODUCTION
 
@@ -44,7 +44,7 @@ In anticipation of the institution of an administrative proceeding, Interactive 
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Interactive Brokers
 consents to the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the
-Commodity Exchange Act, Making Findings, and Imposing Remedial Sanctions (“Order”) and
+Commodity Exchange Act, Making Findings, and Imposing Remedial sanctions (“Order”) and
 acknowledges service of this Order.’
 
  
@@ -424,7 +424,7 @@ detailed in Part V.F., below.
 Hil. LEGAL DISCUSSION
 
 A. Interactive Brokers Failed to Create an Adequate Supervisory System and to
-Diligently Supervise its Officers, Employees, and Agents in Violation of Regulation
+Diligently Supervise its Officers, Employees, and Agents in violations of Regulation
 166.3.
 
 Regulation 166.3, 17 C.F.R. § 166.3 (2019), imposes on every Commission registrant
@@ -432,19 +432,19 @@ Regulation 166.3, 17 C.F.R. § 166.3 (2019), imposes on every Commission registr
 supervise the handling by its partners, officers, employees and agents . . . of all commodity
 interest accounts carried, operated, advised or introduced by the registrant and all other activities
 of its partners, officers, employees and agents . . . relating to its business as a Commission
-registrant.” A violation of Regulation 166.3 is an independent violation for which no underlying
-violation is necessary. See, e.g., In re Collins, CFTC No. 94-13, 1997 WL 761927, at *10 (Dec.
-10, 1997) (‘It is well settled that a violation under Rule 166.3 is ‘an independent and primary
-violation for which no underlying violation is necessary.’” (citation omitted)); In re GNP
+registrant.” A violations of Regulation 166.3 is an independent violations for which no underlying
+violations is necessary. See, e.g., In re Collins, CFTC No. 94-13, 1997 WL 761927, at *10 (Dec.
+10, 1997) (‘It is well settled that a violations under Rule 166.3 is ‘an independent and primary
+violations for which no underlying violations is necessary.’” (citation omitted)); In re GNP
 Commodities, Inc., CFTC No. 89-1, 1992 WL 201158, at *17 n.11 (Aug. 11, 1992) (“Rule 166.3
-establishes failure to supervise as an independent and primary violation... .” (citation omitted)),
+establishes failure to supervise as an independent and primary violations... .” (citation omitted)),
 aff'd in part and modified sub nom. Monieson v. CFTC, 996 F.2d 852 (7th Cir. 1993).
 
 For a registrant to fulfill its duties under Regulation 166.3, it must both design an
 adequate program of supervision and ensure that the program is followed. See GNP
 Commodities, 1992 WL 201158, at *17-19 (providing that, even if an adequate supervisory
 system is in place, Regulation 166.3 can still be violated if the supervisory system is not
-diligently administered). As a result, a violation of Regulation 166.3 “is demonstrated by
+diligently administered). As a result, a violations of Regulation 166.3 “is demonstrated by
 showing either that: (1) the registrant’s supervisory system was generally inadequate; or (2) the
 registrant failed to perform its supervisory duties diligently.” Jn re FCStone, LLC, CFTC No.
 15-21, 2015 WL 2066891, at *3 (May 1, 2015) (consent order) (citing In re Murlas
@@ -455,7 +455,7 @@ failure to supervise. In re Paragon Futures Ass’n, CFTC No. 88-18, 1992 WL 742
 (Apr. 1, 1992).
 
 As set forth above, Interactive Brokers both failed to adopt an adequate supervisory
-system and failed to perform its supervisory duties diligently in violation of Regulation 166.3.
+system and failed to perform its supervisory duties diligently in violations of Regulation 166.3.
 First, Interactive Brokers failed to create sufficient policies and procedures for documenting,
 monitoring, and reporting suspicious trading practices as required by the Bank Secrecy Act
 (“BSA”’) and for training personnel to identify transactions or issues that warranted investigation.
@@ -463,7 +463,7 @@ Second, Interactive Brokers failed to diligently supervise its employees to ensu
 with existing written policies regarding the investigation of account activity. As a result,
 Interactive Brokers violated Regulation 166.3.
 
-B. Interactive Brokers Failed to Timely File SARs in Violation of Regulation 42.2.
+B. Interactive Brokers Failed to Timely File SARs in violations of Regulation 42.2.
 
 Section 4g(a) of the Commodity Exchange Act (the “Act’), 7 U.S.C. § 6g(a) (2018),
 requires FCMs (among others) to “make such reports as are required by the Commission
@@ -539,12 +539,12 @@ activity. As aresult, Interactive Brokers had a duty to file SARs in each matter
 days after it initially detected facts, as detailed above, that may have constituted a basis for filing
 a SAR. By failing to do so, Interactive Brokers violated Regulation 42.2.
 
-IV. FINDINGS OF VIOLATION
+IV. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period,
 Interactive Brokers failed to: (1) adequately supervise its officers, employees, and agents in
-violation of Regulation 166.3, 17 C.F.R. § 166.3 (2019); and (2) failed to file SARs when it had
-a duty to do so in violation of Regulation 42.2, 17 C.F.R. § 42.2 (2019).
+violations of Regulation 166.3, 17 C.F.R. § 166.3 (2019); and (2) failed to file SARs when it had
+a duty to do so in violations of Regulation 42.2, 17 C.F.R. § 42.2 (2019).
 
 V. OFFER OF SETTLEMENT
 
@@ -555,7 +555,7 @@ A. Acknowledges service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on a violation of or enforcement of this Order;
+on a violations of or enforcement of this Order;
 
 C. Waives:
 1. The filing and service of a complaint and notice of hearing;
@@ -711,12 +711,12 @@ shall be determined by using the Treasury Bill rate prevailing on the date of en
 of this Order pursuant to 28 U.S.C. § 1961 (2018).
 
 To effect payment of the Disgorgement Obligation by Interactive Brokers and the
-distribution of disgorged funds, the Commission appoints the NFA as “Monitor.”
-The Monitor shall receive payment of the Disgorgement Obligation and any post-
+distribution of disgorged funds, the Commission appoints the NFA as “monitor.”
+The monitor shall receive payment of the Disgorgement Obligation and any post-
 judgment interest from Interactive Brokers and make distributions as set forth
-below. Because the Monitor is not being specially compensated for these
-services, and these services are outside the normal duties of the Monitor, it shall
-not be liable for any action or inaction arising from its appointment as Monitor,
+below. Because the monitor is not being specially compensated for these
+services, and these services are outside the normal duties of the monitor, it shall
+not be liable for any action or inaction arising from its appointment as monitor,
 other than actions involving fraud.
 
 Interactive Brokers shall pay the Disgorgement Obligation and any post-judgment
@@ -733,21 +733,21 @@ Division of Enforcement, and the Chief Financial Officer, at Commodity Futures
 Trading Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington,
 D.C. 20581.
 
-The Commission will provide to the Monitor a list of Park’s customers to whom
+The Commission will provide to the monitor a list of Park’s customers to whom
 the disgorged funds should be paid, their last-known addresses, and the estimated
-amounts owed by Park to each of them. The Monitor shall distribute
+amounts owed by Park to each of them. The monitor shall distribute
 disgorgement funds to those customers in an equitable manner as determined by
-the Monitor. The Monitor shall oversee the distribution of funds of the
+the monitor. The monitor shall oversee the distribution of funds of the
 Disgorgement Obligation and shall have the discretion to defer distribution until
 such time as it may deem appropriate. In the event that the amount of payments
-of the Disgorgement Obligation to the Monitor are of a de minimis nature such
-that the Monitor determines that the administrative cost of making a disgorgement
-distribution is impractical, the Monitor may, in its discretion, treat such
-disgorgement payments as civil monetary penalty payments, which the Monitor
+of the Disgorgement Obligation to the monitor are of a de minimis nature such
+that the monitor determines that the administrative cost of making a disgorgement
+distribution is impractical, the monitor may, in its discretion, treat such
+disgorgement payments as civil monetary penalty payments, which the monitor
 shall forward to the Commission following the instructions for the CMP
 Obligation as set forth in Section VI.B above. To the extent any funds accrue to
 the U.S. Treasury for satisfaction of Interactive Brokers’ Disgorgement
-Obligation, such funds shall be transferred to the Monitor for disbursement in
+Obligation, such funds shall be transferred to the monitor for disbursement in
 accordance with the procedures set forth in this Order.
 
 Nothing herein shall be construed in any way to limit or abridge the rights of any

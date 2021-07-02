@@ -42,6 +42,7 @@ has offered to be, the counterparty to leveraged, retail foreign currency (â�
 customers located in the United States who are not Eligible Contract Participants (âECPsââ),
  
 
+<<<<<<< HEAD:data/future/files/cftc/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
 without being registered with the Commission as a retail foreign exchange dealer (âRFEDâ), in
 violation of Section 2(c)(2)(C)(iii)(1)(aa) of the Commodity Exchange Act (âAct or CEAâ),
 7USS.C. Â§ 2(c)(2)(C)(11)(D(aa) (2012), and Commission Regulation (âRegulationâ) 5.3(a)(6)(i),
@@ -55,6 +56,21 @@ customer with a written âRisk Disclosure Statement,â in violation of R
 3. By virtue of this conduct and the further conduct described herein, JAFX has
 engaged, is engaging, or is about to engage in acts and practices in violation of the Act, 7 U.S.C.
 Â§Â§ 1-26 (2012), and the Regulations, 17 C.F.R. pts. 1-190 (2017).
+=======
+without being registered with the Commission as a retail foreign exchange dealer (“RFED”), in
+violations of Section 2(c)(2)(C)(iii)(1)(aa) of the Commodity Exchange Act (“Act or CEA”),
+7USS.C. § 2(c)(2)(C)(11)(D(aa) (2012), and Commission Regulation (“Regulation”) 5.3(a)(6)(i),
+17 C.F.R. § 5.3(a)(6)(@) (2017).
+
+2. Throughout the relevant period, each time JAFX opened an account for a retail
+forex customer to engage in retail forex transactions, it failed to provide each retail forex
+customer with a written “Risk Disclosure Statement,” in violations of Regulation 5.5, 17 C.F.R. §
+5.5 (2017). |
+
+3. By virtue of this conduct and the further conduct described herein, JAFX has
+engaged, is engaging, or is about to engage in acts and practices in violations of the Act, 7 U.S.C.
+§§ 1-26 (2012), and the Regulations, 17 C.F.R. pts. 1-190 (2017).
+>>>>>>> fix_datapoint:data/cftc_next_step/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
 
 4. Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), and
 7 U.S.C. Â§ 2(c)(2)(C), the Commission brings this action to enjoin JAFXâs unlawful acts and
@@ -88,7 +104,7 @@ expressly authorized to sue by Act of Congress). In addition, Section 6c(a) of t
 Â§ 13a-1(a) (2012), provides that the Commission may bring actions for injunctive relief or
 enforce compliance with the Act in the proper district court of the United States whenever it shall
 appear to the Commission that such person has engaged, is engaging, or is about to engage in
-any act or practice constituting a violation of any provision of the Act or any rule, regulation, or
+any act or practice constituting a violations of any provision of the Act or any rule, regulation, or
 order thereunder.
 
 8. The Commission also has jurisdiction over the conduct and transactions at issue in
@@ -285,12 +301,18 @@ understood the disclosure statement.
 to its U.S. retail forex customers.
 Mase 2:18-cv-00598-CQWÂ¥ Document 2 Filed 07/27/18 Page 1D af 15
 
-VI. STATUTORY AND REGULATORY VIOLATIONS
+VI. STATUTORY AND REGULATORY violations
 COUNT ONE
 Operating as an Unregistered Foreign Exchange Dealer in
+<<<<<<< HEAD:data/future/files/cftc/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
 VIOLATION OF SECTION 2(c)(2)(C)(iii)(D(aa) OF THE ACT, 7 U.S.C.
 Â§ 2(c)(2)(C) ii) (aa) (2012), AND REGULATION 5.3(a)(6)(i),
 17 C.F.R. Â§ 5.3(a)(6)(B) (2017)
+=======
+violations OF SECTION 2(c)(2)(C)(iii)(D(aa) OF THE ACT, 7 U.S.C.
+§ 2(c)(2)(C) ii) (aa) (2012), AND REGULATION 5.3(a)(6)(i),
+17 C.F.R. § 5.3(a)(6)(B) (2017)
+>>>>>>> fix_datapoint:data/cftc_next_step/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
 
 31. The allegations set forth in the foregoing paragraphs are re-alleged and
 incorporated herein.
@@ -313,7 +335,11 @@ registered as an RFED. By this conduct, JAFX is violating 7 U.S.C. Â§ 2(c)(2)(
 
 35. Each day that JAFX engaged in this conduct since at least September 1, 2016, to
 
+<<<<<<< HEAD:data/future/files/cftc/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
 the present is alleged as a separate and distinct violation of 7 U.S.C. Â§ 2(c)(2)(C)(ii)()(aa) and
+=======
+the present is alleged as a separate and distinct violations of 7 U.S.C. § 2(c)(2)(C)(ii)()(aa) and
+>>>>>>> fix_datapoint:data/cftc_next_step/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
 
 17 CE.R. Â§ 5.3(a)(6)(i).
 
@@ -323,7 +349,11 @@ the present is alleged as a separate and distinct violation of 7 U.S.C. Â§ 2(c
 COUNT TWO
 
 Failure To Provide Disclosure Statement in
+<<<<<<< HEAD:data/future/files/cftc/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
 VIOLATION OF COMMISSION REGULATION 5.5, 17 C.F.R. Â§ 5.5 (2017)
+=======
+violations OF COMMISSION REGULATION 5.5, 17 C.F.R. § 5.5 (2017)
+>>>>>>> fix_datapoint:data/cftc_next_step/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
 
 36. The allegations set forth in the foregoing paragraphs are re-alleged and
 incorporated herein.
@@ -382,7 +412,11 @@ that comports with these requirements. Therefore, JAFX violated, and continues t
 40. Each retail forex account that JAFX opened during the Relevant Period without
 providing customers with a written disclosure statement that includes the information required by
 
+<<<<<<< HEAD:data/future/files/cftc/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
 17 C.F.R. Â§ 5.5 is alleged as a separate and distinct violation of 17 C.F.R. Â§ 5.5.
+=======
+17 C.F.R. § 5.5 is alleged as a separate and distinct violations of 17 C.F.R. § 5.5.
+>>>>>>> fix_datapoint:data/cftc_next_step/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
 
 VU.
 
@@ -417,8 +451,13 @@ vi.
 
 Vii.
 
+<<<<<<< HEAD:data/future/files/cftc/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
 Engaging, directly or indirectly, in conduct in violation of 7 U.S.C. Â§
 2(c)(2)(C) (Gui) (D(aa, and 17 C.F.R. Â§Â§ 5.3(a)(6)(i), 5.5 (2017);
+=======
+Engaging, directly or indirectly, in conduct in violations of 7 U.S.C. §
+2(c)(2)(C) (Gui) (D(aa, and 17 C.F.R. §§ 5.3(a)(6)(i), 5.5 (2017);
+>>>>>>> fix_datapoint:data/cftc_next_step/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
 
 Trading on or subject to the rules of any registered entity (as that term is
 defined in Section 1a(40) of the Act, 7 U.S.C. Â§ 1a(40) (2012));
@@ -457,7 +496,11 @@ C. An order directing Defendant to pay a civil monetary penalty, to be assessed 
 the Court, in an amount not to exceed the penalty prescribed by Section 6c(d)(1) of the Act,
 TUS.C. Â§ 13a-1(4)(1) (2012), as adjusted for inflation pursuant to the Federal Civil Penalties
 Inflation Adjustment Act Improvements Act of 2015, Pub. L. 114-74, 129 Stat. 584 (2015), title
+<<<<<<< HEAD:data/future/files/cftc/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
 VII, Section 701, see Regulation 143.8, 17 C.F.R. Â§ 143.8 (2018), for each violation of the Act
+=======
+VII, Section 701, see Regulation 143.8, 17 C.F.R. § 143.8 (2018), for each violations of the Act
+>>>>>>> fix_datapoint:data/cftc_next_step/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
 and Regulations, as described herein;
 
 D. An order directing Defendant, as well as any successors thereof, to disgorge,

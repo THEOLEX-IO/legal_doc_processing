@@ -32,7 +32,7 @@ ee ea
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTION 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT,
-MAKING FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+MAKING FINDINGS, AND IMPOSING REMEDIAL sanctions
 
 I.
 
@@ -50,7 +50,7 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (“Offer”) that the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and 6(d) of the Commodity
-Exchange Act, Making Findings, and Imposing Remedial Sanctions (“Order’’) and acknowledges
+Exchange Act, Making Findings, and Imposing Remedial sanctions (“Order’’) and acknowledges
 service of this Order.!
 
  
@@ -119,7 +119,7 @@ prohibition against spoofing.
 IV.
 LEGAL DISCUSSION
 
-A. Section 4c(a)(5)(C) of the Act—Spoofing Violations
+A. Section 4c(a)(5)(C) of the Act—Spoofing violations
 
 Section 4c(a)(5)(C) of the Act, 7 U.S.C. § 6c(a)(5)(C) (2012), makes it unlawful for “[aJny
 person to engage in any trading, practice, or conduct on or subject to the rules of a registered
@@ -128,7 +128,7 @@ or offering with the intent to cancel the bid or offer before execution).” See
 Coscia, No. 16-3017, 2017 WL 3381433, at *7 (7th Cir. Aug. 7, 2017) (holding that because the
 CEA clearly defines spoofing, it provides adequate notice of prohibited conduct). As described
 above, Trader A entered into multiple bids or offers on a registered entity with the intent to cancel
-the bids or offers before execution, in violation of Section 4c(a)(5)(C) of the Act. See, e.g., CFTC
+the bids or offers before execution, in violations of Section 4c(a)(5)(C) of the Act. See, e.g., CFTC
 v. Oystacher, 203 F. Supp. 3d 934, 942 (N.D. II. 2016) (denying motion for judgment on the
 pleadings, holding that allegations of placing “both bids and offers with the intent to cancel those
 bids or offers before execution” constitutes “trading behavior [that] falls within the Spoofing
@@ -142,7 +142,7 @@ conduct in the gold and silver futures markets . . . that were, were of the char
 commonly known to the trade as ‘spoofing’ (bidding and offering with the intent to cancel the bid
 or offer before execution).”); In re Posen, CFTC No. 17-20, 2017 WL 3216576, at *2 (July 26,
 2017) (manual trader “entered into thousands of bids or offers on a registered entity with the intent
-to cancel the bids or offers before execution in violation of Section 4c(a)(5)(C) of the Act”).
+to cancel the bids or offers before execution in violations of Section 4c(a)(5)(C) of the Act”).
 
 B. Respondent AGC Is Liable for the Acts of Its Agents
 
@@ -165,7 +165,7 @@ A, as described above, that constituted violations of Section 4c(a)(5)(C) of the
 
 V.
 
-FINDINGS OF VIOLATIONS
+FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that AGC violated Section 4c(a)(5)(C) of
 the Act, 7 U.S.C. § 6c(a)(5)(C) (2012).
@@ -181,7 +181,7 @@ A. Acknowledges receipt of service of this Order;
 
 B. Admits the jurisdiction of the Commission to all the matters set forth in this Order
 and for any action or proceeding brought or authorized by the Commission based
-ona violation of or enforcement of this Order;
+ona violations of or enforcement of this Order;
 
 C. Waives:
 (1) _ the filing and service of a complaint and notice of hearing;

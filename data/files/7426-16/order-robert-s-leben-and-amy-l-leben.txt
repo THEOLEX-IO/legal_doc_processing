@@ -30,7 +30,7 @@ In January 2014, the CFTC filed this lawsuit seeking a permanent injunction, civ
 monetary penalty, restitution, and disgorgement of funds against the Lebens based on their
 operation of a Ponzi scheme that defrauded twelve investors of more than $2,000,000. ECF No.
 1. Specifically, the CFTC alleges the Lebens, through their company Structured Finance Group
-(SFG), ran a fraudulent commodity pool in violation of certain provisions of the Commodity
+(SFG), ran a fraudulent commodity pool in violations of certain provisions of the Commodity
 Exchange Act (CEA) 7 U.S.C. §§ I et seg., and certain CFTC Regulations found at 17 C.F.R. §§
 1.1 et seg. Id.
 
@@ -82,7 +82,7 @@ this Court withheld ruling on the motions for summary judgment pending the resol
 criminal case.
 
 On October, 8, 2015, Robert Leben pled guilty to an information charging him with one
-count of conspiracy to commit wire fraud in violation of 18 U.S.C. § 1343.7 ECF No. 42-2 (plea
+count of conspiracy to commit wire fraud in violations of 18 U.S.C. § 1343.7 ECF No. 42-2 (plea
 agreement); ECF No. 42-3 (criminal information).
 
 By entering a guilty plea, Robert Leben admitted to the following facts contained in the
@@ -200,21 +200,21 @@ required at this stage, the Court finds that the Lebens have presented insuffici
 contradict the substantial evidence submitted by the CFTC. Moreover, as explained, Robert Leben
 has now admitted to the fraudulent conduct that gives rise to this case by virtue of his guilty plea.
 Therefore, the Court concludes that there is no genuine dispute as to any material fact and that the
-CFTC is entitled to judgment as a matter of law on each violation alleged.
+CFTC is entitled to judgment as a matter of law on each violations alleged.
 
-I. Violations of the CEA and CFTC Regulations
+I. violations of the CEA and CFTC Regulations
 
 In its supplemental brief, the CFTC asserts that Robert Leben’s admissions are sufficient
 to show that he violated CEA §§ 6b(a)(1)(A)-(C), 60(1)(A) and (B), and 9(1), and 17 C.F.R. §
 180.1(a)(1)-(3). ECF No. 42 at 7. Additionally, the CFTC asserts that summary judgment should
-be entered against Robert Leben on the remaining count against him—violation of CEA §§
+be entered against Robert Leben on the remaining count against him—violations of CEA §§
 6m(1)—for his failure to register as a commodity pool operator, and against Amy Leben on all
 
 counts alleged, for the reasons set forth in its original motion and supporting memoranda. As
 3:14-cv-00866-TLW _ Date Filed 08/05/16 Entry Number 44  ==Page 7 of 20
 
 noted, the Lebens failed to contest the CFTC’s analysis concerning these violations in light of
-Robert Leben’s guilty plea. The Court addresses each violation in turn below.
+Robert Leben’s guilty plea. The Court addresses each violations in turn below.
 a. CEA § 6b(a)(1)(A)-(C)
 
 Under the CEA, it is unlawful for any person to (A) cheat or defraud or attempt to cheat or
@@ -247,7 +247,7 @@ jointly ran out of their house.
 
 Robert Leben’s admissions in the criminal case also show that the Lebens violated §
 6b(a)(1)(B). Delivering, or causing the delivery of, false statements or reports to pool participants
-relating to transactions regulated by the CFTC constitutes a violation of CEA § 6b(a)(1)(B). See,
+relating to transactions regulated by the CFTC constitutes a violations of CEA § 6b(a)(1)(B). See,
 e.g., CFTC v. Weinberg, 287 F. Supp. 2d 1100, 1108 (C.D. Cal. 2003) (finding that false and
 misleading statements as to amount and location of investor money violated CEA §§ 6b); Noble
 Wealth Data Info. Servs., 90 F. Supp. 2d at 687. Robert Leben admitted that SFG distributed Letter
@@ -354,7 +354,7 @@ ECE No. 42-3 at [ 3(C), and Amy Leben admitted during her deposition she was the
      
 
 on these accounts, ECF No. 25-5 at 13. Therefore, the pool investor’s funds were commingled
-with the Leben’s funds in violation of 17 C.F.R. §§ 4.20(b) and (c).
+with the Leben’s funds in violations of 17 C.F.R. §§ 4.20(b) and (c).
 f. Vicarious Liability for the Acts of the Lebens’ Agents
 
 In its motion for summary judgment, the CFTC asserts that the Lebens are liable for the
@@ -399,7 +399,7 @@ restitution, disgorgement, or civil penalty that may result from this lawsuit. E
 The Lebens’ argument is unavailing.
 
 “Upon a proper showing, a permanent... injunction... . shall be granted without bond.”
-CEA § 13a-1(b). In order to obtain a permanent injunction, the CFTC must show that a violation
+CEA § 13a-1(b). In order to obtain a permanent injunction, the CFTC must show that a violations
 of the CEA and CFTC Regulations occurred, and that there is some reasonable likelihood of future
 violations. CFTC v. Hunt, 591 F.2d 1211, 1220 (7th Cir. 1979) (citing SEC v. Advance Growth
 Capital Corp., 470 F.2d 40, 54 (7th Cir. 1972)). Further, past misconduct is “highly suggestive”
@@ -491,9 +491,9 @@ Leben’s due process rights. ECF No. 30 at 10. The Lebens cite no authority for
 do they offer any persuasive argument on this issue.
 
 Under the CEA, “the [CFTC] may seek and the Court shall have jurisdiction to impose . .
-. on any person found in the action to have committed any violation, a civil penalty in the amount
+. on any person found in the action to have committed any violations, a civil penalty in the amount
 of not more than the higher of $100,000 or triple the monetary gain to the person for each
-violation.” CEA § 13a-1(d)(1). Because enforcement proceedings under CEA § 13a-1(d)(1)
+violations.” CEA § 13a-1(d)(1). Because enforcement proceedings under CEA § 13a-1(d)(1)
 involve the public interest rather than a private controversy, the equitable jurisdiction of the district
 court is very broad. CFTC v. Capitalstreet Fin., LLC, 2012 WL 79758, at *12 (W.D.N.C. Jan. 11,
 2012) (citing Hunt, 591 F.2d at 1223). “In determining how extensive the fine for violations of

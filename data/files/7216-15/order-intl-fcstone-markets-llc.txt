@@ -28,7 +28,7 @@ Respondent.
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTIONS 6(c) and 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS AND IMPOSING REMEDIAL sanctions
 
 1,
 
@@ -46,7 +46,7 @@ In anticipation of the institution of this administrative proceeding, Respondent
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
-Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions (“Order”) and
+Commodity Exchange Act, Making Findings and Imposing Remedial sanctions (“Order”) and
 acknowledges service of this Order,’
 
  
@@ -178,7 +178,7 @@ or appropriate.
 17 CER. § 23.602(b) (2014).
 
 Respondent failed to diligently supervise the activities of its swap dealer business in
-violation of Regulation 23.602. Specifically, there was inadequate supervision of the junior
+violations of Regulation 23.602. Specifically, there was inadequate supervision of the junior
 LPTs and trading activity of the KCEG. Although Respondent had some written procedures
 regarding discretionary accounts and mark-ups, IFCS failed to enforce those policies, and thus
 failed to perform its supervisory duties diligently. Evidence of violations that “should be
@@ -190,12 +190,12 @@ Similarly, Respondent lacked a system to monitor mark-ups and reverse mark-ups o
 trades, or compliance with the procedures it purportedly adopted in May 2013 regarding
 minimum and maximum mark-ups.
 
-Vv. FINDINGS OF VIOLATION
+Vv. FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period,
 Respondent failed to supervise its employees and agents diligently by establishing,
 implementing, and executing an adequate supervisory structure and compliance programs in
-violation of Regulation 23.602, 17 C.F.R. § 23.602 (2014),
+violations of Regulation 23.602, 17 C.F.R. § 23.602 (2014),
 
 VI. OFFER OF SETTLEMENT
 
@@ -207,7 +207,7 @@ A. Acknowledges receipt of service of this Order;
  
 Admits the jurisdiction of the Commission with respect to all matters set forth in
 this Order and for any action or proceeding brought or authorized by the
-Commission based on violation of or enforcement of this Order;
+Commission based on violations of or enforcement of this Order;
 
 Waives:
 l, The filing and service of a complaint and notice of hearing;

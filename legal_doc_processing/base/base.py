@@ -21,7 +21,7 @@ class Base:
         predict_decision_date,
         predict_defendant,
         predict_extracted_authorities,
-        predict_extracted_violation,
+        predict_extracted_violations,
         predict_folder,
         predict_judge,
         predict_justice_type,
@@ -63,7 +63,7 @@ class Base:
             "decision_date": predict_decision_date,
             "defendant": predict_defendant,
             "extracted_authorities": predict_extracted_authorities,
-            "extracted_violation": predict_extracted_violation,
+            "extracted_violations": predict_extracted_violations,
             "folder": predict_folder,
             "judge": predict_judge,
             "justice_type": predict_justice_type,
@@ -90,7 +90,7 @@ class Base:
         # WARNING
         # the order of feature in feature list define the order of preidct methods called
         # this order is important
-        # ie country of violation depedns of justice_type
+        # ie country of violations depedns of justice_type
         # penalty depends of violations
         self._feature_list = [
             "_code_law_violation",
@@ -99,7 +99,7 @@ class Base:
             "_judge",
             "_defendant",
             "_extracted_authorities",
-            "_extracted_violation",
+            "_extracted_violations",
             "_folder",
             "_justice_type",
             "_monitor",
@@ -108,7 +108,7 @@ class Base:
             "_reference",
             "_type",
             "_country_of_violation",  # depends of predict authorities
-            "_penalty_details",  # depends of _extracted_violation
+            "_penalty_details",  # depends of _extracted_violations
             "_monetary_sanction",  # depends of _penalty_details
             # depends of predict authorities
             # "_violation_date",
@@ -220,8 +220,8 @@ class Base:
         return strize(self._extracted_authorities)
 
     @property
-    def extracted_violation(self):
-        return strize(self._extracted_violation)
+    def extracted_violations(self):
+        return strize(self._extracted_violations)
 
     @property
     def folder(self):
@@ -282,11 +282,16 @@ class Base:
             val = self._predict["judge"](self.data)
             setattr(self, "_judge", val)
 
+<<<<<<< HEAD
         # extracted_violation need penalty_details
 
+=======
+        # extracted_violations need penalty_details
+    
+>>>>>>> fix_datapoint
         if feature == "penalty_details":
-            val = self._predict["extracted_violation"](self.data)
-            setattr(self, "_extracted_violation", val)
+            val = self._predict["extracted_violations"](self.data)
+            setattr(self, "_extracted_violations", val)
 
         if feature in self.feature_list:
             # try:

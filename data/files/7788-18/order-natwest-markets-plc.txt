@@ -33,7 +33,7 @@ Respondent. )
 
 ORDER INSTITUTING PROCEEDINGS PURSUANT TO
 SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
-FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+FINDINGS AND IMPOSING REMEDIAL sanctions
 
 I.
 
@@ -55,7 +55,7 @@ In anticipation of the institution of an administrative proceeding, Respondent h
 submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
 Without admitting or denying any of the findings or conclusions herein, Respondent consents to
 the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
-Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions (“Order”) and
+Commodity Exchange Act, Making Findings and Imposing Remedial sanctions (“Order”) and
 acknowledge service of this Order.’
 
  
@@ -93,7 +93,7 @@ to an SDR in a timely manner. Because of NatWest’s reporting failures, certain
 numerous swaps transactions both live and historical was not provided to an SDR and was not
 disseminated to the market through the real-time public tape. As a result, NatWest failed to
 properly report to an SDR hundreds of thousands of swap transactions across all asset classes in
-violation of Sections 2(a)(13)(F) and (G) and 4r(a)(3) of the Act, and Regulations 43.3(a)(1) and
+violations of Sections 2(a)(13)(F) and (G) and 4r(a)(3) of the Act, and Regulations 43.3(a)(1) and
 (3), 43.3(e)(1)q@) and (i1), 43.4(a), 45.3(c)(1), 45.4(d)(1)@), 45.5(b)(2) a), 45.14(a), and
 46.3(a)(1)G) and (2)().
 
@@ -310,17 +310,17 @@ previously reported data once NatWest learned of its errors and omissions with r
 various reporting failures. The foregoing acts, omissions, and failures of NatWest’s employees
 occurred within the scope of their employment, office, or agency with NatWest; therefore,
 pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.D. §2(a)(1)(B) (2012), and Regulation 1.2, 17
-C.F.R. § 1.2 (2017), NatWest is liable for those acts, omissions, and failures in violation of
+C.F.R. § 1.2 (2017), NatWest is liable for those acts, omissions, and failures in violations of
 Sections 2(a)(13)(F) and (G) and 4r(a)(3) of the Act, and Regulations 43.3(a)(1) and (3),
 43.3(e)(1)@) and (ii), 43.4(a), 45.3(c)(1), 45.4(d)(1)G), 45.5(b)(2)G), 45.14(a), and 46.3(a)(1)@)
 and (2)(1).
 
 V.
-FINDINGS OF VIOLATION
+FINDINGS OF violations
 
 Based on the foregoing, the Commission finds that, during the Relevant Period,
 Respondent failed to properly report to an SDR hundreds of thousands of swap transactions
-across all asset classes resulting in reporting errors in violation of Sections 2(a)(13)(F) and (G)
+across all asset classes resulting in reporting errors in violations of Sections 2(a)(13)(F) and (G)
 and 4r(a)(3) of the Act, 7 U.S.C. §§ 2(a)(13)(P), (G), 6r(a)(3) (2012), and Regulations 43.3(a)(1)
 and (3), 43.3(e)(1)(@) and (ii), 43.4(a), 45.3(c)(1), 45.4(d)(1)@), 45.5(b)(2)@), 45.14(a), and
 46.3(a)(1)(@) and (2)(), 17 C.F.R. §§ 43.3(a)(1), (3), 43.3 (CC), Gy, 43.4(a), 45.3(c)(1),
@@ -336,7 +336,7 @@ A. Acknowledges service of this Order;
 
 B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
 Order and for any action or proceeding brought or authorized by the Commission based
-on violation of or enforcement of this Order;
+on violations of or enforcement of this Order;
 
 C. Waives:
 1. The filing and service of a complaint and notice of hearing;

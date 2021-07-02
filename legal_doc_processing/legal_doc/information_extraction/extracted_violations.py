@@ -2,7 +2,7 @@ from legal_doc_processing.utils import uniquize as _u
 
 from legal_doc_processing.utils import merge_ans, ask_all
 
-from legal_doc_processing.press_release.clean.extracted_violation import (
+from legal_doc_processing.press_release.clean.extracted_violations import (
     _clean_str_to_str,
     _clean_list_to_list,
     clean_ans,
@@ -35,7 +35,7 @@ def _question_selector(key: str):
     if "violat" in key:
         qs.extend(
             [
-                ("what is the violation?", "what_violation"),
+                ("what is the violations?", "what_violation"),
                 ("what are the violations?", "what_violations"),
             ]
         )
@@ -58,7 +58,7 @@ def _question_selector(key: str):
     return qs
 
 
-def predict_extracted_violation(obj: dict, threshold=0.2, n_sents: int = 12):
+def predict_extracted_violations(obj: dict, threshold=0.2, n_sents: int = 12):
     """ """
 
     # pers_org_entities_list

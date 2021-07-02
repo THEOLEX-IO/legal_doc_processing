@@ -1,0 +1,686 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 86159 / June 20, 2019
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4054 / June 20, 2019
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-19207
+
+ 
+
+ 
+
+ 
+
+ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+SECTION 21C OF THE SECURITIES
+WALMART INC., EXCHANGE ACT OF 1934, MAKING
+FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+I.
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (âExchange Actâ), against Walmart Inc. (âWalmart,â âthe Company,â or
+Respondentâ).
+
+I.
+
+In anticipation of the institution of these proceedings, Walmart has submitted an Offer of
+Settlement (the âOfferâ) which the Commission has determined to accept. Solely for the purpose of
+these proceedings and any other proceedings brought by or on behalf of the Commission, or to
+which the Commission is a party, Respondent admits the Commissionâs jurisdiction over
+Respondent and the subject matter of these proceedings, and consents to the entry of this Order
+Instituting Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act
+of 1934, Making Findings, and Imposing a Cease-and-Desist Order (âOrderâ), as set forth below.
+
+Hil.
+
+On the basis of this Order and Respondentâs Offer, the Commission finds' that:
+
+ 
+
+! The findings herein are made pursuant to Respondentâs Offer of Settlement and are not binding on any
+
+other person or entity in this or any other proceeding.
+
+1
+Summary
+
+1. This matter concerns violations of the books and records and internal accounting
+controls provisions of the Foreign Corrupt Practices Act (ââFCPAâ) by Walmart, a global retailer.
+From in or around July 2000 through in or around April 2011, Walmartâs subsidiaries in Brazil,
+China, India, and Mexico operated without a system of sufficient anti-corruption related internal
+accounting controls. As a result, during this time period, those Walmart subsidiaries paid certain
+third-party intermediaries (âTPIsâ) without reasonable assurances that certain transactions were
+consistent with their stated purpose or consistent with the prohibition against making improper
+payments to government officials. Additionally, during this time period, when Walmart learned of
+certain anti-corruption risks, the Company did not either sufficiently investigate the allegations or
+sufficiently mitigate the known risks.
+
+Respondent
+
+2. Walmart is a Delaware corporation with its principal place of business located in
+Bentonville, Arkansas. Walmart had a class of securities registered under Section 12(b) of the
+Exchange Act during the relevant time period. The Companyâs shares trade on the New York
+Stock Exchange under the ticker symbol âWMT.â
+
+Other Relevant Entities and Individuals
+
+3. Mexico Subsidiary is a Walmart subsidiary that operates retail stores in Mexico.
+Walmart has a majority equity stake in Mexico Subsidiary with the remaining shares traded on the
+Mexican Stock Exchange.
+
+4. China Subsidiary is Walmartâs wholly owned subsidiary that operates Walmartâs
+stores in China.
+
+5. Brazil Subsidiary was Walmartâs wholly owned subsidiary that operated
+Walmartâs stores in Brazil.
+
+6. India Joint Venture was a joint venture with India Partner that was majority
+owned and controlled by Walmart and operated wholesale stores and distribution centers in India.
+
+7. India Retail Business was a franchisee of Walmart that operated retail stores in
+India.
+
+8. India Subsidiary was Walmartâs wholly owned subsidiary that was the franchisor
+of India Retail Business.
+
+9. India Partner was India Subsidiaryâs Joint Venture partner and the owner of India
+Retail Business.
+
+10. Walmart Executive was a Walmart International senior real estate employee.
+
+11. Walmart Lawyer was a Walmart International senior attorney.
+12. Walmart Compliance Employee was a Walmart International compliance
+
+employee.
+
+13. Walmart Investigator was a Walmart special investigator.
+
+14. Mexico Subsidiary Executive A was a Mexico Subsidiary senior officer.
+
+15. Mexico Subsidiary Executive B was a Mexico Subsidiary senior real estate
+executive.
+
+16. Mexico Subsidiary Lawyer A was a Mexico Subsidiary real estate attorney.
+
+17. Mexico Subsidiary Lawyer B was a Mexico Subsidiary senior attorney.
+
+18. Mexico Subsidiary Internal Auditor was a Mexico Subsidiary senior audit
+employee.
+
+19. Outside Lawyer was an attorney retained by Walmart to investigate certain anti-
+
+corruption allegations in Mexico.
+
+20. Brazil Construction Firm was a construction firm retained by Brazil Subsidiary to
+build and renovate certain stores in Brazil.
+
+FACTS
+
+Background
+
+21. At the end of Walmartâs fiscal year 1990, the Company had 1,528 stores which had
+generated annual sales of $26 billionâall within the United States. Walmart, recognizing that
+international expansion could help it become the worldâs largest retailer, entered its first foreign
+market, Mexico, in 1991. In 1993, Walmart established Walmart International as an operating
+segment, headquartered in Bentonville, Arkansas, responsible for overseeing the Companyâs
+operations outside the United States. Between 1994 and 1996, the Company established additional
+outposts in other countries, including Brazil and China. During fiscal year 2010, the year in which
+Walmart opened its first Indian wholesale outlet, the Company operated stores in 14 foreign
+countries, with international sales of approximately $100 billion.
+
+22. | Walmartâs formula for success centered on Everyday Low Prices and Everyday
+Low Cost. Walmartâs rapid international growth, combined with its low-cost philosophy,
+contributed to the Companyâs insufficient anti-corruption related internal accounting controls in
+Walmartâs subsidiaries in Mexico, India, China, and Brazil from in or around July 2000 until in or
+around April 2011.
+
+Early Corruption Warnings
+
+23. In or around 2002 and 2003, Walmart received a request for FCPA training from
+China Subsidiary and also a request for a detailed FCPA policy covering TPIs and joint venture
+partners for China Subsidiary. Walmart did not immediately provide widespread anti-corruption
+
+3
+training to China Subsidiary or implement TPI and joint venture anti-corruption policies at China
+Subsidiary.
+
+24. In or around June 2003, China Subsidiary identified a potentially troubling
+historical payment made by a certain China Subsidiary joint venture. In 1999 or 2000, the joint
+venture had entered into an agreement to pay RMB 500,000 (approximately $60,000) to the
+landlord of a China Subsidiary store for government relationship consulting services and various
+permits. The permit costs should have likely been nominal but China Subsidiary did not further
+inquire into the matter at the time.
+
+25. In or around October 2003, China Subsidiaryâs internal audit team analyzed gifts
+with an average dollar value of less than $20 given to Chinese government officials by China
+Subsidiary corporate affairs employees and small amounts of cash provided to other Chinese
+officials for travel and meal expenses related to business meetings by the Chinese partner of a
+China Subsidiary joint venture. China Subsidiaryâs internal audit team observed that these
+transactions appeared to be inconsistent with corporate policy. China Subsidiaryâs internal audit
+team also observed that certain China Subsidiary anti-corruption related internal accounting
+controls had weaknesses. In response, Walmart did not promptly implement all of China
+Subsidiary internal auditâs suggested remedial actions.
+
+Walmartâs First Anti-Corruption Compliance Program
+
+26. In or around 2001, Walmartâs anti-corruption policy consisted of a paragraph in the
+Companyâs Statement of Ethics. The paragraph summarized the FCPAâs prohibitions and
+described the statuteâs facilitating payment exception and the procedure for making such payments.
+In or around July 2002, Walmart planned to implement a worldwide comprehensive anti-
+corruption compliance and training program within a few months. In or around 2003, Walmart
+prepared draft anti-corruption compliance materials. However, nearly a year passed before the
+Company took additional steps to revise the proposed anti-corruption compliance program.
+
+27. Walmart published its International Anti-Corruption Policy and Procedures on or
+around March 21, 2005, and distributed them to the Companyâs foreign markets. In or around
+November 2005, the implementation of Walmartâs anti-corruption compliance program was
+formally put on hold until further notice.
+
+Mexico
+
+28. On or around September 21, 2005, Mexico Subsidiary Lawyer A, who had been
+separated from Mexico Subsidiary over a year earlier, wrote an email to Walmart Lawyer. In the
+email, Mexico Subsidiary Lawyer A stated that he was responsible for many real estate projects in
+Mexico from 1975 through 2004 and wrote, â[I]f youâre interested to know confidential details
+about the way we achieved 300 projects...contact me and in that case, I would ask you do it before
+you contact [Mexico Subsidiary] because the kind of issues (for instance, we used to undercover
+expenses identified with a code known and authorized by the highest levels).â
+
+29. Walmart retained Outside Lawyer to advise the Company in response to Mexico
+Subsidiary Lawyer Aâs allegations. During the first half of October 2005, Outside Lawyer
+interviewed Mexico Subsidiary Lawyer A twice. Mexico Subsidiary Lawyer A alleged that during
+
+4
+his last six to seven years at Mexico Subsidiary, Mexico Subsidiary had very aggressive growth
+goals that required new stores to open in record time. He further alleged that Mexico Subsidiary
+frequently employed TPIs, known as gestores, who in some cases made improper payments to
+Mexican government officials to obtain licenses, permits, and other approvals for certain store
+projects in Mexico. He also detailed several projects where he claimed Mexico Subsidiary made
+improper payments to obtain licenses, permits, and other approvals.
+
+30. Mexico Subsidiary Lawyer A alleged the scheme worked in the following manner:
+
+a. Mexico Subsidiary would determine which government officials
+needed to receive an improper payment to obtain a permit or license.
+Mexico Subsidiary Lawyer A would then tell one of the gestores
+which official to make an improper payment to and then obtained
+checks from Mexico Subsidiary payable to the gestores.
+
+b. The gestores cashed the checks and delivered the agreed-upon
+improper payments.
+
+C. Occasionally, the officials preferred to deal only with Mexico
+Subsidiary Lawyer A. In those instances, according to Mexico
+Subsidiary Lawyer A, the gestores provided cash to Mexico
+Subsidiary Lawyer A who made the improper payments himself.
+
+d. Mexico Subsidiary Lawyer A and Mexico Subsidiary Executive B
+developed a system of three-digit codes, or claves, which were typed
+or handwritten on the gestoresâ invoices and tracked the improper
+benefits obtained by Mexico Subsidiary.
+
+e. The clave descriptions included: âavoidance or omission of
+requirement;â âinfluence, control, or knowledge of privileged
+information in the head of the governmental office;â and âpayments
+
+to eliminate fines.â
+
+f. Mexico Subsidiary Lawyer A claimed that Mexico Subsidiary
+Executive A, Mexico Subsidiary Internal Auditor, and Mexico
+Subsidiary Lawyer Bâwho had been named Mexico Subsidiaryâs
+compliance officer after Mexico Subsidiary Lawyer A left Mexico
+Subsidiaryâalso participated in the scheme.
+
+31. Mexico Subsidiaryâs use of real estate gestores stopped after Mexico Subsidiary
+Lawyer A was separated from the Company in or around August 2004 and before Walmartâs 2005
+investigation into the gestores allegations.
+
+32. Walmart retained a law firm to initially advise the Company regarding Mexico
+Subsidiary Lawyer Aâs allegations and decided to use internal audit and corporate investigations
+employees to conduct an investigation in Mexico. In mid-November 2005, these âpreliminary
+inquiryâ teams spent two weeks in Mexico investigating the allegations. While there, they
+identified a draft March 2004 Mexico Subsidiary internal audit review of gestoria payments that
+
+5
+had not previously been shared with Walmart internal audit executives and employees in the
+United States. The final report that was sent to Walmart in December 2004 omitted references,
+contained in earlier versions, to MXN $45.6 million (approximately USD $4 million) paid to one
+of the gestores that Mexico Subsidiary Lawyer A alleged was corrupt. While the draft report stated
+that the transactions reviewed were reasonably appropriate, complied with documentation and
+classification standards, and were compliant with local policies, legislation and generally accepted
+accounting principles, it also described âunusualâ and âfacilitatingâ payments made in connection
+with Mexico Subsidiaryâs use of gestores. The final report provided to Walmart in December 2004
+had also omitted these references to suspicious transactions.
+
+33. In or around November 2005, a Mexico Subsidiary employee explained to
+investigators that when problems arose when obtaining licenses, Mexico Subsidiary typically
+negotiated a payment with the relevant official to resolve the problem. The same employee,
+although unsure whether improper payments were made to government officials, said that Mexico
+Subsidiary utilized gestores to âsmooth out the roadâ so that âthere would not be any bumps during
+the request for a license.â The employee also conceded that it was unusual that Mexico Subsidiary
+paid the gestores when most of the payments were supported by only one invoice and that no
+records showed what work they did, with whom they met, or how many hours they worked.
+
+34. In or around December 2005, Walmart Investigator circulated a report concerning
+the Mexico Subsidiary allegations that stated that laws had been potentially violated, and
+recommended several additional investigative steps.
+
+35. Walmart internal audit produced its own report one week later, which indicated that
+the work performed constituted only a preliminary review of the gestoria payments and that the
+auditors were unable to determine how the gestores used the funds received from Mexico
+Subsidiary. The report also made several recommendations for investigative next steps.
+
+36. Walmart did not follow the investigatorsâ proposed action plans. On or around
+February 7, 2006, Walmart tasked Mexico Subsidiary Lawyer B with leading the remainder of the
+investigation.
+
+37. In March 2006, Mexico Subsidiary Lawyer B prepared his investigative report,
+which concluded that the corruption allegations were unsubstantiated. However, it did
+acknowledge that certain of Mexico Subsidiaryâs anti-corruption related internal accounting
+controls were deficient and, although some improvements had been made, certain additional anti-
+corruption related internal accounting controls were recommended. Walmart did not address those
+recommendations by implementing sufficient anti-corruption related internal accounting controls
+until in or around April 2011.
+
+38. Another corruption risk identified was Mexico Subsidiaryâs practice of donations in
+the form of checks, cash, and merchandise to Mexican municipalities and local government
+entities. In some instances, the donations were made around the time Mexico Subsidiary obtained
+permits and licenses or other government approvals. Some of the goods donated, such as cars and
+computers, were capable of being converted to personal use. Mexico Subsidiary did not implement
+sufficient internal accounting controls regarding the use of donations until in or around April 2011.
+China
+
+39. Between in or around 2006 to in or around early 2011, China Subsidiaryâs internal
+audit team identified certain weaknesses in anti-corruption related internal accounting controls. In
+January 2006, it observed: China Subsidiaryâs draft anti-corruption policy and procedures were
+inconsistent with the policy adopted by Walmart in or around March 2005; China Subsidiaryâs
+policy excluded employees of state-owned and state-controlled enterprises from the definition of
+âgovernment official;â and formal anti-corruption training at China Subsidiary had not yet been
+provided and most Chinese managers were unfamiliar with the FCPA and misunderstood the
+concept of facilitating payments. Other anti-corruption related internal accounting controls
+weaknesses at China Subsidiary observed by China Subsidiary internal audit included lack of TPI
+retention procedures and lack of a charitable donation policy. Although internal audit raised
+recurring issues during this time period, China Subsidiaryâs anti-corruption related internal
+accounting controls were not improved until in or around April 2011.
+
+India
+
+AO. In or around late 2006, Walmart conducted a review of India Partner. The initial
+due diligence, while generally positive, raised certain anti-corruption red flags about doing
+business in India. One report stated that Walmart would âbe targeted by corrupt individuals and
+organizations seeking bribes or kickbacks in exchange for favorable business relationships or the
+easing of bureaucratic restrictions.â The report also said that corruption would likely cause
+Walmart âdelays in the processing of permits, licenses and other paperwork.â The report suggested
+that Walmart could mitigate its corruption risk with â[s]trict adherenceâ to the FCPA and by
+establishing âstrong internal controls and management oversight.â
+
+41. In or around November 2006, prior to the formation of India Joint Venture, a
+Walmart real estate employee wrote to Walmart Executive that he had received a âwink and nodâ
+when he âbrought up transparency and clean transactions relative to the FCPAâ with an employee
+of India Partner. The India Partner employee also admitted that âspeed paymentsâ were used in the
+past by India Partner. Walmart did not sufficiently address the Walmart real estate employeeâs
+warning prior to forming India Joint Venture.
+
+42. Because of certain anti-corruption related red flags, Walmart obtained additional
+due diligence reports and reviewed their results.
+
+43. Walmart entered the Indian market in partnership with India Partner. Due to foreign
+direct investment restrictions, Walmart proposed that retail operations initially be franchised to
+India Partner with a wholesale business structured as a joint venture majority owned by Walmart.
+In or around August 2007, Walmart and India Partner executed franchise and joint venture
+agreements. Walmart tasked its partner with obtaining all licenses, permits, certifications, and
+zoning for retail stores in India.
+
+44. Between in or around March 2009 and in or around January 2011, Walmartâs
+internal audit team in India conducted at least three reviews of India Subsidiary and India Joint
+Venture. All of those reviews identified certain weaknesses in anti-corruption related internal
+accounting controls that required remediation, which were not immediately addressed. During this
+
+7
+time period, Walmart continued to rely on India Partner for permitting, licensing, and real estate
+matters for retail stores in India.
+
+45. In or around July 23, 2011, an anonymous source sent an email to certain Walmart
+executives alleging several issues. According to the anonymous email, an employee of India Joint
+Venture and an employee of India Retail Business were involved in a scheme to make improper
+payments to government officials to obtain store operating permits and licenses, and that a senior
+legal employee of India Joint Venture knew about the scheme. Although one executive requested
+that Walmart investigators examine the allegations, Walmart did not conduct an inquiry at that
+time.
+
+46. Despite the audit reports discussing control deficiencies and the anonymous email
+alleging improper payments to government officials, Walmart did not begin to implement and
+maintain a system of sufficient internal accounting controls related to anti-corruption to address
+corruption concerns in India until in or around April 2011.
+
+47. Because of Walmartâs failure to implement sufficient internal accounting controls
+related to anti-corruption, from in or about 2009 through in or about at least 2011, India Joint
+Venture and India Retail Business were able to retain TPIs that made improper payments to
+government officials in order to obtain store operating permits and licenses during that period.
+These improper payments were then recorded in India Joint Ventureâs books and records with
+
+vague descriptions like âmisc fees,â âmiscellaneous,â âprofessional fees,â âincidental,â and
+âgovernment fee.â
+Brazil
+As. Despite certain observations from Brazil Subsidiary internal audit regarding the
+
+Brazil Subsidiary anti-corruption related internal accounting controls weaknesses, Brazil
+Subsidiary continued to retain certain high-risk TPIs. Starting in or around 2008 to in or around
+April 2012, Brazil Subsidiary employed Brazil Construction Firm to build or renovate eight stores
+and obtain all required construction permits. Although certain Brazil Subsidiary employees were
+aware of the Brazil Construction Firmâs reputation for corruption, no due diligence was conducted
+until in or around 2009, a year after Brazil Construction Firm was engaged. That due diligence
+review cited allegations that Brazil Construction Firm had made improper payments to Brazilian
+officials for non-Walmart projects and engaged in other illegal acts for non-Walmart projects.
+Citing these allegations, the report recommended that Brazil Subsidiary not renew Brazil
+Construction Firmâs contract. Notwithstanding the due diligence results, Walmart continued to use
+Brazil Construction Firm until in or around April 2012.
+
+49. One of the Brazil Subsidiary projects that Brazil Construction Firm worked on was
+the construction of a new Walmart store that was originally scheduled to open on or around
+November 19, 2009. Brazil Subsidiary tasked Brazil Construction Firm with obtaining the
+construction permit and with handling all aspects of the storeâs construction in May 2009. Later,
+because Brazil Construction Firm was unable to timely obtain all permits, the grand opening was
+delayed until mid-December. On or around December 7, 2009, Brazil Subsidiaryâs real estate
+committee met and discussed the store project, which was on the committeeâs agenda due to its
+missing operating license. At the meeting, a Brazil Subsidiary executive stated that the store
+
+8
+needed an âextraordinary processâ to obtain the license. That same day, certain members of Brazil
+Subsidiary management approved hiring another TPIâindirectly through Brazil Construction
+Firmâto secure the license. Nine days later, the TPI obtained all governmental approvals for the
+store. The TPI received approximately $127,000, an amount greater than Brazil Subsidiaryâs other
+permitting consultants, for the TPIâs efforts with these permits and certain operating permits
+obtained after the store opened.
+
+50. Certain Brazil Subsidiary employees expressed their concerns regarding the TPI to
+Brazil Subsidiary management prior to the TPIâs engagement. Their concerns included the
+possibility that the TPI was a government official and that the TPI did not have a formal
+corporation to accept payment. A former employee of Brazil Construction Firm later stated that the
+TPI told him at that time that when the TPI was working on obtaining the construction permit
+under the direction of Brazil Construction Firm, 1) the TPI needed cash which the TPI had
+requested from Brazil Construction Firm and had received from the former employee; and 2) the
+TPI stated the money was for âpeople I have to pay,â which the former employee stated he
+understood to mean would be used to provide improper payments to Brazilian government
+officials. That former Brazil Construction Firm employee later stated that he made improper
+payments himself, without the knowledge of Brazil Subsidiary, in connection with two other Brazil
+Subsidiary stores.
+
+51. In or around 2010, Brazil Subsidiary planned to open two other stores in the same
+area. As with the earlier project, Brazil Subsidiary engaged the same TPI at year-end to assist with
+stores that had been delayed due to licensing problems. The TPI again commanded an unusually
+high fee for the TPIâs servicesâapproximately $400,000âand was paid indirectly through Brazil
+Subsidiaryâs contractor. Despite earlier corruption concerns, no due diligence was conducted on
+the TPI prior to the TPIâs work. The TPIâs ability to obtain licenses and permits quickly earned the
+TPI the nickname âsorceressâ or âgenieâ within Brazil Subsidiary.
+
+Walmartâs Subsequent Anti-Corruption Compliance Programs
+
+52. Although certain Walmart executives discussed revising the anti-corruption policy
+and procedures shortly after their publication in March 2005, the Company did not announce the
+launch of a ânew and enhancedâ anti-corruption program until on or around February 8, 2007. The
+program would feature a revised policy, new procedures, and improved auditing and investigative
+protocolsâwith an emphasis on training and TPI due diligence. Its rollout was scheduled to begin
+two months later and conclude in or around 2008.
+
+53. Walmart published the revised anti-corruption program as Company policy on or
+around December 12, 2008. However, this policy was not sufficiently implemented at that time.
+Shortly thereafter, Walmart appointed Walmart Compliance Employee as the Companyâs first vice
+president of international compliance and tasked him with updating the anti-corruption compliance
+program.
+
+54. In or around April 2009, Walmart informed its foreign subsidiaries that it would
+soon promulgate anti-corruption standards that would be more flexible and easier and quicker to
+implement. Instead of taking a centralized approach, each country would be required to devise its
+own program based on the standards. On or around June 11, 2009, Walmart circulated to the
+
+9
+subsidiaries a one-page document entitled Global Anti-Corruption Standards that: 1) summarized
+the FCPA; 2) acknowledged that in certain instances Walmart may provide gifts, meals, travel, and
+entertainment to government officials; 3) noted that the standards applied to TPIs; and 4) provided
+contact information for the Companyâs global ethics office. The markets were instructed to design
+and implement risk-based internal accounting controls, procedures, and training to ensure the
+standards were met.
+
+55. Walmartâs fiscal year 2010 FCPA reviews in Brazil, India, and Mexico identified
+certain of its anti-corruption related internal accounting controls had weaknesses in each
+subsidiary.
+
+56. By around April 2011, Walmart recognized that its existing anti-corruption
+compliance program was not sufficient and hired an international law firm and an international
+consulting firm to conduct a worldwide anti-corruption compliance review for the purpose of
+reviewing and testing Walmartâs anti-corruption compliance program in various foreign
+subsidiaries around the world, including in Mexico, India, Brazil, and China.
+
+Legal Standards and Violations
+
+57. Under Section 21C(a) of the Exchange Act, the Commission may impose a cease-
+and-desist order upon any person who is violating, has violated, or is about to violate any provision
+of the Exchange Act or any regulation thereunder, and upon any other person that is, was, or would
+be a cause of the violation, due to an act or omission the person knew or should have known would
+contribute to such violation.
+
+FCPA Violations
+
+Books and Records Violations
+
+ 
+
+58. As a result of the conduct described above, Walmart violated Section 13(b)(2)(A)
+of the Exchange Act, which requires issuers that have a class of securities registered pursuant to
+Section 12 of the Exchange Act and issuers with reporting obligations pursuant to Section 15(d) of
+the Exchange Act to make and keep books, records, and accounts which, in reasonable detail,
+accurately and fairly reflect their transactions and dispositions of their assets.
+
+Internal Accounting Controls Violations
+
+ 
+
+59. As a result of the conduct described above, Walmart violated Section 13(b)(2)(B) of
+the Exchange Act, which requires issuers that have a class of securities registered pursuant to
+Section 12 of the Exchange Act and issuers with reporting obligations pursuant to Section 15(d) of
+the Exchange Act to devise and maintain a system of internal accounting controls sufficient to
+provide reasonable assurances that (1) transactions are executed in accordance with managementâs
+general or specific authorization; (ii) transactions are recorded as necessary (I) to permit
+preparation of financial statements in conformity with generally accepted accounting principles or
+any other criteria applicable to such statements, and (II) to maintain accountability for assets; (111)
+access to assets is permitted only in accordance with managementâs general or specific
+authorization; and (iv) the recorded accountability for assets is compared with the existing assets at
+reasonable intervals and appropriate action is taken with respect to any differences.
+
+10
+Walmartâs Disclosures, Cooperation, and Remediation
+
+60. In determining to accept the Offer, the Commission considered Walmartâs
+disclosures, cooperation, and remedial efforts.
+
+61. Walmart made an initial self-disclosure of the potential FCPA violations in Mexico
+to the Commissionâs staff in November 2011, after it retained outside counsel to conduct an
+internal investigation under the direction of the Audit Committee of Walmartâs Board of Directors.
+Subsequently, Walmart voluntarily expanded its investigation and disclosed its findings concerning
+Brazil, China, and India to the Commission staff, although such disclosure was after the
+Commission staff had already begun investigating the Company related to conduct in Mexico.
+
+62. Walmart further cooperated by identifying issues and facts that would likely be of
+interest to the Commission and the staff and providing regular updates to the staff; making regular
+factual presentations to the staff and sharing information that would not have been otherwise
+readily available to the staff; making foreign-based employees available for interviews in the
+United States; producing translations of relevant documents; and obtaining cooperation of former
+employees and third parties, including their consent to interviews.
+
+63. Walmartâs remedial measures include: (1) hiring a Global Chief Ethics &
+Compliance Officer , an International Chief Ethics & Compliance Officer, and a dedicated Global
+Anti-Corruption Officer, with separate reporting lines to the Audit Committee of Walmartâs Board
+of Directors; (2) adding dedicated regional and market Chief Ethics & Compliance Officers,
+foreign market anti-corruption directors, and anti-corruption compliance personnel at Walmartâs
+home office and in Walmartâs foreign markets; (3) conducting, across each of Walmartâs markets,
+enhanced monthly and quarterly anti-corruption monitoring; (4) enhancing on-site global anti-
+corruption audits to test adherence to enhanced anti-corruption related internal accounting controls
+and procedures; (5) enhancing anti-corruption related internal accounting controls on the selection
+and use of third parties; (6) enhancing global anti-corruption training and awareness programs; (7)
+implementing an automated global license management system for obtaining and renewing
+licenses and permits and a global donation management system, which enhances controls relating
+to charitable donations; and (8) terminating business relationships with third parties involved in the
+conduct at issue.
+
+Non-Prosecution Agreement
+
+64. Walmart has entered into a non-prosecution agreement with the United States
+Department of Justice that acknowledges responsibility for criminal conduct relating to certain
+findings in the Order.
+
+Non-Imposition of a Civil Penalty
+
+65. Respondent acknowledges that the Commission is not imposing a civil penalty
+based upon Walmartâs payment of a $137,955,249 monetary fine as part of Walmartâs resolution
+with the United States Department of Justice.
+
+11
+IV.
+
+Undertakings
+
+66. Respondent undertakes to cooperate fully with the Commission in any and all
+investigations, litigation, or other proceedings relating to or arising from the matters described in
+this Order. In connection with such cooperation, Respondent shall:
+
+A. Produce, without service of a notice or subpoena, any and all non-privileged
+documents and other information requested by the Commission staff subject to any
+restrictions under the law of any foreign jurisdiction;
+
+B. Use its best efforts to cause its current or former officers, employees, and
+directors to be interviewed by Commission staff at such times and places as the
+Commission staff reasonably may direct; and
+
+C. Use its best efforts to cause its current or former officers, employees, and
+directors to appear and testify without service of a notice or subpoena in such
+investigations, depositions, hearings, or trials as may be requested by the Commission staff.
+
+67. Respondent undertakes to report to the Commission staff periodically, at no less
+than one-year intervals, during a two-year period from the date of this Order on the status of
+Respondentâs remediation and implementation of anti-corruption related compliance measures.
+During this two-year period, Respondent shall (1) submit an initial report, and (2) conduct and
+prepare one follow-up review and report, as described below:
+
+A. Respondent shall submit to the Commission staff a written report within
+twelve (12) months from the date of entry of this Order setting forth a complete
+description of its FCPA and anti-corruption related remediation efforts to date, its
+proposals reasonably designed to improve its policies and procedures for ensuring
+compliance with the FCPA and other applicable anti-corruption laws, and the parameters
+of the subsequent review (âInitial Reportâ). The Initial Report shall be transmitted to
+Charles Cain, Chief, FCPA Unit, Division of Enforcement, Securities and Exchange
+Commission, 100 F Street, N.E., Washington, DC 20549. Respondent may extend the
+time period for issuance of the Initial Report with prior written approval of the
+Commission staff.
+
+B. Respondent shall undertake one follow-up review, incorporating any
+comments provided by the Commission staff on the Initial Report, to further monitor and
+assess whether the policies and procedures of Respondent are reasonably designed to
+detect and prevent violations of the FCPA and other applicable anti-corruption laws (the
+âFollow-Up Reportâ).
+
+C. The Follow-Up Report shall be completed no later than twelve (12)
+
+months after the Initial Report. Respondent may extend the time period for issuance of
+the Follow-Up Report with prior written approval of the Commission staff.
+
+12
+68. The Initial Report, Follow-up Report, supporting documentation, and any related
+communications, presentations, and certifications submitted by Respondent may include
+proprietary, financial, confidential, and competitive business information. Public disclosure of
+the reports could discourage cooperation, impede pending or potential government investigations
+or undermine the objectives of the reporting requirement. For these reasons, among others, the
+reports and contents thereof are intended to remain and shall remain nonpublic, except (1)
+pursuant to court order, (2) as agreed by the parties in writing, (3) to the extent that the
+Commission determines in its sole discretion that disclosure would be in furtherance of the
+Commissionâs discharge of its duties and responsibilities, or (4) is otherwise required by law.
+
+69. Should Respondent, during the two-year period from the date of this Order,
+discover credible evidence, not already reported to the Commission staff, that corrupt payments
+or corrupt transfers of property or interests may have been offered, promised, paid, or authorized
+by a Respondent entity or person, or any entity or person while working directly for Respondent,
+or that related false books and records have been maintained, Respondent shall promptly report
+such conduct to the Commission staff.
+
+70. During this two-year period from the date of this Order, Respondent shall provide
+its external auditors with its annual internal audit plan and reports of the results of internal audit
+procedures and, subject to Respondentâs attorney-client privilege and attorney work product
+protections, its assessment of its anti-corruption compliance policies and procedures.
+
+71. During this two-year period from the date of this Order, Respondent shall provide
+the Commission staff with any written reports or recommendations provided by Respondentâs
+external auditors in response to Respondentâs annual internal audit plan, reports of the results of
+internal audit procedures, and its assessment of its anti-corruption compliance policies and
+procedures.
+
+72. Respondent shall certify, in writing, compliance with the undertakings set forth
+above. The certification shall identify the undertaking(s), provide written evidence of compliance
+in the form of a narrative, and be supported by exhibits sufficient to demonstrate compliance.
+The Commission staff may make reasonable requests for further evidence of compliance, and
+Respondent agrees to provide such evidence. The certification and supporting materials shall be
+submitted to Charles Cain, Chief, FCPA Unit, Division of Enforcement, with a copy to the
+Office of the Chief Counsel of the Division of Enforcement, Securities and Exchange
+Commission, 100 F Street, N.E., Washington, DC 20549, no later than 60 days from the date of
+the completion of the undertakings.
+
+73. In determining whether to accept the Offer, the Commission has considered these
+undertakings.
+
+V.
+Accordingly, pursuant to Section 21C of the Exchange Act, it is hereby ORDERED that:
+
+A. Respondent cease and desist from committing or causing any violations and any
+future violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act, 15 U.S.C. $Â§
+78m(D2) A) and 7amib\M 2B).
+
+13
+B. Respondent shall, within 10 days of the entry of this Order, pay disgorgement of
+$119,647,735 and prejudgment interest of $25,043,437 for a total payment of $144,691,172, to the
+Securities and Exchange Commission for transfer to the general fund of the United States
+Treasury, subject to Exchange Act Section 21F(g)(3). If timely payment is not made, additional
+interest shall accrue pursuant to SEC Rule of Practice 600. Payment must be made in one of the
+following ways:
+
+(1) Respondent may transmit payment electronically to the Commission, which
+will provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+ 
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying
+Walmart as the Respondent in these proceedings, and the file number of these proceedings; a copy
+of the cover letter and check or money order must be sent to Charles Cain, Chief, FCPA Unit,
+Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC
+20549.
+
+C. Respondent shall comply with the undertakings enumerated in Section IV,
+paragraphs 67 through 72 above.
+
+By the Commission.
+
+Vanessa A. Countryman
+Acting Secretary
+
+14

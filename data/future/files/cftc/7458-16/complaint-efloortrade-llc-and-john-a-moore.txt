@@ -1,0 +1,922 @@
+Case 1:16-cv-07544 Document1 Filed 09/27/16 Page 1 of 26
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+ 
+
+U.S. Commodity Futures Trading
+Commission,
+
+Docket No. 16-cv-7544
+Jury Trial Demanded
+
+Plaintiff,
+Â¥.
+eFloorTrade, LLC and John A. Moore,
+
+Defendants.
+
+Nee ene ee Neeâ eeâ ene eeâ eeâ Neeâ Seeâ âeeeâ âheeâ Seeâ
+
+ 
+
+COMPLAINT FOR INJUNCTIVE AND OTHER EQUITABLE RELIEF AND CIVIL
+MONETARY PENALTIES
+UNDER THE COMMODITY EXCHANGE ACT
+
+Plaintiff U.S. Commodity Futures Trading Commission (âCFTCâ or âCommissionâ), by
+
+and through its attorneys, alleges as follows:
+I. SUMMARY
+
+l. From at least until October 2010 to at least October 2015 (âRelevant Periodâ),
+defendant eFloorTrade, LLC (âEFTâ) failed to keep and produce for inspection full, complete,
+and systematic records of all transactions relating to its business in dealing in commodity
+interests (specifically, commodity futures contracts) in violation of Section 4g(a) of the
+Commodity Exchange Act (the âActâ), 7 U.S.C. Â§ 6g(a) (2012) and Regulations 1.31(a)(1) and
+(2), 17 C.F.R. Â§ 1.31 (a)(1) and (2) (2013), and Regulations 1.35(a)(1) and (3), 17 C.F.R. Â§
+1.35(a)(1) and (3) (2013).
+
+2. During the Relevant Period, EFT failed to prepare a written record of a customer
+
+order immediately upon receipt of that order including the account identifier and an order
+
+number and record thereon with a timestamp, to the nearest minute, of the date and time the
+Case 1:16-cv-07544 Document1 Filed 09/27/16 Page 2 of 26
+
+order was received in violation of Section 4g(a) of the Act,7 U.S.C. Â§ 6g(a) (2012) and
+Regulation 1.35(b), 17 C.F.R. Â§ 1.35(b) (2013).!
+
+3. Specifically, EFT failed to keep and produce for inspection the trading
+instructions it electronically received for customers who subscribed to third party trading systems
+for which EFT provided execution services. EFT also failed to prepare a written record of the
+customer orders that it placed (filled, unfilled or canceled) as a result of the trading instructions
+received, timestamped with the date and time to the nearest minute of when an order was
+received. In addition, EFT failed to keep all emails relating to its business in dealing in
+commodity interest transactions, For example, Mooreâs wife, who acted in the capacity ofa
+compliance officer for EFT during the Relevant Period, used her personal email account to send
+and receive emails related to EFTâs business of transacting commodity interest transactions and
+these emails were not kept and maintained by EFT. Accordingly, these failures violated the
+recordkeeping requirements of the Act and Regulations set forth above in paragraphs 1 and 2.
+
+4, Defendant John Moore (âMooreâ) is a registered associated person (âAPâ),
+designated as the Branch Office Manager of EFTâs main office in Orlando and is responsible for
+supervising EFTâs employees and agents in all aspects of their business duties.
+
+5. During the Relevant Period described herein, EFT and Moore failed to diligently
+supervise the handling of customersâ trading accounts by EFT employees and agents.
+
+Specifically, EFT and Moore failed to ensure that policies and procedures were in place to make
+
+ 
+
+| Although Regulations 1.31 and 1.35 were amended several times during the Relevant Period,
+these recordkeeping Regulations that are the subject of the violations alleged herein, existed in
+substance throughout the Relevant Period [see paragraphs 45, 47-49 and 56 of the complaint],
+with the exception of the Regulation 1.35(a)(1) which, in substance, was amended to include the
+requirement to keep communications such as quotes, solicitations, bids, offers, instructions,
+trading and prices that lead to the execution of a transaction in a commodity interest whether
+communicated by electronic mail, mobile device or other digital or electronic media. This
+amendment came into effect on January 2, 2013 [see paragraph 46 of the complaint).
+
+2
+Case 1:16-cv-07544 Document1 Filed 09/27/16 Page 3 of 26
+
+and keep books and records that EFT is required to make and keep as a Commission registrant
+and failed to adopt adequate procedures on how to handle its customersâ margin deficiencies.
+For example, contrary to the Act and Regulations, EFTâs procedures did not require EFTâs
+offices utilizing the firmâs electronic trading platform and/or the trading software provided by
+the FCM carrying that customerâs account to make or maintain written records such as customer
+order tickets with order numbers and timestamps. EFT and Moore also failed to ensure all
+employees and agents followed internal policies and procedures established by EFT that required
+EFT to sever its business relationship with a third party trading system provider when the
+carrying firm ceased doing business with that provider. These supervision failures violated
+Regulation 166.3, 17 C.F.R. Â§ 166.3 (2015) and also contributed to recordkeeping violations of
+the Act and Regulations.
+
+6. In sworn testimony before the Commission on September 18, 2015, in his role as
+managing director, majority owner, registered AP and sole principal of EFT, Moore was
+questioned about the books and records EFT makes and keeps in its ordinary course of its
+business in dealing in commodity interests. In response to such questioning, Moore falsely
+testified under oath that he or another EFT employee working under his direct supervision,
+created and maintained spreadsheets relating to trades executed on behalf of customers whose
+orders were generated from trading instructions received from third party trading system
+
+providers. Moore knowingly or reasonably should have known that this sworn testimony to the
+
+Commission was false and misleading, since Moore and EFT through their attorney subsequently
+
+admitted that no such records were made or kept by EFT. Mooreâs actions violated Section
+
+6(c)(2) of the Act, 7 U.S.C. Â§ 9(2) (2012) which makes it illegal for any person to make a false
+
+or misleading statement of material fact to the Commission if the person knew, or reasonably
+Case 1:16-cv-07544 Document1 Filed 09/27/16 Page 4 of 26
+
+should have known the statement to be false or misleading.
+
+7. Accordingly, the CFTC brings this action pursuant to Section 6c of the Act,
+7 U.S.C. Â§ 13a-1 (2012), to enjoin Defendantsâ unlawful acts and practices and compel their
+compliance with the Act and Regulations. In addition, the CFTC seeks civil monetary penalties,
+
+disgorgement and such other equitable relief as this Court may deem necessary and appropriate.
+
+II. JURISDICTION AND VENUE
+
+8. This Court has jurisdiction over this action pursuant to Section 6c(a) of the Act,
+7 U.S.C. Â§ 13a-1(a) (2014), which authorizes the CFTC to seek injunctive relief against any
+person whenever it shall appear that such person has engaged, is engaged, is engaging, or is
+about to engage in any act or practice constituting a violation of any provision of the Act or any
+rule, regulation, or order thereunder.
+
+9. Venue properly lies with this Court pursuant to Section 6c(e) of the Act,
+7 U.S.C. Â§ 13al1(e) (2014), in that Defendants have transacted and/or transact business in this
+District and Defendantsâ acts and practices in violation of the Act and Regulations occurred, are
+occurring, and/or are about to occur within this District. Defendants had and/or have customers
+who reside within this District who have subscribed to third party trading systems for which EFT
+provides trade execution services.
+
+Ill. THE PARTIES
+
+10. _â_â Plaintiff U.S. Commodity Futures Trading Commission is an independent
+
+federal regulatory agency charged by Congress with the responsibility for administering and
+
+enforcing the provisions of the Act, 7 U.S.C. Â§Â§ 1 et seq. (2014), and the Regulations
+Case 1:16-cv-07544 Document 1 Filed 09/27/16 Page 5 of 26
+
+promulgated thereunder, 17 C.F.R. Â§Â§ 1.1 et seq. (2015).
+
+11. Defendant eFloorTrade, LLC is a Delaware limited liability company whose
+main office is located at 255 S Orange Ave #1505, Orlando, Florida. EFT is a family business,
+wholly owned and operated by Moore and members of his immediate family. EFT provides
+trade execution services to customers located throughout the United States, including those who
+reside in this District. EFT has been registered with the Commission as an introducing broker
+(âIBâ) since April 3, 2000 (including a period during which it did business under the name Floor
+Trade, Inc.).
+
+12. Defendant John A. Moore resides in Orlando, Florida. Moore has been
+registered with the Commission as an AP of EFT since April 2000 and listed as its sole principal.
+Moore functions as EFTâs Chief Compliance Manager, Sales Supervisor, and is responsible on a
+daily basis for reconciling prior dayâs executed transactions, ensuring EFT is accurately paid
+commissions for the orders it places on behalf of its customers behalf, calculating required net
+capital, and overseeing that dayâs trading. He is listed as the Branch Manager of the main office
+in Orlando and is responsible for supervising EFTâs employees and agents in all aspects of their
+business duties. He has been registered with the Commission as an AP and principal with
+various Commission registrants since August 1988.
+
+IV. FACTS
+A. EFTâs Business
+
+13. The majority of EFTâs business involves receiving trading instructions from third
+party trading systems and placing buy and sell orders for commodity interest transactions on
+
+behalf of its customers who have subscribed to certain third party trading systems. These
+
+customers have granted EFT a letter of direction to place orders communicated by third party
+Case 1:16-cv-07544 Document1 Filed 09/27/16 Page 6 of 26
+
+trading system providers on their behalf and EFT charges customers a commission per
+transaction for its execution services.
+
+14, _ EFT electronically receives trading instructions for its customers through
+TradeStation, an electronic trading platform, from third party trading systems. These
+instructions will include the specific futures contract to be traded, type of order (limit or market),
+and a stop price. For example, on July 30, 2011, Think LX Pro trading system from the system
+provider Tradethink sent instructions at 8:10:48 am to buy at market, the September 2011 British
+Pound futures contract traded on the CME, a board of trade located in the United States, with a
+stop price of 1.6524. Moore also receives a text to his mobile phone with trading instructions
+from certain trading systems. Moore and EFT failed to save any of these texts of trading
+instructions.
+
+15. EFT built software which receives these trading instructions to buy or sell a
+specific futures contract and routes them on behalf of its customers to the futures commission
+merchant (âFCMâ) carrying that customerâs account for execution.
+
+B. Commissionâs Document Requests
+
+16. | OnMarch 11, 2014 and October 23, 2015, the Division of Enforcement (the
+âDivisionâ) requested, through a letter sent to Defendantsâ then attorney, that EFT produce for
+inspection to the Division in its Eastern Regional Office in New York, New York, certain of the
+books and records that EFT was required to make under the Act and Regulations. The books and
+
+records requested were within the five year period that these records were required to be kept
+under the Act and Regulations.
+
+17. As part of its March 11, 2014, the Commission requested production of, among
+
+other things, (i) written documentation of EFTâs operating policies or procedures, (ii) all reviews
+Case 1:16-cv-07544 Document 1 Filed 09/27/16 Page 7 of 26
+
+performed since January 1, 2012, to ensure compliance with EFTâs written policies and
+procedures, (iii) account documentation for accounts over which EFT had a power of attorney,
+letter of direction or otherwise granted permission to exercise trading authority over a customerâs
+account, including but not limited to account opening documents, order tickets and account
+statements, (iv) trading signals, performance results or written documentation relating to any
+electronic trading system or trading platform for which EFT has trading authority pursuant to a
+power of attorney, a letter of direction or was otherwise granted permission to trade, and (v) all
+customer complaints or inquires received between January 1, 2012 and the date of the request
+and the results of EFTâs investigation of those customer complaints or inquires. The
+Commission also requested all account records, trading records, and correspondence and
+litigation records relating to a lawsuit filed by a customer against EFT.
+
+18. In response to the Commissionâs request for documents dated March 11, 2014,
+EFT produced certain of the requested documents, but failed to provide any (i) trading signals
+relating to any electronic trading system or trading platform for which EFT has trading authority
+pursuant to a power of attorney, a letter of direction or was otherwise granted permission to
+trade, and (ii) order tickets made by EFT as a result of the receipt of the trading signals.
+
+19. _ As part of its request for documents dated October 23, 2015, the Commission
+again requested the production of all âdocuments not previously produced to the Division which
+are responsive to the Divisionâs previous request dated March 11, 2014 request.â In addition, the
+Commission also requested the production of, among other things, (i) trading instructions or
+signals received from a third party trading system specifying any commodity interest to be
+bought or sold for a subscriberâs account, (ii) documents created or received when EFT executes
+
+transactions for a subscriber following the trading instructions or signals received from a third
+Case 1:16-cv-07544 Document 1 Filed 09/27/16 Page 8 of 26
+
+party trading system. Such documents may include, but are not limited to, order tickets, trade
+listings, trade confirmations, daily trade logs, customer complaints, or inquiries, (iii) documents
+maintained by EFT documenting the execution of orders placed on behalf of customers who had
+given EFT authorization to follow the trading instructions or trading signals of a third party
+trading system, and (iv) any spreadsheet or other record created or maintained by EFT
+documenting the trades it placed on behalf of customers who had given EFT authorization to
+follow the trading instructions or trading signals of a third party trading system.
+
+20. On November 12, 2015, Defendants responded to Commissionâs document
+request dated October 23, 2015 through a letter sent by Defendantsâ attorney (âDefendantsâ
+Letterâ) which produced certain documents, but failed to produce any of the documents
+responsive to the Commissionâs request described above in paragraph 18. For those requests that
+Defendant failed to produce documents, the Defendantsâ Letter provided a written response to
+the Divisionâs request.
+
+21. Defendantsâ attorney acted as Defendantsâ agent in submitting the Defendantsâ
+Letter to the Division. Because the attorney was retained by Defendants, the attorney was acting
+on behalf of the Defendants in making statements in the Defendantsâ Letter. In addition, the
+Defendantsâ Letter stated that it was responding to a request sent to Defendants by the Division
+seeking additional information from EFT. Further, Moore, on behalf of both EFT and himself,
+
+provided the information in the Defendantsâ Letter to the attorney and reviewed the contents of
+the Defendantsâ Letter prior to it being sent to the Division.
+
+22. In response to the Divisionâs October 23, 2015 document request, the Defendants
+stated in the Defendantsâ Letter that ââ[w]hen EFT executes transactions for subscribers of third
+
+party tradirig systems, no document is created or received.â Defendants also stated in the
+Case 1:16-cv-07544 Document1 Filed 09/27/16 Page 9 of 26
+
+Defendantsâ Letter that âEFT does not maintain any documents regarding the handling of trade
+orders, other than the procedures manualâ for customers who had given EFT authorizations to
+follow the trading instructions or trading signals of a third party trading system. The Defendants
+further stated in the Defendantsâ Letter that âEFT does not create or maintain any spreadsheets
+
+relating to trades placed in accordance with a third party trading systems.â
+
+Cc. Mooreâs Testimony Under Oath
+
+23. On September 18, 2015, Moore appeared voluntarily before the Commission to
+provide testimony under oath. He was represented by counsel. Prior to the start of his
+testimony, Moore was provided with a document titled âStatement to Persons Providing
+Information about Themselves to the Commodity Futures Trading Commissionâ (the
+âStatementâ) which sets forth his legal rights and responsibilities as a person requested to supply
+information voluntarily or as a person with recordkeeping obligations under the Act or
+Regulations. In relevant part, the Statement advised Moore of the following:
+
+âAny person who knowingly and willfully makes false or fraudulent statements,
+
+whether under oath or otherwise, or falsifies, conceals or covers up a material
+
+fact, or submits any false writing or document, knowing it to contain false,
+
+fictitious or fraudulent information, is subject to the criminal penalties set forth in
+18 U.S.C. Â§ 1001... ,
+
+It shall also be unlawful for any person to make any false or misleading statement
+of a material fact to the Commission . . . or to omit to state in any such statement
+any material fact that is necessary to make any statement of a material fact made
+not misleading in any material respect, if the person knew, or reasonably should
+have known, the statement to be false or misleading, as set forth in Section 6(c)(2)
+of the Commodity Exchange Act, 7 U.S.C. Â§ 9(2).â
+
+24. At the opening of the record, Moore was administrated an oath by the court
+reporter to testify truthfully and Moore swore or affirmed that he would testify truthfully. Under
+
+oath and on the record, Moore then acknowledged that he read the Statement and had no
+
+9
+Case 1:16-cv-07544 Documenti Filed 09/27/16 Page 10 of 26
+
+questions regarding his legal rights and responsibilities. He also testified that there was no
+reason why he could not providing full, complete and truthful answers to the Divisionâs
+questions.
+
+25. Moore testified that during the Relevant Period, he was the managing director,
+majority owner, registered AP, and sole principal of EFT. He further testified that he was
+responsible for adopting and enforcing internal policies and procedures to ensure EFTâs
+compliance with the Act, supervising EFTâs APs and employees and managing EFTâs day to day
+operations. Moore also testified that as required by NFA rules, he reviewed EFTâs operations on
+a yearly basis (according to the criteria set forth in NFAâs self-examination questionnaire) and
+signed the questionnaire attesting to the fact that EFTâs internal procedures were adequate to
+meet its regulatory responsibilities.
+
+26. Moore testified that he knew that his wife (who acted in the capacity of
+compliance officer for EFT during the Relevant Period) used her personal email account to send
+and receive emails related to EFTâs business of transacting commodity interest transactions and
+that these emails were not kept and maintained by EFT. During the Relevant period, Mooreâs
+wife used her personal email address to correspond with at least one EFT customer and Moore
+listed his wifeâs personal email address in the annual registration updates he filed with NFA as
+the email address to use for any accounting or compliance issues related to EFT.
+
+27. | Moore also testified that he and other employees and agents under his direct
+supervision did not make and/or keep a written record of the customer orders placed with the
+carrying FCM since they did not âhave enough time in the dayâ to prepare records of customersâ
+orders and relied on the records made by the carrying FCM since the FCM maintained âa history
+
+of time stamped orders when the order was received, filled, and hit the customer account.â
+
+10
+Case 1:16-cv-07544 Document1 Filed 09/27/16 Page 11 of 26
+
+Moore testified that since he could access relevant records through the FCMâs website whenever
+he wanted, there was no need for EFT to keep copies of these records. Notwithstanding Mooreâs
+testimony, the records of the carrying FCM, however, did not include the date and time when
+
+EFT received the trading instructions from the third party trading system, what those instructions
+
+were and the time when EFT placed the customer order with the carrying FCM.
+
+28. | Moore was asked if the trading signals were maintained by EFT and he testified
+that the signals were displayed on a screen that EFT monitored and that these signals were only
+preserved âon occasion sometimes.â He further testified that the signals were captured in
+TradeStation but TradeStation had known âdata discrepancy problemsâ and âfutures contracts,
+when it [futures contracts] rolls, it [TradeStation] changes their dataâ so that TradeStation data
+isn't 100 percent accurate and changes.â
+
+29. Moore further testified that he did not maintain the text messages containing the
+trading instructions he received on behalf of EFTâs customers from third party system providers.
+
+30. Moore made a false or misleading statement when he testified that EFT made and
+kept an Excel spreadsheet listing the trades EFT placed on behalf of customers who subscribed
+to third party trading systems. He also made a false or misleading statement when he testified
+that the Excel spreadsheet was the sole record EFT made and kept of the futures orders placed on
+behalf of customers who had given EFT authorization to follow the trading instructions or
+
+trading signals of a third party trading system.
+
+Question: Other than what's currently in the TradeStation account that you
+are running, you don't separately maintain anything?
+
+Answer: Yes, we do.
+
+Question: How do you do that?
+
+Answer: In an Excel spreadsheet.
+
+Question: Whose responsibility is it to maintain that?
+
+11
+Case 1:16-cv-07544 Document1 Filed 09/27/16 Page 12 of 26
+
+Answer: Between my son and I we both; I do some, he does some.
+Question: And how often do you do it?
+Answer: Every day.
+
+Question: Okay, let me step back. A signal was generated in [third party
+provider]âs system, you receive a text message; is that correct?
+
+Answer: Correct.
+
+Question: The signal also through your coding automatically places trades in
+your customersâ accounts that are trading that system?
+
+Answer: Correct.
+
+Question: No separate order ticket or record is created outside the
+TradeStation environment at that point?
+
+Answer: The [FCMâs] time stamp order in the customer's account.
+
+Question: But eFloorTrade doesn't create anything?
+
+Answer: No.
+
+Question: And eFloorTrade doesn't maintain anything? There is on the FCM
+side, but there is nothing on your side?
+
+Answer: The Excel spreadsheet.
+
+Question: And there is the signal in the system, in the TradeStation that
+generated a signal over to the FCM to execute the trades?
+
+Answer: Correct.
+
+Question: After that signal is done, how soon is that downloaded into the
+Excel spreadsheet?
+
+Answer: The next day.
+
+31. | When further questioned about the Excel spreadsheet (referenced in paragraph 30
+above), Moore made a false or misleading statement when he testified that either he or his son
+âmanually input in the spreadsheets those trading systems that signal the day before, make sure
+that those are the trades that went offâ and reflected âthe actual trade that occurred in the
+customer accountâ and that this spreadsheet was used by him to reconcile the prior business
+dayâs trading. Moore also made a false and misleading statement when he further testified that
+he reviewed this spreadsheet daily and ensured that copies of this spreadsheet were electronically
+maintained by EFT.
+
+32. Moore knew or reasonably should have known at the time of his testimony under
+oath that his statements about the Excel spreadsheet referenced in paragraphs 30 and 31 were
+
+false and misleading. Contrary to Mooreâs testimony, the Defendantsâ Letter states that âEFT
+
+12
+Case 1:16-cv-07544 Documenti Filed 09/27/16 Page 13 of 26
+
+does not create or maintain any spreadsheets relating to trades placed in accordance with a third
+party trading systemsâ and that â[w]hen EFT executes transactions for subscribers of third party
+trading systems, no document is created or received.â Mooreâs testimony is further contradicted
+by the Defendantsâ Letter which states that âEFT does not maintain any documents regarding the
+
+handling of trade orders, other than the procedures manualâ for these customers.
+
+D. Defendantsâ Failure to Properly Supervise
+
+33. Moore is a registered AP of EFT, is designated as a Branch Office Manager and is
+a managing member, majority owner, and chief compliance officer of EFT. As a registered AP
+and Branch Office Manager of EFTâs main office, Moore is responsible for supervising all
+employees and agents, supervising sales solicitations, approving customer account forms,
+monitoring trading activity to detect unusual or suspicious activity, reviewing and responding to
+customer complaints, conducting training for staff and drafting EFTâs written policies and
+procedures to ensure EFT complies with the Act and Regulations. Moore reviewed EFTâs
+operations on a yearly basis and had not identified any issues with EFTâs policies or procedures.
+In fact, Moore signed NFAâs annual self-examination questionnaire where he attested to the fact
+that EFTâs written procedures were adequate to meet its regulatory responsibilities.
+
+34, | EFT and Moore failed to design, implement, maintain, and enforce an adequate
+program of supervision to meet their regulatory obligations. These supervision failures
+contributed to EFTâs recordkeeping violations of the Act and Regulations. For example,
+contrary to the Act and Regulations, EFTâs procedures did not require EFTâs offices utilizing the
+firmâs electronic trading platform and/or the trading software provided by the FCM carrying that
+
+customerâs account to maintain written records such as customer order tickets with preprinted
+
+13
+Case 1:16-cv-07544 Document1 Filed 09/27/16 Page 14 of 26
+
+order numbers and timestamps.
+
+35. Another example of EFT and Mooreâs failure to design, implement, maintain, and
+enforce an adequate program of supervision is EFTâs failure to adopt written procedures
+governing the handling of routine margin calls which occur when the carrying FCM demands
+additional funds or securities be deposited in a trading account because the value of equity in the
+account has fallen below a required minimum. Moore only developed such procedures after it
+was sued by one of its customer for placing trades, not authorized by the customer and/or
+generated from a the third party trading system subscribed to by that customer, in that customerâs
+account to avoid a margin call.
+
+36. | EFT and Moore also failed to perform their supervisory duties diligently by not
+following the very procedures they had adopted. For example, EFT had a provision in its
+Procedures and Operations Manual dated September 1, 2011, that âif an FCM ceases to do
+business with any third-party trading system, EFT will also sever the relationshipâ with that
+third-party trading system. Notwithstanding this policy, when EFT was notified on September
+15, 2011, that an FCM severed its relationship with a certain third party trading system and
+closed the accounts of EFT customers who subscribed to that system, EFT did not sever its
+relationship with that system. Instead, EFT assisted those subscribers in opening accounts at
+another FCM so that they could continue to trade pursuant to that third party trading system.
+EFT violated its own policy so that it would not lose the commissions earned from subscribers to
+that particular system, which comprised the vast majority of EFT customers. The next version of
+the compliance manual dated March 2, 2012, changed this policy and gave EFT discretion
+whether to terminate its business relationship with the third party trading system provider.
+
+37. | EFT and Moore did not diligently oversee the activities of EFT employees and
+
+14
+Case 1:16-cv-07544 Document1 Filed 09/27/16 Page 15 of 26
+
+agents under their supervision, nor did they act to ensure that employees under their supervision
+complied with the Act and Regulations. Further, EFT and Moore did not enforce compliance
+
+with EFTâs own policies and procedures.
+
+Vv. VIOLATIONS OF THE COMMODITY EXCHANGE ACT
+COUNT ONE
+
+FALSE OR MISLEADING STATEMENT TO THE COMMISSION
+(VIOLATIONS OF 7 U.S.C Â§ 9(2))
+
+38. The allegations of the foregoing paragraphs are incorporated herein by reference.
+
+39. Section 6(c)(2) of the Act provides in pertinent part that it is unlawful âfor any
+person to make any false or misleading statement of a material fact to the Commission. . . or to
+omit to state in any such statement any material fact that is necessary to make any statement of
+material fact made not misleading in any material respect, if the person knew, or reasonably
+should have known, the statement to be false or misleading.â 7 U.S.C. Â§9(2) (2012).
+
+40. _ As set forth above, Moore made false or misleading statements to the
+Commission when he was testified under oath before the Commission about the books and
+records EFT makes and keeps in its ordinary course of its business in dealing in commodity
+interests. Moore also falsely testified that EFT made or kept an Excel spreadsheet listing the buy
+or sell orders placed to trade a specific futures contract on behalf of customers who subscribed to
+a third party trading system. Moore further testified falsely when he testified that he used this
+Excel spreadsheet to reconcile the prior business dayâs trading and that he personally ensured
+that copies of this spreadsheet were electronically stored by EFT.
+
+41. | Moore knew or reasonably should have known that each of his statements was
+
+false or misleading.
+
+15
+Case 1:16-cv-07544 Document1 Filed 09/27/16 Page 16 of 26
+
+42. _ Each false, fictitious, fraudulent or misleading statement of material fact,
+including but not limited to those specifically alleged herein, is alleged as a separate and distinct
+
+violation of Section 6(c)(2) of the Act, 7 U.S.C. Â§9(2) (2012).
+
+COUNT TWO
+
+FAILURE TO KEEP AND PRODUCE REQUIRED BOOKS AND RECORDS
+(VIOLATIONS OF 7 U.S.C Â§ 4g(a) and 17 C.F.R. Â§Â§ 1.31(a)(1) and (2); 1.35(a)(1) and (3))
+
+43. The allegations of the foregoing paragraphs are incorporated herein by reference.
+
+44. Section 4g(a) of the Act provides in pertinent part that every person registered as
+an IB shall keep books and records pertaining to transactions and positions of customers in such
+a form and for such period as may be required by the Commission; and shall keep such books
+and records open to inspection by any representative of the Commission or the United States
+Department of Justice. 7 U.S.C. Â§ 6g(a) (2012).
+
+45. Regulation 1.35(a) provides in pertinent part that each IB shall keep full,
+complete, and systematic records, together with all pertinent data and memoranda, of all
+transactions relating to its business of dealing in commodity futures. Included among such
+records are all orders (filled, unfilled, or canceled), copies of confirmations, copies of statements
+of purchase and sale, and all other records, which have been prepared in the course of its
+business of dealings in commodity futures. During the Relevant Period, this legal requirement
+existed as follows:
+
+a. Regulation 1.35(a), 17 C.F.R. Â§ 1.35(a) (2012) (with respect to conduct
+
+before October 1, 2012);
+
+b. Regulation 1.35(a), 17 C.F.R. Â§ 1.35(a) (2012) (as amended by Customer
+
+Clearing and Documentation Timing of Acceptance of Clearing and Clearing Member
+
+16
+Case 1:16-cv-07544 Documenti Filed 09/27/16 Page 17 of 26
+
+Risk Management, 77 Fed. Reg. 21,278, 21,306 (Apr. 9, 2012)) (with respect to conduct
+
+on or after October 1, 2012 to January 2, 2013);
+
+C. Regulation 1.35(a), 17 C.F.R. Â§ 1.35(a) (2012) (as amended by Adaptation
+of Regulations to Incorporate Swaps, 77 Fed. Reg. 66,288, 66,324 (Nov. 2, 2012)) (with
+respect to conduct on or after January 2, 2013 and before February 19, 2013); and
+
+d. Regulation 1.35(a)(1), 17 C.F.R. Â§ 1.35(a)(1) (2013) (with respect to
+conduct on or after February 19, 2013).
+
+46. __ Effective January 2, 2013, Regulation 1.35(a)(1) also provides in pertinent part
+that among the records required to be kept are all oral and written communications provided or
+received concerning quotes, solicitations, bids, offers, instructions, trading and prices that lead to
+the execution of a transaction in a commodity interest whether communicated by electronic mail,
+mobile device or other digital or electronic media. 17 C.F.R. Â§ 1.35(a)(1) (2012) (as amended by
+Adaptation of Regulations to Incorporate Swaps-Records of Transactions, 77 Fed. Reg. 75,523,
+75,541 (Dec. 21, 2012)).
+
+47, _ Regulation 1.35(a) also provides in pertinent part that each IB shall retain the
+records required by this section in accordance with the requirements of Regulation 1.31, and
+produce them for inspection and furnish true and correct information and reports as to the
+contents or the meaning thereof, when and as requested by an authorized representative of the
+Commission. During the Relevant Period, this legal requirement existed as follows:
+
+a. 17 C.F.R. Â§ 1.35(a) (2012) (with respect to conduct before October 1,
+2012);
+
+b. Regulation 1.35(a), 17 C.F.R. Â§ 1.35(a) (2012) (as amended by Customer
+
+Clearing and Documentation Timing of Acceptance of Clearing and Clearing Member
+
+17
+Case 1:16-cv-07544 Documenti Filed 09/27/16 Page 18 of 26
+
+Risk Management, 77 Fed. Reg. at 21,306) (with respect to conduct on or after October 1,
+2012 to January 2, 2013);
+
+c. Regulation 1.35(a), 17 C.F.R. Â§ 1.35(a) (2012) (as amended by Adaptation
+of Regulations to Incorporate Swaps, 77 Fed. Reg. at 66,324) (with respect to conduct on
+or after January 2, 2013 and before February 19, 2013); and
+
+d. Regulation 1.35(a)(3), 17 C.F.R. Â§ 1.35(a)(3) (2013) (with respect to
+conduct on or after February 19, 2013).
+
+48. Regulation 1.31(a)(1) provides in pertinent part that all books and records
+
+required to be kept under the Act or by these regulations shall be kept for a period of five years
+
+from the date thereof and shall be readily accessible during the first 2 years of the 5-year
+
+period. All such books and records shall be open to inspection by the Commission. During the
+
+Relevant Period, this legal requirement existed as follows:
+
+a. Regulation 1.31(a)(1), 17 C.F.R. Â§ 1.31(a)(1) (2012) (with respect to
+conduct before January 2, 2013);
+
+b. Regulation 1.31(a)(1), 17 C.F.R. Â§ 1.31(a)(1) (2012) (as amended by
+Adaptation of Regulations to Incorporate Swaps, 77 Fed. Reg. at 66,323) (with respect to
+conduct on or after January 2, 2013 and before February 19, 2013); and
+
+c. Regulation 1.31(a)(1), 17 C.F.R. Â§ 1.31 (a)(1) (2013) (with respect to
+conduct on or after February 19, 2013).
+
+49. _ Regulation 1.31(a)(2) provides in pertinent part that Persons required to keep
+
+books and records by the Act or by these Regulations shall provide copies or originals of such
+
+records promptly. During the Relevant Period, this legal requirement existed as follows:
+
+a. 17 C.F.R. Â§ 1.31(a)(2) (2012) (with respect to conduct before January 2,
+
+18
+Case 1:16-cv-07544 Documenti1 Filed 09/27/16 Page 19 of 26
+
+2013);
+
+b. Regulation 1.31(a)(2), 17 C.F.R. Â§ 1.31(a)(2) (2012) (as amended by
+
+Adaptation of Regulations to Incorporate Swaps, 77 Fed. Reg. at 66,323) (with respect to
+
+conduct on or after January 2, 2013 and before February 19, 2013); and
+
+c. Regulation 1.31(a)(2), 17 C.F.R. Â§ 1.31(a)(2) (2013) (with respect to
+
+conduct on or after February 19, 2013).
+
+50. EFT violated Section 4g(a) of the Act and Regulations 1.31(a)(1) and (2), and
+1.35(a)(1) and (3) by failing to keep for a period of five years from the date thereof and to
+produce for inspection, full, complete, and systematic records of all transactions relating to its
+business of dealing in commodity futures, including but not limited to: (1) trading instructions or
+trading signals received electronically from a third party trading system specifying any
+commodity interest to be bought or sold for a subscriberâs account, (2) written order tickets for
+orders EFT placed on behalf of customers who had given EFT authorization to follow the trading
+instructions or trading signals of a third party trading system, (3) documents created or received
+when EFT executed transactions for a subscriber to third party trading systems (such as orders
+(filled, unfilled, or canceled), journals, ledgers, trade confirmations, purchase and sale
+statements, and customer complaints or inquiries), (4) spreadsheets or other record created or
+maintained by EFT documenting the trades executed for customers who had given EFT
+authorization to follow the trading instructions or trading signals of a third party trading system,
+(5) all emails relating to its business in dealing in commodity interest transactions , and (6) other
+records prepared in the course of its business of dealings in commodity interests and related cash
+or forward transactions.
+
+51. | Moore controlled EFT and did not act in good faith or knowingly induced,
+
+19
+Case 1:16-cv-07544 Documenti Filed 09/27/16 Page 20 of 26
+
+directly or indirectly, the acts constituting EFTâs violations alleged in this count. Moore is
+therefore liable as a controlling person pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b)
+(2012).
+
+52. The foregoing acts, omissions, and failures of Moore and/or other EFT employees
+occurred within the scope of their employment, office or agency with EFT. Therefore EFT is
+liable as a principal pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1)(B) (2012) and
+Regulation 1.2, 17 C.F.R. Â§ 1.2 (2015) for the acts, omissions, and failures of EFTâs employees,
+officers and agents.
+
+53. Each record that was not kept in accordance with the Commissionâs Act and
+Regulations, including but not limited to those specifically alleged herein, is alleged as a separate
+and distinct violation of Section 4g(a) of the Act, 7 U.S.C. Â§ 6g(a) (2012), Regulations
+1.31(a)(1), and (2), 17 C.F.R. Â§ 1.31(a)(1) and (2) (2012) (with respect to conduct before January
+2, 2013); Regulations 1.31(a)(1), and (2), 17 C.F.R. Â§ 1.31 (a)(1) and (2) (2012) (as amended by
+Adaptation of Regulations to Incorporate Swaps, 77 Fed. Reg. at 66,323) (with respect to
+conduct on or after January 2, 2013 and before February 19, 2013); Regulations 1.31(a)(1), and
+(2), 17 C.F.R. Â§ 1.31 (a)(1) and (2) (2013) (with respect to conduct on or after February 19,
+2013); Regulation 1.35(a), 17 C.F.R. Â§ 1.35(a) (2012) (with respect to conduct before October 1,
+2012); Regulation 1.35(a), 17 C.F.R. Â§ 1.35(a) (2012) (as amended by Customer Clearing and
+Documentation Timing of Acceptance of Clearing and Clearing Member Risk Management, 77
+Fed. Reg. at 21,306) (with respect to conduct on or after October 1, 2012 to January 2, 2013);
+Regulation 1.35(a), 17 C.F.R. Â§ 1.35(a) (2012) (as amended by Adaptation of Regulations to
+Incorporate Swaps, 77 Fed. Reg. at 66,324) (with respect to conduct on or after January 2, 2013
+
+and before February 19, 2013); Regulations 1.35(a)(1) and (3), 17 C.F.R. Â§ 1.35(a)(1) and (3)
+
+20
+Case 1:16-cv-07544 Documenti1 Filed 09/27/16 Page 21 of 26
+
+(2013) (with respect to conduct on or after February 19, 2013).
+COUNT THREE
+
+FAILURE TO MAKE AND/OR PREPARE REQUIRED RECORDS
+(VIOLATIONS OF 7 U.S.C. Â§ 4g(a) and REGULATION 1.35, 17 C.F.R. Â§ 1.35)
+
+54. The allegations of the foregoing paragraphs are incorporated herein by reference.
+
+55. Section 4g(a) of the Act, 7 U.S.C. Â§ 6g(a) (2012), provides that every person
+registered as an IB âshall make such reports as are required by the Commission regarding the
+transactions and positions of such person, and the transactions and positions of the customer
+thereof, in commodities for future delivery on any board of trade in the United States or
+elsewhere.â
+
+56. Regulation 1.35 specifically requires that each IB who receives a customer order
+shall immediately upon receipt thereof prepare a written record of the order including the
+account identification [except in certain circumstances related to bunched orders] and order
+number and shall record thereon, by timestamp or other timing device, the date and time, to the
+nearest minute, the order is received. During the Relevant Period, this legal requirement existed
+as follows:
+
+a. Regulation 1.35(a-1), 17 C.F.R. Â§ 1.35(a-1) (2012) (with respect to
+
+conduct before October 1, 2012);
+
+b. Regulation 1.35(a-1), 17 C.F.R. Â§ 1.35(a-1) (2012) (as amended by
+
+Customer Clearing and Documentation Timing of Acceptance of Clearing and Clearing
+
+Member Risk Management, 77 Fed. Reg. at 21,306) (with respect to conduct on or after
+
+âOctober 1, 2012 to January 2, 2013);
+
+c. Regulation 1.35(b), 17 C.F.R. Â§ 1.35(b) (2012) (as amended by Adaptation
+
+of Regulations to Incorporate Swaps, 77 Fed. Reg. at 66,325) (with respect to conduct on
+
+21
+Case 1:16-cv-07544 Document1 Filed 09/27/16 Page 22 of 26
+
+or after January 2, 2013 and before February 19, 2013); and
+d. Regulation 1.35(b), 17 C.F.R. Â§ 1.35(b) (2013) (with respect to conduct on
+
+or after February 19, 2013).
+
+57. EFT violated Section 4g(a) of the Act and Regulation 1.35 when it failed to
+prepare, immediately upon receipt, âa written record of the order including account identification
+and order numberâ and ârecord thereon, by timestamp or other timing device, the date and time,
+to the nearest minute, the order is receivedâ for its customers who subscribed to third party
+trading systems.
+
+58. | Moore controlled EFT and did not act in good faith or knowingly induced,
+directly or indirectly, the acts constituting EFTâs violations alleged in this count. Moore is
+therefore liable as a controlling person pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b)
+(2012).
+
+59. The foregoing acts, omissions, and failures of Moore and EFT employees
+occurred within the scope of their employment, office or agency with EFT. Therefore EFT is
+liable as a principal pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1)(B) (2012) and
+Regulation 1.2, 17 C.F.R. Â§ 1.2 (2015) for the acts, omissions, and failures of EFT employees,
+officers and agents.
+
+60. _ Each record that was not properly made or prepared, including but not limited to
+those specifically alleged herein, is alleged as a separate and distinct violation of 4g(a) of the
+Act, 7 U.S.C. Â§ 6g(a) (2012), and Regulation 1.35(a-1), 17 C.F.R. Â§ 1.35(a-1) (2012) (with
+respect to conduct before October 1, 2012); Regulation 1.35(a-1), 17 C.F.R. Â§ 1.35(a-1) (2012)
+(as amended by Customer Clearing and Documentation Timing of Acceptance of Clearing and
+
+Clearing Member Risk Management, 77 Fed. Reg. at 21,306) (with respect to conduct on or after
+
+22
+Case 1:16-cv-07544 Document1 Filed 09/27/16 Page 23 of 26
+
+October 1, 2012 to January 2, 2013); Regulation 1.35(b), 17 C.F.R. Â§ 1.35(b) (2012) (as
+
+amended by Adaptation of Regulations to Incorporate Swaps, 77 Fed. Reg. at 66,325) (with
+
+respect to conduct on or after January 2, 2013 and before February 19, 2013); Regulation
+
+1.35(b), 17 C.F.R. Â§ 1.35(b) (2013) (with respect to conduct on or after February 19, 2013).
+COUNT FOUR
+
+FAILURE TO DILIGENTLY SUPERVISE
+(VIOLATIONS OF REGULATION 166.3)
+
+61. The allegations of the foregoing paragraphs are incorporated herein by reference.
+
+62. Regulation 166.3, 17 C.F.R. Â§ 166.3 (2015), requires each Commission registrant,
+except an AP who has no supervisory duties, to diligently supervise the handling of all
+commodity interest accounts carried, operated, advised or introduced by the registrant and all
+other activities of its partners, officers, employees and agents relating to its business as a
+Commission registrant.
+
+63. | EFT and Moore were each registered with the Commission during the Relevant
+Period. During the relevant period, Moore had supervisory duties at EFT as a registered AP and
+a Branch Office Manager of EFTâs main office. EFT and Moore violated Regulation 166.3, 17
+C.F.R. Â§ 166.3 (2015), in that they, among other things, did not diligently supervise the handling
+of commodity interest accounts and all other activities of EFTâs partners, officers, employees
+and agents. EFT and Moore failed to design, implement, maintain, and enforce an adequate
+program of supervision to meet its regulatory obligations and these supervision failures
+contributed to its recordkeeping violations of the Act and Regulations.
+
+64. Each failure to supervise, including but not limited to those specifically alleged
+herein, is alleged as a separate and distinct violation of Regulation 166.3, 17 C.F.R. Â§ 166.3
+
+(2015).
+
+23
+Case 1:16-cv-07544 Document1 Filed 09/27/16 Page 24 of 26
+
+VI. RELIEF REQUESTED
+
+WHEREFORE, for the reasons stated above, the Commission respectfully requests that
+this Court, as authorized by Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), and pursuant to its
+own equitable powers:
+
+A. Find that Moore and EFT violated Section 4g(a) of the Act, 7 U.S.C. Â§ 6g(a)
+(2012) and Regulations 1.31(a)(1) and (2), 17 C.F.R. Â§ 1.31 (a)(1) and (2) (2013), and
+Regulations 1.35(a)(1) and (3), 17 C.F.R. Â§ 1.35(a)(1) and (3) (2013) (including all predecessor
+Regulations applicable during the Relevant Period as alleged above in Count Two), and
+Regulation 1.35, 17 C.F.R. Â§ 1.35 (2013) (including all predecessor Regulations applicable
+during the Relevant Period as alleged above in Count Three).
+
+B. Find that Moore also violated 6(c)(2) of the Act, 7 U.S.C. Â§9(2) (2012);
+
+C. Enter orders of permanent injunction enjoining each Defendant and his/its
+affiliates, agents, servants, employees, successors, assigns, attorneys, and all persons in active
+concert or participation with the Defendants, who receive actual notice of such order by
+personal service or otherwise, from directly or indirectly violating Section 4g(a) 7 U.S.C. Â§
+6g(a) and Regulations 1.31(a), 1.35(a) and (b), 166.3, 17 C.F.R. Â§Â§ 1.31(a), 1.35(a) and (b), and
+166.3 (2016) and Moore from directly or indirectly violating Section 6(c)(2) of the Act, 7
+U.S.C. Â§ 9(2) (2012) .
+
+D. Enters orders of permanent injunction restraining and enjoining each Defendant
+and his/its affiliates, agents, servants, employees, successors, assigns, attorneys, and all persons
+in active concert with him/it from directly or indirectly:
+
+1) Trading on or subject to the rules of any registered entity (as that term is defined
+
+in Section 1a(40) of the Act, 7 U.S.C. Â§ 1a(40)(2012));
+
+24
+Case 1:16-cv-07544 Document1 Filed 09/27/16 Page 25 of 26
+
+2) Entering into any transactions involving commodity interests for his/its own
+personal account or for any account in which he/its has a direct or indirect
+interest;
+
+3) Having any commodity interest traded on his/its behalf;
+
+4) Controlling or directing the trading for or on behalf of any other person or entity,
+whether by power of attorney or otherwise, in any account involving commodity
+interests;
+
+5) Soliciting, receiving, or accepting any funds form any person for the purpose of
+purchasing or selling any commodity interests;
+
+6) Permanently revoking the registration of Defendants;
+
+7) Acting as a principal as that term is defined in Regulation 3.1(a), 17 C.F.R. Â§
+3.1(a) (2015), agent or any other officer or employee of any person (as that term
+is defined in Section 1a(38) of the Act, 7 U.S.C. Â§ 1a(38) (2012), registered,
+exempted from registration, or required to be registered with the Commission as
+except as provided for in Regulation 4.41(a)(9), 17 C.F.R. Â§ 4.41(a)(9) (2015);
+
+E. Enter an order directing each Defendant to pay a civil monetary penalty in
+
+the amount of the higher of $167,728 for each violation of the Act or Regulations committed or
+triple the monetary gain to each Defendant for each violation of the Act or Regulations
+described herein, plus post-judgment interest;
+
+F. Enter an order requiring Defendants to disgorge all benefits received from
+
+acts or practices that constitute violations of the Act and Regulations, including pre and post-
+judgment interest;
+
+G. Enter an order requiring Defendants to pay costs and fees as permitted by 28
+
+25
+Case 1:16-cv-07544 Document1 Filed 09/27/16 Page 26 of 26
+
+U.S.C. Â§Â§ 1920 and 2412(a)(2); and
+H. Order such other and further remedial ancillary relief as the Court may deem
+
+appropriate.
+
+Date: Respectfully submitted,
+
+U.S. COMMODITY FUTURES
+TRADING COMMISSION
+
+By:__\s\ Karin N. Roth
+Karin N. Roth
+
+Senior Trial Attorney
+kroth@cfic.gov
+
+Steven I. Ringer
+Chief Trial Attorney
+sringer@cftc.gov
+
+Manal M. Sultan
+Deputy Director
+msultan@cftc.gov
+
+Division of Enforcement
+140 Broadway, 19th Floor
+New York, New York 10005
+Phone: (646) 746-9700
+
+Fax: (646) 746-9940
+
+26

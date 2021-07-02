@@ -1,0 +1,352 @@
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA _
+
+ 
+
+UNITED STATES SECURITIES AN D
+
+EXCHANGE COMMISSION 7d Case: 4:4 0-cv-02093
+Washington, D.C, 20549-50308 . | ee cee : Helle Ellen S.
+* Plaintiff, Description: General Civil
+_VS.. COMPLAINT
+RAE SYSTEMS INC. . |
+Defendant.
+
+ 
+
+Plaintiff United States Securities and Exchange Commission (âCommissionâ)
+
+alleges:
+SUMMARY
+
+1. From 2004 through 2008, RAE Systems Inc. (ââRAEâ or the âCompanyâ)
+violated the Foreign Corrupt Practices Act of 1977 (the âFCPAâ) by paying, through two
+of its joint venture entities in China, approximately $400,000 to third party agents and
+government officials in China to influence acts or decisions by foreign officials to obtain
+or retain business for RAE. These payments were made primarily by the direct sales
+force utilized by RAE at its two Chinese joint-venture entities, named RAE-KLH
+(Beijing) Co., Limited (âRAE-KLHâ) and RAE Coal Mine Safety Instruments (Fushun)
+Co., Ltd. (âRAE-Fushunâ). | |
+
+2. RAEâs illicit payments to government officials and third-party agents
+generated revenues worth over $3 million and gross margin of $1,147,800. The
+Company had inadequate controls to prevent or detect any of these improper payments,
+and improperly recorded the payments in its books and records. |
+
+3, While the payments were made exclusively in China and were conducted
+
+by Chinese employees of RAE-KLH and RAE-Fushun, RAE was aware of significant
+indications of ongoing bribery at RAE-KLH.. At the time, RAE failed to effectively
+investigate these indications, or red flags, and to stop the bribery from continuing.
+RAEâs failure to act on these significant red flags allowed, at least in part, bribery to
+continue at RAE-KLH.
+
+4. RAE violated Section 30A [15 U.S.C. Â§78dd-1] of the Securities
+Exchange Act of 1934 (âExchange Actâ) by corruptly making, through its joint-venture
+entities, illicit payments to foreign government officials in order to obtain or retain
+business. RAE also violated Section 13(b)(2)(B) [15 U.S.C. Â§78m(b)(2)] of the
+Exchange Act by failing to have an adequate internal control system in place to detect
+and prevent the illicit payments, and violated Section 13(b)(2)(A) [15 U.S.C.
+
+Â§78(b)(2)(A)] of the Exchange Act by improperly recording the paymentsâin its books
+
+and records.
+JURISDICTION AND VENUE
+5. This Court has jurisdiction over this action pursuant to Exchange Act
+
+Sections 21(d), 21(e), and 27 [15 U.S.C. Â§Â§78u(d), 78u(e), and 78aa].
+
+6. In connection with the conduct described herein, RAE made use of the
+mails or the means or instrumentalities of interstate commerce.
+
+DEFENDANT
+
+7. RAE is a Delaware corporation headquartered in San Jose, CA. RAE
+develops and manufactures rapidly-deployable, multi-sensor chemical and radiation
+detection monitors and networks for the global market. RAE has significant operations in
+the Peopleâs Republic of China (âChinaâ), which are organized under RAE Asia,
+headquartered in Hong Kong. RAEâs common stock is registered with the Commission
+pursuant to Section 12(b) of the Exchange Act and is listed on the NYSE Alternext US
+
+Exchange.
+OTHER ENTITIES
+; 8. RAE-KLH is a joint venture headquartered in Beijing, China. In 2004,
+RAE acquired a 64% stake in KLH, which then became known as RAE-KLH. In June
+2006, RAE negotiated the purchase of an additional 32% stake in RAE-KLH, for a total
+
+ownership stake of approximately 96%. Today, RAE-KLH remains a joint venture, with
+
+- , its former sole owner, the Beijing Academy of Sciences, owning 4% of the stock.
+
+9. RAE-Fushun is a joint venture based in Fushun, Liaoning Province,
+China. In December 2006, RAE acquired a 70% interest in Fushun, and became known
+as RAE-Fushun. The.other 30% is owned by the Liaoning Coal Industry Group Co. Ltd.
+
+FACTS
+
+RAEâs Due Diligence of KLH Uncovers Existing Bribery Practices
+
+10. In 2004, RAE began evaluating possible acquisition or business
+combinations in China and entered into negotiations with KLH. RAEâs due diligence
+uncovered the following facts:
+
+a. KLHâs primary clients were large state-owned enterprises and government
+departments. :
+
+b. KLH sales personnel historically financed their sales activities and sales-
+related travel throughout mainland China using cash advances and
+reimbursements.
+
+c. KLH sales personnel often obtained cash advances from KLHâs
+Accounting Department and used such cash advances to bribe government
+officials in order to obtain or retain business.
+
+11. RAE also learned through its due diligence that KLH sales personnel were
+required to submit a business expense claim form detailing how each cash advance was
+spent. In addition, in order to write off sales expenses for tax accounting purposes, KLH
+sales personnel were required to obtain government-issued tax.receipts, known as
+
+âfapiaoâ for all sales expenses.
+12. KLH sales personnel, however, often failed to list the true items on which
+they spent their cash advances. In fact, when fapiao were unavailable or insufficient to
+cover the expenses incurred, KLH sales personnel often submitted substitute fapiaoâthat
+is, fapiao that were genuine but that were not issued for the specific expense incurred. As
+a result, the records of cash advances and reimbursements at RAE-KLH often lacked
+adequate support for the purported business purpose.
+
+13.. Upon receiving submission of the fapiao, KLHâs Accounting Department
+debited the expense into, depending on the nature of the fapiao, items such as travel,
+entertainment, or meals, and credited accounts receivable. KLHâs Accounting
+Department knew that KLH sales personnel were submitting inaccurate fapiao, but were
+comfortable with receiving any type of fapiao, as this allowed the Accounting
+Department to make certain income statement deductions.
+
+RAE Instructs KLH Personnel to Stop Bribery Practices
+
+14. During a June 2004 board meeting, RAE instructed RAE-KLH personnel
+that its business practices (i) shall-follow the norms of major multi-national companies
+doing business in China by utilizing finderâs fees, commissions, consulting fees, etc.; and
+(ii) this shall be properly communicated to the organization and put into practice as soon
+as practical, but no later than October 1, 2004. RAE also communicated orally to RAE-
+KLH officers that bribery practices must stop.
+
+15. While RAE communicated these instructions to RAE-KLH personnel,
+RAE did not impose sufficient internal controls or make any changes to the practice of
+sales personnel obtaining cash advances. RAE did not, for example, change the fact that
+
+inaccurate fapiao was often submitted to justify cash advances.
+
+RAEâs CFO Visits RAE-KLH and Observes Evidence of Possible Continuing
+Bribery
+
+16. In May 2005, RAEâs then Vice President and Chief Financial Officer
+visited RAEâs Chinese facilities, including RAE-KLH. RAEâs CFO observed that, from
+late 2004 through May 2005, RAE-KLH had approximately $500,000 in cash advances
+for which it had not yet received any fapiao.
+
+17. Given this observation, RAEâs CFO, e-mailed a report sent to RAE
+headquarters in the United States, writing, â[t]here is the possibility that cash may also be
+used for grease payments, to supplement sales employeesâ incomes and as bribes . . .â
+The CFO explained that the suggestion of some abuse is derived from, among other
+things, the âaging balance of un-receipted advances... .â
+
+RAE Implements FCPA Compliance Training at RAE-KLH *
+
+18. Inresponse to the CFO report, in early June 2005, the Company
+implemented FCPA compliance training and required each RAE-KLH employee to
+certify that he or she did not engage in bribery practices. ~
+
+19. Again, however, the Company did not impose sufficient internal controls
+or make changes to the practice of sales personnel obtaining cash advances.
+
+Bribery at RAE-KLH Continues Despite Compliance Training
+
+20. Despite the. measures taken above, bribery persisted at RAE-KLH. In
+particular, because the Company had not implemented any changes or controls to the
+cash advance system, RAE-KLH sales personnel could, and often did, obtain cash
+advances to bribe foreign officials in order to obtain or retain business.
+
+21. In 2006, RAE-KLH booked additional sales revenue, as a result of gifts,
+entertainment, and other payments provided to government officials, resulting in
+$153,717 in total gross margin that would not otherwise have accrued to RAE during this
+period.
+
+22. As was the case prior to RAEâs acquisition of KLH, the expenses
+associated with these cash advances were improperly recorded on the books of RAE-
+KLH as âbusiness feesâ or âtravel and entertainmentâ (T&E) expenses. They appear to
+
+have been classified for U.S. GAAP purposes as T&E expenses.
+23. In January 2006, RAE-KLH entered into a consultancy agreement with a
+Chinese third-party agent, purportedly for technical services rendered in connection with
+a single government-affiliated oil project contract. RAE-KLH paid the third-party agent
+RMB 688,000 (approximately $86,195) pursuant to this contract.
+
+24. The third-party agent, however, did not use these funds for technical
+services. Rather, the third-party agent, on RAE-KLHâs behalf, made improper payments
+to one or more employees of a state-owned enterprise affiliated with the Dagang Oil
+Field. As a result of these payments, RAE-KLH won an RMB 5,000,000 contract from
+the Dagang Oil Field, which resulted in gross margin of $208,914 that would otherwise
+have not accrued to the Company.
+
+RAE Becomes Aware of Possible Continuing Bribery at RAE-KLH
+
+25. In August 2006, the recently terminated General Manager at RAE-KLH
+sent an e-mail message to RAE headquarters in the United States with a new allegation
+concerning ongoing bribery practices occurring at RAE-KLH. In particular, the former
+General Manager alleged that RAE-KLH had entered into an RMB 380,000.
+(approximately $48,000) money laundering contract for the purpose of masking
+kickbacks that had been paid to RAE-KLH clients.
+
+26. In particular, the former General Manager emailed, â[w]e used this
+contract to pay 380,000 RMB and then get back 355,000 RMB; the balance of the 25,000
+RMB was used to purchase invoices at the value of 380,000 RMB.. . . these invoices
+were purchased to offset the personal borrowings of more than 6 million RMB on the
+account of the company. Those personal borrowings of more than 6 million RMB were
+actually kickbacks paid to our clients.â The former General Manager added that, âthis
+problem needed to be solved as soon as possible; otherwise, it would give the company
+trouble for falsified increase of profits, commercial bribery, and the like.â
+
+27. | The Company responded to the specific allegation concerning the alleged
+
+money-laundering contract. The money provided by RAE-KLH under this contract was
+returned to it. RAE, however, failed to perform an Internal Audit or other investigation
+into the general allegation that bribery was continuing.
+
+28. Moreover, notwithstanding these allegations, the Company again did not
+impose any internal controls or make significant changes to the practice of sales
+
+personnel obtaining cash advances.
+
+RAE Acquires Fushun and Bribery Continues at RAE-KLH and RAE-
+Fushun
+
+29. In December 2006, RAE acquired its 70% interest in Fushun Anyi, and
+became known as RAE-Fushun. Fushun Anyiâs clients, like RAE-KLHâs clients, were
+largely state-owned enterprises or government departments.
+
+30. Like RAE-KLH, RAE-Fushun sales personnel financed their sales
+activities and sales-related travel throughout mainland China using cash advances and
+reimbursements. The expenses associated with these cash advances were improperly
+recorded on the books of RAE-Fushun as âbusiness feesâ or âtravel and entertainmentâ
+(T&E) expenses. They appear to have been classified for U.S. GAAP purposes as TRE
+expenses.
+
+31. Tn 2007, bribery occurred at both RAE-KLH and RAE-Fushun. First,
+during 2007, RAE-KLH sales personnel continued to use cash advances to bribe
+government officials. In one such instance, RAE-KLH sales personnel purchased a
+notebook computer for the Deputy Director of a state-owned chemical plant.
+
+32. Second, in 2007, RAE-KLH entered into an RMB 2,000,000 contract with
+the same third-party agent it used in connection with its contract relating to the Dagang
+Oil Field. The third-party agent agreed to, among other things, (i) provide RAE-KLH
+with market research and consultation services related to the business development of
+RAE-KLH in mainland China and (ii) maintain and develop sound relationships with
+
+authoritative government agencies in mainland China.
+33. Some of the money paid for the third party agentâs alleged consulting
+services was improperly used; directly or indirectly, to help RAE-KLH obtain or retain
+business from customers, including large state-owned enterprises or government
+departments.
+
+34. Ultimately, the third-party agentâs efforts in 2007 resulted in RAE-KLH
+obtaining two contracts with government clients. RAE-KLH booked approximately
+$640,000 in gross margin that would not have otherwise accrued to RAE-KLH without
+the third-party agentâs efforts. ,
+
+35. RAE-Fushun personnel also engaged in continued bribery practices in
+2007. For example, RAE-Fushun personnel provided a variety of luxury items to
+government officials to obtain or retain business, such as jade, fur coats, kitchen
+appliances, suits, and high-priced liquor.
+
+36. During 2007 and a portion of 2008, RAE-Fushun, as a result of gifts,
+entertainment, and other payments provided to government officials, booked additional
+sales revenue resulting in $142,048 in total gross margin that would not otherwise have
+accrued to RAE during this period.
+
+CLAIMS FOR RELIEF
+
+FIRST CLAIM
+Violations of Section 30A of the Exchange Act
+
+37. Paragraphs 1 through 36 are re-alleged and incorporated by reference.
+
+38. As described above, RAE made use of the mails or any means of interstate
+commerce corruptly in furtherance of an offÃ©r, payment, promise to pay, or authorization of
+the payment of any money, or offer, gift, promise to give, or authorization of the giving of
+anything of value to foreign officials for the purposes of influencing their acts or decisions
+in their official capacity, inducing them to do or omit to do actions in violation of their
+
+official duties, securing an improper advantage, or inducing such foreign officials to use
+their influence with a foreign.government or an instrumentality thereof to assist RAE in
+obtaining or retaining business.
+
+39. By reason of the foregoing, RAE violated, and unless enjoined will continue
+to violate, Section 30A of the Exchange Act [15 U.S.C. Â§78dd-1].
+
+SECOND CLAIM
+Violations of Section 13(b)(2)(A) of the Exchange Act
+
+40. Paragraphs 1 through 36 are re-alleged and incorporated by reference.
+
+41. As described above, RAE through its officers, agents, and certain of its
+foreign joint ventures, failed to make and keep books, records, and accounts, which, in
+reasonable detail, accurately and fairly reflected its transactions and dispositions of its
+assets.
+
+42. By reason of the foregoing, RAE violated-Section 13(b)(2)(A) of the
+Exchange Act [15 U.S.C. Â§78m(b)(2)(A)]-
+
+THIRD CLAIM
+Violations of Section 13(b)(2)(B) of the Exchange Act
+
+43. Paragraphs 1 through 36 are re-alleged and incorporated by reference.
+
+44. As described above, RAE and certain of its foreign joint ventures failed to
+devise and maintain a system of internal accounting controls sufficient to provide
+reasonable assurances that: (i) payments were made in accordance with managementâs
+general or specific authorization; and (ii) payments were recorded as ânecessary to permit
+preparation of financial statements in conformity with generally accepted accounting
+principles or any other criteria applicable to such statements, and to maintain accountability
+for its assets.
+
+45. By reason of the foregoing, RAE violated Section 13(b)(2)(B) of the
+Exchange Act [15 U.S.C. Â§78m(b)(2)(B)].
+PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court enter a
+
+judgment:
+
+A. Permanently enjoining RAE from violating Sections 30A, 13(b)(2)(A), and
+13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§78dd-1; Â§78m(b)(2)(A) and
+Â§78m(b)(2)(A)(B));
+
+B. Ordering RAE to disgorge ill-gotten gains, with prejudgment interest,
+wrongfully obtained as a result of its illegal conduct;
+
+C. Ordering RAE to comply with certain undertakings concerning its Foreign
+Corrupt Practices Act compliance program; and
+
+D. Granting such further relief as this Court may deem just and appropriate.
+
+Dated: Jecebev 10, 22l?
+
+Respectfully submitted,
+
+ee Jip hâ_
+Charles J. Felker .
+Cheryl Scarboro
+
+Ricky Sachar
+
+Securities and Exchange Commission
+100 F Street, N.E.
+
+Washington, D.C. 20549-5030B
+Telephone: (202) 551-4960 (Felker)
+Facsimile: (202) 772-9235
+felkerc@sec.gov
+
+Attorneys for Plaintiff
+
+10

@@ -1,0 +1,535 @@
+UNITED STATES OF AMERICA
+Before the (â RECEIVED CFTC >
+
+ 
+
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+     
+
+ 
+
+ 
+
+ 
+
+Respondent.
+
+) Nee /:
+In the Matter of: ) Oe
+) Office of Proceedings
+GLENN OLSON ) Proceedings Clerk
+9
+CFTC Docket No. 21- 05 \ 12:38 pm, Apr 06, 2021}
+)
+)
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+from in or about April 2014 through March 2018 (âRelevant Periodâ), Respondent Glenn Olson
+(âRespondentâ) violated Sections 2(e), 4c(b), 4d(a)(1) and 6(c)(1) of the Commodity Exchange
+Act (âActâ), 7 U.S.C. Â§Â§ 2(e), 6c(b), 6d(a)(1), 9(1) (2018), and Regulations 32.2, 32.4 and
+180.1(a) of the Commission Regulations (âRegulationsâ) promulgated thereunder, 17 C.F.R.
+
+Â§Â§ 32.2, 32.4, 180.1(a) (2020). Therefore, the Commission deems it appropriate and in the
+public interest that public administrative proceedings be, and hereby are, instituted to determine
+whether Respondent engaged in the violations set forth herein and to determine whether any
+order should be issued imposing remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Respondent consents to the entry of this Order Instituting Proceedings Pursuant to Section 6(c)
+and (d) of the Commodity Exchange Act, Making Findings, and Imposing Remedial Sanctions
+(âOrderââ), and acknowledges service of this Order. !
+
+ 
+
+' Respondent agrees that the findings of fact and conclusions of law in this Order shall be taken as true and correct
+and be given preclusive effect without further proof in this proceeding and any other proceeding brought by the
+Commission or to which the Commission is a party or claimant, including but not limited to, a proceeding in
+bankruptcy or receivership.
+II. FINDINGS
+Respondent admits, and the Commission finds, the following:
+A. SUMMARY
+
+On October 23, 2019, the U.S. District Court for the Eastern District of New York found
+that during the Relevant Period several related persons and entities operating as a common
+enterprise (âBlue Bit Enterpriseâ) engaged in a fraudulent scheme involving binary options
+trading and a succeeding virtual currency scam that resulted in U.S. customers losing the
+ageregate sum of $846,405.58. CFTC v. Kantor, No. 18-cv-2247-SJF-ARL, 2019 WL 6796680
+(E.D.N.Y. Oct. 23, 2019), ECF No. 49 (default order). The court found that the Blue Bit
+Enterprise had fraudulently solicited their customers to open and trade binary options accounts
+on an illegal off-exchange binary options trading platform at www.bluebitbanc.com. As part of
+the scheme, the Blue Bit Enterprise misrepresented the profitability of trading through Blue Bit,
+manipulated or fabricated purported trades in their customersâ accounts to the customersâ
+disadvantage, prevented customers from withdrawing funds, and misappropriated customer
+funds. Olson acted as part of the Blue Bit Enterprise and knowingly made false statements,
+omitted statements of material fact, and took other actions to defraud customers, while receiving
+disbursements from the Blue Bit Enterprise totaling $241,070.30.
+
+B. RESPONDENT
+
+Glenn Olson is a natural person residing in Brooklyn, New York. During the Relevant
+Period, Olson was employed by Blue Bit Banc, and functioned as part of the Blue Bit Enterprise.
+In addition, Olson was president and legal agent of G. Thomas Client Services Ltd., a New York
+corporation incorporated on July 28, 2015, which also was part of the Blue Bit Enterprise.
+Neither Olson, G. Thomas, nor any other member of the Blue Bit Enterprise has ever been
+registered with the Commission in any capacity.
+
+C. FACTS
+
+In 2014, Olson affiliated with a United Kingdom company called Blue Bit Banc (âBlue
+Bitâ) that had launched a website at www.bluebitbanc.com to introduce U.S. retail customers to
+the Blue Bit binary options trading platform. In connection with his work at Blue Bit Banc,
+Olson sold binary options to customers, processed credit card transactions and supervised
+employees. Olson used the aliases âGreg Tolanâ or âG. Thomasâ to conduct Blue Bit Enterprise
+business.
+
+A binary option is a type of options contract in which the payout depends entirely on the
+outcome of a yes/no proposition based upon particular outcomes in the markets for securities,
+
+ 
+
+* The Blue Bit Enterprise included two individuals, Blake Harrison Kantor and Nathan Mullins, and four entities,
+Blue Bit Banc, Blue Bit Analytics, Ltd., G. Thomas Client Services Ltd. (âG. Thomasâ), and Mercury Cove, Inc. In
+a related criminal case in the U.S. District Court for the Eastern District of New York, Kantor pleaded guilty to
+conspiracy to commit wire fraud and admitted to obstructing an investigation into his fraudulent scheme. Kantor
+was sentenced to 86 months of incarceration. See Judgment in a Criminal Case, United States v. Kantor, No. 18 CR
+177 (E.D.N.Y. Aug. 1, 2019), ECF No. 58.
+currencies or other assets or propositions. Binary options are different than ordinary options in
+that they are cash-settled, thereby giving the options holder a pre-determined amount of money if
+the customer has made a correct prediction or the customer loses the premium if he or she has
+made an incorrect prediction. Binary options are required to be traded on a registered board of
+trade. During the Relevant Period, and currently, only three designated contract markets were
+and are authorized to offer binary options that are commodity options to retail customers in the
+U.S.: Cantor Exchange LP, Chicago Mercantile Exchange, Inc. and the North American
+Derivatives Exchange, Inc. All other entities offering binary options in the U.S. or to U.S.
+customers, such as the Blue Bit Enterprise, are doing so illegally.
+
+Olson, the Blue Bit Enterprise, and Blue Bit retail customers were not eligible contract
+participants (âECPsâ) as defined in Section 1a(18)(A)(x1) of the Act, 7 U.S.C. Â§ 1a(18)(A)(x1)
+(2018). Nonetheless, Olson and others in the Blue Bit Enterprise solicited customers in and
+outside of New York, through phone calls and emails and through the bluebitbanc.com website,
+to open self-traded and managed binary options accounts with Blue Bit. He and others in the
+Blue Bit Enterprise falsely claimed that the binary options transactions on the Blue Bit platform
+would be based upon the actual prices of securities, currencies, and other assets at particular
+points in time, and would generate predetermined profits. Olson intentionally made these
+misrepresentations and took other actions to defraud customers during the course of his
+involvement with the Blue Bit Enterprise.
+
+After convincing prospective customers to open Blue Bit trading accounts, Olson and
+others acting on behalf of the Blue Bit Enterprise would instruct them how to fund their new
+accounts, typically advising customers to send their funds by wire or credit card to a specified
+overseas bank account. In turn, a portion of those funds were funneled into a bank account
+opened in the name of G. Thomas, a U.S. company incorporated by Olson, and used to pay Blue
+Bit Enterprise business expenses, including salaries and commissions to Blue Bit sales staff, and
+personal expenses of Olson and others.
+
+Once customers opened Blue Bit accounts, Olson and other individuals acting on behalf
+of the Blue Bit Enterprise either made purported binary options trades for the customers on a
+discretionary basis or else instructed the customers on how to enter orders through the Blue Bit
+online order-entry platform on the Blue Bit website. Olson knew, but did not disclose, that the
+Blue Bit Enterprise then manipulated data associated with customer trades to the customersâ
+disadvantage, creating trading losses for the customers.
+
+The Blue Bit Enterprise and Olson, who were not ECPs, entered off-exchange swaps
+transactions with retail customers.
+
+The Blue Bit Enterprise also misrepresented to customers that they could withdraw their
+fund balances at any time after their Blue Bit trading accounts had reached a specified volume of
+activity. In fact, the Blue Bit Enterprise frequently imposed undisclosed requirements to prevent
+or discourage customers from withdrawing their funds.
+
+In or around October 2017, the Blue Bit Enterprise began encouraging customers to
+transfer their Blue Bit account balances to new company called Bitsblockchain, which purported
+to offer customers the opportunity to purchase its new virtual currency called âATMC,â or
+âATM Coinâ or âAsset Trading Market Coin.â ATMC purported to be a cryptocurrency
+utilizing open-source blockchain technology with no government authority controlling it.
+Bitsblockchain offered ATMC for sale to retail customers via its website, which was linked to
+the Blue Bit website. However, as with their former binary options balances, Blue Bit customers
+were unable to withdraw account balances that purportedly had been transferred into ATMC
+accounts at Bitsblockchain.
+
+At least twenty-seven U.S. customers of the Blue Bit Enterprise who deposited funds to
+trade binary options with Blue Bit lost the aggregate sum of $846,405.58. Olson received
+disbursements from the Blue Bit Enterprise totaling $241,070.30 in the form of checks or
+transfers to his personal bank account during the Relevant Period.
+
+HI. LEGAL DISCUSSION
+A. Illegal Off-Exchange Retail Swaps in Violation of Section 2(e) of the Act
+
+An ECP is defined in Section 11a(18)(A)(x1) of the Act, 7 U.S.C. Â§ 1a(18)(A0(x1) (2018),
+in relevant part, as an individual who has amounts invested on a discretionary basis, the
+ageregate of which exceeds $10 million, or $5 million if the individual enters into the transaction
+to manage the risk associated with an asset or liability incurred, or reasonably likely to be owned
+or incurred, by the individual.
+
+Section 1a(47)(A) of the Act, 7 U.S.C. Â§ 1a(47)(A) (2018), defines âswapâ to include,
+among other things, any agreement, contract, or transaction that: (a) is an option of any kind;
+(b) provides for payment dependent on the occurrence, nonoccurrence, or the extent of the
+occurrence of an event or contingency; or (c) provides on an executory basis for payments based
+on the value or level of one or more interest or other rates, currencies, commodities, securities,
+instruments of indebtedness, indices, quantitative measures, or other financial or economic
+interests or property of any kind, without also conveying an ownership interest in any asset or
+liability.
+
+Section 2(e) of the Act, 7 U.S.C. Â§ 2(e) (2018), makes it unlawful for any person who is
+not an ECP-1.Â¢., any person who is a retail customerâto enter into a swap unless the swap is
+entered into on or subject to the rules of, a board of trade designated as a contract market under
+section 5 (hereafter referred to as âregistered exchangeâ).
+
+The binary options offered by the Blue Bit Enterprise constituted swaps transactions.
+During the Relevant Period, Olson on behalf of the Blue Bit Enterprise, which was a non-ECP,
+entered into swaps transactions, and the swaps transactions entered into were not executed on
+any registered exchange or exempt foreign exchange.
+
+By entering into off-exchange swaps transactions as a non-ECP, the Blue Bit Enterprise
+violated Section 2(e) of the Act. Olson had knowledge of the wrongdoing underlying the
+violation and intentionally assisted the Blue Bit Enterprise in entering illegal swaps; thus, Olson
+aided and abetted the violation of Section 2(e) of the Act, and is liable for the violation pursuant
+to Section 13(a) of the Act, 7 U.S.C. Â§ 13c(a) (2018), which provides, in relevant part, that
+
+4
+â[a|ny person who commits, or who willfully aids, abets, counsels, commands, induces, or
+procures the commission of, a violation of [the Act or Regulations], or who acts in combination
+or concert with any other person in any such violation . .. may be held responsible for such
+violation as a principal.â
+
+B. Illegal Off-Exchange Commodity Options in Violation of Section 4c(b) of the Act
+and Regulation 32.2
+
+Congress gave the Commission jurisdiction and plenary rulemaking authority over all
+commodity option transactions through Section 4c(b) of the Act, 7 U.S.C. Â§ 6c(b) (2018).
+Section 4c(b) of the Act and Commission Regulation 32.2, 17 C.F.R. Â§ 32.2 (2020), ban off-
+exchange trading of commodity option contracts and, specifically, makes it unlawful for any
+person to offer to enter into, enter into, or confirm the execution of, any transaction involving
+any commodity regulated under the Act which is of the character of, or is commonly known as,
+inter alia, an âoption,â âbid,â âoffer,â âput,â or âcall,â contrary to any rule, regulation, or order of
+the Commission prohibiting any such transaction or allowing any such transaction under such
+terms and conditions as the Commission shall prescribe.
+
+Regulation 32.2 makes it unlawful for any person to offer to enter into, enter into,
+confirm the execution of, maintain a position in, or otherwise conduct activity related to any
+transaction in interstate commerce that is a commodity option transaction, unless: (a) such
+transaction is conducted in compliance with and subject to the provisions of the Act, including
+any Commission rule, regulation, or order thereunder, otherwise applicable to any other swap, or
+(b) is a trade option conducted pursuant to Regulation 32.3, 17 C.F.R. Â§ 32.3 (2020)âwhich
+these were not.
+
+The binary options transactions offered by the Blue Bit Enterprise also constituted
+commodity options transactions. Olson and the Blue Bit Enterprise offered to enter into, entered
+into, confirmed the execution of, maintained a position in, or otherwise conducted activity
+related to commodity options, other than on a registered exchange and without seeking
+registration as an exempt foreign exchange, and thereby violated Section 4c(b) of the Act and
+Regulation 32.2.
+
+OF Unregistered FCM Activities in Violation of Section 4d(a)(1) of the Act
+
+Section 1a(28) of the Act, 7 U.S.C. Â§ 1la(28) (2018), defines, in part, a futures
+commission merchant (âFCMâ) as an individual, association, partnership, corporation, or trust
+that is engaged in soliciting and accepting orders for commodity options or swaps. Section
+4d(a)(1) of the Act, 7 U.S.C. Â§ 6d(a)(1) (2018), makes it unlawful for any person to act as an
+FCM unless such person is registered with the Commission.
+
+Olson and other members of the Blue Bit Enterprise, including G. Thomas, who have
+never been registered in any capacity with the Commission, solicited or accepted orders for
+commodity options or swaps, and accepted money to margin, guarantee, or secure trades or
+contracts resulting from those commodity options or swaps without registration as an FCM. The
+Blue Bit Enterprise thereby violated Section 4d(a)(1) of the Act. Olson had knowledge of the
+wrongdoing underlying the violation and intentionally assisted the Blue Bit Enterprise in acting
+
+5
+as an FCM; thus, Olson aided and abetted the violations by Blue Bit Enterprise, and is liable for
+the violations pursuant to Section 13(a) of the Act.
+
+D. Commodity Options Fraud in Violation of Section 4c(b) of the Act and Regulation
+32.4
+
+Regulation 32.4, 17 C.F.R. Â§ 32.4 (2020), promulgated under Section 4c(b) of the Act,
+provides that:
+
+In or in connection with an offer to enter into, the entry into, or the confirmation
+of the execution of, any commodity option transaction, it shall be unlawful for
+any person, directly or indirectly:
+
+(a) To cheat or defraud or attempt to cheat or defraud any other person;
+
+(b) To make or cause to be made to any other person any false report or
+statement thereof or cause to be entered for any person any false record
+thereof; or
+
+(c) To deceive or attempt to deceive any other person by any means
+whatsoever.
+
+Olson and the Blue Bit Enterprise, in or in connection with an offer to enter into, the
+entry into, or the confirmation of the execution of, any commodity option transaction, directly
+and indirectly: (a) cheated or defrauded, and attempted to cheat and defraud, customers and
+prospective customers; (b) made or caused to be made to customers and prospective customers
+false reports or statements; and (c) deceived or attempted to deceive customers and prospective
+customers, in violation of Section 4c(b) of the Act and Regulation 32.4.
+
+E. Manipulative & Deceptive Devices in Connection with Swaps in Violation of
+Section 6(c)(1) of the Act and Regulation 180.1(a)
+
+Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) (2018), makes it âunlawful for any person,
+directly or indirectly, to use or employ, or attempt to use or employ, in connection with any
+swap, ... any manipulative or deceptive device or contrivance, in contravention of such rules
+and regulations as the Commission shall promulgate. . .â
+
+Regulation 180.1(a), 17 C.F.R. Â§ 180.1(a) (2020), in turn, specifically provides that âit
+shall be unlawful for any person, directly or indirectly, in connection with any swap, .. . on or
+subject to the rules of any registered entity, to intentionally or recklessly: (1) Use or employ, or
+attempt to use or employ, any manipulative device, scheme, or artifice to defraud; (2) Make, or
+attempt to make, any untrue or misleading statement of a material fact or to omit to state a
+material fact necessary in order to make the statements made not untrue or misleading; or
+(3) Engage, or attempt to engage, in any act, practice, or course of business, which operates or
+would operate as a fraud or deceit upon any person...â
+Olson, intentionally or recklessly, directly and indirectly, in connection with swaps:
+(a) used or employed, or attempted to use or employ, manipulative devices, schemes, and
+artifices to defraud; (b) made, or attempted to make, untrue or misleading statements of material
+facts; (c) omitted to state material facts necessary in order to make statements made not untrue or
+misleading; and (d) engaged, or attempted to engage, in acts, practices, and courses of business,
+which operated or would operate as a fraud or deceit upon customers or prospective customers,
+in violation of Section 6(c)(1) of the Act, and Regulation 180.1(a).
+
+F. Olson is Liable as a Control Person for the Violations of G. Thomas and the Blue Bit
+Enterprise
+
+Olson controlled G. Thomas and the Blue Bit Enterprise, and had actual knowledge of the
+underlying violations of G. Thomas and the Blue Bit Enterprise by virtue of his direct
+participation in the underlying acts. In addition, while acting as a controlling person of G.
+Thomas and the Blue Bit Enterprise, Olson did not act in good faith or knowingly induced,
+directly or indirectly, G. Thomasâs and the Blue Bit Enterpriseâs acts constituting the violations
+of the Act and Regulations. Therefore, pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b)
+(2018), Olson is liable for G. Thomasâs and Blue Bitâs violations of Sections 2(e), 4c(b), 4d(a)(1)
+and 6(c)(1) of the Act, and Regulations 32.2, 32.4 and 180.1(a).
+
+IV. FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that, during the Relevant Period,
+Respondent violated Sections 2(e), 4c(b), 4d(a)(1) and 6(c)(1) of the Act, 7 U.S.C. Â§Â§ 2(e), 6c(b),
+6d(a)(1), 9(1) (2018), and Regulations 32.2, 32.4 and 180.1(a), 17 C.F.R. Â§Â§ 32.2, 32.4, 180.1(a)
+(2020).
+
+V. OFFER OF SETTLEMENT
+Respondent has submitted the Offer in which he:
+A. Acknowledges service of this Order;
+
+Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C. Waives:
+1. The filing and service of a complaint and notice of hearing;
+2. A hearing;
+
+3. All post-hearing procedures;
+
+4. Judicial review by any court;
+Any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+Any and all claims that he may possess under the Equal Access to Justice Act,
+
+5 U.S.C. Â§ 504 (2018), and 28 U.S.C. Â§ 2412 (2018), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations, 17 C.F.R.
+pt. 148 (2020), relating to, or arising from, this proceeding;
+
+Any and all claims that he may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. II, Â§Â§ 201-253, 110
+Stat. 847, 857-74 (codified as amended at 28 U.S.C. Â§ 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order;
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer;
+
+Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+I.
+
+Makes findings by the Commission that Respondent violated Sections 2(e), 4c(b),
+4d(a)(1) and 6(c)(1) of the Act, 7 U.S.C. Â§Â§ 2(e), 6c(b), 6d(a)(1), 9(1) (2018), and
+Regulations 32.2, 32.4 and 180.1(a), 17 C.F.R. Â§Â§ 32.2, 32.4, 180.1(a) (2020);
+
+Orders Respondent to cease and desist from violating Sections 2(e), 4c(b), 4d(a)(1)
+and 6(c)(1) of the Act and Regulations 32.2, 32.4 and 180.1(a);
+
+Orders Respondent to pay, jointly and severally with the defendants against whom
+a judgment has been entered in CFTC v. Kantor, No. 2:18-cv-02247 (E.D.N.Y.
+Oct. 23, 2019), ECF No. 49, restitution in the amount of eight-hundred forty-six
+thousand, four hundred and five dollars and fifty-eight cents ($846,405.58), plus
+post-judgment interest (âRestitution Obligationâ);
+
+Orders that Respondent be permanently prohibited from, directly or indirectly,
+engaging in trading on or subject to the rules of any registered entity (as that term
+is defined in Section 1a(40) of the Act, 7 U.S.C. Â§ la(40) (2018)), and all
+registered entities shall refuse him trading privileges; and
+
+Orders Respondent to comply with the conditions and undertakings consented to in
+the Offer and as set forth in Part VI of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent shall cease and desist from violating Sections 2(e), 4c(b), 4d(a)(1) and
+6(c)(1) of the Act, 7 U.S.C. 8Â§ 2(e), 6c(b), 6d(a)(1), 9(1) (2018), and Regulations 32.2,
+32.4 and 180.1(a), 17 C.F.R. Â§Â§ 32.2, 32.4, 180.1(a) (2020).
+
+Respondent shall pay, jointly and severally with the defendants against whom a judgment
+has been entered in CFTC v. Kantor, No. 2:18-cv-02247 (E.D.N.Y. Oct. 23, 2019), ECF
+No. 49, restitution in the amount of eight-hundred forty-six thousand, four hundred and
+five dollars and fifty-eight cents ($846,405.58) (âRestitution Obligationâ) in a manner
+consistent with the judgment entered in CFTC v. Kantor. If the Restitution Obligation is
+not paid immediately, post-judgment interest shall accrue on the Restitution Obligation
+beginning on the date of entry of this Order and shall be determined by using the
+Treasury Bill rate prevailing on the date of entry of this Order pursuant to 28 U.S.C.
+
+Â§ 1961 (2012). For amounts disbursed to Respondentâs customers as a result of
+satisfaction of the restitution paid by any other person or entity, the Respondent shall
+receive a dollar-for-dollar credit against the Restitution Obligation. Within ten days of
+disbursement to Respondentâs customers, Respondent shall, under a cover letter that
+identifies the name and docket number of this proceeding, transmit to the Chief Financial
+Officer, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21*
+Street, NW, Washington, D.C. 20581, copies of the form of payment to those customers.
+
+Respondent is permanently prohibited from, directly or indirectly, engaging in trading on
+or subject to the rules of any registered entity (as that term is defined in Section 1a(40) of
+the Act, 7 U.S.C. Â§ 1a(40) (2018)), and all registered entities shall refuse him trading
+privileges; and
+
+Respondent shall comply with the following conditions and undertakings set forth in the
+Offer:
+
+1. Public Statements: Respondent agrees that neither he nor any agents or
+employees under his authority or control shall take any action or make any public
+statement denying, directly or indirectly, any findings or conclusions in this Order
+or creating, or tending to create, the impression that this Order is without a factual
+basis; provided, however, that nothing in this provision shall affect Respondentâs:
+(1) testimonial obligations; or (11) right to take legal positions in other proceedings
+to which the Commission is not a party. Respondent shall comply with this
+agreement, and shall undertake all steps necessary to ensure that all of his agents
+and/or employees under his authority or control understand and comply with this
+agreement.
+
+2. Respondent agrees that he shall never, directly or indirectly:
+
+a. enter into any transactions involving commodity interestsâ (as that term is
+defined in Regulation 1.3, 17 C.F.R. Â§ 1.3 (2020), for Respondentâs own
+personal account or for any account in which Respondent has a direct or
+indirect interest;
+
+b. have any commodity interests traded on Respondentâs behalf;
+
+c. control or direct the trading for or on behalf of any other person or entity,
+whether by power of attorney or otherwise, in any account involving
+commodity interests;
+
+d. solicit, receive, or accept any funds from any person for the purpose of
+purchasing or selling any commodity interests;
+
+e. apply for registration or claim exemption from registration with the
+Commission in any capacity, and engage in any activity requiring such
+registration or exemption from registration with the Commission except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2020); and/or
+
+f. act as aprincipal (as that term is defined in Regulation 3.1(a), 17 C.F.R.
+Â§ 3.1(a) (2020)), agent or any other officer or employee of any person (as that
+term is defined in Section 1a(38) of the Act, 7 U.S.C. Â§ 1a(38) (2018)),
+registered, required to be registered, or exempted from registration with the
+Commission except as provided for in Regulation 4.14(a)(9).
+
+Disgorgement: Respondent agrees to pay disgorgement in the amount of two
+hundred and one thousand and seventy dollars and thirty cents ($241,070.30)
+(âDisgorgement Obligationâ), representing the gains received in connection with
+such violations. If the Disgorgement Obligation is not paid immediately, then
+post-judgment interest shall accrue on the Disgorgement Obligation beginning on
+the date of entry of this Order and shall be determined by using the Treasury Bill
+rate prevailing on the date of entry of this Order pursuant to 28 U.S.C. Â§ 1961
+(2018).
+
+Respondent shall pay the Disgorgement Obligation and any post-judgment
+interest by electronic funds transfer, U.S. postal money order, certified check,
+bank cashierâs check, or bank money order. If payment is to be made other than
+by electronic funds transfer, then the payment shall be made payable to the
+Commodity Futures Trading Commission and sent to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+9-AMC-AR-CFTC@faa. gov
+
+ 
+
+10
+If payment is to be made by electronic funds transfer, Respondent shall contact
+Marie Thorne or her successor at the above address to receive payment
+instructions and shall fully comply with those instructions. Respondent shall
+accompany payment of the Disgorgement Obligation with a cover letter that
+identifies the paying Respondent and the name and docket number of this
+proceeding. Respondent shall simultaneously transmit copies of the cover letter
+and the form of payment to the Chief Financial Officer, Commodity Futures
+Trading Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington,
+D.C. 20581.
+
+Cooperation, in General: Respondent shall cooperate fully and expeditiously with
+the Commission, including the Commissionâs Division of Enforcement, in this
+action, and in any current or future Commission investigation or action related
+thereto. Respondent shall also cooperate in any investigation, civil litigation, or
+administrative matter related to, or arising from, this action
+
+Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission or the Monitor of any partial payment of Respondentâs
+Restitution Obligation or Disgorgement Obligation shall not be deemed a waiver
+of his obligation to make further payments pursuant to this Order, or a waiver of
+the Commissionâs right to seek to compel payment of any remaining balance.
+
+Change of Address/Phone: Until such time as Respondent satisfies in full his
+Restitution Obligation and Disgorgement Obligation, as set forth in this Order,
+Respondent shall provide written notice to the Commission by certified mail of
+any change to his telephone number and mailing address within ten calendar days
+of the change.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+Ftd We dtm
+
+ 
+
+Robert N. Sidman
+Deputy Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: April 6, 2021
+
+11

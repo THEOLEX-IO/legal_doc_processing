@@ -1,0 +1,413 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 74673 / April 8, 2015
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-16478
+
+ 
+
+ORDER INSTITUTING CEASE-AND-
+
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+SECTION 21C OF THE SECURITIES
+FLIR SYSTEMS, INC., EXCHANGE ACT OF 1934, MAKING
+FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+
+ 
+
+ 
+
+I.
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate
+that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C
+of the Securities Exchange Act of 1934 (âExchange Actâ), against FLIR Systems, Inc.
+(âFLIRâ or âRespondentâ).
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondent has submitted
+an Offer of Settlement (the âOfferâ), which the Commission has determined to accept.
+Solely for the purpose of these proceedings and any other proceedings brought by or on
+behalf of the Commission, or to which the Commission is a party, and without admitting
+or denying the findings herein, except as to the Commissionâs jurisdiction over it and the
+subject matter of these proceedings, which are admitted, and except as provided herein in
+Section V, Respondent consents to the entry of this Order Instituting Cease-and-Desist
+Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (âOrderâ), as set forth below.
+
+Il.
+
+On the basis of this Order and Respondentâs Offer, the Commission findsâ that:
+
+Summary
+
+1. This matter concerns violations of the anti-bribery, books and records and
+internal controls provisions of the Foreign Corrupt Practices Act (âFCPAâ) by FLIR. In
+2009, employees of FLIR provided unlawful travel, gifts and entertainment to foreign
+officials in the Kingdom of Saudi Arabia to obtain or retain business. The travel and gifts
+included personal travel and expensive watches provided by employees in FLIRâs Dubai
+office to government officials with the Saudi Arabia Ministry of Interior (the âMOTIâ). The
+extent and nature of the travel and the value of the gifts were concealed by certain FLIR
+employees and, as a result, were falsely recorded in FLIRâs books and records. FLIR
+
+ 
+
+' The findings herein are made pursuant to Respondentâs Offer of Settlement and are not
+
+binding on any other person or entity in this or any other proceeding.
+lacked sufficient internal controls to detect and prevent the improper travel and gifts. Also,
+from 2008 through 2010, FLIR provided significant additional travel to the same MOI
+officials, which was booked as business expenses, but for which there is insufficient
+supporting documentation to confirm the business purpose. As a result of the unlawful
+conduct, FLIR earned over $7 million in profits from the sales to the MOI.
+
+Respondent
+
+2. FLIR Systems, Inc. is an Oregon-based corporation whose common stock
+is registered under Section 12(b) of the Exchange Act and is listed on the NASDAQ Global
+Select Market. FLIR, founded in 1978, develops infrared technology for use in thermal
+imaging and other sensing products and systems, night vision, and camera systems for
+government and commercial customers. On September 30, 2002, in connection with a
+settled accounting fraud case, the Commission ordered FLIR to cease and desist from
+violations of the anti-fraud and related provisions of the federal securities laws.
+
+FLIRâs Business with the Saudi Ministry of Interior
+
+3. Stephen Timms (âTimmsâ) was the head of FLIRâs Middle East office in
+Dubai during the relevant time period, and was one of the company executives responsible
+for obtaining business for FLIRâs Government Systems division from the MOI. Yasser
+Ramahi (âRamahiâ) reported to Timms and worked in business development in Dubai.â
+Both Timms and Ramahi were employees of FLIR.
+
+4. In November 2008, FLIR entered into a contract with the MOT to sell
+binoculars using infrared technology for approximately $12.9 million. Ramahi and Timms
+were the primary sales employees responsible for the contract on behalf of FLIR. In the
+contract, FLIR agreed to conduct a âFactory Acceptance Test,â attended by MOI officials,
+prior to delivery of the binoculars to Saudi Arabia. The Factory Acceptance Test was a key
+condition to the fulfillment of the contract. FLIR anticipated that a successful delivery of
+
+the binoculars, along with the creation of a FLIR service center, would lead to an additional
+order in 2009 or 2010.Â°
+
+âWorld Tourâ
+
+5. In February 2009, Ramahi and Timms began preparing for the July 2009
+Factory Acceptance Test. Ramahi and Timms then made arrangements to send MOI
+officials on what Timms later referred to as a âworld tourâ before and after the Factory
+Acceptance Test. Among the MOI officials for whom Ramahi and Timms provided the
+âworld tourâ were the head of the MOIâs technical committee and a senior engineer on the
+committee, who played a key role in the decision to award FLIR the business.
+
+6. The trip proceeded as planned, with stops in Casablanca, Paris, Dubai and
+Beirut. While in the Boston area, the MOI officials spent a single 5-hour day at FLIRâs
+
+ 
+
+Â° On November 17, 2014, the Commission instituted settled cease-and-desist proceedings
+
+against Timms and Ramahi for their role in this same conduct.
+Â° At the same time, Ramahi and Timms were also involved in FLIRâs negotiations to sell
+security cameras to the MOI. In May 2009, FLIR signed an agreement for the integration of its
+cameras into another companyâs products for use by the MOI. The contract was valued at
+approximately $17.4 million and FLIR hoped to win additional future business with the MOI
+under this agreement.
+Boston facility completing the equipment inspection. The agenda for their remaining seven
+days in Boston included just three other 1-2 hour visits to FLIRâs Boston facility, some
+additional meetings with FLIR personnel, at their hotel, and other leisure activities, all at
+FLIRâs expense. At the suggestion of Timmsâ manager, a U.S.-based Vice President
+responsible for global sales to foreign governments, Ramahi also took the MOI on a
+weekend trip to New York while they were in Boston. In total, the MOI officials traveled
+for 20 nights on their âworld tour,â with airfare and luxury hotel accommodations paid by
+FLIR. There was no business purpose for the stops outside of Boston.
+
+7. Timms forwarded the air travel expenses for the MOI to his manager for
+approval, attaching a summary reflecting the full extended routing of the travel. The
+manager approved the travel, directing him to make the expenses appear smaller by
+âbreak[ing] it in 2 [submissions.]â Timms also forwarded the travel charges and an
+itinerary showing the Paris and Beirut stops, to FLIRâs finance department. FLIRâs finance
+department processed and paid the approved air expenses the next day. Neither Timmsâ
+manager nor anyone in FLIRâs finance department questioned the itinerary or the travel
+expense, although the itinerary reflected travel to locations other than Boston.
+
+8. After receiving questions from Timmsâ manager, Ramahi and Timms later
+claimed that the MOIâs âworld tourâ had been a mistake. They told the FLIR finance
+department that the MOI had used FLIRâs travel agent in Dubai to book their own travel
+and that it had been mistakenly charged to FLIR. They then used FLIRâs third-party agent
+to give the appearance that the MOI paid for their travel. Timms also oversaw the
+preparation of false and misleading documentation of the MOI travel expenses that was
+submitted to FLIR finance as the âcorrectedâ travel documentation. FLIR finance then
+made an additional payment to the Dubai travel agency for the remaining travel costs.
+
+9. Following the equipment inspection in Boston, the MOI gave its permission
+for FLIR to ship the binoculars. The MOI later placed an order for additional binoculars
+for an approximate price of $1.2 million. In total, FLIR earned revenues of over $7 million
+in profits in connection with its sales of binoculars to the MOI.
+
+Additional Travel
+
+10. From 2008 through 2010, FLIR paid approximately $40,000 for additional
+travel by MOI officials. For example, Ramahi took the same MOI officials who went on
+the âworld tourâ to Dubai over the New Year holiday in December 2008 and again in 2009.
+FLIR paid for airfare, hotel, and expensive dinners and drinks. FLIR also paid for hotels,
+meals and first class flights for the MOI officials to travel within Saudi Arabia to help FLIR
+win business with other Saudi government agencies. Although the trips were booked as
+business expenses, the supporting documentation is incomplete and it is not possible to
+determine whether all the trips in fact had a business purpose.
+
+11. Moreover, in June and July of 2011, a FLIR regional sales manager
+accompanied nine officials from the Egyptian Ministry of Defense on travel paid for by a
+FLIR partner. The travel centered on a legitimate Factory Acceptance Test at FLIRâs
+Stockholm factory. The travel, however, also included a non-essential visit to Paris, during
+which the officials spent only two days on demonstration and promotion activities relating
+to FLIR products. In total, the government officials traveled for 14 days and most of the
+officials only participated in legitimate business activities on four of those days. Three
+officials engaged in two additional days of training in Sweden. The total travel costs were
+approximately $43,000. FLIR subsequently reimbursed the partner for the majority of the
+travel costs, based upon cursory invoices which were submitted without supporting
+documentation.
+Expensive Watches
+
+12. At Timmsâ and Ramahiâs instruction, in February 2009, FLIRâs third-party
+agent purchased five watches in Riyadh, paying approximately 26,000 Saudi Riyal (about
+U.S. $7,000). Ramahi and Timms gave the watches to MOI officials during a mid-March
+2009 trip to Saudi Arabia to discuss several business opportunities with the MOI. The
+MOI officials who received the watches included two of the MOI officials who
+subsequently went on the âworld tourâ travel.
+
+13. Within weeks of his visit to Saudi Arabia, Timms submitted an expense
+report to FLIR for retrmbursement of the watches. The expense report clearly identified the
+watches as âEXECUTIVE GIFTS: 5 WATCHESâ costing $1,425 each. Shortly
+thereafter, Timms specified that the watches were given to MOI officials, and identified the
+specific officials who received the watches.
+
+14. Despite these red flags, the reambursement was approved by Timmsâ
+manager and, based on that approval and the submitted invoices, FLIRâs finance
+department paid the reimbursement to Timms.
+
+15. In July 2009, in connection with an unrelated review of expenses in the
+Dubai office, FLIRâs finance department flagged Timmsâ reimbursement request for the
+watches. In response to their questions, Timms claimed that he had made a mistake and
+falsely stated that the expense report should have reflected a total of 7,000 Saudi Riyal
+(about $1,900) for the watches, rather than $7,000 as submitted. Ramahi also told FLIR
+investigators that the watches were each purchased for approximately 1,300-1,400 Saudi
+Riyal (approximately $377) by FLIRâs third-party agent. In September 2009, at Timmsâ
+direction, FLIRâs agent maintained the false cover story in response to emailed questions
+from FLIRâs finance department. Timms and Ramahi also obtained a false invoice
+reflecting that the watches cost 7,000 Saudi Riyal, which Timms submitted to FLIR finance
+in August 2009. The false, revised invoice was processed by FLIR.
+
+FLIRâs FCPA-Related Policies and Training and Internal Controls
+
+16. During the relevant time, FLIR had a code of conduct, as well as a specific
+anti-bribery policy, which prohibited FLIR employees from violating the FCPA. FLIRâs
+policies required employees to record information âaccurately and honestlyâ in FLIRâs
+books and records, with âno materiality requirement or threshold for a violation.â FLIR
+employees, including Timms and Ramahi, received training on their obligations under the
+FCPA and FLIRâs policy, although the company did not ensure that all employees,
+including Ramahi, completed the required training.
+
+17. FLIR had few internal controls over travel in its foreign sales offices at the
+time. Although FLIR had policies and procedures over travel for its domestic operations,
+there were no controls or policies in place governing the use of foreign travel agencies.
+Instead, FLIR foreign sales employees worked directly with FLIRâs foreign travel agencies
+to arrange travel for themselves and others. Sales managers, such as Timms, were solely
+responsible for expense approvals for their sales staff. Timmsâ manager was responsible
+for approving travel-related expenses for all non-U.S.-based senior sales employees (such
+as Timms) and approving the payment of large invoices to the foreign travel agencies.
+
+18. FLIR also had few controls over the giving of gifts to customers, including
+foreign government officials. Sales staff and managers were responsible for all expense
+approvals for gifts and accounts payable was not trained to flag expenses that were
+potentially problematic. To the contrary, the initial expense submission for the watches
+was labeled in large English print âEXECUTIVE GIFTS: 5 WATCHESâ for a total of
+$7,123, and was accompanied by email confirmation that the watches were provided to 5
+MOI âofficers,â when it was approved by Timmsâ manager and processed and paid by
+FLIR accounts payable department.
+
+Remedial Efforts
+
+19. In November 2010, FLIR received a complaint letter from FLIRâs third-
+party agent, and began an investigation that lead to the discovery of the improper watches
+and travel. FLIR subsequently self-reported the conduct to the Commission and cooperated
+with the Commissionâs investigation.
+
+20. Subsequent to the conduct described herein, FLIR undertook significant
+remedial efforts including personnel and vendor terminations. FLIR broadened its relevant
+policies and trainings and implemented a gift policy. FLIR enhanced access by its
+employees to its anti-bribery policy by providing translations into languages spoken in all
+countries in which it has offices. FLIR is in the process of enhancing its travel approval
+system in its foreign offices, including requiring all non-employee travel to be booked
+through either one large, designated travel agency or a limited number of designated
+regional travel agencies after receiving advance written approval from senior business
+personnel and the legal department. All travel agencies will be vetted through FLIRâs full
+FCPA due diligence framework, be subject to all of FLIRâs current FCPA training
+obligations, and cannot be reimbursed for travel bookings for non-employees in the absence
+of appropriate approvals. FLIR added additional FCPA training and procedures for its
+finance staff, and enhanced its third-party diligence process and contracts. FLIR also
+engaged outside counsel and forensic accountants to conduct a compliance review of travel
+and entertainment expenses in its operations outside the U.S.
+
+Legal Standards and FCPA Violations
+
+21. Under Section 21C(a) of the Exchange Act, the Commission may impose a
+cease-and-desist order upon any person who is violating, has violated, or is about to violate
+any provision of the Exchange Act or any rule or regulation thereunder, and upon any other
+person that is, was, or would be a cause of the violation, due to an act or omission the
+person knew or should have known would contribute to such violation.
+
+22. Section 30A of the Exchange Act prohibits any issuer with a class of
+securities registered pursuant to Section 12 of the Exchange Act, or any officer, director,
+employee, or agent acting on behalf of such issuer, in order to obtain or retain business,
+from corruptly giving or authorizing the giving of, anything of value to any foreign official
+for the purposes of influencing the official or inducing the official to act in violation of his
+or her lawful duties, or to secure any improper advantage, or to induce a foreign official to
+use his influence with a foreign governmental instrumentality to influence any act or
+decision of such government or instrumentality. [15 U.S.C. Â§ 78dd-1].
+
+23. Under Section 13(b)(2)(A) of the Exchange Act issuers are required to
+make and keep books, records, and accounts, which, in reasonable detail, accurately and
+
+fairly reflect the transactions and disposition of the assets of the issuer. [15 U.S.C. Â§
+78m(b)(2)(A)].
+
+24. Under Section 13(b)(2)(B) of the Exchange Act issuers are required to
+devise and maintain a system of internal accounting controls sufficient to provide
+reasonable assurances that (1) transactions are executed in accordance with managementâs
+general or specific authorization; (11) transactions are recorded as necessary (1) to permit
+preparation of financial statements in conformity with generally accepted accounting
+principles or any other criteria applicable to such statements, and (II) to maintain
+accountability for assets; (111) access to assets 1s permitted only in accordance with
+managementâs general or specific authorization; and (iv) the recorded accountability for
+assets is compared with the existing assets at reasonable intervals and appropriate action is
+taken with respect to any differences. [15 U.S.C Â§ 78m(b)(2)(B)].
+
+25. As described above, FLIR violated Section 30A of the Exchange Act by
+corruptly providing expensive gifts of travel, entertainment, and personal items to the
+MOI officials to retain and obtain business for FLIR. Respondent also violated Section
+13(b)(2)(B) of the Exchange Act, by failing to devise and maintain a sufficient system of
+internal accounting controls to prevent the provision and approval of the watches and the
+travel and the falsification of FLIRâs books and records to conceal the conduct. As a result
+of this same conduct, FLIR failed to make and keep accurate books and records in violation
+of Section 13(b)(2)(A) of the Exchange Act.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the
+sanctions agreed to in Respondentâs Offer.
+
+Accordingly, it is hereby ORDERED that:
+
+A. Pursuant to Section 21C of the Exchange Act, Respondent cease and desist
+from committing or causing any violations and any future violations of
+Sections 13(b)(2)(A), 13(b)(2)(B) and 30A of the Exchange Act [15 U.S.C.
+8Â§ 78m(b)(2)(A), 78m(b)(2)(B), and 78dd-1].
+
+B. Pursuant to Section 21(B)(a)(2) of the Exchange Act, Respondent shall,
+within 10 days of the entry of this Order, pay disgorgement of $7,534,000, prejudgment
+interest of $970,584 and a civil money penalty in the amount of $1,000,000, for a total
+payment of $9,504,584, to the Securities and Exchange Commission. If timely payment
+is not made, additional interest shall accrue pursuant to SEC Rule of Practice 600 and 31
+U.S.C. Â§ 3717. Payment must be made in one of the following ways:
+
+(1) Respondent may transmit payment electronically to the Commission,
+which will provide detailed ACH transfer/Fedwire instructions upon
+request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov
+through the SEC Web site at http://www.sec.gov/about/offices/ofm.htm;
+or
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+Payments by check or money order must be accompanied by a cover letter
+identifying FLIR as the Respondent in these proceedings, and the file number of these
+proceedings; a copy of the cover letter and check or money order must be sent to Tracy L.
+Davis, Assistant Director, Division of Enforcement, Securities and Exchange
+Commission, 44 Montgomery Street, Suite 2800, San Francisco, CA 94104.
+
+C. Respondent shall report to the Commission staff periodically, at no less than
+nine-month intervals during a two-year term, the status of its compliance review of its
+overseas operations and the status of its remediation and implementation of compliance
+measures. During this two-year period, should Respondent discover credible evidence, not
+already reported to the Commission, that questionable or corrupt transfers of property or
+interests may have been offered, promised, paid or authorized by Respondent entity or
+person, or any entity or person acting on behalf of Respondent, or that related false books
+and records have been maintained, Respondent shall promptly report such conduct to the
+Commission staff. During this two-year period, Respondent shall: (1) conduct an initial
+review and submit an initial report, and (2) conduct and prepare at least two follow-up
+reviews and reports as described below:
+
+(1) Respondent shall submit to the Commission staff a written report
+within 180 calendar days of entry of this Order setting forth a
+complete description of its Foreign Corrupt Practices Act (âFCPAâ)
+and anti-corruption related remediation efforts to date, its proposals
+reasonably designed to improve the policies and procedures of
+Respondent for ensuring compliance with the FCPA and other
+applicable anti-corruption laws, the parameters of the subsequent
+reviews, and the status and findings of its ongoing compliance
+review (the âInitial Reportâ). The Initial Report shall be transmitted
+to Charles E. Cain, Deputy Chief, FCPA Unit, Division of
+Enforcement, Securities and Exchange Commission, 100 F. Street,
+NE, Washington, DC, 20549-5030. Respondent may extend the
+time period for issuance of the Initial Report with prior written
+approval of the Commission staff.
+
+(2) Respondent shall undertake at least two follow-up reviews,
+incorporating any comments provided by the Commission staff on
+the previous report, to update on the status and findings of its
+ongoing compliance review and to further monitor and assess
+whether the policies and procedures of Respondent are reasonably
+designed to detect and prevent violations of the FCPA and other
+applicable anti-corruption laws (the âFollow-Up Reportâ).
+
+(3) The Follow-Up Report shall be completed no later than 270 days
+after the Initial Report. The second Follow-Up Report shall be
+completed no later than 270 days after the completion of the first
+Follow-Up Report. Each Follow-Up Report shall be transmitted to
+Charles E. Cain at the address listed above. Respondent may extend
+the time period for the issuance of the Follow-Up Report with prior
+written approval of the Commission staff.
+
+(4) The periodic reviews and reports submitted by Respondent will
+likely include proprietary, financial, confidential, and competitive
+business information. Public disclosure of the reports could
+discourage cooperation, impede pending or potential government
+investigation or undermine the objectives of the reporting
+requirement. For these reasons, among others, the reports and the
+contents thereof are intended to remain and shall remain non-public,
+except (1) pursuant to court order, (2) as agreed by the parties in
+writing, (3) to the extent the Commission staff determines in its sole
+discretion that disclosure would be in furtherance of the
+Commissionâs discharge of its duties and responsibilities, or (4) is
+otherwise required by law.
+
+V.
+
+It is further Ordered that, solely for purposes of exceptions to discharge set forth
+in Section 523 of the Bankruptcy Code, 11 U.S.C. Â§ 523, the findings in this Order are
+true and admitted by Respondent, and further, any debt for civil penalty or other amounts
+due by Respondent under this Order or any other judgment, order, consent order, decree
+or settlement agreement entered in connection with this proceeding, is a debt for the
+violation by Respondent of the federal securities laws or any regulation or order issued
+under such laws, as set forth in Section 523(a)(19) of the Bankruptcy Code, 11 U.S.C.
+
+Â§ 523(a)(19).
+
+By the Commission.
+
+Brent J. Fields
+Secretary

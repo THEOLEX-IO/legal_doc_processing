@@ -1,0 +1,1151 @@
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 1 of 29 PagelD #:1
+
+UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF ILLINOIS,
+
+ 
+
+EASTERN DIVISION
+COMMODITY FUTURES TRADING : Case No. 19-cv-6163
+COMMISSION, :
+JURY TRIAL DEMANDED
+Plaintiff,
+V.
+
+MICHAEL THOMAS NOWAK, and GREGG
+FRANCIS SMITH,
+
+Defendants.
+
+ 
+
+COMPLAINT FOR INJUNCTIVE RELIEF, CIVIL
+MONETARY PENALTIES, AND OTHER EQUITABLE RELIEF
+
+Plaintiff Commodity Futures Trading Commission (the âCFTCâ or âCommissionââ)
+alleges as follows:
+
+I SUMMARY
+
+1. From at least 2008 through at least 2015 (the âRelevant Periodâ), Defendants
+Michael Thomas Nowak (âNowakââ) and Gregg Francis Smith (âSmithââ) (collectively,
+Defendantsâ), who were traders at a major U.S. financial institution (âBank Aâ), engaged in
+manipulative and deceptive acts and practices in the precious metals futures markets, which
+involved Defendants placing orders for and trading precious metals futures contracts on a
+registered entity. Defendants repeatedly engaged in these manipulative or deceptive acts and
+practices by âspoofingâ (bidding or offering with the intent to cancel the bid or offer before
+execution). In placing thousands of orders with the intention to cancel them, Defendants sent
+
+false signals of increased buying or selling interest designed to trick market participants into
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 2 of 29 PagelD #:1
+
+executing the orders Defendants wanted filled. Defendants engaged in this conduct with the
+intent to manipulate market prices and create artificial prices, and thereby enable their orders to
+be filled sooner, at a better price, or in larger quantities than they otherwise would.
+
+2. By virtue of this conduct, as further alleged herein, throughout the Relevant
+Period, Defendants engaged in acts and practices that violated Section 9(a)(2) of the Commodity
+Exchange Act (the âActââ), 7 U.S.C. Â§ 13(a)(2)(2012).
+
+3. By virtue of this conduct, as further alleged herein, from July 16, 2011, through at
+least 2015, Defendants engaged in acts and practices that violated Section 4c(a)(5)(C) of the Act,
+7 U.S.C. Â§ 6c(ay(5)(C) (2012).
+
+4. By virtue of this conduct, as further alleged herein, from August 15, 2011,
+through at least 2015, Defendants engaged in acts and practices that violated Section 6(c)(1) of
+the Act, 7 U.S.C. Â§ 9(1) (2012), and Commission Regulation (âRegulationâ) 180.1(a)(1) and (3),
+17 C.F.R. Â§ 180.1(a)(1), (3) (2019).
+
+5. The Commission brings this action pursuant to Section 6c of the Act, 7 U.S.C.
+
+Â§ 13a-1 (2012), to enjoin Defendantsâ unlawful acts and practices and to compel Defendantsâ
+compliance with the Act and Regulations. In addition, the Commission seeks civil monetary
+penalties and other equitable relief, including but not limited to disgorgement and trading and
+registration prohibitions, as the Court deems necessary and appropriate.
+
+Hf. JURISDICTION AND VENUE
+
+6. This Court has jurisdiction over this action under 28 U.S.C. Â§ 1331 (2012)
+(federal question jurisdiction) and 28 U.S.C. Â§ 1345 (2012) (district courts have original
+jurisdiction over civil actions commenced by the United States or by any agency expressly
+authorized to sue by Act of Congress). Section 6c(a) of the Act, 7 U.S.C. Â§ 13a-1(a) (2012),
+
+authorizes the Commission to seek injunctive relief in any proper district court of the United
+
+2
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 3 of 29 PagelD #:1
+
+States against any person whenever it shall appear to the Commission that such person has
+engaged, is engaging, or is about to engage in any act or practice constituting a violation of any
+provision of the Act or any rule, regulation, or order thereunder.
+
+7. Venue properly lies with this Court pursuant to 7 U.S.C. Â§ 13a-I(e), because
+Defendants transact business in the Northern District of Illinois, and the acts and practices in
+violation of the Act and Regulations have occurred within this District.
+
+Hit. PARTIES
+
+8. Plaintiff Commodity Futures Trading Commission is the independent federal
+regulatory agency charged by Congress with the administration and enforcement of the Act and
+Regulations promulgated thereunder. One of its core responsibilities is to protect the public
+interest by deterring and preventing disruptions to market integrity. See 7 U.S.C. Â§ 5(b) (2012).
+
+9. Defendant Michael Thomas Nowak is a resident of New Jersey. Nowak has
+been employed by Bank A since approximately 1996 and currently serves as managing director
+and Global Head of Precious and Base Metals Trading. During the Relevant Period, Nowak was
+a trader and supervisor on Bank Aâs precious metals desk and worked out of Bank Aâs New
+York and London offices. Between 2015 and 2018, Nowak was listed with the National Futures
+Association as a principal of an affiliate of Bank A.
+
+10. Defendant Gregg Francis Smith is a resident of New York. Smith has been
+employed by Bank A since 2008, when his previous employer (âBank Bââ) was acquired by Bank
+A. During the Relevant Period, and continuing until the present, Smith has been an executive
+director and trader on Bank Aâs precious metals desk, working out of Bank Aâs New York City
+
+offices. Prior to the Relevant Period, Smith was registered with the CFTC as a floor broker.
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 4 of 29 PagelD #:1
+
+IV. OTHER RELEVANT ENTITIES
+
+11. Commodity Exchange, Inc. (ââCOMEXââ) is a commodity exchange registered
+with the CFTC as a designated contract market under Section 5 of the Act, 7 U.S.C. Â§ 7 (2012),
+and defined as a âregistered entityâ under Section la(40) of the Act, 7 U.S.C. Â§ 1a(40) (2012).
+COMEX lists for trading gold futures, silver futures, and other precious metals contracts.
+COMEXâs headquarters is located in New York, New York.
+
+12. New York Mercantile Exchange (âNYMEXââ) is a commodity exchange
+registered with the CFTC as a designated contract market under 7 U.S.C. Â§ 7, and defined as a
+âregistered entityâ under 7 U.S.C. Â§ 1a(40). NYMEX lists for trading platinum futures,
+palladium futures, and other precious metals contracts. NYMEXâs headquarters is located in
+New York, New York.
+
+13. CME Group Inc. (ââCMEââ) is the parent company of COMEX and NYMEX.
+CMEâs headquarters is located in Chicago, Illinois. CME operates an electronic trading platform
+known as Globex, an open-access marketplace that allows market participants (âtradersââ) to view
+the aggregated book of visible orders and prices for futures contracts and enter their own orders
+to buy or sell futures contracts. Through pre-defined sets of trade matching rules, Globex
+enables the execution of buy orders opposite sell orders for specific quantities at specific prices.
+
+V. LEGAL BACKGROUND
+
+A, Spoofing
+14. Section 4c(a)(5)(C) of the Act, 7 U.S.C. Â§ 6c(a)(5)(C) (2012), provides that ââ[i]t
+
+shall be unlawful for any person to engage in trading, practice, or conduct on or subject to the
+rules of a registered entity that... is, is of the character of, or is commonly known to the trade
+
+as, âspoofingâ (bidding or offering with the intent to cancel the bid or offer before execution).â
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 5 of 29 PagelD #:1
+
+B. Manipulative or Deceptive Devices
+
+15. Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) (2012), provides that â[i]t shall be
+unlawful for any person, directly or indirectly, to use or employ, or attempt to use or employ, in
+connection with any swap, or a contract of sale of any commodity in interstate commerce, or for
+future delivery on or subject to the rules of any registered entity, any manipulative or deceptive
+device or contrivance, in contravention of such rules and regulations as the Commission shall
+promulgate.â
+
+16. Regulation 180.1, 17 C.F.R. Â§ 180.1(a) (2019), provides that â[i]t shall be
+unlawful for any person, directly or indirectly, in connection with any swap, or contract of sale
+of any commodity in interstate commerce, or contract for future delivery on or subject to the
+rules of any registered entity, to intentionally or recklessly: (1) [u]se or employ, or attempt to
+use or employ, any manipulative device, scheme, or artifice to defraud; . . . [or] (3) [e]ngage, or
+attempt to engage, in any act, practice, or course of business, which operates or would operate as
+a fraud or deceit upon any person.â
+
+Cc. Attempted Price Manipulation
+
+17. Section 9(a)(2) of the Act, 7 U.S.C. Â§ 13(a)(2) (2012), provides that it is unlawful
+for â[a]ny person to... . attempt to manipulate the price of any commodity . . . for future delivery
+on or subject to the rules of any registered entity.â
+
+VI. MARKET AND PRODUCT BACKGROUND
+A. Fundamentals of Futures Markets and Trading
+
+18. A futures contract is an agreement to buy or sell a commodity for delivery or cash
+settlement in the future at a specified price. A futures contract traded on an exchange has
+standard, non-negotiable contract specifications, such as the quality, quantity, and physical
+delivery time and location for the given product. Futures contracts are used to assume or shift
+
+5
+oo
+7
+we
+2
+e
+CEs
+2
+vd
+f
+A
+â
+one
+oe?
+ch
+rh
+cart
+rs
+Me
+a
+wv
+fe
+Le
+eee
+ww
+ee 2
+_
+Lf
+Ã©
+sD
+gee
+vt
+oP
+
+os
+po?
+ve
+cp
+ter
+ao
+@
+oe.
+wd
+tb
+
+price risk, and may be satisfied by cash settlement, delivery, or offset. Futures contracts are
+commonly used to hedge risks or to speculate on the price of commodities.
+
+19. The Globex electronic trading platform allows market participants to trade futures
+and options, including precious metals futures listed on COMEX and NYMEX, from virtually
+anywhere in the world, nearly twenty-four hours a day between 5:00 P.M. Central Time on
+Sunday evening and 4:00 P.M. Central Time on Friday afternoon. (Henceforth, all times
+described in this Complaint are expressed in Central Time, unless otherwise stated.)
+
+20. An âorder,â when entered for futures trading through Globex, is an electronic
+request submitted to the exchange to buy (that is, âbidââ) or sell (that is, âofferâ or âaskââ) one or
+more of a specified futures contract. An order may be for a quantity of one or more contracts, or
+âlots.â A traderâs order is âfilledâ or âexecutedâ when it is matched on Globex with an
+âoppositeâ order (an order to buy, if the trader is selling; or vice versa) for the same price
+specified by the trader or a price more favorable to the trader.
+
+21. When a bid or offer is submitted through Globex, it becomes part of the list of
+orders reflected in the âorder bookâ for a particular futures contract. Traders are able to see the
+âvisibleâ portion of the order book, which consists of the aggregate quantity of orders and the
+aggregate quantity of lots sought in those orders on each price level for up to ten price levels on
+the buy side and for up to ten price levels on the sell side for all market participants. This visible
+information about aggregate buying and selling interest in the market at different price levels
+(also known as âmarket depthââ) includes only the total number of orders and the total number of
+lots comprising those orders at various price levels. The identities of the traders who placed the
+
+orders and the number of lots sought in any particular order are not visible to market participants.
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 7 of 29 PagelD #:1
+
+22. For example, on the buy side there may be lots available (ordered from the
+highest price a market participant is willing to buy to the tenth-highest) at price levels of 100, 99,
+98, 97, and so forth until reaching the tenth-highest price level at 91; and on the sell side there
+may be lots available (ordered from the lowest price a market participant is willing to sell to the
+tenth-lowest) at price levels of 101, 102, 103, 104, and so forth until reaching the tenth-lowest
+price level at 110. The âbest-bidâ level, 100, is the highest price at which any trader is willing to
+buy; and the âbest-askâ level, 101, is the lowest price at which any trader is willing to sell. The
+âââbid-ask spreadâ is the difference between the best-ask and best-bid price levels; accordingly, the
+bid-ask spread in the example above is | (101 less 100).
+
+23. To illustrate, the chart below shows an example of how the first five levels of the
+visible order book in the Gold futures contract at a hypothetical moment in time can be
+
+visualized as a price ladder:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Price Buy Buy Sell Sell
+Orders Lots Orders Lots
+105 17 18
+104 21 22
+103 21 23
+102 12 12
+101 6 11
+100 4 4
+99 13 13
+98 17 23
+97 26 36
+96 17 25
+TOTALS: 77 101 77 86
+24. An âaggressiveâ order is an order that crosses, or aggresses, the bid-ask spread.
+
+An aggressive buy order is a bid placed at the best-ask price or higher, 1.e., an order to buy at a
+
+price at which at least one other trader is currently willing to sell. Using the example above, with
+oN ae 4 Aa ey A wh bbe 4 PIS Pa MP enw Mave oO PPO Ma ee EI ot
+mâ¢~ â¢~ i ~~. She x nf Â£ oa ek : : ah ed inks
+me XQ by of We FS : GAPS GIA TAPER > Pe hat TREN OS oe
+Lockie SCY UE LGU TD Fe Ur, Ue OY bo Preltieâ 6 Pain AML Ar. k
+x
+
+a best-bid of 100 and best-ask of 101, an aggressive buy order would be placed at 101 or higher.
+An aggressive sell order is an offer placed at the best-bid price or lower, 1.e., an order to sell at a
+price at which at least one other trader is currently willing to buy. Continuing with the example
+above, an aggressive sell order would be placed at 100 or lower.
+
+25. A ârestingâ order, on the other hand, does not cross the bid-ask spread. A resting
+buy order is a bid placed at the best-bid price or lower, i.e., an order to buy at a price that is
+lower than the price that other traders are currently willing to sell. Using the example above, a
+resting buy order would be placed at 100 or lower. A resting sell order is placed at the best-ask
+price or higher, i.e., an order to sell at a price that is higher than the price that other traders are
+currently willing to buy. Continuing with the example, a resting sell order would be placed at
+101 or higher.
+
+26. An âicebergâ order is a type of order that traders can place through Globex on
+exchanges including COMEX and NYMEX. In an iceberg order, the trader divides the total
+number of lots the trader wants to buy or sell into two portions: one portion is a pre-set quantity
+that is visible to other market participants in the visible order book, and the other portion is the
+remaining part of the order, which is not visible to other market participants (1.e., a âhiddenâ
+quantity). Whenever the visible portion of such an order is filled, the same, pre-set quantity of
+the remaining, hidden portion automatically becomes visible at the back of the order queue; this
+process repeats until the entire order is either executed or canceled. Thus, for example, if the
+trader places a fifty-lot resting iceberg order to buy at price level 100, with a visible portion
+showing ten lots, only ten lots of the fifty-lot order will be part of the visible order book. The
+remaining forty lots will become visible, in ten-lot increments, when the preceding ten-lot
+
+portion of the iceberg order is executed.
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 9 of 29 PagelD #:1
+
+27. Traders using Globex during trading sessions when the exchange is open may
+âcancelâ their orders before execution. Order âcancellationâ is the termination of a pending
+order before that order is fully filled.
+
+28. CME employs a matching algorithm to match bids and offers for execution on
+Globex. In certain markets, like the precious metals futures markets on COMEX and NYMEX
+at issue here, the matching algorithm applies a First-In-First-Out (âFIFOâ) priority-in-time
+method to orders entered at the same price level of the order book. The first orders placed at a
+price level are the first to be executed. As a general matter, if there are multiple buy orders at a
+price level, the orders will be filled in the order they were placed. Orders first-in-line to be filled
+at a given price level are said to be at the âfront of the queue,â and orders last-to-be-filled are
+said to be at the âback of the queue.ââ As a general matter, the orders at the back of the queue
+will be filled only if all of the other orders at the same price level have already been filled.
+
+B. Fundamentals of the Precious Metals Futures Market
+
+29. Like all commodity futures markets, the market for precious metals futures
+enables producers and users of precious metals to hedge the price of those commodities. For
+market participants generally, the precious metals futures market serves as a principal means for
+investment in precious metalsâgold, silver, platinum, and palladiumâwhich are commonly
+used by investors to diversify risk and to hedge against inflation, deflation, or currency
+devaluation.
+
+30. The gold futures contract listed on COMEX (âGold Futuresâ contract) is regularly
+traded on Globex for delivery during the current calendar month, the next two calendar months,
+any February, April, August, and October falling within a 23-month period, and any June and
+December falling within a 72-month period beginning with the current month. One lot of the
+
+Gold Futures contract is equal to 100 troy ounces.
+
+9
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 10 of 29 PagelD #:1
+
+31. The silver futures contract listed on COMEX (âSilver Futuresâ contract) is
+regularly traded on Globex for delivery during the current calendar month, the next two calendar
+months, any January, March, May, and September falling within a 23-month period, and any
+July and December falling within a 60-month period beginning with the current month. One lot
+of the Silver Futures contract is equal to 5,000 troy ounces.
+
+32. The platinum futures contract listed on NYMEX (âPlatinum Futuresâ contract) is
+regularly traded on Globex for delivery during the current calendar month, the next two calendar
+months, and any March, June, September, and December within a 15-month period beginning
+with the current month. One lot of the Platinum Futures contract is equal to 50 troy ounces.
+
+33. The palladium futures contract listed on NYMEX (âPalladium Futuresâ contract)
+is regularly traded on Globex for delivery during the current calendar month, the next two
+calendar months, and any March, June, September, and December falling within a 15-month
+period beginning with the current month. One lot of the Palladium Futures contract is equal to
+100 troy ounces.
+
+C. Examples of Spoofing Violations in Futures Markets
+
+34. In general, in the futures markets, when there is more interest in buying a
+particular contract than there is in selling, prices will rise, all else equal; conversely, when there
+is more interest to sell than to buy, prices will fall, all else equal. This general concept holds true
+in the precious metals futures markets at issue here.
+
+35. Many market participants incorporate supply and demand concepts into their
+trading decisions, relying on the number of bids and offers at various price levels in the visible
+order book to determine whether there is generally more interest to buy or to sell in the market at
+any given time, and thus whether a corresponding price change is likely. Market participants
+
+consider, for example, liquidity and market depthâi.e., the volume of lots and orders that make
+
+10
+tr
+ee
+he
+âer
+oe.
+=
+_â
+wd
+oo
+âth
+*
+raw
+g
+g
+
+up bids and offers in the visible order book, in total and at each price level of the order book.
+These market participants also consider âorder book balanceâ or âorder book pressureââ1.e., the
+ratio of lots and orders on the bid side of the market (or interest to buy) to the contracts and
+orders on the offer side of the market (or interest to sell), in the visible order book, in total and at
+each price level of the order book.
+
+36. For instance, if the total number of lots and/or orders on the bid (buy) side
+significantly outweighs the total number of lots and/or orders on the offer (sell) side, market
+participants may reasonably believe that there is more interest to buy than to sell, and thus infer
+that a price increase is likely. These market participants may then trade accordingly, and some
+may attempt to buy lots before the expected price increase. In such a case, these market
+participants would place aggressive orders to buy (i.e., at a higher price than the currently resting
+buy orders in the market), making execution of resting sell orders more likely.
+
+37. In considering order book balance, many of these market participants give greater
+weight to orders that are closer to the best-bid or best-ask price in the visible order book, and in
+particular to orders that are at the best-bid and best-ask prices.
+
+38. Many market participants use automated trading systems that analyze the market
+for these types of imbalances in the order book and use that information to make trading
+decisions.
+
+39. Spoofing (bidding or offering with the intent to cancel the bid or offer before
+execution) and manipulative or deceptive trading strategies that incorporate spoofing seek to take
+advantage of these market fundamentals and market participantsâ reactions to them. This might
+be done, for example, by placing one or more relatively large spoof orders, or a series of spoof
+
+orders, on the buy (or sell) side, which the trader intends to cancel before execution. In this
+
+11
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 12 of 29 PagelD #:1
+
+example, the trader would place these spoof buy orders to create an order book imbalance that
+would convey a false appearance that there is more interest to buy than to sell in the market, and
+thus trick other market participants into believing that a corresponding price increase is likely.
+The trader would do this with the intent to manipulate market prices and deceive other market
+participants into trading at a time, price, or quantity they otherwise would not have, in a way that
+benefits the trader. For example, in anticipation of this spoofing strategy, the trader may place
+one or more resting orders (which the trader intends to execute) on the sell side of the market,
+anticipating and intending that the traderâs spoof orders on the buy side will deceive other market
+participants into placing aggressive orders to buy, thus moving the price and allowing the
+traderâs orders to sell (which the trader intends to execute) to be executed sooner, at a better
+price, or in larger quantities than they otherwise would.
+
+VIL. DEFENDANTSâ MANIPULATIVE AND DECEPTIVE SCHEME
+
+AO. During the Relevant Period, Defendants engaged in a manipulative and deceptive
+scheme that consisted of spoofing the precious metals futures market with the intent to
+manipulate market prices to benefit their positions.
+
+A. Defendantsâ Spoofing Scheme
+
+41. Defendantsâ spoofing conduct followed a general pattern. A Defendant would
+place a relatively small resting order for precious metals futures (Sometimes an iceberg order)
+that he desired to execute (âGenuine Orderâ). Before or after entering a Genuine Order, the
+Defendant would, on the opposite side of the market, place a non-iceberg, relatively large resting
+order that he intended to cancel before execution (âSpoof Orderâ), or alternatively would rapidly
+place a series of non-iceberg resting orders that he intended to cancel before execution (âLayered
+Spoof Ordersââ). Frequently, a series of Layered Spoof Orders would include orders placed at
+
+two or more distinct price levels, and each order in the series was placed for the same number of
+
+12
+er
+
+â3
+
+cB
+
+te
+
+op
+
+-
+
+_â
+
+waa
+Fe
+
+Te
+
+â7
+
+r
+
+r
+
+lots. The Defendantâs Spoof Order or some or all of his Layered Spoof Orders would be active
+on the market at the same time as the Genuine Order. The Defendantâs Spoof Order or total
+Layered Spoof Orders would be for a greater number of lots than the visible quantity of his
+Genuine Order on the opposite side of the market, and in many instances would effect a change
+to the order book balance at the applicable number of price levels. Finally, Defendants would
+typically cancel their Spoof Orders within a few seconds of placement, and would typically
+cancel the highest bids or lowest offers placed in a given series of Layered Spoof Orders within a
+few seconds after placing them.
+
+42. A Defendantâs goal in spoofing through this pattern of trading was to manipulate
+market prices so that all or part of his Genuine Order would be filled. When a Defendant was
+successful in executing his Genuine Order, he would typically cancel his Spoof Order or his
+Layered Spoof Orders (particularly the Layered Spoof Orders that he placed closest to the best-
+bid or best-ask in the order book) quickly after his Genuine Order was filled.
+
+43. The following is a simplified explanation of how the scheme was intended to
+work, using a hypothetical example of a Genuine Order on the sell side. A Defendant would
+enter a Spoof Order on the buy side with the intent to manipulate market prices so that the
+Defendantâs Genuine Order that was resting on the sell side would be executed. Specifically, the
+Defendantâs large Spoof Order to buy would result in an increase in demand in the order book,
+which would be visible to other market participants, impacting their trading decisions. The
+Defendant intended that this Spoof Order would cause other market participants to place
+aggressive orders to buy (i.e., at a higher price than the currently resting bids in the market),
+making it more likely that the price would move so that the Defendantâs Genuine Order would be
+
+executed at the price where it was resting.
+
+13
+er
+â3
+cB
+te
+op
+-
+_â
+waa
+Fe
+Te
+â7
+r
+r
+
+44, When Defendantsâ Genuine Orders were buy orders, their Spoof Orders or
+Layered Spoof Orders were orders to sell. In placing Spoof Orders or Layered Spoof Orders to
+sell, Defendants intended to manipulate market prices so that their Genuine Orders to buy would
+be executed at the prices where they were resting. This was done by sending market participants
+a false signal of greater supply to create the impression that the price would likely decline and
+trick market participants into transacting on Defendantsâ Genuine Orders to buy at their resting
+price.
+
+45. Conversely, when Defendantsâ Genuine Orders were sell orders, their Spoof
+Orders or Layered Spoof Orders were orders to buy. In placing Spoof Orders or Layered Spoof
+Orders to buy, Defendants intended to manipulate market prices so that the Genuine Orders to
+sell would be executed at the price where they were resting. This was done by sending market
+participants a false signal of greater demand to create the impression that the price would likely
+rise and trick market participants into transacting on Defendantsâ Genuine Orders to sell at their
+resting price.
+
+46. In placing Spoof Orders and Layered Spoof Orders, Defendants falsely
+represented to market participants that they actually wanted to buy or sell the number of lots in
+Defendantsâ orders when, in reality, they did not want to do so.
+
+47. Defendants entered their Spoof Orders and Layered Spoof Orders to create a false
+impression of buying or selling interest or order book balance and result in misinformation, with
+the intent to manipulate market prices and trick market participants into trading based on
+Defendantsâ spoofing. Defendants knew that their Spoof Orders and Layered Spoof Orders
+
+would appear in the order book and that traders often considered information about order book
+
+14
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 15 of 29 PagelD #:1
+
+balance when making their trading decisions. Thus, Defendants intended that their Spoof Orders
+and Layered Spoof Orders would mislead other market participants.
+
+48. Defendantsâ spoofing scheme included the placement of thousands of Spoof
+Orders and Layered Spoof Orders with the intent to manipulate market prices so that their
+Genuine Orders would be executed at their resting price during the Relevant Period.
+
+B. Spoofing by Nowak
+
+49. Nowak supervised Bank Aâs precious metals desk in New York during the
+Relevant Period, supervising Smith and other traders.
+
+50. During the Relevant Period, Nowak spoofed in the precious metals futures
+markets, typically by placing Layered Spoof Orders.
+
+51. Nowak was also aware that other Bank A precious metals traders, including
+Smith, were spoofing as well.
+
+52. Nowak placed thousands of Spoof Orders or Layered Spoof Orders during the
+Relevant Period, which at the time of placement he intended to cancel before execution and
+intended to manipulate market prices so that his Genuine Orders would be executed at their
+resting price, including, by way of example, on the following occasions:
+
+1. May 6, 2013: Nowak Spoofs Gold Futures
+
+ 
+
+53. On May 6, 2013, at 9:01:13.122 a.m., Nowak placed a Genuine Order to buy five
+lots of the Gold Futures contract with June 2013 expiry at a price of $1,465.90 per troy ounce,
+which was the second-best bid (i.e., the second-highest bid). Approximately 1.3 seconds later,
+Nowak began entering Layered Spoof Orders on the sell side of the market with the intent to
+manipulate market prices so that his Genuine Order would be executed at its resting price.
+Beginning at 9:01:14.497, Nowak began placing a series of offers at decreasing prices. In
+
+approximately 2.5 seconds (between 9:01:14.497 and 9:01:16.903), Nowak placed twelve
+15
+Â£9
+s
+âs
+7
+7
+-
+ort
+cee,
+(2
+cones
+pee
+2
+Pa
+af
+
+distinct Layered Spoof Orders, each to sell five lots of Gold Futures. Nowak placed these orders
+at the following prices, in sequence: $1,466.70 (twice), $1,466.60, $1,466.50, $1,466.40,
+$1,466.30 (three times), $1,466.20 (twice), and $1,466.10 (twice). At 9:01:17.017âabout 100
+milliseconds after Nowak had placed his twelfth Layered Spoof Order to sellâhis five-lot
+Genuine Order to buy was fully filled. Over the next 230 milliseconds, Nowak placed two
+additional offers at a price of $1,466.00, which was at the best-ask level, and was one tick higher
+than his just-filled Genuine Order.
+
+54. Shortly thereafter, Nowak began canceling his offers. At 9:01:17.981, Nowak
+canceled his two five-lot orders with the lowest prices ($1,466.00). Over the next six seconds,
+Nowak canceled his twelve Layered Spoof Orders, starting with the lowest-priced offers and
+moving towards the highest-priced offers.
+
+55. In summary, Nowak placed one bid to buy five lots, successfully purchasing all
+five lots after that bid had rested in the market for approximately 3.9 seconds; and he placed
+fourteen offers to sell a total of seventy lots, which he intended to cancel, and which he did
+cancel without any lots being filled. At 9:01:17.017, just before his five-lot Genuine Order to
+buy was filled, Nowak had twelve active Layered Spoof Orders to sell five lots eachâa twelve-
+to-one ratio of offers to bids.
+
+56. At 9:01:17.017, the sell-side market depth on the lowest eight price levels was
+one hundred four lots, of which Nowak had offered sixty, and the buy-side market depth was
+fifty-three lots at the eight highest price levels, including Nowakâs bid for five lots. In other
+words, within eight price levels from the best bid and offer, Nowakâs orders represented 58% of
+the sell-side and just 9% of the buy-side; all traders in the market besides Nowak had 9% more
+
+bids than offers (forty-eight lots bid against forty-four lots offered); and the entire market,
+
+16
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 17 of 29 PagelD #:1
+
+including Nowakâs orders, had 96% more offers than bids (one hundred four lots offered against
+fifty-three lots bid).
+
+2. October 7, 2013: Nowak Spoofs Gold Futures
+
+ 
+
+57. On October 7, 2013, at 7:34:45.805 a.m., Nowak placed a Genuine Order to sell
+five lots of the Gold Futures contract with December 2013 expiry at a price of $1,318.70 per troy
+ounce, which was the second-best offer (1.e., the second-lowest offer). Approximately 1.9
+seconds later, Nowak began entering Layered Spoof Orders on the buy side of the market with
+the intent to manipulate market prices so that his Genuine Order would be executed at its resting
+price. Beginning at 7:34:47.758, Nowak began placing a series of bids at increasing prices. In
+approximately 2.8 seconds (between 7:34:47.758 and 7:34:50.523), Nowak entered fourteen
+distinct Layered Spoof Orders, each to buy five lots of Gold Futures. Nowak placed these orders
+at the following prices, in sequence: $1,318.00, $1,318.10, $1,318.20 (three times), $1,318.30
+(twice), $1,318.40 (three times), and $1,318.50 (four times). Less than one millisecond after
+Nowak had placed his fourteenth Layered Spoof Order to buy, his five-lot Genuine Order to sell
+was fully filled.
+
+58. About 900 milliseconds later, Nowak began canceling his resting bids. At
+7:34:5 1.429, Nowak canceled his four highest-priced bids. Over the next several seconds,
+Nowak canceled each of his ten remaining Layered Spoof Orders, starting with the highest-
+priced bids and moving towards the lowest-priced bids.
+
+59. In summary, Nowak placed one offer to sell five lots, successfully selling all five
+lots after that offer had rested in the market for 4.7 seconds; and he placed fourteen orders to buy
+a total of seventy lots, which he intended to cancel, and which he did cancel without any lots
+
+being filled. At 7:34:50.523, just before his five-lot Genuine Order to sell was filled, Nowak had
+
+17
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 18 of 29 PagelD #:1
+
+fourteen active Layered Spoof Orders to buy five lots eachâa fourteen-to-one ratio of bids to
+offers. Each of Nowakâs highest-priced bids, at $1,318.50, was canceled less than 1.6 seconds
+after being placed.
+
+60. At 7:34:50.523, the buy-side market depth at the highest six price levels was one
+hundred thirty-six lots, of which Nowak had bid seventy, and the sell-side market depth at the six
+lowest price levels was fifty-three lots, including Nowakâs five-lot offer. In other words, within
+six price levels from the best bid and offer, Nowakâs orders represented 51% of the buy-side and
+just 9% of the sell-side; all traders in the market besides Nowak had 38% more bids than offers
+(sixty-six lots bid against forty-eight lots offered); and the entire market, including Nowakâs
+orders, had 157% more bids than offers (one hundred thirty-six lots bid against fifty-three lots
+offered).
+
+3. March 3, 2014: Nowak Spoofs Gold Futures
+
+ 
+
+61. On March 3, 2014, at 8:02:17.997 a.m., Nowak placed a Genuine Order to sell
+five lots of the Gold Futures contract with April 2014 expiry at a price of $1,348.20 per troy
+ounce, which was the best-ask price. Approximately 1.3 seconds later, Nowak began entering
+Layered Spoof Orders on the buy side of the market with the intent to manipulate market prices
+so that his Genuine Order would be executed at its resting price. Beginning at 8:02:19.360,
+Nowak began placing a series of bids at increasing prices. In approximately 2.2 seconds
+(between 8:02:19.360 and 8:02:21.529), Nowak placed six distinct Layered Spoof Orders, each
+to buy five lots of Gold Futures. Nowak placed these bids at the following prices, in sequence:
+$1,347.90, $1,348.00, and $1,348.10 (four times). Less than one millisecond after Nowak had
+
+placed his sixth Layered Spoof Order to buy, his five-lot Genuine Order to sell was fully filled.
+
+18
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 19 of 29 PagelD #:1
+
+62. About 700 milliseconds later, Nowak began canceling his resting bids. At
+8:02:22.257, Nowak canceled his four highest-priced bids. Over the next three seconds, he
+canceled his two remaining Layered Spoof Orders, starting with the higher-priced bid.
+
+63. In summary, Nowak placed one offer to sell five lots, successfully selling all five
+lots after that offer had rested in the market for approximately 3.5 seconds; and he placed six
+orders to buy a total of thirty lots, which he intended to cancel, and which he did cancel without
+any lots being filled. At 8:02:21.529, just before his five-lot Genuine Order to sell was filled,
+Nowak had six active Layered Spoof Orders to buy five lots eachâa six-to-one ratio of bids to
+offers. The last of Nowakâs highest-priced bids, entered at $1,348.10, was canceled less than one
+second after being placed.
+
+64. At 8:02:21.529, the buy-side market depth at the highest three price levels was
+sixty-five lots, of which Nowak had bid thirty, and the sell-side market depth at the three lowest
+price levels was thirty-six lots, including Nowakâs five-lot offer. In other words, within three
+price levels from the best bid and offer, Nowakâs orders represented 46% of the buy-side and just
+14% of the sell-side; all traders in the market besides Nowak had 13% more bids than offers
+(thirty-five lots bid against thirty-one lots offered); and the entire market, including Nowakâs
+orders, had 81% more bids than offers (sixty-five lots bid against thirty-six lots offered).
+
+C. Spoofing by Smith
+
+65. Throughout the Relevant Period, Smith was employed as a precious metals trader
+at Bank A.
+66. During the Relevant Period, Smith spoofed in the precious metals futures markets,
+
+typically by placing Layered Spoof Orders.
+67. Smith taught other traders at Bank A and Bank B how to spoof using Layered
+
+Spoof Orders.
+19
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 20 of 29 PagelD #:1
+
+68. Smith explained to one trader at Bank A that placing spoof orders of a sufficient
+size would enable him to move the market, and instructed him to âshow sizeâ in placing spoof
+orders.
+
+69. Smith was known on Bank A and Bank Bâs precious metals desks for his ability
+to rapidly place and cancel Layered Spoof Orders.
+
+70. In July 2017, following an investigation, the COMEX Business Conduct
+Committee found that, in July and August 2013, Smithâs Gold Futures trading âemployed a
+trading strategy that consisted of frequently entering and cancelling a series of ordersâ for
+improper purposes ârather than to execute tradesââ1.e., placing and cancelling Layered Spoof
+Ordersâin violation of exchange rules against âdishonorable or uncommercial conductâ that is
+âinconsistent with just and equitable principles of trade.â
+
+71. Smith placed thousands of Spoof Orders or Layered Spoof Orders during the
+Relevant Period, which at the time of placement he intended to cancel before execution, and
+intended to manipulate market prices so that his Genuine Order would be executed at its resting
+price, including, by way of example, on the following occasions:
+
+1. January 25, 2013: Smith Spoofs Silver Futures
+
+ 
+
+72. On January 25, 2013, at 7:55:28.841 a.m., Smith placed a Genuine Order to sell
+two lots of the Silver Futures contract with March 2013 expiry at a price of $31.590 per troy
+ounce, which was the best-ask price. Approximately 0.6 seconds later, Smith began entering
+Layered Spoof Orders on the buy side of the market with the intent to manipulate market prices
+so that his Genuine Order would be executed at its resting price. Beginning at 7:55:29.473,
+Smith began placing a series of bids at increasing prices. In approximately half a second
+
+(between 7:55:29.473 and 7:55:29.985), Smith entered four distinct Layered Spoof Orders, each
+
+20
+Co
+%
+âa
+â"
+Pa
+rare
+wo
+a
+cart
+Â£ e
+tis
+ead
+hd
+y)
+snr,
+ot
+o
+_
+2
+Pa
+af
+
+to buy ten lots of Silver Futures. Smith placed these orders at the following prices, in sequence:
+$31.575, $31.580 (twice), and $31.585. Three milliseconds after Smith had placed his fourth
+Layered Spoof Order to buy, his two-lot Genuine Order to sell was fully filled. Over the next
+318 milliseconds, Smith placed two additional ten-lot bids at $31.585, which was at this time the
+second-best bid.
+
+73. Shortly thereafter, Smith began canceling his resting bids. At 7:55:30.676, Smith
+canceled his three ten-lot orders with the highest prices ($31.585). Over the next 600
+milliseconds, he canceled his three remaining Layered Spoof Orders, starting with the higher-
+priced bids.
+
+74. In summary, Smith placed one offer to sell two lots, successfully selling both lots
+after that offer had rested in the market for approximately 1.1 seconds; and he placed six bids to
+buy a total of sixty lots, which he intended to cancel, and which he did cancel without any lots
+being filled. At 7:55:29.987, just before his two-lot Genuine Order to sell was filled, Smith had
+four active Layered Spoof Orders to buy ten lots eachâa twenty-to-one ratio of offers to bids.
+Each of Smithâs highest-priced bids, at $31.585, was canceled less than 0.7 seconds after being
+placed.
+
+75. At 7:55:29.987, the buy-side market depth at the highest three price levels was
+fifty-eight lots, of which Smith had bid forty, and the sell-side market depth at the three lowest
+price levels was eighteen lots, including Smithâs two-lot offer. In other words, within three price
+levels from the best bid and offer, Smith orders represented 69% of the buy-side and just 11% of
+the sell-side; all traders in the market besides Smith had 13% more bids than offers (eighteen lots
+bid against sixteen lots offered); and the entire market, including Smithâs orders, had 222% more
+
+bids than offers (fifty-eight lots bid against eighteen lots offered).
+
+21
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 22 of 29 PagelD #:1
+
+2. May 23, 2013: Smith Spoofs Gold Futures
+
+ 
+
+76. On May 23, 2013, at 2:00:22.820 p.m., Smith placed a Genuine Order to buy two
+lots of the Gold Futures contract with June 2013 expiry at a price of $1,391.00 per troy ounce,
+which was the best-bid. Over six seconds later, Smith began entering Layered Spoof Orders on
+the sell side of the market with the intent to manipulate market prices so that his Genuine Order
+would be executed at its resting price. Beginning at 2:00:29.414, Smith began placing a series of
+offers at decreasing prices. In approximately 0.8 seconds (between 2:00:29.414 and
+2:00:30.229), Smith entered six distinct Layered Spoof Orders, each to sell ten lots of Gold
+Futures. Smith placed those offers at the following prices, in sequence: $1,391.70, $1,391.40,
+$1,391.20, and $1,391.10 (three times). At 2:00:30.282 p.m.âabout sixty milliseconds after
+Smith had placed his sixth Layered Spoof Order to sellâone lot of Smithâs two-lot bid was
+filled. One millisecond after that, the other lot of Smithâs two-lot bid was filled.
+
+77. About half a second later, at 2:00:30.792, Smith began canceling his resting
+offers, starting with the lowest-priced offers and moving toward the highest-priced offers.
+Within 0.7 seconds after his Genuine Order was fully filled, he had canceled four of his six ten-
+lot Layered Spoof Orders, and canceled the remaining two Layered Spoof Orders in the next 1.2
+seconds.
+
+78. In summary, Smith placed one bid to buy two lots, successfully purchasing both
+lots after that bid had rested in the market for approximately 7.5 seconds; and he placed six
+offers to sell a total of sixty lots, which he intended to cancel, and which he did cancel without
+any lots being filled. At 2:00:30.283, just before the second lot of his two-lot Genuine Order to
+
+buy was filled, Smith had six active Layered Spoof Orders to sell ten lots eachâa sixty-to-one
+
+22
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 23 of 29 PagelD #:1
+
+ratio of offers to bids. Each of Smithâs lowest-priced offers, at $1,391.10, was canceled less than
+0.9 seconds after being placed.
+
+79. At 2:00:30.283, the sell-side market depth at the seven lowest price levels was
+one hundred six lots, of which Smith had offered sixty, and the buy-side market depth at the
+seven highest price levels was forty-one lots, including one remaining lot of Smithâs two-lot bid.
+In other words, within seven price levels from the best bid and offer, Smithâs orders represented
+57% of the sell-side and just 2% of the buy-side; all traders in the market besides Smith had 15%
+more offers that bids (forty-six lots offered against forty lots bid); and the entire market,
+including Smithâs orders, had 159% more offers than bids (one hundred six lots offered against
+forty-one lots bid).
+
+3. June 1], 2015: Smith Spoofs Gold Futures
+
+ 
+
+80. On June 11, 2015, at 7:31:25.410 a.m., Smith placed a Genuine Order to sell ten
+lots of the Gold Futures contract with August 2015 expiry at a price of $1,177.80 per troy ounce,
+which was the best-ask price. About 0.7 seconds later, Smith began entering Layered Spoof
+Orders on the buy side of the market with the intent to manipulate market prices so that his
+Genuine Order would be executed at its resting price. Beginning at 7:31:26.144, Smith began
+placing a series of bids at increasing prices. In approximately 0.7 seconds (between 7:31:26.144
+and 7:31:26.882), Smith entered five distinct Layered Spoof Orders, each to buy ten lots of Gold
+Futures. Smith placed these orders at the following prices, in sequence: $1,177.50 (twice) and
+$1,177.60 (three times). About 0.1 seconds after Smith had placed his fifth Layered Spoof Order
+
+to buy, his ten-lot Genuine Order to sell was fully filled.
+
+23
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 24 of 29 PagelD #:1
+
+81. About 0.2 seconds later, Smith began canceling his resting bids. At 7:31.27.265,
+Smith canceled his three highest-priced bids, and at 7:31:27.441, he canceled his two remaining
+Layered Spoof Orders.
+
+82. In summary, Smith placed one offer to sell ten lots, successfully selling all ten lots
+after that offer had rested in the market for over 1.5 seconds; and he placed five orders to buy a
+total of fifty lots, which he intended to cancel, and which he did cancel without any lots being
+filled. At 7:31:27.003, just before his ten-lot Genuine Order to sell was filled, Smith had five
+active Layered Spoof Orders to buy ten lots eachâa five-to-one ratio of bids to offers. Each of
+Smithâs bids was canceled between approximately 0.4 and 1.3 seconds after being placed.
+
+83. At 7:31:27.003, the buy-side market depth at the highest three price levels was
+seventy lots, of which Smith had bid fifty, and the sell-side market depth at the three lowest price
+levels was forty-six lots, including Smithâs ten-lot offer. In other words, within three price levels
+from the best bid and offer, Smithâs orders represented 71% of the buy-side and just 22% of the
+sell-side; all traders in the market besides Smith had 80% more offers than bids (thirty-six lots
+offered against twenty lots bid); and the entire market, including Smithâs orders, had 52% more
+bids than offers (seventy lots bid against forty-six lots offered).
+
+V. VIOLATIONS OF THE ACT AND REGULATIONS
+COUNT I
+
+VIOLATIONS OF SECTION 4c(a)(5)(C) OF THE ACT, 7 U.S.C. Â§ 6c(a)(5)(C)
+(Disruptive PracticesâSpoofing)
+
+84. The allegations set forth in paragraphs | to 83 are re-alleged and incorporated
+herein by reference.
+85. By reason of the conduct described above, Defendants engaged in trading,
+
+practices, or conduct on or subject to the rules of a registered entity that is, is of the character of,
+
+24
+oo ees 4 Sw Syst SOW OPS aN a âa 7. ao ~ OPS ~ Cee FE . ~,
+i ee yg PLUS at bS wo Â¢ â¢ aay iP = y 5 oy be + A oe
+Leet bee CVU OS LOCUMe AL eG) US LOY LS pall no OF 2 Pade
+
+we
+
+or is commonly known to the trade as, âspoofingâ (bidding or offering with the intent to cancel
+the bid or offer before execution).
+
+86. In placing each Spoof Order or Layered Spoof Order, Defendants acted with the
+intent to cancel the bid or offer before execution.
+
+87. By reason of the foregoing, for conduct on or after July 16, 2011, Defendants
+violated Section 4c(a)(5)(C) of the Act, 7 U.S.C. Â§ 6c(a)(5)(C) (2012).
+
+88. Each Spoof Order or Layered Spoof Order, including but not limited to those
+specifically alleged herein, constitutes a separate and distinct violation of Section 4c(a)(5)(C) of
+the Act.
+
+COUNT TWO
+
+VIOLATIONS OF SECTION 6(c)(1) OF THE ACT, 7 U.S.C. Â§ 9(1),
+AND REGULATION 180.1(a)(1) AND (3), 17 C.F.R. Â§ 180.1(a)(1), (3)
+(Use of a Manipulative and Deceptive Device, Scheme, or Artifice)
+
+89. The allegations set forth in paragraphs | to 83 are re-alleged and incorporated
+herein by reference.
+
+90. By reason of the conduct described above, Defendants, in connection with a
+contract for future delivery on a registered entity, intentionally or recklessly: (1) used or
+employed, or attempted to use or employ, manipulative devices, schemes, or artifices to defraud;
+or (2) engaged, or attempted to engage, in acts, practices, or courses of business, which operated
+or would have operated as a fraud or deceit upon market participants.
+
+91. By reason of the foregoing, for conduct on or after August 15, 2011, Defendants
+violated Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) (2012), and Regulation 180.1(a)(1) and (3),
+
+17 CFR. Â§ 180.1(a)(1), (3) 2019).
+
+25
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 26 of 29 PagelD #:1
+
+92. In addition, each of Defendantsâ Spoof Orders and Layered Spoof Orders,
+including but not limited to those specifically alleged herein, constitutes a separate and distinct
+violation of 7 U.S.C. Â§ 9(1) and 17 C.F.R. Â§ 180.1(a)(1) and (3).
+
+COUNT THREE
+
+VIOLATIONS OF SECTION 9(a)(2) OF THE ACT, 7 U.S.C. Â§ 13(a)(2)
+(Attempted Price Manipulation)
+
+93. The allegations set forth in paragraphs | to 83 are re-alleged and incorporated
+herein by reference.
+
+94. By reason of the conduct described above, Defendants attempted to manipulate
+the price of any commodity for future delivery on or subject to the rules of any registered entity.
+
+95. By reason of the foregoing, Defendants violated Section 9(a)(2) of the Act, 7
+U.S.C. Â§ 13(a)(2) (2012).
+
+96. In addition, each of Defendantsâ Spoof Orders and Layered Spoof Orders,
+including but not limited to those specifically alleged herein, constitutes a separate and distinct
+violation of 7 U.S.C. Â§ 13(a)(2).
+
+VI. RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that this Court, as authorized by
+Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), and pursuant to its own equitable powers:
+
+A. Find that Defendants violated Sections 4c(a)(5)(C), 6(c)(1), and 9(a)(2) of the
+Act, 7 U.S.C. Â§Â§ 6c(a)(5)(C), 9C1), 13(a)(2) (2012), and Regulation 180.1(a)(1) and (3), 17
+C.F.R. Â§ 180.1(a)(1), (3) (2019);
+
+B. Enter an order of permanent injunction restraining and enjoining Defendants and
+any of their affiliates, agents, servants, employees, successors, assigns, attorneys, and persons in
+
+active concert with Defendants who receive actual notice of such order by personal service or
+
+26
+er
+
+â3
+
+cB
+
+fe
+
+Sip
+
+-
+
+_â
+
+whe
+Fe
+
+teh
+
+â7
+
+r
+
+r
+
+otherwise, from engaging in any trading, practice, or conduct on or subject to the rules of a
+registered entity that is, is of the character, or is commonly known to the trade as âspoofingâ
+(bidding or offering with the intent to cancel the bid or offer before execution) in violation of
+7 U.S.C. Â§ 6c(a)(5)(C), from intentionally or recklessly using or employing, or attempting to use
+or employ, any manipulative devices, contrivances, and artifices to defraud in connection with
+contracts of sale of commodities for future delivery on or subject to the rules of a registered
+entity in violation of 7 U.S.C. Â§ 9(1) and 17 C.F.R. Â§ 180.1, and from attempting to manipulate
+the price of any commodity for future delivery on or subject to the rules of any registered entity
+in violation of 7 U.S.C. Â§ 13(a)(2);
+
+C. Enter an order permanently enjoining Defendants and any of their affiliates,
+agents, servants, employees, successors, assigns, attorneys, and persons in active concert with
+Defendants, from directly or indirectly:
+
+1. Trading on or subject to the rules of any registered entity (as that term is
+defined in Section 1a(40) of the Act, 7 U.S.C. Â§ 1a(40) (2012));
+
+2. Entering into any transactions involving âcommodity interestsâ (as that term is
+defined in Regulation 1.3, 17 C.F.R. Â§ 1.3 (2019)), for their own personal
+accounts or for any account in which they have a direct or indirect interest;
+
+3. Having any commodity interests traded on their behalf;
+
+4. Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account involving
+commodity interests;
+
+5. Soliciting, receiving, or accepting any funds from any person for the purpose
+of purchasing or selling any commodity interests;
+
+6. Applying for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the Commission, except
+as provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2019);
+and
+
+27
+7. Acting as a principal (as that term is defined in Regulation 3.1(a), 17
+
+C.F.R. Â§ 3.1(a) (2019)), agent, or any other officer or employee of any
+person registered, exempted from registration, or required to be registered
+with the Commission except as provided for in 17 C.F.R. Â§ 4.14(a)Q);
+
+D. Enter an order directing Defendants, as well as any third-party transferee and/or
+successors thereof, to disgorge, pursuant to such procedure as the Court may order, all benefits
+received including, but not limited to, salaries, commissions, loans, fees, revenues, and trading
+profits derived, directly or indirectly, from acts or practices which constitute violations of the Act
+and Regulations as described herein, including pre-judgment and post-judgment interest;
+
+E. Enter an order requiring Defendants, as well as any successors thereof, to make
+full restitution to every person who has sustained losses proximately caused by the violations
+described herein, including pre-judgment and post-judgment interest;
+
+F, Enter an order directing Defendants to pay civil monetary penalties to be assessed
+by the Court, in an amount not to exceed the penalty prescribed by Section 6c(d)(1) of the Act, 7
+U.S.C. Â§ 13a-1(d)(1) (2012), as adjusted for inflation pursuant to the Federal Civil Penalties
+Inflation Adjustment Act Improvements Act of 2015, Pub. L. 114-74, tit. VII, Â§ 701, 129 Stat.
+584, 599-600, see Regulation 143.8, 17 C.F.R. Â§ 143.8 (2019), for each violation of the Act, as
+described herein;
+
+G. An order requiring Defendants to pay costs and fees as permitted by 28 U.S.C.
+
+Â§Â§ 1920 and 2412(a)(2) (2012); and
+H. An order providing such other and further relief as this Court may deem necessary
+
+and appropriate under the circumstances.
+
+28
+Case: 1:19-cv-06163 Document #: 1 Filed: 09/16/19 Page 29 of 29 PagelD #:1
+
+Dated: September 16, 2019
+
+Respectfully submitted,
+
+PLAINTIFF COMMODITY FUTURES TRADING
+COMMISSION
+
+/s/ Jon J. Kramer
+Jon J. Kramer
+
+ 
+
+140 Broadway, 19" Floor
+New York, NY 10005
+
+Mark A. Picard, pro hac vice pending
+Trial Attorney
+
+Email: mpicard @cftc.gov
+Phone: 646-746-9763
+
+David C. Newman, pro hac vice pending
+Trial Attorney
+
+Email: dnewman @cftc.gov
+
+Phone: 646-746-9740
+
+ 
+
+Steven I. Ringer, pro hac vice pending
+Chief Trial Attorney
+
+Email: sringer@cftc.gov
+Phone: 646-746-9760
+
+Manal M. Sultan, pro hac vice pending
+Deputy Director
+
+Email: msultan@cftc.gov
+Phone: 646-746-9761
+
+525 W. Monroe Street, Suite 1100
+Chicago, IL 60661
+
+Jon J. Kramer (Local Counsel)
+Trial Attorney
+Illinois ARDC #6272560
+
+Email: jkramer@cftc.gov
+Phone: 312-596-0563
+
+29

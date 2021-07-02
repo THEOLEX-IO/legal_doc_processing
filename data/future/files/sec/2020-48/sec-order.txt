@@ -1,0 +1,360 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 88303 / February 28, 2020
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4118 / February 28, 2020
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-19718
+
+ 
+
+In the Matter of ORDER INSTITUTING CEASE-AND-
+DESIST PROCEEDINGS PURSUANT TO
+Cardinal Health, Inc. SECTION 21C OF THE SECURITIES
+EXCHANGE ACT OF 1934, MAKING
+Respondent. FINDINGS, AND IMPOSING A CEASE-
+
+AND-DESIST ORDER
+
+ 
+
+ 
+
+I.
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (âExchange Actâ), against Cardinal Health, Inc. (âCardinalâ or
+Respondentâ).
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferââ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commissionâs jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (âOrderââ), as set forth below.
+Il.
+
+On the basis of this Order and Respondentâs Offer, the Commission finds! that:
+Summary
+
+1. These proceedings arise out of Cardinalâs violations of the internal accounting
+controls and recordkeeping provisions of the Foreign Corrupt Practices Act of 1977 (the
+âFCPAâ) through the operations of its former subsidiary in China.
+
+2. In November 2010, Cardinal entered the Chinese market by acquiring the
+Chinese subsidiaries of an established pharmaceutical distribution company. Cardinal
+rebranded the acquired entities as âCardinal Chinaâ after the acquisition. Prior to the
+acquisition, the pharmaceutical distribution company had longstanding distribution agreements
+with a number of global manufacturers of prescription medications, medical devices, and
+consumer health products.
+
+3. In addition to its role as a distributor for the products sold by its business partners,
+Cardinal China also operated and maintained on its own books, financial accounts that certain
+distribution customers used to fund their operations and marketing efforts in China. These
+accounts largely consisted of excess distribution margin that Cardinal China generated from
+distributing customersâ products, and Cardinal China was obligated to return these funds to the
+customers in accordance with its contractual agreements. Cardinal China authorized and made
+payments from these marketing accounts as directed by the employees of its distribution
+customers.
+
+4. After it was acquired by Cardinal, Cardinal China terminated most of the
+marketing accounts due in part to known FCPA-related compliance risks associated with
+channeling the marketing expenses of third parties through its own books and records. But
+despite these risks, until 2016, Cardinal China maintained and operated marketing accounts
+for a European supplier of non-prescription, over-the-counter dermocosmetic products for
+which Cardinal China served as the exclusive product distributor in China.
+
+5. In addition to maintaining and operating marketing accounts for the
+dermocosmetic company, Cardinal China also formally employed approximately 2,400
+employees for the dermocosmetic company pursuant to an administrative and HR services
+agreement. The 2,400 employees reported to the dermocosmetic company, and while Cardinal
+China administratively managed the employees pursuant to its contractual agreement, it did not
+supervise their day-to-day activities. Most of these employees were beauty assistants and
+supervisors, who worked in retail stores and interacted with individual consumers. The remaining
+approximately 100 employees were sales, marketing, management, and back office employees.
+The sales and marketing employees were responsible for marketing and selling the
+
+ 
+
+' The findings herein are made pursuant to Respondentâs Offer of Settlement and are not binding on any other person
+or entity in this or any other proceeding.
+dermocosmetic companyâs products in China, and regularly drew down funds from the marketing
+accounts to pay third parties for marketing-related expenses.
+
+6. Although Cardinal determined that other marketing accounts should be
+terminated because of their significant FCPA-related compliance risks, Cardinal
+inaccurately assessed the risks of the arrangements with the dermocosmetic company as
+minimal. Cardinal thus did not apply its full internal accounting controls to these accounts, or
+to the conduct of the marketing employees Cardinal China employed for the company.
+Cardinal China regularly authorized and made payments from the marketing accounts at the
+direction of the dermocosmetic company without controls sufficient to provide reasonable
+assurance that the transactions were executed in accordance with managementâs general or
+specific authorization, and failed accurately to record on its books and records payments made
+from the accounts.
+
+7. In 2016, Cardinal China learned that the marketing employees and the
+dermocosmetic company had hidden the purpose of certain purported marketing payments,
+which were redirected to healthcare professionals who provided marketing services to the
+dermocosmetic company, and to other employees of state-owned retail entities who had
+influence over purchasing decisions related to the dermocosmetic companyâs products. Upon
+learning of the misconduct, Cardinal and Cardinal China took action to cease these payments in
+2016.
+
+8. Cardinal benefitted from its arrangement with the dermocosmetic company.
+As the companyâs exclusive distributor in China, Cardinal China directly profited from the
+distribution, administrative, and HR services it provided to the dermocosmetic company, and
+Cardinal was unjustly enriched by approximately $5,400,000 between March 1, 2013, and
+December 31, 2016, as a result of its deficient internal accounting controls relating to the
+marketing accounts.
+
+Respondent
+
+9. Cardinal is a global, integrated healthcare services and products company,
+incorporated and headquartered in Ohio, specializing in the distribution of pharmaceuticals and
+other medical products. Cardinalâs common stock is registered with the Commission pursuant to
+Section 12(b) of the Exchange Act, and trades on the New York Stock Exchange. Cardinal
+operates in forty-six countries and has over 50,000 employees worldwide.
+
+10. Between November 2010 and February 2018, Cardinal China was owned and
+controlled by Cardinal, and distributed pharmaceuticals, medical devices, and consumer health
+products into the Chinese market. Cardinal Chinaâs books and records were consolidated into
+Cardinalâs financial statements.
+Facts
+
+ 
+
+Cardinal China Failed to Implement Sufficient Controls Over Marketing Accounts it
+Administered and Marketing Employees that it Hired on Behalf of a Customer
+
+11. Between 2010 and 2016, Cardinal China acted as the exclusive distributor in the
+Chinese market for a large European dermocosmetic company. As part of its commercial
+agreement with the company, Cardinal China administered marketing accounts on the
+companyâs behalf. As part of an administrative and HR service agreement with the
+dermocosmetic company, Cardinal Health also retained approximately 2,400 employees on the
+companyâs behalf. Most of these employees were beauty assistants and supervisors, who worked
+in retail stores and interacted with individual consumers. The remaining approximately 100
+employees were sales, marketing, management and back office employees. The sales and
+marketing employees were responsible for promoting the sale of the dermocosmetic companyâs
+products and interacted with employees of state-owned hospitals and retailers.
+
+12. Although the marketing employees were managed day-to-day by, and reported to
+the dermocosmetic company, Cardinal China entered into employment contracts with the
+marketing employees, administered their payroll, and assumed other human resource and
+administrative functions for them. Because Cardinal China received a distribution margin
+from the sales of the dermocosmetic companyâs products, Cardinal China profited from the
+marketing employeesâ successful marketing efforts, including through improper payments made
+from the marketing accounts.
+
+13. Despite these facts, Cardinal assessed the risk of the arrangements with the
+dermocosmetic company as minimal, and as a result, Cardinal China did not subject the
+marketing employees, who it employed on behalf of the dermocosmetic company, to its full
+internal accounting controls, such as providing FCPA and anti-bribery training, or providing any
+oversight of their interactions with third parties in China. In addition, as Cardinal China knew
+from its business arrangement with the dermocosmetic company, a large portion of the marketing
+employees conducted some of their business using e-mail accounts and computer systems that
+belonged to the dermocosmetic company and were inaccessible to Cardinalâs and Cardinal
+Chinaâs compliance personnel, and Cardinal China had no ability to review the full scope of the
+marketing employeesâ activities.
+
+14. From at least March 2013 through December 2016, Cardinal failed to apply
+sufficient internal accounting controls to the marketing employees and the marketing accounts.
+For example, Cardinal China executed payments requested by the marketing employees without
+requiring sufficient supporting documentation to verify the purpose of the transactions. Over the
+four-year period from 2013 through 2016, Cardinal China authorized and paid more than $250
+million from the marketing accounts, but had insufficient policies and procedures in place
+concerning the payments.
+
+15. Without the authorization of Cardinalâs management, Cardinal China, at the
+request of the marketing employees, regularly made payments from the marketing accounts that
+were improperly redirected to government-employed healthcare providers and employees of
+Chinese state-owned retailers to promote the sale of the dermocosmetic companyâs products.
+The improper payments took varied forms, including cash, luxury goods, gift cards, and travel.
+
+16. Due to Cardinalâs insufficient internal accounting controls, the marketing
+employees were able to easily disguise these payments by channeling funds through complicit
+third-party vendors and by characterizing transactions with healthcare providers as payments to
+printing companies for âproduction fees,â and they were also reimbursed for high-value gifts
+based on falsified or incomplete documentation.
+
+Cardinal Did Not Properly Evaluate Red Flags and Failed to Resolve Known
+Internal Control Deficiencies
+
+17. At the time that it operated the marketing accounts on behalf of the
+dermocosmetic company, Cardinal and Cardinal China were aware of the compliance risks posed
+by marketing accounts in China.
+
+18. Shortly after it acquired Cardinal China in November 2010, Cardinal determined
+that Cardinal Chinaâs practice of administering marketing accounts for its suppliers created
+excessive FCPA-compliance risks because the accounts could be used by suppliers to facilitate
+sutreptitious payments to government officials without Cardinal Chinaâs knowledge. By July
+2011, Cardinal directed Cardinal China to wind down all of its pharmaceutical marketing
+accounts due to these risks. Nevertheless, Cardinal China continued to administer marketing
+accounts for certain large suppliers for several years.
+
+19. After it was acquired by Cardinal, on at least two occasions, Cardinal China
+abruptly terminated third-party marketing accounts amid allegations that they had been used
+to facilitate improper payments:
+
+e Cardinal China terminated a marketing account it administered for an
+Italian pharmaceutical manufacturer after receiving an internal report in 2012
+that Chinese authorities had fined the Chinese subsidiary of the Italian
+pharmaceutical manufacturer for violating Chinaâs Pharmaceutical
+Administration Law by providing certain benefits to hospitals.
+
+e Cardinal China terminated a marketing account it administered for a U.K.-
+based pharmaceutical manufacturer after Cardinalâs CEO received an internal
+report in 2013 alleging that Cardinal China employees were using the account
+to bribe employees of Chinaâs Center for Disease Control.
+
+20. Despite these events, Cardinal failed to assess whether Cardinal China followed its
+instruction to wind down the pharmaceutical marketing accounts, or implement stricter controls to
+reduce the compliance risks for the marketing accounts that it administered for the dermocosmetic
+company.
+
+21. In December 2012, Cardinal received a report from a Cardinal China employee
+raising questions about the legality of the marketing accounts and the marketing employees. The
+report recommended that Cardinal China hire an external auditor to assess its business
+arrangement with the dermocosmetic company. In response to the 2012 report, neither Cardinal
+nor Cardinal China took sufficient steps to enhance their compliance practices concerning the
+marketing accounts or the marketing employees.
+
+22. In September 2014, Cardinal China was fined by the Shanghai Administration of
+Industry and Commerce (âAICâ) for providing luxury dermocosmetic products to employees of a
+Chinese retailer equal to a percentage of the retailerâs sales of the dermocosmetic companyâs
+products. The AIC found that Cardinal China had provided a âsecret commissionâ to employees
+of the retailer in violation of Chinese unfair competition law. Cardinal China had engaged in the
+practice at the request of the dermocosmetic company, and the products were funded by the
+marketing accounts that Cardinal China administered on behalf of the dermocosmetic company.
+Cardinal and Cardinal China, again, failed to sufficiently enhance the supervision of the
+marketing employees and oversight of the marketing accounts.
+
+23. In July 2015, after discovering that the marketing employees had recently used
+the marketing accounts to purchase smart phones for undisclosed reasons, Cardinal Chinaâs Vice
+President of Compliance emailed a colleague, copying Cardinal Chinaâs President,
+acknowledging that the dermocosmetic company was unlikely to allow Cardinal China to
+implement its standard compliance protocols to the marketing employees, and observing that this
+gap in controls had created an âenormous compliance riskâ for Cardinal China. Another Cardinal
+China employee highlighted that, âThis is a big exposure indeed as we have no control [over]
+how [the marketing employees] may be gifting and spending on entertaining.â Neither Cardinal
+nor Cardinal China took steps to enhance the controls associated with the marketing account or
+marketing employees until 2016.
+
+24. As a result of the conduct described above, Cardinal violated Sections 13(b)(2)(A)
+and 13(b)(2)(B) of the Exchange Act. Cardinal violated Section 13(b)(2)(A), which requires
+every issuer with a class of securities registered pursuant to Exchange Act Section 12 to make and
+keep books, records and accounts, which, in reasonable detail, accurately and fairly reflect the
+transactions and disposition of the assets of the issuer. Cardinal also violated Section 13(b)(2)(B)
+of the Exchange Act, which requires every issuer with a class of securities registered pursuant
+to Exchange Act Section 12 to devise and maintain a system of internal accounting controls
+sufficient to provide reasonable assurances that (1) transactions are executed in accordance with
+managementâs general or specific authorization; (ii) transactions are recorded as necessary (1)
+to permit preparation of financial statements in conformity with generally accepted accounting
+principles or any other criteria applicable to such statements, and (II) to maintain accountability
+for assets; (111) access to assets 1s permitted only in accordance with managementâs general or
+specific authorization; and (iv) the recorded accountability for assets is compared with the
+existing assets at reasonable intervals and appropriate action is taken with respect to any
+differences.
+
+25. Cardinal China directly profited from the distribution, administrative, and HR
+services it provided to the dermocosmetic company, and Cardinal was unjustly enriched by
+approximately $5,400,000 between March 1, 2013, and December 31, 2016.
+Cardinalâs Self-Disclosure, Cooperation, and Remedial Efforts
+
+26. In determining to accept the Offer, the Commission considered Cardinalâs
+self-disclosure, cooperation, and remedial efforts.
+
+27. In May to June 2016, Cardinal China compliance conducted an audit of the
+marketing accountâs expenses, which identified evidence that payments from the marketing
+accounts did not comply with Cardinal Chinaâs compliance policy requirements. Also, in
+June 2016, Cardinal executives in the United States received an internal report stating that
+the marketing employees were using the marketing accounts to channel payments to
+government officials in China.
+
+28. In December 2016, Cardinal voluntarily disclosed the results of its
+investigation to the Commission staff and subsequently cooperated with its investigation.
+
+29. Cardinal China also undertook significant remedial measures, including
+terminating the marketing accounts and its employment contracts with the marketing
+employees, adding anti-bribery representations and obligations to the relevant contracts, and
+strictly limiting the use of the remaining balance of the dermocosmetic companyâs funds to
+low-risk expenses, such as salary payments, with robust controls and monitoring from
+Cardinal Chinaâs legal and compliance personnel.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent Cardinalâs Offer.
+
+Accordingly, it is hereby ORDERED that:
+
+A. Pursuant to Section 21C of the Exchange Act, Respondent Cardinal cease and
+desist from committing or causing any violations and any future violations of Sections 13(b)(2)(A)
+and 13(b)(2)(B) of the Exchange Act.
+
+B. Respondent Cardinal shall, within ten days of the entry of this Order, pay
+disgorgement of $5,400,000 and prejudgment interest of $916,887 to the Securities and Exchange
+Commission for transfer to the general fund of the United States Treasury, subject to Exchange
+Act Section 21F(g)(3). If timely payment is not made, additional interest shall accrue pursuant to
+SEC Rule of Practice 600.
+
+C. Respondent Cardinal shall, within ten days of the entry of this Order, pay a civil
+money penalty in the amount of $2,500,000 to the Securities and Exchange Commission for
+transfer to the general fund of the United States Treasury, subject to Exchange Act Section
+21F(g)@G). If ttmely payment is not made, additional interest shall accrue pursuant to 31 U.S.C.
+Â§ 3717.
+
+Payment must be made in one of the following ways:
+(1) Respondent may transmit payment electronically to the Commission,
+which will provide detailed ACH transfer/Fedwire instructions upon
+request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm;
+or
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying
+Cardinal Health, Inc. as a Respondent in these proceedings, and the file number of these
+proceedings; a copy of the cover letter and check or money order must be sent to Anita Bandy,
+Associate Director, Division of Enforcement, Securities and Exchange Commission, 100 F St.,
+NE, Washington, DC 20549.
+
+D. Amounts ordered to be paid as civil money penalties pursuant to this Order shall
+be treated as penalties paid to the government for all purposes, including all tax purposes. To
+preserve the deterrent effect of the civil penalty, Respondent agrees that in any Related Investor
+Action, it shall not argue that it is entitled to, nor shall it benefit by, offset or reduction of any
+award of compensatory damages by the amount of any part of Respondentâs payment of a civil
+penalty in this action (âPenalty Offsetâ). If the court in any Related Investor Action grants such
+a Penalty Offset, Respondent agrees that it shall, within thirty days after entry of a final order
+granting the Penalty Offset, notify the Commissionâs counsel in this action and pay the amount
+of the Penalty Offset to the Securities and Exchange Commission. Such a payment shall not be
+deemed an additional civil penalty and shall not be deemed to change the amount of the civil
+penalty imposed in this proceeding. For purposes of this paragraph, a âRelated Investor Action"
+means a private damages action brought against Respondent by or on behalf of one or more
+investors based on substantially the same facts as alleged in the Order instituted by the
+Commission in this proceeding.
+
+By the Commission.
+
+Vanessa A. Countryman
+Secretary

@@ -1,0 +1,803 @@
+Case 1:17-cr-00544-NGG Document1 Filed 10/05/17 Page 1 of 21 PagelD #: 1
+
+JMK:DCP/JPM/JPL
+F. #2012R01716
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+
+ 
+
+Xx
+UNITED STATES OF AMERICA IND Le iM EN 4 "7 5 4 4
+
+ 
+
+- against - Cr. No.
+(T. 15, U.S.C., Â§Â§ 80b-6, 80b-14 and 80b-17;
+MICHAEL LESLIE COHEN, T. 18, U.S.C., Â§Â§ 371, 981(a)(1)(C),
+1001(a)(2), 1343, 1349, 1512(c)(2), 1512(k), 2
+Defendant. and 3551 et seq.; T. 21, U.S.C., Â§ 853(p); T.
+
+28, U.S.C., Â§ 2461(c))
+
+DeARCY HALL, J.
+
+THE GRAND JURY CHARGES:
+
+At all times relevant to this Indictment, unless otherwise stated: GOLD, Me.
+1. Summary
+
+1. The defendant MICHAEL LESLIE COHEN was a United States citizen
+who resided in London, England. COHEN was the head of the European office of publicly
+traded hedge fund Och-Ziff Capital Management Group LLC (âOch-Ziffâ), and was responsible
+for overseeing Och-Ziffâs investments in Europe, the Middle East and Africa. COHEN was also
+an Executive Managing Director and a member of the partnership management committee of
+Och-Ziff. COHEN was an âinvestment adviserâ and a âperson associated with an investment
+adviser,â as those terms are used in Title 15, United States Code, Section 80b-2(a)(1 1) and
+(a)(17), respectively, and therefore owed his clients a fiduciary duty. In connection with his
+employment at Och-Ziff, COHEN was also responsible for avoiding both actual and apparent
+conflicts of interests between his personal interests and the interests of Och-Ziff and its
+subsidiary and affiliated entities, and for disclosing any potential conflicts of interest to Och-Ziff
+
+legal personnel.
+2. The âCharitable Foundation,â an entity the identity of which is known to
+the Grand Jury, was a United Kingdom based charitable organization and investor. The
+defendant MICHAEL LESLIE COHEN and Och-Ziff and its affiliate entities including âOZ
+Management LPâ provided investment advice and management services to the Charitable
+Foundation.
+
+3. Beginning in or about November 2010, as part of obtaining the Charitable
+Foundationâs consent to purchase stock shares in a company called Strata Limited (âStrataâ), the
+defendant MICHAEL LESLIE COHEN, along with others, made material misrepresentations
+and omissions to the Charitable Foundation concerning conflicts of interest and self-dealing that
+existed with the transaction, including: (a) failing to disclose that one of the proposed sellers of
+Strata shares, Co-Conspirator #1 (ââCC-1ââ), an individual whose identity is known to the Grand
+Jury, owed COHEN $18 million and was planning to use proceeds from the sale of the Strata
+shares to repay COHEN $4 million; (b) concealing the identity of another proposed seller of
+Strata shares, Co-Conspirator #2 (ââCC-2â), an individual whose identity is known to the Grand
+Jury, because CC-2, like COHEN, was a ârelated partyâ and thus had a conflict of interest in the
+transaction; and (c) failing to disclose that COHEN had recently sold back to a third proposed
+seller of Strata shares, âJohn Doe,â an individual whose identity is known to the Grand Jury,
+certain Strata shares while understanding that those same shares would be re-sold as part of the
+transaction.
+
+4, In or about March 2012, the defendant MICHAEL LESLIE COHEN
+learned that the U.S. Securities and Exchange Commission (âSECâ), an agency of the United
+States, had served a subpoena on Och-Ziff requiring the production of materials related to,
+
+among other subject matters, CC-1. To continue hiding the scheme and self-dealing, and to
+explain the fact that CC-1 had repaid him $4 million on a personal loan immediately after
+receiving the proceeds of the Strata stock sale, COHEN caused CC-1 to create a fake letter,
+backdated to before the sale, which falsely represented that CC-1 would not use any proceeds
+from the sale to repay his personal loan to COHEN (the âBackdated Letterâ). In or about May
+2013, COHEN made materially false statements about the Backdated Letter to law enforcement
+agents of the Federal Bureau of Investigation (âFBIâ) and the Internal Revenue Service (âIRSâ)
+and an attorney for the SEC, including that COHEN did not know that the letter was backdated
+and that he had received the letter prior to the Strata stock transaction.
+IL. Investment Adviser and Wire Fraud Schemes
+
+A. Och-Ziffâs Status as a Registered Investment Adviser
+
+5. Och-Ziff had its headquarters in New York, New York, and its shares
+
+were listed on the New York Stock Exchange. Och-Ziff provided asset management services
+for individual hedge funds and alternative investment vehicles (the âOch-Ziff Hedge Fundsâ) in
+return for management fees and incentive income. Investments by outside investors (also called
+limited partners) into the Och-Ziff Hedge Funds were approved by Och-Ziff personnel in New
+York; significant private investments made by the Och-Ziff Hedge Funds were vetted and
+approved by personnel in New York; and all expenses incurred by any entity within Och-Ziff
+had to be approved by personnel in New York prior to being paid. All Och-Ziff external e-mails
+sent or received were routed through the Eastern District of New York, including those sent or
+received by employees based in Och-Ziffâs London, England office. Internal e-mails between
+Och-Ziff employees based in London and New York were also routed through the Eastern
+
+District of New York.
+6. OZ Management LP, a subsidiary of Och-Ziff, was a registered investment
+adviser. As a registered investment adviser, OZ Management LP was required to file a form to
+register itself as an investment adviser (ââForm-ADVâ), and amendments to the Form-ADV, with
+the SEC. On or about and between March 30, 2007 and March 31, 2011, the defendant
+MICHAEL LESLIE COHEN was listed in multiple Forms-ADV filed by OZ Management LP
+with the SEC under the schedule of owners and executive officers of OZ Management LP.
+
+B. COHEN Solicited the Charitable Foundation to Invest in a Joint Venture
+Focused on Africa
+
+7. In or about January 2008, Och-Ziff publicly announced that it had created
+a joint venture company called Africa Management Limited (âAMLâ) with two South African
+business partners for the purpose of investing in African mining, oil and mineral concessions.
+Beginning on or about March 31, 2008, OZ Management LP listed AML as an affiliated
+investment adviser on its Form-ADV filed with the SEC. Internal AML documents demonstrate
+that the defendant MICHAEL LESLIE COHEN was a director of AML between at least on or
+about October 29, 2008 and July 2, 2012.
+
+8. AML established two investment funds that it managed and advised; the
+first fund was named African Global Capital, LP (âAGC Iâ) and the second fund was named
+African Global Capital II, LP (âAGC IIâ). AGC II was open to investments by outside
+investors, such as the Charitable Foundation. OZ Management LP recognized investments
+made into AGC II as part of OZ Management LPâs assets under management, and AGC I and
+AGC II were part of Och-Ziffâs strategy to grow its assets under management after its initial
+public offering. Och-Ziffâs approval was required for all investments by AGC I and AGC II,
+both of which relied upon Och-Ziffâs legal and compliance functions to perform due diligence,
+provide legal advice and document transactions. AML also relied upon the expertise of Och-
+
+4
+Ziff personnel to evaluate the commercial terms of proposed transactions and to manage AGC I
+and AGC II investments.
+
+9. The defendant MICHAEL LESLIE COHEN also directly marketed
+AGC II to other prospective investors through meetings and presentations, including in the
+United States. In or about and between May 2008 and October 2008, Och-Ziff, COHEN and
+others solicited the Charitable Foundation to make a large investment in AGC II. In connection
+with soliciting the Charitable Foundation, on or about June 17, 2008, Och-Ziffâs investor
+relations department in New York sent marketing materials for AGC II by e-mail to the
+Charitable Foundation. The marketing materials referenced OZ Management LPâs status as an
+SEC-registered investment adviser, touted Och-Ziffâs âglobal investment management expertiseâ
+and highlighted the participation of key Och-Ziff personnel in AGC II, including COHEN and
+senior Och-Ziff employees based in New York. In addition, Och-Ziff also provided the
+Charitable Foundation with a portion of the Form-ADV, which the SEC required investment
+advisers to provide to clients and potential clients during solicitations.
+
+10. Prior to the Charitable Foundationâs investment in AGC II, the defendant
+MICHAEL LESLIE COHEN represented to the Charitable Foundation, in sum and substance
+and in part, that: (a) Och-Ziffâs status as an SEC-registered company meant that AGC II would
+comply with the requirements of U.S. law, including the Foreign Corrupt Practices Act; and (b)
+Och-Ziff personnel would be responsible for ensuring AGC IIâs compliance with relevant laws
+and providing protection against the corruption risks inherent in mining and mineral transactions
+in Africa. In its interactions with COHEN and Och-Ziff during the solicitation process, the
+Charitable Foundation indicated that Och-Ziffâs control of AGC II was important to the
+
+Charitable Foundationâs consideration of a potential investment in AGC II. Also in connection
+with the solicitation of its investment in AGC II, the Charitable Trust agreed to âunconditionally
+waive any objection to the laying of venue and consent to submit to the non-exclusive
+jurisdiction of the courts of the State of New York and of the United States of America located in
+the city of New York for any actions, suits or proceedings arising out of or relating to [the
+confidentiality agreement] and the transactions contemplated hereby[.]â
+
+11. Onor about October 1, 2008, the Charitable Foundation agreed to invest
+in AGC II as a limited partner. The Charitable Foundation committed to invest up to $200
+million in capital into AGC II, which would be used to fund future investments by AGC II. The
+Charitable Foundation made arrangements with Och-Ziff to allow the Charitable Foundation to
+reallocate its holdings with other Och-Ziff managed investments in order to fund capital calls for
+AGC II. That same day, certain Och-Ziff partners, including multiple U.S. citizens, also
+committed to invest up to $200 million in AGC II through a limited partner company (the âOZ
+Partner Companyâ).
+
+12. Pursuant to the agreements executed by the Charitable Foundation to
+invest in AGC II, related party transactions required the consent of an advisory committee
+(âAdvisory Committeeâ), which consisted solely of a representative from the Charitable
+Foundation. Under its agreements with the Charitable Foundation, the managing partner of
+AGC II was required to inform the Charitable Foundation of any conflicts of interest that arose
+from proposed transactions and to obtain an executed Advisory Committee consent form waiving
+those conflicts. Many of the functions of the managing partner were carried out by employees
+of Och-Ziff, including, among others, the defendant MICHAEL LESLIE COHEN. The
+Charitable Foundation relied on information, including investment memoranda, prepared and
+
+sent by Och-Ziff and its employees, including COHEN.
+C. COHENâs Interest in CC-1âs Shares of Strata Stock
+
+13. In or about December 2008, the defendant MICHAEL LESLIE COHEN
+loaned $18 million to CC-1 to allow CC-1 to make a financing payment on a personal luxury
+yacht. The loan was eventually secured, in part, by CC-1âs interest in Strata shares.
+Specifically, CC-1 gave COHEN the right to control certain shares of Strata that CC-1 owned.
+
+14. In or about November 2010, CC-1 was delinquent on repaying the
+defendant MICHAEL LESLIE COHEN the $18 million personal loan related to the yacht.
+CC-1 and COHEN therefore agreed that CC-1 would make a $4 million payment to COHEN on
+or before December 31, 2010. To make that payment, CC-1 would sell his/her Strata shares to
+AGC II and provide $4 million of the sale proceeds to COHEN.
+
+D. COHENâs Concealment of CC-2âs Identity as a Proposed Seller
+of Shares of Strata
+
+15. CC-2 was a South African national who exercised a management role in
+AGC II through an entity CC-2 controlled. CC-2 also owned shares of Strata as of in or about
+October 2010, and sought to sell a portion of those shares to AGC II in order to make a profit.
+
+16. On or about December 9, 2010, the defendant MICHAEL LESLIE
+COHEN wrote an e-mail to a London based Och Ziff employee, Co-Conspirator #3 (âCC-3â), an
+individual whose identity is known to the Grand Jury, in which he acknowledged that the
+Charitable Foundation would not approve the sale of shares of Strata by CC-2 to AGC II.
+COHEN therefore proposed to have CC-1 sell CC-2âs shares of Strata to AGC II and agreed to
+
+conceal CC-2âs interest in the transaction.
+E, COHENâs Interest in John Doeâs Shares of Strata
+
+17. In or around November 2009, the defendant MICHAEL LESLIE COHEN
+purchased 932.8 shares of Strata from John Doe for approximately Great British Pounds
+(âGBPâ) Â£971,000.
+
+18. | Onor about November 23, 2010, the defendant MICHAEL LESLIE
+| COHEN sent an e-mail to John Doe attaching a proposed share purchase agreement regarding
+the 932.8 shares of Strata. Pursuant to the agreement between COHEN and John Doe, COHEN
+agreed to sell back to John Doe the 932.8 shares of Strata. That same day, COHEN also
+received a dividend from Strata in the amount of GBP Â£202,417.60. Thereafter, John Doe sold
+the same 932.8 shares of Strata to AGC II.
+
+F, COHEN Fraudulently Induced the Charitable Foundation to Consent
+to AGC IIâs Purchase of Shares of Strata
+
+19. The defendant MICHAEL LESLIE COHEN arranged for AGC II to
+purchase up to ten percent of the shares in Strata by purchasing Strata shares from CC-1, CC-2
+and John Doe.
+
+20. Onor about December 16, 2010, as part of obtaining the required conflict
+waiver from the Charitable Foundation, CC-3 sent an e-mail from his Och-Ziff e-mail address to
+the Charitable Foundation attaching an investment proposal memorandum and an AGC II
+Advisory Committee consent form for the Strata transaction. The investment proposal
+memorandum stated that AGC II would purchase shares of Strata from two sources: (a) a special
+purpose vehicle (âSPVâ) controlled by CC-1; and (b) an SPV controlled by John Doe. The
+investment proposal did not provide for the purchase of any Strata shares directly from CC-2 or
+from the defendant MICHAEL LESLIE COHEN himself. COHEN provided this and other
+information to the Och-Ziff personnel who drafted the Advisory Committee consent form.
+
+8
+21. |The AGC II Advisory Committee consent form provided to the Charitable
+Foundation requested the Charitable Foundationâs consent to the transaction and failed to
+accurately disclose the conflicts of interest that arose from AGC IIâs purchase of Strata shares,
+including:
+
+(a) That one of the sellers of the Strata shares, CC-1, owed COHEN
+millions of dollars on the delinquent $18 million personal loan;
+
+(b) That COHEN had signed a release on the shares CC-1 would be
+selling to AGC II, which had been pledged as collateral for the $18 million personal loan;
+
+(c) That COHEN had arranged to personally receive a $4 million
+payment from CC-1 on or before December 31, 2010;
+
+(d) | That COHEN had arranged for CC-1 to sell CC-2âs shares of
+Strata to AGC II in order to hide CC-2âs identity as a seller; and
+
+(e) That COHEN had sold back to John Doe 932.8 Strata shares while
+understanding that those same shares would in turn be sold to AGC II.
+
+22. On or about December 16, 2010, the Charitable Foundation executed the
+materially misleading and incomplete AGC II Advisory Committee consent form regarding the
+Strata share transaction, thus waiving the improperly disclosed conflicts of interest, and sent the
+executed form by e-mail to CC-3, who, later that day, forwarded the executed consent form by
+e-mail to the defendant MICHAEL LESLIE COHEN.
+
+23. On or about December 16, 2010, an Och-Ziff employee located in New
+York, New York executed drawdown notices to raise the funds for the purchase of the Strata
+shares. These drawdown notices were addressed to the Charitable Foundation and the other
+
+limited partners of AGC II.
+OPN O RET BN RETR
+Pg SE Poesy ee ee LINES Qe
+
+24. Onor about December 16, 2010, the Charitable Foundation requested a
+drawdown from one of the Och-Ziff Hedge Funds to fund the AGC II capital call for the
+purchase of Strata shares. This request was approved by an Och-Ziff employee in New York,
+New York. On or about December 21, 2010, the Charitable Foundation redeemed $9,830,300
+of its interest in an Och-Ziff Hedge Fund to fund the purchase of Strata shares.
+
+25. On or about December 24, 2010, AGC II purchased 4,000 shares of Strata
+for a total price of $19,684,000 (approximately $4,921 per share) purportedly from two sellers:
+1,900 shares from CC-1 ($9,349,900); and 2,100 shares from John Doe ($10,334,100). The
+Charitable Foundation did not know that: (a) 817 of the 1,900 shares purportedly sold by CC-1
+actually belonged to CC-2; (b) $4 million of the proceeds of CC-1âs sale of his/her 1,083 Strata
+shares would be paid to the defendant MICHAEL LESLIE COHEN in connection with his/her
+personal loan; and (c) 932.8 of the 2,100 shares purportedly sold by John Doe had just been
+transferred to John Doe by COHEN.
+
+26. | Onor about December 24, 2010, Northern Trust (Guernsey) Limited sent
+a wire transfer on behalf of AGC II in the amount of $9,349,900 for the purpose of purchasing
+the Strata shares purportedly owned by CC-1. The wire transfer was routed to an account
+controlled by CC-1 at Investec Bank (Channel Islands) Limited (âInvestec Bankââ) through
+Northern Trust International Banking Corporation in Jersey City, New Jersey and JPMorgan
+_ Chase Bank in New York. The funds were credited to the Investec Bank account on or about
+December 29, 2010. The same day, CC-1 made a payment on his/her personal loan to the
+defendant MICHAEL LESLIE COHEN by sending COHEN a wire transfer of $4,000,000 from
+the proceeds of the sale of Strata shares. The wire transfer was routed through JPMorgan Chase
+
+Bank in New York.
+
+10
+27. On or about January 5, 2011, CC-1 caused Investec Bank to send two wire
+transfers in the total amount of $4,020,457 for the benefit of CC-2. Both wires were routed
+through accounts at JPMorgan Chase Bank in New York and Barclays Bank in New York. The
+wired money represented proceeds of CC-2âs indirect sale of Strata shares to AGC II.
+
+III. Obstruction of Justice and False Statements
+A. The Investigations
+
+28. On or about June 10, 2011, the SEC opened an investigation of Och-Ziff,
+its employees and agents into, among other things, the payment of bribes through or with CC-1
+to secure an investment from the Libyan Investment Authority, a sovereign wealth fund in Libya
+(the âSEC Investigationâ). CC-1âs relationships and dealings with employees of Och-Ziff were
+relevant and important to the SEC Investigation.
+
+29. Onor about January 14, 2013, a grand jury in the Eastern District of New
+York opened a criminal investigation into the activities of Och-Ziff and its employees and agents
+(the âGrand Jury Investigationâ). CC-1âs relationships and dealings with employees of Och-Ziff
+were relevant and important to the Grand Jury Investigation.
+
+B. The Defendantâs Obstruction of the SEC and Grand Jury Investigations
+
+30. Onor about February 14, 2012, the SEC served a subpoena on Och-Ziff.
+The February 14, 2012 subpoena required Och-Ziff to produce, among other things, all
+documents related to CC-1 that were created between January 1, 2005 and the date of the
+subpoena.
+
+31. In or about March 2012, the defendant MICHAEL LESLIE COHEN
+informed CC-1 that Och-Ziff was under investigation by the SEC, and asked CC-1 to author a
+
+letter stating that CC-1 would not use Strata stock sale proceeds to repay COHEN any portion of
+
+11
+the $18 million personal loan related to a yacht. COHEN asked CC-1 to backdate the letter to
+October 2010 in order to create the false appearance that the letter preceded the Strata stock sale.
+
+32. On or about March 19, 2012, CC-1, together with others, created the letter
+requested by the defendant MICHAEL LESLIE COHEN, falsely dating it October 14, 2010 (the
+âBackdated Letterâ). Shortly thereafter, CC-1 provided the Backdated Letter to COHEN who,
+in turn, provided a copy of the Backdated Letter to lawyers at Och-Ziff and represented that the
+Backdated Letter was responsive to the SEC subpoena issued to Och-Ziff.
+
+33. | Onor about September 24, 2012, the SEC served the defendant
+MICHAEL LESLIE COHEN with a subpoena in his personal capacity. That subpoena required
+COHEN to produce, among other things, all documents related to or concerning CC-1 that were
+created between January 1, 2005 and the date of the subpoena. On or about November 27,
+2012, COHEN, through his attorney, produced the Backdated Letter to the SEC in response to
+the September 24, 2012 subpoena.
+
+34. On or about May 9, 2013, counsel for Och-Ziffâs Audit Committee
+(âAudit Committee Counselâ) attended a meeting at the United States Attorneyâs Office for the
+Eastern District of New York (ââUSAO-EDNYââ) in Brooklyn, New York with representatives
+from the USAO-EDNY, the U.S. Department of Justice, Criminal Division, Fraud Section
+(âFraud Sectionâ), the FBI and the SEC in connection with both the SEC and the Grand Jury
+Investigations. At this meeting, based on representations that had been made by the defendant
+MICHAEL LESLIE COHEN, Audit Committee Counsel produced a hardcopy of the Backdated
+Letter to, among others, a Special Agent of the FBI and an SEC attorney.
+
+35. On or about May 30, 2013, the defendant MICHAEL LESLIE COHEN
+
+attended a meeting at the USAO-EDNY with attorneys from the USAO-EDNY and the Fraud
+
+12
+7
+f
+
+v
+
+r
+
+te
+Ub F
+v
+
+f
+
+â
+
+f
+oe e
+
+Section, law enforcement agents of the FBI and IRS and an attorney for the SEC. In that
+meeting, COHEN falsely stated that the Backdated Letter was not backdated and that COHEN
+had received it from CC-1 shortly after he had first discussed having AGC II purchase Strata
+shares from CC-1 in or about late 2010.
+
+COUNT ONE
+(Conspiracy to Commit Investment Adviser Fraud)
+
+36. The allegations contained in paragraphs one through 35 are realleged and
+incorporated as if fully set forth in this paragraph.
+
+37. In or about and between May 2008 and January 2011, both dates being
+approximate and inclusive, within the Eastern District of New York and elsewhere, the defendant
+MICHAEL LESLIE COHEN, together with others, did knowingly and willfully conspire to use
+and cause to be used, the mails and means and instrumentalities of interstate commerce, directly
+and indirectly: (a) to employ one or more devices, schemes and artifices to defraud Och-Ziffâs
+client and prospective client, to wit: the Charitable Foundation; (b) to engage in one or more
+transactions, practices and courses of business which operated as a fraud and deceit upon Och-
+Ziffâs client and prospective client, to wit: the Charitable Foundation; and (c) to engage in one or
+more acts, practices and courses of business which were fraudulent, deceptive and manipulative,
+contrary to Title 15, United States Code, Sections 80b-6, 80b-14 and 80b-17.
+
+38. In furtherance of the conspiracy and to effect its objects, within the
+Eastern District of New York and elsewhere, the defendant MICHAEL LESLIE COHEN,
+
+together with others, committed and caused to be committed, among others, the following:
+
+13
+ay os
+Rah RE
+
+OVERT ACTS
+
+(a) On or about November 5, 2010, COHEN waived the control
+provision of his loan agreement with CC-1 to allow CC-1 to sell approximately 1,350 Strata
+shares to AGC II.
+
+(b) On or about November 23, 2010, COHEN sent an e-mail to John
+Doe attaching a share purchase agreement for Strata shares.
+
+(c) On or about December 9, 2010, COHEN sent an e-mail to CC-3,
+which stated: âI spoke to [CC-2] 20 minutes ago. Told him that wont go ahead if he sells as [the
+Charitable Foundation] wont approve. Said he had to find another buyer. Let me handle.â
+
+(d) On or about December 16, 2010, CC-3 sent an e-mail to an
+investment professional at the Charitable Foundation, which attached an investment proposal
+memorandum describing the proposed Strata share purchase and an Advisory Committee consent
+form.
+
+(e) On or about December 16, 2010, COHEN caused an Och-Ziff
+employee in New York, New York to issue a drawdown notice to the Charitable Foundation for
+the funds necessary for AGC II to purchase Strata shares.
+
+(f) On or about December 24, 2010, COHEN caused the AGC II
+administrator to send a wire transfer in the amount of $9,349,900 on behalf of AGC II and for the
+benefit of CC-1.
+
+(g) On or about December 29, 2010, CC-1 caused Investec Bank to
+send a wire transfer in the amount of $4,000,000 for the benefit of COHEN.
+
+(h) On or about January 5, 2011, CC-1 caused Investec Bank to send a
+
+wire transfer in the amount of $3,230,144.40 for the benefit of CC-2.
+
+14
+(i) On or about January 5, 2011, CC-1 caused Investec Bank to send a
+wire transfer in the amount of $790,312.60 for the benefit of CC-2.
+(Title 18, United States Code, Sections 371 and 3551 et seq.)
+
+COUNT TWO
+(Investment Adviser Fraud)
+
+39. The allegations contained in paragraphs one through 35 are realleged and
+incorporated as if fully set forth in this paragraph.
+
+40. In or about and between May 2008 and January 2011, both dates being
+approximate and inclusive, within the Eastern District of New York and elsewhere, the defendant
+MICHAEL LESLIE COHEN, together with others, did knowingly and willfully use and cause to
+be used, the mails and means and instrumentalities of interstate commerce, directly and
+indirectly: (a) to employ one or more devices, schemes and artifices to defraud Och-Ziffâs client
+and prospective client, to wit: the Charitable Foundation; (b) to engage in one or more
+transactions, practices and courses of business which operated as a fraud and deceit upon Och-
+Ziffâs client and prospective client, to wit: the Charitable Foundation; and (c) to engage in one or
+more acts, practices and courses of business which were fraudulent, deceptive and manipulative.
+
+(Title 15, United States Code, Sections 80b-6, 80b-14 and 80b-17; Title 18,
+United States Code, Sections 2 and 3551 et seq.)
+
+COUNT THREE
+(Conspiracy to Commit Wire Fraud)
+
+41. The allegations contained in paragraphs one through 35 are realleged and
+incorporated as if fully set forth in this paragraph.
+42. In or about and between May 2008 and January 2011, both dates being
+
+approximate and inclusive, within the Eastern District of New York and elsewhere, the defendant
+
+15
+MICHAEL LESLIE COHEN, together with others, did knowingly and intentionally conspire to
+devise a scheme and artifice to defraud the Charitable Foundation, and to obtain money and
+property from the Charitable Foundation by means of materially false and fraudulent pretenses,
+representations and promises, and for the purpose of executing such scheme and artifice, did
+transmit and cause to be transmitted, by means of wire communication in interstate and foreign
+commerce, writings, signs, signals, pictures and sounds, contrary to Title 18, United States Code,
+Section 1343.
+
+(Title 18, United States Code, Sections 1349 and 3551 et seq.)
+
+COUNTS FOUR THROUGH SEVEN
+(Wire Fraud)
+
+43. The allegations contained in paragraphs one through 35 are realleged and
+incorporated as if fully set forth in this paragraph.
+
+44. Inor about and between May 2008 and January 2011, both dates being
+approximate and inclusive, within the Eastern District of New York and elsewhere, the defendant
+MICHAEL LESLIE COHEN, together with others, did knowingly and intentionally devise a
+scheme and artifice to defraud the Charitable Foundation and to obtain money and property from
+the Charitable Foundation by means of materially false and fraudulent pretenses, representations
+and promises.
+
+45. | Onor about the dates set forth below, for the purpose of executing such
+scheme and artifice, the defendant MICHAEL LESLIE COHEN, together with others, did
+transmit and cause to be transmitted, by means of wire communication in interstate and foreign
+
+commerce, writings, signs, signals, pictures and sounds, as set forth below:
+
+16
+Re RPE
+
+ 
+
+    
+
+Count aie | Description
+
+   
+
+ 
+
+An e-mail sent by CC-3 to the Charitable Foundation in
+London, England, through the Eastern District of New York,
+which attached an investment proposal memorandum and a
+misleading and inaccurate AGC II Advisory Committee consent
+form
+
+FIVE 12/16/2010 An e-mail sent by COHEN to CC-1âs business partner in
+London, England, through the Eastern District of New York,
+which contained a spreadsheet of the outstanding yacht loan
+balance owed to COHEN by CC-1
+
+SIX 12/22/2010 An e-mail sent by COHEN to CC-1âs business partner in
+London, England, through the Eastern District of New York,
+confirming that the wire transfer for the $4 million payment on
+the personal yacht loan should be made to COHENâs JPMorgan
+Chase Bank account
+
+SEVEN _ | 12/29/2010 An e-mail sent by COHEN to an employee of JPMorgan Chase
+Bank in Delaware, through the Eastern District of New York,
+seeking to confirm that the $4 million from CC-1 had been
+received by JPMorgan Chase Bank
+
+FOUR | 12/16/2010
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Title 18, United States Code, Sections 1343, 2 and 3551 et seq.)
+
+COUNT EIGHT
+(Conspiracy to Obstruct Justice)
+
+46. The allegations contained in paragraphs one through 35 are realleged and
+incorporated as if fully set forth in this paragraph.
+
+47. On or about and between March 19, 2012 and May 30, 2013, both dates
+being approximate and inclusive, within the Eastern District of New York and elsewhere, the
+defendant MICHAEL LESLIE COHEN, together with others, did knowingly and intentionally
+conspire to obstruct, influence and impede one or more official proceedings, to wit: the SEC
+Investigation and the Grand Jury Investigation, contrary to Title 18, United States Code, Section
+1512(c)(2).
+
+(Title 18, United States Code, Sections 1512(k) and 3551 et seq.)
+
+17
+COUNT NINE
+(Obstruction of Justice)
+
+48. The allegations contained in paragraphs one through 35 are realleged and
+incorporated as if fully set forth in this paragraph.
+
+49. On or about and between March 19, 2012 and May 30, 2013, both dates
+being approximate and inclusive, within the Eastern District of New York and elsewhere, the
+defendant MICHAEL LESLIE COHEN, together with others, did knowingly, intentionally and
+corruptly obstruct, influence and impede one or more official proceedings, to wit: the SEC
+Investigation and the Grand Jury Investigation, and attempt to do so.
+
+(Title 18, United States Code, Sections 1512(c)(2), 2 and 3551 et seq.)
+
+COUNT TEN
+(Material False Statements)
+
+50. The allegations contained in paragraphs one through 35 are realleged and
+incorporated as if fully set forth in this paragraph.
+
+51. On or about May 30, 2013, within the Eastern District of New York, the
+defendant MICHAEL LESLIE COHEN, in a matter within the jurisdiction of the executive
+branch of the Government of the United States, to wit: the Federal Bureau of Investigation, did
+knowingly and willfully make one or more materially false, fictitious and fraudulent statements
+and representations, to wit: (a) that the Backdated Letter was not backdated, when in fact, as
+COHEN then and there well knew and believed, the Backdated Letter was backdated; and (b)
+that COHEN had received the Backdated Letter from CC-1 in 2010, when in fact, as COHEN
+then and there well knew and believed, he had received the Backdated Letter from CC-1 in or
+about March 2012.
+
+(Title 18, United States Code, Sections 1001(a)(2) and 3551 et seq.)
+
+18
+CRIMINAL FORFEITURE ALLEGATION
+AS TO COUNTS THREE THROUGH NINE
+
+52. The United States hereby gives notice to the defendant that, upon his
+conviction of any of the offenses charged in Counts Three through Nine, the government will
+seek forfeiture in accordance with Title 18, United States Code, Section 981(a)(1)(C) and Title
+28, United States Code, Section 2461(c), which require any person convicted of such offenses to
+forfeit any property, real or personal, constituting, or derived from, proceeds obtained directly or
+indirectly as a result of such offenses.
+
+53.  Ifany of the above-described forfeitable property, as a result of any act or
+omission of the defendant:
+
+(a) cannot be located upon the exercise of due diligence;
+~ (b) has been transferred or sold to, or deposited with, a third party;
+(c) has been placed beyond the jurisdiction of the court;
+(d) has been substantially diminished in value; or
+(e) has been commingled with other property which cannot be
+
+divided without difficulty;
+
+19
+it is the intent of the United States, pursuant to Title 21, United States Code, Section 853(p), to
+seek forfeiture or any other property of the defendant up to the value of the forfeitable property
+
+described in this forfeiture allegation.
+
+(Title 18, United States Code, Section 981(a)(1)(C); Title 21, United States Code,
+
+Section 853(p); Title 28, United States Code, Section 2461(c))
+
+t
+
+A TRUE BILL
+
+Z FOREPERSON Can
+
+ 
+
+Ã©
+
+BRIDGET M. ROHDE
+ACTING UNITED STATES ATTORNEY
+EASTERN DISTRICT OF NEW YORK
+
+LALA
+SANDRA L. MOSER
+ACTING CHIEF
+U.S. DEPARTMENT OF JUSTICE,
+CRIMINAL DIVISION, FRAUD SECTION
+
+20
+F, #2012R01716
+
+FORM DBD-34
+JUN. 85
+
+No.
+
+ 
+
+UNITED STATES DISTRICT COURT
+EASTERN District of NEW YORK
+
+CRIMINAL DIVISION
+
+ 
+
+THE UNITED STATES OF AMERICA
+
+vs.
+
+MICHAEL LESLIE COHEN,
+Defendant.
+
+ 
+
+INDICTMENT
+
+(T. 15, U.S.C., Â§Â§ 80b-6, 80b-14 and 80b 17; T. 18, U.S.C., Â§Â§ 371,
+981(a)(1)(C), 1001(a)(2), 1343, 1349, 1512(c)(2), 1512(k), 2 and 3551
+et seq.; T. 21, U.S.C., Â§ 853(p); T. 28, U.S.C., Â§ 2461(c))
+
+Se fA.
+
+ 
+
+ 
+
+ 
+
+emcee mee cms ce me me es ee es ee es
+
+ 
+
+ 
+
+James P. McDonald, David C. Pitluck, Jonathan P. Lax,
+Assistant U.S. Attorneys (718) 254-7000
+Case 1:17-cr-00544-NGG Document 1-1 Filed 10/05/17 Page 1 of 2 PagelD #: 22
+
+JPL
+F. #2012R01716
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+
+ 
+
+UNITED STATES OF AMERICA APPLICATION TO SEAL
+THE INDICTMENT
+
+- against -
+
+MICHAEL LESLIE COHEN, DeARCY HALL, J.
+Defendant. S OLD, Me J.
+
+The United States of America, by and through its attorney, BRIDGET M.
+ROHDE, Acting United States Attorney for the Eastern District of New York, hereby moves
+for an order sealing the indictment in the above-captioned case. The reason for this request
+is that the defendant, a dual citizen of the United States and the United Kingdom, is currently
+at liberty outside the United States with access to significant resources and the government
+plans to effectuate his arrest in the near future. The government seeks to seal the indictment
+to ensure that the defendant does not learn that he is under indictment and to prevent him
+
+from fleeing justice to avoid arrest and prosecution.
+Case 1:17-cr-00544-NGG Document 1-1 Filed 10/05/17 Page 2 of 2 PagelD #: 23
+
+Notably, the indictment has been returned within the applicable statute of
+limitations and sealing is not requested simply to toll the statute.
+
+Dated: â Brooklyn, New York
+October 5, 2017
+
+Respectfully submitted,
+
+BRIDGET M. ROHDE
+Acting United States Attorney
+
+By:
+Jonathan P. Lax
+David C. Pitluck
+James P. McDonald
+Assistant United States Attorneys
+Case 1:17-cr-00544-NGG Document 1-2 Filed 10/05/17 Page 1 of 1 PagelD #: 24
+
+CR 17 544
+
+INFORMATION SHEET
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+
+ 
+
+1. Title of Case: United States v. Michael Leslie Cohen
+
+2. Related Magistrate Docket Number(s): N/A
+
+3. Arrest Date: N/A DeARCY HALL, J.
+4. Nature of offense(s): KX Felony GOLD Meu.
+
+1 Misdemeanor
+
+5. Related Cases - Title and Docket No(s). (Pursuant to Rule 50.3.2 of the Local
+E.D.N.Y. Division of Business Rules): U.S. v. OZ Africa Management GP, LLC, 16-
+CR-515 (NGG); U.S. v. Och-Ziff Capital Management Group LLC, 16-CR-516
+(NGG)
+
+6. Projected Length of Trial: Less than 6 weeks
+More than 6 weeks O
+
+7. County in which crime was allegedly committed: Kings
+(Pursuant to Rule 50.1(d) of the Local E.D.N.Y. Division of Business Rules)
+
+8. Was any aspect of the investigation, inquiry and prosecution giving rise to the case
+pending or initiated before March 10, 2012.! Yes LO No
+
+9. Has this indictment/information been ordered sealed? Yes LO No
+
+10. Have arrest warrants been ordered? Yes LINo
+
+11. Is there a capital count included in the indictment? OYes XI No
+
+BRIDGET M. ROHDE
+Acting United States Attorney
+
+By: awh
+
+nathaiP. Lax
+Assistant U.S. Attorney
+(718) 254-6139
+
+| Judge Brodie will not accept cases that were initiated before March 10, 2012.
+
+Rev. 10/04/12

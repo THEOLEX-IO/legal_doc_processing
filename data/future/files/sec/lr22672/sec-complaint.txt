@@ -1,0 +1,361 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF VIRGINIA
+
+ 
+
+ 
+
+ALEXANDRIA DIVISION
+
+SECURITIES AND EXCHANGE Â§
+COMMISSION, Â§
+Â§
+
+Plaintiff, Â§ Civil Action No.
+Â§
+vs. Â§
+Â§
+PARKER DRILLING COMPANY, Â§
+Â§
+Defendant. Â§
+Â§
+
+COMPLAINT
+
+Plaintiff Securities and Exchange Commission (âCommissionâ) alleges:
+SUMMARY
+
+1. This matter involves violations of the Foreign Corrupt Practices Act (âFCPAâ) by
+Defendant Parker Drilling Company (âParker Drillingâ or the âcompanyâ). In 2004, through its
+outside counsel, Parker Drilling retained a Nigerian agent to assist the company with customs
+disputes related to the importation of its drilling rigs into Nigeria. During the course of the
+agentâs work, two Parker Drilling executives knowingly paid the agent large sums of money
+through its outside counsel for, among other things, the âentertainmentâ of Nigerian foreign
+officials in an effort to obtain their influence in resolving the customs disputes.
+
+2. As a result of this conduct, Parker Drilling violated Sections 30A, 13(b)(2)(A),
+and 13(b)(2)(B) of the Securities Exchange Act of 1934 (âExchange Actâ) [15 U.S.C. Â§Â§ 78dd-1,
+78(m)(b)(2)(A), and 78(m)(b)(2)(B)).
+
+3. The Commission brings this action against Parker Drilling seeking disgorgement
+and injunctive relief to prevent future violations of the federal securities laws.
+
+SEC v. Parker Drilling Company
+Page 1
+Complaint
+JURISDICTION
+4. This Court has jurisdiction over this action under Sections 21(d), 21(e), and 27 of
+
+the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e), and 78aa].
+
+5. Venue in this District is proper pursuant to Section 27 of the Exchange Act [15
+U.S.C. Â§ 78aa].
+DEFENDANT
+6. Parker Drilling Company, is a Delaware corporation, with its principal place of
+
+business located in Houston, Texas, that provides worldwide drilling services, rental tools, and
+project management. Parker Drilling had a class of securities registered under Section 12(b) of
+the Exchange Act during the relevant period of time. The companyâs shares trade on the New
+
+York Stock Exchange under the ticker symbol PKD.
+DEFENDANTâS EMPLOYEES AND AGENTS
+
+7. Executive A, a United States citizen, was a Parker Drilling officer who performed
+
+financial and compliance functions for Parker Drilling from October 2002 to October 2005.
+
+8. Executive B, a United States citizen, was a Parker Drilling legal officer during
+
+the relevant time period.
+
+9. Law Firm is a United States limited liability partnership that served as outside
+
+counsel to Parker Drilling during the relevant time period.
+
+10. Outside Counsel, a United States citizen, was a partner in Law Firm and
+
+represented Parker Drilling during the relevant time period.
+
+11. Panalpina World Transport (Nigeria) Limited (âPanalpinaâ) is a Nigerian
+
+SEC v. Parker Drilling Company
+Page 2
+Complaint
+entity that provided logistics and customs services to Parker Drilling during the relevant time
+
+period.
+
+12. Nigeria Agent is a Nigerian and British citizen hired by Parker Drilling through
+Law Firm to assist it in connection with Nigerian customs disputes during the relevant time
+period.
+
+NIGERIAN OFFICIALS
+
+13. The Ministry of Finance of the Federal Republic of Nigeria was responsible
+for assessing and collecting duties and tariffs on goods imported into Nigeria and did so through
+through a government agency called the Nigeria Customs Service (âNCSâ). The NCS was an
+agency and instrumentality of the Government of Nigeria and its employees were âforeign
+officialsâ as defined by Section 30A(f)(1)(A) of the Exchange Act [15 U.S.C. Â§ 78dd-
+1(f)(1)(A)].-
+
+14. | The Panel of Inquiry for the Investigation of All Cases of Temporary Import
+Permits Issued Between 1984 to Year 2000 (the âTI Panelâ) was a board empanelled for the
+purpose of examining certain duties and tariffs that the NCS collected or failed to collect
+between 1984 and 2000. The TI Panel was presidentially appointed, operated under the auspices
+of the Nigerian Presidentâs office, and possessed the power to issue subpoenas and levy fines.
+The TI Panel was an agency and instrumentality of the Government of Nigeria and its employees
+were âforeign officialsâ as defined by Section 30A(f)(1)(A) of the Exchange Act [15 U.S.C. Â§
+78dd-1(f)(1)(A)].
+
+15. Nigeriaâs State Security Service (âSSSâ) was a Nigerian intelligence and law
+
+enforcement agency that operated as a department within the Nigerian governmentâs executive
+
+SEC v. Parker Drilling Company
+Page 3
+Complaint
+branch. The SSS was a department, agency, and instrumentality of the Government of Nigeria
+and its employees were âforeign officialsâ as defined by Section 30A(f)(1)(A) of the Exchange
+
+Act [15 U.S.C. Â§ 78dd-1(f)(1)(A)].
+
+FACTUAL BACKGROUND
+A. Parker Drillingâs Nigerian Customs Issues
+16. During the relevant time period, Nigerian law imposed customs duties for certain
+
+goods imported into Nigeria. With regard to the permanent import of an oil and gas drilling nig
+into Nigerian waters, these duties ranged between 10-20% of the total value of the rig.
+Alternatively, companies could import rigs and other items on a temporary basis by obtaining a
+temporary import permit (âTIPâ) pursuant to which no customs duties would be assessed. The
+TIP could be extended twice in six-month increments. Rigs imported under a TIP could not
+remain in Nigeria longer than the period allowed for by the TIP and any extensions. Upon the
+TIPâs expiration, the owner could either permanently import the rig (known as ânationalizingâ or
+converting to âhome useâ) or export the rig and re-import it and obtain a new TIP.
+
+17. In late 2001, Parker Drilling retained Panalpina to obtain new TIPs for its
+Nigerian rigs. Between late 2001 and April 2002, in an effort to secure new TIPs for Parker
+Drillingâs rigs, Panalpina submitted paperwork to the Nigerian Customs Service falsely
+reflecting that the rigs had left Nigeria. Panalpina referred to this procedure as the âpaper
+processâ or ârecycling.â The paper process allowed Parker Drilling to eliminate the time, cost,
+and risk associated with exporting and re-importing its rigs. On November 4, 2010, Panalpinaâs
+parent and U.S. affiliate admitted, in a deferred prosecution agreement and a plea agreement with
+the Department of Justice, Panalpina employees bribed Nigerian Customs Service officials to
+insure the success of the recyclings.
+
+SEC v. Parker Drilling Company
+Page 4
+Complaint
+18. In late 2002, the Nigerian government formed the TI Panel to investigate and
+resolve violations of Nigerian law related to TIPs. The TI Panel summonsed Parker Drilling in
+December 2002. In response to this summons, Panalpina informed local Nigeria personnel that
+TIP recycling violated Nigerian law and that, if the TI Panel were to find out about it, âboth
+Panalpina and Parker will be in trouble.â Executive A and Executive B were eventually
+informed of the problem. Executive A and Executive B also became concerned about Parker
+Drillingâs liability related to gaps in the TIPs obtained by Panalpinaâs predecessor.
+
+B. Parker Drilling Hires Nigeria Agent Through Law Firm to Resolve its
+Customs Problems
+
+19. By December 2003, Parker Drilling wanted to resolve the TI Panel dispute and
+convert its rigs to home use in order to sell them and exit Nigeria. Parker Drilling retained Law
+Firm and Outside Counsel to represent it in the contemplated asset sale. Outside Counsel,
+through a client that had contacts in Nigeria, introduced Parker Drilling to Nigeria Agent.
+Nigeria Agent was a Nigerian and British citizen living in the United Kingdom whom Outside
+Counselâs client knew to be politically influential in Nigeria. Executive A and Executive B met
+Nigeria Agent in London and retained him through Law Firm, without conducting any additional
+due diligence, despite the fact that his resume, which was provided to Parker Drilling by Outside
+Counsel, did not indicate any experience handling customs issues. Executive A and Executive B
+supervised Nigeria Agentâs work on behalf of Parker Drilling and authorized all direct and
+indirect payments to him.
+
+20. According to the terms of Nigeria Agentâs initial engagement, Executive A and
+Executive B authorized funds to be sent to Law Firm, which then forwarded those funds to
+Nigeria Agent. The engagement letter did not specify the amount or basis for calculating Nigeria
+SEC v. Parker Drilling Company
+
+Page 5
+Complaint
+Agentâs fees and expenses, other than requiring an initial retainer of $50,000 and an unexplained
+âsuccess fee.â
+
+21. Between January 9, 2004 and May 21, 2004, Executive A and Executive B
+authorized payments to Nigeria Agent totaling $600,000, despite several highly suspicious
+requests. For example, on January 26, 2004, Outside Counsel wrote to Executive B: âwe need to
+wire [Nigeria Agent] an additional $50,000. The first traunch [sic] went in retainer fees and the
+entertainment of the [Nigerian presidential] delegation.â
+
+22. On February 24, 2004, Nigeria Agent sent an email to Outside Counsel and
+Executive B explaining his need for more money stating that the he was âspending on average
+about US$3,000 a day for hotel accommodation, transport, food, entertainment, communication
+and office work.â This email further stated, âI need to spend another US$60,000 on public
+relations for the intelligence work and this will be paid when the [home use] concession is
+given. We will need SSS in the future. It will help me if US$100,000 is sent to my account....â
+
+23. On April 13, 2004, Nigeria Agent, emailed Outside Counsel and Executive B:
+âThere is nothing more serious than landing in Nigeria without money to resolve the
+problems.... I have [a] meeting tomorrow in Abuja to discuss the drilling contracts. This is my
+reason for making sure that I can entertain my hosts because of their promises. Therefore, please
+make sure that you transfer the funds today so that my Bank Officer can send it to Nigeria
+tomorrow.â
+
+24. Outside Counsel emailed Executive B on May 4, 2004: â[Nigeria Agent] may
+have some higher expenses this trip, especially if he stays as long as he thinks it may take to
+finish all the projects. He says he can account for expenses and that they run about 4000 a day
+per person because of the entourage entertainment.â
+
+SEC v. Parker Drilling Company
+Page 6
+Complaint
+25. Despite the suspicious nature of Nigeria Agentâs requests, Executive A and
+Executive B authorized, between January 9, 2004 and May 4, 2004, six payments to Nigeria
+Agent, totaling $350,000, without receiving any invoices. At the instruction of Executive A and
+Executive B, Parker Drilling recorded the payments in its books and records with vague
+expenditure descriptions. Parker Drillingâs books and records did not reflect the fact that Nigeria
+Agent used Parker Drillingâs funds to âentertainâ Nigerian officials.
+
+26. On May 4, 2004, Parker Drillingâs treasurer emailed Executive B concerning the
+lack of an invoice for the latest Nigeria Agent payment. This prompted Executive B to request
+an invoice from Nigeria Agent through Outside Counsel. Executive B first received invoices
+related to the payments referenced above on May 10, 2004. None of the invoices included
+descriptions of Nigeria Agentâs âentertainmentâ expenses or supporting documentation.
+
+27. During the time period that Executive A and Executive B authorized the payments
+to Nigeria Agent, they believed that Nigeria Agent had attended numerous meetings with
+Nigerian officials, including the president, the finance minister, and members of the TI Panel, in
+an effort to resolve Parker Drillingâs customs problems.
+
+C. Nigeria Agent Obtains a Reduction in Parker Drillingâs Fine
+
+28. On or about May 12, 2004, the TI Panel assessed a fine of $3.8 million against
+Parker Drilling relating to gaps in its TIPs. On May 26, 2004, the TI Panel reduced the fine to
+$750,000 without a factual basis for doing so. Immediately following the TI Panelâs decision to
+reduce the fine to $750,000, Nigeria Agent sought additional compensation from Parker Drilling.
+After negotiations, Parker Drilling agreed to pay Nigeria Agent a total of $750,000 in fees and
+$500,000 in expenses for his work resolving the TI Panel issues. Based on this agreement,
+
+Parker Drilling owed Nigeria Agent an additional $650,000. Parker Drilling paid him that
+
+SEC v. Parker Drilling Company
+Page 7
+Complaint
+amount in June 2004.
+
+29. The resolution of the TI Panel dispute allowed Parker Drilling to nationalize, and
+ultimately sell, its Nigerian rigs and exit Nigeria.
+
+D. Remedial Efforts
+
+30. Parker Drilling demonstrated significant cooperation and conducted an extensive
+internal investigation. Since the time of the conduct noted in this Complaint, Parker Drilling has
+made significant enhancements to its global anti-corruption compliance program, including:
+retaining a full-time Chief Compliance Officer and Counsel who reports to the Chief Executive
+Officer and Audit Committee and full-time staff to assist him; enhancing anti-corruption due
+diligence requirements for relationships with third parties; increasing compliance monitoring and
+corporate auditing specifically tailored to anti-corruption; implementing a compliance awareness
+initiative that includes issuance of periodic anti-bribery compliance alerts; enhancing financial
+controls and governance; and expanding anti-corruption training throughout the organization.
+
+FIRST CLAIM
+Violations of Section 30A of the Exchange Act
+(Anti-Bribery)
+
+31. Paragraphs | through 30 are realleged and incorporated herein by reference.
+
+32. As described above, Parker Drilling Company, an issuer organized under the laws
+of the United States, made use of the mails or other means or instrumentalities of interstate
+commerce corruptly in furtherance of an offer, payment, promise to pay, or authorization of the
+payment of any money, or offer, gift, promise to give, or authorization of the giving of anything
+of value to any person, while knowing that all or a portion of such money or thing of value
+would be or had been offered, given, or promised, directly or indirectly, to any foreign official,
+
+for purposes of: (i) influencing acts or decisions of such foreign officials in their official
+
+SEC v. Parker Drilling Company
+Page 8
+Complaint
+capacities; (ii) inducing such foreign officials to do and omit to do acts in violation of the lawful
+duties of such officials; (iii) securing an improper advantage; or (iv) inducing such foreign
+officials to use their influence with a foreign government or instrumentalities thereof to affect or
+influence acts or decisions of such government or instrumentalities, in order to assist the
+company in obtaining or retaining business.
+
+33. By reason of the foregoing, Parker Drilling Company violated Section 30A of the
+Exchange Act [15 U.S.C. Â§ 78dd-1].
+
+SECOND CLAIM
+Violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act
+(Books and Records and Internal Controls)
+
+34. Paragraphs 1 through 30 above are realleged and incorporated by reference
+herein.
+
+35. Section 13(b)(2)(A) of the Exchange Act requires issuers to make and keep
+books, records, and accounts, which, in reasonable detail, accurately and fairly reflect the
+transactions and dispositions of the assets of the issuer.
+
+36. Section 13(b)(2)(B) of the Exchange Act requires issuers to devise and maintain a
+system of internal controls sufficient to provide reasonable assurances that: (i) transactions are
+executed in accordance with managementâs general or specific authorization; and (11)
+transactions are recorded as necessary to permit preparation of financial statements in conformity
+with generally accepted accounting principles or any other criteria applicable to such statements,
+and to maintain accountability for assets.
+
+37. By reason of the foregoing, Parker Drilling Company violated Sections
+13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78m{(b)(2)(A) and
+
+78m(b)(2)(B)].
+
+SEC v. Parker Drilling Company
+Page 9
+Complaint
+RELIEF REQUESTED
+
+The Commission respectfully requests that this Court:
+
+(1) enter an order permanently enjoining Defendant Parker Drilling Company from
+
+violating Sections 30A, 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act [15
+
+U.S.C. Â§Â§ 78dd-1, 78m(b)(2)(A), and 78m(b)(2)(B)];
+
+(2) enter a final judgment ordering Defendant Parker Drilling Company to disgorge
+
+ill-gotten gains wrongfully obtained as a result of its illegal conduct; and
+
+(3) grant the Commission such other and further relief as is just and appropriate.
+
+DATED: April 16, 2013
+
+Of Counsel:
+
+Jason Rose
+
+U.S. Securities and Exchange Commission
+Burnett Plaza, Suite 1900
+
+801 Cherry Street, Unit #18
+
+Fort Worth, TX 76102-6882
+
+(817) 978-1408
+
+(817) 978-2700 (fax)
+
+SEC v. Parker Drilling Company
+Page 10
+Complaint
+
+Respectfully submitted,
+
+ 
+
+ââ$____
+
+oe ___ i
+bas eave (VSB No. 47492)
+U.S*SeCurities and Exchange Commission
+Burnett Plaza, Suite 1900
+801 Cherry Street, Unit #18
+Fort Worth, TX 76102-6882
+(817) 978-6459
+(817) 978-2700 (fax)

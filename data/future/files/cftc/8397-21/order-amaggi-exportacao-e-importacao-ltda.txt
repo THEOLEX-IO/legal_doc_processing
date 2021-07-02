@@ -1,0 +1,303 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+RECEIVED CFTC
+
+ 
+
+   
+
+Oye
+
+Office of Proceedings
+Proceedings Clerk
+
+12:17 pm, Jun 15, 2021
+
+In the Matter of:
+
+Amaggi Exportac4o e Importacao
+Ltda.,
+
+ 
+
+CFTC Docket No. 21-10
+
+Respondent.
+
+a 4 ae ae a a a
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+from in or about January 2018 to at least January 2021 (âRelevant Periodâ), Amaggi ExportagÃ©o
+e Importacdo Ltda. âRespondentâ or âAmaggiâ) violated Regulation 19.01, 17 C.F.R. Â§ 19.01
+(2020). Therefore, the Commission deems it appropriate and in the public interest that public
+administrative proceedings be, and hereby are, instituted to determine whether Respondent
+engaged in the violations set forth herein and to determine whether any order should be issued
+imposing remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
+Exchange Act, Making Findings, and Imposing Remedial Sanctions (âOrderâ), and
+acknowledges service of this Order.!
+
+ 
+
+' Respondent consents to the use of the findings of fact and conclusions of law in this Order in this
+proceeding and in any other proceeding brought by the Commission or to which the Commission is a
+party or claimant, and agrees that they shall be taken as true and correct and be given preclusive effect
+therein, without further proof. Respondent does not consent, however, to the use of this Order, or the
+findings or conclusions herein, as the sole basis for any other proceeding brought by the Commission or
+to which the Commission is a party or claimant, other than: a proceeding in bankruptcy or receivership;
+or a proceeding to enforce the terms of this Order. Respondent does not consent to the use of the Offer or
+this Order, or the findings or conclusions in this Order, by any other party in any other proceeding.
+I. FINDINGS
+The Commission finds the following:
+A. SUMMARY
+
+During the Relevant Period, Respondent failed on at least thirteen occasions to file CFTC
+Form 204 reports setting forth the composition of their fixed price soybean positions, as required
+by Regulations 19.00(a)(1) and 19.01, 17 C.F.R. Â§Â§ 19.00(a)(1), 19.01 (2020), until being
+prompted by Commission staff to file them. Moreover, on at least eight of those occasions, the
+Form 204s filed by Respondent contained inaccurate information that Respondent did not correct
+until February 2021.
+
+B. RESPONDENT
+
+Amaggi Exportac4o e Importacao Ltda. is a private company formed in Brazil and part
+of the Grupo Amaggi, one of the largest soybean producers in the world. Amaggi has never been
+registered with the Commission.
+
+C. FACTS
+
+During at least thirteen months during the Relevant Period, Respondent held or controlled
+soybean futures positions that were reportable pursuant to Regulation 15.00(p)(2), 17 C.F.R.
+Â§ 15.00(p)(2) (2020), and, based on records provided by Respondent, constituted bona fide
+hedging positions as defined in Regulation 1.3, 17 C.F.R. Â§ 1.3 (2020). Therefore, Respondent
+was required to file Form 204 reports within three business days of the last Friday of each such
+month pursuant to Regulations 19.00(a)(1) and 19.01, 17 C.F.R. Â§Â§ 19.00(a)(1), 19.01 (2020).
+On all thirteen of these occasions, however, Respondent failed to timely file the Form 204
+reports and did not file the reports until prompted by Commission staff.2 In addition, eight of the
+Form 204s submitted by Respondent incorrectly stated its soybean positions. After Commission
+staff identified likely errors in the reports Respondent filed, Respondent submitted corrected
+Form 204s in February 2021.
+
+Hl. LEGAL DISCUSSION
+
+Regulation 19.00(a)(1), 17 C.F.R. Â§ 19.00(a)(1) (2020), requires that persons holding or
+controlling futures and options positions in certain agricultural commodities that are reportable
+pursuant to Regulation 15.00(p)(2), 17 C.F.R. Â§ 15.00(p)(2) (2020), and any part of which
+constitute bona fide hedging positions as defined in Regulation 1.3, 17 C.F.R. Â§ 1.3 (2020), must
+file Form 204 reports showing the composition of the fixed price cash position of each such
+commodity hedged (the âForm 204 commodities,â which include wheat, corn, oats, soybeans,
+soybean oil, and soybean meal).* Reportable positions under Regulation 15.00(p)(2) are any
+
+ 
+
+* Respondent failed to file timely Form 204 reports for the following months: JanuaryâMay 2018,
+October 2019, April-June 2020, and October 2020âJanuary 2021.
+
+> On October 15, 2020, the Commission adopted a new rule that, inter alia, prospectively will relieve
+hedgers of the obligation to file Form 204s because the Commission will collect the relevant data from
+combined futures and futures-equivalent option open contract positions as defined in Part 150 of
+the Regulations, 17 C.F.R. pt. 150 (2020), in any one month or in all months combined, either
+net long or net short in any commodity on any one reporting market, which positions at the close
+of the market on the last business day of the week exceed the net quantity limit in spot, single, or
+all-months fixed in Regulation 150.2, 17 C.F.R. Â§ 150.2 (2020), for the Form 204 commodities.
+
+The filing requirement is longstanding. In fact, in 2013, the CFTCâs Division of Market
+Oversight issued an advisory regarding the obligation of market participants to submit accurate
+Form 204 Reports. See CFTC Staff Advisory No. 13-42, Obligation of Reportable Market
+Participants to File CFTC Form 204 Reports (July 8, 2013). As noted, a purpose of the Form
+204 report has been to check compliance with speculative position limits by ensuring that filers
+that classify their futures positions as hedging actually own or control offsetting cash positions.
+
+By failing to timely file Form 204 reports on thirteen occasions, including eight reports
+that failed to accurately report Respondentâs fixed price cash positions of each commodity
+hedged, as set forth above, Respondent violated Regulation 19.01, 17 C.F.R. Â§ 19.01 (2020).
+
+IV. FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that, during the Relevant Period,
+Respondent violated Regulation 19.01, 17 C.F.R. Â§ 19.01 (2020).
+
+V. OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+A. Acknowledges service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C. Waives:
+1. The filing and service of a complaint and notice of hearing;
+2. A hearing;
+
+3. All post-hearing procedures;
+
+ 
+
+exchanges. Position Limits; Final Rule, 86 Fed. Reg. 3236, 3246 (Oct. 15, 2020). The rule became
+effective after the Relevant Period, on March 15, 2021, and market participants must continue filing Form
+204s until exchanges implement the new reporting regime required under the rule, no later than January 1,
+2022. Id. at 3248-49.
+4. Judicial review by any court;
+
+5. Any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+6. Any and all claims that it may possess under the Equal Access to Justice Act,
+5 U.S.C. Â§ 504 (2018), and 28 U.S.C. Â§ 2412 (2018), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations, 17 C.F.R.
+pt. 148 (2020), relating to, or arising from, this proceeding;
+
+7. Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. II, Â§Â§ 201-253, 110
+Stat. 847, 857-74 (codified as amended at 28 U.S.C. Â§ 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+8. Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order.
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer.
+
+Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+1. Makes findings by the Commission that Respondent violated Regulation 19.01,
+17 C.F.R. Â§ 19.01 (2020);
+
+2. Orders Respondent to cease and desist from violating Regulation 19.01;
+
+3. Orders Respondent to pay a civil monetary penalty in the amount of one hundred
+seventy-five thousand dollars ($175,000), plus post-judgment interest within ten
+days of the date of entry of this Order; and
+
+4. Orders Respondent and its successors and assigns to comply with the conditions
+and undertakings consented to in the Offer and as set forth in Part VI of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent, and its successors and assigns, shall cease and desist from violating
+Regulation 19.01, 17 C.F.R. Â§ 19.01 (2020).
+
+Respondent shall pay a civil monetary penalty in the amount of one hundred seventy-five
+thousand dollars ($175,000) (âCMP Obligationâ), within ten days of the date of the entry
+of this Order. If the CMP Obligation is not paid in full within ten days of the date of
+entry of this Order, then post-judgment interest shall accrue on the unpaid portion of the
+CMP Obligation beginning on the date of entry of this Order and shall be determined by
+using the Treasury Bill rate prevailing on the date of entry of this Order pursuant to
+
+28 U.S.C. Â§ 1961 (2018).
+
+Respondent shall pay the CMP Obligation and any post-judgment interest by electronic
+funds transfer, U.S. postal money order, certified check, bank cashierâs check, or bank
+money order. If payment is to be made other than by electronic funds transfer, then the
+payment shall be made payable to the Commodity Futures Trading Commission and sent
+to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+9-AMC-AR-CFTC@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Marie
+Thorne or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+
+Respondent and its successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+1. Public Statements: Respondent agrees that neither it nor any of its successors and
+assigns, agents, or employees under its authority or control shall take any action
+or make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondentâs: (1) testimonial obligations; or (11) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondent and its successors and assigns shall comply with this agreement, and
+shall undertake all steps necessary to ensure that all of its agents or employees
+under its authority or control understand and comply with this agreement.
+
+2. Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission or the Monitor of any partial payment of Respondentâs
+Obligation shall not be deemed a waiver of its obligation to make further
+payments pursuant to this Order, or a waiver of the Commissionâs right to seek to
+compel payment of any remaining balance.
+
+Change of Address/Phone: Until such time as Respondent satisfies in full its
+CMP Obligation as set forth in this Order, Respondent shall provide written
+notice to the Commission by certified mail of any change to its telephone number
+and mailing address within ten calendar days of the change.
+
+Until such time as Respondent satisfies in full its CMP Obligation, upon the
+commencement by or against Respondent of insolvency, receivership or
+bankruptcy proceedings or any other proceedings for the settlement of
+Respondentâs debts, all notices to creditors required to be furnished to the
+Commission under Title 11 of the United States Code or other applicable law with
+respect to such insolvency, receivership bankruptcy or other proceedings, shall be
+sent to the address below:
+
+Secretary of the Commission
+
+Legal Division
+
+Commodity Futures Trading Commission
+Three Lafayette Centre
+
+1155 21st Street N.W.
+
+Washington, DC 20581
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+Dap | Pblp.
+
+Christopher J. Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+ 
+
+Dated: June 15, 2021

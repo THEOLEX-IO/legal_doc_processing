@@ -1,0 +1,58 @@
+Release Number 7721-18
+April 30, 2018
+
+CFTC Orders Glencore Agriculture B.V. and Glencore Ltd. to Pay a $2 Million Penalty for
+Exceeding Cotton Futures Position Limits, Transacting Illegal EFPs, and Submitting
+Inaccurate Form 304s
+
+Cotton Trading by Glencore Agriculture B.V. and Glencore Ltd. Was under Common Control
+by Head of Glencore Cotton Trading
+
+Washington, DC - The Commodity Futures Trading Commission (CFTC) today issued an order filing and settling charges
+against Glencore Agriculture B.V., f/k/a Glencore Grain B.V. (Glencore B.V.), located in Rotterdam, the
+Netherlands, and Glencore Ltd., located in Stamford, Connecticut, finding that on multiple trading days during May
+2013, June 2013, May 2014, and June 2014, Glencore B.V. and Glencore Ltd. held net positions in the ICE Futures Cotton
+No. 2 contracts (cotton futures) that, on an aggregated basis, exceeded the speculative position limits established by the
+CFTC. In addition, the CFTC Order finds that on twenty-four occasions between January 2013 and November 2015,
+Glencore B.V. and Glencore Ltd. executed exchange of futures for physical transactions (EFPs) opposite each otherâs
+cotton futures trading accounts, even though their accounts were not independently controlled as required for such
+transactions not to constitute illegal wash trades. And, on at least two occasions in 2013 and 2014, Glencore B.V.
+submitted to the CFTC a Form 304 that failed to represent accurately all required information, including its short cash
+sales commitments, according to the CFTC Order.
+
+The CFTC Order requires Glencore B.V. and Glencore Ltd., jointly and severally, to pay a $2 million civil monetary penalty
+and to cease and desist from further violations of the Commodity Exchange Act (CEA) and CFTC Regulations, as charged.
+
+According to the CFTC Order, at all times relevant to the Order, Glencore centralized the management of its global cotton
+business under the direction of a single trading manager (referred to in the Order as Head of Cotton), who oversaw
+cotton operations across all Glencore entities. The Head of Cotton directly supervised cotton traders at Glencore B.V. and
+was also the direct supervisor of Glencore Ltd.âs head cotton trader.
+
+The CEA and CFTC Regulations set limits on the net long or net short position that any person may hold or control for
+certain commodities, including a limit of 5,000 cotton futures for a single month, other than the spot month, exclusive of
+bona fide hedging transactions. The CFTC Order finds that because Glencore B.V. and Glencore Ltd. operated their
+cotton trading under the common control of Glencoreâs Head of Cotton, their cotton futures positions should have been
+aggregated for purposes of complying with the Commissionâs position limits. When aggregated, the cotton futures
+positions of Glencore B.V. and Glencore Ltd. exceeded 5,000 net contracts, exclusive of bona fide hedging transactions,
+on multiple days during May 2013, June 2013, May 2014, and June 2014.
+
+The CEA and CFTC Regulations permit noncompetitive trading, such as EFPs, only if such transactions are conducted in
+accordance with rules of an exchange, such as the Intercontinental Exchange (ICE), that are approved by the CFTC. At all
+times relevant to this Order, ICE rules permitted the transaction of EFPs between independently controlled accounts.
+However, the CFTC Order finds that Glencore B.V.âs and Glencore Ltd.âs cotton futures trading accounts were both
+ultimately controlled by Glencoreâs Head of Cotton. As a result they were not independently controlled. Nevertheless,
+between January 2013 and November 2015, Glencore B.V. and Glencore Ltd. executed twenty-four EFPs opposite one
+anotherâs accounts, according to the CFTC Order.
+
+The Order further states that CFTC Regulations require cotton merchants and dealers holding or controlling reportable
+futures positions to file a monthly Statement of Cash Positions in Cotton (Form 304), as of the close of business on the
+last Friday of the month. On the Form 304, entities report the composition of their fixed price cash position in cotton and
+cotton products, including the quantity of open fixed price purchase and fixed price sale commitments. The CFTC Order
+finds that Glencore B.V. filed two erroneous Form 304 reports with the CFTCâone on May 31, 2013 and a second on May
+30, 2014âthat overstated the quantities of its fixed price cotton cash positions.
+
+The CFTC thanks and acknowledges the Dutch Authority for the Financial Markets for its assistance in this matter.
+
+CFTC Division of Enforcement staff members responsible for this action are James Deacon, Ilana Waxman, Laura
+Brookover, Kara Mucha, John Buffington, James H. Holl, Ill, and Rick Glaser. The Division of Enforcement would like to
+recognize the assistance of other CFTC staff: Janet Briner, Kelly Beck, Harry Hild, and Matthew Hunter.

@@ -1,0 +1,437 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 79702 / December 29, 2016
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3840 / December 29, 2016
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-17754
+
+ 
+
+In the Matter of
+ORDER INSTITUTING CEASE-AND-
+GENERAL CABLE DESIST PROCEEDINGS PURSUANT TO
+CORPORATION, SECTION 21C OF THE SECURITIES
+EXCHANGE ACT OF 1934, MAKING
+Respondent. FINDINGS, AND IMPOSING A CEASE-
+
+AND-DESIST ORDER
+
+ 
+
+ 
+
+I.
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (âExchange Actâ), against General Cable Corporation (âGCCâ or
+Respondentâ).
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferâ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, Respondent admits the jurisdiction over it and the subject matter of these proceedings, and
+consents to the entry of this Order Instituting Cease-and-Desist Proceedings Pursuant to Section
+21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist
+Order (âOrderâ), as set forth below.
+TI.
+On the basis of this Order and Respondentâs Offer, the Commission findsâ that
+
+Summary
+
+1. This matter concerns improper inventory accounting and disclosure violations by
+GCC, a global manufacturer of copper, aluminum, and fiber optic wire and cable products based in
+Highland Heights, Kentucky.
+
+2. From 2008 to the second quarter of 2012, GCC materially misstated its financial
+statements due to improper inventory accounting at its Brazil subsidiary that went undetected due
+to the companyâs internal accounting controls failures. During this period, certain Brazilian
+accounting employees manipulated the companyâs accounting systems, which GCC executives
+knew were highly manual and presented financial reporting risks, by entering false entries for
+inventory values to cover up missing copper inventory from the subsidiaryâs manufacturing plants.
+When the improper accounting was reported to GCCâs then-Rest of World (âROWâ) segment
+Chief Executive Officer and Chief Financial Officer in January 2012, they actively concealed the
+inventory overstatement from GCCâs executive management. Instead, the ROW CEO and ROW
+CFO overrode internal accounting controls and issued or passed on directives to employees to
+destroy documents about the missing inventory, signed false sub-certifications of financial
+statements, and failed to take corrective action to ensure that the accounting errors did not
+continue.
+
+3. In October 2012, GCC announced that it had identified these inventory accounting
+issues, and in March 2013, GCC restated its financial statements from 2008 to the second quarter
+of 2012. During this period, the missing inventory in Brazil caused GCC to materially overstate its
+inventory by $46.7 million and overstate its net income available to common shareholders by
+21.6%, 11.3%, and 29.8% for the annual periods ended December 31, 2011, 2010, and 2009, and
+8.8% and 13.8% for the quarterly periods ended June 30 and March 31, 2012, respectively.
+
+Respondent
+
+4. GCC is a publicly traded company headquartered in Highland Heights, Kentucky.
+GCC is a global manufacturer of copper, aluminum, and fiber optic wire and cable products.
+During the relevant period, GCC maintained operations in three segments, North America, Europe
+& Mediterranean (âE&M,â now known as the Europe segment), and ROW (split into the Latin
+America and Asia Pacific segments in 2014). GCCâs common stock is registered with the
+Commission under Section 12(b) of the Exchange Act, and GCC files annual and quarterly reports
+under Section 13(a) of the Exchange Act and related rules. GCCâs common stock trades on the
+New York Stock Exchange under the ticker symbol âBGC.â
+
+ 
+
+' The findings herein are made pursuant to Respondentâs Offer of Settlement and are not
+
+binding on any other person or entity in these or any other proceedings.
+Relevant Entities
+
+5. General Cable Brasil Industria e ComÃ©rcio de Condutores ElÃ©tricos Ltda.
+(current name of Phelps Dodge Brasil Ltda., acquired in 2007), and General Cable do Brasil
+Ltda. (âGC Brasilâ) are indirect subsidiaries of GCC in its ROW (from 2007 to 2014) and Latin
+America (from 2014 to present) segments, and manufacture and sell GCCâs products for its
+domestic market. In this Order GCCâs Brazil operations through these two subsidiaries are
+referred to collectively as âGCC Brazil.â
+
+Facts
+GCC Brazilâs Improper Inventory Accounting
+
+6. In October 2007, following the acquisition of Phelps Dodge International Corp.
+(âPDICâ), GCC created the ROW reporting segment, with ROWâs management based in Doral,
+Florida. GCC Brazil, as part of ROWâs Latin America operations, was one of the largest and
+most significant operations that were reported in ROWâs financial statements. During the
+relevant period, GCC Brazil maintained two manufacturing facilities, Serra and Pocos de Caldas
+(âPocosâ).
+
+7. From at least 2008 to mid-2012, GCC Brazil materially understated cost of sales
+and overstated copper inventory balances on its books and records, which were consolidated into
+GCCâs financial statements. The inventory overstatement, leading to material financial reporting
+errors, was due to both missing inventory and accounting errors within GCC Brazilâs enterprise
+resource planning (âERPââ) system and its implementation. In covering up the missing inventory,
+certain cost accounting personnel, who controlled entries into GCC Brazilâs general ledger as well
+as controlled the accounting for inventory, manipulated the ERP system to reflect inventory that
+did not exist.
+
+8. After conducting an internal investigation, GCC determined that the inventory
+accounting errors at GCC Brazil were material and would require a restatement of certain of its
+previously issued financial statements. For the years ended December 31, 2011, 2010, 2009, and
+2008, and for the three months ended March 30, 2012 and six months ended June 29, 2012, cost of
+sales was understated by $17.9 million, $8.3 million, $5.6 million, $7.1 million, $2.7 million and
+$6.2 million, respectively. As of December 31, 2011, 2010, 2009 and 2008, March 30, 2012 and
+June 29, 2012 inventory balances were overstated by $40.0 million, $27.0 million, $17.4 million,
+$8.7 million, $43.7 million, and $43.5 million, respectively. In addition, due to accounting errors
+at one of the Brazilian facilities that occurred before GCCâs acquisition of PDIC in 2007, GCC
+also overstated inventory in its allocation of the purchase price among assets acquired, resulting in
+an understatement of goodwill. The understated goodwill and overstated inventory associated with
+the acquisition of PDIC in the fourth quarter of 2007 was $3.4 million.
+
+9. The inventory accounting errors at GCC Brazil caused GCC to overstate its net
+income available to common shareholders by 21.6%, 11.3%, and 29.8% for the annual periods
+ended December 31, 2011, 2010, and 2009, and 8.8% and 13.8% for the quarterly periods ended
+June 30 and March 31, 2012, respectively.
+10. GCC Brazilâs improper inventory accounting went undetected by GCC for several
+years because its inventory accounting systems were highly manual and decentralized, and lacked
+adequate controls. As a result, the lapses in the systems were exploited by certain GCC Brazil cost
+accounting personnel. Although GCC Brazilâs inventory accounting systems were centralized in
+its ERP system, its cost accounting personnel were able to falsify GCC Brazilâs general ledger by
+manually calculating inventory values in a spreadsheet module and then feeding those values into
+the general ledger. The general ledger, therefore, contained falsely overstated inventory values.
+Those values were not reconciled with GCC Brazilâs actual inventory (e.g., reels of raw copper
+metal and finished goods). These actions enabled the cost accounting personnel to make improper
+entries in the general ledger without appropriate review by GCC Brazilâs management. The false
+entries were designed to conceal accounting errors and missing inventory, resulting in overstated
+inventory balances on the general ledger.
+
+11. The lack of segregation of responsibilities for making and approving manual
+journal entries further enabled the manipulation to occur and go undetected. Although GCC
+executive management was unaware that inventory accounting for Brazil was overstated during the
+relevant period, it was aware that the ERP system, which was widely used by several countries
+within ROW, was highly manual, unevenly implemented throughout ROW, and was not subject to
+centralized oversight, creating financial reporting risks.
+
+12. In late 2011, while completing newly required tax documentation for local
+regulators, GCC Brazilâs Controller (âBrazil Controllerâ) discovered significant inconsistencies
+between GCC Brazilâs general ledger and supporting documentation for intercompany sales. The
+Brazil Controller, in consultation with GCC Brazilâs CFO (âBrazil CFOâ), reviewed intercompany
+sales in 2011 and concluded in December 2011 that GCC Brazilâs inventory was overstated and
+suspected it was due to accounting errors and an inventory theft involving the primary Brazil cost
+accountant.
+
+13. A number of deficient internal accounting and risk management controls prevented
+GCC Brazil from detecting this scheme for years: (a) physical controls at Serra to account for or
+protect inventory were inadequate; (b) access to IT systems in GCC Brazil was not effectively
+controlled; (c) GCC Brazil failed to properly reconcile inventory values to the general ledger
+balance; and (d) GCC Brazil lacked proper segregation of duties as cost accounting personnel
+manually made entries to the inventory sub-ledger without further review or verification by other
+personnel.
+
+ROW Executives Overrode Controls and Concealed the Inventory Errors
+
+14. From at least January 26, 2012 to September 28, 2012, ROWâs CEO and CFO
+overrode controls and concealed these issues from GCCâs executive management, and internal and
+external auditors, and instructed others at GCC Brazil to do the same, despite evidence that the
+magnitude of the potential accounting errors was increasing. As a result of their concealment,
+GCC filed its Form 10-K for the fiscal year ended December 31, 2011, and Forms 10-Q the fiscal
+quarters ended March 31, 2012, and June 29, 2012, that included materially false financial
+information.
+15. On a video conference call in late January 2012, the Brazil CFO and Brazil
+Controller (collectively âBrazil Finance Managersâ) reported to ROWâs CEO and CFO that they
+had conducted an investigation and had found evidence that GCC Brazilâs inventory, valued at
+$103.78 million as of December 31, 2011, was overstated by at least $12 million, a material
+shortfall for Brazilâs financial reporting. The Brazil Finance Managers further reported that they
+believed the overstatement was due to accounting errors and/or the theft of inventory by GCC
+Brazil cost accounting personnel, which had occurred throughout 2011 and possibly in prior
+periods.
+
+16. On the video call, following the disclosure by the Brazil Finance Managers, ROWâs
+CEO informed the participants that he would not disclose the accounting errors or potential theft to
+GCCâs executive management and instructed them to keep the matter confidential. ROWâs CEO
+and CFO failed to take any significant remedial or corrective action to ensure that GCC Brazilâs
+financial statements were accurate or to address the concern that cost accounting personnel had
+circumvented GCCâs internal accounting controls.
+
+17. From February to September 2012, ROWâs CEO and CFO took affirmative steps to
+mislead or conceal GCC Brazilâs inventory accounting errors from GCCâs executive management,
+and internal and external auditors, including, for example, the following: (a) issuing or supporting
+a directive to destroy all relevant company records concerning the missing inventory; (b)
+submitting to GCC false sub-certifications of ROWâs financial statements for the quarters ended
+December 31, 2011, March 31, 2012, and June 29, 2012, and instructing the Brazil CFO to do the
+same; (c) instructing the Brazil Finance Managers not to disclose the inventory accounting errors to
+members of GCCâs Internal Audit, who were onsite in early 2012; (d) with respect to ROWâs
+CEO, failing to include the accounting errors in monthly reports submitted to GCC executive
+management; and (e) failing, until May 2012, to provide necessary support to investigate the
+inventory overstatement reported by Brazil Finance Managers.
+
+18. In mid-May 2012, ROWâs CFO eventually authorized a ROW cost accountant
+(located outside Brazil) to assist the Brazil Finance Managersâ ongoing investigation of the
+inventory accounting issues. In less than two weeks of analysis, the accountant not only
+corroborated the Brazil Finance Managersâ findings, but reported to ROWâs CFO that inventory
+was improperly overstated by a significant magnitude. The accountant, in this regard, notified
+ROWâs CFO, in both an e-mail and on a videoconference call including the Brazil Finance
+Managers, that the magnitude of the inventory accounting errors was approximately $30 million.
+
+19. Despite this increasing magnitude of the overstatement and its material impact on
+GCCâs financial statements, ROWâs CFO continued to disregard the mounting evidence and
+merely instructed the cost accountant to reassess and report back in six weeks.
+
+20. On July 10, 2012, the cost accountant submitted a written report to ROWâs CFO
+confirming that GCC Brazilâs inventory was overstated by $29 million due to significant
+accounting errors and internal control deficiencies. ROWâs CEO and CFO, however, continued to
+conceal the inventory errors from GCCâs executive management and, on August 3, 2012, GCC
+filed its Form 10-Q for the quarter ended June 30, 2012, which again materially understated costs
+of sales and overstated inventory.
+21. Given the decentralized reporting structure of GCCâs ROW segment, over which
+GCCâs executive management had little actual oversight, the Brazil Finance Managers regarded
+ROWâs CEO and CFO as the highest level to whom they could report their concerns, and believed
+that they did not have direct access to GCC executive management. ROWâs CEO and CFO further
+reinforced this belief by discouraging the country-level financial managers, including the Brazil
+Finance Managers, from reporting issues outside of their direct reporting chain.
+
+22. In late September 2012, the Brazil CFO informed the ROW CEO and CFO that,
+despite the ROW CEO and CFOâs continued protests, she intended to disclose the accounting
+overstatement to GCCâs executive management and external auditors, who were preparing for the
+upcoming fiscal year audit. Faced with no other choice, the ROW CEO reported the matter to
+GCCâs executive management, who immediately directed an internal investigation of the inventory
+issues.
+
+Restatement No. 1
+
+23. On October 29, 2012, GCC announced that it had identified inventory related
+accounting errors within the ROW segment, and that its previously issued financial statements
+for fiscal years 2009 through 2011, and for the interim periods ended March 31 and June 30,
+2012, should not be relied upon. On March 1, 2013, GCC, after completing the internal
+investigation, restated its financial statements as follows: For the annual periods ended
+December 31, 2011, 2010, 2009, and 2008, and for the quarterly periods ended March 30 and
+June 29, 2012, cost of sales was understated by $17.9 million, $8.3 million, $5.6 million, $7.1
+million, $2.7 million and $6.2 million, respectively. For the same periods above, inventory
+balances were overstated by $40.0 million, $27.0 million, $17.4 million, $8.7 million, $43.7
+million, and $43.5 million, respectively.
+
+Restatement No. 2
+
+24. GCC Brazil also failed to implement and maintain sufficient internal accounting
+controls relating to revenue recognition, which ultimately caused GCC to restate its financial
+statements a second time in January 2014. Following the detection and internal investigation of
+GCC Brazilâs inventory accounting errors, GCC identified inappropriate revenue recognition
+practices with regard to bill and hold sales at GCC Brazil. Specifically, GCC found evidence that
+revenue recognition criteria under U.S. Generally Accepted Accounting Principles with respect to
+bill and hold sales were not met in a number of instances.
+
+25. On October 15, 2013, GCC concluded that due to the accounting errors related to
+(1) revenue recognition in connection with historical bill and hold transactions for aerial
+transmission projects in Brazil and (ii) value added tax (âVATâ) assets, GCCâs previously issued
+consolidated financial statements for the fiscal years 2008 through 2012 and the interim periods
+during those years, and the interim financial statements as of and for the three months ended
+March 29, 2013 should no longer be relied upon. On January 21, 2014, GCC restated its results
+for the relevant quarters and fiscal year-ends.
+Legal Standards and Violations
+
+26. Under Section 21C(a) of the Exchange Act, 15 U.S.C. Â§ 78u-3(a), if the
+Commission finds that any person is violating, has violated, or is about to violate any provision of
+the Exchange Act, or any rule or regulation thereunder, the Commission may publish its findings
+and enter an order requiring such person, and any other person that is, was, or would be a cause of
+the violation, due to an act or omission the person knew or should have known would contribute to
+such violation, to cease and desist from committing or causing such violation and any future
+violation of the same provision, rule, or regulation.
+
+27. As a result of the conduct described above, GCC violated Section 13(a) of the
+Exchange Act and Rules 13a-1, 13a-11, and 13a-13 thereunder, which require an issuer to file with
+the Commission accurate annual, current, and quarterly reports. 15 U.S.C. Â§ 78m; 17 C.F.R. Â§Â§
+240.13a-1, 13a-11 & 13a-13. GCC also violated Exchange Act Rule 12b-20, 17 C.F.R. Â§ 240.12b-
+20, which requires an issuer in its periodic reports to add such further material information, if any,
+as may be necessary to make the required statements, in light of the circumstances under which
+they are made, not misleading.
+
+28. GCC further violated Section 13(b)(2)(A) of the Exchange Act, 15 U.S.C.
+Â§ 78m(b)(2)(A), under which every issuer which has a class of securities registered pursuant to
+Section 12 of the Exchange Act is required to make and keep books, records, and accounts, which,
+in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of
+the issuer.
+
+29. GCC further violated Section 13(b)(2)(B) of the Exchange Act, 15 U.S.C. Â§
+78m(b)(2)(B), under which every issuer which has a class of securities registered pursuant to
+Section 12 of the Exchange Act is required to devise and maintain a system of internal accounting
+controls sufficient to provide reasonable assurances that (1) transactions are executed in accordance
+with managementâs general or specific authorization; (11) transactions are recorded as necessary (I)
+to permit preparation of financial statements in conformity with generally accepted accounting
+principles or any other criteria applicable to such statements, and (II) to maintain accountability for
+assets; (111) access to assets is permitted only in accordance with managementâs general or specific
+authorization; and (iv) the recorded accountability for assets is compared with the existing assets at
+reasonable intervals and appropriate action is taken with respect to any differences.
+
+GCCâs Self-Reporting, Cooperation, and Remedial Efforts
+
+30. In determining to accept GCCâs Offer, the Commission considered GCCâs self-
+reporting, substantial cooperation, and remedial efforts. GCC promptly self-reported the
+potential inventory accounting errors in October 2012 after it retained outside counsel to conduct
+an internal investigation. GCC also self-reported other accounting issues as its investigation
+progressed, and regularly updated the staff on the investigation.
+
+31. GCC further provided complete and timely cooperation with the staff by
+providing detailed presentations on the key findings of the investigation, and promptly producing
+all relevant documents and information (including thousands of documents translated into
+English), chronologies, key document binders, interview downloads, and forensic accounting
+analyses. GCC also made its current or former employees available for interviews by the staff
+upon request, including facilitating certain employees to travel to the United States from abroad
+for interviews.
+
+32. GCC also undertook extensive remediation. GCC has terminated or taken
+disciplinary actions against employees who were involved in the accounting issues. All of
+GCCâs executive management during the relevant time period has been replaced. GCC has
+restructured its financial reporting to require its regional finance departments to report directly to
+GCCâs CFO and Controller.
+
+33. Finally, GCC restructured its compliance policies and programs by appointing a
+Chief Compliance Officer who reports directly to GCCâs CEO and Audit Committee. Under this
+restructuring, GCC has enhanced its training of sales and accounting personnel on compliance
+policies and expectations, implemented regular reviews of accounting adjustments, improved the
+inventory reconciliation process and security procedures, developed a global information
+technology strategy for risk assessment and control for financial reporting, and instituted
+evaluations for compliance performance through performance indicators and audits.
+
+Undertakings
+
+34. Respondent has undertaken to cooperate fully with the Commission in any and all
+investigations, litigation, or other proceedings relating to or arising from the matters described in
+this Order. In connection with such cooperation, Respondent shall:
+
+1. Produce, without service of a notice or subpoena, any and all non-
+privileged documents and other information requested by the Commission staff subject to
+any restrictions under the law of any foreign jurisdiction;
+
+2. Use its best efforts to cause its current or former officers, employees, and
+directors to be interviewed by Commission staff at such times and places as the staff
+reasonably may direct;
+
+3. Use its best efforts to cause its current or former officers, employees, and
+directors to appear and testify without service of a notice or subpoena in such
+investigations, depositions, hearings, or trials as may be requested by the Commission
+staff; and
+
+4. In connection with any testimony of Respondentâs officers, employees,
+and directors to be conducted at deposition, hearing, or trial pursuant to a notice or
+subpoena, Respondent
+
+a. Agrees that any such notice or subpoena for the appearance and
+testimony of Respondentâs officers, employees, and directors may be served by
+regular or electronic mail on: Christian J. Mixter, Esq., Morgan, Lewis & Bockius
+LLP, 1111 Pennsylvania Avenue, N.W., Washington, DC 20004,
+christian.mixter@ morganlewis.com, with a copy to Emerson C. Moser, Esq.,
+Senior Vice President, General Counsel and Corporate Secretary, General Cable
+
+ 
+Corporation, 4 Tesseneer Drive, Highland Heights, KY 41076-9753,
+emoser @ generalcable.com;
+
+b. Agrees that any such notice or subpoena for the appearance and
+testimony of Respondentâs officers, employees, and directors in any action
+pending in a United States District Court may be served, and may require
+testimony, beyond the territorial limits imposed by the Federal Rules of Civil
+Procedure.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondentâs Offer.
+
+Accordingly, it is hereby ORDERED that:
+
+A. Pursuant to Section 21C of the Exchange Act, GCC cease-and-desist from
+committing or causing any violations and any future violations of Sections 13(a), 13(b)(2)(A), and
+13(b)(2)(B) of the Exchange Act and Rules 12b-20, 13a-1, 13a-11, and 13a-13 thereunder.
+
+B. GCC shall, within 30 days of the date of entry of this Order, pay a civil monetary
+penalty of $6,500,000 to the Commission for transfer to the general fund of the United States
+Treasury, subject to Exchange Act Section 21F(g)(3). If timely payment of the civil monetary
+penalty is not made, additional interest shall accrue pursuant to 31 U.S.C. Â§ 3717.
+
+C. Payment must be made in one of the following ways:
+
+(1) Respondent may transmit payment electronically to the Commission, which
+will provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter
+identifying General Cable Corporation as a Respondent in these proceedings, and
+the file number of these proceedings; a copy of the cover letter and check or money
+order must be sent to Gerald W. Hodgkins, Division of Enforcement, Securities and
+Exchange Commission, 100 F Street, N.E., Washington, DC 20549.
+D. Amounts ordered to be paid as civil money penalties pursuant to this Order shall be
+treated as penalties paid to the government for all purposes, including all tax purposes. To
+preserve the deterrent effect of the civil penalty, Respondent agrees that in any Related Investor
+Action, Respondent shall not argue that Respondent is entitled to, nor shall Respondent benefit by,
+offset or reduction of any award of compensatory damages by the amount of any part of
+Respondentâs payment of a civil penalty in this action (âPenalty Offsetâ). If the court in any
+Related Investor Action grants such a Penalty Offset, Respondent agrees that Respondent shall,
+within 30 days after entry of a final order granting the Penalty Offset, notify the Commission's
+counsel in this action and pay the amount of the Penalty Offset to the Commission. Such a
+payment shall not be deemed an additional civil penalty and shall not be deemed to change the
+amount of the civil penalty imposed in this proceeding. For purposes of this paragraph, a âRelated
+Investor Actionâ means a private damages action brought against Respondent by or on behalf of
+one or more investors based on substantially the same facts as alleged in the Order instituted by the
+Commission in this proceeding.
+
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+10

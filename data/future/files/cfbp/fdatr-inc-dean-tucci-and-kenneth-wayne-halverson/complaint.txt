@@ -1,0 +1,542 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF ILLINOIS
+
+EASTERN DIVISION
+
+Bureau of Consumer Financial Protection, )
+)
+
+Plaintiff, )
+
+)
+
+V. ) Case No.
+
+)
+
+FDATR, Inc., )
+Dean Tucci, and )
+Kenneth Wayne Halverson, )
+)
+
+Defendants. )
+
+COMPLAINT
+
+The Bureau of Consumer Financial Protection (Bureau) brings this action against
+FDATR, Inc., Dean Tucci, and Kenneth Wayne Halverson for (1) deceptive and abusive
+telemarketing acts or practices that violate the Telemarketing and Consumer Fraud and Abuse
+Prevention Act, 15 U.S.C. Â§Â§ 6101-6108, and the Telemarketing Sales Rule (TSR), 16 C.F.R. Â§Â§
+310.3, 310.4, and (2) deceptive acts or practices that violate Â§Â§ 1031 and 1036 of the Consumer
+Financial Protection Act of 2010 (CFPA), 12 U.S.C. Â§Â§ 5531, 5536. The Bureau alleges as
+follows.
+
+JURISDICTION AND VENUE
+
+1. This Court has subject-matter jurisdiction over this action because it concerns
+federal consumer-financial law, 12 U.S.C. Â§ 5565(a)(1), presents a federal question, 28 U.S.C.
+Â§ 1331, and is brought by an agency of the United States, 28 U.S.C. Â§ 1345.
+
+2. Venue is proper in this district because Defendants are located, reside, or do
+
+business in this district. 12 U.S.C. Â§ 5564(f).
+PARTIES
+
+3. The Bureau is an independent agency of the United States. 12 U.S.C. Â§ 5491. The
+Bureau is charged with enforcing âFederal consumer financial laws.â 12 U.S.C. Â§Â§ 5563, 5564.
+The Bureau has independent litigating authority, 12 U.S.C. Â§Â§ 5564(a)-(b), including the
+authority to enforce the TSR with respect to the offering or provision of a consumer-financial
+product or service under the CFPA, 15 U.S.C. Â§ 6105(d).
+
+4, FDATR, Inc. was a company incorporated in Illinois in 2014 that was
+involuntarily dissolved on September 29, 2020. Its principal place of business was 199 South
+Addison Road, Suite 104A, Wood Dale, Illinois. Through telemarketing and telephone sales,
+FDATR offered and purported to provide student-loan debt-relief and credit-repair services to
+consumers.
+
+5. FDATR is subject to and liable for violations of the CFPA as a âcovered personâ
+because it offered or provided a consumer-financial product or service, specifically âfinancial
+advisory servicesâ in the form of debt-relief and credit-repair services, for use by consumers
+primarily for personal, family, or household purposes. 12 U.S.C. Â§ 5481(5)(A), (6)(A),
+(15)(A)(viii).
+
+6. FDATR is also subject to and liable for violations of the TSR as (1) a
+âtelemarketerâ because, in connection with telemarketing, it initiated and received telephone
+calls from customers, and (2) a âsellerâ because, in connection with a telemarketing transaction,
+it provided or offered to provide services to its customers in exchange for consideration. 16
+C.F.R. Â§ 310.2(dd), (ff). FDATR engaged in âtelemarketingâ because it received inbound
+telephone calls from consumersâcalls that consumers made in response to advertising placed by
+
+or on behalf of FDATRâto induce those consumers to purchase its debt-relief and credit-repair
+â
+
+rs
+the
+th
+
+services. 16 C.F.R. Â§ 310.2(gg). FDATR also provided âdebt relief servicesâ under the TSR
+because it represented that it would alter the terms of payment for consumersâ student-loan debts.
+16 C.F.R. Â§ 310.2(0).
+
+7. Dean Tucci was an owner or officer of, or had managerial responsibility over,
+FDATR. At all material times, Tucci managed, formulated, directed, designed, controlled or had
+the authority to control, and materially participated in the conduct of FDATRâs affairs. He
+developed FDATRâs advertising, sales scripts, and training materials, and he at times managed
+FDATRâs day-to-day operations, including training sales people. In July 2017, Tucci transferred
+FDATRâs ownership to Halverson for $0, but he continued to work for the company until 2019
+as a âconsultantâ with managerial responsibility over, among other things, FDATRâs day-to-day
+operations.
+
+8. Tucci is subject to and liable for CFPA violations as a ârelated personâ and a
+âcovered person.â A person is a ârelated personâ if he or she is a âdirector, officer, or employee
+charged with managerial responsibility for... such covered personâ or a âshareholder,
+consultant, joint venture partner, or other person... who materially participates in the conduct of
+the affairs of such covered person.â 12 U.S.C. Â§ 5481(25)(C)(1), (it). Tucci is a ârelated personâ
+because he was an officer of and had managerial responsibility for FDATRâhe was a key
+decision maker, handled day-to-day operations, and was responsible for marketing and sales
+practices. Tucci remained a ârelated personâ after he transferred ownership of FDATR to
+Halverson in 2017 because he worked as a consultant for FDATR and materially participated in
+its conduct and affairs. 12 U.S.C. Â§ 5481(25)(C)qai). As a ârelated person,â Tucci is deemed a
+
+âcovered personâ under the CFPA. 12 U.S.C. Â§ 5481(25)(B).
+9, Tucci is also subject to and liable for violations of the TSR as a âsellerâ because
+
+he arranged for FDATR to provide its services through telemarketing. 16 C.F.R. Â§ 310.2(dd). He
+is also liable under the TSR for providing substantial assistance or support to FDATR because he
+knew or consciously avoided knowing that it was engaged in acts or practices that violated Â§Â§
+310.3(a) and 310.4 of the TSR. 16 C.F.R. Â§ 310.3(b). He provided substantial assistance because
+he drafted FDATRâs telemarketing sales scripts and designed FDATRâs program and marketing
+materials. He knew or consciously avoided knowing that the representations being made about
+the programâs success were false or had no reasonable basis and could not be substantiated.
+
+10. Kenneth Wayne Halverson was an owner, officer, or manager of FDATR.
+Halverson joined FDATR in 2016 as an officer and sales floor manager. He managed the
+companyâs day-to-day operations and took control of the company when Tucci transferred
+ownership to him in 2017. He purportedly closed the company in 2019.
+
+11. Halverson is subject to and liable for CFPA violations as a ârelated personâ or
+âcovered person.â A person is a ârelated personâ if he or she is a âdirector, officer, or employee
+charged with managerial responsibility for... such covered personâ or a âshareholder,
+consultant, joint venture partner, or other person... who materially participates in the conduct of
+the affairs of such covered person.â 12 U.S.C. Â§ 5481(25)(C)(1), (11). Halverson is a ârelated
+personâ because he was an officer of and had managerial responsibility for FDATRâhe handled
+its day-to-day operations as well as its sales force and sales practices. As a related person,
+Halverson is deemed a âcovered personâ under the CFPA. 12 U.S.C. Â§ 5481(25)(B).
+
+12. Halverson is also subject to and liable for violations of the TSR as a âsellerâ
+because he arranged for FDATR to provide its debt-relief services through telemarketing. 16
+
+C.F.R. Â§ 310.2(dd). He is also liable under the TSR for providing substantial assistance or
+gf
+
+3
+poet
+z {
+
+support to FDATR, because he knew or consciously avoided knowing that it was engaged in acts
+or practices that violated Â§Â§ 310.3(a) and 310.4 of the TSR. 16 C.F.R. Â§ 310.3(b). He provided
+substantial assistance because he managed the companyâs sales floor and was involved in the
+design of the companyâs program and marketing materials. He knew or consciously avoided
+knowing that the representations being made about the programâs success were false or had no
+reasonable basis and could not be substantiated.
+FACTUAL ALLEGATIONS
+13. | FDATR offered and provided student-loan debt-relief and credit-repair services to
+consumers nationwide from 2011 until at least April 2019.
+14. FDATR solicited consumers through radio and television commercials as well as
+through its website, fedslrelief.com, and through Facebook ads that linked to the website.
+15. On both the website and in Facebook advertisements, FDATR claimed that its
+services would:
+e Reduce or Eliminate Your Payments;
+e Stop Wage Garnishment;
+e Lift IRS Tax Liens; and
+e Improve Credit Scores.
+16. On its website, FDATR additionally claimed that 1t would:
+e Cut Loan Payments in HALF;
+e Restore Financial Aid Eligibility;
+e Remove I9 Rating; and
+
+e Restore your ability to get your Diplomas & Transcripts.
+17. FDATRâs advertisements instructed consumers to call a toll-free number, which
+
+connected consumers to FDATRâs telemarketing call center.
+
+18. Through telemarketing-sales agents, FDATR told consumers that the company
+had helped thousands of customers resolve their loan-payment problems.
+
+19. FDATR, through its telemarketing-sales agents, told consumers that its services
+would result in lower student-loan payments or in consumersâ student loans being forgiven and
+that, with respect to those student loans, consumers would be debt-free, owing $0 in payments.
+
+20. For consumers facing wage garnishment due to a student-loan debt, FDATR,
+through its telemarketing-sales agents, offered services to resolve the consumerâs wage
+garnishment.
+
+21. For consumers that enrolled in services, FDATRâs telemarketing-sales agents
+caused electronic documents, including a contract, a power-of-attorney form, and an invoice, to
+be sent to the enrolling consumer through FDATRâs customer-management platform.
+
+22. Before sending those documents to prospective customers, FDATR, through its
+telemarketing-sales agents, charged the customer, typically $1 or $99, purportedly to ensure that
+it had a valid payment method on file.
+
+23. For its services, FDATR typically charged customers a minimum of $499 as a
+one-time payment within two to three weeks of enrollment or $600 paid in installments over a
+three-to-six-month period, with customers typically making the first payment within days or
+weeks of enrollment.
+
+24. The services that FDATR typically provided to customers consisted of, at most,
+completing and filing loan-consolidation paperwork with the Department of Education, and it
+
+typically took three to six months to do so.
+Case: 1:20-cv-00879 Document #: J gd: 22/20/20 Page 7 of 15 Pagelb a?
+25. But loan consolidation alone does not achieve the results that FDATR promised to
+
+consumersâit does not necessarily result in lower loan payments, does not eliminate payments,
+and can result in higher payments. Moreover, loan consolidation does not improve consumersâ
+credit scores or remove negative credit-status codes or ratings from credit reports.
+
+26. | FDATR had no basis to assert that its services would result in lower monthly
+payments, cut student-loan payments in half, or eliminate consumerâs monthly student-loan
+payments entirely. FDATR did not track whether its services achieved any of these results for
+consumers. And consumers complained that FDATR did not, in fact, achieve these results.
+
+27. FDATR had no basis to assert that its services would result in improved credit
+scores or the removal of negative credit-status codes or ratings from credit reports. In fact,
+FDATR did no work to improve consumersâ credit scores or to remove negative credit-status
+codes or ratings from credit reports. And FDATR did not track whether its services achieved
+these promised results. FDATR did not check consumersâ credit scores before or after the
+company performed services for consumers and had no way of knowing how, or to what extent,
+even a successful loan consolidation would impact a consumerâs credit score.
+
+COUNT I
+Abusive Telemarketing Acts or Practices That Violate the TSRâDebt-Relief Services
+(Against All Defendants)
+
+28. The allegations in paragraphs | to 27 are incorporated here by reference.
+
+29. It is an abusive telemarketing act or practice and a TSR violation for any seller or
+telemarketer to request or receive payment of any fee or consideration for any debt-relief service
+until and unless:
+
+a. the seller or telemarketer has renegotiated, settled, reduced, or otherwise
+
+altered the terms of at least one debt pursuant to a settlement agreement,
+oye oe RA ER DIAS
+Oro Praesent th ot Ean: PUP aAfen De
+
+SF ted se o3i eee i ga e S oR FP PE aw ee Baa?
+COP LAGE EER PP A. OPUS 4 Pak FT Â§
+
+Sebel
+
+aaa, TR RT OF = uy pt. Â¢
+ge ety ra â sop eet shake
+PIO M OVP Pee Mme thd geo
+Re Nee RR ee LAN Ae Pe,
+
+x
+
+â
+
+a7
+the
+th
+
+debt-management plan, or other such valid contractual agreement
+executed by the customer;
+
+b. the customer has made at least one payment pursuant to that settlement
+agreement, debt-management plan, or other valid contractual agreement
+between the customer and the creditor or debt collector; and
+
+C. to the extent that debts enrolled in a service are renegotiated, settled,
+reduced, or otherwise altered individually, the fee or consideration either
+(1) bears the same proportional relationship to the total fee for
+renegotiating, settling, reducing, or altering the terms of the entire debt
+balance as the individual debt amount bears to the entire debt amount; or
+(2) is a percentage of the amount saved as a result of the renegotiation,
+settlement, reduction, or alteration. 16 C.F.R. Â§ 310.4(a)(5)(1).
+
+30. In numerous instances, in connection with telemarketing student-loan debt-relief
+services, Defendants requested and received payment of a fee or consideration for a debt-relief
+service before they renegotiated, settled, reduced, or otherwise altered the terms of at least one
+debt pursuant to a settlement agreement, debt-management plan, or other such valid contractual
+agreement executed by the customer and the customer made at least one payment pursuant to
+that agreement. And FDATRâs fee or consideration was not proportional to or a percentage of
+the amount saved as a result of its services. 16 C.F.R. Â§ 310.4(a)(5)(i).
+
+31. Defendants, therefore, engaged in abusive telemarketing acts or practices that
+
+violated the TSR. 16 C.F.R. Â§ 310.4(a)(5)().
+32. In addition to being sellers under the TSR, Tucci and Halverson also provided
+
+substantial assistance or support to FDATR while they knew or consciously avoided knowing
+that FDATR had engaged in an act or practice that violated the TSR. 16 C.F.R. Â§ 310.3(b).
+COUNT II
+Abusive Telemarketing Acts or Practices That Violate the TSRâCredit-Repair Services
+(Against All Defendants)
+
+33. The allegations in paragraphs | to 27 are incorporated here by reference.
+
+34. It is an abusive telemarketing act or practice and TSR violation for any seller or
+telemarketer to request or receive payment of any fee or consideration for goods or services
+represented to remove derogatory information from, or improve, a personâs credit history, credit
+record, or credit rating, until:
+
+a. the timeframe in which the seller has represented that all of the goods or
+services will be provided to that person has expired; and
+
+b. the seller has provided the person with documentation in the form of a
+consumer report from a consumer-reporting agency demonstrating that the
+promised results have been achieved, such report having been issued more
+than six months after the results were achieved. 16 C.F.R. Â§ 310.4(a)(2).
+
+35. Defendants made representations to consumers that its services would remove
+derogatory information from, or improve, consumersâ credit histories, credit reports, or credit
+ratings, but Defendants did not provide any such services.
+
+36. Defendants routinely requested and received payment of a fee or consideration for
+its credit-repair services before (a) the timeframe in which they represented that all of their goods
+or services would be provided to the consumer expired, and (b) they provided the consumer with
+
+documentation in the form of a consumer report from a consumer-reporting agency
+demonstrating that the promised results were achieved, such report having been issued more than
+six months after the results were achieved.
+
+37. Defendants, therefore, engaged in abusive telemarketing acts or practices that
+violated the TSR, 16 C.F.R. Â§ 310.4(a)(2).
+
+38. In addition to being sellers under the TSR, Tucci and Halverson also provided
+substantial assistance or support to FDATR while they knew or consciously avoided knowing
+that FDATR had engaged in an act or practice that violated the TSR. 16 C.F.R. Â§ 310.3(b).
+
+COUNT I
+Deceptive Telemarketing Acts or Practices That Violate the TSR
+(Against All Defendants)
+
+39. The allegations in paragraphs | to 27 are incorporated here by reference.
+
+AO. It is a deceptive telemarketing act or practice under the TSR for a seller or
+telemarketer to misrepresent any material aspect of the performance, efficacy, nature, or central
+characteristics of its services. 16 C.F.R. Â§ 310.3(a)(2)ai1).
+
+Al. It is also a deceptive marketing practice under the TSR for a seller or telemarketer
+of a debt-relief service to misrepresent any material aspect of any debt-relief service, including:
+(1) the percentage of the debt amount that a customer may save through the service, (2) the effect
+of the service on collection efforts of the customerâs creditors or debt collectors, and (3) the
+effect of the service on a customerâs creditworthiness. 16 C.F.R. Â§ 310.3(a)(2)(x). And, when
+making representations, a seller or telemarketer must have a reasonable basis to substantiate its
+claims. Telemarketing Sales Rule, Statement of Basis and Purpose, 75 Fed. Reg. 48,458, 48,500-
+501 (Aug. 10, 2010).
+
+42. In numerous instances, in connection with telemarketing their services,
+
+Defendants misrepresented, directly or indirectly, expressly or by implication, material aspects of
+
+10
+the student-loan debt-relief services that they offered, sold, or provided to consumers, including
+
+that its services would result in:
+
+a. reduced student-loan payments or cut student-loan payments in half;
+
+b. eliminated student-loan payments;
+
+C. improved credit scores; and
+
+d. the removal of negative credit-status codes or ratings from credit reports.
+43. But, in numerous instances, FDATRâs actions did not result in the elimination of
+
+consumersâ student-loan payments, did not cut consumersâ student-loan payments, did not
+always reduce consumersâ student-loan payments, did not improve consumersâ credit scores, and
+did not remove negative credit-status codes or ratings from consumersâ credit reports. Further,
+FDATR did not provide any services related to credit reporting or scores and in no way tracked
+whether it achieved the results advertised.
+
+44. Accordingly, these claims were falseâFDATR rarely if ever achieved the
+promised results and, in some instances, did not provide the promised services at all.
+
+45. These claims were also unsubstantiatedâFDATR cannot substantiate these
+claims because it did not track its results and it had no way of knowing whether it achieved the
+promised results.
+
+46. Defendants, therefore, engaged in deceptive telemarketing acts or practices that
+violated the TSR, 16 C.F.R. Â§ 310.3(a)(2)(ii1) and (x).
+
+A7. In addition to being sellers under the TSR, Tucci and Halverson also provided
+substantial assistance or support to FDATR while they knew or consciously avoided knowing
+
+that FDATR had engaged in an act or practice that violated the TSR. 16 C.F.R. Â§ 310.3(b).
+
+11
+COUNT IV
+TSR Violations Constitute Violations of the CFPA
+(Against All Defendants)
+
+48. The allegations in paragraphs | to 27 are incorporated here by reference.
+
+49, Under the CFPA, it is unlawful for any covered person or service provider to
+commit any act or omission that violates a âFederal consumer financial law.â 12 U.S.C. Â§
+5536(a)(1)(A).
+
+50. A violation of the TSR that is committed by a person subject to the CFPA shall be
+treated as a violation of a rule under Â§ 1031 of the CFPA, 12 U.S.C. Â§ 5531, regarding unfair,
+deceptive, or abusive acts or practices. 15 U.S.C. Â§ 6102(c)(2).
+
+51. Therefore, a violation of the TSR by a covered person is also a violation of the
+CFPA.
+
+52. Because Defendants are covered persons and have committed an act or omission
+that violated the TSR, they also violated the CFPA. 12 U.S.C. Â§ 5536(a)(1)(A).
+
+COUNT V
+Deceptive Acts or Practices That Violate the CFPA
+(Against All Defendants)
+
+53. The allegations in paragraphs | to 27 are incorporated here by reference.
+
+54. Under the CFPA, it is unlawful for any covered person or service provider to
+engage in a deceptive act or practice in connection with any transaction with a consumer for a
+consumer-financial product or service, or the offering of a consumer-financial product or service.
+12 U.S.C. Â§Â§ 5531(a), 5536(a)(1)(B).
+
+55. An act or practice is deceptive if it involves a material misrepresentation or
+
+omission that is likely to mislead consumers acting reasonably under the circumstances.
+
+12
+56. In numerous instances, in connection with the offering or provision of student-
+loan debt-relief and credit-repair services, Defendants represented, directly or indirectly,
+
+expressly or by implication, to consumers that its services would result in:
+
+a. reduced student-loan payments or cut student-loan payments in half;
+
+b. eliminated student-loan payments;
+
+C. improved credit scores; and
+
+d. the removal of negative credit-status codes or ratings from credit reports.
+57. These claims were material because they were the main services that FDATR
+
+offeredâdebt relief and credit repairâand were the outcomes that financially distressed
+consumers paid FDATR to pursue. Moreover, these claims were likely to affect consumersâ
+decisions to enroll in FDATRâs program and pay FDATR for its services.
+
+58. These claims were falseâFDATR rarely if ever achieved the promised results
+and, in some instances, did not provide the promised services at all.
+
+59, These claims were also unsubstantiatedâFDATR cannot substantiate these
+claims because it did not track its results and it had no way of knowing whether it achieved the
+promised results.
+
+60. Consumers reasonably relied on FDATRâs express claims about the results its
+services would achieve, and these claims misled financially distressed consumers into paying
+substantial amounts of money to FDATR to their detriment.
+
+6l. Defendants, therefore, engaged in deceptive acts or practices that violated the
+
+CFPA. 12 U.S.C. Â§Â§ 5531, 5536(a)(1).
+
+13
+Case: 1:20-cv-06879 Document #: 1 Filed: 11/20/20 Page 14 of 15 PagelD #:14
+
+DEMAND FOR RELIEF
+
+As permitted by 12 U.S.C. Â§ 5565, the Bureau requests that the Court:
+
+a. permanently enjoin Defendants from further violations of the TSR and CFPA;
+
+b. grant additional equitable relief as the Court may deem to be just and proper,
+
+including the rescission of contracts;
+
+C. award monetary relief against Defendants, including the refund of monies paid
+
+and restitution;
+
+d. order disgorgement of ill-gotten revenues against Defendants;
+e. impose civil money penalties against Defendants; and
+f. award the costs of bringing this action, as well as such other and additional relief
+
+as the Court may determine to be just and proper.
+
+Dated: November 20, 2020
+
+Respectfully submitted,
+
+THOMAS G. WARD
+
+Enforcement Director
+
+JEFFREY PAUL EHRLICH
+
+(FL Bar No. 51561)
+
+Deputy Enforcement Director
+
+OWEN MARTIKAN
+
+Assistant Deputy Enforcement Director
+(CA Bar No. 177104)
+
+/s/ Carmen L. Christopher
+
+CARMEN L. CHRISTOPHER
+
+(CA Bar No. 231508)
+
+Senior Litigation Counsel
+
+Bureau of Consumer Financial Protection
+1700 G Street, NW
+
+Washington DC, 20552
+
+Telephone: (202) 754-0329
+carmen.christopher@cfpb.gov
+KRISTINA D. BETTS
+
+(AZ Bar No. 024859)
+
+Senior Litigation Counsel
+
+Bureau of Consumer Financial Protection
+
+ 
+
+14
+wey
+
+re
+:
+ad dat
+
+wiehe
+Th.
+
+ry
+
+.
+:
+'
+
+â
+peor
+ene
+
+â
+peor
+4
+
+1700 G Street, NW
+Washington DC, 20552
+
+Telephone: (202) 834-2723
+kristina. betts@cfpb.gov
+
+Bureau of Consumer Financial Protection
+
+Attorneys for Plaintiff
+
+15

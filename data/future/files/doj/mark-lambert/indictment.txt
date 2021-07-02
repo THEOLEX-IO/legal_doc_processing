@@ -1,0 +1,907 @@
+ 
+   
+ 
+  
+
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 1 of 24
+
+V0 DIS/MTP: USAO 2014R00701
+
+  
+
+IN THE UNITED STATES DISTRICT COURT -
+FOR THE DISTRICT OF MARYLAND
+
+   
+  
+  
+
+  
+
+>
+tov
+
+UNITED STATES OF AMERICA Gg
+CRIMINAL NO. THC LE Er LA
+
+v.
+MARK T. LAMBERT, (Conspiracy to Violate the Foreign
+Corrupt Practices Act and to Commit
+Wire Fraud, 18 U.S.C. Â§ 371; Violation
+of Foreign Corrupt Practices Act,
+
+15 U.S.C. Â§ 78dd-2; Wire Fraud,
+
+18 U.S.C. Â§ 1343; Money Laundering,
+18 U.S.C. Â§ 1956(a)(2)(A); Aiding and
+Abetting, 18 U.S.C. Â§ 2; Forfeiture,
+
+18 U.S.C. Â§Â§ 981(a)(1)(C) and
+982(a)(1), 28 U.S.C. Â§ 2461(c))
+
+Defendant
+
+ 
+
+ee
+
+*
+
+REKEKEKE
+
+INDICTMENT
+COUNT ONE
+(Conspiracy to Violate the Foreign Corrupt
+Practices Act and to Commit Wire Fraud)
+The Grand Jury for the District of Maryland charges that:
+Introduction
+At times material to this Indictment:
+Relevant Entities and Individuals
+1. Transportation Corporation A, a company whose identity is known to the Grand
+Jury, was a United States company headquartered in Maryland, and thus a âdomestic concern,â
+as that term is used in the Foreign Corrupt Practices Act (âFCPAâ), Title 15, United States Code,
+Section 78dd-2(h)(1)(B). Transportation Corporation A was in the business of providing
+
+logistical support services for the transportation of nuclear materials to customers in the United
+
+States and to foreign customers, including to and from the Russian Federation.
+
+ 
+Case 8:18-cr-00012-TDC Document 1 Filed 01/10/18 Page 2 of 24
+
+2. Defendant Mark T. Lambert (âdefendant LAMBERTâ) was a citizen of the
+United States and resident of Maryland. Defendant LAMBERT was an owner and executive of
+Transportation Corporation A from in or about August 1998 through in or about September
+2016. Defendant LAMBERT was also the co-President of Transportation Corporation A from
+in or about January 2010 through in or about September 2016. Thus, defendant LAMBERT
+was a âdomestic concernâ and an officer, employee, and agent of a âdomestic concern,â as those
+terms are used in the FCPA, Title 15, United States Code, Section 78dd-2(h)(1).
+
+3. Daren Condrey (ââCondreyâ), who has been charged separately, was a citizen of
+the United States and resident of Maryland. Condrey was an owner and executive of
+Transportation Corporation A from in or about August 1998 through in or about October 2014.
+Condrey and defendant LAMBERT were also the co-Presidents of Transportation Corporation
+A from in or about January 2010 through in or about October 2014. Thus, Condrey was a
+âdomestic concernâ and an officer, employee and agent of a âdomestic concern,â as those terms
+are used in the FCPA, Title 15, United States Code, Section 78dd-2(h)(1).
+
+4. ââCo-Conspirator One,â a person whose identity is known to the Grand Jury, was
+an owner and executive of Transportation Corporation A with defendant LAMBERT and
+Condrey from in or about 1998 to in or about December 2009, and a consultant to Transportation
+Corporation A from in or about January 2010 through in or about 2011.
+
+5. JSC Techsnabexport (âTENEXâ) supplied uranium and uranium enrichment
+services to nuclear power companies throughout the world on behalf of the government of the
+Russian Federation. TENEX was indirectly owned and controlled by, and performed functions
+
+of, the government of the Russian Federation, and thus was an âagencyâ and âinstrumentalityâ of
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 3 of 24
+
+a foreign government, as those terms are used in the FCPA, Title 15, United States Code, Section
+78dd-2(h)(2).
+
+6. TENAM Corporation (âTENAMâ), located in the United States, was a wholly-
+owned subsidiary of TENEX established in or about October 2010. TENAM was TENEXâs
+official representative office in the United States. TENAM was owned and controlled by, and
+performed functions of, the government of the Russian Federation, and thus was an âagencyâ and
+âinstrumentalityâ of a foreign government, as those terms are used in the FCPA, Title 15, United
+States Code, Section 78dd-2(h)(2).
+
+7. Vadim Mikerin (âMikerinâ), a national of the Russian Federation, was a Director
+of TENEX from at least in or around 2004 through in or around 2011, and also was the President
+of TENAM from in or around October 2010 through in or around October 2014. From in or
+around 2011 through in or around October 2014, Mikerin was a resident of Maryland. Mikerin
+was a âforeign official,â as that term is used in the FCPA, Title 15, United States Code, Section
+78dd-2(h)(2).
+
+8. âShell Company A,â a company whose identity is known to the Grand Jury, was a
+shell company with a purported physical address in the Republic of Seychelles. Shell Company
+A had bank accounts at financial institutions in Cyprus associated with a Russian national.
+
+9. âShell Company B,â a company whose identity is known to the Grand Jury, was a
+shell company with a purported physical address in the United Kingdom. Shell Company B had
+
+a bank account at a financial institution in Latvia associated with a Russian national.
+
+ 
+ 
+
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 4 of 24
+
+10. âShell Company C,â a company whose identity is known to the Grand Jury, was a
+shell company with a purported physical address in the British Virgin Islands. Shell Company
+C had bank accounts at financial institutions in Switzerland associated with a Russian national.
+
+The Foreign Corrupt Practices Act
+
+11. The Foreign Corrupt Practices Act of 1977 (âFCPAâ), as amended, Title 15,
+United States Code, Sections 78dd-1, et seg., was enacted by Congress for the purpose of, among
+other things, making it unlawful to act corruptly in furtherance of an offer, promise,
+authorization, or payment of money or anything of value, directly or indirectly, to a foreign
+government official for the purpose of obtaining or retaining business for, or directing business
+to, any person.
+
+The Scheme to Defraud and Make Corrupt Payments
+
+12. | At some point in or before 2009, defendant LAMBERT and Condrey learned that
+Co-Conspirator One had agreed with Mikerin to make corrupt bribe and kickback payments in
+order for Transportation Corporation A to obtain and retain business and contracts with TENEX.
+Co-Conspirator One explained that the amount of each corrupt payment was based on an
+agreement with Mikerin to kickback a percentage of certain contract awards that TENEX
+awarded to Transportation Corporation A to benefit Mikerin, and that Mikerin would help
+Transportation Corporation A win contract awards with TENEX if such corrupt payments were
+made. Soon after learning of the corrupt and fraudulent scheme, defendant LAMBERT and
+Condrey agreed to enter into the conspiracy with Co-Conspirator One to make corrupt and
+fraudulent bribe and kickback payments to offshore bank accounts to benefit Mikerin in order to
+
+help Transportation Corporation A obtain and retain business with TENEX.
+ 
+
+ 
+
+Case 8:18-cr-00012-TDC Document 1 Filed 01/10/18 Page 5 of 24
+
+13. In order to conceal and further the scheme, the co-conspirators, including
+defendant LAMBERT and Condrey, used the terms âremunerationâ and âcommissionâ when
+documenting the corrupt and fraudulent payments on an internal spreadsheet and when
+communicating with unknowing Transportation Corporation A employees who unwittingly
+processed the corrupt and fraudulent payments to offshore accounts.
+
+14. âIn order to justify Transportation Corporation Aâs corrupt and fraudulent
+payments to offshore accounts to benefit Mikerin, and to generate the money to make the
+payments, defendant LAMBERT, Condrey and others, including Co-Conspirator One and
+Mikerin, caused fake invoices to be prepared, which purported to be from TENEX to
+Transportation Corporation A and which fraudulently described services that were never
+provided by TENEX to Transportation Corporation A. Defendant LAMBERT, Condrey, and
+others, including Co-Conspirator One, caused Transportation Corporation A to make the corrupt
+and fraudulent payments after Transportation Corporation A received the fraudulent invoices.
+
+15. Co-Conspirator One left Transportation Corporation A in early 2010, but
+continued to work as a consultant to Transportation Corporation A. Upon Co-Conspirator
+Oneâs departure from Transportation Corporation A, defendant LAMBERT and Condrey
+became co-Presidents of Transportation Corporation A and continued to conspire with Co-
+Conspirator One to communicate with Mikerin and facilitate the corrupt and fraudulent bribe and
+kickback payments.
+
+16. Co-Conspirator One died in or around August 2011. After Co-Conspirator
+Oneâs death and continuing through in or around October 2014, defendant LAMBERT and
+
+Condrey continued the corrupt and fraudulent bribe and kickback scheme and communicated
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 6 of 24
+
+directly with Mikerin to obtain fraudulent invoices and facilitate the corrupt and fraudulent
+
+payments.
+
+The Conspiracy
+
+17. From in or around 2004 and continuing through in or around October 2014, in the
+District of Maryland and elsewhere, the defendant,
+MARK T. LAMBERT,
+did knowingly and willfully, that is, with the intent to further the objects of the conspiracy,
+combine, conspire, confederate, and agree with Condrey, Co-Conspirator One and others, known
+and unknown, to commit offenses against the United States, namely:
+
+a. to willfully make use of the mails and means and instrumentalities of
+interstate commerce corruptly in furtherance of an offer, payment, promise to pay, and
+authorization of the payment of any money, offer, gift, promise to give, and authorization of the
+giving of anything of value, to a foreign official, and to a person, while knowing that all or a
+portion of such money and thing of value would be and had been offered, given, and promised to
+a foreign official, for purposes of: (i) influencing acts and decisions of such foreign official in his
+or her official capacity; (ii) inducing such foreign official to do and omit to do acts in violation of
+the lawful duty of such official; (iii) securing an improper advantage; and (iv) inducing such
+foreign official to use his or her influence with a foreign government and agencies and
+instrumentalities thereof to affect and influence acts and decisions of such government and
+agencies and instrumentalities, in order to assist defendant LAMBERT, Condrey, Co-
+
+Conspirator One, Transportation Corporation A, and others in obtaining and retaining business
+ 
+
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 7 of 24
+
+for and with, and directing business to, Transportation Corporation A and others, in violation of
+Title 15, United States Code, Section 78dd-2; and
+
+b. to knowingly and with the intent to defraud, devise, and intend to devise a
+scheme and artifice to defraud, and for obtaining money and property by means of materially
+false and fraudulent pretenses, representations, and promises, knowing that the pretenses,
+representations, and promises were false and fraudulent when made, and did knowingly transmit
+-and cause to be transmitted, by means of wire communication in interstate commerce, writings,
+signs, signals, pictures, and sounds for the purpose of executing such scheme and artifice in
+violation of Title 18, United States Code, Section 1343.
+
+Manner and Means of the Conspiracy
+
+18. | The manner and means by which defendant LAMBERT and others, including
+Condrey and Co-Conspirator One, sought to accomplish the objects of the conspiracy included,
+among other things, the following:
+
+19. It was part of the conspiracy that defendant LAMBERT and others, including
+Condrey and Co-Conspirator One, offered to pay, promised to pay, and authorized corrupt and
+fraudulent bribe and kickback payments for the benefit of Mikerin, in exchange for Mikerinâs
+agreement to help Transportation Corporation A secure business and contracts with TENEX.
+
+20. It was further part of the conspiracy that defendant LAMBERT and others,
+including Condrey and Co-Conspirator One, discussed in person, and through, among other
+means, electronic mail (âemailâ) and text messaging, making corrupt and fraudulent bribe and
+kickback payments to offshore accounts to benefit Mikerin in order for Transportation
+
+Corporation A to obtain and retain business with TENEX.
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 8 of 24
+
+21. âIt was further part of the conspiracy that defendant LAMBERT and others,
+including Condrey and Co-Conspirator One, concealed their scheme by using code words like
+
+99 66.
+
+âlucky figure,â âLF,â âlucky numbers,â âcake,â âremuneration,â and âcommissionâ when
+communicating about the corrupt and fraudulent bribe and kickback scheme.
+
+22. It was further part of the conspiracy that defendant LAMBERT and others,
+including Condrey and Co-Conspirator One, emailed with Mikerin at Mikerinâs personal email
+address to discuss the corrupt and fraudulent bribery and kickback scheme, in order to evade
+detection by other TENEX officials and others who were not benefiting from the scheme.
+
+23. It was further part of the conspiracy that defendant LAMBERT and others,
+including Condrey and Co-Conspirator One, caused fraudulent invoices to be created and
+transmitted by email to others in order to document purported services that were not actually
+provided to Transportation Corporation A and to justify the payment of corrupt and fraudulent
+bribes and kickbacks to offshore accounts.
+
+24. It was further part of the conspiracy that defendant LAMBERT, Condrey, and
+Co-Conspirator One kept track of the corrupt bribe and kickback payments that had been made
+and were pending, and they agreed with Mikerin that the amount of each corrupt and fraudulent
+payment was based on an agreed-upon percentage of certain TENEX contract payments to
+Transportation Corporation A.
+
+25. It was further part of the conspiracy that defendant LAMBERT and others,
+including Condrey and Co-Conspirator One, concealed their corrupt and fraudulent bribe and
+
+kickback payments in a manner that allowed those payments to go undetected by certain TENEX
+
+officials and caused TENEX to overpay for Transportation Corporation Aâs services.
+ 
+
+ 
+
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 9 of 24
+
+26. â It was further part of the conspiracy that defendant LAMBERT and others,
+including Condrey and Co-Conspirator One, caused Transportation Corporation A to wire
+corrupt and fraudulent bribe and kickback payments from Transportation Corporation Aâs bank
+account in Maryland to offshore bank accounts associated with companies that had no legitimate
+business relationship with Transportation Corporation A, such as Shell Company A in the
+Republic of Cyprus, Shell Company B in Latvia, and Shell Company C in Switzerland, for the
+purpose of executing and concealing the corrupt and fraudulent payments.
+
+Overt Acts
+
+In furtherance of the conspiracy, and to achieve the objects thereof, at least one of the
+conspirators committed, and caused to be committed, in the District of Maryland and elsewhere,
+at least one of the following overt acts, among others:
+
+A. On or about September 23, 2011, Mikerin emailed defendant LAMBERT and
+Condrey from Mikerinâs personal email address to provide inside information from TENEX to
+assist Transportation Corporation A obtain a new contract award over âthe other two
+competitors,â in exchange for additional corrupt bribe and kickback payments. In the email,
+Mikerin requested, in relevant part, that defendant LAMBERT and Condrey âinitiate from your
+side new quotations for filled and empty cylinders transportationâ for 2012 and 2013 and
+specified that the ârates should include new Lucky Figures.â
+
+B. On or about September 23, 2011, defendant LAMBERT replied to Mikerinâs
+email referenced in Paragraph A above, and defendant LAMBERT submitted a draft email for
+Mikerin to review, which defendant LAMBERT intended to send to the TENEX senior official
+
+and included the specific pricing terms suggested by Mikerin.
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 10 of 24
+
+C. On or about September 23, 2011, after Mikerin approved the draft language
+proposed by defendant LAMBERT in the email referenced in Paragraph B above, defendant
+LAMBERT emailed the exact language and pricing terms that Mikerin approved to the senior
+official at TENEX, copying Condrey.
+
+D. On or about September 27, 2011, defendant LAMBERT spoke by phone with a
+representative from Transportation Corporation Aâs bank to authorize the wire transfer of
+approximately $81,397.21 from Transportation Corporation Aâs bank account in Maryland to a
+Shell Company B bank account in Latvia, and defendant LAMBERT confirmed on the call that
+the payment was in reference to âInvoice No. 35558, dated September 22, 2011.â
+
+E. On or about September 27, 2011, Transportation Corporation A made a wire
+transfer payment of approximately $81,397.21 from Transportation Corporation Aâs bank
+account in Maryland to a Shell Company B bank account in Latvia.
+
+F, On or about October 19, 2011, Condrey emailed defendant LAMBERT projected
+pricing estimates for Transportation Corporation A to offer TENEX for 2011, 2012, and 2013,
+and Condrey explained that â10% as TENEX Remuneration for each packageâ was built into the
+prospective quotes to TENEX.
+
+G. On or about October 20, 2011, defendant LAMBERT emailed Condrey with new
+pricing estimates for Transportation Corporation A to offer TENEX for 2011 â 2014, which also
+included âTENEX Remunerationâ built into the prospective quotes to TENEX.
+
+H. On or about December 2, 2011, Mikerin emailed defendant LAMBERT and
+
+Condrey from his personal email address, with the subject line, ânews and lucky figure,â and
+
+10
+ 
+
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 11 of 24
+
+stated, in relevant part, â. . . with the understanding of the forthcoming end of Q4 and CY2011
+please tell me what lucky figure will be when we should start our process (docs, etc.).â
+
+I, On or about December 20, 2011, as a follow-up to the ânews and lucky figureâ
+email referenced in Paragraph H above, Condrey replied to Mikerin at his personal email
+address, copying defendant LAMBERT, âI am off from work today. . . . Just shoot me an email
+with your proposal, or you can call Mark [LAMBERT] at the office as he is fully informed, and
+we can finalize how you want to proceed.â
+
+J. On or about December 21, 2011, Mikerin sent an email to defendant LAMBERT
+and Condrey, in which Mikerin referenced the âLucky figuresâ being calculated for Q4 2011...
+[and] based on this the Invoice will be arranged just today and sent to you. [Y]our payment is
+to be effected on [December] 23 in order to be ahead of the holiday season and to allow [Shell
+Company B] to get the funds early next week. [J] f our Big Friend improves the issue some time
+later and you are Ok with the results we will reestablish Lucky Figures for Q1 2012[.] Iâve just
+got âOkâ to proceed with [Shell Company B] in the shortest possible time (hot market activities)
+and kindly request you to confirm and give âgreen lightâ.â
+
+K. On or about December 21, 2011, Condrey sent an email to Mikerin at his personal
+email address in response to the email referenced in Paragraph J above, copying defendant
+LAMBERT, to âconfirm and give the âGreen Light,ââ and to request the invoice.
+
+L. Later that day, on or about December 21, 2011, Mikerin emailed Condrey from
+his personal email address. Mikerin attached a document to the email, which purported to be
+
+TENEX âInvoice No. 35685â and was dated December 12, 2011. The document fraudulently
+
+11
+ 
+
+ 
+
+ 
+
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 12 of 24
+
+described services that were never provided to Transportation Corporation A to justify a corrupt
+and fraudulent payment of approximately $125,930.53.
+
+M. On or about December 22, 2011, defendant LAMBERT spoke by phone with a
+representative from Transportation Corporation Aâs bank to authorize the wire transfer of
+approximately $125,930.53 from Transportation Corporation Aâs bank account in Maryland to a
+Shell Company B bank account in Latvia, and defendant LAMBERT confirmed on the call that
+the payment was in reference to âInvoice No. 35685, dated December 12, 2011.â
+
+N. On or about December 22, 2011, Transportation Corporation A made a wire
+transfer payment of approximately $125,930.53 from Transportation Corporation Aâs bank
+account in Maryland to a Shell Company B bank account in Latvia.
+
+O. On or about March 27, 2012, Mikerin emailed defendant LAMBERT and
+Condrey from his personal email account, and stated in relevant part, âHello Daren [Condrey]
+and Mark [LAMBERT], Thank you both for your visit [to] our ânoisyâ location on Monday and
+energetic lunch together. ... Also a channel for âlucky figuresâ process has been checked and
+confirmed (no changes), so you will get an invoice for the amount [$]48,089.30 tomorrow.
+Would you please to confirm that itâ1l be done before the end of the month of Q1 or early next
+week[?]â
+
+P. On or about March 28, 2012, Mikerin emailed Condrey from his personal email
+account and attached a document, which purported to be TENEX âInvoice No. 1547-12.â The
+document fraudulently described services that were never provided to Transportation
+
+Corporation A to justify a corrupt and fraudulent payment of approximately $48,089.30.
+
+12
+
+ 
+ 
+
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 13 of 24
+
+Q. On or about March 29, 2012, defendant LAMBERT spoke by phone with a
+representative from Transportation Corporation Aâs bank to authorize the wire transfer of
+approximately $48,089.30 from Transportation Corporation Aâs bank account in Maryland to a
+Shell Company B bank account in Latvia, and defendant LAMBERT confirmed on the call that
+the payment was in reference to âInvoice No. 1547-12, dated March 28, 2012.â
+
+R. On or about March 29, 2012, Transportation Corporation A made a wire transfer
+payment of approximately $48,089.30 from Transportation Corporation Aâs bank account in
+Maryland to a Shell Company B bank account in Latvia.
+
+S. On or about May 25, 2012, Transportation Corporation A made a wire transfer
+payment of approximately $121,962.33 from Transportation Corporation Aâs bank account in
+Maryland to a Shell Company B bank account in Latvia.
+
+T. On or about June 8, 2012, defendant LAMBERT sent an email to Condrey,
+stating in part, âI never thought [a senior official at TENEX] was our friend â which is strange
+given the situation with Vadim [Mikerin] and his lucky numbers.â
+
+Wi On or about August 30, 2012, Transportation Corporation A made a wire transfer
+payment of approximately $108,950.80 from Transportation Corporation Aâs bank account in
+Maryland to a Shell Company B bank account in Latvia.
+
+V. On or about December 18, 2012, Transportation Corporation A made a wire
+transfer payment of approximately $142,204.30 from Transportation Corporation Aâs bank
+
+account in Maryland to a Shell Company B bank account in Latvia.
+
+13
+ 
+
+ 
+
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 14 of 24
+
+W. On or about March 28, 2013, Condrey caused Transportation Corporation A
+Invoice No. 13-104, dated March 27, 2013, to be sent by private mail courier to TENEX in
+Russia to request payment for services rendered for $192,737.50.
+
+X. On or about April 2, 2013, Mikerin emailed Condrey from his personal email
+address, with the subject line âFigures,â and stated, â[p]lease advise when Q1 âLFâ can be done
+to check on our side in advance.â
+
+Y. On or about April 3, 2013, Condrey sent an email to Mikerin in response to the
+email referenced in Paragraph X above, and attached a draft of an internal spreadsheet that
+documented Transportation Corporation Aâs contracts with TENEX and the corrupt and
+fraudulent bribe and kickback payments that Transportation Corporation A owed TENEX under
+the column â7% Remun.â Condrey stated, âSee attached. If we receive payment of 13-104
+[the invoice referenced in Paragraph W above] by April 26 (when due) then we may be able to
+arrange full amount by end of April.â Condrey explained that Transportation Corporation A
+could make a corrupt payment without the kickback associated with Invoice No. 13-104 at that
+time, or Transportation Corporation A could wait until TENEX paid amount invoiced in 13-104,
+at which point Transportation Corporation A would be in a position to make the full corrupt
+payment.
+
+Z. On or about April 28, 2013, after TENEX had remitted payment to Transportation
+Corporation A for Invoice No. 13-104, Mikerin emailed Condrey from his personal email
+address, stating, âPlease find the due Invoice. Please not[e] that the previous file was provided
+with the NEW INSTRUCTIONS where to go ({Shell Company C] instead of [Shell Company
+
+B])...â Mikerin attached a document that purported to be TENEX âInvoice No. 1368-04,â
+
+14
+
+ 
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 15 of 24
+
+which was dated April 25, 2013 and fraudulently described services that were never provided to
+Transportation Corporation A to justify a corrupt and fraudulent payment of approximately
+$25,774.
+
+AA. Onor about May 6, 2013, defendant LAMBERT authorized Transportation
+Corporation Aâs bank to wire transfer approximately $25,774 from Transportation Corporation
+Aâs bank account in Maryland to a Shell Company C bank account in Switzerland.
+
+BB.  Onor about May 6, 2013, Transportation Corporation A made a wire transfer
+payment of approximately $25,774 from Transportation Corporation Aâs bank account in
+Maryland to a Shell Company C bank account in Switzerland.
+
+CC. Onor about July 11, 2013, defendant LAMBERT authorized Transportation
+Corporation Aâs bank to wire transfer approximately $95,833.55 from Transportation
+Corporation Aâs bank account in Maryland to a Shell Company B bank account in Latvia.
+
+DD. Onor about July 11, 2013, Transportation Corporation A made a wire transfer
+payment of approximately $95,833.55 from Transportation Corporation Aâs bank account in
+Maryland to a Shell Company B bank account in Latvia.
+
+EE. Onor about August 28, 2013, Mikerin emailed defendant LAMBERT, in
+relevant part, â. . . please advise me (based on our short business meeting with Daren [Condrey]
+last Tue.) how quick we can proceed with our âLFâ matter, possible by the end of this week?
+As agreed with Daren [Condrey] I sent an e-mail (with a doc enclosed) on Mon. [August 26,
+
+2013] but didnât hear from him.â
+
+15
+
+ 
+ 
+
+ 
+
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 16 of 24
+
+FF. Onor about August 30, 2013, defendant LAMBERT authorized Transportation
+Corporation Aâs bank to wire transfer approximately $94,102 from Transportation Corporation
+Aâs bank account in Maryland to a Shell Company C bank account in Switzerland.
+
+GG. Onor about August 30, 2013, Transportation Corporation A made a wire transfer
+payment of approximately $94,102 from Transportation Corporation Aâs bank account in
+Maryland to a Shell Company C bank account in Switzerland.
+
+HH. Onor about October 17, 2013, defendant LAMBERT and Condrey sent the
+following messages to one another from defendant LAMBERTâs personal email address to
+Condreyâs phone:
+
+Condrey: I meet with Vadim [Mikerin] tomorrow. I told him we need to
+talk about LF. We cannot stay competitive against others... .
+
+LAMBERT: We need to figure out if [two senior officials at TENEX] know
+about LF.
+
+Condrey: They are part of group. [Other Tenex officials] not so much. My
+guess.
+
+LAMBERT: Yeah. Hard to tell. Sure [that one of the other TENEX officials] is
+not.
+
+Condrey: Yep.
+
+Il. On or about October 30, 2013, Transportation Corporation A made a wire transfer
+payment of approximately $77,896 from Transportation Corporation Aâs bank account in
+Maryland to a Shell Company C bank account in Switzerland.
+
+JJ. On or about March 28, 2014, Transportation Corporation A made a wire transfer
+payment of approximately $28,504 from Transportation Corporation Aâs bank account in
+
+Maryland to a Shell Company C bank account in Switzerland.
+
+16
+ 
+
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 17 of 24
+
+KK. On or about October 1, 2014, Transportation Corporation A made a wire transfer
+payment of approximately $45,954.45 from Transportation Corporation Aâs bank account in
+
+Maryland to a Shell Company C bank account in Switzerland.
+
+18 U.S.C. Â§ 371
+
+17.
+ 
+
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 18 of 24
+
+COUNTS TWO THROUGH EIGHT
+(Foreign Corrupt Practices Act)
+
+The Grand Jury for the District of Maryland further charges that:
+
+1. Paragraphs 1 through 16 and 18 through 26 and Overt Acts A through KK of
+Count One are incorporated here.
+
+2. On or about the dates set forth below, in the District of Maryland and elsewhere,
+the defendant,
+
+MARK T. LAMBERT,
+
+who was a domestic concern and an officer, employee, and agent of a domestic concern within
+the meaning of the FCPA, willfully made use of, and aided, abetted, and caused others to make
+use of, the mails and means and instrumentalities of interstate commerce corruptly in furtherance
+of an offer, payment, promise to pay, and authorization of the payment of any money, offer, gift,
+promise to give, and authorization of the giving of anything of value to any foreign official, and
+to any person, while knowing that the money and thing of value will be offered, given, and
+promised, directly and indirectly, to any foreign official for the purposes of: (i) influencing acts
+and decisions of such foreign official in his official capacity; (11) inducing such foreign official to
+do and omit to do acts in violation of the lawful duty of such official; (411) securing an improper
+advantage; and (iv) inducing such foreign official to use his influence with a foreign government
+and instrumentalities thereof to affect and influence acts and decisions of such government and
+instrumentalities, in order to assist defendant LAMBERT, Condrey, Co-Conspirator One, and
+Transportation Corporation A, in obtaining and retaining business for and with, and directing
+business to defendant LAMBERT, Condrey, Co-Conspirator One, Transportation Corporation
+
+A, and others, as follows:
+
+18
+ 
+
+Case 8:18-cr-00012-TDC
+
+ 
+
+Document 1 Filed 01/10/18 Page 19 of 24
+
+ 
+
+Count
+
+Approximate Date
+
+Corrupt Means and Instrumentalities
+of Interstate Commerce
+
+ 
+
+September 27, 2011
+
+Wire transfer of approximately $81,397.21 from
+Transportation Corporation Aâs bank account in Maryland
+to a Shell Company B bank account in Latvia for the
+benefit of Mikerin .
+
+ 
+
+December 22, 2011
+
+Wire transfer of approximately $125,930.53 from
+Transportation Corporation Aâs bank account in Maryland
+to a Shell Company B bank account in Latvia for the
+benefit of Mikerin
+
+ 
+
+March 29, 2012
+
+Wire transfer of approximately $48,089.30 from
+Transportation Corporation Aâs bank account in Maryland
+to a Shell Company B bank account in Latvia for the
+benefit of Mikerin
+
+ 
+
+May 6, 2013
+
+Wire transfer of approximately $25,774 from
+Transportation Corporation Aâs bank account in Maryland
+to a Shell Company C bank account in Switzerland for the
+benefit of Mikerin
+
+ 
+
+July 11, 2013
+
+Wire transfer of approximately $95,833.55 from
+Transportation Corporation Aâs bank account in Maryland
+to a Shell Company B bank account in Latvia for the
+benefit of Mikerin
+
+ 
+
+August 30, 2013
+
+Wire transfer of approximately $94,102 from
+Transportation Corporation Aâs bank account in Maryland
+to a Shell Company C bank account in Switzerland for the
+benefit of Mikerin
+
+ 
+
+ 
+
+ 
+
+October 1, 2014
+
+ 
+
+Wire transfer of approximately $45,954.45 from
+Transportation Corporation Aâs bank account in Maryland
+to a Shell Company C bank account in Switzerland for the
+benefit of Mikerin
+
+ 
+
+ 
+
+15 U.S.C. Â§ 78dd-2
+
+18 U.S.C. Â§ 2
+
+19Â°
+ 
+
+ 
+
+ 
+
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 20 of 24
+
+COUNTS NINE AND TEN
+(Wire Fraud)
+
+The Grand Jury for the District of Maryland further charges that:
+1. Paragraphs 1 through 10, 12 through 16, and 18 through 26 and Overt Acts A
+through KK of Count One are incorporated here.
+The Scheme to Defraud
+2. Between in or about 2011 and in or about 2014, the defendant,
+MARK T. LAMBERT,
+devised and intended to devise a scheme to defraud TENEX, and to obtain money and property
+by means of materially false and fraudulent pretenses, representations and promises.
+Execution of the Scheme to Defraud
+3, On or about each of the dates set forth below, in the District of Maryland and
+elsewhere, defendant LAMBERT and others, including Condrey and Mikerin, for the purpose of
+executing the scheme described above, and attempting to do so, did knowingly and with the
+intent to defraud, devise, and intend to devise a scheme and artifice to defraud TENEX, and for
+obtaining money and property by means of materially false and fraudulent pretenses,
+representations, and promises, knowing that the pretenses, representations, and promises were
+false and fraudulent when made, and did knowingly transmit and cause to be transmitted, by
+means of wire communication in interstate commerce, writings, signs, signals, pictures, and
+
+sounds for the purpose of executing such scheme and artifice, as follows:
+
+20
+ 
+
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 21 of 24
+
+ 
+
+Count
+
+Approximate Date
+
+Transmission
+
+ 
+
+December 21, 2011
+
+An email was sent from the Russian Federation
+to Condrey in Maryland, attaching a document
+purporting to be TENEX Invoice No. 35685
+
+ 
+
+10
+
+ 
+
+ 
+
+April 15, 2013
+
+ 
+
+TENEX wire transferred payment of
+$192,737.50 from the Russian Federation to a
+Transportation Corporation A bank account in
+Maryland in satisfaction of Invoice No. 13-104
+
+ 
+
+ 
+
+18 U.S.C. Â§ 1343
+
+21
+ 
+
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 22 of 24
+
+COUNT ELEVEN
+(Money Laundering)
+
+The Grand Jury for the District of Maryland further charges that:
+
+1. Paragraphs 1 through 16 and 18 through 26 of Count One are incorporated here.
+
+2. On or about the dates set forth below, in the District of Maryland and elsewhere,
+
+defendant,
+MARK T. LAMBERT,
+
+did knowingly transfer and attempt to transfer funds, that is wire transfers of U.S. currency in the
+following amounts, from a place in the United States, that is the District of Maryland, to a place
+outside the United States, that is Switzerland, as set forth below, with the intent to promote the
+carrying on of specified unlawful activity, that is, violations of the Foreign Corrupt Practices
+Act, Title 15, United States Code, Section 78dd-2; and violations of the wire fraud statute, Title
+18, United States Code, Section 1343; to wit, a wire transfer on May 6, 2013 of approximately
+$25,774 from Transportation Corporation Aâs bank account in Maryland to a Shell Company C
+
+bank account in Switzerland.
+
+18 U.S.C. Â§ 1956(a)(2)(A)
+18 U.S.C. Â§2
+
+22
+
+ 
+ 
+
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 23 of 24
+
+FORFEITURE ALLEGATION
+The Grand Jury for the District of Maryland further finds that:
+
+1. Pursuant to Fed. R. Crim. P. 32.2, notice is hereby given to the defendant that the
+
+United States will seek forfeiture as part of any sentence in accordance with Title 18, United
+
+States Code, Sections 981(a)(1)(C) and 982(a)(1), and Title 28, United States Code, Section
+
+2461(c), in the event of the defendantâs convictions of the offenses in violation of 18 U.S.C.
+
+ 
+
+Â§ 371, 15 U.S.C. Â§ 78dd-2, 18 U.S.C. Â§Â§ 1343 and 1956(a)(2)(A), and 18 U.S.C. Â§ 2, as set forth
+in Counts One through Ten of this Indictment.
+Foreign Corrupt Practices Act Forfeiture
+2. As a result of the offenses charged in Counts One through Eight of this
+Indictment, the defendant,
+MARK T. LAMBERT,
+shall forfeit to the United States any property, real or personal, which constitutes or is derived
+from proceeds traceable to any such violation.
+Wire Fraud and Money Laundering Forfeiture
+3. As a result of the offenses charged in Counts One, Nine, and Ten of this
+Indictment, the defendant,
+MARK T. LAMBERT,
+shall forfeit to the United States (1) any and all property obtained directly or indirectly as a result
+of any such violation, (2) any and all property used, or intended to be used, in any manner or part
+
+to commit and to facilitate the commission of any such violation charged in this Indictment; and
+
+23
+
+ 
+ 
+
+Case 8:18-cr-00012-TDC Document1 Filed 01/10/18 Page 24 of 24
+
+any property, real or personal, which was involved in such an offense or was traceable to such an
+
+offense.
+
+Substitute Assets
+
+4. If any of the property described above in paragraphs 2 and 3 above as being subject
+
+to forfeiture, as a result of any act or omission of any defendant --
+
+a.
+
+b.
+
+28 U.S.C. Â§ 2461(c)
+
+Sandra L. Moser
+
+Forgperson
+
+ 
+
+cannot be located upon the exercise of due diligence;
+
+has been transferred or sold to, or deposited with, a third party;
+
+has been placed beyond the jurisdiction of the court;
+
+has been substantially diminished in value; or
+
+has been commingled with other property that cannot be subdivided
+
+without difficulty;
+
+it is the intent of the United States of America, pursuant to Title 18, United States Code, Section
+982(b) and Title 28, United States Code, Section 2461(c), incorporating Title 21, United States
+
+Code, Section 853, to seek forfeiture of any other property of said defendant.
+
+18 U.S.C. Â§Â§ 981(a)(1)(C), 982(a)(1)
+
+ELL L. Hg | mir Sle gio M. Sehoneiny (BS)
+
+Stephtn M. Schenning
+
+Acting Chief, Fraud Section Acting United States a
+Criminal Division District of Maryland
+Department of Justice
+
+A TRUE BILL:
+
+SIGNATURE REDACTED Date: January 10, 2017
+
+24
+
+ 
+
+ 

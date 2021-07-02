@@ -1,0 +1,2038 @@
+Case 2:13-cv-00992-MMD-VCF Document171 Filed 02/29/16 Page 1 of 52
+
+Kathleen Banar, Chief Trial Attorney
+(IL Bar No. 6200597)
+
+Margaret Aisenbrey, Trial Attorney
+
+(Mo Bar No. 59560)
+
+Kim Bruno, Trial Attorney
+
+(District of Columbia Bar No.: 389899)
+U.S. Commodity Futures Trading Commission
+1155 21 St. NW
+
+Washington, DC 20581
+
+kbanar @ cftc.gov , maisenbrey@ cftc. gov,
+kbruno @ cftc. gov
+
+(202) 418-5335
+
+(202) 418-5987 (facsimile)
+
+ 
+
+Blaine T. Welsh (NV Bar No. 4790)
+Assistant United States Attorney
+United States Attorneyâs Office
+
+333 Las Vegas Boulevard, Suite 5000
+Las Vegas, Nevada 89101
+blaine.welsh@ usdoj.gov
+
+(702) 388-6336
+
+(702) 388-6787 (facsimile)
+
+UNITED STATES DISTRICT COURT
+DISTRICT OF NEVADA
+
+ 
+
+U.S. COMMODITY FUTURES TRADING
+COMMISSION,
+
+Plaintiff,
+Case No. 2:13-cv-00992-MMD-VCF
+Vv.
+
+BANC DE BINARY LTD., E.T. BINARY
+OPTIONS LTD., BO SYSTEMS LTD., BDB
+SERVICES LTD., and OREN SHABAT
+LAURENT (a/k/a OREN SHABAT AND
+OREN COHEN).
+
+Nee Nee Nee ee ee ee ee ee ee ee âee ee ee eeâ Seeâ
+
+Defendants.
+
+ 
+
+CONSENT ORDER FOR PERMANENT INJUNCTION, CIVIL MONETARY PENALTY
+AND OTHER EQUITABLE RELIEF AGAINST DEFENDANTS
+âCase 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 2 of 52
+
+I. INTRODUCTION
+
+On May 6, 2014, Plaintiff Commodity Futures Trading Commission (âCommissionâ or
+âCFTCââ) filed an Amended Complaint For Injunctive And Other Equitable Relief And For Civil
+Monetary Penalties Under The Commodity Exchange Act And Commission Regulations
+(âAmended Complaintâ) against Defendants Banc de Binary, Ltd. (âBdB Ltd.â), E.T. Binary
+Options, Ltd. (ââETBOâââ), BO Systems, Ltd. (âBO Systemsââ), BDB Services, Ltd. (âBDB
+Servicesââ) (collectively, âCorporate Defendantsââ) and Oren Laurent (a/k/a Oren Shabat and Oren
+Cohen) (âLaurentââ) (collectively, âDefendantsâ) seeking injunctive and other equitable relief, as
+well as the imposition of civil penalties, for violations of the Commodity Exchange Act (âCEAâ
+or âActâ), 7 U.S.C. Â§Â§ 1 et seg. (2012), and the Commissionâs Regulations (âRegulationsââ)
+promulgated thereunder, 17 C.F.R. Â§Â§ 1.1 et seg. (2015) [DE #52]. The Court entered a Consent
+
+Order for Preliminary Injunction against BdB Ltd. on July 18, 2013 [DE # 24].!
+
+If. CONSENTS AND AGREEMENTS
+
+To effect settlement of all charges alleged in the Amended Complaint against Defendants
+without a trial on the merits or any further judicial proceedings, Defendants:
+
+1. Consent to the entry of this Consent Order for Permanent Injunction, Civil
+Monetary Penalty and Other Equitable Relief Against Defendants (âConsent Orderâ);
+
+2. Affirm that they have read and agreed to this Consent Order voluntarily, and that
+
+no promise, other than as specifically contained herein, or threat, has been made by the CFTC or
+
+ 
+
+! Defendants have also reached a proposed settlement in principle that would resolve the
+
+action SEC v. Banc de Binary Ltd et al., Case No. 2:13-cv-00993-RCJ-VCF (âSEC Actionâ). As
+part of a global settlement of both actions, the restitution obligations described herein, infra, Part
+V, Paragraphs 92-101, are intended to resolve the issue of restitution in both this action and the
+SEC Action.
+Case 2:13-cv-00992-MMD-VCF Document171 Filed 02/29/16 Page 3 of 52
+
+any member, officer, agent or representative thereof, or by any other person, to induce consent to
+this Consent Order;
+
+3. Acknowledge service of the summons, original Complaint against BdB Ltd.
+(âComplaintâ) and Amended Complaint against BdB Ltd., ETBO, BO Systems, BDB Services
+and Laurent;
+
+4. Admit the jurisdiction of this Court over them and the subject matter of this action
+pursuant to 7 U.S.C. Â§ 13a-1 (2012);
+
+5. Admit the jurisdiction of the CFTC over the conduct and transactions at issue in
+this action pursuant to 7 U.S.C. 8Â§ 1 et seg. (2012);
+
+6. Admit that venue properly lies with this Court pursuant to 7 U.S.C. Â§ 13a-1(e)
+(2012);
+
+7. Waive:
+
+(a) Any and all claims that they may possess under the Equal Access to Justice Act, 5
+U.S.C. Â§ 504 (2012) and 28 U.S.C. Â§ 2412 (2012), and/or the rules promulgated by the
+Commission in conformity therewith, 17 C.F.R. Â§Â§ 148.1 et seg. (2015), relating to, or arising
+from, this action;
+
+(b) Any and all claims that they may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, $Â§ 201-253, 110 Stat. 847, 857-868
+(1996), as amended by Pub. L. No. 110-28, Â§ 8302, 121 Stat. 112, 204-205 (2007), relating to, or
+arising from, this action;
+
+(c) Any claim of Double Jeopardy based upon the institution of this action or the
+entry in this action of any order imposing a civil monetary penalty or any other relief, including
+
+this Consent Order; and
+Case 2:13-cv-00992-MMD-VCF Document171 Filed 02/29/16 Page 4 of 52
+
+(d) Any and all rights of appeal from this action;
+
+8. Consent to the continued jurisdiction of this Court over them for the purpose of
+implementing and enforcing the terms and conditions of this Consent Order and for any other
+purpose relevant to this action, even if Defendants, individually or collectively, now or in the
+future reside outside the jurisdiction of this Court;
+
+9. Agree that they will not oppose enforcement of this Consent Order on the ground,
+if any exists, that it fails to comply with Rule 65(d) of the Federal Rules of Civil Procedure and
+hereby waives any objection based thereon;
+
+10. Agree that neither they nor any of their agents or employees under their authority
+or control shall take any action or make any public statement denying, directly or indirectly, any
+allegation in the Complaint, Amended Complaint, or the Findings of Fact and Conclusions of
+Law in this Consent Order, or creating or tending to create the impression that the Complaint,
+Amended Complaint and this Consent Order is without a factual basis; provided, however, that
+nothing in this provision shall affect their: (a) testimonial obligations, or (b) right to take legal
+positions in other proceedings to which the CFTC is not a party. Defendants shall undertake all
+steps necessary to ensure that all of their agents and/or employees under their authority or control
+understand and comply with this agreement;
+
+11. By consenting to the entry of this Consent Order, Defendants neither admit nor
+deny the allegations of the Complaint, Amended Complaint, or the Findings of Fact and
+Conclusions of Law in this Consent Order, except as to jurisdiction and venue, which they admit.
+Further, Defendants agree and intend that the allegations contained in the Complaint, Amended
+Complaint and all of the Findings of Fact and Conclusions of Law contained in this Consent
+
+Order shall be taken as true and correct and be given preclusive effect, without further proof, in
+Case 2:13-cv-00992-MMD-VCF Document171 Filed 02/29/16 Page 5 of 52
+
+the course of: (a) any proceeding pursuant to 7 U.S.C. Â§ 12a (2012), and/or 17 C.F.R. Â§Â§ 3.1 -
+3.75 (2015); and/or (b) any proceeding to enforce the terms of this Consent Order. Defendant
+Laurent agrees and intends that the allegations contained in the Complaint, Amended Complaint
+and all of the Findings of Fact and Conclusions of Law contained in this Consent Order shall be
+taken as true and correct and be given preclusive effect, without further proof in the course of
+any current or subsequent bankruptcy proceeding filed by, on behalf of, or against Defendant
+Laurent. Defendants do not consent to the use of this Consent Order, or the Findings of Fact and
+Conclusions of Law in this Consent Order, as the sole basis for any other proceeding brought by
+the Commission.
+
+12. Agree to provide immediate notice to this Court and the CFTC by certified mail,
+in the manner required by Paragraph 107 of Part VI of this Consent Order, of any bankruptcy
+proceeding filed by, on behalf of, or against Defendants, individually or collectively, whether
+inside or outside the United States;
+
+13. Agree that no provision of this Consent Order shall in any way limit or impair the
+ability of any other person or entity to seek any legal or equitable remedy against Defendants in
+any other proceeding.
+
+Hl. FINDINGS AND CONCLUSIONS
+
+The Court, being fully advised in the premises, finds that there is good cause for the entry
+of this Consent Order and that there is no just reason for delay. The Court therefore directs the
+entry of the following Findings of Fact, Conclusions of Law, permanent injunction, restitution,
+civil monetary penalty and equitable relief pursuant to 7 U.S.C. Â§ 13a-1 (2012), as set forth
+
+herein.
+Case 2:13-cv-00992-MMD-VCF Document171 Filed 02/29/16 Page 6 of 52
+
+THE PARTIES AGREE AND THE COURT HEREBY FINDS:
+
+A. FINDINGS OF FACT
+1. The Parties To This Consent Order
+
+14. Plaintiff Commodity Futures Trading Commission is an independent federal
+regulatory agency that is charged by Congress with administering and enforcing the Act,
+7U.S.C. 8Â§ 1 et seg. (2012), and the Regulations promulgated thereunder, 17 C.F.R. Â§Â§ 1.1 et
+seq. (2015).
+
+15. Defendant Banc de Binary Ltd. has been incorporated in the Republic of Cyprus
+since February 2012, and is licensed as an investment firm with the Cyprus Securities and
+Exchange Commission (âCySECâ). BdB Ltd. operates under the trade name Banc de Binary.
+During the period from at least May 2011 through at least June 2013 (âRelevant Periodâ),â BdB
+Ltd. had offices at Kristelina Towers, 12 Arch Marakiou III, 3 Floor Office 301, Mesa Yeitonia,
+Limassol, Cyprus. BdB Ltd. has never been designated as a contract market by the Commission,
+is not an exempt board of trade, and is not a bona fide foreign board of trade pursuant to 7 U.S.C.
+8Â§ 6(a) & (b) (2012).
+
+16. Defendant E.T. Binary Options Ltd. has been incorporated in Israel since
+February 2010. During the Relevant Period, ETBO operated under the trade name Banc de
+Binary and maintained a business address and operates out of an office in Israel located at 3 Ha
+Macabin Street Petach Tikva, Israel, 49220. As of 2010, it maintained a virtual office located at
+
+Trump Tower, 40 Wall Street, New York, New York. ETBO has never been designated as a
+
+ 
+
+* The phrase âDuring the Relevant Periodâ as used in this Consent Order means only at some
+time or time(s) within the period, and does not mean throughout the period, as certain of the
+Corporate Defendants were incorporated within the period. Paragraphs 15-18 set forth the
+incorporation dates for each of the Corporate Defendants.
+âCase 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 7 of 52
+
+contract market by the Commission, is not an exempt board of trade, and is not a bona fide
+foreign board of trade pursuant to 7 U.S.C. 88 6(a) & (b) (2012).
+
+17. Defendant BO Systems Ltd. has been incorporated in the Republic of Seychelles
+since February 2012. BO Systems has operated under the trade name Banc de Binary. During
+the Relevant Period, it maintained a business address at 106 Premier Building, Victoria, Meha,
+Seychelles. BO Systems has never been designated as a contract market by the Commission, is
+not an exempt board of trade, and is not a bona fide foreign board of trade pursuant to 7 U.S.C.
+Â§Â§ 6(a) & (b) (2012). In March 2013, BO Systems ceased to operate and transferred some or all
+of its operations to BDB Services.
+
+18. Defendant BDB Services Ltd. has been incorporated in the Republic of
+Seychelles since March 2013. BDB Services has operated under the name Banc de Binary. It
+maintains business addresses at 106 Premier Building, Victoria, Meha, Seychelles, and 1
+Shoham Street, Ramat-Gan, Israel. BDB Services has never been designated as a contract
+market by the Commission, is not an exempt board of trade, and is not a bona fide foreign board
+of trade pursuant to 7 U.S.C. Â§Â§ 6(a) & (b) (2012).
+
+19. Defendant Oren Shabat Laurent, also known as Oren Shabat and Oren Cohen, is
+a citizen of the United States and of Israel and presently resides in Israel. Laurent was and is an
+owner, director and officer of BdB Ltd., ETBO, and BO Systems, and was an owner and director
+of BDB Services until at least August 2013. At all times relevant, Laurent had actual or
+constructive knowledge of the factual allegations set forth in Paragraphs 20-48 below.
+
+2. The Corporate Defendants
+20. All the conduct described herein was undertaken by Corporate Defendantsâ
+
+employees and agents, including, but not limited to, Laurent.
+Case 2:13-cv-00992-MMD-VCF Document171 Filed 02/29/16 Page 8 of 52
+
+a. The Overlapping Businesses
+
+21. Laurent founded Banc de Binary in or about 2010.
+
+22. ETBO owns the trade name Banc de Binary, and has granted licenses to each of
+the Corporate Defendants to use that trade name.
+
+23. During the Relevant Period, a website operating under the trade name Banc de
+Binary held itself out as being headquartered at 40 Wall Street, New York, New York (the âWall
+Street Officeâ), and as having offices at Kristelina Towers, 12 Arch Makariou III, 3" Floor
+Office 301, Mesa Yeitonia, Limassol, Cyprus, among other places.
+
+24. Banc de Binary conducts a significant part of their business through its website
+located at www.bbinary.com. In addition, Banc de Binary also maintains affiliated websites at
+www.bancdebinary.com and www.bbinary.net, among others. Collectively, these websites
+comprise the Banc de Binary website (âBanc de Binary websiteâ or âwebsiteââ). Defendants did
+not differentiate between the companies on the Banc de Binary website, in Banc de Binary
+solicitation materials, or in communications with Banc de Binary customers, including U.S.
+customers.
+
+25. Throughout the Relevant Period, ETBO solicited and offered to trade with U.S.
+and foreign customers binary options through the Banc de Binary website and through e-mail
+and other communications and acted as the counterparty to those transactions. In addition,
+ETBO entered into, confirmed the execution of, or maintained a position in, and solicited and
+accepted U.S. customer orders and funds offered through the Banc de Binary website, and
+through email and other communications, including from U.S. customers, who were not eligible
+
+contract participants (âECPsââ).
+Case 2:13-cv-00992-MMD-VCF Document171 Filed 02/29/16 Page 9 of 52
+
+26. During the Relevant Period, BO Systems solicited and offered to trade with U.S.
+customers binary options, including U.S. customers that were not ECPs, through the Banc de
+Binary website, and through e-mail and other communications and acted as the counterparty to
+those transactions. In addition, BO Systems entered into, confirmed the execution of or
+maintained a position in, and accepted U.S. customer orders and funds offered through the Banc
+de Binary trading website, and through e-mail and other communications, including U.S.
+customers that were not ECPs.
+
+27. At least from June 2012 to March 2013,
+
+e BdB Ltd. provided banking and clearing services to BO Systems and
+accepted funds from customers, including U.S. customers who were
+not ECPs, as BO Systemâs financial agent, for the trading of binary
+options;
+
+e BdB Ltd. and BO Systems had access to and used the same binary
+options trading platform to accept orders and execute binary option
+trades with customers, including U.S. customers; and
+
+e ETBO provided BdB Ltd. and BO Systems marketing and customer
+support services in relation to the Banc de Binary trading platform.
+
+28. In or about March 2013, Laurent created BDB Services. At or about the same
+time, BO Systems ceased its operations and transferred some or all of its operations to BDB
+Services.
+
+29. Since March, 2013:
+
+e BdB Ltd. provided banking and clearing services to BDB Services and
+accepted funds from customers, including U.S. customers who were not ECPs,
+as BDB Servicesâ financial agent (from March 2013-August 2013), for the
+trading of binary options;
+
+e BdB Ltd. and BDB Services had access to and used the same binary options
+trading platform to accept orders and execute binary option transactions with
+customers, including U.S; and
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 10 of 52
+
+e ETBO provided BDB Services marketing and customer support services in
+relation to the Banc de Binary trading platform.
+
+30. The binary options trading platform utilized by the Corporate Defendants to place
+orders and execute binary options with U.S. and foreign customers, is the same trading platform
+used to place orders and execute binary options through the Banc de Binary website.
+
+b. Common Ownership and Control
+
+31. Laurent owns, manages and controls the Banc de Binary trade name that the
+Corporate Defendants use to conduct their binary options business.
+
+32. Laurent is the founder, president, CEO, a director and, along with his father, one
+of two equal beneficial owners of BdB Ltd. From its inception to 2012, Laurent was the sole
+shareholder of ETBO, and since March 2013, he has been one of three owners of ETBO, the
+other two owners being Laurentâs father and his brother. Laurent is and has always been the sole
+director of ETBO. He is a signatory on ETBO bank accounts.
+
+33. From its creation and during all relevant times, Laurent was the sole owner of BO
+Systems, and a director, officer or agent of the company. He has executed contracts on BO
+Systemsâ behalf, including contracts with BdB Ltd. and ETBO. During the Relevant period,
+Laurent, along with his father, was one of two equal beneficial owners and a director, officer or
+agent of BDB Services. He has executed contracts on BDB Servicesâ behalf, including contracts
+with BdB Ltd. and ETBO.
+
+34. Laurent holds himself out both commercially and to regulators as the person
+primarily responsible for Banc de Binaryâs business activities. During the Relevant Period he
+has been actively involved in the management and general business of each of the Corporate
+
+Defendants.
+
+10
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 11 of 52
+
+35. Laurent speaks on behalf of Banc de Binary to the news media and in numerous
+promotional videos on YouTube. He also has been personally involved in responding to certain
+customer grievances. Through the videos and other media appearances, Laurent promotes
+trading in binary option to U.S. customers and in this way was involved in soliciting U.S.
+customers to open accounts with Banc de Binary.
+
+3. The Banc de Binary Website
+
+36. The Banc de Binary website is an internet trading platform through which Banc
+de Binary solicits, accepts money from, and executes trades with U.S. customers to trade binary
+options. Through the Banc de Binary website, customers buy or sell binary âcallâ or âputâ
+options that allow them to predict whether the price of a certain âassetâ will go âupâ or âdownâ
+at a future date and/or time.
+
+37. During the Relevant Period, the Banc de Binary website offered for purchase to
+U.S. customers with Banc de Binary as the counterparty to the customersâ transactions, binary
+options on dozens of âassets,â including commodities (e.g., wheat, oil, gold, platinum, sugar,
+coffee, corn, etc.), forex pairs (e.g., EUR/USD, GBP/USD, USD/JPY, etc.), and stock indices
+(e.g., S&P 500, NASDAQ futures, etc.).
+
+38. Once customers opened and funded accounts through the Banc de Binary website,
+customers executed trades by selecting a particular asset on the website and predicting if that
+assetâs current price will go up or down on a date and time certain. For example, customers who
+predicted that the price of oil will rise above the then-current price listed on the website on a
+specific future expiration date or time, execute a âCall Optionâ by clicking the âUPâ button on
+the website. Conversely, customers who predicted that the price of oil will fall below the then-
+
+current price listed on the website on a specific future expiration date or time, execute a âPut
+
+11
+âCase 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 12 of 52.
+
+Optionâ by clicking the âDOWNâ button on the website. The Banc de Binary website permitted
+customers to execute trades from between $1 to $8,000, and to pick the date and time of contract
+expiration. The Banc de Binary website also lists, by âassetâ or contract, the âPayoutâ or
+âreturnâ should the predicted event occur.
+
+39. During the Relevant Period, U.S. customers opened trading accounts on the
+website, which they accessed in the U.S., and traded binary options. The options traded
+included, but were not limited to, predictions about future price changes of, among other things,
+coffee, gold, the US dollar/Japanese Yen forex pair, the Euro/Japanese Yen forex pair, and the
+S&P 500 index.
+
+AO. During the Relevant Period, U.S. customers initiated and executed these options
+trades on the Banc de Binary website through computer terminals located in the U.S.
+
+41. To fund their Banc de Binary trading accounts and make the trades, U.S.
+customers transferred funds from the U.S. to Banc de Binary by credit card, wire transfer, check
+or third party payment systems (e.g., MoneyBookers E-wallet, Alertpay E-wallet, etc.) to foreign
+bank accounts maintained in the name of Banc de Binary or over which Banc de Binary had
+beneficial control and interest.
+
+42. Throughout the Relevant Period, the Corporate Defendants offered to, solicited,
+and accepted orders from, and executed trades with U.S. customers who are not ECPs. U.S.
+users of the website were not required to submit any information about their net worth, or assets,
+or prior trading experience to open a trading account on the website, and the Corporate
+Defendants executed trades with U.S. customers, without inquiring into or confirming such
+
+customersâ net worth, assets or prior trading history.
+
+12
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 13 of 52
+
+4. The Bonus Program
+
+43, During the Relevant Period, in addition to the website, the Corporate Defendants
+also actively solicited U.S. customers located in the U.S. via telephone, e-mails, and other
+communications to participate in Banc de Binaryâs âbonusâ programs.
+
+44. In their solicitations, Corporate Defendants and Banc de Binary claimed they
+would provide a certain âdeposit matchâ amounting to a specified percentage of customer funds.
+For example, according to the website, if the company âoffers you a 50% deposit match of up to
+$50,000, it means that if you open a new real trading account and make a first deposit of $1,200,
+Banc [d]e Binary will instantly fund your account with an additional $600 that will go straight to
+your trading balance allowing you to trade with $1800 instead of the $1,200 you initially
+deposited.ââ The website claims that this bonus âgives you great value and extra trading
+leverage.â The âterms and conditionsâ on the website note that, upon accepting the bonus,
+customers are prohibited from withdrawing funds from their trading account, including
+apparently their own funds initially invested, unless and until the customer trades at least 20
+times the value of his or her trading account, or, in the example provided above, $36,000 (i.e.,
+$1,200 plus $600 multiplied by 20 = $36,000).
+
+45. Certain of the customers that traded binary options through the website signed up
+for the bonus program.
+
+46. The binary options executed by customers as part of the bonus program, including
+those executed by U.S. customers, were retail commodity transactions within the meaning of the
+CEA because they were leveraged or margined or financed by Banc de Binary and the Corporate
+
+Defendants.
+
+13
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 14 of 52
+
+5. The Banc de Binary Businessâs Ongoing Activity
+
+47. On April 9, 2014, the CFTC filed a Motion for Order to Show Cause Why
+Defendant [Banc de Binary Ltd.] Should Not be Held in Contempt for Violation of Injunction
+(âMotion for Order to Show Causeââ) [DE #48], alleging violations of the Preliminary Injunction
+Order due to a transaction with a single U.S. customer. The CFTC subsequently supplemented
+its Motion for Order to Show Cause on June 23, 2015 [DE #133], alleging additional transactions
+with U.S. customers that violated the Preliminary Injunction Order. Defendants responded to
+both the Motion for Order to Show Cause [DE #56] and the Motion to Supplement [DE #141]
+and challenged the number of transactions at issue. The CFTC filed replies to each, respectively.
+[DE #58, #144. ]
+
+A8. On August 11, 2015, the Court held a hearing on the CFTCâs Motion for Order to
+Show Cause and found that Defendant Banc de Binary violated the terms of the Preliminary
+Injunction Order. [DE #152].
+B. CONCLUSIONS OF LAW
+
+1. Jurisdiction and Venue
+
+49, 7 U.S.C. Â§ 13a-1(a) (2012) authorizes the Commission to seek injunctive relief
+against any person whenever it shall appear to the Commission that such person has engaged, is
+engaging, or is about to engage in any act or practice constituting a violation of the Act or any
+rule, regulation, or order thereunder.
+
+50. The Commission has jurisdiction over the conduct and transactions at issue in this
+case pursuant to 7 U.S.C. Â§Â§ 2(c)(2) & 13a-1 (2012).
+
+51. Venue properly lies with the Court pursuant to 7 U.S.C. Â§ 13a-I(e) (2012),
+
+because the acts or practices in violation of the CEA and the Regulations have occurred, are
+
+14
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 15 of 52
+
+occurring, or are about to occur within this District, among other places, and because one or
+more of the Defendants transact or transacted business in this District.
+
+2. The Corporate Defendants and Banc de Binary Operated as a Common
+Enterprise as a Matter of Law
+
+52. ââ[E]ntities constitute a common enterprise when they exhibit either vertical or
+horizontal commonality â qualities that may be demonstrated by a showing of strongly
+interdependent economic interests or the pooling of assets and revenues.â FTC v. Network
+Services Depot, Inc., 617 F.3d 1127, 1142-43 (9"" Cir. 2010). The Ninth Circuit has looked to
+the following factors in determining whether companies have acted as a common enterprise: (1)
+whether the companies have pooled resources, staff, and funds; (2) whether they have common
+ownership and management; and (3) whether they have participated in a âshared business
+schemeâ and âcommon revenue.â /d. at 1143; F.T.C. v. Health Formulas, LLC, No. 2:14-CV-
+01649-RFB, 2015 WL 2130504, at *6 (D. Nev. May 6, 2015).
+
+53. Under this test, ETBO, BO Systems and BDB Services operated as a common
+enterprise during the Relevant Period. BdB Ltd. operated as part of the common enterprise
+during at least part of the Relevant Period. Laurent and family members owned and controlled
+each corporate entity comprising the Banc de Binary enterprise; the corporate Defendants shared
+business addresses; the corporate entitiesâ business activities were interrelated and entwined; and
+BdB Ltd. operated as both BO Systemsâ and BDB Servicesâ financial agent, and provided them
+banking and clearing services during the Relevant Period.
+
+54. Thus, as a matter of law, BdB Ltd., ETBO, BO Systems and BDB Services
+
+operated as a common enterprise during the Relevant Period.
+
+15
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 16 of 52
+
+3. The Binary Options Offered by Defendants are
+Commodity Options Under the CEA and CFTC Regulations
+
+55. The binary options offered by Banc de Binary are âcommodity optionsâ under the
+Act and Regulations: (1) they are âof the character ofâ or are âcommonly known to the trade asâ
+options; and (2) Banc de Binary holds them out to be options, puts and calls and promotes to the
+public that it is offering options.
+56. The binary options offered on the website to U.S. customers were not excepted or
+exempted from the Commissionâs ban on trading options off-exchange.
+57. None of the Corporate Defendants are or have ever been a DCM, EBOT or bona
+fide FBOT.
+4. Defendants BdB Ltd., ETBO, and BO Systems Violated
+7US.C. Â§ 6c(b) and 17 C.F.R Â§Â§ 32.2 and 32.11 (2012),
+and Laurent Is Liable Under 7 U.S.C. 13c(b) (2012)
+58. 7US.C. Â§ 6c(b) (2012), makes it unlawful to
+offer to enter into, enter into or confirm the execution of, any
+
+transaction involving any commodity regulated under the Act
+which is of the character of, or is commonly known to the trade as,
+
+99 66 99 66
+
+an âoptionâ, âprivilegeââ, âindemnityâ, âbidâ, âofferâ, âputââ, âcallâ,
+
+âadvance guarantyâ, or âdecline guarantyâ, contrary to any rule,
+
+regulation, or order of the Commission prohibiting any such
+
+transaction or allowing any such transaction under such terms and
+
+conditions as the Commission shall prescribe.
+
+59. 17 C.F.R. Â§ 32.2 (2012) (repealed June 26, 2012), provides that, notwithstanding
+
+the requirements of 17 C.F.R. Â§ 32.11 (2012) (repealed June 26, 2012), âno person may offer to
+enter into, confirm the execution of, or maintain a position in, any transactionâ in any
+
+agricultural commodity, including the agricultural commodities identified in Paragraph 37 above,
+
+unless otherwise exempt under 17 C.F.R. Â§ 32.13 (2012) (repealed June 26, 2012).
+
+16
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 17 of 52
+
+60. 17 C.F.R. Â§ 32.11(a) & (b) (2012) (repealed June 26, 2012), provide, in relevant
+part, that âit shall be unlawful . . . for any person to solicit or accept orders for, or to accept
+money, securities or property in connection with, the purchase or sale of any commodity option,
+or to supervise any person or persons so engaged,â unless the commodity option transaction is
+exempt under [17 C.F.R. Â§] 32.4, or is âconducted on or subject to the rules of a contract market
+or a foreign broad of trade in accordance with the provisions of [7 U.S.C. Â§ 6(c)] and any rule,
+regulation or order promulgated thereunder.â 17 C.F.R. Â§ 32.11(a) & (b) (2012) (repealed June
+26, 2012).
+
+61. During the period from May 2011 through June 25, 2012, BdB Ltd., ETBO and
+BO Systems violated 7 U.S.C. Â§ 6c(b) (2012), and 17 C.F.R. Â§Â§ 32.2 and 32.11 (2012) (repealed
+June 26, 2012), by offering or entering into, confirming the execution of trades, maintaining a
+position in, and/or soliciting and accepting orders (and funds) from U.S. customers to trade,
+binary option contracts not excepted or exempted from the Commissionâs ban on trading options
+off-exchange, including with U.S. customers that are not ECPs. None of these transactions
+occurred on a DCM, EBOT or bona fide FBOT.
+
+62. BdB Ltd., ETBO and BO Systems are not and have never been exempt from the
+requirements of 7 U.S.C. Â§ 6c(b) (2012), pursuant to either 17 C.F.R. Â§Â§ 32.4(a) & (b) or 32.13
+(2012) (repealed June 26, 2012).
+
+63. The acts of the agents and employees of BdB Ltd., ETBO and BO Systems
+undertaken on each of their behalves occurred within the scope of their employment. Defendants
+BdB Ltd, ETBO and BO Systems are therefore liable for their agentsâ and employeesâ acts,
+
+omissions, or failures pursuant to 7 U.S.C. Â§ 2(a)(1)(B) (2012), and 17 C.F.R. Â§ 1.2 (2012).
+
+17
+'Case 2:13-cv-00992-MMD-VCF Document171 Filed 02/29/16 Page 18 of 52
+
+64. Laurent is liable under 7 U.S.C. Â§ 13c(b) (2012), as a controlling person of BdB
+Ltd., ETBO, and BO Systems, for their violations of the Act and the Regulations because he
+controlled, directly or indirectly, BdB Ltd., ETBO, and BO Systems and did not act in good faith
+or knowingly induced, directly or indirectly, the acts constituting the violations.
+5. Corporate Defendants Violated of 7 U.S.C. Â§Â§ 6c(b),
+and 2(e) (2012) and 17 C.F.R. Â§ 32.2 (2013), and
+Laurent Is Liable Under 7 U.S.C. 13c(b) (2012)
+65. On July 21, 2010, Congress amended the Act by enacting the Dodd-Frank Wall
+Street Reform and Consumer Protection Act of 2010 (ââDodd-Frankâââ), 7 U.S.C. Â§ 1 et seq.
+(2012), which, among other things, expanded and clarified the CFTCâs jurisdiction over swaps.
+As relevant here, Dodd-Frank defined an option as a swap, with the exception of options subject
+to 7 U.S.C. Â§Â§ 2(c)(2)(C) & 2(c)(2)(D) (2012). Dodd-Frank became effective on July 16, 2011.
+66. 7 U.S.C. Â§ 1a(47)G) (2012), defines a âswapâ â unless otherwise excluded under 7
+U.S.C. Â§ 1a(47)G)(B) (2012) â to include âany agreement, contract or transaction .. . that is a
+put, call, cap, floor, collar, or similar option of any kind that is for the purchase or sale, or based
+on the value, of | or more interest or other rates, currencies, commodities, securities, instruments
+of indebtedness, indices, quantitative measure, or other financial or economic interests or
+property of any kind.â
+67. On June 26, 2012, Part 32 of the Regulations was repealed and a new Part 32, 17
+C.F.R. Part 32 (2013) went into effect. 17 C.F.R. Â§ 32.2 (2013), makes it unlawful for
+any person or group of persons to offer to enter into, enter into,
+confirm the execution of, maintain a position in, or otherwise
+conduct activity related to any transaction in interstate commerce
+that is a commodity option transaction, unless: (a) Such
+transaction is conducted in compliance with and subject to the
+
+provisions of the Act, including any Commission rule, regulation,
+or order thereunder, otherwise applicable to any other swap....
+
+18
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 19 of 52
+
+68. 7 U.S.C. Â§ 2(e) (2012) makes it unlawful for
+any person, other than an eligible contract participant, to enter into a swap
+unless the swap is entered into on, or subject to the rules of, a board of
+trade designated as a contract market under section 5.
+
+69. During the period from October, 2012 through at least March 2013, the Corporate
+Defendants violated 7 U.S.C. Â§Â§ 6c(b) & 2(e) (2012), and 17 C.F.R. Â§ 32.2 (2013), by offering to
+enter into and entering into binary option transactions with U.S. customers who were not ECPs,
+and confirming the execution of those binary options not excepted or exempted from the
+Commissionâs ban on trading options off-exchange, including with U.S. customers that are not
+ECPs. None of these transactions occurred on a DCM, EBOT, or a bona fide FBOT.
+
+70. The Corporate Defendants are not and have never been exempt from the
+requirements of 7 U.S.C. Â§Â§ 6c(b) & 2(e) (2012), pursuant to 17 C.F.R. Â§ 32.2 (2013).
+
+71. The acts of the agents and employees of the Corporate Defendants undertaken on
+each of their behalves occurred within the scope of their employment. The Corporate
+Defendants are therefore liable for their agentsâ and employeesâ acts, omissions, or failures
+pursuant to 7 U.S.C. Â§ 2(a)(1)(B) (2012) and 17 C.F.R. Â§ 1.2 (2013).
+
+72. Laurent is liable under 7 U.S.C. Â§ 13c(b) (2012), as a controlling person of the
+Corporate Defendants for their violations of the Act and the Regulations because he controlled,
+directly or indirectly, the Corporate Defendants and knowingly induced, directly or indirectly,
+
+the acts constituting the violations.
+
+6. Corporate Defendants Violated 7 U.S.C. Â§ 6(a) (2012), and
+Laurent Is Liable Under 7 U.S.C. 13c(b) (2012)
+
+73. U.S.C. Â§ 2(c)(2)(D) (2012), provides:
+Except as provided in clause (ii) [not applicable here], this
+
+subparagraph shall apply to any agreement, contract, or transaction
+in any commodity that is â (I) entered into with, or offered to (even
+
+19
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 20 of 52
+
+if not entered into with), a person that is not an [ECP] or eligible
+commercial entity; and (II) entered into, or offered (even if not
+entered into), on a leveraged or margined basis, or financed by the
+offeror, the counterparty, or a person acting in concert with the
+offeror or counterparty on a similar basis.
+
+TA, 7 U.S.C. Â§ 2(c)(2)(D)Gii) (2012), as relevant here, further provides that 7 U.S.C. Â§
+6(a) (2012), applies to any agreement, contract, or transaction described in 7 U.S.C. Â§
+2(c)(2)(D)@) (2012), âas if the agreement, contract, or transactionâ was a futures contract.
+75. 7 U.S.C. Â§ 6(a) (2012), as relevant here, makes it unlawful for any person
+to offer to enter into, to enter into, to execute, to confirm the
+execution of, or to conduct any office or business anywhere in the
+United States, its territories, or possessions, for the purpose of
+soliciting, or accepting any order for, or otherwise dealing in, any
+transaction in, or in connection with, a contract for the purchase or
+saleâ a futures contract â(other than a contract which is made on or
+subject to the rules of a board of trade, exchange, or market located
+outside of the United States, its territories or possessions) unless â
+(1) such transaction is conducted on or subject to the rules of a
+board of trade which has been designated or registered by the
+Commission as a contract market or derivatives transaction
+
+execution facility for such commodity;
+
+(2) such contract is executed or consummated by or through a
+contract market; and
+
+(3) such contract is evidenced by arecord....
+
+76. During the period from July, 2011 through at least March 2013, the Corporate
+Defendants violated 7 U.S.C. Â§ 6(a) (2012), because 1) they were not designated or registered as
+a contract market or derivatives transaction execution facility and its contracts were not executed
+or consummated by or through a contract market; 2) offered to enter into, entered into, confirmed
+the execution of, and conducted business in the U.S.; 3) for the purpose of soliciting or accepting
+
+orders for; 4) off-exchange leveraged or margined retail commodity transactions; 5) with U.S.
+
+20
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 21 of 52
+
+customers; 6) who are not ECPs (see 7 U.S.C. Â§ 1(a)(18) (2012); or 7) eligible commercial
+entities (see 7 U.S.C. Â§ 1(a)(17) (2012).
+
+77. The Corporate Defendants are not and have never been exempt from the
+requirements of 7 U.S.C. Â§ 6(a) (2012), pursuant to 7 U.S.C. Â§ 6(c) (2012).
+
+78. The acts of the agents and employees of the Corporate Defendants, undertaken on
+each of their behalves occurred within the scope of their employment. The Corporate
+Defendants are therefore liable for their agentsâ and employeesâ acts, omissions, or failures
+pursuant to 7 U.S.C. Â§ 2(a)(1)(B) (2012), and 17 C.F.R. Â§ 1.2 (2013).
+
+79. Laurent is liable under 7 U.S.C. Â§ 13c(b) (2012), as a controlling person of the
+Corporate Defendants, for their violations of the Act and the Regulations because he controlled,
+directly or indirectly, the Corporate Defendants and did not act in good faith or knowingly
+induced, directly or indirectly, the acts constituting the violations.
+
+7. Defendants BdB Ltd., ETBO, and BO Systems Violated of 7 U.S.C. Â§Â§ 6d(a),
+
+and 2(c)(2)(B)(iv)()(aa) (2012) and 17 C.F.R Â§ 5.3(a)(4)(i)(B) (2015), and
+Laurent Is Liable Under 7 U.S.C. 13c(b) (2012)
+
+80. 7 U.S.C. Â§ 6d(a) (2012), as relevant here, makes it unlawful for âany person to be
+a futures commission merchant unless â (1) such person shall have registered, under this Act,
+with the Commission as such futures commission merchant and such registration shall not have
+expired nor been suspended nor revoked ... .â
+
+81. TUS.C. Â§ 2(c)(2)(B)(Giv)(D(aa) (2012), as relevant here, states that an FCM
+
+cannot solicit or accept orders from non-ECPs in connection with agreements, contracts or
+
+transaction involving forex options.
+
+21
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 22 of 52
+
+82. 17 C.F.R. Â§ 5.3(a)(4)G)(B) (2015), requires that all FCMs who solicit or accept
+orders from any person that is not an ECP in connection with any retail forex transaction must be
+registered.
+
+83. During the period from July 16, 2011 through at least March 2013, BdB Ltd.,
+ETBO, and BO Systems each operated as an FCM by (i) soliciting and accepting orders for the
+purchase or sale of swaps, retail forex transactions, retail commodity transactions, and/or
+commodity options, (11) acting as a counterparty to retail commodity options transactions, and
+(111) accepting money, securities, or property to margin, guarantee, or secure any trades or
+contracts that resulted therefrom. BdB Ltd., ETBO, and BO Systems engaged in the transactions
+described in (1)-(i11) with non-ECPs.
+
+84. BdB Ltd., ETBO, and BO Systems have never been registered with the
+Commission as an FCM, or in any other capacity, and are not exempt from the requirements of 7
+U.S.C. Â§ 6d(a) (2012).
+
+85. Accordingly, BdB Ltd., ETBO, and BO Systems violated 7 U.S.C. Â§Â§ 6d(a) and
+2(c)(2)(B)(iv)(1)(aa) (2012), and 17 C.F.R. Â§ 5.3(a)(4)G@) (2015).
+
+86. The acts of agents and employees of BdB Ltd., ETBO, and BO Systems
+undertaken on each of their behalves occurred within the scope of their employment. BdB Ltd.,
+ETBO, and BO Systems are therefore liable for their agentsâ and employeesâ acts, omissions, or
+failures pursuant to 7 U.S.C. Â§ 2(a)(1)(B) (2012) and 17 C.F.R. Â§ 1.2 (2013).
+
+87. Laurent is liable under 7 U.S.C. Â§ 13c(b) (2012), as a controlling person of BdB
+Ltd., ETBO, and BO Systems for their violations of the Act and the Regulations because he
+controlled, directly or indirectly, BdB Ltd., ETBO, and BO Systems and did not act in good faith
+
+or knowingly induced, directly or indirectly, the acts constituting the violations.
+
+22
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 23 of 52
+
+IV. PERMANENT INJUNCTION
+
+IT IS HEREBY ORDERED THAT:
+
+88. Based upon and in connection with the foregoing conduct, pursuant to 7 U.S.C.
+Â§ 13a-1 (2012), Defendants and any other person or entity associated with any one of them, are
+permanently enjoined from engaging in conduct in violation of 7 U.S.C. Â§Â§ 6c(b), 6(a), and 2(e)
+(2012); and 17 C.F.R. Â§ 32.2 (2015);
+
+89. BdB Ltd., ETBO, BO Systems, and Laurent, and any other person
+or entity associated with any one of them, are permanently enjoined from
+engaging in conduct in violation 7 U.S.C. Â§Â§ 6d(a) and 2(c)(2)(B)(iv)(1)(aa)
+
+(2012), and 17 C.F.R. Â§ 5.3(a)(6)G) (2015);
+
+90. Defendants, and any of their agents, servants, employees, assigns, attorneys, and
+persons in active concert or participation with any one of them, including any successor thereof,
+are permanently enjoined from, while in violation of the Act or Regulations, including 7 U.S.C.
+SÂ§ 6c(b), 6(a), 6d(a), 2(e), and 2(c)(2)(B)Gv)(1)(aa) (2012), or 17 C.F.R. Â§Â§ 32.2 and
+5.3(a)(4)G)(B) (2015), directly or indirectly:
+
+1. Entering into any transactions with any person located in
+the United States involving âcommodity interestsâ (as that term is
+defined in 17 C.F.R. Â§ 1.3(yy) (2015);
+
+i. Controlling or directing the trading for or on behalf of any
+other person or entity located in the United States, whether by
+power of attorney or otherwise, in any account involving
+commodity interests;
+
+iil. Soliciting, offering, maintaining a positon in, confirming
+the execution of, or accepting any orders or funds from any person
+located in the United States for the purpose of purchasing or
+
+selling any commodity interests; and
+
+iv. Operating the Banc de Binary website.
+
+23
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 24 of 52
+
+91. Defendants, and any of their agents, servants, employees, assigns,
+attorneys, and persons in active concert or participation with any one of them,
+including any successor thereof, are permanently enjoined from directly or
+indirectly soliciting, offering, maintaining a position in, confirm the execution of,
+or accepting any orders or funds from any person located in the United States for
+the purpose of purchasing or selling any commodity interest as long as there is
+
+any amount due and owing by the Defendants under this Consent Order.
+
+V. RESTITUTION, DISGORGEMENT AND CIVIL MONETARY PENALTY
+A. RESTITUTION
+92. Defendants shall pay, jointly and severally, restitution in the amount of Seven
+Million, One Hundred Thousand U.S. Dollars ($7,100,000) (âRestitution Obligationâ) payable as
+follows:
+
+a. $3.1 million shall be paid to the National Futures Association (âNFAâ), a
+self-regulatory organization regulated by the CFTC, upon execution of and in accordance
+with this Consent Order and the Judgments and Consents to Final Judgments entered in
+the SEC Action against the Defendants; and
+
+b. $4 Million ($4,000,000) is due and owing and is to be paid in separate $1
+million increments to the NFA on or before the following dates: February 28, 2016;
+September 30, 2016; February 28, 2017; and September 29, 2017, provided, however,
+that the Defendants may elect to pay, in full or in part, any one of the four scheduled
+payments for the $4,000,000.00 disgorgement award before the due dates set forth above;
+
+and
+
+24
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 25 of 52
+
+C. In the event that Defendants fail to make any payment toward the
+$4,000,000.00 disgorgement amount by the dates and/or in the amounts set forth above in
+Paragraph 92(b) on or before the date agreed and/or in the amount agreed according to
+the schedule set forth in Paragraph 92(b) above, all outstanding payments and monetary
+amounts under this Consent Order, minus any payments made, including post-judgment
+interest, shall become immediately due and owing at the discretion of CFTC staff without
+further application to or order from the Court. Defendants will deliver proof of payment
+through a letter from its counsel, Ifrah PLLC, on firm letterhead indicating the date on
+which a wire was sent from Ifrah PLLC's Client Account to the NFA and the wire
+confirmation details. Such a letter will be delivered on or before the date of payment, as
+specified herein. Receipt of such a letter by the NFA will constitute timely payment. To
+the extent Ifrah PLLC is no longer representing Defendants, Defendants acknowledges
+and agrees that a payment to the National Futures Association is only deemed received
+according to the records of the NFA showing a deposit into the âBanc de Binary â
+Restitution Fund. Post-judgment interest shall begin to accrue on the date of the first
+failure to make any payment as set forth in Paragraph 92(b) above, and shall accrue and
+be applied thereafter to all outstanding monetary amounts.
+
+93. Defendants acknowledge that they, in this action and the SEC Action, have placed
+$5,050,000.00 in escrow towards the Restitution Obligation, and agree that these funds will be
+released upon entry of this Consent Order and the Judgment entered in the SEC Action, and paid
+in accordance with this Consent Order and Judgments and Consents to Final Judgments entered
+in the SEC Action.
+
+94. Post-judgment interest shall accrue on the Restitution Obligation on any
+
+25
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 26 of 52
+
+delinquent amounts and shall be determined by using the Treasury Bill rate prevailing on the
+date of the delinquency pursuant to 28 U.S.C. Â§ 1961 (2012).
+
+95. To effect payment of the Restitution Obligation and the distribution of any
+restitution payments to Defendantsâ customers the Court appoints the NFA as Monitor
+(âMonitorâ). The Defendants shall pay the Restitution Obligation as set forth in Paragraphs 92-
+93 above, and the Monitor shall receive restitution payments from Defendants and make
+distributions as set forth in Paragraphs 96-101 below. Because the Monitor is acting as an
+officer of this Court in performing these services, the NFA shall not be liable for any action or
+inaction arising from NFAâs appointment as Monitor, other than actions involving fraud.
+
+96. Defendants shall make Restitution Obligation payments under this Consent Order
+to the Monitor in the name âBanc de BinaryâRestitution Fundâ and shall send such Restitution
+Obligation payments by electronic funds transfer, or by U.S. postal money order, certified check,
+bank cashierâs, or bank money order, to a location specified by the Office of Administration,
+National Futures Association, 300 South Riverside Plaza, Suite 1800, Chicago, Illinois 60606
+under cover letter that identifies the payment and the name and docket number of this
+proceeding. Defendants shall simultaneously transmit copies of the cover letter and the form of
+payment to the Chief Financial Officer and the Director, Division of Enforcement, Commodity
+Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C.
+20581.
+
+97. The Monitor shall oversee the Restitution Obligation and shall have the discretion
+to determine the manner of distribution of such funds in an equitable fashion to Defendantsâ
+customers identified by the CFTC and in the SEC Action in (a list of which is attached hereto as
+
+Exhibit A and incorporated by reference), or may defer distribution until such time as the
+
+26
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 27 of 52
+
+Monitor deems appropriate. In the event the Monitor is unable to distribute all funds contained
+in the Banc-de-Binary Restitution Fund to the Defendantsâ customers identified on Exhibit A, the
+remaining funds will be transferred to the United States Treasury as civil monetary penalties.
+
+98. Defendants shall cooperate with the Monitor as appropriate to provide such
+information as the Monitor deems necessary and appropriate to ensure the accuracy of Exhibit A
+and provide contact information to locate Defendantsâ customers identified on Exhibit A.
+
+99. The Monitor shall provide the CFTC and Securities and Exchange Commission
+(âSECâ) at the beginning of each calendar year with a report detailing the disbursement of funds
+to Defendantsâ customers during the previous year. The Monitor shall transmit this report under
+a cover letter that identifies the name and docket number of this proceeding to the Chief
+Financial Officer and Director of Enforcement, Commodity Futures Trading Commission, Three
+Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581 as well as to John W. Berry,
+Regional Trial Counsel, and Amy Jane Longo, and Leslie A. Hakalaat the following address:
+Securities and Exchange Commission, Los Angeles Regional Office, 444 South Flower Street,
+Suite 900, Los Angeles, CA 90071, with a copy to A. Jeff Ifrah, Ifrah PLLC, 1627 I Street, NW,
+Washington, DC 20006, jeff @ifrahlaw.com.
+
+100. The amounts payable to each customer shall not limit the ability of any customer
+from proving in a separate action that a greater amount is owed from Defendants or any other
+person or entity, and nothing herein shall be construed in any way to limit or abridge the rights of
+any customer that exist under state or common law.
+
+101. Pursuant to Rule 71 of the Federal Rules of Civil Procedure, each of Defendantsâ
+customer who suffered a loss is explicitly made an intended third-party beneficiary of this
+
+Consent Order and may seek to enforce obedience of this Consent Order to obtain satisfaction of
+
+27
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 28 of 52
+
+any portion of the Restitution Obligation that has not been paid by Defendants to ensure
+continued compliance with any provision of this Consent Order and to hold Defendants in
+contempt for any violations of any provision of this Consent Order.
+
+B. CIVIL MONETARY PENALTY
+
+102. Defendants shall pay, jointly and severally, a civil monetary penalty in the amount
+of Two Million U.S. Dollars ($2,000,000) (âCMP Obligationâ), plus post-judgment interest. The
+civil monetary penalty is due and owing on or before September 29, 2017, with post-judgment
+interest beginning to accrue on that date. Post-judgment interest shall be determined by using the
+Treasury Bill rate prevailing on the date of entry of this Consent Order pursuant to 28 U.S.C. Â§
+1961 (2012).
+
+103. Defendants shall pay their CMP Obligation by electronic funds transfer, U.S.
+postal money order, certified check, bank cashierâs check, or bank money order. If payment is to
+be made other than by electronic funds transfer, then the payment shall be made payable to the
+Commodity Futures Trading Commission and sent to the address below:
+
+Commodity Futures Trading Commission
+
+Division of Enforcement
+
+ATTN: Accounts Receivables
+
+DOT/FAA/MMAC/AMZ-341
+
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+
+nikki.gibson @faa.gov
+
+If payment by electronic funds transfer is chosen Defendants shall contact Nikki Gibson
+or her successor at the address above to receive payment instructions and shall fully comply with
+
+those instructions. Defendants shall accompany payment of the CMP Obligation with a cover
+
+letter that identifies Defendants and the name and docket number of this proceeding. Defendants
+
+28
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 29 of 52
+
+shall simultaneously transmit copies of the cover letter and the form of payment to the Chief
+Financial Officer and the Director of Enforcement, Commodity Futures Trading Commission,
+Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
+C. PROVISIONS RELATED TO MONETARY RESTITUTION
+104. With respect to Defendantsâ Restitution Obligation under this Consent Order to
+pay, jointly and severally, restitution in the amount of $7,100,000.00, Defendants knowingly,
+intentionally and unconditionally:
+
+a. accept the Defendantsâ Restitution Obligation and consents unreservedly
+to the enforcement thereof;
+
+b. forever waive, forfeit and surrender any and all rights, privileges, or
+opportunities that they might otherwise have had to challenge, contest or dispute the
+validity, the enforceability or the collectability of Defendantsâ Restitution Obligation in
+any jurisdiction or before any tribunal whatsoever (including, but not limited to,
+jurisdictions or tribunals within or outside the United States, such as jurisdictions and/or
+tribunals where the Defendant is incorporated, conducts business or operations, maintains
+assets, pays taxes, or has any connection whatsoever, including but not limited to, the
+States of Israel, Cyprus, and Seychelles) (hereinafter, âany jurisdiction or tribunalâ);
+
+C. agree and acknowledge, and do not contest or dispute that the Court has
+jurisdiction over the Defendants and has authority and jurisdiction to enter this Consent
+Order against the Defendants;
+
+d. agree and acknowledge, and do not contest or dispute that Defendants are
+subject to the Consent Order and were afforded the right to be heard and raise their
+
+arguments before the Court;
+
+29
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 30 of 52
+
+e. agree and acknowledge, and do not contest or dispute that the Consent
+Order is no longer appealable;
+
+f. agree and acknowledge, and do not contest or dispute that the Consent
+Order is executable in the United States and was rendered by a competent court according
+to the laws of the United States;
+
+g. agree and acknowledge, and do not contest or dispute that the Consent
+Order may be enforced in any foreign jurisdiction or tribunal in the same manner as a
+judgment delivered by a court of that foreign jurisdiction or tribunal;
+
+h. agree and acknowledge, and do not contest or dispute that the substance of
+the Consent Order is not contrary to public policy principles in the United States or in any
+other jurisdiction or tribunal;
+
+1. agree and acknowledge, and do not contest or dispute that the Consent
+Order has been made on merit and was not issued due to a procedural default or other
+procedural reason;
+
+j. agree and acknowledge, and do not contest or dispute that the Consent
+Order was not obtained by fraud or undue influence;
+
+k. agree and acknowledge, and do not contest or dispute that the Consent
+Order is not contradictory to any other judgment that is still valid and was issued in this
+action, the SEC action, or any other matter between the parties;
+
+L. agree and acknowledge and do not contest or dispute that except for the
+SEC action, there is no pending lawsuit or proceeding regarding the same matter of this
+action and between the same parties before any jurisdiction or tribunal;
+
+m. agree and acknowledge and do not contest or dispute that by entering into
+
+30
+'Case 2:13-cv-00992-MMD-VCF Document171 Filed 02/29/16 Page 31 of 52
+
+this Consent Order, the Consent Order is ipso facto executory in a foreign jurisdiction
+and may be enforced in that jurisdiction in the same manner as a judgment delivered by
+the courts of that jurisdiction without this Consent Order and judgment being first
+declared to be executory by that court;
+
+n. agree to cooperate with, and not to oppose, any effort by the CFTC, or any
+party acting on behalf of the CFTC, to collect payments due and owing under the
+Defendantsâ Restitution Obligations in any jurisdiction or tribunal;
+
+oO. consent to the entry of a confession of judgment, or conditional judgment,
+in the forms attached hereto as Exhibits B-D, in order to collect payments due and owing
+on Defendantsâ Restitution Obligation, and further agrees to and shall sign all forms
+attached hereto as Exhibits B-D and cooperate with any effort taken by the CFTC, or any
+party acting on its behalf, to enforce Defendantâs payment obligations under the Consent
+Order in any jurisdiction or tribunal;
+
+p. agree to pay all attorney fees and other costs incurred by the CFTC or SEC
+in any jurisdiction or tribunal to collect any delinquent payments due and owing under
+the Defendantsâ Restitution Obligation pursuant to the schedule set forth in Paragraphs
+92-93 (and such fees and costs must be paid within 30 days of receiving written notice
+from the CFTC or SEC of such fees and costs);
+
+q. agree that (a) service of any papers filed in any jurisdiction or tribunal by
+the CFTC or any party acting on behalf of the CFTC to collect payments due and owing
+under the Defendantsâ Restitution Obligation may be made by email and/or regular mail
+on A. Jeff Ifrah, Ifrah Law PLLC, 1717 Pennsylvania Avenue N.W., Suite 650,
+
+Washington, D.C. 20006; and (b) any service accomplished in the above-described
+
+3]
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 32 of 52
+
+manner is sufficient and binding on the Defendants under the governing law of the
+
+applicable jurisdiction, and Defendants waive any right to dispute or challenge such
+
+service.
+
+105. Partial Satisfaction: Acceptance by the Commission/CFTC or the Monitor of any
+partial payment of Defendantsâ Restitution Obligation or CMP Obligation shall not be deemed a
+waiver of their obligations to make further payments pursuant to this Consent Order, or a waiver
+of the Commission/CFTCâs right to seek to compel payment of any remaining balance.
+
+106. Cooperation: Defendants shall cooperate fully and expeditiously with the CFTC,
+including the CFTCâs Division of Enforcement, the SEC, any other governmental agency
+operating on either of their behalf in connection with this action or the SEC Action, and the NFA
+in this action, and in any investigation, civil litigation, or administrative matter related to the
+subject matter of this action or any current or future Commission investigation related thereto.
+As part of such cooperation, Defendants agree to:
+
+e provide to the CFTC, SEC and NFA any additional data, e.g. CRM data,
+necessary to facilitate the payment of restitution, including but not limited to
+investorsâ addresses and phone numbers and other such intonation in the
+Defendantsâ possession; and
+
+e concurrently with execution of this Consent Order, execute the confessions of
+judgment, lien and waiver forms identified in Paragraph 104(0) above, and agree
+in the future to execute such further forms that the CFTC or SEC may deem
+necessary to enforce this Consent Order as to Defendantsâ Restitution Obligations
+in any other jurisdiction, foreign or domestic.
+
+VI. MISCELLANEOUS PROVISIONS
+
+107. Notice: All notices required to be given by any provision in this Consent Order
+
+shall be sent certified mail, return receipt requested, as follows:
+Notice to CFTC:
+
+Rick Glaser, Deputy Director
+U.S. Commodity Futures Trading Commission
+
+32
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 33 of 52
+
+1155 21 St. N.W.,
+Washington, DC 20581
+rglaser@ cftc.gov
+
+(202) 418-5358
+
+(202) 418-5937 (facsimile)
+
+Kathleen Banar, Chief Trial Attorney
+
+U.S. Commodity Futures Trading Commission
+1155 21 St. N.W.,
+
+Washington, DC 20581
+
+kbanar @ cftc.gov
+
+(202) 418-5335
+
+(202) 418-5937 (facsimile)
+
+Notice to Defendants:
+
+A. Jeff Ifrah
+
+IFRAH PLLC
+
+1717 Pennsylvania Avenue, Suite 650
+Washington, D.C. 20006
+
+Telephone: 202-524-4140
+
+Facsimile: 202-521-4141
+jeff@ifrahlaw.com
+
+ 
+
+All such notices to the CFTC shall reference the name and docket number of this action.
+
+108. Change of Address/Phone: Until such time as Defendants satisfy in full their
+Restitution Obligation, Disgorgement Obligation, and CMP Obligation as set forth in this
+Consent Order, Defendants shall provide written notice to the Commission by certified mail of
+any change to his telephone number and mailing address within ten (10) calendar days of the
+change.
+
+109. Entire Agreement and Amendments: This Consent Order incorporates all of the
+terms and conditions of the settkement among the parties hereto to date. Nothing shall serve to
+amend or modify this Consent Order in any respect whatsoever, unless: (a) reduced to writing;
+(b) signed by all parties hereto; and (c) approved by order of this Court.
+
+110. Invalidation: If any provision of this Consent Order or if the application of any
+
+provision or circumstance is held invalid, then the remainder of this Consent Order and the
+
+33
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 34 of 52
+
+application of the provision to any other person or circumstance shall not be affected by the
+holding.
+
+111. Waiver: The failure of any party to this Consent Order or of any customer at any
+time to require performance of any provision of this Consent Order shall in no manner affect the
+right of the party or customer at a later time to enforce the same or any other provision of this
+Consent Order. No waiver in one or more instances of the breach of any provision contained in
+this Consent Order shall be deemed to be or construed as a further or continuing waiver of such
+breach or waiver of the breach of any other provision of this Consent Order.
+
+112. Waiver of Service, and Acknowledgement: Defendant(s) waive service of this
+Consent Order and agree(s) that entry of this Consent Order by the Court and filing with the
+Clerk of the Court will constitute notice to the Defendant(s) of its terms and conditions.
+
+113. Continuing Jurisdiction of this Court: This Court shall retain jurisdiction of this
+action to ensure compliance with this Consent Order and for all other purposes related to this
+action, including any motion by Defendants to modify or for relief from the terms of this
+Consent Order.
+
+114.  Injunctive and Equitable Relief Provisions: The injunctive and equitable relief
+provisions of this Consent Order shall be binding upon Defendants, upon any person under their
+authority or control, and upon any person who receives actual notice of this Consent Order, by
+personal service, e-mail, facsimile or otherwise insofar as he or she is acting in active concert or
+participation with Defendants.
+
+115. Authority: BdB Ltd. hereby warrants that the undersigned Oren Shabat Laurent is
+a shareholder of BdB Ltd., that this Consent Order has been duly authorized by BdB Ltd, and
+
+that Oren Shabat Laurent has been duly empowered to sign and submit this Consent Order and
+
+34
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 35 of 52
+
+all exhibits hereto on behalf of BdB Ltd. ETBO hereby warrants that the undersigned Oren
+Shabat Laurent is a director and shareholder of ETBO, that this Consent Order has been duly
+authorized by ETBO, and that Oren Shabat Laurent has been duly empowered to sign and submit
+this Consent Order and all exhibits hereto on behalf of ETBO. BO Systems hereby warrants:
+that BO Systems, Ltd., by resolution of its Board of Directors, changed its name to Banc De
+Binary Limited, Seychelles; that despite the name change, Banc De Binary Limited, Seychelles
+is the one and the same company as Defendant BO Systems, Ltd., Seychelles, and maintains the
+same company Registration No. in the Republic of Seychelles of 102922; that the undersigned
+Oren Shabat Laurent is the ultimate beneficiary shareholder of Banc De Binary Limited,
+Seychelles (formerly named and registered and registered in Seychelles as BO Systems); that this
+Consent Order has been duly authorized by BO Systems (now named and registered as Banc De
+Binary Limited, Seychelles); and that the undersigned Oren Shabat Laurent has been duly
+empowered to sign and submit this Consent Order and all exhibits hereto on behalf of BO
+Systems (now named and registered as Banc De Binary Limited, Seychelles), and that. Oren
+Shabat Laurent has been lawfully appointed to sign the Consent Order on behalf of BO Systems
+Ltd. (now named and registered as Banc De Binary Limited, Seychelles), according to the
+resolution of the Board of Directors in its meeting on January 17, 2016 to approve the Consent
+Order and to authorize Oren Shabat Laurent to sign it on its behalf. BDB Services hereby
+warrants that the undersigned Sandrine Marie Claudia Rassool is the sole director and
+shareholder of BDB Services, that this Consent Order has been duly authorized by BDB
+Services, and that Sandrine Marie Claudia Rassool has been duly empowered to sign and submit
+
+this Consent Order and all exhibits hereto on behalf of BDB Services.
+
+35
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 36 of 52
+
+116. Counterparts and Facsimile Execution: This Consent Order may be executed in
+two or more counterparts, all of which shall be considered one and the same agreement and shall
+become effective when one or more counterparts have been signed by each of the parties hereto
+and delivered (by facsimile, e-mail, or otherwise) to the other party, it being understood that all
+parties need not sign the same counterpart. Any counterpart or other signature to this Consent
+Order that is delivered by any means shall be deemed for all purposes as constituting good and
+valid execution and delivery by such party of this Consent Order.
+
+117. Contempt: Defendants understand that the terms of the Consent Order are
+enforceable through contempt proceedings, and that, in any such proceedings they may not
+challenge the validity of this Consent Order.
+
+118. Agreements and Undertakings: Defendants shall comply with all of the
+undertakings and agreements set forth in this Consent Order.
+
+There being no just reason for delay, the Clerk of the Court is hereby ordered to
+enter this Consent Order For Permanent Injunction, Civil Monetary Penalty And Other
+
+Equitable Relief Against Defendants forthwith and without further notice.
+
+IT IS SO ORDERED on this 26th day of __ February 2016.
+
+ 
+
+Miranda M. Du
+UNITED STATES DISTRICT JUDGE
+
+36
+Case 2:13-cv-00992-MMD-VCF Document 171 Filed 02/29/16 Page 37 of 52
+
+CONSENTED TO AND APPROVED
+BY:
+
+ATTORNEYS FOR PLAINTIFF
+U.S. COMMODITY FUTURES
+TRADING COMMISSION
+
+By: /s/ Margaret Aisenbrey
+
+ 
+
+Kathleen Banar
+(202) 418-5335
+(202) 418-5987 facsimile
+
+kbanar @ cftc. gov
+(ll. Bar No. 6200597)
+
+Margaret Aisenbrey
+(816) 960-7749
+
+(816) 960-7751 facsimile
+maisenbrey@ cftc.gov
+(Mo. Bar No. 59560)
+
+ 
+
+Kim G. Bruno
+(202) 418-5368
+(202) 418-5987 facsimile
+
+kbruno @ cftc. gov
+(DC. Bar No.389899)
+
+U.S. Commodity Futures Trading
+Commission
+
+1155 21Â° Street NW
+Washington, D.C. 20581
+
+Blaine T. Welsh (NV Bar No. 4790)
+Assistant United States Attorney
+United States Attorneyâs Office
+
+333 Las Vegas Boulevard, Suite 5000
+Las Vegas, Nevada 89101
+blaine.welsh@ usdoj.gov
+
+(702) 388-6336
+
+(702) 388-6787 (facsimile)
+
+ATTORNEYS FOR DEFENDANTS
+BANC DE BINARY LTD., ET
+BINARY OPTIONS LTD., BO
+SYSTEMS LTD., BDB SERVICES
+LTD., AND OREN SHABAT
+LAURENT (A/K/A OREN SHABAT
+AND OREN COHEN)
+
+By: /s/ A. Jeff Ifrah
+
+ 
+
+A. Jeff Ifrah
+jeff@ifrahlaw.com
+Rachel Hirsch
+rhirsch@ifrahlaw.com
+
+ 
+
+ 
+
+IFRAH PLLC
+
+1717 Pennsylvania Avenue
+Suite 650
+
+Washington, D.C. 20006
+Telephone: 202-524-4140
+Facsimile: 202-521-4141
+
+Craig S. Denney
+
+Snell & Wilmer L.L.P.
+
+50 West Liberty Street, Suite 510
+Reno, NV 89501
+
+775-785-5440 (office)
+775-785-5411 (direct)
+775-785-5441 (fax)
+
+cdenney@ swlaw.com
+
+(NV Bar No. 6953)
+
+37
+Serial No. 51-2016
+
+AUTHENTICATION OF SIGNATURE
+
+I the undersigned, Seagull Cohen, Adv.&
+Notary, at 11 Tuval st. Ramat Gan, 52522
+hereby certify that on February 9" 2016 there
+appeared before me at my office Mr. OHAD
+TZKHORI whose identity was proved to me by
+Passport no. 20733620 issued by Authority-
+LC. at TEL-AVIV-YAFO on Feb 11 2013
+And signed of his own free will the attached
+document marked A1-A43.
+
+In witness whereof I hereby authenticate the
+signature of Mr. OHAD TZKHORI by my own
+signature and seal today February 9" 2016.
+
+Fees paid: 194 NIS including VAT.
+
+   
+   
+
+Signature
+
+Caase2! ReervO0GSe2NMMIDAEF Cdocuneeant 6211 Aidecda7222166 RagecsBsobb22
+
+51-2016 â70 7502
+ADDN NN
+
+Sain ,PPWY TY 172 5y0 No AMINA IN
+AY) 9/2/2016 OYA 92 NIWNN ,52522 , 12,11
+dy 09 ANDI MIN ONNY TN Ww 7TIWDA 2297
+MINv Â°P SY NÂ¥INW 20733620 IONvN W277 79
+11/2/2013 OYA 1-DAN 9a ONIDNT NNN
+yarn) qyian TavNN SY wWoINA WIÂ¥ID ONM
+
+-43N-1N NI
+
+MN VW FY INN NN NNN 297 PND
+2272016 DYD PAMNIP NNN NS
+
+-DIW nN D919 NY 194 JOA Dw
+
+PID ONIN
+Notaryâs Seal
+
+pr LL ayn an wrawwn Wy Tw ,\n2 9y0 Twa Pain nt avo
+03-6138550 D9 03-6138555 920
+
+ 
+
+ 
+Case?! ReervO0GSe2NMMIDWAEF Cdocuneeant. 6211 Aidedda722216s Ragecseeobbh22
+
+yan HID TS
+
+ny
+
+ 
+
+SS
+
+ 
+
+   
+ 
+  
+
+ 
+
+  
+
+   
+
+ 
+
+ 
+
+ 
+
+| 5 48 ARS t8th
+
+   
+
+eta
+APOSTILLE i
+sonvention de la Haye du 5 Octobre 1961)
+i Seeqwe partis
+moss jan
+yrannn.2
+D> _E'0 ew
+Spr inna pans
+âbears the seal/stamp of âomnvomnn nx xen 4
+the above Notary Sean prwun bw
+Certified wis
+5. At the District Court of Tel Aviv Jaffa ape ova bra miman pawn as
+6.Date pra.
+7. By an official appointed by sw rra nnaw m0 by 7
+âMinister of Justice under the 10 -G2- 2Uifsrsmoun pin vob arose
+Notaries Law, 1976. * 1976 -vounn
+aceite TENS mype oa.
+| 9 Seal Step ae
+vot
+
+ 
+
+m2
+
+TSLAvY.
+
+ 
+
+Ae nae
+CBase221 BecevODGSA2NNNMIE CEF ee Prageet0coiba2
+} ae - 2
+
+DEFENDANTS
+
+  
+
+DE) YANT Oren Shabat Laurent
+By: Shabat Laurent
+
+31 Sasha Argov St.
+
+Tel Aviv, Israel
+
+Thereby confirm that on | [date], Mr. Oren Shabat Laurent, has
+
+ 
+   
+ 
+
+@Â® appeared before me and is known toâ me; affirmed his si on this Consent Order; and has
+
+igned i i d Tekhorl, Advocate
+signed it before me in my presence. fe) Wednbe N i. 46498
+
+ADVOCATE
+38 Tuval St., Ramat
+
+DEFENDANT Bane de Binary, Ltd.
+By: Oren Shabat Laurent, Shareholder of
+â. Defendant Banc de Binary Ltd.
+
+i Kanika International Business Centre,
+Office 401, Profiti Hias 4, Germasogeia
+4046, Limassol, Cyprus
+
+am a licensed lawyer in
+
+ 
+
+with the title of at [company,
+firm]. Ihereby affirm that Banc de Binary, Ltd.âs decision to execute and enter into this Consent
+
+  
+
+38
+
+ 
+Caase221 ReervO0GSe2NMMIDYAEF Cdocuneeant6211 Aidedda722216s Ragest410b622
+
+Serial No. 49-2016
+AUTHENTICATION OF SIGNATURE
+
+1 the undersigned, Seagull Cohen, Adv.&
+Notary, at 11 Tuval st. Ramat Gan, 52522
+hereby certify that on February 9" 2016 there
+appeared before me at my office Mr. OHAD
+TZKHORI whose identity was proved to me by
+Passport no. 20733620 issued by Authority-
+LC. at TEL-AVIV-YAFO on Feb 11" 2013
+And signed of his own free will the attached
+document marked A1-A43.
+
+In witness whereof I hereby authenticate the
+signature of Mr. OHAD TZKHORI by my own
+signature and seal today February 9"" 2016.
+
+Fees paid: 194 NIS including VAT.
+
+   
+   
+
+Signature
+
+49-2016 *70 7DDOân
+ADDN NN
+
+Sain IID TY ,}AD 2YH AVN ANDINNA IN
+ANÂ») 9/2/2016 DPI > NWNN ,52522 ,), N07 ,11
+Dy 0D ANDI IMA W NNS TWIN VW 9TWID2 7997
+MonNv 7 SY NYINW 20733620 TAD }>IIT 9
+11/2/2013 DYA 19-2AN INI ONDIT M100
+yaronn 4719 TovNN Sy *wOINA W870 ONN)
+
+-43N-1N TNI
+
+MN WO DY IN|NN NN NNN 297 N17)
+9/2/2016 DYN PNNINA TD Nanna ny
+
+.DIWwW Nn"yn 9919 NY 194 TOI DY
+
+ywwnn omn
+Notaryâs Seal
+
+O11 239n aINT Iw TY TAWA V2 Yo TAWA pan nt Javon
+03-8138550 D729 03-6138555 9D
+my mm
+
+i So Sa
+Caase271 BcevCOG8a2NMMIP WEF Cloocuneant6211 Ai@ecoa7z2e2165 Hagest22obba2
+
+ 
+
+ 
+
+  
+
+   
+  
+   
+ 
+
+ 
+
+  
+
+oistRicr con eee " an ee Seen stn vavD
+ââF ISRAEL i AYP F
+This public document ronay ao
+2. Has been signed by ra pnm .2
+Advocate, y : ie? ay
+3, Actingincapacirof Say Â» <P wa aN .s
+4.bears the seal/stamp of aMnnvoninn ne Rw 4
+the above Notary Sen pavun bw
+Certified Wik
+5. At the District Court of Tel Aviv Jaffa qb) ax ba Minn vown na 5
+GI 10 -2- ââââââ
+7. By an official appointed by ow spa mamw mvp by 7
+Minister of Justice under the awn pin %b> Hwowart
+Notaries Law, 1976, 1976 = v>wnn
+6 Sei number A A77ANY mmo âon 8 Â¥
+9.Seal/Stamp 3 :
+
+ 
+ 
+
+Chase221 Bec veNSIa2MAMIDYGEF Dpocnpa ase eye pezeetse Fggeotsanbb22
+jo â (XYo
+
+ 
+
+DEFENDANT BY Binary Options, Ltd.
+By: Oren Shaft Laurent, Director and
+Shareholder/f Defendant ET Binary
+Options, Ltd.
+
+38 Tuval St., Ramat Gan, Israel
+
+I, â¬ ) hal we an , am a licensed lawyer in
+ToAA EL , with the title of Ay Waeabe at [company,
+
+firm]. I hereby affirm that ET Binary Options, Ltd.âs decision to execute and enter into this
+Consent Order has been made in accordance with the law and pursuant to all the relevant
+corporate documents and the relevant Companies laws. | further affirm that Oren Shabat Laurent
+has been lawfully appointed to sign this Consent Order on behalf of ET Binary Options, Ltd.,
+and | affirm that his signing on this Consent Order is with the authorization of ET Binary
+Options, Ltd.âs Board of Directors, according to the resolution of the ET Binary Options, Ltd.âs
+Board of Directors in its meeting on Fa { | > stb [date] to approve the Consent
+Order and to authorize Mr. Oren Shabat Laurent to sign it on its behalf, and is therefore legally
+
+binding. I hereby confirm that on dol L [date], Mr. Oren Shabat Laurent, has
+
+appeared before me and is known to me; affirmed his signature on this Consent Order; and has
+
+ 
+
+signed it before me in my presence. \
+
+[Signature]
+
+[Nam Lad Tt bees
+[Title] Ahinente
+
+taadress, 32 âTuval gh Ob. Tyne
+
+40
+
+ 
+Serial No. 50-2016
+AUTHENTICATION OF SIGNATURE
+
+I the undersigned, Seagull Cohen, Adv.&
+Notary, at 11 Tuval st. Ramat Gan, 52522
+hereby certify that on February 9" 2016 there
+appeared before me at my office Mr. OHAD
+TZKHORI whose identity was proved to me by
+Passport no. 20733620 issued by Authority-
+LC. at TEL-AVIV-YAFO on Feb 11" 2013
+And signed of his own free will the attached
+document marked A1-A43.
+
+In witness whereof I hereby authenticate the
+signature of Mr. OHAD TZKHORI by my own
+signature and seal today February 9" 2016.
+
+Fees paid: 194 NIS including VAT.
+
+   
+
+Cease?! ReervO0GSe2NMMIDAEF Cdocuneeant6211 Aidedda722216s Ragest44obb22
+
+50-2016 â70 TDD
+DMN N9N
+
+Sand HPIwD TY IND 90 NOD MAINA WN
+1?) 9/2/2016 DPI 22 NWN 52522 pp 107 ,11
+dy 9 ANID ININW MNS TN Wo 77WNa 7299
+MaNv rT DY NYINW 20733620 TNA ITT 79
+11/2/2013 DPA W-âDAN INA ONDIT NAD
+yor ANNA ADIN SY waINA ISI ONM
+
+-43N-1N INI
+
+TMX WD IY INENN AN NNN 97 7N7)
+922016 DYN pramnai>-P NNN Ny
+
+âDOW nD D912 Nw 194 TOI Dw
+
+yrvnn omn
+Notaryâs Seal
+
+NI 11 Say an} yA) TY TWA 1 JY TAWA Pan nt TH0d
+03-6138550 Dj79 03-6138555 "70
+
+ 
+Gaase21 ReervO0GSe2NMMIDYAEF Cdocuneeantl6211 Aidedda7z222716s RagestSsoib22
+
+ 
+     
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+or - â = â
+IRA HAVIV bore
+APOSTILLE
+Up ttt ion de la Haye du 5 Octobre 1961) 10 vas sn88
+| 9PSTATE OF ISRAEL requ nse a9 1
+i JOURT OF TEL-AVIV VOI TSO T COUMT uF TEL-AVIV
+â| This pablic document may jo
+2. Has been signed by yra nnn 2
+Advocate Cos one 2 es re
+3. Acting in capacity Bf Notary \ .prwn nna Penns .
+4.bears the seal/stamp of aninmvoninn ns kw 4
+the above Notary Sean moun bw
+Certified Wik
+5, Atthe District Court of Tel Aviv Jaffa vb? avaxs Ons Tman bbw M3 Ss
+ie fis a eR
+7. By an official appointed by 10 02> 206 sw pa mam mon by.7
+piste ormie an)
+
+ 
+
+ABER aAâ CARD ZAA
+
+Baerrvresw
+
+ornow
+ 
+
+and registered as BO Systems, Ltd.,
+Seychelles Registration No. 102922), 106
+Premier Building, Victoria, Meha,
+Seychelles
+
+By: Oren Shabat Laurent
+
+Ultimate Beneficiary Shareholder of Banc
+De Binary Limited, Seychelles
+Registration No. 102922 (formerly named
+and registered as BO Systems, Ltd.,
+Seychelles Registration No. 102922), 31
+Sasha Argov St., Tel Aviv, Israel
+
+LOlul. Tr hn am a licensed lawyer in
+
+TOMAer with the title of AAV pady at [company,
+firm]. I hereby affirm that the decision of BO Systems, Ltd. Seychelles (now named and
+registered as Banc De Binary Limited, Seychelles) to execute and enter into this Consent Order
+has been made in accordance with the law and pursuant to all the relevant corporate documents
+and the relevant Companies laws. I further affirm that BO Systems, Ltd. in Seychelles, by
+resolution of its Board of Directors (âBODâ), changed its name to Banc De Binary Limited,
+Seychelles. I affirm that, despite the name change, Banc De Binary Limited, Seychelles is the
+one and the same company as Defendant BO Systems, Ltd., Seychelles, and maintains the same
+company Registration No. of 102922. I further affirm that Oren Shabat Laurent has been
+lawfully appointed to sign this Consent Order on behalf of BO Systems Ltd. Seychelles (now
+named and registered as Banc De Binary Limited, Seychelles), according to the resolution of the
+BOD in its meeting on to approve the Consent Order and to authorize Mr. Oren ;
+Shabat Laurent to sign it on its behalf, and is therefore legally binding. I hereby confirm that on
+[date], Mr. Oren Shabat Laurent, has appeared before me and is known
+to me; affirmed hi:
+
+ 
+
+signature on this Consent Order; and has signed it before me in my presence.
+
+41
+
+ 
+CBase221 ReecveOSSE2MAMID AEF Cloocuneeant)6241 Fyjeccoanzert 86 Faget 7obb22
+Mz TESY 2,
+
+Advocate
+Once 08
+
+pNamefObal|, â2 lease: .
+[Title], MV Veelhe
+trades St tusl) tO foAec
+
+Ey )
+
+ 
+
+ 
+C8621 Bet S92-MMD-VCF DnumeahiÃ©s1 Filled 02/20/06 Pegget4nb6B2
+
+Aoruk_
+
+DEFENDANT BGB Services, Ltd.
+
+By: Sandrine Marie Claudia Rassool, Sole
+Director and Shareholder of Defendant
+BdB Services, Ltd.
+
+106 Premier Building, Victoria, Meha,
+Seychelles
+
+ 
+
+c
+1, ARE CC bbw WE amalicensed lawyer in
+wis
+
+Seu cypercts , with the title of 4Trehnd4 / Parpeayt racist
+eae oer ts affirm that BdB Services, Ltd.âs decision to execute and enter into this Consent
+Order has been made in accordance with the law and pursuant to all the relevant corporate
+documents and the relevant Companies laws. | further affirm that Sandrine Marie Claudia
+Rassool has been lawfully appointed to sign this Consent Order on behalf of BdB Services, Ltd.,
+and I affirm that her signing on this Consent is with the authorization of BdB Services, Ltd.âs
+Board of Directors, according to the resolution of the BdB Services, Ltd.âs Board of Directors in
+its meeting on l 4 Tawny ul date] to approve the Consent Order and to authorize
+Ms. Sandrine Marie Claudia Rassool to sign it on its behalf, and is therefore legally binding. I
+hereby confirm that on IL Feta ay al* sate, Ms. Sandrine Marie Claudia Rassool,
+
+has appeared before me and is known to me; affirmed her signaturge-on this Consent Order; and
+
+has signed it before me in my presence.
+
+ 
+
+ 
+
+[Signature]
+[Name] Ar râ¬ CC. WE
+[Title]
+
+      
+     
+
+  
+
+Â¢ LABL
+LF 2ING.
+e&
+
+  
+
+[Address]
+
+ 
+
+ 
+
+43
+C8621 Bit S92-MMD-VCF DmnumeahlÃ©s1 Filled 02/20/06 egget@nb6B2
+
+ 
+
+APOSTILLE
+(Convention de la Haye du 5 Octobre1961)
+
+1. Country: REPUBLIC OF SEYCHELLES
+
+This public document
+
+has been signed by ANDRE C.C. LABLACHE
+3. acting in the capacity of NOTARY PUBLIC
+
+4. bears the seal/stamp of ANDRE C.C. LABLACHE
+NOTARY PUBLIC
+Certified
+
+at VICTORIA 6. 11â¢ FEBRUARY 2016
+
+ 
+
+5.
+7.
+8.
+9.
+
+ 
+
+ 
+
+ 
+Case 2:1 267:0080P MMBNCR BacuRneneE AL "ieee S2io/ee Pageâso of 52
+
+DEFENDANTS
+
+DEFENDANT Oren Shabat Laurent
+By: Oren Shabat Laurent
+
+31 Sasha Argov St.
+
+Tel Aviv, Israel
+
+Thereby confirm that on [date], Mr. Oren Shabat Laurent, has
+appeared before me and is known to me; affirmed his signature on this Consent Order; and has
+signed it before me in my presence.
+
+Ohad Tzhori
+
+ADVOCATE
+38 Tuval St.. Ramat Gan Israel
+
+ 
+
+By: OretyShabat Laurent, Shareholder of
+Defendant Banc de Binary Ltd.
+
+Kanika International Business Centre,
+Office 401, Profiti Ilias 4, Germasogeia
+4046, Limassol, Cyprus
+
+Vy io. Lom: am a licensed lawyer in
+SOTHEME Fovgentess &
+Cogeos with the title of Wssocwte Lower at [company, dxsoorsacS LLC
+
+firm]. | hereby affirm that Banc de Binary, Ltd.âs decision to execute and enter into this Consent
+
+38
+
+ 
+
+ 
+Case 2:1 267:0080PMMBNCR BScunneneE AL "ied Seite Pajeâs1 of 52
+
+Order has been made in accordance with the law and pursuant to all the relevant corporate
+documents and the relevant Companies laws. I further affirm that Oren Shabat Laurent has been
+lawfully appointed to sign this Consent Order on behalf of Bane de Binary, Ltd., and I affirm that
+his signing on this Consent Order is with the authorization of Banc de Binary, Ltd.âs Board of
+Directors, according to the resolution of the Banc de Binary, Ltd. Board of Directors in its
+meeting on b& BEC. ISS [date] to approve the Consent Order and to authorize Mr.
+Oren Shabat Laurent to sign it on its behalf, and is therefore legally binding. I hereby confirm
+that on So EEG . 2o$S [date], Mr. Oren Shabat Laurent, has appeared before me and is
+known to me; affirmed his signature on this Consent Order; and has signed it before me in my
+
+presence.
+
+[Signature] FL eonbo vias
+
+[Name]_Evita Langeos
+[Title] Nssorace Layer
+[Address] Syatidorom Lawlor $0.
+
+406 Limassol
+
+>
+Signed in Limassol Cyprus
+
+   
+  
+    
+
+certify only the signature
+
+    
+
+Certifying Offic
+
+ 
+
+     
+
+ 
+
+âappears on document andâ assume no
+responsibility fomy the content} of this document.
+In testimony yhfheof tha 0 sey py hand an
+Official seal this JEOYINDay of. ARS or 20.5
+
+ 
+
+(LS) â¬ 5.00
+
+  
+
+ 
+Case 2:13 OF-bOSSPMMBNCP Docu t As "ict Szi2o/i6Â° Paez of 52
+|:
+
+this is to certify thet the: signature P. ALEXANDROU
+appearing above is the signature of P. ALEXANDROU.
+4 Certifying Officer of Limassol, appointed by the Minister
+of the Interior of the Republic of Cyprus, under the Certifying
+officers Law, 165(1) 2012, to certify signatures and seals and
+that the seal opposite the said signature is that of the
+Cenifying Officer of Limassol. The District Officer
+only the signature and the seal of the
+
+      
+
+O. Stylianou
+
+ 
+
+APOSTILLE
+(Convention de La Haye du 5 Octobre 1961)
+
+ 
+ 
+
+Sn SEVANOM....
+
+ 
+
+3._ acting in the capacity of District Officer
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 

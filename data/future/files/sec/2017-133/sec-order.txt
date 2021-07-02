@@ -1,0 +1,622 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 81222 / July 27, 2017
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3884 / July 27, 2017
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-18080
+
+ 
+
+ 
+
+ 
+
+ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+SECTION 21C OF THE SECURITIES
+Halliburton Company and EXCHANGE ACT OF 1934, MAKING
+Jeannot Lorenz, FINDINGS, AND IMPOSING REMEDIAL
+SANCTIONS AND A CEASE-AND-DESIST
+Respondents. ORDER
+I.
+
+The Securities and Exchange Commission (âSECâ or âCommissionââ) deems it
+appropriate that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section
+21C of the Securities Exchange Act of 1934 (âExchange Actâ), against Halliburton Company
+(âHalliburtonâ) and Jeannot Lorenz (collectively, the âRespondentsâ).
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondents have submitted Offers
+of Settlement which the Commission has determined to accept. Solely for the purpose of these
+proceedings and any other proceedings brought by or on behalf of the Commission, or to which
+the Commission is a party, and without admitting or denying the findings herein, except as to the
+Commissionâs jurisdiction over them and the subject matter of these proceedings, which are
+admitted, Respondents consent to the entry of this Order Instituting Cease-and-Desist
+Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making Findings,
+and Imposing Remedial Sanctions and a Cease-and-Desist Order (âOrderâ), as set forth below.
+II.
+On the basis of this Order and Respondentsâ Offers of Settlement, the Commission finds!
+that:
+
+SUMMARY
+
+1. This matter concerns violations of the books and records and internal accounting
+controls provisions of the Foreign Corrupt Practices Act (âFCPAâ) by Halliburton, a global
+oilfield services company, headquartered in Houston, Texas, and its former Vice-President,
+Jeannot Lorenz, a citizen of France and permanent resident of the United States.
+
+2. From April 2010 through April 2011, Halliburton paid $3,705,000 to a local
+Angolan company that Halliburton had proposed to a Sonangol Official to fulfill local content
+obligations. The local Angolan company was owned by a former Halliburton employee and a
+friend and neighbor of the Sonangol government official and some of the payments were made in
+advance of Halliburton obtaining lucrative oilfield services contracts. The Sonangol official,
+who had authority to veto or reduce subcontracts awarded to Halliburton by large international
+oil companies, approved Halliburtonâs local content proposal.
+
+3. The payments to the local Angolan company were made under two contracts
+arranged and negotiated by Lorenz and others: (1) a September 2009 Interim Consulting
+Agreement, and (11) a May 2010 Real Estate Transaction Management Agreement. Halliburton
+entered into these contracts in violation of its own internal accounting controls and did not record
+the true nature of the transactions in its books and records. Specifically, the two contracts were
+entered into for the purpose of paying the local Angolan company to satisfy local content
+requirements, not for the stated scope of work set forth in each contract. In addition, Halliburton
+entered into the contracts without following all of the terms of its internal accounting controls
+governing such transactions.
+
+4. Lorenz negotiated and entered into the agreements with the local Angolan
+company while knowingly circumventing certain Halliburton internal accounting controls. Also,
+Lorenz falsified books and records by knowingly providing inaccurate scopes of work and other
+information contained in the agreements. Lorenz, therefore, personally violated provisions that
+prohibit knowingly circumventing internal accounting controls and falsifying books and records,
+and also caused Halliburtonâs violations of the books and records and internal accounting
+controls provisions of the FCPA.
+
+RESPONDENTS
+
+5. Halliburton Company is a Delaware oilfield services corporation, headquartered
+in Houston, Texas. Its common stock is registered under Section 12(b) of the Exchange Act and
+trades on the NYSE. During the relevant time period, Halliburton had more than 70,000
+
+ 
+
+, The findings herein are made to pursuant to Respondentsâ Offers of Settlement and are not binding on any
+
+other person or entity in this or any other proceeding.
+employees operating in over 70 countries with country managers that report to regional
+managers. In February 2009, Halliburton entered into a settlement with the Commission over a
+bribery scheme executed by Halliburtonâs former wholly-owned subsidiary, KBR, Inc. (by then a
+separate U.S. issuer), and KBRâs former CEO, and consented to the entry of a final judgment
+enjoining it from violating the books and records and internal accounting controls provisions of
+the FCPA and, jointly and severally with KBR, disgorged $177 million of ill-gotten gains.
+Separately, as a result of a parallel investigation with the Department of Justice, KBR paid a
+criminal fine of $382 million.
+
+6. Jeannot C. Lorenz (age 65) is a French citizen with permanent residence status
+in the United States who is currently residing in Angola. He is a former Halliburton Vice-
+President who had been the country manager in charge of Halliburtonâs operations in Angola
+from 1993 to 2002. He returned to Angola to serve as interim country manager from mid-2004
+through early-2005. Beginning in April 2008, while officially working for Halliburton in Brazil,
+Lorenz was appointed to lead the companyâs local content efforts in Angola. Lorenz left the
+company in late 2013.
+
+FACTS
+
+7. In early 2008, Sonangol officials told Halliburton management that Sonangol was
+considering vetoing further subcontract work for Halliburton in Angola because Halliburton had
+insufficient local content and was not compliant with Angolaâs local content regulations
+governing foreign companies operating in Angola. Sonangol officials made it clear that
+Halliburton needed to partner with more local Angolan-owned businesses in order to satisfy local
+content requirements. In response, starting in April 2008, Halliburton tasked Lorenz to
+spearhead efforts to find local content in Angola that would be acceptable to Sonangol. Lorenz
+previously worked for Halliburton in Angola where he had established relationships and
+networks with many Angolans, including Sonangol and other government officials. During 2008
+and early 2009, Lorenz and Halliburton considered a variety of potential local content projects
+and kept Sonangol officials apprised of their progress. In 2008, Halliburton finalized and
+commenced one separate local content project not involving the local Angolan company. This
+separate project fulfilled Halliburtonâs local content obligations for contracts that were up for bid
+in 2008.
+
+8. By April 2009, another round of contracts for other joint Sonangol/international
+oil company projects was coming up for bid. Halliburton understood that the 2008 local content
+efforts would not count for this new round of contract bids. Halliburton also learned from a
+variety of sources, including the head of an international oil companyâs operations in Angola,
+that Sonangol remained extremely dissatisfied with Halliburtonâs local content efforts and that
+Sonangol might veto the international oil companyâs recommendations that Halliburton be
+awarded certain contracts in Angola. In response, Lorenz proposed that Halliburton offer to
+outsource approximately $15 million of unspecified services to a local Angolan company that
+was owned by a former Halliburton employee who was a friend and neighbor of the government
+official who would on Sonangolâs behalf approve the award of the contracts in question to
+Halliburton. Lorenz knew of the relationship between the owner of the local Angolan company
+and the Sonangol government official. On April 29, 2009, Halliburton senior executives met
+with the Sonangol government official at Sonangolâs headquarters in Luanda and discussed
+Lorenzâs proposal for local content. Thereafter, Lorenz began a lengthy effort to retain this local
+Angolan company in order to fulfill Halliburtonâs proposal, making three attempts to do so.
+
+9. Lorenz first proposed retaining the local Angolan company as a commercial agent
+and paying a fee equal to 2% of Halliburtonâs existing revenue earned in Angola. Lorenz
+projected that Halliburton would pay a fee of approximately $4 million for the remaining 6
+months in 2009 which would rise to $15 million by 2013. However, Lorenzâs proposal to pay a
+fee on existing revenues (as opposed to newly obtained business) was rejected by Lorenzâs direct
+management because (i) Halliburton declined to add any agents in Africa during that time period,
+and (11) Halliburton generally retained commercial agents to obtain new business for Halliburton
+and paid the agent a percentage of the new business as a commission or fee. As outlined by
+Halliburtonâs legal department, to retain the local Angolan company as a commercial agent, it
+would be required to undergo a lengthy due diligence and review process that included retaining
+outside U.S. legal counsel experienced in FCPA compliance to conduct interviews.
+
+Halliburtonâs in-house counsel noted that â[t]his is undoubtedly a tortuous, painful
+administrative process, but given our companyâs recent US Department of Justice/SEC
+settlement, the board of directors has mandated this high level of review.â As a result of the
+internal disapproval, Lorenz abandoned the idea of retaining the local Angolan company as a
+commercial agent.
+
+10. â_ Lorenz then proposed to directly outsource some of Halliburtonâs in-house
+functions to the local Angolan company without competitive bidding. However, in order to
+comply with the companyâs internal accounting controls, Halliburtonâs procurement personnel
+required a competitive bidding process to outsource real estate maintenance, travel and ground
+transportation services in which the preferred local Angolan company would compete.
+Halliburton personnel in Angola and procurement specialists from Houston conducted the
+competitive bidding. As the bidding process would take several months to complete, Lorenz
+considered it imperative to show âgood faithâ by beginning to engage and pay the local Angolan
+company some money. Accordingly, in July 2009 â before the initial request for quotes in the
+bidding process was issued in October 2009 â Lorenz began negotiating a âbridge agreement.â
+The initial draft was a six-month âconsulting agreementâ beginning in September 2009 for
+$30,000 per month. By late October 2009, after further negotiations, the amount was increased
+to $45,000 per month. The effective date of the agreement remained September 2009, despite
+that November was about to begin and the contract had not been signed.
+
+11. The real reason for the interim consulting agreement â to provide bridge payments
+as a show of good faith to the Sonangol government official and the local Angolan company
+until the latter successfully emerged from the bidding process â did not appear in the agreement.
+Rather, the scope of work falsely stated that the local Angolan company would be âdeveloping
+reports with respect to findings and recommendationsâ addressing local content requirements
+and how Halliburton could meet those requirements with respect to areas of travel, local
+logistics, and real estate. In order to secure approval for the draft agreement in the fall of 2009,
+Lorenz made false statements that led other Halliburton employees to believe that the local
+Angolan company had already provided and would continue to provide actual services under the
+consulting agreement. However, the agreement was not executed and payments under the
+agreement were not made until beginning in February 2010.
+
+12. â_ Halliburtonâs internal accounting controls required that the supplier qualification
+process begin with an assessment of the criticality or risk of a material or service, not with a
+particular supplier. Instead, Lorenz started with a particular supplier (the local Angolan
+company) and then backed into a list of services it could provide. Lorenz also violated
+Halliburton internal accounting controls by entering into the interim consulting agreement
+without either seeking competitive bids or providing an adequate single source justification.
+Lorenz failed to comply with an internal accounting control that required contracts over $10,000
+in countries with a high risk of corruption, such as Angola, to be reviewed and approved by a
+Tender Review Committee.
+
+13. By January 2010, nine months had passed since Halliburton had proposed to
+Sonangol that it would use the local Angolan company to satisfy local content requirements.
+Both Sonangol and the proposed local Angolan company believed that Halliburton was failing to
+comply with local content requirements, thus risking the award of significant contracts scheduled
+for mid-2010. At this moment of crisis, Lorenz asked a Halliburton senior executive to meet
+with the Sonangol government official as soon as possible to renew Halliburtonâs local content
+commitment and the April 2009 proposal. On January 13, 2010, in the middle of an unrelated
+trip through the Middle East, the Halliburton senior executive flew to Portugal to meet the
+Sonangol government official at the vacation home of the Sonangol government officialâs friend,
+the owner of the local Angolan company. Both Lorenz and the friend were present. The
+Halliburton senior executive explained to the Sonangol government official the delays associated
+with a large companyâs procurement processes and affirmed that Halliburton was negotiating a
+deal with the local Angolan company to satisfy local content requirements. The Halliburton
+senior executive also asked the Sonangol government official for his support for the international
+oil companyâs award of an upcoming contract to Halliburton, in light of progress Halliburton
+was making to satisfy Halliburtonâs local content requirements.
+
+14. In February 2010, Halliburtonâs procurement personnel reviewed the bids for real
+estate maintenance, travel and ground transportation services, and the preferred local Angolan
+company was the least successful of the bidders. The local Angolan company did not submit a
+bid for the travel portion but submitted bids for real estate maintenance and ground
+transportation. The local Angolan companyâs bid was 90% to 447% higher than the next highest
+bid for the property maintenance and was 42% to 126% higher in ground transportation. As
+noted by a Halliburton employee in a February 9, 2010 email evaluating the bids, the local
+Angolan company âis a very expensive solution (non-competitive and not justified based on their
+proposal)... .â Nonetheless â and notwithstanding the apparent availability of other Angolan
+bidders to satisfy local content requirements -- Halliburton officials believed that they needed to
+use the preferred local Angolan company as their local content because they had committed they
+would do so. According to the February 9, 2010 email, Lorenz was âscrambling to find [a]
+justificationâ to award the business to the local Angolan company.
+
+15. Lorenz and others unsuccessfully attempted to negotiate with the local Angolan
+company for an acceptable price for the services based on the bids received from others. The
+owner of the local Angolan company, however, insisted on an unexplained, non-negotiable
+monthly âfixed costâ of no less than $250,000 above his costs. On February 22, 2010, the local
+Angolan company refused to negotiate further. Desperate for a solution, and feeling intense
+pressure to get the deal with the local Angolan company done, Lorenz and others pivoted from
+the outsourced services contemplated under the bidding process to a new proposal where the
+local Angolan company would lease commercial and residential real estate and then sublease the
+properties to Halliburton at a substantial markup, and also provide real estate transaction
+management consulting services. The preferred local Angolan company had minimal experience
+in these areas and the services could have been provided more cheaply if done internally by
+Halliburton personnel. Nonetheless, on February 23, 2010, Halliburton issued a letter of intent to
+enter into contracts with the local Angolan company for real estate transaction management
+consulting services and subleases for office and residential space. The local Angolan company
+owner accepted the letter of intent and contacted the Sonangol official to inform him of the
+agreement in principle.
+
+16. By again selecting a particular supplier â rather than determining the critical
+services and then selecting the appropriate supplier â and doing so without competitive bidding
+or substantiating the need for a single source, Lorenz violated Halliburtonâs internal accounting
+controls. Also, another Halliburton internal accounting control required its Real Estate Services
+department to manage the process of subleasing real property and initiating contracts for
+professional services related to the acquisition or disposition of property. Initially, no one from
+Real Estate Services was consulted about the need for these services, let alone managed the
+process. Ultimately, although employees from Halliburtonâs Real Estate Services Department
+assisted in drafting the contract, Lorenz and others outside of Real Estate Services managed and
+executed the agreement.
+
+17. Near contemporaneously with the signing of the letter of intent, Lorenz and the
+local Angolan company finally executed the Interim Consulting Agreement in February 2010.
+That agreement remained backdated to September 2009 and Halliburton paid the local Angolan
+company $405,000 for the period of September 2009 through May 2010 even though the local
+Angolan company never provided the services enumerated in the agreement.
+
+18. In late March 2010, as part of review processes required by Halliburtonâs internal
+accounting controls in approving contracts over a certain value threshold high risk countries like
+Angola, personnel from the Finance & Accounting department, both at the region and
+headquarters, raised concerns about the proposed Real Estate Transaction Management
+Agreement. Specifically, they questioned the use of single source procurement, the upfront
+payment terms, the high costs, and the rationale for entering into subleases for properties that
+would cost less if leased directly from the landlord. One Finance & Accounting reviewer at
+headquarters noted that he could not think of any legitimate reason to pay the local Angolan
+company over $13 million under the Real Estate Transaction Management Agreement and that it
+would not have cost that much to run Halliburtonâs entire real estate department in Angola.
+These concerns were raised with and vetted within the Finance & Accounting supervisory chain,
+and with Halliburton senior corporate executives. The senior executives understood that the
+commercial terms were onerous but allowed the contract reviews to proceed because they
+believed that by this time only this agreement with the local Angolan company would satisfy
+Sonangol as to Halliburtonâs local content commitments.
+
+19. On May 1, 2010, Lorenz signed the Real Estate Transaction Management
+Agreement with the local Angolan company. Halliburton agreed to pay the local Angolan
+company $275,000 per month for four years to purportedly (1) manage real estate transactions in
+and around Luanda, Angola, (11) develop a strategy for Halliburtonâs staff housing, (111) develop a
+strategy for âoff baseâ leasing of commercial space, (iv) streamline the leasing process, and (v)
+produce quarterly reports relating to planning, costs and market conditions. Halliburton did not
+receive any meaningful services under this agreement and the local Angolan company failed to
+produce the required reports except for one unfinished report that was found in Lorenzâs house in
+Angola in 2011 that appeared to be plagiarized wholly from internet sources. Halliburton
+terminated payments to the local Angolan company in April 2011 after receiving an anonymous
+email in December 2010 alleging possible misconduct surrounding the transactions with the local
+Angolan company.
+
+20. According to Halliburtonâs internal accounting controls, using a single source is
+justified when âthere is a significant advantage to the Company in soliciting a bid from only one
+supplier, although more than one supplier may be capable of supplying the product or service.â
+Halliburtonâs internal accounting controls indicated that using a single source âtypically occurs
+when a supplier is clearly preferred for quality, technical, execution or other reasons.â In this
+case, the supplier was not preferred for quality or technical reasons or its ability to execute.
+Instead it was chosen to fulfill Halliburtonâs local content commitment to Sonangol. Halliburton
+internal accounting controls also mandated that when using a single source vendor without
+competitive bidding, the underlying reasons âshould be clearly identified and justified by
+referencing an existing approved Single Source justification.â The purpose of this control is to
+provide needed information to company auditors in their effort to test whether transactions were
+undertaken for legitimate reasons and not due to improper considerations.
+
+21. Although possible justifications for selecting the local Angolan company may
+have been discussed in some company emails, the documentation entered into Halliburtonâs
+accounting system in May 2010 provided no justification for choosing the local Angolan
+company as a single source provider. The purported justifications merely described in summary
+form the terms of the agreements. As a consequence, internal audit was kept in the dark about
+the transactions and its late 2010 yearly review did not examine them. While internal audit did
+not examine the agreements with the local Angolan company in its late 2010 yearly review in
+Angola, it did note, from the transactions it did examine, that most of the filed single source
+justifications contained âinadequate information on the SSJ [Single Source Justification] to
+support why sole sourcing was necessary.â
+
+22. From April 2010 through April 2011, when Halliburton terminated payments to
+the local Angolan company because of the allegations of misconduct, Halliburton paid the local
+Angolan company $3,705,000 under the interim consulting agreement and the Real Estate
+Transaction Management Agreement. Between May and December 2010, Sonangol approved
+the award of seven lucrative subcontracts to Halliburton and Halliburton profited by
+approximately $14 million.
+23. In determining to accept the Offer, the Commission considered remedial acts
+undertaken by Respondent and cooperation afforded the Commission staff, including making
+foreign witnesses available, compiling financial data and analysis relating to the transactions at
+issue, and making substantive presentations on key topics at the staff's request.
+
+LEGAL STANDARDS AND VIOLATIONS
+
+24. As aresult of the conduct described above, Halliburton violated Section
+13(b)(2)(A) of the Exchange Act, which requires issuers that have a class of securities registered
+pursuant to Section 12 of the Exchange Act and issuers with reporting obligations pursuant to
+Section 15(d) of the Exchange Act to make and keep books, records, and accounts which, in
+reasonable detail, accurately and fairly reflect their transactions and dispositions of their assets.
+
+25. As aresult of the conduct described above, Halliburton also violated
+Section13(b)(2)(B) of the Exchange Act, which requires issuers that have a class of securities
+registered pursuant to Section 12 of the Exchange Act and issuers with reporting obligations
+pursuant to Section 15(d) of the Exchange Act to devise and maintain a system of internal
+accounting controls sufficient to provide reasonable assurances that (1) transactions are executed
+in accordance with managementâs general or specific authorization; (11) transactions are recorded
+as necessary (I) to permit preparation of financial statements in conformity with generally
+accepted accounting principles or any other criteria applicable to such statements, and (II) to
+maintain accountability for assets; (111) access to assets is permitted only in accordance with
+managementâs general or specific authorization; and (iv) the recorded accountability for assets is
+compared with the existing assets at reasonable intervals and appropriate action is taken with
+respect to any differences. As a result of the prior settlement, Halliburton had clearly defined
+internal accounting controls governing, among other things, the selection and approval of
+vendors in high risk countries, commercial agents and single source suppliers. However,
+Halliburton failed to maintain these controls. Indeed, as there was a business need, the company
+failed to comply with controls that were supposed to prevent further violations of the FCPA.
+
+26. As aresult of his conduct described above, Jeannot Lorenz caused Halliburtonâs
+violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act.
+
+27. As aresult of his conduct described above, Jeannot Lorenz violated Section
+13(b)(5) of the Exchange Act, which prohibits persons from knowingly circumventing or
+knowingly failing to implement a system of internal accounting controls, or knowingly falsifying
+any book, record or account, and Exchange Act Rule 13b2-1, which prohibits persons from
+directly or indirectly falsifying or causing to be falsified any book, record, or account.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondentsâ Offers.
+
+Accordingly, it is hereby ORDERED that:
+A. Pursuant to Section 21C of the Exchange Act, Respondent Halliburton cease-and-
+desist from committing or causing any violations and any future violations of Sections
+13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act.
+
+B. Pursuant to Section 21C of the Exchange Act, Respondent Jeannot Lorenz cease-
+and-desist from committing or causing any violations and any future violations of Sections
+13(b)(2)(A), 13(b)(2)(B), and 13(b)(5) of the Exchange Act and Rule 13b2-1 thereunder.
+
+C. Respondent Halliburton shall, within 14 days of the entry of this Order, disgorge
+ill-gotten gains of $14,000,000 along with prejudgment interest of $1.2 million, and pay a civil
+penalty of $14,000,000 to the Securities and Exchange Commission for transfer to the general
+fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). If timely
+payment is not made, additional interest shall accrue pursuant to SEC Rule of Practice 600 or
+pursuant to 31 U.S.C. Â§ 3717.
+
+D. Respondent Jeannot Lorenz shall pay a civil penalty of $75,000, to the Securities
+and Exchange Commission for transfer to the general fund of the United States Treasury, subject
+to Exchange Act Section 21F(g)(3). Payment shall be made in the following installments:
+Lorenz shall pay (1) $20,000 within 14 days of the entry of this Order, and (ii) an additional
+$55,000 within 364 days of the entry of this Order. If any payment is not made by the date the
+payment is required by this Order, the entire outstanding balance of the civil penalty, plus any
+additional interest accrued pursuant to SEC Rule of Practice 600 or pursuant to 31 U.S.C. Â§
+3717, shall be due and payable immediately, without further application.
+
+E. For both Respondents, payment must be made in one of the following ways:
+
+(1) Respondents may transmit payment electronically to the Commission,
+which will provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondents may make direct payment from a bank account via Pay.gov
+through the SEC website at hitp:/fwww.sec.gov/aboutfofficesfofm. htm; or
+
+(3) Respondents may pay by certified check, bank cashierâs check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter
+
+identifying Halliburton or Jeannot Lorenz as a Respondent in these proceedings,
+as appropriate, and the file number of these proceedings; a copy of the cover letter
+
+9
+and check or money order must be sent to Ansu Banerjee, Assistant Regional
+Director, Division of Enforcement, Securities and Exchange Commission, Los
+Angeles Regional Office, 444 South Flower Street, Suite 900, Los Angeles, CA
+90071.
+
+F, Amounts ordered to be paid as civil money penalties pursuant to this Order shall
+be treated as penalties paid to the government for all purposes, including all tax purposes. To
+preserve the deterrent effect of the civil penalty, Respondent Jeannot Lorenz agrees that in any
+Related Investor Action, he shall not argue that he is entitled to, nor shall he benefit by, offset or
+reduction of any award of compensatory damages by the amount of any part of Respondentâs
+payment of a civil penalty in this action (âPenalty Offsetâ). If the court in any Related Investor
+Action grants such a Penalty Offset, Respondent Jeannot Lorenz agrees that he shall, within 30
+days after entry of a final order granting the Penalty Offset, notify the Commission's counsel in
+this action and pay the amount of the Penalty Offset to the Securities and Exchange Commission.
+Such a payment shall not be deemed an additional civil penalty and shall not be deemed to
+change the amount of the civil penalty imposed in this proceeding. For purposes of this
+paragraph, a âRelated Investor Actionâ means a private damages action brought against
+Respondent by or on behalf of one or more investors based on substantially the same facts as
+alleged in the Order instituted by the Commission in this proceeding.
+
+G. Respondent Halliburton shall comply with the following undertakings:
+
+1. Retain an independent consultant (the âIndependent Consultantâ) not
+unacceptable to the Staff within ninety (90) calendar days after the issuance of
+this Order. Within sixty (60) calendar days after the issuance of this Order,
+Respondent shall recommend to the Staff a qualified candidate to serve as the
+Independent Consultant. The Staff shall provide feedback to Respondent within
+fifteen (15) calendar days of receiving Respondentâs recommendations.
+
+2. The Independent Consultant candidate shall have, at a minimum, the following
+qualifications: demonstrated expertise with respect to the FCPA, including
+experience counseling on FCPA issues; experience designing and/or reviewing
+corporate compliance policies, procedures, and internal controls, including FCPA-
+specific policies, procedures, and internal controls; ability to access and deploy
+resources as necessary to discharge the Independent Consultantâs duties as
+described herein; and independence from Respondent to ensure effective and
+impartial performance of the Independent Consultantâs duties.
+
+3. The Independent Consultant should not have provided legal, auditing, or other
+services to, or have had any affiliations with, the Respondent during the two years
+prior to the issuance of this Order.
+
+4. Respondent shall retain the Independent Consultant for a period of eighteen (18)
+
+months from the date of the engagement. Respondent shall exclusively bear all
+costs, including compensation and expenses, associated with the retention of the
+
+10
+Independent Consultant.
+
+To ensure the independence of the Independent Consultant, Respondent shall not
+have the authority to terminate the Independent Consultant without the prior
+written approval of the Staff.
+
+The Independent Consultantâs responsibility is to review and evaluate
+Respondentâs anti-corruption policies and procedures, including policies and
+procedures related to retaining local content and the use of single source
+justifications, for Respondentâs business operations in Africa (âthe Policies and
+Proceduresâ) and to make recommendations designed to reasonably improve the
+Policies and Procedures. This review and evaluation shall include an assessment
+of the Policies and Procedures as actually implemented in Africa and how such
+Policies and Procedures fit within Respondentâs ethics and compliance function.
+The Independent Consultant shall consider whether the ethics and compliance
+function has sufficient resources, authority, and independence, and provides
+sufficient training and guidance to the business operations in Africa regarding the
+Policies and Procedures described above.
+
+Respondent and the Independent Consultant shall agree that the Independent
+Consultant is an independent third-party and not an employee or agent of the
+Respondent. In addition, Respondent and the Independent Consultant agree that
+no attorney-client relationship shall be formed between them.
+
+Respondent shall require the Independent Consultant to enter in an agreement
+with Respondent providing that, for the period of engagement and for a period of
+two years from completion of the engagement, the Independent Consultant shall
+not enter into any employment, consultant, attorney-client, auditing or other
+professional relationship with Respondent, or any of its present or former
+affiliates, directors, officers, employees, or agents acting in their capacity as such.
+Any firm with which the Independent Consultant is affiliated or of which he/she
+is a member, and any person engaged to assist the Independent Consultant in
+performance of his/her duties under this Order shall not, without prior written
+consent of the Staff enter into any employment, consultant, attorney-client,
+auditing or other professional relationship with Respondent, or any of its present
+or former affiliates, directors, officers, employees, or agents acting in their
+capacity as such for the period of the engagement and for a period of two (2)
+years after the engagement.
+
+Respondent shall require the Independent Consultant to prepare a written work
+plan and submit it to Respondent and the Staff for comment within thirty (30)
+calendar days of commencing the engagement. The Respondentâs comments
+shall be provided to the Independent Consultant no more than thirty (30) calendar
+days after receipt of the written work plan. In order to conduct an effective initial
+review and to understand fully any deficiencies in the Policies and Procedures,
+including how they fit within Respondentâs ethics and compliance function, the
+
+11
+10.
+
+11.
+
+12.
+
+Independent Consultantâs initial work plan shall include such steps as are
+reasonably necessary to develop an understanding of the facts and circumstances
+surrounding any violations that may have occurred as reflected in this matter and
+to assess the effectiveness of Respondentâs existing Policies and Procedures, and
+of Respondentâs ethics and compliance program as they pertain to its business
+operations in Africa. Any dispute between Respondent and the Independent
+Consultant with respect to the work plan shall be decided by the Staff.
+
+Respondent shall cooperate fully with the Independent Consultant, and the
+Independent Consultant shall have the authority to take such reasonable steps as,
+in his or her view, may be necessary to be fully informed about Respondentâs
+Policies and Procedures in accordance with the principles set forth herein and
+applicable law, including data protection, blocking statutes, and labor laws and
+regulations applicable to Respondent. To that end Respondent shall provide the
+Independent Consultant with access to all non-privileged information, documents,
+records, facilities and/or employees, as requested by the Independent Consultant,
+that fall within the scope of the Independent Consultantâs responsibility, except as
+provided in this paragraph; and provide guidance on applicable laws (such as
+relevant data protection, blocking statutes, and labor laws).
+
+In the event the Respondent seeks to withhold from the Independent Consultant
+access to information, documents, records, facilities and/or employees of
+Respondent that may be subject to a claim of attorney-client privilege or to the
+attorney work product doctrine, or where Respondent reasonably believes
+production would otherwise be inconsistent with applicable law or beyond the
+scope of these undertakings, Respondent shall work cooperatively with the
+Independent Consultant. If the matter cannot be resolved, at the request of the
+Independent Consultant, Respondent shall promptly provide written notice to the
+Independent Consultant and the Staff. Such notice shall include a general
+description of the nature of the information, documents, records, facilities and/or
+employees that are being withheld, as well as the basis for the claim. To the
+extent Respondent has provided information to the Staff in the course of the
+investigation leading to this action pursuant to a non-waiver of privilege
+agreement, Respondent and the Independent Consultant may agree to production
+of such information to the Independent Consultant pursuant to a similar non-
+waiver agreement.
+
+Respondent shall require the Independent Consultant to issue a written report
+(âReportâ), within six (6) months after being retained to review Respondentâs
+Policies and Procedures: (a) summarizing its review and evaluation, and (b) if
+necessary, making recommendations based on its review and evaluation that are
+reasonably designed to improve Respondentâs Policies and Procedures.
+Respondent shall require that the Independent Consultant provide the Report to
+the Board of Directors of Respondent and simultaneously transmit a copy to the
+Staff at the following address: Ansu N. Banerjee, Assistant Regional Director,
+Division of Enforcement, Securities and Exchange Commission, 444 South
+
+12
+Flower Street, Suite 900, Los Angeles, California 90071.
+
+13. Respondent shall adopt all recommendations in the Report within ninety (90) days
+of the issuance of the Report; provided, however, that, as to any recommendations
+that Respondent considers to be unduly burdensome, impractical, or costly,
+Respondent need not adopt the recommendations at that time, but may submit in
+writing to the Staff, within thirty (30) days of receiving the Report, an alternative
+policy or procedure designed to achieve the same objective or purpose.
+Respondent and the Independent Consultant shall attempt in good faith to reach
+an agreement relating to each recommendation Respondent considers unduly
+burdensome, impractical, or costly. In the event that Respondent and the
+Independent Consultant are unable to agree on an alternative proposal within
+thirty (30) days, Respondent will abide by the determinations of the Staff.
+
+14. After 180 days of completion of the implementation, the Independent Consultant
+shall have thirty (30) calendar days to complete a follow-up review to confirm
+that Respondent has implemented the recommendations or agreed-upon
+alternatives and continued the application of the Policies and Procedures, and to
+deliver a supplemental report to the Board of Directors of Respondent and the
+Staff setting forth its conclusions and whether any further improvements should
+be implemented.
+
+15. Respondent agrees that the Staff may extend any of the dates set forth above at its
+direction.
+
+16. Respondent shall certify, in writing, compliance with the undertaking(s) set forth
+above. The certification shall identify the undertaking(s), provide written
+evidence of compliance in the form of a narrative, and be supported by exhibits
+sufficient to demonstrate compliance. The Staff may make reasonable requests
+for further evidence of compliance, and Respondent agrees to provide such
+evidence. Respondent shall submit the certification and supporting material to
+Ansu N. Banerjee, Assistant Regional Director, Division of Enforcement, with a
+copy to the Office of Chief Counsel of the Enforcement Division, no later than
+sixty (60) days from the date of the completion of the undertakings.
+
+17. Respondent agrees that these undertakings shall be binding upon any successor in
+interest to Respondent or any acquirer of substantially all of Respondentâs assets
+and liabilities or business.
+
+V.
+
+It is further Ordered that, solely for purposes of exceptions to discharge set forth in
+Section 523 of the Bankruptcy Code, 11 U.S.C. Â§ 523, the findings in this Order are true and
+admitted by Respondent Jeannot Lorenz, and further, any debt for disgorgement, prejudgment
+interest, civil penalty or other amounts due by Respondent Jeannot Lorenz under this Order or
+
+13
+any other judgment, order, consent order, decree or settkement agreement entered in connection
+with this proceeding, is a debt for the violation by Respondent Jeannot Lorenz of the federal
+securities laws or any regulation or order issued under such laws, as set forth in Section
+523(a)(19) of the Bankruptcy Code, 11 U.S.C. Â§ 523(a)(19).
+
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+14

@@ -1,0 +1,644 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 89149 / June 25, 2020
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4150 / June 25, 2020
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-19835
+
+ 
+
+ 
+
+ 
+
+ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+SECTION 21C OF THE SECURITIES
+NOVARTIS AG EXCHANGE ACT OF 1934, MAKING
+FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+I,
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (âExchange Actâ), against Novartis AG (âNovartisâ or âRespondentâ).
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferâ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, Respondent admits the Commissionâs
+jurisdiction over it and the subject matter of these proceedings, and consents to the entry of this
+Order Instituting Cease-And-Desist Proceedings Pursuant to Section 21C of the Securities
+Exchange Act of 1934, Making Findings, and Imposing a Cease-And-Desist Order (âOrderââ), as
+set forth below.
+Hil.
+
+On the basis of this Order and Respondentâs Offer, the Commission findsâ that:
+
+Summary
+
+1. These proceedings arise out of improper activities by subsidiaries and affiliates of
+Novartis AG, a global pharmaceutical and healthcare company headquartered in Basel, Switzerland,
+to increase the use of products in several geographic markets between 2012 and 2016.
+
+2. In Korea, Vietnam, and Greece, Novartis or Alcon local subsidiaries and affiliates
+engaged in schemes to make improper payments or to provide benefits to public and private
+healthcare providers (âHCPsâ) in exchange for prescribing or using Novartis or Alcon products.
+These schemes varied in method and amount but were known among certain managers of the local
+subsidiaries or affiliates. Within Novartisâ former Alcon Asia business, internal accounting
+controls weaknesses associated with Equipment Financing Arrangements (âEFAsâ) in China from
+2013 to 2015 resulted in forged contracts, missing surgical equipment, as well as a significant EFA
+accounts receivable balance associated with poor performing EFAs, for which Alcon China
+recorded large bad-debt provisions.
+
+3. False books and records were maintained in connection with the various schemes,
+and Novartis also lacked sufficient internal accounting controls with respect to certain aspects of
+the operations of these subsidiaries and affiliates. As a result, Novartis violated the books and
+records and internal accounting controls provisions of the Foreign Corrupt Practices Act of 1977
+(the âFCPAâ) [15 U.S.C. Â§ 78m], and was unjustly enriched by approximately $92.3 million.
+
+Respondent
+
+4. Novartis AG (âNovartisâ) is a global provider of pharmaceutical and healthcare
+products. Novartisâ products are available in approximately 155 countries and Novartis Group
+companies employ approximately 104,000 individuals. It is a corporation organized under the
+laws of Switzerland with headquarters in Basel, Switzerland. During the relevant period, Novartis
+was the sole owner of Alcon Inc., an eye care company, until it was spun off in 2019. Novartis
+issued and maintains a class of publicly traded securities registered pursuant to Section 12(b) of the
+Exchange Act, which are traded on the New York Stock Exchange under the ticker symbol
+âNVS.â?
+
+ 
+
+! The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any other
+
+person or entity in this or any other proceeding.
+
+On March 23, 2016, Novartis settled a FCPA action with the Commission alleging violations arising from
+
+conduct in China. In the Matter of Novartis AG, Sec. Exch. Act Release No. 77431, available at
+http://www.sec.gov/litigation/admin/2016/34-7743 1-s.pdf
+
+ 
+Other Relevant Entities
+
+5. Novartis (Hellas) S.A.C.I. (âNovartis Greeceâ), a Greek corporation headquartered
+in Athens, Greece, is an indirect wholly-owned subsidiary of Novartis. Novartis Greece conducts
+sales and marketing activities throughout Greece for Novartis prescription drugs. Novartis Greece
+financial statements were consolidated with those of Novartis.
+
+6. Novartis Korea Ltd (âNovartis Koreaâ) is an indirect majority-owned subsidiary
+of Novartis. Novartis Korea conducts sales and marketing activities throughout the Republic of
+South Korea with annual sales of between $300 million and $400 million during the relevant
+period. Novartis Korea financial statements were consolidated with those of Novartis.
+
+7. Alcon, Inc. (âAlconâ) was a multinational eye care company with headquarters in
+Fort Worth, Texas, and was incorporated in Hiinenberg, Switzerland. In or around April 2011,
+Alcon merged with Novartis, after which Alcon became an indirect wholly-owned subsidiary of
+Novartis. Alconâs financial statements were consolidated with those of Novartis during the
+relevant period. Alcon Inc. was spun off of Novartis in 2019 and currently maintains a class of
+publicly traded securities registered pursuant to Section 12(b) of the Exchange Act, which are
+traded on the New York Stock Exchange. Alcon Inc. is currently the largest eye care company in
+the world with 20,000 employees conducting business in more than 140 countries.
+
+8. Alcon Pte Ltd (âAlcon Singaporeâ) was an affiliate of Alcon between 2011 and
+2014. Among other functions, Alcon Singapore provided management oversight over two Alcon
+representative offices in Vietnam (collectively, âAlcon Vietnamâ). Alcon Singaporeâs and Alcon
+Vietnamâs financial statements were consolidated with those of Novartis during the relevant
+period.
+
+FACTS
+Conduct Relevant to Greece
+
+9. From approximately 2012 through 2015, Novartis Greece engaged in a scheme to
+corruptly provide improper benefits and things of value to HCPs, including employees of state-
+owned and state-controlled hospitals and clinics, to obtain an improper advantage and to increase
+sales of Lucentis in Greece. In addition, from approximately 2009-2012, Novartis Greece
+conducted certain Phase IV and epidemiological studies that were primarily designed to promote
+sales of Novartis products in Greece, resulting in improper payments to HCPs.
+
+10. The misuse of seemingly legitimate educational and scientific activities for
+improper purposes included the Novartis Greece Ophthalmology franchise (âOphthaâ), and was
+known and approved by Novartis Greece Ophtha managers of various levels, including brand
+managers and sales managers, who provided guidance to subordinate staff on the use of
+âinvestmentâ activities. Novartis Greece improperly recorded the payments related to these
+activities as legitimate advertising and promotion or marketing and sales expenses.
+11. Certain Novartis Greece Ophtha employees ranked HCPs by their prescribing
+product preference and volume and, based upon their likelihood to prescribe, provided them with
+improper inducements as âinvestmentsâ to increase their use of Novartis products. This was
+internally described as a return on investment ("ROI"), and sales and marketing staff were
+encouraged to plan their activities so as to maximize ROI. In strategy planning documents within
+the Ophtha business franchise, sales staff remarked that HCPs were reminded of their investment
+and obligation to prescribe. If an HCP was not meeting their return on investment, investment
+activities were reduced or eliminated.
+
+12. Novartis Greeceâs Ophtha franchise misused international congress sponsorships to
+induce HCPs to write prescriptions for Lucentis, a drug sold by Novartis Greece that was used to
+treat neovascular (wet) age-related macular degeneration, among other indications. Novartis
+Greece targeted Greek HCPs that it designated Key Opinion Leaders (âKOLsâ) and paid their costs
+to attend the congresses, many of which exceeded $5,000 per HCP. Internal documents written by
+members of Novartis Greece Ophtha franchise and minutes of meetings within the ophthalmology
+business discussed use of international congresses, including to the United States, to âundermine [a
+competitor companyâs] aggressive congress policy,â and described the need to increase pressure on
+HCPs to prescribe Lucentis, including stating that HCPs âmust understand that their participation
+in [specific congresses in the United States and Europe] will be cancelled if sales performance is
+not improved significantly.â An internal document went on to describe that Novartis Greece sales
+representatives âmust make clear to their [HCP] customers that Lucentis is facing real difficulties
+in the market and for this reason there will be serious consequences.â In his 2013 Action Plan, the
+Novartis Greece Ophtha KOL manager wrote that he would convey to one ophthalmology KOL,
+âto get you must write. No presents any more.â
+
+13. In certain instances, sales representatives also demanded that KOLs agree to âNON
+USE of [a competitorâs product and] TOTAL COOPERATION,â in exchange for Novartis Greece
+considering âDOUBLING THE GIFT IN 2014.â Those Greek HCPs that were perceived to have a
+lower potential to prescribe Novartis drugs, and thus lower potential ROI, were excluded from
+obtaining sponsorships and other ostensibly educational and scientific activities.
+
+14. Novartis Greece also engaged in improper conduct with respect to Phase IV and
+epidemiological studies. The Phase IV clinical studies were supposed to be used to assess the
+safety and efficacy of the studied prescription drug with a publication announcing the results of the
+study in order to inform medical decisions. In a phase IV clinical study, HCPs are selected by
+Novartisâ Medical Affairs group. However, in certain instances, sales personnel made the selection
+of HCPs to participate in order to inappropriately promote particular products or induce HCPs to
+increase prescription sales.
+
+15. As described in a 2012 Novartis Internal Audit review of the phase IV studies
+conducted by Novartis Greece, there was a lack of transparency outside of the Medical Affairs
+function in the planning, design, and execution of clinical studies in Greece, and it determined that
+weaknesses in process and control design in execution did not ensure that the studies were of a
+non-promotional nature. The review identified numerous control deficiencies surrounding Phase
+IV studies conducted in Greece, including (1) unsupported medical or scientific rationale to
+
+4
+perform the studies; and (2) indications the studies were promotional and designed to achieve
+commercial advantage. Internal audit also found controls weaknesses in the collection of data and
+publication of study results. In response to the internal audit review, Novartis Greece agreed to
+engage in a remediation plan, and to improve the Finance Departmentâs oversight of clinical
+studies.
+
+16. Internal audit reported its findings to Novartis corporate security, which conducted
+its own review in 2012. Among the studies that Novartis corporate security reviewed were
+EXACTLY related to the products Diovan, Exforge, and Rasilez; OBVIOUS related to product
+Aclasta; and REGINA related to product Xolair. Novartis corporate security had similar findings.
+In summary, corporate security found weak scientific rationales for several clinical studies,
+suggesting that some clinical studies were used primarily, and inappropriately, as a marketing tool
+to increase sales of Novartis products. Corporate security also found control weaknesses that made
+it difficult to ensure that HCPs were paid the correct amounts for their participation in the clinical
+studies. For example, in the EXACTLY study, approximately four times as many HCP names
+were submitted to the local health authority than actually received payments. Additionally, some
+payments were made to HCPs using a vendor named âdummy vendor.â
+
+17. Of the patient medical information submitted on 42,000 clinical research forms,
+25,500 forms had mistakes. Further, an audio recording of a debrief following the EXACTLY
+study showed that some Novartis Greece employees were aware that some HCPs who participated
+in EXACTLY believed that they were obtaining payments in return for their prescriptions of
+Novartis products and not for their role in the study. For instance:
+
+e âyou all know this very well, I just repeat, that the doctor believes that he/she
+participates in a study and gets paid for what he prescribes in reality and not for
+what he/she write in the study...â
+
+e âTo be honest, the studies were conducted in a similar way in the past as well; they
+were conducted as marketing projects. Thatâs within quotation markes. Between
+
+99
+
+US.
+
+18. From the perspective of Novartis Greeceâs Finance Department, clinical studies
+were a âblack box,â in that the Finance Department lacked visibility into clinical study budgets and
+due to a lack of internal accounting controls there was no proper reconciliation between budget and
+actual spend. Moreover, in some instances, because of deficiencies in Novartis Greeceâs internal
+accounting and supplier management controls, Novartis Greece used âdummy vendorsâ to try to
+track which HCPs were paid for which studies and to monitor payments relative to the approved
+budget. Some HCPs received approximately 60 euros (then approximately $83 USD) per patient
+clinical form and some received as much as 38,000 euros (then approximately $52,820 USD) for
+completing clinical forms. A follow-up Internal Audit review in 2013 concluded that Novartis
+Greece addressed many of the deficiencies identified in the 2012 review. Over the next several
+years, Novartis Greece reduced the number of local Phase IV studies it performed and eventually
+stopped conducting them altogether.
+19. As described in a 2013 Novartis Internal Audit review, Novartis Greece also lacked
+sufficient controls around grants provided to HCPs, and they were sometimes provided without
+complete due diligence of the recipient, without clear details regarding the use of the funds, and in
+circumstances where there was an improper connection to sales strategies. In response to the
+internal audit review, Novartis Greece agreed to improve internal controls over the grant approval
+and governance processes.
+
+20. During the relevant period, Novartis was unjustly enriched byover $70.1 million
+from sales in Greece of Lucentis and products related to the OBVIOUS and REGINA studies.
+
+Conduct Relevant to Alcon Vietnam
+
+21. Alcon conducted its business operations in Vietnam through two representative
+offices (collectively âAlcon Vietnamâ). Alcon Vietnamâs management and financial reporting
+were overseen by the regional management team of Alcon Singapore, which was an indirect
+wholly-owned subsidiary of Novartis. In light of local laws, Alcon Vietnam conducted all sales
+and marketing activities of Alcon surgical equipment (e.g., phacoemulsification and refractive
+surgery lasers) and consumables (e.g., intraocular lenses (âIOLsâ)) through a Vietnamese
+distributor (âDistributor Companyâ). Under a 2006 distributorship agreement, the Distributor
+Company was guaranteed a margin of 24.7% for âimportation, technical service, product
+registration, and distribution services.â
+
+22. Beginning in approximately 2007 and continuing into 2014, Alcon Vietnam and
+Distributor Company engaged in a scheme to make improper payments to HCPs, both private and
+publicly employed at Vietnam state-owned and state-controlled hospitals and clinics, to increase
+the sale of Alconâs IOLs. In connection with the scheme, from 2008 to late 2011, the Distributor
+Company implemented a âconsultancy programâ through which it paid bribes to HCPs in
+exchange for their agreement to recommend the benefits of Alcon products to patients and thereby
+increase sales of Alcon products. Distributor Company made the improper payments directly to
+the HCPs with the approval of Alcon Vietnam managers and employees, who reimbursed
+Distributor Company for up to 50 percent of the costs associated with the payments through the
+use of credit notes.
+
+23. Alcon Vietnam personnel and Distributor Company coordinated the amounts of the
+improper payments to HCPs through the consultancy program and also coordinated which types of
+doctors to target for the payments. For example, in July 2008 the Distributor Company proposed
+payments to, âDoctor in consult[ation] room,â âDoctor in the exam room,â âNurse in
+consult[ation] room,â âand the âChief of [Operating Room] in certain eye hospitals in Vietnam.
+Other communications made clear that the purpose of the payments was to âencourage[] doctors to
+introduce and use Alconâs IOLs and ... speed up IOLs sales.â
+
+24. Following the 2011 merger of Novartis and Alcon, Novartis failed to take sufficient
+steps to ensure the improper payments to HCPs halted. After 2011, the program was instead
+revised and referred to by different names (e.g., âpatient educationâ), and Distributor Companyâs
+payments to HCPs continued. For example, a profit-and-loss statement provided by the Distributor
+
+6
+Company to Alcon Vietnam Representative Office personnel in June 2014 showed a line item for
+â[c]onsultant costâ through mid-2014. Despite awareness by some personnel at the representative
+offices of ongoing payments to HCPs by Distributor Company, Alcon Vietnam approved
+Distributor Companyâs inflated requests to Alcon Vietnam for reimbursement for marketing,
+human resources, and margin reconciliation funds.
+
+25. Up until June 2014, Alcon Vietnam allowed for the Distributor Company to be paid
+annually as partial reimbursement for payments that it made to HCPs (for instance, retrmbursing up
+to approximately $180,000 in 2010, and up to $100,000 in 2013 and 2014), pursuant to the
+consultancy program and the post-2011 variations of the program.
+
+206. During a phone call in or around late summer 2014, a Distributor Company
+executive told an Alcon Singapore executive that it had used up all of its funds to pay for Alcon
+surgical equipment and could no longer pay the âusual considerationsâ to HCPs to ensure they
+purchased Alcon products. A former Alcon Singapore executive who was aware of the improper
+payments signed and transmitted two false Sarbanes-Oxley sub-certification letters to Alconâs
+Chief Executive Officer and Chief Financial Officer in which the executive did not identify the
+improper reimbursements to the Distributor Company. The payments were falsely recorded as
+legitimate consultant payments in the consolidated books and records of Novartis.
+
+27. During the relevant period, Novartis was unjustly enriched by approximately $8.4
+million as a result of improper conduct in Vietnam.
+
+Conduct Relevant to Korea
+
+28. Between 2011 and August, 2016, Novartis Korea employees made corrupt
+payments to HCPs to increase prescriptions and sales of Novartis products over that of its
+competitors. These payments were made through one of several means, and each of which was
+improperly recorded in Novartisâ consolidated books and records. One scheme to make improper
+payments to HCPs was disguised as payments made for ostensible medical journal activities
+organized by a third party vendor. Under local law, pharmaceutical companies are prohibited from
+making any type of payment directly to HCPs for the purpose of promoting sales. One intent of
+the local restriction was to discourage pharmaceutical companies from concentrating more on
+marketing and promotional activities towards HCPs rather than on competition based on product
+quality through research and development.
+
+29. In an effort to circumvent local law, certain employees of Novartis Korea made the
+improper payments to HCPs via certain third-party medical journals that forwarded the payments
+to the HCPs for participating in roundtable meetings organized by the medical journal. Novartis
+Korea sales personnel selected HCPs to participate in editorial and roundtable meetings, at some of
+which Novartis Korea sales representatives marketed Novartis products, and some meetings were
+followed by recreational activities with the HCPs.
+
+30. HCPs who participated in the round-table meetings received honoraria in amounts
+ranging from $268 to $447 USD per event, and the amount of fees paid to HCPs averaged $2550
+
+7
+USD per journal. The honoraria came from advertising fees Novartis Korea paid to the medical
+journals and were improperly recorded in the books and records as such. Novartis Korea paid the
+medical journals over $16.3 million between 2011 and 2015, some of which was improperly
+passed on to HCPs as honoraria. As these events were conducted through a vendor, they were not
+subjected to compliance review as otherwise required by Novartisâ policies.
+
+31. For the conduct described above, the Korean Ministry of Health and Welfare and
+the Korean Ministry of Food and Drug Safety imposed in 2017 civil administrative fines totaling
+approximately $50.3 million USD on Novartis Korea and suspended sales and reimbursements of
+certain Novartis products for 3-6 months. In 2020, criminal proceedings by the South Korean
+authorities against Novartis Korea and several former Novartis Korea employees found Novartis
+Korea and one of its former sales staff guilty for the same conduct, and Novartis Korea was fined
+approximately $35,000 USD.
+
+32. In another scheme, Novartis Korea sales managers and employees organized the
+sponsorship of HCPs to international medical conferences as an inducement for HCPs to increase
+their prescriptions of Novartis products. Between 2011 and August 2016, Novartis Korea provided
+funding for 2,032 HCPs to attend 381 international conferences at a combined cost of
+approximately $7 million. Of those conferences, 645 HCPs attended 112 conferences in the
+United States at a cost of approximately $2.5 million. The types of conferences varied across
+therapeutic area, including oncology, cardiometabolic, neuroscience, and ophthalmology. As a
+result of internal accounting controls weaknesses, certain of these ostensibly legitimate congress
+sponsorship fees were used to improperly influence HCPs. In connection with some congresses,
+Novartis Korea employees took into account the prescription sales activities of certain HCPs when
+targeting them for sponsorships in an effort to encourage the HCPs to increase their prescriptions.
+
+33. Novartis Korea incorrectly recorded the improper payments on its books and
+records as legitimate advertising and promotional fees. Novartis Korea failed to have in place a
+control system reasonably designed to ensure that its sales staff were not using sponsorships as
+improper inducements. Novartis Korea also failed to have adequate internal accounting controls
+over its payments for these trips. In June 2017, Novartis Korea was charged and fined
+approximately $446,000 by the Korea Fair Trade Commission with unfair trade practices for the
+conduct described above.
+
+34. In yet a third scheme, Novartis Korea employees in the neuroscience business unit
+devised a local non-interventional clinical study with 17 pre-selected HCPs to improve
+relationships with those HCPs. The study was organized in May 2013 through a local medical
+journal with Novartis Korea providing the list of HCPs to participate and the $100,000 funding
+necessary to complete the study. Novartis Korea recorded the funding to complete the study as
+advertising expenses and failed to have the study reviewed and approved by medical affairs as
+required by internal procedures.
+
+35. Over the relevant time period, Novartis was unjustly enriched by over $13.8
+million from the improper conduct in Korea.
+Conduct Relevant to Alcon Asia
+
+36. In 2011, Novartis merged with Alcon, which until that trme had publicly traded
+securities in the United States. After the merger, Novartis operated Alcon as a separate reporting
+segment through which it sold vision care equipment and other products, such as IOLs and other
+consumables.
+
+37. From 2013 to 2015, within Novartisâ Alcon Asia business, including its operations
+in China, employees placed Alcon surgical equipment at hospitals or clinics for no or little money
+down in exchange for contractual assurances that those hospitals or clinics would either pay for the
+equipment directly or finance it over several years through payments associated with the purchase
+of Alconâs IOLs and consumables during the contractâs term.
+
+38. This business model was in place both before and after Novartis merged with
+Alcon, and it facilitated long-term relationships between Alcon and its customers. Beginning in
+2013, Alcon called these agreements âequipment financing arrangementsâ (i.e., EFAs). Certain
+Alcon Asia managers used aggressive sales techniques and employees in China at times falsified
+documents in order to enter into these EFAs. Novartis lacked adequate internal accounting controls
+to ensure the appropriate accounting treatment for the arrangements and to appropriately record the
+transactions in its books and records.
+
+39, Before 2013, Novartis generally accounted for Alconâs equipment placement
+agreements as operating leases, and recognized associated revenue as payment was received,
+whether on the equipment or on associated sales of Alcon IOLs and/or consumables. In 2013,
+Novartis generally started accounting for Alconâs EFAs as finance leases or sales, recognizing
+revenue up front at the time of placement (after installation and training).
+
+AO. Novartis lacked sufficient internal accounting controls needed in light of the
+degree of accounting, contractual, and financial complexity presented by EFAs. For
+example, in connection with Alcon EFAâs in China, Novartis lacked appropriate internal
+accounting controls to ensure that a written instrument reflected the terms negotiated with a
+hospital, that agreements were signed or âchoppedâ by the counterparty hospital, and that
+agreements contained the price of consumables to be purchased or the premium to be paid.
+Other controls issues existed with respect to Alcon Chinaâs credit assessments of
+counterparty hospitals, allowances for bad debt established at inception, compliance billing,
+equipment repossession, proof of delivery or installation and completion of required
+training associated with EFAs.
+
+41. Particularly in markets such as China, where the customer base of Alconâs
+local subsidiary (âAlcon Chinaâ) was dominated by public hospitals and state HCPs, EFAs
+presented issues of validity, profitability, and misaligned incentives. A significant portion
+of Alconâs surgical sales in China were derived from EFAs with state HCPs.
+
+42. After the switch to finance lease accounting, sales personnel â who until mid-2015
+were compensated, in part, based upon the amount of equipment placed under EFAs rather than
+
+9
+upon how EFAs ultimately performed â entered into certain EFAs that did not satisfy relevant
+revenue recognition criteria or that inaccurately projected future IOL and/or consumable purchases.
+Despite knowing that customersâ âcompliance ratesâ with respect to EFA contractual purchase
+obligations were sometimes very low, Alcon China continued entering into certain EFAs that
+lacked adequate profitability safeguards.
+
+43. In late 2015, anew management team of Alcon China initiated a
+comprehensive review of most equipment placed in hospitals and clinics and the associated
+contractual paperwork. The on-site check was completed in the summer of 2016 and
+revealed that of the 1348 pieces of equipment in scope (with about 700 customers) that 844
+pieces of equipment had been placed pursuant to 466 contracts, with which Alcon China
+had identified potential issues. Nearly half of the 844 pieces of equipment in question had
+been placed pursuant to contracts that lacked a formal hospital âchopâ but had been
+validated by the hospital; the remaining pieces of equipment either could not be located,
+had been moved to other hospitals, or were obtained pursuant to forged or unverified
+contracts. Group, Division, region, and local management became aware of the controls
+deficiencies through various internal audit reports, remediation exercises, and local
+financial certifications, including the 2016 internal audit of Alcon China, which resulted in
+a âNeeds Major Improvementâ rating for the second consecutive audit.
+
+44. Over time, efforts to ensure that EFAs in China were properly executed and
+recorded were unsuccessful, and Novartis management became aware of EFA-related controls
+deficiencies. As described by a senior Alcon executive in a letter to several senior Novartis
+executives in response to a 2016 internal audit,
+
+A historically high pressure sales culture that prioritized meeting sales targets over
+compliance and a high tolerance of unacceptable risks still persists residually in the
+organization. A very poorly executed legal EFA remediation exercise characterized
+by high pressure and coercion to obtain remediated contracts resulted in a large
+number of fraudulent, falsified, invalid and unenforceable contracts. This resulted
+in anumber of non-performing EFAs that are difficult to remediate commercially
+as the underlying agreement itself is in question.
+
+The letter observed that â[d]eveloping a strong compliance culture requires a
+
+comprehensive program and holistic approach with clear commitment from senior managementâ
+and then laid out the specific actions that Alconâs new management team intended to take in late
+2016 to implement enhanced compliance processes to address the historical issues.
+
+45. During the relevant period, Novartis and Alcon attempted to strengthen controls to
+address these issues through various remediation exercises. Novartis and Alcon ultimately
+abandoned the EFA business model for surgical sales in China and moved to a cash-sale business
+model beginning in late 2016. The lack of appropriate internal accounting controls throughout the
+relevant period contributed to Novartis and Alcon ultimately provisioning over $50M in bad debt
+due to the poor performance of its EFAs in China.
+
+10
+Legal Standards and Violations
+
+A6. Under Section 21C of the Exchange Act, the Commission may impose a cease-and-
+desist order upon any person who is violating, has violated, or is about to violate any provision of
+the Exchange Act or any rule or regulation thereunder, and upon any other person that is, was, or
+would be a cause of the violation, due to an act or omission the person knew or should have known
+would contribute to such violation.
+
+47. As a result of the conduct described above, Novartis violated Section 13(b)(2)(A) of
+the Exchange Act, which requires issuers that have a class of securities registered pursuant to
+Section 12 of the Exchange Act and issuers with reporting obligations pursuant to Section 15(d) of
+the Exchange Act to make and keep books, records, and accounts which, in reasonable detail,
+accurately and fairly reflect their transactions and disposition of their assets. [15 U.S.C. Â§
+
+78m(b)(2)(A)].
+
+48. As a result of the conduct described above Novartis violated Section 13(b)(2)(B) of
+the Exchange Act, which requires issuers that have a class of securities registered pursuant to
+Section 12 of the Exchange Act and issuers with reporting obligations pursuant to Section 15(d) of
+the Exchange Act to devise and maintain a system of internal accounting controls sufficient to
+provide reasonable assurances that (1) transactions are executed in accordance with managementâs
+general or specific authorization; (11) transactions are recorded as necessary (I) to permit
+preparation of financial statements in conformity with generally accepted accounting principles or
+any other criteria applicable to such statements, and (II) to maintain accountability for assets; (111)
+access to assets is permitted only in accordance with managementâs general or specific
+authorization; and (iv) the recorded accountability for assets is compared with the existing assets at
+
+reasonable intervals and appropriate action is taken with respect to any differences. [15 U.S.C. Â§
+78m(b)(2)(B)].
+
+Cooperation and Remediation
+
+49. In determining to accept the Offer, the Commission considered remedial acts
+promptly undertaken by Respondent and cooperation afforded the Commission staff. Novartisâ
+cooperation included providing translations of certain relevant documents, making current or
+former employees available to the Commission staff, and timely providing facts developed during
+the course of its own internal investigation. Novartisâ remediation included the termination of
+select personnel and third-party entities involved in the misconduct and certain additions to and
+strengthening of its internal accounting controls. Novartis also retained a dedicated chief
+compliance officer, improved its due diligence and business justification process for third parties,
+and enhanced training provided to employees.
+
+Undertakings
+
+50. Respondent shall report to the Commission staff periodically during a three-year
+term, the status of its remediation and implementation of compliance measures, particularly as to
+the areas of due diligence on prospective and existing third-party consultants and vendors, FCPA
+
+11
+training and the testing of relevant controls including the collection and analysis of compliance
+data. During this period, should Respondent discover credible evidence, not already reported to
+Commission staff, that questionable or corrupt payments or questionable or corrupt transfers of
+value may have been offered, promised, paid, or authorized by Respondent, or any entity or person
+acting on behalf of Respondent, or that related false books and records have been maintained,
+Respondent shall promptly report such conduct to the Commission staff. During this three-year
+period, Respondent shall: (1) conduct an initial review and submit an initial report and (2) conduct
+and prepare two follow-up reviews and reports, as described below:
+
+a. Respondent shall submit to the Commission staff a written report within 360
+calendar days of the entry of this Order setting forth a complete description of its
+FCPA and anti-corruption related remediation efforts to date, its proposals
+reasonably designed to improve the policies and procedures of Respondent for
+ensuring compliance with the FCPA and other applicable anticorruption laws, and
+the parameters of the subsequent review (the âInitial Reportâ). The Initial Report
+shall be transmitted to Tracy L. Price, Deputy Chief, FCPA Unit, Division of
+Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington,
+DC 20549-5631. Respondent may extend the time period for issuance of the Initial
+Report with prior written approval of the Commission staff.
+
+b. Respondent shall undertake two follow-up reviews, incorporating any comments
+provided by the Commission staff on the previous report, to further monitor and
+assess whether the policies and procedures of Respondent are reasonably designed
+to detect and prevent violations of the FCPA and other applicable anti-corruption
+laws (the âFollow-Up Reportsâ).
+
+C. The Follow-up Report shall be completed by no later than 720 days after the Initial
+Report. The second Follow-up Report shall be completed by no later than 1050
+days after the completion of the Initial Report. Respondent may extend the time
+period for issuance of the Follow-up Reports with prior written approval of the
+Commission staff.
+
+d. The periodic reviews and reports submitted by Respondent will likely include
+proprietary, financial, confidential, and competitive business information. Public
+disclosure of the reports could discourage cooperation, impede pending or potential
+government investigations and thus undermine the objectives of the reporting
+requirement. For these reasons, among others, the reports and the contents thereof
+are intended to remain and shall remain nonpublic, except (a) pursuant to court
+order, (b) as agreed by the parties in writing, (c) to the extent that the Commission
+staff determines in its sole discretion that disclosure would be in furtherance of the
+Commissionâs discharge of its duties and responsibilities, or (d) is otherwise
+required by law.
+
+e. During this three-year period of review, Respondent shall provide its external
+auditors with its annual internal audit plan and reports of the results of internal audit
+
+12
+procedures and its assessment of its FCPA compliance policies and procedures.
+
+f. During the three-year period of review, Respondent shall provide Commission staff
+with any written reports or recommendations provided by Respondentâs external
+auditors in response to Respondentâs annual internal audit plan, reports of the
+results of internal audit procedures, and its assessment of its FCPA compliance
+policies and procedures.
+
+51. Certify, in writing, compliance with the undertaking(s) set forth above. The
+certification shall identify the undertaking(s), provide written evidence of compliance in the form
+of a narrative, and be supported by exhibits sufficient to demonstrate compliance. The Commission
+staff may make reasonable requests for further evidence of compliance, and Respondent agrees to
+provide such evidence. The certification and supporting material shall be submitted to Tracy L.
+Price, Deputy Chief, FCPA Unit, Division of Enforcement, Securities and Exchange Commission,
+100 F St., NE, Washington, DC 20549-5631 no later than sixty (60) days from the date of the
+completion of the undertakings.
+
+Deferred-Prosecution Agreements
+
+52. Novartis Hellas S.A.C.I., a Novartis subsidiary, has entered into a three-year
+deferred prosecution agreement with the U.S. Department of Justice, in which it acknowledged
+responsibility for criminal conduct relating to certain findings in the Order. See United States v.
+Novartis Hellas S.A.C.I, Crim No. 20-CR-538 (DNJ Jun 25, 2020) (SDW). Alcon Pte Ltd, a
+current subsidiary of Alcon Inc. and a former subsidiary of Novartis, independently entered into a
+three-year deferred prosecution agreement with the U.S. Department of Justice, in which Alcon Pte
+Ltd acknowledged responsibility for criminal conduct relating to certain findings in the Order. See
+United States v. Alcon Pte Ltd, Crim No. 20-CR-539 (DNJ Jun 25, 2020) (SDW).
+
+Non-Imposition of a Civil Penalty
+53. Novartis acknowledges that the Commission is not imposing a civil penalty based
+
+upon the imposition of a $233,925,000 criminal fine as part of the above referenced resolutions
+with the U.S. Department of Justice.
+
+13
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent Novartisâ Offer.
+
+Accordingly, it is hereby ORDERED that:
+
+A. Pursuant to Section 21C of the Exchange Act, Respondent cease and desist from
+committing or causing any violations and any future violations of Sections 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act.
+
+B. Respondent shall comply with the undertakings enumerated in paragraphs 50-51
+above.
+
+C. Respondent shall, within fourteen days of the entry of this Order, pay disgorgement
+of $92,300,000 and prejudgment interest of $20,500,000 for a total of $112,800,000 to the
+Securities and Exchange Commission for transfer to the general fund of the United States
+Treasury, subject to Exchange Act Section 21F(g)(3). If timely payment is not made, additional
+interest shall accrue pursuant to SEC Rule of Practice 600.
+
+Payment must be made in one of the following ways:
+
+(1) Respondent may transmit payment electronically to the Commission, which
+will provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+ 
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+14
+Payments by check or money order must be accompanied by a cover letter identifying
+Novartis as a Respondent in these proceedings, and the file number of these proceedings; a copy of
+the cover letter and check or money order must be sent to Tracy L. Price, FCPA Deputy Unit
+Chief, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE,
+Washington, DC 20549-5631.
+
+By the Commission.
+
+Vanessa A. Countryman
+Secretary
+
+15

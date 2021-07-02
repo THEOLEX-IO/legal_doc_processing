@@ -1,0 +1,5 @@
+['U.S. - Civil', nan, 'France - Civil', 'Compliance Programs',
+       'U.S. - Criminal/Penal', 'France - Criminal/Penal',
+       'U.S - Criminal/Penal', 'Criminal division', 'E.U. - Civil',
+       'U.K. - Criminal/Penal', 'Switzerland - Civil', 'U.K. - Civil',
+       'Sweden - Civil', 'Germany - Civil']

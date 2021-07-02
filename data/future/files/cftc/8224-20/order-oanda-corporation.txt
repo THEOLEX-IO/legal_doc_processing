@@ -1,0 +1,466 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+ 
+
+(â RECEIVED CFTC >
+
+In the Matter of:
+
+OANDA Corporation,
+CFTC Docket No. 20-29
+
+ 
+
+Respondent.
+
+Proceedings Clerk
+
+\ 8:32 am, Aug 21, 2020 )
+
+ 
+
+ 
+
+Nene Ne Nee ee ee ee ee Nee Neeâ
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+at times in or around October 2018 and during the period April 2019 to August 2019, OANDA
+Corporation ââOANDAââ) violated Regulations 1.17(e)(1), 5.6(a), (b), and (f), 5.7(a)(1)G) and
+(a)(3), and 166.3, 17 C.F.R. Â§Â§ 1.17(e)(1), 5.6(a), (b), (, 5.7(aC)@), (a)(3), 166.3 (2019).
+Therefore, the Commission deems it appropriate and in the public interest that public
+administrative proceedings be, and hereby are, instituted to determine whether OANDA engaged
+in the violations set forth herein and to determine whether any order should be issued imposing
+remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, OANDA has submitted
+an Offer of Settlement (âOfferâ), which the Commission has determined to accept. Without
+admitting or denying any of the findings or conclusions herein, OANDA consents to the entry of
+this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity Exchange
+Act, Making Findings, and Imposing Remedial Sanctions (âOrderâ), and acknowledges service
+of this Order.â
+
+ 
+
+' OANDA consents to the use of the findings of fact and conclusions of law in this Order in this
+proceeding and in any other proceeding brought by the Commission or to which the Commission
+is a party or claimant, and agrees that they shall be taken as true and correct and be given
+preclusive effect therein, without further proof. OANDA does not consent, however, to the use
+of this Order, or the findings or conclusions herein, as the sole basis for any other proceeding
+brought by the Commission or to which the Commission is a party or claimant, other than: a
+proceeding in bankruptcy or receivership; or a proceeding to enforce the terms of this Order.
+OANDA does not consent to the use of the Offer or this Order, or the findings or conclusions in
+this Order, by any other party in any other proceeding.
+II. FINDINGS
+The Commission finds the following:
+
+A. SUMMARY
+
+As set forth below, in or around October 2018 and during the period April 2019 to
+August 2019, OANDA failed at times to meet certain financial requirements applicable to futures
+commission merchants (âFCMsââ) offering or engaging in retail foreign currency transactions
+and/or retail foreign exchange dealers (âRFEDsââ): (1) OANDA failed to meet minimum capital
+requirements from April 26, 2019 to August 21, 2019 and (2) OANDA made dividend payments
+on October 15, 2018, April 26, 2019, and May 28, 2019 in violation of the equity withdrawal
+restriction. In addition, OANDA violated certain reporting requirements related to its violations
+of these financial requirements. The Commissionâs Division of Enforcement has found no
+indication that customers suffered any losses as a result of OANDAâs net capital and equity
+withdrawal restriction violations. OANDA did not maintain adequate internal controls with
+respect to these financial and reporting requirements; consequently, the firm failed to diligently
+supervise these matters related to its business as a Commission registrant.
+
+In accepting OANDAâs offer of settlement, the Commission recognizes OANDAâs
+cooperation in the investigation of this matter.
+
+B. RESPONDENT
+
+OANDA Corporation is a registered FCM and RFED headquartered in Toronto,
+Canada. OANDA acts as counterparty to customer accounts trading foreign currency (âforexââ)
+and provides its customers an electronic trading platform through which its customers enter into
+forex trades. OANDA has been a registered with the Commission as an FCM since 2003 and
+as an RFED since October 2010.
+
+C. FACTS
+1. Background
+
+As an FCM offering or engaging in retail forex transactions and RFED, OANDA is
+subject to Parts 1, 5, and 166 of the Regulations, 17 C.F.R. pts. 1, 5, 166 (2019). Pursuant to Part
+5 of the Regulations, OANDA is required to maintain, at all times, adjusted net capital of the
+greater of $20 million plus five percent of its total retail forex obligation in excess of $10 million
+or any amount required by Regulation 1.17. Regulation 5.7(a)(1)G)(B) and (a)(3), 17 C.F.R.
+
+Â§ 5.7(a)G)(B), (a)(3) (2019). OANDA is required to provide telephonic notice, to be confirmed
+in writing, immediately when it knows, or should know, of a capital deficiency and to provide
+written notice within 24 hours of the firmâs breach of early warning levels. Regulation 5.6(a)
+and (b), 17 C.F.R. Â§ 5.6(a), (b) (2019).
+
+In addition, Regulation 1.17(e)(1) requires OANDA to maintain 120% of required
+adjusted net capital immediately following any withdrawal of equity capital, and Regulation
+5.6(f) requires OANDA to notify the Commission within two business days after an equity
+withdrawal that causes adjusted net capital to be reduced by 20% or more from the amount last
+reported in the firmâs Form 1-FR filed with the Commission, and to notify the Commission two
+business days prior to any equity withdrawal that would cause excess net capital to be reduced by
+30% or more from the previously reported amount. 17 C.F.R. Â§Â§ 1.17(e)(1), 5.6(f) (2019).
+
+2. Violations of Capital Requirements, Equity Withdrawal Restriction,
+Notice Requirements, and Duty to Diligently Supervise
+
+From April 2019 to August 2019, OANDA improperly included in its capital
+computation unsecured receivables accruing from over-the-counter forex transactions from an
+entity that was not one of the following: (1) a bank or trust company regulated by a U.S.
+banking regulator; (2) a broker dealer registered with the Securities and Exchange Commission
+and a member of the Financial Industry Regulatory Authority; (3) a Commission-registered FCM
+or RFED and National Futures Association (âNFAâ) member; (4) an entity regulated as a foreign
+equivalent of any of the foregoing; or (5) an entity approved by OANDAâs designated self-
+regulatory organization, i.e. NFA. Regulation 5.7(b)(2)ai1), 17 C.F.R. Â§ 5.7(b)(2) Gi) (2019).
+Because the unsecured receivables at issue here were not with a qualifying entity enumerated in
+Regulation 5.7(b)(2)(ii1), they should not have been included as current assets for purposes of
+OANDAâs capital calculation.
+
+During the relevant time period OANDA used a prime broker, Entity A, that was a
+qualifying entity under Regulation 5.7(b)(2)(i11), to execute the over-the-counter forex
+transactions at issue here. These transactions were given up (pursuant to a give-up arrangement)
+from Entity A to Entity B, a provisionally registered swap dealer with the Commission, which
+was not a qualified entity under Regulation 5.7(b)(2)(ii1). In addition, agreements between
+OANDA and Entity B required that the collateral in connection with these over-the-counter forex
+transactions be custodied by an affiliated FCM of Entity B (and therefore a qualified entity under
+Regulation 5.7(b)(2)(ii1)). However, because the unsecured receivables at issue here were from
+Entity Bânot from Entity A or Entity Bâs affiliate FCMâthe unsecured receivables were not
+permitted to be included in OANDAâs capital calculation.
+
+After excluding funds and positions held with the non-qualifying entity from OANDAâs
+capital calculation, OANDA was undercapitalized a total of 118 calendar days, from April 26 to
+August 21, 2019, with capital deficits ranging from approximately $30 million to almost $144
+million. Moreover, OANDA did not notify the Commission of the deficiencies until August 22
+and August 26, 2019, after the NFA brought the issue to the firmâs attention.
+
+On October 15, 2018, OANDA made a $37.5 million dividend payment as part of a
+distribution of excess cash to shareholders related to the acquisition of OANDA. The October
+15, 2018 dividend payment caused the firmâs adjusted net capital to fall below the firmâs equity
+withdrawal restriction level of 120% of its required adjusted net capital. In addition, the
+payment reduced the firmâs adjusted net capital by more than 45% and the firmâs excess net
+capital by more than 91% from the amounts previously reported in OANDAâs September 30,
+2018 Form 1-FR filed with the Commission. Regulation 5.6(f) requires notice to the
+Commission within two business days of a reduction in adjusted net capital of 20% or more and
+two business daysâ notice prior to a reduction in excess net capital of 30% or more. OANDA
+did not, however, provide notice until November 9, 2018, after being prompted by the NFA. In
+addition, the October 15, 2018 dividend payment, along with two additional dividend payments
+in October, caused OANDAâs adjusted net capital to fall below early warning levels as of
+October 31, 2018. However, the firm did not provide 24-hour notice as required under
+Regulation 5.7(b), but rather provided notice on November 28, 2018, after being notified by the
+CFTC about the early warning reporting requirement.
+
+In addition, at the ttme OANDA was undercapitalized, it paid dividends to its parent
+company in the amount of $11.25 million on April 26, 2019 and $3.5 million on May 28, 2019.
+Because these payments increased the extent to which the firm was already undercapitalized,
+OANDA violated the equity withdrawal restriction, and consequently, the dividend payments
+should not have been permitted to occur.
+
+The Commissionâs Division of Enforcement has found no indication that customers
+suffered any losses as a result of OANDAâs net capital and equity withdrawal restriction
+violations.
+
+As evidenced by the failures described above, OANDA failed to establish and maintain
+an adequate supervisory system. At the time of OANDAâs equity withdrawal violation in
+October 2018, OANDAâs procedures were not sufficient to prevent the firmâs violation of the
+equity withdrawal restriction and related notice requirements. In addition, the procedures in
+place at the time of OANDAâs 2019 net capital violations were not sufficient to prevent the
+violation of net capital and associated notice requirements. OANDA took steps to improve its
+policies and procedures after both the equity withdrawal violation of October 2018 and net
+capital violations from April to August 2019.
+
+3. Remedial Actions
+
+After OANDA was notified that it could not count toward its capital calculation
+unsecured receivables accruing from over-the-counter forex transactions from an entity not
+qualified under Regulation 5.7(b)(2)ai1), OANDA took steps the next calendar day to correct the
+violation by transferring funds and positions to qualifying entities under that rule. In addition, as
+noted above, OANDA has taken steps to improve its relevant policies and procedures.
+
+Hil. LEGAL DISCUSSION
+
+A. OANDA Failed to Comply with Financial and Related Reporting Requirements
+
+1. Failure to Comply with Minimum Capital
+Requirements and Related Notice Requirement
+
+As noted above, FCMs offering or engaging in retail forex transactions and RFEDs are
+required to maintain at all times adjusted net capital of the greater of at least $20 million plus
+five percent of their total retail forex obligations in excess of $10 million or any amount required
+by Regulation 1.17. Regulations 5.7(a)(1)G) and (a)(3), 17 C.F.R. 88 5.7(a)(D@), (a)(3) (2019).
+Regulation 5.7(b)(2)(ii1) further requires, among other things, that for purposes of calculating
+adjusted net capital, current assets may not include unsecured receivables accruing from over-
+the-counter forex-related transactions, unless the unsecured receivables are from an eligible
+contract participant that is among the regulated entities enumerated in that subsection, 1.e., a
+U.S.-regulated bank or trust company, a registered broker-dealer, a registered FCM, a registered
+RFED, a similar foreign-regulated entity, or an entity approved by the FCM/RFEDâs designated
+self-regulatory organization. 17 C.F.R. Â§5.7(b)(2)G@i) (2019).
+
+Regulation 5.6(a) requires FCMs that offer or engage in retail forex transactions and
+RFEDs to provide immediate telephonic notice, to be confirmed in writing, when the firm
+knows, or should know, of a capital deficiency. 17 C.F.R. Â§ 5.6(a) (2019). Regulation 5.6(b)
+further requires such firms to provide written notice within 24 hours of the firmâs breach of early
+warning levels. 17 C.F.R. Â§ 5.6(b) (2019).
+
+From April 26, 2019 to August 21, 2019, OANDA failed to meet minimum capital
+requirements because it counted towards its adjusted net capital unsecured receivables, in
+connection with certain over-the-counter foreign currency transactions, from an entity that was
+not one of the qualifying entities enumerated in Regulation 5.7(b)(2)a@i1). OANDA was
+undercapitalized a total of 118 calendar days, from April 26 to August 21, 2019, with capital
+deficits ranging from approximately $30 million to almost $144 million. Moreover, OANDA
+did not notify the Commission of the deficiencies immediately, as required by Regulation 5.6(a),
+but rather did not notify the Commission until August 22, 2019 and August 26, 2019, after the
+NFA brought the issue to the firmâs attention.
+
+2. Violation of Equity Withdrawal
+Restriction and Related Notice Requirements
+
+Regulation 1.17(e)(1) prohibits FCMs from withdrawing equity capital if, following the
+withdrawal, the FCMâs adjusted net capital would be less than 120% of its required adjusted net
+capital (1.e., the equity withdrawal restriction level). 17 C.F.R. Â§ 1.17(e)C1) (2019).
+
+Additionally, Regulation 5.6(f) requires FCMs offering or engaging in retail foreign currency
+and RFEDs to notify the Commission within two business days after an equity withdrawal causes
+the firmâs adjusted net capital to be reduced by 20% or more from the amount last reported in the
+firmâs Form 1-FR filed with the Commission, and to notify the Commission two business days
+prior to any equity withdrawal that would cause excess net capital to be reduced by 30% or more
+from the previously reported amount. 17 C.F.R. Â§ 5.6(f) (2019).
+
+The October 15, 2018 dividend payment caused OANDAâs adjusted net capital to fall
+below 120% of its required adjusted net capital. Consequently the firm should not have made
+that dividend payment. In addition, the October 15, 2018 payment reduced OANDAâs adjusted
+net capital by more than 20% from the amount previously reported on the firmâs Form 1-FR, and
+reduced the firmâs excess net capital by more than 30% from the amount previously reported.
+However, OANDA did not report the decline in excess net capital/adjusted net capital until
+November 9, 2018. In addition, the October 15, 2018 dividend payment, along with two other
+dividend payments in October 2018, caused the firmâs adjusted net capital to fall below early
+warning levels, but the firm did not provide notice to the CFTC until November 28, 2018, after
+
+5
+being notified by the CFTC about this reporting requirement. Because notice was provided more
+than 24 hours after breaching the early warning level, OANDA violated Regulation 5.7(b).
+
+Moreover, OANDA again violated the equity withdrawal restriction by paying dividends
+to its parent company in the amount of $11.25 million and $3.5 million on April 26, 2019 and
+May 28, 2019, respectively, while the firm was undercapitalized.
+
+B. Failure to Supervise
+
+Regulation 166.3, 17 C.F.R. Â§ 166.3 (2019), requires every Commission registrant to
+âdiligently supervise the handling by its partners, officers, employees and agents .. . of all
+commodity interest accounts carried, operated, advised, or introduced by the registrant and all
+other activities of its partners, officers, employees and agents . . . relating to its business as a
+Commission registrant.â A violation under Regulation 166.3 is an independent violation for
+which no underlying violation is necessary. See, e.g., In re Collins, CFTC No. 94-13, 1997 WL
+761927, at* 10 (Dec. 10, 1997) (âIt is well settled that a violation under Rule 166.3 is âan
+independent and primary violation for which no underlying violation is necessary.â (citation
+omitted)); In re GNP Commodities, Inc., CFTC No. 89-1, 1992 WL 201158, at *17 n.11 (Aug.
+11, 1992), affd sub nom. Monieson v. CFTC, 996 F 2d. 852 (7th Cir. 1993) (âRule 166.3
+establishes failure to supervise as an independent and primary violation ....â (citation
+omitted)).
+
+In order to prove a violation of Regulation 166.3, the Commission must demonstrate that
+either: (1) the registrantâs supervisory system was generally inadequate; or (2) the registrant
+failed to perform its supervisory duties diligently. GNP Commodities, Inc., 1992 WL 201158, at
+*19, The lack of an adequate supervisory system can be established by showing that the
+registrant failed to develop proper procedures for the detection of wrongdoing. CFTC v. Trinity
+Fin. Grp, Inc., No. 92-cv-6832, 1997 WL 820970, at *29 (S.D. Fla. Sept. 29, 1997), aff'd in part,
+vacated in part, and remanded sub nom. CFTC v. Sidoti, 178 F.3d 1132, 1137 (11th Cir. 1999).
+Where a supervisory system was in place, the issue is whether it was diligently administered. Jn
+re Paragon Futures Assân, CFTC No. 88-18, 1992 WL 74261, at *14 (Apr. 1, 1992) (â[T]he
+focus of any proceeding to determine whether Rule 166.3 has been violated will be on whether
+such review occurred and, if it did, whether it was âdiligent.ââ); Collins, 1997 WL 761927, at
+*10. Evidence of violations that âshould be detected by a diligent system of supervision, either
+because of the nature of the violations or because the violations have occurred repeatedlyâ is
+probative of a failure to supervise. In re Paragon Futures, 1992 WL 74261, at *14.
+
+With respect to compliance with minimum financial requirements and related reporting
+requirements, OANDA employed an inadequate supervisory system and failed to perform its
+supervisory duties diligently, in violation of Regulation 166.3. These supervisory failures
+prevented OANDA from complying with the equity withdrawal restriction and minimum capital
+requirements, and also prevented OANDA from providing required notice to the Commission
+regarding capital.
+IV. FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that OANDA violated Regulations
+1.17(e)(1), 5.6(a), (b), and (f), 5.7(a)(1)G) and (a)(3), and 166.3, 17 C.F.R. Â§Â§ 1.17(e)(1), 5.6(a),
+(b), @), 5.7(ayC)@), (a)(3), 166.3 (2019).
+
+V. OFFER OF SETTLEMENT
+
+OANDA has submitted the Offer in which it, without admitting or denying the findings
+and conclusions herein:
+
+A. Acknowledges service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C. Waives:
+
+1. The filing and service of a complaint and notice of hearing;
+
+2. A hearing;
+
+3. All post-hearing procedures;
+
+4. Judicial review by any court;
+
+5. Any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+6. Any and all claims that it may possess under the Equal Access to Justice Act, 5
+U.S.C. Â§ 504 (2018), and 28 U.S.C. Â§ 2412 (2018), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations, 17 C.F.R.
+pt. 148 (2019), relating to, or arising from, this proceeding;
+
+7. Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. IL, Â§Â§ 201-253, 110
+Stat. 847, 857-74 (codified as amended at 28 U.S.C. Â§ 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+8. Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order;
+
+D. Stipulates that the record basis on which this Order is entered shall consist solely of the
+
+findings contained in this Order to which OANDA has consented in the Offer;
+Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+1. Makes findings by the Commission that OANDA violated Regulations 1.17(e)(1),
+5.6(a), (b), and (f), 5.7(a)(1)G) and (a)(3), and 166.3, 17 C.F.R. Â§Â§ 1.17(e)(1),
+5.6(a), (b), (f), 5.7(a)1)G), (a)(3), 166.3 (2019);
+
+2. Orders OANDA to cease and desist from violating Regulations 1.17(e)(1), 5.6(a),
+(b), and (f), 5.7(a)(1)() and (a)(3), and 166.3;
+
+3. Orders OANDA to pay a civil monetary penalty in the amount of five hundred
+thousand dollars ($500,000), plus post-judgment interest; and
+
+4. Orders OANDA and its successors and assigns to comply with the conditions and
+undertakings consented to in the Offer and as set forth in Part VI of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+1.
+
+OANDA shall cease and desist from violating Regulations 1.17(e)(1), 5.6(a), (b), and (f),
+5.7(a)(1)G) and (a)(3), and 166.3, 17 C.F.R. Â§Â§ 1.17(e)(1), 5.6(a), (b), , 5.7(a)(1)G),
+(a)(3), 166.3 (2019).
+
+OANDA shall pay a civil monetary penalty in the amount of five hundred thousand
+dollars ($500,000) (âCMP Obligationââ). If the CMP Obligation is not paid immediately,
+then post-judgment interest shall accrue on the CMP Obligation beginning on the date of
+entry of this Order and shall be determined by using the Treasury Bill rate prevailing on
+the date of entry of this Order pursuant to 28 U.S.C. Â§ 1961 (2018).
+
+OANDA shall pay the CMP Obligation and any post-judgment interest by electronic
+funds transfer, U.S. postal money order, certified check, bank cashierâs check, or bank
+money order. If payment is to be made other than by electronic funds transfer, then the
+payment shall be made payable to the Commodity Futures Trading Commission and sent
+to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+
+9-AMC-AR-CFTC @ faa. gov
+If payment is to be made by electronic funds transfer, OANDA shall contact Marie
+Thorne or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. OANDA shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying OANDA and the name and docket
+number of this proceeding. The paying OANDA shall simultaneously transmit copies of
+the cover letter and the form of payment to the Chief Financial Officer, Commodity
+Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581 and Manal Sultan, Deputy Director, Division of Enforcement,
+Commodity Futures Trading Commission, 140 Broadway, 19" Floor, New York, NY
+10005.
+
+OANDA and its successors and assigns shall comply with the following conditions and
+undertakings set forth in the Offer:
+
+1. Representations and Undertakings: In its Offer, OANDA represents to the
+Commission that it has adopted enhanced written compliance procedures
+regarding future compliance with Regulations 1.17(e)(1), 5.6(a), (b), and (f), and
+5.7(a)(1)@) and (a)(3), 17 C.F.R. Â§Â§ 1.17(e)(1), 5.6(a), (b), (), 5.7(a)C)G), (a3)
+(2019). OANDA undertakes to adopt internal controls that are reasonably
+designed to ensure that its agents and employees under its authority and control
+comply fully with those enhanced compliance procedures.
+
+ 
+
+2. Public Statements: OANDA agrees that neither it nor any of its successors and
+assigns, agents or employees under its authority or control shall take any action or
+make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect OANDAâs: (1) testimonial obligations; or (11) right to take legal
+positions in other proceedings to which the Commission is not a party. OANDA
+and its successors and assigns shall comply with this agreement, and shall
+undertake all steps necessary to ensure that all of its agents and/or employees
+under its authority or control understand and comply with this agreement.
+
+3. Cooperation: OANDA shall cooperate fully and expeditiously with the
+Commission, including the Commissionâs Division of Enforcement, in this action,
+and in any current or future Commission investigation or action related thereto.
+OANDA shall also cooperate in any investigation, civil litigation, or
+administrative matter related to, or arising from, this action.
+
+4. Partial Satisfaction: OANDA understands and agrees that any acceptance by the
+Commission of any partial payment of OANDAâs Restitution Obligation,
+Disgorgement Obligation, or CMP Obligation shall not be deemed a waiver of its
+obligation to make further payments pursuant to this Order, or a waiver of the
+Commissionâs right to seek to compel payment of any remaining balance.
+
+ 
+5. Change of Address/Phone: Until such time as OANDA satisfies in full its CMP
+Obligation as set forth in this Order, OANDA shall provide written notice to the
+Commission by certified mail of any change to its telephone number and mailing
+address within ten calendar days of the change.
+
+ 
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+Fitd We $to
+
+Robert N. Sidman
+Deputy Secretary of the Commission
+Commodity Futures Trading Commission
+
+ 
+
+Dated: August 21, 2020
+
+10

@@ -1,0 +1,811 @@
+USAO02016R00596/CAH/NPG/DAL F | LL E D
+
+4
+UNITED STATES DISTRICT COURT FEB I Z 2013
+AT 8:30, AOL M
+DISTRICT OF NEW JERSEY sacle tara
+CLERK Dixâ
+UNITED STATES OF AMERICA : Hon.
+
+: Criminal No. 19- | ZÂ© (cy
+
+v.  18USC. Â§ 371
+: 15 U.S.C. Â§ 78dd-1
+15 U.S.C. Â§Â§ 78m(b)(2)(A), 78m(b)(2)(B}
+
+GORDON J. COBURN and : 78m(b)(5), 78ffla), 78fÂ£(c)(2)(A)
+STEVEN SCHWARTZ : 18 U.S.C. Â§ 2
+INDICTMENT
+
+The Grand Jury in and for the District of New Jersey, sitting at
+
+Newark, charges:
+
+COUNT ONE
+(Conspiracy to Violate the Foreign Corrupt Practices Act)
+
+Relevant Individuals and Entities
+i. At all times relevant to this Indictment:
+a. Cognizant Technology Solutions Corporation
+(âCognizantâ) was an international corporation providing information
+technology and consulting services. Cognizant was headquartered in Teaneck,
+New Jersey, and incorporated in Delaware. Cognizant had more than 250,000
+employees globally, more than half of whom worked in various locations in
+India, including in and around the Indian state of Tamil Nadu. Cognizantâs
+shares were registered with the U.S. Securities and Exchange Commission
+(âSECâ) pursuant to Section 12(b) of the Securities Exchange Act of 1934, and
+
+the company was required to file periodic reports with the SEC under Section
+13 of the Securities Exchange Act. Accordingly, Cognizant was an âissuerâ
+within the meaning of the Foreign Corrupt Practices Act (âFCPAâ), Title 15,
+United States Code, Section 78dd-1(a).
+
+b. Cognizant Technology Solutions India Private Limited
+(âCognizant Indiaâ) was a wholly owned subsidiary of Cognizant. Cognizant
+India and its employees were âagentsâ of an issuer within the meaning of the
+FCPA, Title 15, United States Code, Section 78dd-1(a). Cognizant and
+Cognizant India are hereinafter referred to collectively as âCognizant.â
+
+c. Defendant GORDON J. COBURN (âCOBURNâ) was the
+President of Cognizant. Between in or about January 2007 and in or about
+February 2012, COBURN served as Cognizantâs Chief Financial and Operating
+Officer. As part of his responsibilities, COBURN oversaw Cognizantâs
+acquisition and development of property in India, where Cognizant had
+substantial operations. COBURN was a United States citizen and an officer,
+employee, agent, and stockholder of an issuer within the meaning of the FCPA.
+
+d. Defendant STEVEN SCHWARTZ (âSCHWARTZâ) was
+the Executive Vice President, Chief Legal and Corporate Affairs Officer of
+Cognizant. SCHWARTZ was responsible for managing Cognizantâs global legal,
+government affairs, and security teams. SCHWARTZ also was responsible for
+overseeing and managing Cognizantâs compliance functions. SCHWARTZ was a
+United States citizen and an officer, employee, agent, and stockholder of an
+
+issuer within the meaning of the FCPA.
+Ã©. The âConstruction Companyâ was a large engineering
+and construction firm with an office in Chennai, India.
+
+a âCC#1,â a co-conspirator not charged as a defendant
+herein, resided in India and was the Vice President of Administration at
+Cognizant. CC#1 was responsible for managing infrastructure and real estate
+development on behalf of Cognizant in India. CC#1 reported to CC#2 and, in
+many instances, directly to COBURN.
+
+g. âCC#2,â a co-conspirator not charged as a defendant
+herein, resided in India and was Cognizantâs Chief Operating Officer. CC#2
+had direct oversight over CC#1 and reported directly to COBURN.
+
+h. âCC#3,â a co-conspirator not charged as a defendant
+herein, resided in India and was the Department Head for Commercial
+Buildings at the Construction Company.
+
+Overview of the Bribery Scheme
+
+ 
+
+2. Between in or about January 2014 and in or about January
+2016, COBURN, SCHWARTZ, and others engaged in a scheme to bribe one or
+more government officials in India to secure and obtain a planning permit (the
+âPlanning Permitâ) necessary for construction of an office campus in the state
+of Tamil Nadu that would support approximately 17,000 Cognizant employees
+and become one of Cognizantâs largest facilities in India (the âKITS Campusâ).
+The Indian government officials were âforeign officialsâ within the meaning of
+
+the FCPA, Title 15, United States Code, Section 78dd-1(f)(1).
+3. In or about April 2014, COBURN and SCHWARTZ authorized
+an unlawful payment of approximately $2 million to one or more foreign
+government officials in India to secure and obtain the Planning Permit, which
+was discretionary and non-routine. To conceal Cognizantâs involvement in the
+scheme, COBURN, SCHWARTZ, CC#1, CC#2, and others agreed that the
+Construction Company would obtain the Planning Permit by making the illegal
+bribe payment and that Cognizant would reimburse the Construction Company
+through construction invoices at the end of the KITS Campus project.
+
+4. In or about late June 2014, after the co-conspirators had
+agreed that the Construction Company would make the bribe payment on
+behalf of Cognizant, the Construction Company secured the necessary
+government order (the âGovernment Orderâ) for Cognizant to obtain the
+Planning Permit, allowing Cognizant to complete the development of the KITS
+Campus and avoid millions of dollars in costs. Months later, the co-
+conspirators caused Cognizant to funnel over $2 million to the Construction
+Company, disguised as payment for cost overruns on the KITS Campus, when
+they knew that the actual purpose of the payment was to reimburse the
+Construction Company for the bribe payment. As COBURN, SCHWARTZ and
+others had previously agreed, they hid the bribe reimbursement payment
+within a series of line items in a construction change order request to be paid
+to the Construction Company, thereby concealing the true nature and purpose
+of the reimbursement, falsifying Cognizantâs books and records, and
+
+circumventing its internal controls.
+Background
+
+A. The Construction Company Begins Work on the KITS Campus
+
+5. In or about November 2011, Cognizant retained the
+Construction Company to develop the KITS Campus. Cognizantâs contract with
+the Construction Company provided that the Construction Company would
+obtain all statutory approvals and permits. The Construction Company was
+permitted at the end of the project to seek from Cognizant reimbursement for
+unanticipated costs associated with the agreed-upon scope of work through
+âvariation claimsâ or âchange order requests.â COBURN was responsible for
+approving Cognizantâs payment of such claims in excess of $500,000. CC#1
+oversaw development of the KITS Campus on behalf of Cognizant, served as
+one of Cognizantâs primary liaisons with the Construction Company, and
+provided regular updates to COBURN.
+
+6. The Planning Permit was a statutory approval that was
+required prior to the commencement of construction of the KITS Campus.
+Despite that requirement, it was common practice in India to apply for pre-
+construction statutory approvals, such as the Planning Permit, after
+construction began.
+
+7. On or about February 7, 2013, approximately fourteen
+months after beginning work on the KITS Campus, the Construction Company
+
+submitted an application and fee for the Planning Permit.
+B. Delays Prevent Cognizant from Obtaining the Planning Permit
+
+8. In or about November 2013, approximately eight months
+after the Construction Company submitted Cognizantâs Planning Permit
+application, a local development authority (the âDevelopment Authorityâ)
+conditionally approved and forwarded the application to a separate agency for
+consideration for the Government Order, a required step in obtaining the
+Planning Permit.
+
+9. By in or about mid-January 2014, the government agency
+had not yet issued the Government Order. As a result, the Construction
+Company proposed that members of Cognizantâs senior management meet with
+certain high-level officials of the Tamil Nadu government to assist with securing
+and obtaining the Planning Permit. Cognizant declined to meet with Tamil
+Nadu officials concerning the Planning Permit application, maintaining instead
+that it was the Construction Companyâs responsibility to secure the necessary
+approvals.
+
+10. By in or about early March 2014, COBURN became aware
+that the Construction Company had not obtained the Planning Permit due to
+delays with the Government Order.
+
+Cc. COBURN and SCHWARTZ Authorize a Bribe Payment to Secure
+and Obtain the Planning Permit
+
+11. Inor about late April 2014, COBURN and SCHWARTZ
+authorized the payment of an approximately $2 million bribe to ensure that
+
+Cognizant would receive the Planning Permit for the KITS Campus.
+12. On or about April 21, 2014 and April 22, 2014, COBURN
+and SCHWARTZ participated in two video conference calls with CC#1 and
+CC#2. During the calls, CC#1 advised that the Construction Company had
+received a bribe demand for approximately $2 million from one or more
+government officials in India in connection with the Planning Permit
+application for the KITS Campus.
+
+13. COBURN, SCHWARTZ, CC#1, and CC#2 agreed during these
+calls that the Construction Company would pay the bribe, and that Cognizant
+would reimburse the Construction Company for the bribe payment. At CC#1âs
+suggestion, COBURN, SCHWARTZ, CC#1 and CC#2 agreed that Cognizant
+would reimburse the Construction Company for the bribe payment through a
+change order request at the end of the project. SCHWARTZ agreed that CC#1âs
+suggested approach was acceptable, but cautioned that the reimbursement
+payment should not stand out in the change order request.
+
+14. To increase the pressure on the Construction Company to
+obtain the Planning Permit and to pay the bribe, COBURN directed CC#1 to
+freeze and withhold all future payments to the Construction Company until it
+had obtained all necessary permits for the KITS Campus and to notify the
+Construction Company that its future business with Cognizant was in
+jeopardy.
+
+15. After receiving authorization for the bribe from COBURN and
+SCHWARTZ, CC#1 advised the Construction Company that Cognizant would
+
+withhold all future payments to the Construction Company until it secured the
+necessary approvals, including the Planning Permit, for the KITS Campus. The
+co-conspirators understood that the bribe demand had to be paid for Cognizant
+to receive the Planning Permit. Several weeks later, the Construction Company
+advised CC#1 that it would take the necessary steps to secure and obtain the
+Planning Permit, and that it had hired a special third-party consultant to make
+the bribe payment.
+
+16. On or about May 17, 2014, CC#3 emailed CC#1, writing: âAs
+committed, we are going ahead with approval part (not to inform your site team
+& others, except your top management if required so).â CC#3 also noted that
+Cognizant had approximately $17 million in outstanding bills and asked for
+CC#1âs assistance in getting Cognizant to pay those bills. CC#1 forwarded that
+email to, among others, COBURN and CC#2. CC#1âs email stated that
+Cognizant had âsome positive tractionâ on the KITS Campus âapproval processâ
+and that the Construction Company was âmoving full swing on the process.â
+CC#1 also wrote that the Construction Company had âappointed a new liaison
+consultant to process the approvalâ and that the Construction Company âwas
+confident [Cognizant] will receive approval by this month end/early June.â
+CC#1 noted that âthe freeze on payment is hurting them very badly.â CC#1âs
+email also stated that the total âon holdâ payments were approximately $17
+million and that CC#1 believed that it was a âgood idea to release payment.â
+COBURN responded, via email, âSuggest you pay 7mm and hold the balance
+
+10m until they deliver.â
+17. A few weeks later, COBURN sought an update on the
+Planning Permit, but COBURN instructed the co-conspirators not to discuss
+the matter over email. Thus, on or about June 16, 2014, CC#2 sent CC#1 an
+email that read, â[COBURN] wanted an update on the [KITS Campus] approval
+(no mails he said).â
+
+D. Cognizant Obtains the Planning Permit
+
+18. On or about June 30, 2014, CC#3 emailed a scanned copy of
+the Government Order to CC#1 and others, writing: âAs discussed, nobody
+should know that [the Construction Company] has got this [Government
+Order.] Request to maintain this confidentiality.â Later that day, CC#1 sent
+the scanned Government Order, without CC#3âs note, to several Cognizant
+executives, including COBURN, SCHWARTZ, and CC#2. In the email, CC#1
+wrote, âWe will now start firm planning for occupation. Thanks to [the
+Construction Company] for support.â
+
+19. Later that day, CC#1 asked COBURN to unfreeze the
+remaining $10 million owed to the Construction Company. COBURN
+instructed CC#1, via email, to âpay $5mm of the $10mmâ but to âhold the other
+$5mm until all approvals are finalized and received.â
+
+20. Onor about November 5, 2014, the Development Authority
+issued the Planning Permit to Cognizant. Five days later, on or about
+November 10, 2014, CC#1 emailed COBURN, copying CC#2 and others, stating
+
+that the Development Authority had issued the Planning Permit and
+recommending that Cognizant release the remaining funds that Cognizant had
+previously frozen. Two days later, COBURN responded, via email, âOK.â
+
+21. By obtaining the Planning Permit, Cognizant was able to
+complete construction of the KITS Campus, resulting in a significant business
+advantage that allowed the company to avoid costly delays and related
+expenses, including expenses associated with supporting thousands of India-
+based employees in different facilities.
+
+E. Cognizant Reimburses the Construction Company for the
+Bribe Payment
+
+22. Inor about late 2014, as the KITS Campus project neared
+completion, the Construction Company began submitting change order
+requests to Cognizant for reimbursement of unanticipated construction costs.
+Specifically, the Construction Company submitted a list of approximately forty-
+five claims totaling approximately $25 million.
+
+23. Consistent with the plan agreed to by COBURN, SCHWARTZ,
+CC#1 and CC#2 in April 2014, the Construction Company included in its
+claims list an approximately $3.7 million claim for âapprovals/campus
+regularization,â which included an approximately $2.5 million request for
+âstatutory approvals â planning permit.â This request corresponded to the
+amount the Construction Company demanded as reimbursement for the
+approximately $2 million bribe payment and related expenses.
+
+24. To disguise the reimbursement for the approximately $2
+million bribe payment, CC#1 instructed a co-conspirator who was a member of
+
+Cognizantâs real estate group to create a fake version of the claims list â one
+
+10
+that replaced the $3.7 million âapprovals/campus regularizationâ request with
+eleven previously-rejected claims worth roughly the same amount. This
+substitution ensured that the Construction Company was made whole for the
+bribe payment without having to document the true purpose of the
+reimbursement.
+
+25. Based on their communications with their co-conspirators,
+COBURN and SCHWARTZ knew that the reimbursement for the bribe would be
+and was included in the amount Cognizant agreed to pay the Construction
+Company, and that the co-conspirators would and did falsify the change order
+documents to conceal the payment. COBURN thereafter approved the
+reimbursement to the Construction Company based on the false change order
+request.
+
+26. Based on COBURNâs approval, between in or around March
+2015 and in or around January 2016, Cognizant issued several separate
+payments to the Construction Company to cover the cost of the Construction
+Companyâs change order requests, including approximately $2.5 million for the
+
+bribe reimbursement and related expenses.
+
+11
+The Conspiracy
+
+27. From in or about January 2014 through in or about January
+
+2016, in the District of New Jersey and elsewhere, the defendants,
+GORDON J. COBURN
+and
+STEVEN SCHWARTZ,
+
+did knowingly and willfully conspire and agree with others to commit offenses
+against the United States, namely:
+
+(a) being an officer, director, employee, and agent of an issuer, and
+a stockholder thereof acting on behalf of such issuer, to willfully make use of
+the mails and means and instrumentalities of interstate commerce corruptly in
+furtherance of an offer, payment, promise to pay, and authorization of the
+payment of any money, offer, gift, promise to give, and authorization of the
+giving of anything of value to a foreign official and to a person, while knowing
+that all or a portion of such money and thing of value would be and had been
+offered, given, and promised to a foreign official, for purposes of: (i) influencing
+acts and decisions of such foreign official in his or her official capacity; (ii)
+inducing such foreign official to do and omit to do acts in violation of the lawful
+duty of such official; (iii) securing an improper advantage; and (iv) inducing
+such foreign official to use his or her influence with a foreign government and
+agencies and instrumentalities thereof to affect and influence acts and
+decisions of such government and agencies and instrumentalities, in order to
+assist Cognizant in obtaining and retaining business, for and with, and
+
+directing business to, Cognizant and others, to wit: COBURN and SCHWARTZ
+
+i
+authorized Cognizant and its agents to pay and cause to be paid an
+approximately $2 million bribe to any person, while knowing that all or a
+portion of such money or thing of value will be offered, given, or promised,
+directly or indirectly, to any foreign official to secure and obtain a planning
+permit required for Cognizant to construct a large office campus in India,
+contrary to Title 15, United States Code, Sections 78dd-1 and 78ff(c)(2)(A);
+
+(b) to knowingly and willfully, directly and indirectly, falsify and
+cause to be falsified books, records, and accounts required to, in reasonable
+detail, accurately and fairly reflect the transactions and dispositions of the
+assets of Cognizant, an issuer organized under the laws of the United States,
+and its assets, contrary to Title 15, United States Code, Sections 78m(b)(2)(A),
+78m(b)(5), and 78ff(a); and
+
+(c) to knowingly and willfully, directly and indirectly, circumvent
+and cause to be circumvented, and fail to implement, a system of internal
+accounting controls at Cognizant sufficient to provide reasonable assurances
+that: (i) transactions were executed in accordance with managementâs general
+or specific authorization; (ii) transactions were recorded as necessary to (A)
+permit preparation of financial statements in conformity with generally
+accepted accounting principles or any other criteria applicable to such
+statements, and (B) maintain accountability for assets; (ili) access to assets was
+permitted only in accordance with managementâs general or specific
+
+authorization; and (iv) the recorded accountability for assets was compared
+
+with the existing assets at reasonable intervals, and appropriate action was
+
+13
+taken with respect to any differences, contrary to Title 15, United States Code,
+Sections 78m(b)(2)(B), 78m(b)(5), and 78ff(a).
+
+Goal of the Conspiracy
+
+ 
+
+28. The goal of the conspiracy was for COBURN, SCHWARTZ,
+and their co-conspirators to illegally benefit Cognizant and themselves by
+improperly securing and obtaining a required planning permit for the KITS
+Campus by bribing one or more government officials in India; falsely recording
+payments relating to the bribe on Cognizantâs books, records, and accounts;
+and circumventing and failing to implement Cognizantâs internal accounting
+controls.
+
+Manner and Means of the Conspiracy
+
+ 
+
+29. It was part of the conspiracy that:
+
+a. COBURN, SCHWARTZ, CC#1, CC#2, and others
+agreed to reimburse the Construction Company for the payment of an
+approximately $2 million bribe to one or more government officials in India to
+ensure that Cognizant would obtain the Planning Permit necessary to develop
+the KITS Campus.
+
+b. COBURN, SCHWARTZ, CC#1, CC#2, and others
+agreed that Cognizant would reimburse the Construction Company for the
+bribe payment through construction invoices, or change orders, at the end of
+the KITS Campus project.
+
+C. After the co-conspirators agreed that the Construction
+
+Company would make the bribe payment on behalf of Cognizant, the
+
+14
+Construction Company obtained the Government Order, a necessary step in
+securing the Planning Permit, and sent a copy of it to Cognizant.
+
+d. The Construction Company sought reimbursement
+from Cognizant for the bribe payment through a change order request.
+
+Ã©. CC#1 and others acting at CC#1âs direction altered the
+Construction Companyâs change order request to conceal the bribe payment
+reimbursement.
+
+f. Based on the agreement with SCHWARTZ and others
+during the April 2014 calls referenced above, COBURN approved the final
+change order request and authorized Cognizant to pay the Construction
+Company approximately $2.5 million as reimbursement for the bribe payment
+and related expenses.
+
+g. To conceal Cognizantâs reimbursement for the bribe
+payment, COBURN, SCHWARTZ, and others, falsified and caused to be falsified
+Cognizantâs books, records, and accounts. For example:
+
+1. COBURN, SCHWARTZ, and others approved and
+caused the approval of false change order requests and related approvals in
+connection with the KITS Campus.
+
+il. COBURN, SCHWARTZ, and others, in
+connection with the preparation of Cognizantâs SEC filings, made and caused
+to be made false, fraudulent, and misleading representations and omissions in
+Sarbanes-Oxley Quarterly Global 302 Certifications for the quarter ending
+
+June 30, 2014 and the quarter ending March 31, 2015, including, but not
+
+15
+limited to, falsely certifying that Cognizantâs internal controls had been in force
+and effective, and that they had disclosed to Cognizantâs Chief Executive Officer
+and Chief Financial Officer all known deficiencies in the operation of the
+internal controls and any known fraud involving management or other
+employees who had a significant role in Cognizantâs internal controls.
+
+ili. COBURN, SCHWARTZ, and others, in
+connection with the preparation of Cognizantâs filing of its annual report with
+the SEC, made and caused to be made false, fraudulent, and misleading
+representations and omissions in Annual Report on Form 10-K and Proxy
+Statement Disclosure Questionnaires for the year ended December 31, 2014
+and the year ended December 31, 2015, including, but not limited to, providing
+false answers to questions relating to: bribes or kickbacks; disguised or
+intentionally misrecorded entries in Cognizantâs books and records; and
+transactions that may have violated Cognizantâs Code of Conduct.
+
+h. To conceal Cognizantâs reimbursement for the bribe
+payment, COBURN, SCHWARTZ, and others, circumvented and caused others
+to circumvent, and failed to implement, Cognizantâs system of internal
+accounting controls, including, but not limited to, controls relating to
+payments and approvals for accounts payable, and controls relating to
+Cognizantâs SEC filings, such as Sarbanes-Oxley Quarterly Global 302
+Certifications and Annual Report on Form 10-K and Proxy Statement
+
+Disclosure Questionnaires.
+
+16
+Overt Acts
+30. In furtherance of the conspiracy and to achieve the unlawful
+
+objects thereof, at least one of the co-conspirators committed and caused to be
+committed, in the District of New Jersey and elsewhere, at least one of the
+following overt acts, among others:
+
+a. On or about April 21, 2014, COBURN, SCHWARTZ,
+CC#1, and CC#2 participated in a video conference call relating to the illegal
+agreement to pay a bribe to one or more foreign government officials in India.
+
+b. On or about April 22, 2014, COBURN, SCHWARTZ,
+CC#1, and CC#2 participated in a video conference call relating to the illegal
+agreement to pay a bribe to one or more foreign government officials in India.
+
+â¬, On or about April 22, 2014, COBURN directed CC#1 to
+advise the Construction Company that Cognizant would withhold future
+payments to the Construction Company until the Construction Company
+secured all necessary government permits and approvals for the KITS Campus.
+
+d. On or about June 30, 2014, CC#1 sent an email to
+COBURN, SCHWARTZ, CC#2, and others attaching the Government Order the
+Construction Company had obtained.
+
+e, On or about January 13, 2015, CC#1 sent an email to
+COBURN and others that included a chart summarizing the Construction
+Companyâs pending change order requests. The chart contained a line item for
+
+statutory approvals.
+
+17
+f. On or about on February 3, 2015, COBURN responded
+to CC#1âs January 13, 2015 email referenced in Paragraph 30(e), âApproved.â
+
+g. On or about March 13, 2015, COBURN sent an email
+to a member of Cognizantâs finance unit authorizing a payment to the
+Construction Company that included reimbursement for the $2 million bribe
+that the co-conspirators agreed the Construction Company would pay on
+Cognizantâs behalf.
+
+All in violation of Title 18, United States Code, Section 371.
+
+18
+COUNTS TWO THROUGH FOUR
+(Foreign Corrupt Practices Act)
+
+ 
+
+1. Paragraphs 1 through 26 and 28 through 30 of Count One of
+this Indictment are realleged and incorporated by reference as if fully set forth
+herein.
+
+De On or about the dates set forth below, in the District of New
+Jersey and elsewhere, the defendants,
+
+GORDON J. COBURN
+
+and
+
+STEVEN SCHWARTZ,
+each being an officer, director, employee, and agent of an issuer, and a
+stockholder thereof acting on behalf of such issuer, did willfully use the mails
+and means and instrumentalities of interstate commerce corruptly in
+furtherance of an offer, payment, promise to pay, and authorization of the
+payment of money, offer, gift, promise to give, and authorization of the giving of
+anything of value to a foreign official, and to a person, while knowing that all or
+a portion of such money and thing of value would be and had been offered,
+given, and promised to a foreign official, for purposes of: (i) influencing acts
+and decisions of such foreign official in his or her official capacity; (ii) inducing
+such foreign official to do and omit to do acts in violation of the lawful duty of
+such official; (iii) securing an improper advantage; and (iv) inducing such
+foreign official to use his or her influence with a foreign government and
+agencies and instrumentalities thereof to affect and influence acts and
+
+decisions of such government and agencies and instrumentalities, in order to
+
+assist Cognizant in obtaining and retaining business, for and with, and
+
+19
+directing business to, Cognizant and others, to wit: COBURN and SCHWARTZ
+
+authorized Cognizant to pay and cause to be paid an approximately $2 million
+
+bribe to any person, while knowing that all or a portion of such money or thing
+
+of value will be offered, given, or promised, directly or indirectly, to any foreign
+
+official to secure and obtain a planning permit required for Cognizant to
+
+construct a large office campus in India, as follows:
+
+ 
+
+ 
+
+MEANS AND INSTRUMENTALITIES OF
+INTERSTATE AND INTERNATIONAL COMMERCE
+
+ 
+
+ 
+
+COBURN email to SCHWARTZ, CC#1, and CC#2
+requesting a call the next morning to follow up from
+their discussion in their April 21, 2014 call.
+
+ 
+
+COBURN email to CC#1 and others instructing
+CC#1 to continue to freeze certain payments to the
+Construction Company.
+
+ 
+
+ 
+
+ 
+
+COUNT | APPROXIMATE
+DATE
+Two April 21, 2014
+Three May 20, 2014
+Four March 13, 2015
+
+ 
+
+COBURN email to CC#1 and others authorizing
+Cognizant to pay the Construction Company for
+certain false change order requests in connection
+with the KITS Campus.
+
+ 
+
+In violation of Title 15, United States Code, Sections 78dd-1 and
+
+78ff(c)(2)(A), and Title 18, United States Code, Section 2.
+
+20
+
+ 
+|
+
+COUNTS FIVE THROUGH ELEVEN
+(False Books and Records)
+
+ 
+
+Ls Paragraphs 1 through 26 and 28 through 30 of Count One of
+this Indictment are realleged and incorporated by reference as if fully set forth
+herein.
+
+Ze On or about the dates set forth below, in the District of New
+Jersey and elsewhere, the defendants,
+
+GORDON J. COBURN
+and
+STEVEN SCHWARTZ,
+knowingly and willfully, directly and indirectly, falsified and caused to be
+falsified books, records, and accounts required to, in reasonable detail,
+accurately and fairly reflect the transactions and dispositions of the assets of
+
+Cognizant, an issuer of securities registered pursuant to the Securities
+
+Exchange Act of 1934, as set forth below:
+
+21
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COUNT APPROXIMATE | DEFENDANT FALSIFIED RECORD
+: DATE
+Five March 11, 2015 | COBURN Spreadsheet and related approvals
+containing and incorporating false
+change order requests in connection
+with the KITS Campus.
+Six July 24, 2014 | COBURN Sarbanes-Oxley Quarterly Global 302
+Certification for the Quarter Ended June
+30, 2014.
+Seven August 1, 2014 | SCHWARTZ Sarbanes-Oxley Quarterly Global 302
+Certification for the Quarter Ended June
+30, 2014.
+Eight April 21,2015 | COBURN Sarbanes-Oxley Quarterly Global 302
+Certification for the Quarter Ended
+March 31, 2015.
+Nine February 2, 2015 | SCHWARTZ Annual Report on Form 10-K and Proxy
+Statement Disclosure Questionnaire for
+the Year Ended December 31, 2014.
+Ten February 9, 2015 | COBURN Annual Report on Form 10-K and Proxy
+Statement Disclosure Questionnaire for
+the Year Ended December 31, 2014.
+Eleven February 6, 2016 | COBURN Annual Report on Form 10-K and Proxy
+
+ 
+
+ 
+
+ 
+
+Statement Disclosure Questionnaire for
+the Year Ended December 31, 2015.
+
+ 
+
+In violation of Title 15, United States Code, Sections 78m(b)(2)(A),
+
+78m(b)(5), and 78ff(a), and Title 18, United States Code, Section 2.
+
+22
+
+ 
+COUNT TWELVE
+(Circumvention of Required Internal Accounting Controls)
+
+1. Paragraphs 1 through 26 and 28 through 30 of Count One of
+this Indictment are realleged and incorporated by reference as if fully set forth
+herein.
+
+as From in or about January 2014 through in or about January
+2016, in the District of New Jersey and elsewhere, the defendants,
+
+GORDON J. COBURN
+
+and
+
+STEVEN SCHWARTZ,
+knowingly and willfully, directly and indirectly, circumvented and caused to be
+circumvented, and failed to implement, a system of internal accounting
+controls of Cognizant, an issuer organized under the laws of the United States,
+sufficient to provide reasonable assurances that (i) transactions are executed in
+accordance with managementâs general or specific authorization; (ii)
+transactions are recorded as necessary (I) to permit preparation of financial
+statements in conformity with generally accepted accounting principles or any
+other criteria applicable to such statements, and (II) to maintain accountability
+for assets; (iii) access to assets is permitted only in accordance with
+managementâs general or specific authorization; and (iv) the recorded
+accountability for assets is compared with the existing assets at reasonable
+intervals and appropriate action is taken with respect to any differences; to wit,
+COBURN and SCHWARTZ circumvented and caused to be circumvented, and
+
+failed to implement, Cognizantâs system of internal accounting controls,
+
+including, but not limited to, controls relating to payments and approvals for
+
+23
+accounts payable, and controls relating to Cognizantâs SEC filings, such as
+Sarbanes-Oxley Quarterly Global 302 Certifications and Annual Report on
+Form 10-K and Proxy Statement Disclosure Questionnaires.
+
+In violation of Title 15, United States Code, Sections 78m(b)(2)(B),
+
+78m(b)(5), and 78ff(a), and Title 18, United States Code, Section 2.
+
+A TRUE BILL
+
+Grand Jury Foreperson
+
+ 
+
+ 
+
+ 
+
+ty
+CRAIG CARPENITD ROBERT ZINK
+UNITED STATES ATTORNEY ACTING CHIEF
+
+FRAUD SECTION
+CRIMINAL DIVISION
+
+24
+CASE NUMBER: 19-
+
+ 
+
+ 
+
+United States District Court
+District of New Jersey
+
+ 
+
+ 
+
+UNITED STATES OF AMERICA
+Vv.
+
+GORDON J. COBURN and
+STEVEN SCHWARTZ
+
+ 
+
+ 
+
+INDICTMENT FOR
+
+18 U.S.C. Â§ 371
+15 U.S.C. Â§ 78dd-1
+
+15 U.S.C. Â§Â§ 78m(b)(2)(A), 78m(b)(2)(B), 78m(b)(5), 78ff[a), 78ff{(c)(2)(A)
+18 U.S.C. Â§ 2
+
+ 
+
+ 
+
+A True Bill,
+
+Foreperson
+
+ 
+
+ 
+
+CRAIG CARPENITO
+UNITED STATES ATTORNEY
+NEWARK, NEW JERSEY
+
+ 
+
+ 
+
+COURTNEY A. HOWARD
+NICHOLAS P. GRIPPO
+ASSISTANT U.S. ATTORNEYS
+DAVID LAST
+ASSISTANT CHIEF, FCPA UNIT
+
+ 
+
+ 

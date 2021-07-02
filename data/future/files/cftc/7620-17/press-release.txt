@@ -1,0 +1,45 @@
+Release Number 7620-17
+
+September 28, 2017
+
+CFTC Orders Connecticut-Based Tillage Commodities, LLC to Pay a $150,000 Civil
+Monetary Penalty for Supervision Failures
+
+Washington, DC - The Commodity Futures Trading Commission (CFTC) today issued an Order filing and simultaneously
+settling charges against Connecticut-based Tillage Commodities, LLC (Tillage), a Commodity Pool Operator (CPO), for
+failure to supervise its fund administratorâs operation of the commodity poolâs bank account containing pool participantsâ
+funds. Tillage has been registered as a CPO with the CFTC since 2013, with its principal office located in Stamford,
+Connecticut.
+
+The CFTC Order requires Tillage to pay a $150,000 civil monetary penalty and to cease and desist from further violations
+of the Commodity Exchange Act, as charged.
+
+Specifically, the Order finds that over the course of 21 days, from at least March 3, 2016 through March 24, 2016,
+Tillageâs fund administrator received seven fraudulent requests to transfer funds from the commodity poolâs bank
+account. These unauthorized transfers to two purported private technology companies in Hong Kong ranged in amount
+from $200,000 to $3 million. These requests were made by an unknown party who spoofed Tillageâs managing memberâs
+email address and sent requests that imitated, in some respects, Tillageâs typical transfer requests, the Order finds.
+Tillageâs fund administrator processed five of these requests, which resulted in a $5.9 million loss of pool participantsâ
+funds, or 64% of the poolâs total capital, according to the Order.
+
+Although only the fund administrator had the right to make withdrawals from the pool bank account, Tillage had no
+procedures in place to monitor the administratorâs operation of this account and no system in place to alert it when
+transactions cleared from the account, the Order states.
+
+During the period when the fraud occurred, the Order finds that Tillage only reviewed the pool bank accountâs balance
+once during the month to verify its calculation of the poolâs net asset value. Furthermore, while Tillage could review the
+activity in the account on the bankâs website, from January 7, 2016 to March 24, 2016, Tillage failed to do so.
+
+The inadequacy of Tillageâs supervision of its agent regarding wire transfers and the operation of the poolâs bank
+account, and the insufficiency of Tillageâs policies and systems, delayed detection of the ongoing fraud, the Order finds.
+
+The CFTC thanks the National Futures Association for its assistance in this matter.
+
+CFTC Division of Enforcement staff members responsible for this case are Lucy C. Hynes, Kyong J. Koh, Traci L. Rodriguez
+and Paul G. Hayeck.
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: October 2, 2017

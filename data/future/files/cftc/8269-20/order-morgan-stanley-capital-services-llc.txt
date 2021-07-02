@@ -1,0 +1,468 @@
+UNITED STATES OF AMERICA
+
+ 
+
+  
+   
+
+ 
+
+ 
+
+Before the
+COMMODITY FUTURES TRADING COMMISSION RECEIVED CRTC
+) Office of Proceedings
+In the Matter of: ) Proceedings Clerk
+Morgan Stanley Capital Services LLC ) 3:28 pm, Sep 30, 2020
+)
+) CFTC Docket No. 20-78
+Respondent. )
+)
+)
+)
+)
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+since becoming provisionally registered as a swap dealer on December 31, 2012, Morgan
+Stanley Capital Services LLC (âMorgan Stanleyâ or âRespondentâ) violated Sections 2(a)(13)(F)
+and (G) of the Commodity Exchange Act (the âActââ), 7 U.S.C. 88 2(a)(13)(F), (G) (2018), and
+Commission Regulations (âRegulationsâ) 43.3(a), 45.3, 45.4, 45.5, and 45.6, 17 C.F.R. Â§Â§
+43.3(a), 45.3, 45.4, 45.5, 45.6 (2019). Therefore, the Commission deems it appropriate and in
+the public interest that public administrative proceedings be, and hereby are, instituted to
+determine whether Respondent engaged in the violations set forth herein and to determine
+whether any order should be issued imposing remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
+Exchange Act, Making Findings, and Imposing Remedial Sanctions (âOrderâ) and acknowledges
+service of this Order.!
+
+ 
+
+! Respondent consents to the use of the findings of fact and conclusions of law in this Order in this
+
+proceeding and in any other proceeding brought by the Commission or to which the Commission is a party or
+claimant, and agrees that they shall be taken as true and correct and be given preclusive effect therein, without
+further proof. Respondent does not consent, however, to the use of this Order, or the findings or conclusions herein,
+as the sole basis for any other proceeding brought by the Commission or to which the Commission is a party or
+claimant, other than: a proceeding in bankruptcy or receivership; or a proceeding to enforce the terms of this Order.
+Respondent does not consent to the use of the Offer or this Order, or the findings or conclusions in this Order, by
+any other party in any other proceeding.
+Il. FINDINGS
+
+The Commission finds the following:
+A. SUMMARY
+
+Reporting is at the heart of the Commissionâs market and financial surveillance
+programs, which are critical to the Commissionâs mission to protect market participants and
+promote market integrity, and helps it to fulfill its Congressional mandate of monitoring systemic
+risk. Accurate swap data is essential to effective fulfillment of the regulatory functions of the
+Commission, including meaningful surveillance and enforcement programs.
+
+As a provisionally registered swap dealer (âSDâ), Respondent, as well as nine of its
+affiliates,â all of which were also provisionally registered swap dealers, was required to comply
+with certain reporting requirements related to their swap transactions. Since becoming a
+provisionally registered SD, Respondent failed to accurately report certain data to a swap data
+repository (âSDRâ) under Part 43 or Part 45 of the Regulations. For example, Respondent
+submitted hundreds of thousands of swaps containing inaccurate data for certain primary
+economic terms (âPETâ) data fields,â including fields for Unique Swap Identifiers (âUSIsâ),
+Legal Entity Identifiers (âLEIsââ), notional amounts, execution venue, and price. In addition,
+Respondent reported nearly half of its swaps for one asset class to the SDR outside of the time
+parameters required by Part 43 of the Regulations.
+
+In accepting Morgan Stanleyâs Offer, the Commission recognizes Morgan Stanleyâs
+substantial cooperation with the Division of Enforcementâs (âDivisionââ) investigation of this
+matter in the form of a reduced civil monetary penalty.
+
+B. RESPONDENT
+
+Morgan Stanley Capital Services LLC is a Delaware limited liability company with its
+principal place of business in New York, New York, and has been provisionally registered as a
+swap dealer with the Commission since December 31, 2012.
+
+ 
+
+2 The nine affiliates are Morgan Stanley & Co. International PLC, Morgan Stanley Capital Products LLC,
+
+Morgan Stanley & Co. LLC, Morgan Stanley Bank NA, Morgan Stanley Capital Group Inc., Morgan Stanley Bank
+International Limited, Morgan Stanley Mexico Casa De Bolsa SA De CV, Morgan Stanley MUFG Securities Co.,
+Ltd., and Morgan Stanley Derivative Products Inc. (which deregistered in 2017). Respondent and these affiliates
+shared the same swap data reporting system. As a result, the swap data errors identified in this Order include the
+swap data reporting errors of Respondentâs nine affiliates.
+
+3 PET data reporting includes the reporting of approximately sixty swap data elements, varying by asset
+class, enumerated in appendix | to part 45.
+
+2
+C. FACTS
+1. Respondentâs Misreporting of Certain Swap Data
+
+As a provisionally registered SD, Respondent is a reporting counterparty and thus is
+required to report certain data about swap transactions to an SDR. Since December 31, 2012,
+Respondent inaccurately reported swap data under Part 43 or Part 45 of the Regulations in one
+required data fieldâand sometimes in multiple required data fieldsâfor at least approximately
+three million swaps. On some days, these errors impacted hundreds of thousands of swaps,
+across all five asset classes.â
+
+The errors stem from twenty-nine issues that resulted in Respondentâs omission of swap
+data or submission of inaccurate swap data to the SDR, and, consequently, potentially impeded
+the Commissionâs ability to properly oversee the swap markets.
+
+In general, Respondentâs swap data reporting errors included the failure to report accurate
+PET data for the following fields, among others: (1) the LEI field, a unique code assigned to
+swap counterparties and entities in accordance with the standards set by the Global Legal Entity
+Identifier System; (2) the USI field, a unique alphanumeric code generated for each swap, and
+used by the Commission to follow the swap throughout its life cycle, among other things; (3)
+notional amounts; (4) execution venue LEI; and (5) price notation.
+
+Respondentâs swap reporting system generated reporting errors in each of the five asset
+classes. For example:
+
+e More than 1 million FX option and cash swaps were reported without required swap-
+execution-facility (âSEFââ) identifiers or correct price notations;
+
+e More than 700,000 equity swaps were reported without valuation data for certain life
+cycle events or with incorrect valuations;
+
+e More than 360,000 credit swaps were reported with inaccurate effective dates or without
+required SEF identifiers, and thousands of credit swaps (relating to pre-allocated block
+trades and pre-cleared trades) were reported without an accurate LEI;
+
+e More than 800,000 rates swaps were reported with omissions or errors. For example,
+approximately 340,000 swaps were reported as allocated trades without the USI of the
+initial block trade. In addition, approximately 275,000 swaps were reported with the
+incorrect effective date. Respondent also relied on a third-party to report valuations for
+certain swaps, but valuations for approximately 275,000 swaps were not reported at all.
+Finally, thousands of rates swaps (relating to pre-allocated block trades and pre-cleared
+trades) were reported without an accurate LEI; and
+
+ 
+
+4 The term âasset classâ refers to the âbroad category of goods, services or commodities . . . with common
+
+characteristics underlying a swap.â Regulation 45.1, 17 C.F.R. Â§ 45.1 (2019). The asset classes include credit,
+equity, foreign exchange (excluding cross-currency) (âFXâ), interest rates (including cross-currency) (âratesâ), other
+commodity (âcommoditiesâ), and other such asset classes as may be determined by the Commission.â /d.
+
+3
+e More than 100,000 commodity swaps were reported with omissions or errors.
+Specifically, more than 80,000 commodity swaps were reported without notional
+information for the floating leg of the swap. In addition, approximately 25,000 swaps
+were reported with a negative notional amount.
+
+2. Respondentâs Late Reporting of Swap Data
+
+As a provisionally registered swap dealer, Respondent is required to comply with certain
+requirements for the real-time public reporting and public availability of swap transaction data,
+including the requirement to report a publicly reportable swap transaction to an SDR as soon as
+technologically practicable after the swap transaction 1s executed. However, Respondent repeatedly
+failed to do so with respect to swaps in at least one asset class. For example, at least as of February
+2019, Respondent reported nearly half of its new interest rate swaps more than fifteen minutes after
+execution. This percentage was even higher for Respondentâs reporting of post-trade allocation
+events.
+
+3. Respondentâs Cooperation
+
+At the outset of the Divisionâs investigation and on its own initiative Respondent hired an
+outside expert to review its swap data reporting, and advised the Division that it had done so.
+Respondent thereafter voluntarily provided the Division with updates on the status of that
+review, and ultimately with the complete results of that review, which included the issues
+identified above. Respondent also engaged in open and regular communication with the
+Division throughout the investigation, and performed significant additional analyses of
+Respondentâs swap reporting at the Divisionâs requests. Respondentâs cooperation allowed the
+Division to conserve time and substantial resources.
+
+Hil. LEGAL DISCUSSION
+
+The Act states that, with regard to real-time data, â[p]arties to a swap... shall be
+responsible for reporting swap transaction information to the appropriate registered entity in a
+timely manner as may be prescribed by the Commission.â Section 2(a)(13)(F) of the Act,
+
+7 U.S.C. Â§ 2(a)(13)(F) (2018). The Act also requires that real-time data for each reportable
+swap (whether cleared? or uncleared) be reported to a registered SDR. Section 2(a)(13)(G) of
+the Act, 7 U.S.C. Â§ 2(a)(13)(G) (2018).
+
+Specifically, Regulation 43.4(a) states that â[s]wap transaction and pricing information
+shall be reported to a registered [SDR] so that the [SDR] can publicly disseminate swap
+transaction and pricing data in real-timeâ in the form and manner set forth in appendix A to
+Part 43. 17 C.F.R. Â§ 43.4(a) (2019). Further, â[a] reporting party shall report any publicly
+reportable swap transaction to a registered [SDR] as soon as technologically practicableÂ® after
+
+ 
+
+> A âcleared swapâ is defined as âany swap that is, directly or indirectly, submitted to and cleared by a
+
+derivatives clearing organization.â Section la(7) of the Act, 7 U.S.C. Â§ 1la(7) (2018).
+
+6 The phrase âas soon as technologically practicableâ means âas soon as possible, taking into consideration
+
+the prevalence, implementation, and use of technology by comparable market participants.â Regulation 43.2,
+17 C_F.R. Â§ 43.2 (2019). Moreover, in the preamble to Part 43, the Commission acknowledged that swap dealers are
+
+4
+such publicly reportable swap transaction is executed.â Regulation 43.3(a)(1),17 C.F.R.
+Â§ 43.3(a)(1) (2019).
+
+Regulation 45.3(b)(1)() and (c) set forth the requirements for reporting creation data,
+including PET data, including LEIs and USIs, among other fields. 17 C.F.R. 88 45.3(b)(1)Q), (c)
+(2019).
+
+Regulation 45.4(d)(1)(i) requires registered entities and swap counterparties to report
+continuation data for uncleared swaps, including the requirement to report life cycle event data
+such as LEIs. 17 C.F.R. Â§ 45.4(d)(1)G) (2019). In addition, Regulation 45.4(d)(2)(1) requires
+registered entities to report end-of-day valuation data for uncleared swaps.â 17 C.F.R.
+
+Â§ 45.4(d)(2)G) (2019).
+
+Under Regulation 45.5(b), for each off-facility swap where the reporting counterparty is a
+swap dealer, the swap dealer is required to create and transmit a USI. 17 C.F.R. Â§ 45.5(b)
+(2019). In addition, â[e]ach swap subject to the jurisdiction of the Commission shall be
+identified in all recordkeeping and all swap data reporting... by the use of a [USI], which shall be
+created, transmitted, and used for each swap as provided in...this section.â 17 C.F.R. Â§ 45.5.
+
+Reporting counterparties are also required to report valid LEIs for each counterparty to a
+reportable swap transaction pursuant to Regulation 45.1. In addition, Regulation 45.6 states that
+ââTe]ach counterparty to any swap subject to the jurisdiction of the Commission shall be identified
+in all recordkeeping and all swap data reporting pursuant to this part by means of a single [LEI].â
+17 C.F.R. Â§ 45.6 (2019).
+
+âThe accuracy and completeness of swap reporting are critical to the Commissionâs
+mission to protect market participants and to ensure market integrity.â U.S. Commodity Futures
+Trading Commân y. Deutsche Bank AG, No. 1:16-cv-6544 (WHP), 2020 WL 4611985, at *8
+(S.D.N.Y. June 17, 2020) (citing In re SociÃ©tÃ© GÃ©nÃ©ralÃ© Intâ! Ltd., CFTC No. 19-38, 2019 WL
+4915485, at *6 (Sept. 30, 2019) (consent order) (collecting cases). Market participants rely
+upon the public availability of swap data for price discovery purposes. Jd. The Commission, in
+turn, requires complete and accurate reporting data to engage in meaningful oversight of the
+swaps market. Id.
+
+As set forth above, Respondent failed to accurately report certain swap data. Asa
+result, Respondent violated 7 U.S.C. Â§Â§ 2(a)(13)(F) and (G), and 17 C.F.R. Â§Â§ 43.3(a), 45.3,
+45.4, 45.5, and 45.6.
+
+ 
+
+âmore likely to have the infrastructure to report their swap transaction and pricing data to an SDR faster than other
+categories of market participants.â 77 Fed. Reg. 1182 (Jan. 9, 2012).
+
+7 The term âvaluation dataâ includes âall of the data elements necessary to fully describe the daily mark of
+
+the transaction, pursuant to [7 U.S.C. Â§ 6s(h)(3)(B) Git], and to [17 C.F.R. Â§ 23.431] of this chapter if applicable.â
+Regulation 45.1, 17 C.F.R. Â§ 45.1 (2019).
+IV. FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that Respondent violated Sections
+2(a)(13)(F) and (G) of the Act, 7 U.S.C. Â§Â§ 2(a)(13)(F), (G) (2018), and Regulations 43.3(a),
+45.3, 45.4, 45.5, and 45.6, 17 C.F.R. Â§Â§ 43.3(a), 45.3, 45.4, 45.5, 45.6 (2019).
+
+V. OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+A. Acknowledges service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C. Waives:
+
+1. The filing and service of a complaint and notice of hearing;
+
+2. A hearing;
+
+3. All post-hearing procedures;
+
+4. Judicial review by any court;
+
+5. Any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+6. Any and all claims that it may possess under the Equal Access to Justice Act,
+5 U.S.C. Â§ 504 (2018), and 28 U.S.C. Â§ 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations, 17 C.F.R.
+pt. 148 (2019), relating to, or arising from, this proceeding;
+
+7. Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. IL, Â§Â§ 201-253, 110
+Stat. 847, 857-74 (codified as amended at 28 U.S.C. Â§ 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+8. Any claims of double jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order;
+
+D. Stipulates that the record basis on which this Order is entered shall consist solely of the
+
+findings contained in this Order to which Respondent has consented in the Offer;
+
+6
+Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+1. Makes findings by the Commission that Respondent violated Sections 2(a)(13)(F)
+and (G) of the Act, 7 U.S.C. Â§Â§ 2(a)(13)(P), (G) (2018), and Regulations 43.3(a),
+45.3, 45.4, 45.5, and 45.6, 17 C.F.R. 8Â§ 43.3(a), 45.3, 45.4, 45.5, 45.6 (2019).
+
+2. Orders Respondent to cease and desist from violating Sections 2(a)(13)(F) and (G)
+of the Act and Regulations 43.3(a), 45.3, 45.4, 45.5, and 45.6.
+
+3. Orders Respondent to pay a civil monetary penalty in the amount of five million
+dollars ($5,000,000), plus post-judgment interest; and
+
+4. Orders Respondent and its successors and assigns to comply with the conditions
+consented to in the Offer and as set forth in Part VI of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent shall cease and desist from violating Sections 2(a)(13)(F) and (G) of the Act,
+7 U.S.C. Â§Â§ 2(a)(13)(P), (G) (2018), and Regulations 43.3(a), 45.3, 45.4, 45.5, and 45.6,
+17 C.F.R. Â§Â§ 43.3(a), 45.3, 45.4, 45.5, 45.6 (2019).
+
+Respondent shall pay a civil monetary penalty in the amount of five million dollars
+($5,000,000) (âCMP Obligationâ) within ten days of the date of entry of this Order. If
+the CMP Obligation is not paid in full within ten days of the date of entry of this Order,
+then post-judgment interest shall accrue on the CMP Obligation beginning on the date of
+entry of this Order and shall be determined by using the Treasury Bill rate prevailing on
+the date of entry of this Order pursuant to 28 U.S.C. Â§ 1961 (2012).
+
+Respondent shall pay the CMP Obligation and any post-judgment interest by electronic
+funds transfer, U.S. postal money order, certified check, bank cashierâs check, or bank
+money order. If payment is to be made other than by electronic funds transfer, then the
+payment shall be made payable to the Commodity Futures Trading Commission and sent
+to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+
+9-AMC-AR-CFTC @ faa. gov
+If payment is to be made by electronic funds transfer, Respondent shall contact Marie
+Thorne or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+
+Respondent and its successors and assigns shall comply with the following conditions
+and obligation set forth in the Offer:
+
+1.
+
+Public Statements: Respondent agrees that neither it nor any of its successors and
+assigns, agents, or employees under its authority or control shall take any action
+or make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondentâs: (4) testimonial obligations; or (11) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondent and its successors and assigns shall comply with this agreement, and
+shall undertake all steps necessary to ensure that all of its agents and/or
+employees under its authority or control understand and comply with this
+agreement.
+
+Cooperation, in General: Respondent shall cooperate fully and expeditiously with
+the Commission, including the Commissionâs Division of Enforcement, in this
+action, and in any current or future Commission investigation or action related
+thereto. Respondent shall also cooperate in any investigation, civil litigation, or
+administrative matter related to, or arising from, the subject matter of this action.
+
+ 
+
+Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission of any partial payment of Respondentâs CMP Obligation shall
+not be deemed a waiver of its obligation to make further payments pursuant to this
+Order, or a waiver of the Commissionâs right to seek to compel payment of any
+remaining balance.
+
+ 
+
+Change of Address/Phone: Until such time as Respondent satisfies in full its
+CMP Obligation as set forth in this Order, Respondent shall provide written
+notice to the Commission by certified mail of any change to its telephone number
+and mailing address within ten calendar days of the change.
+
+ 
+
+Undertaking: The Commission understands that Respondent represents that it and
+its affiliates have made significant efforts to remediate the swap data reporting
+errors that are the subject of this Order.
+To establish that those remediation efforts have been successful, within 60 days of
+the entry of this Order, Respondent shall retain at its own expense, in consultation
+with and subject to the approval of the Division, a qualified outside consultant
+(the âConsultantââ), to perform a review to verify that Respondent has remediated
+the root causes of the twenty-nine swap data issues specified in Section II.C.1. of
+this Order (the âIssuesââ).
+
+The Consultant shall perform the review of the remediation of the Issues by
+sampling up to three days of swap reporting data of Respondent and its affiliates
+such that in the discretion of the Consultant it shall have sufficient data to perform
+its review.
+
+Within 180 days of being retained, the Consultant shall complete its review and
+communicate the final results in a written report (âReportââ) to Respondent and the
+Division, which shall include an explanation of the Consultantâs methodology and
+any assumptions it has applied, and the results of the review. The Consultantâs
+work product and Consultantâs communications with Respondent and its affiliates
+shall be made available promptly to the Division upon the Divisionâs request.
+
+Within 9 months after receiving the Report, Respondent shall remediate the root
+causes of any deficiencies identified in the Report unless (1) within 60 days after
+receiving the Report, Respondent advises the Consultant and the Division that
+Respondent disputes the Consultantâs determination that one or more deficiencies
+exist, and (11) the Consultant agrees with Respondent and notifies the Division
+that it is withdrawing its determination. If after this 60-day period the Consultant
+determines a deficiency still exists, Respondent shall remediate the root cause of
+any such deficiency unless the Division concludes that remediation is not
+necessary.
+
+The Division shall not recommend to the Commission an enforcement action
+against Respondent or its affiliates identified in footnote 2 above for violations of
+the Act or Regulations based on any such deficiency so long as (1) within 9
+months after receiving the Report, Respondent verifies to the Division in writing
+that it has remediated the root cause of any such deficiency including by noting
+the root cause of the deficiency and the date of the remediation or (11) the Division
+concludes that remediation is not necessary.
+
+Upon request by Respondent, the Division shall have the discretion to extend the
+time periods in this paragraph 5.
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+Robert N. Sidman
+Deputy Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: September 30, 2020
+
+10

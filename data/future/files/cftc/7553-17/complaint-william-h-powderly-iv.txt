@@ -1,0 +1,451 @@
+Case: 1:17-cv-03262 Document #: 1 Filed: 05/01/17 Page 1 of 13 PagelD #:1
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF ILLINOIS
+
+EASTERN DIVISION
+U.S. COMMODITY FUTURES )
+TRADING COMMISSION )
+)
+Plaintiff, ) Civil No.
+)
+vs. ) Complaint for Injunctive and Other
+) Equitable Relief and Civil Monetary
+WILLIAM H. POWDERLY IV ) Penalties under the Commodity Exchange
+) Act
+Defendant. )
+
+ 
+
+COMPLAINT FOR INJUNCTIVE AND OTHER EQUITABLE RELIEF AND CIVIL
+MONETARY PENALTIES UNDER THE COMMODITY EXCHANGE ACT
+
+The United States Commodity Futures Trading Commission (âCFTCâ or âCommissionâ),
+
+by and through its attorneys, hereby alleges as follows:
+I. SUMMARY
+
+1. From at least January 2016 through October 2016 (the ârelevant periodâ), William
+H. Powderly I'V (âPowderlyâ or âDefendantâ) fraudulently solicited and accepted at least
+$825,000 from at least four customers for purposes of trading commodity futures on their behalf
+in an account in Powderlyâs and his wifeâs name (âPowderlyâs trading accountâ) at a registered
+futures commission merchant (âFCMâ).
+
+2. In soliciting customers and prospective customers, Powderly falsely claimed that
+he and a purported partner, described as a university professor, had developed a commodity
+
+futures trading program that generated exceptional hypothetical trading results and consistent
+
+trading profits.
+Case: 1:17-cv-03262 Document #: 1 Filed: 05/01/17 Page 2 of 13 PagelD #:2
+
+3. Powderly, however, failed to tell customers and prospective customers that the
+actual commodity trading he conducted for his FCM account was consistently unprofitable,
+sustaining losses every month during the relevant period.
+
+4, After customers invested funds with Powderly, he falsely represented that their
+investmests had grown and claimed that the balance in his trading account was approximately
+$2 million by September 2016, when in fact the balance in his trading account was actually only
+$513 at the end of September 2016.
+
+5. When customers subsequently sought returns of funds, Powderly lied to them,
+falsely claiming that he could not transfer the requested funds because he had incurred large
+losses over a period of a few days. To support his story, Powderly created and delivered false
+FCM account statements for his account.
+
+6. By virtue of this conduct and the conduct further described herein, Defendant
+Powderly has engaged, is engaging in, or is about to engage in fraud in violation of Sections
+4b(a)(1)(A)-(C) and 6(c)(1) of the Commodity Exchange Act (âActâ), 7 U.S.C. Â§Â§ 6b(a)(1)(A)-
+(C), 9(1) (2012) and Commission Regulation (âRegulationâ) 180.1(a), 17 C.F.R. Â§ 180.1(a)
+(2016).
+
+7. Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), the
+Commission brings this action to enjoin such acts and practices, prevent the dissipation of assets,
+and compel compliance with the provisions of the Act. In addition, the Commission seeks civil
+penalties, an accounting, restitution, disgorgement, rescission and such other statutory and
+
+equitable relief as the Court may deem necessary or appropriate under the circumstances.
+II. JURISDICTION AND VENUE
+
+8. This Court has jurisdiction over this action pursuant to Section 6c of the Act,
+
+7 U.S.C. Â§ 13a-1 (2012), which authorizes the Commission to seek injunctive relief against any
+
+2
+Case: 1:17-cv-03262 Document #: 1 Filed: 05/01/17 Page 3 of 13 PagelD #:3
+
+person whenever it shall appear to the Commission that such person has engaged, is engaging, or
+is about to engage in any act or practice constituting a violation of any provision of the Act or
+any rule, regulation or order thereunder.
+
+9. Venue properly lies with this Court pursuant to Section 6c of the Act, 7 U.S.C.
+Â§ 13a-1(e) (2012), in that Defendant transacted business in this District, and the acts and
+practices in violation of the Act have occurred, are occurring, or are about to occur within this
+District.
+
+Il. THE PARTIES
+
+PLAINTIFF
+
+10. Commodity Futures Trading Commission is an independent federal regulatory
+agency that is charged by Congress with the responsibility for administering and enforcing the
+provisions of the Act and the Regulations promulgated thereunder, 17 C.F.R. Â§Â§ 1.1 ef seq.
+(2016).
+DEFENDANT
+
+11. William H. Powderly IV is 6lyears old and resides in New Hope, Pennsylvania.
+Powderly has never been registered with the Commission in any capacity.
+
+IV. FACTS
+
+Powderly Fraudulently Solicited Customers
+
+12, Beginning in late December 2015, Powderly began soliciting prospective
+customers from his circle of friends and acquaintances. Powderly represented to prospective
+customers that he and a claimed partner, who Powderly described as a professor at a Pittsburgh,
+Pennsylvania university, had developed a proprietary, multi-algorithmic commodity futures
+trading program that generated exceptional âbetaâ testing results. In promotional literature
+
+Powderly created to solicit customers, he represented that over the 7 months of beta testing in the
+
+3
+Case: 1:17-cv-03262 Document #: 1 Filed: 05/01/17 Page 4 of 13 PagelD #:4
+
+futures market, he and his partner had âgenerated consistent daily gains without a single day of
+daily loss.â In reality, Powderly did not have a partner who helped develop the program.
+
+13. __Insoliciting prospective customers, Powderly represented that he needed
+investment capital in order to begin placing actual trades in the commodity futures markets,
+utilizing his trading program. Powderly sought investment capital from customers who would
+transfer funds to him directly, which Powderly would then transfer to fund and trade in his own
+trading account at the FCM. Powderly also sought customers who would loan him money in the
+form of an interest bearing note paying a specified rate of monthly interest and a specified
+percentage of the net gain in assets in Powderlyâs trading account carried at the FCM on the
+maturity date of the loan.
+
+14. During the relevant period, Powderly met with customers and prospective
+customers, in order to provide them with an opportunity to view his computerized trading
+program and show them the hypothetical trading results that the program generated. During
+these meetings, Powderly claimed that his hypothetical trading results using the trading program
+were exceptional and that he never had a losing day. During these meetings, Powderly failed to
+tell customers and prospective customers that the actual trading he conducted in his trading
+account at the FCM was consistently unprofitable, and that he never had a profitable month
+trading commodity futures for his account during the relevant time period.
+
+15. Similarly, Powderly sent prospective customers and customers email
+correspondence showing consistent profits generated by his hypothetical trading utilizing his
+
+trading program. For example, in one emai] that Powderly sent to prospective customers on
+December 12, 2015, he touted the success of his trading program and stated, âTotal for the week
+
+$8,246,225.00 . . .â in hypothetical trading results.
+Case: 1:17-cv-03262 Document #: 1 Filed: 05/01/17 Page 5 of 13 PagelD #:5
+
+16. Based on Powderlyâs representations detailed in Paragraphs 12 through 15 above,
+at least 4 customers transferred at least $825,000 to Powderly in the form of either (i) direct
+transfers, or (ii) loan proceeds to Powderly, in all cases with the understanding that their funds
+would be used to fund Powderlyâs account for purposes of commodity trading, and which
+Powderly, in fact, primarily used to fund his commodity trading at the FCM.
+
+Powderlyâs Actual Commodity Trading Performance during the Relevant Period
+
+17. From January 2016, when Powderly began soliciting investors, through October
+2016, Powderly funded his trading account with a total of $1,003,000. During that same period,
+Powderlyâs trading account sustained net trading losses of approximately $997,527. Indeed,
+Powderly never had a profitable month trading commodity futures for his account during the
+foregoing time period, and Powderly failed to inform his customers and prospective customers
+
+about his actual trading results.
+
+After Customers Invested Funds with Powderly, He Falsely Represented that His
+Commodity Trading Was Generating Profits and Falsified Account Statements
+
+18. After customers transferred funds to Powderly for purposes of commodity
+trading, Powderly falsely represented to them that his trading was very profitable. In particular,
+Powderly represented to some customers that his commodity trading was so successful that his
+trading account balance at the FCM had grown to approximately $2 million by September 2016.
+
+19. | When learning that the trading account balance had increased significantly, some
+customers requested that Powderly transfer a total of approximately $570,000 to them in order to
+set aside funds to pay income taxes that they estimated would be due as a result of the trading
+profits Powderly had purportedly generated in the trading account.
+
+20. After these customers requested withdrawals, Powderly made excuses to them
+
+about why he could not immediately transfer the funds to them. When Powderly could no longer
+Case: 1:17-cv-03262 Document #: 1 Filed: 05/01/17 Page 6 of 13 PagelD #:6
+
+forestall transferring the requested funds, Powderly falsely told customers that he incurred large
+losses over a period of a few days in September 2016, when he allegedly had become ill and
+couldnât monitor his trading system.
+
+21. To support his false story that he had initially been successful, but then incurred
+massive trading losses in September 2016, solely due to his poor health and his inability to
+monitor his trading during that period, Powderly created false FCM account statements for the
+months of August and September 2016 and sent them to his customers. The false FCM account
+statements Powderly created for August 2016 and sent to his customers, showed net trading
+profits of $517,537 for that month and an account balance on August 31, 2016 of $1,377,844.
+The false FCM account statements that Powderly created for September 2016 and sent to his
+customers, showed net trading losses of $1,263,427 for that month and an account balance on
+September 30, 2016 of $74,216.
+
+22. â In fact, Powderlyâs trading account incurred net realized losses of $121,848 in
+August 2016 and had an account balance on August 31, 2016 of $18,478. Powderlyâs trading
+account incurred net realized losses of $12,808 in September 2016 and had an account balance
+on September 30, 2016 of $513.
+
+23. | When Powderly refused to give his customers an accurate accounting of their
+investments or the return of their monies, one investor notified the FCM that carried Powderlyâs
+account by letter dated October 2, 2016, informing the FCM that Powderly had defrauded them.
+To date, four customers who invested funds with Powderly have incurred total net losses of at
+
+least $669,000.
+Case: 1:17-cv-03262 Document #: 1 Filed: 05/01/17 Page 7 of 13 PagelD #:7
+
+V. VIOLATIONS OF THE COMMODITY EXCHANGE ACT
+COUNT I
+
+Violations of Section 4b(a)(1)(A),(C) the Act; Fraud by
+Material Misrepresentations and Omissions
+
+24. The allegations set forth in paragraphs | through 23 are re-alleged and
+incorporated herein.
+
+25. Sections 4b(a)(1)(A),(C) of the Act, 7 U.S.C. Â§Â§ 6b(a)(1)(A),(C) (2012), make it
+unlawful for any person, in or in connection with any order to make, or the making of, any
+contract of sale of any commodity in interstate commerce or for future delivery that is made, or
+to be made, on or subject to the rules of a designated contract market, for or on behalf of any
+other person â (A) to cheat or defraud or attempt to cheat or defraud the other person; ... or
+(C) willfully to deceive or attempt to deceive the other person by any means whatsoever in
+regard to any order or contract or the disposition or execution of any order or contract, or in
+regard to any act of agency performed, with respect to any order or contract for the other person.
+
+26. During the relevant period, Defendant violated Sections 4b(a)(1)(A),(C) of the
+Act, 7 U.S.C. Â§Â§ 6b(a)(1)(A),(C) (2012), in that he cheated or defrauded or attempted to cheat or
+defraud and willfully deceived or attempted to deceive his customers or prospective customers
+by: i) failing to inform them that the actual trading he conducted for his trading account during
+the relevant period was unprofitable; ii) falsely representing that his commodity trading had
+positive rates of return during the relevant period, when, in fact, the commodity futures trading
+he conducted in his trading account had a negative return, losing virtually all of the funds
+Defendant committed to trading; and iii) falsely representing that the trading system he utilized
+
+was developed with the assistance of a university professor, when he had no such partner and
+
+had developed the program himself.
+Case: 1:17-cv-03262 Document #: 1 Filed: 05/01/17 Page 8 of 13 PagelD #:8
+
+27. Defendant engaged in this violative conduct in or in connection with orders to
+make, or the making of, contracts of sale of commodities, for future delivery, made, or to be
+made, on or subject to the rules of a designated contract market, for or on behalf of such other
+persons.
+
+28. Each material misrepresentation or omission and each misappropriation made
+during the relevant time period, including but not limited to those specifically alleged herein, is
+alleged as a separate and distinct violation of Sections 4b(a)(1)(A),(C) of the Act, 7 U.S.C.
+
+Â§Â§ 6b(a)(1)(A),(C) (2012).
+COUNT II
+Violations of Section 4b(a)(1)(B) of the Act: Fraud by the
+
+Creation of False Statements
+
+29. The allegations set forth in paragraphs | through 23 are re-alleged and
+incorporated herein.
+
+30. Section 4b(a)(1)(B) of the Act, 7 U.S.C. Â§ 6b(a)(1)(B) (2012), makes it unlawful
+for any person, in or in connection with any order to make, or the making of, any contract of sale
+of any commodity in interstate commerce or for future delivery that is made, or to be made, on or
+subject to the rules of a designated contract market, for or on behalf of any other person - ...
+
+(B) willfully to make or cause to be made to the other person any false report or statement or
+willfully to enter or cause to be entered for the other person any false record.
+
+31. Defendant violated Section 4b(a)(1)(B) of the Act, 7 U.S.C. Â§ 6b(a)(1)(B), in that
+Defendant willfully made or caused to be made false FCM statements that he sent to customers
+
+that misrepresented the balances in Defendantâs trading account and concealed Defendant's
+
+actual trading losses.
+Case: 1:17-cv-03262 Document #: 1 Filed: 05/01/17 Page 9 of 13 PagelD #:9
+
+32. | Defendant engaged in this violative conduct in or in connection with orders to
+make, or the making of, contracts of sale of commodities, for future delivery, made, or to be
+made, on or subject to the rules of a designated contract market, for or on behalf of such other
+persons.
+
+33. Each false report or statement made during the relevant time period, including but
+not limited to those specifically alleged herein, is alleged as a separate and distinct violation of
+Section 4b(a)(1)(B) of the Act, 7 U.S.C. Â§ 6b(a)(1)(B).
+
+COUNT Ill
+
+Violations of Section 6(c)(1) of the Act and Regulation 180.1(a):
+Fraud by Manipulative or Deceptive Devices or Contrivances
+
+34. The allegations set forth in Paragraphs | through 23 are realleged and
+incorporated herein.
+
+35. Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) (2012), makes it unlawful for any
+person, directly or indirectly, to use or employ, or attempt to use or employ, in connection with
+any swap, or a contract of sale of any commodity in interstate commerce, or for future delivery
+on or subject to the rules of any registered entity, any manipulative or deceptive device or
+contrivance in contravention of any Commission rule or regulation.
+
+36. Regulation 180.1(a), 17 C.F.R. Â§ 180.1(a) (2016), makes it unlawful, inter alia,
+for any person, directly or indirectly, in connection with any swap, or a contract of sale of any
+commodity in interstate commerce, or for future delivery on or subject to the rules of any
+registered entity, to intentionally or recklessly use or employ, or attempt to use or employ, any
+manipulative device, scheme, or artifice to defraud; make, or attempt to make, any untrue or
+misleading statement of a material fact or to omit to state a material fact necessary in order to
+
+make the statements made not untrue or misleading; or engage, or attempt to engage, in any act,
+Case: 1:17-cv-03262 Document #: 1 Filed: 05/01/17 Page 10 of 13 PagelD #:10
+
+practice, or course of business, which operates or would operate as a fraud or deceit on any
+person.
+
+37. During the relevant period, Defendant violated Section 6(c)(1) of the Act,
+
+7 U.S.C. Â§ 9(1), and Regulation 180.1(a), 17 C.F.R. Â§ 180.1(a), by knowingly employing
+manipulative or deceptive devices or contrivances in connection with commodities for future
+
+' delivery on or subject to the rules of a registered entity, including: 1) failing to tell prospective
+customers and customers that the actual trading he conducted for his trading account during the
+relevant period was unprofitable; ii) falsely representing that his commodity trading had positive
+rates of return during the relevant period, when, in fact, the commodity futures trading he
+conducted in his trading account had a negative return, losing virtually all of the funds Defendant
+committed to trading; iii) falsely representing that the trading system he utilized was developed
+with the assistance of a university professor, when he had no such partner and had developed the
+program himself; and iv) willfully making or causing to be made false FCM statements that
+misrepresented the balances in Defendantâs trading account and concealed Defendantâs trading
+losses.
+
+38. | Defendant committed such acts intentionally or recklessly.
+
+39. Each act of employing a manipulative or deceptive device or contrivance,
+including, but not limited to, those specifically alleged herein, is alleged as a separate and
+distinct violation of Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1), and Regulation 180.1(a),
+
+17 C.F.R. Â§ 180.1(a).
+
+VI. RELIEF REQUESTED
+WHEREFORE, the Commission respectfully requests that the Court, as authorized by
+
+Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), and pursuant to its own equitable powers, enter:
+
+10
+Case: 1:17-cv-03262 Document #: 1 Filed: 05/01/17 Page 11 of 13 PagelD #:11
+
+A. An order finding that Defendant violated Sections 4b(a)(1)(A)-(C) and 6(c)(1) of
+the Act, 7 U.S.C. Â§Â§ 6b(a)(1)(A)-(C), 9(1) (2012), and Regulation 180.1(a), 17 C.F.R. Â§ 180.1(a)
+(2016);
+
+B. An order of permanent injunction prohibiting Defendant and any other persons or
+entities in active concert with him from engaging in conduct in violation of Sections 4b(a)(1)(A)-
+(C) and 6(c)(1) of the Act, 7 U.S.C. Â§Â§ 6b(a)(1)(A)-(C), 9(1) (2012), and Regulation 180.1(a),
+17 C.F.R. Â§ 180.1(a) (2016);
+
+C. An order of permanent injunction enjoining Defendant and all persons insofar as
+they are acting in the capacity of his agents, servants, employees, successors, assigns, and
+attorneys, and all persons insofar as they are acting in active concert or participation with
+Defendant who receive actual notice of such order by personal service or otherwise, from
+engaging, directly or indirectly, in:
+
+l, Trading on or subject to the rules of any registered entity, as that term is
+defined in Section 1a(40) of the Act, 7 U.S.C. Â§ 1a(40) (2012);
+
+2. Entering into any transactions involving âcommodity interestsâ (as that
+term is defined in Regulation 1.3(yy), 17 C.F.R. Â§ 1.3(yy) (2016), for his
+own personal account or for any account in which he has a direct or
+indirect interest;
+
+3. Having any commodity interests traded on his behalf;
+
+4, Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account
+involving commodity interests
+
+5. Soliciting, receiving or accepting any funds from any person for the
+purpose of purchasing or selling any commodity interests;
+
+6. Applying for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the Commission, except
+as provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2016)
+and/or
+
+1]
+Case: 1:17-cv-03262 Document #: 1 Filed: 05/01/17 Page 12 of 13 PagelD #:12
+
+7. Acting as a principal (as that term is defined in Regulation 3.1(a),
+17 C.F.R. Â§ 3.1(a) (2016)), agent or any other officer or employee of any
+person (as that term is defined in Section 1a(38) of the Act, 7 U.S.C.
+Â§ 1a(38) (2012)) registered, exempted from registration or required to be
+registered with the Commission, except as provided for in Regulation
+4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2016).
+
+D. An order requiring Defendant and any third party transferee and/or successors
+thereof, to disgorge to any officer appointed or directed by the Court all benefits received
+including, but not limited to, salaries, commissions, loans, fees, revenues and trading profits
+derived, directly or indirectly, from acts or practices which constitute violations of the Act as
+described herein, including pre-judgment and post-judgment interest;
+
+E, An order directing Defendant and any successors thereof, to rescind, pursuant to
+such procedures as the Court may order, all contracts and agreements, whether implied or
+express, entered into between him and any of the customers whose funds were received by him
+as a result of the acts and practices that constituted violations of the Act, as described herein;
+
+F, An order requiring Defendant to make restitution by making whole each and
+every customer whose funds were received or utilized by him in violation of the provisions of the
+Act or CFTC Regulations as described herein, including pre-judgment interest from the date of
+such violations, plus post-judgment interest;
+
+G. An order requiring Defendant to pay civil penalties under the Act, to be assessed
+by the Court, in amounts of not more than the higher of (1) triple the monetary gain to Defendant
+
+for each violation of the Act or (2) $154,734 for each violation of the Act;
+
+H. An order requiring Defendant to pay costs and fees as permitted by 28 U.S.C.
+
+Â§Â§ 1920 and 2412(a)(2) (2012); and
+
+12
+Case: 1:17-cv-03262 Document #: 1 Filed: 05/01/17 Page 13 of 13 PagelD #:13
+
+I, An Order providing such other and further relief as this Court may deem
+
+necessary and appropriate under the circumstances.
+
+Dated: May 1, 2017
+
+13
+
+Respectfully submitted,
+
+/s/ Diane M. Romaniuk
+Diane M. Romaniuk
+
+(Illinois ARDC No. 0341649)
+Lindsey Evans
+
+(Illinois ARDC No. 6286125)
+Scott Williamson
+
+(IL ARDC No. 6191293)
+Rosemary Hollinger
+
+(Illinois ARDC No. 3123647)
+
+U.S. COMMODITY FUTURES
+TRADING COMMISSION
+
+525 West Monroe Street, Suite 1100
+Chicago, IL 60661
+
+(312) 596-0541 (Romaniuk)
+
+(312) 596-0643 (Evans)
+
+(312) 596-0714 (facsimile)
+dromaniuk@cftc.gov
+levans@cftc.gov

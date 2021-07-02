@@ -1,0 +1,98 @@
+Release Number 7486-16
+
+ 
+
+November 17, 2016
+
+Federal Court in Chicago Orders U.K. Resident Navinder Singh Sarao to Pay More than $38
+Million in Monetary Sanctions for Price Manipulation and Spoofing
+
+Sarao Admits to Contributing to Extreme Order Book Imbalance and
+Causing and Creating Artificial Prices on Multiple Days, Including May
+6, 2010 (Flash Crash Day)
+
+Washington, DC - The U.S. Commodity Futures Trading Commission (CFTC) today announced that Judge Andrea R.
+Wood of the U.S. District Court for the Northern District of Illinois entered a Consent Order against Navinder Singh
+Sarao (Sarao) that requires him to pay a $25,743.174.52 civil monetary penalty and $12,871,587.26 in disgorgement.
+The Courtâs Order also permanently prohibits Sarao from further violations of the Commodity Exchange Act (CEA) and
+CFTC Regulations, as charged, and imposes permanent trading and registration bans against Sarao.
+
+The Courtâs Order arises from a CFTC enforcement action filed against Sarao, along with his company Nav Sarao
+Futures Limited PLC (Defendants). The CFTC charged them with unlawfully manipulating, attempting to manipulate,
+spoofing, and use of a manipulative device â all with regard to the E-mini S&P 500 near month futures contract (E-mini
+S&P) that trades on the Chicago Mercantile Exchange (CME) (see the CFTC Complaint and Press Release 7156-15, April
+21,2015). The E-mini S&P 500 is a stock market index futures contract based on the Standard & Poorâs 500 Index and is
+one of the most popular and liquid equity index futures contracts in the world.
+
+CFTC Director of Enforcement Aitan Goelman commented:
+
+âAs this case makes clear, the dangers of spoofing are real. Mr. Sarao's spoof orders distorted prices in the E-mini time
+and time again over a period of years. In so doing, his orders hurt real market participants. Equally as clear is our
+resolve to root out this behavior and bring those responsible to justice, wherever they may be.â
+
+In the Order, Sarao admits to the allegations in the CFTC Complaint, as well as to the Orderâs findings of fact and the
+conclusions of law. The Order finds that Sarao:
+
+* successfully manipulated the E-mini S&P on at least 12 days between April 27, 2010 and March 10, 2014
+(including May 6, 2010, commonly known as Flash Crash Day);
+
+Â¢ attempted to manipulate the E-mini S&P tens of thousands of times between April 2010 and April 17, 2015;
+
+* placed tens of thousands of bids and offers that he intended to cancel before execution (/.e., spoof orders)
+between July 16, 2011 and April 17, 2015; and
+
+* employed or attempted to employ a manipulative device, scheme, or artifice to defraud in connection with his
+spoof orders between August 15, 2011 and April 17, 2015.
+
+The Order finds that Sarao engaged in a scheme to manipulate the price of the E-mini S&P utilizing a variety of
+automated and manual spoofing tactics designed to cause price swings that Defendants could exploit through their
+trading. For example, Defendants used a dynamic layering program that routinely placed 4 to 6 exceptionally large sells
+orders into the E-mini S&P order book, each one price point from the next, beginning at least 3 or 4 price points away
+from the best asking price. As the market price moved, the program automatically and simultaneously modified the
+orders at the various price levels, resulting in Defendantsâ orders generally remaining at least 3 or 4 price points away
+from the best asking price in the order book. Often, these large layered orders were modified hundreds of times to keep
+them from resulting in executed trades, before eventually being cancelled. Defendants also sometimes employed a back-
+of-queue program that placed large orders in the order book to affect prices, but minimized the chances that such orders
+would result in executed trades by taking advantage of the CME matching functionality. Further, according to the Order,
+Defendants utilized manual spoofing techniques to place and cancel large orders with no intention of execution.
+
+According to the Order, Defendants placed thousands of E-mini S&P spoof orders to create a materially false and
+misleading impression of supply and demand to induce other market participants to react and buy or sell E-mini S&P
+contracts at prices, quantities, and/or times that, but for Defendantsâ spoofs orders, these other market participants
+would not have traded. Further, the spoof orders had the purpose and effect of artificially depressing or artificially
+inflating E-mini S&P market prices when the spoof orders were active. Frequently, after causing these artificial prices,
+Defendants executed orders that benefited from these artificial prices.
+
+Flash Crash Day (May 6, 2010)
+Defendants admitted to aggressively using the dynamic layering program and other spoof orders on May 6, 2010,
+according to the Order. More specifically, the Order finds that Defendants used the dynamic layering program for a
+cumulative time of over 4 hours and 25 minutes on the Flash Crash Day. The program placed orders that were modified
+over 81,000 times that day, with only 81 lots resulting in executed trades. Before being cancelled at 1:40 p.m. CT, the
+orders represented approximately $170 million to over $200 million worth of persistent downward pressure on the E-mini
+S&P price and represented 20-29% of the entire sell-side of the order book. Further, Defendants placed additional resting
+spoof orders in the order book to exacerbate the effects of the dynamic layering program. The Order also finds that
+Defendantsâ actions contributed to an extreme order book imbalance in the E-mini S&P market and that the CFTCâs and
+Securities and Exchange Commissionâs Preliminary Findings Regarding the Events of May 6, 2010 noted that the
+significant imbalance between sell orders and buy orders contributed to a sudden loss of liquidity in the E-mini S&P
+market that day and that this loss of liquidity, in conjunction with other market events, directly contributed to the E-mini
+S&P price crash.
+
+Related Criminal Action
+
+Last week, Sarao pleaded guilty in the U.S. District Court for the Northern District of Illinois to one count of spoofing and
+one count of wire fraud in a related criminal action.
+
+The CFTC Division of Enforcement staff members responsible for this matter are Jeff Le Riche, Jo Mettenburg, Jenny
+Chapin, Allison Sizemore, Carlin Metzger, Elizabeth Padgett, Mary Lutz, Jordon Grimm, Rick Glaser, and Charles Marvine,
+as well as former Division of Enforcement staff member Jessica Harris.
+
+The CFTC thanks and acknowledges the assistance of the Chicago Mercantile Exchange, the U.S. Department of Justice,
+the Federal Bureau of Investigation, the U.K. Financial Conduct Authority, the Guernsey Financial Services Commission,
+and the Metropolitan Police International Assistance Unit, Scotland Yard. The CFTC also recognizes the cooperation of the
+Securities and Exchange Commission.
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: November 17, 2016

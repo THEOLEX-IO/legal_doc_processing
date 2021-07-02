@@ -1,0 +1,706 @@
+Case 1:16-cv-25298-XXXX Document 1 Entered on FLSD Docket 12/22/2016 Page 1 of 21
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF FLORIDA
+
+ 
+
+SECURITIES AND EXCHANGE
+COMMISSION,
+
+Plaintiff,
+V.
+
+TEVA PHARMACEUTICAL INDUSTRIES
+LTD.,
+
+Defendant.
+
+ 
+
+ 
+
+COMPLAINT
+Plaintiff U.S. Securities and Exchange Commission (the âCommissionââ) alleges:
+SUMMARY
+
+1. This action arises from violations of the Foreign Corrupt Practices Act (âFCPAââ)
+by Defendant Teva Pharmaceutical Industries Ltd. (âTevaâ or the âCompanyââ), the largest
+generic drug manufacturer in the world, relating to illegal payments made to foreign government
+officials in three countries to assist Teva in obtaining or retaining business.
+
+2. From at least October 2010 through at least December 2012, Teva paid bribes to a
+government official in Russia. From at least May 2002 through March 2011, Teva paid bribes to
+a government official in Ukraine. In 2011 and 2012, a Teva subsidiary in Mexico also paid
+bribes to government officials in Mexico. These illegal payments were made to influence
+regulatory and formulary approvals, drug purchase decisions, prescription decisions, and to
+increase Tevaâs market share and develop competitive advantages over competitors. Teva
+realized more than $214,596,170 in profits from business obtained through the use of illegal
+
+payments.
+mT TE ows MEI WY  Peeriemant 4 Tartarar an MP Or Marnkbrat TOOOIIAAR Man > wt
+st
+3. These illegal payments were authorized by senior executives at Teva while
+
+knowing of or recklessly ignoring red flags which indicated a high probability that such
+payments were intended for, or would be paid to, foreign government officials.
+
+4. Teva created false books and records to conceal illegal payments to a government
+official in Russia and illegal payments to a government official in Ukraine. Tevaâs subsidiary in
+Mexico also created false books and records to conceal illegal payments to government officials
+in Mexico.
+
+5. The illegal payments in Russia were improperly recorded as legitimate reductions
+of revenue in Tevaâs books and records. The illegal payments in Ukraine were improperly
+recorded as sales and marketing expenses and consultancy fees in Tevaâs books and records.
+The illegal payments in Mexico were improperly recorded as legitimate reductions of revenue,
+and the inaccurate books and records and financial statements of the Mexican subsidiary were
+consolidated into Tevaâs financial statements, which were filed with the Commission.
+
+6. Tevaâs internal accounting controls were inadequate because they failed to
+prevent such payments or detect red flags which should have alerted its employees that these
+payments, in whole or in part, were bribes to foreign government officials. Moreover, the
+internal accounting controls were circumvented to allow employees to authorize payments with
+little or no supporting documents.
+
+7. As aresult of its conduct in Russia, Ukraine, and Mexico, Teva violated Section
+30A of the Securities Exchange Act of 1934 (âExchange Actâ) [15 U.S.C. Â§ 78dd-1] when it
+authorized or made illegal payments to foreign government officials in order to obtain or retain
+business. Teva violated Section 13(b)(2)(A) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(A)]
+
+when it created false books and records to conceal illegal payments in Russia and Ukraine, and
+Case 1:16-cv-25298-XXXX Document 1 Entered on FLSD Docket 12/22/2016 Page 3 of 21
+
+when its subsidiary in Mexico created false books and records to conceal the illegal payments in
+Mexico, which were then included in the subsidiaryâs financial statements and consolidated into
+Tevaâs financial statements. Teva also violated Section 13(b)(2)(B) of the Exchange Act [15
+U.S.C. Â§ 78m(b)(2)(B)] by failing to have sufficient internal accounting controls in place to
+detect and prevent the authorization or payment of illegal payments in Russia, Ukraine, and
+Mexico. Accordingly, the Commission seeks an order permanently enjoining Teva from further
+violations of Sections 30A, 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act. Unless restrained
+and enjoined, Teva is reasonably likely to continue to violate the federal securities laws.
+JURISDICTION AND VENUE
+
+8. This Court has jurisdiction over this action pursuant to Sections 21(d), 21(e), and
+27 of the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e), and 78aa].
+
+9. Teva, directly or indirectly, made use of the means or instrumentalities of
+interstate commerce, of the mails, or of the facilities of a national securities exchange in
+connection with the transactions, acts, practices, and courses of business alleged in this
+Complaint.
+
+10. Venue is appropriate in this Court under Section 27 of the Exchange Act [15
+U.S.C. Â§ 78aa]. During the relevant period, Teva maintained operations and an office in Miami.
+Specifically, Tevaâs management of the Latin American region, the internal audit function for the
+Latin American region, compliance personnel, and some accounting functions were located in
+Tevaâs Miami office. Further, Teva has consented to venue in this Court.
+
+DEFENDANT
+11. Teva, an Israeli company headquartered in Petah Tikva, Israel, is a global
+
+pharmaceutical corporation and the largest generic drug manufacturer in the world. Teva
+Case 1:16-cv-25298-XXXX Document 1 Entered on FLSD Docket 12/22/2016 Page 4 of 21
+
+conducts business all over the world, including in the U.S. Outside the U.S., Teva sells its
+products, directly and through distributors or other intermediaries, to government controlled
+entities, such as ministries of health and government-owned hospitals and clinics. Throughout
+the relevant time period, Tevaâs common shares were registered with the Commission pursuant
+to Section 12(b) of the Exchange Act [15 U.S.C. Â§ 781(b)] and traded in the form of American
+Depositary Shares â representing shares of common stock â that were represented by American
+Depositary Receipts traded on the Nasdaq National Market from October 1987 until May 2012,
+when Teva transferred the listing of its American Depositary Receipts to the New York Stock
+Exchange.
+
+12. As such, Teva was required to file reports, including Form 20-F, with the
+Commission pursuant to Section 13(a) of the Exchange Act [15 U.S.C. Â§ 78m(a)] and related
+rules thereunder, and was an âissuerâ within the meaning of the FCPA [15 U.S.C. Â§ 78dd-1].
+
+RELATED ENTITIES
+13. Teva LLC, also known as Teva Russia, has been Tevaâs wholly-owned
+
+subsidiary in Russia since at least 2010.
+
+14. Teva Ukraine LLC has been Tevaâs wholly-owned subsidiary in Ukraine since
+at least 2010.
+15. Teva Mexico is comprised of various subsidiaries, including Sicor de Mexico,
+
+S.A., Lemery S.A. de C.V., Lemery Desarrollo y Control S.A. de C.V., Immobiliaria Lemery
+S.A. de C.V., Vitrium Division Farmaceutica, S.A. de C.V., Teva Pharmaceutical Mexico S.A.
+de C.V., and Ivax Pharmaceuticals Mexico, S.A. de C.V. Teva Mexicoâs financial statements are
+
+consolidated into the financial statements of Teva at the parent level.
+Case 1:16-cv-25298-XXXX Document 1 Entered on FLSD Docket 12/22/2016 Page 5 of 21
+
+FACTUAL ALLEGATIONS
+
+A. Tevaâs Illegal Payments in Russia
+
+16. From at least October 2010 through at least December 2012, Teva agreed to pay,
+and did pay, an official of the government of Russia to obtain or retain business in Russia valued
+at approximately $197,530,681.
+
+17. Throughout that time period, Russia had a public healthcare system that provided
+universal healthcare to Russian citizens. The cost of the public healthcare, including medical
+care and drug treatments, was shared between the central, regional, and local governments.
+Beginning as early as 2001, Teva began using a Russian national (âRussian Officialâ) and
+entities he owned or controlled, including a Russian company (âRussian Distributorâ), to sell
+pharmaceutical products to Russian government entities, including Copaxone, a drug used to
+treat Multiple Sclerosis (âMSâ). In 2003, Russian Official became a high-ranking government
+official in the Russian Federation, and held official positions on various government committees.
+He remained a high-ranking government official until March 2013.
+
+18. After Russian Official became a high-ranking government official in 2003, he
+assigned the entirety of his shares of Russian Distributor and of other affiliated companies he
+owned to his spouse because of a Russian law prohibiting certain government officials from
+owning company stock or running businesses. However, Russian Official continued to run his
+businesses, and his spouse was not involved in the operations of his businesses.
+
+19. In 2006, Russian Official began asking Teva to increase its business with his
+various companies. In an internal email to a Teva executive in Israel, a Teva Russia executive
+referenced Russian Officialâs âinfluence in the industryâ and the benefit to Teva of âgetting a
+
+99 66
+
+status of a local manufacturer and thereby outperform[ing] foreign pharma companies,â âgetting
+AeÃ© PLP PS PRES RE PA ee ca eh Ph te ee oe oa PPE ee Ron aie ade 2 AER PA
+TR PRPORXX* SN Docurent it Enfered an FLSD Docket LDP erPeot
+wate Â§, Bread ae FL OR LS y Ra ASA LAD EEA PR a he SLES ERA RGF & hea?! PRPS a Qa oe ot
+
+the green light in federal programmes,â and âmore speedy and straightforward registration of
+products ....â The email also referenced Russian Officialâs suggestion that he could â. . . assist
+Teva with lobbying its business interests from the perspective of local legislation and even joint
+efforts in developing a law with Knesset.â
+
+20. In or around 2008, the Russian Ministry of Health designated seven illnesses and
+conditions as the costliest to treat and created a program called the âSeven Nosologiesâ whereby
+the central government would cover the costs associated with treating these illnesses and
+conditions. MS was one of the seven nosologies, and Copaxone was approved as a treatment for
+MS. Beginning in or around 2008, the Russian governmentâs purchases of Copaxone were
+primarily made by the Ministry of Health at annual auctions.
+
+21. Throughout 2008, internal Teva emails detailed Russian Officialâs influence as a
+government official, and Tevaâs management in Russia and Israel knew that Russian Official
+was a government official and expected that he would use his official position to Tevaâs
+advantage. For example, in a 2008 executive summary addressing Russian Distributor, a Teva
+Russia executive stated: ââTransparency of [Russian Distributor] should be considered as low.
+Ownership structure is fully opaque. Participation of [Russian Official] and probably some other
+local government officials in the ownership structure is well-known. Companyâs top
+management is weak as management, but strong with its government contacts and lobbying
+power. Companyâs organisation structure unlikely is developed, and existence of business
+processes is questionable.â
+
+22. In October 2008, Teva executives met with Russian Official at his home in Israel.
+
+The meeting was arranged by Russian Distributorâs Director of Sales and Marketing.
+a gt ~ Py PP PR TN PRINS RS PA on ee ca end Ph he wee ot nan PTE Â¢ -~ PA, aden dh PPE PTR TA
+TR PRPORXX* SN Docurent it Enfered an FLSD Docket LDP erPeot
+aX Sod FST PA ANS, AP AAS LA EE ERS PR A hee SEX EAA LS Rents Saat Ras! PRENSA  Ge a SA ot
+
+23. Shortly after the meeting, in October 2008, Russian Distributorâs Director of
+Sales and Marketing emailed one of the Teva executives present at the meeting. The email
+stated that Russian Distributor was âinterested to participate in the delivery and distribution of
+Copaxone,â and explained that the Russian government had already âdefinedâ the governmentâs
+order for Copaxone for 2009. The email also mentioned possible âfuture scenariosâ that could
+affect the âdecision makingâ related to Copaxone sales, reminded Teva that Russian Official had
+had âpersonal involvement ... in the introduction of Copaxone and other important healthcare
+initiatives in Russia,â and explained that âit will be beneficial for Teva to grant the distribution
+of Copaxone to [Russian Distributor] in full or partially.â
+
+24. In 2008, Russian Distributorâs President was under investigation for corruption in
+Russia after allegedly making illegal payments to officials working in a Russian government
+agency. At least by October 2008, senior Teva and Teva Russia executives were aware of this
+investigation.
+
+25. In January 2009, Teva learned that its insurer would no longer insure Russian
+Distributorâs receivables if Russian Distributor defaulted on any of its debts to Teva. Despite
+numerous red flags about Russian Official and Russian Distributor, Teva continued to conduct
+business with Russian Distributor and used Russian Distributor for new tenders (the formal
+process by which pharmaceutical companies were invited to submit bids to supply drugs to the
+Russian government).
+
+26. In 2009, the Russian government launched a new initiative for the pharmaceutical
+industry called âPharma 2020,â which directed the state to purchase all pharmaceutical products
+
+primarily from local producers by the year 2020. As a first step of this initiative, the government
+:
+Rea Re ae
+
+announced that all strategic lifesaving pharmaceutical products would now be required to be
+produced in Russia by 2020.
+
+27. As a result of this development, Teva began looking for a Russian company that
+would be capable of repackaging and distributing Copaxone in Russia.
+
+28. Russiaâs bi-annual MS government tender was scheduled to be held in the fourth
+quarter of 2010, and Teva sought to have a local packager in place prior to the tender.
+
+29. Starting in early August 2010, Teva began to focus exclusively on Russian
+Distributor, despite knowing that Russian Official was still a government official, and despite
+documented concerns regarding the transparency of Russian Distributorâs structure. At this time,
+Teva was continuing to use Russian Distributor for other smaller Russian government tenders.
+For example, in August 2010 Teva used Russian Distributor as a distributor for a Russian
+oncology tender. And while some Teva Russia employees noted in emails that they did not plan
+to give Russian Distributor any additional discounts related to certain oncology drugs, a Teva
+Russia executive replied that such additional discounts were âthe cost of building a relationship
+with [Russian Official],â adding that âthis year, there was a substantial increase in the Copaxone
+requests from the Russian Academy of Medical Sciences,â and that Teva Russia âmay benefit
+from [Russian Officialâs] support in other areas as well.â Shortly thereafter, Russian Distributor
+sent correspondence to Teva requesting a large discount.
+
+30. In September 2010, Teva employees began raising concerns regarding using
+Russian Distributor as a distributor due to the fact that Russian Distributor had failed to timely
+pay Tevaâs bills in their prior business dealings. In fact, after Teva employees raised concerns, a
+Teva Russia executive forwarded an email to senior management in Israel stating: âWe suggest
+
+to cooperate [sic] with [Russian Distributor] to launch Copaxone local production. Russian
+
+âTay PROEORIÂ¥Y KRY N  Bincurment 1 Entererban FES Docket TPieerPeaig Pane 8 at 21
+aN. Sed oh PT PANES, 4 Mah bRAl dk ak tee PENG ERAS REEF ati? LAOORESE belle hea PCAMGRS & Mab ak
+Case 1:16-cv-25298-XXXX Document 1 Entered on FLSD Docket 12/22/2016 Page 9 of 21
+
+Distributor is headed by [Russian Official] a representative from [a region in Russia] to Council
+of Federation of Russian Federation. He is a Deputy Chairman of [a Federation Council
+Committee] and he has a position of Chairman of [another government committee].... [Russian
+Official]âs political network makes him a strong partner from market access stand point. The
+plan is to utilize his contacts to secure our shares and minimize generics risks.â
+
+31. Despite such concerns, Teva employees moved forward to sign a deal with
+Russian Distributor quickly. First, the relationship with Russian Distributor was likely to be
+highly profitable, and Teva management expected that it would continue to be very lucrative in
+the future, potentially generating approximately $67 million more in revenue in 2011 than had
+been originally estimated. Second, Russian Official threatened to damage Tevaâs market share
+in Russia if Teva did not select Russian Distributor. Teva Russia employees met with Russian
+Official, and subsequently sent a summary of this meeting to a Teva Russia executive stating, in
+part, that Russian Official had told him that the Minister of Health âhad returned from a vacation
+and asked in the morning if there was a confirmation that the entire project .. . would take
+place.â Russian Official then threatened that âboth the price and the supply volumes [of
+Copaxone] would be purposefully lowered if a partnership with him was not established.â
+
+32. On September 12, 2010, a Teva Russia executive emailed a finance executive in
+the Copaxone business unit and other Teva executives in Israel to provide the rationale for the
+new scheme of Copaxone business in Russia. In the email, he asked for their approval of the
+proposed exclusive repackaging and distribution agreement with Russian Distributor. The email
+also forwarded an earlier email from another Teva Russia executive that explained that âif we do
+not have the supply agreement approved and signed by [the] mid[dle] of this week we will
+
+encounter very real threat of losing a 100 million USD Copaxone business in 2011.â
+Case 1:16-cv-25298-XXXX Document 1 Entered on FLSD Docket 12/22/2016 Page 10 of 21
+
+33. In September 2010, Tevaâs proposed Copaxone agreement with Russian
+Distributor passed Tevaâs FCPAâs approval process, yet Tevaâs due diligence forms omitted
+critical information. For example, although the forms did disclose that Russian Distributorâs
+owner was the spouse of a Russian politician, they failed to disclose that the politician in
+question ran Russian Distributorâs operations and would be hired in part with the expectation that
+he could influence the decisions of the Ministry of Health (such as obtaining more funding for
+Copaxone purchases by the state), obtain approval in federal program tenders, obtain faster drug
+registrations, and increase market access and secure Tevaâs market share. It also failed to
+disclose that Russian Distributorâs President was under investigation for corruption despite the
+fact that Teva employees were aware of the investigation.
+
+34. On or about October 28, 2010, despite knowing that Russian Official was a
+government official who would be used by Teva, among things, for his influence and to increase
+market access, Teva executives signed a contract with Russian Distributor for repackaging and
+distribution of Copaxone in Russia. Russian Distributor then began providing repackaging and
+distribution services.
+
+35. On or about November 12, 2010, the Russian Ministry of Health awarded Russian
+Distributor the contract to supply the Russian government with Copaxone for 2011.
+
+36. Teva directly and indirectly made use of the mails and of the means and
+instrumentalities of interstate commerce in connection with and in furtherance of its illegal
+payments to Russian Official through Russian Distributor. Teva sent and responded to a number
+of emails to the Russian Distributorâs President that were sent through U.S. servers. For
+
+example, in or around November 2010, Teva Russia employees corresponded with Russian
+
+10
+Case 1:16-cv-25298-XXXX Document 1 Entered on FLSD Docket 12/22/2016 Page 11 of 21
+
+Distributorâs President about the delivery of Copaxone in Russia using emails sent through U.S.
+servers.
+
+37. In December 2010, a Teva Russia executive emailed Tevaâs regional executive,
+stating: âThe dilemma [Russian Official] faces is how to protect his positions under conditions
+when state funded business in Russia is becoming transparent. Besides building relationships
+with him I see the following tasks for the meeting: (1) keep him as our loyal buyer (2) obtain his
+commitment in protecting Copaxone (access to the Minister and MoH [Ministry of Health]
+decision makers, leveraging Senate capabilities), push him to demand more funding for
+Copaxone already in early 2011 ({a Teva Russia Copaxone Unit executive] reports potential in
+another 400 patients/5000 packs/$4,5m sales).â
+
+38. In 2011, Teva Russia hired a new executive, formerly employed at a large U.S.
+pharmaceutical company. After learning that Teva was conducting business with Russian
+Distributor, the new Teva Russia executive informed another Teva Russia executive that his
+former employer prohibited its employees from conducting business with Russian Distributor
+based on corruption concerns. The second Teva Russia executive, who believed that Russian
+Official had significant influence in both the Parliament and the Russian Ministry of Health, told
+the new executive not to worry about it and that due diligence into Russian Distributor had been
+conducted by Teva.
+
+39, In part as a result of Tevaâs relationship with Russian Distributor, the quantity of
+Copaxone sales in Russia increased over time and Copaxoneâs market share grew.
+
+AO. Between October 2010 and at least December 2012, Russian Distributorâs margin,
+
+not including repackaging and distribution costs, from its relationship with Teva was
+
+11
+Case 1:16-cv-25298-XXXX Document 1 Entered on FLSD Docket 12/22/2016 Page 12 of 21
+
+approximately $65 million. Tevaâs discounts to Russian Distributor were larger on average than
+discounts given to other distributors Teva used in Russia.
+
+41. In December 2012, Teva Russiaâs management became aware that a prominent
+U.S. pharmaceutical company had been charged by the Commission for FCPA violations in part
+as a result of making illegal payments to Russian Official and his companies.
+
+42. Russian Official remained a high-ranking government official until March 2013,
+when he resigned his position. Teva ceased its relationship with Russian Distributor in August
+2013. In 2016, Teva lost the last Copaxone tender, and ultimately lost its entire Copaxone
+market share in Russia.
+
+43. Teva mischaracterized its payments to Russian Distributor as legitimate
+reductions of revenue in its books and records. As a result, Teva did not, in reasonable detail,
+accurately and fairly reflect its payments to Russian Distributor in its books and records.
+
+B. Tevaâs Illegal Payments in Ukraine
+
+44. From at least May 2002 through March 2011, Teva agreed to pay, and did pay, a
+then-prominent Ukrainian government official (âUkrainian Officialâ) more than $200,000, and
+paid for his vacations to Israel on at least five occasions, in exchange for his improper political
+influence in the process of registering and promoting various Teva drugs in Ukraine.
+
+45. Throughout that time period, Ukraine had a socialized healthcare system, with the
+national Ministry of Health coordinating the provision of healthcare to its citizens with regional
+and local counterparts. Most healthcare services were provided through government-owned
+healthcare facilities. Pharmaceutical products were regulated by agencies under the Ukrainian
+Ministry of Health. In Ukraine, drugs were permitted for marketing and sale in Ukraine only
+
+after registration by the state, which included clinical testing and examination as part of the
+
+12
+approval process. In Ukraine, since at least 2007, medications for certain socially significant or
+especially serious illnesses, including MS, were dispensed free by the government.
+
+A6. Ukrainian Official held a number of roles and positions in the government of
+Ukraine, including Deputy Director of one of the Institutes of the National Academy of Medical
+Science since at least 2000, Vice President of the National Academy of Medical Sciences since
+at least 2005, advisor to the sitting Presidentâs administration from 2005 to 2009, Deputy
+Chairman of the Interagency Workgroup for the Issues of Price-Formation for Drugs and Other
+Medicinal Products, and Member of the Scientific and Expert Council of the State
+Pharmacological Center of Ukraine. In those roles and official positions, Ukrainian Official had
+the ability to influence the Ukrainian governmentâs decision to approve the registration of
+pharmaceutical products.
+
+47. Beginning in 2002 and at least until 2009, Teva entered into numerous
+agreements, signed by Teva executives, with Ukrainian Official whereby he would be
+compensated for assisting Teva with registering its drugs in Ukraine and corruptly influencing
+the registration of its pharmaceutical products, including Copaxone, among other activities.
+
+48. Teva directly and indirectly made use of the mails and of the means and
+instrumentalities of interstate commerce in connection with and in furtherance of its illegal
+payments to Ukrainian Official. For example, although some of the compensation Ukrainian
+Official received from Teva was in cash, at least seven payments were wired through U.S.
+correspondent banks.
+
+49. The invoices for Ukrainian Officialâs services noted that he was paid for the
+
+registrations of Teva drugs, including Copaxone.
+
+13
+Case 1:16-cv-25298-XXXX Document 1 Entered on FLSD Docket 12/22/2016 Page 14 of 21
+
+50. During the same time period, Teva also paid for Ukrainian Official to visit Israel
+numerous times (traveling in business class), and on at least one occasion his wife traveled with
+him. For example, one request to authorize payment to Ukrainian Official stated, Ukrainian
+Official âis helping us very much in advancing Copaxone and Insulins in the Ukrainian market.
+One of the ways of settling our account with him is funding his trip to Israel once a year.â The
+request included travel expenses for both Ukrainian Official and his wife.
+
+51. Teva stopped paying Ukrainian Official at the end of 2009. Teva Ukraine LLC,
+Tevaâs wholly-owned subsidiary in Ukraine since at least 2010, took over the payments in early
+2010 to honor the agreement with Ukrainian Official, and paid Ukrainian Official through March
+31, 2011.
+
+52. Teva mischaracterized its payments to Ukrainian Official as legitimate sales and
+marketing expenses and consultancy fees in its books and records. As a result, Teva did not, in
+reasonable detail, accurately and fairly reflect its payments to Ukrainian Official in its books and
+records.
+
+C. Tevaâs Illegal Payments in Mexico
+
+53. In 2011 and 2012, Tevaâs subsidiary and distributor in Mexico made illegal
+payments to doctors employed at government hospitals, government officials under the FCPA, to
+obtain business valued at approximately $16,865,489.
+
+54. Throughout that time period, Mexico had a public healthcare system that provided
+universal healthcare to Mexican citizens. The cost of the public healthcare, including medical
+care and drug treatments, was subsidized by the federal government. Most healthcare services
+
+were provided through government-owned healthcare facilities.
+
+14
+SPT SPN NU A ae Gee
+pe PROSE MRM Pines
+ME en Fe LT IN PRN, Rah SPREE
+
+ 
+
+4 mesh
+fees
+feo
+prt,
+ad
+i
+er
+
+55. In 2007, a number of employees in Tevaâs Latin American Division (âTeva
+Miamiâ) became concerned that Teva Mexico may have violated the FCPA.
+
+56. For example, they heard that a Teva Mexico manager routinely entertained
+Mexican government officials at a Cancun hotel to increase sales of Teva drugs in Mexico. At
+the time, Teva Mexico did not report to Teva Miami, but instead reported directly to Teva.
+
+57. On or about February 23, 2007, an anonymous letter was delivered to a Teva
+internal auditor stating, among other things, that Teva Mexico was authorizing illicit payments to
+government officials as an incentive to increase sales.
+
+58. As a result of that letter, Teva initiated an internal investigation in 2007. The
+internal investigation was completed in 2008, and found credible evidence of illegal payments by
+Teva Mexico to government officials in Mexico to influence regulatory and formulary approvals,
+drug purchase decisions, and prescription decisions, and to develop strategic advantages over
+competitors. Eleven Teva Mexico employees were terminated in connection with the
+investigation.
+
+59. After the investigation, Tevaâs internal accounting controls were still not
+sufficient to meet the risks posed by Tevaâs business in Mexico. As a result, sporadic
+misconduct in Mexico continued and several Mexican doctors employed at government hospitals
+continued to receive money from Teva Mexico to prescribe Teva drugs.
+
+60. In 2011, Teva Mexicoâs Innovative Business Unit was in charge of Copaxone
+sales in Mexico. In early 2011, Teva decreased Teva Mexicoâs promotional budget for
+
+Copaxone. A Teva Mexico manager requested that the budget be increased, but the request was
+
+denied.
+
+15
+61. Shortly thereafter, the Teva Mexico manager told a subordinate, another manager,
+
+that the money that the doctors had been previously receiving as part of the promotions budget
+would now be paid in cash by Teva Mexicoâs Copaxone distributor in Mexico.
+
+62. By this time, Teva had an anti-bribery policy in place, and it required that Teva
+Mexico conduct due diligence of third parties, such as distributors, and required that third parties
+sign an anti-corruption acknowledgement form. In the case of Teva Mexicoâs Copaxone
+distributor in Mexico, neither requirement was met.
+
+63. In April 2011, a Teva employee responsible for overseeing the implementation of
+the anti-corruption compliance program emailed a senior executive responsible for overseeing
+compliance in Latin America. The email stated that a senior Teva executive had âspecifically
+instructed not to implement a robust system that will enable us to monitor and assure that the
+same doctor wasnât invited to a meal more than three times (for example)â and that âthe purpose
+of the global FCPA tool under development is mainly to automate the manual forms; get a more
+organized and easy process of authorisations with less paper work.â
+
+64. In January 2012, another Teva Mexico executive and a subordinate met with two
+executives of Teva Mexicoâs Copaxone distributor in Mexico. The parties agreed that Teva
+Mexico would provide its Copaxone distributor in Mexico additional margins in its sales of
+Copaxone, through improper discounts.
+
+65. After the January 2012 meeting, the Teva Mexico manager then gave the same
+subordinate a list of doctors, their phone numbers, and the amounts of money that they should be
+paid. The Teva Mexico manager then directed the same subordinate to call the doctors who had
+been receiving money from Teva and inform them that they would continue to be paid.
+
+Consistent with those assurances, Teva Mexico continued to pay Mexican doctors in 2012.
+
+16
+Case 1:16-cv-25298-XXXX Document 1 Entered on FLSD Docket 12/22/2016 Page 17 of 21
+
+66. All doctors paid were health care providers at state-owned and state-controlled
+hospitals, working under the direction and control of the Mexican government. Some of these
+doctors employed at government hospitals were influential neurologists. Most of the doctors
+who were paid by Teva Mexicoâs Copaxone distributor in 2011 and 2012 had also received
+illegal payments in or around 2007.
+
+67. Teva Mexico directly and indirectly made use of the mails and of the means and
+instrumentalities of interstate commerce in connection with and in furtherance of its illegal
+payments to Mexican officials. For example, a Teva Mexico manager corresponded with Teva
+Mexicoâs Copaxone distributor in Mexico about the delivery of cash to the Mexican officials
+using emails sent and stored on U.S. servers.
+
+68. Teva Mexico through its Copaxone distributor paid the Mexican officials between
+$9,600 and $30,000 each per year to influence their Copaxone prescription decisions. In 2012,
+Teva paid Mexican officials approximately $159,000.
+
+69. Teva Mexico mischaracterized its payments to Mexican officials as legitimate
+reductions of revenue in its books and records. As a result, Teva did not, in reasonable detail,
+accurately and fairly reflect in its books and records its payments to Mexican officials. Teva
+Mexicoâs inaccurate books and records and financial statements were consolidated into Tevaâs
+financial statements, which were filed with the Commission.
+
+Failure to Maintain Adequate Internal Controls
+
+70. Teva failed to devise and maintain an adequate system of internal accounting
+controls. For example, Teva instituted a Code of Business Conduct (âCode of Conductâ) in
+February 2006. The Code of Conduct contained a section on the FCPA which prohibited
+
+employees âfrom directly or indirectly authorizing, offering, promising or giving anything of
+
+17
+Case 1:16-cv-25298-XXXX Document 1 Entered on FLSD Docket 12/22/2016 Page 18 of 21
+
+value to a foreign government official as a means of influencing or inducing the official to obtain
+or retain business for Teva.â Additionally, the Code of Conduct contained a section on financial
+reporting that prohibited âfalse, artificial, misleading, or deceptive entries [ | in any of the books,
+records or accounts of the Company.â
+
+71. Teva failed to take reasonable steps to publicize or enforce its Code of Conduct.
+Despite the existence of the Code of Conduct, employees were not familiar with the Code of
+Conductâs prohibitions and were not trained about the FCPA or the implications of dealing with
+doctors employed at government hospitals or government tenders.
+
+72. Teva first learned of potential violations of the FCPA in Latin America in 2007,
+and its internal investigation, confirming FCPA violations, was completed in 2008. Yet, Teva
+only rolled out an Anti-Corruption Policy in Latin America in 2009 at the behest of Teva
+Miamiâs management. And despite conducting business in a number of high risk countries, Teva
+did not roll out a global Anti-Corruption policy until the summer of 2010, three years after
+learning of the first FCPA issues, and Teva employees did not begin to receive training until that
+time. The Anti-Corruption Policy had a number of requirements that were not implemented in
+time to prevent Tevaâs illegal payment schemes. For example, the Anti-Corruption policy
+required that due diligence be conducted on third parties such as distributors. However, in some
+cases Teva did not attempt to conduct due diligence on third parties until 2013.
+
+CLAIMS FOR RELIEF
+FIRST CLAIM
+
+Unlawful Payments to Foreign Government Officials in Violation of
+Section 30A of the Exchange Act
+
+73. Paragraphs | through 72 are re-alleged and incorporated by reference.
+
+18
+Case 1:16-cv-25298-XXXX Document 1 Entered on FLSD Docket 12/22/2016 Page 19 of 21
+
+T4. As described above, Teva, through its officers, directors, employees, or agents
+corruptly offered, promised to pay, or authorized unlawful payments to one or more persons,
+while knowing that all or a portion of those payments would be offered, given, or promised,
+directly or indirectly, to foreign officials for the purposes of influencing their acts or decisions in
+their official capacity, inducing them to do or omit to do actions in violation of their lawful
+duties, securing an improper advantage, or inducing such foreign officials to use their influence
+with a foreign government or instrumentality thereof to assist Teva in obtaining or retaining
+business.
+
+75. By reason of the foregoing, Teva violated, and unless enjoined, is reasonably
+likely to continue to violate the anti-bribery provisions of the FCPA, as codified at Section 30A
+of the Exchange Act [15 U.S.C. Â§ 78dd-1].
+
+SECOND CLAIM
+
+Failure to Keep Accurate Books and Records in Violation of
+Section 13(b)(2)(A) of the Exchange Act
+
+76. Paragraphs | through 72 are re-alleged and incorporated by reference.
+
+77. As described above, Teva, through its officers, agents, subsidiaries, and affiliates,
+failed to make and keep books, records, and accounts which, in reasonable detail, accurately and
+fairly reflected its transactions and dispositions of its assets.
+
+78. By reason of the foregoing, Teva violated, and unless enjoined, is reasonably
+likely to continue to violate the books-and-records provisions of the FCPA, as codified at Section
+
+13(b)(2)(A) [15 U.S.C. Â§ 78m(b)(2)(A)].
+
+19
+Case 1:16-cv-25298-XXXX Document 1 Entered on FLSD Docket 12/22/2016 Page 20 of 21
+
+THIRD CLAIM
+
+Failure to Devise and Maintain Internal Accounting Controls in Violation of
+Section 13(b)(2)(B) of the Exchange Act
+
+79. Paragraphs | through 72 are re-alleged and incorporated by reference.
+
+80. As described above, Teva, through its officers, directors, employees, or agents
+acting on its behalf, failed to devise and maintain a system of internal accounting controls
+sufficient to provide reasonable assurances that: (1) payments were made in accordance with
+managementâs general or specific authorization; and (41) payments were recorded as necessary to
+permit preparation of financial statements in conformity with generally accepted accounting
+principles or any other criteria applicable to such statements, and to maintain accountability for
+its assets.
+
+81. By reason of the foregoing, Teva violated, and unless enjoined, is reasonably
+likely to continue to violate the internal-accounting-controls provisions of the FCPA, as codified
+at Section 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(B)].
+
+PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court enter a judgment:
+
+A. Permanently enjoming Teva from violating Sections 30A, 13(b)(2)(A), and
+13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78dd-1; 78m(b)(2)(A) and (B)].
+
+B. Ordering Teva to disgorge ill-gotten gains, with prejudgment interest, wrongfully
+obtained as a result of its illegal conduct.
+
+C. Granting such further relief as the Court may deem just and appropriate.
+
+D. Further, the Commission respectfully requests that the Court retain jurisdiction
+over this action in order to implement and carry out the terms of all orders and decrees that it
+
+may enter, or to entertain any suitable application or motion by the Commission for additional
+
+20
+Case 1:16-cv-25298-XXXX Document 1 Entered on FLSD Docket 12/22/2016 Page 21 of 21
+
+relief within the jurisdiction of this Court.
+
+Dated: December 22, 2016
+
+Of Counsel:
+
+Thierry Olivier Desmet
+
+Assistant Director, FCPA Unit
+
+Fla. Bar No. 0143863
+
+U.S. Securities and Exchange Commission
+801 Brickell Avenue, Suite 1800
+
+Miami, Florida 33131
+
+Respectfully submitted,
+
+s/ Jenny Trotman
+
+Jenny Trotman
+
+Senior Counsel
+
+Court ID No. A5501913
+Direct Dial: (305) 982-6379
+E-mail: trotmanj @sec.gov
+
+Russell Koonin
+
+Senior Trial Counsel
+
+Fla. Bar No. 474479
+
+Direct Dial: (305) 982-6385
+
+E-mail: kooninr@sec.gov
+
+Attorneys for Plaintiff
+SECURITIES AND EXCHANGE
+COMMISSION
+
+801 Brickell Avenue, Suite 1800
+Miami, Florida 33131
+
+Telephone: (305) 982-6300
+Facsimile: (305) 536-4154
+
+21

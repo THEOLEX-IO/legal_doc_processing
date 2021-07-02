@@ -1,0 +1,317 @@
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ 
+
+CASE NUMBER 1:04CV01141
+
+SECURITIES AND EXCHANGE COMMISSION, :
+
+JUDGE: R ie B. Waiton
+450 Fifth Street, N.W. egg
+
+Washington, D.C. 20549, : DECK TYPE: General Civil
+Plaintiff, | DATE STAMP: 07/06/2004
+Vv.
+COMPLAINT
+ABB LTD,
+Affolternstrasse 44
+
+Zurich, Switzerland CH-8050,
+
+Defendant.
+
+ 
+
+Plaintiff Securities and Exchange Commission (the âCommissionâ) alleges that:
+SUMMARY
+
+l. From 1998 through early 2003, ABBâs U.S. and foreign-based subsidiaries doing
+business in Nigeria, Angola and Kazakhstan, offered and made illicit payments totaling over $1.1
+million to government officials in these countries. These paymentsâat least $865,726 of which
+were made after ABB became a reporting company in the United States in April 2001âwere
+made to influence acts and decisions by these foreign officials to assist ABBâs subsidiaries in
+obtaining and retaining business, and were made with the knowledge and approval of certain
+management level personnel of the relevant ABB subsidiaries. ABB also lacked any meaningful
+internal controls to prevent or detect such illicit payments, and improperly recorded these
+
+payments in its accounting books and records.
+2. As a result of the foregoing illicit payments, ABB violated the anti-bribery
+provisions of the Foreign Corrupt Practices Act of 1977, as amended (the âFCPAâ), which are
+codified as Section 30A of the Exchange Act [15 U.S.C. Â§ 78dd-1]. During the period in which
+these payments were made, ABB obtained or retained business in Nigeria, Angola and
+Kazakhstan that generated profits totaling at least $5,501,157. Moreover, by improperly
+recording these illegal payments, ABB violated the books-and-records provisions of the FCPA,
+codified as Section 13(b)(2)(A) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(A)]. Finally, by
+failing to devise or maintain an effective system of internal controls to prevent or detect these
+violations of the FCPA, ABB violated the internal accounting controls provisions of the FCPA,
+codified as Section 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(B)].
+
+JURISDICTION
+
+3. This Court has jurisdiction pursuant to Sections 21(d)(3) and 27 of the Securities
+Exchange Act of 1934 (the âExchange Actâ), 15 U.S.C. Â§Â§ 78u(d)(3) and 78aa. In connection
+with the conduct described herein, the defendant made use of the mails and/or the means or
+instrumentalities of interstate commerce.
+
+DEFENDANT
+
+4. Defendant ABB Ltd (âABBâ) is a Swiss corporation with its headquarters in
+Zurich, Switzerland. ABB is a global provider of power and automation technologies. ABB has
+numerous direct and indirect subsidiaries, including ABB Vetco Gray, Inc. (âVetco Gray U.S.â),
+a U.S. subsidiary headquartered in Houston, Texas, that do business in the United States and in
+some 100 foreign countries. ABBâs American Depository Shares are registered with the
+
+Commission pursuant to Section 12(b) of the Exchange Act, 15 U.S.C. Â§ 78/(b), and have been
+traded on the New York Stock Exchange since April 6, 2001. As a foreign private issuer, ABB
+
+files annual reports with the Commission on Form 20-F.
+
+FACTS
+A. Nigeria
+
+5. At all relevant times, ABB conducted business in Nigeria through ABB Vetco
+Gray Nigeria Ltd. (âVetco Gray Nigeriaâ), which was 60% owned by Vetco Gray UK, with the
+remainder owned by Nigerian nationals. Vetco Gray Nigeriaâs business in Nigeria included oil
+and gas-related contracts with the Nigerian government. At all relevant times, Vetco Gray UK
+and Vetco Gray U.S. often jointly marketed Vetco Grayâs services in Nigeria. In addition, other
+ABB affiliates not licensed to bid independently in Nigeria bid on projects through Vetco Gray
+Nigeria. After ABB became a reporting company in the United States in April 2001, the
+financial results of Vetco Gray Nigeria, Vetco Gray UK, and Vetco Gray U.S. were components
+of the consolidated financial statements included in ABBâs filings with the Commission.
+
+6. From at least 1998 through 2001, employees of Vetco Gray U.S. and Vetco Gray
+UK provided cash and gifts to officials of the National Petroleum Investment Management
+Service (âNAPIMSâ), the Nigerian state-owned agency responsible for overseeing Nigeriaâs
+investment in petroleum exploration and production. These illicit paymentsâmade to NAPIMS
+officials both directly and indirectly through a party that acted as a conduit (the âIntermediaryââ)
+âwere part of a wide-ranging scheme to influence NAPIMSâ consideration of Vetco Gray
+Nigeria bids on oil and gas projects in Nigeria.
+
+7. In particular, these payments were intended to (1) induce and reward NAPIMS
+
+officialsâ provision of confidential and proprietary information regarding its evaluations of
+competing bids and thereby provide a competitive advantage to Vetco Gray Nigeria in bidding
+for projects; and (2) to secure favorable consideration on Vetco Gray Nigeria bids from
+NAPIMS, whose approval was required to receive contract awards.
+
+8. The largest of these payments totaled $845,300â$620,000 of which was paid
+after ABB became a reporting company in the United Statesâand related to the Bonga Project, a
+contract to provide undersea equipment for drilling in Nigeriaâs offshore Bonga Oil Field. The
+main phase of the Bonga Project was awarded to Vetco Gray Nigeria in February 2001 and,
+thereafter, the company delivered on its pre-award promise to compensate NAPIMS officials
+who had been instrumental in its selection. The Bonga Project alone generated approximately
+$187,775,000 in revenues for ABB.
+
+9. Vetco Gray UK made these payments for the Bonga Project through the
+Intermediary, and under cover of false invoices characterizing them as payments for consulting
+services rendered by the Intermediaryâs companies. After receiving the payments, the
+Intermediary, in turn, passed the funds on to NAPIMS officials. At least $100,000 of these funds
+were wiredâin July 2001âinto the U.S. bank account of a NAPIMS official.
+
+10. Vetco Gray U.S. and Vetco Gray UK employees caused numerous other illicit
+offers and payments to be made to NAPIMS officials in connection with Vetco Gray Nigeriaâs
+competition for at least five other contracts. Most of the payments were made directly in the
+United States, in the form of cash and gifts, by an employee of Vetco Gray U.S. (the
+âEmployeeâ), using the Employeeâs corporate credit card and cash advances that were funded by
+Vetco Gray U.S. and Vetco Gray UK. The Employee paymentsâwhich were improperly
+
+recorded as ordinary business expenses in ABBâs books and recordsâbegan as early as 1999 and
+continued through 2001, with the Employeeâs last such payment being reimbursed in February
+2002.
+
+11. All of the direct and indirect payments to NAPIMS officials, including the
+payments on the Bonga Project, were known to and approved by employees of Vetco Gray UK
+and/or Vetco Gray U.S. Indeed, Vetco Gray UKâs West Africa sales manager personally
+approved many of the payments. In December 2001âin the midst of ABBâs campaign to make
+illicit offers and payments to NAPIMS officialsâNAPIMS awarded ABB the âAboâ project, a
+contract that generated revenues of $46,200,000, and yielded profits of $2,600,000 for the
+company.
+
+12. In all, between 1998 and the end of 2001, ABBâs U.S. and UK subsidiaries made
+illicit payments totaling more than $1.1 million to Nigerian government officials at NAPIMSâat
+least $719,000 of which were made after ABB became a reporting company in the United States.
+All of these illicit payments were improperly recorded as ordinary business expenses in ABBâs
+books and records.
+
+B. Angola
+
+13. At all relevant times, ABB conducted business in Angola through its Vetco Gray
+U.S. and UK subsidianes. That business was comprised of oil and gas-related contracts that
+ABB entered into with the Angolan government that were administered by Sonangol, the
+Angolan state-owned oil company. After ABB became a public reporting company in April
+2001, the financial results of ABBâs Angolan operations were a component of the consolidated
+
+financial statements included in ABBâs filings with the Commission.
+14. Just as it had done in Nigeria, ABBâs subsidiaries made corrupt payments to
+Angolan government officials during a period beginning before, and continuing after, ABB
+became a reporting company in the United States. The payments were made to Sonangol
+engineers who had responsibility for the technical evaluation of bids submitted to Sonangol, and
+were issued in the context of three separate training trips sponsored by ABB from 2000 to 2002:
+twice to the United States and Brazil, and once to Norway and the United Kingdom. In each
+instance, ABBâs Vetco Gray U.S. and UK subsidiaries paid all the travel, meals, lodging and
+entertainment expenses of the Sonangol engineers, and also provided them with cash spending
+money of $120 to $200 per day, at a time when Angolaâs gross annual per capita income was just
+$710.
+
+15. | These cash paymentsâmade for the purpose of obtaining or retaining business
+with Sonangolâwere passed out to the Sonangol engineers prior to their departures for each trip,
+and were improperly recorded in ABBâs books and records. The cash payments made in
+connection with the second U.S. tripâwhich began in April 2001, after ABB had become a U.S.
+reporting companyâwere made to five Sonangol officials, totaled $21,600 ($4,320 apiece), and
+were distributed by ABBâs country manager for its Angola operations (the âCountry Managerâ)
+from a brown paper bag.
+
+16. To fund the payments, ABBâs subsidiaries employed various, elaborate, circuitous
+schemes designed to disguise both the source and the nature of these funds. For example, in one
+such scheme, an Angolan company whose principals were social friends of the Country Manager,
+fronted the money for the illicit payments and was reimbursed by a Florida company, which, in
+
+turn, was reimbursed by ABBâs Vetco Gray subsidiaries through the use of misleading invoices.
+17. | The Angolan officials who received the training trips and the âper diemâ
+payments were described by Vetco Gray senior management in contemporaneous documents as
+âfuture decision-makers for Sonangolâ in âkey positions.â At least one of the Angolan officials
+provided confidential competitor information in relation to ABBâs bid for a Sonangol contract.
+
+18. Sonangol awarded two contracts to ABB, in May 2002 and March 2004,
+respectivelyâboth after the âper diemâ bribes had been madeâthat generated revenues of
+$11,249,000 and yielded profits of $1,480,000 for ABB.
+
+19. The âper diemâ payments were made despite the warning of an in-house attorney
+for one of ABBâs U.S. subsidiariesâa warning given a week before the first training trip in
+2000âthat the payments amounted to a âred flagâ and a potential âviolation of the FCPA.â All
+of these illicit payments were improperly recorded as ordinary business expenses in ABBâs books
+and records.
+
+C. Kazakhstan
+
+20. At all relevant times, ABB conducted its oil and gas business in Kazakhstan
+through two entities: (1) ABBâs Kazakhstan-based subsidiary, ABB Kazakhstan Ltd. (âABB
+KZâ), and (ii) Vetco Gray U.S. In April 2001, Vetco Gray U.S. entered into a wellhead supply
+contract with TengizChevroil (âTCOâ), and ABB KZ entered into the related TCO service
+contract.
+
+21. TCO was a joint venture that was 20% owned by Kazakhstanâs state oil company,
+KazMunaiGas. Under inter-company accounting agreements, ABB KZ charged back to Vetco
+
+Gray U.S. its full costs plus 10% on all services and deliveries to the TCO projects. Throughout
+the relevant period, the financial results of ABB KZ and Vetco Gray U.S. were a component of
+the consolidated financial statements included in ABBâs filings with the Commission.
+
+22. In December 2001, ABB KZ began making payments to Kazakhstan companies .
+owned by ABB KZâs former sales manager who was, at the time of the payments, a government
+official employed in Kazakhstanâs state oil and gas companies (the âOfficialâ). These payments,
+which continued through February 2003, totaled $125,126, and were made for the purpose of
+assisting in obtaining or retaining Kazakhstan government business for Vetco Gray U.S. and
+ABB KZ. By June 2004, the TCO contract generated $11,841,857 in revenues and $1,421,157 in
+profits for ABB.
+
+23. In 2002, ABB KZ provided to Vetco Gray U.S., using the means or
+instrumentalities of interstate commerce, a request that it reimburse the first $83,000 of these
+payments pursuant to its inter-company accounting agreements with ABB KZ. Although Vetco
+Gray ultimately refused to do so, based on concerns about the propriety of the payments, it did
+nothing to recover the first $83,000 in payments already made or to stop the flow of more than
+$40,000 in further payments to the Officialâs companies that were subsequently made by ABB
+KZ.
+
+24. In all, six payments were made to five separate entities owned by the Official for
+the purposes of assisting in obtaining or retaining business. These payments were made pursuant
+to sham contracts for purportedly legitimate consulting services related to the maintenance of
+drilling equipment. No legitimate services were ever performed pursuant to these agreements
+
+and the illicit payments were documented with phony invoices to mislead ABB's auditors. All of
+these illicit payments were improperly recorded as ordinary business expenses in ABBâs books
+
+and records.
+
+FIRST CLAIM
+[Violations of Exchange Act Section 30A]
+
+25. Paragraphs | through 24 are re-alleged and incorporated by reference.
+
+26. As described above, ABB, through certain of its United States and foreign
+subsidiaries, corruptly offered and made illicit payments, through money and gifts, to foreign
+officials for the purposes of influencing their acts or decisions and inducing them to use their
+influence to assist ABB in obtaining or retaining business with foreign government entities.
+Throughout the relevant period, the recipients of these illicit payments were foreign officials
+within the meaning of the FCPA.
+
+27. By reason of the foregoing, ABB violated the anti-bribery provisions of the
+FCPA, as codified at Exchange Act Section 30A [15 U.S.C. Â§ 78dd-1].
+
+SECOND CLAIM
+[Violations of Exchange Act Section 13(b)(2)(A)]
+
+28. Paragraphs 1 through 27 are re-alleged and incorporated by reference.
+
+29. As described above, ABB, through its subsidiaries, failed to make and keep
+books, records, and accounts which, in reasonable detail, accurately and fairly reflected its
+transactions and dispositions of its assets. By reason of the foregoing, ABB violated the books-
+and-records provisions of the FCPA, as codified at Exchange Act Section 13(b)(2)(A) [15 U.S.C.
+
+Â§ 78m(b)(2)(A)].
+THIRD CLAIM
+[Violations of Exchange Act Section 13(b)(2)(B)]
+
+30. Paragraphs 1 through 29 are re-alleged and incorporated by reference.
+
+31. As described above, with respect to improper payments to foreign officials, ABB
+and certain of its United States and foreign subsidiaries failed to devise and maintain a system of
+internal accounting controls sufficient to provide reasonable assurances that: (i) transactions were
+executed in accordance with management's general or specific authorization; and (ii) transactions
+were recorded as necessary to permit preparation of financial statements in conformity with
+generally accepted accounting principles or any other criteria applicable to such statements, and
+to maintain accountability for its assets.
+
+32. | Byreason of the foregoing, ABB violated the internal accounting controls
+provisions of the FCPA, as codified at Exchange Act Section 13(b)(2)(B) [15 U.S.C. Â§
+78m(b)(2)(B)].-
+
+PRAYER FOR RELIEF
+
+WHEREFORE, plaintiff respectfully requests that this Court:
+
+(a) permanently enjoin ABB from violating Sections 30A [15 U.S.C. Â§ 78dd-1],
+13(b)(2)(A) [15 U.S.C. Â§ 78m(b)(2)(A)], and 13(b)(2)(B) [15 U.S.C. Â§ 78m(b)(2)(B)] of the
+Exchange Act;
+
+(b) order ABB to pay disgorgement of ill-gotten gains, together with prejudgment
+interest thereon, deriving from the conduct set forth in this complaint;
+
+(c) order ABB to pay a civil penalty pursuant to Exchange Act Sections 21(d)(3) and
+
+32(c) [15 U.S.C. Â§Â§ 78u(d)(3) and 78ff(c)]; and
+
+10
+(d) grant such other relief as the Court deems appropriate.
+
+Dated: July 2 , 2004
+
+Respectfully submitted,
+
+   
+
+ 
+ 
+
+fen GO)
+Paul R. Berger (D.C. Bar No. 375526)
+Robert B. Kaplan
+
+James L. Buck (D.C. Bar No. 421878)
+James J. Bresnicky (D.C. Bar No. 453713)
+
+Samuel J. Draddy
+
+Attorneys for Plaintiff
+
+Securities and Exchange Commission
+450 Fifth Street, N.W.
+
+Washington, D.C. 20549-0806
+
+(202) 942-2803
+
+(202) 942-9630 (Kaplan fax)
+
+11

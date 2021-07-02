@@ -1,0 +1,486 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE MIDDLE DISTRICT OF NORTH CAROLINA
+
+U.S. COMMODITY FUTURES TRADING
+COMMISSION,
+Plaintiff,
+
+1:16CV226
+
+Vv.
+
+L. THOMAS, a/k/a TRAYTON L.
+THOMAS, a/k/a TREY THOMAS, a/k/a
+TRAY THOMAS, a/k/a T. L. THOMAS,
+
+)
+
+)
+
+)
+
+)
+
+)
+
+)
+
+TRACY LEE THOMAS, a/k/a TREYTON )
+)
+
+)
+
+And MARBURY ADVISORS INC., )
+)
+
+)
+
+Defendants.
+
+ORDER AND JUDGMENT
+
+This matter is before the Court on the Motion for Final Judgement by Default,
+Permanent Injunction, Civil Monetary Penalty, and Other Statutory and Equitable Relief
+against Defendants. (ECF No. 18.)
+
+On Match 22, 2016, Plaintiff U.S. Commodity Futures Trading Commission (âCFTCâ)
+filed a Complaint charging Defendants Tracy Lee Thomas, a/k/a Treyton L. Thomas, a/k/a
+Trayton L. Thomas, a/k/a Trey Thomas, a/k/a Tray Thomas, a/k/a T.L. Thomas
+(âThomasâ) and Marbury Advisors Inc. (âMarburyâ) (collectively âDefendantsââ) with
+fraudulent misrepresentations and omissions in violation of Section 4b(a)(1)(A)-(C) of the
+Commodity Exchange Act, as amended (the âActââ), 7 U.S.C. Â§ 6b(a)(1)(A)-(C) (2012).
+
+Defendant Thomas was timely and personally served a copy of the Summons and
+
+Complaint in this action on December 5, 2016, (ECF No. 12), and also via publication in The
+
+Case 1'16-cv-002276-|L_CB-LPA Document 20 Filed 04/11/17 Pane 1of 15
+(Charlottesville) Daily Progress and Greensboro News Record with the last date of publication on
+October 22, 2016. (ECF Nos. 14, 15). Defendant Marbury was served a copy of the Summons
+and Complaint via its designated agent, Interactive Brokers LLC (âInteractiveâ)! on August 1,
+2016, and also via its agent Thomas on December 5, 2016. (ECF Nos. 13, 16). Defendantsâ
+Answer was due December 27, 2016 and Defendants failed to answer or otherwise plead,
+therefore, on January 9, 2017, the Clerk of the Court entered defaults against Defendants
+Thomas and Marbury. (ECF No. 17.)
+
+The CFTC has moved this Court to grant final judgement by default against Defendants,
+order permanent injunctive relief, and impose a restitution obligation and a civil monetary
+penalty.
+
+The Court, having carefully considered the Complaint, the allegations which are well-
+pleaded and hereby taken as true, the CFTCâs memorandum in support of its motion for
+default judgement, the declarations and exhibits thereto, the record in this case, and the Court
+being otherwise advised in the premises,
+
+Accordingly, the Court makes findings of fact, conclusions of law, and enters an Order
+of Final Judgment by Default, Permanent Injunction, Civil Monetary Penalties, and Other
+Statutory and Equitable Relief (âOrderâ) pursuant to Section 6c and 6d of the Act, 7 U.S.C. Â§
+
+13a-1 (2012), as set forth herein.
+
+ 
+
+"CFTC Regulation 15.05(b) designates the futures commission merchant (âFCMâ) for accounts of
+foreign brokers or foreign traders as the agent for service of process. 17 C.F.R. Â§ 15.05(b) (2016).
+
+Case 1'16-cv-002276-|LCB-LPA Document 20 Filed 04/11/17 Pane 2? of 15
+FINDINGS OF FACT AND CONCLUSIONS OF LAW
+I. Findings of Fact
+
+A. The Parties
+
+1. U.S. Commodity Futures Trading Commission is an independent federal
+reeulatory agency charged by Congress with the responsibility for administering and enforcing
+the provisions of the Act, 7 U.S.C. Â§Â§ 1 eÃ© seg., and the Regulations promulgated thereunder,
+17 CLELR. QQ 1 et seg.
+
+2. Defendant Tracy Lee Thomas (âUhomasââ) was a resident of Naples, Florida,
+during the Relevant Period charged in the Complaint, February 2011 through August 2012
+(âRelevant Periodâ). Thomas was the Managing Director of Defendant Marbury. Thomas
+has never been registered with the CFTC in any capacity.
+
+3. Defendant Marbury Advisors Inc. (âMarburyâ) was a Cayman Islands
+
+corporation during the Relevant Period and has never been registered with the CFTC in any
+
+ 
+
+capacity.
+B. Defendantsâ Fraudulent Scheme
+4. During the Relevant Period, Defendants engaged in a fraudulent scheme by
+
+soliciting approximately $1,189,000 from customers by misrepresenting that Defendants
+would invest in âTreasury Bills on their behalf, misrepresenting Defendantsâ prior investment
+and trading success, and misrepresenting that Thomas would manage customer funds in a
+conservative manner; and by not disclosing that Defendants used customersâ funds to trade
+Chicago Mercantile Exchange (âCMEâ) E-mini S&P 500 futures contracts (âE-miniâ) and
+
+Chicago Board of Trade (ââCBOTââ) 2-Year Treasury Note futures contracts, not disclosing the
+
+Case 1'16-cv-002276-|LCB-LPA Document 20 Filed 04/11/17 Pane 3 of 15
+substantial risk of loss associated with commodity futures trading in which all of the
+customersâ funds could be lost, and not disclosing the net losses that Defendants sustained
+trading commodity futures with customersâ funds.
+
+5. Between 2006 and 2010, Marbury opened several accounts at Interactive, a
+registered Futures Commission Merchant (âPCMâ). Thomas maintained trading authority
+overt Marburyâs accounts at Interactive. None of Marburyâs accounts at Interactive, including
+account ending 0342, were net profitable.
+
+6. In or around March 2009, Defendants obtained control over a trust account at
+Fidelity Bank (as trustee) in the name of N.C. & VA. Warranty Inc. (âNCVAâ). NCVA ts a
+North Carolina corporation owned by âThomasâ late father, Ronnie Thomas, which sold
+automobile warranty policies to car dealerships and was located in Roxboro, North Carolina.
+Thomas represented to his late father that Defendants were successful investing in âTreasury
+Bills (âT-Billsââ) for other customers using an algorithm designed by Thomas and that
+Defendants would invest the money in this trust account to obtain higher returns through safe
+(non-risky) investments in â[â-Bills.
+
+7. Beginning in or around April 2010, Thomas solicited Steven Matthews
+(âMatthewsâ), to invest in â[â-Bills through Defendants. Matthews owns Matthews Motors
+Inc., a car dealership in Clayton, North Carolina, which conducted business with NCVA. In
+an email dated February 14, 2011, Thomas represented to Matthews that Thomas would use
+
+>
+
+Matthewsâ funds to conservatively invest in the âT-Bill/Treasury program,â which would
+average 4% profitable returns. Thomas also told Matthews that Defendants had been
+
+successful in their prior investments and trading. Between December 2011 and August 2012,
+
+Case 1'16-cv-002276-LCB-LPA Document 20 Filed 04/11/17 Pane 4of15
+Matthews made several investments totaling approximately $595,000 with Thomas by wiring
+ot providing funds to NCVAâs bank account, which Thomas controlled, and with the
+expectation that Defendants would invest in T-Bills.
+
+8. In or around December 2010, Thomas solicited his father-in-law, William Stone
+(âStoneââ), to invest in Treasury Bills or âT-Billsâ through Marbury. Thomas falsely
+represented to Stone that Defendants were successful in their prior business and trading
+activities and the funds would be used to invest in âsafeâ and âconservativeâ T-Bills. Between
+February 2011 and August 2011, Stone made several investments with Defendants and wired
+a total of approximately $594,000 to the NCVA trust account controlled by Thomas.
+
+9. However, Defendants never invested the customer funds in âTreasury Bills or
+T-Bills. Instead, Defendants diverted customer funds by wiring the funds first to Marburyâs
+bank account in the Cayman Islands and then to Marburyâs futures trading account ending
+0342 at Interactive. Defendants primarily traded 2-year Treasury Note futures and E-mini
+futures with these customersâ funds in this account and ultimately lost their funds.
+
+10. Defendants misrepresented to customers that their prior investments and
+trading activities were successful, when in fact, Defendants prior investment and trading
+activities were net unprofitable.
+
+11. Defendants mispresented to customers that they would use customer funds to
+invest âIâ-Bills, when in fact, Defendants intended and did trade on-exchange commodity
+futures with the customersâ funds.
+
+12. Defendants never disclosed to these customers that their investments were used
+
+to trade on-exchange commodity futures.
+
+Case 1'16-cv-002276-LCB-LPA Document 20 Filed 04/11/17 Pane 5 of 15
+13. During the Relevant Period, Defendants provided Stone and Matthews with
+false reports or statements indicating their investments were profitable in Treasury Bills or T-
+Bills. These false statements caused Stone and Matthews to make investments throughout the
+Relevant Period.
+
+14. Defendants also attempted to conceal their fraudulent conduct from others.
+Thomas provided Fidelity Bank, the trustee of the NCVA trust account, with fabricated
+Interactive account statements showing investments in Treasury Bills when, in fact, no such
+accounts of investments existed. âThomas also falsely represented to Interactive that Marbury
+had no U.S. customers when, in fact, Defendants had transferred funds from U.S. resident
+customers (Stone and Matthews) to Marburyâs account at Interactive.
+
+15. At all times described herein, Thomas acted knowingly or recklessly when he
+made the above-referenced misrepresentations and omissions of material facts..
+
+16. In total, Defendants used approximately $1,189,000 from customers to engage
+in commodity futures trading on the Chicago Mercantile Exchange. Defendants returned
+$78,587 to the defrauded customers. Customersâ net losses proximately caused by Defendants
+are $1,110,413. Defendantsâ net gain, therefore, was $1,110,413.
+
+TT. Conclusions of Law
+
+A. Jurisdiction and Venue
+
+17. âThis Court has jurisdiction over this action pursuant to Section 6c(a) of the Act,
+7 U.S.C. Â§ 13a-1, which provides that whenever it shall appear to the CFTC that any person
+has engaged, is engaging, or is about to engage in any act or practice constituting a violation
+
+of any provision of the Act or the Regulations, the CFTC may bring an action in the proper
+
+Case 1'16-cv-002276-|LCB-LPA Document 20 Filed 04/11/17 Pane 6 of 15
+district court of the United States against such person to enjoin such practice, or to enforce
+compliance with the Act, or any rule, regulation, or order thereunder.
+
+18. Venue properly lies with this Court pursuant to Section 6c(e) of the Act, 7
+U.S.C. Â§ 13a-1(e) (2012), because certain of the transactions, acts, practices, and courses of
+business occurred, are occurring, and/or are about to occur in this District, among other
+places.
+
+B. Fraud by Misrepresentations and Omissions (Count 1)
+
+19. Sections 4b(a)(1)(A)-(C) of the Act, 7 U.S.C. Â§ 6b(a) (1) (A)-(Â©), make it unlawful
+for any person, in or in connection with any order to make, or the making of, any contract of
+sale of any commodity in interstate commerce or for future delivery that is made, or to be
+made, on or subject to the rules of a designated contract market, for or on behalf of any other
+person (A) to cheat or defraud or attempt to cheat or defraud the other person; (B) willfully
+to make or cause to be made to the other person any false report or statement thereof; or (C)
+willfully to decetve or attempt to deceive the other person by any means whatsoever in regard
+to any order or contract or the disposition or execution of any order or contract, or in regard
+to any act of agency performed, with respect to any order or contract for the other person.
+
+20. By the conduct described in paragraphs 1 through 16 above, Defendants, tn
+connection with commodity futures transactions subject to the rules of a designated contract
+market and made for or on behalf of other persons, cheated and defrauded or attempted to
+cheat and defraud other persons, willfully made or caused to be made to other persons false
+reports or statements, and willfully deceived or attempted to deceive other persons by:
+
+a) Misrepresentinge Defendantsâ prior investment and_ trading
+
+Case 1'16-cv-002276-|LCB-LPA Document 20 Filed 04/11/17 Pane 7 of 15
+successes which were actually net unprofitable;
+
+b) Misrepresenting that Defendants would manage funds in a
+
+conservative manner by investing in Tâ-Bills when Defendants intended
+
+and did trade on-exchange commodity futures; and
+
+c) Failing to disclose: 1) that Defendants misused customer funds to
+
+trade on-exchange commodity futures, 11) the substantial risks associated
+
+with futures trading, and i) that Defendants lost customer funds
+
+through futures trading;
+all in violation of Sections 4b(a)(1)(A)-(C) of the Act, 7 U.S.C. Â§Â§ 6b(a)(1)(A)-(C).
+
+21. Section 2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1)(B) (2012), and CFTC Regulation
+1.2, 17 C.F.R. Â§ 1.2 (2016), provide that the âact, omission, or failure of any official, agent, or
+other person acting for any [...] partnership [...] within the scope of his employment or office
+shall be deemed the act, omission, or failure of such [...] partnership ....â Strict liability 1s
+imposed upon principals for the actions of their agents acting within the scope of their
+employment. Because Thomas committed his fraudulent violations while acting as an official,
+employee or agent of Marbury acting within the scope of his employment or office, Defendant
+Marbury is also liable for âThomasâ violations of the Act pursuant to Section 2(a)(1)(B) of the
+Act, 7 U.S.C. Â§ 2(a)(1)(B), and Regulation 1.2., 17 C.F.R. Â§ 1.2.
+22. CFTCâs Motion for Final Judgment by Default, Permanent Injunction, Civil
+
+Monetary Penalties, and Other Statutory and Equitable Relief against each Defendant is
+GRANTED, and pursuant to Section 6c of the Act, 7 U.S.C. Â§ 13a-1, Defendants are
+
+permanently restrained, enjoined and prohibited from directly or indirectly:
+
+Case 1'16-cv-002276-LCB-LPA Document 20 Filed 04/11/17 Pane 8 of 15
+a. Cheating or defrauding or attempting to cheat or defraud other persons,
+willfully making or causing to be made to other persons any false report
+or statement or causing to entered for others persons any false record,
+and/or willfully deceiving or attempting to deceive other persons by any
+means whatsoever, in or in connection with any order to make, or the
+making of, any contract of sale of any commodity in interstate commerce
+or for future delivery that is made or to be made on or subject to the
+
+rules of a designated contract market, for or on behalf of any other
+person in violation of Sections 4b(a)()(A)-(C) of the Act, 7 U.S.C. Â§
+6b(a)()(A)-(C).
+23. Defendants are also permanently restratned, enjoined and prohibited from
+directly or indirectly:
+
+a. Trading on or subject to the rules of any registered entity (as that term
+is defined in Section la(40) of the Act, 7 U.S.C. Â§ la(40) (2012));
+
+b. Entering into any transactions involving "commodity interests" (as that
+term is defined in Regulation L.3(yy), 17 C.-P.R. Â§ 1.3(yy) (2016)) for their
+personal account or for any account in which they have a direct or
+indirect interest;
+
+c. Having any commodity interests traded on their behalf;
+
+d. Controlling or directing the trading for or on behalf of any other person
+or entity, whether by power of attorney or otherwise, in any account
+
+involving commodity interests;
+
+Case 1'16-cv-002276-LCB-LPA Document 20 Filed 04/11/17 Pane 9 of 15
+e. Soliciting, receiving or accepting any funds from any person for the
+purpose of purchasing or selling any commodity interests;
+
+f. Applying for registration or claiming exemption from registration with
+the CFTC in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the CFTC, except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2016);
+and/or
+
+e. Acting as a principal (as that term is defined in Regulation 3.1(a), 17
+C.F.R. Â§ 3.1(a) (2016)), agent or any other officer or employee of any
+person (as that term is defined in Section la(38) of the Act, 7 U.S.C. Â§
+la(38) (2012)) registered, exempted from registration or required to be
+registered with the CP'T'C except as provided for in Regulation 4.14(a) (9),
+17 C.ELR. Â§ 4.14(a)(9).
+
+24. Defendants shall pay restitution, jointly and severally, in the amount of
+$1,110,413 (one million, one hundred ten thousand, four hundred thirteen dollars) plus post-
+judement interest (the âRestitution Obligationââ). Post-judgment interest shall accrue on the
+Restitution Obligation beginning on the date of entry of this order and shall be determined by
+using the Treasury Bill rate prevailing on the date of entry of this Order pursuant to 28 U.S.C.
+Â§ 1961 (2012).
+
+25. âTo effect payment of the Restitution Obligation and the distribution of any
+restitution payments to customers, the Court appoints the National Futures Association
+
+("NFA") as Monitor ("Monitor"). The Monitor shall collect restitution payments from
+
+10
+
+Case 1:16-cv-00226-LCB-LPA Document 20 Filed 04/11/17 Page 10 of 15
+Defendants and make distributions as set forth below. Because the Monitor is acting as an
+officer of this Court in performing these services, the NFA shall not be liable for any action
+of inaction arising from NF A's appointment as Monitor, other than actions involving fraud.
+
+26. Defendants shall make Restitution Obligation payments under this Order to the
+Monitor in the name "Tracy L. Thomas/Marbury Advisors Fund" and shall send such
+Restitution Obligation payments by electronic funds transfer, or by U.S. postal money order,
+certified check, bank cashier's, or bank money order, to the Office of Administration, National
+Futures Association, 300 South Riverside Plaza, Suite 1800, Chicago, Illinois 60606 under
+cover letter that identifies the paying Defendants and the name and docket number of this
+proceeding. Defendants shall stmultaneously transmit copies of the cover letter and the form
+of payment to the Chief Financial Officer, Commodity Futures Trading Commission, âThree
+Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
+
+27. The Monitor shall oversee the Restitution Obligation and shall have the
+discretion to determine the manner of distribution of such funds in an equitable fashion to
+the defrauded customers identified by the CFTC or may defer distribution until such time as
+the Monitor deems appropriate. In the event that the amount of Restitution Obligation
+payments to the Monitor are of a de minimis nature such that the Monitor determines that the
+administrative cost of making a distribution to eligible customers is impractical, the Monitor
+may, in its discretion, treat such restitution payments as civil monetary penalty payments,
+which the Monitor shall forward to the CFTC following the instructions for civil monetary
+
+penalty payments set forth in below.
+
+11
+
+Case 1:16-cv-002276-LCB-LPA Document 20 Filed 04/11/17 Page 11 of 15
+28. Defendants shall cooperate with the Monitor as appropriate to provide such
+information as the Monitor deems necessary and appropriate to identify customers to whom
+the Monitor, tn its sole discretion, may determine to include in any plan for distribution of any
+Restitution Obligation payments. Defendants shall execute any documents necessary to
+release funds that Defendants have in any repository, bank, investment or other financial
+institution, wherever located, in order to make partial or total payment toward the Restitution
+Obligation.
+
+29. The Monitor shall provide the CFTC at the beginning of each calendar year
+with a report detailing the disbursement of funds to customers during the previous year. âThe
+Monitor shall transmit this report under a cover letter that identifies the name and docket
+number of this proceeding to the Chief Financial Officer, Commodity Futures Trading
+Commission, Uhree Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
+
+30. To the extent that any funds accrue to the U.S. Treasury for satisfaction of
+Defendantsâ Restitution Obligation, such funds shall be transferred to the Monitor for
+disbursement in accordance with the procedures set forth above.
+
+31. Defendants shall pay, jointly and severally, a civil monetary penalty in the
+amount of $3,331,239 (three million three hundred thirty-one thousand two hundred thirty
+nine dollars) plus post-judement interest (the âCMP Obligationâ), which represents triple the
+monetary gain of $1,110,413 to Defendants. Post-judement interest shall accrue beginning on
+the date of entry of this Order and shall be determined by using the Treasury Bull rate prevailing
+
+on the date of entry of this Order pursuant to 28 U.S.C. Â§ 1961.
+
+12
+
+Case 1:16-cv-002276-LCB-LPA Document 20 Filed 04/11/17 Page 1? of 15
+32. Defendants shall pay the CMP Obligation by electronic funds transfer, U.S.
+postal money order, certified check, bank cashierâs check, or bank money order. If payment
+is to be made by other than electronic funds transfer, Defendants shall make the payment
+payable to the Commodity Futures Trading Commission and send it to the following address:
+
+Commodity Futures Trading Commission
+
+Division of Enforcement
+Attention: Accounts Receivables
+
+DOT/FAA/MMAC/AMZ-341
+
+CFTC/CPSC/SEC
+
+6500 South MacArthur Boulevard
+
+Oklahoma City, OK 73169
+
+Telephone: (405) 954-7262
+
+Fax: (405) 954-1620
+If the payment is to be made by electronic funds transfer, Defendants shall contact Nikki
+Gibson or her successor at the above address to recetve payment instructions and shall fully
+comply with those instructions. Defendants shall accompany the payment of the CMP
+Obligation with a cover letter that identifies the payer, the name and docket number of this
+proceeding, and the name of the Court. Defendants shall stmultaneously transmit copies of
+the cover letter and form of payment to: (a) the Director, Division of Enforcement,
+Commodity Futures Trading Commission, 1155 21st Street, NW, Washington, DC 20581; and
+(b) the Chief, Office of Cooperative Enforcement, Division of Enforcement, 1155 215* Street,
+NW, Washineton, D.C. 20581.
+
+33. Partial Satisfaction: Acceptance by the CFTC of any partial payment of
+
+Defendantsâ Restitution Obligation or CMP Obligation shall not be deemed a waiver of their
+
+obligation to make further payments pursuant to this Order, or a waiver of the CPTCâs right
+
+to seek to compel payment of any remaining balance.
+
+13
+
+Case 1:16-cv-002276-LCB-LPA Document 20 Filed 04/11/17 Page 13 of 15
+34. Notice: All notices required to be given by any provision in this Order shall be
+
+sent certified mail, return receipt requested, as follows:
+
+Notice to the CFTC:
+Manal Sultan, Deputy Director
+CFTC Division of Enforcement
+140 Broadway, 19th Floor
+New York, NY 10005
+
+Notice NFA:
+Daniel Driscoll, Vice President/COO
+National Futures Association
+300 S. Riverside Plaza, Suite 1800
+Chicago, IL 60606-3447
+
+35. Change of Address/Phone: Until such time as Defendants satisfy in full the
+Restitution Obligation and CMP Obligation as set forth in this Order, Defendants shall
+provide written notice to the CFTC by certified mail of any change to their telephone number
+and mailing address within ten (10) calendar days of the change.
+
+36. â Invalidation: If any provision of this Order or if the application of any provision
+or circumstance is held invalid, then the remainder of this Order and the application of the
+provision to any other person or circumstance shall not be affected by the holding.
+
+37. Continuing Jurisdiction of this Court: This Court shall retain jurisdiction of this
+action to ensure compliance with this Order and for all other purposes related to this action,
+including any motion by Defendants to modify or for relief from the terms of this Order.
+
+38. â_Injunctive and Equitable Relief Provisions: The tnjunctive and equitable relief
+
+provisions of this Order shall be binding upon Defendants, upon any person under the
+
+authority or control of any of the Defendants, and upon any person who receives actual notice
+
+14
+
+Case 1:16-cv-002276-LCB-LPA Document 20 Filed 04/11/17 Page 14 of 15
+of this Order, by personal service, e-mail, facsimile or otherwise insofar as he or she is acting
+
+in active concert or participation with Defendants.
+IT ISSO ORDERED.
+
+This, the 11 day of April, 2017.
+
+/s/ Loretta C. Biggs
+United States District Judge
+
+15
+
+Case 1:16-cv-002276-LCB-LPA Document 20 Filed 04/11/17 Page 15 of 15

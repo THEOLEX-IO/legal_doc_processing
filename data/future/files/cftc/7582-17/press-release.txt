@@ -1,0 +1,59 @@
+Release Number 7582-17
+June 29, 2017
+
+CFTC Orders Rosenthal Collins Capital Markets LLC, Now Known as DV Trading LLC, to
+Pay a Civil Penalty of $5 Million for Engaging in Illegal Wash Sales Designed to Generate
+Exchange Rebate Fees
+
+Former RCCM Trader Brandon Elsasser also Ordered to Pay $200,000
+for Similar Unlawful Trading Conduct
+
+Washington DC - The U.S. Commodity Futures Trading Commission (CFTC) today announced the filing and
+simultaneous settlement of charges against Rosenthal Collins Capital Markets, LLC, now known as DV Trading LLC
+(RCCM), of Chicago, Illinois, for engaging in illegal wash sales in order to generate rebates of exchange fees based upon
+increased trading volumes.
+
+The CFTC Order requires RCCM to pay a $5 million civil monetary penalty and cease and desist from violating Section
+A4c(a) of the Commodity Exchange Act (CEA) and Commission Regulation 1.38(a), as charged. A separate CFTC Order
+finds that former RCCM trader, Brandon Elsasser (Elsasser), entered illegal wash sales and requires him to pay a
+$200,000 civil monetary penalty, and orders him to cease and desist from violating CEA Section 4c(a) and Commission
+Regulation 1.38(a), as charged.
+
+Three Different Strategies
+
+The CFTC Order finds that from early 2013 until July 2015, proprietary traders at RCCM engaged in three different wash
+trading strategies in order to generate rebates through the Eurodollar Pack and Bundle Market Maker Program (Program)
+offered by Chicago Mercantile Exchange, Inc. (CME). Under the terms of the Program, RCCM had certain quoting
+obligations and, in return, it could earn rebates in the form of fee credits for its trading in the Program.
+
+The Order specifically finds that in early 2013, in order to generate the firmâs desired level of rebates apart from actual
+market conditions, an RCCM trader evaded RCCMâs wash blocking system in order to trade against himself and generate
+rebates. He continued generating rebates using wash trades until his trading was detected and RCCM tightened its wash
+blocking system.
+
+The Order further finds that a few months later, two RCCM traders began engaging in prolonged periods of scratch
+trading, that is, buying and selling opposite each other, in order to generate the rebates. They continued trading in that
+manner until the CME informed RCCM that it would exclude trades among RCCM traders from the rebate calculations.
+
+Brandon Elsasser Order
+
+Shortly after that time, RCCM trader Elsasser discovered a third strategy in which he could trade against himself in
+rebate-eligible products and avoid detection using the exchangeâs implied matching engine to buy and sell contracts.
+The Elsasser Order, also filed on June 29, 2017, finds that Elsasser engaged in fictitious trading strategies in order to
+generate rebates from the Program.
+
+RCCMâs compliance efforts did not detect or investigate any of these strategies until they were brought to RCCMâs
+attention by regulatory inquiries, the Order finds. In total, RCCM earned rebates on approximately 300,000 Eurodollar
+contracts through more than 8,000 wash transactions while trading in the market maker program.
+
+The CFTC thanks and acknowledges the assistance of the CFTCâs Division of Market Oversight and the CME Group, Inc.
+
+The following Division of Enforcement staff members are responsible for this matter: Lindsey Evans, Elizabeth N.
+Pendleton, Joseph Patrick, Jeffrey Gomberg, Heather Dasso, Jason Fairbanks, Ava Gould, Scott R. Williamson, and
+Rosemary Hollinger.
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: June 29, 2017

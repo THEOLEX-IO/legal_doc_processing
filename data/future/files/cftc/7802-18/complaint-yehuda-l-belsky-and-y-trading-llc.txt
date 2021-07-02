@@ -1,0 +1,897 @@
+Case 1:18-cv-05408 Document1 Filed 09/26/18 Page 1 of 24 PagelD #: 1
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+
+ 
+
+COMMODITY FUTURES TRADING
+
+ 
+
+ 
+
+COMMISSION,
+CIVIL ACTION NO, _1:18-cv-5408
+Plaintiff,
+Judge
+V.
+ECF Case
+
+YEHUDA L. BELSKY AND Y TRADING, LLC,
+
+Defendants.
+
+ 
+
+ 
+
+COMPLAINT FOR INJUNCTIVE AND OTHER EQUITABLE RELIEF,
+RESTITUTION, AND CIVIL MONETARY PENALTIES
+UNDER THE COMMODITY EXCHANGE ACT
+
+Plaintiff, Commodity Futures Trading Commission (âCommissionâ or âCFTCâ), by its
+
+attorneys, alleges as follows:
+I. SUMMARY
+
+1. Since at least June 22, 2015, through the present (the âRelevant Periodâ),
+Defendant L. Yehuda Belsky (âBelskyâ) a.k.a. Jay Bell, acting individually and on behalf of
+Defendant Y Trading, LLC (âY Trading,â and together with Belsky, âDefendantsâ), has engaged
+in a fraudulent scheme to solicit at least $1,258,000 from at least fourteen customers to trade
+binary options on the North American Derivatives Exchange, Inc. (âNadexâ) in violation of the
+Commodity Exchange Act (âActâ), 7 U.S.C. Â§Â§ 1-27f (2012), and the regulations promulgated
+thereunder (âRegulationsâ), 17 C.F.R. pts. 1-190 (2017).
+
+2. In solicitations of customers Belsky, acting both as an individual and at times
+through Y Trading, made false and misleading claims including, but not limited to, that he: (1)
+was an expert binary options trader; (2) had a record of profitable binary options trading; and (3)
+
+was successfully trading binary options on behalf of multiple customers at the time.
+3. Belsky solicited funds from prospective customers in order to conduct two
+distinct fraudulent schemes. With regard to the first scheme, Belsky induced some customers to
+send Defendants at least $719,000 to trade binary options on their behalf. With regard to the
+second scheme, Belsky induced customers into authorizing him to trade at least $539,000 of
+customer funds in the customersâ Nadex binary options trading accounts.
+
+4. Belsky omitted material facts in his solicitations including, but not limited to, that
+he: (1) was misappropriating customer funds; (2) had no binary options trading account in the
+name of Y Trading or in his own name from which to trade binary options; and (3) along with a
+company Belsky previously owned, Innovative Capital Management, LLC (âInnovativeâ), had
+been the subject of a December 19, 2008 Commission Order (â2008 Orderâ) finding that Belsky
+and Innovative had committed a $1,250,000 fraud and lied to the National Futures Association
+(âNFAâ), a registered futures association, during a routine audit.
+
+5. By surreptitiously trading binary options on Nadex, an online binary options
+exchange that is registered with the Commission as a Designated Contract Market (âDCMâ) and
+a Derivatives Clearing Organization (âDCOâ), using some of his customersâ credentials, Belsky
+violated the 2008 Order.
+
+6. On February 21, 2018, during investigative testimony under oath before the
+Commission, Belsky made false or misleading statements of material facts, or omitted to state in
+any such statements material facts that were necessary to make any statements of material fact
+made not misleading in any material respect, while he knew, or reasonably should have known,
+the statements he made to be false or misleading.
+
+7. By virtue of this conduct and conduct further described herein, Belsky, either
+
+directly or as a controlling person, has engaged, is engaging, or is about to engage in acts and
+Case 1:18-cv-05408 Document1 Filed 09/26/18 Page 3 of 24 PagelD #: 3
+
+practices in violation of the Act and Regulations, specifically Sections 4m(1), 40(1)(A) and (B),
+6(c)(2), and 6c(a) of the Act, 7 U.S.C. Â§Â§ 6m(1), 60(1)(A), (B), 9(2), 7 U.S.C. Â§ 13a-1(a) (2012),
+and Defendants have engaged, are engaging, or are about to engage in acts and practices in
+violation of the Act and Regulations, specifically Section 4c(b) of the Act, 7 U.S.C. Â§ 6c(b)
+(2012), and Regulation 32.4(a) and (c), 17 C.F.R. Â§ 32.4(a), (c) (2017).
+
+8. Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), the
+Commission brings this action to enjoin such acts and practices and compel compliance with the
+Act and Regulations. In addition, the Commission seeks civil monetary penalties and remedial
+ancillary relief including, but not limited to, trading and registration bans, restitution,
+disgorgement, post-judgment interest, and such other relief as the Court may deem necessary and
+appropriate.
+
+9. Unless restrained and enjoined by this Court, Defendants are likely to continue to
+engage in the acts and practices alleged in this Complaint and similar acts and practices, as more
+fully described below.
+
+II. JURISDICTION AND VENUE
+
+10. Jurisdiction. This Court possesses jurisdiction over this action pursuant to 28
+U.S.C. Â§ 1331 (2012) (codifying federal question jurisdiction) and 28 U.S.C. Â§ 1345 (2012)
+(providing that U.S. district courts have original jurisdiction over civil actions commenced by the
+United States or by any agency expressly authorized to sue by Act of Congress). In addition,
+Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), provides that United States district courts possess
+jurisdiction to hear actions brought by the Commission for injunctive relief or to enforce
+compliance with the Act whenever it shall appear to the Commission that such person has
+
+engaged, is engaging, or is about to engage in any act or practice constituting a violation of any
+Case 1:18-cv-05408 Document1 Filed 09/26/18 Page 4 of 24 PagelD #: 4
+
+provision of the Act or any rule, regulation, or order thereunder. The offered binary options at
+issue in this action constitute âoptionsâ pursuant to Section 4c(b) of the Act, 7 U.S.C. Â§ 6c(b)
+(2012), because the assets underlying them were âcommoditiesâ pursuant to Section 1a(9) or
+1(a)(19) of the Act, 7 U.S.C. Â§ 1a(9), (19) (2012).
+
+11. Venue. Venue properly lies with the Court pursuant to Section 6c(e) of the Act, 7
+U.S.C. Â§ 13a-1(e) (2012), because Defendants transacted business in this District, and acts and
+practices in violation of the Act and Regulations occurred, are occurring, or are about to occur
+within this District.
+
+Hl. THE PARTIES
+
+12. Plaintiff Commodity Futures Trading Commission is an independent federal
+regulatory agency charged by Congress with the administration and enforcement of the Act and
+Regulations.
+
+13. Defendant Yehuda L. Belsky is an individual residing in Brooklyn, New York.
+Belsky conducted business individually and as the sole owner and operator of Y Trading. Belsky
+and Innovative were the subjects of the 2008 Order, which found that they had engaged in
+fraudulent solicitation and misappropriation of customer funds in violation of Sections
+A4b(a)(2)(i), (i), and (iii) and 40(1)(A) and (B) of the Act, 7 U.S.C. Â§Â§ 6b(a)(2)G), (ai), (it),
+60(1)(A), (B) (2006), and made false statements to NFA in violation of Section 9(a)(4) of the
+Act, 7 U.S.C. Â§ 13(a)(4) (2006). The 2008 Order permanently prohibited Belsky from, among
+other things, trading on or subject to the rules of any registered entity, including any DCM, and
+ordered him to cease and desist from violating Section 40(1)(A) and (B) of the Act. Between
+2002 and 2008 Belsky was registered with the Commission as an associated person (âAPâ), and
+
+listed with NFA as principal, of Innovative.
+Case 1:18-cv-05408 Document1 Filed 09/26/18 Page 5 of 24 PagelD #: 5
+
+14. Defendant Y Trading, LLC is a New York limited liability company formed in
+February 2011. Until approximately December 2016, the firm conducted business at 40 Wall
+Street, fifth floor, New York, New York. Upon information and belief Belsky, the sole owner of
+Y Trading, operated the firm in an informal manner without keeping regular business records. Y
+Trading, through Belsky, solicits customer funds for the purported purpose of investing in binary
+
+options. Y Trading has never been registered with the Commission in any capacity.
+
+IV. FACTS
+A. Binary Options
+15. A binary option is a type of options contract in which the payout depends entirely
+
+on the outcome of a yes/no proposition, typically relating to whether the price of a particular
+asset that underlies the binary option will rise above or fall below a specified amount. Unlike
+other types of options, a binary option does not give the holder the right to purchase or sell the
+underlying asset. When the binary option expires, the option holder will receive either a pre-
+determined amount of cash or nothing at all.
+
+16. â Binary options are âoptions,â as defined by Section 1a(36) of the Act, 7 U.S.C.
+Â§ 1a(36) (2012), and binary options on commodity futures and âcommodities,â as defined by
+Section la(9) or (19) of the Act, 7 U.S.C. Â§ 1laQ), (19) (2012), are commodity option
+transactions pursuant to Section 4c(b) of the Act, 7 U.S.C. Â§ 4c(b) (2012), and Regulation 32.2,
+17 C.F.R. Â§ 32.2 (2017).
+B. Defendantsâ Fraudulent Solicitations and Omissions
+
+17. During the Relevant Period, Belsky, operating individually and at other times as
+Y Trading, induced customers to provide him with funds by touting his reputation as an expert
+
+binary options trader and offered finderâs fees to individuals who introduced customers to him.
+SO PAA fa ok > _ CN eR ae
+Â» a os tea ys oh oy a aie S oF MS eT PE Pe VS Reh ees te oN Foot ssa ew ea bd * .
+ary Sat sha wed Ege sea gy a : Ree PES ral wen ed S Rat REN ES EN ENE US BITE PY RES os ler os
+HASTAL YY MAY oat Aw APR EE ENED SR 8, PUPS Assey cok Ac} Mh RNS AS ASE alee PU SRLS EA PP. AS
+
+ne a
+
+18. Based on his purported binary options trading skills, Belsky provided paying
+customers with contracts that were six months in duration (âY Trading Agreementsâ). Belsky
+promised to pay some of his customers a fixed ten percent (10%) per month return, which
+equates to a one-hundred and twenty percent (120%) annual rate of return. Belsky promised
+other customers an unspecific share of the trading profits from his binary options trading.
+
+19. Despite using his customersâ funds for binary options trading, which was
+prohibited by the 2008 Order, Belsky attempted to conceal the fact that he was doing so by
+omitting any reference to binary options trading in the Y Trading Agreements. Instead, each Y
+Trading Agreement was captioned as an âAgreement/Noteâ and characterized the funds the
+customers provided to Belsky as six-month loans. Verbally, however, Belsky told these same
+customers that the their funds would be used to trade binary options and that the high rate of
+return he offered was as a result of his ability to engage in profitable binary options trading.
+
+20. Belsky supported his assertion that he was a successful binary options trader with
+false and misleading statements, including claiming that he had developed a trading method for
+binary options trading that produced consistent profits on behalf of multiple clients. In fact, his
+actual binary options trading had resulted in significant losses.
+
+21. From May 2017 to September 2017, Belsky also marketed himself and Y Trading
+through paid online social media and press releases. Through at least thirteen online press
+releases he sought to bolster his image as a binary options authority and to ârehabilitateâ his
+name by obscuring the 2008 Order. Belskyâs series of Newswire.com press releases echoed the
+sales pitch he made directly to customers and included the following claims:
+
+a. âBelsky is a highly respected financial expert and traderâ;
+
+b. âa world-renowned financial expert who has traded on
+various markets the world overâ;
+C. âhis greatest expertise is on binary options, and he has
+developed a method to make binary options trading more
+likely to be successfulâ; and
+
+d. âhonesty is another quality that sets him apart from other
+financial experts and traders.â
+
+22. When soliciting some of his customers for the purpose of trading binary options,
+Belsky presented himself under the false identity âJay Bell,â and drafted and signed agreements
+with customers who provided him with funds as âJay Bell.â âJay Bellâ was neither Belskyâs
+given name nor any legal name associated with his true name. On other occasions, Belsky also
+conducted business using his true name.
+
+23. By presenting himself to some customers as âJay Bell,â Belsky prevented them
+from conducting due diligence research that would have revealed his history of fraudulent
+financial activity and false statements found in the publicly-available 2008 Order that is
+connected with Belskyâs true name and not with his false identity âJay Bell.â
+
+24. When soliciting customers, Belsky assured them that his established and
+successful binary options trading methods had historically produced a high level of profits.
+
+25. Upon information and belief, all of the representations Belsky made about his
+trading expertise and ability to generate profits for customers by trading binary options were
+knowingly false when made.
+
+26. On February 28, 2017, Belsky provided one group of potential customers with a
+fabricated binary options trading account statement in the name of Y Trading, including with the
+Nadex name and logo, in order to bolster his false claims of conducting profitable binary options
+trading in his own or Y Tradingâs account. Other customers relied on his verbal claims of
+purported trading expertise and past profits.
+
+27. This fictional Y Trading Nadex account statement that Belsky used to mislead his
+
+prospective customers listed supposedly profitable binary options trades based on CME E-mini
+
+7
+Case 1:18-cv-05408 Document1 Filed 09/26/18 Page 8 of 24 PagelD #: 8
+
+Nasdag 100Â® Index Futures and CME E-mini S&P 500Â® Index futures purportedly made by
+Belsky.
+
+28. Belsky did not place any of the customer funds he collected in a Y Trading
+binary options trading account, contrary to the misleading statements he made to some of his
+customers when he induced them to provide funds for his binary options trading. In fact, neither
+Belsky nor Y Trading maintained any binary options trading accounts in either of their names.
+
+29. Belsky did not inform any of his customers that he was the subject of the 2008
+Order in which the Commission determined that Belsky and his prior company, Innovative, had
+committed fraud and lied to NFA during a routine audit.
+
+OF Defendantsâ Collection of, and Failure To Repay, Customer Funds
+
+30. During the Relevant Period, Defendants acquired and controlled customer funds
+in two ways. For some customers, generally those who provided relatively smaller amounts of
+funds, Belsky requested or required that they provide funds to him in cash. For customers who
+provided relatively larger amounts of funds Defendants directed them to send funds to a bank
+account in the name of Y Trading.
+
+31. During the Relevant Period, Defendants received at least $719,000 in the Y
+Trading bank account from at least eleven customers.
+
+32. Once Defendants obtained funds from their customers, they either failed to pay
+the promised ten percent per month return or stopped making such payments after a short period
+of time. When customers demanded the return of their funds, Belsky sometimes made token
+payments and occasionally repaid customers who had provided Defendants with a relatively
+
+small amount of funds with other customer funds in a manner akin to a Ponzi scheme.
+Case 1:18-cv-05408 Document1 Filed 09/26/18 Page 9 of 24 PagelD #: 9
+
+33. In March 2017, several customers learned of Belskyâs fraudulent trading history
+and demanded the return of their funds. In or about July 2017, Belsky responded to their
+requests by falsely informing them that he could not return their funds because they had been
+frozen by the Commission.
+
+D. Belskyâs Rejected Nadex Application and Surreptitious Trading Using Customer
+Credentials
+
+34. On or about May 13, 2015, Belsky applied for membership at, and sought to open
+a binary options trading account with, Nadex. On May 19, 2015, Nadexâs compliance personnel
+informed Belsky via email that it had denied his application for membership.
+
+35. On May 20, 2015, Belsky emailed a petition appealing the denial of his
+membership application to Nadex, arguing in part that binary options are different than
+commodity futures and therefore he should be granted membership with Nadex, notwithstanding
+the permanent ban language contained within the 2008 Order.
+
+36. Via letter dated June 15, 2015, Nadexâs Chief Executive Officer (âCEOâ)
+responded to Belsky by notifying him that he had denied Belskyâs appeal of Nadexâs compliance
+departmentâs decision to deny his application for Nadex membership. Nadexâs CEO also
+specifically explained to Belsky that, because Nadex is a âregistered entityâ under the Act, the
+2008 Order prohibited him from trading directly or indirectly on Nadex, stating in relevant part:
+
+As you are likely aware, Nadex is a Derivatives Clearing
+Organization (âDCOâ) and Designated Contract Market (âDCMâ),
+registered with the Commodity Futures Trading Commission
+(âCFTCâ). The definition of âregistered entityâ as set forth in the
+Commodity Exchange Act (now codified in Section 1a(40), as
+revised by the Dodd-Frank Act), includes both âa board of trade
+designated as a contract marketâ and âa derivatives clearing
+organizationâ registered in accordance with sections 7 and 7a-1 of
+Title 7 of the United States Code. As a registered DCM and DCO,
+
+Nadex falls under the definition of âregistered entity.â As noted
+above, you are permanently prohibited from trading on any
+s
+Ds awe
+RN %
+
+SOLAS EERIE GL LF
+
+registered entity, either directly or indirectly. It is therefore clear
+that based upon the order imposed by the CFTC (to which you
+agreed) you are prohibited from trading on Nadex.
+
+37. Starting on or about a week after Nadexâs CEO affirmed Nadexâs denial of his
+membership application, Belsky requested or required at least three customers to open and fund
+binary options trading accounts at Nadex and provide him with their login credentials.
+
+38. Customers deposited at least $539,000 into their own Nadex accounts at Belskyâs
+direction. Belsky then surreptitiously commenced trading the personal funds of these customersâ
+Nadex accounts in violation of the 2008 Order, which permanently prohibited Belsky from
+directly or indirectly trading on or subject to the rules of any registered entities.
+
+39. As an example, on or about June 22, 2015, Belsky induced Customer A to open
+an account at Nadex and then to provide Belsky with Customer Aâs login credentials. Belsky
+used Customer Aâs login credentials to conduct trades in Customer Aâs binary options trading
+account from June 2015 through June 2016 without Nadexâs knowledge. Throughout this time,
+Belsky informed Customer A that he was trading in Customer Aâs Nadex account.
+
+AO. During the aforementioned twelve-month period, Customer A deposited $14,000
+into his Nadex binary options trading account, and Belsky lost approximately $13,000 of this
+amount through trading binary options in Customer Aâs Nadex binary options trading account.
+
+41. In or about January 2016, Belsky made an arrangement with another customer,
+Customer B. Customer B entered into a âManaged Account Agreementâ with Defendants and
+deposited a total of $500,000 into his binary options trading account at Nadex during January
+and February 2016. Starting on or about February 1, 2016, Belsky conducted binary options
+
+trading in Customer Bâs binary options trading account without Nadexâs knowledge.
+
+10
+Throughout this time, Belsky informed Customer B that he was trading Customer Bâs Nadex
+account.
+
+42. In less than two months Belsky lost approximately $200,000 trading binary
+options in Customer Bâs Nadex binary options trading account.
+
+43. Belsky traded various binary options in Customer A and Customer Bâs accounts,
+including, but not limited to, the âUS 500,â which is based on CME E-mini S&P 500Â® Index
+Futures, the âWall Street 30,â which is based on CBOT E-mini DowÂ® Index Futures, and the
+âUS SmallCap 2000,â which is based on CME E-mini Russell 2000Â® Index Futures.
+
+44, In or about March 2017, Belsky entered into new verbal agreements with
+Customers A and B that allowed Belsky to continue to surreptitiously trade funds in their
+respective Nadex binary options trading accounts using their login credentials. In order to
+induce Customers A and B to continue allowing him to trade their accounts, Belsky falsely
+represented to them that he would be trading his own funds in their Nadex binary options trading
+accounts. In reality, Belsky did not trade his own funds in the Nadex binary options trading
+accounts of Customers A and B. Instead, Belsky transferred funds from his other customers to
+Customers Aâs and Bâs Nadex binary options trading accounts and covertly traded those
+customer funds using Customers Aâs and Bâs Nadex account login credentials.
+
+45. Specifically, concerning Customer A, in March 2017 Belsky caused $48,000 from
+his third-party customers to be deposited into Customer Aâs Nadex binary options trading
+account. Belskyâs binary options trading of third-party customer funds in Customer Aâs account
+resulted in the loss of approximately $42,500 before Belskyâs trading ceased.
+
+46. Concerning Customer B, on March 9, 2017, Belsky caused $50,000 from his
+
+third-party customers to be deposited into Customer Bâs Nadex binary options trading account.
+
+11
+Case 1:18-cv-05408 Documenti1 Filed 09/26/18 Page 12 of 24 PagelD #: 12
+
+Belskyâs binary options trading of third-party customer funds in Customer Bâs account resulted
+in the loss of almost all of the $50,000 before Belskyâs trading ceased.
+
+E. Belskyâs Misappropriation of Customer Funds
+
+47. Aside from the customer funds not lost through trading on Nadex, Belsky
+misappropriated the vast majority of the customer funds he collected. Belsky used some
+customer funds as his personal âpiggy bankâ to make car, school, and credit card payments, and
+he also took large cash withdrawals that he used for unknown reasons.
+
+48. For example, between approximately February 24, 2017, and February 27, 2017,
+Belsky received wires totaling $335,000 from four customers, funds that he solicited for the
+purpose of binary options trading and for which he promised to pay the customers ten percent per
+month interest. Belsky directed the funds to be wired to his Y Trading account at Citizens Bank
+in Brooklyn, NY.
+
+49. Of the $335,000 in customer funds Belsky received between approximately
+February 24, 2017, and February 27, 2017, only approximately $100,000 appears to be traceable
+to deposits made to the Nadex binary options trading accounts held in the names of Customers A
+and B.
+
+50. From approximately February 24, 2017, through March 24, 2017, Belsky spent
+approximately $20,000 of customerâs funds that had been previously deposited to his Y Trading
+account at Citizens Bank to pay for personal expenses such as groceries, gasoline, and clothing,
+and to make automobile and credit card internet payments. He also made cash withdrawals
+totaling approximately $69,000.
+
+51. At least $80,000 from the $335,000 in customer deposits made between February
+24, 2017, and February 27, 2017, were used to repay Defendantsâ earlier customers, in a manner
+
+akin to a Ponzi scheme.
+
+12
+Case 1:18-cv-05408 Documenti1 Filed 09/26/18 Page 13 of 24 PagelD #: 13
+
+52. Similarly, on or about April 27, 2017, Customer C wired $70,000 to Belskyâs Y
+Trading account at Citizens Bank for the purpose of binary options trading. From approximately
+April 27, 2017, to July 31, 2017, Customer C made additional deposits totaling $180,000 into the
+same Y Trading account.
+
+53. During the same time period, Belsky withdrew approximately $125,000 of
+Customer Câs funds in cash from the Y Trading account at Citizens Bank and Belsky spent
+approximately $30,000 of Customer Câs funds on personal expenses. Belsky also appears to
+have paid approximately $95,000 of Customer Câs monies to previous customers, in a manner
+akin to a Ponzi scheme. Based on information and belief, none of Customer Câs funds were
+deposited into any trading or investment accounts.
+
+F. Belskyâs Material Omissions
+
+54. During the Relevant Period, Belsky failed to disclose the following material facts
+
+to the customers he solicited:
+
+a. that the 2008 Order prohibited Belsky and his prior company, Innovative,
+from trading on, or subject to, the rules of any registered entity;
+
+b. that the Commission, in the 2008 Order, had found Belsky and Innovative
+liable for defrauding their customers, including creating false account
+statements and misappropriating customer funds;
+
+C. that, contrary to his customer agreements and verbal representations,
+Belsky was not depositing their funds into any Belsky or Y Trading binary
+options trading account; and
+
+d. that, contrary to his customer agreements and verbal representations,
+Belsky was not using the majority of customer funds to trade binary
+options but was instead misappropriating most of these funds to pay for
+his personal expenses or, in some cases, to repay other customers in a
+manner akin to a Ponzi scheme.
+
+13
+Case 1:18-cv-05408 Documenti1 Filed 09/26/18 Page 14 of 24 PagelD #: 14
+
+G. Belskyâs Violations of the 2008 Order
+
+55. As recited in the 2008 Order Belsky, acting as a registered commodity pool
+operator and commodity trading advisor (âCTAâ), defrauded his pool participants of funds
+totaling $1,250,000. According to the 2008 Order, instead of using the funds he had solicited to
+purchase commodity futures and/or options contracts as promised, Belsky misappropriated at
+least $385,000 and created false commodity pool account statements that he provided to
+Innovative pool participants.
+
+56. Belsky neither admitted nor denied the allegations and conclusions contained in
+the 2008 Order, yet Belsky consented to the 2008 Order that required, among other things, that
+he cease and desist from violating the provisions of the Act he was found to have violated, and
+the payment of a civil monetary penalty of $100,000 and restitution in the amount of $1,250,000.
+Additionally, the 2008 Order prohibited him from certain activities related to his violations in
+order to protect the public.
+
+57. Among its specific provisions, the 2008 Order permanently prohibited Belsky
+from âdirectly or indirectly (a) trading on or subject to the rules of any registered entity, as that
+term is defined in Section 1la(29) of the Act, 7 U.S.C. Â§ 1a(29) (2006).â
+
+58. During the Relevant Period Belsky violated the 2008 Order by surreptitiously
+conducting binary options trading on Nadex, a DCO that is a registered entity under the Act,
+through at least two of his customersâ Nadex binary options trading accounts.
+
+H. Belskyâs False Statements to the Commission
+59. On February 21, 2018, during investigative testimony under oath before the
+Commission, Belsky made false or misleading statements of material fact by repeatedly denying
+
+to the Commission that he solicited customer funds for the alleged purpose of trading in binary
+
+14
+Case 1:18-cv-05408 Documenti1 Filed 09/26/18 Page 15 of 24 PagelD #: 15
+
+options. These statements were material because Belskyâs use of the funds he solicited from
+
+customers to trade binary options on Nadex would have violated the 2008 Order.
+
+60.
+
+In addition, during his February 21, 2018 investigative testimony under oath
+
+before the Commission, Belsky made a series of false and misleading statements of material fact
+
+regarding the trading he had conducted in his customersâ Nadex binary options trading accounts.
+
+Specifically, Belsky repeatedly falsely denied that he had conducted any binary options trading
+
+in any binary options trading accounts on Nadex, whether belonging to his customers or
+
+otherwise. These statements were material because Belskyâs trading of binary options trading
+
+accounts on Nadex would have violated the 2008 Order.
+
+VIOLATIONS OF THE COMMODITY EXCHANGE ACT
+AND COMMISSION REGULATIONS
+
+COUNT ONE
+(Defendants Belsky and Y Trading)
+
+FRAUD IN CONNECTION WITH BINARY OPTIONS
+
+Violations of Section 4c(b) of the Act, 7 U.S.C. Â§ 6cÂ¢(b) (2012), and Regulation
+
+61.
+
+32.4(a) and (c), C.F.R. Â§ 32.4(a), (c) (2017)
+
+The allegations set forth in the foregoing paragraphs are re-alleged and
+
+incorporated herein by reference.
+
+62.
+
+63.
+
+Section 4c(b) of the Act states, in relevant part:
+
+No person shall offer to enter into, enter into or confirm the
+execution of, any transaction involving any commodity regulated
+under this Act which is of the character of, or is commonly known
+to the trade as, an âoption, aa
+
+99 66
+
+privilege,â âindemnity,â âbid,â
+âoffer,â âput,â âcall,â âadvance guaranty,â or âdecline guaranty,â
+contrary to any rule, regulation, or order of the Commission
+prohibiting any such transaction or allowing such transaction under
+such terms and conditions as the Commission shall prescribe.
+
+Regulation 32.4(a) and (c) makes it unlawful for any person, directly or indirectly,
+
+to cheat or defraud or attempt to cheat or defraud any other person, or to deceive or attempt to
+
+15
+deceive any other person by any means whatsoever, in or in connection with any commodity
+option transaction.
+
+64. During the Relevant Period, Defendants cheated or defrauded, or attempted to
+cheat or defraud, customers by making false representations in connection with, among other
+things, the alleged success of Belskyâs binary options trading, providing of fictional trading
+account statements to customers, assuming a false identity to solicit customers, and
+misappropriating customer funds.
+
+65. Defendants also failed to disclose material facts to customers regarding Belskyâs
+background, including the existence of the 2008 Order in which the Commission determined that
+Belsky had engaged in commodity pool fraud and that he was subject to a trading ban. Further,
+Defendants failed to disclose that customer funds would not be transferred to any Y Trading
+binary options trading accounts for binary options trading but instead would be used for Belskyâs
+personal expenses, provided to other customers in a manner akin to a Ponzi scheme and, in some
+cases, used by Belsky to trade binary options in other customersâ binary options trading
+accounts.
+
+66. Belsky controlled Y Trading and did not act in good faith or knowingly induced,
+directly or indirectly, Y Tradingâs conduct alleged in this Count. Therefore, pursuant to Section
+13(b) of the Act, 7 U.S.C. Â§ 13c(b) (2012), Belsky is liable for Y Tradingâs violations of Section
+4c(b) of the Act and Regulation 32.4(a) and (c).
+
+67. The foregoing acts, misrepresentations, omissions, and failures of Belsky
+occurred within the scope of his employment, office, or agency with Y Trading. Therefore, Y
+Trading is liable for these acts, misrepresentations, omissions, and failures pursuant to Section
+
+2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1)(B) (2012), and Regulation 1.2, 17 C.F.R. Â§ 1.2 (2017).
+
+16
+Case 1:18-cv-05408 Documenti1 Filed 09/26/18 Page 17 of 24 PagelD #: 17
+
+68. Each act of misappropriation, misrepresentation, or omission of material fact
+including, but not limited to, those specifically alleged herein, is alleged as a separate and
+distinct violation of Section 4c(b) of the Act and Regulation 32.4(a) and (c).
+
+COUNT TWO
+(Defendant Belsky)
+
+VIOLATION OF A COMMISSION ORDER
+Violations of Section 6c(a) of the Act, 7 U.S.C. Â§ 13a-1(a) (2012)
+
+69. The allegations set forth in the foregoing paragraphs are re-alleged and
+incorporated herein by reference.
+70. Section VII, paragraph 3(a) of the 2008 Order prohibited Belsky from directly or
+indirectly:
+trading on or subject to the rules of any registered entity, as
+that term is defined in Section 1a(29) of the Act, 7 U.S.C.
+Â§ 1a(29) (2006);
+71. During the Relevant Period, Belsky violated Section VII, paragraph 3(a) of the
+2008 Order when he engaged in, controlled, or directed the trading in the Nadex binary options
+trading accounts of Customer A and Customer B by trading on or subject to the rules of any
+registered entity, as that term is defined in Section 1a(29) of the Act, 7 U.S.C. Â§ 1a(29) (2006),
+currently codified in 1a(40) of the Act, 7 U.S.C. Â§ 1a(40) (2012).
+72. Belskyâs conduct that violated the 2008 Order also violated Section 6c(a) of the
+Act because Belsky has engaged, is engaging, or is about to engage in any act or practice
+constituting a violation of an order issued under the Act and Regulations.
+73. Each act constituting a violation of the 2008 Order including, but not limited to,
+
+those specifically alleged herein, is alleged as a separate and distinct violation of Section 6c(a) of
+
+the Act.
+
+17
+Case 1:18-cv-05408 Documenti1 Filed 09/26/18 Page 18 of 24 PagelD #: 18
+
+COUNT THREE
+(Defendant Belsky)
+
+FAILURE TO REGISTER AS A COMMODITY TRADING ADVISOR
+Violation of Section 4m(1) of the Act, 7 U.S.C. Â§ 6m(1) (2012)
+
+74. The allegations set forth in the foregoing paragraphs are re-alleged and
+incorporated herein by reference.
+
+75. Section la(12) of the Act, 7 U.S.C. Â§ la(12) (2012), defines a CTA as any person
+who, for compensation or profit, engages in the business of advising others, either directly or
+through publications, writings, or electronic media, as to the value of or the advisability of
+trading commodity options, among other things.
+
+76. Section 4m(1) of the Act makes it unlawful for any CTA, unless registered with
+the Commission, to make use of the mails or any means or instrumentality of interstate
+commerce in connection with his business as a CTA.
+
+77. During the Relevant Period Belsky acted as a CTA when, for compensation or
+profit, he advised others by his directing the trading of customersâ binary options trading
+accounts at Nadex while failing to register with the Commission as a CTA, in violation of
+Section 4m(1) of the Act.
+
+78. Each instance of Belsky acting as a CTA while failing to be registered as such
+
+including, but not limited to, those specifically alleged herein, is alleged as a separate and
+
+distinct violation of Section 4m(1) of the Act.
+
+18
+Case 1:18-cv-05408 Documenti1 Filed 09/26/18 Page 19 of 24 PagelD #: 19
+
+COUNT FOUR
+(Defendant Belsky)
+
+FRAUD BY A COMMODITY TRADING ADVISOR
+Violation of Section 40(1)(A) and (B) of the Act, 7 U.S.C. Â§ 60(1)(A),(B) (2012)
+
+79. The allegations set forth in the foregoing paragraphs are re-alleged and
+incorporated herein by reference.
+
+80. Section 40(1)(A) and (B) of the Act, in relevant part, makes it unlawful for a
+CTA, by use of the mails or any means or instrumentality of interstate commerce, directly or
+indirectly-
+
+(A) to employ any device, scheme, or artifice to defraud any client or
+participant or prospective client or participant; or
+
+(B) to engage in any transaction, practice, or course of business
+which operates as a fraud or deceit upon any client or participant or
+prospective client or participant.
+
+81. During the Relevant Period, through the foregoing conduct described in the
+paragraphs above, Belsky, while acting as a CTA, by using the mails or instrumentalities of
+interstate commerce, (i) employed devices, schemes, or artifices to defraud clients or prospective
+clients; and (11) engaged in transactions, practices, or courses of business which operated as a
+fraud or deceit upon clients, in violation of Section 40(1)(A) and (B) of the Act.
+
+82. During the Relevant Period Belsky, acting for compensation or profit, engaged in
+the business of advising others as to the value of trading binary options through his direct trading
+of the Nadex binary options trading accounts of Customer A and Customer B.
+
+83. Each act of fraudulent solicitation including, but not limited to, those specifically
+
+alleged herein, is alleged as a separate and distinct violation of Section 40(1)(A) and (B) of the
+
+Act.
+
+19
+Case 1:18-cv-05408 Documenti1 Filed 09/26/18 Page 20 of 24 PagelD #: 20
+
+84.
+
+COUNT FIVE
+(Defendant Belsky)
+
+FALSE STATEMENTS TO THE COMMISSION
+Violation of Section 6(c)(2) of the Act, 7 U.S.C. Â§ 9(2) (2012)
+
+The allegations set forth in the foregoing paragraphs are re-alleged and
+
+incorporated herein by reference.
+
+85.
+
+Section 6(c)(2) of the Act prohibits making false or misleading statements to the
+
+Commission. This provision makes it unlawful for:
+
+86.
+
+any person to make any false or misleading statement of a material
+fact to the Commission, including in any registration application or
+any report filed with the Commission under this chapter, or any
+other information relating to a swap, or a contract of sale of a
+commodity, in interstate commerce, or for future delivery on or
+subject to the rules of any registered entity, or to omit to state in
+any such statement any material fact that is necessary to make any
+statement of a material fact made not misleading in any material
+respect, if the person knew, or reasonably should have known, the
+statement to be false or misleading.
+
+On February 21, 2018, during investigative testimony under oath before the
+
+Commission, Belsky made false or misleading statements of material facts while he knew the
+
+statements he made to be false. Specifically, Belsky repeatedly denied that he had solicited
+
+customer funds for the purpose of trading binary options contracts in response to direct questions
+
+by the Commission.
+
+87.
+
+On February 21, 2018, during investigative testimony under oath before the
+
+Commission, Belsky made an additional series of false and misleading statements by denying
+
+that he had at any time traded binary options in the Nadex binary options trading accounts of
+
+Customers A and B in response to direct questions by the Commission.
+
+20
+Case 1:18-cv-05408 Documenti1 Filed 09/26/18 Page 21 of 24 PagelD #: 21
+
+88. Each false statement Belsky uttered during his investigative testimony under oath
+before the Commission on February 21, 2018, including, but not limited to, those specifically
+alleged herein, is alleged as a separate and distinct violation of Section 6(c)(2) of the Act.
+
+VI. RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that this Court, as authorized by
+Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), and pursuant to the Courtâs inherent equitable
+powers, enter:
+
+A. An order finding that Defendants violated Section 4c(b) of the Act, 7 U.S.C.
+
+Â§ 6c(b) (2012), and Regulation 32.4(a) and (c), 17 C.F.R. Â§ 32.4(a), (c) (2017);
+
+B. An order finding that Belsky violated Sections 40(1)(A) and (B), 4m(1), and
+6(c)(2) of the Act, 7 U.S.C. Â§Â§ 60(1)(A), (B), 6m(1), 9(2) (2012), and violated Section VII,
+paragraph 3(a) of the 2008 Order;
+
+C. An order of permanent injunction prohibiting Defendants from violating Section
+4c(b) of the Act and Regulation 32.4(a) and (c);
+
+D. An order of permanent injunction prohibiting Belsky from violating Sections
+40(1)(A) and (B), 4m(1), and 6(c)(2) of the Act and from violating Section VII, paragraph 3(a)
+of the 2008 Order;
+
+E. An order of permanent injunction prohibiting Defendants, and any of their agents,
+servants, employees, successors, assigns, attorneys, and persons acting in active concert or
+participation with Defendants, including any successor thereof, from, directly or indirectly:
+
+(1) Trading on or subject to the rules of any registered entity (as that term is
+
+defined in Section 1a(40) of the Act, 7 U.S.C. Â§ 1a(40) (2012));
+
+21
+(2)
+
+(3)
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+Entering into any transactions involving âcommodity interestsâ (as that
+term is defined in Regulation 1.3(yy), 17 C.F.R. Â§ 1.3(yy) (2017)) for
+Defendantsâ personal or proprietary account or for any account in which
+Defendants have a direct or indirect interest;
+
+Having any commodity interests traded on any Defendantsâ behalf;
+Controlling or directing the trading for, or on behalf of, any other person
+or entity, whether directly or indirectly, by power of attorney or otherwise,
+in any account involving commodity interests;
+
+Soliciting, receiving, or accepting any funds from any person for the
+purpose of purchasing or selling any commodity interests;
+
+Applying for registration or claiming exemption from registration with the
+Commission in any capacity and engaging in any activity requiring such
+registration or exemption from registration with the Commission;
+
+Acting as a principal (as that term is defined in Regulation 3.1(a), 17
+C.F.R. Â§ 3.1(a) (2017)), agent, or any other officer or employee of any
+person or entity registered, exempted from registration or required to be
+registered with the Commission; and
+
+Engaging in any business activity related to commodity interests.
+
+F. An order directing Defendants, as well as any successors thereof, to make full
+
+restitution, pursuant to such procedure as the Court may order, to every customer whose funds
+
+any Defendant received, or caused another person or entity to receive, as a result of the acts and
+
+practices constituting violations of the Act and Regulations, as described herein, and post-
+
+judgment interest thereon from the date of such violations;
+
+22
+Ay ayy ed
+wy iryrgcant 3
+SoMdd sagem
+
+x
+a
+of
+oe
+â
+vo
+is
+ry
+is
+â
+ro
+v
+âa
+7
+et
+
+G. An order directing each Defendant to pay a civil monetary penalty, to be assessed
+by the Court, in an amount not to exceed the penalty prescribed by Section 6c(d)(1) of the Act, 7
+U.S.C. Â§ 13a-1(d)C1) (2012), as adjusted for inflation pursuant to the Federal Civil Penalties
+Inflation Adjustment Act Improvements Act of 2015, Pub. L. 114-74, 129 Stat. 584 (2015), title
+VU, Section 701, see Regulation 143.8, 17 C.F.R. Â§ 143.8 (2017), for each violation of the Act
+and Regulations, as described herein;
+
+H. An order directing Defendants, and any successors thereof, to pay costs and fees
+as permitted by 28 U.S.C. Â§Â§ 1920 and 2412(a)(2) (2012); and
+
+I. Such other and further relief as the Court deems proper.
+
+23
+Case 1:18-cv-05408 Documenti1 Filed 09/26/18 Page 24 of 24 PagelD #: 24
+
+Dated: September 26, 2018 Respectfully submitted,
+
+By: /s/ A. Daniel Ullman I
+
+ 
+
+A. Daniel Ullman II
+Chief Trial Attorney
+
+dullman @cftc.gov
+(202) 418-5420
+
+Danielle Karst
+
+Senior Trial Attorney, pro hac vice pending
+dkarst@cftc.gov
+
+(202) 418-6158
+
+John Einstman, pro hac vice pending
+Chief Trial Attorney
+jeinstman @ cftc.gov
+
+(202) 418-5337
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+1155 21st Street, N.W.
+
+Washington, DC 20581
+
+Telephone: (202) 418-5000
+
+Facsimile: (202) 418-5523
+
+ATTORNEYS FOR PLAINTIFF
+
+COMMODITY FUTURES TRADING
+COMMISSION
+
+24

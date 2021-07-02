@@ -41,14 +41,11 @@ htmlcov
 .project
 .pydevproject
 
-
 # Pycharm
 .idea/
 
-
 #jupyter notebooks
 .ipynb_checkpoints/
-
 
 # vscode
 .vscode
@@ -70,15 +67,3 @@ env/*
 # test
 htmlcov
 .pytest_cache
-
-# data
-# data/files
-# data/csv/*
-# !data/csv/*.csv
-
-# notebooks
-# notebooks
-
-# misc
-# Dockerfile
-# *.md

@@ -1,0 +1,13 @@
+['CFTC Order', nan, 'Décision', 'Report', 'DPA', 'SEC Order',
+       'Compliance Guidelines', 'Control Procedure', 'CFTC Consent Order',
+       'CJIP', 'Superseding Information', 'Plea Agreement',
+       'Judgment & Order', 'Complaint', 'Consent Order', 'NPA',
+       'Information', 'Judgment', 'Indictment', 'Superseding Indictment',
+       'Negociated Agreements', 'Settlement', 'Settlement Agreement',
+       'SEC Complaint', 'CFTC Judgment', 'Deliberation',
+       'Criminal Information', 'Finding of Violation',
+       'Whistleblower Award', 'Complaint CFTC', 'SA', 'CFTC Complaint',
+       'Order CFTC', 'Monetary Penalty Notice', 'Criminal complaint',
+       'Amended Complaint', 'Decision', 'Order', 'AWC',
+       'Enforcement Notice', 'Décision (Engagement)', 'Engagement',
+       'Final Notice', 'Order FED']

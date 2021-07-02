@@ -1,0 +1,442 @@
+    
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+ 
+
+  
+
+| )
+SECURITIES AND EXCHANGE COMMISSION, )
+Plaintiff, )
+y- ) ~
+) Case No.
+MAGYAR TELEKOM, PLC, and )
+DEUTSCHE TELEKOM, AG, )
+) COMPLAINT
+Defendants. )
+)
+
+ 
+
+Plaintiff Securities and Exchange Commission (the âCommissionââ) alleges:
+
+SUMMARY
+
+l. This action arises from multiple violations of the Foreign Corrupt
+Practices Act of 1977 (the âFCPAâ) by defendant Magyar Telekom, Plc. (âMagyar
+Telekomâ) and corresponding violations of the books and records and internal controls
+provisions of the FCPA by Magyar Telekomâs parent company, defendant Deutsche
+Telekom, AG (âDeutsche Telekomâ).
+
+2. In 2005 and 2006, senior executives then employed at Magyar Telekom,
+including its Chairman and Chief Executive Officer, organized, approved, and executed a
+plan to bribe government officials in the Republic of Macedonia to delay or prevent the
+introduction of a new competitor to Magyar Telekomâs subsidiaries operating in
+Macedonia and to obtain certain regulatory benefits. Magyar Telekom, through its
+subsidiaries in Macedonia, made payments of â¬4.875 million during 2005 and 2006 to an
+intermediary under the guise of bogus âconsultingâ and âmarketingâ contracts that did
+
+not have any legitimate business purpose. The payments were made with the knowledge,
+
+-l-
+the firm belief, or under circumstances that made it substantially certain, that all or a.
+portion of the proceeds would be offered, promised or paid to Macedonian government
+officials. In return, the officials would agree to adopt regulatory ctianges favorable to
+Magyar Telekomâs business and prevent a new competitor from entering the market. The
+former executives also offered or promised Macedonian political party officials a
+valuable business opportunity in return for the partyâs support of Magyar Telekomâs
+desired benefits.
+
+3. _ In 2005, the same executives then employed at Magyar Telekom
+organized, approved, and executed a second corrupt scheme in which they authorized
+~ Magyar Telekom and its affiliates to make payments intended to channel and conceal
+corrupt payments to government officials in the Republic of Montenegro. Magyar
+Telekom and its subsidiaries in Montenegro made payments of â¬7.35 million to several
+third-party consultants under four sham contracts and received no legitimate value in
+return. These payments were made with the knowledge, the firm belief, or under
+circumstances that made it substantially certain, that all or a portion of the payments
+would be offered, promised, or paid to Montenegrin officials to facilitate Magyar
+Telekomâs acquisition of Telekom Crne Gore A.D. (âTCGâ) on favorable terms.
+
+4. During the relevant period, Magyar Telekom and Deutsche Telekom
+lacked sufficient internal accounting controls to prevent and detect violations of the
+FCPA. Asa result, the contracts described above were not subjected to meaningful
+review, and substantially all of the amounts were paid without question, prior to the
+initiation of an internal investigation at the direction of the Audit Committee of Magyar
+
+Telekom.
+5. Magyar Telekom recorded the payments to third-parties under these
+contracts on its books and records in a manner that did not accurately reflect the true
+purpose of the contracts. The false entries in Magyar Telekomâs books and records were
+consolidated into the books and records of Deutsche Telekom, which reports the results
+
+of Magyar Telekomâs operations in its consolidated financial statements.
+
+JURISDICTION AND VENUE
+
+6. This Court has jurisdiction over this action pursuant to Sections 21(d),
+21(e) and 27 of the Securities Exchange Act of 1934 (the âExchange Actâ) [15 U.S.C.
+Â§Â§ 78u(d), 78u(e), and 78aa].
+
+7. Venue in this District is proper pursuant to Section 27 of the Exchange
+Act because acts or transactions constituting federal securities law violations occurred
+within the Southern District of New York.
+
+8. Magyar Telekom, directly or indirectly, made use of the mails and of the
+means and instrumentalities of interstate commerce in furtherance of the acts, practices
+and courses of business described in this Complaint.
+
+9. At all relevant times, Magyar Telekom and Deutsche Telekom were
+United States issuers that each filed reports on Form 20-F with the Commission pursuant
+
+to Section 13 of the Exchange Act.
+
+DEFENDANTS
+10. Magyar Telekom is a limited liability stock corporation organized under
+_ the laws of Hungary and headquartered in Budapest. Magyar Telekom is the largest
+
+telecommunications company in Hungary. Magyar Telekom operates subsidiaries in
+Macedonia, Montenegro, and other countries. At all relevant times, Magyar Telekomâs
+securities were publicly traded through American Depository Receipts (âADRsâ) listed
+on the New York Stock Exchange (âNYSEâ) and registered with the Commission
+pursuant to Section 12(b) of the Exchange Act. Effective November 12, 2010, Magyar
+Telekom voluntarily delisted its ADRs from trading on the NYSE.
+
+11. Deutsche Telekom is a private stock corporation organized under the laws
+of Germany and headquartered in Bonn, Germany. Deutsche Telekom acquired an
+approximately 60% controlling interest in Magyar Telekom in July 2000 and reports the
+results of Magyar Telekomâs operations in its consolidated financial statements.
+
+Deutsche Telekomâs shares were publicly traded through ADRs listed on the NYSE and
+registered with the Commission pursuant to Section 12(b) of the Exchange Act. Effective
+June 18, 2010, Deutsche Telekom voluntarily delisted its ADRs from trading on the
+
+NYSE.
+
+- OTHER RELEVANT INDIVIDUALS AND ENTITIES
+
+12. Makedonski Telekommunikacii A.D. Skopje (âMakTelâ) is the former
+state-owned telecommunications services provider in Macedonia. In January 2001,
+Magyar Telekom, acting in a consortium with other bidders, acquired partial ownership
+of MakTel through a privatization by the Macedonian government. By late 2004,
+Magyar Telekom had acquired sole ownership of an approximately 51% stake in MakTel
+by purchasing additional shares from the Macedonian government and from private
+shareholders. Magyar Telekom now holds its MakTel shares through a wholly-owned
+holding company. The Macedonian government currently retains an approximately 35%
+
+stake in MakTel.
+| 13. Telekom Crne Gore A.D. (n/k/a-Crnogorski Telekom) (âTCGâ) is the
+former state-owned public telecommunications services provider in Montenegro. In
+March 2005, Magyar Telekom acquired an approximately 51% interest in TCG from the
+Government of Montenegro through a privatization. At the same time, Magyar Telekom
+
+acquired an additional approximately 22% stake in TCG from minority shareholders.
+
+FACTUAL ALLEGATIONS
+A. Violations of the FCPA in Macedonia
+
+14. During 2005 and 2006, senior executives then employed by Magyar
+Telekom (the âformer executivesâ) offered, promised, authorized and/or paid money or a
+thing of value to corruptly influence Macedonian government and political party officials
+in order to obtain their agreement to provide Magyar Telekom with business and
+regulatory benefits.
+
+15. | The former executives caused Magyar Telekom subsidiaries in Macedonia
+to pay at least â¬4.875 million to a third-party under a series of sham marketing and
+consulting contracts. The former executives knew or firmly believed that the third-party
+would offer, promise, or pay all or a portion of the payments to government officials in
+exchange for business and regulatory benefits to Magyar Telekom, or the circumstances
+were such that made this result substantially certain to occur. They also offered a
+Macedonian minority political party within the coalition government the opportunity to
+designate the beneficiary of a business venture in exchange for their partyâs support of
+Magyar Telekomâs desired benefits.
+
+16. In early 2005, the Macedonian Parliament enacted a new Electronic |
+
+Communications Law designed to liberalize the telecommunications market in a manner
+that would have been unfavorable to Magyar Telekom. Specifically, among other things,
+the law authorized the telecommunications regulatory bodies in Macedonia to hold a
+public tender for a license to operate a third mobile telephone business that would
+directly compete in Macedonia against Magyar Telekomâs subsidiary, MakTel, and
+imposed increased frequency fees and other regulatory burdens.
+
+17. The former executives devised and executed a plan to corruptly influence
+government officials from both political parties in Macedoniaâs coalition government in
+order to obtain regulatory advantages sought by Magyar Telekom in light of the new law.
+In approximately May 2005, two of the former executives approved and executed a secret
+agreement with a senior Macedonian government official to delay or preclude the
+issuance of a third mobile telephone license and to mitigate the other adverse effects of
+the new law, including not requiring MakTel to pay the increased frequency fee. In
+approximately August 2005, two of the former executives approved and executed a
+similar secret agreement with a senior Macedonian government official from the other
+political party to obtain the same business and regulatory benefits. The agreements were
+unlawful under Macedonian law because they were in violation of the recently enacted
+Electronics Communications Law, required the officials to ignore their lawful duties, and
+were not properly recorded as official government documents.
+
+18. The Macedonian government officials consented to the agreements after
+the former Magyar Telekom executives offered to direct separate payments of up to
+â¬10 million in three installments between June 2005 and June 2006 to or for the benefit
+- of government officials. Between 2005 and 2006, as Magyar Telekom received the
+
+benefits promised in the agreement, the former Magyar Telekom executives authorized
+payments by MakTel and other Magyar Telekom subsidiaries of â¬4.875 million to a
+Greek intermediary through at least six false âsuccess fee basedâ contracts for
+âconsultingâ and âmarketingâ services. These contracts were executed with the
+knowledge or firm belief that some or all of the payments under the contracts would be
+offered, promised or paid to government officials, or under circumstances that made such
+a result substantially certain to occur.
+
+19. The only executed copies of the two agreements with the government
+officials were retained by the Greek intermediary, and the existence and true purpose of
+the agreements were unknown to anyone within Magyar Telekom and Deutsche Telekom
+other than the former executives and a small number of additional participants.
+
+20. The former executives structured the contracts with the Greek
+intermediary for the purpose of circumventing Magyar Telekomâs internal controls and
+avoiding detection. The consulting and marketing contracts entered into in 2005 and
+2006 generally were backdated or contained success-based contingencies that had already
+been satisfied by the time they were executed, and were supported by false performance
+certificates or other fabricated evidence of performance. The contracts served no
+legitimate business purpose, and no valuable performance was rendered under them.
+Instead, the contracts were used to funnel money, which the former executives referred to
+amongst themselves in code as âlogistics,â to a third party in circumstances in which the
+former executives knew, had the firm belief, or in which it was substantially certain that
+it would be offered, promised or paid, in full or in part, to government officials.
+
+21. In addition, the former Magyar Telekom executives offered a contract for
+
+a valuable business opportunity to an entity designated by the minority political party as
+part of their effort to secure the benefits sought by Magyar Telekom. Although the
+contract was executed by one of the former executives, the business opportunity
+ultimately was not developed. .
+
+22.. Asaresult of these payments and offer, the Macedonian government
+delayed the introduction of a third mobile telephone competitor until 2007, by which time
+(1) an intervening election had occurred and a new coalition government had obtained
+control in Macedonia; and (2) the former executives had resigned from Magyar Telekom.
+Macedonian government officials also unlawfully reduced the frequency fee tariffs
+
+imposed on MakTel. |
+
+23. Certain electronic communications made in furtherance of the improper
+payments and the concealment of the payments, including drafts of the agreements with
+the government officials and the offer to the minority party official, and copies of certain
+of the contracts with the intermediary, were transmitted by Magyar Telekom employees
+and others through U.S. interstate commerce or stored on computer servers located in the
+United States.
+
+24. The payments made under these contracts were recorded on Magyar
+Telekomâs books and records in a manner that did not accurately reflect the true purposes
+of the contracts under which they were made, and were consolidated into Deutsche
+Telekomâs financial statements. At the time the payments were made, Magyar Telekom
+and Deutsche Telekom lacked sufficient internal accounting controls to provide
+
+reasonable assurances that the transactions were legitimate and recorded appropriately.
+B. FCPA Violations in Montenegro
+
+25. In 2005, the former executives engaged in a scheme to have Magyar
+Telekom and its subsidiaries corruptly influence government officials in Montenegro in
+an effort to acquire TCG, the former state-owned telecommunications company. In
+furtherance of this scheme, Magyar Telekom and its subsidiaries paid â¬7.35 million under
+four bogus consulting contracts with the knowledge, the firm belief, or under
+circumstances that made it substantially certain, that the payments would be offered,
+promised or paid to government officials in Montenegro to facilitate the TCG acquisition
+on terms favorable to Magyar Telekom.
+
+26. In October 2004, the Government of Montenegro issued a tender to
+privatize its approximately 51% stake of the state-owned telecommunications company,
+_ TCG. Magyar Telekom submitted a bid that sought to obtain a super-majority ownership
+stake, consisting of the governmentâs 51% share, plus enough additional minority shares
+from private investors to give Magyar Telekom ownership of at least two-thirds of TCG.
+The Board of Directors of Magyar Telekom, in accordance with the decision of the
+Management Board of Deutsche Telekom, limited the price that Magyar Telekom could
+pay on a price per share basis for the acquisition. Magyar Telekomâs bid for the
+government shares was conditioned on its ability to acquire the minority shares at the
+intended valuation.
+
+| 27. | Magyar Telekom prevailed in the public tender process, but the
+
+Montenegrin government rejected Magyar Telekomâs provision to condition the
+acquisition upon acquiring a super-majority stake. The share purchase agreement
+
+ultimately was executed without this condition.
+28. By March 2005, Magyar Telekom ultimately succeeded in acquiring an
+approximately 73% stake in TCG on its desired terms, but only after government officials
+committed the Government of Montenegro to contribute an additional â¬0.30 per share to
+the private shareholders.
+
+29. After the Government of Montenegro facilitated Magyar Telekomâs
+acquisition of shares of TCG from minority shareholders, the former executives caused
+Magyar Telekom, TCG, and its affiliates to make payments to third-parties with the
+knowledge, firm belief, or under circumstances that made it substantially certain, that
+some or all of those payments would be offered, promised or paid to individuals who had
+been government officials at the time of the TCG acquisition.
+
+30. | Magyar Telekom entered into two nearly-identical contracts with two
+third-party consultants, purportedly for assistance in purchasing the additional shares
+from the minority shareholders. The consultants were shell companies based in the
+Republic of Mauritius and the Republic of the Seychelles that had never before provided
+services to Magyar Telekom or Deutsche Telekom, and one of the entities was not even |
+legally incorporated when its contract was purportedly signed. Two of the former
+executives executed the contracts on Magyar Telekomâs behalf after Magyar Telekom
+had already acquired TCG, but backdated the contracts. These contracts concealed the
+true parties-in-interest and the third-party consultants performed no legitimate services
+under either of these contracts. Documents purportedly evidencing the consultantsâ
+performance under the contracts were fabricated to give the appearance that the
+
+consultants rendered legitimate services.
+
+-10-
+31. The former executives caused Magyar Telekom to make two payments
+totaling â¬4.47 million under these contracts between approximately May 12 and May 20,
+2005. The former executives of Magyar Telekom either knew or held a firm belief that
+all or a portion of the payments would be offered, promised or paid to government
+officials, or circumstances existed that made such a result substantially certain to occur.
+
+32. TCGandaTCG affiliate entered into two additional consulting contracts
+in 2005 that purported to relate to Magyar Telekomâs acquisition of TCG. Both contracts -
+were executed with the knowledge and approval of the former Magyar Telekom
+executives.
+
+33. | One of these contracts purported to require a New York, NY-based
+counterparty to provide vaguely-identified assistance in connection with the acquisition
+and integration of TCG into Magyar Telekomâs corporate structure. One of the former
+Magyar Telekom executives signed the contract on behalf of a TCG affiliate and
+backdated it. The TCG affiliate made payments of â¬580,000 under this contract.
+
+34. This contract actually was intended to conceal payments made to the sister
+of a senior Montenegrin government official through a nominee entity identified in the
+contract. The officialâs sister did not actually render any bona fide services to Magyar
+Telekom or TCG under the contract. Magyar Telekom falsely recorded the payments
+under this contract as a consulting expense on its accounting books and records.
+
+35. The other sham consulting contract was with a shell company based at a
+residential address in London. Under the contract, the consultant purportedly would
+provide Magyar Telekom with strategic advice related to the telecommunications market
+
+in Southeastern Europe. However, none of the reports provided by the consultant
+
+-11-
+represented original work. Instead, each report bore a mark on each page identifying the
+report as the product of another consulting firm. The consultant provided no legitimate
+services to Magyar Telekom. Although a TCG affiliate paid â¬2.3 million the consultant
+between approximately November 7 and December 28, 2005, Magyar Telekomâs auditors
+valued the reports provided at approximately â¬20,000.
+
+36. | These two consulting contracts (1) concealed the true counterparties;
+
+(2) did not accurately describe the true services to be rendered; (3) purported to be
+success based, but were entered into after the relevant contingencies had already been
+satisfied by other service providers; (4) served no legitimate business purpose, and
+
+(5) were supported by false performance certificates or fabricated evidence of
+performance. The services under these contracts also duplicated services that had
+previously been provided to Magyar Telekom by known parties for substantially lower
+prices.
+
+37. | The payments under the four contracts described above were recorded on
+Magyar Telekomâs books and records in a manner that did not accurately reflect the true
+purposes of the contracts under which they were made, and were consolidated into
+Deutsche Telekomâs financial statements. At the time the payments were made, Magyar
+Telekom and Deutsche Telekom lacked sufficient internal accounting controls to provide
+
+reasonable assurances that transactions were legitimate and recorded appropriately.
+
+-12-
+FIRST CLAIM FOR RELIEF
+
+' Magyar Telekom Violated â
+Section 30A of the Exchange Act
+
+38. Paragraphs | through 37 are realleged and incorporated herein by
+reference.
+
+39. Magyar Telekom, a United States issuer, made use of the mails or other
+means or instrumentalities of interstate commerce corruptly in furtherance of an offer,
+payment, promise to pay, or authorization of the payment of any money, or offer, gift,
+promise to give, or authorization of the giving of anything of value to a person, while
+knowing that all or a portion of such money or thing of value will be offered, given, or
+promised, directly or indirectly, to any foreign official, to any foreign political party or
+official thereof, or to any candidate for foreign political office, for purposes of
+influencing their acts or decisions, securing an improper advantage, or inducing them to
+use their influence to assist the issuer in obtaining or retaining business.
+
+40. By reason of the foregoing, Magyar Telekom violated Section 30A of the
+
+Exchange Act [15 U.S.C. Â§ 78dd-1].
+
+SECOND CLAIM FOR RELIEF
+
+Magyar Telekom and Deutsche Telekom Violated
+Sections 13(b)(2)(A) and 13(b)2 of the Exchange Act
+
+41. Paragraphs 1 through 40 are realleged and incorporated herein by
+reference.
+
+42. Section 13(b)(2)(A) of the Exchange Act requires issuers to make and
+keep books, records, and accounts, which, in reasonable detail, accurately and fairly
+
+reflect the transactions and dispositions of their assets.
+
+-13-
+43. Section 13(b)(2)(B) of the Exchange Act requires issuers to devise and
+maintain a system of internal accounting controls sufficient to provide reasonable
+assurances that transactions are executed in accordance with managementâs general or
+specific authorization; and transactions are recorded as necessary to permit preparation of
+financial statements in conformity with generally accepted accounting principles or any
+other criteria applicable to such statements, and to maintain accountability for assets.
+
+. 44. â By reason of the foregoing, Magyar Telekom and Deutsche Telekom |
+
+violated Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C.
+
+Â§Â§ 78m(b)(2)(A) and (B)].-
+
+PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court:
+
+A. Enter a final judgment permanently enjoining Magyar Telekom from
+violating, or aiding and abetting violations of, Sections 30A [15 U.S.C. Â§78dd-1],
+13(b)(2)(A) [15 U.S.C. Â§78m(b)(2)(A)], and 13(b)(2)(B) [15 U.S.C. Â§ 78m(b)(2)(B)] of
+the Exchange Act;
+
+B. Enter a final judgment permanently enjoining Deutsche Telekom from
+violating, or aiding and abetting violations of, 13(b)(2)(A) [15 USC. Â§78m(b)(2)(A)]
+and 13(b)(2)(B) [15 U.S.C. Â§ 78m(b)(2)(B)] of the Exchange Act;
+
+C. Enter a final judgment ordering Magyar Telekom to disgorge all ill-gotten
+gains wrongfully obtained asa result of its illegal conduct plus prejudgment interest;
+
+OD. Enter a final judgment ordering Magyar Telekom and Deutsche Telekom
+to pay civil penalties pursuant to Section 21(d) [15 U.S.C. Â§ 78u(d)] and Section 32 [15
+
+U.S.C. Â§ 78ff] of the Exchange Act; and
+
+-14-
+E. Grant the Commission such other relief as is just and appropriate.
+
+Dated: December 29, 2011
+
+Respectfully submitted,
+
+Robert I. Dodge(RD-0433)
+Kara N. Brockmeyer
+Charles E. Cain
+
+Adam J. Eisner
+
+Attorneys for Plaintiff
+
+Securities and Exchange Commission
+100 F. Street, NE Washington, DC 20549
+Tel: (202) 551-4421 (Dodge)
+
+Fax: (202) 772-9282 (Dodge)
+
+Email: DodgeR@sec.gov
+
+-15- |

@@ -1,0 +1,452 @@
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ 
+
+SECURITIES AND EXCHANGE COMMISSION,
+
+100 F Street, N.E.
+Washington, DC 20549,
+Plaintiff,
+Civil Action No.
+vs.
+TYCO INTERNATIONAL LTD., COMPLAINT
+
+Freier Platz 10
+CH-8200 Schaffhausen
+Switzerland,
+
+Defendant.
+
+ 
+
+ 
+
+Plaintiff Securities and Exchange Commission (âSECâ or "Commission") alleges:
+NATURE OF THE ACTION
+
+1. This matter concerns violations by Tyco International Ltd. (âTycoâ) of the books
+and records, internal controls, and anti-bribery provisions of the Foreign Corrupt Practices Act
+(âFCPAâ).
+
+2. Tyco is an international global manufacturing company based in Switzerland with
+operations around the world. Tycoâs securities are listed on the New York Stock Exchange.
+
+3. In April 2006, the Commission filed a settled accounting fraud, disclosure, and
+FCPA injunctive action against Tyco, pursuant to which the company consented to entry of a
+final judgment enjoining it from violations of the anti-fraud, periodic reporting, books and
+records, internal controls, proxy disclosure, and anti-bribery provisions of the federal securities
+
+laws and ordering it to pay $1 in disgorgement and a $50 million civil penalty. The U.S. District
+Court for the Southern District of New York entered the settled Final Judgment against Tyco on
+May 1, 2006. At the time of settlement, Tyco had already committed to and commenced a
+review of its FCPA compliance and a global, comprehensive internal investigation of possible
+additional FCPA violations. As a result of that review and investigation, certain FCPA
+violations have come to light for which the misconduct occurred, or the benefit to Tyco
+continued, after the 2006 injunction. Those are the violations that are alleged in this Complaint.
+
+4. As its global review and investigation progressed, Tyco voluntarily disclosed this
+conduct to the Commission and took significant, broad-spectrum remedial measures. Those
+remedial measures include: the initial FCPA review of every Tyco legal operating entity â
+ultimately including 454 entities in 50 separate countries; active monitoring and evaluation of all
+of Tycoâs agents and other relevant third-party relationships; quarterly ethics and compliance
+training by over 4,000 middle-managers; FCPA-focused on-site reviews of higher risk entities;
+creation of a corporate Ombudsmanâs office and numerous segment-specific compliance counsel
+positions; exit from several business operations in high-risk areas; and the termination of over 90
+employees, including supervisors, because of FCPA-compliance concerns.
+
+5. The FCPA misconduct reported by Tyco showed that Tycoâs books and records
+were misstated as a result of at least twelve different, post-injunction illicit payment schemes
+occurring at Tyco subsidiaries across the globe. The schemes frequently entailed illicit payments
+to foreign officials that were inaccurately recorded so as to conceal the nature of the payments.
+Those inaccurate entries were incorporated into Tycoâs books and records. Tyco thereby
+
+violated Section 13(b)(2)(A) of the Securities Exchange Act of 1934 (âExchange Actâ) [15
+
+U.S.C. Â§ 78m(b)(2)(A)].
+6. Tyco also failed to devise and maintain internal controls sufficient to provide
+reasonable assurances that all transactions were properly recorded in the companyâs books,
+records, and accounts. Tyco thereby violated Section 13(b)(2)(B) of the Exchange Act [15
+U.S.C. Â§ 78m(b)(2)(B)]. As reflected in this Complaint, numerous Tyco subsidiaries engaged in
+violative conduct, the conduct was carried out by several different methods, and the conduct
+occurred over a lengthy period of time and continued even after the 2006 injunction.
+
+7. Through one of the illicit payment schemes, Tyco violated the FCPA anti-bribery
+provisions. Specifically, through the acts of its then-subsidiary and agent, TE M/A-COM, Inc.,
+Tyco violated Section 30A(a) of the Exchange Act [15 U.S.C. Â§ 78dd-l(a)] by corruptly making
+illicit payments to foreign government officials to obtain or retain business.
+
+JURISDICTION AND VENUE
+
+8. The Commission brings this action pursuant to Sections 21(d), 21(e), and 27 of
+the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e), 78aa]. Tyco, directly or indirectly, made use of
+means or instrumentalities of interstate commerce, of the mails, or of the facilities of a national
+securities exchange in connection with the transactions, acts, practices, and courses of business
+alleged in this Complaint.
+
+9. Venue is proper in this Court pursuant to Section 27 of the Exchange Act [15
+U.S.C. Â§ 78aa] or 28 U.S.C. Â§ 1391(d).
+
+DEFENDANT
+
+10. Tyco is incorporated in Switzerland and has its principal place of business in
+
+Switzerland. It issues and maintains a class of securities registered pursuant to Section 12(b) of
+
+the Exchange Act [15 U.S.C. Â§ 78/] that trades on the New York Stock Exchange. It is required
+to file periodic reports with the Commission under Section 13 of the Exchange Act [15 U.S.C. Â§
+78m].
+RELATED ENTITIES
+
+11. At all times relevant, TE M/A-COM, Inc. (âM/A-COMâ) was an indirect, wholly
+owned subsidiary of Tyco incorporated in Florida with its principal place of business in Lowell,
+Massachusetts. M/A-COM operated within the Electronics segment of Tyco until the split of
+Tyco and Tyco Electronics Ltd. (âTEâ) in or about June 2007, when it became a unit of TE. TE
+divested all of the assets of M/A-COM in or about 2008.
+
+12. At all times relevant, Tyco Thermal Controls (Huzhou) Co., Ltd. (âTTC
+Huzhouâ) and Tyco Thermal Controls (Shanghai) Co., Ltd. (âTTC Shanghaiâ) were indirect,
+wholly owned subsidiaries of Tyco incorporated in China. TTC Huzhou was formed in or about
+October 2003, when Tyco acquired a company that manufactured electrical cables. Because
+TTC Huzhou did not have its own sales or marketing staff, TTC Shanghai was largely
+responsible for sales of TTC Huzhouâs products. (Collectively, these entities are referred to as
+âTTC China.â)
+
+13. At all times relevant, Tyco Waterworks Deutschland GmBH (âTWW Germanyâ)
+was an indirect, wholly owned subsidiary of Tyco incorporated in Germany. TWW Germany
+manufactured, marketed, and sold industrial valves for the water, gas, sewage, chemical, and
+processing industries. These products were sold worldwide through a network of sales
+representatives. Customers included government entities, such as municipal waterworks, and
+private contractors. Tyco divested itself of TWW Germany in or about 2010.
+
+14. _â At all times relevant, Tyco Fire & Integrated Solutions France (âTFIS Franceâ)
+
+was an indirect, wholly owned subsidiary of Tyco that was incorporated in France. TFIS France
+sold fire extinguishing and detection products to residential customers and commercial
+businesses.
+
+15. At all times relevant, Tyco Flow Control Hong Kong Limited (âTFC HKâ) and
+Beijing Valve Co. Ltd. (âKeystoneâ) were indirect, wholly owned subsidiaries of Tyco that were
+incorporated under the laws of Hong Kong and China, respectively. TFC HK and Keystone sold
+valves and controls products to commercial and government customers through direct sales and
+local distributors.
+
+16. At all times relevant, ADT Sensormatic Thailand Ltd. (âADT Thailandâ) was an
+indirect, wholly owned subsidiary of Tyco that was incorporated in Thailand. ADT Thailand
+designed, installed, and serviced mechanical, electrical, fire protection, security, and traffic
+systems in Southeast Asia.
+
+17. At all times relevant, Tyco Fire, Security & Services Malaysia SDN BHD (âTFS
+Malaysiaâ) was an indirect, wholly owned subsidiary of Tyco that was incorporated in Malaysia.
+TFS Malaysia designed, installed, serviced, and commissioned mechanical, electrical, fire
+protection, security, and traffic systems in Malaysia.
+
+18. = At all times relevant, Tyco Fire & Integrated Solutions (UK) Ltd. (âTFIS UKâ)
+was an indirect, wholly owned subsidiary of Tyco that was incorporated in the United Kingdom
+and headquartered in Manchester, England. TFIS UK provided fire detection and suppression
+systems for power generation and transmission plants.
+
+19. At all times relevant, Tyco Healthcare International Trading (Shanghai) Co., Ltd.
+(âTHC Chinaâ) was an indirect, wholly owned subsidiary of Tyco that was incorporated in
+
+China. THC China operated within the Healthcare segment of Tyco until the split of Tyco and
+Covidien Public Limited Company (âCovidienâ) in or about June 2007, when it became a unit of
+Covidien.
+
+20. Atall times relevant, Tyco Healthcare Saudi Arabia (âTHC Saudi Arabiaâ) was
+an operational entity within Tyco Healthcare AG, an indirect, wholly owned subsidiary of Tyco
+that was incorporated in Switzerland. THC Saudi Arabia operated within the Healthcare
+segment of Tyco until the split of Tyco and Covidien in or about June 2007, when it became a
+unit of Covidien.
+
+21.  Atall times relevant, Tyco Healthcare Polska Sp.z.o.o. (âTHC Polskaâ) was an
+indirect, wholly owned subsidiary of Tyco that was incorporated in Poland. THC Polska
+operated within the Healthcare segment of Tyco until the split of Tyco and Covidien in or about
+June 2007, when it became a unit of Covidien.
+
+STATEMENT OF FACTS
+
+22. Tyco isa diversified global manufacturing company with operations around the
+world. Starting in or about 1998 and continuing through at least 2009, the business of Tyco and
+its subsidiaries took place in, among others, the Peopleâs Republic of China, India, Thailand,
+Croatia, Serbia, Saudi Arabia, Libya, Syria, the United Arab Emirates, Mauritania, the Congo,
+Niger, Madagascar, Turkey, Poland, Malaysia, and Egypt.
+
+M/A-COM â Turkey
+
+23. M/A-COM, through its SIGINT Products business unit, retained a New York
+City-based sales agent who made illicit payments in connection with a September 2006 sale of
+microwave equipment to an instrumentality of the Turkish government. The agent, who was
+contractually designated as M/A-COMâs sales agent for Turkey, sold the equipment to the entity
+
+controlled by Turkey at a mark-up over the M/A-COM invoice price. The microwave receivers
+were shipped from Hunt Valley, Maryland to the agent in New York, who then shipped them to
+Turkey via New York, New York.
+
+24. | Employees of M/A-COM were aware that the agent was paying foreign
+government customers to obtain orders. One internal e-mail stated, âHell, everyone knows you
+have to bribe somebody to do business in Turkey. Nevertheless, I'll play it dumb if [M/A-
+COMâs agent] should call.â
+
+25. | Tyco exerted control over M/A-COM in part by utilizing dual roles for its
+officers. At the time of the September 2006 transaction, four high-level Tyco officers were also
+officers of M/A-COM, including one who was M/A-COMâs president. Additionally, one of
+those Tyco officers served as one of five members of M/A-COMâs board of directors. While
+there 1s no indication that any of these individuals knew of the illegal conduct described herein,
+through the corporate structure used to hold M/A-COM and through the dual roles of these
+officers, Tyco controlled M/A-COM. Asa result, M/A-COM was Tycoâs agent for purposes of
+the September 2006 transaction, and the transaction was squarely within the scope of M/A-
+COMâs agency.
+
+26. The benefit obtained by Tyco as a result of the September 2006 deal was $44,513.
+
+TTC China â Ministry of Public Security
+
+27. In or about June 2005, TTC China signed a contract with the Chinese Ministry of
+Public Security for $770,000, but reportedly paid approximately $3,700 to the âsite project teamâ
+of a state-owned corporation to obtain the contract. This amount was improperly recorded in
+TTC Chinaâs books and records as a commission, when in fact part of that amount was passed
+along to the end-user. TTC Chinaâs financial results were incorporated in Tycoâs publicly filed
+
+financial statements. Tycoâs benefit as a result of these illicit payments was $192,500.
+TWW Germany
+
+28. Â© TWW Germany and/or its agents failed to enact and/or follow policies governing
+the retention and payment of third-party agents/distributors.
+
+29. | TWW Germany and/or its agents paid or promised to pay third parties to secure
+contracts or avoid penalties or fines in several countries: the Peopleâs Republic of China,
+Croatia, India, Libya, Saudi Arabia, Serbia, Syria, and the United Arab Emirates. The payments
+were ostensibly booked as commissions and in a manner that did not reflect the ultimate
+recipients of the funds. The payments related to projects ongoing from October 2004 to 2009.
+In fact the payments were not commissions, but were used to pay employees of government
+customers and for other purposes. These entries were consolidated within Tyco and, as a result,
+caused Tycoâs books and records to be misstated. Tycoâs benefit as a result of these illicit
+payments was $4,684,966.
+
+TFIS France
+
+30. | TFIS France and/or its agents made payments to individuals from 2005 to 2009
+for âbusiness introduction services.â One of the individuals receiving payments was a security
+officer at a government-owned mining company in Mauritania, and a substantial amount of the
+payments made before 2007 ultimately were deposited in that government officialâs personal
+bank account in France. These payments were not supported by written contracts or invoices and
+were not accurately recorded in TFIS Franceâs books and records. In addition, TFIS France
+and/or its agents paid sham âcommissionsâ to approximately twelve other intermediaries in four
+countries (Mauritania, the Congo, Niger, and Madagascar). The inaccurate entries were
+incorporated into Tycoâs books and records. Tycoâs benefit as a result of these illicit payments
+
+was $1,256,389.
+TFC HK and Keystone â China
+
+31. | TFC HK and Keystone failed to follow Tycoâs internal control policies and
+procedures governing the retention and payment of third-party agents/distributors. TFC HK and
+Keystone also failed to maintain an appropriate system to ensure accuracy in its books and
+records regarding payments to sales agents and distributors.
+
+32. Between 2005 and August 2006, THC HK and Keystone paid approximately
+$246,000 to an agent in connection with sales to a large, government-owned Chinese
+petrochemical company, although Tyco is unable to ascertain what, if any, legitimate services
+were performed by the agent. As a result, Tycoâs books and records were misstated. Tycoâs
+benefit as a result of these illicit payments was $181,504.
+
+33. | TFC HK and Keystone also had other improper arrangements with agents.
+Approximately $137,000 was paid to agencies owned by approximately eight Keystone sales
+employees in 2005 and 2006, and those employees in turn transferred some portion of that
+amount in cash or gifts to government officials, including design institutes, in the Peopleâs
+Republic of China. The amounts in question were incorrectly recorded as proper commissions to
+hide the fact that the payments were made to companies owned by Keystone employees. Asa
+result, Tycoâs books and records were misstated. Tycoâs benefit as a result of these illicit
+payments was $196,584.
+
+ADT Thailand â CCTV
+
+34. From in or about 2000 to in or about 2006, ADT Thailand maintained inaccurate
+books and records in connection with multiple transactions and failed to implement policies to
+
+ensure accurate record-keeping.
+35. In connection with a contract to install a CCTV system in the Thai Parliament
+House in 2006, ADT Thailand paid over $50,000 to a Thai entity that acted as a consultant. The
+invoice related to this payment refers to ârenovation work,â but Tyco is unable to ascertain what,
+if any, work was done. As a result, Tycoâs books and records were misstated. Tycoâs benefit as
+a result of these illicit payments was $104,117.
+
+TFS Malaysia
+
+36. | From 2000 to 2007, TFS Malaysia used intermediaries to pay the employees of its
+customers when bidding on contracts. Payments were made to approximately twenty-six
+employees of customers, and one of those payees was an employee of a government-controlled
+entity. TFS Malaysia inaccurately described these expenses as âcommissionsâ and failed to
+maintain policies sufficient to prohibit such payments. As a result, Tycoâs books and records
+were misstated. Tycoâs benefit as a result of these illicit payments was $45,972.
+
+TFIS UK â Egypt
+
+37. | From in or about 2004 to in or about 2008, an Egyptian agent of TFIS UK wired
+approximately $282,022 to a former employeeâs personal bank account with the understanding
+that the money would be used in connection with entertainment expenses for representatives of a
+company majority-owned by the Egyptian government. A portion of the funds was used to pay
+for lodging, meals, transportation, spending money, and entertainment expenses for that
+companyâs officials on two trips to the United Kingdom in 2005 and 2006 and two trips to the
+United States in 2007 and 2008.
+
+38. TFIS UK made payments pursuant to inflated invoices submitted by the
+companyâs Egyptian agent, who wired funds to the former employees to be used to entertain
+
+foreign officials.
+
+10
+39. | TFIS UKâs books and records did not accurately reflect TFIS UKâs understanding
+that the funds would be used for entertainment of government officials, and TFIS UK did not
+maintain sufficient internal controls over its payments to agents. As a result, Tycoâs books and
+records were misstated.
+
+40.  Tycoâs benefit as a result of these illicit payments was $1,589,374.
+
+THC Saudi Arabia
+
+41. Beginning in or about December 2000 and continuing into at least June 2006,
+THC Saudi Arabiaâs distributor in Saudi Arabia used a âcontrol accountâ to make payments at
+THC Saudi Arabiaâs direction to doctors and hospital officials in Saudi Arabia, including those
+employed by agencies or instrumentalities of the Saudi government. The control account was
+not a bank account, but rather a general ledger account.
+
+42. | While some disbursements from the control account were used for legitimate
+expenses, several items were booked improperly as âpromotional expensesâ and âsales
+developmentâ expenses. As a result, Tycoâs books and records were misstated. In connection
+with the transactions related to these inaccurate books and records, Tycoâs benefit was
+approximately $1,900,600.
+
+THC China
+
+43. From in or about September 2004 to in or about January 2007, employees of THC
+China submitted approximately 33 expense claims related to entertainment of public healthcare
+officials of the Peopleâs Republic of China. THC China then reimbursed those expenses. Some
+of the expenses were supported by fictitious receipts, including references to a non-existent
+
+company. In connection with the expenses, at least one THC China employee forged receipts
+
+11
+and applied a âsealâ for a bogus company. Employees forged receipts because the actual
+expenditures were prohibited under Tycoâs internal guidelines.
+
+44. From 2001 to 2008, THC China employees submitted false itineraries and other
+documentation that did not properly identify travel expenses incurred in connection with medical
+conferences. The inaccurate recordkeeping related to payment by THC China for trips or
+portions of trips for publicly employed doctors in the Peopleâs Republic. As a result, Tycoâs
+books and records were misstated.
+
+45. In connection with the transactions related to these inaccurate books and records,
+Tycoâs benefit was approximately $353,800.
+
+THC Polska
+
+46. â From in or about January 2005 to in or about December 2007, THC Polska used
+âservice contractsâ to hire public healthcare professionals in Poland for various purposes,
+including conducting training sessions, performing clinical studies, and distributing marketing
+materials. Approximately five such service contracts involved falsified records and
+approximately twenty-six other service contracts involved incomplete and inaccurate records,
+including some related expenses paid by THC Polska to family members of healthcare
+professionals. As a result, Tycoâs books and records were misstated. In connection with the
+transactions related to these inaccurate books and records, Tycoâs benefit was approximately
+$14,673.
+
+FIRST CLAIM FOR RELIEF
+Foreign Bribery
+[Violations of Section 30A(a) of the Exchange Act, 15 U.S.C. Â§ 78dd-1(a)]
+
+47. Paragraphs | through 46 are re-alleged and incorporated by reference.
+
+12
+48. As described above, Tyco, through its officers, employees, and agents, corruptly
+offered, promised to pay, or authorized payments to one or more persons, while knowing that all
+or a portion of those payments would be offered, given, or promised, directly or indirectly, to
+foreign officials for the purpose of influencing their acts or decisions in their official capacity,
+inducing them to do or omit to do actions in violation of their official duties, securing an
+improper advantage, or inducing such foreign officials to use their influence with foreign
+governments or instrumentalities thereof to assist Tyco in obtaining or retaining business.
+
+49. __ By reason of the foregoing, Tyco violated, and unless enjoined will continue to
+violate, Section 30A(a) of the Exchange Act.
+
+SECOND CLAIM FOR RELIEF
+Books and Records
+
+[Violations of Section 13(b)(2)(A) of the Exchange Act,
+15 U.S.C. Â§ 78m(b)(2)(A)]
+
+50. Paragraphs 1 through 46 are re-alleged and incorporated by reference.
+
+51. The Exchange Act requires each issuer of registered securities to make and keep
+books, records, and accounts which, in reasonable detail, accurately and fairly reflect the
+business of the issuer.
+
+52. As described above, Tyco, through its officers, employees, and agents, failed to
+keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflected its
+transactions and dispositions of its assets.
+
+53. By reason of the foregoing, Tyco violated Section 13(b)(2)(A) of the Exchange
+
+Act.
+
+13
+THIRD CLAIM FOR RELIEF
+Internal Controls
+
+[Violations of Section 13(b)(2)(B) of the Exchange Act,
+15 U.S.C. Â§ 78m(b)(2)(B)]
+
+54. Paragraphs 1 through 46 are re-alleged and incorporated by reference.
+
+55. | The Exchange Act requires each issuer of registered securities to devise and
+maintain a system of internal controls sufficient to provide reasonable assurances that, among
+other things, transactions are recorded as necessary to permit preparation of financial statements
+and to maintain accountability for assets.
+
+56. Tyco failed to devise and maintain such a system of internal controls and was
+therefore unable to detect the violations set forth above. As described above, numerous Tyco
+subsidiaries engaged in violative conduct, the conduct was carried out by several different
+methods, the conduct occurred over a lengthy period of time, and it continued even after the
+2006 injunction.
+
+57. By reason of the foregoing, Tyco violated Section 13(b)(2)(B) of the Exchange
+Act.
+
+PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court enter judgment:
+
+a) permanently enjoining Defendant Tyco from violating Sections 30A(a),
+13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78dd-1(a),
+78m(b)(2)(A), and 78m(b)(2)(B)];
+
+b) ordering Defendant Tyco to disgorge ill-gotten gains wrongfully obtained as a
+result of its illegal conduct in the amount of $10,564,992 and prejudgment interest
+
+thereon in the amount of $2,566,517; and
+
+14
+c) granting such other relief as this Court may deem just and appropriate.
+Dated: September 24, 2012
+
+Respectfully Submitted,
+
+Veh. Ges
+
+Scott W. Friestad
+
+David Frohlich (DC 9 No. 425928)
+Matthew B. Greiner (DC Bar No. 448480)
+Stephen E. Jones (DC Bar No. 431164)
+Brent S. Mitchell (DC Bar No. 464083)
+
+Attorneys for Plaintiff
+
+Securities and Exchange Commission
+100 F Street, N.E.
+
+Washington, D.C. 20549-4030
+Telephone: (202) 551-4526 (Greiner)
+Facsimile: (202) 772-9286
+
+15

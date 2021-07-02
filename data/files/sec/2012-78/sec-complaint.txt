@@ -1,0 +1,505 @@
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+
+ 
+
+SECURITIES AND EXCHANGE
+COMMISSION,
+
+Plaintiff, : Civil Action No.
+vs.
+GARTH RONALD PETERSON,
+
+Defendant.
+
+ 
+
+COMPLAINT
+
+Plaintiff Securities and Exchange Commission (the âCommissionâ or âSECâ) alleges
+
+that:
+SUMMARY
+
+1. From at least 2004 to 2007, Defendant Garth Peterson, while employed at Morgan
+Stanley & Co., Inc.âs (âMorgan Stanleyâ) real estate investment and fund advisory business,
+secretly acquired millions of dollars worth of real estate investments from Morgan Stanleyâs
+funds for himself, the former Chairman of Yongye Enterprise (Group) Co. (âYongyeâ)-âa
+Chinese state-owned entity with influence over the success of Morgan Stanleyâs real estate
+business in Shanghaiâand others. Peterson also arranged to have paid to himself and the former
+Chairman of Yongye (âthe Chinese Officialâ) at least $1.8 million in what he misrepresented
+were finderâs fees Morgan Stanleyâs funds owed to third parties. In exchange for offers and
+payments from Peterson, the Chinese Official helped Peterson and Morgan Stanley obtain
+business while personally benefitting from some of these same investments. This self-dealing
+and misappropriation by Peterson breached the fiduciary duties he and Morgan Stanley owed to
+
+their clients.
+2. By engaging in the conduct described in this Complaint, Peterson violated the
+anti-bribery and internal controls provisions of the Foreign Corrupt Practices Act of 1977
+(âFCPAâ)ânamely Sections 13(b)(5) and 30A of the Securities Exchange Act of 1934
+(âExchange Actâ) [15 U.S.C. Â§Â§ 78m(b)(5) and 78dd-1]âand aided and abetted violations of the
+anti-fraud provisions of the Investment Advisers Act of 1940 (âAdvisers Actâ}ânamely
+Sections 206(1) and 206(2) [15 U.S.C. Â§Â§ 80b-6(1) and 80b-6(2)].
+
+3. The Commission brings this action against Peterson seeking injunctive relief to
+prevent future violations of the federal securities laws, disgorgement, and a civil penalty.
+
+JURISDICTION
+
+4, This Court has jurisdiction over this action under Sections 21(d), 21(e), and 27 of
+the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e), and 78aa] and Section 209(d) of the Advisers
+Act [15 U.S.C. Â§ 80b-9(d)]. The parties have consented to venue in the Eastern District of New
+York.
+
+DEFENDANT
+
+5. Defendant Garth Peterson is a U.S. citizen and resident of Singapore who speaks
+Chinese fluently. Peterson began working for Morgan Stanley in 2002 in Hong Kong. He was
+made the head of the Shanghai office of Morgan Stanleyâs wholly-owned global real estate
+business when that office first opened in 2006 and became a Managing Director of Morgan
+Stanley in 2007. Petersonâs principal responsibility at Morgan Stanley was to evaluate,
+negotiate, acquire, manage and sell real estate investments on behalf of Morgan Stanleyâs
+advisers and funds. As such, he owed a fiduciary duty to the fund clients. By the time he was
+terminated in 2008 in connection with the conduct described in this Complaint, Peterson had
+
+been involved with at least twenty-eight Morgan Stanley transactions in China.
+OTHER PERSONS AND ENTITES
+
+6. Morgan Stanley & Co. Inc. is a Delaware corporation with its principal place of
+business in New York, New York. It owns global asset management, investment banking and
+securities businesses with more than 61,000 employees world-wide. At all pertinent times,
+Morgan Stanley had a class of securities registered pursuant to Section 12(b) of the Exchange
+Act [15 U.S.C. Â§ 781(b)], had securities listed on the New York Stock Exchange, and was subject
+to the reporting requirements of Sections 13 of the Exchange Act [15 U.S.C. Â§Â§ 78m].
+
+7. At all pertinent times, Morgan Stanley in part conducted its real estate investing
+business through wholly-owned SEC-registered investment advisers to, and minority investors
+in, approximately a half-dozen investment companies, a/k/a funds, organized as Delaware
+limited partnerships. As advisers and general partners to these funds, Morgan Stanley, though its
+employees, raised capital and made and managed real estate investments world-wide, and owed
+fiduciary duties to their clients. The funds most pertinent to the conduct described in this
+Complaint are MSREF IV International (âMSREF IVâ) and MSREF V International (ââMSREF
+Vvâ), which invested in securities of real estate companies, portfolios of real estate and real estate
+loans, and real estate directly. For each fund, Morgan Stanley formed a wholly-owned adviser
+that it registered with the SEC with its principal office and place of business at a Morgan Stanley
+address in New York, NY, and a website address of www.morganstanley.com/realestate. The
+adviser for MSREF IV, named MSREF IV, LLC, was registered November 2000; the adviser for
+MSREF V, named MSREF V, LLC, was registered January 3, 2005. Many of the investors in
+Morgan Stanleyâs funds, including Morgan Stanley employees, were U.S. persons and many
+sales of limited partnership interests in the funds occurred in the U.S.
+
+8. At all pertinent times, Yongye Enterprise (Group) Co. Ltd. was a large real estate
+development arm of the Luwan District Government in Shanghai, China. Since its inception in
+1994, Yongye held leases for many prime areas in the Luwan District. Yongyeâs business was to
+keep or take a small share in real estate joint ventures, including with Morgan Stanley and its
+funds, in exchange for helping its joint venture partner obtain the proper licensing from the local
+government. Yongye owned and developed residential and commercial real property, sold and
+brokered real estate to Morgan Stanley and its funds, and partnered with Morgan Stanley and its
+funds in various real estate investments.
+
+9. The Chinese Official was the Chairman of Yongye at all pertinent times until his
+retirement in September 2006. As Chairman, he exercised control over Yongye and had the
+authority to make investment decisions for it. Before Yongye, the Chinese Official worked for
+the Luwan District government. After his retirement in September 2006, the Chinese Official
+continued to work with Morgan Stanley as a private real estate developer and broker until
+approximately the time Peterson was terminated in 2008.
+
+10. The Canadian Attorney at all times pertinent to the conduct described in this
+Complaint worked in Hong Kong for law firms and for an insurance company as its chief legal
+officer.
+
+FACTUAL BACKGROUND
+
+11. Peterson began at Morgan Stanley in 2002 with a pre-existing business and
+personal relationship with the Chinese Official, an experienced Shanghai real estate investor and
+Chairman of the Luwan government-owned entity Yongye. Peterson led Morgan Stanleyâs
+effort to build a Chinese real estate investment portfolio for its real estate funds by cultivating a
+relationship with the Chinese Official to take advantage of his ability to steer opportunities to
+
+Morgan Stanley, his familiarity with and influence in helping with needed governmental
+approvals, and his real estate investment and management experience generally. During the
+pertinent period, Morgan Stanley partnered with Yongye in a number of significant Chinese real
+estate investments and recognized Yongye, led by the Chinese Official, as one of Morgan
+Stanleyâs most significant partners in China. At the same time, Peterson and the Chinese
+Official expanded their personal business dealings, both in a real estate interest secretly acquired
+from Morgan Stanley, as well as by investing together in Chinese franchises of well-known U.S.
+fast food restaurants. Peterson failed to disclose all these investments in annual disclosures of
+personal business interests Morgan Stanley required him to make as part of his employment.
+
+Project Cavity
+[Shanghai Jin Lin Tiandi Serviced Apartments]
+
+12. âIn 2002, in a project named âProject Wally,â MSREF IV co-invested as a
+minority partner with Yongye and other investors in a dual-use, two-tower building in the Luwan
+District of Shanghai. In late 2004, in a transaction called âProject Cavity,â MSREF IV, along
+with others, purchased one of these two towers, known as the Shanghai Jin Lin Tiandi Serviced
+Apartments. As one of the sellers in Project Cavity, Yongyeâs approval was required before the
+sale could take place. In addition, because Yongye was the project manager for the selling
+consortium, it managed the sale process. As Morgan Stanley and Peterson were negotiating the
+purchase of Project Cavity in October 2004, Peterson, the Chairman of Yongye (the Chinese
+Official) and the Canadian Attorney secretly were planning to purchase an interest from MSREF
+IV after MSREF IV purchased the tower from the selling consortium. As the vehicle for
+purchasing and holding their interest, Peterson, the Chinese Official and the Canadian Attorney
+used a British Virgin Islands entity called Asiasphere Holdings Ltd. (âAsiasphereâ). As
+described below in paragraph 16, they misrepresented to officers and employees of Morgan
+Stanley that Asiasphere was a subsidiary of Yongye. Accordingly, officers and employees of
+
+5
+Morgan Stanley who had decision making authority over whether MSREF IV would sell an
+interest in Project Cavity believed that they were selling that interest to Yongye, when, in fact,
+they were unknowingly selling the interest to Peterson, the Chinese Official and the Canadian
+Attorney.
+
+13. In his effort to convince Morgan Stanley and its fund to sell an interest in Project
+Cavity to Asiasphereâan entity officers and employees of Morgan Stanley believed to be
+YongyeâPeterson told others at Morgan Stanley that the Chinese Official, in his capacity as
+Chairman of Yongye, caused the selling consortium to sell Project Cavity to Morgan Stanley at a
+price that was lower than a competing offer. According to emails Peterson wrote to his Morgan
+Stanley colleagues at the time MSREF IV bought Project Cavity, the Chinese Official showed
+Peterson the written offer of one competing bidder in confidence âto make clear the competition
+we're facingâ and had âreally gone out of his way to help [Morgan Stanley] on this deal.â In
+November 2005 as the time neared for Asiasphereâs purchase from MSREF IV, Peterson told his
+colleagues, âWE OWE [YONGYE] A FAVOR .. . [Yongye] gave us this deal.â (Emphasis in
+original.) Peterson also credited the Chinese Official with helping obtain approvals required
+from other Chinese government entities for the deal to close.
+
+14. Peterson, the Chinese Official and the Canadian Attorney funded their nearly $3
+million Cavity investment in March 2006 and, through Asiasphere, purchased approximately
+12% of MSREF IVâs interest. Asiasphere paid its purchase price in U.S. Dollars to a Morgan
+Stanley bank account in New York City. The Chinese Official owned 47% of Asiasphere, and
+Peterson and the Canadian Attorney shared the remaining 53%âthrough their ownership, 81%
+and 19% respectively, of a British Virgin Islands company called Strong Man Ltd. Peterson
+
+controlled this 81% interest in Strong Man directly and/or through a British Virgin Islands
+company called Paraplay. Altogether, Peterson had a 43% interest in Asiasphere. Asiasphere
+bought 12% of Jin Lin Tiandi Holding Company, a Caymans Island Company, which owned the
+Shanghai Jin Lin Tiandi Serviced Apartments as follows: Jin Lin Tiandi Holding Company
+owned 100% of and controlled Sky Luck Property Corp., a British Virgin Islands Company;
+which owned 100% of and controlled King Project Limited, a Hong Kong Company; which
+owned 100% of and controlled Shanghai Jin Lin Tiandi Serviced Apartment Management Co.
+Ltd., a Peopleâs Republic of China Company; which owned 100% of and controlled the Shanghai
+Jin Lin Tiandi Serviced Apartments in Shanghai, China.
+
+15. In negotiating both sides of the transaction, Peterson also arranged for Asiasphere
+to buy its interest in Project Cavity at MSREF IVâs October 2004 basis. Accordingly,
+Asiasphereâs near-$3 million investment was already in-the-money by as much as $6 million at
+the time of the investment in 2006 because the property had risen in value since Morgan
+Stanleyâs fund bought it in late 2004. This secret self-dealing breached the fiduciary duties
+Peterson and Morgan Stanley owed to their fund client.
+
+| 16. As enumerated below, Peterson, the Chinese Official and the Canadian
+Attorneyâwho acted as Asiasphereâs attorney for the dealâlied to others at Morgan Stanley
+that Yongye was the purchaser. To make Morgan Stanley believe it was selling the Cavity
+interest to Yongye, Peterson, the Canadian Attorney and the Chinese Official misrepresented that
+Asiasphere was an offshore subsidiary of Yongye. During the years preceding the Cavity
+transaction, Morgan Stanley engaged in a number of real estate transactions involving Yongye
+and had learned that Yongye conducted its business through a Hong Kong holding company and
+a BVI holding company all of which Morgan Stanley employees referred to interchangeably as
+
+Yongye, âYYâ or âYYTâ. During these years, Morgan Stanley had conducted due diligence into
+Yongye, its Chairman (the Chinese Official) and its two offshore entities. As Peterson knew,
+Morgan Stanleyâs due diligence included interviews with the Chinese Official and the Canadian
+Attorney (who represented a Yongye entity), record reviews, and background and reference
+checks. Examples of Peterson, the Chinese Official and the Canadian Attorneyâs
+misrepresentations that Yongye owned Asiasphere include the following:
+
+a. On or about October 28, 2004, Peterson sent an email to several Morgan
+Stanley employees in which he explained that Yongye, and not the Chinese Official, would be
+acquiring a 12-percent stake in Project Cavity, falsely writing â[j]ust to be clear, [the Chinese
+
+Official] will not âacquire another 4.5% of sharesâ from [Morgan Stanley]. Itâs Yong Ye...â
+
+b. On or about November 16, 2005, Peterson emailed several Morgan
+Stanley employees in response to an email discussing the terms of Yongyeâs purported
+investment in Project Cavity, âEveryone pls [sic] keep in mind the big picture here. YY gave us
+this deal... . So we owe them a favor relating to this deal. . . . This should be very easy and
+
+friendly.â
+
+c. On or about November 23, 2005, Peterson sent an email to several Morgan
+Stanley employees in which he described âYYTâ as âour friends who are coming in because WE
+
+OWE THEM A FAVOR.â (Emphasis in original.)
+
+d. At Peterson, the Chinese Official and the Canadian Attorneyâs doing, the
+2006 shareholder agreement for Project Cavity used the abbreviation âYYâ to refer to
+
+Asiasphere.
+
+e. After the March 2006 sale, Peterson and the Canadian Attorney made
+
+additional misrepresentations about Asiasphereâs ownership. For instance, on or about August 4,
+
+8
+2006, the Canadian Attorney falsely represented to a Morgan Stanley employee that Asiasphere
+was owned by Yongye, writing âI confirm, as Asiasphereâs counsel in their acquisition of 12%
+equity interests in [Project Cavity], that Asiasphere Holdings Limited is 100% beneficially
+owned by Shanghai Yongye Enterprise (Group) Co., Ltd., a PRC company whose legal address
+is 32nd floor, 138 Huai Hai Zong Lu, Shanghai, China.â This misrepresentation was made in
+response to an inquiry from a Morgan Stanley employee pursuant to a third partyâs know-your-
+
+customer requirements in connection with a refinancing being sought for Project Cavity.
+
+17. Peterson never disclosed his own stake, in annual disclosures of personal business
+interests Morgan Stanley required him to make as part of his employment or otherwise, until
+around the time of his termination in late 2008. Morgan Stanley paid Asiasphere approximately
+$2 million in at least five separate Cavity shareholder distributions from 2006 to 2008. Peterson
+was entitled to approximately $860,000 of these distributions based on his ownership of
+Asiasphere.
+
+Project 138
+[Shanghai Square Infiniti Mall]
+
+18. In 2005, and without Morgan Stanleyâs knowledge, Peterson and the Canadian
+Attorney secretly acquired from Morgan Stanley and its MSREF V Fund an interest in another
+Luwan District real estate deal called Project 138. MSREF V acquired the retail property earlier
+in 2005 and in October, at Petersonâs doing, sold 10% of it to a group of buyers led by a
+Shanghai real estate designer and investor who had a prior business relationship with Morgan
+Stanley (âthe Shanghai Investorâ). Without disclosure to Morgan Stanley or its fund, and
+without mention in the transactional documents they prepared, Peterson and the Canadian
+Attorneyâwho acted as the Shanghai Investorâs lawyerâbought approximately 1% of the
+
+Project as part of the Shanghai Investorâs group. In fact, when others at Morgan Stanley asked
+9
+who the Shanghai Investorâs co-investors were, the Canadian Attorney and Peterson directed the
+Shanghai Investor not to reveal their identities. Peterson also failed to disclose his stake in
+Project 138 in annual disclosures of personal business interests Morgan Stanley required him to
+make as part of his employment. As in Project Cavity, Peterson negotiated both sides of this
+Project 138 sale to himself. While managing the Morgan Stanley staff responsible for
+negotiating the sale and protecting MSREF Vâs interests, Peterson secretly helped the Shanghai
+Investor and the Canadian Attorney negotiate the terms of the written purchase and sale
+agreements. This secret self-dealing breached the fiduciary duties Peterson and Morgan Stanley
+owed to their fund client.
+The 3-2-1 Deal and Project Beatles
+
+19. As Peterson and Asiasphere funded their investment in Project Cavity in early
+2006, Morgan Stanley was negotiating at least five separate Chinese real estate investments
+involving Yongye and its Chairmanâthe Chinese Official. To incentivize the Chinese Official
+to help Morgan Stanley win this business and to reward the Chinese Official for all he had done
+for Morgan Stanley and Peterson personallyâand despite his recognition that the Chinese
+Officialâs âposition as head of [Yongye didnât] allow him to make such investmentsââPeterson,
+on behalf of Morgan Stanley, invited the Chinese Official personally to invest with Morgan
+Stanley and its funds in these five pending investments at a discount. Accordingly, Peterson
+offered an arrangement referred to here as the 3-2-1 deal. Under the terms of the deal, Morgan
+Stanley would sell the Chinese Official a 3% interest in each deal he brought to Morgan Stanley
+for the cost of 2%, providing the Chinese Official a 1% discount Peterson called a âfinderâs fee.â
+Peterson also promised to pay the Chinese Official an added return on any completed purchase
+
+he called a âpromote,â to incentivize the Chinese Official to help make any acquired investments
+
+10
+profitable.
+
+20. Project Beatles was one of the investments covered by the 3-2-1 arrangement with
+the Chinese Official. It was a large-scale mixed-use development project Morgan Stanley and its
+MSREF V fund negotiated and bought from the Luwan government, with Yongye as a minority
+investor. In early 2006, Morgan Stanley began negotiating the purchase, which closed in
+October. While Yongye was not the seller, the Luwan government asked the Chinese Official to
+find potential buyers and Morgan Stanley credited him as a finder. Morgan Stanley also credited
+the Chinese Official with other help on the deal, including obtaining a favorable price. Morgan
+Stanley also credited the Shanghai Investor as a finder, who Morgan Stanley hired as one of the
+projectâs designers and developers and who was the same person through whom Peterson bought
+his secret interest in Project 138.
+
+21. Inthe context of recommending to supervisors in Morgan Stanleyâs real estate
+business that Morgan Stanley funds make at least four of these real estate acquisitions, Peterson
+disclosed to these supervisors the proposed 3-2-1 arrangement with the Chinese Official in April
+2006. Less than a month later, howeverâbefore the official had been paid anythingâa Morgan
+Stanley employee in the controller function of Morgan Stanleyâs real estate business warned of
+the bribery implications of paying the Chinese Official personally for help obtaining business.
+One of Petersonâs Morgan Stanley supervisors then instructed Peterson to abandon the 3-2-1 deal
+with the Chinese Official.
+
+22. Peterson still secretly shared with the Chinese Official part of a finderâs fee
+Peterson caused Morgan Stanley and its funds to pay the Shanghai Investor for Project Beatles.
+Specifically, in March 2007, six months or so after the Chinese Official retired from Yongye,
+
+Peterson caused Morgan Stanley and MSREF V to pay the Shanghai Investor a $2.2 million
+
+11
+finderâs fee. The Shanghai Investor transferred $1.6 million of this fee to Peterson, who gave
+nearly $700,000 to the Chinese Official and kept the rest for himself. The Shanghai Investor
+agreed to help Peterson steal these funds in exchange for his promise to help the Shanghai
+Investor get future business from Morgan Stanley. Peterson kept his payment to the Chinese
+Official and his own kickback a secret from his Morgan Stanley supervisors and the MSREF V
+Fund. This misappropriation of funds breached the fiduciary duties Peterson and Morgan
+Stanley owed to their fund client.
+Morgan Stanleyâs FCPA Compliance Program and Internal Controls
+23. Morgan Stanley trained Peterson on the FCPA numerous times during his
+employment, as follows:
+| (1) Morgan Stanley trained Peterson on anti-corruption policies and the FCPA
+
+at least seven times between 2002 and 2008. In addition to other live and web-
+
+based training, Peterson participated in a teleconference training conducted by
+
+Morgan Stanleyâs Global Head of Litigation and Global Head of Morgan
+
+Stanleyâs Anti-Corruption Group in June 2006.
+
+(2) Morgan Stanley distributed to Peterson written training materials
+
+specifically addressing the FCPA, which Peterson maintained in his office.
+
+(3) A Morgan Stanley compliance officer specifically informed Peterson in
+_ 2004 that employees of Yongye, a Chinese state-owned entity, were government
+
+officials for purposes of the FCPA.
+
+(4) Peterson received from Morgan Stanley at least thirty five FCPA-
+
+compliance reminders. These reminders included FCPA-specific distributions;
+
+12
+circulations and reminders of Morgan Stanleyâs Code of Conduct, which included
+policies that directly addressed the FCPA; various reminders concerning Morgan
+Stanleyâs policies on gift-giving and entertainment; the circulation of Morgan
+Stanleyâs Global Anti-Bribery Policy; guidance on the engagement of consultants;
+
+and policies addressing specific high-risk events, including the Beijing Olympics.
+
+(5) Morgan Stanley required Peterson on multiple occasions to certify his
+compliance with the FCPA. These written certifications were maintained in
+
+Petersonâs permanent employment record.
+
+24. | Morgan Stanley required each of its employees, including Peterson, annually to
+certify adherence to Morgan Stanleyâs Code of Conduct, which included a portion specifically
+addressing corruption risks and activities that would violate the FCPA.
+
+25. Morgan Stanley required its employees, including Peterson, annually to disclose
+their outside business interests.
+
+26. Morgan Stanley had policies to conduct due diligence on its foreign business
+partners, conducted due diligence on the Chinese Official and Yongye before initially conducting
+business with them, and generally imposed an approval process for payments made in the course
+of its real estate investments. Both were meant to ensure, among other things, that transactions
+were conducted in accordance with managementâs authorization and to prevent improper
+payments, including the transfer of things of value to officials of foreign governments.
+
+FIRST CLAIM
+Violations of Section 30A of the Exchange Act
+(Bribery)
+
+27. Paragraphs 1 through 26 are realleged and incorporated by reference herein.
+
+28. Section 30A(g) of the Exchange Act [15 U.S.C. Â§ 78dd-1(g)] prohibits any issuer,
+13
+or any United States person that is an officer, director, employee, or agent of such issuer or a
+stockholder thereof acting on behalf of such issuer, to corruptly do any act outside the United
+States, irrespective of whether the mails or any means or instrumentality of interstate commerce
+are used, in furtherance of an offer, payment, promise to pay, or authorization of the payment of
+any money, or offer, gift, promise to give, or authorization of the giving of anything of value to
+any foreign official for the purpose of (i) influencing their acts or decisions, inducing them to do
+or omit to do any act in violation of their lawful duty, or securing an improper advantage, or (ii)
+inducing them to use their influence with a foreign government or instrumentality thereof to
+affect or influence any act or decision of such government or instrumentality, in order to assist
+such issuer in obtaining or retaining business. |
+
+29. By reason of the foregoing offers and payments to the Chinese Official, Peterson
+violated, and unless restrained and enjoined is reasonably likely again to violate, Section 30A(g)
+of the Exchange Act [15 U.S.C. Â§ 78dd-1(g)].
+
+SECOND CLAIM
+Violations of Section 13(b)(5) of the Exchange Act
+(Circumvention of Internal Controls)
+
+30. Paragraphs 1 through 26 above are realleged and incorporated by reference |
+herein.
+
+31. Section 13(b)(5) of the Exchange Act [15 U.S.C. Â§ 78m(b)(5)] prohibits any
+person from knowingly circumventing or knowingly failing to implement a system of internal
+accounting controls or knowingly falsifying any book, record, or account described in Section
+13(b)(2) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)].
+
+32. Byreason of the foregoing, Peterson violated, and unless restrained and enjoined
+
+is reasonably likely again to violate, Section 13(b)(5) of the Exchange Act [15 U.S.C. Â§
+
+14
+78m(b)(5)].
+
+THIRD CLAIM
+Aiding and Abetting Violations of Sections 206(1) and 206(2) of the Advisers Act
+(Fraud)
+
+33. Paragraphs 1 through 26 above are realleged and incorporated by reference
+herein.
+
+34. Section 206 of the Advisers Act [15 U.S.C. Â§Â§ 80b-6(1) and 80b-6(2)] makes it
+unlawful for any investment adviser, by use of the mails or any means or instrumentalities of
+interstate commerce, directly or indirectly, knowingly, willfully, or recklessly:
+
+(1) to employ any device, scheme, or artifice to defraud any client or
+
+prospective client; or
+
+(2) to engage in any transaction, practice, or course of business that operates
+
+as a fraud or deceit upon any client or prospective client.
+
+35. Section 203(d) of the Advisers Act [15 U.S.C. Â§ 80b-3] provides that Section 206
+[15 U.S.C. Â§Â§ 80b-6] and other provisions of the Advisers Act apply to investment advisers
+registered with the Commission pursuant to Section 203, or any person acting on behalf of such
+an investment adviser, irrespective of any use of the mails or any means or instrumentality of
+
+interstate commerce.
+
+36. During the relevant period, MSREF IV, LLC, and MSREF V, LLC, were
+investment advisers within the meaning of Section 202(a)(11) of the Advisers Act [15 U.S.C. Â§
+80b-2(a)(11)] registered with the Commission pursuant to Section 203 of the Advisers Act [15
+U.S.C. Â§ 80b-3].
+
+37. During the relevant period, Peterson was a person associated with an investment
+
+15
+adviser within the meaning of Section 202(a)(17) of the Advisers Act [15 U.S.C. Â§ 80b-2(a)(17)]
+and a person acting on behalf of an investment adviser within the meaning of Section 203(d) of
+the Advisers Act [15 U.S.C. Â§ 80b-3].
+
+38. Peterson, by engaging in the conduct described above, knowingly or recklessly
+substantially assisted violations of Sections 206(1) and 206(2) of the Advisers Act [15 U.S.C. Â§Â§.
+80b-6(1) and 80b-6(2)] by MSREF IV and MSREF V.
+
+39.  Byreason of the foregoing, Peterson aided and abetted, and unless restrained and
+enjoined is reasonably likely again to aid and abet, violations of Sections 206(1) and 206(2) of
+
+the Advisers Act [15 U.S.C. Â§Â§ 80b-6(1) and 80b-6(2)].
+
+RELIEF REQUESTED
+The Commission respectfully requests that this Court:
+
+i. enter an order permanently enjoining Defendant Garth Peterson from violating
+Sections 13(b)(5) and 30A of the Exchange Act [15 U.S.C. Â§Â§ 78m(b)(5) and
+78dd-1] and Sections 206(1) and 206(2) of the Advisers Act [15 U.S.C. Â§Â§ 80b-
+6(1) and 80b-6(2)];
+
+ii. | order Defendant Garth Peterson to pay a civil penalty pursuant to Sections
+21(d)(3) and 32(c) of the Exchange Act [15 U.S.C. Â§Â§ 78u(d)(3) and 78ff(c)] and
+Section 209(e) of the Advisers Act [15 U.S.C. Â§ 80b-9(e)];
+
+iii. order Peterson to disgorge ill-gotten gains wrongfully obtained as a result of his
+illegal conduct, including his interest in the Shanghai Jin Lin Tiandi Serviced
+Apartments, plus pre-judgment interest;
+
+iv. freeze and appoint a receiver over Petersonâs interest in the Shanghai Jin Lin
+Tiandi Serviced Apartments; and
+
+16
+v. grant the Commission such other and further relief as is just and appropriate.
+
+ 
+
+Dated: April 25, 2012 Respectfully submitted,
+WY Ky
+Richard Hong
+Of Counsel: Securities and Exchange Commission
+Gerald Hodgkins 100 F Street, N.E.
+Gregory Faragasso Washington, D.C. 20549
+David Neuman Tel: 202-551-4431 (Hong)
+
+Facsimile: (202) 772-9246
+
+o
+
+17

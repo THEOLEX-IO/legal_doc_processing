@@ -1,0 +1,827 @@
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ 
+
+UNITED STATES SECURITIES AND
+EXCHANGE COMMUSSION,
+160 F Street, NE
+Washington, DC 20549-6838
+- Case: 1:16-ev-00473
+
+ 
+
+Plaintiff, | Assigned To: Leon, Richard J.
+| Assign. Date : 3/22/2016
+ve Description: General Civil
+DAIMLER AG,
+Mercedesstrasse 137
+70327. .
+âStuttgart, Germany
+Defendant.
+COMPLAINT
+Plaintiff United States Securities and Exchange Commission (âCommissionâ) alleges
+that:
+
+| SUMMARY OF THE ACTION
+1. From at least 1998 through 2008, Daimler AG, formerly known as â
+
+DaimlerChrysler AG Daimlerâ or the âCompanyâ), and certain of its subsidiaries and affihates,
+violated the anti-bribery, books and records and internal controls provisions of the Foreign
+Corrupt Practices Act ( the âFCPAâ) by making illicit payments, directly or indirectly, to foreign
+government officials in order to secure and maintain business worldwide. a
+
+2. During this time period, Daimler paid bribes to government officials to further
+government sales in Asia, Africa, Basten Europe and the Middle East. In connection with at
+least 31 transactions, Daimler violated the anti-bribery provision of the FCPA by paying tens of
+
+millions of dollars in corrupt payments to foreign government officials to secure business in
+- Russia, China, Vietnam, Nigeria, Hungary, Latvia, Croatia and Bosnia. These corrupt payments
+were made through the use of U.S. mails or the means or instrumentality of U.S. interstate
+commerce. |
+
+3. _ Daimler also violated the FCPAâs books and records and internal controls
+provisions in connection with the 51 transactions and at least an additional 154 transactions, in
+which it made improper payments totaling at least $56 million to secure business in 22 countries,
+including, among others, Russia, China, Nigeria, Vietnam, Egypt, Greece, Hungary, North
+Korea, and Indonesia. Through these tainted sales transactions, which involved at least 6,300
+commercial vehicles and 500 passenger cars, Daimler earned $1.9 billion in revenue and at least
+$91 A million in illegal profits, |
+
+4. | Nineteen of these transactions, which occurred between approximately 2001
+through 2003, involved direct and indirect sales of motor vehicles and spare parts under the
+United Nations Oil for Food Program. Those transactions included $6,048,948 in bribes in the
+form of under-the-table âafter sales service fees.â Daimler offered to pay kickbacks of more
+than $1 million under Six direct contracts with lragi ministries; made one payment of $7,134
+under a direct contract; and knowingly acquiesced in the payment of another $5 million in |
+âkickbacks by its contract partners in connection with twelve indirect Oil for Food contracts.
+
+5 OA number of Daimlerâs former senior executives, who operated in a decentralized
+corporate structure, permitted or were directly involved in the Companyâs bribery practices, .
+including the head of its overseas sales department, who reported directly to the Companyâs most
+senior officers, The Company's internal audit, legal, and finance and accounting depariments,
+which should have provided checks on the activities of the sales force, instead played important
+
+roles in the subversion of internal controls and obfuscation of corporate records.
+6. The improper payments were made possible in part as a result of the falsification
+of corporate records and a lax system of internal controls. .
+
+7. In this environment, Daimler developed several organized procedures and
+mechanisms through which improper payments could be made. Daimlerâs books and records
+contained over 200 ledger accounts, known internally as âinterne Fremdkonten,â of, âinternal
+third party accounts,â which reflected credit balances controlled by Daimler subsidiaries or
+outside third parties. Certain Daimler employees used numerous such accounts to make or
+facilitate improper payments to foreign government officials. Bribes were also made through the
+use of âcorporate cash desksâ (where sales executives would obtain cash in amounts as high as |
+400,000 Deutsche Marks for making improper payments), deceptive pricing and commission
+arrangements, phony sales intermediaries, rogue business partners and misuse of inter-company
+and debtor accounts.
+
+JURISDICTION AND VENUE
+
+8. This court has jurisdiction over this action under Sections 21(d), 21(e), and 27 of
+| the Exchange Act [15 U.S.C, Â§878u(d), 78u(e) and 78aa]. Daimler, directly or indirectly, made
+use of the means or instrumentalities of interstate commerce, of the mails, or of the facilities of a
+national securities exchange in connection with the transactions, acts, practices, and courses of â
+business alleged in this Complaint. | a
+
+9. Venue is appropriate in this Court under Section 27 of the Exchange Act [15 ,
+U.S.C. Â§ 78aa] because Daimler, as a US. issuer, files required periodic reports with the
+
+Commission in this fudicial district.
+DEFENDANT
+
+10. Daimler, a publicly-held corporation organized under the laws of the Federal
+Republic of Germany, is a global company primarily engaged in manufacturing automobiles.
+The Company is headquartered in Stuttgart, Germany: The Companyâs common stock is
+registered with the Commission pursuant to Section 12(b) [15 U.S.C. Â§ 781(b)] of the Exchange
+Act and is listed on the New York Stock Exchange, where its stock is traded under the symbol
+DAL
+
+FACTS
+
+ll. From at least 1998, employees of Daimler and certain of its subsidiaries and
+affiliates made imaproper payments to foreign government officials to further sales in many |
+counties. This conduct dates back toa time when such payments were not prohibited by
+German law, and therefore were tax deductible according to the German Tax Code.
+
+12. Daimler internally referred to these payments as âN.A.â payments, which was the
+abbreviation of the German term muiitzliche Aufwendungen, meaning âuseful expendituresâ or
+âuseful payments.â
+
+13. | In February 1999, Germany outlawed foreign bribery when the Organization for
+7 Economic Cooperation and Development (âOECDâ) Anti-Bribery Convention, which Germany
+ratified, entered into force. Daimler, however, had been prohibited from making bribes to
+foreign government officials under the FCPA since 1993 when its predecessor, Daimler-Benz
+AG, registered a class of securities under Â§ 12 of the Exchange Act.
+
+14, Notwithstanding its status as a U.S. issuer, the Company failed to end its long-
+
+standing bribery practices and bring its overseas sales business into compliance with the FCPA.
+
+ 
+
+! Up until the divestiture of Daimlexâs Chrysler division in May 2007, the Company was known as
+DaimlerChrysler AG, which was the product of the 1998 merger between Daimler-Benz and Chrysler Corporation.
+iS. in tact, until recently, Daimlerâs FCPA compliance program, outside its former
+U.S.-based Chrysler division, was virtually non-existent, even though the Company has
+thousands of employees and dozens of affiliates and business units selling vehicles to foreign
+governments and government-related entities in many foreign countries.
+16. Although Daimler adopted a corporate Integrity Code in July 1999, which
+. included anti-bribery provisions, it failed to adequately enforce those provisions or train
+| employees outside the U.S. on FCPA compliance.
+
+17. Daimler also failed to implement meaningful oversight of the activities of its sales
+force. Accounting and legal personnel often reported to top sales management, rather than
+independent, centralized departments with compliance functions. In several instances, in fact,
+Daimlerâs legal and accounting departments aided the corrupt practices of the sales departments
+rather than provide a safeguard against such practices. |
+
+18. Daimler also failed to maintain adequate controls over the selection of, or
+payments to, sales intermediaries, many of whom were actually nominees for government
+officials, or over the establishment and use of bank accounts.
+
+19. Daimler and certain of its subsidiaries and affiliates utilized a variety of
+instruments to make improper payments in at least 22 countries around the world.
+
+20. The instruments through which improper payments were made included hundreds
+of ledger accounts on Daimlerâs own books, corporate âcash desksâ (where sales personnel!
+would obtain cash), deceptive pricing. and commission arrangements, offshore bank accounts,
+inflated service fees, and nominees for government officials improperly described as âsales
+
+intermediariesâ and âconsultants.â
+Zi. Daimlerâs practice of securing business through the payment of bnibes to foreign
+government officials permeated to several major business units and. subsidiaries and was
+sanctioned by its senior management. Daimlerâs corrupt practices were carried out by major
+department heads of Daimler Overseas Sales and Commercial Vehicles. |
+
+22, Similarly, improper payments were authorized by or known to the former heads
+_ of Daimilerâs Overseas Sales and Commercial Vehicles departments, the former heads of Daimler
+
+Export and Trade Finance (a subsidiary of Daimler Financial Services), and the former heads of |
+Daimierâs subsidiaries in Vietnam, China, Turkey, Indonesia, Ivory Coast, Nigeria, Russia and
+the EvoBus subsidiary (âEvoBusââ).
+A. Daimler Used âThird-Partyâ Ledger Accounts to Facilitate Bribes
+23. When Daimler-Benz AG merged with Chrysler Corp. in November 1998, Daimler
+maintained over 200 ledger accounts known as âinternal third party accountsâ âTPAâ or
+âTPAsâ}, referred to in German as interne Fremdkonten, which were used for numerous business
+purposes. Since at least 1977, Daimler maintained written policies governing the operation of
+TPAs. Daimlerâs Overseas Sales department (Overseas Salesâ) in many instances misused
+certain of these TPAs to facilitate improper payments to foreign government officials in Africa,
+Eastern Europe and the Middle East.
+24. Certain TPAs were managed by the most senior Overseas Sales executives,
+including the former head of Overseas Sales. The former head of finance and controlling for
+- Overseas Sales and the then heads of certain Daimler subsidiaries also authorized disbursements
+from TPAs. .
+25. Although the TPAs were internal Daimler general ledger accounts and managed
+
+by employees of Daimler and certain of its subsidiaries and affiliates, the funds in certain of the
+TPAs were disbursed according to structions given by third-party beneficiaries of the accounts,
+including government officials. Such credits recorded in the TPAsâusually were disbursed in
+cash or by wiring the money to bank accounts throughout the world.
+
+26. Some of the TPAs were known only to the few Daimler employees managing
+_ them, and payments from the accounts were often confidential, meaning that funds credited to
+
+and debited from these accounts and cash disbursements were often not transparent or subject to
+a paper trail or other financial controls.
+
+27. Given the unregulated nature of these accounts, over time, TPAs were used to
+forward large sums of cash throughout the world, assist Daimlerâs outside business partners and
+subsidiaries evade taxes in their respective countries of operation and pay salaries for Daimler
+expatriate employees working overseas, which, in effect, improperly shielded these funds from
+German tax authorities,
+
+28. Daimler maintained several TPAs on its general ledger in the name ofits own
+overseas subsidiaries, which were controlled by the then heads of the subsidiaries and former
+Overseas Sales senior executives and used to facilitate government deals.
+
+29. In other cases, TPAs were maintained in Daimlerâs general ledger in the names of
+third parties outside the Company, including foreign government officials or Daimlerâs dealers, |
+âdistributors or other agents, who were at times used as intermediaries to make payments to
+
+foreign government officials.
+
+30. Daimler, for example, maintained a TPA called âConsulting Egyptâ for the
+benefit of a senior official of a government-owned factory that purchased Daimler chassis and
+
+parts and assembled and sold personnel carriers to the Egyptian Army. From 1998 to 2004,
+Daimler paid the official through credits to the TPA 1,123,224 Deutsche Mark (âDMâ) and later
+â¬322,101 to secure the sale of Vehicle chassis and fire trucks to the factory.
+31.  TPAs were also funded by money obtained from the government customers
+
+oF 66,
+
+themselves through one of several bogus pricing mechanisms, such as âprice surcharges,â âpnce
+
+93
+
+inchisions,â or excessive coramissions, âdiscountsâ or ârebates.â
+
+32. These artificial pricing mechanisms were used by Daimler or its agent to build a
+reserve into the price the povernment customer paid for the vehicle, which was credited (Ze.,
+kicked back} into a TPA and later paid out as a bribe-to or for the benefit of foreign government
+officials. In the case of artificial discounts or rebates on sales contracts, all or a portion of the
+discount would be kicked back, through the TPA, toa foreign government official, rather than
+the purchasing government customer. |
+
+33. | Under this scenario, Daimler held the money generated from a fraudulent pricing
+arrangement ina TPA until the TPA beneficiary or Daimler subsidiary or agent directed a
+transfer of the funds. Daimler, however, did not accumulate any interest or other charges for
+maintaining these funds for its account holders and the funds could be carried on the Companyâs
+books indefinitely.
+
+34. Prior to 2002, Daimierâs TPA policies also permitted senior executives, including
+the former head of Overseas Sales, the former head of finance and controlling for Overseas Sales
+and former heads of subsidiaries, to authorize cash disbursements from TPAs.
+
+35. The cash was disbursed from a âcash deskâ located at a Daimler facility in
+Stuttgart, Germany, and a corresponding debit was booked to the relevant TPA.
+
+36. Daimler failed to adequately monitor where cash was being directed or whether
+
+cash disbursements were being made for legitimate business purposes.
+37. In connection with its government customers in Nigeria, for example, Daimler
+employees withdrew DM 400,000 and $150,000 from the cash desk and transported the Marks
+
+and us dollars to Nigeria to pay bribes to foreign government officials. |
+
+38. In 2002, Daimler closed its cash desk in Stuttgart, but cash payments continued to
+be made through its subsidiaries or through offshore bank accounts. Daimler mstituted new
+policies in 2002 requiring the beneficiaries of TPAs to designate a âreference bank accountâ to
+which payments could be wired or otherwise transferred (eliminating the need for cash
+
+. disbursements). However, the policies did not require that the barik account be maintained ina
+; country m which the account holder resided or whereâ the services of the bank account
+beneficiary. were purportedly rendered. |
+1. Dairaler Paid Bribes Through TPAs in Nigeria
+
+39. Daimler made bribe payments and kept funds that were not properly recorded on
+âits books through four TPAs that were held âby Anambra Motor Manufacturing Company
+(âAnammeoâ), a then Daimler-controlled joint venture between Daimler and the Federal Military
+_ Government of the Federal Republic of Nigeria, through which Daimler sold vehicles into
+| Nigeria. Daimler sold its interest in the joint venture m 2007.
+
+46. 2A portion of Daimlerâs proceeds from the sale of vehicles in Nigeria was credited
+to the Ariaramco TPAs. Senior executives of Dairaler then used a portion of these credits to fund
+improper payments to foreign governmeit officials. a |
+
+41. Between 1998 and 2005, Daimler paid approximately DM 3.9 million, $1 million
+and â¬230,000 in improper payments to Nigerian government officials. The bribe payments from _
+the Anammeo TPAs were made to secure sales contracts worth approximately $73 million with
+
+at least seven different government customers. These payments were either improperly recorded .
+in Daimlerâs books and records or were not recorded at all and were made as a result of weak
+internal controls. _
+42. The Anammeo TPAs were controlled by the former head of Overseas Sales and
+"the former head of Daimlerâs Nigerian office through which Daimler carried out its business in
+Nigeria (the âNigerian representative officeâ), who also Was the managing director of Anammco.
+These two former executives had decision-making authority over the sales operations in Nigeria,
+and they were able to direct large scale bribe payments.
+
+43. For example, in order to obtain a deal to sell armored vehicles to the Nigerian:
+government, the former head of Overseas Sales authorized the former head of Daimlerâs
+Nigerian representative office to debit an Anammco TPA and pay DM 200,000 and DM 50,000,
+respectively, to two senior Nigerian government officials, who had decision-making authority
+over the contract. Daimler employees then wired the famds to the personal foreign bank accounts
+of these two officials in England and Germany. |
+
+44. Similarly, in order to obtain another deal involving the sale of cormmercial
+vehicles toa Nigerian state-owned entity, the former head of the Nigerian representative office
+effectuated a debit of nearly â¬200,000 from an Anaramco TPA and had the funds wired from a
+
+Daimler bank account in Germany to a bank account in England held by the entityâs managing _ |
+director. | | -
+
+a5. The former head of Overseas Sales and the former head of the Nigerian
+
+ârepresentative office also routinely withdrew large sums of cash in various currencies from |
+Daimlerâs corporate cash desk in Germany to make bribe payments to secure business in Nigeria,
+| 46. Daimler failed to adequately monitor the amount of cash that could be withdrawn
+
+through the cash desk or understand the purpose of the withdrawals. The former head of the
+
+10
+Nigerian representative office, for example, was authorized by the former head of Overseas Sales
+to debit an Anammco TPA to obtain DM 400,000 in cash from the cash desk for use towards the |
+hotel stay, travel, dining and shopping of a senior Nigerian government official, his delegation
+and their relatives.
+
+47. in connection with the contract to sell buses to a Nigerian state-owned entity, the -
+former head of the Nigeria representative office withdrew $110,000 in cash from the cash desk
+and delivered the fonds from Germany to Nigeria io make bribe payments to government
+officials affiliated with the entity. |
+
+48. Atone point, the former head of the Nigerian representative office and a senior
+sales manager for Anamimco opened up at least two Swiss bank accounts, which were funded by
+credit balances in Anammco TPAs. -
+
+49. The former head of Overseas Sales authorized approximately DM 2.1 million to
+be transferred from Anammco TPAs into these Swiss bank accounts for payment to government
+officials to obtain sales contracts with various agencies of the Nigerian government.
+
+2. Star Aute, S.A.
+
+50. Daimler made a series of bribe payments through a TPA that was maintained for
+the benefit of Star Auto 8.A. (âStar Autoâ), at the time a Daimler majority-owned and controlled
+entity based in the Ivory Coast. - |
+
+51. Star Auto operated as Daimnlerâs general dealer in the Ivory Coast, and sales
+intermediary when direct sales were made between Overseas Sales and West African customers.
+Star Auto operated a regional center for coordinating sales in 14 West African countries.
+
+Daimler sold its interest in Star Auto in 2008.
+
+il -
+52. The former head of Overseas Sales, the former head of finance and controlling for
+Overseas Sales, and the former managing director of Star Auto controlled the Star Auto TPA.
+
+53. The three former Daimler executives also controlled an off-the-books German
+bank account at Volksbank, which was used in conjunction with the Star Auto TPA to make |
+improper payments and existed outside Daimlerâs accounting system. |
+
+(54. âThrough the Star Auto TPA and the bank account at Volksbank, the three former
+_ executives made improper payments to government officials in Ghana, Liberia and Poland in the
+
+amounts of DM 630,000, $1 70,000 and â¬111,175, securing at least $24.5 million in vehicle sales
+between 1998 and 2004. | |
+55. The three former executives disguised the true purpose of the payments from the
+Star Auto TPA, which resulted in inaccuracies in Daimlerâs books and records.
+56. F or example, in an effort to enter the trucking market in Poland through the sale
+| of 30 trucks to a Polish government entity and establishment of a local office in Warsaw, in 2004
+former Daimler executives made cash bribe payments totaling â¬100,000 to a high ranking Polish
+government official who represented the government entity in the deal. The cash was withdrawn
+from the Star Auto account at Volksbank against credit balances in the Star Auto TPA and
+| personally delivered by the former head of Overseas Sales and another senior Overseas Sales
+executive to the government official at a hotel room in Stattgart, Germany. The former -
+managing director of Star Auto then improperly noted in an internal memo that â¬60,000 of the
+â¬100,000 was paid in connection with âservice expenses for major Polish customers (Mail road
+construction project).â Similarly, the remaining â¬40,000 cash payment was improperly
+referenced in an internal document as a payment for âconsulting services with regard to the
+
+Warsaw. branch office for trucks.â
+
+12
+57. In other deals where Daimler used the Star Auto TPA to make the bribe
+payments, the Company used phony intermediaries or its own outside dealers to dispuise the true
+nature and purpose of the payments. |
+
+58. Daimler, for example, obtained a sales contract to supply 100 trucks to the
+| government of Liberia by providing a free armored Mercedes G 500 vehicle worth nearly
+$600,000 to a senior Liberian government official. Daimler then arranged to pay its outside
+dealer in Liberia $600,000, which was mischaracterized as commissions, and which the dealer
+then used to pay for the vehicle. This deceptive structuring of the deal made it appear as if the
+dealer purchased the vehicle when, i fact, Daimler employees gifted the vehicle to the Liberian
+government official as a bribe | |
+
+3. Dabmnler Refuses te Stop Using TPAS te Make Bribes Despite Risks
+59. For many years, Daimler used TPAs to make bribes despite being aware of the
+legal risks associated with the accounts. |
+
+60. An internal audit report, dated March 24, 1986, acknowledged that the accounts |
+might violate the laws of other countries and that disclosure of the TPAs to certain governments
+could pose âsignificant difficultiesâ for the Company as well as the beneficiaries of the accounts.
+
+61. | Consequently, pursuant to corporate policy, TPAs were maintained with âabsolute
+
+confidentialityâ and only âin the knowledge of a few. [Daimler] employees.â
+
+| 62. | After foreign bribery became âillegal : in Germany i in 1999, Daimlerâs internal audit
+department placed semor executives at the Company on notice that mternal control weaknesses
+associated with the TPAs left the accounts susceptible to being used for bribery.
+
+63. The former head of intemal audit for Daimlerâs operations outside of North
+
+America became concerned that the approximately 200 TPAs in existence at that time would _
+
+43
+~ continue to be used for effectuating bribes, as had been Daimlerâs practice prior to the change in
+German law. Concerned about this risk and possible misuse of the TPAs, in early 2000, the
+internal audit head directed his internal audit staff to conduct a review of all the Companyâs
+TPAs.
+
+64. Ina May 2000 memo to senior sales and finance personnel, Daimlerâs internal
+audit staff warned that there was a hi gh risk that the TPAs did not comport with either the
+Companyâs Integrity Code or changed German law. Another internal audit memo stated that, by
+not revising | guidelines over the use of TPAs, the Company could be viewed as facilitating
+âfraudul ent transactions within the organization.â
+
+65. The May 2000 memo further noted that, given the lack of internal controls over
+TPAs, internal audit could be held responsible for failing to take remedial measures should.
+certain transactions occur and become public..
+
+66. . Accordingly, the May 2000 memo recommended that internal audit, among other .
+things, review all TPAs to determine whether commission payments were legitimate, conduct -
+audits of all operational sales departments to âidentify favors granted that might be problematic
+from a legal point of view. and cancelling them as soon as possible,â and obligate ali Daimler
+contract partners to provide written confirmation that no commission or resale price margins
+would be passed through fo âsub agents,â 7 |
+
+67. Inthe same memo, internal audit also recommended to senior executives of
+Overseas Sales and the finance and accounting department that the Company: (1) close the TPAs
+"unless there is documented proof that the funds in TPAs are necessary for legitimate business
+
+purposes; (2) obtain documented proof of actual services rendered by an outside agent and
+
+14
+business partners before paying commissions: and (3} obtain representations that commissions _
+are not passed through to âsub agents.â - |
+
+68.. In August 2000, the internal audit staff created a formal audit report entitled
+âReview of Internal Control Procedures Invoicing Process GFN/Lâ that addressed internal
+controls risks surrounding TPAs.
+
+69. The summary of the andit report, which was sent to certain members of the Board
+of Management, reflected that âthe correctness of invoice processing and settlement of -
+commissions/discounts are subject to serious risks,â including the â[albsence of central
+âobligatory internal controls principles forthe respective business unitsâ of the Company. The
+sumunary further stated that such internal controls issues increase the risk of fraud and |
+âendangers the adherence to the [Companyâs] Integrity code.â .
+
+70. The body of the August 2000 report, which was sent to senior finance and sales
+executives, went on to further state that internal controls surrounding the invoicing, commission
+payments and rebate accounting in the sales organization were weak, lacked central oversight
+and subjected Daimler to fraud risks,
+
+71. The body of the report further noted that there were âfundamental gaps in
+securityâ in the way the sales organization paid commissions and invoiced customers âwhich
+
+will necessarily lead to serious risks of fraudulent acts to the detriment of [Daimler] and to
+corresponding risks with respect to compliance with the Integrity Code.â | |
+
+72. Despite such warnings from internal audit, those who received the summary and
+body of the internal audit report failed to direct the Companyâs accounting department to |
+
+improve internal controls surrounding the TPAs, let alone close the accounts.
+
+15
+73. | The Board of Management failed to direct internal audit to audit the TPAs and
+associated bank accounts to determine whether the TPAs were operating in compliance with
+anti-bribery laws.
+
+. 74. Daimierâs internal audit staff also faced pressure to keep TPAs open from former
+= senior Overseas Sales executives, such as the former head of Overseas Sales and the former head
+of fmance and controlling for Overseas. Sales, who feared a potential loss of sales volume ifthe -
+TPAs were eliminated. As reflected in internal audit memos, former Overseas Sales
+management also resisted improvements in internal controls and transparency for the TPAs.
+
+75. | In 2002, although the Company decided to reduce the number of TPAs to 5 0 and
+_ shut down its central cash desk, cash payments continued to be made through cash desks and
+bank accounts controlled by its subsidiaries, and the Company failed to effectively improve __
+controls surrounding the remaining TPAs. |
+
+76.  TheSO TPAs remained open over the objections of the internal audit head, and his
+departmentâs efforts to rein in the use of TPAs was hampered by Daimlerâs decentralized
+corporate structure and, according to the internal audit head, the Companyâs expectation that
+' internal audit not serve a âpolice function.â
+
+WT internal audit ultimately recommended that senior sales managementâthe
+. individuals most responsible for directing bribes to secure sales~conduct a âself-auditâ to
+determine whether bribes were paid from the TPAs. The remaining open TPAs were closed in
+2004 and 2005, only. after the Commission began its investigation. .
+B. Daimler Used Other Ledger Accounts to Facilitate Bribes
+8. Jn addition io TPAs, Daimler used a variety of other ledger accounts to make
+
+corrupt payments to foreign government officials to secure vehicle sales and other business.
+
+16
+79. Similar to TPAs, the money in the other ledger accounts used for bribes was often
+generated from fraudulent pricing arrangernents.
+
+80. In connection with certain sales of passenger cars in Russia and conumercial
+vehicles in China, for example, Daimler and certain of its subsidiaries and affiliates routinely
+over-invoiced the government customers between 10%-30% for phony add-ons such as parts or
+services that were not delivered (and never intended to be delivered), resulting in an
+overpayment of the inflated contract price. The excess amount was then passed on to high-
+ranking government officials through credits to inter-company and debtor accounts associated
+with the respective transactions, which were then transferred to bank accounts designated by
+foreign government officials,
+
+81. The improper payments to government officials or their designees through these _
+ledger accounts were either not recorded on Daimlerâs books and records or inaccurately
+recorded to disguise the true nature of the payments.
+
+82. Daimler, for example, sold passenger cars to two Russian governmental entities.
+Daimler maintained on its. books credit balances that were also used by certain Daimler
+employees to make improper payments to bank accounts designated by government officials
+associated with the two Russian governmental entities. Credits to these accounts were
+mislabeled as âcommissions,â or âspecial discounts,â or identified as NLAâ
+
+83. In connection with government sales in Vietnam, former senior sales executives at
+Daimlerâs MB Vietnam subsidiary improperly booked corrupt payments in several expense
+accounts designated as.ââKey Accounts,â Costs of Goad Sold, âGifts Line,â âPetty Cash,â and. |
+
+âBroker Commissions.â
+
+17
+84. Likewise, Daimilerâs Indonesian subsidiary misused âemployee vendor accounts,â
+which were intended for booking employee travel-related expenses, for booking large cash
+disbursements to officials from a state-owned company. Many of these payments were also
+characterized as âfulfillment of commitmentâ on internal payment authorization sheets and were
+improperly booked on Daimlerâs corporate accounting system as âcost of goods sold.â
+
+85. Cash was also withdrawn against certain âomnibusâ accounts and noted on
+âpayment instructions as âto be handed to the customerâ without recording the true nature of the
+payment on Daimilerâs books. |
+
+86. In connection with the sale of a commercial vehicle to a government customer in
+Russia, for instance, former Daimler employees made cash payments to two government officials
+totaling DM 9,191.34. Both payments were referenced internally as âsocial supportâ payments.
+At least one of these payments was evidenced by a receipt signed by a government official. A
+former employee of Daimlerâs subsidiary in Russia, pursuant to orders from superiors, withdrew
+these funds from his own bank account in Germany, flew to Russia with the cash in a suitcase,
+paid the officials in cash, and was later reimbursed by Daimler.
+
+c. Daimler Paid Kickbacks in Connection with the United Nations Oil
+for Food Program
+
+ 
+
+87. Daimler's involvement in the payment of bribes through the Oil for Food Progratn
+took two forms -- direct sales and indirect sales through third parties. Both avenues involved the
+secret payment of ten percent kickbacks to Iraqi government-controlled accounts in a manner
+designed to avoid detection by UN, inspectors. The payments were characterized as âafter sales
+service feesâ (âASSFsâ); however, no services were actually performed. The fee was effectively
+a kickback paid te the Traqi regime. Daimlerâs accounting for its Oil for Food transactions failed
+
+properly to record the nature of the kickback payments that the company either authorized or
+
+18
+made. âThe ASSF payments were not identified in the official purchase contracts provided for the
+U.N.âs review and were not made through the U.N.âs authorized payment channels. Daimlerâs
+| profits on these Oil for Food Program contracts totaled $4,121,3 3.
+
+88. The ULN. Secutity Council established the Oil for Food Program to address a
+humanitarian crisis in Iraq that resulted from trade sanctions levied on Irag by the U.N. and the
+US. following Iraqâs invasion of Kuwait in 1991. Under the Program, the then Iraqi government
+was permitted to sell crude oil, the proceeds of which flowed into a U.N.-controlled escrow |
+account, and the lraqi regime was permitted to use the proceeds to purchase humanitarian
+supplies. The kickbacks paid in connection with the Oil for Food contracts had the effect of
+
+diverting funds out of the escrow account and into accounts under the control of the Iraqi
+government. The Company knew that the ASSF payments were prohibited by the Oil for Food
+Program and by the relevant trade sanctions.
+
+89. Between April and October 2001, Dairaler entered into seven direct contracts with
+
+Iraqi ministries. In all seven transactions, Daimler officials in the Iraq sales office of Overseas
+_ Sales entered into side agreements with the Iraqi ministries in order to obtain the U.N. contracts.
+Daimler did not disclose to the U.N. the side agreements, which called for illegal kickback
+payments totaling approximately $1 million. Of the seven contracts, only one resulted in the
+. delivery of a vehicle to Irag before the U.S. invaded Irag in March 2003. This transaction
+involved the payment ofa $7,134 kickback to an iraqi government ministry. |
+
+90. Daimler officials took affirmative steps to conceal the nature of the ASSF
+
+_ kickbacks. Following the US. invasion, for example, the U.N. demanded that Daimler
+eliminate the ASSF kickbacks from an Oil for Food contract to supply mobile workstations, A
+
+Daimler official falsely represented to the U.N. that the ASSF was âa special discountâ and that
+
+19
+-it was nevÃ©r Daimler's âintention to pay such amount to any third party.â The Daimler official
+knew that the ASSF payment was not a discount on the contract price, and was instead an
+âunder-the-tableâ kickback to be paid at the direction of Iraqi government officials.
+
+91. On another contract, Overseas Sales employees concealed the illegal ASSF
+
+kickback by evading the established UN. payment channels. They disguised the kickback as a
+legitimate commission to Daimlerâs agent in Iraq whose company provided warranty service on
+
+. Daimler vehicles in Iraq. Daimler inflated the agentâs commission by $7,1 34, and the agent
+
+wired that amount from his companyâs Swiss bank account to the Iraqi government-controlled
+
+account at the Housing Bank for Trade and Finance in Amman, Jordan. Daimler improperly
+recorded the payment as a legitimate agent commission.
+
+92. Ultimately, Daimler conducted most of its Iraqi business under the Program
+through third parties. Under the third-party agreements, Daimler sold trucks, truck chassis, and
+spare parts to companies in the Middle East and other countries. Daimlerâs contract partners
+typically modified the vehicles and resold them to Iraqi ministries, paying the standard 10%
+kickback. In total, Daimler entered into twelve third-party contracts in which its contract
+partners made an estimated $5 million in ASSF payments.
+
+93. The Daimler officials who negotiated the third-party contracts knew or should
+have known that Daimlerâs contract partners would pay illegal kickbacks to iraqi ministries. For
+example, Daimler obtained copies of contract files containing resale agreements between its
+contract partners and the Iraqi ministry end-purchasers. The contract files included the secret
+
+| side agreements to pay ASSF kickbacks. One internal Daimler email message acknowledged the
+
+side letters using the German abbreviation K.D. for âKundendienst,â or after-sales services
+
+payment.
+
+20
+B Daimler Bribed Through Phony Intermediaries and Consultants
+
+94. Daimler routinely used sham intermediaries and consultants to funnel payments to
+government officials in several countries, including Russia, Latvia, China, Uzbekistan, Greece,
+Turkey, Hungary, Ghana, Nigeria, and Vietnam. Several of these comupt payments were made
+to US. bank accounts controlled âby nominees for the foreign government officials.
+
+95. In China, Daimler funneled bribes to government officials through as many as 7 i
+âintermediariesâ many of whom were associated with phony consulting contracts or entities.
+with no actual business operations.
+
+96. In connection with contracts worth â¬37,415,070 to sell 302 buses and 4 vans to an |
+Uzbekistan government agency; for example, Daimlerâs EvoBus subsidiary paid a total of
+approximately â¬3.5 million in improper payments to shell companies of government officials to
+obtain the deal. |
+
+97.  Daimlerâs internal price calculation sheets marked âconfidentialâ reflect that
+BvoBus sales executives promised to pay certain Uzbek government officials 10% of the
+underlying net sales price of the bus deal, or approximately â¬3.5 million.
+
+98. Daimler entered into phony consulting agreements with these shell companies .
+about one month before exeeuting the sales contract with the Uzbek government agency, while
+
+internally referring to the payments in conniection with the agreements as âNAP | |
+
+99, The payments were sent to a bank account in England and another in Switzerland
+held by two nominee companies incorporated in the British Virgin Islands.
+
+100. Similarly, in order to obtain contracts to sell } 17 buses to a city in Latvia in deals
+worth approximately â¬30 million, the former head of sales for MB Buses at EvoBus executed -
+
+consulting agreements involving no discernible services with two U.S.-incorporated nominees
+
+24
+for City Council members, and paid those entities â¬1,251,274 in connection with the bus
+contract.
+
+101. The arrangement to pay the Council members âunder the table moneyâ through
+nominees was reflected in several internal EvoBus documents. A March 24, 2002 memo reflects
+that a 5% commission on the underlying deal (or â¬216,115) would be made through one of the
+US. incorporated nominees to the members of a political party in the Latvian city, who
+controlled the City Council at the time, including the son of a high-ranking government official
+whose father had influence over the tender, |
+
+102. Other internal documents show that later corrupt payments to members of a
+political party on the Latvian City Council, who also had influence over the tender, were made
+through the other of the two US. nominees.
+
+103. Daimler routinely made payments to foreign government officials through
+nominee and personal bank accounts in Latvia, the United States and other countries with no
+other association to the sales transactions at issue, |
+
+104. For example, in order to obtain a contract for the sale of four vehicles to a Russian
+government agency, Daimler wired â¬110,000 to a German bank account held in the name of a |
+senior official at that government agency.
+
+105.. / Tn addition, Daimler wired funds to bank accounts in Latvia held by five corporate
+nominees of the senior official from the Russian government agency, his wife and other
+individuals close to him.
+
+106. After the Commissionâs FCPA investigation started, in order to circumvent new
+controls that had been put in place, Daimler paid âcommissionsâ totaling â¬488,320 to a third-
+
+party intermediary named by the senior official from the Russian government agency. The third-â
+
+22
+party intermediary instructed Daimler to wire the so-called commission payments to Latvian
+bank accounts, one of which was previously held in the name of an earlier nominee of the senior
+official from the Russian government agency,
+
+E. Daimler Made Bribes Through Dealers and Distributors
+
+107. In countries such as Greece, Liberia, Turkmenistan, Latvia, and Bulgaria, Daimler
+utilized certain of its in-country dealers and distributors as corrupt intermediaries to facilitate
+deals with government customers, pass bribes to government officials and assist Daimler in
+hiding the true nature of the corrupt payments on its books.
+
+108. In Greece, for instance, Daimlerâs long-time Mercedes general representative
+owned part of a principally-state-owned company that supplied vehicles to a Greek government
+agency. Daimler engaged the Greek representative to use his influence to secure the sale of 645
+vehicles to the Greek government agency and coordinated with the representative to pass bribe
+payments to government officials through phony consultants and intermediaries.
+
+109. In connection with this deal, Daimler paid nearly DM 17 million, which was
+shared between officials of the Greek government agency and the Greek representative.
+
+110. Similarly, in order to enter the market and secure business in Tarkmenistan,
+Daimler, with the aid of its distributor in Turkmenistan, provided pitts personally to a senior
+government official of Turkmenistan, who had decision-making authority over Daimilerâs sales
+contracts with the Turkmen government.
+
+lil. . These pifts took the form of two armored vehicles worth at least â¬550,000 in total
+and the German translation and publication of a book authored by the Turkmen senior |
+
+government official. There were also at least $2 million in payments to the distributor and other
+
+23
+third parties that were characterized in Daimler documents as NLA. payments and additional
+costs.
+
+Â¥F. ~~ Daimler Provided Government Officials Lavish Travel
+
+112. In connection with Daimlerâs commercial vehicle business in China, Daimler
+routinely executed side agreements with its government customers through which the Company
+agreed to retum a certain percentage of the contract or a specific amount of money to the
+customer-ââmistabeled as a special commission or special discountâfor the purpose of funding.
+lavish trips for government officials. |
+
+113. The âdelegation tripsâ funded by the so-called discounts and commissions were in
+reality lavish vacations to European cities for Chinese government officials and their relatives.
+
+114. . in order to sell two commercial vehicles to a Chinese government agency, for
+| example, Daimler executed side agreements stating that â¬11,000 as a âspecial commissionâ
+would be returned to the customer once full payment was received on the commercial vehicles
+
+and that Daimler would pay for accommodations and flights for a six person delegation to visit
+âGermany/Europe.â
+
+115. As reflected in internal documents, Daimler later allocated â¬1 1,000 towards
+financing a lavish vacation for six officials io Luxembourg, Amsterdam, Brussels, Patis, Rome,
+- Florence, Venice and Munich. In total; between 1999 and 2006, Daimler paid for at least 16
+such delegation trips in connection with $120 million in vehicle sales to the Chinese government
+customers,
+
+FIRST CLAIM
+{Violations of Section 30A of the Exchange Act]
+
+116. Paragraphs 1 through 115 are re-alleged and incorporated by reference.
+
+â24
+117. As described above, Daimler, and certain of its subsidiaries, through means or .
+: instrumentalities of US. commerce, cormuptly offered, promised to pay, or authorized corrupt
+payments to a person, while knowing that all or a portion of those payments would be offered,
+give, or promised, directly or indirectly, to foreign government officials for the purposes of
+influencing their acts or decisions in their official capacity, inducing them to do or omit to do
+actions in violation of their lawful duties, securing an improper advantage, or inducing such.
+foreign officials to use their influence with a foreign government or instrumentality thereof to
+assist Daimler in obtaining or retaining business.
+
+118. By reason of the foregoing, Daimler violated the anti-bribery provisions ofthe â
+FCPA, as codified at Section 30A of the Exchange Act [15 U.S.C. Â§78dd-1].
+
+SECOND CLAIM
+
+[Violations of Section 13(b)(2)(A) of the Exchange Act]
+119. Paragraphs | through 118 are re-alleged and incorporated by reference.
+
+120. As described-above, Daimler, and certain of its subsidiaries, failed to make and
+_ keep books, records and accounts which, in reasonable detail, accurately and fairly reflected its
+transactions and dispositions of its assets.
+
+121. By reason of the foregoing, Daimler violated Section 13(b)(2\(A) of the Exchange
+
+âAct {15 USC. Â§ T8m(b)(2\AY].
+
+25
+THIRD CLAIM
+[Violations of Section 13(b)(2}(@) of the Exchange Act}
+
+122. Paragraphs 1 through 121 are re-alleged and incorporated by reference.
+
+. 123. As described above, with respect to improper payments to foreign officials,
+Daimler and certain of its subsidiaries failed to devise and maintain a system of internal.
+accounting controls sufficient to provide reasonable assurances that: @) payments were made in
+
+accordance with management's general or specific authorization; and (ii) payments were
+recorded as necessary to permit preparation of financial statements in conformity with generally
+accepted accounting principles or any other criteria applicable to such statements, and to
+maintain accountability for its assets. | |
+124. By reason of the foregoing, Daimler violated Section 13(6)(2)(B) of the Exchange
+
+Act [15 U.S.C. Â§ 78m(b)(2)(B)].
+
+PRAYER FOR RELIEF
+WHEREFORE, the Commission respectfully requests that this Court enter a final
+judgment: | -
+
+_A. Permanently restraining and enjoining Dairoler from violating Sections 30A,
+13@)2KA) and 1300)2)B) of the Exchange Act [15 U.S.C. Â§Â§ 78dd-1, 78m(b)(2)(A), and
+TemOOB, OS
+| B. ~Â° Ordering Daimler to disgorge ill-gotten gains wrongfully obtained as a result of
+_its illegal conduct; and | |
+
+Cc. Granting such further relief as the Court may deem just and appropriate.
+
+26
+Dated: March}, 2010
+
+âOf Counsel
+Gerald W. Hodgkins (DC Bar No. 447678)
+
+Conway T. Dodge --
+Anita B. Bandy (DC Bar No. 465629)
+
+Cheryl J. Scarboro (DC Bar No. 422175)
+Tracy L. Price
+Robert 1. Dodge (DC Bar No. 418914)
+
+27
+
+Frederick L. Block (DC Bar No. 492358)
+
+U.S. Securities and Exchange Coramission
+
+100 F Street, NLE.
+Washington, D.C. 20549
+Tel: 202-551-4919
+Pax: 202-772-9245
+BlockF @sec.gov
+
+Attorneys for Plaintiff

@@ -1,0 +1,515 @@
+Case 1:20-cv-05159 Documenti1 Filed 07/06/20 Page 1 of 15
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+Bureau of Consumer Financial
+Protection,
+
+Plaintiff,
+V.
+
+My Loan Doctor LLC d/b/a Loan
+Doctor and Edgar Radjabli,
+
+Defendants.
+
+ 
+
+ 
+
+COMPLAINT
+
+CASE NO.
+
+The Bureau of Consumer Financial Protection (Bureau) brings this action
+
+against My Loan Doctor LLC d/b/a Loan Doctor (Loan Doctor) and Edgar Radjabli
+
+and alleges as follows.
+
+INTRODUCTION
+
+1. The Bureau brings this action against Loan Doctor and Radjabli under
+
+Â§ 1054 of the Consumer Financial Protection Act of 2010 (CFPA) to address
+
+deceptive acts or practices in connection with offering consumers a âcertificate of
+
+depositâ (CD), purportedly created to generate capital for Loan Doctorâs healthcare-
+
+loan-origination business.
+JURISDICTION AND VENUE
+
+2. This Court has subject-matter jurisdiction because this action is
+âbrought under Federal consumer financial law,â 12 U.S.C. Â§ 5565(a)(1), presents a
+federal question, 28 U.S.C. Â§ 1331, and is brought by an agency of the United
+States, 28 U.S.C. Â§ 1345.
+
+3. This Court has personal jurisdiction over Defendants because the
+causes of action arise from Defendantsâ conduct in this district. 12 U.S.C. Â§ 5564(f).
+
+4. Venue is proper in this district because Defendants have done business
+
+in this district. 12 U.S.C. Â§ 5564(f).
+
+PARTIES
+
+5. The Bureau is an agency of the United States charged with regulating
+the offering and provision of consumer-financial products and services under
+âFederal consumer financial laws,â 12 U.S.C. Â§ 5491(a), including the CFPA, 12
+U.S.C. Â§ 5481(14). The Bureau has independent litigating authority, including the
+authority to enforce the CFPA. 12 U.S.C. Â§ 5564(a), (b).
+
+6. Loan Doctor is a Delaware financial-services company operating in
+West Palm Beach, Florida, and New York, New York.
+
+7. Because Loan Doctor is a company, it is a âpersonâ as that term is
+defined in the CFPA. 12 U.S.C. Â§ 5481(19).
+
+8. At all times relevant to this Complaint, Loan Doctor has been a
+âcovered personâ under the CFPA, 12 U.S.C. Â§ 5481(6)(A), because it âengages in
+
+offering or providing a consumer financial product or service.â The CFPA defines
+âconsumer financial product or serviceâ to include âengaging in deposit-taking
+activities ... or otherwise acting as a custodian of funds . . . for use by or on behalf
+of a consumerâ for personal, family, or household purposes. 12 U.S.C. Â§ 5481(5),
+(15)(A)Gv). Loan Doctor offers to accept deposits from consumers and to act as a
+custodian of those funds for use by consumers for personal, family, or household
+purposes.
+
+9. Radjabli is a ârelated personâ under the CFPA, 12 U.S.C.
+Â§ 5481(25)(C)G), because he was an officer of Loan Doctor and was charged with
+managerial responsibility for Loan Doctor.
+
+10. Asarelated person, Radjabli is liable because he is deemed to be a
+âcovered personâ under the CFPA, 12 U.S.C. Â§ 5481(25)(B), and because he has
+engaged in the deceptive acts and practices described below, in violation of
+
+Â§ 1036(a)(1)(B) of the CFPA, 12 U.S.C. Â§ 5536(a)(1)(B).
+
+FACTS
+11.  Radjabli founded Loan Doctor in July 2019 with the following business
+plan: Loan Doctor would originate loans for healthcare professionals wanting to
+purchase or start a new practice; Loan Doctor would then immediately sell those
+loans for a profit to pre-committed secondary investors.
+12. To purportedly fund these loans before selling them to buyers, in
+August 2019, Loan Doctor began offering consumers what it dubbed a âHealthcare
+
+Finance (HCF) Savings CD Account,â or an âHCF High Yield CD Account,â
+featuring what Loan Doctor referred to in its advertising as âthe highest return of
+any savings product in the US at 6% APY.â
+
+13. The minimum deposit required from a consumer to open an âHCF High
+Yield CD Accountâ was $1,000.
+
+14. Loan Doctor advertised that any deposit made by a consumer would
+result in the purchase of a CD that matured monthly and could be withdrawn, with
+interest, with one monthâs notice.
+
+15. Loan Doctor marketed its HCF High Yield CD Account through a
+variety of media: its website, targeted Facebook and Google advertisements, press
+releases, emails to individuals who had expressed interest, and emails to registered
+investment advisors. Radjabli wrote or edited most of the content for Loan Doctor's
+website and marketing materials.
+
+16. Starting in August 2019, Loan Doctor took more than $15 million from
+at least 400 consumers who opened and deposited money into an HCF High Yield
+CD Account.
+
+17. Inits marketing materials, including on its website, Loan Doctor made
+false and inconsistent representations about both its business model and the
+stability of the funds deposited in its CDs.
+
+18. Specifically, Loan Doctor:
+
+a. falsely represented that it used the money deposited in its HCF
+
+High Yield CD Accounts to originate loans for healthcare professionals
+and that it always had a buyer lined up for the loans before each loanâs
+origination;
+
+b. falsely represented that, to the extent that money deposited in
+one of its HCF High Yield CD Accounts was not being used to originate
+loans, the money would be held in one of the following locationsâan
+FDIC-insured account, a Lloydâs of London-insured account, or a âcash
+alternativeâ or âcash equivalentâ account;
+
+C. falsely touted the stability of its HCF High Yield CD Accounts
+by likening those accounts to various types of savings accounts and
+falsely describing itself as a âcommercial bankâ; and
+d. falsely represented past returns on its HCF High Yield CD
+Accounts.
+
+False, Misleading, and Inaccurate
+
+Representations that Loan Doctor Would Use Consumersâ Money
+
+to Originate Loans for Resale to Pre-Committed Secondary Investors
+
+19. Loan Doctor claimed that the money deposited in its HCF High Yield
+CD Accounts would be used to originate loans for healthcare professionals.
+
+20. According to its website, â[s]imilar to a bank, the funds deposited in
+the account allow Loan Doctor to fund healthcare lending needs during very short
+time periods, before the originated loans are securitized and sold to large
+institutional investors.â
+
+21. Loan Doctor further claimed that whenever it originated such a loan, it
+
+already had an investor lined up to purchase that loan.
+22. Specifically, Loan Doctorâs website stated that â[w]hen loans are
+originated, Loan Doctor always has a securitization buyer/investor available.â
+
+23. Loan Doctorâs website also stated that, â[u]nlike a bank which must
+account for defaults on the loans it issues, Loan Doctorâs ability to immediately
+resell the loans ensures that it is not exposed to defaults.â
+
+24. Loan Doctorâs website further explained that in the current market,
+there is a âtremendous appetite for highly performing loans such as those made to
+healthcare professionals,â and âLoan Doctor therefore has only short term financing
+needs to help generate new lending activity to its high credit grade healthcare
+clients, as it is guaranteed to resell the debt within the 1 month term of the CD.â
+
+25. In addition, Loan Doctorâs website made the claim: âThe Loan Doctor
+team has helped over 3500 doctors nationwide, originating over $500MM in loans.â
+
+26. Finally, Loan Doctorâs website also referred to its âtrusted lending
+partnersâ and then listed specific banksâ names.
+
+27. But Loan Doctor never used the money invested in its HCF High Yield
+CD Accounts to originate loans for healthcare professionals.
+
+28. In fact, Loan Doctor never originated a loan for a healthcare
+professional.
+
+29. Loan Doctor never sold a loan to a bank or secondary-market investor.
+
+30. Loan Doctor never entered into any contracts to sell at a future date to
+
+buyers or investors a loan that it originated.
+Ol.
+
+False, Misleading, and Inaccurate Representations
+about the Location and Safety of Consumersâ Deposits
+
+Loan Doctorâs website contained a detailed FAQ section that was
+
+dedicated to explaining how Loan Doctorâs business operated and was designed to
+
+reassure consumers as to the safety of their deposits.
+
+o2.
+
+Loan Doctor specifically stated that, when not being used to originate
+
+healthcare loans, consumersâ âidleâ money would be held in one of the following
+
+places:
+
+Oo.
+
+a. âDuring the times that the funds are idle, they are invested in
+FDIC insured cash and cash equivalents with our banking partners,
+where they also earn interestâ;
+
+b. âThe funds in the CD account are deposited at either US banks
+where they are covered by FDIC insurance, or in the case of cash
+alternatives, by Lloydâs of London up to $100MMâ; and
+
+C. âLoan Doctor maintains a cash reserve equivalent to the amount
+on deposit, therefore each account is 100% fully collateralized with
+cash/cash alternatives.â
+
+In fact, most of the money that consumers deposited with Loan Doctor
+
+was not held in the types of accounts described on Loan Doctorâs website. Instead,
+
+money that consumers deposited with Loan Doctor was placed in a hedge fund
+
+owned by Radjabli and then invested in securities, or it was invested with a
+
+securities broker-dealer that offered individuals high-interest loans backed by those
+
+individualsâ stock holdings.
+34. Until February 2020, Loan Doctor invested between $100,000 and
+$200,000 of consumersâ deposits in a fintech company that claimed on its website to
+have been insured by a $100 million policy from Lloydâs of London. But Loan Doctor
+ceased investing in the fintech company in February 2020 and later transferred the
+money to one of its other investment locations.
+
+35. Additionally, Loan Doctor was not capitalized by any source apart from
+consumers who made cash deposits into its HCF High Yield CD Accounts, rendering
+false the statement that âLoan Doctor maintains a cash reserve equivalent to the
+amount on deposit.â
+
+36. Loan Doctor concealed its true business model from consumers.
+
+False, Misleading, and Inaccurate Representations that Loan Doctorâs
+HCF High Yield CD Accounts were Comparable to a Bank Savings Account
+
+37. Loan Doctor made several claims that compared its HCF High Yield
+CD Accounts to a traditional savings account with a guaranteed return, when, in
+fact, Loan Doctor invested most of the consumersâ money in volatile securities or
+securities-backed investments. Specifically, Loan Doctor claimed or implied that its
+HCF High Yield CD Accounts:
+
+a. provided a âshort term savings option for clients looking for a
+stable, guaranteed and predictable interest income, comparable to a
+traditional bank savings account or CDâ;
+
+b. had â[t]he highest return of any savings product in the US at 6%
+
+APYâ;
+Case P:20-cv-05159 Docum | ed O7/O6/20 Page 9 of 5
+C. provided a guaranteed return, asking in a Facebook
+
+advertisement, âHey Mom and Dad, Are you getting a Guaranteed 6%
+APY on my college fund?â;
+d. mimicked a bank CD, comparing Loan Doctorâs structure to
+âFractional Reserve Bankingâ and stating: âHow does the HCF High
+Yield CD Account Earn Interest? Similar to a bank, the funds
+deposited in the account allow Loan Doctor to fund healthcare lending
+needs during very short time periods, before the originated loans are
+securitized and sold to large institutional investorsâ; and
+e. functioned like a bank CD, stating: âCan the interest rate
+change? Yes, just like any bank savings or CD account, the HCF High
+Yield CD account interest rate could rise or fall, depending on market
+conditions, such as the federal rate or healthcare lending
+environment.â
+
+38. In fact, each representation described in paragraph 37 was false.
+
+39. Loan Doctorâs Facebook page explicitly stated that it was a
+
+âCommercial Bank.â
+40. Loan Doctor was not a commercial bank.
+41. The money that consumers deposited with Loan Doctor was actively
+
+traded in the stock market or used to make stock-backed loans.
+False, Misleading, and Inaccurate Representations
+about Past Performance of its HCF High Yield CD Accounts
+
+42. Loan Doctorâs Facebook page stated that, for the HCF High Yield CD
+Accounts it offered, âthe principal is guaranteed and insured. The interest is not,
+but we have paid 6% through all of 2019 and 5% to 6.25% in years prior.â
+
+43. In fact, Loan Doctor only began offering its CD in August 2019, and
+
+consumersâ principal was neither guaranteed nor insured.
+
+Defendantsâ Post-Investigation Conduct
+
+44. On March 20, 2020, the Bureau requested that Loan Doctor cease
+offering its High Yield CD product to consumers and remove all marketing of the
+CD product from its website.
+
+45. On March 26, 2020, Loan Doctor partially heeded the Bureauâs
+request, removing all new offerings of its CD product from its website. But Loan
+Doctor did not cease operating.
+
+AG. Instead, Radjabli contacted several financial advisors in an effort to
+continue to sell Loan Doctorâs High Yield CD product under a different name while
+still concealing its risks to consumers.
+
+47. Inemails to those advisors, Radjabli made no mention of the Bureauâs
+request that Loan Doctor cease offering and marketing its CD product and stop
+taking any new deposits from consumers. Rather, Radjabli explained: âOur lending
+partners (who are big banks, mostly) have decided they do not like that we have a
+
+CD program because it competes with the savings products they offer. ... So weâve
+
+10
+been basically given an ultimatum... which is: donât advertise/call it a CD or they
+will not work with us on the lending side... . [T]he investment has to be called
+something that does not resemble a banking product.â
+
+48.  Radjabli sought the advisorsâ help to find a name for Loan Doctor's
+product âthat conveys the security, predictable income, imperviousness to stock
+
+market volatility etc of the product but without sounding like a bank product.â
+
+VIOLATIONS OF LAW
+
+49. Under the CFPA, it is unlawful for any covered person to engage ina
+deceptive act or practice in connection with any transaction with a consumer for a
+consumer-financial product or service or the offering of a consumer-financial
+product or service. 12 U.S.C. Â§Â§ 5531(a), 5536(a)(1)(B).
+
+50. A practice is deceptive if (1) there is a representation or omission of
+information that is likely to mislead consumers acting reasonably under the
+circumstances and (2) that information is material to consumers.
+
+COUNT 1
+Deceptive Representations about Healthcare Lending
+
+51. The Bureau re-alleges and incorporates by reference paragraphs 1-50.
+
+52. Defendants represented that the money consumers deposited in HCF
+High Yield CD Accounts would be used to originate loans for healthcare
+professionals and that, at the time Loan Doctor would originate such a loan, it
+
+would already have an investor lined up to purchase that loan.
+
+11
+53. In fact, these representations were false because Defendants never
+used the money consumers deposited into HCF High Yield CD Accounts to originate
+loans for healthcare professionals, nor did Defendants enter into a contract with
+any buyer or investor to purchase a loan.
+
+54. Defendantsâ misrepresentations were likely to mislead consumers
+acting reasonably under the circumstances.
+
+55. Defendantsâ misrepresentations were material because they were
+likely to affect the conduct or decisions of consumers regarding whether to deposit
+money into the HCF High Yield CD Accounts.
+
+56. Therefore, Defendants engaged in deceptive acts or practices, in
+violation of the CFPA. 12 U.S.C. Â§Â§ 5531(a), 5536(a)(1)(B).
+
+COUNT 2
+Deceptive Representations about
+the Location of Consumersâ Deposits
+
+57. The Bureau re-alleges and incorporates by reference paragraphs 1-50.
+
+58. Defendants represented that the money consumers deposited into HCF
+High Yield CD Accounts, when not being used to originate loans, would be held in
+an FDIC-insured account, an account that is insured by Lloydâs of London, or a
+âcash alternativeâ or âcash equivalent.â
+
+59. Defendants represented that Loan Doctor maintained a cash reserve in
+
+an amount âequivalent toâ the money that consumers had deposited.
+
+12
+60. In fact, these representations were false because consumersâ funds
+were primarily invested in actively traded securities or loaned, through a third
+party, to investors using their individual-stock portfolios as collateral.
+
+61. Defendantsâ misrepresentations were likely to mislead consumers
+acting reasonably under the circumstances.
+
+62. Defendantsâ misrepresentations were material because they were
+likely to affect the conduct or decisions of consumers regarding whether to deposit
+money in the HCF High Yield CD Accounts.
+
+63. Therefore, Defendants engaged in deceptive acts or practices, in
+violation of the CFPA. 12 U.S.C. Â§Â§ 5531(a), 5536(a)(1)(B).
+
+COUNT 3
+Deceptive Representations Comparing
+
+Loan Doctorâs HCF High Yield CD Account to a Savings Account
+
+64. The Bureau re-alleges and incorporates by reference paragraphs 1-50.
+
+65. Defendants represented that Loan Doctor was a commercial bank.
+
+66. In fact, Loan Doctor was not a commercial bank.
+
+67. Defendants represented that money deposited in Loan Doctorâs HCF
+High Yield CD Accounts was safe and that the HCF High Yield CD Accounts were
+comparable to a traditional savings account with a guaranteed return.
+
+68. In fact, these representations were false because Defendants invested
+consumersâ money in volatile securities or securities-backed investments.
+
+69. Defendantsâ misrepresentations were likely to mislead consumers
+
+acting reasonably under the circumstances.
+
+13
+70. Defendantsâ misrepresentations were material because they were
+likely to affect the conduct or decisions of consumers regarding whether to deposit
+money in Loan Doctorâs HCF High Yield CD Accounts.
+
+71. Defendants therefore engaged in deceptive acts or practices, in
+violation of the CFPA. 12 U.S.C. Â§Â§ 5531(a), 5536(a)(1)(B).
+
+COUNT 4
+Deceptive Representations about Past Performance
+
+72. The Bureau re-alleges and incorporates by reference paragraphs 1-50.
+
+73. Defendantsâ Facebook page stated that in years before 2019, the HCF
+High Yield CD Accounts paid interest at rates between 5% and 6.25%.
+
+74. â In fact, this representation was false, as Loan Doctor did not offer its
+HCF High Yield CD Accounts before August 2019.
+
+75. Defendantsâ misrepresentation was likely to mislead consumers acting
+reasonably under the circumstances.
+
+76. Defendantsâ misrepresentation was material because the past
+performance of the HCF High Yield CD Accounts was likely to affect the conduct or
+decision of consumers regarding whether to deposit money in those accounts.
+
+77. Defendants therefore engaged in deceptive acts or practices, in
+
+violation of the CFPA. 12 U.S.C. Â§Â§ 5531(a), 5536(a)(1)(B).
+
+DEMAND FOR RELIEF
+
+The Bureau requests that the Court, as permitted by 12 U.S.C. Â§ 5565:
+
+a. enjoin Defendants from committing future violations of the CFPA;
+
+14
+Case 1:20-cv-05159 Document1 Filed 07/06/20 Page 15 of 15
+
+b. award damages or other monetary relief against Defendants;
+C. order Defendants to pay redress to consumers;
+
+d. order disgorgement of Defendantsâ ill-gotten gains;
+
+e. impose civil money penalties on Defendants;
+
+f. order Defendants to pay the costs incurred in connection with
+
+prosecuting this action; and
+
+go, award additional relief as the Court may determine to be just and
+
+proper.
+
+Respectfully submitted,
+
+THOMAS G. WARD
+Enforcement Director
+JEFFREY PAUL EHRLICH
+Deputy Enforcement Director
+KARA K. MILLER
+
+Assistant Litigation Deputy
+
+s/Stefanie Isser Goldblatt
+
+STEFANIE ISSER GOLDBLATT (NY Bar No. 2750594)
+Senior Litigation Counsel
+
+Telephone: 212-328-7009
+
+e-mail: Stefanie.Goldblatt@cfpb.gov
+BENJAMIN KONOP (OH Bar No. 0073458)
+Senior Litigation Counsel
+
+Telephone: 202-435-7265
+
+e-mail: Benjamin. Konop@cfpb.gov
+STEPHANIE DUFF-OâBRYAN
+
+(NY Bar No. 5026224; TX Bar No. 24087448)
+Senior Litigation Counsel
+
+Telephone: 202-435-9358
+
+e-mail: Stephanie. Duff-OBryan@cfpb.gov
+
+ 
+
+Bureau of Consumer Financial Protection
+1700 G Street, NW
+Washington, D.C. 20552
+
+15

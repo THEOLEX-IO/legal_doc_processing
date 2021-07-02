@@ -1,0 +1,67 @@
+Release Number 7136-15
+
+  
+
+March 16, 2015
+
+CFTC Orders ICE Futures U.S., Inc. to Pay a $3 Million Civil Monetary Penalty for
+Recurring Data Reporting Violations
+
+Washington, DC - The U.S. Commodity Futures Trading Commission (CFTC) today issued an Order filing and
+simultaneously settling charges against ICE Futures U.S., Inc. (ICE), a designated contract market (DCM), for
+submitting inaccurate and incomplete reports and data to the CFTC over at least a 20-month period, from at least
+October 2012 through at least May 2014.
+
+According to the CFTC Order, on every reporting day during the period above, ICE submitted reports and data containing
+errors and omissions, with cumulative inaccuracies totaling in the thousands. The Order further finds that CFTC staff
+repeatedly notified ICE of the problems with its reports and data and requested that ICE take action to correct the
+mistakes, but that ICE continued to submit inaccurate reports and data. The Order requires ICE to pay a $3 million civil
+monetary penalty and to comply with undertakings aimed at improving its regulatory reporting.
+
+CFTC Director of Enforcement Aitan Goelman commented: âThe CFTC cannot carry out its vital mission of protecting
+market participants and ensuring market integrity without correct and complete reporting by registrants, including DCMs.
+Todayâs action makes clear that registrants who fail to meet their reporting obligations will be held accountable and that
+the CFTC takes a particularly dim view of reporting violations that continue over many months, especially after CFTC staff
+has repeatedly alerted the registrant in question to the problems in its reporting.â
+
+Pursuant to Part 16 of the CFTC Regulations, a DCM is required to submit certain trading and market-related reports and
+data to the CFTC. In particular, a DCM is required to submit, for each business day, clearing member reports showing
+certain information for each future or option contract, including, among other things, the quantity of contracts currently
+open, the quantity of contracts bought and sold throughout the day, and the quantity of delivery notices. A DCM is also
+required to provide the CFTC with permanent record data relating to trading volume, open contracts, prices, and certain
+critical dates, and transaction-level trade data and related order information for each futures or options contract.
+
+The Order specifically finds that, beginning in at least October 2012, CFTC staff notified ICE about its data and reporting
+errors, which included incorrect clearing member reports, permanent record data, and transaction-level trade data. ICE
+responded that these errors resulted primarily from technology upgrades and data migration projects, and while they
+affected data provided to the CFTC, they did not affect data published by ICE on its website. ICE further assured CFTC
+staff that its data-reporting problems would be fixed with the conversion to a new data-reporting format. CFTC staff
+informed ICE that continuing to report faulty data in the interim was unacceptable. Nevertheless, ICE continued to submit
+inaccurate and incomplete reports.
+
+Further, ICE did not respond in a timely and satisfactory manner to inquiries from CFTC staff from multiple divisions about
+these data-reporting issues, including initial inquiries from the Division of Enforcement. Eventually, ICE did cooperate
+fully with the investigation and took effective corrective actions to address its reporting deficiencies. The CFTC has taken
+that cooperation and those actions into account in settling this matter.
+
+In addition to imposing the $3 million civil monetary penalty, the CFTC ordered ICE to comply with undertakings to
+improve its regulatory reporting. For instance, ICE must create and maintain a new senior position of Chief Data Officer,
+who will have direct responsibility for systems and procedures relating to regulatory reporting, and ICE must hire and
+maintain at least three additional quality assurance staff who will be dedicated to regulatory reporting. ICE also must
+undertake certain data-reconciliation efforts, including reviewing certain prior data submissions to the CFTC to identify
+further violations of the charged CFTC Regulations and, beginning 120 days from the date of the Order, endeavoring to
+reconcile data provided to the CFTC with data published on its website, as well as with other data existing within ICEâs
+systems and its clearing providersâ systems. Additionally, ICE must correct any errors or omissions in data provided to
+the CFTC pursuant to Part 16 of the CFTC Regulations within one week of discovery or notification of the errors or
+omissions, or, in the event such corrections will take more than a weekâs time, reporting to the CFTC why additional time
+will be necessary.
+
+The CFTC Division of Enforcement staff members responsible for this matter are Margaret Aisenbrey, Allison Sizemore,
+Jeff Le Riche, and Charles Marvine, with assistance from the CFTC Division of Market Oversight staff Kelly Beck, Matthew
+Hunter, Harry Hild, and Anthony Saldukas and the CFTC Office of Data and Technology staff Regina Sanders, Margie
+Sweet, Rene Garcia, and Ed Wehner.
+
+Media Contact
+Dennis Holden
+202-418-5088
+Last Updated: March 16, 2015

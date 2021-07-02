@@ -1,0 +1,266 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF TEXAS
+
+SHERMAN DIVISION
+Â§
+SECURITIES AND EXCHANGE Â§
+COMMISION, Â§
+Â§
+Plaintiff, Â§
+Â§
+VS. Â§ CIVIL ACTION NO.:
+Â§
+ORTHOFIX INTERNATIONAL N.V., Â§
+Â§
+Defendant. Â§
+Â§
+
+COMPLAINT FOR VIOLATIONS OF THE FEDERAL SECURITIES LAWS
+
+Plaintiff Securities and Exchange Commission (âCommissionââ) alleges as follows:
+
+SUMMARY
+
+1. This matter involves violations of the books and records and internal controls
+provisions of the Foreign Corrupt Practices Act (âFCPAâ) by Defendant Orthofix International
+N.V. (âOrthofixââ), an orthopedic medical device company. From 2003 to 2010, Orthofixâs
+wholly-owned Mexican subsidiary, Promeca S.A. de C.V. (âPromecaââ), repeatedly paid bribes
+totaling approximately 317,000 to Mexican officials in order to obtain and retain sales contracts
+from Instituto Mexicano del Seguro Social (âIMSSâ), the Mexican government-owned
+healthcare and social services institution. Promeca employees referred to these payments as
+âchocolates.â
+
+2. These improper payments, falsely recorded on the companyâs books as cash
+advances to Promeca executives or training and promotions expenses, generated approximately
+
+$8.7 million in gross revenues for Orthofix and resulted in illicit net profits of about $4.9 million.
+3. Orthofix violated Section 13(b)(2)(A) of the Securities Exchange Act of 1934
+(âExchange Actâ) by failing to accurately record these improper payments on its books and
+records. Orthofix violated Section 13(b)(2)(B) of the Exchange Act by failing to maintain an
+
+adequate system of internal accounting controls to detect and prevent the illicit payments.
+
+JURISDICTION AND VENUE
+
+4. This Court has jurisdiction over this action pursuant to Sections 21(d) and 27 of
+the Exchange Act [15 U.S.C. Â§Â§ 78u(d) and 78aa]. Defendant Orthofixâs common stock is
+traded on the Nasdaq Global Select Market, and Orthofix has, directly or indirectly, made use of
+the means or instrumentalities of interstate commerce, of the mails, or of the facilities of a
+national securities exchange in connection with the transactions, acts, practices and courses of
+business alleged in this Complaint.
+
+5. Venue is proper in this district pursuant to Section 27 of the Exchange Act [15
+U.S.C. Â§ 78aa], because Orthofixâs corporate administrative offices are located in Lewisville,
+Texas.
+
+DEFENDANT
+
+6. Orthofix International N.V. is a limited liability company formed under the laws
+
+ 
+
+of Netherlands Antilles. Its corporate administrative offices are located in Lewisville, Texas.
+Orthofixâs common stock is registered with the Commission pursuant to Section 12 of the
+Exchange Act and is traded on the Nasdag Global Select Market under the symbol âOFIX.â
+
+OTHER RELEVANT ENTITY
+
+7. Promeca S.A. de C.V. is a wholly-owned subsidiary of Orthofix headquartered in
+
+ 
+
+Mexico City, Mexico.
+FACTUAL ALLEGATIONS
+
+Background
+
+8. Orthofix is an orthopedic medical device company that provides surgical and non-
+surgical medical products for various market sectors, such as spine, orthopedics, and sports
+medicine. The company distributes its products both domestically in the United States and
+internationally in multiple countries.
+
+9. During 2003 to 2010, Promeca, Orthofixâs wholly-owned subsidiary based in
+Mexico City, sold Orthofixâs products to government and private hospitals in Mexico.
+Approximately 60% of Promecaâs revenues came from IMSS, the Mexican government-owned
+medical care and social services provider.
+
+10. During the relevant time, Promeca was subject to Orthofixâs control, including
+the implementation of internal controls at Promeca. Additionally, the financial results of
+Promeca were a component of the consolidated financial statements included in Orthofixâs
+filings with the Commission.
+
+The Bribery Scheme
+
+11. From at least 2003 to 2007, Orthofixâs subsidiary, Promeca, regularly paid bribes
+to IMSS hospital employees in the form of cash and/or gifts, in order to secure sales contracts
+from IMSS hospitals.
+
+12. The bribe amounts, referred to internally at Promeca as âchocolates,â ranged from
+5% to 10% of the collected sales for the hospital in question.
+
+13. In order to obtain cash for the illicit payments, Promeca executives wrote checks
+to themselves, which they justified as cash advances.
+
+14. They later submitted falsified receipts for imaginary expenses including meals
+
+and new car tires, which were accounted for in Promecaâs books and records. As the bribes
+
+3
+increased, it became difficult for Promeca executives to invent new receipts to justify the
+advances. Eventually, the bribes became too large, forcing the Promeca executives to devise
+another justification methodology, and hence they began falsely accounting for the payments as
+promotional and training expenses.
+
+15. Because of the bribery scheme, Promecaâs training and promotional expenses
+were significantly over budget. In one instance, Orthofix launched an inquiry into these
+expenses, but did not control them.
+
+16. In 2008, IMSS began purchasing medical products under a new national tender
+system, where a special IMSS committee, rather than the individual hospitals, selected the
+winning bidder who would cover IMSS nationally. Promeca then established a new system of
+bribery to ensure that it was awarded the business under the national tender system. To achieve
+this, Promeca made payments to three front companies, which were controlled by certain IMSS
+officials. Promeca won the national tenders for 2008 and 2009 and paid the front companies 5%
+and 3%, respectively, of the collected sales from those tenders. The front companies concealed
+these bribes by submitting false invoices, characterizing them as training and other promotional
+expenses that Promeca never received. Promeca falsely recorded the bribes on its books as
+payments for training courses, meetings and congresses, and promotional costs.
+
+17. In addition, between 2003 and 2010, Promeca expended approximately $80,050
+on gifts and travel packages, some of which were intended to corruptly influence IMSS
+employees in order to retain their business. The various gifts included vacation packages,
+televisions, laptops, appliances, and in one case, the lease of a Volkswagen Jetta. These
+payments were falsely accounted for in Promecaâs books and records as promotional and training
+
+expenses.
+18. In all, the improper payments, totaling about $317,000, generated approximately
+$8.7 million in gross revenues and resulted in illicit net profits to Orthofix of about $4.9 million.
+
+Orthofixâs Remedial Measures to Prevent Corrupt Payments
+
+19. Prior to the discovery of the bribery schemes, Orthofix did not have an effective
+FCPA compliance policy or FCPA-related training.
+
+20. Although Orthofix disseminated some code of ethics and anti-bribery training to
+Promeca, the materials were only in English, and it was unlikely that Promeca employees
+understood them as most Promeca employees spoke minimal English.
+
+21. Additionally, even though Promecaâs training and promotional expenses, that
+included the improper payments, were often over budget, Orthofix did very little to investigate or
+diminish the excessive spending.
+
+22. Upon discovery of the bribe payments through a Promeca executive, Orthofix
+immediately self-reported the matter to the Commission staff, and conducted an internal
+investigation.
+
+23. Orthofix also implemented significant remedial measures. Specifically, it
+terminated the Promeca executives that orchestrated the bribery scheme, wound up Promecaâs
+operations, enhanced its overall FCPA compliance program with mandatory annual FCPA
+training for all employees and third-party agents, expanded internal audit functions, and
+implemented other internal control measures.
+
+Orthofixâs Violations
+
+24. Orthofixâs subsidiary characterized their payments to IMSS as cash advances or
+training and promotional expenses even though those payments were used as bribes. Orthofixâs
+
+books and records did not reflect the true nature of those payments.
+25. Orthofix failed to implement adequate internal controls to prevent the bribery or
+to ensure that transaction were properly recorded. Orthofix failed to implement an FCPA
+compliance and training program commensurate with the extent of its international operations
+and particularly its ownership of Promeca, a subsidiary that had substantial sales to government-
+owned enterprises. Further, even though Orthofix knew that Promecaâs training and promotional
+expenses were often over budget, it did nothing to act on the red flag.
+
+FIRST CLAIM FOR RELIEF
+Violation of Exchange Act Section 13(b)(2)(A)
+[15 U.S.C. Â§ 78m(b)(2)(A)]
+
+26. The Commission realleges and incorporates by reference paragraphs | through
+25.
+
+27. As described above, Orthofix, through its subsidiary, failed to keep books,
+records, and accounts, which, in reasonable detail, accurately and fairly reflected its transactions
+and disposition of its assets.
+
+28. By reason of the foregoing, Orthofix violated, and unless enjoined will continue
+to violate, Section 13(b)(2)(A) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(A)].
+
+SECOND CLAIM FOR RELIEF
+Violations of Exchange Act Section 13(b)(2)(B)
+[15 U.S.C. Â§ 78m(b)(2)(B)]
+
+29. The Commission realleges and incorporates by reference paragraphs | through
+28.
+
+30. As described above, Orthofix failed to devise and maintain a system of internal
+accounting controls sufficient to provide reasonable assurances that: (1) transactions were
+
+executed in accordance with managementâs general or specific authorization; and (11)
+transactions were recorded as necessary (I) to permit preparation of financial statements in
+
+conformity with generally accepted accounting principles or any other criteria applicable to such
+
+statements, and (II) to maintain accountability for its assets.
+
+31.
+
+By reason of the foregoing, Orthofix violated, and unless enjoined will continue
+
+to violate, Section 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(B)].
+
+PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that the Court enter a final
+
+judgment:
+
+A.
+
+Dated:
+
+Permanently restraining and enjoining Orthofix from violating Sections
+
+13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78(b)(2)(A), and
+
+78m(b)(2)(B)I;
+
+Ordering Orthofix to disgorge ill-gotten gains wrongfully obtained as a result of
+
+its illegal conduct, with prejudgment interest; and
+
+Granting such further relief as the Court may deem just and appropriate.
+
+July 10, 2012
+Fort Worth, Texas
+
+Respectfully submitted,
+
+/s/ Toby M. Galloway
+
+Toby Galloway
+
+Securities and Exchange Commission
+801 Cherry Street, Unit 18, Suite 1900
+Fort Worth, Texas 76102-6882
+Telephone: (817) 978-6447
+Facsimile: (817) 978-4927
+
+ 
+
+John W. Berry (New York State Bar No. 2972610)
+Attorneys for Plaintiff
+
+Securities and Exchange Commission
+
+5670 Wilshire Boulevard, 11th Floor
+
+Los Angeles, California 90036-3648
+
+(323) 965-3890 (telephone)
+
+(323) 965-3908 (facsimile)
+
+berry] @sec.gov (email)
+
+7

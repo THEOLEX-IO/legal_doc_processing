@@ -1,0 +1,357 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+RECEIVED CFTC \
+
+ 
+
+In the Matter of:
+
+ 
+
+Proceedings Clerk
+
+ 
+
+MORGAN STANLEY & CO. LLC, 10:44 am, Aug 06, 2015]
+
+CFTC Docket No. 15-26
+
+ 
+
+Respondent.
+
+Neeâ Ne ee Ne aeâ mee etâ
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+
+I,
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+Morgan Stanley & Co. LLC (âMorgan Stanleyâ or âRespondentâ) violated Commission
+Regulations 22.9 and 166.3. Therefore, the Commission deems it appropriate and in the public
+interest that public administrative proceedings be, and hereby are, instituted to determine
+whether Respondent engaged in the violations set forth herein and to determine whether any
+order should be issued imposing remedial sanctions.
+
+IT.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
+Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions (âOrderâ) and
+acknowledges service of this Order.!
+
+ 
+
+' Respondent consents to the entry of this Order and to the use of these findings in this proceeding and in
+any other proceeding brought by the Commission or to which the Commission is a party; provided,
+however, that Respondent does not consent to the use of the Offer, or the findings or conclusions in this
+Order consented to in the Offer, as the sole basis for any other proceeding brought by the Commission,
+other than in a proceeding in bankruptcy or to enforce the terms of this Order. Nor does Respondent
+consent to the use of the Offer or this Order, or the findings or conclusions in this Order consented to in
+the Offer, by any other party in any other proceeding.
+Il.
+The Commission finds the following:
+A. SUMMARY
+
+On numerous days from March 12, 2013 to March 7, 2014, Morgan Stanley failed to hold
+sufficient US Dollars in segregated accounts in the United States on behalf of cleared swaps
+customers to meet all US Dollar obligations to those customers, as specified in Regulations
+1.49(b)(1) and (e), in violation of Regulation 22.9(a). During a longer period, from November 8,
+2012 to on or about April 8, 2014, Morgan Stanley did not have in place adequate procedures to
+ensure that it complied with Regulation 22.9(a), in violation of Regulation 166.3.
+
+B. RESPONDENT
+
+Morgan Stanley is a financial services firm, organized under the laws of Delaware, which
+is registered with the Commission as an FCM, provisionally registered with the Commission as a
+swap dealer, and registered with the Securities and Exchange Commission as a broker-dealer.
+Morgan Stanleyâs principal office is in New York, New York. Among other things, Morgan
+Stanley executes and clears customer transactions in commodity futures, swaps, stocks, and
+options in the United States and worldwide.
+
+C. FACTS
+
+From March 12, 2013 to March 7, 2014, on numerous days, Morgan Stanley failed to
+hold sufficient US Dollars in segregated accounts in the United States to meet all of its US
+Dollar obligations to cleared swaps customers. On those dates, Morgan Stanley held the amount
+of the US Dollar deficits in Euros and other currencies, rather than in US Dollars, when its
+cleared swaps customers did not deposit such funds in or request conversion to those currencies,
+and when funds did not accrue to the customers in those currencies as a result of cleared swaps
+carried through Morgan Stanley, to the extent of such accruals. The size of Morgan Stanleyâs
+US Dollar deficits ranged from approximately $5 million to approximately $265 million, at times
+representing more than ten percent of the amount that the firm was obligated to maintain in US
+Dollars for cleared swaps customers. Because Morgan Stanley held the amount of the US Dollar
+deficits in Euros and other currencies, it did not have a shortfall in overall cleared swaps
+customer collateral. Nonetheless, on the days at issue, Morgan Stanley did not maintain
+sufficient US Dollars in segregation to meet its US Dollar obligations to cleared swaps
+customers, in violation of Regulation 22.9(a).
+
+From November 8, 2012 to on or about April 8, 2014, Morgan Stanley did not have in
+place adequate procedures to comply with the currency denomination requirements for holding
+cleared swaps customer collateral as required by Regulation 22.9(a), and Morgan Stanley did not
+train and supervise its personnel to ensure compliance with Regulation 22.9(a). On or about
+April 8, 2014, Morgan Stanley learned of its failure to comply with Regulation 22.9(a) from a
+routine financial examination conducted by the Financial and Regulatory Surveillance
+Department of the Chicago Mercantile Exchange (âCMEâ). Morgan Stanley promptly
+investigated the deficiencies and implemented procedures to ensure that it would maintain
+sufficient US Dollars to satisfy its requirements for holding cleared swaps customer collateral.
+
+2
+Morgan Stanley also promptly reported the deficiencies to the Commission and cooperated with
+the Division of Enforcement in its investigation relating to this proceeding.
+
+IV.
+LEGAL DISCUSSION
+A. Failure to Maintain Sufficient US Dollars for Cleared Swaps Obligations
+
+In relevant part, Regulation 22.9(a) provides, subject to Regulation 22.9(b), that FCMs
+âmay hold Cleared Swaps Customer Collateral in the denominations, at the locations and
+depositories, and subject to the segregation requirements specified in [Regulation 1.49].â 17
+
+C.F.R. Â§ 22.9(a).?
+
+Regulation 1.49(b)(1) provides that âa [FCMâs] obligations to a customer shall be
+denominated: (i) [iJn the United States dollar; (ii) [i]n a currency in which funds were deposited
+by the customer or were converted at the request of the customer, to the extent of such deposits
+and conversions; or (iii) [i]n a currency in which funds have accrued to the customer as a result
+of trading conducted on a designated contract market, to the extent of such accruals.â See also
+Regulation 22.9(b) (providing that ââa [FCMâs] obligations to a Cleared Swaps Customer may be
+denominated in a currency in which funds have accrued to the Cleared Swaps Customer as a
+result of a Cleared Swap carried through such [FCM], to the extent of such accrualsâ).
+
+Additionally, Regulation 1.49(e) provides that an FCM âmust, as of the close of each
+business day, hold in segregated accounts... [s]ufficient United States dollars, held in the
+United States, to meet all United States dollar obligations.â 17 C.F.R. Â§ 1.49(e)(1)().
+
+Morgan Stanleyâs US Dollar deficits on the numerous days at issue represented US
+Dollar obligations to the firmâs cleared swaps customers that were improperly maintained in
+non-US Dollar currencies. As of the close of business on each of those days, Morgan Stanley
+did not hold sufficient US Dollars in segregated accounts in the United States to meet all of its
+US Dollar obligations to its cleared swaps customers. By holding portions of its US Dollar
+obligations in other currencies, Morgan Stanley failed to comply with these requirements of
+Regulation 1.49. See In the Matter of Interactive Brokers LLC, CFTC Docket No. 13-19 (Apr. 9,
+2013) (finding that FCM violated Regulation 1.49(b) and (e) by holding portions of its US Dollar
+obligations to futures customer in other currencies, even when the firm had sufficient excess
+segregated funds overall). Respondent thereby violated Regulation 22.9(a), 17 C.F.R. Â§ 22.9(a).
+
+B. Failure to Diligently Supervise
+Commission Regulation 166.3, 17 C.F.R. Â§ 166.3, requires that â
+Each Commission registrant, except an associated person who has no
+
+supervisory duties, must diligently supervise the handling by its partners,
+officers, employees and agents (or persons occupying a similar status or
+
+ 
+
+* Regulation 22.9 became effective April 9, 2012, and all parties were required to comply by
+November 8, 2012. See Protection of Cleared Swaps Customer Contracts and Collateral, 77 Fed.
+Reg. 6,336 (Feb. 7, 2012) (codified at 17 C.F.R. pt. 22).
+
+3
+performing a similar function) of all commodity interest accounts carried,
+operated, advised or introduced by the registrant and all other activities of
+its partners, officers, employees and agents (or persons occupying a
+similar status or performing a similar function) relating to its business as a
+Commission registrant.
+
+A violation under Regulation 166.3 is an independent violation for which no underlying violation
+is necessary. See In re Collins, [1996-1998 Transfer Binder] Comm. Fut. L. Rep. (CCH)
+q 27,194 at 45,744 (CFTC Dec. 10, 1997).
+
+A violation of Regulation 166.3 is demonstrated by showing either that (1) the
+registrantâs supervisory system was generally inadequate; or (2) the registrant failed to perform
+its supervisory duties diligently. In re Murlas Commodities, (1994-1996 Transfer Binder]
+Comm. Fut. L. Rep. (CCH) Â¥ 26,485 at 43,161 (CFTC Sept. 1, 1995); In re GNP Commodities,
+Inc., [1990-1992 Transfer Binder] Comm. Fut. L. Rep. (CCH) { 25,360 at 39,219 (CFTC
+Aug. 11, 1992) (providing that, even if an adequate supervisory system is in place, Regulation
+166.3 can still be violated if the supervisory system is not diligently administered), aff'd sub
+nom. Monieson v. CFTC, 996 F.2d 852 (7th Cir. 1993); In re Paragon Futures Ass'n, [1990-
+1992 Transfer Binder] Comm. Fut. L. Rep. (CCH) { 25,266 at 38,850 (CFTC Apr. 1, 1992)
+(âThe focus of any proceeding to determine whether Rule 166.3 has been violated will be on
+whether [a] review [has] occurred and, if it did, whether it was diligent.â); Samson Refining Co.
+v. Drexel Burnham Lambert, Inc. [1987-1990 Transfer Binder] Comm. Fut. L. Rep. (CCH)
+
+{ 24,596 at 36,566 (CFTC Feb. 16 1990) (noting that, under Regulation 166.3, an FCM has a
+âduty to develop procedures for the detection and deterrence of possible wrongdoing by its
+agentsâ) (internal quotation omitted). Evidence of violations that âshould be detected by a
+diligent system of supervision, either because of the nature of the violations or because the
+violations have occurred repeatedly,â is probative of a failure to supervise. Jn re Paragon
+Futures, J 25,266 at 38,850. See in the Matter of Interactive Brokers LLC, CFTC Docket No.
+13-19 (Apr. 9, 2013) (finding that firm violated Regulation 166.3 by failing to have procedures
+in place to ensure compliance with, among other provisions, the currency denomination
+requirements for customer protection under Regulation 1.49).
+
+Throughout the period from November 8, 2012 (the compliance date for the cleared
+swaps customer collateral rules) to at least April 8, 2014 (when the violations of Regulation
+22.9(a) were discovered), Morgan Stanley did not have procedures in place to ensure compliance
+with Regulation 22.9(a), 17 C.F.R. Â§ 22.9(a), and the firm did not train and supervise its
+personnel to ensure compliance with this rule. Morgan Stanley thereby failed to supervise
+diligently its officers, employees, and agents and did not have sufficient procedures in place to
+detect and deter the violations of the Regulations found herein, in violation of Regulation 166.3,
+17 C.F.R. Â§ 166.3.
+A.
+B.
+
+V.
+
+FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that Morgan Stanley violated Regulations
+22.9(a) and 166.3, 17 C.F.R. Â§Â§ 22.9(a) and 166.3.
+
+VI.
+OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+Acknowledges receipt of service of this Order;
+
+Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+Waives:
+
+1. The filing and service of a complaint and notice of hearing;
+
+2. A hearing;
+
+3. All post-hearing procedures;
+
+4, Judicial review by any court;
+
+5. Any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+6. Any and all claims that it may possess under the Equal Access to Justice Act, 5
+U.S.C. Â§ 504 (2012) and 28 U.S.C. Â§ 2412 (2012), and/or the rules promulgated by
+the Commission in conformity therewith, Part 148 of the Regulations, 17 C.F.R.
+Â§Â§ 148.1-30 (2014), relating to, or arising from, this proceeding;
+
+7. Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, Â§Â§ 201-253, 110 Stat.
+847, 857-868 (1996), as amended by Pub. L. No. 110-28, Â§ 8302, 121 Stat. 112,
+204-205 (2007), relating to, or arising from, this proceeding; and
+
+8. Any claims of Double Jeopardy based on the institution of this proceeding or the
+
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer;
+E.
+
+Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+1. Makes findings by the Commission that Respondent violated Regulations 22.9(a)
+and 166.3, 17 C.F.R. Â§Â§ 22.9(a) and 166.3;
+
+2. Orders Respondent to cease and desist from violating Regulations 22.9(a) and
+166.3, 17 C.F.R. Â§Â§ 22.9(a) and 166.3;
+
+3. Orders Respondent to pay a civil monetary penalty in the amount of three-hundred
+thousand dollars ($300,000) within ten (10) days of the date of entry of this Order;
+
+4. Orders Respondent to comply with its undertakings consented to in the Offer and
+as set forth in Part VII of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+VII.
+
+ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent and its successors and assigns shall cease and desist from violating
+Regulations 22.9(a) and 166.3, 17 C.F.R. Â§Â§ 22.9(a) and 166.3.
+
+Respondent shall pay a civil monetary penalty in the amount of three-hundred thousand
+dollars ($300,000) (âCMP Obligationâ) within ten (10) days of the date of entry of this
+Order. If the CMP Obligation is not paid in full within ten (10) days of the date of entry
+of this Order, then post-judgment interest shall accrue on the CMP Obligation beginning
+on the date of entry of this Order and shall be determined by using the Treasury Bill rate
+prevailing on the date of entry of this Order pursuant to 28 U.S.C. Â§ 1961 (2012).
+
+Respondent shall pay the CMP Obligation by electronic funds transfer, U.S. postal
+money order, certified check, bank cashierâs check, or bank money order. If payment is
+to be made other than by electronic funds transfer, then the payment shall be made
+payable to the Commodity Futures Trading Commission and sent to the address below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables --- AMZ 340
+E-mail Box: 9-AMC-AMZ-AR-CFTC
+DOT/FAA/MMAC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+Telephone: (405) 954-7262
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Nikki
+
+Gibson or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+
+6
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581, and to Manal M. Sultan, Deputy Director, Division of
+Enforcement, Commodity Futures Trading Commission, 140 Broadway, 19" Floor, New
+York, NY 10005.
+
+C. Respondent and its successors and assigns shall comply with the following undertakings
+set forth in the Offer:
+
+l, Public Statements: Respondent agrees that neither it nor any of its successors or
+assigns, agents, or employees under its authority or control shall take any action
+or make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondentâs (i) testimonial obligations; or (ii) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondent and its successors and assigns shall undertake all steps necessary to
+ensure that all of its agents and/or employees under its authority or control
+understand and comply with this agreement.
+
+2. Cooperation with the Commission: Respondent shall continue to cooperate fully
+and expeditiously with the Commission, including the Commissionâs Division of
+Enforcement, in this proceeding and in any civil or criminal investigation,
+litigation, or administrative or self-regulatory matter related to the subject matter
+of this proceeding.
+
+3. Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission of any partial payment of Respondentâs CMP Obligation shall
+not be deemed a waiver of its obligation to make further payments pursuant to this
+Order, or a waiver of the Commissionâs right to seek to compel payment of any
+remaining balance.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+LAted W dd ran
+
+Robert N. Sidman
+Deputy Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: August 6, 2015

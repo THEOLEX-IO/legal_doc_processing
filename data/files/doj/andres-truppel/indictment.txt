@@ -1,0 +1,1951 @@
+Case Pit-or-O7056-DLC Document) Filed 2/42/11 Fage 1 of 40
+UNITED STATES DISTRICT COURT .
+
+DGE Â¢
+SOUTHERN DISTRICT OF NEW YORK : ORIGINAL
+
+â
+
+ 
+
+UNITED STATES OF AMERICA
+
+- Vv. - INDICTMENT
+
+URIEL SHAREF, IM .
+HERBERT STEFFEN, : 1 1 CR 1 0 5 6
+ANDRES TRUPPEL, wl
+
+ULRICH BOCK, :
+
+EBERHARD RETICHERT,
+
+STEPHAN SIGNER,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CARLOS SERGI, and _â RSbeSBNY
+DOCUMENT
+Defendants. . ELECTRONICALLY FILED
+. DOC #: /
+oo DATE FILED: DEC 12 2011
+COUNT ONE
+
+(Conspiracy to Commit Bribery, Falsify Corporate Books and
+Records, Circumvent Internal Controls, and Commit Fraud)
+
+The Grand Jury charges:
+
+Relevant Entities and Persons
+
+ 
+
+1. At all times relevant to this Indictment, Siemens
+Aktiengesellischaft (hereafter referred to as âSiemens AG,â and
+collectively with its operating groups, divisions, subsidiaries, and
+affiliates as âSiemensâ), was an engineering company headquartered
+in Munich, Germany that had more than 400,000 employees and
+operations in approximately 190 countries worldwide, including the
+United States. Siemens AGâs business primarily involved developing,
+
+constructing, selling, and servicing equipment and systems for
+national, state, and municipal governments. The company employed
+more than 60,000 people in the United States, derived substantial
+revenue from sales in the United States, and maintained its U.S.
+headquarters in Manhattan, New York.
+
+2. As of March 12, 2001, Siemens AG was listed on the
+New York Stock Exchange and was an âissuer,â as that term is used
+in the Foreign Corrupt Practices Act. See 15 U.S.C. Â§ 78dd-1(a).
+
+3. Siemens AG had a âSupervisory Boardâ anda âManaging
+Board,â in accordance with German law. The Supervisory Board, which
+served a function similar to that of a U.S. companyâs board of
+directors, appointed and removed members of the Managing Board and
+oversaw management, but was not permitted to make management
+decisions. The Managing Board, or the Vorstand, was responsible for
+Managing Siemensâs business operations and generally was comprised
+of 10 members. Siemens AG also had a Corporate Executive Committee
+(âCECâ), or the Zentral Vorstand, which was comprised of members of
+the Managing Board, including the Chief Executive Officer (âCEOâ)
+and the Chief Financial Officer (âCFOâ), among select others.
+Members of the CEC were assigned advisory responsibility, under the
+title of âCoach,â for particular areas and regions of Siemensâs
+global business operations and special projects. In turn, senior
+executives at the group or regional level provided monthly reports
+
+to the CEC, briefed the CEC on major projects and other matters of
+
+-2-
+Case Pit-or-O7056-DLC Document) Filed 2/42/11 Fage 3 of 40
+
+significance, and regularly engaged with the Coach assigned to their
+area or region.
+
+4. Siemensâs worldwide operations were carried out by
+operating groups of Siemens AG based in Germany, and by an array of
+regional Siemens companies situated around the globe.
+
+5. The projects for which Siemens was hired worldwide
+were typically run out of Germany by units within the Siemens AG
+operating groups, with support, as needed, from regional companies.
+These units within the Siemens AG operating groups sometimes took
+the form of wholly owned subsidiaries of Siemens AG, and typically
+were themselves split into various subdivisions, with names like
+âMajor Projects.â The operating group unit subdivisions were
+responsible for day-to-day project management, and generally
+consisted of two components: a âcommercialâ side, which oversaw the
+projectâs administration and finances; anda âtechnicalâ side, which
+provided operational oversight. This dual-management structure
+served a checks-and-balances function, which was also promoted by
+a set of principles and guidelines to which managers adhered in
+conducting Siemensâs business. One such rule, known as the â4-eye
+principle,â required signatures of two managers, one commercial and
+one technical, to authorize third-party disbursements on projects.
+
+6. At all times relevant to this Indictment, Siemens
+
+Business Services GmbH & Co. OGH (âSBSâ), headquartered in Munich,
+
+~ 3 -
+Germany, was a wholly owned subsidiary of Siemens AG and a unit in
+Siemens AGâs information and communications operating group. SBS
+designed, built, operated, maintained, and serviced both discrete
+and large-scale information and communication systems for public and
+private sector customers around the globe. SBS had its own board
+and executive management, including a CEO and CFO, who interacted
+with the Managing Board and CEC at Siemens AG headquarters, as well
+as with the Coaches assigned either to SBS specifically or to the
+region in which SBS was operating a project.
+
+7. At all times relevant to this Indictment, Siemens
+Power Transmission and Distribution (âSiemens PTDâ) was a unit in
+Siemens AG's power operating group. Siemens PTD designed,
+manufactured, sold, and serviced power generation equipment,
+software, and network control equipment.
+
+8. At all times relevant to this Indictment, Siemens S.A.
+(âSiemens Argentinaâ), based in Buenos Aires, Argentina, was one of
+Siemensâs regional companies and a controlled subsidiary of Siemens
+AG. Siemens Argentina had its own board and executive management,
+including a CEO and CFO, who interacted with the Managing Board and
+CEC, as well as with the Coach assigned to the Americas region.
+Siemens Argentinaâs principal responsibility was to sell Siemensâs
+business services in Argentina, mainly by identifying and securing
+
+contracts for public works projects.
+
+- 4 -
+9. At all times relevant to this Indictment, Siemens IT
+Services S.A. (âSITSâ) was a special-purpose subsidiary created by
+SBS in Argentina for the purpose of bidding for the âDNIâ or Documento
+
+Nacional de Identidad project, which is discussed in further detail
+
+below.
+The Defendants
+10. The following individuals are defendants who were
+âofficer[s], director[s], employee[s], [and] agent[s]â of an
+
+âissuer,â Siemens AG, as those terms are used in the Foreign Corrupt
+Practices Act, see 15 U.S.C. Â§ 78dd-1l(a):
+
+a. URIEL SHAREF, a dual citizen of Israel and
+Germany, was employed by Siemens from in or about 1978 to on or about
+December 31, 2007. From on or about October 1, 2000, until his
+departure from Siemens, SHAREF was a member of Siemens AGâs Managing
+Board and CEC, with oversight responsibilities as Coach for Siemens
+AG's power operations group, including Siemens PTD, and Siemens AG's
+operations in the Americas region, including Siemens Argentina.
+Prior to his appointment to the Managing Board and CEC, SHAREF held
+regional management positions at Siemens AGâs subsidiaries and
+affiliates covering areas in Latin America, including Colombia,
+Venezuela, Ecuador, and Peru. From in or about December 2000 to in
+or about September 2003, SHAREF was chairperson of the Supervisory
+
+Board of Siemens Argentina.
+Case Pit-or-O7056-DLC Document) Filed P2211 Fage 6 of 40
+
+b. HERBERT STEFFEN, a citizen of Germany, was
+employed by Siemens from in or about 1960 to in or about 2003. From
+in or about 1996 until his departure from the company, STEFFEN was
+group president of Siemens AGâs transportation systems operating
+group. Previously, STEFFEN was a group president of Siemens PTD.
+From in or about 1983 to in or about 1989, STEFFEN was CEO of Siemens
+Argentina, and from in or about 1989 to in or about 2000, he was
+chairperson of the Supervisory Board of Siemens Argentina.
+Previously, STEFFEN had worked for Siemens in Germany, Argentina,
+and Brazil.
+
+c. ANDRES TRUPPEL, a dual citizen of Germany and
+Argentina, was employed by Siemens from in or about 1977 to in or
+about 2002, and thereafter was a consultant to Siemens until in or
+about 2004. From inor about 1996 until his shift to consultant status,
+TRUPPEL was CFO of Siemens Argentina. Previously, he had worked for
+Siemens in Germany, the United States (in San Francisco and Seattle),
+and Mexico.
+
+d. ULRICH BOCK, a citizen of Germany, was employed
+by Siemens from in or about 1965 to in or about 2001, and was a paid
+consultant to Siemens thereafter until in or about May 2007. From
+in or about 1997 to in or about 2001, BOCK was commercial head of
+SBS's Major Projects subdivision. Previously, BOCK worked for
+
+Siemens in Germany, Austria, and France.
+e. EBERHARD REICHERT, a citizen of Germany, was
+employed by Siemens from in or about 1964 to in or about 2001. From
+the late 1990s to in or about 2001, REICHERT was technical head of
+SBSâs Major Projects subdivision.
+
+f. STEPHAN SIGNER, a citizen of Germany, was
+employed by Siemens from in or about 1979 to in or about 2011, with
+relatively brief hiatuses. From in or about 2000 to in or about 2007,
+SIGNER worked for SBS as a commercial director in various capacities.
+
+11. The following individuals are defendants who were
+associated with Siemens AG and served as âagentsâ of Siemens AG as
+that term is used in the Foreign Corrupt Practices Act, see 15 U.S.C.
+Â§ 78dd-1(a), and intermediaries between Siemens and officials of the
+Government of Argentina (collectively, the âIntermediary
+Defendantsâ):
+
+a. CARLOS SERGI, a citizen of Argentina, was a
+prominent businessman in Latin America with extensive high-level
+government contacts in Argentina. He was, for a period of 15 years
+ending in or about 2003, a member of the Supervisory Board of Siemens
+Argentina, overlapping with URIEL SHAREF, the defendant.
+
+b. MIGUEL CZYSCH, a citizen of Germany anda
+resident of Switzerland, was a business associate of CARLOS SERGI,
+
+the defendant.
+Case Pit-or-O7056-DLC Document) Filed 2/42/11 Fage 8 of 40
+
+Co-Conspirators
+
+12. Co-Conspirator #1, a co-conspirator not named herein
+as a defendant, was an attorney in Buenos Aires, Argentina and a
+former senior official in the Argentine Ministry of Justice.
+
+13. Co-Conspirator #2, a co-conspirator not named herein
+as a defendant, was an attorney in Buenos Aires, Argentina anda
+former senior official in the Argentine Ministry of Justice.
+
+14. Co-conspirator #3, a co-conspirator not named herein
+as a defendant, was employed by Siemens from in or about 1964 to in
+or about 2000. Co-conspirator #3 was CEO of Siemens Argentina from
+in or about 1996 until his departure from the company.
+
+15. Co-conspirator #4, a co-conspirator not named herein
+as a defendant, was employed by Siemens from in or about 1972 to in
+or about 2002. In or about 1993, Co-conspirator #4 became a deputy
+general counsel in the Legal Services office at Siemens AG
+headquarters, and continued to serve that function in a consulting
+capacity from in or about 2002 through the 2000s.
+
+16. Co-conspirator #5, a co-conspirator not named herein
+as a defendant, was a business partner of CARLOS SERGI, the defendant.
+
+17. Co-conspirator #6, a co-conspirator not named herein
+as a defendant, was a business partner of MIGUEL CZYSCH, the
+
+defendant.
+Case Tit-or-O7056-DLC Document) Filed 2/42/11 Fage 9 of 40
+
+Overview of the Conspiracy
+
+18. In or about August 1994, the Government of Argentina
+issued a tender for bids to replace an existing system of manually
+created national identity booklets with state-of-the-art national
+identity cards (the Documento Nacional de Identidad or âDNIâ project).
+The total estimated value of the DNI project was approximately $1
+billion. After bids for the project were solicited by the Argentine
+Ministry of the Interior, Siemens AG, SBS, and Siemens Argentina
+organized a multinational consortium to bid on the contract through
+SITS. Bids were submitted on or about December 27, 1996, and on or
+about February 19, 1998, the President of Argentina issued a decree
+awarding the DNI project to SITS. The contract for the DNI project
+was executed by SITS and the Ministry of the Interior on or about
+October 6, 1998.
+
+19. From in or about 1996 up to and including on or about
+August 12, 2009, URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL,
+ULRICH BOCK, EBERHARD REICHERT, STEPHAN SIGNER, CARLOS SERGI, MIGUEL
+CZYSCH, the defendants, and others known and unknown, engaged ina
+conspiracy on behalf of Siemens to obtain the lucrative proceeds of
+the DNI project, and to foster future business, by means of bribery,
+fraud, and other forms of corruption. Members of the conspiracy won
+the DNI project for Siemens by bribing Argentine government officials.
+
+They paid more bribes in the hope of reviving the project when, in
+
+- 9 -
+or about 2001, the DNI project was stalled. Ultimately, and as
+discussed in more detail below, the DNI project was terminated
+altogether. Even after that point, members of the conspiracy
+continued to pursue the profits that Siemens had expected to gain
+from the project. They did so through additional bribes and corrupt
+conduct, including the pursuit of a fraudulent arbitration in
+Washington, D.C. against the Argentine government, demanding nearly
+$500 million while actively hiding the corruption from the tribunal.
+
+20. Some of the conspirators were employed by Siemens as
+executives, lawyers, and managers working on DNI project matters;
+others served as agents and conduits for the payment of bribes to
+Argentine government officials who were in a position to influence
+the direction of the DNI project. Integral to the conspiracy, and
+to the concealment of the illegal objects of the conspiracy, was the
+conspiratorsâ use of at least 17 conduit entities (collectively, the
+âConduit Entitiesâ) controlled or otherwise affiliated with the
+Intermediary Defendants and with various Argentine government
+officials and candidates for office who were the recipients or
+intended recipients of bribe payments (the âArgentine Officialsâ).
+
+Means and Methods of the Conspiracy
+
+21. Among the means and methods used by URIEL SHAREF,
+
+HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK, EBERHARD REICHERT,
+
+STEPHAN SIGNER, CARLOS SERGI, MIGUEL CZYSCH, the defendants, and
+
+- 10 -
+co-conspirators known and unknown, to achieve the objects of the
+conspiracy were the following:
+
+a. using cash and withdrawals of funds from
+general-purpose accounts at Siemens AG to make bribe payments and,
+thereby, make those illicit transactions more difficult to detect;
+
+b. using deceptive accounting maneuvers to give
+bribe payments the appearance of legitimacy and otherwise make those
+corrupt transactions more difficult to detect;
+
+Cc. using the Intermediary Defendants and the
+Conduit Entities as conduits in transacting bribe payments to
+insulate Siemens, the bribe recipients, and the defendants from
+potential adverse consequences of the corrupt transactions;
+
+d. transferring funds between and through accounts
+held by the Conduit Entities, as well those held by other entities,
+to conceal that the funds were to be used in whole and in part to
+pay bribes and to conceal the identities of the parties to these
+corrupt transactions;
+
+e. creating the illusion that the Intermediary
+Defendants were business consultants in connection with the DNI
+project, even though the Intermediary Defendants provided no such
+consulting services on the DNI project, to give bribe payments the
+
+appearance of legitimacy;
+
+- 11 -
+Gase iitt-cr-f?OS6-DLC Document? Filed T2/ie/ii Page t2 of 40
+
+Â£. mischaracterizing bribes in the corporate books
+and records of Siemens AG as consulting fees and other seemingly
+legitimate expenses;
+
+g. using off-books accounts as a way to conceal
+corrupt payments;
+
+h. using accounts controlled by Siemens AG
+business divisions and subsidiaries having no connection to the DNI
+project as a way to conceal corrupt payments;
+
+i. causing Siemens to enter into consulting
+âcontractsâ with many of the Conduit Entities â which were situated
+at off-shore locations, such as the Bahamas, the British Virgin
+Islands, Guernsey in the Channel Islands, the Cayman Islands, Panama,
+Switzerland, and Uruguay â even though these companies provided no
+legitimate service to Siemens, on the DNI project or otherwise, to
+give bribe payments the appearance of legitimacy;
+
+j- issuing âinvoicesâ to Siemens that requested
+payment for services, and authorizing reimbursement for those
+services, even though no such services had been provided to Siemens,
+on the DNI project and otherwise, to give bribe payments the
+appearance of legitimacy;
+
+k. circumventing Siemens AGâs compliance and
+ethics program, including internal and external audits aimed at
+
+detecting criminal conduct;
+
+- 12 -
+Gase iiti-cr-f?OS6-DLC Bocument? Filed T2/ie/ii Page 13 of 40
+
+1. giving bribe payments the appearance of
+legitimacy by disguising them as funds used to settle an arbitration
+proceeding before an otherwise legitimate international tribunal;
+
+m. engaging in witness tampering by making payoffs
+to witnesses and otherwise obstructing justice to prevent the
+exposure of bribery to the public and governmental authorities;
+
+n. engaging in an international money laundering
+conspiracy by transferring bribe payments through bank accounts held
+in the United States, as more fully described in Count Two;
+
+Q. defrauding the Argentine government of money by
+means of materially false and fraudulent pretenses, representations,
+and material omissions, as more fully described in Count Three; and
+
+p. concealing the corrupt manner in which Siemens
+won the DNI project, concealing the corrupt relationship between
+Siemens and the Intermediary Defendants, and concealing evidence of
+corruption in international arbitrations.
+
+Initial Bribe Commitments and Payments
+22. In or about February 1998, when the DNI project was
+initially awarded to Siemens, Co-conspirator #3 and ANDRES TRUPPEL,
+the defendant, were respectively CEO and CFO of Siemens Argentina,
+and ULRICH BOCK and EBERHARD REICHERT, the defendants, were
+respectively the commercial and technical managers of SBSâs Major
+
+Projects subdivision in charge of the DNI project.
+
+- 13 -
+Gase iiit-cr-f?OS6-DLC Bocument? Filed T2/ie/ii Page 14 of 40
+
+23. To secure the DNI project for Siemens, Co-conspirator
+#3, and co-conspirators known and unknown, committed Siemens to
+paying nearly $100 million in bribes to sitting officials of the
+Argentine government, members of the opposition party, and
+candidates for office who were likely to come to power during the
+performance of the project. Central to the negotiation of these bribe
+commitments was CARLOS SERGI, the defendant, who helped Siemens form
+the consortium that bid for the DNI project, but whose value to the
+conspiracy was his access to influential members of the Argentine
+government and role as a facilitator, along with MIGUEL CZYSCH, the
+defendant, Co-conspirator #5, and Co-conspirator #6, for the payment
+of bribes to those officials.
+
+24. During the early stages of the DNI project, up to
+approximately late 1999, members of the conspiracy caused Siemens
+to pay bribes in partial satisfaction of the commitments caused by
+Co-conspirator #3 and facilitated by CARLOS SERGI, the defendant.
+Many of these payments were not made pursuant to written contracts,
+as was Siemensâs standard business practice for third-party
+disbursements on projects. Rather, these payments were made pursuant
+to what members of the conspiracy referred to as âblack contractsâ
+â that is, unwritten contracts. SERGI and Co-conspirator #3 paid
+some of the bribe payments themselves, and later sought reimbursement
+
+from Siemens. Other bribe payments were made through more
+
+- 14 -
+Gase iiti-cr-O?OS6-DLC Bocument? Filed T2/ie/ii Page 15 of 40
+
+complicated mechanisms intended to conceal the illicit nature of the
+transactions and the identities of the recipients of the funds. For
+example:
+
+a. ULRICH BOCK, the defendant, and co-conspirators
+known and unknown, made cash withdrawals from Siemens AG
+general-purpose accounts in Germany totaling approximately $10
+million. BOCK then transported the cash across the border into
+Switzerland, and deposited the funds into Swiss bank accounts for
+transfer to Argentine government officials. BOCK and others used
+cash to make the transaction more difficult to detect.
+
+b. BOCK and EBERHARD REICHERT, the defendant, and
+co-conspirators known and unknown, caused SBS to pay millions of
+dollars to three of the Conduit Entities (Pepcon Corporation S.A.,
+a Costa Rican company, and Mirror Development Inc. and Finli Advisors
+Group Inc., both organized under the laws of Panama) under the guise
+of invoices for âconsulting servicesâ purportedly rendered by the
+three Conduit Entities in Chile, Brazil, and Mexico, respectively,
+in connection with the DNI project. In truth, the purported
+âconsulting servicesâ were neither performed nor relevant to the DNI
+project. The payments to Pepcon Corporation S.A. were intended as
+bribe payments to a senior official in the Office of the President
+in the 1980s and 1990s and a candidate for office and member of the
+
+Argentine Congress at various points in the 2000s (âArgentine
+
+- 15 -
+Gase tiit-or-OiOS6-DLC Bocument? Filed l2f_e/ii Page 16 of 40
+
+Official Aâ); the payments to Mirror Development Inc. were intended
+as bribe payments to a senior official in the Ministry of the Interior
+in the 1990s and a member of the Argentine Congress in the late 1990s
+and early 2000s (âArgentine Official Bâ); and the payments to Finli
+Advisors Group Inc. were intended as bribe payments to a senior
+official in the Ministry of Migration and the Office of Internal
+Security in the 1990s, and a member of the Argentine Congress in the
+2000s (âArgentine Official Câ).
+
+Cc. BOCK, REICHERT, ANDRES TRUPPEL, the defendant,
+and co-conspirators known and unknown, caused SBS to transfer two
+wires in the aggregate amount of approximately $7.4 million to a bank
+account in Manhattan, New York, ostensibly to settle a foreign
+exchange hedging contract with a foreign currency company organized
+under the laws of the Bahamas and not named in this Indictment
+(âCompany #1â). The payments were charged to the DNI project, even
+though the hedging contract served no legitimate business purpose.
+In reality, the hedging transaction was a device to conceal bribes
+to some of the Argentine Officials.
+
+25. In or about 1998 and 1999, ULRICH BOCK, EBERHARD
+REICHERT, ANDRES TRUPPEL, the defendants, and co-conspirators known
+and unknown, also caused Siemens to make millions of dollars of
+payments to CARLOS SERGI and MIGUEL CZYSCH, the defendants, and other
+
+intermediaries. These payments, which were transferred through
+
+- 16 -
+Gase iitt-cr-O?OS6-DLC Bocument? Filed T2/ie/it Page 1? of 40
+
+Conduit Entities, were intended to be bribe payments to several of
+the Argentine Officials, in partial satisfaction of bribe
+commitments and to reimburse SERGI for bribe payments he had
+previously advanced to several of the Argentine Officials; and
+otherwise to facilitate the conspiracy. For example, members of the
+conspiracy caused SBS to make transfers of 1,850,000 deutschmarks
+and 3,582,000 Swiss francs (the equivalent of more than $3.6 million)
+to Masters Overseas Corporation, a Conduit Entity organized under
+the laws of the British Virgin Islands, and two payments in the
+aggregate amount of approximately $15 million to Air Traffic Control
+Corporation, a Conduit Entity organized under the laws of the Cayman
+Islands. Siemens Argentina also paid Co-Conspirator #1, a former
+senior official in the Argentine Ministry of Justice, a fee of $5
+million dollars to set up shell companies through which bribes would
+be paid to the Argentine Officials.
+
+Bribe Commitments to Officials of the New Administration
+
+And the Consolidation of Prior Bribe Commitments
+For Payment Under a âWhite Contractâ
+
+26. In or about May 1999, with work on the DNI project
+underway, the Government of Argentina suspended the project, as the
+country faced a mounting economic crisis anda presidential election.
+A new administration, which came to power in or about December 1999,
+
+maintained the suspended status of the DNI project.
+
+-~17 -
+Gase tiit-or-OiOS6-DLC Bocument? Filed l2f_e/ii Page 18 of 40
+
+27. In or about early 2000, Siemens AGâs CEC exercised
+increased control over business matters in Argentina. HERBERT
+STEFFEN, the defendant, was assigned oversight responsibility for
+matters in Argentina, with instructions to continue the DNI project
+at âwhatever the cost,â according to an internal Siemens document.
+At the time, STEFFEN was a senior executive at Siemens AG in Germany,
+but he had served as CEO of Siemens Argentina in the 1980s and chairman
+of that company for over a decade, during which time he had developed
+substantial Argentine government contacts. Then, later in 2000,
+URIEL SHAREF, the defendant, who had substantial experience with
+Siemensâs business interests in Latin America, was appointed to the
+Managing Board and CEC and given oversight responsibilities, as Coach,
+for operations in the Americas, including Argentina and the DNI
+project.
+
+28. URIEL SHAREF and HERBERT STEFFEN, the defendants, led
+a campaign on Siemensâs part to restart the DNI project.
+Renegotiation of the contract governing the DNI project was a part
+of the campaign. STEFFEN lobbied Argentine government officials,
+as did ULRICH BOCK, EBERHARD REICHERT, and ANDRES TRUPPEL, the
+defendants. In mid-December 2000, SHAREF met in Buenos Aires with
+a senior official in the office of the Argentine President
+
+(âArgentine Official Dâ). The meeting engendered optimism at Siemens
+
+- 18 -
+Gase iitt-cr-O?OS6-DLC Bocument? Filed T2/ie/ii Page 19 of 40
+
+that the President of Argentina would soon issue a decree authorizing
+the resumption of the DNI project.
+
+29. Continuing the payment of bribes was part of the
+conspiratorsâ effort to revive the DNI project. In or about the Fall
+of 2000, as the negotiations over the contract progressed, HERBERT
+STEFFEN, ANDRES TRUPPEL, ULRICH BOCK, EBERHARD REICHERT, CARLOS
+SERGI, MIGUEL CZYSCH, the defendants, and co-conspirators known and
+unknown, discussed the subject of bribes in meetings in Germany and
+Argentina. At these meetings, the conspirators caused Siemens, and
+SBS specifically, to commit to satisfying a significant portion of
+the balance of prior bribe obligations to Argentine Officials A, B,
+and C, among other officials, and to commit to paying additional
+bribes to officials of the new Administration, including Argentine
+Official D, a senior official in the Ministry of the Interior in the
+early 2000s and a member of the Argentine Congress in the mid-2000s
+(âArgentine Official Eâ), a senior official in the Ministry of the
+Interior in the early 2000s and a candidate for office in the
+Argentine Congress in the mid-2000s (âArgentine Official Fâ), and
+a senior official in the Ministry of Interior in the early 2000s
+(âArgentine Official Gâ).
+
+30. At these meetings, the conspirators also discussed
+the manner in which the bribes would be paid. They agreed to funnel
+
+payments on all existing and new bribe obligations through the
+
+- 19 -
+Case tiit-er-OiOS6-DLC Bocument? Filed l2f_e/ii Page 20 of 40
+
+Intermediary Defendants. They also agreed to conceal the bribe
+payments under a âwhite contractâ âthat is, a contract that appeared
+legitimate on its face, but which did not reflect an actual
+transaction of business. Specifically, the conspirators agreed to
+consolidate a portion of the bribe obligations into a sham $27 million
+contract between SBS and Mfast Consulting AG (âMfastâ), one of the
+Conduit Entities controlled by the Intermediary Defendants (âthe
+Mfast Contractâ). Members of the conspiracy preferred this âwhite
+contractâ device to the prior practice of making payments under
+so-called âblack contractsâ that did not exist at all. By hiding
+the payment of bribes through a sham contract with one of the Conduit
+Entities, the conspirators made it more difficult for the conspiracy
+to be discovered.
+
+31. In or about January 2001, the Mfast Contract was
+executed by ULRICH BOCK and EBERHARD REICHERT, the defendants, on
+behalf of SBS, and by Co-conspirator #6, on behalf of Mfast.
+Co-conspirator #5 had participated in creating the contract. The
+contract described services on the DNI project that purportedly had
+already been performed by Mfast, but in reality those services had
+not actually been performed and were not expected to be performed.
+
+32. By in or about March 2001, the anticipated decree
+authorizing the resumption of the DNI project still had not issued.
+
+The Argentine government was instead conducting an assessment of the
+
+-~ 20 -
+Gase iiti-cr-f?OS6-DLC Bocument? Filed T2/ie/it Page 21 of 40
+
+merits of continuing the DNI project through a body called
+Sindicarura General de la NacidÃ©n (the General Accounting Agency of
+the Nation, referred to hereafter as âSIGENâ).
+
+33. Ina further effort to prevent termination of the DNI
+project, members of the conspiracy determined to influence SIGENâs
+assessment in Siemensâs favor by bribing a SIGEN board member
+(âArgentine Official Hâ). To this end, ANDRES TRUPPEL and EBERHARD
+REICHERT, the defendants, caused SBS to pay nearly $1 million to
+Co-Conspirator #2, an attorney and former official in the Argentine
+Ministry of Justice who, as TRUPPEL understood, was a close friend
+of Argentine Official H. The bribe payments were disguised as
+lobbying expenses.
+
+The Crisis Management Team and the Response to the Termination
+
+34. Despite Siemensâs efforts and bribe payments
+intended for various foreign officials, the Government of Argentina
+officially terminated the DNI project in or about May 2001. Siemens
+AG responded at the CEC level: URIEL SHAREF, the defendant, who was
+a CEC member and Coach of the Americas region, assembled a âCrisis
+Management Teamâ (âCMTâ), consisting of SBS and Siemens Argentina
+managers and Siemens AG lawyers. SHAREF assigned overall
+responsibility for coordinating the CMTâs activities to
+Co-conspirator #4, an in-house lawyer for Siemens, and the SBS
+
+manager in charge of the DNI project, STEPHAN SIGNER, the defendant,
+
+- 21 -
+Gase iitt-cr-O?OS6-DLC Bocument? Filed T2/ie/ii Page 22 of 40
+
+who had effectively replaced ULRICH BOCK, the defendant, who was in
+semi-retired status. ANDRES TRUPPEL, the defendant, and
+co-conspirators not named as defendants in this Indictment, were also
+named to the CMT. In addition, SHAREF directed that HERBERT STEFFEN,
+the defendant, would provide necessary support to the CMTâs efforts.
+
+35. In furtherance of the conspiracy, the conspirators
+- acting through the CMT and otherwise - continued the bribe scheme
+to (i) ensure that Siemens recognized the economic benefits of the
+contract for the DNI project, notwithstanding its termination and
+the corrupt manner by which it had been procured, (ii) prevent public
+disclosure of the bribery associated with the DNI project, and (iii)
+ensure Siemensâs ability to secure future government contracts in
+Argentina and elsewhere in the region. The conspirators sought to
+achieve these related goals by paying down outstanding bribe
+obligations to Argentine Officials through a complex series of
+transactions, paying down bribe obligations through a sham
+arbitration in Switzerland, and seeking to recoup the anticipated
+financial benefits of the DNI project through a fraudulent
+arbitration in Washington, D.C.
+
+Payments of the Outstanding Bribe
+Obligations through Complex Transactions
+
+36. On or about July 5, 2001, ANDRES TRUPPEL and ULRICH
+BOCK, the defendants, met in Miami, Florida, with CARLOS SERGI and
+
+MIGUEL CZYSCH, the defendants, to re-negotiate the amount of the
+- 22 -
+Gase tiit-er-OiOS6-DLC Bocument? Filed l2f_e/ii Page 23 of 40
+
+outstanding bribe commitments to the Argentine Officials. TRUPPEL
+and BOCK agreed to seek payment of this amount from SBS through the
+previously executed Mfast Contract.
+
+37. Payment of additional bribes proved more difficult
+than anticipated, however, because of Siemensâs own internal
+controls. To circumvent those controls, members of the conspiracy
+were forced to employ less direct means of payment. Ultimately, they
+succeeded, causing Siemens to pay more than $28 million to the
+Argentine Officials and the Intermediary Defendants between in or
+about 2002 and in or about 2007. Three of the payments towards the
+outstanding bribe debt were as follows:
+
+- $5.2 million, in or about July 2002;
+
+- $9.5 million, in or about April and July 2003; and
+
+~ $4.7 million, in or about January and February 2004.
+
+The July 2002 Partial Payment of $5.2 Million
+
+38. In or about July 2002, the conspirators caused SBS
+to pay approximately $5.2 million to the Argentine Officials and the
+Intermediary Defendants. The payment was made through Meder Holding
+Corporation S.A. (âMederâ), a company registered in Uruguay that was
+associated with ANDRES TRUPPEL, the defendant, and through bank
+accounts held by the Conduit Entities. The conspirators used
+fictitious invoices and an illusory consulting contract to give the
+
+payments the appearance of legitimacy. In or about May 2002, TRUPPEL
+
+- 23 -
+sent to STEPHAN SIGNER, the defendant, a series of four Meder invoices
+that requested payment for âmarket development in Chile and Uruguay,â
+and provided wire transfer instructions for payment through a bank
+account in Manhattan, New York. Even though SBS had not sought or
+contemplated Mederâs services, in or about June 2002 an SBS manager
+executed a consultancy contract with Meder, which was backdated to
+on or about October 3, 2000, to make it appear that services had
+previously been provided, even though no services were provided at
+any time. Thereafter, payment was made to Meder, pursuant to Mederâs
+invoices, through the New York-based account. Once the payment
+reached Meder, a significant portion of the money was forwarded
+through bank accounts in Manhattan, New York, to accounts held
+elsewhere by Milmar Ltd. and Pine Top Corporation, two of the Conduit
+Entities. Milmar Ltd. was a company organized under the laws of the
+British Virgin Islands. It was associated with addresses in the
+British Virgin Islands and two addresses in Miami, Florida. One of
+the Miami addresses â a residential ranch-style house â was the same
+address with which Masters Overseas Corporation and Tidwell
+Investments S.A., two other Conduit Entities, were associated.
+
+Plans for Payment of the Balance of the Outstanding
+Bribe Obligations
+
+39. The Meder payment was only a partial payment of the
+
+outstanding bribe obligations, and CARLOS SERGI, the defendant,
+
+- 24 -
+Gase tiit-er-OiOS6-DLC Bocument? Filed l2âf_e/ii Page 25 of 40
+
+continued to put pressure on other members of the conspiracy to pay
+the remaining debt.
+
+40. In or about August 2002, HERBERT STEFFEN and ANDRES
+TRUPPEL, the defendants, met in Madrid, Spain with CARLOS SERGI, the
+defendant, and Argentine Official C. After the meeting, TRUPPEL and
+STEFFEN faxed a handwritten note to URIEL SHAREF, the defendant,
+explaining that âthe situation with respect to the familiar themes
+{had] reached a critical point again,â and that the âplan to gain
+time using certain strategies [was] apparently failing.â A month
+later, SERGI sent a letter to SHAREF urging Siemens to make additional
+payments, suggesting that the payments would help Siemens secure
+âfuture projects,â and offering to mediate the dispute with the
+âclientâ âa reference to the Argentine Officials. By a second letter,
+in December 2002, SERGI asked SHAREF to meet with him in January 2003
+and warned of âdamage to the image and good reputationâ of Siemens
+if it did not come up with a âproper solution.â
+
+41. On or about January 15, 2003, URIEL SHAREF, the
+defendant, traveled to Manhattan, New York, in part to discuss the
+outstanding bribe obligations with CARLOS SERGI, the defendant.
+Within a week, SHAREF met with HERBERT STEFFEN and ANDRES TRUPPEL,
+the defendants, in Munich, Germany, to prepare them for a meeting
+soon thereafter with SERGI and Argentine Official C. SHAREF
+
+instructed STEFFEN and TRUPPEL to appease SERGI and Argentine
+
+- 25 -
+Gase tiit-cr-OiOS6-DLC Bocument? Filed l2f_e/ii Page 26 of 40
+
+Official C by assuring them that SHAREF himself would authorize
+additional bribe payments, and that SHAREF would be amenable to using
+as a mechanism for partial payment an arbitration claim that SERGI
+was threatening to bring in Switzerland against SBS for breach of
+the Mfast Contract.
+
+Payment of $9.5 Million
+
+42. Meanwhile, however, more immediate action needed to
+be taken. In or about mid-February 2003, SERGI warned TRUPPEL and
+STEFFEN, by letter, that if Siemens did not satisfy the outstanding
+bribe obligations by making additional payments, âwe will forgo the
+confidentiality requested by the Company from the start of the
+project for its entire duration,â adding that this âmight well be
+detrimental to the image of the Corporation and its managers.â SERGI
+was more blunt in a note attached to the letter, threatening to upend
+Siemens AG's arbitration claim in Washington, D.C. by exposing the
+bribery. For example, SERGI wrote that the âquestionable procedures
+and criticism of the competitive bidding . . . [would] doubtlessly
+generate a problem at public sector level that would make a positive
+resolution of the claim by Siemens filed in Washington against the
+Argentine Government impossible, and result in a loss for the
+Company.â TRUPPEL forwarded the letter and note to SHAREF,
+suggesting that the missives were indicative of the âpressure we are
+
+under.â
+
+~ 26 -
+fe
+âSag
+Sh
+ca
+So
+a5)
+M2
+tend
+o
+Ae
+ae.
+=
+
+43. Inor about early March 2003, to satisfy CARLOS SERGI,
+the defendant, and the Argentine Officials, URIEL SHAREF and ANDRES
+TRUPPEL, the defendants, orchestrated a complex transaction
+involving two Siemens AG operating groups, an entity in Dubai, United
+Arab Emirates (âCompany #2â), and two of the Conduit Entities with
+bank accounts in the Bahamas, all of which resulted ina set of
+disguised transfers, in the aggregate amount of approximately $9.5
+million, from Siemens to the Argentine Officials and the Intermediary
+Defendants in April and July 2003. SHAREF initiated the transaction
+by directing that a payment be arranged by Siemens PTD, a division
+of Siemens AG's power operating group. SHAREF was the CECâs Coach
+for the power operating group, as he was for the Americas region.
+Company #2, using wiring instructions provided by TRUPPEL,
+transferred funds in a corresponding amount to bank accounts held
+in the Bahamas by Chatarella Investors Ltd. and Rockney Consultants
+Ltd., two of the Conduit Entities. Siemens PTD reimbursed Company
+#2 for the payments, disguising them as payments related to a project
+in China. Over the next several months, at SHAREFâS direction,
+Siemens PTD recouped the payment from SBS, through a series of
+fictitious credits for services that were not actually performed.
+In or about December 2003, STEPHAN SIGNER, the defendant, told
+
+Co-conspirator #4 that approximately $10 million had been paid to
+
+- 27 -
+Gase tiit-er-OiOS6-DLC Bocument? Filed l2f_e/ii Page 28 of 40
+
+the âfriendsâ of the Intermediary Defendants â that is, the Argentine
+Officials.
+
+Payment of $4.7 Million
+
+44, In late January and early February 2004, members of
+the conspiracy reduced the outstanding bribe obligation even further
+by causing SBS to make four more payments, in the aggregate amount
+of approximately $4.7 million, to the Argentine Officials and the
+Intermediary Defendants. The payments were transferred to bank
+accounts held by four of the Conduit Entities â Consultora Neelrey
+S.A of Uruguay, Linfarm Inc. S.A. of Uruguay, Rodmarton Ltd. of the
+British Virgin Islands, and Silverlinks Company Ltd. of Guernsey in
+the Channel Islands â all of which were controlled by the Intermediary
+Defendants and other intermediaries. ANDRES TRUPPEL and STEPHAN
+SIGNER, the defendants, and co-conspirators known and unknown, used
+backdated invoices for phantom services to make the payments look
+like legitimate business expenditures.
+
+The Partial Payment of $8.8 Million, Disguised
+As a Settlement of SERGIâs Swiss Arbitration Claim
+
+45. CARLOS SERGI, the defendant, filed a formal claim on
+behalf of Mfast against SBS in a Swiss arbitral tribunal on or about
+March 15, 2005. The stated purpose of the arbitration was to enforce
+the Mfast Contract. Although the members of the conspiracy knew that
+none of the services described in the Mfast contract were performed
+
+and were not expected to be performed, and that the Mfast Contract
+- 28 -
+Gase tiit-er-OiOS6-DLC Bocument? Filed l2f_e/ii Page 29 of 40
+
+was a sham used to disguise illegal bribe obligations, none of the
+conspirators acknowledged as much before the Swiss tribunal.
+
+46. To the contrary, URIEL SHAREF and URLICH BOCK, the
+defendants, provided testimony before the arbitral tribunal in which
+they omitted any mention of bribery, and STEPHAN SIGNER, the
+defendant, and Co-conspirator #4 otherwise caused Siemens to prevent
+disclosure of any evidence of corruption in the proceedings. For
+example, SIGNER arranged to have BOCK, who had retired from Siemens
+by the time of the Swiss arbitration, paida âconsultingâ fee of more
+than $300,000 in exchange for giving testimony in the Swiss and
+Washington, D.C. arbitrations that omitted mention of bribery. As
+BOCK would later acknowledge in an email requesting payment of his
+âconsultingâ fee, âI have arranged my witness statements ... in
+such a way that Siemens is protected from damage. ."
+
+47. In or about October 2006, URIEL SHAREF and STEPHAN
+SIGNER, the defendants, Co-conspirator #4, and co-conspirators known
+and unknown, caused SBS to settle Mfastâs claim for approximately
+$8.8 million. Although an arbitration settlement on its face, the
+settlement was actually a mechanism to disguise a partial payment
+of bribe obligations to the Argentine Officials.
+
+48. On or about January 16, 2007, SBS caused a wire
+transfer of the settlement amount into a Swiss bank account
+
+controlled by attorneys for Mfast. The next day, substantially the
+
+- 29 -
+Case tiit-er-OiOS6-DLC Bocument? Filed T2âf_e/ii Page 30 of 40
+
+same amount was transferred to two of the Conduit Entities associated
+with CARLOS SERGI, the defendant, and other intermediaries, through
+bank accounts in Manhattan, New York.
+
+The Washington, D.C. Arbitration
+
+49. In furtherance of the conspiracy, URIEL SHAREF and
+STEPHAN SIGNER, the defendants, Co-conspirator #4, and other members
+of the Crisis Management Team, orchestrated the filing of a
+fraudulent arbitration claim in Washington, D.C., in May 2002 to
+cause the Argentine government to pay Siemens AG damages in an amount
+equivalent to incurred expenses and the total profits the company
+would have earned from the DNI project had it not been terminated.
+Siemens AGâs claim was brought pursuant toa treaty between Argentina
+and Germany that protected the business investments of the parties
+and companies organized under their laws. Exposure of the bribery
+associated with the DNI project would have likely rendered the
+arbitration claim futile because the contract would have been
+procured through illegal corruption.
+
+50. The Swiss arbitration settlement also preserved the
+merits of Siemens AGâs arbitration claim in Washington, D.c. Of
+critical importance to the conspirators was a provision in the
+settlement agreement that expressly barred CARLOS SERGI and MIGUEL
+CZYSCH, the defendants, and Co-conspirator #5 from âinvolv [ing]
+
+themselves in [the Washington, D.C. arbitration] proceedings, either
+
+- 30 -
+Gase iitt-cr-O?OS6-DLC Bocument? Filed T2/ie/ii Page oi of 40
+
+directly or indirectly, or in any other manner influenc[ing] said
+proceedings, even if only by passing on information.â Once the
+settlement had been reached, Co-conspirator #4 sent an email to URIEL
+SHAREF, the defendant, stating that a major objective of the defense
+of the Swiss arbitration had been achieved: avoiding âcontaminationâ
+of Siemens AGâs arbitration in Washington, D.C. Co-conspirator #4
+further explained that the settlement agreement would require
+âabsolute silenceâ in that arbitration proceeding.
+
+51. For nearly three years, URIEL SHAREF and STEPHAN
+SIGNER, the defendants, Co-conspirator #4, and other members of the
+Crisis Management Team successfully kept evidence of bribery out of
+the arbitration in Washington, D.C. The conspirators accomplished
+this by filing a claim and supporting evidence, including witness
+statements of ANDRES TRUPPEL and ULRICH BOCK, the defendants, which
+contained material misrepresentations and omissions relating to the
+DNI projectâs origins, among other matters. As a result, in or about
+August 2004, the arbitral tribunal determined that jurisdiction
+existed to decide Siemens AGâs claim. In or about June 2005, however,
+SHAREF and Co-conspirator #4 were tipped off by an executive at
+Siemens Argentina that a high-ranking Argentine official had begun
+talking about how the DNI project bidding process was corrupted. A
+few months later, Argentina sought to raise a defense based on
+
+corruption; it made reference in its filing to a pending Argentine
+
+- 31 -
+Gase tiit-er-OiOS6-DLC Bocument? Filed l2fe/ii Page S2 of 40
+
+corruption investigation. SHAREF, SIGNER, Co-conspirator #4, and
+co-conspirators known and unknown, caused Siemens AGâs attorney to
+flatly deny the allegation. Ina letter filed in the arbitration,
+the attorney wrote that âthe insinuations of corruption intended by
+Argentina against Siemens and SITS through the filing of these
+documents are completely false.â
+
+52. The arbitral tribunal sided with Siemens AG, and on
+or about February 6, 2007, it awarded Siemens AG $217, 838,439 in loss
+of investment, plus interest of 2.66% compounded annually. (On or
+about August 12, 2009, Siemens AG personnel who were not members of
+the conspiracy caused the company to waive its right to the award.)
+
+Statutory Allegations
+
+53. From in or about 1996 up to and including on or about
+August 12, 2009, inthe Southern District of New York and elsewhere,
+URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK, EBERHARD
+REICHERT, STEPHAN SIGNER, CARLOS SERGI, MIGUEL CZYSCH, the
+defendants, and co-conspirators known and unknown, willfully and
+knowingly combined, conspired, confederated, and agreed together and
+with each other to commit offenses against the United States, to wit,
+violations of the Foreign Corrupt Practices Act, Title 15, United
+States Code, Sections 78dd-1(a), 78dd-3(a), 78m(b) (2) (A),
+78m(b) (2) (B), 78m(b) (5) and 78ff(a), and the wire fraud statute,
+
+Title 18, United States Code, Section 1343.
+
+- 32 -
+Gase tiit-er-OiOS6-DLC Document? Filed l2f_e/ii Page 33 of 40
+
+54. It was a part and an object of the conspiracy that
+URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK, EBERHARD
+REICHERT, STEPHAN SIGNER, CARLOS SERGI, MIGUEL CZYSCH, the
+defendants, and co-conspirators known and unknown, being officers,
+directors, employees and agents of an issuer of securities registered
+pursuant to the Securities and Exchange Act of 1934, willfully, that
+is, with the intent to further the objects of the conspiracy, would
+and did make use of the mails and means and instrumentalities of
+interstate commerce corruptly in furtherance of an offer, payment,
+promise to pay, and authorization of the payment of any money, offer,
+gift, promise to give, and authorization of the giving of anything
+of value, to a foreign official, and to a person, while knowing that
+all and a portion of such money and thing of value would be and had
+been offered, given, and promised, directly and indirectly toa
+foreign official, and a candidate for foreign political office, for
+purposes of: (i) influencing acts and decisions of such foreign
+official in his or her official capacity; (ii) inducing such foreign
+official to do and omit to do acts in violation of the lawful duty
+of such official; (iii) securing an improper advantage; and (iv)
+inducing such foreign official to use his or her influence with a
+foreign government and agencies and instrumentalities thereof to
+affect and influence acts and decisions of such government and
+
+agencies and instrumentalities, in order to assist the defendants,
+
+- 33 -
+Gase tiit-or-O?OS6-DLC Bocument? Filed l2f_e/ii Page S4 of 40
+
+and others known and unknown, in obtaining and retaining business
+for and with, and directing business to, Siemens, in violation of
+Title 15, United States Code, Sections 78dd-1(a) and 78ff(c) (2) (A).
+55. It further was a part and an object of the conspiracy
+that URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK,
+EBERHARD REICHERT, STEPHAN SIGNER, CARLOS SERGI, MIGUEL CZYSCH, the
+defendants, and co-conspirators known and unknown, while in the
+territory of the United States, willfully, that is, with the intent
+to further the objects of the conspiracy, and corruptly would and
+did make use of the mails and means and instrumentalities of
+interstate commerce and did any other act in furtherance of an offer,
+payment, promise to pay, and authorization of the payment of any money,
+offer, gift, promise to give, and authorization of the giving of
+anything of value, to a foreign official, and to a person, while
+knowing that all and a portion of such money and thing of value would
+be and had been offered, given, and promised, directly and indirectly
+to a foreign official, and a candidate for foreign political office,
+for purposes of: (i) influencing acts and decisions of such foreign
+official in his or her official capacity; (ii) inducing such foreign
+official to do and omit to do acts in violation of the lawful duty
+of such official; (iii) securing an improper advantage; and (iv)
+inducing such foreign official to use his or her influence witha
+
+foreign government and agencies and instrumentalities thereof to
+
+- 34 -
+Gase iiti-cr-O?OS6-DLC Bocument? Filed T2/ie/ii Page 35 of 40
+
+affect and influence acts and decisions of such government and
+agencies and instrumentalities, in order to assist the defendants,
+and others known and unknown, in obtaining and retaining business
+for and with, and directing business to, Siemens, in violation of
+Title 15, United States Code, Sections 78dd-3(a) and
+78dd-3(e) (2) (A).
+
+56. It further was a part and an object of the conspiracy
+that URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK,
+EBERHARD REICHERT, STEPHAN SIGNER, CARLOS SERGI, MIGUEL CZYSCH, the
+defendants, and co-conspirators known and unknown, would and did
+knowingly and willfully, directly and indirectly, falsify and cause
+to be falsified books, records, and accounts required to, in
+reasonable detail, accurately and fairly reflect the transactions
+and dispositions of the assets of Siemens AG, an issuer of securities
+registered pursuant to the Securities and Exchange Act of 1934, in
+violation of Title 15, United States Code, Sections 78m(b) (2) (A),
+78m(b) (5) and 78ffÂ£(a), and Title 17, Code of Federal Regulations,
+Section 240.13b2-1.
+
+57. It further was a part and an object of the conspiracy
+that URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK,
+EBERHARD REICHERT, STEPHAN SIGNER, CARLOS SERGI, MIGUEL CZYSCH, the
+defendants, and co-conspirators known and unknown, would and did
+
+knowingly and willfully circumvent a system of internal accounting
+
+- 35 -
+Gase tiit-er-OiOS6-DLC Bocument? Filed l2f_e/ii Page 36 of 40
+
+controls sufficient to provide reasonable assurances that
+transactions were recorded as necessary to permit preparation of
+financial statements in conformity with generally accepted
+accounting principles and any other criteria applicable to such
+statements, and to maintain accountability for assets at Siemens AG,
+an issuer of securities registered pursuant to the Securities and
+Exchange Act of 1934, in violation of Title 15, United States Code,
+Sections 78m(b) (2) (B), 78m(b) (5) and 78ff (a).
+
+58. It further was a part and an object of the conspiracy
+that URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK,
+EBERHARD REICHERT, STEPHAN SIGNER, CARLOS SERGI, MIGUEL CZYSCH, the
+defendants, and co-conspirators known and unknown, having devised
+and intended to devise a scheme and artifice to defraud, and for
+obtaining money and property by means of false and fraudulent
+pretenses, representations, and promises, would and did willfully
+and knowingly transmit and cause to be transmitted by means of wire
+communication in interstate and foreign commerce, writings, signs,
+signals, and pictures for the purpose of executing such scheme and
+artifice, to wit, a scheme to defraud that is more fully described
+in Count Three, in violation of Title 18, United States Code, Section
+
+1343.
+
+- 36 -
+Gase tiit-or-OiOS6-DLC Bocument? Filed l2f_e/ii Page SY of 40
+
+Overt Acts
+59. In furtherance of said conspiracy and to effect the
+illegal objectives thereof, URIEL SHAREF, HERBERT STEFFEN, ANDRES
+TRUPPEL, ULRICH BOCK, EBERHARD REICHERT, STEPHAN SIGNER, CARLOS
+SERGI, MIGUEL CZYSCH, the defendants, and co-conspirators known and
+unknown, committed the following overt acts, among others, in the
+Southern District of New York and elsewhere:
+
+a. In or about 1998, BOCK transported
+approximately $10 million in cash from Germany to Switzerland for
+deposit into Swiss bank accounts.
+
+b. On or about September 4, 1998, in Argentina and
+Germany, BOCK, REICHERT, Co-conspirator #3, and co-conspirators
+known and unknown, caused Siemens to wire transfer approximately
+1,850,000 deutschmarks (approximately $1 million) to a bank account
+held in Zurich, Switzerland by Masters Overseas Corporation, a
+Conduit Entity controlled by SERGI and other intermediaries.
+
+Cc. On or about December 2, 1998, in Miami, Florida,
+a bank account was opened in the name of Rodmarton Ltd., listing
+Co-conspirator #6 as a director of that Conduit Entity.
+
+d. On or about December 28, 1998, in Argentina and
+Germany, BOCK, REICHERT, and Co-conspirator #3 caused SBS to wire
+
+transfer approximately $10 million to a bank account held in
+
+- 37 -
+Gase tiit-or-OiOS6-DLC Bocument? Filed l2fe/ii Page 38 of 40
+
+Switzerland by Air Traffic Control Corporation, a Conduit Entity
+controlled by SERGI and other intermediaries.
+
+e. On or about September 15, 1999, in Argentina and
+Germany, TRUPPEL, BOCK, REICHERT, and Co-conspirator #3 caused SBS
+to wire transfer approximately $3,552,500 to a bank account held in
+Manhattan, New York by Company #1, a foreign exchange firm with which
+the same defendants had caused SBS to enter into a fictitious hedging
+contract, dated on or about January 13, 1999.
+
+f. On or about October 15, 1999, in Argentina and
+Germany, TRUPPEL, BOCK, REICHERT, and Co-conspirator #3 caused SBS
+to wire transfer approximately $3,864,500 to a bank account held in
+Manhattan, New York by Company #1.
+
+g. On or about October 28, 1999, in Germany, BOCK
+and REICHERT authorized SBS to pay approximately $820,000 to Pepcon
+Corporation S.A., $890,000 to Mirror Development Inc., and $915,000
+to Finli Advisors Group Inc., Conduit Entities affiliated with
+Argentine Officials A, B, and C, respectively.
+
+h. On or about February 15, 2000, in Miami, Florida,
+a bank account was opened in the name of Silverlinks Company Ltd.,
+listing CZYSCH as an authorized signatory and Co-conspirator #6 as
+the president and sole director of that Conduit Entity.
+
+i. On or about November 2, 2000, payment demands
+
+were faxed to REICHERT, in Germany, froma telephone service business,
+
+- 38 -
+Gase tiit-cr-OiOS6-DLC Bocument? Filed l2fe/ii Page 39 of 40
+
+located in a strip mall in Miami, Florida, on behalf of Conduit
+Entities Pepcon Corporation S.A. (at 12:53 p.m.), Finli Advisors
+Group Inc. (at 12:54 p.m.), Mirror Development Inc. (at 12:55 p.m.),
+and LaGironde Investments Inc. (at 12:55 p.m.).
+
+j- In or about November and December 2000, in
+Germany and Argentina, TRUPPEL, BOCK, REICHERT, SERGI, CZYSCH, and
+co-conspirators known and unknown, met to discuss outstanding bribe
+obligations to Argentine Officials, and consolidating certain bribe
+obligations through a $27 million âwhite contractâ between SBS and
+Mfast.
+
+k, On or about January 3, 2001, in Germany and
+Switzerland, a contract between SBS and Mfast was executed as a result
+of negotiations between BOCK, REICHERT, CZYSCH, and co-conspirators
+unknown and unknown.
+
+1. On or about March 15, 2001, in Argentina and
+Germany, TRUPPEL, REICHERT, and co-conspirators known and unknown,
+caused SITS to enter into a $1 million consultancy contract with
+Co-conspirator #2, intending that proceeds of the contract be used
+to pay bribes to Argentine Official H.
+
+m. On or about July 6, 2001, in Miami, Florida,
+TRUPPEL, BOCK, SERGI, CZYSCH, and co-conspirators known and unknown,
+met to discuss a settlement of the outstanding bribe payment
+
+obligations to the Argentine Officials.
+
+- 39 -
+Gase iiti-cr-f?OS6-DLC Document? Filed T2/ie/ii Page 40 of 40
+
+n. On or about May 21, 2002, in Germany, Argentina,
+and Washington, D.C., SHAREF, STEFFEN, TRUPPEL, SIGNER,
+Co-conspirator #4, and co-conspirators known and unknown, caused
+Siemens AG to file an arbitration claim in Washington, D.C. against
+the Republic of Argentina, seeking to recover investment and lost
+profits in connection with the DNI project.
+
+oO. On or about May 23, 2002, STEFFEN sent a
+facsimile to TRUPPEL which listed bribe obligations to the Argentine
+Officials that STEFFEN had received from SERGI and Argentine Official
+Cc.
+
+p. On or about May 24, 2002, in Germany, SHAREF had
+a telephone conversation with an SBS executive, after which the
+executive authorized up to $10 million in bribe payments in
+connection with the DNI project.
+
+q. On or about June 26, 2002, in Germany, TRUPPEL,
+SIGNER, BOCK, and co-conspirators known and unknown, caused SBS to
+enter into a contract with Meder Holding Corporation S.A, which was
+backdated to October 3, 2000.
+
+r. On or about July 22, 2002, in Argentina and
+Germany, SHAREF, TRUPPEL, BOCK, SIGNER, and co-conspirators known
+and unknown, caused SBS to wire transfer approximately $5,213,561
+to a bank account in Manhattan, New York, for further credit toa
+
+bank account held in Uruguay by Meder Holding Corporation S.A., based
+
+- 40 -
+Case iiii-erOiOS6-O0C Document i-1 Filed 12/2/11 Page i of 23
+
+on the backdated contract referred to in the preceding Overt Act,
+and five invoices that TRUPPEL had faxed to SIGNER on or about May
+9, 2002.
+
+Ss. On or about August 13, 2002, in Uruguay, TRUPPEL
+caused Meder Holding Corporation Â§.A. to transfer $3,090,000 through
+a bank account in Manhattan, New York that was associated with Milmar
+S.A., a Conduit Entity controlled by SERGI.
+
+t. On or about December 27, 2002, in Argentina,
+SERGI sent a letter to SHAREF, requesting a meeting with SHAREF on
+or before January 15, 2003, and warning of âdamage to the image and
+good reputationâ of Siemens if they did not come up with a âproper
+solution.â
+
+u. On or about January 15, 2003, SHAREF traveled
+from Germany to Manhattan, New York, intending to meet with SERGI
+and TRUPPEL to discuss bribe payment obligations to the Argentine
+Officials.
+
+Vv. On or about January 24, 2003, in Germany, SHAREF
+met with STEFFEN and TRUPPEL to discuss the results of a meeting
+between SHAREF and SERGI.
+
+w. On or about February 10, 2003, in Argentina,
+SERGI sent a letter to TRUPPEL and STEFFEN, which threatened to expose
+Siemensâs âquestionable proceduresâ in procuring the contract for
+
+the DNI project, and warned that such exposure would âdoubtlessly
+
+- 41 -
+generate a problem at public sector levelâ and âmake a positive
+resolution of the claim by Siemens filed in Washington against the
+Argentine Government impossible, and result in a loss for the
+Company.â
+
+x. On or about February 26, 2003, in Germany, BOCK
+and TRUPPEL, and co-conspirators known and unknown, prepared false
+and fraudulent witness statements and caused the statements to be
+sent to the arbitral tribunal in Washington, D.C.
+
+y. In or about March 2003, in Germany, SHAREF
+requested a senior executive of Siemens PTD to find a way to transfer
+approximately â¬12 million to South America.
+
+Zz. On or about April 19, 2003, in Argentina and
+Germany, SHAREF and TRUPPEL, and co-conspirators known and unknown,
+caused Company #2 to wire transfer $3,500,000 to a bank account held
+in the Bahamas by Conduit Entity Chatarella Investors Ltd.
+
+aa. On or about April 22, 2003, in Argentina and
+Germany, SHAREF and TRUPPEL, and co-conspirators known and unknown,
+caused Company #2 to send wire transfers of $1,100,000 and $1,807,000
+to a bank account held in the Bahamas by Chatarella Investors Ltd.
+
+bb. On or about April 28, 2003, in Argentina and
+Germany, SHAREF and TRUPPEL, and co-conspirators known and unknown,
+caused Company #2 to wire transfer $593,000 to a bank account held
+
+in the Bahamas by Chatarella Investors Ltd.
+
+- 42 -
+Gase tiit-or-OiO056-O0C Document i-f Fed 1292/91 Page Sof 23
+
+ce. On or about July 6, 2003, in Argentina and
+Germany, SHAREF and TRUPPEL, and co-conspirators known and unknown,
+caused Company #2 to wire transfer $600,000 to a bank account held
+in the Bahamas by Conduit Entity Rockney Consultants Ltd.
+
+dd. On or about July 11, 2003, in Argentina and
+Germany, SHAREF and TRUPPEL, and co-conspirators known and unknown,
+caused Company #2 to wire transfer $1,500,000 to a bank account held
+in the Bahamas by Rockney Consultants Ltd.
+
+ee. On or about July 13, 2003, in Argentina and
+Germany, SHAREF and TRUPPEL, and co-conspirators known and unknown,
+caused Company #2 to wire transfer $400,000 to a bank account held
+in the Bahamas by Rockney Consultants Ltd.
+
+ff. In or about January 2004, in Germany, SIGNER
+requested that an SBS manager provide back-dated authorization for
+payments totaling $4.7 million to Conduit Entities Rodmarton Ltd.,
+Linfarm Inc. S.A., Silverlinks Company Ltd., and Consultora Neelrey
+
+S.A.
+
+gg. On or about January 28, 2004, in Germany and
+Argentina, SHAREF, TRUPPEL, STEFFEN, SIGNER, SERGI, CZYSCH, and
+co-conspirators known and unknown, caused SBS to send a wire transfer
+of approximately $1,244,120 to a bank account held in Miami, Florida
+
+by Rodmarton Ltd.
+
+- 43 -
+Case iiii-erOiOS6-O0C Document ?-1 Filed 12/2/11 Page 4of 23
+
+hh. On or about January 29, 2004, in Germany and
+Argentina, SHAREF, TRUPPEL, STEFFEN, SIGNER, SERGI, CZYSCH, and
+co-conspirators known and unknown, caused SBS to send a wire transfer
+of approximately $1,116,230 to a bank account held in Uruguay by
+Linfarm Inc. S.A.
+
+ii. On or about February 2, 2004, in Germany and
+Argentina, SHAREF, TRUPPEL, STEFFEN, SIGNER, SERGI, CZYSCH, and
+co-conspirators known and unknown, caused SBS to wire transfer
+approximately $1,098,900 to a bank account held in Uruguay by
+Consultora Neelrey S.A.
+
+jj. On or about February 3, 2004, in Germany and
+Argentina, SHAREF, TRUPPEL, STEFFEN, SIGNER, SERGI, CZYSCH, and
+co-conspirators known and unknown, caused SBS to wire transfer
+approximately $1,240,750 to a bank account held in Miami, Florida,
+by Silverlinks Company Ltd.
+
+kk. On or about July 8, 2004, in Argentina, TRUPPEL
+told STEFFEN by email that he had agreed to provide testimony on
+SERGIâs behalf in the impending Mfast arbitration, adding that
+TRUPPEL would testify that he had meetings with SHAREF at which SHAREF
+asked TRUPPEL and STEFFEN to âfind a solution to make the paymentsâ
+and that certain payments were made, but not the âfull agreed amount.â
+
+ll. On or about July 12, 2004, in Germany, STEFFEN
+
+forwarded the email referred to in the preceding Overt Act to SHAREF,
+
+- 44 -
+who in turn forwarded it to Co-conspirator #4, stating that he (SHAREF)
+could not âunderstand the email from Mr. Truppel to Mr. Steffen.â
+
+mm. On or about July 14, 2004, in Germany,
+Co-conspirator #4 told another Siemens attorney that SHAREF was
+âupsetâ by TRUPPELâs July 8 email, but wanted to stay out of it, except
+for instructing Co-conspirator #4 to make sure STEFFEN and TRUPPEL
+are âmuzzled.â
+
+mn. On or about March 15, 2005, in Zurich,
+Switzerland, SERGI, CZYSCH, Co-conspirator #5, and Co-conspirator
+#6 caused Mfast to file notice of an international arbitration
+against SBS.
+
+oo. On or about September 23, 2005, in Germany,
+SHAREF, SIGNER, Co-conspirator #4, and co-conspirators known and
+unknown, caused a facsimile to be sent from Argentina to the arbitral
+tribunal in Washington, D.C., which stated that the âinsinuations
+of corruptionâ raised by Argentina are âcompletely false.â
+
+pp. On or about December 21, 2005, in Germany,
+SHAREF, SIGNER, Co-conspirator #4, and co-conspirators known and
+unknown, caused a facsimile to be sent from Argentina to the arbitral
+tribunal in Washington, D.C., which stated that Argentinaâs
+âreferences to payments made by SITS to Argentine public officials
+
+are false and inappropriate.â
+
+- 45 -
+Gase tiit-or-OiO056-O0C Document i-f Fed 1292/91 Page 6 of 23
+
+qq. In or about November 2006, SHAREF, SIGNER,
+Co-conspirator #4, and co-conspirators known and unknown, caused SBS
+to settle Mfastâs claim for approximately $8.8 million, including
+in the settlement agreement a provision expressly barring SERGI,
+CZYSCH and Co-conspirator #5 from âinvolv[ing] themselves in [the
+Washington, D.C. arbitration] proceedings, either directly or
+indirectly, or in any other manner influenc[ing] said proceedings,
+even if only by passing on information.â
+
+rr. Onor about January 16, 2007, inGermany, SHAREF,
+TRUPPEL, STEFFEN, BOCK, REICHERT, SIGNER, SERGI, CZYSCH,
+Co-conspirator #4, and co-conspirators known and unknown, caused
+Siemens to wire transfer $8.8 million to a bank account in Zurich,
+Switzerland as a settlement of the arbitration claim by Mfast.
+
+ss. Onor about January 17, 2007, in Uruguay, SERGI
+received approximately $4 million that had been transferred from
+Switzerland, to and through a bank account in Manhattan, New York,
+to an investment account held by Conduit Entity Milmar Ltd.
+
+tt. On or about January 17, 2007, in Uruguay, SERGI
+received approximately $4 million that had been transferred from
+Switzerland to and through a bank account in Manhattan, New York,
+to an investment account held by Conduit Entity Tidwell Investments
+
+S.A.
+
+- 46 -
+Gase tit-or-OiO056-O0C Document i-f Fled 1292/91 Page 7 of 23
+
+uu. On or about February 2, 2007, in Germany, BOCK
+wrote an email to SHAREF and SIGNER in which he complained about not
+receiving âconsulting paymentsâ that Siemens had promised him in
+connection with the then-ongoing arbitrations in Washington, D.C.
+and Zurich, Switzerland; in justifying prompt payment, BOCK
+explained, âI have arranged my witness statements for the [Washington,
+D.C. and Mfast] arbitration proceedings in such a way that Siemens
+is protected from damage "7
+
+vv. On or about May 9, 2007, in Miami, Florida, a
+bank account held by a company associated with TRUPPEL received a
+transfer of approximately $100,000 from a Uruguay investment account
+held by Milmar Ltd. that was controlled by SERGI.
+
+ww. On or about July 23, 2007, in Miami, Florida,
+a bank account held by a company associated with TRUPPEL received
+a transfer of approximately $100,000 from a Uruguay investment
+account held by Tidwell Investments S.A. that was controlled by
+SERGI.
+
+xx. On or about November 2, 2007, inMiami, Florida,
+a bank account held by a company associated with TRUPPEL received
+a transfer of approximately $100,000 from a Uruguay investment
+account held by Tidwell Investments S.A. that was controlled by
+SERGI.
+
+(Title 18, United States Code, Section 371.)
+
+- 47 -
+Case iiii-erOiOS6-O0C Document i-1 Filed 12/2/11 Page 8 of 23
+
+COUNT TWO
+(Conspiracy to Commit Money Laundering)
+
+The Grand Jury further charges:
+
+60. Paragraphs 1 through 20 and 22 through 52 of this
+Indictment are repeated and realleged and incorporated by reference
+as though fully set forth herein.
+
+61. From in or about 1996 up to and including in or about
+November 2007, in the Southern District of New York and elsewhere,
+URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK, EBERHARD
+REICHERT, STEPHAN SIGNER, CARLOS SERGI, MIGUEL CZYSCH, the
+defendants, and co-conspirators known and unknown, willfully and
+knowingly combined, conspired, confederated, and agreed together and
+with each other to violate Title 18, United States Code, Sections
+1956 and 1957.
+
+62. It was a part and an object of the conspiracy that
+URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK, EBERHARD
+REICHERT, STEPHAN SIGNER, CARLOS SERGI, MIGUEL CZYSCH, the
+defendants, and co-conspirators known and unknown, knowingly would
+and did conduct a financial transaction affecting interstate
+commerce and foreign commerce, which financial transaction involved
+the proceeds of specified unlawful activity, that is, a felony
+violation of the Foreign Corrupt Practices Act, codified at Title
+15, United States Code, Section 78dd-1, et seq., knowing that the
+
+financial transaction was designed in whole and in part to conceal
+- 48 -
+and disguise the nature, location, source, ownership, and control
+of the proceeds of said specified unlawful activity, and that while
+conducting such financial transaction, knew that the property
+involved in the financial transaction represented the proceeds of
+some form of unlawful activity, in violation of Title 18, United
+States Code, Section 1956(a) (1) (B) (i).
+
+63. It further was a part and an object of the conspiracy
+that URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK,
+EBERHARD REICHERT, STEPHAN SIGNER, CARLOS SERGI, MIGUEL CZYSCH, the
+defendants, and co-conspirators known and unknown, knowingly would
+and did transmit and transfer a monetary instrument and funds from
+a place in the United States to and through a place outside the United
+States and to a place in the United States from and through a place
+outside the United States with the intent to promote the carrying
+on of specified unlawful activity, to wit, a felony violation of the
+Foreign Corrupt Practices Act, codified at Title 15, United States
+Code, Section 78dd-1, et seq., in violation of Title 18, United States
+Code, Section 1956 (a) (2) (A).
+
+64. It further was a part and an object of the conspiracy
+that URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK,
+EBERHARD REICHERT, STEPHAN SIGNER, CARLOS SERGI, MIGUEL CZYSCH, the
+defendants, and co-conspirators known and unknown, unlawfully and
+
+knowingly would and did transmit and transfer a monetary instrument
+
+-~ 49 -
+Case Titi-orâ¬?056-DLCG Bocumentd-1 Filed T2921 Rage 10 of 23
+
+and funds involving the proceeds of specified unlawful activity, that
+is, a felony violation of the Foreign Corrupt Practices Act, codified
+at Title 15, United States Code, Section 78dd-1, et seg., froma place
+in the United States to and through a place outside the United States
+and to a place in the United States from and through a place outside
+the United States knowing that the monetary instrument and funds
+involved in the transmission and transfer represented the proceeds
+of some form of unlawful activity and knowing that such transmission
+and transfer was designed in whole and in part to conceal and disguise
+the nature, location, source, ownership, and control of the proceeds
+of said specified unlawful activity, in violation of Title 18, United
+States Code, Section 1956 (a) (2) (B) (i).
+
+65. It further was a part and an object of the conspiracy
+that URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK,
+EBERHARD REICHERT, STEPHAN SIGNER, CARLOS SERGI, MIGUEL CZYSCH, the
+defendants, and co-conspirators known and unknown, knowingly would
+and did engage in a monetary transaction by, through, and toa
+financial institution, affecting interstate and foreign commerce,
+in criminally derived property of a value greater than $10,000 and
+having been derived from a specified unlawful activity, that is, a
+felony violation of the Foreign Corrupt Practices Act, codified at
+Title 15, United States Code, Section 78dd-1, et seq., in violation
+
+of Title 18, United States Code, Section 1957(a).
+
+- 50 -
+ 
+
+rs 4.4 -
+noe 4:
+WeGSG PP P-Oye
+
+7)
+24
+oo
+
+Means and Methods of the Conspiracy
+66. Among the means and methods used by URIEL SHAREF,
+HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK, EBERHARD REICHERT,
+STEPHAN SIGNER, CARLOS SERGI, MIGUEL CZYSCH, the defendants, and
+co-conspirators known and unknown, to achieve the objects of the
+conspiracy were those set forth in Count One, paragraph 21, which
+are repeated and realleged and incorporated by reference as though
+fully set forth herein.
+Overt Acts
+67. In furtherance of said conspiracy and to effect the
+
+illegal objectives thereof, URIEL SHAREF, HERBERT STEFFEN, ANDRES
+TRUPPEL, ULRICH BOCK, EBERHARD REICHERT, STEPHAN SIGNER, CARLOS
+SERGI, MIGUEL CZYSCH, the defendants, and co-conspirators known and
+unknown, committed the following overt acts, among others, in the
+Southern District of New York and elsewhere:
+
+a. On or about September 15, 1999, TRUPPEL, BOCK,
+REICHERT, and Co-conspirator #3 caused funds intended to be used in
+whole and in part to pay bribes, in the approximate amount of
+$3,552,500, to be transmitted and transferred from a bank account
+held by Siemens at a place outside the United States to and through
+a bank account held by Company #1 in Manhattan, New York.
+
+b. On or about October 15, 1999, TRUPPEL, BOCK,
+
+REICHERT, and Co-conspirator #3 caused funds intended to be used in
+
+- 51 -
+rs 4oae ,
+noe 4: ay
+LeaSe pir )-oy-
+
+ 
+
+oS
+wets
+
+whole and in part to pay bribes, in the approximate amount of
+$3,864,500, to be transmitted and transferred from a bank account
+held by Siemens at a place outside the United States to and through
+a bank account held by Company #1 in Manhattan, New York.
+
+om On or about July 22, 2002, SHAREF, TRUPPEL, BOCK,
+and SIGNER caused funds intended to be used in whole and in part to
+pay bribes, in the approximate amount of $5,213,561, to be
+transmitted and transferred from a bank account held by Siemens at
+a place outside the United States to and through a bank account
+associated with Meder Holding Corporation S.A. in Manhattan, New York,
+and from that bank account to and through a bank account held by Meder
+Holding Corporation S.A. in Uruguay, and thereafter:
+
+i. on or about August 13, 2002, caused funds
+intended to be used in whole and in part to pay bribes, in the
+approximate amount of $3,090,000, to be transmitted and transferred
+from a bank account held by Meder Holding Corporation S.A. in Uruguay
+to and through a bank account associated with Milmar Ltd. in Manhattan,
+New York, and from that bank account to and through a bank account
+held by Milmar Ltd. in Uruguay.
+
+da. On or about January 28, 2004, SHAREF, TRUPPEL,
+STEFFEN, SIGNER, SERGI, CZYSCH, Co-conspirator #5, and
+Co-conspirator #6 caused funds intended to be used in whole and in
+
+part to pay bribes, in the approximate amount of $1,244,120, to be
+
+- 52 -
+Case Tti-or0?056-DLCG Bocumentd-1 Filed T2421 Rage 13 of 23
+
+transmitted and transferred from a bank account held by Siemens at
+a place outside the United States to and through a bank account held
+by Rodmarton Ltd. in Miami, Florida, and thereafter:
+
+i. on or about May 10, 2004, caused funds
+intended to be used in whole and in part to pay bribes, in the
+approximate amount of $584,000, to be transmitted and transferred
+from a bank account held by Rodmarton Ltd. in Miami, Florida to and
+through a bank account held in Uruguay by Tidwell Investments S.A.
+
+e. On or about January 16, 2007, SHAREF, TRUPPEL,
+STEFFEN, BOCK, REICHERT, SIGNER, SERGI, CZYSCH, Co-conspirator #4,
+Co-conspirator #5, and Co-conspirator #6 caused funds intended to
+be used in whole and in part to pay bribes, in the approximate amount
+of $8.8 million, to be transmitted and transferred froma bank account
+held by Siemens at a place outside the United States to and through
+a bank account held by an attorney for Mfast Consulting AG in
+
+Switzerland, and thereafter:
+
+i. on or about January 17, 2007, caused funds
+intended to be used in whole and in part to pay bribes, in the
+approximate amount of $4 million, to be transmitted and transferred
+from a bank account held by an attorney for Mfast Consulting AG in
+Switzerland to and through a bank account associated with Tidwell
+
+Investments S.A. in Manhattan, New York, and from that bank account
+
+- 53 -
+ 
+
+rs 4oae ,
+noe 4: ay
+LeaSe pir )-oy-
+
+oS
+wets
+
+to and through an investment account held by Tidwell Investments S.A.
+in Uruguay.
+
+Â£. On or about May 9, 2007, in Miami, Florida, a
+bank account held by a company associated with TRUPPEL received a
+transfer of approximately $100,000 from a Uruguay investment account
+held by Milmar Ltd. that was controlled by SERGI.
+
+g. On or about July 23, 2007, in Miami, Florida,
+a bank account held by a company associated with TRUPPEL received
+a transfer of approximately $100,000 from a Uruguay investment
+account held by Tidwell Investments S.A. that was controlled by
+SERGI.
+
+h. On or about November 2, 2007, in Miami, Florida,
+a bank account held by a company associated with TRUPPEL received
+a transfer of approximately $100,000 from a Uruguay investment
+account held by Tidwell Investments S.A. that was controlled by
+SERGI.
+
+(Title 18, United States Code, Section 1956 (h).)
+
+COUNT THREE
+(Wire Fraud)
+
+The Grand Jury further charges:
+68. Paragraphs 1 through 20 and 22 through 52 of this
+Indictment are repeated and realleged and incorporated by reference
+
+as though fully set forth herein.
+
+- 54 -
+69. From in or about June 2001 up to and including on or
+about August 12, 2009, in the Southern District of New York and
+elsewhere, URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH
+BOCK, EBERHARD REICHERT, STEPHAN SIGNER, CARLOS SERGI, MIGUEL CZYSCH,
+the defendants, and co-conspirators known and unknown, having
+devised and intended to devise a scheme and artifice to defraud, and
+for obtaining money and property by means of false and fraudulent
+pretenses, representations, and promises, willfully, and knowingly
+transmitted and caused to be transmitted by means of wire
+communication in interstate and foreign commerce, writings, signs,
+signals, and pictures for the purpose of executing such scheme and
+artifice, to wit, SHAREF, STEFFEN, TRUPPEL, BOCK, REICHERT, SIGNER,
+SERGI, and CZYSCH engaged in a scheme to defraud the Argentine
+government of money by means of an arbitration claim that was premised
+on and supported by materially false representations and omissions.
+
+70. %It was part of the scheme and artifice that URIEL
+SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK, EBERHARD
+REICHERT, STEPHAN SIGNER, the defendants, and others known and
+unknown, knowing that an arbitration claim brought by Siemens AG in
+Washington, D.C. against the Republic of Argentina for breach of
+treaty obligations in connection with the DNI project would fail if
+it were revealed in the arbitration that the contract for the DNI
+
+project was procured in a corrupt manner, caused Siemens AG to file
+
+- 55 -
+Case Titi-or0?056-DLCG Bocumentd-1 Filed T2421 Rage 16 of 23
+
+such an arbitration claim, knowing that the claim falsely represented
+that the contract for the DNI project was procured in a non-corrupt
+manner and omitted that, in truth and fact, the contract for the DNI
+project was procured in a corrupt manner.
+
+71. j%.It further was a part of the scheme and artifice that
+URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK, EBERHARD
+REICHERT, STEPHAN SIGNER, the defendants, and others known and
+unknown, knowing that an arbitration claim brought by Siemens AG in
+Washington, D.C. against the Republic of Argentina for breach of
+treaty obligations in connection with the DNI project would fail if
+it were revealed in the arbitration that the contract for the DNI
+project was procured in a corrupt manner, caused Siemens AG to make
+additional filings in support of such an arbitration claim, including
+testimonial witness statements of TRUPPEL and BOCK, knowing that said
+filings falsely represented that the contract for the DNI project
+was procured in a non-corrupt manner and omitted that, in truth and
+fact, the contract for the DNI project was procured in a corrupt
+manner.
+
+72. j(%It further was a part of the scheme and artifice that
+URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK, EBERHARD
+REICHERT, STEPHAN SIGNER, CARLOS SERGI, MIGUEL CZYSCH, the
+defendants, and others known and unknown, knowing that an arbitration
+
+claim brought by Siemens AG in Washington, D.C. against the Republic
+
+~ 56 -
+Case Tti-or0?056-DLCG Bocumentd-1 Filed T2421 Rage 17 of 23
+
+of Argentina for breach of treaty obligations in connection with the
+DNI project would fail if it were revealed in the arbitration that
+the contract for the DNI project was procured in a corrupt manner,
+agreed that SERGI, CZYSCH, and Co-conspirator #5 would not reveal
+in such an arbitration that the contract for the DNI project was
+procured ina corrupt manner, and caused Siemens to pay money to SERGI,
+CZYSCH, Co-conspirator #5, and ultimately the Argentine Officials,
+for that purpose, including by wire transfers to and through bank
+accounts in Manhattan, New York.
+
+73. It further was a part of the scheme and artifice that
+URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK, EBERHARD
+REICHERT, STEPHAN SIGNER, CARLOS SERGI, MIGUEL CZYSCH, the
+defendants, and others known and unknown, caused to be transmitted
+by means of wire communication in interstate and foreign commerce,
+the following writings, signs, signals, and pictures among others:
+
+a. On or about May 21, 2002, a facsimile from
+Argentina to the arbitral tribunal in Washington, D.C. on behalf of
+Siemens AG, containing a âRequest for Arbitrationâ against the
+Government of Argentina.
+b. On or about September 23, 2005, a facsimile from
+
+Argentina to the arbitral tribunal in Washington, D.C. on behalf of
+Siemens AG, stating that the âinsinuations of corruptionâ raised by
+
+the Government of Argentina are âcompletely false.â
+
+~ 57 -
+Case Tti-or0?056-DLCG Bocumentd-1 Filed T2421 Rage 18 of 23
+
+c. On or about October 4, 2005, a facsimile from
+the arbitral tribunal in Washington, D.C. to counsel for the
+respective parties in Argentina, effectively denying Argentina's
+request to raise corruption as a defense to the arbitration claim.
+
+d. On or about October 7, 2005, a facsimile and
+electronic mail from the arbitral tribunal in Washington, D.C. to
+counsel for the respective parties in Argentina, effectively denying
+Argentina's request for reconsideration of the decision communicated
+in the October 4, 2005 facsimile, referred to above.
+
+e. On or about December 21, 2005, a facsimile from
+Argentina to the arbitral tribunal in Washington, D.C. on behalf of
+Siemens AG, stating that the Government of Argentinaâs âreferences
+to payments made by SITS to Argentine public officials are false and
+inappropriate.â
+
+Â£. On or about February 17, 2006, a facsimile from
+Argentina to the arbitral tribunal in Washington, D.C. on behalf of
+Siemens AG, stating that resort to âany bad practice... has clearly
+
+not been the Siemens case.â
+
+g. On or about March 9, 2006, a facsimile from
+Argentina to the arbitral tribunal in Washington, D.C. on behalf of
+Siemens AG, stating that âmisleading allegationsâ of âbad practicesâ
+
+have been âfully discredited by [Siemens] in its prior submissions.â
+
+- 5B -
+Case Titi-or0?056-DLCG BDocumentd-1 Filed T2412 41 Fage 19 of 23
+
+h. On or about February 6, 2007, a facsimile and
+electronic mail from the arbitral tribunal in Washington, D.C. to
+counsel for the respective parties in Argentina, stating that the
+Government of Argentina shall pay Siemens AG compensation in the
+amount of $208,440,540 on account of Siemensâs investment in the DNI
+project, $9,178,000 on account of consequential damages, and
+$219,899 on account of unpaid bills for services provided by SITS.
+
+(Title 18, United States Code, Sections 1343 and 2.)
+FORFEITURE ALLEGATIONS AS TO COUNTS ONE AND THREE
+
+74. As the result of committing the criminal conspiracy
+offense in violation of Title 18, United States Code, Section 371,
+Title 15, United States Code, Sections 78dd-1(a), 78dd-3(a),
+78m(b) (2) (A) -(B), 78m(b) (5), and 78ffÂ£(a), and Title 18, United
+States Code, Sections 1343 & 2, alleged in Count One of this
+Indictment, URIEL SHAREF, HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH
+BOCK, EBERHARD REICHERT, STEPHAN SIGNER, CARLOS SERGI, and MIGUEL
+CZYSCH, the defendants, shall forfeit to the United States, pursuant
+to 18 U.S.C. Â§ 981(a) (1) (C) and 28 U.S.C. Â§ 2461, all property, real
+and personal, that constitutes or is derived from proceeds traceable
+to the commission of the offense.
+
+75. As a result of committing the wire fraud offense in
+violation of Title 18, United States Code, Sections 1343 and 2,
+
+alleged in Count Three of this Indictment, URIEL SHAREF, HERBERT
+
+- 59 -
+Case Tti-or0?056-DLCG Bocumentd-1 Filed T2421 Rage 20 of 23
+
+STEFFEN, ANDRES TRUPPEL, ULRICH BOCK, EBERHARD REICHERT, STEPHAN
+SIGNER, CARLOS SERGI, and MIGUEL CZYSCH, the defendants, shall
+forfeit to the United States, pursuant to 18 U.S.C. Â§ 981(a) (1) (C)
+and 28 U.S.C. Â§ 2461, all property, real and personal, that
+constitutes or is derived from proceeds traceable to the commission
+
+of the offense.
+
+Substitute Asset Provision
+
+ 
+
+76. If any of the above-described forfeitable property,
+as a result of any act or omission of the defendants:
+(1) cannot be located upon the exercise of due diligence;
+
+(2) has been transferred or sold to, or deposited with,
+a third person;
+
+(3) has been placed beyond the jurisdiction of the Court;
+(4) has been substantially diminished in value; or
+
+(S) has been commingled with other property which cannot
+be subdivided without difficulty;
+
+it is the intent of the United States, pursuant to 21U.S.C. Â§ 853(p),
+to seek forfeiture of any other property of said defendants up to
+the value of the above forfeitable property.
+(Title 15, United States Code, Sections 78dd-l(a), 78dd-3(a),
+78m(b) (2) (A), 78m(b) (2) (B), 78m(b) (5) & 78fÂ£(a);
+Title 18, United States Code, Sections 371, 981, 1343 & 2;
+
+Title 21, United States Code, Section 853; and
+Title 28, United States Code, Section 2461.)
+
+- 60 -
+Case Titi-or0?056-DLCG BDocumentd-1 Filed T2421 Rage 21 of 23
+
+FORFEITURE ALLEGATIONS AS TO COUNT TWO
+
+77. As the result of committing the money laundering
+offenses in violation of Title 18, United States Code, Sections
+1956(h), 1956(a) (1) (B) (i), 1956(a) (2) (A), 1956(a) (2) (B) (i), and
+1957(a) , alleged in Count Two of this Indictment, URIEL SHAREF,
+HERBERT STEFFEN, ANDRES TRUPPEL, ULRICH BOCK, EBERHARD REICHERT,
+STEPHAN SIGNER, CARLOS SERGI, and MIGUEL CZYSCH, the defendants,
+shall forfeit to the United States pursuant to 18 U.S.C. Â§ 982, all
+property, real and personal, involved in the money laundering
+offenses and all property traceable to such property.
+
+Substitute Asset Provision
+
+78. %If any of the above-described forfeitable property,
+as a result of any act or omission of the defendants:
+
+(1) cannot be located upon the exercise of due diligence;
+
+(2) has been transferred or sold to, or deposited with,
+a third person;
+
+(3) has been placed beyond the jurisdiction of the Court;
+(4) has been substantially diminished in value; or
+
+(5) has been commingled with other property which cannot
+be subdivided without difficulty;
+
+- 61 -
+Case Titi-orâ¬?056-DLCG Bocumentd-1 Filed T2421 Rage 22 of 23
+
+it is the intent of the United States, pursuant to 18 U.S.C. Â§ 982(b),
+to seek forfeiture of any other property of said defendants up to
+the value of the above forfeitable property.
+
+(Title 18, United States Code, Sections 982, 1956, and 1957.)
+
+(Cath ews deck But âDhovoxo-
+
+FOREPERSON / PREET BHARARA
+United States Attorney
+
+ 
+
+ 
+
+ 
+
+A.\ BREUERâ {
+Assistant Attorney General
+Department of Justice
+Criminal Division
+
+- 62 -
+Case Titi-or0?056-DLCG Bocumenid-1 Filed T2241 FPage 23 of 23

@@ -1,0 +1,654 @@
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 1 of 20
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ 
+
+U.S. SECURITIES AND EXCHANGE COMMISSION, :
+
+100 F Street, N.E. :
+Washington, D.C. 20549, :
+Plaintiff, Civil Action No.
+v. COMPLAINT
+ELI LILLY AND COMPANY,
+Defendant.
+
+ 
+
+Plaintiff Securities and Exchange Commission alleges as follows:
+SUMMARY
+
+1. Eli Lilly and Company (âLillyâ) violated the Foreign Corrupt Practices Act of
+1977 (âFCPAâ) in connection with the activities of its subsidiaries in China, Brazil, Poland and
+Russia.
+
+2. Between 2006 and 2009, employees of Lillyâs China subsidiary falsified expense
+reports in order to provide improper gifts and cash payments to government-employed
+physicians. In 2007, a pharmaceutical distributor hired by Lilly in Brazil paid bribes to
+government health officials in a Brazilian state in order to assure sales of a Lilly product to state
+government institutions. In Poland, between 2000 and 2003, Lillyâs subsidiary made eight
+payments totaling approximately $39,000 to a small charitable foundation that was founded and
+administered by the head of one of the regional government health authorities at the same time
+
+that the subsidiary was seeking the officialâs support for placing Lilly drugs on the government
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 2 of 20
+
+reimbursement list. Finally, Lillyâs subsidiary in Russia paid millions of dollars to off-shore
+entities for alleged âservicesâ beginning as early as 1994 and continuing through 2005 in order
+for pharmaceutical distributors and government entities to purchase Lillyâs drugs. In some
+instances, the off-shore entities appear to have been used to funnel money to government
+officials or others with influence in the government in order to obtain business for the subsidiary.
+These off-shore entities rarely provided the contracted-for services. Moreover, between 2005
+and 2008, contemporaneous with requests to government officials to support the governmentâs
+purchase or reimbursement of Lillyâs products, the subsidiary in Russia made proposals to
+government officials about how the company could donate to, or otherwise support, various
+initiatives that were affiliated with, or important to, the government officials.
+
+3. As a result of this conduct, Lilly violated Sections 13(b)(2)(B) of the Securities
+Exchange Act of 1934 (âExchange Actâ) [15 U.S.C. Â§ 78m(b)(2)(B)] by failing to have an
+adequate internal controls system in place to detect and prevent illicit payments. Lilly violated
+13(b)(2)(A) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(A)] by improperly recording each of
+those payments in its accounting books and records. Lilly also violated Section 30A of the
+Exchange Act [15 U.S.C. Â§ 78dd-1] in connection with certain activities of its subsidiary in
+Russia. Unless restrained and enjoined by the Court, Lilly will continue to engage in acts and
+practices that constitute, or will constitute, violations of these provisions.
+
+JURISDICTION
+
+4. This Court has jurisdiction over this action pursuant to Sections 21(d), 21(e)
+and 27 of the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e) and 78aa]. Lilly directly and indirectly
+made use of the mails and of the means and instrumentalities of interstate commerce in
+
+connection with certain of the acts, practices and courses of business described in this Complaint.
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 3 of 20
+
+Certain of the transactions, acts, practices, and courses of business alleged herein occurred within
+this District, and venue is proper pursuant to Section 27 of the Exchange Act [15 U.S.C. Â§ 78aa]
+or 28 U.S.C. Â§ 1391(d).
+
+DEFENDANT
+
+5. Eli Lilly and Company is an Indiana corporation with its headquarters located at
+Lilly Corporate Center, Indianapolis, IN 46285. Lilly is a pharmaceutical manufacturer that
+markets products in over 143 countries. Its common stock is registered with the Securities and
+Exchange Commission pursuant to Section 12(b) of the Exchange Act and is listed on the New
+York Stock Exchange under the symbol âLLY.â
+
+6. Outside of the United States, Lilly sells its products, both directly and through
+distributors or other intermediaries, to government-controlled entities, such as ministries of
+health and government-owned hospitals and clinics.
+
+FACTS
+Poland
+
+7. During 2000 through 2003, Lillyâs wholly-owned subsidiary in Poland (âLilly-
+Polandâ) made eight payments totaling approximately $39,000 to the Chudow Castle Foundation
+(âChudow Foundationâ), a small charitable foundation in Poland that was founded and
+administered by the Director of the Silesian Health Fund (âDirectorâ). The Director established
+the Chudow Foundation in 1995 to restore the Chudow Castle in the town of Chudow and other
+historic sites in the Silesian region of Poland.
+
+8. The Silesian Health Fund (âHealth Fundâ) was one of sixteen regional
+government health authorities in Poland during the period. Among other things, the Health Fund
+
+reimbursed hospitals and healthcare providers for the purchase of certain approved products.
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 4 of 20
+
+The Health Fund, through the allocation of public money, exercised considerable influence over
+which pharmaceutical products local hospitals and other healthcare providers in the region
+purchased.
+
+9. Beginning in early 2000 and into 2002, Lilly-Poland was in negotiations with the
+Health Fund over, among other things, the Heath Fundâs financing of the purchase of Gemzar,
+one of Lillyâs cancer drugs, by public hospitals and other healthcare providers. Those
+negotiations occurred primarily between a team manager at Lilly-Poland (âLilly Managerâ) and
+the Director. Continuing at intervals throughout these negotiations, the Director asked that Lilly-
+Poland contribute to the Chudow Foundation. The initial request came directly from the Director
+and the subsequent requests came from the Chudow Foundation.
+
+10. The Lilly-Poland Manager knew that the Director had established the Chudow
+Foundation and that it was a project to which he was devoted and lent much effort. The Manager
+requested the approval of payments to the Chudow Foundation. The Manager falsely described
+the first payment as being for the purchase of computers for the Chudow Foundation. The
+second Lilly-Poland payment request falsely characterized the proposed payment as â[t]o support
+foundation in its goal to develop activities in [Chudow Castle].â That request documentation
+also noted that the âvalue of the requestâ was â[i]ndirect support of educational efforts of
+foundation settled by Silesia [Health Fund].â Similarly, the remaining payments were
+mischaracterized as monies paid by Lilly-Poland to secure the use of the Chudow Castle for
+conferences after its renovation. No such conferences took place.
+
+11. Lilly-Poland eventually made a total of eight payments to the Chudow
+
+Foundation, starting in June 2000 and ending in January 2003. Lilly-Poland contributed 154,500
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 5 of 20
+
+zlotys (PLN) (approximately $39,000) to the Chudow Foundation, as summarized in the table
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+below.
+
+Date Amount
+
+June 21, 2000 12,000 PLN ($2,730)
+November 13, 2000 8,500 PLN ($1,855)
+May 22, 2001 32,000 PLN ($8,019)
+November 5, 2001 10,000 PLN ($2,438)
+March 27, 2002 32,000 PLN ($7,779)
+June 14, 2002 30,000 PLN ($7,434)
+November 20, 2002 20,000 PLN ($5,112)
+January 29, 2003 10,000 PLN ($2,622)
+
+ 
+
+12. The Manager requested the approval of the payments to the Chudow Foundation
+with the intent of inducing the Health-Fund Director to allocate public monies to hospitals and
+other healthcare providers in the Health Fund for the purpose of purchasing Gemzar. For
+example, in February 2002, the Director, following a meeting with the Manager, authorized
+financing a purchase of Gemzar. Two days later, the Chudow Foundation sent a letter to Lilly-
+Poland requesting a payment of 32,000 PLN (which Lilly-Poland made on March 27, 2002). An
+internal record at Lilly-Poland (a spreadsheet entitled âExpenses 2002â) reflects that this
+payment to the Chudow Foundation was âfor [the Director].â
+
+13.. Two Lilly-Poland emails also reflect the improper purpose of the payments to the
+Chudow Foundation. Prior to the first payment, the Manager told another Lilly-Poland
+employee in a May 31, 2000 email that the Health-Fund Director needed more convincing about
+purchasing Gemzar. In that email, under the heading âSponsorships,â the Manager observed that
+Lilly-Poland was to pay:
+
+12,000 zlotys in two installments, not very far removed from each other, to the
+
+Chudow Castle Foundation, [the Health Fund Directorâs] hobby, supposedly for
+
+the purchase of computers. . . For your information regarding the size of the
+
+budget for this year, I decided to invest 70-75% for Silesia. I have given [the
+Health Fund Director] a free hand as to managing the Lilly investment,
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 6 of 20
+
+emphasizing the fact we are only doing this for him . . . and we donât need the
+publicity.
+
+14. In a March 19, 2001 email to a Lilly-Poland colleague, the Manager noted that
+one of the tasks was Lilly-Polandâs â[d]Jetermination of the amount of the rebate for the director
+in connection with the âCastleâ Foundation.â In that email, when describing the budget, the
+Manager wrote: âthe so-called rebate for the âCastleâ . . . will depend on the purchases of
+medicines.â Accordingly, textual references in both emails â âsupposedly for the purchase of
+computersâ and ââthe so-called rebate for the âCastleââ â underscore the Managerâs attempts to
+create a pretext and false justifications for the payments to the Chudow Foundation.
+
+15. The final seven payments to the Chudow Foundation were approved by the Lilly-
+Poland âMedical Grant Committeeâ (âMGCâ), which included Lilly-Polandâs Managing
+Director, Finance Director and Regulatory and Medical Director. The MGC approved the
+payments based largely on the justification and description in the submitted paperwork. The
+MGC procedures did not adequately analyze the circumstances outside the paperwork such as:
+(i) the Chudow Foundation was a project founded and administered by a high-level government
+health official who had significant authority over whether the Health Fund would pay for Lilly-
+Poland products in Silesia, one of Polandâs most populous regions; (11) Lilly-Poland was in
+negotiations to persuade the Director to finance the purchase of one of Lillyâs cancer products at
+the time of the requests from the Chudow Foundation for payments; (iii) the justifications for the
+first two payments were different from each other and different from the justification given for
+the remaining six payments; (iv) the request for one of the largest payments came two days after
+the Director had met with the Manager and agreed to authorize financing the purchase of a large
+
+quantity of Gemzar by the Health Fund; and (v) the payments to the Chudow Foundation were
+Case 1:12-cv-02045 Document1 Filed 12/20/12. Page 7 of 20
+
+the only payments by Lilly-Poland to an archeological and/or restoration project, despite the
+existence of numerous other such projects in Poland at the time.
+China
+
+16. Lillyâs wholly-owned subsidiary through which it does business in China (âLilly-
+Chinaâ) employs more than one-thousand sales representatives whose main focus is on
+marketing Lilly products to government-employed health-care providers. During the relevant
+period, the sales representatives worked from regional offices and traveled throughout the
+country, interacting with the health-care providers in order to convince them to prescribe Lilly
+products. The sales representatives were directly supervised by District Sales Managers who, in
+turn, were supervised by Regional Managers. Sales representatives paid out-of-pocket for their
+travel expenses and submitted receipts and other documentation to the company for
+reimbursement.
+
+17. | Between 2006 and 2009, various sales representatives and their supervisors
+abused the system by submitting, or instructing subordinates to submit, false expense reports. In
+some instances, Lilly-China personnel used reimbursements from those false reports to purchase
+gifts and entertainment for government-employed physicians in order to encourage the
+physicians to look favorably upon Lilly and prescribe Lilly products.
+
+18. In one sales area, in 2006 and 2007, a District Sales Manager for Lillyâs diabetes
+products instructed subordinates to submit false expenses reports and provide the reimbursement
+money to her. She then used the reimbursements to purchase gifts, such as wine, specialty foods
+and a jade bracelet, for government-employed physicians. At least five sales representatives in
+the oncology sales group submitted false expense reports and then used those reimbursements to
+
+provide meals, visits to bath houses, and card games to government-employed physicians.
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 8 of 20
+
+19. Similarly, in three other provinces, three sales representatives submitted false
+expense reports and then used the reimbursements to provide government-employed physicians
+with visits to bath houses and karaoke bars. In another city, five sales representatives submitted
+false reimbursements and then their Regional Manager used the money to provide door prizes
+and publication fees to government-employed physicians. In another city, seven sales
+representatives and the District Sales Manager for the diabetes sales team used reimbursements
+to buy meals and cosmetics for government-employed physicians.
+
+20. Between 2008 and 2009, members of Lilly-Chinaâs âAccess Group,â which was
+responsible for expanding access to Lilly products in China by, among other things, convincing
+government officials to list Lilly products on government reimbursement lists, engaged in similar
+misconduct. At least six members of the sixteen-member Access Group, including two associate
+access directors, falsified expense reports and used the proceeds to provide gifts and
+entertainment to government officials in China. The gifts included: spa treatments, meals, and
+cigarettes.
+
+21. Although the dollar amount of each gift was generally small, the improper
+payments were wide-spread throughout the subsidiary. Lilly has terminated, or otherwise
+disciplined, the various employees who submitted false expense reports and/or used the proceeds
+to provide gifts and services to government officials.
+
+Brazil
+
+22. Between 2007 and 2009, Lilly-Brazil distributed drugs in Brazil through third-
+party distributors who then resold those products to both private and government entities. As a
+general rule, Lilly-Brazil sold the drugs to the distributors at a discount; the distributors then
+
+resold the drugs to the end users at a higher price and took the discount as their compensation.
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 9 of 20
+
+Lilly-Brazil negotiated the amount of the discount with the distributor based on the distributorâs
+anticipated sale. The discount to the distributors generally ranged between 6.5% and 15%, with
+the majority of distributors in Brazil receiving a 10% discount.
+
+23. In early 2007, at the request of one of Lilly-Brazilâs sales and marketing
+managers at the time, Lilly-Brazil granted a nationwide pharmaceutical distributor, unusually
+large discounts of 17% and 19% for two of the distributorâs purchases of a Lilly drug, which the
+distributor then sold to the government of one of the Brazilian states. Lilly-Brazilâs pricing
+committee approved the discounts without further inquiry. The policies and procedures in place
+to flag unusual distributor discounts were deficient. They relied on the representations of the
+sales and marketing manager without adequate verification and analysis of the surrounding
+circumstances of the transactions. In May 2007, Lilly sold 3,200 milligrams of the drug to the
+distributor for resale to the Brazilian state; in August 2007, Lilly-Brazil sold 13,500 milligrams
+of the drug to the distributor for resale to the Brazilian state. Together the sales were valued at
+approximately $1.2 million.
+
+24. The distributor used approximately 6% of the purchase price (approximately
+$70,000) to bribe government officials from the Brazilian state so that the state would purchase
+the Lilly product. The Lilly-Brazil sales and marketing manager who requested the discount
+
+knew about this arrangement.
+
+Russia
+25. From 1994 through 2005, Lilly-Vostok, a wholly-owned subsidiary of Lilly, sold
+pharmaceutical products either directly to government entities in the former Soviet Union or
+through various distributors, often selected by the government, who would then resell the
+
+products to the government entities. Along with the underlying purchase contract with the
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 10 of 20
+
+government entity or distributor, Lilly-Vostok sometimes entered into another agreement with a
+third-party selected by a government official or by the government-chosen pharmaceutical
+distributor. Generally, these third-parties, which had addresses and bank accounts located
+outside of Russia, were paid a flat fee or a percentage of the sale. These agreements were
+referred to as âmarketingâ or âserviceâ agreements. In total, Lilly-Vostok entered into over 96
+such agreements with over 42 third-party entities between 1994 and 2004.
+
+26. â_ Lilly- Vostok had little information about these third-party entities, beyond their
+addresses and bank accounts. Rarely did Lilly-Vostok know who owned them or whether the
+entities were actual businesses that could provide legitimate services. Senior management
+employees in Lilly-Vostokâs Moscow branch assisted in the negotiation of these agreements.
+The contracts themselves were derived from a Lilly-Vostok-created template and enumerated
+various broadly-defined services, such as ensuring âimmediate customs clearanceâ or
+âimmediate deliveryâ of the products; or assisting Lilly- Vostok in âobtaining payment for the
+
+99 66
+
+sales transaction,â âthe promotion of the products,â and âmarketing research.â
+
+27. Contrary to what was recorded in the companyâs books and records, there is little
+evidence that any services were actually provided under any of these third-party agreements.
+Indeed, in many instances, the âservicesâ identified in the contract were already being provided
+by the distributor, a third-party handler (such as an international shipping handler) or Lilly itself.
+To the extent services such as expedited customs clearance or other services requiring interaction
+with government officials were provided, Lilly-Vostok did not know or inquire how the third-
+party intended to perform their services.
+
+28. | Contemporaneous documents reflect that Lilly-Vostok employees viewed the
+
+payments as necessary to obtain the business from the distributor or government entity, and not
+
+10
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 11 of 20
+
+as payment for legitimate services. For example, in November 1994, a senior manager at Lilly-
+Vostok emailed the commercial manager, the employee tasked with drafting and approving the
+language of the agreements, that the âstandard Marketing Agreement [is] where the [service
+provider] delivers the service of getting this [purchase] contract for us ....â In August 1999, the
+commercial manager emailed senior managers that âif real services are provided the marketing
+agreement is not the appropriate form.â In other documents, Lilly-Vostok employees referred to
+the payments as âdiscountsâ or âcommissionsâ to the distributor or government purchaser.
+
+29. In 1997, Lilly conducted a business review of Lilly-Vostok to identify business
+risks and assess the subsidiaryâs policies and procedures which resulted in a report. The report,
+which was sent to Lilly-Vostok offices in Geneva and to Lilly headquarters in Indianapolis,
+noted that â[b]usiness ethics [in Russia] are lowâ and that â[a] large base of opportunistic
+entrepreneurs, lacking national presence build the distribution network.â The report concluded
+that â[t]he nature and complexity of customers require that âconsultantsâ be used to âsupportâ
+activities, leading to agreement signingâ (quotation marks in the original). The report pointed
+out that the services provided by these consultants were broadly defined and duplicated activities
+usually performed by Lilly-Vostokâs Russian staff, and that documentation of the services
+received was not available. The report recommended that Lilly-Vostok modify its internal
+controls to ensure that the services were documented and Lilly-Vostok was getting âvalue.â
+
+30. In 1999, Lilly again reviewed Lilly-Vostokâs operations, including its use of
+marketing agreements and concluded that they raised concerns. A second report, which was sent
+to Geneva and Indianapolis headquarters and distributed to, among others, the individuals who at
+that time were Lillyâs Chief Financial Officer, President of Lilly International Operations and
+
+General Auditor, stated that:
+
+11
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 12 of 20
+
+Attention has been given to contain external unethical pressures through
+
+guidelines and training. The use of marketing agreements with third-
+
+parties has been tightened; agreements substance and permanent education
+
+program continue to require effort and refinements.
+
+31. Regarding the agreements, the second report concluded that the â{n]Jeed exists to
+call on third-parties to create sales potential.â It recommended that Lilly-Vostok modify its
+internal controls to assure itself that the agreements accurately and fairly reflect the services to
+be provided.
+
+32. Lilly did not curtail the use of marketing agreements by its subsidiary or make
+any meaningful efforts to ensure that the marketing agreements were not being used as a method
+to funnel money to government officials, despite recognition that the marketing agreements were
+being used to âcreate sales potentialâ or âto âsupportâ activities leading to agreement-signingâ
+with government entities. In fact, during the 2000-2004 period -- after the above-described
+reports, but prior to the company ending use of the agreements -- Lilly-Vostok entered into the
+three most expensive of these arrangements.
+
+33. For example, in 2002, the Russian Ministry of Health announced that it would
+engage in a âfederal tenderâ in which it would purchase drugs for the treatment of diabetes to be
+provided free of charge to patients by the government. Under the terms of the tender, the
+ministry selected a large Russian pharmaceutical distributor from which to purchase the
+products, and this distributor, in turn, negotiated with Lilly-Vostok for the purchase of diabetes
+products for resale to the Ministry of Health.
+
+34. The large Russian pharmaceutical distributor was owned and controlled by a
+wealthy and prominent Russian businessman. The Russian pharmaceutical distributor required
+
+Lilly-Vostok, as a condition of their agreement, to enter into a âStorage and Delivery
+
+Agreementâ with an entity incorporated in Cyprus. In July 2002, Lilly-Vostok executed the
+
+12
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 13 of 20
+
+purchase agreement with the distributor, which was signed on the distributorâs behalf by its
+chairman, the prominent Russian businessman. At approximately the same time, Lilly-Vostok
+also entered into the âStorage and Delivery Agreementâ with the entity in Cyprus.
+
+35.  Lillyâs due diligence regarding the entity in Cyprus was limited to ordering a Dun
+and Bradstreet report and conducting a search using an internet service to scan publicly available
+information. Neither the Dun and Bradstreet report nor the internet search revealed the Cyprus
+entityâs beneficial owner or anything about its business. Nonetheless, pursuant to the terms of its
+arrangement with the distributor, Lilly-Vostok paid the entity in Cyprus over $3.8 million in
+early 2003.
+
+36. The Cyprus entity was, in fact, owned by the Russian businessman who was the
+owner of the distributor. There is no evidence of services provided to Lilly-Vostok by the
+Cyprus entity in consideration for Lilly- Vostokâs $3.8 million in payments. Lillyâs books and
+records improperly reflected these payments as payments for services.
+
+37. In at least two instances, the arrangements involved foreign government officials.
+Between 2000 and 2005, Lilly-Vostok sold significant amounts of pharmaceutical products to a
+major Russian pharmaceutical distributor for resale to the Russian Ministry of Health. The
+pharmaceutical distributor was owned and controlled by an individual who, at the beginning of
+the distributorâs relationship with Lilly-Vostok, was a close adviser to a member of Russiaâs
+Parliament. In 2003, this official became a member of the upper house of Russiaâs Parliament.
+Throughout the period, this official exercised considerable influence over government decisions
+relating to the pharmaceutical industry in Russia.
+
+38. As part of most of the sales arrangements with the distributor, the official
+
+demanded that Lilly-Vostok enter into separate âmarketingâ agreements with entities with
+
+13
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 14 of 20
+
+addresses and bank accounts in Cyprus. Under the arrangement, Lilly-Vostok paid the Cypriot
+entities up to thirty percent of the sales price of the underlying sales contracts in return for the
+Cypriot entities entering into an agreement âto offer all assistance necessaryâ in various areas
+like storage, importation and payment.
+
+39. In conjunction with outside counsel, Lilly-Vostok conducted limited due diligence
+on these third-parties. However, the due diligence did not identify the beneficial owners of these
+third-parties or determine whether the third-parties were able to provide the contracted-for
+assistance. Nonetheless, Lilly-Vostok concluded that it could proceed with the transactions and
+paid the Cypriot entities over $5.2 million. In fact, the Cypriot entities were owned by an
+individual associated with the distributor controlled by the member of the upper house of Russia
+Parliament. The Cypriot entity transferred the payments from Lilly-Vostok to other off-shore
+entities.
+
+40. In connection with another series of contracts, from 2000 through 2004, Lilly-
+Vostok sold products to a distributor, headquartered in Moscow, which was wholly-owned by a
+Russian government entity. The purchase agreements were signed on the government-owned
+distributorâs behalf by its General Director. As part of the arrangement, the government-owned
+distributor selected a third-party entity with an address in the British Virgin Islands (âthe BVI
+entityâ) with which Lilly-Vostok entered into agreements for the broadly defined
+âservicesâ enumerated in the Lilly-Vostok template (see above). Under the terms of the
+agreements between Lilly-Vostok and the BVI entity, Lilly-Vostok was to pay the BVI entity up
+to 15% of the price of the product purchased by the government-owned distributor. Accordingly,
+from 2000 through 2005, Lilly-Vostok made approximately 65 payments to the BVI entity
+
+totaling approximately $2 million.
+
+14
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 15 of 20
+
+41. There is no evidence that the BVI entity performed any of the services listed in its
+agreement with Lilly-Vostok. There is also no evidence that Lilly-Vostok performed any due
+diligence or inquiry as to whether the BVI entity was able or did perform the contracted-for
+services. Lastly, there is no evidence that Lilly-Vostok performed any due diligence or inquiry
+into the identity of the beneficial owner of the BVI entity. In fact, the beneficial owner of the
+BVI entity was the General Director of the government-owned distributor, and he ulimately
+received the payments from the BVI entity.
+
+42. Lilly did not direct Lilly-Vostok to cease entering into these third-party
+agreements until 2004. However, Lilly permitted the subsidiary to continue making payments
+under already existing third-party contracts as late as 2005.
+
+43. From 2005 through 2008, Lilly-Vostok made various proposals to government
+officials in Russia regarding how Lilly-Vostok could donate to or otherwise support various
+initiatives that were affiliated with public or private institutions headed by the government
+officials or otherwise important to the government officials. Examples included their personal
+participation or the participation of people from their institutions in clinical trials and
+international and regional conferences and the support of charities and educational events
+associated with the institutes. At times, these proposals to government officials were made in a
+communication that also included a request for assistance in getting a product reimbursed or
+purchased by the government. Generally, Lilly-Vostok personnel believed these proposals were
+proper because of their relevance to public health issues and many of the proposals were
+reviewed by counsel. Nonetheless, Lilly-Vostok did not have in place internal controls through
+
+which such proposals were vetted to ascertain whether Lilly-Vostok was offering something of
+
+15
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 16 of 20
+
+value to a government official for a purpose of influencing or inducing him or her to assist Lilly-
+Vostok in obtaining or retaining business.
+Lillyâs Books and Records
+
+44. __ As detailed above, subsidiaries of Eli Lilly made numerous payments that were
+incorrectly described in the companyâs books and records. In China, payments were falsely
+described as reimbursement of expenses when, in fact, the money was used to provide gifts to
+government-employed physicians. In Brazil, money that was described in company records as a
+âdiscountâ for a pharmaceutical distributor was, in actuality, a bribe for government officials. In
+Poland, payments classified as charitable donations were not intended for a genuine charitable
+purpose but rather to induce a government official to assent to the purchase of a Lilly product.
+Finally, in Russia, millions of dollars in payments, described in the companyâs books and records
+as for various services, were actually payments to assure that Lilly was able to conduct business
+with certain pharmaceutical distributors.
+
+Lillyâs Internal Controls
+
+45. During the relevant period, Lilly and its subsidiaries failed to devise and maintain
+an adequate system of internal accounting sufficient to provide reasonable assurance that the
+company maintained accountability for its assets and transactions were executed in accordance
+with managementâs authorization. Particularly, Lilly did not adequately verify that
+intermediaries with which the company was doing government-related business would not
+provide a benefit to a government official on Lillyâs behalf in order to obtain or retain business.
+Lilly and its subsidiaries primarily relied on assurances and information provided in the
+paperwork by these intermediaries or by Lilly personnel rather than engaging in adequate
+
+verification and analyzing the surrounding circumstances of the transaction. Lilly and its
+
+16
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 17 of 20
+
+subsidiariesâ employees considered and offered benefits to government officials at the same time
+they were asking those government officials to assist with the reimbursement or purchase of
+Lillyâs products with inadequate safeguards to assure that its employees were not offering items
+of values to a government official with a purpose to assist Lilly in retaining or obtaining
+business.
+
+46. Moreover, despite an understanding that certain emerging markets were most
+vulnerable to FCPA violations, Lillyâs audit department, based out of Indianapolis, had no
+procedures specifically designed to assess the FCPA or bribery risks of sales and purchases.
+Accordingly, transactions with off-shore entities or with government-affiliated entities did not
+receive specialized or closer review for possible FCPA violations. In assessing these
+transactions, the auditors relied upon the standard accounting controls which primarily assured
+the soundness of the paperwork. There was little done to assess whether, despite the existence of
+facially acceptable paperwork, the surrounding circumstances or terms of a transaction suggested
+the possibility of an FCPA violation or bribery.
+
+Lillyâs Remedial Efforts
+
+47. Since the time of the conduct noted in this Complaint, Lilly has made
+improvements to its global anti-corruption compliance program, including: enhancing anti-
+corruption due diligence requirements for relationships with third parties; implementing
+compliance monitoring and corporate auditing specifically tailored to anti-corruption; enhancing
+financial controls and governance; and expanding anti-corruption training throughout the
+
+organization.
+
+17
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 18 of 20
+
+Claim One
+Violations of Section 30A of the Exchange Act
+
+48. Paragraphs 4-6, 25-32 and 37-42 are hereby realleged and incorporated by
+reference.
+
+49. Section 30A of the Exchange Act prohibits public companies, through their
+officers, agents, subsidiaries, and affiliates, from corruptly offering, promising to pay, or
+authorizing illicit payments to a person while knowing that all or a portion of those payments
+would be offered, given, or promised, directly or indirectly, to a foreign official or official of a
+foreign political party for the purposes of influencing his acts or decisions in his official capacity,
+inducing him to do or omit to do actions in violation of his lawful duties, securing an improper
+advantage, or inducing such foreign official to use his influence with a foreign government or
+instrumentality thereof to assist in obtaining or retaining business. When knowledge of the
+existence of a particular circumstance is required for an offense, such knowledge is established if
+a person is aware of a high probability of the existence of such circumstance, unless the person
+actually believes that such circumstance does not exist.
+
+50. As detailed above, Lilly violated Exchange Act 30A.
+
+Claim Two
+Violations of Section 13(b)(2)(A) of the Exchange Act
+
+51. Paragraphs 1 through 50 are hereby realleged and incorporated by reference.
+
+52. Section 13(b)(2)(A) of the Exchange Act requires public companies to make and
+keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflect the
+transactions and dispositions of the assets of the issuer.
+
+53. Public companies are responsible for ensuring that their foreign subsidiaries
+
+comply with Section 13(b)(2)(A).
+
+18
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 19 of 20
+
+54. As detailed above, Lilly, through its foreign subsidiaries, made numerous entries
+in its books and records that did not accurately and fairly reflect the transactions and dispositions
+of the assets of the issuer. In connection with these payments, Lilly failed to make and keep
+accurate books, records, and accounts as required by Exchange Act Section 13(b)(2)(A).
+
+Claim Three
+Violations of Section 13(b)(2)(B) of the Exchange Act
+
+55. Paragraphs 1 through 54 are hereby realleged and incorporated by reference
+
+56. Section 13(b)(2)(B) of the Exchange Act requires public companies to devise and
+maintain a system of internal accounting controls sufficient to provide reasonable assurances
+that: (i) transactions are executed in accordance with management's general or specific
+authorization; and (11) transactions are recorded as necessary to permit preparation of financial
+statements in conformity with generally accepted accounting principles or any other criteria
+applicable to such statements, and to maintain accountability for assets.
+
+57. Public companies are responsible for ensuring that their foreign subsidiaries
+comply with Section 13(b)(2)(B).
+
+58. As detailed above, Lilly failed to devise and maintain an effective system of
+
+internal controls, as required by Exchange Act Section 13(b)(2)(B).
+
+19
+Case 1:12-cv-02045 Document1 Filed 12/20/12 Page 20 of 20
+
+PRAYER FOR RELIEF
+
+WHEREFORE, the Securities and Exchange Commission respectfully requests that this
+Court enter a final judgment against Eli Lilly and Company:
+a. Permanently enjoining it from violating or committing or causing any
+violations and any future violations of Sections 13(b)(2)(A), 12(b)(2)(B) and 30A of the
+
+Exchange Act;
+
+b. Ordering Eli Lilly and Company to disgorge the profits and proceeds it
+obtained as a result of its actions alleged herein and to pay prejudgment interest thereon; and
+
+C, Granting such other relief as this Court may deem just and proper.
+
+Dated: December 20, 2012 Respectfully submitted,
+
+ees Ce : SE sstined
+
+Antonia Chion
+
+Kara N. Brockmeyer
+
+Steven A, Susswein
+
+Attorneys for Plaintiff
+
+SECURITIES AND EXCHANGE COMMISSION
+100 F Street, Northeast
+
+Washington, District of Columbia 20549

@@ -1,0 +1,1384 @@
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF TEXAS
+
+ 
+
+HOUSTON DIVISION
+
+)
+SECURITIES AND EXCHANGE )
+COMMISSION, )
+)
+
+Plaintiff, ) Civil Action No.
+)
+Vv. )
+
+) COMPLAINT
+
+MARK A. JACKSON )
+and JAMES J. RUEHLEN, )
+)
+Defendant. )
+)
+
+ 
+
+Plaintiff, Securities and Exchange Commission (the âCommissionââ), alleges:
+SUMMARY
+
+1. This action arises from violations of the Foreign Corrupt Practices Act (the
+âFCPAââ) by Mark A. Jackson (ââJacksonââ) and James J. Ruehlen (ââRuehlenââ) (collectively
+Defendantsâ), who are a former and a current employee of Noble Corporation (âNobleâ), an
+international provider of offshore drilling services and equipment to oil companies throughout
+the world, including Nigeria.
+
+2. Noble and its wholly owned subsidiary, Noble Drilling (Nigeria) Ltd. (âNoble-
+Nigeriaâ), authorized its customs agent to pay bribes on Nobleâs and Noble-Nigeriaâs behalf to
+Nigerian government officials to influence or induce them to (1) favorably process false
+paperwork, (2) grant temporary import permits (âTIPsâ) based on the false paperwork, and (3)
+favorably exercise or abuse their discretion in granting extensions to these illicit TIPs.
+Defendants approved payment of the bribes. Defendant Ruehlen also assisted the customs agent
+
+in preparing false documents, processed the customs agentâs invoices for the bribes, and signed
+the checks reimbursing the customs agent for the bribes he paid to Nigerian government
+officials. Defendants acted in this way to obtain TIPs and TIP extensions and retain business
+under drilling contracts in Nigeria. As a consequence, Defendants violated the anti-bribery
+provisions of the Securities Exchange Act of 1934 (the âExchange Actâ) [15 U.S.C. Â§78dd-1].
+
+3. Defendants also took steps to circumvent Nobleâs internal controls and to falsely
+record these bribes as legitimate operating expenses on Nobleâs books. Defendant Jackson failed
+to implement internal accounting controls to prevent the bribery and false recording of the
+bribes. As a consequence, Defendants violated the records falsification and internal control
+provisions of the Exchange Act [15 U.S.C. Â§78m(b)(5) and 17 C.F.R. Â§240.13b2-1], and aided
+and abetted Nobleâs violation of the books and records and internal control provisions of the
+Exchange Act [15 U.S.C. Â§$78m(b)(2)(A) and (B)].
+
+4. Defendant Jackson misled Nobleâs auditors about the bribes and signed
+certifications required by the Sarbanes-Oxley Act of 2002 falsely stating that he had created and
+maintained effective internal controls, and that there were no internal control weaknesses, fraud,
+or FCPA violations. As a consequence, Jackson violated Rules 13b2-2 and 13a-14 of the
+Exchange Act [17 C.F.R. Â§Â§240.13b2-2 and 240.13a-14].
+
+5. During the violations, Jackson was Nobleâs Chief Financial Officer (âCFOâ),
+Chief Operating Officer (âCOOâ), and ultimately President, Chief Executive Officer (âCEOâ),
+and Chairman of the Board of Directors. Jackson directly or indirectly controlled Noble,
+Defendant Ruehlen, and others, and therefore is liable as a control person under Section 20(a) of
+the Exchange Act [15 U.S.C. Â§78t(a)] for all of their violations.
+
+JURISDICTION AND VENUE
+
+6. This Court has jurisdiction under Sections 21(d), 21(e), and 27 of the Exchange
+Act [15 U.S.C. Â§Â§ 78u(d), 78u(e) and 78aa]. Noble, Jackson, and Ruehlen, directly or indirectly,
+made use of the means or instrumentalities of interstate commerce, including electronic mail, of
+the mails, or of the facilities of a national securities exchange in connection with the transactions,
+acts, practices, and courses of business alleged in this Complaint.
+
+7. Venue is appropriate in this Court under Section 27 of the Exchange Act [15
+U.S.C. Â§ 78aa] or 28 U.S.C. Â§ 1391(d) because, among other reasons, certain acts or transactions
+constituting the violations by Defendants occurred in this district.
+
+DEFENDANTS AND OTHER ENTITIES
+
+8. Jackson was Nobleâs CFO from September 2000 to about October 2005, and
+Acting CFO from about March 2006 to about November 2006. Jackson became COO in March
+2005, became the President and COO in February 2006, became a Director in July 2006, and
+became CEO in late October 2006. When Jackson resigned in September 2007, he was
+President, CEO, and Chairman of the Board.
+
+9. As CFO and Acting CFO, Jackson was responsible for Nobleâs compliance with
+the FCPA. He received regular reports of payments made to government officials, and he
+reviewed and approved such payments, including those for TIPs and TIP extensions. As CFO
+and Acting CFO, Jackson supervised Nobleâs internal audit, finance, and accounting functions.
+He was responsible for the accuracy of Nobleâs books, including the accurate recording of
+payments to government officials.
+
+10. From about May 2005 through early 2007, Jackson directly supervised Ruehlen,
+oversaw Noble-Nigeriaâs operations, and regularly communicated with Ruehlen about the status
+
+of drilling rigs in Nigeria and other issues facing Noble-Nigeria.
+11. As CEO, Jackson also oversaw FCPA compliance and the accuracy of Nobleâs
+financial statements.
+
+12. On September 20, 2007, Jackson resigned from Noble. Jackson later became
+President of Mark Jackson Investments, LLC. From about August 2011 to about February 2012,
+Jackson was the Managing Director and CEO of another public company in the oil industry.
+Jackson markets himself as an independent oil and energy professional interested in new
+ventures, consulting offers, business deals and career opportunities. Before joining Noble,
+Jackson served as CFO of another company in the oil industry.
+
+13. Ruehlen is the highest Noble executive in Nigeria and today remains responsible
+for all of Noble-Nigeriaâs operations. Ruehlenâs permanent residence is in Houston, Texas.
+
+14. On or about September 15, 2004, Ruehlen became the Division Manager of
+Noble-Nigeria and a member of its Board of Directors. He reported to Nobleâs Vice President of
+Eastern Hemisphere Operations from about September 2004 to about May 2005 and directly to
+Jackson from about May 2005 to about the first quarter of 2007. Throughout the relevant time,
+Ruehlen signed Division representation letters certifying his divisionâs compliance with Nobleâs
+policies, the FCPA, and other governmental laws, certifying the accuracy of Nobleâs books,
+records and accounts, and certifying its adherence to internal controls, among other things.
+
+15. In the two years before becoming the Division Manager, Ruehlen worked in
+Nobleâs operations and corporate internal audit groups. He worked on an audit of the West
+Africa Division during which he learned of the unlawful use of false paperwork and unreceipted
+payments to Nigerian government officials to obtain TIPs and TIP extensions.
+
+16. During the relevant period, Noble Corporation (âNobleââ?) was a Cayman Islands
+
+corporation whose common stock was registered under Section 12(b) of the Exchange Act and
+traded on the New York Stock Exchange under the symbol âNEâ. Nobleâs headquarters and
+principal executive offices were in Sugar Land, Texas. In March 2009, Noble incorporated in
+Switzerland, and its corporate and principal executive offices moved overseas. Noble retained
+the Sugar Land office as its main U.S. office for the Noble group of companies operating in the
+U.S., and its common stock continues to be registered under Section 12(b) of the Exchange Act
+and to trade on the New York Stock Exchange. âNobleâ herein refers to the current Swiss parent
+company or to the former Cayman Islands parent. Noble, through its subsidiaries, performs
+contract oil drilling services with a fleet of mobile offshore drilling units located worldwide.
+
+17. Noble Drilling (Nigeria) Ltd., ââNoble-Nigeriaââ or âWest Africa Divisionâ) is a
+wholly-owned Noble subsidiary, incorporated in Nigeria in September 1990 as an oil industry
+
+service company. Its financial results are consolidated into the financial statements of Noble.
+
+ 
+
+FACTUAL ALLEGATIONS
+I. The Temporary Import Regime in Nigeria and False Paperwork
+18. Noble earns revenue by contracting with oil and gas companies to drill oil and gas
+
+wells offshore in locations around the world, including Nigeria. Nobleâs operations in Nigeria
+are conducted by Noble-Nigeria. Between January 2003 and May 2007, Noble-Nigeria had up to
+seven drilling rigs that operated offshore in Nigeria. Nigeria allowed these rigs to operate in its
+waters without the payment of permanent import duties associated with the rig on the basis of
+temporary import permits (ââTIPsââ) obtained from the Nigeria Customs Service (âNCSâ).
+
+19. NCS is the Nigerian government agency that controls the issuance of TIPs and
+TIP extensions. Under Nigerian law, NCS grants TIPs for rigs that, subject to any other
+
+conditions imposed by NCS, will be in the country only temporarily. TIP grants state that they
+are valid for one year and are conditioned on, among other things, the procurement of a bank
+bond for the full value of permanent import duties.
+
+20. Upon proper application, NCS may, in its discretion, grant up to three six-month
+extensions to a TIP for a rig. At the expiration of a TIP and any TIP extensions, NCS required
+that the rig be exported from Nigeria. If a rig was needed in Nigeria to complete work on a
+drilling contract past the expiration of a TIP and any extensions, NCS required that the rig be
+exported and that the rig owner seek a new TIP in order to re-import the rig. Alternatively, the
+rig owner could apply to convert the rig to permanent import status. Converting the rig to
+permanent import status would include, among other things, paying the appropriate, and often
+costly, duties associated with permanent import status. Failure to export and re-import the rig
+pursuant to a new TIP, or to convert it to permanent import status, would subject the rig owner to
+sanctions, including seizure of the rig by the government and forfeiture of the ownerâs bond.
+
+21. NCS did not deal directly with rig owners. It required that companies submit
+applications and correspondence as to TIPs and extensions through licensed customs agents.
+
+22. Contrary to Nigerian law, Noble-Nigeria did not export its rigs at the expiration of
+TIPs and extensions. Nor did it seek to convert its rigs to permanent import status and pay
+permanent import duties. Instead, Ruehlen and other Noble-Nigeria officials, and its customs
+agent, with Jacksonâs knowledge and approval, created false documents showing that the rigs
+moved out of and back into Nigerian waters, when the rigs in fact never moved. Ruehlen and
+Noble-Nigeria, through the customs agent, and based at times on Jacksonâs authorization, paid
+bribes to Nigerian officials to secure stamps and other illegitimate processing of documents that
+
+made it falsely appear as if the rigs were exported and re-imported as required by Nigerian law.
+II. Noble Paid Bribes to Obtain TIPs and Extensions
+
+23. To obtain TIPs with false paperwork, Ruehlen sought authorization for, and
+Jackson authorized, illicit payments to Nigerian government officials. Typically, the process,
+from about September 2004 to about May 2007, was that Ruehlen would obtain a price proposal
+from the customs agent detailing the costs associated with obtaining a new TIP or TIP extension.
+These proposals would clearly state which charges would not have any supporting backup
+documentation, such as those labeled as âspecial handlingâ or âprocurement.â
+
+24. The terms âspecial handlingâ and âprocurementâ denoted unreceipted payments,
+or bribes, to government officials. Ruehlen understood that all payments specifically labeled
+âspecial handlingâ or âprocurementâ without supporting documentation were payments to
+government officials. From about September 2004 to about May 2007, Ruehlen generally
+referred to all unreceipted TIP-related payments to government officials as âspecial handling,â
+regardless of the label used by the agent. Because Nobleâs FCPA policy required all such
+payments to be pre-approved in writing by the CFO, Ruehlen usually sent an e-mail from his
+post in Nigeria to the CFO in Sugar Land, Texas, who at times during the relevant period was
+Jackson, requesting approval for the âspecial handlingâ charges. Throughout the relevant period,
+Jackson understood that all requests from Ruehlen to pay âspecial handlingâ charges for TIPs
+and TIP extensions were requests to make unreceipted payments to government officials to
+secure false paperwork TIPs or discretionary TIP extensions.
+
+25. Once he received approval, Ruehlen would authorize the agent to proceed with
+the payments to government officials to ensure the favorable processing and grant of TIPs or TIP
+extensions. However, Ruehlen sometimes authorized the agent to pay Nigerian government
+
+officials without first obtaining approval from the CFO, in violation of Noble policy.
+26. After the customs agent completed the work and paid the bribes as directed, the
+agent sent Ruehlen and Noble-Nigeria its invoice. Ruehlen then would process and approve the
+invoice for payment, thereby reimbursing the customs agent for the bribes it had paid
+government officials, in order to obtain TIPs and TIP extensions, and assist Noble to continue
+doing business under contracts. Ruehlen would also, at times, sign the check that reimbursed the
+customs agent for the bribes paid to government officials at his, Nobleâs, and Noble-Nigeriaâs
+request.
+
+27. From about January 2003 through about May 2007, Noble and Noble-Nigeria
+employees, including at times Ruehlen and Jackson, authorized the agent to pay bribes and
+reimbursed the agent for the bribes paid to Nigerian government officials on their behalf to
+process eleven illegitimate TIPs with false paperwork. The NCS actually issued to Noble-
+Nigeria eight of those eleven illegitimate TIPs.
+
+28. To obtain the eight false paperwork TIPs, Noble and Noble-Nigeria employees,
+including at times Ruehlen and Jackson, paid the customs agent at least $79,026, which the agent
+specifically labeled on its invoice as âspecial handlingâ charges. Jackson and Ruehlen knew that
+the âspecial handlingâ charges were payments that the customs agent made to government
+officials, at their, Nobleâs, and Noble-Nigeriaâs request, to induce Nigerian officials to process
+and grant the illicit false paperwork TIPs.
+
+29. Noble and Noble-Nigeria employees, including at times Ruehlen and Jackson,
+made additional payments of $180,326, which Defendants understood to be unreceipted
+payments to Nigerian government officials, or bribes, but which the customs agent invoiced as
+
+âprocurement of new TIP.â Jackson and Ruehlen knew that the âprocurementâ charges were
+payments that the customs agent made to government officials, at their, Nobleâs, and Noble-
+Nigeriaâs request, to induce the officials to process and grant the illicit false paperwork TIPs.
+
+30. With respect to the three remaining false paperwork TIPs that Noble-Nigeria
+sought, Noble and Noble-Nigeria officials, including Ruehlen, based on Jacksonâs previous
+approvals and other actions, authorized the customs agent to pay bribes to Nigerian officials to
+secure these three false paperwork TIPs in 2007. The customs agent then obtained, through
+bribes paid at Ruehlenâs, Nobleâs, and Noble-Nigeriaâs request to Nigerian officials, false bond
+cancellations and other false documents purporting to show the export of the three rigs. The
+customs agent then invoiced Noble-Nigeria for reimbursement of the âspecial handlingâ charges,
+or bribes totaling about $50,000. Because Nobleâs Audit Committee, in or about May 2007, had
+begun an internal investigation into payments to government officials in Nigeria for TIPs and
+TIP extensions, the invoices ultimately were not paid.
+
+31. In addition to obtaining TIPs with false paperwork, Noble and Noble-Nigeria
+employees, including at times Ruehlen and Jackson, paid bribes, through the customs agent, to
+Nigerian government officials to obtain discretionary or unlawful extensions of these TIPs.
+From January 2003 through May 2007, Noble-Nigeria obtained about twenty-nine TIP
+extensions: about fourteen first extensions; about ten second extensions; about four third
+extensions; and one fourth extension. The bribes Noble authorized and Noble-Nigeria paid,
+through the customs agent, after July 2004 for first and second TIP extensions totaled about
+$231,098. The bribes for the third extensions totaled about $137,942. The bribe for the fourth
+extension totaled about $54,688.
+
+32. Through their illicit payments to Nigerian government officials, Noble and Noble-
+
+Nigeria retained business under lucrative drilling contracts, obtained profits from operating rigs
+in Nigeria, and avoided paying permanent import duties on its rigs. Noble also avoided the
+operational costs of moving its rigs, and avoided possible breaches of drilling contracts.
+
+Ill. Defendants Jackson and Ruehlen Knew Noble-Nigeria Paid Bribes to Obtain
+Unlawful False Paperwork TIPs and TIP Extensions
+
+33. In 2003 and 2004, several events occurred that caused Defendants Jackson and
+Ruehlen to learn, if they did not already know, that Noble-Nigeria paid bribes to Nigerian
+government officials through its customs agent to obtain extensions and false paperwork TIPs.
+
+A. In 2003, Nigeria Penalized Noble-Nigeria for TIP Violations, Including the
+Use of False Paperwork
+
+34. In or about February 2003, Jackson and others learned that the Nigerian
+government had assembled a panel to investigate abuses of the TIP regime. The panel came to
+be known as the âPanel of Inquiry.â
+
+35. In or about February 2003, Jackson and others also learned that the Panel of
+Inquiry had found evidence that Noble-Nigeria violated the law by, among other things,
+preparing false documents showing export and re-import of rigs to obtain new TIPs when the
+rigs did not actually move.
+
+36. On or about February 24 and 25, 2003, NCS and the Panel of Inquiry demanded
+Noble-Nigeria pay a penalty of 31,000,000 Naira for its violations. Jackson and others knew of
+the assessed penalty and that it related, in part, to the use of false paperwork to obtain TIPs.
+Jackson also knew that Noble-Nigeria paid the penalty.
+
+B. In 2004, an Internal FCPA Audit and Review of Payments to Government
+
+Officials Revealed Poor Internal Controls and Large Payments for TIPs and
+TIP Extensions
+
+37. In or about January 2004, Nobleâs internal audit group conducted a company-
+
+wide audit of compliance with the Foreign Corrupt Practices Act (âFCPA Auditâ). The final
+
+10
+FCPA Audit Report was dated January 15, 2004. Jackson received it and understood its
+findings.
+
+38. The FCPA Audit found, among other things, that employees did not understand
+the FCPA, did not comply with Nobleâs FCPA policies and procedures, did not get proper
+approvals before making unreceipted payments to foreign government officials, and did not
+properly record such payments in Noble-Nigeriaâs accounts.
+
+39. As a result of these findings, Noble-Nigeria reviewed its account relating to
+unreceipted government payments. The review revealed that in 2003 Noble-Nigeria made
+payments to Nigerian government officials totaling about $666,983, of which all were
+improperly recorded. Jackson knew the results of the review. Jackson also knew that of the
+improperly-recorded payments, TIP-related payments accounted for only 4% of the number of
+payments, but about 82% of the total dollars. Jackson and others understood that the TIP-related
+payments went to Nigerian government officials.
+
+AO. Jackson and others knew that the unreceipted TIP payments to government
+officials created a risk of FCPA violations. As a result, Noble and Noble-Nigeria subsequently
+required its customs agent to clearly delineate on its invoices all unreceipted payments to
+government officials, and required Noble-Nigeria to seek and obtain Nobleâs CFOâs review and
+approval before authorizing the agent to make any such payments.
+
+41. Jackson and others understood that âspecial handlingâ charges were unreceipted
+payments to Nigerian government officials that required CFO review and approval in writing.
+
+42. Nobleâs FCPA policy generally defined âfacilitating paymentâ as âa small
+payment to assure or speed the proper performance of a foreign officialâs duties that does not
+
+involve a discretionary action by such official.â By its terms, the definition excludes large
+
+11
+payments, all payments connected with discretionary acts, and all payments to induce foreign
+officials to process and approve false documents.
+
+C, In 2004, an Internal Audit of the West Africa Division Revealed the Use of
+False Paperwork to Obtain an Additional TIP
+
+43. Shortly after the FCPA Audit and while the review of unreceipted payments to
+government officials was underway, Nobleâs internal audit group audited Noble-Nigeriaâs
+operations and performed a follow-up check on its FCPA compliance (â2004 West Africa
+Division Auditâ). Ruehlen was on the audit team. He conducted field work in Nigeria and
+helped to draft the audit report.
+
+44, On or about February 13, 2004, Ruehlen learned that the West Africa Division in
+2003 made a large number of payments to government officials that were not properly reported,
+most of which related to TIPs. Ruehlen also learned that payments to obtain new TIPs were
+large, averaging approximately $75,000 every two years.
+
+45. In or about February or March 2004, Ruehlen learned that Noble-Nigeria used a
+customs agent to secure TIPs. He also learned that a TIP was valid for twelve months, and was
+told that Noble-Nigeria could receive up to two six-month extensions. Ruehlen learned that rigs
+have to be physically exported after two years. Ruehlen also learned that Noble-Nigeria did not
+physically export its rigs, but instead obtained new TIPs using false paperwork accompanied by
+payments to government officials.
+
+46. In or about January and February 2004, Noble-Nigeria obtained two new TIPs
+using false paperwork. Noble-Nigeria gave its customs agent 9,975,000 Naira per rig to obtain
+the illegal TIPs, and received no documentation or support for the payments. Noble-Nigeria
+employees understood that a portion of the payments went to Nigerian officials to ensure that the
+
+false paperwork was processed and the illegal TIPs granted.
+
+12
+47. On or about March 22, 2004, Ruehlen summarized in writing the audit results.
+Ruehlen described the lawful TIP process in Nigeria, as well as Noble-Nigeriaâs practice of
+using false paperwork and paying about $75,000 every two years to the customs agent for false
+paperwork TIPs. Ruehlen described the penalty Noble-Nigeria paid to NCS in 2003 for
+improper TIP paperwork. He stated that Noble-Nigeria was using false pretenses to obtain TIPs
+and was at risk of additional fines for the improper use of the temporary import permit system.
+
+A8. However, the final 2004 West Africa Division Audit Report, which was
+completed by Ruehlen and others on or about April 12, 2004, falsely implied that the use of false
+paperwork was not a recurring practice by Noble, but rather was a one-time occurrence. The
+report omitted mention of any payments to government officials, omitted to state that Noble-
+Nigeriaâs unreceipted TIP-related payments comprised about 82% of the Divisionâs total
+government payments in dollars in 2003, but only 4% of the total number of payments, and
+omitted the fact that Noble-Nigeria had been penalized by the Nigerian government for the use
+of false paperwork in connection with TIPs. Jackson and Ruehlen knew these facts, and they
+knew that the 2004 West Africa Division Audit Report omitted them.
+
+49. By no later than April 2004, Jackson and Ruehlen knew that obtaining TIPs
+through false paperwork and unreceipted payments to foreign officials was wrong, unlawful, and
+a violation of Nobleâs policy to comply with all laws and regulations.
+
+50. The Audit Committee of Nobleâs Board of Directors and Nobleâs independent
+auditors received a copy of the final 2004 West Africa Division Audit Report. The report
+highlighted the finding about a false paperwork TIP as a significant area for control and process
+
+improvements.
+
+13
+51. On April 20, 2004, the Audit Committee of Nobleâs Board of Directors met and
+considered the 2004 West Africa Division Audit Report. The Audit Committee made clear that
+it was concerned about the use of false paperwork and expected no recurrence. Jackson was
+present at the meeting.
+
+52. Jackson and Ruehlen understood that the Audit Committee and the independent
+auditors incorrectly believed that Noble-Nigeria had used false paperwork to obtain TIPs only
+once, and that the Committee and auditors had not been told that Noble-Nigeria paid bribes,
+through its customs agent, to obtain illicit false paperwork TIPs.
+
+53. Jackson and Ruehlen knew that using false paperwork to obtain TIPs would
+contravene the expectations and the instructions of the Audit Committee. At an Audit
+Committee meeting on or about July 22, 2004, the head of internal audit informed the committee
+that the TIP issue was resolved because the West Africa Division would no longer use false
+paperwork, but would physically export and re-import the rigs as necessary and required by
+Nigerian law. Jackson attended the meeting, was aware of the resolution, and knew that false
+paperwork would no longer be used to obtain TIPs.
+
+D. Noble-Nigeria Paid NCS Officials to Grant Discretionary Third Extensions
+and Sought Alternatives to Exporting and Re-Importing Rigs
+
+54. In or about late July 2004, Noble-Nigeria began to explore the possibility of
+obtaining third extensions for two rigs. NCS could grant third extensions at its discretion.
+Ruehlen began working in Nigeria during the summer of 2004 and participated in seeking the
+third extensions.
+
+55. On or about July 29, 2004, Ruehlen received the customs agentâs proposals for
+obtaining third extensions for two rigs. The proposals stated that third extensions would require
+
+5,000,000 Naira each in âspecial handlingâ charges and 350,000 Naira in customs agent fees.
+
+14
+56. Ruehlen knew that a second extension required a âspecial handlingâ charge of
+only 1,600,000 Naira and thought that the 5,000,000 Naira âspecial handlingâ charge for a third
+extension was excessive. Despite his concern, Ruehlen instructed the agent to get the third
+extensions for the two rigs.
+
+57. On or about August 9, 2004, Noble-Nigeria and Ruehlen received the customs
+agentâs invoices for the third extensions. The high cost of the extensions caused Ruehlen to
+check with another customs agent and to investigate converting the rigs to permanent import
+status. On or about August 17, 2004, Ruehlen reported to the Vice President of Eastern
+Hemisphere Operations that another customs agent confirmed that additional extensions would
+require âexorbitant amountsâ and that exporting and re-importing rigs for new TIPs would entail
+at least 30 days off production and other difficulties. Ruehlen stated that he was investigating
+converting the rigs to permanent import status and that the import duties associated with
+conversion could be less than the âexorbitantâ and escalating costs of additional extensions.
+
+58. In or about August 2004, Noble-Nigeriaâs Operations Manager told Ruehlen that
+he did not have a good feeling about the customs agent, who was requiring payment of 5,000,000
+Naira in âspecial handlingâ for the third extensions, and recommended no further involvement
+with the agent. The Operations Manager told Ruehlen that âthe way the[y] work is not sound
+and above the table.â
+
+59. Despite concerns over the exorbitant payments to government officials and the
+integrity of the customs agent, Noble-Nigeria sought Jacksonâs approval to pay the invoice for
+the two third extensions. The request for approval dated August 30, 2004 made clear that the
+5,000,000 Naira was an unreceipted payment to government officials and was a high but
+
+necessary cost to obtain the extensions.
+
+15
+60. Jackson approved payment of the âspecial handlingâ charges on or about August
+31, 2004.
+
+61. In or about September 2004, Noble-Nigeria paid the 5,000,000 Naira per rig
+âspecial handlingâ charges and booked them as legitimate operating costs, which they were not.
+62. On or about September 8, 2004, Ruehlen received copies of the two third
+extensions. The extensions specifically stated that NCS would grant no more extensions and that
+
+the rigs must be exported on or before February 22 or 28, 2005, or be subject to forfeiture.
+
+63. As of September 8, 2004, Ruehlen knew that NCS required the two rigs to be
+exported at the conclusion of the extensions or be converted to permanent import status.
+
+64. From August 2004 to about early February 2005, Ruehlen continued to
+investigate alternative ways to get import permits for rigs. On September 17, 2004, Ruehlen
+received a written legal opinion on the implications of converting the rigs to permanent import
+status. The legal opinion stated that items imported on a temporary basis must be exported at the
+end of the import period or be subject to fines and forfeiture. It also stated that the Nigerian
+Government was concerned about abuses of the temporary import process, noted the earlier
+Panel of Inquiry, and advised Noble-Nigeria to comply with all temporary import requirements
+before considering conversion to permanent import status.
+
+65. In December 2004, Ruehlen had Noble-Nigeria ask its customs agent about
+getting fourth extensions for two rigs, as well as getting a third extension for another rig.
+
+66. Ruehlen received the customs agentâs response in January 2005. The customs
+agent told Ruehlen that the third extension would again cost 5,000,000 Naira in âspecial
+
+handlingâ charges and 350,000 Naira in customs agent fees. The customs agent told Ruehlen
+
+16
+that authorities at NCS stated that no fourth extensions would be granted. The customs agent
+recommended exporting and re-importing the rigs to obtain new TIPs.
+
+67. In February 2005, Ruehlen learned that NCS would not grant a discretionary third
+extension because that rig was operating under a different drilling contract than the contract used
+to get its original TIP, in violation of the TIPâs terms.
+
+IV. Defendants Jackson and Ruehlen Resumed the Use of False Paperwork and
+Authorized and Paid Bribes to Obtain New TIPs with False Paperwork
+
+68. To retain business under drilling contracts and avoid the loss of profits and other
+costs associated with moving rigs in and out of Nigeria, Ruehlen decided in February 2005 to
+resume the use of false paperwork to obtain new TIPs for three rigs and to pay Nigerian
+government officials through the customs agent to process the false paperwork and grant the
+TIPs. Ruehlen did so knowing that obtaining TIPs through false paperwork and making related
+payments to government officials was prohibited, unlawful, and against Noble policy. Ruehlen
+did not seek approval from legal counsel or the Audit Committee before resuming the use of
+false paperwork or before making the related illicit payments. He did not inform legal counsel or
+the Audit Committee about the resumption and payments before May 2007.
+
+69. On or about February 7, 2005, Ruehlen requested a price proposal to obtain the
+three new false paperwork TIPs. The customs agent told Ruehlen that âprocurementâ of each
+TIP would cost 5,000,000 Naira and that there would be âspecial handlingâ charges of 1,900,000
+Naira for each rig associated with showing the outward and inward âmovementâ of each rig.
+
+The agentâs price proposal also showed that it would make payments to the Nigerian Port
+Authority (ââNPAââ) and National Maritime Authority (âNMAâ) and pay husbandry charges at
+Cameroon offshore. Because the rigs would not move or leave Nigerian waters, Ruehlen and
+
+others understood that the NPA, NMA and Cameroon offshore charges and receipts would be
+
+17
+secured through payment of the âspecial handling charges,â or bribes. Ruehlen also understood
+that the 5,000,000 Naira âprocurementâ charge to procure the TIP for each rig was the equivalent
+of âspecial handlingâ payments to government officials.
+
+70. Between February 21 and 28, 2005, Ruehlen authorized the customs agent to use
+false paperwork and make all the payments to government officials outlined in the price proposal
+to obtain the TIPs. Between February 21 and 28, 2005, Ruehlen prepared and signed the TIP
+applications for the three rigs and arranged to have the customs agent pick up the application
+materials for submission to NCS. These TIP applications falsely represented that the rigs were
+outside of Nigeria awaiting import when they were not.
+
+71. On or about February 25, 2005, Ruehlen e-mailed the Vice President of Eastern
+Hemisphere Operations that he had decided to resume the use of false paperwork and related
+payments to government officials to obtain TIPs. Ruehlen said that NCS had denied Noble any
+further extensions for the three rigs and asked Noble-Nigeria to export and re-import the rigs to
+obtain new TIPs. Ruehlen said that the customs agent told NCS that the rigs could not be moved
+because they were still under contract, but that NCS nevertheless denied the requested fourth
+extensions for two of the rigs. In addition, Ruehlen said that the other rig could not get a third
+extension because it was operating under a different contract from the one used to obtain its
+original TIP. Ruehlen said that â[t]he sum of all this is that we reexport [sic] the three rigs from
+Nigeria to Cameroon. The rigs would than [sic] be rei1mported [sic] into Nigeria on new
+Temporary Import Bonds. The rigs would be shown on paper as leaving Nigeria and than [sic]
+reimported [sic] 20 to 30 days later.â Ruehlen gave the Vice President the customs agentâs price
+
+proposal and highlighted that paying âspecial handlingâ charges would be necessary. Ruehlen
+
+18
+also said that he had received confirmation from other contractors in Nigeria that fourth TIP
+extensions are not allowed.
+
+72. Ruehlen received no written response from the Vice President of Eastern
+Hemisphere Operations.
+
+73. The customs agent began the false paperwork for the three rigs in late February
+2005. The customs agent asked NCS to cancel each rigâs bond. NCS granted those requests by
+notice dated March 1, 2005. The âCancellation of Bondâ notice stated that the cancellation was
+based on âevidenceâ that the rigs had been exported through the Calabar Port. Because the rigs
+did not move and were not exported, the documents presented to NCS were false and were
+processed illicitly through the payment of bribes. Ruehlen and Noble-Nigeria authorized the
+payment of the bribes when they authorized the payment of âspecial handlingâ charges. Ruehlen
+knew that such charges would be undocumented payments to government officials in connection
+with false paperwork. Ruehlen also knew that NCS would not have granted the bond
+cancellations or processed the false evidence of rig export without payment of these bribes.
+
+74. By late March 2005, Ruehlen and Noble-Nigeria had for each of the three rigs: (1)
+authorized the customs agent to secure a TIP with false paperwork and payments to government
+officials; (2) prepared and submitted the TIP application that falsely represented that the rig was
+outside of Nigeria awaiting import when it was not; (3) completed the export portion of the false
+paperwork; and (4) obtained the bond cancellation.
+
+75. On or about March 30, 2005, Ruehlen informed the head of internal audit that he
+had resumed the use of false paperwork and payments to government officials to obtain TIPs.
+Following this conversation, Ruehlen prepared a memorandum justifying his use of false
+
+paperwork. Ruehlen sent it to the head of internal audit on or about March 31, 2005. However,
+
+19
+Ruehlen backdated the memorandum to February 10, 2005 (âBackdated Memoâ). Ruehlenâs
+backdating made it appear that he had notified internal audit before resuming the use of false
+paperwork, rather than after he had authorized the customs agent to obtain false paperwork TIPs
+and pay bribes.
+
+76. In his Backdated Memo, Ruehlen stated that: (1) NCS had denied Noble-
+Nigeriaâs request for a fourth extension, and fourth extensions were not allowed; (2) NCS
+required Noble-Nigeria to export and re-import rigs, even if they were still on contract; (3)
+Noble-Nigeria required a new TIP for rigs that might otherwise be eligible for an extension, if
+they were under a new contract; (4) exporting and re-importing the rigs would be costly and
+impractical because the rigs would be off-contract for up to 30 days; and (5) Ruehlen had
+decided the best way to maintain drilling under contracts was to use false paperwork to obtain
+the new TIPs.
+
+77. In his Backdated Memo, Ruehlen also informed the head of internal audit that
+converting the rigs to permanent import status was ânot practicalâ or economical in part because
+âall cost implications are not transparent.â
+
+78. In his Backdated Memo, Ruehlen stated that Nigerian law âdoes not allow for a
+rig to be on temporary importation in Nigeria for more than two and one-half years at a time and
+only temporarily imported for one contract period.ââ Ruehlen stated that the two and one-half
+year time period directly conflicted with the typical two-to-five year period of a drilling contract.
+Ruehlen stated, â[t]his situation has been exploited by the customs authority and used to pressure
+contractors into paying a high price to maintain the rigs in country for contract duration in excess
+
+of two and one half years.â Ruehlen said that moving a rig out of Nigeria every two and one half
+
+20
+years was ânot feasibleâ because the process would take âfour to six weeks at bestâ and the
+parties to the drilling contract would not accept a rig being off contract for that long.
+
+79. In the Backdated Memo, Ruehlen stated that the customs agent required âspecial
+handlingâ charges to obtain false paperwork TIPs, and he attached the price proposal from the
+customs agent.
+
+80. On or about April 26, 2005, the customs agent sent Ruehlen the invoices for the
+three false paperwork TIPs. Each invoice itemized âspecial handlingâ charges in the amount of
+1,900,000 Naira that the customs agent had paid to government officials at Ruehlenâs and Noble-
+Nigeriaâs request and authorization to obtain the false paperwork TIPs. The false documents
+showed the rigâs movement out of and back into Nigerian waters, even though the rig never
+moved. Attached to the invoice were receipts dated between March 2 and 10, 2005 from the
+Nigerian Port Authority and the National Maritime Authority evidencing âexportâ of the rigs
+through the port of Calabar. Because the rigs never moved, these receipts and other false
+evidence of âexportâ were obtained through Nobleâs and Noble-Nigeriaâs illicit payments to
+government officialsâthe âspecial handlingâ charges authorized by Ruehlen.
+
+81. On May 9, 2005, NCS granted Noble-Nigeria new TIPs for the three rigs
+procured through false paperwork and payment of âspecial handlingâ charges. NCS expressly
+conditioned the TIPs on eleven action items, which included providing NCS with the date of
+importation, completing certain government forms and other documents evidencing importation
+of the rig and its value, promising not to allow the rig to be sold or kept in Nigeria for hire or
+reward, obtaining a bank bond for the full value of the duties owed, and exporting the rig within
+
+twelve months of importation.
+
+21
+82. Having received the TIPs and the invoices for the âexportâ portion of the false
+paperwork TIPs, Ruehlen sought Jacksonâs approval on or about May 16, 2005 to pay the
+âspecial handlingâ charges of 1,900,000 Naira for each rig. According to Nobleâs policies and
+procedures, Jackson was responsible for reviewing and approving all payments to government
+officials. Ruehlen had violated policy by failing to obtain Jacksonâs approval for âspecial
+handlingâ charges before authorizing the customs agent in February 2005 to make the payments.
+
+83. Jackson responded to Ruehlenâs request on or about May 17, 2005, stating that he
+was âOK with approving,â but wanted the head of internal audit to clarify the 2004 West Africa
+Division Auditâs finding concerning a false paperwork TIP and subsequent resolution.
+
+84. The head of internal audit e-mailed Ruehlen and Jackson on or about May 17,
+2005, summarizing the 2004 West Africa Division Audit finding, as well as the resolution
+presented to the Audit committee, stating that Noble-Nigeria would not use false paperwork and
+would physically export the rigs to obtain new TIPs. The head of internal audit asked Ruehlen to
+explain why he had decided to resume the use of false paperwork and payments to government
+officials in contravention of the resolution.
+
+85. The same day, Ruehlen sent his explanation to both the head of internal audit and
+Jackson. Ruehlen stated that physically exporting and re-importing the rigs was not feasible
+because the rigs would be off contract for at least four to six weeks, plus tow time. Ruehlen
+explained that such a long time off-contract would be costly and might lead to cancellation of
+contracts. Ruehlen stated: âThe only way to keep the rig working on contract and get the new
+temporary import document in place is to use the method of exporting and importing the rig on
+paper while in fact the rig does not leave Nigerian waters.â Ruehlen added that other drilling
+
+contractors used the same method.
+
+22
+86. In late May 2005, Ruehlen and other Noble-Nigeria employees took steps to pay
+the customs agentâs invoices for the three false paperwork TIPs. Ruehlen signed a check, dated
+May 18, 2005, paying the invoice, including the âspecial handlingâ charges.
+
+87. In violation of Noble policy, Ruehlen had not received Jacksonâs approval before
+he signed the check and processed payment of the âspecial handlingâ charges.
+
+88. On May 25, 2005, Jackson confirmed his approval to the head of internal audit,
+who conveyed the approval to Ruehlen. On or about May 25, 2005, Noble-Nigeria, with
+Ruehlenâs and Jacksonâs knowledge and approval, posted the âspecial handlingâ charges to
+accounts for legitimate operating expenses, causing Nobleâs books and records to be false.
+
+89. Jackson approved the âspecial handlingâ payments, and Ruehlen reimbursed the
+agent for the payments, to ensure that Noble and Noble-Nigeria retained business under drilling
+contracts, even though they knew that using false paperwork to obtain TIPs was wrong, violated
+Nigerian law, and was against Noble policy.
+
+90. Neither Jackson nor Ruehlen informed the Audit Committee or any member of
+the Board of Directors that they had resumed using false paperwork to obtain TIPs or that they
+made related illicit payments to government officials.
+
+91. On or about May 25, 2005, Ruehlen and Jackson agreed on a plan to streamline
+the approval process for Noble-Nigeriaâs numerous, typically small, and almost daily payments
+to government officials. Having centralized all financial responsibility for Noble-Nigeria in his
+office, Ruehlen knew what Noble-Nigeria was paying to government officials. Under the plan,
+Ruehlen would send Jackson a quarterly report detailing the prior quarterâs payments to
+government officials, and also requesting blanket pre-approval of payments in the current quarter
+
+under a projected cumulative total. TIP-related payments were included in the report of prior
+
+23
+quarter payments, but would not receive blanket pre-approval. Jackson and Ruehlen knew that
+âspecial handlingâ charge payments to government officials for TIPs and extensions were large,
+unusual, non-routine payments that required separate and specific approvals.
+
+92. In or about September 2005, Ruehlen received the final invoices for the import
+portion of the three false paperwork TIPs. These invoices each contained a âprocurementâ
+charge in the amount of 5,000,000 Naira. This âprocurementâ charge was not supported by
+documentation, and Ruehlen understood that it was for payments to government officials to
+obtain false paperwork TIPs, equivalent to âspecial handlingâ charges. Each invoice also
+contained line-items for port charges in Cameroon, charges for the âcertificate of clearance,â
+Nigerian Port Authority âinward charges,â National Maritime Authority âinward charges,â and
+Intels royalty charges for the outward and inward âmovementâ of the rigs. The customs agentâs
+agency fee was 500,000 Naira and the VAT on the agency fee was 25,000 Naira. Because the
+rigs never moved, the receipts and other documents showing âimportâ were false and obtained
+through bribes to government officials that Ruehlen authorized in February 2005.
+
+93. On or about September 16, 2005, Ruehlen asked Jackson to approve payment of
+the 5,000,000 Naira per rig âprocurementâ charge. Ruehlen told Jackson that the 5,000,000
+Naira charge per rig was a âspecial handlingâ charge and that the total âspecial handlingâ
+charges were about $112,000 for all three rigs together.
+
+94. Jackson approved payment of the âspecial handlingâ or âprocurementâ charges on
+September 16, 2005. Jackson understood that the charges were for payments to government
+officials to obtain TIPs through false paperwork and to retain drilling contracts.
+
+95. In late September 2005, Ruehlen signed a check dated September 21, 2005
+
+paying the invoices, including the âprocurementâ payments to government officials to obtain
+
+24
+false paperwork TIPs. Noble-Nigeria, with Ruehlenâs and Jacksonâs knowledge and approval,
+improperly booked the payments as legitimate operating expenses, which caused Nobleâs books
+and records to be false.
+
+V. Defendants Jackson and Ruehlen Continued to Authorize and Pay Bribes to
+Obtain False Paperwork TIPs and TIP Extensions
+
+96. On or about May 16, 2005, the customs agent notified Ruehlen that a rigâs second
+TIP extension was about to expire. The agent sent a price proposal for obtaining a discretionary
+third TIP extension. The proposal showed two charges: 5,000,000 Naira in âspecial handlingâ
+charges, and 350,000 Naira in agency fees. Without CFO pre-approval and in contravention of
+Nobleâs policy, Ruehlen told the customs agent to seek the third extension and pay government
+officials to ensure the favorable processing and grant of the discretionary third extension.
+Ruehlen prepared and signed the extension application on or about May 18, 2005.
+
+97. On June 13, 2005, NCS granted the third TIP extension, which on its face stated
+that it was the last and final extension. NCS directed Noble-Nigeria to export the rig or pay
+permanent duties on or before December 10, 2005, or risk forfeiture of the rig.
+
+98. Ruehlen received the customs agentâs invoice on or about June 22 or 23, 2005 and
+asked Jackson to approve the 5,000,000 Naira âspecial handlingâ charges. Jackson approved the
+payment on June 23, 2005.
+
+99. Ruehlen processed the invoice and signed a check dated June 30, 2005, paying it
+in full. Noble-Nigeria, with Ruehlenâs and Jacksonâs knowledge and approval, improperly
+posted the âspecial handlingâ amount to accounts for legitimate operating expenses, which
+caused Nobleâs books and records to be false.
+
+100. On or about June 27, 2005, Ruehlen sent Jackson his quarterly request for blanket
+
+pre-approval of up to $45,000 for small, routine payments to government officials in the current
+
+25
+quarter. Ruehlenâs request included detailed payments for the prior two quarters, including TIP-
+related payments. The report showed that the TIP-related payments for the three false paperwork
+TIPs that Jackson had approved in May 2005 almost equaled the total amount of all other
+payments to government officials requested for the current quarter. On or about July 8, 2005,
+Jackson approved the blanket pre-approval request for non-TIP related payments.
+
+101. Jackson became COO in March 2005, but continued to act as the CFO until a
+replacement was found in October 2005. As COO, Jackson was responsible for Nobleâs world-
+wide operations. After the Vice President of Eastern Hemisphere Operations left in early May
+2005, Jackson also had direct supervisory responsibility for Noble-Nigeria and had regular
+contact with Ruehlen. Even after the new CFO was hired in October 2005, Jackson continued to
+know the status of rigs in Nigeria, and he knew from May 2005 through May 2007 that Noble-
+Nigeria sought discretionary TIP extensions and new false paperwork TIPs through illicit
+payments to foreign officials.
+
+102. Inor about October and November 2005, Ruehlen requested and the new CFO
+approved a quarterly blanket pre-approval of non-TIP related payments to government officials
+up to a cumulative ceiling of $45,000 for the fourth quarter. Ruehlenâs request reported that TIP-
+related payments for the three false paperwork TIPs, which Jackson had approved in September,
+alone totaled about $112,000, and all other prior quarter payments totaled less than $45,000.
+Ruehlen told the CFO that Jackson had approved the $45,000 level for the prior quarter. On
+November 17, 2005, the CFO approved Ruehlenâs request, stating that his approval was based on
+prior spending levels.
+
+103. On or about November 24, 2005, the customs agent told Ruehlen that a rigâs third
+
+and last extension would expire on December 10, 2005 and asked for instructions. Ruehlen told
+
+26
+the agent to submit a price proposal for obtaining a new TIP using false paperwork. The agentâs
+proposal included âspecial handlingâ charges of 2,200,000 Naira for the false export, and
+included âprocurementâ charges of 5,000,000 Naira for the false re-import and new TIP. On or
+about December 12, 2005, Ruehlen asked the new CFO to approve the âspecial handlingâ and
+âprocurementâ charges totaling approximately $55,384. Ruehlen told the CFO that â[t]hese
+payments are the same as we have paid in the past for this process.â
+
+104. The new CFO approved the payments on or about December 12 or 13, 2005. He
+based his approval in part on the fact that Jackson had previously reviewed and approved similar
+payments as CFO. Neither Jackson nor Ruehlen told the new CFO that the payments were for
+processing false paperwork or that they violated Noble policy and Nigerian law, and were
+contrary to representations made to the Audit Committee in 2004.
+
+105. In or about December 2005, Ruehlen authorized the customs agent to obtain the
+false paperwork TIP and pay the proposed âspecial handlingâ or âprocurementâ charges.
+Ruehlen prepared and signed the written application for the TIP, dated December 28, 2005,
+which falsely represented that the rig was outside Nigeria awaiting import when, in truth, the rig
+was in Nigeria.
+
+106. In or about January 2006, Ruehlen and Noble-Nigeria received the âCancellation
+of Bondâ for the rig from NCS, dated January 16, 2006. The NCS cancelled the bond based on
+documentary âevidence of re-exportation of the vesselâ as of about December 14, 2005. On
+January 24, 2006, the NCS approved Ruehlenâs false TIP application dated December 28, 2005
+and granted a new TIP. As with all TIPs Noble-Nigeria had obtained, the new TIP was
+conditioned on several items, including completion of documents evidencing importation of the
+
+rig and the exportation of the rig within twelve months of import, and the submission of a bank
+
+27
+bond covering the full amount of duties. Noble-Nigeria, with the assistance of its customs
+agent, obtained false documents as evidence of importation and secured the bond. Because the
+rig never left Nigerian waters, all evidence of export and re-import was false and obtained
+through payment of bribes to government officials authorized and approved by Ruehlen, Noble
+and Noble-Nigeria.
+
+107. âIn or about January 2006, Ruehlen took steps to obtain a false paperwork TIP for
+another rig. Ruehlen obtained price proposals for the âimportâ and âexportâ portions of the false
+paperwork from the customs agent. These proposals included âprocurementâ and âspecial
+handlingâ charges to be paid to government officials totaling 7,200,000 Naira, or about $55,384.
+On or about January 18, 2006, Ruehlen asked the CFO to approve the 7,200,000 Naira in
+payments to government officials. Ruehlen told the CFO that â[t]hese payments are the same as
+we have paid in the past for this process.â The CFO approved the payments on or about January
+18, 2006. The CFO based his approval in part on the fact that Jackson had previously reviewed
+and approved similar payments while he was CFO. Neither Jackson nor Ruehlen told the CFO
+what the payments were for or that they violated Noble policy, Nigerian law, and were contrary
+to representations made to the Audit Committee in 2004.
+
+108. In or about late January or early February, Ruehlen authorized the customs agent
+to obtain the false paperwork TIP, including making payments to Nigerian officials to secure the
+illicit TIP. He also prepared and signed the TIP application representing that the rig was outside
+Nigeria awaiting import, when he knew the rig was in Nigeria.
+
+109. On February 10, 2006, NCS issued a âCancellation of Bondâ based on false
+evidence of the rigâs export. On March 7, 2006, NCS granted the new TIP based on the false
+
+paperwork. As with all TIPs Noble-Nigeria had obtained, the new TIP was conditioned on
+
+28
+several items, including completion of documents evidencing importation of the rig and the
+exportation of the rig within twelve months of import, and the submission of a bank bond
+covering the full amount of duties. Noble-Nigeria, with the assistance of its customs agent, then
+obtained in or about May 2006 the false evidence of importation and secured the bond. Because
+the rig never left Nigerian waters, all âevidenceâ of export and re-import was false and obtained
+through payment of bribes to government officials authorized and approved by Ruehlen, Noble,
+and Noble-Nigeria.
+
+110. Onor about May 2, 2006, Ruehlen received the customs agentâs invoices for the
+export portion of the two false paperwork TIPs. The invoices listed charges for âNigeria Ports
+Authorityâ outwards, âNMA charges outwards,â âIntels outwards and inwards royalty charges,â
+and charges for preparing documents showing outward movement of the rigs. â[S]pecial
+handling charges outwards/inwardsâ were listed on the invoice in the amount of 2,200,000 Naira
+for each rig. The customs agentâs fee for âclearing/shipping (outwards) was 500,000 Naira.
+The VAT on the agentâs fee was 25,000 Naira. Because the rigs never left Nigerian waters, all
+charges, receipts, and documents evidencing their âexportâ were false and obtained by paying
+government officials bribes authorized and approved by Ruehlen, Noble, and Noble-Nigeria.
+
+111. Shortly after receiving them, Ruehlen approved payment of the two invoices
+containing the âspecial handlingâ charges. Noble-Nigeria, with Ruehlenâs knowledge and
+approval, improperly booked the payments as legitimate operating expenses, causing Nobleâs
+books and records to be false.
+
+112. Onor about June 7, 2006, Ruehlen and Noble-Nigeria received the customs
+agentâs invoices for the import portion of the two false paperwork TIPs. The invoices contained
+
+charges and receipts for âtowingâ the rigs outward and inward, port charges during export in
+
+29
+Cameroon, and charges for âinwardsâ processing by the Nigerian Ports Authority and National
+Maritime Authority. The invoices also listed charges for âlogistics for physical examination by
+all agencies.â The âprocurement of new Temporary Importation Permitâ charge for each rig was
+5,000,000 Naira and lacked any support or documentation. The agency fees for âinwards
+clearingâ and âshippingâ were 500,000 Naira, and the VAT on the agency fee was 25,000 Naira.
+Because the rigs never left Nigerian waters, all charges, receipts, and documents evidencing the
+âimportâ of the rigs were false and were obtained by paying government officials bribes
+authorized and approved by Ruehlen, Noble, and Noble-Nigeria.
+
+113. Onor about June 20, 2006, Ruehlen took steps to pay the two invoices, including
+the two âprocurementâ payments of 5,000,000 Naira. Ruehlen and Noble and Noble-Nigeria
+employees understood that the âprocurementâ charges were âspecial handlingâ payments to
+government officials to obtain favorable action on false paperwork. Nevertheless, on June 27,
+2006, Noble-Nigeria, with Ruehlenâs knowledge and approval, improperly posted the payments
+to accounts for legitimate operating expenses, causing Nobleâs books and records to be false.
+
+114. Inor about March 2006, the new Noble CFO resigned, and Jackson again became
+acting CFO with direct responsibility for reviewing and approving payments to foreign officials.
+
+115.  Onor about May 16, 2006, Jackson approved 3,000,000 Naira, or about $23,256,
+in payments to government officials to obtain a second TIP extension on a rig. Jackson knew
+when he approved the payments that they would go to government officials, would lack any
+documentation or receipts, and would ensure favorable NCS action on Noble-Nigeriaâs
+application for the second TIP extension. Ruehlen and other Noble-Nigeria employees paid the
+customs agentâs invoice, including the 3,000,000 Naira in âspecial handlingâ charges. Ruehlen
+
+and Jackson knew that the 3,000,000 Naira was paid to government officials to ensure the
+
+30
+favorable action on the second extension. Nevertheless, Noble-Nigeria, with Ruehlenâs and
+Jacksonâs knowledge and approval, improperly posted the payments to accounts for legitimate
+operating expenses, which caused Nobleâs books and records to be false.
+
+116. In mid or late July 2006, Jackson received Ruehlenâs quarterly request for blanket
+pre-approval of non-TIP related payments to government officials. This request was for a
+cumulative quarterly ceiling of $50,000. Ruehlenâs request included information about all
+second quarter payments to government officials, including TIP-related payments. It included
+the May and June payments for two false paperwork TIPs, as well as a number of other TIP-
+related payments from other quarters that had been amortized. The total of TIP-related payments
+to government officials booked in the second quarter was approximately 12,046,673 Naira or
+about $93,876. Jackson did not immediately respond to Ruehlenâs request, despite his
+responsibility as CFO to review and to approve or deny. In or about September 2006, Jackson
+permitted another Noble executive to approve Ruehlenâs request.
+
+117. Onor about October 19, 2006, Ruehlen received a price proposal from the
+customs agent including âspecial handlingâ charges of 1,750,000 Naira to obtain a discretionary
+third TIP extension. The other charges on the proposal were the agentâs fee of 250,000 Naira
+and the VAT on the agency fee of 12,500 Naira. Ruehlen understood that the âspecial handlingâ
+charges were payments to government officials that would lack support or documentation.
+Instead of sending the price proposal to Jackson for pre-approval, Ruehlen sent it to the Noble
+executive who had approved Ruehlenâs last quarterly blanket pre-approval request. Ruehlen
+asked the executive to approve the âspecial handlingâ charge, stating that it âis in line with
+payments made in the past for the handling of temporary imports for this unit.ââ Soon thereafter,
+
+Ruehlen learned that the âspecial handlingâ charges for the third extension had been increased to
+
+31
+3,000,000 Naira. Ruehlen asked the executive to approve the revised âspecial handlingâ charges,
+which Ruehlen estimated to equal about $23,438. The executive did not respond to Ruehlen and
+did not approve the payment.
+
+118. Ruehlen, in contravention of Noble policy, told the customs agent to secure the
+discretionary third TIP extension and make the related payments to foreign officials. On October
+30, 2006, the NCS granted the discretionary third TIP extension for the rig. The grant papers
+stated that this was the last and final extension and directed Noble-Nigeria to export the rig on or
+before May 2, 2007, or risk forfeiting the rig.
+
+119. On or about November 1, 2006, Ruehlen received an invoice for the
+discretionary third TIP extension listing three charges: (1) 3,000,000 Naira for âtemporary
+import extension approvalâ; (2) 500,000 Naira for agency fee; and (3) 25,000 Naira in VAT on
+the agency fee. Ruehlen still lacked approval from the CFO or any senior executive. In
+contravention of Noble policy, he had Noble-Nigeria process and pay the invoice, including the
+3,000,000 Naira in payments to government officials. Payment of the invoice was posted in
+Noble-Nigeriaâs books on or about November 3, 2006. Ruehlen understood that the 3,000,000
+Naira in payments was to obtain favorable government action on Noble-Nigeriaâs application for
+a third extension. Despite this fact, Ruehlen allowed Noble-Nigeria to improperly post the
+3,000,000 Naira to accounts for legitimate operating expenses, causing Nobleâs books and
+records to be false.
+
+120. Noble hired a new CFO in early November 2006. On or about November 13,
+2006, Ruehlen sent the new CFO two TIP-related requests to approve payments to government
+officials. One request asked the CFO to approve âspecial handlingâ charges to obtain second
+
+extensions for three rigs, which charges equaled 1,600,000 Naira, or $12,500, per rig, or a total
+
+32
+of about $37,500 for all three rigs. Ruehlenâs request stated that the payments were the same as
+what had been paid in the past.
+
+121. Ruehlenâs second TIP-related request asked the CFO to approve payment of
+âspecial handlingâ charges for the discretionary third extension that Ruehlen had initiated in
+October without pre-authorization. However, Ruehlen stated that the âspecial handlingâ charges
+were only 1,750,000 Naira, not the 3,000,000 Naira that Ruehlen had previously authorized the
+customs agent to pay to government officials. Ruehlen did not tell the CFO that he had
+unilaterally authorized and paid the âspecial handlingâ charges.
+
+122. After receiving these requests from Ruehlen, the new CFO raised concerns about
+his qualifications to approve these payments. In or about November 2006, the CFO
+communicated his concerns to Jackson, who was then Nobleâs CEO, President and COO, a
+member of the Board of Directors, and Nobleâs former CFO. The new CFO continued to raise
+concerns about the approval process for several months.
+
+123. In or about November 2006, Jackson told the new CFO to rely on the advice of
+Nobleâs then-Controller, who had been the head of internal audit until September 2005. Jackson
+told the CFO to approve the TIP-related payments to government officials if the Controller also
+approved. Jackson knew, but did not tell the new CFO, that the then-Controller and former head
+of internal audit knew that Noble-Nigeria used false paperwork and large, unreceipted payments
+to government officials to obtain TIPs and extensions, and that he had approved such payments
+in the past. Jackson took no further action on the new CFOâs concerns.
+
+124. Asaresult of Jacksonâs instruction, the new CFO relied on the Controllerâs initial
+
+approval to give his own approval of Ruehlenâs requests to authorize and make âspecial
+
+33
+handlingâ charge payments. The Controller approved Ruehlenâs two November 2006 TIP-
+related requests, as did the CFO.
+
+125. In or about late January or early February 2007,â Ruehlen requested and received
+approval to pay âspecial handlingâ charges of 1,600,000 Naira, or about $12,500, for each of two
+first TIP extensions on different rigs.
+
+126. In or about February 2007, Ruehlen decided to seek a fourth extension for a rig.
+Ruehlen knew that NCS did not grant fourth extensions, that Noble-Nigeria and others had
+previously been denied fourth extensions, and that the terms of the rigâs third extension required
+Noble-Nigeria to export the rig on or before May 2, 2007. Ruehlen hired a new customs agent to
+handle the fourth extension application and gave the new agent relevant documents. The new
+customs agent told Ruehlen that the fourth extension would require payment of 7,000,000 Naira
+in âprocurementâ charges and an agency fee of 500,000 Naira. Ruehlen understood that the
+âprocurementâ charges were undocumented payments to foreign officials to induce them to grant
+the illicit extension.
+
+127. Onor about April 11, 2007, Ruehlen asked Nobleâs CFO to approve the
+âprocurementâ charges of 7,000,000 Naira, or about $54,687, for payments to government
+officials to obtain the fourth extension. Ruehlen stated that Noble-Nigeria had never received a
+fourth extension so he had no historical cost comparison, but that the 7,000,000 Naira was
+similar to the cost âto renew a Temporary Import for one of the rigs.â The CFO approved
+
+payment on April 11, 2007.
+
+ 
+
+' By the end of January 2007, the Controller had returned to his duties as the head of internal
+audit, but continued to give prior approvals of âspecial handlingâ charges for the new CFO. He
+was the head of internal audit from January 2007 to about January 2008.
+
+34
+128. Ruehlen was deceptive in his request for approval in that he compared the
+âspecial handlingâ cost of the fourth extension to the high cost of obtaining false paperwork
+TIPs, not to the much lower cost of obtaining extensions. Ruehlen also omitted to tell the CFO
+that NCS did not grant fourth extensions as a matter of policy, that Noble and other contractors
+had been denied fourth extensions, and that the terms of the third extension for this rig
+specifically required Noble-Nigeria to export the rig on or before May 2, 2007.
+
+129. Following the CFOâs approval, Ruehlen authorized the customs agent to get the
+fourth extension and make the âprocurementâ payments to government officials. NCS granted
+the fourth extension on April 30, 2007.
+
+130. On or about May 22, 2007, the customs agent gave Noble-Nigeria its invoice for
+the fourth extension, seeking reimbursement of 7,000,000 Naira in payments to government
+officials, which were listed as unspecified fourth extension fees, and payment of 500,000 Naira
+in agency fees, and 25,000 Naira in VAT on the agency fees. Because Nobleâs Audit
+Committee, in or about May 2007, had begun an internal investigation into payments to
+government officials for TIPs and TIP extensions, the invoice ultimately was not paid.
+
+131. Beginning in March 2007, Ruehlen took steps to obtain false paperwork TIPs
+for three rigs with second extensions due to expire in May. Ruehlen prepared and signed TIP
+applications for the three rigs, falsely representing that the three rigs were not in Nigeria, and he
+requested price proposals from the customs agent.
+
+132. Between about April 11 and April 16, 2007, the customs agent sent Ruehlen its
+price proposals, stating that there would be âspecial handlingâ charges of 2,200,000 Naira per rig
+for the outwards and inwards movements, and âprocurementâ charges of 5,000,000 Naira per rig.
+
+Ruehlen understood that the âspecial handlingâ and âprocurementâ charges would be
+
+35
+undocumented and unreceipted payments to Nigerian officials to induce them to grant the
+improper false paperwork TIPs.
+
+133. Onor about April 16, 2007, Ruehlen requested approval to pay 7,200,000 Naira
+per rig, or about $117,189 total for all three rigs, in âspecial handlingâ charges for the three false
+paperwork TIPs. Ruehlen knew that these charges were for undocumented payments to
+Nigerian officials to induce them to grant the improper TIPs.
+
+134. Also in April 2007, Ruehlen authorized the customs agent to obtain the three false
+paperwork TIPs, and to pay government officials to process false paperwork and grant the illicit
+TIPs. Ruehlen helped prepare the false paperwork.
+
+135. On April 25, 2007, NCS issued âCancellation of Temporary Importation Bondâ
+notices based on âevidenceâ of the three rigs being exported through Calabar port. Because the
+three rigs never actually left Nigerian waters, the evidence of âexportâ was false, and had been
+obtained through bribes, authorized and approved by Ruehlen, Noble, and Noble-Nigeria.
+
+136. On May 4, 2007, the customs agent sent Ruehlen invoices for the export portion
+of the false paperwork TIPs for the three rigs. The invoices contained charges for âNMA
+charges outward,â âIntels royalty charges outwards,â and other charges for preparing false
+documents showing export of the rigs. The âspecial handling outwards/inwardsâ charges totaled
+2,200,000 Naira for each rig. The customs agentâs fee for âoutwards (clearing/shipping)â was
+500,000 Naira per rig, and the VAT on the agentâs fee was 25,000 Naira per rig. Because the
+three rigs never actually left Nigerian waters, all charges, receipts, and documents relating to
+their âexportâ were false and obtained through bribes, authorized and approved by Ruehlen,
+
+Noble, and Noble-Nigeria.
+
+36
+137. Because Nobleâs Audit Committee, in or about May 2007, had begun an internal
+investigation into payments to Nigerian officials for TIPs and TIP extensions, the invoices for
+the export portion of the three false paperwork TIPs ultimately went unpaid.
+
+VI. Defendant Ruehlen Falsified FCPA Compliance Certifications and Lied in Internal
+Representation Letters
+
+138. In February 2007, Ruehlen received an e-mail from the head of internal audit
+containing a news report about prosecutions of other oil companies for violating the FCPA by
+paying Nigerian officials for fast customs clearance. The head of internal audit told Ruehlen that
+the Audit Committee would want an FCPA update each quarter, and that he was concerned that
+the 2004 West Africa Division Audit resolution concerning a false paperwork TIP had not been
+recently reviewed. He asked Ruehlen if the customs agent had signed an agreement to comply
+with the FCPA and granted Noble-Nigeria audit rights.
+
+139. Ruehlen looked for the agreement with the customs agent but could not find it.
+He obtained a draft, unexecuted copy from Nobleâs corporate offices. Although the agreement
+required the customs agent to sign annual certifications of compliance with the FCPA, Ruehlen
+never obtained them.
+
+140. In February 2007, Ruehlen sent the customs agent a copy of the annual
+certification form from the draft agreement and asked the customs agent to sign certifications for
+2004 and 2005. On or about February 22, 2007, Ruehlen received the signed customs agentâs
+certifications, which were backdated to July 13, 2005 and July 20, 2006. Ruehlen did not tell
+anyone that the certifications were backdated and passed them off as signed on the date
+indicated.
+
+141. Ruehlen also repeatedly prepared and signed quarterly representation letters to
+
+Nobleâs upper management falsely stating that Noble-Nigeria had: (1) complied with all Internal
+
+37
+Audit action items and resolutions; (2) complied with Nobleâs Code of Business Conduct; (3) not
+violated any laws or regulations; and (4) not violated the Foreign Corrupt Practices Act. Ruehlen
+made these representations in each quarterly letter dated from April 13, 2005 through May 3,
+2007. Contrary to his representations, Ruehlen knew that Noble-Nigeria kept rigs on contract by
+using false paperwork and paying bribes to government officials to obtain illicit TIPs and
+extensions in violation of an Internal Audit resolution, Nobleâs Code of Business Conduct, and
+Nigerian law.
+
+VII. Jackson Concealed the Use of False Paperwork and Bribes From Nobleâs Audit
+Committee and External Auditors and Signed False Certifications
+
+142. Jackson knew that the use of false paperwork and bribes to obtain TIPs and
+extensions violated Noble policy, Nigerian law, and the resolution presented to the Audit
+Committee concerning the TIP finding of the 2004 West Africa Division Audit.
+
+143. Although Jackson had regular contact with the Audit Committee and the Board of
+Directors, he did not inform the Audit Committee or any board member before May 2007 that he
+had authorized the use of false paperwork and authorized payments to government officials to
+obtain illicit TIPs and extensions.
+
+144. From about May 2007 through June 2008, the Audit Committee conducted an
+internal investigation into Noble-Nigeriaâs operations and payments to government officials for
+TIPs and TIP extensions. Jackson refused to give information to investigators and resigned from
+the company while the investigation was ongoing.
+
+145. Jackson signed false annual and quarterly management representation letters to
+Nobleâs independent auditors, including on August 5, 2005, November 9, 2005, March 13, 2006,
+May 9, 2006, August 8, 2006, November 8, 2006, February 27, 2007, and May 9, 2007. In these
+
+letters, Jackson falsely stated that: (1) he was unaware of any FCPA violations by Noble or its
+
+38
+subsidiaries; (2) he was unaware of any other violations of law; (3) he had maintained effective
+internal controls; (4) there were no material weaknesses in internal control over financial
+reporting; and (5) he was unaware of any fraud or suspected fraud affecting Noble, among other
+things. Contrary to his representations, Jackson knew that: (1) he had authorized the use of false
+paperwork and payments to government officials to obtain TIPs; (2) using false paperwork and
+bribes violated Nigerian law, the 2004 West Africa Division Audit resolution about TIPs
+presented to the Audit Committee, and Noble policies; and (3) the bribes were improperly
+recorded as legitimate operating expenses.
+
+146. From 2005 through February 2007, Jackson also signed false personal
+certifications as CFO and as CEO that were attached to Nobleâs public quarterly and annual
+filings, including certifications dated on August 8, 2005, May 9, 2006, August 8, 2006,
+November 8, 2006, February 28, 2007, and May 9, 2007. These personal certifications falsely
+stated that he had disclosed to Nobleâs auditors and Audit Committee all significant deficiencies
+and material weaknesses in the design or operation of internal controls and any fraud, among
+other things. In truth, he had not disclosed the use of false paperwork and bribes to obtain illicit
+TIPs and extensions to keep rigs on contract and retain business, or the improper booking of
+bribes as legitimate business expenses.
+
+VIII. Defendants Jackson and Ruehlen Improperly Recorded Bribes as Legitimate
+Operating Expenses
+
+147. Noble-Nigeria improperly recorded its payments to Nigerian government officials
+to obtain illicit TIPs and extensions in legitimate operating expense accounts. These accounts
+consolidated into Nobleâs Statement of Income as legitimate operating expenses.
+
+148. Jackson and Ruehlen knew of and approved the improper recording of bribes as
+
+legitimate operating expenses.
+
+39
+149. By causing bribes to be improperly recorded as legitimate operating expenses,
+Jackson and Ruehlen knowingly circumvented Nobleâs internal controls, knowingly created false
+books and records, and caused Nobleâs financial statements to be inaccurate.
+
+CLAIMS FOR RELIEF
+FIRST CLAIM
+[Jackson and Ruehlen Violated Section 30A of the Exchange Act]
+
+150. Paragraphs | through 149 are re-alleged and incorporated by reference.
+
+151. By engaging in the conduct described above, Jackson and Ruehlen, who were
+officers, directors, employees, or agents of Noble, a United States issuer, made use of the mails
+or other means or instrumentalities of interstate commerce corruptly in furtherance of an offer,
+payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to
+give, or authorization of the giving of anything of value to one or more persons, while knowing
+that all or a portion of those payments would be offered, given, or promised, directly or
+indirectly, to foreign officials for the purposes of influencing their acts or decisions in their
+official capacity, inducing them to do or omit to do any action in violation of their lawful duties,
+securing an improper advantage, or inducing such foreign officials to use their influence with
+foreign governments or instrumentalities thereof to affect or influence any act or decision of such
+government or instrumentality in order to assist Noble to obtain or retain business under drilling
+contracts or obtain or retain business for or with, or direct business to, another.
+
+152. By reason of the foregoing, Jackson and Ruehlen violated, and unless enjoined
+
+will continue to violate, Section 30A of the Exchange Act [15 U.S.C. Â§78dd-1].
+
+40
+SECOND CLAIM
+
+[ Jackson and Ruehlen Aided and Abetted the Violation of
+Section 30A of the Exchange Act]
+
+153. Paragraphs | through 152 are re-alleged and incorporated by reference.
+
+154. Noble violated Section 30A of the Exchange Act when it authorized illicit
+payments to Nigerian government officials and Noble-Nigeria made the payments, through the
+customs agent, in order to influence or induce them to process and grant false paperwork TIPs
+and favorably exercise or abuse their discretion in granting extensions, in order to assist Noble to
+obtain or retain business under drilling contracts or obtain or retain business for or with, or direct
+business to, another.
+
+155. By engaging in the conduct described above, Jackson and Ruehlen knowingly
+provided substantial assistance to Noble in its violations of Section 30A of the Exchange Act.
+
+156. By reason of the foregoing, Jackson and Ruehlen violated, and unless enjoined
+will continue to violate, Section 20(e) of the Exchange Act [15 U.S.C. Â§78t(e)] by aiding and
+abetting violations of Section 30A of the Exchange Act.
+
+THIRD CLAIM
+
+[ Jackson and Ruehlen Aided and Abetted Nobleâs Violations of
+Exchange Act Sections 13(b)(2)(A) and 13(b)(2)(B)]
+
+157. Paragraphs | through 156 are re-alleged and incorporated by reference.
+158. Section 13(b)(2)(A) of the Exchange Act requires issuers to make and keep
+books, records, and accounts, which, in reasonable detail, accurately and fairly reflect the
+
+transactions and dispositions of their assets.
+
+Al
+159. Noble violated Section 13(b)(2)(A) of the Exchange Act by failing to make and
+keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflected its
+transactions and dispositions of its assets.
+
+160. Section 13(b)(2)(B) of the Exchange Act requires issuers to devise and maintain a
+system of internal accounting controls sufficient to provide reasonable assurances that a)
+transactions are executed in accordance with managementâs general or specific authorization,
+and b) transactions are recorded as necessary to permit preparation of financial statements in
+conformity with generally accepted accounting principles or any other criteria applicable to such
+payments, and to maintain accountability for assets.
+
+161. Noble violated Section 13(b)(2)(B) of the Exchange Act by failing to devise and
+maintain a system of internal accounting controls required by Section 13(b)(2)(B).
+
+162. By engaging in the conduct described above, Jackson and Ruehlen knowingly
+provided substantial assistance to Noble in its violations of Exchange Act Sections 13(b)(2)(A)
+and 13(b)(2)(B).
+
+163. By reason of the foregoing, Jackson and Ruehlen violated, and unless enjoined
+will continue to violate, Section 20(e) of the Exchange Act [15 U.S.C. Â§78t(e)] by aiding and
+abetting violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C.
+Â§Â§78m(b)(2)(A) and (B)].
+
+FOURTH CLAIM
+
+[Jackson and Ruehlen Violated Section 13(b)(5) of the Exchange Act and Exchange Act
+Rule 13b2-1]
+
+164. Paragraphs | through 163 are re-alleged and incorporated by reference.
+
+42
+165. By engaging in the conduct described above, Jackson and Ruehlen knowingly
+circumvented Nobleâs internal accounting controls or knowingly failed to implement a system of
+internal accounting controls.
+
+166. As described above, Jackson and Ruehlen directly or indirectly falsified, or
+caused to be falsified, books, records, or accounts of Noble, an issuer subject to Section 13(b)(2)
+of the Exchange Act [15 U.S.C. Â§78m(b)(2)].
+
+167. By reason of the foregoing, Jackson and Ruehlen violated, and unless enjoined
+will continue to violate, Section 13(b)(5) of the Exchange Act [15 U.S.C. Â§78m(b)(5)] and
+Exchange Act Rule 13b2-1 [17 C.F.R. Â§240.13b2-1].
+
+FIFTH CLAIM
+[Jackson Violated Exchange Act Rule 13b2-2]
+
+168. Paragraphs | through 167 are re-alleged and incorporated herein by reference.
+
+169. By engaging in the conduct described above, Jackson, an officer or director of
+Noble, violated Rule 13b2-2 of the Exchange Act [17 C.F.R. Â§ 240.13b2-2] by directly or
+indirectly making, or causing to be made, materially false or misleading statements, or omitting
+to state, or causing another person to omit to state, material facts necessary in order to make the
+statements made, in light of the circumstances under which such statements were made, not
+misleading, to an accountant in connection with an audit, review, or examination of Nobleâs
+financial statements required to be made by the Exchange Act or in connection with the
+preparation or filing of a document or report required to be filed with the Commission.
+
+170. By reason of the foregoing, Jackson violated, and unless enjoined will continue to
+
+violate, Exchange Act Rule 13b2-2 [17 C.F.R. Â§240.13b2-2].
+
+43
+SIXTH CLAIM
+[Jackson Violated Exchange Act Rule 13a-14]
+
+171. Paragraphs | through 170 are re-alleged and incorporated by reference.
+
+172. As described above, Jackson signed false personal certifications required by the
+Sarbanes-Oxley Act of 2002 that were attached to annual and quarterly Noble public filings.
+
+173. By reason of the foregoing, Jackson violated, and unless enjoined will continue to
+violate, Exchange Act Rule 13a-14 [17 C.F.R. Â§240.13a-14].
+
+SEVENTH CLAIM
+[Jackson Violated Sections 30A, 13(b)(2)(A), and 13(b)(2)(B) as a Control Person]
+
+174. Paragraphs | through 173 are re-alleged and incorporated by reference.
+
+175. As described above, Jackson directly or indirectly controlled Noble, Ruehlen, and
+others, who violated Sections 30A, 13(b)(2)(A), and 13(b)(2)(B).
+
+176. As described above, Jackson also directly or indirectly induced Nobleâs,
+Ruehlenâs, and othersâ actions constituting the violations of Sections 30A, 13(b)(2)(A), and
+13(b)(2)(B), and did not act in good faith.
+
+177. By reason of the foregoing, Jackson, as a control person under Section 20(a) of
+the Exchange Act [15 U.S.C. Â§78t(a)], also is liable for Nobleâs, Ruehlenâs, and othersâ
+violations of Sections 30A, 13(b)(2)(A), and 13(b)(2)(B) [15 U.S.C. Â§78dd-1, 15 U.S.C.
+
+Â§Â§78m(b)(2)(A) and (B)].
+
+PRAYER FOR RELIEF
+WHEREFORE, the Commission respectfully requests entry of a final judgment:
+A. Permanently restraining and enjoining Jackson from violating Exchange Act
+
+Sections 30A and 13(b)(5) and Rules 13a-14, 13b2-1, and 13b2-2 thereunder, [15 U.S.C. Â§78dd-
+
+44
+1, $78m(b)(5), and 17 C.F.R. Â§240.13a-14, 17 C.F.R. Â§240.13b2-1, and 17 C.F.R. Â§240.13b2-2]
+and from aiding and abetting violations of Exchange Act Sections 13(b)(2)(A) and 13(b)(2)(B)
+[15 U.S.C. Â§Â§78m(b)(2)(A) and 78m(b)(2)(B)].
+
+B. Ordering Jackson to pay civil penalties pursuant to Exchange Act Sections
+21(d)(3), including as a control person, and 32(c)(2)(B) [15 U.S.C. Â§878u(d)(3) and
+T8fÂ£(c)(2)(B) I];
+
+C. Permanently restraining and enjoining Ruehlen from violating Exchange Act
+Sections 30A and 13(b)(5) and Rule 13b2-1 thereunder, [15 U.S.C. Â§78dd-1, Â§78m(b)(5), and 17
+C.F.R. Â§240.13b2-1] and from aiding and abetting violations of Exchange Act Sections
+13(b)(2)(A) and 13(b)(2)(B) [15 U.S.C. Â§$78m(b)(2)(A) and 78m(b)(2)(B)];
+
+D. Ordering Ruehlen to pay civil penalties pursuant to Exchange Act Sections
+21(d)(3) and 32(c)(2)(B) [15 U.S.C. Â§$78u(d)(3) and 78ff(c)(2)(B)]; and
+
+E. Granting such other and further relief as the Court may deem just and appropriate.
+Dated: February 24, 2012 Respectfully submitted,
+
+/s/ Toby M. Galloway
+Toby M. Galloway
+Attorney-in-Charge
+
+Texas Bar No. 00790733
+S.D. Bar No. 18947
+
+ 
+
+Securities and Exchange Commission
+Burnett Plaza, Suite 1900
+
+801 Cherry Street, Unit 18
+
+Fort Worth, Texas 76102-6882
+Telephone: (817) 978-6447
+Facsimile: (817) 978-4927
+
+gallowayt @sec.gov
+
+ 
+
+Of Counsel:
+
+Kenneth W. Donnelly
+Gerald W. Hodgkins
+Moira T. Roberts
+Sharan K.S. Custer
+
+45
+Securities and Exchange Commission
+100 F Street, NE
+
+Washington, DC 20549-5949
+Telephone: (202) 551-4946
+
+46

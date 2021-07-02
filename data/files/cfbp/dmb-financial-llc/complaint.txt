@@ -1,0 +1,488 @@
+Case 1:20-cv-12147 Document1 Filed 12/01/20 Page 1 of 14
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF MASSACHUSETTS
+
+Bureau of Consumer Financial Protection,
+
+Plaintiff,
+V.
+
+DMB Financial, LLC,
+
+Case No. 1:20-cv-12147
+
+Defendant.
+
+ 
+
+ 
+
+COMPLAINT
+
+The Bureau of Consumer Financial Protection (Bureau) brings this action against DMB
+
+Financial, LLC (DMB) and alleges as follows.
+INTRODUCTION
+
+1. The Bureau brings this action under the Telemarketing and Consumer Fraud and
+Abuse Prevention Act (Telemarketing Act), 15 U.S.C. Â§Â§ 6102(c), 6105(d); the Telemarketing
+Sales Rule (TSR), 16 C.F.R. pt. 310; and the Consumer Financial Protection Act of 2010
+(CFPA), 12 U.S.C. Â§Â§ 5531, 5536(a), 5564, 5565, in connection with the marketing and sale of
+debt-settlement or debt-relief services.
+
+JURISDICTION AND VENUE
+
+2. This Court has subject-matter jurisdiction over this action because it is brought
+under âFederal consumer financial law,â 12 U.S.C. Â§ 5565(a)(1), presents a federal question, 28
+U.S.C. Â§ 1331, and is brought by an agency of the United States, 28 U.S.C. Â§ 1345.
+
+3. Venue is proper because DMB is located or resides or does business in this district. 12
+
+US.C. Â§ 5564(f).
+. . ae .
+fF AAA Prt Pach er gh Pa yO n
+
+a . a - fm fo na 2 - reral
+Nw RA LAL a RAP ASLOLED EER ER AL
+
+PARTIES
+
+4. The Bureau is an independent agency of the United States created by the CFPA.
+12 U.S.C. Â§ 5491 (a). It has independent litigating authority and may secure appropriate relief for
+violations of the CFPA, 12 U.S.C. Â§ 5564(a)-(b), and the TSR, 15 U.S.C. Â§Â§ 6102(c), 6105(d).
+
+5. DMB, a Massachusetts limited-liability company, maintains its principal place of
+business at 500 Cummings Center, Suite 3800, Beverly, Massachusetts 01915.
+
+6. DMB offers and provides âfinancial advisory services,â including debt-settlement
+services, to consumers owing unsecured debts to creditors. Those activities are âconsumer
+financial services or productsâ under the CFPA. 12 U.S.C. Â§ 5481(5)(A), (15)(A)(vii) UD). DMB
+is therefore a âcovered personâ under the CFPA. 12 U.S.C. Â§ 5481(6).
+
+7. In connection with a campaign to make interstate phone calls to consumers and to
+use advertisements to solicit calls from consumers to induce them to purchase its services,
+wherein DMB offers to renegotiate, settle, or in any way alter the terms of payment or other
+terms of the debt between a person and one or more unsecured creditors or debt collectors, DMB
+initiates and receives telephone calls from consumers. Thus, DMB 1s a âtelemarketerâ offering a
+âdebt relief serviceâ under the TSR. 16 C.F.R. Â§ 310.2(0), (ff).
+
+FACTUAL BACKGROUND
+
+8. DMB is a debt-settlement company. Established in 2003, DMB claims that it has
+successfully negotiated and settled consumer debts in excess of $1 billion for over 30,000
+consumers who have enrolled in its debt-settlement programs.
+
+9. DMBâs debt-settlement programs are advertised to consumers through DMBâs
+
+website and direct-mail campaigns, which advertise a toll-free telephone number that consumers
+could call to enroll in DMBâs programs, and by outside marketing companies through the use of
+live-transfer companies or lead generators that direct consumers to DMB.
+
+10. DMBâs employees have received phone calls from prospective customers and
+have initiated phone calls to prospective customers in at least 24 states to persuade them to enroll
+in its debt-settlement programs.
+
+11. DMB has instructed consumers who had been making payments to their creditors
+to withhold any further payments. Because DMB requires consumers to stop paying creditors, its
+programs are likely to result in increased interest and fees after enrollment.
+
+12. DMB has required consumers enrolled in its debt-settlement program to deposit
+funds into dedicated accounts with an FDIC-insured account provider. DMB has claimed that
+once there were sufficient funds in those accounts to make settlement offers to consumersâ
+creditors, DMB would negotiate with the creditors to persuade them to accept less than the
+individual debt amounts owed.
+
+13. When an individual debt enrolled in its debt-settlement program was settled or a
+creditor ceased attempts to collect the debt (in the absence of a settlement), DMB would charge
+consumers fees.
+
+The Financial Liberty Program and the Financial Independence Program
+
+14. Since at least 2012, DMB has offered two debt-settlement programs: the Financial
+Liberty Program (Liberty Program) and the Financial Independence Program (Independence
+Program). The only difference between the programs is how DMB structures the fee charged to
+consumers. Consumers enrolled in the Liberty Program pay DMB a settlement fee that is a
+
+percentage of the consumerâs debt balance. Consumers enrolled in the Independence Program
+â Â§ * ma, a oof of
+: ry Reet ey PEN OTE PE
+ard 4 Be EYES 2k FAY of eg
+Lia! TAMAR AE AG Ae
+teat
+
+pay DMB a settlement fee that is a percentage of what consumers saved as a result of any debt
+settlement that DMB secures for consumers.
+
+15. To enroll in the Liberty Program, DMB required consumers to complete and sign
+a Debt Settlement & Negotiation Services Agreement (the Liberty Enrollment Agreement) and a
+Financial Program Questionnaire (the Liberty Questionnaire).
+
+16. To enroll in the Independence Program, DMB required consumers to complete
+and sign a Debt Settlement & Negotiation Services Agreement (the Independence Enrollment
+Agreement) and a Financial Program Questionnaire (the Independence Questionnaire).
+
+17. The Independence Enrollment Agreement and the Liberty Enrollment Agreement
+state: âI understand that my commitment is essential for the success of this Program and
+settlements will not be attempted until I have saved sufficient funds in my designated Savings
+Account.â
+
+18. The Independence Questionnaire and the Liberty Questionnaire require that
+consumers initial the following statement: âYou agree to commit to the DMB Financial
+[Liberty/Independence] Program, whereby our average Client negotiates and settles their
+outstanding debts for approximately 50% of the total amount due at the time of settlement, in 36
+months, with no prepayment penalties.â
+
+DMBâs Method of Calculating Fees
+
+19. Some versions of DMBâs Liberty Enrollment Agreement stated that the consumer
+âagrees to pay the Company a fee in the amount of [__|% of the Enrolled Debt on each given
+account negotiated and settled under the Program.â These agreements also described the âFee
+Structureâ as a â[p]er settlement fee of | _]% of debt balance as determined at time of
+
+enrollment.â
+20. Some versions of DMBâs Independence Enrollment Agreement stated that the
+consumer âagrees to pay the Company a fee in the amount of [| _]% of the Amount Saved by the
+Company on each given account negotiated and settled under the Program (that is, the difference
+between the creditorsâ claim amount (at the time of enrollment negotiations) and the agreed upon
+Final Settlement Payment).â The Independence Enrollment Agreement also described the âFee
+Structureâ as a â[p]er settlement fee of | _]% of savings off debt balance as determined at time
+of enrollment.â
+
+21. | Completed Liberty and Independence Enrollment Agreements included a Creditor
+Summary Page, which listed, among other things, each debt enrolled in the program and the debt
+balance at the time of enrollment.
+
+22. Despite representations in these enrollment materials that DMBâs fee would be a
+percentage of, or the savings off of, the enrolled debt, DMB charged enrolled consumers a fee
+based on what DMB called the âVerified Debt.â
+
+23. The Verified Debt amounts were often greater than the debt amounts listed on the
+Creditor Summary Page.
+
+24. Before 2019, DMB used the term âVerified Debt Amountâ to mean the amount of
+debt verified by DMB based on a creditor statement submitted by the consumer, or when no
+creditor statement was provided, the debt balance at the time DMB contacted the creditor to
+negotiate a settlement.
+
+25. Beginning in 2019, DMB began verifying debt amounts based on the amount
+reported on the consumerâs consumer credit report, which was obtained at or near the time of
+
+enrollment.
+26. Until 2019, if DMB never received a creditor statement submitted by a consumer
+for a particular debt, DMB calculated its settlement fee based on the debt amount after
+enrollmentâoften the debt amount at the time of settlementâinstead of the debt amount at the
+time of enrollment.
+
+27. The debt amount after enrollment is often greater than the debt amount at the time
+of enrollment because the debt continues to accrue interest and fees until a settlement is reached.
+DMBâs Charging of Deceptive and Unlawful Fees
+
+28. Since at least 2012, the Liberty and Independence Enrollment Agreements have
+stated: âThe Client agrees to pay the Company a fee . . . on each given account negotiated and
+settled under the Program. .. . Once Client receives an offer from any creditor enrolled in
+program, accepts and makes first payment toward settlement, Company is entitled to receive its
+full fee proportional to debt enrolled.â
+
+29. In two scenarios, DMB charged consumers its fee contrary to the terms of its
+enrollment agreements: (1) DMB charged some consumers its fee when DMB had not
+successfully settled consumersâ debts; and (2) DMB charged some consumers its fee before
+consumers had made a first payment toward settlement.
+
+30. DMB requested or received fees from at least hundreds of consumers when a
+creditor, in the absence of a binding settlement, stopped collecting from a consumer, sometimes
+following a charge-off. In such circumstances, the consumer had not executed a settlement
+agreement and had made no settlement payment to the creditor or any debt collector before DMB
+charged its fee. These consumers could still be subject to collection efforts, including real or
+threatened litigation, and their credit reports could continue to reflect an unpaid or delinquent
+
+debt in the trade line for that creditor. DMB did not disclose to consumers that it would charge
+its fee under these circumstances, and consumers did not agree when they enrolled in DMBâs
+programs to pay fees in these circumstances.
+
+31. | DMB requested or received fees from thousands of consumers even though the
+consumers had not yet made at least one payment under a settlement agreement, debt-
+management plan, or other valid contractual agreement. DMB did not disclose to consumers that
+it would charge its fee in this circumstance, and consumers did not agree when they enrolled in
+DMBâs programs to pay fees in this circumstance.
+
+Count 1
+
+DMBâs Violations of the TSR and the CFPA
+(Charging Advance Fees)
+
+32. The Bureau incorporates by reference the allegations contained in Paragraphs 1
+through 31 of this Complaint.
+
+33. It is a violation of the TSR for any seller or telemarketer in connection with the
+sale of any debt-relief service to request or receive payment of any fee or consideration for any
+debt-relief service until and unless, in addition to other requirements, the customer has made at
+least one payment under that settlement agreement, debt-management plan, or other valid
+contractual agreement between the customer and the creditor or debt collector. 16 C.F.R.
+
+Â§ 310.4(a)(5)()(B).
+
+34. DMB has requested and received fees from consumers in connection with
+enrolled debts even though consumers have not made any payments under a settlement
+agreement, debt-management plan, or other valid contractual agreement between the consumers
+
+and the creditor or debt collector.
+35. DMBâs requesting or receiving payment of fees from consumers under the
+circumstances described in paragraph 34 is an abusive act or practice in telemarketing that
+violates the TSR. 16 C.F.R. Â§ 310.4(a)(5)G)(B).
+
+36. In addition, DMBâs violation of the TSR is treated as a violation of a rule under
+Â§ 1031 of the CFPA. 15 U.S.C. Â§ 6102(c). DMB therefore has also violated Â§ 1036(a)(1)(A) of
+the CFPA. 12 U.S.C. Â§ 5536(a)(1)(A).
+
+Count 2
+
+DMBâs Violations of the TSR and the CFPA
+(Charging Fees in Absence of a Settlement)
+
+37. The Bureau incorporates by reference the allegations contained in Paragraphs 1
+through 31 of this Complaint.
+
+38. It is a violation of the TSR for any seller or telemarketer in connection with the
+sale of any debt-relief service to request or receive payment of any fee or consideration for any
+debt-relief service until and unless: (1) the seller or telemarketer has renegotiated, settled,
+reduced, or otherwise altered the terms of at least one debt under a settlement agreement, debt
+management plan, or other such valid contractual agreement executed by the customer; (2) the
+customer has made at least one payment under that settlement agreement, debt-management
+plan, or other valid contractual agreement between the customer and the creditor or debt
+collector; and (3) where the debts are renegotiated, settled, reduced, or otherwise altered
+individually, the fee or consideration must be proportional to the debts that have been so settled,
+or else charged at a flat percentage of the amount saved as a result of such settlements. 16 C.F.R.
+Â§ 310.4(a)(5)().
+
+39. DMB has requested and received fees from consumers in connection with
+
+enrolled debts even though DMB had not renegotiated, settled, reduced, or otherwise altered the
+terms of these debts under a settlement agreement, debt-management plan, or other such valid
+contractual agreement executed by the consumers, and consumers had not made any payments
+under a settlement agreement, debt-management plan, or other valid contractual agreement
+between the consumers and the creditor or debt collector.
+
+AO. DMBâs requesting or receiving payment of fees from consumers under the
+circumstances described in paragraph 39 is an abusive act or practice in telemarketing that
+violates the TSR. 16 C.F.R. Â§ 310.4(a)(5)(i).
+
+4]. DMBâs violation of the TSR is treated as a violation of a rule under Â§ 1031 of the
+CFPA. 15 U.S.C. Â§ 6102(c). DMB therefore has also violated Â§ 1036(a)(1)(A) of the CFPA. 12
+ULS.C. Â§ 5536(a)(1)(A).
+
+Count 3
+
+DMBâs Violations of the CFPA
+(Deceptive Representations Regarding Chargeable Events)
+
+42. The Bureau incorporates by reference the allegations contained in Paragraphs 1
+through 31 of this Complaint.
+
+43. DMB has represented to consumers that it would not charge any fee for its
+services until it settled a debt and consumers have made a settlement payment to the creditor. In
+fact, DMB has charged consumers its fee in cases where it did not settle the consumerâs debt, the
+consumer did not make a settlement payment, or both.
+
+44. DMBâs representations regarding when it would charge or collect its fees from
+consumers were likely to mislead consumers acting reasonably. The circumstances in which
+DMB charges consumers fees are material terms. DMBâs charging of fees to consumers as
+described in paragraph 43 is a deceptive act or practice that violates the CFPA. 12 U.S.C.
+
+Â§Â§ 5531(a), 5536(a)(1)(B).
+c ?
+58)
+iy Ã©
+D
+prwcecr
+gf
+
+r
+
+set
+
+Count 4
+DMBâs Violations of the TSR and CFPA
+(Charging Fees Based on Debt Amount after Enrollment)
+
+45. The Bureau incorporates by reference the allegations contained in Paragraphs 1
+through 31 of this Complaint.
+
+46. To the extent a seller or telemarketer renegotiates, settles, reduces, or otherwise
+alters a consumerâs enrolled debts individually over time, the TSR prohibits the seller or
+telemarketer from requesting or receiving any fee or consideration unless such fee or
+consideration: (1) bears the same proportional relationship to the total fee for renegotiating,
+settling, reducing, or altering the terms of the consumerâs entire debt balance as the individual
+debt amount bears to the entire debt amount, with the individual debt amount and the entire debt
+amount being those owed at the time the debt was enrolled in the service; or (2) is a percentage
+of the amount saved as a result of the renegotiation, settlement, reduction, or alteration; the
+percentage charged cannot change from one individual debt to another, and the amount saved is
+the difference between the amount owed at the time the debt was enrolled in the service and the
+amount actually paid to satisfy the debt. 16 C.F.R. Â§ 310.4(a)(5)()(C).
+
+47. | DMB settles consumersâ debts individually over time and has requested or
+received fees based on the debt amount after enrollment instead of the debt amount at the time of
+enrollment such that the fee neither (1) bears the same proportional relationship to the total fee as
+the enrolled debt amount bears to the entire debt amount at the time of enrollment; nor (2) is a
+
+percentage of the amount saved when the amount saved ts the difference between the debt
+
+amount at the time of enrollment and the settlement amount.
+
+10
+48. DMBâs practice of requesting or receiving settlement fees described in paragraph
+47 constitutes an abusive act or practice in telemarketing that violates the TSR. 16 C.F.R.
+Â§ 310.4(a)(S)G)(C).
+49, DMBâs violation of the TSR is treated as a violation of a rule under Â§ 1031 of the
+CFPA. 15 U.S.C. Â§ 6102(c). DMB therefore has also violated Â§ 1036(a)(1)(A) of the CFPA. 12
+ULS.C. Â§ 5536(a)(1)(A).
+Count 5
+
+DMBâs Violations of the CFPA
+(Deceptive Representations about Fee Structure)
+
+50. The Bureau incorporates by reference the allegations contained in Paragraphs 1
+through 31 of this Complaint.
+
+51. Until 2019, some of DMBâs contracts represented to consumers that DMB would
+charge a fee based on either the amount of the âEnrolled Debtâ or the âdebt balance as
+determined at the time of enrollment.â In fact, DMB charged consumers based on what DMB
+called âVerified Debtâ amounts, which were determined after enrollment.
+
+52. Accordingly, some of DMBâs contracts misrepresented to consumers the debt
+amount that would be used to determine DMBâs fees for debt-relief services.
+
+53. These representations were likely to mislead consumers acting reasonably under
+the circumstances because they specified that the enrolled debt amount would be used to
+determine DMBâs fee.
+
+54. The fee that DMB charges to consumers and the debt amount on which the fee is
+based are material.
+
+55. DMBâs omissions and misrepresentations constitute deceptive acts or practices
+
+that violate the CFPA. 12 U.S.C. Â§Â§ 5531(a), 5536(a)(1)(B).
+
+1]
+Count 6
+DMBâs Violations of the TSR and the CFPA
+(Failing to Disclose Amount of Time Necessary Before Settlement Offer Made)
+
+56. The Bureau incorporates by reference the allegations contained in Paragraphs 1
+through 31 of this Complaint.
+
+57. It is a violation of the TSR for any seller or telemarketer in connection with the
+sale of any debt-relief service to fail to disclose truthfully, in a clear and conspicuous manner
+before a customer consents to pay for those services, to the extent that the service may include a
+settlement offer to any of the customerâs creditors or debt collectors, the time by which the debt-
+relief-service provider will make a bona fide settlement offer to each of the creditors or debt
+collectors. 16 C.F.R. Â§ 310.3(a)(1)(viii)(A).
+
+58. DMB failed to disclose before enrollment in a clear and conspicuous manner the
+time by which DMB would make a bona fide settlement offer to each of a consumerâs creditors
+or debt collectors.
+
+59. | DMBâs failure to disclose in a clear and conspicuous manner the time by which
+DMB would make a bona fide settlement offer to each of a consumerâs creditors or debt
+collectors is a deceptive act or practice in telemarketing that violates the TSR. 16 C.F.R.
+
+Â§ 310.3(a)(1)(vili)(A).
+
+60. DMBâs violation of the TSR is treated as a violation of a rule under Â§ 1031 of the
+
+CFPA. 15 U.S.C. Â§ 6102(c). DMB therefore has also violated Â§ 1036(a)(1)(A) of the CFPA. 12
+
+U.S.C. Â§ 5536(a)(1)(A).
+
+12
+Count 7
+DMBâs Violations of the TSR and the CFPA
+(Failing to Disclose the Amount of Money for Each Outstanding Debt to be Saved)
+
+6l. The Bureau incorporates by reference the allegations contained in Paragraphs 1
+through 31 of this Complaint.
+
+62. It is a violation of the TSR for any seller or telemarketer in connection with the
+sale of any debt-relief service to fail to disclose truthfully, in a clear and conspicuous manner
+before a customer consents to pay for those services, to the extent that the service may include a
+settlement offer to any of the customerâs creditors or debt collectors, the amount of money or the
+percentage of each outstanding debt that the customer must accumulate before the debt-relief-
+service provider will make a bona fide settlement offer to each of the creditors or debt collectors.
+16 C.F.R. Â§ 310.3(a)(1)(viit)(B).
+
+63. | DMB failed to disclose before enrollment in a clear and conspicuous manner the
+amount of money or the percentage of each outstanding debt that a consumer must accumulate
+before DMB would make a bona fide settlement offer on the consumerâs behalf.
+
+64. DMBâs failure to disclose in a clear and conspicuous manner before enrollment
+the amount of money or the percentage of each outstanding debt that a consumer must
+accumulate before DMB would make a bona fide settlement offer to each of the consumerâs
+creditors or debt collectors is a deceptive act or practice in telemarketing that violates the TSR.
+16 C.F.R. Â§ 310.3(a)(1)(viit)(B).
+
+65. In addition, DMBâs violation of the TSR is treated as a violation of a rule under
+Â§ 1031 of the CFPA. 15 U.S.C. Â§ 6102(c). DMB therefore has also violated Â§ 1036(a)(1)(A) of
+
+the CFPA. 12 U.S.C. Â§ 5536(a)(1)(A).
+
+13
+Case 1:20-cv-12147 Document 1
+
+Filed 12/01/20 Page 14 of 14
+
+DEMAND FOR RELIEF
+
+The Bureau requests that the Court:
+
+a.
+
+permanently enjoin DMB from committing future violations of the Telemarketing
+
+Act, 15 U.S.C. Â§Â§ 6102(c), 6105(d); the TSR, 16 C.F.R. pt. 310; and the CFPA,
+
+12 U.S.C. Â§Â§ 5531, 5536(a), and any other provision of âFederal consumer
+
+financial law,â as defined by 12 U.S.C. Â§ 5481(14);
+
+grant additional injunctive relief as the Court may deem just and proper;
+
+order DMB to pay redress to consumers harmed by its unlawful conduct;
+
+order DMB to disgorge all ill-gotten gains;
+
+impose on DMB civil money penalties;
+
+award costs against DMB; and
+
+award additional relief as the Court may determine to be just and proper.
+
+14
+
+Respectfully submitted,
+
+THOMAS G. WARD
+
+Enforcement Director
+
+JEFFREY PAUL EHRLICH
+
+Deputy Enforcement Director
+
+KARA K. MILLER
+
+Assistant Deputy Enforcement Director
+
+/s/ Hai Binh T. Nguyen
+
+Hai Binh T. Nguyen (CA Bar #313503)
+Patricia H. Hensler (FL Bar #102303)
+Enforcement Attorneys
+
+1700 G St., N.W.
+
+Washington, D.C. 20552
+
+Telephone (Nguyen): 202-435-7251
+Telephone (Hensler): 202-435-7829
+Email: haibinh.nguyen@cfpb.gov
+Email: patricia.hensler@cfpb.gov

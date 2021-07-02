@@ -1,0 +1,761 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 78402 / July 25, 2016
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3792 / July 25, 2016
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-17357
+
+ 
+
+ 
+
+ 
+
+ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+SECTION 21C OF THE SECURITIES
+LAN Airlines S.A. EXCHANGE ACT OF 1934, MAKING
+FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+I,
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (âExchange Actâ), against LAN Airlines S.A. (ââLANâ or âRespondentâ),
+now known as LATAM Airlines Group.
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferâ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, Respondent admits the Commissionâs
+jurisdiction over it and the subject matter of these proceedings, and consents to the entry of this
+Order Instituting Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities
+Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order (âOrderââ), as
+set forth below.
+Hil.
+
+On the basis of this Order and Respondentâs Offer, the Commission findsâ that:
+
+Summary
+
+1. These proceedings arise from violations of the Foreign Corrupt Practices Act of
+1977 (the âFCPAâ) [15 U.S.C. 78dd] by Respondent LAN Airlines S.A. In 2006 and 2007,
+LAN, through Ignacio Cueto Plaza (âthe CEOâ), the current CEO of LAN, authorized $1.15
+million in improper payments to a third party consultant in Argentina in connection with LANâs
+attempts to settle disputes on wages and other work conditions between LAN Argentina S.A.
+(âLAN Argentinaâ), a subsidiary of LAN, and its employees.* At the time, LAN understood that
+it was possible the consultant would pass some portion of the $1.15 million to union officials in
+Argentina. The payments were made pursuant to an unsigned consulting agreement that
+purported to provide services that LAN understood would not occur. The CEO authorized
+subordinates to make the payments that were improperly booked in the Companyâs books and
+records, which circumvented LANâs internal accounting controls.
+
+Respondent
+
+2. LAN Airlines S.A. (âLANâ) was a publicly traded airline company headquartered
+in Santiago, Chile, that provided passenger and cargo airline services throughout Latin America.
+LAN merged with TAM, S.A. in 2012. Throughout the relevant period, LANâs common stock
+was registered in the United States pursuant to Section 12(b) of the Exchange Act and LAN filed
+annual and quarterly reports as required under Section 13(a) of the Exchange Act and Rules
+thereunder. Prior to the merger with TAM, LANâs common stock traded on the NYSE under the
+symbol âLFL.â
+
+Relevant Entities
+
+3. LATAM Airlines Group (âLATAMYâ) is a Chilean based holding company. LAN
+became LATAM after the merger of LAN and its consolidated subsidiaries/or affiliates and TAM,
+S.A. and its consolidated subsidiaries (âTAMâ) on June 22, 2012. Following the merger,
+LATAMâs holdings included LAN and its subsidiaries/or affiliates in Peru, Argentina, Colombia
+and Ecuador, TAM and its subsidiaries, and LAN Cargo and its affiliates. LATAMâs common
+stock is registered pursuant to Section 12(b) of the Exchange Act and LATAM files annual and
+quarterly reports as required under Section 13(a) of the Exchange Act and Rules thereunder.
+LATAMâs common stock trades on the NYSE under the symbol âLFL.â
+
+4. LAN Argentina S.A. (âLAN Argentinaâ), formerly known as AERO 2000, was a
+subsidiary of LAN during the relevant period. LAN Argentina began operations in 2005, and
+
+ 
+
+1 4. ;
+The findings herein are made pursuant to Respondent's Offer of Settlement and are not
+
+binding on any other person or entity in this or any other proceeding.
+2
+
+On February 4, 2016, the Commission instituted settled cease-and-desist proceedings against the CEO for
+his role in this same conduct.
+
+2
+operated domestic and international flights throughout Latin America. It continues to do business
+as part of LATAM. LAN Argentinaâs books and records were consolidated into the books and
+records of LAN and later LATAM.
+
+5. Atlantic Aviation Investments LLC (âAAIâ) was an indirect subsidiary of LAN
+incorporated in Delaware. LAN used AAI to conceal the sham payments to a company controlled
+by its consultant in Argentina. AAIâs books and records were consolidated into the financial
+statements of LAN and later LATAM.
+
+LANâs Entry into Argentina
+
+6. For several years prior to 2004, LAN, a Chilean airline, explored expansion into
+Argentina. LAN put its Vice President of Business Development at LAN Cargo, a LAN
+subsidiary, in charge of the expansion efforts. The Vice President of Business Development was
+based in Miami, Florida, and reported directly to the CEO.
+
+7. In late 2004, the Vice President of Business Development received a call from a
+lawyer and purported business consultant in Argentina offering to help LAN with its expansion
+efforts. The two men later met in Buenos Aires and discussed the obstacles that LAN might face
+in trying to break into the Argentine airline market. Following the meeting, they kept in touch.
+
+8. In early 2005, officials from the Argentine Transportation Secretaryâs Office
+contacted LAN to ask whether it would be interested in purchasing Lineas Aereas Federales S.A.
+(âLAFSAâ), a state owned airline, as a means to enter Argentina. LAN declined the offer to
+purchase LAFSA but continued discussions with government officials to enter into the market.
+Eventually the officials informed LAN that LAFSA would cease operations and LAN could enter
+the Argentine market through the purchase of 49% of the shares of AERO 2000, a non-operating
+Argentinean airline that possessed an airline operation certificate and owned various flight routes.
+As part of the deal, LAN agreed to hire workers from LAFSA and another Argentine airline,
+Southern Winds, to operate AERO 2000.
+
+9. In March 2005, the CEO and the Vice President of Business Development met with
+the President of Argentina and the Transportation Secretary, as well as other officials from the
+Ministry of Federal Planning, Public Investment and Services, and Transportation to finalize the
+terms of the deal. LAN completed its purchase of 49% of AERO 2000 on or about April 2005, and
+AERO 2000 began operations in June 2005. In December 2005, AERO 2000âs name was changed
+to LAN Argentina S.A. The LAN employees primarily involved in these negotiations were the
+Vice President of Business Development and the General Manager of LAN Argentina, who later
+became Chief Operating Officer of LAN. Both employees reported directly to the CEO.
+
+LAN Faces Major Issues Upon Entering the Argentine Market
+
+10. Upon entering the Argentine passenger airline market LAN immediately faced
+several major issues impacting its viability and began losing money. First, it needed to meet
+demands from labor unions representing the employees acquired from LAFSA and Southern
+Winds. Second, LAN needed majority ownership of its Argentine subsidiary, and therefore had to
+
+3
+persuade the Argentine government to change its existing law on foreign ownership of domestic
+airlines and to increase caps on airfares. Third, LAN needed regulatory authorization to operate
+various flight routes, both domestically and internationally, in Argentina. Since the Argentine
+passenger airline market was heavily regulated by the government, particularly officials within the
+Department of Transportation who had close ties to the unions, LAN engaged in discussions with
+government officials with each of these issues.
+
+11. LAN executives, including the CEO, knew that for LAN Argentina to become
+profitable it would need an infusion of cash. LAN asked Argentine government officials to
+liberalize the laws on foreign ownership so that LAN could own a majority share of LAN
+Argentina and sought government authorization to raise regulated airfares. On or about August 8,
+2006, the President of Argentina signed a Decree that enabled LAN to become a majority owner of
+LAN Argentina and allowed LAN to raise airfares by 20%. LAN Argentina was also awarded
+critical additional flight routes by the Transportation Secretary.
+
+LAN Encounters Problems with the Unions in Argentina
+
+12. The Argentine government in March 2005, required that LAN hire between six and
+eight hundred employees from the defunct LAFSA and Southern Winds airlines. LAN was bound
+by the existing bargaining agreements between LAFSA, Southern Winds and the labor unions.
+
+13. There were five unions representing airline employees in Argentina. They included
+the grounds crew union, the Asociacidn del Personal Aeronautico (APA), the pilotsâ union, the
+Asociacion de Pilotos de Lineas AÃ©reas (APLA), the mechanicsâ union, AsociaciÃ©n del Personal
+Tecnico Aeronautico (APTA), the flight attendantsâ union, AsociaciÃ©n de Tripulantes de Cabina de
+Pasajeros de Empresas Aerocomerdiales (ATCPEA), and the supervisorsâ union, Union del
+Personal Superior y Profesional de Empresas Aerocomerciales (UPSA).
+
+14. All of the unions were powerful and unafraid to make demands on LAN. They
+sought wage increases and additional benefits, and used the terms of their respective Collective
+Bargaining Agreements (âCBAsâ) as leverage. These labor agreements contained provisions that
+LAN believed were unfavorable, such as restrictions on the hours employees could work and their
+work locations.
+
+15. The mechanicsâ union, the flight attendantsâ union and the supervisorsâ union each
+had a single-function rule contained in their collective CBAs. The single-function rule was a
+provision that limited workers from performing more than one work function for LAN. The
+single-function rule was loosely interpreted and for the most part not enforced by the unions. Had
+it been enforced, the single-function rule would have required LAN to double its work force and
+would have seriously imperiled LANâs ability to continue its operations in Argentina.
+
+16. Around 2006 the unions began campaigning for wage increases. The unions
+threatened to enforce the single-function rule unless LAN Argentina agreed to a substantial wage
+increase. LANâs management, including the CEO, attempted to negotiate on the wage issues but
+made no progress and things worsened over time. Eventually there were work stoppages and
+slowdowns on the part of the workforce, including strikes involving the pilotsâ and the mechanicsâ
+unions.
+
+17. In early 2006, the consultant again contacted the Vice President of Business
+Development and offered to assist LAN in Argentina. By this time, the consultant was a Cabinet
+Advisor in the Ministry of Federal Planning, Public Investment and Services, Department of
+Transportation. On January 31, 2005, the Secretary of Transportation appointed the consultant as a
+Cabinet Advisor âad-honoremâ pursuant to an unpublished Resolutionâ
+
+LAN Makes Improper Payments
+
+18. Beginning in the summer of 2006, the consultant supplied some LAN executives
+with information on how to deal with specific union members and the unions in general.
+Eventually, the consultant offered to negotiate directly with the unions on LANâs behalf, making it
+clear that he would expect compensation for such negotiations, and that payments would be made
+to third parties who had influence over the unions. After his staff informed the CEO that the
+consultant was well connected with the unions and could effectively negotiate an agreement with
+union officials, the CEO approved the retention of the consultant.
+
+19. During the summer of 2006, the CEO approved payments totaling $1,150,000 to
+the consultant in connection with LANâs attempts to settle disputes on wages and other work
+conditions with the unions. At the time, the CEO understood that it was possible the consultant
+would pass some portion of the $1.15 million to union officials in Argentina. The CEO approved
+the payments to get the unions to abandon their threats to enforce the single-function rule and to
+get them to accept a wage increase lower than the amount asked for in negotiations. LAN and the
+consultant agreed that LAN would make the payment to a company controlled by the consultant in
+Argentina. In 2006, LAN did not have a policy requiring that due diligence be performed on
+consultants, and neither the CEO nor LAN conducted any due diligence on the consultant or any of
+his related entities.
+
+20. Around August 2006, the CEOâs staff informed him that the consultant had reached
+an oral agreement to settle the wage dispute with the mechanicsâ union on LANâs behalf.
+Although the existing Collective Bargaining Agreement with the mechanicsâ union would remain
+unchanged, the CEO understood that the union would orally agree not to seek enforcement of the
+single-function rule for a period of four years in exchange for a wage increase of approximately
+15% of salary. The wage increase of approximately 15% was lower than the amount originally
+sought by the mechanicsâ union.
+
+21. Around August 2006, the flight attendantsâ and supervisorsâ unions both agreed to
+accept wage increases of approximately 15% and 10% respectively of salaries. The amounts were
+lower than the amounts originally sought by each union.
+
+ 
+
+The consultant resigned from the position on or about July 2, 2009.
+
+5
+Sham Contract with Consultantâs Company
+
+22. On October 2, 2006, the consultant sent the Vice President of Business
+Development an e-mail attaching a draft consulting contract between LAN and the consultantâs
+company for his âconsideration.â The consultant copied the e-mail and draft contract to a chief
+advisor to the Transportation Secretary who oversaw airline and union issues. The following day,
+the Vice President of Business Development forwarded the draft contract to the CEO for his
+review. The contract described the $1,150,000 to be paid to the consultantâs company in three
+installments, and falsely stated that the consultant would undertake a study of existing air routes in
+Argentina and the regional market as a basis for the payment. The draft contract was never signed
+by the parties. The CEO knew that the consultant would not perform a study. The CEO did not
+inform anyone at LAN that the contract falsely stated the purpose of the payments to the
+consultant.
+
+23. To further disguise the sham arrangement, an unrelated LAN subsidiary, AAI
+incorporated in Delaware, was used to make the improper payments to the consultantâs company.
+Around October 20, 2006, the consultantâs company sent a backdated invoice for $300,000 to AAT,
+the LAN subsidiary that was designated by LAN to make the improper payments to the
+consultantâs company. The invoice indicated that the amount due was for âconsulting services
+provided by and payable...under contract signed by both parties.â It also contained wire transfer
+instructions to a brokerage account in Virginia owned by the consultant and his wife. On October
+20, 2006, LAN wired the $300,000 to the brokerage account. Additional invoices for $300,000 on
+November 21, 2006 and $550,000 on January 17, 2007 were sent to AAI and paid to the same
+brokerage account. All of the improperly booked payments to the consultantâs company were
+intentionally mis-recorded as payments to âother debtorsâ on AAIâs books and records.
+
+24. In November 2007, the Vice President of Business Development received an
+invoice from the consultant for $58,000 payable to an account in Spain in the name of another
+company, which was owned by the consultantâs son and wife and was headquartered in Costa
+Rica. The invoice was also directed for payment by LANâs AAI subsidiary. The payment was in
+addition to the $1.15 million already authorized by the CEO and paid to the consultant. The CEO
+received a copy of the invoice via e-mail from the Vice President of Business Development. Like
+the consultantâs draft contract, the invoice indicated that it was for payment for a study of existing
+air routes in Argentina and the regional market, which the CEO knew was inaccurate. In
+November 2007, LAN paid the invoice.
+
+25. The CEO approved the consultantâs compensation and instructed the CFO of LAN
+to pay the consultantâs invoices. The invoices contained false references to consulting services that
+were never rendered by the consultant. At the trme he approved the payments to the consultant, the
+CEO knew that the unsigned consulting contract with the consultantâs company was a sham
+contract. The CEO did not inform the CFO or LANâs legal department that $1,150,000 in
+payments was being made to the consultantâs company pursuant to a fake contract for improper
+purposes. Further, while copied on an email attaching the $58,000 invoice for payment to the
+company owned by consultantâs son and wife, the CEO took no action to stop the payment, which
+he knew contained false references to services never rendered.
+
+6
+26. LAN obtained a benefit of $6,743,932 as a result of the improper payments to
+resolve LANâs union issues.
+
+Failure to Maintain Accurate Books and Records
+
+27. LAN, directly and through LAN Argentina and AAI, failed to make and keep
+books, records, and accounts that accurately and fairly reflected LANâs transactions with the
+consultantâs company and the company owned by consultantâs son and wife. The improper
+payments were concealed within AAIâs books and records in transitory holding accounts. Later,
+the payments were mis-recorded in AAIâs accounts as âvarious other debtorsâ debits.â LAN failed
+to accurately disclose in its books and records that payments to consultantâs company and the
+company owned by consultantâs son and wife could benefit union officials in Argentina.
+
+Failure to Maintain Adequate Internal Controls
+
+28. LAN failed to devise and maintain an adequate system of internal accounting
+controls. The controls in place during 2006 and 2007 were minimal and clearly deficient. The
+conduct in Argentina involved executives at the highest levels of LAN. High level executives
+approved the payments to the consultantâs company and to the company owned by consultantâs son
+and wife, and other executives and managers made the payments while overlooking numerous red
+flags. During the relevant period LAN had no internal controls requiring due diligence on third
+parties, and as a result no due diligence was conducted on the consultant or his related entities, or
+the company owned by his son and wife. If a due diligence review had been conducted on the
+consultant, LAN might have become aware of his January 2005 appointment as a Cabinet Advisor
+to Argentinaâs Transportation Secretary.
+
+29. The payments to the consultant were supported by a sham contract between the
+consultantâs company and AAI, a LAN subsidiary incorporated in Delaware that had no personnel
+and was completely unrelated to LANâs business in Argentina. LANâs legal department reviewed
+the sham contract with the consultantâs company and raised no concerns. The contract was never
+finalized and never signed by the parties. LANâs accounting division did not require any proof of
+services before paying the $1,150,000 to the consultantâs company, and no one questioned why
+payments were wired to a U.S. brokerage account in the name of the consultant and his wife rather
+than to an account in the name of the consultantâs company. Similarly, LAN paid $58,000 to a
+Costa Rican company owned by the consultantâs wife and son without any proof of services.
+Despite the consultantâs receipt of illicit funds in 2006 and 2007, LAN executives considered
+hiring him again in 2009 to work on another airline matter but ultimately did not retain him.
+
+30. LAN did not implement even the most basic compliance controls until 2008, when
+it issued a new Code of Conduct, which for the first time contained anti-corruption policies. The
+company did not offer any compliance training until about 2010, and the training was minimal and
+did not apply to all employees. Training did not become compulsory for managers until about
+2011.
+31. LAN did not implement a comprehensive company-wide corporate compliance
+program until early 2014. In addition, the primary individuals who caused the controls failures at
+LAN and LAN Argentina are still with the company and no disciplinary action has been taken
+against them.
+
+Legal Standards and Violations
+
+32. As a result of the conduct described above, LAN violated Section 13(b)(2)(A) of
+the Exchange Act, which requires issuers to make and keep books, records, and accounts which, in
+reasonable detail, accurately and fairly reflect their transactions and dispositions of the assets of the
+issuer.
+
+33. In addition, as a result of the conduct described above, LAN violated Section
+13(b)(2)(B) of the Exchange Act, which requires issuers to devise and maintain a system of
+internal accounting controls sufficient to provide reasonable assurances that (1) transactions are
+executed in accordance with managementâs general or specific authorization; (11) transactions are
+recorded as necessary (I) to permit preparation of financial statements in conformity with generally
+accepted accounting principles or any other criteria applicable to such statements, and (II) to
+maintain accountability for assets; (111) access to assets is permitted only in accordance with
+managementâs general or specific authorization; and (iv) the recorded accountability for assets is
+compared with the existing assets at reasonable intervals and appropriate action is taken with respect
+to any differences.
+
+Remedial Actions and Undertakings
+
+34. In determining to accept the Offer, the Commission considered remedial acts
+undertaken by Respondent. In 2008, LAN began steps to create a basic compliance program by
+hiring a new General Counsel and Vice President who was tasked with monitoring the compliance
+department. In 2013, LATAM adopted a new Code of Conduct, as well as other internal corporate
+policies, including an Anti-Corruption Guide, a Gifts, Travel, Hospitality and Entertainment
+Policy, an Escalation Policy, and Procurement and Payment policies. The new compliance
+program was implemented in early 2014. LAN also hired a new Compliance Manager who, along
+with two deputies and a senior compliance analyst, oversees twenty people, including regional
+heads of legal, located in nine different regions to ensure compliance. LATAM also now requires
+annual training of employees who must certify compliance with LANâs Code of Conduct.
+
+35. Respondent undertakes to do the following: in connection with this action and any
+related judicial or administrative proceeding or investigation commenced by the Commission or to
+which the Commission is a party, Respondent (i) agrees to appear and be interviewed by
+Commission staff at such times and places as the staff requests upon reasonable notice; (11) will
+accept service by mail or facsimile transmission of notices or subpoenas issued by the Commission
+for documents or testimony at depositions, hearings, or trials, or in connection with any related
+investigation by Commission staff; (111) appoints Respondent's undersigned attorney as agent to
+receive service of such notices and subpoenas; (iv) with respect to such notices and subpoenas,
+waives the territorial limits on service contained in Rule 45 of the Federal Rules of Civil Procedure
+
+8
+and any applicable local rules, provided that the party requesting the testimony reimburses
+Respondent's travel, lodging, and subsistence expenses at the then-prevailing U.S. Government per
+diem rates; and (v) consents to personal jurisdiction over Respondent in any United States District
+Court for purposes of enforcing any such subpoena.
+
+36. Respondent undertakes to engage an Independent Compliance Monitor pursuant to
+the provisions set forth in Attachment A of the Order.
+
+37. Respondent undertakes to require the Independent Compliance Monitor to enter
+into an agreement that provides that for the period of engagement and for a period of two years
+from completion of the engagement, the Independent Compliance Monitor shall not enter into any
+employment, consultant, attorney-client, auditing or other professional relationship with
+Respondent, or any of its present or former affiliates, directors, officers, employees, or agents
+acting in their capacity. The agreement will also provide that the Independent Compliance
+Monitor will require that any firm with which he/she is affiliated or of which he/she is a member,
+and any person engaged to assist the Independent Compliance Monitor in performance of his/her
+duties under this Order shall not, without prior written consent of the Division of Enforcement,
+enter into any employment, consultant, attorney-client, auditing or other professional relationship
+with Respondent, or any of its present or former affiliates, directors, officers, employees, or agents
+acting in their capacity as such for the period of the engagement and for a period of two years after
+the engagement.
+
+38. Certify, in writing, compliance with the undertaking(s) set forth above. The
+certification shall identify the undertaking(s), provide written evidence of compliance in the form
+of a narrative, and be supported by exhibits sufficient to demonstrate compliance. The
+Commission staff may make reasonable requests for further evidence of compliance, and
+Respondent agrees to provide such evidence. The certification and supporting material shall be
+submitted to Kara Novaco Brockmeyer, FCPA Unit Chief, Division of Enforcement, U.S.
+Securities and Exchange Commission, 100 F Street, N.E., Mail Stop 5631, Washington, D.C.
+20549, with a copy to the Office of Chief Counsel of the Enforcement Division, no later than sixty
+(60) days from the date of the completion of the undertakings.
+
+Deferred Prosecution Agreement
+
+39, Respondent has entered into a deferred prosecution agreement with the Department
+of Justice that acknowledges responsibility for criminal conduct relating to the findings in the
+Order. Specifically, Respondent acknowledges responsibility for (i) violating the internal controls
+provisions of the Foreign Corrupt Practices Act of 1977 (âFCPAâ), as amended, 15 U.S.C. Â§Â§
+78m(b)(2)(B), 78m(b)(5), and 78ff(a); and (11) violating the FCPAâs books and records provisions,
+15 U.S.C. Â§Â§ 78m(b)(2)(A), 78m(b)(5), and 78ff(a).
+Non-Imposition of a Civil Penalty
+
+AO. Respondent acknowledges that the Commission is not imposing a civil penalty
+based upon its payment of a $12,750,000 criminal fine as part of Respondentâs settlement with the
+United States Department of Justice.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent LAN Airlines S.A.âs Offer.
+
+Accordingly, it is hereby ORDERED that:
+
+A. Pursuant to Section 21C of the Exchange Act, Respondent LAN Airlines S.A. cease
+and desist from committing or causing any violations and any future violations of Sections
+13(b)(2)(A) and13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78m(b)(2)(A) and 78m(b)(2)(B)].
+
+B. Respondent will comply with its Undertakings as enumerated in paragraphs 35
+through 38 above.
+
+C. Respondent shall pay disgorgement of $6,743,932 and prejudgment interest of
+$2,693,856 for total payment of $9,437,788 to the Securities and Exchange Commission for transfer
+to the general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3).
+Payment shall be made in the following installments: LAN shall pay $4,718,894 within 14 days of
+the entry of this Order and $4,718,894 within 360 days from the entry of this Order. If any payment
+is not made by the date the payment is required by this Order, the entire outstanding balance of
+$9,437,788, plus any additional interest accrued pursuant to SEC Rule of Practice 600, shall be due
+and payable immediately, without further application.
+
+Payment must be made in one of the following ways:
+
+(1) Respondent may transmit payment electronically to the Commission, which will
+provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov through the
+SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+ 
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United States
+postal money order, made payable to the Securities and Exchange Commission and
+hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+
+10
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying LAN
+Airlines S.A. as a Respondent in these proceedings, and the file number of these proceedings; a
+copy of the cover letter and check or money order must be sent to Tracy L. Price, Assistant
+Director, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE,
+Washington, DC 20549-5631.
+
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+11
+Attachment A
+Independent Compliance Monitor
+Retention of Monitor and Term of Engagement
+
+1. The Company shall engage an independent compliance monitor (the âMonitorââ)
+not unacceptable to the Commission staff within sixty (60) calendar days of the issuance of the
+Order. The Monitor shall have, at a minimum, the following qualifications: (1) demonstrated
+expertise with the Foreign Corrupt Practices Act (âFCPAâ) and other applicable anti-corruption
+laws, including experience counseling on FCPA issues; (11) experience designing and/or
+reviewing corporate compliance policies, procedures, and internal accounting controls, including
+FCPA and anti-corruption policies, procedures, and internal accounting controls; (111) the ability
+to access and deploy resources as necessary to discharge the Monitorâs duties; and (iv) sufficient
+independence from the Company to ensure effective and impartial performance of the Monitorâs
+duties. The Commission staff may extend the Companyâs time period to retain the Monitor in its
+sole discretion. If the Monitor resigns or is otherwise unable to fulfill the obligations herein, the
+Company shall retain a Monitor that is not unacceptable to the Commission staff within thirty
+(30) calendar days.
+
+2. The Company shall retain the Monitor for a period of not less than twenty-seven
+(27) months from the date the Monitor is retained (the âTerm of the Monitorshipâ), unless the
+Commission staff finds, in its sole discretion, that there exists a change in circumstances
+sufficient to terminate the Monitorship early or extend the Monitorship as set forth in paragraphs
+
+24-25 (Termination or Extension of Monitorship).
+Company âs Obligations
+
+3. The Company shall cooperate fully with the Monitor, and provide the Monitor
+with access to all information, documents, records, facilities, and employees as reasonably
+requested by the Monitor. The Company shall use its best efforts to provide the Monitor with
+access to the Companyâs former employees and its third-party vendors, agents, and consultants.
+
+4. The parties agree that no attorney-client relationship shall be formed between the
+Company and the Monitor. In the event that the Company seeks to withhold from the Monitor
+access to information, documents, records, facilities, current or former employees of the
+Company, its third-party vendors, agents, or consultants that may be subject to a claim of
+attorney-client privilege or to the attorney work-product doctrine, or where the Company
+reasonably believes production would otherwise be inconsistent with applicable law, the
+Company shall work cooperatively with the Monitor to resolve the matter to the satisfaction of
+the Monitor. If, during the Term of the Monitorship, the Monitor believes that the Company is
+unreasonably withholding access on the basis of a claim of attorney-client privilege, attorney
+work-product doctrine, or other asserted applicable law, the Monitor shall promptly notify the
+Commission staff.
+
+5. Any disclosure by the Company to the Monitor concerning corrupt payments,
+false books and records, and internal accounting control failures shall not relieve the Company of
+any otherwise applicable obligation to truthfully disclose such matters to the Commission staff.
+
+Monitorâs Mandate
+6. The Monitor shall evaluate the effectiveness of the internal accounting controls,
+
+record-keeping, and financial reporting policies and procedures of the Company as they relate to
+the Companyâs current and ongoing compliance with the anti-bribery, books and records, and
+internal accounting controls provisions of the FCPA and other applicable anti-corruption laws
+(the âanti-corruption lawsâ), and make recommendations reasonably designed to improve the
+effectiveness of the Companyâs internal accounting controls and corporate compliance program
+(the âMandateâ). This Mandate shall include an assessment of the Board of Directorsâ and
+senior managementâs commitment to, and effective implementation of, the corporate compliance
+program. In carrying out the Mandate, to the extent appropriate under the circumstances, the
+Monitor may coordinate with Company personnel, including in-house counsel, compliance
+personnel, and internal auditors. The Monitor may rely on the product of the Companyâs
+processes, such as the results of studies, reviews, sampling and testing methodologies, audits,
+and analyses conducted by or on behalf of the Company, as well as the Companyâs internal
+resources (e.g., legal, compliance, and internal audit), which can assist the Monitor in carrying
+out the Mandate, provided the Monitor has confidence in the quality of those resources and the
+use of those resources are maintained independent of the Companyâs normal functions to ensure
+the Monitorâs independence.
+
+7. During the Term of the Monitorship, the Monitor shall conduct an initial review
+and two follow-up reviews and prepare an initial report and a first and second follow-up report,
+and issue a Certification Report if appropriate, as described below.
+
+Initial Review and Report
+
+8. Promptly upon being retained, the Monitor shall prepare a written work plan,
+
+which shall be submitted to the Company and the Commission staff for comment no later than
+
+forty five (45) calendar days after being retained.
+9. In order to conduct an effective initial review and to understand fully any existing
+deficiencies in the Companyâs internal accounting controls and corporate compliance program,
+the Monitorâs work plan shall include such steps as are reasonably necessary to understand the
+Companyâs business and FCPA risks faced throughout its business. The steps shall include:
+
+a. inspection of relevant documents, including the internal accounting
+controls, record-keeping, and financial reporting policies and procedures
+as they relate to the Companyâs compliance with the books and records,
+internal accounting controls and anti-bribery provisions of the FCPA;
+
+b. onsite observation of selected systems and procedures comprising the
+Companyâs corporate compliance program, including anti-corruption
+compliance procedures, internal accounting controls, record-keeping, due
+diligence, and internal audit procedures, including at sample sites;
+
+C. meetings with, and interviews of, relevant Company employees, officers,
+directors, its third-party vendors, agents, or consultants and other persons
+at mutually convenient times and places; and
+
+d. risk-based analyses, studies and testing of the Companyâs corporate
+compliance program.
+
+10. The Monitor may take such steps as are reasonably necessary to develop an
+understanding of the facts and circumstances surrounding prior FCPA violations that may have
+occurred, but shall not conduct his or her own inquiry into those historical events.
+
+11. The Company and Commission staff shall provide any comments concerning the
+
+work plan within twenty five (25) calendar days in writing to the Monitor. Any disputes
+between the Company and the Monitor with respect to the written work plan shall be decided by
+the Commission staff in its sole discretion. Following comments by the Company and
+Commission staff, the Monitor will have fifteen (15) calendar days to make revisions to the
+initial work plan.
+
+12. The initial review shall commence no later than ninety (90) calendar days from
+the date of the engagement of the Monitor (unless otherwise agreed by the Company, the
+Monitor, and the Commission staff). The Monitor shall issue a written report within one
+hundred fifty (150) calendar days of commencing the initial review, setting forth the Monitorâs
+assessment and, if necessary, making recommendations reasonably designed to improve the
+effectiveness of the Companyâs internal accounting controls and corporate compliance program
+as they relate to the Companyâs compliance with the anti-corruption laws. The Monitor should
+consult with the Company concerning his or her findings and recommendations on an ongoing
+basis and should consider the Companyâs comments and input to the extent the Monitor deems
+appropriate. The Monitor may also choose to share a draft of his or her report with the Company
+and Commission staff prior to finalizing them. The Monitor shall provide the report to the Board
+of Directors of the Company and contemporaneously transmit a copy to Commission staff.
+
+13. Within ninety (90) calendar days after receiving the Monitorâs initial report, the
+Company shall adopt and implement all recommendations in the report, provided, however, that
+as to any recommendation that the Company considers unduly burdensome, impractical or
+costly, or inconsistent with applicable law or regulation, the Company need not adopt that
+
+recommendation at that time, but may submit in writing to the Monitor and the Commission staff
+within fifteen (15) days of receiving the report, an alternative policy, procedure, or system
+designed to achieve the same objective or purpose.
+
+14. In the event the Company and the Monitor are unable to agree on an acceptable
+alternative proposal, the Company shall promptly consult with the Commission staff. Any
+disputes between the Company and the Monitor with respect to the recommendations shall be
+decided by the Commission staff in its sole discretion. The Commission staff may consider the
+Monitorâs recommendation and the Companyâs reasons for not adopting the recommendation in
+determining whether the Company has fully complied with its obligations. Pending such
+determination, the Company shall not be required to implement any contested
+recommendation(s).
+
+15. With respect to any recommendation that the Monitor determines cannot
+reasonably be implemented within ninety (90) calendar days after receiving the report, the
+Monitor may extend the time period for implementation with prior written approval of the
+Commission staff.
+
+Follow-Up Reviews
+
+16. The Monitor shall conduct a minimum of two Follow-Up Reviews. The Monitor
+shall submit a written work plan for each follow-up review to the Company and Commission
+staff within sixty (60) calendar days after the issuance of either the initial report, or the
+applicable follow-up report. The Company and Commission staff shall provide any comments
+concerning the work plan within fifteen (15) calendar days in writing to the Monitor. Any
+disputes between the Company and the Monitor with respect to the written work plan shall be
+
+decided by the Commission staff in its sole discretion. Following comments by the Company
+
+6
+and Commission staff, the Monitor will have fifteen (15) calendar days to make revisions to the
+
+follow up work plan.
+
+17. The Monitor shall commence the follow-up review pursuant to the work plan no
+later than ninety (90) calendar days after the issuance of the initial report, or applicable follow-up
+report, (unless otherwise agreed by the Company, the Monitor and the Commission staff). The
+Monitor shall issue its written follow-up report within one hundred-twenty (120) calendar days
+of commencing the follow-up review. The follow-up report shall set forth the Monitorâs
+assessment of, and any additional recommendations regarding, the Companyâs internal
+accounting controls and corporate compliance program as they relate to the Companyâs
+compliance with the anti-corruption laws; the Monitorâs assessment of the implementation by the
+Company of any recommendations made in the initial report, or follow-up report if applicable;
+and the Monitorâs assessment of the commitment of the Companyâs Board of Directors and
+senior management to compliance with the FCPA.
+
+18. Within ninety (90) calendar days after receiving the Monitorâs follow-up report,
+the Company shall adopt and implement all recommendations in the report, provided, however,
+that as to any recommendation that the Company considers unduly burdensome, impractical or
+costly, or inconsistent with applicable law or regulation, the Company need not adopt that
+recommendation at that time, but may submit in writing to the Monitor and the Commission staff
+within fifteen (15) days of receiving the report, an alternative policy, procedure, or system
+
+designed to achieve the same objective or purpose.
+19. In the event the Company and the Monitor are unable to agree on an acceptable
+alternative proposal within fifteen (15) days, the Company shall promptly consult with the
+Commission staff. Any disputes between the Company and the Monitor with respect to the
+recommendations shall be decided by the Commission staff in its sole discretion. The
+Commission staff may consider the Monitorâs recommendation and the Companyâs reasons for
+not adopting the recommendation in determining whether the Company has fully complied with
+its obligations. Pending such determination, the Company shall not be required to implement
+any contested recommendation(s). The Monitor shall repeat the process of Follow-Up Reviews
+until the terms in paragraph 21 (Certification of Compliance) or paragraphs 24-25 (Termination
+or Extension of Monitorship) are met.
+
+20. Throughout the Term of the Monitorship, the Monitor shall disclose to the
+Commission staff any credible evidence that corrupt or otherwise suspicious transactions
+occurred, or payments of things of value were offered, promised, made or authorized by any
+entity or person within the Company, or any entity or person working directly or indirectly for or
+on behalf of the Company, or that related false books and records may have been maintained by
+or on behalf of the Company. The Monitor shall contemporaneously notify the Companyâs
+General Counsel, Chief Compliance Officer, or Audit Committee for further action unless at the
+Monitorâs discretion he or she believes disclosure to the Company would be inappropriate under
+the circumstances. The Monitor shall address in his or her reports the appropriateness of the
+Companyâs response to all improper activities, whether previously disclosed to the Commission
+
+staff or not.
+Certification of Compliance
+
+21. At the conclusion of the ninety (90) calendar day period following the issuance of
+the second follow-up report, or later follow-up report if applicable, if the Monitor believes that
+the Companyâs compliance program is reasonably designed and implemented to detect and
+prevent violations of the anti-corruption laws and is functioning effectively, the Monitor shall
+certify the Companyâs compliance with its compliance obligations under the Order. The Monitor
+shall then submit to the Commission staff a written report (âCertification Reportâ) within sixty
+(60) calendar days. The Certification Report shall set forth an overview of the Companyâs
+remediation efforts to date, including the implementation status of the Monitorâs
+recommendations, and an assessment of the sustainability of the Companyâs remediation efforts.
+The Certification Report should also recommend the scope of the Companyâs future self-
+reporting. Also at the conclusion of the ninety (90) calendar day period following the issuance
+of the second follow-up report, the Company shall certify in writing to the Commission staff,
+with a copy to the Monitor, that the Company has adopted and implemented all of the Monitorâs
+recommendations in the initial and follow-up report(s), or the agreed-upon alternatives. The
+Monitor or the Company may extend the time period for issuance of the Certification Report or
+the Companyâs certification, respectively, with prior written approval of the Commission staff.
+
+Self-Reporting Period
+
+22. At such time as the Commission staff approves the Certification Report and the
+Companyâs certification, the monitorship shall be terminated, and the Company will be permitted
+to self-report to the Commission staff on its enhanced compliance obligations for the remainder
+
+of the term of the Order. The Commission staff, however, reserves the right to terminate the
+monitorship absent certification by the Monitor, upon a showing by the Company that
+termination is, nevertheless, in the interests of justice.
+
+23. If permitted to self-report to the Commission staff, the Company shall thereafter
+submit to the commission staff a written report after seven (7) months setting forth a complete
+description of its remediation efforts to date, its proposals to improve the Companyâs internal
+accounting controls, policies, and procedures for ensuring compliance with the anti-corruption
+laws, and the proposed scope of the subsequent reviews. The Company shall disclose any
+credible evidence that corrupt or otherwise suspicious transactions occurred, or payments of
+things of value were offered, promised, or provided to foreign officials, that it learns of that
+occurred after the date of this Consent. The Company may extend the time period for issuance
+of the self-report with prior written approval of the Commission staff.
+
+Termination or Extension of the Monitorship
+
+24. If at the conclusion of the ninety (90) calendar-day period following the issuance
+of the second follow-up report, or later follow-up report if applicable, the Commission staff
+concludes in its sole discretion that the Company has not by that time successfully satisfied its
+compliance obligations under the Order, the Term of the Monitorship shall be extended for nine
+(9) months. Under such circumstances, the Monitor shall commence the Follow-Up Reviews in
+accordance with Paragraphs 16-19.
+
+25. If at the conclusion of the thirty-six (36) month period the Commission staff
+concludes the Company has not met its obligations under the Order, the Commission staff in its
+
+sole discretion may extend the Monitorship or Self-Reporting requirements up to forty-eight (48)
+
+10
+months from the issuance of the Order, and require reporting as set forth for Follow-Up Reviews
+or Self-Reporting.
+Extensions of Time
+26. Upon request by the Monitor or the Company, the Commission staff may extend
+any procedural time period set forth above for good cause shown.
+Confidentiality of Reports
+27. The reports submitted by the Monitor and the periodic reviews and reports
+submitted by the Company will likely include confidential financial, proprietary, competitive
+business or commercial information. Public disclosure of the reports could discourage
+cooperation, impede pending or potential government investigations or undermine the objectives
+of the reporting requirement. For these reasons, among others, the reports and the contents
+thereof are intended to remain and shall remain non-public, except (1) pursuant to court order,
+(11) as agreed to by the parties in writing, (111) to the extent that the Commission determines in its
+sole discretion that disclosure would be in furtherance of the Commissionâs discharge of its
+duties and responsibilities, or (iv) is otherwise required by law.
+Address for All Written Communications and Reports
+28. All reports or other written communications by the Monitor or the Company
+directed to the Commission staff shall be transmitted to the Chief of the FCPA Unit and to Tracy
+L. Price, Assistant Director, Division of Enforcement, U.S. Securities and Exchange
+
+Commission, 100 F Street, N.E., Washington, DC. 20549.
+
+11

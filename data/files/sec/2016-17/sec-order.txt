@@ -1,0 +1,348 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 77005 / February 1, 2016
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3736 / February 1, 2016
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-17080
+
+ 
+
+ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS, PURSUANT
+TO SECTION 21C OF THE
+
+SAP SE, SECURITIES EXCHANGE ACT OF
+1934, MAKING FINDINGS, AND
+Respondent. IMPOSING A CEASE-AND-DESIST
+ORDER
+
+ 
+
+ 
+
+I.
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate that
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the
+Securities Exchange Act of 1934 (the âExchange Actâ) against SAP SE (âSAPâ or
+Respondentâ).
+
+II.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferâ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, Respondent admits the Commissionâs
+jurisdiction over it and the subject matter of these proceedings, and consents to the entry of this
+Order Instituting Cease-and-Desist Proceedings, Pursuant to Section 21C of the Securities
+Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order (the âOrderâ),
+as set forth below.
+
+Il.
+
+On the basis of this Order and Respondentâs Offer, the Commission findsâ that:
+
+ 
+
+' The findings herein are made pursuant to Respondentâs Offer of Settlement and are not binding on any
+
+other person or entity in this or any other proceeding.
+Summary
+
+1. This matter concerns violations of the books and records and internal controls
+provisions of the Foreign Corrupt Practices Act of 1977 (âFCPAâ) by SAP SE (âSAPâ), a
+European Union corporation headquartered in Waldorf, Germany. The violations occurred due
+to deficient internal controls, which allowed SAPâs former Vice-President of Global and
+Strategic Accounts, Vicente E. Garcia, to discount the software price to a former SAP local
+partner at a level sufficient to permit Garcia and the local partner to pay $145,000 in bribes to
+one senior Panamanian government official, and offer bribes to two others. Through these
+bribes, Garcia secured government sales contracts of approximately $3.7 million for SAP, and
+also self-profited through kickbacks. By excessively discounting the SAP software, Garcia
+created a slush fund that the partner used to pay the bribes and kickbacks. Garcia concealed his
+scheme from others at SAP, circumvented SAPâs internal controls, and justified the excessive
+discounts by falsifying SAPâs internal approval forms.
+
+2. The deep discounts that Garcia used to create the slush fund were falsely recorded
+as legitimate discounts on the books of SAPâs Mexican subsidiary, which were subsequently
+consolidated into SAPâs financial statements. In addition, SAP failed to devise and maintain an
+adequate system of internal accounting controls sufficient to provide reasonable assurances that
+these improper payments to government officials did not occur.
+
+Respondent
+
+3. SAP SE (âSAPâ) is a European Union corporation headquartered in Waldorf,
+Germany. SAPâs American Depository Shares are registered with the Commission pursuant to
+Section 12(b) of the Securities Act of 1933, and listed on the New York Stock Exchange. SAP
+markets its software all over the world through various country subsidiaries.
+
+Related Individual and Entities
+
+4. Vicente E. Garcia is a U.S. citizen residing in Miami, Florida. Garcia was SAPâs
+Vice-President of Global and Strategic Accounts, responsible for sales in Latin America for SAP
+from February 2008 until April 2014, when SAP terminated Garcia for his misconduct described
+herein.
+
+5. SAP International, Inc. (ââSAPIâ), a Miami, Florida-based wholly-owned
+subsidiary of SAP, is engaged in selling software in the Latin American and Caribbean markets.
+SAPI does not enter into direct or indirect software or software-related services deals with end
+customers. Instead, SAPI employs some of the members of the Latin America and Caribbean
+(âLACâ) regional leadership team and provides some back office operational support for some of
+the LAC regional subsidiaries. Garcia was on the payroll of SAPI.
+
+ 
+
+6. SAP Mexico S.A. de C.V. (âSAP Mexicoâ) is a Mexico City, Mexico-based
+wholly-owned subsidiary of SAP engaged in selling software in the Mexican and Central
+American markets. SAP Mexico is authorized by SAP to distribute, sell, license, and sublicense
+software directly and indirectly to end customers. Garcia negotiated the Panamanian contracts
+on behalf of SAP Mexico. SAP Mexicoâs financial statements are consolidated and reported in
+SAPâs financial statements.
+Facts
+
+A. Background
+
+7. SAP, through its 272 subsidiaries, sells software licenses and related services to
+263,000 customers in 188 countries. SAPâs global business is directed and operated from its
+headquarters in Waldorf, Germany and executed through its numerous subsidiaries. SAPâs
+business is conducted through a network of more than 11,500 partners worldwide that provide an
+additional workforce of 380,000 individuals skilled in SAP software solutions and technology.
+SAPâs sales using a local partner can be either (i) a direct sale to a customer with a sales
+commission paid to a partner that provides assistance, (11) an indirect sale through a partner that
+purchases the software license and resells it to a customer at an independently determined
+increased price, or (iii) a direct sale to the partner, which acts as a distributor and independently
+resells the software licenses to customers in the future.
+
+8. From 2008 to April 2014, Garcia served as SAPâs Vice-President of Global and
+Strategic Accounts and was responsible for sales in Latin America for SAP. Although Garcia
+was technically employed by SAPI, SAP presented him to customers as an SAP employee and
+his supervisors included employees of SAPI (from January 16, 2010 to April 10, 2014), SAPâs
+Brazilian subsidiary (from February 25, 2008 to January 15, 2010), and indirectly SAP
+(throughout the relevant time period).
+
+9. In June 2009, SAP conducted an internal investigation and found that Garcia
+violated its internal Code of Business Conduct when he invited an executive of Petroleos
+Mexicanos (âPEMEXââ), the Mexican national oil company, to an SAP marketing event at the
+Monaco Grand Prix. SAP did not find any attempt to improperly influence any government
+official in connection with the 2008 PEMEX sale. As a result of the internal investigation, SAP
+revised its policies prohibiting government officials or employees from attending any
+âhospitalityâ event, which it defined as any event where business constitutes less than 80% of the
+event.
+
+B. Garcia Bribed Government Officials in Panama to Obtain Business for SAP
+
+10. Garcia continued working for SAP, and from at least June 2009 to November
+2013, he along with others outside of SAP, planned and executed a bribery scheme in Panama, as
+described below.
+
+11. In June 2009, Garciaâs business associate, a Panamanian lobbyist (the
+âLobbyistâ), informed Garcia about potential software sales opportunities with the government
+of Panama and that he had an existing relationship with the newly elected government, including
+a high ranking Government Official A, who was tasked with improving technology solutions
+across multiple government agencies in Panama and had significant influence over Panamaâs
+software purchasing decisions. Around the same time, SAP independently began investigating
+possible software sales to the Panamanian government. Initially the overall SAP endeavor was
+led by local SAP sales employees in Mexico and Panama. Garcia, however, took over the
+business opportunity by recommending that SAP designate the Panama government as part of
+the Premier Customer Network â a group of large, strategically important, regional customers â
+that Garcia headed.
+
+12. Garcia and others outside of SAP were informed by the Lobbyist that in order to
+obtain contracts from the government of Panama, they needed to bribe three Panamanian
+government officials that had significant influence in the Panamanian governmentâs award of
+contracts to purchase software.
+
+13. In anticipation of the sales to the government of Panama, Garcia and others
+outside of SAP began planning the details of the bribery scheme. On June 9 and 10, 2010,
+Garcia discussed with others, including via personal e-mail, their plans to pay bribes to
+Government Official A (2% of the value of the contract) and Government Official B (10%), and
+receive kickbacks for themselves (2%). Also, on October 26, 2010, e-mails were exchanged
+with two attached spreadsheets referencing planned payments to Government Officials A and C
+of approximately $100,000 and $300,000, respectively.
+
+14. One of the four contracts was a software license sale to the Panamanian social
+security agency, which was initially proposed to be a direct sale with the assistance of local
+partners. In order to facilitate the bribery scheme, the existing partners were replaced with a new
+local Panamanian partner. This last-minute change, and other red flags, triggered an SAP
+compliance review which resulted in SAP rejecting Garciaâs request to pay a commission to the
+local partner. Therefore, Garcia and others began looking for other ways to advance the bribery
+scheme. Finally, in the fall of 2010, Garcia finalized an indirect sale of the software license to
+the agency through the local partner, who, with Garciaâs assistance, ultimately sought and
+obtained an 82% discount on SAPâs sale price to the local partner. Garcia caused various
+approval forms to be submitted that misstated the reasons for the large discount. Garcia stated
+that the discounts were necessary to compete with other software companies in establishing a
+relationship with the government of Panama when, in fact, the discounts were necessary to fund
+and pay bribes to government officials. Garcia and others planned to sell SAP software to the
+local partner at an 82% discount, who in turn would sell the software at significantly higher
+prices to the Panamanian government and use part of the profits from the sale to pay bribes.
+
+15. Garcia, as a senior vice-president of SAP responsible for sales in Latin America,
+used his knowledge of the availability of discounts to push through large discounts in order to
+create a slush fund from which the local partner was able to pay the bribes. SAP routinely
+provides large discounts to local partners for legitimate reasons that Garcia used to justify the
+illegitimate discounts. Once Garcia obtained approval of the discounts based on his falsified
+justification forms, the bribes were then paid from the local partner.
+
+16. SAP agreed to sell the software licenses for the Panamanian social security
+agency to the local partner for approximately $2.1 million, an 82% discount. In November 2010,
+the local partner successfully bid $14.5 million for a contract, which included SAP software. On
+January 31, 2011, the Panamanian government awarded the contract to the local partner. Garcia,
+along with others, planned to pay bribes to Panamanian government officials from the proceeds
+of the software sale to the government of Panama.
+17. Thereafter, between June 2012 and December 2013, the Panamanian government
+awarded three additional contracts that included SAP software products valued at approximately
+$13.5 million, which were also sold at deep discounts by SAP to its local partner. For these
+contracts also, Garcia and others outside of SAP agreed to pay bribes to Panamanian officials
+from the proceeds of the software sales.
+
+18. As aresult of Garciaâs conduct in the bribery scheme, SAP, with its local partner,
+was able to sell software to the Panamanian government through four contracts from 2010 to
+2013. These contracts generated revenues of approximately $3.7 million to SAP.
+
+19. The deep discounts that Garcia used to create the slush fund were falsely recorded
+as legitimate discounts on the books of SAP Mexico, which were subsequently consolidated into
+SAPâs financial statements.
+
+SAPâs Insufficient Internal Controls
+
+20. SAP lacked adequate internal controls to ensure that discounts to local partners
+were not improperly used. SAPâs system required employees to electronically submit requests
+within SAP to obtain approval of discounts to local partners. SAP employees, however, had
+wide latitude in seeking and approving discounts to local partners, and employeesâ explanations
+for the discounts were accepted without verification. There were also no requirements for
+heightened anti-corruption scrutiny for large discounts. Garcia was therefore able to evade the
+basic approval procedures by taking advantage of his position and his knowledge of how
+discounts were approved. Furthermore, the nature of Garciaâs reporting structure made it easy
+for him to implement the bribery scheme. Although Garcia was located in Miami and employed
+by SAPI, he variously reported to supervisors employed by other regional subsidiaries and used
+employees from other subsidiaries such as SAP Mexico to execute the sales to the Panamanian
+government. This indirect reporting structure at SAP created gaps in supervising Garcia that
+provided him the opportunity to use the large discounts for creating a slush fund for bribes.
+Because of the deficient controls, Garcia was able to provide the partner with deep enough
+discounts to enable him to implement the bribery scheme, which continued unabated for over
+four years.
+
+SAPâs Cooperation and Remediation
+
+21. | When SAP learned of the conduct as a result of the SECâs inquiry, SAP
+conducted a thorough internal investigation and extensively cooperated with the SECâs
+investigation by, among other things: (1) conducting an internal investigation; (11) voluntarily
+producing approximately 500,000 pages of documents and other information quickly, identifying
+significant documents and translating documents from Spanish; (111) conducting witness
+interviews, sharing Power-Point presentations and timelines; (iv) facilitating an interview of
+Garcia at work at SAPI offices in Miami without alerting him to the investigation into his
+conduct; and (v) initiating a third party audit of the local partner.
+
+22. After being alerted to Garciaâs misconduct, SAP terminated Garcia and undertook
+remediation efforts to uncover any other possible misconduct and to improve its FCPA
+compliance. Specifically, SAP audited all recent public sector Latin American transactions,
+
+5
+regardless of Garciaâs involvement, to analyze partner profit margin data especially in
+comparison to discounts so that any trends could be spotted and high profit margin transactions
+could be identified for further investigation and audit. SAP also implemented new policies and
+procedures to detect and prevent similar issues from recurring in the future. For example, SAP
+elevated the status of its Chief Compliance Officer (âCCOâ) by having that person now report
+directly to the CFO, who is a member of the Executive Board, and gave the CCO authority to
+independently terminate employees and partner contracts. SAP conducted, and continues to
+conduct, regular anti-corruption training, as well as anti-corruption audits through its internal
+audit function.
+
+23. In determining to accept the Offer, the Commission considered remedial acts
+undertaken by Respondent and cooperation afforded the Commission staff.
+
+Legal Standards and Violations
+
+24. Section 13(b)(2)(A) of the Exchange Act requires every issuer with a class of
+securities registered pursuant to Section 12 of the Exchange Act âto make and keep books,
+records, and accounts, which, in reasonable detail, accurately and fairly reflect the transactions
+and dispositions of the assets of the issuer.â
+
+25. Section 13(b)(2)(B) of the Exchange Act requires every issuer with a class of
+securities registered pursuant to Section 12 of the Exchange Act to devise and maintain a system
+of internal accounting controls sufficient to provide reasonable assurances that, among other
+things, transactions are executed in accordance with managementâs general or specific
+authorization; transactions are recorded as necessary to permit preparation of financial
+statements in conformity with generally accepted accounting principles or any other applicable
+criteria; transactions are recorded as necessary to maintain accountability for assets; and access
+to assets is permitted only in accordance with managementâs general or specific authorization.
+
+26. As aresult of the conduct described above, the discounts used to fund the bribe
+payments were misrecorded in SAP Mexicoâs books and records as legitimate discounts to a
+local partner. SAP Mexicoâs books and records were consolidated into SAPâs books and
+records. Based on the foregoing, SAP violated Section 13(b)(2)(A) of the Exchange Act.
+
+27. SAP also violated Section 13(b)(2)(B) of the Exchange Act by failing to devise
+and maintain an adequate system of internal accounting controls relating to approving and
+granting discounts to local partners. As described herein, SAP lacked effective internal controls
+sufficient to provide reasonable assurances that discounts provided to local partners were not
+being used to pay bribes.
+
+Findings
+
+28. Based on the foregoing, the Commission finds that SAP violated Sections
+13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act.
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent SAPâs Offer.
+
+Accordingly, it is hereby ORDERED, effective immediately, that:
+
+A. Pursuant to Section 21C of the Exchange Act, Respondent SAP cease and desist
+from committing or causing any violations and any future violations of Sections 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act.
+
+B. Respondent shall pay disgorgement of $3,700,000, representing ill-gotten gains
+received in connection with the bribery scheme, and prejudgment interest of $188,896 to the
+Securities and Exchange Commission for transfer to the general fund of the United States
+Treasury subject to Exchange Act Section 21F(g)(3). Payment shall be made within ten (10)
+days of the date of this Order. If timely payment is not made, additional interest shall accrue
+pursuant to SEC Rule of Practice 600.
+
+Payments must be made in one of the following ways:
+
+(1) Respondent may transmit payment electronically to the Commission, which shall
+provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov through
+the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United States
+postal money order, payable to the Securities and Exchange Commission and hand-delivered or
+mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying SAP as
+the Respondent in these proceedings, and the file number of these proceedings; a copy of the
+cover letter and check or money order must be sent to Alka N. Patel, Assistant Regional
+Director, Division of Enforcement, U.S. Securities and Exchange Commission, 444 South
+Flower Street, Suite 900, Los Angeles, California 90071.
+
+C. Respondent acknowledges that the Commission is not imposing a civil penalty
+based upon its cooperation in a Commission investigation and related enforcement action. If at
+any time following the entry of the Order, the Division of Enforcement (âDivisionâ) obtains
+information indicating that Respondent knowingly provided materially false or misleading
+information or materials to the Commission, or in a related proceeding, the Division may, at its
+sole discretion and with prior notice to the Respondent, petition the Commission to reopen this
+matter and seek an order directing that the Respondent pay a civil money penalty. Respondent
+may contest by way of defense in any resulting administrative proceeding whether it knowingly
+provided materially false or misleading information, but may not: (1) contest the findings in the
+Order; or (2) assert any defense to liability or remedy, including, but not limited to, any statute of
+limitations defense.
+
+By the Commission.
+
+Brent J. Fields
+Secretary

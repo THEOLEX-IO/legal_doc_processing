@@ -1,0 +1,306 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 73835 / December 15, 2014
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3611 / December 15, 2014
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-16314
+
+ 
+
+ 
+
+ 
+
+ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+SECTION 21C OF THE SECURITIES
+BRUKER CORPORATION, EXCHANGE ACT OF 1934, MAKING
+FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+I,
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (âExchange Actâ), against Bruker Corporation (âBrukerâ or âRespondentâ).
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferâ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commissionâs jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (âOrderââ), as set forth below.
+
+Hil.
+
+On the basis of this Order and Respondentâs Offer, the Commission finds' that:
+
+ 
+
+' The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding
+on any other person or entity in this or any other proceeding.
+Summary
+
+1. This matter concerns violations of the books and records and internal controls
+provisions of the Foreign Corrupt Practices Act (âFCPAâ) by Bruker. The violations took place
+from at least 2005 through 2011 and occurred throughout Brukerâs China operations. Employees
+of the China offices of four Bruker subsidiaries (collectively, the âBruker China Officesâ) made
+unlawful payments of approximately $230,938 to government officials (âChinese government
+officialsâ) who were employed by state owned entities (âSOEsâ) in China that were Bruker
+customers. These payments were made to obtain or retain business from the SOEs for the Bruker
+China Offices. Specifically, all of the Bruker China Offices provided non-business related travel to
+Chinese government officials, and one Bruker China Office also paid Chinese government officials
+under âresearch cooperationâ ventures and âcollaborationâ agreements (collectively, the
+âCollaboration Agreementsâ) for which there was no legitimate business purpose. Bruker realized
+approximately $1.7 million in profits from sales contracts with SOEs whose officials received the
+improper payments.
+
+2. The payments to the Chinese government officials were recorded as legitimate
+business and marketing expenses in the Bruker China Officesâ books and records, when in fact
+they were improper payments designed to personally benefit the officials. The Bruker China
+Officesâ books and records were consolidated into Brukerâs books and records, thereby causing
+Brukerâs books and records to be inaccurate. Bruker failed to devise and maintain an adequate
+system of internal accounting controls sufficient to prevent and detect the improper payments that
+occurred over several years.
+
+Respondent
+
+3. Bruker Corporation is a Delaware corporation with its headquarters in Billerica,
+Massachusetts. Bruker designs, manufactures, and markets analytical tools and life science and
+materials research systems (e.g., infrared spectrometers and microscopes) and maintains operations
+in North America, Europe, and China. Bruker manages its China operations through the Shanghai
+and Beijing representative offices of the Asia-based subsidiaries of four Bruker divisions: Bruker
+Optics, Bruker BioSpin, Bruker Daltonics, and Bruker Materials (formerly Bruker AXS). Brukerâs
+common stock is registered with the Commission pursuant to Section 12(g) of the Exchange Act
+and is listed on the NASDAQ Global Select Market (ticker: BRKR).
+
+Facts
+
+A. The Bruker China Offices Improperly Funded
+Leisure Travel for Chinese Government Officials
+
+4. The Bruker China Offices funded leisure travel for Chinese government officials to
+visit the United States, the Czech Republic, Norway, Sweden, France, Germany, Switzerland and
+Italy. These leisure trips typically followed business-related travel funded by the Bruker China
+Offices. The Chinese government officials who went on the trips often authorized the purchase of
+
+2
+products from the Bruker China Offices. For example, during 2006, as part of a sales contract with
+an SOE, a Bruker China Office paid for purported training expenses for a Chinese government
+official (who signed the sales contract on behalf of the SOE). In fact, the payment included
+reimbursement for sightseeing, tour tickets, shopping and other leisure activities in Frankfurt and
+Paris. Also, in 2007, a Bruker China Office paid for three Chinese government officials to visit
+Sweden for a conference, but included as part of the travel, several days of sightseeing in Sweden,
+Finland, and Norway.
+
+5. The Bruker China Offices also funded certain trips for Chinese government
+officials that had no legitimate business component. For example, during 2009, a Bruker China
+Office paid for two Chinese government officials to travel to New York, despite the lack of any
+Bruker facilities there, and to Los Angeles, where they engaged in sightseeing activities. Also
+during 2009, a Bruker China Office paid for three Chinese government officials to visit
+destinations in Europe for sightseeing. In another instance, during 2010, a Bruker China Office
+paid for three Chinese government officials to visit Frankfurt, Heidelberg, Stuttgart, and Munich,
+in Germany, as well as Salzburg, Liz, Innsbruck, Graz, and Vienna, in Austria. And in 2011, a
+Bruker China Office paid for Chinese government officials from seven SOEs to go on sightseeing
+visits to Europe, including Austria, France, Switzerland, Italy, and the Czech Republic. In certain
+cases, the Chinese government officials who went on these trips were involved in purchasing
+products from the Bruker China Offices.
+
+6. Overall, from 2005 through 2011, the Bruker China Offices paid approximately
+$119,710 to fund 17 trips for Chinese government officials that were for the most part not related
+to any legitimate business purpose. These trips were recorded in Brukerâs books and records as
+business expenses, without any indication that they were primarily for sightseeing and other non-
+business related activities. Bruker improperly profited by $1,131,740 from contracts obtained from
+the SOEs whose officials participated on these trips.
+
+B. A Bruker China Office Improperly Funneled Payments to Officials of
+SOEs Under the Guise of Collaboration and Research Agreements
+
+7. From 2008 through 2011, a Bruker China Office paid $111,228 to Chinese
+government officials pursuant to 12 suspect Collaboration Agreements. Generally, under these
+Collaboration Agreements, the SOEs had to provide research on Bruker products, or had to use
+Bruker products in demonstration laboratories. However, the Collaboration Agreements did not
+specify the work product that the SOEs had to provide to be paid, and no work product was in fact
+provided to the Bruker China Office by the SOEs. Also, certain Collaboration Agreements were
+executed directly with a Chinese government official, rather than the SOE itself; in some cases, the
+Bruker China Office paid the Chinese government official directly. And at times, the Chinese
+government officials who signed the Collaboration Agreements or obtained payments under the
+Agreements were involved in purchasing products from the Bruker China Office. Bruker profited
+by approximately $583,112 from contracts improperly obtained from the SOEs whose officials
+received payments under the Collaboration Agreements.
+C. Bruker Failed to Implement an Adequate Internal Controls System
+
+8. From at least 2005 through 2011, Bruker failed to implement an adequate internal
+controls system to address the potential FCPA problems posed by its ownership of the Bruker
+China Offices, which sold their products primarily to SOEs. For example, Bruker did not translate
+its training presentations on FCPA, ethics, or compliance issues into local languages, including
+Mandarin. And although Bruker implemented an FCPA policy in 2006, it failed to translate that
+policy into Mandarin and relied mainly on its China-based managers to ensure that employees
+understood the potential FCPA implications of doing business with SOEs. Also, while Bruker
+periodically distributed its Code of Conduct (containing its gifts and entertainment policies) and
+employee handbook to employees worldwide, it again failed to translate these documents into local
+languages, including Chinese. Likewise, Brukerâs toll free employee hotline, which employees
+were to use to report complaints anonymously, was not provided in Mandarin, limiting its efficacy.
+
+9. Bruker also failed to adequately monitor and supervise the senior executives at the
+Bruker China Offices to ensure that they enforced anti-corruption policies or kept accurate records
+concerning payments to Chinese government officials. The Bruker China Offices had no
+independent compliance staff or an internal audit function that had authority to intervene into
+management decisions and, if appropriate, take remedial actions. Bruker also failed to tailor its
+preapproval processes for conditions in China, instead allowing the Bruker China Offices approval
+over items such as nonemployee travel and changes to contracts. As a result, senior employees of
+the Bruker China Offices had unsupervised control over the compliance process; these employees
+in turn abused their privileges, approving suspect payments to Chinese government officials for
+non-business related travel and for purported Collaboration Agreements.
+
+D. Discovery, Internal Investigation, and Self-Reporting
+
+10. Bruker discovered the improper payments to Chinese government officials during
+2011 while investigating the misappropriation of company funds by certain employees of a Bruker
+China Office. Upon learning about these payments, Brukerâs board of directors promptly initiated
+an investigation, with the assistance of independent outside counsel and an independent forensic
+consulting firm. Bruker self-reported the preliminary results of its internal investigation to both the
+staff of the Commission and to the Department of Justice. Thereafter, Bruker, on its own initiative,
+undertook a broad review of the China operations of its other divisions. To the extent this internal
+review identified additional issues of concern, Bruker fully shared its findings with the staff.
+
+11. As part of its internal review and investigation, Bruker promptly undertook
+significant remedial measures including terminating the senior staff at each of the Bruker China
+Offices. Bruker also revised its pre-existing compliance program, updated and enhanced its
+financial accounting controls and its compliance protocols and policies, and implemented those
+enhancements in China, and thereafter around the world. These steps included: (1) instituting pre-
+approval processes for nonemployee travel and significant changes to contracts; (2) establishing a
+new internal audit function and hiring a new director of internal audit who is charged with
+oversight over Brukerâs global compliance program, including FCPA compliance; (3) adopting an
+
+4
+amended FCPA policy translated into local languages; (4) implementing an enhanced FCPA
+training program, which includes training programs in local languages as well as mandatory online
+employee training programs regarding ethics and FCPA compliance; (5) enhancing due diligence
+procedures for third-parties; and (6) implementing a new global whistleblower hotline.
+
+12. Throughout the process, Bruker provided extensive, thorough, and real-time
+cooperation with the Commission. In addition to self-reporting to the Commission shortly after
+discovering the FCPA violations, Bruker voluntarily provided the Commission with real-time
+reports of its investigative findings; shared its analysis of important documents and summaries of
+witness interviews; expanded the scope of the investigation at the Commissionâs request; and
+responded to the Commissionâs requests for documents and information in a timely manner. These
+actions assisted the Commission in efficiently collecting valuable evidence, including information
+that may not have been otherwise available to the staff.
+
+Legal Standards and Violations
+
+A. Legal Standards
+
+13. Under Section 21C(a) of the Exchange Act, the Commission may impose a cease-
+and-desist order upon any person who is violating, has violated, or is about to violate any provision
+of the Exchange Act or any regulation thereunder, and upon any other person that is, was, or would
+be a cause of the violation, due to an act or omission the person knew or should have known would
+contribute to such violation.
+
+14. The FCPA, enacted in 1977, added Section 13(b)(2)(A) to the Exchange Act to
+require reporting companies to make and keep books, records, and accounts, which, in reasonable
+detail, accurately and fairly reflect the transactions and disposition of the assets of the issuer. 15
+U.S.C. Â§ 78m(b)(2)(A).
+
+15. The FCPA also added Section 13(b)(2)(B) to the Exchange Act to require reporting
+companies to, among other things, devise and maintain a system of internal accounting controls
+sufficient to provide reasonable assurances that the transactions: (1) are executed in accordance
+with managementâs general or specific authorization; and (11) are recorded as necessary to permit
+preparation of financial statements in conformity with generally accepted accounting principles
+
+(âGAAPâ) or any other criteria applicable to such statements, and to maintain accountability for
+assets. 15 U.S.C. Â§ 78m(b)(2)(B).
+
+B. Bruker Violated Section 13(b)(2) of the Exchange Act
+
+16. The Bruker China Offices made payments to Chinese government officials that
+they improperly recorded on their books and records as legitimate business and marketing
+expenses. The books and records of the Bruker China Offices were consolidated into Brukerâs
+books and records. As a result of the misconduct of its subsidiaries, Bruker failed to make and
+keep books, records, and accounts which, in reasonable detail, accurately and fairly reflected its
+
+5
+transactions and the disposition of its assets as required by Section 13(b)(2)(A) of the Exchange
+Act.
+
+17. The improper payments described above took place over several years and
+throughout Brukerâs China operations. Bruker failed to implement an adequate system of internal
+controls, including an appropriate FCPA compliance and training program at its Bruker China
+Offices, which was commensurate with the risks of doing business in China, and particularly the
+risks of businesses that sold products primarily to SOEs. Accordingly, in violation of Section
+13(b)(2)(B) of the Exchange Act, Bruker failed to devise and maintain a system of internal
+accounting controls sufficient to provide reasonable assurances that it maintained accountability
+for its assets, and that its transactions were executed in accordance with managementâs
+authorization and recorded as necessary to permit the preparation of financial statements in
+conformity with GAAP.
+
+Commission Consideration of Brukerâs Cooperation and Remedial Efforts
+
+18. In determining to accept the Offer, the Commission considered remedial acts
+promptly undertaken by Bruker and the significant cooperation it afforded to the Commission staff.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent Brukerâs Offer.
+
+Accordingly, it is hereby ORDERED that:
+
+A. Pursuant to Section 21C of the Exchange Act, Respondent Bruker cease and desist
+from committing or causing any violations and any future violations of Sections 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act.
+
+B. Respondent shall, within ten (10) days of the entry of this Order, pay $2,399,969 to
+the United States Treasury, including $1,714,852 in disgorgement, $310,117 in prejudgment
+interest, and a civil monetary penalty of $375,000. If timely payment is not made, additional
+interest shall accrue pursuant to SEC Rule of Practice 600 and 31 U.S.C. Â§ 3717. Payment must be
+made in one of the following ways:
+
+(1) Respondent may transmit payment electronically to the Commission, which will
+provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov through
+the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+(3) Respondent may pay by certified check, bank cashierâs check, or United States postal
+money order, made payable to the Securities and Exchange Commission and hand-
+delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying
+Bruker as a Respondent in these proceedings, and the file number of these proceedings; a copy of
+the cover letter and check or money order must be sent to Paul G. Block, Assistant Director,
+Foreign Corrupt Practices Act Unit, Boston Regional Office, Securities and Exchange
+Commission, 33 Arch Street, Suite 2300, Boston, Massachusetts 02110.
+
+C. Respondent acknowledges that the Commission is not imposing a civil penalty in
+excess of $375,000 based upon its cooperation in a Commission investigation and related
+enforcement action. If at any time following the entry of the Order, the Division of Enforcement
+(âDivisionâ) obtains information indicating that Respondent knowingly provided materially false
+or misleading information or materials to the Commission or in a related proceeding, the Division
+may, at its sole discretion and with prior notice to the Respondent, petition the Commission to
+reopen this matter and seek an order directing that the Respondent pay an additional civil penalty.
+Respondent may contest by way of defense in any resulting administrative proceeding whether it
+knowingly provided materially false or misleading information, but may not: (1) contest the
+findings in the Order; or (2) assert any defense to liability or remedy, including, but not limited to,
+any statute of limitations defense.
+
+By the Commission.
+
+Brent J. Fields
+Secretary

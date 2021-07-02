@@ -1,0 +1,537 @@
+ 
+
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+ 
+
+Office of Proceedings
+Proceedings Clerk
+
+\ 3:56 pm, Sep 08, 2015 /
+
+In the Matter of:
+
+ 
+
+ 
+
+Forex Capital Markets, LLC,
+CFTC Docket No. 15 â28
+Respondent.
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTIONS 6(c) and 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+
+I.
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+from April 1, 2013, to July 10, 2013 (the âRelevant Periodâ), Forex Capital Markets, LLC
+(âRespondentâ) violated Sections 4g and 6(c) of the Commodity Exchange Act (the âActââ) and
+Commission Regulations (âRegulationsâ). Therefore, the Commission deems it appropriate and
+in the public interest that public administrative proceedings be, and hereby are, instituted to
+determine whether Respondent has engaged in the violations as set forth herein and to determine
+whether any order should be issued imposing remedial sanctions.
+
+IL.
+
+In anticipation of the institution of this administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
+Commodity Exchange Act, Making Findings and Imposing Remedial! Sanctions (âOrderâ) and
+acknowledges service of this Order.!
+
+ 
+
+Respondent consents to the entry of this Order, and the use of these findings in this
+proceeding and in any other proceeding brought by the Commission or to which the Commission
+is a party provided, however, that Respondent does not consent to the use of the Offer, or the
+findings or conclusions consented to in this Order, as the sole basis for any other proceeding
+brought by the Commission, other than in a proceeding in bankruptcy or to enforce the terms of
+this Order, Nor does Respondent consent to the use of the Offer or this Order, or the findings or
+conclusions consented to in the Offer or this Order, by any other party in any other proceeding.
+
+ 
+Ii.
+The Commission finds the following:
+A. | SUMMARY
+
+During the Relevant Period Respondent failed to diligently supervise certain of its
+officersâ, employeesâ, and agentsâ handling of accounts held at Respondent in the name of a
+fraudulent foreign currency exchange (âforexâ) pool, Revelation Forex Fund, LP (âRFFâ), in
+violation of Regulation 166.3, 17 C.F.R. Â§ 166.3 (2014). Specifically, Respondentâs officers,
+employees, and agents failed to follow Respondentâs compliance procedures by: (1) failing to
+provide adequate oversight of RFFâs accounts; and (2) failing to notify appropriate authorities of
+certain activities associated with those accounts. Ultimately, RFF suffered a multi-million dollar
+loss as a result of the fraud perpetrated by the operators of RFF, Kevin G. White (âWhiteâ), RFF
+GP, LLC, and KGW Capital Management, LLC (collectively, the âWhite Entitiesâ).â
+
+Further, during the Division of Enforcementâs (âDivisionâ) investigation of RFF,
+Respondent failed to respond fully to a Commission document request in violation of Section 4g
+of the Act, 7 U.S.C. Â§ 6g 2012), and Regulations 1.31 and 1.35, 17 C.F.R. Â§Â§ 1.31 and 1.35
+(2014). Respondentâs violation of Section 4g of the Act also violated a previous Commission
+order in violation of Section 6(c) of the Act, 7 U.S.C. Â§ 9 (2012).
+
+| i&B. RESPONDENT
+
+Forex Capital Markets, LLC is a registered futures commission merchant (âFCMâ) and
+Retail Foreign Exchange Dealer headquartered at 55 Water Street, 50th Floor, New York, NY.
+
+C, FACTS
+
+1. The Commission Brought a Fraud Action Against White and the White
+Entities, and White Was Also Prosecuted Criminally
+
+On July 9, 2013, the Commission filed a complaint in the U.S. District Court for the
+Eastern District of Texas (âComplaintâ) that charged White and the White Entities with
+fraudulently soliciting approximately $7.4 million from over 20 participants in a forex pooled
+investment vehicle and purported hedge fund, RFF, as well as misappropriating approximately
+$1.7 million of pool participantsâ funds in violation of Sections 4b(a)(2)(A) and (C) and 40(1)(A)
+and (B) of the Act, 7 U.S.C. Â§Â§ 6b(a)(2)(A) and (C) and 40(1)(A) and (B) (2012), CFTC v. RFF
+GP, LLC et al., No. 4:13-cv-382-RAS-DDB (E.D., Tex.). Specifically, the Complaint alleged
+that while acting as the controlling person of the White Entities, which operated the RFF pool,
+White misrepresented RFFâs profitability through solicitations showing highly exaggerated
+annual returns and growth rates for RFF, when in actuality, RFF was unprofitable. The
+Complaint further alleged that White misrepresented his investment experience and
+
+ 
+
+? The RFF accounts generated $143,922.50 to Respondent in commissions and fees during
+
+the period in which Respondent serviced them â July 2011 through July 2013.
+
+ 
+misappropriated funds for personal use.â Subsequently, the U.S. Attorney for the Eastern
+District of Texas charged White with mail fraud. United States v. White, No. 4:13-cr-00258-
+RAS-DDB (E.D. Tex.). White pled guilty to the criminal charge and was subsequently
+sentenced to eight years in prison."
+
+2. Respondent Failed to Supervise Diligently The Handling of RFFâs
+Accounts by Its Officers, Employees, and Agents
+
+Respondentâs compliance procedures require that Respondent âknow all of its customersâ
+and that its employees with the potential to do so identify, and promptly report to appropriate
+authorities, suspicious activities. During the Relevant Period, Respondentâs Account Services
+Team (âAccount Services Teamâ), which handled the RFF account, and Respondentâs
+Compliance Department (âComplianceâ) failed to follow Respondentâs compliance procedures
+by failing to identify certain suspicious activities by White and by failing to promptly report
+these activities to appropriate authorities.
+
+White posted false claims of RFFâs profitable performance on two websites that he
+controlled, www.revelationforex.com and www.kgweapital.com (collectively, âwebsitesâ).
+During the Relevant Period, Compliance reviewed these websites on at least three occasions yet
+failed to identify or report Whiteâs false claims of RFFâs profitable performance. Further, during
+the Relevant Period, Compliance failed to identify or report that Whiteâs operation of the
+websites on behalf of the White Entities violated their exemption from registering as a
+commodity pool operator, for which White previously filed a notice pursuant to Regulation
+4,.13(a)(3), 17 C.F.R. Â§ 4.13(a)(3) (2014). Compliance failed to flag during the Relevant Period
+that while operating the RFF pool under this exemption, White was proscribed from advertising
+in connection with the pool by Regulation 4.13(a)(3), 17 C.F.R. Â§ 4.13(a)(3) (2014).
+
+During the Relevant Period, Compliance also became aware of statements posted in an
+online forex trading forum alleging that White made several fraudulent claims regarding RFFâs
+profitability ata Las Vegas tradeshow event, the âMoneyShow.â However, Compliance failed to
+investigate or report these statements to appropriate authorities,
+
+Finally, during the Relevant Period, the Account Services Team and Compliance failed to
+identify or report that the margin requirements and net notional value of RFFâs positions
+regularly far exceeded those permissible under Whiteâs claimed exemption for operating the RFF
+pool under Regulation 4.13(a)(3),
+
+ 
+
+; As the controlling person of the White Entities, White was responsible for the operation
+
+of the RFF pool and was Respondentâs sole point of contact relative to RFF,
+
+4 On March 30, 2015, the court in the Commissionâs case against White and the White
+
+Entities entered a Consent Order for permanent injunction against defendants. The Consent
+Order ordered them to pay a $4,150,000 civil monetary penalty and $3,365,888 in restitution. It
+also imposed permanent registration and trading bans.
+
+ 
+3. Respondentâs failure to respond fully to a Commission document request
+
+On April 10, 2013, the Division sent a request for documents to Respondent pursuant to
+Section 4g of the Act (âSection 4g requestâ) seeking, among other documents, all emails
+between Respondent and White. Respondent responded to the Section 4g request on April 12,
+2013, and later supplemented its response. Certain emails between Respondent and White
+inadvertently were omitted from those responses, On February 11, 2014, Respondent produced
+all of the inadvertently omitted emails in response to a Division subpoena duces tecum.
+
+4. Respondentâs failure to comply with a previous Commission order
+
+On October 3, 2011, the Commission ordered Respondent to cease and desist from
+violating Section 4g and Regulation 1.35 due to Respondentâs previous failure to promptly
+produce documents in response to a Commission document request. See In re Forex Capital
+Markets, LLC, [2012-2013 Transfer Binder] Comm. Fut. L. Rep. (CCH) 4 32,658 (CFTC Oct. 3,
+2011) âOctober 3, 2011 Orderâ), As discussed above, Respondent subsequently failed to
+respond fully to a Commission document request.
+
+IV. LEGAL DISCUSSION
+
+A, Respondent Failed to Supervise Diligently Its Officers, Employees, and
+Agents Responsible for Handling RFFâs Accounts
+
+Regulation 166.3, 17 C.F.R. Â§ 166.3 (2014), requires that every Commission registrant
+(except associated persons who have no supervisory duties) diligently supervise the handling by
+its officers, employees, and agents of all activities relating to its business as a registrant.
+Regulation 166.3 imposes upon registrants an affirmative duty to diligently supervise their
+employees and agents by establishing, implementing, and executing an adequate supervisory
+structure and compliance programs. In order to prove a violation of Regulation 166.3, the
+Commission must demonstrate that either: (1) the registrantâs supervisory system was generally
+inadequate; or (2) the registrant failed to perform its supervisory duties diligently. See In re
+Murlas Commodities, Inc., [1994-1996 Transfer Binder] Comm. Fut. L. Rep. (CCH) { 26,485, at
+43,161 (CFTC Sept. 1, 1995); In re Paragon Futures Assoc., [1990-1992 Transfer Binder]
+Comm. Fut. L. Rep. (CCH) Â¥ 25,266, at 38,850 (CFTC Apr. 1, 1992), Evidence of violations
+that âshould be detected by a diligent system of supervision, either because of the nature of the
+violations or because the violations have occurred repeatedlyâ is probative of a failure to
+supervise. Paragon Futures, Comm, Fut. L. Rep. (CCH) J 25,266, at 38,850.
+
+As discussed above, Respondentâs lack of diligence in administering its supervisory
+system during the Relevant Period caused Respondentâs violations of its compliance procedures,
+By such acts, Respondent violated Regulation 166,3, 17 C.F.R. Â§ 166.3 (2014).
+
+B. Respondent Failed to Respond Fully to a Commission Document Request
+
+Section 4g of the Act, 7 U.S.C. Â§ 6g (2012), requires FCMs, among other registrants, to
+maintain books and records pertaining to certain âtransactions and positions in such form and
+manner and for such period as may be required by the Commissionâ and to âkeep such books
+
+ 
+and records open to inspection by any representative of the Commission.â The Regulations
+further elaborate that FCMs, among other registrants, must promptly provide required books and
+records to a Commission representative upon the representativeâs request. Regulations 1.31 and
+1.35, 17 C.F.R. Â§Â§ 1.31 and 1.35 (2014); see also Forex Capital Markets, LLC, Comm. Fut. L.
+Rep. (CCH) { 32,658 (CFTC Oct. 3, 2011) (holding that Respondent violated Section 4g of the
+Act and Regulation 1.35 by failing to produce promptly certain records sought in 4g requests).
+A violation of these record-keeping regulations does not require scienter. See In re DiPlacido,
+[2003-2004 Transfer Binder] Comm. Fut. L. Rep. 4 29,866, at 56,590 (CFTC Sept. 14, 2004);
+see also Inre GNP Commodities Inc., [1990-1992 Transfer Binder] Comm. Fut. L. Rep. (CCH)
+{ 25,360, at 39,214 (CFTC Aug. 11, 1992); In re Buckwalter, [1990-1992 Transfer Binder]
+Comm. Fut. L. Rep. (CCH) 4 24,995, at 37,687 (CFTC Jan. 25, 1991),
+
+The facts surrounding Respondentâs production of documents show that Respondent
+violated Section 4g of the Act, 7 U.S.C, Â§ 6g (2012), and Regulations 1.31 and 1.35, 17 C.F.R.
+Â§Â§ 1.31 and 1.35 (2014), because it did not respond fully to the Divisionâs Section 4g request.
+As discussed above, Respondent did not produce certain emails until February 11, 2014, after it
+was subpoenaed by the Division. Accordingly, Respondent failed to comply fully with the
+Divisionâs Section 4g request.
+
+C. Respondent Violated the Commissionâs October 3, 2011 Order by Failing to
+Respond Fully to a Commission Document Request
+
+Pursuant to Section 6(c)(4) of the Act, 7 U.S.C. Â§ 9(c)(4) (2012):
+
+If the Commission has reason to believe that any person... is
+violating or has violated this subsection, or any other provision of
+this Act (including any rule, regulation, or order of the
+Commission promulgated in accordance with this subsection or
+any other provision of this Act), the Commission may serve upon
+the person a complaint,
+
+The Commission has relied upon this section of the Act and its predecessor in instituting
+administrative procedures for violating a Commission order, See In re Newedge USA, LLC,
+[2012-2013 Transfer Binder] Comm. Fut. L. Rep. 33,206 (CFTC Jan. 9, 2012) (finding that an
+FCMâs violation of a Commission order constituted a violation of Section 6(c)) (citing Jn re
+Grossfeld, [1990-1992 Transfer Binder] Comm, Fut, L. Rep. (CCH) 4 25,726, at 40,367 (CFTC
+May 20, 1993) (affirming an administrative law judgeâs determination that a failure to comply
+with a Commission order amounted to a violation of a Section 6(c)âs predecessor, Section 6(b));
+Lawrence v. CFTC, 759 F.2d 767, 771 (9th Cir. 1985) (finding that a Respondentâs failure to pay
+a civil monetary penalty assessed by the Commission in an administrative enforcement action
+constituted a violation of a Commission order)); see also CFTC y, Gibraltar Monetary Corp.,
+Inc., No. 04-80132-CIV, 2006 WL 1789018, at *23 (S.D. Fla. May 30, 2006) (finding that
+Defendantsâ violation of a Commission order in committing options fraud also violated Section
+6(c)) (citing Lawrence 759 F.2d at 771).
+
+The Commissionâs October 3, 2011 Order directed Respondent to cease and desist from
+violating Section 4g of the Act and Regulation 1.35. Respondent violated the October 3, 2011
+
+ 
+Order by subsequently violating Section 4g of the Act and Regulation 1.35 by failing to respond
+fully to a Commission document request. This failure constituted a violation of a Commission
+order and Section 6(c) of the Act, 7 U.S.C. Â§ 9 (2012).
+
+Vv. FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that, during the Relevant Period,
+Respondent: (1) failed to adequately supervise its officers, employees, and agents in violation of
+Regulation 166.3, 17 C.F.R. Â§ 166.3 (2014); (2) failed to respond accurately and completely to a
+Commission document request in violation of Section 4g of the Act, 7 U.S.C. Â§ 6g (2012), and
+Regulations 1.31 and 1.35, 17 C.F.R. Â§Â§ 1.31 and 1.35 (2014); and (3) violated the October 3,
+2011 Order and thereby violated Section 6(c) of the Act, 7 U.S.C. Â§ 9 (2012).
+
+VI. OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+A, Acknowledges receipt of service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C, Waives:
+1. the filing and service of a complaint and notice of hearing;
+2, a hearing;
+3, all post-hearing procedures;
+4. judicial review by any court;
+5. any and all objections to the participation by any member of the Commissionâs
+
+staff in the Commissionâs consideration of the Offer;
+
+6, any and all claims that it may possess under the Equal Access to Justice Act, 5
+U.S.C. Â§ 504 (2012) and 28 U.S.C. Â§ 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Commissionâs
+Regulations, 17 C.F.R. Â§Â§ 148.1-30 (2014), relating to, or arising from, this
+proceeding;
+
+7. any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, Â§Â§ 201-253, 110 Stat.
+847, 857-868 (1996), as amended by Pub. L. No, 110-28, Â§ 8302, 121 Stat. 112,
+204-205 (2007), relating to, or arising from, this proceeding; and
+
+ 
+8. any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer;
+
+Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+l, makes findings by the Commission that Respondent violated Sections 4g and 6(c)
+of the Act, 7 U.S.C. Â§Â§ 6g, 9 (2012), and Regulations 1.31, 1.35, and 166.3, 17
+C.F.R. Â§Â§ 1.31, 1.35, and 166.3 (2014);
+
+2. orders Respondent to cease and desist from violating Sections 4g and 6(c) of the
+Act, 7 U.S.C. Â§Â§ 6g, 9 (2012), and Regulations 1.31, 1.35, and 166.3, 17 C.F.R.
+Â§Â§ 1.31, 1.35, and 166.3 (2014);
+
+3. orders Respondent to pay a civil monetary penalty in the amount of seven
+hundred thousand dollars ($700,000), within ten (10) days of the date of entry of
+this Order, plus post-judgment interest; and
+
+4, orders Respondent and its successors and assigns to comply with the conditions
+and undertakings consented to in the Offer and as set forth in Part VII of this
+Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A,
+
+Respondent shall cease and desist from violating Sections 4g and 6(c) of the Act, 7
+U.S.C. Â§Â§ 6g, 9 (2012), and Regulations 1.31, 1.35, and 166.3, 17 C.F.R. Â§Â§ 1.31, 1.35,
+and 166.3 (2014).
+
+Respondent shall pay a civil monetary penalty in the amount of seven hundred thousand
+dollars ($700,000) (âCMP Obligationâ), plus post-judgment interest, within ten (10) days
+of the date of entry of this Order. If the CMP Obligation is not paid in full within ten
+(10) days of the date of entry of this Order, then post-judgment interest shall accrue on
+the CMP Obligation beginning on the date of entry of this Order and shall be determined
+by using the Treasury Bill rate prevailing on the date of entry of this Order pursuant to 28
+U.S.C, Â§ 1961 (2012),
+
+Respondent shall pay the CMP Obligation by electronic funds transfer, U.S. postal
+money order, certified check, bank cashierâs check, or bank money order. [f payment is
+to be made by other than electronic funds transfer, the payment shall be made payable to
+the Commodity Futures Trading Commission and sent to the address below:
+
+ 
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables
+DOT/FAA/MMAC/AMZ-341
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+nikki.gibson@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Nikki
+Gibson or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies Respondent and the name and docket number
+of this proceeding. Respondent shall simultaneously transmit copies of the cover letter
+and the form of payment to the Chief Financial Officer, Commodity Futures Trading
+Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
+
+Respondent and its successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+l.
+
+Public Statements: Respondent agrees that neither it nor any of its successors and
+assigns, agents, or employees under its authority or control shall take any action
+or make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondentâs: (i) testimonial obligations; or (ii) right to take legal
+positions in other proceedings to which the Commission is not a party,
+Respondent and its successors and assigns shall undertake all steps necessary to
+ensure that all of its agents and/or employees under its authority and/or control
+understand and comply with this agreement.
+
+Respondent agrees to pay disgorgement in the amount of One Hundred Forty
+Three Thousand Nine Hundred and Twenty-Two Dollars and Fifty Cents
+($143,922.50) (âDisgorgement Obligationâ), plus post-judgment interest, within
+ten (10) days of the date of entry of this Order. If the Disgorgement Obligation is
+not paid in full within ten days of the date of entry of this Order, then post-
+judgment interest shall accrue on the Disgorgement Obligation beginning on the
+date of entry of this Order and shall be determined using the Treasury Bill rate
+prevailing on the date of this Order pursuant to 28 U.S.C. Â§ 1961 (2012),
+
+Respondent shall pay the Disgorgement Obligation by electronic funds transfer,
+U.S. postal money order, certified check, bank cashierâs check, or bank money
+order. If payment is to be made other than by electronic funds transfer, then the
+payment shall be made under cover letter that identifies Respondent, the name
+and docket number of this proceeding, and the name and docket number of the
+
+ 
+proceeding in the U.S. District Court for the Eastern District of Texas (CFTC v.
+RFF GP, LLC, Case No. 4:13-cv-382) to:
+
+Kelly M. Crawford, Esq. (as receiver and Assignee acting for the benefit
+of the KGW Receivership)
+
+Scheef & Stone, LLP
+
+Lincoln Plaza â Suite 2700
+
+500 N. Akard Street
+
+Dallas, Texas 75201
+
+Respondent shall, within 30 calendar days of receipt of this notice, enlist the
+services of OnPoint Analytics, Inc., 2000 Powell Street, Suite 860, Emeryville,
+CA 94608, to serve as an independent, third-party compliance consultant
+(âCompliance Consultantâ) to review and evaluate the supervisory issues raised
+herein. After consultation with Division staff, the Compliance Consultant shall, at
+a minimum:
+
+a. Review and evaluate the effectiveness of Respondentâs existing internal
+controls and policies and procedures related to Respondentâs oversight of
+accounts of commodity pools; and
+
+b. Prepare and issue to Respondentâs Board of Directors a confidential
+written report (âConfidential Reportâ) within 120 days of the Compliance
+Consultantâs hiring, which shall:
+
+(1) Describe the scope and methodologies used by the Compliance
+Consultant in order to complete the review;
+
+(2) Describe Respondentâs compliance with the review;
+
+(3) Describe any findings with regard to the adequacy of Respondentâs
+existing internal control policies and procedures with respect to the
+issues raised herein; and
+
+(4) Make recommendations, if any, with regard to matters assessed,
+~ setting forth why such recommendations are reasonably designed
+to improve Respondentâs internal controls and policies and
+procedures and risk management processes.
+
+C, Respondent will ensure that any and all recommendations from the
+Compliance Consultant are implemented within sixty (60) calendar days
+after receiving the Confidential Report. If implementation cannot be
+accomplished within sixty days, a specific timetable and plan must be
+presented to the Division for its acceptance. Furthermore, with respect to
+the Compliance Consultantâs review of Respondentâs programs identified
+in Part VILC.3.a. of this Order, the Compliance Consultant will, at the
+Divisionâs discretion, provide supplemental reports at one and two year
+
+ 
+intervals following issuance of the Confidential Report, which will include
+the Compliance Consultantâs methodology, information relied upon, and
+bases for the Compliance Consultantâs findings.
+
+d, All recommendations that are implemented shall be employed by
+Respondent indefinitely from the time of the implementation, unless: (i) a
+change in the law would require that Respondent utilize and implement
+alternative methods for Respondentâs internal controls, policies, and
+procedures; or (ii) a material change in the business of the entity causes
+the recommended action or procedure to become unduly burdensome,
+unachievable, impractical, or unreasonably costly. In the event either (i)
+or (ii) occurs, Respondent shall promptly notify the Division.
+
+e. Respondent shall cooperate with the Compliance Consultant and the
+Compliance Consultant shall have the authority to take such reasonable
+steps, in its view, as may be necessary to be fully informed about the
+operations of Respondent within the scope of this review, including full
+access to all information the Compliance Consultant deems necessary to
+perform its duties,
+
+f, The Commissionâs acceptance of Respondentâs Offer and entry of this
+Order shall not be construed as its approval of any policy or practice
+reviewed by the Compliance Consultant and/or implemented based on the
+Compliance Consultantâs recommendation,
+
+g. A copy of the Confidential Report (and any attachments) shall be available
+for review upon its completion by Commission staff. |
+
+The Compliance Consultant is not, and shall not be treated for any purpose, as an officer,
+employee, agent, or affiliate of Respondent, or the Commission. The Compliance
+Consultant shall not owe any fiduciary duties or other duties or obligations of any kind to
+Respondent or its directors, officers, employees, shareholders, bondholders, or creditors.
+
+_ Partial Satisfaction: Respondent understands and agrees that any acceptance by the
+Commission of partial payment of Respondentâs Disgorgement Obligation or CMP
+Obligation shall not be deemed a waiver of its obligation to make further payments
+pursuant to this Order, or a waiver of the Commissionâs right to seek to compel payment
+of any remaining balance.
+
+Change of Address/Phone: Until such time as Respondent satisfies in full its
+Disgorgement Obligation and CMP Obligation as set forth in this Order, Respondent
+shall provide written notice to the Commission by certified mail of any change to its
+telephone number and mailing address within ten (10) calendar days of the change.
+
+10
+
+ 
+The provisions of this Order shall be effective on this date.
+
+By the Commission.
+
+oe 7
+i 4 ae f) <
+sf \- . De be +f.
+io
+
+Christopher . Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+  
+   
+ 
+
+    
+
+   
+ 
+
+Dated: September 8, 2015
+
+11
+
+ 

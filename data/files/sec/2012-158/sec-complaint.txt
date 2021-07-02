@@ -1,0 +1,382 @@
+oO J i) Ww 4+. us
+
+O
+
+ 
+
+1 | MARC J. FAGEL (State Bar No. 154425)
+
+MICHAEL S. DICKE (State Bar No. 158187)
+JINA L. CHOI (New York State Bar No. 2699718)
+ELENA RO (State Bar No. 197308)
+
+Attorneys for Plaintiff
+
+SECURITIES AND EXCHANGE COMMISSION A
+44 Montgomery Street, Suite 2800 Wm, .
+San Francisco, California 94104 âOp
+
+Telephone: (415) 705-2500
+Facsimile: (415) 705-2501
+
+UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF CALIFORNIA
+SAN FRANCISCO DIVISION
+
+i A Cc) â(| ()
+12 Gol
+
+= , â¬
+SECURITIES AND EXCHANGE COMMISSION, | Case Ney YJ de
+Plaintiff,
+COMPLAINT CRp
+
+ORACLE CORPORATION,
+
+V.
+
+Defendant.
+
+ 
+
+ 
+
+Plaintiff Securities and Exchange Commission (the âCommissionâ) alleges:
+SUMMARY OF THE ACTION
+
+l. This matter involves violations of the books and records and internal controls
+provisions of the Foreign Corrupt Practices Act (âFCPAâ) by Oracle Corporation (âOracleâ or âthe
+Companyâ), a Redwood Shores, California-based software company. From 2005 to 2007, certain
+employees of Oracleâs Indian subsidiary Oracle India Private Limited (âOracle Indiaâ) secretly
+âparkedâ a portion of the proceeds from certain sales to the Indian government and put the money to
+unauthorized use, creating the potential for bribery or embezzlement. These Oracle India employees
+structured more than a dozen transactions so that a total of around $2.2 million was held by the
+
+Companyâs distributors and kept off Oracle Indiaâs corporate books. The Oracle India employees
+
+| SEC y, ORACLE CORP
+COMPLAINT
+Oo eo ND OH F&F W NO =
+
+wo NHN PO NO HW NHN NHN NHN NO â st woe mm emt
+oN A A BF ODS Â§ FS CHO RA AF HH |= GS
+
+ 
+
+co ai
+
+would then direct its distributor to disburse payments out of the unauthorized side funds to purported
+local âvendors.â Several of the âvendorsâ were merely storefronts that did not provide any services.
+
+2. Oracle failed to accurately record these side funds on the Companyâs books and
+records, and failed to implement or maintain a system of effective internal accounting controls to
+prevent improper side funds in violation of the FCPA, which requires public companies to keep
+books and records that accurately reflect their operations.
+
+3. The Commission seeks an order permanently enjoining Oracle from violations of the
+books and records and internal controls provisions of the FCPA, and requiring Oracle to pay a civil
+monetary penalty.
+
+JURISDICTION AND VENUE
+
+4. This Court has jurisdiction over this action pursuant to Sections 21(d) and 27 of the
+Securities Exchange Act of 1934 (âExchange Actâ) [15 U.S.C. Â§Â§ 78u(d) and 78aa]. Defendant has,
+directly or indirectly, made use of the means and instrumentalities of interstate commerce and of the
+mails in connection with the acts, transactions, practices and courses of business alleged in this
+Complaint.
+
+5. Venue in this District is proper pursuant to Section 27 of the Exchange Act [15 U.S.C.
+Â§ 78aa] because Defendant maintains its headquarters and transacts business within the Northern
+District of California.
+
+6. Intradistrict assignment to the San Francisco Division is proper pursuant to Civil
+L.R. 3-2(c) because Oracleâs headquarters is located in the County of San Mateo.
+
+DEFENDANT
+
+7. Oracle Corporation is a Delaware corporation with headquarters in Redwood Shores,
+California. Oracle is an enterprise software company and a provider of computer hardware products
+and services. Shares of Oracle stock are registered with the Commission pursuant to Section 12(b) of
+the Exchange Act and the company files reports pursuant to Section 13 of the Exchange Act. The
+companyâs shares are listed on the NASDAQ National Market under the symbol âORCL.â Oracle
+
+operates in India through its wholly-owned subsidiary Oracle India Private Limited.
+
+? SEC v. ORACLE CORP.
+COMPLAINT
+& Ww bd
+
+oOo wo nN DH Ww
+
+10
+1
+12
+13
+14
+15
+16
+17
+18
+i9
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+ 
+
+oo ~
+
+FACTUAL ALLEGATIONS
+
+A. Oracle India Employees Created A Side Fund At Its Distributors And Did Not Properly
+
+Account For It
+
+8. From 2005 to 2007, Oracle India sold products and services to Indian government end
+users through local distributors and then directed excess funds from the sales to be âparkedâ outside
+Oracleâs books and records.
+
+9. At the time, Oracle Indiaâs typical business model involved selling Oracle software
+licenses and services through local distributors who had written agreements with Oracle India. In the
+transactions at issue, Oracle India was heavily involved in identifying and working with the end user
+customers in selling products and services to them and negotiating the final price. The purchase
+order, however, was placed by the customer with Oracle Indiaâs distributor. The distributor bought
+the licenses and services directly from Oracle, and then resold them to the customer at the higher
+price that had been negotiated by Oracle India. The difference between what the government end user
+paid the distributor and what the distributor paid Oracle typically is referred to as âmargin,â which the
+distributor generally retains as payment for its services.
+
+10. Onapproximately 14 occasions related to 8 different government contracts between
+2005 and 2007, certain Oracle India employees created extra margins between the end user and
+distributor price and directed the distributors to hold the extra margin in side funds. Oracle Indiaâs
+employees made these margins large enough to ensure a side fund existed to pay third parties. At the
+direction of the Oracle India employees, the distributor then made payments out of the side funds to
+third parties, purportedly for marketing and development expenses. Some of the recipients of these
+payments were not on Oracleâs approved local vendor list; indeed, some of the third parties did not
+exist and were merely storefronts.
+
+11. Because the Oracle India employees concealed the existence of the side fund, Oracle
+did not properly account for these side funds. These funds constituted prepaid marketing expenses
+incurred by Oracle India and should have been recorded as an asset and rolled up to Oracleâs
+corporate books and records. These marketing expenses should then have been reflected in the
+
+income statement once they were used. Instead, the parked funds were not reflected on Oracle Indiaâs
+
+3 SEC v. ORACLE CORP.
+COMPLAINT
+wo fe NY NWN HW & WY NO â
+
+po NO NO NH HN BH HN RO) NO we momo ll let
+ao nN DN YN F&F WHY HO -|& CD OBO OH NQ DH WN F&F YW NH | BS
+
+ 
+
+o~ om
+
+books and were not properly recorded as prepaid marketing expenses. This incorrect accounting in
+turn affected Oracleâs books and records.
+
+12. Between 2005 and 2007, government customers paid Oracle Indiaâs distributors at
+least $6.7 million on these sales, with Oracle receiving approximately $4.5 million in revenue,
+
+resulting in about $2.2 million in funds improperly âparkedâ with the Companyâs distributors.
+
+B. Absent Proper Controls, Oracle India Employees Used Side Funds To Pay Unauthorized
+
+Third Parties
+
+13. Oracle Indiaâs parked funds created a risk that they potentially could be used for illicit
+means, such as bribery or embezzlement. Such risk can be highlighted by the following example of
+the largest government contract that involved parked funds used for unauthorized third party
+payments.
+
+14. In May 2006, Oracle India secured a $3.9 million deal with Indiaâs Ministry of
+Information Technology and Communications. Oracleâs distributor accepted payment from the end
+user for the full $3.9 million. Under the direction of Oracle Indiaâs then Sales Director, the
+distributor sent approximately $2.1 million to Oracle, which Oracle booked as revenue on the
+transaction. |
+
+15. Oracle India employees then directed the distributor to keep approximately $151,000
+as payment for the distributorâs services. The Oracle India employees further instructed the
+distributor to âparkâ the remaining approximately $1.7 million to be used for disbursement towards
+âmarketing development purposes.â Several Oracle India employees were aware of the parked funds
+arrangement, which violated Oracleâs internal corporate policies.
+
+16. | Two months later, an Oracle India employee provided Oracle Indiaâs distributor with
+eight invoices for payments to third party vendors, in amounts ranging from approximately $110,000
+to $396,000. These invoices were later found to be fake. None of these third parties, which were just
+storefronts and provided no services on the deal, were on Oracleâs approved vendor list. As directed
+by the Oracle India employees, the distributor sent out the third party payments, which created the
+
+potential that they could be used for bribery or embezzlement.
+
+4 SEC v. ORACLE CORP.
+COMPLAINT
+Oo Co JN HB A F&F WY BO â
+
+BS PO NHN NN WB NO NI KROQ RD wm mmm le
+eo NH DA FA SF WwW NH â|Â§ DF OBO CO JD BDH A BF Ww NH & CS
+
+ 
+
+~ ~
+
+17. | Oracle lacked the proper controls to prevent its employees at Oracle India from
+creating and misusing the parked funds. For example, Oracle knew distributor discounts created a
+margin of cash from which distributors received payments for their services. Before 2009, however,
+the Company failed to audit and compare the distributorâs margin against the end user price to ensure
+excess margins were not being built into the pricing structure.
+
+18. âIn addition, although Oracle maintained corporate policies requiring approvals for
+payment of marketing expenses, Oracle failed to seek transparency in or audit third party payments
+made by distributors on Oracle Indiaâs behalf. This control would have enabled Oracle to check that
+
+payments were made to appropriate recipients.
+C. Oracle Later Implemented Remedial Measures To Improve FCPA Compliance
+
+19, By November 2007, Oracle Indiaâs Senior Channel Sales Manager had resigned and
+left Oracle India. As a result of an internal investigation that the Oracle Asia division escalated after
+a local tax inquiry to Oracle Indiaâs distributor, Oracle terminated four other Oracle India employees
+based on their knowledge that Oracle India parked funds at its distributors.
+
+20.â In addition, Oracle took other remedial measures to address the risk and controls
+related to parked funds, including: conducting additional due diligence in its partner transactions in
+India so that Oracle had greater transparency into end user pricing in government contracts;
+terminating its relationship with the distributor involved in the transactions at issue; directing its
+distributors not to allow the creation of side funds; requiring additional representations and warranties
+from distributors to include the fact that no side funds exist; and enhancing training for its partners
+and employees to address anti-corruption policies. |
+
+FIRST CLAIM FOR RELIEF
+
+Violations of Section 13(b)(2)(A) of the Exchange Act (Books and Records)
+[15 U.S.C. Â§ 78m(b)(2)(A)]
+
+21. Paragraphs | through 20 are re-alleged and incorporated herein by reference.
+22. As described above, Oracle failed to make and keep books, records and accounts
+which, in reasonable detail, accurately and fairly reflected its transactions and dispositions of its
+
+assets.
+
+5 SEC v, ORACLE CORP.
+COMPLAINT
+Oo 6 YQ A A BP Ww LN
+
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+
+ 
+
+23. By reason of the foregoing, Defendant violated, and unless restrained and enjoined
+will continue to violate, the books-and-records provision of the FCPA, codified as Section
+13(b)(2)(A) of the Exchange Act (15 U.S.C. Â§ 78m(b)(2)(A)].
+
+SECOND CLAIM FOR RELIEF
+
+Violations of Section 13(b)(2)(B) of the Exchange Act (Internal Controls)
+[15 U.S.C. Â§ 78m(b)(2)(B)]
+
+24. Paragraphs | through 20 are re-alleged and incorporated herein by reference.
+
+25. With respect to the side funds and payments described above, Oracle failed to devise
+and maintain a system of internal accounting controls sufficient to provide reasonable assurances that:
+(i) transactions were executed in accordance with managementâs general or specific authorization;
+and (ii) transactions were recorded as necessary to permit the preparation of financial statements in
+conformity with generally accepted accounting principles or any other criteria applicable to such
+statements, and to maintain accountability for its assets.
+
+26. By reason of the foregoing, Defendant violated, and unless restrained and enjoined
+will continue to violate, the internal-controls provision of the FCPA, codified as Section 13(b)(2)(B)
+of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(B)].
+
+PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court:
+
+I.
+
+Issue an order permanently restraining and enjoining Defendant and its agents, servants,
+employees, attorneys, and all persons in active concert or participation with them who receive actual
+notice of the order by personal service or otherwise from violating, directly or indirectly, Sections
+13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78m(b)(2)(A) and 78m(b)(2)(B)].
+
+I.
+Issue an order directing Oracle to pay a civil monetary penalty pursuant to Section 21(d)(3) of
+
+the Exchange Act [15 U.S.C. Â§ 78u(d)(3)].
+
+6 SEC v. ORACLE CORP.
+COMPLAINT
+oe fo SN DH WH SF W NI
+
+10
+1i
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+
+24 I
+
+25
+26
+27
+28
+
+ 
+
+em om
+
+ 
+
+Hil,
+Retain jurisdiction of this action in accordance with the principles of equity and the Federal
+Rules of Civil Procedure in order to implement and carry out the terms of all orders and decrees that
+may be entered, or to entertairi any suitable application or motion for additional relief within the
+jurisdiction of this Court.
+IV.
+Grant such other relief as this Court may deem just and appropriate.
+Respectfully submitted,
+Dated: August 16, 2012 Z C- oA a
+Marc J. F age)â
+Michael S. Dicke
+Jina L. Choi
+Elena Ro
+
+Attormeys for Plaintiff
+SECURITIES AND EXCHANGE COMMISSION
+
+7 SEC v. ORACLE CORP.
+
+COMPLAINT â

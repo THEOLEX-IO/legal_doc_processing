@@ -1,0 +1,378 @@
+ 
+
+RECEIVED CFTC >
+
+ 
+
+UNITED STATES OF AMERICA
+Before the
+
+Office of Proceedings
+COMMODITY FUTURES TRADING COMMISSION
+
+Proceedings Clerk
+12:16 pm, Sep 24, 2019)
+
+ 
+
+ 
+
+ 
+
+In the Matter of: CFTC Docket No. 15-34
+ORDER INSTITUTING PROCEEDINGS
+PURSUANT TO SECTIONS 6(c) AND 6(d)
+OF THE COMMODITY EXCHANGE
+ACT, MAKING FINDINGS, AND
+IMPOSING REMEDIAL SANCTIONS
+
+Cargill de MÃ©xico S.A. De C.V.,
+
+Respondent.
+
+Nene Ne Nee ee ee ee ee Nee Neeâ
+
+ 
+
+I.
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+Respondent Cargill de MÃ©xico S.A. De C.V. (âCargill de MÃ©xicoâ) violated Section 4c(a)(1) of
+the Commodity Exchange Act (âthe Actâ), 7 U.S.C. Â§ 6c(a)(1) (2012),' and Commission
+Regulation (âRegulationâ) 1.38(a), 17 C.F.R. Â§ 1.38(a) (2015) Therefore, the Commission deems
+it appropriate and in the public interest that public administrative proceedings be, and hereby are,
+instituted to determine whether Cargill de MÃ©xico engaged in the violations set forth herein and
+to determine whether any order imposing remedial sanctions should be issued.
+
+Il.
+
+In anticipation of the institution of an administrative proceeding, Cargill de MÃ©xico has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Cargill de MÃ©xico
+consents to the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of
+the Act, Making Findings, and Imposing Remedial Sanctions (âOrderâ) and acknowledges
+service of this Order.â
+
+Il.
+
+ 
+
+' Although Section 4c(a)(1)(A) was amended as part of the Dodd-Frank Wall Street Reform and Consumer
+Protection Act, Pub. L. No. 111-203, 124 Stat. 1376 (2010) (codified as amended in scattered sections of 7, 12, and
+15 U.S.C.), that amendment did not affect the operative language for the violations described in this Order.
+
+* Cargill de MÃ©xico consents to the entry of this Order and to the use of these findings in this proceeding and in any
+other proceeding brought by the Commission or to which the Commission is a party; provided, however, that Cargill
+de MÃ©xico does not consent to the use of the Offer, or the findings or conclusions in this Order consented to in the
+Offer, as the sole basis for any other proceeding brought by the Commission, other than in a proceeding in
+bankruptcy or to enforce the terms of this Order. Nor does Cargill de MÃ©xico consent to the use of the Offer or this
+Order, or the findings or conclusions in this Order consented to in the Offer, by any other party in any other
+proceeding.
+TI.
+The Commission finds the following:
+
+A. SUMMARY
+
+On multiple occasions between March 2010 and August 2014 Cargill de MÃ©xico engaged
+in wash trades in certain agricultural futures products, including corn, soybeans and wheat, on
+the Chicago Board of Trade (âCBOTâ) as well as in hard red wheat traded on the Kansas City
+Board of Trade (âKCBTâ), which at the time was a designated contract market. Before orders for
+these trades were entered on an exchange, employees of Cargill de MÃ©xico, either acting alone or
+with another employee of Cargill de MÃ©xico, entered equal and opposite transactions in the same
+futures product for another account that was also owned by Cargill de MÃ©xico, and matched the
+product, quantity, price, and timing of those orders and trades. Further, by so structuring or
+prearranging and entering these orders, which negated the risk incidental to an open and
+competitive marketplace, Cargill de MÃ©xico also engaged in noncompetitive transactions in
+violation of Regulation 1.38(a).
+
+B. RESPONDENT
+
+Cargill de MÃ©xico S.A. De C.V. is a Mexican corporation that, among other things,
+trades in global futures markets in connection with Cargillâs Mexican agricultural import and
+export business in grains and oilseeds. Cargill de MÃ©xico is not registered with the Commission
+in any capacity.
+
+Gs FACTS
+
+On multiple occasions between April 2010 and August 2014 Cargill de MÃ©xico entered
+into wash trades involving CBOT corn, soybean, and wheat futures contracts and KCBT hard red
+wheat futures contracts. Cargill de MÃ©xico traders, acting either alone or with a colleague,
+moved futures positions between accounts owned by Cargill de Mexico by entering into equal
+and opposite transactions in the same contract, contract month, quantity, and price. They entered
+the orders for these trades electronically and timed the order entry to be as close to
+simultaneously as possibleâoften entering orders within less than a second.
+
+Cargill de MÃ©xico maintains that it participated in these prearranged trades in order to
+move hedging positions for its physical business among numerous accounts. Each account was
+used to hedge physical trading conducted by Cargill de MÃ©xico, and each account was linked to a
+particular source for the physical product. If the source of the physical product was later
+changed because of availability, customer demand, or price, Cargill de MÃ©xico maintains that it
+would, as a matter of internal policy, transfer the futures position to the account linked to the
+new source of the physical product.
+
+Cargill de MÃ©xico typically effected transfers between accounts by contacting its clearing
+broker and effecting transfers pursuant to the policies of the clearing broker and the rules of a
+designated contract market. However, in some instances, and in particular near or after the notice
+
+2
+date, its clearing broker would not make the back office transfers due to applicable contract
+market rules. In these situations Cargill de MÃ©xico traders transferred the positions using the
+market but did so in a non-competitive fashion by entering equal and opposite transactions.
+Cargill de MÃ©xico entered into numerous such transactions beginning in March 2010 and
+continuing into August 2014.
+
+Upon being alerted by CME Group to concerns about its prearranged trading, Cargill de
+MÃ©xico instituted a number of changes in its policies and procedures in order to prevent future
+violations. Cargill de MÃ©xico has cooperated fully during this investigation.
+
+D. LEGAL DISCUSSION
+
+1. Cargill de MÃ©xico Entered into Wash Sales in Violation of
+Section 4c(a)(1)(A) of the Act
+
+Section 4c(a) of the Act makes it âunlawful for any person to offer to enter into, enter
+into, or confirm the execution of a transactionâ that is or âis of the character of, or is commonly
+known to the trade as, a âwash saleâ ...â 7 U.S.C. Â§6c(a). A wash sale is a form of fictitious sale.
+In re Gimbel, [1987-1990 Transfer Binder] Comm. Fut. L. Rep. (CCH) J 24,213 at 35,003
+(CFTC Apr. 14, 1988).
+
+In order to establish that a wash sale has occurred, it must initially be demonstrated that
+the transaction at issue achieved a wash result. The Commission may demonstrate that the trades
+resulted in a wash by showing â(1) the purchase and sale (2) of the same delivery month of the
+same futures contract (3) at the same (or a similar) price.â Wilson v. CFTC, 322 F.3d 555, 559
+(8th Cir. 2003) citing In re Gilchrist, [1990-1992 Transfer Binder] Comm. Fut. L. Rep. (CCH) Â§
+24,993 at 37,653 (CFTC Jan. 25, 1991); see also In re Citadel Trading, [1986-1987 Transfer
+Binder] Comm. Fut. L. Rep (CCH) Â§ 23,082 at 32,190 (âOrders to purchase and sell for the
+account of the same customer the identical quantity of the same futures contract at identical
+prices were entered virtually simultaneously.â)
+
+In addition to the factors enumerated in Gilchrist, intent must be proven to establish a
+violation of Section 4c of the Act. Reddy v. CFTC, 191 F.3d 109, 119 (2d Cir. 1999), The intent
+to negate risk or price competition and avoid a bona fide market position can properly be inferred
+from prearrangement but it can also be inferred âfrom the intentional structuring of a transaction
+in a manner to achieve the same result as prearrangement.â Jn re Three Eight Corp., [1992-1994
+Transfer Binder] Comm. Fut. L. Rep. (CCH) 4 25,749 at 40,444 n.1S5 (CFTC Jun.16, 1993)
+(citing In re Collins [1986-1987 Transfer Binder] Comm. Fut. L. Rep. (CCH)22,982 at 31,900-
+O01 (CFTC Apr. 4, 1986), rev 'd on other grounds sub nom. Stoller vy. CFTC, 834 F.2d 262 (2d
+Cir. 1987) (âCollinsââ)), The placement of offsetting orders to buy and sell, while simultaneously
+taking steps to âenhance the likelihood that the buy and sell orders would be filled at the same or
+a similar priceâ is persuasive evidence that the trader intends to negate risk and price
+competition. Collins at J 31,900; see also In re Piasio, [1999-2000 Transfer Binder] Comm. Fut.
+L. Rep. (CCH) Â§ 28,276 at 50,685, 50,689-691 (CFTC Sep. 29, 2000) (finding customer who
+placed paired buy and sell orders, with specific pricing and loss limitation instructions,
+âstructured orders to negate riskâ and thus had intent to violate Section 4c), aff'd sub nom.
+Piasio v. CFTC, [2002-2003 Transfer Binder] Comm. Fut. L. Rep. (CCH) Â§ 29,251 (2d Cir.
+Dec. 31, 2002).
+
+The Cargill de MÃ©xico traders entered into trades for the purchase and sale in the same
+delivery month of the same futures contract at the same prices, and thus achieved wash results.
+Additionally, the Cargill de MÃ©xico traders knowingly entered into the purchase and sale of the
+same delivery month of the same futures contracts at the same (or a similar) price for the
+purpose of transferring positions between Cargill de MÃ©xico accounts. In doing so, Cargill de
+MÃ©xico violated Section 4c(a)(2)(A) of the Act by entering into transactions of the character of
+and commonly known as wash sales.
+
+2. Cargill de MÃ©xico Executed Noncompetitive Trades in Violation of
+Commission Regulation 1.38(a)
+
+Regulation 1.38(a) requires that all purchases and sales of commodity futures be executed
+âopenly and competitively.â The purpose of this requirement is to ensure that all trades are
+executed at competitive prices and that all trades are directed into a centralized marketplace to
+participate in the competitive determination of the price of futures contracts. Noncompetitive
+trades are generally transacted in accordance with express or implied agreements or
+understandings between and among the traders. See, e.g., In re Gilchrist, [1990-1992 Transfer
+Binder] Comm, Fut. L. Rep. (CCH) Â§ 24,993 at 37,652 (CFTC Jan. 25, 1991). Noncompetitive
+trades are also a type of fictitious sale because they negate the risk incidental to an open and
+competitive market. Jn re Fisher, Comm. Fut. L. Rep. (CCH) at 56,052 n.11. Prearranged
+trading is a form of anti-competitive trading that violates Regulation 1.38(a). Jn re Shell US
+Trading Co., [2005-2007 Transfer Binder] Comm. Fut. L. Rep. (CCH) Â§ 30,161 at 57,632
+(CFTC Jan. 4, 2006); In re Gimbel, [1987-1990 Transfer Binder] Comm. Fut. L. Rep. (CCH)
+4 24,213 at 35,003 (CFTC Apr. 14, 1988), aff'd as to liability, 872 F.2d 196 (7th Cir. 1989).
+
+By knowingly structuring and entering into prearranged noncompetitive trades, Cargill de
+MÃ©xico violated Commission Regulation 1.38(a).
+
+IV.
+OFFER OF SETTLEMENT
+
+Cargill de MÃ©xico has submitted an Offer in which it, without admitting or denying the
+findings herein:
+
+A. Acknowledges receipt of service of this Order;
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation or enforcement of this Order;
+C. Waives:
+
+ls
+
+By
+
+the filing and service of a complaint and notice of hearing;
+a hearing;
+
+all post-hearing procedures;
+
+judicial review by any court;
+
+any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+any and all claims that Cargill de MÃ©xico may possess under the Equal Access to
+Justice Act, 5 U.S.C. Â§ 504 (2012) and 28 U.S.C. Â§ 2412 (2012), and/or the rules
+promulgated by the Commission in conformity therewith, Part 148 of the
+Regulations, 17 C.F.R. Â§Â§ 148.1-30 (2013), relating to, or arising from, this
+proceeding;
+
+any and all claims that Cargill de MÃ©xico may possess under the Small Business
+Regulatory Enforcement Fairness Act of 1996, Pub. L. No. 104-121, Â§Â§ 201-253,
+110 Stat. 847, 857-868 (as amended by Pub. L. No. 110-28, Â§ 8302, 121 Stat. 112,
+204-205 (2007)), relating to, or arising from, this proceeding; and
+
+any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+D. Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Cargill de MÃ©xico has consented in the Offer;
+
+and
+
+E. Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+1,
+
+Makes findings by the Commission that Cargill de MÃ©xico violated Section
+4c(a)(1) of the Act and Regulation 1.38(a);
+
+Orders Cargill de MÃ©xico and its successors and assigns to cease and desist from
+violating Section 4c(a)(1) of the Act and Regulation 1.38(a);
+
+Orders Cargill de MÃ©xico to pay a civil monetary penalty in the amount of five
+hundred thousand dollars ($500,000), plus post-judgment interest if the civil
+monetary penalty is not paid in full within ten (10) days of the entry of this Order;
+and
+4. Orders Cargill de MÃ©xico and its successors and assigns to comply with the
+
+conditions and undertakings as set forth in Section VI of this Order.
+V.
+
+FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that on multiple occasions between March
+2010 and August 2014 Cargill de MÃ©xico violated Section 4c(a)(1) of the Act, 7 U.S.C. Â§
+6c(a)(1), and Regulation 1.38(a), 17 C.F.R. Â§ 1.38(a).
+
+VI.
+
+ORDER
+
+Accordingly, it is hereby ordered that:
+
+if
+
+Cargill de MÃ©xico and its successors and assigns shall cease and desist from
+violating Section 4c(a)(1) of the Act, 7 U.S.C. Â§ 6c(a)(1), and Regulation 1.38(a),
+17 C.FLR, Â§ 1.38(a).
+
+Cargill de MÃ©xico shall pay a civil monetary penalty in the amount of five
+hundred thousand dollars ($500,000) due within ten (10) days of the date of this
+Order (the âCMP Obligationâ). If the CMP Obligation is not paid in full within
+ten (10) days of the date of entry of this Order, then post-judgment interest shall
+accrue on the CMP Obligation beginning on the date of entry of this Order and
+shall be determined by using the Treasury Bill rate prevailing on the date of entry
+of this Order, pursuant to 28 U.S.C. Â§ 1961 (2012). Cargill de MÃ©xico shall pay
+the CMP Obligation by electronic funds transfer, U.S. postal money order,
+certified check, bank cashierâs check, or bank money order. If payment is to be
+made other than by electronic funds transfer, then the payment shall be made
+payable to the Commodity Futures Trading Commission and sent to the address
+below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables
+DOT/FAA/MMAC/AMZ-341
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+nikki.gibson@faa.gov
+If payment is to be made by electronic funds transfer, Cargill de MÃ©xico shall
+contact Nikki Gibson or her successor at the above address to receive payment
+instructions and shall fully comply with those instructions. Cargill de MÃ©xico
+shall accompany payment of the CMP Obligation with a cover letter that
+identifies Cargill de MÃ©xico and the name and docket number of this proceeding.
+Cargill de MÃ©xico shall simultaneously transmit copies of the cover letter and the
+form of payment to the Chief Financial Officer, Commodity Futures Trading
+Commission, Three Lafayette Centre, 1155 21st Street, N.W., Washington, D.C.
+20581.
+
+Cargill de MÃ©xico and its successors and assigns shall comply with the following
+undertakings set forth in the Offer:
+
+a. Cargill de MÃ©xico agrees that neither Cargill de MÃ©xico nor any of its
+successors and assigns, agents, or employees under its authority or control
+shall take any action or make any public statement denying, directly or
+indirectly, any findings or conclusions in this Order or creating, or tending
+to create, the impression that this Order is without a factual basis;
+provided, however, that nothing in this provision shall affect the:
+(1) testimonial obligations; or (ii) right to take legal positions in other
+proceedings to which the Commission is not a party, of Cargill de MÃ©xico
+and its successors and assigns, agents and employees. Cargill de MÃ©xico
+shall undertake all steps necessary to ensure that all of Cargill de MÃ©xicoâs
+agents and/or employees under Cargill de MÃ©xicoâs authority or control
+understand and comply with this agreement.
+
+b. Cargill de MÃ©xico further agrees that it shall comply with the following
+additional undertakings. Cargill de MÃ©xico agrees and undertakes that:
+
+(1) Cargill de MÃ©xico shall mandate a training course in 2016
+addressing the ethics, compliance, and legal requirements of the
+Act and Regulations with regard to prearranged, fictitious, or
+noncompetitive trading in violation of Section 4c(a)(1) of the Act
+and Section 1.38(a) of the Regulations, to be given to employees
+involved in any transactions made by Cargill de MÃ©xico on United
+States futures markets, including the type of violative conduct
+found by the Commission in this Order;
+
+(11) Within 60 days after the issuance of this Order, Cargill de MÃ©xico
+shall submit to the Commissionâs Division of Enforcement a report
+that contains the following: (a) a representation that policies and
+procedures have been adopted by Cargill de MÃ©xico that are
+designed to prevent any potential prearranged, fictitious or
+noncompetitive trading in violation of Section 4c(a)(1) of the Act
+and Section 1.38(a) of the Regulations with regard to transactions
+made by Cargill de MÃ©xico on United States futures markets; (b) a
+representation that training sessions were held respectively in 2014
+and 2015 addressing the ethics, compliance, and legal requirements
+of the Act and Regulations with regard to prearranged, fictitious, or
+non-competitive trading in violation of Section 4c(1) of the Act
+and Section 1.38(a) of the Regulations, for relevant managers and
+traders involved in transactions made by Cargill de MÃ©xico on
+United States futures markets; and (c) a representation that Cargill
+de MÃ©xico has begun using the self-match prevention technology
+available on the front end system provided by its primary clearing
+firm.
+
+4. Cargill de MÃ©xico understands that any acceptance by the Commission of partial
+payment of Cargill de MÃ©xicoâs CMP Obligation shall not be deemed a waiver of
+its obligation to make further payments pursuant to this Order or a waiver of the
+Commissionâs right to seek to compel payment of the remaining balance.
+
+The provisions of this Order shall be effective as of this date.
+By the Commission
+Christopher J. Rirkpatrick
+
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+       
+
+Dated: September 24, 2015

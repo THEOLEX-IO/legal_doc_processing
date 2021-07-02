@@ -1,0 +1,1567 @@
+Case 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page1of37 Page ID #:585
+
+JS-6
+
+UNITED STATES DISTRICT COURT
+CENTRAL DISTRICT OF CALIFORNIA
+
+ 
+
+U.S. COMMODITY FUTURES
+TRADING COMMISSION,
+
+Plaintiff,
+
+V.
+
+LIONS WEALTH HOLDINGS,
+
+INC., LIONS WEALTH SERVICES,
+
+INC., 20/20 PRECIOUS METALS,
+INC. and BHARAT ADATIA,
+
+Defendants.
+
+ 
+
+Case No. SACV 13-01923-JLS
+(JPRx)
+
+Honorable Josephine L. Staton
+
+Consent Order for Permanent
+Injunction, Civil Monetary
+Penalty and Other Equitable
+Relief Against Defendants
+Lions Wealth Holdings, Inc.,
+Lions Wealth Services, Inc.
+20/20 Precious Metals, Inc. and
+Bharat Adatia
+
+ 
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+Ay
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 2of37 Page ID#:5
+
+I INTRODUCTION
+
+On September 30, 2013, Plaintiff U.S. Commodity Futures Trading
+Commission (âCFTCâ or âCommissionââ) filed a Complaint against Defendants
+Lions Wealth Holdings, Inc. and Lions Wealth Services, Inc., both d/b/a Lions
+Wealth Capital or âLWCâ (collectively âLions Wealthâ), 20/20 Precious Metals,
+Inc. (â20/20 Metalsâ), and Bharat Adatia (âAdatiaâââ) (collectively âDefendantsââ)
+seeking injunctive and other equitable relief, as well as the imposition of civil
+penalties, for violations of the Commodity Exchange Act (the âActââ), 7 U.S.C.
+Â§Â§ 1 et seg.â Specifically, the Commission charged Defendants with violating
+Sections 4(a), 4b(a)(2)(A)-(C) and 6(c)(1) of the Act, 7 U.S.C. Â§Â§ 6(a),
+6b(a)(2)(A)-(C) and 9(1) (2012), and Commission Regulation 180.1(a)(1)-(3),
+17 C.F.R. { 180.1(a)(1)-(3) (2013), in connection with illegal off-exchange
+transactions involving the purported purchase or sale of physical metals on a
+
+leveraged, margined or financed basis (âRetail Commodity Transactionsâ).
+
+ 
+
+' The Commission commenced this action in the District of Nevada. On or around December 9,
+2013, that Court issued an Order transferring this case to the Central District of California.
+
+* Effective J uly 16, 2011, Section 742 of the Dodd-Frank Wall Street Reform and Consumer
+Protection Act of 2010 (âDodd-Frank Actâ), Public Law 111-203, 124 Stat. 1376 (2010),
+broadened the scope of the CFTCâs jurisdiction to include financed commodity transactions with
+retail customers, including those at issue in this matter by amending Section 2(c)(2) of the Act to
+create a new subparagraph, Section 2(c)(2)(D), entitled âRetail Commodity Transactionsâ.
+Specifically, this broadened jurisdiction requires that financed commodity transactions with
+retail customers be executed on an exchange and, among other things, subjects these transactions
+to Section 4(a) of the Act, 7 U.S.C. Â§ 6(a), and the anti-fraud provisions of Section 4b of the Act,
+
+2
+
+ 
+
+ 
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 3of37 Page ID#:5
+
+Ii. CONSENTS AND AGREEMENTS
+
+To effect settlement of all charges alleged in the Complaint against
+Defendants without a trial on the merits or any further judicial proceedings,
+Defendants Lions Wealth, 20/20 Metals and Adatia:
+
+1. Consent to the entry of this Consent Order for Permanent
+Injunction, Civil Monetary Penalty and Other Equitable Relief Against Defendants
+Lions Wealth Holdings, Inc., Lions Wealth Services, Inc. 20/20 Precious Metals,
+Inc. and Bharat Adatia (âConsent Orderâ);
+
+2. Affirm that they have read and agreed to this Consent Order
+voluntarily, and that no promise, other than as specifically contained herein, or
+threat, has been made by the Commission or any member, officer, agent or
+representative thereof, or by any other person, to induce consent to this Consent
+Order;
+
+3. Acknowledge service of the summons and Complaint;
+
+4. Admit the jurisdiction of this Court of them and the subject matter of
+
+this action pursuant to Section 6c of the Act, 7 U.S.C. Â§ 13a-1;
+
+ 
+
+7 U.S.C. Â§ 6b. In addition, effective August 15, 2011, Section 753 of the Dodd-Frank Act
+amended Section 6(c) of the Act, 7 U.S.C. Â§ 9 (2012), broadened the CFTCâs anti-fraud
+jurisdiction. The Commission subsequently issued a related regulation, specifically Regulation
+180.1, 17 C.F.R. Â§ 180.1 (2013), to implement that law.
+
+3
+
+ 
+
+ 
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+Nase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 4of37 Page ID#:5
+
+ 
+
+5. Admit the jurisdiction of the CFTC over the conduct and Retail
+Commodity Transactions at issue pursuant to the Act, 7 U.S.C. Â§Â§ 1 et seq.;
+
+6. Admit that venue properly lies with this Court pursuant to Section
+6c(e) of the Act, 7 U.S.C. Â§ 13a-1(e);
+
+7. Waive:
+
+(a) any and all claims that they may possess under the Equal Access to
+Justice Act, 5 U.S.C. Â§ 504 (2012) and 28 U.S.C. Â§ 2412 (2012), and/or the rules
+promulgated by the Commission in conformity therewith, Part 148 of the
+Regulations, 17 C.F.R. Â§Â§ 148.1 et seq. (2013), relating to, or arising from, this
+action;
+
+(b) any and all claims that they may possess under the Small Business
+Regulatory Enforcement Fairness Act of 1996, Pub. L. No. 104-121, Â§Â§ 201-253,
+110 Stat. 847, 857-868 (1996), as amended by Pub. L. No. 110-28, Â§ 8302, 121
+Stat. 112, 204-205 (2007), relating to, or arising from, this action;
+
+(c) any claim of Double Jeopardy based upon the institution of this action or
+the entry in this action of any order imposing a civil monetary penalty or any other
+relief, including this Consent Order; and
+
+(d) any and all rights of appeal from this action;
+
+8. Consent to the continued jurisdiction of this Court over them for
+
+purposes of implementing and enforcing the terms and conditions of this Consent
+4
+
+ 
+
+ 
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page5of37 Page ID#:5
+
+Order and for any other purpose relevant to this action, even if Defendants now or
+in the future reside outside the jurisdiction of this Court;
+
+9. Agree that they will not oppose enforcement of this Consent Order by
+alleging that it fails to comply with Rule 65(d) of the Federal Rules of Civil
+Procedure and waives any objection based thereon;
+
+10. Agree that neither they nor any of their agents or employees under
+their authority or control shall take any action or make any public statement
+denying, directly or indirectly, any allegation in the Complaint or the Findings of
+Fact or Conclusions of Law in this Consent Order, or creating or tending to create
+the impression that the Complaint and/or this Consent Order is without a factual
+basis; provided, however, that nothing in this provision shall affect their
+(a) testimonial obligations, or (b) right to take legal positions in other proceedings
+to which the Commission is not a party. Defendants shall undertake all steps
+necessary to ensure that all of their agents and/or employees under their authority
+or control understand and comply with this agreement;
+
+11. By consenting to the entry of this Consent Order, neither admit nor
+deny the allegations of the Complaint or the Findings of Fact and Conclusions of
+Law in this Consent Order, except as to jurisdiction and venue, which they admit.
+Further, Defendants agree and intend that the allegations contained in the
+
+Complaint and all of the Findings of Fact and Conclusions of Law contained in this
+5
+
+ 
+
+ 
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ 
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 6of37 Page ID#:5
+
+Consent Order shall be taken as true and correct and be given preclusive effect,
+without further proof, in the course of: (a) any current or subsequent bankruptcy
+proceeding filed by, on behalf of, or against Defendants (b) any proceeding
+pursuant to Section 8a of the Act, 7 U.S.C. Â§ 12a, and/or Part 3 of the Regulations,
+17 C.F.R. Â§Â§ 3.1 et seg. (2013); and/or (c) any proceeding to enforce the terms of
+this Consent Order;
+
+12. Agree to provide immediate notice to this Court and the Commission
+by certified mail, in the manner required by paragraph 76 of Part VI of this
+Consent Order, of any bankruptcy proceeding filed by, on behalf of, or against
+them, whether inside or outside the United States; and
+
+13. Agree that no provision of this Consent Order shall in any way limit
+or impair the ability of any other person or entity to seek any legal or equitable
+remedy against Defendants in any other proceeding.
+
+HI. FINDINGS AND CONCLUSIONS
+
+This Court, being fully advised in the premises, finds that there is good
+cause for the entry of this Consent Order and that there is no just reason for delay.
+The Court therefore directs the entry of the following Findings of Fact,
+Conclusions of Law, Permanent Injunction and Equitable Relief pursuant to
+
+Section 6c of the Act, 7 U.S.C. Â§ 13a-1, as set forth herein.
+
+ 
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 7 of 37 Page ID#:5
+
+THE PARTIES AGREE AND THE COURT HEREBY FINDS:
+A. _ Findings of Fact
+
+1. The Parties to this Consent Order
+
+14. Plaintiff U.S. Commodity Futures Trading Commission is an
+independent federal regulatory agency charged by Congress with administering
+and enforcing the Act, 7 U.S.C. Â§Â§ 1 et seg., and the Commission Regulations
+promulgated thereunder, 17 C.F.R. Â§Â§ 1.1 et seg. From at least July 16, 2011
+through July 31, 2012, Defendant Lions Wealth Holdings, Inc. (âLWHâ) was an
+active Nevada corporation with its principal place of business in in San Juan
+Capistrano, California. From at least July 16, 2011 through the present, Defendant
+Lions Wealth Services, Inc. (ââLWSâ) has been an active Nevada corporation with
+its principal place of business in San Juan Capistrano, California. Neither LWH
+nor LWS has been registered with the Commission in any capacity.
+
+15. From at least November 2009 through December 2012, when its
+incorporation was revoked, Defendant 20/20 Precious Metals, Inc. was a Nevada
+corporation. From at least July 16, 2011 through February 22, 2013, 20/20 Metals
+maintained an office in San Juan Capistrano, California. 20/20 Metals has never
+been registered with the Commission in any capacity.
+
+16. Defendant Bharat Adatia, also known as Brad Adatia, resides in San
+
+Juan Capistrano, California. Adatia is the sole officer and director of LWH and
+
+7
+
+ 
+
+ 
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 8 of 37 Page ID#:5
+
+20/20 Metals, and the president and director of LWS. Adatia managed and ran the
+day-to-day operations of Lions Wealth and 20/20 Metals, including
+communicating with Hunter Wise Commodities, LLC and its various subsidiaries
+and related entities (collectively âHunter Wiseâ) about retail metals transactions.
+Adatia was registered with the Commission in various capacities from 1996
+through 2009, including as an associated person of 20/20 Trading Company, Inc.
+(20/20 Tradingââ), a registered introducing broker (âIBââ), from 2000 to 2009.
+
+2. Overview of Defendantsâ Business Model
+
+17. Beginning on or shortly after July 16, 2011, the date Section
+2(c)(2)(D) of the Act became effective, and continuing through at least
+February 22, 2013 (the ârelevant timeââ), Defendants LWH and LWS, both doing
+business as âLions Wealth Capitalâ or âLWCââ, through their officers, agents and
+other persons acting on their behalf, including Defendant Adatia, and defendant
+20/20 Metals, through its officers, agents and other persons acting on its behalf,
+including Adatia, offered to enter into, entered into, confirmed the execution of,
+and conducted an office and business in the United States for the purpose of
+soliciting, accepting orders for, and otherwise dealing in illegal, off-exchange,
+financed commodity transactions with retail customers.
+
+18. Defendants falsely claimed to sell physical commodities, including
+
+gold, silver, platinum, and palladium, in off-exchange transactions to retail
+
+8
+
+ 
+
+ 
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 9of37 Page ID#:5
+
+customers throughout the United States. Most notably, Defendants falsely claimed
+to: (a) sell actual physical metals to customers; (b) make loans to customers to
+purchase the physical metals; (c) transfer title of physical metals to customers; and
+(d) arrange for the transfer and storage of customersâ physical metals in
+independent depositories where such metal purportedly was held on the customersâ
+behalf.
+
+19. In fact, Defendants did not purchase, sell, transfer ownership of, or
+arrange for storage of any physical metals in connection with the financed
+commodity transactions, and Defendants never had possession of, or title to, the
+physical metals they purported to purchase, sell, finance and/or transfer on behalf
+of retail customers. Defendants also did not lend funds to customers to purchase
+physical metals or advance or loan physical metals to customers. Rather, during
+the relevant time, Defendants introduced their retail customer accounts to Hunter
+Wise, a purported precious metals dealer that recorded and tracked customer orders
+and trading positions. In reality, Hunter Wise did not purchase, sell, finance and/or
+transfer metals in connection with Defendantsâ financed transactions, but rather
+traded derivatives in its own margin accounts. Defendants knew or recklessly
+disregarded that Hunter Wise did not sell or transfer ownership of any physical
+
+metals and/or store physical metals in any depositories for or on behalf of Lions
+
+ 
+
+ 
+
+ 
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+q
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 10 of 37 Page ID #:5
+
+Wealth and/or 20/20 Metals retail customers. Defendants also did not disclose
+their relationship with Hunter Wise to retail customers.
+
+20. Lions Wealth and 20/20 Metals customers were charged a
+commission (up to 15% of the total metal value of a single transactions and up to
+38% of the funds deposited for each transaction), a price spread (a 1.5-3% mark-up
+or mark-down from the current price of the metal), interest on the purported loan
+(at an annual rate of approximately 9.5%) and other fees (such as a âservice feeâ of
+approximately 7% annually on the total market value of the account) for the Retail
+Commodity Transactions. The customerâs equity increased or decreased as prices
+of metals fluctuated, and was also subject to depletion on a daily basis by interest
+and service fees. When a customerâs equity fell below 15% of the value of the
+total trading position, the customer received a margin call, requiring the customer
+to deposit additional funds in order to maintain the trading position. If the
+customerâs equity dropped to 9% of the total value, any open trading positions
+were liquidated.
+
+21. Although no physical metal was held anywhere in the Lions Wealth or
+20/20 Metals customersâ names, Lions Wealth and 20/20 Metals fraudulently
+charged Lions Wealthâs and 20/20 Metalsâ customers commissions on orders for
+purchasing metals, interest on non-existent loans to finance supposed metals
+
+purchases, storage fees on non-existent metal, and other fees supposedly incurred
+10
+
+ 
+
+ 
+
+94
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ase 8:13-cv-01923-JLS-JPR Document55 Filed 01/16/15 Page 11o0f37 Page |ID#:4
+
+in connection with the purchase of physical metals. In the course of this scheme,
+during the relevant time, at least 44 Lions Wealth retail customers collectively
+incurred at least $1,807,712 in trading losses, commissions, interest charges and
+other fees, and at least 30 20/20 Metals retail customers collectively incurred at
+least $570,266 in trading losses, commissions, interest charges and other fees.
+
+3. Defendants Knew or Recklessly Disregarding that there Was No
+Metal Underlying the Retail Commodity Transactions
+
+22. On April 26, 2011, prior to the effective date of the Dodd-Frank Act
+and the broadening of the CFTCâs anti-fraud jurisdiction, the Commission filed a
+civil injunctive enforcement action in the U.S. District Court for the Central
+District of California against 20/20 Metals and Adatia, as well as 20/20 Trading, a
+defunct entity and non-party to this action, and various individual defendants. See
+CFTC v. 20/20 Trading Company, Inc. et al., Case No. SACV 11-643-JLS
+(FMOx) (CD Cal.) (the âPrior 20/20 Litigationâ).
+
+23. Inthe Prior 20/20 Litigation, the Commission charged the defendants
+with committing fraud in connection with both commodity options trading and
+leveraged metals sales. As to the purported sale of precious metals to retail
+customers, the business model employed by 20/20 Metals and 20/20 Trading prior
+to April 26, 2011, and at issue in the Prior 20/20 Litigation, was the same or
+
+substantially similar to the business model utilized for the Retail Commodity
+
+11
+
+ 
+
+ 
+
+ 
+
+95
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ase 8:13-cv-01923-JLS-JPR Document55 Filed 01/16/15 Page 12 0f37 Page |ID#:4
+
+Transactions as more fully described herein. Ultimately, the Court found that â
+prior to the broadening of the Commissionâs authority under the Dodd-Frank Act â
+the Commission lacked jurisdiction over the defendantsâ leverage metals business
+and dismissed those claims.
+
+24. During the course of the Prior 20/20 Litigation, the Court appointed a
+temporary receiver who filed a report on May 23, 2011. See CFTC v. 20/20
+Trading, Rept. of Temporary Receiverâs Activities, Doc. No. 60. (CD Cal. May 23,
+2011). Among other things, the receiver advised the Court and the parties in the
+Prior 20/20 Litigation that, after reviewing documents and conducting interviews
+with Adatia and representatives from Hunter Wise, among others, he was unable to
+âverify the existence, ownership, and safekeeping of precious metalsâ purportedly
+purchased and held in 20/20 Trading and 20/20 Metals customer accounts.
+
+25. Adatia received and reviewed the receiverâs report, and therefore
+knew or recklessly disregarded that the court appointed receiver had been unable to
+identify, locate, and/or inspect any metal purportedly held on behalf of retail
+customers. Nevertheless, Adatia subsequently failed to verify that any depository
+held or was holding metal on behalf of 20/20 Trading, 20/20 Metals, Lions Wealth
+
+and/or any of their customers during the relevant period of this action.
+
+12
+
+ 
+
+ 
+
+ 
+
+96
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ 
+
+q
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 13 of 37 Page !ID #:5
+
+4. Defendants Solicited Customers for Illegal, Off-Exchange Retail
+Commodity Transactions and Falsely Represented that Customers
+Were Purchasing Actual Physical Metal
+
+26. In connection with the Retail Commodity Transactions, Lions
+Wealthâs website falsely represented that: (a) Lions Wealthâs retail customers
+could purchase physical commodities, specifically gold, silver, platinum and
+palladium; (b) customers purchased the âactual physical commodityâ in the âform
+of either bullion bars or coinsâ, as opposed to âbuy[ing] a futures or options
+contract on an underlying commodityâ; and (c) customers could elect to receive
+physical metals or have Lions Wealth store metals on the customerâs behalf in âa
+depository selected by LWCâ as Lions Wealth is âtied to and work[s] with experts
+who understand the specifics of storing metal bullion.â Similarly, 20/20 Metalsâ
+website claimed that retail customers could either take delivery of physical metals
+or rely on 20/20 Metals and its âexperts who understand the specifics of storing
+metal bullionâ for storage servicesââWe know how to keep your bullion safe and
+sound.â The website also references the possibility of financing a metals purchase.
+
+27.  Inaddition, Defendantsâ written marketing materials falsely
+represented that in Retail Commodity Transactions customers purchased physical
+metals through a financing arrangement that had âthe benefits of a âdown paymentâ
+similar to those found in real estate, where you buy a propertyâ but âunlike real
+
+estate, the non-recourse loan . . . has limited risk similar to an âoptionâ, but with no
+
+13
+
+ 
+
+97
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+q
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 14 of 37 Page !ID #:5
+
+immediate expiration date to worry about. With no ticking clock, [customers] have
+an open-ended commodity transaction.â
+
+28. Through their officers, agents and other persons acting on their behalf,
+including Adatia, both Lions Wealth and 20/20 Metals knew or recklessly
+disregarded that, in connection with their Retail Commodity Transactions, neither
+they nor Hunter Wise purchased or sold physical metals, stored metals, delivered
+metals to an affiliate, bank or depository, or lent funds to customers for the
+purchase of physical metals. Defendants also knew or recklessly disregarded the
+fact that there were no accounts with any metals depository holding physical
+metals in the name of Lions Wealth, 20/20 Metals and/or any of their retail
+customers.
+
+5. Defendants Made Material Misrepresentations to Retail Customers
+about the Purchase, Sale, Financing and Delivery of Physical Metal
+
+29. Most, if not all, Lions Wealth customers executed the Customer
+Purchase and Sale Agreement (the âPurchase Agreementâ) in which Lions Wealth
+falsely represented that customers were purchasing âphysical commoditiesâ from
+Lions Wealth Capital âon credit with financing provided by Lions Wealth
+Service[s] Inc.â Prior to July 16, 2011, most if not all 20/20 Metals customers
+executed a Purchase Agreement with 20/20 Metals that contained the same or
+
+substantially similar provisions as those quoted herein.
+
+14
+
+ 
+
+ 
+
+98
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ 
+
+q
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 15 of 37 Page ID #:5
+
+30. Inthe Purchase Agreement, Defendants knowingly or recklessly
+misrepresented that, within seven days of receiving a customerâs payment of the
+required portion of the purchase price, they would âdeliver the commodities to
+Customer, to Customerâs designee, or for the benefit of Customer to banks or
+depositories used for the purpose of safekeeping Customer commodities
+(collectively referred to as Bank).â Further, Defendants represented that
+âOwnership of Commodities purchased by Customer, subject to any security
+interest therein, passes to Customer upon delivery to Customer, Customerâs
+appointed designee, or to Bank to be held for Customer,â and that âCommodities
+transferred to Bank for Customer will be delivered as an undivided share of a
+fungible lot and held in safekeeping on a fungible basis with the commodities of
+other Bank Customers.â Finally, in the Purchase Agreement, Lions Wealth
+represented that LWC (or, as applicable, 20/20 Metals) âmay utilize one or more
+sources, including its own inventory, to acquire the physical commodities
+necessary to fulfill its obligations to Customer.â
+
+31. Most, if not all, Lions Wealth customers executed a Loan, Security
+and Storage Agreement (the âLoan Agreementâ) with Lions Wealth in which Lions
+Wealth falsely represented that LWS loans âphysical commoditiesâ or âsums of
+money to purchase physical commodities, including, but not limited to, delivery to
+
+a depository, costs, fees, storage, collateral, security interests, certain risks and
+15
+
+ 
+
+ 
+
+99
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 16 of 37 Page ID #:6
+
+ 
+
+costs associated with each loan transactionâ to retail customers in exchange for a
+âsecurity interestâ in all âcommoditiesâ belonging to and held on behalf of the
+customer. Prior to July 16, 2011, most if not all 20/20 Metals customers executed
+a Loan Agreement with 20/20 Metals that contained the same or substantially
+similar provisions as those quoted herein.
+
+32. The Loan Agreement states that â[c]ommodities transferred to Bank
+for Borrower will be delivered as an undivided share of a fungible lot and held in
+safekeeping on a fungible basis with the commodities of other Bank customers.â
+The Loan Agreement further specifies that â[u]pon delivery of commodities on
+behalf of Borrower to Bank, Borrower will receive a confirmation evidencing that
+such quantity of commodities has been delivered to the depository and is being and
+will continue to be held as an undivided share of the commodities so held by the
+depository, on the purchaserâs behalf, free and clear of all liens and encumbrances,
+other than liens of [LWS or 20/20 Metals].â
+
+33. In fact, Defendants did not disburse any funds for the so-called âloanâ
+or âfinancedâ portion of Retail Commodity Transactions, nor did Defendants ever
+intend to loan or finance the Retail Commodity Transactions. Moreover, to the
+extent that Hunter Wise purported to extend purchase money loans to Defendantâs
+customers, such loans were a sham because Hunter Wise never obtained any
+
+physical metal for, or delivered any such metal to, those customers.
+16
+
+ 
+
+ 
+
+00
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ase 8:13-cv-01923-JLS-JPR Document55 Filed 01/16/15 Page 17 of 37 Page ID #:6
+
+34. Nevertheless, during the relevant time, Lions Wealth customers
+collectively paid $47,161 in interest on the purported loans to retail customers and
+20/20 Metals customers collectively paid $56,551 in interest on the purported loans
+to retail customers in connection with Retail Commodity Transactions.
+
+35. Further, Lions Wealth and 20/20 Metals customer account statements
+reflect metal purchases and sales that were not actually made. Hunter Wise
+generated the customer account statements and transmitted them to Lions Wealth
+and/or 20/20 Metals, or directly to retail customers, pursuant to certain agreements
+between Hunter Wise and Defendants. The customer account statements notified
+retail customers of âcommodities purchasedâ, âopening buyâ, âclosing buyâ and/or
+âcommodity receivedâ into the account. The statements also informed customers
+that they had âloan feesâ and a loan âbalanceâ even though Defendants did not
+disburse any funds for the so-called âloanâ or âfinancedâ portion of Retail
+Commodity Transactions and loans purportedly extended by Hunter Wise were a
+sham.
+
+36. Defendants also falsely claimed to âshipâ or âreceiveâ metals
+following each trade in Transfer of Commodity notices. The Transfer of
+Commodity notices sent to retail customers included, among other provisions,
+
+language reflecting âProduced Received into your Accountâ and a statement that
+
+Lions Wealth âhereby confirms that a depository (âCustodianââ) authorized by
+17
+
+ 
+
+ 
+
+ 
+
+01
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ase 8:13-cv-01923-JLS-JPR Document55 Filed 01/16/15 Page 18 of 37 Page ID #:6
+
+agreements referred to below has received custody of the goods therefore
+(âcommoditiesâ) identified above.â
+B. Conclusions of Law
+
+1. Jurisdiction and Venue
+
+37. This Court has jurisdiction over this action pursuant to 6c of the Act,
+7 U.S.C. Â§ 13a-1, which provides that whenever it shall appear to the Commission
+that any person has engaged, is engaging, or is about to engage in any act or
+practice constituting a violation of any provision of the Act or any rule, regulation,
+or order promulgated thereunder, the Commission may bring an action in the
+proper district court of the United States against such person to enjoin such act or
+practice, or to enforce compliance with the Act, or any rule, regulation or order
+thereunder.
+
+38. The Commission has jurisdiction over the solicitations and
+transactions at issue in this action pursuant to Section 2(c)(2)(D) of the Act,
+7 ULS.C. Â§ 2(c)(2)(D) (2012).
+
+39. Venue properly lies with this Court pursuant to Section 6c(e) of the
+Act, 7 U.S.C. Â§ 13a-1(e), because Defendant Adatia resides in this District,
+Defendants Lions Wealth and 20/20 Metals maintained offices in this District, and
+
+certain of the acts and practices in violation of the Act occurred within this District.
+
+18
+
+ 
+
+ 
+
+ 
+
+02
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+q
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 19 of 37 Page ID #:6
+
+2. Illegal Off-Exchange Transactions in Violation of Section 4(a) of the
+Act
+
+40. Section 4(a) of the Act, 7 U.S.C. Â§ 6(a), in relevant part, makes it
+unlawful for any person to offer to enter into, execute, confirm the execution of, or
+conduct any office or business anywhere in the United States for the purpose of
+soliciting, accepting any order for, or otherwise dealing in any transaction in, or in
+connection with, a contract for the purchase or sale of a commodity for future
+delivery unless the transaction is conducted on or subject to the rules of a board of
+trade that has been designated or registered by the Commission as a contract
+market.
+
+41. By the conduct described in paragraphs 14 through 36, above,
+Defendants Lions Wealth and 20/20 Metals, individually and/or through their
+employees and agents including Adatia, violated Section 4(a) of the Act by
+offering to enter into, entering into, executing, confirming the execution of, or
+conducting an office or business in the United States for the purpose of soliciting
+or accepting orders for, or otherwise dealing in, transactions in, or in connection
+with, Retail Commodity Transactions.
+
+42. The foregoing acts, omissions and failures of the officials, agents, or
+persons acting for Lions Wealth and 20/20 Metals occurred within the scope of
+
+their employment, agency, or office with these entity defendants, and are deemed
+
+19
+
+ 
+
+ 
+
+03
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 20 of 37 Page ID #:6
+
+to be the acts, omissions and failures of those defendants by operation of Section
+2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2 (2012), and Regulation 1.2, 17 C.F.R. Â§ 1.2
+(2013).
+
+43. During all relevant times, Adatia directly or indirectly controlled
+Lions Wealth and 20/20 Metals, and did not act in good faith or knowingly
+induced, directly or indirectly, the acts constituting the violations of Lions Wealth
+and 20/20 Metals. Pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b), Adatia
+is therefore liable as a controlling person for the violations by Lions Wealth and
+20/20 Metals to the same extent as those Defendants.
+
+44. Unless restrained and enjoined by this Court, there is a reasonable
+likelihood that the Defendants will continue to engage in the acts and practices
+alleged in the Complaint and in similar acts and practices in violation of the Act
+and Regulations.
+
+3. Fraud by Misrepresentations in Violation of Section 4b(a)(2)(A), (C)
+of the Act.
+
+45. By the conduct described in paragraphs 14 through 36, above, Lions
+Wealth and 20/20 Metals, individually and through their agents and employees
+including Adatia, cheated or defrauded, or attempted to cheat or defraud, their
+retail customers in, or in connection with, Retail Commodity Transactions by
+
+knowingly or recklessly making false representations of material fact, or omitting
+
+20
+
+ 
+
+ 
+
+04
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+q
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 21 0f37 Page ID #:4
+
+material facts to customers and, as to Lions Wealth, prospective customers in
+violation of Section 4b(a)(2)(A) and (C) of the Act, 7 U.S.C. Â§ 6b(a)(2)(A), (C)
+(2012).
+
+46. The foregoing acts, omissions and failures of the officials, agents, or
+persons acting for Lions Wealth and 20/20 Metals occurred within the scope of
+their employment, agency, or office with these entity Defendants, and are deemed
+to be the acts, omissions and failures of those Defendants by operation of Section
+2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2 (2012), and Regulation 1.2, 17 C.F.R. Â§ 1.2
+(2013).
+
+47. During all relevant times, Adatia directly or indirectly controlled
+Lions Wealth and 20/20 Metals, and did not act in good faith or knowingly
+induced, directly or indirectly, the acts constituting the violations of Lions Wealth
+and 20/20 Metals. Pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b), Adatia
+is therefore liable as a controlling person for the violations by Lions Wealth and
+20/20 Metals to the same extent as those Defendants.
+
+48. Unless restrained and enjoined by this Court, there is a reasonable
+likelihood that the Defendants will continue to engage in the acts and practices
+alleged in the Complaint and in similar acts and practices in violation of the Act
+
+and Regulations.
+
+21
+
+ 
+
+ 
+
+05
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+q
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 22 of 37 Page ID #:6
+
+4. Fraud by False Statements
+
+49. By the conduct described in paragraphs 14 through 36, above,
+Defendants Lions Wealth and 20/20 Metals, through their agents and employees
+including Adatia, knowingly or recklessly caused false written monthly account
+statements to be made to customers in connection with Retail Commodity
+Transactions in violation of Section 4b(a)(2)(B) of the Act, 7 U.S.C. Â§ 6b(a)(2)(B)
+(2012).
+
+50. The foregoing acts, omissions and failures of the officials, agents, or
+persons acting for Lions Wealth and 20/20 Metals occurred within the scope of
+their employment, agency, or office with these entity Defendants, and are deemed
+to be the acts, omissions and failures of those Defendants by operation of Section
+2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2 (2012), and Regulation 1.2, 17 C.F.R. Â§ 1.2
+(2013).
+
+51. During all relevant times, Adatia directly or indirectly controlled
+Lions Wealth and 20/20 Metals, and did not act in good faith or knowingly
+induced, directly or indirectly, the acts constituting the violations of Lions Wealth
+and 20/20 Metals. Pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b), Adatia
+is therefore liable as a controlling person for the violations by Lions Wealth and
+
+20/20 Metals to the same extent as those Defendants.
+
+22
+
+ 
+
+ 
+
+06
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 23 of 37 Page ID #:4
+
+52. Unless restrained and enjoined by this Court, there is a reasonable
+likelihood that the Defendants will continue to engage in the acts and practices
+alleged in the Complaint and in similar acts and practices in violation of the Act
+and Regulations.
+
+5. Use of a Deceptive Scheme and Artifice to Defraud in Violation of
+Section 6(c)(1) of the Act and Regulation 180.1(a)(1)-(3)
+
+53. Beginning on August 15, 2011 and continuing at least through
+February 22, 2013, and by the conduct described in paragraphs 14 through 36,
+above, Defendants Lions Wealth and 20/20 Metals, by and through Adatia and
+other agents or persons acting on their behalf, in connection with contracts of sale
+of commodities in interstate commerce, knowingly or recklessly used or employed
+a manipulative device,, scheme and/or artifice to defraud in violation of
+Commission Regulation 180.1(a)(1). During that same time, Lions Wealth and
+20/20 Metals, by and through Adatia and other agents or persons acting on their
+behalf, knowingly or recklessly made untrue or misleading statements of material
+fact to retail customers in violation of Commission Regulation 180.1(a)(2); and
+engaged in acts practices or a course of business which operated as a fraud upon
+their retail customers in violation of Commission Regulation 180.1(a)(3).
+
+54. By the conduct described above, Defendants violated Section 6(c)(1)
+
+of the Act and Regulation 180.1(a)(1)-(3) by knowingly or recklessly: (1) making
+
+23
+
+ 
+
+ 
+
+07
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ase 8:13-cv-01923-JLS-JPR Document55 Filed 01/16/15 Page 24 of 37 Page ID #:6
+
+the material misrepresentations on their websites written marketing materials and
+in the customer Purchase Agreements and Loan Agreements as set forth in
+paragraphs 46 to 51, and (2) issuing false statement to customers.
+
+55. The foregoing acts, omissions and failures of the officials, agents, or
+persons acting for Lions Wealth and 20/20 Metals occurred within the scope of
+their employment, agency, or office with these entity defendants, and are deemed
+to be the acts, omissions and failures of those defendants by operation of Section
+2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2 (2012), and Regulation 1.2, 17 C.F.R. Â§ 1.2
+(2013).
+
+56. During all relevant times, Adatia directly or indirectly controlled
+Lions Wealth and 20/20 Metals, and did not act in good faith or knowingly
+induced, directly or indirectly, the acts constituting the violations of Lions Wealth
+and 20/20 Metals. Pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b), Adatia
+is therefore liable as a controlling person for the violations by Lions Wealth and
+20/20 Metals to the same extent as those Defendants.
+
+57. Unless restrained and enjoined by this Court, there is a reasonable
+likelihood that the Defendants will continue to engage in the acts and practices
+alleged in the Complaint and in similar acts and practices in violation of the Act
+
+and Regulations.
+
+24
+
+ 
+
+ 
+
+ 
+
+08
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+q
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 25 of 37 Page ID #:6
+
+IT IS HEREBY ORDERED THAT:
+
+Section 6c of the Act, 7 U.S.C. Â§ 13a-1, Defendants Lions Wealth, 20/20 Metals,
+
+and Adatia are permanently restrained, enjoined and prohibited from directly or
+
+indirectly:
+
+a. Offering, entering into, executing, confirming, conducting any business
+
+. Cheating or defrauding, or attempting to cheat or defraud, other persons
+
+. Making or causing to be made any false report or statement in or in
+
+. Using or employing, or attempting to use or employ, a manipulative
+
+ 
+
+IV. PERMANENT INJUNCTIONS
+
+Based upon and in connection with the foregoing conduct, pursuant to
+
+for the purpose of soliciting or accepting orders for, or otherwise dealing
+in any transaction in or in connection with a retail commodity
+transaction, including without limitation financed precious metals
+transactions in violation of Section 4(a) of the Act, 7 U.S.C. Â§ 6(a);
+
+in Or in connection with any order to make, or the making of, any retail
+commodity transaction, including without limitation financed precious
+metals in violation of Section 4b(a)(2)(A), (C) of the Act, 7 U.S.C. Â§
+6b(a)(2)(A), (C);
+
+connection with any order to make, or the making of, any retail
+commodity transaction, including without limitation financed precious
+metals in violation of Section 4b(a)(2)(B) of the Act, 7 U.S.C. Â§
+6b(a)(2)(B); and
+
+device, scheme or artifice to defraud; engaging or attempting to engage in
+acts, practices or a course of business which operates as a fraud upon
+retail customers in violation of Section 6(c)(1) of the Act, 7 U.S.C. Â§9(1)
+and Commission Regulation 180.1(a)(1)-(3), 17 C.F.R. Â§ 180.1(a)(1)-(3)
+(2013).
+
+25
+
+ 
+
+09
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+q
+
+ 
+
+a.
+
+ 
+
+59.
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 26 of 37 Page ID #:6
+
+Defendants are also permanently restrained, enjoined and prohibited
+
+from indirectly:
+
+Trading on or subject to the rules of any registered entity (as that term is
+defined in Section la of the Act, 7 U.S.C. Â§ 1a);
+
+Entering into any transactions involving commodity futures, options on
+commodity futures, commodity options (as that term is defined in
+Regulation 1.3(hh)), 17 C.F.R. Â§ 1.3Â¢hh) (2013)) (âcommodity optionsâ),
+security futures products, swaps (as that term is defined in Section 1a(47)
+of the Act and as further defined by Commission Regulation 1.3(xxx),
+
+17 C.F.R. Â§ 1.3(xxx) (2013)), and/or foreign currency (as described in
+Sections 2(c)(2)(B) and 2(c)(2)(C)(@) of the Act, 7 U.S.C. Â§Â§ 2(c)(2)(B)
+and 2(c)(2)(C)(1)) (âforex contractsâ), for their own personal accounts or
+for any accounts in which they have a direct or indirect interest;
+
+Having any commodity futures, options on commodity futures,
+commodity options, security futures products, swaps, and/or forex
+contracts traded on their behalf;
+
+Controlling or directing the trading for or on behalf of any other person
+or entity, whether by power of attorney or otherwise, in any account
+involving commodity futures, options on commodity futures, commodity
+options, security futures products, swaps, and/or forex contracts;
+
+Soliciting, receiving or accepting any funds from any person for the
+purpose of purchasing or selling any commodity futures, options on
+commodity futures, commodity options, security futures products, swaps,
+and/or forex contracts;
+
+Applying for registration or claiming exemption from registration with
+the Commission in any capacity, and engaging in any activity requiring
+such registration or exemption from registration with the Commission,
+
+except as provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9)
+
+(2013); and
+
+Acting as a principal (as that term is defined in Regulation 3.1 (a),
+17 C.F.R. Â§ 3.1(a) (2013)), agent, or any other officer or employee of any
+
+26
+
+ 
+
+10
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+q
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 27 of 37 Page ID #:6
+
+person registered, exempted from registration or required to be registered
+with the Commission, except as provided for in Regulation 4.14(a)(9),
+17 C.F.R. Â§ 4.14(a)(9) (2013).
+
+V. RESTITUTION AND CIVIL MONETARY PENALTIES
+A. Restitution
+
+60. Defendants Lions Wealth and Adatia shall joint and severally pay
+restitution in the amount of one million, seven hundred and seventy three thousand,
+thirteen dollars ($1,773,013) (the âLWC Restitution Obligationâ), plus post-
+judgment interest within thirty (30) days of the date of the entry of this Consent
+Order. Defendants 20/20 Metals and Adatia shall joint and severally pay
+restitution in the amount of five hundred forty three thousand, two hundred and
+twenty seven dollars ($543,227) (the â20/20 Restitution Obligationââ), plus post-
+judgment interest within thirty (30) days of the date of the entry of this Consent
+Order. The LWC Restitution Obligation and 20/20 Restitution Obligation in the
+combined sum of two million, three hundred and sixteen thousand, two hundred
+and forty dollars ($2,316,240), plus post-judgment interest are collectively referred
+to herein as the âRestitution Obligationâ. Post-judgment interest shall accrue on
+the Restitution Obligation beginning on the date of entry of this Consent Order and
+shall be determined by using the Treasury Bill rate prevailing on the date of entry
+
+of this Consent Order pursuant to 28 U.S.C. Â§ 1961.
+
+27
+
+ 
+
+ 
+
+11
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ase 8:13-cv-01923-JLS-JPR Document55 Filed 01/16/15 Page 28 of 37 Page ID #:6
+
+61. To effect payment of the Restitution Obligation and the distribution of
+any restitution payments to Defendantsâ customers, the Court appoints Melanie
+Damian, Esq., as Monitor (the âMonitorââ).* The Monitor shall collect restitution
+payments from Defendants and make distributions as set forth below. Because the
+Monitor is acting as an officer of this Court in performing these services, the
+Monitor shall not be liable for any action or inaction arising from her appointment
+as Monitor, other than actions involving fraud.
+
+62. Defendants shall make Restitution Obligation payments under this
+Consent Order to the Monitor in the name âLions Wealth â Settlement/Restitution
+Fundâ and shall send such Restitution Obligation payments by electronic funds
+transfer, or by U.S. postal money order, certified check, bank cashierâs, or bank
+money order, to Melanie Damian, Damian & Valori, LLP, 1000 Brickell Avenue,
+Suite 1020, Miami, Florida 33131, under cover letter that identifies the paying
+
+Defendants and the name and docket number of this proceeding. Defendants shall
+
+ 
+
+> On December 5, 2012, the Commission filed a civil enforcement action in the U.S. District
+Court for the Southern District of Florida against Hunter Wise and various other entities and
+individuals. See CFTC v. Hunter Wise Commodities, LLC, et al., Case No. 9:12-cv-81311-DMN
+(SD Fla.) (the âHunter Wise Litigationâ). On February 22, 2013, the Southern District of Florida
+appointed Ms. Damian as the Special Monitor and Corporate Manager in the Hunter Wise
+Litigation. See Order Temporarily Appointing Special Corporate Monitor (Doc. No. 77). In
+connection with her duties in that matter, the Monitor has implemented a Claims Administration
+Process and Distribution Plan for all customers and creditors of Hunter Wise, among other
+entities.
+
+28
+
+ 
+
+ 
+
+ 
+
+12
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 29 of 37 Page ID #:6
+
+simultaneously transmit copies of the cover letter and form of payment to the Chief
+Financial Officer, U.S. Commodity Futures Trading Commission, Three Lafayette
+Centre, 1155 21st Street, NW, Washington, D.C. 20581 and to the Chicago
+Regional Counsel, U.S. Commodity Futures Trading Commission, 525 W. Monroe
+Street, Suite 1100, Chicago, IL 60661.
+
+63. The Monitor shall oversee the Restitution Obligation and shall have
+the discretion to determine the manner of distribution of such funds in an equitable
+fashion to Defendantsâ customers identified by the CFTC or may defer distribution
+until such time as the Monitor deems appropriate. The Monitor shall reduce the
+Restitution Obligation by amounts distributed to Defendantsâ customers in
+connection with the Hunter Wise Litigation. In the event that the amount of
+Restitution Obligation payments to the Monitor are of a de minimis nature such
+that the Monitor determines that the administrative cost of making a distribution to
+eligible customers is impractical, the Monitor may, in its discretion, treat such
+restitution payments as civil monetary penalty payments, which the Monitor shall
+forward to the Commission following the instructions for civil monetary penalty
+payments set forth in paragraphs 70 and 71, below.
+
+64. Defendants shall cooperate with the Monitor as appropriate to provide
+such information as the Monitor deems necessary and appropriate to identify
+
+Defendantsâ customers to whom the Monitor, in its sole discretion, may determine
+29
+
+ 
+
+ 
+
+13
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+q
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 30 of 37 Page ID #:6
+
+to include in any plan for distribution of any Restitution Obligation payments.
+Defendants shall execute any documents necessary to release funds that they have
+in any repository, bank, investment or other financial institution, wherever located,
+in order to make partial or total payment toward the Restitution Obligation.
+
+65. The Monitor shall provide the Commission at the beginning of each
+calendar year with a report detailing the disbursement of funds to Defendantsâ
+customers during the previous year. The Monitor shall transmit this report under a
+cover letter that identifies the name and docket number of this proceeding to the
+Chief Financial Officer, Commodity Futures Trading Commission, Three
+Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
+
+66. The amounts payable to each customer shall not limit the ability of
+any customer from proving that a greater amount is owed from Defendants, or any
+other person or entity, and nothing herein shall be construed in any way to limit or
+abridge the rights of any person that exist under state or common law.
+
+67. Pursuant to Rule 71 of the Federal Rules of Civil Procedure, each
+Lions Wealth and/or 20/20 Metals customer who suffered a loss is explicitly made
+an intended third-party beneficiary of this Consent Order and may seek to enforce
+compliance with this Consent Order to obtain satisfaction of any portion of the
+
+restitution that has not been paid by Defendants to ensure continued compliance
+
+30
+
+ 
+
+ 
+
+14
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ase 8:13-cv-01923-JLS-JPR Document55 Filed 01/16/15 Page 31 0f37 Page ID #:6
+
+with any provision of this Consent Order and to hold Defendants in contempt for
+any violations of any provision of this Consent Order.
+
+68. To the extent that any funds accrue to the U.S. Treasury for
+satisfaction of Defendantsâ Restitution Obligation, such funds shall be transferred
+to the Monitor for disbursement in accordance with the procedures set forth above.
+
+B. Civil Monetary Penalty
+
+69. Defendants shall pay a civil monetary penalty in the amount of
+$3,072,490 (âCMP Obligationâ), plus post-judgment interest within thirty (30)
+days of the date of the entry of this Consent Order. Specifically, Defendants Lions
+Wealth and Adatia shall jointly and severally pay $2,612,468 and Defendants
+20/20 Metals and Adatia shall jointly and severally pay $460,022, plus post-
+judgment interest. Post-judgment interest shall accrue on the CMP Obligation
+beginning on the date of entry of this Consent Order and shall be determined by
+using the Treasury Bill rate prevailing on the date of entry of this Consent Order
+pursuant to 28 U.S.C. Â§ 1961 (2012).
+
+70. Defendants shall pay their CMP Obligation by electronic funds
+transfer, U.S. postal money order, certified check, bank cashierâs check, or bank
+money order. If payment is to be made other than by electronic funds transfer,
+then the payment shall be made payable to the Commodity Futures Trading
+
+Commission and sent to the address below:
+
+31
+
+ 
+
+ 
+
+ 
+
+15
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 32 of 37 Page ID #:6
+
+ 
+
+U.S. Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables â AMZ 340
+E-mail Box: 9-AMC-AMZ-AR-CFTC
+DOT/FAA/MMAC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+Telephone: (405) 954-5644
+
+71. If payment by electronic funds transfer is chosen, Defendants shall
+contact Nikki Gibson or her successor at the address above to receive payment
+instructions and shall fully comply with those instructions. Defendants shall
+accompany payment of the CMP Obligation with a cover letter that identifies
+Defendants and the name and docket number of this proceeding. Defendants shall
+simultaneously transmit copies of the cover letter and the form of payment to the
+Chief Financial Officer, Commodity Futures Trading Commission, Three
+Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581 and the Chicago
+Regional Counsel, U.S. Commodity Futures Trading Commission, 525 W. Monroe
+Street, Suite 1100, Chicago, IL 60661.
+
+C. Provisions Related to Monetary Sanctions
+
+72. Partial Satisfaction: Any acceptance by the Commission or the
+Monitor of partial payment of Defendantsâ Restitution Obligation or CMP
+
+Obligation shall not be deemed a waiver of their obligation to make further
+
+32
+
+ 
+
+ 
+
+16
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+q
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 33 of 37 Page ID #:6
+
+payments pursuant to this Consent Order, or wavier of the Commissionâs right to
+seek to compel payment of any remaining balance.
+
+D. Cooperation
+
+73. Defendants shall cooperate fully and expeditiously with the
+Commission, including the Commissionâs Division of Enforcement, and any other
+governmental agency in this action, and in any investigation, civil litigation, or
+administrative matter related to the subject matter of this action or any current or
+future Commission investigation related thereto.
+
+VI. MISCELLANEOUS PROVISIONS
+
+74. On December 5, 2012, the Commission filed a civil enforcement
+action in the U.S. District Court for the Southern District of Florida against Hunter
+Wise and various other entities and individuals. See CFTC v. Hunter Wise
+Commodities, LLC, et al., Case No. 9:12-cv-81311-DMN (SD Fla.) (the âHunter
+Wise Litigationâ). On May 16, 2014, the Hunter Wise Court entered an Order of
+Final Judgment, Permanent Injunction, Civil Monetary Penalty and Other
+Equitable Relief against the defendants in that case. (Doc. No. 306). Among other
+relief, the Court ordered the Hunter Wise defendants to pay restitution in the
+amount of $52,643,399.19. To the extent funds are returned to Lions Wealth
+and/or 20/20 Metals customers in connection with claims administration process
+
+and plan of distribution in the Hunter Wise Litigation, Defendantsâ Restitution
+
+33
+
+ 
+
+ 
+
+17
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 34o0f37 Page ID #:6
+
+Obligation shall be reduced by that amount, on a dollar-for-dollar basis. To the
+extent Defendants claim they are entitled to such set-off, they shall provide notice
+to the Commission in the manner set forth in paragraph 75, below.
+75. Notice: All notices required to be given by any provision in this
+Consent Order shall be sent certified mail, return receipt requested, as follows:
+Notice to Commission:
+Rosemary Hollinger
+Deputy Director
+U.S. Commodity Futures Trading Commission
+
+525 W. Monroe Street, Suite 1100
+Chicago, IL 60661
+
+ 
+
+Notice to Defendants:
+Michael S. Winsten
+
+Winsten Law Group
+
+27201 Puerta Real, Suite 140
+Mission Viejo, CA 92691
+
+ 
+
+All such notices to the Commission shall reference the name and docket number of
+this action.
+
+76. Change of Address/Phone: Until such time as Defendants satisfy in
+full their Restitution Obligation and CMP Obligation as set forth in this Consent
+Order, Defendants shall provide written notice to the Commission by certified mail
+of any change to his telephone number and mailing address within ten (10)
+
+calendar days of the change.
+
+34
+
+ 
+
+ 
+
+18
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ase 8:13-cv-01923-JLS-JPR Document55 Filed 01/16/15 Page 35 of 37 Page ID #:6
+
+77. Entire Agreement and Amendments: This Consent Order incorporates
+all of the terms and conditions of the settlement among the parties hereto to date.
+Nothing shall serve to amend or modify this Consent Order in any respect
+whatsoever, unless: (a) reduced to writing; (b) signed by all parties hereto; and
+(c) approved by order of this Court.
+
+78. Invalidation: If any provision of this Consent Order or if the
+application of any provision or circumstance is held invalid, then the remainder of
+this Consent Order and the application of the provision to any other person or
+circumstance shall not be affected by the holding.
+
+79. Waiver: The failure of any party to this Consent Order or of any
+customer at any time to require performance of any provision of this Consent
+Order shall in no manner affect the right of the party or customer at a later time to
+enforce the same or any other provision of this Consent Order. No waiver in one
+or more instances of the breach of any provision contained in this Consent Order
+shall be deemed to be or construed as a further or continuing waiver of such breach
+or waiver of the breach of any other provision of this Consent Order.
+
+80. Continuing Jurisdiction of this Court: This Court shall retain
+jurisdiction of this action to ensure compliance with this Consent Order and for all
+other purposes related to this action, including any motion by Defendants to
+
+modify or for relief from the terms of this Consent Order.
+35
+
+ 
+
+ 
+
+ 
+
+19
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ 
+
+q
+
+ 
+
+ase 8:13-cv-01923-JLS-JPR Document 55 Filed 01/16/15 Page 36 of 37 Page ID #:6
+
+81. Injunctive and Equitable Relief Provisions: The injunctive and
+equitable relief provisions of this Consent Order shall be binding upon Defendants,
+upon any person under their authority or control, and upon any person who
+receives actual notice of this Consent Order, by personal service, e-mail, facsimile
+or otherwise insofar as he or she is acting in active concert or participation with
+Defendants.
+
+82. Authority: Bharat âBradâ Adatia hereby warrants that he is the sole
+officer and director of Defendants Lions Wealth Holdings, Inc. and 20/20 Precious
+Metals, Inc. and the president and director of Defendant Lions Wealth Services,
+Inc., and that this Consent Order has been duly authorized by LWH, 20/20 Metals
+and LWS and he has been duly empowered to sign and submit this Consent Order
+on their behalf.
+
+83. Counterparts and Facsimile Execution: This Consent Order may be
+executed in two or more counterparts, all of which shall be considered one and the
+same agreement and shall become effective when one or more counterparts have
+been signed by each of the parties hereto and delivered (by facsimile, e-mail, or
+otherwise) to the other party, it being understood that all parties need not sign the
+same counterpart. Any counterpart or other signature to this Consent Order that is
+delivered by any means shall be deemed for all purposes as constituting good and
+
+valid execution and delivery by such party of this Consent Order.
+36
+
+ 
+
+20
+Oo WH NHN NWN Or BP WO NY
+
+NO NO WN NPB WN WN ND KN KN RF FR RF FR BF Fr RF eR
+oOo tT HN NA BP WO NY KF CO CO WBA HN DB Nn Bh WO NY KF CO
+
+ase 8:13-cv-01923-JLS-JPR Document55 Filed 01/16/15 Page 37 of 37 Page ID #:421
+
+84. Defendants understand that the terms of the Consent Order are
+enforceable through contempt proceedings, and that, in any such proceeding, they
+may not challenge the validity of this Consent Order.
+
+THERE BEING NO JUST REASON FOR DELAY, the Clerk of the Court
+
+is hereby directed to enter this Consent Order for Permanent Injunction
+
+SO ORDERED:
+
+Dated: January 16, 2015
+
+ 
+
+Honorable Josephine L. Staton
+United States District Judge
+
+37
+
+ 
+
+ 
+
+ 

@@ -1,0 +1,814 @@
+Case 1:15-cv-06140 Documenti Filed 08/05/15 Page 1 of 24
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF NEW YORK
+
+ 
+
+U.S. COMMODITY FUTURES TRADING Case No. 1:15-cv-6140
+COMMISSION,
+
+Plaintiff, COMPLAINT FOR INJUNCTIVE
+AND OTHER EQUITABLE
+
+V. PENALTIES PURSUANT TO THE
+COMMODITY EXCHANGE ACT
+
+GARY CREAGH, and
+WALL STREET PIRATE MANAGEMENT, LLC,
+
+Defendants.
+
+ 
+
+ 
+
+Plaintiff U.S. Commodity Futures Trading Commission (âCommissionâ) alleges as
+
+follows:
+
+I. SUMMARY
+
+l. From at least December 2011 through September 2013 (the ârelevant periodââ),
+Wall Street Pirate Management, LLC (ââWSPMâ), by and through its managing member and sole
+employee Gary Creagh (âCreaghââ) (collectively the âDefendantsââ), made multiple false
+statements to the National Futures Association (the âNFAâ), the self-regulatory organization for
+the U.S. futures industry, in statutorily required reports and during an NFA audit of WSPM in
+furtherance of NFAâs official duties under the Commodity Exchange Act (the âActâ), 7 U.S.C. -
+Â§Â§ 1-23 (2012).
+
+2. Creagh, individually and as the agent of WSPM, falsely represented to the NFA
+that the Wall Street Pirate Fund, L.P. (the âWSPFâ or âWSPF commodity poolâ), a commodity
+pool WSPM operated, was not active during calendar year 2012 despite that WSPM accepted
+
+funds from participants in the WSPF commodity pool and actively traded commodity futures
+
+RELIEF AND CIVIL MONETARY â
+Case 1:15-cv-06140 Documenti1 Filed 08/05/15 Page 2 of 24
+
+contracts for the benefit of the WSPF commodity pool at an account in the poolâs name at futures
+commission merchant (the âFCMâ) Interactive Brokers (the âPool Trading Accountâ) throughout
+2012. As the sole person authorized to trade on behalf of WSPM, and the sole person who made
+hundreds of trades as the agent of WSPM, Creagh knew he personally and actively traded the
+Pool Trading Account on behalf of pool participants during the relevant period and knew his
+statements to the NFA were false.
+
+3. Defendantsâ actions violated Section 9(a)(4) of the Act, 7 U.S.C. Â§ 13(a)(4).
+(2012), which makes it illegal for any person willfully to falsify, conceal, or cover up by any
+trick, scheme, or artifice a material fact in communications with the NFA.
+
+4, Additionally, throughout the relevant period, WSPM, by and through its agent
+Creagh, failed to maintain required books and records and provide account statements and
+privacy notices to WSPF pool participants, in violation of Section 4n(3)(A) and (4) of the Act, 7
+U.S.C. Â§ 6n(3)(A), (4) (2012); Commission Regulation 1.31, 17 C.F.R. Â§ 1.31 (2012) (with
+respect to conduct before January 2, 2013); Commission Regulation 1.31, 17 C.F.R. Â§ 1.31
+(2012) (as amended by Adaptation of Regulations to Incorporate Swaps, 7 Fed. Reg. 66288,
+66323 (Nov. 2, 2012)) (with respect to conduct on or after January 2, 2013 and before February
+19, 2013); Commission Regulation 1.31, 17 C.F.R. Â§ 1.31 (2014) (with respect to conduct on or
+after February 19, 2013); Commission Regulation 4.22, 17 C.F.R. Â§ 4.22 (2012) (with respect to
+conduct before November 5, 2012); Commission Regulation 4.22, 17 C.F.R. Â§ 4.22 (2014) (with
+respect to conduct on or after November 5, 2012); Commission Regulation 4.23, 17 C.F.R.
+
+Â§ 4.23 (2012) (with respect to conduct before November 5, 2012); Commission Regulation 4.23,
+17 C.F.R. Â§ 4.23 (2012) (as amended by Amendments to Commodity Pool Operator and
+
+Commodity Trading Advisor Regulations Resulting from the Dodd-Frank Act, 77 Fed. Reg.
+
+ 
+Case 1:15-cv-06140 Document1 Filed 08/05/15 Page 3 of 24
+
+54355, 54358 (Sept. 5, 2012)) (with respect to conduct on or after November 5, 2012 and before
+January 2, 2013); Commission Regulation 4.23, 17 C.F.R. Â§ 4.23 (2013) (with respect to conduct
+on or after January 2, 2013 and before September 23, 2013); Commission Regulation 4.23, 17
+C.F.R. Â§ 4.23 (2014) (with respect to conduct on or after September 23, 2013); Commission
+Regulation 160.6, 17 C.F.R. Â§ 160.6 (2011) (with respect to conduct before January 1, 2012);
+and Commission Regulation 160.6, 17 C.F.R. Â§ 160.6 (2014) (with respect to conduct on or after
+January 1, 2012).
+
+5. Creaghâs false statements to the NFA concealed that WSPM had not maintained
+the books and records or provided the account statements and notices to pool participants
+required by the Act and Commission Regulations.
+
+6. Accordingly, the Commission brings this action pursuant to Section 6c of the Act,
+7 U.S.C. Â§ 13a-1 (2012), to enjoin Defendantsâ unlawful acts and to compel their compliance
+with the Act and Commission Regulations. In addition, the Commission seeks civil monetary
+penalties, disgorgement, and such other equitable relief as the Court may deem necessary or
+appropriate.
+
+II. JURISDICTION AND VENUE
+
+7. This Court has jurisdiction over this action pursuant to Section 6c of the Act,
+
+7 ULS.C. Â§ 13a-1 (2012), which authorizes the Commission to seek injunctive and other relief
+against any person whenever it appears to the Commission that such person has engaged, is
+engaging, or is about to engage in any act or practice constituting a violation of any provision of
+the Act or any rule, regulation, or order thereunder.
+
+8. Venue lies properly in this District pursuant to Section 6c(e) of the Act, 7 U.S.C.
+Â§ 13a-1(e) (2012), because the Defendants transacted business in the Southern District of New
+
+York, and Defendantsâ acts and practices in violation of the Act occurred within this District.
+
+-3-
+Case 1:15-cv-06140 Document1 Filed 08/05/15 Page 4 of 24
+
+Il. THE PARTIES
+
+9, Plaintiff United States Commodity Futures Trading Commission is an
+independent federal regulatory agency charged by Congress with the administration and
+enforcement of the Act and the Commission Regulations promulgated thereunder. The
+Commission maintains its principal office at 1155 21st Street NW, Washington, DC 20581.
+
+10. Defendant Wall Street Pirate Management, LLC is a Pennsylvania limited
+liability company with its principal place of business listed as Philadelphia, Pennsylvania.
+WSPM also regularly conducted business from offices in New York, New York. WSPM was
+registered with the Commission as a commodity pool operator (âCPOâ) from December 2011
+through September 2013.
+
+11. Defendant Gary Creagh is the sole managing member of WSPM and its only
+employee. Creagh controls WSPMâs operations, finances, accounts, and books and records, and
+he is the sole signatory on WSPMâs bank account and sole person authorized to trade its
+commodity accounts on behalf of pool participants. During the relevant period, Creagh resided
+and worked in both Philadelphia, Pennsylvania and New York, New York. Creagh was
+registered with the Commission as an associated person (âAPâ) of WSPM throughout the
+relevant period.
+
+IV. OTHER RELEVANT ENTITY
+
+12. Wall Street Pirate Fund, L.P. was a Delaware limited partnership. WSPF was a
+single-advisor commodity pool that provided a means by which investors could engage in the
+buying and selling of commodity interests. WSPM was the general partner and CPO of WSPF.
+
+13. The National Futures Association is a futures association registered with the
+Commission pursuant to Section 17 of the Act, 7 U.S.C. Â§ 21 (2012). Membership in the NFA is
+
+mandatory for all persons and entities conducting business with the public in the U.S. futures
+
+-4-
+Case 1:15-cv-06140 Document1 Filed 08/05/15 Page 5 of 24
+
+industry, including CPOs and APs of CPOs. Pursuant to its official duties as a registered futures
+association, the NFA has developed a body of rules to safeguard market integrity, protect
+investors from fraud, and help futures entities and their APs meet regulatory responsibilities.
+NFA members are subject to audits and investigations by the NFA to ensure compliance with
+NFA rules, the Act, and Commission Regulations. Cooperation and candor by NFA members
+with NFA compliance and audit staff are critical to the NFAâs ability to discharge its obligations
+as a registered futures association to, among other things, protect members of the public from
+persons or entities unlawfully soliciting customers, accepting customer orders, or exercising
+trading discretion on behalf of customers.
+
+V. FACTS
+
+A. Operation of the WSPF Commodity Pool
+
+14. On or about March 15, 2012, Creagh, acting as the agent of WSPM, opened a
+commodity trading account at the FCM Interactive Brokers in the name of the WSPF commodity
+pool. WSPM was identified as the CPO of the pool, and Creagh was identified as the sole
+principal of WSPM authorized to effect transactions for the benefit of the Pool Trading Account.
+
+15. | Onor about March 15, 2012, Creagh invested $150,000 with WSPM to
+participate in the WSPF commodity pool. On or about that same day, Creagh, acting as the agent
+of WSPM as its CPO, deposited the $150,000 into a WSPM account at TD Bank and then
+transferred via wire the $150,000 into the Pool Trading Account. Creagh opened the TD Bank
+account in the name of WSPM.
+
+16.  Atall times relevant hereto, Creagh was the sole employee of WSPM, the sole
+managing member of WSPF, the sole signatory on the WSPM bank account at TD Bank, and the
+sole person authorized to trade the commodity trading account carried in the name of WSPF at
+
+the FCM Interactive Brokers. Accordingly, at all times relevant hereto Creagh had personal
+
+.5-
+Case 1:15-cv-06140 Documenti Filed 08/05/15 Page 6 of 24
+
+knowledge of the total amount of funds accepted by the pool from participants, the disposition of
+said funds, as well as the number of trades effected on behalf of pool participants in the poolâs
+commodity trading account and the date each trade was made.
+
+17. Immediately after Creagh transferred the $150,000 into the Pool Trading Account,
+WSPM, by and through Creagh, began actively operating the WSPF commodity pool by buying
+and selling commodity futures contracts in the Pool Trading Account for the benefit of the
+WSPF commodity pool, as described below.
+
+18. On or about April 10, 2012, an acquaintance of Creagh invested $50,000 with
+Defendants to participate in the WSPF commodity pool. On or about May 2, 2012, WSPM, by
+and through its agent Creagh, deposited these funds into the WSPM account at TD Bank and
+then transferred the funds by wire into the Pool Trading Account.
+
+19. On or about May 30, 2012, another acquaintance of Creagh invested $50,000 with
+Defendants to participate in the WSPF commodity pool. On or about July 12, 2012, WSPM, by
+and through its agent Creagh, deposited the $50,000 into the WSPM account at TD Bank and
+then transferred the $50,000 by wire into the Pool Trading Account.
+
+20. All of the funds transferred into the Pool Trading Account were funds belonging
+to the WSPF commodity pool participants and were used to effect commodity futures
+transactions.
+
+21. Asreflected in the daily activity statements for the Pool Trading Account,
+WSPM, by and through its agent Creagh, placed hundreds of commodity futures trades for the
+
+benefit of the pool throughout calendar year 2012.
+Case 1:15-cv-06140 Document1 Filed 08/05/15 Page 7 of 24
+
+B. False Statements Made to the NFA
+
+22. In furtherance of its official duties under the Act, the NFA conducts periodic
+audits and examinations of NFA members as a means of monitoring and assuring compliance
+with NFA rules, the Act, and Commission Regulations.
+
+23. In addition, pursuant to NFA rules, the Act, and Commission Regulations, CPOs
+are required to file with the NFA quarterly financial reports for each pool the CPO operates.
+CPOs may file these quarterly reports electronically with the NFA using the NFAâs EasyFile
+system (the âEasyFileâ). One of the prompts for an individual effecting a report using EasyFile
+. 1 whether the pool at issue was active or not during the reporting period.
+
+24. During the relevant period, WSPM, by and through its agent Creagh, filed four
+false written quarterly reports with the NFA and thereafter made false oral statements to the NFA
+during an NFA audit of WSPM.
+
+25. | Onor about May 31, 2012, WSPM, by and through its agent Creagh, filed with
+the NFA through EasyFile a false quarterly report for the quarter ending March 30, 2012.
+
+26. Despite that between March 15, 2012 and March 31, 2012, WSPM accepted funds
+from a pool participant and traded multiple commodity futures contracts in the Pool Trading
+Account for the benefit of that pool participant, WSPM, by and through its agent Creagh, falsely
+represented to the NFA that the WSPF commodity pool did not operate during that period.
+Creagh knew this statement was false as he knew WSPM had accepted WSPF pool participant
+funds and he actively traded commodity futures contracts as the agent of WSPF during the
+reporting period.
+
+27. | On about September 12, 2012, WSPM, by and through its agent Creagh, filed a
+
+second false quarterly report with the NFA through EasyFile.
+Case 1:15-cv-06140 Document1 Filed 08/05/15 Page 8 of 24
+
+28. Despite that between April 1, 2012 and June 30, 2012, WSPM accepted $100,000
+from two pool participants and traded multiple commodity futures contracts in the Pool Trading
+Account on behalf of the WSPF commodity pool, WSPM, by and through its agent Creagh,
+falsely represented to the NFA that the WSPF commodity pool did not operate during that
+period. Creagh knew this statement was false as he knew WSPM had accepted WSPF pool
+participant funds and he had actively traded commodity futures contracts as the agent of WSPF
+during the reporting period.
+
+29. Onor about February 12, 2013, WSPM, by and through its agent Creagh, filed
+additional false reports with NFA through EasyFile.
+
+30. Despite that WSPM traded multiple commodity futures contracts in the Pool
+Trading Account on behalf of WSPF between July 1, 2012 and December 31, 2012, WSPM, by
+and through its agent Creagh, falsely represented to the NFA that the WSPF commodity pool did
+not operate during that period. Creagh knew this statement was false as he had actively traded
+commodity futures contracts on behalf of WSPF during the reporting period.
+
+31. On June 12, 2014, during testimony under oath before the Commission, Creagh
+admitted filing false quarterly reports with NFA.
+
+32. Subsequent to the filing of these false reports, on March 4, 2013, the NFA
+conducted an unannounced on-site audit of WSPM, at its offices in New York, New York, to
+ensure the firm was in compliance with its recordkeeping and financial requirements.
+
+33. During the audit, Creagh, individually and as the agent and managing member of
+WSPM, falsely represented to the NFA orally that WSPF was not active during calendar year
+
+2012. Creagh knew these statements were false as he knew WSPM had accepted funds from
+Case 1:15-cv-06140 Documenti Filed 08/05/15 Page 9 of 24
+
+prospective pool participants and he actively traded commodity futures contracts in the Pool
+Trading Account on behalf of WSPF throughout calendar year 2012.
+
+34. OnJune 12, 2014, during testimony under oath before the Commission, Creagh
+admitted that the WSPF commodity pool was active in 2012. Creagh also admitted that WSPM
+accepted funds from WSPF pool participants and traded commodity futures contracts on behalf
+
+of WSPF throughout 2012.
+
+C. Failure to Keep Books and Records, and Provide Account Statements and Privacy
+Notices to Pool Participants
+
+35. As described in more detail below, the Act and Commission Regulations require
+registered CPOs to maintain certain books and records concerning the CPO and each pool it
+operates, and provide periodic account statements and privacy notices to pool participants.
+
+36. Atall times during the relevant period, the WSPF commodity pool held net assets
+less than $500,000.
+
+37. Despite operating the WSPF commodity pool during the relevant period by
+among other things, accepting pool participant funds and trading commodity futures on behalf of
+the pool, WSPM failed to maintain the books and records required by Commission Regulations.
+
+38. Specifically, WSPM did not maintain, among other books and records: (1) a
+general ledger, (2) statement of financial condition, (3) statement of income/loss, and/or (4) a
+cash receipts and disbursements journal.
+
+39. On June 12, 2014, during testimony under oath before the Commission, Creagh
+admitted that the WSPF commodity pool, which WSPM operated, did not maintain these
+
+required records.
+Case 1:15-cv-06140 Document1 Filed 08/05/15 Page 10 of 24
+
+40. Additionally, despite operating the WSPF commodity pool during the relevant
+period, WSPM failed to prepare and distribute periodic accounts statements to the WSPF
+commodity pool participants, as required by the Act and Commission Regulations.
+
+41. Specifically, WSPM failed to provide pool participants with at least quarterly
+account statements covering the ten month period during which WSPM operated the WSPF pool
+in 2012, and a timely annual report for 2012.
+
+42. On June 12, 2014, during testimony under oath before the Commission, Creagh
+admitted that during the life of the WSPF commodity pool, he never provided pool participants
+monthly or quarterly account statements.
+
+43. Furthermore, WSPM failed to provide to the WSPF pool participants the privacy
+notices required by Commission Regulations. Specifically, WSPM failed to notify pool
+participants of the categories of nonpublic personal information that WSPM collected and
+WSPMâs policies and practices with respect to protecting the confidentiality and security of that
+information, as required by Commission Regulation 160.6, 17 C.F.R. Â§ 160.6 (2011) (with
+respect to conduct before January 1, 2012), and Commission Regulation 160.6, 17 C.F.R.
+
+Â§ 160.6 (2014) (with respect to conduct on or after January 1, 2012).
+
+44. On June 12, 2014, during testimony under oath before the Commission, Creagh
+admitted that WSPM did not provide this required information to the WSPF pool participants.
+
+45. Unless restrained and enjoined by this Court, Defendants are likely to continue to
+engage in the acts and practices alleged in this Complaint and in similar acts and practices.
+
+VI. STATUTORY AND REGULATORY VIOLATIONS
+COUNT I
+
+FALSE STATEMENTS TO THE NFA
+(VIOLATIONS OF 7 U.S.C. Â§ 13(a)(4) (2012))
+
+-10-
+Case 1:15-cv-06140 Document1 Filed 08/05/15 Page 11 of 24
+
+46. The allegations in the foregoing paragraphs are incorporated herein by reference.
+47. Section 9(a)(4) of the Act, 7 U.S.C. Â§ 13(a)(4) (2012), makes it unlawful for:
+Any person willfully to falsify, conceal, or cover up by any trick,
+scheme, or artifice a material fact, make any false, fictitious, or
+fraudulent statements or representations, or make or use any false
+writing or document knowing the same to contain any false,
+fictitious, or fraudulent statement or entry to a registered entity,
+board of trade, swap data repository, or futures association
+designated or registered under this Act acting in furtherance of its
+official duties under this Act.
+
+48. Creagh, individually and as the agent of WSPM, willfully made materially false
+statements to the NFA, and concealed material information from the NFA, in statutorily required
+reports and during oral communications with NFA staff during an NFA audit in furtherance of
+the NFAâs official duties under the Act, in violation of Section 9(a)(4) of the Act, 7 U.S.C.
+
+Â§ 13(a)(4) (2012).
+
+49. Specifically, as alleged above, Creagh, individually and as the agent of WSPM,
+falsely stated to NFA staff during an NFA audit and in statutorily required reports filed with the
+NFA that the WSPF commodity pool did not operate during calendar year 2012.
+
+50. | Creagh knew that these material statements were false as he personally accepted
+funds from participants in the WSPF commodity pool as the agent of WSPF, and he actively
+traded commodity futures contracts in the Pool Trading Account on behalf of WSPF during
+2012.
+
+51. By making false statements to the NFA, and by concealing trading activity from
+the NFA, Creagh, individually and as the agent of WSPM, willfully falsified, concealed, and
+covered up by trick, scheme, or artifice material facts and made false writings or documents
+
+knowing the same to contain false statements, in violation of Section 9(a)(4) of the Act, 7 U.S.C.
+
+Â§ 13(a)(4) (2012).
+
+-ll-
+Case 1:15-cv-06140 Documenti Filed 08/05/15 Page 12 of 24
+
+52. Each of the false statements Creagh made to the NFA occurred within the scope
+of his office or employment with WSPM. Therefore, WSPM is liable for those false statements
+pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1)(B) (2012), and Commission
+Regulation 1.2, 17 C.F.R. Â§ 1.2 (2014).
+
+53. Moreover, at all times pertinent to this Complaint, Creagh controlled WSPM,
+directly or indirectly, and did not act in good faith or knowingly induced, directly or indirectly,
+the acts constituting WSPMâs violations of Section 9(a)(4) of the Act. Therefore, Creagh is
+liable for WSPMâs violations of Section 9(a)(4) of the Act, pursuant to Section 13(b) of the Act,
+7 ULS.C. Â§ 13Â¢(b) (2012).
+
+54. Each false, fictitious, or fraudulent statement, representation, or omission, and
+each act of concealment, including but not limited to those specifically alleged herein, is alleged
+as a separate and distinct violation of Section 9(a)(4) of the Act, 7 U.S.C. Â§ 13(a)(4) (2012).
+
+COUNT IH
+
+FAILURE TO MAINTAIN BOOKS AND RECORDS
+(VIOLATIONS OF 7 U.S.C. Â§ 6n(3)(A) (2012) AND 17 C.F.R. Â§ 1.31 (2012))
+
+55. The allegations in the foregoing paragraphs are incorporated herein by reference.
+
+56. Section 4n(3)(A) of the Act, 7 U.S.C. Â§ 6n(3)(A) (2012), requires every registered
+CPO to maintain books and records as proscribed by the Commission.
+
+57. | Commission Regulation 1.31 provides that all books and records required to be
+maintained by the Act or Commission Regulations must be kept for a period of five years. 17
+C.F.R. Â§ 1.31 (2012) (with respect to conduct before January 2, 2013); 17 C.F.R. Â§ 1.31 (2012)
+(as amended by Adaptation of Regulations to Incorporate Swaps, 77 Fed. Reg. 66288, 66323
+(Nov. 2, 2012)) (with respect to conduct on or after January 2, 2013 and before February 19,
+
+2013); 17 C.F.R. Â§ 1.31 (2014) (with respect to conduct on or after February 19, 2013).
+
+-12-
+Case 1:15-cv-06140 Document1 Filed 08/05/15 Page 13 of 24
+
+58. | Commission Regulation 4.23 requires every registered CPO to maintain certain
+books and records concerning the commodity pool and the CPO, including, but not limited to:
+(1) an itemized daily record of each commodity interest transaction for the pool; (2) a journal of
+original entry or other equivalent record showing all receipts and disbursements of money,
+securities, and other property; (3) a subsidiary ledger or other equivalent record for each
+participant in the pool showing the participantâs name and address and all funds, securities, and
+other property that the pool received from or distributed to the participant; (4) adjusting entries
+and any other records of original entry or their equivalent forming the basis of entries in any
+ledger; (5) a general ledger or other equivalent record containing details of all asset, liability,
+capital, income, and expense accounts; (6) copies of each confirmation of a commodity interest
+transaction of the pool, each purchase and sale statement, and each monthly statement for the
+pool received from a FCM or retail foreign exchange dealer (hereinafter the âRFEDâ); (7)
+cancelled checks, bank statements, journals, ledgers, invoices, computer generated records, and
+all other records, data, and memoranda prepared or received in connection with the operation of
+the pool; (8) all documents distributed by the CPO to pool participants; (9) a Statement of
+Financial Condition; (10) a Statement of Income or Loss; and (11) a manually signed copy of
+each Account Statement and Annual Report provided pursuant to Commission Regulations
+4.7(b), 4.12(b), or 4.22 and records of key financial balances submitted to the NFA for each
+commodity pool Annual Report, which records must clearly demonstrate how the key financial
+balances were compiled from the Annual Report. 17 C.F.R. Â§ 4.23 (2012) (with respect to
+conduct before November 5, 2012); 17 C.F.R. Â§ 4.23 (2012) (as amended by Amendments to
+Commodity Pool Operator and Commodity Trading Advisor Regulations Resulting from the
+
+Dodd-Frank Act, 77 Fed. Reg. 54355, 54358 (Sept. 5, 2012)) (with respect to conduct on or after
+
+-13-
+Case 1:15-cv-06140 Documenti Filed 08/05/15 Page 14 of 24
+
+November 5, 2012 and before January 2, 2013); 17 C.F.R. Â§ 4.23 (2013) (with respect to conduct
+on or after January 2, 2013 and before September 23, 2013); 17 C.F.R. Â§ 4.23 (2014) (with
+respect to conduct on or after September 23, 2013).
+
+59. The records required to be maintained concerning the CPO, include, but are not
+limited to: (1) an itemized daily record of each commodity interest transaction of the CPO and
+each principal thereof, showing the transaction date, quantity, commodity interest, and, as
+applicable, price or premium, delivery month or expiration date, whether a put or a call, strike
+price, underlying contract for future delivery or underlying physical, the FCM or RFED carrying
+the account and the introducing broker, if any, whether the commodity interest was purchased,
+sold, exercised or expired, and the gain or loss realized; (2) each confirmation of a commodity
+interest transaction, each purchase and sale statement, and each monthly statement furnished by a
+FCM or RFED relating to any personal accounts of the CPO or any of its principals; and (3) the
+books and records of all other transactions in all other activities in which the pool operator
+engages. Commission Regulation 4.23, 17 C.F.R. Â§ 4.23 (2012) (with respect to conduct before
+November 5, 2012); Commission Regulation 4.23, 17 C.F.R. Â§ 4.23 (2012) (as amended by
+Amendments to Commodity Pool Operator and Commodity Trading Advisor Regulations
+| Resulting from the Dodd-Frank Act, 77 Fed. Reg. 54355, 54358 (Sept. 5, 2012)) (with respect to
+conduct on or after November 5, 2012 and before January 2, 2013); Commission Regulation
+4.23, 17 C.F.R. Â§ 4.23 (2013) (with respect to conduct on or after January 2, 2013 and before
+September 23, 2013); Commission Regulation 4.23, 17 C.F.R. Â§ 4.23 (2014) (with respect to
+conduct on or after September 23, 2013).
+
+60. During the relevant period, WSPM failed to maintain for the WSPF commodity
+
+pool required books and records, including, but not limited to: (1) a general ledger, (2) statement
+
+-14-
+Case 1:15-cv-06140 Documenti Filed 08/05/15 Page 15 of 24
+
+of financial condition, (3) statement of income/loss, and (4) a cash receipts and disbursements
+journal. Accordingly, WSPM violated Section 4n(3)(A) of the Act, 7 U.S.C. Â§ 6n(3)(A) (2012);
+Commission Regulation 1.31, 17 C.F.R. Â§ 1.31 (2012) (with respect to conduct before January 2,
+2013); Commission Regulation 1.31, 17 C.F.R. Â§ 1.31 (2012) (as amended by Adaptation of â
+Regulations to Incorporate Swaps, 77 Fed. Reg. 66288, 66323 (Nov. 2, 2012)) (with respect to
+conduct on or after January 2, 2013 and before February 19, 2013); Commission Regulation
+1.31, 17 C.F.R. Â§ 1.31 (2014) (with respect to conduct on or after February 19, 2013);
+Commission Regulation 4.23, 17 C.F.R. Â§ 4.23 (2012) (with respect to conduct before November
+5, 2012); Commission Regulation 4.23, 17 C.F.R. Â§ 4.23 (2012) (as amended by Amendments to
+Commodity Pool Operator and Commodity Trading Advisor Regulations Resulting from the
+Dodd-Frank Act, 77 Fed. Reg. 54355, 54358 (Sept. 5, 2012)) (with respect to conduct on or after
+November 5, 2012 and before January 2, 2013); Commission Regulation 4.23, 17 C.F.R. Â§ 4.23
+(2013) (with respect to conduct on or after January 2, 2013 and before September 23, 2013); and
+Commission Regulation 4.23, 17 C.F.R. Â§ 4.23 (2014) (with respect to conduct on or after
+September 23, 2013).
+
+61. Atall times pertinent to this Complaint, Creagh controlled WSPM, directly or
+indirectly, and did not act in good faith or knowingly induced, directly or indirectly, the acts
+constituting WSPMâs violations of the Act and Commission Regulations. Therefore, Creagh is
+liable for WSPMâs violations of the Act and Commission Regulations, pursuant to Section 13(b)
+of the Act, 7 U.S.C. Â§ 13c(b) (2012).
+
+62. Each failure to maintain required records, including but not limited to those
+alleged herein, is alleged as a separate and distinct violation of, as applicable, Section 4n(3)(A)
+
+of the Act, 7 U.S.C. Â§ 6n(3)(A) (2012); Commission Regulation 1.31, 17 C.F.R. Â§ 1.31 (2012)
+
+-15-
+Case 1:15-cv-06140 Document1 Filed 08/05/15 Page 16 of 24
+
+(with respect to conduct before January 2, 2013); Commission Regulation 1.31, 17 C.F.R. Â§ 1.31
+(2012) (as amended by Adaptation of Regulations to Incorporate Swaps, 77 Fed. Reg. 66288,
+66323 (Nov. 2, 2012)) (with respect to conduct on or after January 2, 2013 and before February
+19, 2013); Commission Regulation 1.31, 17 C.F.R. Â§ 1.31 (2014) (with respect to conduct on or
+after February 19, 2013); Commission Regulation 4.23, 17 C.F.R. Â§ 4.23 (2012) (with respect to
+conduct before November 5, 2012); Commission Regulation 4.23, 17 C.F.R. Â§ 4.23 (2012) (as
+amended by Amendments to Commodity Pool Operator and Commodity Trading Advisor
+Regulations Resulting from the Dodd-Frank Act, 77 Fed. Reg. 54355, 54358 (Sept. 5, 2012))
+(with respect to conduct on or after November 5, 2012 and before January 2, 2013); Commission
+Regulation 4.23, 17 C.F.R. Â§ 4.23 (2013) (with respect to conduct on or after January 2, 2013
+and before September 23, 2013); and Commission Regulation 4.23, 17 C.F.R. Â§ 4.23 (2014)
+(with respect to conduct on or after September 23, 2013).
+
+COUNT Ut
+
+FAILURE TO ISSUE ACCOUNT STATEMENTS AND ANNUAL REPORT
+(VIOLATIONS OF 7 U.S.C. Â§ 6n(4) (2012) AND 17 C.F.R. Â§ 4.22 (2012))
+
+63. The allegations in the foregoing paragraphs are incorporated herein by reference.
+
+64. Section 4n(4) of the Act, 7 U.S.C. Â§ 6n(4) (2012), requires every CPO to regularly
+furnish an account statement to each pool participant.
+
+65. | Commission Regulation 4.22(a) and (b) requires every registered CPO, operating
+a pool with net assets less than $500,000, to at least quarterly distribute to each pool participant
+an Account Statement, which shall be presented in the form of a Statement of Operations and a
+Statement of Changes in Net Assets, for the prescribed period. 17 C.F.R. Â§ 4.22 (2012) (with
+respect to conduct before November 5, 2012); 17 C.F.R. Â§ 4.22 (2014) (with respect to conduct
+
+on or after November 5, 2012).
+
+-16-
+Case 1:15-cv-06140 Document1 Filed 08/05/15 Page 17 of 24
+
+66. The portion of the Account Statement which must be presented in the form of a
+Statement of Operations must separately itemize the following information about the operation
+of the pool during the reporting period: (i) the total amount of realized net gain or loss on
+commodity interest positions liquidated; (ii) the change in unrealized net gain or loss on
+commodity interest positions; (iii) the total amount of net gain or loss from all other transactions
+in which the pool engaged; (iv) the total amount of all management fees; (v) the total amount of
+all advisory fees; (vi) the total amount of all brokerage fees; (vii) the total amount of other fees
+for commodity interest and other investment transactions; and (viii) the total amount of all other
+expenses incurred or accrued by the pool. Commission Regulation 4.22(a)(1)(i)-(viii), 17 C.F.R.
+Â§ 4.22(a)(1)(i)-(viii) (2012) (with respect to conduct before November 5, 2012); Commission
+Regulation 4.22(a)(1)(i)-(viil), 17 C.F.R. Â§ 4.22(a)(1)(i)-(viil) (2014) (with respect to conduct on
+or after November 5, 2012).
+
+67. The portion of the Account Statement which must be presented in the form of a
+Statement of Changes in Net Assets must separately itemize the following information about the
+operation of the pool during the reporting period: (i) the net asset value of the pool as of the
+beginning of the reporting period; (11) the total amount of additions to the pool, whether
+voluntary or involuntary; (iii) the total amount of withdrawals from and redemption of
+participation units in the pool, whether voluntary or involuntary; (iv) the total net income or loss
+of the pool; (v) the net asset value per outstanding participation unit in the pool as of the end of
+the reporting period; and (vi) the total value of the participantâs interest or share in the pool as of
+the end of the reporting period. Commission Regulation 4.22(a)(2)(1)-(v), 17 C.F.R.
+
+Â§ 4.22(a)(2)(1)-(v) (2012) (with respect to conduct before November 5, 2012); Commission
+
+._17-
+
+ 
+Case 1:15-cv-06140 Document1 Filed 08/05/15 Page 18 of 24
+
+Regulation 4.22(a)(2)(i)-(v), 17 C.F.R. Â§ 4.22(a)(2)(i)-(v) (2014) (with respect to conduct on or
+after November 5, 2012).
+
+68. Subject to two exceptions that are not applicable to WSPM, each Account
+Statement required to be distributed to pool participants by CPOs must be distributed within 30
+calendar days after the last date of the reporting period covered by the Account Statement.
+Commission Regulation 4.22(a)(1), 17 C.F.R. Â§ 4.22 (a)(1)(2012) (with respect to conduct before
+November 5, 2012); Commission Regulation 4.22(a)(1), 17 C.F.R. Â§ 4.22(a)(1) (2014) (with
+respect to conduct on or after November 5, 2012).
+
+69. In addition, Commission Regulation 4.22(c) requires each CPO to distribute to
+each pool participant an Annual Report, and also electronically submit a copy of the Annual
+Report to the NFA pursuant to the electronic filing procedures of the NFA, within ninety (90)
+calendar days after the end of the poolâs fiscal year or the permanent cessation of trading,
+whichever is earlier. 17 C.F.R. Â§ 4.22(c) (2012) (with respect to conduct before November 5,
+2012); 17 C.F.R. Â§ 4.22(c) (2014) (with respect to conduct on or after November 5, 2012).
+
+70. The Annual Report must be affirmed pursuant to Commission Regulation 4.22(h),
+and must contain the following: (1) the net asset value of the pool as of the end of each of the
+poolâs two preceding fiscal years; (2) the net asset value per outstanding participation unit in the
+pool as of the end of each of the poolâs two preceding fiscal years, or the total value of the
+participantâs interest or share in the pool as of the end of each of the poolâs two preceding fiscal
+years; (3) a Statement of Financial Condition as of the close of the poolâs fiscal year and
+preceding fiscal year; (4) Statements of Operations, and Changes in Net Assets; and (5)
+appropriate footnote disclosure and such further material information as may be necessary to
+
+make the required statements not misleading. Commission Regulation 4.22(c)(1)-(5), 17 C.F.R.
+
+-18-
+
+ 
+Case 1:15-cv-06140 Document1 Filed 08/05/15 Page 19 of 24
+
+Â§ 4.22(c)(1)-(5) (2012) (with respect to conduct before November 5, 2012); Commission
+Regulation 4.22(c)(1)-(5), 17 C.F.R. Â§ 4.22(c)(1)-(5) (2014) (with respect to conduct on or after
+November 5, 2012).
+
+71. As alleged above, WSPM failed to provide participants in the WSPF commodity
+pool with (1) Account Statement(s) covering any of the ten months it operated during calendar
+year 2012, and (2) a timely Annual Report covering its operations for calendar year 2012.
+Accordingly, WSPM violated Section 4n(4) of the Act, 7 U.S.C. Â§ 6n(4) (2012); Commission
+Regulation 4.22, 17 C.F.R. Â§ 4.22 (2012) (with respect to conduct before November 5, 2012);
+and Commission Regulation 4.22, 17 C.F.R. Â§ 4.22 (2014) (with respect to conduct on or after
+November 5, 2012).
+
+72. At all times pertinent to this Complaint, Creagh controlled WSPM, directly or
+indirectly, and did not act in good faith or knowingly induced, directly or indirectly, the acts
+constituting WSPMâs violations of the Act and Commission Regulations. Therefore, Creagh is
+liable for WSPMâs violations of the Act and Commission Regulations, pursuant to Section 13(b)
+of the Act, 7 U.S.C. Â§ 13c(b) (2012).
+
+73. Each failure to issue required Account Statement(s) and Annual Report to pool
+participants, including but not limited to those alleged herein, is alleged as a separate and distinct
+violation of, as applicable, Section 4n(4) of the Act, 7 U.S.C. Â§ 6n(4) (2012); Commission
+Regulation 4.22, 17 C.F.R. Â§ 4.22 (2012) (with respect to conduct before November 5, 2012);
+and Commission Regulation 4.22, 17 C.F.R. Â§ 4.22 (2014) (with respect to conduct on or after
+
+November 5, 2012).
+
+-19-
+Case 1:15-cv-06140 Document1 Filed 08/05/15 Page 20 of 24
+
+COUNT IV
+
+FAILURE TO ISSUE REQUIRED PRIVACY NOTICES
+(VIOLATIONS OF 17 C.F.R. Â§ 160.4 (2014))
+
+74. The allegations in the foregoing paragraphs are incorporated herein by reference.
+
+75. Commission Regulation 160.4, 17 C.F.R. Â§ 160.4 (2014), requires every
+registered CPO to provide an initial privacy notice to each of its customers when the customer
+provides funds for an interest in a commodity pool.
+
+76. The required initial privacy notice must include, among other information: (1) the
+categories of nonpublic personal information that the CPO collects, and (2) the CPOâs policies
+and practices with respect to protecting the confidentiality and security of that information.
+Commission Regulation 160.6, 17 C.F.R. Â§ 160.6 (2011) (with respect to conduct before January
+1, 2012); Commission Regulation 160.6, 17 C.F.R. Â§ 160.6 (2014) (with respect to conduct on or
+after January 1, 2012).
+
+77. = WSPM did not provide to participants in the WSPF commodity pool notice of the
+categories of nonpublic personal information that WSPM collected or WSPMâs policies and
+practices with respect to protecting the confidentiality and security of that information.
+Accordingly, WSPM violated Commission Regulation 160.6, 17 C.F.R. Â§ 160.6 (2011) (with
+respect to conduct before January 1, 2012), and Commission Regulation 160.6, 17 C.F.R.
+
+Â§ 160.6 (2014) (with respect to conduct on or after January 1, 2012).
+
+78. At all times pertinent to this Complaint, Creagh controlled WSPM, directly or
+indirectly, and did not act in good faith or knowingly induced, directly or indirectly, the acts
+constituting WSPMâs violations of Commission Regulations. Therefore, Creagh is liable for
+WSPMâs violations of Commission Regulation 160.6, 17 C.F.R. Â§ 160.6 (2011) (with respect to
+
+conduct before January 1, 2012), and Commission Regulation 160.6, 17 C.F.R. Â§ 160.6 (2014)
+
+- 20 -
+Case 1:15-cv-06140 Documenti Filed 08/05/15 Page 21 of 24
+
+(with respect to conduct on or after January 1, 2012), pursuant to Section 13(b) of the Act, 7
+U.S.C. Â§ 13c(b) (2012).
+
+79. Each failure to provide the required privacy notices, including but not limited to
+those alleged herein, are alleged as separate and distinct violations of Commission Regulation
+160.6, 17 C.F.R. Â§ 160.6 (2011) (with respect to conduct before January 1, 2012), and
+Commission Regulation 160.6, 17 C.F.R. Â§ 160.6 (2014) (with respect to conduct on or after
+January 1, 2012).
+
+VIL. RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that the Court, as authorized by
+Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), and pursuant to its own equitable powers, enter:
+
+A. An order finding that Defendants violated Section 9(a)(4) of the Act,
+7 U.S.C. Â§ 13(a)(4) (2012); Section 4n(3)(A) and (4) of the Act, 7 U.S.C. Â§ 6n(3)(A), (4) (2012);
+Commission Regulation 1.31, 17 C.F.R. Â§ 1.31 (2012) (with respect to conduct before January 2,
+2013): Commission Regulation 1.31, 17 C.F.R. Â§ 1.31 (2012) (as amended by Adaptation of
+Regulations to Incorporate Swaps, 77 Fed. Reg. 66288, 66323 (Nov. 2, 2012)) (with respect to
+conduct on or after January 2, 2013 and before February 19, 2013); Commission Regulation
+1.31, 17 C.F.R. Â§ 1.31 (2014) (with respect to conduct on or after February 19, 2013);
+Commission Regulation 4.22, 17 C.F.R. Â§ 4.22 (2012) (with respect to conduct before November
+5, 2012); Commission Regulation 4.22, 17 C.F.R. Â§ 4.22 (2014) (with respect to conduct on or
+after November 5, 2012); Commission Regulation 4.23, 17 C.F.R. Â§ 4.23 (2012) (with respect to
+conduct before November 5, 2012); Commission Regulation 4.23, 17 C.F.R. Â§ 4.23 (2012) (as
+amended by Amendments to Commodity Pool Operator and Commodity Trading Advisor
+Regulations Resulting from the Dodd-Frank Act, 77 Fed. Reg. 54355, 54358 (Sept. 5, 2012))
+
+(with respect to conduct on or after November 5, 2012 and before January 2, 2013); Commission
+
+-21-
+Case 1:15-cv-06140 Documenti Filed 08/05/15 Page 22 of 24
+
+Regulation 4.23, 17 C.F.R. Â§ 4.23 (2013) (with respect to conduct on or after January 2, 2013
+and before September 23, 2013); Commission Regulation 4.23, 17 C.F.R. Â§ 4.23 (2014) (with
+respect to conduct on or after September 23, 2013); Commission Regulation 160.6, 17 C.F.R.
+Â§ 160.6 (2011) (with respect to conduct before January 1, 2012); and Commission Regulation
+160.6, 17 C.F.R. Â§ 160.6 (2014) (with respect to conduct on or after January 1, 2012).
+
+B. An order of permanent injunction prohibiting Defendants, and any other person or
+entity associated with them, from engaging in conduct in violation of Sections 9(a)(4), 4n(3)(A),
+and (4) of the Act, 7 U.S.C. Â§Â§ 13(a)(4), 6n(3)(A), (4) (2012), and Commission Regulations 1.31,
+4.22, 4.23, and 160.6, 17 C.F.R. Â§Â§ 1.31, 4.22, 4.23, 160.6 (2014);
+
+C. An order of permanent injunction prohibiting Defendants, and any of their agents,
+servants, employees, successors, assigns, attorneys, and persons acting in active concert or
+' participation with Defendants, including any successor thereof, from, directly or indirectly:
+
+a. Trading on or subject to the rules of any registered entity (as that term is defined
+in Section 1a(40) of the Act, 7 U.S.C. Â§ 1a(40) (2012));
+
+b. Entering into any transactions involving âcommodity interestsâ (as that term is
+defined in Regulation 1.3(yy), 17 C.F.R. Â§ 1.3(yy) (2014)) for their own personal account
+or for any account in which they have a direct or indirect interest;
+
+C. Having any commodity interests traded on their behalf;
+
+d. Controlling or directing the trading for or on behalf of any other person or entity,
+whether by power of attorney or otherwise, in any account involving commodity
+interests;
+
+e. Soliciting, receiving or accepting any funds from any person for the purpose of
+
+purchasing or selling any commodity interests;
+
+22 -
+Case 1:15-cv-06140 Documenti1 Filed 08/05/15 Page 23 of 24
+
+f. Applying for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring such registration or
+exemption from registration with the Commission, except as provided for in Regulation
+4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2014); and/or
+
+g. Acting as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R.
+
+Â§ 3.1(a) (2014)), agent or any other officer or employee of any person (as that term is
+
+defined in Section 1a(38) of the Act, 7 U.S.C. Â§ 1a(38) (2012)), registered, exempted
+
+from registration or required to be registered with the Commission except as provided for
+
+in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2014).
+
+D. An order directing Defendants, as well as any successors thereof, to disgorge,
+pursuant to such procedure as the Court may order, all benefits received from the acts or
+practices constituting violations of the Act and Commission Regulations, as described herein,
+and pre- and post-judgment interest thereon from the date of such violations;
+
+E. An order directing Defendants, as well as any successors thereof, to make full
+restitution, pursuant to such procedure as the Court may order, to every customer or pool
+participant whose funds any Defendant received, or caused another person or entity to receive, as
+a result of the acts and practices constituting violations of the Act and Commission Regulations,
+as described herein, and pre- and post-judgment interest thereon from the date of such violations;
+
+F. An order directing Defendants, as well as any successors thereof, to rescind,
+pursuant to such procedures as the Court may order, all contracts and agreements, whether
+implied or express, entered into between them and any customer or pool participant whose funds
+any Defendant received as a result of the acts and practices constituting violations of the Act and .
+
+Commission Regulations, as described herein;
+
+23 -
+Case 1:15-cv-06140 Documenti Filed 08/05/15 Page 24 of 24
+
+G. An order directing Defendants, as well as any successors thereof, to pay a civil
+
+monetary penalty, plus post-judgment interest, for each violation of the Act and Commission
+
+Regulations described herein, in the amount of the greater of: (i) $140,000 for each violation
+
+committed; or (11) triple Defendantsâ monetary gain for each violation committed;
+
+H. An order requiring Defendants to pay costs and fees as permitted by 28 U.S.C.
+
+Â§Â§ 1920 and 2412 (2012); and
+
+I. An order directing such further relief as the Court deems proper.
+
+Dated: August 5, 2015
+
+Respectfully submitted,
+
+U.S. COMMODITY FUTURES TRADING
+COMMISSION
+
+By: ___s/ Jonah E. McCarthy
+
+Jonah E. McCarthy (SDNY Bar No. JM1977)
+Timothy J. Mulreany (pro hac vice application to be
+submitted)
+
+U.S. Commodity Futures Trading Commission
+Division of Enforcement
+
+1155 21st Street NW
+
+Washington, DC 20581
+
+Tel: (202) 418-5000
+
+Fax: (202) 418-5538
+
+tmulreany@cftc.gov
+
+jmccarthy@cftc.gov
+
+24 -

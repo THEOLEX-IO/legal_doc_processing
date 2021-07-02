@@ -1,0 +1,1682 @@
+; Case: 1:20-cr-00745 Document #: 8 Filed: 10/23/20 Page 1 of 54 PagelD #:90 sxb
+
+ae
+
+UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF ILLINOIS F l L. ED
+EASTERN DIVISION OCT 23 an290c
+UNITED STATES OF AMERICA ) THOMAS G. BRUTON
+) No. 20 CR 745 CLERK, U.S. DISTRICT COURT
+Vv. )
+) Hon. Charles R. Norgle
+BEAM SUNTORY INC. )
+
+DEFERRED PROSECUTION AGREEMENT
+
+Defendant Beam Suntory Inc. (the âCompanyâ), pursuant to authority granted by the
+Companyâs Board of Directors reflected in Attachment B, and the United States Department of
+Justice, Criminal Division, Fraud Section (the âFraud Sectionâ), and the United States Attorneyâs
+Office for the Northern District of Illinois (the âOfficeâ) enter into this Deferred Prosecution
+Agreement (the âAgreementâ).
+
+Criminal Information and Acceptance of Responsibility
+
+1, The Company acknowledges and agrees that the Fraud Section and the Office will
+file the attached one-count criminal Information in the United States District Court for the
+Northern District of Illinois charging the Company with one count of conspiracy to commit an
+offense against the United States, in violation of Title 18, United States Code, Section 371, that is,
+to violate: (1) the anti-bribery provisions of the Foreign Corrupt Practices Act of 1977 (âFCPAâ),
+as amended, Title 15, United States Code, Sections 78dd-1 and 78dd-2; (2) the internal controls
+provisions of the FCPA, as amended, Title 15, United States Code, Sections 78m(b)(2)(B),
+78m(b)(5) and 78ff(a); and (3) the books and records provisions of the FCPA, as amended, Title
+15, United States Code, Sections 78m(b)(2)(A), 78m(b)(5) and 78ff(a). In so doing, the Company:
+(a) knowingly waives its right to indictment on this charge, as well as all rights to a speedy trial
+pursuant to the Sixth Amendment to the United States Constitution, Title 18, United States Code,
+
+1
+Pe PL
+PRAILPOS Oa
+
+3 SAIN ES fa
+Gale PCAN a AS west
+3
+
+Section 3161, and Federal Rule of Criminal Procedure 48(b); and (b) knowingly waives any
+objection with respect to venue to any charges by the United States arising out of the conduct
+described in the Statement of Facts attached as Attachment A (âStatement of Factsâ) and consents
+to the filing of the Information, as provided under the terms of this Agreement, in the United States
+District Court for the Northern District of Illinois. The Fraud Section and the Office agree to defer
+prosecution of the Company pursuant to the terms and conditions described below.
+
+2. The Company admits, accepts, and acknowledges that it is responsible under United
+States law for the acts of its officers, directors, employees, and agents as charged in the
+Information, and as set forth in the Statement of Facts, and that the allegations described in the
+Information and the facts described in the Statement of Facts are true and accurate. The Company
+agrees that, effective as of the date the Company signs this Agreement, in any prosecution that is
+deferred by this Agreement, it will not dispute the Statement of Facts set forth in this Agreement,
+and, in any such prosecution, the Statement of Facts shall be admissible as: (a) substantive
+evidence offered by the government in its case-in-chief and rebuttal case; (b) impeachment
+evidence offered by the government on cross-examination; and (c) evidence at any sentencing
+hearing or other hearing. In addition, in connection therewith, the Company agrees not to assert
+any claim under the United States Constitution, Rule 410 of the Federal Rules of Evidence, Rule
+11(f) of the Federal Rules of Criminal Procedure, Section 1B1.1(a) of the United States Sentencing
+Guidelines (âU.S.S.G.â or âSentencing Guidelinesâ), or any other federal rule that the Statement
+
+of Facts should be suppressed or is otherwise inadmissible as evidence in any form.
+Term of the Agreement
+
+3. This Agreement is effective for a period beginning on the date on which the
+Information is filed and ending three years from that date (the âTermâ). The Company agrees,
+however, that, in the event the Fraud Section and the Office determine, in their sole discretion, that
+the Company has knowingly violated any provision of this Agreement or has failed to completely
+perform or fulfill each of the Companyâs obligations under this Agreement, an extension or
+extensions of the Term may be imposed by the Fraud Section and the Office, in their sole
+discretion, for up to a total additional time period of one year, without prejudice to the Fraud
+Section and the Officeâs right to proceed as provided in Paragraphs 14 to 16 below. Any extension
+of the Agreement extends all terms of this Agreement, including the terms of the reporting
+requirement in Attachment D, for an equivalent period. Conversely, in the event the Fraud Section
+and the Office find, in their sole discretion, that there exists a change in circumstances sufficient
+to eliminate the need for the reporting requirement in Attachment D, and that the other provisions
+of this Agreement have been satisfied, the Agreement may be terminated early. If the court refuses
+to grant exclusion of time under the Speedy Trial Act, 18 U.S.C. Â§ 3161(h)(2), the Term shall be
+deemed to have not begun, and all the provisions of this Agreement shall be deemed null and void,
+except that the statute of limitations for any prosecution relating to the conduct described in the
+Statement of Facts shall be tolled from the date on which this Agreement is signed until the date
+the Court refuses to grant the exclusion of time plus six months, and except for the provisions
+contained within Paragraph 2 of this Agreement.
+
+Relevant Considerations
+
+4. The Fraud Section and the Office enter into this Agreement based on the individual
+
+facts and circumstances presented by this case and the Company, including:
+
+3
+a. the Company did not receive voluntary disclosure credit pursuant to the
+FCPA Corporate Enforcement Policy in the Department of Justice Manual 9-47.120, or pursuant
+to the Sentencing Guidelines, because it did not timely disclose to the Fraud Section and the Office
+the conduct described in the Statement of Facts, and because prior to the Companyâs disclosure, a
+former Company employee sent an email to the Company, copying the U.S. and Indian
+governments, alerting them to âillegal cash transactionsâ associated with the Companyâs
+distributors in India;
+
+b. the Company received partial credit for its cooperation with the Fraud
+Section and the Officeâs investigation, including making factual presentations to the Fraud Section
+and the Office, making foreign-based employees available for interviews in the United States, and
+producing documents to the Fraud Section and the Office from foreign countries;
+
+C. the Company did not receive full credit for its cooperation due to its
+inconsistent and, at times, inadequate cooperation, including positions taken by the Company that
+were not consistent with full cooperation, as well as significant delays caused by the Company in
+reaching a timely resolution and its refusal to accept responsibility for several years;
+
+d. the Company provided to the Fraud Section and the Office all relevant facts
+known to it, including information about the individuals involved in the conduct described in the
+Statement of Facts and conduct disclosed to the Fraud Section and the Office prior to the
+Agreement;
+
+e. the Company engaged in remedial measures, including: suspending
+operations in India for a period of time, implementing enhanced controls, including additional
+
+controls over disbursements and interactions with government officials, requiring in-person
+compliance training for employees, hiring a dedicated Chief Compliance Officer and an APSA
+regional compliance officer, and hiring new management in India;
+
+f. the Company did not receive full credit for its remediation because it failed
+to discipline certain individuals involved in the conduct described in the Statement of Facts;
+
+g. although the Company had inadequate anti-corruption controls and an
+inadequate anti-corruption compliance program during the period of the conduct described in the
+Statement of Facts, the Company has enhanced and has committed to continuing to enhance its
+compliance program and internal controls, including ensuring that its compliance program satisfies
+the minimum elements set forth in Attachment C to this Agreement (Corporate Compliance
+Program);
+
+h. based on the Companyâs remediation and the state of its compliance
+program, and the Companyâs agreement to report to the Fraud Section and the Office as set forth
+in Attachment D to this Agreement (Corporate Compliance Reporting), the Fraud Section and the
+Office determined that an independent compliance monitor was unnecessary;
+
+i. the nature and seriousness of the offense conduct, as described in the
+Statement of Facts, including making corrupt payments in India, the falsification of books and
+records to conceal improper payments, and the willful failure to implement an adequate system of
+internal controls, which included efforts by a then-member of Beamâs Legal Department to
+affirmatively avoid uncovering information related to improper activities and practices by third-
+parties engaged by the Company in India that presented corruption risks, as well as the duration of
+the misconduct;
+
+j. the Company has no prior criminal history;
+k. the Company resolved with the U.S. Securities and Exchange Commission
+(âSECâ) through a cease-and-desist proceeding relating to the conduct described in the attached
+Statement of Facts, but the Fraud Section and the Office are not crediting the penalty paid to the
+SEC because the Company did not seek to coordinate a parallel resolution with the Fraud Section
+and the Office;
+
+I. the Company has agreed to continue to cooperate with the Fraud Section
+and the Office in any ongoing investigation as described in Paragraph 5 below;
+
+m. accordingly, after considering (a) through (1) above, the Fraud Section and
+the Office believe that the appropriate resolution in this case is a Deferred Prosecution Agreement
+with the Company; a criminal monetary penalty in the amount of $19,572,885, which reflects a
+discount of ten percent off the bottom of the otherwise-applicable Sentencing Guidelines fine
+range; and the Companyâs agreement to report to the Fraud Section and the Office as set forth in
+Attachment D to this Agreement.
+
+Future Cooperation and Disclosure Requirements
+
+5. The Company shall cooperate fully with the Fraud Section and the Office in any
+and all matters relating to the conduct described in the Statement of Facts and other conduct under
+investigation by the Fraud Section and the Office at any time during the Term, subject to applicable
+laws and regulations, until the later of the date upon which all investigations and prosecutions
+arising out of such conduct are concluded, or the end of the Term. At the request of the Fraud
+Section and the Office, the Company shall also cooperate fully with other domestic or foreign law
+enforcement and regulatory authorities and agencies, as well as the Multilateral Development
+Banks (âMDBsâ), in any investigation of the Company, its parent company, its subsidiaries, or its
+affiliates, or any of its present or former officers, directors, employees, agents, and consultants, or
+
+6
+io
+ed
+oy
+r
+oo
+=
+tf
+me
+
+bs
+
+â
+oo
+
+any other party, in any and all matters relating to the conduct described in this Agreement and the
+Statement of Facts and other conduct under investigation by the Fraud Section and the Office. The
+Companyâs cooperation pursuant to this Paragraph is subject to applicable law and regulations, as
+well as valid claims of attorney-client privilege or attorney work product doctrine; however, the
+Company must provide to the Fraud Section and the Office a log of any information or cooperation
+that is not provided based on an assertion of law, regulation, or privilege, and the Company bears
+the burden of establishing the validity of any such assertion. The Company agrees that its
+cooperation pursuant to this paragraph shall include, but not be limited to, the following:
+
+a. The Company shall truthfully disclose all factual information with respect
+to its activities, those of its parent company, subsidiaries, and affiliates, and those of its present
+and former directors, officers, employees, agents, and consultants, including any evidence or
+allegations and internal or external investigations, about which the Company has any knowledge
+or about which the Fraud Section and the Office may inquire. This obligation of truthful disclosure
+includes, but is not limited to, the obligation of the Company to provide to the Fraud Section and
+the Office, upon request, any document, record or other tangible evidence about which the Fraud
+Section and the Office may inquire of the Company. |
+
+b. Upon request of the Fraud Section and the Office, the Company shall
+designate knowledgeable employees, agents or attorneys to provide to the Fraud Section and the
+Office the information and materials described in Paragraph 5(a) above on behalf of the Company.
+It is further understood that the Company must at all times provide complete, truthful, and accurate
+information.
+
+Cc. The Company shall use its best efforts to make available for interviews or
+testimony, as requested by the Fraud Section and the Office, present or former officers, directors,
+
+7
+CON eee OE MESSE eae ST CAE BS sown amy orn ok
+Qe Toler Oye? aA mscpumiernt
+e Ch O . ab ; \. : Rae? A? gag i
+
+employees, agents and consultants of the Company. This obligation includes, but is not limited
+to, sworn testimony before a federal grand jury or in federal trials, as well as interviews with
+domestic or foreign law enforcement and regulatory authorities. Cooperation under this Paragraph
+shall include identification of witnesses who, to the knowledge of the Company, may have material
+information regarding the matters under investigation.
+
+d. With respect to any information, testimony, documents, records or other
+tangible evidence provided to the Fraud Section and the Office pursuant to this Agreement, the
+Company consents to any and all disclosures to other governmental authorities, including United
+States authorities and those of a foreign government, as well as the MDBs, of such materials as
+the Fraud Section and the Office, in their sole discretion, shall deem appropriate.
+
+6. In addition to the obligations in Paragraph 5, during the Term, should the Company
+learn of any evidence or allegation of conduct that may constitute a violation of the FCPA anti-
+bribery provisions had the conduct occurred within the jurisdiction of the United States, the
+Company shall promptly report such evidence or allegation to the Fraud Section and the Office.
+
+Payment of Monetary Penalty
+
+7. The Fraud Section and the Office and the Company agree that application of the
+
+Sentencing Guidelines to determine the applicable fine range yields the following analysis:
+
+a. The November 1, 2018! version of the Sentencing Guidelines is applicable
+to this matter.
+
+b. Offense Level. Based upon U.S.S.G. Â§ 2B1.1, the total offense level is 28,
+calculated as follows:?
+
+ 
+
+! Due to changes in U.S.S.G. Â§ 8C2.4 that potentially implicate ex post facto concerns, the 2014 U.S.S.G. manual
+was used for the Â§ 8C2.4 calculation.
+2 The offense level was calculated using U.S.S.G. Â§ 2B1.1, because a calculation under U.S.S.G. Â§ 2C1.1 resulted in
+a lower total offense level due to the uncertainty regarding the calculation of the value of the benefits obtained from
+the bribery conduct, and was not altered by a grouping analysis pursuant to U.S.S.G. Â§ 3D.
+
+8
+Â§ 2B1.1(a)(1) Base Offense Level . 6
+
+Â§ 2B1.1(b)(1)(K) Value of Benefit Received +20
+(more than $9,500,000 but not
+
+more than $25,000,000)
+
+Â§ 2B1.1(b)(10)(B) Conduct Occurred +2
+Outside of the U.S.
+
+TOTAL 28
+
+C. Base Fine. Based upon U.S.S.G. Â§ 8C2.4(a)(2), the base fine is
+$15,534,036.
+
+d. Culpability Score. Based upon U.S.S.G. Â§ 8C2.5, the culpability score is 7,
+calculated as follows:
+
+(a) Base Culpability Score 5
+(b)(2)(A) The organization had 1,000 or more
+employees and an individual within high-level
+
+personnel of the organization participated in,
+condoned, or was willfully ignorant of the offense +4
+
+(g)(2) The organization clearly demonstrated
+recognition and affirmative acceptance of
+responsibility for its criminal conduct -2
+
+TOTAL
+
+Calculation of Fine Range:
+
+Base Fine $15,534,036
+Multipliers 1.4(min)/2.8(max)
+Fine Range $21,747,650 / $43,495,300
+
+The Company agrees to pay a total monetary penalty in the amount of $19,572,885 (the âTotal
+Criminal Fineâ). This reflects a ten percent discount off the bottom of the applicable Sentencing
+
+Guidelines fine range. The Total Criminal Fine will be paid to the United States Treasury within
+rat
+a
+os
+se
+3
+tee
+7)
+ue
+2
+angen
+t
+
+ten business days of the execution of this Agreement. The Company, the Fraud Section, and the
+Office agree that this penalty is appropriate given the facts and circumstances of this case,
+including the Relevant Considerations described in Paragraph 4 of this Agreement. The Total
+Criminal Fine is final and shall not be refunded. Furthermore, nothing in this Agreement shall be
+deemed an agreement by the Fraud Section and the Office that the Total Criminal Fine is the
+maximum penalty that may be imposed in any future prosecution, and the Fraud Section and the
+Office are not precluded from arguing in any future prosecution that the Court should impose a
+higher fine, although the Fraud Section and the Office agree that under those circumstances, they
+will recommend to the Court that any amount paid under this Agreement should be offset against
+any fine the Court imposes as part of a future judgment. The Company acknowledges that no tax
+deduction may be sought in connection with the payment of any part of the Total Criminal Fine.
+The Company shall not seek or accept directly or indirectly reimbursement or indemnification
+from any source with regard to the penalty or disgorgement amounts that the Company pays
+pursuant to this Agreement or any other agreement entered into with an enforcement authority or
+regulator concerning the facts set forth in the Statement of Facts.
+Conditional Release from Liability
+
+8. Subject to Paragraphs 14 to 16, the Fraud Section and the Office agree, except as
+provided in this Agreement, that they will not bring any criminal or civil case against the Company
+relating to any of the conduct described in the Statement of Facts or the criminal Information filed
+pursuant to this Agreement. The Fraud Section and the Office, however, may use any information
+related to the conduct described in the Statement of Facts against the Company: (a) in a prosecution
+
+for perjury or obstruction of justice; (b) in a prosecution for making a false statement; (c) in a
+
+10
+af FT A ES oe EPS GL TPS
+
+or SA Paneif 2 1OoS
+
+Pr ah fb LA Be OTP. at
+we
+
+RAGE
+
+prosecution or other proceeding relating to any crime of violence; or (d) in a prosecution or other
+proceeding relating to a violation of any provision of Title 26 of the United States Code.
+a. This Agreement does not provide any protection against prosecution for any
+future conduct by the Company.
+b. In addition, this Agreement does not provide any protection against
+prosecution of any individuals, regardless of their affiliation with the Company.
+Corporate Compliance Program
+
+9. The Company represents that it has implemented and will continue to implement a
+compliance and ethics program designed to prevent and detect violations of the FCPA and other
+applicable anti-corruption laws throughout its operations, including those of its affiliates,
+subsidiaries, agents, and joint ventures, and those of its contractors and subcontractors whose
+responsibilities include interacting with foreign officials or other activities carrying a high risk of
+corruption, including, but not limited to, the minimum elements set forth in Attachment C.
+
+10. âIn order to address any deficiencies in its internal accounting controls, policies, and
+procedures, the Company represents that it has undertaken, and will continue to undertake in the
+future, in a manner consistent with all of its obligations under this Agreement, a review of their
+existing internal accounting controls, policies, and procedures, regarding compliance with the
+FCPA and other applicable anti-corruption laws. Where necessary and appropriate, the Company
+agrees to adopt a new compliance program, or to modify its existing one, including internal
+controls, compliance policies, and procedures in order to ensure that it maintains: (a) an effective
+system of internal accounting controls designed to ensure the making and keeping of fair and
+accurate books, records, and accounts; and (b) a rigorous anti-corruption compliance program that
+incorporates relevant internal accounting controls, as well as policies and procedures designed to
+
+1]
+effectively detect and deter violations of the FCPA and other applicable anti-corruption laws. The
+compliance program, including the internal accounting controls system will include, but not be
+limited to, the minimum elements set forth in Attachment C.
+
+Corporate Compliance Reporting
+
+11. | The Company agrees that it will report to the Fraud Section and the Office annually
+during the Term regarding remediation and implementation of the compliance measures described
+in Attachment C. These reports will be prepared in accordance with Attachment D.
+
+Deferred Prosecution
+
+12. In consideration of the undertakings agreed to by the Company herein, the Fraud
+Section and the Office agree that any prosecution of the Company for the conduct set forth in the
+Statement of Facts be and hereby is deferred for the Term. To the extent there is conduct disclosed
+by the Company that is not set forth in the Statement of Facts, such conduct will not be exempt
+from further prosecution and is not within the scope of or relevant to this Agreement.
+
+13. The Fraud Section and the Office further agree that if the Company fully complies
+with all of its obligations under this Agreement, the Fraud Section and the Office will not continue
+the criminal prosecution against the Company described in Paragraph 1 and, at the conclusion of
+the Term, this Agreement shall expire. Within six months after the Agreementâs expiration, the
+Fraud Section and the Office shall seek dismissal with prejudice of the criminal Information filed
+against the Company described in Paragraph 1, and agree not to file charges in the future against
+the Company based on the conduct described in this Agreement and the Statement of Facts. If,
+however, the Fraud Section and the Office determine during this six-month period that the
+
+Company breached the Agreement during the Term, as described in Paragraph 14, the Fraud
+
+12
+Sectionâs and the Officeâs ability to extend the Term, as described in Paragraph 3, or to pursue
+other remedies, including those described in Paragraphs 14 to 16, remains in full effect.
+Breach of the Agreement
+
+14. If, during the Term, the Company (a) commits any felony under U.S. federal law;
+(b) provides in connection with this Agreement deliberately false, incomplete, or misleading
+information, including in connection with its disclosure of information about individual
+culpability; (c) fails to cooperate as set forth in Paragraphs 5 and 6 of this Agreement; (d) fails to
+implement a compliance program as set forth in Paragraphs 9 and 10 of this Agreement and
+Attachment C; (e) commits any acts that, had they occurred within the jurisdictional reach of the
+FCPA, would be a violation of the FCPA; or (f) otherwise fails to completely perform or fulfill
+each of the Companyâs obligations under the Agreement, regardless of whether the Fraud Section
+and the Office become aware of such a breach after the Term is complete, the Company shall
+thereafter be subject to prosecution for any federal criminal violation of which the Fraud Section
+and the Office have knowledge, including, but not limited to, the charges in the Information
+described in Paragraph 1, which may be pursued by the Fraud Section and the Office in the U.S.
+District Court for the Northern District of Illinois or any other appropriate venue. Determination
+of whether the Company has breached the Agreement and whether to pursue prosecution of the
+Company shall be in the Fraud Section and the Officeâs sole discretion. Any such prosecution
+may be premised on information provided by the Company or its personnel. Any such prosecution
+relating to the conduct described in the Statement of Facts or relating to conduct known to the
+Fraud Section and the Office prior to the date on which this Agreement was signed that is not time-
+barred by the applicable statute of limitations on the date of the signing of this Agreement may be
+commenced against the Company, notwithstanding the expiration of the statute of limitations,
+
+13
+â coe ~ ce GE PS
+sour Amb RA Danni ls TMS
+he Raa og ts SAR be at YE Fg oS
+> SP ASE A PU CRUEL fr, AAO
+
+xe
+
+Poa
+
+between the signing of this Agreement and the expiration of the Term plus one year. Thus, by
+signing this Agreement, the Company agrees that the statute of limitations with respect to any such
+prosecution that is not time-barred on the date of the signing of this Agreement shall be tolled for
+the Term plus one year. In addition, the Company agrees that the statute of limitations as to any
+violation of federal law that occurs during the Term will be tolled from the date upon which the
+violation occurs until the earlier of the date upon which the Fraud Section and the Office are made
+aware of the violation or the duration of the Term plus five years, and that this period shall be
+excluded from any calculation of time for purposes of the application of the statute of limitations.
+
+15. In the event the Fraud Section and the Office determine that the Company has
+breached this Agreement, the Fraud Section and the Office agree to provide the Company with
+written notice of such breach prior to instituting any prosecution resulting from such breach.
+Within thirty days of receipt of such notice, the Company shall have the opportunity to respond to
+the Fraud Section and the Office in writing to explain the nature and circumstances of such breach,
+as well as the actions the Company has taken to address and remediate the situation, which
+explanation the Fraud Section and the Office shall consider in determining whether to pursue
+prosecution of the Company.
+
+16. In the event the Fraud Section and the Office determine that the Company has
+breached this Agreement: (a) all statements made by or on behalf of the Company to the Fraud
+Section and the Office or to the Court, including the Statement of Facts, and any testimony given
+by the Company before a grand jury, a court, or any tribunal, or at any legislative hearings, whether
+prior or subsequent to this Agreement, and any leads derived from such statements or testimony,
+shall be admissible in evidence in any and all criminal proceedings brought by the Fraud Section
+and the Office against the Company; and (b) the Company shall not assert any claim under the
+
+14
+ae ah. CF TTA AE. TORR SPR Ra CTI UE ROA me APES Ate TPA
+ocument & 8 Fdec: TOPeR3/P0 Page 15 of 54 Panel 4:104
+MER EGAS EER PR. GP GEAS Aa, AS cae eke ee oten LE AEN OP CALAN PL OPP ALS A
+
+xe
+
+United States Constitution, Rule 11(f) of the Federal Rules of Criminal Procedure, Rule 410 of the
+Federal Rules of Evidence, or any other federal rule that any such statements or testimony made
+by or on behalf of the Company prior or subsequent to this Agreement, or any leads derived
+therefrom, should be suppressed or are otherwise inadmissible. The decision whether conduct or
+statements of any current director, officer or employee, or any person acting on behalf of, or at the
+direction of, the Company, will be imputed to the Company for the purpose of determining whether
+the Company has violated any provision of this Agreement shall be in the sole discretion of the
+Fraud Section and the Office.
+
+17. The Company acknowledges that the Fraud Section and the Office have made no
+representations, assurances, or promises concerning what sentence may be imposed by the Court
+if the Company breaches this Agreement and this matter proceeds to judgment. The Company
+further acknowledges that any such sentence is solely within the discretion of the Court and that
+nothing in this Agreement binds or restricts the Court in the exercise of such discretion.
+
+18. On the date that the period of deferred prosecution specified in this Agreement
+expires, the Company, by the Chief Executive Officer of the Company and the Chief Financial
+Officer of the Company, will certify to the Fraud Section and the Office, in the form of executing
+the document attached as Attachment E to this Agreement, that the Company has met its disclosure
+obligations pursuant to Paragraph 6 of this Agreement. Each certification will be deemed a
+material statement and representation by the Company to the executive branch of the United States
+for purposes of 18 U.S.C. Â§Â§ 1001 and 1519, and it will be deemed to have been made in the
+
+judicial district in which this Agreement is filed.
+
+15
+om, cae . â
+PS wy ee OF % ~ Ns > of :
+
+q out Seq bat : we eae BO ae sag gee s ode 3
+Re CAO LAS Se LP
+
+Sale, Merger, or Other Change in Corporate Form of Company
+
+19. Except as may otherwise be agreed by the parties in connection with a particular
+transaction, the Company agrees that in the event that, during the Term, it undertakes any change
+in corporate form, including if it sells, merges, or transfers business operations that are material to
+the Companyâs consolidated operations, or to the operations of any subsidiaries or affiliates
+involved in the conduct described in the Statement of Facts, as they exist as of the date of this
+Agreement, whether such sale is structured as a sale, asset sale, merger, transfer, or other change
+in corporate form, it shall include in any contract for sale, merger, transfer, or other change in
+corporate form a provision binding the purchaser, or any successor in interest thereto, to the
+obligations described in this Agreement. The purchaser or successor in interest must also agree in
+writing that the Fraud Section and the Officeâs ability to determine a breach under this Agreement
+is applicable in full force to that entity. The Company agrees that the failure to include these
+provisions in the transaction will make any such transaction null and void. The Company shall
+provide notice to the Fraud Section and the Office at least thirty (30) days prior to undertaking any
+such sale, merger, transfer, or other change in corporate form. The Fraud Section and the Office
+shall notify the Company prior to such transaction (or series of transactions) if it determines that
+the transaction(s) will have the effect of circumventing or frustrating the enforcement purposes of
+this Agreement. If at any time during the Term the Company engages in a transaction(s) that has
+the effect of circumventing or frustrating the enforcement purposes of this Agreement, the Fraud
+Section and the Office may deem it a breach of this Agreement pursuant to Paragraphs 14 to 16 of
+this Agreement. Nothing herein shall restrict the Company from indemnifying (or otherwise
+holding harmless) the purchaser or successor in interest for penalties or other costs arising from
+any conduct that may have occurred prior to the date of the transaction, so long as such
+
+16
+On
+
+A
+
+tp
+/
+ee 5
+
+âaca: TOP Ae AR Deg
+LCR. AL UAL LS PS LP
+
+indemnification does not have the effect of circumventing or frustrating the enforcement purposes
+of this Agreement, as determined by the Fraud Section and the Office.
+Public Statements by Company
+
+20. The Company expressly agrees that it shall not, through present or future attorneys,
+officers, directors, employees, agents or any other person authorized to speak for the Company,
+make any public statement, in litigation or otherwise, contradicting the acceptance of responsibility
+by the Company set forth above or the facts described in the Statement of Facts. Any such
+contradictory statement shall, subject to cure rights of the Company described below, constitute a
+breach of this Agreement, and the Company thereafter shall be subject to prosecution as set forth
+in Paragraphs 14 to 16 of this Agreement. The decision whether any public statement by any such
+person contradicting a fact contained in the Statement of Facts will be imputed to the Company
+for the purpose of determining whether it has breached this Agreement shall be at the sole
+discretion of the Fraud Section and the Office. If the Fraud Section and the Office determine that
+a public statement by any such person contradicts in whole or in part a statement contained in the
+Statement of Facts, the Fraud Section and the Office shall so notify the Company, and the
+Company may avoid a breach of this Agreement by publicly repudiating such statement(s) within
+five business days after notification. The Company shall be permitted to raise defenses and to
+assert affirmative claims in other proceedings relating to the matters set forth in the Statement of
+Facts provided that such defenses and claims do not contradict, in whole or in part, a statement
+contained in the Statement of Facts. This Paragraph does not apply to any statement made by any
+present or former officer, director, employee, or agent of the Company in the course of any
+criminal, regulatory, or civil case initiated against such individual, unless such individual is
+speaking on behalf of the Company.
+
+17
+21. The Company agrees that if it, or any of its direct or indirect subsidiaries or
+affiliates, issues a press release or holds any press conference in connection with this Agreement,
+the Company shall first consult with the Fraud Section and the Office to determine (a) whether the
+text of the release or proposed statements at the press conference are true and accurate with respect
+to matters between the Fraud Section and the Office and the Company; and (b) whether the Fraud
+Section and the Office have any objection to the release.
+
+22. The Fraud Section and the Office agree, if requested to do so, to bring to the
+attention of law enforcement and regulatory authorities the facts and circumstances relating to the
+nature of the conduct underlying this Agreement, including the nature and quality of the
+Companyâs cooperation and remediation. By agreeing to provide this information to such
+authorities, the Fraud Section and the Office are not agreeing to advocate on behalf of the
+Company, but rather are agreeing to provide facts to be evaluated independently by such
+authorities.
+
+Limitations on Binding Effect of Agreement
+
+23. This Agreement is binding on the Company and the Fraud Section and the Office
+but specifically does not bind any other component of the Department of Justice, other federal
+agencies, or any state, local or foreign law enforcement or regulatory agencies, or any other
+authorities, although the Fraud Section and the Office will bring the cooperation of the Company
+and its compliance with its other obligations under this Agreement to the attention of such agencies
+and authorities if requested to do so by the Company.
+
+Notice
+
+24. Any notice to the Fraud Section and the Office under this Agreement shall be given
+
+by personal delivery, overnight delivery by a recognized delivery service, or registered or certified
+
+18
+mail, addressed to Chief, FCPA Unit, Fraud Section, Criminal Division, U.S. Department of
+Justice, 1400 New York Ave., NW, 11th Floor, Washington, D.C. 20005, and Chief, Financial
+Crimes Section, United States Attorneyâs Office, Northern District of Illinois, 219 S. Dearborn
+Street, Suite 500, Chicago, Illinois 60604. Any notice to the Company under this Agreement shall
+be given by personal delivery, overnight delivery by a recognized delivery service, or registered
+or certified mail, addressed to General Counsel, Beam Suntory Inc., Merchandise Mart, 222 West
+Merchandise Mart Plaza, Suite 1600, Chicago, Illinois 60654, or by electronic mail to those
+individuals or to other counsel or individuals identified to the Fraud Section and the Office by the
+Company. Notice shall be effective upon actual receipt by the Fraud Section and the Office or the
+Company.
+Complete Agreement
+
+25. This Agreement, including its attachments, sets forth all the terms of the agreement
+between the Company and the Fraud Section and the Office. No amendments, modifications or
+additions to this Agreement shall be valid unless they are in writing and signed by the Fraud
+Section and the Office, the attorneys for the Company and a duly authorized representative of the
+Company.
+AGREED:
+
+FOR BEAM SUNTORY INC.:
+
+Date: _ 10/22/2020 By: We Boog
+Todd M*Bloomquist
+
+Beam Suntory Inc.
+
+ 
+
+Date: 10/22/2020 By:
+
+ 
+
+Richard N. Dean
+Nancy J. Rosenfeld
+
+19
+Case: 1:20-cr-00745 Document #: 8 Filed: 10/23/20 Page 20 of 54 PagelD #:109
+
+Date: 10/22/2020 By:
+
+Date: 10/22/2020 By:
+
+FOR THE DEPARTMENT OF JUSTICE:
+
+DANIEL S. KAHN
+
+Acting Chief, Fraud Section
+Criminal Division
+
+United States Department of Justice
+
+By. ohn A bag Kemane
+John-Alex Romano
+
+Della G. Sentilles
+Trial Attorneys
+
+Date: _October 22, 2020
+
+20
+
+R. Adam Scott
+Baker & McKenzie LLP
+
+/s/ Joan Meyer
+
+ 
+
+Joan Meyer
+Thompson Hine LLP
+
+fp pete
+
+Daniel D. Rubinstein
+Libby Deshaies
+Winston Strawn LLP
+
+JOHN R. LAUSCH, JR.
+United States Attorney
+Northern District of Hlinois
+
+By: Pyher. Wherrauy,
+Tyler C. Murray a
+Assistant United States Attorney
+of; wy . *
+PM wee OF OS e Ove A t
+A nenkate boo hg Gat Be Pe oh i 3
+Nee LA Le cake le ae A Rat b.
+
+COMPANY OFFICERâS CERTIFICATE
+
+I have read this Agreement and carefully reviewed every part of it with outside counsel
+for Beam Suntory Inc. (the âCompanyâ). I understand the terms of this Agreement and voluntarily
+agree, on behalf of the Company, to each of its terms. Before signing this Agreement, I consulted
+outside counsel for the Company. Counsel fully advised me of the rights of the Company, of
+possible defenses, of the Sentencing Guidelinesâ provisions, and of the consequences of entering
+into this Agreement.
+
+I have carefully reviewed the terms of this Agreement with the Board of Directors of the
+Company. I have advised and caused outside counsel for the Company to advise the Board of
+Directors fully of the rights of the Company, of possible defenses, of the Sentencing Guidelinesâ
+provisions, and of the consequences of entering into the Agreement.
+
+No promises or inducements have been made other than those contained in this
+Agreement. Furthermore, no one has threatened or forced me, or to my knowledge any person
+authorizing this Agreement on behalf of the Company, in any way to enter into this Agreement. I
+am also satisfied with outside counselâs representation in this matter. I certify that I am the General
+Counsel for the Company and that I have been duly authorized by the Company to execute this
+
+Agreement on behalf of the Company.
+
+Date: 10/22/2020
+
+Beam Suntory Inc.
+
+By: Gey
+Todd M. Bloomquist
+
+Senior Vice President, General Counsel and Secretary
+
+ 
+CERTIFICATE OF COUNSEL
+
+I am counsel for Beam Suntory Inc. (the âCompanyâ) in the matter covered by this
+Agreement. In connection with such representation, I have examined relevant Company
+documents and have discussed the terms of this Agreement with the Company Board of Directors.
+Based on our review of the foregoing materials and discussions, I am of the opinion that the
+representative of the Company has been duly authorized to enter into this Agreement on behalf of
+the Company and that this Agreement has been duly and validly authorized, executed, and
+delivered on behalf of the Company and is a valid and binding obligation of the Company. Further,
+I have carefully reviewed the terms of this Agreement with the Board of Directors and the General
+Counsel of the Company. I have fully advised them of the rights of the Company, of possible
+defenses, of the Sentencing Guidelinesâ provisions and of the consequences of entering into this
+Agreement. To my knowledge, the decision of the Company to enter into this Agreement, based
+
+on the authorization of the Board of Directors, is an informed and voluntary one.
+
+Date: 10/22/2020
+
+By:
+Richard N. Dean
+Baker & McKenzie LLP
+Counsel for Beam Suntory Inc.
+
+ 
+ATTACHMENT A
+STATEMENT OF FACTS
+
+The following Statement of Facts is incorporated by reference as part of the Deferred
+Prosecution Agreement (the âAgreementâ) between the United States Department of Justice,
+Criminal Division, Fraud Section (the âFraud Sectionâ), the United States Attorneyâs Office for
+the Northern District of Illinois (the âOfficeâ), and Beam Suntory Inc. (ââBEAMâ or the
+âCompanyâ). BEAM hereby agrees and stipulates that the following facts and conclusions of law
+are true and accurate. BEAM admits, accepts, and acknowledges that it is responsible for the acts
+of its officers, directors, employees, and agents as set forth below. Should the Fraud Section and
+the Office pursue the prosecution that is deferred by this Agreement, BEAM agrees that it will
+neither contest the admissibility of, nor contradict, this Statement of Facts in any such proceeding.
+The following facts took place during the relevant time period and establish beyond a reasonable
+doubt the charges set forth in the criminal Information attached to this Agreement:
+
+Relevant Entities and Individuals
+
+1. BEAM, formerly known as Beam Inc., is a Delaware corporation headquartered in
+Chicago, Illinois. BEAM produces and sells distilled beverages, including bourbon whiskey,
+tequila, Scotch whiskey, Irish whiskey, vodka, cognac, rum, cordials and pre-mixed cocktails.
+From on or about October 4, 2011, through April 2014, Beam Inc. had a class of publicly traded
+securities that were registered with the United States Securities and Exchange Commission
+(âSECâ) pursuant to Section 12(b) of the Securities Exchange Act of 1934 and were traded on the
+New York Stock Exchange. During this time, Beam Inc. was an âissuerâ within the meaning of
+
+the Foreign Corrupt Practices Act (âFCPAâ), Title 15, United States Code, Sections 78dd-1(a) and
+
+A-1
+i eee PA RO AU OPT OA OPN om ETS CL. AD SD
+7 TAPER PSS Dane SA of SA Paneif 2 1tS
+. PENS FO CRAKS Glee ASE agi TO CALGRS PR PR A
+
+Ne -
+
+78m(b). Before October 4, 2011, Beam Inc. was known as Beam Global Spirits & Wine, Inc., and
+was owned by Fortune Brands, Inc., a holding company which had a class of publicly traded
+securities registered with the SEC that traded on the New York Stock Exchange. Beam Global
+Spirits & Wine Inc. was a âdomestic concernâ and âUnited States personâ within the meaning of
+the FCPA, Title 15, United States Code, Sections 78dd-2(h)(1)(B) and 78dd-2(i)(2). References
+to âBEAMâ in this Statement of Facts are to Beam Suntory Inc. and its predecessors, Beam Global
+Spirits & Wine Inc. and, after October 3, 2011, Beam Inc. In April 2014, BEAM was taken private
+and delisted from the New York Stock Exchange. At all relevant times, BEAM was incorporated
+under the laws of the state of Delaware and headquartered in the Northern District of Illinois.
+
+2. Beam Global Spirits & Wine (India) Private Limited (âBeam Indiaâ) was acquired
+by BEAM in 2006. Beam India imported Teacherâs Scotch whiskey and distributed that and other
+BEAM products throughout India. During the relevant time period, Beam India was a wholly
+owned subsidiary of BEAM and headquartered in Gurgaon, India. Beam Indiaâs financial
+statements were consolidated into the financial statements of BEAM. Starting in January 2011,
+Beam India came under the responsibility of BEAMâs Asia Pacific/South America (âAPSAâ)
+regional business unit, which was based in Sydney, Australia.
+
+3. âAPSA Executive 1,â an individual whose identity is known to the Fraud Section,
+the Office, and the Company, was a high-ranking executive of BEAMâs APSA region from 2011
+to 2013 and was based in Australia. From at least in or around January 2011 until on or about
+October 3, 2011, APSA Executive 1 was an agent of a domestic concern within the meaning of
+the FCPA, Title 15, United States Code, Section 78dd-2(a). APSA Executive 1 was an employee
+
+of BEAMâs Australian subsidiary. From at least on or about October 4, 2011, until on or about
+
+A-2
+December 31, 2013, APSA Executive 1 was an executive officer of BEAM and an officer and
+agent of an issuer within the meaning of the FCPA, Title 15, United States Code, Section 78dd-
+1(a).
+
+4. âAPSA Executive 2,â an individual whose identity is known to the Fraud Section,
+the Office, and the Company, was a high-level financial executive within the APSA region from
+2011 to 2014. APSA Executive 2 dual reported to APSA Executive 1 and to BEAMâs Chief
+Financial Officer (âCFOâ). APSA Executive 2 was an employee of BEAMâs Australian
+subsidiary. From at least in or around January 2011 until on or about October 3, 2011, APSA
+Executive 2 was an agent of a domestic concern within the meaning of the FCPA, Title 15, United
+States Code, Section 78dd-2(a). From at least on or about October 4, 2011 through in or around
+April 2014, APSA Executive 2 was an agent of an issuer within the meaning of the FCPA, Title
+15, United States Code, Section 78dd-1(a).
+
+5. âBeam Executive 1,â an individual whose identity is known to the Fraud Section,
+the Office, and the Company, was a senior executive in BEAMâs legal department from at least
+September 2001 until 2018 and was based in BEAMâs corporate offices in the Northern District
+of Illinois. From at least in or around January 2011 until on or about October 3, 2011, Beam
+Executive 1 was an officer, employee, and agent of a domestic concern within the meaning of the
+FCPA, Title 15, United States Code, Section 78dd-2(a). From at least on or about October 4, 2011
+through in or around April 2014, Beam Executive 1 was an officer, employee, and agent of an
+issuer within the meaning of the FCPA, Title 15, United States Code, Section 78dd-1(a).
+
+6. âBeam Employee 1,â an individual whose identity is known to the Fraud Section,
+
+the Office, and the Company, was a high-ranking employee in BEAMâs legal department from at
+
+A-3
+least 2010 until 2017 and was based in BEAMâs corporate offices in the Northern District of
+Illinois. From at least in or around January 2011 through on or about October 3, 2011, Beam
+Employee 1 was an employee and agent of a domestic concern within the meaning of the FCPA,
+Title 15, United States Code, Section 78dd-2(a). From at least on or about October 4, 2011 through
+in or around April 2014, Beam Employee 1 was an employee and agent of an issuer within the
+meaning of the FCPA, Title 15, United States Code, Section 78dd-1(a).
+
+7. âBeam India Executive 1,â an individual whose identity is known to the Fraud
+Section, the Office, and the Company, was a high-ranking executive of Beam India from 2006 to
+2012. Before 2006, Beam India Executive 1 was an executive of Beam Indiaâs predecessor
+company. Beam India Executive 1 was based in Beam Indiaâs headquarters in Gurgaon, India.
+
+8. âForeign Official 1,â an individual whose identity is known to the Fraud Section,
+the Office, and the Company, was a senior government official in a state Excise Ministry in India.
+Foreign Official 1 was a foreign official within the meaning of the FCPA, Title 15, United States
+Code, Sections 78dd-1(f)(1) and 78dd-2(h)(2)(A).
+
+Overview of the Conspiracy and Bribery Scheme
+
+9. The alcoholic beverage industry in India was highly regulated by government
+authorities. Beam India, and third parties acting on its behalf, regularly interacted with government
+officials in connection with Beam Indiaâs importation of distilled mixes for spirit products;
+shipments to Beam Indiaâs bottling facility in Behror, Rajasthan; inspections of the Behror plant;
+shipments from the facility in Behror to distribution warehouses in multiple states in India; label
+registrations required to distribute each brand of liquor in each state; licensing of warehouses in
+
+states prior to retail distribution; and sales to retail stores that were operated by the Indian
+
+A-4
+government. The introduction of new spirit products and distribution warehouses required
+government approval of new label registrations and licensing of the warehouses in each state.
+Label registrations and warehouse licenses also required yearly renewal in Rajasthan and in the 26
+Indian states where Beam India sold BEAM products or had warehouses.
+
+10. During the relevant period, BEAM, through its officers, employees, and agents,
+knowingly and willfully conspired (1) to corruptly pay a bribe in the amount of one million Indian
+Rupees (approximately $18,000 at the then exchange rate) to Foreign Official 1 with the intent to
+obtain an improper advantage and in exchange for Foreign Official 1âs approval of a license to
+bottle a new line of products that BEAM sought to market and sell in India; (2) to fail to implement
+and maintain an adequate system of internal accounting controls sufficient to provide reasonable
+assurances regarding the reliability of financial reporting and preparation of financial statements
+and that would have helped to detect and put an end to Beam Indiaâs practice of making improper
+payments to government officials; and (3) to maintain false accounting records, by, among other
+things, recording falsified expenses that were consolidated into BEAMâs books, records, and
+accounts and by maintaining false Sarbanes-Oxley sub-certifications, in an effort to conceal the
+improper payments made to Indian government officials.
+
+11. | From the time BEAM acquired the Indian business in 2006 through the end of the
+third quarter of 2012, Beam India paid bribes and made other improper payments to various Indian
+government officials, including corrupt payments to obtain or retain business in the Indian market.
+Most of the corrupt payments were made through third-party sales promoters and distributors, who
+paid government officials to secure orders of BEAM products at government controlled depots
+
+and retail stores, obtain prominent placement of BEAM products in government retail stores,
+
+A-5
+â or
+F em OME OPE tae : Â¢
+
+q out a de ee ae POT eS Fah Fee
+QCA AL a ALS PA LUPE
+
+acquire and renew label registrations and licenses, and enable the distribution of BEAM spirit
+products from Beam Indiaâs Behror bottling facility to warehouses in other states throughout India.
+The payments to government officials were made with the knowledge, authorization, and
+complicity of Beam Indiaâs management, including Beam India Executive 1. One of those
+payments, a bribe of one million Indian Rupees (approximately $18,000) to Foreign Official 1,
+was authorized by APSA Executive 1 in connection with a project initiated and overseen by, and
+for the benefit of, BEAM. BEAM profited from the illicit payment scheme at Beam India.
+
+12. |The payments to government officials on Beam Indiaâs behalf were funded through
+the submission of fictitious and/or inflated invoices to Beam India by the third parties. Senior
+Beam India management directed the distribution of funds to those third parties in different
+markets to make payments to government officials in those states. Certain Beam India finance
+executives maintained off-the-books accounts that tracked amounts and uses of the funds provided
+to the third parties. For example, during the relevant period, Beam India overpaid its third-party
+sales promoter in the state of Delhi more than $550,000, and overpaid its third-party sales promoter
+in the sales channel for the India militaryâs Canteen Stores Department (âCSDâ) more than $1.5
+million; the promoters used those funds, in part, to make improper payments to government
+officials at government-controlled retail stores and depots in those markets.
+
+13. Before its acquisition by BEAM, the entity that subsequently became Beam India
+also made corrupt payments, directly and indirectly, to Indian government officials, including to
+secure and increase sales of spirit products and to facilitate distribution of the entityâs products.
+When BEAM acquired the assets of the Indian entity, it also retained existing management of the
+
+entity, which continued the schemes at Beam India without interruption from the 2006 acquisition
+
+A-6
+through the end of the third quarter of 2012. To conceal the scheme, Beam India management,
+which included Beam India Executive 1, maintained a second set of financial records that tracked
+the payments and disguised the scheme in the entityâs books and records to make it appear that the
+illicit payments were legitimate business expenses.
+
+14. _ During the relevant time period, in its official books and records, Beam India falsely
+characterized the illicit payments made to government officials as legitimate business expenses,
+including for âCustomer Support,â âOff-Trade Promotions,â âCommission _ to
+Distributor/Promoter,â and âCommercial Discount, Ongoing,â which disguised the true nature of
+these payments. Ultimately, the disguised expenses were consolidated in BEAMâs general ledger
+system and coded as âSelling and Distribution Expenses.â
+
+15. | Beam India management also submitted false certifications to BEAM regarding
+Beam Indiaâs financial records, internal controls, and compliance with laws. As a wholly-owned
+subsidiary of BEAM, Beam India was required to provide quarterly certifications, which included
+certification by Beam India management that they were âaware of their obligations under the
+[FCPA] and Anti-Bribery provisions.â Starting on or about October 4, 2011, when BEAM became
+a publicly traded company, Beam India began providing sub-certifications to BEAM that BEAM
+maintained in its books and records, and that BEAM management relied upon in certifying the
+accuracy of the quarterly and annual financial statements that BEAM filed with the SEC, in
+accordance with the Sarbanes-Oxley Act of 2002 (âSarbanes-Oxleyâ). From at least October 2011
+through in or around July 2012, Beam India management, including Beam India Executive 1,
+submitted false Sarbanes-Oxley sub-certifications to BEAM. These false sub-certifications,
+
+among other things, failed to report the direct and indirect payments to government officials and
+
+A-7
+a
+a
+ov
+3
+on
+4
+next
+Le
+oo
+7
+Rae
+rt
+wt
+Â¢ st
+bad
+ao
+ri
+one
+brnedh
+â
+cs
+
+~ ey Se Oe ry cP GE
+i oe Ne âJ wa Ee â ; - on, winks
+Pep RY Mtb YY And BS anally ze
+LAA Re SA RD A? Y CARRS be PFS
+tes xe
+
+failed to report the falsified expenses that were consolidated into BEAMâs books and records, even
+though Beam India management knew about the improper payments and false records.
+
+16. Notwithstanding multiple red flags regarding Beam Indiaâs practice of making
+improper payments to government officials, BEAM knowingly and willfully failed to implement
+and maintain an adequate system of internal accounting controls, including failing to implement
+controls related to payments to third-parties in India, sufficient to provide reasonable assurances
+regarding the reliability of financial reporting and preparation of financial statements. For
+example, after being made aware of significant red flags indicating that Beam India was involved
+in making improper payments, Beam Employee 1 sent an email to Beam India Executive 1 noting
+an intention to approach an upcoming compliance review âwith the understanding that a U.S.
+regulatory regime should not be imposedâ and in a way that would acknowledge âIndia customs
+and ways of doing business.â
+
+Bribe Payment To An India State Excise Official
+(17. In 2011, Beam India sought to introduce BEAMâs profitable âReady to Drinkâ
+(âRTDâ) products in India. At the time, BEAM had embarked on a broad global initiative to
+develop RTD beverages in emerging markets and had targeted India as one of the markets where
+it would introduce RTD. BEAM and APSA employees were involved in the rollout of RTD
+products in India.
+
+18. In or around May 2011, Beam India contracted with a third-party bottling company
+to produce the RTD drinks. Beam Indiaâs third-party bottler then filed, on Beam Indiaâs behalf,
+applications with the state Excise Ministry to obtain the label registrations required to operate the
+
+facility and bottle RTD products in that state.
+19. In or around September 2011, APSA management, including APSA Executive 1
+and APSA Executive 2, learned that Foreign Official 1 had solicited a bribe in the amount of one
+million Indian Rupees (approximately equal to $18,000 at the then exchange rate or to the officialâs
+annual compensation) to approve the label registration for Beam India. Foreign Official 1 had the
+discretion to deny the label registration application. A senior Beam India manager (âBeam India
+Managerâ) informed a senior APSA manager in Australia (âAPSA Managerâ), who had been
+selected by BEAM to implement the RTD rollout in India, of the bribe solicitation by Foreign
+Official 1. In that capacity, APSA Manager was an agent of an issuer within the meaning of the
+FCPA, Title 15, United States Code, Section 78dd-1(a), on and after October 4, 2011, and was an
+agent of a domestic concern within the meaning of the FCPA, Title 15, United States Code, Section
+78dd-2(a), before that date.
+
+20. APSA Manager met with APSA Executive 1 and APSA Executive 2 in Sydney,
+Australia, and informed them of the bribe solicitation. At this meeting, APSA Executive 1, APSA
+Executive 2, and APSA Manager discussed the possibility of a third-party bottler making this
+payment and how the payment could be concealed and reimbursed through the submission of false
+invoices by the third-party bottler to Beam India. At the end of the meeting, APSA Executive 1
+instructed APSA Manager to have the payment made to Foreign Official 1.
+
+21. | APSA Manager informed Beam India Manager that he had discussed the matter
+with APSA Executive 1, that the third-party bottler should make the payment to Foreign Official
+1, and that Beam India would reimburse the third-party bottler for the amount of the payment
+through false invoices. Beam India Manager relayed that information to Beam India Executive 1,
+
+who told Beam India Manager to make the payment to Foreign Official 1 because it had been
+
+A-9
+ordered by APSA Executive 1. Beam Indiaâs third-party bottler agreed to make, and did make,
+the unlawful payment of one million Rupees to Foreign Official 1.
+
+22. Thereafter, on or about November 16, 2011, the Excise Ministry issued the approval
+to begin bottling the RTD product. Several months later, the third-party bottler submitted false
+invoices to Beam India, purportedly for consulting services at the bottling facility, in the total
+approximate amount of the payment to Foreign Official 1, which Beam India paid.
+
+Failure To Implement And Maintain Adequate Internal Controls
+
+23. | BEAM also knowingly and willfully failed to implement and maintain an adequate
+system of internal accounting controls sufficient to provide reasonable assurances regarding the
+reliability of financial reporting and preparation of financial statements and that would have helped
+to detect and put an end to Beam Indiaâs practice of making improper payments to government
+officials. BEAM was cautioned on numerous occasions regarding the need to implement sufficient
+compliance measures and internal accounting controls relating to risks associated with improper
+activities by third parties in India. Nevertheless, for several years, BEAM failed to adopt
+significant recommended actions and failed to address the concerns those recommendations were
+meant to alleviate.
+
+24. Under the circumstances of BEAMâs acquisition of its Indian business, BEAM did
+not conduct thorough due diligence on Beam India before it acquired that business in 2006. BEAM
+conducted internal audits of the Indian business in or around 2008 and 2009, but those audits did
+not focus on anti-corruption issues. The audits identified deficiencies in the accounting controls
+
+in India and a lack of supporting documentation for credit notes, promotional expenses, and vendor
+
+A-10
+discounts. BEAM did not take steps sufficient to resolve these issues in Beam India until after the
+fall of 2012.
+
+25. In or around November 2010, BEAM engaged a global accounting firm to conduct
+a compliance review of Beam India, which included transaction testing and interviews with
+employees. In or around early January 2011, the accounting firm issued a report on its findings
+that raised several red flags, including that Beam India did ânot have many anti-corruption
+policiesâ and its employees had not received anticorruption training; Beam India management
+believed Beam India was not liable from a compliance standpoint for the conduct of its vendors
+and third-party sales promoters; Beam India management maintained it was âvery difficultâ to
+conduct business in India without making âerease/facilitation payments,â while certain Beam India
+employees believed that âpromoters are likely making grease paymentsâ to government officials
+in India; certain vendors engaged by Beam India presented a significant risk of corruption; and
+Beam India âd[id] not perform monitoring relative to corruption risks.â The report found that the
+military-run CSD sales channel presented a âhigh risk area in terms of anti-corruption
+compliance.â The global accounting firm recommended that BEAM âconduct and document due
+diligence to confirm activities undertakenâ by third parties, âinvestigate red flags,â âdiscuss legal
+considerations of third party actions taken on BEAMâs behalf,â and âconsider the need to further
+reviewâ the CSD and other military outlet business in India. BEAM did not take these steps in
+India at that time, and BEAM did not implement many of the global accounting firmâs
+recommendations until fall 2012.
+
+26.  Inor around January 2011, BEAM consulted a United States law firm (âU.S. Law
+
+Firmâ), which advised that the issues identified by the global accounting firm required follow up.
+
+A-11
+BEAM did not take steps to enhance its controls in India regarding payments to third parties at this
+time.
+
+27. In or around February 2011, BEAM retained an Indian law firm (âIndian law firmâ)
+to review and expand upon the compliance work performed by the accounting firm and to assess
+Beam Indiaâs compliance with Indian laws and regulations applicable to the spirits industry. Beam
+Employee 1 was tasked with managing the Indian law firmâs review of Beam Indiaâs business. At
+that time, Beam Employee 1 did not have any experience with, and had not received any training
+on, the FCPA or anti-corruption compliance issues.
+
+28. In or around early February 2011, Beam Employee 1 and Beam Executive 1 had a
+conference call with APSA Executive 1 and APSA Executive 2 to explain the upcoming review
+by the Indian law firm. APSA Executive 1 and APSA Executive 2 expressed concern that, if the |
+review uncovered improper activities by third parties, Beam India might have to stop doing
+business with those third parties, which could disrupt the Indian business. An APSA executive
+further stated at the meeting that if BEAM continued digging into the Indian business, it likely
+would find improper activities.
+
+29. Onor about February 4, 2011, Beam Employee 1 emailed Beam India Executive 1,
+stating: âBeam Legal believes it is critical to approach a compliance review with the understanding
+that a U.S. regulatory regime should not be imposed on our Indian business and that acknowledges
+India customs and ways of doing business.â Beam Employee 1 discussed the messages conveyed
+in this email, but not the exact wording, with Beam Executive 1 before it was sent.
+
+30. The Indian law firm interviewed Beam India senior management to determine
+
+whether improper payments were being made to Indian government officials. The Indian law firm
+
+A-12
+reported, among other things, that Beam India managers believed that third parties in India may
+make payments to customs officials and government employees in the CSD channel. The Indian
+law firm confirmed and reiterated many of the accounting firmâs recommendations, including the
+need for Beam India employees to receive training on the FCPA and liability for third-party
+conduct; to conduct due diligence on high-risk vendors; to create policies and implement
+appropriate accounting controls for gifts, petty cash, and reimbursement claims; and to revise its
+contracts with third parties to include anti-corruption clauses and audit rights.
+
+31. BEAMasked U.S. Law Firm to review the report and work done by the Indian law
+firm. On or about August 19, 2011, U.S. Law Firm issued a memorandum to Beam noting that no
+significant analysis of Beam Indiaâs books and records, internal controls or other issues related to
+its finance and accounting practices, and no substantial transaction testing, had been conducted by
+the Indian law firm. The U.S. Law Firm memorandum also noted that the Indian law firm had
+raised issues concerning BEAMâs oversight of third parties and the potential conduct of those third
+parties. In addition to confirming the advice given by the accounting firm and the Indian law firm,
+U.S. Law Firm made additional recommendations with respect to compliance and internal
+accounting controls, including that BEAM âshould strongly consider undertaking a financial
+review of past invoices and debit notes received from Beam Indiaâs third-party business partners
+that interact with government officials.â Because it believed there was âa high likelihood that the
+results of this type of financial review may uncover evidence of potentially improper payments,â
+U.S. Law Firm recommended that BEAM âshould consider structuring the review so that in-house
+
+>
+
+or outside counsel engages an outside forensic investigator to conduct the review... .â
+
+A-13
+32. | BEAM did not conduct a further review of the Indian business or enhance its
+internal accounting controls over payments to third parties at that time.
+
+33. | Onor about August 30, 2011, Beam Employee 1 wrote to BEAM compliance and
+finance personnel, copying APSA Executive 2, to discuss concluding the review in India, and
+stated, in relevant part: âI would like to discuss with you the results of the legal compliance review
+conducted by [the Indian law firm], as well as notes from [the U.S. Law Firm] with an eye toward
+making this a case closed within the next four weeks.â
+
+34. On or about August 31, 2011, Beam Employee 1 wrote to the Indian law firm,
+copying APSA Executive 2 and others, stating, in relevant part: âAs Beam prepares to become a
+listed company in one month, executive management directed me yesterday to ensure that the
+compliance review in India come to a close before then.â Beam Employee 1 later added:
+âCompliance review will be an ongoing process, but hopefully, upon completion of this legal
+compliance review, Beam India will not have to undergo another compliance review by any
+department for a long time.â
+
+35. The Indian law firm recommended conducting additional interviews in India, this
+time with Beam India operational employees who interacted with the third-party sales promoters
+in the CSD channel. This recommendation was based on further conversations that the Indian law
+firm had with Beam India management, which raised concerns about third-party sales promoters
+in the CSD channel.
+
+36. BEAM declined to follow the Indian law firmâs recommendation. Beam Employee
+1 explained to APSA Executive 2 and others in a September 8, 2011 email, âI am concerned about
+
+[the Indian law firm] digging and finding information that we cannot impact, specifically, finding
+
+A-14
+ea athe TE eT aE. APO PSN PN eye, SUP ae om AY
+men ge & Ediecd TNfP R/O Pane 3? af Saf
+PRES PR TRL GP PF RERS RAL AS cla Ca PU SRR As AE ow?
+
+<3
+
+at
+rr,
+exist
+
+4
+
+activities and practices by our [third parties] that we cannot remediate or change. The risk may be
+ultimately having to choose whether to continue to conduct business with any [third parties] that
+create [FCPA] risks for us/Beam India.â Later in the email, Beam Employee 1 referenced an SEC
+enforcement matter concerning one of Beamâs competitors and noted that, if Beam was doing
+anything in the same manner as the competitor, Beam should change and do things in a more
+compliant manner. Beam Employee 1 noted further that it would be âbeneficialâ to conduct the
+review âin houseâ and involve external advisors if they felt it necessary.
+37. BEAM decided to conclude the review being conducted by the Indian law firm, and
+did not conduct additional interviews in India until September 2012, after further allegations of
+corrupt conduct in Beam India were raised. BEAM also knowingly and willfully failed to maintain
+an adequate system of internal accounting controls, including failing to implement controls related
+to payments to third-parties in India, sufficient to provide reasonable assurances regarding the
+reliability of financial reporting and preparation of financial statements until at least September
+2012.
+False Books and Records
+38. Asa result of the bribe paid to Foreign Official 1, and in order to conceal corrupt
+payments made by and on behalf of Beam India, among other things, between at least on or about
+October 4, 2011 and in or around September 2012, BEAM maintained falsely recorded expenses,
+including corrupt payments concealed as commission expenses, and falsified certifications,
+including false Sarbanes-Oxley sub-certifications submitted by APSA Executive 1, APSA
+
+Executive 2, and Beam India Executive 1, in its consolidated books, records, and accounts.
+
+A-15
+ae
+a
+
+39. For example, between at least on or about October 19, 2011, and on or about July
+18, 2012, APSA Executive 1 and APSA Executive 2 submitted Sarbanes-Oxley sub-certifications
+that falsely stated, in sum and substance, that they had no knowledge of non-compliance with anti-
+corruption laws and that they had no knowledge of any fraud or suspected fraud, whether or not
+material, that involved management, other employees, or third parties who had a significant role
+in the regionâs internal controls. These sub-certifications failed to disclose, among other things,
+the one-million-Rupee bribe to Foreign Official 1 and the existence of false documents and
+
+accounting records related to that payment.
+
+A-16
+PS wy es N ry â¢. ye AE 2 eee gh Gl : y â
+
+Ã© Sm EO RRS CE Pee PSL eR PE PERE ERE es Be las oer
+a eo RG ae a f Ã©b = ak 4 ~â ae
+
+eG. AS GEO LRG PRP PL A. GUE
+
+ATTACHMENT B
+CERTIFICATE OF CORPORATE RESOLUTIONS
+
+WHEREAS, Beam Suntory Inc. (the âCompanyâ) has been engaged in discussions with
+the United States Department of Justice, Criminal Division, Fraud Section (the âFraud Sectionâ)
+and the United States Attorneyâs Office for the Northern District of Illinois (the âOfficeâ)
+regarding issues arising in relation to a conspiracy to pay bribes and make other improper payments
+in connection with the sale of alcohol in India, to fail to implement a system of adequate internal
+controls, and to falsify books, records, and accounts to conceal the bribes and improper payments;
+and
+
+WHEREAS, in order to resolve such discussions, it is proposed that the Company enter
+into a certain agreement with the Fraud Section and the Office; and
+
+WHEREAS, the Companyâs Senior Vice President, General Counsel, and Secretary,
+Todd M. Bloomquist, together with outside counsel for the Company, have advised the Board of
+Directors of the Company of its rights, possible defenses, the Sentencing Guidelinesâ provisions,
+and the consequences of entering into such agreement with the Fraud Section and the Office;
+
+Therefore, the Board of Directors has RESOLVED that:
+
+1. The Company (a) acknowledges the filing of the one-count Information charging |
+the Company with one count of conspiracy to commit an offense against the United States, in
+violation of Title 18, United States Code, Section 371, that is, to violate the anti-bribery, internal
+controls, and books and records provisions of the FCPA; (b) waives indictment on such charges
+
+and enters into a deferred prosecution agreement with the Fraud Section and the Office; and (c)
+agrees to accept a monetary penalty against Company totaling $19,572,885, and to pay such
+penalty to the United States Treasury with respect to the conduct described in the Information;
+
+2. The Company accepts the terms and conditions of this Agreement, including, but
+not limited to, (a) a knowing waiver of its rights to a speedy trial pursuant to the Sixth Amendment
+to the United States Constitution, Title 18, United States Code, Section 3161, and Federal Rule of
+Criminal Procedure 48(b); and (b) a knowing waiver for purposes of this Agreement and any
+charges by the United States arising out of the conduct described in the Statement of Facts of any
+objection with respect to venue and consents to the filing of the Information, as provided under
+the terms of this Agreement, in the United States District Court for the Northern District of Illinois;
+and (c) a knowing waiver of any defenses based on the statute of limitations for any prosecution
+relating to the conduct described in the Statement of Facts or relating to conduct known to the
+Fraud Section and the Office prior to the date on which this Agreement was signed that is not time-
+barred by the applicable statute of limitations on the date of the signing of this Agreement;
+
+3. The Senior Vice President, General Counsel, and Secretary of Company, Todd M.
+Bloomquist, is hereby authorized, empowered and directed, on behalf of the Company, to execute
+the Deferred Prosecution Agreement substantially in such form as reviewed by this Board of
+Directors with such changes as the Senior Vice President, General Counsel, and Secretary of
+Company, Todd M. Bloomquist, may approve;
+
+4. The Senior Vice President, General Counsel, and Secretary of Company, Todd M.
+Bloomquist, is hereby authorized, empowered and directed to take any and all actions as may be
+
+necessary or appropriate and to approve the forms, terms or provisions of any agreement or other
+documents as may be necessary or appropriate, to carry out and effectuate the purpose and intent
+of the foregoing resolutions; and
+
+5. All of the actions of the Senior Vice President, General Counsel, and Secretary of
+Company, Todd M. Bloomquist, which actions would have been authorized by the foregoing
+resolutions except that such actions were taken prior to the adoption of such resolutions, are hereby
+
+severally ratified, confirmed, approved, and adopted as actions on behalf of the Company.
+
+By:
+Todd M Bloomquist 7
+
+Senior Vice President, General Counsel, and
+Secretary
+Beam Suntory Inc.
+
+ 
+â % a emp ones ai APR FEN Bet 7s ee ae Ao " â
+tiered 4: @ EE ibaaet: TAPP DPONY Darn AG Aft RAL
+Bbbbetb sok M4) prbteti: SSP eA ee wks er ed be a oD Â¥
+PEERS PR TPL LP RERO RAL AA cla a PU RAL RR SP A
+
+we
+
+sears,
+on
+A
+st
+yor
+exist
+
+ATTACHMENT C
+CORPORATE COMPLIANCE PROGRAM
+
+In order to address any deficiencies in its internal controls, compliance code, policies, and
+procedures regarding compliance with the Foreign Corrupt Practices Act (âFCPAâ), 15 U.S.C. Â§Â§
+78dd-1, et seqg., and other applicable anti-corruption laws, Beam Suntory Inc. (the âCompanyâ),
+on behalf of itself and its subsidiaries and affiliates, agrees to continue to conduct, in a manner
+consistent with all of its obligations under this Agreement, appropriate reviews of its existing
+internal controls, policies, and procedures.
+
+Where necessary and appropriate, the Company agrees to adopt new, or to modify its
+existing compliance programs, including internal controls, compliance policies, and procedures in
+order to ensure that it maintains: (a) an effective system of internal accounting controls designed
+to ensure the making and keeping of fair and accurate books, records, and accounts; and (b) a
+rigorous anti-corruption compliance program that incorporates relevant internal accounting
+controls, as well as policies and procedures designed to effectively detect and deter violations of
+the ECPA and other applicable anti-corruption laws. At a minimum, this should include, but not
+be limited to, the following elements to the extent they are not already part of the Companyâs
+existing internal controls, compliance code, policies, and procedures:
+
+Commitment to Compliance
+
+1. The Company will ensure that its directors and senior management provide strong,
+explicit, and visible support and commitment to its corporate policy against violations of the anti-
+corruption laws and its compliance codes, and demonstrate rigorous adherence by example. The
+
+Company will also ensure that middle management, in turn, reinforce those standards and
+
+C-1
+encourage employees to abide by them. The Company will create and foster a culture of ethics
+and compliance with the law in its day-to-day operations at all levels of the company.
+Policies and Procedures
+
+2. The Company will develop and promulgate a clearly articulated and visible
+corporate policy against violations of the FCPA and other applicable foreign law counterparts
+(collectively, the âanti-corruption lawsâ), which policy shall be memorialized in a written
+compliance code or codes.
+
+3. The Company will develop and promulgate compliance policies and procedures
+designed to reduce the prospect of violations of the anti-corruption laws and the Companyâs
+compliance code, and the Company will take appropriate measures to encourage and support the
+observance of ethics and compliance policies and procedures against violation of the anti-
+corruption laws by personnel at all levels of the Company. These anti-corruption policies and
+procedures shall apply to all directors, officers, and employees and, where necessary and
+appropriate, outside parties acting on behalf of the Company in a foreign jurisdiction, including,
+but not limited to, agents and intermediaries, consultants, representatives, distributors, teaming
+partners, contractors and suppliers, consortia, and joint venture partners (collectively, âagents and
+business partnersâ). The Company shall notify all employees that compliance with the policies
+
+and procedures is the duty of individuals at all levels of the company. Such policies and procedures
+
+shall address:
+a. gifts;
+b. hospitality, entertainment, and expenses;
+C. customer travel;
+d. political contributions;
+
+â¬. charitable donations and sponsorships;
+f. facilitation payments; and
+g. solicitation and extortion.
+4, The Company will ensure that it has a system of financial and accounting
+
+procedures, including a system of internal controls, reasonably designed to ensure the maintenance
+of fair and accurate books, records, and accounts. This system shall be designed to provide
+
+reasonable assurances that:
+
+a. transactions are executed in accordance with managementâs general or
+specific authorization;
+b. transactions are recorded as necessary to permit preparation of financial
+
+statements in conformity with generally accepted accounting principles or any other criteria
+applicable to such statements, and to maintain accountability for assets;
+
+c. access to assets is permitted only in accordance with managementâs general
+or specific authorization; and
+
+d. the recorded accountability for assets is compared with the existing assets
+at reasonable intervals and appropriate action is taken with respect to any differences.
+
+Periodic Risk-Based Review
+5. The Company will develop these compliance policies and procedures on the basis
+
+of a periodic risk assessment addressing the individual circumstances of the Company, in particular
+the foreign bribery risks facing the Company, including, but not limited to, its geographical
+
+organization, interactions with various types and levels of government officials, industrial sectors
+
+C-3
+of operation, potential clients and business partners, use of third parties, gifts, travel and
+entertainment expenses, charitable and political donations, involvement in joint venture
+arrangements, importance of licenses and permits in the Companyâs operations, degree of
+governmental oversight and inspection, and volume and importance of goods and personnel
+clearing through customs and immigration.
+
+6. The Company shall review its anti-corruption compliance policies and procedures
+no less than annually and update them as appropriate to ensure their continued effectiveness, taking
+into account relevant developments in the field and evolving international and industry standards.
+
+Proper Oversight and Independence
+
+7. The Company will assign responsibility to one or more senior corporate executives
+of the Company for the implementation and oversight of the Companyâs anti-corruption
+compliance code, policies, and procedures. Such corporate official(s) shall have the authority to
+report directly to independent monitoring bodies, including internal audit, the Companyâs Board
+of Directors, or any appropriate committee of the Board of Directors, and shall have an adequate
+level of stature and autonomy from management as well as sufficient resources and authority to
+maintain such autonomy.
+
+Training and Guidance
+
+8. The Company will implement mechanisms designed to ensure that its anti-
+corruption compliance code, policies, and procedures are effectively communicated to all
+directors, officers, employees, and, where necessary and appropriate, agents and business partners.
+These mechanisms shall include: (a) periodic training for all directors and officers, all employees
+
+in positions of leadership or trust, positions that require such training (e.g., internal audit, sales,
+
+C-4
+legal, compliance, finance), or positions that otherwise pose a corruption risk to the Company,
+and, where necessary and appropriate, agents and business partners; and (b) corresponding
+certifications by all such directors, officers, employees, agents, and business partners, certifying
+compliance with the training requirements. The Company will conduct training in a manner
+tailored to the audienceâs size, sophistication, or subject matter expertise and, where appropriate,
+will discuss prior compliance incidents.
+
+9. | The Company will maintain, or where necessary establish, an effective system for
+providing guidance and advice to directors, officers, employees, and, where necessary and
+appropriate, agents and business partners, on complying with the Companyâs anti-corruption
+compliance code, policies, and procedures, including when they need advice on an urgent basis or
+in any foreign jurisdiction in which the Company operates.
+
+Internal Reporting and Investigation
+
+10. | The Company will maintain, or where necessary establish, an effective system for
+internal and, where possible, confidential reporting by, and protection of, directors, officers,
+employees, and, where appropriate, agents and business partners concerning violations of the anti-
+corruption laws or the Companyâs anti-corruption compliance code, policies, and procedures.
+
+11. | The Company will maintain, or where necessary establish, an effective and reliable
+process with sufficient resources for responding to, investigating, and documenting allegations of
+violations of the anti-corruption laws or the Companyâs anti-corruption compliance code, policies,
+and procedures. The Company will handle the investigations of such complaints in an effective
+manner, including routing the complaints to proper personnel, conducting timely and thorough
+
+investigations, and following up with appropriate discipline where necessary.
+
+C-5
+ony : oe . â
+Pâ¢ yen â ~ Ns â> A
+
+5 out ka Sao : wk Rae aed sag see
+KR LE ae AALS Fe
+
+Enforcement and Discipline
+
+12. The Company will implement mechanisms designed to effectively enforce its
+compliance code, policies, and procedures, including appropriately incentivizing compliance and
+disciplining violations.
+
+13. | The Company will institute appropriate disciplinary procedures to address, among
+other things, violations of the anti-corruption laws and the Companyâs anti-corruption compliance
+code, policies, and procedures by the Companyâs directors, officers, and employees. Such
+procedures should be applied consi stently, fairly and in a manner commensurate with the violation,
+regardless of the position held by, or perceived importance of, the director, officer, or employee.
+The Company shall implement procedures to ensure that where misconduct is discovered,
+reasonable steps are taken to remedy the harm resulting from such misconduct, and to ensure that
+appropriate steps are taken to prevent further similar misconduct, including assessing the internal
+controls, compliance code, policies, and procedures and making modifications necessary to ensure
+the overall anti-corruption compliance program is effective.
+
+Third-Party Relationships
+
+14. | The Company will institute appropriate risk-based due diligence and compliance
+requirements pertaining to the retention and oversight of all agents and business partners,
+including:
+
+a. properly documented due diligence pertaining to the hiring and appropriate
+
+and regular oversight of agents and business partners;
+b. informing agents and business partners of the Companyâs commitment to
+abiding by anti-corruption laws, and of the Companyâs anti-corruption compliance code, policies,
+and procedures; and
+
+C. seeking a reciprocal commitment from agents and business partners. The
+Company will understand and record the business rationale for using a third party in a transaction,
+and will conduct adequate due diligence with respect to the risks posed by a third-party partner
+such as a third-party partnerâs reputation and relationships, if any, with foreign officials. The
+Company will ensure that contract terms with third parties specifically describe the services to be
+performed, that the third party is actually performing the described work, and that its compensation
+is commensurate with the work being provided in that industry and geographical region. The
+Company will engage in ongoing monitoring of third-party relationships through updated due
+diligence, training, audits, and/or annual compliance certifications by the third party.
+
+15. | Where necessary and appropriate, the Company will include standard provisions
+in agreements, contracts, and renewals thereof with all agents and business partners that are
+reasonably calculated to prevent violations of the anti-corruption laws, which may, depending
+upon the circumstances, include: (a) anti-corruption representations and undertakings relating to
+compliance with the anti-corruption laws; (b) rights to conduct audits of the books, records, and
+accounts of the agent or business partner to ensure compliance with the foregoing; and (c) rights
+to terminate an agent or business partner as a result of any breach of the anti-corruption laws, the
+Companyâs compliance code, policies, or procedures, or the representations and undertakings
+
+related to such matters.
+ota ett ts 3 -
+rarenges she 2 Loses EE
+WAM a GO rHEO! At
+
+Mergers and Acquisitions
+
+16. | The Company will develop and implement policies and procedures for mergers
+and acquisitions requiring that the Company conduct appropriate risk-based due diligence on
+potential new business entities, including appropriate FCPA and anti-corruption due diligence by
+legal, accounting, and compliance personnel.
+
+17. | The Company will ensure that the Companyâs compliance code, policies, and
+procedures regarding the anti-corruption laws apply as quickly as is practicable to newly acquired
+businesses or entities merged with the Company and will promptly:
+
+a. train the directors, officers, employees, agents, and business partners
+consistent with Paragraphs 8 and 9 above on the anti-corruption laws and the Companyâs
+compliance code, policies, and procedures regarding anti-corruption laws; and
+
+b. where warranted, conduct an FCPA-specific audit of all newly acquired or
+merged businesses as quickly as practicable.
+
+Monitoring, Testing, and Remediation
+
+18. In order to ensure that its compliance program does not become stale, the Company
+will conduct periodic reviews and testing of its anti-corruption compliance codes, policies, and
+procedures designed to evaluate and improve their effectiveness in preventing and detecting
+violations of anti-corruption laws and the Companyâs anti-corruption codes, policies, and
+procedures, taking into account relevant developments in the field and evolving international and
+industry standards. The Company will ensure that compliance and control personnel have
+sufficient direct or indirect access to relevant sources of data to allow for timely and effective
+
+monitoring and/or testing of transactions. Based on such review and testing and its analysis of any
+
+C-8
+duct, the Company will conduct a thoughtful root cause analysis and timely and
+
+prior miscon
+
+appropriately remediate to address the root causes.
+
+C-9
+ATTACHMENT D
+REPORTING REQUIREMENTS
+Beam Suntory Inc. (the âCompanyâ) agrees that it will report to the Fraud Section and the
+Office periodically, at no less than twelve-month intervals during a three-year term, regarding
+remediation and implementation of the compliance program and internal controls, policies, and
+procedures described in Attachment C. Should the Company discover credible evidence, not
+already reported to the Fraud Section and the Office, that questionable or corrupt payments or
+questionable or corrupt transfers of property or interests may have been offered, promised, paid,
+or authorized by any Company entity or person, or any entity or person working directly for the
+Company (including its affiliates and any agent), or that related false books and records have been
+maintained, the Company shall promptly report such conduct to the Fraud Section and the Office.
+During this three-year period, the Company shall: (1) conduct an initial review and submit an
+initial report, and (2) conduct and prepare at least two (2) follow-up reviews and reports, as
+described below:
+a. By no later than one year from the date this Agreement is executed, the
+Company shall submit to the Fraud Section and the Office a written report setting forth a complete
+description of its remediation efforts to date, its proposals reasonably designed to improve the
+Companyâs internal controls, policies, and procedures for ensuring compliance with the FCPA and
+other applicable anti-corruption laws, and the proposed scope of the subsequent reviews. The
+report shall be transmitted to Chief - FCPA Unit, Fraud Section, Criminal Division, U.S.
+Department of Justice, 1400 New York Avenue, NW, Bond Building, Eleventh Floor, Washington,
+
+DC 20530; and Chief, Financial Crimes Section, United States Attorneyâs Office, Northern District
+
+D-1
+of Ilinois, 219 S. Dearborn Street, Suite 500, Chicago, Illinois 60604. The Company may extend
+the time period for issuance of the report with prior written approval of the Fraud Section and the
+Office.
+
+b. The Company shall undertake at least two follow-up reviews, incorporating
+the Fraud Section and the Officeâs views on the Companyâs prior reviews and reports, to further
+monitor and assess whether the Companyâs policies and procedures are reasonably designed to
+detect and prevent violations of the FCPA and other applicable anti-corruption laws.
+
+C. The first follow-up review and report shall be completed by no later than
+one year after the initial review. The second follow-up review and report shall be completed by
+no later than one year after the completion of the preceding follow-up review. The final follow-
+up review and report shall be completed and delivered to the Fraud Section and the Office no later
+than thirty days before the end of the Term.
+
+d. The reports will likely include proprietary, financial, confidential, and
+competitive business information. Moreover, public disclosure of the reports could discourage
+cooperation, impede pending or potential government investigations and thus undermine the
+objectives of the reporting requirement. For these reasons, among others, the reports and the
+contents thereof are intended to remain and shall remain non-public, except as otherwise agreed to
+by the parties in writing, or except to the extent that the Fraud Section and the Office determine in
+their sole discretion that disclosure would be in furtherance of the Fraud Section and the Officeâs
+discharge of their duties and responsibilities or is otherwise required by law.
+
+e. The Company may extend the time period for submission of any of the
+
+follow-up reports with prior written approval of the Fraud Section and the Office.
+
+D-2
+ATTACHMENT E
+CERTIFICATION
+
+To: United States Department of Justice
+Criminal Division, Fraud Section
+Attention: Chief, FCPA Unit
+
+United States Attorneyâs Office
+Northern District of Tlinois
+Attention: Chief, Financial Crimes Section
+
+Re: Deferred Prosecution Agreement Disclosure Certification
+
+The undersigned certify, pursuant to Paragraph 18 of the Deferred Prosecution Agreement
+(âDPAâ) filed on October 23, 2020, in the U.S. District Court for the Northern District of Dlinois,
+by and between the Fraud Section and the Office and Beam Suntory Inc. (the âCCompanyâ), that
+undersigned are aware of the Companyâs disclosure obligations under Paragraph 6 of the DPA and
+that the Company has disclosed to the Fraud Section and the Office any and all evidence or
+allegations of conduct required pursuant to Paragraph 6 of the DPA, which includes evidence or
+allegations that may constitute a violation of the FCPA anti-bribery provisions had the conduct
+occurred within the jurisdiction of the United States (ââDisclosable Informationââ). This obligation
+to disclose information extends to any and all Disclosable Information that has been identified
+through the Companyâs compliance and controls program, whistleblower channel, internal audit
+reports, due diligence procedures, investigation process, or other processes. The undersigned
+further acknowledge and agree that the reporting requirement contained in Paragraph 6 and the
+representations contained in this certification constitute a significant and important component of
+the DPA and the Fraud Section and the Officeâs determination whether the Company has satisfied
+its obligations under the DPA.
+
+The undersigned hereby certify respectively that he/she is the Chief Executive Officer (âCEOâ) of
+the Company and that he/she is the Chief Financial Officer (âCFOâ) of the Company and that each
+has been duly authorized by the Company to sign this Certification on behalf of the Company.
+
+This Certification shall constitute a material statement and representation by the undersigned and
+by, on behalf of, and for the benefit of, the Company to the executive branch of the United States
+for purposes of 18 U.S.C. Â§ 1001, and such material statement and representation shall be deemed
+to have been made in the Northern District of Illinois. This Certification shall also constitute a
+record, document, or tangible object in connection with a matter within the jurisdiction of a
+department and agency of the United States for purposes of 18 U.S.C. Â§ 1519, and such record,
+document, or tangible object shall be deemed to have been made in the Northern District of Illinois.
+ 
+
+ 
+
+ 
+
+ 
+
+Dated
+
+ 
+
+ 
+
+[NAME]
+
+CEO
+Beam Suntory Inc.
+
+Dated
+
+ 
+
+ 
+
+[NAME]
+
+CFO
+Beam Suntory Inc.
+
+E-2

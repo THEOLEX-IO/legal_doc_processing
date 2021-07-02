@@ -1,0 +1,548 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 74998 / May 20, 2015
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-16546
+
+ 
+
+ 
+
+ 
+
+In the Matter of ORDER INSTITUTING CEASE-AND-
+DESIST PROCEEDINGS PURSUANT TO
+BHP Billiton Ltd. and BHP SECTION 21C OF THE SECURITIES
+Billiton Plc, EXCHANGE ACT OF 1934, MAKING
+FINDINGS, AND IMPOSING A CEASE-
+Respondents. AND-DESIST ORDER
+I.
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (âExchange Actâ), against BHP Billiton Ltd. and BHP Billiton Plc
+(collectively, âBHPBâ or âRespondentsâ).
+
+I.
+
+In anticipation of the institution of these proceedings, Respondents have submitted Offers
+of Settlement (the âOffersâ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commissionâs jurisdiction over them and the subject matter of these
+proceedings, which are admitted, Respondents consent to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (âOrderâ), as set forth below.
+
+IIl.
+On the basis of this Order and Respondentsâ Offers, the Commission findsâ that:
+
+ 
+
+' The findings herein are made pursuant to Respondentsâ Offers of Settlement and are not binding on any
+other person or entity in this or any other proceeding.
+Summary
+
+1. This matter concerns BHPBâs failure to devise and maintain sufficient internal
+controls over a global hospitality program that the company hosted in connection with its
+sponsorship of the 2008 Beijing Summer Olympic Games. BHPB invited approximately 176
+government officials and employees of state-owned enterprises (collectively, âgovernment
+officialsâ) to attend the Olympics at BHPBâs expense. The majority of these invitations were
+extended to government officials from countries in Africa and Asia that had well-known histories
+of corruption. The three to four day hospitality packages included event tickets, luxury hotel
+accommodations, meals, other hospitality, and, in many instances, offers of business-class airfare
+for government officials and their guests. BHPB informed its employees that â[o]}ne of the core
+objectives [of the Olympic sponsorship] is to maximize the commercial investment made in the
+Games through assisting [BHPB] to strengthen relationships with key local and global
+stakeholders, e.g.: Government Ministers, Suppliers and Customers,â and that the hospitality
+program was âa primary vehicle to ensure this goal is achieved.â
+
+2. BHPB recognized that inviting government officials to the Olympics created a
+heightened risk of violating anti-corruption laws and the companyâs own Guide to Business
+Conduct, but the internal controls it developed and relied upon in an effort to address this risk were
+insufficient. As a result, BHPB invited government officials who were directly involved in, or in a
+position to influence, pending contract negotiations, efforts to obtain access rights, regulatory
+actions, or business dealings affecting BHPB in multiple countries. In addition, BHPBâs books
+and records, namely certain internal forms that employees prepared in order to invite a government
+official to the Olympics, did not, in reasonable detail, accurately and fairly reflect BHPBâs pending
+negotiations or business dealings with the government official at the time of the invitation.
+
+3. As aresult of this conduct, BHPB violated the internal controls and books and
+records provisions of the Foreign Corrupt Practices Act (âFCPAâ).
+
+Respondent
+
+4. BHP Billiton (âBHPBâ) is a combination of two companies: BHP Billiton Limited,
+which is headquartered in Melbourne, Australia, and BHP Billiton Plc, which is headquartered in
+London, England. Since 2001, BHPB has operated under a Dual Listed Company structure, under
+which BHP Billiton Limited and BHP Billiton Plc operate as a single economic entity, run by a
+unified Board of Directors and management team. BHP Billiton Limited American Depositary
+Shares (ââADSsâ) and BHP Billiton Plc ADSs are registered with the Commission pursuant to
+Section 12(b) of the Exchange Act and listed on the New York Stock Exchange under the tickers
+âBHPâ and âBBLâ respectively.
+
+Background
+
+5. BHPB is a global resources company that is among the worldâs leading producers
+of major commodities, including iron ore, coal, oil and gas, copper, aluminum, manganese,
+uranium, nickel, and silver. As of June 30, 2014, the end of its most recently completed fiscal
+year, BHPB had a market capitalization of approximately $190 billion, with over 140 locations,
+operations in 25 countries, and a workforce of more than 128,000 employees and contractors.
+
+6. During the relevant period, BHPB operated through different business divisions,
+called Customer Sector Groups (âCSGsâ). These CSGs included Iron Ore, Aluminium, Petroleum,
+Base Metals, Diamonds and Specialty Products, Stainless Steel Materials, Manganese,
+Metallurgical Coal, and Energy Coal. Each CSG had its own president, which reported to a
+member of BHPBâs Group Management Committee.* BHPB also had a Minerals Exploration
+Group (âMinExâ) that assisted the CSGs with exploration activities.
+
+7. Under BHPBâs operating model during the relevant period, each CSG President
+was responsible for ensuring their businessesâ compliance with the companyâs Guide to Business
+Conduct. Every CSG President also was required to certify annually that they had read and
+understood the Guide, confirmed that their direct reports had done the same, and discussed it with
+their direct reports. BHPB had a centralized legal department. In addition, it had an advisory body
+with internal and external membership called the Global Ethics Panel (âEthics Panelâ), which
+advised business leaders on compliance with the Guide to Business Conduct and other business
+ethics issues. BHPB did not have an independent, centralized compliance group within its legal
+department, or otherwise.
+
+BHPBâs Hospitality Program for the 2008 Beijing Summer Olympic Games
+A. The Scope and Goals of BHPBâs Olympic Hospitality Program
+
+8. In December 2005, BHPB and the Beijing Organizing Committee announced their
+agreement for BHPB to become an official sponsor of the 2008 Beijing Olympic Games. Under
+this agreement, BHPB paid a sponsorship fee and supplied the raw materials used to make the
+Olympic medals. In exchange, BHPB received the rights to use the Olympic trademark and other
+intellectual property in public announcements and advertisements, as well as priority access to
+tickets, hospitality suites, and accommodations in Beijing during the August 2008 Games.
+
+9. BHPB established an Olympic Sponsorship Steering Committee (âOSSCâ) to plan,
+oversee, and implement its sponsorship program, which involved multiple different branding,
+
+promotion, and relationship-building initiatives. The chair of the OSSC, who also was the chair of
+the Ethics Panel, reported directly to BHPBâs CEO.
+
+10. One of BHPBâs objectives for the sponsorship was âto reinforce and develop
+relationships with key stakeholdersâ in China and in âproduct and investor markets, and regions
+where we have or would like to have operations.â BHPBâs strategy for accomplishing its
+objectives included â[u]tiliz[ing] Olympic hospitality to motivate China-based stakeholders,
+including customers, suppliers, government and media, to enhance business opportunities for BHP
+Billiton in Chinaâ and â[u]tiliz[ing] Olympic hospitality to build relationships with stakeholders
+from product and investor markets, and regions where we have or would like to have operations.â
+
+11. One of the companyâs sponsorship-related initiatives was a global hospitality
+program under which BHPB invited guests from around the world, including foreign government
+officials and representatives of state-owned enterprises, to attend the Beijing Olympics on three to
+four day hospitality packages. The hospitality packages included luxury hotel accommodations,
+meals, event tickets, and sightseeing excursions, at a cost of approximately $12,000 to $16,000 per
+package. In addition, BHPB executives approved the offer of round trip business class airfare to
+approximately 51 foreign government officials, as well as the airfares for 35 of these government
+
+ 
+
+? Tn 2012 and 2013, BHPB re-organized to consolidate the CSGs into five business units: Petroleum and Potash;
+Copper; Iron Ore; Coal; and Aluminium, Manganese and Nickel.
+officialsâ spouses or guests. Apart from BHPBâs desire to enhance business opportunities by
+strengthening relationships with its guests, these trips had no other business purpose.
+
+12. An internal e-mail to CSG presidents and other senior BHPB business managers
+emphasized the importance of the hospitality program to the success of BHPBâs sponsorship,
+stating, â[a]s you know we have made a commitment to support the Beijing Olympic Games in
+2008. One of the core objectives is to maximise the commercial investment made in the Games
+through assisting [BHPB] to strengthen relationships with key local and global stakeholders, e.g.:
+Government Ministers, Suppliers and Customers. The BHP Billiton Hospitality Program is a
+primary vehicle to ensure this goal is achieved.â
+
+13. In early 2007, BHPB employees prepared country-specific Olympic Leverage
+Plans, which summarized BHPBâs business and Olympic-related objectives. In a number of
+instances, these plans discussed inviting key stakeholders, including government officials, to help
+BHPB develop relationships with a view to increasing or maintaining its business opportunities.
+For example, the Olympic Leverage Plan prepared for one country stated that BHPBâs business
+objectives in that country included âgaining access to regions that will provide growth for
+[BHPBâs] businessâ and âgaining port access.â The plan further stated that the hospitality program
+would âprovide useful relationship building opportunity for . . . stakeholdersâ and that the invitees
+would include the countryâs Minister of Mines and Minister of Transport. The Olympic Leverage
+Plan for another country, while not specifically addressing the hospitality program, stated that one
+of the goals for the sponsorship was âus[ing] Olympics program to strengthen and build the govtâs
+confidence and relationship with [BHPB], to help facilitate approvals for future projects.â
+
+14. After Olympic Leverage Plans were prepared for each country, BHPB business
+managers submitted lists of potential invitees and were instructed to rank them in order of
+importance, with âCategory Aâ being those âmost critical to the business.â Internal BHPB
+presentations discussed the need to establish âthe business benefitâ of an Olympic invitation.
+
+15. Eventually, BHPB invited approximately 650 people to attend the Beijing
+Olympics, including 176 government officials, 98 of whom were representatives of state-owned
+enterprises that were BHPB customers or suppliers. BHPB also invited the spouses of 102 of these
+government officials. Most of the invited government officials were from countries in Africa and
+Asia where there was a known risk of corruption. Sixty of these government officials ultimately
+attended, 24 of them with their spouses or guests. A number of other invited government officials
+accepted their invitations, but then cancelled before the Olympics began.
+
+B. BHPBâs Insufficient Internal Controls over the Olympic Hospitality Program
+
+16. Early in its planning for the Olympics, BHPB identified the risk that inviting
+government officials to the Olympics could potentially violate anti-corruption laws and the
+companyâs own Guide to Business Conduct. The company relied on its existing operating model
+and an Olympic-specific internal approval process to address this risk. However, these internal
+controls, and BHPBâs implementation of them, were insufficient.
+
+17. BHPB developed a hospitality application which business managers were required
+to complete for any individuals, including government officials, whom they wished to invite.
+These applications included the following questions:
+
+9. What business obligation exists or is expected to develop
+between the proposed invitee and BHP Billiton?
+10. Is BHP Billiton negotiating or considering any contract, license
+agreement or seeking access rights with a third party where the
+proposed invitee is in a position to influence the outcome of that
+negotiation?
+
+11. Do you believe that the offer of the proposed hospitality would
+be likely to create an impression that there is an improper
+connection between the provision of the hospitality and the business
+that is being negotiated, considered or conducted, or in any way
+might be perceived as breaching the Companyâs Guide to Business
+Conduct?
+
+If yes, please provide details.
+
+12. Are there other matters relating to the relationship between BHP Billiton
+and the proposed invitee that you believe should be considered in relation to the
+provision of hospitality having regard to BHP Billitonâs Guide to Business
+Conduct?
+
+18. BHPB required each such application to be filled out and signed by an employee
+with knowledge of the inviteeâs relationship with the company, and approved in writing by the
+president of the relevant CSG or the BHPB country president.â A cover sheet that accompanied
+the blank forms included a short description of anti-bribery provisions in the Guide to Business
+Conduct and urged employees to re-read the section of the Guide concerning travel, entertainment,
+and gifts before completing the form. However, the controls did not adequately address the anti-
+bribery risks associated with offering expensive travel and entertainment packages to government
+officials.
+
+19. First, BHPB did not require independent legal or compliance review of hospitality
+applications by someone outside the CSG that was submitting the application, and did not clearly
+communicate to its employees the fact that the Ethics Panel was not reviewing and approving each
+invitation to a government official. On the one hand, BHPBâs internal website stated that the
+hospitality applications were subject to âscrutiny by the Ethics Panel [steering committee],â and
+the hospitality applications themselves stated that, â[r]equests for travel and accompanying spouses
+will be approved by the Olympic Sponsorship Steering Committee and the Global Ethics Panel
+Sub-Committee.â E-mails sent to some BHPB business managers by a member of the OSSC staff
+stated that the Ethics Panel had âapprovedâ their applications.
+
+20. However, other than reviewing approximately 10 hospitality applications for
+government officials in mid-2007 in order to assess the invitation process, the OSSC and the Ethics
+Panel subcommittee did not review the appropriateness of individual hospitality applications or
+airfare requests. The Ethics Panelâs charter stated that its role simply was to provide advice on
+ethical and compliance matters, and that âaccountability rest[ed] with business leaders.â Members
+of the Ethics Panel understood that, consistent with their charter, their role with respect to
+implementation of the hospitality program was purely advisory. As a result, business managers
+had sole responsibility for reconciling the competing goals of inviting guests â including
+
+ 
+
+* In countries where multiple CSGs operated, BHPB had employees designated as âcountry presidentsâ or âcountry
+managersâ to coordinate the activities of the various business units.
+government officials â who would âmaximize [BHPBâs] commercial investment made in the
+Olympic Gamesâ without violating anti-bribery laws.
+
+21. Second, some hospitality applications were not accurate or complete. Many
+applications identified an employee of a state-owned enterprise as a âCustomer,â but failed to
+identify the invitee as a âRepresentative of Government.â In addition, a number of applications
+contained âNoâ responses to Question 10, even when BHPB had pending negotiations, efforts to
+obtain access rights, regulatory actions, or other business dealings in which the government
+official was directly involved or in a position to influence. Furthermore, in a number of instances,
+BHPB business people were provided with examples of language that had been used by other
+employees when responding to Questions 10 and 11 in order to explain why an invitation was
+appropriate, even when there was a âYesâ response to Questions 10-12. As a result, many
+hospitality applications contained the exact same statements in response to Questions 10 and 11,
+rather than a description of the specific facts and circumstances relating to that government
+official.*
+
+22. Third, while BHPB had an annual Guide to Business Conduct review and
+certification process, and generalized training, it did not provide its employees and executives with
+any specific training on how to fill out the hospitality forms or how to evaluate whether an
+invitation to a government official complied with the Guide. During the relevant period, this
+portion of the Guide included a case example concerning a negotiation between BHPB and a
+Ministry for Planning in a particular country, in which the Minister indicated that it would help his
+consideration of the companyâs application if the Minister and his wife could visit BHPBâs
+operations in Australia. The example stated that âthis kind of situation requires the utmost caution
+and you must consult senior management. You must not offer to provide anything that could be
+reasonably regarded as an attempt to unduly influence the Ministerâs decision. This means that
+you must not pay for travel by the Ministerâs wife.â However, BHPB did not provide any
+guidance to its senior managers on how they should apply this portion of the Guide when
+determining whether to approve invitations and airfares for government officialsâ spouses.
+
+23. Fourth, although the form asked whether any business was âexpected to developâ
+with the invitee, BHPB did not institute a process for updating hospitality applications or
+reassessing the appropriateness of invitations to government officials if conditions changed.
+Almost all of the hospitality applications relating to government officials were approved and
+submitted in mid-2007. However, BHPB did not require hospitality forms to be updated, or
+invitations to be reconsidered, in those situations when government officials subsequently became
+involved in negotiations, attempts by BHPB to obtain access rights, or other pending matters.
+
+24. Fifth, hospitality applications were submitted by individual CSGs, and generally
+only reflected negotiations between the government official and that CSG. While lists of invitees
+were circulated among senior BHPB business managers, BHPB had no process in place to
+
+ 
+
+* For example, a number of hospitality forms included the following response to Question 10: âYes, the invitee is in
+a position to influence the outcome of the pending contract, however, this is an organization that we have been
+conducting business with for over five years. Negotiations and contract outcomes are a regular occurrence but due
+to the lengthy relationship with BHP Billiton there is evidence [of] a long term commitment that would not
+necessarily be influenced by this gesture. It is a way of rewarding the business that has previously been conducted
+with BHP Billiton.â
+determine whether the invited government official also was involved in other CSGsâ negotiations,
+efforts to obtain access rights, or other business dealings.
+
+C, As a Result of its Insufficient Internal Controls, BHPB Invited Government Officials
+who were Directly Involved in, or in a Position to Influence, Pending Negotiations,
+Regulatory Actions, or Business Dealings with BHPB
+
+25. As aresult of its failure to design and maintain sufficient internal controls over the
+Olympic global hospitality program, BHPB invited a number of government officials who were
+directly involved with, or in a position to influence, pending negotiations, efforts by BHPB to
+obtain access rights, or other pending matters.
+
+Republic of Burundi
+
+26. In mid-2007, BHPBâs MinEx group submitted a hospitality application form to
+invite the as-yet-unidentified Burundi Minister of Mines and spouse to the Olympics, with airfare
+included. Because BHPB was not currently in negotiations with the Minister of Mines at the time,
+the hospitality application form contained a âNoâ response to Question 10. However, BHPB had a
+joint venture (âJVâ) in Burundi with an entity that was in danger of losing a nickel exploration
+permit unless it made a substantial near-term financial investment in the project or negotiated a
+renewal or amendment of the permit. Under Burundi law, the Minister of Mines was responsible
+for reviewing an application to renew or amend a mining permit and presenting the application to
+the countryâs Council of Ministers for final approval.
+
+27. In late 2007 and early 2008, BHPB began to negotiate directly with the newly-
+appointed Minister of Mines to extend and modify the JVâs nickel exploration permit. However,
+BHPB employees did not update the hospitality application or take steps to re-review the
+appropriateness of the invitation after these negotiations began. As noted above, no such re-review
+was required by the internal controls that BHPB relied upon for the Olympic hospitality program.
+The Minister of Mines and his wife attended the Olympics as BHPBâs guests for four days.
+
+Republic of the Philippines
+
+28. In July 2007, BHPB became embroiled in a dispute with a local JV partner
+concerning a prospective nickel mining operation in the Philippines. The JV partner sued BHPB in
+local court and filed requests with the countryâs Secretary of Department of Environment and
+Resources (âDENRâ), requesting reversion of the mining rights that the JV partner had assigned to
+the JV.
+
+29. In October 2007, a BHPB employee from the Stainless Steel Materials CSG
+submitted a hospitality application to invite the Secretary and his spouse to attend the Olympics,
+with airfare included. The completed application contained a âYesâ response to Question 10, but
+only described a technical services agreement that BHPB was considering submitting to the DENR
+for the Secretaryâs approval. Question 10 of the hospitality form did not explicitly require, and the
+employeeâs response did not provide, any information about the Secretaryâs role in reviewing the
+JV partnerâs reversion request or the fact that the President of the Philippines had designated the
+Secretary to mediate the dispute between BHPB and its JV partner. The form included a âNoâ
+response to Question 11.
+
+30. The Secretary accepted BHPBâs invitation in December 2007. In March 2008, he
+issued a decision denying the JV partnerâs reversion request and continued during the ensuing
+months to mediate the partiesâ dispute. In late July, BHPB became concerned that the companyâs
+JV partner had learned about the Olympics invitation. As a result, BHPB withdrew the invitation
+shortly before the Olympics began.
+
+Democratic Republic of the Congo
+
+31. In mid-2007, MinEx submitted a hospitality application form to invite the Governor
+of the Katanga Province in the Democratic Republic of the Congo (the âDRCâ) and his spouse,
+with airfare included. Following its June 2007 review of 10 invitations to government officials, the
+Ethics Panel subcommittee advised MinEx to provide more detail about whether the invitation
+involved Gecamines, a state-owned entity with which BHPB was attempting to negotiate a copper
+exploration deal. In response, MinEx submitted a revised application that contained a âNoâ
+response to Question 10, stating, â[t]he issuing and management of mineral titles and negotiations
+with third parties in DRC have nothing to do with the Governorâs roles and responsibilities.
+Although [BHPB] are currently engaged in negotiations with State copper company, Gecamines,
+the Governor of Katanga will have no influence in these dealings.â
+
+32. Later in 2007, however, BHPB employees held several meetings with the
+Governor. Internal summaries of these meetings noted that the Governor was âa close ally of [the
+DRC] Presidentâ and that having the Governor as BHPBâs ally âcould be the key to unlock a
+successful entry in a deal with Gecamines.â In spite of obtaining this information after making the
+initial decision to invite the Governor of Katanga and his wife to the Olympics, BHPB employees
+did not update the hospitality application form or take steps to re-review the appropriateness of the
+invitation. No such re-review was required under the internal controls that BHPB relied upon for
+the Olympic hospitality program. The Governor accepted the invitation, but then cancelled before
+the Olympics.
+
+Republic of Guinea
+
+33. In May 2007, MinEx submitted a hospitality application to invite the Guinea
+Minister of Mines and his spouse to the Olympics, with airfare included. The application
+contained a âNoâ response to Question 10, and in response to Question 11 it stated, âNo. A sound
+professional relationship with the Guinea Ministry of Mines is key for the success of the [BHPB]
+exploration and mining business in this country.â Following its June 2007 review of 10 invitations
+to government officials, the Ethics Panel subcommittee advised MinEx to provide additional
+information concerning this invitation. The MinEx employee who had prepared the original form
+asked BHPBâs Guinea country president to respond to the request for information concerning any
+pending negotiations with the Minister. The country president replied that âof courseâ there would
+be âfurther negotiationsâ regarding the upcoming renewal of a bauxite mining concession held by
+BHPB and the governmentâs intention to review all existing mining concessions, but that the
+response to Question 11 was âkey in that regard.â
+
+34. This information was not passed along to the Ethics Panel subcommittee, however,
+and the form was not updated to accurately reflect the pending negotiations across all of the CSGs
+operating in Guinea. Because they received no response to the Guinea country presidentâs email,
+MinEx officials mistakenly understood that the Ethics Panel had approved the invitation. The
+Minister accepted the invitation on behalf of himself and his wife in January 2008, but cancelled
+shortly before the Olympics began.
+Legal Standards and FCPA Violations
+
+35. Under Section 21C(a) of the Exchange Act, the Commission may impose a cease-
+and-desist order upon any person who is violating, has violated, or is about to violate any
+provision of the Exchange Act or any rule or regulation thereunder, and upon any other person
+that is, was, or would be a cause of the violation, due to an act or omission the person knew or
+should have known would contribute to such violation.
+
+36. Under Section 13(b)(2)(A) of the Exchange Act, issuers are required to make and
+keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflect the
+transactions and disposition of the assets of the issuer.
+
+37. Under Section 13(b)(2)(B) of the Exchange Act, issuers are required to devise and
+maintain a system of internal accounting controls sufficient to provide reasonable assurances that
+(1) transactions are executed in accordance with managementâs general or specific authorization;
+(11) transactions are recorded as necessary (I) to permit preparation of financial statements in
+conformity with generally accepted accounting principles or any other criteria applicable to such
+statements, and (II) to maintain accountability for assets; (111) access to assets is permitted only in
+accordance with managementâs general or specific authorization; and (iv) the recorded
+accountability for assets is compared with the existing assets at reasonable intervals and
+appropriate action is taken with respect to any differences.
+
+38. As a result of the conduct described above, BHPB violated Section 13(b)(2)(A)
+because its books and records, namely certain Olympic hospitality applications, did not, in
+reasonable detail, accurately and fairly reflect pending negotiations or business dealings between
+BHPB and government officials invited to the Olympics. BHPB violated Section 13(b)(2)(B)
+because it did not devise and maintain internal accounting controls over the Olympic hospitality
+program that were sufficient to provide reasonable assurances that access to assets and
+transactions were in executed in accordance with managementâs authorization.
+
+BHPBâs Cooperation and Remedial Efforts
+
+39. In response to the Commissionâs investigation, BHPB retained outside counsel to
+assist it with conducting an extensive internal investigation into potential improper conduct in
+the jurisdictions that were the subject of the staff's inquiry. BHPB provided significant
+cooperation with the Commissionâs investigation by voluntarily producing large volumes of
+business, financial, and accounting documents from around the world in response to the staffs
+requests, and by voluntarily producing translations of key documents. BHPBâs counsel
+conducted scores of interviews and provided the staff with regular reports on the findings of its
+internal investigation.
+
+AO. BHPB also has undertaken significant remedial actions. BHPB has created a
+compliance group within its legal department that is independent from the business units. This
+compliance group is responsible for FCPA compliance, among other things, and reports directly
+to BHPBâs general counsel and Audit Committee. In addition, it has reviewed its existing anti-
+corruption compliance program and implemented other changes. These include embedding
+independent anti-corruption managers into its businesses and further enhancing its policies and
+procedures concerning hospitality, gift giving, use of third party agents, business partners, and
+other high-risk compliance areas. BHPB also has enhanced its financial and auditing controls,
+including policies to specifically address conducting business in high-risk markets. BHPB has
+conducted extensive employee training on anti-corruption issues and overhauled its processes for
+conducting internal investigations of potential violations of anti-corruption laws.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondents BHP Billiton Ltd.âs and BHP Billiton Plceâs Offers.
+
+Accordingly, it is hereby ORDERED that:
+
+A. Pursuant to Section 21C of the Exchange Act, Respondents cease and desist from
+committing or causing any violations and any future violations of Sections 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act.
+
+B. Respondents shall, within 10 days of the entry of this Order, pay a civil money
+penalty totaling $25,000,000 to the Securities and Exchange Commission for remission to the
+United States Treasury, subject to Exchange Act Section 21F(g)(3). If timely payment is not
+made, additional interest shall accrue pursuant to 31 U.S.C. Â§ 3717. Payment must be made in one
+of the following ways:
+
+(1) Respondents may transmit payment electronically to the Commission, which will
+provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondents may make direct payment from a bank account via Pay.gov through
+the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+(3) Respondents may pay by certified check, bank cashierâs check, or United States
+postal money order, made payable to the Securities and Exchange Commission and
+hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying BHP
+Billiton Ltd. and BHP Billiton Plc as Respondents in these proceedings, and the file number of
+these proceedings. A copy of the cover letter and check or money order must be sent to Antonia
+Chion, Associate Director, Division of Enforcement, Securities and Exchange Commission, 100 F
+St., NE, Washington, DC 20549.
+
+C. During a one-year term as set forth below, Respondents shall report to the
+Commission staff on the operation of BHPBâs FCPA and anti-corruption compliance program.
+If Respondents discover credible evidence, not already reported to the Commission staff, that:
+(1) questionable or corrupt payments or questionable or corrupt transfers of property or interests
+may have been offered, promised, paid, or authorized by Respondents, or any entity or person
+while working directly for Respondents, to any government official; (2) that related false books
+and records have been maintained; or (3) that Respondentsâ internal controls failed to detect and
+prevent such conduct, Respondents shall promptly report such conduct to the Commission staff.
+During this one-year period:
+
+10
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+Respondents shall submit to the Commission staff a written report within 180
+calendar days of the entry of this Order on the operation of BHPBâs FCPA and
+anti-corruption compliance program (the âInitial Reportâ). The Initial Report
+shall be transmitted to Alexander Koch, Assistant Director, Division of
+Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington,
+DC 20549-5041. Respondents may extend the time period for issuance of the
+Initial Report with prior written approval of the Commission staff.
+
+Respondents shall undertake one follow-up review, incorporating any comments
+provided by the Commission staff on the Initial Report, to further monitor and
+assess the operation of its FCPA and anti-corruption compliance program and
+whether Respondentsâ policies and procedures are reasonably designed to detect
+and prevent violations of the FCPA and other applicable anti-corruption laws (the
+âFinal Reportâ).
+
+The Final Report shall be completed by no later than 180 days after the Initial
+Report, and shall be transmitted to Alexander Koch, Assistant Director, Division
+of Enforcement, Securities and Exchange Commission, 100 F St., NE,
+Washington, DC 20549-5041. Respondents may extend the time period for
+issuance of the Final Report with prior written approval of the Commission staff.
+
+The reports submitted by Respondents will likely include proprietary, financial,
+confidential, and competitive business information. Public disclosure of the
+reports could discourage cooperation, impede pending or potential government
+investigations or undermine the objectives of the reporting requirement. For these
+reasons, among others, the reports and the contents thereof are intended to remain
+and shall remain non-public, except (a) pursuant to court order, (b) as agreed by
+the parties in writing, (c) to the extent that the Commission staff determines in its
+sole discretion that disclosure would be in furtherance of the Commissionâs
+discharge of its duties and responsibilities, or (d) is otherwise required by law.
+
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+11

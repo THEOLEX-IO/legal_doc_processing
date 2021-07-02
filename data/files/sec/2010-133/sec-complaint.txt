@@ -1,0 +1,528 @@
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ 
+
+. U.S. SECURITIES AND EXCHANGE
+COMMISSION,
+
+100 F. Street, NE
+
+Washington, D.C. 20549-5030,
+
+Plaintiff, Civil Action No.
+
+ve
+
+~â er ââ_ a" âa ae" a a" ae one
+
+~ GENERAL ELECTRIC COMPANY |
+
+3135 Easton Turnpike Case: 1:10-cv-01258
+
+Fairfield, CT 06828, | ' . Assigned To : Roberts, Richard W.
+Assign. Date : 7/27/2010
+
+IONICS, INC. | Description: General Civil
+. 3 Burlington Woods Drive | :
+Burlington, MA 01803,
+
+and
+
+AMERSHAM PLC
+Amersham Place
+
+Little Chalfont, HP7 9NA
+United Kingdom,
+
+Defendants.
+
+â <
+
+ 
+
+COMPLAINT
+Plaintiff, U.S. Securities and Exchange Commission (the âCommissionâ), alleges
+that:
+SUMMARY
+1. This case involves the payment of illegal kickbacks to Iraqi government
+ministries in connection with sales of humanitarian goods under the United Nations |
+UN?) Oil for Food Program (the âProgramâ). From approximately 2000 to 2003, two.
+
+subsidiaries of the General Electric Company (âGEâ) -- Marquette-Hellige (âMarquetteâ)
+and OEC-Medical Systems (Europa) AG (âOEC-Medicalââ) -- made approximately
+
+$2.04 million in Kickback payments in the form of computer equipment, medical
+supplies, and services to the Iraqi Health Ministry under the Program. Prior to GEâs
+acquisition of their parent companies, two other current GE subsidiaries -- Ionics Italba
+S.r.L. (âIonics Italbaâ), and Nycomed Imaging AS, currently GE Healthcare AS
+(âNycomedâ) -- made approximately $1.55 million in.cash kickback payments under the
+Program. Nycomed was a subsidiary of publicly-registered Amersham plc, which was
+acquired by GE after the conduct at issue in this Complaint and is currently known as GE
+Healthcare Ltd. Ionics Italba was a subsidiary of publicly-registered Ionics, Inc., which
+was acquired by GE after the conduct at issue in this Complaint and is currently known as
+GE Ionics, Inc.
+
+2. Marquette, OEC-Medical, Tonics italba, and Nycomed each authorized
+and paid kickbacks to Iraqi government ministries through agents in the form of âafter-
+sales service feesâ (âASSF paymentsâ) on sales of products to Iraq. All four subsidiaries
+knew that such kickbacks were prohibited by the Oil for Food Program and U.S. and
+international trade sanctions on Iraq.
+
+3. The Oil for Food Program was intended to provide humanitarian relief to
+the Iraqi population, then subject to comprehensive international trade sanctions. The
+Program allowed the Iraqi government to purchase necessary humanitarian goods, but
+required that all purchases be made through a UN-controlled escrow account. The
+kickbacks paid in connection with all four subsidiariesâ Oil for Food contracts had the
+effect of diverting funds out of the â account and, with respect to the cash
+
+kickbacks paid by Ionics Italba and Nycomed, into an Iraqi slush fund.
+4. As a result of this conduct, GE, Ionics, and Amersham each violated
+Sections 13(b)(2)(A) and 13(b)(2)(B) of the Securities Exchange Act of 1934 (the
+âExchange Actâ) [15 U.S.C. Â§Â§ 78m(b)(2)(A) and 78m(b)(2)(B)] by failing to maintain
+accurate books and records and by failing to ensure that its subsidiaries maintained
+
+adequate internal controls to detect and prevent the illegal kickbacks.
+
+JURISDICTION
+
+ae This Court has jurisdiction over this action under Sections 21(d), 21(e),
+and 27 of the Exchange Act [15 US.C. Â§Â§ 78u(d), 78u(e) and 78aa]. GE, Ionics, and
+Amersham directly or indirectly made use of the means or sasteumnentalities of interstate
+commerce, of the mails, or of the facilities of a national securities exchange in connection
+with the transactions, acts, practices, and courses of business alleged in this Complaint.
+
+6. Venue is appropriate in this Court under Section 27 of the Exchange Act
+[15 U.S.C. Â§ 78aa] because certain acts or transactions constituting the violations alleged
+
+in this Complaint occurred in this district.
+
+DEFENDANTS
+ds General Electric Company (âGEâ), headquartered in Fairfield,
+Connecticut, is divided into five principal segments: GE Capital; GE Technology
+Infrastructure; GE Energy Infrastructure; Business & Home Solutions; and NBC
+Universal. Through these segments, GE participates in a wide variety of markets,
+including the generation, transmission, and distribution of electricity, lighting, industrial
+automation, medical imaging equipment, motors, railway locomotives, aircraft jet
+
+engines, and aviation services. It has a presence in over 100 countries. Throughout the
+relevant time period, GEâs common stock was registered pursuant to Section 12(b) of the
+Exchange Act and listed on the New York Stock Exchange under the symbol âGE.â
+
+8. Amersham ple, currently GE Healthcare Ltd., (âAmershamâ), based in |
+the United Kingdom, is currently-a wholly-owned GE subsidiary within the GE
+Technology Infrastructure segment. GE acquired Assentvan plc, the parent company
+that owned Nycomed, on April 14, 2004, after the conduct at issue in this Complaint.
+During the Program, Amersham plc listed American Depository Receipts on the New
+York Stock Exchange and was therefore subject to the jurisdiction of the Commission.
+Amershamâs financial results have been consolidated with those of GE since GEâs |
+acquisition of Nycomedâs parent company in 2004.
+
+9. Ionics, Inc., currently GE Ionics, Inc. (âIonicsâ), based in Burlington,
+Massachusetts, is a wholly-owned subsidiary within the GE Energy Infrastructure
+segment. GE acquired Ionics, Inc., the parent company that owned Ionics Italba, on
+February 22, 2005, after the conduct at issue in this Complaint. During the Program,
+Ionics, Inc. was a publicly-listed company in the United States. Ionics, Inc. was subject
+to the regulatory jurisdiction of the Commission throughout the relevant period. Ionics,
+Inc.âs financial results have been consolidated with those of GE since GEâs acquisition of
+
+Ionics Italbaâs parent company in 2005. _
+
+RELEVANT ENTITIES
+10. Marquette-Hellige (âMarquetteâ), based in Germany, is a wholly-owned,
+third-tier subsidiary of GE within the GE Technology Infrastructure segment. Marquette
+manufactures and sells medical equipment. Among the products it sold to the Iraqi
+
+government under the Oil for Food Program were fetal monitors, disposable electrodes,
+and transducers. Marquette was a GE subsidiary when the conduct at issue in this
+complaint occurred, and its financial results were consolidated with those of GE
+throughout the relevant period.
+
+11. OEC-Medical Systems (Europa) AG (âOEC-Medicalâ), based in
+Switzerland, is a wholly-owned, second-tier subsidiary of GE within the GE Technology |
+Infrastructure business. OEC-Medical manufacturÃ©s and sells medical equipment. It sold
+C-arms (C-shaped armatures used to support X-ray equipment) to the Iraqi government
+under the Oil for Food Program. OEC-Medical was a GE subsidiary when the conduct at |
+issue in this complaint occurred, and its financial results were consolidated with those of
+GE throughout the relevant period. |
+
+12. Nycomed Imaging A.S., currently GE Healthcare AS (âNycomedâ),
+based in Norway, is currently a wholly-owned GE subsidiary within the GE Technology
+Infrastructure segment. Nycomed manufactures and sells X-Ray and MRI contrast |
+â It sold these contrast agents to the Iraqi government under the Oil for Food
+Program. At the time of the conduct at issue in this Complaint, Nycomed was a
+
+âsubsidiary of Amersham plc, which was acquired by GE on April 1, 2004. Nycomedâs
+financial results were consolidated with those of Amerson throughout the relevant
+period. -
+
+13. Tonics Italba S.r.L. (lonies Italbaââ), based in Italy, is a wholly-owned
+subsidiary within the GE Energy Infrastructure segment. Jonics Italba manufactures and
+sells water purification equipment. At the time of the conduct at issue in this Complaint,
+
+Ionics Italba was a subsidiary of Ionics, Inc., which was acquired by GE on February 22,
+2005. Ionics Italbaâs financial results were consolidated with those of Ionics throughout
+
+the relevant period.
+
+FACTS
+
+| The United Nations Oil for Food Program
+
+14. The Oil for Food Program was intended to provide humanitarian relief for
+the Iraqi population, which faced severe hardship under the international trade sanctions
+that followed Iraqâs 1990 invasion of Kuwait. Starting in December 1996, the Program
+permitted the Iraqi government to sell its crude oil and use the proceeds to purchase food,
+medicine, and critical infrastructure supplies. By the end of the Program, Iraq had sold
+$64.2 billion worth of crude oil and purchased $34.5 billion in humanitarian supplies
+
+15. The proceeds of the oil sales were transferred directly from the buyers to
+an escrow account (the âUN Escrow Accountâ) maintained in New York by the United
+_ Nations 661 Committee. Funds in the UN Escrow Account were available for the
+purchase of humanitarian supplies, subject to UN approval and supervision. The intent of
+this structure was to prevent the proceeds of Iraqâs crude oil sales from undermining the
+sanctions regime by providing the regime of Saddam Hussein with access to hard
+currency.
+
+| 16. | Corruption was rampant within the Program. By mid-2000, all Iraqi
+
+ministries participating in the Program followed a policy of demanding that all suppliers
+of humanitarian goods pay a ten percent kickback on each contract. The kickback
+requirement was euphemistically referred to as an âafter-sales serviceâ fee (âASSFâ).
+
+Suppliers competing to obtain contracts under the Program were encouraged to inflate
+
+their contract bids by ten percent to cover the ASSF kickback. Once accepted, the
+inflated Contact prices were incorporated into the Oil for Food contracts. In this manner,
+it was the UN Escrow Account that ultimately funded the kickback payments.
+
+17. Following the 2004 release of a report by the US. General Accounting
+Office exposing some of the abuses, thÃ© UN commissioned an independent inquiry
+conunittee, headed by former Federal Reserve Chairman Paul. Volcker, (the âVolcker
+Committeeâ) to investigate the Programâs performance. That committeeâs October 27,
+2005, final report estimated that the Iraqi government had diverted $1.7 billion in illicit
+income from the Program. Of that, $1.5 billion was derived from kickbacks that were
+demanded from suppliers of humanitarian goods to Traq.
+
+18. Starting in mid-2000, the Iraqi government made a concerted effort to
+subvert the Pro gram by demanding secret kickbacks from suppliers of humanitarian
+goods. Although contracts entered into pursuant to the Program were subject to UN
+review and approval, the Program gave the Iraqi authorities discretion to select the
+companies from which they purchased goods and to negotiate contract terms. Each Iraqi
+ministry determined what humanitarian goods it needed and circulated tenders seeking
+requests for bids. Suppliers submitted bids for the sale of their goods. After the ministry
+accepted the winning bid, it informed the supplier that it had to pay an under-the-table
+kickback in the form.of an ASSF to the ministry as a condition of the contract. The
+ASSF had to be paid before the goods entered into the country or the shipment would be
+
+held at the border.
+
+19. | When the kickback scheme began, suppliers typically met with the Iraqi
+ministries in person and signed side agreements acknowledging their obligation to-pay
+
+the kickbacks. The side agreements were not provided to the UN, as required, when the
+| Oil for Food contracts were submitted and approved. By October 2000, the kickback
+amount was usually ten percent of the total contract value. As the scheme progressed,
+and the participants grew more accustomed to making the ten percent payment, the use of
+signed side agreements became less common. Suppliers simply increased their original
+contract bids by ten percent and submitted the inflated contracts to the UN for approval,
+without disclosure of the ten percent kickback. Once a supplier paid the ASSF iGicktvaetc
+to the Iraqi ministry and shipped the goods called for sindes the contract, the UN Escrow
+Account paid the supplier the inflated contract price, unknowingly reimbursing the
+supplier for the ten percent kickback. | |
+
+20. Following the United States invasion of Iraq in March 2003, the UN,
+working with the Coalition Provisional Authority, halted the ASSF kickback scheme.. All
+
+Program contracts then pending were renegotiated to back-out the ten percent kickback.
+I. Payment of ASSFs under the Program
+
+21. Four current GE subsidiaries, only two of which were GE subsidiaries
+during the relevant period, engaged in Oil for Food transactions involving ASSF
+kickbacks: Marquette; OEC-Medical; Nycomed; and lonies Italba. These subsidiaries
+entered into a total of eighteen contracts in which ASSF kickbacks were either made or
+authorized. In total, the subsidiaries, working through third-party agents, made ASSF
+kickback payments of approximately $3,584,842. The four subsidiaries earned profits of
+
+approximately $18,397,949 as a result of their illegal kickbacks.
+
+A. In-Kind Kickbacks Paid on Marquette Contracts
+22. . Marquette, based in Germany, manufactures and sells cardiology
+
+monitoring equipment and has been a GE subsidiary since 1998. In 2000 and 2001,
+Marquette entered into three Program exinitrant in which it either paid or agreed to pay
+illegal kickbacks in the form of computer equipment, medical supplies, and services. The Â©
+contracts were for the supply of medical equipment (disposable electrodes, transducers,
+and fetal monitors) to the Iraqi Health Ministry. The contracts generated a combined
+gross profit to Marquette of $8.8 million.
+
+23. In order to obtain two of the contracts, Marquetteâs Iraqi agent made
+in-kind kickback payments of goods and services worth approximately $1.2 million to the
+Iraqi Health Ministry in violation of UN regulations. In order to obtain the third contract,
+the agent offered to make an additional in-kind kickback payment worth approximately
+$250,000. The illegal kickbacks were made or offered with the knowledge and approval
+of Marquette officials.
+
+24. The Iraqi agent negotiated all three of the contracts on Marquetteâs behalf. _
+
+| The contracts were direct agreements between Marquette and the Iraqi Ministry of |
+Health. As the contracts were ee negotiated, both the agent and two Marquette sales
+managers were present at meetings with the Iraqi Health Ministry when Iraqi government
+officials demanded the payment of ten percent kickbacks. The Marquette officials
+declined to make cash payments to the Iraqi ministry. But they acquiesced when their
+agent offered instead to make the payments on Marquetteâs behalf in the form of
+computer equipment, medical supplies, and services equal to ten percent of the contractsâ
+value. The UN regulations governing the Program prohibited extra-contractual payments
+of any kind, whether made in the form of goods and services or cash.
+
+25. In order to cover the cost of the illegal kickbacks, Marquette increased the
+
+Iraqi agentâs commission from approximately 13% of the contract price to approximately
+23%. The agent used the extra 10% to cover the cost of the equipment and services he
+kicked back to the Iraqi ministry. The UN contract prices were inflated by a
+corresponding 10% amount. The UN inspectors were never advised that a portion of the
+agentâs increased commission was intended to cover extra-contractual in-kind kickbacks
+to Iraqi government ministries.
+
+26. At one point during the performance of a Marquette contract to supply
+domes transducers, Iraqi customs officials stopped the Marquette shipment at the border
+until the shipper could prove that the ASSF kickback payment had been made.
+Subsequent email exchanges among the shipper, Marquetteâs Iraqi agent, and Marquette
+officials, refer to the need to document the ASSF payment. After the Iraqi agent supplied
+proof of the ASSF kickback payment, the goods were ultimately allowed into Iraq.
+
+27. Following the U.S. invasion of Iraq in 2003, the third of the Marquette
+contracts was renegotiated by the UN. During the course of renegotiation, an employee
+of Marquetteâs Iraqi agent provided false information to the UN regarding the kickbacks.
+The agent falsely stated that the.contract had been negotiated with the Iraqi Health
+Ministry before ths lagi officials began demanding kickbacks on Program contracts.
+The Marquette sales manager was advised of the misrepresentation to the UN and there
+is no indication that he made any effort to correct the false statement. When the UN
+eliminated the ten percent kickback from the contract, Marquette reduced the Iraqi
+agentâs commission from 23% to 13% of the contract price, consistent with the partiesâ
+understanding that the kickback was to have been funded out of the agentâs commission.
+
+28. The in-kind ASSF payments were inaccurately described in Marquetteâs
+
+books and records as commissions or other legitimate business expenses. Marquette also
+
+10
+failed to maintain adequate internal controls to detect or prevent the illicit in-kind ASSF
+payments. .
+B. In-Kind Kickbacks Paid on OEC-Medical Contracts
+
+29. OEC-Medical, based in Switzerland, manufactures and sells mÃ©dical
+equipment. OEC was a GE subsidiary throughout the relevant period. In 2000, OEC-
+Medical entered into one Program contract that included an illegal kickback payment.
+The contract was to provide C-Arms (C-shaped armatures used to support X-ray
+equipment) to the Iraqi Ministry of Health. OEC made an in-kind kickback payment .
+erorth approximately $870,000 on the contract and earned a wrongful profit of
+$2.1 million. |
+
+30. | The OEC-Medical contract was negotiated by the same third party agent
+that handled the Marquette contracts. During the contract negotiation, the OEC-Medical
+salesman reSponsihile for the contract attended meetings in Baghdad with the agent,
+where they were told by Iraqi Health Ministry officials that the contract would require a
+ten percent kickback. As was done with the Marquette contracts, the Iraqi agent agreed
+to make the payment on behalf of OEC-Medical in the form of computer equipment,
+medical supplies, and services, rather than cash.
+
+31. To reimburse the Iraqi agent for the cost of the kickback, OEC-Medical
+_ increased the agentâs commission on the contract by approximately 10% (from 5% of the
+contract price to 15%). The contract price that OEC-Medical charged to the UN was
+artificially increased by a commensurate amount. In order to conceal from UN inspectors
+the fact that the agentâs commission had been increased to cover an illegal kickback,
+
+' OEC-Medical and the agent entered into a fictitious âservices provider agreementâ in
+
+1]
+November 2000. The fictitious agreement purported to identify services the agent would
+perform to justify his ineteanedl commission. Those services, however, were not part of
+OEC-Medicalâs actual contract with the Iraqi Health Ministry and were never intended to |
+be performed. The sham agreement was nonetheless provided to the UN for inspection
+as part of the contract package.
+
+32. When the C-Amms were shipped to Iraq in the Summer of 2001, email
+traffic among OEC-Medical officials, the Iraqi agent, and the shipping company referred
+explicitly to the need to prove that the kickback payment had been made in order to clear
+the goods across the Iraqi border. OEC-Medicalâs Iraqi agent confirmed in writing to
+OEC-Medical and the shipper that he would see to it that the cost of the kickback would
+come out of his commission. The in-kind kickback was made, and the goods were
+subsequently allowed into Iraq.
+
+33. The in-kind ASSF payments were inaccurately described in OEC-
+Medicalâs books and records as commissions or other legitimate business expenses.
+OEC-Medical also failed to maintain adequate internal controls to detect or prevent the
+
+illicit in-kind ASSF payments.
+
+C. Cash Kickbacks Paid on Nycomed Contracts
+34. During the Program, Nycomed was a subsidiary of Amersham, which was
+acquired by GE in 2004 Nycomedâs conduct at issue in this Complaint occurred prior to
+the acquisition. Amersham plc listed American Depository Receipts on the NYSE and
+was therefore subject to the Commissionâs regulatory jurisdiction. GE acquired the
+
+liabilities of Amersham, along with the assets, in its acquisition of Amersham.
+
+12
+35. Between 2000 and2002, Nycomed entered into nine contracts involving
+the payment of cash ASSF kickbacks. The nine Nycomed contracts were all direct
+agreements between Nycomed and che Iraqi Ministry of Health for the provision of
+Omnipaque and Omniscan. Omanipaque is an injectible contrast agent used in
+conjunction with X-rays; and Omniscan is a contrast agent used in conj unction with
+. magnetic resonance imaging (MRI). Nycomed paid approximately $750,000 if
+__ kickbacks on the nine contracts and earned approximately $5 million in wrongful profits.
+
+36. The contracts were negotiated by Nycomedâs Jordanian agent. The
+kickback payments were explicitly authorized by Nycomedâs salesman in Cyprus. The
+Nycomed salesman increased the agentâs commission from 17.5% to 27.5% of the
+contract price, and artificially increased the UN contract prices by 10%, all to cover the
+cost of the kickbacks. Numerous email messages between the Nycomed salesman and |
+the Jordanian agent allude to the connection between the increased commission rate and
+the kickback payments.
+
+37. In one instance, a UN official inquired into the basis for the 27.5%
+commission being paid to the Jordanian agent. The inquiry triggered a panicked email â
+message from a Nycomed marketing coordinator in Norway who was also aware of the
+âkickback payments, to officials at Nycomed responsible for handling the UN inquiry. In
+response, a Nycomed manager sent a letter to the UN falsely describing the work that-the
+Jordanian agent was to perform to justify. its commission, omitting that 10% of the 27.5%
+
+was to cover Iraqi kickback payments.
+
+13
+38. The ASSF payments were inaccurately described in Nycomedâs books and
+records as commissions or other legitimate business expenses. Nycomed also failed to
+
+maintain adequate internal controls to detect or prevent the illicit ASSF payments.
+
+D. Cash Kickbacks Paid on Ionics Italba Contracts
+
+39. Ionics Italba was a subsidiary of Jonics, which was acquired by GE in
+2005. Ionics Italbaâs conduct occurred prior to the acquisition. Tonics was a publicly-
+listed company in the United States and was subject to the Commissionâs regulatory
+jaietiavial throughout the relevant period. GE acquired Ionicsâ liabilities, along with the
+assets, in its acquisition of Ionics.
+
+40. Ionics Italba, based in Italy, manufactures and sells water purification
+equipment. Between 2000 and 2002, Ionics Italba paid $795,000 in kickbacks and earned
+$2.3 million in wrongful profits on five Program contracts to sell equipment to the Iraqi
+Oil Ministry. The five Program contracts were all direct agreements between Ionics
+Italba and the Iraqi Oil Ministry for the provision of water treatment equipment. The
+contracts were negotiated by Ionics Italbaâs Jordanian agent. Four of the five contracts
+were negotiated with side letters documenting the commitment of Ionics Italba to make
+the cash kickback payments. The side letters were concealed from UN inspectors in
+violation of a Program requirement to provide all contract documentation for inspection
+and UN approval.
+
+41. In the first of these contracts, the illegal kickback payment was concealed
+under a fictitious line item for âmodification and adaptation at site of obsolete spare
+parts.â When UN inspectors in January 2001 requested additional detail about the line
+
+item, officials at Ionics Italba passed the inquiry along to the Iraqi Oil Ministry. The
+
+14
+Ministryâs proposed response, villichs described services neither party intended to be
+performed, was incorporated nearly verbatim in a letter that Ionics Italba provided to the
+UN, after which the contract was approved. When the contract was performed, the UN
+paid for the services in two installments -- 90% for the products called for under the
+contract and 10% for the phony modification services. The Iraqi Oil Ministry prepared
+and sent a false invoice to cover the second payment.
+
+42. In subsequent contracts, the ten percent kickback requirement was simply
+incorporated into the agentâs commission and was not identified in a separate contract
+line item. On all five contracts, Ionics Italba attificially inflated the prices charged to the
+UN by 10% to â the cost of the kickback payments. The purpose of the 10% price
+increase was not disclosed to UN inspectors. On the majority of the Ionics Italba
+contracts, the invoices provided by the sales agent included fictitious activities to justify
+the agentâs inflated commission.
+
+43. The kickback payments are reflected in invoices and bank records of |
+payments from Ionics Italba to the sales agent that served as its payment intermediary.
+The sales agent made the payments to the Iraqi Oil Ministry through a Saudi Arabian
+front company acting on the Ministryâs behalf. - |
+
+44. The ASSF payments were inaccurately described in Ionics Italbaâs books
+and records as commissions or other legitimate business expenses. Ionics Italba also
+failed to maintain adequate internal controls to detect or prevent the illicit ASSF.
+
+payments.
+
+15
+CLAIMS FOR âRELIEF
+EF IRST CLAIM |
+[Violations of Section 13(b)(2)(A) of the Exchange Act]
+
+45. Paragraphs 1 through 44 are realleged and incorporated by reference. _
+
+46. As deseribed above, GE, Ionics, and Amersham, through their respective
+officers, agents, consultants, representatives, and subsidiaries, failed to keep books,
+records, and accounts, which, in reasonable detail, aceurately and fairly reflected their
+transactions and dispositions of its assets. GE Tonics, Inc. and GE Healthcare Ltd., both
+subsidiaries of GE, are the raspontive successors to the liabilities of Ionics and
+Amersham.
+
+' 47. By reason of the foregoing, GE, Ionics, and Amersham each violated
+
+Section 13(b)(2)(A) of the Exchange Act [15 US.C. Â§ 78m(b)(2)({A)]-
+
+SECOND CLAIM
+[Violations of Section 13(b)(2)(B) of the Exchange Act] .
+
+48. Paragraphs 1 through 47 are realleged and incorporated by reference.
+
+49. As desctibed above, GE, Ionics, and Amersham each failed to ensure that
+their subsidiaries devised and maintained systems of internal accounting controls
+sufficient to provide reasonable assurances that: (1) payments were made in accordance
+with managementâs general or specific authorization; and (ii) payments were recorded as
+necessary to maintain accountability for-the eompantesâ assets. GE Ionics, Inc. and GE
+Healthcare Ltd., both subsidiaries of GE, are the respective successors to the liabilities of
+
+Ionics and Amersham.
+
+16
+50. By reason of the foregoing, GE, Ionics, and Amersham each violated
+
+Section 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(B)].
+
+PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court enter a final
+judgment: | | |
+
+A. Permanently restraining and enjoining GE, Ionics, and Amersham from
+violating Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C.
+
+Â§Â§ 78m(b)(2)(A) and (B)];
+
+B. Ordering GE to disgorge ill-gotten gains, with prejudgment interest,
+wrongfully obtained as a result of the conduct of all four subsidiaries alleged in this
+Complaint; | |
+
+D. Ordering GE to pay civil penalties pursuant to Section 21(d)(3) of the
+
+Exchange Act [15 U.S.C. Â§ 78u(d)(3)]; and
+
+17
+E. Granting such further relief as the Court may deem just and appropriate.
+
+Dated: Sub 2), 2010
+
+Respectfully submitted,
+
+Cheryl J. Scayior6 (D.C. Bar No. 422175)
+Tracy L. PrÃ©e
+
+Robert I. Dodge
+
+Attorneys for Plaintiff,
+U.S. Securities and Exchange Commission
+100 F Street, NE
+
+Mail Stop 5030-A
+
+Washington, DC 20549
+
+(202) 551-4403 (Scarboro)
+
+18

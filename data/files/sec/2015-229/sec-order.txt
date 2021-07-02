@@ -1,0 +1,360 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 76073 / October 5, 2015
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-16881
+
+ 
+
+ 
+
+ 
+
+In the Matter of ORDER INSTITUTING CEASE-AND-
+DESIST PROCEEDINGS PURSUANT TO
+BRISTOL-MYERS SQUIBB SECTION 21C OF THE SECURITIES
+COMPANY EXCHANGE ACT OF 1934, MAKING
+FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+I,
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (âExchange Actâ), against Bristol-Myers Squibb Company (âBMSâ or
+Respondentâ).
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferââ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commissionâs jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (âOrderââ), as set forth below.
+Hil.
+
+On the basis of this Order and Respondentâs Offer, the Commission findsâ that:
+
+SUMMARY
+
+These proceedings arise out of violations of the internal controls and recordkeeping
+provisions of the Foreign Corrupt Practices Act (the âFCPAâ) by BMS and its majority-owned joint
+venture in China. Between 2009 and 2014, BMS failed to design and maintain effective internal
+controls relating to interactions with health care providers (âHCPsâ) at state-owned and state-
+controlled hospitals in China. Through various mechanisms during this period, certain sales
+representatives of the joint venture improperly generated funds that were used to provide corrupt
+inducements to HCPs in the form of cash payments, gifts, meals, travel, entertainment, and
+sponsorships for conferences and meetings in order to secure new sales and increase existing sales.
+BMS falsely recorded the relevant transactions as legitimate business expenses in its books and
+records.
+
+RESPONDENT
+
+1. BMS, a Delaware corporation based in New York, NY, develops, licenses,
+manufactures, markets, distributes, and sells pharmaceutical and over-the-counter products on a
+worldwide basis. The common stock of BMS is registered with the Commission under Section
+12(b) of the Exchange Act and its convertible preferred stock is registered with the Commission
+under Section 12(g) of the Exchange Act. The common stock of BMS trades on the New York
+Stock Exchange under the symbol BMY.
+
+OTHER RELEVANT ENTITIES
+
+2. Bristol-Myers Squibb (China) Investment Co. Limited (âBMS Chinaâ) is a
+company through which BMS conducts business in China. BMS China, in turn, primarily operates
+through Sino-American Shanghai Squibb Pharmaceuticals Limited (âSASSâ), a majority-owned
+joint venture. BMS holds a 60% equity interest in SASS and has held operational control over this
+entity since 2009 when it obtained the right to name the President of SASS and a majority of the
+members of SASSâs Board of Directors.
+
+ 
+
+' The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any
+
+other person or entity in this or any other proceeding.
+FACTS
+
+3. BMS began operating in China in 1982 when it formed SASS, the first Sino-
+American pharmaceutical joint venture. Following a successful product launch in 2005, BMS
+Chinaâs business grew quickly. By 2009, BMS China had 1490 full-time employees and net sales
+of more than $200 million. This upward trend continued through 2014 when the number of full-
+time employees expanded to 2464 and net sales reached nearly $500 million.
+
+4. Certain BMS China employees achieved their sales, in part, by providing HCPs and
+other government officials with cash and other inducements in exchange for prescriptions and drug
+listings.
+
+Failure to Respond to Red Flags
+
+5. BMS China failed to respond effectively to red flags indicating that sales personnel
+provided improper payments and other benefits in order to generate sales from HCPs. In 2009,
+BMS China initiated a review of travel and entertainment expenses submitted for reimbursement
+by its sales personnel and found non-compliant claims, fake and altered invoices and receipts, and
+consecutively numbered receipts. Shortly thereafter, BMS China retained a local accounting firm
+to conduct monthly post-payment reviews of all claims for travel, entertainment, and meeting
+expenses to identify false, improperly documented, and unsubstantiated claims. BMS China
+brought this function in-house in early 2011 and the results of both the external and internal
+reviews were provided to management of BMS China as well as regional compliance and
+corporate business managers who reported directly to senior management of BMS.
+
+6. During the period between mid-2009 and late 2013, BMS China identified
+numerous irregularities in travel and entertainment and event documentation, including fake and
+altered purchase orders, invoices, agendas, and attendance sheets for meetings with HCPs that
+likely had not occurred. BMS China inaccurately recorded the reimbursement of these false claims
+
+as legitimate business expenses in its books and records, which were then consolidated into the
+books and records of BMS.
+
+7. Certain BMS China employees admitted that they had submitted false
+reimbursement claims and used the funds for the benefit of HCPs in support of sales by BMS
+China. They also alleged that the use of false rermbursement claims to fund payments to and for
+the benefit of HCPs in order to secure prescription sales was a widespread practice at BMS China.
+In emails to the BMS China President in November 2010 and January 2011, certain terminated
+employees wrote that they used the funds to pay rebates, provide entertainment, and fund gift cards
+for HCPs, as there was no other way to meet their sales targets. Citing the âopen secretâ that HCPs
+in China rely upon the âgray incomeâ to maintain their livelihood, they said that they tried to meet
+the demands of the HCPs for the benefit of BMS China. Despite the widespread exceptions and
+serious allegations of potentially widespread bribery practices, BMS China did not investigate
+these claims.
+Compliance and Controls Environment
+
+8. Despite its longstanding presence in China, BMS did not implement a formal FCPA
+compliance program until April 2006 when it adopted its first standalone anti-bribery policy and
+corresponding corporative directive. At approximately the same time, BMS began conducting
+compliance assessments and audits of BMS China that included a review of internal controls
+relating to anti-bribery risks. These internal reviews revealed weaknesses in the monitoring of
+payments made to HCPs, the lack of formal processes around the selection and compensation of
+HCPs as speakers, deficiencies in obtaining and documenting the approval of donations,
+sponsorships, and consulting arrangements with HCPs, and the failure to conduct post-event
+verification of meetings and conferences sponsored by sales representatives. Reports of these
+findings were provided to senior management of BMS China as well as members of BMSâs global
+compliance department.
+
+9. These identified controls deficiencies were not timely remediated and compliance
+resources were minimal. The corporate compliance officer responsible for the Asia-Pacific region
+through 2012 was based in the U.S. and rarely traveled to China. There was no dedicated
+compliance officer for BMS China until 2008, and no permanent compliance position in China
+until 2010. In addition, the BMS sales force in China received limited training and much of it was
+inaccessible to a large number of sales representatives who worked in remote locations. For
+example, when BMS rolled out mandatory anti-bribery training in late 2009, 67% of employees in
+China failed to complete the training by the due date.
+
+10. Annual internal audits of BMS China repeatedly identified substantial gaps in
+internal controls, and the results were reported to the Audit Committee and senior management of
+BMS. In connection with each audit, the audit team cited a lack of effective controls and
+documentation relating to interactions with HCPs and the monitoring of potential inappropriate
+payments to HCPs. Among Internal Auditâs conclusions were that BMS Chinaâs controls around
+the review and approval of travel and entertainment expenses and gifts to HCPs were not effective
+and that it failed to track payments to HCPs, including high-risk payments, in its quarterly review
+of potential inappropriate payments, and to enforce controls relating to the documentation,
+approval, and payment of distributor rebates. Internal Audit also cited the lack of due diligence
+assessments of distributor compliance, including anti-bribery compliance, the failure to properly
+document and approve agreements with HCPs who served as speakers, and the lack of a
+mechanism to ensure that services were received in exchange for sponsorships. As a result,
+Internal Audit issued a series of qualified opinions in connection with its annual audits of BMS
+China between 2009 and 2013.
+
+Internal Documents Reveal Improper Benefits Provided to HCPs
+
+11. Emails and other BMS China documents detail, among other things, proposed
+âactivity plans,â âaction plans,â and plans for âinvestmentsâ in HCPs to increase prescription sales.
+These contemporaneous documents were prepared at the direction of, and sometimes transmitted
+to, district and regional sales managers of BMS China, and show that sales representatives used
+funds derived from travel and expense claims to make cash payments to HCPs and to provide gifts,
+
+4
+meals, entertainment, and travel to HCPs in order to induce them to prescribe products sold and
+marketed by BMS China. The sales representatives provided a variety of benefits to HCPs,
+ranging from small food and personal care items to shopping cards, jewelry, sightseeing, and cash
+payments, in exchange for prescription sales. This kind of conduct was captured in a July 2013
+email from a sales representative to a regional manager. The sales representative explained that a
+former sales representative had offered cash for sales to HCPs at a local hospital and âthe attitude
+of the director of the infectious diseases department was extremely clear when I took over: âNo
+money, no prescription.ââ Similarly, the work plans prepared by other sales representatives also
+identified correlations between the value of the benefits provided to specific HCPs and the volume
+of prescription sales expected.
+
+12. Certain documents within BMS China were replete with references to
+âinvestmentsâ made in order to obtain sales, such as offering speaking engagements and
+sponsorships for domestic and international conferences and meetings in exchange for
+prescriptions. Some sales representatives also sought to increase prescription sales and maintain
+drug listings at pharmacies by hosting cash promotions and events for pharmacy employees.
+Based on the volume of prescriptions, certain BMS China sales representatives gave cash,
+shopping cards, and foodstuffs as promotional prizes to pharmacy employees; at least one sales
+representative characterized the expenses as a âdepartmental development feeâ in
+contemporaneous documents.
+
+LEGAL STANDARDS
+
+13. Under Section 21C(a) of the Exchange Act, the Commission may impose a cease-
+and-desist order upon any person who is violating, has violated, or is about to violate any provision
+of the Exchange Act or any rule or regulation thereunder or any other person that is, was, or would
+be a cause of the violation due to an act or omission the person knew or should have known would
+contribute to such violation.
+
+Violations of the Recordkeeping and Internal Controls Provisions of the FCPA
+
+ 
+
+14. Section 13(b)(2)(A) of the Exchange Act requires issuers to make and Keep books,
+records, and accounts, which, in reasonable detail, accurately and fairly reflect the transactions and
+disposition of the assets of the issuer. 15 U.S.C. Â§78m(b)(2)(A).
+
+15. Section 13(b)(2)(B) of the Exchange Act requires issuers to devise and maintain a
+system of internal accounting controls sufficient to provide reasonable assurances that (1)
+transactions are executed in accordance with managementâs general or specific authorization; (ii)
+transactions are recorded as necessary (I) to permit preparation of financial statements in
+conformity with generally accepted accounting principles or any other criteria applicable to such
+statements, and (II) to maintain accountability for assets; (111) access to assets is permitted only in
+accordance with managementâs general or specific authorization; and (iv) the recorded
+accountability for assets is compared with the existing assets at reasonable intervals and
+appropriate action is taken with respect to any differences. 15 U.S.C. Â§ 78m(b)(2)(B).
+
+16. As described herein, BMS, through the actions of certain BMS China employees,
+violated Section 13(b)(2)(A) of the Exchange Act by falsely recording, as advertising and
+promotional expenses, cash payments and expenses for gifts, meals, travel, entertainment, speaker
+fees, and sponsorships for conferences and meetings provided to foreign officials, such as HCPs at
+state-owned and state-controlled hospitals as well as employees of state-owned pharmacies in
+China, to secure prescription sales. BMS also violated Section 13(b)(2)(B) of the Exchange Act by
+failing to devise and maintain a system of internal accounting controls relating to payments and
+benefits provided by sales representatives at BMS China to these foreign officials. As identified in
+various internal reviews, audits, and investigations conducted since at least 2009, BMS lacked
+effective internal controls sufficient to provide reasonable assurances that funds advanced and
+reimbursed to employees of BMS China were used for appropriate and authorized purposes.
+
+REMEDIAL EFFORTS
+
+17. BMS has implemented significant measures to enhance its anti-bribery and general
+compliance training and policies and to strengthen its accounting and monitoring controls relating
+to interactions with HCPs, including travel and entertainment expenses, meetings, sponsorships,
+grants, and donations funded by BMS China. BMS took numerous steps to improve the internal
+controls and compliance program at BMS China. Examples include a 100% pre-reimbursement
+review of all expense claims; the implementation of an accounting system designed to track each
+expense claim, including the request, approval, and payment of each claim; and the retention of a
+third-party vendor to conduct surprise checks at events sponsored by sales representatives.
+Additionally, BMS terminated over ninety employees, and disciplined an additional ninety
+employees, including sales representatives and managers of BMS China, who failed to comply
+with or sufficiently supervise compliance with relevant policies. In addition, BMS replaced certain
+BMS China officers as part of an overall effort to enhance âtone at the topâ and a culture of
+compliance. Further, BMS revised the compensation structure for BMS China employees by
+reducing the portion of incentive-based compensation for sales and distribution, eliminated gifts to
+HCPs, implemented enhanced due diligence procedures for third-party agents, implemented
+monitoring systems for speaker fees and third-party events, and incorporated risk assessments
+based on data analytics into its compliance program.
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent BMSâs Offer.
+
+Accordingly, it is hereby ORDERED that:
+
+A. Pursuant to Section 21C of the Exchange Act, Respondent Bristol-Myers Squibb
+Company cease and desist from committing or causing any violations and any future violations of
+Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78m(b)(2)(A) and
+78m(b)(2)(B)I.
+
+B. Respondent shall, within fourteen (14) days of the entry of this Order, pay
+disgorgement of $11,442,000, which represents profits gained as a result of the conduct described
+herein, prejudgment interest of $500,000, and a civil penalty of $2,750,000 to the Securities and
+Exchange Commission. If timely payment is not made, additional interest shall accrue pursuant to
+SEC Rule of Practice 600. Payment must be made in one of the following ways:
+
+(1) Respondent may transmit payment electronically to the Commission, which
+will provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+ 
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying Bristol-
+Myers Squibb Company as a Respondent in these proceedings, and the file number of these
+proceedings; a copy of the cover letter and check or money order must be sent to Kara N.
+Brockmeyer, Chief, Foreign Corrupt Practices Act Unit, Division of Enforcement, Securities and
+Exchange Commission, 100 F St., NE, Washington, DC 20549-5646.
+
+C. Respondent undertakes to:
+(1)
+
+Report to the Commission periodically, at no less than nine-month
+intervals during a two-year term, the status of its FCPA and _ anti-
+corruption related remediation and implementation of compliance
+measures. During this two-year period, should the Respondent discover
+credible evidence, not already reported to the Commission, that
+questionable or corrupt payments or questionable or corrupt transfers of
+property or interests may have been offered, promised, paid, or authorized
+by any Respondent entity or person, or any entity or person acting on
+behalf of Respondent, or that related false books and records have been
+maintained, Respondent shall promptly report such conduct to the
+Commission staff. During this two-year period, Respondent shall (1)
+submit an initial report, and (2) conduct and prepare two follow-up
+reviews and reports, as described below:
+
+a. Respondent shall submit to the Commission staff a written report
+within one-hundred eighty (180) calendar days of the entry of this
+Order setting forth a complete description of its remediation efforts
+to date, its plans for any future enhancements or improvements to
+its policies and procedures for ensuring compliance with the FCPA
+and other applicable anti-corruption laws, and the parameters of
+the subsequent reviews (the âInitial Reportâ). The Initial Report
+shall be transmitted to Charles E. Cain, Deputy Chief, FCPA Unit,
+Division of Enforcement, Securities and Exchange Commission,
+100 F Street, NE, Washington, DC 20549-5648. Respondent may
+extend the time period for issuance of the Initial Report with prior
+written approval of the Commission staff.
+
+b. Respondent shall undertake two follow-up reviews and submit
+written reports relating to Respondentâs remedial efforts to devise
+and maintain policies and procedures reasonably designed to detect
+and prevent violations of the FCPA and other applicable anti-
+corruption laws (the âFollow-up Reportsâ).
+
+C. The first Follow-up Report shall be completed by no later than
+two-hundred seventy (270) calendar days after the Initial Report.
+The final Follow-Up Report shall be completed by no later than
+two-hundred seventy (270) calendar days after the completion of
+the first Follow-Up Report. Respondent may extend the time
+period for issuance of each Follow-up Report with prior written
+approval of the Commission staff.
+
+d. The periodic reviews and reports submitted by Respondent will
+likely include proprietary, financial, confidential, and competitive
+business information. Public disclosure of the reports could
+
+8
+discourage cooperation, impede pending or potential government
+investigations or undermine the objectives of the reporting
+requirement. For these reasons, among others, the reports and the
+contents thereof are intended to remain and shall remain non-
+public, except (a) pursuant to court order, (b) as agreed by the
+parties in writing, (c) to the extent that the Commission staff
+determines in its sole discretion that disclosure would be in
+furtherance of the Commissionâs discharge of its duties, or (d) is
+otherwise required by law.
+
+(2) Certify, in writing, compliance with the undertaking set forth above. The
+certification and any supporting material shall be submitted to Charles E.
+Cain, Deputy Chief, FCPA Unit, with a copy to the Office of Chief
+Counsel of the Enforcement Division, no later than sixty (60) calendar
+days from the date of the completion of the undertakings.
+
+By the Commission.
+
+Brent J. Fields
+Secretary

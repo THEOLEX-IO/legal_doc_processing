@@ -1,0 +1,56 @@
+Release Number 7104-15
+
+  
+
+January 20, 2015
+
+CFTC Imposes $3 Million Penalty against Olam International, Ltd. and Olam Americas, Inc.
+for Violating Cocoa Position Limits and Unlawfully Executing Noncompetitive Trades
+
+Olam International and Olam Americas failed to disclose to the CFTC
+that their cocoa futures trading was not independently controlled
+
+Washington, DC - The U.S. Commodity Futures Trading Commission (CFTC) today issued an order filing and
+simultaneously settling charges against Singapore-based Olam International, Ltd. (Olam International), which operates
+a futures trading desk in London, England, and its subsidiary, Olam Americas, Inc. (Olam Americas), which is based in
+Summit, New Jersey and operates a futures trading desk there. Both companies purchase, sell, and trade cocoa and other
+agricultural products. The CFTC Order requires Olam International and Olam Americas to pay a $3 million civil monetary
+penalty and prohibits them from committing future violations of the Commodity Exchange Act (CEA) and CFTC
+Regulations, as charged.
+
+The CFTC Order finds that between February 2011 and January 2013, the cocoa futures positions of Olam International
+and Olam Americas were not independently controlled. Cocoa futures traders on both desks had access to each otherâs
+position information and regularly discussed the cocoa markets; Olam Americas cocoa traders placed orders to buy and
+sell cocoa futures for Olam Internationalâs account; and an Olam Americasâ cocoa trader supervised certain of Olam
+Internationalâs cocoa futures trading activities between January 2012 and May 2012, according to the CFTC Order. The
+CFTC Order finds the accounts, therefore, should have been aggregated for purposes of complying with the applicable
+position limits and that, when aggregated, the cocoa futures positions of Olam International and Olam Americas
+exceeded the 1,000-contract spot month position limit for cocoa futures contracts traded on ICE Futures U.S. Inc. (IFUS)
+on six trading days between February 2011 and January 2013, in violation of the CEA.
+
+The CFTC Order also finds that Olam International and Olam Americas impermissibly entered into exchange of futures for
+physical transactions (EFPs) opposite each otherâs cocoa futures trading accounts. According to the CFTC Order, EFPs are
+noncompetitive transactions that are permitted only if conducted in compliance with exchange rules approved by the
+CFTC. According to the CFTC Order, although IFUS rules approved by the CFTC between February 2011 and January 2013
+allowed EFPs, those rules required that the EFPs be transacted only between independently controlled accounts. Because
+Olam Internationalâs and Olam Americasâ cocoa futures trading accounts were not independently controlled, the CFTC
+Order finds that the 64 EFPs they conducted opposite each other violated the CEA and CFTC Regulations.
+
+Additionally, the CFTC Order finds that Olam International filed a âStatement of Reporting Traderâ (Form 40) with the
+CFTC in 2010 and 2012, and Olam Americas filed a Form 40 with the CFTC in 2012, that failed to disclose that their cocoa
+futures trading accounts were not independently controlled, in violation of the CEA and CFTC Regulations. According to
+the CFTC Order, on February 25, 2013, Olam International and Olam Americas filed a revised Form 40 disclosing to the
+CFTC that they were trading cocoa futures as a single global unit. But after they began aggregating their cocoa futures
+positions, the CFTC Order finds that Olam International and Olam Americas exceeded the 1,000-contract spot month
+position limit for cocoa futures contracts traded on IFUS on yet another trading day in August 2014, in violation of the
+CEA.
+
+The CFTC Division of Enforcement staff members responsible for this action are Stephanie Reinhart, David Chu, Judith
+McCorkle, Tom Nolan, Elizabeth Streit, Scott Williamson, and Rosemary Hollinger. Kelly Beck, Harold Hild, Matthew
+Hunter, and Vincent Varisano of the CFTCâs Division of Market Oversight also assisted in this matter.
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: January 20, 2015

@@ -1,0 +1,346 @@
+UNITED STATES DISTRICT COURT |
+FOR THE DISTRICT OF COLUMBIA
+
+ 
+
+U.S. SECURITIES AND EXCHANGE
+COMMISSION,
+
+100 F. Street, NE
+
+Washington, D.C. 20549
+
+Plaintiff, Case: 1:12-cv-00187
+Assigned To : Kessler, Gladys
+. Assign. Date : 2/6/2012
+
+Description: General Civil
+SMITH & NEPHEW plc
+
+15 Adam Street
+London, England WC2N 6LA
+
+Defendant.
+
+Newâ Neeâ Nee Neeâ Neeâ
+
+ 
+
+COMPLAINT
+Plaintiff, U.S. Securities and Exchange Commission (the Commissionâ), alleges:
+SUMMARY
+
+1. This matter concerns violations of the Foreign Corrupt Practices Act
+("FCPA") by Smith & Nephew plc (âS&N plcâ) through its subsidiaries to obtain sales
+for their medical device business.
+
+| 2. S&N plc is a global medical company with operations around the world.
+From 1997 to June 2008, two of SKN plcâs subsidiaries engaged in a scheme with a
+distributor who made illicit payments to public doctors employed by government
+âhospitals or agencies in Greece.
+
+3. S&N plc, through its subsidiaries, violated Section 30A of the Securities
+
+Exchange Act of 1934 (âExchange Actâ) [15 U.S.C. Â§ 78dd-1] by making illicit
+
+payments to foreign government officials in order to obtain or retain business. S&N plc
+violated Section 13(b)(2)(B) of the Exchange Act by failing to have an adequate internal
+control system in place to detect and prevent the illicit payments. S&N plc violated
+Section 13(b)(2)(A) of the Exchange Act by improperly recording these payments in its
+accounting books and records.
+JURISDICTION
+4, This Court has jurisdiction over this action under Sections 21(d), 21(e),
+and 27 of the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e) and 78aa]. S&N plc, directly
+
+or indirectly, made use of the means or instrumentalities of interstate commerce, of the
+
+ 
+
+mails, or of the facilities of a national securities exchange in connection with the
+transactions, acts, practices, and courses of business alleged in this Complaint.
+
+5. Venue is appropriate in this Court under Section 27 of the Exchange Act
+[15 U.S.C. Â§ 78aa] or 28 U.S.C. Â§ 1391(d). |
+
+_ DEFENDANT
+
+6. Smith & Nephew ple (âS&N plcâ) is a medical device company with its
+headquarters in London, England that sells orthopedic, endoscopy and wound-care
+products. S&N plc conducts its orthopedic business principally through S&N Inc., which
+is based in Memphis, TN and operates a manufacturing facility there. S&N pleâs
+American Depositary Receipts (âADRsâ) trade on the New York Stock Exchange under
+the symbol (âSNNâ), and the company files periodic reports with the Commission
+pursuant to Section 13 of the Exchange Act. In fiscal year 2010, its total sales were
+
+$3.962 billion, and its operating profits were $920 million.
+RELATED ENTITIES
+
+7. Smith & Nephew Inc. (âS&N Inc.â), a Delaware corporation that is
+headquartered in Memphis, TN, is a wholly-owned subsidiary of S&N plc. S&N Inc.
+sold its orthopedic products to a distributor in Greece. S&N Inc.âs financial statements
+were consolidated into the statements of S&N ple.
+
+8. Smith & Nephew Orthopaedics GmbH (âS&N GmbHâ), a German
+corporation, is a wholly-owned subsidiary of S&N plc that is headquartered and operates
+a manufacturing facility in Tuttlingen, Germany. S&N GmbH sold its orthopedic
+products to a distributor in Greece. S&N GmbHâs financial statements were consolidated
+into the statements of S&N plc.
+
+9. Greek Distributor, based in Athens, Greece, was two individuals who
+operated as agents and distributors for S&N Inc. and S&N GmbH for sales in Greece.
+Greek Distributor operated Greek companies and three private companies based in the
+United Kingdom, Company A, B, and C.
+
+10. Vice President International Sales, a U.S. citizen, was Vice President for
+International Sales for S&N Inc. and was based in Memphis, Tennessee. He left S&N
+Inc. in 2004. |
+
+11. Greece Sales Manager, a U.S. citizen, was the sales manager for S&N
+Inc.âs sales in Greece. He was based in Memphis, Tennessee and stopped working for
+S&N Inc. around September 2003.
+
+FACTS
+12. S&N Inc. and S&N GmbH sold orthopedic products in Greece since the
+
+1970s through the Greek Distributor. Greece has a national health care system wherein
+most Greek hospitals are publicly-owned and operated. Healthcare providers, including
+doctors, who work at publicly-owned hospitals are government employees, providing
+healthcare services in their official capacities. The public doctors in Greece are âforeign
+officialsâ as that term is defined in the FCPA, 15 U.S.C. Â§ 78dd-2(h)(2)(A).
+
+13. From the 1970s until the late-1990s, S&N Inc. and S&N GmbH had an
+agreement with the Greek Distributor to sell orthopedic products to the Greek Distributor
+entities at a discount from âlistâ price. The Greek Distributor would re-sell the products
+to Greek public hospitals at the full âlistâ price and the Greek Distributor entities would
+make a profit.
+
+14. Starting in 1997, a scheme was developed to create an offshore fund to
+make payments to public doctors to purchase S&N Inc. and S&N GmbH products in
+Greece. The Greek Distributor set up two shell companies in the United Kingdom,
+Company A and Company B. The Greek Distributor negotiated a series of deals in which |
+the Greek Distributor purchased orthopedic products from S&N Inc. and S&N GmbH at
+full âlistâ price, but S&N Inc. and S&N GmbH then paid a percentage of those purchases
+to the Greek Distributorâs offshore companies. Specifically, S&N Inc. entered into an
+agreement in 1998 with Company A, and S&N GmbH entered into an agreement in 1998
+with Company B. In 2003, S&N Inc. shifted its agreement to Company B as well.
+
+15. On paper, it appeared as if S&N Inc. and S&N GmbH were paying
+Company A and Company B for marketing services, but no true services were actually
+performed. Company A and Company B were essentially receiving the portion of the
+sales to the Greek Distributor entities that represented the difference between the list
+
+price and the discount price normally paid by distributors, usually between 25 and 40
+percent of sales. This had the effect of creating off-shore funds for the Greek Distributor
+entities that were not subject to Greek taxes and that would be used to pay bribes to
+public doctors to purchase S&N Inc. and S&N GmbH products.
+
+16. | Throughout the period, S&N Inc. executives and S&N GmbH employees
+understood that the Greek Distributor was paying bribes to public doctors in Greece by
+using the funds paid to Company A and Company B. In October 1999, one of the Greek
+Distributorâs employees sent an email to the Greek Sales Manager in Memphis asking for
+S&N Inc. to pay a Company A invoice, noting that âWe have many outstanding
+payments to surgeons and I would appreciate your help if this payment can be made to
+[Company A] by the end of next week at the very latest.â
+
+17. In late fall 1999, S&N Incâs Chief Financial Officer raised questions with
+S&N lawyers following questions from internal auditors concerning the payments to the
+Greek Distributorâs UK Companies. On November 9, 1999, Greece Sales Manager and
+an S&N Inc. attorney met to discuss issues with S&N GmbHâs agreement with the Greek
+Distributor. The notes of the S&N Inc. attorney who attended the meeting stated: âPay
+surgeon to use prod â Not legal or ethic; but universal. S&N will not do.â On November _
+17, 1999, the same S&N Inc. attorney then briefed a more-senior SKN Inc. attorney on
+the issue, noting that.the Greek Distributor was receiving âpromotion supportâ from S&N
+GmbH, that Memphis was doing the same thing, and that no services were received in
+exchange. The notes of the meeting by the more-senior attorney also reflected that:
+âDistributor in Greece pays docs to use our products.â
+
+18. In January 2001, S&N Inc. renewed its contract with Company A.
+19. In February 2002, the Greek Distributor traveled to Memphis to meet with
+
+Vice President International Sales and others concerning certain proposed reductions in
+the percentage paid to Company A. In March 2002, the Greek Distributor sent an email _
+to Greece Sales Manager and Vice President International Sales in the United States that
+explicitly said he was paying doctors for purchasing S&N Inc. products (emphasis in
+original):
+
+The [Company A] commission cannot be reduced for the time being, since it
+
+is already not sufficient to cover my companyâs cash incentive requirements at
+
+the current market level, with major competitors paying 30-40% more than
+[the Greek Distributor].
+
+As I explained to you in Memphis (as well as during your last visit to Athens)
+I absolutely need this fund to promote my sales with surgeons, at a time
+when competition offers substantially higher rates.
+
+[Company A]âs only reason for being is the need for cash incentives, a real
+pain in the neck but unavoidable fact of Greek life.
+
+In case it is not clear to you, please understand that I am paying cash
+incentives right after each surgery . . .
+
+S&N Inc. did not reduce the commissions.
+
+20. Company A. was also used by another medical device company to pay
+bribes to public doctors in Greece.
+
+21. S&N Inc. and S&N GmbH recorded the payments to Company A and -
+Company B as legitimate marketing expenses in their books and records when a portion
+of those payments were used to pay bribes.
+
+22. During 2004, Vice President International Sales left the company.
+
+23. In 2004, S&N Inc. and S&N GmbH reconsidered their arrangement with
+the Greek Distributor after foreign tax authorities questioned S&N GmbHâs deduction of
+
+certain expenses. As a result, starting in 2005, S&N Inc. sold its products to Company C,
+another offshore company controlled by the Greek Distributor, at a standard discount off
+of list price. Company C then sold the products to the Greek Distributor, which sold them
+in Greece. Similar to Company A and Company B, Company C also acted as an offshore
+fund to make bribe payments to public doctors in Greece. Starting in 2005, S&N GmbH
+discontinued dealings with the Greek Distributor.
+
+24. In May 2005, the Greek Distributor met with an S&N Inc. representative,
+who informed the Greek Distributor that it could not make payments to doctors, and that
+Greek Distributor would have to produce to S&N a marketing plan. However, no further
+steps were taken to ensure that the Greek Distributor was not making payments to public
+doctors in Greece.
+
+25. In June 2007, S&N plc acquired a new subsidiary, a private Swiss
+company that sold orthopedic products in Greece. S&N plc intended to use the new
+subsidiary to sell its products in Greece rather than use the Greek Distributor. The Greek
+Distributor tried to maintain the relationship and, in trying to convince an S&N Inc.
+executive of his value, the Greek Distributor said that he paid surgeons less than the
+payments to surgeons made by the newly acquired subsidiary. S&N plc did later learn
+that the newly acquired subsidiary had engaged in unacceptable sales practices prior to its
+acquisition.
+
+26. The deal between S&N Inc. and Company C expired in 2007. âHowever,
+S&N Inc. continued to sell products to the Greek Distributor to fulfill long-term contracts
+with Greek hospitals. S&N Inc. ended its sales of orthopedic products to the Greek
+
+Distributor entities in June 2008.
+A. Anti-Bribery Violations |
+
+27. S&N plcâs subsidiaries S&N Inc. and S&N GmbH knowingly allowed the
+Greek Distributor to pay Greek public doctors for the purpose of obtaining or retaining
+business.
+
+28. | S&N Inc. employees who were U.S. nationals approved the arrangements
+with the Greek Distributor that included payments to doctors. The mails and â
+instrumentalities of interstate commerce were used in furtherance of this bribery scheme.
+
+B. Failure to Maintain Its Books and Records
+
+29. S&N plcâs subsidiaries S&N Inc. and S&N GmbH characterized their
+payments to Company A and Company B as being for âcommissionsâ and marketing
+services even though those payments were used by the Greek Distributor to pay bribes to
+Greek doctors. S&N plcâs books and records did not reflect the true nature of those
+payments. For example, they did not reflect that a portion of the payments to the Greek
+Distributor constituted reimbursements for bribes. S&N Inc. also mischaracterized the
+nature of the sales to Company C.
+
+Cc. Failure to Maintain Adequate Internal Controls
+
+30. S&N plc failed to implement adequate internal controls to detect or
+prevent bribery. The conduct involved employees and managers of several levels at two
+subsidiaries.
+
+31... S&N ple failed to implement, either directly or through its subsidiaries,
+adequate internal controls to prevent the bribery or to ensure that transactions were
+recorded properly, as follows. S&N plc failed to act on numerous red flags of bribery.
+
+Among other things, even though S&N ple was aware that S&N Inc. and S&N GmbH
+were conducting business in Greece and was aware of the heightened risks of the Greek
+market, S&N plc did not require proof of services rendered by Company A and Company
+B. S&N plc failed to question the reasons for paying the Greek Distributor for Greek
+sales to accounts in the names of entities located outside of Greece. S&N plc failed to
+conduct due diligence on Company A and Company B. S&N plc also failed to conduct
+any audits of the transactions.
+CLAIMS FOR RELIEF
+FIRST CLAIM
+[Violations of Section 30A of the Exchange Act]
+
+32. Paragraphs | through 31 are realleged and incorporated by reference.
+
+33. As described above, SKN plc, through its agents, and subsidiaries, S&N
+Inc. and S&N GmbH, corruptly offered, promised to pay, or authorized payments to one
+or more persons, while knowing that all or a portion of those payments would be offered,
+given, or promised, directly or indirectly, to foreign officials for the purpose of
+influencing their acts or decisions in their official capacity, inducing them to do or omit
+to do actions in violation of their official duties, securing an improper advantage, or
+inducing such foreign officials to use their influence with foreign governments or
+instrumentalities thereof to assist in obtaining or retaining business.
+
+34. By reason of the foregoing, S&N plc violated, and unless enjoined will
+continue to violate, Section 30A of the Exchange Act. [15 U.S.C. Â§ 78dd-1]
+
+SECOND CLAIM ~
+[Violations of Section 13(b)(2)(A) of the Exchange Act]
+
+35. Paragraphs | through 34 are realleged and incorporated by reference.
+36. As described above, S&N pic failed to keep books, records, and accounts,
+which, in reasonable detail, accurately and fairly reflected its transactions and
+dispositions of its assets.
+
+37. By reason of the foregoing, S&N ple violated, and unless enjoined will
+continue to violate, Section 13(b)(2)(A) of the Exchange Act. [15 U.S.C.
+
+Â§ 78m(b)(2)(A)]
+| THIRD CLAIM
+[Violations of Section 13(b)(2)(B) of the Exchange Act]
+
+38. Paragraphs | through 37 are realleged and incorporated by reference.
+
+39. As described above, S&N plc failed to devise and maintain a system of
+internal accounting controls sufficient to provide reasonable assurances that:
+
+(i) transactions were executed in accordance with managementâs general or specific
+authorization; and (ii) transactions were recorded as necessary (I) to permit preparation of
+financial statements in conformity with generally accepted accounting principles or any
+other criteria applicable to such statements, and (II) to maintain accountability for its
+assets.
+
+40. By reason of the foregoing, S&N ple violated, and unless enjoined will
+
+continue to violate, Section 13(b)(2)(B) of the Exchange Act. [15 U.S.C.
+
+Â§ 78m(b)(2)(B)]
+
+10
+PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court enter a final
+judgment:
+
+A. Permanently restraining and enjoining S&N plc from violating Sections
+30A, 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78dd-1,
+78m(b)(2)(A), and 78m(b)(2)(B)];
+
+B. Ordering S&N ple to disgorge ill-gotten gains wrongfully obtained as a
+result of its illegal conduct and prejudgment interest; and
+
+C. Granting such further relief as the Court may deem just and appropriate.
+
+Dated: eto Co , 2012
+Respectfully submitted, â
+
+Bret S Mipbell (D.C. Bar No. 464083)
+Tra -Price
+
+Reid A. Muoio
+Kara N. Brockmeyer
+
+ 
+
+Attorneys for Plaintiff,
+
+USS. Securities and Exchange Commission
+100 F Street, NE oO
+
+Washington, DC 20549
+
+(202) 551-4495 (Mitchell)
+
+i]

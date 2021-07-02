@@ -312,14 +312,14 @@ Office of Administration, National Futures Association, 300 South Riverside Plaz
 
 4, that to effect payment of the Restitution Obligation and the distribution of any
 restitution payments to the defendants’ customers, the court appoints the National Futures
-Association (“NFA”) as Monitor. The Monitor shall collect restitution payments from the
-Defendants and make distributions as set forth below. Because the Monitor is acting as an
+Association (“NFA”) as monitor. The monitor shall collect restitution payments from the
+Defendants and make distributions as set forth below. Because the monitor is acting as an
 officer of this court in performing these services, the NFA shall not be liable for any
-action or inaction arising from NFA’s appointment as Monitor, other than actions
+action or inaction arising from NFA’s appointment as monitor, other than actions
 involving fraud;
 
 5, that the Defendants shall make Restitution Obligation payments under this Order
-to the Monitor in the name “McCullough-Mayhew — Settlement/Restitution Fund” and
+to the monitor in the name “McCullough-Mayhew — Settlement/Restitution Fund” and
 shall send such Restitution Obligation payments by electronic funds transfer, or by U.S.
 postal money order, certified check, bank cashier’s, or bank money order, to the Office of
 Administration, National Futures Association, 300 South Riverside Plaza, Suite 1800,
@@ -334,27 +334,27 @@ Case 5:14-cv-00083-F Document 37 Filed 08/14/15 Page 8 of 11
 transmit copies of the cover letter and the form of payment to the Chief Financial Officer,
 CFTC, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581;
 
-6. that the Monitor shall oversee the Restitution Obligation and shall have the
+6. that the monitor shall oversee the Restitution Obligation and shall have the
 discretion to determine the manner of distribution of such funds in an equitable fashion to
 the Defendants’ customers identified by the Commission or may defer distribution until
-such time as the Monitor deems appropriate. In the event that the amount of Restitution
-Obligation payments to the Monitor are of a de minimis nature such that the Monitor
+such time as the monitor deems appropriate. In the event that the amount of Restitution
+Obligation payments to the monitor are of a de minimis nature such that the monitor
 determines that the administrative cost of making a distribution to eligible customers is
-impractical, the Monitor may, in its discretion, treat such restitution payments as CMP
-payments, which the Monitor shall forward to the Commission following the instructions
+impractical, the monitor may, in its discretion, treat such restitution payments as CMP
+payments, which the monitor shall forward to the Commission following the instructions
 for CMP payments set forth in Paragraphs 12 through 13 below;
 
-7. that the Defendants shall cooperate with the Monitor as appropriate to provide
-such information as the Monitor deems necessary and appropriate to identify the
-defendants’ customers to whom the Monitor, in its sole discretion, may determine to
+7. that the Defendants shall cooperate with the monitor as appropriate to provide
+such information as the monitor deems necessary and appropriate to identify the
+defendants’ customers to whom the monitor, in its sole discretion, may determine to
 include in any plan for distribution of any Restitution Obligation payments. The
 Defendants shall execute any documents necessary to release funds that they have in any
 repository, bank, investment or other financial institution, wherever located, in order to
 make partial or total payment toward the Restitution Obligation;
 
-8. that the Monitor shall provide the Commission at the beginning of each calendar
+8. that the monitor shall provide the Commission at the beginning of each calendar
 year with a report detailing the disbursement of funds to the defendants’ customers
-during the previous year. The Monitor shall transmit this report under a cover letter that
+during the previous year. The monitor shall transmit this report under a cover letter that
 identifies the name and docket number of this proceeding to the Chief Financial Officer,
 CFTC, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581;
 
@@ -371,7 +371,7 @@ provision of this Order and to hold the Defendants in contempt for any violation
 provision of this Order;
 
 11. that to the extent that any funds accrue to the U.S. Treasury for satisfaction of the
-Defendants’ Restitution Obligation, such funds shall be transferred to the Monitor for
+Defendants’ Restitution Obligation, such funds shall be transferred to the monitor for
 disbursement in accordance with the procedures set forth above;
 
 12. that the Defendants shall pay, jointly and severally, a CMP in the amount of
@@ -416,7 +416,7 @@ docket number of this proceeding. The Defendants shall simultaneously transmit c
 of the cover letter and the form of payment to the Chief Financial Officer, CFTC, Three
 Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581;
 
-14. that Acceptance by the Commission or the Monitor of any partial payment of the
+14. that Acceptance by the Commission or the monitor of any partial payment of the
 defendants’ Restitution Obligation or CMP Obligation shall not be deemed a waiver of
 their obligation to make further payments pursuant to this Order, or a waiver of the
 Commission’s right to seek to compel payment of any remaining balance;

@@ -30,7 +30,7 @@ class Decision(Base):
             predict_decision_date=predict_decision_date,
             predict_defendant=predict_defendant,
             predict_extracted_authorities=predict_extracted_authorities,
-            predict_extracted_violation=predict_extracted_violation,
+            predict_extracted_violations=predict_extracted_violations,
             predict_folder=predict_folder,
                         predict_judge=str.lower,
 

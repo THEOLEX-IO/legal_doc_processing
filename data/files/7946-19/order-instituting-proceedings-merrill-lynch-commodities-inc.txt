@@ -350,11 +350,11 @@ Restitution Obligation is to be reduced, within ten days of making such payment.
 
 To effect payment by Respondent and the distribution of any portion of the Restitution
 Obligation that has not been offset, the Commission appoints the National Futures
-Association (“NFA”) as “Monitor.” The Monitor shall receive payments of the
+Association (“NFA”) as “monitor.” The monitor shall receive payments of the
 Restitution Obligation and any post-judgment interest from Respondent and make
-distributions as set forth below. Because the Monitor is not being specially compensated
-for these services, and these services are outside the normal duties of the Monitor, it shall
-not be liable for any action or inaction arising from its appointment as Monitor other than
+distributions as set forth below. Because the monitor is not being specially compensated
+for these services, and these services are outside the normal duties of the monitor, it shall
+not be liable for any action or inaction arising from its appointment as monitor other than
 actions involving fraud.
 
 Respondent shall make its payments of any portion of the Restitution Obligation that has
@@ -368,13 +368,13 @@ transmit copies of the cover letter and the form of payment to the Chief Financi
 Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
 Washington, D.C. 20581.
 
-The Monitor shall oversee Respondent’s Restitution Obligation and shall have the
+The monitor shall oversee Respondent’s Restitution Obligation and shall have the
 discretion to determine the manner of distribution of funds in an equitable fashion or may
-defer distribution until such time as the Monitor may deem appropriate. In the event that
-the amount of payments of the Restitution Obligation to the Monitor are of a de minimis
-nature such that the Monitor determines that the administrative cost of making a
-restitution distribution is impractical, the Monitor may, in its discretion, treat such
-restitution payments as civil monetary penalty payments, which the Monitor shall
+defer distribution until such time as the monitor may deem appropriate. In the event that
+the amount of payments of the Restitution Obligation to the monitor are of a de minimis
+nature such that the monitor determines that the administrative cost of making a
+restitution distribution is impractical, the monitor may, in its discretion, treat such
+restitution payments as civil monetary penalty payments, which the monitor shall
 forward to the Commission, as discussed below. To the extent any funds accrue to the
 
  
@@ -383,7 +383,7 @@ forward to the Commission, as discussed below. To the extent any funds accrue to
 obligations for monetary payment pursuant to the DOJ Agreement and has provided proof, in the manner specified
 by this Order, that its monetary obligation under the DOJ Agreement has been satisfied tn its entirety.
 U.S. Treasury for satisfaction of Respondent’s Restitution Obligation, such funds shall be
-transferred to the Monitor for disbursement in accordance with the procedures set forth in
+transferred to the monitor for disbursement in accordance with the procedures set forth in
 this Order.
 
 Respondent shall pay a civil monetary penalty of eleven million five hundred thousand
@@ -497,8 +497,8 @@ of payment to the Chief Financial Officer, Commodity Futures Trading
 Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C.
 20581.
 
-Cooperation with Monitor: Respondent shall cooperate with the Monitor as
-appropriate to provide such information as the Monitor deems necessary and
+Cooperation with monitor: Respondent shall cooperate with the monitor as
+appropriate to provide such information as the monitor deems necessary and
 appropriate to formulate a plan for the distribution of any restitution payments.
 Respondent shall execute any documents necessary to release funds that it has in
 any repository, bank, investment or other financial institution, wherever located,

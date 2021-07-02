@@ -563,13 +563,13 @@ Chicago, Illinois 60606, copies of the form of payment to those pool participant
 
 50. To effect payment of the Restitution Obligation and the distribution of any
 restitution payments to WTCG pool participants, the Court appoints the National Futures
-Association (“NFA”) as Monitor (“Monitor”). The Monitor shall receive restitution payments
-from Defendant Wright and make distributions as set forth below. Because the Monitor is acting
+Association (“NFA”) as monitor (“monitor”). The monitor shall receive restitution payments
+from Defendant Wright and make distributions as set forth below. Because the monitor is acting
 as an officer of this Court in performing these services, the NFA shall not be liable for any action
-or inaction arising from NFA’s appointment as Monitor, other than actions involving fraud.
+or inaction arising from NFA’s appointment as monitor, other than actions involving fraud.
 
 51. Defendant Wright shall make Restitution Obligation payments under this Consent
-Order to the Monitor in the name “Michael S. Wright — Settlement Restitution Fund” and shall
+Order to the monitor in the name “Michael S. Wright — Settlement Restitution Fund” and shall
 send such Restitution Obligation payments by electronic funds transfer, or by U.S. postal money
 order. certified check, bank cashier’s check, or bank money order, to the Office of
 Administration, National Futures Association, 300 South Riverside Plaza, Suite 1800, Chicago,
@@ -584,26 +584,26 @@ Case 1:17-cv-04722-LTS-DCF Document 30-1 Filed 07/27/18 Page 16 of 22
 letter and the form of payment to the Chief Financial Officer, Commodity Futures Trading
 Commission, Three Lafayette Centre. 1155 21st Street, NW, Washington, D.C, 20581.
 
-52. The Monitor shall oversee the Restitution Obligation and shal! have the discretion
+52. The monitor shall oversee the Restitution Obligation and shal! have the discretion
 to determine the manner of distribution of such funds in an equitable fashion to WTCG pool
 participants identified by the Commission or may defer distribution until such time as the
-Monitor deems appropriate. In the event that the amount of Restitution Obligation payments to
-the Monitor are of a de minimis nature such that the Monitor determines that the administrative
-cost of making a distribution to eligible pool participants is impractical, the Monitor may, in its
+monitor deems appropriate. In the event that the amount of Restitution Obligation payments to
+the monitor are of a de minimis nature such that the monitor determines that the administrative
+cost of making a distribution to eligible pool participants is impractical, the monitor may, in its
 discretion, treat such restitution payments as civil monetary penalty payments, which the
-Monitor shall forward to the Commission following the instructions for civil monetary penalty
+monitor shall forward to the Commission following the instructions for civil monetary penalty
 payments set forth in Part V.B. below.
 
-53. Defendant Wright shall cooperate with the Monitor as appropriate to provide such
-information as the Monitor deems necessary and appropriate to identify WT'CG pool participants
-to whom the Monitor, in its sole discretion, may determine to include in any plan for distribution
+53. Defendant Wright shall cooperate with the monitor as appropriate to provide such
+information as the monitor deems necessary and appropriate to identify WT'CG pool participants
+to whom the monitor, in its sole discretion, may determine to include in any plan for distribution
 of any Restitution Obligation payments. Defendant shall execute any documents necessary to
 release funds that he has in any repository, bank, investment or other financial institution,
 wherever located, in order to make partial or total payment toward the Restitution Obligation.
 
-54. The Monitor shall provide the Commission at the beginning of each calendar year
+54. The monitor shall provide the Commission at the beginning of each calendar year
 with a report detailing the disbursement of funds to WT'CG’s pool participants during the
-previous year. The Monitor shall transmit this report under a cover letter that identifies the name
+previous year. The monitor shall transmit this report under a cover letter that identifies the name
 and docket number of this proceeding to the Chief Financial Officer, Commodity Futures
 
 Trading Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 2058].
@@ -631,7 +631,7 @@ compliance with any provision of this Consent Order and to hold Defendant Wright
 for any violations of any provision of this Consent Order.
 
 57, To the extent that any funds accrue to the U.S. Treasury for satisfaction of
-Defendant Wright’s Restitution Obligation, such funds shall be transferred to the Monitor for
+Defendant Wright’s Restitution Obligation, such funds shall be transferred to the monitor for
 disbursement in accordance with the procedures set forth above.
 
 B. Civil Monetary Penalty
@@ -684,7 +684,7 @@ Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
 
 C. Provisions Related to Monetary sanctions
 
-60. Partial Satisfaction: Acceptance by the Commission/CFTC or the Monitor of any
+60. Partial Satisfaction: Acceptance by the Commission/CFTC or the monitor of any
 partial payment of Defendant Wright’s Restitution Obligation or CMP Obligation shall not be
 deemed a waiver of his obligation to make further payments pursuant to this Consent Order, ora
 waiver of the Commission/CFTC’s right to seek to compel payment of any remaining balance.

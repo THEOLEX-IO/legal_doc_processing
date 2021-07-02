@@ -948,14 +948,14 @@ prevailing on the date of the entry of this Order pursuant to 28 U.S.C. § 1961.
 
 To effect payment of the Restitution Obligation and the distribution of any
 restitution payments to Defendants’ pool participants, the Court appoints the National
-Futures Association (“NFA”) as Monitor. The Monitor shall collect restitution
+Futures Association (“NFA”) as monitor. The monitor shall collect restitution
 payments from Defendants and make distributions as set forth below. Because the
-Monitor is acting as an officer of this Court in performing these services, the NFA
+monitor is acting as an officer of this Court in performing these services, the NFA
 shall not be liable for any action or inaction arising from NFA’s appointment as
-Monitor, other than actions involving fraud.
+monitor, other than actions involving fraud.
 
 Defendants shall make Restitution Obligation payments under this Order to the
-Monitor in the name “Direct Investment Products Restitution Fund” and shall send
+monitor in the name “Direct Investment Products Restitution Fund” and shall send
 such Restitution Obligation payments by electronic funds transfer, or by U.S. postal
 money order, certified check, bank cashier’s, or bank money order, to the Office of
 Administration, National Futures Association, 300 South Riverside Plaza, Suite
@@ -985,27 +985,27 @@ Any financial institution holding funds of Defendants is directed to liquidate
 and release all such funds, whether the funds are held in a single or joint account, or
 in any other capacity, and to convey them (minus any amounts to cover the financial
 institution’s administrative or wire transfer fees) by wire transfer to an account
-designated by the Monitor within thirty (30) days of receiving a copy the this Order.
+designated by the monitor within thirty (30) days of receiving a copy the this Order.
 At no time during the liquidation, release, and /or wire transfer of these funds
 pursuant to this Order shall Defendants be afforded any access to, or be provided
 with, any of these funds. Defendants, and all financial institutions subject to this
-Order, shall cooperate fully with the Commission and the Monitor in the liquidation,
+Order, shall cooperate fully with the Commission and the monitor in the liquidation,
 release, and wire transfer of these funds.
 
-The Monitor shall oversee the Restitution Obligation and shall have the
+The monitor shall oversee the Restitution Obligation and shall have the
 discretion to determine the manner of distribution of such funds in an equitable
-fashion to Defendants’ pool participants identified by the Monitor and/or the
-Commission or may defer distribution until such time as the Monitor deems
+fashion to Defendants’ pool participants identified by the monitor and/or the
+Commission or may defer distribution until such time as the monitor deems
 appropriate. In the event that the amount of Restitution Obligation payments to the
-Monitor are of a de minimis nature such that the Monitor determines that the
+monitor are of a de minimis nature such that the monitor determines that the
 administrative cost of making a distribution to eligible poo! participants is
-impractical, the Monitor may, in its discretion, treat such restitution payments as civil
-monetary penalty payments, which the Monitor shall forward to the Commission
+impractical, the monitor may, in its discretion, treat such restitution payments as civil
+monetary penalty payments, which the monitor shall forward to the Commission
 following the instructions for civi] monetary penalty payments set forth below.
 
-Defendants shall cooperate with the Monitor as appropriate to provide such
-information as the Monitor deems necessary and appropriate to identify Defendants’
-pool participants to whom the Monitor, in its sole discretion, may determine to
+Defendants shall cooperate with the monitor as appropriate to provide such
+information as the monitor deems necessary and appropriate to identify Defendants’
+pool participants to whom the monitor, in its sole discretion, may determine to
 
 include in any plan for distribution of any Restitution Obligation payments.
 
@@ -1038,7 +1038,7 @@ compliance with any provision of this Order and to hold Defendants in contempt f
 any violations of any provision of this Order.
 
 To the extent that any funds accrue to the U.S. Treasury for satisfaction of
-Defendants’ Restitution Obligation, such funds shall be transferred to the Monitor for
+Defendants’ Restitution Obligation, such funds shall be transferred to the monitor for
 disbursement in accordance with the procedures set forth above.
 
 2. Civil Monetary Penalty
@@ -1114,7 +1114,7 @@ transmit copies of the cover letter and the form of payment to the Chief Financi
 Officer, Commodity Futures Trading Commission, Three Lafayette Centre, 1155
 21st Street, NW, Washington, D.C. 20581.
 
-Any acceptance by the Commission or the Monitor of partial payment of
+Any acceptance by the Commission or the monitor of partial payment of
 Defendants’ Restitution Obligation or CMP Obligation shall not be deemed a waiver
 of Defendants’ obligation to make further payments pursuant to this Consent Order,
 or a waiver of the Commission’s right to seek to compel payment of any remaining
@@ -1123,7 +1123,7 @@ balance.
 Defendants shall not transfer, or cause others to transfer, funds or other
 property belonging to Defendants to the custody, possession, or control of any
 members of their family or any other person or entity for the purpose of concealing
-such funds from this Court, the Commission, or the Monitor or any officer appointed
+such funds from this Court, the Commission, or the monitor or any officer appointed
 by this Court.
 
 Hf
@@ -1154,7 +1154,7 @@ Commission and the Receiver with written notice of their contact telephone numbe
 and/or mailing addresses within thirty (30) calendar days of this Order. Until such
 time as Defendants satisfy their Restitution Obligation and CMP Obligation as set
 forth in this Order, Defendants shall provide written notice by certified mail to the
-Commission and the Receiver and/or Monitor of any change to their telephone
+Commission and the Receiver and/or monitor of any change to their telephone
 number and/or mailing address within ten (10) calendar days of the change(s).
 
 Nothing shall serve to amend or modify this Order in any respect whatsoever,

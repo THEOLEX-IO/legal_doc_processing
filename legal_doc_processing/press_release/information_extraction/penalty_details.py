@@ -82,9 +82,9 @@ def _question_selector(key: str):
 def predict_penalty_details(obj: dict, threshold=0.4, n_sents: int = 5) -> list:
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
-    # extracted_violation
-    extracted_violation = obj["feature_dict"]["extracted_violation"].lower().split(",")
-    # extracted_violation = [i.lower().strip() for i in extracted_violation]
+    # extracted_violations
+    extracted_violations = obj["feature_dict"]["extracted_violations"].lower().split(",")
+    # extracted_violations = [i.lower().strip() for i in extracted_violations]
 
     # items
     h1, abstract = obj["h1"], obj["abstract"]
@@ -118,7 +118,7 @@ def predict_penalty_details(obj: dict, threshold=0.4, n_sents: int = 5) -> list:
 
     # filert by spacy entities
     consitant_ans = [
-        i for i in merged_ans if i[answer_label] if i not in extracted_violation
+        i for i in merged_ans if i[answer_label] if i not in extracted_violations
     ]
 
     # filter by threshold

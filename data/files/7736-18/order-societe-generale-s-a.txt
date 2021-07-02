@@ -3652,11 +3652,11 @@ the future.
 62
 Vi.
 
-MONITORING AND AUDITING:
+monitorING AND AUDITING:
 
  
 
-Monitoring: Respondent shall maintain or develop monitoring
+monitoring: Respondent shall maintain or develop monitoring
 systems or electronic exception reporting systems that identify
 possible improper or unsubstantiated Submissions. Such reports
 will be reviewed on at least a weekly basis and if there is any

@@ -492,13 +492,13 @@ the Treasury Bill rate prevailing on the date of entry of this Consent Order pur
 
 51. To effect payment of the Restitution Obligation and the distribution of any
 restitution payments to FMIF’s pool participants, the Court appoints the National Futures
-Association (“NFA”) as Monitor (“Monitor”), The Monitor shall collect restitution payments
-from Tripode and make distributions as set forth below. Because the Monitor is acting as an
+Association (“NFA”) as monitor (“monitor”), The monitor shall collect restitution payments
+from Tripode and make distributions as set forth below. Because the monitor is acting as an
 officer of this Court in performing these services, the NFA shall not be liable for any action or
-inaction arising from NFA’s appointment as Monitor, other than actions involving fraud.
+inaction arising from NFA’s appointment as monitor, other than actions involving fraud.
 
 52. The funds currently frozen in the accounts referenced below shall, upon request
-and at the direction of the Monitor, be immediately released to the Monitor and applied directly
+and at the direction of the monitor, be immediately released to the monitor and applied directly
 to payment of Tripode’s Restitution Obligation in accordance with the terms of this Consent
 
 Order in an amount not to exceed $170,716.01:
@@ -567,11 +567,11 @@ Case O14-cv-62240-AVPD Docurent9a Enterecl on FLSD Docket O1/2o/2016 Pane 15 of 
  
 
 The annuities listed above shall be surrendered for their cash value, and the funds, minus any
-mandatory tax withholding, shall be released to the Monitor as directed in this Consent Order
+mandatory tax withholding, shall be released to the monitor as directed in this Consent Order
 and in an amount to satisfy Tripode’s Restitution Obligation.
 
 53. Tripode shall make Restitution Obligation payments under this Consent Order to
-the Monitor in the name “Tripode — Restitution Fund” and shall send such Restitution Obligation
+the monitor in the name “Tripode — Restitution Fund” and shall send such Restitution Obligation
 payments by electronic funds transfer, or by U.S. postal money order, certified check, bank
 cashier’s, or bank money order, to the Office of Administration, National Futures Association,
 300 South Riverside Plaza, Suite 1800, Chicago, Illinois 60606 under cover letter that identifies
@@ -580,33 +580,33 @@ shall simultaneously transmit copies of the cover letter and the form of payment
 Financial Officer, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st
 Street, NW, Washington, D.C. 20581.
 
-54. The Monitor shall oversee the Restitution Obligation and shall have the discretion
+54. The monitor shall oversee the Restitution Obligation and shall have the discretion
 to determine the manner of distribution of such funds in an equitable fashion to FMIF’s pool
 participants identified by the Commission or may defer distribution until such time as the
 
-Monitor deems appropriate. In the event that the amount of Restitution Obligation payments to
+monitor deems appropriate. In the event that the amount of Restitution Obligation payments to
 
 15
  
 
 Case O:14-cv-62240-WPD Bocurment SQ Entered on FLSD Docket O1/29/2016 Page 16 of 22
 
-the Monitor are of a de minimis nature such that the Monitor determines that the administrative
-cost of making a distribution to eligible pool participants is impractical, the Monitor may, in its
+the monitor are of a de minimis nature such that the monitor determines that the administrative
+cost of making a distribution to eligible pool participants is impractical, the monitor may, in its
 discretion, treat such restitution payments as civil monetary penalty payments, which the
-Monitor shall forward to the Commission following the instructions for civil monetary penalty
+monitor shall forward to the Commission following the instructions for civil monetary penalty
 payments set forth in Part V.B below.
 
-55. Tripode shall cooperate with the Monitor as appropriate to provide such
-information as the Monitor deems necessary and appropriate to identify FMIF’s pool participants
-to whom the Monitor, in its sole discretion, may determine to include in any plan for distribution
+55. Tripode shall cooperate with the monitor as appropriate to provide such
+information as the monitor deems necessary and appropriate to identify FMIF’s pool participants
+to whom the monitor, in its sole discretion, may determine to include in any plan for distribution
 of any Restitution Obligation payments. Tripode shall execute any documents necessary to
 release funds that he may have in any repository, bank, investment or other financial institution,
 wherever located, in order to make partial or total payment toward the Restitution Obligation.
 
-56. | The Monitor shall provide the Commission at the beginning of each calendar year
+56. | The monitor shall provide the Commission at the beginning of each calendar year
 with a report detailing the disbursement of funds to FMIF’s pool participants during the previous
-year. The Monitor shall transmit this report under a cover letter that identifies the name and
+year. The monitor shall transmit this report under a cover letter that identifies the name and
 docket number of this proceeding to the Chief Financial Officer, Commodity Futures Trading
 Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
 
@@ -630,7 +630,7 @@ with any provision of this Consent Order and to hold Tripode in contempt for any
 any provision of this Consent Order.
 
 59. To the extent that any funds accrue to the U.S. Treasury for satisfaction of
-Tripode’s Restitution Obligation, such funds shall be transferred to the Monitor for disbursement
+Tripode’s Restitution Obligation, such funds shall be transferred to the monitor for disbursement
 in accordance with the procedures set forth above.
 
 B. Civil Monetary Penalty
@@ -677,7 +677,7 @@ NW, Washington, D.C. 20581.
 
 Cc. Provisions Related to Monetary sanctions
 
-62. Partial Satisfaction: Acceptance by the Commission or the Monitor of partial
+62. Partial Satisfaction: Acceptance by the Commission or the monitor of partial
 payment of Tripode’s Restitution Obligation or CMP Obligation shall not be deemed a waiver of
 his obligation to make further payments pursuant to this Consent Order, or a waiver of the
 Commission’s right to seek to compel payment of any remaining balance.

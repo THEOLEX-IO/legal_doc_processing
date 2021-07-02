@@ -1164,17 +1164,17 @@ pursuant to 28 U.S.c. § 1961.
 6. To effect payment of the Restitution Obligation
 and the distribution of any restitution payments to Messrs.
 Coffman and Lund, the Court appoints the National Futures
-Association (hereafter, “NFA”) as Monitor (hereafter,
-“Monitor”). The Monitor shall collect restitution payments from
+Association (hereafter, “NFA”) as monitor (hereafter,
+“monitor”). The monitor shall collect restitution payments from
 Defendants and make distribution to Messrs. Coffman and Lund in
 accordance with the Findings of Fact, @ 21, set forth above.
-Because the Monitor is acting as an officer of this Court in
-performing these services, the Monitor shall not be liable for
+Because the monitor is acting as an officer of this Court in
+performing these services, the monitor shall not be liable for
 any action or inaction arising from NFA’s appointment as
-Monitor, other than actions involving fraud,
+monitor, other than actions involving fraud,
 
 7. Defendants Siegel and MJS shall make Restitution
-Obligation payments under this Order to the Monitor in the name
+Obligation payments under this Order to the monitor in the name
 “Siegel/MJS Restitution Fund” and shall send such Restitution
 Obligation payments by electronic funds transfer, or by U.S.
 postal money order, certified check, bank cashier’s check or
@@ -1195,17 +1195,17 @@ Financial Officer, Commodity Futures Trading Commission, Three
 Lafayette Centre, 1155 21st Street, N.W., Washington, D.C.
 20581.
 
-8. The Monitor shall oversee the Restitution
+8. The monitor shall oversee the Restitution
 Obligation and shall have the discretion to determine the manner
 of distribution of such funds in an equitable fashion to Messrs.
 Coffman and Lund or may defer distribution until such time as
-the Monitor deems appropriate. In the event that the amount of
-Restitution Obligation payments to the Monitor are of a de
-minimus nature such that the Monitor determines that the
+the monitor deems appropriate. In the event that the amount of
+Restitution Obligation payments to the monitor are of a de
+minimus nature such that the monitor determines that the
 administrative cost of making a distribution to eligible pool
-participants is impractical, the Monitor may, in its discretion,
+participants is impractical, the monitor may, in its discretion,
 treat such restitution payments as civil monetary penalty
-payments, which the Monitor shall forward to the Commission
+payments, which the monitor shall forward to the Commission
 following the instructions for civil monetary penalty payments
 set forth below.
 
@@ -1215,7 +1215,7 @@ repository, bank, investment or other financial institution,
 wherever located, in order to make partial or total payment
 toward the Restitution Obligation.
 
-10. The Monitor shall provide the Commission at the
+10. The monitor shall provide the Commission at the
 beginning of each calendar year with a report detailing the
 
 disbursement of funds to Messrs. Coffman and Lund during the
@@ -1225,7 +1225,7 @@ disbursement of funds to Messrs. Coffman and Lund during the
  
 Case 1:13-cv-05755-NLH-JS Document 12 Filed 12/30/14 Page 33 of 39 PagelD: 276
 
-previous year. The Monitor shall transmit this report under a
+previous year. The monitor shall transmit this report under a
 cover letter that identifies the name and docket number of this
 proceeding to the Chief Financial Officer, Commodity Futures
 Trading Commission, Three Lafayette Centre, 1155 21st Street,
@@ -1249,7 +1249,7 @@ for any violations of any provision of this Order.
 
 13. To the extent that any funds accrue to the U.S.
 Treasury for satisfaction of the Restitution Obligation, such
-funds shall be transferred to the Monitor for disbursement in
+funds shall be transferred to the monitor for disbursement in
 
 accordance with the procedures set forth above.
 
@@ -1381,7 +1381,7 @@ Commission, Three Lafayette Centre, 1155 21st Street, N.W.,
 Washington, D.C. 20581.
 E. Provisions Related to Monetary sanctions
 
-20. Any acceptance by the Commission or the Monitor
+20. Any acceptance by the Commission or the monitor
 of partial payment of Defendants’ restitution obligation,
 disgorgement obligation, or civil monetary penalty obligation
 shall not be deemed a waiver of their obligation to make further

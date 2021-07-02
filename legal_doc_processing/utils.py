@@ -1,3 +1,4 @@
+#live coding 
 # import re
 
 # import requests
@@ -33,7 +34,7 @@ def load_data(file_path: str) -> str:
     with open(file_path, "r") as f:
         txt = f.read()
 
-    return txt
+    return txt 
 
 
 def make_dataframe(path: str = "./data/csv/files.csv"):

@@ -13,6 +13,7 @@ def predict_monitor(obj: dict) -> list:
 if __name__ == "__main__":
 
     import time
+    import pandas as pd
     from legal_doc_processing.utils import get_pipeline, get_spacy
     from legal_doc_processing.press_release.loader import press_release_X_y
     from legal_doc_processing.press_release.press_release import PressRelease
@@ -41,3 +42,10 @@ if __name__ == "__main__":
     # externize
     cols = ["txt", "pr", "preds"]
     _df = df.drop(cols, axis=1, inplace=False)
+
+    _zip = zip(df.monitor.values, df.pred_monitor.values)
+    pred_performance = pd.Series([i==j for i, j in _zip])
+    pred_performance.mean()
+
+
+    

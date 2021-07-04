@@ -51,10 +51,11 @@ if __name__ == "__main__":
         df["pred_monitor"] = df.pr.apply(lambda i: i.predict("monitor"))
 
         _zip = zip(df.monitor.values, df.pred_monitor.values)
-        pred_performance = pd.Series([i==j for i, j in _zip])
-        accuracy=pred_performance.mean()
+        pred_performance = pd.Series([i == j for i, j in _zip])/len(df.pred_monitor.values)
+    
         
-        return accuracy
+        
+        return pred_performance
 
 
     

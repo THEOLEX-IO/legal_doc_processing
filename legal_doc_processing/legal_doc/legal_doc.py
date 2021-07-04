@@ -14,7 +14,7 @@ class LegalDoc(Base):
         file_path: str = None,
         nlpipe=None,
         nlspa=None,
-        n_lines: int = 30,
+        n_lines: int = 30
     ):
 
         Base.__init__(

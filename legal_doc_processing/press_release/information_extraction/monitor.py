@@ -43,9 +43,18 @@ if __name__ == "__main__":
     cols = ["txt", "pr", "preds"]
     _df = df.drop(cols, axis=1, inplace=False)
 
-    _zip = zip(df.monitor.values, df.pred_monitor.values)
-    pred_performance = pd.Series([i==j for i, j in _zip])
-    pred_performance.mean()
+    #Evaluate the prediction accuracy of monitory sanction
+    def get_accuracy()-> float:
+
+        df = press_release_X_y()
+        df["pr"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
+        df["pred_monitor"] = df.pr.apply(lambda i: i.predict("monitor"))
+
+        _zip = zip(df.monitor.values, df.pred_monitor.values)
+        pred_performance = pd.Series([i==j for i, j in _zip])
+        accuracy=pred_performance.mean()
+        
+        return accuracy
 
 
     

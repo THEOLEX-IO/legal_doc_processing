@@ -9,6 +9,7 @@ from legal_doc_processing.utils import (
     # get_orgs,
     get_label_,
     _ask,
+    main_X_y,
 )
 
 
@@ -77,3 +78,17 @@ def get_entities_pers_orgs(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None)
     pers_org_entities_list = all_pers + all_orgs
 
     return pers_org_entities_list
+
+
+def press_release_X_y(juridiction="", features=""):
+
+    main_df = main_X_y()
+
+    filter_jur = lambda i: juridiction.strip().lower == str(i).strip().lower
+    jur_df = (
+        main_df.loc[main_df.juridiction.apply(filter_jur), :] if juridiction else main_df
+    )
+
+    if isinstance(features, str):
+        features = [features]
+    keep_cols = ["folder", "press"]

@@ -1,9 +1,11 @@
-#live coding 
+# live coding
 # import re
 # from itertools import product
 
 # import requests
 # import asyncio
+
+import os
 
 import numpy as np
 import pandas as pd
@@ -89,7 +91,7 @@ def load_data(file_path: str) -> str:
     with open(file_path, "r") as f:
         txt = f.read()
 
-    return txt 
+    return txt
 
 
 def make_dataframe(path: str = "./data/csv/files.csv"):
@@ -383,3 +385,24 @@ def merge_ans(ans, label="new_answer", threshold=0.1):
 #     df.to_csv("./data/csv/dataset.csv", index=False)
 
 #     return df
+
+
+def main_X_y(
+    path: str = "./data/csv/", y: str = "random_y", text: str = "random_text"
+) -> pd.DataFrame:
+    """ """
+
+    cands = os.listdir(path)
+    text_file = [i for i in cands if text in i][0]
+    y_file = [i for i in cands if y in i][0]
+
+    text_df = pd.read_csv(path + text_file)
+    y_df = pd.read_csv(path + y_file)
+
+    drop_cols = [i for i in y_df.columns if "link" in i]
+    y_df.drop(drop_cols, axis=1, inplace=True)
+    y_df.drop("juridiction", axis=1, inplace=True)
+
+    new_df = text_df.merge(y_df, on="folder", how="inner", copy=True)
+
+    return new_df

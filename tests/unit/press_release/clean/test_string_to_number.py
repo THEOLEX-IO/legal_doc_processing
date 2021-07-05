@@ -5,11 +5,11 @@ from legal_doc_processing.press_release.clean.monetary_sanction import (
 )
 
 
-class TestStringToNumber(unittest.TestCase):
+class TestCastAsInt(unittest.TestCase):
     """ """
 
-    def test_millions(self):
-        def _test_millions():
+    def test_cast_as_int(self):
+        def _test_cast_as_int():
 
             text_list = [
                 ("hundred of million of dollars", 100_000_000),
@@ -42,4 +42,4 @@ class TestStringToNumber(unittest.TestCase):
 
             return list(zip(X, y, preds))
 
-        _test_millions()
+        _test_cast_as_int()

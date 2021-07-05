@@ -21,23 +21,23 @@ def test_init(max_init_time=3.0, max_pred_time=11.0):
     nlspa.add_pipe("sentencizer")
 
     # dataframe
-    from legal_doc_processing.press_release.utils import press_release_X_y
+    from legal_doc_processing.legal_doc.utils import legal_doc_X_y
 
-    df = press_release_X_y(juridiction="cftc", sample=0.1)
+    df = legal_doc_X_y(juridiction="cftc", sample=0.1)
 
     # Press Releae
-    from legal_doc_processing.press_release.press_release import PressRelease
+    from legal_doc_processing.legal_doc.legal_doc import LegalDoc
 
     t = time()
-    make_pr = lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa)
-    df["pr"] = df.press_release_text.apply(make_pr)
+    make_ld = lambda i: LegalDoc(i, nlpipe=nlpipe, nlspa=nlspa)
+    df["ld"] = df.legal_doc_text.apply(make_ld)
     tt, ttt = round(time() - t, 2), round((time() - t) / len(df), 2)
     print(f"time: {tt}s, avg obj init: {ttt}s (max_init_time: {max_init_time})s")
     assert ttt < max_init_time
 
     # preds
     t = time()
-    df["preds"] = df.pr.apply(lambda i: i.predict_all())
+    df["preds"] = df.ld.apply(lambda i: i.predict_all())
     tt, ttt = round(time() - t, 2), round((time() - t) / len(df), 2)
     print(f"time: {tt}s, average pred: {ttt}s (max_pred_time: {max_pred_time})s")
     assert ttt < max_pred_time
@@ -48,6 +48,6 @@ def test_init(max_init_time=3.0, max_pred_time=11.0):
         df["pred_" + k] = df.preds.apply(lambda i: i[k])
 
     # externize
-    cols = ["pr", "preds", "press_release_text"]
+    cols = ["ld", "preds", "legal_doc_text"]
     _df = df.drop(cols, axis=1, inplace=False)
-    _df.to_csv("./data/csv/press_release.csv", index=False)
+    _df.to_csv("./data/csv/legal_doc.csv", index=False)

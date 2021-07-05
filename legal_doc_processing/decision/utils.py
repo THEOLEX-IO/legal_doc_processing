@@ -1,5 +1,3 @@
-from itertools import product
-
 import pandas as pd
 
 from legal_doc_processing import logger
@@ -15,27 +13,15 @@ from legal_doc_processing.utils import (
 )
 
 
-# def get_entities_pers_orgs(txt: dict, n_paragraphs: int = 2, nlpspa=None) -> list:
-#     """get entities PERSON and ORG from h1 and sub_article """
-
-#     nlpspa = _if_not_spacy(nlpspa)
-
-#     # all pers all orgs from spacy entities
-#     all_pers = get_pers(txt, nlpspa)
-#     all_orgs = get_orgs(txt, nlpspa)
-#     pers_org_entities_list = all_pers + all_orgs
-
-#     return pers_org_entities_list
-
-
-def legal_doc_X_y(juridiction="", features="", sample=1.0):
+def decision_X_y(juridiction="", features="", sample=1.0):
     """ """
 
     # main
     main_df = main_X_y()
 
     # press_release_text not na
-    main_df = main_df.loc[~main_df.legal_doc_text.isna(), :]
+    at_least_one_na = main_df.press_release_text.isna() + main_df.legal_doc_text.isna()
+    main_df = main_df.loc[~at_least_one_na, :]
 
     # juridiction
     filter_jur = lambda i: juridiction.strip().lower() == str(i).strip().lower()
@@ -56,8 +42,13 @@ def legal_doc_X_y(juridiction="", features="", sample=1.0):
 
     if isinstance(features, str):
         features = [features]
+
     keep_cols = [
         "folder",
+        "press_release_link",
+        "press_release_link_new",
+        "press_release_text",
+        "legal_doc_text",
         "document_link",
         "document_link_new",
         "legal_doc_text",

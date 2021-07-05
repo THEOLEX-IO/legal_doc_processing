@@ -48,6 +48,7 @@ def press_release_X_df(
 
     drop_cols = [i for i in y_df.columns if "link" in i]
     y_df.drop(drop_cols, axis=1, inplace=True)
+    y_df.drop("juridiction", axis=1, inplace=True)
 
     new_df = text_df.merge(y_df, on="folder", how="inner", copy=True)
 

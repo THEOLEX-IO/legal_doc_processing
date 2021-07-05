@@ -4,6 +4,7 @@ import pandas as pd
 from cleantext import clean
 from legal_doc_processing.utils import *
 
+from legal_doc_processing import logger
 
 from legal_doc_processing.legal_doc.segmentation.clean import clean_doc
 from legal_doc_processing.legal_doc.segmentation.utils import get_token, get_section_indx
@@ -12,23 +13,22 @@ from legal_doc_processing.legal_doc.segmentation import clean
 from notebooks.utils import *
 
 
-
-def structure_legal_doc(text):     
-    list_token=get_token(text)
-    idx=get_section_indx(list_token)
-    j=-1
-    structure=[]
-    k=0
+def structure_legal_doc(text):
+    list_token = get_token(text)
+    idx = get_section_indx(list_token)
+    j = -1
+    structure = []
+    k = 0
     for i in idx:
-        section={}
-        section['content']=list_token[j+1:i]
+        section = {}
+        section["content"] = list_token[j + 1 : i]
 
-        section['header']=list_token[i]+list_token[i+1]
-        section['id']=k
+        section["header"] = list_token[i] + list_token[i + 1]
+        section["id"] = k
         structure.append(section)
-        j=i+1
-        k=k+1
-        
+        j = i + 1
+        k = k + 1
+
     return structure
 
 

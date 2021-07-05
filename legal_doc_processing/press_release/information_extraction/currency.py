@@ -1,3 +1,6 @@
+from legal_doc_processing import logger
+
+
 def predict_currency(obj: dict) -> list:
     """ """
 

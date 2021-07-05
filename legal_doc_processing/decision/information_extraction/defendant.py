@@ -1,3 +1,6 @@
+from legal_doc_processing import logger
+
+
 from collections import Counter
 from legal_doc_processing.utils import softmax, merge_ans
 

@@ -1,6 +1,9 @@
 import os
 
 import dateparser
+
+from legal_doc_processing import logger
+
 from legal_doc_processing.press_release.clean.decision_date import (
     _you_shall_not_pass,
 )
@@ -18,7 +21,7 @@ def predict_decision_date(obj: dict) -> list:
 # if __name__ == "__main__":
 
 #     # import
-#     from legal_doc_processing.press_release.loader import press_release_X_y
+#     from legal_doc_processing.press_release.utils import press_release_X_y
 #     from legal_doc_processing.press_release.structure import (
 #         structure_press_release,
 #     )

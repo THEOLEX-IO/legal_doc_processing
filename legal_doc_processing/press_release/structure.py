@@ -1,6 +1,8 @@
 import os
 from pprint import pformat, pprint
 
+from legal_doc_processing import logger
+
 
 def _shall_not_pass(dict_text: dict) -> dict:
     """avoid obvious stupid predictions """
@@ -166,7 +168,7 @@ def structure_press_release(txt: str) -> dict:
 # if __name__ == "__main__":
 
 #     # import
-#     from legal_doc_processing.press_release.loader import press_release_X_y
+#     from legal_doc_processing.press_release.utils import press_release_X_y
 #     from legal_doc_processing.press_release.structure import structure_press_release
 
 #     # structured_press_release_list

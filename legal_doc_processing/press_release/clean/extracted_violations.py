@@ -1,3 +1,6 @@
+from legal_doc_processing import logger
+
+
 def _clean_defendants_1(txt: str) -> str:
     """ """
     if txt.lower() != "defendants":

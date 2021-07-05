@@ -1,5 +1,7 @@
 import os
 
+from legal_doc_processing import logger
+
 from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_, strize
 from legal_doc_processing.utils import uniquize as _u
 
@@ -282,13 +284,7 @@ class Base:
             val = self._predict["judge"](self.data)
             setattr(self, "_judge", val)
 
-<<<<<<< HEAD
-        # extracted_violation need penalty_details
-
-=======
         # extracted_violations need penalty_details
-    
->>>>>>> fix_datapoint
         if feature == "penalty_details":
             val = self._predict["extracted_violations"](self.data)
             setattr(self, "_extracted_violations", val)

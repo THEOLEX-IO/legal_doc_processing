@@ -1,5 +1,8 @@
 import os
 
+
+from legal_doc_processing import logger
+
 from legal_doc_processing.legal_doc.legal_doc import LegalDoc
 from legal_doc_processing.press_release.press_release import PressRelease
 from legal_doc_processing.utils import get_pipeline, get_spacy
@@ -32,8 +35,7 @@ class Decision(Base):
             predict_extracted_authorities=predict_extracted_authorities,
             predict_extracted_violations=predict_extracted_violations,
             predict_folder=predict_folder,
-                        predict_judge=str.lower,
-
+            predict_judge=str.lower,
             predict_justice_type=predict_justice_type,
             predict_monetary_sanction=predict_monetary_sanction,
             predict_monitor=predict_monitor,
@@ -186,7 +188,7 @@ if __name__ == "__main__":
     # import
     import time
     from legal_doc_processing.utils import get_pipeline, get_spacy
-    from legal_doc_processing.decision.loader import decision_X_y
+    from legal_doc_processing.decision.utils import decision_X_y
 
     # load
     nlpipe = get_pipeline()

@@ -1,3 +1,5 @@
+from legal_doc_processing import logger
+
 # def _get_entities_money(obj: dict) -> list:
 #     """get entities MONEY from h1 and sub_article """
 
@@ -26,6 +28,19 @@ def _cast_as_int(cleaned_ans):
     cleaned_ans = [
         i.replace("$", "").replace("€", "").replace("£", "") for i in cleaned_ans
     ]
+    # logger.info(f"cleaned_ans: {cleaned_ans} ")
+
+    # SPECIAL CASE :hundred of million
+    spec_case = (
+        lambda i: i.replace("hundred of", "100").strip()
+        if "hundred of million" in i
+        else i
+    )
+    cleaned_ans = [spec_case(i) for i in cleaned_ans]
+
+    # SPECIAL CASE 100.000.000 usd
+    spec_case = lambda i: i.replace(".", ",").strip() if (i.count(".") > 1) else i
+    cleaned_ans = [spec_case(i) for i in cleaned_ans]
 
     # thousands as thousand
     cleaned_ans = [
@@ -35,6 +50,7 @@ def _cast_as_int(cleaned_ans):
         .replace("hundreds", "hundred")
         for i in cleaned_ans
     ]
+    # logger.info(f"cleaned_ans: {cleaned_ans} ")
 
     cleaned_ans_multi = list()
     for ans in cleaned_ans:
@@ -45,6 +61,8 @@ def _cast_as_int(cleaned_ans):
                 break
 
         cleaned_ans_multi.append((ans, multi))
+
+    logger.info(f"cleaned_ans_multi: {cleaned_ans_multi} ")
 
     cleaned_ans_multi_2 = list()
     for numb, multi in cleaned_ans_multi:
@@ -59,8 +77,11 @@ def _cast_as_int(cleaned_ans):
             numb = numb.split(multi)[0].replace(",", ".").strip()
 
             # find last numberic and clean : a total of 3.12 -> 3.12
-            cands_list = [i for i in numb.split(" ") if i[0].isnumeric()]
-            cand = cands_list[-1].strip()
+            try:
+                cands_list = [i for i in numb.split(" ") if i[0].isnumeric()]
+                cand = cands_list[-1].strip()
+            except:
+                raise AttributeError(f"{cands_list} ")
 
             # specific a 'total of for 3 000' ->  '3000'
             try:
@@ -77,5 +98,7 @@ def _cast_as_int(cleaned_ans):
                     numb *= k
 
         cleaned_ans_multi_2.append(int(numb))
+
+    logger.info(f"cleaned_ans_multi_2: {cleaned_ans_multi_2} ")
 
     return cleaned_ans_multi_2

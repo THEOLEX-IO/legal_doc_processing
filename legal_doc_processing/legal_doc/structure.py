@@ -1,6 +1,9 @@
 from cleantext import clean as _clean
 
 
+from legal_doc_processing import logger
+
+
 def _del_dummy_breaklines(txt: str):
     """ """
 

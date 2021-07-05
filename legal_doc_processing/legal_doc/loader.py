@@ -4,6 +4,8 @@ import pandas as pd
 
 from legal_doc_processing.utils import load_data, make_dataframe
 
+from legal_doc_processing import logger
+
 
 def load_legal_doc_files(path="./data/files"):
     """os list dir files press and .txt """

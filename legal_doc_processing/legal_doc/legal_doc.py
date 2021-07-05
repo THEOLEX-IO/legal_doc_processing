@@ -1,5 +1,7 @@
 import os
 
+from legal_doc_processing import logger
+
 from legal_doc_processing.base.base import Base, base_from_file, base_from_text
 from legal_doc_processing.legal_doc.structure import structure_legal_doc
 from legal_doc_processing.legal_doc.information_extraction import *

@@ -1,5 +1,7 @@
 import re
 
+from legal_doc_processing import logger
+
 
 def predict_reference(obj: dict, length_treshold=50) -> list:
     """parse the first page line by line, matching a

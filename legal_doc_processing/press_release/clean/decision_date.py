@@ -1,3 +1,6 @@
+from legal_doc_processing import logger
+
+
 def _you_shall_not_pass(date: str) -> str:
     """avoid passing for a studid algo """
 

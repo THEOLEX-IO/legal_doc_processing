@@ -1,3 +1,5 @@
+from legal_doc_processing import logger
+
 from legal_doc_processing.press_release.utils import press_release_X_y
 from legal_doc_processing.legal_doc.loader import legal_doc_X_y
 

@@ -1,3 +1,6 @@
+from legal_doc_processing import logger
+
+
 def _clean_violation(txt: str) -> str:
     """ """
 

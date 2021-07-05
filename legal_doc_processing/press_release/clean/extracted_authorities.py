@@ -1,3 +1,5 @@
+from legal_doc_processing import logger
+
 from legal_doc_processing.press_release.utils import product_juridiction_pairs
 
 

@@ -1,3 +1,5 @@
+from legal_doc_processing import logger
+
 from legal_doc_processing.utils import uniquize as _u
 
 from legal_doc_processing.utils import merge_ans, ask_all

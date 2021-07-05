@@ -1,3 +1,5 @@
+from legal_doc_processing import logger
+
 from legal_doc_processing.legal_doc.information_extraction.code_law_violation import (
     predict_code_law_violation,
 )

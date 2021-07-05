@@ -1,5 +1,7 @@
 import os
 
+from legal_doc_processing import logger
+
 from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_, strize
 from legal_doc_processing.utils import uniquize as _u
 

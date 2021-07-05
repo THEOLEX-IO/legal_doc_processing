@@ -1,3 +1,5 @@
+from legal_doc_processing import logger
+
 # def _get_entities_money(obj: dict) -> list:
 #     """get entities MONEY from h1 and sub_article """
 

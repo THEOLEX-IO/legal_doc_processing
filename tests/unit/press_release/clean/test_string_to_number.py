@@ -1,6 +1,6 @@
 from tests import *
 
-from legal_doc_processing.press_release.information_extraction.cost import (
+from legal_doc_processing.press_release.clean.monetary_sanction import (
     _cast_as_int,
 )
 
@@ -12,6 +12,7 @@ class TestStringToNumber(unittest.TestCase):
         def _test_millions():
 
             text_list = [
+                ("hundred of million of dollars", 100_000_000),
                 ("a total amount of 75 millions of dollars", 75_000_000),
                 ("130 millions of dollars", 130_000_000),
                 ("the fuckingsum of $3 000 thousand", 3_000_000),
@@ -37,7 +38,7 @@ class TestStringToNumber(unittest.TestCase):
             preds = _cast_as_int(X)
             ans = list(zip(preds, y))
             accuracy = sum([i == j for i, j in ans]) / len(ans)
-            assert accuracy > 0.75
+            assert accuracy > 0.90
 
             return list(zip(X, y, preds))
 

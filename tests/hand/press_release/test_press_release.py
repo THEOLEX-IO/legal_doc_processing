@@ -11,12 +11,34 @@ def test_init():
     nlspa.add_pipe("sentencizer")
 
     # dataframe
-    from legal_doc_processing.press_release.loader import press_release_X_y
+    from legal_doc_processing.press_release.utils import press_release_X_y
 
-    df = press_release_X_y()
-    df = df.iloc[:10, :]
+    df = press_release_X_y(juridiction="cftc", sample=0.1)
 
     # Press Releae
     from legal_doc_processing.press_release.press_release import PressRelease
 
-    df["pr"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
+    # press release
+    t = time.time()
+    make_pr = lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa)
+    df["pr"] = df.press_release_text.apply(make_pr)
+    tt, ttt = round(time.time() - t, 2), round((time.time() - t) / len(df), 2)
+    print(f"--> time = {tt} sec soit one obj in average {ttt} sec")
+    df.drop(["press_release_text"], axis=1, inplace=True)
+
+    # preds
+    t = time.time()
+    df["preds"] = df.pr.apply(lambda i: i.predict_all())
+    tt, ttt = round(time.time() - t, 2), round((time.time() - t) / len(df), 2)
+    print(f"--> time = {tt} sec soit one pred in average {ttt} sec")
+
+    # labels vs "preds"
+    preds_labels = list(df.preds.iloc[0].keys())
+    for k in preds_labels:
+        df["pred_" + k] = df.preds.apply(lambda i: i[k])
+    df.drop(["preds"], axis=1, inplace=True)
+
+    # externize
+    cols = ["pr", "preds"]
+    _df = df.drop(cols, axis=1, inplace=False)
+    _df.to_csv("./data/csv/press_release.csv", index=False)

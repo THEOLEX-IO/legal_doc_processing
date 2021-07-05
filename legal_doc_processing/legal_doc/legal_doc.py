@@ -9,12 +9,7 @@ class LegalDoc(Base):
     """main LegalDoc class """
 
     def __init__(
-        self,
-        text: str,
-        file_path: str = None,
-        nlpipe=None,
-        nlspa=None,
-        n_lines: int = 30
+        self, text: str, file_path: str = None, nlpipe=None, nlspa=None, n_lines: int = 30
     ):
 
         Base.__init__(
@@ -75,7 +70,7 @@ if __name__ == "__main__":
     # import
     import time
     from legal_doc_processing.utils import get_pipeline, get_spacy
-    from legal_doc_processing.press_release.loader import press_release_X_y
+    from legal_doc_processing.press_release.utils import press_release_X_y
 
     # load
     nlpipe = get_pipeline()

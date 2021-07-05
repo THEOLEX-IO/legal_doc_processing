@@ -13,7 +13,7 @@ def predict_folder(obj: dict) -> list:
 
 #     # import
 #     from legal_doc_processing.utils import get_pipeline, get_spacy, get_orgs, get_pers
-#     from legal_doc_processing.press_release.loader import press_release_X_y
+#     from legal_doc_processing.press_release.utils import press_release_X_y
 #     from legal_doc_processing.press_release.structure import structure_press_release
 
 #     # structured_press_release_r

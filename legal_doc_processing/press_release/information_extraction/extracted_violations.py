@@ -207,7 +207,7 @@ if __name__ == "__main__":
     # import
     import time
     from legal_doc_processing.utils import get_pipeline, get_spacy
-    from legal_doc_processing.press_release.loader import press_release_X_y
+    from legal_doc_processing.press_release.utils import press_release_X_y
     from legal_doc_processing.press_release.press_release import PressRelease
 
     # laod

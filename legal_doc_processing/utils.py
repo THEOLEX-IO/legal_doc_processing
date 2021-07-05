@@ -17,6 +17,24 @@ from transformers import pipeline
 # AutoModelForTokenClassification, AutoTokenizer
 
 
+def dummy_accuracy(y, pred) -> int:
+    """ """
+
+    try:
+        y, pred = int(y), int(pred)
+        val = int(y == pred)
+        print(val)
+        return val
+
+    except Exception as e:
+        print(e)
+        print(-1)
+        return -1
+
+    print(-2)
+    return -2
+
+
 def sub_cosine_similarity(list_corpus: list) -> object:
     """ """
 

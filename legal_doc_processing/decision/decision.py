@@ -188,7 +188,7 @@ if __name__ == "__main__":
     # import
     import time
     from legal_doc_processing.utils import get_pipeline, get_spacy
-    from legal_doc_processing.decision.loader import decision_X_y
+    from legal_doc_processing.decision.utils import decision_X_y
 
     # load
     nlpipe = get_pipeline()

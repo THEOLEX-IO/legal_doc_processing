@@ -1,5 +1,12 @@
+from legal_doc_processing import logger
+
+
 def test_init():
     """ """
+
+    from legal_doc_processing import logger
+
+    logger.info("called")
 
     import time
 

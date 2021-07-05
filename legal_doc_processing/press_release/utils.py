@@ -2,6 +2,8 @@ from itertools import product
 
 import pandas as pd
 
+from legal_doc_processing import logger
+
 from legal_doc_processing.utils import (
     _if_not_spacy,
     _if_not_pipe,

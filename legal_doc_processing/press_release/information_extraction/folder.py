@@ -1,5 +1,7 @@
 import os
 
+from legal_doc_processing import logger
+
 
 def predict_folder(obj: dict) -> list:
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """

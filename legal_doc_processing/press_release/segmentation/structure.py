@@ -1,6 +1,8 @@
 import os
 from pprint import pformat, pprint
 
+from legal_doc_processing import logger
+
 
 def _shall_not_pass(dict_text: dict) -> dict:
     """avoid obvious stupid predictions """
@@ -207,4 +209,3 @@ if __name__ == "__main__":
 
     # find errors
     df_errors = df.loc[df.error > 0, :]
-    

@@ -19,6 +19,8 @@ from transformers import pipeline
 
 # AutoModelForTokenClassification, AutoTokenizer
 
+from legal_doc_processing import logger
+
 
 def dummy_accuracy(y, pred) -> int:
     """ """

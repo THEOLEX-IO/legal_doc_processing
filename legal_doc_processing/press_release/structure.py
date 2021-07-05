@@ -1,6 +1,8 @@
 import os
 from pprint import pformat, pprint
 
+from legal_doc_processing import logger
+
 
 def _shall_not_pass(dict_text: dict) -> dict:
     """avoid obvious stupid predictions """

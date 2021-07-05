@@ -1,6 +1,9 @@
 import os
 
 import dateparser
+
+from legal_doc_processing import logger
+
 from legal_doc_processing.press_release.clean.decision_date import (
     _you_shall_not_pass,
 )

@@ -217,7 +217,6 @@ if __name__ == "__main__":
     t = time.time() - t
 
     DF = pd.DataFrame(df)
-
     df = pd.DataFrame(DF)
 
     # eval predict defendant performance

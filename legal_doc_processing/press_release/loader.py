@@ -5,47 +5,51 @@ import pandas as pd
 from legal_doc_processing.utils import load_data, make_dataframe
 
 
-def load_press_release_files(path="./data/files"):
-    """os list dir files press and .txt """
+# def load_press_release_files(path="./data/files"):
+#     """os list dir files press and .txt """
 
-    path = path[:-1] if path[-1] == "/" else path
+#     path = path[:-1] if path[-1] == "/" else path
 
-    # file list
-    folder_list = os.listdir(path)
-    files_list = [
-        [
-            f"{path}/{f}/{i}"
-            for i in os.listdir(f"{path}/{f}")
-            if ("press" in i) and ("txt" in i)
-        ]
-        for f in folder_list
-    ]
-    files_list = [i[0] for i in files_list]
+#     # file list
+#     folder_list = os.listdir(path)
+#     files_list = [
+#         [
+#             f"{path}/{f}/{i}"
+#             for i in os.listdir(f"{path}/{f}")
+#             if ("press" in i) and ("txt" in i)
+#         ]
+#         for f in folder_list
+#     ]
+#     files_list = [i[0] for i in files_list]
 
-    return files_list
-
-
-def load_press_release_text_list(path="./data/files"):
-    """load_press_release_files and load data"""
-
-    files_list = load_press_release_files(path)
-    press_txt_list = [load_data(i) for i in files_list]
-
-    return press_txt_list
+#     return files_list
 
 
-def press_release_X_df(path="./data/files"):
+# def load_press_release_text_list(path="./data/files"):
+#     """load_press_release_files and load data"""
 
-    path = path[:-1] if path[-1] == "/" else path
+#     files_list = load_press_release_files(path)
+#     press_txt_list = [load_data(i) for i in files_list]
 
-    folder_list = os.listdir(f"{path}")
-    files_list = [i.split("/")[-1] for i in load_press_release_files(path)]
-    press_txt_list = load_press_release_text_list(path)
+#     return press_txt_list
 
-    df = [
-        {"folder": i, "filename": j, "txt": k}
-        for i, j, k in zip(folder_list, files_list, press_txt_list)
-    ]
+
+def press_release_X_df(
+    path: str = "./data/csv/", y: str = "random_y", text: str = "random_text"
+) -> pd.DataFrame:
+    """ """
+
+    cands = os.listdir(path)
+    text_file = [i for i in cands if text in i][0]
+    y_file = [i for i in cands if y in i][0]
+
+    text_df = pd.read_csv(path + text_file)
+    y_df = pd.read_csv(path + y_file)
+
+    drop_cols = [i for i in y_df.columns if "link" in i]
+    y_df.drop(drop_cols, axis=1, inplace=True)
+
+    new_df = text_df.merge(y_df, on="folder", how="inner", copy=True)
 
     return pd.DataFrame(df)
 

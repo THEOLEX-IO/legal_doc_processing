@@ -1,0 +1,1 @@
+from legal_doc_processing.press_release.structure.structure import structure_press_release

@@ -7,7 +7,6 @@ from legal_doc_processing.utils import get_spacy, get_pipeline, get_label_
 
 from legal_doc_processing.press_release.utils import press_release_X_y
 
-
 from legal_doc_processing.press_release.structure.utils import (
     clean_in_line_break,
     do_strip,

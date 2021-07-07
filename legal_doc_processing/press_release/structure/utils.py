@@ -3,17 +3,6 @@ from legal_doc_processing import logger
 import re
 
 
-def give_txt():
-    """ """
-
-    fn = "./data/files/cftc/7117-15/press-release.txt"
-
-    with open(fn, "r") as f:
-        txt = f.read()
-
-    return txt
-
-
 def clean_in_line_break(txt: str) -> str:
     """transform 'hello comment\nca va'  en 'hello comment ca va' """
 
@@ -57,17 +46,6 @@ def do_strip(txt: str) -> str:
     return new_txt
 
 
-def split_intro_article(txt: str) -> str:
-    """ """
-
-    splitter = "\nWashington DC"
-
-    idx = txt.lower().find(splitter.lower())
-    intro, article = txt[:idx], txt[idx + 1 :]
-
-    return intro, article
-
-
 def find_id_line_in_intro(txt: str, len_max=35) -> str:
     """ """
 
@@ -82,18 +60,18 @@ def find_date_line_in_intro(txt: str, len_max=35) -> str:
     """ """
 
     month_list = [
-        "janu",
+        "january",
         "febr",
-        "marc",
-        "apri",
+        "march",
+        "april",
         "may",
         "june",
         "july",
-        "augu",
-        "septem",
-        "octo",
-        "novem",
-        "decem",
+        "august",
+        "september",
+        "october",
+        "novembre",
+        "december",
     ]
     lines = [i for i in txt.splitlines() if len(i) < len_max]
     idx_list = list()
@@ -101,6 +79,6 @@ def find_date_line_in_intro(txt: str, len_max=35) -> str:
         cand_list = [i for i, j in enumerate(lines) if month.lower() in j.lower()]
         idx_list.extend(cand_list)
 
-    if len(idx_list) != 1:
+    if len(idx_list) < 1:
         return -1
     return idx_list[0]

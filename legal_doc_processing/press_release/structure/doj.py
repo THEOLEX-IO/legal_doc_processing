@@ -1,0 +1,147 @@
+import os
+from pprint import pformat, pprint
+
+from legal_doc_processing import logger
+
+from legal_doc_processing.utils import get_spacy, get_pipeline, get_label_
+
+from legal_doc_processing.press_release.structure.utils import (
+    clean_in_line_break,
+    do_strip,
+    find_id_line_in_intro,
+    find_date_line_in_intro,
+    clean_very_short_lines,
+)
+
+
+# def give_doj_press_release():
+#     """ """
+
+#     fn = "./data/files/doj/airbus-se/press-release.txt"
+
+#     with open(fn, "r") as f:
+#         txt = f.read()
+
+#     btxt = txt.encode("latin-1")
+#     txt_decoded = btxt.decode("utf8")
+
+#     return txt_decoded
+
+
+# txt = give_doj_press_release()
+
+
+def first_clean(txt: str) -> str:
+    """ """
+
+    # clean double breaks and fake lines
+    new_txt_1 = clean_in_line_break(txt)
+
+    # strip
+    new_txt_2 = do_strip(new_txt_1)
+
+    return new_txt_2
+
+
+def split_intro_article(txt: str) -> str:
+    """ """
+
+    splitter = "for IMMEDIATE RELEASE"
+    lines = txt.splitlines()
+
+    # identifie and split
+    idx_lines = [i for i, j in enumerate(lines) if splitter.lower() in j.lower()]
+    logger.info(idx_lines)
+    assert len(idx_lines) > 0
+    idx = idx_lines[0]
+    intro_lines, article_lines = lines[: idx + 1], lines[idx + 1 :]
+
+    # rejoin
+    intro = "\n".join(intro_lines)
+    article = "\n".join(article_lines)
+
+    # find h1 in article
+    article_lines = article.splitlines()
+
+    first_true_sent_list = [
+        i for i, j in enumerate(article_lines[:20]) if j.strip().endswith(".")
+    ]
+    first_true_sent_idx = first_true_sent_list[0]
+
+    # swap h1 from article to intro
+    intro_ok = intro + "\n" + "\n".join(article_lines[:first_true_sent_idx])
+    article_ok = "\n".join(article_lines[first_true_sent_idx:])
+
+    return intro_ok, article_ok
+
+
+def extract_date(intro: str, nlspa) -> tuple:
+    """ """
+
+    date_list = get_label_(intro, label="DATE", nlspa=nlspa)
+
+    if len(date_list) > 0:
+        date = date_list[0]
+    else:
+        date = -1
+
+    return date, intro
+
+
+def extract_h1(intro: str, nlspa) -> tuple:
+    """ """
+
+    light_intro = clean_very_short_lines(intro)
+    intro_lines = intro.splitlines()
+    idx_list = [
+        i for i, j in enumerate(intro_lines) if "IMMEDIATE RELEASE".lower() in j.lower()
+    ]
+    idx = idx_list[0]
+    h1_lines = intro_lines[idx + 1 :]
+    h1 = ". ".join(h1_lines).strip()
+
+    return h1, intro
+
+
+def structure_press_release(txt, nlspa=""):
+    """ """
+
+    # spacy
+    if not nlspa:
+        nlspa = get_spacy()
+    try:
+        nlspa.add_pipe("sentencizer")
+    except Exception as e:
+        pass
+
+    dd = {
+        "id": "--ERROR--",
+        "date": "--ERROR--",
+        "h1": "--ERROR--",
+        "article": "--ERROR--",
+        "end": "--ERROR--",
+        "error": 0,
+    }
+
+    try:
+
+        # clean
+        cleaned_txt = first_clean(txt)
+
+        # intro article
+        intro, article = split_intro_article(cleaned_txt)
+
+        # date
+        dd["date"], intro = extract_date(intro, nlspa)
+
+        # h1
+        dd["h1"], intro = extract_h1(intro, nlspa)
+
+        # article
+        dd["article"] = article
+
+    except Exception as e:
+        logger.error(e)
+        dd["error"] = e
+
+    return dd

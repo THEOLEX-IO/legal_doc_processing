@@ -130,22 +130,22 @@ def get_spacy():
     return spacy.load("en_core_web_sm")
 
 
-def _if_not_spacy(nlpspa):
+def _if_not_spacy(nlspa):
     """ if  not nlpipeline instance and return it else return pipeline already exists"""
 
-    return nlpspa if nlpspa else get_spacy()
+    return nlspa if nlspa else get_spacy()
 
 
-def get_label_(txt: str, label: str, nlpspa=None) -> list:
+def get_label_(txt: str, label: str, nlspa=None) -> list:
     """check if a label in a text"""
 
     # print(label)
-    nlpspa = _if_not_spacy(nlpspa)
+    nlspa = _if_not_spacy(nlspa)
 
     label = label.upper().strip()
     assert label in ["PERSON", "ORG", "MONEY", "DATE"]
 
-    ans = [i for i in nlpspa(txt).ents if i.label_ == label]
+    ans = [i for i in nlspa(txt).ents if i.label_ == label]
     ans = [str(p) for p in ans]
 
     return ans
@@ -239,16 +239,16 @@ def merge_ans(ans, label="new_answer", threshold=0.1):
     return ll
 
 
-# def get_pers(txt: str, nlpspa=None) -> list:
+# def get_pers(txt: str, nlspa=None) -> list:
 #     """ with spacy get entities PERSON"""
 
-#     return get_label_(txt, "PERSON", nlpspa)
+#     return get_label_(txt, "PERSON", nlspa)
 
 
-# def get_orgs(txt: str, nlpspa=None) -> list:
+# def get_orgs(txt: str, nlspa=None) -> list:
 #     """ with spacy get entities ORG"""
 
-#     return get_label_(txt, "ORG", nlpspa)
+#     return get_label_(txt, "ORG", nlspa)
 
 
 # def clean_spec_chars(text: str) -> tuple:

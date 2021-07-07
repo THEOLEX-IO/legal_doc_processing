@@ -5,6 +5,9 @@ from legal_doc_processing import logger
 
 from legal_doc_processing.utils import get_spacy, get_pipeline, get_label_
 
+from legal_doc_processing.press_release.utils import press_release_X_y
+
+
 from legal_doc_processing.press_release.structure.utils import (
     clean_in_line_break,
     do_strip,
@@ -12,21 +15,27 @@ from legal_doc_processing.press_release.structure.utils import (
 )
 
 
-# def give_cftc_press_release():
-#     """ """
+def give_cftc_press_release_df():
+    """ """
 
-#     fn = "./data/files/cftc/7117-15/press-release.txt"
+    df = press_release_X_y(juridiction="cftc", sample=0.9)
+    cols = ["folder", "press_release_text"]
 
-#     with open(fn, "r") as f:
-#         txt = f.read()
-
-#     btxt = txt.encode("latin-1")
-#     txt_decoded = btxt.decode("utf8")
-
-#     return txt_decoded
+    return df.loc[:, cols]
 
 
-# txt = give_cftc_press_release()
+def give_cftc_press_release_file():
+    """ """
+
+    fn = "./data/files/cftc/7117-15/press-release.txt"
+
+    with open(fn, "r") as f:
+        txt = f.read()
+
+    btxt = txt.encode("latin-1")
+    txt_decoded = btxt.decode("utf8")
+
+    return txt_decoded
 
 
 def first_clean(txt: str) -> str:
@@ -125,7 +134,7 @@ def extract_end(article: str, n: int = -2) -> tuple:
     return end, article_ok
 
 
-def structure_press_release(txt, nslspa=""):
+def structure_press_release(txt, nlspa=""):
     """ """
 
     # spacy
@@ -160,7 +169,7 @@ def structure_press_release(txt, nslspa=""):
         dd["id"], intro_2 = extract_id(intro_1)
 
         # h1
-        dd["h1"], intro_3 = extract_h1(intro_2)
+        dd["h1"], _ = extract_h1(intro_2)
 
         # end
         dd["end"], article_ok = extract_end(article)
@@ -173,3 +182,28 @@ def structure_press_release(txt, nslspa=""):
         dd["error"] = e
 
     return dd
+
+
+if __name__ == "__main__":
+
+    # spac
+    nlspa = get_spacy()
+    nlspa.add_pipe("sentencizer")
+
+    # load data
+    txt = give_cftc_press_release_file()
+    df = give_cftc_press_release_df()
+    df = df.iloc[:10, :]
+
+    # structure
+    struct_ = lambda i: structure_press_release(i, nlspa=nlspa)
+    df["dd"] = df.press_release_text.apply(struct_)
+
+    # extrcat cols
+    col_list = list(df.dd.iloc[0].keys())
+    for col in col_list:
+        df["dd_" + col] = df.dd.apply(lambda i: i.get(col, -42))
+    df.drop("dd", inplace=True, axis=1)
+
+    # save
+    df.to_csv("./data/csv/structure_press_release_cftc.csv", index=False)

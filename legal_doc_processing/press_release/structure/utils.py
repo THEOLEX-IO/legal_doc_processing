@@ -46,39 +46,39 @@ def do_strip(txt: str) -> str:
     return new_txt
 
 
-def find_id_line_in_intro(txt: str, len_max=35) -> str:
-    """ """
+# def find_id_line_in_intro(txt: str, len_max=35) -> str:
+#     """ """
 
-    lines = [i for i in txt.splitlines() if len(i) < len_max]
-    idx_list = [i for i, j in enumerate(lines) if j.lower().startswith("Release".lower())]
-    if len(idx_list) != 1:
-        return -1
-    return idx_list[0]
+#     lines = [i for i in txt.splitlines() if len(i) < len_max]
+#     idx_list = [i for i, j in enumerate(lines) if j.lower().startswith("Release".lower())]
+#     if len(idx_list) != 1:
+#         return -1
+#     return idx_list[0]
 
 
-def find_date_line_in_intro(txt: str, len_max=35) -> str:
-    """ """
+# def find_date_line_in_intro(txt: str, len_max=35) -> str:
+#     """ """
 
-    month_list = [
-        "january",
-        "febr",
-        "march",
-        "april",
-        "may",
-        "june",
-        "july",
-        "august",
-        "september",
-        "october",
-        "novembre",
-        "december",
-    ]
-    lines = [i for i in txt.splitlines() if len(i) < len_max]
-    idx_list = list()
-    for month in month_list:
-        cand_list = [i for i, j in enumerate(lines) if month.lower() in j.lower()]
-        idx_list.extend(cand_list)
+#     month_list = [
+#         "january",
+#         "febr",
+#         "march",
+#         "april",
+#         "may",
+#         "june",
+#         "july",
+#         "august",
+#         "september",
+#         "october",
+#         "novembre",
+#         "december",
+#     ]
+#     lines = [i for i in txt.splitlines() if len(i) < len_max]
+#     idx_list = list()
+#     for month in month_list:
+#         cand_list = [i for i, j in enumerate(lines) if month.lower() in j.lower()]
+#         idx_list.extend(cand_list)
 
-    if len(idx_list) < 1:
-        return -1
-    return idx_list[0]
+#     if len(idx_list) < 1:
+#         return -1
+#     return idx_list[0]

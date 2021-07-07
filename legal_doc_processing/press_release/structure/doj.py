@@ -8,8 +8,6 @@ from legal_doc_processing.utils import get_spacy, get_pipeline, get_label_
 from legal_doc_processing.press_release.structure.utils import (
     clean_in_line_break,
     do_strip,
-    find_id_line_in_intro,
-    find_date_line_in_intro,
     clean_very_short_lines,
 )
 
@@ -99,6 +97,7 @@ def extract_h1(intro: str, nlspa) -> tuple:
     idx = idx_list[0]
     h1_lines = intro_lines[idx + 1 :]
     h1 = ". ".join(h1_lines).strip()
+    h1 = h1 if h1[-1] == "." else h1 + "."
 
     return h1, intro
 

@@ -8,8 +8,6 @@ from legal_doc_processing.utils import get_spacy, get_pipeline, get_label_
 from legal_doc_processing.press_release.structure.utils import (
     clean_in_line_break,
     do_strip,
-    find_id_line_in_intro,
-    find_date_line_in_intro,
     clean_very_short_lines,
 )
 
@@ -22,7 +20,10 @@ from legal_doc_processing.press_release.structure.utils import (
 #     with open(fn, "r") as f:
 #         txt = f.read()
 
-#     return txt
+#     btxt = txt.encode("latin-1")
+#     txt_decoded = btxt.decode("utf8")
+
+#     return txt_decoded
 
 
 # txt = give_cftc_press_release()
@@ -56,12 +57,62 @@ def extract_date(intro: str, nlspa) -> tuple:
 
     date_list = get_label_(intro, label="DATE", nlspa=nlspa)
 
+    # if date_list
     if len(date_list) > 0:
         date = date_list[0]
     else:
         date = -1
 
-    return date, intro
+    # if not return dummy
+    if date == -1:
+        return -1, intro
+
+    # find date_line
+    intro_lines = intro.splitlines()
+    idx_list = [i for i, j in enumerate(intro_lines) if date.lower() in j.lower()]
+    idx = idx_list[0]
+
+    # clean intro
+    intro_lines[idx] = ""
+    intro_ok = "\n".join(intro_lines)
+
+    return date, intro_ok
+
+
+def extract_id(intro: str, len_max=35) -> tuple:
+    """ """
+
+    # find id list
+    # intro_lines = [i for i in intro.splitlines() if len(i) < len_max]
+    intro_lines = [i for i in intro.splitlines()]
+
+    idx_list = [
+        i for i, j in enumerate(intro_lines) if j.lower().startswith("Release".lower())
+    ]
+
+    # return dummy
+    if len(idx_list) != 1:
+        return -1, intro
+
+    # clean intro
+    idx = idx_list[0]
+    _id = intro_lines[idx]
+    intro_lines[idx] = ""
+    intro_ok = "\n".join(intro_lines)
+
+    return _id, intro_ok
+
+
+def extract_h1(intro: str) -> tuple:
+    """ """
+
+    light_intro = clean_very_short_lines(intro)
+    light_intro.replace("\n\n", "\n").replace("\n\n", "\n")
+    intro_lines = light_intro.splitlines()
+    h1 = ". ".join(intro_lines).strip()
+    h1 = h1 if h1[-1] == "." else h1 + "."
+
+    return h1, "-1"
 
 
 def extract_end(article: str, n: int = -2) -> tuple:
@@ -102,33 +153,14 @@ def structure_press_release(txt, nslspa=""):
         # intro article
         intro, article = split_intro_article(cleaned_txt)
 
-        # # id
-        # dd["id"], intro_1 =  extract_id(intro, nlspa)
+        # date
+        dd["date"], intro_1 = extract_date(intro, nlspa)
 
-        # # date
-        # dd["date"], intro_2 =  extract_date(intro_1, nlspa)
-
-        # # h1
-        # dd["h1"], intro_3 = extract_h1(intro_2, nlspa)
-
-        # idx id and date
-        idx_id_line = find_id_line_in_intro(intro)
-        idx_date_line = find_date_line_in_intro(intro)
-
-        # split extract
-        intro_lines = intro.splitlines()
-        if idx_id_line != -1:
-            dd["id"] = intro_lines[idx_id_line]
-
-        if idx_date_line != -1:
-            dd["date"] = intro_lines[idx_date_line]
+        # id
+        dd["id"], intro_2 = extract_id(intro_1)
 
         # h1
-        intro_lines[idx_id_line] = ""
-        intro_lines[idx_date_line] = ""
-
-        intro_intermediate = "\n".join(intro_lines)
-        dd["h1"] = clean_very_short_lines(intro_intermediate)
+        dd["h1"], intro_3 = extract_h1(intro_2)
 
         # end
         dd["end"], article_ok = extract_end(article)

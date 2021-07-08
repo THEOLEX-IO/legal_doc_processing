@@ -5,13 +5,12 @@ from legal_doc_processing.press_release.utils import press_release_X_y
 from legal_doc_processing.press_release.press_release import PressRelease
 
 
-def test_preds(juridiction, nlspa="", nlpipe="", sample=0.25, max_pred_time=11.0):
+def test_init_by(juridiction, nlspa="", nlpipe="", sample=0.25, max_init_time=3.0):
     """ """
 
     assert juridiction in ["cftc", "cfbp", "doj", "sec"]
 
     max_init_time = 3.0
-    max_pred_time = 11.0
 
     from time import time
     from legal_doc_processing import logger
@@ -38,26 +37,14 @@ def test_preds(juridiction, nlspa="", nlpipe="", sample=0.25, max_pred_time=11.0
     # Press Releae
     from legal_doc_processing.press_release.press_release import PressRelease
 
-    make_pr = lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa)
-    df["pr"] = df.press_release_text.apply(make_pr)
-
-    # preds
     t = time()
-    df["preds"] = df.pr.apply(lambda i: i.predict_all())
+    make_pr = lambda i: PressRelease(i, source=juridiction, nlpipe=nlpipe, nlspa=nlspa)
+    df["pr"] = df.press_release_text.apply(make_pr)
     tt, ttt = round(time() - t, 2), round((time() - t) / len(df), 2)
-    print(f"time: {tt}s, average pred: {ttt}s (max_pred_time: {max_pred_time})s")
-    assert ttt < max_pred_time
+    print(f"time: {tt}s, avg obj init: {ttt}s (max_init_time: {max_init_time})s")
+    assert ttt < max_init_time
 
-    # labels vs "preds"
-    preds_labels = list(df.preds.iloc[0].keys())
-    for k in preds_labels:
-        df["pred_" + k] = df.preds.apply(lambda i: i[k])
-
-    # externize
-    cols = ["pr", "preds", "press_release_text"]
-    _df = df.drop(cols, axis=1, inplace=False)
-    fn = f"./tmp/preds_press_release_{juridiction}_{len(_df)}_lines.csv"
-    _df.to_csv(fn, index=False)
+    return df
 
 
 if __name__ == "__main__":
@@ -73,4 +60,4 @@ if __name__ == "__main__":
     # auth_list = ["cftc", "cfbp", "doj", "sec"]
     # _ = [test_preds(i, sample=0.1, nlspa=nlspa, nlpipe=nlpipe) for i in auth_list]
 
-    test_preds("doj", sample=0.1, nlspa=nlspa, nlpipe=nlpipe)
+    test_init_by("cftc", sample=0.1, nlspa=nlspa, nlpipe=nlpipe)

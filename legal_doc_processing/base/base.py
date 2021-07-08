@@ -343,7 +343,7 @@ class Base:
         return self.__repr__()
 
 
-def base_from_text(text: str, source, Object, source, nlpipe=None, nlspa=None):
+def base_from_text(text: str, source, Object, nlpipe=None, nlspa=None):
     """ """
 
     try:

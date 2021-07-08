@@ -13,7 +13,7 @@ class PressRelease(Base):
     def __init__(
         self,
         text: str,
-        source: str = None,
+        source: str,
         nlpipe=None,
         nlspa=None,
         n_lines: int = 6,

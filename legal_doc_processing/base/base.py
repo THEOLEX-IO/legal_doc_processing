@@ -290,36 +290,24 @@ class Base:
             setattr(self, "_extracted_violations", val)
 
         if feature in self.feature_list:
-            # try:
-            val = self._predict[feature](self.data)
+            try:
+                val = self._predict[feature](self.data)
+            except Exception as e:
+                val = [("--Error-- " + str(e), -1)]
             setattr(self, "_" + feature, val)
             return val
-            # except:
-            #     return "--Error--"
+
         return "--Unknowned feature--"
 
     def predict_all(self) -> str:
         """return self.predict("all") """
 
         for feature in self.feature_list:
-            setattr(self, "_" + feature, self._predict[feature](self.data))
-
-        # DEPRECATED
-        # self._code_law_violation = self._predict["code_law_violation"](self.data)
-        # self._country_of_violation = self._predict["country_of_violation"](self.data)
-        # self._currency = self._predict["currency"](self.data)
-        # self._decision_date = self._predict["decision_date"](self.data)
-        # self._defendant = self._predict["defendant"](self.data)
-        # self._extracted_authorities = self._predict["extracted_authorities"](self.data)
-        # self._id = self._predict["id"](self.data)
-        # self._juridiction = self._predict["juridiction"](self.data)
-        # self._monetary_sanction = self._predict["monetary_sanction"](self.data)
-        # self._nature_of_violations = self._predict["nature_of_violations"](self.data)
-        # self._plaintiff = self._predict["plaintiff"](self.data)
-        # self._reference = self._predict["reference"](self.data)
-        # self._sentence = self._predict["sentence"](self.data)
-        # # self._violation_date = self._predict["violation_date"](self.data)
-
+            try:
+                val = self._predict[feature](self.data)
+            except Exception as e:
+                val = [("--Error-- " + str(e), -1)]
+            setattr(self, "_" + feature, val)
         return self.feature_dict
 
     ######################

@@ -17,6 +17,7 @@ from legal_doc_processing.press_release.structure.sec_model_1 import (
     split_intro_article_1,
     extract_id_1,
     extract_h1_1,
+    extract_date_1,
 )
 
 
@@ -107,13 +108,17 @@ def structure_press_release(txt, nlspa=""):
         dd["h1"], _ = extract_h1_1(intro_2)
         dd["error"] = "last line ok 108 "
 
+        # h1
+        dd["date"], _ = extract_date_1(article, nlspa)
+        dd["error"] = "last line ok 113 "
+
         # clean article
         cleaned_article = clean_in_line_break(article)
-        dd["error"] = "last line ok 112 "
+        dd["error"] = "last line ok 117 "
 
         # article
         dd["article"] = cleaned_article
-        dd["error"] = "last line ok 115 "
+        dd["error"] = "last line ok 121 "
 
         dd["error"] = 0
 

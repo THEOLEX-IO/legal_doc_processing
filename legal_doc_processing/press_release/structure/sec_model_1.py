@@ -3,6 +3,8 @@ from pprint import pformat, pprint
 
 from legal_doc_processing import logger
 
+from legal_doc_processing.utils import get_label_
+
 from legal_doc_processing.press_release.structure.utils import (
     clean_in_line_break,
     do_strip,
@@ -60,6 +62,16 @@ def extract_id_1(intro: str) -> tuple:
     intro_ok = "\n".join(intro_lines)
 
     return _id, intro_ok
+
+
+def extract_date_1(article: str, nlspa) -> tuple:
+    """ """
+
+    date_list = get_label_(article, label="DATE", nlspa=nlspa)
+    if not len(date_list) > 0:
+        return -1, article
+
+    return date_list[0], article
 
 
 def extract_h1_1(intro: str) -> tuple:

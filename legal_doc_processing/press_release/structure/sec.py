@@ -14,6 +14,9 @@ from legal_doc_processing.press_release.structure.utils import (
 )
 
 
+from legal_doc_processing.press_release.structure.sec_model_1 import *
+
+
 def give_sec_press_release_df():
     """ """
 
@@ -31,10 +34,7 @@ def give_sec_press_release_file():
     with open(fn, "r") as f:
         txt = f.read()
 
-    btxt = txt.encode("latin-1")
-    txt_decoded = btxt.decode("utf8")
-
-    return txt_decoded
+    return txt
 
 
 def first_clean(txt: str) -> str:
@@ -61,29 +61,6 @@ def define_sec_press_release_model(txt):
         return 2
 
 
-def split_intro_article(txt: str, n=30) -> str:
-    """ """
-
-    txt_lines_30 = txt.splitlines()[:n]
-
-    s0, s1, s2 = ("Washington D", "Washington, D", "Washington,D")
-    is_in = lambda j: any([(j.startswith(s.lower())) for s in [s0, s1, s2]])
-    idx_cands = [i for i, j in enumerate(txt_lines_30) if is_in(j.lower())]
-
-    if not len(idx_cands):
-        s = "washington"
-        idx_cands = [i for i, j in enumerate(txt_lines_30) if j.lower().startswith(s)]
-
-    idx = idx_cands[0]
-
-    txt_lines = txt.splitlines()
-    intro_lines, article_lines = txt_lines[:idx], txt_lines[idx:]
-
-    intro, article = "\n".join(intro_lines), "\n".join(article_lines)
-
-    return intro, article
-
-
 def structure_press_release(txt, nlspa=""):
     """ """
 
@@ -107,15 +84,40 @@ def structure_press_release(txt, nlspa=""):
     sec_model = define_sec_press_release_model(txt)
 
     if sec_model == 2:
-
         dd["error"] = "Model not implemented"
         return dd
 
     try:
+        # clean
         cleaned_txt = first_clean(txt)
+
+        # intro article
+        intro, article = split_intro_article_1(cleaned_txt)
+
+        # id
+        dd["id"], intro_2 = extract_id_1(intro_1)
+
+        # h1
+        dd["h1"], _ = extract_h1_1(intro_2)
 
     except Exception as e:
         logger.error(e)
         dd["error"] = e
 
     return dd
+
+
+if __name__ == "__main__":
+
+    # spac
+    nlspa = get_spacy()
+    nlspa.add_pipe("sentencizer")
+
+    # load data
+    txt = give_sec_press_release_file()
+    df = give_sec_press_release_df()
+    df = df.iloc[:30, :]
+
+    # # structure
+    # struct_ = lambda i: structure_press_release(i, nlspa=nlspa)
+    # df["dd"] = df.press_release_text.apply(struct_)

@@ -1,4 +1,5 @@
 import re
+from typing import Text, TextIO
 
 from legal_doc_processing import logger
 
@@ -20,6 +21,15 @@ def handle_fake_break(txt: str):
     ##########################
 
     #  YOUR CODE HERE :)
+    txt=re.sub("[A-Z]*\n(\n)", "#", txt, count=1)
+    txt=re.sub("[A-Z]*\n[A-Z]", " ", txt)
+    #txt.replace("\n"," ")
+    #txt=re.sub(r"\n", " ", txt)
+    # txt1 = ' '.join(txt.splitlines())
+    # txt1=re.sub('\s+','\n\n',txt1)
+    re.sub(r"#", "\n\n", txt)
+    print(txt)
+
 
     ##########################
 

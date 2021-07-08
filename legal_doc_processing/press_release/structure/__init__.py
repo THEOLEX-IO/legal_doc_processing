@@ -9,6 +9,14 @@ from legal_doc_processing.press_release.structure.doj import (
     structure_press_release as structure_doj,
 )
 
+from legal_doc_processing.press_release.structure.cfbp import (
+    structure_press_release as structure_cfbp,
+)
+
+from legal_doc_processing.press_release.structure.sec import (
+    structure_press_release as structure_sec,
+)
+
 
 def structure_press_release(txt, nlspa=""):
     """ """
@@ -32,8 +40,18 @@ def structure_press_release(txt, nlspa=""):
         ["DOJ", "Department of Justice"],
     )
 
+    cfbp_pairs = (
+        "cfbp",
+        ["CFBP", "Consumer Financial Protection Bureau"],
+    )
+
+    sec_pairs = (
+        "sec",
+        ["Securities and Exchange Commission", "S.E.C", " SEC"],
+    )
+
     # pairs and cands
-    pairs = [cftc_pairs, doj_pairs]
+    pairs = [cftc_pairs, doj_pairs, cfbp_pairs, sec_pairs]
     final_cands = list()
 
     # find a auth
@@ -45,7 +63,11 @@ def structure_press_release(txt, nlspa=""):
     auth = final_cands[0]
 
     # return funct
-    if auth == "doj":
-        return structure_doj(txt, nlspa=nlspa)
+    if auth == "cfbp":
+        return structure_cfbp(txt, nlspa=nlspa)
     if auth == "cftc":
         return structure_cftc(txt, nlspa=nlspa)
+    if auth == "doj":
+        return structure_doj(txt, nlspa=nlspa)
+    if auth == "sec":
+        return structure_sec(txt, nlspa=nlspa)

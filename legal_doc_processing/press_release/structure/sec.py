@@ -138,7 +138,7 @@ if __name__ == "__main__":
     # load data
     txt = give_sec_press_release_file()
     df = give_sec_press_release_df()
-    df = df.iloc[:100, :]
+    # df = df.iloc[:100, :]
 
     # structure
     struct_ = lambda i: structure_press_release(i, nlspa=nlspa)

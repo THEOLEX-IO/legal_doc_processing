@@ -210,7 +210,7 @@ if __name__ == "__main__":
     # load data
     txt = give_cftc_press_release_file()
     df = give_cftc_press_release_df()
-    df = df.iloc[:30, :]
+    # df = df.iloc[:30, :]
 
     # structure
     struct_ = lambda i: structure_press_release(i, nlspa=nlspa)

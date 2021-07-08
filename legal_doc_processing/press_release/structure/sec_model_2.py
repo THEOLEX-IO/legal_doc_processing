@@ -138,7 +138,18 @@ def extract_h1_2(intro: str) -> tuple:
     post_txt_lines = intro_lines[idx_v_plus_1:]
 
     # clean
-    clean_list = ["CV-", "Case No.", "Release"]
+    clean_list = [
+        "CV-",
+        "Case No.",
+        "Release",
+        "No.",
+        "United States District",
+        "(GEB)",
+        "D.N.J.",
+        "ET AL",
+        "U.S.D.C.",
+        "D.D.C.)",
+    ]
     for clean_i in clean_list:
         post_txt_lines = [i for i in post_txt_lines if clean_i.lower() not in i.lower()]
 

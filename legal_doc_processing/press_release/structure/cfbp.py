@@ -139,7 +139,7 @@ def structure_press_release(txt, nlspa=""):
         "h1": "--ERROR--",
         "article": "--ERROR--",
         "end": "--ERROR--",
-        "error": 0,
+        "error": "0",
     }
 
     try:
@@ -163,7 +163,7 @@ def structure_press_release(txt, nlspa=""):
         # article
         dd["article"] = cleaned_article
 
-        dd["error"] = 0
+        dd["error"] = "0"
 
     except Exception as e:
         logger.error(e)

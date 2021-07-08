@@ -136,7 +136,7 @@ def structure_press_release(txt, nlspa=""):
         "h1": "--ERROR--",
         "article": "--ERROR--",
         "end": "--ERROR--",
-        "error": 0,
+        "error": "0",
     }
 
     sec_model = define_sec_press_release_model(txt)
@@ -164,7 +164,7 @@ def structure_press_release(txt, nlspa=""):
             dd["article"] = cleaned_article
             # dd["error"] = "last line ok 121 "
 
-            dd["error"] = 0
+            dd["error"] = "0"
 
         except Exception as e:
             logger.error(e)
@@ -200,7 +200,7 @@ def structure_press_release(txt, nlspa=""):
             dd["article"] = cleaned_article
             # dd["error"] = "last line ok 121 "
 
-            dd["error"] = 0
+            dd["error"] = "0"
 
         except Exception as e:
             logger.error(e)

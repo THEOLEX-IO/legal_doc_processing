@@ -18,7 +18,7 @@ from legal_doc_processing.press_release.structure.sec import (
 )
 
 
-def structure_press_release(txt, nlspa=""):
+def structure_press_release(txt, juridiction="", nlspa=None):
     """ """
 
     # spacy
@@ -29,6 +29,17 @@ def structure_press_release(txt, nlspa=""):
     except Exception as e:
         pass
 
+    # if  juridiction --> EASY
+    if juridiction == "cfbp":
+        return structure_cfbp(txt, nlspa=nlspa)
+    if juridiction == "cftc":
+        return structure_cftc(txt, nlspa=nlspa)
+    if juridiction == "doj":
+        return structure_doj(txt, nlspa=nlspa)
+    if juridiction == "sec":
+        return structure_sec(txt, nlspa=nlspa)
+
+    # ELSE TRY TO FIND JURIDICTION
     # identifiers
     cftc_pairs = (
         "cftc",

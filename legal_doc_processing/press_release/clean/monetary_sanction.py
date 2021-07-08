@@ -28,7 +28,7 @@ def _cast_as_int(cleaned_ans):
     cleaned_ans = [
         i.replace("$", "").replace("€", "").replace("£", "") for i in cleaned_ans
     ]
-    # logger.info(f"cleaned_ans: {cleaned_ans} ")
+    logger.info(f"cleaned_ans: {cleaned_ans} ")
 
     # SPECIAL CASE :hundred of million
     spec_case = (
@@ -50,7 +50,7 @@ def _cast_as_int(cleaned_ans):
         .replace("hundreds", "hundred")
         for i in cleaned_ans
     ]
-    # logger.info(f"cleaned_ans: {cleaned_ans} ")
+    logger.info(f"cleaned_ans: {cleaned_ans} ")
 
     cleaned_ans_multi = list()
     for ans in cleaned_ans:

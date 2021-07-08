@@ -73,7 +73,7 @@ def test_structure(juridiction, sample=0.99, nlspa=""):
 
     # save
     logger.info("save")
-    fn = f"./data/csv/structure_press_release_{juridiction}_{len(df)}_lines.csv"
+    fn = f"./tmp/structure_press_release_{juridiction}_{len(df)}_lines.csv"
     df.to_csv(fn, index=False)
 
 
@@ -81,7 +81,6 @@ if __name__ == "__main__":
 
     from time import time
     from legal_doc_processing import logger
-
     from legal_doc_processing.utils import get_spacy
 
     nlspa = get_spacy()

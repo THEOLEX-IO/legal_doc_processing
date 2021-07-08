@@ -1,5 +1,6 @@
 import os
 from pprint import pformat, pprint
+import random
 
 from legal_doc_processing import logger
 
@@ -21,6 +22,14 @@ from legal_doc_processing.press_release.structure.sec_model_1 import (
 )
 
 
+from legal_doc_processing.press_release.structure.sec_model_2 import (
+    split_intro_article_2,
+    extract_id_2,
+    extract_h1_2,
+    extract_date_2,
+)
+
+
 def give_sec_press_release_df():
     """ """
 
@@ -30,10 +39,55 @@ def give_sec_press_release_df():
     return df.loc[:, cols]
 
 
-def give_sec_press_release_file():
+def give_sec_press_release_file(model=1):
     """ """
 
-    fn = "./data/files/sec/2020-144/press-release.txt"
+    if model == 1:
+
+        folder_list = [
+            "2020-177",
+            "2017-133",
+            "2016-64",
+            "2019-260",
+            "2018-212",
+            "2011-146",
+            "2015-170",
+            "2019-102",
+            "2016-224",
+            "2017-18",
+            "2015-165",
+            "2019-260",
+            "2019-260",
+            "2020-254",
+            "2019-12",
+            "2011-87",
+            "2012-266",
+            "2011-87",
+            "2017-18",
+            "2015-170",
+        ]
+
+    else:
+        folder_list = [
+            "lr17887",
+            "lr21920",
+            "lr20029",
+            "lr21156",
+            "lr20319",
+            "lr21920",
+            "lr21617",
+            "lr18081",
+            "lr20029",
+            "lr21617",
+            "lr21920",
+            "lr20835",
+            "lr17887",
+            "lr20319",
+            "lr21229",
+        ]
+
+    folder = random.choice(folder_list)
+    fn = f"./data/files/sec/{folder}/press-release.txt"
 
     with open(fn, "r") as f:
         txt = f.read()
@@ -88,43 +142,68 @@ def structure_press_release(txt, nlspa=""):
     sec_model = define_sec_press_release_model(txt)
 
     if sec_model == 2:
-        dd["error"] = "Model not implemented"
-        return dd
+        try:
 
-    try:
-        # clean
-        cleaned_txt = first_clean(txt)
-        # dd["error"] = "last line ok 96 "
+            # clean
+            cleaned_txt = first_clean(txt)
 
-        # intro article
-        intro, article = split_intro_article_1(cleaned_txt)
-        # dd["error"] = "last line ok 100 "
+            # intro article
+            intro, article = split_intro_article_2(cleaned_txt)
 
-        # id
-        dd["folder"], intro_2 = extract_id_1(intro)
-        # dd["error"] = "last line ok 104 "
+            # date
+            dd["date"], intro_1 = extract_date_2(intro, nlspa)
 
-        # h1
-        dd["h1"], _ = extract_h1_1(intro_2)
-        # dd["error"] = "last line ok 108 "
+            # h1
+            dd["h1"], _ = extract_h1_2(intro_1)
 
-        # h1
-        dd["date"], _ = extract_date_1(article, nlspa)
-        # dd["error"] = "last line ok 113 "
+            # clean article
+            cleaned_article = clean_in_line_break(article)
+            # dd["error"] = "last line ok 117 "
 
-        # clean article
-        cleaned_article = clean_in_line_break(article)
-        # dd["error"] = "last line ok 117 "
+            # article
+            dd["article"] = cleaned_article
+            # dd["error"] = "last line ok 121 "
 
-        # article
-        dd["article"] = cleaned_article
-        # dd["error"] = "last line ok 121 "
+        except Exception as e:
+            logger.error(e)
+            dd["error"] += str(e)
 
-        dd["error"] = 0
+    if sec_model == 1:
+        try:
 
-    except Exception as e:
-        logger.error(e)
-        dd["error"] += str(e)
+            # clean
+            cleaned_txt = first_clean(txt)
+            # dd["error"] = "last line ok 96 "
+
+            # intro article
+            intro, article = split_intro_article_2(cleaned_txt)
+            # dd["error"] = "last line ok 100 "
+
+            # date
+            dd["date"], intro_1 = extract_date_2(intro, nlspa)
+            # dd["error"] = "last line ok 113 "
+
+            # h1
+            dd["h1"], _ = extract_h1_2(intro_1)
+            # dd["error"] = "last line ok 108 "
+
+            # h1
+            dd["date"], _ = extract_date_1(article, nlspa)
+            # dd["error"] = "last line ok 113 "
+
+            # clean article
+            cleaned_article = clean_in_line_break(article)
+            # dd["error"] = "last line ok 117 "
+
+            # article
+            dd["article"] = cleaned_article
+            # dd["error"] = "last line ok 121 "
+
+            dd["error"] = 0
+
+        except Exception as e:
+            logger.error(e)
+            dd["error"] += str(e)
 
     return dd
 
@@ -136,7 +215,7 @@ if __name__ == "__main__":
     nlspa.add_pipe("sentencizer")
 
     # load data
-    txt = give_sec_press_release_file()
+    txt = give_sec_press_release_file(2)
     df = give_sec_press_release_df()
     # df = df.iloc[:100, :]
 
@@ -151,4 +230,4 @@ if __name__ == "__main__":
     df.drop("dd", inplace=True, axis=1)
 
     # save
-    df.to_csv("./data/csv/structure_press_release_sec.csv", index=False)
+    df.to_csv("./tmp/_WIP_structure_press_release_sec.csv", index=False)

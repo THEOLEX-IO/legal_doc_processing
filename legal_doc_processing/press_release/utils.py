@@ -85,6 +85,8 @@ def get_entities_pers_orgs(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None)
 def press_release_X_y(juridiction="", features="", sample=1.0):
     """ """
 
+    assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
+
     # main
     main_df = main_X_y()
 
@@ -93,11 +95,14 @@ def press_release_X_y(juridiction="", features="", sample=1.0):
 
     # juridiction
     filter_jur = lambda i: juridiction.strip().lower() == str(i).strip().lower()
-    jur_df = (
-        main_df.loc[main_df["juridiction"].apply(filter_jur), :]
-        if juridiction
-        else main_df
-    )
+    if juridiction:
+        jur_df = (
+            main_df.loc[main_df["juridiction"].apply(filter_jur), :]
+            if juridiction
+            else main_df
+        )
+    else:
+        jur_df = pd.DataFrame(main_df)
 
     # sample
     jur_df = jur_df.sample(frac=sample).reset_index(drop=True)

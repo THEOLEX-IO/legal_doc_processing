@@ -5,10 +5,10 @@ from legal_doc_processing.press_release.utils import press_release_X_y
 from legal_doc_processing._press_release import PressRelease
 
 
-def test_init_by(juridiction, nlspa="", nlpipe="", sample=0.25, max_init_time=3.0):
+def test_init_by(juridiction="", nlspa="", nlpipe="", sample=0.25, max_init_time=3.0):
     """ """
 
-    assert juridiction in ["cftc", "cfbp", "doj", "sec"]
+    assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
 
     max_init_time = 3.0
 
@@ -38,8 +38,14 @@ def test_init_by(juridiction, nlspa="", nlpipe="", sample=0.25, max_init_time=3.
     from legal_doc_processing._press_release import PressRelease
 
     t = time()
-    make_pr = lambda i: PressRelease(i, source=juridiction, nlpipe=nlpipe, nlspa=nlspa)
-    df["pr"] = df.press_release_text.apply(make_pr)
+    juri = juridiction
+    if juridiction:
+        make_pr = lambda i: PressRelease(i, source=juri, nlpipe=nlpipe, nlspa=nlspa)
+        df["pr"] = df.press_release_text.apply(make_pr)
+    else:
+        make_pr = lambda i, j: PressRelease(i, source=j, nlpipe=nlpipe, nlspa=nlspa)
+        df["pr"] = [make_pr(i, j) for i, j in zip(df.press_release_text, df.juridiction)]
+
     tt, ttt = round(time() - t, 2), round((time() - t) / len(df), 2)
     print(
         f"time: {tt}s, n objs : {len(df)}, avg obj init: {ttt}s (max_init_time: {max_init_time})s"
@@ -62,4 +68,4 @@ if __name__ == "__main__":
     # auth_list = ["cftc", "cfbp", "doj", "sec"]
     # _ = [test_preds(i, sample=0.1, nlspa=nlspa, nlpipe=nlpipe) for i in auth_list]
 
-    # test_init_by("cftc", sample=1.0, nlspa=nlspa, nlpipe=nlpipe)
+    df = test_init_by(sample=0.25, nlspa=nlspa, nlpipe=nlpipe)

@@ -5,10 +5,10 @@ from legal_doc_processing.press_release.utils import press_release_X_y
 from legal_doc_processing._press_release import PressRelease
 
 
-def test_preds_by(juridiction, nlspa="", nlpipe="", sample=0.25, max_pred_time=11.0):
+def test_preds_by(juridiction="", nlspa="", nlpipe="", sample=0.25, max_pred_time=11.0):
     """ """
 
-    assert juridiction in ["cftc", "cfbp", "doj", "sec"]
+    assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
 
     max_pred_time = 11.0
 
@@ -37,8 +37,12 @@ def test_preds_by(juridiction, nlspa="", nlpipe="", sample=0.25, max_pred_time=1
     # Press Releae
     from legal_doc_processing._press_release import PressRelease
 
-    make_pr = lambda i: PressRelease(i, source=juridiction, nlpipe=nlpipe, nlspa=nlspa)
-    df["pr"] = df.press_release_text.apply(make_pr)
+    if juridiction:
+        make_pr = lambda i: PressRelease(i, source=juri, nlpipe=nlpipe, nlspa=nlspa)
+        df["pr"] = df.press_release_text.apply(make_pr)
+    else:
+        make_pr = lambda i, j: PressRelease(i, source=j, nlpipe=nlpipe, nlspa=nlspa)
+        df["pr"] = [make_pr(i, j) for i, j in zip(df.press_release_text, df.juridiction)]
 
     # preds
     t = time()
@@ -71,7 +75,7 @@ if __name__ == "__main__":
     nlspa = get_spacy()
     nlspa.add_pipe("sentencizer")
 
-    # auth_list = ["cftc", "cfbp", "doj", "sec"]
-    # _ = [test_preds(i, sample=0.1, nlspa=nlspa, nlpipe=nlpipe) for i in auth_list]
+    auth_list = ["cftc", "cfbp", "doj", "sec"]
+    _ = [test_preds_by(i, sample=0.1, nlspa=nlspa, nlpipe=nlpipe) for i in auth_list]
 
-    test_preds_by("cftc", sample=0.1, nlspa=nlspa, nlpipe=nlpipe)
+    # test_preds_by("cftc", sample=0.1, nlspa=nlspa, nlpipe=nlpipe)

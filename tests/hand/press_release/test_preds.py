@@ -79,4 +79,4 @@ if __name__ == "__main__":
     # auth_list = ["cftc", "cfbp", "doj", "sec"]
     # _ = [test_init_pred(i, sample=0.1, nlspa=nlspa, nlpipe=nlpipe) for i in auth_list]
 
-    test_init_pred("sec", nlspa=nlspa)
+    test_init_pred("doj", sample=0.1, nlspa=nlspa, nlpipe=nlpipe)

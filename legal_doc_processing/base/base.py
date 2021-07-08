@@ -6,14 +6,7 @@ from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_, stri
 from legal_doc_processing.utils import uniquize as _u
 
 from legal_doc_processing.press_release.structure import structure_press_release
-
-
-class BasePredict:
-    """ container for predict function """
-
-    def __init__(self):
-
-        pass
+from legal_doc_processing.legal_doc.structure import structure_legal_doc
 
 
 class BaseData:
@@ -61,9 +54,12 @@ class Base:
         # args check
         juridiction_list = ["cftc", "doj", "sec", "cfbp"]
         juridiction_cands = [i for i in juridiction_list if i in source]
-        assert any(juridiction_cands)
+        if not any(juridiction_cands):
+            raise AttributeError(f"source arg must refers to one of {juridiction_list}")
         juridiction = juridiction_cands[0]
-        assert obj_name in ["PressRelease", "Decision", "LegalDoc"]
+        obj_name_list = ["PressRelease", "Decision", "LegalDoc"]
+        if not obj_name in obj_name_list:
+            raise AttributeError(f"obj_name arg must refers to one of {obj_name_list}")
 
         # args as attr
         self.obj_name = obj_name

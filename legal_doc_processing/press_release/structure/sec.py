@@ -13,8 +13,11 @@ from legal_doc_processing.press_release.structure.utils import (
     clean_very_short_lines,
 )
 
-
-from legal_doc_processing.press_release.structure.sec_model_1 import *
+from legal_doc_processing.press_release.structure.sec_model_1 import (
+    split_intro_article_1,
+    extract_id_1,
+    extract_h1_1,
+)
 
 
 def give_sec_press_release_df():
@@ -90,19 +93,33 @@ def structure_press_release(txt, nlspa=""):
     try:
         # clean
         cleaned_txt = first_clean(txt)
+        dd["error"] = "last line ok 96 "
 
         # intro article
         intro, article = split_intro_article_1(cleaned_txt)
+        dd["error"] = "last line ok 100 "
 
         # id
         dd["id"], intro_2 = extract_id_1(intro)
+        dd["error"] = "last line ok 104 "
 
         # h1
         dd["h1"], _ = extract_h1_1(intro_2)
+        dd["error"] = "last line ok 108 "
+
+        # clean article
+        cleaned_article = clean_in_line_break(article)
+        dd["error"] = "last line ok 112 "
+
+        # article
+        dd["article"] = cleaned_article
+        dd["error"] = "last line ok 115 "
+
+        dd["error"] = 0
 
     except Exception as e:
         logger.error(e)
-        dd["error"] = e
+        dd["error"] += str(e)
 
     return dd
 
@@ -116,8 +133,17 @@ if __name__ == "__main__":
     # load data
     txt = give_sec_press_release_file()
     df = give_sec_press_release_df()
-    df = df.iloc[:30, :]
+    df = df.iloc[:100, :]
 
-    # # structure
-    # struct_ = lambda i: structure_press_release(i, nlspa=nlspa)
-    # df["dd"] = df.press_release_text.apply(struct_)
+    # structure
+    struct_ = lambda i: structure_press_release(i, nlspa=nlspa)
+    df["dd"] = df.press_release_text.apply(struct_)
+
+    # extrcat cols
+    col_list = list(df.dd.iloc[0].keys())
+    for col in col_list:
+        df["dd_" + col] = df.dd.apply(lambda i: i.get(col, -42))
+    df.drop("dd", inplace=True, axis=1)
+
+    # save
+    df.to_csv("./data/csv/structure_press_release_sec.csv", index=False)

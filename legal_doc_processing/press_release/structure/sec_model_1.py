@@ -43,7 +43,9 @@ def extract_id_1(intro: str) -> tuple:
     logger.info(intro_cleaned_lines)
 
     # find idx and _id
-    cond_ok = lambda i: (("201" in i) + ("202" in i)) * ("-" in i)
+    cond_ok = lambda i: (
+        ("198" in i) + ("199" in i) + ("200" in i) + ("201" in i) + ("202" in i)
+    ) * ("-" in i)
 
     idx_cands = [i for i, j in enumerate(intro_cleaned_lines) if cond_ok(j)]
     logger.info(idx_cands)
@@ -67,8 +69,10 @@ def extract_h1_1(intro: str) -> tuple:
     light_intro.replace("\n\n", "\n").replace("\n\n", "\n")
     intro_lines = light_intro.splitlines()
 
-    intro_lines = [i for i in intro_lines if "Press Release".lower() not in i.lower()]
-    intro_lines = [i for i in intro_lines if "immediate Release".lower() not in i.lower()]
+    # clean
+    del_list = ["Press Release", "immediate Release", "Home"]
+    for item in del_list:
+        intro_lines = [i for i in intro_lines if item.lower() not in i.lower()]
 
     h1 = ". ".join(intro_lines).strip()
     h1 = h1 if h1[-1] == "." else h1 + "."

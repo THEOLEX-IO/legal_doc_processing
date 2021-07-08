@@ -76,5 +76,7 @@ if __name__ == "__main__":
     nlspa = get_spacy()
     nlspa.add_pipe("sentencizer")
 
-    auth_list = ["cftc", "cfbp", "doj", "sec"]
-    _ = [test_init_pred(i, sample=0.1, nlspa=nlspa, nlpipe=nlpipe) for i in auth_list]
+    # auth_list = ["cftc", "cfbp", "doj", "sec"]
+    # _ = [test_init_pred(i, sample=0.1, nlspa=nlspa, nlpipe=nlpipe) for i in auth_list]
+
+    test_init_pred("sec", nlspa=nlspa)

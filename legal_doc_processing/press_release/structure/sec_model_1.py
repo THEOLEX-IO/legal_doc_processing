@@ -74,7 +74,10 @@ def extract_h1_1(intro: str) -> tuple:
     for item in del_list:
         intro_lines = [i for i in intro_lines if item.lower() not in i.lower()]
 
-    h1 = ". ".join(intro_lines).strip()
+    h1 = " ".join(intro_lines).strip()
     h1 = h1 if h1[-1] == "." else h1 + "."
+
+    if h1.startswith("r "):
+        h1 = h1[2:]
 
     return h1, "-1"

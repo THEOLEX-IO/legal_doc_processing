@@ -1,5 +1,7 @@
 import os
 
+import requests
+
 from legal_doc_processing import logger
 
 from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_, strize
@@ -7,6 +9,8 @@ from legal_doc_processing.utils import uniquize as _u
 
 from legal_doc_processing.press_release.structure import structure_press_release
 from legal_doc_processing.legal_doc.structure import structure_legal_doc
+
+from legal_doc_processing.base.predict import predict_handler
 
 
 class BaseData:
@@ -25,27 +29,6 @@ class Base:
         text: str,
         source: str,  # filename OR url with cftc doj ... in
         obj_name: str,  # PressRelesae or LegalDoc or Decision
-        # all function could be One line with BasePredict object
-        predict_compliance_obligations,
-        predict_cooperation_credit,
-        predict_court,
-        predict_country_of_violation,
-        predict_currency,
-        predict_decision_date,
-        predict_defendant,
-        predict_extracted_authorities,
-        predict_extracted_violations,
-        predict_folder,
-        predict_judge,
-        predict_justice_type,
-        predict_monetary_sanction,
-        predict_monitor,
-        predict_nature_de_sanction,
-        predict_nature_of_violations,
-        predict_penalty_details,
-        predict_reference,
-        predict_type,
-        # predict_violation_date,
         nlpipe=None,
         nlspa=None,
     ):
@@ -66,6 +49,11 @@ class Base:
         self.juridiction = juridiction
         self.source = source
 
+        # text
+        self.raw_text = text
+        self.h1 = ""
+        self.abstract = ""
+
         # pipe and spacy
         self.nlpipe = nlpipe if nlpipe else get_pipeline()
         self.nlspa = nlspa if nlspa else get_spacy()
@@ -76,9 +64,7 @@ class Base:
 
         ######################
 
-        # text and clean
-        self.raw_text = text
-
+        # structure doc
         if obj_name == "PressRelease":
 
             self.struct_text = structure_press_release(
@@ -92,34 +78,10 @@ class Base:
         if obj_name == "Decision":
             self.struct_text = {}
 
-        self.h1 = ""
-        self.abstract = ""
-
         ######################
 
         # prediction methods
-        self._predict = {
-            "compliance_obligations": predict_compliance_obligations,
-            "cooperation_credit": predict_cooperation_credit,
-            "court": predict_court,
-            "country_of_violation": predict_country_of_violation,
-            "currency": predict_currency,
-            "decision_date": predict_decision_date,
-            "defendant": predict_defendant,
-            "extracted_authorities": predict_extracted_authorities,
-            "extracted_violations": predict_extracted_violations,
-            "folder": predict_folder,
-            "judge": predict_judge,
-            "justice_type": predict_justice_type,
-            "monetary_sanction": predict_monetary_sanction,
-            "monitor": predict_monitor,
-            "nature_de_sanction": predict_nature_de_sanction,
-            "nature_of_violations": predict_nature_of_violations,
-            "penalty_details": predict_penalty_details,
-            "reference": predict_reference,
-            "type": predict_type,
-            # "violation_date ": predict_violation_date,
-        }
+        self._predict = predict_handler(obj_name)
 
         ######################
 
@@ -373,7 +335,7 @@ class Base:
         _pipe = "OK" if self.nlpipe else self.nlpipe
         _spa = "OK" if self.nlspa else self.nlspa
         _feat_dict = {k: v[:8] for k, v in self.feature_dict.items()}
-        return f"{self.obj_name}(path:{self.file_path}, file:{self.file_name}, {_feat_dict}, pipe/spacy:{_pipe}/{_spa}"
+        return f"{self.obj_name}(source:{self.source}, {_feat_dict}, pipe/spacy:{_pipe}/{_spa}"
 
     def __str__(self):
         """__str__ method """
@@ -381,22 +343,30 @@ class Base:
         return self.__repr__()
 
 
-def base_from_text(text: str, Object, nlpipe=None, nlspa=None):
+def base_from_text(text: str, source, Object, source, nlpipe=None, nlspa=None):
     """ """
 
     try:
-        return Object(text, nlpipe=nlpipe, nlspa=nlspa)
+        return Object(text, source=source, nlpipe=nlpipe, nlspa=nlspa)
     except Exception as e:
         return e.__str__()
 
 
-def base_from_file(file_path: str, Object, nlpipe=None, nlspa=None):
+def base_from_file(file_path: str, source, Object, nlpipe=None, nlspa=None):
     """read a file and return  object """
 
     try:
-        with open(file_path, "r") as f:
+        with open(source, "r") as f:
             text = f.read()
     except Exception as e:
         return e.__str__()
 
-    return Object(text, file_path=file_path, nlpipe=nlpipe, nlspa=nlspa)
+    return Object(text, source=source, nlpipe=nlpipe, nlspa=nlspa)
+
+
+def base_from_url(file_path: str, source, Object, nlpipe=None, nlspa=None):
+    """read a file and return  object """
+
+    text = requests.get(source)
+
+    return Object(text, source=source, nlpipe=nlpipe, nlspa=nlspa)

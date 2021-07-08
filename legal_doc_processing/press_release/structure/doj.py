@@ -31,17 +31,20 @@ def give_doj_press_release_file():
     with open(fn, "r") as f:
         txt = f.read()
 
-    btxt = txt.encode("latin-1")
-    txt_decoded = btxt.decode("utf8")
+    # btxt = txt.encode("latin-1")
+    # txt_decoded = btxt.decode("utf8")
 
-    return txt_decoded
+    return txt
 
 
 def first_clean(txt: str) -> str:
     """ """
 
+    btxt = txt.encode("latin-1")
+    txt_decoded = btxt.decode("utf8")
+
     # clean double breaks and fake lines
-    new_txt_1 = clean_in_line_break(txt)
+    new_txt_1 = clean_in_line_break(txt_decoded)
 
     # strip
     new_txt_2 = do_strip(new_txt_1)
@@ -89,7 +92,7 @@ def extract_date(intro: str, nlspa) -> tuple:
     if len(date_list) > 0:
         date = date_list[0]
     else:
-        date = -1
+        date = "-1"
 
     return date, intro
 
@@ -122,7 +125,7 @@ def structure_press_release(txt, nlspa=""):
         pass
 
     dd = {
-        "id": "--ERROR--",
+        "folder": "--ERROR--",
         "date": "--ERROR--",
         "h1": "--ERROR--",
         "article": "--ERROR--",

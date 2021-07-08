@@ -77,7 +77,7 @@ def structure_press_release(txt, nlspa=""):
         pass
 
     dd = {
-        "id": "--ERROR--",
+        "folder": "--ERROR--",
         "date": "--ERROR--",
         "h1": "--ERROR--",
         "article": "--ERROR--",
@@ -94,31 +94,31 @@ def structure_press_release(txt, nlspa=""):
     try:
         # clean
         cleaned_txt = first_clean(txt)
-        dd["error"] = "last line ok 96 "
+        # dd["error"] = "last line ok 96 "
 
         # intro article
         intro, article = split_intro_article_1(cleaned_txt)
-        dd["error"] = "last line ok 100 "
+        # dd["error"] = "last line ok 100 "
 
         # id
-        dd["id"], intro_2 = extract_id_1(intro)
-        dd["error"] = "last line ok 104 "
+        dd["folder"], intro_2 = extract_id_1(intro)
+        # dd["error"] = "last line ok 104 "
 
         # h1
         dd["h1"], _ = extract_h1_1(intro_2)
-        dd["error"] = "last line ok 108 "
+        # dd["error"] = "last line ok 108 "
 
         # h1
         dd["date"], _ = extract_date_1(article, nlspa)
-        dd["error"] = "last line ok 113 "
+        # dd["error"] = "last line ok 113 "
 
         # clean article
         cleaned_article = clean_in_line_break(article)
-        dd["error"] = "last line ok 117 "
+        # dd["error"] = "last line ok 117 "
 
         # article
         dd["article"] = cleaned_article
-        dd["error"] = "last line ok 121 "
+        # dd["error"] = "last line ok 121 "
 
         dd["error"] = 0
 

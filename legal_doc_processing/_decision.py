@@ -1,9 +1,8 @@
 from legal_doc_processing import logger
-from legal_doc_processing.base.base import (
+from legal_doc_processing._legal_doc import LegalDoc
+from legal_doc_processing._press_release import PressRelease
+from legal_doc_processing._base import (
     Base,
-    base_from_file,
-    base_from_text,
-    base_from_url,
 )
 
 
@@ -73,6 +72,10 @@ class Decision(Base):
                 "_" + feature,
                 self._predict[feature](self.press_release.data, self.legal_doc.data),
             )
+
+
+class _Decision:
+    Decision = Decision
 
 
 # def from_file(press_release, legal_doc, nlpipe=None, nlspa=None):

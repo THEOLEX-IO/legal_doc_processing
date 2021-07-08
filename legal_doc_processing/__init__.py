@@ -12,6 +12,6 @@ logger = logging.getLogger()
 logger.info("called")
 
 
-import legal_doc_processing.legal_doc as legal_doc
-import legal_doc_processing.press_release as press_release
-import legal_doc_processing.decision as decision
+from legal_doc_processing._legal_doc import _LegalDoc as legal_doc
+from legal_doc_processing._press_release import _PressRelease as press_release
+from legal_doc_processing._decision import _Decision as decision

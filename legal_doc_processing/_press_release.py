@@ -1,10 +1,10 @@
 from legal_doc_processing import logger
-from legal_doc_processing.base.base import (
+from legal_doc_processing._base import (
     Base,
     base_from_file,
-    base_from_text,
-    base_from_url,
 )
+
+from legal_doc_processing.press_release.utils import press_release_X_y
 
 
 class PressRelease(Base):
@@ -43,13 +43,18 @@ class PressRelease(Base):
         ]
 
 
-def from_file(file_path, source, nlpipe=None, nlspa=None):
-    return base_from_file(file_path, source, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
+# def from_file(file_path, source, nlpipe=None, nlspa=None):
+#     return base_from_file(file_path, source, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
 
 
-def from_text(txt, source, nlpipe=None, nlspa=None):
-    return base_from_text(txt, source, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
+# def from_text(txt, source, nlpipe=None, nlspa=None):
+#     return base_from_text(txt, source, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
 
 
-def from_url(txt, source, nlpipe=None, nlspa=None):
-    return base_from_url(txt, source, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
+# def from_url(txt, source, nlpipe=None, nlspa=None):
+#     return base_from_url(txt, source, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
+
+
+class _PressRelease:
+    PressRelease = PressRelease
+    load_X_y = press_release_X_y

@@ -1,10 +1,9 @@
 from legal_doc_processing import logger
-from legal_doc_processing.base.base import (
+from legal_doc_processing._base import (
     Base,
-    base_from_file,
-    base_from_text,
-    base_from_url,
 )
+
+from legal_doc_processing.legal_doc.utils import legal_doc_X_y as load_X_y
 
 
 class LegalDoc(Base):
@@ -43,13 +42,18 @@ class LegalDoc(Base):
         self.set_all()
 
 
-def from_file(file_path, source, nlpipe=None, nlspa=None):
-    return base_from_file(file_path, source, LegalDoc, nlpipe=nlpipe, nlspa=nlspa)
+# def from_file(file_path, source, nlpipe=None, nlspa=None):
+#     return base_from_file(file_path, source, LegalDoc, nlpipe=nlpipe, nlspa=nlspa)
 
 
-def from_text(txt, source, nlpipe=None, nlspa=None):
-    return base_from_text(txt, source, LegalDoc, nlpipe=nlpipe, nlspa=nlspa)
+# def from_text(txt, source, nlpipe=None, nlspa=None):
+#     return base_from_text(txt, source, LegalDoc, nlpipe=nlpipe, nlspa=nlspa)
 
 
-def from_url(txt, source, nlpipe=None, nlspa=None):
-    return base_from_url(txt, source, LegalDoc, nlpipe=nlpipe, nlspa=nlspa)
+# def from_url(txt, source, nlpipe=None, nlspa=None):
+#     return base_from_url(txt, source, LegalDoc, nlpipe=nlpipe, nlspa=nlspa)
+
+
+class _LegalDoc:
+    LegalDoc = LegalDoc
+    load_X_y = load_X_y

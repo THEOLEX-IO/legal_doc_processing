@@ -2,8 +2,10 @@ from time import time
 from legal_doc_processing import logger
 
 
-def test_init(max_init_time=3.0, max_pred_time=11.0):
+def test_init_pred(juridiction, sample=0.1, max_init_time=3.0, max_pred_time=11.0):
     """ """
+
+    assert juridiction in ["cftc", "cfbp", "doj", "sec"]
 
     max_init_time = 3.0
     max_pred_time = 11.0
@@ -23,7 +25,7 @@ def test_init(max_init_time=3.0, max_pred_time=11.0):
     # dataframe
     from legal_doc_processing.press_release.utils import press_release_X_y
 
-    df = press_release_X_y(juridiction="doj", sample=0.1)
+    df = press_release_X_y(juridiction=juridiction, sample=sample)
 
     # Press Releae
     from legal_doc_processing.press_release.press_release import PressRelease
@@ -50,4 +52,5 @@ def test_init(max_init_time=3.0, max_pred_time=11.0):
     # externize
     cols = ["pr", "preds", "press_release_text"]
     _df = df.drop(cols, axis=1, inplace=False)
-    _df.to_csv("./data/csv/press_release_doj.csv", index=False)
+    fn = f"./data/csv/press_release_{juridiction}_{len(_df)}_lines.csv"
+    _df.to_csv(fn, index=False)

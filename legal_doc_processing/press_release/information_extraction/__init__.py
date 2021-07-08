@@ -1,5 +1,17 @@
 from legal_doc_processing import logger
 
+from legal_doc_processing.press_release.information_extraction.compliance_obligations import (
+    predict_compliance_obligations,
+)
+
+from legal_doc_processing.press_release.information_extraction.court import (
+    predict_court,
+)
+
+from legal_doc_processing.press_release.information_extraction.cooperation_credit import (
+    predict_cooperation_credit,
+)
+
 from legal_doc_processing.press_release.information_extraction.code_law_violation import (
     predict_code_law_violation,
 )

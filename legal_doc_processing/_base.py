@@ -1,11 +1,24 @@
 import os
 
+import requests
+
 from legal_doc_processing import logger
 
 from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_, strize
 from legal_doc_processing.utils import uniquize as _u
 
-# from legal_doc_processing.utils import load_data
+from legal_doc_processing.press_release.structure import structure_press_release
+from legal_doc_processing.legal_doc.structure import structure_legal_doc
+
+from legal_doc_processing.base.predict import predict_handler
+
+
+class BaseData:
+    """ container for data """
+
+    def __init__(self):
+
+        pass
 
 
 class Base:
@@ -14,38 +27,32 @@ class Base:
     def __init__(
         self,
         text: str,
-        obj_name: str,
-        doctype: str,
-        structure_method,
-        predict_code_law_violation,
-        predict_country_of_violation,
-        predict_currency,
-        predict_decision_date,
-        predict_defendant,
-        predict_extracted_authorities,
-        predict_extracted_violations,
-        predict_folder,
-        predict_judge,
-        predict_justice_type,
-        predict_monetary_sanction,
-        predict_monitor,
-        predict_nature_de_sanction,
-        predict_nature_of_violations,
-        predict_penalty_details,
-        predict_reference,
-        predict_type,
-        # predict_violation_date,
-        file_path: str = None,
+        source: str,  # filename OR url with cftc doj ... in
+        obj_name: str,  # PressRelesae or LegalDoc or Decision
         nlpipe=None,
         nlspa=None,
     ):
         """ """
 
+        # args check
+        juridiction_list = ["cftc", "doj", "sec", "cfbp"]
+        juridiction_cands = [i for i in juridiction_list if i in source]
+        if not any(juridiction_cands):
+            raise AttributeError(f"source arg must refers to one of {juridiction_list}")
+        juridiction = juridiction_cands[0]
+        obj_name_list = ["PressRelease", "Decision", "LegalDoc"]
+        if not obj_name in obj_name_list:
+            raise AttributeError(f"obj_name arg must refers to one of {obj_name_list}")
+
         # args as attr
         self.obj_name = obj_name
-        self.doctype = doctype
-        self.file_path = os.path.dirname(file_path) if file_path else None
-        self.file_name = os.path.basename(file_path) if file_path else None
+        self.juridiction = juridiction
+        self.source = source
+
+        # text
+        self.raw_text = text
+        self.h1 = ""
+        self.abstract = ""
 
         # pipe and spacy
         self.nlpipe = nlpipe if nlpipe else get_pipeline()
@@ -57,35 +64,24 @@ class Base:
 
         ######################
 
-        # prediction methods
-        self._predict = {
-            "code_law_violation": predict_code_law_violation,
-            "country_of_violation": predict_country_of_violation,
-            "currency": predict_currency,
-            "decision_date": predict_decision_date,
-            "defendant": predict_defendant,
-            "extracted_authorities": predict_extracted_authorities,
-            "extracted_violations": predict_extracted_violations,
-            "folder": predict_folder,
-            "judge": predict_judge,
-            "justice_type": predict_justice_type,
-            "monetary_sanction": predict_monetary_sanction,
-            "monitor": predict_monitor,
-            "nature_de_sanction": predict_nature_de_sanction,
-            "nature_of_violations": predict_nature_of_violations,
-            "penalty_details": predict_penalty_details,
-            "reference": predict_reference,
-            "type": predict_type,
-            # "violation_date ": predict_violation_date,
-        }
+        # structure doc
+        if obj_name == "PressRelease":
+
+            self.struct_text = structure_press_release(
+                text, juridiction=juridiction, nlspa=nlspa
+            )
+        if obj_name == "LegalDoc":
+
+            self.struct_text = structure_legal_doc(
+                text, juridiction=juridiction, nlspa=nlspa
+            )
+        if obj_name == "Decision":
+            self.struct_text = {}
 
         ######################
 
-        # text and clean
-        self.raw_text = text
-        self.struct_text = structure_method(text)
-        self.h1 = ""
-        self.abstract = ""
+        # prediction methods
+        self._predict = predict_handler(obj_name)
 
         ######################
 
@@ -95,23 +91,25 @@ class Base:
         # ie country of violations depedns of justice_type
         # penalty depends of violations
         self._feature_list = [
-            "_code_law_violation",
-            "_currency",
+            "_cooperation_credit",
+            "_court",
             "_decision_date",
-            "_judge",
-            "_defendant",
             "_extracted_authorities",
-            "_extracted_violations",
+            "_extracted_violations",  # ATTENTION PB extracted_violations vs _nature_of violations
             "_folder",
-            "_justice_type",
+            "_judge",
             "_monitor",
-            "_nature_de_sanction",
-            "_nature_of_violations",
+            "_nature_de_sanction",  # attention _penalty_details _monetary_sanction and  _compliance_obligations
+            "_nature_of_violations",  ###### ATTENTION PB extracted_violations vs _nature_of violations
             "_reference",
-            "_type",
+            "_type",  # depends of predict authorities
+            "_justice_type",  # depends of predict authorities
+            "_defendant",  # depends of _judge and extrcated authorities
             "_country_of_violation",  # depends of predict authorities
+            "_currency",  # depends of predict authorities
             "_penalty_details",  # depends of _extracted_violations
             "_monetary_sanction",  # depends of _penalty_details
+            "_compliance_obligations",
             # depends of predict authorities
             # "_violation_date",
         ]
@@ -141,6 +139,7 @@ class Base:
             "_feature_dict": self._feature_dict,
             "feature_dict": self.feature_dict,
             # text
+            "source": self.source,
             "raw_text": self.raw_text,
             "struct_text": self.struct_text,
             "h1": self.h1,
@@ -198,8 +197,16 @@ class Base:
     ######################
 
     @property
-    def code_law_violation(self):
-        return strize(self._code_law_violation)
+    def compliance_obligations(self):
+        return strize(self._compliance_obligations)
+
+    @property
+    def cooperation_credit(self):
+        return strize(self._cooperation_credit)
+
+    @property
+    def court(self):
+        return strize(self._court)
 
     @property
     def country_of_violation(self):
@@ -242,6 +249,10 @@ class Base:
         return strize(self._monetary_sanction)
 
     @property
+    def monitor(self):
+        return strize(self._monitor)
+
+    @property
     def nature_de_sanction(self):
         return strize(self._nature_de_sanction)
 
@@ -261,9 +272,9 @@ class Base:
     def type(self):
         return strize(self._type)
 
-    @property
-    def violation_date(self):
-        return strize(self._violation_date)
+    # @property
+    # def violation_date(self):
+    #     return strize(self._violation_date)
 
     ######################
 
@@ -273,11 +284,17 @@ class Base:
         if feature == "all":
             return self.predict_all()
 
-        # TODO PLEASE UNCOMMENT
-        # extracted_authorities need country_of_violation
-        # if feature == "country_of_violation":
-        #     val = self._predict["extracted_authorities"](self.data)
-        #     setattr(self, "_extracted_authorities", val)
+        # features who needs extracted_authorities
+        if feature in [
+            "country_of_violation",
+            "type",
+            "justice_type",
+            "country_of_violation",
+            "currency",
+            "penalty_details",
+        ]:
+            val = self._predict["extracted_authorities"](self.data)
+            setattr(self, "_extracted_authorities", val)
 
         # Defendant need judge
         if feature == "defendant":
@@ -318,7 +335,7 @@ class Base:
         _pipe = "OK" if self.nlpipe else self.nlpipe
         _spa = "OK" if self.nlspa else self.nlspa
         _feat_dict = {k: v[:8] for k, v in self.feature_dict.items()}
-        return f"{self.obj_name}(path:{self.file_path}, file:{self.file_name}, {_feat_dict}, pipe/spacy:{_pipe}/{_spa}"
+        return f"{self.obj_name}(source:{self.source}, {_feat_dict}, pipe/spacy:{_pipe}/{_spa}"
 
     def __str__(self):
         """__str__ method """
@@ -326,22 +343,30 @@ class Base:
         return self.__repr__()
 
 
-def base_from_text(text: str, Object, nlpipe=None, nlspa=None):
+def base_from_text(text: str, source, Object, nlpipe=None, nlspa=None):
     """ """
 
     try:
-        return Object(text, nlpipe=nlpipe, nlspa=nlspa)
+        return Object(text, source=source, nlpipe=nlpipe, nlspa=nlspa)
     except Exception as e:
         return e.__str__()
 
 
-def base_from_file(file_path: str, Object, nlpipe=None, nlspa=None):
+def base_from_file(file_path: str, source, Object, nlpipe=None, nlspa=None):
     """read a file and return  object """
 
     try:
-        with open(file_path, "r") as f:
+        with open(source, "r") as f:
             text = f.read()
     except Exception as e:
         return e.__str__()
 
-    return Object(text, file_path=file_path, nlpipe=nlpipe, nlspa=nlspa)
+    return Object(text, source=source, nlpipe=nlpipe, nlspa=nlspa)
+
+
+def base_from_url(file_path: str, source, Object, nlpipe=None, nlspa=None):
+    """read a file and return  object """
+
+    text = requests.get(source)
+
+    return Object(text, source=source, nlpipe=nlpipe, nlspa=nlspa)

@@ -237,7 +237,9 @@ def _transfert_title_from_head_to_page(header: str, page: str) -> tuple:
     return header, page
 
 
-def structure_legal_doc(raw_txt, line_length_txt=50, n_lines=5):
+def structure_legal_doc(
+    raw_txt, juridiction="", nlspa=None, line_length_txt=50, n_lines=5
+):
     """ """
 
     # 1st split by pages

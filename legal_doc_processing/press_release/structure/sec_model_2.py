@@ -148,14 +148,23 @@ def extract_h1_2(intro: str) -> tuple:
         "D.N.J.",
         "ET AL",
         "U.S.D.C.",
-        "D.D.C.)",
+        "D.D.C.",
+        "District of",
+        "S.D.N.Y",
+        ")",
     ]
     for clean_i in clean_list:
         post_txt_lines = [i for i in post_txt_lines if clean_i.lower() not in i.lower()]
 
     post_txt_lines = [i.strip() for i in post_txt_lines]
+
+    if post_txt_lines[0] == "":
+        post_txt_lines = post_txt_lines[1:]
+
     post_txt_lines = [(". " if i == "" else i) for i in post_txt_lines]
+
     h1 = "".join(post_txt_lines).strip()
+    h1 = h1 if h1[-1] == "." else h1 + "."
     h1 = h1 if h1[-1] == "." else h1 + "."
 
     return h1, "-1"

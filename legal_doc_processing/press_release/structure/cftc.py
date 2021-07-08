@@ -40,22 +40,37 @@ def give_cftc_press_release_file():
 def first_clean(txt: str) -> str:
     """ """
 
-    # clean double breaks and fake lines
-    new_txt_1 = clean_in_line_break(txt)
+    btxt = txt.encode("latin-1")
+    txt_decoded = btxt.decode("utf8")
+
+    # # clean double breaks and fake lines
+    # new_txt_1 = clean_in_line_break(txt)
 
     # strip
-    new_txt_2 = do_strip(new_txt_1)
+    new_txt_2 = do_strip(txt_decoded)
 
     return new_txt_2
 
 
-def split_intro_article(txt: str) -> str:
+def split_intro_article(txt: str, n=30) -> str:
     """ """
 
-    splitter = "\nWashington DC"
+    txt_lines_30 = txt.splitlines()[:n]
 
-    idx = txt.lower().find(splitter.lower())
-    intro, article = txt[:idx], txt[idx + 1 :]
+    s0, s1, s2 = ("Washington D", "Washington, D", "Washington,D")
+    is_in = lambda j: any([(j.startswith(s.lower())) for s in [s0, s1, s2]])
+    idx_cands = [i for i, j in enumerate(txt_lines_30) if is_in(j.lower())]
+
+    if not len(idx_cands):
+        s = "washington"
+        idx_cands = [i for i, j in enumerate(txt_lines_30) if j.lower().startswith(s)]
+
+    idx = idx_cands[0]
+
+    txt_lines = txt.splitlines()
+    intro_lines, article_lines = txt_lines[:idx], txt_lines[idx:]
+
+    intro, article = "\n".join(intro_lines), "\n".join(article_lines)
 
     return intro, article
 
@@ -170,8 +185,11 @@ def structure_press_release(txt, nlspa=""):
         # h1
         dd["h1"], _ = extract_h1(intro_2)
 
+        # clean article
+        cleaned_article = clean_in_line_break(article)
+
         # end
-        dd["end"], article_ok = extract_end(article)
+        dd["end"], article_ok = extract_end(cleaned_article)
 
         # article
         dd["article"] = article_ok
@@ -192,7 +210,7 @@ if __name__ == "__main__":
     # load data
     txt = give_cftc_press_release_file()
     df = give_cftc_press_release_df()
-    df = df.iloc[:10, :]
+    df = df.iloc[:30, :]
 
     # structure
     struct_ = lambda i: structure_press_release(i, nlspa=nlspa)

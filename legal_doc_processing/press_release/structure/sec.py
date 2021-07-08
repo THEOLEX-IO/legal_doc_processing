@@ -207,28 +207,3 @@ def structure_press_release(txt, nlspa=""):
             dd["error"] += str(e)
 
     return dd
-
-
-if __name__ == "__main__":
-
-    # spac
-    nlspa = get_spacy()
-    nlspa.add_pipe("sentencizer")
-
-    # load data
-    txt = give_sec_press_release_file(2)
-    df = give_sec_press_release_df()
-    # df = df.iloc[:100, :]
-
-    # structure
-    struct_ = lambda i: structure_press_release(i, nlspa=nlspa)
-    df["dd"] = df.press_release_text.apply(struct_)
-
-    # extrcat cols
-    col_list = list(df.dd.iloc[0].keys())
-    for col in col_list:
-        df["dd_" + col] = df.dd.apply(lambda i: i.get(col, -42))
-    df.drop("dd", inplace=True, axis=1)
-
-    # save
-    df.to_csv("./tmp/_WIP_structure_press_release_sec.csv", index=False)

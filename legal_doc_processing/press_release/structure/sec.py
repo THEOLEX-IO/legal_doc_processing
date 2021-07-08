@@ -95,7 +95,7 @@ def structure_press_release(txt, nlspa=""):
         intro, article = split_intro_article_1(cleaned_txt)
 
         # id
-        dd["id"], intro_2 = extract_id_1(intro_1)
+        dd["id"], intro_2 = extract_id_1(intro)
 
         # h1
         dd["h1"], _ = extract_h1_1(intro_2)

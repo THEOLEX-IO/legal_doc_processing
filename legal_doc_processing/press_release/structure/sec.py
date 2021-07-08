@@ -164,27 +164,28 @@ def structure_press_release(txt, nlspa=""):
             dd["article"] = cleaned_article
             # dd["error"] = "last line ok 121 "
 
+            dd["error"] = 0
+
         except Exception as e:
             logger.error(e)
             dd["error"] += str(e)
 
     if sec_model == 1:
         try:
-
             # clean
             cleaned_txt = first_clean(txt)
             # dd["error"] = "last line ok 96 "
 
             # intro article
-            intro, article = split_intro_article_2(cleaned_txt)
+            intro, article = split_intro_article_1(cleaned_txt)
             # dd["error"] = "last line ok 100 "
 
-            # date
-            dd["date"], intro_1 = extract_date_2(intro, nlspa)
-            # dd["error"] = "last line ok 113 "
+            # id
+            dd["folder"], intro_2 = extract_id_1(intro)
+            # dd["error"] = "last line ok 104 "
 
             # h1
-            dd["h1"], _ = extract_h1_2(intro_1)
+            dd["h1"], _ = extract_h1_1(intro_2)
             # dd["error"] = "last line ok 108 "
 
             # h1

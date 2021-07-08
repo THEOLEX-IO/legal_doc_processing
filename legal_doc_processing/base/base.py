@@ -5,7 +5,23 @@ from legal_doc_processing import logger
 from legal_doc_processing.utils import get_pipeline, get_spacy, get_label_, strize
 from legal_doc_processing.utils import uniquize as _u
 
-# from legal_doc_processing.utils import load_data
+from legal_doc_processing.press_release.structure import structure_press_release
+
+
+class BasePredict:
+    """ container for predict function """
+
+    def __init__(self):
+
+        pass
+
+
+class BaseData:
+    """ container for data """
+
+    def __init__(self):
+
+        pass
 
 
 class Base:
@@ -14,10 +30,12 @@ class Base:
     def __init__(
         self,
         text: str,
-        obj_name: str,
-        doctype: str,
-        structure_method,
-        predict_code_law_violation,
+        source: str,  # filename OR url with cftc doj ... in
+        obj_name: str,  # PressRelesae or LegalDoc or Decision
+        # all function could be One line with BasePredict object
+        predict_compliance_obligations,
+        predict_cooperation_credit,
+        predict_court,
         predict_country_of_violation,
         predict_currency,
         predict_decision_date,
@@ -35,17 +53,22 @@ class Base:
         predict_reference,
         predict_type,
         # predict_violation_date,
-        file_path: str = None,
         nlpipe=None,
         nlspa=None,
     ):
         """ """
 
+        # args check
+        juridiction_list = ["cftc", "doj", "sec", "cfbp"]
+        juridiction_cands = [i for i in juridiction_list if i in source]
+        assert any(juridiction_cands)
+        juridiction = juridiction_cands[0]
+        assert obj_name in ["PressRelease", "Decision", "LegalDoc"]
+
         # args as attr
         self.obj_name = obj_name
-        self.doctype = doctype
-        self.file_path = os.path.dirname(file_path) if file_path else None
-        self.file_name = os.path.basename(file_path) if file_path else None
+        self.juridiction = juridiction
+        self.source = source
 
         # pipe and spacy
         self.nlpipe = nlpipe if nlpipe else get_pipeline()
@@ -57,9 +80,32 @@ class Base:
 
         ######################
 
+        # text and clean
+        self.raw_text = text
+
+        if obj_name == "PressRelease":
+
+            self.struct_text = structure_press_release(
+                text, juridiction=juridiction, nlspa=nlspa
+            )
+        if obj_name == "LegalDoc":
+
+            self.struct_text = structure_legal_doc(
+                text, juridiction=juridiction, nlspa=nlspa
+            )
+        if obj_name == "Decision":
+            self.struct_text = {}
+
+        self.h1 = ""
+        self.abstract = ""
+
+        ######################
+
         # prediction methods
         self._predict = {
-            "code_law_violation": predict_code_law_violation,
+            "compliance_obligations": predict_compliance_obligations,
+            "cooperation_credit": predict_cooperation_credit,
+            "court": predict_court,
             "country_of_violation": predict_country_of_violation,
             "currency": predict_currency,
             "decision_date": predict_decision_date,
@@ -81,37 +127,31 @@ class Base:
 
         ######################
 
-        # text and clean
-        self.raw_text = text
-        self.struct_text = structure_method(text)
-        self.h1 = ""
-        self.abstract = ""
-
-        ######################
-
         # WARNING
         # the order of feature in feature list define the order of preidct methods called
         # this order is important
         # ie country of violations depedns of justice_type
         # penalty depends of violations
         self._feature_list = [
-            "_code_law_violation",
-            "_currency",
+            "_cooperation_credit",
+            "_court",
             "_decision_date",
-            "_judge",
-            "_defendant",
             "_extracted_authorities",
-            "_extracted_violations",
+            "_extracted_violations",  # ATTENTION PB extracted_violations vs _nature_of violations
             "_folder",
-            "_justice_type",
+            "_judge",
             "_monitor",
-            "_nature_de_sanction",
-            "_nature_of_violations",
+            "_nature_de_sanction",  # attention _penalty_details _monetary_sanction and  _compliance_obligations
+            "_nature_of_violations",  ###### ATTENTION PB extracted_violations vs _nature_of violations
             "_reference",
-            "_type",
+            "_type",  # depends of predict authorities
+            "_justice_type",  # depends of predict authorities
+            "_defendant",  # depends of _judge and extrcated authorities
             "_country_of_violation",  # depends of predict authorities
+            "_currency",  # depends of predict authorities
             "_penalty_details",  # depends of _extracted_violations
             "_monetary_sanction",  # depends of _penalty_details
+            "_compliance_obligations",
             # depends of predict authorities
             # "_violation_date",
         ]
@@ -141,6 +181,7 @@ class Base:
             "_feature_dict": self._feature_dict,
             "feature_dict": self.feature_dict,
             # text
+            "source": self.source,
             "raw_text": self.raw_text,
             "struct_text": self.struct_text,
             "h1": self.h1,
@@ -198,8 +239,16 @@ class Base:
     ######################
 
     @property
-    def code_law_violation(self):
-        return strize(self._code_law_violation)
+    def compliance_obligations(self):
+        return strize(self._compliance_obligations)
+
+    @property
+    def cooperation_credit(self):
+        return strize(self._cooperation_credit)
+
+    @property
+    def court(self):
+        return strize(self._court)
 
     @property
     def country_of_violation(self):
@@ -242,6 +291,10 @@ class Base:
         return strize(self._monetary_sanction)
 
     @property
+    def monitor(self):
+        return strize(self._monitor)
+
+    @property
     def nature_de_sanction(self):
         return strize(self._nature_de_sanction)
 
@@ -261,9 +314,9 @@ class Base:
     def type(self):
         return strize(self._type)
 
-    @property
-    def violation_date(self):
-        return strize(self._violation_date)
+    # @property
+    # def violation_date(self):
+    #     return strize(self._violation_date)
 
     ######################
 
@@ -273,11 +326,17 @@ class Base:
         if feature == "all":
             return self.predict_all()
 
-        # TODO PLEASE UNCOMMENT
-        # extracted_authorities need country_of_violation
-        # if feature == "country_of_violation":
-        #     val = self._predict["extracted_authorities"](self.data)
-        #     setattr(self, "_extracted_authorities", val)
+        # features who needs extracted_authorities
+        if feature in [
+            "country_of_violation",
+            "type",
+            "justice_type",
+            "country_of_violation",
+            "currency",
+            "penalty_details",
+        ]:
+            val = self._predict["extracted_authorities"](self.data)
+            setattr(self, "_extracted_authorities", val)
 
         # Defendant need judge
         if feature == "defendant":

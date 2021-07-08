@@ -50,4 +50,4 @@ def test_init(max_init_time=3.0, max_pred_time=11.0):
     # externize
     cols = ["pr", "preds", "press_release_text"]
     _df = df.drop(cols, axis=1, inplace=False)
-    _df.to_csv("./data/csv/press_release.csv", index=False)
+    _df.to_csv("./data/csv/press_release_cftc.csv", index=False)

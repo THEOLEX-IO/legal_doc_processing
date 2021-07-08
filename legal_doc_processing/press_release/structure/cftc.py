@@ -31,10 +31,10 @@ def give_cftc_press_release_file():
     with open(fn, "r") as f:
         txt = f.read()
 
-    btxt = txt.encode("latin-1")
-    txt_decoded = btxt.decode("utf8")
+    # btxt = txt.encode("latin-1")
+    # txt_decoded = btxt.decode("utf8")
 
-    return txt_decoded
+    return txt
 
 
 def first_clean(txt: str) -> str:
@@ -84,11 +84,11 @@ def extract_date(intro: str, nlspa) -> tuple:
     if len(date_list) > 0:
         date = date_list[0]
     else:
-        date = -1
+        date = "-1"
 
     # if not return dummy
-    if date == -1:
-        return -1, intro
+    if date == "-1":
+        return date, intro
 
     # find date_line
     intro_lines = intro.splitlines()
@@ -115,7 +115,7 @@ def extract_id(intro: str, len_max=35) -> tuple:
 
     # return dummy
     if len(idx_list) != 1:
-        return -1, intro
+        return "-1", intro
 
     # clean intro
     idx = idx_list[0]
@@ -160,7 +160,7 @@ def structure_press_release(txt, nlspa=""):
         pass
 
     dd = {
-        "id": "--ERROR--",
+        "folder": "--ERROR--",
         "date": "--ERROR--",
         "h1": "--ERROR--",
         "article": "--ERROR--",
@@ -180,7 +180,7 @@ def structure_press_release(txt, nlspa=""):
         dd["date"], intro_1 = extract_date(intro, nlspa)
 
         # id
-        dd["id"], intro_2 = extract_id(intro_1)
+        dd["folder"], intro_2 = extract_id(intro_1)
 
         # h1
         dd["h1"], _ = extract_h1(intro_2)

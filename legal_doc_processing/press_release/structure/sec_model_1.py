@@ -69,7 +69,7 @@ def extract_date_1(article: str, nlspa) -> tuple:
 
     date_list = get_label_(article, label="DATE", nlspa=nlspa)
     if not len(date_list) > 0:
-        return -1, article
+        return "-1", article
 
     return date_list[0], article
 

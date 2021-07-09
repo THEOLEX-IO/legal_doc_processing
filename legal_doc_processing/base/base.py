@@ -343,30 +343,30 @@ class Base:
         return self.__repr__()
 
 
-def base_from_text(text: str, source, Object, nlpipe=None, nlspa=None):
-    """ """
+# def base_from_text(text: str, source, Object, nlpipe=None, nlspa=None):
+#     """ """
 
-    try:
-        return Object(text, source=source, nlpipe=nlpipe, nlspa=nlspa)
-    except Exception as e:
-        return e.__str__()
-
-
-def base_from_file(file_path: str, source, Object, nlpipe=None, nlspa=None):
-    """read a file and return  object """
-
-    try:
-        with open(source, "r") as f:
-            text = f.read()
-    except Exception as e:
-        return e.__str__()
-
-    return Object(text, source=source, nlpipe=nlpipe, nlspa=nlspa)
+#     try:
+#         return Object(text, source=source, nlpipe=nlpipe, nlspa=nlspa)
+#     except Exception as e:
+#         return e.__str__()
 
 
-def base_from_url(file_path: str, source, Object, nlpipe=None, nlspa=None):
-    """read a file and return  object """
+# def base_from_file(file_path: str, source, Object, nlpipe=None, nlspa=None):
+#     """read a file and return  object """
 
-    text = requests.get(source)
+#     try:
+#         with open(source, "r") as f:
+#             text = f.read()
+#     except Exception as e:
+#         return e.__str__()
 
-    return Object(text, source=source, nlpipe=nlpipe, nlspa=nlspa)
+#     return Object(text, source=source, nlpipe=nlpipe, nlspa=nlspa)
+
+
+# def base_from_url(file_path: str, source, Object, nlpipe=None, nlspa=None):
+#     """read a file and return  object """
+
+#     text = requests.get(source)
+
+#     return Object(text, source=source, nlpipe=nlpipe, nlspa=nlspa)

@@ -1,7 +1,7 @@
 from legal_doc_processing import logger
 from legal_doc_processing._legal_doc import LegalDoc
 from legal_doc_processing._press_release import PressRelease
-from legal_doc_processing._base import (
+from legal_doc_processing.base import (
     Base,
 )
 

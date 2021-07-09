@@ -1,9 +1,9 @@
-from legal_doc_processing import logger
-from legal_doc_processing._base import (
-    Base,
-    base_from_file,
-)
+from time import time
 
+from legal_doc_processing import logger
+
+from legal_doc_processing.utils import get_pipeline, get_spacy
+from legal_doc_processing.base.base import Base
 from legal_doc_processing.press_release.utils import press_release_X_y
 
 
@@ -41,6 +41,45 @@ class PressRelease(Base):
             for i in self.nlspa(self.struct_text["article"]).sents
             if i.text.strip()
         ]
+
+
+def press_release_df(juridiction="", nlspa="", nlpipe="", sample=0.25, max_init_time=3.0):
+    """ """
+
+    assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
+
+    max_init_time = 3.0
+
+    # load
+    if not nlpipe:
+        nlpipe = get_pipeline()
+    if not nlspa:
+        nlspa = get_spacy()
+    try:
+        nlspa.add_pipe("sentencizer")
+    except Exception as e:
+        pass
+
+    # dataframe
+    df = press_release_X_y(juridiction=juridiction, sample=sample)
+
+    # Press Releae
+    t = time()
+    juri = juridiction
+    if juridiction:
+        make_pr = lambda i: PressRelease(i, source=juri, nlpipe=nlpipe, nlspa=nlspa)
+        df["pr"] = df.press_release_text.apply(make_pr)
+    else:
+        make_pr = lambda i, j: PressRelease(i, source=j, nlpipe=nlpipe, nlspa=nlspa)
+        df["pr"] = [make_pr(i, j) for i, j in zip(df.press_release_text, df.juridiction)]
+
+    tt, ttt = round(time() - t, 2), round((time() - t) / len(df), 2)
+    print(
+        f"time: {tt}s, n objs : {len(df)}, avg obj init: {ttt}s (max_init_time: {max_init_time})s"
+    )
+    assert ttt < max_init_time
+
+    return df
 
 
 # def from_file(file_path, source, nlpipe=None, nlspa=None):

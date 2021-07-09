@@ -13,6 +13,8 @@ logger.info("called")
 
 
 # from legal_doc_processing._legal_doc import _LegalDoc as legal_doc
-from legal_doc_processing._press_release import _PressRelease as press_release
+from legal_doc_processing.press_release.press_release import (
+    _PressRelease as press_release,
+)
 
 # from legal_doc_processing._decision import _Decision as decision

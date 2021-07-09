@@ -68,4 +68,27 @@ if __name__ == "__main__":
     # auth_list = ["cftc", "cfbp", "doj", "sec"]
     # _ = [test_preds(i, sample=0.1, nlspa=nlspa, nlpipe=nlpipe) for i in auth_list]
 
-    df = test_init_by(sample=0.25, nlspa=nlspa, nlpipe=nlpipe)
+    df = test_init_by(sample=1, nlspa=nlspa, nlpipe=nlpipe)
+
+    sent_funct = lambda pr: [
+        i.text for i in nlspa(pr.struct_text["article"]).sents if i.text.strip()
+    ]
+
+    df["sents"] = df.pr.apply(sent_funct)
+
+    coop_fuct = lambda sent_list: any(
+        [("coopera" in i) and ("credit" in i) for i in sent_list]
+    )
+    idxs = df.sents.apply(coop_fuct)
+
+    coop_df = df.loc[idxs, :]
+
+    txt = """The criminal monetary penalty for Novartis Greece reflects a 25 percent reduction off a point near the midpoint of the U.S. Sentencing
+    Guidelines range because, although Novartis Greece fully cooperated and remediated, its parent company Novartis AG was involved in similar
+    conduct for which it previously reached a resolution with the SEC in March 2016."""
+
+    from legal_doc_processing.utils import ask_all
+
+    quest_pairs = [("what is the reduction due to cooperation?", "coop")]
+
+    ans = ask_all(txt, quest_pairs, nlpipe)

@@ -1,0 +1,17 @@
+here a list of files with cooperation and credit in the same sentence
+
+
+'doj/text/novartis-hellas-saci/press-release.txt',
+'doj/text/vimpelcom/press-release-resolution.txt',
+'doj/text/beam-suntory-inc/press-release.txt',
+'doj/text/deutsche-bank-aktiengesellshaft/press-release.txt',
+'doj/text/goldman-sachs-group-inc/press-release.txt',
+'doj/text/braskem-sa/press-release.txt',
+'doj/text/samsung-heavy-industries/press-release.txt',
+'doj/text/in-re-jpmorgan-securities-asia-pacific-2016/press-release.txt',
+'cftc/text/7567-17/press-release.txt',
+'doj/text/teva-pharmaceutical-industries-ltd/press-release.txt',
+'doj/text/goldman-sachs-malaysia/press-release.txt',
+'cftc/text/pr7683-18/press-release.txt',
+'doj/text/telia-company-ab/press-release.txt',
+'doj/text/in-re-credit-suisse/press-release.txt'

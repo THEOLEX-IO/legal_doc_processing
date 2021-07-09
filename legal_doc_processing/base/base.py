@@ -10,15 +10,8 @@ from legal_doc_processing.utils import uniquize as _u
 from legal_doc_processing.press_release.structure import structure_press_release
 from legal_doc_processing.legal_doc.structure import structure_legal_doc
 
-from legal_doc_processing.base.predict import predict_handler
-
-
-class BaseData:
-    """ container for data """
-
-    def __init__(self):
-
-        pass
+from legal_doc_processing.base.predict_handler import predict_handler
+from legal_doc_processing.base.data_handler import DataHandler
 
 
 class Base:
@@ -31,6 +24,7 @@ class Base:
         obj_name: str,  # PressRelesae or LegalDoc or Decision
         nlpipe=None,
         nlspa=None,
+        abstract_n_lines=5,
     ):
         """ """
 
@@ -51,7 +45,11 @@ class Base:
 
         # text
         self.raw_text = text
+        self.date = ""
         self.h1 = ""
+        self.header = ""
+        self.content = ""
+        self.struct_content = ""
         self.abstract = ""
 
         # pipe and spacy
@@ -67,16 +65,22 @@ class Base:
         # structure doc
         if obj_name == "PressRelease":
 
-            self.struct_text = structure_press_release(
+            struct_text = structure_press_release(
                 text, juridiction=juridiction, nlspa=nlspa
             )
+            self.date = struct_text["date"]
+            self.h1 = struct_text["h1"]
+            self.header = ""
+            self.content = struct_text["article"]
+            self.abstract = "\n".join(
+                struct_text["article"].splitlines()[:abstract_n_lines]
+            )
+
         if obj_name == "LegalDoc":
 
-            self.struct_text = structure_legal_doc(
-                text, juridiction=juridiction, nlspa=nlspa
-            )
+            struct_text = structure_legal_doc(text, juridiction=juridiction, nlspa=nlspa)
         if obj_name == "Decision":
-            self.struct_text = {}
+            struct_text = {}
 
         ######################
 
@@ -129,42 +133,7 @@ class Base:
 
     @property
     def data(self):
-        """ """
-
-        dd = {
-            # pipe spacy
-            "nlpipe": self.nlpipe,
-            "nlspa": self.nlspa,
-            # feature
-            "_feature_dict": self._feature_dict,
-            "feature_dict": self.feature_dict,
-            # text
-            "source": self.source,
-            "raw_text": self.raw_text,
-            "struct_text": self.struct_text,
-            "h1": self.h1,
-            "abstract": self.abstract,
-            # sents
-            "h1_sents": self.h1_sents,
-            "abstract_sents": self.abstract_sents,
-            "all_text_sents": self.all_text_sents,
-            # entities
-            "pers_h1": self.pers_h1,
-            "pers_abstract": self.pers_abstract,
-            "org_h1": self.org_h1,
-            "org_abstract": self.org_abstract,
-            "date_h1": self.date_h1,
-            "date_abstract": self.date_abstract,
-            "cost_h1": self.cost_h1,
-            "cost_abstract": self.cost_abstract,
-            "pers_all": self.pers_all,
-            "org_all": self.org_all,
-            "pers_org_all": self.pers_org_all,
-            "date_all": self.date_all,
-            "cost_all": self.cost_all,
-        }
-
-        return dd
+        return DataHandler(self)
 
     ######################
 
@@ -192,7 +161,9 @@ class Base:
         self.abstract_sents = [
             i.text for i in self.nlspa(self.abstract).sents if i.text.strip()
         ]
-        self.all_text_sents = []
+        self.content_sents = [
+            i.text for i in self.nlspa(self.content).sents if i.text.strip()
+        ]
 
     ######################
 

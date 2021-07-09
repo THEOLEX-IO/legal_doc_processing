@@ -1,4 +1,4 @@
-def predict_compliance_obligations(obj: dict) -> list:
+def predict_compliance_obligations(data: dict) -> list:
     """ """
 
     return [(-1, -1)]

@@ -4,7 +4,7 @@ import dateparser
 
 from legal_doc_processing import logger
 
-from legal_doc_processing.press_release.clean.decision_date import (
+from legal_doc_processing.press_release.decision_date.clean import (
     _you_shall_not_pass,
 )
 

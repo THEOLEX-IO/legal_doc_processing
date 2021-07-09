@@ -4,7 +4,7 @@ from legal_doc_processing.utils import uniquize as _u
 
 from legal_doc_processing.utils import merge_ans, ask_all, cosine_similarity
 
-from legal_doc_processing.press_release.clean.defendant import (
+from legal_doc_processing.press_release.defendant.clean import (
     _sub_you_shall_not_pass,
     clean_ans,
 )
@@ -190,55 +190,55 @@ def predict_defendant(obj: dict, threshold: float = 0.4, n_sents: int = 3) -> li
     return last_ans
 
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
-    # import
-    import time
+#     # import
+#     import time
 
-    import numpy as np
-    import pandas as pd
+#     import numpy as np
+#     import pandas as pd
 
-    from legal_doc_processing.utils import get_pipeline, get_spacy, cosine_similarity
-    from legal_doc_processing.press_release.utils import press_release_X_y
-    from legal_doc_processing.press_release.press_release import PressRelease
+#     from legal_doc_processing.utils import get_pipeline, get_spacy, cosine_similarity
+#     from legal_doc_processing.press_release.utils import press_release_X_y
+#     from legal_doc_processing.press_release.press_release import PressRelease
 
-    # laod
-    nlpipe = get_pipeline()
-    nlspa = get_spacy()
-    nlspa.add_pipe("sentencizer")
+#     # laod
+#     nlpipe = get_pipeline()
+#     nlspa = get_spacy()
+#     nlspa.add_pipe("sentencizer")
 
-    # structured_press_release_r
-    df = press_release_X_y(features="defendant")
-    df = df.iloc[:30, :]
-    df["obj"] = [PressRelease(i, nlpipe=nlpipe, nlspa=nlspa) for i in df.txt.values]
+#     # structured_press_release_r
+#     df = press_release_X_y(features="defendant")
+#     df = df.iloc[:30, :]
+#     df["obj"] = [PressRelease(i, nlpipe=nlpipe, nlspa=nlspa) for i in df.txt.values]
 
-    # preds
-    t = time.time()
-    # 28 objects --> 181 secondes so --> +/-10 secondes per objects
-    df["pred_defendant"] = df.obj.apply(lambda i: i.predict("defendant"))
-    t = time.time() - t
+#     # preds
+#     t = time.time()
+#     # 28 objects --> 181 secondes so --> +/-10 secondes per objects
+#     df["pred_defendant"] = df.obj.apply(lambda i: i.predict("defendant"))
+#     t = time.time() - t
 
-    DF = pd.DataFrame(df)
-    df = pd.DataFrame(DF)
+#     DF = pd.DataFrame(df)
+#     df = pd.DataFrame(DF)
 
-    # eval predict defendant performance
+#     # eval predict defendant performance
 
-    def decore_cosine_similarity(i: str, j: str) -> float:
-        """cosine_similarity + avoid errors returning inconsistant cvalue"""
+#     def decore_cosine_similarity(i: str, j: str) -> float:
+#         """cosine_similarity + avoid errors returning inconsistant cvalue"""
 
-        try:
-            return cosine_similarity(i, j)
-        except Exception as e:
-            print(e)
-            return -1.0
+#         try:
+#             return cosine_similarity(i, j)
+#         except Exception as e:
+#             print(e)
+#             return -1.0
 
-    df["pred_defendant"] = df.obj.apply(lambda i: i.feature_dict["defendant"])
+#     df["pred_defendant"] = df.obj.apply(lambda i: i.feature_dict["defendant"])
 
-    _zip = zip(df.defendant.values, df.pred_defendant.values)
-    pred_performance = pd.Series([decore_cosine_similarity(i, j) for i, j in _zip])
-    pred_performance.mean()
+#     _zip = zip(df.defendant.values, df.pred_defendant.values)
+#     pred_performance = pd.Series([decore_cosine_similarity(i, j) for i, j in _zip])
+#     pred_performance.mean()
 
-    # # 1st one
-    # one = df.iloc[0, :]
-    # one_txt = one.txt
-    # one_ob = obj = self = one.obj
+#     # # 1st one
+#     # one = df.iloc[0, :]
+#     # one_txt = one.txt
+#     # one_ob = obj = self = one.obj

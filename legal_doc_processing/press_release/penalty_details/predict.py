@@ -3,7 +3,7 @@ from legal_doc_processing import logger
 from legal_doc_processing.utils import uniquize as _u
 
 from legal_doc_processing.utils import merge_ans, ask_all
-from legal_doc_processing.press_release.clean.penalty_details import clean_ans
+from legal_doc_processing.press_release.penalty_details.clean import clean_ans
 
 
 def _question_helper(txt):
@@ -130,34 +130,34 @@ def predict_penalty_details(obj: dict, threshold=0.4, n_sents: int = 5) -> list:
     return [(i.lower(), j) for i, j in last_ans]
 
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
-    import time
-    from legal_doc_processing.utils import get_pipeline, get_spacy
-    from legal_doc_processing.press_release.utils import press_release_X_y
-    from legal_doc_processing.press_release.press_release import PressRelease
+#     import time
+#     from legal_doc_processing.utils import get_pipeline, get_spacy
+#     from legal_doc_processing.press_release.utils import press_release_X_y
+#     from legal_doc_processing.press_release.press_release import PressRelease
 
-    # load
-    nlpipe = get_pipeline()
-    nlspa = get_spacy()
-    nlspa.add_pipe("sentencizer")
+#     # load
+#     nlpipe = get_pipeline()
+#     nlspa = get_spacy()
+#     nlspa.add_pipe("sentencizer")
 
-    # legal_doc df AND  OBj
-    df = press_release_X_y()
-    df = df.iloc[:3, :]
-    df["pr"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
+#     # legal_doc df AND  OBj
+#     df = press_release_X_y()
+#     df = df.iloc[:3, :]
+#     df["pr"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
 
-    # preds
-    t = time.time()
-    # 28 objects --> 181 secondes so --> +/-10 secondes per objects
-    df["pred_penalty"] = df.pr.apply(lambda i: i.predict("penalty_details"))
-    t = time.time() - t
+#     # preds
+#     t = time.time()
+#     # 28 objects --> 181 secondes so --> +/-10 secondes per objects
+#     df["pred_penalty"] = df.pr.apply(lambda i: i.predict("penalty_details"))
+#     t = time.time() - t
 
-    # 1st one
-    one = df.iloc[0, :]
-    one_txt = one.txt
-    one_ob = obj = self = one.pr
+#     # 1st one
+#     one = df.iloc[0, :]
+#     one_txt = one.txt
+#     one_ob = obj = self = one.pr
 
-    # externize
-    cols = ["txt", "pr", "preds"]
-    _df = df.drop(cols, axis=1, inplace=False)
+#     # externize
+#     cols = ["txt", "pr", "preds"]
+#     _df = df.drop(cols, axis=1, inplace=False)

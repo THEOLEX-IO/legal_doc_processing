@@ -75,36 +75,36 @@ def predict_judge(obj: dict, threshold: float = 0.4, n_sents: int = 6) -> list:
     return last_ans
 
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
 
-    # import
-    import time
-    from legal_doc_processing.utils import get_pipeline, get_spacy
-    from legal_doc_processing.press_release.utils import press_release_X_y
-    from legal_doc_processing.press_release.press_release import PressRelease
+#     # import
+#     import time
+#     from legal_doc_processing.utils import get_pipeline, get_spacy
+#     from legal_doc_processing.press_release.utils import press_release_X_y
+#     from legal_doc_processing.press_release.press_release import PressRelease
 
-    # laod
-    nlpipe = get_pipeline()
-    nlspa = get_spacy()
-    nlspa.add_pipe("sentencizer")
+#     # laod
+#     nlpipe = get_pipeline()
+#     nlspa = get_spacy()
+#     nlspa.add_pipe("sentencizer")
 
-    # structured_press_release_r
-    df = press_release_X_y(features="defendant")
-    df = df.iloc[:7, :]
-    df["obj"] = [PressRelease(i, nlpipe=nlpipe, nlspa=nlspa) for i in df.txt.values]
+#     # structured_press_release_r
+#     df = press_release_X_y(features="defendant")
+#     df = df.iloc[:7, :]
+#     df["obj"] = [PressRelease(i, nlpipe=nlpipe, nlspa=nlspa) for i in df.txt.values]
 
-    # preds
-    t = time.time()
-    # 28 objects --> 181 secondes so --> +/-10 secondes per objects
-    df["pred_judge"] = df.obj.apply(lambda i: i.predict("judge"))
-    t = time.time() - t
+#     # preds
+#     t = time.time()
+#     # 28 objects --> 181 secondes so --> +/-10 secondes per objects
+#     df["pred_judge"] = df.obj.apply(lambda i: i.predict("judge"))
+#     t = time.time() - t
 
-    # # labels
-    # preds_labels = list(df.preds.iloc[0].keys())
-    # for k in preds_labels:
-    #     df["pred_" + k] = df.preds.apply(lambda i: i[k])
+#     # # labels
+#     # preds_labels = list(df.preds.iloc[0].keys())
+#     # for k in preds_labels:
+#     #     df["pred_" + k] = df.preds.apply(lambda i: i[k])
 
-    # 1st one
-    one = df.iloc[0, :]
-    one_txt = one.txt
-    one_ob = obj = self = one.obj
+#     # 1st one
+#     one = df.iloc[0, :]
+#     one_txt = one.txt
+#     one_ob = obj = self = one.obj

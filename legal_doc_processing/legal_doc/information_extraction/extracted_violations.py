@@ -4,7 +4,7 @@ from legal_doc_processing.utils import uniquize as _u
 
 from legal_doc_processing.utils import merge_ans, ask_all
 
-from legal_doc_processing.press_release.clean.extracted_violations import (
+from legal_doc_processing.press_release.extracted_violations.clean import (
     _clean_str_to_str,
     _clean_list_to_list,
     clean_ans,

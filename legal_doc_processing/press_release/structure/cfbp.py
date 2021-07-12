@@ -14,19 +14,19 @@ from legal_doc_processing.press_release.structure.utils import (
 )
 
 
-def give_cfbp_press_release_df():
+def give_cfpb_press_release_df():
     """ """
 
-    df = press_release_X_y(juridiction="cfbp", sample=0.9)
+    df = press_release_X_y(juridiction="cfpb", sample=0.9)
     cols = ["folder", "press_release_text"]
 
     return df.loc[:, cols]
 
 
-def give_cfbp_press_release_file():
+def give_cfpb_press_release_file():
     """ """
 
-    fn = "./data/files/cfbp/phloans/press-release.txt"
+    fn = "./data/files/cfpb/phloans/press-release.txt"
 
     with open(fn, "r") as f:
         txt = f.read()

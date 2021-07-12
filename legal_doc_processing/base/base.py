@@ -29,7 +29,7 @@ class Base:
         """ """
 
         # args check
-        juridiction_list = ["cftc", "doj", "sec", "cfbp"]
+        juridiction_list = ["cftc", "doj", "sec", "cfpb"]
         juridiction_cands = [i for i in juridiction_list if i in source]
         if not any(juridiction_cands):
             raise AttributeError(f"source arg must refers to one of {juridiction_list}")

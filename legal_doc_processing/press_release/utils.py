@@ -15,30 +15,6 @@ from legal_doc_processing.utils import (
 )
 
 
-def product_juridiction_pairs():
-
-    cftc_cands = [
-        "cftc",
-        "Commodity Futures Trading Commission",
-        "c.f.t.c",
-        "the Commodity Futures Trading Commission",
-    ]
-    doj_cands = ["doj", "department of justice", "d.o.j.", "the department of justice"]
-    sec_cands = [
-        "sec",
-        "Securities and Exchange Commission",
-        "s.e.c.",
-        "the Securities and Exchange Commission",
-    ]
-
-    cands = dict()
-    for k, _list in [("cftc", cftc_cands), ("doj", doj_cands), ("sec", sec_cands)]:
-        dd = {i.lower().strip(): k.lower().strip() for i in _list}
-        cands.update(dd)
-
-    return cands
-
-
 def product_juridic_form():
     """ make a list of llc, LLC, LLC. etc etc """
 
@@ -85,7 +61,7 @@ def get_entities_pers_orgs(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None)
 def press_release_X_y(juridiction="", features="", sample=1.0):
     """ """
 
-    assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
+    assert juridiction in ["cftc", "cfpb", "doj", "sec", ""]
 
     # main
     main_df = main_X_y()

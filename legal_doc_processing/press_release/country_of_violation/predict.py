@@ -14,8 +14,8 @@ def predict_country_of_violation(data: dict) -> list:
     # authorities list
     auth_list = data.feature_dict["extracted_authorities"].lower().split(",")
 
-    # cfbp and cftc -> USA
-    for auth in ["cfbp", "cftc"]:
+    # cfpb and cftc -> USA
+    for auth in ["cfpb", "cftc"]:
         if auth in auth_list:
             return [("United States of America", 1)]
 

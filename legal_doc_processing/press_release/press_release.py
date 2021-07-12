@@ -35,7 +35,7 @@ class PressRelease(Base):
 def press_release_df(juridiction="", nlspa="", nlpipe="", sample=0.25, max_init_time=3.0):
     """ """
 
-    assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
+    assert juridiction in ["cftc", "cfpb", "doj", "sec", ""]
 
     max_init_time = 3.0
 

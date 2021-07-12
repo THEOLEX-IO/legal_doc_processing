@@ -3,49 +3,48 @@ from legal_doc_processing import logger
 from legal_doc_processing.utils import uniquize as _u
 
 from legal_doc_processing.utils import merge_ans, ask_all
+from legal_doc_processing.press_release.judge.questions import (
+    _question_helper,
+    _question_selector,
+)
 
 
 def predict_judge(data: dict) -> list:
     """ """
 
-    return [(-1, -1)]
+    # make sent list, and filter not judge in sent
+    sent_list = data.content_sents
+    judge_ok = lambda j: "judge" in j
+    judge_sent_list = [(i, j) for i, j in enumerate(sent_list) if judge_ok(j.lower())]
 
+    # person or all
+    pers_org_all = data.pers_org_all  # _u(_sub_you_shall_not_pass(obj["pers_org_all"]))
+    pers_org_all = _u(pers_org_all)
 
-# def predict_judge(obj: dict, threshold: float = 0.4, n_sents: int = 6) -> list:
-#     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
+    # if no sents :
+    if not len(judge_sent_list):
+        return [(-1, 1)]
 
-#     # pipe to avoid re init a pipe each time (+/- 15 -> 60 sec)
-#     nlpipe = obj["nlpipe"]
+    # questions
+    ans = list()
+    for i, sent in judge_sent_list:
+        quest_pairs = _u(_question_selector(_question_helper(sent)))
+        ans.extend(ask_all(sent, quest_pairs, sent_id=i, sent=sent, nlpipe=data.nlpipe))
 
-#     # pers_org_entities_list
-#     pers_org_all = obj["pers_org_all"]  # _u(_sub_you_shall_not_pass(obj["pers_org_all"]))
-#     pers_org_all = _u(pers_org_all)
+    # answers
+    ans_answer = [i["answer"] for i in ans]
 
-#     # items
-#     abstract_sents = obj["abstract_sents"][:n_sents]
-#     ans = []
+    # filter by person
+    pers_org_all = [i.lower().strip() for i in pers_org_all]
+    filter_pers = lambda i: i.lower().strip() in pers_org_all
+    ans_answer = [i for i in ans_answer if filter_pers(i)]
 
-#     for sent in abstract_sents:
-#         key_list = _question_helper(sent)
-#         for key in key_list:
-#             quest_pairs = _u(_question_selector(key))
-#             ans.extend(ask_all(sent, quest_pairs, nlpipe=nlpipe))
+    # if not
+    if not len(ans_answer):
+        return [(-1, 1)]
 
-#     # clean ans
-#     cleaned_ans = ans
-#     answer_label = "answer"
-#     if not len(cleaned_ans):
-#         cleaned_ans = [{answer_label: "--None--", "score": -1}]
+    clean = (
+        lambda j: j.replace(".\n", ". \n").replace("\n", " ").replace("  ", " ").strip()
+    )
 
-#     # merge ans
-#     merged_ans = merge_ans(cleaned_ans, label=answer_label)
-
-#     # filert by spacy entities
-#     # consitant_ans = [i for i in merged_ans if i[answer_label] in pers_org_all]
-#     consitant_ans = merged_ans
-
-#     # filter by threshold
-#     flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]
-#     last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
-
-#     return last_ans
+    return [(clean(j), 1) for j in ans_answer]

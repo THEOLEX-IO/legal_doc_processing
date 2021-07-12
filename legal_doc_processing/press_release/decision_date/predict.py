@@ -25,7 +25,7 @@ def predict_decision_date(data: dict) -> list:
 
     # if  not
     if not date_list:
-        return [(-1, 1)]
+        return [("", 1)]
 
     # parse date
     date_list = [dateparser.parse(i) for i in date_list if dateparser.parse(i)]

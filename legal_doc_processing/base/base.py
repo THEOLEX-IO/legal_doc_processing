@@ -94,11 +94,16 @@ class Base:
         # this order is important
         # ie country of violations depedns of justice_type
         # penalty depends of violations
+
+        # predict_country_of_violation NEED extracted_authorities
+        # predict_extracted_authorities NEEDS judge
+        # Justice_type NEEDS extracted_authorities
+
         self._feature_list = [
             "_cooperation_credit",
             "_court",
+            "_currency",
             "_decision_date",
-            "_extracted_authorities",
             "_extracted_violations",  # ATTENTION PB extracted_violations vs _nature_of violations
             "_folder",
             "_judge",
@@ -106,11 +111,11 @@ class Base:
             "_nature_de_sanction",  # attention _penalty_details _monetary_sanction and  _compliance_obligations
             "_nature_of_violations",  ###### ATTENTION PB extracted_violations vs _nature_of violations
             "_reference",
-            "_type",  # depends of predict authorities
-            "_justice_type",  # depends of predict authorities
-            "_defendant",  # depends of _judge and extrcated authorities
-            "_country_of_violation",  # depends of predict authorities
-            "_currency",  # depends of predict authorities
+            "_extracted_authorities",  # depends of judge
+            "_type",  # depends of _extracted_authorities
+            "_justice_type",  # depends of _extracted_authorities
+            "_defendant",  # depends of _judge and _extracted_authorities
+            "_country_of_violation",  # depends of _extracted_authorities
             "_penalty_details",  # depends of _extracted_violations
             "_monetary_sanction",  # depends of _penalty_details
             "_compliance_obligations",

@@ -4,7 +4,7 @@ from legal_doc_processing import logger
 def predict_justice_type(data: dict) -> list:
     """ """
 
-    auths = data.features_dict["extracted_authorities"]
+    auths = data.features_dict["extracted_authorities"].lower()
 
     if ("cftc" or "cfpb") in auths:
         return [("U.S. - Civil", 1)]

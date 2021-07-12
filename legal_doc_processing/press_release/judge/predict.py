@@ -19,17 +19,17 @@ def predict_judge(data: dict) -> list:
 
     # person or all
     pers_org_all = data.pers_org_all  # _u(_sub_you_shall_not_pass(obj["pers_org_all"]))
-    pers_org_all = _u(pers_org_all)
+    pers_org_all = _u(pers_org_all)  # unique
 
     # if no sents :
     if not len(judge_sent_list):
-        return [(-1, 1)]
+        return [("", 1)]
 
     # questions
     ans = list()
     for i, sent in judge_sent_list:
         quest_pairs = _u(_question_selector(_question_helper(sent)))
-        ans.extend(ask_all(sent, quest_pairs, sent_id=i, sent=sent, nlpipe=data.nlpipe))
+        ans.extend(ask_all(sent, quest_pairs, nlpipe=data.nlpipe))
 
     # answers
     ans_answer = [i["answer"] for i in ans]
@@ -41,10 +41,12 @@ def predict_judge(data: dict) -> list:
 
     # if not
     if not len(ans_answer):
-        return [(-1, 1)]
+        return [("", 1)]
 
+    # clean
     clean = (
         lambda j: j.replace(".\n", ". \n").replace("\n", " ").replace("  ", " ").strip()
     )
+    ans_answer = [clean(j) for j in ans_answer]
 
-    return [(clean(j), 1) for j in ans_answer]
+    return [(j, 1) for j in ans_answer]

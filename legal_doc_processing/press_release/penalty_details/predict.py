@@ -6,10 +6,10 @@ from legal_doc_processing.utils import merge_ans, ask_all
 from legal_doc_processing.press_release.penalty_details.clean import clean_ans
 
 
-def predict_penalty_details(data):
+def predict_penalty_details(data: dict) -> list:
     """ """
 
-    return [(-1, -1)]
+    return [("-- DUMMY --", 1)]
 
 
 # def predict_penalty_details(obj: dict, threshold=0.4, n_sents: int = 5) -> list:

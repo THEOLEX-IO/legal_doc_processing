@@ -13,7 +13,7 @@ from legal_doc_processing.press_release.defendant.clean import (
 def predict_defendant(data: dict) -> list:
     """ """
 
-    return [(-1, -1)]
+    return [("-- DUMMY --", 1)]
 
 
 # def predict_defendant(obj: dict, threshold: float = 0.4, n_sents: int = 3) -> list:

@@ -10,11 +10,12 @@ def predict_cooperation_credit(data: dict, threshold=0.4, n_sents: int = 5) -> l
 
     # make sent list, and filter not cooperat in sent
     sent_list = data.content_sents
-    coop_sent_list = [(i, j) for i, j in enumerate(sent_list) if "cooperat" in j.lower()]
+    coop_ok = lambda j: "cooperat" in j.lower()
+    coop_sent_list = [(i, j) for i, j in enumerate(sent_list) if coop_ok(j)]
 
     # if no sents :
     if not len(coop_sent_list):
-        return [(-1, 1)]
+        return [("", 1)]
 
     # clean
     clean = lambda j: j.replace(".\n", ". \n").replace("\n", "")

@@ -12,7 +12,7 @@ from legal_doc_processing.press_release.monetary_sanction.clean import _cast_as_
 
 def predict_monetary_sanction(data: dict) -> list:
 
-    return [(-1, -1)]
+    return [("-- DUMMY --", 1)]
 
 
 # def predict_monetary_sanction(obj: dict) -> list:

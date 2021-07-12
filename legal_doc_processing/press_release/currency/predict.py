@@ -10,4 +10,4 @@ def predict_currency(data: dict) -> list:
         if (k in data.h1) or (k in data.abstract):
             return [(curr_dict[k], 1)]
 
-    return [(-1, -1)]
+    return [("USD", 0.8)]

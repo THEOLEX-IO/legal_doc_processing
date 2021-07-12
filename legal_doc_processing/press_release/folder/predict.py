@@ -10,4 +10,4 @@ def predict_folder(data: dict) -> list:
     # _folder = _folder.split(" ")[-1]
     # return [(_folder, 1)]
 
-    return [(-1, -1)]
+    return [("-- DUMMY --", 1)]

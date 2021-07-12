@@ -27,10 +27,10 @@ def predict_country_of_violation(data: dict) -> list:
     countries_cands = list()
     for sent in sent_list:
         countries_cands.extend(get_label_(sent, "GPE", data.nlspa))
-    countries_lowered = [i.lower().strip() for i in _u(countries_cands)]
+    countries_lowered = _u([i.lower().strip() for i in countries_cands])
 
     # filter
-    in_countries = lambda i: i.strip().lower() in countries_lowered
+    in_countries = lambda i: i.strip().lower() in countries_list
     countries_filtered = [i for i in countries_lowered if in_countries(i)]
 
     return [(i, 1) for i in countries_filtered]

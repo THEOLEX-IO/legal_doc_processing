@@ -1,5 +1,5 @@
 import os
-
+import pdb
 from legal_doc_processing import logger
 
 from legal_doc_processing.utils import uniquize as _u
@@ -13,6 +13,8 @@ from legal_doc_processing.press_release.extracted_authorities.juridiction_pairs 
 def predict_extracted_authorities(data: dict) -> list:
     """ """
 
+    # try:
+
     # juridiction
     juridiction = [data.juridiction]
 
@@ -22,6 +24,8 @@ def predict_extracted_authorities(data: dict) -> list:
     courts = data.feature_dict["court"]
     if courts:
         courts = [i for i in courts.split(";;")]
+    else:
+        courts = []
 
     # orgs
     all_orgs = list()
@@ -34,6 +38,13 @@ def predict_extracted_authorities(data: dict) -> list:
     filtered_orgs = [i.lower().strip() for i in filtered_orgs if i]
 
     # auths list
-    auths_list = _u(juridiction + courts + filtered_orgs)
+    auths_list = [i for i in _u(juridiction + courts + filtered_orgs) if i]
+
+    # except Exception as e:
+    #     logger.error(f"e : {e} {str(e)} ")
+
+    #     pdb.set_trace()
+
+    #     raise e
 
     return [(i, 1) for i in auths_list]

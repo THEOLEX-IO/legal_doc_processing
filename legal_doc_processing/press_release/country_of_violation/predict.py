@@ -12,22 +12,25 @@ def predict_country_of_violation(data: dict) -> list:
     """ """
 
     # authorities list
-    auth_list = data.feature_dict["extracted_authorities"].lower().split(",")
+    juridiction = data.juridiction
+    auth_list = data.feature_dict["extracted_authorities"].lower().split(";;")
 
     # cfbp and cftc -> USA
     for auth in ["cfbp", "cftc"]:
-        if auth in auth_list:
+        if juridiction in auth:
             return [("United States", 1)]
 
     # make sent list, and filter not cooperat in sent
     sent_list = data.content_sents
 
     # find the list of countries
-    countries_cands = _u([get_label_(sent, "GPE", data.nlspa) for sent in sent_list])
-    countries_lowered = [i.lower().strip() for i in countries_list]
+    countries_cands = list()
+    for sent in sent_list:
+        countries_cands.extend(get_label_(sent, "GPE", data.nlspa))
+    countries_lowered = [i.lower().strip() for i in _u(countries_cands)]
 
     # filter
     in_countries = lambda i: i.strip().lower() in countries_lowered
-    countries_filtered = [i for i in countries_cands if in_countries(i)]
+    countries_filtered = [i for i in countries_lowered if in_countries(i)]
 
     return [(i, 1) for i in countries_filtered]

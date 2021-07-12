@@ -116,7 +116,7 @@ def uniquize(iterable: list) -> list:
 def strize(item_list):
     """ """
 
-    non_null = [(i, j) for i, j in item_list if j > 0]
+    non_null = [(i, j) for i, j in item_list if j > -1]
     if not non_null:
         return ""
 
@@ -124,7 +124,7 @@ def strize(item_list):
 
     unique_l = uniquize(clean_l)
 
-    return ",".join(clean_l(unique_l))
+    return ";;".join(clean_l(unique_l))
 
 
 def get_spacy():

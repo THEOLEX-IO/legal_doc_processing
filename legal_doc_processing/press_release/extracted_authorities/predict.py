@@ -16,10 +16,12 @@ def predict_extracted_authorities(data: dict) -> list:
     # juridiction
     juriction = [data.juriction]
 
+    logger.info(f"juriction : {juriction} ")
+
     # courts
     courts = data.feature_dict["court"]
     if courts:
-        courts = [i for i in courts.split(",")]
+        courts = [i for i in courts.split(";;")]
 
     # orgs
     all_orgs = list()

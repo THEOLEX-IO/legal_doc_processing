@@ -16,11 +16,11 @@ def test_preds_by(
 
     logger.info("called")
 
-    # juridiction = ""
-    # nlspa = None
-    # nlpipe = None
-    # sample = 0.25
-    # max_pred_time = 11.0
+    juridiction = ""
+    nlspa = None
+    nlpipe = None
+    sample = 0.33
+    max_pred_time = 11.0
 
     assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
 

@@ -9,14 +9,16 @@ from legal_doc_processing.press_release.court.questions import (
     _question_selector,
 )
 
+from legal_doc_processing.press_release.court.clean import final_clean
 
-def predict_court(data: dict) -> list:
+
+def predict_court(data: dict, threshold: float = 0.25) -> list:
     """ """
 
     # make sent list, and filter not cooperat in sent
     sent_list = data.content_sents
-    court_ok = lambda j: ("court" or "tribunal" or "district") in j.lower()
-    court_sent_list = [(i, j) for i, j in enumerate(sent_list) if court_ok(j)]
+    court_ok = lambda j: ("court" or "tribunal" or "district" or "federal") in j
+    court_sent_list = [(i, j) for i, j in enumerate(sent_list) if court_ok(j.lower())]
 
     # if no sents :
     if not len(court_sent_list):
@@ -28,13 +30,27 @@ def predict_court(data: dict) -> list:
         quest_pairs = _u(_question_selector(_question_helper(sent)))
         ans.extend(ask_all(sent, quest_pairs, nlpipe=data.nlpipe))
 
-    # answers
-    ans_answer = [ans[0]["answer"]]
+    logger.info(f"ans : {ans}")
+
+    # threshold
+    ans = _u([i["answer"] for i in ans if i["score"] >= threshold])
+
+    # if no ans :
+    if not ans:
+        return [("", 1)]
+
+    # # filter org_list
+    # org_list = get_label_(
+    #     " ".join([j for _, j in court_sent_list]), "ORG", nlspa=data.nlspa
+    # )
+    # org_list = _u([i.lower().strip() for i in org_list])  # unique
+    # is_in = lambda i: [(i.lower().strip() in org) for org in org_list]
+    # ans = [i for i in ans if any(is_in(i))]
+
+    # ans
+    ans = [ans[0]]
 
     # clean
-    clean = (
-        lambda j: j.replace(".\n", ". \n").replace("\n", " ").replace("  ", " ").strip()
-    )
-    ans_answer = [clean(j) for j in ans_answer]
+    ans = [final_clean(j) for j in ans]
 
-    return [(j, 1) for j in ans_answer]
+    return [(j, 1) for j in ans]

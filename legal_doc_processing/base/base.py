@@ -51,6 +51,7 @@ class Base:
         self.content = ""
         self.struct_content = ""
         self.abstract = ""
+        self.end = ""
 
         # pipe and spacy
         self.nlpipe = nlpipe if nlpipe else get_pipeline()
@@ -286,7 +287,7 @@ class Base:
             try:
                 val = self._predict[feature](self.data)
             except Exception as e:
-                val = [("--Error-- " + str(e), -1)]
+                val = [("--Error-- " + str(e), 1)]
             setattr(self, "_" + feature, val)
             return val
 
@@ -299,7 +300,7 @@ class Base:
             try:
                 val = self._predict[feature](self.data)
             except Exception as e:
-                val = [("--Error-- " + str(e), -1)]
+                val = [("--Error-- " + str(e), 1)]
             setattr(self, "_" + feature, val)
         return self.feature_dict
 

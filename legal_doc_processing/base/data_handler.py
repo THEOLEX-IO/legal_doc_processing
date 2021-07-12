@@ -9,6 +9,7 @@ class DataHandler:
         self.feature_dict = obj.feature_dict
         # text
         self.source = obj.source
+        self.juridiction = obj.juridiction
         self.raw_text = obj.raw_text
         self.date = obj.date
         self.h1 = obj.h1

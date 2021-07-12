@@ -14,7 +14,7 @@ from legal_doc_processing.press_release.extracted_violations.clean import (
 def predict_extracted_violations(data: dict) -> list:
     """ """
 
-    return [(-1, -1)]
+    return [("-- DUMMY --", 1)]
 
 
 # def predict_extracted_violations(obj: dict, threshold=0.4, n_sents: int = 5) -> list:

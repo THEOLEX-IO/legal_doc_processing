@@ -2,7 +2,7 @@ from legal_doc_processing import logger
 
 from legal_doc_processing.utils import uniquize as _u
 
-from legal_doc_processing.utils import merge_ans, ask_all
+# from legal_doc_processing.utils import merge_ans, ask_all
 
 
 def predict_cooperation_credit(data: dict, threshold=0.4, n_sents: int = 5) -> list:
@@ -16,5 +16,8 @@ def predict_cooperation_credit(data: dict, threshold=0.4, n_sents: int = 5) -> l
     if not len(coop_sent_list):
         return [(-1, 1)]
 
+    # clean
     clean = lambda j: j.replace(".\n", ". \n").replace("\n", "")
-    return [(clean(j), 1) for _, j in coop_sent_list]
+    coop_sent_list = [clean(j) for _, j in coop_sent_list]
+
+    return [(j, 1) for j in coop_sent_list]

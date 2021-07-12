@@ -3,7 +3,7 @@ from legal_doc_processing import logger
 
 from legal_doc_processing.utils import uniquize as _u
 
-from legal_doc_processing.utils import merge_ans, ask_all
+from legal_doc_processing.utils import merge_ans, ask_all, get_label_
 
 from legal_doc_processing.press_release.court.questions import (
     _question_helper,
@@ -27,12 +27,15 @@ def predict_court(data: dict) -> list:
     ans = list()
     for i, sent in court_sent_list:
         quest_pairs = _u(_question_selector(_question_helper(sent)))
-        ans.extend(ask_all(sent, quest_pairs, sent_id=i, sent=sent, nlpipe=nlpipe))
+        ans.extend(ask_all(sent, quest_pairs, sent_id=i, sent=sent, nlpipe=data.nlpipe))
 
     # answers
     ans_answer = [ans[0]["answer"]]
+
+    # clean
     clean = (
         lambda j: j.replace(".\n", ". \n").replace("\n", " ").replace("  ", " ").strip()
     )
+    ans_answer = [clean(j) for j in ans_answer]
 
-    return [(clean(j), 1) for j in ans_answer]
+    return [(j, 1) for j in ans_answer]

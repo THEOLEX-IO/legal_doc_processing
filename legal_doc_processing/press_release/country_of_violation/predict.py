@@ -17,7 +17,7 @@ def predict_country_of_violation(data: dict) -> list:
     # cfpb and cftc -> USA
     for auth in ["cfpb", "cftc"]:
         if auth in auth_list:
-            return [("United States of America", 1)]
+            return [("United States", 1)]
 
     # make sent list, and filter not cooperat in sent
     sent_list = data.content_sents

@@ -61,7 +61,7 @@ def get_entities_pers_orgs(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None)
 def press_release_X_y(juridiction="", features="", sample=1.0):
     """ """
 
-    assert juridiction in ["cftc", "cfpb", "doj", "sec", ""]
+    assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
 
     # main
     main_df = main_X_y()

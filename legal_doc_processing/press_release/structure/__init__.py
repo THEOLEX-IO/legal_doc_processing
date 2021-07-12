@@ -9,8 +9,8 @@ from legal_doc_processing.press_release.structure.doj import (
     structure_press_release as structure_doj,
 )
 
-from legal_doc_processing.press_release.structure.cfpb import (
-    structure_press_release as structure_cfpb,
+from legal_doc_processing.press_release.structure.cfbp import (
+    structure_press_release as structure_cfbp,
 )
 
 from legal_doc_processing.press_release.structure.sec import (
@@ -30,8 +30,8 @@ def structure_press_release(txt, juridiction="", nlspa=None):
         pass
 
     # if  juridiction --> EASY
-    if juridiction == "cfpb":
-        return structure_cfpb(txt, nlspa=nlspa)
+    if juridiction == "cfbp":
+        return structure_cfbp(txt, nlspa=nlspa)
     if juridiction == "cftc":
         return structure_cftc(txt, nlspa=nlspa)
     if juridiction == "doj":
@@ -51,9 +51,9 @@ def structure_press_release(txt, juridiction="", nlspa=None):
         ["DOJ", "Department of Justice"],
     )
 
-    cfpb_pairs = (
-        "cfpb",
-        ["cfpb", "Consumer Financial Protection Bureau"],
+    cfbp_pairs = (
+        "cfbp",
+        ["cfbp", "Consumer Financial Protection Bureau"],
     )
 
     sec_pairs = (
@@ -62,7 +62,7 @@ def structure_press_release(txt, juridiction="", nlspa=None):
     )
 
     # pairs and cands
-    pairs = [cftc_pairs, doj_pairs, cfpb_pairs, sec_pairs]
+    pairs = [cftc_pairs, doj_pairs, cfbp_pairs, sec_pairs]
     final_cands = list()
 
     # find a auth
@@ -74,8 +74,8 @@ def structure_press_release(txt, juridiction="", nlspa=None):
     auth = final_cands[0]
 
     # return funct
-    if auth == "cfpb":
-        return structure_cfpb(txt, nlspa=nlspa)
+    if auth == "cfbp":
+        return structure_cfbp(txt, nlspa=nlspa)
     if auth == "cftc":
         return structure_cftc(txt, nlspa=nlspa)
     if auth == "doj":

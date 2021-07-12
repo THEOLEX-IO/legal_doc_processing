@@ -1,57 +1,65 @@
 juridiction_dict = {
+    # cftc
+    "the cftc": "cftc",
     "cftc": "cftc",
-    "commodity futures trading commission": "cftc",
     "c.f.t.c": "cftc",
     "the commodity futures trading commission": "cftc",
-    "the cftc": "cftc",
+    "commodity futures trading commission": "cftc",
+    # doj
+    "the doj": "doj",
     "doj": "doj",
-    "department of justice": "doj",
     "d.o.j.": "doj",
     "the department of justice": "doj",
-    "the doj": "doj",
+    "department of justice": "doj",
+    # sec
+    "the sec": "sec",
     "sec": "sec",
-    "securities and exchange commission": "sec",
     "s.e.c.": "sec",
     "the securities and exchange commission": "sec",
-    "the sec": "sec",
-    "the consumer financial protection bureau": "cfpb",
-    "cfpb": "cfpb",
-    "consumer financial protection bureau": "cfpb",
-    "the cfpb": "cfpb",
-    "c.f.p.b": "cfpb",
+    "securities and exchange commission": "sec",
+    # cfpb
+    "the cfbp": "cfbp",
+    "the cfpb": "cfbp",
+    "cfbp": "cfbp",
+    "cfpb": "cfbp",
+    "c.f.p.b": "cfbp",
+    "the consumer financial protection bureau": "cfbp",
+    "consumer financial protection bureau": "cfbp",
 }
 
 
 def product_juridiction_pairs():
 
     cftc_cands = [
+        "the cftc",
         "cftc",
-        "Commodity Futures Trading Commission",
         "c.f.t.c",
         "the Commodity Futures Trading Commission",
-        "the cftc",
+        "Commodity Futures Trading Commission",
     ]
     doj_cands = [
+        "the doj",
         "doj",
-        "department of justice",
         "d.o.j.",
         "the department of justice",
-        "the doj",
+        "department of justice",
     ]
     sec_cands = [
+        "the sec",
         "sec",
-        "Securities and Exchange Commission",
         "s.e.c.",
         "the Securities and Exchange Commission",
-        "the sec",
+        "Securities and Exchange Commission",
     ]
 
-    cfpb_cands = [
-        "The Consumer Financial Protection Bureau",
-        "cfpb",
-        "Consumer Financial Protection Bureau",
+    cfbp_cands = [
+        "the cfbp",
         "the cfpb",
+        "cfbp",
+        "cfpb",
         "c.f.p.b",
+        "Consumer Financial Protection Bureau",
+        "the Consumer Financial Protection Bureau",
     ]
 
     cands = dict()
@@ -59,7 +67,7 @@ def product_juridiction_pairs():
         ("cftc", cftc_cands),
         ("doj", doj_cands),
         ("sec", sec_cands),
-        ("cfpb", cfpb_cands),
+        ("cfbp", cfbp_cands),
     ]:
         dd = {i.lower().strip(): k.lower().strip() for i in _list}
         cands.update(dd)

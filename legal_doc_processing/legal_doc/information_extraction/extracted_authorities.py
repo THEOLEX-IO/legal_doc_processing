@@ -2,7 +2,8 @@ from legal_doc_processing import logger
 
 from legal_doc_processing.utils import uniquize as _u
 from legal_doc_processing.utils import merge_ans, ask_all
-from legal_doc_processing.legal_doc.clean.extracted_authorities import _filter_jur
+
+# from legal_doc_processing.legal_doc.clean.extracted_authorities import _filter_jur
 
 
 def _question_helper(txt) -> list:

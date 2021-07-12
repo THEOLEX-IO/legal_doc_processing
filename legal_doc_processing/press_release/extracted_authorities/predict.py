@@ -14,9 +14,9 @@ def predict_extracted_authorities(data: dict) -> list:
     """ """
 
     # juridiction
-    juriction = [data.juriction]
+    juridiction = [data.juridiction]
 
-    logger.info(f"juriction : {juriction} ")
+    logger.info(f"juridiction : {juridiction} ")
 
     # courts
     courts = data.feature_dict["court"]
@@ -34,6 +34,6 @@ def predict_extracted_authorities(data: dict) -> list:
     filtered_orgs = [i.lower().strip() for i in filtered_orgs if i]
 
     # auths list
-    auths_list = _u(juriction + courts + filtered_orgs)
+    auths_list = _u(juridiction + courts + filtered_orgs)
 
     return [(i, 1) for i in auths_list]

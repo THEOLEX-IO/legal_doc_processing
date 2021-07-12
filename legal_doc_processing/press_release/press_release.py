@@ -28,19 +28,8 @@ class PressRelease(Base):
             nlspa=nlspa,
         )
 
-        # specs
-        self.h1 = self.struct_text["h1"]
-        self.abstract = "\n".join(self.struct_text["article"].split("\n")[:n_lines])
-
         # set all
         self.set_all()
-
-        # all_text_sents
-        self.all_text_sents = [
-            i.text
-            for i in self.nlspa(self.struct_text["article"]).sents
-            if i.text.strip()
-        ]
 
 
 def press_release_df(juridiction="", nlspa="", nlpipe="", sample=0.25, max_init_time=3.0):

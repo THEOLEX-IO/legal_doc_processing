@@ -10,6 +10,7 @@ import os
 import numpy as np
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
+import pdb
 
 # import heapq
 # import nltk
@@ -143,7 +144,7 @@ def get_label_(txt: str, label: str, nlspa=None) -> list:
     nlspa = _if_not_spacy(nlspa)
 
     label = label.upper().strip()
-    assert label in ["PERSON", "ORG", "MONEY", "DATE"]
+    assert label in ["PERSON", "ORG", "MONEY", "DATE", "GPE"]
 
     ans = [i for i in nlspa(txt).ents if i.label_ == label]
     ans = [str(p) for p in ans]
@@ -185,7 +186,7 @@ def _ask(txt: str, quest: str, nlpipe, topk: int = 3) -> list:
     return nlpipe(question=quest, context=txt, topk=topk)
 
 
-def ask_all(txt, quest_pairs, nlpipe) -> list:
+def ask_all(txt, quest_pairs, sent_id=None, sent=None, nlpipe=None) -> list:
     """asl all questions and return a list of dict """
 
     # txt
@@ -199,9 +200,19 @@ def ask_all(txt, quest_pairs, nlpipe) -> list:
     ans = []
 
     # loop
+    logger.info(f"quest_pairs : {quest_pairs} , len {quest_pairs} ")
+    # pdb.set_trace()
+
     for quest, label in quest_pairs:
+
+        logger.info(f"quest_pairs : {quest_pairs} ")
         ds = _ask(txt=txt, quest=quest, nlpipe=nlpipe)
         _ = [d.update({"question": label}) for d in ds]
+        if sent_id:
+            _ = [d.update({"sent_id": sent_id}) for d in ds]
+        if sent:
+            _ = [d.update({"sent": sent}) for d in ds]
+
         ans.extend(ds)
 
     # sort

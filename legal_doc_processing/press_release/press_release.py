@@ -53,20 +53,19 @@ def press_release_df(juridiction="", nlspa="", nlpipe="", sample=0.25, max_init_
     df = press_release_X_y(juridiction=juridiction, sample=sample)
 
     # Press Releae
-    t = time()
-    juri = juridiction
+
+    juri = juridiction.lower().strip()
     if juridiction:
+        # selec juridiction
+        select_jur = lambda i: str(i).lower().strip() == juri
+        df = df.loc[df.juridiction.apply(select_jur), :]
+        # make pr
         make_pr = lambda i: PressRelease(i, source=juri, nlpipe=nlpipe, nlspa=nlspa)
         df["pr"] = df.press_release_text.apply(make_pr)
     else:
+        # make pr
         make_pr = lambda i, j: PressRelease(i, source=j, nlpipe=nlpipe, nlspa=nlspa)
         df["pr"] = [make_pr(i, j) for i, j in zip(df.press_release_text, df.juridiction)]
-
-    tt, ttt = round(time() - t, 2), round((time() - t) / len(df), 2)
-    print(
-        f"time: {tt}s, n objs : {len(df)}, avg obj init: {ttt}s (max_init_time: {max_init_time})s"
-    )
-    assert ttt < max_init_time
 
     return df
 

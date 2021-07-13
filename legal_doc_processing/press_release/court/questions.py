@@ -4,11 +4,7 @@ def _question_helper(txt) -> list:
     _txt = txt.lower()
     res = list()
 
-    cands = [
-        "court",
-        "district",
-        "tribunal",
-    ]
+    cands = ["court", "district", "tribunal", "federal"]
 
     for cand in cands:
         if cand in _txt:
@@ -26,6 +22,30 @@ def _question_selector(key: str) -> list:
         res.extend(
             [
                 ("What is the court?", "who_court"),
+            ]
+        )
+        return res
+
+    if "district" in key:  # court
+        res.extend(
+            [
+                ("What is the court?", "who_court"),
+            ]
+        )
+        return res
+
+    if "federal" in key:  # federal
+        res.extend(
+            [
+                ("What is the court?", "who_court"),
+            ]
+        )
+        return res
+
+    if "tribunal" in key:  # tribunal
+        res.extend(
+            [
+                ("What is the tribunal?", "who_court"),
             ]
         )
 

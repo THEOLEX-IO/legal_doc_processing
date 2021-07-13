@@ -14,23 +14,23 @@ def predict_judge(data: dict, threshold: float = 0.25) -> list:
 
     # make sent list, and filter not judge in sent
     sent_list = data.content_sents
-    judge_ok = lambda j: "judge" in j
-    judge_sent_list = [(i, j) for i, j in enumerate(sent_list) if judge_ok(j.lower())]
+    filter_judge = lambda j: "judge" in j
+    judge_sent_list = [(i, j) for i, j in enumerate(sent_list) if filter_judge(j.lower())]
 
     # if no sents :
     if not len(judge_sent_list):
         return [("", 1)]
 
     # questions
-    ans = list()
+    ans_list = list()
     for i, sent in judge_sent_list:
         quest_pairs = _u(_question_selector(_question_helper(sent)))
-        ans.extend(ask_all(sent, quest_pairs, nlpipe=data.nlpipe))
+        ans_list.extend(ask_all(sent, quest_pairs, nlpipe=data.nlpipe))
 
-    logger.info(f"ans : {ans}")
+    logger.info(f"ans_list : {ans_list}")
 
     # threshold
-    ans = _u([i["answer"] for i in ans if i["score"] >= threshold])
+    ans_list = _u([ans["answer"] for ans in ans_list if ans["score"] >= threshold])
 
     # if no ans :
     if not ans:

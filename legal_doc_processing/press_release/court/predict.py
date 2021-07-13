@@ -25,18 +25,18 @@ def predict_court(data: dict, threshold: float = 0.25) -> list:
         return [("", 1)]
 
     # questions
-    ans = list()
+    ans_list = list()
     for i, sent in court_sent_list:
         quest_pairs = _u(_question_selector(_question_helper(sent)))
-        ans.extend(ask_all(sent, quest_pairs, nlpipe=data.nlpipe))
+        ans_list.extend(ask_all(sent, quest_pairs, nlpipe=data.nlpipe))
 
-    logger.info(f"ans : {ans}")
+    logger.info(f"ans_list : {ans_list}")
 
     # threshold
-    ans = _u([i["answer"] for i in ans if i["score"] >= threshold])
+    ans_list = _u([ans["answer"] for ans in ans_list if ans["score"] >= threshold])
 
     # if no ans :
-    if not ans:
+    if not ans_list:
         return [("", 1)]
 
     # # filter org_list
@@ -48,9 +48,9 @@ def predict_court(data: dict, threshold: float = 0.25) -> list:
     # ans = [i for i in ans if any(is_in(i))]
 
     # ans
-    ans = [ans[0]]
+    ans_list = [ans_list[0]]
 
     # clean
-    ans = [final_clean(j) for j in ans]
+    ans_list = [final_clean(j) for j in ans_list]
 
-    return [(j, 1) for j in ans]
+    return [(j, 1) for j in ans_list]

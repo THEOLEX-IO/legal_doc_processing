@@ -1,7 +1,3 @@
-def clean(txt: str) -> str:
-    """ """
-
-
 def final_clean(txt: str) -> str:
     """ """
 

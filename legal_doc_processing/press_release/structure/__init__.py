@@ -53,7 +53,7 @@ def structure_press_release(txt, juridiction="", nlspa=None):
 
     cfbp_pairs = (
         "cfbp",
-        ["CFBP", "Consumer Financial Protection Bureau"],
+        ["cfbp", "Consumer Financial Protection Bureau"],
     )
 
     sec_pairs = (

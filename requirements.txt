@@ -2,7 +2,7 @@
 pytest==6.2.4
 pytest-cov
 
-# core
+# core :) 
 setuptools~=54.1.2
 wheel
 wheel-inspect

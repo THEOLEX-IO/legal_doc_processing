@@ -34,7 +34,9 @@ def predict_country_of_violation(data: dict) -> list:
     # filter
     _countries_list = [i.lower().strip() for i in countries_list]
     in_countries = lambda i: i.replace("the", "").strip() in _countries_list
-    countries_filtered = [i for i in countries_lowered if in_countries(i)]
+    countries_filtered = [
+        i.replace("the", "").strip() for i in countries_lowered if in_countries(i)
+    ]
 
     # if not countries_filtered:
     #     pdb.set_trace()

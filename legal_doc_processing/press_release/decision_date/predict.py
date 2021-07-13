@@ -13,6 +13,9 @@ from legal_doc_processing.utils import get_label_
 def predict_decision_date(data: dict) -> list:
     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
+    if data.date:
+        return [(data.date, 1)]
+
     # sent list
     sent_list = data.content.split("\n")
     date_ok = lambda j: ("19" or "20") in j

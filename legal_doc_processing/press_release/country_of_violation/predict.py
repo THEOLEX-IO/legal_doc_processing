@@ -1,3 +1,5 @@
+import pdb
+
 from legal_doc_processing import logger
 
 from legal_doc_processing.utils import uniquize as _u
@@ -30,7 +32,11 @@ def predict_country_of_violation(data: dict) -> list:
     countries_lowered = _u([i.lower().strip() for i in countries_cands])
 
     # filter
-    in_countries = lambda i: i.strip().lower() in countries_list
+    _countries_list = [i.lower().strip() for i in countries_list]
+    in_countries = lambda i: i.replace("the", "").strip() in _countries_list
     countries_filtered = [i for i in countries_lowered if in_countries(i)]
+
+    # if not countries_filtered:
+    #     pdb.set_trace()
 
     return [(i, 1) for i in countries_filtered]

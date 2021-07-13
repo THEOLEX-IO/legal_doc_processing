@@ -1,21 +1,28 @@
 from time import time
 from legal_doc_processing import logger
 from legal_doc_processing.utils import get_pipeline, get_spacy
-from legal_doc_processing.press_release.utils import press_release_X_y
-from legal_doc_processing._press_release import PressRelease
+from legal_doc_processing.press_release.press_release import (
+    PressRelease,
+    press_release_df,
+)
 
 
-def test_preds_by(juridiction="", nlspa="", nlpipe="", sample=0.25, max_pred_time=11.0):
+def test_preds_by(
+    juridiction="", nlspa=None, nlpipe=None, sample=0.25, max_pred_time=11.0
+):
     """ """
 
-    assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
-
-    max_pred_time = 11.0
-
-    from time import time
     from legal_doc_processing import logger
 
     logger.info("called")
+
+    juridiction = ""
+    nlspa = None
+    nlpipe = None
+    sample = 0.33
+    max_pred_time = 11.0
+
+    assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
 
     # load
     from legal_doc_processing.utils import get_pipeline, get_spacy
@@ -30,21 +37,15 @@ def test_preds_by(juridiction="", nlspa="", nlpipe="", sample=0.25, max_pred_tim
         pass
 
     # dataframe
-    from legal_doc_processing.press_release.utils import press_release_X_y
+    from legal_doc_processing.press_release.press_release import press_release_df
 
-    df = press_release_X_y(juridiction=juridiction, sample=sample)
-
-    # Press Releae
-    from legal_doc_processing._press_release import PressRelease
-
-    if juridiction:
-        make_pr = lambda i: PressRelease(i, source=juri, nlpipe=nlpipe, nlspa=nlspa)
-        df["pr"] = df.press_release_text.apply(make_pr)
-    else:
-        make_pr = lambda i, j: PressRelease(i, source=j, nlpipe=nlpipe, nlspa=nlspa)
-        df["pr"] = [make_pr(i, j) for i, j in zip(df.press_release_text, df.juridiction)]
+    df = press_release_df(
+        juridiction=juridiction, sample=sample, nlspa=nlspa, nlpipe=nlpipe
+    )
 
     # preds
+    from time import time
+
     t = time()
     df["preds"] = df.pr.apply(lambda i: i.predict_all())
     tt, ttt = round(time() - t, 2), round((time() - t) / len(df), 2)

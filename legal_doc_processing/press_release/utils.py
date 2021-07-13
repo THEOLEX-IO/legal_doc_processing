@@ -15,30 +15,6 @@ from legal_doc_processing.utils import (
 )
 
 
-def product_juridiction_pairs():
-
-    cftc_cands = [
-        "cftc",
-        "Commodity Futures Trading Commission",
-        "c.f.t.c",
-        "the Commodity Futures Trading Commission",
-    ]
-    doj_cands = ["doj", "department of justice", "d.o.j.", "the department of justice"]
-    sec_cands = [
-        "sec",
-        "Securities and Exchange Commission",
-        "s.e.c.",
-        "the Securities and Exchange Commission",
-    ]
-
-    cands = dict()
-    for k, _list in [("cftc", cftc_cands), ("doj", doj_cands), ("sec", sec_cands)]:
-        dd = {i.lower().strip(): k.lower().strip() for i in _list}
-        cands.update(dd)
-
-    return cands
-
-
 def product_juridic_form():
     """ make a list of llc, LLC, LLC. etc etc """
 

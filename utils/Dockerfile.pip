@@ -18,4 +18,4 @@ COPY ./data /data
 
 # boot
 WORKDIR /
-RUN python /app/utils/boot.py
+# RUN python /app/utils/boot.py

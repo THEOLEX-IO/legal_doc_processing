@@ -1,0 +1,868 @@
+Case 2:18-cv-00345 Documenti1 Filed 01/18/18 Page 1 of 26 PagelD #: 1
+
+UNITED STATES DISTRICT COURT
+EASTERN DISTRICT OF NEW YORK
+
+ 
+
+ 
+
+COMMODITY FUTURES TRADING
+COMMISSION,
+
+Plaintiff, Case Number 18-cv-00345
+V. Judge
+DILLON MICHAEL DEAN and THE ECF Case
+ENTREPRENEURS HEADQUARTERS
+LIMITED,
+
+Defendants.
+
+ 
+
+ 
+
+COMPLAINT FOR INJUNCTIVE AND OTHER EQUITABLE RELIEF,
+RESTITUTION, AND CIVIL MONETARY PENALTIES
+UNDER THE COMMODITY EXCHANGE ACT
+
+Plaintiff, Commodity Futures Trading Commission (““CFTC” or “Commission’’), by and
+
+through its attorneys, alleges as follows:
+I. SUMMARY
+
+1. From approximately April 2017 through the present (the “Relevant Period’),
+Defendant Dillon Michael Dean (“Dean’’), through his company, Defendant The Entrepreneurs
+Headquarters Limited (“TEH”) (together, “Defendants”), has engaged in a fraudulent scheme to
+solicit at least $1.1 million worth of Bitcoin from more than 600 members of the public to
+participate in a pooled investment vehicle for trading commodity interests. Rather than convert
+customer funds, security, or property (“funds”) from Bitcoin to fiat currency to invest in binary
+options contracts, as promised, Defendants misappropriated their customers’ funds (including by
+using them to pay other customers, in the manner of a Ponzi scheme), and then lied to customers
+
+about their account balances in order to conceal Defendants’ misappropriation.
+Lo SE ° R of oN x ‘ B39 YES OO Oe AS; ne Ss oS ; Oy 3 SQn sui
+2. In furtherance of the fraudulent scheme, Defendants made material misstatements
+
+and omissions in solicitations to pool participants, including misrepresenting Dean’s experience
+and track record, and misrepresenting that forty percent of the customers’ funds would be pooled
+and invested in, among other things, binary options for the customers’ benefit, with all or
+substantially all of the remainder kept in reserve in Bitcoins to fund customer withdrawals.
+
+3. Upon information and belief, in reality, Defendants did not trade any of the funds
+contributed by customers for the benefit of the pool.
+
+4. In order to perpetuate the fraud and conceal their misappropriation, Defendants
+made misrepresentations to their customers, such as by issuing them electronic account
+statements (available through TEH’s website), which purported to reflect that customers’ account
+balances were being credited with the exorbitant daily returns promised by Defendants and
+which indicated that such amounts were available for withdrawal by customers.
+
+5. Defendants also attempted to perpetuate the fraud and conceal their
+misappropriation of customer funds by lying to customers, beginning in August 2017, about a
+purported hack of Defendants’ website.
+
+6. During the Relevant Period, TEH also failed to register with the Commission as a
+commodity pool operator (“CPO”), and Dean failed to register with the Commission as an
+associated person (“AP”) of a CPO.
+
+7. By virtue of this conduct and the conduct further described herein, Defendants,
+either directly or as controlling persons, have engaged, are engaging, or are about to engage in
+acts and practices in violations of Sections 4c(b), 4k(2), 4m(1), and 40(1)(A)-(B) of the
+
+Commodity Exchange Act (the “Act’”), 7 U.S.C. §§ 6c(b), 6k(2), 6m(1), 60(1)(A)-(B) (2012),
+and Commission Regulations (“Regulations’’) 3.12(a) and 32.4, 17 C.F.R. §§ 3.12(a), 32.4
+(2017).
+
+8. The acts and omissions described herein all have been done during the Relevant
+Period by Dean and other officers, employees or agents of TEH in the scope of their employment
+or office at TEH. Therefore, TEH is liable for all acts and omissions described herein, pursuant
+to Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2012), and Regulation 1.2, 17 C.F.R.
+
+§ 1.2 (2017).
+
+9. Dean was a controlling person of TEH throughout the Relevant Period and did not
+act in good faith or knowingly induced TEH’s violations of the Act and Regulations described
+herein. Therefore, Dean is liable for TEH’s violations of the Act and Regulations, pursuant to
+Section 13(b) of the Act, 7 U.S.C. § 13c(b) (2012).
+
+10. The Commission brings this action pursuant to Section 6c of the Act, 7 U.S.C.
+
+§ 13a-1 (2012), to enjoin Defendants’ unlawful acts and practices and to compel their
+compliance with the Act and the Regulations promulgated thereunder. In addition, the
+Commission seeks civil monetary penalties, and remedial ancillary relief, including, but not
+limited to, trading and registration bans, restitution, disgorgement, rescission, pre- and post-
+judgment interest, and such other and further relief as the Court may deem necessary or
+appropriate.
+
+11. Unless restrained and enjoined by this Court, Defendants will likely continue to
+engage in acts and practices alleged in this Complaint and similar acts and practices, as described
+
+below.
+Case 2:18-cv-00345 Documenti1 Filed 01/18/18 Page 4 of 26 PagelD #: 4
+
+II. JURISDICTION AND VENUE
+
+12. Section 6c(a) of the Act, 7 U.S.C. § 13a-1(a) (2012), authorizes the Commission
+to seek injunctive and other relief in United States district court against any person whenever it
+shall appear to the Commission that such person has engaged, is engaging, or is about to engage
+in any act or practice constituting a violations of any provision of the Act, or any rule, regulation,
+or order thereunder, and provides that district courts “shall have jurisdiction to entertain such
+actions.” This Court also has jurisdiction pursuant to 28 U.S.C. § 1331 (2012) (Federal
+Question) and 28 U.S.C. § 1345 (United States as Plaintiff) (2012).
+
+13. Venue lies properly with this Court pursuant to Section 6c(e) of the Act, 7 U.S.C.
+§ 13a-1(e) (2012), because Defendants transacted business in this District, and certain
+transactions, acts, practices, and courses of business alleged in this Complaint occurred, are
+occurring, or are about to occur in this District.
+
+Hl. THE PARTIES
+
+14. Plaintiff Commission is an independent federal regulatory agency charged by
+Congress with the administration and enforcement of the Act, 7 U.S.C. §§ 1-26 (2012), and the
+Regulations promulgated thereunder, 17 C.F.R. pt. 1-190 (2017).
+
+15. Defendant TEH is an England and Wales company, incorporated on or about
+April 24, 2017. TEH has never been registered with the Commission in any capacity.
+
+16. Defendant Dean is the sole founder, principal, director, and officer of TEH.
+Dean’s last known residence is in Longmont, Colorado. Dean has never been registered with the
+
+Commission in any capacity.
+Case 2:18-cv-00345 Documenti1 Filed 01/18/18 Page 5 of 26 PagelD #: 5
+
+IV. FACTS
+A. Defendants’ Purported Commodity Pool
+
+17. In or around April 2017, Dean began soliciting investments in a multi-level
+marketing scheme, which he referred to on his website as ““The Entrepreneurs Headquarters,” or
+‘“*TEH” for short.
+
+18. On his website, www.theentrepreneurheadquarters.com, Dean stated that he was
+the owner of TEH, claiming that he had “traded options” for seven years, and had “[s]trong skills
+in options trading,” among other areas.
+
+19. The website offered the opportunity to invest in a pooled investment vehicle
+referred to as “Option #1”: “Option #1 is a [sic] automated investment where you invest and get
+a [sic] automatic return in your back office on our set return rate. Our current set return rate is
+11%-17.5%/week depending on how much you invest.” (Options #2 and #3 offered customers
+assistance in trading through their own personal accounts on the North American Derivatives
+Exchange (“Nadex’’), an online exchange that is designated by the Commission as a contract
+market for binary options.)
+
+20. The website represented that Option #1 “investments are unit, or private shares
+inside The Entrepreneurs Headquarters LTD, you are given a set amount of earning [sic] based
+on the companies [sic] increase in profits and value.”
+
+21. Specifically, the website stated that customers choosing Option #1 “will make
+money off of the profits we make on the investment via trading options and paid ad promotion.
+
+You will be paid weekly and can withdraw profits instantly.”
+ae TO aye PID AL Morea semen 3 Mile MAPA SIA Mann S af MS MaewniPy te &
+EK PTE SR LEAS DS By PPP RSVE IPP oy Re THERE FEE PME MSR ENS EX PNT Lfba heey eid ‘ Sh BA
+ai. bAL ! Fy dedad PRLSE kes Ph wk Popeye ww REE ao Mh ERNE AS ASE Gk PU MRARS EA PP. AS
+
+M3 fea
+
+22. According to the website, the scheme was “extremely sustainable,” because Dean
+had “developed a formula based around a foundation of 3 years of proven trading and paid
+marketing profit results.”
+
+23. The website promised that participants could earn commissions for referring new
+customers, stating that the firm’s “three-tier referral program” enabled participants to “earn extra
+money in the amount of 6%-3%-1% of the deposits of your referrals,” that participants could
+make “up to 9% in referral commissions EACH time your referral makes a deposit,” that
+participants need not invest their own funds to earn commissions for referring others, and that
+participants could solicit new participants with “whatever marketing material’ they wished.
+
+24. Dean marketed the TEH commodity pool by, among other things, uploading a
+video of himself to YouTube on April 17, 2017. In the video, Dean identified himself as the
+CEO and owner of “The Entrepreneur Headquarters,” and provided
+www.theenterpreneurheadquarters.com as the company’s website. Dean stated in the video that
+he had “launched the business” and that as of “April 15, 2017, our automated [i.e., Option #1]
+and interactive investments are fully functional and ready to go.”
+
+25. Dean stated in the video that he had already received $6,000 in investments and
+claimed that he had already achieved over ten percent in returns on that principal. Dean
+predicted: “People are gonna start coming in once they see these results happen, which, they’re
+happening.”
+
+26. Dean also stated in the video: “Basically what I do is I leave in at least sixty
+percent of the money for reserve and for people to withdraw, etc., etc., and I use forty percent of
+
+the money to profit off of. And we’re doing well. Basically we do—like I said, we’re trading.”
+27. In some cases, Dean solicited investments through personal contact with potential
+investors. One individual who ultimately invested more than $50,000 with Defendants
+(“Customer 1”’) spoke on the telephone with Dean before investing.
+
+28. Dean told Customer | on this phone call that returns for customers would be
+generated by Dean trading commodity options on Nadex.
+
+29. Nadex is designated by the CFTC as a contract market, and offers customers the
+ability to trade binary options. A binary option is a type of options contract in which the payout
+depends entirely on the outcome of a yes/no proposition, typically relating to whether the price
+of a particular asset that underlies the binary option will rise above or fall below a specified
+amount. Unlike other types of options, a binary option does not give the holder the right to
+purchase or sell the underlying asset. When the binary option expires, the option holder will
+receive either a pre-determined amount of cash or nothing at all.
+
+30. Dean also solicited investments in TEH through a closed Facebook group, called
+‘The Entrepreneurs Headquarters,” which he created on or about March 31, 2017 (the “Facebook
+Group’’).
+
+31. Dean, through Facebook profiles with the names “Dean Dillon” and “Dillon M.
+Dean,” used the Facebook Group, as well as a smaller Facebook group for a “VIP plan” called
+‘“TEH Managed Accounts,” to solicit investments in the TEH commodity pool and communicate
+with participants. Over 2,000 Facebook users ultimately became members of the Facebook
+Group.
+
+32. Dean added other “administrators” to the Facebook Group, beginning with a
+Kentucky resident who had worked with Dean on a previous multi-level marketing scheme in or
+
+around 2014 (‘Administrator 1”), and who was identified as the “Marketing Director” for TEH.
+33. Administrator 1 had no trading experience or understanding of commodity
+options trading, and did not invest any of his own funds in TEH, but solicited over forty
+customers who did invest.
+
+34. Dean told Administrator | that returns for customers would be generated by Dean
+trading commodity options on Nadex on behalf of customers, and Administrator 1 conveyed this
+message to potential customers when soliciting them to invest.
+
+35. Additional administrators of the Facebook Group were added by Administrator |
+and others.
+
+36. Administrators posted messages to the Facebook Group, controlled membership
+in the group, and participated in online streaming videoconferences accessible from the group
+page.
+
+37. During these videoconferences, administrators told customers that returns would
+be generated by Dean trading commodity options on Nadex on behalf of customers.
+
+38. Dean and other administrators also told customers that, in addition to Dean
+himself, a person using the name Propht Taurai Moyo on Facebook (“Moyo’’) was also trading
+on behalf of TEH customers.
+
+39. Upon information and belief, all of these representations by Defendants about
+their trading expertise and intention to generate profits for customers by trading binary options
+were knowingly false when made.
+
+AO. Defendants were not trading commodity options on Nadex at all during the
+Relevant Period.
+
+41. Neither TEH nor Moyo ever had a trading account at Nadex.
+Case 2:18-cv-00345 Documenti1 Filed 01/18/18 Page 9 of 26 PagelD #: 9
+
+42. Dean had a personal trading account at Nadex that he opened in 2013. Other than
+a period of 10 days in February 2017 (i.e., prior to the Relevant Period)—in which Dean lost
+$637.50 trading binary options on forex contracts—there was never any trading activity in the
+account.
+
+B. Defendants’ Purported Trading Profits
+
+43. Defendants also made numerous representations to customers about their
+supposed trading profits.
+
+44. For instance, on July 9, 2017, Dean posted a Facebook message to TEH Managed
+Accounts purporting to disclose trading “results [for] the last few weeks” of that program,
+boasting of “a few awesome weeks” and promising to “get even better.” Included in the post
+was an image promoting weekly profits of 28.50%, 15.25%, and 19.50% for the first three weeks
+of the “TEH Managed Account” program, respectively; instructing customers to “Email for
+withdraw @ stockgains9 @ gmail.com”; and stating, “All money month withdrawn [sic] is
+compounded weekly.”
+
+45. On July 15, 2017, Dean posted a Facebook message to TEH Managed Accounts,
+stating: “17.6% this week. (for members) Was a good week but was really busy and was not
+able to trade as much as usual. Next week I got my sights set on 30%.” Included in the post was
+a purported “screenshot” showing trading from “last week,” consisting of an image showing
+certain details (mostly illegible)—including order number, time, type (buy/sell), product (e.g.,
+“BrentCrude’’)—of twenty-five purported trades.
+
+46. On July 23, 2017, Dean posted a Facebook message to TEH Managed Accounts,
+stating: “15% last week. Also waiting to close more trades from last week that will be added to
+
+this %. $$$$$.”
+Case 2:18-cv-00345 Documenti1 Filed 01/18/18 Page 10 of 26 PagelD #: 10
+
+47. On July 29, 2017, Dean posted a Facebook message to TEH Managed Accounts,
+stating: “Waiting on a huge trade on OIL. This week will be recorded next week after oil and a
+few other trades are closed. This week will be just like the previous time we had to wait on
+trades to close. Thanks! Patience = money.” The post included an image containing an
+unlabeled graphic that was illegible except for the handwritten phrase “massive profit.”
+
+48. On August 8, Dean posted to the Facebook Group an image showing purported
+profitable results trading forex and crude oil derivatives on that date, along with the message
+“Just keep pumping away .. . with Propht Taurai Moyo.”
+
+49. On August 13, Dean posted a Facebook message to TEH Managed Accounts,
+purporting to provide “the managed account weekly results for the past 8 weeks.”’ Dean’s
+message reiterated the percentages provided in his July 9, 15, and 23 messages for Week 1
+through Week 5, and represented that total profits for “Week 6-8 (3 weeks)” were “41.25%.”
+
+50. On August 20, Dean posted a Facebook message to TEH Managed Accounts,
+stating: “11% this week... slow week trying to get our site back up and running.”
+
+51. Upon information and belief, all of these purported trading profits were entirely
+fictitious, as Defendants were not actually engaged in trading on behalf of their customers during
+the Relevant Period.
+
+C. Solicitation and Transfer of Customer Funds in Bitcoin
+
+52. As explained on Defendants’ website, Defendants only accepted investor deposits
+in Bitcoin.
+
+53. Defendants instructed customers to set up personal account pages at the TEH
+website (referred to by Defendants and customers as their “back office’) and follow the
+
+instructions there to transfer Bitcoin to TEH from the customers’ own cryptocurrency wallets.
+
+10
+54. For instance, one customer who began investing with TEH in June 2017
+(“Customer 2”) was prompted by the TEH website to select one of three investment options
+(which varied by amount required to be invested, length of time of the investment, and promised
+rate of return).
+
+55. After Customer 2 selected the “Weekly VIP Plan,” the TEH website provided him
+with an alphanumeric string to which to direct his payment of Bitcoin.
+
+56. Customer 2 then logged into his own Bitcoin wallet at Coinbase and directed
+Bitcoin to be paid from his wallet to the alphanumeric string provided by the TEH website.
+
+57. Customer 2 later received a confirmation email from CoinPayments.net, a
+cryptocurrency payment processor used by TEH, stating that he had successfully directed
+payment of Bitcoins to “The Entrepreneurs Headquarters.”
+
+58. After customers such as Customer 2 transferred Bitcoin to TEH through
+CoinPayments.net and the payments were confirmed, they could log into their back office and
+see their account balance with TEH, denominated in U.S. dollars.
+
+59. For a period of time, Defendants made upwards adjustments to customers’ back
+office U.S. dollar account balances on a regular basis, reflecting the high rates of return
+(“11%-17.5%” per week, or comparable daily rates) promised on Defendants’ website.
+
+60. As promised on the TEH website (“Profits can be withdrawn at anytime [sic]”’),
+customers were initially able to withdraw the interest on their principal investments by logging
+into their back office and requesting the transfer of Bitcoin (corresponding to the U.S. dollar
+amounts shown in their back office) from TEH to the customers’ Bitcoin wallets.
+
+61. Between approximately April 2017 and August 2017, many customers made
+
+successful withdrawals of Bitcoin from their accounts.
+
+11
+Case 2:18-cv-00345 Documenti Filed 01/18/18 Page 12 of 26 PagelD #: 12
+
+D. Defendants’ Invention of a Hacking Incident in Order To Perpetuate Their Fraud
+62. On August 9, 2017, a TEH customer whom Dean had added as an administrator
+
+of the Facebook Group on or about June 6, 2017 (“Administrator 2”’), posted, while located in
+this District, a message to the Facebook Group that stated:
+
+URGENT MESSAGE..IT HAS BEEN BROUGHT TO OUR
+
+ATTENTION THAT SOME HAVE HAD THERE [sic]
+
+ACCOUNT HACKED AND WALLET CHANGED...ASAP GO
+
+CHANGE YOUR WALLET ADDRESS AND SAVE PLUS
+
+ENABLE ALL SECURITY][.] IF YOU HAVE A PENDING
+
+WITHDRAW [sic] DOUBLE CHECK THE ADDRESS IT’S
+GOING TOO!!! [sic] AND CHANGE YOUR EXSISTING [sic]
+
+63. Later on August 9, Dean posted a message to the Facebook Group, stating:
+“CRAZY I detected a hacker, but everything is ok, and I have stopped who ever it was. I have
+hared [sic] that some accounts got hacked, if they did, message me and I can fix the issue. If you
+need to send me a message, send a fried [sic] request first if your [sic] not friends so the message
+goes to my primary inbox.”
+
+64. Upon information and belief, there had been no hack of the TEH website, and
+Defendants knew, or recklessly disregarded the fact, that at the time they made each of these
+statements about the supposed hack the statements were false.
+
+65. Upon information and belief, the statements about the supposed hack were made
+by Defendants with the intent to deceive customers and conceal and perpetuate Defendants’
+fraud.
+
+66. On August 11, Dean posted a message to the Facebook Group identifying a
+‘‘[s]uspicious email address” and stating: “Do not respond to any emails from this guy .. . got to
+
+say the hacker is really trying his hardest lol.”
+
+12
+we
+ra
+re
+a
+rat
+oe
+a
+ee
+wy
+if
+A
+we
+a
+LA af
+
+67. Later on August 11, Dean posted another message to the Facebook Group, stating:
+‘Hacker is holding site for ransom LOL Do not touch the site I got an email titled ‘1 hacked you’
+and requesting reply and most likly [sic] funds for him to release back to me.”
+
+68. Upon information and belief, Dean knew that the person with the supposedly
+suspicious email address had not hacked the TEH website, and that no one was holding the site
+“for ransom.”
+
+69. Dean’s message continued: “Good thing I already have new site made! Just am
+finishing the back end and with programmers now to speed up the process.” Dean provided a
+website address—http://dutysquad.com/demo/teh/index.php (the “preview website’?)—which, he
+wrote, “is what the new site will look like!” In fact, this “new” preview website had been online
+since at least May 2017, and it contained substantially the same material as the purportedly
+hacked TEH website.
+
+70. Dean’s message concluded by promising to provide “further instructions on how
+we will transfer to this site” and instructing customers to email him at stockgains9 @ gmail.com if
+they wished to make “any emergency withdraws [sic]” of funds.
+
+71. On August 13, Dean posted another message to the Facebook Group, stating:
+‘Soon I will be collecting everyone’s deposit amount and adding it to the new site when the
+programmer has it ready. Just finishing the new back end.”
+
+72. Later on August 13, Dean posted another message, stating that Defendants were
+“Tw]orking hard on finishing the back end” of TEH’s new website “so we can start the transfer.”
+
+73. Dean’s message continued: “Money is safe and there are no problems.” He
+
+concluded: “Apologize if I have not got to your message yet as I have 100s to go through.”
+
+13
+74. On August 14, Dean posted a message to the Facebook Group, claiming to have
+“processed over 100 emergency withdraws now,” and asking customers to “please only do one if
+you really need it... the new site will be out soon.”
+
+75. On August 17, Dean posted a message to the Facebook Group, stating: “AII the
+data has been lost because of the hacker,” and providing the following instructions to customers:
+1) Send screenshots of your initial deposits into TEH from your wallet. 2) Send screenshots of
+all your withdraws made. 3) Send all screenshots here; -------- > transfertonewsite @ gmail.com.”
+
+76. Defendants then proceeded to post a series of “Updates” to the preview website,
+which updates were, upon information and belief, merely an attempt to continue to conceal their
+fraud by fabricating purported reasons for customers to delay taking action with respect to their
+investments.
+
+77. Defendants claimed on the preview website that as of August 19, 2017, they were
+“currently in the process of building the new site,” and that, as of August 21, the “completion of
+the TEH back end will be 8/22/2017 (tomorrow),” stating: “The time estimation of creating each
+account accordingly is 2-3 days. After that the site will be ready and open for business.”
+
+78. On August 21, Defendants posted a message to the preview website claiming that
+they were “[c]ompleting the payment software needed to do the payments.”
+
+79. On August 23, Defendants posted a message to the preview website claiming that
+they were “[w]Jorking as fast has [sic] we can so we can start the adding everyone accounts [sic]”
+as Well as “working on editing and re-doing the content of the site.” The message stated that the
+“re-opening of the site will be between 8/26/2017-8/28/2017,” 1.e., within the next three to five
+
+days, “if everything goes according to plan.”
+
+14
+Case 2:18-cv-00345 Documenti1 Filed 01/18/18 Page 15 of 26 PagelD #: 15
+
+80. On September 2, Dean posted a message to the Facebook Group, stating that
+Defendants “will first find out what your active balance was before the site sent [sic] down.”
+Dean promised that “[t]o cover the loss” from the time the original TEH website was down (and
+Defendants “were not able to trade as much’), “we will send you 18% of you active deposit
+PLUS adding the active deposit back onto a fresh new plan which will extend your earning days
+of the time we were down [sic].”
+
+81. In or around early September 2017, customers who had provided their
+information pursuant to Dean’s August 17 instructions received emails from TEH using the
+address transfertonewsite @ gmail.com, which purported to have credited the customers with their
+“active balance” plus eighteen percent because “[d]uring our down period, we were only trading
+about half the time due to site maintenance.” The emails stated that TEH’s new website “‘is not
+fully active” but promised to provide a link to the website “soon.”
+
+E. Defendants’ Misappropriation and Refusal To Return Customers’ Funds
+
+82. As Defendants attempted to delay, customers began to post messages to the
+Facebook Group that were critical of TEH and Dean, questioning the validity of their
+representations and promises.
+
+83. In response, Dean and other administrators removed such customers from the
+group, and ultimately Defendants moved their activity to a new closed Facebook group, called
+“Official Entrepreneurs Headquarters Group” (the “Official’ Facebook Group’’).
+
+84. Ultimately, when Defendants provided the URL to TEH’s new website, located at
+entrepreneursheadquarter.com, it contained substantially the same information as had already
+existed for months both on the original TEH website (theentrepreneurheadquarters.com) and the
+
+preview website.
+
+15
+85. However, the extravagant daily and weekly returns promised to customers were
+reduced to almost zero. Defendants offered no justification why their purported trading lost
+profitability so precipitously.
+
+86. In response to customers’ requests for the return of their principal investments or
+purported earnings or fees that Defendants had represented to have been credited to their
+accounts, Defendants continued to make up excuses for their failure to pay redemptions.
+
+87. For instance, on December 9, 2017, Dean posted a message on the “Official”
+Facebook Group, stating: “Withdraws; SLOWWW blockchain...btc was losing it there for a
+while lol Iam waiting on a few large transactions to be moved over into our BTC wallet for the
+mass payment for everyone’s withdraws.”
+
+88. In recent weeks, when customers asked Defendants for the return of their funds,
+their requests were ignored.
+
+89. Dean has stopped responding to emails and other communications from customers
+who have previously asked for the return of their funds.
+
+90. Upon information and belief, Defendants have stopped making payments to
+customers of TEH, and have misappropriated over $1 million total in principal investments by
+customers.
+
+91. Meanwhile, Dean and other representatives of TEH have launched another
+purported trading venture, Real Trade Profits (“RTP”), which solicits new customers in a manner
+very similar to TEH—seeking investments in Bitcoin for a pooled investment, professing
+expertise and consistent results in binary options trading, and promising high rates of return—
+
+using the website realtradeprofits.com.
+
+16
+Case 2:18-cv-00345 Documenti1 Filed 01/18/18 Page 17 of 26 PagelD #: 17
+
+92. According to its website, RTP is a “small group of self-taught traders who have
+developed two successful and unique trading techniques,” who are “Experts on the Binary
+Options and Forex Platforms.”
+
+93. The RTP website states: “We have a [sic] automated payment platform that will
+automatically pay interest on all of your deposits into RTP. Simply deposit and earn 20%-50%
+of all the profits we make that day which averages 1-10% return on your money everyday [sic]
+of the week .... Your principal is returned to you at the end of the pay period, and you are able
+to withdraw all profits as well.” The website offers 14-day, 30-day, and 45-day “Interest Plans.”
+
+94. As of December 4, 2017, RTP purported to have 65 members.
+
+V. violations OF THE COMMODITY EXCHANGE ACT
+AND COMMISSION REGULATIONS
+
+COUNT ONE
+
+violations of Section 4c(b) and Regulation 32.4
+(Options Fraud)
+
+95. Paragraphs | through 94 are realleged and incorporated herein by reference.
+
+96. Section 4c(b) of the Act, 7 U.S.C. § 6c(b) (2012), makes it unlawful for any
+person to offer to enter into, enter into, or confirm the execution of, any transaction involving
+any commodity regulated under the Act which is of the character of, or is commonly known to
+the trade as, inter alia, an “option”, “bid”, “offer”, “put’’, or “call”, contrary to any rule,
+regulation, or order of the Commission prohibiting any such transaction or allowing any such
+transaction under such terms and conditions as the Commission shall prescribe.
+
+97. Regulation 32.4, 17 C.F.R. § 32.4 (2017), provides that, in or in connection with
+an offer to enter into, the entry into, or the confirmation of the execution of, any commodity
+
+option transaction, it shall be unlawful for any person, directly or indirectly: (a) to cheat or
+
+defraud or attempt to cheat or defraud any other person; (b) to make or cause to be made to any
+
+17
+other person any false report or statement thereof or cause to be entered for any person any false
+record thereot; or {c} to deceive or attempt to deceive any other person by any means
+whatsoever.
+
+98. Defendants violated Section 4c(b) of the Act and Regulation 32.4, by, as alleged
+above, cheating and defrauding, or attempting to cheat and defraud, customers, in connection
+with Defendants’ offers to enter into commodity option contracts. Defendants misrepresented
+that they would trade binary options on Nadex and that customers would achieve returns of 11%-
+17.5% per week. Defendants also misappropriated customer funds and never traded options with
+TEH customer funds. Moreover, Defendants failed to disclose the high degree of risk associated
+with options trading and that it was possible to sustain a total loss of investment. Defendants
+also concealed and perpetuated their fraud by falsely stating that their website was hacked.
+
+99. The foregoing acts, omissions, and failures by Dean and other officers,
+employees, and agents of TEH occurred within the scope of their employment or office with
+TEH. Therefore, TEH is liable for its officers, employees, and agents’ acts, omissions, and
+failures in violations of Section 4c(b} of the Act and Regulation 32.4, pursuant to Section
+2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2012), and Regulation 1.2, 17 C.F.R. § 1.2 (2017).
+
+100. Dean held and exercised direct and indirect control over TEH and either did not
+act in good faith or knowingly induced TEH’s violations of Section 4c(b} of the Act and
+Regulation 32.4. As a controlling person of TEH, Dean is liable for TEH’s violations of Section
+4c(b} of the Act and Regulation 32.4, pursuant to Section 13(b) of the Act, 7 U.S.C. § 13c(b)
+
+(2012).
+
+18
+Case 2:18-cv-00345 Documenti Filed 01/18/18 Page 19 of 26 PagelD #: 19
+
+101. Each misrepresentation, omission of material fact, false statement, and
+misappropriation, including but not limited to those specifically alleged herein, is alleged as a
+separate and distinct violations of Section 4c(b) of the Act and Regulation 32.4.
+
+COUNT TWO
+
+violations of Section 40(1)(A)-(B)
+(CPO Fraud)
+
+102. Paragraphs | through 101 are realleged and incorporated herein by reference.
+
+103. During the Relevant Period, TEH acted as a CPO, as defined by Section la(11) of
+the Act, 7 U.S.C. § la(11) (2012), in that it engaged in a business that is of the nature of an
+investment trust, syndicate, or similar form of enterprise, operated for the purpose of trading in
+commodity interests and, in connection therewith, solicited, accepted, or received from others,
+funds, securities, or property (in the form of Bitcoins), either directly or through capital
+contributions, the sale of stock or other forms of securities, or otherwise, for the purpose of
+trading in commodity interests, including, in relevant part, commodity options authorized under
+Section 4c of the Act.
+
+104. An AP of a CPO is defined by Regulation 1.3(aa)(3), 17 C.F.R. § 1.3(aa)(3)
+(2017), as any person who is associated with a CPO as a partner, officer, employee, consultant,
+or agent (or any natural person occupying a similar status or performing similar functions), in
+any capacity which involves (1) the solicitation of funds, securities, or property for a participation
+in a commodity pool or (ii) the supervision of any person or persons so engaged. During the
+Relevant Period, Dean acted as an AP of TEH, in that he solicited funds, securities, or property
+(in the form of Bitcoins) for TEH’s pool and supervised other officers, employees, and agents of
+
+TEH who solicited funds, securities, or property for TEH’s pool.
+
+19
+105. Section 40(1) of the Act, 7 U.S.C. § 60(1) (2012), prohibits CPOs and APs of
+CPOs, whether registered with the Commission or not, by use of the mails or any means or
+instrumentality of interstate commerce, directly or indirectly, from employing devices, schemes,
+or artifices to defraud any client or participant or prospective client or participant, or engaging in
+transactions, practices, or courses of business which operate as a fraud or deceit upon any client
+or participant or prospective client or participant.
+
+106. While acting in its capacity as a CPO, TEH, by and through its officers,
+employees, and agents, knowingly or recklessly: (1) misrepresented to customers that
+approximately forty percent of their funds would be pooled and used to invest in, among other
+things, commodity options contracts for the benefit of customers; (2) misrepresented to
+customers that Defendants had prior experience and success trading commodity options on
+Nadex; (3) misrepresented to customers that Defendants were using their funds to trade
+commodity options on Nadex and were doing so profitably; (4) mispresented to customers that
+Defendants were holding approximately sixty percent of their funds in reserve in order to
+facilitate withdrawals; (5) misrepresented to customers that the hacking of TEH’s website and
+related issues were preventing Defendants from making customer funds available to customers;
+and (6) misappropriated pool participants’ funds for unauthorized purposes rather than investing
+for the benefit of participants, and failed to disclose that pool participants’ funds had been
+misappropriated. Therefore, TEH violated Section 40(1) of the Act.
+
+107. Dean directly violated Section 40(1) of the Act while acting in his capacity as an
+AP of TEH, because he knowingly or recklessly: (1) misrepresented to customers that
+approximately forty percent of their funds would be pooled and used to invest in, among other
+
+things, commodity options contracts for the benefit of customers; (2) misrepresented to
+
+20
+customers that Defendants had prior experience and success trading commodity options on
+Nadex; (3) misrepresented to customers that Defendants were using their funds to trade
+commodity options on Nadex and were doing so profitably; (4) mispresented to customers that
+Defendants were holding approximately sixty percent of their funds in reserve in order to
+facilitate withdrawals; (5) misrepresented to customers that the hacking of TEH’s website and
+related issues were preventing Defendants from making customer funds available to customers;
+and (6) misappropriated pool participants’ funds for unauthorized purposes rather than investing
+for the benefit of participants, and failed to disclose that pool participants’ funds had been
+misappropriated.
+
+108. The foregoing acts, omissions, and failures by Dean and other officers,
+employees, and agents of TEH occurred within the scope of their employment or office with
+TEH. Therefore, TEH is liable for its officers, employees, and agents’ acts, omissions, and
+failures in violations of Section 40(1) of the Act, pursuant to Section 2(a)(1)(B) of the Act and
+Regulation 1.2.
+
+109. Dean held and exercised direct and indirect control over TEH and either did not
+act in good faith or knowingly induced TEH’s violations of Section 40(1) of the Act. As a
+controlling person of TEH, Dean is liable for TEH’s violations of Section 40(1) of the Act,
+pursuant to Section 13(b) of the Act.
+
+110. Each misrepresentation, omission of material fact, false statement, and
+misappropriation, including but not limited to those specifically alleged herein, is alleged as a
+
+separate and distinct violations of Section 40(1) of the Act.
+
+21
+Case 2:18-cv-00345 Documenti1 Filed 01/18/18 Page 22 of 26 PagelD #: 22
+
+COUNT THREE
+
+violations of Section 4m(1) and 4k(2) of the Act and Regulation 3.12(a)
+(Failure to Register as a CPO and as an AP of the CPO)
+
+111. Paragraphs 1 through 110 are realleged and incorporated herein by reference.
+
+112. During the Relevant Period, TEH, while using the mails or means of interstate
+commerce in connection with its business as a CPO, was not registered with the Commission as
+a CPO and was not exempt from registration as a CPO. Thus, TEH acted as an unregistered
+CPO in violations of Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2012).
+
+113. During the Relevant Period, Dean, while acting as an AP of TEH, was never
+registered as an AP of TEH. Thus, Dean violated Section 4k(2) of the Act, 7 U.S.C. § 6k(2)
+(2012), and Regulation 3.12(a), 17 C.F.R. § 3.12(a) (2017), by acting as an unregistered AP of a
+CPO.
+
+114. Dean held and exercised direct and indirect control over TEH and either did not
+act in good faith or knowingly induced TEH’s violations of Section 4m(1) of the Act. Asa
+controlling person of TEH, Dean is liable for TEH’s violations of Section 4m(1) of the Act,
+pursuant to Section 13(b) of the Act.
+
+VI. RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that this Court, as authorized by
+Section 6c of the Act, 7 U.S.C. § 13a-1 (2012), and pursuant to its own equitable powers:
+
+A. Enter an order finding that Defendants violated Sections 4c(b), 4k(2), 4m(1), and
+4o0(1)(A)-(B) of the Act, 7 U.S.C. §§ 6c(b), 6k(2), 6m(1), 60(1)(A)-(B) (2012), and Regulations
+3.12(a) and 32.4, 17 C.F.R. §§ 3.12(a), 32.4 (2017);
+
+B. Enter an order of permanent injunction restraining, enjoining, and prohibiting
+
+Defendants and any other person or entity in active concert with them from engaging in conduct
+
+22
+Lae
+
+pas eee et
+Be E STS
+SOLED SEAT ERE SG
+
+in violations of Sections 4c(b), 4k(2), 4m(1), and 40(1)(A)-(B) of the Act, and Regulations
+
+3.12(a) and 32.4;
+
+C. Enter an order of permanent injunction prohibiting Defendants and any other
+
+person or entity in active concert with them from, directly or indirectly:
+
+1)
+
+2)
+
+3)
+
+4)
+
+5)
+
+6)
+
+7)
+
+Trading on or subject to the rules of any registered entity (as that term is
+defined by Section 1a(40) of the Act, 7 U.S.C. § 1la(40) (2012));
+
+Entering into any transactions involving “commodity interests” (as that term is
+defined in Regulation 1.3(yy), 17 C.F.R. § 1.3(yy) (2017)), for accounts held
+in the name of any Defendant or for accounts in which any Defendant has a
+direct or indirect interest;
+
+Having any commodity interests traded on any Defendant’s behalf;
+Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account involving
+commodity interests;
+
+Soliciting, receiving, or accepting any funds from any person for the purpose
+of purchasing or selling of any commodity interests;
+
+Applying for registration or claiming exemption from registration with the
+CFTC in any capacity, and engaging in any activity requiring such registration
+or exemption from registration with the CFTC except as provided for in
+Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9) (2017); and
+
+Acting as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R.
+
+§ 3.1(a) (2017)), agent, or any other officer or employee of any person
+
+23
+registered, exempted from registration, or required to be registered with the
+CFTC except as provided for in Regulation 4.14(a)(9);
+
+D. Enter an order requiring Defendants, as well as any of their successors, to
+disgorge to any officer appointed by the Court all benefits received from acts or practices that
+constitute violations of the Act and Regulations as described herein, including, but not limited to,
+salaries, commissions, loans, fees, revenues, and trading profits derived, directly or indirectly,
+plus pre-judgment interest thereon from the date of such violations, plus post-judgment interest;
+
+E. Enter an order requiring Defendants, as well as any of their successors, to make
+full restitution, pursuant to such procedure as the Court may order, to every person or entity who
+sustained losses proximately caused by Defendants’ violations (in the amount of such losses), as
+described herein, plus pre-judgment interest thereon from the date of such violations, plus post-
+judgment interest;
+
+F. Enter an order directing Defendants, as well as any of their successors, to rescind,
+pursuant to such procedures as the Court may order, all contracts and agreements, whether
+implied or express, entered into between them and any of the customers whose funds were
+received by them as a result of the acts and practices which constituted violations of the Act and
+Regulations, as described herein;
+
+G. Enter an order directing each Defendant to pay a civil monetary penalty, to be
+assessed by the Court, in an amount not to exceed the penalty prescribed by Section 6c(d)(1) of
+the Act, 7 U.S.C. § 13a-1(d)(1) (2012), as adjusted for inflation pursuant to the Federal Civil
+Penalties Inflation Adjustment Act Improvements Act of 2015, Pub. L. 114-74, 129 Stat. 584
+(2015), title VI, Section 701, see Regulation 143.8, 17 C.F.R. § 143.8 (2017), for each violations
+
+of the Act and Regulations, as described herein;
+
+24
+Case 2:18-cv-00345 Documenti1 Filed 01/18/18 Page 25 of 26 PagelD #: 25
+
+H. Enter an order directing that Defendants, as well as any of their successors, make
+an accounting to the Court of all of their assets and liabilities, together with all funds they
+received from and paid to investors and other persons in connection with commodity interests
+and all disbursements for any purpose whatsoever of funds received from commodity interests,
+including salaries, commissions, interest, fees, loans, and other disbursement of money or
+property of any kind from at least April 2017 to the date of such accounting;
+
+I. Enter an order requiring Defendants to pay costs and fees as permitted by
+28 U.S.C. §§ 1920 and 2413(a)(2) (2012); and
+
+J. Enter an order providing such other and further relief as this Court may deem
+
+necessary and appropriate under the circumstances.
+
+January 18, 2018 Respectfully submitted,
+
+COMMODITY FUTURES TRADING
+COMMISSION
+
+By: s/ David C. Newman
+David C. Newman
+Senior Trial Attorney
+dnewman @cftc.gov
+(646) 746-9740
+
+W. Derek Shakabpa, pro hac vice pending
+Senior Trial Attorney
+wshakabpa@cftc.gov
+
+David W. MacGregor, pro hac vice pending
+Chief Trial Attorney
+dmacgregor@cftc.gov
+
+Manal M. Sultan
+Deputy Director
+msultan @cftc.gov
+
+25
+PME SSE ESAT CE
+SSS SAE SS
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+140 Broadway, 19th floor
+
+New York, NY 10005
+
+Phone: (646) 746-9700
+
+Fax: (646) 746-9940
+
+ATTORNEYS FOR PLAINTIFF
+
+COMMODITY FUTURES TRADING
+COMMISSION
+
+26

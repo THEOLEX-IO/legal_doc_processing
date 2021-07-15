@@ -1,0 +1,749 @@
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 1 of 20
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF UTAH
+
+COMMODITY FUTURES TRADING
+
+COMMISSION,
+
+CIVIL ACTION NO.:
+Plaintiff,
+COMPLAINT FOR PERMANENT
+v. INJUNCTION, CIVIL MONETARY
+
+PENALTIES, AND OTHER ANCILLARY
+
+TALLINEX a/k/a TALLINEX LIMITED =| AND EQUITABLE RELIEF
+
+and ,
+
+GENERAL TRADER FULFILLMENT,
+
+Defendants.
+
+ 
+
+Plaintiff, Commodity Futures Trading Commission (âCommissionâ or âCFTCââ), by its
+attorneys, alleges as follows:
+
+I. SUMMARY
+
+1. On October 18, 2010, the CFTC adopted new regulations implementing certain
+provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (âDodd-
+Frankââ) with respect to the offer and sale of off-exchange foreign currency (âforexââ) transactions
+and the need for entities marketing such transactions to register with the Commission. Pursuant
+to Section 2(c)(2)(C)(ii1)(1)(aa) of the Commodity Exchange Act (âthe Actâ) 7 U.S.C.
+
+Â§ 2(c)(2)(C) (11) (1) (aa)(2012), and Commission Regulation (âRegulationâ) 5.3(a)(6)(i), 17 C.F.R.
+Â§ 5.3(a)(6)(i)(2016), an entity must be registered with the Commission as a retail foreign
+exchange dealer (âRFEDââ) if, with certain exceptions not applicable here, it solicits or accepts
+orders for leveraged, margined or financed forex transactions from persons who are not eligible
+contract participants (ânon-ECPsâ or âretail customersââ) to which it is or offers to be the
+
+counterparty.
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 2 of 20
+
+2. Beginning in at least September 2012 and continuing to at least September 2016
+(the ârelevant periodâ), Defendant Tallinex a/k/a Tallinex Limited (âTallinexââ), an off-shore
+Estonian company, has solicited or accepted orders from non-ECPs located in the United States
+in connection with leveraged or margined forex transactions, to which it is or offers to be the
+counterparty, without being registered with the CFTC as an RFED, in violation of Section
+2(c)(2)(C)G1)(1)(aa) of the Act and Regulation 5.3(a)(6)G). To date, Tallinex has solicited and
+accepted at least $1.5 million from U.S. customers.
+
+3. Further, in the course of soliciting retail forex customers, Tallinex made
+fraudulent misrepresentations and omissions of material fact and engaged in fraudulent and
+deceptive business practices, in violation of Sections 4b(a)(2)(A) and (C) and 6(c)(1) of the Act,
+7 U.S.C. Â§Â§ 6b(a)(2)(A) and (C) and 9(1) of the Act (2012), and Regulations 5.2(b)(1) and (3),
+5.5 and 180.1, 17. C.F.R. Â§Â§ 5.2(b)(1) and (3), 5.5 and 180.1 (2016).
+
+4. Also during the relevant period, Defendant General Trader Fulfillment (ââGTPââ)
+has operated as an introducing broker (âIBâ) without being registered with the Commission in
+violation of Section 4d(g) of the Act, 7 U.S.C. Â§ 6d(g) (2012), and Regulation 5.1((1),
+
+17 C.F.R. Â§ 5.10@)(1) (2016), by soliciting and accepting, on behalf of Tallinex, orders for retail
+forex transactions from U.S. resident non-ECP customers.
+
+5. By virtue of this conduct and the further conduct described herein, Defendants
+Tallinex and GTF (collectively âDefendantsââ) have engaged, are engaging, or are about to
+engage in acts and practices in violation of the Act and the Regulations.
+
+6. Accordingly, pursuant to Sections 2(c)(2) and 6c of the Act, 7 U.S.C. 8Â§ 2(c)(2)
+and 13a-1 (2012), the Commission brings this action to enjoin Defendantsâ unlawful acts and
+
+practices and to compel their compliance with the Act and the Regulations, and to further enjoin
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 3 of 20
+
+Defendants from engaging in certain activity, including, soliciting or accepting orders for forex
+transactions from non-ECP U.S. customers and offering to be the counterparty to customersâ
+forex transactions, without being registered with the Commission.
+
+7. In addition, the Commission seeks civil monetary penalties and remedial ancillary
+relief, including, but not limited to, trading and registration bans, disgorgement, pre- and post-
+judgment interest, and such other relief as the Court may deem necessary and appropriate.
+
+8. Unless restrained and enjoined by this Court, Defendants likely will continue to
+engage in the acts and practices alleged in this Complaint and similar acts and practices, as more
+fully described below.
+
+I. JURISDICTION AND VENUE
+
+9. Section 6c(a) of the Act, 7 U.S.C. Â§ 13a-1(a), authorizes the Commission to seek
+injunctive relief against any person whenever it shall appear to the Commission that such person
+has engaged, is engaging, or is about to engage in any act or practice constituting a violation of
+the Act or any rule, regulation, or order thereunder.
+
+10. The Commission has jurisdiction over the conduct and transactions at issue in this
+case pursuant to Sections 2(c)(2) and 6c of the Act, 7 U.S.C. Â§Â§ 2(c)(2) and 13a-1.
+
+11. Venue properly lies with the Court pursuant to Section 6c(e) of the Act, 7 U.S.C.
+Â§ 13a-1(e), because Defendants transact business in this District and certain transactions, acts,
+practices, and courses of business alleged in this Complaint occurred, are occurring, and/or are
+about to occur within this District.
+
+Hil, PARTIES
+
+12. Plaintiff Commodity Futures Trading Commission is an independent federal
+regulatory agency charged by Congress with the administration and enforcement of the Act,
+
+7US.C. Â§Â§ 1 et seg. (2012), and the Regulations thereunder, 17 C.F.R. Â§Â§ 1.1 et seg. (2016)
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 4 of 20
+
+13. Defendant Tallinex a/k/a Tallinex Limited is an Estonian company licensed to
+do business in St. Vincent and the Grenadines. It uses as a business address The Jaycees
+Building Stoney Ground, P.O .Box 362, Kingstown VCO100, St Vincent and the Grenadines, and
+also purports to have a business address in Estonia of Tornimae tn5, Kesklinna Iinnaosa, Tallina
+linn, Harju Maarkond 10145. Tallinex has never been registered with the Commission in any
+capacity.
+
+14. Defendant General Trader Fulfillment is a Nevada Corporation that uses as a
+business address 521 W. Center St, Pleasant Grove, UT 84062. GTF has never been registered
+with the Commission in any capacity.
+
+IV. STATUTORY BACKGROUND
+Forex Registration Provisions of the Act
+
+15. Section 2(c)(2)(C)Gii)()(aa) of the Act, 7 U.S.C.8Â§ 2(c)(2)(C)Gi)(D(aa),
+prohibits any person, unless registered with the Commission in such capacity as the Commission
+by rule, regulation or order shall determine, from soliciting and accepting from retail customers
+orders for transactions in foreign currency (forex) offered on a leveraged or margined basis that
+do not result in actual delivery and do not create an enforceable obligation to deliver between a
+seller and a buyer who have the ability to deliver and accept delivery.
+
+16. Section 4d(g) of the Act, 7 U.S.C Â§ 6d(g), prohibits any person from operating as
+an IB unless registered as such with the Commission.
+
+17. Regulations 5.1(h)(1) and 5.3(a)(6)G@), 17 C.F.R. Â§Â§ 5.10h)(1) and 5.3(a)(6)(),
+provide that any person that solicits and accepts from retail customers orders for transactions in
+foreign currency and who is or offers to be the counterparty to such retail forex transactions,
+
+must register with the Commission as an RFED.
+
+-4-
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 5 of 20
+
+18. Regulations 5.3(a)(5)G) and 5.1()(1), 17 C.F.R. Â§Â§ 5.3(a)(5)@) and 5.1091),
+provide that any person that solicits or accepts orders from retail forex customers must register
+with the Commission as an IB.
+
+19. The Act defines an ECP, in relevant part, as an individual with total assets in
+excess of (1) $10 million, or (ii) $5 million and who enters the transaction âto manage the risk
+associated with an asset owned or liability incurred, or reasonably likely to be owned or incurred,
+by the individual.â Section 1a(18)(xi) of the Act; 7 U.S.C. Â§ 1a(18)(xi). Individuals who do not
+meet these criteria are non-ECPs. Tallinexâs customers are typically non-ECPs â 7.e., retail
+customers.
+
+Anti-Fraud Provisions of the Act
+
+20. Sections 4b(a)(2)(A) and (C) of the Act, 7 U.S.C. Â§Â§ 6b(a)(2)(A) and (C), in
+relevant part, make it unlawful for any person, in or in connection with any order to make, or the
+making of, any contract of sale of any commodity for future delivery that is made, or to be made,
+for, on behalf of, or with any other person, other than on or subject to the rules of a designated
+contract market: (A) to cheat or defraud or attempt to cheat or defraud the other person; or (C)
+willfully to deceive or attempt to deceive the other person by any means whatsoever in regard to
+any order or contract or the disposition or execution of any order or contract, or in regard to any
+act of agency performed, with respect to any order or contact for, on behalf of, or with the other
+person.
+
+21. Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(c)(1), in relevant part, prohibits any
+person from directly or indirectly using or employing, in connection with any contract of sale of
+any commodity in interstate commerce, any manipulative, deceptive device or contrivance in
+contravention of such rules and regulations as the Commission shall promulgate. Pursuant to
+
+Section 6(c)(1) of the Act, the Commission promulgated Regulation 180.1, which, together,
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 6 of 20
+
+broadly prohibit any person, directly or indirectly, in connection with any swap, contract of sale
+of any commodity in interstate commerce, or contract for future delivery on or subject to the
+rules of any registered entity, to intentionally or recklessly: (1) use or employ, or attempt to use
+or employ, any manipulative device, scheme, or artifice to defraud; (2) make, or attempt to make,
+any untrue or misleading statement of a material fact or to omit to state a material fact necessary
+in order to make the statements made not untrue or misleading; or, (3) engage, or attempt to
+engage, in any act, practice, or course of business, which operates or would operate as a fraud or
+deceit upon any person.
+
+22. Section 2(c)(2)(C)(1)(1) of the Act, 7 U.S.C.Â§ 2(c)(2)(C)ayC1), makes Sections
+4b(a) and 6(c)(1) applicable to retail forex transactions.
+
+23. Regulations 5.2(b)(1) and (3), 17 C.F.R. Â§Â§ 5.2(b)(1) and (3), prohibit any person
+from using the mails or any means or instrumentalities of interstate commerce directly or
+indirectly, to (1) cheat or defraud or attempt to cheat or defraud the other person; or (3) willfully
+to deceive or attempt to deceive the other person by any means whatsoever in connection or with
+retail forex transactions.
+
+Mandatory Disclosure Statement to Retail Forex Customers
+
+24. Regulation 5.5, 17 C.F.R. Â§ 5.5, prohibits RFEDs from opening a retail forex
+account unless they first furnish customers with a written disclosure statement that provides
+certain mandated information specified in Regulation 5.5 concerning forex trading and receive
+back from the customer a signed acknowledgment that the customer received and understood the
+disclosure statement. Tallinex does not provide this disclosure statement to all of its U.S. retail
+
+forex customers.
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 7 of 20
+
+ 
+
+V.
+FACTS
+A. Tallinexâs Operations
+25. Tallinex operates a website at www.tallinex.com and also operates an introducing
+
+broker program whereby companies, such as GTF, introduce forex trading accounts to Tallinex
+and receive commissions on revenue generated by the accountsâ trading activity.
+
+26. At least during the relevant time period, Tallinex solicited and accepted funds and
+orders from non-ECP, U.S. resident customers to trade leveraged forex contracts.
+
+27. Customers can open trading accounts by submitting information online through
+Tallinexâs website. During the relevant period, the Tallinex website, in the frequently asked
+questions section, stated, ââTallinex welcomes residents of the U.S... . and provides them with
+the same leverage and hedging facilities as non-U.S. ... residents.â Further, Tallinexâs online
+application contains a drop down menu for the applicant to select his or her âcountryâ and the
+U.S. is one of the choices. The online application also allows a customer to select a currency for
+his or her account, and one of the two available currencies is the U.S. dollar.
+
+28. In or around September 2016, Tallinex changed its website to state that it does not
+accept U.S. customers. However, on information and belief, Tallinex still solicits and accepts
+funds from U.S. customers.
+
+29. Tallinexâs online application does not solicit information concerning whether
+prospective customers are ECPs and it fails to inquire whether a prospective customer has the
+ability or the business need to accept foreign currency into his or her bank account. Tallinex
+permits customers to open forex trading accounts with a minimum initial deposit of 100
+EUR/USD. Tallinexâs website states that its ECN-Micro account is âdesigned for traders new to
+
+the [f]orex market, and those needing to trade smaller volumes.â
+
+_7-
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 8 of 20
+
+30. Tallinex determines the âspreadâ for the forex contracts it offers to customers.
+Tallinex offers its customers variable spreads averaging between 0.5 and 2.5 pips (the measuring
+mechanism for price changes in forex contracts per contract such as EUR/USD (Euros versus
+U.S. dollars). Tallinex therefore acts as the counterparty to its customersâ contract.
+
+31. Tallinex offers its non-ECP customers forex contracts with leverage of up to
+1:1000. This means that a customer can increase its trading position by buying or selling up to
+1000 times the amount of funds he or she has invested. Thus, for example, a Tallinex customer
+may trade up to $1,000,000 notional value in foreign currencies with a $1,000 deposit, and a
+customer with $10,000 invested may trade up to $10,000,000 in foreign currencies. This
+spectacularly high degree of leverage means that even a small price movement can produce large
+losses in relation to the customerâs initial deposit and can result in customers rapidly losing their
+funds and being unable to ever recover from a losing trade.
+
+32. Tallinexâs online account application does not require that the customer state
+whether or not the customer has the ability to deliver and accept delivery in connection with the
+customerâs lines of business, which is one of the prerequisites to qualify as an ECP. In fact, with
+forex accounts being offered for as little as LOOEUR/USD, Tallinex is specifically soliciting
+customers that typically could never qualify as ECPs.
+
+33. Tallinexâs forex contracts neither result in delivery within two days nor create an
+enforceable obligation to deliver between a seller and a buyer who have the ability to deliver and
+accept delivery, respectively, in connection with their lines of business. Rather, these forex
+contracts are ultimately offset without anyone making or taking delivery of actual currency (or
+
+facing an obligation to do so).
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 9 of 20
+
+B. Tallinexâs Solicitation Fraud
+
+34. Defendant Tallinex fraudulently solicits U.S. retail forex customers by making
+false and misleading misrepresentations of material fact and omitting material information,
+including but not limited to: (a) falsely representing that Tallinex is lawfully doing business in the
+United States; (b) misrepresenting and omitting the likelihood of profit and risk of loss involved
+in trading their forex contracts; (c) falsely and misleadingly representing the safety of customer
+funds in the event of Tallinexâs financial collapse (i.e., counterparty risk).
+
+35. Defendant Tallinex made these false and misleading misrepresentations of material
+fact and omitted material information during the relevant period on its website, in correspondence
+and discussions with retail forex customers, and in social media sites available to the general
+public, among other places.
+
+36. Defendant Tallinex has falsely represented to U.S. customers that it is lawfully
+doing business in the U.S. by using at least one domestic IB, GTF, to solicit U.S. customer
+accounts on Tallinexâs behalf, by stating on its website that it âwelcomes residents of the U.S.â
+
+37. Further, in the course of soliciting U.S. customers, Tallinex misrepresents and
+omits material facts regarding the likelihood of profit and the risk of loss associated with trading
+Tallinexâs forex contracts.
+
+38. Specifically Tallinexâs website represents that money managers who trade its
+forex contacts for customers made purported profits of 162.29% in a little over a year [and] up to
+1301.10% in a little over a two-year period. Tallinex promotes these extraordinary profits to
+create the misleading impression that forex investments made with it are likely to be profitable
+for the specific purpose of increasing its number of customer accounts. However, the website
+fails to disclose the likelihood of profits and risk of loss in trading its forex contracts. For
+
+example, it does not disclose the percentages of retail forex accounts that are profitable and not
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 10 of 20
+
+profitable. By acting as an RFED, Tallinex has a duty to disclose this information under
+Regulation 5.5 in order to give a balanced and realistic view of the results of trading its forex
+contracts.
+
+39, Tallinex also does not provide all customers with a risk disclosure statement that
+warns customers of the risk of rapid losses using leveraged trading. By acting as an RFED,
+Tallinex has a duty to disclose this information under Regulation 5.5 in order to give a balanced
+and realistic view of the results of trading its forex contracts with leverage.
+
+AO. Tallinex has knowingly or recklessly made these material misrepresentations and
+omissions. Tallinex has actual profit and loss history in its possession, but failed to disclose this
+balanced information to customers and potential custormers while touting extraordinary profits,
+including profits of between 162.29% and 1301.10%. Accordingly, Tallinex made these
+misrepresentations knowingly or recklessly.
+
+41. Tallinex also misrepresents to customers that their funds are segregated,
+suggesting that customers are protected from risk events such as Tallinexâs financial collapse.
+This representation, which Tallinex posts on its website, is false. On information and belief,
+Tallinex does not maintain client funds separate from company funds, and in the event of
+Tallinexâs default or bankruptcy customersâ funds would be lost.
+
+42. Infact, the written disclosure statement prescribed in Regulation 5.5 warns that
+RFEDs must state that the RFED may commingle customer funds with the RFEDâs own
+operating funds, use them for other purposes, and in the event of the RFEDâs bankruptcy any
+funds the RFED is holding for the customer, including any amounts owed to the customer, may
+
+be treated as an unsecured creditorâs claim even if the customer accounts are segregated.
+
+-10-
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 11 of 20
+
+C. GTFâs Operations
+
+43. GTF solicits U.S. customers to open forex trading accounts at Tallinex as part of
+Tallinexâs âIntroducing Broker Program.â
+
+44. GTF solicits these U.S. customers through a network of salespersons that develop
+websites that promote GTF. These salespersons also place promotional material in web-based
+classified ad companies. GTF claims in its promotional material, and to customers who express
+an interest in opening a forex account, to have a proprietary trading system that, if its
+recommendations are followed, would result in profitable forex trading.
+
+45. When a customer contacts GTF to trade forex, GTF typically provides the
+customer with a âcoach,â who is a paid member of GTF, and who GTF claims will teach the
+customer how to trade forex profitably using a hypothetical account.
+
+46. After the GTF âcoachâ and the customer complete hypothetical trading sessions,
+GTF staff, including but not limited to the GTF âcoaches,â refer the customer to Tallinex to open
+a live forex account to begin trading.
+
+47. GTF receives commissions for introducing customers to Tallinex to open forex
+accounts and receives commissions on the revenue generated by the customersâ trading.
+
+48. Since approximately September 2012, GTF has referred at least thirty U.S.
+customers who opened forex trading accounts at Tallinex.
+
+VI.
+VIOLATIONS OF THE COMMODITY EXCHANGE ACT
+COUNT ONE:
+VIOLATION OF SECTION 2(c)(2)(C)@ii)(D(aa) OF THE ACT, and
+COMMISSION REGULATION 5.3(a)(6)()
+
+Operating As an Unregistered Foreign Exchange Dealer
+
+49. Paragraphs | through 48 are realleged and incorporated herein.
+
+-1]-
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 12 of 20
+
+50. Section 2(c)(2)(C)Gii)() (aa) of the Act, 7 U.S.C. Â§ 2(c)(2)(C) aii) (aa), prohibits
+any person or entity from soliciting or accepting from non-ECPs, orders for leveraged or
+margined forex transactions if such person or entity is not registered in such capacity as the
+Commission shall determine.
+
+51. Pursuant to Regulation 5.3(a)(6)(@), 17 C.F.R. Â§ 5.3(a)(6)(), persons or entities
+who offer to be or are the counterparty to leveraged or margined forex transactions with U.S.
+customers who are non-ECPs, are required to be registered with the Commission as retail foreign
+exchange dealers.
+
+52. Since at least September 2012 to at least September 2016, Tallinex solicited or
+accepted orders from U.S. resident non-ECPs in connection with leveraged or margined forex
+transactions and is or offers to be the counterparty to the forex transactions. Tallinex engages in
+this conduct without being registered as an RFED. By this conduct, Tallinex is violating Section
+2(c)(2)(C)Gu)(1)(aa) of the Act and Regulation 5.3(a)(6)(1).
+
+53. Each instance that Tallinex engaged in this conduct since at least September 2012
+to at least September 2016 is alleged as a separate and distinct violation of Section
+2(c)(2)(C)Gu)(1)(aa) of the Act and Regulation 5.3(a)(6)(1).
+
+COUNT TWO:
+VIOLATION OF SECTIONS 4b(a)(2)(A) and (C) OF THE ACT, and
+COMMISSION REGULATIONS 5.2(b)(1) and (3)
+Fraud by Misrepresentations and Omissions of Material Fact
+
+54. Paragraphs | through 48 are realleged and incorporated herein by reference.
+
+55. Sections 4b(a)(2)(A) and (C) of the Act, 7 U.S.C. Â§Â§ 6b(a)(2)(A) and (C), in
+relevant part, make it unlawful for any person, in or in connection with any order to make, or the
+
+making of, any contract of sale of any commodity for future delivery that is made, or to be made,
+
+for, on behalf of, or with any other person, other than on or subject to the rules of a designated
+
+-|2-
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 13 of 20
+
+contract market to cheat or defraud or attempt to cheat or defraud the other person or willfully to
+deceive or attempt to deceive the other person by any means whatsoever in regard to any order or
+contract or the disposition or execution of any order or contract, or in regard to any act of agency
+performed, with respect to any order or contact for, on behalf of, or with the other person.
+
+56. Regulations 5.2(b)(1) and (3), 17 C.F.R. Â§Â§ 5.2(b)(1) and (3), prohibit any person
+from using the mails or any means or instrumentalities of interstate commerce directly or
+indirectly, to cheat or defraud or attempt to cheat or defraud the other person willfully to deceive
+or attempt to deceive the other person by any means whatsoever in connection or with retail
+forex transactions.
+
+57. As set forth above, Defendant Tallinex cheated, defrauded or willfully deceived,
+and attempted to cheat, defraud or willfully deceive U.S. retail forex customers by, among other
+fraudulent and deceptive acts and practices, knowingly or recklessly misrepresenting or omitting
+material facts including but not limited to, (a) falsely representing that Tallinex is lawfully doing
+business in the United States; (b) misrepresenting and omitting the likelihood of profit and risk of
+loss involved in trading forex contracts; (c) falsely and misleadingly representing that customer
+funds are segregated and protected in the event of Tallinexâs financial collapse. By these actions,
+Defendant Tallinex violated Sections 4b(a)(2)(A) and (C) of the Act and Regulations 5.2(b)(1)
+and (3).
+
+58. Each fraudulent and deceptive act and each misrepresentation or omission of
+material fact during all relevant times, including but not limited to those specifically alleged
+herein, is alleged as a separate and distinct violation of Sections 4b(a)(2)(A) and (C) of the Act
+
+and Regulations 5.2(b)(1) and (3).
+
+-13-
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 14 of 20
+
+COUNT THREE:
+VIOLATION OF SECTION 6(c)(1) OF THE ACT, and
+COMMISSION REGULATION 180.1
+Fraud by Use of a Manipulative Device, Scheme, Artifice or Course of Business
+
+59. Paragraphs | through 48 are realleged and incorporated herein by reference.
+
+60. Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1), makes it unlawful for any person,
+directly or indirectly, in connection with any contract of sale of any commodity in interstate
+commerce, or contract for future delivery on or subject to the rules of any registered entity,
+intentionally or recklessly: (1) use or employ, or attempt to use or employ, manipulative devices,
+schemes, or artifices to defraud; (2) make, or attempt to make, untrue or misleading statements of
+a material fact or omit to state material facts necessary in order to make the statements made not
+untrue or misleading; or (3) engage, or attempt to engage, in acts, practices, or courses of
+business, which operate or would operate as a fraud or deceit upon customers or prospective
+customers.
+
+61. Commission Regulation 180.1, 17 C.F.R. Â§ 180.1, provides, in relevant part, that
+it shall be unlawful for any person, directly or indirectly, in connection with any contract of sale
+of any commodity in interstate commerce, or contract for future delivery on or subject to the
+rules of any registered entity, to intentionally or recklessly (A) use or employ, or attempt to use
+or employ, any manipulative device, scheme, or artifice to defraud; (B) make, or attempt to
+make, any untrue or misleading statement of a material fact or to omit to state a material fact
+necessary in order to make the statements made not untrue or misleading; or (C) engage, or
+attempt to engage, in any act, practice, or course of business, which operates or would operate as
+a fraud or deceit upon any person.
+
+62. By falsely representing that Tallinex was lawfully doing business in the United
+
+States; misrepresenting and omitting the likelihood of profit and risk of loss involved in trading
+
+-14-
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 15 of 20
+
+their forex contracts; falsely and misleadingly representing the safety of customer funds in the
+event of Tallinexâs financial collapse among other fraudulent and deceptive acts and practices,
+Defendant Tallinex, directly or indirectly, in connection with contracts of sale of commodities in
+interstate commerce, contracts for future delivery on or subject to the rules of a registered entity,
+intentionally or recklessly: (1) used or employed, or attempted to use or employ, manipulative
+devices, schemes, or artifices to defraud; (2) made, or attempted to make, untrue or misleading
+statements of material fact or omitted to state material facts necessary in order to make the
+statements made not untrue or misleading; or (3) engaged, or attempted to engage, in acts,
+practices, or courses of business, which operated or would have operated as a fraud or deceit
+upon customers or prospective customers.
+
+63. Each use or employment, or attempted use or employment, of any manipulative
+device, scheme, or artifice to defraud, and each untrue or misleading statement of a material fact
+made or attempted to be made, each omission of material fact, and each act, practice, or course
+of business or attempt to engage in an act, practice or course of business which operated or
+would have operated as a fraud or deceit upon any person is alleged as a separate and distinct
+violation of Section 6(c)(1) of the Act and Rule 180.1.
+
+COUNT FOUR:
+VIOLATION OF COMMISSION REGULATION 5.5
+Failure to Provide Disclosure Statement
+
+64. Paragraphs | - 48 are realleged and incorporated herein.
+
+65. Regulation 5.5, 17 C.F.R. Â§ 5.5, prohibits RFEDs from opening any forex account
+for retail customer unless the RFED first provides the customer with a written disclosure
+statement that includes the following information:
+
+(a) for each of the most recent four calendar quarters during which the
+counterparty maintained retail forex acounts:
+
+-15-
+66.
+
+67.
+
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 16 of 20
+
+(b)
+
+disclosure statement.
+
+(i)
+
+(il)
+
+(iii)
+
+the total number of non- discretionary retail forex customer
+accounts maintained by the retail foreign exchange dealer;
+
+the percentage of accounts that were profitable during the equarter;
+and
+
+the percentage of such accounts that were not profitable during the
+quarter.
+
+a Risk Disclosure Statement warning of the financial losses that can inccur
+using leverage, conflicts of interests and other risks. Specifically, RFEDs
+must disclose in writing, in all capital letters, that:
+
+(i)
+
+(il)
+
+(iii)
+
+(iv)
+
+(v)
+
+the RFEDâs trading is not on a regulated market or exchange and
+customersâ funds have no regulatory protection;
+
+because of leverage and other risks, customers can rapidly lose all
+of their funds;
+
+the RFED, if serving as the counterparty, has a direct financial
+conflict of interest with the customer because when the customer
+loses money trading, the counterparty dealer is making money on
+such trades;
+
+the RFED may commingle customersâ funds with its own
+operating funds or use them for other purposes; and
+
+in the event that the RFED becomes bankrupt, funds the dealer is
+holding for customers, in addition to funds owed to customers
+whether or not any assets are maintained in separate deposit
+accounts by the dealer, may be treated as an unsecured creditorâs
+claim.
+
+Regulation 5.5 also requires that the RFED receives back from the retail forex
+
+customer a signed and dated acknowledgement that the customer received and understood the
+
+Tallinex typically did not provide its U.S. retail forex customers with a disclosure
+
+statement that comports with these requirements. Therefore, Tallinex violated Regulation 5.5.
+
+Each retail forex account that Tallinex opened without providing customers with a
+
+written disclosure statement that includes the information set forth in paragraphs 65-67 above, is
+
+alleged as a separate and distinct violation of Regulation 5.5.
+
+-16-
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 17 of 20
+
+COUNT FIVE:
+VIOLATION OF SECTION 4d(g) OF THE ACT, and
+COMMISSION REGULATION 5.3(a)(5)(@)
+Operating As an Unregistered Introducing Broker
+
+69. Paragraphs | through 48 are realleged and incorporated herein.
+
+70. Section 4d(g) of the Act, 7 U.S.C. Â§ 6d(g), and Regulation 5.3(a)(5)(), 17 C.F.R.
+Â§ 5.3(a)(5)G), prohibit any person from operating as an IB unless such person is registered with
+the Commission as such.
+
+71. Pursuant to Regulation 5.3(a)(5)@), 17 C.F.R. Â§ 5.3(a)(5)@), an IB for purposes of
+foreign currency transactions is any person who solicits or accepts orders from non-ECP
+customers in connection with retail forex transactions.
+
+72. By soliciting and accepting customer orders for leveraged forex trading opened at
+Tallinex, while unregistered, GTF violated Section 4d(g) of the Act, and Regulation 5.3(a)(5)(i).
+
+73. Each day that GTF engaged in this conduct from at least September 2012 to at
+
+least September 2016 is alleged as a separate and distinct violation of Section 4d(g) of the Act,
+
+and Regulation 5.3(a)(5)().
+
+VIL.
+RELIEF REQUESTED
+
+WHEREFORE, the CFTC respectfully requests that this Court, as authorized by
+Section 6c of the Act, as amended, 7 U.S.C. Â§ 13a-1, and pursuant to its own equitable powers,
+enter:
+
+A. A finding that Defendant Tallinex violated Sections 2(c)(2)(C)@i1)() (aa),
+
+Ab(a)(2)(A) and (C), and 6(c)(1) of the Act, 7 U.S.C Â§Â§ 2(c)(2)(C)Gii)() (aa),
+
+-|7-
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 18 of 20
+
+6b(a)(2)(A) and (C), and 9(1), and Commission Regulations 5.2(b)(1) and (3),
+5.5 and 180.1, 17 C.F.R. Â§Â§ 5.2(b)(1) and (3), 5.5 and 180.1.
+
+A finding that Defendant GTF violated Section 4d(g) of the Act, 7 U.S.C. Â§ 6d(g)
+and Commission Regulation 5.3(a)(5)(i), 17 C.F.R. Â§ 5.3(a)(5)Q).
+
+An order of permanent injunction prohibiting Defendant Tallinex and any other
+person or entity associated with it, from engaging in conduct that violates
+Sections 2(c)(2)(C)(i11)()(aa), 4b(a)(2)(A) and (C), and 6(c)(1) of the Act,
+
+7 U.S.C. 8Â§ 2(c)(2)(C)Gii)() (aa), 6b(a)(2)(A) and (C), and 9(1), and
+Commission Regulations 5.2(b)(1) and (3), 5.5 and 180.1, 17 C.F.R. Â§Â§ 5.2(b)(1)
+and (3), 5.5 and 180.1.
+
+An order of permanent injunction prohibiting Defendant GTF and any other
+person or entity associated with it, from engaging in conduct that violates Section
+4d(g) of the Act, 7 U.S.C. Â§ 6d(g) and Commission Regulation 5.3(a)(5)Q),
+
+17 C.F.R. Â§ 5.3(a)(5)Q).
+
+An order of permanent injunction prohibiting Defendants and any successor
+
+thereof, from, directly or indirectly:
+
+a. Trading on or subject to the rules of any registered entity (as that term is
+defined in Section 1a(40) of the Act, 7 U.S.C. Â§ 1la(40) (2016);
+
+b. entering into any transactions involving commodity interests (as that term
+is defined in Regulation 1.3 (yy), 17 C.F.R. Â§ 1.3(yy) (2016);
+
+C. having any commodity interests traded on their behalf;
+
+d. controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account
+involving commodity interests;
+
+e. soliciting, receiving, or accepting any funds from any person for the
+purpose of purchasing or selling any commodity interests;
+
+-18-
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 19 of 20
+
+f. applying for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the Commission, except
+as provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9); and
+
+g. acting as a principal (as that term is defined in Regulation 3.1(a),
+17 C.F.R. Â§ 3.1(a), agent, or any other officer or employee of any person
+or entity registered, exempted from registration or required to be
+registered with the Commission except as provided for in Regulation
+4.14(a)(9), 17 C.F.R. Â§4.14(a)(9).
+
+F, An order requiring that Defendants, as well as any of their successors, disgorge to
+any officer appointed or directed by the Court all benefits received including, but not limited to,
+salaries, commissions, loans, fees, revenues and trading profits derived, directly or indirectly,
+from acts or practices that constitute violations of the Act, as amended, and the Regulations,
+including pre and post-judgment interest;
+
+G. An order directing Defendants, as well as any successors thereof, to make full
+restitution, pursuant to such procedure as the Court may order, to every person or entity whose
+funds Defendants received, or caused another person or entity to receive, as a result of the acts
+and practices constituting violations of the Act and Regulations, as described herein, and pre-
+and post-judgment interest thereon from the date of such violations; and
+
+H. An order requiring Defendants to pay civil monetary penalties under the Act, to
+
+be assessed by the Court, in amounts the greater of: (1) $170,472 for each violation of the Act
+and Regulations or (2) triple their monetary gain.
+
+I. An order requiring Defendants to pay costs and fees as permitted by
+
+28 U.S.C. Â§Â§ 1920 and 2412(a)(2); and
+
+-19-
+Case 2:17-cv-00483-DN Document 2 Filed 05/30/17 Page 20 of 20
+
+J. Such further relief as this Court may deem necessary and appropriate.
+
+Dated: May 30, 2017
+
+-20-
+
+Respectfully submitted,
+
+U.S. COMMODITY FUTURES
+TRADING COMMISSION
+
+525 West Monroe Street, Suite 1100
+Chicago, IL 60661
+
+(312) 596-0700
+
+(312) 596-0714 (facsimile)
+
+/s/ Camille M. Arnold
+Camille M. Arnold
+Senior Trial Attorney
+(312) 596-0524
+
+carnold @cftc.gov
+
+ 
+
+/s/ David Terrell
+David Terrell
+
+Chief Trial Attorney
+(312) 596-0546
+
+dterrell @cftc. gov
+
+/s/ Scott Williamson
+Scott Williamson
+
+Deputy Regional Counsel
+(312) 596- 0560
+swilliamson @cftc.gov
+
+ 
+
+ 
+
+/s/ Rosemary Hollinger
+Rosemary Hollinger
+Regional Counsel
+(312) 596-0520
+rhollinger@ cftc. gov
+
+ 
+
+ 

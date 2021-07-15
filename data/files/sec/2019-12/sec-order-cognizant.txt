@@ -1,0 +1,426 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 85149 / February 15, 2019
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4021 / February 15, 2019
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-19000
+
+ 
+
+ 
+
+ 
+
+In the Matter of ORDER INSTITUTING CEASE-AND-
+DESIST PROCEEDINGS PURSUANT TO
+COGNIZANT TECHNOLOGY SECTION 21C OF THE SECURITIES
+SOLUTIONS CORPORATION, EXCHANGE ACT OF 1934, MAKING
+FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+I
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (âExchange Actâ), against Cognizant Technology Solutions Corporation
+(âCognizantâ or âRespondentâ.
+
+Il
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferâ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commissionâs jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (âOrderâ), as set forth below.
+lit
+
+On the basis of this Order and Respondentâs Offer, the Commission finds' that:
+
+Summary
+
+1. These proceedings arise from violations of the antibribery, books and records, and
+internal accounting controls provisions of the Foreign Corrupt Practices Act of 1977 (the âFCPAâ).
+[15 U.S.C. Â§ 78dd]. Cognizant is a global provider of information technology and business process
+services. Much of its business involves using technically skilled workers around the world,
+including in India, to provide such services to companies in the United States and Western Europe.
+Between 2014 and 2016 Cognizant, acting through executives in the United States and India,
+authorized contractors to pay on the companyâs behalf and reimbursed them for a total of
+approximately $3.6 million in bribes to Indian government officials to obtain government
+construction-related permits and operating licenses in connection with the construction and
+operation of commercial office buildings.
+
+2. In 2014 Cognizant authorized a contractor to pay a $2 million bribe to a senior
+government official for the issuance of a planning permit for a project in Chennai, India. The
+payment, along with a scheme to conceal a $2.5 million reimbursement to the contractor, was
+authorized by two senior executives at Cognizantâs U.S. headquarters. In 2013 and 2014,
+Cognizantâs Indian subsidiary authorized the same third party contractor to pay a bribe of
+approximately $770,000 to a government official for an environmental clearance for a project in
+Pune, India. In 2015, the Indian subsidiary retroactively authorized and reimbursed the same third
+party contractor for approximately $870,000 in bribes that it had paid to government officials for
+construction-related permits in Siruseri, India. Cognizant received ill-gotten gains of approximately
+$16,394,351 as a result of the conduct.
+
+3. The unlawful payments were paid from Cognizant Indiaâs bank accounts and were
+not accurately reflected in Cognizantâs consolidated books and records. During the relevant period
+Cognizant also failed to devise and maintain a sufficient system of internal accounting controls at its
+corporate headquarters and at Cognizant India. This conduct took place in an environment in which
+Cognizant failed to adequately enforce its corporate antibribery and anticorruption policies.
+
+4. As a result of its conduct Cognizant violated Exchange Act Sections 30A,
+13(b)(2)(A), and 13(b)(2)(B).
+
+Respondent
+
+5. Cognizant is a New Jersey corporation headquartered in Teaneck, N.J. Throughout
+the relevant period its common stock was registered with the Commission under Exchange Act
+
+ 
+
+' The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on
+
+any other person or entity in this or any other proceeding.
+Section 12(b) and publicly traded on NASDAQ (symbol: CTSH). Cognizant files annual and
+quarterly reports under Exchange Act Section 13. Although it operates in several countries, the
+majority of Cognizantâs operations are conducted in India through Cognizant India, its largest
+subsidiary.
+
+Other Relevant Individuals and Entities
+
+6. Senior Executive-1 served in several senior executive positions at Cognizant in the
+United States until his resignation in 2016.
+
+7. Senior Legal Executive-1 served in Cognizantâs legal function in the United States
+until his resignation in 2016.
+
+8. Operations Officer-1 served in a senior operation role based in India until 2016.
+9, Real Estate Officer-1 served in Cognizant Indiaâs corporate workplace function.
+10. Contracting Firm-1 is a multinational engineering and construction firm based in
+
+India. It is publicly traded on exchanges in India but its securities are not registered with the
+Commission.
+
+Facts
+Bribe Payments in Chennai, Tamil Nadu
+
+11. Cognizantâs construction project in Chennai, referred to as the KITS campus,
+represents the companyâs largest owned facility in India, encompassing 2.7 million square feet
+with a capacity for approximately 17,500 employees. Cognizant engaged Contracting Firm-1 to
+build the facility and obtain all necessary government permits. Construction began in 2011 prior to
+the issuance of a required planning permit.
+
+12. In 2014, during the course of construction, Real Estate Officer-1 was made aware
+that an Indian government official had made a $2 million bribe demand to Contracting Firm-1 as a
+condition for issuing the planning permit. Real Estate Officer-1 passed the information along to
+his supervisor, Operations Officer-1. On April 21 and 22, 2014, the demand was discussed by
+video conference among Real Estate Officer-1, Operations Officer-1, Senior Executive-1, and
+Senior Legal Executive-1. Senior Executive-1 and Senior Legal Executive-1 participated in the
+conference from the United States. Real Estate Officer-1 described the bribe demand in detail,
+asked Senior Executive-1 and Senior Legal Executive-1 for guidance on how to proceed, and
+suggested that Contracting Firm-1 could be reimbursed for the payment through a series of sham
+change order requests to its contract. Senior Legal Executive-1 approved the method of
+reimbursement and Senior Executive-1 authorized both the bribe payment and the suggested
+method for disguising it. Real Estate Officer-1 was given the task of executing the scheme. His
+direct supervisor Operations Officer-1 made no objection.
+
+13. In addition to discussing the bribe demand and the suggested method of disguising
+the reimbursement during the videoconferences, Senior Executive-1 directed his subordinates to
+withhold future payments to Contracting Firm-1 if it resisted paying the bribe on Cognizantâs
+behalf. Contracting Firm-1, which had been urging Cognizant to make the payment itself,
+ultimately yielded to Senior Executive-1âs pressure and made the payment in late May or early
+June 2014. Cognizant received the planning permit in November of that year.
+
+14. Following Real Estate Officer-1âs suggestion, Cognizant concealed the $2.5 million
+reimbursement to Contracting Firm-1, including both the $2 million bribe and a $500,000
+commission for paying it, through a series of falsified contract change orders. Real Estate
+Officer-1 selected change order requests from Contracting Firm-1 invoices that Cognizant had
+previously rejected and retroactively âacceptedâ them, adjusting the cost amounts so that they
+would total $2.5 million. The falsified invoices and supporting Excel spreadsheets were forwarded
+to Senior Executive-1 for approval, with copies to Operations Officer-1. Senior Executive-1
+approved payments in February and March 2015, and the payments were made to Contracting
+Firm-1 in installments between March 2015 and January 2016.
+
+Bribe Payment in Pune, Maharashtra
+
+15. The bribe scheme in Pune also involved the construction of a commercial office
+facility with Contracting Firm-1 as Cognizantâs builder. Construction began in 2012, prior to the
+issuance of necessary permits. On this occasion, Cognizant India authorized Contracting Firm-1 to
+pay an Indian official $770,000 in return for issuing an environmental clearance. The payment was
+made in early 2013, and the environmental clearance was issued thereafter. In April of that year,
+Contracting Firm-1 sought reimbursement through a change order request with a line item for
+âLiasoning [sic] and consultations charge towards Environmental clearance.â Cognizant India
+rejected the change order, but later approved the payment after Contracting Firm-1 changed the
+rationale to âChange in the make of Workstation from Featherlite to Art matrix.â Cognizant India
+reimbursed Contracting Firm-1 for the bribe payment in January 2014.
+
+Bribe Payment in Siruseri, Tamil Nadu
+
+16. In Siruseri, Cognizant India authorized Contracting Firm-1 to pay bribes totaling
+$840,000 to government officials for the issuance of several construction-related permits, including
+a planning permit, a power permit from the local electricity board, and an environmental clearance.
+Contracting Firm-1 made the payments in or around 2012, and Cognizant subsequently received
+the permits in the second half of that year. The contractor submitted change order requests for
+several inflated or unjustified work items. Cognizant India rejected the initial requests, but later
+approved the change orders after the sham descriptions were revised. Cognizant India reimbursed
+Contracting Firm-1 for the bribe payments in installments between 2015 and 2016.
+
+Bribes for Operating Licenses
+
+17. In addition to payments involving the above construction projects, Cognizant India
+also made approximately $27,000 in bribe payments to government officials for the purpose of
+obtaining certain operating licenses at six Indian facilities. The payments were made between
+2013 and early 2016, mostly by lower to mid-level employees in Cognizant Indiaâs corporate
+workplace services department, with the assistance of collusive third party vendors. The licenses
+were for kitchen operating facilities, air and water consents, fire protection, and other purposes
+related to operation of the buildings. The payments were disguised in Cognizantâs books and
+records by the use of false generic descriptions, such as âliaison,â âconsulting,â and
+âmiscellaneousâ charges.
+
+Legal Standards and Violations
+
+18. Under Exchange Act Section 21C(a), the Commission may impose a cease-and-
+desist order upon any person who is violating, has violated, or is about to violate any provision of
+the Exchange Act or any rule or regulation thereunder, and upon any other person that is, was, or
+would be a cause of the violation, due to an act or omission the person knew or should have known
+would contribute to such violation.
+
+FCPA Violations
+
+19. Exchange Act Section 30A prohibits any issuer with a class of securities registered
+pursuant to Section 12 of the Exchange Act, or any officer, director, employee, or agent acting on
+behalf of such issuer, in order to obtain or retain business, from corruptly giving or authorizing the
+giving of, anything of value to any foreign official for the purposes of influencing the official or
+inducing the official to act in violation of his or her lawful duties, or to secure any improper
+advantage, or to induce a foreign official to use his influence with a foreign governmental
+instrumentality to influence any act or decision of such government or instrumentality. [15 U.S.C.
+Â§ 78dd-1].
+
+20. As described above, Cognizant paid bribes to an Indian government official to
+induce that official to direct that a permit be issued to facilitate the completion of a construction
+project. Cognizant made use of the means and instrumentalities of interstate commerce by hosting
+video conferences at which American executives participated in formulating the scheme and by
+exchanging email messages to and from the United States to approve the concealing of the
+payment. Two U.S. senior executives at Cognizant took active steps to advance the scheme, and
+Cognizant is liable for their conduct by respondeat superior. As a result, Cognizant violated
+Exchange Act Section 30A.
+
+21. Exchange Act Section 13(b)(2)(A) requires every issuer with a class of securities
+registered pursuant to Exchange Act Section 12 to make and keep books, records, and accounts,
+which, in reasonable detail, accurately and fairly reflect the transactions and disposition of the
+assets of the issuer. [15 U.S.C. Â§ 78m(b)(2)(A)].
+
+22. Cognizant violated Exchange Act Section 13(b)(2)(A) by falsely characterizing
+illicit payments to government officials as legitimate business expenses in its books and records.
+
+23. Exchange Act Section 13(b)(2)(B) requires every issuer with a class of securities
+registered pursuant to Exchange Act Section 12 to devise and maintain a system of internal
+accounting controls sufficient to provide reasonable assurances that (i) transactions are executed in
+accordance with managementâs general or specific authorization; (11) transactions are recorded as
+necessary (I) to permit preparation of financial statements in conformity with generally accepted
+accounting principles or any other criteria applicable to such statements, and (II) to maintain
+accountability for assets; (111) access to assets 1s permitted only in accordance with managementâs
+general or specific authorization; and (iv) the recorded accountability for assets is compared with
+the existing assets at reasonable intervals and appropriate action is taken with respect to any
+differences. [15 U.S.C. Â§ 78m(b)(2)(B)].
+
+24. Cognizant violated Section 13(b)(2)(B) by failing to devise and maintain a
+sufficient system of internal accounting controls at its corporate headquarters and at Cognizant
+India. Cognizantâs system for handling contractor change orders in India permitted managers to
+conceal bribe payments through the manipulation of bogus construction charges. The companyâs
+procurement process did not include an effective review of the disbursement of funds for change
+orders. Nor did it include an effective review of the application or renewal of facility permits and
+licenses. Cognizant also did not adequately enforce its corporate policy against making improper
+payments to government officials. And it failed to provide reasonable assurances that its Indian
+subsidiary maintained accurate and complete records of transactions involving payments to
+government officials.
+
+Cognizantâs Self-Disclosure, Cooperation, and Remedial Efforts
+
+25. In determining to accept the Offer, the Commission considered Respondentâs self-
+disclosure, cooperation, and remedial efforts. Cognizant voluntarily disclosed this misconduct to
+the Commission staff and timely shared the facts developed during the course of an internal
+investigation by the audit committee of its board. Cognizant also cooperated by voluntarily
+producing and translating documents, and making current or former employees, including those
+who needed to travel internationally, available for interviews by the Commission staff.
+
+26. Cognizantâs remedial actions included: (i) terminating or imposing other discipline
+on officers and employees who participated in or were aware of the improper conduct;
+(11) appointing new executive personnel, including a new president, general counsel, and heads of
+global real estate and procurement; (111) enhancing its existing compliance function and headcount;
+(iv) consolidating its facility management operations and removing licensure responsibilities from
+third parties; (v) enhancing its internal accounting controls and compliance functions with respect
+to the construction of new facilities; (vi) enhancing its FCPA compliance policies relating to due
+diligence and contracting of vendors and suppliers; and (vii) conducting enhanced anticorruption
+training.
+
+Undertakings
+Respondent Cognizant has undertaken to:
+27. Cooperate fully with the Commission in any and all investigations, litigations or
+
+other proceedings relating to or arising from the matters described in the Order. Cognizant agrees
+that cooperation includes the following:
+a. On an ongoing basis, producing, without service of a notice or subpoena, to
+the Commission nonprivileged documents and other materials, wherever
+located, in Respondentâs possession, custody, or control, and appropriate
+privilege logs, as requested by the Division of Enforcementâs (âDivisionâ)
+staff and within 14 days of request unless otherwise agreed to in writing by
+the Divisionâs staff;
+
+b. Using its best efforts to secure the full, truthful, and continuing cooperation
+of Respondentâs current and former directors, officers, employees and
+agents, including making those persons available for interviews and the
+provision of testimony in any and all investigations, litigation or other
+proceedings relating to or arising from matters described in the Order when
+requested to do so by the Divisionâs staff, at Respondentâs expense;
+
+C. Using its best efforts to ensure its directors, officers and employees respond
+to all inquiries related to any and all investigations, litigation or other
+proceedings relating to or arising from the matters described in the Order
+and any related proceedings when requested to do so by the Divisionâs staff;
+and
+
+d. Using its best efforts to ensure its directors, officers, and employees testify
+at trial and other judicial or administrative proceedings when requested to
+do so by the Divisionâs staff.
+
+28. In determining whether to accept the Offer, the Commission has considered these
+undertakings.
+
+IV
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent Cognizantâs Offer.
+
+Accordingly, it is hereby ORDERED that:
+
+A. Pursuant to Section 21C of the Exchange Act, Respondent Cognizant cease and
+desist from committing or causing any violations and any future violations of Sections 30A,
+13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act.
+
+B. Respondent shall, within 10 days of the entry of this Order, pay disgorgement of
+$16,394,351, prejudgment interest of $2,773,017, and a civil monetary penalty of $6,000,000 to the
+Securities and Exchange Commission for transfer to the general fund of the United States
+Treasury, subject to Exchange Act Section 21F(g)(3). If timely payment is not made, additional
+interest shall accrue pursuant to 31 U.S.C. Â§3717 or SEC Rule of Practice 600. Payment must be
+made in one of the following ways:
+(1) Respondent may transmit payment electronically to the Commission, which
+will provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying
+Cognizant as a Respondent in these proceedings, and the file number of these proceedings; a copy
+of the cover letter and check or money order must be sent to Charles E. Cain, Chief, FCPA Unit,
+Division of Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC
+20549.
+
+C. Amounts ordered to be paid as civil money penalties pursuant to this Order shall be
+treated as penalties paid to the government for all purposes, including all tax purposes. To
+preserve the deterrent effect of the civil penalty, Respondent agrees that in any Related Investor
+Action, it shall not argue that it is entitled to, nor shall it benefit by, offset or reduction of any
+award of compensatory damages by the amount of any part of Respondentâs payment of a civil
+penalty in this action ("Penalty Offset"). If the court in any Related Investor Action grants such a
+Penalty Offset, Respondent agrees that it shall, within 30 days after entry of a final order granting
+the Penalty Offset, notify the Commission's counsel in this action and pay the amount of the
+Penalty Offset to the Securities and Exchange Commission. Such a payment shall not be deemed
+an additional civil penalty and shall not be deemed to change the amount of the civil penalty
+imposed in this proceeding. For purposes of this paragraph, a "Related Investor Actionâ means a
+private damages action brought against Respondent by or on behalf of one or more investors based
+on substantially the same facts as alleged in the Order instituted by the Commission in this
+proceeding.
+
+D. Respondent undertakes to:
+
+1) Report to the Commission staff periodically during a two-year term, the
+status of its remediation and implementation of compliance measures, particularly as to
+the areas of due diligence on prospective and existing third-party consultants and
+vendors, FCPA training and the testing of relevant controls including the collection and
+analysis of compliance data. During this period, should Respondent discover credible
+evidence, not already reported to Commission staff, that questionable or corrupt
+payments or questionable or corrupt transfers of value may have been offered, promised,
+paid, or authorized by Respondent, or any entity or person acting on behalf of
+Respondent, or that related false books and records have been maintained, Respondent
+shall promptly report such conduct to the Commission staff. During this two-year period,
+Respondent shall: (1) conduct an initial review and submit an initial report and
+
+(2) conduct and prepare two follow-up reviews and reports, as described below:
+
+a. Respondent shall submit to the Commission staff a written report
+within 180 calendar days of the entry of this Order setting forth a complete
+description of its FCPA and anti-corruption related remediation efforts to date, its
+proposals reasonably designed to improve the policies and procedures of
+Respondent for ensuring compliance with the FCPA and other applicable
+anticorruption laws, and the parameters of the subsequent review (the âInitial
+Reportâ). The Initial Report shall be transmitted to Robert I. Dodge, Assistant
+Director, United States Securities and Exchange Commission, 100 F Street, NE,
+Washington, DC, 20549-5631. Respondent may extend the time period for
+issuance of the Initial Report with prior written approval of the Commission staff.
+
+b. Respondent shall undertake two follow-up reviews, incorporating
+any comments provided by the Commission staff on the previous report, to further
+monitor and assess whether the policies and procedures of Respondent are
+reasonably designed to detect and prevent violations of the FCPA and other
+applicable anti-corruption laws (the âFollow-Up Reportsâ).
+
+C. The Follow-up Report shall be completed by no later than 270
+days after the Initial Report. The second Follow-up Report shall be completed by
+no later than 450 days after the completion of the Initial Report. Respondent may
+extend the time period for issuance of the Follow-up Reports with prior written
+approval of the Commission staff.
+
+d. The periodic reviews and reports submitted by Respondent will
+likely include proprietary, financial, confidential, and competitive business
+information. Public disclosure of the reports could discourage cooperation,
+impede pending or potential government investigations and thus undermine the
+objectives of the reporting requirement. For these reasons, among others, the
+reports and the contents thereof are intended to remain and shall remain
+nonpublic, except (a) pursuant to court order, (b) as agreed by the parties in
+writing, (c) to the extent that the Commission staff determines in its sole
+discretion that disclosure would be in furtherance of the Commissionâs discharge
+of its duties and responsibilities, or (d) is otherwise required by law.
+
+e. During this two-year period of review, Respondent shall provide
+its external auditors with its annual internal audit plan and reports of the results of
+internal audit procedures and its assessment of its FCPA compliance policies and
+procedures.
+f. During the two-year period of review, Respondent shall provide
+Commission staff with any written reports or recommendations provided by
+Respondentâs external auditors in response to Respondentâs annual internal audit
+plan, reports of the results of internal audit procedures, and its assessment of its
+FCPA compliance policies and procedures.
+
+2) Certify, in writing, compliance with the undertaking(s) set forth above.
+The certification shall identify the undertaking(s), provide written evidence of
+compliance in the form of a narrative, and be supported by exhibits sufficient to
+demonstrate compliance. The Commission staff may make reasonable requests for
+further evidence of compliance, and Respondent agrees to provide such evidence. The
+certification and supporting material shall be submitted to Robert I. Dodge, Assistant
+Director, United States Securities and Exchange Commission, 100 F Street, NE,
+Washington, DC, 20549-5631 no later than sixty (60) days from the date of the
+completion of the undertakings.
+
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+10

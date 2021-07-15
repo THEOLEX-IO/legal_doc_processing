@@ -1,0 +1,702 @@
+Case 2:17-cv-01325-JJT Document 1 Filed 05/03/17 Page 1 of 20
+
+Timothy J. Mulreany
+
+(Md. Bar No. 8812160123, tmulreany @cftc.gov)
+Danielle Karst
+
+(D.C. Bar No. 481881, dkarst @cftc.gov)
+
+U.S. Commodity Futures Trading Commission
+Three Lafayette Centre
+
+1155 21st Street, N.W.
+
+Washington, D.C. 20581
+
+Telephone: (202) 418-5306 (Mulreany);
+
+(202) 418-6158 (Karst)
+
+Attorneys for Plaintiff U.S. Commodity Futures Trading Commission
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF ARIZONA
+
+ 
+
+U.S. Commodity Futures Trading
+Commission,
+
+Civil Action No.
+Plaintiff,
+Complaint For Injunctive
+And Other Equitable Relief
+and for Civil Monetary
+Penalties Under the
+Commodity Exchange Act
+and Commission Regulations
+
+V.
+
+Cory Williams and Williams
+Advisory Group, LLC,
+
+Defendants.
+
+Nee Nee Nee ree ee ne “ee “mee ee ee ee “ee “See”
+
+ 
+
+Plaintiff U.S. Commodity Futures Trading Commission (“Commission’’) alleges
+as follows:
+I. SUMMARY
+1. From at least April 2014 through December 2016 (“Relevant Period’),
+Cory Williams (“Williams”), individually and as agent and officer of Williams Advisory
+Group, LLC (““WAG’’) (collectively, the “Defendants’’), fraudulently solicited and
+directly accepted at least $13 million from at least 40 individuals and/or entities (“pool
+
+participants” or “‘participants’’) to participate in a pooled investment vehicle for the
+purported purpose of trading commodity futures contracts, in violations of the Commodity
+Exchange Act (“Act”), 7 U.S.C. §§ 1-26 (2012), and its implementing regulations
+(“Regulations”), 17 C.F.R. §§ 1-190.10 (2016).
+
+2. Williams traded significant volumes of E-Mini S&P 500 futures contracts
+in his personal trading accounts and lost more than $8.3 million of the $13 million of
+pool participants’ funds originally taken in, while at the same time fraudulently telling
+participants he was trading on their behalf at a profit. Williams used the remaining funds
+received from participants to pay approximately $1.3 million for his personal expenses
+and to return approximately $3.4 million to some participants.
+
+3. At no time did Williams operate the pool as a legal entity separate from that
+of the pool operator, nor did Williams ever open a pooled trading account for the benefit
+of participants. Instead, Williams misappropriated pool participants’ funds and diverted
+them for Defendants’ own use by: transferring pool participants’ funds to personal bank
+accounts held in the name of Williams and/or the names of Williams and his wife,
+Brittany Williams, and/or WAG; funding trading accounts held in the name of, and for
+the benefit of, Williams; and, paying for Williams’ personal expenses. Williams further
+misappropriated pool participants’ funds by diverting a portion to other participants as
+withdrawals of principal or purported profits in the form of a “Ponzi” scheme.
+
+4. Williams, individually and as agent and officer of WAG, made
+misrepresentations of material facts to participants, including but not limited to, falsely
+claiming to have profitably traded on behalf of participants, when in fact Williams knew
+
+that he was consistently losing money trading participants’ funds. To conceal his fraud
+from participants, Williams sent participants text messages containing fabricated weekly
+profits.
+
+5. Williams, individually and as agent and officer of WAG, also omitted
+material facts in his communications with participants, including but not limited to failing
+to disclose: Williams’ misappropriation of participants’ funds; Williams’ failure to
+register as a commodity pool operator (“CPO”’) as required by the Act; Williams’ failure
+to operate the pool as a separate legally cognizable entity in violations of the Regulations;
+Williams’ commingling of funds in violations of the Regulations; and Williams’ failure to
+accept funds in the name of the pool in violations of the Regulations.
+
+6. During the Relevant Period, Williams, without registering with the
+Commission as a CPO, solicited, accepted, and received funds from the public while
+engaged in a business that is of the nature of an investment trust, syndicate, or similar
+form of enterprise, for the purpose of, among other things, trading in commodity futures
+contracts.
+
+7. By virtue of this conduct, and as more fully set forth below, Defendants
+have engaged, are engaging, or are about to engage in acts and practices in violations of
+Sections 4b(a)(1)(A)-(C) of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C)(2012), and Williams
+has engaged, is engaging, or is about to engage in acts and practices in violations of
+Sections 4m(1), 40(1)(A) and (B) of the Act, 7 U.S.C. §§ 6m(1), 60(1)(A) and (B)
+(2012), and Regulations 4.20(a)(1), (b), and (c), 17 C.F.R. §§ 4.20(a)(1), (b), and (c)
+
+(2016).
+Case 2:17-cv-01325-JJT Document 1 Filed 05/03/17 Page 4 of 20
+
+8. During the Relevant Period, Williams committed the acts and/or omissions
+alleged herein both in his individual capacity and also within the course and scope of his
+employment, agency, or office with Defendant WAG. WAG is therefore liable under
+Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2012), and Regulation 1.2, 17
+C.F.R. § 1.2 (2016), for Williams’ violations of the Act and/or Regulations.
+
+9. Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. § 13a-1 (2012),
+the Commission brings this action to enjoin Defendants’ unlawful acts and practices and
+to compel compliance with the Act and Regulations.
+
+10.‘ In addition, the Commission seeks civil monetary penalties and remedial
+ancillary relief, including, but not limited to, trading and registration bans, restitution,
+disgorgement, rescission, pre- and post-judgment interest, and such other relief as the
+Court may deem necessary and appropriate.
+
+11. Unless restrained and enjoined by this Court, Defendants are likely to
+continue to engage in the acts and practices alleged in this Complaint or in similar acts
+and practices, as more fully described below.
+
+I. JURISDICTION AND VENUE
+
+12. The Court has jurisdiction over this action pursuant to Section 6c of the
+Act, 7 U.S.C. § 13a-1 (2012), which authorizes the Commission to seek injunctive and
+other relief against any person whenever it appears to the Commission that such person
+has engaged, 1s engaging, or is about to engage in any act or practice constituting a
+
+violations of any provision of the Act or any rule, regulation, or order thereunder.
+Case 2:17-cv-01325-JJT Document 1 Filed 05/03/17 Page 5 of 20
+
+13. Venue properly lies with the Court pursuant to Section 6c(e) of the Act, 7
+U.S.C. § 13a-1(e) (2012), because the Defendants transacted business in the District of
+Arizona, and acts and practices in violations of the Act and Regulations occurred, are
+occurring, or are about to occur within this District.
+
+Il. PARTIES
+
+14. ‘Plaintiff United States Commodity Futures Trading Commission is an
+independent federal regulatory agency charged by Congress with the administration and
+enforcement of the Act and the Regulations promulgated thereunder. The Commission
+maintains its principal office at 1155 21st Street N.W., Washington, D.C. 20581.
+
+15. Defendant Williams Advisory Group, LLC is an Arizona limited liability
+company formed on September 27, 2010, with its principal place of business at 2484 E.
+Lodgepole Drive, Gilbert, Arizona 85298. WAG has never been registered in any
+capacity with the Commission.
+
+16. Defendant Cory Williams is an individual residing in Gilbert, Arizona.
+Williams is the founder, President and agent of WAG. Williams has never been
+registered in any capacity with the Commission.
+
+IV. FACTS
+A. The Fraudulent Scheme
+
+17. During the Relevant Period, Williams, individually and as agent and
+principal of WAG, solicited and received at least $13 million from at least 40 pool
+participants. Williams knowingly and falsely represented to actual and prospective
+
+participants that the funds were pooled and used to trade E-Mini S&P 500 futures
+oy
+CD
+
+e
+e
+r
+>
+M
+o
+”
+C3
+e”
+Y
+eles
+fin
+
+2
+Cy
+e”
+eo
+
+contracts on behalf of the pool; that Williams was an experienced and profitable trader;
+and that Williams’ trading for the pool was consistently profitable. All of these
+representations were false.
+
+18. To execute the fraudulent scheme, Williams, individually and as agent and
+principal of WAG, solicited family members, friends, neighbors, members of his church
+and other Mormon churches in and around Phoenix, Arizona. Williams solicited pool
+participants in person and by word-of-mouth.
+
+19. At Williams’ instruction, pool participants sent funds directly to personal
+bank accounts held in the name of Williams and/or the names of Williams and Brittany
+Williams at various banks, including but not limited to: Compass Bank, J.P. Morgan
+Chase and Wells Fargo (collectively, “Williams Personal Bank Accounts”). Of the at
+least $13 million solicited and accepted from pool participants, Williams misappropriated
+participants’ funds by transferring more than $8.3 million in participants’ funds from his
+personal bank accounts to eight of Williams’ personal trading accounts at registered
+futures commission merchants (“FCMs’) AMP Clearing, Dorman, Gain Capital, and MB
+Trading Futures (“Williams Personal Trading Accounts’’). None of these accounts were
+held in the name of a commodity pool.
+
+20. During the Relevant Period, Williams misappropriated participants’ funds,
+traded significant volumes of futures contracts in his personal accounts using
+participants’ funds, and consistently suffered heavy losses. Williams’ trading for his own
+benefit in his personal accounts resulted in losses of more than $8.3 million. Williams
+
+lost money every single month he traded from April 2014 through and including
+Case 2:17-cv-01325-JJT Document 1 Filed 05/03/17 Page 7 of 20
+
+December 2016, all the while falsely representing to participants that he was profitably
+trading on their behalf. As of December 31, 2016, all of Williams’ personal trading
+accounts had been closed.
+
+21. Williams returned approximately $3.4 million of the original $13 million in
+participant funds to certain participants as withdrawals of principal or as purported
+trading “profits” in furtherance of Defendants’ fraudulent scheme. However, the
+majority of participants were unable to obtain a return of their funds.
+
+22. Williams used the remaining $1.3 million of the at least $13 million
+originally received from participants to pay for his personal expenses throughout the
+Relevant Period on such items as jewelry, charitable donations in his name, and living
+expenses.
+
+23.  Atall relevant times, Williams and his wife, Brittany Williams, were the
+sole signatories on the Williams Personal Bank Accounts. Williams was the sole person
+authorized to trade in the Williams Personal Trading Accounts. Accordingly, at all
+relevant times Williams had personal knowledge of the amount of funds accepted from
+participants, the disposition of those funds, the number of trades effected on behalf of
+participants, as well as the losses in the Williams Personal Trading Accounts and the
+complete absence of any profitable trading.
+
+B. Operation of the Pool and Commingling
+
+ 
+
+24. During the Relevant Period, Williams acted as a CPO by soliciting,
+accepting, and receiving funds from the public while engaged in a business that is of the
+
+nature of an investment trust, syndicate, or similar form of enterprise, for the purpose of,
+Case 2:17-cv-01325-JJT Document 1 Filed 05/03/17 Page 8 of 20
+
+among other things, trading in commodity futures, without being registered with the
+Commission as a CPO.
+
+25. | Atno time did Williams create or operate the pool as an entity cognizable
+as a legal entity separate from the pool operator. As a result, at no time were any funds
+from pool participants received in the pool’s name because a separate pool was never
+created.
+
+26. During the Relevant Period, Williams failed to maintain pool funds
+separately from Williams’ own funds. Williams commingled pool participants’ funds
+with personal funds of Williams and Brittany Williams. As described above, pool
+participants deposited at least $13 million in the Williams Personal Bank Accounts,
+controlled by Williams. Williams transferred over $8.3 million in participants’ funds to
+the Williams Personal Trading Accounts.
+
+C. Material Misrepresentations and Omissions of Material Facts
+
+27. During the Relevant Period, Williams, individually and as agent and
+principal of WAG, made fraudulent misrepresentations in person, via telephone, and via
+text messages to attract and retain pool participants, including that:
+
+a. Pool participant funds would be pooled to trade commodity futures and
+returns would be derived from the pool’s trading profits;
+b. Williams was a successful and profitable trader; and
+
+c. Williams’ trading was consistently profitable during the Relevant Period.
+28. During the Relevant Period, Williams, individually and as agent and
+principal of WAG, knowingly made numerous material omissions to attract and retain
+pool participants, including by failing to disclose that:
+
+a. Williams never set up the pool as an entity cognizable as a legal entity
+separate from the pool operator;
+
+b. No trading on behalf of the pool took place;
+
+c. Williams misappropriated pool participants’ funds for his own use;
+
+d. Williams was not registered with the Commission as a CPO as required
+by the Act and was operating the pool without the required CPO
+registration;
+
+e. Williams commingled participants’ funds with his own funds and
+WAG’s funds in violations of federal law; and
+
+f. Purported “returns” or withdrawals of principal paid to some pool
+participants were in fact the principal deposits of other pool participants
+and were not generated by profitable futures trading.
+
+29. To perpetuate Defendants’ fraudulent scheme and to solicit additional pool
+participants, Williams also sent text messages to participants containing fabricated
+weekly profits. These text messages falsely represented that trading on behalf of
+participants had occurred, and that participants’ investments had increased in value as a
+result of profitable futures trading by Williams. For example, one participant received an
+August 1, 2016 text message from Williams reporting the following fabricated weekly
+
+returns for the pool in May, June, and July 2016:
+Case 2:17-cv-01325-JJT Document 1 Filed 05/03/17 Page 10 of 20
+
+[Week of] 5/20 20k
+
+[Week of] 5/27 25k
+
+[Week of] 6/3 25k
+
+[Week of] 6/10 25k
+
+[Week of] 7/22 30k
+
+[Week of] 7/29 30k
+Williams’ text message falsely represented that the participant’s investment had increased
+in value as a result of profitable futures trading by Williams. In reality, pool participants
+accrued no profits and suffered total or near total losses of their deposits.
+
+D. Misappropriation of Pool Participants’ Funds
+
+30. | While Williams represented to pool participants that all pool funds would
+be used to trade commodity futures on behalf of pool participants, in reality none of the
+funds Defendants accepted from pool participants were traded on their behalf.
+
+31. | During the Relevant Period, instead of pooling and trading pool
+participants’ funds in commodity futures as promised, Williams misappropriated
+participants’ funds for unauthorized purposes, including paying his own personal
+expenses, and for the benefit of Williams’ own trading accounts.
+
+32. | Williams used pool participants’ funds to pay his own personal expenses
+including dining, jewelry, vacations, and charitable donations. Williams did not disclose
+unauthorized uses of pool participants’ funds to participants or prospective participants.
+
+33. | Williams also misappropriated participant funds to pay purported “profits,”
+or areturn of principal, to some participants in order to create the illusion that the pool
+
+was trading, and trading profitably. Williams did not disclose the nature of these
+
+payments to pool participants or prospective pool participants.
+
+10
+Case 2:17-cv-01325-JJT Document 1 Filed 05/03/17 Page 11 of 20
+
+34. | Numerous pool participants made repeated demands on Williams for the
+return of their funds. Williams falsely represented to certain participants that he could
+not return their funds because the trading firm where the account was located had frozen
+the account. Williams failed to comply with participants’ redemption demands, and the
+majority of participants were unable to obtain a return of their funds.
+
+V. violations OF THE COMMODITY EXCHANGE ACT
+COUNT ONE
+FRAUD IN CONNECTION WITH COMMODITY FUTURES CONTRACTS
+violations OF SECTIONS 4b(a)(1)(A)-(C) OF THE ACT
+(Against all Defendants)
+
+35. The allegations set forth in the preceding paragraphs are re-alleged and
+incorporated herein by reference.
+
+36. Sections 4b(a)(1)(A)-(C) of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C) (2012),
+provide in relevant part, that it is unlawful:
+
+for any person, in or in connection with any order to make, or the making
+
+of, any contract of sale of any commodity in interstate commerce or for
+
+future delivery that is made, or to be made, on or subject to the rules of a
+
+designated contract market, for or on behalf of any other person — (A) to
+
+cheat or defraud or attempt to cheat or defraud the other person; (B)
+
+willfully to make or cause to be made to the other person any false report or
+
+statement or willfully to enter or cause to be entered for the other person
+
+any false record; [or] (C) willfully to deceive or attempt to deceive the
+
+other person by any means whatsoever in regard to any order or contract or
+
+the disposition or execution of any order or contract, or in regard to any act
+
+of agency performed, with respect to any order or contract for such other
+
+person.
+
+37. As described herein, Defendants violated Sections 4b(a)(1)(A)-(C) of the
+
+Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C) (2012), by cheating or defrauding, or attempting to
+
+11
+cheat or defraud other persons; issuing or causing to be issued false statements; and
+willfully deceiving or attempting to deceive other persons in connection with the offering
+of, or entering into, the commodity futures contracts alleged herein, by, among other
+things: (4) fraudulently soliciting pool participants by making material misrepresentations
+and omissions about Williams’ trading abilities and profits, and Williams’ use of
+deposited funds; (41) misappropriating pool participants’ funds to trade in Williams’
+Personal Trading Accounts, to pay redemptions or to pay for Williams’ personal
+expenses; and (111) providing text messages to participants with fabricated weekly profits,
+all in violations of Sections 4b(a)(1)(A)-(C) of the Act, 7 U.S.C. §§ 6b(a)(1)(A)-(C)
+(2012).
+
+38. | Williams engaged in the acts and practices described above knowingly,
+willfully or with reckless disregard for the truth thereof.
+
+39. Throughout the Relevant Period, Williams controlled WAG, directly or
+indirectly, and did not act in good faith, or knowingly induced, directly or indirectly, the
+acts constituting WAG’s violations alleged in this count. Williams is therefore liable for
+WAG’s violations of the Act and Regulations, as alleged in this count, pursuant to
+Section 13(b) of the Act, 7 U.S.C. § 13c(b) (2012).
+
+40. The foregoing acts of fraudulent solicitation, misappropriation, omission and
+false statements by Williams occurred within the scope of his employment, office or agency
+with WAG. Therefore, WAG is liable for Williams’ violations of the Act and Regulations, as
+alleged in this count, pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2012),
+
+and Regulation 1.2, 17 C.F.R. § 1.2 (2016).
+
+12
+Case 2:17-cv-01325-JJT Document 1 Filed 05/03/17 Page 13 of 20
+
+41. Each act of fraudulent solicitation, misappropriation and false statement or
+report, including but not limited to those specifically alleged herein, is alleged as a
+separate and distinct violations of Section 4b(a)(1)(A)-(C) of the Act, 7 U.S.C.
+
+§§ 6b(a)(1)(A)-(C) (2012).
+COUNT TWO
+FRAUD BY A COMMODITY POOL OPERATOR
+violations OF SECTIONS 40(1)(A) and (B) OF THE ACT
+(Against Cory Williams)
+
+42. The allegations set forth in the preceding paragraphs are re-alleged and
+incorporated herein by reference.
+
+43. Sections 40(1)(A) and (B) of the Act, 7 U.S.C. 8§ 60(1)(A) and (B) (2012),
+make it unlawful for a CPO to use the mails or any means or instrumentality of interstate
+commerce, directly or indirectly — (A) to employ any device, scheme, or artifice to
+defraud any client or participant or prospective client or participant; or (B) to engage in
+any transaction, practice, or course of business which operates as a fraud or deceit upon
+any client or participant or prospective client or participant.
+
+44. As alleged herein, during the Relevant Period, Williams acted as a CPO by
+soliciting, accepting, or receiving funds from the public while engaged in a business that
+is of the nature of an investment trust, syndicate or similar form of enterprise, for the
+purpose of, among other things, trading in commodity futures.
+
+45. Williams violated Sections 40(1)(A) and (B) of the Act, 7 U.S.C.
+
+§§ 60(1)(A) and (B) (2012), in that he employed or is employing a device, scheme, or
+
+artifice to defraud actual and prospective pool participants or engaged or is engaging in
+
+13
+Case 2:17-cv-01325-JJT Document 1 Filed 05/03/17 Page 14 of 20
+
+transactions, practices, or a course of business which operated or operates as a fraud or
+deceit upon pool participants or prospective pool participants, including without
+limitation: misappropriation of participants’ funds, sending text messages containing
+fabricated weekly profits, misrepresenting and/or omitting material facts in solicitations
+and communications with participants, and acting as a CPO without registering as such as
+required by the Act.
+
+46. Each act of fraudulent solicitation, misappropriation and false statement or
+report, including but not limited to those specifically alleged herein, is alleged as a
+separate and distinct violations of Sections 40(1)(A) and (B) of the Act, 7 U.S.C.
+
+§§ 60(1)(A) and (B) (2012).
+COUNT THREE
+PROHIBITED ACTIVITIES BY A COMMODITY POOL OPERATOR
+violations OF REGULATIONS 4.20(A)(1), (B), and (C)
+(Against Cory Williams)
+
+47. The allegations set forth in the preceding paragraphs are re-alleged and
+incorporated herein by reference.
+
+48. Regulation 4.20(a)(1), 17 C.F.R. § 4.20(a)(1) (2016), provides, “Except as
+provided in paragraph (a)(2) of this section, a commodity pool operator must operate its
+pool as an entity cognizable as a legal entity separate from that of the pool operator.”
+
+49. As set forth above, during the Relevant Period, Williams acted as a CPO by
+soliciting, accepting, or receiving funds from the public while engaged in a business that
+is of the nature of an investment trust, syndicate, or similar form of enterprise, for the
+
+purpose of, among other things, trading in commodity futures.
+
+14
+50. During the Relevant Period, Williams, in operating an investment trust,
+syndicate, or similar form of enterprise for the purpose of, among other things, trading in
+commodity futures, did not operate the pool as an entity cognizable as a legal entity
+separate from himself, the pool operator, in violations of Regulation 4.20(a)(1), 17 C.F.R.
+§ 4.20(a)(1) (2016).
+
+51. Regulation 4.20(b), 17 C.F.R. § 4.20(b) (2016), provides: “All funds,
+securities or other property received by a commodity pool operator from an existing or
+prospective pool participant for the purchase of an interest or as an assessment (whether
+voluntary or involuntary) on an interest in a pool that it operates or that it intends to
+operate must be received in the pool’s name.”
+
+52. As set forth above, during the Relevant Period, Williams, by operating an
+investment trust, syndicate, or similar form of enterprise for the purpose of, among other
+things, trading in commodity futures, failed to operate the pool as an entity cognizable as
+a legal entity separate from the pool operator, and received funds, securities or other
+property from existing or prospective pool participants for the purchase of an interest in
+the pool without receiving same in the pool’s name, in violations of Regulation 4.20(b), 17
+C.F.R. § 4.20(b) (2016).
+
+53. Regulation 4.20(c), 17 C.F.R. § 4.20(c) (2016), provides, “No commodity
+pool operator may commingle the property of any pool that it operates or that it intends to
+operate with the property of any other person.”
+
+54. As set forth above, during the Relevant Period, Williams commingled pool
+
+participants’ funds by: failing to maintain pool funds separately from Williams’ funds
+
+15
+Case 2:17-cv-01325-JJT Document 1 Filed 05/03/17 Page 16 of 20
+
+and WAG’s funds; commingling pool funds with the personal funds of Williams and
+Brittany Williams and the funds of WAG; and, placing pool funds into the personal bank
+and trading accounts of Williams, in violations of Regulation 4.20(c), 17 C.F.R. § 4.20(c)
+(2016).
+
+55. Each act and/or omission of Williams, including but not limited to those
+specifically alleged herein, is alleged as a separate and distinct violations of Regulations
+4.20(a)(1), (b) and (c), 17 C.F.R. §§ 4.20(a)(1), (b) and (c) (2016).
+
+COUNT FOUR
+FAILURE TO REGISTER AS A COMMODITY POOL OPERATOR
+violations OF SECTION 4m(1) OF THE ACT
+(Against Cory Williams)
+
+56. The allegations in the preceding paragraphs are re-alleged and incorporated
+herein by reference.
+
+57. Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2012), makes it unlawful for
+any CPO, unless registered with the Commission, to make use of the mails or any means
+or instrumentality of interstate commerce in connection with its business as a CPO.
+
+58. | During the Relevant Period, Williams engaged in the acts and practices
+described above using the mails or instrumentalities of interstate commerce, including but
+not limited to: telephone, electronic mail, and text messages, while failing to register with
+the Commission, in violations of Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2012).
+
+59. During the Relevant Period, Williams was not exempt from registering as a
+
+CPO.
+
+16
+Case 2:17-cv-01325-JJT Document 1 Filed 05/03/17 Page 17 of 20
+
+60. Each use of the mails or instrumentalities of interstate commerce, including
+but not limited to: telephone, electronic mail, and text messages by Williams, including
+but not limited to those specifically alleged herein, is alleged as a separate and distinct
+violations of Section 4m(1) of the Act, 7 U.S.C. § 6m(1) (2012).
+
+VI. RELIEF REQUESTED
+
+ 
+
+WHEREFORE, the Commission respectfully requests that the Court, as authorized
+by Section 6c of the Act, 7 U.S.C. § 13a-1 (2012), and pursuant to its own equitable
+powers, enter:
+
+A. An order finding that Defendants violated Sections 4b(a)(1)(A)-(C) of the
+
+Act, 7 U.S.C. 8§ 6b(a)(1)(A)-(C) (2012), and Defendant Williams violated
+Sections 4m(1), 40(1)(A) and (B) of the Act, 7 U.S.C. §§ 6m(1), 60(1)(A)
+and (B) (2012), and Regulations 4.20(a)(1), (b), and (c), 17 C.F.R.
+
+§§ 4.20(a)(1), (b), and (c) (2016);
+
+B. An order of permanent injunction prohibiting Defendants and any of their
+agents, servants, employees, assigns, attorneys, holding companies, alter
+egos, and persons in active concert or participation with Defendants,
+including any of their successors, from, directly or indirectly:
+
+1. Trading on or subject to the rules of any registered entity (as that
+term is defined in Section la of the Act, 7 U.S.C. § la 2012));
+2. Entering into any transactions involving “commodity interests” (as
+
+that term is defined in Regulation 1.3(yy), 17 C.F.R. § 1.3(yy)
+
+17
+(2016)), for their own personal account or for any account in which
+they have a direct or indirect interest;
+
+Having any commodity interests traded on their behalf;
+
+Controlling or directing the trading for or on behalf of any other
+person or entity, whether by power of attorney or otherwise, in any
+account involving commodity interests;
+
+Soliciting, receiving, or accepting any funds from any person for the
+purpose of purchasing or selling any commodity interests;
+
+Applying for registration or claiming exemption from registration
+with the Commission in any capacity, and engaging in any activity
+requiring such registration or exemption from registration with the
+Commission except as provided for in Regulation 4.14(a)(9), 17
+C.F.R. § 4.14(a)(9) (2016);
+
+Acting as a principal (as that term is defined in Regulation 3.1(a), 17
+C.F.R. § 3.1(a) (2016)), agent, or any other officer or employee of
+any person registered, exempted from registration, or required to be
+registered with the Commission, except as provided for in
+Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9) (2016);
+
+Engaging in any business activities related to commodity interests;
+
+An order directing Defendants, as well as any of their successors thereof,
+
+holding companies and alter egos, to disgorge, pursuant to such procedure
+
+as the Court may order, all benefits received from the acts or practices
+
+18
+re
+1?)
+od
+vex
+”
+
+“cn
+
+»)
+
+re
+oo
+
+which constitute violations of the Act and the Regulations, as described
+herein, and pre- and post-judgment interest thereon from the date of such
+violations;
+
+An order directing Defendants, as well as any successors thereof, to make
+full restitution to every person or entity whose funds they received or
+caused another person or entity to receive as a result of acts and practices
+that constituted violations of the Act and the Regulations, as described
+herein, and pre- and post-judgment interest thereon from the date of such
+violations;
+
+An order directing Defendants, as well as any successors thereof, to provide
+a full accounting of all pool participant funds they have received during the
+Relevant Period as a result of the acts and practices that constituted
+violations of the Act and Regulations, as described herein;
+
+An order directing Defendants, as well as any successors thereof, holding
+companies, and alter egos, to rescind, pursuant to such procedures as the
+Court may order, all contracts and agreements, whether implied or express,
+entered into between them and any pool participants whose funds were
+received by them as a result of the acts and practices which constituted
+violations of the Act and Regulations, as described herein;
+
+An order directing Defendants to pay a civil monetary penalty for each
+violations of the Act and the Regulations described herein, plus post-
+
+judgment interest, in the amount of the higher of: (1) $170,472 for each
+
+19
+Case 2:17-cv-01325-JJT Document 1 Filed 05/03/17 Page 20 of 20
+
+violations of the Act and Regulations committed; or (2) triple the monetary
+
+gain to Defendants for each violations of the Act and the Regulations, plus
+
+post-judgment interest;
+
+H. An order requiring Defendants to pay costs and fees as permitted by
+
+28 U.S.C. 8§ 1920 and 2412(a)(2) (2012); and
+
+I. Such other and further relief as the Court deems proper.
+
+Dated: May 3, 2017
+
+Respectfully submitted,
+
+U.S. COMMODITY FUTURES TRADING
+COMMISSION
+
+/s/ Danielle Karst
+TIMOTHY J. MULREANY
+DANIELLE KARST
+Attorneys for Plaintiff
+
+U.S. COMMODITY FUTURES TRADING
+COMMISSION
+
+1155 21st Street, N.W.
+Washington, D.C. 20581
+Telephone: (202) 418-5000
+tmulreany @cftc.gov
+
+dkarst @cftc.gov
+
+ 
+
+20

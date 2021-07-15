@@ -1,0 +1,455 @@
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ 
+
+ 
+
+)
+U.S. SECURITIES AND EXCHANGE _ )
+COMMISSION, )
+100 F. Street, NE )
+Washington, D.C. 20549-6030 )
+)
+Plaintiff, Case: 1:08-cv-02211
+v. ) Assigned To : Kollar-Kotelly, Colleen
+) Assign. Date : 12/22/2008
+FIAT S.p.A. ) Description: General Civil
+Via Nizza 250 )
+Turin, Italy )
+- )
+and )
+)-
+CNH GLOBAL .N.V. )
+World Trade Center, Amsterdam Airport)
+Tower B, 10" Floor )
+Schiphol Boulevard )
+1118 BH Amsterdam )
+The Netherlands. , )
+Defendants. )
+)
+COMPLAINT
+Plaintiff, U.S. Securities and Exchange Commission (the âCommissionâ), alleges
+that:
+
+SUMMARY
+1. . From approximately 2000 through 2003, Fiat S.p.A. (âFiatâ) and its .
+subsidiary CNH Global N.V. (âCNH Globalâ) violated the books and records and internal
+controls provisions of the Foreign Corrupt Practices Act (the âFCPAâ) when their
+subsidiaries, agents and distributors made approximately $4.3 million in kickback
+
+payments in connection with their sales of humanitarian goods to Iraq under the United
+Nations (âU.N.â) Oil for Food Program. Fiatâs and CNH Globalâs subsidiaries
+authorized and paid kickbacks to Iraq in the form of âafter-sales service feesâ on sales of
+its products to Iraq. Fiat and CNH Global knew or were reckless in not knowing that
+âkickbacks were paid or agreed to in connection with each of its subsidiariesâ transactions.
+Fiat and CNH Global knew that such payments were prohibited by the Oil for Food
+Program and U.S. and international trade sanctions on Iraq.
+
+2. . The Oil for Food Program provided humanitarian relief to the Iraqi
+population during the time that Iraq was subject to international trade sanctions. The
+program required that Iraq could purchase necessary humanitarian goods and related â
+services through a U.N. escrow account. However, the kickbacks paid in connection with
+Fiatâs and CNH Globalâs subsidiariesâ sales of goods to Iraq had the effect of diverting
+funds out of the escrow account and were paid by third parties into Iraqi-controlled |
+accounts at banks in countries such as Jordan.
+
+3. Because their subsidiaries paid âafter-sales service feesâ to Iraq outside of
+the confines of the UN. program, Fiat and CNH Global failed to accurately record in
+their books and records the kickbacks that were authorized for payment to Iraq. Fiat and
+
+- CNH Global also failed to devise and maintain systems of internal accounting controls to
+detect and prevent such illicit payments.
+
+4. As a result of this conduct, Fiat and CNH Global violated Sections
+13(b)(2)(A) and 13(b)(2)(B) of the Securities Exchange Act of 1934 (the âExchange
+
+Actâ) [15 U.S.C. Â§Â§ 78m(b)(2)(A) and 78m(b)(2)(B)].
+JURISDICTION
+
+5. -This Court has jurisdiction over this action under Sections 21(d), 21(e),
+and 27 of the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e) and 78aa]. Fiat and CNH
+Global, directly or indirectly, made use of the means or instrumentalities of interstate
+commerce, of the mails, or of the facilities of a national securities exchange in connection
+with the transactions, acts, practices, and courses of business alleged in this Complaint.
+
+6. Venue is appropriate in this Court under Section 27 of the Exchange Act
+[15 U.S.C. Â§ 78aa] because Fiat and CNH Global do business in this judicial district and
+certain acts or transactions constituting the violations by Fiat and CNH Global occurred
+in this district. |
+
+DEFENDANTS
+
+7. Fiat S.p.A. (âFiatâ), an Italian company headquartered in Turin, Italy, isa
+provider of automobiles, agricultural and construction equipment, trucks, and commercial
+vehicles. Throughout the relevant period, Fiatâs American Depositary Receipts were
+registered pursuant to Section 12(b) of the Exchange Act and listed on the New York
+Stock Exchange under the symbol up IA.â In August 2007, Fiat delisted its ADRs and
+applied for termination of its registration with the Commission, which was effective in
+November 2007. During the Oil for Food Program, Fiat subsidiary IVECO S.p.A. sold
+| trucks to Iraq. Fiat subsidiary CNH Global was involved in sales of agricultural and |
+construction equipment and parts to Iraq during the Oil for Food Program through two of
+its subsidiaries. |
+
+8. CNH Global N.V. (âCNH Globalâ), a Dutch company headquartered in
+
+Amsterdam, The Netherlands, is a provider of agricultural and construction equipment.
+CNH Global is a majority-owned subsidiary of Fiat and is controlled by F iat Netherlands
+Holding N.V., a wholly owned subsidiary of Fiat. Throughout the relevant period, CNH
+Globalâs American Depository Receipts were registered pursuant to Section 12(b) of the
+Exchange Act and listed on the New York Stock Exchange under the symbol âCNH.â
+Two CNH Global subsidiaries, Case France S.A. and New Holland Italia S.p.A., were
+involved in sales of agricultural and construction equipment and parts to Iraq during the
+Oil for Food Program. |
+RELEVANT ENTITIES
+
+9. IVECO S.p.A. (âIVECOâ), is a wholly-owned subsidiary of Fiat and is
+headquartered in Turin, Italy. IVECOâs sales of fuel tankers, trucks, and spare parts
+during the Oil for Food Program were conducted out of the companyâs IVECO Egypt
+office. |
+
+10. Case France S.A. (âCase Franceâ), now known as CNH France S.A., is a
+wholly-owned subsidiary of CNH Global and is headquartered in Plessis-Belleville,
+France. Case France sold construction equipment, including wheel loaders and
+excavators, to Iraq. |
+
+11. New Holland Italia S.p.A. (âNew Hollandâ), currently known as CNH
+Italia S.p.A., is a wholly-owned subsidiary of CNH Global and is headquartered in
+~ Modena, Italy. New Holland sold agricultural equipment, including tractors, to Iraq.
+
+FACTS
+
+I. The United Nations Oil for Food Program
+
+12. On August 2, 1990, the government of Iraq, under Saddam Hussein,
+
+invaded Kuwait. Four days later the United Nations Security Council voted to enact U.N.
+Resolution 661, which prohibited member states from trading in any Iraqi commodities
+or products. The United Nations continued to enforce these sanctions until 2003.
+
+13. On April 14, 1995, the United Nations Security Council adopted
+Resolution 986, which authorized the Government of Iraq to sell oil on the condition that
+the proceeds of all of its oil sales be deposited in a bank account monitored by the United
+Nations and used only to purchase designated humanitarian goods for the benefit of the
+Iraqi people. In May 1996, the Government of Iraq entered into a written Memorandum
+of Understanding to implement Resolution 986.
+
+14. The United Nations Office of Iraq Program, Oil for Food (the âOil for
+Food Programâ or âProgramâ) was subsequently established to administer Iraqâs sale of
+oil and purchase of humanitarian goods by Iraq. A special bank account was established
+at a bank in New York (the âUN Escrow Accountâ) to handle the transactions. âThe
+United Nationsâ economic sanctions on Iraq remained in place for all trade and
+transactions not authorized by. the Oil for Food Program.
+
+15. Starting in the middle of 2000, the Iraqi government made a concerted
+effort to subvert the Program by demanding secret kickbacks from its humanitarian goods
+suppliers. Although contracts entered into pursuant to the Program were subject -to UN
+review and approval, the Program gave Iraq discretion to select the companies from
+which it purchased goods. A humanitarian supplier would submit a bid for the sale of its
+goods. After the Iraqi ministry would accept the bid, the-ministry would inform the
+supplier of the requirement that the supplier make a secret payment in the form of an
+âAfter-Sales Service Feeâ (ââASSFâ) to Iraq in order to win the contract. The Iraqi
+
+ministry would also inform the supplier that the ASSF would have to be paid prior to the
+goods entering into the country, or the goods would be stopped at the border until the
+_ASSF payment was paid.
+
+16. Initially, when this scheme first began, suppliers met with the Iraqi
+ministries in person and signed a side agreement acknowledging that the supplier would
+make the illicit payment.' By October 2000, this fee was usually ten percent of the total
+contract value. Later in the scheme, everyone understood that the ten percent would have
+to be paid. Thus, side agreements were no longer needed -- the supplier would simply
+increase its original contract bid by ten percent.
+
+17.- The supplier would then submit its contract with the inflated contract price
+to the UN for approval, and not disclose the ten percent illicit payment, which was in
+violation of the Program rules. The supplier would pay the ASSF to Iraq prior to
+shipping its goods. Afterwards, the UN Escrow Account would pay the supplier the
+inflated contract price for the goods, thus, unknowingly reimbursing the supplier for the
+ten percent that the supplier had already provided to Iraq. Asa result of this conduct, the
+UN Escrow Account lost the benefit of more than $1 billion.
+
+18. After the United States invaded Iraq in March 2003, at the request of the
+provisional government, the UN ceased Iraqâs ASSF scheme. The UN required that all
+pending contracts that had been inflated by ten percent be amended to reflect the true
+contract value of the goods.
+
+II. Fiatâs and CNH Globalâs Subsidiaries Make Illicit Payments to Iraq
+19. Fiatâs and CNH Globalâs subsidiaries sell automobiles, trucks, agricultural
+
+and construction equipment, and commercial vehicles. While the Oil for Food Program
+
+ 
+
+! The side agreement was not provided to the UN when the Oil for Food contract was submitted and
+approved. This was in violation of the Program and U.S. and international trade sanctions against Iraq.
+was in effect, IVECO, a Fiat subsidiary, participated in the sales of tankers, trucks, and
+other equipment to Iraq and two of CNH Globalâs subsidiaries, Case France and New
+Holland, participated in the sales of tractors, harvesters and other equipment to Iraq
+through the Program. During this time period, Iraqâs various ministries required the
+payment of ASSFs in connection with winning contracts to supply humanitarian goods
+under the Program. IVECO, Case France, and New Holland acquiesced to the demands
+of the Iraqi ministries and paid illegal ASSFs through third-party agents and distributors.
+Fiatâs and CNH Globalâs total gains from contracts in which ASSF payments and other
+illicit payments were paid or authorized amounted to $5,309,632.
+
+A. IVECO Makes $3.1 Million in ASSF Payments
+
+1. IVECOâs Direct Sales to Iraq |
+
+20. During the Oil for Food Program, IVECO used its IVECO Egypt office
+to enter into four direct transactions with Iraqi ministries, including the Ministry of Oil,
+for the sale of commercial vehicles and spare parts. IVECO Egypt used a Lebanese agent
+to. facilitate each transaction. Between October 2000 and January 2001, [VECO entered
+into four contracts under the Program that involved the payment of ASSFs.
+
+21. + After agreeing to make the illicit ASSF payments, IVECO Egypt
+employees developed a scheme to conceal the kickbacks. The kickbacks were disguised
+
+âas legitimate agent commissions. Accordingly, IVECO Egypt increased the Lebanese
+
+agentâs commissions on sales to Iraq from five percent to between fifteen and twenty
+percent of the total contract price. The Lebanese agent would then pass the ASSF
+payments to the Iraqi ministries on TVECOâs behalf and then submit an invoice to
+
+IVECO for payment of the falsely inflated agency commissions. Internal IVECO
+financial documents for three Oil for Food contracts show line items for âcontract pay-
+backâ or ârestituzioneâ (translated as âpay-backâ) due to the Lebanese agent, in addition
+to the legitimate components of the agentâs commissions. These line items represent the
+Lebanese agentâs payment of ASSFs on IVECOâs behalf. IVECO Egypt personnel held
+the Lebanese agentâs invoices for approximately one year prior to submitting them to
+IVECOâs headquarters in Italy for payment. Despite the delay in submitting the invoices,
+and the unusually large commissions, the invoices were paid.
+
+22. | In connection with one of the contracts, IVECO initially set up a bank
+guarantee in the amount of the ASSF in favor of a Dubai-based firm that operated as a
+front company for the Iraqi government. IVECO did not complete the bank guarantee
+and, instead, [VECOâs Lebanese agent established an identical bank guarantee to conceal
+IVECOâs role. A line item identified as âpay-backâ in internal (VECO documents
+corresponds to the amount of the bank guarantee the Lebanese agent paid to Iraqi
+ministries on IVECOâs behalf.
+
+23. | Altogether, IVECO paid approximately $1,803,880 in ASSFs on the four
+contracts. In order to generate funds to pay the ASSFs and to conceal those payments,
+IVECO and the Lebanese agent inflated the price of the U.N. contracts by ten to fifteen
+percent before submitting them to the U.N. for approval. The ASSF payments were
+
+âincorrectly recorded as legitimate commissions on the companyâs books and records.
+2. | IVECOâs Indirect Sales to Iraq
+
+24. Beginning in November 2000, IVECO changed its method of doing
+
+business for future contracts. [VECO decided to use the Lebanese agent its distributor,
+
+rather than simply its agent. As a distributor, the Lebanese agent purchased equipment
+directly from IVECO for its own account. The Lebanese agent, in turn, then sold IVECO
+trucks and parts to Iraq and submitted its own inflated contracts to the U.N. Thus,
+IVECO was no longer the party named on the inflated contracts to the U.N., but rather,
+the Lebanese agent was the named party. With IVECOâs knowledge, the Lebanese agent
+then facilitated payment of the ASSF to Iraq. Through this mechanism, IVECO was able
+to move its goods into Iraq, but keep itself distanced from any involvement in the ASSF
+scheme. IVECO personnel knew or should have known from their direct sales to Iraq
+that the Lebanese agentâs sales of IVECO products included ASSF payments.
+
+25. In correspondence with the U.N., the Lebanese agent conceded that it paid
+ASSFs to Iraqi ministries on twelve contracts that involved the sale of IVECO products.
+Specifically, the Lebanese agent confirmed that the payments were made through Al
+Rafidain Bank in âamounts equivalent to ten percent of the value of [the] contracts[.]â
+
+26. In connection with these twelve contracts, ASSFs totaling $1,364,080 in
+ASSFs were made by the Lebanese agent. IVECO either knew or was reckless in not
+knowing that the Lebanese agent was making improper payments on the twelve contracts.
+
+B. Case France Makes $187,720 in ASSF Payments
+
+27. In mid-2001, Case France, a subsidiary of CNH Global, engaged in three
+direct transactions with Iraqi ministries, including the Ministry of Oil; for the sale of
+construction equipment under the Oil for Food Program. Case Franceâs Regional Sales
+Marketing Manager for the Middle East region learned of the ASSF requirement during a
+trip to Iraq. On a separate occasion, armed Iraqi officials approached Case Franceâs
+Baghdad facility and reiterated the request for kickbacks to the Case France employees.
+
+Case France then entered into a side letter agreeing to pay kickbacks. The side letter was
+not disclosed to the U.N., nor was the agreement to pay the kickbacks. Case France
+employees drafted profitability analyses for two of the three contracts, which listed aten -
+percent ASSF payment and a five percent commission payable to a Lebanese company
+that was to act as a distributor in connection with the sales. The Lebanese company
+funneled the ASSF payments to the Iraqi ministries on. behalf of Case France.
+
+28. Case France paid ASSFs totaling approximately $187,720. To generate
+funds to pay the kickbacks and to conceal those payments, Case France and its agent
+inflated the price of the U.N. contracts by approximately ten percent before submitting
+them to the U.N. for approval. Case France inflated its commission payments to its
+Lebanese distributor, and the Lebanese distributor forwarded these excess funds to Iraq
+as kickbacks. Case France did not record the kickbacks on its books and records.
+
+Cc. New Holland Makes More Than $1 Million in ASSF Payments and
+Authorizes $312,198 in Additional ASSF Payments
+
+1. New Hollandâs Direct Sales to Iraq
+29. Between December 2000 and May 2001, New Holland engaged in two
+
+contracts for the sale of tractors under the Oil for Food Program. In early 2001, New
+Holland personnel learned that Iraqi.officials were demanding kickbacks in connection
+with sales under the Program. With a Jordanian dealer acting as its agent, New Holland
+entered into two direct contracts under the program between December 2000 and May
+2001. On one of the contracts, New Holland obtained a bank guarantee in favor of the
+Iraqi ministry in March 2001 in the amount of the ASSF. The-bank guarantee and its
+payment were not disclosed to the U.N.
+
+. 30. To generate funds to pay the kickbacks to the Iraqi government and to
+
+conceal those payments, New Holland inflated the price of the contracts by
+
+10
+approximately ten percent before submitting them to the U.N. for approval. New Holland
+did not disclose to the U.N. the fact that the contracts were inflated or the intent to pay
+illicit ASSFs.
+
+31. | ASSF payments totaling $447,116 were made by New Holland. The |
+payments of the ASSFs-were recorded as cost of goods sold in New Hollandâs books and
+records.
+
+2. New Hollandâs Indirect Sales to Iraq
+
+32. Soon after the two direct contracts were negotiated, New Holland ceased
+entering into direct sales to Iraq. Several months later, after May 2001, New Holland
+employees were approached by Iraqi officials who inquired why the company was no
+longer conducting business in Iraq. Shortly after this discussion, New Holland resumed
+business in Iraq. However, New Holland changed its method of doing business for these
+future contracts in an effort to distance itself from the payment of improper ASSFs. New
+Holland decided to make the Jordanian dealer its distributor, rather than simply its agent.
+As a distributor, the Jordanian dealer purchased equipment directly from New Holland
+for its own account. The Jordanian dealer, in turn, then sold New Holland products to
+Iraq and submitted its own inflated contracts to the U.N. Thus, New Holland was no
+longer the party named on the inflated contracts to the U.N., but rather, the Jordanian
+dealer was the named party. With New Hollandâs knowledge, the Jordanian dealer then
+facilitated payment of the ASSF to Iraq. Through this mechanism, New Holland was
+able to move its goods into Iraq, but keep itself distanced from any involvement in the
+ASSF scheme. Correspondence from the Jordanian dealer toa New Holland employee
+
+dated November 2001 shows that the Jordanian dealer could make the payment rather
+
+1]
+than New Holland. The correspondence discusses the fact that New Hollandâs direct
+sales to Iraq remain impracticable as long as the âfamous 10â (a reference to the ten
+percent kickback) was required.
+
+33. | The Jordanian dealer entered into three contracts with Iraqi ministries for
+the sale of New Holland products and ASSF payments totaling $576,861 were made by
+the Jordanian dealer. An additional $312,198 ASSF payment was authorized by the
+Jordanian dealer, but never received by Iraq. New Holland either knew or was reckless
+
+_in not knowing that the Jordanian dealer was making improper payments on the three
+contracts.
+Ill. Fiat and CNH Globalâs Failure to Maintain Adequate Internal Controls
+
+34. Fiat and CNH Global failed to maintain a system of intÃ©rnal controls
+sufficient to ensure that the companiesâ transactions under the Oil for Food Program were -
+executed in accordance with managementâs authorization and to maintain accountability
+for the companyâs assets. As discussed above, Fiatâs subsidiaries, including CNH
+Global, made numerous illicit payments that contravened the Oil for Food Program, U.S.
+and international trade sanctions, and its own internal FCPA and anti-bribery policies.
+
+35.  Innine transactions that Fiat and CNH Global subsidiaries entered into
+directly with Iraqi ministries, a portion of the subsidiariesâ sales price for goods to Iraq
+constituted ASSF payments in violation of UN regulations and trade sanctions, and also
+Fiatâs and CNH Globalâs FCPA and anti-bribery policies. In fifteen additional
+transactions entered into by distributors, Fiatâs subsidiaries, including CNH Global, knew
+or were reckless in not knowing that the distributors were paid ASSFs and submitted
+
+inflated contracts to the UN In fact, in each of those instances, the Fiat entity specifically
+
+12
+changed its business relationship with its distributor in an effort to conceal their
+involvement in the sales of its products to Iraq in which ASSF payments were made.
+Moreover, as evidenced by the extent and duration of the improper ASSF payments made
+by IVECO, Case France, New Holland, and their agents and distributors, the improper
+recording of these payments in the company's books and records, and the failure of Fiatâs
+and CNH Global's management to detect these irregularities, Fiat and CNH Global failed
+to devise and maintain an effective system of internal controls to prevent or detect these
+violations of the FCPA, as required by Exchange Act Section 13(b)(2)(B).
+
+Vv.  Fiatâs and CNH Globalâs Failure to Properly Maintain Its Books and
+Records |
+
+36. As described above, Fiatâs and CNH Globalâs accounting for its Oil for
+_ Food transactions failed properly to record the nature of the companiesâ kickback
+payments. On at least nine transactions, a portion of Fiatâ s and CNH Globalâs
+subsidiariesâ sales price for goods to Iraq constituted ASSF payments in violation of U.N.
+regulations and trade sanctions, and also Fiatâs and CNH Globalâs FCPA and anti-bribery
+policies. In the instances in which the ASSF payments were made, either directly by a
+Fiat or CNH Global subsidiary, or by an agent or distributor, the Fiat or CNH Global
+. subsidiary failed to properly designate those payments, characterizing some as
+commission payments, and others as ordinary business expenses. Thus, Fiat and CNH
+Global failed to accurately record these payments in its books, records, and accounts to
+
+fairly reflect the transactions.
+
+13
+CLAIMS FOR RELIEF
+FIRST CLAIM
+[Violations of Section 13(b)(2)(A) of the Exchange Act]
+
+37. Paragraphs 1 through 36 are realleged and incorporated by reference.
+
+38. As described above, Fiat and CNH Global, through their officers, agents,
+consultants, representatives, and subsidiaries, failed to keep books, records, and accounts,
+which, in reasonable detail, accurately and fairly reflected its transactions and
+dispositions of its assets.
+
+39. By reason of the foregoing, Fiat and CNH Global violated Section
+13(b)(2)(A) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(A)].
+
+SECOND CLAIM
+[Violations of Section 13(b)(2)(B) of the Exchange Act] Â©
+
+40. Paragraphs 1 through 39 are realleged and incorporated by reference.
+
+41.  Asdescribed above, with respect to illicit payments made in connection
+with Fiatâs subsidiariesâ, including CNH Global, and their distributorsâ sales to Iraq, Fiat
+and CNH Global failed to devise and maintain a system of internal accounting controls
+sufficient to provide reasonable assurances that: (i) payments were made in accordance
+with managementâs general or specific authorization; and (ii) payments were recorded as
+necessary to maintain accountability for its assets.
+
+42. By reason of the foregoing, Fiat and CNH Global violated Section
+
+13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(B)].
+
+14
+PRAYER FOR RELIEF
+WHEREFORE, the Commission respectfully requests that this Court enter a final
+- judgment:
+A. Permanently restraining and enjoining Fiat and CNH Global from
+violating Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act . [15 USC.
+Â§Â§ 78m(b)(2)(A) and (B)]; |
+B. Ordering Fiat, on behalf of Fiat and CNH Global, to disgorge ill-gotten _
+gains, with prejudgment interest, wrongfully obtained as a result of its illegal conduct;
+C. Ordering Fiat, on behalf of Fiat and CNH Global, to pay civil penalties
+pursuant to Section 21(4)(3) of the Exchange Act [15 U.S.C. Â§ 78u(d)(3)]; and
+
+âD. Granting such further relief as the Court may deem just and appropriate.
+
+Dated: Doe AA ,2008
+
+Respectfully submitted,
+
+(nem Phun Co
+
+Cheryl J. Seppe (D.C. Bar No. 422175)
+Tracy L- Pric
+Kelly G. Kilroy _
+
+Attorneys for Plaintiff,
+
+U.S. Securities and Exchange Commission
+100 F Street, NE
+
+Mail Stop 6030 SPII
+
+Washington, DC 20549-6030
+
+(202) 551-4403 (Scarboro)
+
+15

@@ -1,0 +1,352 @@
+ 
+
+(â RECEIVED CFTC \
+
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+Proceedings Clerk
+
+0:50 am, Jul 26, 2017
+
+ 
+
+ 
+
+ 
+
+In the Matter of:
+
+Simon Posen, CFTC Docket No.: 17 â20
+
+Respondent.
+
+Nee Ne ee ee ee âee ee Nee âNeeâ
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT,
+MAKING FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+
+I.
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+Simon Posen (âPosenâ or âRespondentââ) violated Section 4c(a)(5)(C) of the Commodity
+Exchange Act (âActâ or âCEAâ), 7 U.S.C. Â§ 6c(a)(5)(C) (2012), from at least December 2011
+through March 2015 (the âRelevant Periodâ). Therefore, the Commission deems it appropriate
+and in the public interest that public administrative proceedings be, and hereby are, instituted to
+determine whether Respondent engaged in the violations set forth herein and to determine
+whether any order should be issued imposing remedial sanctions.
+
+Il.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferââ) that the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and 6(d) of the
+Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions (âOrderââ) and
+acknowledges service of this Order.â
+
+ 
+
+' Respondent consents to the entry of this Order and to the use of these findings in this proceeding and in any other
+proceeding brought by the Commission or to which the Commission is a party; provided, however, that Respondent
+does not consent to the use of the Offer or the findings or conclusions in this Order consented to in the Offer, as the
+sole basis for any other proceeding brought by the Commission, other than a proceeding in bankruptcy or to enforce
+the terms of this Order. Nor does Respondent consent to the use of the Offer or this Order, or the findings or
+conclusions in this Order consented to in the Offer, by any other party in any other proceeding.
+II.
+The Commission finds the following:
+A. SUMMARY
+
+During the period December 2011 through March 2015, Respondent engaged in the
+disruptive practice of âspoofingâ (bidding or offering with the intent to cancel the bid or offer
+before execution) with respect to Crude Oil futures contracts traded on the New York Mercantile
+Exchange (âNYMEXâ) and Gold, Silver, and Copper Futures contracts traded on the Commodity
+Exchange, Inc. ââCOMEXââ). Posenâs spoofing orders, of which there were thousands during the
+Relevant Period, violated Section 4c(a)(5)(C) of the Act.
+
+B. RESPONDENT
+
+Simon Posen is a New York-based trader, who manually trades futures products on
+NYMEX and COMEX. Posen is a member of NYMEX and COMEX, who during the Relevant
+Period traded from home for his own account and was not employed by any corporate entity.
+Although he has previously held registrations as a floor trader and floor broker, Posen is not
+currently registered with the Commission in any capacity.
+
+C. FACTS
+
+Posen is a manual âpoint and clickâ trader who traded by computer from his New York
+City apartment for his own account. He traded in futures markets, including Crude Oil, Gold,
+Silver and Copper, during the period December 2011 through March 2015. Posenâs daily
+activity volumes were at their highest during 2012 and were somewhat lower in late 2014 and
+2015, after a hiatus in trading from February 2013 to August 2013. On a typical day, Posen
+would enter hundreds of buy and sell orders in multiple products, with a focus on Crude Oil,
+Gold, Silver, and Copper Futures contracts. Posen often traded during off-peak hours, when the
+markets were less liquid, and would typically exit the market without holding onto any positions
+at the end of his trading session each day.
+
+Posen repeatedly used the same trading pattern to spoof in the Crude Oil, Gold, Silver,
+and Copper Futures markets: he would, within a matter of seconds: (1) place one or more large
+orders or a series of layered orders (orders with gradually increasing or decreasing prices),
+totaling 60 or more lots, on either the buy or sell side of the market, with the intent to cancel
+these orders before execution; (2) shortly thereafter place one or more smaller orders of one to
+ten lots, or âicebergâ orders (orders in which the size of the order is not visible to other market
+participants) on the opposite side of the market; and (3) once the smaller order or âicebergâ order
+was filled in whole or in part, cancel the original large or layered orders on the opposite side of
+the market before those orders could be filled. Often, he would immediately repeat this pattern
+in reverse to exit the position he had created and revert to being flat.
+
+Posen deployed this spoofing strategy on thousands of occasions during the Relevant
+Period. In 2014 and 2015, Posen traded less frequently and he also reduced his use of âicebergâ
+orders and tended to favor single, large-volume orders over the series of layered orders.
+However, Posen continued to place spoof orders until the end of the Relevant Period.â
+
+IV.
+LEGAL DISCUSSION
+Section 4c(a)(5)(C) of the ActâSpoofing Violations
+
+Section 4c(a)(5) of the Act makes it unlawful for â[a]ny person to engage in any trading,
+practice, or conduct on or subject to the rules of a registered entity that .. . is, is of the character
+of, or is commonly known to the trade as, âspoofingâ (bidding or offering with the intent to
+cancel the bid or offer before execution).â As described above, Posen entered into thousands of
+bids or offers on a registered entity with the intent to cancel the bids or offers before execution in
+violation of Section 4c(a)(5)(C) of the Act. See, e.g., CFTC v. Oystacher et al., No. 15-CV-
+9196, 2016 WL 4439945 (N.D. Ill. Dec. 20, 2016); CFTC v. Sarao, No. 15-CV-3398 (N.D. Il.
+Nov. 14, 2016); CFTC v. Khara and Salim, No. 15-CV-03497 (S.D.N.Y. March 31, 2016).
+
+V.
+FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that Posen violated Section 4c(a)(5)(C) of
+the Act.
+
+VI.
+OFFER OF SETTLEMENT
+
+Posen has submitted an Offer in which he, without admitting or denying the findings and
+conclusions herein:
+
+A. Acknowledges receipt of service of this Order;
+
+B. Admits the jurisdiction of the Commission to all the matters set forth in this Order
+and for any action or proceeding brought or authorized by the Commission based on a
+violation of or enforcement of this Order;
+
+C. Waives:
+(1) the filing and service of a complaint and notice of hearing;
+(2) a hearing;
+
+(3) all post-hearing procedures;
+
+ 
+
+> CME Group (âCMEâ) initially investigated Posenâs trading in NYMEX Crude Oil Futures contracts and COMEX
+Gold Futures contracts for the period September 2013 to February 2014. This investigation resulted in CME
+ordering Posen to pay a $75,000 fine and a five-week trading bar. Subsequently, CME investigated Posenâs trading
+in COMEX Silver and Copper Futures contracts for the period November 2014 through March 2015. This
+investigation resulted in a $90,000 fine and a four-week trading bar.
+
+3
+(4) judicial review by any court;
+
+(5) any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+(6) any and all claims that he may possess under the Equal Access to Justice Act,
+5 U.S.C. Â§ 504 (2012) and 28 U.S.C. Â§ 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations,
+17 C.F.R. Â§Â§ 148.1-30 (2017), relating to, or arising from, this proceeding;
+
+(7) any and all claims that he may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, Â§Â§ 201-253, 110 Stat.
+847, 857-68 (1996), as amended by Pub. L. No. 110-28, Â§ 8302, 121 Stat. 112,
+204-205 (2007), relating to, or arising from, this proceeding; and
+
+(8) any claims of Double Jeopardy based upon the institution of this proceeding or
+the entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+D. Stipulates that the record basis on which this Order is entered shall consist solely of
+the findings contained in this Order to which Posen has consented in the Offer; and
+
+E. Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order
+that:
+
+(1) makes findings by the Commission that Posen violated Section 4c(a)(5)(C) of the
+Act;
+
+(2) orders Posen to cease and desist from violating Section 4c(a)(5)(C) of the Act;
+
+(3) orders Posen to pay a civil monetary penalty in the amount of six hundred and
+thirty-five thousand dollars ($635,000), plus post-judgment interest;
+
+(4) orders that Posen be permanently prohibited from, directly or indirectly,
+engaging in trading on or subject to the rules of any registered entity (as that
+term is defined in Section la(40) of the Act, 7 U.S.C. Â§ 1a(40) (2012), and all
+registered entities shall permanently refuse him trading privileges;
+
+(5) orders that Posen be permanently prohibited from applying for registration or
+claiming exemption from registration with the Commission in any capacity, and
+engaging in any activity requiring such registration or exemption from
+registration with the Commission except as provided for in Regulation
+4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2017); and
+
+(6) orders Posen to comply with the conditions, undertakings, and representations
+consented to in the Offer and set forth in Part VII of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+4
+VIL.
+
+ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A. Respondent shall cease and desist from violating Section 4c(a)(5)(C) of the Act.
+
+B. Civil Monetary Penalty
+
+1.
+
+Respondent shall pay a civil monetary penalty in the amount of six hundred and
+thirty-five thousand dollars ($635,000) (the âCMP Obligationâ). If the CMP
+Obligation is not paid in full within ten days of the date of entry of the Order, then
+post-judgment interest shall accrue on the CMP Obligation beginning on the date of
+entry of the Order and shall be determined by using the Treasury Bill rate prevailing
+on the date of entry of the Order pursuant to 28 U.S.C. Â§ 1961 (2012).
+
+Respondent shall pay the CMP Obligation by electronic funds transfer, U.S. postal
+money order, certified check, bank cashierâs check, or bank money order. If payment
+is to be made other than by electronic funds transfer, Respondent shall make the
+payment payable to the Commodity Futures Trading Commission, and sent to the
+address below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables
+DOT/FAA/MMAC/AMZ-341
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+
+nikki.gibson @ faa. gov
+
+If payment is to be made by electronic transfer, Respondent shall contact Nikki
+Gibson or her successor at the above address to receive payment instructions and
+shall fully comply with those instructions. Respondent shall accompany payment of
+the CMP Obligation with a cover letter that identifies Respondent and the name and
+docket number of this proceeding. Respondent shall simultaneously transmit copies
+of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21" Street,
+NW, Washington, D.C. 20581.
+C. Respondent is permanently prohibited from, directly or indirectly, engaging in trading on
+or subject to the rules of any registered entity (as that term is defined in Section 1a(40) of
+the Act, 7 U.S.C. Â§ 1a(40) (2012)), and all registered entities shall permanently refuse
+him trading privileges.
+
+D. Respondent shall comply with the following conditions and undertakings set forth in the
+
+Offer:
+
+1. Public Statements: Respondent agrees that neither he nor any of his successors,
+assigns, agents or employees under their authority or control shall take any action or
+make any public statement denying, directly or indirectly, any findings or conclusions
+in this Order, or creating, or tending to create, the impression that this Order is
+without a factual basis; provided, however, that nothing in this provision shall affect
+Respondentâs (i) testimonial obligations; or (11) right to take legal positions in other
+proceedings to which the Commission is not a party.
+
+2. Respondent agrees that he shall not, directly or indirectly, at any time in the future:
+
+a.
+
+enter into any transactions involving âcommodity interestsâ (as that term is
+defined in Regulation 1.3(yy), 17 C.F.R. Â§ 1.3(yy) (2017)) for Respondentâ s
+own personal accounts or for any accounts in which Respondent has a direct
+or indirect interest;
+
+have any commodity interests traded on Respondentâs behalf;
+
+control or direct the trading for or on behalf of any other person or entity,
+whether by power of attorney or otherwise, in any account involving
+commodity interests;
+
+solicit, receive, or accept any funds from any person for the purpose of
+purchasing or selling any commodity interests;
+
+apply for registration or claim exemption from registration with the
+Commission in any capacity, and engage in any activity requiring such
+registration or exemption from registration with the Commission except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2016); and/or
+
+act as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R.
+
+Â§ 3.1(a) (2016)), agent or any other officer or employee of any person (as that
+term is defined in Section 1a(38) of the Act, 7 U.S.C. Â§ 1a(38) (2012)
+registered, required to be registered, or exempted from registration with the
+Commission except as provided for in Regulation 4.14(a)(9), 17 C.F.R.
+
+Â§ 4.14(a)(9) (2017).
+
+3. Cooperation with the Commission: Respondent shall cooperate fully and
+
+ 
+
+expeditiously with the Commission, including the Commissionâs Division of
+Enforcement (âDivisionâ), and any other governmental agency in this action, and in
+any investigation, civil litigation, or administrative matter related to the subject matter
+
+6
+of this action or any current or future Commission investigation related thereto. As
+part of such cooperation, Respondent agrees to:
+
+as
+
+preserve and produce to the Commission in a responsive and prompt
+manner, as requested by the Divisionâs staff, all non-privileged documents,
+information, and other materials wherever located, in the possession,
+custody, or control of Respondent;
+
+accept service by mail, electronic mail, or facsimile transmission of notices
+or subpoenas for documents and/or testimony at depositions, hearings, or
+trials;
+
+appoint Respondentâs attorney as agent to receive service of such notices
+and subpoenas; and
+
+waive the territorial limits on service contained in Rule 45 of the Federal
+Rules of Civil Procedure and any applicable local rules in connection with
+requests or subpoenas of the Divisionâs staff;
+
+4. Partial Satisfaction: Respondent understands and agrees that any acceptance by the
+Commission of any partial payment of Respondentâs CMP Obligation shall not be
+deemed a waiver of his obligation to make further payments pursuant to this Order, or
+a waiver of the Commissionâs right to seek to compel payment of any remaining
+
+balance.
+
+The provisions of this Order shall be effective on this date.
+
+By the Commission,
+
+ 
+    
+
+Christopher J. Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: July 26, 2017

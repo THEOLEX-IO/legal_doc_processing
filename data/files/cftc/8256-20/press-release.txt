@@ -1,0 +1,46 @@
+Release Number 8256-20
+
+CFTC Charges Foreign Trading Platform with Offering Illegal Leveraged Transactions in
+Ether, Litecoin, and Bitcoin
+
+September 28, 2020
+
+Washington, D.C. - The Commodity Futures Trading Commission today filed a civil enforcement action in the U.S.
+District Court for the Southern District of Texas against Laino Group Limited d/b/a PaxForex, a company registered in
+St. Vincent and the Grenadines. The CFTCâs complaint charges the defendant with engaging in unlawful retail commodity
+transactions and failing to register as a futures commission merchant (FCM).
+
+âThis action shows the CFTCâs continued commitment to ensuring that entities offering leveraged, retail transactions
+within our jurisdictionâincluding those involving digital assetsâregister with the CFTC,â said Division of Enforcement
+Director James McDonald. âWe will vigorously enforce these requirements to preserve market integrity and protect
+customers.â
+
+Case Background
+
+According to the complaint, from at least March 2018 to present, PaxForex offered or engaged in unlawful retail
+commodity transactions in ether, litecoin, bitcoin, gold, and silver. The defendant violated the CEA by failing to conduct
+these transactions subject to the rules of a board of trade that had been designated or registered by the CFTC as a
+contract market.
+
+The complaint further alleges that PaxForex, through its employees and agents, acted as an FCM by soliciting and
+accepting orders for retail commodity transactions. Additionally, the defendant acted as the counterparty for these
+transactions and extended credit or accepted money, securities, and property in the form of bitcoin and other assets in
+exchange for margin trades or contracts. Despite acting as an FCM, the defendant failed to register with the CFTC as
+required.
+
+In its continuing litigation, the CFTC seeks disgorgement of ill-gotten gains, civil monetary penalties, restitution,
+permanent registration and trading bans, and a permanent injunction against further violations of the CEA as charged.
+
+The CFTC strongly urges the public to verify a companyâs registration with the Commission before committing funds. If
+unregistered, a customer should be wary of providing funds to that entity. A companyâs registration status can be found
+using NFA BASIC.
+
+The CFTC thanks the U.S. Attorneyâs Office for the Southern District of Texas and the Federal Bureau of Investigation for
+their assistance in this matter.
+
+Devon Malinowski and Salma Mackfrom the CFTCâs Office of Data and Technology also provided assistance in this matter.
+
+The Division of Enforcement staff members responsible for this case are Harry E. Wedewer, Christopher Giglio, Candice
+Aloisi, Lenel Hickson, and Manal Sultan.
+
+-CFTC-

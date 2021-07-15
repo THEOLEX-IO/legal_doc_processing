@@ -1,6 +1,9 @@
+from legal_doc_processing import logger
+
 from legal_doc_processing.utils import uniquize as _u
 from legal_doc_processing.utils import merge_ans, ask_all
-from legal_doc_processing.legal_doc.clean.extracted_authorities import _filter_jur
+
+# from legal_doc_processing.legal_doc.clean.extracted_authorities import _filter_jur
 
 
 def _question_helper(txt) -> list:
@@ -80,7 +83,7 @@ if __name__ == "__main__":
     # import
     import time
     from legal_doc_processing.utils import get_pipeline, get_spacy
-    from legal_doc_processing.legal_doc.loader import legal_doc_X_y
+    from legal_doc_processing.legal_doc.utils import legal_doc_X_y
     from legal_doc_processing.legal_doc.legal_doc import LegalDoc
 
     # laod

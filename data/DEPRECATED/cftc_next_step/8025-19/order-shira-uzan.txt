@@ -1,0 +1,454 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+RECEIVED CFTC
+
+ 
+
+In the Matter of:
+
+   
+
+Q5 ewe
+
+CFTC Docket No. 19-34 Office of Proceedings
+Proceedings Clerk
+
+6:05 pm, Sep 30, 2019
+
+SHIRA UZAN,
+
+Respondent.
+
+ 
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL sanctions
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (““Commission” or “CFTC”) has reason to
+believe that from approximately January 2015 through September 2016 (“Relevant Period”)
+Shira Uzan (“Uzan” or “Respondent”), violated Sections 4c(b) and 6(c)(1) of the Commodity
+Exchange Act (“Act”), 7 U.S.C. §§ 6c(b), 9(1) (2012), and Commission Regulations
+(“Regulations”) 32.4 and 180.1(a)(1)-(3), 17 C.F.R. §§ 32.4, 180.1(a)(1)-(3) (2019). Therefore,
+the Commission deems it appropriate and in the public interest that public administrative
+proceedings be, and hereby are, instituted to determine whether Respondent engaged in the
+violations set forth herein and to determine whether any order should be issued imposing
+remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, except to the extent that
+Uzan admits those findings in any related action against Uzan by, or any agreement with, the
+United States Department of Justice (‘DOJ”) or any other governmental agency or office,
+Respondent consents to the entry of this Order Instituting Proceedings Pursuant to Section 6(c)
+and (d) of the Commodity Exchange Act, Making Findings, and Imposing Remedial sanctions
+(“Order”) and acknowledges service of this Order.!
+
+ 
+
+' Respondent consents to the use of the findings of fact and conclusions of law in this Order in this
+proceeding and in any other proceeding brought by the Commission or to which the Commission is a
+party or claimant, and agrees that they shall be taken as true and correct and be given preclusive effect
+therein, without further proof. Respondent does not consent, however, to the use of this Order, or the
+findings or conclusions herein, as the sole basis for any other proceeding brought by the Commission or
+to which the Commission is a party or claimant, other than: a proceeding in bankruptcy or receivership; or
+II. FINDINGS
+The Commission finds the following:
+A. SUMMARY
+
+During the Relevant Period, Uzan worked as a “retention agent” at Yukom
+Communications Ltd. (“Yukom”) and offered trading in illegal, off-exchange binary options’ to
+retail customers, including customers in the United States, through the ‘““BigOption” and
+“BinaryBook” brands (the “Yukom Brands’). Uzan misrepresented the fundamental nature of
+the binary options trading offered to Yukom’s customers. Among other things, Uzan falsely
+stated that the binary option trading was profitable. Uzan also misrepresented her financial
+expertise, physical location, and identity. Because Uzan intentionally or recklessly disregarded
+that the solicitations she used to induce customers to deposit funds to trade binary options with
+the Yukom Brands included false and misleading statements, she committed fraud in violations of
+the Act and Regulations.
+
+In accepting the Offer, the Commission recognizes Uzan’s entry into a formal
+cooperation agreement between Uzan and the Division of Enforcement (“Division”) entered into
+on September 25, 2019 (“Cooperation Agreement”), which sets forth the terms of her agreement
+to cooperate with the Commission, including the Division, in connection with the case captioned
+CFTC v. Yukom Communications, No. 1:19-cv-05416 (N.D. Ill., filed Aug. 12, 2019) (the
+“Yukom Litigation”) and any investigation, litigation, or administrative proceeding relating to
+the subject matter of this Order.
+
+B. RESPONDENT
+
+Shira Uzan is a resident of California who resided in Israel from at least 2015 to 2018.
+Uzan has never registered with the Commission in any capacity.
+
+C. FACTS
+
+For approximately nineteen months, Uzan worked as a retention agent at Yukom’s office
+in Caesarea, Israel. In January 2015, shortly after accepting an offer to work at Yukom, Uzan
+participated in a two week training class led by Elbaz and other Yukom managers and
+supervisors that included instruction on high pressure sales techniques. Uzan recorded portions
+of that training session on her personal cell phone. Towards the end of the course, Uzan received
+a template email outlining sales pitches to use when soliciting customers to deposit additional
+
+ 
+
+a proceeding to enforce the terms of this Order. Respondent does not consent to the use of the Offer or
+this Order, or the findings or conclusions in this Order, by any other party in any other proceeding.
+
+? A binary option is a type of option contract in which the payout depends entirely on the outcome of a
+discrete event—typically a “yes/no” proposition. A binary options customer enters into a trade that
+predicts whether the price of an underlying asset—such as a currency pairing or commodity future—will
+rise above or fall below a specified amount at a specified date and time.
+
+2
+funds to trade binary options. Uzan also received training on how to stop customers from
+withdrawing funds.
+
+As a Yukom retention agent, Uzan communicated with customers in the United States
+and elsewhere via phone and email. Uzan’s job was to encourage customers to deposit
+additional funds to trade binary options through the Yukom Brand’s internet trading websites,
+www.bigoption.com and www.binarybook.com, and to prevent customers from withdrawing
+funds.
+
+At the direction of her supervisors and managers, including Elbaz, Uzan falsely
+represented to customers that her job was to make them money. For example, in an email dated
+July 14, 2015, Uzan told a BinaryBook customer that her job was to “assist you in making profits
+from the very beginning,” even though Uzan knew that her job was not to help clients make
+money but rather to get customers to deposit additional funds. Uzan did not disclose that
+Yukom, or other associated entities, was on the opposite side of each binary option trade,
+meaning that Yukom won when customers lost.
+
+Uzan also misrepresented the profitability of binary option transactions with the Yukom
+Brands. In an email dated February 10, 2016, Uzan told a BinaryBook customer that she was a
+“senior broker and qualified market analyst with 15 years’ experience” and an “87% winning
+rate” on her trades. Uzan knew those statements were false at the time she made them.
+
+Uzan was instructed by Elbaz, as well as her managers and supervisors at Yukom, to
+prevent customers from withdrawing funds from their trading accounts. One of the tools Uzan
+used to prevent withdrawals was a so-called “bonus.” As utilized by Yukom, a bonus was an
+amount of purported funds that retention agents could give to a customer to be used in trading.
+Bonuses did not involve the actual transfer of funds to a customer or a customer’s trading
+account. Further, the bonuses offered by Yukom required a customer to “turnover” their account
+by trading a multiplier, typically 30 times, of the bonus amount. Uzan did not always tell
+customers that a bonus would “lock” them into the account. Yukom also used the “academy” as
+a purported training tool to “get clients addicted” to trading binary options and prevent
+withdrawals.
+
+When communicating with customers, Yukom employees typically use an alias or “stage
+name.” Uzan used the alias Emily Laski. In addition to using an alias, Uzan also falsely
+represented her professional qualifications and geographical location.
+
+Uzan regular participated in weekly sales meetings at Yukom. During these meetings,
+Elbaz would often speak about sales targets, specifically the amount of customer deposits. At
+times, Yossi Herzog (“Herzog”) spoke at the weekly meetings. Uzan frequently received reports
+regarding the amount her customers had deposited. At no time did Uzan receive a report
+regarding her customers’ trading activity. Uzan also received instructions via emails from
+Yukom’s owners and managers, including Elbaz.
+
+Consistent with her training, Uzan encouraged customers to deposit funds via wire
+transfer, as opposed to credit card. This was done to avoid credit card “chargebacks,” which can
+occur when a customer makes a report of fraud or unauthorized transactions to their bank.
+Typically, Uzan received emails from Yukom’s management identifying the specific bank
+accounts for customers to wire funds for purported binary options trades. Consistent with the
+instructions provided in those emails, Uzan would tell customers not to write the name of the
+Yukom Brand on their wire transfers. This was done in order to avoid “burning” bank accounts
+due to customer complaints.
+
+While employed by Yukom, Uzan received a base salary, plus commissions. Uzan’s
+commissions were based on “net deposits,” meaning the amount of money customers deposited,
+minus all customer withdrawals and credit card chargebacks. During the Relevant Period, the
+Respondent was responsible for approximately $1,819,595 in customer losses. The Commission
+understands that Respondent will be ordered to pay criminal restitution, joint and severally with
+Elbaz, of $1,819,595 in her criminal case, United States v. Uzan, 8:18-cr-00608-TDC (filed D.
+Mad. Dec. 11, 2018).
+
+TI. LEGAL DISCUSSION
+A. Option Fraud in violations of Section 4c(b) of the Act and Regulation 32.4
+
+Section 4c(b) of the Act, 7 U.S.C. § 6c(b) (2012), makes it unlawful for any person “to
+offer to enter into, enter into or confirm the execution of, any transaction involving any
+commodity regulated under [the] Act which is of the character of, or is commonly known to the
+trade as,” inter alia, an “option,” “bid,” “offer,” “put,” or “call,” in contravention of Commission
+rules or regulations “prohibiting any such transaction or allowing any such transaction under
+such terms and conditions as the Commission shall prescribe.” Binary options qualify as
+commodity option transactions within the meaning of the Act and Regulations. See CFTC v.
+Vision Fin. Partners, LLC, Case No. 16-60297-CIV-Cohn/Seltzer, 2016 WL 3163071, at *3
+(S.D. Fla. June 3, 2016) (denying motion to dismiss; holding that binary options are commodity
+options within the meaning of Section 4c(b) of the Act).
+
+Regulation 32.4, 17 C.F.R. § 32.4 (2019), provides that, in connection with an offer to
+enter into, the entry into, or the confirmation of the execution of, any commodity option
+transaction, it shall be unlawful “for any person directly or indirectly: (a) To cheat or defraud or
+attempt to cheat or defraud any other person; (b) To make or cause to be made to any other
+person any false report or statement thereof or cause to be entered for any person any false
+record thereof; or (c) To deceive or attempt to deceive any other person by any means
+whatsoever.” Fraud involving commodity options is established when a person or entity:
+
+(A) makes a misrepresentation, misleading statement, or a deceptive omission; (B) acts with
+scienter; and (C) the misrepresentation or omission is material. CFTC v. R.J. Fitzgerald & Co.,
+Inc., 310 F.3d 1321, 1328 (11th Cir. 2002) (finding commercial that overemphasized profit
+potential, downplayed risk of loss, and urged viewers to take immediate action or risk missing
+the opportunity materially misleading, despite inclusion of boilerplate risk disclosures); CFTC v.
+Rosenberg, 85 F. Supp. 2d 424, 446-47 (D.N.J. 2000) (holding that “the CFTC must demonstrate
+that the defendant made a material misrepresentation of presently existing or past fact with
+scienter” to establish a claim for futures and options fraud under Sections 4b(a) and 4c(b) of the
+Act.”); CFTC vy. Nat'l Invest. Consultants, Inc., No. C 05-02641, 2005 WL 2072105, at *8 (N.D.
+Cal. Aug. 26, 2005) (holding that Commission can establish scienter under Section 4b(a) of the
+Act by showing that a defendant “knew the representations were false and were calculated to
+
+4
+cause harm or by showing that the representations were made with a reckless disregard for their
+truth or falsity.” (citing CFTC vy. Noble Wealth Data Information Services, Inc., 90 F. Supp. 2d
+676, 686 (D. Md. 2000))).
+
+As described above, while acting as retention agent at Yukom, Uzan intentionally or
+recklessly made material misrepresentations, misleading statements, and deceptive omissions.
+By engaging in this conduct, Uzan violated Section 4c(b) of the Act and Regulation 32.4.
+
+B. Fraud in Connection with Swaps Transactions in violations of Section 6(c)(1) and
+Regulation 180.1(a)
+
+Section 6(c)(1) of the Act, 7 U.S.C. § 9(1) (2012), provides in relevant part that “[i]t shall
+be unlawful for any person, directly or indirectly, to use or employ or attempt to use or employ,
+in connection with any swap... any manipulative or deceptive device or contrivance, in
+contravention of such rules and regulations as the Commission shall promulgate ....” Pursuant
+to this provision, the Commission promulgated Regulation 180.1(a)(1)-(3), 17 C.F.R.
+
+§ 180.1(a)(1)-G) (2019), which makes it unlawful for any person, directly or indirectly, in
+connection with any swap, “to intentionally or recklessly: (1) Use or employ, or attempt to use
+or employ, any manipulative device, scheme, or artifice to defraud; (2) Make, or attempt to
+make, any untrue or misleading statement of a material fact or to omit to state a material fact
+necessary in order to make the statements made not untrue or misleading; [or] (3) Engage, or
+attempt to engage, in any act, practice, or course of business, which operates or would operate as
+a fraud or deceit upon any person.”
+
+Section 1a(47)(A) of the Act, 7 U.S.C. § 1a(47)(A) (2012), defines a “swap” as including,
+inter alia, “any agreement, contract, or transaction” that: (i) is an option of any kind; (ii) provides
+for payment dependent on the occurrence, nonoccurrence, or extent of occurrence of an event or
+contingency; or (ili) provides on an executory basis for payments based on the value of one or
+more interest or other rates, currencies, commodities, securities, or other financial or economic
+interests or property, and that transfers in whole or part the financial risk associated with a future
+change in such value between the parties to the transaction without also conveying an ownership
+interest in the asset or liability. Binary options qualify as swaps based on the plain language of
+Section 1a(47)(A). See CFTC vy. Vault Options, Ltd., No. 1:16-CV-01881, 2016 WL 5339716, at
+*6 (N.D. Il. July 20, 2016) (default judgment) (holding that binary options are swaps).
+
+By intentionally or recklessly engaging in the same conduct that violated Sections 4c(b)
+of the Act and Regulation 32.4, Uzan violated Section 6(c)(1) of the Act and Regulation
+180.1(a)(1)-(3). See CFTC v. Hunter Wise Commodities, LLC, 21 F. Supp. 3d 1317, 1347 (S.D.
+Fla. 2014) (finding that material misrepresentations and omissions in connection with the sale of
+commodities violated Section 6(c)(1) of the Act and Regulation 180.1).
+
+IV. FINDINGS OF violations
+Based on the foregoing, the Commission finds that, during the Relevant Period,
+
+Respondent violated Sections 4c(b), and 6(c)(1) of the Act, 7 U.S.C. §§ 6c(b), 9(1) (2012), and
+Regulations 32.4 and 180.1(a)(1)-(3), 17 C-F.R. §§ 32.4, 180.1(a)(1)-(3) (2019) by making
+fraudulent misrepresentations to customers and prospective customers in connection with the
+trading of binary options.
+
+V. OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which she, without admitting or denying the
+findings and conclusions herein except to the extent that she admits those findings in any related
+action against her by, or any agreement with, the DOJ or any other governmental agency or
+
+office:
+
+A. Acknowledges service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violations of or enforcement of this Order;
+
+C. Waives:
+
+1. The filing and service of a complaint and notice of hearing;
+
+2. A hearing;
+
+3. All post-hearing procedures;
+
+4, Judicial review by any court;
+
+5. Any and all objections to the participation by any member of the Commission’s
+staff in the Commission’s consideration of the Offer;
+
+6. Any and all claims that she may possess under the Equal Access to Justice Act,
+5 U.S.C. § 504 (2012), and 28 U.S.C. § 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations, 17 C.F.R.
+pt. 148 (2019), relating to, or arising from, this proceeding;
+
+7, Any and all claims that she may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. II §§ 201-53, 110
+Stat. 847, 857-74 (codified as amended at 28 U.S.C. § 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+8. Any claims of Double Jeopardy based on the institution of this proceeding or the
+
+entry in this proceeding of any order imposing any other relief, including this
+Order;
+
+D. Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer; and
+Consents, solely on the basis of the Offer, to the Commission’s entry of this Order that:
+
+1,
+
+Makes findings by the Commission that Respondent violated Sections 2(e), 4c(b),
+and 6(c)(1) of the Act, 7 U.S.C. §§ 6c(b), and 9(1) (2012), and Regulations 32.4
+and 180.1(a)(1)-(3), 17 C.F.R. §§ 32.4, 180.1(a)(1)-(3) (2019) making fraudulent
+misrepresentations to customers and prospective customers to trade binary options
+with Yukom, and by offering and confirming the execution of illegal, off-exchange
+binary option transactions.
+
+Orders Respondent to cease and desist from violating Sections 4c(b) and 6(c)(1) of
+the Act and Regulations 32.4 and 180.1(a)(1)-(3).
+
+Orders that Respondent be permanently prohibited from, directly or indirectly,
+engaging in trading on or subject to the rules of any registered entity (as that term
+is defined in Section 1a(40) of the Act, 7 U.S.C. § 1a(40) (2012)) for or on behalf
+of any other person or entity, and all registered entities shall refuse him trading
+privileges for such purposes; and
+
+Orders Respondent to comply with the conditions and undertakings consented to in
+the Offer and as set forth in Part VI of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent shall cease and desist from violating Sections 4c(b), and 6(c)(1) of the Act, 7
+ULS.C. §§ 6c(b) and 9(1) (2012), and Regulations 32.4 and 180.1(a)(1)-(3), 17 C.F.R. §§
+32.4, 180.1(a)(1)-(3) (2019).
+
+Respondent is permanently prohibited from, directly or indirectly, engaging in trading on
+or subject to the rules of any registered entity (as that term is defined in Section 1a(40) of
+the Act, 7 U.S.C. § 1a(40) (2012)) for or on behalf of any other person or entity, and all
+registered entities shall refuse him trading privileges for such purposes.
+
+Respondent shall comply with the following conditions and undertakings set forth in the
+
+Offer:
+
+1.
+
+Public Statements: Respondent agrees that neither she nor any of her successors
+and assigns, agents, or employees under her authority or control shall take any
+action or make any public statement denying, directly or indirectly, any findings
+or conclusions in this Order or creating, or tending to create, the impression that
+this Order is without a factual basis; provided, however, that nothing in this
+provision shall affect Respondent’s: (i) testimonial obligations; or (ii) right to
+take legal positions in other proceedings to which the Commission is not a party.
+Respondent shall comply with this agreement, and shall undertake all steps
+necessary to ensure that all agents and/or employees under her authority or control
+understand and comply with this agreement.
+
+2. Respondent agrees that she shall never, directly or indirectly:
+
+a.
+
+entering into any transactions involving “commodity interests” (as that term is
+defined in Regulation 1.3, 17 C.F.R. § 1.3 (2019));
+
+having any commodity interests traded on Respondent’s behalf;
+
+controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account involving
+commodity interests;
+
+soliciting, receiving, or accepting any funds from any person for the purpose
+of purchasing or selling any commodity interests;
+
+applying for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the Commission except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9) (2019); and/or
+
+acting as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R.
+
+§ 3.1(a) (2019)), agent or any other officer or employee of any person (as that
+term is defined in Section 1a(38) of the Act, 7 U.S.C. § 1a(38) (2012)),
+registered, required to be registered, or exempted from registration with the
+Commission except as provided for in Regulation 4.14(a)(9).
+
+3. Cooperation: Uzan shall cooperate fully and expeditiously with the Commission,
+including the Division, in accordance with the terms set forth in the Cooperation
+Agreement in any investigation, civil litigation, or administrative proceeding
+related to the subject matter of this action or any current or future Division
+investigation or Commission action related thereto, including without limitation
+the Yukom Litigation. As part of such cooperation, Uzan agrees to:
+
+a.
+
+preserve and produce to the Commission in a responsive and prompt
+manner, as requested by Division Staff, all relevant non-privileged
+documents, information, and other materials wherever located, in the
+appropriate possession, custody, or control of Uzan;
+
+utilize her knowledge and skill to explain sales and marketing services,
+including “retention” services, for entities doing business under the brand
+names BinaryBook and BigOption, to interpret information, or identify
+new and productive lines of inquiry;
+
+prepare and appear for interviews and testimony at such times and places
+as requested by Division staff;
+respond completely and truthfully to all inquiries and interviews, when
+requested to do so by Division staff;
+
+identify and authenticate relevant documents and other evidentiary
+materials, execute affidavits and/or declarations, and testify completely
+and truthfully at depositions, hearings, trial, and other judicial proceedings
+in connection with the Yukom Litigation;
+
+enter into tolling agreements, when requested to do so by Division staff,
+during the period of cooperation;
+
+accept service by mail, electronic mail, or facsimile transmission of
+notices or subpoenas for documents and/or testimony;
+
+appoint her attorney as agent to receive service of such notices and
+subpoenas;
+
+waive the territorial limits on service contained in Rule 45 of the Federal
+Rules of Civil Procedure and any applicable local rules in connection with
+requests or subpoenas of Division staff; and
+
+serve by hand delivery or by next-day mail all written notices and
+correspondence required by or related to the Cooperation Agreement to
+the Director of the Division of Enforcement, Commodity Futures Trading
+Commission, 1155 21st Street, NW, Three Lafayette Centre, Washington,
+DC 20581, unless otherwise directed in writing by Division Staff.
+
+Change of Address/Phone: Until the conclusion of the Yukom Litigation,
+Respondent shall provide written notice to the Commission of any change to her
+telephone numbers and mailing addresses within ten calendar days of the change.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+lL}.
+
+Christopher J. Kitkpatric
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+     
+  
+
+   
+
+Dated: September 30, 2019

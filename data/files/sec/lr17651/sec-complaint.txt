@@ -1,0 +1,585 @@
+Home | Previous Page
+
+r U.S. Securities and Exchange Commission
+
+ 
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF TEXAS
+HOUSTON DIVISION
+
+ 
+
+SECURITIES AND EXCHANGE
+
+ 
+
+COMMISSION,
+
+Plaintiff, .
+
+_ Civil Action
+v. .
+No.
+
+DOUGLAS A. MURPHY, DAVID G. KAY,
+and LAWRENCE H. THERIOT,
+Defendants.
+
+COMPLAINT
+
+Plaintiff, Securities and Exchange Commission ("Commission"), alleges as
+follows:
+
+NATURE OF THE ACTION
+
+1. This is an action against certain officers and agents of American Rice, Inc.
+who violated and aided and abetted violations of the Foreign Corrupt
+Practices Act by bribing Haitian government officials, by failing to accurately
+record those bribes in American Rice's books and records, and by failing to
+maintain an adequate system of internal accounting controls to prevent or
+detect such illegal payments. From January 1998 to October 1999, David G.
+Kay, an American Rice vice president, authorized numerous bribery payments
+to Haitian customs officials in order to illegally reduce American Rice's import
+taxes. The bribery payments assisted American Rice in obtaining or retaining
+its business of selling rice to Haitian rice merchants and consumers. American
+Rice's president, Douglas A. Murphy, was aware of or recklessly ignored the
+bribery payments. American Rice's Caribbean consultant, Lawrence H.
+Theriot, knowingly provided substantial assistance to Kay and Murphy by
+periodically reporting on the existing bribery arrangements and exploring
+alternative schemes. Kay directed American Rice's controller in Haiti to
+conceal the bribery payments in American Rice's books and records as a cost
+of sales.
+
+2. By in engaging in such conduct, defendant Kay violated Sections 30A and
+13(b)(5) of the Securities Exchange Act of 1934 ("Exchange Act") and
+Exchange Act Rule 13b2-1 promulgated thereunder [15 U.S.C. Â§Â§ 78dd-1 and
+78m(b)(5) and 17 C.F.R. Â§ 240.13b2-1] and aided and abetted American Rice's
+violations of Sections 13(b)(2)(A) and (B) of the Exchange Act [15 U.S.C. Â§Â§
+78m(b)(2)(A) and (B)].
+
+3. By engaging in such conduct, defendant Murphy directly violated Section
+30A of the Exchange Act. Defendant Murphy, as a control person under
+Section 20(a) of the Exchange Act [15 U.S.C. Â§ 78t(a)], also is liable for Kay's
+violations of Sections 30A and 13(b)(5) of the Exchange Act and Exchange Act
+Rule 13b2-1 promulgated thereunder [15 U.S.C. Â§Â§ 78dd-1 and 78m(b)(5) and
+17 C.F.R. Â§ 240.13b2-1].
+
+4. Defendant Theriot aided and abetted Kay and Murphy's violations of
+Section 30A of the Exchange Act.
+
+5. The defendants will, unless restrained and enjoined, continue to engage in
+the acts and practices set forth in this complaint and in acts and practices of
+similar purport and object.
+
+6. The acts and practices constituting the violations herein have occurred
+within the Southern District of Texas, and elsewhere.
+
+7. The Commission brings this action pursuant to Sections 20(e), 21(d) and 32
+of the Exchange Act [15 U.S.C. Â§Â§ 78t(e), 78u(d) and 78ff] seeking injunctions
+and civil monetary penalties against Murphy, Kay and Theriot.
+
+URISDICTION
+
+8. This court has jurisdiction over this action pursuant to Sections 21(e) and
+27 of the Exchange Act [15 U.S.C. Â§Â§ 78u(e) and 78aal].
+
+9. The defendants, directly or indirectly, used the means and instrumentalities
+of interstate commerce or of the mails in furtherance of the acts alleged
+herein.
+
+DEFENDANTS
+
+10. Defendant Douglas A. Murphy was American Rice's president and one of
+its directors from 1993 until he was fired on October 4, 1999. At all relevant
+times, by virtue of his position in the company and as Kay and Theriot's direct
+supervisor, Murphy had actual power and influence over Kay, Theriot and
+other American Rice employees. Murphy also had the ability to cause Kay,
+Theriot and other employees to engage in the wrongful conduct alleged
+herein. Murphy is a U.S. citizen and currently resides in Kingwood, Texas.
+
+11. Defendant David G. Kay was American Rice's vice president of Caribbean
+operations and reported directly to Murphy at all relevant times. American
+Rice terminated Kay's employment in January 2002. Kay is a U.S. citizen and
+currently resides in or around Houston, Texas.
+
+12. Defendant Lawrence H. Theriot was American Rice's Caribbean operations
+consultant from 1989 until he resigned in October 1999. Theriot reported
+directly to Murphy and Kay. Theriot is a U.S. citizen and currently resides in
+Reston, Virginia.
+
+OTHER RELEVANT PERSONS AND ENTITIES
+
+13. American Rice, Inc. is a Texas corporation with its principal place of
+business in Houston, Texas. At all relevant times, American Rice was an
+"issuer" as that term is defined in Section 3(a)(8) of the Exchange Act [15
+U.S.C. Â§ 78c(a)(8)] with a class of securities registered with the Commission
+pursuant to Section 12(g) of the Exchange Act [15 U.S.C. Â§ 78Ag)]. American
+Rice processed and marketed rice in international and domestic markets
+under a variety of brand names.
+
+14. On August 11, 1998, American Rice filed a voluntary petition for
+reorganization under Chapter 11 of the United States Bankruptcy Code. On
+October 1, 1999, pursuant to the company's confirmed Plan of
+Reorganization, American Rice cancelled all of its existing classes of preferred
+and common stock, and issued new common stock to its Bondholder creditors
+without registration. The stockholders of American Rice prior to October 1,
+1999, did not retain or receive any equity interest in the reorganized
+company.
+
+15. Rice Corporation of Haiti, S.A. ("RCH"), was a Haitian corporation with its
+principal place of business in and around Port-au-Prince, Haiti. RCH leased a
+rice mill and packaging plant in Laffiteau, Haiti. RCH processed, packaged and
+marketed rice for American Rice in Haiti under an at-will service agreement.
+American Rice treated RCH as a wholly owned subsidiary and included the
+operations of RCH in its consolidated financial statements.
+
+16. Joseph Schwartz, Jr. was American Rice's controller in Haiti. At all relevant
+times, Schwartz supervised the financial activities of American Rice in Haiti.
+Schwartz reported to Kay and other American Rice employees. Schwartz
+currently resides in Houston, Texas.
+
+17. Allen Sturdivant was a manager at American Rice's Houston shipping
+office. At all relevant times, Sturdivant supervised the preparation of
+American Rice's shipping documents for rice shipments to Haiti. Sturdivant
+reported to Kay. Sturdivant currently resides in Houston, Texas.
+
+18. Joel Malebranche was an employee of American Rice in Haiti. At all
+relevant times, Malebranche was responsible for facilitating the prompt
+clearance of American Rice shipments through Haitian customs. Malebranche
+reported to Kay. Malebranche resides in Haiti and Jamaica, New York.
+
+COMMON ALLEGATIONS
+American Rice's Haitian Operations
+
+19. In 1992, RCH leased a rice mill and packaging plant in Laffiteau, Haiti.
+American Rice provided the necessary capital to renovate the facility and
+commence operations. Under the terms of an at-will service agreement, RCH
+processed, packaged and marketed rice in Haiti for American Rice. American
+Rice retained ownership of its rice and the proceeds from the sale of its rice.
+American Rice also paid the import taxes on its shipments of rice to Haiti.
+Employees of American Rice, including Schwartz and Malebranche, lived and
+worked at the RCH facilities in Haiti.
+
+American Rice's Competition in Haiti
+
+20. American Rice competed with several large importers and a host of small
+importers for a share of the rice market in and around Port-au-Prince, Haiti. In
+the mid-1990s, American Rice captured a large share of that rice market
+because it was able to sell its rice at very competitive prices. American Rice
+had a built-in price advantage because it finished and bagged its rice in Haiti.
+By shipping bulk rice, instead of bagged rice, American Rice paid a lower
+import tax rate and operated more efficiently than its competitors.
+21. However, competition from rice smugglers, who paid no import taxes,
+corruption among customs officials, who allegedly cut improper deals with
+other competitors, and escalating import taxes eventually eroded American
+Rice's competitive price advantage.
+
+American Rice Employees Bribed Haitian Customs Officials
+
+22. In January 1998, American Rice employees and agents in Haiti entered
+into an illicit arrangement with certain Haitian government officials in Port-au-
+Prince to enable American Rice to retain its business in Haiti. In exchange for
+bribery payments, the customs officials permitted American Rice to declare
+less than the full tonnage of rice it shipped to Haiti. By declaring less than the
+full tonnage of rice on at least 12 rice shipments to Haiti during 1998 and
+1999, American Rice avoided paying import taxes on thousands of metric tons
+of rice. American Rice employees made the bribes because they believed that
+the tax reductions were essential to American Rice being able to continue to
+conduct business in Haiti. In any event, the bribes were designed to result in
+cost reductions that would enable American Rice to maintain or increase the
+volume of rice it sold in Haiti. The bribery payments, therefore, were made in
+order to assist American Rice in obtaining or retaining its business of selling
+rice to Haitian rice merchants and consumers.
+
+23. In January 1998, Kay authorized the first bribery payment to Haitian
+customs officials in furtherance of the bribery scheme. On January 2, 1998,
+American Rice shipped 8,039 metric tons of bulk rice to Haiti on the
+company's ocean-going barge, LaurieKristie. In connection with the January
+shipment, Kay instructed Sturdivant to prepare a fake set of shipping records.
+The fake set of shipping records listed only 6,218 metric tons of rice.
+Sturdivant sent an accurate set of shipping records and a fake set of shipping
+records to Malebranche in Haiti prior to the arrival of the vessel.
+
+24. Malebranche gave the shipping records to American Rice's customs broker
+in Haiti. The customs broker presented the fake set of shipping records to
+Haitian customs officials. Haitian customs officials calculated American Rice's
+import taxes based on 6,218 metric tons of bulk rice instead of 8,039 metric
+tons. At or about the same time, Malebranche, at Kay's direction, negotiated
+the amount of the bribe with the customs officials directly or through an
+intermediary. The amount negotiated was $25,000.
+
+25. After the LaurieKristie cleared customs, Kay authorized the $25,000
+bribery payment. Kay directed Schwartz to write a check payable to cash from
+American Rice's Citibank Haiti checking account in the amount of $25,000.
+Schwartz wrote the check and handed it to Malebranche. Malebranche or one
+of his associates cashed the check and passed the $25,000 in cash to an
+intermediary. Kay, Schwartz and Malebranche believed the intermediary gave
+all or a part of the money to Haitian customs officials.
+
+26. As a result of the bribery scheme, American Rice saved approximately
+$82,000 in import taxes on the January 1998 rice shipment. On January 20,
+1998, Kay sent an e-mail to Schwartz and Theriot to confirm the savings. Kay
+wrote that import taxes on the actual tonnage of rice would have been
+$406,275, but American Rice paid only $323,435. According to Kay:
+
+Savings is therefore: $ 82,839 USD
+Less Commissions: $(25,000) USD
+Net Savings: $ 57,839 USD
+
+Kay twice instructed Schwartz to discuss the e-mail with Malebranche and
+then "destroy this message!"
+
+27. Kay continued to authorize bribery payments in connection with at least
+11 subsequent rice shipments to Haiti from February 1998 to September
+1999. The bribery scheme remained essentially the same for each shipment
+of rice, except the amount of the bribe and the percentage of undeclared rice
+increased over time. Murphy was aware of the bribery payments. The bribery
+payments did not stop until American Rice fired Murphy in October 1999.
+
+28. The following chart summarizes each of American Rice's 16 rice
+shipments to Haiti from January 1998 to September 1999, the amount of
+undeclared rice per shipment in metric tons, the amount of import tax savings
+per shipment in U.S. dollars, the amount of the bribery payment, and the net
+savings obtained by American Rice:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Departure | Undeclared Import Tax Bribery Net
+Vessel Date Product (MT) | Savings ($) Payment Savings ($)
+LaurieKristie | 01/02/98 1,820.92 82,839 25,000 57,839
+Balsa 51 02/20/98 1,296.06 65,321.42 26,000 39,321.42
+Balsa 57 03/15/98 -0- -0- -0- -0-
+LaurieKristie | 04/19/98 2,092.28 105,450.91 36,000 69,450.91
+LaurieKristie | 05/30/98 2,397.19 120,818.38 37,000 83,818.38
+LaurieKristie | 06/27/98 1,648.26 83,072.30 36,000 47,072.30
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Andreas P 08/13/98 -0- -0- -0- -0-
+LaurieKristie | 10/03/98 3,298.35 166,236.84 41,000 125,236.84
+Frines 11/01/98 -0- -0- -0- -0-
+LaurieKristie | 12/07/98 2,882.05 145,255.32 Unknown 145,255.32
+LaurieKristie | 02/16/99 2757.89 138,997.66 48,607.53 90,390.13
+LaurieKristie | 03/19/99 Unknown Unknown 47,996.66 Unknown
+LaurieKristie | 04/14/99 2,763.75 139,293.00 48,238.39 91,054.61
+LaurieKristie | 05/27/99 3,137.66 158,138.06 59,615.00 98,523.06
+LaurieKristie | 06/26/99 2,673.58 134,748.43 49,995.94 84,752.49
+Bluemarlin 08/03/99 3,900.01 196,560.50 72,930.00 123,630.50
+TOTALS: 30,668 MT $1,536,731.82 | $528,383.52 | $1,056,344.96
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Schwartz and Kay Hid the Bribery Payments
+
+29. Schwartz concealed each of the bribery payments by falsely recording
+them as a cost of sales in the books and records of American Rice's Haitian
+Division. Schwartz prepared periodic financial statements for the Haitian
+Division that incorporated the false entries. Kay reviewed the periodic
+financial statements prepared by Schwartz. Kay knew that the financial
+statements incorporated false entries, but Kay did not direct Schwartz to
+accurately record the bribery payments. American Rice subsequently
+incorporated the false entries in the Haitian Division's financial statements
+into its consolidated financial statements.
+
+Theriot Provided Substantial Assistance to Murphy and Kay
+
+30. Theriot provided substantial assistance to Murphy and Kay by periodically
+reporting on the existing bribery arrangements, exploring alternative
+schemes, and assessing each of the participants. He was the "eyes and ears"
+of management in Haiti.
+
+31. On or about January 1998, Theriot secured Murphy's authorization to
+explore alternative customs arrangements. Theriot required Murphy's
+intervention because Kay was concerned that Theriot's efforts might
+jeopardize the company's existing bribery arrangement. On March 17, 1998,
+Theriot sent a detailed memo to Kay regarding his progress. In that March 17
+memo, Theriot told Kay that he broke off negotiations for an alternative
+customs arrangement because his contacts requested a "reduced quantity
+document." Theriot, therefore, concluded that his alternative was no different
+than the existing bribery scheme.
+
+32. Theriot also summarized the roles of the participants in connection with
+the first two bribery payments under the existing scheme. He told Kay:
+
+[I]n the first boat, Joe [Schwartz] delivered a check made to cash
+for $25,000 to Joel [Malebranche] who was in the office with
+Fritz [Richardson, American Rice's customs broker]. . . . Joel said
+he handed the cash to Mario's [a customs official] emissaries in
+the sales office and watched through the window as they
+delivered the cash to Mario who was waiting in a car in front of
+the office.
+
+Theriot advised Kay to be careful in selecting who makes the bribery
+payments. "[T]he issue of who makes payments is always critical since only
+that person knows how much is actually transferred to the next level contact."
+
+33. At Murphy's direction, Theriot devoted an entire memo to the subject of
+American Rice intermediaries in 1998. Theriot defined "intermediary" as "the
+person who has ongoing direct contact with the operators inside the sleazy,
+corrupt business environment of Haiti." Theriot told Kay and Murphy:
+
+[O]ver time LHT [Theriot], operating as a "white hat guy,"
+concentrated on the public PR effort [to eliminate smuggling].
+Joel [Malebranche], working directly with DGK [Kay], was
+developed as an "inside" guy to handle what became the
+company's most important "gray" operation inside customs.
+
+ok OK
+
+As a Haitian-American, with ethics sensitized by his lengthy stay
+in the USA, Joel understands and worries constantly about the
+risks of operating in the gray areas. As a Haitian national, he has
+become disgusted with his growing insider knowledge of the
+Sleaze involved in the network of Haitians at and around Customs.
+When we first discussed survival techniques required at Customs,
+| recall Joel's obvious personal sense of shock at the size of the $
+numbers involved.
+
+34. Theriot continued to provide guidance to Murphy and Kay until he
+resigned as an American Rice consultant shortly after Murphy was fired.
+
+Murphy Knew About the Bribery Scheme
+35. By virtue of his position in the company and frequent communications
+with Kay and Theriot, Murphy knew about or recklessly ignored the bribery
+scheme in 1998 and 1999.
+
+36. In 1998 and 1999, Murphy became increasingly involved in the day-to-day
+business operations in Haiti. He traveled to Haiti frequently. On those visits,
+he met with American Rice employees and others, including Theriot and Kay.
+Murphy also received numerous memos and other communications from
+Theriot alluding to the bribery scheme. Nevertheless, Murphy did not conduct
+any investigation, demand an explanation or prohibit his employees and
+agents from participating in improper activities.
+
+American Rice Agents Made other Improper Payments
+
+37. In 1998, RCH had tax problems. The company was required to file monthly
+tax reports with DGI, the Haitian tax authorities, reflecting its monthly sales
+activity. However, rice sales figures exceeded the amount of rice reflected in
+documents filed with customs. DGI also claimed that RCH owed back
+corporate income taxes on American Rice's sales, not merely on RCH's
+services fees from American Rice. Theriot and others negotiated a deal with
+two DGI employees to facilitate the filing of understated sales figures, to avoid
+an audit of those figures, and to forgive a portion of the back taxes in
+exchange for one or more payments of approximately $2,500 U.S. dollars.
+Murphy directly authorized at least one of those payments in September
+1999.
+
+COUNT I
+
+(Violations of Exchange Act Sections 30A(a) and/or (g)
+Against Murphy and Kay)
+
+38. Paragraphs 1 to 37 are realleged and incorporated herein by reference.
+
+39. Defendants Murphy and Kay, acting on behalf of American Rice, used the
+means or instrumentalities of interstate commerce or acted outside the
+United States, corruptly in furtherance of authorizing at least 12 bribery
+payments, totaling approximately $500,000, to Haitian government officials
+for the purposes of influencing acts or decisions of such foreign officials in
+their official capacity, inducing such foreign officials to do or omit to do acts in
+violation of the lawful duties of such officials or securing improper
+advantages, in order to assist American Rice in obtaining or retaining its
+business of selling rice to Haitian rice merchants and consumers.
+
+40. Defendants Murphy and Kay, acting on behalf of American Rice, used the
+means or instrumentalities of interstate commerce or acted outside the
+United States, corruptly in furtherance of authorizing at least 12 payments,
+totaling approximately $500,000, to Malebranche or others, while knowing
+that all or a portion of such money would be given, directly or indirectly, to
+Haitian government officials for the purposes of influencing acts or decisions
+of such foreign officials in their official capacity, inducing such foreign officials
+to do or omit to do acts in violation of the lawful duties of such officials or
+securing improper advantages, in order to assist American Rice in obtaining
+or retaining its business of selling rice to Haitian rice merchants and
+consumers.
+
+41. By reason of their foregoing conduct, defendants Murphy and Kay violated
+Section 30A(a) and/or (g) of the Exchange Act [15 U.S.C. Â§ 78dd-1(a) and (g)].
+
+42. As a result of the conduct described above, defendant Murphy, as a
+control person under Section 20(a) of the Exchange Act [15 U.S.C. Â§ 78t(a)],
+also is liable for Kay's violations of Section 30A(a) and/or (g) of the Exchange
+Act [15 U.S.C. Â§ 78dd-1(a) and (g)].
+
+NT _Il
+
+(Violations of Exchange Act Section 13(b)(5) and
+Exchange Act Rule 13b2-1 Against Kay)
+
+43. Paragraphs 1 to 37 are realleged and incorporated by reference.
+
+44. Defendant Kay knowingly circumvented or knowingly failed to implement
+a system of internal accounting controls described in Section 13(b)(2)(B) of
+the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(B)], and/or knowingly falsified or
+caused to be falsified a book, record or account described in Section 13(b)(2)
+(A) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(A)] by directing Schwartz to
+conceal the bribery payments as a cost of sales.
+
+45. By reason of his foregoing conduct, defendant Kay violated, directly or
+indirectly, Section 13(b)(5) of the Exchange Act and Rule 13b2-1 promulgated
+thereunder [15 U.S.C. Â§ 78m(b)(5) and 17 C.F.R. Â§ 240.13b2-1].
+
+46. As a result of the conduct described above, defendant Murphy, as a
+control person under Section 20(a) of the Exchange Act [15 U.S.C. Â§ 78t(a)], is
+also liable for Kay's violations of Section 13(b)(5) of the Exchange Act and
+Rule 13b2-1 promulgated thereunder [15 U.S.C. Â§ 78m(b)(5) and 17 C.F.R. Â§
+240.13b2-1].
+COUNTS III-IV
+
+(Aiding and Abetting Violations of Exchange Act
+Sections 13(b)(2)(A) and (B) Against Kay)
+
+47. Paragraphs 1 to 37 are realleged and incorporated by reference.
+
+48. American Rice inaccurately recorded the bribery payments as costs of
+sales in its consolidated books and records in violation of Sections 13(b)(2)(A)
+and 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(A) and 15 U.S.C. Â§
+78(b)(2)(B)]. Kay knowingly provided substantial assistance to American Rice
+and thereby aided and abetted American Rice's violations of the books and
+records and internal control provisions of the Exchange Act, Sections 13(b)(2)
+(A) and (B).
+
+COUNT V
+
+(Aiding and Abetting Violations of Exchange Act
+Sections 30A(a) or (g) Against Theriot)
+
+49. Paragraphs 1 to 37 are realleged and incorporated by reference.
+
+50. By reason of their foregoing conduct, defendants Murphy and Kay violated
+Section 30A(a) and/or (g) of the Exchange Act [15 U.S.C. Â§ 78dd-1(a) and (g)].
+
+51. Defendant Theriot was aware of his role in the bribery scheme and
+knowingly provided substantial assistance to Murphy and Kay. Theriot thereby
+aided and abetted Murphy and Kay's violations of Sections 30A(a) and/or (g)
+of the Exchange Act [15 U.S.C. Â§ 78dd-1(a) and (g)].
+
+RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that this Court enter a
+judgment:
+
+A. Permanently enjoining defendant Kay from violating Sections 30A and
+13(b)(5) of the Exchange Act, and Exchange Act Rule 13b2-1 promulgated
+thereunder [15 U.S.C. Â§ 78dd-1, 15 U.S.C. Â§ 78m(b)(5) and 17 C.F.R. Â§
+240.13b2-1] and, with respect to any issuer which has a class of securities
+registered pursuant to Section 12 of the Exchange Act [15 U.S.C. Â§ 78/] or any
+other issuer which is required to file reports pursuant to Section 15(d) of the
+Exchange Act [15 U.S.C. Â§ 780(d)], aiding and abetting the issuer's violation of
+the books and records and internal controls provisions of the Exchange Act,
+Sections 13(b)(2)(A) and 13(b)(2)(B) [15 U.S.C. Â§ 78m(b)(2)(A) and 15 U.S.C.
+78m(b)(2)(B)I;
+
+B. Ordering defendant Kay to pay civil penalties pursuant to Sections 32 and
+21(d)(3) of the Exchange Act [15 U.S.C. Â§ 78ff and 15 U.S.C. Â§ 78u(d)(3)] in
+the amount of $187,000;
+
+C. Permanently enjoining defendant Murphy from violating Sections 30A and
+13(b)(5) of the Exchange Act, and Exchange Act Rule 13b2-1 promulgated
+thereunder [15 U.S.C. Â§ 78dd-1, 15 U.S.C. Â§ 78m(b)(5) and 17 C.F.R. Â§
+240.13b2-1];
+
+D. Ordering defendant Murphy to pay civil penalties pursuant to Sections 32
+and 21(d)(3) of the Exchange Act [15 U.S.C. Â§ 78ff and 15 U.S.C. Â§ 78u(d)(3)]
+in the amount of $187,000;
+
+E. Permanently enjoining defendant Theriot from violating or aiding and
+abetting any violation of Sections 30A of the Exchange Act [15 U.S.C. Â§ 78dd-
+1];
+
+F. Ordering defendant Theriot to pay a civil penalty pursuant to Section 21(d)
+(3) of the Exchange Act [15 U.S.C. Â§ 78u(d)(3)] in the amount of $11,000; and
+
+G. Granting such other and further relief as this Court deems just and
+appropriate.
+
+Dated: July 29, 2002
+Respectfully submitted,
+
+fs/
+
+Thomas J. Meier (Attorney-in-
+Charge)
+
+Illinois Bar No. 6225621
+
+David J. Medow
+Illinois Bar No. 6192840
+
+Attorneys for Plaintiff
+Securities and Exchange
+Commission
+
+175 West Jackson Blvd.,
+Suite 900
+
+Chicago, Illinois 60604
+(312) 353-7426 (Meier)
+(312) 353-7398 (Fax)
+
+http:/www.sec.gov/litigation/complaints/comp!1 7651.htm
+
+ 
+
+Home | Previous Page Modified: 08/02/2002

@@ -1,0 +1,55 @@
+Release Number 7456-16
+
+ 
+
+September 28, 2016
+
+CFTC Orders SG Americas Securities, LLC to Pay a $750,000 Civil Monetary Penalty for its
+Participation in Wash Transactions and Related Supervision Failures
+
+CFTC Finds that the Firm Lacked Adequate Controls and Procedures to
+Detect and Prevent the Execution of Unlawful Wash Exchange of
+Futures for Physical Transactions
+
+SG Americas Securities, LLC is the successor to Newedge USA, LLC
+
+Washington, DC - The U.S. Commodity Futures Trading Commission (CFTC) today issued an Order filing and
+simultaneously settling charges against SG Americas Securities, LLC, as successor to Newedge USA, LLC
+(Newedge), a financial services firm registered with the CFTC as a Futures Commission Merchant for participating in
+unlawful wash trades and for failing to diligently supervise over a three and a half year period. The CFTC Order requires
+SG Americas Securities, as successor to Newedge, to pay a $750,000 civil monetary penalty and comply with an
+undertaking to improve its internal controls and procedures in order to detect and prevent the execution, clearing and
+reporting to an exchange of non-bona fide exchange of futures for physical transactions (EFPs).
+
+The CFTC Order finds that Newedge executed and confirmed the execution of, and reported to the Chicago Mercantile
+Exchange (CME) and Chicago Board of Trade (CBOT), numerous EFPs in agricultural and soft commodities, throughout the
+period from June 2010 through at least January 2014, for and on behalf of its clients that are, are of the character of, or
+are commonly known as wash sales. Such transactions are expressly prohibited in Section 4c(a) of the Commodity
+Exchange Act (CEA).
+
+According to the CFTC Order, the EFP trades that Newedge executed and confirmed were for the same contract, quantity,
+and same or similar price with the buyer and seller for each EFP under the same common control and ownership. The
+Order further finds that the trades were executed under circumstances where certain Newedge account representatives
+either knew that clients desired to net out futures positions across commonly owned and controlled accounts through the
+use of EFPs, or else failed to inquire why clients were routinely on both sides of the EFPs. Accordingly, the transactions
+constituted illegal âwash salesâ within the meaning of Section 4c(a) of the CEA. Moreover, the Order states that because
+the EFPs were not done in accordance with the written rules of the CME and CBOT, they were not bona fide EFPs, and,
+therefore, Newedge caused prices to be reported, registered, or recorded that were not true and bona fide prices, also in
+violation of Section 4c(a) of the CEA. Further, by accepting and transmitting EFP orders that were not executed openly
+and competitively pursuant to exchange rules, but in a manner that avoided market risk and price competition that
+legitimate, competitive trading entails, Newedge executed noncompetitive trades for customers in violation of CFTC
+Regulation 1.38(a), the Order finds.
+
+The Order also finds that during the relevant period, Newedge failed to supervise diligently its employeesâ handling of the
+transactions at issue and lacked adequate policies and procedures designed to detect and deter the execution of wash
+EFP trades, in violation of CFTC Regulation 166.3.
+
+The CFTC Division of Enforcement staff members responsible for this matter are Carlin Metzger, Joseph Patrick, Robert
+Howell, Scott Williamson, and Rosemary Hollinger, with assistance from Division of Market Oversight staff David Amato,
+Eugene Kunda, and Jerry Lavin.
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: September 28, 2016

@@ -1,0 +1,743 @@
+Case 1:21-cv-00699 Document1 Filed 01/26/21 Page 1 of 20
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+ 
+
+COMMODITY FUTURES TRADING Case No. 21âCV-â699
+COMMISSION,
+ECF Case
+Plaintiff,
+COMPLAINT FOR INJUNCTIVE
+
+V. AND OTHER EQUITABLE RELIEF
+AND FOR CIVIL MONETARY
+JEREMY SPENCE, PENALTIES UNDER THE
+COMMODITY EXCHANGE ACT
+Defendant. AND COMMISSION REGULATIONS
+
+ 
+
+JURY TRIAL DEMANDED
+
+ 
+
+ 
+
+I. INTRODUCTION
+
+1. From at least in or around December 2017 through at least in or around April
+2019 (the âRelevant Periodâ), Jeremy Spence (âSpenceâ or âDefendantâ), doing business under
+the name âCoin Signals,â operated a virtual currency Ponzi scheme in which he fraudulently
+solicited individuals to invest funds in various pools that traded virtual currencies such as bitcoin
+and ether, each a commodity in interstate commerce. During the Relevant Period, Defendant
+obtained virtual currencies such as bitcoin and ether, worth more than $5 million from
+individuals (âcustomersâ) comprising approximately 175 user accounts through fraudulent
+solicitations involving misrepresentations of, among other things, his trading record, assets under
+management, and highly profitable returns. In fact, as Defendant himself has admitted,
+Defendantâs trading resulted in significant trading losses, and Defendant caused false
+performance reports to be provided to customers. As in all Ponzi schemes, Defendantâs payouts
+of supposed profits to customers in actuality consisted of other customersâ misappropriated
+funds.
+
+2. Through this conduct, Defendant has engaged, is engaging, or is about to engage
+
+in fraudulent acts and practices in violation of the Commodity Exchange Act (âActâ),
+Case 1:21-cv-00699 Document1 Filed 01/26/21 Page 2 of 20
+
+7 U.S.C. 8Â§ 1-26 (2018), and Commission Regulations (âRegulationsââ), 17 C.F.R. pts. 1-190
+(2020), specifically Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) (2018), and Regulation 180.1(a),
+17 C.F.R. Â§ 180.1(a) (2020).
+
+3. Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2018), the
+Commission brings this action to enjoin such acts and practices and compel compliance with the
+Act. In addition, the Commission seeks civil monetary penalties and remedial ancillary relief,
+including, but not limited to, trading bans, restitution, disgorgement, rescission, pre- and post-
+judgment interest, and such other relief as the Court may deem necessary and appropriate.
+
+4. Unless restrained and enjoined by this Court, Defendant is likely to continue to
+engage in the acts and practices alleged in this Complaint and similar acts and practices, as more
+fully described below.
+
+I. JURISDICTION AND VENUE
+
+5. Jurisdiction. This Court has jurisdiction over this action under
+28 U.S.C. Â§ 1331 (2018) (federal question jurisdiction) and 28 U.S.C. Â§ 1345 (2018) (district
+courts have original jurisdiction over civil actions commenced by the United States or by any
+agency expressly authorized to sue by Act of Congress). In addition, Section 6c(a) of the Act,
+7 U.S.C. Â§ 13a-1(a) (2018), authorizes the Commission to seek injunctive and other relief against
+any person whenever it appears to the Commission that such person has engaged, is engaging, or
+is about to engage in any act or practice constituting a violation of any provision of the Act or
+any rule, regulation, or order thereunder.
+
+6. Venue. Venue properly lies with the Court pursuant to Section 6c(e) of the Act,
+
+7US.C. Â§ 13a-1(e) (2018), because Defendant is found in, inhabits, or transacts business in this
+Case 1:21-cv-00699 Document1 Filed 01/26/21 Page 3 of 20
+
+District, and because acts and practices in violation of the Act occurred, are occurring, or are
+about to occur, within this District.
+
+Hr. THE PARTIES
+
+7. Plaintiff Commodity Futures Trading Commission (âCommissionâ or
+CFTCâ) is an independent federal regulatory agency that is charged by Congress with the
+administration and enforcement of the Act and the Regulations. The Commission maintains its
+principal office at Three Lafayette Centre, 1155 21st Street, N.W. Washington, D.C. 20581.
+
+8. Defendant Jeremy Spence is a natural person with a last known residence in New
+York, New York. Spence has never been registered with the Commission. During the Relevant
+Period, Spence did business under the name âCoin Signals.â
+
+IV. FACTS
+
+9. A virtual currency is a type of digital asset defined here as a digital representation
+of value that functions as a medium of exchange, a unit of account, and/or a store of value, but
+does not have legal tender status in any jurisdiction. Bitcoin, ether, and other virtual currencies
+are distinct from ârealâ currencies, which are the coin and paper money of the United States or
+another country that are designated as legal tender, circulate, and are customarily used and
+accepted as a medium of exchange in the country of issuance.
+
+10. During the Relevant Period, Defendant solicited and received virtual currency
+then equivalent to more than approximately $5,000,000 from customers comprising
+approximately 175 user accounts, who invested amounts ranging from fractions of bitcoin to
+virtual currency amounts worth hundreds of thousands of dollars, for the purpose of entering into
+contracts of sale of virtual currency, including bitcoin and ether, through electronic web-based
+
+virtual currency trading platforms based in various states and countries.
+
+3
+Case 1:21-cv-00699 Document1 Filed 01/26/21 Page 4 of 20
+
+A. The Formation and Operation of Coin Signals
+
+11. In or around late 2017, Defendant began doing business as Coin Signals (âCSâ)
+for the purpose of soliciting customers and others in several of the United States as well as a
+number of foreign countries to provide virtual currencies such as bitcoin and ether to Defendant,
+which Defendant would employ in various âfundsâ to engage in virtual currency trading on the
+customersâ behalf.
+
+12. The CS funds included but were not limited to the Mex Fund (the âCS Mex
+Fundâ), the Alt Fund (the âCS Alt Fundâ), and the Long-Term Fund (the âCS Long-Term Fundâ)
+(collectively, the âCS Fundsâ).
+
+13. During the Relevant Period, Defendant solicited customers and managed the CS
+Funds from New York, New York.
+
+14. Defendantâs trading strategies purportedly included seeking to trade virtual
+currency profitably based on market volatility by, among other things, trading conservatively.
+
+15. Defendant arranged with persons (âCS adminsâ) he met through online social
+media sites such as Twitter, Telegram, and Discord internet chatrooms and otherwise to assist in
+creating and to serve as administrators of CS chatrooms, to handle non-trading administrative
+aspects of the CS Funds, and to act as conduits of information and solicitations to prospective
+and existing customers.
+
+16. Defendantâs solicitationsâwhich, as described below, were rife with fraud, lies,
+and deceitâwere successful. During the Relevant Period, Defendant obtained virtual currencies
+such as bitcoin and ether worth more than approximately $5 million from individual customers
+
+comprising approximately 175 user accounts.
+17. These customers included retail customers, that is, customers who were not high
+net-worth individuals.
+18. During the Relevant Period, Defendantâs primary virtual currency trading
+
+accounts for the CS Mex Fund trading strategy were held at an international virtual currency
+trading platform (the âCS Mex accountsâ). In the CS Mex accounts, Defendant engaged in
+trading of contracts of virtual currencies such as bitcoin and ether, each a commodity in interstate
+commerce, including on a futures contract basis (contracts in which the CS Mex account agreed
+to trade, e.g., a commodity such as bitcoin or ether, at a predetermined price and specified time
+in the future, e.g., in one week), swaps, and through the use of margin.
+
+19. During the Relevant Period, Defendant engaged in trading of virtual currencies
+via accounts on another international virtual currency trading platform (the âCS Alt accountsââ).
+
+20. Defendant also employed other virtual currency accounts in furtherance of his
+scheme.
+
+21. Defendant communicated with customers regarding his trading strategy and
+results in CS chatrooms directly and through CS admins.
+
+22. Defendant also provided customers with information such as reports of his trading
+results and customersâ account balances by âroundsâ that ranged from approximately a few days
+to a few weeks. Defendantâs reportsâwhich, as described below, were false and misleadingâ
+generally reflected successful and highly profitable virtual currency trading.
+
+23. Defendant provided such trading and customer account information to customers
+through an automated computer program referred to as a âbotâ (the âCS Botâ), which customers
+
+could query on demand. For a given round, Defendant reported the CS Fundsâ trading profit-
+Case 1:21-cv-00699 Document1 Filed 01/26/21 Page 6 of 20
+
+and-loss results to a CS admin, who entered that information into the CS Bot, which then
+calculated each customerâs resulting balance and profits or losses.
+
+24. The profit-and-loss information reported at the end of each âroundâ was purported
+to be realized profits or losses. This supposedly allowed customers to closely monitor their
+investments and promptly withdraw funds as they wished.
+
+B. Defendantâs False and Misleading Solicitations
+
+25. During the Relevant Period, Defendantâs solicitations involved exaggerations of
+his trading track record and ability to generate outsize returns.
+
+26. In or around January 2018, in soliciting participation in CS, Defendant touted his
+ability to trade successfully over the course of 2018 the funds that customers gave him to trade
+**20xâââ that is, to trade so successfully and lucratively as to return 2,000% of a customerâs
+investment by year end.
+
+27. In or around March 2018, in a CS chatroom, the CS Mex Fund was touted as
+having averaged more than 10% in weekly profits for at least two months.
+
+28. Around the same time, Defendant solicited a customer by touting his consistent
+trading gains of approximately 10% per month.
+
+29. Defendant claimed to another prospective customer that he achieved his gains
+through trading virtual currencies profitably based on market volatility.
+
+30. These and other statements were false and misleading representations and omitted
+material facts.
+
+31. In fact, for the period January through March 2018, Defendantâs CS Mex
+accountsâ trading records reflect unsuccessful virtual currency trading that resulted in significant
+
+losses well in excess of $1,000,000 (the trading records reported these losses as more than 160
+
+6
+âa oma PPR PR ey an . oa Preln GP met Pee fey a
+; 2s 4 PRES Oh 5 Pere rerpoint q Lahocd SVE POR PS
+Mas
+
+a e -
+f SARE wT MOL Hea hake
+a GO UL aL A
+
+bitcoin, as the recordsâ convention was to reflect all profit and losses from trading of bitcoin,
+ether, and other virtual currencies as denominated in Bitcoin).
+
+32. During the Relevant Period, Defendantâs solicitations also involved substantial
+overstatements of the amount of his assets under management.
+
+33. These and other statements were false and misleading representations and
+omissions of material facts.
+
+34. For example, in or around early 2018, Defendant told one prospective customer
+that Defendant had approximately $8 million in assets under management.
+
+35. In fact, during the Relevant Period, Defendantâs net balances at his CS Mex
+accounts and his CS Alt accounts never exceeded approximately $2 million. As of March 31,
+2018, Defendantâs assets under management in those accounts was less than $1 million, and as
+of September 30, 2018, Defendantâs assets under management in those accounts had dwindled to
+virtual currency worth less than approximately $20,000 using the then-prevailing valuation.
+
+36. Defendantâs solicitations also failed to disclose to customers that Defendant was
+misappropriating customer funds.
+
+37. For example, Defendant stated to customers that he requested a voluntary
+payment equal to 15% of customer profits, which Defendant referred to as a âTip.â
+
+38. These and other of Defendantâs statements concerning his compensation were
+false and misleading representations and omissions of material facts.
+
+39. In fact, customers generally were automatically charged the 15% fee based on
+
+Defendantâs purported profitable trading.
+be:
+AO. But because Defendant suffered trading losses, Defendant was not entitled to such
+
+fees. Any âTipsâ Defendant paid himself based on fictitious profits were, in fact, paid from
+customer funds and therefore misappropriated.
+
+41. For example, in or around September 2018, the CS Bot reported to one customer
+that as a result of Defendantâs purportedly successful trading during that âround,â the customerâ s
+CS Mex Fund was charged approximately a .5 bitcoin âTipâ based on Defendantâs then
+ââ{clurrent [r]ound [g]ainâ of more than 5%.
+
+42. In fact, as of that date, the CS Mex accounts records show Defendantâs
+unsuccessful virtual currency trading had resulted in losses equivalent to more than $250,000
+(the records reflect these losses, denominated by convention in Bitcoin, as more than forty
+bitcoin).
+
+43. Similarly, like all Ponzi schemes, because Defendant suffered trading losses,
+customer withdrawals during the Relevant Period based on the purported profits in fact were
+funds misappropriated from other customers.
+
+44. Defendant made these and other false and misleading representations and
+omissions of material facts to prospective customers directly and through agents during the
+Relevant Period in person, by telephone, and online.
+
+45. Defendant made these and other false and misleading representations and
+omissions of material facts to prospective customers as well as existing customers directly and
+
+through agents knowingly or with reckless disregard for the truth.
+Case 1:21-cv-00699 Document1 Filed 01/26/21 Page 9 of 20
+
+Cc. Defendant Misrepresented the Performance and Balance of the Funds
+
+46. During the Relevant Period, by the CS Bot and otherwise, Defendant caused
+numerous reports to be issued to customers claiming that their accounts or the overall balance of
+the funds had increased in value.
+
+47. These reports were false and misleading.
+
+48. For example, in or around September 2018, the CS Bot reported to one customer
+that as a result of Defendantâs purportedly successful virtual currency trading during that
+âround,â the customerâs CS Mex Fund deposit of more than fifty-five bitcoin (equivalent to more
+than approximately $325,000 using the then-prevailing valuation) had enjoyed profits of more
+than 5%, and that the value of the customerâs deposit had increased by more than 12% in a
+matter of weeks.
+
+49. In fact, for the month of September 2018, the CS Mex accounts records show
+Defendantâs unsuccessful virtual currency trading had resulted in losses equivalent to more than
+$250,000 (the records reflect these losses, denominated by convention in Bitcoin, as in excess of
+forty bitcoin).
+
+50. Similarly, Defendant caused one customer to receive a report stating that the
+customerâs initial investment had increased in value by more than 7% in a matter of weeks due to
+Defendantâs purported successful virtual currency trading.
+
+51. In fact, from that customerâs initial investment to around the time of the additional
+investment, the CS Mex accounts records show that Defendantâs virtual currency trading had
+resulted in losses equivalent to approximately $600,000 to $700,000 (the records reflect these
+
+losses, denominated by convention in Bitcoin, as approximately 100 bitcoin).
+52. By indicating that customersâ accounts virtually always increased in value each
+
+âround,â the statements also served as fraudulent solicitations for customers to invest additional
+funds with Defendant.
+
+53. For example, as a result of receiving a false and misleading report of 7% growth
+in a matter of weeks, a customer invested an additional more than sixty bitcoin (equivalent to
+more than approximately $375,000 using the then-prevailing valuation) in Defendantâs CS Mex
+Fund.
+
+54. On or about October 1, 2018, Defendant claimed to customers in a CS chatroom
+that over the previous nine months the CS Mex Fund had grown âfrom just 10btcs to 1300btcs
+today.â
+
+55. As of on or about October 1, 2018, 1,300 bitcoin was approximately equivalent to
+more than $8 million using the then-prevailing valuation.
+
+56. In fact, on or about October 1, 2018, the total balance in the CS Mex accounts and
+the CS Alt accounts was approximately one bitcoin (equivalent to approximately $6,500 using
+the then-prevailing valuation).
+
+57. Defendant made these and other false and misleading representations and
+omissions of material facts to customers directly and through agents during the Relevant Period
+in person, by telephone, and online.
+
+58. Defendant made these and other false and misleading representations and
+omissions of material facts to customers directly and through agents knowingly or with reckless
+
+disregard for the truth.
+
+10
+Case 1:21-cv-00699 Document1 Filed 01/26/21 Page 11 of 20
+
+D. Defendantâs False and Misleading Claims of a Hack
+
+59. Beginning in or around August 2018, when customers requested withdrawals of
+the investments, Defendant offered a series of excuses for delays in repayment, falsely
+represented that there were sufficient balances in CSâs bitcoin accounts, and failed to pay
+redemption requests from customers.
+
+60. In or about Fall 2018, to explain delays in meeting customersâ withdrawal
+demands, Defendant represented that CS had experienced a security issueâa âhackâââthat
+caused approximately forty bitcoin in losses (approximately equivalent to more than $250,000
+using the then-prevailing valuation).
+
+61. In or about November 2018, Defendant represented that the âhackâ actually had
+resulted in approximately 150 bitcoin in losses (approximately equivalent to $1,000,000 using
+the then-prevailing valuation).
+
+62. These statements were false and misleading.
+
+63. In fact, on and around the date of the purported hack, the total balance in the CS
+Mex accounts and the CS Alt accounts never reached 150 bitcoin (approximately equivalent to
+$1,000,000 using the then-prevailing valuation).
+
+64. Around the date of the purported hack, records of the CS Mex accounts and CS
+Alt accounts reflect no withdrawals of approximately 150 bitcoin, whether attributable to a
+âhackâ or not.
+
+65. In fact, the CS Mex accounts records for September 2018 reflect virtual currency
+trading lossesânot a âhackâââin excess of $250,000 (records reflect these losses, denominated
+
+by convention in Bitcoin, as more than forty bitcoin).
+
+11
+Case 1:21-cv-00699 Document1 Filed 01/26/21 Page 12 of 20
+
+66. Defendant made these and other false and misleading representations and
+omissions of material facts to customers concerning the âhackâ directly and through agents
+during the Relevant Period.
+
+67. Defendant made these and other false and misleading representations and
+omissions of material facts to customers directly and through agents knowingly or with reckless
+disregard for the truth.
+
+E. Defendantâs False and Misleading âProofs of Fundsâ
+
+68. On or about November 4, 2018, in an effort to reassure customers that they would
+receive their full balances soon, Defendant stated to customers that âsince the beginning the
+[M]ex [F]und is up almost 500btcs (sic).â
+
+69. This statement was false and misleading.
+
+70. In fact, from the opening of the CS Mex accounts through on or about November
+4, 2018, the CS Mex Fund trade records show virtual currency trading losses of more than
+approximately $1,400,000 (the records reflect these losses, denominated by convention in
+Bitcoin, as more than 200 bitcoin).
+
+71. In late 2018, to substantiate his claims of sufficient remaining assets to return
+customersâ balances, Defendant provided purported proofs of funds to his agents for them to
+convey to the customers.
+
+72. Defendantâs agents then conveyed the sum and substance of these purported
+proofs to customers.
+
+73. These purported proofs of funds were false and misleading.
+
+74. For example, in or about November 2018, Defendant showed purported
+
+screenshots of the CS Mex accounts reflecting balances totaling in excess of several hundred
+
+12
+Case 1:21-cv-00699 Document1 Filed 01/26/21 Page 13 of 20
+
+bitcoin (equivalent to more than approximately $3,000,000 using the then-prevailing valuation).
+This information in sum and substance was conveyed to customers.
+
+75. In fact, through November 2018, Defendantâs bitcoin, ether, and other virtual
+currency trading had resulted in the equivalent of hundreds of bitcoin in losses.
+
+76. In fact, at no point during November 2018 did the balance of the CS Mex
+accounts exceed ten bitcoin, much less the several hundred bitcoin that Defendant had
+represented.
+
+77. Defendant made these and other false and misleading representations and
+omissions of material facts to customers concerning the âproofs of fundsâ directly and through
+agents during the Relevant Period.
+
+78. Defendant made these and other false and misleading representations and
+
+omissions of material facts to customers directly and through agents knowingly or with reckless
+
+ 
+
+disregard for the truth.
+F. Defendantâs Admissions of His Lies and Deceit
+79. In late 2018, after numerous efforts to conceal his misconduct and to forestall
+
+customersâ withdrawal requests, Defendant admitted to deceiving and misleading his customers.
+
+80. In or around that time, in a chat to CS customers, Defendant admitted, âIâve spent
+the past two months trying to hide my drawdowns with lies and deceit.â
+
+81. Also in or around that time in a chat to CS customers, Defendant acknowledged
+that he had concealed and misrepresented losses to his customers, admitting, âI should have been
+more honest with my losses.â
+
+82. In or around that time, Defendant claimed that he had lied about the size of the
+purported hack and had downplayed it to deceive his customers.
+
+13
+Case 1:21-cv-00699 Document1 Filed 01/26/21 Page 14 of 20
+
+83. In or around that time, Defendant also claimed that, contrary to the conservative
+strategy and prompt realization of profits he had represented to customers, he had opened and
+held a long bitcoin position that had suffered significant losses.
+
+V. VIOLATIONS OF THE COMMODITY EXCHANGE ACT AND REGULATIONS
+
+Count IâFraud by Deceptive Device or Contrivance
+Violations of Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) (2018), and Regulation 180.1(a),
+17 C.F.R. Â§ 180.1(a) (2020)
+
+84. Paragraphs | through 83 are re-alleged and incorporated herein by reference.
+85. 7 U.S.C. Â§ 9(1), makes it unlawful for any person, directly or indirectly, to:
+
+use or employ, or attempt to use or employ, in connection with any
+swap, or a contract of sale of any commodity in interstate
+commerce, or for future delivery on or subject to the rules of any
+registered entity, any manipulative or deceptive device or
+contrivance, in contravention of such rules and regulations as the
+Commission shall promulgate by not later than | year after [July
+21, 2010, the date of enactment of the Dodd-Frank Wall Street
+Reform and Consumer Protection Act] ....
+
+86. 17 C.F.R. Â§ 180.1(a), provides:
+
+It shall be unlawful for any person, directly or indirectly, in
+connection with any swap, or contract of sale of any commodity in
+interstate commerce, or contract for future delivery on or subject to
+the rules of any registered entity, to intentionally or recklessly:
+
+(1) Use or employ, or attempt to use or employ, any manipulative
+device, scheme, or artifice to defraud;
+
+(2) Make, or attempt to make, any untrue or misleading statement
+of a material fact or to omit to state a material fact necessary in
+order to make the statements made not untrue or misleading;
+
+(3) Engage, or attempt to engage, in any act, practice, or course of
+business, which operates or would operate as a fraud or deceit
+upon any person....
+
+87. During the Relevant Period, as described above, Defendant violated
+
+7 U.S.C. Â§ 9(1) and 17 C.F.R. Â§ 180.1(a) by, among other things, in connection with swaps,
+14
+CF
+
+rs
+pet
+we
+iad
+Dp
+prwcecr
+
+contracts of sale of commodities in interstate commerce, or for future delivery, making or
+
+attempting to make untrue or misleading statements of material fact or omitting to state or
+
+attempting to omit material facts necessary in order to make statements made not untrue or
+
+misleading, such as the following:
+
+88.
+
+A.
+
+Issuing performance statements and updates misrepresenting the supposed amount
+
+of bitcoins and profits in each customerâs purported account(s);
+
+. Misrepresenting the amount of assets under management to prospective and
+
+existing customers;
+Misrepresenting the profitability of Defendantâs virtual currency trading to
+
+prospective and existing customers;
+
+. Failing to disclose, and omitting, that Defendantâs pools never achieved the
+
+advertised performance and returns for customers;
+
+Failing to disclose, and omitting, that Defendant was not investing customersâ
+funds as promised but rather using their funds to pay other customers;
+
+Failing to disclose, and omitting, that Defendant was misappropriating customersâ
+funds.
+
+As described above, Defendant violated 7 U.S.C. Â§ 9(1) and 17 C.F.R. Â§ 180.1(a)
+
+by, among other things, in connection with swaps, contracts of sale of a commodity in interstate
+
+commerce, or for future delivery on or subject to the rules of any registered entity, soliciting
+
+customers with false and misleading performance statements and promises of future
+
+performance; misrepresenting and omitting material facts in communications with customers
+
+regarding the use of customersâ funds; and misappropriating customersâ funds.
+
+15
+Case 1:21-cv-00699 Document1 Filed 01/26/21 Page 16 of 20
+
+89. Defendant engaged in the acts and practices described above willfully,
+intentionally, or recklessly.
+
+90. By this conduct, Defendant violated 7 U.S.C. Â§ 9(1) and 17 C.F.R. Â§ 180.1(a).
+
+91. Each act of: (1) using or employing, or attempting to use or employ, a
+manipulative device, scheme, or artifice to defraud; (2) making, or attempting to make, untrue or
+misleading statements of material fact, or omitting to state material facts necessary to make the
+statements not untrue or misleading; and (3) engaging, or attempting to engage, in any act,
+practice, or course of business, which operated or would operate as a fraud or deceit upon any
+person, including but not limited to those specifically alleged herein, is alleged as a separate and
+distinct violation of 7 U.S.C. Â§ 9(1) and 17 C.F.R. Â§ 180.1(a).
+
+VI. RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that the Court, as authorized by
+
+Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2018), and pursuant to its own equitable powers, enter:
+A. An order finding that Defendant violated Section 6(c)(1) of the Act,
+7 U.S.C. Â§ 91) (2018), and Regulation 180.1(a), 17 C.F.R. Â§ 180.1(a) (2020);
+
+B. An order of permanent injunction enjoining each Defendant and any other person
+or entity associated with them, including but not limited to affiliates, agents,
+servants, employees, assigns, attorneys, and all persons in active concert or
+participation with Defendant, including any successor thereof, from:
+
+i. Engaging, directly or indirectly, in conduct in violation of 7 U.S.C. Â§ 9(1)
+and 17 C.F.R. Â§ 180.1(a);
+
+ii. Trading on or subject to the rules of any registered entity (as that term is
+defined in Section 1a(40) of the Act, 7 U.S.C. Â§ 1la(40) (2018));
+
+16
+c ?
+bed
+tee
+
+D
+prwcecr
+r
+
+i. Entering into any transactions involving âcommodity interestsâ (as that
+term is defined in Regulation 1.3, 17 C.F.R. Â§ 1.3 (2020)), for his own
+personal account(s) or for any account in which Defendant has a direct or
+indirect interest;
+
+iv. Having any commodity interests traded on Defendantâs behalf;
+
+v. Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account
+involving commodity interests;
+
+vi. Soliciting, receiving, or accepting any funds from any person for the
+purpose of purchasing or selling any commodity interests;
+
+vii. Applying for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the Commission, except
+as provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)Q) (2020);
+and/or
+
+vill. Acting as a principal (as that term is defined in Regulation 3.1(a),
+17 C.F.R. Â§ 3.1(a) (2020)), agent, or any other officer or employee of any
+person (as that term is defined in 7 U.S.C. Â§ 1a(38), registered, exempted
+from registration, or required to be registered with the Commission except
+as provided for in 17 C.F.R. Â§ 4.14(a)Q9));
+C. An order requiring Defendant to pay civil monetary penalties of not more than the
+civil monetary penalty prescribed by Section 6c(d)(1) of the Act, 7 U.S.C. Â§ 13a-
+
+1(d)(1) (2018), as adjusted for inflation pursuant to the Federal Civil Penalties
+
+17
+c ?
+ad
+tee
+ue
+
+D
+prwcecr
+r
+
+Inflation Adjustment Act Improvements Act of 2015, Pub. L. 114-74, 129 Stat.
+584, title VII, Section 701, see Commission Regulation 143.8, 17 C.F.R. Â§ 143.8
+(2020), for each violation of the Act or Regulations, plus post-judgment interest;
+
+D. An order directing Defendant, as well as any successors thereof, to disgorge,
+pursuant to such procedure as the Court may order, all benefits received
+including, but not limited to, trading profits, revenues, salaries, commissions,
+fees, or loans derived directly or indirectly from acts or practices which constitute
+violations of the Act and Regulations, as described herein, and pre- and post-
+judgment interest thereon from the date of such violations;
+
+E. An order directing Defendant, as well as any successors thereof, to make full
+restitution, pursuant to such procedure as the Court may order, to every customer
+and investor whose funds Defendant received, or caused another person or entity
+to receive, as a result of the acts and practices constituting violations of the Act
+and Regulations, as described herein, and pre- and post-judgment interest thereon
+from the date of such violations;
+
+F. An order directing Defendant, as well as any successors thereof, to rescind,
+pursuant to such procedure as the Court may order, all contracts and agreements,
+whether express or implied, entered into between, with, or among Defendant and
+any customer or investor whose funds were received by Defendant as a result of
+the acts and practices which constituted violations of the Act and the Regulations,
+as described herein;
+
+G. An order directing that Defendant, and any successors thereof, make an
+
+accounting to the Court of all of their assets and liabilities, together with all funds
+
+18
+Pp
+Benarsh
+os
+cay
+ah
+Db
+farereral,
+on
+o
+erst
+an
+3
+coo
+
+they received from and paid to investors and other persons in connection with
+commodity transactions and all disbursements for any purpose whatsoever of
+funds received from commodity transactions, including salaries, commissions,
+interest, fees, loans, and other disbursement of money or property of any kind
+from at least the beginning of the Relevant Period to the date of such accounting;
+
+H. An order requiring Defendant and any successors thereof to pay costs and fees as
+permitted by 28 U.S.C. Â§Â§ 1920 and 2412(a)(2) (2018); and
+
+I. An order providing such other and further relief as the Court deems proper.
+
+** ** **
+
+19
+Case 1:21-cv-00699 Document1 Filed 01/26/21 Page 20 of 20
+
+VIL.
+
+DEMAND FOR JURY TRIAL
+
+Plaintiff hereby demands a jury trial.
+
+Dated: January 26, 2021
+
+COMMODITY FUTURES TRADING
+COMMISSION
+
+By: s/_ Gates S. Hurand
+Gates S. Hurand
+Senior Trial Attorney
+
+ghurand @ cftc.gov
+Phone: (646) 746-9700
+
+ 
+
+Elizabeth C. Brennan
+Senior Trial Attorney
+
+ebrennan @cftc.gov
+Phone: (646) 746-9700
+
+K. Brent Tomer
+
+Chief Trial Attorney
+ktomer @ cftc.gov
+Phone: (646) 746-9700
+
+Manal M. Sultan
+Deputy Director
+msultan @cftc.gov
+Phone: (646) 746-9700
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+140 Broadway, 19th Floor
+
+New York, NY 10005
+
+Phone: (646) 746-9700
+
+Fax: (646) 746-9940
+
+ATTORNEYS FOR PLAINTIFF
+
+COMMODITY FUTURES TRADING
+COMMISSION
+
+20

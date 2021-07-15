@@ -1,0 +1,1157 @@
+2020-BCFP-0011 Documentâ Filed 08/31/2020 Page 1 of 33
+
+UNITED STATES OF AMERICA
+BUREAU OF CONSUMER FINANCIAL PROTECTION
+
+ADMINISTRATIVE PROCEEDING File
+No. 2020-BCFP- 0011
+
+ 
+
+In the Matter of:
+
+CONSENT ORDER
+
+Sigue Corporation, SGS Corporation, and
+GroupEx Corporation
+
+ 
+
+ 
+
+The Bureau of Consumer Financial Protection (Bureau) has reviewed the
+remittance-transfer activities of Sigue Corporation (Sigue Corp.), SGS Corporation
+(SGS), and GroupEx Corporation (GroupEx) (Respondents, as defined below) and
+has identified violations of the Electronic Fund Transfer Act (EFTA), 15 U.S.C. Â§
+1693-1693r, and its implementing Regulation E, 12 C.F.R. Part 1005, Subpart B
+(known as the Remittance Rule). Under Â§Â§ 1053 and 1055 of the Consumer
+Financial Protection Act of 2010 (CFPA), 12 U.S.C. $$ 5563, 5565, the Bureau
+
+issues this Consent Order (Consent Order).
+Jurisdiction
+
+The Bureau has jurisdiction over this matter under Â§Â§ 1053 and 1055 of the
+CFPA, 12 U.S.C. Â§Â§ 5563, 5565, and Â§ 918 of the EFTA, 15 U.S.C. Â§ 16930.
+Il.
+Stipulation
+Respondents have executed a âStipulation and Consent to the Issuance of a
+Consent Order,â dated August 20, 2020 (Stipulation), which is incorporated
+by reference and is accepted by the Bureau. By this Stipulation,
+Respondents have consented to the issuance of this Consent Order by the
+Bureau under Â§Â§ 1053 and 1055 of the CFPA, 12 U.S.C. Â§Â§ 5563, 5565,
+without admitting or denying any of the findings of fact or conclusions of
+law, except that Respondents admit the facts necessary to establish the
+Bureauâs jurisdiction over Respondents and the subject matter of this action.
+IIL.
+Definitions
+The following definitions apply to this Consent Order:
+a. âAffected Consumerâ means any consumer who requested that
+Respondents resend a remittance transfer for which Respondents had
+
+failed to make the funds available to the designated recipient by the
+AAA PAR en SAAN A ot m â nee ee Php A ANSE PP PN Pe sy gy
+IMO REED AN 4 Macimant 4 Siar AAPA Bana @ at
+a Rae PSE CR etal oe 5 ary Soe e seks : kg iat ae es ori. â
+
+ae WA A ha Ne od Ve fot Ra RR Rd P RRA Meh as be on Nt PO CaS af ASE
+
+date ofavailability stated in the disclosure provided to the sender
+under 12 C.F.R. Â§ 1005.31(b)(2) or (3), and who has not otherwise
+received a refund of the fees imposed on the remittance transfer to a
+
+sender.
+
+âEffective Dateâ means the date on which the Consent Order is
+
+issued.
+
+âBoardâ means Respondentsâ duly-elected and acting Board of
+
+Directors or a designated committee thereof.
+
+âRegional Directorâ means the Regional Director for the West Region
+for the Office of Supervision for the Bureau of Consumer Financial
+
+Protection, or his or her delegate.
+
+ââRelated-Consumer Actionâ means a private action by or on behalf of
+one or more consumers or an enforcement action by another
+governmental agency brought against any Respondent based on
+substantially the same facts as described in Section IV of this Consent
+
+Order.
+AAA Terr AA et = . mi A Perr NEE Pt EA ey â oN
+INA Reem AAAs Macmirmnant 7 Mite AS P24 PION Maria of yt 2
+> Rae PSE CR etal oe 5 ary Soe e seks : Riise Ais o es ori. Â£ â â
+
+ae We Pe Pur Ro Ra Ra PE P RRA Meh as be fn Nat Po GAM Meh ata
+
+f. âRespondentsâ means Sigue Corporation (Sigue Corp.), SGS
+Corporation (SGS), and GroupEx Financial Corporation (GroupEx),
+
+and their successors and assigns.
+
+IV.
+Bureau Findings and Conclusions
+The Bureau finds the following:
+
+Background
+
+Respondent Sigue Corp. is a Delaware corporation with its principal place of
+business in Sylmar, California. Sigue Corp.âs primary business is to provide
+international-money transfers, including remittance transfers.
+
+Respondent SGS is a Kansas corporation with its principal place of business
+in Sylmar, California. SGS is a wholly-owned subsidiary of Sigue Corp.
+SGSâs primary business is to provide international-money transfers,
+including remittance transfers.
+
+Respondent GroupEx is a Delaware corporation with its principal place of
+business in Sylmar, California. GroupEx is a wholly-owned subsidiary of
+SGS. GroupExâs primary business is to provide international-money
+
+transfers, including remittance transfers.
+10.
+
+11.
+
+AAA Terr AA et ms . mi A Perr NEE Pt EA ey = oN
+INA Reem AAAs Macmirmnant 7 Rihean M8 Pea PAO DMaeprg A at 2
+> Rae PSE CR etal oe 5 ary Soe e seks : kg iat ae es ori. â *%
+ae We Pe Pur Ro Ra Ra PE P RRA Meh as be fn At PO GALS af ASE aia
+
+Respondents have a distribution network with over 200,000 send-and-
+receive locations, offices in 18 countries, and operations in all 50 of the
+United States.
+
+Respondents describe themselves as âa leading remittance provider in the
+[U.S.] to Mexico Corridorâ and focus on immigrant communities in the
+United States.
+
+Respondentsâ remittance transfers involve transmitting funds and constitute
+payment services. These services are offered to consumers primarily for
+personal, family, or household purposes. The services are therefore
+âconsumer financial product[s] or service[s]â under the CFPA. 12 U.S.C. Â§Â§
+5481(6), (15)(A)(iv), (15)(A)(vii).
+
+Respondents are also remittance-transfer providers under EFT A and
+Regulation E because they provide remittance transfers for consumers in the
+normal course of their businesses. 15 U.S.C. Â§ 16930-1(g)(3); 12 C.F.R. Â§
+1005.30(f).
+
+In 2010, EFT A was amended by adding Â§ 919 to create a comprehensive
+system of consumer protections for remittance transfers sent by U.S.
+consumers to individuals and businesses in foreign countries. Section 919
+includes a number of requirements related to remittance transfers, including
+
+that:
+12.
+
+13.
+
+14.
+
+15.
+
+A PPP Td ot mo â eee ee Petr 2 ASE Pe EP PN ST A
+POP O-RCER-OO14 Macument 4 Filed OR F347 /8O8G Page 6 of 3
+ae We Pe wt : Jha PR eRe Po RRA bie ot roe ro ME 8
+
+e remittance-transfer providers must disclose the exchange rate, the
+amount to be received, and other information both before and at
+the time the consumer pays for the transfer, 15 U.S.C. Â§ 16930-
+
+I(a)(1) & (2);
+
+e consumers have certain rights regarding cancellation and refunds,
+15 U.S.C. Â§ 16930-1(d);
+
+e remittance-transfer providers must investigate disputes and remedy
+errors regarding remittances, 15 U.S.C. Â§ 16930-1(d); and
+
+e remittance-transfer providers are liable for certain acts of their
+agents, 15 U.S.C. Â§ 16300-1(f).
+
+The Bureau issued rules to implement these requirements, which became
+effective on October 28, 2013. These rules are known as the Remittance
+Rule.
+
+Respondents provide remittance transfers to consumers using their retail
+branches and a network of agents across the United States, including
+convenience stores, supermarkets, and other retail establishments where they
+have installed a dedicated computer or a telephone that can be used to send
+remittance transfers using Respondentsâ services.
+
+As of October 28, 2013, the effective date of the Remittance Rule,
+Respondents have been subject to the requirements of EFT A and the
+Remittance Rule.
+
+Respondents were aware of the Remittance Rule and made operational
+changes after the Rule became effective but did not fully comply with some
+
+of the disclosure and error-resolution requirements.
+16.
+
+ARIA PPPS AAA a wy a et Nee IN mo NS
+SOHO REE RAT Macument 7 Filed OR F347 /8O8G Rare Â§ of 33
+ae WPT Ne Pe tot RP REESE PRAGA Â§ Sree PU CeAaee oF Lab aha
+
+From 2013 until at least 2019, Respondents engaged in the acts and practices
+in providing remittance transfers as described below.
+
+Respondents violated Â§Â§ 1005.33(c)(1) and (c)(2) (ii) (B)
+by failing to notify some consumers of the remedies available for
+
+correcting errors and providing those consumers with the appropriate remedy.
+
+17.
+
+18.
+
+19.
+
+Section 1005.33(c)(1) of the Remittance Rule requires remittance-transfer
+providers to investigate promptly a notice of error received from a sender
+and to determine whether an error occurred within 90 days of receiving
+notice. Section 1005.33(c)(1) further requires remittance-transfer providers
+to âreport the results to the sender, including notice of any remedies
+available for correcting any error that the provider determines has occurred,
+within three business days after completing its investigation.â
+
+Among other things, it is generally an error if a remittance-transfer provider
+fails to make funds available to a designated recipient by the date of
+availability stated in the receipt or combined disclosure that the provider
+provides to a sender under Â§ 1005.33(a)(1)(iv).
+
+Section 1005.33(c)(2)(11)(B) of the Remittance Rule requires a remittance-
+transfer provider to refund fees imposed on a remittance transfer to a sender
+following an assertion of an error when the provider commits an error under
+Â§ 1005.33(a)(1 )(iv) by failing to make funds available to the designated
+
+recipient by the date of availability in the receipt or combined disclosure.
+20.
+
+21.
+
+22.
+
+23.
+
+AA PY SRP eT, CA ot m . Lot reek PALE PR ERP PAN Xs co .
+AHO Peres Anas Phaciipaant 1 Mite AS P24 PION Maria O eyt 2
+wk be PSR Ce Rete ne 5 Rose PGP eee ye : rebel Lea SS foe pois wit tin ef tue *%
+She ad BP et NE ae Bat Ae Re ed PoE Lek bP ea : Gtk ter LOSE
+
+When Respondents committed errors under Â§ 1005.33(a)(1 \1v), they
+refunded fees only to senders who, as a remedy, requested that Respondents
+cancel the transaction. Respondents did not refund fees to senders who, as a
+remedy, requested that Respondents resend the transaction.
+
+Between 2015 and 2019, for senders who requested that Respondents resend
+the remittance transfer as a remedy, Respondents did not adequately notify
+those consumers of the available remedies or refund fees imposed on the
+remittance transfer in a total of more than 9,280 instances and resulting in a
+total cost to consumers of approximately $99,944.95.
+
+Respondents therefore violated 12 C.F.R. Â§Â§ 1005.33(c)(1) and (c)(2)(11)(B).
+
+Respondents violated Â§Â§ 1005.33(c)(1) and (d)(1)
+by failing to properly report the results of error investigations
+
+and failing to notify consumers of their rights after error investigations.
+
+Section 1005.33(c)(1) of the Remittance Rule requires remittance-transfer
+providers to investigate promptly a notice of error from a sender and to
+determine whether an error occurred within 90 days of receiving notice.
+Section 1005.33(c)(1) further requires remittance-transfer providers to
+âreport the results to the sender, including notice of any remedies available
+for correcting any error that the provider determines has occurred, within
+
+three business days after completing its investigation.â
+24.
+
+25.
+
+26.
+
+ARAA Rr AKA a PA ee ek et Nee IN me
+SOHO REE RAT Macument 7 Filed OR F347 /8O8G Pars G of 33
+ae We Pe Pur Ro Ra RR Rd P RRA Meh as be on Nt PO CAMS a ASE ata
+
+Section 1005.33(d)(1) of the Remittance Rule requires a remittance-transfer
+provider to follow certain procedures if it determines that no error occurred
+or if a different error occurred than the error identified in the senderâs notice
+of error. Specifically, this section requires the remittance-transfer provider to
+give the sender a written explanation of the providerâs findings regarding the
+notice of error and to note the senderâs right to request the documents on
+which the remittance-transfer provider relied in making its determination.
+From the effective date of the Remittance Rule through at least 2019, it was
+Respondentsâ practice to inform consumers about complaint-investigation
+results only by telephone, even if Respondents found no error or a different
+error from the one alleged.
+
+Respondents therefore violated 12 C.F.R. Â§Â§ 1005.33(c)(1) and (d)(1).
+
+Respondents violated Â§ 1005. 33(g)(1) by failing to develop
+and maintain written policies and procedures designed to ensure
+
+compliance with certain error-resolution requirements of the Remittance Rule.
+
+27.
+
+28.
+
+Section 1005.33(g)(1) of the Remittance Rule requires remittance-transfer
+providers to develop and maintain written policies and procedures that are
+designed to ensure compliance with the Ruleâs error-resolution
+requirements.
+
+From the effective date of the Remittance Rule to at least 2019,
+
+Respondents had no written policies and procedures on the
+29.
+
+30.
+
+31.
+
+32.
+
+APO PLAS AM > . og pues SP A Pee ~ ae <A
+ION CE RAGA Phevesirpvcant 4 Plan ORF toe Beane TP Af 38
+Sew ke bg WA bd BA AEN Pa POPS ASQ a PP ole ANS BAF La ie
+
+appropriate remedies for correcting âerrors.â Respondents did not
+
+fully comply with the Ruleâs procedures for resolving errors.
+
+From December 2017 to at least September 2018, Respondentsâ written
+policies and procedures inaccurately stated that investigation results could be
+reported either orally or in writing to a consumer even in cases where the
+Remittance Rule requires the provider to explain its findings in writing.
+During this period, Respondents followed their written policies and
+procedures, rather than the Remittance Ruleâs requirements, and so did not
+provide investigation results in writing where the Rule requires written
+notice.
+
+From September 2014 to November 2017, Respondents described âerrorsâ
+too narrowly in their written policies and procedures, making it likely that
+following such policies and procedures would result in undercompliance
+with the Rule.
+
+Thus, between the effective date of the Remittance Rule and 2019,
+Respondentsâ policies and procedures were not adequately designed to
+ensure compliance with Â§Â§ 1005.33(c)(1), (c)(2), or (d)(1).
+
+Respondents therefore violated 12 C.F.R. Â§ 1005.33(g)(1).
+33.
+
+34.
+
+35.
+
+36.
+
+PAA PR ARE RA OA ~~ . oA pansy SPT Pe ax Aw x A
+SOOO Dre m Ams 4 Pree ey ceed of Clad Marea foOAgy Meese Tet at 23
+ee eh babe ome bev at de bd POSMOUCE UY TUES: of Pe ries PS ie ets Pe et pees of ok fee *
+Bon at a PU RP Dd oN bd RPA TAS Pd PoP Ne PP eS : aA : att P tad
+
+Sigue Corp. violated Â§Â§ 1005.31(b)(1) (i)-(iii), (v)-(vii), and (b)(2) (i)
+
+by failing to identify the amounts, fees, and taxes associated with certain
+
+transfers as required by the Remittance Rule.
+
+Section 1005.31 of the Remittance Rule generally requires remittance-
+transfer providers to give consumers certain disclosures. If providers choose
+to provide those disclosures through prepayment disclosures and receipts, as
+Respondents have since the Ruleâs effective date, Â§ 1005.31(b) governs the
+content of those prepayment disclosures and receipts.
+
+Sections 1005.3 1(b)(1)() and (b)(2)(1) require that prepayment disclosures
+and receipts disclose the amount that will be transferred to the designated
+recipient, in the currency in which the remittance transfer is funded, using
+the term âtransfer amountâ ora substantially similar term.
+
+Sections 1005.3 1(b)(1 (i) and (b)(2)(4) require that prepayment disclosures
+and receipts disclose any fees imposed and any taxes collected on the
+remittance transfer by the provider, in the currency in which the remittance
+transfer is funded, using the terms âtransfer feesâ for fees and âtransfer
+taxesâ for taxes, or substantially similar terms.
+
+Sections 1005.3 1(b)(1)(il) and (b)(2)(1) require that prepayment disclosures
+and receipts disclose the total amount of the transaction, in the currency in
+which the remittance transfer is funded, using the term âtotalâ ora
+
+substantially similar term.
+37.
+
+38.
+
+39.
+
+40.
+
+4].
+
+Sections 1005.3 1(b)(1)(v) and (b)(2)(1) require that prepayment disclosures
+and receipts disclose the amount that will be transferred to the designated
+recipient, in the currency in which the funds will be received by the
+designated recipient, but only if certain covered third-party fees are imposed,
+using the term âtransfer amountâ or a substantially similar term.
+
+Sections 1005.3 1(b)(1 (vi) and (b)(2)(4) require that prepayment disclosures
+and receipts disclose any covered third-party fees, in the currency in which
+the funds will be received by the designated recipient, using the term âother
+feesâ or a substantially similar term.
+
+Sections 1005.3 1(b)(1 (vit) and (b)(2)(1) require that prepayment disclosures
+and receipts disclose the amount that will be received by the designated
+recipient, in the currency in which the funds will be received, using the term
+âtotal to recipientâ or a substantially similar term.
+
+Between 2013 and 2019, some of Sigue Corp.âs prepayment disclosures and
+receipts did not specify the currency of the various amounts, fees, and taxes
+in amanner required by the Remittance Rule.
+
+Sigue Corp. therefore violated 12 C.F.R. Â§Â§ 1005.31(b)(1)(@)-(i), (v)-(vii),
+
+and (b)(2)(1).
+AMAR RP ASMA FU a, aunt A Rh FS Fe EO ek Rie, AF wT OD
+POOL RCE DLA 4 Praciirnant 4 Plan ORF toe Bawa TQ af 2
+Bea ME ED eX bod BaP ASP ETA eR OT SPINS WA a PP ee aN Bur Mad WS
+
+Sigue Corp. violated Â§Â§ 1005.31(b)(1) (i) and (b)(2) (i) by issuing some disclosures
+
+42.
+
+43.
+
+44.
+
+45.
+
+that did not use the term âtransfer amountâ or a substantially similar term.
+
+Sections 1005.3 1(b)(1)() and (b)(2)(1) of the Remittance Rule require that
+prepayment disclosures and receipts disclose the amount that will be
+transferred to the designated recipient, in the currency in which the
+remittance transfer is funded, using the term âtransfer amountâ ora
+substantially similar term.
+
+Between 2013 and at least 2019, Sigue Corp. issued prepayment disclosures
+and receipts that used the Spanish phrase âcantidad netaâ and the English
+translation ânet before exchangeâ to indicate the amount to be transferred to
+the designated recipient. The English phrase ânet before exchangeâ is not
+substantially similar to âtransfer amount.â
+
+Sigue Corp. therefore violated 12 C.F.R. Â§Â§ 1005.31(b)(1)() and (b)(2)(i).
+
+Sigue Corp. and GroupEx violated Â§ 1005.31(b)(2)(vi) by issuing
+
+some receipts that did not identify state-licensing and -chartering agencies.
+
+Section 1005.31(b)(2)(vi) of the Remittance Rule requires that remittance-
+transfer receipts contain a statement that âthe sender can contact the State
+agency that licenses or charters the remittance transfer provider. . . for
+questions or complaintsâ and provide the relevant state agencyâs name,
+
+telephone numbers, and website.
+46.
+
+47.
+
+48.
+
+49.
+
+PAM PR PAE, AG ~~ . oA pay . Re ER
+SHAS OP em Ara 4 Tree isscaind 4 ilar APRA
+ee eh babe ome bev at de bd POSMOUCE UY TUES: of PT PTBAP YE PAE SOG wi ee
+on at ot Pt RPA TAS Pd SPs PEP ET BN ee
+
+From at least 2018 to 2019, some Sigue Corp. receipts contained inaccurate
+information about the state-licensing or -chartering agencies for Georgia,
+Maine, Maryland, New Mexico, North Carolina, Oregon, and Vermont,
+including omitting the relevant agencyâs name, telephone numbers, or
+websites.
+
+In at least 2019, some GroupEx receipts contained inaccurate information
+about the state-licensing or -chartering agencies for Georgia, Maryland,
+North Carolina, and Oregon, including omitting the relevant agencyâs name,
+telephone numbers, or websites.
+
+Sigue Corp. and GroupEx therefore violated 12 C.F.R. Â§ 1005.31(b)(2)(vi).
+
+Respondents violated Â§ 1005.31(c)(1) by issuing prepayment disclosures
+that did not comply with the Remittance Ruleâs grouping requirement.
+
+Section 1005.31(c)(1) of the Remittance Rule requires that the following
+
+types of information (or their equivalents) be grouped together on
+
+99 66 99 66
+
+prepayment disclosures: âtransfer amount,â âtransfer fees,â âtransfer taxes,â
+
+and âtotal.â This section also requires that the following types of information
+
+(or their equivalents) be grouped together when applicable: âtransfer
+
+99 66 99 66
+
+amount,â âother fees,â âtotal to recipient,â and a statement about non-
+
+covered third-party fees.
+50.
+
+S1.
+
+APO PPAR A ~ . oa omy SON EA ~ ar wo
+ION CE RAGA Phevesirpvcant 4 Plan ORF toe Maen TR Af
+eo We TER POPU RA bd RE PAS EE 7 PORES WMO Pc AAS Pot eb ahs
+
+From the Ruleâs effective date through at least 2019, some of Respondentsâ
+
+prepayment disclosures improperly grouped the term âother feesâ together
+
+99 66 99 66
+
+with âtransfer amount,â âtransfer fees,â âtransfer taxes,â and âtotal.â
+
+Respondents therefore violated 12 C.F.R. Â§ 1005.31(c)(1).
+
+Sigue Corp. violated Â§Â§ 1005. 31(b)(1) (viii) and (b)(2) i)
+by including a statement on certain prepayment disclosures and
+
+receipts that non-covered, third-party fees may apply to a remittance transfer.
+
+52.
+
+53.
+
+Sections 1005.3 1(b)(1 (vim) and (b)(2)(4) of the Remittance Rule require a
+remittance-transfer provider to disclose to a sender, as applicable, a
+statement indicating that non-covered, third-party fees or taxes collected on
+the remittance transfer by a person other than the provider may apply to the
+remittance transfer and result in the designated recipient receiving less than
+the amount disclosed pursuant to Â§ 1005.31(b)(1)(vu). A provider may
+include this disclosure only if such fees or taxes do or may apply to the
+transfer.
+
+From the Ruleâs effective date through at least 2019, some of Sigue Corp.âs
+prepayment disclosures and receipts stated that a designated ârecipient may
+receive less due to taxes and additional non-covered third-party fees charged
+within destination country,â or included substantially similar statements,
+when non-covered, third-party fees could not be imposed on the remittance
+
+transfer.
+54.
+
+55.
+
+56.
+
+NAAM RM OAM ~ . 8 pens PT Em oy ae A
+SOO BER AA 4 Miners t fF Plan ORF toe Bien F2 wf RO
+Bad ae MRP De WA bd BA AEN Pa POPS ASQ a PP ole oA Ã© Lah wit
+
+Sigue Corp. therefore violated 12 C.F.R. Â§Â§ 1005.31(b)(1)(vii) and (b)(2)(i).
+
+ORDER
+V.
+
+Conduct Provisions
+IT IS ORDERED, under Â§Â§ 1053 and 1055 ofthe CFPA, that:
+Respondents and their officers, agents, servants, employees, and attorneys
+who have actual notice of this Consent Order, whether acting directly or
+indirectly, may not violate 12 C.F.R. Â§Â§ 1005.31 or 1005.33.
+Respondents in connection with the provision of remittance transfers must:
+a. implement and maintain written policies and procedures designed to
+
+ensure compliance with the Remittance Rule; and
+
+b. | maintain a compliance-management system that is designed to ensure
+that Respondentsâ operations comply with the Remittance Rule,
+including conducting training and oversight of all agents, employees,
+and service providers that is designed to ensure compliance with the
+
+Remittance Rule.
+57.
+
+58.
+
+59.
+
+PN PM OIE RA 2 ~ : of pay Â» SOP ER
+SOL BPE RANA 4 Reariineant 4 Pian GRIP a fenen
+ee eh babe ome bev at de bd POSMOUCE UY TUES: of PT PTBAP YE PAE SOG wi ee
+than Sad tli at Rend Sal? te AEN Ed PoP PP PT eo eS
+
+VI.
+Compliance Plan
+
+IT IS FURTHER ORDERED that:
+Within 60 days of the Effective Date, Respondents must submit to the
+Regional Director for review and determination of non-objection a
+comprehensive compliance plan designed to ensure that Respondentsâ
+remittance-transfer acts and practices comply with all applicable federal
+consumer-financial laws and the terms of this Consent Order (Compliance
+Plan). The Compliance Plan must include, at a minimum, detailed steps for
+addressing each action required by this Consent Order and specific
+timeframes and deadlines for implementing those steps.
+The Regional Director will have the discretion to make a determination of
+non-objection to the Compliance Plan or direct Respondents to revise it. If
+the Regional Director directs Respondents to revise the Compliance Plan,
+Respondents must make the revisions and resubmit the Compliance Plan to
+the Regional Director within 30 days.
+After receiving notification that the Regional Director has made a
+determination of non-objection to the Compliance Plan, Respondents must
+implement and adhere to the steps, recommendations, deadlines, and
+
+timeframes outlined in the Compliance Plan.
+60.
+
+61.
+
+62.
+
+AMON POE . ~ . og a . IN A EP
+ION CE RAGA Phevesirpvcant 4 Plan ORF toe
+Ba Sf tn ST et BA AEN Pa PPA Pe PP eA eA
+
+VIL.
+
+Role of the Board
+IT IS FURTHER ORDERED that:
+The Board must review all submissions (including plans, reports, programs,
+policies, and procedures) required by this Consent Order prior to submission
+to the Bureau.
+Although this Consent Order requires Respondents to submit certain
+documents for the review or non-objection by the Regional Director, the
+Board will have the ultimate responsibility for proper and sound
+management of Respondents and for ensuring that Respondents comply with
+the laws that the Bureau enforces, including federal consumer financial laws
+and this Consent Order.
+In each instance that this Consent Order requires the Board to ensure
+
+adherence to, or perform certain obligations of Respondents, the Board
+
+must:
+
+a. authorize whatever actions are necessary for Respondents to fully
+comply with the Consent Order;
+
+b. require timely reporting by management to the Board on the status of
+
+compliance obligations; and
+63.
+
+64.
+
+APA PR OA PR of 2 ~ : of pea y Â» SOP ER
+SOL BPE RANA 4 Reariineant 4 Pian GRIP a fenen
+ee eh babe ome bev at de bd POSMOUCE UY TUES: of PT PTBAP YE PAE SOG wi ee
+than Sad tli at Rend Sal? te AEN Ed PoP PP PT eo eS
+
+C. require timely and appropriate corrective action to remedy any
+material non-compliance with any failures to comply with Board
+
+directives related to this Section.
+
+VILL.
+
+Order to Pay Redress
+IT IS FURTHER ORDERED that:
+Within 10 days of the Effective Date, Respondents must reserve or deposit
+into a segregated deposit account an amount not less than $99,944.95
+(Payment Floor), for the purpose of providing redress to Affected
+Consumers as required by this Section.
+Within 30 days of the Effective Date, Respondents must submit to the
+Regional Director for review and non-objection a comprehensive written
+plan for providing redress consistent with this Consent Order (Redress
+Plan). The Regional Director will have the discretion to make a
+determination of non-objection to the Redress Plan or direct Respondents
+to revise it. If the Regional Director directs Respondents to revise the
+Redress Plan, Respondents must make the revisions and resubmit the
+Redress Plan to the Regional Director within 15 days. After receiving
+notification that the Regional Director has made a determination of non-
+
+objection to the Redress Plan, Respondents must implement and adhere
+65.
+
+66.
+
+67.
+
+PN PM OIE RA 2 ~ : of pay Â» SOP ER
+SOL BPE RANA 4 Reariineant 4 Pian GRIP a fenen
+ee eh babe ome bev at de bd POSMOUCE UY TUES: of PT PTBAP YE PAE SOG wi ee
+than Sad tli at Rend Sal? te AEN Ed PoP PP PT eo eS
+
+to the steps, recommendations, deadlines, and timeframes outlined in the
+Redress Plan.
+
+The Redress Plan must, at a minimum, identify Respondentsâ method for
+determining the transaction fees that must be refunded to each Affected
+Consumer, comprehensive steps for locating those consumers, and specific
+steps and deadlines for providing the redress to each Affected Consumer.
+After completing the Redress Plan, if the amount of redress provided to
+Affected Consumers is less than $99,944.95, within 30 days of the
+completion of the Redress Plan, Respondents must pay to the Bureau, by
+wire transfer to the Bureau or to the Bureauâs agent, and according to the
+Bureauâs wiring instructions, the difference between the amount of redress
+provided to Affected Consumers and $99,944.95.
+
+The Bureau may use these remaining funds to pay additional redress to
+Affected Consumers. Ifthe Bureau determines, in its sole discretion, that
+additional redress is wholly or partially impracticable or otherwise
+inappropriate, or if funds remain after the additional redress is completed,
+the Bureau will deposit any remaining funds in the U.S. Treasury as
+disgorgement. Respondents will have no right to challenge any actions that
+
+the Bureau or its representatives may take under this Section.
+68.
+
+69.
+
+70.
+
+71.
+
+72.
+
+Respondents may not condition the payment of any redress to any Affected
+Consumer under this Consent Order on that Affected Consumer waiving any
+right.
+
+IX.
+
+Order to Pay Civil Money Penalty
+
+IT IS FURTHER ORDERED that:
+Under Â§ 1055(c) of the CFPA, 12 U.S.C. Â§ 5565(c), by reason of the
+violations of law described in Â§ IV of this Consent Order, and taking into
+account the factors in 12 U.S.C. Â§ 5565(c)(3), Respondents must pay a civil
+money penalty of $300,000 to the Bureau.
+Within 10 days of the Effective Date, Respondents must pay the civil money
+penalty by wire transfer to the Bureau or to the Bureauâs agent in
+compliance with the Bureauâs wiring instructions.
+The civil money penalty paid under this Consent Order will be deposited in
+the Civil Penalty Fund of the Bureau as required by Â§ 1017(d) ofthe CFPA,
+12 U.S.C. Â§ 5497(d).
+Respondents, for all purposes, must treat the civil money penalty paid under
+this Consent Order as a penalty paid to the government. Regardless of how
+
+the Bureau ultimately uses those funds, Respondents may not:
+73.
+
+ARAN SAP ANAS ~ Ld mo AP A Ie
+SOO BP DLAT 4 Paciiyent 4 Pian QRIa4fanen
+Sai UR ed RAPE PENSE ER gd PoPteAs Pi PP ee
+
+a. claim, assert, or apply for a tax deduction, tax credit, or any other tax
+
+benefit for any civil money penalty paid under this Consent Order; or
+
+b. seek or accept, directly or indirectly, remmbursement or
+indemnification from any source, including but not limited to payment
+made under any insurance policy, with regard to any civil money
+
+penalty paid under this Consent Order.
+
+To preserve the deterrent effect of the civil money penalty in any Related
+Consumer Action, Respondents may not argue that Respondents are entitled
+to, nor may Respondents benefit by, any offset or reduction of any
+compensatory monetary remedies imposed in the Related Consumer Action
+because of the civil money penalty paid in this action or because of any
+payment that the Bureau makes from the Civil Penalty Fund. Ifthe court in
+any Related Consumer Action offsets or otherwise reduces the amount of
+compensatory monetary remedies imposed against Respondents based on the
+civil money penalty paid in this action or based on any payment that the
+Bureau makes from the Civil Penalty Fund, Respondents must, within 30
+days after entry of a final order granting such offset or reduction, notify the
+Bureau, and pay the amount of the offset or reduction to the U.S. Treasury.
+
+Such a payment will not be considered an additional civil money penalty and
+74.
+
+75.
+
+70.
+
+TT,
+
+NAAM RM OAM ~ . 8 pens re ar ry re ox me owe
+ION CE RAGA Phevesirpvcant 4 Plan ORF toe Baw BQ af 2
+Bad ae MRP De WA bd BASE EAGER Yok Ae PP coe oA Bat LD ws
+
+will not change the amount of the civil money penalty imposed in this
+action.
+
+X.
+
+Additional Monetary Provisions
+
+IT IS FURTHER ORDERED that:
+In the event of any default on Respondentsâ obligations to make payment
+under this Consent Order, interest, computed under 28 U.S.C. Â§ 1961, as
+amended, will accrue on any outstanding amounts not paid from the date of
+default to the date of payment, and will immediately become due and
+payable.
+Respondents must relinquish all dominion, control, and title to the funds
+paid to the fullest extent permitted by law and no part of the funds may be
+returned to Respondents.
+Under 31 U.S.C. Â§ 7701, Respondents, unless they already have done so,
+must furnish to the Bureau their taxpayer-identification numbers, which may
+be used for purposes of collecting and reporting on any delinquent amount
+arising out of this Consent Order.
+Within 30 days of the entry of a final judgment, consent order, or settlement
+in a Related Consumer Action, Respondents must notify the Regional
+
+Director of the final judgment, consent order, or settlement in writing. That
+78.
+
+79.
+
+PN PM OIE RA 2 ~ : of pay Â» SOP ER
+SOL BPE RANA 4 Reariineant 4 Pian GRIP a fenen
+ee eh babe ome bev at de bd POSMOUCE UY TUES: of PT PTBAP YE PAE SOG wi ee
+than Sad tli at Rend Sal? te AEN Ed PoP PP PT eo eS
+
+notification must indicate the amount of redress, if any, that Respondents
+paid or is required to pay to consumers and describe the consumers or
+classes of consumers to whom that redress has been or will be paid.
+XI.
+Reporting Requirements
+
+IT IS FURTHER ORDERED that:
+Respondents must notify the Bureau of any development that may affect
+compliance obligations arising under this Consent Order, including but not
+limited to a dissolution, assignment, sale, merger, or other action that would
+result in the emergence of a successor company; the creation or dissolution
+of a subsidiary, parent, or affiliate that engages in any acts or practices
+subject to this Consent Order; the filing of any bankruptcy or insolvency
+proceeding by or against any Respondent; or a change in any Respondentâs
+name or address. Respondents must provide this notice, if practicable, at
+least 30 days before the development, but in any case no later than 14 days
+after the development.
+Within 7 days of the Effective Date, each Respondent must:
+a. designate at least one telephone number and email, physical, and
+
+postal addresses as points of contact, that the Bureau may use to
+
+communicate with Respondent;
+80.
+
+81.
+
+ARAN SAP ANAS ~ Ld mo AP A Ie
+SOO BP DLAT 4 Paciiyent 4 Pian QRIa4fanen
+Sai UR ed RAPE PENSE ER gd PoPteAs Pi PP ee
+
+b. identify all businesses for which Respondent is the majority owner, or
+that Respondent directly or indirectly controls, by all of their names,
+telephone numbers, and physical, postal, email, and Internet
+
+addresses; and
+
+C. describe the activities of each such business, including the products
+and services offered, and the means of advertising, marketing, and
+
+sales.
+
+Respondent must report any change in the information required to be
+submitted under Â§ 79 at least 30 days before the change or as soon as
+
+practicable after the learning about the change, whichever is sooner.
+
+Within 90 days after receiving notice of non-objection to the Compliance
+
+Plan, and again one year thereafter, Respondents must submit to the
+
+Regional Director an accurate written compliance progress report
+
+(Compliance Report) that has been approved by the Board, sworn to under
+
+penalty of perjury, which, at a minimum:
+
+a. lists each applicable paragraph and subparagraph of the Order and
+describes in detail the manner and form in which Respondents have
+complied with each such paragraph and subparagraph of the Consent
+
+Order;
+82.
+
+83.
+
+84.
+
+AMON POE . ~ . og a . IN A EP
+ION CE RAGA Phevesirpvcant 4 Plan ORF toe
+Ba Sf tn ST et BA AEN Pa PPA Pe PP eA eA
+
+b. describes in detail the manner and form in which Respondent has
+
+complied with the Redress Plan and Compliance Plan; and
+
+C. attaches a copy of each Order Acknowledgment obtained under Â§ XII,
+
+unless previously submitted to the Bureau.
+
+XII.
+
+Order Distribution and Acknowledgment
+IT IS FURTHER ORDERED that:
+Within 7 days of the Effective Date, each Respondent must submit to the
+Regional Director an acknowledgment of receipt of this Consent Order,
+sworn under penalty of perjury.
+Within 30 days of the Effective Date, Respondents must deliver a copy of
+this Consent Order to each of its board members and executive officers, as
+well as to any managers, employees, service providers, or other agents and
+representatives who have responsibilities related to the subject matter of the
+Consent Order.
+For 5 years from the Effective Date, Respondents must deliver a copy of this
+Consent Order to any business entity resulting from any change in structure
+referred to in Â§ XI, any future board members and executive officers, as well
+
+as to any managers, employees, service providers, or other agents and
+85.
+
+86.
+
+ARAN SAP ANAS ~ Ld mo AP A Ie
+SOO BP DLAT 4 Paciiyent 4 Pian QRIa4fanen
+Sai UR ed RAPE PENSE ER gd PoPteAs Pi PP ee
+
+representatives who will have responsibilities related to the subject matter of
+the Consent Order before they assume their responsibilities.
+Respondents must secure a signed and dated statement acknowledging
+receipt of a copy of this Consent Order, ensuring that any electronic
+signatures comply with the requirements of the E-Sign Act, 15 U.S.C. Â§
+7001 et seq., within 30 days of delivery, from all persons receiving a copy of
+this Consent Order under this Section.
+XIII.
+Recordkeeping
+
+IT IS FURTHER ORDERED that:
+Respondents must create and retain the following business records:
+a. all documents and records necessary to demonstrate full compliance
+
+with each provision of this Consent Order, including all submissions
+
+to the Bureau;
+
+b. all documents and records pertaining to the Redress Plan, described in
+
+Â§ VIII above;
+
+C. templates of all prepayment disclosures, receipts, and combined
+
+disclosures, along with records sufficient to demonstrate the dates and
+87.
+
+88.
+
+APA PR OA PR of 2 ~ : of pansy Â» SOP ER
+AAO Beem Awa 4 Pree ey ceed of Wiad M8 Pea Fa OoGA
+ee eh babe ome bev at de bd POSMOUCE UY TUES: of PT PTBAP YE PAE SOG wi ee
+than Sad tli at Rend Sal? te AEN Ed PoP PP PT eo eS
+
+locations in which each template was in use and the number of
+
+consumers who received each template; and
+
+d. all consumer complaints and refund requests (whether received
+directly or indirectly, such as through a third party), and any responses
+
+to those complaints or requests.
+
+Respondents must make the documents identified in J 86 available to the
+Bureau upon the Bureauâs request.
+
+XIV.
+
+Notices
+IT IS FURTHER ORDERED that:
+Unless otherwise directed in writing by the Bureau, Respondents must
+provide all submissions, requests, communications, or other documents
+relating to this Consent Order in writing, with the subject line, âIn re Sigue
+Corp., File No. 2020-BCFP-0011,â and send them by overnight courier or
+first-class mail to the below address and contemporaneously by email to
+Enforcement_Compliance@cfpb.gov:
+Regional Director, Bureau West Region
+
+301 Howard Street, 12th Floor
+San Francisco, CA 94105
+89.
+
+90.
+
+PN PM OIE RA 2 ~ : of pay Â» SOP ER
+SOL BPE RANA 4 Reariineant 4 Pian GRIP a fenen
+ee eh babe ome bev at de bd POSMOUCE UY TUES: of PT PTBAP YE PAE SOG wi ee
+than Sad tli at Rend Sal? te AEN Ed PoP PP PT eo eS
+
+Cooperation with the Bureau
+IT IS FURTHER ORDERED that:
+Respondents must cooperate fully to help the Bureau determine the identity
+and location of, and the amount of injury sustained by, each Affected
+Consumer. Respondents must provide such information in its or its agentsâ
+possession or control within 14 days of receiving a written request from the
+Bureau.
+XVI.
+Compliance Monitoring
+IT IS FURTHER ORDERED that:
+Within 14 days of receipt of a written request from the Bureau, Respondents
+must submit additional Compliance Reports or other requested non-
+privileged information, related to requirements of this Consent Order, which
+must be made under penalty of perjury; provide sworn testimony related to
+requirements of this Consent Order and Respondentsâ compliance with those
+requirements; or produce non-privileged documents related to requirements
+of this Consent Order and Respondentsâ compliance with those
+
+requirements.
+91.
+
+92.
+
+93.
+
+94.
+
+SAA RS AEE PA : ~ . A puss . OR Ee
+SOS BCE PLANT 4 Pocument 7 Pied ORS TfeO2O
+Ba Sf tn ST et BA AEN Pa PPA Pe PP eA eA
+
+Respondents must permit Bureau representatives to interview about the
+requirements of this Consent Order and Respondentsâ compliance with those
+requirements, any employee or other person affiliated with Respondents who
+has agreed to such an interview. The person interviewed may have counsel
+present.
+Nothing in this Consent Order will limit the Bureauâs lawful use of civil
+investigative demands under 12 C.F.R. Â§ 1080.6 or other compulsory
+process.
+XVII.
+
+Modifications to Non-Material Requirements
+IT IS FURTHER ORDERED that:
+Respondents may seek a modification to non-material requirements of this
+Consent Order (e.g., reasonable extensions of time and changes to reporting
+requirements) by submitting a written request to the Regional Director.
+The Regional Director may, in his or her discretion, modify any non-
+material requirements of this Consent Order (e.g., reasonable extensions of
+time and changes to reporting requirements) if he or she determines good
+cause justifies the modification. Any such modification by the Regional
+
+Director must be in writing.
+95.
+
+96.
+
+APA PR OA PR of 2 ~ : of pansy Â» SOP ER
+AAO Beem Awa 4 Pree ey ceed of Wiad M8 Pea Fa OoGA
+ee eh babe ome bev at de bd POSMOUCE UY TUES: of PT PTBAP YE PAE SOG wi ee
+than Sad tli at Rend Sal? te AEN Ed PoP PP PT eo eS
+
+XVIII.
+Administrative Provisions
+IT IS FURTHER ORDERED that:
+The provisions of this Consent Order do not bar, estop, or otherwise prevent
+the Bureau from taking any other action against Respondents, except as
+described in J 96. Further, for the avoidance of doubt, the provisions of this
+Consent Order do not bar, estop, or otherwise prevent any other person or
+
+governmental agency from taking any action against Respondents.
+
+The Bureau releases and discharges Respondents from all potential liability
+for law violations that the Bureau has or might have asserted based on the
+practices described in Â§ IV of this Consent Order, to the extent such
+practices occurred before the Effective Date and the Bureau knows about
+them as of the Effective Date. The Bureau may use the practices described in
+this Consent Order in future enforcement actions against Respondents and
+their affiliates, including, without limitation, to establish a pattern or practice
+of violations or the continuation of a pattern or practice of violations or to
+calculate the amount of any penalty. This release does not preclude or affect
+any right of the Bureau to determine and ensure compliance with the
+
+Consent Order, or to seek penalties for any violations of the Consent Order.
+97.
+
+98.
+
+99.
+
+100.
+
+101.
+
+NAAM RM OAM ~ . 8 pens PT Em oy rr ~ rye
+ION CE RAGA Phevesirpvcant 4 Plan ORF toe Mey 2 ak OR
+Bad ae MRP De WA bd BASE EAGER Yok Ae PP coe oA fn LP
+
+This Consent Order is intended to be, and will be construed as, a final
+Consent Order issued under Â§ 1053 of the CFPA, 12 U.S.C. Â§ 5563, and
+expressly does not form, and may not be construed to form, a contract
+binding the Bureau or the United States.
+
+This Consent Order will terminate 5 years from the Effective Date. The
+Consent Order will remain effective and enforceable until such time, except
+to the extent that any provisions of this Consent Order have been amended,
+suspended, waived, or terminated in writing by the Bureau or its designated
+agent.
+
+Calculation of time limitations will run from the Effective Date and be based
+on calendar days, unless otherwise noted.
+
+Should any Respondent seek to transfer or assign all or part of its operations
+that are subject to this Consent Order, that Respondent must, as a condition
+of sale, obtain the written agreement of the transferee or assignee to comply
+with all applicable provisions of this Consent Order.
+
+The provisions of this Consent Order will be enforceable by the Bureau. For
+any violation of this Consent Order, the Bureau may impose the maximum
+amount of civil money penalties allowed under Â§1055(c) of the CFPA, 12
+U.S.C. Â§ 5565(c). In connection with any attempt by the Bureau to enforce
+
+this Consent Order in federal district court, the Bureau may serve
+ 
+
+102.
+
+103.
+
+2020-BCFP-0011 Documentâ Filed 08/31/2020 Page 33 of 33
+
+Respondents wherever Respondents may be found and Respondents may not
+
+contest that courtâs personal jurisdiction over Respondents.
+
+This Consent Order and the accompanying Stipulation contain the complete
+agreement between the parties. The parties have made no promises,
+representations, or warranties other than what is contained in this Consent
+Order and the accompanying Stipulation. This Consent Order and the
+accompanying Stipulation supersede any prior oral or written
+communications, discussions, or understandings.
+
+Nothing in this Consent Order or the accompanying Stipulation may be
+construed as allowing Respondents or their Board, officers, or employees to
+
+violate any law, rule, or regulation.
+
+IT IS SO ORDERED, thisÂ¢7 day of August, 2020.
+
+i
+
+2
+>
+
+ 
+
+ 
+
+Director
+Bureau of Consumer Financial Protection
+
+35

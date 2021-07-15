@@ -1,3 +1,6 @@
+from legal_doc_processing import logger
+
+
 def predict_extracted_authorities(press_obj: dict, legal_obj: dict) -> list:
     """ """
 

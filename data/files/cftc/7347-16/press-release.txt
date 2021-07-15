@@ -1,0 +1,45 @@
+Release Number 7347-16
+
+ 
+
+March 23, 2016
+
+CFTC Orders JPMorgan Ventures Energy Corp. and JPMorgan Chase Bank, N.A. to Paya
+$225,000 Penalty for Inaccurate Large Trader Reports for Physical Commodity Swaps
+Positions
+
+Washington - The U.S. Commodity Futures Trading Commission (CFTC) today issued an Order filing and simultaneously
+settling charges against JPMorgan Ventures Energy Corp. (JPMVE) and JPMorgan Chase Bank, N.A. (JPMCB)
+(collectively, Respondents), for failing to comply with their obligations to submit accurate large trader reports (LTRs) for
+physical commodity swap positions, in violation of Section 4s(f) of the Commodity Exchange Act (CEA) and CFTC
+Regulations 20.4 and 20.7.
+
+The CFTC Order requires the Respondents to pay, jointly and severally, a $225,000 civil monetary penalty and to cease
+and desist from committing further violations of the CEA and CFTC Regulations, as charged.
+
+As stated in the Order, large trader reporting for physical commodity swaps is essential to the CFTCâs ability to conduct
+effective surveillance of markets in U.S. physical commodity futures and economically equivalent swaps. The Order
+makes clear that as of March 1, 2013, swap dealers required to submit LTRs are expected to be in full compliance with
+the requirements governing LTRs set forth in Regulations 20.4 and 20.7, in conjunction with further instructions provided
+in the CFTCâs Division of Market Oversight Part 20 Guidebook.
+
+The Order finds that during the period from at least March 1, 2013 through April 30, 2014, the Respondents filed LTRs
+that routinely contained errors. The Order finds that these errors included: (1) reporting the underlying commodity,
+futures equivalent months, and currency value strike price in the wrong data fields; (2) reporting futures contract
+equivalents, commodity units, and notional values that were incorrect or missing; (3) providing identifying information for
+principals that attributed positions to the wrong entities; and (4) incorrectly reporting counterparty names. In addition,
+the Order finds that the Respondents failed to submit LTRs on two days.
+
+As noted in the Order, the Respondents have made modifications to their data processing and reporting systems as
+necessary to comply with their LTR reporting requirements, have corrected errors as they were identified, and have
+submitted corrected historical LTRs.
+
+CFTC Division of Market Oversight staff members responsible for this matter are Matthew Hunter, Kenneth Danger, and
+Lynn Riggs. CFTC Division of Enforcement staff members responsible for this matter are Christopher Reed, Stephen
+Turley, Michael Solinsky, Thomas Simek, and Charles D. Marvine.
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: March 23, 2016

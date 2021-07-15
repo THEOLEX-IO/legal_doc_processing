@@ -1,0 +1,958 @@
+2020-BCFP-0028 Documentâ Filed 12/30/2020 Page 1 of 26
+
+UNITED STATES OF AMERICA
+BUREAU OF CONSUMER FINANCIAL PROTECTION
+
+ADMINISTRATIVE PROCEEDING
+File No. 2020-BCFP-0028
+
+ 
+
+In the Matter of:
+
+CONSENT ORDER
+
+Omni Financial of Nevada, Inc., also
+doing business as Omni Financial
+and Omni Military Loans
+
+ 
+
+ 
+
+The Bureau of Consumer Financial Protection (Bureau) has reviewed the
+loan-origination activities of Omni Financial of Nevada, Inc., d/b/a Omni Financial
+and Omni Military Loans (Omni or Respondent, as defined below) and has
+identified the following law violations: conditioning loans to servicemembers on
+repayment by allotment, in violation of the Military Lending Act (MLA), 10
+U.S.C. Â§ 987(e)(6), and conditioning loans on repayment by preauthorized
+electronic fund transfers, in violation of the Electronic Fund Transfers Act (EFTA),
+15 U.S.C. Â§ 1693k(1), and the Consumer Financial Protection Act (CFPA), 12
+U.S.C. Â§ 5536(a)(1 (A). Under Â§Â§ 1053 and 1055 of the CFPA, 12 U.S.C. Â§$Â§ 5563,
+
+5565, the Bureau issues this Consent Order (Consent Order).
+Jurisdiction
+The Bureau has jurisdiction over this matter under the CFPA, 12 U.S.C.
+Â§Â§ 5563 and 5565; EFTA, 15 U.S.C. Â§ 16930, the MLA, 10 U.S.C.
+Â§ 987(f)(6), and the Truth In Lending Act, 15 U.S.C. Â§ 1607(a)(6).
+I.
+Stipulation
+Respondent has executed a âStipulation and Consent to the Issuance of a
+Consent Order,â dated December 21, 2020 (Stipulation), which is
+incorporated by reference and is accepted by the Bureau. By this
+Stipulation, Omni has consented to the issuance of this Consent Order by
+the Bureau under $8 1053 and 1055 of the CFPA, 12 U.S.C. Â§Â§ 5563, 5565,
+without admitting or denying any of the findings of fact or conclusions of
+law, except that Omni admits the facts necessary to establish the Bureauâs
+jurisdiction over Omni and the subject matter of this action.
+HI.
+Definitions
+The following definitions apply to this Consent Order:
+a. âAffected Consumersâ includes consumers who obtained loans from
+
+Omni during the Relevant Period, who qualified as Covered Members at
+NPN PEEP ON
+SOOO REE AHO.
+PT RS AL AS
+
+athe A A
+
+2 PAN EPI al
+Rita TePROAlaaery D>
+POR A Pa a oa
+
+Pe
+sae
+
+wo}
+oD
+ad
+very,
+re
+oy
+
+the time that they took out a loan from Omni, and whose loan repayment
+method at the point of origination was allotment.
+
+b. âBoardâ means Omniâs duly-elected and acting Board of Directors.
+
+c. âClearly and Prominentlyâ means:
+
+i. in textual communications, the disclosure must be of a type size
+and location sufficiently noticeable for an ordinary consumer to
+read and comprehend it, in print that contrasts with the background
+on which it appears, and disclosed in a manner that would be easily
+recognizable and understandable in language and syntax to an
+ordinary consumer;
+
+li. in communications disseminated orally or through audible means,
+the disclosure must be delivered in a volume and cadence
+sufficient for an ordinary consumer to hear and comprehend it.
+
+d. âCovered Memberâ is synonymous in meaning and equal in scope to the
+definition of the term, as of the Effective Date, provided in 10 U.S.C.
+Â§ 987(1)(1), and includes a member of the armed forces who is:
+i. On active duty under a call or order that does not specify a
+period of 30 days or less; or
+
+ii. On active Guard and Reserve Duty.
+AAA PPR, Am
+PORWR CE BLOG.
+in bad Be KP nd Nt :
+
+ted
+ms
+i
+2
+of
+wt
+rd
+Cae
+co
+oy
+Bh
+ot
+Le
+i
+at
+wi
+
+e. âEffective Dateâ means the date on which the Consent Order is entered
+on the administrative docket.
+
+f. âEnforcement Directorâ means the Assistant Director of the Office of
+Enforcement for the Bureau of Consumer Financial Protection, or his or
+her delegate.
+
+g. âOmniâ or âRespondentâ means Omni Financial of Nevada, Inc..,
+including Omni Financial and Omni Military Loans, and its successors
+and assigns.
+
+h. âRelated Consumer Actionâ means a private action by or on behalf of
+one or more consumers or an enforcement action by another
+governmental agency brought against Omni based on substantially the
+same facts as described in Â§ IV of this Consent Order.
+
+i. âRelevant Periodâ includes from October 3, 2016, to the Effective Date.
+
+IV.
+
+Bureau Findings and Conclusions
+
+The Bureau finds the following:
+
+Omni is an installment lender that is incorporated in Nevada and has its
+principal place of business in Las Vegas. It operates using the trade names
+Omni Financial and Omni Military Loans, and it specializes in lending to
+
+consumers affiliated with the military. Its loans typically range from $500 to
+$10,000 over a typical term of between 6 and 36 months. Omni originates
+tens of thousands of loans each year.
+Because Omni originates installment loans for personal or household use, it
+is a âcovered personâ under the CPFA; 12 U.S.C. Â§ 5481(5), (6), (7), &
+(15)(A)G); and Omniâs loans are a âconsumer financial product or service.â
+12 U.S.C. Â§ 5481(5), (7), (15)(A)G).
+
+Findings and Conclusions as to Omniâs Allotment Practices
+In 2006, Congress amended Title 10 to add a new section commonly
+referred to as the Military Lending Act, which provides consumer
+protections for servicemembers. John Warner National Defense
+Authorization Act for Fiscal Year 2007, Pub. L. No. 109-364, Â§ 670(a), 120
+Stat 2083 (codified at 10 U.S.C. Â§ 987).
+Among these protections, the MLA makes it illegal for a creditor, such as
+Omni during the Relevant Period, to extend consumer credit to Covered
+Members or their dependents if the creditor requires them to repay by
+allotment. 10 U.S.C. Â§ 987(e)(6).
+About 90% of Omniâs loans are extended to Covered Members, as that term
+is defined in 10 U.S.C. Â§ 987(4)(1).
+The allotment system is run by the Department of Defense and dates back to
+
+the days before automatic bill-pay and internet banking. The system allows a
+10.
+
+II.
+
+12.
+
+13.
+
+AAA Peer ANN
+PHO REE BOGOR
+fn ka ae LP :
+
+nae!
+wat
+Wf
+%
+2
+athe
+âP
+CaS
+ine
+ne
+es
+Cn
+Pn
+â,
+ad
+
+servicemember to designate a portion of each paycheck to certain recipients
+
+other than the servicemember. The allotment system was intended to help
+ensure that servicemembers could pay their obligations while they were
+deployed or otherwise unavailable to handle personal finances. Over the
+years, this has become less necessary as technology has made it easier to
+make payments automatically or remotely.
+
+When active-duty servicemembers and active-duty Guard or Reserve
+Members who are Covered Members apply for loans from Omni, Omni
+employees tell the Covered Members that in order to get the loan they must
+repay by allotment.
+
+99% of active-duty servicemembers and active-duty Guard or Reserve
+members who are Covered Members and who get loans from Omni repay
+their loans by allotment.
+
+Omni has benefited from this practice because the allotment system helps
+guarantee payment on unsecured loans, meaning that borrowers who repay
+by allotment have lower delinquency and default rates. And Affected
+Consumers have been harmed in the amount of interest and fees paid
+because they were wrongfully deprived of the option to pay by means
+other than allotment.
+
+Therefore, Omni violated the MLA. 10 U.S.C. Â§ 987(e)(6).
+14.
+
+15.
+
+16.
+
+17.
+
+AAA PPR, Am
+PORWR CE BLOG.
+in bad Be KP nd Nt :
+
+ted
+ms
+i
+2
+of
+wt
+rd
+Cae
+co
+oy
+Bh
+ot
+Le
+i
+at
+
+Findings and Conclusions as to
+Omniâs Preauthorized Electronic Fund Transfers Practices
+
+Omni also lends to civilians and non-covered servicemembers, such as
+
+military retirees, some of whom do not have access to the allotment system.
+
+Omni often permits these borrowers to pay by check, cash, credit card, or
+ACH, among other means.
+
+Regardless of the repayment method selected by the borrower, Omni
+requires every borrower to provide bank account and routing information.
+And each consumer must sign a contract that authorizes Omni to initiate an
+electronic-fund transfer from the identified bank account on the scheduled
+payment date in the event of a payment default under the primary payment
+method. Under the contract, Omni is authorized to initiate an electronic-
+fund transfer on the first business day after the due date of a payment that
+has been missed.
+
+EFTA states that no person may condition an extension of credit on a
+consumerâs agreement to repay by a preauthorized electronic-fund transfer.
+15 U.S.C. Â§ 1693k(1).
+
+The terms in Omniâs contracts constitute preauthorized electronic-fund
+transfers because they authorize in advance an electronic-fund transfer to
+occur at substantially regular intervals (i.e., the first business day after a
+
+missed payment and each successive payment thereafter until the borrower
+
+7
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+AARAAR PRR AAs ~ ; x ee IRA mo ~ of
+SOOO REE EAA Maciimant 4 Sian TOPRAPS AON Dara B et 3
+oe Ae ee OU ALN hath. APiGeSP gL F PPS ob eke as PoC GMa
+
+Â¥
+oF
+
+makes a payment by another means). 15 U.S.C. Â§ 1693a(1).
+
+Therefore, Omni violated EFTA. 15 U.S.C. Â§ 1693k(1).
+
+Section 1036(a)(1)(A) of the CFPA prohibits covered persons from offering
+or providing a consumer-financial product or service that is not in
+conformity with Federal consumer-financial law. 12 U.S.C. Â§5536(a)(1)(A).
+EFTA is a Federal consumer-financial law. 12 U.S.C. Â§ 5481(12)(C), (14).
+Omniâs loans were not offered or provided in conformity with EFTA, as
+described above.
+Therefore, Omni violated the CFPA. 12 U.S.C. Â§ 5536(a)(1)(A).
+
+CONDUCT PROVISIONS
+
+V.
+
+IT IS ORDERED, under Â§Â§ 1053 and 1055 of the CFPA, that:
+Omni and its officers, agents, servants, employees, and attorneys who have
+actual notice of this Consent Order, whether acting directly or indirectly,
+may not violate: 10 U.S.C. Â§ 987(e), including by conditioning a loan to a
+borrower who is a Covered Member under the MLA on that Covered
+Memberâs agreement to repay by allotment; or 15 U.S.C. Â§ 1693k(1) by
+conditioning any loan on a borrowerâs agreement to repay by preauthorized
+
+electronic fund transfer.
+
+Within 30 days of receiving notice of the Enforcement Directorâs
+25.
+
+AAA PPR, Am
+PHO REE BOGOR
+fe A ge LP hd Ne
+
+ted
+ms
+i
+2
+of
+wt
+rd
+Cae
+co
+oy
+Bh
+ot
+Le
+i
+at
+wi
+
+nonobjection to the Compliance Plan, Omni must contact in writing,
+
+which may be electronic, each borrower who has a loan with an
+
+outstanding balance and who, as of the Effective Date, is repaying his or
+
+her loan by allotment, and Clearly and Prominently:
+
+a. inform the borrower of this Consent Order and provide a summary of the
+Bureauâs findings and conclusions;
+
+b. inform the borrower that the borrower may choose to repay his or her
+loan using a different repayment method;
+
+c. list all repayment methods available to the borrower; and
+
+d. provide a method by which the borrower may elect an alternative
+repayment option.
+
+Omni and its officers, agents, servants, employees, and attorneys who have
+
+actual notice of this Consent Order, whether acting directly or indirectly,
+
+may not make any representation or statement, or take any other action that
+
+interferes with, detracts from, contradicts, or otherwise undermines the
+
+communications required under this Paragraph. Omni shall include no other
+
+materials with the notice unless Omni has obtained written confirmation
+
+from the Enforcement Director that the Bureau does not object to the
+
+inclusion of such materials.
+
+After the occurrence of all events specified in 9 31-32, Omni and its
+26.
+
+27.
+
+officers, agents, servants, employees, and attorneys who have actual notice
+of this Consent Order, whether acting directly or indirectly, may not draft
+the bank account of a borrower who has an outstanding loan as of the
+Effective Date (unless the borrower has, as of the Effective Date, elected to
+repay the loan by EFT as the borrowerâs primary repayment method) unless
+Omni obtains a new authorization to draft that borrowerâs bank account. The
+new authorization must be in writing, which may be electronic, and signed
+by the consumer. Omni must Clearly and Prominently disclose to the
+consumer that the authorization is optional.
+
+For loans made after the occurrence of all events specified in 4 31-32,
+Omni and its officers, agents, servants, employees, and attorneys who have
+actual notice of this Consent Order, whether acting directly or indirectly,
+may not accept a payment by allotment without first obtaining authorization
+that is signed by the consumer to repay by allotment. Such authorization,
+which may be electronic, must be in a document that is separate from the
+loan contract document and any other document and must Clearly and
+Prominently disclose to the consumer that repayment by allotment is
+optional and that the consumer may change his or her repayment method at
+any time.
+
+Within 30 days of the Effective Date and at least annually thereafter, Omni
+
+10
+28.
+
+29.
+
+must provide a training to each employee involved in loan origination. Such
+training must inform the employee that no consumer is required to repay his
+
+or her loan by allotment.
+
+Omni and its officers, agents, servants, employees, and attorneys who have
+actual notice of this Consent Order, whether acting directly or indirectly,
+may not:
+
+a. take any action to incentivize Omniâs employees, contractors, or other
+agents to obtain authorizations from consumers to repay loans by
+allotment; or
+
+b. consider the number or rate of consumers that have elected to repay their
+loans by allotment (or any proxy thereof) when evaluating the
+performance of any employee, contractor, or other agent.
+
+Beginning no later than 30 days of the Effective Date, Omni must provide
+
+each consumer with a written statement, which may be electronic, for
+
+each billing cycle, within a reasonably prompt time after the payment due
+
+date, that Clearly and Prominently contains at least the following:
+
+a. loan balance;
+
+b. the total of all payments received since the last statement;
+
+c. the total of all payments received since the beginning of the calendar
+
+year;
+
+1]
+30.
+
+31.
+
+d. the amount due for the next payment; and
+
+e. any fees assessed.
+VI.
+
+Compliance Plan
+
+IT IS FURTHER ORDERED that:
+
+Within 30 days of the Effective Date, Omni must submit to the Enforcement
+
+Director for review and determination of non-objection a comprehensive
+
+compliance plan designed to ensure that Omniâs repayment-selection
+
+practices comply with all applicable Federal consumer financial laws, the
+
+MLA, and the terms of this Consent Order (Compliance Plan). The
+
+Compliance Plan must include, at a minimum:
+
+a. detailed steps for addressing each action required by this Consent Order;
+
+b. draft communications required under Â§ 24 and information about their
+dissemination;
+
+c. draft authorizations referred to in 9Â§ 25 and 26 and information about their
+dissemination; and
+
+d. specific timeframes and deadlines for implementation of the steps
+described above.
+
+The Enforcement Director will have the discretion to make a
+
+determination of non-objection to the Compliance Plan or direct Omni to
+
+revise it. If the Enforcement Director directs Omni to revise the
+12
+32.
+
+33.
+
+34.
+
+35.
+
+Compliance Plan, Omni must revise and resubmit the Compliance Plan to
+
+the Enforcement Director within 15 days.
+
+After receiving notification that the Enforcement Director has madea
+determination of non-objection to the Compliance Plan, Omni must
+implement and adhere to the steps, recommendations, deadlines, and
+timeframes outlined in the Compliance Plan.
+VIL.
+
+Role of the Board
+IT IS FURTHER ORDERED that:
+The Board must review all submissions (including plans, reports, programs,
+policies, and procedures) required by this Consent Order before submission
+to the Bureau.
+Although this Consent Order requires Omni to submit certain documents for
+review or non-objection by the Enforcement Director, the Board will have
+the ultimate responsibility for proper and sound management of Omni and
+for ensuring that Omni complies with the laws that the Bureau enforces,
+including Federal consumer financial laws, the MLA, and this Consent
+Order.
+In each instance that this Consent Order requires the Board to ensure
+
+adherence to the Consent Order, or perform certain obligations of Omni, the
+
+13
+36.
+
+37.
+
+38.
+
+Board must:
+
+a. authorize whatever actions are necessary for Omni to fully comply with
+the Consent Order;
+
+b. require timely reporting by management to the Board on the status of
+compliance obligations; and
+
+c. Require timely and appropriate corrective action to remedy any material
+non-compliance with any failures to comply with Omni directives related
+to this Section.
+
+MONETARY PROVISIONS
+VI.
+
+Order to Pay Civil Money Penalty
+
+IT IS FURTHER ORDERED that:
+
+Under Â§ 1055(c) of the CFPA, 12 U.S.C. Â§ 5565(c), by reason of the
+violations of law described in Â§ IV of this Consent Order, and taking into
+account the factors in 12 U.S.C. Â§ 5565(c)(3), Omni must pay a civil money
+penalty of $2,175,000 to the Bureau.
+
+Within 10 days of the Effective Date, Omni must pay the civil money
+penalty by wire transfer to the Bureau or to the Bureauâs agent in
+compliance with the Bureauâs wiring instructions.
+
+The civil money penalty paid under this Consent Order will be deposited in
+
+14
+39.
+
+40.
+
+the Civil Penalty Fund of the Bureau as required by Â§ 1017(d) of the CFPA,
+
+12 U.S.C. Â§ 5497(d).
+
+Omni, for all purposes, must treat the civil money penalty paid under this
+Consent Order as a penalty paid to the government. Regardless of how the
+Bureau ultimately uses those funds, Omni may not:
+a. claim, assert, or apply for a tax deduction, tax credit, or any other tax
+benefit for any civil money penalty paid under this Consent Order; or
+b. seek or accept, directly or indirectly, retmbursement or indemnification
+from any source, including but not limited to payment made under any
+insurance policy, with regard to any civil money penalty paid under this
+Consent Order.
+To preserve the deterrent effect of the civil money penalty in any Related
+Consumer Action, Omni may not argue that Omni is entitled to, nor may
+Omni benefit by, any offset or reduction of any compensatory monetary
+remedies imposed in the Related Consumer Action because of the civil
+money penalty paid in this action or because of any payment that the Bureau
+makes from the Civil Penalty Fund. If the court in any Related Consumer
+Action offsets or otherwise reduces the amount of compensatory monetary
+remedies imposed against Omni based on the civil money penalty paid in
+
+this action or based on any payment that the Bureau makes from the Civil
+
+15
+Al.
+
+42.
+
+43.
+
+44,
+
+Penalty Fund, Omni must, within 30 days after entry of a final order granting
+
+such offset or reduction, notify the Bureau, and pay the amount of the offset
+
+or reduction to the U.S. Treasury. Such a payment will not be considered an
+additional civil money penalty and will not change the amount of the civil
+money penalty imposed in this action.
+
+IX.
+
+Additional Monetary Provisions
+
+IT IS FURTHER ORDERED that:
+In the event of any default on Omniâs obligations to make payment under
+this Consent Order, interest, computed under 28 U.S.C. Â§ 1961, as amended,
+will accrue on any outstanding amounts not paid from the date of default to
+the date of payment, and will immediately become due and payable.
+Omni relinquishes all dominion, control, and title to the funds paid to the
+fullest extent permitted by law and no part of the funds may be returned to
+Omni.
+Under 31 U.S.C. Â§ 7701, Omni, unless it already has done so, must furnish
+to the Bureau its taxpayer-identification numbers, which may be used for
+purposes of collecting and reporting on any delinquent amount arising out of
+this Consent Order.
+
+Within 30 days of the entry of a final judgment, consent order, or settlement
+
+16
+45.
+
+46.
+
+in a Related Consumer Action, Omni must notify the Enforcement Director
+
+of the final judgment, consent order, or settlement in writing. That
+
+notification must indicate the amount of redress, if any, that Omni paid or is
+required to pay to consumers and describe the consumers or classes of
+consumers to whom that redress has been or will be paid.
+COMPLIANCE PROVISIONS
+X.
+Reporting Requirements
+IT IS FURTHER ORDERED that:
+Omni must notify the Bureau of any development that may affect
+compliance obligations arising under this Consent Order, including but not
+limited to a dissolution, assignment, sale, merger, or other action that would
+result in the emergence of a successor company; the creation or dissolution
+of a subsidiary, parent, or affiliate that engages in any acts or practices
+subject to this Consent Order; the filing of any bankruptcy or insolvency
+proceeding by or against Omni; or a change in Omniâs name or address.
+Omni must provide this notice, if practicable, at least 30 days before the
+development, but in any case no later than 14 days after the development.
+Within seven days of the Effective Date, Omni must:
+
+a. designate at least one telephone number and email, physical, and postal
+
+17
+47.
+
+48.
+
+addresses as points of contact that the Bureau may use to communicate
+
+with Omni;
+
+identify all businesses for which Omni is the majority owner, or that
+Omni directly or indirectly controls, by all of their names, telephone
+numbers, and physical, postal, email, and Internet addresses; and
+describe the activities of each such business, including the products and
+
+services offered, and the means of advertising, marketing, and sales.
+
+Omni must report any change in the information required to be submitted
+
+under 4 46 at least 30 days before the change or as soon as practicable after
+
+the learning about the change, whichever is sooner.
+
+Within 90 days of the Effective Date, and again one year after receiving
+
+notice of non-objection to the Compliance Plan, Omni must submit to the
+
+Enforcement Director an accurate written compliance progress report
+
+(Compliance Report) that has been approved by the Board, sworn to under
+
+penalty of perjury, which, at a minimum:
+
+a.
+
+lists each applicable paragraph and subparagraph of the Order and
+describes in detail the manner and form in which Omni has complied
+with each such paragraph and subparagraph of the Consent Order;
+describes in detail the manner and form in which Omni has complied
+
+with the Compliance Plan; and
+
+18
+49.
+
+50.
+
+SI.
+
+52.
+
+c. attaches a copy of each Order Acknowledgment obtained under Â§ XI,
+
+unless previously submitted to the Bureau.
+
+XI.
+Order Distribution and Acknowledgment
+
+IT IS FURTHER ORDERED that:
+Within seven days of the Effective Date, Omni must submit to the
+Enforcement Director an acknowledgment of receipt of this Consent Order,
+sworn under penalty of perjury.
+Within 30 days of the Effective Date, Omni must deliver a copy of this
+Consent Order to each of its Board members and executive officers, as well
+as to any managers, employees, service providers, or other agents and
+representatives who have responsibilities related to the subject matter of the
+Consent Order.
+For five years from the Effective Date, Omni must deliver a copy of this
+Consent Order to any business entity resulting from any change in structure
+referred to in Â§ X, any future Board members and executive officers, as well
+as to any managers, employees, service providers, or other agents and
+representatives who will have responsibilities related to the subject matter of
+the Consent Order before they assume their responsibilities.
+
+Omni must secure a signed and dated statement acknowledging receipt of a
+
+19
+53.
+
+54.
+
+copy of this Consent Order, ensuring that any electronic signatures comply
+
+with the requirements of the E-Sign Act, 15 U.S.C. $$ 7001-7006, within 30
+
+days of delivery, from all persons receiving a copy of this Consent Order
+
+under this Section.
+
+Within 90 days of the Effective Date, Omni must provide the Bureau witha
+
+list of all persons and their titles to whom this Consent Order was delivered
+
+through that date under 9Â§ 50-51 and a copy of all signed and dated
+
+statements acknowledging receipt of this Consent Order under Â§ 52.
+
+XII.
+Recordkeeping
+
+IT IS FURTHER ORDERED that:
+
+Omni must create and retain the following business records:
+
+a. all documents and records necessary to demonstrate full compliance with
+each provision of this Consent Order, including all submissions to the
+Bureau;
+
+b. all documents and records necessary to demonstrate any borrowerâs
+military status at the time of loan application and the repayment method
+selected by each borrower;
+
+c. all consumer complaints and refund requests (whether received directly
+
+or indirectly, such as through a third party), and any responses to those
+
+20
+55.
+
+56.
+
+complaints or requests; and
+
+d. records showing, for each employee who assists consumers with applying
+
+for or closing loans, that personâs name, telephone number, email,
+physical, and postal address, job title or position, dates of service, and, if
+applicable, the reason for termination.
+Omni must make the documents identified in Â§ 54 available to the Bureau
+upon the Bureauâs request
+XII.
+Notices
+IT IS FURTHER ORDERED that:
+Unless otherwise directed in writing by the Bureau, Omni must provide all
+submissions, requests, communications, or other documents relating to this
+Consent Order in writing, with the subject line, â/n re Omni Financial, File
+No. 2020-BCFP-0028,â and send them by overnight courier or first-class
+mail to the below address and contemporaneously by email to
+Enforcement_ Compliance@cfpb.gov:
+Assistant Director for Enforcement
+Bureau of Consumer Financial Protection
+ATTENTION: Office of Enforcement
+
+1700 G Street, N.W.
+Washington D.C. 20552.
+
+21
+57.
+
+58.
+
+59.
+
+XIV.
+
+Cooperation with the Bureau
+
+IT IS FURTHER ORDERED that:
+
+Omni must cooperate fully to help the Bureau determine the identity and
+location of, and the amount of injury sustained by, each Affected Consumer.
+Omni must provide such information tn its or its agentsâ possession or
+
+control within 14 days of receiving a written request from the Bureau.
+
+XV.
+
+Compliance Monitoring
+IT IS FURTHER ORDERED that:
+Within 14 days of receipt of a written request from the Bureau, Omni must
+submit additional Compliance Reports or other requested information, which
+must be made under penalty of perjury; provide sworn testimony; or
+produce documents.
+Respondent must permit Bureau representatives to interview about the
+requirements of this Consent Order and Omniâs compliance with those
+requirements any employee or other person affiliated with Omni who has
+agreed to such an interview. The person interviewed may have counsel
+
+present.
+
+22
+60. Nothing in this Consent Order will limit the Bureauâs lawful use of civil
+investigative demands under 12 C.F.R. Â§ 1080.6 or other compulsory
+process.
+
+XVI.
+Modifications to Non-Material Requirements
+IT IS FURTHER ORDERED that:
+
+61. Omni may seek a modification to non-material requirements of this Consent
+Order (e.g., reasonable extensions of time and changes to reporting
+requirements) by submitting a written request to the Enforcement Director.
+
+62. The Enforcement Director may, in his or her discretion, modify any non-
+material requirements of this Consent Order (e.g., reasonable extensions of
+time and changes to reporting requirements) if he or she determines good
+cause justifies the modification. Any such modification by the Enforcement
+Director must be in writing.
+
+ADMINISTRATIVE PROVISIONS
+XVII.
+IT IS FURTHER ORDERED that:
+
+63. The provisions of this Consent Order do not bar, estop, or otherwise prevent
+
+the Bureau from taking any other action against Omni, except as described
+
+in Â¥ 64. Further, for the avoidance of doubt, the provisions of this Consent
+
+23
+64.
+
+65.
+
+66.
+
+Order do not bar, estop, or otherwise prevent any other person or
+governmental agency from taking any action against Omni.
+
+The Bureau releases and discharges Omni from all potential liability for law
+violations that the Bureau has or might have asserted based on the practices
+described in Â§ IV of this Consent Order, to the extent such practices
+occurred before the Effective Date and the Bureau knows about them as of
+the Effective Date. The Bureau may use the practices described in this
+Consent Order in future enforcement actions against Omni and its affiliates,
+including, without limitation, to establish a pattern or practice of violations
+or the continuation of a pattern or practice of violations or to calculate the
+amount of any penalty. This release does not preclude or affect any right of
+the Bureau to determine and ensure compliance with the Consent Order, or
+to seek penalties for any violations of the Consent Order.
+
+This Consent Order is intended to be, and will be construed as, a final
+Consent Order issued under Â§ 1053 of the CFPA, 12 U.S.C. Â§ 5563, and
+expressly does not form, and may not be construed to form, a contract
+binding the Bureau or the United States.
+
+This Consent Order will terminate five years from the Effective Date or five
+years from the most recent date that the Bureau initiates an action alleging
+
+any violation of the Consent Order by Omni. If such action is dismissed or
+
+24
+67.
+
+68.
+
+69.
+
+the relevant adjudicative body rules that Omni did not violate any provision
+of the Consent Order, and the dismissal or ruling is either not appealed or
+upheld on appeal, then the Consent Order will terminate as though the action
+had never been filed. The Consent Order will remain effective and
+enforceable until such time, except to the extent that any provisions of this
+Consent Order have been amended, suspended, waived, or terminated in
+writing by the Bureau or its designated agent.
+
+Calculation of time limitations will run from the Effective Date and be based
+on calendar days, unless otherwise noted.
+
+Should Omni seek to transfer or assign all or part of its operations that are
+subject to this Consent Order, Omni must, as a condition of sale, obtain the
+written agreement of the transferee or assignee to comply with all applicable
+provisions of this Consent Order.
+
+The provisions of this Consent Order will be enforceable by the Bureau. For
+any violation of this Consent Order, the Bureau may impose the maximum
+amount of civil money penalties allowed under Â§1055(c) of the CFPA, 12
+U.S.C. Â§ 5565(c). In connection with any attempt by the Bureau to enforce
+this Consent Order in federal district court, the Bureau may serve Omni
+wherever Omni may be found, and Omni may not contest that courtâs
+
+personal jurisdiction over Omni.
+
+25
+2020-BCFP-0028 Document1 Filed 12/30/2020 Page 26 of 26
+
+70. This Consent Order and the accompanying Stipulation contain the complete
+agreement between the parties. The parties have made no promises,
+representations, or warranties other than what is contained in this Consent
+Order and the accompanying Stipulation. This Consent Order and the
+accompanying Stipulation supersede any prior oral or written
+communications, discussions, or understandings.
+
+71. Nothing in this Consent Order or the accompanying Stipulation may be
+construed as allowing Omni, its Board, officers, or employees to violate any
+
+law, rule, or regulation.
+
+IT IS SO ORDERED, this 28th day of December, 2020.
+
+Ket wth Krowrp
+Kathleen L. Kranitiger
+Director
+
+Bureau of Consumer Financial Protection
+
+ 
+
+26

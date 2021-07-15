@@ -1,0 +1,26 @@
+Release Number 8043-19
+October 1, 2019
+
+CFTC Settles Swaps Reporting Charges Against PNC Bank
+
+Washington, DC — On Monday, September 30, 2019, the CFTC filed and settled charges against PNC Bank, National
+Association (PNC), a provisionally registered swap dealer, for failing to comply with its swap reporting obligations as a
+swap dealer. According to the order, PNC failed to properly report legal entity identifiers (LEls), primary economic terms,
+and continuation data to its swap data repository (SDR); failed to file large trader reports for its physical commodity
+swaps; and failed to timely report certain trades to its SDR. The CFTC order imposes a $300,000 civil monetary penalty
+on PNC, among other sanctions, for these reporting violations.
+
+PNC’s reporting failures were in violations of the reporting requirements of Parts 20, 43, and 45 of the CFTC regulations.
+
+The order recognizes PNC’s self-reporting before it knew the full extent of its violations and its full cooperation with the
+Division of Enforcement, the Division of Swap Dealer and Intermediary Oversight, and the Division of Market Oversight.
+The order also recognizes PNC’s remediation of its swaps reporting issues both on an ongoing basis and with respect to
+historical reports, including transactions no longer on PNC’s books.
+
+Division of Market Oversight staff member Benjamin DeMaria and Division of Swap Dealer and Intermediary Oversight
+staff members Pamela M. Geraghty, Thomas J. Bloom, and Kurt J. Harms assisted in this matter.
+
+The Division of Enforcement staff members responsible for this matter are Trevor Kokal, David C. Newman, Candice
+Aloisi, Lenel Hickson, Jr., and Manal M. Sultan.
+
+-CFTC-

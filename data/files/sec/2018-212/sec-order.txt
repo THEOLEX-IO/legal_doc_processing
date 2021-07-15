@@ -1,0 +1,427 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 84280 / September 25, 2018
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-18839
+
+ 
+
+ 
+
+ 
+
+ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS, PURSUANT TO
+
+SECTION 21C OF THE SECURITIES
+PATRICIO CONTESSE EXCHANGE ACT OF 1934, MAKING
+GONZALEZ, FINDINGS, AND IMPOSING REMEDIAL
+
+SANCTIONS AND A CEASE-AND-DESIST
+Respondent. ORDER
+
+I,
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate and in the
+public interest that public cease-and-desist proceedings be, and hereby are, instituted pursuant to
+Section 21C of the Securities Exchange Act of 1934 (âExchange Actâ), against Patricio Contesse
+Gonzalez (âContesseâ or âRespondentâ).
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferâ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commissionâs jurisdiction over him and the subject matter of these
+proceedings, which are admitted, and except as provided herein in Section V, Respondent consents
+to the entry of this Order Instituting Cease-and-Desist Proceedings, Pursuant to Section 21C of the
+Securities Exchange Act of 1934, Making Findings, and Imposing Remedial Sanctions and a
+Cease-and-Desist Order (âOrderâ), as set forth below.
+
+Hil.
+On the basis of this Order and Respondentâs Offer, the Commission finds' that:
+
+Summary
+
+1. This matter concerns Respondentâs role in causing his employer, Sociedad Quimica
+y Minera de Chile, S.A. (âSQMâ), to violate the books and records and internal accounting control
+provisions of the Foreign Corrupt Practices Act (ââFCPAâ), and his circumvention of internal
+accounting controls, falsification of SQMâs books and records, and misleading of SQMâs
+accountants. While acting as SQMâs CEO, Respondent caused SQM to make approximately US
+$14.75 million in improper payments to Chilean politicians, political candidates, and individuals
+and entities connected to them (collectively, âpolitically exposed personsâ or âPEPsâ). These
+improper payments were made over the course of seven years, from 2008 to 2015. Respondent
+directed and authorized these improper payments to PEPs, based on contracts, invoices, and other
+false documents. Most of the improper payments involved falsified documents submitted to SQM
+on behalf of third-party vendors associated with PEPs who posed as legitimate vendors to SQM
+(âthird-party vendorsâ). Those payments were not supported by documentation that services were
+actually provided to SQM.
+
+2. Respondent caused SQMâs violations of the FCPA. Respondent personally caused
+fictitious contracts with the third-party vendors to be created, and approved the contracts, invoices
+and other documents, so that the improper payments would be inaccurately recorded as legitimate
+business expenses. His conduct caused SQMâs books and records to inaccurately record the
+improper PEP payments as legitimate business expenses. Respondentâs actions also caused
+SQMâs internal accounting controls violations. As CEO, Respondent was responsible for SQMâs
+internal accounting controls, including controls that related to an account through which the
+improper payments were made (the âCEO Accountâ). Those controls were deficient and contained
+material weaknesses. Respondent circumvented those deficient controls to cause SQM to make the
+improper payments to the Chilean PEPs.
+
+3. By falsifying contracts and invoices and submitting documents Respondent knew to
+be false into SQMâs accounting system, and by failing to inform SQMâs accountants about those
+fictitious transactions, Respondent knowingly circumvented SQMâs internal accounting controls
+and violated rules that prohibit falsifying a public companyâs books and records and omitting
+material facts to an accountant in connection with an audit.
+
+4. Respondent signed certifications which were filed with SQMâs Forms 20-F during
+the relevant period. Respondentâs representations in those certifications were false, as described
+below.
+
+ 
+
+! The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any
+
+other person or entity in this or any other proceeding.
+
+2
+Respondent
+
+5. Patricio Contesse Gonzalez is a Chilean citizen and resident. He was SQMâs
+Chief Executive Officer from at least 1990 to March 2015.
+
+Other Relevant Entity
+
+6. Sociedad Quimica y Minera de Chile, S.A., is a multinational mining and
+chemical company headquartered in Santiago, Chile. SQMâs Series B shares, in the form of
+ADSs, have been listed on the NYSE since 1993 and are registered with the Commission
+pursuant to Section 12(b). The company files periodic reports with the Commission as a foreign
+private issuer.
+
+Facts
+A. Background
+
+7. From at least 2008 to 2015, SQM provided discretionary funding to its office of
+the Chief Executive Officer through a designated account, the CEO Account. This account was
+intended for, among other things, travel, publicity, and advisory services for the office of the
+Chief Executive Officer. SQMâs funding of the CEO Account ranged from US $3.3 million in
+2008 to US $5.7 million in 2014.
+
+8. In late 2014 and early 2015, Chilean authorities initiated tax and criminal
+investigations of suspicious payments SQM made to Chilean PEPs. In response to Chilean
+authoritiesâ requests for relevant documents, SQMâs board of directors (the âBoardâ) formed a
+committee to conduct an internal investigation. On March 16, 2015, the Board terminated
+Contesseâs employment contract.
+
+9. On January 13, 2017, the Commission issued a settled order that SQM cease-and-
+desist from violating the books and records and internal control provisions of the FCPA, pay a
+penalty of $15 million, and comply with certain undertakings. Also, on January 13, 2017, the
+Department of Justice and SQM entered into a three-year deferred prosecution agreement (DPA).
+As part of the DPA, SQM admitted its willful and knowing failure to implement a sufficient
+system of internal accounting controls and to violations of the FCPAâs books and records
+provisions. SQM agreed to pay a criminal fine of approximately $15 million and certain
+undertakings.
+
+B. Contesse Used the CEO Account to Effect Improper Payments to PEPs
+
+10. From at least 2008 through 2015, Contesse used the CEO Account to make
+payments to Chilean PEPs totaling at least $14.75 million. These payments were made through
+third-party vendors.
+11. Documents supporting the payments included, among other things, fictitious
+contracts and invoices for nonexistent services initiated by Contesse. For example, utilizing the
+CEO Account, Contesse caused SQM to do the following:
+
+a. SQM paid funds on an invoice for purported âfinancial servicesâ submitted by a
+relative of a Chilean official. In fact, that Chilean officialâs relative had not
+provided any services to SQM but had submitted the invoice in order to provide
+support for a payment by SQM to a Chilean political campaign.
+
+b. SQM paid several invoices submitted by third-party entities connected to a Chilean
+official for purported âcommunications adviceâ from the Chilean officialâs chief of
+staff, and for purported âconsulting servicesâ by a relative of that Chilean official.
+SQM made these payments without receiving any supporting documentation that
+the âcommunications adviceâ or âconsulting servicesâ had ever been provided.
+
+c. An advisor to a Chilean official invoiced SQM for providing engineering and
+statistical services. SQM paid the invoice and booked the payment as having been
+made for such services, when SQM had not received those services from the
+advisor.
+
+d. A relative of a Chilean official submitted a false contract to SQM for consulting
+services in âareas of fertilizing testsâ and received payments from SQM without
+SQM receiving any supporting documentation that those services had been
+provided.
+
+12. Several Chilean officials sought payments from Contesse for not-for-profit
+foundations operated by relatives or with which the Chilean officials were otherwise associated.
+Contesse made these payments without regard to whether they were in accordance with SQMâs
+policies.
+
+C. As CEO, Contesse Was Responsible for SQMâs Internal Accounting Controls and
+Circumvented Them to Make PEP Payments
+
+13. Contesse was the CEO of SQM since before it became a public company in 1993
+and was responsible for the development of SQMâs internal accounting controls at all relevant
+times. Contesse was also ultimately responsible for SQMâs anti-corruption policies and
+procedures. During SQMâs development of the anti-corruption policies and procedures, Contesse
+was regularly briefed and was personally trained on their implementation and use by SQMâs then
+head of Internal Audit.
+
+14. In addition, Contesse served on SQMâs ethics committee and authored the cover
+letter to SQMâs Code of Ethics. The Code of Ethics specifically proscribed improper payments to
+government officials. As CEO of SQM and a member of its ethics committee, Contesse was
+responsible for ensuring that SQMâs internal accounting controls related to the proscription of
+improper PEP payments were effective.
+
+15. As part of managementâs preparations for SQMâs annual Form 20-F filings, the
+companyâs senior and executive officers met on a regular basis throughout the year to assess the
+effectiveness of the internal accounting controls. As CEO, Contesse was involved in establishing
+and assessing these controls.
+
+16. In connection with the improper payments, Contesse circumvented SQMâs internal
+accounting controls. Contesse used the CEO Account to effect the transactions.
+
+D. Contesse Caused SQM to Make Improper Payments and Falsely Record Them
+
+17. Contesse knew how SQM initiated, documented, authorized, and effected corporate
+transactions. He also understood the companyâs restrictive policies related to PEP transactions,
+both in his role as CEO and as a member of SQMâs ethics committee. Nevertheless, he caused
+SQM to make the PEP transactions at issue in this case and, in most instances, instructed others to
+draft the inaccurate documents needed to support and effect the PEP payments.
+
+E. Contesse Failed to Disclose the Improper Payments to SQMâs Internal Audit
+Department
+
+18. Pursuant to SQMâs anti-corruption policies and procedures, SQMâs Internal Audit
+department was to conduct regular audits of certain transactions. Upon discovery that certain high-
+risk transactions identified in an internal audit were initiated by Contesse, the head of Internal
+Audit reviewed the high-risk transactions with Contesse. Contesse failed to inform the head of
+Internal Audit that the transactions were improper.
+
+19. In one instance, Contesse had directed suspicious payments to the spouse of a PEP
+for âcommunications consulting.â When questioned about that transaction, Contesse told the head
+of Internal Audit the payments to the spouse were proper but would cease and that SQM would
+direct payments to a legitimate company providing these services. Despite those statements,
+Contesse caused SQM to continue making improper payments to the PEPâs spouse.
+
+20. In another instance, SQM had been making improper monthly payments for five
+years to the son of a Chilean political party official. Contesse told the head of Internal Audit that
+the contract with PEPâs son had been completed, so no further payments would occur. The head of
+Internal Audit subsequently discovered that the payments to PEPâs son were ongoing and
+instructed SQMâs treasury department to cease payments to him. Those payments ceased, but
+almost immediately thereafter Contesse redirected the PEP payments to the PEPâs aide.
+
+F. Contesse Signed Management Representation Letters to SQMâs Auditor That
+Contained False Information
+21. In connection with audits performed by SQMâs auditor during the relevant period,
+SQM submitted letters that contained representations by management related to the audits
+(Management Representation Letters). As CEO, Contesse was a signatory on SQMâs
+Management Representation Letters.
+
+22. For audits of fiscal years 2012 and 2013, Contesse signed Management
+Representation Letters, dated April 22, 2013 and April 28, 2014, respectively, that contained
+representations to SQMâs auditor which, in light of the improper PEP transactions, made certain
+of those representations by Contesse misleading.
+
+23. For example, the Management Representation Letters submitted to SQMâs auditor
+for fiscal years 2012 and 2013 state, among other things:
+
+a. That SQM management had:
+i. maintained effective internal control over financial reporting;
+ii. disclosed to the auditor all deficiencies in the design or operation over
+financial reporting;
+ii. not identified any deficiencies they believed constituted significant
+deficiencies or material weaknesses in internal control over financial
+reporting; and
+
+b. There had been no violations or possible violations of laws or regulations whose
+effects should be considered for disclosure in the consolidated financial
+statements or as a basis for recording a loss contingency.
+
+G. Contesse Signed False Certifications
+
+24. Rule 13a-14 promulgated under the Exchange Act requires that the chief
+executive officer provide a certification which is included in the filing of Form 20-F for foreign
+private issuers. Through that certification, Contesse was required to make, among others, the
+following representations:
+
+a. Contesse had designed, or caused to be designed SQMâs internal controls over
+financial reporting to provide reasonable assurance of the reliability of SQMâs
+financial reporting and the preparation of its financial statements in accordance with
+generally accepted accounting principles; and
+
+b. Contesse had disclosed to SQMâs auditor all significant deficiencies in the design
+or operation of SQMâs internal control over financial reporting which were
+reasonably likely to adversely affect SQMâs ability to record, process, summarize,
+and report financial information.
+
+25. Contesse signed the certifications related to SQMâs internal control over financial
+reporting during the relevant years of his tenure as CEO. For SQMâs fiscal years 2012 and 2013,
+
+6
+Contesse signed certifications included as exhibits to SQMâs Forms 20-F filed with the
+Commission in April 2013 and 2014.
+
+26. Contesseâs certifications referenced above were false.
+
+H. Contesse Omitted to Disclose the Improper Payments to SQMâs Auditor
+
+27. SQM included audited financial statements in its Forms 20-F filed with the
+Commission during the relevant period.
+
+28. With respect to the audits of those financial statements, SQM provided copies of
+Contesseâs certification to SQMâs auditor.
+
+29. Contesse knew, or should have known, that those certifications would be provided
+to, and relied upon by, SQMâs auditor in connection with their audits of SQMâs financial
+statements and in their evaluation of SQMâs internal accounting controls.
+
+30. In connection with those certifications, Contesse omitted to disclose to SQMâs
+auditor that:
+
+a. He had falsified SQMâs books, records, and accounts by entering, and causing to
+be entered, fictitious transactions to third-party vendors associated with PEPs to
+appear as legitimate business transactions;
+
+b. He had circumvented SQMâs internal accounting controls to effect the improper
+PEP transactions; and
+
+c. That, as amember of SQMâs management with a significant role over SQMâs
+internal control over financial reporting, Contesse had nevertheless caused SQM
+to effect the improper PEP transactions.
+
+Legal Standards and Violations
+
+31. Under Section 21C(a) of the Exchange Act, the Commission may impose a cease-
+and-desist order upon any person who is violating, has violated, or is about to violate any
+provision of the Exchange Act or any rule or regulation thereunder, and upon any other person
+that is, was, or would be a cause of the violation, due to an act or omission the person knew or
+should have known would contribute to such violation.
+
+32. Section 13(b)(2)(A) of the Exchange Act requires every issuer with a class of
+securities registered pursuant to Section 12 of the Exchange Act to make and keep books,
+records, and accounts which, in reasonable detail, accurately and fairly reflect the transactions
+and dispositions of the assets of the issuer.
+33. Section 13(b)(2)(B) of the Exchange Act requires such issuers to, among other
+things, devise and maintain a system of internal accounting controls sufficient to provide
+reasonable assurances that the transactions are (i) executed in accordance with managementâs
+general or specific authorization; (41) recorded as necessary to permit preparation of financial
+statements in conformity with generally accepted accounting principles (âGAAPâ) or any other
+applicable criteria; and (111) recorded as necessary to maintain accountability for assets.
+
+34. As a result of his conduct described above, Respondent caused SQM to violate
+Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act.
+
+35. Section 13(b)(5) of the Exchange Act provides that no person shall knowingly
+circumvent or knowingly fail to implement a system of internal accounting controls or
+knowingly falsify any book, record or account of an issuer described in Section 13(b)(2) of the
+Exchange Act. Exchange Act Rule 13b2-1 prohibits any person from, directly or indirectly,
+falsifying or causing to be falsified any book, record, or account subject to Exchange Act Section
+13(b)(2)(A).
+
+36. Exchange Act Rule 13b2-1 prohibits any person from, directly or indirectly,
+falsifying or causing to be falsified any book record, or account subject to Exchange Act Section
+13(b)(2)(A).
+
+37. By knowingly providing false documents, including fabricated invoices and
+contracts to SQM, and by circumventing SQMâs internal controls over the CEO Account to
+conceal his improper payments to Chilean PEPs, Respondent violated Exchange Act Section
+13(b)(5) and Rule 13b2-1 thereunder.
+
+38. Rule 13b2-2 provides that no officer of an issuer shall directly or indirectly omit
+to state, or cause another to omit to state, any material fact to an accountant in connection with
+any audit or the preparation or filing of any document or report required to be filed with the
+Commission.
+
+39. By signing the false Management Representation Letters and certifications, and
+causing those letters and certifications to be provided to SQMâs accountants in connection with
+their audit of SQM, Respondent violated Exchange Act Rule 13b2-2.
+
+AO. Rule 13a-14 sets forth the requirements for certain reports filed under Section
+13(a) of the Exchange Act, including specified certifications by the principal executive officer of
+the issuer.
+
+41. â_ In his certifications submitted with SQMâs Forms 20-F for fiscal years 2012 and
+2013, Respondent falsely stated that he had evaluated the effectiveness of SQMâs internal
+accounting controls and that any material weaknesses in those controls had been disclosed. By
+signing these false certifications, Respondent violated Exchange Act Rule 13a-14.
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondentâs Offer.
+
+Accordingly, pursuant to Section 21C of the Exchange Act, it is hereby ORDERED that:
+
+A. Respondent cease and desist from committing or causing any violations and any
+future violations of Sections 13(b)(2)(A), 13(b)(2)(B), and 13(b)(5) of the Exchange Act and Rules
+13b2-1,13b2-2, and 13a-14 thereunder.
+
+B. Respondent shall, within 14 days of the entry of this Order, pay a civil money
+penalty in the amount of $125,000 to the Securities and Exchange Commission for transfer to the
+general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). If timely
+payment of a civil money penalty is not made, additional interest shall accrue pursuant to 31
+U.S.C. Â§3717.
+
+Payment must be made in one of the following ways:
+
+(1) Respondent may transmit payment electronically to the Commission, which will
+provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov through
+the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United States
+postal money order, made payable to the Securities and Exchange Commission
+and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying
+Patricio Contesse Gonzalez as a Respondent in these proceedings, and the file number of these
+proceedings; a copy of the cover letter and check or money order must be sent to Daniel J.
+Wadley, Regional Director, Salt Lake City Regional Office, Securities and Exchange Commission,
+351 S. West Temple, Suite 6.100, Salt Lake City, Utah 84101.
+
+C. Amounts ordered to be paid as civil money penalties pursuant to this Order shall be
+treated as penalties paid to the government for all purposes, including all tax purposes. To
+preserve the deterrent effect of the civil penalty, Respondent agrees that in any Related Investor
+Action, he shall not argue that he is entitled to, nor shall he benefit by, offset or reduction of any
+
+9
+award of compensatory damages by the amount of any part of Respondentâs payment of a civil
+penalty in this action (âPenalty Offsetâ). If the court in any Related Investor Action grants such a
+Penalty Offset, Respondent agrees that he shall, within 30 days after entry of a final order granting
+the Penalty Offset, notify the Commissionâs counsel in this action and pay the amount of the
+Penalty Offset to the Securities and Exchange Commission. Such a payment shall not be deemed
+an additional civil penalty and shall not be deemed to change the amount of the civil penalty
+imposed in this proceeding. For purposes of this paragraph, a âRelated Investor Actionâ means a
+private damages action brought against Respondent by or on behalf of one or more investors based
+on substantially the same facts as alleged in the Order instituted by the Commission in this
+proceeding.
+
+V.
+
+It is further Ordered that, solely for purposes of exceptions to discharge set forth in
+Section 523 of the Bankruptcy Code, 11 U.S.C. Â§ 523, the findings in this Order are true and
+admitted by Respondent, and further, any debt for civil penalty or other amounts due by
+Respondent under this Order or any other judgment, order, consent order, decree or settlement
+agreement entered in connection with this proceeding, is a debt for the violation by Respondent
+of the federal securities laws or any regulation or order issued under such laws, as set forth in
+Section 523(a)(19) of the Bankruptcy Code, 11 U.S.C. Â§ 523(a)(19).
+
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+10

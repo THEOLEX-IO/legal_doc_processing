@@ -1,0 +1,669 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 77555 / April 7, 2016
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-17204
+
+ 
+
+ 
+
+ 
+
+ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+SECTION 21C OF THE SECURITIES
+LAS VEGAS SANDS CORP., EXCHANGE ACT OF 1934, MAKING
+FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+I,
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (âExchange Actâ), against Las Vegas Sands Corp. (âLVSC,â âthe
+company,â or âRespondentâ).
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferâ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commissionâs jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (âOrderâ), as set forth below.
+
+Hil.
+
+On the basis of this Order and Respondentâs Offer, the Commission finds that:
+Respondent
+
+1. Las Vegas Sands Corp., based in Las Vegas, Nevada, was incorporated as a
+Nevada corporation in August 2004. LVSC owns and operates integrated resorts and casinos in
+Asia and the United States through a network of subsidiaries. The companyâs common stock is
+registered under Section 12(g) of the Exchange Act, and it is traded on the New York Stock
+Exchange (the âNYSEâ) under the symbol âLVS.â
+
+OTHER RELEVANT ENTITIES
+
+2. Sands China Ltd. (âSCLâ) is an LVSC subsidiary that was incorporated in the
+Cayman Islands in July 2009. Since November 2009, shares of SCL have been traded on the Hong
+Kong Stock Exchange (Stock Code: 1928). LVSC owns 70.1% of the shares.
+
+3. Venetian Macao Ltd. (VML) is an SCL subsidiary through which SCL operates in
+Macao. Prior to the incorporation of SCL, VML was a wholly-owned subsidiary of LVSC.
+
+4. Venetian (Zhuhai Henggin) Hotel Co. Ltd. (âWHQâ), is an LVSC subsidiary that is
+a wholly foreign-owned entity (âWFOEâ) established under Chinese law in February 2007. The
+business scope of VHQ was the construction and development of hotel and ancillary facilities,
+hotel management, and related consulting services.
+
+5. Venetian (Zhuhai) Hotel Marketing Co. Ltd. (âWHM7â), is an LVSC subsidiary that
+is a WFOE established under Chinese law in October 2007. When formed, the business scope of
+VHM was hotel management, marketing, and consulting services for convention and exhibition.
+In March 2008, among other services, ferry services were added to the business scope of VHM.
+
+6. Beijing Asia Travel Alliance Business Consulting Co., Ltd. (âBATAâ), is an
+LVSC subsidiary that is a WFOE established under Chinese law in July 2008. When formed, the
+business scope of BATA was hotel management, corporate image planning, and information
+consulting. In November 2008, its business scope was expanded to include advertising, sports
+agency business, investment management and consulting, financial planning, and property
+management.
+
+Summary
+
+7. This matter concerns the failure of LVSC to devise and maintain a reasonable
+system of internal accounting controls over its operations in the Peopleâs Republic of China
+(âPRCâ or âChinaâââ) and the Macao Special Administrative Region of the Peopleâs Republic of
+China (âMacaoâ) from 2006 through at least 2011. As a result, funds totaling more than $62
+million were transferred to a consultantâ in China over a series of transactions under
+
+ 
+
+' The Consultant, LVSC President and Chief Operating Officer, LVSC President of Asian Development
+
+(formerly Vice-President of Asian Development), LVSC Senior Director of Finance, LVSC CFO, and members of
+the SCL Audit Services Group referred to herein are no longer employed or engaged by the company.
+
+2
+circumstances that frequently lacked supporting documentation or appropriate authorization.
+Moreover, most of the transfers occurred despite knowledge by senior LVSC management that
+they could not account for significant funds previously transferred to the consultant in an
+environment where significant bribery risks were present. This lack of controls impacted other
+transactions, such as gifts and entertainment for foreign officials, employee and vendor expense
+reimbursements, and customer comps. The company also kept inaccurate books and records.
+
+8. As aresult of this conduct, LVSC violated the internal controls and books and
+records provisions of the Foreign Corrupt Practices Act (âFCPAâ).
+
+Background
+
+9. Macao was a Portuguese colony until December 20, 1999, when Portugal
+transferred control of Macao to China. While casino gambling is not legal in China, it is legal in
+Macao. In 2002, the Macao government granted gaming concessions to casino and hotel
+developers.
+
+10. LVSC conducted business in Macao through VML until November 2009, when it
+issued an initial public offering (âIPOâ) for SCL, a public company that is listed on the Hong
+Kong Stock Exchange. Through SCL, LVSC owns and operates casinos, hotels, convention
+facilities, retail space, and a 15,000-seat sports arena in Macao. Until March of 2009, LVSCâs
+operations in Macao and China were overseen by its President and Chief Operating Officer
+(âPresidentâ), who worked in close concert with LVSCâs President of Asian Development.
+
+LVSCâs China Operations
+
+11. In addition to operating in Macao, LVSC also sought to establish operations in
+China. Certain LVSC executives, including its President, were particularly interested in
+development opportunities on Henggin Island, which is part of Zhuhai in southern China and close
+to Macao.
+
+12. To facilitate business development activities in China, LVSC established VHQ,
+VHM and BATA. As WFOEs, these entities are permitted to conduct only business in China that
+fell within their prescribed business scope. LVSC used intercompany transfers to fund the WFOE
+operations but failed to implement a system of internal financial controls over their operations.
+
+13. While the WFOEs were governed according to general articles of association as
+required by Chinese law, the articles of association do not specify accounting policies and
+procedures and none were adopted by the WFOEs when established. In the absence of their own
+policies and procedures, accounting staff at the WFOEs inconsistently applied certain of VMLâs
+accounting policies with regard to their operations.
+
+14. As a gaming company, LVSC was subject to significant restrictions on its ability to
+advertise its casinos or to own assets in China.
+
+15. In 2006, the LVSC President of Asian Development (who was then Vice-President
+of Asian Development) identified a Chinese consultant (âConsultantâ) to assist the company with
+3
+its activities in China. The Consultant claimed to be a former Chinese government official and
+touted his political connections with Chinese government officials as his principle qualification to
+provide assistance to LVSC. With the approval of the LVSC President, the Consultant was hired
+to liaise with governmental bodies, provide advice and assistance with approval processes and to
+serve as an intermediary or âbeardâ to obscure LVSCâs role in certain transactions.
+
+16. The Consultant established numerous business entities in China, which he
+frequently used interchangeably for his interactions with LVSC. In 2007, after the Consultant had
+been engaged and several payments had been made to him, the company conducted due diligence
+on him and three of his business entities. The company did not, however, conduct due diligence on
+at least seven other businesses associated with the Consultant and to which LVSC transferred
+funds.
+
+A. The Basketball Team
+
+17. In early 2007, the LVSC President sought to purchase a professional basketball
+team in China, with the purported purpose being to improve LVSCâs image in China and to bring
+customers to the casinos because the team could play in the Venetian Macaoâs sports arena. The
+team would wear jerseys with an image of a gold lion, which was the symbol of the Venetian
+Macao Casino. As the team could not put the name of a gaming company on the jerseys, the team
+was named âWei Li Xin,â which translates to âgood fortuneâ and sounds like âVenetianâ when
+pronounced in Chinese. No research or marketing analysis was ever done in connection with the
+basketball team.
+
+18. The Chinese Basketball Association (âCBAâ), which falls under the PRC State
+General Administration of Sports (which in turn is organized directly under the State Council of
+the PRC), would not permit a gaming company to own a league team, and thus neither LVSC nor
+its relevant subsidiaries could purchase a team. Instead, the Consultant was used as a âbeardâ to
+buy the team, and the company entered into what was ostensibly a sponsorship agreement for the
+team.
+
+19. The Consultant established an entity called Shenzhen Wei Li Xin to purchase and
+own the team. In March 2007, an LVSC subsidiary entered into a promissory note agreement with
+a separate entity associated with the Consultant. Subsequently, approximately $6,072,400 was
+transferred from the VHQ WFOE to Shenzhen Wei Li Xin, though neither entity was a party to the
+promissory note agreement.
+
+20. In September 2007, an LVSC Senior Director of Finance (who also served as a
+VML Director of Finance) raised concerns about the basketball transaction to the CFO of LVSC.
+Of particular concern was the repeated transfer of funds to the Consultant without any supporting
+documentation for the teamâs need for or use of the funds. The LVSC Senior Director of Finance
+had also learned from a former employee of the Consultant that the Consultant had used LVSC
+funds to make a payment to a senior CBA official in connection with the Wei Li Xin team.
+
+21. While the CFO instructed the Senior Director of Finance to conduct financial due
+diligence on the team, including a review of the teamâs books and its playersâ contracts, the
+
+4
+Consultant would not permit an on-site review. Instead, the Consultant had another of his
+employees pretend that he worked for the team and present a handwritten list of the teamâs
+expenses, which the LVSC Senior Director of Finance found to be facially unreliable. Within
+months, the President of LVSC arranged to have the LVSC Senior Director of Finance placed on
+administrative leave and eventually terminated. Meanwhile, the LVSC President approved the
+ongoing payments to the Consultant, which were made through the VHQ and VHM WFOEs.
+
+22. Referencing his concerns about the fact that the promissory agreement was with an
+entity that was different than the entity that received LVSC funds, the inability of LVSC to track
+the funds that it had transferred to the Consultant, and the lack of recourse should the Consultant
+fail to purchase the team, the CFO wrote in October 2007, âMy ... concern is how to deal with this
+from a Sarbanes-Oxley perspective. The manner in which this has transpired is not indicative of a
+sound control environment. This will be exacerbated by any write-off we would have to take as
+that will call into question our ability to safeguard assets.â
+
+23. Due to lack of accountability of funds provided to the Consultant, in late 2007 the
+company engaged an international accounting firm (âthe firmâ) to review the basketball
+transaction. When the firm was instructed to cease its investigation in February 2008, it had
+already identified over $700,000 in unaccounted for funds that had been transferred to the
+Consultant. Nonetheless, more than $5 million in additional payments were subsequently made to
+the Consultant ostensibly in connection with the basketball team.
+
+24. Within this lax control environment, payments to the Consultant were also falsely
+recorded in the companyâs books and records. For example, in September 2008, approximately
+$1.5 million was transferred to one of the Consultantâs entities upon the request of an employee
+who initially stated that the payment was for âbank charges and loan.â The employee subsequently
+said that the Consultant was actually using the funds to set up a network of state-owned enterprise
+(âSOEâ) travel agencies that would promote the Venetian Macao. No invoice or supporting
+documentation was received in connection with this payment, and it was booked as a consultancy
+fee.
+
+25. In total, between March 2007 and January 2009, pursuant to a series of sponsorship
+and advertising contracts, approximately $14.8 million was paid to the Consultant in connection
+with the basketball team. Over one-third of these funds were paid after the firm had identified
+significant unaccounted for funds, and approximately $6.9 million was transferred without
+appropriate authorization or supporting documentation.
+
+B. The Adelson Center
+
+26. Beginning in 2006, the LVSC President looked to develop a non-gaming resort on
+Hengain Island, a new resort district in China. Any such development would need the approval of
+various governmental entities, and the President believed that partnering with a Chinese company
+would improve LVSCâs chances of receiving the needed approvals.
+
+27. As part of pursuing this strategy, only one Chinese company was considered as a
+partner â an SOE whose Chairman was believed to have particular influence in connection with
+
+5
+Hengqin, and who was introduced to the company by the same Consultant used for the basketball
+team.
+
+28. The partnership was initially designed as a joint venture between the SOE and
+LVSC. In December 2006, LVSC signed a letter of intent with the SOE to establish a joint venture
+and to buy portions of a building in Beijing (âreal estateâ or âpropertyâ) from the SOE for
+approximately $42 million. As part of the joint venture, SOE agreed to help LVSC develop
+Hengqin. However, the SOE Chairman and/or Consultant stated that a âbeardâ would be needed
+as the SOE board would not approve a direct relationship with a gaming company. LVSC initially
+tried to arrange for a U.S.-based entity to invest on its behalf as a âbeard,â but the joint-venture
+deal eventually collapsed.
+
+29. Instead of a joint venture, the LVSC President authorized using the Consultant as a
+âbeardâ to purchase the Beijing building from the SOE. The real estate itself consisted of
+conference rooms, office space, 55 apartments, and a two-level basement, all of which were largely
+unfinished. An initial independent appraisal valued the property more than 10% below the agreed-
+upon purchase price, but a second appraisal was obtained suggesting the value was slightly above
+the purchase price.
+
+30. Little or no thought appears to have been given by LVSC to a purchase of the
+building in advance, but ultimately the LVSC President determined that the property would be
+named after the companyâs founder and CEO, and that it would be developed as a business center
+to help U.S. companies seeking to do business in China. He also planned to set up a high-end
+âmenâs clubâ in the basement. The âAdelson Centerâ was scheduled to open in August 2008,
+during the Beijing Olympics, and in February 2008 the LVSC CEO sent a letter to the President of
+the United States, inviting him to attend the ribbon-cutting ceremony.
+
+31. No research or analysis was done to determine whether a need existed for such a
+business center, the amount of any profit or loss it was likely to generate, or whether it would do
+anything to improve LVSCâs image in China. Numerous employees were concerned that the
+purchase of the real estate was solely for political purposes. Nevertheless, between July 2007 and
+February 2008, approximately $43 million was transferred to one of the Consultantâs entities for
+the purchase of the real estate. None of the payments was approved by an LVSC employee with
+sufficient authorization to approve the amounts paid. In addition, LVSC spent approximately $14
+million on renovation and miscellaneous expenses. Of these payments, approximately $13.7
+million lacked appropriate authorization.
+
+32. In August 2007, LVSC employees learned that, contrary to their understanding, the
+basement of the building was not part of the real estate purchased by the Consultant, as the SOE
+had never obtained a title for the basement. The Consultant informed them that it would be very
+difficult and costly to obtain a title for the basement, but that he could obtain one if he was given
+approximately $1.4 million. The Consultant proposed leasing the basement to the company if it
+would prepay the rent for a period of years.
+
+33. While significant concerns were raised that the Consultant intended to obtain the
+basement title by making improper payments to government officials, the company proceeded to
+
+6
+lease the basement from the Consultant. No documentation was obtained demonstrating that the
+Consultant had obtained the title legally or that his entity had actually purchased the basement
+from the SOE. On April 9, 2008, approximately $3.6 million was wired to an entity affiliated with
+the Consultant as a prepayment for a five-year lease of the basement. The CFO of LVSC approved
+the payment, even though it exceeded his approval limit.
+
+34. For all relevant periods, the Beijing building was managed by a property manager
+affiliated with the SOE. Nonetheless, between November 2008 and July 2009, approximately
+$900,000 in purported property management fees were paid to an entity controlled by the
+Consultant. No property management services were provided by the Consultantâs entity, but the
+payments were recorded in the companyâs books and records as property management fees.
+
+35. In April 2008, approximately $1.4 million was paid to an entity associated with the
+Consultant, which was recorded in the companyâs books and records as âarts and crafts.â In
+February 2009, an LVSC accountant raised questions about the payment, because the entity had
+not obtained any artwork for the Adelson Center. The accountant was told by the LVSC President
+of Asian Development that the payment actually related to Hengqin Island. No adjustment was
+made to how the payment was recorded.
+
+36. In July 2008, pursuant to a series of contracts, the Consultant transferred control to
+LVSC of the shares of his entity that owned the real estate. In September 2008, the LVSC
+President of Asian Development signed contracts that cancelled the transfer of shares from the
+Consultantâs entity and agreed to receive in exchange from the Consultant a promissory note for
+approximately $43 million. This transaction far exceeded his authority. At or around the same
+time, a decision was made to shutter the Adelson Center project. In total, the company transferred
+approximately $61 million in connection with the real estate transaction and ultimately received
+approximately $44 million in settlement from the Consultant.
+
+LVSCâs Macao Operations
+
+37. In 2007, LVSC set up a high-speed ferry business to transport customers from
+China and Hong Kong to Macao. LVSC sought to contract with a ferry services provider to
+operate the ferries. Under pressure from the LVSC President, LVSC employees selected a
+recently-formed ferry company (âNew Ferryâ) that was partially-owned by an older, Chinese state-
+owned ferry company (âOld Ferryâ). The LVSC President stated in an email to an LVSC
+executive that the selection of New Ferry would be politically advantageous to LVSC.
+
+38. The shareholders of New Ferry included Old Ferry and a shipping company
+(âShippingâ) that was indirectly owned by the Consultant and the SOE Chairman. Given the
+contract values, due diligence was required on the respective entities and principals under LVSCâs
+policies. While it was known that Old Ferry and Shipping owned New Ferry, due diligence was
+only done on Old Ferry, and in July 2007, two Hong Kong subsidiaries of LVSC signed a contract
+with New Ferry as Operator and Guarantor, respectively.
+
+39. As part of its contract, each year New Ferry submitted a detailed budget which
+included a âBusiness Entertainmentâ line item that was divided into separate amounts for
+
+7
+business partners and for government officials. In 2010, SCLâs internal audit department, Audit
+Services Group (âASGâ), concluded that New Ferry was spending the majority of the
+entertainment expense on government officials. In addition to providing meals to government
+officials, New Ferry gave them âred envelopesâ containing cash around the Chinese New Year.
+New Ferry personnel told an SCL auditor that it was necessary to provide meals and
+entertainment to government officials to secure routes for the ferries. ASG failed to elevate this
+issue within the company.
+
+AO. LVSC had policies and procedures in place at VML regarding purchasing, but they
+were not enforced. Employees were able to use cash advances and expense rermbursements to
+circumvent those policies and procedures. For example, in September 2006, the LVSC President
+of Asian Development used a cash advance of approximately $28,000 from VML to pay for a
+topographic map of Hengqin. In another instance, in October 2006, he arranged a forum at the
+Great Hall of the People in Beijing. Afterward, he submitted a personal expense report for which
+he was reimbursed approximately $86,000.
+
+Al. In 2008, VMLâs professional service engagement controls did not require pre-
+hiring due diligence. Furthermore, LVSC did not require engagement letters with specific controls
+on professional service providers. For example, LVSC had no controls in place to ensure that legal
+engagements were consistent with the FCPA.
+
+42. Beginning in March 2009, LVSCâs policy regarding payments to outside counsel
+explicitly required the submission of original backup documentation when seeking ret1mbursement
+for expenses in excess of $100. This policy was not uniformly enforced. For example, in
+September 2009, an outside counsel (âAttorneyâ) submitted a bill to VML for âExpenses in
+Beijing,â in the amount of approximately $25,000, but he provided no documentation to support
+the expenses and was nonetheless paid. Later, Attorney stated that he actually requested the funds
+on behalf of a friend who was an unpaid consultant to LVSC. This payment was recorded in the
+books and records as a reimbursement of legal expenses, despite the lack of documentation.
+
+43. In its Macao casinos and hotels, LVSC provides complimentary items and services
+(âcompsâ) such as restaurant meals and hotel stays to actual and potential gaming customers and
+business contacts. LVSC employees are allowed to give comps up to a certain amount, depending
+on their position in the company. Non-gaming comps required the approval of an LVSC vice
+president, and LVSC used playersâ names to determine whether comps were provided to players
+who actually earned them due to the amount they played.
+
+44. During the relevant period, VML employees often failed to record the comp
+recipientsâ names, which resulted in an inability to track or audit comps. In particular, this
+precluded the identification of comp recipients who were government officials or Politically
+Exposed Persons (âPEPsâ).
+Legal Standards and FCPA violations
+
+45. Under Section 21C(a) of the Exchange Act, the Commission may impose a cease-
+and-desist order upon any person who is violating, has violated, or is about to violate any
+provision of the Exchange Act or any rule or regulation thereunder, and upon any other person
+that is, was, or would be a cause of the violations, due to an act or omission the person knew or
+should have known would contribute to such violations.
+
+46. Under Section 13(b)(2)(A) of the Exchange Act, issuers are required to make and
+keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflect the
+transactions and disposition of the assets of the issuer. 15 U.S.C. Â§ 78m(b)(2)(A).
+
+47. Under Section 13(b)(2)(B) of the Exchange Act, issuers are required to devise and
+maintain a system of internal accounting controls sufficient to provide reasonable assurances that
+(1) transactions are executed in accordance with managementâs general or specific authorization;
+(11) transactions are recorded as necessary (I) to permit preparation of financial statements in
+conformity with generally accepted accounting principles or any other criteria applicable to such
+statements, and (II) to maintain accountability for assets; (111) access to assets is permitted only in
+accordance with managementâs general or specific authorization; and (iv) the recorded
+accountability for assets is compared with the existing assets at reasonable intervals and
+appropriate action is taken with respect to any differences. 15 U.S.C. Â§ 78m(b)(2)(B).
+
+48. As aresult of the conduct described above, LVSC violated Section 13(b)(2)(A)
+because its books and records did not, in reasonable detail, accurately and fairly reflect the
+purpose of the payments. LVSC violated Section 13(b)(2)(B) because it did not devise and
+maintain a reasonable system of internal accounting controls over operations in Macao and
+China to ensure that access to assets was permitted and that transactions were executed in
+accordance with managementâs authorization; in addition, that transactions were recorded as
+necessary to maintain accountability for assets, particularly with regard to the accounts payable
+process, the purchasing process, due diligence, and controls surrounding contracts.
+
+LVSCâs Cooperation and Remedial Efforts
+
+In determining to accept the Offer, the Commission considered remedial acts promptly
+undertaken by Respondent and cooperation afforded the Commission staff (âthe Staffâ).
+
+49. In connection with the investigation by the Staff, the LVSC Audit Committee
+retained outside counsel to conduct an internal investigation. The LVSC Audit Committee
+provided significant cooperation with the Commissionâs investigation by sharing in real-time the
+facts discovered during the course of its internal investigation and provided information that may
+not have been otherwise available to the Staff; facilitating the interviews of certain key foreign
+witnesses; voluntarily producing translations of key documents; and producing large volumes of
+business, financial, and accounting documents in response to requests.
+
+50. LVSC undertook various remedial measures, including hiring a new general
+counsel and new heads of the internal audit and compliance functions. In addition, the company
+
+9
+established a new Board of Directors Compliance Committee and increased the compliance and
+accounting budgets. LVSC updated the Code of Business Conduct, the Anti-Corruption Policy,
+the guidelines regarding comps for government officials, and the SOE and expense policy. The
+company also developed and implemented enhanced anti-corruption training and an electronic
+procurement and contract management system. Furthermore, LVSC enhanced its screening of
+both third parties and new hires and its contracting process.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent LVSCâs Offer.
+
+Accordingly, it is hereby ORDERED that:
+
+A. Pursuant to Section 21C of the Exchange Act, Respondent LVSC cease and desist
+from committing or causing any violations and any future violations of Sections 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act and Rule 13b2-1 thereunder.
+
+B. Respondent shall, within 10 days of the entry of this Order, pay a civil money
+penalty in the amount of $9,000,000 to the Securities and Exchange Commission. If timely
+payment is not made, additional interest shall accrue pursuant to 31 U.S.C. 3717. Payment must be
+made in one of the following ways:
+
+(1) Respondent may transmit payment electronically to the Commission, which will
+provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov through the
+SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United States
+postal money order, made payable to the Securities and Exchange Commission and
+hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying
+LVSC as a Respondent in these proceedings, and the file number of these proceedings; a copy of
+the cover letter and check or money order must be sent to Charles E. Cain, Deputy Chief of FCPA
+Unit, Division of Enforcement, Securities and Exchange Commission, 100 F St. NE, Washington,
+DC 20549.
+
+10
+C. Respondent shall comply with the following undertakings:
+
+1.
+
+Retain an independent consultant (the âIndependent Consultantâ) not
+unacceptable to the Staff within sixty (60) days after the issuance of this
+Order. Within thirty (30) calendar days after the issuance of this Order,
+Respondent shall recommend to the Staff three qualified candidates to serve
+as the Independent Consultant.
+
+The Independent Consultant candidates shall have, ata minimum, the
+following qualifications: demonstrated expertise with respect to the FCPA,
+including experience counseling on FCPA issues; experience designing
+and/or reviewing corporate compliance policies, procedures, and internal
+controls, including FCPA-specific policies, procedures and internal controls;
+ability to access and deploy resources as necessary to discharge the
+Independent Consultantâs duties as described herein; and independence from
+Respondent to ensure effective and impartial performance of the Independent
+Consultantâs duties.
+
+The Independent Consultant should not have provided legal, auditing, or other
+services to, or have had any affiliation with, the Respondent during the prior
+two years.
+
+Respondent shall retain the Independent Consultant for a period of two (2)
+years from the date of engagement. Respondent shall exclusively bear all
+costs, including compensation and expenses, associated with the retention of
+the Independent Consultant.
+
+To ensure the independence of the Independent Consultant, Respondent shall
+not have the authority to terminate the Independent Consultant without the
+prior written approval of the Staff.
+
+The Independent Consultantâs responsibility is to review and evaluate
+Respondentâs internal controls, record-keeping and financial reporting policies
+and procedures (âPolicies and Proceduresâ) as they relate to its compliance
+with the books and records, internal accounting controls, and anti-bribery
+provisions of the FCPA (âthe FCPA Policiesâ) and to make recommendations.
+This review and evaluation shall include an assessment of the policies and
+procedures as actually implemented and how FCPA compliance fits within
+Respondentâs ethics and compliance function. The Independent Consultant
+shall consider whether the ethics and compliance function has sufficient
+resources, authority, and independence, and provides sufficient training and
+guidance.
+
+Respondent and the Independent Consultant shall agree that the Independent
+Consultant is an independent third-party and not an employee or agent of
+
+11
+10.
+
+the Respondent. In addition, Respondent and the Independent Consultant
+agree that no attorney-client relationship shall be formed between them.
+
+Respondent shall require the Independent Consultant to enter into an
+agreement with Respondent providing that, for the period of engagement and
+for a period of two years from completion of the engagement, the Independent
+Consultant shall not enter into any employment, consultant, attorney-client,
+auditing or other professional relationship with Respondent, or any of its
+present or former affiliates, directors, officers, employees, or agents acting in
+their capacity as such. Any firm with which the Independent Consultant is
+affiliated or of which he/she is a member, and any person engaged to assist the
+Independent Consultant in performance of his/her duties under this Order shall
+not, without prior written consent of the Staff, enter into any employment,
+consultant, attorney-client, auditing or other professional relationship with
+Respondent, or any of its present or former affiliates, directors, officers,
+employees, or agents acting in their capacity as such for the period of the
+engagement and for a period of two (2) years after the engagement.
+
+Respondent shall require the Independent Consultant to prepare a written
+work plan and submit it to Respondent and the Staff for comment within
+thirty (30) days of commencing the engagement. The Respondentâs
+comments shall be provided to the Independent Consultant no more than
+fifteen (15) calendar days after receipt of the written work plan. In order
+to conduct an effective initial review and to understand fully any existing
+deficiencies in policies, procedures, and internal controls related to the
+FCPA, including how FCPA compliance fits within Respondentâs ethics and
+compliance function, the Independent Consultantâs initial work plan shall
+include such steps as are reasonably necessary to develop an
+understanding of the facts and circumstances surrounding any violations
+that may have occurred and to assess the effectiveness of Respondentâs
+existing policies, procedures, and internal controls that were designed to
+detect, deter, and prevent violations of the FCPA and of Respondentâs
+ethics and compliance program. Any dispute between Respondent and
+the Independent Consultant with respect to the work plan shall be decided
+by the Staff.
+
+Respondent shall cooperate fully with the Independent Consultant, and the
+Independent Consultant shall have the authority to take such reasonable steps
+as, In his or her view, may be necessary to be fully informed about
+Respondentâs Policies and Procedures in accordance with the principles set
+forth herein and applicable law, including data protection, blocking statutes,
+and labor laws and regulations applicable to Respondent. To that end
+Respondent shall provide the Independent Consultant with access to all
+information, documents, records, facilities and/or employees, as requested by
+the Independent Consultant, that fall within the scope of the Independent
+
+12
+11.
+
+12.
+
+13.
+
+Consultantâs responsibility, except as provided in this paragraph; and provide
+guidance on applicable laws (such as relevant data protection, blocking
+statutes, and labor laws).
+
+In the event that Respondent seeks to withhold from the Independent
+Consultant access to information, documents, records, facilities and/or
+employees of Respondent that may be subject to a claim of attorney-client
+privilege or to the attorney work product doctrine, or where Respondent
+reasonably believes production would otherwise be inconsistent with
+applicable law, Respondent shall work cooperatively with the Independent
+Consultant to resolve the matter to the satisfaction of the Independent
+Consultant. If the matter cannot be resolved, at the request of the Independent
+Consultant, Respondent shall promptly provide written notice to the
+Independent Consultant and the Staff. Such notice shall include a general
+description of the nature of the information, documents, records, facilities
+and/or employees that are being withheld, as well as the basis for the claim.
+To the extent Respondent has provided information to the Staff in the course
+of the investigation leading to this action pursuant to a non-waiver of privilege
+agreement, Respondent and the Independent Consultant may agree to
+production of such information to the Independent Consultant pursuant to a
+similar non-waiver agreement.
+
+Respondent shall require the Independent Consultant to issue a written report
+(âReportâ), within six (6) months after being retained to review Respondentâs
+Policies and Procedures: (a) summarizing its review and evaluation, and (b) if
+necessary, making recommendations based on its review and evaluation that
+are reasonably designed to improve Respondentâs Policies and Procedures.
+Respondent shall require that the Independent Consultant provide the Report
+to the Board of Directors of Respondent and simultaneously transmit a copy to
+the Staff at the following address: Charles E. Cain, Deputy Chief of FCPA
+Unit, Division of Enforcement, Securities and Exchange Commission, 100 F
+Street NE, Washington, DC 20549.
+
+Respondent shall adopt all recommendations in the Report within sixty (60)
+days of the issuance of the Report; provided, however, that, as to any
+recommendations that Respondent considers to be unduly burdensome,
+impractical, or costly, Respondent need not adopt the recommendations at that
+time, but may submit in writing to the Staff, within thirty (30) days of
+receiving the Report, an alternative policy or procedure designed to achieve
+the same objective or purpose. Respondent and the Independent Consultant
+shall attempt in good faith to reach an agreement relating to each
+recommendation Respondent considers unduly burdensome, impractical, or
+costly. In the event that Respondent and the Independent Consultant are
+unable to agree on an alternative proposal within thirty (30) days, Respondent
+will abide by the determinations of the Staff.
+
+13
+14. Within six (6) months of the issuance of the Report, Respondent shall
+implement all of Consultantâs recommendations or agreed-upon alternatives.
+
+15. Thirty (30) days after the Respondent completes the implementation,
+Respondent shall require the Independent Consultant to perform a follow-up
+review to confirm that Respondent has implemented the recommendations or
+agreed-upon alternatives and continued the application of the Policies and
+Procedures, and to deliver a supplemental report within thirty (30) days to the
+Board of Directors of Respondent and the Staff setting forth its conclusions
+and whether any further improvements should be implemented.
+
+16. Respondent agrees that the Staff may extend any of the dates set forth above
+at its discretion.
+
+17. Respondent shall certify, in writing, compliance with the undertaking(s) set
+forth above. The certification shall identify the undertaking(s), provide written
+evidence of compliance in the form of a narrative, and be supported by
+exhibits sufficient to demonstrate compliance. The Staff may make
+reasonable requests for further evidence of compliance, and Respondent
+agrees to provide such evidence. Respondent shall submit the certification
+and supporting material to Charles E. Cain, Deputy Chief of FCPA Unit,
+Division of Enforcement, with a copy to the Office of Chief Counsel of the
+Enforcement Division, no later than sixty (60) days from the date of the
+completion of the undertakings.
+
+18. Respondent agrees that these undertakings shall be binding upon any acquirer
+or successor in interest to Respondent or substantially all of Respondentâs
+assets and liabilities or business.
+
+D. Respondent acknowledges that the Commission is not imposing a civil penalty in
+excess of $9,000,000 based upon its cooperation in a Commission investigation and related
+enforcement action. If at any time following the entry of the Order, the Division of Enforcement
+(âDivisionâ) obtains information indicating that Respondent knowingly provided materially false
+or misleading information or materials to the Commission or in a related proceeding, the Division
+may, at its sole discretion and with prior notice to the Respondent, petition the Commission to
+reopen this matter and seek an order directing that the Respondent pay an additional civil penalty.
+Respondent may contest by way of defense in any resulting administrative proceeding whether it
+
+14
+knowingly provided materially false or misleading information, but may not: (1) contest the
+findings in the Order; or (2) assert any defense to liability or remedy, including, but not limited to,
+any statute of limitations defense.
+
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+15

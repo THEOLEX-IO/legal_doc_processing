@@ -1,0 +1,418 @@
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ 
+
+ 
+
+)
+U.S. SECURITIES AND EXCHANGE _ )
+COMMISSION, )
+100 F. Street, NE )
+Washington, D.C. 20549-5030 )
+) Case: 1:09-cv-01865
+Plaintiff, ) Assigned To : Urbina, Ricardo M.
+) Assign. Date : 9/30/2009
+v. ) Description: General Civil
+)
+AGCO CORPORATION )
+4205 River Green Parkway )
+Duluth, Georgia 30096 )
+Defendant. )
+)
+COMPLAINT
+
+Plaintiff, U.S. Securities and Exchange Commission (the âCommissionââ), alleges
+
+SUMMARY
+
+1. From approximately 2000 through 2003, AGCO Corporation (AGCO")
+violated the books and records and internal controls provisions of the Foreign Corrupt
+Practices Act (the âFCPAâ) when its subsidiaries made approximately $5.9 million in |
+kickback payments in connection with their sales of humanitarian goods to Iraq under the
+United Nations (âUNâ) Oil for Food Program. AGCOâs subsidiaries authorized and paid
+kickbacks to Iraq in the form of âafter-sales service feesâ on sales of its products to Iraq.
+AGCO knew or was reckless in not knowing that kickbacks were paid in connection with 7
+its subsidiariesâ transactions. AGCO knew that such payments were prohibited by the Oil
+
+for Food Program and U.S. and international trade sanctions on Iraq.
+2. The Oil for Food Program provided humanitarian relief to the Iraqi
+population during the time that Iraq was subject to international trade sanctions. The
+program required that fraq could purchase necessary humanitarian goods and related
+services through a UN escrow account. However, the kickbacks paid in connection with
+AGCOâs subsidiariesâ sales of goods to Iraq had the effect of diverting funds out of the
+escrow account and were paid by a third party into Iragi-controlled accounts at banks in
+countries such as Jordan. |
+
+3. Because its subsidiaries paid âafter-sales service feesâ to Iraq outside of
+the confines of the UN program, AGCO failed to accurately record in its books and |
+records the kickbacks that were authorized for payment to Iraq. AGCO also failed to
+devise and maintain systems of internal accounting controls to detect and prevent such
+illicit payments.
+
+4. Asa result of this conduct, AGCO violated Sections 13(b)(2)(A) and
+13(b)(2)(B) of the Securities Exchange Act of 1934 (the âExchange Actâ) [15 U.S.C.
+
+Â§Â§ 78m(b)(2 (A) and 78m(b)(2)(B)I.
+JURISDICTION
+
+5. This Court has jurisdiction over this action under Sections 21d), 21(e),
+and 27 of the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e) and Baal. AGCO, directly or
+indirectly, made use of the means or instrumentalities of interstate commerce, of the |
+mails, or of the facilities of a national securities exchange in connection with the -
+
+transactions, acts, practices, and courses of business alleged in this Complaint.
+6. Venue is appropriate in this Court under Section 27 of the Exchange Act
+[15 U.S.C. Â§ 78aa] because AGCO does business in this judicial district and certain acts
+or transactions constituting the violations by AGCO occurred in this district.
+
+DEFENDANTS
+
+7. AGCO Corporation (âAGCOâ), headquartered in Duluth Georgia, is a
+manufacturer and supplier of agricultural machinery under the brands Fendt, Valtra and
+Massey-Ferguson. Throughout the relevant time period, AGCOâs common stock was
+registered pursuant to Section 12(b) of the Exchange Act and listed on the New York
+Stock Exchange under the symbol âAGâ.' During the Oil for Food Program, AGCO
+subsidiary AGCO Ltd. marketed and negotiated transactions involving the sales of
+equipment and spare parts to fraq.
+
+RELEVANT ENTITIES.
+
+8. AGCO LeÃ©d. is a wholly-owned subsidiary of AGCO based in Coventry,
+England. AGCO Ltd. is responsible for AGCOâs business in Europe, Africa and the
+Middle East. Throughout the relevant period, AGCO Ltd.âs financial results were
+included in the consolidated financial statements that AGCO filed with the Commission.
+During the Oil for Food Program, AGCO Ltd. marketed and negotiated the sales of
+equipment to Iraq through AGCO S.A., located in France, and AGCO Danmark A/S,
+located in Denmark. | |
+
+9, AGCO Danmark A/S is a wholly-owned subsidiary of AGCO based itr ..
+
+Copenhagen, Denmark. AGCO Danmarkâs financial results were included in the
+
+ 
+
+i In May 2009, AGCOâs ticker symbol changed to âAGCO.â
+consolidated financial statements that AGCO filed with the Commission. AGCO
+Danmark sold agriculture equipment and parts to Iraq during the Oil for Food Program.
+
+10. AGCOS.A. is a wholly-owned subsidiary of AGCO located in Beauvais,
+France. AGCO S.A.âs financial results were inchided in the consolidated financial
+statements that AGCO filed with the Commission. AGCO S.A. sold agriculture
+equipment and parts to Iraq during the Oil for Food Program.
+
+FACTS
+i. The United Nations Oil for Food Program
+
+Li. On August 2, 1990, the government of Iraq, under Saddam Hussein,
+invaded Kuwait, Four days later the United Nations Security Council voted to enact ULN.
+Resolution 661, which prohibited member states from trading in any Iraqi commodities
+or products. The United Nations continued to enforce these sanctions until 2003.
+
+12. On April 14, 1995, the United Nations Security Council adopted
+Resolution 986, which authorized the Government of Iraq to sell oil on the condition that
+the proceeds of all of its oil sales be deposited in a bank account monitored by the United
+Nations and used only to purchase designated humanitarian goods for the benefit of the
+Iragi people. In May 1996, the Government of Iraq entered into a written Memorandum
+of Understanding to implement Resolution 986.
+
+13. The United Nations Office of Iraq Program, Oil for Food (the âOil for
+Food Programâ or âProgramââ} was subsequently established to administer lraqâs sale of...
+oil and purchase of humanitarian goods by Iraq. A special bank account was established
+
+at a bank in New York (the âUN Escrow Accountâ) to handle the transactions. The
+United Nationsâ economic sanctions on [rag remained in place for all trade and
+transactions not authorized by the Oil for F ood Program.
+
+14. âStarting in the middle of 2000, the Iraqi government made a concerted
+effort to subvert the Program by demanding secret kickbacks from its humanitarian goods
+suppliers. Although contracts entered into pursuant to the Program were subject to UN
+review and approval, the Program gave Iraq discretion to select the companies from
+which it purchased goods. A humanitarian supplier would submit a bid for the sale of its |
+goods. After the Iraqi ministry would accept the bid, the ministry would inform the
+supplier of the requirement that the supplier make a secret payment in the form of an
+âAfter-Sales Service Feeâ (âASSFâ) to Iraq i order to win the contract. The lraqi
+ministry would also inform the suppher that the ASSF would have to be paid prior to the
+goods entering into the country, or the goods would be stopped at the border until the
+ASSF payment was paid.
+
+15. Initially, when this scheme first began, suppliers met with the traqi
+munistries in person and signed a side agreement acknowledging that the supplier would
+- make the illicit payment? By October 2000, this fee was usually ten percent of the total
+contract value, Later in the scheme, everyone understood that the ten percent would have
+to be paid. Thus, side agreements were no longer needed -- the supplier would simply
+increase its original contract bid by ten percent.
+
+i6. The supplier would then submit its contract with the inflated contract price --
+to the UN for approval, and not disclose the ten percent illicit payment, which was in
+
+violation of the Program rules. The supplier would pay the ASSF to Iraq prior to
+
+ 
+
+The side agreement was not provided to the UN when the Oil for Food contract was submitted and
+
+approved. This was in violation of the Program and U.S. and international trade sanctions against Iraq.
+shipping its goods. Afterwards, the UN Escrow Account would pay the supplier the
+inflated contract price for the goods, thus, unknowingly reimbursing the supplier for the
+ten percent that the supplier had already provided to Iraq. As a result of this conduct, the
+UN Escrow Account lost the benefit of more than $1 billion.
+
+17. After the Onited States invaded Iraq in March 2003, at the request of the |
+provisional government, the UN ceased Iraqâs ASSF scheme. The UN required that all
+pending contracts that had been inflated by ten percent be amended to reflect the true
+contract value of the goods.
+
+HE. AGCO Makes Diicit Payments to Trag
+
+18. AGCO and its subsidiaries sell agricultural equipment and farm
+machinery. While the Oil for Food Program was in effect, AGCOâs U_K. subsidiary,
+AGCO Lid., marketed and negotiated the sale of agricultural equipment and spare parts
+to fraqi ministries through the Program. AGCO Ltd. marketed and negotiated the sale of
+equipment through two European subsidiaries, AGCO S.A., located in France, and
+AGCO Danmark A/S, located in Denmark. During this time period, Iraqâs various
+ministries required the payment of after-sales service fees in connection with winning
+contracts to supply humanitarian goods under the Program. AGCO Ltd. acquiesced to
+the demands of the Iragi ministries. AGCOâs subsidiaries paid the illegal kickbacks |
+through a third-party agent based in Jordan. AGCOâs total gains from contracts in which
+
+"ASSFs were paid are $13,907,393.
+A. AGCOâs Subsidiaries Make $5.9 Million in ASSF Payments
+
+1. AGCO Lid. Learns of the ASSFE Requirement
+19. Prior to the Oil for Food Program, AGCO had tried unsuccessfully to
+increase its market share in Iraq. Once the Program began, AGCO hired a Jordanian
+agent to facilitate sales to fraq. From December 2000 to March 2063, AGCO entered
+. into sixteen contracts under the Program that involved the payment of ASSE s. Each of
+the contracts involved the sale of farm machinery and spare parts to the Iraqi Ministry of
+Agnculture.
+
+20. In December 2000, AGCO Ltd.âs business manager for Iraq learned from |
+the Jordanian agent that the Iraqi Ministry of Agriculture was demanding a kickback of
+ten percent of the contract value as a condition to awarding Program contracts to AGCO.
+The agent stated that the kickback was requirÃ©d up front on all sales contracts. The
+business manager for Iraq notified his supervisor, the sales director for the Middle East,
+about the new requirement. The business manager and his supervisor agreed to the
+kickbacks, but informed the agent that AGCO could not pay the kickbacks directly to
+traq. The agent stated that he would make the payments directly to the Iraqis on AGCOâs |
+behalf, and that AGCO should set up bank guarantees in favor of the agent to facilitate
+the payments: in a December 2000 e-mail concerning the kickbacks, the agent informed
+the business manager and his supervisor that âthe payments are in the âinterest of
+continuity of our solid position we are enjoymg now.ââ AGCO employees then proceeded
+to funnel payments to the Ministry of Agriculture through the agent. The payments were
+separate from and in addition to the normal commissions and fees that AGCO paid to the...
+agent. In some instances, the agent asked that the finds be wired to his personal account.
+
+2. AGCO Emplovees Create a Fictional Account to Fund the
+
+ 
+21. Prior to the payment of ASSFs, AGCO paid the majority of the agentâs
+fees in the form of three commissions: (1) a flat rate commission; (2) a variable
+comunission based upon the value of the equipment sold; and (3) an âAfter Salesâ
+commission to allow the agent to establish and maintain an infrastructure in Iraq to
+support AGCOâs farm machinery. The After Sales commission allowed the agent to
+provide trained service personnel and services such as installation, repairs and operator
+instruction on AGCO equipment. Typically, this After Sales fee was $400 for a basic
+tractor and $900 for more complex machines. The agentâs total commissions were
+generally between three and seven percent of the total contract price.
+
+22. Beginning in early 2001, AGCO began to pay additional amounts to the
+agent to make kickback payments to the Ministry of Agriculture on AGCOâs behalf. To
+conceal the kickback scheme, AGCOâs employees created a fictional account in its books
+and records denoted as âMinistry Accrual.â The kickback payments were all recorded in
+this account. The AGCO employees made it appear that the account was being used to
+pay the agent for his After Sales commissions. However, the AGCO employees
+continued to maintain and use a separate accrual account for the payment of the agentâs
+true After Sales commissions. Thus, AGCO maintained and used two accounts, both of â
+which were described as for the purpose of After Sales work. The payments allocated to
+the Ministry Accrual account were approximately ten percent of the contract price, which
+was much larger than the After Sales commissions that historically were paid to the agent...
+for ostensibly the same services.
+
+23. The accrual account was created by AGCO Ltd.âs marketing staff with
+
+virtually no oversight from AGCO Lid.âs finance department. No one questioned the
+existence of the dual accounts. No one questioned why the Ministry Accrual account
+contained approximately ten percent of the contract value despite the fact that there was
+no contract in place requiring that such ten percent be paid to the ministry or anyone else.
+The Ministry Accrual account was used to record the payments made to the agent and
+kicked back to Iraq. When the finance department authorized payments from the
+Ministry Accrual account, it did not ask for or receive any proof of service to warrant the
+payments. Unlike other payments to the agent, the Ministry Accrual payments were
+made by bank guarantee and in French francs or Euros instead of U.S. dollars. In
+October 2002, an employee who set up bank guarantees for the agent knowing that the |
+payments would be forwarded to the ministry warned AGCO Ltd.âs business manager for
+Iraq and his supervisor that AGCOâs internal auditors might audit the Iraq commission .
+accounts. The employee cautioned that âwe do not want the auditors raising any
+questions on Iraq business!â Other employees who were aware of the improper payments
+wrote letters to the bank indicating that certain payments to the agent were for âunpaid .
+commissionsâ when they knew that they were kickbacks for the ministry. Marketing and
+finance employees in the UK., Denmark, and France were all instrumental in the scheme.
+
+B. AGCO Conceals the Kickback Payments from the UN
+
+24. As part of the scheme, AGCOâs subsidiaries concealed the kickback
+payments from the UN. AGCOâs subsidiaries secretly inflated UN contract prices by an
+artificial ten percent. In submitting its contracts to the UN for approval, AGCOâs
+subsidiaries failed to disclose that they were paying Iraq a kickback of ten percent of the .
+contract proceeds in direct contravention of UN, U.S. and international trade sanctions.
+
+Altogether, AGCOâs subsidiaries paid approximately $5,912,393 in ASSFs on sixteen
+contracts. Documents, including banking records, confirm the ASSF payments received
+by Iraq in connection with the contracts. The ASSFs were inaccurately described as a
+âMinistry Accrualâ for infrastructure repair in the companyâs books and records and were
+included among legitimate commission payments to AGCOâs agent in Iraq.
+
+C. AGCO Lacked Sufficient Controls Over Tis Marketing Department
+
+25. Due to a lack of sufficient internal controls, AGCO Ltd.âs sales and
+marketing ernployees were able to create and implement a scheme to pay kickbacks to theâ
+Ministry of Agriculture without raising suspicions at the company. Sales and marketing
+personnel were able to enter into contracts without review from the legal or finance
+departments. An AGCO Lid. accounting employee described the Finance Department
+employees as âblind loadersâ who input information into AGCOâs books without any
+adequate oversight role. Marketing personnel were able to create accrual accounts (such
+as the Ministry Accrual account used to pay the kickbacks) without any oversight and
+caused accounts to be created and payments to be made without proper documentation.
+On at least two occasions, the Jordanian agent asked for and received funds for âcar
+paymentsâ related to business in Iraq, and AGCO employees did not obtain any
+documentation as to the appropriateness of these expenses or ask if the cars were going to
+government officials.
+
+26. AGCO Ltd.âs structure at the time allocated inappropriate accounting and
+finance responsibilities to the marketing department. Turnover in the marketing
+department at AGCO Ltd. was high and employees were forced to shoulder a great deal
+of the accounting burden. In February 2002, AGCOâs internal auditors noted numerous
+
+problems with AGCO Ltd.âs sales process, including the establishment of accrual
+
+1G
+accounts by the marketing department. In response to internal auditâs report, AGCO
+changed its methodology going forward. However, AGCO failed to conduct a review of
+the accrual accounts that existed at the time of the report. As a result, the Ministry
+_ Accrual account continued to be used in the scheme to make and record additional ASSF
+payments to Iraq.
+
+D. AGCO Failed to Netice Red Flags Related to the Sales te Iraq
+
+27. AGCOâs managemÃ©nt repeatedly failed to notice or follow up on red flags â
+related to the companyâs sales to Iraq under the Oil for Food Program. AGCOâs legal
+department was aware that the company was conducting sales under the Program into
+Iraq, a sanctioned country, but failed to ensure that the sanctions or the UN rules and
+regulations were followed. In fact, AGCOâs General Counselâs office assisted on at least
+one occasion with obtaining 661 Committee approval for an Oil for Food contract. The
+General Counselâs office then sent a letter to a London bank asking that money be paid to
+the Jordanian agent. With regard to AGCO Ltd.âs relationship with the Jordanian agent,
+AGCO did not conduct any due diligence on the agent or require that the agent undergo
+FCPA training. In addition, the agentâs contract with AGCO did not accurately explain
+the agentâs services and payments, and lacked any FCPA language. In three instances
+when the agentâs commission varied significantly from the typical three to seven percent
+covered by his contract, AGCO employees were not questioned by management as to the
+purpose of the additional costs. There is no evidence that management noticed these
+discrepancies, even when the invoicing instructions to pay the agent did not match the
+amounts actually paid. in 2004, AGCO management was questioned by a news reporter
+
+about rumors that the company paid kickbacks during the Oil for Food Program. In
+
+il
+direct contravention to their âMinistry Accrualâ story that payments were made for
+infrastructure improvernents, AGCO employees told the reporter that they had been
+requested to pay kickbacks, but refused. AGCO management did not follow up on the
+discrepancy until subpoenaed by the sec staff.
+
+28.  AGCO, through its subsidiaries, entered into sixteen contracts with Iraqi
+ministries for the sales of AGCO products and made ASSF payments totaling
+$5,912,393. AGCO either knew or was reckless in not knowing about the improper
+payments.
+
+UL. AGCOâs Failure to Maintain Adequate internal Controls
+
+29. AGCO failed to maintain a system of intemal controls sufficient to ensure
+that the companiesâ transactions under the Oil for Food Program were executed in
+accordance with managementâs authorization aud to maintain accountability for the
+companyâs assets. As discussed above, AGCOâs subsidiaries made numerous illicit
+payments that contravened the Oil for Food Program, U.S. and international trade
+sanctions, and its own internal FCPA and anti-bnbery policies.
+
+30. In sixteen transactions that AGCO subsidiaries entered into with Iraqi
+ministries, a portion of the sales pnce for goods to fraq constituted ASSF payments in
+violation of UN regulations and trade sanctions, and also AGCOâs FCPA and anti-bribery
+policies. As evidenced by the extent and duration of the improper ASSF payments made
+by AGCO, the improper recording of these payments in the company's books and
+records, and the failure of AGCO's management to detect these irregularities, AGCO
+failed to devise and maintain an effective system of internal controls to prevent or detect
+
+these violations of the FCPA, as required by Exchange Act Section 13(b)(2)@).
+HV. AGCOâs Failure to Properly Maintain Its Books and Records
+
+31. As described above, AGCOâs accounting for its Oil for Food transactions
+failed properly to record the nature of the kickback payments. On sixteen transactions, a
+portion of the sales price for goods to [rag constituted ASSF payments in violation of
+U.N. regulations and trade sanctions, and also AGCOâs FCPA and anti-bribery policies.
+In these instances, AGCOâs subsidiary AGCO Ltd. failed to properly designate those
+âpayments, recording them in a fictional accrual account as ordinary business expenses.
+Thus, AGCO failed to accurately record these payments in its books, records, and _
+accounts to fairly reflect the transactions.
+
+CLAIMS FOR RELIEF
+FURST CLAIM
+[Violations of Section 13(b)(2)(A) of the Exchange Act]
+
+32. Paragraphs | through 31 are realleged and incorporated by reference.
+
+33. As described above, AGCO, through its officers, agents, consultants,
+representatives, and subsidiaries, failed to keep books, records, and accounts, which, in
+reasonable detail, accurately and fairly reflected its transactions and dispositions of its
+assets.
+
+34. By reason of the foregoing, AGCO violated Section 13(b)Q)(A) of the
+Exchange Act [15 U.S.C. Â§ 78m(b)(2)(A)}
+
+[Violations of Section 13(b)(2)(B) of the Exchange Act].
+
+35. Paragraphs | through 34 are realleged and incorporated by reference.
+
+13
+36. _ As described above, with respect to illicit payments made in connection
+with AGCOâs subsidiariesâ sales to traq, AGCO failed to devise and maintain a system of
+internal accounting controls sufficient to provide reasonable assurances that: (i)
+payments were made in accordance with managementâs general or specific authorization;
+and (ii) payments were recorded as necessary to maintain accountability for its assets.
+
+37. By reason of the foregoing, AGCO violated Section 13(b)(2)(B) of the .
+Exchange Act [15 U.S.C. Â§ 78m(b)2\(B)]
+
+| PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court enter a final
+judgment:
+
+A Permanently restraining and enjoining AGCO from violating Sections
+13(b}(2)(A) and 13(b)(2)\(B) of the Exchange Act [15 U.S.C. Â§Â§ 78m(by2KA) and (BI;
+
+B. â Ordering AGCO te disgorge ill-gotten gains, with prejudgment interest,
+wrongfully obtained as a result of its illegal conduct;
+
+C. Ordering AGCO to pay civil penalties pursuant to Section 21(d)\(3) of the
+
+Exchange Act [15 U.S.C. Â§ 78u(d)(3)]; and
+
+14
+D. Granting such further relief as the Court may deem just and appropriate.
+
+Dated: $f ton ber F2 2009 -
+
+Respectfully submitted,
+
+ee, D Say
+
+Cheryl J. Pearboro (D.C. Bar No. 422175)
+. Tracy L.
+Kelly G. Kilroy
+
+âAttorneys for Plaintiff,
+U.S. Securities and Exchange Commission
+100 F Street, NE
+Mail Stop 5030-A
+â Washington, DC 20549
+(202) 351-4403 (Scarboro)

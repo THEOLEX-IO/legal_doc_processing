@@ -1,0 +1,34 @@
+Release Number 8259-20
+CFTC Orders New York Firm and its Trader to Pay $585,000 for Spoofing
+
+September 28, 2020
+
+Washington, D.C. â The Commodity Futures Trading Commission today issued two orders filing and settling charges
+against Thomas Donino and his employer, FNY Partners Fund LP, for spoofingâbidding or offering with the intent to
+cancel the bid or offer before execution. This case was brought in connection with the Division of Enforcementâs Spoofing
+Task Force.
+
+The order against Donino requires him to pay a $135,000 civil monetary penalty and suspends him for three months from
+trading on or subject to the rules of any CFTC-designated exchange and all other CFTC registered entities and in all
+commodity interests. It also orders him to cease and desist from violating the Commodity Exchange Actâs spoofing
+prohibition. The order against FNY Partners Fund finds the firm vicariously liable for Doninoâs spoofing, which Donino
+engaged in while a trader for FNY Partners Fund. The order against FNY Partners Fund requires it to pay a $450,000 civil
+monetary penalty.
+
+âThis enforcement action demonstrates the CFTCâs enhanced abilities to detect and prosecute spoofing using data
+analytics,â said Division of Enforcement Director James McDonald. âThe CFTC will continue to identify and investigate
+spoofing and hold accountable both individual traders and the firms that employ them.â
+
+Case Background
+
+According to the orders, between January 2013 and January 2016, Donino placed multiple orders in the Chicago Board of
+Trade soybean futures, Commodity Exchange (COMEX) gold futures, and New York Mercantile Exchange crude oil futures
+markets with the intent to cancel the orders before execution. Doninoâs trading pattern involved placing a small order,
+typically for 10 or fewer contracts on one side of the market that he wanted to get filled (genuine order), and then
+placing a larger order that he intended to cancel (Spoof order), typically for five times as many contracts as the genuine
+order. Generally, Donino quickly canceled the spoof order after placing it, and often after his genuine order was filled.
+
+The Division of Enforcement staff members responsible for this case are Nicholas Sloey, Jeff Le Riche, Allison Sizemore,
+Jordon Grimm, and Neel Chopra.
+
+-CFTC-

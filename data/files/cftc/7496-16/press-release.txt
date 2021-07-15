@@ -1,0 +1,48 @@
+Release Number 7496-16
+
+ 
+
+December 7, 2016
+
+CFTC Orders Paris-Based SociÃ©tÃ© GÃ©nÃ©rale SA to Pay a $450,000 Penalty for Failing to
+Timely Report Swap Transactions
+
+Washington, DC - The U.S. Commodity Futures Trading Commission (CFTC) today issued an Order filing and
+simultaneously settling charges against SociÃ©tÃ© GÃ©nÃ©rale SA (SociÃ©tÃ© GÃ©nÃ©rale) for failing to properly report certain
+non-deliverable forward transactions to a swap data repository (SDR), and failing to timely report to an SDR a large
+number of FX swap, FX forward, and non-deliverable forward transactions, in violation of the Commodity Exchange Act
+(CEA) and CFTC Regulations. SociÃ©tÃ© GÃ©nÃ©rale is a swap dealer headquartered in Paris, France that has been
+provisionally registered with the CFTC in that capacity since December 31, 2012.
+
+The CFTC Order requires SociÃ©tÃ© GÃ©nÃ©rale to pay a $450,000 civil monetary penalty and to cease and desist from
+committing further violations of the CEA and CFTC Regulations, as charged.
+
+As stated in the Order, the accuracy and completeness of swap reporting are critical to the Commission's mission to
+protect market participants and to ensure market integrity. In particular, the Order states that the CEA requires parties to
+a swap transaction to report swap transaction information to a registered SDR in a timely manner, and requires swap
+dealers to report swap transactions to an SDR within such time period as prescribed by the CFTC. The Order further
+states that CFTC Regulations 43 and 45 specify requirements for real-time public reporting, public availability of swap
+transaction and pricing data, and reporting of creation and continuation data to an SDR. According to the Order, the
+reporting requirements are designed to enhance transparency, promote standardization, and reduce systemic risk.
+
+The Order finds that in July 2014 SociÃ©tÃ© GÃ©nÃ©rale implemented a software update to its FX trading platform which led to
+the trading platform incorrectly coding SociÃ©tÃ© GÃ©nÃ©raleâs counterparty as the reporting counterparty for certain FX
+swap, FX forward, and non-deliverable forward transactions, which resulted in no reports being made to the SDR
+regarding the swaps. According to the Order, SociÃ©tÃ© GÃ©nÃ©rale did not discover the error until January 2015, and it was
+not until April 2015 that SociÃ©tÃ© GÃ©nÃ©rale was able to fix it. The Order finds that SociÃ©tÃ© GÃ©nÃ©rale initiated a project to
+identify trades affected by the coding error and in September 2015 notified CFTC staff about its failure to report.
+According to the Order, SociÃ©tÃ© GÃ©nÃ©rale back-loaded approximately 51,821 unreported transactions in October 2015
+and in April and May 2016 made submissions to its SDR for approximately 2,024 non-deliverable forward transactions.
+
+The Order recognizes that SociÃ©tÃ© GÃ©nÃ©rale cooperated with the CFTCâs investigation by self-reporting its errors,
+undertaking an internal investigation, and taking remedial action to correct its reporting failures.
+
+CFTC Division of Enforcement staff members responsible for this case are Diane M. Romaniuk, Ava Gould, Mary Elizabeth
+Spear, Scott Williamson and Rosemary Hollinger. The Division of Market Oversight staff members responsible for this
+matter are Daniel J. Bucsa and Thomas Guerin.
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: December 7, 2016

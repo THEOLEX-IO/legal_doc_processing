@@ -1,0 +1,354 @@
+ 
+
+   
+
+ 
+
+ 
+
+UNITED STATES OF AMERICA SF
+Before the Office of Proceedings
+U.S. COMMODITY FUTURES TRADING COMMISSION Proceedings Clerk
+9:46 am, Aug 31, 2020
+
+)
+In the Matter of: )
+)
+Phy Capital Investments, )
+
+LLC and Fabio Bretas de ) CFTC Docket No. SD 20-01
+Freitas, )
+)
+Registrants. _)
+
+ 
+
+INITIAL DECISION ON DEFAULT
+
+Before: Kavita Kumar Puri, Judgment Officer
+Commodity Futures Trading Commission
+Washington, D.C.
+Appearances: Elizabeth M. Streit, Esq., Chief Trial Attorney
+Division of Enforcement
+Commodity Futures Trading Commission
+525 W. Madison St., Suite 1100
+Chicago, IL 60661
+I. Introduction
+This is a proceeding to revoke the registrations of Phy Capital Investments,
+LLC (PCI) and Fabio Bretas de Freitas (Bretas) pursuant to Section 8a(2) of the
+Commodity Exchange Act (the Act, or CEA), 7 U.S.C. Â§ 8a(2), and Commission rules
+3.60(g) and 10.93, 17 C.F.R. Â§Â§ 3.60(g) and 10.93. PCI is a registered commodity
+pool operator (CPO) and Commodity Trading Advisor (CTA); and Bretas is a
+registered associated person (AP) of PCI.
+
+By motion dated August 13, 2020, the Commissionâs Division of Enforcement
+
+(Division) has moved for entry of a default judgment (Motion for Default Judgment)
+against registrants PCI and Bretas based on their failures to answer, or otherwise
+appear or respond to, the Commissionâs Notice of Intent to Revoke the Registration
+of Phy Capital Investments, LLC and Fabio Bretas de Freitas (Notice). In this
+connection, on May 7, 2020 and June 19, 2020, the Office of Proceedings served the
+Notice on PCI and Bretas at their last registered address.! Thus PCI and Bretas
+were properly served pursuant to CFTC rule 3.50.2
+
+The Commissionâs Notice alleges that PCI and Bretas are subject to statutory
+disqualification from Commission registration based on: (1) an Order and
+
+Judgment by Default entered on October 2, 2019 by the Honorable Jesse M.
+
+ 
+
+1 Hard copies of the Notice of Intent to Revoke Registration were mailed by UPS to PCI and Bretas
+on May 7, 2020 to their last known address (included on the NFA Basic website): Fabio Bretas de
+Freitas, Phy Capital Investments, LLC, 999 Brickell Avenue, Suite 940, Miami, FL 33131, and Phy
+Capital Investments LLC, 999 Brickell Avenue, Suite 940, Miami, FL 33131 that were âdeliveredâ on
+May 8, 2020. The Notice was also sent that same day to Fabio Bretas de Freitas, Bergen County
+Jail, 160 S. River Street, Hackensack, NJ 07601 because Bretas is currently incarcerated. This
+mailing was returned to the Commission because âreceiver refused deliveryâ.
+
+In addition to sending hard copies, the Office of Proceedings sent the Notice on May 7, 2020 by email
+to Fabio.Bretas@Phycapital.com and fabiobretasdefreitas@gmail.com. The email to
+Fabio.Breta@Phycapital received a Mail Delivery System-Bounce message, and the Commission did
+not receive either a confirmation that the email was read or a delivery failure message for the email
+to fabiobretasdefreitas@gmail.com.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Because the UPS mailings should have instead been certified or registered mail, I had the Notice of
+Intent re-served on June 19, 2020 by email and certified mail. The Office of Proceedings received
+similar delivery failures for the June 19, 2020 Notice.
+
+2 Pursuant to CFTC Rule 3.30(a), 17 C.F.R. Â§ 3.30(a), the address of each registrant as submitted on
+its application for registration or as submitted on the biographical supplement shall be deemed to be
+the address for delivery to the registrant for an communications from the Commission, including any
+summons complaint, notice or other written documents or correspondence, unless the registrant
+specifies another address for this purpose. CFTC rule 3.30(b), 17 C.F.R. Â§ 3.30(b), provides that each
+registrant, while registered and for two years after the termination of registration, must notify NFA
+of any change of address, and that failure to do so may result in an order of default in any
+Commission or NFA proceedings. Moreover, pursuant to CFTC Rule 3.50, 17 C.F.R. Â§ 3.50, for
+purposes of an action for the denial, suspension or revocation of registration, service upon a
+registrant will be sufficient if mailed by registered mail or certified mail return receipt requested
+properly addressed to the registrant at the address shown on his application or any amendment
+thereto, and will be complete upon mailing.
+Furman of the U.S. District Court of the Southern District of New York in CFTC v.
+Bretas de Freitas, Case No. 1:19-CV-4238 (Default Judgment Order); and (2) the
+judgment in a parallel criminal case reflecting that Bretas pled and was adjudicated
+guilty, entered on February 28, 2020 by the Honorable Laura Taylor Swain of the
+U.S. District Court for the Southern District of New York in United States v. Bretas
+de Freitas, Case No. 1:19-CR-257 (Criminal Judgment).
+
+PCI and Bretas did not respond to the Commissionâs Notice, and on July 22,
+2020, I issued a Default Notice finding that PCI and Bretas were in default and
+setting deadlines for the Division to file a motion for entry of a default judgment
+and for PCI and Bretas to file any opposition to the Divisionâs motion.? PCI and
+Bretas have not responded to the Default Notice or to the Divisionâs entry of a
+default judgment motion. The matter is thus ready for entry of a default judgment.
+
+As a result of their defaults, PCI and Bretas have waived a hearing on all of
+the issues and are precluded from introducing evidence of mitigation and
+rehabilitation to rebut the strong presumption of unfitness for registration created
+by the finding of fact, conclusions of law, and sanctions in the Default Judgment
+Order. Thus, the well-plead allegations in the Commissionâs Noticeâas augmented
+by the evidence in proposed findings and conclusions of law in the Divisionâs Motion
+
+for Default Judgmentâare deemed true and conclusive for purposes of finding that
+
+ 
+
+3 The Office of Proceedings served that Default Notice in the same manner it served the June 19,
+2020 Notice. The Default Notice was âdeliveredâ to an individual at the Miami address, specified in
+footnote 1 above, on August 3, 2020 according to the United States Postal Service tracking
+information. However, the Default Notice sent to PCI at the Miami address was returned on August
+10, 2020, and the Default Notice sent to Bretas in New Jersey was returned on August 24, 2020. In
+addition, the email to Fabio. Bretas@phycapital.com received a Mail Delivery System Bounce
+message, and the Commission did not receive either a confirmation that the email was read ora
+delivery failure message for the email to fabiobretasdefreitas@gmail.com.
+PCI and Breitas are both statutorily disqualified from registration under Sections
+8a(2)(C), (E), and (H) of the Act, 7 U.S.C. Â§Â§ 12a(2)(C), (E), and (H). Accordingly, as
+explained below, the Divisionâs Motion for Default Judgment is granted, PCI and
+Breitas have been found to be unfit for registration an statutorily disqualified from
+registration, and their registrations have been revoked.
+
+II. Findings of Fact
+
+1. PClis a Delaware limited lability company.
+
+2. The address it listed with the Commission is 999 Brickell Ave., Suite 940,
+Miami, Florida 33131.
+
+3. PCI has been registered with the Commission as a CPO and a CTA since
+September 10, 2014, pursuant to Section 4m(1) of the Act, 7 U.S.C. Â§ 6m(1) (2018).
+In addition, it previously was registered with the Commission in those capacities
+between April 15, 2010 and November 14, 2013.
+
+4. Bretas has resided in Miami, Florida and has been registered as an AP of
+PCI since September 10, 2014 through the present pursuant to Section 4k(2) and (3)
+of the Act, 7 U.S.C. Â§Â§ 6k(2),(3). Bretas also previously was registered as an AP of
+PCI from January19, 2010 through November 14, 2013. In addition, at all relevant
+times, Bretas was Chief Executive Officer CEO of PCI.
+
+5. On May 9, 2019, the Commission filed a civil injunctive action against PCI
+and Bretas. The Commissionâs complaint alleged, inter alia, that PCI and Bretas
+engaged in multiple acts of misappropriation of commodity pool and client funds
+
+and the issuance of materially false account statements to clients, all in violation of
+certain anti-fraud provisions of the Act.
+
+6. On October 3, 2019, U.S. District Judge Furman entered a Default
+Judgment Order which contained findings of fact and conclusions of law which
+confirmed, as alleged in the Complaint, that PCI and Bretas committed fraud in
+violation of Sections 4b(a)(1) and 40(1) of the Act, 7 U.S.C. Â§Â§ 6b(a)(1), 60(1), by
+misappropriating client funds and by delivering false account statements to clients.
+The Default Judgment Order also, in relevant part, permanently restrains PCI and
+Bretas from:
+
+a. directly or indirectly committing fraud in violation of Sections 4b(a)(1) and
+Ao(1) of the Act;
+
+b. trading on or subject to the rules of any registered entity (as that term is
+defined in Section la(40) of the Act, 7 U.S.C. Â§ la(40));
+
+c. entering into any transaction involving âcommodity interestsâ (as that
+term is defined in Regulation 1.3, 17 C.F.R. Â§ 1.3) for their own personal accounts or
+for any account in which they have a direct or indirect interest;
+
+d. having any commodity interests traded on their behalf;
+
+e. controlling or directing trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account involving
+commodity interests;
+
+f. soliciting, receiving, or accepting any funds from any person for the
+purpose of purchasing or selling any commodity interests;
+
+g. acting as a principal (as that term is defined in Regulation 3.1(a), 17
+C.F.R. Â§ 3.1(a)), agent, or any other officer or employee of any person registered,
+exempted from registration, or required to be registered with the Commission,
+except as provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9); and
+
+h. engaging in any business activities related to commodity interests.
+
+7. On February 28, 2020, following a plea in a related criminal action, a
+federal district court adjudged Bretas guilty of a felony, namely, conspiracy to
+commit wire fraud and commodities fraud under 18 U.S.C. 13849. Bretasâs
+conviction was based on his conduct as an owner and AP of PCI and it involved
+transactions or advice concerning contracts of sale of a commodity for future
+delivery, as well as fraud and misappropriation of commodity pool funds. Judgment
+in a Criminal Case, United States v. Bretas de Freitas, No. 1:19-cr-257 (S.D.N.Y.
+Feb. 28, 2020), ECF No. 30.
+
+8. The Commission filed a Notice of Intent to Revoke the Registrations of
+PCI and Bretas on May 7, 2020.
+
+9. On May 7, 2020 the Commissionâs Office of Proceedings served PCI and
+Bretas with a copy of the Notice by UPS and email, which was accompanied by a
+cover letter and links to the Commissionâs Part 3 and 10 Rules. The Notice and a
+cover letter with links to the Commissionâs Part 3 and 10 Rules were re-served by
+certified mail and email on June 19, 2020 to PCIâs and Bretasâ listed address with
+the Commission: 999 Brickell Avenue Suite 940 Miami. Florida 33131. The Notice
+
+and letter were also emailed to Fabio.Bretas@Phycapital.com and
+
+ 
+
+fabiobretasdefreitas@gmail.com and sent by certified mail to Fabio Bretas de
+Freitas at Bergen County Jail, 160 S. River Street, Hackensack, NJ 07601.
+
+10.Commission Regulation 3.30(a), 17 C.F.R. Â§ 3.30(a), provides, in relevant
+part, that the address of each registrant as identified on its application for
+registration (Form 7-R or Form 8-R) or as submitted on its biographical supplement
+(Form 8-R) shall be deemed to be the address for delivery to the registrant for any
+communications from the Commission, including any summons, complaint, notice,
+or other written documents or correspondence, unless the registrant specifies
+another address for this purpose.
+
+11.To date, neither PCI nor Bretas have responded to the Notice.
+
+III. Discussion and Conclusions of Law
+
+Section 8(a)(2) of the Act, 7 U.S.C. Â§ 12a(2), sets out eight grounds for denial,
+suspension or revocation of registration, known customarily as âstatutory
+disqualifications.â According to the relevant House Agricultural Commission
+Report, each Section 8a(2) disqualification involves a previous formal determination
+by a court, or the Commission or other government agency, that a person or firm
+has engaged in conduct involving âespecially grave offenses that are clearly related
+to a personâs [or firmâs] fitness for registration with the Commission.â H.R. Report
+No. 97-565, Part I at 50 (May 17, 1982). The report further explained that, since
+each Section 8a(2) disqualification is based upon a previous finding or order by a
+court, or the Commission or other governmental body, âwhether or not a person is
+subject to such a disqualification generally is readily ascertainable by checking
+
+officially maintained records.â Jd.
+In conjunction with the Commissionâs Part 3 rules, a Section 8a(2)
+disqualification generally operates as a strong presumption that a person or firm is
+conclusively unfit to do business in a relevant registered capacity. The Commission
+has noted that the strong presumption of unfitness for registration under Section
+8a(2) of the Act rests on the common-sense inference that once an individual or firm
+has undertaken serious wrongdoing, as is the case here with PCI and Bretas, a
+substantial risk exists that the individual or firm will undertake similar
+wrongdoing in the future. See In re Akar, Comm. Fut. L. Rep. Â§ 22,297 (CFTC Feb.
+24, 1986). The strong presumption of unfitness can be rebutted by a convincing
+showing that allowing a person or firm to become or remain registered will not pose
+a risk to the public, including, for example, mitigating circumstances,
+rehabilitation, or close supervision by another registrant. See Commission Rules
+3.60(b)(2)G) and 3.60(b)(2)Gi)(A)-(C), 17 C.F.R. Â§Â§ 3.60(b)(2)@ and 3.60(b)(2)Gi)(A)-
+(C). By defaulting, PCI and Bretas have precluded themselves from presenting
+
+such rebuttal evidence.
+
+A. Section 8a(2)(C) of the Act
+
+ 
+
+Section 8a(2)(C) of the Act, 7 U.S.C. Â§ 12a (2)(C), provides that the
+Commission may revoke the registration of any person who has been permanently
+enjoined by order of a court of competent jurisdiction from certain enumerated
+activities, including but not limited to G) acting as a futures commission merchant,
+introducing broker, floor broker, floor trader, CTA, CPO, or an AP of any registrant
+
+under the Act, or (ii) engaging in or continuing any activity involving fraud or any
+transaction in or advice concerning contracts of sale of a commodity for future
+delivery or concerning matters subject to Commission regulation under Section 4c
+
+or 19 of the Act, 7 U.S.C. Â§Â§ 6c or 23.
+
+B. Section 8a(2)(D) of the Act
+
+ 
+
+Section 8a(2)(D) of the Act, 7 U.S.C. Â§ 12(a)(2)(D) provides that the
+Commission may revoke the registration of any person who has been convicted
+within ten years preceding the filing of the application for registration or at any
+time thereafter of any felony that, among other things, (i) involves any transactions
+or advice concerning any contract of sale of a commodity for future delivery; (ii)
+arises out of the conduct of the business of, among others, a CTA, AP of a CTA, a
+CPO or an AP of a CPO, or Gii) involves embezzlement, theft, extortion, fraud,
+fraudulent conversion, misappropriation of funds, forgery, counterfeiting, false
+
+pretenses, bribery or gambling.
+
+C. Section 8a(2)(E) of the Act
+
+ 
+
+Section 8a(2)(E) of the Act, 7 U.S.C. Â§ 12(a)(2)(E), provides that the
+Commission may revoke the registration of any person who has been found, in a
+proceeding brought by the Commission, to have violated the Act by committing
+fraud or misappropriation of funds within ten years preceding the filing of the
+
+registration application or any time thereafter.
+
+D. Section 8a(2)(H) of the Act
+
+ 
+
+Section 8a(2)(H) of the Act, 7 U.S.C. Â§ 12(a)(2)(H), provides that the
+
+Commission may revoke the registration of any person if revocation of the
+registration of any principal of such person is warranted pursuant to Section 8a(2)
+of the Act. Section 8a(2)(H) of the Act further provides that âprincipal,â as used in
+Section 8a(2) of the Act, includes a general partner of a partnership or a person who
+owns more than 10% of the voting shares of a corporation. Additionally, pursuant to
+Regulation 3.1(a)(1), 17 C.F.R. Â§ 3.1(a)() (2019), if an entity is organized as a
+limited liability company, âprincipalâ includes any director, president, chief
+executive officer, manager, managing member or members vested with the
+management authority for the entity, any person in charge of a principal business
+unit, division or function subject to regulation by the Commission, and any person
+occupying a similar status or performing similar functions, having the power,
+directly or indirectly, through agreement or otherwise, to exercise a controlling
+influence over the entityâs activities that are subject to regulation by the
+
+Commission.
+
+The facts set forth above constitute a valid basis for the Commission to
+revoke PCIâs registration as a CPO and CTA pursuant to Sections 8a(2)(C), 8a(2)(E)
+and 8a(2)(H) and Bretasâ registration as an AP of PCI pursuant to Sections 8a(2)(C),
+8a(2)(D) and 8a(2)(E) of the Act.
+
+ORDER
+
+PCI is statutorily disqualified from registration under Sections 8a(2)(C),
+8a(2)(E) and 8a(2)(H) of the Act, and Bretas is statutorily disqualified from
+registration under Sections 8a(2)(C), 8a(2)(D) and 8a(2)(E) of the Act. Accordingly:
+
+(1) The Divisionâs Motion for Entry of Default Judgment is granted; (2) PCI and
+
+10
+Bretas are found conclusively unfit for registration; and (3) the registrations of PCI
+
+and Bretas are revoked.
+
+Dated: August 31, 2020
+/s/ Kavita Kumar Puri
+Kavita Kumar Puri
+Judgment Officer
+
+ 
+
+11

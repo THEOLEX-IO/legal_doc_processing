@@ -1,0 +1,362 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+ 
+
+ 
+
+8:32 pm, Sep 30, 2019
+
+In the Matter of: ) RECEIVED CFTC
+) CFTC Docket No. 19-52
+CHS, Inc., )
+. )
+) Office of Proceedings
+) Proceedings Clerk
+Respondent. )
+)
+
+ 
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+CHS, Inc. (âCHSâ or âRespondentâ) violated a prior Commission Order and Commission
+Regulation (âRegulationâ) 19.01, 17 C.F.R. Â§ 19.01 (2018). Therefore, the Commission deems it
+appropriate and in the public interest that public administrative proceedings be, and hereby are,
+instituted to determine whether Respondent engaged in the violations set forth herein and to
+determine whether any order should be issued imposing remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
+Exchange Act, Making Findings, and Imposing Remedial Sanctions (âOrderââ), and
+acknowledges service of this Order.â ,
+
+ 
+
+' Respondent consents to the use of the findings of fact and conclusions of law in this Order in this
+
+proceeding and in any other proceeding brought by the Commission or to which the Commission is a party or
+claimant, and agrees that they shall be taken as true and correct and be given preclusive effect therein, without
+further proof. Respondent does not consent, however, to the use of this Order, or the findings or conclusions herein,
+as the sole basis for any other proceeding brought by the Commission or to which the Commission is a party or
+claimant, other than: a proceeding in bankruptcy or receivership; or a proceeding to enforce the terms of this Order.
+Respondent does not consent to the use of the Offer or this Order, or the findings or conclusions in this Order, by
+any other party in any other proceeding.
+II. FINDINGS
+The Commission finds the following:
+
+A. SUMMARY
+
+CHS filed with the Commission incorrect Form 204 reports on a monthly basis from at
+least January 2016 to January 2019 (the âRelevant Periodâ). These Form 204 reports related to
+corn and soybean meal futures contracts and constituted thirty-seven individual monthly Form
+204 reports. By filing these incorrect Form 204 reports, CHS violated Regulation 19.01, 17
+C.F.R. Â§ 19.01 (2018), as well as the cease-and-desist provision of a prior Commission Order,
+filed in March 2016,â which involved a thirteen-year failure to file correct Form 204 reports with
+the Commission.
+
+In accepting the Offer, the Commission recognizes CHSâs self-reporting, cooperation,
+and remediation in the form of a substantially reduced civil monetary penalty.
+
+B. RESPONDENT
+
+CHS, Ine. (âCHSâ) is a Minnesota cooperative corporation with its headquarters in Inver
+Grove Heights, Minnesota. CHS is a global agribusiness owned by farmers, ranchers, and
+cooperatives across the United States. CHS is listed with the National Futures Association as a
+principal of CHS Hedging LLC, a registered futures commission merchant since 1986.
+
+Cc. FACTS
+
+1, The CFTC Order
+
+In March 2016, the CFTC entered an Order against CHS (âMarch 2016 Orderâ) which
+found that CHS had violated Regulation 19.01 by failing to submit correct Form 204 reports for
+a thirteen-year period. The Commission ordered CHS to pay a $1 million civil monetary
+penalty, and required CHS to cease and desist from violating Regulation 19.01.
+
+2. The Current Violations
+
+Subsequent to the entry of the CFTC Order, CHS continued to experience difficulty
+submitting correct Form 204 reports.? These difficulties stemmed in part from a number of steps
+
+ 
+
+, CFTC v. CHS, Inc., CFTC No. 16-07, 2016 WL 929428 (Mar. 9, 2016) (âCFTC Orderâ).
+3 Entities are required to file Form 204 reports if they: (1) hold or control reportable futures and options
+positions in certain agricultural commoditiesâincluding wheat, corn, oats, soybeans, soybean oil, and soybean
+meal; and (2) any part of those positions constitute bona fide hedging positions. In the Form 204 reports, entities are
+required to show the composition of their fixed price cash position of each such commodity hedged. Form 204
+reports are filed monthly, as of the close of business on the last Friday of the month, and show the composition of
+the reporting entityâs fixed price cash position of each commodity hedged, including the quantity of open fixed price
+purchase and fixed price sale commitments in such cash commodities. As the instructions for the Form 204 reports
+state, the filer is to â[rJeport in thousands of bushels the entire quantity of cash stocks owned and open fixed price
+cash purchases and cash sales of the commodity and its products and byproducts.â One purpose of the Form 204
+report is to check compliance with speculative position limits by ensuring that filers that classify their futures
+positions as hedging actually own or control offsetting cash positions.
+
+2
+CHS took to replace its enterprise software, which among other things, would automate the Form
+204 report process.
+
+Following the March 2016 Order, CHS began auditing the various inputs into the reports
+for compliance. These inputs came from, among other things, certain of CHSâs divisions and
+subsidiaries. During this process, CHS discovered four categories of errors:
+
+e In January 2018, CHS discovered an incorrect conversion formula in the Country
+Operations Divisionâs Form 204 aggregation spreadsheet resulting in an
+overstatement of âcorn otherâ inventory positions;
+
+e In February 2018, CHS discovered a defective code in the new enterprise
+software CHS had begun migrating and automating all its data, including
+soybeans, soybean meal, soybean oil, and soybean âotherâ inputs to the Form 204
+report. This defective code was creating errors in the Processing & Food
+Ingredients Divisionâs position;
+
+e In June 2018, CHS discovered that when the Renewable Fuels Division had
+biodiesel inventory, it was inadvertently included in the ethanol inventory
+number. That error created an overstatement of âcorn otherâ inventory on certain
+Form 204 report submissions; and
+
+e Also in June 2018, CHS discovered a conversion formula error resulting in an
+overstatement of soybean meal positions on the Form 204 reports.
+
+In May 2018, CHS self-reported the Form 204 report errors it was aware of to the
+Commission. Subsequently, CHS continued auditing its Form 204 reports and apprised the
+Commission when it discovered new information, which included briefings on the reporting
+errors and proposed remediation plans. During these meetings, CHS accepted responsibility for
+its failures, was forthcoming and responsive in connection with questions regarding the
+violations and remediation, and performed an analysis to determine if any position limits
+violations had occurred as a result of the erroneous Form 204 reports.
+
+After a complete evaluation, CHS was able to determine that it had filed thirty-seven
+inaccurate Form 204 reports over a three-year period before it was able to correct the errors.
+CHS submitted all corrected Form 204 reports on February 21, 2019. These corrected reports
+spanned January 29, 2016, to January 25, 2019.
+
+These inaccurate Form 204 reports brought CHS into violation of the March 2016 Order
+before the March 2016 Order was issued by the Commission, as CHS began to remediate
+violations through automation. Accordingly, this matter might normally have resulted in a civil
+monetary penalty in excess of the one ordered in the March 2016 Order. However, the Division
+recognizes that CHS itself discovered the Form 204 reporting errors and promptly self-reported
+the issue to the Commission, even as CHS continued to investigate the scope of the potential
+violations. These types of Form 204 report errors were likely not of the type that the
+Commission would have detected otherwise. Moreover, CHS cooperated with the Division in its
+investigation by, among other things, identifying and providing the complete facts about the
+nature and scope of the reporting violations in a timely manner and proactively remediating.
+Accordingly, the civil monetary penalty here is substantially reduced to reflect CHSâs self-
+reporting of its violations, full cooperation, and substantial remediation.
+Hil. LEGAL DISCUSSION
+
+A. VIOLATION OF PRIOR COMMISSION ORDER
+
+Section 6c of the Commodity Exchange Act (âActâ), 7 U.S.C. Â§ 13a-1 (2012), authorizes
+the Commission to bring an enforcement action for violations of its orders in the same manner as
+for violations of the Act or Regulations.â On March 9, 2016, the Commission issued the CFTC
+Order filing and settling charges against CHS for filing incorrect Form 204 reports on a monthly
+basis with the Commission that did not comply with statutory requirements.
+
+Section VILA of the CFTC Order ordered CHS to cease and desist from further
+violations of Regulation 19.01, 17 C.F.R. Â§ 19.01 (2016). During the Relevant Period, CHS
+submitted incorrect Form 204 reports on thirty-seven occasions, all in violation of the CFTC
+Order.
+
+B. VIOLATION OF REGULATION 19.01
+1. â Statutory Background
+
+Regulation 19.00(a)(1), 17 C.F.R. Â§ 19.00(a)(1) (2018), requires that persons holding or
+controlling futures and options positions in certain agricultural commodities that are reportable
+pursuant to Regulation 15.00(p)(2), 17 C.F.R. Â§ 15.00(p)(2) (2018), and any part of which
+constitute bona fide hedging positions as defined in Regulation 1.3, 17 C.F.R. Â§ 1.3 (2018), must
+file Form 204 reports showing the composition of the fixed price cash position of each such
+commodity hedged (the âForm 204 commodities,â which include wheat, corn, oats, soybeans,
+soybean oil and soybean meal). Reportable positions under Regulation 15.00(p)(2) are any
+combined futures and futures-equivalent option open contract position as defined in Part 150 of
+the Regulations, 17 C.F.R. pt. 150 (2018), in any one month or in all months combined, either
+net long or net short in any commodity on any one reporting market, which positions at the close
+of the market on the last business day of the week exceed the net quantity limit in spot, single or
+in all-months fixed in Regulation 150.2, 17 C.F.R. Â§. 150.2 (2018), for the Form 204
+commodities.
+
+2. Violations
+
+During the Relevant Period, CHS held reportable positions in Form 204 commodities and
+was required by Regulation 19.00(a)(1) to file Form 204 reports. Regulation 19.01 requires
+Form 204 reports to show the quantities of the fixed price purchase and sale open cash positions
+for each of the Form 204 commodities hedged.
+
+ 
+
+â Section 6c of the Act authorizes the Commission to bring an action for injunctive relief in federal district
+
+court for violations of âany provision of this chapter, or any rule, regulation, or order thereunder.â
+
+4
+During the Relevant Period, CHS, submitted Form 204 reports which did not accurately
+state the quantities of CHSâs fixed price open cash positions as required by Regulation 19.01.
+Therefore, CHS violated Regulation 19.01 on numerous occasions.
+
+IV. FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that, during the relevant period,
+Respondent violated Section VILA of the CFTC Order and Regulation 19.01, 17 C.F.R. Â§ 19.01
+(2018).
+
+V. OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+A. Acknowledges service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order,
+
+C, Waives:
+1. The filing and service of a complaint and notice of hearing;
+2. A hearing;
+
+3, All post-hearing procedures;
+4, Judicial review by any court;
+
+5, Any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+6. Any and all claims that it may possess under the Equal Access to Justice Act, 5
+U.S.C. Â§ 504 (2012), and 28 U.S.C. Â§ 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations, 17 C.F.R.
+pt. 148 (2018), relating to, or arising from, this proceeding;
+
+7. Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. II, Â§Â§ 201-253, 110
+Stat. 847, 857-74 (codified as amended at 28 U.S.C. Â§ 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+8. Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order;
+D. Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer; and
+
+E. Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+1. Makes findings by the Commission that Respondent violated the CFTC Order;
+
+2. Makes findings by the Commission that Respondent violated Regulation 19.01, 17
+C.F.R. Â§ 19.01 (2018);
+
+3. Orders Respondent to cease and desist from violating the CFTC Order and
+Regulation 19.01;
+
+4, Orders Respondent to pay a civil monetary penalty in the amount of five-hundred
+thousand dollars ($500,000), plus post-judgment interest; and
+
+5. Orders Respondent and its successors and assigns to comply with the conditions
+and undertakings consented to in the Offer and as set forth in Part VI of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A. Respondent cease and desist from violating the CFTC Order and Regulation 19.01, 17
+C.F.R. Â§ 19.01 (2018).
+
+B. Respondent shall pay a civil monetary penalty in the amount of five-hundred thousand
+dollars ($500,000) (CMP Obligation), within ten days of the date of entry of this Order.
+If the CMP Obligation is not paid in full within ten days of the date of entry of this Order,
+then post-judgment interest shall accrue on the CMP Obligation beginning on the date of
+entry of this Order and shall be determined by using the Treasury Bill rate prevailing on
+the date of entry of this Order pursuant to 28 U.S.C. Â§ 1961 (2012).
+
+Respondent shall pay the CMP Obligation and any post-judgment interest by electronic
+funds transfer, U.S. postal money order, certified check, bank cashierâs check, or bank
+money order. If payment is to be made other than by electronic funds transfer, then the
+payment shall be made payable to the Commodity Futures Trading Commission and sent
+to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+(405) 954-1620 fax
+9-AMC-AR-CFTC@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Marie
+Thorne or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+
+Respondent shall comply with the following conditions and undertakings set forth in the
+Offer:
+
+1. Public Statements: Respondent agrees that neither it nor any agents or employees
+under its authority or control shall take any action or make any public statement
+denying, directly or indirectly, any findings or conclusions in this Order or
+creating, or tending to create, the impression that this Order is without a factual
+basis; provided, however, that nothing in this provision shall affect Respondentâs:
+(i) testimonial obligations; or (ii) right to take legal positions in other proceedings
+to which the Commission is not a party. Respondent shall comply with this
+agreement, and shall undertake all steps necessary to ensure that all of his agents
+and/or employees under his authority or control understand and comply with this
+agreement.
+
+2. Periodic Reporting: Respondent represents that while it is continuing to perfect
+its enterprise software conversion, CHS has employed a separate automated
+system on which it will rely for its Form 204 reporting. Until such time as the
+Respondent perfects is enterprise software conversion in full, Respondent will
+report to the Commission every six months on its efforts and the effects, if any,
+such conversion has on its reporting obligations.
+
+3, Cooperation, in General: Respondent shall cooperate fully and expeditiously with
+the Commission, including the Commissionâs Division of Enforcement, in this
+action, and in any current or future Commission investigation or action related
+thereto. Respondent shall also cooperate in any investigation, civil litigation, or
+administrative matter related to, or arising from, this action.
+
+4, Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission or the Monitor of any partial payment of Respondentâs CMP
+Obligation shall not be deemed a waiver of his obligation to make further
+payments pursuant to this Order, or a waiver of the Commissionâs right to seek to
+compel payment of any remaining balance.
+
+5. Change of Address/Phone: Until such time as Respondent satisfies in full his
+CMP Obligation as set forth in this Consent Order, Respondent shall provide
+
+7
+written notice to the Commission by certified mail of any change to his telephone
+number and mailing address within ten calendar days of the change.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+     
+
+Christopher J. Kâ rkpatrick ;
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: September 30, 2019

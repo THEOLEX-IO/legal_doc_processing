@@ -1,0 +1,163 @@
+Release Number 7736-18
+June 4, 2018
+
+CFTC Orders Société Générale S.A. to Pay $475 Million Penalty to Resolve Charges of
+Manipulation, Attempted Manipulation, and False Reporting of LIBOR and Euribor
+
+Washington, DC - The Commodity Futures Trading Commission (CFTC) issued an Order today filing and settling charges
+against Société Générale S.A. (Société Générale or the Bank) for attempted manipulation of and false reporting in
+connection with the London Interbank Offered Rate (LIBOR) for U.S. Dollar, Yen and Euro, and the Euro Interbank Offered
+Rate (Euribor), certain instances of manipulation of Yen LIBOR, and aiding and abetting traders at another bank in their
+attempts to manipulate Euribor. The Bank’s misconduct spans more than six years, from 2006 through mid-2012. The
+CFTC Order requires Société Générale to pay a civil monetary penalty of $475 million, cease and desist from further
+violations as charged, and adhere to specific undertakings to ensure the integrity of its LIBOR, Euribor, and other
+benchmark interest rate submissions in the future.
+
+James McDonald, CFTC Director of Enforcement, commented: “Today’s action shows the CFTC’s continued commitment
+to ensuring the integrity of global benchmarks that impact the U.S. markets. During the course of these Libor
+investigations, we have seen some market participants knowingly make false reports in an effort to increase their trading
+profits or misrepresent their financial health. But we also have seen the Commission and its staff work tirelessly to
+identify this misconduct, root out the bad actors, and to ensure those responsible are held accountable.”
+
+LIBOR and Euribor are global interest rate benchmarks that act as the basis of pricing for trillions of dollars of financial
+instruments, including U.S. based exchange-traded futures contracts and swaps transactions. Markets, investors, and
+consumers in the United States and around the world rely on the integrity of these benchmark interest rates.
+
+LIBOR and Euribor are fixed each day based on rates submitted by a select panel of banks. They are supposed to reflect
+or relate to the true costs of borrowing unsecured funds in the relevant interbank market. In determining what rates to
+submit, each panel bank is to make an honest assessment of those costs. Benchmark submissions thus convey market
+information about borrowing costs for unsecured funds, the liquidity conditions and stress in the money markets, and a
+bank’s ability to borrow funds in the particular markets. As reflected in the CFTC’s Order, at various times during the
+relevant period, Société Générale made its submissions for U.S. Dollar, Euro and Yen LIBOR and Euribor based on
+impermissible factors.
+
+The Order finds that Société Générale engaged in misconduct that undermined the integrity of LIBOR and Euribor for two distinct
+purposes. From May 2010 through mid-2012, during a period of market strain due to the Greek sovereign debt crisis, Société
+Générale made false reports of U.S. Dollar and Euro LIBOR and Euribor to protect its reputation from speculation that it was
+having more difficulty borrowing unsecured funds than other banks. Société Générale made these false reports at the direction
+of certain members of executive management, including the Chief Financial Officer and Head of Corporate Investment Banking,
+as well as senior Treasury managers, including the Global Head of Treasury. At other times, as detailed below, Société Générale
+made false reports concerning U.S. Dollar, Yen, and Euro LIBOR and Euribor in attempts to manipulate the setting of those
+benchmarks, and for Yen LIBOR was, at certain times, successful in its attempts to manipulate, in order to benefit trading
+positions that were priced based on LIBOR or Euribor, or in other words, for profit.
+
+As the Order finds, Société Générale engaged in misconduct even after it knew that the CFTC was investigating the
+Bank’s Euribor and LIBOR submission practices as of July and September 2011. Société Générale continued to make false
+U.S. Dollar LIBOR submissions by submitting rates lower than its true costs of borrowing funds in order to protect its
+reputation. Moreover, in early 2012, Société Générale conducted an internal audit of its LIBOR submission process, which
+produced an anemic report that failed to identify glaring improprieties and concluded the Bank’s submitted rates were
+“consistent with” British Bankers’ Association guidelines despite an abundance of evidence to the contrary.
+
+Société Générale Makes False Submissions to Protect Reputation As Directed by Executive Management
+from May 2010 through Mid-2012
+
+The CFTC Order specifically finds that in May 2010, during a period of market strain due to the Greek sovereign debt
+crisis to which Société Générale had exposure, Société Générale’s U.S. Dollar LIBOR submissions garnered the attention
+of press and market analysts because the submissions were consistently higher than the submissions of many other
+banks, reflecting to the market that the Bank was paying higher interest rates than other banks in order to borrow
+unsecured funds. This raised the concerns of certain members of Société Générale’s executive management that the
+relatively higher U.S. Dollar LIBOR submissions were creating an impression that the Bank was struggling to finance itself
+and the Bank would appear less financially stable compared to its competitors, especially the French banks. Certain
+members of executive management expressed anger over the Bank’s submissions having a negative impact on its
+reputation. They instructed the Bank’s Global Head of Treasury that Société Générale’s submissions should not be
+among the highest of the non-eliminated banks and should not raise questions about the Bank’s financial stability.
+Société Générale’s Global Head of Treasury conveyed these executive managers’ concerns and instructions to the
+members of Treasury responsible for making the submissions. At the direction of these managers, the Bank’s LIBOR and
+Euribor submitters were to lower the Société Générale’s LIBOR submissions to ensure that there was no further scrutiny
+from the press or market analysts and to assuage the concerns of the executive management. Société Générale’s
+submitters followed the instructions, with one manager noting that it was “a total charade.” Société Générale also
+lowered its Euribor submissions to match the Bank’s lower Euro LIBOR submissions to avoid detection of their false
+depression of Euro LIBOR because the benchmarks tended to move in tandem.
+The Order finds that at times, members of Société Générale’s Treasury Desks expressed discomfort and concern about
+Société Générale’s submission practices. “We have increased our market funding levels without moving our LIBOR
+contribution | think we are leaving ourselves exposed to a possible claim of market manipulation ... | am extremely
+uncomfortable with this situation.” Certain members of executive management were informed that submissions did not
+match what the Bank was paying in the market, being told at one point, “we remain in breach,” “we're very far away
+from reality,” and “we’re in cloud cuckoo land with our contributions.” The Bank made false U.S. Dollar LIBOR
+submissions until at least July 2012 and made false Euro LIBOR and Euribor submissions until at least July 2010.
+
+According to the Order, as scrutiny of panel banks LIBOR submissions practices intensified and Société Générale’s fear of
+exposure grew, Société Générale started to gradually increase its submissions, hoping to avoid any market reaction.
+Société Générale also took steps to conceal its misconduct, including preparing fictitious borrowing costs data to submit
+to the LIBOR administrator to justify the Bank’s submissions, discussing, dissembling and justifying aberrant deals done
+at levels above the submissions, and sending false bids for U.S. Dollars into the wider market while telling potential
+lenders one-on-one that the Bank was willing to pay much higher rates. These tactics were meant to hide the
+disconnection between the costs of funds and its U.S. Dollar LIBOR submissions. The Order also finds that upon facing
+inquiry into their misconduct, members of the Bank’s Treasury desks wanted indemnification letters, discussed that they
+“played dumb” when questioned about the Bank’s LIBOR submission process and joked that, “I don’t want to go to prison
+by myself...” and, “You'll have to bring us oranges when we’re in prison.”
+
+Société Générale’s Attempts to Manipulate U.S. Dollar, Yen, and Euro LIBOR and Euribor To Benefit Trading
+Positions
+
+The CFTC Order further finds that at various times, Société Générale, through the acts of members of its Paris Treasury
+Desk and others, attempted to manipulate the fixing of LIBOR and Euribor by making false submissions to benefit money
+market and derivatives trading positions. The Treasury Desks were profit centers for Société Générale and traders’
+compensation was based in part upon the profitability of the Desk.
+
+° From February 2009 to mid-May 2010, Société Générale, through its submitters, based the Bank’s U.S. Dollar
+LIBOR submissions, in whole or in part, on whatever the Paris Treasury Desk believed was most beneficial for the desk’s
+positions on any given day. If successful in affecting the fixing, the Bank would profit on certain money market and
+derivatives positions placed by the Paris Treasury Desk by increasing payments from counterparties on assets or
+decreasing payments to counterparties on liabilities. At one point, as part of a strategy to push the U.S. Dollar LIBOR
+fixing higher to benefit a long position in the one month tenor, Société Générale attempted to make the highest
+submission that would be included in the calculation for the final U.S. Dollar LIBOR fixing. From mid-September 2009 to
+mid-March 2010, 88% of the Bank’s U.S. Dollar LIBOR submissions in the one-month tenor were ranked as one of the
+three highest submissions in the calculation (i.e. the tenth to twelfth highest submission in the panel) for the final fixing.
+And its submissions were consistently above its borrowing costs and the LIBOR fixing.
+
+° From 2006 to at least March 2007, Société Générale, through its submitters and derivatives traders, attempted to
+manipulate Euribor. Senior Euro derivatives traders at the Bank regularly sent requests to the Bank’s Euribor submitters
+on the Paris Treasury Desk to adjust the Bank’s Euribor submissions to benefit trading positions, which were occasionally
+accommodated. On certain occasions, the submitters did not accommodate the requests of the derivatives traders
+because the Paris Treasury Desk itself held positions which would have benefited with an opposite movement in the
+fixing, at which point a decision was made to submit toward the “middle” to accommodate both trading positions.
+
+° During the same period, Société Générale aided and abetted a Barclays derivatives trader’s attempts to
+manipulate Euribor during the same period. At the time, certain Société Générale Euro derivatives traders engaged ina
+two-way scheme of sending submission requests to, and receiving requests from, Barclays derivatives traders to relay to
+their respective Euribor submitters. Société Générale traders relayed Barclays traders’ requests to Société Générale’s
+Euribor submitters to benefit either the Barclays traders’ trading positions, or both the Barclays traders’ and the Société
+Générale traders’ positions. On certain occasions the Bank’s submitters accommodated these requests.
+
+° In the fall of 2007, Société Générale through its submitters and certain traders and senior managers on the Paris
+Treasury Desk, attempted to manipulate Euribor and Euro LIBOR to benefit the desk’s money market and derivatives
+trading positions and mitigate losses. The Head of Paris Treasury, who eventually became the Global Head of Treasury,
+instructed the submitters to skew the Bank’s submissions to mitigate losses on a particularly large trading position held
+by the Desk. One submitter commented, “We have been instructed to [ensure] that the [3 month Euirbor fixing] drops
+[...] And when you're told you have to, well....You do it.” When the Head of London Treasury asked about it, the Head of
+Paris Treasury acknowledged, “Yeah, it was some manipulation... .”
+
+° From July 2006 through August 2007, Société Générale, through its derivatives traders, submitters, and senior
+Treasury managers, attempted to manipulate Yen LIBOR and on certain occasions, successfully manipulated Yen LIBOR.
+The Société Générale’s Head of Treasury for Europe and Asia ordered the Yen Submitter to accommodate the submission
+requests of certain Société Générale Yen derivatives traders in Tokyo. Despite knowing the impropriety of the requests,
+the Yen LIBOR Submitter complied with the order and accommodated these requests.
+
+The Order also finds that Société Générale’s lack of internal controls, procedures, and policies concerning its LIBOR and
+Euribor submission processes and its failure to adequately supervise its money market and derivatives trading desks and
+traders allowed this misconduct to occur. Société Générale did not have policies, internal controls, or procedures for
+determining or monitoring its benchmark interest rate submissions to ensure that the Bank’s LIBOR and Euribor
+submissions were appropriately submitted based on an assessment of the costs of borrowing unsecured funds in the
+relevant interbank markets. Société Générale’s failure to provide internal training or implement standards around its
+LIBOR and Euribor submissions, to prohibit inappropriate communications between traders and submitters, and to
+recognize and monitor obvious conflicts of interest, all led to a culture of misconduct and permitted such misconduct to
+continue for a number of years, according to the Order.
+
+In a related action by the U.S. Department of Justice (DOJ), Société Générale entered into a deferred prosecution
+agreement for violations of the Commodity Exchange Act for the same underlying misconduct and accepted a penalty of
+$275 million.
+The CFTC Order recognizes the Bank’s significant cooperation with the CFTC Division of Enforcement’s investigation,
+
+including identifying and disclosing additional specific misconduct in responding to the Division’s requests for documents
+and information.
+
+The CFTC thanks and acknowledges the valuable assistance of the Department of Justice, the Washington Field Office of
+the Federal Bureau of Investigation, The Autorité des marchés financiers in France, and the UK Financial Conduct
+Authority.
+
+* OK KK OK XK
+
+CFTC Division of Enforcement staff members responsible for this case are: Rishi K. Gupta, Jason T. Wright, Philip P.
+Tumminio, Maura M. Viehmeyer, Jordon Grimm, Kassra Goudarzi, Aimée Latimer-Zayets, Tashieka Taylor, Joseph
+McClanahan, Elizabeth Padgett, Matt Rowland, and Gretchen L. Lowe.

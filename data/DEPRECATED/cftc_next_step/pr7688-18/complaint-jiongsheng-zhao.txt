@@ -1,0 +1,3516 @@
+Case: 1:18-cv-00620 Document #: 1 Filed: 01/28/18 Page 1 of 17 PagelD #:1
+
+UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF ILLINOIS
+
+ 
+
+EASTERN DIVISION
+COMMODITY FUTURES TRADING : CIVIL ACTION NO. 1:18-cv-00620
+COMMISSION,
+PLAINTIFF, : JURY DEMANDED
+V.
+JIONGSHENG ZHAO,
+DEFENDANT.
+
+ 
+
+COMPLAINT FOR INJUNCTIVE RELIEF,
+CIVIL MONETARY PENALTIES, AND OTHER RELIEF
+
+Plaintiff Commodity Futures Trading Commission (“CFTC”) alleges as follows:
+
+I. SUMMARY
+
+1. From at least July 2012 through at least March 2017 (the “Relevant Period”),
+Defendant Jiongsheng Zhao (“Zhao”) engaged in a manipulative and deceptive scheme while
+placing orders for and trading futures contracts on a registered entity. In furtherance of this
+scheme, Zhao repeatedly engaged in manipulative or deceptive acts and practices by “spoofing”
+(bidding or offering with the intent to cancel the bid or offer before execution). On thousands of
+occasions, Zhao placed an order that he wanted to execute and thereafter entered a larger order
+on the opposite side of the market that he intended to cancel before execution. In placing these
+larger spoof orders, Zhao intentionally or recklessly sent false signals of increased supply or
+
+demand designed to trick market participants into executing against the orders he wanted filled.
+~ < a ag PA Sy oR PAS Pw oy . ‘ a
+f Py HE a a x 48 = : care aN PN ee det
+{ase PrP army sad MIL POI CET Oy GE
+We TAR ke ah TA OA PS LE OP
+
+2. By virtue of this conduct, as further described herein, Zhao has engaged in acts and
+practices that violate Sections 4c(a)(5)(C) and 6(c)(1) of the Commodity Exchange Act (“Act”),
+7 U.S.C. §§ 6c(a)(5)(C), 9(1) (2012), and Commission Regulation (“Regulation”) 180.1(a)(1)
+and (3), 17 C.F.R. § 180.1(a)(1), (3) (2017).
+
+3. The CFTC brings this action pursuant to Section 6c of the Act, 7 U.S.C. § 13a-1
+(2012), to enjoin Zhao’s violative acts and practices and to compel Zhao’s compliance with the
+Act and Regulation. In addition, the CFTC seeks civil monetary penalties and such other relief,
+including but not limited to disgorgement and trading and registration prohibitions, as the Court
+deems necessary and appropriate.
+
+Hf. JURISDICTION AND VENUE
+
+4. This Court has jurisdiction over this action under 28 U.S.C. § 1331 (2012) (federal
+question jurisdiction) and 28 U.S.C. § 1345 (2012), which provides that district courts have
+original jurisdiction over civil actions commenced by the United States or by any agency
+expressly authorized to sue by Act of Congress. Section 6c(a) of the Act, 7 U.S.C. § 13a-1(a)
+(2012), authorizes the Commission to seek injunctive relief in any proper district court of the
+United States against any person whenever it shall appear to the Commission that such person
+has engaged, is engaging, or is about to engage in any act or practice constituting a violations of
+any provision of the Act or any rule, regulation or order thereunder.
+
+5. Venue properly lies with this Court pursuant to Section 6c(e) of the Act, because
+Zhao transacts business in the Northern District of Illinois, and the acts and practices in violations
+of the Act and Regulation have occurred within this District.
+
+Hil. THE PARTIES
+
+6. Plaintiff Commodity Futures Trading Commission is the independent federal
+
+regulatory agency charged by Congress with the administration and enforcement of the Act and
+Case: 1:18-cv-00620 Document #: 1 Filed: 01/28/18 Page 3 of 17 PagelD #:3
+
+rules, regulations, and orders thereunder. The CFTC is headquartered at 1155 21st Street, NW,
+Washington, DC 20581.
+
+7. Defendant Jiongsheng Zhao is a resident of New South Wales, Australia. Zhao has
+been employed by a proprietary trading firm (the “Trading Firm”) as a trader for nearly nine
+years. Zhao has never been registered with the CFTC.
+
+IV. OTHER RELEVANT ENTITIES
+
+8. The Chicago Mercantile Exchange (“CME”) is a commodity exchange located at
+20 S. Wacker Street, Chicago, Illinois 60606. It is registered with the CFTC as a designated
+contract market and a swap execution facility.
+9. CME Group Inc. (“CME Group”) is a Delaware corporation with its principal place
+of business in Chicago, Illinois. CME Group is the holding company that owns CME.
+Vv. FACTS
+
+A. Futures Trading Background
+
+10. A futures contract is an agreement to purchase or sell a commodity for delivery or
+cash settlement in the future at a specified price. A futures contract traded on an exchange has
+standard, non-negotiable contract specifications.
+
+11. The E-mini S&P 500 Index futures contract (the “ES contract”) is traded on CME, a
+registered entity. There are four ES contract delivery months: March, June, September, and
+December. The ES contract is cash settled so no delivery of the stocks that make up the
+underlying index takes place.
+
+12. The ES contract trades 24 hours per day from 5:00 PM Central Time on Sunday
+night to 4:00 PM Central Time on Friday afternoon, except for a 15-minute window each day
+when trading halts. The trading day for the ES contract is commonly regarded as consisting of
+
+two trading sessions: the daytime session and the overnight session. The daytime session
+alae oR ON ge a re ee ee :
+e\a TPP Tass Moaerimeant Hf 1 Hua: ¢
+5 Aw Qgewt bu bY Sok Res SAPS Beye a Speedie §
+
+pe ade a OA RPA PP, PR AL
+
+coe
+a
+jos
+OO
+ape
+pales
+on
+
+corresponds with open-outcry trading at the CME and runs from 8:30 AM to 3:15 PM Central
+Time. The overnight session begins after the 15-minute trading halt and runs from 3:30 PM to
+8:29:59 AM Central Time the next day. The daytime session corresponds with, but does not
+perfectly overlap, the trading day for the stocks that make up the underlying index, which runs
+from 8:30 AM to 3:00 PM Central Time on the NYSE and NASDAQ exchanges.
+
+13. The value of the ES contract is the S&P 500 stock index multiplied by fifty dollars.
+The price of the ES contract is quoted in index points, and the minimum price change allowed
+during a trading session is one-quarter of an index point (0.25); thus, if a trader wished to place
+an order above the last traded ES contract price of 2648.25 points, that trader would have to
+place the order at 2648.50 points or higher. This minimum price change is commonly called a
+“tick.”
+
+14. An “order,” in the context of electronic exchange trading, is a request submitted to
+an exchange to buy (that is, “bid”) or sell (that is, “offer” or “ask’”’) a certain number of a
+specified futures contract. An order is for one or more contracts. Contracts may also be called
+“lots,” among other things. Orders are entered into the exchange’s order book. When there
+exists both a willing buyer and seller for a contract at a given price, a transaction occurs and is
+referred to as a “fill” (or a “trade” or “execution”). At any time before the order is fully filled,
+the trader can “cancel” the order. When an order is canceled, the contracts that have not yet been
+bought or sold are pulled from the order book.
+
+15. Each trader can view the aggregate number of contracts and orders that all traders are
+actively bidding or offering at a given price level. Only the total numbers of orders and contracts
+at various price levels are visible, not the identities of the traders who placed the orders. The
+
+best-bid level, or first-bid level, is the highest price at which someone is willing to buy. The
+eww AO PRP ORS cae ee ele OF OPT TTR DL
+Ree Te Tales, AGG Pacoment & t Filer: |
+wr wt a PT Le ASRS a RPSL OPP. GR of GINS AS.
+
+oo
+a
+errs
+ur,
+om
+a
+
+pales
+rr,
+2
+
+best-ask level, or first-ask level, 1s the lowest price at which someone is willing to sell. The bid-
+ask spread is the difference between those two prices.
+
+16. Traders can view the aggregate resting contracts and orders up to the tenth-bid and
+tenth-ask levels. This combined bid and ask information is often referred to as the visible order
+book and represents the visible market depth. Traders often consider information in the order
+book when making trading decisions.
+
+17. An “aggressive” order is an order that crosses the bid-ask spread. On the buy side of
+the market, an aggressive buy order is placed at the best-ask price or higher so, put simply, it is
+an offer to buy at a price that another trader is currently willing to sell. On the sell side of the
+market, an aggressive sell order is placed at the best-bid price or lower so, put simply, it 1s an
+offer to sell at a price that another trader is currently willing to buy. Accordingly, aggressive
+orders are guaranteed to execute, at least partially, immediately after being placed.
+
+18. A “passive” order, on the other hand, does not give up the spread in price. On the
+buy side of the market, a passive buy order is placed at the best-bid price or lower so, put simply,
+it is an offer to buy at a price that is lower than the price that other traders are currently willing to
+sell. On the sell side of the market, a passive sell order is placed at the best-ask price or higher,
+so, put simply, it is an offer to sell at a price that is higher than the price that other traders are
+currently willing to buy. Passive orders rest for at least some amount of time after being placed
+and are not guaranteed to execute.
+
+19. The ES contract is traded electronically on the CME Globex trading system
+(“Globex’”’). Globex employs a matching algorithm to match bids and offers for execution. The
+matching algorithm for the ES market is known as “FIFO,” which denotes first-in, first-out.
+
+Under the FIFO method, orders on the same side of the market (i.e., the buy side or sell side) and
+Case: 1:18-cv-00620 Document #: 1 Filed: 01/28/18 Page 6 of 17 PagelD #:6
+
+at the same price are filled based on time priority; thus, with a few exceptions not pertinent here,
+the order that was placed first trades first, irrespective of the order’s size.
+
+B. Zhao’s Manipulative and Deceptive Scheme
+
+20. Zhao has worked as a trader at the Trading Firm for nearly nine years. In this role,
+he trades futures contracts on U.S. and international exchanges. Zhao does not trade on behalf of
+any party other than the Trading Firm. He shares any profits generated from his trading with the
+Trading Firm. Zhao’s direct supervisor is the Trading Firm’s CEO.
+
+21. During the Relevant Period, Zhao engaged in a manipulative and deceptive scheme
+(the “Scheme”’) that consisted of the following general pattern: (1) placing one or more passive
+small orders (that is, fewer than fifty contracts) on one side of the market, which he intended to
+execute (“Genuine Orders”); (2) placing one or more passive large orders (that is, fifty contracts
+or more) on the opposite side of the market, within two minutes of placing the Genuine Order
+and while the Genuine Order is still pending, which he intended to cancel (“Spoof Orders”);
+
+(3) reaching at least a five-to-one total contract size imbalance between his Spoof Orders and
+Genuine Orders, respectively; and (4) canceling the Spoof Orders within two seconds after they
+were placed. Each instance of this pattern comprises a single “Event.” Collectively, “Genuine
+Orders” and “Spoof Orders” are referred to as “Event Orders.”
+
+22. Zhao’s Scheme was designed to benefit financially from market participants’
+reactions to his Spoof Orders. The following is a simplified explanation of how his Scheme was
+intended to work, using a hypothetical example of a Spoof Order on the buy side. A large Spoof
+Order to buy would result in an increase in demand in the order book (1.e., create or add to an
+order book imbalance in which orders to buy outweigh orders to sell). This increase would be
+visible to other market participants and may lead them to conclude that the price is likely to rise.
+
+This conclusion, in turn, would impact market participants’ decisions, including prompting some
+me aE PRR PR ORS cae et be OF OPTI A oe
+Ree Te Tales, AGG Pacoment & t Filer: |
+wr wt a PT Le ASRS a RPSL OPP. GR of GINS AS.
+
+oo
+a
+errs
+ur,
+om
+a
+
+pales
+rr,
+2
+
+to attempt to purchase contracts before the predicted rise in price happens. In such a case, these
+participants would place aggressive orders to buy (1.e., at a higher price than the currently resting
+bids in the market), making execution of orders resting on the opposite side of the Spoof Order
+more likely. Finally, these bids would enable orders on the opposite side of the Spoof Order—
+including Zhao’s Genuine Orders—to sell sooner, at a better price, or in larger quantities than
+they otherwise would.
+
+23. Zhao carried out his Scheme on the ES contract market traded on CME. For some or
+all of the Relevant Period, Zhao traded manually, by submitting orders, cancelations, and
+modifications using a computer mouse or keyboard.
+
+24. During the Relevant Period, as part of the ongoing Scheme, Zhao engaged in
+approximately 2,300 Events. As part of those Events, Zhao entered about 2,300 Genuine Orders
+and 3,100 Spoof Orders, with all of the Spoof Orders, according to the pattern described herein,
+quickly being canceled.
+
+25. Zhao intended to cancel the Spoof Orders before execution, and often did so after his
+Genuine Orders were filled. The predictable sequence inherent in Zhao’s spoofing pattern,
+which he engaged in thousands of times, demonstrates that Zhao was not reacting to market
+changes when he canceled the Spoof Orders; rather, he was carrying out a predetermined
+strategy that was not dependent on market conditions.
+
+26. By engaging in the Scheme as described herein, Zhao entered Spoof Orders either to
+intentionally send a false signal to the market that he actually wanted to buy or sell the number of
+contracts specified in the Spoof Orders, or while recklessly disregarding the fact that entering his
+spoof orders would send such a false signal—a signal that injected false information about
+
+supply and demand into the market that could affect market activity. Zhao engaged in this
+me RE PRR ORE th ee OPT TR
+ra TP Tals AOS eA Pmaeroment & tT Edler: ¢
+pe wea a STA OA ee RAR EPP a PURE,
+
+oo
+a
+errs
+ur,
+om
+a
+
+pales
+rr,
+2
+
+Scheme to trick other market participants into executing against his Genuine Orders on the
+opposite side of the market—allowing them to fill sooner, at a better price, or in larger quantities
+than they otherwise would. Zhao knew or recklessly disregarded that the Spoof Orders would
+create the false appearance of market depth and result in misinformation, thereby luring market
+participants to trade based on Zhao’s spoofing. The risk that the Spoof Orders could mislead
+other market participants into believing there was genuine interest in purchasing or selling the
+specified number of contracts represented by Zhao’s Spoof Orders was so obvious that Zhao
+must have been aware of it. He knew that his Spoof Orders would appear in the order book and
+that traders often consider order-book information in making trading decisions; thus, Zhao was,
+at least, reckless with respect to the danger that his Spoof Orders would mislead other market
+participants.
+
+27. Although Zhao’s Spoof Orders were visible to the rest of the market, his identity as
+the originator of those orders was not. Only the total numbers of orders and contracts at various
+price levels are visible, not the number of traders or identities of the traders who placed the
+orders. Accordingly, Zhao knew that other market participants could not see that the same trader
+had placed both the Spoof Orders and the Genuine Orders, which might have tipped off market
+participants that his Spoof Orders were not bona fide.
+
+28. Trading overnight was a key component of Zhao’s Scheme and indicative of his
+wrongful intent. Zhao carried out his Scheme more than 99% of the time during overnight
+sessions, when trading volume and volatility were substantially decreased. As a result of the
+reduced volume and volatility depth during overnight sessions, Zhao was able to use smaller
+
+Spoof Orders (with concomitant lower financial risk) to provoke the market reactions he desired.
+me RE PRR ORE th ee OPT TR
+ra TP Tals AOS eA Pmaeroment & tT Edler: ¢
+pe wea a STA OA ee RAR EPP a PURE,
+
+oe
+wert
+errs
+xO
+_—
+od
+c ib
+ta
+ete?
+ws
+‘n
+‘
+oO
+(tee,
+‘edt
+mr
+wo
+r
+vy!
+
+pales
+rr,
+2
+
+29. The near-perfect correlation between Zhao’s Scheme and his use of overnight
+sessions cannot be explained by his residing in Australia, where the overnight session largely
+occurs during daylight hours. Setting the Scheme aside, Zhao often traded during daytime
+sessions, which overlaps with nighttime in Australia. Indeed, nearly one-third of Zhao’s non-
+Event orders (1.e., orders that were not part of the Scheme) were placed during daytime sessions;
+thus, Zhao’s focus on carrying out his Scheme almost exclusively during overnight sessions 1s
+indicative of his wrongful intent.
+
+30. Further, Zhao’s trading pattern shows he avoided placing large Spoof Orders when
+they were more likely to execute. Had Zhao actually wanted to trade the quantities in his Spoof
+Orders, he would have placed similar-size orders during daytime sessions, when trading volume
+was higher and the larger quantities were more likely to execute; however, he did not. As
+reflected in the table below, during the Relevant Period, Zhao placed only about 2% of his large
+orders (both Spoof and non-Spoof) during daytime sessions. By contrast, Zhao placed about
+29% of his small orders during daytime sessions; thus, Zhao avoided placing large orders when
+they had better chances of executing, but he did not similarly curtail his small orders. This
+further indicates that large order sizes were not an aspect of Zhao’s legitimate trading. Rather,
+they were part of a scheme to mislead market participants by falsely signaling increased supply
+
+or demand for the purpose of luring market participants to trade based on his spoofing.
+Case: 1:18-cv-00620 Document #: 1 Filed: 01/28/18 Page 10 of 17 PagelD #:10
+
+ 
+
+Orders by Time of Day During the Relevant Period
+Event and Non-Event Combined
+(values are approximate)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total Number of % Placed in % Placed in
+Orders Daytime Sessions Overnight Sessions
+Large orders 5 ;
+(= 50 contracts) 3,790 2% 98%
+Small orders 5 ;
+(<50 contracts) 62,700 29% 71%
+
+ 
+
+ 
+
+ 
+
+ 
+
+31. Zhao’s Scheme frequently worked as planned; that is, his Spoof Orders tricked other
+market participants into executing against his Genuine Orders. However, there were times that
+Zhao’s Genuine Orders continued to sit, unfilled, even after he placed and canceled his Spoof
+Orders; thus, not all of the Events resulted in executions of Zhao’s Genuine Orders. Still, Zhao’s
+Genuine Orders seldom terminated in cancelations, again demonstrating the differing intent
+behind his Spoof and Genuine Orders. Even though, by definition, 100% of Spoof Orders
+terminated with at least a partial cancelation, the same was true for only about 22% of the
+Genuine Orders. The difference is that Zhao wanted his Genuine Orders to execute.
+
+32. Zhao also took steps to protect his Spoof Orders from execution. For example, he
+canceled the Spoof Orders almost immediately after placing them; their median cancelation time
+was 737 milliseconds, as illustrated in the table below. By contrast, on those rarer occasions
+when Zhao canceled his Genuine Orders, the median cancelation time was 106 seconds. This
+means that Zhao allowed his Genuine Orders to rest prior to cancelation for a much longer period
+than his Spoof Orders. The consistently fast cancelation times for Zhao’s Spoof Orders reflect
+
+his intent to cancel them from the outset.
+
+10
+Case: 1:18-cv-00620 Document #: 1 Filed: 01/28/18 Page 11 of 17 PagelD #:11
+
+ 
+
+Cancelations of Event Orders
+(values are approximate)
+
+ 
+
+Median Time to Cancelation
+
+ 
+
+Spoof Orders 0.737 seconds
+
+ 
+
+Genuine Orders 106 seconds
+
+ 
+
+ 
+
+ 
+
+ 
+
+33. Zhao’s efforts to avoid execution of his Spoof Order were successful. This is
+reflected in vastly diverging rates in which Zhao’s Genuine and Spoof Orders were partially or
+fully filled (the “hit rate’). As reflected in the table below, Zhao placed approximately 2,300
+Genuine Orders during the Relevant Period. Of these, about 79% were hit. By contrast, less
+than 1% of the approximately 3,100 Spoof Orders were hit. Thus, Zhao’s Genuine Orders were
+about 180 times more likely to be hit. As a general matter, whether an order is hit is not
+dependent on its size; rather, orders at the same price level execute according to time priority
+under the FIFO matching algorithm. Here, the stark contrast in hit rates results from differences
+in the orders’ relative competitiveness, over which Zhao had control, and illustrates his success
+
+in avoiding execution of his Spoof Orders.
+
+ 
+
+Orders Hit in Events
+(values are approximate)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total Orders in Number of Orders | Percentage of
+Events Hit Orders Hit
+Genuine 2,300 1,800 79%
+Orders ° °
+Spoof Orders 3,100 10 <1%
+
+ 
+
+1]
+
+ 
+Case: 1:18-cv-00620 Document #: 1 Filed: 01/28/18 Page 12 of 17 PagelD #:12
+
+34. The use of large orders was a hallmark of Zhao’s Scheme; he rarely placed large
+orders otherwise. He placed about 3,800 large orders during the Relevant Period; 82% of those
+were placed pursuant to the Scheme as Spoof Orders. By contrast, Zhao placed about 62,700
+small orders during the Relevant Period. Only about 4% of these orders fell within the Scheme
+as Genuine Orders. Zhao’s limited use of large order sizes, nearly always as part of the Scheme
+and not as part of a legitimate trading strategy, is indicative of his illegal conduct. He primarily
+used large orders to send false signals of increased supply or demand to market participants.
+
+C. Examples of Zhao’s Scheme
+
+35. Zhao’s Scheme 1s illustrated in the three Events set forth below. Detailed trade data
+associated with these Events is provided in Exhibit A to this Complaint.
+
+I. Event Example 1: April 15, 2013
+
+36. Zhao’s trading in the early morning of April 15, 2013 constitutes an Event pursuant
+to his Scheme. See Ex. A at 1—8 (displaying detailed trade data). At 1:11:16.287 AM Central
+Time (denoted in hours, minutes, seconds, and milliseconds), Zhao placed an order to sell one
+contract (the Genuine Order) at the best-ask level. See id. at 1, row 2. About ten seconds later,
+at 1:11:25.537 AM, Zhao placed an order to buy 151 contracts at the best-bid level (the first
+Spoof Order). See id. at 2, row 33. The first Spoof Order doubled the number of contracts then
+resting at that level of the order book, but the order was not at risk of executing until the 151
+contracts resting ahead of it executed or were withdrawn. Zhao’s first Spoof Order did not
+immediately induce execution of his Genuine Order, and he canceled it at 1:11:26.240 AM (only
+703 milliseconds after placing it). See id. at 2, row 47. A short time later, Zhao tried again. At
+1:11:33.363 AM, he placed an order to buy 171 contracts at the best-bid level (the second Spoof
+Order), more than doubling the number of contracts resting at that level of the order book. See
+
+id. at 3, row 89. This time, Zhao’s Genuine Order executed at 1:11:33.366 AM, immediately
+
+12
+PO wees Tet aes PME AIM ~ore eeeee b ts oF OP™ Ee Ae PRT Fee a PNe ewe TT AT 4 POPS A eee TE ii. 4
+Mage TTReey MAB SO Document & DT Pian: GQTIORITR Pans TS ot 1? Panel #4
+Ne CANE dk AST Le WAL LAP OPP AR PERRY et A CAA wt ASS FoF VALS
+
+aL “:
+
+after the second Spoof Order was placed. See id. at 4, row 103. He then canceled his second
+Spoof Order at 1:11:34.161 AM, within 798 milliseconds of placing it. See id. at 8, row 252.
+
+2. Event Example 2: March 5, 2014
+
+37. Zhao’s trading in the final hours of March 5, 2014 shows an Event that did not result
+in execution of the Genuine Order, contrary to Zhao’s plan. See Ex. A at 9-12. At 22:44:12.924
+PM Central Time, Zhao placed an order to buy one contract (the Genuine Order) at the best-bid
+level. See id. at 9, row 2. Three seconds later, at 22:44:15.720 PM, Zhao placed an order to sell
+201 contracts (the Spoof Order) at the best-ask level. See id. at 9, row 15. Zhao’s Spoof Order
+was nearly 2.5 times the size of the combined orders then resting at that price level of the order
+book, but it was not at risk of executing until the 82 contracts resting ahead of it executed or
+were withdrawn. Zhao’s Genuine Order did not immediately execute. Zhao canceled his Spoof
+Order at 22:44:16.394 PM, only 674 milliseconds after placing it. See id. at 10, row 40. He let
+his Genuine Order rest longer, but canceled it as well at 22:44:40.533 PM, about half a minute
+after placing it. See id. at 12, row 97.
+
+3. Event Example 3: March 21, 2016
+
+38. A third example occurred on March 21, 2016. See Ex. A at 13-18. At 7:31:28.726
+AM Central Time, Zhao placed an order to sell 11 contracts (the Genuine Order) at the best-ask
+level. See id. at 13, row 2. About five seconds later, at 7:31:33.645 AM, Zhao placed an order
+to buy 82 contracts (the Spoof Order) at the best-bid level. See id. at 13, row 441. The Spoof
+Order was over half the size of the combined orders then resting at that price level, but 1t was not
+at risk of executing until the 153 contracts resting ahead of it executed or were withdrawn.
+Almost immediately, at 7:31:33.980 AM and 7:31:33.981 AM, Zhao’s Genuine Order executed
+
+through one trade of one and one trade of ten contracts. See id. at 13, rows 456 & 458. Zhao
+
+13
+moe TTPO awe AMIN Marcemant H tT MiHaert: ME /9O14O Dann
+
+Pace: TP TRoeyGOBPO Document & 1 Elian: QTPeRITS Pane
+
+Aa CLSt, WL. bt Ae Leo PLAS. WL OY OP CRS
+a
+
+then canceled his Spoof Order at 7:31:34.389 AM, just 744 milliseconds after placing it. See id.
+at 18, row 617.
+
+VI. violations OF THE ACT
+COUNT I
+violations OF SECTION 4c(a)(5)(C) OF THE ACT, 7 U.S.C. § 6c¢(a)(5)(C)
+Spoofing
+
+39. Paragraphs 1 to 38 are re-alleged and incorporated herein by reference.
+
+40. By reason of the conduct described above, Zhao engaged in trading, practices, or
+conduct on or subject to the rules of a registered entity that is, is of the character of, or is
+commonly known to the trade as, “spoofing” (bidding or offering with the intent to cancel the
+bid or offer before execution).
+
+Al. In placing each Spoof Order, Zhao acted with the intent to cancel the bid or offer
+before execution.
+
+42. By reason of the foregoing, Zhao violated Section 4c(a)(5) of the Act, 7 U.S.C. §
+6c(a)(5) (2012).
+
+43. Each Spoof Order constitutes a separate and distinct violations of Section 4c(a)(5)(C)
+of the Act.
+
+COUNT II
+
+violations OF SECTION 6(c)(1) OF THE ACT, 7 U.S.C. § 9(1),
+AND REGULATION 180.1(a)(1) AND (3), 17 C.F.R. § 180.1(a)(1), (3)
+
+Use of a Manipulative and Deceptive Device, Scheme, or Artifice
+
+44. Paragraphs | to 38 are re-alleged and incorporated herein by reference.
+45. By reason of the conduct described above, Zhao, in connection with a contract for
+
+future delivery on a registered entity, intentionally or recklessly: (1) used or employed, or
+
+14
+PP mee Tet Oo ace QML OIM Prarecimennent fe tf Miher: Mt roais Meare TE Af 277 TBarcei hh 46-4 5
+
+LASS PENA YALE Ra fit Morinmont te tT Eda: OPPS Ss Danes TR oft TY DPanmall 2th
+
+Ne CANE dk AST Le WAL LAP OPP AR PERRY et A CAA ae AST FoF QALART ER PPO aS
+a .
+
+attempted to use or employ, manipulative devices, schemes, or artifices to defraud; or (2)
+engaged, or attempted to engage, in acts, practices, or courses of business, which operated or
+would have operated as a fraud or deceit upon market participants.
+
+46. Zhao acted intentionally or recklessly.
+
+47. By reason of the foregoing, Zhao violated Section 6(c)(1) of the Act, 7 U.S.C. § 9(1)
+(2012), and Regulation 180.1(a)(1) and (3), 17 C.F.R. § 180.1(a)(1), (3) (2017).
+
+48. Each Spoof Order, Event, and Scheme constitutes a separate and distinct violations of
+
+Section 6(c)(1) of the Act and Regulation 180.1(a)(1) and (3).
+
+VIL RELIEF REQUESTED
+
+WHEREFORE, the CFTC respectfully requests that the Court, as authorized by Section
+6c of the Act, 7 U.S.C. § 13a-1 (2012), and pursuant to its own equitable powers:
+
+A. Find that Zhao violated Sections 4c(a)(5)(C) and 6(c)(1) of the Act, 7 U.S.C.
+
+§§ 6c(a)(5)(C), 9(1) (2012), and Regulation 180.1(a)(1) and (3), 17 C.F.R. § 180.1(a)(1), (3)
+(2017);
+
+B. Enter an order of permanent injunction enjoining Zhao, and his affiliates, agents,
+servants, employees, successors, assigns, attorneys, and all persons in active concert with him
+who receive actual notice of such order by personal service or otherwise, from violating Sections
+Ac(a)(5)(C) and 6(c)(1) of the Act and Regulation 180.1(a)(1) and (3);
+
+C. Enter an order of permanent injunction enjoining Zhao, and his affiliates, agents,
+servants, employees, successors, assigns, attorneys, and all persons in active concert with him,
+
+from directly or indirectly:
+
+15
+PO ee on ea REN ans PRE AR PN a ere wet as FO OPTED. MS PA a PN oon wae ao Jf PO? me A Ue Li.
+PF aee TTR ISOS Maciimant oT Elian: OTORITS Pans TR At Ty? Banelff ig
+Ae Ch St, AL. MST OAS el LALA KOPUERD AG. Wo or LO OP CAG Le AST FOU CAL
+
+XS
+
+1. Trading on or subject to the rules of any registered entity (as that term 1s
+defined in Section 1a(40) of the Act, 7 U.S.C. § 1a(40) (2012));
+
+2. Entering into any transactions involving “commodity interests” (as that term is
+defined in Regulation 1.3(yy), 17 C.F.R. § 1.3(yy) (2017)) for his own
+personal account or for any account in which he has a direct or indirect interest;
+
+3. Having any commodity interests traded on his behalf;
+
+4. Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account involving
+commodity interests;
+
+5. Soliciting, receiving or accepting any funds from any person for the purpose
+of purchasing or selling any commodity interests;
+
+6. Applying for registration or claiming exemption from registration with the
+CFTC in any capacity, and engaging in any activity requiring such registration
+or exemption from registration with the CFTC, except as provided for in
+Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9) (2017); and/or
+
+7. Acting as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R.
+§ 3.1(a) (2017)), agent or any other officer or employee of any person (as that
+term is defined in Section 1a(38) of the Act, 7 U.S.C. § 1a(38) (2012)),
+registered, exempted from registration or required to be registered with the
+CFTC except as provided for in Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9)
+(2017).
+
+D. Enter an order directing Zhao to be assessed by the Court, in an amount not to
+exceed the penalty prescribed by Section 6c(d)(1) of the Act, 7 U.S.C. § 13a-1(d)(1) (2012), as
+adjusted for inflation pursuant to the Federal Civil Penalties Inflation Adjustment Act
+Improvements Act of 2015, Pub. L. 114-74, 129 Stat. 584 (2015), title VI, Section 701, see
+Regulation 143.8, 17 C.F.R. § 143.8 (2017), for each violations of the Act, as described herein;
+
+E. Enter an order requiring Zhao to pay costs and fees, as permitted by 28 U.S.C.
+
+§§ 1920 and 2412(a)(2) (2012); and
+
+16
+Case: 1:18-cv-00620 Document #: 1 Filed: 01/28/18 Page 17 of 17 PagelD #:17
+
+F, Enter an order providing for such other and further remedial and ancillary relief,
+
+including but not limited to disgorgement, as this Court may deem necessary and appropriate.
+
+Dated: January 28, 2018 Respectfully submitted,
+
+PLAINTIFF COMMODITY FUTURES
+TRADING COMMISSION
+
+s/Christopher A. Reed
+Deputy Regional Counsel
+
+Christopher A. Reed (MO Bar # 59025)
+Laura Brookover (DC Bar # 1007639)
+Commodity Futures Trading Commission
+4900 Main Street, Suite 500
+
+Kansas City, Missouri 64112
+
+Telephone: (816) 960-7700
+
+Facsimile: (816) 960-7751
+creed@cftc.gov
+
+Ibrookover@cfic.gov
+
+Attorneys for Plaintiff
+
+17
+Case: 1:18-cv-00620 Document #: 1-1 Filed: 01/28/18 Page 1 of 19 PagelD #:18
+
+Exhibit A
+
+ 
+
+TO COMPLAINT FOR INJUNCTIVE
+RELIEF, CIVIL MONETARY PENALTIES,
+AND OTHER RELIEF
+19
+
+01/28/18 Page 2 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C9C cL GLSLST 18S el OSSLSI SCSLSI JOV IST OOSLST |I9 c6l CES ICE-T = 87
+C9C cL GLSLST 18S el OSSLSI SCSLSI JOV IST OOSLST |I9 c6l CeS IC: TT:T =| L7
+C9C cL GLSLST 18S el OSSLSI SCSLSI JOV IST OOSLST |I9 c6l CES IC: ITT = 197
+C9C cL GLSLST 18S el OSSLSI SCSLSI JOV IST OOSLST |I9 c6l CeS IC: TE:T = |S
+C9C cL GLSLST 18S el OSSLSI SCSLSI JOV IST OOSLST |I9 c6l CeS ICE-T ve
+C9C cL GLSLST 18S el OSSLSI SCSLSI JOV IST OOSLST |I9 c6l O8CT IC ITT JE?
+C9C cL GLSLST 19S cl OSSLSI SCSLSI JOV IST OOSLST |I9 c6l O8T IC TET = 1c7
+C9C cL GLSLST 19S cl OSSLSI SCSLSI JOV IST OOSLST |I9 c6l O8CT IC ITT IIc
+19¢ cL GLSLST 19S cl OSSLSI SCSLSI JOV IST OOSLST |I9 c6l VOTIC ITT 107
+19¢ cL SLSLST 1S IT OSSLSI SCSLSI JOV IST OOSLST |I9 c6l veL OC ITI J6l
+19¢ cL SLSLST 1S IT OSSLSI SCSLSI JOV IST OOSLST |I9 c6l vVeL Oc: ITI Isl
+C9C cL SLSLST 1S IT OSSLSI SCSLSI JOV IST OOSLST |I9 c6l trv Oc: II-I {ZI
+C9C cL SLSLST 1S IT OSSLSI SCSLSI JOV IST OOSLST |I9 c6l trv Oc-II-I J9T
+19¢ cL SLSLST 1S IT OSSLSI SCSLSI JOV IST OOSLST |I9 c6l Ole or-It-t Ist
+19¢ cL SLSLST ICS Ol OSSLSI SCSLSI JOV IST OOSLST |I9 c6l OPV LI-IT-I |vl
+19¢ cL SLSLST ICS Ol OSSLSI SCSLSI JOV IST OOSLST |I9 c6l OPV LI-IT-I {El
+C9C cL SLSLST ICS Ol OSSLSI SCSLSI JOV IST OOSLST |I9 c6l eve LI-II-t {cl
+C9C cL SLSLST ICS Ol OSSLSI SCSLSI JOV IST OOSLST |I9 c6l eve LI-Il-t Il
+19¢ cL SLSLST ICS Ol OSSLSI SCSLSI JOV IST OOSLST |I9 c6l 6O8CLI-II-I JOl
+19¢ CL GSLSLST |vs IT OSSLSI SCSLSI JOV IST OOSLST |I9 c6l COC OT-TT:T = 16
+19¢ CL GSLSLST |vs IT OSSLSI SCSLSI JOV IST OOSLST |I9 c6l loc OT-TT-T [8
+19¢ CL GLSLST J9S cl OSSLSI SCSLSI JOV IST OOSLST |I9 c6l O6C OT-TT-T JZ
+19¢ CL SLSLST 109 vi OSSLSI SCSLST J6C orl OOSLST |I9 c6l O6C 9OT-TT:T 19
+19¢ CL SLSLST |8S el OSSLSI SCSLSI JOV IST OOSLST |I9 c6l O6C OT-1T-T Is
+19¢ CL SLSLST |8S el OSSLSI SCSLST J6C orl OOSLST |I9 c6l O6C 9T-1T-I IV
+19¢ CL SLSLSTI |19 SI OSSLSI SCSLST J6C orl OOSLST |I9 c6l L8c9OL-II-T Je
+
+oumnusy |OSSZST} I S FOpIO L8COL-IT-T 172
+19¢ CL SLSLSI 09 vi OSSLSI SCSLST J6C orl OOSLST |I9 c6l OLOST:IT-t II
+
+s3oJ | st9pag| sg] soy | sx9pacQ] song] 24] | ang [S}OT] ApPIg |UOHIV| so1g| s1apag| sjoT dug |S1IpAgQ| spoT ou], MOY
+PAIT YSY PUOdIg [PA9'T ASV SAL AIT Pre ISL PAIT Pre PuodsI¢g
+
+ 
+
+(CINSA) AloATfoq suns joeNUOD Sq
+E107 “SI Judy
+
+I WIdNVX4d INADA
+
+ 
+20
+
+01/28/18 Page 3 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T HIdNVXA LNHAY C
+
+99¢ CL SLSLST |19 SI OSSLSI SCSLSI II CSI OOSLSI |c9 86l ChC OC ITT =| T9
+99¢ CL SLSLST |19 SI OSSLSI SCSLSI II CSI OOSLSI |c9 86l ChC OC ITT =}09
+09C IZ SLSLST |19 SI OSSLSI SCSLSI II CSI OOSLSI |c9 86l Ivo9c-II-T [6s
+09C IZ GLSLST |es cl OSSLSI SCSLSI II CSI OOSLSI |c9 86l Ivo9c-Il-T = {8S
+09C IZ SLSLSI J9P 6 OSSLSI SCSLSI IIV CSI OOSLSI |c9 86l Ivo9c-Il-T {Ls
+09C IZ SLSLSI 18 OL OSSLSI SCSLSI II CSI OOSLSI |c9 86l Ivo9c-Il-T = 9S
+09C IZ GLSLST IS IT OSSLSI SCSLSI II CSI OOSLSI |c9 86l Ivo9c:Il-T [gs
+09C IZ GLSLST |9S el OSSLSI SCSLSI II CSI OOSLSI |c9 86l Ivo9c-Il-T vs
+09C IZ SLSLSI |v 8 OSSLSI SCSLSI IIV CSI OOSLSI |c9 86l Ivo9c-Il-T [es
+09C IZ GLSLST |6S vi OSSLSI SCSLSI II CSI OOSLSI |c9 86l Tvo9c-Il-T = [cs
+99¢ CL SLSLST |19 SI OSSLSI SCSLSI II CSI OOSLSI |c9 86l Ivo9c-Il-T JTS
+09C IZ SLSLST |19 SI OSSLSI SCSLSI II CSI OOSLSI |c9 86l Ivco9c-II-T = JOS
+09C IZ SLSLST |19 SI OSSLSI SCSLSI II CSI OOSLSI |c9 86l Ivco9c:Il-I 6r
+09C IZ SLSLSI JIV L OSSLSI SCSLSI IIV CSI OOSLSI |c9 86l Orc 9c: IT-1 184
+
+Joods |¢zszst} ISI q = jpeourD Orc 9c: ITI =ILV
+09C IZ SLSLSI JIV L OSSLSI SCSLSI ICV COL OOSLSI |c9 86l cSO9C-IIT-T = |9V
+09C IZ SLSLSI |vV 8 OSSLSI SCSLSI ICV COL OOSLSI |c9 86l CSL Sc Il-I Sv
+09C IZ SLSLSI |LV 6 OSSLSI SCSLSI ICV COL OOSLSI |c9 86l 19S scIl-I vv
+09C IZ SLSLSI |LV 6 OSSLSI SCSLSI ICV COL OOSLSI |c9 86l 19S scII-I Jer
+09C IZ SLSLSI |LV 6 OSSLSI SCSLSI ICV COL OOSLST |I9 c6l IvS Sc:Il-l cv
+09C IZ GLSLST |S cl OSSLSI SCSLSI II cOE OOSLST |I9 c6l 8eS Sc It:I IV
+09C IZ GLSLST IS IT OSSLSI SCSLSI II cOE OOSLST |I9 c6l BES Sc ITI J0V
+09C IZ SLSLSI |6V OL OSSLSI SCSLSI II cOE OOSLST |I9 c6l BES Sc ITT |6€
+09C IZ SLSLSI |LV 6 OSSLSI SCSLSI IIV cOe OOSLST |I9 c6l BES Sc ITT |8E
+09C IZ SLSLSI |LV 6 OSSLSI SCSLSI IIV cOe OOSLST |I9 c6l BES Sc IT:T LE
+09C IZ SLSLSI |LV 6 OSSLSI SCSLSI IIV cOe OOSLST |I9 c6l BES Sc IT:T J9E€
+09C IZ GLSLST |9S el OSSLSI SCSLSI II cOE OOSLST |I9 c6l BES Sc ITT SE
+09C IZ GLSLST |6S vi OSSLSI SCSLSI II cOE OOSLST |I9 c6l Les sc-lt-I |ve
+
+foods |cZsLst} Isl d FOpIO Les sc-ll-T Jee
+09C IZ GLSLST |6S vi OSSLSI SCSLSI OV IST OOSLST |I9 c6l cle sc-Tl-f |e
+19¢ CL GLSLST |6S vi OSSLSI SCSLSI OV IST OOSLST |I9 c6l cle sce-Tl-t |e
+19¢ CL GLSLST 18S el OSSLSI SCSLSI OV IST OOSLST |I9 c6l VSO Cc It:T JOE
+19¢ CL GLSLST 18S el OSSLSI SCSLSI OV IST OOSLST |I9 c6l vS9OCC ITT 167
+
+syoJT | sxapag| aoug| soy | sxapag| aotrg| eddy | song [S307] epIg |UOHIV] dso11g| s19pr—Q| sJ0T dug |S1IpAgQ| spoT ou], MOY
+PAIT YSY PUOdIg PAT ASV SAL AIT Pre ISL PAIT Pre Puoss¢g
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+21
+
+01/28/18 Page 4 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T HIdNVXA LNHAY €
+
+09C IZ SLSLSTI 18¢ 9 OSSLSI SCSLSI ICV Co OOSLST |I9 c6l coc ce: TI-T 16
+09C IZ SLSLSTI 18¢ 9 OSSLSI SCSLSI ICV Co OOSLST |I9 c6l coc ce: TI-T |€6
+19¢ CL SLSLSI |eV OL OSSLSI SCSLSI ICV ECE OOSLST |I9 c6l voc ce:IT:T 16
+19¢ CL SLSLSI }O0V 6 OSSLSI SCSLSI ICV Co OOSLST |I9 c6l voc ce-TT:T 16
+19¢ CL GLSLST ILe 8 OSSLSI SCSLSI ICV Co OOSLST |I9 c6l yocce:TT:T 106
+
+foods |¢ZsLst} ILI d FOpIO coc ce-TIl-T 168
+19¢ CL SLSLSI |eV OL OSSLSI SCSLSI II CSI OOSLST |I9 c6l 98 CE-IT-T 188
+19¢ CL SLSLSI |eV OL OSSLSI SCSLSI II CSI OOSLST |I9 c6l v8i-ce:It-T 128
+19¢ CL SLSLSI |v OL OSSLSI SCSLSI II CSI OOSLST |I9 c6l Ist ce-Il-T = {98
+19¢ CL GLSLSTI |S Ol OSSLSI SCSLSI II CSI OOSLST |I9 c6l SLL 1¢e:IT-I |S8
+19¢ CL SLSLSI |8V IT OSSLSI SCSLSI II CSI OOSLST |I9 c6l LLL I¢-It-l = |v8
+19¢ CL SLSLSI |60 IT OSSLSI SCSLSI II CSI OOSLST |I9 c6l Soc 8cII-I |€8
+19¢ CL SLSLSI |6V IT OSSLSI SCSLSI II CSI OOSLST |I9 c6l OIL LC-1T-1 178
+19¢ CL SLSLSI |6V IT OSSLSI SCSLSI OV IST OOSLST |I9 c6l cIZZe-Il-t |I8
+19¢ CL GLSLST IS cl OSSLSI SCSLSI OV IST OOSLST |I9 c6l CILLC:IT-1 = =|08
+19¢ CL GLSLST |es cl OSSLSI SCSLSI OV IST OOSLST |I9 c6l SPS LCE-IT:T 62
+LOC cL GLSLST |es cl OSSLST SCSLSI OV IST OOSLST |I9 c6l LVOLCIT-T =|8Z
+LOC cL GLSLST |es cl OSSLST SCSLSI OV IST OOSLST |I9 c6l LVOLCIT-T =JLL
+LOC cL GLSLST |es cl OSSLST SCSLSI OV IST OOSLST |I9 c6l LVO LETT: 92
+LOC cL GLSLST |es cl OSSLST SCSLSI OV IST OOSLST |I9 c6l LVOLC:IT-T =JSZ
+LOC cL GLSLST |es cl OSSLST SCSLSI OV IST OOSLST |I9 c6l LVOLE ITT vl
+LOC cL GLSLST |6S SI OSSLST SCSLSI OV IST OOSLST |I9 c6l SvO LC IIT:T JEL
+LOC cL GLSLST |LS vi OSSLST SCSLSI OV IST OOSLST |I9 c6l SvO LC IT:T cL
+LOC cL GLSLST |SS el OSSLST SCSLSI OV IST OOSLST |I9 c6l SvO LC: IT:T JTL
+LOC cL GLSLST |es cl OSSLST SCSLSI OV IST OOSLST |I9 c6l SvO LC IT:T OL
+LOC cL SLSLST |19 SI OSSLST SCSLSI OV IST OOSLST |I9 c6l L889¢:II-IT 69
+99¢ CL SLSLST |19 SI OSSLSI SCSLSI OV IST OOSLST |I9 c6l vec 9c TTT 189
+99¢ CL SLSLST |19 SI OSSLSI SCSLSI OV IST OOSLST |I9 c6l SPC OC ITT = =|L9
+99¢ CL SLSLST |19 SI OSSLSI SCSLSI OV IST OOSLST |I9 c6l BPC 9CIT:T = 199
+99¢ CL SLSLST |19 SI OSSLSI SCSLSI OV IST OOSLSI |c9 86l evco9c-II-f |S9
+99¢ CL SLSLST |19 SI OSSLSI SCSLSI II CSI OOSLSI |c9 86l ChC OC ITT = =|V9
+99¢ CL SLSLST |19 SI OSSLSI SCSLSI II CSI OOSLSI |c9 86l CvC OC ITT = €9
+99¢ CL SLSLST |19 SI OSSLSI SCSLSI II CSI OOSLSI |c9 86l ChC OC ITT =1c9
+
+syoJT | sxapag| aoug| soy | sxapag| aotrg| eddy | song [S307] epIg |UOHIV] dso11g| s19pr—Q| sJ0T dug |S1IpAgQ| spoT ou], MOY
+PAIT YSY PUOdIg PAT ASV SAL AIT Pre ISL PAIT Pre Puoss¢g
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+22
+
+01/28/18 Page 5 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T HIdNVXA LNHAY V
+86l 8S OO9LST |ISc v9 SLSLSI OSSLSI JC 9 SCSLSI ICV ECE s9c ce:TT:T JLcl
+80C c9 OO9LST [csc $9 SLSLSI OSSLSI II € SCSLSI ICV ECE s9c ce-TI-f |9CI
+LOC 19 OO9LST [csc $9 SLSLSI OSSLSI II € SCSLSI ICV ECE s9c ce:TI-T Sel
+COC 6S OO9LST [csc $9 SLSLSI OSSLSI JC 9 SCSLSI ICV ECE s9c ce:Tl-t |Vvcl
+LOC 19 OO9LST [csc $9 SLSLSI OSSLSI II € SCSLSI ICV ECE s9c ce-TI-T JEecl
+c0C 09 OO9LST [csc $9 SLSLSI OSSLSI II € SCSLSI ICV ECE s9c ce:Tl-t |ecl
+c0C 09 OO9LST [csc $9 SLSLSI OSSLSI JC 9 SCSLSI ICV ECE soc ce:Tt-t JICl
+COC 6S OO9LST |ISc v9 SLSLSI OSSLSI JC 9 SCSLSI ICV ECE s9c ce:TI-f OCI
+COC 6S OO9LST |ISc v9 SLSLSI OSSLSI JC 9 SCSLSI ICV ECE soc ce:TI-t orl
+86l 8S OO9LST |ISc v9 SLSLSI OSSLSI JC 9 SCSLSI ICV ECE soc ce-TT-t stl
+CIC c9 OO9LST |09C IZ SLSLSI SCSLSI ICV ECE OOSLST |I9 c6l Loe ce-Tt-T ZIT
+CIC c9 OO9LST |09C IZ SLSLSI SCSLSI ICV ECE OOSLST |I9 c6l Loe ce-Tl-T J9IT
+CIC c9 OO9LST |09C IZ SLSLSI SCSLSI ICV ECE OOSLST |I9 c6l Loe ce-TT-T Stil
+CIC c9 OO9LST |09C IZ SLSLSI SCSLSI ICV ECE OOSLST |I9 c6l Loe ce-Il-I |r
+CIC c9 OO9LST |09C IZ SLSLSI SCSLSI ICV ECE OOSLST |I9 c6l Loe ce-Tl-T Jcll
+CIC c9 OO9LSI |ZSc 89 SLSLSI SCSLSI ICV ECE OOSLST |I9 c6l Loe ce-Tl-T JCI
+CIC c9 OO9LST |09C IZ SLSLSI SCSLSI ICV ECE OOSLST |I9 c6l Loe ce-Tl-T JIT
+CIC c9 OO9LST |09C IZ SLSLSI SCSLSI ICV ECE OOSLST |I9 c6l Loe ce-Tl-T JOrl
+CIC c9 OO9LST |09C IZ SLSLSI SCSLSI ICV ECE OOSLST |I9 c6l Loe ce-II-T Jeol
+CIC c9 OO9LST |09C IZ SLSLSI SCSLSI ICV ECE OOSLST |I9 c6l Loc ce-II-T |80l
+CIC c9 OO9LSI |6Sc OL SLSLSI SCSLSI ICV ECE OOSLST |I9 c6l Loe ce-TI-T |ZLOl
+CIC c9 OO9LST |8Sc 69 SLSLSI SCSLSI ICV ECE OOSLST |I9 c6l Loe ce-TI-T J901
+09¢ IZ SLSLSI |VC 9 OSSLSI SCSLSI ICV ECE OOSLST |I9 c6l 99c ce:TT-T |SOl
+09¢ IZ SLSLSTI 19C 9 OSSLSI SCSLSI ICV ECE OOSLST |I9 c6l 99c ce:TT-T vol
+SUINUSL) JOSSLST] I S oper 99c ce:TT-T Jeol
+19¢ CL GLSLST ILte 8 OSSLSI SCSLSI ICV ECE OOSLST |I9 c6l coc ce: TI-T col
+19¢ CL GLSLST ILte 8 OSSLSI SCSLSI ICV ECE OOSLST |I9 c6l coc ce: TI-t |TOl
+19¢ CL SLSLST |e L OSSLSI SCSLSI ICV ECE OOSLST |I9 c6l coc ce: TI-f JOOr
+19¢ CL SLSLST It 9 OSSLSI SCSLSI ICV ECE OOSLST |I9 c6l coc ce: TI-T 166
+19¢ CL SLSLST It 9 OSSLSI SCSLSI ICV ECE OOSLST |I9 c6l coc ce: TI-T 186
+19¢ CL SLSLST It 9 OSSLSI SCSLSI ICV ECE OOSLST |I9 c6l coc ce: TI-T |L6
+19¢ CL SLSLSTI |8C 9 OSSLSI SCSLSI ICV ECE OOSLST |I9 c6l coc ce: TI-T 196
+19¢ CL SLSLSTI |8C 9 OSSLSI SCSLSI ICV ECE OOSLST |I9 c6l coc ce: TI-T |S6
+syoJT | sxapag| aoug| soy | sxapag| aotrg| eddy | song [S307] epIg |UOHIV] dso11g| s19pr—Q| sJ0T dug |S1IpAgQ| spoT ou], MOY
+PAIT YSY PUOdIg PAT ASV SAL AIT Pre ISL PAIT Pre Puoss¢g
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+23
+
+01/28/18 Page 6 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T HIdNVXA LNHAY ¢
+86l 8S OO9LSI JOS c9 SLSLSI OSSLSI 19 SI SCSLSI |87 6CE OLE ce:IT-t JO9T
+86l 8S OO9LSI JOS c9 SLSLSI OSSLSI 19 SI SCSLSI |87 6CE OLE ce:IT-t 6st
+86l 8S OO9LSI JOS c9 SLSLSI OSSLSI 19 SI SCSLSI |67 Ice OLE ce:IT-f 8st
+86l 8S OO9LSI JOS c9 SLSLSI OSSLSI 19 SI SCSLSI |67 Ice OLE ce:IT-t JZSI
+86l 8S OO9LSI JOS c9 SLSLSI OSSLSI 19 SI SCSLST JOS Cee OLE ce:IT-t 9ST
+86l 8S OO9LST |ISc v9 SLSLSI OSSLSI JC 9 SCSLSI ICV ECE 69 CE-TT-T  |Sst
+86l 8S OO9LST |ISc v9 SLSLSI OSSLSI |e 8 SCSLSI ICV ECE 69 CE TT-T =| Vst
+86l 8S OO9LST |ISc v9 SLSLSI OSSLSI |e 8 SCSLSI ICV ECE 69 CE-TT-T yest
+86l 8S OO9LST |ISc v9 SLSLSI OSSLSI IV IT SCSLSI ICV ECE 69 CETT-T =| CST
+86l 8S OO9LST |ISc v9 SLSLSI OSSLSI IV IT SCSLSI ICV ECE 69 CETT-T FIST
+86l 8S OO9LST |ISc v9 SLSLSI OSSLSI IV IT SCSLSI ICV ECE 69 CETT-T JOST
+86l 8S OO9LST |ISc v9 SLSLSI OSSLSI IV IT SCSLSI ICV ECE 69 CE-IT-T jeri
+86l 8S OO9LSI JOS c9 SLSLSI OSSLSI IV IT SCSLSI ICV ECE 69 CETT-T = |8rl
+66l 6S OO9LSI JOS c9 SLSLSI OSSLSI IV IT SCSLSI ICV ECE o9e Ce-IT-T ILrl
+66l 6S OO9LSI JOS c9 SLSLSI OSSLSI IV IT SCSLSI ICV ECE 69 CE-TT-T =O
+66l 6S OO9LSI JOS c9 SLSLSI OSSLSI IV IT SCSLSI ICV ECE 69e CE TTT = |Sri
+66l 6S OO9LSI JOS c9 SLSLSI OSSLSI IV IT SCSLSI ICV ECE 69 CE-IT-T rel
+86l 8S OO9LSI JOS c9 SLSLSI OSSLSI IV IT SCSLSI ICV ECE 69 CE-IT-T yer
+86l 8S OO9LSI JOS c9 SLSLSI OSSLSI IV IT SCSLSI ICV ECE 69 CE-TT-T =|
+86l 8S OO9LSI JOS c9 SLSLSI OSSLSI IV IT SCSLSI ICV ECE 69 CE-IT-T Ir
+86l 8S OO9LSI JOS c9 SLSLSI OSSLSI IV IT SCSLSI ICV ECE 69 CE-TT-T Or
+86l 8S OO9LSI JOS c9 SLSLSI OSSLSI IV IT SCSLSI ICV ECE 69 CE-IT-T  =j6cl
+86l 8S OO9LSI JOS c9 SLSLSI OSSLSI IV IT SCSLSI ICV ECE 69 CETT-T = |8el
+86l 8S OO9LSI JOS c9 SLSLSI OSSLST |S cl SCSLSI ICV ECE 69 CE TTT |Lel
+86l 8S OO9LSI JOS c9 SLSLSI OSSLST |S cl SCSLSI ICV ECE 69 CETT-T OCI
+86l 8S OO9LSI JOS c9 SLSLSI OSSLST |S cl SCSLSI ICV ECE 69 CE-TT-T  |Sel
+86l 8S OO9LSI JOS c9 SLSLSI OSSLST |S cl SCSLSI ICV ECE 69 CE-TT-T | rel
+CIC c9 OO9LST |9SC L9 SLSLSI SCSLSI ICV ECE OOSLST |I9 c6l s9c ce-TI-T eel
+CIC c9 OO9LST |SSc 99 SLSLSI SCSLSI ICV ECE OOSLST |I9 c6l s9c ce:TI-T = |cEl
+CIC c9 OO9LSI |VSc $9 SLSLSI SCSLSI ICV ECE OOSLST |I9 c6l soc ce:TT-t Tel
+CIC c9 OO9LSI |VSc $9 SLSLSI OSSLSI II € SCSLSI ICV ECE s9c ce:TT-T JOEl
+CIC c9 OO9LSI |VSc $9 SLSLSI OSSLSI II € SCSLSI ICV ECE s9c ce:TT-T J6cl
+CIC c9 OO9LST [csc $9 SLSLSI OSSLSI II € SCSLSI ICV ECE s9c ce-TI-f |8cl
+syoJT | sxapag| aoug| soy | sxapag| aotrg| eddy | song [S307] epIg |UOHIV] dso11g| s19pr—Q| sJ0T dug |S1IpAgQ| spoT ou], MOY
+PAIT YSY PUOdIg PAT ASV SAL AIT Pre ISL PAIT Pre Puoss¢g
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+24
+
+01/28/18 Page 7 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T HIdNVXA LNHAY 9
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLSI 09 LLE IZece-II-I cel
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLSI }19 C8E [Ze ce-II-l |col
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLSI C9 L8€ [Ze ce-Il-l jTel
+86l 8S OO9LSI |9SC v9 SLSLSI OSSLSI 19 SI SCSLSI |¢9 68E IZece-II-l joel
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLSI C9 L8€ [Ze ce-II-l j6st
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLSI C9 L8€ [Ze ce-II-T |8st
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLSI |¢9 68E [Ze ce-II-I |ZL8l
+86l 8S OO9LSI |9SC v9 SLSLSI OSSLSI 19 SI SCSLSI |¢9 68E [Ze ce-II-T j98t
+86l 8S OO9LSI |9SC v9 SLSLSI OSSLSI 19 SI SCSLSI |¢9 68E [Ze ce-TI-T |Sst
+86l 8S OO9LSI |9SC v9 SLSLSI OSSLST |S cl SCSLSI |¢9 68E [Ze ce-Il-I |vsl
+86l 8S OO9LSI |9SC v9 SLSLSI OSSLST |S cl SCSLSI |¢9 68E [Ze ce-TI-T Jest
+86l 8S OO9LSI |9SC v9 SLSLSI OSSLST |S cl SCSLSI |¢9 68E [Ze ce-II-l |csl
+86l 8S OO9LSI |SSc c9 SLSLSI OSSLST |S cl SCSLSI |¢9 68E [Ze ce-TI-l Ist
+86l 8S OO9LSI |cSc c9 SLSLSI OSSLST |S cl SCSLSI |¢9 68E [Ze ce-II-T Jost
+10¢ 6S OO9LSI |cSc c9 SLSLSI OSSLST |S cl SCSLSI |¢9 68E [Ze ce-II-l Jedi
+10¢ 6S OO9LSI |cSc c9 SLSLSI OSSLST |S cl SCSLSI |¢9 68E [Ze ce-II-l |8Zi
+86l 8S OO9LST JOS c9 SLSLSI OSSLST |S cl SCSLSI ICV ECE OLE ce:TT-t JLZI
+86l 8S OO9LST JOS c9 SLSLSI OSSLST |S cl SCSLSI ICV ECE OLE ce:IT-t JOLT
+86l 8S OO9LST JOS c9 SLSLSI OSSLST |S cl SCSLSI ICV ECE OLE ce:IT-t SLi
+86l 8S OO9LST JOS c9 SLSLSI OSSLST |S cl SCSLSI ICV ECE OLE ce:TT-t |VvZi
+86l 8S OO9LST JOS c9 SLSLSI OSSLST |S cl SCSLSTI |er VCE OLE ce:IT-t JELt
+86l 8S OO9LST JOS c9 SLSLSI OSSLST |S cl SCSLSTI |er VCE OLE ce:IT-t |CeLi
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLST IIS vee OLE ce:It-t JIZI
+86l 8S OO9LST JOS c9 SLSLSI OSSLST |S cl SCSLSI |v SCE OLE ce:IT-t JOLT
+86l 8S OO9LST JOS c9 SLSLSI OSSLST |S cl SCSLSI |S 9CE OLE ce:IT-t J69l
+86l 8S OO9LST JOS c9 SLSLSI OSSLST |S cl SCSLSI 9V LCE OLE ce:IT-t |89l
+86l 8S OO9LST JOS c9 SLSLSI OSSLST |S cl SCSLSI 9V LCE OLE ce:IT-t |ZL9T
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLSI |87 6CE OLE ce:IT-T |99T
+86l 8S OO9LST JOS c9 SLSLSI OSSLST |S cl SCSLSI |LV SCE OLE ce:IT-t |S9l
+86l 8S OO9LST JOS c9 SLSLSI OSSLST |S cl SCSLSI |LV SCE OLE ce:IT-t = |Vv9l
+86l 8S OO9LST JOS c9 SLSLSI OSSLST |S cl SCSLSI |87 6CE OLE ce:IT-t Jeol
+86l 8S OO9LST JOS c9 SLSLSI OSSLST |S cl SCSLSI |87 6CE OLE ce:IT-t |c9r
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLSI |87 6CE OLe ce:IT-t |T9T
+syoJT | sxapag| aoug| soy | sxapag| aotrg| eddy | song [S307] epIg |UOHIV] dso11g| s19pr—Q| sJ0T dug |S1IpAgQ| spoT ou], MOY
+PAIT YSY PUOdIg PAT ASV SAL AIT Pre ISL PAIT Pre Puoss¢g
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+25
+
+01/28/18 Page 8 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T HIdNVXA LNHAY L
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |8 6l SCSLSI |S9 v6oe cscce-Il-T |9¢c
+90¢ 09 OO9LSI |9VC 09 SLSLSI OSSLSI |8 6l SCSLSI |79 06¢ BLE ce:TI-l |Scc
+90¢ 09 OO9LSI |9VC 09 SLSLSI OSSLSI |8 6l SCSLSI |79 06¢ SLe ce: Tlf |Vvec
+90¢ 09 OO9LSI |LVC 19 SLSLSI OSSLSI |8 6l SCSLSI |79 06¢ vee ce:TT-t yee?
+10¢ 6S OO9LSI |cSc c9 SLSLSI OSSLST |S cl SCSLSI |79 06¢ cLe ce:Tt:t = |ec?
+10¢ 6S OO9LSI |cSc c9 SLSLSI OSSLST |S cl SCSLSI |79 06¢ cLe ce:Tt:t |r?
+10¢ 6S OO9LSI |cSc c9 SLSLSI OSSLST |S cl SCSLSI |79 06¢ cLe ce:Tt:t Oc?
+10¢ 6S OO9LSI |cSc c9 SLSLSI OSSLST |S cl SCSLSI |79 06¢ cLe ce:Tt:t 6c
+10¢ 6S OO9LSI |cSc c9 SLSLSI OSSLSI 19 vi SCSLSI |79 06¢ cLe ce:Tt:t = |8ic
+10¢ 6S OO9LSI |cSc c9 SLSLSI OSSLSI 19 vi SCSLSI |79 06¢ cLe ce:TT:t = |LIC
+90¢ 09 OO9LSI |LVC 19 SLSLSI OSSLSI |8 6l SCSLSI |79 06¢ cLe ce:Tt:t |9TC
+10¢ 6S OO9LSI |cSc c9 SLSLSI OSSLSI 19 vi SCSLSI |79 06¢ cLe ce:Tt:t = |Stc
+10¢ 6S OO9LSI |cSc c9 SLSLSI OSSLSI 19 vi SCSLSI |79 06¢ cLe ce:Tt:t = |vic
+10¢ 6S OO9LSI |cSc c9 SLSLSI OSSLSI JL oT SCSLSI |79 06¢ cLe ce:Tt:t Jet?
+10¢ 6S OO9LSI |cSc c9 SLSLSI OSSLSI |8 6l SCSLSI |79 06¢ cLe ce:Tt:t |e
+10¢ 6S OO9LSI |LVC 19 SLSLSI OSSLSI |8 6l SCSLSI |79 06¢ cLe ce:Tt:t Tt?
+90¢ 09 OO9LSI |LVC 19 SLSLSI OSSLSI |8 6l SCSLSI |79 06¢ cLe ce:Tt:t Orc
+90¢ 09 OO9LSI |LVC 19 SLSLSI OSSLSI |8 6l SCSLSI |79 06¢ cLe ce:IT-t |60C
+90¢ 09 OO9LSI |LVC 19 SLSLSI OSSLSI |8 6l SCSLSI |79 06¢ cLe ce:TT:t |80C
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLSI ICS 9C€ [Ze ce-TI-T Z0c
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLST JES SCE [Ze ce-II-l 7907
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLST JES SCE [Ze ce-II-T soc
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLST JES SCE [Ze ce-II-l = jvc
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLSI IVS Ove [Ze ce-II-T = jcd7c
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLST ISS VSe [Ze ce-Tl-l = jco7c
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLST ISS VSe [Ze ce-Tl-T loc
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLST 9S v9¢C [Ze ce-II-T = j00c
+10¢ 6S OO9LSI |cSc c9 SLSLSI OSSLST |S cl SCSLSI |¢9 68E [Ze ce-II-I j66l
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLST ILS 69€ [Ze ce-II-I |8el
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLST 8S OLE IZece-II-I |ZLel
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLSI 6S CLE [Ze ce-Il-I 96!
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLSI 6S CLE IZece-II-I |sel
+86l 8S OO9LST JOS c9 SLSLSI OSSLSI 19 SI SCSLSI 6S CLE [Ze ce-Il-I |rel
+syoJT | sxapag| aoug| soy | sxapag| aotrg| eddy | song [S307] epIg |UOHIV] dso11g| s19pr—Q| sJ0T dug |S1IpAgQ| spoT ou], MOY
+PAIT YSY PUOdIg PAT ASV SAL AIT Pre ISL PAIT Pre Puoss¢g
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+26
+
+01/28/18 Page 9 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+T HIdNVXA LNHAY 8
+
+SOC 6S OO9LSI |cec 8S SLSLSI OSSLSI JOL 6¢ SCSLSI |S9 VCC IOT ve-Tl-T yes
+
+Joodg |¢zszst} ILI q = jpeourD LOT ve-Tl-T yes
+SOC 6S OO9LSI |cec 8S SLSLSI OSSLSI JOL 6¢ SCSLSI }99 S6t SLoce:II-T Esc
+90¢ 09 OO9LSI |cec 8S SLSLSI OSSLSI |6 0c SCSLSI }99 S6t OL8 ce:IT:T Osc
+SOC 6S OO9LSI |cec 8S SLSLSI OSSLSI |6 0c SCSLSI }99 S6t OL8 ce:IT:I 6rd
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |6 0c SCSLSI }99 S6t clo ce-Tl-T |8Vve
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI JOL CC SCSLSI }99 S6t c8rce:It:t |LVvc
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI JOL CC SCSLSI |S9 v6oe 6OLV CE II: = j9V~
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |6 0c SCSLSI |S9 v6oe SLrce:IT:l |SVve
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |8 6l SCSLSI |S9 v6oe L8ece-ll-l re
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |8 6l SCSLSI |S9 v6oe L8ece-Il-Il Jere
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |8 6l SCSLSI |S9 v6oe L8ece-Il-l eve
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |8 6l SCSLSI |S9 v6oe L8ece-ll-T jlre
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |8 6l SCSLSI |79 Ot 98cce:II-l Ove
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |8 6l SCSLSI |79 Ot 98cce:IT:l Joe?
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |8 6l SCSLSI |79 Ot 98c ce:TT-T |8Ec
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |8 6l SCSLSI |79 Ot 98cce:TT:T |LEc
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |8 6l SCSLSI |79 Ot 98cce:IT:T |9Ec
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |8 6l SCSLSI |79 Ot 98cce:TT:T |SEc
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |8 6l SCSLSI |79 Ot 98c ce:IT-l vec
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |8 6l SCSLSI |79 Ot 98cce:IT:T EE?
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |8 6l SCSLSI |S9 v6oe 98c ce:TT-T CE?
+90¢ 09 OO9LSI |9VC 09 SLSLSI OSSLSI |8 6l SCSLSI |S9 v6oe cscce-Tl-T LTE?
+90¢ 09 OO9LSI |9VC 09 SLSLSI OSSLSI |8 6l SCSLSI |S9 v6oe csc ce-Tl-T JOEc
+90¢ 09 OO9LSI |9VC 09 SLSLSI OSSLSI |8 6l SCSLSI |S9 v6oe csc ce-Tl:I |6cc
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |8 6l SCSLSI |S9 v6oe csc ce: TI-T |8cc
+90¢ 09 OO9LSI |8ec 6S SLSLSI OSSLSI |8 6l SCSLSI |S9 v6oe cscce-Tl:T |Lcc
+
+syoJT | sxapag| aoug| soy | sxapag| aotrg| eddy | song [S307] epIg |UOHIV] dso11g| s19pr—Q| sJ0T dug |S1IpAgQ| spoT ou], MOY
+PAIT YSY PUOdIg PAT ASV SAL AIT Pre ISL PAIT Pre Puoss¢g
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+27
+
+01/28/18 Page 10 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+VEC Iv OO9L8I |68C 6C SLSL81 OSSLB8I IV el SCSLB8I J9C S6l CCL SI-Vv:CC = |8C
+CEC OV OO9L8I |68C 6C SLSL81 OSSLB8I IV el SCSLB8I J9C S6l CCL SI-Vy:cC {LC
+CEC OV OO9LE8I [88C 8C SLSL81 OSSLB8I IV el SCSLB8I J9C S6l CCL SI-Vy:CC = |9C
+CEC OV OO9L8I |L8C Lo SLSL81 OSSLB8I IV el SCSLB8I J9C S6l CCL SI-Vy:CC [SC
+CEC OV OO9L8I |Z8c Lo SLSL81 OSSL8I JOL EC SCSLB8I J9C S6l CCL ST-VV:CC 1V~
+CEC OV OO9L8I |Z8c Lo SLSL81 OSSL8I JOL EC SCSLB8I J9C S6l CCL ST-VV:CC ET
+OC 6¢ OO9L8I |Z8c Lo SLSL81 OSSL8I JOL EC SCSLB8I J9C S6l CCL ST-VV:CC C7
+OC 6¢ OO9L8I |Z8c Lo SLSL81 OSSL8I JOL EC SCSLB8I J9C S6l CCL ST-VV:CC JIT
+OC 6¢ OO9L8I |Z8c Lo SLSL81 OSSL8I IIL VC SCSLB8I J9C S6l ICL ST-vv-C7 = JOT
+OC 6¢ OO9L8I |V78c 9C SLSL81 OSSL8I IIL VC SCSLB8I J9C S6l ICL SI-vv-c7 Jol
+OC 6¢ OO9L8I |V78c 9C SLSL81 OSSLB8I |cl 6C SCSLB8I J9C S6l OCL SIT-vv:cC I8I
+OC 6¢ OO9LB8I [Esc SC SLSL81 OSSLB8I |cl 6C SCSLB8I J9C S6l OCL ST:vy:cc ILI
+OC 6¢ OO9LB8I [Esc SC SLSL81 OSSLB8I |el I¢ SCSLB8I J9C S6l OCL ST-vy:cc J9T
+
+Joods |cLoL8i} 107 S FOpIO OCL ST:vy:cc ISI
+OC 6£ OO9L8I {C8 VC SLSL81 OSSLB8I |el I¢ SCSLB8I J9C S6l SOL SI-Vb-cC IVI
+8CC Se OO9L8I {C8 VC SLSL81 OSSLB8I |el I¢ SCSLB8I J9C S6l VOL SIT:vy:cc {El
+8CC Se OO9L8I {C8 VC SLSL81 OSSLB8I |el ce SCSLB8I J9C S6l [vy Sl-pr-c7 JCI
+8CC Se OO9L8I {C8 VC SLSL81 OSSLB8I |el ce SCSLB8I J9C S6l CLO VI-vy:cC IIT
+8CC Se OO9L8I {C8 VC SLSL81 OSSLB8I |el ce SCSLB8I J9C S6l IL6 v1-vr-c7 JOT
+SCC 8t OO9L8I |c8 VC SLSL81 OSSLB8I |el ce SCSLB8I J9C S6l 606 VI-Vy:CC |6
+SCC 8t OO9L8I |c8 VC SLSL81 OSSLB8I |el ce SCSLB8I J9C S6l 606 VI-Vy:77 18
+SCC 8t OO9L8I |c8 VC SLSL81 OSSLB8I |el ce SCSLB8I J9C S6l LOS VI-vy:cC JL
+SCC 8t OO9L8I |c8 VC SLSL81 OSSLB8I |el ve SCSLB8I J9C S6l LeL vl-vy-c7 19
+SCC 8t OO9L8I |c8 VC SLSL81 OSSLB8I |cl I¢ SCSLB8I J9C S6l OPO CT Vy:C~ IS
+SCC 8t OO9L8I |c8 VC SLSL81 OSSLB8I |cl I¢ SCSLB8I J9C S6l OVO ET VVC IV
+SCC 8t OO9L8I |c8 VC SLSL81 OSSLB8I |cl I¢ SCSLB8I J9C S6l VCO CI:VV:C~ IE
+
+ouInusy |OSSZ8I} I d FOpIO VCO CI-VV:C~ IT
+SCC 8t OO9L8I |c8 VC SLSL81 OSSL8I IIL Oc SCSLB8I J9C S6l 6C8 CI-VV:C7 IT
+
+syoJT | sxapag| aoug| soy | sxapag| aotrg| eddy | song [S307] epIg |UOHIV] dso11g| s19pr—Q| sJ0T dug |S1IpAgQ| spoT ou], MOY
+PAIT YSY PUOdIg PAT ASV SAL AIT Pre ISL PAIT Pre PuodsI¢g
+
+ 
+
+(PHS) Aleartjod yore eID Sq
+plOT “§ Youre
+
+C WIdINVXY LNYAY
+
+ 
+28
+
+01/28/18 Page 11 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C HIdNVXA LNHAY Ol
+
+Cec OV OO9L8I |S8 SC SLSL81 OSSL8I |6 6l SCSL8I JSC S6l L66 81-vy:7C |19
+Cec OV OO9L8I |S8 SC SLSL81 OSSL8I |6 6l SCSL8I JSC S6l L66 81-vh:CC }09
+Cec OV OO9L8I |S8 SC SLSL81 OSSL8I |6 6l SCSLB8I J9C Lol L66 81:77 16S
+Cec OV OO9L8I |S8 SC SLSL81 OSSL8I |6 6l SCSLB8I J9C Lol L66 81:77 18S
+Cec OV OO9L8I |S8 SC SLSL81 OSSL8I |6 6l SCSLB8I LE 00Cc CIT S8IE-vy:cc ILS
+OC 6¢ OO9L8I |S8 SC SLSL81 OSSL8I |6 6l SCSLB8I LE 00Cc ITE 81-7r-cc [9S
+OC 6¢ OO9L8I |S8 SC SLSL81 OSSL8I |6 0c SCSLB8I LE 00Cc CIO 9IT-Vy:C~7 ISS
+OC 6¢ OO9L8I |S8 SC SLSL81 OSSL8I |6 Ic SCSLB8I LE 00Cc 106 91-pr-CC [VS
+OC 6¢ OO9L8I |S8 SC SLSL81 OSSL8I |6 Ic SCSLB8I LE 00Cc 106 91-pr-C7 [eS
+Cec OV OO9L8I |S8 SC SLSL81 OSSL8I |6 Ic SCSLB8I LE 00Cc S68 91:VV:CC [CS
+VEC Iv OO9L8I |S8 SC SLSL81 OSSL8I |6 Ic SCSLB8I LE 00Cc Sv8 9L-vy:cc IIS
+VEC Iv OO9L8I |S8 SC SLSL81 OSSL8I |6 Ic SCSLB8I LE 00Cc COL OT: Vy:CC JOS
+VEC Iv OO9L8I |S8 SC SLSL81 OSSL8I |6 Ic SCSLB8I LE 00Cc 8CLOIT-VV:CC 16
+VEC Iv OO9L8I |S8 SC SLSL81 OSSL8I |6 CC SCSLB8I LE 00Cc VVS OT-vV:CC 18
+VEC Iv OO9L8I |S8 SC SLSL81 OSSL8I |6 CC SCSLB8I J9C 86l Cvs 9l-vy:cc LV
+VEC Iv OO9L8I |S8 SC SLSL81 OSSL8I |6 EC SCSLB8I J9C 86l SOL OL-Vy:CC OV
+VEC Iv OO9L8I |Z8 9C SLSL81 OSSL8I |6 EC SCSLB8I J9C 86l SOL OL-Vy:CC [SV
+VEC Iv OO9L8I |Z8 9C SLSL81 OSSL8I |8 Ic SCSLB8I J9C 86l v6C 9T-vy:CC VV
+VEC Iv OO9L8I |Z8 9C SLSL81 OSSL8I JL sl SCSLB8I J9C 86l v6C 9T-vy:CC JEV
+VEC Iv OO9L8I |Z8 9C SLSL81 OSSL8I 19 el SCSLB8I J9C 86l v6C 9T-vy:CC ICV
+VEC Iv OO9L8I 88 Lo SLSL81 OSSL8I 19 el SCSLB8I J9C 86l v6cC 9T-vy:cC IIV
+
+Joods |SLoL8t} 107 S posure’) v6C 9T-vy:CC 1OV
+VEC Iv OO9L8I [68 8C SLSL81 OSSL8I 19 el SCSLB8I J9C 86l VSCOL-VV:CC JOE
+VEC Iv OO9L8I |L8C Lo SLSL81 OSSL8I 19 el SCSLB8I J9C 86l CSC OL-vy:CC BE
+VEC Iv OO9L8I |L8C Lo SLSL81 OSSL8I 19 vi SCSLB8I J9C 86l Icc 91 -pr-c7 LE
+VEC Iv OO9L8I |L8C Lo SLSL81 OSSL8I 19 vi SCSLB8I LE 00Cc SvI9OL-vy:cC JOE
+VEC Iv OO9L8I |L8C Lo SLSL81 OSSL8I 19 SI SCSLB8I LE 00Cc SvOSI:VV:CC SE
+VEC Iv OO9L8I |L8C Lo SLSL81 OSSL8I 19 oT SCSLB8I LE 00Cc LS8SIT-vy-C7 VE
+VEC Iv OO9L8I |L8C Lo SLSL81 OSSL8I 19 oT SCSLB8I J9C S6l BEB ST:vy:cc JEE
+VEC Iv OO9L8I |L8C Lo SLSL81 OSSL8I |S SI SCSLB8I J9C S6l SC8 SIT:VV:CC ICE
+VEC Iv OO9L8I |L8C Lo SLSL81 OSSL8I IV el SCSLB8I J9C S6l SC8 SIT:Vy:CC TE
+VEC Iv OO9L8I |88C 8C SLSL81 OSSL8I IV el SCSLB8I J9C S6l SC8 SIT:VV:CC JOE
+VEC Iv OO9L8I [68 6C SLSL81 OSSL8I IV el SCSLB8I J9C S6l 89LST-VV:CC 167
+
+syoJT | sxapag| aoug| soy | sxapag| aotrg| eddy | song [S307] epIg |UOHIV] dso11g| s19pr—Q| sJ0T dug |S1IpAgQ| spoT ou], MOY
+PAIT YSY PUOdIg PAT ASV SAL AIT Pre ISL PAIT Pre PuodsI¢g
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+29
+
+01/28/18 Page 12 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C HIdNVXA LNHAY Il
+9CC CV OO9L8I |S8 9C SLSL81 OSSL8I |OL EC SCSLB8I LE 10¢ C60 6¢:VV:CC | V6
+9CC CV OO9L8I |S8 9C SLSL81 OSSL8I |OL EC SCSLB8I J9C Lol CSO 6E:VV:CC ~|£6
+9CC CV OO9L8I | V8 SC SLSL81 OSSL8I |OL EC SCSLB8I J9C Lol IL6 8¢-7V:CC |76
+9CC CV OO9L8I | V8 SC SLSL81 OSSL8I |OL EC SCSLB8I J9C Lol IL68¢-7V:CC |16
+9CC CV OO9L8I | V8 SC SLSL81 OSSL8I |OL EC SCSLB8I J9C Lol LS6LE:VV:CC 106
+9CC CV OO9L8I | V8 SC SLSL81 OSSL8I |OL EC SCSLB8I J9C Lol LS6LE-VV:C7 168
+9CC CV OO9L8I | V8 SC SLSL81 OSSL8I |OL EC SCSLB8I J9C Lol IVI LE-py-c7 [88
+9CC CV OO9L8I | V8 SC SLSL81 OSSL8I |OL EC SCSLB8I J9C Lol IVE Le-pr-cc {L8
+9CC CV OO9L8I | V8 SC SLSL81 OSSL8I |OL EC SCSLB8I J9C Lol S76 CE:VV:CC 198
+9CC CV OO9L8I | V8 SC SLSL81 OSSL8I |6 6l SCSLB8I J9C Lol 86S CE-VV:CC 1S8
+9CC CV OO9L8I | V8 SC SLSL81 OSSL8I |OL VC SCSLB8I J9C Lol ILL 6¢:0v:C7 [78
+VEC Iv OO9L8I | V8 SC SLSL81 OSSL8I |OL VC SCSLB8I J9C Lol 691 6C:VV:C7 IC8
+VEC Iv OO9L8I 198 9C SLSL81 OSSL8I |OL VC SCSLB8I J9C Lol SL8-8C:VV:CC |C8
+VEC Iv OO9L8I 198 9C SLSL81 OSSL8I |OL VC SCSLB8I J9C Lol SL8-8C:VV:CC |I8
+VEC Iv OO9L8I 198 9C SLSL81 OSSL8I |OL VC SCSLB8I J9C Lol SL8-8C:VV:CC 108
+VEC Iv OO9L8I 198 9C SLSL81 OSSL8I |OL VC SCSLB8I J9C Lol SL8°8C:VV:CC J6L
+VEC Iv OO9L8I 198 9C SLSL81 OSSL8I |OL VC SCSLB8I J9C Lol SL8-8C:VV:CC |8L
+VEC Iv OO9L8I | V8 SC SLSL81 OSSL8I |OL VC SCSLB8I J9C Lol CS89C-VV:CC |LL
+VEC Iv OO9L8I | V8 SC SLSL81 OSSL8I |OL VC SCSLB8I J9C Lol CS89C-VV:CC JOL
+VEC Iv OO9L8I | V8 SC SLSL81 OSSL8I |OL VC SCSLB8I LE 00Cc 6VV 9C-VV:CT SL
+9CC CV OO9L8I | V8 SC SLSL81 OSSL8I |OL VC SCSLB8I LE 00Cc LvVO 9C:bP:CC VL
+9CC CV OO9L8I | V8 SC SLSL81 OSSL8I |OL VC SCSLB8I LE 00Cc LVO 9C:VP:CC JEL
+9CC CV OO9L8I | V8 SC SLSL81 OSSL8I |OL VC SCSLB8I LE 00Cc LVO 9C:VV:CC CL
+9CC CV OO9L8I | V8 SC SLSL81 OSSL8I |OL VC SCSLB8I J9C 86l LvO 9C:bh:CC JIL
+9CC CV OO9L8I | V8 SC SLSL81 OSSL8I |OL VC SCSLB8I J9C 86l LvVO 9C:bV:CC ~JOL
+9CC CV OO9L8I | V8 SC SLSL81 OSSL8I |OL VC SCSL8I JSC S6l 876 SC:VV:CC 169
+9CC CV OO9L8I |S8 SC SLSL81 OSSL8I |OL VC SCSL8I JSC S6l C88 1C:VV:CC = 189
+9CC CV OO9L8I |S8 SC SLSL81 OSSL8I |OL VC SCSL8I JSC S6l C88 1C:Vh:cC ~|L9
+9CC CV OO9L8I |S8 SC SLSL81 OSSL8I |OL VC SCSL8I JSC S6l S8C 6l:VV:CC 199
+VEC Iv OO9L8I |S8 SC SLSL81 OSSL8I |OL VC SCSL8I JSC S6l 8CC OI: VV:CC ~1S9
+VEC Iv OO9L8I |S8 SC SLSL81 OSSL8I |6 6l SCSL8I JSC S6l 666 8I-7h:CC |79
+VEC Iv OO9L8I |S8 SC SLSL81 OSSL8I |6 6l SCSL8I JSC S6l 666 8I-7h:7C {C9
+Cec OV OO9L8I |S8 SC SLSL81 OSSL8I |6 6l SCSL8I JSC S6l L66 81-Vh:CC |T9
+syoJT | sxapag| aoug| soy | sxapag| aotrg| eddy | song [S307] epIg |UOHIV] dso11g| s19pr—Q| sJ0T dug |S1IpAgQ| spoT ou], MOY
+PAIT YSY PUOdIg PAT ASV SAL AIT Pre ISL PAIT Pre PuodsI¢g
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Case: 1:18-cv-00620 Document #: 1-1 Filed: 01/28/18 Page 13 of 19 PagelD #:30
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+C HIdINVXA LNHAd cl
+9EC cv OO9L8I |S8 9¢ SLSL8I OSSL8I |6 ae SCSL8I JLe L0c cel Or-vr-CC 186
+ournust) }OSSL8T] I qd ypsoue) ces Or-vr-cC |L6
+9EC cv OO9L8I |S8 9¢ SLSL8I OSSL8I JOT eG SCSL8I JLe L0c I9€ 6€-7V-CC 196
+9EC cv OO9L8I |S8 9¢ SLSL8I OSSL8I JOT eG SCSL8I JLe L0c [9 6€-7V-CC |S6
+soy | sxaprg| aoug] syoT | sx9prQ] aoug| 2d4L | 9Ng |s}OT] BpIg |UOHIV] so11g] s19prQ| sJoT | a2K1g |s1epAQ| sjoT ourL Ty, MOY
+PAIT YSYV PU0I9G PAT YSV IST PPAIT PIG ISAT PAIT PIA PUOI9S
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+31
+
+01/28/18 Page 14 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+el
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LOC GS ScVeoc IIL 9 O0VEOC O0re0C II vi SLECOT IST CIC [86 ce-le-L j09r
+LOC GS ScVeoc IIL 9 O0VEOC SLECOT IST CIC OSECOC II8 10¢ I86ce-le-L J6sy
+SUINUSL) 1OOVEOT] OL S oper I86ce-1e-L |8Sr
+LOC GS SCVEOT EV cl O0VEOC SLECOT IST CIC OSECOC II8 10¢ O86 ce:Te:L LSP
+SUINUSL) 1O0OVEOT] TI S oper O86 ce:Te:L |9SP
+LOC GS SCVEOT ISL el O0VEOC SLECOT IST CIC OSECOC II8 10¢ cL£8ce:Te:L |Ssy
+LOC GS SCVEOC [OV vi O0VEOC SLECOT IST CIC OSECOC II8 10¢ cos ce:Te:L = |Vsy
+LOC GS SCVEOC [8V SI O0VEOC SLECOT IST CIC OSECOC II8 10¢ ors ce-Te-L |Csy
+LOC GS SCVEOC [8V SI O0VEOC SLECOC IVT 09C OSECOC II8 10¢ cOL ¢ce:Te:L = |cSy
+LOC GS SCVEOC [8V SI O0VEOC SLECOT JET 6SC OSECOC II8 10¢ soo ceTe:L ISy
+LOC GS SCVEOC [8V SI O0VEOC SLECOT CV 8SC OSECOC II8 10¢ soo ce:Te:L OSL
+LOC GS SCVEOT JIS 91 O0VEOC SLECOT CV 8SC OSECOC II8 10¢ sso ce:le:L ory
+LOC GS SCVEOT JIS 91 O0VEOC SLECOT J IV SEC OSECOC II8 10¢ 9p9 ce:Te:L |8rV
+LOC GS SCVEOT JIS 91 O0VEOC SLECOTC JOV LEC OSECOC II8 10¢ 9p9 ce:Te:L |LyV
+LOC GS SCVEOT JIS 91 O0VEOC SLECOC JOC 9CC OSECOC II8 10¢ cro ce: Te:L |9bV
+LOC GS SCVEOT JES LI O0VEOC SLECOC JOC 9CC OSECOC II8 10¢ cro ce: Te:L [Sry
+LOC GS SCVEOT ISS sl O0VEOC SLECOC JOC 9CC OSECOC II8 10¢ cro ce: Te:L |yyy
+LOC GS SCVEOT ISS sl O0VEOC SLECOC JBC SEC OSECOC II8 10¢ cro ce: Te:L ery
+LOC GS SCVEOT JOS 6l O0VEOC SLECOC JBC SEC OSECOC II8 10¢ cro ce: Te:L |cvy
+joods |cLeeoz] 78 d FOpIO cro ce: Te:L |Tvy
+LOC GS SCVEOT JOS 6l O0VEOC SLECOC LE esl OSECOC II8 10¢ orcs ce-le-L Ory
+LOC GS SCVEOT JOS 6l O0VEOC SLECOC LE esl OSECOC II8 10¢ ver ce:le:L |6eV
+“AOVdS AANASNOD OL GALLINO NAIF AAVH “ATA NVXG STALL OL TVRYALVIA LON
+SNOLLOV LIDRIVIA SLINVdIOLLYVd WAHLO ONILOATAIA ‘8er HONOUHL § SMOW
+OIC LS SCVEOC JSCI vv O0VEOC SLECOC Jol $9 OSECOC |8L 60€ LOL 8c:1€:L IV
+OIC LS SCVEOC JSCI vv O0VEOC SLECOT JOC 99 OSECOC |8L 60€ 9CL 8C:1e:L IE
+sulnusr) }O0rE0Cc] IT S FOpIO OCL 8C-1E:L 17
+OIC LS SCVeOC IIT tv O0VEOC SLECOT JOC 99 OSECOC |8L 60€ cOSsc-le-L I
+syoJT | sxapag| aoug| soy | sxapag| aotrg| eddy | song [S307] epIg |UOHIV] dso11g| s19pr—Q| sJ0T dug |S1IpAgQ| spoT ou], MOY
+PAIT YSY PUOdIg PAT ASV SAL AIT Pre ISL PAIT Pre PuodsI¢g
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(QINSA) Atoarpoq suns yoenuoD SA
+
+9107 “17 yore
+
+€ WIdINVXY LNYAY
+
+ 
+32
+
+01/28/18 Page 15 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+€ WIdNVXH LNOYAA vl
+ELC 19 OSVeOc |80C 9S SCVLOC OOVEOC 19 SC SLECOT | 87 9SC c86ce-le:L |e6V
+ELC 19 OSVe0c |cICc 9S SCVLOC OOVEOC 19 SC SLECOT | 87 9SC c86ce:le:L |c6V
+ELC 19 OSVe0c |cICc 9S SCVLOC O0VEOC JOL Sv SLECOT [87 9SC c8ece:le:L |T6V
+ELC 19 OSVe0c |cICc 9S SCVLOC OOVEOC |6 VV SLECOT | 87 9SC c86ce:Te:L |06P
+ELC 19 OSve0c {LOC GS SCVLOC OOVEOC |6 VV SLECOT | 87 9SC C86 ce:le:L |68V
+ELC 19 OSve0c {LOC GS SCVLOC OOVEOC {8 OV SLECOT | 87 9SC C86 ce:le:L |88V
+SLC c9 OSve0c {LOC GS SCVLOC OOVEOC {8 OV SLECOT | 87 9SC c86ce:le:L |L8V
+SLC c9 OSve0c {LOC GS SCVLOC OOVEOC {8 OV SLECOT | 87 9SC C86 ce:le:L |98V
+LLC c9 OSve0c {LOC GS SCVLOC OOVEOC {8 OV SLECOT | 87 9SC c86ce:le:L |S8V
+LLC c9 OSve0c {LOC GS SCVLOC OOVEOC {8 OV SLECOT | 87 9SC C86 ce:le:L |V8V
+6LC v9 OSve0c {LOC GS SCVLOC OOVEOC {8 OV SLECOT | 87 9SC C86 ce:le:L JE8V
+6LC v9 OSve0c {LOC GS SCVLOC OOVEOC {8 OV SLECOT | 87 9SC C86 ce:le:L |C8V
+6LC v9 OSve0c {LOC GS SCVLOC OOVEOC {8 OV SLECOT | 87 9SC c8ece:le:L |T8V
+6LC v9 OSve0c {LOC GS SCVLOC OOVEOC {8 OV SLECOT | 87 9SC c86ce:le:L |O8V
+18 $9 OSve0c {LOC GS SCVLOC OOVEOC {8 OV SLECOT | 87 9SC c86ce:le:L |6LV
+18 $9 OSve0c {LOC GS SCVLOC OOVEOC {8 OV SLECOT | 87 9SC c86ce:le:L |8LV
+18 $9 OSve0c {LOC GS SCVLOC OOVEOC {8 OV SLECOT | 87 9SC c8ece:Te:L LLY
+18 $9 OSve0c {LOC GS SCVLOC OOVEOC {8 OV SLECOT | 87 9SC c8ece:Te:L JOLY
+E8C 99 OSve0c {LOC GS SCVLOC OOVEOC {8 OV SLECOT | 87 9SC c86ce:Te:L |SLV
+E8C 99 OSve0c {LOC GS SCVLOC OOVEOC {8 OV SLECOT ILL 9VC c8ece:le:L |VLy
+E8C 99 OSve0c {LOC GS SCVLOC OOVEOC JL Se SLECOT ILL 9VC c86ece:Te:L JELy
+E8C 99 OSve0c {LOC GS SCVLOC OOVEOC 19 ce SLECOT ILL 9VC c86ece:le:L |CLV
+E8C 99 OSve0c {LOC GS SCVLOC OOVEOC 19 ce SLECOT |9V VVC c8ece:Te:L |ILV
+E8C 99 OSve0c {LOC GS SCVLOC OOVEOC 19 ce SLECOT ILL LOC c8ece:le:L JOLY
+E8C 99 OSve0c {LOC GS SCVLOC OOVEOC 19 ce SLECOT |9V VIC c86ce:le:L |69V
+E8C 99 OSve0c {LOC GS SCVLOC OOVEOC 19 ce SLECOT IST CIC c86ce:le:L |89P
+E8C 99 OSve0c {LOC GS SCVLOC OOVEOC 19 ce SLECOT IST CIC c86ce:Te:L |LOV
+E8C 99 OSve0c {LOC GS SCVLOC OOVEOC |S CC SLECOT IST CIC [86 ce-1e-L 997
+E8C 99 OSve0c {LOC GS SCVLOC OOVEOC IV 0c SLECOT IST CIC I86ce-le-L Sov
+E8C 99 OSve0c {LOC GS SCVLOC OOVEOC JE sl SLECOT IST CIC [86 ce-le-L vor
+E8C 99 OSve0c {LOC GS SCVLOC OOVEOC JC LI SLECOT IST CIC [86 ce-le-L cov
+E8C 99 OSve0c {LOC GS SCVLOC O0VE0C II vi SLECOT IST CIC I86ce:le-L Cov
+E8C 99 OSve0c {LOC GS SCVLOC O0VE0C II vi SLECOT IST CIC [86ce-le-L |19v
+syoJT | sxapag| aoug| soy | sxapag| aotrg| eddy | song [S307] epIg |UOHIV] dso11g| s19pr—Q| sJ0T dug |S1IpAgQ| spoT ou], MOY
+PAIT YSY PUOdIg PAT ASV SAL AIT Pre ISL PAIT Pre PuodsI¢g
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+33
+
+01/28/18 Page 16 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+€ Id NVXd LNAAA SI
+col LS SCVENT IC I 0OVENC SLECOC JOS 6SC OSELOC {C8 cOe p86ce-Te-L 9S
+col LS SCVENT IC I 0OVENC SLECOC JOS 6SC OSELOC {C8 cOe p86ce-Te-L |Scs
+col LS SCVENT IC I 0OVENC SLECOC J 6V vSC OSELOC {C8 cOe p86ce-Te-L vcs
+GG 09 OSVeOc | C6l LS SCVENC SLECOC J 6V vSC OSELOC {C8 cOe p86ce-Te-L JEcs
+GG 09 OSVeOc | C6l LS SCVENC SLECOC J 6V vSC OSELOC |€8 vOe p86ce-Te-L CCS
+GG 09 OSVeOc | C6l LS SCVENC SLECOC J 6V vSC OSELOC | 8 90¢ p8ece-Te-L JIS
+GG 09 OSVeOc | C6l LS SCVENC SLECOC J 6V vSC OSELOC |S8 80¢ p86ce-Te-L OCS
+GG 09 OSVeOc | C6l LS SCVENC SLECOC J 6V vSC OSELOC |S8 80¢ ps6ece-Te-L J6ls
+GG 09 OSVeOc | C6l LS SCVENC SLECOC J 6V vSC OSELOC 198 Ole ps6ece-Te-L |8Is
+GG 09 OSVeOc | C6l LS SCVENC SLECOC J 6V vSC OSEtOC |L8 cle psece-Te-L JLT
+GG 09 OSVeOc | C6l LS SCVENC SLECOC JOS 6LC OSEtOC |L8 cle cgoce-Te-L 91S
+GG 09 OSVeOc | C6l LS SCVENC SLECOC JOS 6LC OSEtOC |L8 cle cgoce-Te-L SIs
+GG 09 OSVeOc | C6l LS SCVENC SLECOC J 6V EG OSEtOC |L8 cle cgoce-Te-L VIS
+GG 09 OSVeOc | r6l 8S SCVENC SLECOC J 6V EG OSEtOC |L8 cle cgoce-Te-L els
+GG 09 OSVeOc | r6l 8S SCVENC SLECOC J 6V EG OSEtOC |L8 cle cgoce-Te-L cls
+GG 09 OSVeOc | r6l 8S SCVENC OOVEOC |S Ol SLECOC 161 naa cgoce-Te-L IIIS
+GG 09 OSVeOc | r6l 8S SCVENC OOVEOC |S Ol SLECOC 161 naa cgoce-Te-L JOIS
+GG 09 OSVeOc | C6l LS SCVENC OOVEOC |S Ol SLECOC 161 naa c86oce-Te-L 1608
+GG 09 OSVeOc | C6l LS SCVENC OOVEOC |S Ol SLECOC 161 naa c86oce-Te-L 1808
+GG 09 OSVeOc | C6l LS SCVENC OOVENC 19 SI SLECOC 161 naa cgoce-Te-L LOS
+GG 09 OSvedc | LOI 8S SCVENC OOVENC 19 SI SLECOC 161 naa c8oce-Te-L 1908
+GG 09 OSvedc | LOI 8S SCVENC OOVEOC JZ 9C SLECOC 161 naa cgoce-Te-L 1SOS
+GG 09 OSvedc | LOI 8S SCVENC OOVEOC JZ 9C SLECOC 181 SSC cgoce-Te-L 10S
+GG 09 OSveOc | S6l LS SCVENC OOVEOC JZ 9C SLECOC 181 SSC c8oce-Te-L |E0S
+GG 09 OSveOc | S6l LS SCVENC OOVEOC JZ 9C SLECOC 181 SSC c8oce-Te-L 1c0S
+GG 09 OSveOc | S6l LS SCVENC OOVEOC JZ 9C SLECOC 181 SSC cgoce-Te-L TOS
+GG 09 OSveOc | S6l LS SCVENC OOVEOC JZ 9C SLECOC ILL eSC c8oce-Te-L 1008
+eLc 19 OSveOc | S6l LS SCVENC OOVEOC JZ 9C SLECOC ILL eSC C8oce-[e-L 667
+eLc 19 OSVeOc | C6l 9S SCVENC OOVEOC JZ 9C SLECOC ILL eSC c8oce-[e-L |86r
+eLc 19 OSvedc JOIC LS SCVENC OOVEOC JZ 9C SLECOC ILL eSC csoce-[e-L |L6r
+eLc 19 OSVENC |80C 9S SCVENC OOVEOC JZ 9C SLECOC ILL eSC c8eoce-le-L 967
+eLc 19 OSVENC |80C 9S SCVENC OOVENC 19 Sc SLECOC ILL eSC c8eoce-[e-L |S6r
+eLc 19 OSVENC |80C 9S SCVENC OOVENC 19 Sc SLECOC ILL eSC csece-le-L |v6r
+soy | sxaprg| aoug] syoT | sx9prQ] aoug| 2d4L | 9Ng |s}OT] BpIg |UOHIV] so11g] s19prQ| sJoT | a2K1g |s1epAQ| sjoT ourL Ty, MOY
+PAIT YSYV PU0I9G PAT YSV IST PPAIT PIG ISAT PAIT PIA PUOI9S
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+34
+
+01/28/18 Page 17 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+€ WIdNVXH LNOYAA 91
+CLC 09 OSVeOc |06L 9S SCVEOC SLECOT IST LCC OSECOT {C8 cOE l66ce-1e-L Joss
+CLC 09 OSVEOC |88I GS SCVEOC SLECOT IST LCC OSECOT {C8 cOE O66 ce-Te:L 18Ss
+CLC 09 OSVveOc |I6l 9S SCVEOC SLECOT IST LCC OSECOT {C8 cOE 886 ce:Te-L LSS
+CLC 09 OSVveOc |I6l 9S SCVEOC SLECOT IST LCC OSECOT {C8 cOE 886 ce:Te-L JOSS
+CLC 09 OSVEOC J68L GS SCVEOC SLECOT IST LCC OSECOT {C8 cOE L86ce:Ie-L |Sss
+CLC 09 OSVEOC J68L GS SCVEOC SLECOT IST LCC OSECOT {C8 cOE 986 ce:Te:-L |yss
+CLC 09 OSVveOc |I6l 9S SCVEOC SLECOT IST LCC OSECOT {C8 cOE 986 ce:Te-L Ess
+CLC 09 OSVEOC J68L GS SCVEOC SLECOT IST LCC OSECOT {C8 cOE 986 ce:Te-L 1cSs
+CLC 09 OSVEOC J68L GS SCVEOC SLECOT IST LCC OSECOT {C8 cOE 986 ce:Te-L ISS
+CLC 09 OSVEOC J68L GS SCVEOC SLECOT IST LCC OSECOT {C8 cOE 986 ce:Te-L JOSS
+CLC 09 OSVEOC J68L GS SCVEOC SLECOT IST LCC OSECOT {C8 cOE c86ce-Ie:L 6s
+CLC 09 OSVEOC |90C 9S SCVEOC SLECOT IST LCC OSECOT {C8 cOE csece-le-L |8Vvs
+CLC 09 OSVeOc | VOC GS SCVEOC SLECOT IST LCC OSECOT {C8 cOE csece-Te:L Lys
+CLC 09 OSVEOC | COC vs SCVEOC SLECOT IST LCC OSECOT {C8 cOE csece:Te:L [9s
+CLC 09 OSVeOc | VOC GS SCVEOC SLECOT IST LCC OSECOT {C8 cOE csece-Te:L [Svs
+CLC 09 OSVEOC |60C 9S SCVEOC SLECOT IST LCC OSECOT {C8 cOE cso ce:le-L |vVys
+CLC 09 OSVEOC |60C 9S SCVEOC SLECOT IST LCC OSECOT {C8 cOE c86ce-Ie-L [evs
+CLC 09 OSVveOc IIIc LS SCVEOC SLECOT IST LCC OSECOT {C8 cOE c86ce-Te:L [cvs
+CLC 09 OSVveOc IIIc LS SCVEOC SLECOT IST LCC OSECOT {C8 cOE csece-Te-L IVs
+IIc LS SCVEOC IL V O0VEOC SLECOT IST LCC OSECOT {C8 cOE y8ece:Te:L JOS
+vol 9S SCVEOC IL V O0VEOC SLECOT IST LCC OSECOT {C8 cOE y8ece:Te:-L J6cs
+961 LS SCVEOC IL V O0VEOC SLECOT IST LCC OSECOT {C8 cOE y8ece:Te:L |8Es
+961 LS SCVEOC IL V O0VEOC SLECOT |9V 6VC OSECOT {C8 cOE y8ece:Te-L LES
+961 LS SCVEOC IL V O0VEOC SLECOT ILL VSC OSECOT {C8 cOE y8ece:Te-L 19E¢
+lol 9S SCVEOC IL V O0VEOC SLECOT ILL VSC OSECOT {C8 cOE y8ece:Te:-L |Ses
+lol 9S SCVEOC 19 t O0VEOC SLECOT ILL VSC OSECOT {C8 cOE y8ece:Te:-L Ives
+lol 9S SCVLOC IT C O0VEOC SLECOT ILL VSC OSECOT {C8 cOE y8ece:Te-L ees
+lol 9S SCVLOC IT C O0VEOC SLECOT | 87 9SC OSECOT {C8 cOE y8ece:Te:-L |cEes
+lol 9S SCVEOC JC I O0VEOC SLECOT | 87 9SC OSECOT {C8 cOE y8ece:Te-L TEs
+lol 9S SCVEOC JC I O0VEOC SLECOT | 87 9SC OSECOT {C8 cOE y8ece:Te:-L OES
+lol 9S SCVEOC JC I O0VEOC SLECOT |6r LSC OSECOT {C8 cOE y8ece:Te:L 16cs
+lol 9S SCVEOC JC I O0VEOC SLECOT |6r LSC OSECOT {C8 cOE y8ece:Te:L 187s
+cél LS SCVEOC JC I O0VEOC SLECOT |6r LSC OSECOT {C8 cOE y8ece:Te-L |L£cs
+syoJT | sxapag| aoug| soy | sxapag| aotrg| eddy | song [S307] epIg |UOHIV] dso11g| s19pr—Q| sJ0T dug |S1IpAgQ| spoT ou], MOY
+PAIT YSY PUOdIg PAT ASV SAL AIT Pre ISL PAIT Pre PuodsI¢g
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+35
+
+01/28/18 Page 18 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+€ WIdNVXH LNOYAA LI
+L8I vs SCVEOC JC I O0VEOC SLECOT |9V SCC OSECOC II8 10¢ Occ ve:Te:-L 1c6s
+vsl cs SCVEOC JC I O0VEOC SLECOT |9V SCC OSECOC II8 10¢ Occ ve:Te:-L 16s
+vsl cs SCVEOC JC I O0VEOC SLECOT |9V SCC OSECOC II8 10¢ 6ST re-Te-L 06S
+vsl cs SCVEOC JC I O0VEOC SLECOT |9V SCC OSECOC II8 10¢ OST VE-Te:L Joss
+vsl cs SCVEOC JC I O0VEOC SLECOT |9V SCC OSECOC II8 10¢ OST PE-TE:L 88s
+vsl cs SCVEOC JC I O0VEOC SLECOT |9V SCC OSECOC II8 10¢ OST re-Te:L JL8s
+vsl cs SCVEOC JC I O0VEOC SLECOT |9V SCC OSECOC II8 10¢ OST ve:Te-L 198S
+vsl cs SCVEOC JC I O0VEOC SLECOT |9V SCC OSECOC II8 10¢ 90I ve:Te:L |S8s
+vsl cs SCVEOC JC I O0VEOC SLECOT IST LCC OSECOC II8 10¢ cSOve-le-L vss
+vsl cs SCVEOC 19 C O0VEOC SLECOT IST LCC OSECOC II8 10¢ SpO ve-:Te-L [ess
+vsl cs SCVEOC 19 C O0VEOC SLECOT IST LCC OSECOC II8 10¢ SvpO ve-:Te:L |c8s
+vsl cs SCVEOC 19 C O0VEOC SLECOT IST LCC OSECOC II8 10¢ Leo ve-Te-L |18s
+vsl cs SCVEOC 19 C O0VEOC SLECOT IST LCC OSECOC II8 10¢ 810 ve:Te:L 108s
+vsl cs SCVEOC 19 C O0VEOC SLECOT IST LCC OSECOT {C8 cOE LIO ve-Te-L J6Ls
+vsl cs SCVEOC 19 C O0VEOC SLECOT IST LCC OSECOT {C8 cOE 910 ve:Te:L |8Ls
+vsl cs SCVEOC 19 C O0VEOC SLECOT IST LCC OSECOT {C8 cOE ClO ve-Te-L JLLS
+981 vs SCVEOC 19 C O0VEOC SLECOT IST LCC OSECOT {C8 cOE ClO ve-Te-L OLS
+8sI GS SCVEOC 19 C O0VEOC SLECOT IST LCC OSECOT {C8 cOE ClO ve-Te-L SLs
+06l 9S SCVEOC 19 C O0VEOC SLECOT IST LCC OSECOT {C8 cOE ClO ve-Te-L vs
+06l 9S SCVEOC 19 C O0VEOC SLECOT IST LCC OSECOT {C8 cOE ClO ve-Te-L els
+06l 9S SCVEOC 19 C O0VEOC SLECOT IST LCC OSECOT {C8 cOE ClO ve-Te-L cls
+06l 9S SCVEOC 19 C O0VEOC SLECOT IST LCC OSECOT {C8 cOE ClO ve-Te-L ILS
+06l 9S SCVEOC 19 C O0VEOC SLECOT IST LCC OSECOT {C8 cOE ClO ve-:Te-L OLS
+06l 9S SCVEOC 19 C O0VEOC SLECOT IST LCC OSECOT {C8 cOE ClO ve-Te-L 69S
+06l 9S SCVLOC IT I O0VEOC SLECOT IST LCC OSECOT {C8 cOE ClO ve-Te-L |89¢
+06l 9S SCVLOC IT I O0VEOC SLECOT IST LCC OSECOT {C8 cOE ClO ve-Te-L |L9¢
+06l 9S SCVLOC IT I O0VEOC SLECOT IST LCC OSECOT {C8 cOE ClO ve-Te-L 1996
+CLC 09 OSVeOc |06L 9S SCVEOC SLECOT IST LCC OSECOT {C8 cOE 666 CE:TE:L SOs
+CLC 09 OSVeOc |06L 9S SCVEOC SLECOT IST LCC OSECOT {C8 cOE 666 CE:1E:L VIS
+CLC 09 OSVeOc |06L 9S SCVEOC SLECOT IST LCC OSECOT {C8 cOE yee ce:Te:-L |e9¢
+CLC 09 OSVeOc |06L 9S SCVEOC SLECOT IST LCC OSECOT {C8 cOE yee ce:Te:L 1729S
+CLC 09 OSVeOc |06L 9S SCVEOC SLECOT IST LCC OSECOT {C8 cOE yee ce:Te:-L 19S
+CLC 09 OSVeOc |06L 9S SCVEOC SLECOT IST LCC OSECOT {C8 cOE yee ce:Te:L 1096
+syoJT | sxapag| aoug| soy | sxapag| aotrg| eddy | song [S307] epIg |UOHIV] dso11g| s19pr—Q| sJ0T dug |S1IpAgQ| spoT ou], MOY
+PAIT YSY PUOdIg PAT ASV SAL AIT Pre ISL PAIT Pre PuodsI¢g
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+36
+
+01/28/18 Page 19 of 19 PagelD #
+
+1-1 Filed:
+
+18-cv-00620 Document #
+
+1:
+
+Case
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+€ WIdNVXH LNOYAA 81
+
+cél GS SCVEOC JEL Ic O0VEOC SLECOTC JOV sel OSECOC II8 10¢ o8t PE-Te-L 1819
+
+joods |cLeeoz] 78 q = jpeourD LI9
+cél GS SCVEOC JEL Ic O0VEOC SLECOT J IV OCC OSECOC II8 10¢ escve:te:L 919
+cél GS SCVEOC JEL Ic O0VEOC SLECOT CV cc OSECOC II8 10¢ escve:te:L |St9
+cél GS SCVEOC J CL 0c O0VEOC SLECOT CV cc OSECOC II8 10¢ eseve:te:L |Vvil9
+cél GS SCVEOC [69 6l O0VEOC SLECOT CV cc OSECOC II8 10¢ escve:te:L |el9
+L8I vs SCVEOC [69 6l O0VEOC SLECOT CV cc OSECOC II8 10¢ eseve:te:L |cl9
+L8I vs SCVEOC |99 sl O0VEOC SLECOT CV cc OSECOC II8 10¢ escve-te:L |IT9
+L8I vs SCVEOC 79 LI O0VEOC SLECOT CV cc OSECOC II8 10¢ escve:te:L 019
+L8I vs SCVEOC | 19 91 O0VEOC SLECOT CV cc OSECOC II8 10¢ ese ve-[¢e:L |609
+L8I vs SCVEOC |09 SI O0VEOC SLECOT CV cc OSECOC II8 10¢ eseve-T¢e:L |809
+L8I vs SCVEOC |09 SI O0VEOC SLECOT JET ECC OSECOC II8 10¢ escve:te:L |L09
+L8I vs SCVEOC J6S vi O0VEOC SLECOT JET ECC OSECOC II8 10¢ eseve:te:L 1909
+L8I vs SCVEOC ILS el O0VEOC SLECOT JET ECC OSECOC II8 10¢ eseve:te:L |S09
+L8I vs SCVEOC IVS cl O0VEOC SLECOT JET ECC OSECOC II8 10¢ escve:¢e:L |Vv09
+L8I vs SCVEOT JCS IT O0VEOC SLECOT JET ECC OSECOC II8 10¢ cSe ve:Te-L 109
+L8I vs SCVEOT JIS OL O0VEOC SLECOT JET ECC OSECOC II8 10¢ CSC ve:Te-L 1709
+L8I vs SCVEOC JOS 6 O0VEOC SLECOT JET ECC OSECOC II8 10¢ csc ve:Te-L 1109
+L8I vs SCVEOC [8V 8 O0VEOC SLECOT JET ECC OSECOC II8 10¢ CSC ve:Te-L 1009
+L8I vs SCVEOC JOV L O0VEOC SLECOT JET ECC OSECOC II8 10¢ csc ve:Te:L |66S
+L8I vs SCVEOT J8E 9 O0VEOC SLECOT JET ECC OSECOC II8 10¢ csc ve:Te:L 186s
+L8I vs SCVEOT ICC g O0VEOC SLECOT JET ECC OSECOC II8 10¢ csc ve:Te:L |L6s
+L8I vs SCVEOC 19 V O0VEOC SLECOT JET ECC OSECOC II8 10¢ csc ve:Te:L 196¢
+L8I vs SCVEOC IS t O0VEOC SLECOT JET ECC OSECOC II8 10¢ csc ve:Te:L |S6s
+L8I vs SCVLOC IT C O0VEOC SLECOT JET ECC OSECOC II8 10¢ csc ve:Te:L 16s
+L8I vs SCVLOC IT C O0VEOC SLECOT |9V SCC OSECOC II8 10¢ Occ ve:Te:-L 16s
+syoJT | sxapag| aoug| soy | sxapag| aotrg| eddy | song [S307] epIg |UOHIV] dso11g| s19pr—Q| sJ0T dug |S1IpAgQ| spoT ou], MOY
+
+PAIT YSY PUOdIg PAT ASV SAL AIT Pre ISL PAIT Pre PuodsI¢g
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 

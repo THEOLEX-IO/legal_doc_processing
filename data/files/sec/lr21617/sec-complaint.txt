@@ -1,0 +1,292 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF TEXAS
+
+ 
+
+ 
+
+HOUSTON DIVISION
+SECURITIES AND EXCHANGE Â§
+COMMISSION, Â§
+Â§
+Plaintiff, Â§ Civil Action No.
+Â§
+vs. Â§
+Â§
+JOE SUMMERS, Â§
+Â§
+Defendant. Â§
+Â§
+COMPLAINT
+
+Plaintiff Securities and Exchange Commission (the âCommissionâ) alleges that:
+SUMMARY
+
+1. Pride International, Inc. (âPrideâ) is one of the worldâs largest offshore drilling
+companies. In or about early 2006, through its internal controls processes, Pride discovered
+evidence of improper payments during the time period from 2003 to 2005 in Latin America.
+Pride made a voluntary disclosure to the Commission staff and undertook an internal
+investigation under the direction of the Audit Committee of its Board of Directors. Pride also
+undertook a worldwide compliance review of other international operations. Pride cooperated
+fully with the Commission staff throughout its internal investigation and compliance review.
+
+2. From approximately 2003 to 2005, Joe Summers authorized or allowed payments
+totaling approximately $384,000 to third-party companies believing that all or a portion of the
+funds would be given to an official of Venezuelaâs state-owned oil company in order to secure
+extensions of three drilling contracts. In addition, Summers authorized the payment of
+
+approximately $30,000 to a third party believing that all or a portion of the funds would be given
+to an employee of Venezuelaâs state-owned oil company in order to secure an improper
+advantage in obtaining the payment of certain receivables.
+
+3. By engaging in the conduct described in this Complaint, Summers violated
+Sections 13(b)(5) and 30A of the Securities Exchange Act of 1934 (âExchange Actâ) [15 U.S.C.
+Â§Â§ 78m(b)(5) and 78dd-1] and Exchange Act Rule 13b2-1 [17 C.F.R. Â§ 240.13b2-1] and aided
+and abetted Prideâs violations of Sections 13(b)(2)(A), 13(b)(2)(B), and 30A of the Exchange
+Act [15 U.S.C. Â§Â§ 78m(b)(2)(A), 78m(b)(2)(B), and 78dd-1}.
+
+4. The Commission brings this action against Summers seeking injunctive relief to
+prevent future violations of the federal securities laws and a civil penalty.
+
+JURISDICTION
+
+Ds This Court has jurisdiction over this action under Sections 21(d), 21(e), and 27 of
+the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e), and 78aa]. In connection with the conduct
+described herein, Summers, directly or indirectly, made use of means or instrumentalities of
+interstate commerce, of mails, or of facilities of a national securities exchange in connection with
+the transactions, practices, and courses of business alleged in this Complaint.
+
+6. Venue in the Southern District of Texas is proper pursuant to Section 27 of the
+Exchange Act [15 U.S.C. Â§ 78aa] because certain acts or transactions constituting the violations
+by Summers occurred in this district.
+
+DEFENDANT AND OTHER ENTITIES
+
+7. Defendant Joe Summers is a U.S. citizen and resident of John Day, Oregon.
+Summers was nominally employed by Pride International Personnel Ltdâa wholly owned
+subsidiary of Pride, incorporated in, and with its principal place of business located in, the
+
+British Virgin Islandsâand was responsible for managing the operations of Pride Foramer de
+
+SEC v. Summers Page 2
+Complaint
+Venezuela S.A. Summers functioned, however, as an âemployeeâ and/or âagentâ of Pride.
+Summers reported to, and was controlled by, Houston-based Pride officers. Summers was
+responsible for, among other things, ensuring that Pride conducted its Venezuelan operations in
+compliance with the Foreign Corrupt Practices Act, that adequate controls were in place to
+prevent illegal payments, and that the companyâs books and records were accurate. When
+subpoenaed to testify by the Commissionâs staff during its investigation, Summers asserted his
+Fifth Amendment privilege against self-incrimination.
+
+8. Pride International, Inc. is a Delaware corporation headquartered in Houston,
+Texas. Its common stock is registered under Section 12(b) of the Exchange Act and trades on
+the New York Stock Exchange.
+
+9. Pride Forasol S.A.S. (âPride Forasolâ) is organized and has its principal place of
+business in France. Pride Forasol was acquired by Pride in 1997. As relevant to the conduct
+alleged, Pride Forasol operated through Pride Foramer de Venezuela S.A., a branch of Pride
+Forasolâs wholly owned subsidiary Pride Foramer S.A.S., which operated in Venezuela
+(hereinafter âPride Foramer Venezuelaâ).
+
+10. At all times relevant to this Complaint, the financial results of the entities
+referenced in paragraph 9 were consolidated into the financial results for Pride.
+
+FACTUAL BACKGROUND
+Payments to Extend Contracts in Venezuela
+
+11. âIn early 2003, a Pride Foramer rig operated in Venezuela on a drilling contract
+
+with the Venezuelan state-owned oil company, Petrdleos de Venezuela S.A. (âPDVSAâ), that
+
+was coming up for renewal or termination in February 2003.
+
+SEC y. Summers Page 3
+Complaint
+12. In or around February 2003, an individual purporting to represent a PDVSA
+official (the âVenezuela Intermediaryâ) told Summers that the PDVSA official could assist the
+company in obtaining an extension of the drilling contract in exchange for a payment of $60,000
+per month for each month that the contract was extended.
+
+13. PDVSA extended the drilling contract from April 2003 to mid-July 2003. In or
+around mid-2003, Summers authorized payments totaling approximately $120,000, through a
+vendor of Pride Foramer Venezuela, to a Miami bank account in the name of the Venezuela
+Intermediary, believing that all or a portion of the funds would be given to the PDVSA official.
+
+14. In or around April 2004, a Pride Foramer Venezuela operations employee (the
+âOperations Employeeâ) believed that the same PDVSA official was blocking or planned to
+block contract extensions for two rig management contracts with PDVSA, at least in part
+because Pride Foramer Venezuela had refused to make a third payment of $60,000 for the 2003
+drilling contract extension. In or around May 2004, Summers authorized an additional payment
+to the Venezuela Intermediary of $60,000 in connection with the 2003 drilling contract
+extension, believing that all or a portion of the funds would be given by the Venezuela
+Intermediary to the PDVSA official. In or around May 2004, Summers was informed by the
+Operations Employee of the potential for additional payments of $12,000 per rig, per month to
+be made for each month that the rig management contracts were extended.
+
+15. From approximately mid-2004 to the end of 2004, Pride Foramer Venezuela made
+the monthly payments to the Venezuela Intermediary through certain of its local vendors. In or
+around December 2004, Summers left Venezuela to assume a new position at Pride in another
+country. In or around December 2004, without Summersâ involvement, Pride retained a
+
+marketing agent in Venezuela (the âVenezuela Agentâ). From in or around January 2005 to in or
+
+SEC v. Summers Page 4
+Complaint
+around June 2005, Pride Foramer Venezuela made the monthly payments to the Venezuela
+Intermediary through the Venezuela Agent.
+
+16. Summers, by authorizing or allowing his subordinates to execute the bribery
+schemes involving the vendors, caused Pride Foramer Venezuela to inaccurately record those
+payments as payments for goods and services received from the vendors. Pride Foramer
+Venezuela also falsely recorded the payments made to the Venezuela Intermediary through the
+Venezuela Agent as marketing commission payments to the Venezuela Agent.
+
+Payments to Collect Outstanding Receivables in Venezuela
+
+17. Following widespread strikes and civil unrest in Venezuela in late 2002, Pride
+Foramer Venezuela and other companies performing work for PDVSA had difficulty collecting
+outstanding receivables from PDVSA. By early 2003, Pride Foramer Venezuela had significant
+unpaid receivables for services that it had provided to PDVSA.
+
+18. In or around March or April 2003, Pride Foramer Venezuela received information
+that a mid-level PDVSA accounts payable employee was holding up the payment of funds owed
+to Pride Foramer Venezuela and wanted a payment of approximately $30,000 in order to release
+the funds due.
+
+19. In or around March or April 2003, Summers authorized a payment of
+approximately $30,000 to a third party, believing that all or a portion of the funds would be
+offered or given by the third party to an employee of PDVSA for purposes of securing an
+improper advantage in receiving payment from PDVSA. Shortly thereafter, in or around April
+2003, Pride Foramer Venezuela received overdue payments from PDVSA for work that Pride
+
+Foramer Venezuela had performed.
+
+SEC v. Summers Page 5
+Complaint
+FIRST CLAIM
+Violations of Section 30A of the Exchange Act
+(Anti-Bribery)
+
+20. Paragraphs 1 through 19 are realleged and incorporated herein by reference.
+
+21. As described above, Summers an âemployeeâ and/or âagentâ of âissuerâ Pride,
+acting on behalf of Pride and certain of its subsidiaries, made use of the mails or any means or
+instrumentality of interstate commerce corruptly in furtherance of an offer, payment, promise to
+pay, or authorization of the payment of any money, or offer, gift, promise to give, or
+authorization of the giving of anything of value, to foreign officials for the purposes of
+influencing their acts or decisions, securing an improper advantage, or inducing them to use their
+influence, to assist Pride or its subsidiaries in obtaining or retaining business.
+
+22. In addition, Summers a âUnited States personâ acting as an âemployeeâ and/or
+âagentâ of Pride committed acts outside the United States in furtherance of an offer, payment,
+promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or
+authorization of the giving of anything of value, to foreign officials for the purposes of
+
+influencing their acts or decisions, securing an improper advantage, or inducing them to use their
+
+influence, to assist Pride or its subsidiaries in obtaining or retaining business.
+23. By reason of the foregoing, Summers violated, and unless restrained and
+enjoined may continue to violate, Section 30A of the Exchange Act [15 U.S.C. Â§ 78dd-1].
+
+SECOND CLAIM
+Violations of Section 13(b)(5) of the Exchange Act and Exchange Act Rule 13b2-1
+(Circumvention of Internal Controls and Falsification of Books and Records)
+24. Paragraphs 1 through 19 above are realleged and incorporated by reference
+herein.
+
+25. Section 13(b)(5) of the Exchange Act prohibits any person from knowingly
+
+circumventing or knowingly failing to implement a system of internal accounting controls or
+
+SEC v. Summers Page 6
+Complaint
+knowingly falsifying any book, record, or account described in Section 13(b)(2) of the Exchange
+Act. Exchange Act Rule 13b2-1 likewise prohibits any person from directly or indirectly
+falsifying, or causing to be falsified, any book, record or account subject to Section 13(b)(2)(A)
+of the Exchange Act.
+
+26. By reason of the foregoing, Summers violated, and unless restrained and enjoined
+may continue to violate, Section 13(b)(5) of the Exchange Act and Exchange Act Rule 13b2-1
+[15 U.S.C. Â§ 78m(b)(5) and 17 C.F.R. Â§ 240.13b2-1].
+
+THIRD CLAIM
+Aiding and Abetting Violations of Section 30A of the Exchange Act
+(Anti-Bribery)
+
+27. Paragraphs 1 through 19 above are realleged and incorporated by reference
+herein.
+
+28. As described above, Summers knowingly provided substantial assistance to others
+who, acting on behalf of Pride, made use of the mails or any means or instrumentality of
+interstate commerce corruptly in furtherance of an offer, payment, promise to pay, or
+authorization of the payment of any money, or offer, gift, promise to give, or authorization of the
+giving of anything of value, to foreign officials for the purposes of influencing their acts or
+decisions, securing an improper advantage, or inducing them to use their influence, to assist
+Pride or its subsidiaries in obtaining or retaining business.
+
+29. By reason of the foregoing, Summers aided and abetted, and unless restrained and
+enjoined may continue to aid and abet, violations of Section 30A of the Exchange Act [15 U.S.C.
+
+Â§ 78dd-1].
+
+SEC v. Summers Page 7
+Complaint
+FOURTH CLAIM
+Aiding and Abetting Violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act
+(Books and Records and Internal Controls)
+
+30. Paragraphs 1 through 19 above are realleged and incorporated by reference
+herein.
+
+31. Certain of Prideâs subsidiaries operating in Venezuela inaccurately recorded
+bribes as legitimate business expenses, causing inaccuracies in Prideâs consolidated books and
+records in violation of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§
+78m(b)(2)(A) and 78m(b)(2)(B)]. Through his participation in the bribery schemes as described
+above, Summers knowingly provided substantial assistance to Pride in its violations.
+
+32. By reason of the foregoing, Summers aided and abetted, and unless restrained
+and enjoined may continue to aid and abet, violations of Sections 13(b)(2)(A) and 13(b)(2)(B)
+
+of the Exchange Act [15 U.S.C. Â§Â§ 78m(b)(2)(A) and 78m(b)(2)(B)}.
+
+RELIEF REQUESTED
+
+The Commission respectfully requests that this Court:
+
+(1) enter an order permanently enjoining Defendant Joe Summers from violating
+Sections 13(b)(5) and 30A [15 U.S.C. Â§Â§ 78m(b)(5) and 78dd-1] of the Exchange
+Act and Exchange Act Rule 13b2-1 [17 C.F.R. Â§ 240.13b2-1] and from aiding and
+abetting violations of Sections 13(b)(2)(A), 13(b)(2)(B), and 30A of the Exchange
+Act [15 U.S.C. Â§Â§ 78m(b)(2)(A), 78m(b)(2)(B), and 78dd-1];
+
+(2) order Defendant Joe Summers to pay a civil penalty pursuant to Sections 21(d)(3)
+and 32(c) of the Exchange Act [15 U.S.C. Â§Â§ 78u(d)(3) and 78ff(c)]; and
+
+(3) grant the Commission such other and further relief as is just and appropriate.
+
+SEC v. Summers Page 8
+Complaint
+DATED: August 5, 2010
+
+SEC v. Summers
+Complaint
+
+Respectfully submitted,
+
+ 
+
+Texas Bar No. 24007946
+S.D. Bar No. 1070896
+
+USS. Securities and Exchange Commission
+Burnett Plaza, Suite 1900
+
+801 Cherry Street, Unit #18
+
+Fort Worth, TX 76102-6882
+
+(817) 978-1408 (jr)
+
+(817) 978-2700 (fax)
+
+Page 9

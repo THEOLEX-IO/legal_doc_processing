@@ -1,0 +1,719 @@
+Case 9:18-cv-80759-WPD Document 1 Entered on FLSD Docket 06/12/2018 Page 1 of 19
+
+UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF FLORIDA
+
+ 
+
+)
+COMMODITY FUTURES TRADING )
+COMMISSION, )
+) Case No.
+Plaintiff, )
+)
+V. ) COMPLAINT FOR INJUNCTIVE
+) AND OTHER EQUITABLE RELIEF,
+MARK OLSEN MINING COMPANY ) RESTITUTION, AND CIVIL
+and BETTY LEA GRIMES, ) MONETARY PENALTIES UNDER
+) THE COMMODITY EXCHANGE
+Defendants. ) ACT AND COMMISSION
+) REGULATIONS
+)
+
+ 
+
+Plaintiff Commodity Futures Trading Commission (âCommissionâ), by its attorneys,
+alleges as follows:
+
+I. SUMMARY
+
+1. From at least April 2013 and continuing through at least February 2014 (the
+âRelevant Periodâ), Mark Olsen Mining Company (âMOMCââ), by and through the actions of its
+employees and agents, including but not limited to, Betty Lea Grimes (âGrimesâ), (collectively,
+Defendantsâ), defrauded others in connection with precious metals.
+
+2. Defendantsâ fraud occurred through two schemes. First, Defendants offered to
+enter into, and conducted an office or business in the United States for the purpose of soliciting
+or accepting, orders for the purchase or sale of precious metals from retail customers on a
+leveraged or financed basis (âretail commodity transactionsâ or âfinanced transactionsâ). The
+financed transactions did not result in actual delivery of metals to customers. As a result, these
+
+transactions constituted illegal, off-exchange retail commodity transactions. Second, Defendants
+Case 9:18-cv-80759-WPD Document 1 Entered on FLSD Docket 06/12/2018 Page 2 of 19
+
+purported to sell customers precious metals on a fully-paid basis in which customers provided
+100% of the purchase price.
+
+3. During the Relevant Period, Defendants obtained more than $870,000 from three
+customers (ââMOMC Customersâ) for the purchase of precious metals, either on a leveraged or
+fully paid basis. The MOMC Customers never received the precious metals. Instead,
+Defendants misappropriated the entire amount that the MOMC Customers paid to MOMC, using
+some funds for Grimesâ personal expenses, and sending the remaining customer funds to a
+person purporting to be Mark Olsen (âOlsenâ), via wire transfer to banks located in South Africa.
+
+4. In their solicitations to actual and potential customers, Defendants used a web
+
+site, www.markolsenmining.com (the âMOMC web siteâ), as well as marketing materials, that
+
+ 
+
+contained false representations to defraud customers who wished to purchase precious metals
+from MOMC. Defendants made additional misrepresentations in direct oral and written
+communications with customers.
+
+5. By virtue of this conduct and the conduct further described herein, Defendants
+have engaged, are engaging, or are about to engage in conduct in violation of Sections 4(a),
+4b(a)(2), and 6(c)(1) of the Commodity Exchange Act (âActâ), 7 U.S.C. 8Â§ 6(a), 6b(a)(2), 9(1)
+(2012), and Commission Regulation (âRegulationâ) 180.1(a), 17 C.F.R. Â§ 180.1(a) (2017).
+
+6. At all relevant times, the acts and omissions of Grimes were committed within the
+scope of her employment, agency, or office with MOMC. Therefore, pursuant to Section
+2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1)(B) (2012), and Regulation 1.2, 17 C.F.R. Â§ 1.2 (2017),
+MOMC is liable as a principal for the actions and omissions of Grimes in violation of the Act
+
+and Regulations.
+Case 9:18-cv-80759-WPD Document 1 Entered on FLSD Docket 06/12/2018 Page 3 of 19
+
+7. At all times during the Relevant Period, Grimes was the controlling person of
+MOMC. Therefore, pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b) (2012), Grimes is
+liable as a controlling person for the actions and omissions of MOMC in violation of the Act and
+Regulations.
+
+8. Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. Â§ 13a-1(a) (2012), the
+Commission brings this action to enjoin Defendantsâ unlawful acts and practices, to compel
+compliance with the Act and Regulations, and to further enjoin Defendants from engaging in any
+commodity-related activity.
+
+9. In addition, the Commission seeks civil monetary penalties, restitution, and
+remedial ancillary relief, including but not limited to, trading and registration bans,
+disgorgement, rescission, pre-judgment and post-judgment interest, and such other relief as the
+Court may deem necessary and appropriate.
+
+II. JURISDICTION AND VENUE
+
+10. This Court has jurisdiction over this action under 28 U.S.C. Â§ 1331 (2012)
+(federal question jurisdiction) and 28 U.S.C. Â§ 1345 (2012) (district courts have original
+jurisdiction over civil actions commenced by the United States or by any agency expressly
+authorized to sue by Act of Congress). Section 6c(a) of the Act, 7 U.S.C. Â§ 13a-I(a) (2012),
+authorizes the Commission to seek injunctive relief against any person whenever it shall appear
+that such person has engaged, is engaging, or is about to engage in any act or practice that
+violates any provision of the Act or any rule, regulation, or order promulgated thereunder.
+
+11. With respect to Defendantsâ retail commodity transactions, the Commission also
+has jurisdiction over the conduct and transactions at issue pursuant to Section 2(c)(2)(D) of the
+
+Act, 7 U.S.C. Â§ 2(c)(2)(D) (2012).
+Case 9:18-cv-80759-WPD Document 1 Entered on FLSD Docket 06/12/2018 Page 4 of 19
+
+12. Venue properly lies with this Court pursuant to Section 6c of the Act because
+Defendants are found in, inhabit, or transact business in this District, or the acts and practices in
+violation of the Act and Regulations occurred, or are occurring, or are about to occur within this
+District, among other places.
+
+Il. PARTIES
+
+A. Plaintiff
+
+13. Plaintiff Commodity Futures Trading Commission is an independent federal
+regulatory agency charged by Congress with the administration and enforcement of the Act, and
+the Regulations promulgated thereunder.
+
+B. Defendants
+
+14. Betty Lea Grimes is a resident of Florida. Grimes has used the following names,
+and combinations of these names, in various legal documents: Betty Grimes, Lea Grimes, Lea
+Lauren, Betty Nehme, and Lea Nehme. Grimes has never been registered with the Commission.
+
+15. Mark Olsen Mining Company is a corporation registered in Florida. Grimes is
+its sole officer and director. MOMCâs headquarters and mailing address was Grimesâ previous
+residential address in Boca Raton, Florida. MOMC was incorporated in April 2013, and
+administratively dissolved in September 2015. MOMC has never been registered with the
+Commission.
+
+IV. STATUTORY BACKGROUND
+
+16. Section 2(c)(2)(D) of the Act, 7 U.S.C. Â§2(c)(2)(D) (2012), gives the Commission
+jurisdiction over âany agreement, contract, or transaction in any commodityâ that is entered into
+with, or offered to, a non-eligible contract participant (âECPâ) âon a leveraged or margined
+
+basis, or financed by the offeror, the counterparty, or a person acting in concert with the offeror
+Case 9:18-cv-80759-WPD Document 1 Entered on FLSD Docket 06/12/2018 Page 5 of 19
+
+or counterparty on a similar basisâ with respect to conduct occurring on or after July 16, 2011,
+subject to certain exceptions not applicable here. Section 2(c)(2)(D) of the Act makes Section
+4(a) of the Act, 7 U.S.C. Â§6(a) (2012), applicable to retail commodity transactions âas if? such
+transactions are contracts for the sale of a commodity for future delivery.
+
+17. Section la(18)(xi) of the Act, 7 U.S.C. Â§ 1a(18)(xi) (2012), defines an ECP, in
+relevant part, as an individual who has amounts invested on a discretionary basis, the aggregate
+of which exceeds $10 million, or $5 million if the individual enters into the transaction to
+manage the risk associated with an asset owned or liability incurred, or reasonably likely to be
+owned or incurred, by the individual.
+
+18. Section 4(a) of the Act, in relevant part, makes it unlawful for any person to offer
+to enter into, execute, confirm the execution of, or conduct any office or business anywhere in
+the United States for the purpose of soliciting, accepting any order for, or otherwise dealing in
+any transaction in, or in connection with, a contract for the purchase or sale of a commodity for
+future delivery unless the transaction is conducted on or subject to the rules of a board of trade
+that has been designated or registered by the Commission as a contract market.
+
+V. FACTS
+
+19. During the Relevant Period, Defendants obtained more than $870,000 from three
+customers for the purported purpose of investing in precious metals. Defendants
+misappropriated all of the customer funds they received, and customers received no metals.
+
+20. As part of their scheme, Defendants used the mails or other instrumentalities of
+interstate commerce to: (1) receive wire transfers from the MOMC Customers; (2) disseminate
+marketing documents to the actual and potential customers of MOMC; and (3) disseminate
+
+contracts containing false statements to actual and potential customers of MOMC.
+Case 9:18-cv-80759-WPD Document 1 Entered on FLSD Docket 06/12/2018 Page 6 of 19
+
+A. MOMC Background
+
+21. The fraudulent scheme began in 2013, when Grimes created MOMC after
+agreeing to do business with Olsen. Grimes had met Olsen in July 2012 through an online dating
+web site. At that time, Grimes was working as a salesperson for a firm that sold wholesale
+diamonds to retail customers, and Olsen purported to be working in the precious metals mining
+business in Africa. Although they lived on separate continents, Grimes and Olsen became
+romantically involved, communicating regularly via Skype, telephone, and email. Olsen offered
+to go into the metals business with Grimes; after the diamonds business closed and Grimes
+became unemployed, Grimes agreed to work with Olsen in selling precious metals to her former
+customers.
+
+22. Grimes created MOMC in April 2013, filing corporate documents with the
+Florida Secretary of State, and listing her residence as both the principal place of business and
+mailing address for the company. Grimes also opened two bank accounts in the name of
+MOMC. In all of these documents, Grimes listed herself as the sole officer and director of
+MOMC. Grimes used different names throughout these documents, including Lea Nehme and
+Betty Lea Grimes.
+
+B. Defendants Made Material False and Misleading Representations and
+Omissions in Connection With the Sale of Precious Metals
+
+23. During the Relevant Period, Defendants operated the MOMC web site, which was
+accessible to customers located throughout the United States, including in this District. Grimes
+also provided interested customers with marketing materials that contained the same information
+as the web site.
+
+24. The MOMC web site and MOMC marketing documents stated that MOMC was a
+
+private mining company and precious metals dealer; Olsen owned and operated MOMC; MOMC
+a PRA . SY OVPPET FA LA FET EN Py a + ~ - may TTT SPER PRA A? BONS Pt WLR AD Tm ~ UP ate
+age OT Sluss Ry PSQAaAsormy  Pmeprrent To Enfereaci oan FL Sh Oneker OBS ePegik Bans at ta
+Aske ate A Ae FTA Ae sw Wy he A? A ait PA aw at Fhe ee Ashe TURLEY RAUNT ASAS el ae ad B MAASNS FASE ata?
+
+MS
+
+had been in operation since 1991 and employed 6,000 people workiwide; MOMC owned eight
+precious metals mines in the United States and Africa, and was developing additional mines in
+Canada and South America; and MOMC operated as a precious metals dealer, offering to finance
+precious metals purchases and store precious metals at a depository on the customersâ behalf.
+
+25, In fact, MOMC did not exist until April 2013; MOMC did not own or operate any
+mines; Grimes was the sole officer and director of MOMC; MOMC did not employ any other
+individuals; and there were no precious metals available for sale.
+
+26, The MOMC web site, and MOMC marketing materials, made the folowing
+additional misrepresentations about their expertise:
+
+a. âtn 2007, Olsen Mining became the first mining company selected to be
+part of the Dow Jones Sustamability World Index. Olsen Mining industry
+isic] leading performance is reflected through high standards in
+environmental management, health and safety for its employees and by
+creating value and opportunity for host cormmunities and Olsen Mining is
+the fastest-growing, lowest cost senior gold producer, with operations and
+development projects in politically stable jurisdictions throughout the
+Americas, Our strong project pipeline is positioned to drive long term,
+sustainable growth.â
+
+b. âOlsen Mining is a near-term Mining & Dealers producer, building Phase
+One of the new Olsen Mining Project in the historic Florida Lode. Ramp-
+up to full production is planned in the first half of 2013. The company
+controls approximately 4.5 miles of strike length in the most prolific
+portion of the Mother Lode in Amador County. The companyâs land
+holdings historically produced more than 3.5 miflion of the 7.7 muitlion
+ounces gold produced from the 10 mile portion of the Mother Lode
+between the towns of Jackson and Plymouth. As Olsen Mining achieves
+positive cash flow, it plans to expand the Lincoln Mine, develop the
+Keystone resource, and explore for more gold, along strike and at depth,
+on its extensive land holdings.â
+
+c. âWe have a very large market in North America and Africa, mining Gold,
+Silver, Platinum and Diamonds.â
+
+d. âOlsenâs operating assets mclude two mines in the U.S, six mines [sic]
+Africa. Olsen Mining also has a solid pipeline of projects, inchiding the
+
+Cerro Negro project in Argentina, the ElÃ©onore gold project in Quebec,
+Canada, the Cochenout [sic] project in Ontario, Canada, and the El Morro
+
+7
+ 
+
+project in Chile. These valuable assets, along with several others, will
+allow for significant growth in production for years to come.â
+
+e. âMark Olsen Mining will accept returns if the customer is not happy with
+the product that is giving to them, Refunds will be in the original form of
+payment.â
+
+Zi, Grimes pursued numerous individuals in her efforts to find customers for MOMC,
+She obtained contact information for many of these individuals from her previous employment
+as a salesperson for various telemarketing firms, inchiding the firm that sold wholesale
+diamonds. Grimes communicated with these individuals by telephone, Skype, and facsimile.
+
+28. In their solicitations of these actual and potential customers, Defendants provided
+customers with the link to the MOMC web site as well as the MOMC marketing matertals.
+These documents stated that customers could purchase a certain quantity of metal by signing an
+agreement to purchase metals, and (1) payimeg the full amount due, after which the metals would
+be delivered to the customer within two weeks of payment; or (2) depositing a percentage of the
+total metalsâ value, and arranging for a loan for the rernaining amount, with repayment of the
+loan due upon the customer's resale of the metals; the precious metals would be delivered to the
+customer within two weeks of the customer's initial payment.
+
+29, Aiter providing actual and potential customers with the MOMC web site and
+marketing materials, Grimes ultimately persuaded three former diamonds customers, the MOMC
+Customers, to purchase precious metals, on both a leveraged and fully-paid basis, from MOMC.,
+
+30. In March 2017, Grimes admitted that at the time she solicited these MOMC
+Customers to purchase precious metals, she was aware that the MOMC marketing materials she
+provided to them contained false information. Nonetheless, despite this knowledge, she
+continued to solicit customers, and encouraged them to purchase additional precious metals from
+
+MOMC,
+Case 9:18-cv-80759-WPD Document 1 Entered on FLSD Docket 06/12/2018 Page 9 of 19
+
+Cc. Defendants Misappropriated All of the MOMC Customer Funds
+
+31. MOMC entered into its first sale with Customer | in August of 2013. The
+contract between Customer | and MOMC required MOMC to deliver bullion gold bars within
+two weeks of payment. Customer | promptly paid MOMC the full amount due, nearly $40,000,
+via wire transfer. MOMC never delivered the gold.
+
+32. MOM C entered into its second and third precious metals sales with Customer 2 in
+November 2013. Customer 2 signed the first contract with MOMC shortly after receiving
+MOMC marketing documents from Grimes.
+
+33. Customer 2 ultimately entered into two separate contracts with MOMC for the
+purchase of American Eagle silver coins in November 2013. The first contract provided for
+Customer 2 to pay the full amount due. The second contract, dated two weeks later, provided
+Customer 2 with financing, requiring him to pay a smaller amount upfront, with full payment
+due only after he re-sold the coins. However, Defendants pressured Customer 2 to make
+additional payments to satisfy âcustoms requirements.â
+
+34. Between November 2013 and January 2014, Customer 2 made six payments to
+MOMC totaling more than $600,000 under the two contracts. Both contracts similarly required
+MOMC to deliver the coins within two weeks of payment. However, Customer 2 never received
+any of the coins he purchased.
+
+35. Defendants informed Customer 2 that the coins he purchased were being held by
+a foreign âcustomsâ office. Grimes sent a number of additional documents to Customer 2 via
+facsimile. These documents purported to be from foreign customs officials. The documents
+demanded additional funds before the âcustoms agencyâ would permit the precious metals to
+leave the country in which they were located. Customer 2 paid an additional $5,000 to ensure
+
+the delivery of the precious metals. However, the precious metals never arrived.
+
+9
+me PRCA ARORA La oy . . oh gee . mh FUGA ~ ~ OS Â« Â°
+
+ae Os TS ley Soyer SQ laArory Jocuryenf Po Entered on FLNSD Boecker O6F1TE/POGTS Sane TO of ie
+
+SOR AP RTA LAS PPO RP ARS Xebsk at XoX8 SfoYPo kk Neh Wee ao we PU CAL LAS} ah A?
+a
+
+36. In Pebruary 2014, MOMC entered into a fourth agreement for the sale of precious
+metais with Customer 3. Customer 3 contracted with MOMC for the purchase of both gold bars
+and Krueggerand gold coins. While negotiating the contract with Customer 3, again promising
+delivery within two weeks, Grimes knew that Customers 1 and 2 never received the precious
+metais she sold to them on behalf of MOMC. Nonetheless, Grimes, acting on behalf of MOMC,
+accepted a $230,000 wire transfer from Customer 3, the full amount due under the contract, on
+February 20, 2014. Again, MOMC never delivered the comms.
+
+37, Within days of recetving each of the wire transfers from the MOMC Customers in
+the MOMC accounts she had opened, Grimes made numerous wire transters to foreign bank
+accounts located in South Afnca. Grimes also withdrew money from the MOMC business
+accounts to pay her personal living expenses, including her monthly rent payments, car
+payments, and meals at local restaurants, between December 2013 and January 2014.
+
+38. Grimesâ fmal wire transfers to the South African bank accounts occurred in late
+February 2014 and consisted of four separate $50,000 transfers, totaling $200,000, from the
+MOMC bank account. Grimes made these transfers shortly after receiving the $230,000
+payment from Customer 3. Immediately afterward, Olsen stopped all communications with
+Grimes and disappeared.
+
+39, Detendants never bought, sold, loaned, stored, or transferred any physical metals
+for the off-exchange financed precious metals transactions at issue. Likewise, Defendants never
+delivered any precious metals to any customers in connection with the financed metals
+transactions at issue. Pinally, none of the MOMC Customers was an ECP or an eligible
+
+commercial entity CECEâ), as defined in Section 1a(i7) of the Act, 7 U.S.C. Â§ La(i7) (2012).
+Case 9:18-cv-80759-WPD Document 1 Entered on FLSD Docket 06/12/2018 Page 11 of 19
+
+D. Grimes Acted as Controlling Person for MOMC
+
+AO. At all times during the Relevant Period, Grimes was the President and sole
+controlling person of MOMC. Grimes exercised control over the day-to-day operations of
+MOMC. She solicited customers on behalf of MOMC, generated all account statements on
+behalf of MOMC, and handled all customer funds received by MOMC. Additionally, Grimes
+was the sole signatory on all of MOMCâs bank accounts. As the sole shareholder and President
+of MOMC, she solely acted on behalf of MOMC.
+
+VI. VIOLATIONS OF THE COMMODITY EXCHANGE ACT
+COUNT I
+ILLEGAL OFF-EXCHANGE FINANCED TRANSACTIONS
+Violations of Section 4(a) of the Act
+
+Al. Paragraphs | through 40 of this Complaint are alleged and incorporated herein by
+reference.
+
+42. During the Relevant Period, at least one of the retail commodity transactions
+described in this Complaint were offered and entered into by Defendants: (a) on a leveraged or
+margined basis, or financed by the offeror, the counterparty, or a person acting in concert with
+the offeror or counterparty on a similar basis, (b) with persons who are not ECPs or ECEs as
+defined by the Act, and (c) not made or conducted on, or subject to, the rules of any board of
+trade, exchange, or contract market.
+
+43. The precious metals discussed in this Complaint are commodities as defined by
+Section la(9) of the Act, 7 U.S.C. Â§ laQ) (2012).
+
+44. The retail commodity transactions did not result in actual delivery within 28 days.
+
+In fact, there was no actual delivery of precious metals.
+
+11
+ae OF TS ley Soy PQQ laArory IaewryPe NP Do Entorad am FE SM Dinecker ASI SPOR Rane TP at ia
+SOR a Te OLAS Wor Be RP Sha Nereis ak als SAS APE POLL LSC QOS a a PA TO CAMEAS bows
+MI
+
+AS, Pursuant to Section 2(cK2)(D)Gn) of the Act,7 U.S.C. $ 2(c2) D)Gn) (2012),
+the retail commodity transactions alleged herein are subject to Section 4(a) of the Act, 7 U.S.C,
+Â§ 6(a} (2012), as W they are contracts of sale for future delivery.
+
+AG, As set forth above, during the Relevant Period, Defendants violated Section 4(a)
+of the Act by offering to enter into, entering into, executing, confirming the execution of, or
+conducting an office or business in the United States for the purpose of soliciting or accepting
+orders for, or otherwise dealing in, transactions in, or im connection with, retail commodity
+transactions.
+
+AT, Each offer to enter into, execution, confirmation, solicitation, or acceptance of an
+order for a retail commodity transaction with a non-ECP customer made during the Relevant
+Period is alleged in this Complaint as a separate and distinct violation of Section 4(a) of the Act.
+
+48. Grimes directly or indirectly controled MOMC and did not act in good faith, or
+knowingly induced, directly or indirectly, the acts constituting MOMCâs violations of Section
+4(a) of the Act. Therefore, pursuant to Section 13cb) of the Act, 7 U.S.C. Â§ 13c(b) (2012),
+Grimes is liable for each of MOMCâs violations of Section 4(a} of the Act as a controlling
+person of MOMC.
+
+AY, The acts and omissions of Grimes, as described in this Complaint, were done
+within the scope of her employment and/or agency wih MOMC. Therefore, pursuant to Section
+2(a)(1 CB) of the Act, 7 U.S.C Â§ 2(a)(10CB) (2012), and Regulation 1.2, 17 C.FLR. $ 1.2 2017),
+MOMC is lable as a principal for each act, omission, or failure of Grimes constituting violations
+
+of Section 4(a) of the Act.
+wey TRERD ce O
+
+ss N\A Sea OA FOR
+
+sete IP. AST
+SO.
+
+by reference.
+
+34,
+
+53.
+
+sm eN LA EAP oe . hoe PPE EA OS â RIRRIRR AD Maw sey ek ae
+SOAP Dy Document i Entered on FLAD Docker O/T PPPOTR Rane TR at is
+afar PWT he Ra? SR Le Aes at a3 wR LES F kai LY Net XA. ae a? SP AN PO GAMA AS Bo oahay
+x
+COUNT Of
+'
+b
+
+DECEPTIVE DEVICES OR CONTRIV ANCES
+Violations of Section 6(c)(1) of the Act and Regulation 180.1(@)
+
+Paragraphs 1 through 40 of this Complaint are re-alleged and incorporated herein
+
+Section G(cK 1} of the Act, 7 U.S.C. Â§ 9(7) (2012), provides, in relevant part:
+
+lt shall be unlawful for any person, directly or indirectly, to use or
+employ or attempt to use or employ, in connection with any swap,
+or a contract of sale of any commodity in interstate commerce, or
+for future delivery on or subject to the rules of any registered
+entity, any manipulative or deceptive device or contrivance, in
+contravention of such rules and regulations as the Commission
+shall promulgate ....
+
+Regulation 180. 1(a), 17 CLPLR. Â§ 180.1(a) (2017), provides, in relevant part:
+
+It shall be unlawful for any person, directly or indirectly, in
+connection with any swap, or contract of sale of any commodity in
+interstate commmerce, or contract for future delivery on or subject to
+the rules of any registered entity, to intentionally or recklessly:
+
+(1) Use or employ, or attempt to use or employ, any manipulative device, scheme,
+or artifice to defraud;
+
+(2) Make, or attempt to make, any untrue or misleading statement of a material
+fact or to omit to state a material fact necessary in order to make the
+statements made not untrue or misleading;
+
+(3) Engage, or attempt to engage, in any act, practice, or course of business,
+which operates or would operate as a fraud or deceti upon any person....
+
+During the Relevant Period, Defendants used or employed manipulative or
+
+deceptive devices or contrivances, in cormection with contracts of sale of any commodity in
+
+interstate commerce, includin
+
+g, but not limited to, making untrue or misleading statements of
+
+a?
+
+material facts, or omitting material facts necessary to make the statements not untrue or
+
+misleading, to the MOMC Customers, including, but not limited to:
+
+a. Misappropriating customer funds provided for the purchase of precious
+metals;
+b. Misrepresenting their investment experience and expertise;
+
+i3
+c. Misrepresenting that they owned and operated mines and dealt in precious
+metals:
+d. Misrepresenting that they operated as a precious metals dealer, offering to
+
+finance precious metals purchases and store precious metals at a
+depository on the customersâ behalf,
+
+â¬. Misrepresenting that they had precious metals available for sale;
+f. Misrepresenting that the precious metals purchased by MOMC Customers
+
+would be delivered within two weeks of payment;
+
+g. Mispresenting that MOMC Customers could receive a refund of their
+investment; and
+
+h. Failing to disclose that Defendants did not use customersâ funds to
+purchase precious metals on behalf of their customers.
+
+By this conduct, Defendants violated Section 6(c)(1) of the Act, and Regulation 180.1(a).
+
+54, Each misappropriation and misrepresentation or omission of material fact,
+including, but not limited to, those specifically alleged herein, is alleged as a separate and
+distinct violation by Defendants of Section 6(c)(1) of the Act and Regulation 180.i(a).
+
+55, Each manipulative or deceptive device or contrivance, including but not limited to
+those specifically alleged herein, is alleged as a separate and distinct violation of Section 6(c}(1)
+of the Act and Regulation 180. 1(a).
+
+56. Grimes directly or indirectly controlled MOMC and did not act in good faith, or
+knowingly mduced, directly or indirectly, the acts constituting MOMCâs violations of Section
+6(c)(1) of the Act and Regulation 180.1(a). Therefore, pursuant to Section 13(b) of the Act,
+
+7 USAC. $ 13cCb} (2012), Grimes is Hable for each of MOMCâs violations of Section 6(c)(1) of
+the Act and Regulation 180.1(a} as a controlling person of MOMC.
+
+57. The acts and omissions of Grimes, as described in this Complaint, were done
+within the scope of her employment and/or agency wih MOMC, Therefore, pursuant to Section
+
+2a ij3CB} of the Act, 7 U.S.C Â§ 2(a}(13(B) (2012) and Regulation 1.2, 17 C.RLR. $ 1.2 (2017),
+
+i4
+Alan Amey LaASEAY wy . boc TE A Mt RIANA AA OS ar as
+
+@ StS leay Ro PRO AASO DS Jocuenf Po Entered on FLND Docker OBST EPP OIR Sane 15 of 18
+
+Nee a AT EAS Wor Be RP ARS Neri kt ais WA METS SR RW AAASY Ae A AS POGAMSAL aka Boks
+â
+
+MOMC is lable as a principal for each act, omission, or failure of Grimes constituting violations
+of Section 6(c}(L) of the Act and Regulation 180.1(a).
+COUNT TE
+FRAUD BY MATERIAL MISREPRESENTA TIONS AND OMESSIONS AND
+MISAPPROPRIATION IN CONNECTION WITH FINANCED TRANSACTIONS
+Violations of Section 4b(a)QyA) and (C) of the Act
+
+38. Paragraphs 1 through 40 of this Complaint are re-alleged and imcorporated herein
+by reference.
+
+59, Pursuant to Section 2(c)(2)(D)an) of the Act, 7 U.S.C. Â§ 2(cK 2) D)Gan) (2012),
+the retail commodity transactions engaged in by Defendants are subject to Section 4b(2)(A) and
+(C} of the Act, 7 ULS.C. Â§ 6b(4), (C) 2012), as if they are contracts of sale of a commodity for
+future delivery.
+
+60. During the Relevant Period, Defendants, willfully or recklessly, have: (1) cheated
+or defrauded, or attempted to cheat or defraud, other persons, and/or (2) deceived or attempted to
+deceive other persons, and done so in or m connection with retail commodity transactions.
+
+Defendants did so by, among other things:
+
+a. Misappropriating customer funds provided for the purchase of precious
+metals;
+
+b. Misrepresenting their investment experience and expertise;
+
+c. Misrepresenting that they owned and operated mines and dealt in precious
+metals;
+
+d. Misrepresenting that they operated as a precious metals dealer, offering to
+
+finance precious metals purchases and store precious metals ata
+depository on the customersâ behalf;
+
+e. Misrepresenting that they had precious metals available for sale;
+f. Misrepresenting that the precious metals purchased by MOMC Customers
+
+wouid be delivered within two weeks of payment;
+Case 9:18-cv-80759-WPD Document 1 Entered on FLSD Docket 06/12/2018 Page 16 of 19
+
+g. Misrepresenting that MOMC Investors could receive a refund of their
+investment; and
+
+h. Failing to disclose that Defendants did not use customersâ funds to
+purchase precious metals on behalf of their customers.
+
+By this conduct, Defendants violated Section 4b(a)(2)(A) and (C) of the Act.
+
+61. Each act of misappropriation, misrepresentation, and omission including, but not
+limited to, those specifically alleged herein, is alleged as a separate and distinct violation of
+Section 4b(a)(2)(A) and (C) of the Act.
+
+62. Grimes controlled MOMC throughout the Relevant Period and did not act in good
+faith, or knowingly induced, directly or indirectly, the acts constituting the violations of MOMC
+described in this Count. Pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b) (2012), Grimes
+is liable as a controlling person for those violations of Section 4b(a)(2)(A) and (C) of the Act.
+
+63. The acts and omissions of Grimes, as described in this Complaint, were done
+within the scope of her employment and/or agency with MOMC. Therefore, pursuant to Section
+2(a)(1)(B) of the Act, 7 U.S.C Â§ 2(a)(1)(B) (2012), and Regulation 1.2, 17 C.F.R. Â§ 1.2 (2017),
+MOM C is liable as a principal for each act, omission, or failure of Grimes constituting violations
+of 4b(a)(2)(A) and (C) of the Act.
+
+VIL. RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that this Court, as authorized by
+Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), and pursuant to its own equitable powers, enter:
+
+A. An order finding that Defendants violated Sections 4(a), 4b(a)(2), and 6(c)(1) of
+the Act, 7 U.S.C. 8Â§ 6(a), 6b(a)(2), 9(1) (2012), and Regulation 180.1(a), 17 C.F.R. Â§ 180.1(a)
+
+(2017).
+
+16
+B. An order of permanent injunction permanently restraining, enjoming, and
+
+prohibiting Defendants, and any other person or entity assoctated with them, from engaging in
+
+conduct in violation of Sections 4(a), 4b(a}(2), and G(c}(1) of the Act and Regulation 1360.1 (a).
+
+Cc. An order of permanent inpunction prohibiting Defendants, and any other person or
+
+entity associated with them, from directly or indirectly:
+
+(1)
+
+)
+
+(ii)
+
+(iv)
+
+WW)
+
+(vi)
+
+Trading on or subject to the rules of any registered entity (as that term
+is defined in Section La(40) of the Act, 7 U.S.C. Â§ La(40) (2012));
+Entering into any transactions involving âcommodity interestsâ (as that
+term is defined in Regulation Â£.3 Qvy), 17 CLE_R.$ L.3avy)) (2017), for
+their own personal account or for any account in which they have a
+direct or indirect interest;
+
+Having any commodity interests traded on their behalf;
+
+Controlling or directing the trading for or on behalf of any other person
+or entity, whether by power of attorney or otherwise, in any account
+involving commodity mterests;
+
+Soliciting, receiving, or accepting any funds from any person for the
+purpose of purchasing or selling any commodity interests;
+
+Applying for registration or claiming exemption from registration with
+the Commission in any capacity, and engaging in any activity requiring
+such registration or exemption from registration with the Commission,
+except as provided for in Regulation 4.14(a}(9}, 17 CLPLR. Â§ 4. 14(a}9)
+
+(2017):
+(vi) = Acting as a principal (as that term is defined in Regulation 3.1 (a),
+17 CABLE. Â§ 3.1(a} 2017), agent, or any other officer or employee of
+any person registered, exempted from registration, or required to be
+registered with the Commission, except as provided for in Regulation
+4.14(ay9); and
+(vit) Engaging in any business activities related to commodity interests.
+D. An order requiring that Defendants, as well as any successors, disgorge to any
+
+officer appointed or directed by the Court all benefits received from the acts or practices that
+constitute viclations of the Act and Regulations as described herein, including, but not limited to,
+salaries, commussions, loans, fees, revenues and trading profits derived, directly or indirectly,
+plus pre-judgment interest thereon from the date of such violations, and post-judgement interest:
+
+R, An order requiring Defendants and any of their successors to make full restitution
+to every person or entity whose funds Defendants received or caused another person or entity to
+received pursuant to such procedure as the Court may order, to every customer whose funds
+Detendants received or caused another person or entity to receive as a result of the acts and
+practices described herein which constitute violations of the Act and Regulations, pre-judgment
+interest from the date of such violations;
+
+F, An order directing Defendants, as well as any successors, to rescind, pursuant to
+such procedure as the Court may order, all contracts and agreements, whether implied or express,
+entered into between them and any of the customers whose funds were received by them as a
+result of the acts and practices which constitute viclations of the Act and Regulations, as
+
+described herem,
+Case 9:18-cv-80759-WPD Document 1 Entered on FLSD Docket 06/12/2018 Page 19 of 19
+
+G. An order directing Defendants to pay a civil monetary penalty for each violation
+of the Act and Regulations of not more than the amount set forth by Section 6c(d)(1) of the Act,
+7 U.S.C. Â§ 13a-1(d)(1) (2012), as adjusted for inflation pursuant to the Federal Civil Penalties
+Inflation Adjustment Act Improvements Act of 2015, Pub. L. 114-74, 129 Stat. 584 (2015), title
+VII, Section 701, and promulgated in Commission Regulation 143.8, 17 C.F.R. Â§ 143.8 (2017),
+plus post-judgment interest;
+
+H. An order requiring Defendants, as well as any successors, to pay costs and fees as
+permitted by 28 U.S.C. Â§Â§ 1920 and 2412(a)(2) (2012); and
+
+I. An order providing such other and further relief as the Court may deem necessary
+
+and appropriate under the circumstances.
+
+Dated: June 12, 2018
+
+Respectfully submitted,
+
+/s/ AimÃ©e Latimer-Zayets
+AimÃ©e Latimer-Zayets
+
+FL Special Bar #A5502458
+Alatimer-zayets @cftc.gov
+Division of Enforcement
+Commodity Futures Trading
+Commission
+
+1155 21" Street, NW
+Washington, DC 20581
+Telephone: (202) 418-7626
+Fax: (202) 418-5531
+
+ 
+
+Attorney for Plaintiff
+
+19

@@ -1,0 +1,386 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 89214 / July 2, 2020
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4151 / July 2, 2020
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-19852
+
+ 
+
+ 
+
+ 
+
+ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+SECTION 21C OF THE SECURITIES
+Alexion Pharmaceuticals, Inc. EXCHANGE ACT OF 1934, MAKING
+FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+I,
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate that
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the
+Securities Exchange Act of 1934 (âExchange Actâ), against Alexion Pharmaceuticals, Inc.
+(âAlexionâ or âRespondentâ).
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferâ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commissionâs jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing a Cease-and-Desist Order (âOrderââ), as set forth below.
+Hil.
+
+On the basis of this Order and Respondentâs Offer, the Commission finds! that:
+
+Summary
+
+1. These proceedings arise out of Alexionâs violations of the internal accounting
+controls and recordkeeping provisions of the Foreign Corrupt Practices Act of 1977.
+
+2. From 2010 to 2015, Alexionâs subsidiary in Turkey made payments to foreign
+officials in order to influence them to provide favorable regulatory treatment for Alexionâs
+primary drug, Soliris, and to approve Soliris prescriptions for individual patients. In addition,
+from 2011 to 2015, Alexionâs subsidiary in Russia made payments to foreign officials in order
+to influence the allocation of regional healthcare budgets for Soliris, increase the number of
+approved Soliris prescriptions, and favorably influence the regulatory treatment of Soliris. The
+payments were made in a variety of ways, including through the use of a third-party consultant,
+honoraria, and grants.
+
+3. In connection with these improper payments, false books and records were
+maintained by Alexionâs subsidiaries in Turkey and Russia. Alexion had insufficient internal
+accounting controls to detect and prevent these payments and to provide reasonable assurances
+that these transactions were recorded accurately in the books and records of these subsidiaries,
+which were consolidated into Alexionâs books and records. The payments continued through
+2015 due to Alexionâs inadequate internal accounting controls and the lack of an effective anti-
+corruption compliance program. As a result, Alexion was unjustly enriched by over $14
+million.
+
+4. In addition, Alexionâs inadequate internal accounting controls resulted in the
+failure of Alexionâs subsidiaries in Brazil and Colombia to maintain accurate books and records
+regarding third-party payments.
+
+Respondent
+
+5. Alexion is a global biopharmaceutical company that develops and sells drugs for
+patients with life-threatening rare and ultra-rare diseases. Alexion is incorporated in Delaware
+with its headquarters in Boston, Massachusetts. Alexion began commercial sales of its first drug,
+Soliris, in 2007. During the relevant time period, Soliris was approved to treat two ultra-rare
+diseases, paroxysmal nocturnal hemoglobinuria (âPNHâ) and atypical hemolytic uremic
+syndrome (âaHUSâ).
+
+6. Alexion serves patients in approximately 50 countries and employs
+approximately 3,000 people worldwide.
+
+ 
+
+! The findings herein are made pursuant to Respondentâs Offer of Settlement and are not
+
+binding on any other person or entity in this or any other proceeding.
+2
+7. Alexion issued and maintains a class of publicly-traded securities registered
+pursuant to Section 12(b) of the Exchange Act, which have traded on the Nasdaq Stock Market
+LLC since 1996.
+
+Other Relevant Entities
+
+8. Alexion IlacÂ¢ Ticaret Limited Sirketi (âAlexion Turkeyâ) is a wholly-owned
+Alexion subsidiary incorporated in 2010. Alexion Turkeyâs books and records were consolidated
+into Alexionâs financial statements.
+
+9. Alexion Pharma OOO (âAlexion Russiaâ) is a wholly-owned Alexion subsidiary
+incorporated in 2012. Alexion Russiaâs books and records were consolidated into Alexionâs
+financial statements.
+
+10. Alexion Pharma Brazil (âAlexion Brazilâ) is a wholly-owned Alexion subsidiary
+incorporated in 2009. Alexion Brazilâs books and records were consolidated into Alexionâs
+financial statements.
+
+11. Alexion Pharma Colombia SAS (âAlexion Colombiaâ) is a wholly-owned
+Alexion subsidiary incorporated in 2009. Alexion Colombiaâs books and records were
+consolidated into Alexionâs financial statements.
+
+Facts
+
+Turkey
+
+12. â_ Alexion began selling Soliris through Turkeyâs named patient sales (âNPSâ)
+program in 2009. Under Turkish law, each patientâs application to begin Soliris therapy
+required review and approval by health care providers (âHCPsâ) appointed to serve on
+commissions in Turkeyâs Ministry of Health, separate approvals to pay for the prescription, and
+recurring approvals to continue the patient on Soliris therapy. Alexion Turkey paid HCPs
+employed at state-owned healthcare institutions for services, including research and educational
+events.
+
+13. Alexion initially struggled to get these approvals for Soliris. In January 2010, a
+senior Ministry of Health official suggested to an Alexion Turkey regional account manager
+that, to obtain more patient approvals, Alexion Turkey may need to make payments to
+government officials. Thereafter, Alexion Turkey hired a consultant (âConsultantâ) to assist
+Alexion Turkey with the patient approval process. The Consultant was hired in significant part
+due to the Consultantâs connections to top Ministry of Health officials.
+
+14. From 2010 to 2015, Alexion Turkey paid the Consultant over $1.3 million,
+consisting of consulting fees and purported expense reimbursements. The Consultant passed a
+portion of these funds on to Turkish government officials, in the form of cash, meals, or gifts, to
+secure favorable treatment for Soliris. As a result of these payments, Alexion Turkey not only
+secured approvals for patient prescriptions, but also received confidential information and
+
+3
+advance feedback from government officials on regulatory submissions. Alexion Turkey
+recorded these improper payments inaccurately, claiming them as legitimate expenses.
+
+15. Two Alexion Turkey managers made some of the payments to the Consultant by
+asking a third-party vendor to pay the Consultant and provide falsified invoices for
+reimbursement to Alexion Turkey. Certain Alexion Turkey employees recorded these payments
+inaccurately in Alexion Turkeyâs books and records. Further, an Alexion Turkey manager
+directed that the description of the Consultantâs claimed expenses should be written in pencil.
+The use of pencil would allow the description of the expenses to be easily changed or
+concealed.
+
+16. Alexion Turkey failed to require that the Consultant provide sufficient
+documentation of expenses or services provided in return for the payments. From 2010 to 2015,
+the Consultant provided little or no explanation for many expenses, and failed to provide
+independent documentation for most of the purported expenses. Expense documentation that
+was submitted often sought reimbursement for large, vague expenses (e.g., categorized only as
+âother expenseâ). Even so, expense documentation associated with some of the payments
+indicates that the funds were for the benefit of government officials (e.g., noting first names of
+known government officials on submitted expense reports or notes attached thereto).
+
+17. In addition to paying government officials through the Consultant, from 2012 to
+2015, Alexion Turkey managers paid over $100,000 to or at the request of HCPs serving on
+Ministry of Health commissions. These HCPs were responsible for approving or denying
+patient prescriptions for Soliris and had influence over key regulatory matters, such as treatment
+guidelines and reimbursement criteria. Alexion Turkey paid these HCPs to influence them to
+approve patient prescriptions and support regulatory actions favorable to Soliris. These
+payments were recorded inaccurately in Alexion Turkeyâs books and records as honoraria and
+grants.
+
+18. For example, from 2012 to 2014, Alexion Turkey paid over $15,000 to or at the
+request of an HCP who Alexion Turkey senior management recognized was âthe decision
+maker for the reimbursement criteria[]â for aHUS and the decision-maker for the approval of
+patient prescriptions for Soliris. Alexion Turkey began paying the HCP once the HCP assumed
+responsibility for approving or denying patient prescriptions. Alexion Turkey made these
+payments to improperly influence the HCP to make decisions that would favor Alexion,
+including approving patient prescriptions for Soliris.
+
+19. At the time these payments were made, Alexion Turkey employees had received
+limited training regarding anti-bribery compliance. Further, despite Alexionâs knowledge of the
+risk of doing business in Turkey, Alexion failed to devise and maintain internal accounting
+controls that were sufficient to provide reasonable assurances that payments to third parties,
+including consultants and HCPs, were supported by adequate documentation and were for
+legitimate purposes.
+
+20. As a result of the conduct described above in Turkey, Alexion was unjustly
+enriched by over $6.6 million.
+Russia
+
+21. Alexion began selling Soliris in Russia in 2012. At that time, Soliris was sold
+through an NPS process and reimbursed through regional healthcare spending, which required the
+various regions in Russia to allocate funds to Soliris from regional healthcare budgets.
+
+22. Alexion Russia paid HCPs employed at state-owned healthcare institutions for
+services, including research, consulting on specific topics, and hosting educational events and
+activities. Certain state-employed HCPs also served in official roles at the regional and federal
+levels of the Russian government healthcare system. These HCPs provided expert opinions relied
+upon by decision-makers regarding the allocation of regional healthcare budgets and the
+regulatory treatment of Soliris. Alexion Russia senior managers believed that these HCPs had
+decision-making authority regarding regional healthcare budgets and regulatory decisions. From
+2011 to 2015, Alexion Russia made over $1 million in payments to these HCPs, which included
+funds paid to influence the HCPs to take positions favorable to Alexion Russia in connection with
+regional budget allocations, to increase the number of approved Soliris prescriptions, and to
+favorably influence the regulatory treatment of Soliris. These payments were recorded
+inaccurately in Alexion Russiaâs books and records as honoraria, educational expenses, business
+meeting expenses, and scientific research.
+
+23. Some specific examples of Alexion Russiaâs improper payments to HCPs in
+Russia are as follows:
+
+a. In 2011 and 2012, certain Alexion Russia managers prioritized
+strengthening Alexion Russiaâs relationship with Physician A because Physician A was the chair
+of a committee that made recommendations concerning the allocation of rare disease funds in one
+region of Russia and because Physician A was tasked by the Russian government with proposing
+medical standards used to diagnose and treat PNH. Alexion Russia made honoraria and research
+payments to Physician A in significant part to influence the regional budget and standards in favor
+of Soliris. Physician A provided Alexion Russia with a copy of draft diagnostic standards and the
+ability to comment and revise the standards before they were submitted to the Ministry of Health.
+Patients requiring Soliris treatment were allocated 52% of the regional Ministry of Health budget
+in Physician Aâs region in 2013. Physician A received approximately $100,000 from Alexion
+Russia from 2012 to 2015.
+
+b. From 2011 to 2015, Alexion Russia paid over $85,000 to Physicians B and
+C in the form of honoraria, research, and educational expenses, and in the form of a grant to the
+institution that employed Physician C. Physicians B and C were each geneticists and chief non-
+staff specialist advisors to the Ministry of Health. Physician B was tasked by the Ministry of
+Health with developing and submitting a list of rare diseases to the Ministry of Health, while
+Physician C was tasked with reviewing and advising the Ministry of Health on Alexion Russiaâs
+application to include Soliris on a list of drugs used to treat certain diseases. Internal Alexion
+Russia documents reflect that payments to Physicians B and C were made in significant part to
+improperly influence these Physicians in favor of Soliris. For example, Alexion Russia began
+paying Physician C and Physician Câs organization after learning that Physician C was tasked
+
+5
+with advising the Ministry of Health regarding Soliris. After making payments to Physician C
+and Physician Câs organization, an Alexion Russia employee recommended providing another
+payment to Physician Câs organization and stated that Alexion Russia hoped to âreceive support
+to include [ultra-rare diseases treated by Alexion drugs] in all possible lists,â which would
+facilitate the prescription and retrmbursement of Alexionâs products. After making payments to
+Physician C and his organization, an Alexion Russia employee stated that Physician C
+âcooperatedâ with Alexion Russia on the âprograms within [Physician Câs] influence on regions
+in terms of standards and funding, through [Physician Câs] specialized committee.â
+
+24. Despite Alexionâs knowledge of the risk of doing business in Russia, Alexion
+failed to devise and maintain internal accounting controls that were sufficient to provide
+reasonable assurances that payments to HCPs in Russia were supported by adequate
+documentation and were for legitimate business purposes.
+
+25. As a result of the conduct described above in Russia, Alexion was unjustly
+enriched by over $7.5 million.
+
+Brazil and Colombia
+
+ 
+
+26. From 2013 to 2015, certain employees at Alexion Brazil and Alexion Colombia
+created or directed third parties to create inaccurate financial records concerning payments to third
+parties, including patient advocacy organizations (âPAOsââ).
+
+27. For example, in 2013 and 2014, an Alexion Brazil manager caused a PAO to pay
+for the managerâs personal expenses for alcohol and personal travel, and to submit a fictitious
+invoice, which was then reimbursed by Alexion Brazil. In 2014 and 2015, the same manager and
+an employee in Alexion Brazil submitted grant requests to Alexionâs global grant review
+committee that misstated how the requested funds would be allocated to the different activities
+covered in the grant request.
+
+28. As a further example, on one occasion in 2014, in order to provide funds to a PAO,
+an Alexion Colombia senior manager directed a PAO to submit an invoice that falsely described
+that the funds would be used for âlegal supportâ services. This inaccurate invoice allowed
+Alexion Colombia to approve the payment locally instead of obtaining approval for the payment
+through the global grant process, as required by Alexionâs policies.
+
+29. Further, Alexion Brazil and Alexion Colombia failed to maintain adequate books
+and records of certain of its financial transactions involving payments to third parties. Notably,
+both subsidiaries failed to regularly maintain certain documents underlying a substantial number
+of financial transactions. Additionally, Alexion failed to prevent the destruction of relevant
+documents by certain employees of Alexion Brazil.
+Legal Standards and Violations
+
+ 
+
+30. Under Section 21C(a) of the Exchange Act, the Commission may impose a
+cease-and-desist order upon any person who is violating, has violated, or is about to violate any
+provision of the Exchange Act or any rule or regulation thereunder.
+
+31. As a result of the conduct described above, Alexion violated Section 13(b)(2)(A)
+of the Exchange Act, which requires issuers to make and keep books, records, and accounts
+which, in reasonable detail, accurately and fairly reflect their transactions and dispositions of the
+assets of the issuer. As a result of the conduct described above, Alexion violated Section
+13(b)(2)(B) of the Exchange Act, which requires issuers to devise and maintain a system of
+internal accounting controls sufficient to provide reasonable assurances that (1) transactions are
+executed in accordance with managementâs general or specific authorization; (11) transactions
+are recorded as necessary (I) to permit preparation of financial statements in conformity with
+generally accepted accounting principles or any other criteria applicable to such statements, and
+(II) to maintain accountability for assets; (111) access to assets is permitted only in accordance
+with managementâs general or specific authorization; and (iv) the recorded accountability for
+assets 1s compared with the existing assets at reasonable intervals and appropriate action is
+taken with respect to any differences.
+
+32. As aresult of the conduct described above, Alexion violated Section 13(b)(2)(A)
+of the Exchange Act because its books and records did not accurately reflect certain expenses
+and payments, including improper payments to foreign officials and third parties. Alexion
+violated Section 13(b)(2)(B) of the Exchange Act by failing to devise and maintain sufficient
+internal accounting controls over the payments to foreign officials and third parties.
+
+Alexionâs Remedial Efforts and Cooperation
+
+33. In determining to accept the Offer, the Commission considered remedial acts
+undertaken by Alexion and cooperation afforded to the Commission staff.
+
+34. â Alexionâs cooperation included providing regular briefings to Commission staff
+regarding the facts developed in its internal investigation in multiple countries and the forensic
+accounting review that Alexion undertook, and identifying and providing translations of key
+documents.
+
+35.  Alexionâs remediation included strengthening and expanding its global
+compliance organization; enhancing its policies and procedures regarding payments to third
+parties, including the implementation of a centralized system to track and monitor third-party
+payments; revamping its HCP engagement process and oversight; enhancing its internal audit
+function; conducting proactive compliance market reviews; and improving training provided to
+employees regarding anti-corruption.
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent Alexionâs Offer.
+
+Accordingly, it is hereby ORDERED that:
+
+A. Pursuant to Section 21C of the Exchange Act, Respondent Alexion cease and
+desist from committing or causing any violations and any future violations of Sections 13(b)(2)(A)
+and 13(b)(2)(B) of the Exchange Act.
+
+B. Respondent shall, within 14 days of the entry of this Order, pay disgorgement of
+$14,210,194 and prejudgment interest of $3,766,337 to the Securities and Exchange Commission
+for transfer to the general fund of the United States Treasury, subject to Exchange Act Section
+21F(g)(3). If timely payment is not made, additional interest shall accrue pursuant to SEC Rule of
+Practice 600. Respondent shall, within 14 days of the entry of this Order, pay a civil money
+penalty in the amount of $3,500,000 to the Securities and Exchange Commission for transfer to
+the general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). If
+timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C. Â§ 3717.
+
+Payment must be made in one of the following ways:
+
+(1) Respondent may transmit payment electronically to the Commission, which will
+provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov through
+the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+ 
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United States
+postal money order, made payable to the Securities and Exchange Commission
+and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying Alexionâs
+name as a Respondent in these proceedings, and the file number of these proceedings; a copy of
+the cover letter and check or money order must be sent to Melissa Hodgman, Division of
+Enforcement, Securities and Exchange Commission, 100 F St., NE, Washington, DC 20549-5553.
+
+C. Amounts ordered to be paid as civil money penalties pursuant to this Order shall
+be treated as penalties paid to the government for all purposes, including all tax purposes. To
+
+8
+preserve the deterrent effect of the civil penalty, Respondent agrees that in any Related Investor
+Action, it shall not argue that it is entitled to, nor shall it benefit by, offset or reduction of any
+award of compensatory damages by the amount of any part of Respondentâs payment of a civil
+penalty in this action (âPenalty Offsetâ). If the court in any Related Investor Action grants such a
+Penalty Offset, Respondent agrees that it shall, within 30 days after entry of a final order granting
+the Penalty Offset, notify the Commissionâs counsel in this action and pay the amount of the
+Penalty Offset to the Securities and Exchange Commission. Such a payment shall not be deemed
+an additional civil penalty and shall not be deemed to change the amount of the civil penalty
+imposed in this proceeding. For purposes of this paragraph, a âRelated Investor Actionâ means a
+private damages action brought against Respondent by or on behalf of one or more investors
+based on substantially the same facts as alleged in the Order instituted by the Commission in this
+proceeding.
+
+By the Commission.
+
+Vanessa A. Countryman
+Secretary

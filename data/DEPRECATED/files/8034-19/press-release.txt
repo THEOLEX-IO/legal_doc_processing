@@ -1,0 +1,56 @@
+Release Number 8034-19
+October 1, 2019
+
+CFTC Orders RBC Capital Markets, LLC to Pay $5 Million for Supervisory Failures
+Resulting in Illegal Trades and Other violations
+
+Washington, DC - The U.S. Commodity Futures Trading Commission today announced the agency issued an order on
+Monday, September 30, 2019, filing and setting charges against RBC Capital Markets, LLC (RBCCM), a registered
+futures commission merchant (FCM), for failing to meet its supervisory obligations, which resulted in hundreds of
+unlawful trades and other violations over the period of at least late 2011 through May 2017.
+
+The order requires RBCCM to cease and desist from future violations, pay a $5 million civil monetary penalty, and for a
+period of three years to expeditiously and completely cooperate with the Commission and any other governmental
+agency in all future investigations or inquiries involving the factual and legal subject matters of this action.
+
+“The CFTC will vigorously enforce the rules requiring our registrants to properly supervise their business activities.
+Where those supervision failures are accompanied by other violations, we will pursue those violations as well,” said CFTC
+Director of Enforcement James McDonald.
+
+The order finds that between December 2011 and October 2015, RBCMM engaged in at least 385 noncompetitive,
+fictitious, exchange for physical wash transactions (Wash EFPs). The order finds that RBCCM engaged in Wash EFPs in
+order to move positions internally between RBCCM accounts, which was less costly and administratively burdensome
+than other options to manage risk, and because it was believed that the exchange allowed it. RBCCM personnel checked
+with the appropriate compliance officer on whether the trades were appropriate but the officer did not respond, follow up
+with the exchange, or provide any formal training until at least May 2015.
+
+Notably, as the order finds, 217 of the Wash EFPs occurred after the entry of a consent order in December 2014, which
+resolved a CFTC enforcement action against RBCCM’s parent, the Royal Bank of Canada (RBC), for wash sales and
+fictitious transactions. [See Release No. 7086-14] The order finds that RBCCM had actual notice of the December 2014
+injunction against RBC prohibiting wash trading, yet the Wash EFPs continued at RBCCM. The order also finds that RBC
+delegated execution and surveillance of the bank’s futures transactions on exchanges in the United States to RBCCM, but
+that they failed to adequately implement a reasonable supervisory system overseeing its futures transactions, and failed
+to detect at least 385 Wash EFPs.
+
+The order further finds that RBCCM failed to prepare and timely file Risk Exposure Reports, disclose material non-
+compliance issues to the CFTC, and maintain and promptly produce required records to the CFTC.
+
+The order also finds other supervisory failures. For example, all RBC affiliates, including RBCCM, must follow company-
+wide policies and procedures, but RBCCM failed to implement several of those policies and procedures, which resulted in
+the various violations set forth in the order. To wit, RBCCM did not have a system to ensure employees reviewed the
+compliance manual; the compliance manual did not adequately address the requirements of EFPs; there was no formal
+training on EFPs; and RBCCM failed to adequately monitor for potential futures wash trades.
+
+The order additionally finds that RBCCM disclosed the Wash EFPs to the CFTC shortly before formally disclosing it in its
+required 2015 Chief Compliance Officer report. RBCCM, however, failed to timely and fully respond to document requests
+and subpoenas issued by CFTC staff and attempted to dissuade them from inquiring into RBC’s involvement with the
+Wash EFPs, even from a supervisory perspective. These actions were taken despite the inter-relationship between
+
+RBCCM and RBC, as well as the prior consent order, which required cooperation of RBC in any investigation by the
+Division of Enforcement related to the subject matter of this action. As a result, the order finds that the CFTC expended
+considerable resources trying to obtain information and timely compliance with its subpoenas from RBC and RBCCM.
+
+The Division of Enforcement staff members responsible for this case are Allison Passman, Joseph Patrick, Susan Gradman,
+and Scott Williamson.
+
+-CFTC-

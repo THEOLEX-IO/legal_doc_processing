@@ -1,0 +1,441 @@
+ 
+
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION Proceedings Clerk
+
+\ 11:23 am, Jun 02, 2017)
+
+ 
+
+ 
+
+ 
+
+ 
+
+In the Matter of:
+17-14
+
+David Liew, CFTC Docket No.:
+
+ 
+
+Respondent.
+
+Seemaâ Seâ ee eeeâ nee Seeâ Snâ eeâ
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT,
+MAKING FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+
+I.
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+David Liew (âLiewâ or âRespondentââ) has violated the Commodity Exchange Act (the âActâ or
+ââCEAâ) and Commission Regulations (âRegulationsâ). Therefore, the Commission deems it
+appropriate and in the public interest that public administrative proceedings be, and hereby are,
+instituted to determine whether Respondent engaged in the violations set forth herein and to
+determine whether any order should be issued imposing remedial sanctions.
+
+I.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferââ) that the Commission has determined to accept.
+Respondent admits the facts set forth below, acknowledges that his conduct violated the Act and
+Regulations, admits the Commissionâs jurisdiction over him and the subject matter of these
+proceedings, and consents to the entry and acknowledges service of this Order Instituting
+Proceedings Pursuant to Sections 6(c) and 6(d) of the Commodity Exchange Act, Making
+Findings and Imposing Remedial Sanctions (âOrderâ).
+
+IIL.
+The Commission finds the following:
+A. SUMMARY
+
+From at least December 2009 through February 2012 (âRelevant Periodâ), Liew, acting
+individually and in coordination with other traders on the precious metals trading desk at a large
+financial institution (âFinancial Institution 1â), engaged in a scheme to manipulate the market
+price of gold and silver futures contracts by utilizing manual spoofing techniques designed to
+cause price movements in the market that Liew could exploit through his trading.
+
+On numerous occasions, Liew, both individually and in coordination with other traders
+on the precious metals trading desk of Financial Institution 1, placed orders to buy or sell gold or
+silver futures contracts that he did not intend to execute at the time the orders were placed
+(âspoof ordersâ). On those occasions, Liew intended to induce other market participants into
+buying and selling gold or silver futures contracts. In engaging in the unlawful spoofing
+conduct, Liew also intended to manipulate and, on occasion, succeeded in manipulating the price
+of gold and silver futures contracts. Liew, individually and in coordination with other precious
+metals traders, sought to and at times did benefit from the artificial prices by executing buy or
+sell orders at artificial prices.
+
+Separately, on certain occasions, Liew placed orders and executed trades with the intent
+of manipulating the market price of gold and silver futures contracts for the purpose of triggering
+customersâ stop-loss orders.â Liew coordinated this trading with another precious metals trader
+(âTrader Aâ) at another large financial institution (âFinancial Institution 2â). The intent of
+triggering the customer stop-loss orders was to allow the traders to buy precious metals futures
+contracts at artificially low prices or sell precious metals futures contracts at artificially high
+prices.
+
+In accepting the Offer of Settlement, the Commission recognizes Liewâs cooperation
+during the Division of Enforcementâs (âDivisionâ) investigation of this matter, including his
+entry into a formal Cooperation Agreement (âCooperation Agreementâ) with the Division, his
+provision of substantial assistance to the investigation and his undertaking to continue to
+cooperate with the Commission, the Division and any other governmental agency in connection
+with any investigation, litigation or administrative proceeding relating to the subject matter of
+this Order.
+
+B. RESPONDENT
+
+David Liew was employed as a junior trader on the precious metals desk in a foreign
+office of Financial Institution 1 during the Relevant Period. Liew has never been registered with
+the Commission in any capacity.
+
+C. FACTS
+
+During the Relevant Period, Liew worked on the precious metals trading desk, which,
+among other things, engaged in market making and proprietary trading in precious metals spot
+and futures markets. As part of Liewâs duties, he placed orders and entered into transactions for
+gold and silver futures contracts traded on the Commodity Exchange, Inc. (âCOMEXâ), a futures
+
+ 
+
+' A stop-loss order, or stop order, is an order that becomes a market order when a particular price level is
+reached. A sell stop is placed below the market; a buy stop is placed above the market.
+
+2
+exchange and designated contract market which is owned and operated by CME Group, Inc.
+(âCMEâ).
+
+Liewâs trading practices included placing, or coordinating with other precious metals
+traders at Financial Institution 1 to place, hundreds of bids or offers with the intent to cancel
+before execution (i.e., spoofing orders). In a March 29, 2011 chat with Trader A at Financial
+Institution 2, Liew explained his spoofing strategy: âbasically i sold out... by just having fake
+bids... [in] the futures ... i just spam bids below ... to clear my offer.â Generally, Liewâs spoof
+orders were placed in the futures market after another bid or offer was placed on the opposite
+side of the same market. Liew placed his spoof orders with the intent to create the false
+appearance that the market interest in buying or selling was greater than the actual market
+interest. Liew placed such spoof orders with the intent to induce other market participants to fill
+Liewâs resting orders on the opposite side of the market from his spoof orders. In engaging in
+the spoofing conduct, Liew also intended to manipulate, and at times succeeded in manipulating
+the price of the relevant futures contract. Thereafter, Respondent cancelled the spoof orders after
+the resting orders were filled or the spoof orders were at too great a risk of being executed.
+
+As noted above, in addition to executing the spoofing strategy individually, at times,
+Liew coordinated with one or more traders on the precious metals trading desk of Financial
+Institution 1 to implement his spoofing strategy.
+
+Stop-Loss Manipulation
+
+During the Relevant Period, on occasion, Liew attempted to manipulate, and at times,
+succeeded in manipulating the gold and silver futures market prices to trigger customer stop-loss
+orders in order to obtain a profit. Liew coordinated this trading with Trader A at Financial
+Institution 2.
+
+On certain occasions, Liew would communicate with Trader A at Financial Institution 2
+to determine the level in the market that stop-loss orders were resting, and would coordinate
+trading for the purpose of triggering stop-loss orders. Liew engaged in this conduct intending to
+manipulate the prices of the gold and silver futures contracts. Liew executed trades with the
+understanding that he, together with Trader A, had the ability to affect or influence prices. In
+certain instances, Liew and Trader A succeeded in manipulating the prices of the gold and silver
+futures contracts.
+
+For example, on January 7, 2011, Liew asked Trader A at Financial Institution 2, via a
+chat, about the level in the market at which customer stop loss orders were resting. Liew told the
+other trader, âi can hunt with u.â A few minutes later, the other trader asked Liew âyo can u help
+me push silver down?â Liew agreed to execute trades to push the price of COMEX silver futures
+market down to trigger the resting stop loss orders, and did so by entering orders to sell with the
+intent to manipulate prices. When the market reached the stop level that they were seeking, Liew
+told Trader A âthere u go.â Liew then bought back the silver contracts, eliminating his exposure
+to risk from further price movements in the silver futures market and generating a profit.
+In another example, on March 29, 2011, Trader A asked Liew for assistance in the gold
+futures market, asking Liew to âpush it upâ because Trader A âneed[ed] a print.â Liew bought
+gold futures contracts with the intent to push prices up as requested. Immediately after Trader A
+told Liew that he âgot itâ [1.e., the print], Liew then sold back the gold futures contracts,
+eliminating his exposure to risk from further price movements in the gold futures market and
+generating a profit.
+
+IV.
+LEGAL DISCUSSION
+
+A. Liew Manipulated and Attempted to Manipulate the Price of Gold and Silver
+Futures Contracts in Violation of Sections 6(c), 6(d) and 9(a)(2) of the Act for the
+Period Prior to August 15, 2011, and Sections 6(c)(1), 6(c)(3), 6(d) and 9{a)(2) of the
+Act and Regulations 180.1 and 180.2 for the Period On or After August 15, 2011
+
+Together, Sections 6(c),â 6(d) and 9(a)(2) of the Act prohibit acts of manipulation and
+attempted manipulation. 7 U.S.C. Â§Â§ 9, 13b, 13(a)(2) (2006). Section 9(a)(2) of the Act makes
+it unlawful for â[a]ny person to manipulate or attempt to manipulate the price of any commodity
+in interstate commerce, or for future delivery on or subject to the rules of any registered entity.â
+7 U.S.C. Â§ 13(a)(2) (2006). For conduct prior to August 15, 2011, Sections 6(c) and 6(d) of the
+Act authorize the Commission to serve a complaint and provide for the imposition of, among
+other things, civil monetary penalties and cease and desist orders 1f the Commission âhas reason
+to believe that any person... has manipulated or attempted to manipulate the market price of
+any commodity, in interstate commerce, or for future delivery on or subject to the rules of any
+registered entity, ... or otherwise is violating or has violated any of the provisions of [the] Act.â
+7 U.S.C. Â§Â§ 9, 13b (2006).
+
+For conduct occurring on or after August 15, 2011, the Commission is authorized to
+serve a complaint and impose penalties and orders with regard to manipulation and attempted
+manipulation in violation of the broader amended provisions of Sections 6(c)(1) and 6(c)(3) of
+the Act and the Regulations implementing those provisions, See Sections 6(c)(4)(A) and 6(d) of
+the Act, 7 U.S.C. Â§Â§ 9(4)(A), 13b (2012). Sections 6(c)(1) of the Act prohibits the use or
+attempted use of any manipulative device in connection with any swap or contract of sale of any
+commodity in interstate commerce, or for future delivery, 7 U.S.C. Â§Â§ 9(1) (2012), and
+Regulation 180.1(a), 17 C.F.R. Â§ 180.1(a) (2016), makes it âunlawful... , directly or indirectly,
+in connection with any swap, or contract of sale of any commodity in interstate commerce, or
+contract for future delivery on or subject to the rules of any registered entity, to...(1) [uJse...
+or attempt to use... any manipulative device.â Section 6(c)(3) of the Act prohibits the
+manipulation or attempted manipulation of the price of any commodity in interstate commerce,
+7 USS.C. Â§ 9(3) (2012), and Commission Regulation 180.2, 17 C.F.R. Â§ 180.2 (2016), makes it
+âunlawful... directly or indirectly, to manipulate or attempt to manipulate the price of any
+swap, or of any commodity in interstate commerce, or for future delivery on or subject to the
+rules of any registered entity.â
+
+ 
+
+* Section 6(c) was amended effective August 15, 2011.
+As described above, Liew manipulated and attempted to manipulate the price of gold and
+silver futures contracts by utilizing manual spoofing techniques, in violation of Sections 6(c),
+6(d) and 9(a)(2) of the Act, 7 U.S.C. Â§Â§ 9, 13b, 13(a)(2) (2006), for conduct occurring prior to
+August 15, 2011; and Sections 6(c)(1), 6(c)(3), 6(d) and 9(a)(2) of the Act, 7 U.S.C. Â§Â§ 9(1),
+9(3), 13b, 13(a)(2) (2012), and Regulations 180.1 and 180.2, 17 C.F.R. Â§Â§ 180.1, 180.2 (2016),
+for conduct occurring on or after August 15, 2011.
+
+Furthermore, Liew manipulated and attempted to manipulate the price of gold and silver
+futures contracts by engaging in a scheme to trigger customer stop-loss orders, in violation of
+Sections 6(c), 6(d) and 9(a)(2) of the Act, 7 U.S.C. Â§Â§ 9, 13b, 13(a)(2) (2006), for conduct
+occurring prior to August 15, 2011; and Sections 6(c)(1), 6(c)(3), 6(d) and 9(a)(2) of the Act, 7
+U.S.C. Â§Â§ 9(1), 9(3), 13b, 13(a)(2) (2012), and Regulations 180.1 and 180.2, 17 C.F.R. Â§Â§ 180.1,
+180.2 (2016), for conduct occurring on or after August 15, 2011.
+
+B. Liew Engaged in Spoofing in the Gold and Silver Futures Markets, In Violation of
+Section 4c(a)(5)(C) of the Act
+
+Section 4c(a)(5) of the Act makes it unlawful for â[a]ny person to engage in any trading,
+practice, or conduct on or subject to the rules of a registered entity that . . . is, is of the character
+of, or is commonly known to the trade as, âspoofingâ (bidding or offering with the intent to
+cancel the bid or offer before execution).â 7 U.S.C. Â§ 6c(a)(5)(C) (2012). As described above,
+Liew entered, or coordinated with other precious metals traders at Financial Institution 1 to enter,
+hundreds of bids or offers on a registered entity with the intent to cancel the bids or offers before
+execution, in violation of Section 4c(a)(5)(C) of the Act.
+
+V.
+FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that Liew violated the Act and
+Regulations, as follows: (i) Liew manipulated and attempted to manipulate prices, in violation of
+Sections 6(c), 6(d) and 9(a)(2) of the Act, 7 U.S.C. Â§Â§ 9, 13b, 13(a)(2) (2006), for conduct
+occurring prior to August 15, 2011; and in violation of Sections 6(c)(1), 6(c)(3), 6(d) and 9(a)(2)
+of the Act, 7 U.S.C. Â§Â§ 9(1), 9(3), 13b, 13(a)(2) (2012), and Regulations 180.1 and 180.2, 17
+C.F.R. Â§Â§ 180.1, 180.2 (2016), for conduct occurring on or after August 15, 2011; and (ii) Liew
+engaged in spoofing in the gold and silver futures markets in violation of Section 4c(a)(5) of the
+Act, 7 U.S.C. Â§ 6c(a)(5)(C) (2012), for conduct occurring on or after July 16, 2011.
+VI.
+OFFER OF SETTLEMENT
+Liew has submitted an Offer in which he:
+A. Acknowledges receipt of service of this Order;
+
+B. Admits the jurisdiction of the Commission to all the matters set forth in this Order
+and for any action or proceeding brought or authorized by the Commission based on a
+violation of or enforcement of this Order;
+
+C. Admits to all of the findings made in this Order;
+D. Waives:
+(1) the filing and service of a complaint and notice of hearing;
+(2) a hearing;
+(3) all post-hearing procedures;
+(4) judicial review by any court;
+
+(5) any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+(6) any and all claims that he may possess under the Equal Access to Justice Act,
+5 U.S.C. Â§ 504 (2012) and 28 U.S.C. Â§ 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations,
+17 C.F.R. Â§Â§ 148.1-30 (2016), relating to, or arising from, this proceeding;
+
+(7) any and all claims that he may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, Â§Â§ 201-253, 110 Stat.
+847, 857-68 (1996), as amended by Pub. L. No. 110-28, Â§ 8302, 121 Stat. 112,
+204-205 (2007), relating to, or arising from, this proceeding; and
+
+(8) any claims of Double Jeopardy based upon the institution of this proceeding or
+the entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+E. Stipulates that the record basis on which this Order is entered shall consist solely of
+the findings contained in this Order to which Liew has consented in the Offer; and
+
+F. Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order
+that:
+
+(1) makes findings by the Commission that: (1) Liew manipulated and attempted to
+manipulate prices in violation of Sections 6(c), 6(d) and 9(a)(2) of the Act, 7
+
+6
+U.S.C. Â§ 9, 13b, 13(a)(2), for conduct occurring prior to August 15, 2011; and in
+violation of Sections 6(c)(1), 6(c)(3), 6(d) and 9(a)(2) of the Act, 7 U.S.C. Â§Â§
+9(1), 9(3), 13b, 13(a)(2) (2012), and Regulations 180.1 and 180.2, 17 C.F.R. Â§Â§
+180.1, 180.2 (2016), for conduct occurring on or after August 15, 2011; and that
+(ii) Liew spoofed the gold and silver futures markets in violation of Section
+4c(a)(5) of the Act, 7 U.S.C. Â§ 6c(a)(5)(C) (2012), for conduct occurring on or
+after July 16, 2011;
+
+(2) orders Liew to cease and desist from further violations of the Act and
+Regulations, as set forth below;
+
+(3) orders that Liew be permanently prohibited from, directly or indirectly, engaging
+in trading on or subject to the rules of any registered entity (as that term is
+defined in Section 1a(40) of the Act, 7 U.S.C. Â§ 1a(40) (2012), and all registered
+entities shall refuse him trading privileges during that period; and
+
+(4) orders Liew to comply with the conditions, undertakings, and representations
+consented to in the Offer and set forth in Part VII of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+Vil.
+ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+A. Respondent shall cease and desist from, directly or indirectly:
+
+(1) manipulating or attempting to manipulate the price of any futures contract or
+commodity in interstate commerce, or for future delivery on or subject to the rules
+of any registered entity, including any contract market, in violation of Sections
+6(c)(1), 6(c)(3), 6(d) and 9(a)(2) of the Act, 7 U.S.C. Â§Â§ 9(1), 9(3), 13b, 13(a)(2)
+(2012), and Regulations 180.1 and 180.2, 17 C.F.R. Â§Â§ 180.1, 180.2 (2016); and
+
+(2) engaging in any trading practice, or conduct on or subject to the rules of a
+registered entity that is, is of the character of, or is commonly known to the trade
+as âspoofingâ (bidding or offering with the intent to cancel the bid or offer before
+execution), in violation of Section 4c(a)(5)(C) of the Act, 7 U.S.C. Â§ 6c(a)(5)(C)
+(2012).
+
+B. Respondent acknowledges that the Commission is not imposing a civil monetary penalty
+at this time based upon his cooperation in a Commission investigation and related
+proceedings, pursuant to the terms of the Cooperation Agreement, and his undertaking to
+continue to cooperate, as set forth below in Part VII.D.3. If at any time following the
+entry of this Order, the Division obtains information indicating that Liew: (i) knowingly
+provided materially false or misleading information or materials to the Commission in the
+investigation, this proceeding or in a related proceeding; or (ii) violated the terms of his
+Cooperation Agreement with the Divisionâincluding his commitment to continue to
+cooperateâthe Division may, at its sole discretion and without prior notice to
+Respondent, petition the Commission to re-open this matter and seek an order directing
+that Liew pay a civil monetary penalty. Liew may contest by way of defense in any
+resulting administrative proceeding whether he knowingly provided materially false and
+misleading information or violated the terms of his Cooperation Agreement with the
+Division, but may not: (1) contest the findings in this Order; or (2) assert any defense to
+liability or remedy, including but not limited to, any statute of limitations defense.
+
+. Respondent is permanently prohibited from, directly or indirectly, engaging in trading on
+or subject to the rules of any registered entity (as that term is defined in Section 1a(40) of
+the Act, 7 U.S.C. Â§ 1a(40) (2012)), and all registered entities shall refuse him trading
+privileges.
+
+. Respondent shall comply with the following conditions and undertakings set forth in the
+Offer:
+
+1. Public Statements: Respondent agrees that neither he nor any of his successors,
+assigns, agents or employees under their authority or control shall take any action or
+make any public statement denying, directly or indirectly, any findings or conclusions
+in this Order, or creating, or tending to create, the impression that this Order is
+without a factual basis; provided, however, that nothing in this provision shall affect
+Respondentâs (1) testimonial obligations; or (ii) right to take legal positions in other
+proceedings to which the Commission is not a party.
+
+2. Respondent agrees that he shall never, directly or indirectly:
+
+a. enter into any transactions involving âcommodity interestsâ (as that term is
+defined in Regulation 1.3(yy), 17 C.F.R. Â§ 1.3(vy) (2016)) for Respondentâs
+own personal accounts or for any accounts in which Respondent has a direct
+or indirect interest;
+
+b. have any commodity interests traded on Respondentâs behalf;
+
+c. control or direct the trading for or on behalf of any other person or entity,
+whether by power of attorney or otherwise, in any account involving
+commodity interests;
+
+d. solicit, receive, or accept any funds from any person for the purpose of
+purchasing or selling any commodity interests;
+
+e. apply for registration or claim exemption from registration with the
+Commission in any capacity, and engage in any activity requiring such
+registration or exemption from registration with the Commission except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)Q9) (2016); and/or
+
+f. act as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R.
+Â§ 3.1(a) (2016)), agent or any other officer or employee of any person (as that
+
+8
+term is defined in Section 1a(38) of the Act, 7 U.S.C. Â§ 1a(38) (2012)
+registered, required to be registered, or exempted from registration with the
+Commission except as provided for in Regulation 4.14(a)(9), 17 C.F.R.
+
+Â§ 4.14(a)(9) (2016).
+
+3. Cooperation with the Commission: Respondent shall continue to cooperate fully and
+
+ 
+
+expeditiously with the Commission, including the Division pursuant to the
+Cooperation Agreement, and any other governmental agency in this action, and in any
+investigation, civil litigation, or administrative matter related to the subject matter of
+this action or any current or future Commission investigation related thereto. As part
+of such cooperation, Respondent agrees to:
+
+a.
+
+preserve and produce to the Commission in a responsive and prompt
+manner, as requested by the Divisionâs staff, all non-privileged documents,
+information, and other materials wherever located, in the possession,
+custody, or control of Respondent;
+
+utilize his knowledge and skill to explain transactions, interpret information
+and terminology or identify new and productive lines of inquiry;
+
+prepare and appear for interviews and testimony at such times and places as
+requested by the Divisionâs staff;
+
+respond completely and truthfully to all inquiries and interviews, when
+requested to do so by the Divisionâs staff;
+
+identify and authenticate relevant documents, execute affidavits or
+declarations, and testify completely and truthfully at depositions, trial, and
+other judicial proceedings, when requested to do so by the Divisionâs staff;
+
+accept service by mail, electronic mail, or facsimile transmission of notices
+or subpoenas for documents and/or testimony at depositions, hearings, or
+trials;
+
+appoint Respondentâs attorney as agent to receive service of such notices
+and subpoenas;
+
+waive the territorial limits on service contained in Rule 45 of the Federal
+Rules of Civil Procedure and any applicable local rules in connection with
+requests or subpoenas of the Divisionâs staff; and
+
+serve by hand delivery or by next-day mail all written notices and
+correspondence required by or related to this Agreement to the Director of
+the Division of Enforcement, United States Commodity Futures Trading
+Commission, 1155 21st Street, NW, Three Lafayette Centre, Washington,
+DC 20581, unless otherwise directed in writing by the Divisionâs staff.
+4. Change of Address/Phone: Until such time as Respondent satisfies in full his
+cooperation obligations as set forth in the Consent Order and the Cooperation
+Agreement, Respondent shall provide written notice to the Commission by certified
+mail of any change to his telephone number and mailing address within ten (10)
+calendar days of the change.
+
+The provisions of this Order shall be effective on this date.
+
+By the Commission
+
+Christopher # Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: June 2, 2017
+
+10

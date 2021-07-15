@@ -1,0 +1,317 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+RECEIVED CFTC
+
+ 
+
+   
+
+In the Matter of: ONS
+
+Office of Proceedings
+Proceedings Clerk
+
+Heraeus Metals New York LLC, 8:57 am, Sep 16, 2019
+
+CFTC Docket No. 19-2
+
+ 
+
+Respondent.
+
+Samet ae” nee” Nt! Sa” Set” ee”
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL sanctions
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (“Commission”) has reason to believe that
+from in or about May 2017 through January 2018 (“Relevant Period”), Heraeus Metals New
+York LLC (“Respondent” or ““Heraeus”) violated Section 4c(a)(5)(C) of the Commodity
+Exchange Act (“Act”), 7 U.S.C. §6c(a)(5)(C) (2012). Therefore, the Commission deems it
+appropriate and in the public interest that public administrative proceedings be, and hereby are,
+instituted to determine whether Heraeus engaged in the violations set forth herein and to
+determine whether any order should be issued imposing remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Heraeus has submitted
+an Offer of Settlement (“Offer”), which the Commission has determined to accept. Without
+admitting or denying any of the findings or conclusions herein, Heraeus consents to the entry of
+this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity Exchange
+Act, Making Findings, and Imposing Remedial sanctions (“Order”) and acknowledges service of
+this Order.
+
+ 
+
+' Respondent consents to the use of the findings of fact and conclusions of law in this Order in this proceeding and
+in any other proceeding brought by the Commission or to which the Commission is a party or claimant, and agrees
+that they shall be taken as true and correct and be given preclusive effect therein, without further proof. Respondent
+does not consent, however, to the use of this Order, or the findings or conclusions herein, as the sole basis for any
+other proceeding brought by the Commission or to which the Commission is a party or claimant, other than: a
+proceeding in bankruptcy or receivership; or a proceeding to enforce the terms of this Order. Respondent does not
+consent to the use of the Offer or this Order, or the findings or conclusions in this Order, by any other party in any
+other proceeding.
+IL. FINDINGS
+The Commission finds the following:
+A. SUMMARY
+
+During the Relevant Period, Heraeus, by and through one of its former traders, John
+Lawrence (“Lawrence”), engaged in numerous instances of the disruptive trading practice known
+as “spoofing” (i.e., bidding or offering with the intent to cancel the bid or offer before execution)
+involving silver futures contracts and gold futures contracts traded on the Commodity Exchange
+(“COMEX”), a futures exchange and designated contract market which is owned and operated
+by CME Group Inc. (“CME”). This conduct violated Section 4c(a)(5)(C) of the Act, 7 U.S.C.
+
+§ 6c(a)(5)(C) (2012).
+
+B. RESPONDENT
+
+Heraeus Metals New York LLC is a U.S. affiliate of a global precious metals refiner
+and fabricator. From September 2014 through February 2018, Heraeus employed Lawrence as a
+trader. Heraeus has never been registered with the Commission.
+
+Cc. FACTS
+1. Spoofing
+
+Heraeus purchases and sells physical precious metals for a variety of manufacturing and
+other industrial applications. Heraeus’s customers include its corporate affiliates and third
+parties that both source physical precious metals from Heraeus and sell excess physical precious
+metals inventory to Heraeus. As part of this business, Heraeus trades precious metals futures to
+manage the price risk associated with its physical precious metals transactions. Because Heraeus
+traded precious metals futures for risk management purposes only, Heraeus restricted its traders’
+ability to trade precious metals futures, including during the Relevant Period, by, among other
+things, limiting the maximum order size its traders could place to twenty lots.
+
+From September 2014 through February 2018, Heraeus employed Lawrence as a trader.
+Lawrence’s responsibilities at Heraeus included both buying and selling physical precious
+metals, including silver and gold, as well as trading precious metals futures contracts, including
+the COMEX silver futures contract and the COMEX gold futures contract.
+
+Beginning in May 2017, Lawrence began placing bids and offers in Heraeus’s trading
+account for COMEX silver and COMEX gold futures contracts with the intent to cancel those
+bids and offers before their execution. Lawrence’s trading pattern involved placing on one side
+of market a relatively small order, typically for one lot, that he wanted to get filled (“Genuine
+Order”). Lawrence then placed on the opposite side of the market a larger order, typically for
+twenty lots, the maximum size Heraeus allowed him to place, that he intended to cancel before
+execution (“Spoof Order”). Lawrence placed the Spoof Order knowing that this order would
+often induce other market participants to fill his Genuine Order. Lawrence then cancelled his
+Spoof Order within seconds of placing it, often immediately after he received a fill on his
+Genuine Order.
+
+Between May 2017 and October 2017, Lawrence engaged in spoofing using this trading
+pattern on a small number of isolated occasions. Beginning in October 2017, Lawrence
+intensified his spoofing activity. By January 2018, Lawrence had placed hundreds of Spoof
+Orders for COMEX silver and COMEX gold futures contracts.
+
+Heraeus suspended Lawrence from trading on or about February 20, 2018, immediately
+after it discovered Lawrence’s spoofing activity. Heraeus terminated Lawrence’s employment
+shortly thereafter.
+
+2. Remediation
+
+Heraeus represents that by April 2018, in addition to its existing risk management and
+monitoring tools, it had instituted a number of measures to prevent its traders from engaging in
+spoofing, including daily monitoring and review of all order cancellations and modifications. In
+addition, Heraeus represents that in March 2018, Heraeus expanded the annual compliance
+training it gives to all traders to include separate and specific training on the prohibitions against
+spoofing and other disruptive trading practices under the Act and relevant exchange rules.
+
+Il. LEGAL DISCUSSION
+
+A. Spoofing in COMEX Silver and COMEX Gold Futures Contracts, in violations of
+Section 4c(a)(5)(C) of the Act
+
+Section 4c(a)(5)(C) of the Act, 7 U.S.C. § 6c(a)(5)(C) (2012), makes it unlawful for
+“la|]ny person to engage in any trading, practice, or conduct on or subject to the rules of a
+registered entity that. . . is, is of the character of, or is commonly known to the trade as,
+‘spoofing’ (bidding or offering with the intent to cancel the bid or offer before execution).” See,
+e.g., United States v. Coscia, 866 F.3d 782, 792-93 (7th Cir. 2017) (holding that because the Act
+clearly defines spoofing, it provides adequate notice of prohibited conduct), cert. denied, 138 S.
+Ct. 1989 (2018).
+
+As described above, during the Relevant Period, Heraeus, by and through the acts of
+Lawrence, placed bids and offers for futures contracts listed on COMEX, a registered entity,
+with the intent to cancel those bids and offers before they were executed. By engaging in this
+conduct, Heraeus violated Section 4c(a)(5)(C) of the Act. See CFTC v. Oystacher, 203 F. Supp.
+3d 934, 942 (N.D. Il. 2016) (denying motion for judgment on the pleadings, holding that
+allegations of placing “both bids and offers with the intent to cancel those bids or offers before
+execution” constitutes “trading behavior [that] falls within the Spoofing Statute’s defined
+prohibition”).
+
+B. Heraeus Is Liable for the Acts of Its Agent
+
+Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2012), and Commission Regulation
+(“Regulation”) 1.2, 17 C.F.R. §1.2 (2019), provide that ‘“‘[t]he act, omission, or failure of any
+official, agent, or other person acting for any individual, association, partnership, corporation, or
+trust within the scope of his employment or office shall be deemed the act, omission, or failure of
+such individual, association, partnership, corporation, or trust.” Pursuant to section 2(a)(1)(B) of
+the Act and Regulation 1.2, strict liability is imposed on principals for the actions of their agents.
+See, e.g., Rosenthal & Co. v. CFTC, 802 F.2d 963 966 (7th Cir. 1986); CFTC v. Byrnes, 58 F.
+Supp. 3d 319, 324 (S.D.N.Y. 2014).
+
+Because Lawrence engaged in the spoofing conduct described above within the scope of
+his employment with Heraeus, Heraeus is liable for Lawrence’s violations of Section 4c(a)(5)(C)
+of the Act.
+
+IV. FINDINGS OF violations
+
+Based on the foregoing, the Commission finds that, during the Relevant Period, Heraeus
+violated Section 4c(a)(5)(C) of the Act, 7 U.S.C. § 6c(a)(5)(C) (2012).
+
+V. OFFER OF SETTLEMENT
+
+Heraeus has submitted the Offer in which it, without admitting or denying the findings .
+and conclusions herein:
+
+A. Acknowledges service of this Order;
+
+B. ' Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violations of or enforcement of this Order;
+
+C. Waives:
+1. The filing and service of a complaint and notice of hearing;
+2. A hearing;
+
+All post-hearing procedures;
+
+Wo
+
+4. Judicial review by any court;
+
+5, Any and all objections to the participation by any member of the Commission’s
+staff in the Commission’s consideration of the Offer;
+
+6. Any and all claims that it may possess under the Equal Access to Justice Act, 5
+U.S.C. § 504 (2012), and 28 U.S.C. § 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations, 17 C.F.R.
+pt. 148 (2019), relating to, or arising from, this proceeding;
+
+7. Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. II, §§ 201-253, 110
+Stat. 847, 857-74 (codified as amended at 28 U.S.C. § 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+8. Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order;
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Heraeus has consented in the Offer; and
+
+Consents, solely on the basis of the Offer, to the Commission’s entry of this Order that:
+
+1. Makes findings by the Commission that Heraeus, by and through the acts of
+Lawrence, violated Section 4c(a)(5)(C) of the Act, 7 U.S.C. § 6c(a)(5)(C) (2012);
+
+2. Orders Heraeus to cease and desist from violating Section 4c(a)(5)(C) of the Act;
+
+3. Orders Heraeus to pay a civil monetary penalty in the amount of nine hundred
+thousand dollars ($900,000), plus post-judgment interest within ten days of the
+date of entry of this Order;
+
+4. Orders Heraeus to comply with the conditions and undertakings consented to in the
+Offer and as set forth in Part VI of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Heraeus shall cease and desist from violating Section 4c(a)(5)(C) of the Act, 7 U.S.C.
+§ 6c(a)(5)(C) (2012).
+
+Heraeus shall pay a civil monetary penalty in the amount of nine hundred thousand
+dollars ($900,000) (“CMP Obligation”), within ten days of the date of the entry of this
+Order. If the CMP Obligation is not paid in full within ten days of the date of entry of
+this Order, then post-judgment interest shall accrue on the CMP Obligation beginning on
+the date of entry of this Order and shall be determined by using the Treasury Bill rate
+prevailing on the date of entry of this Order pursuant to 28 U.S.C. § 1961 (2012).
+
+Heraeus shall pay the CMP Obligation and any post-judgment interest by electronic funds
+transfer, U.S. postal money order, certified check, bank cashier’s check, or bank money
+order. If payment is to be made other than by electronic funds transfer, then the payment
+shall be made payable to the Commodity Futures Trading Commission and sent to the
+address below:
+
+MMAC/ESC/AMK326
+Commodity Futures Trading Commission
+Division of Enforcement
+6500 S. MacArthur Blvd.
+HQ Room 181
+
+Oklahoma City, OK 73169
+(405) 954-6569 office
+
+(405) 954-1620 fax
+9-AMC-AR-CFTC@faa.gov
+
+If payment is to be made by electronic funds transfer, Heraeus shall contact Marie Thorne
+or her successor at the above address to receive payment instructions and shall fully
+comply with those instructions. Heraeus shall accompany payment of the CMP
+Obligation with a cover letter that identifies the Respondent and the name and docket
+number of this proceeding. Heraeus shall simultaneously transmit copies of the cover
+letter and the form of payment to the Chief Financial Officer, Commodity Futures
+Trading Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C.
+20581.
+
+Heraeus shall comply with the following conditions and undertakings set forth in the
+Offer:
+
+1. Public Statements: Heraeus agrees that neither it nor any of its agents or
+employees under its authority or control shall take any action or make any public
+statement denying, directly or indirectly, any findings or conclusions in this Order
+or creating, or tending to create, the impression that this Order is without a factual
+basis; provided, however, that nothing in this provision shall affect Heraeus’s: (i)
+testimonial obligations; or (ii) right to take legal positions in other proceedings to
+which the Commission is not a party. Heraeus shall comply with this agreement,
+and shall undertake all steps necessary to ensure that all of its agents and/or
+employees under its authority or control understand and comply with this
+agreement.
+
+2. Cooperation, in General: Heraeus shall cooperate fully and expeditiously with the
+Commission, including the Commission’s Division of Enforcement, in this action,
+and in any current or future Commission investigation or action related thereto.
+Heraeus shall also cooperate in any investigation, civil litigation, or administrative
+matter related to, or arising from, the subject matter of this action.
+
+tuo
+
+Partial Satisfaction: Heraeus understands and agrees that any acceptance by the
+Commission of any partial payment of Heraeus’s CMP Obligation shall not be
+deemed a waiver of its obligation to make further payments pursuant to this
+Order, or a waiver of the Commission’s right to seek to compel payment of any
+remaining balance.
+
+4. Change of Address/Phone: Until such time as Heraeus satisfies in full its CMP
+Obligation as set forth in this Order, Heraeus shall provide written notice to the
+Commission by certified mail of any change to its telephone number and mailing
+address within ten calendar days of the change.
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+Christop
+
+ 
+   
+ 
+
+           
+
+her J. Kirkpa rick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: September 16, 2019

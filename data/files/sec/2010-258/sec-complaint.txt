@@ -1,0 +1,809 @@
+Gase 1:10-cv-24620-XXXX Document 1 Entered on FLSD Docket 12/27/2010
+
+UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF FLORIDA
+
+ 
+
+ 
+
+CASE NO.:
+SECURITIES AND EXCHANGE
+COMMISSION,
+Plaintiff,
+v.
+ALCATEL-LUCENT, S.A.,
+Defendant.
+COMPLAINT
+
+Plaintiff Securities and Exchange Commission alleges as follows:
+
+I. SUMMARY
+
+Page 1 of 24
+
+Ls From December 2001 through June 2006, Alcatel, S.A., now called Alcatel-
+
+Lucent, S.A. (âAlcatelâ or the âcompanyâ), through its subsidiaries and agents, violated the
+
+Foreign Corrupt Practices Act of 1977 (âFCPAâ) [15 U.S.C. Â§ 78dd-1] by paying more than $8
+
+million in bribes to foreign government officials. Alcatel made these payments to influence acts
+
+and decisions by these foreign government officials to obtain or retain business, with the
+
+knowledge and approval of certain management level personnel of the relevant Alcatel
+
+subsidiaries. Alcatel lacked sufficient internal controls to prevent or detect such improper
+
+payments, and improperly recorded the payments in its books and records.
+
+2. During this period, Alcatelâs agents and/or subsidiaries paid bribes to foreign
+
+government officials in several countries to obtain or retain business:
+Gase 1:10-cv-24620-XXXX Document 1 Entered on FLSD Docket 12/27/2010 Page 2 of 24
+
+Â¢ From December 2001 to October 2004, Alcatelâs agents and/or subsidiaries paid at least
+$7 million in bribes to government officials of Costa Rica to obtain or retain three
+contracts to provide telephone services in Costa Rica totaling approximately $303
+million.
+
+Â¢ From December 2002 to June 2006, Alcatelâs agents and/or subsidiaries paid bribes to
+government officials of Honduras to obtain or retain five telecommunications contracts
+totaling approximately $48 million.
+
+e From October 2003 to May 2004, Alcatelâs agents and/or subsidiaries paid bribes to
+government officials of Taiwan to obtain or retain a railway axle counting contract
+valued at approximately $27 million.
+
+e From October 2004 to February 2006, Alcatelâs agents and/or subsidiaries paid bribes to
+government officials of Malaysia to obtain or retain a telecommunications contract
+valued at approximately $85 million.
+
+3. All of these payments were undocumented or improperly recorded as consulting
+fees in the books of Alcatelâs subsidiaries, and then consolidated into Alcatelâs financial
+statements. A lax corporate control environment aided Alcatelâs improper conduct. Alcatel
+failed to detect or investigate numerous red flags suggesting that its business consultants were
+likely making illicit payments and gifts to government officials in these countries at the direction
+of certain Alcatel employees. The respective heads of several Alcatel subsidiaries and
+geographical regions, some of whom reported directly to Alcatelâs executive committee,
+authorized extremely high commission payments under circumstances in which they failed to
+
+determine whether such payments were, in part, to be funneled to government officials in
+Gase 1:10-cv-24620-XXXX Document 1 Entered on FLSD Docket 12/27/2010 Page 3 of 24
+
+violation of the FCPA. These high-level employees therefore knew, or were severely reckless in
+not knowing, that Alcatel paid bribes to foreign government officials.
+
+4. By making these payments, Alcatel violated the FCPA as incorporated into the
+federal securities laws as Sections 30A, 13(b)(2)(A), and 13(b)(2)(B) of the Securities Exchange
+Act of 1934 (âExchange Actâ), and also violated Section 13(b)(5) of the Exchange Act.
+
+5. Unless restrained and enjoined, Alcatel is reasonably likely to continue to engage
+
+in the acts and practices set forth in this complaint and in acts and practices of similar purport
+
+and object.
+Il. JURISDICTION AND VENUE
+6. This Court has jurisdiction over this action pursuant to Sections 21(d), 21(e), and
+
+27 of the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e), and 78aa].
+
+7. Personal jurisdiction and venue are appropriate in this Court under Section 27 of
+the Exchange Act [15 U.S.C. Â§Â§ 78aa].
+
+8. Alcatel, directly or indirectly, made use of the means or instrumentalities of
+interstate commerce, of the mails, or of the facilities of a national securities exchange in
+connection with the transactions, acts, practices, and courses of business alleged in this
+complaint.
+
+Il. DEFENDANT
+
+9. Alcatel-Lucent, S.A. (âAlcatelâ), formerly known as Alcatel, S.A., a French
+corporation headquartered in Paris, France, is one of the worldâs largest providers of
+telecommunications equipment and services, with more than 75,000 employees in 140 countries,
+including the United States. Until November 30, 2006, Alcatelâs American Depository Receipts
+
+(âADRsâ) were registered with the Commission pursuant to Exchange Act Section 12(b) and
+Gase 1:10-cv-24620-XXXX Document 1 Entered on FLSD Docket 12/27/2010 Page 4 of 24
+
+traded on the New York Stock Exchange (âNYSEâ). As such, during the time the relevant
+conduct occurred, Alcatel was required to file reports with the Commission under Section 13 of
+the Exchange Act [15 U.S.C. Â§ 78m], and was an âissuerâ within the meaning of the FCPA [15
+US.C. Â§ 78dd-1]. Alcatel conducted its commercial transactions through its subsidiaries,
+including Alcatel CIT, S.A. and Alcatel SEL, AG. On November 30, 2006, an Alcatel subsidiary
+merged with Lucent Technologies Inc. in the United States and Alcatel changed its name to
+Alcatel-Lucent, S.A. After the merger, the companyâs shares were traded on the Paris Euronext
+exchange and as ADRs on the NYSE.
+IV. RELATED ENTITIES
+
+10. Alcatel CIT, S.A., now known as Alcatel-Lucent France, S.A., a wholly-owned
+subsidiary of Alcatel in France, sold telephone technology and networks to telecommunications
+providers owned by foreign governments, including the governments of Costa Rica, Honduras,
+and Malaysia, and paid Alcatelâs business consultants in those countries. Alcatel CITâs financial
+results were included in the consolidated financial statements that Alcatel filed with the
+Commission. Alcatel CIT maintained a bank account at ABN Amro Bank in New York, NY,
+which was used, in part, to pay business consultants located around the world.
+
+11. Alcatel Standard A.G., a wholly-owned subsidiary of Alcatel in Switzerland that
+in 2007 was merged into Alcatel-Lucent Trade International A.G., entered into most agreements
+with business consultants worldwide on behalf of Alcatel CIT and other Alcatel entities,
+including the agreements that are referenced in this complaint.
+
+12. Alcatel de Costa Rica S.A., now known as Alcatel Centroamerica S.A., a
+wholly-owned subsidiary of Alcatel in Costa Rica, was responsible for the day-to-day
+
+commercial operations of Alcatel in Costa Rica and Honduras. Throughout the relevant time
+Gase 1:10-cv-24620-XXXX Document 1 Entered on FLSD Docket 12/27/2010 Page 5 of 24
+
+period, Alcatel de Costa Ricaâs financial results were included in the consolidated financial
+statements that Alcatel filed with the Commission.
+
+13. Alcatel SEL, A.G., now known as Alcatel-Lucent Deutschland A.G., a wholly-
+owned subsidiary of Alcatel in Germany, participated in bidding for railway projects in Taiwan.
+Throughout the relevant time period, Alcatel SELâs financial results were included in the
+consolidated financial statements that Alcatel filed with the Commission.
+
+14. Alcatel Malaysia, a majority-owned subsidiary of Alcatel in Malaysia, was
+responsible for the day-to-day commercial operations of Alcatel in Malaysia. Alcatel currently
+owns 51% of its shares. Two private local entities own the remaining shares. Alcatel Malaysiaâs
+financial results were consolidated in the financial statements Alcatel filed with the Commission.
+
+V. FACTS
+
+15. Alcatel, the parent issuer, was run by an executive committee made up of very
+senior officers, including the CEO and CFO, and a handful of support staff. Alcatel itself did not
+conduct actual business with any customer. Starting in the 1990s, Alcatel utilized a consistent
+strategy to obtain contracts in many parts of the world, under which Alcatel typically used a
+subsidiary in the country to obtain contracts. The subsidiaryâs âcountry senior officerâ managed
+the subsidiary and selected business consultants purportedly to provide sales, marketing, and
+technical support and, in some cases, to lobby government officials to obtain public contracts in
+that country.
+
+16. Alcatel used Alcatel Standard to conduct very limited due diligence on the
+business consultants. The country senior officer then prepared a cursory description of the
+services the business consultants would perform and the compensation they would receive.
+
+Based on the limited information provided to them, the heads of Alcatel Standard, of the
+Gase 1:10-cv-24620-XXXX Document 1 Entered on FLSD Docket 12/27/2010 Page 6 of 24
+
+subsidiary with the customer contract (Alcatel CIT for most of the agreements that are referenced
+in this complaint), and of various geographical regions all approved the retention of the
+consultants.
+
+17. After having obtained all necessary approvals for the retention of the business
+consultant, Alcatel Standard entered into an agreement with the consultant, usually requiring the
+consultant to perform vaguely-described marketing services. The subsidiary with the customer
+contract (Alcatel CIT for most of the agreements that are referenced in this complaint) typically
+paid the consultants, usually after it had successfully obtained and executed contracts with the
+government to sell telecommunications services and equipment. In every bribery scheme
+described in this complaint, the respective heads of the relevant subsidiaries and geographic
+regions either were aware of, or ignored, significant red flags that indicated that the respective
+country senior officers and other Alcatel employees were using business consultants to pay
+bribes to foreign government officials.
+
+18. Alcatelâs internal controls over payments to its business consultants in foreign
+countries were weak at best. Although at some point Alcatel utilized more than 235 business
+consultants in more than 70 countries, the employees responsible for reviewing due diligence
+reports on the companyâs business consultants sometimes did not speak the language in which
+these reports were written, and had little or no understanding of these consultantsâ background or
+the tasks they purportedly performed.
+
+19. | While Alcatel had a company-wide FCPA training program, Alcatelâs employees
+routinely disregarded or circumvented it. For example, a former high-level employee and the
+president of Alcatel Standard trained country senior officers, including those who conducted
+
+business in Latin America and Taiwan, on how to âpaperâ consulting agreements so that Alcatel
+Gase 1:10-cv-24620-XXXX Document 1 Entered on FLSD Docket 12/27/2010 Page 7 of 24
+
+Standard would authorize them. The controls Alcatel had in place were insufficient to prevent
+bribery because Alcatel employees either disregarded or circumvented them by providing
+incomplete and inaccurate information to those involved in the review process. Finally, although
+Alcatel had a risk assessment committee, it typically focused on issues that were likely to result
+in customer lawsuits and not on bribery or excessive commissions to business consultants.
+
+A. The Costa Rica Bribery Scheme
+
+20. From December 2001 to October 2004, Alcatel bribed government officials in
+Costa Rica to obtain telecommunications contracts valued at approximately $303 million.
+
+21. The Instituto Costarricense de Electricidad (the âICEâ) is the Costa Rican
+government-owned company that provides telecommunications services, evaluates bids, and
+awards telecommunications contracts in Costa Rica. The ICE was governed by a seven-member
+board of directors that evaluated and approved, on behalf of the government of Costa Rica, all
+bid proposals submitted by telecommunications companies. The Board of Directors was led by
+an Executive President, who was appointed by the President of Costa Rica. The other members
+of the Board of Directors were appointed by the President of Costa Rica and the Costa Rican
+governing cabinet.
+
+22. Prior to 2001, Alcatel CIT was not able to secure mobile telecommunications
+contracts from the ICE. Among other things, the ICE was using a different technology from the
+GSM technology Alcatel CIT was offering. In late 2000, Edgar Valverde, at the time the
+President and Country Senior Officer of Alcatel de Costa Rica, and Christian Sapsizian, Alcatel
+CITâs Director for Latin America from February 1996 until October 2004, enlisted two Costa
+Rican consulting companies with many contacts at the ICE (âCosta Rican Consultant Aâ and
+
+âCosta Rican Consultant Bâ) to assist Alcatel in obtaining mobile telecommunications contracts.
+Gase 1:10-cv-24620-XXXX Document 1 Entered on FLSD Docket 12/27/2010 Page 8 of 24
+
+Valverde and Sapsizian hired the consultants in part to bribe officials in the government of Costa
+Rica in exchange for telecommunications contracts.
+
+23.  Valverdeâs brother-in-law owned and controlled Costa Rican Consultant A.
+However, Valverde intentionally omitted this fact from the company profile he prepared and
+submitted to Alcatel Standard. Alcatel Standard failed to conduct adequate due diligence on
+Costa Rican Consultant A and, therefore, never identified its registered shareholders and ultimate
+beneficial owner.
+
+24. In November 2000, prior to a formal vote by the ICE Board of Directors,
+Sapsizian and Valverde offered a bribe to an ICE director (âICE Director Aâ) to be paid through
+Costa Rican Consultant A. Specifically, they offered him 1.5% to 2% of the value of a contract
+to develop a GSM mobile network in Costa Rica and provide 400,000 lines of mobile telephone
+service (the â400K GSM Contractâ). The bribe was in exchange for his assistance in opening a
+bid round for a GSM-based mobile network and to assist Alcatel CIT in obtaining contracts from
+the ICE. With ICE Director Aâs hired influence, the ICE Board formally voted to open a bid
+round for developing a mobile network in Costa Rica using the GSM technology.
+
+25. On June 12, 2001, in part because of ICE Director Aâs assistance, the ICE
+awarded Alcatel CIT a contract, valued at approximately $44 million, to supply equipment for
+the ICE fixed network. On August 28, 2001, in part because of ICE Director Aâs assistance, the
+ICE awarded Alcatel CIT a second contract, the 400K GSM Contract, which gave Alcatel CIT
+100% of all new mobile lines installed in Costa Rica and 50% of all existing mobile lines. The
+contract was valued at approximately $149.5 million. In May 2002, in part because of ICE
+Director Aâs assistance, the ICE awarded Alcatel CIT a third contract, for the expansion of the
+
+fixed telephone lines central stations, valued at approximately $109.4 million.
+Gase 1:10-cv-24620-XXXX Document 1 Entered on FLSD Docket 12/27/2010 Page 9 of 24
+
+26. From March 2001 to March 2003, Alcatel Standard, on behalf of Alcatel CIT,
+executed at least five consulting agreements with Costa Rican Consultant A, in which Alcatel
+CIT promised to pay up to 9.75% of the value of any contract it assisted Alcatel CIT in obtaining
+with the ICE - a much higher commission rate than normally awarded to such a consultant. In
+return, the consulting agreements required Costa Rican Consultant A to perform vaguely-
+described marketing and advisory services. Costa Rican Consultant A created invoices
+purportedly for commissions related to the contracts awarded to Alcatel CIT. It then submitted
+those invoices, through Valverde, to Alcatel CIT.
+
+27. Starting in December 2001, after the ICE awarded Alcatel its first two contracts,
+and continuing until October 2003, Alcatel CIT transferred from its account at ABN Amro Bank
+in New York approximately $14.5 million to an account at the International Bank of Miami in
+Miami, Florida, to be further credited to Costa Rican Consultant Aâs account at Cuscatlan
+Intemational Bank in Costa Rica. This $14.5 million fee bore no relation to actual services Costa
+Rican Consultant A provided. In reality, it was to be used largely to pay bribes to government
+officials. Costa Rican Consultant A used at least $7 million of that money to pay officials of the
+government of Costa Rica for assisting Alcatel CIT in obtaining and retaining business in Costa
+
+Rica, including:
+
+ 
+
+Position Approximate Amount of Bribe
+
+ 
+
+ICE Director A $2.56 million in addition to certificates of
+deposit totaling $100,000
+
+ 
+
+High-ranking executive branch official $950,000 received through ICE Director A
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ICE CEO $945,000
+ICE Administrator $145,000
+ICE Administrator $110,000
+
+ 
+Gase 1:10-cv-24620-XXXX Document1 Entered on FLSD Docket 12/27/2010 Page 10 of 24
+
+ 
+
+Presidential Candidate $100,000
+
+ 
+
+ICE Director B $1.3 million
+
+ 
+
+Party leader in Congress for the Social
+Christian Unity Party $550,000
+
+ 
+
+ 
+
+ 
+
+ 
+
+28. Similarly, from March 2001 to December 2002, Alcatel Standard, on behalf of
+Alcatel CIT, executed at least four consulting agreements with Costa Rican Consultant B to
+assist Alcatel in obtaining telecommunications contracts in Costa Rica. The agreements required
+Costa Rican Consultant B to perform vaguely-described advisory services. Costa Rican
+Consultant B then created phony invoices, purportedly for commissions related to the contracts
+awarded to Alcatel, and submitted those invoices to Alcatel CIT. As with Costa Rican
+Consultant A, Alcatel authorized Costa Rican Consultant B to receive a much higher commission
+rate on certain projects than normally awarded to such a consultant.
+
+29. Alcatel CIT transferred from its account at ABN Amro Bank in New York
+approximately $3.9 million to Costa Rican Consultant B. This fee also bore no relation to actual
+services Costa Rican Consultant B provided and was also to be used to pay bribes to government
+officials. Costa Rican Consultant B paid officials of the government of Costa Rica, including at
+least $930,000 to ICE director C from December 2002 until June 2004.
+
+30. The President of Area 1, which encompassed Latin America, worked in Alcatelâs
+Miami office between 2000 and 2003 (and directly reported to a member of Alcatelâs executive
+committee). This individual approved the payments to the Costa Rican consultants, despite their
+high amounts. On several occasions, this individual stated that he could go to jail if authorities
+
+in France or the United States uncovered where these payments were actually going.
+
+10
+Gase 1:10-cv-24620-XXXX Document1 Entered on FLSD Docket 12/27/2010 Page 11 of 24
+
+31. The president of Alcatel Standard, who also held the title of Director of
+International Affairs and reported to Alcatelâs controller, also approved the retention of and
+payment to these consultants despite numerous red flags that should have alerted him that these
+payments were unlawful, such as the large size of the commissions and the fact that Alcatel CIT
+already had two other consultants in such a small country as Costa Rica.
+
+32. Some of the key Alcatel employees who were responsible for reviewing progress
+reports on the companyâs consultants in Costa Rica did not speak Spanish and, therefore, could
+not understand the reports that contained information about the work these consultants
+purportedly performed. As a result, they relied on Sapsizian to translate documents and assure
+them that the consultants in question were doing the work they were engaged to do.
+
+33. Sapsizian also approved the payment of approximately $25,000 in expenses
+incurred by ICE officials during a trip to Paris in October 2003 while Alcatel CIT was attempting
+to obtain an extension of a fixed network contract in Costa Rica. He instructed an Alcatel CIT
+employee to pay for some of these expenses in cash to conceal the payments and avoid leaving a
+paper trail leading to Alcatel. All of these payments were intended to reward these government
+officials for providing Alcatel CIT with lucrative contracts.
+
+34. All of these officials were âforeign officialsâ within the meaning of the FCPA and
+were in a significant position to influence the policy decisions the ICE made.
+
+B. The Honduras Bribery Scheme
+
+35. From December 2002 to June 2006, Alcatel bribed government officials in
+Honduras to obtain or retain at least five telecommunications contracts valued at approximately
+
+$48 million.
+
+11
+Gase 1:10-cv-24620-XXXX Document 1 Entered on FLSD Docket 12/27/2010 Page 12 of 24
+
+36. In February 2002, in Key Biscayne, Florida, Sapsizian and another Alcatel CIT
+employee met with the brother of a high-ranking executive branch official in the government of
+Honduras to discuss how the brothers and Alcatel could assist each other. Sapsizian participated
+in this meeting to make sure the brothers understood that Alcatelâs upper management in France
+supported any promise made to them. The executive branch officialâs brother requested that
+Alcatel retain a specific consulting company in Honduras (âHonduran Consultantâ).
+
+37. Later in 2002, Alcatel CIT informally retained the Honduran Consultant and
+promised to pay it commissions of 3% to 5% of the value of certain contracts Alcatel CIT
+secured in Honduras. The Honduran Consultant represented perfume and cosmetics companies
+in Honduras and operated as an exclusive distributor of brand name fragrances. The Honduran
+Consultant had no contacts in, or prior experience with, the telecommunications industry in
+Honduras. The executive branch officialâs brother controlled the Honduran Consultant and
+Alcatel CITâs sole purpose for retaining this consultant was to gain access to the high-ranking
+executive branch official and influence the decisions of the Empresa Hondurefia de
+Telecomunicaciones (âHondutelââ), the Honduran government-owned telecommunications
+provider responsible for awarding and administering public tenders for telecommunications
+contracts in Honduras.
+
+38. As a result of Alcatelâs agreement to retain and pay the Honduran Consultant,
+there was significant pressure on Hondutel, and on the senior government officials sitting on its
+Board of Directors, to keep Alcatel CIT and another Alcatel subsidiary as the contractors on five
+contracts which were awarded from 2002 through 2003, worth a total of about $48 million, in
+spite of significant failures in performance that could have resulted in termination under the
+
+terms of the agreement. These contracts included a $2.36 million contract signed on November
+
+12
+Gase 1:10-cv-24620-XXXX Document1 Entered on FLSD Docket 12/27/2010 Page 13 of 24
+
+12, 2002; a $17.92 million contract signed on May 12, 2003; a $7.91 million contract signed on
+October 27, 2003; a $2.49 million contract signed on December 6, 2003, and a $17.39 million
+contract signed on December 12, 2003. At least one of these contracts was never presented to
+the public and was awarded directly to Alcatel.
+
+39. Alcatel Standard did not memorialize its agreement with the Honduran Consultant
+until October 2003, after Hondutel had already awarded two contracts to Alcatel CIT, at which
+time it formally retained the Honduran Consultant to perform vaguely-described marketing and
+advisory services. At that time, Alcatel Standard memorialized its agreement to pay the
+Honduran Consultant commissions of 3% to 5% of the value of certain contracts Alcatel CIT and
+another Alcatel subsidiary secured in Honduras.
+
+40. Alcatel Standard knew, or was reckless in not knowing, that the Honduran
+Consultant was a conduit to pay bribes. Alcatel Standard failed to conduct adequate due
+diligence about the Honduran Consultant and did not uncover its relationship with the high-
+ranking executive branch official, despite a number of red flags. First, the Honduran Consultant
+was a perfume distributor with no experience in telecommunications. Second, the executive
+branch officialâs brother regularly communicated with Alcatel employees via an e-mail address
+from a domain name affiliated with the executive branch official and his family. Third, at some
+point in late 2003, the executive branch official and his brother directly contacted the President
+of Area 1 in an effort to collect sales commissions Alcatel purportedly owed to the Honduran
+Consultant. Finally, the President of Area 1 was aware of the relationship between the Honduran
+Consultant and the executive branch officialâs brother, and personally met with the executive
+
+branch official to discuss Alcatelâs expansion in Honduras.
+
+13
+Gase 1:10-cv-24620-XXXX Document 1 Entered on FLSD Docket 12/27/2010 Page 14 of 24
+
+41. Following efforts by the high-ranking executive branch official and his brother to
+pressure Alcatel to pay the Honduran Consultant, Alcatel paid $704,388 to the Honduran
+Consultant between September 2004 and June 2006. The President of Area 1 allowed these
+payments despite knowing that the Honduran Consultant was a perfume distributor controlled by
+the brother of the executive branch official. Although the press widely covered the bribery
+scheme in Costa Rica beginning in October 2004, and Alcatelâs executive committee knew at
+that time that Sapsizian and Valverde paid bribes at the highest level of the Costa Rican
+government using sham consultants, Alcatel took no steps to terminate the Honduran Consultant
+and Alcatel CIT continued to make these illicit payments until June 2006. Although it is
+unknown whether the Honduran Consultant shared this money with the executive branch official,
+Sapsizian had every expectation that money Alcatel paid to the Honduran Consultant would flow
+to the executive branch official.
+
+42. Alcatel CIT also paid for Hondutelâs general manager and his wife to travel to
+Europe in June 2003 and for his daughter to travel to Europe in 2004, without any legitimate
+business purposes. Alcatel CIT also paid for the president of Conatel, the Honduran government
+agency that regulated the telecommunications sector in Honduras, who had close ties to the
+executive branch official, to travel to various conferences, including in Paris, France in July 2003
+and in Cannes, France in December 2004. Finally, Alcatel CIT paid for a Hondutel attorney and
+her daughter to travel to Paris in June 2003, a trip which consisted almost entirely of leisure
+activities and featured a private driver. In March 2004, Alcatel CIT also paid $1,500 to this
+Hondutel attorney.
+
+43. All of these officials were âforeign officialsâ within the meaning of the FCPA and
+
+were in a significant position to influence the policy decisions Hondutel made.
+
+14
+Gase 1:10-cv-24620-XXXX Document 1 Entered on FLSD Docket 12/27/2010 Page 15 of 24
+
+Cc. The Taiwan Bribery Scheme
+
+44. From October 2003 to May 2004, Alcatel bribed government officials in Taiwan
+to obtain a railway axle counting contract valued at approximately $27 million.
+
+45. A senior Alcatel employee, at the time Director of International Business and
+Sales at Alcatel SEL AG, an Alcatel subsidiary, (âAlcatel SEL employeeâ) hired two consultants
+in Taiwan (âTaiwanese Consultant Aâ and âTaiwanese Consultant Bâ) in 2000 and 2002,
+respectively. Both consultants possessed close ties to legislators in the Taiwanese government.
+
+46. The Alcatel SEL employee hired Taiwanese Consultant A in 2000 to pressure the
+Taiwan Railway Administration (the âTRAâ) to act in Alcatelâs favor in the bid process. The
+TRA, a Taiwanese government-owned authority, was responsible for awarding and
+administering public tenders for contracts to manufacture and install axle counting systems to
+facilitate rail traffic in Taiwan. The TRA was an agency of Taiwanâs Ministry of Transportation
+and Communications, a cabinet-level governmental body responsible for the regulation of
+transportation and communications networks and operations.
+
+47. As with most consultants hired by Alcatel, Taiwanese Consultant A entered into a
+consulting agreement with Alcatel Standard. In the course of its due diligence, Alcatel Standard
+repeatedly requested more information concerning Taiwanese Consultant A from Alcatel SEL.
+Although Alcatel SEL only provided limited information about Taiwanese Consultant A, Alcatel
+Standard circumvented its own procedures and approved the consulting agreement.
+Additionally, the Alcatel SEL employee subsequently amended this agreement to increase
+Taiwanese Consultant Aâs compensation, without following Alcatelâs procedure for the
+
+amendment of consulting agreements.
+
+15
+Gase 1:10-cv-24620-XXXX Document1 Entered on FLSD Docket 12/27/2010 Page 16 of 24
+
+48. In May 2004, Alcatel SEL paid a commission of approximately $920,000 to
+Taiwanese Consultant A through its account at ABN Amro Bank in New York. At various
+times, Taiwanese Consultant A paid bribes to two Taiwanese legislators, Legislator A and
+Legislator B.
+
+49. Legislator A assisted Alcatel in convincing the TRA that Alcatel SELâs system
+satisfied the technical requirements of the tenders. He also publicly supported Alcatel SELâs bid
+and provided advice to Alcatel SEL concerning its TRA documents. Legislator B, in turn, was
+requested to alter the TRAâs technical specifications to improve Alcatel SELâs bidding chances.
+Although it is unclear how much of Alcatel SELâs $920,000 eventually flowed to foreign
+government officials, the owner of Taiwanese Consultant A promised $180,000 in campaign
+funds for Legislator Bâs 2004 election and paid him at least $90,000 in 2004, after Alcatel SELâs
+affiliate won the bid.
+
+50. The Alcatel SEL employee and Taiwanese Consultant A also spent approximately
+$10,000 to arrange trips to Germany in October 2003 for the secretary to the Taiwan
+Transportation and Communications Minister, and in 2002 for an assistant in the office of
+Legislator A. Both trips were for personal, entertainment purposes, and the secretary to the
+Taiwan Transportation and Communications Minister invited his ex-wife at Alcatelâs expense.
+Alcatel SEL paid for the hotel directly and reimbursed the Alcatel SEL employee for travel
+expenses, including train tickets, taxis, lavish meals, and small gifts. Alcatel SELâs management
+in Germany knew of and approved reimbursement of many of these expenses.
+
+51. | Without Alcatel Standardâs approval, the Alcatel SEL employee hired Taiwanese
+Consultant B in 2002, because its owner was the brother of another Taiwanese legislator,
+
+Legislator C. To bribe Legislator C, the Alcatel SEL employee and others created a phony
+
+16
+Gase 1:10-cv-24620-XXXX Document1 Entered on FLSD Docket 12/27/2010 Page 17 of 24
+
+consulting agreement between an Alcatel affiliate and Taiwanese Consultant B, even though
+Taiwanese Consultant B was never expected to provide any services to Alcatel or its affiliate.
+An Alcatel affiliate paid approximately $36,000 to Taiwanese Consultant B in 2004.
+
+52. Legislators A, B, and C were âforeign officialsâ within the meaning of the FCPA
+and were in a significant position to influence the policy decisions the TRA made.
+
+53. The fees Alcatel SEL and Alcatelâs affiliate paid to Taiwanese Consultant A and
+Taiwanese Consultant B, respectively, bore no relation to actual services these entities provided
+to Alcatel.
+
+54. On December 30, 2003, the TRA accepted an Alcatel affiliateâs price bid and
+granted the affiliate a supply contract worth approximately $27 million.
+
+D. The Malaysia Bribery Scheme
+
+55. From October 2004 to February 2006, Alcatel bribed government officials in
+Malaysia to obtain confidential information relating to a public tender that Alcatel ultimately
+won, the result of which yielded a telecommunications contract valued at approximately $85
+million.
+
+56. Telekom Malaysia is the Malaysian government-owned telecommunications
+company that provides telecommunications services, evaluates bids, and awards
+telecommunications contracts in Malaysia. The Malaysian Ministry of Finance owned
+approximately 43% of Telekom Malaysiaâs shares, had veto power over all its major
+expenditures, and made its key operational decisions. The government owned its interest in
+Telekom Malaysia through the Minister of Finance, who had the status of a âspecial
+
+shareholder.â Most senior Telekom Malaysia officers were political appointees, including the
+
+17
+Gase 1:10-cv-24620-XXXX Document1 Entered on FLSD Docket 12/27/2010 Page 18 of 24
+
+Chairman and Director, the Chairman of the Board of the Tender Committee, and the Executive
+Director.
+
+57. Between October 2004 and February 2006, Alcatel Malaysia personnel paid
+bribes to employees of Telekom Malaysia in exchange for non-public information. This non-
+public information included important documents and budget information relating to ongoing
+bids and competitor pricing information. Alcatel Malaysiaâs management consented to these
+payments.
+
+58. These bribes assisted Alcatel Malaysia in obtaining a contract with a potential
+value of $85 million.
+
+59. | The Telekom Malaysia employees who received bribes were âforeign officialsâ
+within the meaning of the FCPA and were in a significant position to influence the policy
+decisions Telekom Malaysia made.
+
+60. Alcatel Standard also made significant lump-sum payments through U.S. bank
+accounts to two consultants (âMalaysian Consultant Aâ and âMalaysian Consultant Bâ),
+purportedly for market research.
+
+61. Alcatel Standard paid $200,000 to Malaysian Consultant A in 2005 for a series of
+âmarket reportsâ describing conditions in the Malaysian telecommunications market. Similarly,
+Alcatel Standard paid $500,000 to Malaysian Consultant B in 2005 for a âstrategic intelligence
+report.â
+
+62. However, the work product these consultants prepared could not justify the size of
+Alcatel Standardâs payments. In fact, Malaysian Consultant A and Malaysian Consultant B did
+
+not appear to render any legitimate services to Alcatel Malaysia in connection with these
+
+payments.
+
+18
+Gase 1:10-cv-24620-XXXX Document1 Entered on FLSD Docket 12/27/2010 Page 19 of 24
+
+63. These consultants also worked for Alcatel Malaysia before formal agreements
+were finalized and executed, under what they called âgentlemenâs agreements,â which required
+that consulting agreements be entered into retroactively. This process allowed consultants to
+work for Alcatel Malaysia without being properly vetted through Alcatel Standardâs due
+diligence process.
+
+E. Alcatel Employed U.S. Means to Engage in Bribery
+
+64. Alcatel made bribe payments directly or indirectly to foreign government officials
+in connection with numerous projects involving business in Costa Rica, Honduras, Taiwan, and
+Malaysia, including using the mails and other means and instrumentalities of United States
+interstate commerce. The use of interstate commerce in connection with bribery included
+making illegal payments through United States banks; conducting meetings in the United States
+in furtherance of a bribery scheme; signing or approving sham consulting agreements in the
+United States to conceal the bribery scheme; and transmitting mail, electronic mail, and facsimile
+messages in and out of the United States.
+
+F. Alcatel Failed to Maintain Its Books and Records
+
+65. Alcatel made numerous payments to third parties in ways that obscured the
+purpose for, and the ultimate recipients of, the payments. In particular, Alcatel CIT and Alcatel
+SEL together paid more than $8 million in bribes to foreign government officials. Doing so
+involved the falsification of Alcatelâs books and records by employees throughout the company
+(including at Alcatel CIT, Alcatel Standard, Alcatel SEL, and Alcatel Malaysia). Specifically,
+Alcatel failed to keep accurate books and records by (1) entering into consulting agreements
+retroactively; (2) establishing and using a system of intermediaries to obscure the source and
+
+destination of funds; (3) making payments pursuant to business consulting agreements that
+
+19
+Gase 1:10-cv-24620-XXXX Document1 Entered on FLSD Docket 12/27/2010 Page 20 of 24
+
+inaccurately described the services provided; (4) generating false invoices and other false
+documents to justify payments; (5) disbursing funds in cash with inaccurate documentation
+authorizing or supporting the withdrawals; (6) recording illicit payments as legitimate consulting
+fees; and (7) recording bribes as payment for legitimate services.
+
+G. Alcatel Failed to Maintain Adequate Internal Controls
+
+66. Alcatel failed to implement adequate internal controls to comply with the
+companyâs NYSE listing, including the detection and prevention of violations of the FCPA.
+First, Alcatel and/or its subsidiaries falsified books and records, entered into agreements
+retroactively, and obscured the purpose for, and ultimate recipient of, illicit payments. Alcatel
+used business consultants and intermediaries to funnel bribes in at least four countries. Alcatel
+created and used false invoices and payment documentation under business consulting
+agreements that described services that were never intended to be rendered. Illicit payments
+were falsely recorded as expenses for consulting fees.
+
+67. Second, Alcatel also routinely circumvented the internal controls the company
+had in place. Although the company in theory had a policy of âchecks and balancesâ to
+authorize the retention of business consultants, which required several signatures to approve the
+retention of, and payment to, business consultants, Alcatel employees often violated that policy.
+In numerous instances, Alcatel officials responsible for reviewing due diligence reports on
+consultants failed to conduct any review of the documents or could not read the language in
+which the documents were written. Alcatel employees also entered into agreements retroactively
+and obscured the amounts paid to business consultants by splitting the payments among separate
+agreements (to conceal the high commissions Alcatel paid). Finally, Alcatel Standardâs due
+
+diligence on business consultants was inadequate, and Alcatel CIT often paid business
+
+20
+Gase 1:10-cv-24620-XXXX Document1 Entered on FLSD Docket 12/27/2010 Page 21 of 24
+
+consultants without adequate proof of services rendered. Alcatel CIT failed to establish robust
+controls over cash disbursements, allowed manual payments without documentation, and
+Alcatelâs FCPA compliance function was understaffed and lacked: independence. Alcatel also
+failed to conduct thorough anti-bribery and corruption training.
+CLAIMS FOR RELIEF
+FIRST COUNT.
+Violations of Section 30A of the Exchange Act
+
+68. The Commission realleges and incorporates by reference Paragraphs 1 through
+67.
+
+69. As described above, Alcatel, through its officers, agents, subsidiaries, and
+affiliates, corruptly offered, promised to pay, or authorized illicit payments to a person, while
+knowing that all or a portion of those payments would be offered, given, or promised, directly or
+indirectly, to foreign officials for the purposes of influencing their acts or decisions in their
+official capacity, inducing them to do or omit to do actions in violation of their lawful duties,
+securing an improper advantage, or inducing such foreign officials to use their influence with a
+foreign government or instrumentality thereof to assist Alcatel in obtaining or retaining business.
+
+70. By reason of the foregoing, Alcatel violated the anti-bribery provisions of the
+FCPA, as codified at Section 30A of the Exchange Act [15 U.S.C. Â§78dd-1].
+
+SECOND COUNT
+Violations of Section 13(b)(2)(A) of the Exchange Act
+71. The Commission realleges and incorporates by reference Paragraphs 1 through
+
+67.
+
+21
+Gase 1:10-cv-24620-XXXX Document1 Entered on FLSD Docket 12/27/2010 Page 22 of 24
+
+72. As described above, Alcatel, through its officers, agents, subsidiaries, and
+affiliates, failed to make and keep books, records, and accounts which, in reasonable detail,
+accurately and fairly reflected its transactions and dispositions of its assets.
+
+73.  Byreason of the foregoing, Alcatel violated the books-and-records provisions of
+the FCPA, as codified at Section 13(b)(2)(A) of the Exchange Act [15 U.S.C. Â§78m(b)(2)(A)].
+
+THIRD COUNT
+Violations of Section 13(b)(2)(B) of the Exchange Act
+
+74. The Commission realleges and incorporates by reference Paragraphs 1 through
+67.
+
+75. As described above, with respect to improper payments to foreign officials,
+Alcatel, through its officers, agents, subsidiaries, and affiliates, failed to devise and maintain a
+system of internal accounting controls sufficient to provide reasonable assurances that: (i)
+payments were made in accordance with managementâs general or specific authorization; and (ii)
+payments were recorded as necessary to permit preparation of financial statements in conformity
+with generally accepted accounting principles or any other criteria applicable to such statements,
+and to maintain accountability for its assets.
+
+76. By reason of the foregoing, Alcatel violated the internal accounting controls
+provisions of the FCPA, as codified at Section 13(b)(2)(B) of the Exchange Act [15 U.S.C.
+
+Â§78m(b)(2)(B)].
+
+22
+Gase 1:10-cv-24620-XXXX Document1 Entered on FLSD Docket 12/27/2010 Page 23 of 24
+
+FOURTH COUNT
+Violations of Section 13(b)(5) of the Exchange Act
+77. The Commission realleges and incorporates by reference Paragraphs 1 through
+
+67.
+
+78. By engaging in the conduct described above, Alcatel, through its officers, agents,
+subsidiaries, and affiliates, knowingly failed to devise and maintain a system of internal
+accounting controls sufficient to provide reasonable assurance that transactions were recorded in
+its books and records in accordance with Section 13(b)(2)(A) of the Exchange Act.
+
+79. Alcatel also falsified, or caused to be falsified, its books and records.
+
+80. By reason of the foregoing, Alcatel violated Section 13(b)(5) of the Exchange Act
+[15 U.S.C. Â§ 78m(b)(5)].
+
+VIL. PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court enter a judgment:
+
+A. Permanently enjoining Alcatel from violating Sections 30A, 13(b)(2)(A),
+13(b)(2)(B), and 13(b)(5) of the Exchange Act [15 U.S.C. Â§Â§ 78dd-1, 78m(b)(2)(A) and (B), and
+78m(b)(5)]; and
+
+B. Ordering Alcatel to disgorge ill-gotten gains, with prejudgment interest,
+wrongfully obtained as a result of its illegal conduct.
+
+Cc. Granting such further relief as the Court may deem just and appropriate.
+
+23
+Gase 1:10-cv-24620-XXXX Document 1
+
+Dated: December\\Y , 2010
+
+Entered on FLSD Docket 12/27/2010 Page 24 of 24
+
+Respectfully submitted,
+
+Robert K. Levenson X
+
+Florida Bar No. 0089771
+
+Regional Trial Counsel
+
+USS. Securities and Exchange Commission
+801 Brickell Avenue, Suite 1800
+
+Miami, Florida 33131
+
+(305) 982-6341 (direct dial)
+
+(305) 536-4154 (facsimile)
+levensonr@sec.gov
+
+Thierry Olivier Desmet
+
+Florida Bar No. 0143863
+
+Assistant Regional Director, FCPA Unit
+US. Securities and Exchange Commission
+801 Brickell Avenue, Suite 1800
+
+Miami, Florida 33131
+
+(305) 982-6374 (direct dial)
+
+Emesto Palacios
+
+Florida Bar No. 0529168
+
+Senior Counsel, FCPA Unit
+
+US. Securities and Exchange Commission
+801 Brickell Avenue, Suite 1800
+
+Miami, Florida 33131
+
+(305) 982-6306 (direct dial)
+
+24

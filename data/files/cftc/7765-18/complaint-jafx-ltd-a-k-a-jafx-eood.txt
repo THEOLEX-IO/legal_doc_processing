@@ -1,0 +1,563 @@
+Case 2:)18-cv-G0598-CW Bocument2 Filed Q7/27/18 Page 1 of 15
+
+ae
+
+Timothy J. Mulreany
+Chief Trial Attorney
+tmulreany@cftc.gov
+Maryland Bar No.: 8812160123
+Attomey for Plaintiff
+Commodity Futures Trading Commission
+1155 21st Street, N.W.
+Washington, DC
+(202) 418-5306
+IN THE UNITED STATES DISTRICT COURT
+DISTRICT OF UTAH, CENTRAL DIVISION
+
+COMMODITY FUTURES TRADING
+
+COMMISSION,
+Case No.; 2:18-cv-00598
+Plaintiff,
+COMPLAINT FOR PERMANENT
+v INJUNCTION, CIVIL MONETARY
+: PENALTIES, AND OTHER ANCILLARY
+JAFX, LTD. aka JAFX, EOOD, | AND EQUITABLE RELIEF
+Defendant.
+
+ 
+
+Plaintiff, Commodity Futures Trading Commission (âCommissionâ or âCFTCâ), by its
+
+attorneys, alleges as follows:
+
+I. SUMMARY
+
+L. Beginning in at least September 2016 and continuing to the present (the ârelevant
+periodâ), JAFX, Ltd. aka JAFX, EOOD (âJAFXâ or âDefendantââ), an offshore company
+claiming to operate from St. Vincent and the Grenadines and Bulgaria, using the website
+http://www. JAFX.com (âwebsiteâ) and videos on http://www. YouTube.com (âYouTubeâ), is, or
+has offered to be, the counterparty to leveraged, retail foreign currency (ââforexââ) transactions for
+
+customers located in the United States who are not Eligible Contract Participants (âECPsââ),
+ 
+
+<<<<<<< HEAD:data/future/files/cftc/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
+without being registered with the Commission as a retail foreign exchange dealer (âRFEDâ), in
+violation of Section 2(c)(2)(C)(iii)(1)(aa) of the Commodity Exchange Act (âAct or CEAâ),
+7USS.C. Â§ 2(c)(2)(C)(11)(D(aa) (2012), and Commission Regulation (âRegulationâ) 5.3(a)(6)(i),
+17 C.F.R. Â§ 5.3(a)(6)(@) (2017).
+
+2. Throughout the relevant period, each time JAFX opened an account for a retail
+forex customer to engage in retail forex transactions, it failed to provide each retail forex
+customer with a written âRisk Disclosure Statement,â in violation of Regulation 5.5, 17 C.F.R. Â§
+5.5 (2017). |
+
+3. By virtue of this conduct and the further conduct described herein, JAFX has
+engaged, is engaging, or is about to engage in acts and practices in violation of the Act, 7 U.S.C.
+Â§Â§ 1-26 (2012), and the Regulations, 17 C.F.R. pts. 1-190 (2017).
+=======
+without being registered with the Commission as a retail foreign exchange dealer (“RFED”), in
+violations of Section 2(c)(2)(C)(iii)(1)(aa) of the Commodity Exchange Act (“Act or CEA”),
+7USS.C. § 2(c)(2)(C)(11)(D(aa) (2012), and Commission Regulation (“Regulation”) 5.3(a)(6)(i),
+17 C.F.R. § 5.3(a)(6)(@) (2017).
+
+2. Throughout the relevant period, each time JAFX opened an account for a retail
+forex customer to engage in retail forex transactions, it failed to provide each retail forex
+customer with a written “Risk Disclosure Statement,” in violations of Regulation 5.5, 17 C.F.R. §
+5.5 (2017). |
+
+3. By virtue of this conduct and the further conduct described herein, JAFX has
+engaged, is engaging, or is about to engage in acts and practices in violations of the Act, 7 U.S.C.
+§§ 1-26 (2012), and the Regulations, 17 C.F.R. pts. 1-190 (2017).
+>>>>>>> fix_datapoint:data/cftc_next_step/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
+
+4. Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), and
+7 U.S.C. Â§ 2(c)(2)(C), the Commission brings this action to enjoin JAFXâs unlawful acts and
+practices and to compel its compliance with the Act and the Regulations and to further enjoin
+JAFX from engaging in certain commodity or forex-related activity, including soliciting or
+accepting orders from U.S. customers and offering to be the counterparty to customersâ forex
+transactions without appropriate registration with the Commission and opening accounts without
+the required disclosure statements.
+
+5. In addition, the Commission seeks civil monetary penalties and remedial ancillary
+relief including, but not limited to, trading and registration bans, restitution, disgorgement,
+rescission, pre- and post-judgment interest, and such other relief as the Court may deem
+
+necessary and appropriate.
+ 
+
+Case 2:18-cv-00598-COW Document ec OF Page 3 of 15
+6. Unless restrained and enjoined by this Court, JAFX likely will continue to engage
+
+in the acts and practices alleged in this Complaint and similar acts and practices, as more fully
+
+described below.
+
+I. JURISDICTION AND VENUE
+
+7. This Court has jurisdiction over this action under 28 U.S.C. Â§ 1331 (2012)
+(federal question jurisdiction) and 28 U.S.C. Â§ 1345 (2012) (providing that U.S. district courts
+have original jurisdiction over civil actions commenced by the United States or by any agency
+expressly authorized to sue by Act of Congress). In addition, Section 6c(a) of the Act, 7 U.S.C.
+
+Â§ 13a-1(a) (2012), provides that the Commission may bring actions for injunctive relief or
+enforce compliance with the Act in the proper district court of the United States whenever it shall
+appear to the Commission that such person has engaged, is engaging, or is about to engage in
+any act or practice constituting a violations of any provision of the Act or any rule, regulation, or
+order thereunder.
+
+8. The Commission also has jurisdiction over the conduct and transactions at issue in
+this case pursuant to Sections 2(c)(2)(C) of the Act, 7 U.S.C. Â§Â§ 2(c)(2)(C) (2012).
+
+9. Venue properly lies with the Court pursuant to 7 U.S.C. Â§ 13a-1(e) because JAFX
+transacts business in this District and certain transactions, acts, practices, and courses of business
+
+alleged in this Complaint occurred, are occurring, and/or are about to occur within this District.
+
+Ill. PARTIES
+
+10. Plaintiff Commodity Futures Trading Commission is an independent federal
+regulatory agency charged by Congress with the administration and enforcement of the Act and
+
+the Regulations.
+ 
+
+11. Defendant JAFX, Ltd. aka JAFX EOOD, is a Bulgarian company licensed to do
+business in St. Vincent and the Grenadines. It uses as a business address The Financial Services
+Centre, Stoney Ground, Kingstown, St. Vincent and the Grenadines, and also purports to have a
+business address in Bulgaria at Sofia 1463, Triaditsa District, Prestige Business Center, 49
+Patriarch Evtimii, 4th floor, Bulgaria. JAFX has never been registered with the Commission in
+any capacity.
+
+IV. STATUTORY BACKGROUND
+
+12. â Section 2(c)(2)(C)(iii) (D(a) of the Act, 7 U.S.C. Â§ 2(c)(2)(C)Gii)(D(aa) (2012),
+prohibits any person, unless registered with the Commission in such capacity as the Commission
+by rule, regulation, or order shall determine, from soliciting and accepting from retail customers
+orders for transactions in forex offered on a leveraged or margined basis that do not result in
+actual delivery and do not create an enforceable obligation to deliver between a seller and a
+buyer who have the ability to deliver and accept delivery.
+
+13. | The Act defines an ECP, in relevant part, as an individual with total assets in
+excess of: (i) $10 million, or (ii) $5 million and who enters the transaction âto manage the risk
+associated with an asset owned or liability incurred, or reasonably likely to be owned or incurred,
+by the individual.â CEA Â§1a(18)(xi), 7 U.S.C. Â§ 1a(18)(xi). Individuals who do not meet these
+criteria are non-ECPs. JAFXâs customers are typically non-ECPsâ1.e., retail customers.
+
+14. The Regulations define an RFED, in relevant part, as any person that is, or offers
+to be, the counterparty to a retail forex transaction. Regulation 5.1(h)(1), 17 C.F.R. Â§ 5.1(h)(1)
+
+(2017).
+Case 2:18-cv-00598-CW Document 2 Flecd Ov/27/18 Page 5 of LS
+15. The Regulations define a retail forex transaction as any account, agreement,
+
+contract or transaction described in 7 U.S.C. Â§ 2(c)(2)(B), or Â§ 2(c)(2)(C). 17 C.F.R. Â§ 5.1(m).
+A retail forex transaction does not include an account, agreement, contract or transaction in forex
+that is a contract of sale of a commodity for future delivery (or an option thereon) that is
+
+executed, traded on or otherwise subject to the rules of a contract market designated pursuant to
+
+Section 5(a) of the Act, 7 U.S.C. Â§ 5(a) (2012). Jd.
+
+V. FACTS
+A. JAFXâs Operations
+16. | JAFX solicits orders from U.S. customers who are not ECPs to open leveraged,
+
+retail forex trading accounts through JAFXâs website as well as videos on YouTube, where
+JAFX is, or offers to be, the counterparty to each leveraged, retail forex transaction. Customers
+are directed to open trading accounts by submitting an online account application through
+JAFXâs website. JAFX encourages customers to access and trade their accounts via a mobile
+application (âappâ), stating on the JAFX website: âClients are able to access all trading tools on
+the go with our 10S/Android mobile trading app. Trade anywhere and anytime.â While the
+website contains language noting that the solicitations are ânot directed at U.S. customers,â there
+is nothing in the online account application stating JAFX does not accept U.S. customers, nor are
+U.S. customers prevented from opening accounts. The application process contains a drop-down
+menu of companies from which JAFX accepts customers; the first country listed is the âUnited
+States.ââ U.S. customers may open an account with JAFX with as little as $100 USD.
+
+17. JAFXâs online account application does not seek any information about
+
+prospective customersâ ability to send or receive actual delivery of forex or customersâ business
+ 
+
+need for forex. JAFXâs online account application does not inquire as to whether a prospective
+customer is an ECP or about a prospective customerâs savings and investments. The online
+account application does not inquire if a prospective customer has assets in excess of $5 million,
+nor does it inquire if the prospective customer is seeking to trade forex to manage the risk of an
+asset or liability already owned, or about to be owned, by the prospective customer.
+
+18. During the relevant period, JAFX solicited and accepted funds and orders from
+non-ECP, U.S. resident customers to trade leveraged forex contracts, for which JAFX acted as
+the counterparty to each retail forex transaction. While JAFXâs website states, in part: âAll
+information on this website is not directed towards soliciting citizens or residents of the United
+States and the United Kingdom,â this is nothing more than a poor attempt to evade U.S.
+regulatory requirements. That JAFX actively seeks U.S. customers is demonstrated by other
+aspects of its website which provides a âU.S. toll free number,â and the fact that it has accepted
+thousands of applications from U.S. customers. In addition, the âfrequently asked questionsâ or
+FAQ section of the website does not list the U.S. under the section titled: âââWhat countries are
+restricted from using JAFX.â
+
+19. In addition, nowhere on JAFXâs online application does it solicit information
+concerning whether prospective customers are ECPs, and it fails to inquire whether a prospective
+customer has the ability or the business need to accept foreign currency into his or her bank
+account. In the FAQ portion its website, JAFX advises customers:
+
+Once your documents are fully verified it is time to fund your
+landing account. A JAFX landing account is where you can store
+funds before you distribute them into your trading accounts. Funds
+
+in the landing account cannot be traded unless you move them to a
+trading account.
+Case 2:18-cv-00598-OQW Document2 Fed Ov/27fls Page 7 of is
+20. | JAFX permits U.S. and international customers to fund forex trading accounts
+
+using wire transfer, Skrill,' credit/debit cards, and/or Bitcoin. To create a trading account,
+prospective customers are directed to âclick on the âMy Accountsâ tab in the JAFX Portal and
+click on âAdd USD Accountâ.â Moreover, the default setting for JAFXâs funding trading
+accounts is United States dollars (âUSDâ).
+
+21. Once a customer has funded a trading account, JAFX allows customers to link
+their trading account to as many accounts traded by third-party account managers as the
+customer desires:
+
+Once you have successfully deposited into your âLanding Accountâ
+you will eligible to create as many managed accounts as you wish.
+A JAFX managed account will give you the ability to follow JAFX
+Third Parties. You will need to create a separate Managed
+Account for each EA or third party that you wish to follow giving
+you the ability to spread your funds across programs.
+
+22. JAFXâs online account application does not require that the customer state
+whether or not the customer has the ability to deliver and accept delivery in connection with the
+customerâs lines of business, which is one of the prerequisites to qualify as an ECP. In fact, with
+leveraged, retail forex accounts being offered for as little as $100 USD, JAFX is specifically
+soliciting customers that typically could never qualify as ECPs.
+
+23. | JAFX neither advises actual and prospective U.S. customers in its solicitations to
+that JAFX is required to be registered with the Commission as an RFED, nor does JAFX advise
+
+actual and prospective customers that it is acting unlawfully by operating as a RFED in the U.S.
+
+without such registration. In the FAQ section of the website, JAFX appears to acknowledge its
+
+ 
+
+' An online payment and money transfer service offering, inter alia, international money transfers. See
+www.skrill.com.
+unlawful conduct by stating: âJAFX is currently not regulated. Regulation takes a very long
+time to setup and we are in the process of applying for regulation.â As of the date of the filing of
+this Complaint, JAFX has not filed for registration with the Commission.
+
+24. JAFX determines the maximum and minimum trade size for all trades it offers to
+customers, and determines the amount of leverage it offers customers. JAFX advises its
+customers in the FAQ section of its website that: âThe minimum trade size is 0.01 Lotâ and
+âThe maximum trade size of (sic) 1,000 Lots.â JAFX further advises customers under the FAQ
+section of its website titled, âWhat is the maximum leverage JAFX offers?,â that the maximum
+leverage JAFX offers clients is 1:500. This means that a customer can increase its trading
+position by buying or selling up to 500 times the amount of funds the customer invested. Thus,
+for example, a JAFX customer may trade up to $500,000 notional value in foreign currencies
+with a $1,000 deposit, and a customer with $10,000 invested may trade up to $5,000,000 in
+foreign currencies. This high degree of leverage means that even a small price movement can
+produce large losses in relation to the customerâs initial deposit and can result in customers
+rapidly losing their funds and being unable to ever recover from a losing trade.
+
+25. | JAFXâs forex contracts neither result in delivery within two days nor create an
+enforceable obligation to deliver between a seller and a buyer who have the ability to deliver and
+accept delivery, respectively, in connection with their lines of business. Rather, these forex
+contracts are ultimately offset without anyone making or taking delivery of actual currency (or
+facing an obligation to do so).
+
+26. Each of the retail forex transactions offered by JAFX are the type of accounts,
+
+agreements, contracts or transactions described in Section 2(c)(2)(B) or 2(c)(2)(C) of the Act,
+ 
+
+7 U.S.C. Â§ 2(c)(2)(B), (C) (2012). None of the transactions in forex offered by JAFX is a
+contract of sale of a commodity for future delivery (or an option thereon) that is executed, traded
+on or otherwise subject to the rules of a contract market designated pursuant to Section 5(a) of
+the Act, 7 U.S.C. Â§ 5(a) (2012). Therefore, each transaction offered by JAFX is a retail forex
+transaction.
+
+27. JAFXâs ââterms and conditions,â which are set forth in its website, further
+confirms that JAFX agrees to act as an RFED by agreeing to âprovide services to Customer in
+connection with the purchase and sale of over-the counter margin based [forex] trading
+contractsâ and by noting that âCustomer hereby acknowledges and agrees that JAFX may act as
+the counterparty to Customer for any trade entered for the undersignedâs Account.â Thus, JAFX
+is an RFED, and has been acting as an RFED, because it is, and has offered to be, the
+counterparty to U.S. customersâ retail forex transactions.
+
+28. JAFX is not exempt from the requirement to register with the Commission as an
+RFED.
+
+B. Mandatory Disclosure Statement to Retail Forex Customers
+29. Regulation 5.5, 17 C.F.R. Â§ 5.5 (2017), prohibits RFEDs from opening a retail
+forex account unless they first furnish customers with a written disclosure statement that
+provides certain mandated information specified in 17 C.F.R. Â§ 5.5 concerning forex trading
+and receive back from the customer a signed acknowledgment that the customer received and
+understood the disclosure statement.
+30. Atno time during the relevant period has JAFX provided this disclosure statement
+
+to its U.S. retail forex customers.
+Mase 2:18-cv-00598-CQWÂ¥ Document 2 Filed 07/27/18 Page 1D af 15
+
+VI. STATUTORY AND REGULATORY violations
+COUNT ONE
+Operating as an Unregistered Foreign Exchange Dealer in
+<<<<<<< HEAD:data/future/files/cftc/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
+VIOLATION OF SECTION 2(c)(2)(C)(iii)(D(aa) OF THE ACT, 7 U.S.C.
+Â§ 2(c)(2)(C) ii) (aa) (2012), AND REGULATION 5.3(a)(6)(i),
+17 C.F.R. Â§ 5.3(a)(6)(B) (2017)
+=======
+violations OF SECTION 2(c)(2)(C)(iii)(D(aa) OF THE ACT, 7 U.S.C.
+§ 2(c)(2)(C) ii) (aa) (2012), AND REGULATION 5.3(a)(6)(i),
+17 C.F.R. § 5.3(a)(6)(B) (2017)
+>>>>>>> fix_datapoint:data/cftc_next_step/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
+
+31. The allegations set forth in the foregoing paragraphs are re-alleged and
+incorporated herein.
+
+32. Section 2(c)(2)(C)(iii)(D(aa) of the Act, 7 U.S.C. Â§ 2(c)(2)(C) (ii) (D(aa) (2012),
+prohibits any person or entity from soliciting or accepting from non-ECPs orders for leveraged or
+margined forex transactions if such person or entity is not registered in such capacity as the
+Commission shall determine.
+
+33. Pursuant to Regulation 5.3(a)(6)(i), 17 C.F.R. Â§ 5.3(a)(6)(i) (2017), persons or
+entities who offer to be or are the counterparty to leveraged or margined forex transactions with
+U.S. customers who are non-ECPs, are required to be registered with the Commission as retail
+foreign exchange dealers.
+
+34. | Throughout the relevant period, JAFX solicited or accepted orders from U.S.
+resident non-ECPs in connection with leveraged or margined forex transactions and is or offers
+to be the counterparty to the forex transactions. JAFX engages in this conduct without being
+registered as an RFED. By this conduct, JAFX is violating 7 U.S.C. Â§ 2(c)(2)(C)(1)(D(aa) and
+17 C.F.R. Â§ 5.3(a)(6)(i).
+
+35. Each day that JAFX engaged in this conduct since at least September 1, 2016, to
+
+<<<<<<< HEAD:data/future/files/cftc/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
+the present is alleged as a separate and distinct violation of 7 U.S.C. Â§ 2(c)(2)(C)(ii)()(aa) and
+=======
+the present is alleged as a separate and distinct violations of 7 U.S.C. § 2(c)(2)(C)(ii)()(aa) and
+>>>>>>> fix_datapoint:data/cftc_next_step/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
+
+17 CE.R. Â§ 5.3(a)(6)(i).
+
+-10-
+   
+
+COUNT TWO
+
+Failure To Provide Disclosure Statement in
+<<<<<<< HEAD:data/future/files/cftc/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
+VIOLATION OF COMMISSION REGULATION 5.5, 17 C.F.R. Â§ 5.5 (2017)
+=======
+violations OF COMMISSION REGULATION 5.5, 17 C.F.R. § 5.5 (2017)
+>>>>>>> fix_datapoint:data/cftc_next_step/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
+
+36. The allegations set forth in the foregoing paragraphs are re-alleged and
+incorporated herein.
+
+37... Regulation 5.5, 17 C.F.R. Â§ 5.5 (2017), prohibits RFEDs from opening any forex
+account for retail customer unless the RFED first provides the customer with a written disclosure
+statement that includes the following information: -
+
+(a) for each of the most recent four calendar quarters during which the
+counterparty maintained retail forex acounts:
+
+(i) the total number of non-discretionary retail forex customer
+accounts maintained by the retail foreign exchange dealer;
+
+(ii) the percentage of accounts that were profitable during the equarter;
+and
+
+(iii) the percentage of such accounts that were not profitable during the
+quarter.
+
+(b) a Risk Disclosure Statement warning of the financial losses that can inccur
+using leverage, conflicts of interests and other risks. Specifically, RFEDs
+must disclose in writing, in all capital letters, that:
+
+(i) the RFEDâs trading is not on a regulated market or exchange and
+customersâ funds have no regulatory protection;
+
+(ii) because of leverage and other risks, customers can rapidly lose all
+of their funds;
+
+(ili) | the RFED, if serving as the counterparty, has a direct financial
+conflict of interest with the customer because when the customer
+loses money trading, the counterparty dealer is making money on
+such trades;
+
+(iv) | the RFED may commingle customersâ funds with its own
+operating funds or use them for other purposes; and
+
+-|]-
+   
+
+(v) in the event that the RFED becomes bankrupt, funds the dealer is
+holding for customers, in addition to funds owed to customers
+whether or not any assets are maintained in separate deposit
+accounts by the dealer, may be treated as an unsecured creditorâs
+claim.
+
+38. 17 C.F.R. Â§ 5.5 also requires that the RFED receives back from the retail forex
+customer a signed and dated acknowledgement that thÃ© customer received and understood the
+disclosure statement.
+
+39. JAFX did not provide its U.S. retail forex customers with a disclosure statement
+that comports with these requirements. Therefore, JAFX violated, and continues to violate
+17 C.F.R. Â§ 5.5, each time it accepts a U.S. customer.
+
+40. Each retail forex account that JAFX opened during the Relevant Period without
+providing customers with a written disclosure statement that includes the information required by
+
+<<<<<<< HEAD:data/future/files/cftc/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
+17 C.F.R. Â§ 5.5 is alleged as a separate and distinct violation of 17 C.F.R. Â§ 5.5.
+=======
+17 C.F.R. § 5.5 is alleged as a separate and distinct violations of 17 C.F.R. § 5.5.
+>>>>>>> fix_datapoint:data/cftc_next_step/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
+
+VU.
+
+RELIEF REQUESTED
+WHEREFORE, the Commission respectfully requests that the Court, as
+
+authorized by Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), and pursuant to its own equitable
+powers, enter:
+
+A. A finding that Defendant violated Section 2(c)(2)(C)(iii)(D(aa) of the Act,
+7TUS.C. Â§ 2(c)(2)(C)ii)(D (aa) (2012), and Regulations 5.3(a)(6)(i) and 5.5, 17 C.F.R.
+Â§Â§ 5.3(a)(6)(i), 5.5 (2017);
+
+B. An order of permanent injunction enjoining Defendant and any other person or
+
+entity associated with it, including but not limited to affiliates, agents, servants, employees,
+
+~[2-
+   
+
+assigns, attorneys and all persons in active concert or participation with Defendant, including any
+
+successor thereof, from:
+
+ii.
+
+iii.
+
+iv.
+
+vi.
+
+Vii.
+
+<<<<<<< HEAD:data/future/files/cftc/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
+Engaging, directly or indirectly, in conduct in violation of 7 U.S.C. Â§
+2(c)(2)(C) (Gui) (D(aa, and 17 C.F.R. Â§Â§ 5.3(a)(6)(i), 5.5 (2017);
+=======
+Engaging, directly or indirectly, in conduct in violations of 7 U.S.C. §
+2(c)(2)(C) (Gui) (D(aa, and 17 C.F.R. §§ 5.3(a)(6)(i), 5.5 (2017);
+>>>>>>> fix_datapoint:data/cftc_next_step/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
+
+Trading on or subject to the rules of any registered entity (as that term is
+defined in Section 1a(40) of the Act, 7 U.S.C. Â§ 1a(40) (2012));
+
+Entering into any transactions involving âcommodity interestsâ (as that
+term is defined in Regulation 1.3, 17 C.F.R. Â§ 1.3 (2017, as amended by
+83 Fed. Reg. 7979, 7980 (Feb. 23, 2018)), for their own personal
+account(s) or for any account in which Defendants have a direct or indirect
+interest;
+
+Having any commodity interests traded on Defendantâs behalf;
+Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account
+involving commodity interests;
+
+Soliciting, receiving, or accepting any funds from any person for the
+purpose of purchasing or selling any commodity interests;
+
+Applying for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the Commission, except
+as provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2017);
+
+and/or
+
+-13-
+   
+
+viii. Acting as a principal (as that term is defined in Regulation 3.1(a),
+17 C.F.R. Â§ 3.1(a) (2017)), agent, or any other officer or employee of any
+person (as that term is defined in 7 U.S.C. Â§ 1a(38)), registered, exempted
+from registration, or required to be registered with the Commission
+(except as provided for in 17 C.F.R. Â§ 4.14(a)(9) (2017));
+
+C. An order directing Defendant to pay a civil monetary penalty, to be assessed by
+the Court, in an amount not to exceed the penalty prescribed by Section 6c(d)(1) of the Act,
+TUS.C. Â§ 13a-1(4)(1) (2012), as adjusted for inflation pursuant to the Federal Civil Penalties
+Inflation Adjustment Act Improvements Act of 2015, Pub. L. 114-74, 129 Stat. 584 (2015), title
+<<<<<<< HEAD:data/future/files/cftc/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
+VII, Section 701, see Regulation 143.8, 17 C.F.R. Â§ 143.8 (2018), for each violation of the Act
+=======
+VII, Section 701, see Regulation 143.8, 17 C.F.R. § 143.8 (2018), for each violations of the Act
+>>>>>>> fix_datapoint:data/cftc_next_step/7765-18/complaint-jafx-ltd-a-k-a-jafx-eood.txt
+and Regulations, as described herein;
+
+D. An order directing Defendant, as well as any successors thereof, to disgorge,
+pursuant to such procedure as the Court may order, all benefits received including, but not
+limited to, trading profits, revenues, salaries, commissions, fees, or loans derived directly or
+indirectly from acts or practices which constitute violations of the Act and Regulations, as
+described herein, and pre- and post-judgment interest thereon from the date of such violations;
+
+E. An order directing Defendant, as well as any successors thereof, to make full
+restitution, pursuant to such procedure as the Court may order, to every customer and investor
+whose funds Defendant received, or caused another person or entity to receive, as a result of the
+acts and practices constituting violations of the Act and Regulations, as described herein, and
+
+pre- and post-judgment interest thereon from the date of such violations;
+
+~]4-
+Mase 2:18-cv-00598-CW Document 2 Filed O7/27/18 Page 15 of 15
+
+F. An order directing Defendant, as well as any successors thereof, to rescind,
+pursuant to such procedure as the Court may order, all contracts and agreements, whether
+express or implied, entered into between, with, or among Defendant and any customer or
+investor whose funds were received by Defendant as a result of the acts and practices which
+constituted violations of the Act and the Regulations, as described herein;
+
+G. An order directing that Defendant, and any successors thereof, make an
+accounting to the Court of all of its assets and liabilities, together with all funds it received from
+and paid to investors and other persons in connection with commodity transactions and all
+disbursements for any purpose whatsoever of funds received from commodity transactions,
+including salaries, commissions, interest, fees, loans, and other disbursement of money or
+property of any kind during the relevant period to the date of such accounting;
+
+H. An order requiring Defendant and any successors thereof to pay costs and fees as
+
+permitted by 28 U.S.C. Â§Â§ 1920 and 2412(a)(2) (2012); and,
+
+I. An order providing such other and further relief as the Court deems proper.
+Dated: July27 2018 Respectfully submitted,
+COMMODITY FUTURES TRADING
+COMMISSION
+
+/s/ Timothy J. Mulreany
+Timothy J. Mulreany
+
+Chief Trial Attorney
+
+Maryland Bar No.: 8812160123
+tmulreany@cftc.gov
+
+Attorney for Plaintiff
+
+Commodity Futures Trading Commission
+1155 21st Street, N.W.
+
+Washington, DC
+
+(202) 418-5306
+
+(202) 418-5538 (fax)
+
+-15-

@@ -1,0 +1,172 @@
+Release Number 7505-16
+
+> " _ a
+
+i
+r=] a
+a, ey
+
+a
+
+  
+
+December 21, 2016
+
+CFTC Orders Goldman Sachs to Pay $120 Million Penalty for Attempted Manipulation of
+and False Reporting of U.S. Dollar ISDAFIX Benchmark Swap Rates
+
+Todayâs Action Is the CFTCâs Third Enforcement Action for the
+Attempted Manipulation and False Reporting of ISDAFIX Benchmark
+Rates
+
+Washington, DC - The U.S. Commodity Futures Trading Commission (CFTC) issued an Order today filing and settling
+charges against The Goldman Sachs Group, Inc., and Goldman, Sachs & Co. (collectively, Goldman or the Bank).
+The Order finds that, beginning in January 2007 and continuing through March 2012 (the Relevant Period), Goldman
+attempted, by and through certain of its traders in New York, on many occasions to manipulate and made false reports
+concerning the U.S. Dollar International Swaps and Derivatives Association Fix (USD ISDAFIX), a global benchmark for
+interest rate products. Goldmanâs unlawful conduct involved multiple traders, including the head of Goldmanâs Interest
+Rate Products Trading Group in the United States, according to the CFTC Order.
+
+The CFTC Order requires Goldman to pay a $120 million civil monetary penalty, cease and desist from further violations
+as charged, and take specified remedial steps, including measures 1) to detect and deter trading intended to manipulate
+swap rates such as USD ISDAFIX, 2) to ensure the integrity and reliability of the Bankâs benchmark submissions, and 3) to
+improve related internal controls. The Order also requires the current supervisor responsible for oversight of various
+United States interest-rate trading desks at Goldman to provide a certification as to, among other things, the
+effectiveness of the internal controls and procedures undertaken and implemented by Goldman as a result of this
+settlement.
+
+âThis matter, the third enforcement action relating to the ISDAFIX benchmark, demonstrates the breadth of this kind of
+misconduct across the industry, and within Goldman, the extent of the misconduct across trading desks and product
+lines,â commented Aitan Goelman, the CFTCâs Director of Enforcement. Mr. Goelman further commented that âthe
+Division will continue to be vigilant and aggressive in protecting the integrity of the ISDAFIX and other important
+benchmarks relied upon by the markets.â
+
+Goldman, through its traders, bid, offered, and executed transactions in interest rate swap spreads, U.S. Treasuries, and
+Eurodollar futures contracts in a manner deliberately designedâin timing, price, and other respectsâto influence the
+published USD ISDAFIX in order to benefit the Bank in its derivatives positions, according to the Order. In addition,
+Goldman, through its employees making the Bankâs USD ISDAFIX submissions, also attempted to manipulate and made
+false reports concerning USD ISDAFIX by skewing the Bankâs submissions in order to benefit the Bank at the expense of
+its derivatives counterparties and clients.
+
+USD ISDAFIX
+
+ISDAFIX rates and spreads are among the leading benchmarks for interest rate swaps and related derivatives, indicating
+the prevailing, daily market rate for the fixed leg of a standard fixed-for-floating interest rate swap in various currencies.
+USD ISDAFIX rates and spreads are published daily (now under a different name and methodology) for various maturities
+of U.S. Dollar-denominated swaps. The USD ISDAFIX rate is used for valuing cash settlement of options on interest rate
+swaps, or swaptions, and as a valuation tool for a wide range of products across financial markets. For example, during
+the Relevant Period, USD ISDAFIX was used in settlement of exchange-traded interest rate swap futures contracts and as
+a component in the calculation of various constant maturity swaps, spreadlocks, proprietary interest rate indexes, and
+other structured products. Many parties, including pension funds and local and state governments in the United States,
+rely on such instruments based on USD ISDAFIX to hedge against changes in interest rates.
+
+During the Relevant Period, USD ISDAFIX was set each day in a process that began at exactly 11:00 a.m. Eastern Time
+with the capture and recording of swap rates and spreads from a U.S.-based unit of a leading interest rate swaps broking
+firm, which disseminated the rates and spreads captured in this 11:00 a.m. âsnapshot,â âfix,â or âprintââas it was
+referred to by traders and brokersâto a panel of banks including Goldman. The banks then made submissions to indicate
+where they would each bid or offer interest rate swaps to a dealer of good credit.
+
+Goldmanâs Unlawful Conduct to Benefit Derivatives Positions
+
+As found in the Order, Goldman attempted to manipulate USD ISDAFIX through its trading at the 11:00 a.m. fixing as well
+as by skewing the Bankâs submissions, in order to benefit a range of derivatives positions held by Goldman that were
+priced or valued against the USD ISDAFIX benchmark.
+Goldman traders bid, offered, and executed transactions of swap spreads, U.S. Treasuries, and Eurodollar futures
+contracts at the critical 11:00 a.m. fixing time with the intent to affect the âprint,â i.e., the reference rates captured at
+11:00 a.m. and sent to submitting banks, and thereby to affect the published USD ISDAFIX. As captured in emails and
+audio recordings, when Goldman had derivatives positions settling or pricing against USD ISDAFIX, Goldman traders
+discussed their intent to move USD ISDAFIX in whichever direction benefitted their positions. Goldman traders stated
+their manipulative goals in plain language, such as directing their swap broker to âspend what you need, but make SURE
+we get the print,â and even objected when their attempts to manipulate were not performed as inexpensively as
+possible, such as when the former head of Goldmanâs swap trading desk complained, âI should control the screen without
+having to given [sic] some loser another [trade].â
+
+Among themselves, Goldman traders described trades based on the manipulated USD ISDAFIX as being based on the
+âjacked price,â aS opposed to the âfair priceâ; remarked that other Goldman traders had âgamed the fixâ in order to
+benefit related positions; and strategized how best to extract the âhigher valueâ of USD ISDAFIX cash settlements against
+customers who lacked Goldmanâs view, as a major swap dealer, into the USD ISDAFIX setting process.
+
+To complement these efforts, as found in the Order, on many occasions during the Relevant Period, Goldman traders
+made USD ISDAFIX submissions higher or lower for the purpose of benefitting derivative positions priced or valued
+against the benchmark. As the Order finds, these submissions by Goldman were false, misleading, or knowingly
+inaccurate because they did not report where Goldman would itself bid and offer swaps absent a desire to manipulate the
+USD ISDAFIX, but rather reflected prices that were more favorable to the Bankâs specific derivatives positions.
+
+The Order describes multiple examples of each of these strategies for attempted manipulation and false reporting by
+Goldman traders during the Relevant Period.
+
+The Order notes that prior to the latter stages of the Divisionâs investigation, Goldmanâs cooperation was not satisfactory.
+Goldman did not make certain productions as expeditiously as the Division expected and initially failed to produce
+certain communications and documents that were potentially relevant to identifying misconduct. The Order recognizes
+that Goldman took remedial action to improve internal controls and policies related to ISDAFIX and its successor
+benchmark.
+
+The CFTC thanks and acknowledges the assistance of the U.K. Financial Conduct Authority and the Newark, New Jersey
+Field Office of the Federal Bureau of Investigation.
+
+CFTC Division of Enforcement staff members responsible for this case are Candice Aloisi, Gates S. Hurand, Trevor Kokal,
+David W. MacGregor, Chad E. Silverman (former staff), K. Brent Tomer, Lenel Hickson, Jr., and Manal M. Sultan.
+
+The following staff members also assisted in this case: Jason Fairbanks, Jordon Grimm, David C. Newman, David W.
+Oakland, Mark A. Picard, and James G. Wheaton.
+
+* KKK *K
+
+With Todayâs Actions, the CFTC Has Imposed over $5.2 Billion in Penalties in 18 Actions against Banks and
+Brokers to Address ISDAFIX, FX, and LIBOR Benchmark Abuses
+
+The CFTC has imposed penalties of over $5.2 billion in its investigation of manipulation of global benchmark rates. Of
+this, over $1.8 billion in penalties has been imposed on six banks for misconduct relating to foreign exchange
+benchmarks, while over $3.3 billion has been imposed for misconduct relating to ISDAFIX, LIBOR, Euribor, and other
+interest rate benchmarks. Below is a summary of the CFTCâs actions:
+
+Foreign Exchange Benchmark Cases
+
+In re Barclays Bank PLC (May 20, 2015) ($400 million penalty) (CFTC Press Release 7181-15)
+
+In re Citibank, N.A. (November 11, 2014) ($310 million penalty) (CFTC Press Release 7056-14)
+
+In re JPMorgan Chase Bank, N.A. (November 11, 2014) ($310 million penalty) (CFTC Press Release 7056-14)
+
+In re The Royal Bank of Scotland pic (November 11, 2014) ($290 million penalty) (CFTC Press Release 7056-14)
+
+In re UBS AG (November 11, 2014) ($290 million penalty) (CFTC Press Release 7056-14)
+
+In re HSBC Bank plc (November 11, 2014) ($275 million penalty) (CFTC Press Release 7056-14)
+
+LIBOR Benchmark Cases
+
+In re Citibank, N.A., and affiliates (May 25, 2016) ($175 million penalty) (CFTC Press Release 7372-16)
+
+In re Deutsche Bank AG (April 23, 2015) ($800 million penalty) (CFTC Press Release 7159-15)
+
+In re UBS AG and UBS Securities Japan Co., Ltd. (December 19, 2012) ($700 million penalty) (CFTC Press Release 6472-
+12)
+
+In re Codperatieve Centrale Raiffeisen-Boerenleenbank B.A. (Rabobank) (October 29, 2013) ($475 million penalty) (CFTC
+Press Release 6752-13)
+
+In re The Royal Bank of Scotland plc and RBS Securities Japan Limited (February 6, 2013) ($325 million penalty) (CFTC
+Press Release 6510-13)
+In re Barclays PLC, Barclays Bank PLC, and Barclays Capital Inc. (June 27, 2012) ($200 million penalty) (CFTC Press
+Release 6289-12)
+
+In re Lloyds Banking Group plc and Lloyds Bank plc (July 28, 2014) ($105 million penalty) (CFTC Press Release 6966-14)
+In re ICAP Europe Limited (September 25, 2013) ($65 million penalty) (CFTC Press Release 6708-13)
+
+In re RP Martin Holdings Limited and Martin Brokers (UK) Ltd. (May 15, 2014) ($1.2 million penalty) (CFTC Press Release
+6930-14)
+
+ISDAFIX Benchmark Cases
+In re Citibank, N.A., (May 25, 2016) ($250 million penalty) (CFTC Press Release 7371-16)
+
+In re Barclays PLC, Barclays Bank PLC, and Barclays Capital Inc. (May 20, 2015) ($115 million penalty) (CFTC Press
+Release 7180-15)
+
+In re The Goldman Sachs Group, Inc., and Goldman, Sachs & Co., N.A. (December 21, 2016) ($120 million penalty)
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: December 21, 2016

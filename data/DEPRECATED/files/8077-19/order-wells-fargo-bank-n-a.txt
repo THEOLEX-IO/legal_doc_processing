@@ -1,0 +1,379 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+RECEIVED CFTC
+
+ 
+
+In the Matter of:
+
+Wells Fargo Bank, N.A.,
+CFTC Docket No. 20 — 08 Proceedings Clerk
+
+Respondent. 10:30 am, Nov 08, 2019
+
+ 
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL sanctions
+
+I, INTRODUCTION
+
+The Commodity Futures Trading Commission (“Commission”) has reason to
+believe that from August 2014 through May 2018 (the “Relevant Period”) Wells Fargo
+Bank, N.A. (‘Wells Fargo” or “Respondent”’) violated Section 4s(h)(1)(B) and (3)(C) of
+the Commodity Exchange Act (the “Act’), 7 U.S.C. § 6s(h)(1)(B), (3)(C) (2012), and
+Commission Regulations (“Regulation”) 23.402(a)(1)() and (2) and 23.433, 17 C.F.R. §§
+23.402(a)(1)(), (2), 23.433 (2019). Therefore, the Commission deems it appropriate and
+in the public interest that public administrative proceedings be, and hereby are, instituted
+to determine whether Respondent has engaged in the violations as set forth herein and to
+determine whether any order should be issued imposing remedial sanctions.
+
+In anticipation of the institution of this administrative proceeding, Respondent has
+submitted an Offer of Settlement (“Offer”), which the Commission has determined to
+accept. Without admitting or denying any of the findings and conclusions herein,
+Respondent consents to the entry of this Order Instituting Proceedings Pursuant to
+Section 6(c) and (d) of the Commodity Exchange Act, Making Findings, and Imposing
+Remedial sanctions (“Order”), and acknowledges service of this Order. '
+
+ 
+
+' Respondent consents to the use of the findings of fact and conclusions of law in this Order in this
+proceeding and in any other proceeding brought by the Commission or to which the Commission is a party
+or claimant, and agrees that they shall be taken as true and correct and be given preclusive effect therein,
+without further proof. Respondent does not consent, however, to the use of this Order, or the findings or
+conclusions herein, as the sole basis for any other proceeding brought by the Commission or to which the
+Commission is a party or claimant other than: a proceeding in bankruptcy or receivership; or a proceeding
+to enforce the terms of this Order. Respondent does not consent to the use of the Offer or this Order, or the
+findings or conclusions in this Order, by any other party in any other proceeding,
+I. FINDINGS
+The Commission finds the following:
+A. SUMMARY
+
+During the Relevant Period, Respondent entered into a foreign exchange (“FX”)
+forward contract with a counterparty to exchange USD $4 billion for CAD $4.347 billion.
+The forward contract settled in December 2014 and coincided with the closing date of the
+counterparty’s acquisition of a Canadian company. Respondent agreed with its
+counterparty that the four-month forward transaction for $4 billion USD/CAD would be
+priced at the weighted average spot rate, plus an adjustment, of the CAD Respondent
+acquired in the spot market on August 27, 2014. Respondent and the counterparty agreed
+to evenly split “the upside” from the trade if the average spot rate Respondent was able to
+execute exceeded a certain level.
+
+Respondent did not have a system in place to accurately track trades used to fill
+the counterparty’s order. Rather than calculate the agreed upon weighted average price—
+as represented by Respondent—Respondent instead picked a rate it believed would be in
+the range of the true weighted average and thus acceptable to the counterparty.
+Respondent also provided the counterparty with a spreadsheet that Respondent claimed
+calculated the true weighted average. However, the spreadsheet did not reflect actual
+trades on behalf of the counterparty because Respondent lacked the ability to track trades
+related to the counterparty’s transaction.
+
+Respondent also did not implement procedures designed to ensure that accurate
+information was provided to the counterparty. As a result of this failure, as well as the
+failure to track counterparty-related trades, Respondent provided misinformation to the
+counterparty regarding the timing of the accumulation of the spot CAD, the prices of the
+spot CAD trades that filled the order, when the order was ultimately filled, and whether
+Respondent profited from options related to the counterparty’s order. Respondent’s
+supervisory systems were inadequate to ensure implementation and monitoring of
+compliance with policies and procedures regarding communication with counterparties in
+a fair and balanced manner throughout the Relevant Period. Respondent failed to cure
+these deficiencies until May 2018.
+
+B. RESPONDENT
+
+Wells Fargo Bank, N.A. has its main office in Sioux Falls, South Dakota, and
+has been provisionally registered as a swap dealer (“SD”) since December 31, 2012.
+
+C. FACTS
+
+In 2014, Wells Fargo and one of its counterparties had discussions over the course
+of several months about Wells Fargo financing the counterparty’s acquisition of a
+Canadian company. The counterparty also inquired about a strategy for hedging its
+exposure to exchange rate fluctuations prior to closing its acquisition of the Canadian
+company.
+Bankers at Wells Fargo referred the counterparty to the FX team. Respondent and
+the counterparty ultimately entered into a four-month forward contract on August 27,
+2014, with a settlement price that would be based on the weighted average rate of CAD
+spot contracts that Respondent agreed to purchase on behalf of the counterparty on
+August 27, 2014.
+
+The parties also agreed to a pricing component that involved a “cap.” The cap
+would be determined from the spot price of CAD at the time Respondent commenced
+trading on August 27, plus a risk adjustment of fifty-five “pips.’” If the weighted average
+rate was above the price cap, the parties would split “the upside” equally. On the other
+hand, if the weighted average rate was below the cap, Respondent would assume the
+downside risk on the transaction.
+
+Respondent’s employees, including senior members of the FX management team,
+were aware that the deal required Respondent to provide a weighted average rate based
+on actual spot trades. However, as a result of not having an adequate trade tracking
+system in place, Respondent failed to record which trades were placed for the
+counterparty, and thus could not produce an accurate weighted average. Instead,
+Respondent provided the counterparty with a weighted average rate of 1.0851, which
+Respondent believed would be a good fill for the counterparty and which was within the
+general range of the true weighted average. A later reconstruction of the trading by
+Respondent revealed that the actual weighted average rate for the spot trades was closer
+to 1.08532, or 2.2 pips higher than the provided rate.
+
+The counterparty agreed to enter into the forward contract with Respondent at
+around 1:16 pm (EDT) on August 27. A short time later, Respondent informed the
+counterparty that spot trading had begun at 1:20 pm (EDT). However, Respondent had
+actually started spot trading CAD approximately two hours earlier, even before the
+counterparty had agreed to enter into the forward contract with Respondent. That trading
+was at a more favorable starting price than quoted to the counterparty and was used to fill —
+the counterparty’s order. Again, because Respondent’s trade tracking system was
+inadequate, none of this information was communicated to the counterparty.
+
+Respondent also failed to accurately communicate to the counterparty regarding
+when it had finished accumulating spot CAD. The last such communication occurred at
+approximately 3:00 pm (EDT) on August 27, 2014, when Respondent sent an e-mail to
+the counterparty informing it that trading was done and that Respondent would have final
+numbers for the counterparty shortly. However, because Respondent did not have a trade
+tracking system in place, Respondent did not know that it had not yet acquired $4 billion
+USD/CAD to complete the transaction with the counterparty.
+
+ 
+
+* A pip, short for “point in percentage,” is a small measure of change in the price of a currency pair in the
+forex market. It can be measured in terms of the quote or in terms of the underlying currency. A pip is a
+standardized unit and is the smallest amount by which a currency quote can change. It is usually $0.0001
+for U.S.-dollar related currency pairs, which is more commonly referred to as 1/100th of 1%, or one basis
+point.
+
+oo
+Furthermore, during a September 3, 2014, telephone call, despite inquiries from
+the counterparty concerning Respondent’s pre-trade option activity, a sales specialist for
+Respondent only mentioned a “small protective hedge” of two-day options, while failing
+to communicate to the counterparty that Respondent had executed one additional CAD
+option in excess of its hedge. The sales specialist also failed to disclose to the
+counterparty that Respondent earned a profit on the options activity.
+
+Respondent failed to communicate in good faith with the counterparty by failing
+to provide accurate information regarding when the spot CAD was accumulated,
+including when and at what price the trading commenced, when it finished trading, and
+information regarding trading engaged in prior to, and contemporaneously with, the
+forward contract transaction. Respondent failed to have policies and procedures in place
+to ensure that the accumulation of the spot CAD on behalf of the counterparty was both
+automatically tracked and accurately calculated. Compounding those failures,
+Respondent lacked policies and procedures sufficient to ensure that those failures were
+identified and corrected. Respondent’s risk management and supervisory structure
+lacked independence from Respondent’s trading function. Only when informed by the
+counterparty of irregularities did Respondent seek to investigate and remedy its _
+violations. Respondent failed to remedy its supervision failures until May 2018.
+
+Upon discovery, Respondent conducted an internal investigation and provided
+specific and detailed information to the Division of Enforcement (“Division”) regarding
+the supervision and communications deficiencies its internal investigation revealed,
+which materially assisted the Division’s investigation. Respondent ultimately terminated
+the employees responsible for the failures associated with the transaction and eventually
+implemented a substantial plan to remediate these deficiencies and improve the
+supervision and communications processes for its SD.
+
+UI. LEGAL DISCUSSION
+
+Pursuant to Section 1a(47)(E)(iv) of the Act, “any party to a foreign exchange
+swap or forward that is a swap dealer. . .shall conform to the business conduct standards
+contained in section 4s(h).” 7 U.S.C. § 1a(47)(E)(iv) (2012). Section 4s(h)(1)(B) of the
+Act, 7 U.S.C. § 6s(h)(1)(B) (2012), provides that registered swap dealers shall conform
+with business conduct rules or regulations prescribed by the Commission that, inter alia,
+relate to diligent supervision of the business of the registered swap dealers. In addition,
+Section 4s(h)(3)(C) of the Act, 7 U.S.C. § 6s(h)(3)(C) (2012), provides that “[b]usiness
+conduct requirements adopted by the Commission shall . . . establish a duty for a swap
+dealer or major swap participant to communicate in a fair and balanced manner based on
+principles of fair dealing and good faith.” Accordingly, Regulation 23.402(a)(1)() and
+(2) requires swap dealers to have written policies and procedures reasonably designed to
+ensure compliance with business conduct standards. 17 C.F.R. § 23.402(a)(1)(), (2)
+(2019). Further, Regulation 23.433 requires SDs to communicate with their
+counterparties in a fair and balanced manner based on principles of fair dealing and good
+faith. 17 C.F.R. § 23.433 (2019).
+
+During the Relevant Period, Respondent failed to maintain supervisory systems
+
+4
+adequate to ensure implementation and monitoring of compliance with policies and
+procedures regarding business conduct standards. Respondent failed to communicate
+with its counterparty in a fair and balanced manner, by (1) failing to calculate the agreed-
+upon weighted average price, and instead picking a rate that it thought the counterparty
+would accept; (2) providing a spreadsheet calculating the price for the spot trades that did
+not accurately reflect the trades entered into on behalf of the counterparty because
+Respondent was unable to track the actual trades on behalf of the counterparty; and (3)
+providing inaccurate information about when Respondent started and stopped making
+spot trades and the price of the initial trade used to fill the order.
+
+As such, Respondent’s conduct described above violated its duty of fair dealing
+and good faith in violations of Section 4s(h)(1)(B) and (3)(C) of the Act, and Regulations
+23.402(a)(1)@) and (2) and 23.433.
+
+IV. FINDINGS OF violations
+
+Based on the foregoing, the Commission finds that, during the Relevant Period,
+Respondent violated Section 4s(h)(1)(B), (3)(C) of the Act and Regulations
+23.402(a)(1)(i) and (2), and 23.433.
+
+V. OFFER OF SETTLEMENT
+Respondent has submitted the Offer in which it:
+A. Acknowledges service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set
+forth in this Order and for any action or proceeding brought or authorized
+by the Commission based on violations of or enforcement of this Order;
+
+C. Waives:
+
+1. the filing and service of a complaint and notice of hearing;
+
+2. a hearing;
+
+3, all post-hearing procedures;
+
+4, judicial review by any court;
+
+5. any and all objections to the participation by any member of the
+Commission’s staff in the Commission’s consideration of the
+Offer;
+
+6. any and all claims that it may possess under the Equal Access to
+
+Justice Act, 5 U.S.C. § 504 (2012) and 28 U.S.C. § 2412 (2012),
+and/or the rules promulgated by the Commission in conformity
+therewith, Part 148 of the Regulations, 17 C.F.R.
+pt. 148 (2019), relating to, or arising from, this proceeding;
+
+any and all claims that it may possess under the Small Business
+Regulatory Enforcement Fairness Act of 1996, Pub. L. No. 104-
+121, §§ 201-253, 110 Stat. 847, 857-74 (codified as amended at 28
+U.S.C. § 2412 and in scattered sections of 5 U.S.C. and 15 U.S.C.),
+relating to, or arising from, this proceeding; and
+
+any claims of Double Jeopardy based on the institution of this
+proceeding or the entry in this proceeding of any order imposing a
+civil monetary penalty or any other relief, including this Order;
+
+D. Stipulates that the record basis on which this Order is entered shall consist
+solely of the findings contained in this Order to which Respondent has
+consented in the Offer;
+
+E. Consents, solely on the basis of the Offer, to the Commission’s entry of
+this Order that:
+
+1.
+
+makes findings by the Commission that Respondent violated
+Section 4s(h)(1)(B) and (3)(C) of the Act, 7 U.S.C. § 6s(h)(1)(B),
+(3)(C) (2012), and Regulations 23.402(a)(1)(i) and (2), and 23.433
+(2019);
+
+orders Respondent to cease and desist from violating Section
+4s(h)(1)(B) and (3)(C) of the Act and Regulations 23.402(a)(1)()
+and (2) and 23.433;
+
+orders Respondent to pay $4.47 million ($4,470,000) in restitution,
+which is deemed satisfied by payments in the amount of $4.47
+million ($4,470,000) already made to the counterparty;
+
+orders Respondent to pay a civil monetary penalty in the amount of
+ten million dollars ($10,000,000) within fifteen business days of
+the date of entry of this Order, plus post-judgment interest; and
+
+orders Respondent and its successors and assigns to comply with
+the conditions and undertakings consented to in the Offer and as
+set forth in Part VI of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent shall cease and desist from violating Section 4s(h)(1)(B) and (3)(C)
+of the Act, 7 U.S.C. § 6s(h)(1)(B), (3)(C) (2012), and Regulations 23.402(a)(1)(i)
+and (2), and 23.433, 17 C.F.R. §§ 23.402(a)(1)@), (2), 23.433 (2019).
+
+Respondent shall pay restitution in the amount of $4.47 million ($4,470,000.00)
+(“Restitution Obligation’). The ordered Restitution Obligation is deemed
+satisfied by payments in the amount of $4.47 million ($4,470,000) already made
+to the counterparty.
+
+Respondent shall pay a civil monetary penalty in the amount of ten million dollars
+($10,000,000) within fifteen business days of the date of the entry of this Order
+(the “CMP Obligation”). If the CMP Obligation is not paid in full within fifteen
+business days of the date of entry of this Order, then post-judgment interest shal!
+accrue on the CMP beginning on the date of entry of this Order and shall be
+determined by using the Treasury Bill rate prevailing on the date of entry of this
+Order pursuant to 28 U.S.C. § 1961 (2012).
+
+Respondent shall pay the CMP Obligation by electronic funds transfer, U.S.
+postal money order, certified check, bank cashier’s check, or bank money order.
+If payment is to be made by other than electronic funds transfer, the payment shall
+be made payable to the Commodity Futures Trading Commission and sent to the
+address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 (office)
+
+(405 954-1620 (fax)
+9-AMC-AR-CFTC@faa.gov
+
+If payment is made by electronic funds transfer, Respondent shall contact Marie
+Thorne or her successor at the above address to receive payment instructions and
+shall fully comply with those instructions. Respondent shall accompany payment
+of the CMP Obligation with a cover letter that identifies Respondent and the name
+and docket number of this proceeding. Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st
+Street, NW, Washington, D.C. 20581.
+D. Respondent and its successors and assigns shall comply with the following
+conditions and undertakings set forth in the Offer:
+
+1. Public Statements: Respondent and neither it nor any of its successors and
+assigns, agents, or employees under its authority or control shall take any
+action or make any public statement denying, directly or indirectly, any
+findings or conclusions in this Order or creating, or tending to create, the
+impression that this Order is without a factual basis; provided however,
+that nothing in this provision shall affect Respondent’s: (i) testimonial
+obligations; or (ii) right to take legal positions in other proceedings to
+which the Commission is not a party. Respondent and its successors and
+assigns shall undertake all steps necessary to ensure that all of its agents
+and/or employees under its authority or control understand and comply
+with this agreement.
+
+2. Partial Satisfaction: Respondent understands and agrees that any
+acceptance by the Commission of partial payment of Respondent’s CMP
+Obligation shall not be deemed a waiver of its obligation to make further
+payments pursuant to this Order, and shall not be deemed a waiver of the
+Commission’s right to seek to compel payment of any remaining balance.
+
+3. Change of Address/Phone: Until such time as Respondent satisfies in full
+its CMP Obligation as set forth in this Order, Respondent shall provide
+written notice to the Commission by certified mail of any change to its
+telephone number and mailing address within ten calendar days of the
+change.
+
+The provisions of this Order shall be effective on this date.
+
+By the Commission
+
+ 
+   
+
+Christoph J. Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: November 8, 2019

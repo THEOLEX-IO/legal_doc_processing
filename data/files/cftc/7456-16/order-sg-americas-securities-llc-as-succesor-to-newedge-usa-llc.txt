@@ -1,0 +1,531 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+)
+In the Matter of: )
+)
+P di Clerk
+SG Americas Securities, LLC, ) CFTC Docket No. 16-33 roceedings Cler
+as successor to ) 10:49 am, Sep 28, 2016
+Newedge USA, LLC, ) Ne S
+)
+Respondent, )
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+
+I,
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+from at least June 2010 through at least January 2014, Newedge USA, LLC, now known as SG
+Americas Securities, LLC (collectively, âRespondentâ or âNewedgeâ), violated Section 4c(a) of
+the Commodity Exchange Act (âActâ), 7 U.S.C. Â§ 6c(a) (2012), and Commission Regulations
+(âRegulationsâ) 1.38 and 166.3, 17 C.F.R. Â§Â§ 1.38 and 166.3 (2015). Therefore, the Commission
+deems it appropriate and in the public interest that public administrative proceedings be, and
+hereby are, instituted to determine whether Respondent engaged in the violations set forth herein
+and to determine whether any order should be issued imposing remedial sanctions.
+
+IL.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
+Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions (âOrderâ) and
+acknowledge service of this Order.'
+
+ 
+
+' Respondent consents to the entry of this Order and to the use of these findings in this proceeding and in any other
+proceeding brought by the Commission or to which the Commission is a party; provided, however, that Respondent
+does not consent to the use of the Offer, or the findings or conclusions in this Order consented to in the Offer, as the
+sole basis for any other proceeding brought by the Commission, other than in a proceeding in bankruptcy or to
+enforce the terms of this Order. Nor does Respondent consent to the use of the Offer or this Order, or the findings or
+conclusions in this Order consented to in the Offer, by any other party in any other proceeding,
+
+ 
+HI.
+The Commission finds the following:
+A, SUMMARY
+
+Throughout the period from June 2010 through at least January 2014 (the ârelevant
+periodâ), Newedge, a Futures Commission Merchant (âFCMâ) registered with the Commission,
+acting through its agents, officers and employees, including certain account representatives,
+executed and confirmed the execution of, and reported to the Chicago Mercantile Exchange
+(âCMEâ) and Chicago Board of Trade (ââCBOTâ) numerous exchange of futures for physical
+transactions (âEFPsâ)â in agricultural and soft commodities for and on behalf of its clients that
+are, are of the character of, or are commonly known as wash sales. These trades were for the
+same contract, quantity and same or similar price with the buyer and seller for each EFP under
+the same common control and ownership. Moreover, the trades were executed under
+circumstances where certain Newedge account representatives either knew that clients desired to
+net out futures positions across commonly owned and controlled accounts through the use of
+EFPs, or else failed to inquire why clients were routinely on both sides of the EFPs.
+
+By this conduct, Newedge executed and confirmed the execution of wash trades in
+violation of Section 4c(a) of the Act. Moreover, because the EFPs were not done in accordance
+with the written rules of the CME and CBOT, they were not bona fide EFPs, and, therefore,
+Newedge caused prices to be reported, registered or recorded that were not true and bona fide
+prices, also in violation of Section 4cÂ¢(a) of the Act. Further, by accepting and transmitting EFP
+orders that were not executed openly and competitively pursuant to exchange rules, but in a
+manner that avoided market risk and price competition that legitimate, competitive trading
+entails, Newedge executed noncompetitive trades for customers in violation of Commission
+Regulation 1.38(a).
+
+During the relevant period, Newedge also failed to supervise diligently its employeesâ
+handling of the transactions at issue and failed to have adequate policies and procedures designed
+to detect and deter the execution of wash EFP trades, in violation of Regulation 166.3.
+
+In accepting Newedgeâs Offer, the Commission recognizes Respondentâs cooperation
+during this investigation and corrective action taken to address the conduct and improve its
+supervisory systems and internal controls in order to detect and deter the improper use and
+mishandling of wash EFPs.
+
+ 
+
+* An EEFP is a privately negotiated transaction involving a simultaneous exchange of an exchange futures position for
+a corresponding cash position at a price difference mutually agreed upon â /.e., one party buys the physical
+commodity and simultaneously sells (or gives up a long) futures contract while the other party sells the physical
+commodity and simultaneously buys (or receives a long) futures contract. See âReport on Exchanges of Futures for
+Physicals,â Division of Trading and Markets, Commodity Futures Trading Commission, October I, 1987 at 13.
+
+ 
+B. RESPONDENT
+
+SG Americas Securities, LLC (âSGASâ) is a financial services firm based in New York
+and is registered as an FCM with the Commission. Effective January 2, 2015, SGAS merged
+with Newedge USA, LLC, a registered futures commission merchant, and SGAS was the
+surviving entity.
+
+C, FACTS
+
+Throughout the relevant period, Newedge, acting through its agents, officers and
+employees, including certain agricultural commodity account representatives, knowingly
+accepted, executed and confirmed the execution of EFP transactions for and on behalf of its
+clients that are, are of the character of, or are commonly known as wash sales. These trades were
+for the same contract, quantity and same or similar price. In addition, in each instance, it was the
+same beneficial owner or controller that was on both sides of the transaction. The clients entered
+into the EFPs with the intent to negate market risk and price competition and the transactions
+produced a financial nullity for the clients.
+
+Newedge also reported the pricing of the futures side of those wash trades to the CME or
+CBOT and âdesignated the trades as bona fide EFPs. The client who owned and controlled both
+sides of the transaction selected the price at which the EFP was done. On many occasions the
+futures price reported to the exchange was outside the dayâs trading range.
+
+With respect to one client, a Newedge account representative executed, confirmed, and
+reported the execution of wash EFP trades to the CBOT where the client held its long and short
+futures positions in separate accounts, The client owned and controlled both accounts, The
+client, in consultation with the Newedge account representative, routinely offset its short
+positions by its long positions prior to each of the annual delivery periods by executing an EFP.
+The Newedge account representative knew the client owned and controlled both trading accounts
+and knew the terms of the EFPs âi.e., the contract, quantity and price.
+
+In numerous other instances where other Newedge account representatives executed,
+confirmed, and reported the execution of wash EFPs trades to the exchange for clients, the
+Newedge account representatives either knew that the clientsâ intention was to negate market
+risk and price competition or failed to inquire why the same controller or owner was on both
+sides of the transactions, or to note that the EFPs were at the same contract, quantity and price
+resulting in wash trades.
+
+Prior to 2014, Newedgeâs supervisory systems and internal controls were not adequate to
+detect and deter the processing and confirmation of wash sales designated as EFPs. Newedge
+did not have adequate internal controls, or policies and procedures addressing EFPs and the
+indicia of potential unlawful EFPs, including potential wash sales. Instead, Newedge relied upon
+its account representatives to independently react to and identify any potential EFPs by Newedge
+clients that might be improper or unlawful. Newedge also failed to adequately train its
+employees involved in the execution, confirmation and reporting of EFPs in understanding the
+requirements for executing bona fide EFPs.
+
+ 
+As a result of these supervisory failures, for at least three and a half years, Newedge did
+not detect the noncompetitive execution of the futures contracts and improper designation of
+wash trades as EFPs. In 2014, after the CFTC Division of Enforcement began its investigation,
+Newedge implemented new policies and procedures intended to detect and prevent the execution
+of unlawful wash EFPs.
+
+IV.
+LEGAL DISCUSSION
+A, Newedge Confirmed the Execution of Wash EFPs in Violation of Section 4c(a)
+
+EFPs that are equal and offsetting in quantity and price, where the same entity, or
+beneficial owner or controller is on both sides of the transactions, constitute âââwash salesâ within
+the meaning of Section 4c(a) of the Act. In re Noble Americas Corp., CFTC Docket No. 10-12,
+2010 WL 1803817 (CFTC May 3, 2010) (Consent order).
+
+Section 4c(a) of the Act makes it âunlawful for any person to offer to enter into, enter
+into, or confirm the execution of a transactionâ that âis, is of the character of, or is commonly
+known to the trade as, a âwash saleâ... .â 7 U.S.C. Â§ 6c(a)(1)-(2) (2012). A wash sale is a form
+of fictitious transaction. Jn re Gimbel, [1987-1990 Transfer Binder] Comm. Fut. L. rep. (CCH)
+24,213 at 35,003 (CFTC Apr. 14, 1988), aff'd as to liability, 872 F.2d 196 (7th Cir. 1989); In re
+Goldwurm, 7 A.D. 265, 274 (CEA 1948). Wash sales are harmful, in part, because they create
+illusory price movements in the market. See Wilson v. CFTC, 322 F.3d 555, 559 (8" Cir. 2003);
+Reddy y, CFTC, 191 F.3d 109, 115 (2d Cir, 1999), See also CFTC vy. Savage, 611 F.2d 270, 284
+(9th Cir. 1980) (wash sales may mislead market participants because they do not reflect the
+forces of supply and demand); Jn re Piasio, [1999-2000 Transfer Binder] Comm. Fut. L. Rep.
+(CCH) 28,276 at 50,691 (CFTC Sep. 29, 2000) (wash sales are âgraveâ violations, even in the
+absence of customer harm or appreciable market effect, because âthey undermine confidence in
+the market mechanism that underlies price discovery.â)
+
+The liability of the customer initiating the wash sale depends upon evidence
+demonstrating that the customer intended to negate market risk or price competition. ed. at
+{ 50,685. Similarly, the liability of a participant in the wash sale requires a showing that the
+participant knew, at the time he chose to participate in the transaction, that the transaction was
+designed to achieve a wash result in a manner that negated risk. Jn re Bear Sterns & Co., [1990-
+1992 Transfer Binder] Comm. Fut. L. Rep. (CCH) J 24,994 at 37,665 (CFTC Jan. 25, 1991). An
+account representativeâs intent to knowingly participate in a wash sale may be inferred from his
+failure to undertake a reasonable inquiry in the face of facts suggesting his customer intended to
+avoid a bona fide market position. Jn re Three Eight Corporation, [1992-1994 Transfer Binder]
+Comm. Fut. L. Rep. (CCH) 25,749 at 40,445 (CFTC June 16, 1993). The fact that the same
+entity, or beneficial owner or controller, was on both sides of an EFP, standing alone, suggests an
+intent to avoid a price competition and market risk, Likewise, the fact that the EFP is for the
+same contract, quantity and same or similar price â i.e., a wash result â reflects an intent to avoid
+market risk and price competition, An account representativeâs failure to undertake an inquiry
+into the legitimacy of the EFP in the face of such facts can support an inference of knowing
+participation in wash sales. Jd.
+
+ 
+âJust as a customer has a duty not to initiate transactions with an intent to avoid a bona
+fide market position, .. . an FCM has a duty not to accept such orders and transmit them to the
+trading floor.â /d., | 25,749 at 40,445, Therefore, â[a] broker is responsible for evaluating the
+orders he receives for indications that his participation in the transaction is legally prohibited.â
+Id.; see also Piasio, { 28,276 at 50,689 (an account executive has a duty to inquire about a
+customerâs intent when he receives simultaneous orders to buy and sell the same spread).
+
+Here, Newedge, through the acts of account representatives and others, knowingly
+executed and confirmed the execution of wash EFP transactions for clients in agricultural and
+soft commodities where the buyer and seller for each EFP was under the same common control
+and/or ownership.â By engaging in these wash EFPs, Newedge clients were able to avoid price
+competition and market risk. Accordingly, Newedge violated Section 4c(a) of the Act.
+
+B. Newedge Caused Prices to be Reported, Registered, or Recorded at Non-Bona Fide
+Prices in Violation of Section 4Â¢(a)
+
+Section 4c(a) of the Act also makes it unlawful to offer to enter into, enter into, or
+confirm the execution of a commodity futures transaction that ââis used to cause any price to be
+reported, registered, or recorded that is not a true and bona fide price.â 7 U.S.C. Â§ 6c(a) (2012).
+
+Congressâ intent in enacting Section 4c(a) was to âensure that all trades are focused in the
+centralized marketplace to participate in the competitive determination of the price of futures
+contracts.ââ Za re Collins, [1996-1998 Transfer Binder] Comm. Fut. L. Rep. (CCH) 4 27,194 at
+45,742 (CFTC Dec. 10, 1997) (quoting S. Rep. No. 93-1131, at 16-17 (1974)). In other words,
+Section 4c(a) was meant to âprevent collusive trades conducted away from the trading pits,â
+Merrill Lynch Futures, Inc. vy. Kelly, 585 F. Supp. 1245, 1251 n.3 (S.D.N.Y. 1984), and âto
+outlaw insofar as possible all schemes of trading that are artificial and not the result of arms-
+length trading on the basis of supply and demand factors,â [nm re Goldwurm, 7 Agric, Dec. 265,
+276 (1948). Here, Newedge reported prices to the exchanges that were determined off-exchange
+by a single person or entity that controlled both sides of the wash EFP transactions.
+
+Even though an individual EFP, when executed between independent parties, results in
+the actual transfer of the cash commodity, and is supported by proper documentation, may be
+privately negotiated âex pitâ at any commercially reasonable price agreeable to the
+counterparties, a wash EFP is a non-bona fide transaction in violation of Regulation 1.38(a),
+
+ 
+
+* EFPs are a subset of transactions known as Exchange for Related Positions (âEFRPsâ). CME and CBOT exchange
+rules set out the requirements for bona-fide EFRPs. With respect to who may be parties to a EFRP, the exchange
+require that the opposing accounts to an EFRP transaction must be (a) independently controlled accounts with
+different beneficial ownership; or (b) independently controlled accounts of separate legal entities with common
+beneficial ownership; or (c) independently controlled accounts of the same legal entity, provided that the account
+controllers operate in separate business units; or (d) commonly controlled accounts of separate legal entities
+provided that the separate legal entities have different beneficial ownership. For EFRP transactions between
+accounts with common beneficial ownership, the parties to the trade must be able to demonstrate the independent
+control of the accounts and that the transaction had economic substance for each party to the trade. See CME,
+CBOT, NYMEX & COMEX Market Regulatory Advisory Notice, (Rule 538) CME Group RA1006-5 (June 11,
+2010).
+
+ 
+thereby making the prices reported for such transactions also non-bona fide. See Jn re Gilchrist,
+[1990-1992 Transfer Binder] Comm. Fut. L. Rep. (CCH) 4 24,993, at 37,653 (CFTC Jan. 25,
+1991) (finding non-bona fide price in violation of Section 4c(a) of the Act where trades were
+non-bona fide in violation of Regulation 1.38). In fact, the prices reported on unlawfully
+executed noncompetitive trades are non-bona fide even if they accurately reflect the prices
+agreed upon by the parties and the current price for similar contracts traded on exchange. Jd. In
+this case, because the EFPs were non bona fide, Newedge violated Section 4c(a) when it reported
+non-bona fide prices for the futures side of the wash EFPs to the CME and CBOT,
+
+Cc, Newedge Violated Regulation 1.38(a)
+
+Generally, Commission Regulation 1.38(a) requires that all purchases and sales of
+commodity futures be executed âopenly and competitively.â This general requirement, however,
+âshall not apply to transactions which are executed noncompetitively in accordance with written
+rules of the contract market ... specifically providing for the noncompetitive execution of such
+transactions.â EFPs are non-competitive off-exchange transactions. CME and CBOT Rule 538
+only permits âExchanges for Related Positionsâ â of which EFPs are a sub-set â under certain
+conditions, EFPs are permissible only if they are between two independent parties and involve
+privately negotiated and simultaneous exchange of a futures position for a corresponding and
+offsetting cash physical position. If a noncompetitive trade does not qualify for an exception to
+this exchange rule, it violates Regulation 1.38(a). Williams y. Lind-Waldock & Co., [1996-1998
+Transfer Binder] Comm. Fut. L. Rep. (CCH) 4 27,111 at 45,237, 1997 WL 381248 (CFTC
+July 10, 1997); In re GNP Commodities, Inc., [1990-1992 Transfer Binder] Comm. Fut. L. Rep.
+(CCH) Â§ 25,360, at 39,217 (CFTC Aug. 11, 1992), aff'd sub nom. Monieson v. CFTC, 996 F.2d
+852 (7"" Cir. 1993).
+
+As explained, supra, Newedge, through its account representatives and others, processed
+and confirmed the execution of wash EF Ps that did not meet the exchange requirements for
+noncompetitive trades. Therefore, Newedge violated Regulation 1.38(a).
+
+D. Newedge Is Liable for Its Employeesâ Acts and Omissions
+
+The foregoing acts, omissions, and failures of Newedgeâs account representatives and other
+employees occurred within the scope of their employment, office, or agency with Newedge; therefore,
+pursuant to Section 2(a)(1)(B) of the Act, as amended, 7 U.S.C. Â§ 2(a)(1)(B), and Regulation 1.2,
+
+17 C.ELR. Â§ 1.2 (2015), Newedge is liable for those acts, omissions, and failures in violation of Section
+4c(a) of the Act, 7 U.S.C. Â§ 6c(a) (2006), and Commission Regulation 1,38, 17 C.F.R. Â§ 1.38 (2015),
+
+E. Newedge Lacked an Adequate Supervisory System and Compliance Programs to
+Detect and Deter Wash EFPs in Violation of Regulation 166.3
+
+Commission Regulation 166.3 imposes on registrants an affirmative duty to supervise
+their partners, employees and agents diligently by establishing, implementing and executing
+adequate supervisory structures and compliance programs. âThe duty to supervise... include[s]
+the broader goals of detection and deterrence of possible wrongdoing by [a registrantâs] agents.â
+Lobb vy. LT. McKerr & Co., [1987-1990 Transfer Binder] Comm. Fut. L. Rep. (CCH) { 24,568,
+at 33,444 (CFTC Dec. 14, 1989). âIn appropriate circumstances, a showing that the registrant
+
+ 
+lacks an adequate supervisory system can be sufficient to establish a breach of duty under Rule
+166.3.â See In re Thomas Collins, [1996-1998 Transfer Binder] Comm. Fut. L. Rep. (CCH)
+27,194 at 45,744 (CFTC Dec. 10, 1997). A violation under Commission Regulation 166.3 is an
+independent violation for which no underlying violation is necessary. /d.; see also Inre Paragon
+Futures Association, [1990-1992 Transfer Binder] Comm. Fut. L. Rep. (CCH) { 26,266 at
+38,850 (CFTC Apr. 1, 1992). There is no requirement to charge an underlying violation of the
+Act. Inre First National Trading Corporation, [1992-1994 Transfer Binder] Comm. Fut. L.
+Rep. (CCH) { 26,142 at 41,786 (CFTC July 20, 1994) (âIn appropriate circumstances, proof of
+an independent substantive violation is not a necessary element to establish a breach of the duty
+imposed by Rule 166.3.â), aff'd without op., Pick v. CFTC, No. 95-3761, 99 F.3d 1139 (6" Cir.
+Oct. 26, 1996).
+
+A violation of Regulation 166.3 is demonstrated by showing either that: (1) the
+registrantâs supervisory system was generally inadequate; or (2) the registrant failed to perform
+its supervisory duties diligently. In re Murlas Commodities, [1994-1996 Transfer Binder]
+Comm. Fut. L Rep. (CCH) Â§ 26,485, at 43,161 (CFTC Sept. 1, 1995); In re GNP Commodities,
+Ine., | 25,360, at 39,219 (providing that, even if an adequate supervisory system is in place,
+Regulation 166.3 can still be violated if the supervisory system is not diligently administered);
+Samson Refining Co. v. Drexel Burnham Lambert, Inc., [1987-1990 Transfer Binder] Comm.
+Fut. L. Rep. (CCH) 7 24,596, at 36,566 (CFTC Feb. 16, 1990) (noting that, under Regulation
+166.3, an FCM has a âduty to develop procedures for the detection and deterrence of possible
+wrongdoing by its agentsâ) (internal quotation omitted), Evidence of violations that âshould be
+detected by a diligent system of supervision, either because of the nature of the violations or
+because the violations have occurred repeatedly,â is probative of a failure to supervise. /n re
+Paragon Futures Assoc., | 25,266 at 38,850.
+
+During the relevant period, Newedge lacked adequate internal controls and procedures to
+verify the validity of EFPs before they were cleared and reported to the CME and CBOT.
+Newedge also lacked adequate procedures and surveillance systems to identify trades incorrectly
+or improperly designated as EFPs. Finally, Newedge failed to provide adequate training to its
+employees who participated in the execution or processing of EFPs regarding the requirements
+for bona fide EFPs. As a result, Newedge failed to detect numerous wash EFPs between
+commonly owned and controlled client accounts.
+
+Accordingly, Newedge failed to supervise its employees diligently, in violation of
+Commission Regulation 166.3.
+
+V.
+FINDINGS OF VIOLATION
+
+Based on the foregoing, the Commission finds that, during the Relevant Period, Newedge
+violated Section 4c(a) of the Act, 7 U.S.C. Â§ 6c(a), and Regulations 1.38 and 166.3, 17 C.F.R.
+Â§Â§ 1.38 and 166.3 (2015),
+
+ 
+A.
+
+B.
+
+VI.
+
+OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+Acknowledges receipt of service of this Order;
+
+Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+Waives:
+
+1. The filing and service of a complaint and notice of hearing;
+
+2. A hearing;
+
+3. All post-hearing procedures;
+
+4, Judicial review by any court;
+
+5, Any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+6. Any and all claims that it may possess under the Equal Access to Justice Act,
+5 U.S.C. Â§ 504 (2012) and 28 U.S.C. Â§ 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Commissionâs
+Regulations, 17 C.F.R. Â§Â§ 148.1-30 (2015), relating to, or arising from, this
+proceeding;
+
+7. Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, Â§Â§ 201-253, 110 Stat.
+847, 857-868 (1996), as amended by Pub. L. No. 110-28, Â§ 8302, 121 Stat. 112,
+204-205 (2007), relating to, or arising from, this proceeding; and
+
+8, Any claims of Double Jeopardy based on the institution of this proceeding or the
+
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief.
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer;
+
+Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+I,
+
+Makes findings by the Commission that Respondent violated Section 4c(a) of the
+Act, 7 U.S.C, Â§ 6c(a), and Regulations 1.38 and 166,3, 17 C.F.R. Â§Â§ 1.38 and
+166.3 (2015);
+
+ 
+2, Orders Respondent to cease and desist from violating Section 4c(a)(1) of the Act,
+7 ULS.C. Â§ 6c(a)(1), and Regulations 1.38 and 166.3, 17 C.F.R. $Â§ 1.38 and 166.3
+(2015);
+
+3. Orders Respondent to pay a civil monetary penalty in the amount of seven hundred
+fifty thousand dollars ($750,000), plus post-judgment interest; and
+
+4, Orders Respondent and their successors and assigns to comply with the conditions
+and undertakings consented to in the Offer and as set forth in Part VII of this
+Order,
+
+Upon consideration, the Commission has determined to accept the Offer.
+VII.
+
+ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A,
+
+Respondent shall cease and desist from violating Section 4c(a) of the Act, 7 U.S.C.
+Â§ 6c(a) (2012), and Regulations 1.38 and 166.3, 17 C.F.R. Â§Â§ 1.38 and 166.3 (2015);
+
+Respondent pay a civil monetary penalty in the amount of seven hundred fifty thousand
+dollars ($750,000), within ten (10) days of the date of entry of this Order (the âCMP
+Obligationâ). If the CMP Obligation is not paid in full within ten (10) days of the date of
+entry of this Order, then post-;udgment interest shall accrue on the CMP Obligation
+beginning on the date of entry of this Order and shall be determined by using the
+Treasury Bill rate prevailing on the date of entry of this Order pursuant to 28 U.S.C.
+
+Â§ 1961 (2012).
+
+Respondent shall pay the CMP Obligation by electronic funds transfer, U.S. postal
+money order, certified check, bank cashierâs check, or bank money order. If payment is
+to be made other than by electronic funds transfer, then the payment shall be made
+payable to the Commodity Futures Trading Commission and sent to the address below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables
+DOT/FAA/MMAC/AMZ-341
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+
+nikki. gibson@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Nikki
+Gibson or her successor at the above address to receive payment instructions and shall
+
+ 
+fully comply with those instructions. Respondent(s) shall accompany payment of the
+CMP Obligation with a cover letter that identifies the paying Respondent and the name
+and docket number of this proceeding, The paying Respondent shall simultaneously
+transmit copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581,
+
+Respondent and its successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+l. Remediation: Respondent will continue to implement and improve its
+internal controls and procedures in a manner reasonably designed to detect
+potential wash EFP transactions submitted by clients. Specifically,
+Respondent undertakes to implement policies, procedures and training
+programs reasonably designed to prevent the execution, clearing and
+reporting to an exchange of non-bona fide EFPs.
+
+2. Compliance with Remediation Undertaking: Respondent shall submit a
+report to the Commission, through the Division of Enforcement, within
+180 days, explaining how it has complied with the Remediation
+Undertaking set forth above in C.1. The report shall describe the internal
+controls, policies and procedures that have been designed and
+implemented to satisfy the Remediation Undertaking, along with a report
+on the status of the remediation efforts, completeness and quality
+assurance controls. The report shall contain a certification from a
+representative of Respondentâs Executive Management that Respondent
+has complied with the Remediation Undertaking set forth above, and that
+it has established policies, procedures, and controls to satisfy the
+Remediation Undertaking set forth in the Order.
+
+3, Public Statements: Respondent agrees that neither it nor any of its
+successors or assigns, agents or employees under its authority or control
+shall take any action or make any public statement denying, directly or
+indirectly, any findings or conclusions in this Order or creating, or tending
+to create, the impression that this Order is without a factual basis;
+provided, however, that nothing in this provision shall affect
+Respondentâs: (i) testimonial obligations; or (ii) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondent and its successors and assigns shall undertake all steps
+necessary to ensure that all of its agents and/or employees under its
+authority or control understand and comply with this agreement.
+
+Partial Satisfaction: Respondent understands and agrees that any acceptance by the
+Commission of any partial payment of Respondentâs CMP Obligation shall not be
+deemed a waiver of its obligation to make further payments pursuant to this Order, or a
+waiver of the Commissionâs right to seek to compel payment of any remaining balance.
+
+10
+
+ 
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+   
+
+    
+
+Christopher JKirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: September 28, 2016
+
+Il
+
+ 

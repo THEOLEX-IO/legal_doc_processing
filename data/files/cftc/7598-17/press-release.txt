@@ -1,0 +1,51 @@
+Release Number 7598-17
+August 7, 2017
+
+CFTC Finds that The Bank of Tokyo-Mitsubishi UFJ, Ltd. Engaged in Spoofing of Treasury
+Futures and Eurodollar Futures
+
+CFIC Recognizes The Bank of Tokyo-Mitsubishi UFJ, Ltd.âs Cooperation,
+Self-Reporting, and Pro-Active Implementation of Remedial Measures
+and Process Improvements
+
+Washington, DC â The U.S. Commodity Futures Trading Commission (CFTC) today issued an Order filing and settling
+charges against The Bank of Tokyo-Mitsubishi UFJ, Ltd. (BTMU) for engaging in multiple acts of spoofing in a variety
+of futures contracts on the Chicago Mercantile Exchange and the Chicago Board of Trade, including futures contracts
+based on United States treasury notes and Eurodollars. The Order finds that BTMU engaged in this activity through one of
+its employees (Trader A), who accessed these markets through a trading platform from one of BTMUâs Tokyo offices. The
+Order requires BTMU to pay a $600,000 civil monetary penalty and to cease and desist from violating the Commodity
+Exchange Actâs prohibition against spoofing. The CFTC became aware of the conduct through BTMUâs voluntary self-
+reporting of the wrongdoing.
+
+CFTCâs Director of Enforcement Comments
+
+âThis case shows the benefits of self-reporting and cooperation, which | anticipate being an important part of our
+enforcement program going forward,â said James McDonald, the CFTCâs Director of Enforcement. McDonald continued:
+âWe expect market participants, through adequate supervision, to prevent this sort of misconduct before it starts. But
+when market participants discover wrongdoing, we want to incentivize them to voluntarily report it and to cooperate with
+our investigation, as the Bank of Tokyo did here. The Bank of Tokyo benefitted from its self-reporting and cooperation in
+the form of a substantially reduced penalty.â
+
+CFTCâs Order
+
+The Order finds that during the period starting at least July 2009 through December 2014, although largely in 2010 and
+2011, Trader A placed multiple orders for futures contracts with an intent to cancel the orders before their execution.
+Trader Aâs spoofing strategies included submitting orders on opposite sides of the same market at nearly the same time.
+The Order further finds that Trader A engaged in this spoofing activity in order to move the market in a direction
+favorable to his orders. Once aware of Trader Aâs misconduct, BTMU promptly suspended the trader and reported the
+conduct to the CFTCâs Division of Enforcement (the Division).
+
+The Order makes additional findings about BTMUâs self-reporting, cooperation, and remediation. The Order finds that
+BTMU commenced an expansive internal review and assisted the Divisionâs investigation of the conduct. The Order
+further finds that BTMU launched an overhaul of its systems and controls and implemented a variety of enhancements to
+detect and prevent similar misconduct. The Order additionally finds that BTMU revised its policies, updated its training,
+and implemented electronic systems to identify spoofing.
+
+The CFTC Division of Enforcement staff members responsible for this case are Kara Mucha, Jordon Grimm, Laura
+Brookover, Philip Tumminio, and Rick Glaser.
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: August 7, 2017

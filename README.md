@@ -15,6 +15,22 @@
 <br>
 <br>
 
+
+## Tutorial 
+-----------------------------------
+<br>
+
+[First Tour of Legal Doc Process in less than 1 minute](https://github.com/THEOLEX-IO/legal_doc_processing/blob/notebook/point-jawad/examples/first_tour.ipynb)
+<br>
+![Alt text](examples/first_tour.png?raw=true "First Tour")
+<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/notebook/point-jawad/examples/first_tour.ipynb) 
+
+<br>
+<br>
+
+
+
 ## Installation
 -------------------------------------
 <br>
@@ -54,7 +70,7 @@ There is 3 main modules in legal-doc-processing :
 - press_release for PressRelease objects for legal press release related to each case
 - decision for both LegalDoc and PressRelease documents. The Decision object is able to read both, make prediction from both documents and merge/clean prediction of both documents. If just one of them, the object will apply basic method based on LegalDoc or PressRelease object
 
-so you can 
+so you can :
 ```
 from legal_doc_processing import *  # import all
 from legal_doc_processing import legal_doc # import legal document module

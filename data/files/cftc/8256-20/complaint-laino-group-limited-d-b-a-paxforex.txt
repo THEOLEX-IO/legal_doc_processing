@@ -1,0 +1,581 @@
+Case 4:20-cv-03317 Document1 Filed on 09/24/20 in TXSD Page 1 of 16
+
+United States Courts
+Southern District of Texas
+
+FILED
+UNITED STATES DISTRICT COURT Sept ember 24, 2020
+
+FOR THE SOUTHERN DISTRICT OF TEXA
+HOUSTON DIVISION David J. Bradley, Clerk of Court
+
+ 
+
+ 
+
+, 20-3317
+COMMODITY FUTURES TRADING )
+COMMISSION, ) Case No. _
+)
+Plaintiff, ) COMPLAINT FOR INJUNCTIVE
+) AND OTHER EQUITABLE RELIEF
+V. ) AND FOR CIVIL MONETARY
+) PENALTIES UNDER THE
+LAINO GROUP LIMITED D/B/A ) COMMODITY EXCHANGE ACT
+PAXFOREX )
+) JURY TRIAL DEMANDED
+Defendant. )
+)
+I, SUMMARY
+1. Defendant Laino Group Limited d/b/a PaxForex (ââPaxForexââ) operates a website
+
+and trading platform, www.paxforex.com, which allows customers to trade commodities ranging
+from foreign currencies and precious metals to certain digital assets including ether, litecoin, and
+bitcoin. The problem with Defendantâs business is that it is illegally soliciting or accepting
+orders for leveraged, margined or financed retail off-exchange foreign currency (âforexâ),
+precious metals, and digital asset transactions from U.S. customers without being registered with
+Plaintiff Commodity Futures Trading Commission (âCommissionââ), as required.
+
+2. From at least March 2018 through the present (the âRelevant Periodâ), Defendant,
+through the actions of its officers, employees, and/or agents, has conducted a business in the
+United States in a manner that violates Section 4(a) of the Commodity Exchange Act (âActâ),
+
+7 U.S.C. Â§ 6(a) (2018): by soliciting or accepting orders from non-eligible contract participants
+(ânon-ECPsââ), not conducted on or subject to the rules of any Commission-regulated exchange,
+
+for the purchase or sale of gold, silver (together, âprecious metalsââ), ether, litecoin, and bitcoin
+ 
+
+(collectively, âdigital assetsâ) on a leveraged, margined or financed basis that does not result in
+actual delivery of the commodities to the customer (retail commodity transactionsâ).
+
+3. Further, without registering with the Commission as a futures commission
+merchant (RCMâ), Defendant, in or in connection with forex and retail commodity transactions,
+accepis money, securities, or property (or extends credit in leu thereof) in the form of bitcom or
+other assets, to margin, guarantee, or secure trades or contracts that result or may result
+therefrom, in violation of Section 4d(a)(1) of the Act, 7 LLS.C. 8 6d(ajcd) (2018).
+
+4. Pursuant to Section 6c of the Act, 7 U.S.C. $ 13a-L 018), the Commission
+brings this action to enjoin Defendantâs unlawful acts and practices, to compel comphance with
+the Act, and to further enjorn Defendant from engaging in any commodity-related activity.
+
+5. In addition, the Commission seeks civil monetary penalties and remedial ancillary
+relief, including but not limited to, trading and registration bans, disgorgement, restitution,
+rescission, pre-judgment and post-judgment mierest, and such other relief as the Court may deem
+necessary and appropriate.
+
+6. Uniess restrained and enjoined by this Court, Defendant is likely to continue to
+engage in the acts and practices alleged m this Complaint, or similar acts and practices, as more
+fully described below.
+
+Hi. JURESDEICTION AND VENUE
+
+7. This Court has jurisdiction over this action under 28 U.S.C. Â§ [331 QOS)
+(federal question jurisdiction) and 28 U.S.C. $ 1345 (2018), which provides that district courts
+have original purisdiction over civil actions commenced by the United States or by any agency
+expressly authorized to sue by Act of Congress. In addition, Section 6c of the Act, 7 U.S.C.
+
+$ [3a-l (2018), provides that district courts have jurisdiction to hear actions brought by the
+ 
+
+Commission for mjunctive rehef and to enforce compliance with the Act whenever i shall
+appear to the Commission that any person has engaged, 1s engaging, or is about to engage in any
+act or practice constituting a violation of any provision of the Act or any rule, regulation, or
+order thereunder.
+
+8. The Commission has jurisdiction over the conduct and transactions at issue in this
+case pursuant to Sections Z2(c)(2)(C) and 2(c2)(D) of the Act, 7 ULS.C. 88 2c) 22),
+2(cK 2D) (2018).
+
+9, Venue properly Hes with this Court pursuant to 7 U.S.C. Â§ [3a-I(a) because
+Defendant transacts business in this District and certain transactions, acts, practices, and courses
+of business alleged in this Complaint occurred, are occurring, and/or are about to occur within
+this District.
+
+Tr. =Â©60>PARTIES
+
+A. Plaintut
+
+10. Conmmodity Futures Trading Commission is an independent federal regulatory
+agency charged by Congress with the administration and enforcement of the Act, 7 U.S.C. 38 I-
+26 (2018), and the Commissionâs Regulations (âRegulationsâ) promulgated thereunder,
+
+17 CER. pts. 1-190 2019).
+
+i. Defendant
+
+i. Defendant Laino Group Linuted d/b/a PaxForex is registered as an international
+business company in Saint Vincent and the Grenadines and claims on its website that its
+information technology infrastructure has been deployed to data centers in New York and
+London. PaxForex operates an online trading platform accessed through www.paxforex.com,
+which offers customers forex and retail commodity transactions, among other products.
+PaxForex has never been registered with the Commission in any capacity.
+
+%
+7
+ 
+
+-Â£ OOH Â¢ aye As
+A RULE bike: Tks 4 3 Ca ae AG
+Ty. STATUTORY BACKGROUND
+A. Forex Transactions
+
+12. Section 2(cK2 CGD of the Act, 7 U.S.C. Â§& 20@)2 CWO) (2018), in relevant
+part, apphes to any agreement, contract, or transaction, in foreign currency that is offered to, or
+entered into with, a person that is not an ECP âon a leveraged or margined basis, or financed by
+the offeror, the counterparty, or a person acting mn concert with the offeror or counterparty on a
+similar basisâ (âforex transactionsâ), subject to certain exceptions not applicable here.
+
+13. The Act defines an ECP, in relevant part, as an individual: (a) who has amounts
+invested on a discretionary basis, the aggregate of which exceeds $10 million, or (b) $5 million if
+the mdividual enters into the transaction to âmanage the risk associated with an asset owned or
+liability incurred, or reasonably likely to be owned or incurred, by the individual.â Section
+la(L8yAjox) of the Act, 7 U.S.C. Â§ faCi 8A) KE) 018).
+
+14. For corporate entities, the Act defines an ECP, in relevant part, as a corporation
+that has total assets exceeding S10 million and âthe obligations of which under an agreement,
+contract, or transaction are guaranteed or otherwise supported by a letter of credit... .â Section
+la(18)CA)(v) of the Act, 7 U.S.C. $ laclÃ©y Al) (2018). Alternatively, the Act provides that an
+ECP may be a corporate entity with a net worth exceeding $1 million that âenters into an
+agreement... in connection with the conduct of the entityâs business or to manage the risk...
+reasonably likely to be... mcurred by the entity in the conduct of ... [its] business.â 7 U.S.C.
+Â§ Lall8 Ay) 2018).
+
+B. Prohibition Against Unlawful Retail Commodity Transactions
+
+1S, Section 2(cÂ¢)( 2) D)G) of the Act, 7 U.S.C. 3 2(c42)0D)G) (2018), applies to âany
+
+agreement, contract, or transaction in any commodityâ that is entered into with, or offered to
+ 
+
+(even if not entered mto with), a non-ECPâi.c., a person who is a retail customer-ââââon a
+leveraged or margined basis, or financed by the offeror, the counterparty, or a person acting in
+concert with the offeror or counterparty on a similar basisâ (the aforementioned âretail
+commodity transactionsâ), subject to certaim exceptions not applicable here.
+
+16, Section 2(ch 2) Dui of the Act, 7 USC. Â§ 2c 2)(D aid OES), is an enabling
+provision, making Section 4(a) of the Act, 7 U.S.C. 8 6(a) (2018), applicable to retail commodity
+transactions âas ifâ such transactions are contracts of sale of a commodity for future delivery.
+
+L7, In relevant part, 7 U.S.C. Â§ 6(a) makes it unlawful for any person to offer to enter
+into, enter into, execute, confirm the execution of, or conduct any office or business anywhere im
+the United States for the purpose of soliciting, accepting any order for, or otherwise dealing in
+any transaction im, or in connection with, a contract for the purchase or sale of a commodity for
+future delivery unless the transaction is conducted on or subject to the rules of a board of trade
+which has been designated or registered by the Commission as a contract market.
+
+Cc. Prohibition Against Unregistered FCMs
+
+18. Section la(28}(A) of the Act, 7 ULS.C. $ la(Q8)C A) (2018), defines an FCM in
+relevant part as âan dividual, association, partnership, corporation, or trust... engaged in
+soliciting or in accepting orders for... any agreement, contract, or transaction described in...
+section 2(cH2)(C)}G) fot the Act, Le. âforex transactionsââ] and section 2(c)(2}(D)G) fof the Act,
+ie. âretail commodity transactionsâ |,â or âacting as a counterparty in any agreement, contract, or
+transaction described in section 2(cM2C)G) fof the Act] or section 2(c}2)D)G) [of the Act];
+and, in connection with these activities âaccepts any money, securities, or property (or extends
+credit in heu thereof to margin, guarantee, or secure any trades or contracts that result or may
+
+result therefrom.â
+ 
+
+19, Section 4d(a)C} of the Act, 7 U.S.C. Â§ Gd(ajd) (2013), makes ut unlawful for any
+person to act as an FCM unless such person is registered as such with the Commission.
+
+Â¥v. FACTS
+
+20. During the Relevant Period, Detendant operated an online trading platform
+(âplatformâ) accessed through its website, www.paxforex.com (website). Through its platform
+and website Defendant solicits or accepts orders from customers, mcluding those im the United
+States, for transactions in âContracts for Differenceâ (âCFDsââ) referenced to the prices of
+commodities mchiding certain foreign currencies, precious metals, and digital assets. Defendant
+aiso solicits customers through its PaxPorex YouTube channel at www.youtube.com.
+
+21. A CED is generally an agreement to exchange the difference m value of an
+underlying asset, such as a commodity, between the time at which the CFD trading position
+(âpositionâ) is established and the time at which it is terminated.
+
+22. Foreign currencies, gold, silver, ether, htecoin, and bitcoin are âcommoditiesâ
+under Section La(Q) of the Act, 7 U.S.C. Â§ ta(9) (2018).
+
+23. CFD trading on the platform is settled in U.S. Dollars (USD) and bitcoim,
+among other assets.
+
+24, Bitcoin, ether, and htecoim are digital representations of value that function as
+mediums of exchange, units of account, and/or stores of value, but that do not have legal tender
+status in any jurisdiction. Bitcoin and other virtual currencies are distinct from ârealâ currencies,
+which are the coin and paper money of the United States or another country that are designated
+as tegal tender, circulate, and are customarily used and accepted as a medium of exchange in the
+
+couniry of issuance.
+
+6
+ 
+
+25. To begin trading or open a position on Defendantâs platform, customers complete
+
+a brief registration process through www.paxforex.com. During the registration process,
+customers provide, among other information, their country, a physical address, email address,
+and phone number to which PaxForex sends email and text messages, respectively, for
+verification.
+
+26. For entering personal information, Defendant provides customers with a drop
+down menu with an option of selecting the United States as the customer's country of residence
+as weil as an American flag symbol that corresponds to the customerâs area code and phone
+number.
+
+27. After completing the registration process, U.S. custorners deposit assets such as
+USD and bitcoin into an account or wallet controlled by PaxForex as margin or collateral for the
+customers trades.
+
+28. When a customer deposits bitcoin as collateral, Defendant credits the customer's
+trading account in USD in an amount that is purportedly equivalent to the market value of the
+bitcotn.
+
+29. Trades on Defendantâs platform are made using MetaTrader (*MTââ) trading
+platform software, which U.S. customers can download from Defendant's website onto their
+desktop or mobile devices. For trading foreign currencies, MT presents customers with currency
+pairs such as the Euro/USD (EUR/USD) and Australian Dollar/USD (AUD/USD) im which the
+first currency is the currency being âboughtâ or âsold,â and the second currency ts the currency
+in which the buy or sell price is quoted.
+
+30. Similarly, for trading digital assets, the platformâs MT presents customers with
+
+pairs unchuding ether/USD CETH/USD), litecoin/USD (LTC/USD), and bitcom/USD
+ 
+
+(BTC/USD). As is the case with trading foreign currencies on Defendant's platform, the first
+asset is the asset being âboughtâ or âsoldâ with the price quoted in the second asset, USD.
+
+34, Using MT on Defendantâs platform, U.S. customers can either buy or sell CFDs
+(go âlongâ or âshortâ) referenced to the prices of foreign currencies, precious metals, and digital
+assets on margin with leverages potentially as high as 1/500.
+
+32, In this case, âmarginâ means the assets a customer deposits with the Defendant as
+collateral, while âleverageâ allows a customer to control a large amount of a commodity with a
+comparatively small amount of margin. Leverage also allows customers to significantly magnify
+profits or losses with a relatively small investment.
+
+33. In taking trading positions on Defendantâs platform, U.S. customers speculate on
+the price movement of the underlying commodity and either profit or lose based on whether
+prices move in their favor or not. There is no actual delivery of the underlying commodity and
+customers close their positions by trading equal and opposite positions. Defendant automatically
+closes customersâ positions when their losses reduce the value of assets they have deposited to
+equal to or fess than five percent of the value of their open positions.
+
+34. When one of Defendantâs agents was contacted by an individual who identified
+himself as a U.S. customer, Defendantâs agent actively solicited that individual in this District by
+email, and by phone through a U.S. phone number, to transact in CPDs referenced to the prices
+of foreign currencies, precious metals, and digital assets on Defendantâs platform.
+
+35, Defendant subsequently accepted orders placed by this U.S. individual on its
+platform, from this District, and executed transactions, on a leveraged or margined basis using
+bitcom as coHateral margin, in CFDs referencing the price of commodities. In these CFD
+
+transactions, Defendant acted as the counterparty.
+et B
+
+ 
+
+aA
+i
+is
+bs?!
+J
+coe
+rinse
+
+36. Defendant uses its YouTube channel as a further means of sohciting U.S.
+customers. It does this through a promotional video that instructs customers on how to open a
+trading account and by providing an âOpen Trading Accountâ hyperlink to PaxForexâs website.
+
+37. PaxPorexâs YouTube channel, along with PaxForexâs website, also contains daily
+videos, narrated by one of Defendantâs agents, which promote Defendantâs forecasts and
+recommendations for making trades in specific commodities, and periodic videos that tout the
+purported profitability of Defendantâs earher trading recommendations and associated forecasts.
+
+38, Additionally, in a blogpost on its website, Defendant touts itself as âThe Best
+Forex Broker for Beginners in the USA.â
+
+39. Sumiarly, Defendant's website contains customer testimonials from two U.S.
+customers, one of whom the website identifies as bemg from the United States, and further
+purports to have a U.S. presence with its âIT Infrastructures [which] has been deployed within
+industry leading datacenters in London... and New York.â
+
+AQ, Minalfy, Defendant solicits customers, inchiding those in the United States,
+through its âAffihateâ program. Through this program, Defendant incentivizes U.S. persons to
+become âaffiliatesâ by providing them with commussions and other mecentives to solicit
+customers to trade CFDs in forex and other commodities on Defendant's platform.
+
+Ay, Defendant fails to check the ECP status of its customers during the customer
+registration process. Moreover, Defendant solicits customers to open an account with an initial
+deposit of as little as the equivalent of $10 to incentivize trading by retail customers who would
+
+not quality as ECPs,
+a a oe AA ey ~ pas a . ne ~ or ew ~ wok
+ae ABN ws RSA Tac ermani Miles am MOPPAPIA as TMS Rane TA APTS
+
+ox Sh a q fas APB TF SogL ee Ce ar Pree se BTSs ys Ger Liss 5 gs ose y x > Ta Pig csr yyy
+No CASE wes QML WAS Le Rat AS eka PA 8 PSR ASE AS ee alte YooRa rN â RAs aX. MP AS
+
+AO Through the above-described conduct, Defendant offers to enter into, or enters
+into, and/or executes leveraged, margined or financed transactions in foreign currencies, precious
+metals, and digital assets with non-ECP customers in the United States.
+
+AS. Defendantâs platform is not a designated contract market or derivatives
+transaction execution facility, exempt board of trade, or a bona fide foreign board of trade as
+those terms are defined in the Act. Indeed in the âTerms and Conditions of business PaxForex
+MT4,â which Defendant provides to customers, Defendant acknowledges that us platform is âthe
+sole Execution Venue [for customersâ orders and trades] which is a nonregulated market.â
+
+AA, As of the date of the filing of this Complaint, PaxForex has not been registered
+with the Commission as an RCM,
+
+Vi. STATUTORY VIOLATIONS
+COUNT I
+PLLEGAL OFF-EXCHANGE TRANSACTIONS
+Violations of Section 4(a) of the Act, 7 U.S.C. Â§ 6(a) (2018)
+
+AS, Paragraphs 1 through 44 of this Complaint are re-alleged and incorporated herein
+by reference.
+
+AG. During the Relevant Period, the retail commodity transactions described im this
+Complaint, and as described in Section 2(Â¢)(2)(D) of the Act, 7 U.S.C. Â§ 2Â¢) 2D) (2018), were
+offered or entered into by Defendant: (a) on a leveraged or margined basis, or financed by the
+offeror, the counterparty, or a person acting in concert with the offeror or counterparty on a
+sunilar basis; (b) with U.S. persons who are not ECPs or eligible commercial entities as defined
+by Sections fa(i7) and La(18) of the Act, 7 U.S.C. 88 La(i?), lati&) (20183; and (c} without
+being made or conducted on, or subject to, the rules of any board of trade, exchange, or contract
+
+market.
+ns om e~ Aa ey os ered A <i a ew oe . . can
+Maes ASO RA TP Pacman Milan man AIP ARMA is TRAP Dane PT APTS
+Nw CADE St Qe Araneae ae AAS LERAE DIALS ae P PSk A ASE We ar oS ? x a8 8 ks g Rag ke 3 Sb AS
+
+47, Pursuant to 7 U.S.C. Â§ 2(c}2)CD)Gn) (2018), the retail commodity transactions in
+gold, silver, ether, litecoin, and bitcoim alleged herem are subject to Section 4{a) of the Act,
+7 USC. Â§ 6(a} (2018), as if they are contracts of sale of a commodity for future delivery.
+
+AB. During the Relevant Period, Detendant violated 7 U.S.C. $ 6(a) by: (a) offering
+to enter into, entering into, executing, confirmime the execution of, or conducting an office or
+business in the United States for the purpose of soliciting or accepting orders for, or otherwise
+dealing in, any transaction in, or m connection with, retail commodity transactions im gold,
+silver, ether, litecoin, and bitcoin; and (b) not conducting such transactions on or subject to the
+rues of a board of trade which has been designated or registered by the Commission as a
+contract market or derivatives transaction facility for such commodities.
+
+AY, The acts and omissions of PaxForexâs officers, employees, and/or agents acting
+for PaxForex described in this Complaint were done within the scope of their office,
+employment, and/or agency with PaxPorex. Therefore, pursuant to Section 2(a)(1 (B} of the
+Act, 7 ULS.C. Â§ 2a) 0B) (2018), and Regulation 1.2, 17 CLP R. 8 1.2 2019), PaxForex is lable
+as a principal for each act, omission, or failure of its officers, employees, and/or agents acting for
+PaxPorex, constituting violations of 7 U.S.C. $ 6(a).
+
+50, Each act in violation of 7 U.S.C. Â§ 6(a@) including, but not limited to, those
+specifically alleged herein, is alleged as a separate and distinct violation.
+
+COUNT
+FADLURE TO REGISTER AS AN FCM
+Violations of Section 4d(a}(1) of the Act, 7 U.S.C. Â§ 6d(a)(Z) (2618)
+Si. Paragraphs | through 30 of this Complaint are re-alleged and incorporated herein
+
+by reference.
+Ã©s, AN SRP a ye â¢ weed 8 Nes Soy SEU EN BS âA ty sot ee
+
+Maes ASO RA TP Pacman Mian man AIP AMA is TRAP Danes TS Akos
+
+Nw CADE St Qe Araneae ae AAS LERAE DIALS ae Po RSA AED AS a â¬ Y x a8 8 ks g CAG RA. ME AS
+ry
+
+52. The leveraged, margined or financed transactions in forex such as EUR/USD and
+AUD/USD offered by Defendant to non-ECP U.S. customers constitute retail forex transactions
+under Section 2(c)(2)(C}D of the Act, 7 USC. Â§ 2(cK2)OC)G) (2018).
+
+53. The leveraged, margined or financed transactions in gold, silver, ether, htecoin,
+and bitcoin offered by Defendant to non-ECP U.S. customers constitute retail commodity
+transactions under 7 U.S.C. Â§ 20) DIG).
+
+54. 7US.AC. Â§ 6d{ayL) (2018), provides that it shall be unlawful for any person to be
+an FM unless such person is registered with the Commussion as an RCM.
+
+35. During the Relevant Period, PaxForex acted as an FCM by: (a) soliciting or
+accepting orders for retail forex transactions as described by 7 U.S.C. 3 2(c)2)(COG), and retail
+commodity transactions as described by 7 U.S.C. Â§ 2(c)(2)(D)@); or (b) acting as a counterparty
+for retail forex transactions as described by 7 U.S.C. Â§ 2(c2)(C)G) or retail commodity
+transactions as described by 7 U.S.C. 8 2(c2)CD)G); and, (c) in connection with these activities,
+accepting money, securities, or property Cor extending credit in hen thereof) to margin trades or
+contracts that result or may result therefrom, and failed to register with the Commission as an
+RCM, and therefore violated 7 U.S.C. Â§ 6d(ak(1).
+
+56, The acts and omissions of PaxForexâs officers, employees, and/or agents acting
+for PaxForex described in this Complaint were done within the scope of their office,
+employment, and/or agency with PaxPorex. Therefore, pursuant to 7 U.S.C. $ 2(ayC1\(B), and
+[7 CLRLR. Â§ 1.2, PaxForex is liable as a principal for each act, omission, or failure of its officers,
+employees, and/or agents acting for PaxForex, constituting violations of 7 ULS.C. Â§ 6d{ajqi).
+
+37. Each act in violation of 7 U.S.C. $ 6d(ajC1} including, but not limited to, those
+
+specifically alleged herein, is alleged as a separate and distinct violation.
+ns om e~ ao yes ered A ste a ew ee . . cae
+Mace ASO AAA RTP Mncsameani Mian am OOP APH ay TKS Bane TS ab ts
+A CASE Sh, Qe AS nea aâ RAS RPM ED DAE Gk Po RSA AED AS a â¬ Y x By 8 ks g RAs Rw ASE AAS
+
+VIE RELIEF REQUESTED
+WHEREPORE, the Commussion respectfully requests that this Court, as authorized by
+Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2018), and pursuant to its own equitable powers, enter:
+
+A. An order finding that Defendant violated Sections 4(a) and 4d(a)(1) of the Act,
+7TULS.C. $8 6fa), 6d) (2078);
+
+8. An order of permanent injunction enjoming Defendant and any other person or
+entity associated with it, including but not limited to affilhates, agents, servants,
+employees, assigns, attorneys, and all persons im active concert or participation
+with Defendant, including any successor thereof, from:
+
+(1) Engaging, directly or indirectly, in conduct m violation of 7 U.S.C. $$ 6fa),
+6d(ayc1);
+
+(2) Trading on or subject to the rules of any registered entity (as that term is
+defined in Section 1a(40) of the Act, 7 U.S.C. 8 1a(40) (2018)):
+
+(3) Entering into any transactions involving âcommodity interestsâ (as that term is
+defined in Regulation Â£.3, 17 C.FLR. Â§ 1.3 @2019)), for its own account(s} or
+for any account in which Defendant has a direct or indirect mierest;
+
+(4) Having any commodity interests traded on Defendantâs behalf;
+
+(5) Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account involving
+commodity interests;
+
+(G6) Soliciting, receiving, or accepting any funds from any person for the purpose
+
+of purchasing or selling any commodity interests;
+C.
+
+â Aa ey os erent ~* <i a ew oe . . pan
+PAYER STP Pines mani Mian an AIP AMA is TRAP Danes TA Akos
+AM eS Araneae ae AAS LERAE DIALS ae Po RSA AED AS a â¬ Y x a8 8 ks g RAs AAS Ast AAS
+
+(7) Applyme for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the Commission, except as
+provided for in Regulation 4.14(a}(9), 17 CLP_LR. Â§ 4.14(a)(9) (2019), and/or
+
+(8) Acting as a principal (as that term is defined in Regulation 3.1(a), 17 C.PLR.
+$ 3.1(a} 2019)), agent, or any other officer or employee of any person (as that
+term is defined in 7 U.S.C. Â§ ta(38) O18), registered, exempted from
+registration, or required to be registered with the Commission except as
+provided for in 17 CLPLR. 8 4 L4(ay9)).
+
+An order directing Defendant to pay a civil monetary penalty for each viclation of
+
+the Act of not more than the amount set forth by Section 6c(d}(1) of the Act,
+
+TUS AC. Â§ [3a-1(dC) (2018), as adjusted for inflation pursuant to the Federal
+
+Civil Penalties Inflation Adjustment Act Improvements Act of 2015, Pub. L.
+
+[i4â74, 129 Stat. 584 (2015), tithe VIL, Section 701, and promulgated in
+
+Regulation 143.8, 17 CLERK. Â§ 143.8 QOL), plus post-judgment interest;
+
+An order directing Defendant, as well as any successor thereof, to disgorge,
+
+pursuant to such procedure as the Court may order, all benefits received
+
+including, but not limited to, trading profits, revenues, salaries, commissions,
+fees, or loans derived directly or indirectly from acts or practices which constitute
+violations of the Act, as described herein, and pre- and post-judgment interest
+thereon from the date of such violations;
+
+An order directing Defendant, as well as any successor thereof, to make full
+
+restitution, pursuant to such procedure as the Court may order, to every customer
+H.
+
+PALSY RS TP Macs mani Saad an APS Ares in TREY Cane TR ab ts
+AMA WTA RAE AW ASLSLEE EAE SS PE RSR A AE Se ee alte YP oe 8 SNS FO GALA Sat Nt A.
+ss
+
+whose funds Defendant received, or caused another person or entity to receive, as
+a result of the acts and practices constituting violations of the Act, as described
+herein, and pre- and post-judgment interest thereon from the date of such
+violations;
+
+An order directing Defendant, as well as any successor thereof, to rescind,
+pursuant to such procedure as the Court may order, all contracts and agreements,
+whether express or imphed, entered into between or with Defendant and any
+customer whose funds were received by Defendant as a result of the acts and
+practices which constituted violations of the Act, as described herein;
+
+An order directing that Defendant, and any successor thereof, make an accounting
+to the Court of all of its assets and habilities, together with all funds ut received
+from and paid to customers and other persons in connection with commodity
+transactions and all disbursements for any purpose whatsoever of fands received
+from commodity transactions, including salaries, commusstons, interest, fees,
+loans, and other disbursement of money or property of any kind from at least the
+beginning of the Relevant Period to the date of such accounting;
+
+An order requiring Defendant and any successor thereof to pay costs and fees as
+permitted by 28 ULS.C. $8 1920 and 2412(a}(2) 2018): and
+
+An order providing such other and farther relief as the Court deers proper.
+Case 4:20-cv-03317 Document1 Filed on 09/24/20 in TXSD_ Page 16 of 16
+
+Dated: September 25, 2020
+
+16
+
+Respectfully submitted,
+
+s/ Harry E. Wedewer
+
+Harry E. Wedewer
+Attorney-in-Charge
+
+D.C. Bar No. 975819 (pro hac vice
+admission pending)
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+1155 21st Street, N.W.
+Washington, D.C. 20581
+Telephone: (202) 418-5189
+Facsimile: (202) 418-5538
+
+ 
+
+Candice Aloisi
+
+NY Bar No. 4342184 (pro hac vice
+admission pending)
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+140 Broadway, 19th floor
+
+New York, NY 10005
+
+Telephone: (646) 746-9845
+
+Facsimile: (646) 746-9898
+
+Manal Sultan
+
+NY Bar No. 2738805 (pro hac vice
+admission pending)
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+140 Broadway, 19th floor
+
+New York, NY 10005
+
+Telephone: (646) 746-9761
+
+Facsimile: (646) 746-9898
+
+Attorneys for Plaintiff

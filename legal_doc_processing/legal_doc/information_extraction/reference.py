@@ -1,5 +1,7 @@
 import re
 
+from legal_doc_processing import logger
+
 
 def predict_reference(obj: dict, length_treshold=50) -> list:
     """parse the first page line by line, matching a
@@ -58,7 +60,7 @@ if __name__ == "__main__":
     # import
     import time
     from legal_doc_processing.utils import get_pipeline, get_spacy
-    from legal_doc_processing.legal_doc.loader import legal_doc_X_y
+    from legal_doc_processing.legal_doc.utils import legal_doc_X_y
     from legal_doc_processing.legal_doc.legal_doc import LegalDoc
 
     # laod

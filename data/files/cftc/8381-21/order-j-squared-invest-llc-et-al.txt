@@ -1,0 +1,613 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+ 
+
+In the Matter of:
+
+J Squared Invest LLC and
+Jozef Gherman,
+
+ 
+
+CFTC Docket No. 21-06
+
+Proceedings Clerk
+
+\ 10:27 am, Apr 19, 2021 )
+
+ 
+
+ 
+
+Respondents.
+
+a 4 ae ae a a a
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+from in or about June 2017 to at least July 2018 (âRelevant Periodâ), J Squared Invest LLC (âJ
+Squared Investâ) and Jozef Gherman (âGhermanââ) (collectively, âRespondentsâ) violated
+Section 6(c)(1) of the Commodity Exchange Act (âActâ), 7 U.S.C. Â§ 9(1) (2018), and Regulation
+180.1(a), 17 C.F.R. Â§ 180.1(a) (2019) of the Commission Regulations (âRegulationsâ)
+promulgated thereunder. Therefore, the Commission deems it appropriate and in the public
+interest that public administrative proceedings be, and hereby are, instituted to determine
+whether Respondents engaged in the violations set forth herein and to determine whether any
+order should be issued imposing remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Respondents have
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondents consent to
+the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
+Exchange Act, Making Findings, and Imposing Remedial Sanctions (âOrderâ), and acknowledge
+service of this Order.!
+
+ 
+
+' Respondents consent to the use of the findings of fact and conclusions of law in this Order in this proceeding and
+in any other proceeding brought by the Commission or to which the Commission 1s a party or claimant, and agree
+that they shall be taken as true and correct and be given preclusive effect therein, without further proof.
+
+Respondents do not consent, however, to the use of this Order, or the findings or conclusions herein, as the sole
+basis for any other proceeding brought by the Commission or to which the Commission 1s a party or claimant, other
+than: a proceeding in bankruptcy or receivership; or a proceeding to enforce the terms of this Order. Respondents
+do not consent to the use of the Offer or this Order, or the findings or conclusions in this Order, by any other party in
+any other proceeding.
+I. FINDINGS
+The Commission finds the following:
+A. SUMMARY
+
+Between June 2017 and July 2018, Respondents solicited and accepted funds from over
+forty (40) customers to trade virtual currencies (also called cryptocurrencies or digital assets),
+including Bitcoin, Bitcoin Cash, Ether and other alternative coins? (âaltcoinsâ), through the use
+of materially misleading statements and omissions. Respondents solicited retail customers for
+the purpose of, inter alia, purchasing sufficient quantities of virtual currencies to establish and
+operate masternodes. Respondents solicited customers through various means, including a
+website, social media and written and verbal communications, which: (1) made misleading
+representations about the growth and success of J Squared and Ghermanâs success as a trader;
+and (ii) made misleading statements and omissions regarding the likelihood of profit and risk of
+loss, including by claiming that in purchasing the virtual currencies to operate the masternodes,
+the customer would make the original principal, set up fee and profit, even if the price of the
+underlying virtual currency suffered catastrophic losses.
+
+In total, Respondents solicited over $300,000 from over 40 individuals through the use of
+their misleading statements and omissions. Almost all of these customers who entrusted
+Respondents with their funds and followed Ghermanâs recommendations lost most of their
+investments.
+
+In accepting the Offer, the Commission recognizes the substantial cooperation of
+Respondents with the Division of Enforcementâs (âDivisionâ) investigation of this matter. The
+Commission also acknowledges Respondentsâ representations concerning their remediation in
+connection with this matter. The Commissionâs recognition of Respondentsâ substantial
+cooperation and remediation is further reflected in the form of a reduced penalty.
+
+B. RESPONDENTS
+
+Jozef Gherman, born in 1994, is a Florida resident. Gherman was an employee and one
+of the founders of J Squared and was its principal owner and CEO. Gherman has never been
+registered with the Commission in any capacity.
+
+J Squared Invest LLC was a limited liability company organized under the laws of the
+State of Florida in October 2017. The company was dissolved in October 2018. Gherman was
+listed as the companyâs manager in corporate filings, and as its CEO on its website. The
+companyâs most recent address, according to corporate filings, was listed in St. Petersburg,
+Florida. J Squared has never been registered with the Commission in any capacity.
+
+ 
+
+? Bitcoin Cash is a âforkedâ virtual currency derived from Bitcoin. âForkingâ involves a splitting of the blockchain
+on which the virtual currency runs in a different direction. The term âaltcoinsâ refers to virtual currencies other than
+Bitcoin. Ether is the largest altcoin by market capitalization as of September 2020.
+C. FACTS
+
+From at least in or around June 2017 through at least July 2018 (the âRelevant Periodâ),
+Respondents were engaged in the business of purchasing and selling Ether, Bitcoin, Bitcoin Cash
+along with other altcoins. Bitcoin is a form of virtual currency, which is a decentralized, peer-to-
+peer form of electronic currency.
+
+As part of their operations, Respondents solicited and received both virtual currencies
+and fiat currency, including U.S. Dollars from customers in various states and countries for the
+purpose of entering into or facilitating the customersâ purchase or sale of various virtual
+currencies for customers, including Bitcoin, Bitcoin Cash, Ether and other altcoins. Initially,
+Respondents solicited customers to purchase virtual currencies in order to speculate on the price
+of the underlying virtual currency. In or around January 2018, Respondents changed their
+business model to identify and purchase particular altcoins in sufficient quantity that would
+allow them to operate masternodesÂ® and earn passive income. In total, Gherman and J Squared
+solicited over $300,000 from over forty individuals (the âJ Squared Customersâ or âCustomersââ).
+
+Gherman and J Squared entered into written agreements with the Customers that referred
+to J Squared as the âAdvisorâ to the Customers. The form of the investor agreement changed
+over time, initially identifying Gherman as a fiduciary of the Customers, and later indicating that
+J Squared was responsible for proposing a âmethodology to guide current and new investmentsâ
+for the Customers. The Customers typically had little, if any, background in virtual currencies
+and relied on Gherman to select the virtual currencies for their investments. Many Customers
+were dependent on Gherman to make their investment decisions for them and trusted him as their
+investment âadvisorâ to make those decisions for them.
+
+Gherman, in his communications with J Squared Customers, recklessly made
+misleading statements of material fact or omitted to state material facts which induced
+individuals to invest with J Squared, invest additional funds with J Squared, or continue to hold
+their investments with J Squared. Respondents made misleading statements regarding J
+Squaredâs growth and success as a company, its expanding clientele, and its ability to be
+selective in acquiring customers. For instance, Respondents falsely stated that J Squared was
+ârapidly approaching multimillion dollar levels [under management].â In fact, J Squaredâs
+assets under management did not approach the million-dollar mark. Financial records and
+emails indicate that, at the time of this claim, J Squaredâs assets under management were
+approximately $100,000. Similarly, Respondents made false statements that the company was
+focusing on âquality over quantityâ and began imposing âminimumâ investment requirements
+that exceeded most current Customersâ investment levels. In reality, J Squared continued to
+accept new Customers investing at levels far below the $10,000 âminimumâ investment level.
+Most Customers invested between $2,000 and $7,000 with J Squared.
+
+ 
+
+3 A masternode is essentially computer wallet (also known as a crypto full node) that supports the network of a
+virtual currency by hosting an entire copy of the coinâs ledger in real time. In return for its hosting services, the
+owner of masternode will receive virtual currencies as a reward. See https://cryptodigestnews.com/blockchain-
+basics-what-is-masternode-dbed481a846e?2Â¢1=6455a2eaeb19. To establish a masternode, a party needs to purchase
+a substantial quantity of the virtual currency in question to serve as the operatorâs âstakeâ in the currency.
+https://decryptionary.com/dictionary/masternode/.
+Furthermore, Respondents recklessly made materially false and misleading statements
+and omissions regarding the likelihood of profit and the risk of loss. For instance, when
+Gherman initially proposed liquidating the virtual currencies to accumulate altcoins to run
+masternodes, he explained it by saying â[t]he reason is simple. You are going to receive a check
+at the end every month,â and that customers have the opportunity âto generate substantial income
+at a fraction of the cost ...[and] can get a $5,000 master node that can generate $40,000
+annually.â However, when touting the likelihood of profit for his investment recommendation,
+Gherman failed to disclose that the returns or rewards generated by masternodes tended to be
+ârandomâ and could not be relied upon to generate enough rewards to warrant monthly checks or
+thousands of dollars annually. Gherman subsequently acknowledged to customers that
+masternode returns tended to be random only after Customers made their initial investment and
+then complained about the failure to produce the touted returns. Gherman also misrepresented
+the risk of loss in purchasing certain virtual currencies, claiming, for example, that â[1]n every
+scenario, especially the catastrophic scenario, the client [still] makes original principal, set up fee
+and profit.â While Gherman provided boilerplate disclosures in emails that his claims were not
+âguarantees,â he was reckless in misrepresenting to Customers the likelihood of profit and the
+risk of loss associated with their investments.
+
+In almost every instance, the masternodes Gherman recommended failed to deliver the
+touted returns, and the virtual currencies purchased to run the masternodes suffered substantial
+declines in value. In total, Respondents solicited over $300,000 from over forty (40) J Squared
+Customers during the Relevant Period. Respondents incurred near total net losses on the
+investments. Collectively, the Customers suffered unreimbursed losses totaling approximately
+$247,110.
+
+Hl. LEGAL DISCUSSION
+
+A. Violation of Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) and Regulation 180.1(a), 17
+C.F.R. Â§ 180.1(a)
+
+Section 6(c)(1) of the Act makes it unlawful for any person, directly or indirectly, to:
+
+use or employ, or attempt to use or employ, in connection with any swap, or a
+contract of sale of any commodity in interstate commerce, or for future delivery
+on or subject to the rules of any registered entity, any manipulative or deceptive
+device or contrivance, in contravention of such rules and regulations as the
+Commission shall promulgate ...
+
+Promulgated under Section 6(c)(1) of the Act, Regulation 180.1(a) provides:
+It shall be unlawful for any person, directly or indirectly, in connection with any swap, or
+a contract of sale of any commodity in interstate commerce, or for future delivery on or
+
+subject to the rules of any registered entity, to intentionally or recklessly:
+
+(1) Use or employ, or attempt to use or employ, any manipulative device, scheme, or
+artifice to defraud;
+(2) Make, or attempt to make, any untrue or misleading statement of a material fact or
+to omit to state a material fact necessary in order to make the statements made not
+untrue or misleading;
+
+(3) Engage, or attempt to engage, in any act, practice, or course of business, which
+operates or would operate as a fraud or deceit on any person.
+
+Virtual currencies such as Bitcoin are encompassed in the definition of âcommodityâ
+under Section 1a(9) of the Act, 7 U.S.C. Â§ 1a(9) (2018). See CFTC v. McDonnell, 287 F. Supp.
+3d 213, 228 (E.D.N.Y.) (â[V]irtual currencies can be regulated by CFTC as a commodity.â),
+aff'd on reconsideration, 321 F. Supp. 3d 366 (E.D.N.Y. 2018); In re BFXNA Inc., CFTC No.
+16-19, 2016 WL 3137612, at *5 (June 2, 2016) (consent order) (â[V]irtual currencies are
+encompassed in the [Actâs] definition and properly defined as commodities.â); /n re Coinflip,
+Inc., CFTC No. 15-29, 2015 WL 5535736, at *2 (Sept. 17, 2015) (consent order) (âBitcoin and
+other virtual currencies are encompassed in the definition [of Section 1a(9) of the Act] and
+properly defined as commodities.â); see also CFTC v. My Big Coin Pay, Inc., No. CV 18-
+10077-RWZ, 2018 WL 4621727, at *5 (D. Mass. Sept. 26, 2018). Accordingly, Bitcoin,
+Litecoin and other virtual currencies are subject to applicable provisions of the Act and
+Commission Regulations, including Section 6(c)(1) of the Act and Regulation 180.1(a). See,
+e.g., Inre TeraExchange LLC, CFTC No. 15-33, 2015 WL 5658082, at *3 n.3 (Sept. 24, 2015)
+(consent order) (âFurther, bitcoin is a commodity under Section la of the Act, 7 U.S.C. Â§ la
+(2012), and is therefore subject as a commodity to applicable provisions of the Act and
+Regulations.â).
+
+The Commission has authority under Section 6(c)(1) of the Act and Regulation 180.1 to
+take action against persons who engage in fraud and fraudulent schemes in connection with
+contracts of sale of commodities in interstate commerce. McDonnell, 321 F. Supp. 3d at 367
+(affirming on reconsideration that âTitle 7 U.S.C. Â§ 9(1) gives the CFTC standing to exercise
+its enforcement power over the fraudulent schemes alleged in the complaint.â); My Big Coin
+Pay, 2018 WL 4621727 at *5 (rejecting defense that Section 6(c)(1) of the Act and Regulation
+180.1 were meant only to combat fraudulent market manipulation and not the alleged
+solicitation fraud). A person violates Section 6(c)(1) of the Act and Regulation 180.1 if he or
+she: (1) engages in prohibited conduct (1.e., employs a fraudulent scheme, makes material
+misrepresentations or omissions, or engages in fraudulent business practices); (2) in connection
+with the sale of a commodity in interstate commerce; (3) with scienter. CFTC v. Hunter Wise
+Commodities, LLC, 21 F. Supp. 3d 1317, 1347 (S.D. Fla. 2014). Each of these elements is
+present in this case.
+
+During the course of J Squaredâs operations, Gherman solicited and received virtual
+currency and fiat currency, including U.S. Dollars from Customers in various states and
+countries for the purpose of entering into or facilitating the Customersâ purchase or sale of
+cryptocurrency. Gherman engaged in prohibited conduct when he made misleading statements
+to Customers regarding J Squaredâs growth and success as a company, its expanding clientele,
+including misleading statements that J Squared was ârapidly approaching multimillion dollar
+levels [under management].â
+
+Similarly, Gherman made misrepresentations to Customers regarding the likelihood of
+profit of his investment recommendations and the risk of loss. For example, Gherman
+recklessly made false statements asserting that Customers who purchased altcoins for the
+creation of masternodes were âgoing to receive a check at the end every month,â and that they
+could âget a $5,000 master node that can generate $40,000 annually.â Gherman failed to
+disclose to Customers that he understood the touted returns or rewards generated by
+masternodes tended to be ârandom.â
+
+A statement of fact is material if âthere is a substantial likelihood that a reasonable
+investor would consider it important in making an investment decision.â Saxe v. E.F. Hutton &
+Co., 789 F.2d 105, 111 (2d Cir. 1986). Any fact that enables investors to assess the risk
+inherent in their investment and the likelihood of profit is material. See In re Commodities Intâl
+Corp., CFTC No. 83-43, 1997 WL 11543, at *8-9 (Jan. 14, 1997). Misrepresentations
+concerning profit and risk go to the heart of a customerâs investment decision and are therefore
+material as a matter of law. CFTC v. Intâl Fin. Servs. (N.Y.), Inc., 323 F. Supp. 2d 482, 501
+(S.D.N.Y. 2004) (citations omitted). Here, Respondentsâ misrepresentations about the growth,
+success, and expanding clientele of J Squared, as well as Respondentsâ misrepresentations
+regarding likelihood of profit and risk of loss were material.
+
+By and through the aforementioned conduct, Respondents violated Section 6(c)(1) of
+the Act and Regulation 180.1 when they either knowingly or recklessly made false and
+misleading statements and omissions in connection with contracts of sale of virtual currencies
+in interstate commerce such as Ether, Bitcoin, Bitcoin Cash and other altcoins.
+
+B. Gherman Is Liable as a Control Person for J Squaredâs Conduct.
+
+Gherman is liable for J Squaredâs conduct as a controlling person. Section 13(b) of the
+Act, 7 U.S.C. Â§ 13c(b) (2018), states that a controlling person of an entity is liable for the
+violations of that entity if the controlling person knowingly induced the violations, directly or
+indirectly, or did not act in good faith. âA fundamental purpose of Section 13[(b)] is to allow the
+Commission to reach behind the corporate entity to the controlling individuals of the corporation
+and to impose liability for violations of the Act directly on such individuals as well as the
+corporation itself.â CFTC v. RJ. Fitzgerald & Co., Inc., 310 F.3d 1321, 1334 (11th Cir. 2002)
+(quoting JCC, Inc. v. CFTC, 63 F.3d 1557, 1567 (11th Cir. 1995)). A controlling person
+âknowingly inducedâ the conduct if he âhad actual or constructive knowledge of the core
+activities that make up the violation at issue and allowed them to continue.â Jd.
+
+To establish the control element, Plaintiff must prove by a preponderance of the evidence
+that the alleged control person had âgeneral control over the operation of the entity principally
+liable.â Monieson v. CFTC, 996 F.2d 852, 859 (7th Cir. 1993) (quoting Donohoe v. Consol.
+Operating & Prod. Corp., 982 F.2d 1130, 1138 (7th Cir. 1992)). Control person liability will
+attach if the defendant âpossessed the power or ability to control the specific transaction or
+activity upon which the primary violation was predicated.â Jd. Making management and hiring
+decisions and overseeing day-to-day operations support a finding that the alleged
+controlling person exercised âgeneral controlâ over the enterprise. See id. at 860 (citing G.A.
+Thompson & Co., Inc. v. Partridge, 636 F.2d 945, 958 (Sth Cir. 1981)). It is the existence of the
+âpowerâ or ability to control the illegal transaction or activity âthat matters, not whether he
+exercised it by actually participating in or benefitting from the illegal acts.â See id.
+Gherman was one of founders and chief operating officer of J Squared. Gherman
+had actual knowledge of the violations at issue here. Gherman exercised general control over J
+Squared by making management and personnel decisions for the company, was the main point of
+contact for soliciting and interacting with J Squared Customers, and conducted the trading
+activities for the company and its Customers. Therefore, pursuant to Section 13(b) of the Act,
+Gherman as a controlling person is liable for J Squaredâs violations of Section 6(c)(1) and
+Regulation 180.1.
+
+C. J Squared Is Liable for Ghermanâs Conduct
+
+J Squared is liable for Ghermanâs conduct. Section 2(a)(1)(B) of the Act, 7 U.S.C.
+Â§ 2(a)(1)(B) (2018), and Regulation 1.2, 17 C.F.R. Â§ 1.2 (2019), provide that â[t]he act,
+omission, or failure of any official, agent, or other person acting for any individual, association,
+partnership, corporation, or trust within the scope of his employment or office shall be deemed
+the act, omission, or failure of such individual, association, partnership, corporation, or trust.â
+Pursuant to Section 2(a)(1)(B) of the Act and Commission Regulation 1.2, strict liability is
+imposed on principals for the actions of their agents. See, e.g., Rosenthal & Co. v. CFTC, 802
+F.2d 963, 966 (7th Cir. 1986); Dohmen-Ramirez v. CFTC, 837 F.2d 847, 857-58 (9th Cir. 1988);
+CFTC v. Byrnes, 58 F. Supp. 3d 319, 324 (S.D.N.Y. 2014).
+
+Gherman, an employee, official and agent of J Squared, engaged in the conduct described
+herein within the course and scope of his employment or office with J Squared. Therefore,
+pursuant to Section 2(a)(1)(B) of the Act and Regulation 1.2, J Squared is liable for the acts,
+omissions, and failures of Gherman in violation of the provisions of the Act and Regulations
+cited above.
+
+IV. FINDINGS OF VIOLATION
+
+Based on the foregoing, the Commission finds that, during the Relevant Period,
+Respondents violated Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) (2018), and Regulation
+180.1(a), 17 C.F.R. Â§ 180.1(a) (2019).
+
+V. OFFER OF SETTLEMENT
+
+Respondents have submitted the Offer in which they, without admitting or denying the
+findings and conclusions herein:
+
+A. Acknowledge service of this Order;
+
+B. Admit the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C. Waive:
+1. The filing and service of a complaint and notice of hearing;
+2. A hearing;
+All post-hearing procedures;
+Judicial review by any court;
+
+Any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+Any and all claims that they may possess under the Equal Access to Justice Act, 5
+U.S.C. Â§ 504 (2018), and 28 U.S.C. Â§ 2412 (2018), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations, 17 C.F.R.
+pt. 148 (2019), relating to, or arising from, this proceeding;
+
+Any and all claims that they may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. II, Â§Â§ 201-253, 110
+Stat. 847, 857-74 (codified as amended at 28 U.S.C. Â§ 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order;
+
+Stipulate that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondents have consented in the Offer; and
+
+Consent, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+I.
+
+Makes findings by the Commission that Respondents violated Section 6(c)(1) of
+the Act, 7 U.S.C. Â§ 9(1) (2018), and Regulation 180.1(a), 17 C.F.R. Â§ 180.1(a)
+(2019);
+
+Orders Respondents to cease and desist from violating Section 6(c)(1) of the Act
+and Regulation 180. 1(a);
+
+Orders Respondents to pay restitution in the amount of two hundred-forty seven
+thousand one hundred and ten dollars ($247,110), plus post-judgment interest
+within thirty days of the date of entry of this Order, with the amount to be paid by
+Gherman to be capped at one hundred and twenty-three thousand five hundred and
+fifty-five dollars ($123,555), plus any post-judgment interest, and the amount to be
+paid by J Squared to be capped at one hundred and twenty-three thousand five
+hundred and fifty-five dollars ($123,555), plus any post-judgment interest;
+
+Orders Respondents to pay a civil monetary penalty in the amount of one hundred
+and fifty thousand dollars ($150,000), plus post-judgment interest within thirty
+days of the date of entry of this Order, with the amount to be paid by Gherman to
+be capped at seventy-five thousand dollars ($75,000), plus any post-judgment
+interest, and the amount to be paid by J Squared to be capped at seventy-five
+thousand dollars ($75,000), plus any post-judgment interest;
+5. Appoints the National Futures Association (âNFAâ) as Monitor in this matter;
+
+6. Orders that Respondents be prohibited from, directly or indirectly, engaging in
+trading on or subject to the rules of any registered entity (as that term is defined in
+Section 1a(40) of the Act, 7 U.S.C. Â§ 1a(40) (2018)), for a period of ten (10) years
+after the date of entry of this Order, and all registered entities shall refuse them
+trading privileges during that period; and
+
+7. Orders Respondents and their successors and assigns to comply with the conditions
+and undertakings consented to in the Offer and as set forth in Part VI of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+I.
+
+Respondents shall cease and desist from violating Section 6(c)(1) of the Act, 7 U.S.C.
+Â§9(1) (2018), and Regulation 180.1(a), 17 C.F.R. Â§ 180.1(a) (2019).
+
+Respondents shall pay restitution in the amount of two hundred-forty seven thousand one
+hundred and ten dollars ($247,110), plus post-judgment interest within thirty days of the
+date of entry of this Order, with the amount to be paid by Gherman to be capped at one
+hundred and twenty-three thousand five hundred and fifty-five dollars ($123,555), plus
+any post-judgment interest, and the amount to be paid by J Squared to be capped at one
+hundred and twenty-three thousand five hundred and fifty-five dollars ($123,555), plus
+any post-judgment interest (âRestitution Obligationsâ). If the Restitution Obligations are
+not paid in full within thirty days of the date of entry of this Order, then post-judgment
+interest shall accrue on the Restitution Obligations beginning on the date of entry of this
+Order and shall be determined by using the Treasury Bill rate prevailing on the date of
+entry of this Order pursuant to 28 U.S.C. Â§ 1961 (2018).
+
+To effect payment by Respondents and the distribution of restitution to Respondentsâ
+customers, the Commission appoints NFA as âMonitor.â The Monitor shall receive
+payments of the Restitution Obligations and any post-judgment interest from
+Respondents and make distributions as set forth below. Because the Monitor is not being
+specially compensated for these services, and these services are outside the normal duties
+of the Monitor, it shall not be liable for any action or inaction arising from its
+appointment as Monitor other than actions involving fraud.
+
+Respondents shall make their respective payments of the Restitution Obligations and any
+post-judgment interest under this Order in the name of the âJ Squared/Jozef Gherman
+Settlement Fundâ and shall send such payments by electronic funds transfer, or U.S.
+postal money order, certified check, bank cashierâs check, or bank money order to the
+Office of Administration, National Futures Association, 300 South Riverside Plaza, Suite
+1800, Chicago, Illinois 60606, under a cover letter that identifies the paying Respondent
+and the name and docket number of this proceeding. The paying Respondent shall
+simultaneously transmit copies of the cover letter and the form of payment to the Chief
+Financial Officer, Commodity Futures Trading Commission, Three Lafayette Centre,
+1155 21st Street, NW, Washington, D.C. 20581.
+
+The Monitor shall oversee Respondentsâ Restitution Obligations and shall have the
+discretion to determine the manner of distribution of funds in an equitable fashion to the
+Respondentsâ customers or may defer distribution until such time as the Monitor may
+deem appropriate. In the event that the amount of payments of the Restitution Obligations
+to the Monitor are of a de minimis nature such that the Monitor determines that the
+administrative cost of making a restitution distribution is impractical, the Monitor may, in
+its discretion, treat such restitution payments as civil monetary penalty payments, which
+the Monitor shall forward to the Commission, as discussed below. To the extent any
+funds accrue to the U.S. Treasury for satisfaction of Respondentsâ Restitution
+Obligations, such funds shall be transferred to the Monitor for disbursement in
+accordance with the procedures set forth in this Order.
+
+Respondents shall pay a civil monetary penalty in the amount of one hundred fifty
+thousand dollars ($150,000), plus post-judgment interest within thirty days of the date of
+entry of this Order; with the amount to be paid by Gherman to be capped at seventy-five
+thousand dollars ($75,000), plus any post-judgment interest, and the amount to be paid by
+J Squared to be capped at seventy-five thousand dollars ($75,000), plus any post-
+judgment interest (âCMP Obligationsâ). If the CMP Obligations are not paid in full
+within thirty days of the date of entry of this Order, then post-judgment interest shall
+accrue on the CMP Obligations beginning on the date of entry of this Order and shall be
+determined by using the Treasury Bill rate prevailing on the date of entry of this Order
+pursuant to 28 U.S.C. Â§ 1961 (2018).
+
+J Squared and Gherman shall pay their respective CMP Obligations and any post-
+judgment interest by electronic funds transfer, U.S. postal money order, certified check,
+bank cashierâs check, or bank money order. If payment is to be made other than by
+electronic funds transfer, then the payment shall be made payable to the Commodity
+Futures Trading Commission and sent to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+9-AMC-AR-CFTC@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondents shall contact Marie
+Thorne or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondents shall accompany payment of the CMP
+Obligations with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+
+10
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+
+Respondents are prohibited from, directly or indirectly, engaging in trading on or subject
+to the rules of any registered entity (as that term is defined in Section 1a(40) of the Act, 7
+U.S.C. Â§ 1a(40) (2018)), for a period of ten (10) years after the date of entry of this
+Order, and all registered entities shall refuse them trading privileges during that period;
+
+and
+
+Respondents and their successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+I.
+
+Public Statements: Respondents agree that neither they nor any of their
+successors and assigns, agents or employees under their authority or control shall
+take any action or make any public statement denying, directly or indirectly, any
+findings or conclusions in this Order or creating, or tending to create, the
+impression that this Order is without a factual basis; provided, however, that
+nothing in this provision shall affect Respondentsâ: (1) testimonial obligations; or
+(11) right to take legal positions in other proceedings to which the Commission is
+not a party. Respondents and their successors and assigns shall comply with this
+agreement, and shall undertake all steps necessary to ensure that all of their agents
+and/or employees under their authority or control understand and comply with
+this agreement.
+
+Respondents agree that, for a period of ten (10) years, they shall not, directly or
+indirectly:
+
+a. enter into any transactions involving âcommodity interestsâ (as that term is
+defined in Regulation 1.3, 17 C.F.R. Â§ 1.3 (2019), or virtual currencies, for
+Respondentsâ own personal accounts or for any accounts in which
+Respondents have a direct or indirect interest;
+
+b. have any commodity interests traded, or virtual currency transactions
+conducted, on Respondentsâ behalf;
+
+c. control or direct the trading for or on behalf of any other person or entity,
+whether by power of attorney or otherwise, in any account involving
+commodity interests or virtual currencies;
+
+d. solicit, receive, or accept any funds from any person for the purpose of
+purchasing or selling any commodity interests or virtual currencies;
+
+e. apply for registration or claim exemption from registration with the
+Commission in any capacity, and engage in any activity requiring such
+registration or exemption from registration with the Commission except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2019); and/or
+
+11
+f. act as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R.
+Â§ 3.1(a) (2019)), agent or any other officer or employee of any person (as that
+term is defined in Section 1a(38) of the Act, 7 U.S.C. Â§ 1a(38) (2018)),
+registered, required to be registered, or exempted from registration with the
+Commission except as provided for in Regulation 4.14(a)(9).
+
+Cooperation with Monitor: Respondents shall cooperate with the Monitor as
+appropriate to provide such information as the Monitor deems necessary and
+appropriate to identify Respondentsâ customers, whom the Monitor, in its sole
+discretion, may determine to include in any plan for distribution of any restitution
+payments. Respondents shall execute any documents necessary to release funds
+that they have in any repository, bank, investment or other financial institution,
+wherever located, 1n order to make partial or total payment toward the Restitution
+Obligations.
+
+Cooperation, in General: Respondents shall cooperate fully and expeditiously
+with the Commission, including the Commissionâs Division of Enforcement in
+this action.
+
+Partial Satisfaction: Respondents understand and agree that any acceptance by
+the Commission or the Monitor of any partial payment of Respondentsâ
+Restitution Obligations or CMP Obligations shall not be deemed a waiver of their
+obligation to make further payments pursuant to this Order, or a waiver of the
+Commissionâs right to seek to compel payment of any remaining balance.
+
+Change of Address/Phone: Until such time as Respondents satisfy in full their
+Restitution Obligations and CMP Obligations as set forth in this Order,
+Respondents shall provide written notice to the Commission by certified mail of
+any change to their telephone number and mailing address within ten calendar
+days of the change.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+(Te
+
+fe |.
+
+ 
+
+ 
+
+   
+
+   
+ 
+
+s ACTCOG
+
+  
+
+ 
+
+Christopher J. Kirkpatrick
+
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: April 19, 2021
+
+12

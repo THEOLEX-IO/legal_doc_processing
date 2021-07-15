@@ -1,0 +1,1413 @@
+Case 1:20-cv-01217 Document1 Filed 09/08/20 Page 1 of 46
+
+IN THE UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF NEW YORK
+
+ 
+
+Bureau of Consumer Financial
+Protection and the People of the
+State of New York, by Letitia James,
+Attorney General for the State of
+
+New York, Li. ;
+Civil Action No.
+
+ 
+
+Plaintiffs,
+
+Vv. COMPLAINT
+
+JPL Recovery Solutions, LLC; Check
+Security Associates, LLC (dba
+Warner Location Services and
+Orchard Payment Processing
+Systems); ROC Asset Solutions LLC
+(dba API Recovery Solutions);
+Regency One Capital LLC; Keystone
+Recovery Group, LLC; Christopher
+L. Di Re; Scott A. Croce; Brian J.
+Koziel; and Marc D. Gracie,
+
+Defendants.
+
+ 
+
+ 
+
+The Bureau of Consumer Financial Protection (Bureau) and the
+People of the State of New York, by Letitia James, Attorney General for the
+State of New York (NYAG), bring this action against Defendants JPL
+Recovery Solutions, LLC (JPL); Check Security Associates, LLC (CSA) dba
+
+Warner Location Services (Warner) and Orchard Payment Processing
+
+1
+_â . a ome os a _. . oa mesg tN PPR Ne ~~ of co
+Racor TBM aw OI BTS Myra eepeneed FT tose & LOA F ey Mayen GF at ie
+q gra SE 5 OL ted Yredeoie y fÂ£ Soak bp Th ary beeeay ae : Ser GbE D PN e od seas 8 * ont 2% Z eta gay
+tee? CADE LR SL OAS Le RAS LG PEAS Po POPPA Mea AS koe ee PORARPR GAP ASA
+
+Systems (Orchard); ROC Asset Solutions LLC (ROC) dba API Recovery
+Solutions (API); Regency One Capital LLC (Regency); Keystone Recovery
+Group, LLC (Keystone) (collectively, the Corporate Defendants); and
+Christopher L. Di Re; Scott A. Croce; Brian J. Koziel; and Marc D. Gracie
+(collectively, the Individual Defendants), and allege as follows:
+
+INTRODUCTION
+
+1. This case concerns an illegal debt-collection scheme involving a
+network of interrelated companies that purchases millions of dollars of
+defaulted consumer debt and, using deceptive and harassing methods,
+collects on that debt illegally (the Debt-Collection Operation).
+
+2. The Debt-Collection Operation, which has operated from at
+least 2015 through the present, is owned and run by Di Re and Croce and
+managed by Koziel and Gracie.
+
+3. The Debt-Collection Operation uses illegal methods to induce
+consumers to make payments, including: threatening consumers with
+arrest or legal action the firms had no intention of taking or could not
+legally take; threatening to contact consumersâ employers, implying they
+would disclose the existence of the debt; claiming consumers owed more
+debt than they did in order to convince them to pay the amount they owed;
+
+impermissibly contacting consumersâ friends, family, and workplace to
+PS oes ETS we POT UO Pe en aera Pr eb a PISS PA fey Mawes, BD at As
+FoaAne Preteen eT Y bboeciienenr 3 Khan OOSMe/on Dane SB at AG
+tee? CADE LR SL OAS Le Reh WO Lat PGAs PPR a. POPPA Wea Ae oe 4 RAY Ne we ASE OAS
+
+disclose the existence of a consumerâs debt or to shame or humiliate them
+about the debt; harassing consumers by using intimidating, belittling, or
+menacing language and repeatedly and excessively phoning consumers;
+and failing to provide legally required notices informing consumers of
+their right to know how much they owed and of their ability to dispute the
+amount or existence of the purported debt.
+
+4. Defendantsâ illegal debt-collection practices violate the
+Consumer Financial Protection Act of 2010 (CFPA), 12 U.S.C. Â§Â§ 5531(a),
+5536(a), the Fair Debt Collection Practices Act (FDCPA), 15 U.S.C.
+
+Â§Â§ 1692-1692p, N.Y. Executive Law Â§ 63(12), and N.Y. General Business
+
+Law (GBL) Article 22-A, Consumer Protection from Deceptive Acts and
+
+Practices, and Article 29-H, Debt Collection Procedures.
+JURISDICTION AND VENUE
+
+5. This Court has subject-matter jurisdiction over this action
+because it is brought under âFederal consumer financial law,â 12 U.S.C.
+
+Â§ 5565(a)(1), presents a federal question, 28 U.S.C. Â§ 1331, and is brought
+by an agency of the United States, 28 U.S.C. Â§ 1345.
+
+6. This Court has supplemental jurisdiction over New Yorkâs
+
+state-law claims because they are so related to the federal claims that they
+
+form part of the same case or controversy. 28 U.S.C. Â§ 1367(a).
+7. Venue is proper in this District because Defendants are located,
+
+reside, or do business in this District. 12 U.S.C. Â§ 5564(f).
+PARTIES
+
+8. The Bureau is an independent agency of the United States
+charged with regulating the offering and provision of consumer-financial
+products and services under Federal consumer financial laws. 12 U.S.C.
+
+Â§ 5491(a). The Bureau has independent litigating authority to enforce
+Federal consumer financial laws, including the CFPA and the FDCPA. 12
+U.S.C. 8Â§ 5564(a)-(b); 5481(12), (14); 15 U.S.C. Â§ 16921(b)(6).
+
+9. The State of New York is one of the 50 sovereign states of the
+United States. The State of New York, by its Attorney General, is
+authorized to take action to enjoin (i) repeated and persistent fraudulent
+and illegal conduct under New York Executive Law Â§ 63(12), (ii) deceptive
+business practices under New York General Business Law Â§ 349, and
+Gii) illegal debt-collection practices under New York General Business Law
+Â§ 602, and to obtain legal, equitable, or other appropriate relief for such
+violations. The NYAG is authorized to seek redress for repeated and
+persistent violations of the FDCPA as such conduct constitutes repeated
+and persistent illegality in violation of Executive Law Â§ 63(12). The NYAG
+
+is also authorized to enforce the CFPA. 12 U.S.C. Â§ 5552.
+10. JPLisa New York limited liability company formed in 2016,
+with its principal place of business at 2390 North Forest Road, Getzville,
+New York, 14068. As a significant part of its business, JPL, directly and
+through the Debt-Collection Operation common enterprise, has collected
+debts related to consumer financial products and services, including
+installment and payday loans. Those activities are âconsumer financial
+products and servicesâ under the CFPA. 12 U.S.C. Â§ 5481(5), 15(A)(x). JPL
+is therefore a âcovered personâ under the CFPA. 12 U.S.C. Â§ 5481(6).
+
+11. CSA isa New York limited liability company formed in 2013,
+with its principal place of business at 2390 North Forest Road, Getzville,
+New York, 14068. It does business under the names CSA, Warner, and
+Orchard. As a significant part of its business, CSA, directly and through
+the Debt-Collection Operation common enterprise, has collected debts
+related to consumer financial products and services, including installment
+and payday loans. Those activities are âconsumer financial products and
+servicesâ under the CFPA. 12 U.S.C. Â§ 5481(5), 15(A)(x). CSA is therefore a
+âcovered personâ under the CFPA. 12 U.S.C. Â§ 5481(6).
+
+12. ROCisa New York limited liability company formed in 2012,
+with its principal place of business at 2390 North Forest Road, Getzville,
+
+New York, 14068. It does business under the names ROC or ROCA, and
+,
+
+A ae ee a o : eo âa 2 os ae ey ee . s o os s. - rag
+COARSE PAPEL en PWM eyes oF Rn GENS FSX SAT hts
+Ne RA LAS A Lf LJRULE PEER PP PUPP, A PCAUES RO eG
+
+API Recovery Solutions or API. As a significant part of its business, ROC,
+directly and through the Debt-Collection Operation common enterprise,
+has collected debts related to consumer financial products and services,
+including installment and payday loans. Those activities are âconsumer
+financial products and servicesâ under the CFPA. 12 U.S.C. Â§ 5481(5),
+15(A)(x). ROC is therefore a âcovered personâ under the CFPA. 12 U.S.C.
+Â§ 5481(6).
+
+13. Regency is a Delaware limited liability company with its
+principal place of business at 8828 Main Street, Williamsville, New York,
+14221. As a significant part of its business, Regency, directly and through
+the Debt-Collection Operation common enterprise, has collected debts
+related to consumer financial products and services, including installment
+and payday loans. Regency has also purchased and sold debts that are the
+subject of the debt-collection activities of the other entities within the
+Debt-Collection Operation. Those activities are âconsumer financial
+products and servicesâ under the CFPA. 12 U.S.C. Â§ 5481(5), 15(A)(x).
+Regency is therefore a âcovered personâ under the CFPA. 12 U.S.C. Â§
+5481(6).
+
+14. Keystone is a New York limited liability company formed in
+
+2019. Its principal place of business is 2390 North Forest Road, Getzville,
+.. 4,8 ot ON .. â â
+Â£ ae s i eure s "> ? s PRET Foe E aE 2 _ al ea f oeNr se
+{ mR : PEPE PD Pk PPP EY SAVE og os wt CAEN ES OF ENT oh
+Ne RA LAS A Lf LJRULE PEER PP PUPP, A PAE OF GP Aa
+
+New York, 14068. As a significant part of its business, Keystone, directly
+and through the Debt-Collection Operation common enterprise, has
+collected debts related to consumer financial products and services,
+including installment and payday loans. Those activities are âconsumer
+financial products and servicesâ under the CFPA. 12 U.S.C. Â§ 5481(5),
+15(A)(x). Keystone is therefore a âcovered personâ under the CFPA. 12
+U.S.C. Â§ 5481(6).
+
+15. The Corporate Defendants operate as a common enterprise.
+The Corporate Defendants are under common control, operate out of a
+combined headquarters, and commingle funds, with one entity purchasing
+and selling debt that the other entities collect. Collectors employed by the
+Corporate Defendants share training materials and compete against each
+other for workplace incentives. Collectors use various Corporate
+Defendant names when identifying themselves to consumers in order to
+cause consumers to believe that a debt has been sold to or placed with a
+new collection agency when, in fact, the debt has not been sold or placed
+outside the Debt-Collection Operation.
+
+16. Because the Corporate Defendants operate as a common
+
+enterprise, an act by one entity constitutes an act by each entity
+comprising the common enterprise, and each is jointly and severally liable
+for the acts and practices of all the Corporate Defendants, as alleged below.
+
+17. From at least 2012 through the present, Christopher L. Di Re
+has held ownership interests in some or all of the Corporate Defendants,
+including Regency, ROC, CSA, and JPL. He holds the title of President,
+CEO, or is an officer in Regency, ROC, CSA, and JPL, and has materially
+participated in the conduct of their affairs. Di Re is therefore a ârelated
+personâ under the CFPA. 12 U.S.C. Â§ 5481(25)(C)(i), Gi). Because Di Re is
+a ârelated person,â he is deemed a âcovered personâ for purposes of the
+CFPA. 12 U.S.C. Â§ 5481(25)(B).
+
+18. From at least 2015 through the present, Scott A. Croce has held
+ownership interests in some or all of the Corporate Defendants, including
+Regency, ROC, and CSA. He has materially participated in the conduct of
+the affairs of the Corporate Defendants. Croce is therefore a ârelated
+personâ under the CFPA. 12 U.S.C. Â§ 5481(25)(C)(i), Gi). Because Croce is
+a ârelated person,â he is deemed a âcovered personâ for purposes of the
+CFPA. 12 U.S.C. Â§ 5481(25)(B).
+
+19. From at least 2015 through the present, Brian J. Koziel has had
+a management role in the Debt-Collection Operation. He has had an
+
+ownership interest in and has been an officer of at least one of the
+Case 1:20-cv-01217 Documenti1 Filed 09/08/20 Page 9 of 46
+
+Corporate Defendants, CSA, and has been identified as a âmanagerâ of JPL
+and a âmanaging memberâ of Keystone. He has been charged with
+managerial responsibility for, and has materially participated in the
+conduct of the affairs of, some or all of the Corporate Defendants. Koziel is
+therefore a ârelated personâ under the CFPA. 12 U.S.C. Â§ 5481(25)(C)(i),
+(ii). Because Koziel is a ârelated person,â he is deemed a âcovered personâ
+for purposes of the CFPA. 12 U.S.C. Â§ 5481(25)(B).
+
+20. From at least 2015 through at least June 2020, Marc D. Gracie
+has had a management role in the Debt-Collection Operation. He has been
+identified as a âmanagerâ of JPL and a âmanaging memberâ of Keystone.
+He has been charged with managerial responsibility for, and has materially
+participated in the conduct of the affairs of, some or all of the Corporate
+Defendants. Gracie is therefore a ârelated personâ under the CFPA. 12
+U.S.C. Â§ 5481(25)(C)(G), Gi). Because Gracie is a ârelated person,â he is
+
+deemed a âcovered personâ for purposes of the CFPA. 12 U.S.C.
+
+Â§ 5481(25)(B).
+FACTS
+
+21. The Debt-Collection Operation is operated by the Corporate
+Defendants, a series of interrelated companies that conduct business out of
+a single location in the Buffalo, New York area.
+
+22. Through one or more of the Corporate Defendants, such as
+Regency, the Debt-Collection Operation obtains defaulted consumer debt
+for pennies on the dollar. A substantial portion of the defaulted debt
+obtained by the Debt-Collection Operation for collection during the past
+year consists of high-interest personal loans originated by the lender
+LoanMe, Inc. (LoanMe), although the Debt-Collection Operation has also
+obtained for collection defaulted installment loans, defaulted payday loans,
+and defaulted credit card debt from various other sources. Some of this
+debt is purchased outright while some of this debt is transferred or placed
+for collection in another manner, such as a lease.
+
+23. Through about 40 collectors employed by at least two of the
+Corporate Defendants, such as ROC and CSA, the Debt-Collection
+Operation collects or attempts to collect debt from consumers under the
+
+names of one or more of the Corporate Defendants.
+
+10
+Case 1:20-cv-01217 Document1 Filed 09/08/20 Page 11 of 46
+
+24. These collectors routinely engage in a wide range of deceptive
+and other illegal collection tactics in connection with the collection of this
+debt.
+
+25. Using these illegal tactics, the Debt-Collection Operation
+appears to have obtained revenues of approximately $10 million in 2015 to
+over $23 million in 2018.
+
+False Threats
+
+26. Innumerous instances from at least 2015 through the present,
+collectors from the Debt-Collection Operation have threatened consumers
+with legal action, including wage garnishment or attachment of property,
+or arrest and imprisonment, if they did not make payments.
+
+27. These threats were false.
+
+28. Consumers are not subject to arrest or imprisonment for
+failure to pay debts.
+
+29. The Debt-Collection Operation has never sought or obtained a
+legal judgment that would be required as a pre-requisite for seeking to
+garnish a consumer's wages or attach their property.
+
+30. Docket searches have revealed no debt-collection lawsuits filed
+
+by any of the Corporate Defendants against a consumer.
+
+11
+Case 1:20-cv-01217 Document1 Filed 09/08/20 Page 12 of 46
+
+Falsely Claiming Consumers Owe More than they Do
+
+31. For the collection of at least LoanMe debt, the Debt-Collection
+Operation employs a ruse, which it refers to as its âLoanMe Pitch,â in
+which collectors tell consumers that they owe more than they do in order
+to convince them that paying the amount they actually owe represents a
+substantial discount.
+
+32. Inthe LoanMe Pitch, collectors tell consumers who have
+defaulted on LoanMe debt that they are liable for the full amount that they
+would have paid if they had made timely payments of principal and
+interest for the entire loan period. Collectors from the Debt-Collection
+Operation call this the âfull contract balance.â This representation is
+bolstered by the fact that it is an amount equal to the âtotal of paymentsâ
+appearing in bold letters on the face of the loan agreement.
+
+33. However, consumers do not owe this amount on a defaulted
+loan; they only owe the remaining unpaid principal of the loan plus any
+unpaid contractually authorized amounts. Depending on when the
+consumer defaulted in the loan contract period, the supposed âfull contract
+balanceâ may be thousands of dollars more than the actual amount owed.
+
+34. The Debt-Collection Operation instructs its collectors to tell
+
+consumers that the original creditor could pursue them for the âfull
+
+12
+Case 1:20-cv-01217 Document1 Filed 09/08/20 Page 13 of 46
+
+contract balance,â but they have an âopportunityâ to âsave... a ton of
+moneyâ by paying the amount demanded by the collectors, which is the
+amount actually owed (or sometimes less). Collectors are told to present
+this as an offer that will only be available for a short period of time.
+
+35. Infact, no consumers who defaulted on their LoanMe loans
+owe the âfull contract balance,â and neither LoanMe nor the Debt-
+Collection Operation have the right to pursue that amount from
+consumers.
+
+Contacting and Disclosing Debt to Third Parties
+
+ 
+
+36. From at least 2015, the Debt-Collection Operation has
+contacted friends, family, work colleagues, or supervisors of consumers in
+order to pressure consumers to pay the debts under collection.
+
+37. In this tactic, collectors for the Debt-Collection Operation
+begin their collection efforts by using a skip tracing service and social
+media to identify the consumerâs address, other location information
+relating to the consumer, and, most importantly, third parties associated
+with that consumer. This is called the âCirclesâ approach by the Debt-
+Collection Operation because the collector can visualize these third parties
+in a series of concentric circles around the consumer, who is at the bullâs
+
+eye center. The surrounding circles consist of immediate family members,
+
+13
+Pye, OH TEEN on se SRT HAO FPA ye ots, ae en eT rebel PES AAC PON Te ee AA wh Ae
+: on eh oN RPP eye PP bs SPE EW RTT : Rew i eta 8 afi wha PSE Loe oa NS Soh gt oh re.
+eASE Lee OVeGie id fÂ£ GPOCUTAEND 2 PHO OsiVorcQ Pade 14 OF at
+
+grandparents, distant family members, in-laws, ex-spouses, employers,
+work colleagues, landlords, Facebook friends, and other known associates.
+
+38. The collector then begins calling each of these third parties
+under the pretense of attempting to find the consumer, although the
+collector already has location information for the consumer. During these
+calls, the collectors expressly or implicitly disclose that the consumer is in
+debt or in some type of distress or difficulty. The Debt-Collection
+Operation does this to âstir the pot,â so that the third parties start calling
+the consumer. Thus, the consumerâs family, friends, and colleagues can
+serve as the collectorâs âarmy,â pressuring the consumer to address the
+collector's demands.
+
+39. Collectors reach out to the consumer only after they have set
+their âarmyâ of third parties in motion.
+
+40. Debt-Collection Operation collectors have used this approach
+even after a consumer has spoken to a collector and asked to halt further
+communications, or after a consumer has initiated but then stopped
+payments to the collector.
+
+41. Consumers have described these tactics as âsmear
+
+99 66 99 66
+
+campaign[s|,â âextortion,â âterrorist collecting tactics,â and âemotional
+
+terrorism.â In explaining why their collectors should follow the âCirclesâ
+
+14
+Case 1:20-cv-01217 Document1 Filed 09/08/20 Page 15 of 46
+
+approach, the Debt-Collection Operation equates it to a form of
+repossession, telling collectors: âIf I buy a car and I donât pay for it. . . they
+take the car. If I donât pay for my house, they take the house... .[WHJeâre
+taking [their] pride... .â
+
+Harassing Consumers and Third Parties
+
+42. Innumerous instances, Debt-Collection Operation collectors
+have harassed consumers or third parties related to those consumers to
+coerce payment.
+
+43. Many consumers have complained that calls from the Debt-
+Collection Operation to their employers or work colleagues potentially
+jeopardized their jobs. Multiple consumers expressed concerns about
+collectors continuing to phone consumers at work despite being told the
+consumerâs workplace prohibits the consumer from receiving such
+communications.
+
+44. Many consumers have complained that collectors from the
+Debt-Collection Operation also have used insulting and belittling language,
+or engaged in intimidating behavior when calling consumers or third
+parties. Consumers have also complained, as described above, that
+
+collectors from the Debt-Collection Operation used threats of legal action,
+
+15
+c ?
+58)
+iy Ã©
+D
+prwcecr
+gf
+r
+
+set
+a
+vn
+"
+
+ra
+
+garnishment, arrest, or imprisonment, as well as threats to call consumersâ
+workplaces.
+
+45. The Circles scheme, described above, is another harassment
+tactic, intended to intimidate or embarrass consumers into paying to stop
+the calls.
+
+46. Collectors from the Debt-Collection Operation also repeatedly
+call consumers to induce payment. Many consumers complained that
+collectors called them more than once a day over prolonged periods of
+time, with several complaining of multiple calls every day over periods
+lasting a month or longer.
+
+47. These repeated calls to consumers reflect an intent to harass,
+evidenced by the Debt-Collection Operationâs âzero gapâ calling strategy.
+This practice requires collectors to press consumers âevery single dayâ for
+payment, even after they make contact and have a live conversation with
+the consumer. The Debt-Collection Operation instructs its collectors that
+they should let the consumer hang up on each call so they can maintain a
+pretense in their call logs that they were disconnected, and then call back
+
+as soon as the next day.
+
+16
+Case 1:20-cv-01217 Document1 Filed 09/08/20 Page 17 of 46
+
+48. According to consumer complaints, many collectors continued
+to call consumers even after the consumer asked them to stop, hung up on
+them, or told them they would not or could not pay.
+
+Failing to Provide Debt Verification Rights Notices
+
+49. Debt collectors are required to send a notice within five days
+after the initial communication with the consumer. This legally mandated
+notice must tell consumers (1) the amount of the alleged debt; (2) the
+name of the creditor to whom the purported debt is owed; (3) a statement
+that unless the consumer disputes the debt, the debt will be assumed valid;
+(4) a statement that if the consumer disputes all or part of the debt in
+writing within 30 days, the debt collector will obtain verification of the
+debt and mail it to the consumer; and (5) a statement that, upon the
+consumer's written request within the 30-day period, the debt collector
+will provide the name and address of the original creditor, if different from
+the current creditor. Collectors are not required to send the notice if this
+information is contained in the initial communication with the consumer.
+
+50. The Debt-Collection Operation did not provide the statutorily-
+required notices. Many consumers reported that the collector claimed to
+
+have sent such notices, even though they never received them. Some
+
+17
+Case 1:20-cv-01217 Document1 Filed 09/08/20 Page 18 of 46
+
+consumers said collectors refused to provide such notices, wrongly stating
+they were not obligated to send them.
+
+51. Because consumers did not receive the validation notice, they
+were not informed that they must dispute the debt in writing in order to
+require the collector to provide verification of the debt. When consumers
+made the verification request orally, Corporate Defendants did not provide
+verification or cease collection. According to consumer complaints, some
+consumers who asked for a physical address to send such a request were
+denied that information.
+
+Role and Knowledge of the Individual Defendants
+
+52. Di Re and Croce together appear to own nearly 100% of at least
+three of the Corporate Defendants. They are bank signatories or officers of
+certain Corporate Defendants. They also co-own the LLC that purchased
+the building out of which the Debt-Collection Operation is run.
+
+53. Di Re and Croce are owners who are in the office regularly and
+approve, adopt, or ratify the Corporate Defendantsâ unlawful collection
+practices, including by meeting regularly with the Corporate Defendantsâ
+managers to rate randomly-selected collectorsâ calls to ensure adherence to
+company policies. Di Re and Croce also regularly monitor collectorsâ
+
+calling patterns to ensure there are no âgapsâ in their calling of consumers.
+
+18
+They award workplace incentives to the employees who earn the most
+money for the Corporate Defendants. Di Re encourages collectors to
+contact him directly for advice on how to improve their collection skills
+and earn more money for themselves and the Corporate Defendants.
+
+54. Koziel and Gracie have been held out as âmembersâ of
+Keystone. Koziel has also been held out as a manager of JPL, and as
+President, one-third owner (until sometime in 2018 when he transferred
+his interest to Di Re and Croce), Compliance Officer, and bank signatory
+for CSA. Koziel is identified in collectorsâ employee handbooks as their
+supervisor. Gracie has been held out as an officer or manager of ROC and
+JPL.
+
+55. Koziel revises and approves talk-off scripts, meets with Di Re
+and Croce regularly, and is responsible for recruiting new employees.
+Koziel and Gracie have both worked to hire new collectors for the Debt-
+Collection Operation through social media as recently as April 2020.
+
+56. Di Re, Croce, Gracie, and Koziel knew about, were reckless to
+the fact of, or ignored red flags reflecting, the practices described above.
+This was the case through their management, authority, and control over
+
+the Debt-Collection Operation.
+
+19
+57. Collectors were told that Di Re and Croce reviewed recordings
+of their collection calls twice weekly with managers of the Debt-Collection
+Operation.
+
+58. Collectors were told that Di Re and Croce reviewed their
+training session, at which some of the tactics described above were
+explained.
+
+59. The training manual used for the Debt-Collection Operation
+describes how collectors should use skip-tracing software, Facebook, and
+Google to locate a consumerâs parents, in-laws, grandparents, grand-
+parent in-laws, siblings, cousins, employers, friends lists, other possible
+relatives, and other likely associates that are at the heart of the Circles
+approach. The training manual also includes scripts detailing how to
+present the LoanMe Pitch to consumers, and scripts instructing collectors
+to say their company will âexplore every means necessaryâ if consumers
+refuse to pay. The âCSA+ROCâ Employee Handbook included in the
+training materials identifies Brian Koziel as a âsupervisor.â
+
+60. Since 2015, numerous consumer complaints have been lodged
+against the Debt-Collection Operation through the Bureau, NYAG, other
+law enforcement agencies, and consumer organizations, each of which
+
+identified at least one of the debt-collection practices described above.
+
+20
+ms a ee Aasaty oor ae OP EE RALIANIS NOt ot home
+aes Tele ATe TP? Bearciment Tt Fide OG/NR/2OQ Pans 31 oft Ac
+a CASS ee AS OW TN kg het NRE SRG EL AR POORER AA ASP A YO CAMARS fo .h DAY
+
+Many of these complaints were forwarded to the Debt-Collection
+Operation for its response.
+
+61. In 2018, the BBB publicly issued a âscam trackerâ warning
+against API (one of ROCâs dbas) stating âBBB just wants to advise you to
+not pay any debt to API Recovery Solutions.â The BBB also publicly
+assigned F ratings to JPL, Warner (one of CSAâs dbas), and API. Koziel
+and Gracie are listed as points of contact for complaints from the BBB and
+the Bureau.
+
+62. Since 2015, more than 20 private lawsuits have been filed by
+consumers against varying Corporate Defendants relating to the Debt-
+Collection Operation, with several naming Di Re, Koziel, and Gracie
+personally, alleging some of the debt-collection practices described above.
+
+63. The Corporate Defendants were subject to high chargeback
+rates in connection with their work for the Debt-Collection Operation.
+High chargeback rates are a red flag for wrongdoing, and as owners and
+managers, the Individual Defendants would have notice of the chargeback
+rates. Koziel and Gracie are listed as points of contact for complaints and
+
+chargebacks from the Corporate Defendantsâ payment processor.
+
+21
+Pee PTE Oe SRE A Rae amend 4 reiki et PRED EAO PE Moan THRO AL Ag
+PAO PPPOE Pe Poe EY pe hagcaey GRAPPA Pee RS PF a ts
+wt CAR wt ee AS 2 2d Ge ke F Ra LRRD EAS EEE Ak PORSRL AA Aa Ae Ce Y CAQAN, f.Â¢ 2 4
+
+VIOLATIONS OF THE FDCPA AS TO ALL DEFENDANTS
+
+64. Each of the Corporate Defendants is or has been a person who
+has used an instrumentality of interstate commerce or the mails ina
+business the principal purpose of which is the collection of debts, or who
+regularly collects or attempts to collect, directly or indirectly, debts owed
+or due or asserted to be owed or due another, and is a âdebt collectorâ
+under the FDCPA. 15 U.S.C. Â§ 1692a(6).
+
+65. Each of the Individual Defendants, due to his position of
+control and involvement in the Debt-Collection Operation, and his
+authorization, adoption, or ratification of the acts of the Corporate
+Defendants, is or has been a person who has used an instrumentality of
+interstate commerce or the mails in a business the principal purpose of
+which is the collection of debts, or who regularly collects or attempts to
+collect, directly or indirectly, debts owed or due or asserted to be owed or
+due another, and is a âdebt collectorâ under the FDCPA. 15 U.S.C.
+
+Â§ 1692a(6).
+
+22
+COUNT I
+
+False or Misleading Misrepresentations Under
+the FDCPA
+
+(All Defendants)
+
+66. The Bureau realleges and incorporates by reference paragraphs
+5, 7-8, 10-35, 52-65.
+
+67. Innumerous instances, in connection with the collection of
+debts, Corporate Defendants, directly or indirectly, expressly or by
+implication, have used false, deceptive, or misleading representations or
+means, in violation of Section 807 of the FDCPA, 15 U.S.C. Â§ 1692e,
+including, but not limited to:
+
+a. Falsely representing to the consumer the amount of debt
+owed by the consumer by stating that the original creditor
+could collect more than the consumer legally owed, in
+violation of Section 807(2)(A) of the FDCPA, 15 U.S.C.
+
+Â§ 1692e(2)(A);
+
+b. Falsely representing that nonpayment of a debt will result
+in the arrest or imprisonment of a person, when such
+action is not lawful or when Corporate Defendants have no
+intention of taking such action, in violation of Section
+
+807(4) of the FDCPA, 15 U.S.C. Â§ 1692e(4);
+
+23
+ot Ae ey a a âa yee 8g Â» Fr TAN eS ~ oy R . Â«ae
+Raven TM ew TOP FRswess seamed oF Pe ab oma ot POS AG Pas ANS âYA wk AS
+Poe _ a epee Ase PE ew te BS oFd ae Pitiigees: ee : Bow Bebe SR PSE Peay ese PS ei des oo oa 8
+a LA. a dks See So 2 Pade See eke Â£ ReMi Re PA EB Ak PORSRL AA Aa Ae Ce 9 GANAS of 2
+
+c. Threatening to take action that Corporate Defendants do
+not intend to take, such as filing a lawsuit, garnishing a
+consumer's wages, or attaching the personal property of a
+consumer, in violation of Section 807(5) of the FDCPA, 15
+U.S.C. Â§ 1692e(5); and
+
+d. Using a false representation or deceptive means to collect
+or attempt to collect a debt, or to obtain information
+concerning a consumer, in violation of Section 807(10) of
+the FDCPA, 15 U.S.C. Â§ 1692e(10).
+
+68. Therefore, Corporate Defendants have violated the FDCPA, 15
+U.S.C. 8 1692e.
+
+69. The Individual Defendants were involved in the debt-
+collection activities of the Corporate Defendants. In addition, the
+Individual Defendants knew about, participated in, approved, adopted, or
+ratified the unlawful practices described above. As such, the Individual
+Defendants are âdebt collectorsâ under the FDCPA and are liable for
+
+violations of the statute, 15 U.S.C. Â§ 1692e.
+
+24
+COUNT II
+
+Unlawful Communications with Third Parties Under the FDCPA
+(All Defendants)
+
+70. The Bureau realleges and incorporates by reference
+paragraphs 5, 7-8, 10-25, 36-48, 52-65.
+
+71. Section 804 of the FDCPA, 15 U.S.C. Â§ 1692b, provides that
+any debt collector communicating with any person other than the
+consumer for the purpose of acquiring location information about the
+consumer shall identify his employer only if expressly asked and may not
+state that the consumer owes any debt.
+
+72. Section 805(b) of the FDCPA, 15 U.S.C. Â§ 1692c(b), prohibits
+communications about a debt with any person other than the consumer or
+the consumerâs attorney, a consumer reporting agency, the creditor or the
+creditor's attorney, or the debt collectorâs attorney, except as allowed by
+Section 804 of the FDCPA, with the permission of the consumer or a court
+of competent jurisdiction, or as reasonably necessary to effectuate
+postjudgment relief. For the purpose of Section 805(b), Section 805 of the
+FDCPA defines the term âconsumerâ to include âthe consumerâs spouse,
+parent (if the consumer is a minor), guardian, executor, or administrator.â
+
+73, In numerous instances, in connection with the collection of
+
+debts, Corporate Defendants have communicated with persons other than
+
+25
+~ a ee Aasaty oor ae OP EE RALIANIS NOt mek ome
+Mace Tees ATeTy? Mncument t Elect OG/NRIFO Pane OS al As
+CAO A A AS ad RA FRL EES IR ER PURER ASP PAS ce ae TU CAUARS woke Asb Â®
+
+the persons listed in Section 805(b) for purposes other than acquiring
+location information about the consumer, without having obtained directly
+the prior consent of the consumer or the express permission of a court of
+competent jurisdiction, and when not reasonably necessary to effectuate a
+post judgment judicial remedy, in violation of Section 805(b) of the
+FDCPA, 15 U.S.C. Â§ 1692c(b).
+
+74. During many of these communications, Corporate Defendants
+stated that the consumers owed debt, in violation of Section 804(2) of the
+FDCPA, 15 U.S.C. Â§ 1692b(2).
+
+75. Therefore, Corporate Defendants have violated 15 U.S.C.
+
+Â§Â§ 1692b and 1692c.
+
+76. The Individual Defendants were involved in the debt-collection
+activities of the Corporate Defendants. In addition, the Individual
+Defendants knew about, participated in, approved, adopted, or ratified the
+unlawful practices described above. As such, the Individual Defendants
+are âdebt collectorsâ under the FDCPA and are liable for violations of the
+
+FDCPA, 15 U.S.C. Â§Â§ 1692b and 1692Â¢c.
+
+26
+COUNT III
+
+Harassing and Abusive Conduct Under the
+FDCPA
+(All Defendants)
+
+77. The Bureau realleges and incorporates by reference paragraphs
+5, 7-8, 10-48, 52-65.
+
+78. Innumerous instances, in connection with the collection of
+debts, Corporate Defendants have engaged in conduct the natural
+consequence of which has been to harass, oppress, or abuse the consumer,
+in violation of Section 806 of the FDCPA, 15 U.S.C. Â§ 1692d.
+
+79. This includes, but is not limited to, using intimidating,
+menacing, or belittling language, and making impermissible threats.
+
+80. This also includes causing a telephone to ring or engaging a
+person in telephone conversation repeatedly or continuously with intent to
+annoy, abuse, or harass a person at the called number, in violation of
+Section 806(5) of the FDCPA, 15 U.S.C. Â§ 1692d(5).
+
+81. Therefore, Corporate Defendants have violated 15 U.S.C.
+
+Â§ 1692d.
+
+82. The Individual Defendants were involved in the debt-collection
+
+activities of the Corporate Defendants. In addition, the Individual
+
+Defendants knew about, participated in, approved, adopted, or ratified the
+
+27
+~ Ame Aamasy a rr eer ar ar ~ me . ae
+Pace POC. ATST? Pincsament 1 Evian OO/N8/2OR Pane BR nt AS
+CRO wh ake Mf Pek? RA FRL EES IR ER PURER ASP PAS ce ae TU CAUARS wlll Asbo Â®
+
+unlawful practices described above. As such, the Individual Defendants
+are âdebt collectorsâ under the FDCPA and are liable for violations of the
+FDCPA, 15 U.S.C. Â§ 1692d.
+
+COUNT IV
+
+Failure to Inform Consumers of their Legal
+Rights Under the FDCPA
+
+(All Defendants)
+
+83. The Bureau realleges and incorporates by reference paragraphs
+5, 7-8, 10-25, 49-65.
+
+84. In numerous instances, in connection with the collection of
+debts, Corporate Defendants have failed to provide consumers, either in
+the initial communication or a written notice sent within five days after the
+initial communication, with information about the debt and the right to
+dispute the debt, in violation of Section 809(a) of the FDCPA, 15 U.S.C.
+
+Â§ 16928(a).
+
+85. Therefore, Corporate Defendants have violated 15 U.S.C.
+Â§ 16928(a).
+
+86. The Individual Defendants were involved in the debt-collection
+activities of the Corporate Defendants. In addition, the Individual
+Defendants knew about, participated in, approved, adopted, or ratified the
+
+unlawful practices described above. As such, the Individual Defendants
+
+28
+are âdebt collectorsâ under the FDCPA and are liable for violations of the
+FDCPA, 15 U.S.C. Â§ 1692g(a).
+VIOLATIONS OF THE CFPA AS TO ALL DEFENDANTS
+
+COUNT V
+Deception Under the CFPA Relating to Collection of, and Attempts to
+
+Collect, Debts
+(All Defendants)
+
+87. Plaintiffs reallege and incorporate by reference paragraphs 5,
+7-35, 52-63.
+
+88. Section 1036(a)(1)(B) of the CFPA prohibits deceptive acts or
+practices. 12 U.S.C. Â§ 5536(a)(1)(B). An act or practice is deceptive if it
+involves a material misrepresentation that is likely to mislead a consumer
+acting reasonably under the circumstances.
+
+89. Innumerous instances, in connection with the collection of
+purported consumer debts, Corporate Defendants have represented,
+directly or indirectly, expressly or by implication, that:
+
+a. Corporate Defendants will have the consumer arrested or
+imprisoned for nonpayment;
+b. Corporate Defendants would file lawsuits against consumers
+
+if they failed to pay, and that the filing of such lawsuits was
+
+imminent;
+
+29
+c. Corporate Defendants would seek to garnish or attach
+consumersâ wages or property if they failed to pay; and
+
+d. Consumers owed an amount of money that the Corporate
+Defendants described as the âfull contract balance,â and that
+the original creditor could seek to collect this amount if it
+chose to.
+
+90. Intruth and in fact, where Corporate Defendants have made
+the representations set forth in Paragraph 89 of this Complaint:
+
+a. Corporate Defendants have not, and could not have, had
+consumers arrested or imprisoned;
+
+b. Corporate Defendants have not filed, and do not intend to
+file, lawsuits against consumers for nonpayment;
+
+c. Corporate Defendants would not seek and could not seek to
+garnish or attach consumersâ wages or property if they failed
+to pay; and
+
+d. Consumers did not owe the amounts Corporate Defendants
+described as the âfull contract balance,â and neither
+Corporate Defendants nor the original creditor could legally
+collect such amounts, which were sometimes thousands of
+
+dollars more than the consumer legally owed.
+
+30
+Pye, OH TEEN on se SRT HAO FPA ye ots, ae en eT rebel PES AAC PON Tose Tet AL Ag
+: on eh oN RPP eye PP bs SPE EW RTT : Rai eae FRAP Ra Pee Roe ee ee TL UE a bs
+eASE Lie OVeGie id fÂ£ GPOCUTAEND 2 PHO OsiVorcQ Pade oi OF at
+
+91. These false and misleading misrepresentations were material
+and likely to mislead consumers acting reasonably under the
+circumstances.
+
+92. Therefore, the representations set forth in Paragraph 89 of this
+Complaint constitute deceptive acts or practices in violation of Â§Â§ 1031(a)
+and 1036(a)(1)(B) of the CFPA, 12 U.S.C. Â§Â§ 5531(a), 5536(a)(1)(B).
+
+93. The Individual Defendants have engaged in these deceptive
+acts and practices because they had authority to control these
+representations or participated in them. They have known about, have
+been reckless to the fact of, or have ignored red flags with respect to, these
+false and misleading representations. The Individual Defendants are
+therefore liable for these violations of the CFPA.
+
+COUNT VI
+
+Violations of the CFPA Arising from FDCPA
+Violations
+
+(All Defendants)
+94. Plaintiffs reallege and incorporate by reference paragraphs 5,
+7-86.
+95. Section 1036(a)(1)(A) of the CFPA provides that is âunlawful
+for... any covered person or service provider .. . to offer or provide to a
+
+consumer any financial product or service not in conformity with Federal
+
+31
+c }
+
+58)
+
+ae
+
+ie
+D
+
+_
+
+f
+
+f
+
+set
+
+gr
+
+pony
+
+o
+
+f
+
+ong
+rm
+
+consumer financial law, or otherwise commit any act or omission in
+violation of a Federal consumer financial law.â 12 U.S.C. Â§ 5536(a)(1)(A).
+
+96. Defendants offer or provide consumer financial products or
+services because they collect debts related to consumer financial products
+and services, including installment and payday loans. 12 U.S.C. Â§ 5481(5),
+15(A)(x).
+
+97. As detailed in Counts I through IV, Defendants have engaged
+in violations of the FDCPA in the course of their collection of debts related
+to consumer financial products or services.
+
+98. Therefore, Defendants are offering consumer financial
+products or services not in conformity with Federal consumer financial
+law, and have committed acts or omissions in violation of Federal
+
+consumer financial law, in violation of Â§ 1036(a)(1)(A) of the CFPA, 12
+
+U.S.C. Â§ 5536(a)(1)(A).
+
+32
+COUNT VII
+
+Substantially Assisting Violations of the CFPA
+(Individual Defendants)
+
+99. Plaintiffs reallege and incorporate by reference paragraphs 5,
+7-35, 52-63, 87-93.
+
+100. It is unlawful for any person to knowingly or recklessly provide
+substantial assistance to a covered person or service provider in violation
+of the provisions of 12 U.S.C. Â§ 5531. 12 U.S.C. Â§ 5536(a)(3).
+
+101. From at least 2015 through the present, as described in Count
+V, the Corporate Defendants have engaged in deceptive acts or practices in
+violation of the CFPA, 12 U.S.C. 8Â§ 5531 and 5536(a)(1)(B), by making false
+or deceptive threats to consumers, and misrepresenting, expressly or by
+implication, the amount of debt consumers owed, in order to induce
+payments to Corporate Defendants.
+
+102. The Individual Defendants provided substantial assistance to
+the Corporate Defendants that engaged in the practices described in Count
+V. As owners and managers, they associated themselves with the venture
+of the Corporate Defendants and by helping to run the Debt-Collection
+Operation, they sought by their actions to make it succeed.
+
+103. The Individual Defendants knew about, or were reckless with
+
+respect to, the deceptive conduct alleged in Count V.
+
+33
+Pee PTE Oe SRE A Taw ee anna 4 PEE ae ont PE FEN POE Moanin A Ak Ag
+PLAS Pease E Pb A ot POC BTCA | Mog fP her ayy MAME 4a OY cbs
+wt CAR td : 2M 2.8. PRS RAD DIAS EEE AR PORSRL AA Aa Ae Ce PO CALARS eh 2 Sy
+
+104. Therefore, the Individual Defendants violated 12 U.S.C.
+
+Â§ 5536(a)(3).
+VIOLATIONS OF NEW YORK STATE LAW
+
+COUNT VIII
+
+Repeated Fraudulent Acts in Violation of Exec. Law Â§ 63(12)
+(All Defendants)
+
+105. The NYAG realleges and incorporates by reference paragraphs
+6-7, 9-48, 52-63.
+
+106. New York Executive Law Â§ 63(12) empowers the Attorney
+General to seek restitution, damages and injunctive relief when any person
+or business entity has engaged in repeated fraudulent or illegal acts or
+otherwise demonstrates persistent fraud or illegality in the carrying on,
+conducting, or transaction of business.
+
+107. Defendants have engaged in repeated fraudulent acts or
+otherwise demonstrated persistent fraud in the carrying on, conducting, or
+
+transaction of their debt collection business for purposes of Executive Law
+
+Â§ 63(12).
+
+34
+COUNT IX
+
+Repeated Illegality in Violation of Exec. Law Â§ 63(12)
+False or Misleading Misrepresentations Under
+the FDCPA
+
+(All Defendants)
+
+108. The NYAG realleges and incorporates by reference paragraphs
+6-7, 9-35, 52-65.
+
+109. In numerous instances, in connection with the collection of
+debts, Corporate Defendants, directly or indirectly, expressly or by
+implication, have used false, deceptive, or misleading representations or
+means, in violation of Section 807 of the FDCPA, 15 U.S.C. Â§ 1692e,
+including, but not limited to:
+
+a. Falsely representing to the consumer the amount of debt
+owed by the consumer by stating that the original creditor
+could collect more than the consumer legally owed, in
+violation of Section 807(2)(A) of the FDCPA, 15 U.S.C.
+
+Â§ 1692e(2)(A);
+
+b. Falsely representing that nonpayment of a debt will result in
+the arrest or imprisonment of a person, when such action is
+not lawful or when Corporate Defendants have no intention
+of taking such action, in violation of Section 807(4) of the
+
+FDCPA, 15 U.S.C. Â§ 1692e(4);
+
+35
+~, me Aamaty oe owed me Ee ese ~~ mem of we
+Pace TOCA ATOPY Pneiiment 7 Mian OO/Nelen Danas BR at AF
+a TA te Ce A? Ye Pde Ge aks E Ra ALLE GAS Ek PO ESR AAR WS Ae q Cay Qo whe 2 8%
+
+c. Threatening to take action that Corporate Defendants do
+not intend to take, such as filing a lawsuit, garnishing a
+consumer's wages, or attaching the personal property of a
+consumer, in violation of Section 807(5) of the FDCPA, 15
+U.S.C. Â§ 1692e(5); and
+
+d. Using a false representation or deceptive means to collect or
+attempt to collect a debt, or to obtain information
+concerning a consumer, in violation of Section 807(10) of
+the FDCPA, 15 U.S.C. Â§ 1692e(10).
+
+110. Therefore, Corporate Defendants have violated the FDCPA, 15
+U.S.C. 8 1692e.
+
+111. The Individual Defendants were involved in the debt-
+collection activities of the Corporate Defendants. In addition, the
+Individual Defendants knew about, participated in, approved, adopted, or
+ratified the unlawful practices described above. As such, the Individual
+Defendants are âdebt collectorsâ under the FDCPA and are liable for
+violations of the statute, 15 U.S.C. Â§ 1692e.
+
+112. Defendantsâ violations of the FDCPA constitute repeated and
+
+persistent illegality in violation of N.Y. Executive Law Â§ 63(12).
+
+36
+COUNT X
+Repeated Illegality in Violation of Exec. Law Â§ 63(12)
+
+Unlawful Communications with Third Parties Under the FDCPA
+(All Defendants)
+
+113. The NYAG realleges and incorporates by reference paragraphs
+6-7, 9-25, 360-48, 52-65.
+
+114. Section 804 of the FDCPA, 15 U.S.C. Â§ 1692b, provides that
+any debt collector communicating with any person other than the
+consumer for the purpose of acquiring location information about the
+consumer shall identify his employer only if expressly asked and may not
+state that the consumer owes any debt.
+
+115. Section 805(b) of the FDCPA, 15 U.S.C. Â§ 1692c(b), prohibits
+communications about a debt with any person other than the consumer or
+the consumerâs attorney, a consumer reporting agency, the creditor or the
+creditor's attorney, or the debt collectorâs attorney, except as allowed by
+Section 804 of the FDCPA, with the permission of the consumer or a court
+of competent jurisdiction, or as reasonably necessary to effectuate
+postjudgment relief. For the purpose of Section 805(b), Section 805 of the
+
+FDCPA defines the term âconsumerâ to include âthe consumerâs spouse,
+
+parent (if the consumer is a minor), guardian, executor, or administrator.â
+
+37
+Pye, OH TEEN on se SRT HAO FPA ye ots, ae en eT rebel PES AAC PON Tosa TO AL As
+: oN e ~ RPP eye PP bs SPE EW RTT : Rai eae FRAP Ra Pee Ree eek TR Oh bs
+eASE LCV Gie df GPOCUITAEND 2 Pea OsiGCorcQ PaGe oo OF at
+
+116. In numerous instances, in connection with the collection of
+debts, Corporate Defendants have communicated with persons other than
+the persons listed in Section 805(b) for purposes other than acquiring
+location information about the consumer, without having obtained directly
+the prior consent of the consumer or the express permission of a court of
+competent jurisdiction, and when not reasonably necessary to effectuate a
+post judgment judicial remedy, in violation of Section 805(b) of the
+FDCPA, 15 U.S.C. Â§ 1692c(b).
+
+117. During many of these communications, Corporate Defendants
+stated that the consumers owed debt, in violation of Section 804(2) of the
+FDCPA, 15 U.S.C. Â§ 1692b(2).
+
+118. Therefore, Corporate Defendants have violated 15 U.S.C.
+
+Â§Â§ 1692b and 1692c.
+
+119. The Individual Defendants were involved in the debt-collection
+activities of the Corporate Defendants. In addition, the Individual
+Defendants knew about, participated in, approved, adopted, or ratified the
+unlawful practices described above. As such, the Individual Defendants are
+âdebt collectorsâ under the FDCPA and are liable for violations of the
+
+FDCPA, 15 U.S.C. Â§Â§ 1692b and 1692Â¢c.
+
+38
+120. Defendantsâ violations of the FDCPA constitute repeated and
+persistent illegality in violation of N.Y. Executive Law Â§ 63(12).
+
+COUNT XI
+Repeated Illegality in Violation of Exec. Law Â§ 63(12)
+
+Harassing and Abusive Conduct Under the
+FDCPA
+(All Defendants)
+
+121. The NYAG realleges and incorporates by reference paragraphs
+6-7, 9-30, 42-48, 52-65.
+
+122. In numerous instances, in connection with the collection of
+debts, Corporate Defendants have engaged in conduct the natural
+consequence of which has been to harass, oppress, or abuse the consumer,
+in violation of Section 806 of the FDCPA, 15 U.S.C. Â§ 1692d.
+
+123. This includes, but is not limited to, using intimidating,
+menacing, or belittling language, and making impermissible threats.
+
+124. This also includes causing a telephone to ring or engaging a
+person in telephone conversation repeatedly or continuously with intent to
+annoy, abuse, or harass a person at the called number, in violation of
+Section 806(5) of the FDCPA, 15 U.S.C. Â§ 1692d(5).
+
+125. Therefore, Corporate Defendants have violated 15 U.S.C.
+
+Â§ 1692d.
+
+39
+126. The Individual Defendants were involved in the debt-collection
+activities of the Corporate Defendants. In addition, the Individual
+Defendants knew about, participated in, approved, adopted, or ratified the
+unlawful practices described above. As such, the Individual Defendants
+are âdebt collectorsâ under the FDCPA and are liable for violations of the
+FDCPA, 15 U.S.C. Â§ 1692d.
+
+127. Defendantsâ violations of the FDCPA constitute repeated and
+persistent illegality in violation of N.Y. Executive Law Â§ 63(12).
+
+COUNT XII
+
+Repeated Illegality in Violation of Exec. Law Â§ 63(12)
+
+Failure to Inform Consumers of their Legal
+Rights Under the FDCPA
+(All Defendants)
+
+128. The NYAG realleges and incorporates by reference paragraphs
+6-7, 9-25, 49-65.
+
+129. In numerous instances, in connection with the collection of
+debts, Corporate Defendants have failed to provide consumers, either in
+the initial communication or a written notice sent within five days after the
+initial communication, with information about the debt and the right to
+
+dispute the debt, in violation of Section 809(a) of the FDCPA, 15 U.S.C.
+
+Â§ 16928(a).
+
+40
+eee OTD TEN a SRE MOTE TO es one aad hake. a PSEA Py Trane Sot wil ag
+Fame TPP EMSbb ed POEM Bago CHALE TM PAD} MAO AE yy Ab
+wt CA wt ates Sue Nat 2M Pde Ge aks â¬ Ra LSP GAS EL Ak POOPER AA ASP AR Qa PO CALAN. ONT e 2 M9
+
+130. Therefore, Corporate Defendants have violated 15 U.S.C.
+Â§ 16928(a).
+
+131. The Individual Defendants were involved in the debt-collection
+activities of the Corporate Defendants. In addition, the Individual
+Defendants knew about, participated in, approved, adopted, or ratified the
+unlawful practices described above. As such, the Individual Defendants
+are âdebt collectorsâ under the FDCPA and are liable for violations of the
+FDCPA, 15 U.S.C. Â§ 1692g(a).
+
+132. Defendantsâ violations of the FDCPA constitute repeated and
+persistent illegality in violation of N.Y. Executive Law Â§ 63(12).
+
+COUNT XIII
+
+Deceptive Acts or Practices in Violation of GBL Â§ 349
+(All Defendants)
+
+133. The NYAG realleges and incorporates by reference paragraphs
+6-7, 9-48, 52-63.
+
+134. New York General Business Law Â§ 349 provides that
+â[d]eceptive acts or practices in the conduct of any business... in this
+state are hereby declared unlawful.â
+
+135. In numerous instances, Defendants have violated New York
+General Business Law Â§ 349 by engaging in deceptive acts or practices in
+
+connection with conducting their debt collection business.
+
+41
+COUNT XIV
+
+Violation of GBL Article 29-H, New York State Debt Collection Procedures
+(All Defendants)
+
+136. The NYAG realleges and incorporates by reference paragraphs
+6-7, 9-48, 52-63.
+
+137. Each Defendant qualifies as a principal creditor or his agent as
+defined by GBL Â§ 600.
+
+138. Each Corporate Defendant qualifies as a debt collection agency
+as defined by GBL Â§ 600.
+
+139. New York General Business Law Â§ 601 sets forth a list of
+prohibited debt collection practices, including:
+
+a. Knowingly collecting, attempting to collect, or asserting a
+right to any collection fee, attorneyâs fee, court cost or
+expense when such charges were not justly due and legally
+chargeable against the debtor. GBL Â§ 601(2);
+
+b. Disclosing or threatening to disclose information affecting
+the debtor's reputation for credit worthiness with
+knowledge or reason to know that the information is false.
+
+GBL Â§ 601(3);
+
+42
+c. Communicating or threatening to communicate the nature
+of a claim to the debtorâs employer prior to obtaining final
+judgment against the debtor. GBL Â§ 601(4);
+
+d. Disclosing or threatening to disclose information
+concerning the existence of a debt known to be disputed by
+the debtor without disclosing that fact. GBL Â§ 601(5);
+
+e. Communicating with the debtor or any member of his
+family or household with such frequency or at such unusual
+hours or in such a manner as can reasonably be expected to
+abuse or harass the debtor. GBL Â§ 601(6);
+
+f. Threatening any action which the debt collector in the usual
+course of its business does not in fact take. GBL Â§ 601(7);
+and
+
+g. Claiming, or attempting or threatening to enforce a right
+with knowledge or reason to know that the right does not
+exist. GBL Â§ 601(8).
+
+140. GBLÂ§& 602 provides the NYAG with authority to enforce the
+
+provisions of GBL Â§ 601.
+
+43
+=~ a omer Aa ae a a peg OARS PA me ~ 2 a . ae
+Raven TM ew TOP Pos oes eet en ee ot Mikes ete PAG Porn Pe mo âaos - AS
+gay hb eb ged Are td ew tf SSE RE OR ER TRS E EEE Lettie OE OC ter TROT ae et eii des haa Dab an
+a LA. a dks See So 2 Pade See athe f ReMi Re PA EB Ak PORSRL AA Aa Ae Ce 9 CANA 2
+
+141. In numerous instances, Defendants have violated GBL Article
+29-H by engaging in debt collection practices prohibited under that
+statute.
+DEMAND FOR RELIEF
+
+Wherefore, the Plaintiffs request that the Court:
+
+a. permanently enjoin Defendants from committing future
+violations of the CFPA, the FDCPA, GBL Articles 22-A and
+29-H, and N.Y. Executive Law Â§ 63(12);
+
+b. award such relief as the Court finds necessary to redress
+injury to consumers resulting from Defendantsâ violations of
+the CFPA, the FDCPA, GBL Articles 22-A and 29-H, and
+New York Executive Law Â§ 63(12), including but not limited
+to rescission or reformation of contracts, restitution,
+damages, and the refund of monies paid;
+
+c. grant additional injunctive relief as the Court may deem to
+be just and proper;
+
+d. order disgorgement of ill-gotten revenues against
+Defendants;
+
+e. as authorized under the CFPA, impose civil money penalties
+
+against Defendants;
+
+44
+c ?
+58)
+iy Ã©
+D
+prwcecr
+gf
+r
+set
+a
+vn
+"
+
+f. pursuant to New York General Business Law Â§ 350-d,
+impose a civil penalty of $5,000 for each violation of New
+York General Business Law Article 22-A;
+
+g. order Defendants to pay Plaintiffsâ costs in connection with
+this action; and
+
+h. award additional relief as the Court may determine to be
+
+just and proper.
+
+45
+Case 1:20-cv-01217 Document1 Filed 09/08/20 Page 46 of 46
+
+Dated: September 8, 2020
+
+Respectfully submitted,
+
+Thomas G. Ward
+
+Enforcement Director
+
+David M. Rubenstein
+
+Deputy Enforcement Director
+
+Cynthia Gooen Lesser
+
+Assistant Deputy Enforcement Director
+
+s/ Reid B. Horwitz
+Reid B. Horwitz
+Jessica Rank Divine
+
+ 
+
+Bureau of Consumer Financial
+Protection
+
+1700 G Street, NW
+
+Washington, DC 20552
+
+Telephone: (202) 435-7752 (Horwitz)
+Telephone: (202) 435-7863 (Divine)
+Email: reid.horwitz@cfpb.gov
+
+Email: jessica.divine@cfpb.gov
+Attorneys for Plaintiff Bureau of
+Consumer Financial Protection
+
+Letitia James
+Attorney General of the State of New
+York
+
+s/ Christopher L. Boyd
+
+Christopher L. Boyd
+
+Assistant Attorney General
+
+350 Main Street, Suite 300A
+
+Buffalo, NY 14202
+
+Telephone: (716) 853-8457
+
+Email: Christopher.Boyd@ny.ag.gov
+Attorney for Plaintiff State of New York
+
+ 
+
+46

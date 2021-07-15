@@ -1,0 +1,64 @@
+Release Number 7246-15
+
+ 
+
+September 25, 2015
+
+Federal Court in Illinois Orders Futures International LLC and its Chief Operating Officer,
+Amedeo Cerrone, to Pay $500,000 Penalty for Recordkeeping Violations, False Statements,
+Unauthorized Trading, and Supervision Failures
+
+Washington, DC - The U.S. Commodity Futures Trading Commission (CFTC) today announced that Judge Robert W.
+Gettleman of the U.S. District Court for the Northern District of Illinois entered a Consent Order settling CFTC charges
+against Defendants Chicago-based Futures International LLC (Fl) and its Chief Operating Officer Amedeo Cerrone of
+St. Charles, Illinois, for failing to adequately record customer orders; failing to maintain required records relating to
+commodity futures transactions; submitting order tickets bearing false timestamps; unauthorized trading; and failing to
+provide adequate supervision. Fl is a registered Introducing Broker. The Order requires Fl and Cerrone jointly to pay a
+civil monetary penalty of $500,000.
+
+The Courtâs Order stems from a CFTC Amended Complaint filed October 9, 2014 (see CFTC Press Release and Amended
+Complaint 7034-14, October 9, 2014).
+
+The Order finds that, between January 2009 and November 2012, FI failed to record all customer orders immediately
+upon receipt, as required by CFTC Regulations, and that Fl employees instead often recorded order information only after
+orders were executed. In particular, the Order finds, with Cerroneâs knowledge, Fl employees routinely timestamped
+blank order tickets and then used these âpre-timestampedâ tickets to document trades, making it appear as though FI
+had complied with the applicable recordkeeping requirements. Ultimately, Flâs order tickets with false timestamp
+information were transmitted to the Chicago Mercantile Exchange for clearing, according to the Order.
+
+The Order also finds that Fl employees communicated electronically about commodity futures transactions, including via
+instant messages. Although Cerrone knew this and was responsible for collecting such communications, FI failed to
+maintain full and complete records of these communications, in violation of CFTC Regulations, according to the Order.
+The failure to retain all electronic communications relating to Flâs commodity futures transactions resulted in an
+incomplete audit trail hindering the CFTCâs ability to investigate violations of the Commodity Exchange Act (CEA) and
+CFTC Regulations, the Order finds.
+
+Additionally, according to the Order, Fl, through one of its principals, improperly exercised discretion over commercial
+customersâ accounts without written powers of attorney and executed trades without first receiving instructions from
+customers as to the commodity to be purchased and the amount. At times, Fl employees executed trades without
+knowing whether any customer would even accept the trade.
+
+The Order further finds that Fl did not have written policies and procedures regarding trading floor operations until at
+least September 2012 and that Fl and Cerrone did not provide adequate training to employees. Additionally, they failed
+to implement policies and procedures to ensure compliance with the CEA and CFTC Regulations.
+
+In addition to requiring Fl and Cerrone to pay a civil monetary penalty of $500,000, the Order also permanently prohibits
+Fl and Cerrone from further violations of the CEA and CFTC Regulations, as charged.
+
+On October 9, 2014, the CFTC filed and settled charges against Kent Woods, Flâs former Chief Executive Officer, for
+violations arising from the same underlying facts (see CFTC Press Release and Order 7034-14, October 9, 2014). The
+Order in that action requires Woods to pay a $200,000 civil monetary penalty, to cooperate in any related action, and to
+execute all non-electronic orders only through his current employerâs floor desk for two years. The Order also
+permanently prohibits Woods from further violations of the CEA and CFTC Regulations, as charged.
+
+The CFTC thanks and acknowledges the assistance of the CME Group, Inc. in this matter.
+
+CFTC Division of Enforcement staff members responsible for this case are Allison Passman, Daniel Burstein, Joseph
+Patrick, Theodore Polley, Susan Gradman, Scott Williamson, and Rosemary Hollinger. Samantha Coxe also assisted in
+this matter.
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: October 5, 2015

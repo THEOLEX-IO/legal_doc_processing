@@ -20,8 +20,10 @@
 -----------------------------------
 <br>
 
-  [First Tour of Legal Doc Process in less than 1 minute](https://github.com/THEOLEX-IO/legal_doc_processing/blob/notebook/point-jawad/examples/first_tour.ipynb)
-      - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/notebook/point-jawad/examples/first_tour.ipynb) 
+[First Tour of Legal Doc Process in less than 1 minute](https://github.com/THEOLEX-IO/legal_doc_processing/blob/notebook/point-jawad/examples/first_tour.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/notebook/point-jawad/examples/first_tour.ipynb) 
+[Alt text](examples/first_tour.png?raw=true "First Tour")
+
 <br>
 <br>
 

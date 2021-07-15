@@ -21,9 +21,7 @@
 <br>
 
   <!-- 1. [Token Classification: NER, POS, Chunk, and Frame Tagging](https://novetta.github.io/adaptnlp/tutorial.token_tagging.html)
-      - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Novetta/adaptnlp/blob/master/nbs/05a_tutorial.token_tagging.ipynb)
-
- -->
+      - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Novetta/adaptnlp/blob/master/nbs/05a_tutorial.token_tagging.ipynb)  -->
 <br>
 <br>
 

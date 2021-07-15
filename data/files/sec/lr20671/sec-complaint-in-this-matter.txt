@@ -1,0 +1,218 @@
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ 
+
+SECURITIES AND EXCHANGE COMMISSION
+
+100 F Street, N.E.
+Washington, D.C. 20549, -
+Plaintiff Case: 1:08-cv-01359
+> Assigned To : Urbina, Ricardo M.
+Assign. Date : 8/6/2008
+v. Description: General Civil
+ALI HOZHABRI,
+Defendant.
+
+ 
+
+COMPLAINT
+Plaintiff Securities and Exchange Commission (âCommissionâ) alleges:
+. SUMMARY
+1. This action involves violations of the issuer books and records provisions
+of the federal securities laws arising from an embezzlement scheme at ABB Ltd.
+(âABBâ). Defendant Ali Hozhabri (âHozhabriâ or âDefendantâ) was a project manager
+at ABB Network Management (âABB NMâ), a division of a U.S. based ABB subsidiary,
+which provides products and services for managing power generation and transmission
+networks. From 2002 through 2004, Defendant fraudulently submitted approximately
+$468,714 in cash and check disbursement requests to ABB NM for fictional local
+business expenses associated with projects in Brazil, Paraguay, and the United Arab
+Emirates (âUAEâ). The funds disbursed by ABB NM as a result of these requests were
+not used to pay business expenses, but rather were embezzled by Defendant and the ,
+
+former General Manager of ABB NM.
+
+ 
+2. As a result of the conduct alleged in this Complaint, Defendant violated
+Section 13(b)(5) of the Securities Exchange Act of 1934 (âExchange Actâ) and Exchange
+Act Rule 13b2-1 [15 U.S.C. Â§ 78m(b)(5) and 17 C.F.R. Â§ 240.13b2-1], and aided and
+
+abetted violations of Section 13(b)(2)(A) of the Exchange Act [15 U.S.C. Â§
+78m(b)(2)(A)].-
+JURISDICTION
+
+3. This court has jurisdiction over this action pursuant to Exchange Act ;
+Sections 21(d) and 27 [15 U.S.C. Â§Â§ 78u(d) and 78aa]. In connection with the conduct
+described herein, Defendant made use of the mails and/or the means or instrumentalities
+of interstate commerce.
+
+DEFENDANT
+
+4. Defendant Ali Hozhabri (âHozhabriâ), age 53, is a citizen of the United
+States and currently resides in Houston, Texas. During the relevant time period,
+Hozhabri was a project manager for ABB Network Management, a Sugarland, Texas
+based division of ABB Inc., a U.S. subsidiary of ABB.
+
+RELEVANT ENTITY
+
+5. ABB Ltd., a Swiss corporation with headquarters in Zurich, Switzerland,
+is a global provider of power and automation technologies. ABBâs American Depository
+Receipts are registered with the Commission pursuant to Exchange Act Section 12(b) [15
+U.S.C. Â§ 781(b)], and trade on the New York Stock Exchange. As a foreign issuer, ABB
+files annual reports with the Commission on Form 20-F. During the relevant time period,
+ABB had numerous direct and indirect subsidiaries, including ABB Inc., whose financial
+
+results were part of ABBâs consolidated financial statements filed with the Commission.
+
+ 
+FACTS
+The Embezzlement Scheme
+6. Between 2002 and 2004, Defendant and the formet General Manager of
+ABB NM, embezzled at least $468,714 from ABB NM. They carried out this scheme by
+requesting and/or authorizing cash and check disbursements to pay purported business
+expenses associated with contracts ABB NM was performing for Itaipu Binacional
+(âITAIPUâ), an entity owned by the governments of Brazil and Paraguay, and for Abu
+Dhabi Company for Onshore Oil Operations (âADCOâ), a division of a government
+owned company in the UAE.
+
+7, Defendant was ABB NMâs project manager on these contracts. The
+$468,714 that ABB NM disbursed as a result of these fraudulent requests was never used
+to pay any business expenses associated with these contracts, but rather was embezzled
+by Defendant and the former ABB NM General Manager. Defendant personally kept
+$234,357 of these embezzled funds, and ABB NMâs General Manager kept the remainder
+of money.
+
+The ITAIPU Contract
+
+ 
+
+8. ITAIPU is an entity owned by the governments of Brazil and Paraguay
+that generates and transmits power from a hydroelectric damn on the Parana River. In
+2000, as a result of an acquisition by ABB, ABB NM assumed performance of a $6.9
+million contract to provide products and services to ITAIPU. Between 2002 and 2004,
+Defendant and the former General Manager of ABB NM, embezzled approximately
+
+$330,000 in connection with the ITAIPU contract.
+
+ 
+9. Under the ITAIPU contract, ABB NM was permitted to adjust previously
+submitted invoices to ITAIPU to account for inflation according to a formula specified in
+the contract. Defendant, the project manager on this contract, bypassed ABB NMâs
+ordinary procedure of generating these invoices through the accounting department, and
+personally prepared and submitted to ITAIPU, approximately $330,000 in âreadjustmentâ
+invoices. After ITAIPU paid these invoices, Defendant prepared and submitted
+fraudulent requests to ABB NM for cash and check disbursements to pay purported
+business expenses associated with the ITAIPU contract. The expenses -- described on
+the disbursement requests as âcommissionsâ and âlocal worksâ -- were phony. The
+purported expenses were inaccurately recorded as legitimate business expenses in ABBâs
+books and records.
+
+10. The General Manager of ABB NM authorized ABB NMâs controller to
+approve these disbursements, purportedly so Defendant could take cash to Brazil to pay
+local business expenses of ABB NM associated with this project. These funds were not
+used to pay business expenses. Instead, Defendant and the former ABB NM General
+Manager kept the money for their personal use.
+
+The ADCO Contract
+
+11. ADCOisa division of Abu Dhabi National Oil Company (âADNOCâ), a
+government owned company that, among other operations, generates and transmits
+electrical power in the UAE. In 2000, as a result of an acquisition by ABB, ABB NM
+assumed performance of a $5.9 million contract to provide products and services to
+
+ADCO. Defendant was the project manager on this contract. In 2002 and 2003,
+
+ 
+Defendant and the former General Manager of ABB NM, embezzled approximately
+$139,000 in connection with the ADCO contract.
+
+12. In 2002 and 2003, there were various change orders to the ADCO
+contract, pursuant to which ABB NM provided ADCO additional products and services.
+ABB NM, through an ABB subsidiary in Abu Dhabi, submitted invoices to ADCO in
+connection with these change orders. After ADCO paid certain of these invoices,
+Defendant prepared and submitted fraudulent requests to ABB NM for cash and check
+disbursements to pay purported âcommissionsâ and âsubcontractor feesâ associated with
+_ these change orders. These purported expenses, which were recorded as legitimate
+business expenses in ABBâs books and records, were phony.
+
+13. The General Manager authorized ABB NMâs controller to approve these
+disbursements, purportedly so Defendant could take cash to Abu Dhabi to pay local
+business expenses associated with these change orders. These funds were not used to pay
+business expenses, rather Defendant and the former ABB NM General Manager kept the
+money for their personal use.
+
+FIRST CLAIM
+(Books and Records and Internal Controls)
+[Violations of Exchange Act Section 13(b)(5) and Rule 13b2-1]
+
+14. Paragraphs 1 through 13 are re-alleged and incorporated by reference.
+
+15. As described above, Defendant knowingly circumvented ABBâs internal
+accounting controls and, directly or indirectly, falsified, or caused to be falsified, books,
+
+records, or accounts of ABB subject to Exchange Act Section 13(b)(2) [15 U.S.C. Â§
+
+78m(b)(2)].
+16. By reason of the foregoing, Defendant violated Exchange Act Section
+â 13(b)(5) and Exchange Act Rule 13b2-1 [15 U.S.C. Â§ 78m(b)(5) and 17 C.F.R. Â§
+240.13b2-1].
+SECOND CLAIM
+(Books and Records)
+
+[Aiding and Abetting Violations of Exchange Act Section 13(b)(2)(A)]
+
+17. Paragraphs 1 through 16 are re-alleged and incorporated by reference.
+
+18. The funds disbursed as part of the embezzlement scheme were
+inaccurately recorded as payment of legitimate business expenses in ABBâs consolidated
+books and records, in violation of Exchange Act Section 13(b)(2)(A) [15 U.S.C. Â§
+78m(b)(2)(A)]. Asa consequence, ABBâs books and records failed to accurately and
+fairly reflect the transactions and dispositions of the assets of the issuer. _
+
+19. Defendant knowingly provided substantial assistance in causing ABB to
+inaccurately record these disbursements and phony expenses in ABBâs books and
+records.
+
+20. _Byreason of the foregoing, Defendant aided and abetted violations of
+Exchange Act Section 13(b)(2)(A) [15 U.S.C. Â§ 78m(b)(2)(A)].
+
+RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that this Court enter
+judgment:
+
+(a) permanently enjoining Defendant from violating Exchange Act Section
+13(b)(5) [15 U.S.C. Â§ 78m(b)(5)], and Exchange Act Rule 13b2-1 [17 C.F.R. Â§ 240.13b2-1],
+
+and from aiding and abetting violations of Exchange Act Section 13(b)(2)(A) [15 U.S.C. Â§
+
+78m(b)(2)(A)];
+(b) ordering Defendant to disgorge ill-gotten gains he received in connection
+
+with the conduct alleged in this Complaint; and
+
+â(c) â granting such other and further relief as is just and appropriate.
+
+Dated: August 6, 2008
+
+Respectfully submitted,
+
+ 
+
+Scott W. Friestad
+Robert B. Kaplan
+Brian O. Quinn
+Tonia J. Tornatore
+
+Attorneys for Plaintiff
+
+Securities and Exchange Commission
+100 F Street, N.E.
+
+Washington, D.C. 20549
+
+(202) 551-4982 (Quinn)
+
+ 
+
+ 

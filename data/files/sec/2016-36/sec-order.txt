@@ -1,0 +1,491 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 77261 / March 1, 2016
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3751 / March 1, 2016
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-17145
+
+ 
+
+ORDER INSTITUTING CEASE-AND-
+
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+SECTION 21C OF THE SECURITIES
+QUALCOMM EXCHANGE ACT OF 1934, MAKING
+INCORPORATED, FINDINGS, AND IMPOSING A
+
+CEASE-AND-DESIST ORDER
+Respondent.
+
+ 
+
+ 
+
+I.
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate that
+cease-and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the
+Securities Exchange Act of 1934 (âExchange Actâ), against Qualcomm Incorporated
+(âQualcommâ or âRespondentâ).
+
+Il.
+
+In anticipation of the institution of these proceedings, Qualcomm has submitted an Offer
+of Settlement (the âOfferâ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the
+findings herein, except as to the Commissionâs jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Qualcomm consents to the entry of this Order Instituting
+Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities Exchange Act of 1934,
+Making Findings, and Imposing a Cease-and-Desist Order (âOrderâ), as set forth below.
+Il.
+
+On the basis of this Order and Qualcommâs Offer, the Commission findsâ that:
+
+Summary
+
+1. This matter concerns Qualcommâs violations of the anti-bribery, books and
+records, and internal controls provisions of the Foreign Corrupt Practices Act (âFCPAâ). From
+2002 through 2012, Qualcomm provided things of value to foreign officials â including high-
+ranking employees of state owned enterprises (âSOEsâ) and government ministers â to try to
+influence these decision makers to favor and/or promote Qualcomm-developed technology in an
+evolving international telecommunications market, thereby providing Qualcomm with a business
+advantage.
+
+2. Qualcommâs extensive international operations accounted for more than 90% of
+the companyâs revenue. Even so, Qualcommâs internal controls were insufficient to prevent or
+detect improper payments to foreign officials. In several areas of its business operations,
+including hiring, hospitality planning, and business development, Qualcomm lacked an adequate
+oversight process to determine whether things of value that it provided to foreign officials were
+made with the intent to induce those officials to provide a business benefit to Qualcomm.
+
+3. Qualcommâs insufficient internal controls resulted in books and records
+violations. Qualcomm misrepresented in its books and records that things of value provided to
+foreign officials were legitimate business expenses.
+
+4. In sum, Qualcomm, through its agents and subsidiaries, violated Section 30A of
+the Exchange Act by providing things of value to foreign officials to obtain and retain business
+in China. Qualcomm also violated Section 13(b)(2)(B) of the Exchange Act by failing to devise
+and maintain internal accounting controls sufficient to provide reasonable assurance of
+preventing or detecting the authorization or payment of improper payments. Qualcomm violated
+Section 13(b)(2)(A) of the Exchange Act by having recorded improper payments to foreign
+officials in its books and records in a manner that failed to accurately and fairly reflect the
+provision of things of value to foreign officials.
+
+ualcomm
+
+5. Qualcomm Incorporated is a Delaware corporation headquartered in San Diego,
+California. Qualcomm designs and sells wireless telecommunication products. The company
+also earns royalties from licensing its patented technologies. Qualcomm âs common stock trades
+on the Nasdaq Global Select Market under the symbol âQCOMâ and is registered with the
+Commission pursuant to Section 12(b) of the Exchange Act.
+
+ 
+
+The findings herein are made pursuant to Respondentâs Offer of Settlement and are not
+binding on any other person or entity in this or any other proceeding.
+Background
+
+6. Qualcomm is a multinational corporation that does business throughout the world.
+By Qualcommâs fiscal year 2010, international handset manufacturers and other Qualcomm
+customers and licensees comprised approximately 95% of the companyâs consolidated total
+revenue. 42% of 2012 revenue came from Chinese handset manufacturers and other Qualcomm
+customers and licensees in China.
+
+7. Qualcomm develops and patents wireless communications technologies, including
+technologies that are incorporated into one or more of the following standards: Code Division
+Multiple Access (âCDMAâ), Wideband CDMA (âWCDMAâ) and Long Term Evolution
+(âLTEâ). Mobile phone manufacturers make handsets that operate on networks based on
+Qualcomm technologies. Those handsets sometimes incorporate Qualcommâs chips. Qualcomm
+also licenses its patented technologies to mobile phone manufacturers.
+
+8. Qualcomm was among the first companies to patent and commercialize CDMA
+technology for wireless communications. As the leading patent holder for CDMA and WCDMA
+technologies, Qualcomm earns substantial royalties from its CDMA patent portfolio.
+
+9. In the early 2000âs, in many countries, competing digital wireless
+communications technologies, particularly Global System for Mobile Communications (âGSMâ)
+âsingle modeâ technology, were more widely deployed than CDMA technology. Qualcomm
+generally did not sell GSM chips or earn royalty revenue from the sale by manufacturers of
+single-mode handsets using GSM technology. Therefore, as Qualcommâs public filings
+explained, growth in the companyâs revenue and presence in the market depended on the
+âcommercial deployment of third generation (3G) wireless communications equipment, products
+and services based on [Qualcommâs] CDMA technology.â
+
+10. â As fourth generation (â4Gâ) technology developed, Qualcomm âs public filings
+warned investors that the companyâs licensing program for certain non-CDMA technologies,
+which may be adopted in 4G products, was âless established,â and therefore, âmight not be as
+successful in generating licensing income as [the companyâs] CDMA licensing program.â
+Qualcomm also disclosed in its public filings that the companyâs business depended on
+customers, licensees, and wireless network operators using Qualcomm-developed technologies
+and âdevelop[ing] products and services with value-added features to drive selling prices as well
+as consumer demand for new 3G and 3G/4G devices.â
+
+11. The executive vice president and president of Qualcomm âs Global Business
+Operations (the âEVPâ) coordinated government relationships and worked closely with the
+companyâs international management teams to develop strategies for the adoption of Qualcomm-
+developed technology in Key international markets with particular emphasis on the Asia Pacific
+Region, including China.
+
+12. Not only was China the single largest business opportunity for Qualcomm, but
+Chinese operator decisions regarding technology had implications for operators in other regions.
+As such, Qualcommâs management was focused on the successful adoption and deployment of
+Qualcomm-developed technology in China, and they hired the EVP to assist Qualcommâs
+expansion in China. The EVP was âinstrumental in driving CDMA adoption and growth in
+China and South East Asia.â
+
+13. In 2002, the wireless market in China represented a significant growth
+opportunity for Qualcomm. Conversely, Qualcomm identified an inability to succeed in the
+China market as a risk to its business.
+
+14. + While a state-owned telecommunications operator (âSOE 1â) had launched a 2G
+CDMA network in 2002, Qualcomm nonetheless believed that its business would be harmed
+should the telecommunications company or the Chinese government later make technology
+deployment decisions that impeded the expansion of CDMA technologies in China.
+
+15. From 2002 until 2008, however, Qualcomm did not know which state-owned
+enterprise would be granted a license to adopt and deploy more advanced technology in China.
+Accordingly, Qualcomm sought to persuade executives at two telecom companies, SOE | and
+another Chinese state-owned telecommunications company (âSOE 2â), to adopt Qualcomm-
+developed technology and expedite deployment of the more advanced networks once the licenses
+were issued.
+
+16. In May 2008, China announced the restructuring of its telecommunications
+industry and created three SOEs, which each obtained a different technology. In January 2009,
+China issued the licenses. One telecom company, SOE 2, was awarded one license and in April
+2009, it launched a version of Qualcommâs CDMA technology. Another telecom company, SOE
+1, was awarded a license for WCDMA technology and subsequently deployed a network using
+that technology. Customers using these networks began using mobile devices with Qualcomm-
+developed technology, resulting in Qualcomm obtaining billions in revenue from the sale of
+chips and licenses to cell phone manufacturers.
+
+Qualcomm Provided Things of Value to Foreign Officials Who Were Considering Whether
+to Adopt Qualcomm-Developed Technology
+
+17. From at least 2002 until 2012, Qualcomm provided things of value to try to
+influence: (1) foreign officials from a Chinese government agency (âAgencyâ) to make
+regulatory decisions that would expand the use of Qualcomm-developed technology in China;
+and (2) executives at SOE | and SOE 2 to adopt Qualcomm-developed technology and expedite
+deployment of their CDMA and WCDMA networks once the licenses were issued, thereby
+increasing Qualcommâs revenue from the use of this technology.
+
+18. Qualcomm urged the two telecom companies to rapidly deploy their respective
+networks, which would spur faster growth in the use of Qualcomm-developed technology by
+Chinese mobile subscribers, thus increasing Qualcommâs revenue from licensing and the sale of
+chips. Similarly, even after one telecom company (SOE 2) was awarded a CDMA license,
+Qualcomm worked to convince it to upgrade its network to the next generation of COMA
+technology. Had that occurred, Qualcomm believed the upgrade would extend the life and
+continued usage of Qualcommâs CDMA technology in China.
+19. Qualcomm also worked to try to influence the two telecom companies to use the
+companyâs products and services such as its application platform and push-to-talk service, with
+the goal of increasing and perpetuating use of the technologies.
+
+Qualcomm Hired Relatives of Chinese Officials
+
+20. Qualcomm provided or offered full-time employment and paid internships to
+family members and other referrals of foreign officials at SOE 1, SOE 2 and Agency â often at
+the request of these foreign officials. Qualcomm referred to some of these individuals as âmust
+placeâ or âspecialâ hires.
+
+21. Qualcomm offered employment to certain foreign officialsâ family members and
+referrals despite concerns, in some cases, that the individuals did not satisfy Qualcommâs hiring
+standards. Certain hires also had previously failed to obtain employment with Qualcomm
+through the standard hiring process. And in some cases, new positions were created for these
+hires.
+
+22. Qualcomm provided or offered full-time employment and paid internships to
+family members and other referrals of foreign officials with the purpose of trying to influence
+those officials to take actions that would assist Qualcomm in obtaining or retaining business in
+China.
+
+23. In one case, the Deputy General Manager of a subsidiary of SOE 2 asked
+Qualcomm employees in 2010 to find an internship at Qualcomm for her daughter. As one
+Qualcomm employee noted, âWe received a request from the GM of [the telecom companyâs
+subsidiary] to help find an internship position for her daughter (currently studying in the U.S.)
+within QC. I discussed this with [high level official] and determined that it would be important
+for us to support given our cooperation with [the subsidiary].â Qualcomm employees understood
+that the daughterâs âparents are [SOE 2 subsidiary] Dept. GM level and gave us great help for
+Q.C. new business development.â Because â[the regional branch] is our strategic partner in
+China and plays an important role in leading all [the telecom company] adopting Qualcomm's
+technologies,â Qualcomm employees believed that the internship âwould be important for us to
+support given our cooperation with [the subsidiary].â Specifically, the internship âwould be
+good because we are doing quite a bit with [the subsidiary], e.g., QChat and Rev. B.â
+
+24. In another case, between 2006 and 2010, Qualcomm provided the son of an
+executive responsible for network planning, construction, and maintenance at SOE 1, with:
+(1) support from a $75,000 research grant to an American university where he was studying,
+allowing him to retain his position in a PhD program and renew his student visa; (2) a
+Qualcomm internship; (3) subsequent permanent employment despite interviewers concluding
+that he did not meet Qualcommâs hiring standards for the position; and (4) a business trip to
+China followed by leave to visit his parents over the Chinese New Year, despite other employees
+expressing concern regarding his qualifications for the assignment. The EVP also personally
+provided this employee with a $70,000 loan to buy a home.
+
+25. In fact, the initial interview decision was âNo hireâ because the son of the telecom
+company executive was not âa skills match,â didnât âmeet the minimum requirements for
+
+5
+moving forward with an offer,â and among those who interviewed him, âthere was an agreement
+that he would be a drain (not even neutral) on teams he would join.â Despite these assessments a
+director in Human Resources advocated for the sonâs hire at the direction of EVP, summarizing,
+âT know this is a pain, but I think weâre operating under a different paradigm here than a normal
+âhireâ/"no hireâ decision tree. Weâre telling this kid (and in effect, [the telecom company]) that
+we donât want to waste time or extend any extra effort in this favor [the telecom company] has
+asked of Qualcomm, and then turn around and ask the same person we just rejected to do us a
+special favor.â
+
+26. Qualcomm also offered employment to at least one individual at the request of
+high-level Agency executives. An intern hired by Qualcomm in 2010 was referred by a director
+general of the Agency. An HR employee described the intern as âa MUST PLACE since he was
+refererd [sic] by [the director general of the Agency] and has influence in China as per [the high
+level official].ââÂ» When asked âHow cirtical [sic] is the hiring of the [director generalâs referral ]
+for Qualcommâs business?â, the high level official replied, â[Q]uite important from a customer
+relationship perspective.â
+
+27. | FCPA compliance, however, was not considered in Qualcommâs hiring process.
+Indeed, for years, most Qualcomm employees who worked in Human Resources did not receive
+FCPA training. As a result, when Qualcomm offered paid internships or full-time employment
+to family members or referrals of Chinese foreign officials, it did not evaluate or attempt to
+mitigate the potential FCPA risks associated with such hires.
+
+Oualcomm Provided Frequent Meals, Gifts and Entertainment to Foreign Officials
+
+28. From at least 2002, Qualcomm, EVP and other Qualcomm employees provided
+meals, gifts and entertainment to foreign officials and their family members in order to try to
+influence these foreign officials to adopt and retain Qualcomm-developed technology.
+
+29. Many gifts â airplane tickets for children of government officials, event tickets for
+spouses of foreign officials and luxury goodsâ had no valid business purpose. Similarly,
+Qualcomm paid for sightseeing for spouses and children of foreign officials and arranged golf
+outings.
+
+30. Qualcomm repeatedly provided certain foreign officials at telecom companies and
+the Agency with gifts, travel and entertainment. In certain cases, Qualcomm also provided the
+family members of these foreign officials with employment at Qualcomm.
+
+31. Qualcomm also offered foreign officials hospitality packages to world-class
+sporting events. These foreign officials included employees of government-controlled
+communications companies that were customers of Qualcomm, and sometimes their spouses.
+The Qualcomm employees involved in planning hospitality events for foreign officials had not
+received FCPA training. In addition, Qualcomm lacked processes for vetting hospitality event
+invitations and for determining whether events had an adequate business component.
+Oualcomm Failed to Devise and Maintain Adequate Internal Controls
+
+32. Qualcomm failed to implement a system of internal accounting controls that was
+sufficient to provide reasonable assurances that transactions were executed and access to assets
+was permitted in accordance with managementâs authorization, and that transactions were
+recorded as necessary to permit the preparation of financial statements in conformity with
+generally accepted accounting principles.
+
+33. These failures were widespread and involved Qualcommâs headquarters in San
+Diego and its international subsidiaries. These internal controls weaknesses were intensified by
+the absence of someone whose full-time responsibility was to act as a company-wide chief
+compliance officer and the absence of an FCPA compliance officer in China.
+
+34. Qualcomm employees directly offered various benefits to foreign officials who
+were making decisions regarding the use of Qualcomm-developed technology without an
+adequate process of oversight to determine whether the offers were intended to induce the
+foreign officials to provide a benefit to the company.
+
+35. For example, Qualcomm offered at least 15 foreign officials lavish hospitality
+packages worth approximately $95,000 per couple for the 2008 Beijing Olympics. Then, in mid
+to late-July 2008, a member of Qualcomm âs finance department raised FCPA issues related to
+the Olympics with Qualcomm counsel. In August 2008, just days before the Olympics began,
+Qualcomm rescinded the five hospitality invitations that had been accepted due to Qualcommâs
+FCPA-related concerns. The disinvited guests were from three Chinese state-owned enterprises.
+
+36. Neither Qualcommâs executive management team nor its local management in
+China adequately identified the potential FCPA risk in offering the lavish Olympics hospitality
+packages to employees at SOEs at which Qualcomm was soliciting and conducting business,
+until July 2008.
+
+37. | Moreover, Qualcommâs internal audit reports found that employees repeatedly
+failed to request pre-approvals prior to providing things of value to foreign officials and failed to
+record when things of value had been provided to foreign officials. These failures violated
+Qualcommâs FCPA policy.
+
+38. Qualcomm further failed to provide regular substantive training or information to
+employees of its subsidiaries regarding the requirements of the FCPA.
+
+39. In addition, several important business functions such as human resources and
+hospitality planning were not considered in Qualcommâs FCPA compliance program.
+Qualcomm Failed to Maintain Accurate Books and Records
+
+AO. Qualcomm, directly and through its subsidiaries, violated Exchange Act Section
+13(b )(2)(A) when it provided things of value and engaged in transactions that caused the
+company to fail to make and keep books, records, and accounts, which, in reasonable detail
+accurately and fairly reflected the transactions and disposition of assets of the company.
+
+Al. Qualcomm provided things of value for the purpose of obtaining or retaining
+business yet recorded these transactions in a generic and non-descript manner that obscured their
+purpose. Many things of value consisted of questionable inducements to further Qualcommâs
+business interests. For example, travel and hospitality events offered or provided to foreign
+officials were booked as generic sales and marketing or industry relations expenses.
+
+42. In addition, meals, gifts and entertainment were repeatedly noted as missing from
+Qualcommâs gift logs. Throughout this time period, there were also incorrect inputs into
+Qualcommâs expense report system because employees stated that nothing of value had been
+provided to a foreign official or failed to obtain the proper approvals in advance of the
+expenditure. Year after year these gift log and expense report deficiencies were raised in internal
+audit reports.
+
+Legal Standards and FCPA Violations
+
+43. Under Section 21C(a) of the Exchange Act, the Commission may impose a cease-
+and-desist order upon any person who is violating, has violated, or is about to violate any
+provision of the Exchange Act or any regulation thereunder, and upon any other person who is,
+was, or would be a cause of the violation, due to an act or omission the person knew or should
+have known would contribute to such violation.
+
+44. Section 30A of the Exchange Act prohibits any issuer with a class of securities
+registered pursuant to Section 12 of the Exchange Act, or any officer, director, employee, or
+agent acting on behalf of such issuer, in order to obtain or retain business, from corruptly giving
+or authorizing the giving of, anything of value to any foreign official for the purposes of
+influencing the official or inducing the official to act in violation of his or her lawful duties, or to
+secure any improper advantage, or to induce a foreign official to use his influence with a foreign
+governmental instrumentality to influence any act or decision of such government or
+instrumentality. [15 U.S.C. Â§78dd-1.]
+
+45, Under Section 13(b)(2)(A) of the Exchange Act issuers are required to make and
+keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflect the
+transactions and disposition of the assets of the issuer. [15 U.S. C. Â§ 78m(b)(2)(A). |
+
+46. Under Section 13(b)(2)(B) of the Exchange Act issuers are required to devise and
+maintain a system of internal accounting controls sufficient to provide reasonable assurances that
+(1) transactions are executed in accordance with managementâs general or specific authorization;
+(11) transactions are recorded as necessary (I) to permit preparation of financial statements in
+conformity with generally accepted accounting principles or any other criteria applicable to such
+
+8
+statements, and (II) to maintain accountability for assets; (111) access to assets is permitted only in
+accordance with managementâs general or specific authorization; and (iv) the recorded
+accountability for assets is compared with the existing assets at reasonable intervals and
+appropriate action is taken with respect to any differences. [15 U.S.C. Â§ 78m(b)2)(8).]
+
+47. As described above, Qualcomm violated Section 30A of the Exchange Act by
+providing employment and internships to relatives of foreign officials in order to assist
+Qualcomm in retaining and obtaining business. Qualcomm also violated Section 13(b)(2)(B) of
+the Exchange Act by failing to devise and maintain a sufficient system of internal accounting
+controls to prevent the provision of travel, gifts, and entertainment to foreign officials without
+prior pre-approval and to ensure all things of value given to foreign officials were properly
+recorded. As a result of this same conduct, Qualcomm failed to make and keep accurate books
+and records in violation of Section 13(b)(2)(A) of the Exchange Act.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent Qualcommâs Offer.
+
+Accordingly, it is hereby ORDERED that:
+
+A. Pursuant to Section 21C of the Exchange Act, Respondent Qualcomm cease and
+desist from committing or causing any violations and any future violations of Sections 30A,
+13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act;
+
+B. Respondent shall, within 10 days of the entry of this Order, pay a civil money
+penalty in the amount of $7,500,000 to the Securities and Exchange Commission for transfer to
+the general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). If
+timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C. Â§ 3717.
+Payment must be made in one of the following ways:
+
+(1) Respondent may transmit payment electronically to the Commission,
+which will provide detailed ACH transfer/Fedwire instructions upon
+request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+Payments by check or money order must be accompanied by a cover letter identifying
+Qualcomm as a Respondent in these proceedings, and the file number of these proceedings; a
+copy of the cover letter and check or money order must be sent to Finola H. Manvelian, Assistant
+Regional Director, Division of Enforcement, Securities and Exchange Commission, 444 S.
+Flower Street, Suite 900, Los Angeles, CA 90071.
+
+C. Respondent shall report to the Commission staff periodically, at no less than nine-
+month intervals during a two-year term, the status of its remediation and implementation of
+compliance measures. During this two-year period, should Respondent discover credible
+evidence, not already reported to the Commission staff, that questionable or corrupt payments or
+questionable or corrupt transfers of property or interests may have been offered, promised, paid,
+or authorized by Respondent entity or person, or any entity or person while working directly for
+Respondent, or that related inaccurate books and records have been maintained, Respondent shall
+promptly report such conduct to the Commission staff. During this two-year period, Respondent
+shall: (1) conduct an initial review and submit an initial report, and (2) conduct and prepare at
+least two follow-up reviews and reports, as described below:
+
+(1) Respondent shall submit to the Commission staff a written report within
+180 calendar days of the entry of this Order setting forth a complete
+description of its Foreign Corrupt Practices Act (âFCPAâ) and anti-
+corruption related remediation efforts to date, its proposals reasonably
+designed to improve the policies and procedures of Respondent for
+ensuring compliance with the FCPA and other applicable anti-corruption
+laws, and the parameters of the subsequent reviews (the âInitial Reportâ).
+The Initial Report shall be transmitted to Finola H. Manvelian, Assistant
+Director, Division of Enforcement, United States Securities and Exchange
+Commission, 444 S. Flower Street, Suite 900, Los Angeles, CA 90071.
+Respondent shall also provide a copy of the Initial Report to its external
+auditors. Respondent may extend the time period for issuance of the
+Initial Report with prior written approval of the Commission staff.
+
+(2) Respondent shall undertake at least two follow-up reviews, incorporating
+any comments provided by the Commission staff on the previous report, to
+further monitor and assess whether the policies and procedures of
+Respondent are reasonably designed to detect and prevent violations of the
+FCPA and other applicable anti-corruption laws (the âFollow-up Reportâ).
+In the Follow-up Report, Respondent shall also provide the Commission
+staff with its assessment of its FCPA compliance policies and procedures.
+
+(3) The Follow-up Report shall be completed by no later than 270 days after
+the Initial Report. The second Follow-up Report shall be completed no
+later than 270 days after the completion of the first Follow-up Report.
+Each Follow-up Report shall be transmitted to Finola H. Manvelian at the
+address listed above. Respondent shall also provide a copy of each
+Follow-up Report to its external auditors. Respondent may extend the
+time period for issuance of the Follow-up Report with prior written
+approval of the Commission staff.
+
+10
+(4) The periodic reviews and reports submitted by Respondent will likely
+include proprietary, financial, confidential, and competitive business
+information. Public disclosure of the reports could discourage
+cooperation, impede pending or potential government investigations or
+undermine the objectives of the reporting requirement. For these reasons,
+among others, the reports and the contents thereof are intended to remain
+and shall remain non-public, except (1) pursuant to court order, (2) as
+agreed by the parties in writing, (3) to the extent that the Commission staff
+determines in its sole discretion that disclosure would be in furtherance of
+the Commissionâs discharge of its duties and responsibilities, or (4) is
+otherwise required by law.
+
+(5) During this two-year period of review, Respondent shall provide its
+external auditors with its annual internal audit plan and reports of the
+results of internal audit procedures and its assessment of its FCPA
+compliance policies and procedures.
+
+(6) During this two-year period of review, Respondent shall provide the
+Commission staff with any written reports or recommendations provided
+by Respondentâs external auditors in response to Respondentâs annual
+internal audit plan, reports of the results of internal audit procedures, and
+its assessment of its FCPA compliance policies and procedures.
+
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+11

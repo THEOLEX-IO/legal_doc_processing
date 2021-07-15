@@ -1,0 +1,467 @@
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ 
+
+U.S. SECURITIES AND EXCHANGE
+
+COMMISSION,
+
+100 F. Street, NE
+
+Washington, D.C. 20549-6030
+Maindity, Case: 1:07-cv-01955
+
+Assigned To : Bates, John D.
+
+Assign. Date : 10/31/2007
+
+Description: General Civil
+
+Vv.
+
+INGERSOLL-RAND COMPANY LIMITED
+Clarendon House
+
+2 Church Street
+
+Hamilton HM 11, Bermuda
+
+Defendant.
+
+New New! Seowâ Neneâ Noweâ Neueâ Neeâ Neu Nee eee ne Neeâ Neeâ Neeâ Nee Neeâ Nee Seeâ
+
+ 
+
+COMPLAINT
+Plaintiff, U.S. Securities and Exchange Commission (the âCommissionâ), alleges:
+SUMMARY
+
+1. From approximately 2000 through 2003, Ingersoll-Rand Company
+Limited (âIngersoll-Randâ) violated the books and records and internal controls |
+provisions of the Foreign Corrupt Practices Act (the âFCPAâ) [15 U.S.C. Â§Â§ 78dd-1, et .
+seq.] when its subsidiaries entered into contracts involving approximately $1,507,845 in
+kickback payments in connection with sales of industrial equipment to Iraqi government
+entities under the United Nations Oil for Food Program. On some of these contracts,
+Ingersoll-Rand, through its subsidiaries, authorized or paid these kickbacks in the form of
+under-the-table âafter sales service feesâ (âASSFâ). On other contracts, the ASSF
+payments were made either by distributors or third parties. Ingersoll-Rand knew or was
+
+reckless in not knowing that the kickbacks were paid or agreed to. And it knew that the
+ASSF payments were prohibited by the Oil for Food Program, as well as under U.S. and
+international] trade sanctions.
+
+2. Ingersoll-Rand also violated the books and records and internal controls
+provisions of the FCPA when its Italian subsidiary I-R Italiana paid travel and hotel
+expenses for eight Iraqi government officials to visit Italy for six nights, a portion of
+which included a factory tour and training, and the remainder holiday travel. In addition
+I-R Italiana provided the officials with a total of $8,000 in âpocket money.â
+
+3. The Oil for Food Program was intended to provide humanitarian relief to
+the Iraqi population, then subject to comprehensive international trade sanctions. The
+Program allowed the Iraqi government to purchase necessary humanitarian goods, but
+required that all purchases be made through a U.N.-controlled escrow account. The
+kickbacks paid in connection with Ingersoll-Randâs Oil for Food contracts had the effect
+of diverting funds out of the escrow account and into an Iraqi slush fund.
+
+4. In accounting for certain of its Oil for Food Program transactions,
+Ingersoll-Rand failed to accurately record the nature of the ASSF payments as kickbacks
+to the Iraqi regime. Ingersoll-Rand also failed to devise and maintain a system of internal
+accounting controls sufficient to detect and prevent the illicit ASSF payments.
+
+5. As a result of the conduct above, Ingersoll-Rand violated Sections
+13(b)(2)(A) and 13(b)(2)(B) of the Securities Exchange Act of 1934 (the âExchange
+Actâ) [15 U.S.C. Â§Â§ 78m(b)(2)(A) and 78m(b)(2)(B)].
+
+JURISDICTION |
+6. This Court has jurisdiction over this action under Sections 21(d), 21(e),
+
+and 27 of the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e) and 78aa]. Ingersoll-Rand,
+directly or indirectly, made use of the means or instrumentalities of interstate commerce,
+of the mails, or of the facilities of a national securities exchange in connection with the
+transactions, acts, practices, and courses of business alleged in this Complaint.
+
+7. Venue is appropriate in this Court under Section 27 of the Exchange Act
+[15 U.S.C. Â§ 78aa] because Ingersoll-Rand does business in this judicial district.
+
+DEFENDANT
+
+8. Ingersoll-Rand is a Bermuda company with its executive offices in
+Montvale, New Jersey, and Davidson, North Carolina. Ingersoll-Rand is a global
+diversified industrial firm that provides industrial equipment and products and services to
+| transport food and perishables, and secure homes and commercial properties. Four
+Ingersoll-Rand subsidiaries sold goods to Iraq under the Oil for Food Program. Ingersoll-
+Randâs common stock is registered with the Commission pursuant to Section 12(b) of the
+Exchange Act [15 U.S.C. Â§ 781(b)] and is traded on the New York Stock Exchange under
+the symbol âTR.â
+
+RELEVANT ENTITIES
+
+9. ABG Allgemeine Baumaschinen-Gesellschaft mbH (âABGââ) was a
+wholly-owned German subsidiary of Ingersoll-Rand. During the relevant time, ABG
+manufactured and sold road construction equipment, including pavers, and compactors.
+
+10. Ingersoll-Rand Italiana, SpA. (ââT-R Italianaâ) is a wholly-owned Italian
+subsidiary of Ingersoll-Rand. I-R Italiana manufactures and sells large air compressors
+under the brand name Centac for use in oil refineries. Its principal manufacturing facility
+
+is in Vignate, Italy.
+1]. Thermo King Ireland Limited (âThermo-King Europeâ) is a wholly-
+owned Irish subsidiary of Ingersoll-Rand. Thermo-King Europe manufactures and sells
+refrigeration equipment for trucks, buses, and rail cars.
+
+12. Ingersoll-Rand Benelux, N.V. (âI-R Beneluxâ) is a wholly-owned
+Belgian subsidiary of Ingersoll-Rand. J-R Benelux manufactures and sells skid steer
+loaders and other compact construction vehicles.
+
+13. Ingersoll-Rand World Trade Ltd. (âIRWTâ), based in Fribourg,
+Switzerland, was during the relevant period.a trading subsidiary of Ingersoll-Rand.
+IRWT handled contract administration for many of Ingersoll-Randâs manufacturing
+subsidiaries, including transactions involved in the Oil for Food Program. IRWTâs
+responsibilities included obtaining U.N. authorization for Oil for Food contracts and
+obtaining export control permits.
+
+FACTS
+I The United Nations Oil for Food Program
+
+14. Following Iraqâs invasion of Kuwait in 1991, the United Nations Security
+Council and the United States imposed comprehensive economic sanctions on Iraq. Over
+the following years, the sanctions triggered a humanitarian crisis, with severe shortages
+of food and medical supplies. In response, the U.N. Security Council authorized a relief
+program under which the Iraqi government would be permitted to sell crude oil and use
+the proceeds to purchase humanitarian supplies.
+
+15. Under the terms of the Oil for: Food Program, the Iraqi government was
+authorized to sell crude oil to buyers of its choosing. A U.N. committee reviewed the
+
+commercial terms of each contract and approved each sale. The proceeds were wired by
+the purchaser directly into an escrow account maintained by the U.N. at BNP Paribas in
+New York. The Iraqi government was not given direct access to the proceeds of its oil
+sales, but was allowed to use the funds to purchase humanitarian goods, subject to U.N.
+review and approval. Individual Iraqi ministries could negotiate contracts for approved
+categories of products. The suppliers submitted their contracts to the U.N. committee for
+-review. Upon approval of each contract, and after verification that the goods had been
+received in Iraq, the committee authorized payment to the supplier from funds in the
+escrow account. |
+16. The Oil for Food Program was intended to maximize the Iraqi
+governmentâs flexibility in meeting its humanitarian needs, while preventing it from
+undermining trade sanctions by diverting cash from the transactions. In practice,
+however, the Iraqi government was able to circumvent the Programâs restrictions by
+demanding massive under-the-table payments from its contract partners. Starting around
+August 2000, each Iraqi ministry demanded a 10% âafter sales service feeâ (ââASSFâ) on
+all humanitarian goods purchased under the Program. The fee bore no relation to any
+actual services and was, in reality, an illicit 10% kickback to the Iraqi regime. The ASSF
+payment. was not identified in the official purchase contracts that the suppliers provided
+for U.N. review and was not made through the U.Ns authorized payment channels.
+
+17. According to the U.N.âs Independent Inquiry Committee created to
+investigate corruption in the Program, the Iraqi regime collected just over $1 billion in
+ASSF payments from suppliers. Payments were typically made in cash by the suppliers
+
+_ holding the Oil for Food contracts. The associated cost of the ASSF payments was
+
+passed along to the U.N.-controlled escrow account as the suppliers inflated their contract
+prices to cover the illicit payments. The ultimate economic effect of the kickbacks,
+therefore, was to deprive the U.N.âs humanitarian program of over $1 billion in
+humanitarian resources that otherwise would have been available to it.
+
+18. Each Iraqi ministry was responsible for collecting ASSF payments on the
+contracts it administered. In addition, the Ministry of Transportation ensured that no
+- humanitarian supplies were permitted to cross Iraqâs border without proof that all
+required ASSF payments had been paid. Because the payments violated U.N.
+ârequirements, the collection effort was handled surreptitiously. As demanded by Iraqi
+officials, the supplier made its ASSF payment -- either directly or through an Iraqi front
+company -- in cash at an Iraqi embassy or by depositing the funds at the Iragi-owned Al-
+Rashid Bank in Lebanon or the Al-Rafidain Bank in Jordan.
+
+19. -Following the U.S. invasion and occupation of Baghdad in 2003, the
+Coalition Provisional Authority assumed responsibility for ongoing Oil for Food
+contracts. The Provisional Authority put an end to the ASSF kickback requirement and
+renegotiated all open contracts to remove the associated 10% markups.
+
+I Ingersoll-Randâs Payment of ASSFâs under the Program
+
+20. Ingersoll-Rand engaged in Oil for Food transactions through four of its
+European subsidiaries: ABG, I-R Italiana, Thermo-King Europe; and J-R Benelux.
+Ingersoll-Rand subsidiaries entered into twelve contracts in which an ASSF kickback
+payment was either made or agreed to. In total, Ingersoll-Rand subsidiaries, their
+| distributors, and one contract partner made ASSF payments of approximately $963,148
+
+and authorized additional payments of $544,697.
+A. Contracts Involving ABG
+
+21. Ingersoll-Randâs German subsidiary ABG entered into a total of six
+contracts involving ASSF payments. The first two of these were contracts with the
+Mayoralty of Baghdad for the sale of approximately $3.2 million in road construction
+equipment for use by the Iraqi Ministry of Housing. In late November 2000, as the
+agreements were being negotiated, an ABG Sales Manager met with Iraqi officials in
+Baghdad, where he was given revised contracts prepared by the Iraqi Ministry of
+Housing. The revisions included 10% price markups to be included in the contracts ABG
+submitted for U.N. approval. The Iraqi officials also demanded a 10% cash payment.
+The contract did not disclose the cash payment back to the Iraqi Ministry.
+
+22. On November 27, 2000, shortly after the Baghdad meeting, the
+Woodcliffe Lakes, New Jersey, office of Ingersoll-Randâs Chairman received an
+anonymous fax alerting the company to a kickback arrangement:
+
+âThy reference to your A/M contract, we would like to alert you that it is
+against UN & U.S. regulations, to reimburse in cash, the Iraqi government
+with 10 percent of the contract amount, which is hidden in the contractâs
+
+amount.
+
+âAlthough you are reimbursing through your agent, .. . , this does make
+_ you totally responsible for this major offense. ...â â- .
+
+Upon receiving the document, Ingersoll-Rand initiated an investigation into the
+allegations. ABGâs Sales Manager was questioned about the Baghdad Mayoralty
+transaction and admitted that the Baghdad Mayoralty contracts contained ten percent
+âmark-ups, which would be paid back to the Iraqi Ministry as âworking capital,â which
+
+totaled $292,578.
+23. After discussing the matter with ABGâs Sales Manager and seeking advice
+from outside counsel; ABG, through the trading company IR WT, attempted to go
+forward with the Baghdad Mayoralty transactions. They submitted the contracts for U.N.
+approval with a short statement on a cover letter that each contract âincludes 10%
+working capital to be given as a rebate to [the] Baghdad Mayoralty.â After receiving
+questions from the U.N., ABG later admitted that the 10% amount represented a cash
+payment to the Iraqi Ministry. The U.N. officials advised that the payments were not
+allowed under Security Council resolutions and had to be eliminated from the contracts...
+Ultimately, the Baghdad Mayoralty refused to go forward with the contract without the
+10% payment, and the contracts were never concluded.
+
+24. Under these circumstances, senior officials at Ingersoll-Randâs corporate
+headquarters, ABG, and IRWT, were on notice that Iraqi government officials were |
+demanding cash kickbacks on Oil for Food contracts and that such ASSF payments were
+prohibited under U.N: Security Council resolutions and, by extension, U.S. and
+international trade sanctions.
+
+| 25. Ingersoll-Rand did not withdraw from participation in the Oil for Food
+- Program. Nor did it conduct appropriate due diligence to prevent the payment of ASSF
+payments under future Oil for F ood contracts. Indeed, in the year following termination
+of the Baghdad Mayoralty transactions, ABGâs Sales Manager negotiated four more Oil
+for Food contracts on ABGâs behalf. This latter group of contracts was entered into on
+an indirect, or distributorship, basis, with knowledge that the goods would be resold into
+
+Iraq.
+| 26. The distributors made, or agreed to make, ASSF payments on all four
+contracts. ABGâs Jordanian distributor made a total of $107,754 in ASSF payments on
+two contracts. ABGâs Lebanese distributor made an ASSF payment of $120,305 on one
+contract and entered into a side agreement to make an additional ASSF payment of
+$198,000.0n another contract. The $198,000 payment was never made because the
+contract was renegotiated by the Coalition Provisional Authority after the 2003 invasion.
+27. Ingersoll-Rand, ABG, and IRWT either knew or were reckless in not
+knowing that ASSF payments had been paid or offered under each of the four contracts.
+B. __ Contracts Involving I-R Italiana
+28. â Ingersoll-Randâs Italian subsidiary, LR Italiana, manufactured large air
+compressors under the CENTAC brand for use in oil refineries. Between November
+. 2000 and May 2002, I-R Italiana entered into four Oil for Food contracts involving a total
+of $473,302 in ASSF payments. The first three were direct contracts between
+IL-R Italiana and the Iraqi Oil Ministry. The fourth was a third-party contract made
+through I-R Italianaâs Jordanian distributor.
+29. The I-R Italiana contracts were negotiated by the companyâs Middle East
+Sales Manager. In November 2000 _ at about the same time that Ingersoll-Randâs
+Chairman received the anonymous fax concerning the Baghdad Mayoralty kickbacks --
+7 the Sales Manager signed the three direct contracts with the Iraqi State Oil Marketing
+âOrganization (âSOMOâ). During the negotiation, the Sales Manager agreed to pay a
+10% ASSF âpayment on each contract. To conceal the ASSF payments, the Sales
+
+- Manager and SOMO increased the payment due on each contract by 10% and created a
+fictitious line item on I-R Italianaâs purchase orders to justify the extra payment to the
+UN.
+
+30. The Sales Manager signed at least two side letters on I-R Italianaâs behalf
+committing the company to make the required ASSF payments. In.one of the side letters,
+the Sales Manager stated explicitly that the fictitious purchase order description used to
+conceal the kickback did not represent an actual performance obligation on I-R Italianaâs
+part. The side letter specified that âthe item . . . piping, installation and commissioning,
+
+- has been added only to pay the client, Baiji Refinery; the amount of [$181,032], and
+[J-R Italiana] is not obliged to meet this type of requirement.â
+
+31. â I-R Italianaâs Sales Manager arranged for LR Italianaâs Jordanian
+distributor to make the ASSF payments to SOMO under the three contracts. In order to
+conceal the nature of the payments, the distributor issued invoices to J-R Italiana for work
+that it either did not perform or that would already have been covered in the distributorâs
+base commission. The invoices described such services as providing âfollow up on all
+U.N. administrative work,â supervising the unloading and installation of equipment, and
+covering the âcost of any additional insurance.â
+
+32. In its accounting books and records, I-R Italiana incorrectly recorded its
+ASSF payments to its Jordanian distributor as âsales deductions.â The company
+incorrectly recorded its payment on a third contract under the account âother
+commissions.â
+
+33.  I-R Italianaâs fourth Oil for Food contract was handled in a different
+manner from the previous three. In or around October 2001, the Iraqi government
+
+revoked the requirement that all transactions be negotiated and entered into directly with
+
+10
+manufacturers. As a result, I-R Italiana resumed selling goods into Iraq through its
+distributors. Thus, for the fourth contract, the goods were sold through I-R Italianaâs
+Jordanian distributor. I-R Italiana sold compressor parts to the distributor, which re-sold
+them to the Iraqis at a 119% markup. In this instance, it was the distributor, not
+I-R Italiana, that signed an October 10, 2001, side agreement to make an ASSF payment
+of $178,692. A June 20, 2001, memorandum agreement between I-R Italiana and the -
+Jordanian distributor explicitly refers to the distributorâs obligation to make the ASSF
+payment under this contract.
+
+C. Contract Involving Thermo-King Europe
+
+34.  Ingersoll-Randâs Irish subsidiary Thermo-King Europe authorized an.
+ASSF payment on one contract. On October 19, 2000, the Regional Director for |
+Thermo-King Europe and Thermo-King Europeâs Iraq dealer arrived in Baghdad to
+finalize a contract for the sale of spare parts for refrigerated trucks to the Iraqi
+government-owned General Automobile & Machinery Trading Company (<GAMCOâ).
+At that meeting, the Regional Director signed a side agreement with GAMCO to make an
+ASSF payment of $53,91 9. |
+
+35. The ASSF payment obligation was not reflected in the contract documents |
+submitted to the UN. The contract, however, failed to receive U.N. approval for reasons
+unrelated to the ASSF payment. | |
+
+D. Contract Involving I-R Benelux
+
+36.  Ingersoll-Randâs Belgian subsidiary I-R Benelux had a role in one contract
+involving an ASSF payment of $260,787. On June 27, 2002, I-R Benelux entered into a
+
+contract with a Jordanian third party to sell 100 skid steer loaders and spare parts for
+
+11
+resale to the Iraqi State Company for Agricultural Supplies. The Jordanian third party
+resold the equipment into Iraq through the Oil for Food Program, with I-R Beneluxâs
+knowledge, at a 70% markup. I-R Benelux shipped the goods into Iraq and obtained all
+necessary export control licenses.
+
+37. The third party subsequently confirmed in writing that it had made the
+ASSF payment when questioned by the U.N. Independent Inquiry Committee.
+
+38. As noted above, by the time this contract was entered into, officials at
+Ingersoll-Randâs headquarters were on notice that Jraqi authorities were demanding illicit
+ASSF payments.on all Oil for Food Program contracts. Ingersoll-Rand did not perform
+appropriate due diligence on the Jordanian third party or on this contract to ensure that no
+ASSF payments were being made in connection with it.
+
+E. I-R Italianaâs Payment of Travel and Entertainment Expenses and
+âPocket Moneyâ to Iraqi Government Officials
+
+39. In February 2002 officials at I-R Italiana sponsored a site visit by eight
+Officials from the Iraqi Oil Ministryâs Baiji refinery. The Iraqi officials spent two days
+touring and training at the companyâs manufacturing facility in Vignate, Italy. According
+to internal email messages, the Iraqi officials spent two additional days âon holidayâ
+touring Florence at the companyâs expense. Although the factory tour had a legitimate
+business purpose, the F lorence tour did not. I-R Italiana paid approximately $10,484 on
+hotels, $1,798 on taxis, and distributed $1,000 in âpocket moneyâ to each of the Iraqi
+officials. | |
+
+40. __ I-R Italianaâs payment of holiday travel expenses and âpocket moneyâ
+violated Ingersoll-Randâs internal policies regarding payments to foreign government
+
+officials. The companyâs 2002 FCPA Manual permitted payments directly related to
+
+12
+product demonstrations or actual contracts but expressly prohibited any payment for
+vacations. The companyâs Travel Guidelines expressly barred any cash payment of .
+âpocket moneyâ or âwalking around money.â
+
+41. Ingersoll-Rand also failed to account properly for its pocket money
+payments in its accounting books and records, recording the payments under a general
+ledger account for âcost of sales deferred.â |
+TH Ingersoll-Randâs Failure to Maintain Adequate Internal Controls
+
+42. Ingersoll-Rand failed to maintain a system of internal controls sufficient
+(i) to ensure that the companyâs transactions under the Oil for Food Program were
+executed in accordance with managementâs authorization and Gi) to maintain
+accountability for the companyâs assets. As discussed above, Ingersoll-Rand subsidiaries
+either made or agreed to make numerous illicit payments that contravened the Oil for
+Food Program, US. and international trade sanctions, and its own internal FCPA and
+anti-bribery policies. In addition, I-R Italiana paid for the travel expenses of Iraqi
+_ officials and provided them with âpocket money,â in contravention of Ingersoll-Randâs
+- internal FCPA policies.
+
+: 43. Ingersoll-Rand failed to devise and maintain an effective system of
+' internal controls to prevent or detect these violations of the FCPA, as required by
+Exchange Act Section 13(6)(2)).
+
+IV Ingersoll-Rand Fails to Properly Maintain Its Books and Records
+
+44. â As described above, Ingersoll-Randâs accounting for its Oil for Food
+transactions failed properly to record the nature of the ASSF payments. In at least three
+
+transactions, the subsidiariesâ sale price for goods sold under the Program included ASSF
+
+13
+payments in violation of UN regulations and trade sanctions, as well as Ingersoll-Randâs
+FCPA policies. The companyâs subsidiaries failed to properly designate those payments,
+characterizing them instead as âsales deductionsâ or âother commissions.â
+
+45. | One of the companyâs subsidiaries also failed to accurately designate its
+improper payment of âpocket moneyâ and travel expenses it made to visiting Iraqi
+government officials by characterizing the payment as âcost of sales deferred,â thereby
+failing accurately to record these payments in its books, records, and accounts.
+
+| CLAIMS FOR RELIEF
+FIRST CLAIM |
+{Violations.of Section 13(b)(2)(A) of the Exchange Act]
+
+46. Paragraphs 1 through 45 are realleged and incorporated by reference.
+
+47. As described above, Ingersoll-Rand, through its officers, agents and
+subsidiaries, failed to keep books, records, and accounts, which, in reasonable detail,
+accurately and fairly reflected its transactions and dispositions of its assets.
+
+48. By reason of the foregoing, Ingersoll-Rand violated Section 13(b)(2)(A) of
+the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(A)].
+
+| SECOND CLAIM
+[Violations of Section 13(b)(2)(B) of the Exchange Act]
+
+49. Paragraphs 1 through 48 are realleged and incorporated by reference.
+
+50. As described above, Ingersoll-Rand failed to devise and maintain a system
+of internal accounting controls sufficient to provide reasonable assurances that payments
+were: (i) made in accordance with managementâs general or specific authorization; and
+
+(ii) recorded as necessary to maintain accountability for its assets.
+
+14
+51. By reason of the foregoing, Ingersoll-Rand violated Section 13(b)(2)(B) of
+
+the Exchange Act [15 U.S.C. Â§ 78m(b\(2\B)}.
+PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court enter a final
+judgment: | |
+
+A. Permanently restraining and enjoining Ingersoll-Rand from violating
+Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78m(b)(2)(A)
+and (B)];
+
+B. Ordering Ingersoll-Rand to disgorge ill-gotten gains, with prejudgment
+interest, wrongfully obtained as a result of its illegal conduct; a
+
+C. Ordering Ingersoll-Rand to pay civil penalties pursuant to Section 21(d)(3) |
+of the Exchange Act [15 U.S.C. Â§ 78u(d)(3)]; and
+
+D. Granting such further relief as the Court may deem just and appropriate.
+
+Dated: Det 3/_, 2007
+
+Respectfully submitted,
+
+4, Zeb
+
+heryl J, &catboro (D.C. Bar No. Y 2 21 a
+Tracy L. Price
+
+Robert I. Dodge
+
+Attorneys for Plaintiff,
+U.S. Securities and Exchange Commission. Â©
+100 F Street, NE
+Mail Stop 6030 SPII
+Washington, DC 20549-6030
+(202) 551-4403 (Scarboro)
+
+15

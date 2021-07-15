@@ -1,0 +1,671 @@
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA *.-â -
+
+ 
+
+ 
+
+\
+)
+U.S. SECURITIES AND EXCHANGE )
+COMMISSION, )
+100 F. Street, NE )
+Washington, D.C. 20549 )
+)
+Plaintiff, ) Case: 1:11-cv-00686
+) Assigned To : Huvelle, Ellen S.
+v. ) Assign. Date : 4/8/2011
+| ) Description: General Civil
+JOHNSON & JOHNSON )
+One Johnson & Johnson Plaza )
+New Brunswick, NJ 08933 )
+)
+Defendant. )
+_)
+COMPLAINT .
+
+Plaintiff, U.S. Securities and Exchange Commission (the âCommissionâ), alleges:
+SUMMARY
+
+I. This matter concerns violations of the Foreign Corrupt Practices Act
+("FCPA") by Johnson & Johnson (âJ&Jââ) as a result of the acts of its subsidiaries to
+obtain business for J&Jâs medical device and pharmaceutical segments.
+
+2. Since at least 1998 and continuing to early 2006, J&Jâs subsidiaries,
+employees and agents paid bribes to public doctors in Greece who selected J&J surgical
+implants for their patients. Further, J&Jâs subsidiaries and agents paid bribes to doctors
+and public hospital administrators in Poland who awarded tenders to J&J from 2000 to
+2006. J&Jâs subsidiaries and agents also paid bribes to public doctors in Romania to
+
+prescribe J&J pharmaceutical products from 2002 to 2007. Finally, J&Jâs subsidiaries
+and agent paid kickbacks to Iraq in order to obtain contracts under the United Nations Oil
+
+â
+
+for Food Program (âProgramâ) from 2000 to 2003. \
+3. J&J violated Section 30A of the Securities Exchange Act of 1934
+(âExchange Actâ) [15 U.S.C. Â§ 78dd-1] by making illicit payments to foreign
+government officials in order to obtain or retain business. J&J violated Section
+13(b)(2)(B) of the Exchange Act by failing to have an adequate internal control system in
+place to detect and prevent the illicit payments. J&J violated Section 13(b)(2)(A) of the
+
+Exchange Act by improperly recording each of those payments in its accounting books
+
+and records.
+JURISDICTION
+4. This Court has jurisdiction over this action under Sections 21(d), 21(e),
+
+and 27 of the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e) and 78aa]. J&J, directly or
+indirectly, made use of the means or instrumentalities of interstate commerce, of the
+mails, or of the facilities of a national securities exchange in connection with the
+transactions, acts, practices, and courses of business alleged in this Complaint.
+
+5. Venue is appropriate in this Court under Section 27 of the Exchange Act
+[15 U.S.C. Â§ 78aa] or 28 U.S.C. Â§ 1391(0).
+
+DEFENDANT
+
+6. Johnson & Johnson (âJ&Iâ) is a global pharmaceutical, consumer
+product, and medical device company headquartered in New Brunswick, NJ. Its
+securities are registered with the Commission under Section 12(b) of the Exchange Act,
+and its common stock trades on the New York Stock Exchange under the symbol âJNJ.â
+
+J&J operates worldwide through more than 250 operating companies. J&J and its
+subsidiaries employ more than 100,000 people. In fiscal year 2009, its sales totaled $61.8
+
+*
+
+billion. \ -
+RELATED ENTITIES
+
+7. DePuy, Inc. (âDePuyâ), a Delaware corporation, is a surgical implant
+company that J&J acquired in November 1998. It is a wholly-owned subsidiary of J&J.
+DePuy is one of J&Jâs medical device businesses, and J&J continues to sell implants
+under the DePuy brand.
+
+8. DePuy International, Ltd. (âDPIâ) is a British corporation,
+headquartered in Leeds, England, and a wholly-owned subsidiary of J&J. DPI oversaw
+the sale of DePuy products in Greece.
+
+9. âGreek Distributorâ was a Greek corporation owned by DPIâs Greek
+Agent and was DPIâs exclusive distributor in Greece. In January 2001, J&J purchased
+the Greek Distributor and renamed it DePuy Medec S.A. In mid-2003, it renamed the
+company DePuy Helles S.A. (âDePuy Hellesâ). In Greece, J&J sold surgical implants
+through DPI and then through DePuy Helles.
+
+10. Johnson & Johnson Poland Sp. z.o.0. ââMD&D Polandâ) is a Polish
+corporation and a wholly-owned subsidiary of J&J and sells medical devices in Poland.
+ll. Janssen-Cilag Eastern Europe (âJC-EEâ) is an unincorporated
+organization within J&J that markets pharmaceutical products in southeastern Europe. It
+
+sells products in Romania through Johnson & Johnson d.o.o. (âPharma Romaniaâ), a
+
+Slovenian limited liability company.
+
+we
+12. Cilag AG International (âCilagâ), a wholly-owned subsidiary, now
+known as Cilag GmBH International, is a provider of pharmaceutical products atid is
+located in Schaffhausen, Switzerland.
+
+13. Janssen Pharmaceutica N.V. (âJanssenâ), a wholly-owned subsidiary, is
+a provider of pharmaceutical products and is located in Beerse, Belgium. J&J sold
+pharmaceutical products under the Oil for Food program through Cilag and Janssen.
+
+14. The financial results of each of the above J&J entities were a component
+of the consolidated financial statements included in J&Jâs filings with the Commission.
+
+FACTS
+A. Greece
+
+15. One of J&Jâs product lines is surgical implants such as artificial knees,
+hips and other products that surgeons implant into patients. Surgical implants are a
+lucrative, but competitive business. In many countries, orthopedic surgeons control
+which implants they use.
+
+16. In 1998, J&J acquired another medical device company, DePuy Inc., a
+NYSE company. A top DePuy executive then went on to become a top J&J executive in
+the United States in J&Jâs medical device and diagnostics business (âExecutive Aâ). At
+the time of the acquisition, DePuy was engaged in a widespread bribery scheme in
+Greece to sell its implants. Executive A and DPI executives knowingly continued that
+scheme. From 1998 to 2006, J&J earned $24,258,072 in profits on sales obtained
+
+through bribery.
+1. Pre-J&J Bribery Scheme :
+ee
+
+17. In 1997, DPI, a subsidiary of DePuy, hired a Greek individyal (thÃ© âGreek
+Agentâ) to sell orthopedic implants in Greece. The Greek Agent was well-known in the
+Greek orthopedic industry with long-standing relationships with surgeons.
+
+18. | DPI executed two contracts to memorialize the deal. In September 1997,
+DPI hired the Greek Agentâs Greek company (the âGreek Distributorâ) as its exclusive
+sales agent. Under that deal, the Greek Distributor agreed to market DePuy products in
+Greece and to pay DPI for products that it re-sold primarily to public hospitals. A month
+later, DPI signed a separate contract with a private company in the Isle of Man (the
+âPrivate Companyâ) owned by the Greek Agent in which DPI agreed to pay the Private
+Company a 25% commission on everything that the Greek Distributor purchased. DPI
+paid the commission in the Isle of Man.
+
+19. The second contract said that the Private Company would provide
+marketing support to the Greek Distributor and DPI. In fact, the contracts were a sham
+engineered to facilitate bribery. DPI inflated the price it charged the Greek Distributor,
+then paid that âcommissionâ to the Private Company. The Private Company did not
+provide any significant services to DPI. The Greek Agent used the commissions â which
+were raised to 35% by 1998 â to bribe publicly-employed doctors to use DePuy implants.
+
+2. J&J Acquires DePuy And The Bribery Scheme Continues
+
+20. On November 5, 1998, J&I acquired DePuy. As a result, J&Jâs Policy on
+Business Conduct (the âPBCâ) became effective over the DePuy organization. The PBC
+prohibited the payment of bribes, required accurate books and records, and dictated
+
+controls over payments to third parties.
+21. After the merger, Executive A and DPI executives:aware of the bribes
+
+%
+a
+
+continued the relationship with the Greek Agent. \
+
+22. Beyond the DPI executives who knew about the payments to doctors,
+other DPI employees were aware of allegations that Greek doctors requested bribes as a
+means to supplement their public salaries. They were also aware that the Greek Agent
+had crucial relationships with Greek doctors and that those relationships were necessary
+in order to sell implants.
+
+23. After the merger, J&J executives learned that the Greek Agent was being
+paid through a private company in the Isle of Man. Those payments violated the PBCâs
+policy requiring all agent payments be made in the country where the product was sold,
+i.e., in Greece. DPI executives were particularly concerned that the payments made out
+of country would raise red flags of bribery.
+
+24. By April 1999, certain J&J executives decided to stop the payments to the
+Private Company in the Isle of Man over the objections of Executive A. The DPI
+executives and others discussed the need to continue to funnel money to the Greek Agent
+for doctors that was equivalent to the Private Companyâs prior 35% âcommission.â For
+example,
+
+Â¢ Ina March 22, 1999 e-mail, an executive at J&Jâs existing operating
+company in Greece, J&J Medical Helles, cautioned his supervisor that the
+Greek Agent had âmanaged over the year to build off-shore accounts
+through various representations he has, which in turn helped him to have
+significant competitive advantage when dealing with Greek surgeons.â
+The e-mail detailed instances that the executive characterized as âtruly but
+a fewâ of the payments to Greek surgeons, including educational support.
+
+eÂ¢ Ina June 24, 1999 letter, a DPI attorney objected to a draft contract with
+the Greek Distributor because the 35% commission appeared to be a
+
+âbonus payment.â Ina letter sent to a DPI executive and copied to a J&J
+in-house counsel, the attorney said that the Greek Distributor was already
+required to market DePuy products, and he warned that the executive who
+had drafted the arrangement could not explain how the money would be
+used to increase market share. \ .
+
+e Ina March 13, 2000 status report, a DPI executive wrote that DPI planned
+to âpay a 30% sales commission to [the Greek Agent] (or a nominee
+company of his choice)â and that the Greek Agent âwould take his
+personal remuneration and any other local support payments that he
+needed from this sum.â
+
+25.  Inor about January 2000, the two DPI executives who dealt most-closely
+with the Greek business met with DPIâs President and recommended that DPI terminate
+the Greek Agent because of the bribery. The DPI President raised the issue with his
+superior, Executive A, in late January 2000 during J&Jâs international sales conference.
+
+26. At the conference, three DPI executives met with Executive A, told him
+about the bribery, and recommended that DPI terminate the relationship with the Greek
+Distributor. However, the next day, Executive A and DPIâs President met with
+representatives of the Greek Agent. Executive A offered to buy the Greek Distributor
+and to retain the Greek Agent as a consultant.
+
+27.  Inasubsequent e-mail, Executive A explained that DPI had considered
+terminating the Greek Distributor, but â[t]he only problem with the proposal was that we
+would lose half our business even by year 3.â Executive A stated that â[t]o lose
+approximately $4m in sales in end user terms to the competition is totally unacceptable.â
+Executive A added that two DPI executives who worked for him were âtrying to find an
+alternative solution in order for us to acquire the [Greek Distributor] business retaining
+the sales and handling the in market customer practices.â
+
+28. The DPI executives then met with the Greek Agent to discuss their future
+
+business arrangements. Executive A initially tried to reinstitute the payments in the Isle
+of Man, but after a J&J attorney objected, Executive A allowed DPI to acquire the Greek
+a
+Distributor instead. \
+
+29. In April 2000, a J&J executive based in Europe sent an e-mail to
+Executive A noting that J&J took on risks by buying an existing company (as opposed to
+just assets), but saying that the Isle of Man commission payments had been unacceptably
+linked to the purchases of DePuy products by the Greek Distributor:
+
+The problem with these contracts for offshore payments has been and
+continues to be the âsmell testâ or the issue of substance plus our
+knowledge of what really happens. In the case of [the Greek Distributor],
+we (or them) would face serious problems to come up with a substantiated
+services rendered for anything close to the amount paid (including mark-
+up), simply because only a small fraction (if any) is used for services and
+the bulk goes into the black hole. The last item is my major concern for
+the latest option i.e. buying [the Greek Distributor] since, even with a
+thorough audit, we cannot know whether we will face future tax (and
+other) audits linking [the Greek Distributor], the owners and the Isle of
+Man payments. By virtue of the previous contract, all three parties are
+linked and subject to potential liabilities.
+
+30. Through 2000, DPI followed Executive Aâs instructions and negotiated to
+buy the Greek Distributor. Those negotiations raised more red flags of bribery. In
+November 2000, a DPI lawyer and a DPI accountant circulated a draft due diligence
+report saying that they had not seen evidence of bribery in the Greek Distributorâs books
+and.could not determine whether the Greek Distributor engaged in these practices.
+However, on the same day, the Greek Distributorâs outside accountant e-mailed the DPI
+financial executive that the Greek Distributorâs inventory was overvalued by 35% and
+would have to be adjusted after DPIâs acquisition when the inventory was valued and
+
+rolled up to J&Jâs books and records. The e-mail noted that the Greek Distributor had
+
+paid inflated prices to fund the payments to the Private Company and to cover âcash
+incentivesâ that the Greek Agent paid. The e-mail alerted the DPI accountant to the
+
+aâ
+
+bribery, but he never changed his due diligence report. 4
+31. In fact, several DPI executives knew that âcash incentivesâ were not
+proper and that they were really bribes to doctors. After the Greek Distributorâs
+accountant sent a memo that noted that the Greek Agent needed money as soon as
+possible because he had to âpay cash incentives for sales up to the end of January 2001,â
+a DPI vice president scolded him for mentioning the payments in writing:
+I [am] very disappointed to read in your proposal that it contains
+references to [the Greek Agentâs] activities which cannot be mentioned in
+written correspondence with DePuy International. I have made this point
+many times and each time it happens you put us in a very difficult
+position.
+3. Further Attempts To Conceal the Illicit Payments
+32.  J&J finally closed DPIâs acquisition of the Greek Distributor in January
+2001 and eventually renamed it DePuy Helles. The Greek Agentâs associate became the
+head of DePuy Helles. Rather than sever its ties to the Greek Agent, DePuy Helles
+continued to use him to facilitate bribe payments.
+33. DePuy Helles entered a consultant agreement, which paid the Greek Agent
+27% of all sales in Greece. However, in Spring 2001, DPIâs outside accountants
+questioned the amount of the payments for tax reasons. To conceal the true purpose and
+amount of payments subsequently made to the Greek Agent, the DPI executives split the
+payments between two new agreements with some payments paid by DPI and others paid
+by DePuy Helles.
+
+34. The bribe payments to doctors continued, and the Greek Agent and DPI
+
+executives often referred to them as âprofessional educationâ or âsupport.â The Greek
+Agent wrote to DPI that âcash incentives to surgeons is common knowledge in Greeceâ
+and included charts that explicitly said the Greek Agent would be paid so that he could
+pay âsupportâ to surgeons. At one point, a DPI vice president e-mailed the head of
+DePuy Helles about a possible increase in payments to the Greek Agent âfor increased
+direct payments to the surgeons.â
+
+35. In October 2003, DPI dismissed the Greek Agent after months of disputes
+about the sales of surgical implants in Greece. DPI hired another agent to fill the same
+role in the bribery scheme.
+
+36. In January 2005, a new EUCOMED Code of Business Practice went into
+effect, and a DPI vice president wrote the head of DePuy Helles and his supervisor:
+
+âEveryone in the industry is a million miles from applying the letter or
+spirit of the EUCOMED code! Most industry players break every single
+tule in the book (support spouse travel, give non-medical gifts, etc.). If we
+applied the letter and intent of the guidelines today, we'd lose 95% of our
+business by the end of the year.â
+
+37. Throughout this tite period, the Greek Agent and his replacement were
+occasionally late in paying doctors. In those instances, DePuy Helles employees
+withdrew petty cash and paid the doctors directly. From 2002 to 2006, records show
+about $590,000 in large, round-number withdrawals booked as âmiscellaneous.â Those
+amounts were generally re-deposited to petty cash within days and were booked as
+ârepayments.â
+
+38.  J&Jâs internal audit group discovered the payments to Greek doctors in
+early 2006 after receiving a whistleblower complaint. The issue of payments to surgeons
+
+had been previously raised in an anonymous 2003 letter to a different internal audit team
+
+concerning a related J&J subsidiary in Greece. However, that team concentrated their
+
+10
+investigation on allegations about a possible conflict of interest by local management and
+
+did not fully investigate the alleged payments to doctors. \\
+
+B. Poland
+
+39. Employees of MD&D Poland, a J&J subsidiary, bribed publicly-employed
+doctors and hospital administrators to obtain business. MD&D Poland executives
+running three business lines oversaw the creation of sham contracts and travel documents
+and also the creation of slush funds as a means to funnel bribe payments to doctors and
+administrators. From 2000 to 2006, J&J earned $4,348,000 in profit from its sales
+through the bribery.
+
+40. The bribery appears 1 have stopped when Polish prosecutors began to
+investigate payments to doctors.
+
+1. Sham Civil Contracts
+
+ 
+
+4]. MD&D Poland created sham civil contracts with publicly-employed
+doctors and hospital administrators to pay them for using 1&3 *s medical devices or for
+influencing hospitals to award medical device tenders to MD&D Poland. Although the
+contracts called for services, the doctors would not provide any, and MD&D Poland
+would pay the doctors based on fictitious activities.
+
+- 42. Approximately $775,000 of improper civil contract payments were
+funneled to public doctors from at least January 1, 2000 to June 30, 2006. In some cases,
+the amount paid to the doctor was a percentage of the value of a hospital tender. In |
+others, the amount was a flat fee requested by the doctor or hospital administrator.
+
+43. | The payments to doctors were bribes to obtain and retain J&J business.
+
+For example, a MD&D Poland employee sent an e-mail asking for the approval of a sham
+
+11
+civil contract with a hospitalâs healthcare director, noting that the doctor was âthe key
+decision maker in the sutures tender for 2002, which will be concluded sodn.â Similar e-
+mails accompanied other sham civil contracts as the basis for seeking approval for the
+sham arrangements by business managers.
+
+44. | MD&D Poland had no internal controls in place that would have required
+supporting documentation be provided prior to making the payments to the doctors. At
+least one high-level business manager and another executive in Poland were aware of and
+approved the illicit payments.
+
+2. False Travel Invoices
+
+45. | MD&D Poland also paid for public doctors and hospital administrators to
+travel to medical conventions in Poland and abroad in order to influence tender
+committee decisions in their favor. Sponsored doctors were taken on trips in exchange
+for influencing the doctorsâ decisions to purchase J&Jâs medical products or to award
+hospital tenders to J&J. Some of the trips were to the United States for conferences.
+Some of the trips were to tourists areas in Europe, and some included spouses and family
+members to what amounted to vacations.
+
+46. Business managers were allowed to approve lesser amounts for trips, but
+larger trips were approved by a managing director â all with an understanding that these
+expenditures were for the benefit of doctors who would influence tenders in MD&D
+Polandâs favor.
+
+47. . MD&D Poland employees also faked travel expenses in order to generate
+cash. The money was then funneled to doctors as bribe payments. For example, two
+
+MD&D franchises used a particular travel agency to funnel money to a senior Poland
+
+12,
+Ministry of Health official with significant influence over a hospital. A Business manager
+directed his subordinates to submit approximately $147,000 in false travel\invoices,
+which presumably was used to bribe doctors. MD&D Poland spent approximately $7.6
+million on these travel sponsorships between 2000 and 2006 that were rolled into the
+books of J&J with an indeterminate amount as bribes due to insufficient records.
+
+Cc. Romania
+
+48. Employees of J&J d.o.o. (âPharma Romaniaâ), a J&J subsidiary, bribed
+publicly-employed doctors and pharmacists to prescribe J&J products that the company
+was actively promoting (the âPromoted Productsâ). The employees worked with Pharma
+Romaniaâs local distributors to deliver cash to publicly-employed doctors who ordered
+J&J drugs for their patients. Pharma Romania also provided travel to certain doctors who
+agreed to prescribe J&J products. From 2000 to 2007, J&J earned $3,515,500 in profit
+from its sales through the bribery.
+
+49. Pharma Romania used local distributors to sell J&J products to doctors
+and pharmacies in Romania. Pharma Romania sales representatives worked with the
+distributors to generate cash that was paid to the doctors in exchange for the doctors
+prescribing Promoted Products. The distributors obtained the cash to pay the doctors by
+receiving discounts on each invoice or by receiving free goods that the distributors could
+sell for profit to obtain extra cash. Pharma Romania employees or the distributors would
+then deliver the cash to the doctors that were equal to 3-5% of the cost of the drugs that
+they prescribed. The distributors would then work with the doctors and pharmacies to
+
+deliver the drugs to patients and receive payment for the drugs from the Romanian
+
+government insurance program.
+
+13
+50. The scheme using travel benefits apparently began in late 2007 after J&Jâs
+internal audit began investigating claims of cash payments to doctors. Pharma Romania |
+employees stopped paying cash to doctors and began offering the doctors trips to medical
+congresses in return for the doctors prescribing Promoted Products. In some cases,
+Pharma Romania employees had J&Jâs travel agents overcharge Pharma Romania for the
+trips in order to generate cash to pay for the doctorsâ families to attend the trips as
+vacations or to provide the doctors with âpocket moneyâ while on the trips.
+
+D. âOil For Foodâ Transactions
+
+51. The Oil for Food Program (the âProgramâ) was intended to provide
+humanitarian relief for the Iraqi population, which faced severe hardship under the
+international trade sanctions that followed Iraqâs 1990 invasion of Kuwait. The Program
+permitted the Iraqi government to sell its crude oil and use the proceeds to purchase food,
+medicine, and critical infrastructure supplies.
+
+52. The proceeds of the oil sales were transferred directly from the buyers to
+an escrow account (the âU.N. Escrow Accountâ) maintained in New York by the United
+Nations 661 Committee. Funds in the U.N. Escrow Account were available for the
+purchase of humanitarian supplies, subject to U.N. approval and supervision. The intent
+of this structure was to prevent the proceeds of Jraqâs crude oil sales from undermining
+the sanctions regime by supplying cash to Saddam Hussein.
+
+53. Corruption was rampant within the Program. By mid-2000, Iraqi
+ministries on the instruction of top government officials instituted a policy requiring |
+suppliers of humanitarian goods to pay a ten percent kickback on each contract. This
+
+kickback requirement was euphemistically referred to as an âafter-sales serviceâ fee;
+
+14
+however, no services were provided. Suppliers competing to obtain contracts under the
+
+x
+Â®
+
+Program were encouraged to include a ten percent markup in their bids or \purchase
+orders.
+
+54. The inflated contract prices were incorporated into the Oil for Food
+contracts as a way to permit the suppliers to recover from the U.N. Escrow Account the
+kickback payments they had paid secretly to Iraq. Following the 2004 release of a report
+by the U.S. General Accounting Office exposing some of the abuses, the U.N.
+commissioned an independent inquiry committee, headed by former Federal Reserve
+Chairman Paul Volcker (the âVolcker Committeeâ), to investigate the Programâs
+performance. That committeeâs October 27, 2005, final report estimated that the Iraqi
+government had diverted $1.7 billion in illicit income from the Program.
+
+55.  J&J participated in the Program through two of its subsidiaries, Cilag AG
+International and Janssen Pharmaceutica N.V. (collectively âJanssen-Cilagâ). During the
+program, Janssen-Cilag sold pharmaceuticals to an arm of the Iraqi Ministry of Health
+known as Kimadia. Janssen-Cilag conducted business with Kimadia in Iraq through a
+Lebanese agent (the âAgentâ). The Agentâs primary contact with the J&J companies was
+an area director at Janssen-Cilagâs office in Lebanon:
+
+56. Prior to the time that Iraqi ministries began demanding kickbacks, the
+Agent received a twelve percent commission on sales in Iraq. In February 2001, several
+months after Kimadia started demanding kickbacks, Janssen-Cilag signed âside lettersâ
+with the Agent that raised his commissions on sales in Iraq by ten percent to twenty-two
+
+percent.
+
+1S
+57. The increase in the Agentâs commissions was approved by a Janssen-Cilag
+at
+
+area director in Lebanon as well as a managing director for Janssen-Cilagâs Middle East
+West Asia (âMEWAâ) group in Belgium. The stated reason for the increase was so that
+the Agent could conduct âpromotional activitiesâ in Iraq. This commission increase
+allowed the Agent on behalf of Janssen-Cilag to pay the required ten percent kickbacks to
+the Iraqi ministries through the Agent and to mask the payments as legitimate agent
+commissions in the companiesâ books and records. Notably, the Agent was not able to
+provide detailed evidence or description of the purported promotional activities
+undertaken with his increased commissions, nor did the Company require such
+documentation.
+
+58. Following the March 2003 invasion of Iraq and the end of Kimadiaâs
+kickback demands, Janssen-Cilag no longer needed to pay extra commissions to the
+Agent to be used as kickbacks. Accordingly, Janssen-Cilag re-negotiated the
+commissions, decreasing them by ten percent. As with the prior change in commissions,
+the decrease was approved by a Janssen-Cilag area manager in Lebanon and a managing
+director in Janssen-Cilagâs MEWA group. The Agentâs contract with Janssen-Cilag was
+terminated once the scheme was uncovered.
+
+59. In total, secret kickback payments of approximately $857,387 were made
+in connection with nineteen Oil for Food contracts. The payments were made through
+the Agent to Iraqi controlled accounts in order to avoid detection by the U.N. The fee
+was effectively a bribe paid to the Iraqi regime, which were disguised on J&Jâs books and
+
+records by mischaracterizing the bribes as legitimate commissions.
+
+16
+60.  Inorder to generate funds to pay the bribes and to conceal those payments,
+Janssen-Cilag and its agent inflated the price of the contracts by at least ten percent
+before submitting them to the U.N. for approval. J&Jâs total profits on the contracts were
+$6,106,255.
+
+E. Anti-Bribery Violations
+
+61. J&J, through its subsidiaries and agents, knowingly allowed its employees
+and third parties to pay Greek and Polish public doctors and public hospital
+administrators for the purpose of obtaining or retaining business.
+
+62. Executive A, a U.S. resident and a senior executive at J&J, approved the
+arrangements with the Greek Agent in Greece. Executive A and DPI executives knew
+that the Greek Agent was bribing Greek doctors. In addition, Polish doctors were bribed
+to use J&J products in return for trips. Use of the mails and interstate commerce was also
+used to facilitate the bribery schemes in both Greece and Poland.
+
+F. Failure To Maintain Its Books and Records
+
+63.  J&Jâs subsidiaries made numerous illicit payments for the purpose of
+obtaining contracts in Iraq, Romania, Greece, and Poland. J&Jâs books and records did
+not reflect the true nature of those payments. For example, they did not record that that a
+portion of its payments to the Greek and Iraqi agents constituted reimbursements for
+bribes, and they did not record the true terms of the civil contract payments to Polish
+doctors. Efforts were made to obscure the purpose of trips to the United States and
+abroad. Certain J&J subsidiaries created false contracts, invoices, and other documents
+
+â to conceal the true business arrangement it had with its consultants and distributors to pay
+
+17
+bribes. False travel documents were created, and petty cash was used to pay bribes.
+im
+
+United Nations contracts were also falsified. \
+G. Failure To Maintain Adequate Internal Controls
+
+64.  J&J failed to implement internal controls to detect or prevent bribery. The
+conduct was widespread in various markets, Greece, Poland, Romania, and Iraq. The
+conduct involved employees and managers of all levels. False documents were routinely
+created to conceal the bribery in each country.
+
+65. Rather than cease the bribery that was happening at DePuy prior to J&Jâs
+acquisition, J&J through its subsidiaries, employees and agents allowed the bribery to
+continue. They created sham businesses and entered into contracts that were merely
+conduits to allow the bribery to flourish. They failed to conduct due diligence on the
+Greek Distributor. The Company also paid its consultant outside of Greece to avoid
+detection of bribery. The Company had two different J&J corporate entities make
+payments to the Greek Agent to conceal the amount of money that was being funneled to
+doctors as bribes.
+
+66. | MD&D Poland entered into fake civil contracts with Polish doctors and
+J&I also created false travel arrangements in Poland and Romania to âcreate slush funds.
+
+67. Cilag and Janssen paid bribes to Iraq despite the fact that trade sanctions
+were in place against doing business in Iraq. Cilag and Janssen falsified their contracts
+
+with the United Nations to conceal the kickbacks being paid to Iraq.
+CLAIMS FOR RELIEF
+FIRST CLAIM \
+[Violations of Section 30A of the Exchange Act]
+
+68. Paragraphs | through 67 are realleged and incorporated by reference.
+
+69. As described above, J&J, through its officers, agents, and subsidiaries,
+corruptly offered, promised to pay, or authorized payments to one or more persons, while
+knowing that all or a portion of those payments would be offered, given, or promised,
+directly or indirectly, to foreign officials for the purpose of influencing their acts or
+decisions in their official capacity, inducing them to do or omit to do actions in violation
+of their official duties, securing an improper advantage, or inducing such foreign officials
+to use their influence with foreign governments or instrumentalities thereof to assist J&J
+in obtaining or retaining business.
+
+70. By reason of the foregoing, J&J violated, and unless enjoined will
+continue to violate, Section 30A of the Exchange Act. [15 U.S.C. Â§ 78dd-1]
+
+SECOND CLAIM
+[Violations of Section 13(b)(2)(A) of the Exchange Act]
+
+71. Paragraphs 1 through 70 are realleged and incorporated by reference.
+
+72. As described above, J&J, through its officers, agents and subsidiaries,
+failed to keep books, records, and accounts, which, in reasonable detail, accurately and
+fairly reflected its transactions and dispositions of its assets.
+
+73. By reason of the foregoing, J&J violated, and unless enjoined will
+
+continue to violate, Section 13(b)(2)(A) of the Exchange Act. [15 U.S.C.
+
+Â§ 78m(b)(2)(A)]
+
+19
+THIRD CLAIM -
+o's
+
+[Violations of Section 13(b)(2)(B) of the Exchange Act] \
+
+74. Paragraphs 1 through 73 are realleged and incorporated by reference.
+
+7. As described above, J&J failed to devise and maintain a system of internal
+accounting controls sufficient to provide reasonable assurances that: (i) transactions were
+executed in accordance with managementâs general or specific authorization; and
+(ii) transactions were recorded as necessary (I) to permit preparation of financial
+statements in conformity with generally accepted accounting principles or any other
+criteria applicable to such statements, and (II) to maintain accountability for its assets.
+
+76. By reason of the foregoing, J&J violated, and unless enjoined will
+continue to violate, Section 13(b)(2)(B) of the Exchange Act. [15 U.S.C.
+
+Â§ 78m(b)(2)(B)]
+PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court enter a final
+judgment:
+
+A. Permanently restraining and enjoining J&J from violating Sections 30A,
+13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78dd-1, 78m(b)(2)(A),
+and 78m(b)(2)(B)];
+
+B. Ordering J&J to disgorge ill-gotten gains wrongfully obtained as a result
+
+of its illegal conduct; and
+
+20
+U, Granting such further relief as the Court may deem just âand appropriate.
+
+Dated: Agi & , 2011.
+
+\
+
+Respectfully submitted,
+
+    
+
+ro (D.C. Bar No. 422175)
+
+  
+
+Tracy L/Price
+
+Reid A. Muoio
+Kelly G. Kalroy |
+Brent S. Mitchell
+
+Attorneys for Plaintiff,
+
+U.S. Securities and Exchange Commission
+100 F Street, NE
+
+Washington, DC 20549
+
+(202) 551-4403 (Scarboro)
+
+21

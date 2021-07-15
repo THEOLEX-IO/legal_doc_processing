@@ -1,6 +1,10 @@
-from legal_doc_processing.base.base import Base, base_from_file, base_from_text
-from legal_doc_processing.press_release.structure import structure_press_release
-from legal_doc_processing.press_release.information_extraction import *
+from time import time
+
+from legal_doc_processing import logger
+
+from legal_doc_processing.utils import get_pipeline, get_spacy
+from legal_doc_processing.base.base import Base
+from legal_doc_processing.press_release.utils import press_release_X_y
 
 
 class PressRelease(Base):
@@ -9,7 +13,7 @@ class PressRelease(Base):
     def __init__(
         self,
         text: str,
-        file_path: str = None,
+        source: str,
         nlpipe=None,
         nlspa=None,
         n_lines: int = 6,
@@ -19,91 +23,65 @@ class PressRelease(Base):
             self,
             text=text,
             obj_name="PressRelease",
-            doctype="press",
-            structure_method=structure_press_release,
-            predict_code_law_violation=predict_code_law_violation,
-            predict_country_of_violation=predict_country_of_violation,
-            predict_currency=predict_currency,
-            predict_decision_date=predict_decision_date,
-            predict_defendant=predict_defendant,
-            predict_extracted_authorities=predict_extracted_authorities,
-            predict_extracted_violation=predict_extracted_violation,
-            predict_folder=predict_folder,
-            predict_justice_type=predict_justice_type,
-            predict_monetary_sanction=predict_monetary_sanction,
-            predict_monitor=predict_monitor,
-            predict_nature_de_sanction=predict_nature_de_sanction,
-            predict_nature_of_violations=predict_nature_of_violations,
-            predict_penalty_details=predict_penalty_details,
-            predict_reference=predict_reference,
-            predict_type=predict_type,
-            # predict_sentence=predict_sentence,
-            # predict_violation_date=predict_violation_date,
-            file_path=file_path,
+            source=source,
             nlpipe=nlpipe,
             nlspa=nlspa,
         )
 
-        # specs
-        self.h1 = self.struct_text["h1"]
-        self.abstract = "\n".join(self.struct_text["article"].split("\n")[:n_lines])
-
         # set all
         self.set_all()
 
-        # all_text_sents
-        self.all_text_sents = [
-            i.text
-            for i in self.nlspa(self.struct_text["article"]).sents
-            if i.text.strip()
-        ]
 
+def press_release_df(juridiction="", nlspa="", nlpipe="", sample=0.25, max_init_time=3.0):
+    """ """
 
-def from_file(file_path, nlpipe=None, nlspa=None):
-    return base_from_file(file_path, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
+    assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
 
-
-def from_text(txt, nlpipe=None, nlspa=None):
-    return base_from_text(txt, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
-
-
-if __name__ == "__main__":
-
-    # import
-    import time
-    from legal_doc_processing.utils import get_pipeline, get_spacy
-    from legal_doc_processing.press_release.loader import press_release_X_y
+    max_init_time = 3.0
 
     # load
-    nlpipe = get_pipeline()
-    nlspa = get_spacy()
-    nlspa.add_pipe("sentencizer")
+    if not nlpipe:
+        nlpipe = get_pipeline()
+    if not nlspa:
+        nlspa = get_spacy()
+    try:
+        nlspa.add_pipe("sentencizer")
+    except Exception as e:
+        pass
 
-    # legal_doc df AND  OBj
-    df = press_release_X_y()
-    df = df.iloc[:, :]
-    df["pr"] = df.txt.apply(lambda i: PressRelease(i, nlpipe=nlpipe, nlspa=nlspa))
+    # dataframe
+    df = press_release_X_y(juridiction=juridiction, sample=sample)
 
-    # preds
-    t = time.time()
-    # 28 objects --> 181 secondes so --> +/-10 secondes per objects
-    df["preds"] = df.pr.apply(lambda i: i.predict_all())
-    t = time.time() - t
+    # Press Releae
 
-    # labels
-    preds_labels = list(df.preds.iloc[0].keys())
-    for k in preds_labels:
-        df["pred_" + k] = df.preds.apply(lambda i: i[k])
+    juri = juridiction.lower().strip()
+    if juridiction:
+        # selec juridiction
+        select_jur = lambda i: str(i).lower().strip() == juri
+        df = df.loc[df.juridiction.apply(select_jur), :]
+        # make pr
+        make_pr = lambda i: PressRelease(i, source=juri, nlpipe=nlpipe, nlspa=nlspa)
+        df["pr"] = df.press_release_text.apply(make_pr)
+    else:
+        # make pr
+        make_pr = lambda i, j: PressRelease(i, source=j, nlpipe=nlpipe, nlspa=nlspa)
+        df["pr"] = [make_pr(i, j) for i, j in zip(df.press_release_text, df.juridiction)]
 
-    # 1st one
-    one = df.iloc[0, :]
-    one_txt = one.txt
-    one_ob = obj = self = one.pr
+    return df
 
-    # externize
-    cols = ["txt", "pr", "preds"]
-    _df = df.drop(cols, axis=1, inplace=False)
-    _df.to_csv("./press_release.csv", index=False)
 
-    # df["_pred_monitor"] = [bool(i) for i in df.pred_monitor.apply(int).values]
-    # df.loc[df._pred_monitor, "folder"].values
+# def from_file(file_path, source, nlpipe=None, nlspa=None):
+#     return base_from_file(file_path, source, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
+
+
+# def from_text(txt, source, nlpipe=None, nlspa=None):
+#     return base_from_text(txt, source, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
+
+
+# def from_url(txt, source, nlpipe=None, nlspa=None):
+#     return base_from_url(txt, source, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
+
+
+class _PressRelease:
+    PressRelease = PressRelease
+    load_X_y = press_release_X_y

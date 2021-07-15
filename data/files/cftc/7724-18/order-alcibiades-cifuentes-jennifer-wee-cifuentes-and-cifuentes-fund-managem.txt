@@ -1,0 +1,925 @@
+Case 2:16-cv-06167-ES-JAD Document12 Filed 04/20/18 Page 1 of 26 PagelD: 247
+
+THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF NEW JERSEY
+
+U.S. COMMODITY FUTURES
+TRADING COMMISSION,
+
+Plaintiff,
+-against- Civil Action No. 2:16-cv-06167 (ES) (JAD)
+ALCIBIADES CIFUENTES,
+JENNIFER WEE CIFUENTES, and
+CIFUENTES FUND MANAGEMENT, LLC,
+
+Defendants.
+
+ 
+
+ORDER GRANTING PLAINTIFFâS MOTION FOR
+DEFAULT JUDGMENT, PERMANENT INJUNCTION,
+
+CIVIL MONETARY PENALTY, AND EQUITABLE RELIEF
+
+Before the Court is Plaintiff U.S. Commodity Futures Trading Commissionâs
+(âPlaintiff,â âCFTC,â or âCommissionâ) Motion for Entry of Default Judgment, Permanent
+Injunction, Civil Monetary Penalty, and Equitable Relief against Defendants Alcibiades
+Cifuentes (âCifuentesâ), Jennifer Wee Cifuentes (âWeeâ), and Cifuentes Fund Management,
+LLC (âCFMâ), (collectively, âDefendantsâ), pursuant to Federal Rule of Civil Procedure
+55(b)(2) and New Jersey Court Rule 4:43-2. For the reasons stated below and good cause
+having been shown, the motion is GRANTED.
+
+I. PROCEDURAL HISTORY
+1. On September 30, 2016, the CFTC filed a Complaint for Injunctive and Other
+
+Equitable Relief and for Civil Monetary Penalties Under the Commodity Exchange Act and.
+eo
+
+x
+to â
+feo
+ne
+i
+&
+
+z
+"ey,
+a
+-
+â_
+
+Commission Regulations (âComplaintâ) against Defendants for violations of the Commodity
+Exchange Act (the âActâ), 7 U.S.C. Â§Â§ 1-26 (2012), and its implementing regulations
+(âRegulationsâ), 17 C.F.R. Â§Â§ 1.1-190.10 (2015). (ECF No. 1).
+
+2. The Complaint alleges that, from at least April 2013 through March 2015 (the
+âRelevant Periodâ), Cifuentes and Wee, through CFM, engaged in a fraudulent scheme to
+solicit funds for a pooled investment vehicle trading in off-exchange leveraged or margined
+foreign currency (âforexâ) contracts. Rather than use customersâ funds to trade forex
+contracts as promised, Defendants misappropriated the money entrusted to them for the
+benefit of Cifuentes and Wee.
+
+3. On October 13, 2016, Plaintiff, pursuant to Federal Rule of Civil Procedure
+4(e)(1) and 4(h)(1)(B), caused a copy of the Summons and Complaint to be served on CFMâs
+registered agent in Wilmington, Delaware. (Ex. C to Decl. of Daniel J. Grimm (âGrimm
+Decl.â), ECF No. 3-2).
+
+4. In addition to serving CFM, Plaintiff undertook significant efforts to serve the
+Cifuentes and Wee with the Summons and Complaint, including dispatching process servers
+on numerous occasions to addresses associated with Cifuentes and Wee, sending the
+Summons and Complaint via Certified Mail to multiple addresses associated with Cifuentes
+and Wee, contacting current and former counsel in a related criminal proceeding against
+Cifuentes and Wee, and publishing notices of this action in the print and online versions of
+
+THE STAR-LEDGER. (Grimm Decl. at J 4-10).
+Pi
+
+se
+CZ â
+feo
+vee:
+i
+
+5. On December 29, 2016, based upon Plaintiff's efforts to serve Cifuentes and
+Wee and the actual service of process upon Defendants as described in paragraphs 3-4 above,
+Plaintiff moved for entry of default against Defendants (the âDefault Motionâ), (ECF No. 3).
+
+6. On December 31, 2016, Plaintiff's process server personally served Wee with
+the Summons and Complaint. (ECF No. 4-1, Ex. A).
+
+7. On January 24, 2017, Plaintiff's process server personally served Cifuentes
+with the Summons and Complaint. (ECF No. 5).
+
+8. On February 10, 2017, the Court issued an order granting the Default Motion
+as to CFM because CFM failed to respond to the Complaint within the time permitted by
+Federal Rule of Civil Procedure 12(a) and (b). (Order Granting in Part Pls. Mot. for Entry of
+Default Against All Defs. (the âFebruary 10 Orderâ), ECF No. 6).
+
+9. The February 10 Order also concluded that Plaintiffâs alternative service of
+the Summons and Complaint on Cifuentes and Wee (described in paragraph 4 above) was
+sufficient pursuant to Federal Rule of Civil Procedure 4(e)(1) and New Jersey Court Rule
+4:4-3(a), and resulted in Cifuentes being served with the Summons and Complaint by, at the
+latest, December 8, 2016. (ECF No. 6 at 2). The Court accordingly placed Cifuentes in
+default for failing to respond to the Complaint within the time allowed by Federal Rule of
+Civil Procedure 12(a) and (b). (d. at 3).
+
+10. While the February 10 Order determined that Wee had also been adequately
+served with the Summons and Complaint, the Court denied without prejudice entry of default
+as to her because Plaintiff voluntarily withdrew the Default Motion as to Wee on January 6,
+
+2017. (See ECE No. 4).
+Pi
+
+se
+CZ â
+feo
+vee:
+i
+
+11. On February 21, 2017, Plaintiff renewed the Default Motion as to Wee, on
+grounds that Wee was personally served with the Summons and Complaint on December 31,
+2016, and failed to respond within the time permitted by Federal Rule of Civil Procedure
+12(a) and (b). (ECF No. 7-1).
+
+12. On March 17, 2017, the Court granted the Default Motion as to Wee, placing
+her in default and granting Plaintiff leave to move for a default judgment as to her. (ECF No.
+8). Plaintiffâs instant motion followed.
+
+II. FINDINGS OF FACT
+
+A. Parties
+
+13. Plaintiff CFTC is an independent federal regulatory agency charged by
+Congress with the administration and enforcement of the Act and Regulations. The CFTC
+maintains its principal office at 1155 21st Street N.W., Washington, D.C. 20581.
+
+14. Defendant Cifuentes is the spouse of Wee and, along with Wee, is one of two
+founders and principals of CFM. During the Relevant Period Cifuentes was the Chief
+Executive Officer, Member, and Managing Principal of CFM. Along with Wee, Cifuentes is
+a signatory on the bank accounts and forex trading accounts used by and on behalf of CFM.
+Cifuentes resides in West New York, New Jersey. Cifuentes has never been registered in any
+capacity with the Commission.
+
+15. Defendant Wee is the spouse of Cifuentes and, along with Cifuentes, is one of
+two founders and principals of CFM. During the Relevant Period Wee was the Head of
+Trading and Risk Management and the Managing Principal of CFM. Along with Cifuentes,
+
+Wee is a signatory on the bank accounts and forex trading accounts used by and on behalf of
+eo
+
+x
+to â
+feo
+ne
+i
+&
+
+z
+"ey,
+a
+-
+â_
+
+CFM. Wee resides in West New York, New Jersey. Wee has never been registered in any
+capacity with the Commission.
+
+16. Defendant Cifuentes Fund Management, LLC is a Delaware limited liability
+company organized on June 11, 2013. CEM lists its principal place of business as New
+York, New York. CFM is the alter ego of Cifuentes and Wee. During the Relevant Period
+Cifuentes and Wee were the sole managers of CFM, Cifuentes and Wee were the only
+principals and employees of CFM, Cifuentes and Wee comingled their personal funds with
+the funds of CFM, and CFM held itself out as the âDBAâ (doing business as) entity of
+Cifuentes and Wee. CFM has never been registered in any capacity with the Commission.
+
+B. The Fraudulent Scheme
+
+17. During the Relevant Period Cifuentes and Wee, individually and on behalf of
+CFM, devised a sham forex pool in order to finance their lavish lifestyles with approximately
+$590,000 they misappropriated from over 24 members of the public (âpool participantsââ).
+To execute their scheme, Cifuentes and Wee knowingly made material misrepresentations
+and omissions about their forex trading abilities, strategy, and returns to persuade pool
+participants to transfer funds to Defendants. To prevent their fraud from being uncovered,
+Cifuentes and Wee fabricated documents, made false statements, and diverted a portion of
+pool participantsâ deposits to other victims as âdividendsâ in the manner of a âPonziâ
+scheme.
+
+18. In or around April 2013, to advance their fraudulent scheme, Cifuentes and
+Wee established a practice, or demonstration, forex trading account with GFT Global
+
+Markets UK Ltd. (the âDemo Accountâ). Fictitious âtradesâ placed in the Demo Account
+eo
+
+x
+to â
+feo
+ne
+i
+&
+
+z
+"ey,
+a
+-
+â_
+
+were for demonstration purposes only, posed no risk of loss, and did not involve the actual
+purchase or sale of forex contracts.
+
+19. Between at least May and June 2014, Cifuentes and Wee lured pool
+participants to deposit funds with Defendants by selecting fictitious, profitable forex trades
+from the Demo Account and falsely representing these risk-free trades to be Defendantsâ
+actual forex trades. Cifuentes and Wee did not disclose to pool participants that the posted
+trades were fictitious, or that the Demo Account actually suffered net âlossesâ exceeding $5
+million during the Relevant Period.
+
+20. On or about May 1, 2013, Cifuentes and Wee registered the internet domain
+name www.cifuentesfund.com, which they used to host a public website that they at all times
+managed and controlled (the âCFM Websiteâ). Cifuentes and Wee used the CFM Website to
+make numerous fraudulent statements to pool participants, including that deposits into the
+CFM pool were traded by âreputable and financially strong Futures & Commodities
+Merchants who are registered and regulated internationally,â that Defendants used
+âalgorithmic tradingâ strategies to trade pool funds, that customersâ deposits were âFDIC
+Insured,â and that CFM âFX Certificate[s] of Depositâ yielded âguaranteedâ profits of 60%
+or 120% upon expiration. Cifuentes and Wee knowingly made these false and fraudulent
+statements for the purpose of inducing pool participants to transfer funds to Defendants.
+
+21. At the direction of Cifuentes and Wee, pool participants entered into
+Subscription Agreements with âAlcibiades Cifuentes and/or [sic] Jennifer Wee Cifuentes
+DBA Cifuentes Fund Management, LLC.â The Subscription Agreements provided that
+
+Defendants would transfer âsecuritiesâ reflecting a âlimited partnership interestâ to a pool
+eo
+
+s
+to â
+feo
+a
+&
+
+we
+Zz
+
+"ey,
+a
+
+-
+
+â
+
+participant in exchange for the pool participantâs transfer of funds to Defendants. The
+Subscription Agreements provided that each pool participant would receive, on a quarterly
+basis, monthly dividends âguaranteed to be no less thanâ 10 percent of the pool participantâs
+principal deposits.
+
+22. At the direction of Cifuentes and Wee, pool participants transferred funds via
+wire and check payments to bank accounts controlled by Defendants. Once funds were
+deposited into Defendantsâ bank accounts, Cifuentes and Wee misappropriated all or most of
+pool participantsâ funds â sometimes by transfers the very day they cleared Defendantsâ bank
+accounts â to finance Cifuentesâs and Weeâs lifestyles. Among other fraudulent
+expenditures, Cifuentes and Wee spent pool participantsâ funds on luxury vehicles, jewelry,
+and clothing.
+
+23. Throughout the Relevant Period, Cifuentes and Wee falsely and fraudulently
+represented to pool participants that their funds were used to trade or invest in forex contracts
+and that money deposited with Defendants was safe, insured, and subject to rigorous risk-
+management procedures. At no point did Cifuentes or Wee disclose to pool participants that
+they were misappropriating pool participantsâ funds.
+
+24. Cifuentes and Wee fabricated account statements that falsely represented to
+pool participants that their funds were generating significant returns. The fabricated account
+statements did not disclose that Cifuentes and Wee had stolen all of pool participantsâ funds.
+
+25. To prevent their fraud from being uncovered, Cifuentes and Wee diverted
+pool participantsâ deposits to other victims as âdividendsâ in the manner of a âPonziâ
+
+scheme.
+26. Cifuentes and Wee also made false statements to pool participants via face-to-
+
+face meetings, e-mail, and telephone, including by blaming delayed âdividendâ payments on
+fictitious international âbankersâ and financial institutions.
+
+27. In total, Defendants fraudulently solicited approximately $590,000 from at
+least 24 pool participants. Defendants passed $132,880 of the funds they stole from some
+pool participants to other pool participants through âPonziââ-like payments, and
+misappropriated the remaining $457,120 for themselves. (Decl. of Patricia Gomersall
+(âGomersall Decl.ââ), ECF No. 10-4 {J 27, 36 & Ex. I).
+
+III. CONCLUSIONS OF LAW
+A. Default Judgment Is Warranted Against Cifuentes, Wee, and CFM
+
+28. Federal Rule of Civil Procedure 55(b) and New Jersey Court Rule 4:43-2
+authorizes litigants to seek, and the Court to enter, default judgment against a party who has
+failed to plead or otherwise defend an action. Fed. R. Civ. P. 55(b); N.J. Ct. R. 4:43-2.
+
+29. Three factors determine whether default judgment may be entered: whether
+(1) defendants have been served with the summons and complaint and the court possesses
+jurisdiction; (2) the unchallenged facts of the complaint adequately allege a cause of action;
+and (3) entry of default judgment is proper, based upon certain issues within the Courtâs
+discretion. See Dellecese v. Assigned Credit Solutions, Inc., 2017 WL 957848, at *2 (D.N.J.
+Mar. 10, 2017) (quoting Teamsters Health & Welfare Fund of Phila. v. Dubin Paper Co.,
+2012 WL 3018062, at *2 (D.N.J. July 24, 2012)).
+
+30. Where the first two factors above have been satisfied, courts in the Third
+
+Circuit consider three discretionary issues in determining whether entry of default judgment
+eo
+
+x
+to â
+feo
+ne
+i
+&
+
+z
+"ey,
+a
+-
+â_
+
+is proper: (1) the prejudice to plaintiff if default judgment is denied; (2) whether defendants
+have a meritorious defense to the action; and (3) whether defendants are culpable for their
+default. See U.S. v. $487,825.00 in U.S. Currency, 484 F.3d 662, 664 (3d Cir. 2007); see
+also CDK Glob., LLC v. Midwest Truck Sales, Inc., 2017 WL 838800, at *2 (D.N.J. Mar. 3,
+2017).
+
+31. As discussed below, all of the factors above support entry of default judgment
+against Defendants.
+
+B. Jurisdiction and Venue
+
+32. This Court possesses jurisdiction over this action pursuant to Section 6c(a) of
+the Act, 7 U.S.C. Â§ 13a-1(a) (2012), which authorizes the CFTC to seek injunctive and other
+relief in a United States district court against any person whenever it shall appear to the
+CFTC that such person has engaged in any act or practice that violates the Act or
+Regulations. The Court possesses jurisdiction over Cifuentes and Wee because they reside in
+this District and committed the violations of the Act and Regulations alleged in the
+Complaint within this District, and over CFM because it is the alter ego of Cifuentes and
+Wee, it conducted business in this District, and it maintained addresses in this District.
+
+33. Venue properly lies with this Court pursuant to Section 6c(e) of the Act,
+
+7 U.S.C. Â§ 13a-1(e) (2012), because the acts and practices in violation of the Act and
+Regulations occurred within this District.
+C. The Complaint Has Adequately Pled All Four Causes of Action
+34. In considering a motion for default judgment, the Court takes ââthe factual
+
+allegations of the complaint, except those relating to the amount of damages . . . as true.âââ
+"NS. es gx i ee Tee * â¢~, aN ee PLA PRAT AO s re fy es PS io "es
+
+ere asa gE AS da FORA AA bg y âsy wt TE EY 5 Povte es FL erie Go âpe HE est ~ ahi} ay iy
+
+tar ARPT OY TU ED fm ae AALS Aakokd x we POD LY Okay ALCS GAG GE ARAU LL <3}
+x
+
+Teamsters Pension Fund of Phila. & Vicinity v. Am. Helper, Inc., 2011 WL 4729023, at *2
+(D.N.J. Oct. 5, 2011) (quoting DIRECTV, Inc. v. Pepe, 431 F.3d 162, 165 n.6 (3d Cir. 2005)).
+As described below, the Complaint has adequately pled all four asserted causes of action.
+
+i. Cifuentes and Wee Violated Section 4b(a)(2)(A)-(C) of the Act and Regulation
+5.2(b) (Fraud in Connection with Forex Transactions)
+
+35. Section 4b(a)(2)(A) and (C) of the Act, 7 U.S.C. Â§ 6b(a)(2)(A), (C) (2012),
+prohibits any person or entity from cheating, defrauding, or misleading another person in
+connection with off-exchange commodity futures or forex contracts. Section 4b(a)(2)(A)-(C)
+of the Act applies to forex transactions as if they were futures contracts. Section
+2(c)(2)(C)(iv) of the Act, 7 U.S.C. Â§ 2(c)(2)(C)iv) (2012).
+
+36. Plaintiff may establish a violation of Section 4b(a)(1)(A) and (C) of the Act
+by showing that Defendants made a material misrepresentation, misleading statement, or
+deceptive omission with scienter. CFTC v. Rosenberg, 85 F. Supp. 2d 424, 447 (D.N.J.
+2000). Scienter âis an âintent to deceive, manipulate, or defraud,â and it may be shown either
+by conscious behavior or recklessness.â CFTC vy. Equity Fin. Grp. LLC, 572 F.3d 150, 159
+(3d Cir. 2009) (quoting Ernst & Ernst v. Hochfelder, 425 U.S. 185, 193 (1976)). A statement
+
+eee
+
+or Omission is material if âââa reasonable investor would consider it important in deciding
+whether to make an investment.â Rosenberg, 85 F. Supp. 2d at 447 (quoting Saxe v. E.F.
+Hutton & Co., Inc., 789 F.2d 105, 109 (2d Cir. 1986)). Account balances and profits
+âconstitute information that a reasonable investor would consider important in trading
+commodity futures... .â Id. at 448.
+
+37. Section 4b(a)(2)(B) of the Act prohibits the creation of false reports or
+
+statements in connection with off-exchange futures or forex contracts. âDelivering, or
+
+-10-
+causing the delivery of, false account statements to customers relating to forex trades...
+constitutes a violation of Section 4b(a)(2)(B) of the Act.â CFTC vy. Total Call Grp., 2012
+WL 1642196, at *7 (E.D. Tex. Mar. 30, 2012).
+
+38. Regulation 5.2(b) makes it unlawful, in connection with an off-exchange retail
+forex transaction, to use the mails or any means or instrumentality of interstate commerce to
+(1) cheat or defraud or attempt to cheat or defraud any person; (2) willfully make a false
+report or statement; or (3) willfully deceive any person by any means.
+
+39. The facts of the Complaint, taken as true for purposes of the instant motion,
+adequately allege that Cifuentes and Wee, through CFM, acted with scienter by intentionally
+making material misrepresentations and omissions to pool participants to entice them to
+deposit funds with Defendants, and then misappropriated those funds for their own benefit.
+
+AO. To conceal their fraud, Defendants created and sent to pool participants via e-
+mail and otherwise fabricated account and performance statements that falsely reflected
+massive trading gains. (See Gomersall Decl. J 41-42 & Ex. K (fabricated account
+statements)). Contrary to Defendantsâ misrepresentations, little if any trading occurred, no
+profits were made, and Defendants misappropriated pool participantsâ funds. (See Gomersall
+Decl. {| 16-19, 28-42).
+
+41. The allegations of the Complaint adequately state claims against Defendants
+for violating Section 4b(a)(2)(A)-(C) of the Act and Regulation 5.2(b). See CFTC v. Siegel,
+2014 WL 7404537, at *6 (D.N.J. Dec. 30, 2014) (entering default judgment for CFTC
+because â[c]ourts have held that misappropriation of pool participant fundsâ violates Section
+
+4b of the Act); see also Total Call Grp., 2012 WL 1642196, at *7 (delivery of false forex
+
+-ll-
+Case 2:16-cv-06167-ES-JAD Document 12 Filed 04/20/18 Page 12 of 26 PagelD: 258
+
+trading account statements violates Section 4b(a)(2)(B) of the Act); CFTC v. Yu, 2012 WL
+3283430, at *5 (N.D. Cal. Aug, 10, 2012) (use of the telephone and e-mail to commit forex
+fraud violates Regulation 5.2(b)).
+
+ii. CFM Violated Section 40(1)(A) and (B) of the Act and Regulation 4.41(a)
+(Fraud by a Commodity Pool Operator)
+
+42. Section 40(1) of the Act, 7 U.S.C. Â§ 60(1) (2012), makes it unlawful for a
+commodity pool operator (âCPOââ) to use any means or instrumentality of interest commerce
+to (A) employ any device, scheme, or artifice to defraud a pool participant; or (B) engage in a
+transaction, practice, or course of business that operates as a fraud or deceit upon a pool
+participant.
+
+43, Regulation 5.4, 17 C.F.R. Â§ 5.4 (2016), states that Part 4 of the Regulations,
+17 C.F.R. Â§Â§ 4.1 â 4.41 (2016), applies to any person required to register as a CPO pursuant
+to Part 5 of the Regulations related to off-exchange forex transactions, 17 C.F.R. Â§Â§ 5.1 -
+5.25 (2016).
+
+44, Regulation 4.41(a), 17 C.F.R. Â§ 4.41(a) (2016), makes it unlawful for any
+CPO, or any principal of a CPO, to publish or distribute materials that (1) employ any device,
+scheme, or artifice to defraud a pool participant; or (2) involve any transaction, practice, or
+course of business which operates as a fraud or deceit upon a pool participant.
+
+45. During the Relevant Period CFM, through Cifuentes and Wee, acted as a CPO
+by soliciting, accepting, or receiving funds from the public while engaged in a business that
+is of the nature of an investment trust, syndicate, or similar form of enterprise, for the
+purpose of, among other things, trading in off-exchange leveraged or margined forex
+
+contracts. Cifuentes and Wee acted as associated persons of a CPO because they were
+
+_12-
+Case 2:16-cv-06167-ES-JAD Document 12 Filed 04/20/18 Page 13 of 26 PagelD: 259
+
+partners, officers, employees, consultants, or agents of a CPO in a capacity that involved the
+solicitation of funds, securities, or property for participation in a commodity pool.
+
+46. During the Relevant Period CFM, through Cifuentes and Wee, violated
+Section 40(1)(A) and (B) of the Act and Regulation 4.41(a) by making material
+misrepresentations and omissions about the CFM pool to pool participants, by fabricating
+account statements, and by misappropriating pool participantsâ funds.
+
+47. The Complaint allegations that support Plaintiffâs forex fraud claims under
+Section 4b(a)(2)(A)-(C) of the Act also support Plaintiffâs Section 40(1)(A) and (B) fraud
+claims. See CFTC v. Driver, 877 F. Supp. 2d 968, 978 (C.D. Cal. 2012), aff'd 585 Fed.
+Appâx 366 (9th Cir. 2014) (âThe same intentional or reckless misappropriations,
+misrepresentations, and omissions of material fact violative of section 4b of the Act... also
+violate section 40(1)(A)-(B) of the Act.ââ)
+
+iii. CFM Violated Sections 2(c)(2)(iii)(D(cc) and 4m(1) of the Act and
+
+Regulation 5.3(a)(2)(i) (Failure to Register as a Commodity Pool
+Operator)
+
+A8. Section 2(c)(2)(C)Gi)()(cc) of the Act, 7 U.S.C. Â§ 2(c)2)(C)~ii) (cc)
+(2012), makes it unlawful for any person, unless registered with the Commission, to operate
+or solicit funds for any pooled investment vehicle that is not an eligible contract participant
+(âECPââ) in connection with leveraged or margined forex transactions entered into with a
+person who is not described in Section 2(c)(2)(B)@)(D(aa) â (ff) of the Act, 7 U.S.C.
+
+Â§ 2(c)(2)(B)@)CD (aa) â (ff) (2012).
+49. At no time during the Relevant Period did CFM qualify as an ECP. See
+
+Section 1a(18) of the Act, 7 U.S.C. Â§ 1a(18) (2012).
+
+_13-
+. ms Arter ~~ OARS ~ ary TAPIA O %y Las ry i ye
+e wi Gs Tbs Foie At \ â¢~ hk Bs gaen 5 gigi he Es ~y as SPECT Y eked
+fo, ARVO ED Fe Se AALS KALE â whe AA Ve OA ES AL AA AS PU CALDER AAA,
+
+50. Section 4m(1) of the Act, 7 U.S.C. Â§ 6m(1) (2012), prohibits an unregistered
+CPO from using any means or instrumentality of interstate commerce in connection with its
+business as a CPO. Regulation 5.3(a)(2)q), 17 C.F.R. Â§ 5.3(a)(2)G) (2016), requires forex
+CPOs to register with the Commission.
+
+51. During the Relevant Period CFM, through Cifuentes and Wee, violated
+Sections 2(c)(2)(C)(ii1)(1)(cc) and 4m(1) of the Act and Regulation 5.3(a)(2)(i) by soliciting
+funds for a pooled vehicle that transacted in off-exchange leveraged or margined retail forex
+transactions without first registering with the Commission as a CPO.
+
+iv. Cifuentes and Wee Violated Section 4k(2) of the Act and Regulations 3.12
+and 5.3(a)(2)(ii) (Failure to Register as Associated Persons of a
+Commodity Pool Operator)
+
+52. Section 4k(2) of the Act, 7 U.S.C. Â§ 6k(2) (2012), and Regulation
+5.3(a)(2)(Gi), 17 C.F.R. Â§ 5.3(a)(2)(i1) (2016), require any person associated with a CPO as an
+officer, employee, or agent, in any capacity involving the solicitation of funds for
+participation in a commodity pool, including a commodity pool that trades in retail forex
+transactions, to register with the Commission. Regulation 3.12, 17 C.F.R. Â§ 3.12 (2016),
+prohibits any person from acting as an associated person of a CPO unless registered as such
+with the Commission.
+
+53. During the Relevant Period Cifuentes and Wee violated Section 4k(2) of the
+Act and Regulations 3.12 and 5.3(a)(2)(i1) by acting as officers and employees of, and by
+soliciting funds for, the CFM pool without being registered with the Commission as
+associated persons of a CPO. (See Gomersall Decl. J 8 & Ex. B (NFA certificates of non-
+
+registration)).
+
+_14-
+STR eae MATAR P Ee TAP âArima mnt T3 tan AAPA A aN Sear PP os
+
+< - Sy ULE tis Tbs Fo} y 5 5 ar SaeN 5 : 3 4. Ae ây â. gare 3 i
+
+a RY RS RD fo EAL CALEY Le HOA AIAN el AUG 2 3 ALPE RL x
+Ms Net
+
+vy. CFM is Liable for the Conduct of Cifuentes and Wee
+
+54. Section 2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1)(B) (2012), and Regulation
+1.2, 17 C.F.R. Â§ 1.2 (2016), impose liability on a business association for the acts and
+omissions of its agents made within the scope of their employment or office. CFM is liable
+for Cifuentesâs and Weeâs violations of the Act and Regulations alleged in the Complaint
+because Cifuentes and Wee were at all relevant times acting as agents of CFM.
+
+Vi. Cifuentes and Wee are Liable for CFMâs Conduct
+
+55. Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b) (2012), imposes liability on
+controlling persons for the acts and omissions of the entity those persons control (â[a]ny
+person who, directly or indirectly, controls any person who has violated any provision of this
+Act ... may be held liable for such violation . . . to the same extent as such controlled person.
+In such action, the Commission has the burden of proving that the controlling person did not
+act in good faith or knowingly induced, directly or indirectly, the acts or acts constituting the
+violation.â) Cifuentes and Wee are liable for CFMâs conduct because CFM is an alter ego of
+Cifuentes and Wee, who were the only officers of CFM and at all times directed and
+controlled CFM.
+
+56. or knowingly induced, directly or indirectly, the acts or acts constituting the
+violation.ââ)
+
+D. Default Judgment is Proper
+57. The Court, in its sound discretion, has determined that default judgment is
+
+proper and should be entered against Defendants.
+
+_15-
+2.l6-cv-O61607-ES-JAD Document i2 Fied O4/20/18 Page 16 of 26 PageiD: 262
+58. Default judgment is proper because it will prevent further prejudice to
+
+Plaintiff. As a result of Defendantsâ failure to answer the Complaint, Plaintiff âhas incurred
+additional costs, has been unable to move forward with the case, and has been delayed in
+receiving relief.â Electromagnetic Techs. Indus., Inc. vy. CCOM, 2015 WL 3879691, at *2
+(D.N.J. June 22, 2015) (granting motion for default judgment). Absent default judgment,
+Plaintiff will continue to be prejudiced by being hindered from fulfilling its congressional
+mandate of enforcing the Act. See SEC vy. Fortitude Grp., Inc., 2017 WL 818604, at *2
+(W.D. Pa. Feb. 10, 2017) (granting SECâs motion for default judgment because SEC would
+âbe prejudiced by its inability to effectively enforce federal securities lawsâ if motion were
+denied).
+
+59. Default judgment is proper because Defendants have no meritorious defense
+to the action. By failing to respond to the action, Defendants have âput forth no evidence or
+facts containing any information that could provide the basis for a meritorious defense.â
+HICA Educ. Loan Corp. v. Surikov, 2015 WL 273656, at *3 (D.N.J. Jan. 22, 2015) (granting
+motion for default judgment). As nothing on the face of the Complaint indicates that
+Defendants have a meritorious defense, default judgment is proper. See, e.g., Interpool, Inc.
+v. Four Horsemen, Inc., 2017 WL 1284766, at *4 (D.N.J. Mar. 24, 2017) (granting motion
+for default judgment).
+
+60. Default judgment is proper because Defendants are presumed to be culpable
+for their failure to respond to this action. See, e.g., Electromagnetic Techs., 2015 WL
+
+3879691, at *2 (â[W]here Defendant has failed to respond, there is a presumption of
+
+-16-
+culpability.â) Culpability is also presumed because Defendants have failed to respond
+âwithout providing any reasonable explanation.â Jnterpool, 2017 WL 1284766, at *4.
+
+61. Accordingly, the Court enters default judgment against Defendants and orders
+the relief set forth below.
+
+IV. PERMANENT INJUNCTION
+
+62. Section 6c(a) of the Act, 7 U.S.C. Â§ 13a-1(a) (2012), authorizes the
+Commission to seek, and the Court to impose, injunctive relief against any person whenever
+it shall appear to the CFTC that such person has engaged in any act or practice that violates
+the Act or Regulations.
+
+63. The ââultimate testââ for entry of an injunction under the Act ââis whether the
+defendantâs past conduct indicates that there is a reasonable likelihood of further violations in
+the future.ââ Siegel, 2014 WL 7404537, at *9 (quoting CFTC v. Wilshire Inv. Mgmt. Corp.,
+531 F.3d 1339, 1346 (11th Cir. 2008)). Future violations of the Act or Regulations âmay be
+inferred, or even presumed, from past unlawful conduct, and the absence of proof to the
+contrary.â CFTC vy. Am. Metals Exch. Corp., 693 F. Supp. 168, 171 (D.N.J. 1988) (citing
+CFTC v. Hunt, 591 F.2d 1211, 1220 (7th Cir. 1979)).
+
+64. The scope of injunctive relief can be tailored to meet the circumstances of the
+violations shown. For example, upon the CFTCâs showing of a violation, courts have
+entered permanent injunctions against future violations of the Act. See, e.g., Rosenberg, 85
+F. Supp. 2d at 455 (permanently enjoining defendants âfrom future violations ofâ provisions
+of the Act). Courts have also permanently enjoined defendants from registering with the
+
+CFTC and engaging in any commodity-related activity. See, e.g., Wilshire, 531 F.3d at 1346
+
+_17-
+Case 2:16-cv-06167-ES-JAD Document 12 Filed 04/20/18 Page 18 of 26 PagelD: 264
+
+(upholding the district courtâs permanent injunction prohibiting the defendants from
+âengaging in any commodity-related activityâ).
+
+65. As set forth above, the well-pleaded facts of the Complaint and the facts set
+forth in the Declaration of Patricia Gomersall establish that Defendantsâ unlawful conduct
+makes it highly likely that they will be repeat violators unless permanently restrained by this
+Court.
+
+66. As alleged, Defendants knowingly stole all of the money entrusted to them by
+spending it on themselves or passing it to other victims, often within a day of the funds
+clearing their accounts. Rather than admit their wrongdoing, Defendants took pains to
+conceal their fraud by, among other things, fabricating documents, making false statements,
+and making âPonziâ-like payments to pool participants. Injunctive relief is appropriate in
+these circumstances. See Rosenberg, 85 F. Supp. 2d at 454 (granting CFTCâs motion for
+permanent injunction because defendantsâ misappropriation of customer funds was
+âegregiously fraudulent conductâ that made future violations of the Act likely).
+
+67. As shown above, the well-pleaded facts set forth in the Complaint and the
+Gomersall Declaration establish that:
+
+(a) Defendants violated Sections 2(c)(2)(C)ai)(1)(cc), 4b(a)(2)(A)-(C), 4k, 4m(1),
+
+and 40(1)(A) and (B) of the Act, 7 U.S.C. Â§Â§ 2(c)(2)(C)Gi(D)(cc), 6b(a)(2)(A)-
+(C), 6k, 6m(1), and 60(1)(A) and (B) (2012); and Regulations 3.12, 4.41(a),
+5.2(b), and 5.3(a)(2)(), (ii), 17 C.F.R. Â§Â§ 3.12, 4.41(a), 5.2(b), and 5.3(a)(2)()
+
+and (41) (2016); and
+
+-18-
+Case 2:16-cv-06167-ES-JAD Document 12 Filed 04/20/18 Page 19 of 26 PagelD: 265
+
+(b) there is a reasonable likelihood that Defendants will continue to violate the Act
+and Regulations unless permanently restrained and enjoined by this Court. The
+intentional and egregious nature of Defendantsâ fraudulent conduct warrants
+permanent injunctive relief, including registration and trading bans.
+
+68. Accordingly, Defendants are permanently restrained, enjoined, and prohibited
+
+from directly or indirectly:
+
+(a) Engaging in conduct that violates Sections 2(c)(2)(C)a11)(1)(cc),
+Ab(a)(2)(A)-(C), 4k, 4m(1), and 40(1)(A) and (B) of the Act, 7 U.S.C.
+
+Â§Â§ 2(c)(2)(C)ai)()(cc), 6b(a)(2)(A)-(C), 6k, 6m(1), and 60(1)(A) and (B) (2012);
+
+and Regulations 3.12, 4.41(a), 5.2(b), and 5.3(a)(2)(i) and (11), 17 C.F.R. Â§Â§ 3.12,
+
+4.41(a), 5.2(b), and 5.3(a)(2)() and (11) (2016);
+
+(a) trading on or subject to the rules of any registered entity (as that term
+is defined in Section la(40) of the Act, 7 U.S.C. Â§ la(40) (2012));
+
+(b) entering into any transaction involving âcommodity interestsâ (as that
+term is defined in Regulation 1.3(yy), 17 C.F.R. Â§ 1.3(yy) (2014)) for their own
+personal account or for any account in which they have a direct or indirect interest;
+
+(c) having any commodity interests traded on their behalf;
+
+(d) controlling or directing trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account involving
+commodity interests;
+
+(e) soliciting, receiving, or accepting any funds from any person for the
+
+purpose of purchasing or selling any commodity interests;
+
+-19-
+2:160-cv-OG107-ES-JAD Document 12 led O4/2O/18 Page 20 of 26 PageiD: 266
+(f) applying for registration or claiming exemption from registration with
+
+the Commission in any capacity, and engaging in any activity requiring registration or
+exemption from registration with the Commission, except as provided for in
+Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2016);
+
+(g) acting as a principal (as that term is defined in Regulation 3.1(a), 17
+C.F.R. Â§ 3.1(a) (2016)), agent, or any other officer or employee of any person
+registered, exempted from registration, or required to be registered with the
+Commission, except as provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9)
+(2016);
+
+(h) Engaging in any business activities related to commodity interests.
+
+V. RESTITUTION AND CIVIL MONETARY PENALTY
+
+A. Restitution
+
+69. Section 6c(d)(3)(A) of the Act, 7 U.S.C. Â§ 13a-1(d)(3)(A) (2012), authorizes
+the Commission to seek, and the Court to impose, equitable remedies for violations of the
+Act, including ârestitution to persons who have sustained losses proximately caused by such
+violation (in the amount of such losses). Courts calculate restitution âas the difference
+between what Defendants obtained and the amount customers have already received back.â
+CFTC vy. Ross, 2014 WL 6704572, at *3 (N.D. Ill. Nov. 26, 2014). See also CFTC v. Leben,
+2016 WL 7354359, at *9 (D.S.C. Aug. 5, 2016) (ârestitution is determined by calculating the
+total amount of funds solicited from victims of the fraud by a defendant, less any funds
+returned to the victims by defendant.ââ)
+
+70. Defendantsâ illegal conduct caused at least 24 pool participants to incur net
+
+20 -
+sO: TRA rae ARTA PLEO IAP Vacurmoant 73 fan MAINT 3 34 Â«9f OS Drarini IF
+
+< o sa wh EEN as fa y 3 a ra a) BoaeN â i} 4. âNew â¢; Rat PE y Pies
+
+aoe AU GLAD Lf RAL GAPS ae HOE WAR OAS ALR? lo UP td Peek AS
+~ 3
+
+losses totaling $457,120, which reflects the total funds Defendants fraudulently solicited
+($590,000) minus the funds they stole from some pool participants and passed to other pool
+participants in the form of âPonziâ-like payments ($132,880). (See Gomersall Decl. {J 27,
+36 & Ex. I).
+
+71. Accordingly, Defendants are ordered to pay, on a joint and several basis,
+restitution in the amount of $457,120 (four hundred fifty-seven thousand, one hundred
+twenty dollars), plus post-judgment interest thereon (the âRestitution Obligationâ). Post-
+judgment interest shall accrue beginning on the date of entry of this Order and shall be
+determined pursuant to 28 U.S.C. Â§ 1961 (2012).
+
+72. The Court appoints the National Futures Association (âNFAâ) as Monitor to
+distribute payments made against the Restitution Obligation to Defendantsâ pool participants.
+The Monitor shall collect restitution payments from Defendants and make distributions as set
+forth below. Because the Monitor is acting as an officer of this Court in performing these
+services, NFA shall not be liable for any action or inaction arising from NFAâs appointment
+as Monitor, other than actions involving fraud.
+
+73. Defendants shall make Restitution Obligation payments under this Order to
+the Monitor in the name âCifuentes/Wee Restitution Fundâ and shall send such payments by
+electronic funds transfer, or by U.S. postal money order, certified check, bank cashierâs
+check, or bank money order, to the Office of Administration, National Futures Association,
+300 South Riverside Plaza, Suite 1800, Chicago, Illinois 60606, accompanied by a cover
+letter identifying Defendants and the name and docket number of this proceeding.
+
+Defendants shall simultaneously transmit copies of the cover letter and the form of payment
+
+21 -
+a OTA aye AAV POO IAL Aes mant 29 tart MAMMA Â° I AL OS Daring) IO
+
+< o sa Pad bbw as fa y 3 a ra a) ae â i} 4. âay e â¢s &. eyes y bes &-
+
+oo RRO Fe TAAL CAGLEPOL he Poa Wes cay Ae ae AP 2h} RLREO ER OO
+S <3
+
+to the Chief Financial Officer, Commodity Futures Trading Commission, Three Lafayette
+Centre, 1155 21st Street, N.W., Washington, D.C. 20581.
+
+74. The Monitor shall oversee the Restitution Obligation and shall have the
+discretion to determine the manner of distribution of such funds in an equitable fashion to
+Defendantsâ pool participants identified by the CFTC, or may defer distribution until such
+time as the Monitor deems appropriate. In the event that the amount of Restitution
+Obligation payments to the Monitor are of a de minimis nature such that the Monitor
+determines that the administrative cost of making a distribution to eligible pool participants is
+impractical, the Monitor may, in its discretion, treat such restitution payments as civil
+monetary penalty payments, which the Monitor shall forward to the CFTC pursuant to the
+instructions for civil monetary penalty payments set forth below.
+
+75. Defendants shall cooperate with the Monitor as appropriate to provide such
+information as the Monitor deems necessary and appropriate to identify Defendantsâ pool
+participants to whom the Monitor, in its sole discretion, may determine to include in any plan
+for distribution of any Restitution Obligation payments. Defendants shall execute any
+documents necessary to release funds that they hold in any repository, bank, investment, or
+other financial institution, wherever located, in order to make partial or total payment toward
+the Restitution Obligation.
+
+76. The Monitor shall provide the CFTC at the beginning of each calendar year
+with a report detailing the disbursement of funds to Defendantsâ pool participants during the
+previous year. The Monitor shall transmit this report accompanied by a cover letter
+
+identifying the name and docket number of this proceeding to the Chief Financial Officer,
+
+-29-
+~ BTR wen, AMT PES Ar â¢~, AS eee EOS fet PAP Re fa oO Th NS 3S BES OPS ok we oe PPA gers
+
+Â£ ? Ss. U FE ES bbs Fo 4 8 5 an oaeN 5 i} 4. Ae ây a i. Oyo 4s bee
+
+ter RTL TA DF AALS GAPS ae HOE WAR OAS ALS aS Ur th MGCL, Og
+M3 we
+
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, N.W.,
+Washington, D.C. 20581.
+
+77. The amounts payable to each pool participant shall not limit the ability of any
+pool participant to prove that a greater amount is owed from Defendants or any other person
+or entity, and nothing herein shall be construed in any way to limit or abridge the rights of
+any pool participant that exist under state or common law.
+
+78. Pursuant to Federal Rule of Civil Procedure 71, each pool participant of
+Defendants who suffered a loss is explicitly made an intended third-party beneficiary of this
+Order and may seek to enforce this Order to obtain satisfaction of any portion of the
+Restitution Obligation that has not been paid by Defendants, to ensure continued compliance
+with any provision of this Order, and to hold Defendants in contempt for any violations of
+any provision of this Order.
+
+79. To the extent that any funds accrue to the U.S. Treasury for satisfaction of the
+Restitution Obligation, such funds shall be transferred to the Monitor for disbursement in
+accordance with the procedures set forth above.
+
+B. Civil Monetary Penalty
+
+80. Section 6c(d)(1) of the Act, 7 U.S.C. Â§ 13a-1(d)C1) (2012), and Regulation
+143.8(a)(4)G1)(B), 17 C.F.R. Â§ 143.8(a)(4)(1)(B) (2016), authorize the Commission to seek,
+and the Court to impose, a civil monetary penalty of triple Defendantsâ monetary gain from
+each violation of the Act or Regulations, or $167,728 per violation, whichever is greater.
+
+81. The Court considers numerous factors in determining an appropriate civil
+
+monetary penalty under the Act, including (1) whether Defendantsâ illegal acts violated core
+
+23 -
+provisions of the Act; (2) whether Defendants acted with scienter; (3) the consequences
+resulting from Defendantsâ violations; (4) the financial benefits to Defendants; and (4) the
+harm to Defendantsâ customers. See Wilshire, 531 F.3d at 1346; see also CFTC v. Yorkshire
+Grp., Inc., 2016 WL 8256380, at *6 (E.D.N.Y. Aug. 19, 2016).
+
+82. Courts routinely award significant civil monetary penalties in cases involving
+fraud. See, e.g., CFTC v. Onsa, 2014 WL 2960345, at *1 (E.D. Pa. Mar. 20, 2014) (entering
+civil monetary penalty of triple defendantsâ gain in commodity pool fraud case due to âthe
+egregiousness of the defendantsâ intentional conductâ); see also CFTC v. SK Madison
+Commodities, LLC, 2014 WL 3887755, at *5 (S.D.N.Y. June 9, 2014) (entering default
+judgment and ordering a civil monetary penalty of âtriple the amount misappropriatedâ
+where defendants âcommitted repeated violations of core provisions of the[Act] and
+Regulations.â); CFTC v. Rolando, 589 F. Supp. 2d 159, 174 (D. Conn. 2008) (âobtaining
+customer funds and then hiding [defendantâs] true conduct from his customers were serious
+violations of the Act . . .that strike at the very core of the Act's regulatory system,â requiring
+ââa substantial civil monetary penalty.ââ)
+
+83. Defendantsâ conduct warrants the imposition of a significant monetary
+penalty. Cifuentes and Wee, through CEM, committed repeated violations of the core
+antifraud provisions of the Act and Regulations that caused significant monetary losses to
+pool participants. In fraudulently soliciting approximately $590,000 in pool participantsâ
+funds, Cifuentes and Wee spent hundreds of thousands of dollars of their victimsâ money on
+personal expenses such luxury vehicles, jewelry, and clothing. (See Gomersall Decl. J 28-
+
+39 & Exs. I, J).
+
+24 -
+2 io-cv-O6167-ES-JAD Document i2 Filed O4/20/18 Page 25 of 26 PageiD
+84. Given Defendantsâ intentional and egregious conduct, the Court believes that
+
+a civil monetary penalty reflecting triple the funds Defendants fraudulently misappropriated
+($590,000) is proper to deter future fraudulent schemes in violation of the Act and
+Regulations. This penalty is authorized by Section 6c(d)(1) of the Act, 7 U.S.C. Â§ 13a-
+1(d)(1) (2012), and Regulation 143.8(a)(4)Gi)(B), 17 C.F.R. Â§ 143.8(a)(4)Gi)(B) (2016).
+
+85. Accordingly, Defendants are ordered to pay, on a joint and several basis, a
+civil monetary penalty in the amount of $1,770,000 (one million, seven hundred seventy
+thousand dollars), plus post-judgment interest thereon (âCMP Obligationâ). Post-judgment
+interest shall accrue beginning on the date of entry of this Order and shall be determined
+pursuant to 28 U.S.C. Â§ 1961 (2012).
+
+86. Defendants shall pay the CMP Obligation by electronic funds transfer, U.S.
+postal money order, certified check, bank cashierâs check, or bank money order. If payment
+is to be made other than by electronic funds transfer, then the payment shall be made payable
+to the Commodity Futures Trading Commission and sent to the address below:
+
+Commodity Futures Trading Commission
+
+Division of Enforcement
+
+ATTN: Accounts Receivables
+
+DOT/FAA/MMAC/AMZ-341
+
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+
+nikki.gibson @ faa.gov
+
+If payment by electronic funds transfer is chosen, Defendants shall contact Nikki
+
+Gibson or her successor at the address above to receive payment instructions and shall fully
+
+comply with those instructions. Defendants shall accompany payment of the CMP
+
+25 -
+Case 2:16-cv-06167-ES-JAD Document 12 Filed 04/20/18 Page 26 of 26 PagelD: 272
+
+Obligation with a cover letter identifying Defendants and the name and docket number of this
+proceeding. Defendants shall simultaneously transmit copies of the cover letter and the form
+of payment to the Chief Financial Officer, Commodity Futures Trading Commission, Three
+Lafayette Centre, 1155 21st Street, N.W., Washington, DC 20581.
+
+VI. MISCELLANOUS PROVISIONS
+
+87. Partial Satisfaction: Acceptance by the CFTC or the Monitor of any partial
+payment of the Restitution Obligation or the CMP Obligation shall not be deemed a waiver
+of Defendantsâ obligation to make further payments pursuant to this Order, or a waiver of the
+CFTCâs right to seek to compel payment of any remaining balance.
+
+88.  Injunctive and Equitable Relief Provisions: The injunctive and equitable
+relief provisions of this Order shall be binding upon Defendants, upon any person under their
+authority or control, and upon any person who receives actual notice of this Order, by personal
+service, e-mail, facsimile or otherwise insofar as he or she is acting in active concert or
+participation with Defendants.
+
+89. Continuing Jurisdiction of this Court: This Court shall retain jurisdiction of
+this action to ensure compliance with this Order and for all other purposes related to this
+action, including any motion by Defendants to modify, or for relief from, the terms of this
+Order.
+
+SO ORDERED on this 20th day of April , 2018.
+
+s/Esther Salas
+Hon. Esther Salas
+United States District Judge
+
+- 26 -

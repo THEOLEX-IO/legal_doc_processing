@@ -1,3 +1,21 @@
+from legal_doc_processing import logger
+
+from legal_doc_processing.decision.information_extraction.compliance_obligations import (
+    predict_compliance_obligations,
+)
+
+from legal_doc_processing.decision.information_extraction.judge import (
+    predict_judge,
+)
+
+from legal_doc_processing.decision.information_extraction.court import (
+    predict_court,
+)
+
+from legal_doc_processing.decision.information_extraction.cooperation_credit import (
+    predict_cooperation_credit,
+)
+
 from legal_doc_processing.decision.information_extraction.code_law_violation import (
     predict_code_law_violation,
 )
@@ -22,8 +40,8 @@ from legal_doc_processing.decision.information_extraction.extracted_authorities 
     predict_extracted_authorities,
 )
 
-from legal_doc_processing.decision.information_extraction.extracted_violation import (
-    predict_extracted_violation,
+from legal_doc_processing.decision.information_extraction.extracted_violations import (
+    predict_extracted_violations,
 )
 
 from legal_doc_processing.decision.information_extraction.folder import (
@@ -33,6 +51,12 @@ from legal_doc_processing.decision.information_extraction.folder import (
 # from legal_doc_processing.decision.information_extraction.juridiction import (
 #     predict_juridiction,
 # )
+
+from legal_doc_processing.decision.information_extraction.justice_type import (
+    predict_justice_type,
+)
+
+
 from legal_doc_processing.decision.information_extraction.monitor import (
     predict_monitor,
 )

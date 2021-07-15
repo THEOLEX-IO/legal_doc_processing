@@ -1,0 +1,579 @@
+UNITED STATES DISTRICT COURT
+WESTERN DISTRICT OF MISSOURI
+
+Bureau of Consumer Financial
+Protection,
+
+Plaintiff,
+V. CASE NO.
+BounceBack, Inc.,
+
+Defendant.
+
+ 
+
+ 
+
+COMPLAINT
+
+The Bureau of Consumer Financial Protection brings this action against
+
+BounceBack, Inc. and alleges as follows.
+INTRODUCTION
+
+1. The Bureau brings this action under 88 807 and 809 of the Fair Debt
+Collections Practices Act (FDCPA), 15 U.S.C. Â§Â§ 1692e & 1692g, and 8Â§ 1031(a), 1036(a),
+1054, and 1055 of the Consumer Financial Protection Act of 2010 (CFPA), 12 U.S.C.
+Â§Â§ 5531(a), 5536(a), & 5565, to address false, deceptive, or misleading practices in
+connection with the collection of debt.
+
+JURISDICTION AND VENUE
+
+2. This Court has subject-matter jurisdiction because this action is âbrought
+
+under Federal consumer financial law,â 12 U.S.C. Â§ 5565(a)(1), presents a federal
+
+question, 28 U.S.C. Â§ 1331, and is brought by an agency of the United States, 28 U.S.C.
+
+8 1345.
+
+Case 5:20-cv-06179-BP Document1 Filed 12/09/20 Page 1 of 15
+3. This Court has personal jurisdiction over Bounce Back because the causes
+of action arise from BounceBackâs conduct in this district.
+
+A. Venue is proper in this district because BounceBack is located, resides,
+and does business in this district. 12 U.S.C. Â§ 5564(f).
+
+PARTIES
+
+5. The Bureau is an agency of the United States charged with regulating the
+offering and provision of consumer-financial products and services under âFederal
+consumer financial laws,â 12 U.S.C. Â§ 5491(a), including the CFPA, 12 U.S.C. Â§ 5481(14).
+The Bureau has independent litigating authority, including the authority to enforce the
+CFPA. 12 U.S.C. 8 5564(a), (b).
+
+6. Because BounceBack is a corporation, it is a âpersonâ under the CFPA. 12
+U.S.C. Â§ 5481(19).
+
+7. At all times relevant to this Complaint, BounceBack has been a âcovered
+personâ under the CFPA because it âengages in offering or providing a consumer
+financial product or service.â 12 U.S.C. Â§ 5481(6)(A).
+
+FACTS
+Overview
+
+8. BounceBack, Inc., is a privatelyowned company based in Kansas City, Missouri. It
+operates back-check pretrial-diversion programs on behalf of more than 90 district
+attorneys (DAs) throughout the United States. BounceBackâs pretrial-diversion program
+generally operates as follows.
+
+9. Merchants primarily submit dishonored checks to Bounce Back through its
+
+affiliate, Check Connection, Inc.
+
+2
+Case 5:20-cv-06179-BP Document1 Filed 12/09/20 Page 2 of 15
+10. | Aftera merchant reports a dishonored check to Check Connection, Check
+Connection adds it to a list of dishonored checks by jurisdiction and sends it to the
+pertinent DA for review.
+
+11. In nearly all cases, without receiving further direction from the DA,
+BounceBack then attempts to enroll the check writers in its pre-trial diversion program,
+which requires a check writer to pay the debt and also enroll in, pay for, and complete a
+financial-education course.
+
+12. | Onrare occasions, merchants send the names of check writers directly to
+the local DA, who then forwards to BounceBack the names of specific check writers who
+it wants enrolled in the pretrial-diversion program. In most cases, however, Check
+Connection generates a list of check writers that it sends to BounceBack, which enrolls
+those check writers in its collections program without ever receiving direction from the
+DA to do so.
+
+13. BounceBack then sends two to four letters, on DA letterhead, to the check
+writers in an effort to collect the outstanding debts and enroll them in the financial-
+education course.
+
+14. The letters tell check writers that they could face criminal prosecution and
+conviction, but that they can avoid prosecution by paying the amount of the dishonored
+check, along with certain administrative fees, and completing a financial-education
+course. The recipient is instructed to pay the total fees owed to the âCheck Enforcement
+Programâ (in reality BounceBack), including a fee for the financial-education course that
+ranges from $100 to $165. If the check writer pays these amounts, then BounceBack
+sends the amount of the dishonored check to the merchant, pays small fees to the
+merchant and the DA, and keeps the balance.
+
+3
+Case 5:20-cv-06179-BP Document1 Filed 12/09/20 Page 3 of 15
+15. | BounceBack does not identify itself to check writers and does not inform
+them that it is a debt collector.
+
+16. Although BounceBackâs letters appear to come directly from the DA and
+suggest that check writers will face criminal charges if they do not comply, DAs almost
+never prosecute such cases.
+
+17. | Moreover, nearly all jurisdictions have given BounceBack one set of
+criteria for sending warning letters to check writers and enrolling them in a financial-
+education course, and a separate, more stringent set of criteria for referring a case back
+to the DA for potential prosecution when a check writer fails to respond to a letter.
+Given these distinct criteria, not all check writers who receive BounceBackâs warning
+letters are even eligible for prosecution under the DAsâ prosecution criteria.
+
+18. |Inmost cases, BounceBack does not refer cases for prosecution, evenif the
+check writer fails to respond to the letter, does not pay the alleged outstanding debt and
+fees, or fails to complete the financial-education course.
+
+19. | BounceBack has sent collection letters to more than 19,000 consumers
+since January 1, 2015.
+
+BounceBack is a Debt Collector Under the FDCPA
+
+20. BounceBack is a debt collector under the FDCPA.
+
+21. Under 15 U.S.C. Â§ 1692a(6), a debt collector is âany person who uses any
+instrument or instrumentality of interstate commerce or the mails in any business the
+principal purpose of which is the collection of any debts, or who regularly collects or
+attempts to collect directly or indirectly, debts owed or due or asserted to be owed or
+
+due another.â
+
+4
+Case 5:20-cv-06179-BP Document1 Filed 12/09/20 Page 4 of 15
+22. The FDCPA provides that an entity operating a bad-check diversion
+program through a contract with a DA may not be considered a debt collector if the
+entity complies with certain statutory requirements. BounceBack did not comply with
+those requirements.
+
+23. Inmostcases, BounceBack contacts check writers and attempts to collect
+on dishonored checks and enroll the check writers in its pre-trial diversion program
+without the DA having made a determination that âprobable cause of a bad check
+violation under State penal law exists, and that contact with the alleged offender for
+purposes of participation in the program is appropriate,â as required by 15 U.S.C.
+
+Â§ 1692p(a)(2)(C)(iv)(D.
+
+24. Inaddition, BounceBackâs letters do not contain a clear and conspicuous
+statement that if the alleged offender notifies the private entity or the DA in writing, not
+later than 30 days after being contacted for the first time pursuant to 15 U.S.C.
+
+Â§ 1692p(a)(2)(C) (iv), that there is a dispute pursuant to 15 U.S.C. Â§ 1692p(a), then
+further restitution efforts will not be pursued until the DA or an employee of the DA
+authorized to make such a determination makes a determination that there is probable
+cause to believe that a crime has been committed, as required by 15 U.S.C.
+
+Â§ 1692p(a)(2)(C)(v) (1).
+
+False, Deceptive, or Misleading
+Representations in Connection with Collecting a Debt
+
+a. BounceBack falsely represents that nonpayment will
+result in criminal prosecution.
+
+25. Ifa DAexpresses interest in using BounceBackâs services, BounceBack
+sends it an initial packet explaining its pretrial-diversion program. The packet contains
+templates of the collection letters BounceBack will send to check writers, which the DA
+
+5
+Case 5:20-cv-06179-BP Document1 Filed 12/09/20 Page 5 of 15
+can change according to its preferences. Most DAs make few, if any, changes to the
+
+template.
+
+26. BounceBackâs collection letters state in several ways that a check writer
+
+who does not pay the outstanding check amount and fees for the pretrial-diversion
+
+program may face âcriminal chargesâ or âcriminal prosecutionâ:
+
+da.
+
+b.
+
+âWARNING OF CRIMINAL CHARGESâ;
+
+âthe total amount must be received ... to avoid possible criminal
+charges being filedâ;
+
+âpay the total listed below to avoid the possibility of criminal
+prosecutionâ;
+
+âIt is still possible to avoid a CRIMINAL CONVICTIONâ;
+
+âWARNING... You have 48 hours to contact the Check
+Enforcement Program, before your case is forwarded to final review
+... Ifthe check(s) is not taken care of, a criminal complaint and a
+WARRANT may be issued commanding you to appear in court and
+CRIMINAL PROCEEDINGS may resultâ;
+
+âFailure to make payment in full within THIRTY (30) DAYS from
+the date of this notice may be used as evidence in a possible
+criminal prosecutionâ;
+
+âIf payment can be arranged and compliance with the conditions of
+the Check Enforcement Program are met, you may yet be able to
+prevent the possibility of a WARRANT FOR YOUR ARREST being
+issuedâ;
+
+âTO COMPLY: 1) Pay the full dollar amount shown within thirty
+days. 2) Complete the Check Writerâs Financial Training Courseâ;
+
+âALL check writers whose checks have been referred to the Check
+Enforcement Program MUST complete the Educational
+Requirement to discharge the case as part of this diversion
+programâ;
+
+âFAILURE TO COMPLETE THE EDUCATIONAL REQUIREMENT
+CAN CAUSE YOUR CASE DIVERSION TO BE REVOKED.â
+
+27. These threats are in almost all instances false.
+
+6
+
+Case 5:20-cv-06179-BP Document1 Filed 12/09/20 Page 6 of 15
+28. Each DA gives BounceBack criteria for sending out its collection letters,
+and different, often more stringent, criteria for determining which cases will be referred
+back to the DA for a review for prosecution.
+
+29. BounceBack sends collection letters to check writers who do not meet the
+DAsâ criteria for referral for prosecution.
+
+30. For example, at least 29 of the more than 90 jurisdictions that Bounce Back
+has contracted with will not prosecute check writers if the dishonored check is belowa
+certain amount, but BounceBack nevertheless threatens those check writers with
+prosecution.
+
+31. Moreover, even if a check writer qualifies for prosecution, BounceBack
+rarely refers cases for potential prosecution.
+
+32. Most DAs refuse to prosecute dishonored-check cases even if check writers
+fail to respond to Bounce Backâs letters.
+
+33. Finally, almost none of the check writers who enroll in the financial-
+education course return the confirmation that they have completed the course, and
+many never complete the course. Contrary to the threats in Bounce Backâs letters,
+BounceBack never refers those check writers to the DA for possible prosecution.
+
+b. BounceBack creates the false impression that the
+collection letters it sends are coming directly froma DA.
+
+34. BounceBackâs letters are sent on DA letterhead and appear to be
+statements from the DA.
+
+35. For instance, a typical letter bears the DAâs name and seal at the top. The
+letter also tells the check payer to send payment to the â[DAâs] Check Enforcement
+
+Program,â followed by an address that is actually BounceBackâs address.
+
+7
+Case 5:20-cv-06179-BP Document1 Filed 12/09/20 Page 7 of 15
+36. The letter nowhere states that it was sent by BounceBack, even though the
+letter comes directly from BounceBack, not a DA.
+
+c. BounceBackâs collection letters do not reveal that
+BounceBack is a debt collector.
+
+37. BounceBack sends letters that fail to state anywhere that BounceBack is a
+debt collector or that any information it obtains will be used for collections purposes,
+nor does BounceBack disclose in subsequent letters or phone calls with check writers
+that it is a debt collector.
+
+38. Moreover, because its letters are sent on DA letterhead using the DAâs seal
+and refer to the DAâs âCheck Enforcement Program,â it is unlikely that a recipient would
+suspect that the letter is being sent by a debt collector.
+
+d. BounceBack fails to include certain required dispute
+notices in its collection letters.
+
+39. |BounceBackâs collection letters fail to contain several required disclosures.
+
+Ao. Severalof BounceBackâs letters state, âYOU MUST EITHER COMPLY BY
+MAKING PAYMENT OR NOTIFY THE CHECK ENFORCEMENT PROGRAM IN
+WRITING THAT YOU WISH TO DISPUTE THIS MATTER NO LATER THAN 320 DAYS
+AFTER RECEIVING THIS NOTICE,â and âPAYMENT OR DIS[P] UTE MUST BE MADE
+WITHIN THIRTY (30) DAYS FROM THE DATE OF THIS LETTER.â
+
+41. Butthese same letters do not disclose that unless a recipient disputes the
+validity of the debt within 30 days, the debt will be assumed valid; that if a recipient
+disputes the validity of the debt within 30 days, the collector must verify the debt; or
+that if a recipient makes a request within 30 days, the collector will provide the original
+
+creditorâs name and address.
+
+8
+Case 5:20-cv-06179-BP Document1 Filed 12/09/20 Page 8 of 15
+VIOLATIONS OF LAW
+COUNT 1â Violations of the FDCPA
+Falsely Representing that Nonpayment Would
+Result in Criminal Prosecution
+
+42. The Bureau re-alleges and incorporates by reference paragraphs 1-41.
+
+43. Section 1692e(4) of the FDCPA prohibits â[t]he representation or
+implication that nonpayment of any debt will result in the arrest or imprisonment of any
+person or the seizure, garnishment, attachment, or sale of any property or wages of any
+person unless such action is lawful and the debt collector or creditor intends to take
+such action.â 15 U.S.C Â§ 1692e(4).
+
+44. Section 1692e(5) of the FDCPA prohibits â[t]he threat to take any action
+that cannot legally be taken or that is not intended to be taken.â 15 U.S.C Â§ 1692e(5).
+
+45. Inconnection with collecting or attempting to collect debt from
+consumers, BounceBack represented to consumers, directly or indirectly, expressly or
+by implication, that nonpayment of a debt would result in arrest or imprisonment.
+
+46. Infact, neither BounceBack nor the DAs intended to take such action.
+
+47. These acts and practices violated Â§ 807(4) and (5) of the FDCPA, 15 U.S.C.
+Â§ 1692e(4) & (5).
+
+COUNT 2â Violations of the FDCPA
+Distributing Written Communications that
+Falsely Represented to be Issued by a State Official or Agency
+48. The Bureau re-alleges and incorporates by reference paragraphs 1-41.
+49. Section 1692e(9) prohibits the âuse or distribution of any written
+
+communication which simulates or is falsely represented to be a document authorized,
+
+issued, or approved by any court, official, or agency of the United States or any State, or
+
+9
+Case 5:20-cv-06179-BP Document1 Filed 12/09/20 Page 9 of 15
+which creates a false impression as to its source, authorization, or approval.â 15 U.S.C.
+Â§ 1692e(9).
+
+50. Section 1692e(14) further prohibits â[t]he use of any business, company,
+or organization name other than the true name of the debt collectorâs business,
+company, or organization.â 15 U.S.C. Â§ 1692e(14).
+
+51. Inconnection with collecting or attempting to collect debt from
+consumers, BounceBack represented to consumers, directly or indirectly, expressly or
+by implication, that written communications distributed to consumers were issued from
+an official or agency of a State.
+
+52. Infact, the communications were from BounceBack, which used the
+names of the DAs in connection with collecting or attempting to collect debts from
+consumers.
+
+53. | These acts and practices violated Â§ 807(9) and (14) of the FDCPA, 15
+U.S.C. Â§ 1692e(9) & (14).
+
+COUNT 3âViolations of the FDCPA
+Using False Representations and
+Deceptive Means to Collect a Debt
+
+54. The Bureau re-alleges and incorporates by reference paragraphs 1-41.
+
+55. Section 1692e(10) of the FDCPA prohibits the âuse of any false
+representation or deceptive means to collect or attempt to collect any debt or to obtain
+information concerning a consumer.â 15 U.S.C. 8Â§ 1692e(10).
+
+56. BounceBack falsely represented that the failure to (a) pay the fees listed,
+including the dishonored-check amount, administrative fees, and fees for the financial-
+education course, and (b) complete the financial-education course, would lead to
+criminal prosecution, when in fact it would not for the vast majority of debtors.
+
+10
+Case 5:20-cv-06179-BP Documenti1 Filed 12/09/20 Page 10 of 15
+57. Moreover, BounceBack designed its collection letters to appear to come
+directly from the DA when in fact they did not.
+
+58. These acts and practices violated Â§ 807(10) of the FDCPA, 15 U.S.C.
+Â§ 1692e(10).
+
+COUNT 4âViolations of the FDCPA
+Failing to Reveal that BounceBack was a Debt Collector
+
+59. The Bureau re-alleges and incorporates by reference paragraphs 1-41.
+
+60. Section 1692e(11) of the FDCPA prohibits the â[t]he failure to disclose in
+the initial written communication with the consumer... that the debt collector is
+attempting to collect a debt and that any information obtained will be used for that
+purpose, and the failure to disclose in subsequent communications that the
+communication is from a debt collector.â 15 U.S.C. Â§ 1692e(11).
+
+61. BounceBackâs initial communications to consumers did not include that
+required disclosure.
+
+62. These acts and practices violated Â§ 807(11) of the FDCPA, 15 U.S.C.
+Â§ 1692e(11).
+
+COUNT 5â Violations of the FDCPA
+Failure to Include Required Dispute Notices
+
+63. The Bureau re-alleges and incorporates by reference paragraphs 1-41.
+
+64. Section 1692g(a) of the FDCPA provides that â[w]ithin five days after the
+initial communication with a consumer in connection with the collection of any debt, a
+debt collector shall, unless the following information is contained in the initial
+communication or the consumer has paid the debt, send the consumer a written notice
+
+containingâ several specific disclosures.
+
+11
+Case 5:20-cv-06179-BP Documenti1 Filed 12/09/20 Page 11 of 15
+65. Among these are the amount of the debt, the name of the creditor owed,
+and specific statements about how a consumer can dispute a debt and the effect of doing
+so. 15 U.S.C. Â§ 1692Â¢(a)(1)-(5).
+
+66. BounceBackâs collection letters failed to make the specific disclosures
+required by Â§ 1692g(a)(3), (4) & (5).
+
+67. These acts and practices violated Â§ 809(a) of the FDCPA, 15 U.S.C.
+
+Â§ 1692Â¢(a).
+COUNT 6âViolations of the CFPA
+Deceptive Representations that Failure to Pay the
+Alleged Debt and Program Fees Would Result in Prosecution
+
+68. The Bureau re-alleges and incorporates by reference paragraphs 1-41.
+
+69. BounceBackâs collection letters contained threats that not paying the
+alleged debt and required pretrial-diversion program fees would result in prosecution
+when, in fact, it would not.
+
+70. These representations were false because, in most cases, the DAs did not
+intend to prosecute individuals who received collection letters threatening further action
+or prosecution. And almost none of the check writers who failed to respond to
+Bounce Backâs collection letters were ever referred to a DA for âreview for prosecution.â
+
+71. | BounceBackâs misrepresentations were likely to mislead consumers acting
+reasonably under the circumstances.
+
+72. | BounceBackâs misrepresentations were material because they were likely
+to affect the conduct or decisions of consumers regarding whether to pay the alleged
+debt and any other program fees.
+
+73. Therefore, BounceBack engaged in deceptive acts or practices that violated
+the CFPA. 12 U.S.C. 88 5531(a), 5536(a)(1)(B).
+
+12
+Case 5:20-cv-06179-BP Documenti1 Filed 12/09/20 Page 12 of 15
+COUNT 7â Violations of the CFPA
+Deceptive Representations that Failure to Complete
+the Financial-Education Course Would Result in Prosecution
+
+74. The Bureau re-alleges and incorporates by reference paragraphs 1-41.
+
+75. BounceBackâs collection letters stated that failure to complete the
+financial-education course would result in criminal prosecution.
+
+76. Infact, these representations were false because very few check writers
+returned proof that they completed the financial-education course, but no check writers
+were ever referred for criminal prosecution for that reason.
+
+77.  BounceBackâs misrepresentations were likely to mislead consumers acting
+reasonably under the circumstances.
+
+78. | BounceBackâs misrepresentations were material because they were likely
+to affect the conduct or decisions of consumers regarding whether to pay the program
+fees for the financial-education course.
+
+79. Therefore, BounceBack engaged in deceptive acts or practices that violated
+
+the CFPA. 12 U.S.C. 88 5531(a), 5536(a)(1)(B).
+
+COUNT 8â Violations of the CFPA
+Deceptive Representations that Notices Were froma DA
+
+80. The Bureau re-alleges and incorporates by reference paragraphs 1-41.
+
+81. BounceBackâs collection letters gave the impression that they came directly
+from a DA when, in fact, they did not.
+
+82. |BounceBackâs misrepresentations were likely to mislead consumers acting
+
+reasonably under the circumstances.
+
+13
+Case 5:20-cv-06179-BP Documenti1 Filed 12/09/20 Page 13 of 15
+83. | BounceBackâs misrepresentations were material because they were likely
+to affect the conduct or decisions of consumers regarding whether to pay the alleged
+debt and program fees.
+
+84. Therefore, BounceBack engaged in deceptive acts or practices that violated
+the CFPA. 12 U.S.C. 88 5531(a), 5536(a)(1)(B).
+
+COUNT 9â Violations of the CFPA
+
+85. The Bureau re-alleges and incorporates by reference paragraphs 1-41.
+
+86. Acovered personâs violation of a federal consumer-financial law violates
+the CFPA. 12 U.S.C. 8Â§ 5536(a)(1)(A), 5481114).
+
+87. The FDCPA is a federal consumer-financial law. 12 U.S.C. Â§ 5481(12) &
+(14).
+
+88. BounceBackâs FDCPA violations are each a violation of 12 U.S.C.
+
+Â§ 5536(a)(1)(A).
+DEMAND FOR RELIEF
+
+The Bureau requests that the Court, as permitted by 12 U.S.C. Â§ 5565:
+
+a. enjoin BounceBack from committing future violations of the FDCPA;
+b. enjoin BounceBack from committing future violations of the CFPA;
+C. award damages or other monetary relief against BounceBack;
+
+d. order BounceBack to pay redress to consumers;
+
+e. order disgorgement of BounceBackâs ill-gotten gains;
+
+f. impose civil money penalties on BounceBack;
+
+g. order BounceBack to pay the costs incurred in connection with
+
+prosecuting this action; and
+
+14
+Case 5:20-cv-06179-BP Documenti1 Filed 12/09/20 Page 14 of 15
+h. award additional relief as the Court may determine to be just and proper.
+
+Respectfully submitted,
+
+THOMAS G. WARD
+Enforcement Director
+JEFFREY PAUL EHRLICH
+Deputy Enforcement Director
+OWEN MARTIKAN
+
+Assistant Litigation Deputy
+
+s/ Stephanie Duff-OâBryan
+
+STEPHANIE DUFF-OâBRYAN
+
+(TX No. 24087448; NY No. 5026224)
+Enforcement Attorney
+
+Telephone: 202-435-9358
+
+e-mail: Stephanie.Duff-OBryan@cfpb.gov
+JAMES MEADE
+
+(DC No. 414732)
+
+Senior Litigation Counsel
+
+Telephone: 202-431-1179
+
+e-mail: James.Meade @cfpb.gov
+
+Bureau of Consumer Financial Protection
+1700 G Street, NW
+
+Washington, D.C. 20552
+
+Designated Attorney for Receipt of Service:
+
+JEFFREY P. RAY
+
+(Missouri No. 35632)
+
+Deputy United States Attorney
+e-mail: JRayi@usa.do].gov
+
+Charles Evans Whittaker Courthouse
+400 East Ninth Street, Fifth Floor
+Kansas City, MO 64106
+
+15
+Case 5:20-cv-06179-BP Documenti1 Filed 12/09/20 Page 15 of 15

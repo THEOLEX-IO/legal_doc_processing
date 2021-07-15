@@ -1,0 +1,394 @@
+ 
+
+(â RECEIVED CFTC >
+
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSIGN
+
+ 
+
+Proceedings Clerk
+
+\ 2:06 pm, Jun 29, 2017 /
+
+ 
+
+ 
+
+ 
+
+In the Matter of:
+
+Brandon Elsasser,
+CFTC Docket No. 17-18
+Respondent.
+
+Nee Nee eeâ ee eeâ SNâ
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+
+I.
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+between July 2014 and July 2015 (the âRelevant Periodâ), Brandon Elsasser (ââRespondentâ or
+âElsasserâââ) violated Section 4c(a) of the Commodity Exchange Act (âActâ), 7 U.S.C. Â§ 6c(a)
+(2012), and Commission Regulation (âRegulationâ) 1.38(a), 17 C.F.R. Â§ 1.38(a) (2016).
+Therefore, the Commission deems it appropriate and in the public interest that public
+administrative proceedings be, and hereby are, instituted to determine whether Respondent
+engaged in the violations set forth herein and to determine whether any order should be issued
+imposing remedial sanctions.
+
+Il.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
+Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions (âOrderââ) and
+acknowledges service of this Order.â
+
+ 
+
+Respondent consents to the entry of this Order and to the use of these findings in this
+proceeding and in any other proceeding brought by the Commission or to which the Commission
+is a party; provided, however, that Respondent does not consent to the use of the Offer, or the
+findings or conclusions in this Order consented to in the Offer, as the sole basis for any other
+proceeding brought by the Commission, other than in a proceeding in bankruptcy or to enforce
+the terms of this Order. Nor does Respondent consent to the use of the Offer or this Order, or the
+II.
+The Commission finds the following:
+A. SUMMARY
+
+During the Relevant Period, Elsasser engaged in a fictitious trading strategy in order to
+generate rebates from an exchangeâs market maker program. Elsasser discovered that he could
+trade against himself in rebate-eligible products and avoid detection using the exchangeâs
+implied matching engine. Elsasser entered orders for several Eurodollar pack butterfly spreads
+on one side of the market and then entered orders on the opposite side of the market for
+Eurodollar pack spreads with component legs that contained the same underlying contracts.
+Using this technique, Elsasser traded against himself and generated rebates that benefitted his
+trading group and his employerâs house account. As such, Elsasserâs trading constituted
+fictitious, wash sales in violation of Section 4c(a) and non-competitive transactions in violation
+of Regulation 1.38(a).
+
+B. RESPONDENT
+
+During the Relevant Period, Brandon Elsasser (âElsasserââ) was a trader employed by
+Rosenthal Collins Capital Markets LLC (â*âRCCMâââ) in Chicago, Illinois, and he traded for a
+division within RCCM known as DV Trading. Elsasser was not registered with the Commission
+during the Relevant Period.
+
+OF FACTS
+1. CMEâs Eurodollar Pack and Bundle Market Maker Program
+
+During the Relevant Period, RCCM was a participant in the Eurodollar Pack and Bundle
+Market Maker Program (âProgramââ) offered by Chicago Mercantile Exchange, Inc. (ââCMEâ or
+âexchangeâ).â Elsasser was designated as one of several RCCM traders in the Program. Under
+the terms of the Program, RCCM had certain quoting obligations and, in return, it could earn
+rebates for its trading in the Eurodollar pack and bundles. Pursuant to the Program, RCCM
+received the rebates in the form of credits on the exchange fees that it had incurred for its trading
+(ârebatesâ). The rebates RCCM earned through Eurodollar pack and bundle trading could be
+applied to offset exchange fees for any trading RCCM had done in the Eurodollar complex.
+
+Eurodollar packs and bundles are groups of Eurodollar futures contracts that allow
+market participants to purchase or sell a series of Eurodollar futures representing a particular
+
+ 
+
+findings or conclusions in this Order consented to in the Offer, by any other party in any other
+proceeding.
+
+* The terms of the Eurodollar Pack and Bundle Market Maker Pro gram changed each year, and
+
+there were several different agreements in effect during the Relevant Period.
+segment along the yield curve.â Market participants may trade Eurodollar packs and bundles at a
+single price, eliminating the necessity of entering multiple orders and the possibility that some
+orders may go unfilled. Under the Program, the amount of the potential rebate credit increased
+as the Eurodollar Pack and Bundle contracts extend further out along the yield curve. For
+example, trading in Eurodollar packs that extend seven years into the future would generate more
+credits than trading in Eurodollar packs that extend only two years into the future.
+
+The CME provides electronic markets for specific Eurodollar packs and bundles as well
+as electronic markets for the individual, underlying contracts. When a market participant enters
+an order for a Eurodollar pack or bundle, the exchange can either: (1) match that order with an
+identical pack or bundle order on the opposite side, or (11) if there is not an identical pack or
+bundle on the opposite side, it can break apart the pack or bundle into individual contracts or
+smaller spreads in order to fill all of the contracts contained in the original order. The latter
+technique is known as âimpliedâ matching.
+
+In the spring of 2014, CME informed RCCM that it would exclude self-matches among
+traders at the same firm before calculating rebate credits.
+
+2. Elsasser Entered into Fictitious Trades In Order to Generate Rebates
+
+In mid-2014, RCCM was not generating its desired level of rebates in the Program.
+Elsasser began trading in the Program at that time and discovered that he was able to match his
+own orders without detection and still earn rebates on wash trades using the exchangeâs implied
+matching engine. Elsasser entered orders for several Eurodollar pack butterfly spreads on one
+side of the market and then entered orders on the opposite side of the market for Eurodollar pack
+spreads that contain the same underlying contracts."
+
+Using this technique, Elsasser was able to trade against himself in products subject to the
+Program for approximately 12 months. Elsasserâs strategy was so effective that he generated
+rebates in excess of his groupâs Eurodollar trading fees, and he distributed the rebates among
+other RCCM traders and the house account at RCCM.
+
+ 
+
+> A Eurodollar bundle consists of the simultaneous sale or purchase of one each of a series of
+
+consecutive Eurodollar futures contracts. Eurodollar packs represent a series of four consecutive
+quarterly Eurodollar futures.
+
+* A butterfly spread involves the placing of two inter-delivery spreads in opposite directions
+
+with the center delivery month common to both spreads. CME Group Glossary at
+http://www.cmegroup.com/education/glossary.html.
+IV.
+LEGAL DISCUSSION
+
+A. Elsasser Entered into Fictitious Trades in Violation of Section 4c(a)
+
+Section 4c(a) of the Act makes it âunlawful for any person to offer to enter into, enter
+into, or confirm the execution of a transactionââ that âis, is of the character of, or is
+commonly known to the trade as, a âwash saleâ... .ââ 7 U.S.C. Â§ 6c(a) (2012). A wash sale
+is a form of fictitious sale. In re Gimbel, [1987-1990 Transfer Binder] Comm. Fut. L. Rep.
+(CCH) J 24,213 at 35,003 (CFTC Apr. 14, 1988), aff'd as to liability, 872 F.2d 196 (7th Cir.
+1989).
+
+Wash sales are harmful, in part, because they create illusory price movements in the
+market. Wilson v. CFTC, 322 F.3d 555, 559 (8th Cir. 2003); Reddy v. CFTC, 191 F.3d 109,
+115 (2d Cir. 1999); see also CFTC v. Savage, 611 F.2d 270, 284 (9th Cir. 1980) (wash sales
+may mislead market participants because they do not reflect the forces of supply and demand).
+They also are considered âgraveâ violations because âthey undermine confidence in the market
+mechanism that underlies price discovery.â Jn re Piasio, [1999-2000 Transfer Binder] Comm.
+Fut. L. Rep. (CCH) 50,691 (CFTC Sept. 29, 2000), aff'd after remand and further
+proceedings, sub nom. Piasio v. CFTC, 54 Fed. Appx. 702, [2002-2003 Transfer Binder]
+Comm. Fut. L. Rep. (CCH) J 29,251 (2d Cir. Dec. 31, 2002).
+
+In order to establish that a wash sale has occurred, the Commission must show that
+the transaction at issue achieved a wash result. The Commission may demonstrate that the
+trades resulted in a wash by (1) the purchase and sale (2) of the same delivery month of the
+same futures contract (3) at the same (or a similar) price. Wilson, 322 F.3d at 559; In re
+Gilchrist, [1990-1992 Transfer Binder] Comm. Fut. L. Rep. (CCH) 9 24,993 at 37,653
+(CFTC Jan. 25, 1991); see also Inre Citadel Trading, [1986-1987 Transfer Binder] Comm.
+Fut. L.Rep (CCH) J 23,082 at 32,190 (CFTC May 12, 1986) (âOrders to purchase and sell
+for the account of the same customer the identical quantity of the same futures contract at
+identical prices were entered virtually simultaneously.ââ)
+
+In addition to the factors enumerated by the Commission in Gilchrist, the Commission
+must prove intent to establish a violation of Section 4c of the Act. Reddy, 191 F.3d at 119. A
+traderâs intent to negate risk or price competition and avoid a bona fide market position may
+involve explicit prearrangement, or it can be inferred âfrom the intentional structuring of a
+transaction in a manner to achieve the same result as prearrangement.â Jn re Three Eight
+Corp.,[1992-1994 Transfer Binder] Comm. Fut. L.Rep. (CCH) { 25,749 at 40,444 n.15
+(CFTC June 16, 1993); see also In re Elliott, [1996-1998 Transfer Binder] Comm. Fut. L. Rep.
+(CCH) { 27,243 at 46,007 (CFTC Feb. 3, 1998), aff'd, Elliott v. CFTC, 202 F.3d 926 (7th Cir.
+2000) (finding wash trading among traders who were buying and selling spreads to each other
+at the same price differential when the trades reflected a âprecision and symmetry not generally
+found in competitive tradingâ).
+Placing offsetting orders to buy and sell, while simultaneously taking steps to âenhance
+the likelihood that the buy and sell orders would be filled at the same or a similar priceâ is
+persuasive evidence that the trader intends to negate risk and price competition. Jn re Collins
+[1986-1987 Transfer Binder] Comm. Fut. L. Rep. (CCH) Â¥ 22,982 at 31,900 (CFTC Apr. 4,
+1986), revâdon other grounds sub nom. Stoller v. CFTC, 834 F.2d 262 (2d Cir. 1987) ; see also
+In re Piasio, [1999-2000 Transfer Binder] Comm. Fut. L. Rep. (CCH) at 50,689-91 (finding
+customer who placed paired buy and sell orders, with specific pricing and loss limitation
+instructions, âstructured orders to negate riskâ and thus had intent to violate Section 4c).
+Traders violate Section 4c when they avoid taking bona fide positions in the market and
+simply buy and sell the same product at the same price in order to generate exchange
+rebates See In re Gelber Grp., LCC, [2012-2013 Transfer Binder] Comm. Fut. L. Rep. (CCH)
+{ 32,534 at 72,115 (CFTC Feb. 8, 2013) (consent order imposing $750,000 civil monetary
+penalty against proprietary trading firm, finding two proprietary traders, at the direction of a
+trading group manager, had engaged in wash trades in certain Russell Index futures contracts
+on the Intercontinental Exchange in order to inflate firmâs trading volume to enable it to obtain
+increased rebates from exchange as part of an incentive program); In re Martin A. Lorenzen,
+[2012-2013 Transfer Binder] Comm. Fut. L. Rep. (CCH) J 32,534 (CFTC Feb. 8, 2016)
+(consent order imposing $200,000 civil monetary penalty against manager of trading group,
+finding manager liable as a controlling person for directing two traders to engage in wash
+sales).
+
+Elsasser violated Section 4c(a) of the Act by entering into transactions of the character of
+and commonly known as wash sales. Elsasser knowingly entered into the wash sales with the
+intent of inflating his trading volume in order to generate additional rebates from the Program.
+
+B. Elsasser Executed Trades Noncompetitively in Violation of Regulation 1.38(a)
+
+With certain exceptions not relevant here, Regulation 1.38(a) requires that âall purchases
+and sales of any commodity for future delivery, and of any commodity option, on or subject to
+the rules of a contract market shall be executed openly and competitively by open outcry or
+posting of bids and offers or by other equally open and competitive methods, in the trading pit or
+ring or similar place provided by the contract market, during the regular hours prescribed by the
+contract market for trading in such commodity or commodity option ....â 17 C.F.R. Â§ 1.38(a)
+(2016).
+
+Noncompetitive trades are a type of fictitious sale because they negate the risk incidental
+to an open and competitive market. Jn re Fisher, [2003-2004 Transfer Binder] Comm. Fut. L.
+Rep. (CCH) J 29,725 at 56,052 n.11 (CFTC Mar. 24, 2004). Prearranged trading is a form of
+anti-competitive trading that violates Regulation 1.38(a). In re Shell US Trading Co., [2005-2007
+Transfer Binder] Comm. Fut. L. Rep. (CCH) { 30,161 at 57,632 (CFTC Jan. 4, 2006) (consent
+order); In re Gimbel, [1987-1990 Transfer Binder] Comm. Fut. L. Rep. (CCH) at 35,003.
+
+Elsasser violated Regulation 1.38 by executing trades noncompetitively. Elsasser
+knowingly entered into the noncompetitive trades with the intent of inflating his Eurodollar pack
+and bundle trading volumes in order to generate additional rebates from the Program.
+In accepting Respondentâs Offer, the Commission recognizes Respondentâs significant
+cooperation during the investigation of this matter with the CFTCâs Division of Enforcement
+(âDivisionâ), in the form of a proffer and providing additional evidence of value to the
+Divisionâs investigation.
+
+V.
+FINDINGS OF VIOLATION
+
+Based on the foregoing, the Commission finds that Respondent Brandon Elsasser violated
+Section 4c(a) of the Act, 7 U.S.C. Â§ 6c(a) (2012), and Regulation 1.38, 17 C.F.R. Â§ 1.38 (2016).
+
+VI.
+OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+A. Acknowledges receipt of service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C. Waives:
+1. The filing and service of a complaint and notice of hearing;
+2. A hearing;
+
+3. All post-hearing procedures;
+4. Judicial review by any court;
+
+5. Any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+6. Any and all claims that it may possess under the Equal Access to Justice Act,
+5 U.S.C. Â§ 504 (2012) and 28 U.S.C. Â§ 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Commissionâs
+Regulations, 17 C.F.R. Â§Â§ 148.1-30 (2016), relating to, or arising from, this
+proceeding;
+7. Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, Â§Â§ 201-53, 110 Stat. 847,
+857-68 (1996), as amended by Pub. L. No. 110-28, Â§ 8302, 121 Stat. 112, 204-05
+(2007), relating to, or arising from, this proceeding; and
+
+8. Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer;
+
+Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+1. Makes findings by the Commission that Respondent violated Section 4c(a) of the
+Act, 7 U.S.C. Â§ 6c(a) (2012), and Regulation 1.38, 17 C.F.R. Â§ 1.38(a) (2016);
+
+2. Orders Respondent to cease and desist from violating Section 4c(a) of the Act,
+7 U.S.C. Â§ 6c(a) (2012), and Regulation (âRegulationâ) 1.38, 17 C.F.R. Â§ 1.38(a)
+(2016);
+
+3. Orders Respondent to pay a civil monetary penalty in the amount of two hundred
+
+thousand dollars ($200,000), plus post-judgment interest within ten (10) days of
+the date of entry of this Order;
+
+4. Orders Respondent to comply with the conditions and undertakings consented to in
+the Offer and as set forth in Part VII of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+VII.
+
+ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent shall cease and desist from violating Section 4c(a) of the Act, 7 U.S.C.
+Â§ 6c(a) (2012), and Regulation 1.38, 17 C.F.R. Â§ 1.38(a) (2016).
+
+Respondent shall pay a civil monetary penalty in the amount of two hundred thousand
+dollars ($200,000) (âCMP Obligationâ), plus post-judgment interest, within ten (10) days
+of the date of the entry of this Order. If the CMP Obligation is not paid in full within ten
+(10) days of the date of entry of this Order, then post-judgment interest shall accrue on
+the CMP Obligation beginning on the date of entry of this Order and shall be determined
+by using the Treasury Bill rate prevailing on the date of entry of this Order pursuant to
+28 U.S.C. Â§ 1961 (2012).
+Respondent shall pay the CMP Obligation by electronic funds transfer, U.S. postal
+money order, certified check, bank cashierâs check, or bank money order. If payment is
+to be made other than by electronic funds transfer, then the payment shall be made
+payable to the Commodity Futures Trading Commission and sent to the address below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables
+DOT/FAA/MMAC/AMZ-341
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+
+nikki.gibson @ faa. gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Nikki
+Gibson or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581 and Lindsey Evans, Commodity Futures Trading Commission
+525 W. Monroe, Suite 1100, Chicago, Illinois 60661.
+
+Respondent and its successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+1. Public Statements: Respondent agrees that neither it nor any of its successors or
+assigns, agents or employees under its authority or control shall take any action or
+make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondentâs: (1) testimonial obligations; or (11) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondentâs successors and assigns shall undertake all steps necessary to ensure
+that all of its agents and/or employees under its authority or control understand
+and comply with this agreement.
+
+2. Cooperation with the Commission: Respondent shall cooperate fully and
+expeditiously with the Commission, including the Commissionâs Division of
+Enforcement, and any other governmental agency in this action, and in any
+investigation, civil litigation, or administrative matter related to the subject matter
+of this action or any current or future Commission investigation related thereto.
+
+ 
+D. Partial Satisfaction: Respondent understands and agrees that any acceptance by the
+Commission of any partial payment of Respondentâs CMP Obligation shall not be
+deemed a waiver of its obligation to make further payments pursuant to this Order, or a
+waiver of the Commissionâs right to seek to compel payment of any remaining balance.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission,
+
+ 
+     
+
+Christopher J. Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: June 29, 2017

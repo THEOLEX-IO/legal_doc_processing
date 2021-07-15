@@ -1,0 +1,798 @@
+IN THE UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF WISCONSIN
+
+ 
+
+ 
+
+DALYNE RAE MAGEE,
+
+Defendants.
+
+)
+)
+UNITED STATES COMMODITY ) CIVIL ACTION NO:
+FUTURES TRADING COMMISSION, )
+)
+Plaintiff, ) Hon.
+y )
+)
+)
+RYAN S. MAGEE, DAVID W. MAGEE, and ) JURY TRIAL DEMANDED
+)
+)
+)
+)
+
+ 
+
+COMPLAINT FOR INJUNCTIVE AND OTHER EQUITABLE RELIEF AND
+CIVIL MONETARY PENALTIES UNDER THE COMMODITY EXCHANGE ACT
+
+The United States Commodity Futures Trading Commission (âCommissionâ or âCFTCâ),
+by and through its attorneys, hereby alleges as follows:
+
+SUMMARY
+
+1. Between at least March 2010 through at least August 2013 (the ârelevant
+periodâ), Defendant Ryan S. Magee (âRyanâ), of Calgary, Alberta, Canada, fraudulently
+solicited and accepted at least $2 million from at least 30 individuals from the United States and
+Canada. Ryan misappropriated at least CAD 893,837 of the funds (equivalent to approximately
+$653,000 at current exchange rates of roughly 73 cents to the CAD).' Ryan pooled another
+portion of the funds to trade commodity futures and other products, losing at least CAD
+
+1,360,348 trading in a brokerage account denominated in Canadian dollars, and at least $13,015
+
+ 
+
+Unless specified otherwise, all currency amounts are in U.S. dollars.
+
+1
+Case 2:16-cv-00186-LA Filed 02/18/16 Page 1of24 Document 1
+in two accounts denominated in U.S. dollars. To hide the losses and misappropriation, Ryan sent
+pool participants false account statements that reported non-existent profits.
+
+2. While soliciting and accepting funds, Ryan misrepresented to prospective and
+actual participants that he would use their money solely to trade commodity futures and other
+products on their behalf, when in fact he misappropriated significant portions of participantsâ
+investments. Ryan also fraudulently represented that he had achieved gains of 100-200% in
+prior years, and promised annual returns of 200 to 300%, when in reality he had always lost
+money trading.
+
+3. Furthermore, by soliciting and accepting money from at least 30 individuals to
+engage in trading of commodities futures, Ryan acted as a Commodity Pool Operator (âCPOââ)
+without being registered with the Commission as required by law.
+
+4. Defendant David W. Magee (âDavidââ), Ryanâs father, and Defendant Dalyne Rae
+Magee (âDalyneââ), Ryanâs wife, solicited funds for the pool and handled participant monies
+while associated with Ryan as his partner, employee, or agent (or while occupying a similar
+status or performing similar functions). David and Dalyne therefore acted as associated persons
+(âAPsâ) of Ryan during the relevant time period without being registered with the Commission
+as required by law.
+
+5. By engaging in this conduct and the conduct further described herein, Ryan has
+engaged, is engaging, or is about to engage in acts and practices that violate Sections 4b(a)(1)(A)
+and (C), 4b(a)(1)(B), 401), 6(c)(1), 4m(1), and 4k(2) of the Commodity Exchange Act (the
+âActâ), 7 U.S.C. Â§Â§ 6b(a)(1)(A) and (C), 6(b)(1)(1)(B), 60(1), 9(1), 6m(1), and 6(k)(2) (2012),
+
+and Commission Regulation 180.1(a)(1)-(3), 17 C.F.R. Â§ 180.1(a)(1)-(3) (2014), and David and
+
+TN. . âsy ~~ Ne x acy er ey fa gad ~ of a PN ow
+aN ES CN â¢~ eee SS a 8 N PRT PP REE L2 Ie + Peeve wy Â¥
+ose OCALA Doo * HEE Wels Pee Ae ree QE OF + LOC er
+~
+Dalyne have engaged, are engaging, or are about to engage in acts and practices that violate
+Section 4k(2) of the Act, 7 U.S.C. Â§ 6(k)(2) (2012).
+
+6. Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. Â§ 13a-l (2012), the
+Commission brings this action to enjoin Defendantsâ unlawful acts and practices and to compel their
+compliance with the Act. In addition, the Commission seeks civil monetary penalties and remedial
+ancillary relief, including, but not limited to, trading and registration bans, disgorgement, restitution,
+pre- and post-judgment interest, and such other relief as the Court may deem necessary and
+appropriate.
+
+7. Unless restrained and enjoined by this Court, Defendants are likely to continue to
+engage in the acts and practices alleged in this Complaint and similar acts and practices, as more fully
+described below.
+
+JURISDICTION AND VENUE
+
+8. This Court has jurisdiction over this action pursuant to Section 6c(a) of the Act,
+7 U.S.C. Â§ 13a-l(a) (2012), which authorizes the Commission to seek injunctive relief against any
+person whenever it shall appear that such person has engaged, is engaging, or is about to engage in
+any act or practice that violates any provision of the Act or any rule, regulation, or order promulgated
+thereunder.
+
+9. Venue properly lies with this Court pursuant to Section 6c(e) of the Act, 7 U.S.C.
+Â§13a-1(e) (2012), because Defendants transacted business in this District, and certain of the acts
+and practices in violation of the Act have occurred, are occurring, or are about to occur within
+this District, among other places.
+
+PARTIES AND RELEVANT NON-PARTIES
+
+10. Plaintiff U.S. Commodity Futures Trading Commission is an independent
+
+federal regulatory agency that is charged by Congress with the responsibility for enforcing the
+
+3
+Case 2:16-cv-00186-LA Filed 02/18/16 Page 3 of24 Document 1
+provisions of the Act, 7 U.S.C. Â§Â§ 1 et seg. (2012), and the Commission Regulations
+promulgated thereunder, 17 C.F.R. Â§Â§ 1.1 et seg. (2014).
+
+11. Defendant Ryan S. Magee is a resident of Calgary, Alberta, Canada. He has
+never been registered with the Commission.
+
+12. Defendant David W. Magee is a resident of Calgary, Alberta, Canada. He has
+never been registered with the Commission. David is Ryanâs father.
+
+13. Defendant Dalyne Rae Magee is a resident of Calgary, Alberta, Canada. She has
+never been registered with the Commission. Dalyne is Ryanâs wife.
+
+14. Non-party Master Daytraders Inc. is an Alberta corporation with its registered
+office located at 304 8th Avenue SW, in Calgary, Alberta T2P 1C2. It was incorporated in
+Alberta, Canada on October 23, 2009, and David and Ryan are its sole directors and
+shareholders. At various times, Defendants used the name âMaster Daytraders Inc.â or âMaster
+Daytradersâ to refer to the pool in communications to participants.
+
+15. Non-party Magee International Incorporated is a Texas corporation with its
+registered office located at 701 Brazos Street, Ste. 720, Austin, TX 78701. It was incorporated
+on January 20, 2012, and Dalyne is its sole director. At various times, Defendants used the name
+âMagee International Inc.â or âMagee Internationalâ to refer to the pool in communications to
+participants. Some participants signed a document titled âTrading Fund Acknowledgmentâ
+which stated that the âTrading Fund run by Ryan Mageeâ was registered as âMagee International
+Inc.â
+
+16. | Non-party Alberta Securities Commission (âASCââ) is the Canadian regulatory
+agency responsible for administering the province of Albertaâs securities laws. In August 2013,
+
+the ASC brought its own enforcement action against the Defendants, as well as Master
+
+=~ os a ~ om âet a q oh Feo Oe So ee oN ia a Nae ge â
+BEN ee ~, âTi s ra lan BN NOG RUS POD REE be Lf SRN ED âF ooh SNE TS ot * â
+Set DO CVA ae LA PRU Wel 2 ED PCRS Sp UP SAE Lok
+Daytraders Inc. and Magee International Incorporated, docketed as Action No. ENF-009554. In
+connection with that regulatory proceeding, Ryan, individually and on behalf of Master
+Daytraders Inc., David, and Dalyne, individually and on behalf of Magee International
+Incorporated, signed and submitted a âStatement of Admissionsâ dated March 2, 2015. The
+Statement of Admissions includes representations that Ryan made false statements to and
+otherwise defrauded pool participants and misappropriated at least CAD 893,837 of participantsâ
+funds to pay Defendantsâ personal expenses, directly or through other companies owned and
+controlled by Ryan and David. The Statement of Admissions also includes an acknowledgement
+that the admissions therein âmay be used ... for securities regulatory proceedings in other
+jurisdictions.â After a hearing in March 2015, the ASC published its final Decision on
+August 26, 2015, which concludes that each of the Defendants illegally acted as dealers contrary
+to section 75(1)(a) of the Securities Act (Alberta), illegally distributed securities contrary to
+section 110(1) of the Securities Act (Alberta), and that Ryan made materially misleading or
+untrue statements contrary to section 92(4.1) and perpetrated a fraud contrary to section 93(b) of
+the Securities Act (Alberta).
+
+STATUTORY BACKGROUND
+
+17. Section la(10) of the Act defines a âcommodity poolâ as any investment trust,
+syndicate, or similar form of enterprise operated for the purpose of trading in commodity
+interests, including any commodity for future delivery, security futures product, swap, or
+commodity option. Section la(11)(A)G) of the Act, 7 U.S.C. Â§ la(11)(A), in relevant part,
+defines a Commodity Pool Operator (âCPOâ) as any person engaged in a business that is of the
+nature of a commodity pool, investment trust, syndicate, or similar form of enterprise, and who,
+in connection therewith, solicits, accepts, or receives from others, funds, securities, or property,
+
+either directly or through capital contributions, the sale of stock or other forms of securities, or
+
+5
+Case 2:16-cv-00186-LA Filed 02/18/16 Page5of24 Document 1
+otherwise, for the purpose of trading in commodity interests, including commodities for future
+delivery, security futures products, and swaps.
+
+18. A âparticipantâ is defined in Commission Regulation 4.10(c), 17 C.F.R. Â§ 4.10(c)
+(2014), as any person who has any direct financial interest in a commodity pool.
+
+19. Section 4b(a)(1)(A), (B), and (C) of the Act, 7 U.S.C. Â§ 6b(a)(1)(A), (B) and (C)
+(2012), in relevant part, makes it unlawful for any person in or in connection with any order to
+make, or the making of, any contract of sale of any commodity for future delivery that is made,
+or to be made, for, on behalf of, or with any other person, that is subject to the rules of a
+designated contract market: (A) to cheat or defraud or attempt to cheat or defraud the other
+person; (B) willfully to make or cause to be made to the other person any false report or
+statement, or willfully to enter or cause to be entered for the other person any false record; or
+(C) willfully to deceive or attempt to deceive the other person by any means whatsoever in
+regard to any order or contract or the disposition or execution of any order or contract, or in
+regard to any act of agency performed, with respect to any order or contact for, on behalf of, or
+with the other person.
+
+20. Section 40(1)(A) and (B) of the Act, 7 U.S.C. Â§ 60(1)(A) and (B) (2012), makes it
+unlawful for a CPO to make use of the mails or any means or instrumentalities of interstate
+commerce, directly or indirectly to employ any device, scheme, or artifice to defraud any
+participant or prospective participant; or to engage in any transaction or course of business which
+operates as a fraud or deceit upon any participant or prospective participant.
+
+21. Effective August 15, 2011, Section 753 of the Dodd Frank Act amended Section 6(c)
+of the Act, 7 U.S.C. Â§ 9(1) (Supp. IV 2011), which broadened the CFTCâs anti-fraud jurisdiction
+
+as set out in Regulation 180.1, 17 C.F.R. Â§ 1801.1 (2014).
+
+Re SN es % ag my fa ea oy . ~ âa TN one
+oy et ey ~ Fr. â¬ ae ny fa a3? Se CRONE + : - ay 4
+ose OCALA Doo * HELE Wels LOM LS t age o OF + LOC er
+~
+22. Section 6(c)(1) of the Act, in relevant part, makes it unlawful for any person,
+directly or indirectly, to use or employ, or attempt to use or employ, in connection with any
+swap, or a contract of sale of any commodity in interstate commerce, or for future delivery on or
+subject to the rules of any registered entity, any manipulative or deceptive device or contrivance,
+in contravention of Regulation 180.1.
+
+23. Effective August 15, 2011, Regulation 180.1, in relevant part, makes it unlawful
+for any person, directly or indirectly, in connection with any swap, or contract of sale of any
+commodity in interstate commerce, or contract for future delivery on or subject to the rules of
+any registered entity, to intentionally or recklessly: (1) use or employ, or attempt to use or
+employ, any manipulative device, scheme, or artifice to defraud; (2) make, or attempt to make,
+any untrue or misleading statement of a material fact or to omit to state a material fact necessary
+in order to make the statements made not untrue or misleading; or (3) engage, or attempt to
+engage, in any act, practice, or course of business, which operates or would operate as a fraud or
+deceit upon any person.
+
+24. Section 4m(1) of the Act, 7 U.S.C. Â§ 6m(1) (2012), makes it unlawful for any CPO
+to make use of the mails or any means of the instrumentalities of interstate commerce in
+connection with its business as a CPO, unless registered under the Act.
+
+25. Section 4k(2) of the Act, 7 U.S.C. Â§ 6k(2) (2012) makes it unlawful for any
+person to be associated with a CPO as a partner, officer, employee, consultant, or agent (or any
+person occupying a simular status or performing similar functions}, in any capacity that involves
+(1) the solicitation of funds, securities, or property for a participation in a commodity pool, or
+(11) the supervision of any person or persons so engaged, unless such person is registered with the
+
+Commission under this Act as an associated person (âAPâ) of such CPO.
+
+âoe!
+rh
+roraratt
+â
+OH
+THE FRAUD
+
+26. Ryan began trading commodity futures for his own account in 2009 or earlier.
+Ryan traded in an individual brokerage account that he and David opened with a Canadian
+electronic brokerage firm on January 6, 2009 held in Ryanâs and Davidâs names (the âRD
+Accountâ). The following year, Ryan, David, and Dalyne began soliciting and accepting funds
+for commodity futures trading in the RD Account from family, friends, associates, and members
+of the public that Ryan met in online chat rooms on trading websites. Many of the Canadian
+participants were Davidâs friends or business associates, or others known to Davidâs friends and
+business associates. U.S. participants included family friends of Dalyne located in Texas and
+Wisconsin, and individuals that Ryan solicited in online chatrooms.
+
+27. As is detailed below, Ryan told prospective and actual participants that he was an
+extremely successful commodity futures trader who had made returns of 100-200% in prior
+years. Ryan told participants that he consistently produced trading gains of 1-2% per day, and
+that he had lost money trading on only one day in the past two years. Ryan told participants that
+they could expect the same results if they invested with him.
+
+28. Ryan solicited prospective pool participants by telling them that their funds would
+be used to trade commodity futures, including oil and index futures contracts, and that
+participants in the pool would be entitled to 80% of profits from that trading.
+
+29. Ryan described his trading strategy to participants only in general terms, telling
+them that he actively traded currency futures, oil futures, index futures, and other products by
+âuse[ing] entries based on the momentum of the price going up or downâ and that â[w]e are just
+here to ride the wave up or down.â Ryan said that each day, after he produces a 1% profit, he
+
+liquidates his gains and exits the market.
+
+8
+Case 2:16-cv-00186-LA Filed 02/18/16 Page 8 of 24 Document 1
+30. Ryan traded most participant funds in the RD Account. Ryan traded a smaller
+portion of pool participant funds in two other accounts: (1) an individual brokerage account
+opened in August 2013 in Ryanâs name at a U.S.-based brokerage firm (âR Accountâ); and
+(ii) an individual brokerage account at opened in October 2013 in Dalyneâs name at a different
+U.S.-based brokerage firm (âD Accountâ).
+
+31. Participants who invested either delivered checks made out to Ryan or David, or
+sent wire transfers the RD Account or to bank accounts held in the name of Ryan and/or David.
+On a limited number of occasions, participants sent wire transfers to an account at a bank in the
+U.S. held in Dalyneâs name. Ryan then misappropriated the funds to pay Defendantsâ personal
+expenses, used them to pay returns to participants who had invested previously, or transferred the
+funds to the brokerage accounts to trade.
+
+32. Ryan required some participants to sign a document titled Trading Fund
+Acknowledgement (the âAcknowledgmentâ). The Acknowledgment stated that participantsâ
+money would be provided to Ryan and to Magee International Inc. to invest on their behalf to
+trade stocks, bonds, currencies, and commodities on a daily basis. The Acknowledgment also
+stated that Magee International Inc. was âentitled to 20% of the daily profits generated by the
+fund.â One version of the Acknowledgment purported to permit Ryan to make all investment
+decisions without prior consultation with the participant, and also purported to release Ryan and
+David from all claims by participants. The same Acknowledgment required each participant to
+ââconfirm[] that he has not been solicited in any manner by Ryan.â
+
+A. Fraudulent Solicitation
+
+33. In order to induce potential participants to invest, or to induce existing participants to
+keep their money invested in the pool, Ryan made numerous untrue or misleading statements,
+
+including without limitation the following examples:
+a. On August 8, 2011, Ryan e-mailed a prospective participant: âDuring the
+day I have a goal of 1-2% of the portfolio. We generally hit this every day.â In that same
+communication, Ryan said that his trading was able to produce returns âon average
+$20,000.00 - $40,000.00â a month on a $100,000.00 investment (before the 20%
+commission). This would equate to an annual trading performance of between 240% and
+480%. In reality, an analysis of Ryanâs trading shows that he was not able to produce
+gains of 1-2% per day, and in actuality lost more than $1 million between 2009 and 2013.
+
+b. On July 3, 2012, Ryan told a prospective participant via e-mail that his
+trading strategy produced gains of â1% a day, 200 times a yearâ which was âbetter than
+anyone else was doing.â Ryan further stated that he âtrade[s] with people with more than
+$10,000,000.00 [invested with him] and people all the way down to some with
+$25,000.00 now with meâ and that he was âat a point now of managing nearly
+$50,000,000.00.â In reality, Ryan produced no profits through trading. Further, while
+Ryan fraudulently solicited and accepted at least $2 million from participants, the largest
+participant contributed only CAD 650,000, not CAD 10,000,000 as Ryan claimed.
+Finally, Ryanâs claim that he managed ânearly [CAD] 50,000,000.00â was false; the most
+Defendantsâ brokerage accounts were ever worth (on a month-end net asset value basis)
+was CAD 733,683 on June 30, 2010.
+
+c. On September 13, 2012, Ryan told a prospective participant via e-mail
+that between 2009 and 2012, he experienced âtremendous successâ trading and that â[t]he
+last time we lost money or âhad a red dayâ was in December of 2010.â Ryan further
+represented that his investments achieved 203% growth in 2010, 234% in 2011, and that
+
+he was âon pace to make 220%â for 2012. He further stated that â[w]e are a registered
+investment company in the USA and Canada.â In reality, Defendantsâ trading accounts
+
+lost money every year. The annual rate of return for the RD Account (where the lionsâ
+
+share of Ryanâs trading took place) was negative 51% in 2009, negative 99% in 2010,
+
+and negative 100% in 2011 and 2012. Finally, contrary to Ryanâs claim, neither he,
+
+Master Daytraders Inc., nor Magee International Inc. was registered with the ASC,
+
+CFTC, or any other appropriate authorities either in the U.S. or Canada.
+
+d. On September 30, 2012, Ryan told participants in an e-mail that in the
+third quarter of 2012, he profited CAD 19,848,645.11 through trading and paid out
+CAD 4,187,212 to fund participants. In reality, in the third quarter of 2012, Ryan lost
+CAD 20,487 through trading in the RD Account and withdrew only CAD 25,849 from
+the RD Account.
+
+e. In January of 2011, David and Ryan communicated to a group of
+participants that Ryan had collapsed in front of his computer while positions were open,
+causing the pool to lose nearly all of its value. In reality, losses in the pool in December
+2010 and January 2011 were primarily due to Ryanâs withdrawals from the account.
+
+34. David and Dalyne also solicited prospective pool participants. David and Dalyne
+each told participants that Ryan was a profitable trader who consistently produced returns of
+roughly 1% profit per day.
+
+35. As a result of Defendantsâ solicitations and Ryanâs false representations that his
+trading was profitable, at least 30 individuals in the U.S. and Canada invested at least $2 million
+in the pool.
+
+B. Misappropriation of Participantsâ Funds
+
+36. Rather than using participantsâ funds solely to trade commodity futures as Ryan
+
+represented he would, of the at least $2 million received during the relevant period, Ryan
+misappropriated at least CAD 893,837 to pay the personal expenses of Defendants, directly or
+through companies controlled or owned by Ryan and David, including Global Non-Slip
+Solutions Inc. (a construction company), Leathermaster (1994) Inc. (a leather cleaning and dry
+cleaning business), and Master Reglazing Inc. (a bathtub refinishing and repair business).
+During the relevant period, David was a director and shareholder of all three companies, and
+Ryan was a shareholder of Master Reglazing Inc., and a director and shareholder of Global Non-
+Slip Solutions Inc.
+
+37. Ryan also used at least CAD 100,000 of participantsâ funds to pay returns to
+participants who had invested in the pool earlier.
+
+38. Participants did not authorize Ryan to use their funds to pay Defendantsâ expenses
+or to pay returns to prior participants.
+
+Cc. False Account Statements
+
+39. In order to perpetuate the fraud, Ryan knowingly provided false account
+statements to pool participants that misrepresented the value of their investments. Ryan and
+Dalyne distributed the false account statements often on a weekly or monthly basis, usually by e-
+mail.
+
+AO. These account statements showed consistent and significant growth in
+participantsâ accounts, when in fact participantsâ funds were being depleted by trading losses and
+misappropriation. The figures reflected on the account statements were entirely fictitious and
+divorced from Ryanâs actual trading performance.
+
+41. Examples of false account statements sent to participants include the following:
+
+a. In late 2010, Ryan sent an account statement to a Canadian participant that
+covered the period October to November 2010. The account statement reflected that the
+
+participantâs account had a value of CAD 429,929.82 on October 1, 2010. The statement
+purported to show daily and weekly gains achieved through Ryanâs trading. The account
+statement reflected trading profits of $61,230.00 between October 1 and November 19,
+2010, a profit of 14% over the 7-week period. In reality, the RD Account (the only
+brokerage account open at that time) lost over CAD 21,000, or 33% of its total value
+during the time period October to November 2010. Furthermore, trading records show
+that the pool never had more than CAD 94,000 total under management in October and
+November 2010.
+
+b. Ryan sent account statements to a participant located in Reedsburg,
+Wisconsin that covered the time period November 2011 to February 2014. The account
+statements purported to show that the participantâs account grew to a value of
+$700,194.05 by January 1, 2014. Of the total account balance, $120,000 represented the
+participantâs capital contributions, with the remaining $580,194.05 reflected as profits
+from Ryanâs trading. In reality, from November 2011 through February 2014, Ryan
+achieved no trading profits, and losses in the poolâs trading accounts totaled over
+$188,000.
+
+c. On August 14, 2013, Ryan e-mailed an account statement to a participant
+located in Sheboygan, Wisconsin that covered the time period January 1, 2013 to
+August 16, 2013. The account statement purported to show that the participantâs account
+balance was $43,597.47 on January 1, 2013. The statement purported to show
+$63,913.98 in profits from Ryanâs trading over the next seven months, reflecting an
+account balance of $107,511.45 on August 9, 2013. In reality, the pool trading account
+
+had less than $100 under management as of January 1, 2013. Furthermore, from
+January 1, 2013 through August 31, 2013, the pool incurred nearly $29,000 in trading
+
+losses in its trading accounts.
+
+42. In the account statements, Ryan misrepresented and omitted material facts
+regarding the performance of his trading in order to induce participants to maintain their funds
+with him, to invest additional funds, and to persuade others to become participants. The false
+account statements gave participants the false impression that they had access to the funds in
+these trading accounts and could withdraw the funds at their discretion.
+
+43. Defendants engaged in the acts and practices described above knowingly or with
+reckless disregard for the truth.
+
+VIOLATIONS OF THE COMMODITY EXCHANGE ACT AND REGULATIONS
+COUNT I
+FRAUD BY MISAPROPRIATION AND FRAUDULENT SOLICITATION
+VIOLATIONS OF SECTIONS 4b(a)(1)(A) and (C) OF THE ACT
+Against Ryan S. Magee
+
+44. The allegations set forth in paragraphs 1 through 43 are re-alleged and
+incorporated herein by reference.
+
+AS. Sections 4b(a)(1)(A) and (C) of the Act, 7 U.S.C. Â§Â§ 6b(a)(1)(A) and (C) (2012),
+make it unlawful for any person, in or in connection with any order to make or the making of any
+futures contract to cheat, defraud or willfully deceive, or attempt to cheat, defraud, or willfully
+deceive any other person by any means whatsoever.
+
+46. From at least March 2010 through at least August 2013, Ryan cheated or
+defrauded, or attempted to cheat or defraud, and willfully deceived or attempted to deceive
+participants and prospective participants of the pool in violation of Sections 4b(a)(1)(A) and (C)
+
+of the Act by, among other acts and practices,
+
+14
+Case 2:16-cv-00186-LA Filed 02/18/16 Page 14 of 24 Document 1
+a. misappropriating participantsâ funds for Defendantsâ personal use, or for
+the use of companies owned or controlled by Ryan and David; and
+
+b. making material misrepresentations and omitting material facts to
+prospective and actual participants, including but not limited to representations that the
+pool had made and was making profits, when in fact it was not, failing to disclose
+significant trading losses, and failing to disclose that participantsâ investments were being
+misappropriated for Defendantsâ personal use.
+
+47. Each misappropriation and material misrepresentation or omission, including but
+not limited to those specifically alleged herein, is constitutes a separate and distinct violation of
+Section 4b(a)(1)(A) and (C) of the Act.
+
+COUNT I
+FRAUD BY FALSE ACCOUNT STATEMENTS
+VIOLATIONS OF SECTIONS 4b(a)(1)(B) OF THE ACT
+Against Ryan S. Magee
+
+48. The allegations set forth in paragraphs 1 through 43 are re-alleged and
+incorporated herein by reference.
+
+49, Section 4b(a)(1)(B) of the Act, 7 U.S.C. Â§ 6b(a)(1)(B) (2012), makes it unlawful
+for any person, in or in connection with any order to make or the making of any futures contract,
+to willfully make or cause to be made to another person a false report or statement.
+
+50. From at least March 2010 through at least August 2013, Ryan violated Section
+4b(a)(1)(B) of the Act by willfully creating and sending participants false account statements that
+contained non-existent futures trading profits.
+
+51. Each false report or statement, including but not limited to those specifically
+
+alleged herein, constitutes a separate and distinct violation of Section 4b(a)(1)(B) of the Act.
+COUNT Il
+FRAUD BY A CPO
+VIOLATIONS OF SECTION 40(1)(A), (B) OF THE ACT
+Against Ryan S. Magee
+52. The allegations set forth in paragraphs 1 through 43 are re-alleged and
+incorporated herein by reference.
+53. Section 40(1) of the Act, 7 U.S.C. Â§ 60(1) (2012), prohibits any CPO from using
+
+the mails or any other means of interstate commerce to:
+
+(A) employ any device, scheme or artifice to defraud any client or
+participant or prospective client or participant; or
+
+(B) engage in any transaction, practice or course of business which operates as a
+fraud or deceit upon any client or participant or prospective participant.
+
+54. During the relevant period, Ryan acted as a CPO in that he engaged in a business
+that is of the nature of an investment trust, syndicate or similar form of enterprise operated for
+the purpose of trading in commodity interests or commodity futures, and in connection
+therewith, solicited, accepted and received funds from others for the purpose of trading in
+commodity interests and commodity futures.
+
+55. During the relevant period, Ryan violated Section 40(1) of the Act, in that as
+CPOs, he directly or indirectly employed or is employing a device, scheme or artifice to defraud
+pool participants, or has engaged or is engaging in transactions, practices or a course of business
+which operated as a fraud or deceit upon participants by:
+
+a. misappropriating participantsâ funds for Defendantsâ personal use, or for
+the use of companies owned or controlled by Ryan and David;
+b. making material misrepresentations and omitting material facts to
+
+prospective and actual participants and, including but not limited to representations that
+the pool had made and was making profits when in fact it was not, failing to disclose
+
+significant trading losses, and failing to disclose that participantsâ investments were being
+
+misappropriated for Defendantsâ personal use, or for the use of companies owned or
+controlled by Ryan and David; and
+
+c. issuing false account performance documentation to pool participants that
+misrepresented the value of their respective interests in the pool and concealed Ryanâs
+misappropriation of participantsâ monies.
+
+56. Ryan engaged in such acts, directly or indirectly, by the use of the mails and other
+means or instrumentalities of interstate commerce.
+
+57. Each act of misappropriating funds, making false statements and material
+omissions, and disseminating false account statements that occurred during the relevant time
+period, including but not limited to those specifically alleged herein, is alleged as a separate and
+distinct violation of Section 40(1) of the Act.
+
+COUNT IV
+FRAUD BY DECEPTIVE DEVICE OR CONTRIVANCE
+VIOLATIONS OF SECTION 6(c)(1) OF THE ACT AND REGULATION 180.1(a)
+Against Ryan S. Magee
+
+58. The allegations set forth in paragraphs 1 through 43 are re-alleged and
+incorporated herein by reference.
+
+59. Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) (2012) provides, in relevant part, that ââ[i]t
+shall be unlawful for any person, directly or indirectly, to use or employ or attempt to use or employ,
+in connection with any swap, or a contract of sale of any commodity in interstate commerce, or for
+future delivery on or subject to the rules of any registered entity, any manipulative or deceptive device
+
+or contrivance, in contravention of such rules and regulations as the Commission shall promulgate.â
+60. Commission Regulation 180.1(a), 17 C.F.R. Â§ 180.1(a) (2014) provides in relevant
+part, that ââ[i]t shall be unlawful for any person, directly or indirectly, in connection with any swap, or
+contract of sale of any commodity in interstate commerce, or contract for future delivery on or subject
+to the rules of any registered entity, to intentionally or recklessly: Use or employ, or attempt to use or
+employ, any manipulative device, scheme, or artifice to defraud; Make, or attempt to make, any untrue
+or misleading statement of a material fact or to omit to state a material fact necessary in order to make
+the statements made not untrue or misleading; Engage, or attempt to engage, in any act, practice, or
+course of business, which operates or would operate as a fraud or deceit upon any person.â
+
+61. From August 15, 2011 (the effective date of the above provision of the Act and
+Regulation 180.1(a)) to at least August 2013, Ryan used or employed deceptive devices or
+contrivances, in connection with a contract of sale of a commodity in interstate commerce, including,
+but not limited to:
+
+a. misappropriating participantsâ funds for Defendantsâ personal use, or for
+the use of companies owned or controlled by Ryan and David;
+
+b. making material misrepresentations and omitting material facts to
+prospective and actual participants and, including but not limited to representations that
+the pool had made and was making profits when in fact it was not, failing to disclose
+significant trading losses, and failing to disclose that participantsâ investments were being
+misappropriated for Defendantsâ personal use, or for the use of companies owned or
+controlled by Ryan and David; and
+
+c. issuing false account performance documentation to pool participants that
+misrepresented the value of their respective interests in the pool and concealed Ryanâs
+
+misappropriation of participantsâ monies.
+62. Ryan used the mails or other instrumentalities of interstate commerce by, among other
+things, transmitting false account statements, communications to participants, and orders for retail
+commodity transactions over wires in interstate commerce.
+
+63. By this conduct, Ryan violated Section 6(c)(1) of the Act and Regulation 180.1(a).
+
+64. Ryan directly engaged in these acts knowingly or with reckless disregard for the truth.
+
+65. Each deceptive device or contrivance used or employed including, but not limited to
+those specifically alleged herein, is alleged as a separate and distinct violation of Section 6(c)(1) of the
+Act and Regulation 180. 1(a).
+
+COUNT V
+FAILURE TO REGISTER AS A CPO.
+VIOLATIONS OF SECTION 4m(1) OF THE ACT
+Against Ryan S. Magee
+
+66. The allegations set forth in paragraphs 1 through 43 are re-alleged and
+incorporated herein by reference.
+
+67. With certain exemptions and exclusions not applicable here, Section 4m(1) of the
+Act, 7 U.S.C. Â§ 6m(1) (2012) requires all CPOs to be registered with the Commission.
+
+68. During the relevant period, Ryan acted as a CPO in that he engaged in a business
+that is of the nature of an investment trust, syndicate or similar form of enterprise operated for
+the purpose of trading in commodity interests or commodity futures, and in connection
+therewith, solicited, accepted and received funds from others for the purpose of trading in
+commodity interests and commodity futures.
+
+69. In connection with such conduct, Ryan used the mails and other means or
+
+instrumentalities of interstate commerce, directly or indirectly, to engage in business as a CPO.
+70. Ryan engaged in the activities described in the preceding paragraph without
+registering as a CPO in violation of Section 4m(1) of the Act.
+
+71. Each use of the mails or any means or instrumentality of interstate commerce in
+connection with his business as a CPO without proper registration during the relevant time
+period, including but not limited to those specifically alleged herein, is alleged as a separate and
+distinct violation of Section 4m(1) of the Act.
+
+COUNT VI
+FAILURE TO REGISTER AS APs AND
+ALLOWING UNREGISTERED APs TO REMAIN ASSOCIATED WITH A CPO
+VIOLATIONS OF SECTION 4k(2) OF THE ACT
+Against All Defendants
+
+72. The allegations set forth in paragraphs | through 43 and 66 through 71 are re-
+alleged and incorporated herein by reference.
+
+73. Section 4k(2) of the Act, 7 U.S.C. Â§ 6k(2) (2012), requires that APs of CPOs be
+registered with the Commission. Further, a CPO violates Section 4k(2) of the Act, 7 U.S.C.
+Â§ 6k(2) (2012), when it allows an unregistered AP to become or remain associated with the CPO
+when the CPO knew or should have known that the AP was not registered as such with the
+Commission.
+
+74, David and Dalyne acted as APs when each solicited funds for the pool and handled
+participant monies while associated with Ryan as his partner, employee, or agent (or while
+occupying a similar status or performing similar functions). David and Dalyne were never
+registered with the Commission.
+
+75. Because they engaged in their AP activities without registering as APs of a CPO,
+
+David and Dalyne violated Section 4k(2) of the Act.
+76. Ryan violated Section 4k(2) of the Act, by allowing David and Dalyne to act as
+unregistered APs when he knew or should have known that they were not registered with the
+
+Commission.
+
+RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that the Court, as authorized by Section
+6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), and pursuant to the Courtâs own equitable powers, enter:
+
+a) An order finding that Ryan violated Sections 4b(a)(1)(A) and (C), 4b(a)(1)(B), 40(1),
+6(c)(1), 4m(1), and 4k(2) of the Act, 7 U.S.C. Â§Â§ 6b(a)(1)(A) and (C), 6b(a)(1)(B); 60(1), 9(1),
+6m(1), and 6(k)(2) (2012), and Commission Regulation 180.1(a)(1)-(3), 17 C.F.R. Â§ 180.1(a)(1)-
+(3) (2014), and that David and Dalyne violated Section 4k(2) of the Act, 7 U.S.C. Â§ 6k(2) (2012);
+
+b) â An order of permanent injunction prohibiting Defendant Ryan and any of his affiliates,
+agents, servants, employees, successors, assigns, attorneys, and persons in active concert or participation
+with Defendant Ryan, from directly or indirectly engaging in conduct in violation of Sections
+Ab(a)(1)(A) and (C), 4b(a)(1)(B), 40(1), 6(c)(1), 4m(1), and 4k(2) of the Act, 7 U.S.C.
+8Â§ 6b(a)(1)(A) and (C), 6b(a)(1)(B), 60(1), 911), 6m(1), and 6(k)(2) (2012), and Commission
+Regulation 180.1(a)(1)-(3), 17 C.F.R. Â§ 180.1(a)(1)-(3) (2014);
+
+c) An order of permanent injunction prohibiting Defendants David and Dalyne Ryan
+and any of their affiliates, agents, servants, employees, successors, assigns, attorneys, and
+persons in active concert or participation with Defendants, from directly or indirectly engaging in
+conduct in violation of Section 4k(2) of the Act, 7 U.S.C. Â§ 6(k)(2) (2012);
+
+d) An order of permanent injunction prohibiting Defendants and any of their affiliates,
+agents, servants, employees, successors, assigns, attorneys, and persons in active concert or participation
+
+with Defendants, from directly or indirectly:
+
+21
+Case 2:16-cv-00186-LA Filed 02/18/16 Page 21 of 24 Document 1
+d)
+
+(i)
+
+(i1)
+
+(iil)
+(iv)
+
+(v)
+
+(vi)
+
+(vil)
+
+trading on or subject to the rules of any registered entity (as that term is defined in
+Section la of the Act, 7 U.S.C. Â§ la (2012));
+
+entering into any transactions involving âcommodity interestsâ (as that term is
+defined in Commission Regulation 1.3(yy), 17 C.F.R. Â§ 1.3(yy) (2014)), for
+Defendantâs own accounts or for any account in which they have a direct or
+indirect interest;
+
+having any commodity interests traded on Defendantsâ behalf;
+
+controlling or directing the trading for or on behalf of any other person or entity,
+whether by power of attorney or otherwise, in any account involving commodity
+interests;
+
+soliciting, receiving, or accepting any funds from any person for the purpose of
+purchasing or selling any commodity interests;
+
+applying for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the Commission, except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2014); and
+acting as a principal (as that term is defined in Commission Regulation 3.1(a),
+17 C.F.R. Â§ 3.1(a) (2014)), agent or any other officer or employee of any
+person registered, exempted from registration or required to be registered with
+the Commission except as provided for in Regulation 4.14(a)(9), 17 C.F.R.
+
+Â§ 4.14(a)(9) (2014);
+
+An order directing Defendants and any successors thereof, to rescind, pursuant to
+
+such procedures as the Court may order, all contracts and agreements, whether implied or
+express, entered into between them and any of the pool participants whose funds were received
+by them as a result of the acts and practices that constituted violations of the Act, as described
+herein;
+
+e) An order requiring Defendants to pay, jointly and severally, restitution by making
+whole each and every pool participant whose funds were received or utilized by them in
+violation of the provisions of the Act as described herein, including pre- and post-judgment
+interest;
+
+f) An order requiring Defendants, as well as any of their successors, to disgorge to
+any officer appointed or directed by the Court all benefits received, including, but not limited to,
+salaries, commissions, loans, fees, revenues and trading provides derived, directly or indirectly,
+from acts or practices that constituted violations of the Act and the Regulations, including pre-
+and post-judgment interest;
+
+g) An order directing Defendants to pay a civil monetary penalty for each violation
+of the Act described herein, plus post-judgment interest, in the amount of the higher of:
+(1) $140,000 for each violation of the Act and Regulations; or (2) triple the monetary gain to the
+Defendants for each violation of the Act and the Regulations;
+
+h) An order requiring Defendants to pay costs and fees as permitted by 28 U.S.C.
+Â§Â§ 1920 and 2412(a)(2) (2006); and
+
+1) Such other and further relief as the Court deems proper.
+
+Dated: February 18, 2016 Respectfully submitted,
+
+/s/ Michael D. Frisch
+
+ 
+
+Michael D. Frisch
+Trial Attorney
+Illinois ARDC No. 6296533
+
+23
+Case 2:16-cv-00186-LA Filed 02/18/16 Page 23 of 24 Document 1
+Jon J. Kramer
+Senior Trial Attorney
+Illinois ARDC No. 06272560
+
+David Terrell
+Chief Trial Attorney
+Illinois ARDC No. 6196293
+
+Scott R. Williamson
+Deputy Regional Counsel
+Illinois ARDC No. 06191293
+
+Rosemary Hollinger
+Regional Counsel
+Illinois ARDC No. 03123647
+
+Commodity Futures Trading Commission
+525 West Monroe Street, Suite 1100
+Chicago, Illinois 60661
+
+(312) 596-0563
+
+(312) 596-0714 (fax)
+
+mfrisch @ cftc.gov
+
+Attorneys for Plaintiff
+Commodity Futures Trading Commission
+
+24
+Case 2:16-cv-00186-LA Filed 02/18/16 Page 24 of 24 Document 1

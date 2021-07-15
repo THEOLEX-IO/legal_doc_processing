@@ -1,0 +1,432 @@
+UNITED STATES OF AMERICA
+Before the
+
+COMMODITY FUTURES TRADING COMMISSIO
+RECEIVED CFTC
+
+ 
+
+In the Matter of:
+
+Ã©
+ee
+
+Office of Proceedings
+Proceedings Clerk
+
+12:20 pm, Nov 04, 2079
+
+)
+)
+)
+Silver Star FX, LLC d/b/a Silver Star )
+Live, Silver Star Live Software, LLC, ) CFTC Docket No. 20-05
+
+)
+
+)
+
+)
+
+)
+
+ 
+
+Candace Ross-Mahmoud and
+Hassan Mahmoud,
+
+Respondents.
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+1,
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+between July 2018 and March 2019 (the âRelevant Periodâ), Silver Star FX, LLC d/b/a Silver
+Star Live (âSSLâ) and Silver Star Live Software, LLC (âSSLSâ) violated Sections
+2(Â¢)(2)(C)(iii1))(bb) and 4m(1) of the Commodity Exchange Act (âActâ), 7 U.S.C.
+$Â§ 2(c)(2)(C)Gii)(D)(bb), 6m(1) (2012), and Commission Regulation (âRegulationâ) 5.3(a)(3)(i),
+17 C.F.R. Â§ 5.3(a)(3)(i) (2019), and that Candace Ross-Mahmoud (âRoss-Mahmoudâ) and
+Hassan Mahmoud (âMahmoudâ) violated Sections 2(c)(2)(C)(iii)(I)(aa) and 4k(3) of the Act, 7
+U.S.C. Â§Â§ 2(c)(2)(C)(iii)(D (aa), 6k(3) (2012), and Regulation 5.3(a)(3)(ii), 17 C.F.R. Â§
+5,3(a)(3)(ii) (2019). In addition, as a control person of SSL and SSLS, Ross-Mahmoud is liable
+for SSLâs and SSLSâs violations of the Act and Regulations pursuant to Section 13(b) of the Act,
+7 ULS.C. Â§ 13c(b) (2012). Therefore, the Commission deems it appropriate and in the public
+interest that public administrative proceedings be, and hereby are, instituted to determine
+whether SSL, SSLS, Ross-Mahmoud and Mahmoud (together, âRespondentsâ) engaged in the
+violations set forth herein and to determine whether any order should be issued imposing
+remedial sanctions.
+
+Il.
+
+In anticipation of the institution of an administrative proceeding, Respondents have
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondents consent to
+the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
+Commodity Exchange Act, Making Findings, and Imposing Remedial Sanctions (âOrderâ) and
+acknowledge service of this Order.â
+
+The Commission finds the following:
+A. SUMMARY
+
+Throughout the Relevant Period, SSL, and a successor entity, SSLS, acted as commodity
+trading advisors (âCTAsâ) without being registered with the Commission as such, by exercising
+discretionary trading authority over the forex trading accounts of U.S. customers who were not
+eligible contract participants (ââECPsâ). Throughout the Relevant Period Ross-Mahmoud and
+Mahmoud acted as associated persons (âAPsâ) of a CTA without being registered as such by
+acting as officers, employees, or agents of SSL and SSLS in capacities that involved soliciting
+customers to open discretionary trading accounts or supervising other persons so engaged.
+Ross-Mahmoud was also a control person for SSL and SSLS.
+
+B. RESPONDENTS
+
+Silver Star FX, LLC d/b/a Silver Star Live is a limited liability company organized and
+operated pursuant to the laws of the state of New Mexico. Silver Star FX, LLC has never been
+registered with the Commission in any capacity.
+
+Silver Star Live Software, LLC is a limited liability company organized and operated
+pursuant to the laws of the state of Florida. SSLS has never been registered with the
+Commission in any capacity.
+
+Candace Ross-Mahmoud is an individual residing in Clovis, California. During the
+Relevant Period, Ross-Mahmoud served as executive vice president and, later, president of SSL.
+She also served as president of SSLS. In those positions, Ross-Mahmoud was primarily
+responsible for live and digital events, customer acquisition, and marketing of the forex trading
+software (âforex autotraderââ) sold by SSL and SSLS, both of which were multi-level marketing
+enterprises. Ross-Mahmoud has never been registered with the Commission in any capacity.
+
+Hassan Mahmoud is an individual residing in Clovis, California. During the Relevant
+Period, Mahmoud served as executive vice president of SSL and SSLS. In those positions,
+Mahmoud was primarily responsible for communications with the affiliates (i.e., downstream
+marketers) of SSL and SSLS, affiliate training, live and digital events, customer acquisition, and
+marketing of the forex autotrader sold by SSL and SSLS. Mahmoud has never been registered
+with the Commission in any capacity.
+
+ 
+
+' Respondents consent to the use of the findings of fact and conclusions of law in this Order in this
+
+proceeding and in any other proceeding brought by the Commission or to which the Commission is a party or
+claimant, and agree that they shall be taken as true and correct and be given preclusive effect therein, without further
+proof. Respondents do not consent, however, to the use of this Order, or the findings or conclusions herein, as the
+sole basis for any other proceeding brought by the Commission or to which the Commission is a party or claimant,
+other than: a proceeding in bankruptcy or receivership; or a proceeding to enforce the terms of this Order.
+Respondents do not consent to the use of the Offer or this Order, or the findings or conclusions in this Order, by any
+other party in any other proceeding.
+D. FACTS
+
+During the Relevant Period, SSL and SSLS marketed, under various names, computer
+software which Respondents described as a âforex autotrader.â By virtue of this forex
+autotrader, SSL and SSLS exercised discretionary trading authority over retail customersâ forex
+accounts,
+
+From at least July 2018 to March 2019, on behalf of SSL and, later, SSLS, Respondents
+solicited customers to open discretionary trading accounts (or supervised other persons who did
+so) and offered to trade customersâ retail forex accounts through the forex autotrader.
+Respondents later marketed the forex autotrader under multiple different names during the
+Relevant Period. The forex autotrader used an algorithm to trade multiple currency pairs,
+automatically entering and exiting trades without customer intervention. The forex autotrader
+also purportedly automatically hedged losing trades to mitigate losses.â
+
+Respondents marketed the forex autotrader using the slogan âOur Trades, Your
+Account.â In promotional video presentations, Mahmoud described the forex autotrader as â95%
+hands-offâ after initial set up. As described by Respondents in promotional videos, although
+customers were required to set up the forex autotrader and load periodic updates, those efforts
+were supported by SSL and SSLS staff. In a promotional video featuring Ross-Mahmoud and
+Mahmoud, their business partner who developed the forex autotrader stated that it was âas close
+to a âset it and forget itâ type of trading system as you can get.â
+
+Respondents touted the autotrader as suitable for people without any prior forex trading
+experience. Ross-Mahmoud and Mahmoud and, at their direction, the affiliates of SSL and
+SSLS, instructed individual customers to open retail forex accounts at retail forex exchange
+dealers, fund the accounts, and link the accounts to the forex autotrader. Customers paid an
+initial purchase price of $199 for the software and recurring fee of $145 per month to maintain
+access to the autotrader.
+
+On behalf of SSL and SSLS, Ross-Mahmoud and Mahmoud solicited people to purchase
+the forex autotrader software, and supervised affiliates who solicited others to purchase it. At no
+time during the Relevant Period were Respondents registered with the Commission in any
+capacity or eligible for an exemption from the requirement to register.
+
+Iii. LEGAL DISCUSSION
+A. SSL and SSLS
+
+Section 1a(12)(i) of the Act, 7 U.S.C. Â§ 1a(12)(i)(2012), defines a CTA as any person
+who, for compensation or profit, engages in the business of advising others, either directly or
+through publications, writings, or electronic media, as to the value of or advisability of trading
+in, among other things, retail forex transactions pursuant to Section 2(c)(2)(C)(i)of the Act,
+7USS.C. Â§ 2(c)(2)(C)@) (2012). Pursuant to Section 1a(38) of the Act, 7 U.S.C. Â§ 1a(38)(2012),
+the term âpersonâ imports the plural or singular, and includes individuals, associates,
+partnerships, corporations, and trusts.
+
+ 
+
+2 The forex trades were made on a leveraged or margined basis.
+Section 2(c)(2)(C)(iii)(I)(bb) of the Act, 7 U.S.C. Â§ 2(c)(2)(C)Gii)(1)(bb) (2012) states in
+relevant part that â[a] person, unless registered in such capacity as the Commission by rule,
+regulation, or order shall determine...shall not:
+
+(bb) exercise discretionary trading authority or obtain written
+authorization to exercise written trading authority over any account
+for or on behalf of any person that is not an eligible contract
+participant in connection with [retail forex transactions] entered
+into with or to be entered into with a person who is not described
+in item (aa), (bb), (ee), or (ff) of subparagraph (B)(i)ID; ....
+
+Section 4m(1) of the Act, 7 U.S.C. Â§ 6m(1) (2012), requires a person who is acting as a
+CTA and makes use of the mails or any means or instrumentality of interstate commerce in
+connection with the personâs business as a CTA to register with the Commission unless an
+exemption from registration applies. SSL and SSLS were not exempt from registration as CTAs
+under any provision of the Act or Commission Regulations.
+
+Regulation 5.1(e)(1), 17 C.F.R. Â§ 5.1(e)(1) (2019), defines a commodity trading advisor,
+for purposes of Part 5 of the Regulations, as âany person who exercises discretionary trading
+authority or obtains written authorization to exercise discretionary trading authority over any
+account for or on behalf of any person that is not an eligible contract participant as defined in
+Section 1a(18) of the Act, in connection with retail forex transactions.â
+
+Regulation 5.3(a)(3)(i), 17 C-F.R. Â§ 5.3(a)G3)@) (2019) requires that any person who
+meets the definition of a CTA as set forth in Regulation 5.1(e)(1) must register with the
+Commission as a CTA.
+
+During the Relevant Period, SSL and SSLS acted as CTAs by making use of the mails or
+any means of interstate commerce by engaging, for compensation or profit, in the business of
+advising clients as to the value or advisability of trading in off-exchange forex transactions. By
+failing to register as CTAs, SSL and SSLS violated Section 4m(1) of the Act.
+
+Further, during the Relevant Period, SSL and SSLS exercised discretionary trading
+authority over accounts of customers via the forex autotrader. The solicitations of SSL and
+SSLS did not limit or restrict customers to ECPs, as defined by Section 1(a)(18)(A)(ix) of the
+Act, 7 U.S.C. Â§ 1(a)(18)(A)(x) (2012). As such, SSL and SSLS were required to be registered
+as CTAs pursuant to Section 2(c)(2)(C)(iii1)(1T) (bb) of the Act and Regulation 5.3(a)(3)(i) but were
+not so registered.
+
+B. Ross-Mahmoud and Mahmoud
+
+Section 2(c)(2)(C)(iii)(1)(aa) of the Act, 7 U.S.C. Â§ 2(c)(2)(C)(iii)(1)(aa) (2012) states in
+relevant part that â[a] person, unless registered in such capacity as the Commission by rule,
+regulation, or order shall determine...shall not:
+
+(aa) solicit of accept orders from any person that is not an eligible
+contract participant in connection with [retail forex transactions]
+entered into with or to be entered into with a person who is not
+described in item (aa), (bb), (ee), or (ff) of subparagraph
+
+(B)G ID; ....
+
+Pursuant to Section 4k(3) of the Act, 7 U.S.C. Â§ 6k(3) (2012), it shall be unlawful for any
+person to be associated with a CTA as a partner, officer, employee, consultant or agent (or any
+person occupying a similar status or performing similar functions), in any capacity which
+involves (i) the solicitation of a clientâs or prospective clientâs discretionary account or (ii) the
+supervision of any person or person so engaged, unless such person is registered with the
+Commission as an AP of such CTA.
+
+Pursuant to Regulation 5.3(a)(3)(ii), 17 C.F.R. Â§ 5.3(a)()(ii) (2019), any natural person
+associated with a CTA as a partner, officer, employee, consultant, or agent (or any natural person
+occupying a similar status or performing similar functions) in any capacity which involves (i) the
+solicitation of a clientâs or prospective clientâs discretionary account or (ii) the supervision of
+any person or persons so engaged, must register with the Commission as an AP of a CTA.
+
+During the Relevant Period, Ross-Mahmoud and Mahmoud were associated with SSL
+and SSLS as partners, officer, employee, consultants or agents in capacities which involved (i)
+the solicitation of a clientâs or prospective clientâs discretionary account or (ii) the supervision of
+any person or person so engaged. As such, Ross-Mahmoud and Mahmoud were each required to
+register with the Commission as an AP ofa CTA. By failing to register with the Commission as
+APs of a CTA, Ross-Mahmoud and Mahmoud each violated Sections 2(c)(2)(C)(i11)(1)(aa) and
+4k(3) of the Act, and Regulation 5.3(a)(3)(ii).
+
+C. Ross-Mahmoud
+
+Additionally, Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b) (2012), provides that â[a]ny
+person who, directly or indirectly, controls any person who has violated any provision of this
+chapter or any of the rules, regulations, or orders issued pursuant to this chapter may be held
+liable for such violation in any action brought by the Commission to the same extent as such
+controlled person.â Under Section 13(b) of the Act, the Commission must establish that the
+controlling person did not act in good faith or knowingly induced, directly or indirectly, the act
+or acts constituting the violation. As discussed above, Ross-Mahmoud was the president of SSL
+and SSLS. In those positions, Ross-Mahmoud was primarily responsible for live and digital
+promotional events, customer acquisition, and marketing of the forex autotrader sold by SSL and
+SSLS. She also set up payment processes for the affiliates of SSL and SSLS. Therefore, Ross-
+Mahmoud had the requisite control over SSL and SSLS and knowledge of both entities actions,
+including their failure to register as CTAs. As such, pursuant to Section 13(b) of the Act, Ross-
+Mahmoud is liable for their violations as a control person.
+
+IV. FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that during the Relevant Period: (a) SSL
+and SSLS violated Sections 2(c)(2)(C)(i1i)(D(bb) and 4m(1) of the Act, 7 U.S.C.
+Â§Â§ 2(c)(2)(C)Gii)(D(bb), 6m(1) (2012), and Regulation 5.3(a)(3)(i), 17 C.F.R. Â§ 5.3(a)(3)()
+(2019); (b) Ross-Mahmoud and Mahmoud violated Sections 2(c)(2)(C)(iii)(1)(aa) of the Act and
+4k(3) of the Act, 7 U.S.C. Â§Â§ 2(c)(2)(C)(iii)(D(aa), 6k(3) (2012) and Regulation 5.3(a)(3)(ii),
+
+17 C.F.R. Â§ 5.3(a)(3)(ii) (2019); and (c) Ross-Mahmoud is liable as a control person for SSLâs
+and SSLSâs violations of Sections 2(c)(2)(C)(iii)(I)(bb) and 4m(1) of the Act and Regulation
+
+5.3(a)(3)(i).
+
+A.
+
+B,
+
+V. OFFER OF SETTLEMENT
+
+Respondents have submitted the Offer in which they, without admitting or denying the
+findings and conclusions herein:
+
+Acknowledge service of this Order,
+
+Admit the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+Waive:
+
+1,
+
+Go
+
+The filing and service of a complaint and notice of hearing;
+A hearing;
+
+All post-hearing procedures;
+
+Judicial review by any court;
+
+Any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+Any and all claims that they may possess under the Equal Access to Justice Act,
+
+5 U.S.C. Â§ 504 (2012), and 28 U.S.C. Â§ 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations,
+
+17 C.F.R. pt. 148 (2019), relating to, or arising from, this proceeding;
+
+Any and all claims that they may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, Â§Â§ 201-53, 110 Stat. 847,
+857-74 (codified as amended in scattered sections of 5 U.S.C. and 15 U.S.C,),
+relating to, or arising from, this proceeding; and
+
+Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order;
+
+Stipulate that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondents have consented in the Offer;
+Consent, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+1. Makes findings that SSL, SSLS, and Ross-Mahmoud violated Sections
+2(c)(2)(C)(iii)(TI)(bb) and 4m(1) of the Act, 7 U.S.C. Â§Â§ 2(c)(2)(C)Gii)() (bb),
+6m(1) (2012), and Regulation 5.3(a)(3)(i), 17 C.F.R. Â§ 5.3(a)(3)() (2019);
+
+2. Makes findings that Ross-Mahmoud and Mahmoud violated Sections
+2(c)(2)(C)(iii)(1)(aa) and 4k(3) of the Act, 7 U.S.C. Â§Â§ 2(c)(2)(C)Gii)(D (aa), 6k(3)
+(2012), and Regulation 5.3(a)(3)(i1), 17 C.F.R. Â§ 5.3(a)(3)(ii) (2019);
+
+3. Orders SSL, SSLS, and Ross-Mahmoud to cease and desist from violating Sections
+2(c)(2)(C)(11)(D) (bb) and 4m(1) of the Act and Regulation 5.3(a)(3)@)
+
+4, Orders Ross-Mahmoud and Mahmoud to cease and desist from violating Sections
+2(c)(2)(C)(a1i)(T) (aa) and 4k(3) of the Act and Regulation 5.3(a)(3)(41);
+
+5. Orders Respondents to pay, jointly and severally, a civil monetary penalty in the
+amount of seventy-five thousand dollars ($75,000.00) (âCMP Obligationâ), plus
+post-judgment interest;
+
+6. Orders Respondents and their successors and assigns to comply with the conditions
+and undertakings consented to in the Offer and as set forth in Part VI of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+SSL, SSLS, and Ross-Mahmoud shall cease and desist from violating Sections
+2(c)(2)(C)Gi1)(D)(bb) and 4m(1) of the Act, 7 U.S.C. Â§Â§ 2(c)(2)(C)(iii)(D (bb), 6m(1)
+(2012) and Regulation 5.3(a)(3)(i), 17 C.F.R. Â§ 5.3(a)(3)@) (2019);
+
+Ross-Mahmoud and Mahmoud shall cease and desist from violating Sections
+2(c)(2)(C)(iii)(D)(aa) and 4k(3) of the Act, 7 U.S.C. Â§Â§ 2(c)(2)(C) (iii) (Daa), 6k(3) (2012)
+and Regulation 5.3(a)(3)(ii), 17 C.F.R. Â§ 5.3(a)G)(ii) (2019);
+
+Respondents shall pay, jointly and severally, a civil monetary penalty in the amount of
+seventy-five thousand dollars ($75,000) (âCMP Obligationâ), plus post-judgment
+interest, within ten days of the date of the entry of this Order. If the CMP Obligation is
+not paid in full within ten days of the date of entry of this Order, then post-judgment
+interest shall accrue on the CMP Obligation beginning on the date of entry of this Order
+and shall be determined by using the Treasury Bill rate prevailing on the date of entry of
+this Order pursuant to 28 U.S.C. Â§ 1961 (2012).
+
+Respondents shall pay the CMP Obligation by electronic funds transfer, U.S. postal
+money order, certified check, bank cashierâs check, or bank money order. If payment is
+to be made other than by electronic funds transfer, then the payment shall be made
+payable to the Commodity Futures Trading Commission and sent to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+9-AMC-AR-CFTC@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondents shall contact Marie
+Thorne or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondents shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+
+Respondents and their successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+1. Public Statements: Respondents agree that neither they nor any of their
+successors and assigns, agents or employees under their authority or control shall
+take any action or make any public statement denying, directly or indirectly, any
+findings or conclusions in this Order or creating, or tending to create, the
+impression that this Order is without a factual basis; provided, however, that
+nothing in this provision shall affect Respondentsâ: (i) testimonial obligations; or
+(ii) right to take legal positions in other proceedings to which the Commission is
+not a party. Respondents and their successors and assigns shall comply with this
+agreement, and shall undertake all steps necessary to ensure that all of their agents
+and/or employees under their authority or control understand and comply with
+this agreement.
+
+2. Partial Satisfaction: Respondents understand and agree that any acceptance by
+the Commission of any partial payment of Respondentsâ CMP Obligation shall
+not be deemed a waiver of their obligation to make further payments pursuant to
+this Order, or a waiver of the Commissionâs right to seek to compel payment of
+any remaining balance.
+
+3. Change of Address/Phone: Until such time as Respondents satisfy in full their
+CMP Obligation as set forth in this Order, Respondents shall provide written
+notice to the Commission by certified mail of any change to their telephone
+number and mailing address within ten calendar days of the change.
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+@bat-| 2h
+Christopher J. Kifkpatrick â
+Secretary of the Commission
+
+Commodity Futures Trading Commission
+
+Dated: November 4, 2019

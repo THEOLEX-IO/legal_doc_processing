@@ -1,0 +1,987 @@
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 1 of 25 PAGEID #: 3
+
+oF Hu
+SHARD is SEL
+
+IN THE UNITED STATES DISTRICT COURT FOR THE: CEN OFC URe
+
+SOUTHERN DISTRICT OF OHIO
+EASTERN DIVISION
+
+UNITED STATES OF AMERICA
+Plaintiff,
+v.
+
+PETROS CONTOGURIS, a/k/a,
+PETROS CONTOGURIS-TROEMEL
+
+PTOCT 12 PH Is 49
+CASENO. 2 : 1 Py ing fh al Bs
+
+Aad, wg
+
+JUDGE Mareen: COLUMB YS
+
+ 
+
+INDICTMENT
+18 U.S.C. Â§ 371
+
+15 U.S.C. Â§ 78dd-2
+
+18 U.S.C. Â§ 1956(h)
+
+18 U.S.C. Â§ 1956(a)(2)(A) & (B)
+
+ 
+
+Defendant. 18 U.S.C. Â§ 2
+FORFEITURE
+UNDER SEAL
+THE GRAND JURY CHARGES:
+INTRODUCTION
+
+At all times relevant to this Indictment:
+
+Certain Relevant Persons and Entities
+
+lL. Rolls-Royce Energy Systems, Inc. (âRRESYâ), was a United States company
+
+headquartered in the Southern District of Ohio, and thus was a âdomestic concernâ within the
+
+meaning of the Foreign Corrupt Practices Act of 1977 (âFCPAâ), Title 15, United States Code,
+
+Section 78dd-2. RRESI was an indirect subsidiary of Rolls-Royce plc (âRolls-Royceâ), a
+
+publicly traded company in the United Kingdom, which was a holding company with major
+
+business operations in the civil, aerospace, defense, marine, and energy sectors worldwide.
+
+RRESI produced and supplied compressors and power turbines and provided aftermarket services
+
+for oil and gas and power generation projects in a number of countries worldwide, including
+
+Kazakhstan.
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 2 of 25 PAGEID #: 4
+
+2: Asia Gas Pipeline, LLP (âAGPâ) was a state-owned joint venture between
+Kazakhstanâs KazMunayGas and Chinaâs National Petroleum Corporation that was created to
+build and connect a gas pipeline between Kazakhstan and China. KazMunayGas was controlled
+by Kazakhstan and performed government functions on behalf of Kazakhstan. China National
+Petroleum Corporation was controlled by China and performed government functions on behalf of
+China. In addition, AGP was controlled by the Kazakh and Chinese governments and performed
+government functions for Kazakhstan and China. Thus, KazMunayGas, China National
+Petroleum Corporation, and AGP were each an âinstrumentalityâ within the meaning of the FCPA.
+
+3. âTechnical Advisor,â a company whose identity is known to the Grand Jury, was
+an international engineering and consulting firm with offices worldwide. Technical Advisor
+purported to provide independent engineering advice and project management in a number of
+business sectors, such as national infrastructure, oil and gas, and energy. Technical Advisor
+served as an independent engineering consultant to AGP.
+
+4. The defendant, PETROS CONTOGURIS, a/k/a PETROS CONTOGURIS-
+TROEMEL (âCONTOGURISâ), a Greek national and resident of Istanbul, Turkey, was the
+founder and Chief Executive Officer of Gravitas & CIE International Ltd. (âGravitasâ), a Turkey-
+based commercial agent and advisor for various oil and gas projects throughout the world.
+CONTOGURIS was a commercial agent for RRESI on the Asia Gas Pipeline project in
+Kazakhstan. CONTOGURIS was an âagentâ of a domestic concern within the meaning of the
+FCPA.
+
+5. Rolls-Royce Employee 1 (âRR-1â), an individual whose identity is known to the
+Grand Jury, was a Dutch national and an employee of Dutch subsidiaries of Rolls-Royce, with
+
+responsibility for selling equipment manufactured or assembled by RRESI.
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 3 of 25 PAGEID #: 5
+
+6. Rolls-Royce Employee 2 (âRR-2â), an individual whose identity is known to the
+Grand Jury, was a U.S. national and employee of Rolls-Royce with responsibility as a sales director
+for the sales of equipment manufactured and assembled by RRESI.
+
+7. Rolls-Royce Employee 3 (âRR-3â), an individual whose identity is known to the
+Grand Jury, was an executive of Rolls-Royce with responsibility over the Rolls-Royce energy sales
+division, including the sale of equipment manufactured and assembled by RRESI and on behalf of
+Rolls-Royce-affiliated entities in multiple countries worldwide.
+
+8. Technical Advisor Employee 1 (âTA-1â), an individual whose identity is known to
+the Grand Jury, was a Russian national and employee of the Almaty, Kazakhstan office of
+Technical Advisor. .
+
+9. Technical Advisor Employee 2 (âTA-2â), an individual whose identity is known to
+the Grand Jury, was an Austrian national and employee of the Munich, Germany office of
+Technical Advisor.
+
+10. Technical Advisor Employee 3 (âTA-3â), an individual whose identity is known to
+the Grand Jury, was an Armenian national and employee of the Beijing, China office of Technical
+Advisor.
+
+11. âForeign Official 1,â an individual whose identity is known to the Grand Jury, was
+a high-ranking Kazakh official of KazMunayGas, which had authority over AGP, and thus was a
+âforeign officialâ within the meaning of the FCPA. Foreign Official 1 had the authority to exert
+official influence over purchasing decisions at AGP. CONTOGURIS and the co-conspirators
+often referred to Foreign Official 1 as âFoxâ or âFuchs.â
+
+12. âForeign Representative,â an individual whose identity is known to the Grand Jury,
+
+was a Kazakh businessman and former Kazakh government official who acted as an agent and
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 4 of 25 PAGEID #: 6
+
+representative for Foreign Official 1âs dealings with CONTOGURIS, Rolls-Royce, RRESI,
+Technical Advisor, and the co-conspirators.
+
+13. âForeign Official 2,â an individual whose identity is known to the Grand Jury, was
+a high-ranking Chinese official of Petrochina and its subsidiaries that had authority over AGP, and
+thus was a âforeign officialâ within the meaning of the FCPA. Foreign Official 2 had the
+authority to exert official influence over purchasing decisions at AGP.
+
+General Allegations
+
+14. _ Rolls-Royce, through its U.S. subsidiary RRESI, retained CONTOGURIS to pay
+bribes to various individuals, including Foreign Official 1, in order to help Rolls-Royce and RRESI
+secure and maintain contracts with AGP. After securing the contracts, RRESI paid
+CONTOGURIS a percentage of the payments it received from AGP, which CONTOGURIS in
+turn divided with Foreign Official 1 and other co-conspirators.
+
+15. Specifically, in or around 2007, Kazakh and Chinese state-owned oil and gas
+companies entered into the AGP joint venture agreement to construct a gas pipeline stretching
+between Central Asia and China. Rolls-Royce, through RRESI, was among several companies
+bidding for contracts in the construction of the pipeline beginning in or around 2008. Rolls-Royce
+employees, including RR-1, RR-2, and RR-3, sought a commercial advisor with access to key
+decision-makers in Kazakhstan in order to secure some of the contracts that AGP was going to put
+out for tender. In particular, they had identified Foreign Official 1 as one of the key decision-
+makers and were exploring ways to set up a meeting with Foreign Official 1. In or around the
+same time, CONTOGURIS began working with TA-1, TA-2, and TA-3 to find a company willing
+to pay them kickbacks in exchange for them helping that company win contracts with AGP,
+
+including by paying bribes to Foreign Official 1 and others.
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 5 of 25 PAGEID #: 7
+
+16. â Rolls-Royce and RRESI, through RR-1, RR-2, RR-3, and others, began working
+toward an agreement with CONTOGURIS, TA-1, TA-2, and TA-3, and others, in or around late
+2008 when AGP was awarding the first project, Compressor Station 4. RRESI had put in its bid
+too late to influence the decision, however, and AGP awarded Compressor Station 4 to RRESIâs
+main competitor (âthe Competitorâ) in or around March 2009. The sides still continued to work
+on coming to an agreement whereby RRES] would pay CONTOGURIS a commission through
+his company Gravitas, which CONTOGURIS, Foreign Official 1, TA-1, TA-2, TA-3, and others,
+would split. AGP went on to award RRESI a contract for 11 of the 14 units comprising
+Compressor Stations 1, 2, 6 and 7 in or around November 2009 for approximately $145 million.
+AGP then made payments to RRESI starting in early 2010, and RRES]I in turn made commission
+payments to Gravitas.s CONTOGURIS passed a portion of those commissions onto TA-1 and
+TA-3, knowing that TA-1 and TA-3 were going to share that money with Foreign Official 1
+consistent with the corrupt agreement.
+
+COUNT ONE
+(Conspiracy to Violate the FCPA)
+
+17. Paragraphs 1 through 16 are re-alleged and incorporated by reference as though
+fully set forth herein.
+
+18. Beginning at least in or around 2008 and continuing through in or around 2012,
+within the Southern District of Ohio and elsewhere, the defendant,
+
+PETROS CONTOGURIS, a/k/a
+PETROS CONTOGURIS-TROEMEL,
+
+did knowingly and willfully, that is, with the intent to further the objects of the conspiracy,
+combine, conspire, confederate, and agree with others known and unknown, including, among
+others, RR-1, RR-2, and RR-3, to commit offenses against the United States, namely, to willfully
+
+make use of the mails and means and instrumentalities of interstate commerce corruptly in
+
+5
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 6 of 25 PAGEID #: 8
+
+furtherance of an offer, payment, promise to pay, and authorization of the payment of any money,
+offer, gift, promise to give, and authorization of the giving of anything of value, to a foreign official
+and to any person, while knowing that all, or a portion of such money and things of value would
+be and had been offered, given, and promised to a foreign official, for purposes of (i) influencing
+acts and decisions of such foreign official in his or her official capacity; (ii) inducing such foreign
+official to do and omit to do acts in violation of the lawful duty of such official; (iii) securing any
+improper advantage; and (iv) inducing such foreign official to use his or her influence with a
+foreign government and agencies and instrumentalities thereof, to affect and influence acts and
+decisions of such government and agencies and instrumentalities, in order to assist RRESI in
+obtaining and retaining business for and with, and directing business to, Rolls-Royce, RRESI,
+CONTOGURIS, and others, in violation of Title 15, United States Code, Section 78dd-2.
+Objects of the Conspiracy
+19. A principal purpose and object of the conspiracy was for CONTOGURIS and the
+co-conspirators to enrich themselves by paying bribes to foreign officials in Kazakhstan in order
+to obtain and retain business for Rolls-Royce, RRESI, and others, in connection with AGPâs gas
+pipeline between Kazakhstan and China.
+Manner and Means of the Conspiracy
+20. The manner and means by which CONTOGURIS, together with his co-
+conspirators and others known and unknown to the Grand Jury, sought to accomplish the object
+of the conspiracy included, among other things, the following:
+a. CONTOGURIS, RR-1, RR-2, RR-3, TA-1, TA-2, TA-3, and others, used
+telephone calls, Short Message Service (âSMSâ) and text messages, and electronic
+
+mail (âe-mailâ), among other means, to discuss bribe payments to foreign officials,
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 7 of 25 PAGEID #: 9
+
+including Foreign Official 1, in connection with Rolls-Royce and RRESIâs efforts
+to win business with AGP.
+
+b. CONTOGURIS, RR-1, RR-2, RR-3, TA-1, TA-2, TA-3, and others, traveled to
+and from the United States and several other countries to meet in person and arrange
+for bribe payments to be made to foreign officials, including Foreign Official 1, in
+order to assist Rolls-Royce and RRESI in winning business with AGP.
+
+ce. CONTOGURIS, RR-1, RR-2, RR-3, TA-1, TA-2, TA-3, and others, arranged
+meetings with Foreign Official 1 and Foreign Official 2 in order to solidify their
+influence in support of Rolls-Royce and RRESIâs attempts to obtain and retain
+business from AGP.
+
+d. CONTOGURIS, RR-1, RR-2, RR-3, TA-1, TA-2, TA-3, and others, caused Rolls-
+Royce and RRESI to enter into an advisor agreement with Gravitas, through which
+Rolls-Royce and RRESI paid commissions to Gravitas, which included bribes
+bound for foreign officials, including Foreign Official 1.
+
+e. CONTOGURIS, RR-1, RR-2, RR-3, TA-1, TA-2, TA-3, and others, took various
+surreptitious steps to promote and conceal the bribery scheme, including by (i)
+using code names, such as âFoxâ and âFuchs,â to refer to Foreign Official 1, and
+(ii) concealing the bribe payments to Foreign Official 1 within RRESIâs
+commission payments to Gravitas.
+
+f. CONTOGURIS, RR-1, RR-2, RR-3, TA-1, TA-2, TA-3, and others, transferred
+and caused to be transferred funds, including bribe payments, to and from bank
+accounts in the United States, Kazakhstan, the United Kingdom, the Bahamas,
+Singapore, Hong Kong, Switzerland, and elsewhere, to promote and conceal the
+
+bribery scheme.
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 8 of 25 PAGEID #: 10
+
+g. CONTOGURIS, RR-1, RR-2, RR-3, TA-1, TA-2, TA-3, and others, discussed and
+disseminated confidential and internal AGP and Technical Advisor documents and
+information to help Rolls-Royce and RRESI win business with AGP.
+
+h. CONTOGURIS, RR-1, RR-2, RR-3, TA-1, TA-2, TA-3, and others, used invoices
+in an attempt to provide the appearance of legitimacy to the commission payments
+and fund transfers.
+
+Overt Acts
+
+21. In furtherance of the conspiracy and to achieve the objects thereof, at least one of
+the co-conspirators committed, or caused to be committed, in the Southern District of Ohio and
+elsewhere, at least one of the following overt acts, among others:
+
+22. On or about September 25, 2008, CONTOGURIS, Foreign Representative, and
+RR-1 met in Moscow, Russia to discuss the ways in which CONTOGURIS and Foreign
+Representative could assist Rolls-Royce in winning business from AGP.
+
+23. On or about September 27, 2008, RRESI submitted a bid to AGP for Compressor
+Station 4.
+
+24. On or about October 30, 2008, CONTOGURIS and RR-3 flew to Kazakhstan,
+where they met with Foreign Official.1 and Foreign Representative.
+
+25. On or about November 27, 2008, RR-3 met with Foreign Official 2 and TA-3 in
+China and discussed potential business opportunities for Rolls-Royce with AGP, including
+supplying the gas turbine compressor packages for Compressor Station 4.
+
+26. On or about December 3, 2008, CONTOGURIS flew to London, England, where
+he met with RR-3, TA-2, Foreign Representative and Foreign Official 1.
+
+27. On or about December 4, 2008, CONTOGURIS e-mailed RR-3, copying TA-2,
+
+and recounting the December 3, 2008 meeting, stating:
+8
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 9 of 25 PAGEID #: 11
+
+[TA-2] and I sincerely hope that all of your concerns were laid to rest during the meeting
+with Mr. Fox. He has clearly taken a position and confirmed that [Foreign
+
+Representative] is designated as a welcome and reliable local partner. . . . You also saw
+how respectful [Foreign Representative] behaved vis-a-vis Mr. Fox. Everything is
+marching in the right direction.
+
+Mr. Fox authorized [TA-2] to let you benefit from receiving information when and if it is
+being produced in order to give you more time to prepare. This is also an indication that
+he wanted you to know that he is the âMaster of the gameâ.
+
+28. On or about December 12, 2008, CONTOGURIS e-mailed RR-1 and RR-3 a copy
+of an intemal AGP evaluation of the Competitorâs bid for Compressor Station 4.
+CONTOGURIS wrote: âJob has not been awarded. Best tactic to follow is to let me know what
+we offer in terms of short and medium/long term remuneration scheme. Will process this through
+[Foreign Representative] and hope to turn it around. [TA-3] says Chinese have no objection.
+Please do not make available to anyone else but addresses.â
+
+29. On or about December 27, 2008, RR-3 e-mailed CONTOGURIS a proposed
+engagement letter between Rolls-Royce and Gravitas for the AGP project that provided. for
+Gravitas to be paid a 2% commission on new equipment for the compressor stations on the pipeline
+and a 6% commission for aftermarket sales.
+
+30. On or about December 27, 2008, CONTOGURIS replied to RR-3âs e-mail:
+â[TA-1] told me yesterday that [Foreign Representative] would like to meet in Zurich ... . and take
+it to the next level.â
+
+31. On or about December 27, 2008, CONTOGURIS forwarded to TA-1 and TA-2
+the Rolls-Royce engagement letter from RR-3 and added a recap of where things stood, writing:
+âWe met with Mr. Fox and [Foreign Representative] on June 28th . . . and agreed on the basic
+principle of cooperation. On the 29th of August we had the unsuccessful meeting with [the
+Competitor] and commenced the canvassing of RR.â In the e-mail, CONTOGURIS also listed
+
+the meetings with RR-1, RR-2, and RR-3 over the previous few months, as well as âdozens of e-
+
+9
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 10 of 25 PAGEID #: 12
+
+mail exchanges and telephone calls,â before noting: âWe are four partners, TA-3, TA-1, TA-2
+and the undersigned.â
+
+32. On or about January 11, 2009, CONTOGURIS e-mailed TA-i and TA-2, and
+addressing TA-1, wrote:
+
+It may be stated without any doubt that without the joint efforts of [TA-2], [TA-1] and the
+
+undersigned (augmented by the valiant efforts of our friend and partner in Peking, [TA-3])
+
+the Kazakh Group led by [Foreign Representative] would not have been able to proceed to
+the status quo we have managed to be elevated to. .. . The âsecretâ weapon without much
+doubt, is the responsible role that the [Technical Advisor] is requested to assist [AGP] with
+the adjudication process. . . . I will do my best to bring [RR-1] and [RR-2] to the state-of-
+mind that will predicate our presence. . . . [Y]our contribution is to keep Fox in-line with
+
+the decision making process, however [TA-2] needs to head our efforts to negotiate a
+
+workable and therefore profitable deal for us.
+
+33. On or about January 15, 2009, RR-1, RR-2, TA-2 and CONTOGURIS met with
+Foreign Representative and his Swiss lawyers in Zurich, Switzerland. At the meeting, Foreign
+Representative explained that Rolls-Royceâs proposed bribe of 2% of the price for new equipment
+sales that Rolls-Royce received was not acceptable. Foreign Representative instead demanded a
+bribe of 10% of the new equipment sales and threatened that Rolls-Royce would not win any
+business if it did not agree.
+
+34. On or about January 19, 2009, TA-1 e-mailed TA-2 to update him on the Zurich
+meeting and wrote: âThe main purpose was to find a deal for the future RR activity in Kz and
+upcoming tender for CS 4.... RR informed they have no objection to a deal, but they need a
+clear source and company to deal via.â
+
+35. On or about January 20, 2009, RR-1 e-mailed RR-2 and RR-3 to report that he had
+a phone call with TA-2 and CONTOGURIS, and â[TA-1] is to meet mr fox either tomorrow or
+friday. He needs input on how far rr is willing to go. As discussed with [RR-2] last week this
+
+need[s] to come from reallicating [sic] the percentages. After that [RR-3] [w]ill need to meet mr
+
+fox to confirm this number on very short notice.â
+10
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 11 of 25 PAGEID #: 13
+
+36. On or about January 26, 2009, CONTOGURIS sent an e-mail to RR-1, RR-2, and
+RR-3, and wrote that in his âpersistent effort to render every kind of conceivable effort and
+endeavor to assist RR energy to be awarded the CS 4 and/or other contracts,â he was attaching
+internal AGP documents, which he summarized as demonstrating the Chinese side of AGPâs
+preferences for certain turbine specifications that could favor the Competitor.
+
+37. On or about January 26, 2009, RR-1 replied to CONTOGURISâs e-mail: âAs
+discussed earlier today we need all the support to tum Kazakhstan into our favor. Please ask
+you[r] friend [TA-3] to work from his angle. . . . I look forward to discuss [sic] our proposal . . .
+on the alternative solution to CS4.â
+
+38. On or about January 26, 2009, TA-2 e-mailed TA-3: âDear [TA-3], please do
+your utmost that [the Chinese partner at AGP] will consider RRâs proposal and start negotiations
+with them soonest. Copy of the RR bid will be submitted to you immediately.â
+
+39, On or about February 6, 2009, CONTOGURIS met with RR-1 and RR-2 in
+London, where they informed CONTOGURIS that based on the prior mecting in Zurich they
+would not move forward with CONTOGURIS as an advisor on the AGP bids if Foreign
+Representative continued to be involved.
+
+40. On or about February 24, 2009, CONTOGURIS and TA-2 had a conference call
+with RR-1 and RR-2, in which they agreed that Rolls-Royce would continue to work with
+CONTOGURIS on RRESIâs AGP bids without Foreign Representative.
+
+41. Onor about February 28, 2009, CONTOGURIS e-mailed TA-1 and TA-2, writing
+that âthe offensive behavior of [Foreign Representative] has led RR to not want to collaborate with
+him.â CONTOGURIS then proposed a way forward:
+
+Ihave suggested you [TA-1] be the official RR man on the ground in Kazakahstan [sic], in
+whatever function. ... GM or Chief Advisor Kazakhstan or whatever. . . . You secure the
+
+ll
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 12 of 25 PAGEID #: 14
+
+collaboration of your friend [Foreign Official 1]. Iam going to install [sic] an absolutely
+satisfactory system how future revenues are going to be distributed.
+
+CONTOGURIS, switching to the third person, then wrote: âWe shall distribute 60% to your
+friend and 10% each to our partner in China [TA-3], our partner in Kazakhstan [TA-1], our partner
+in Austria [TA-2] and our partner in Turkey [CONTOGURIS].â CONTOGURIS also
+proposed paying Foreign Official 1 his split of the Gravitas commission from Rolls-Royce through
+TA-1 via a Singaporean shell company.
+
+42. On or about March 5, 2009, TA-1 responded to CONTOGURIS: âI [met] Mr.
+Fox and we also discussed RR issue. He agreed and has nothing against that I will be in charge
+for dealing with RR. The scheme as in your e-mail might be implemented.â
+
+43. On or about March 20, 2009, AGP awarded the contract for Compressor Station 4
+to the Competitor.
+
+44. On or about May, 8, 2009, RRESI submitted its bid to supply AGP with 14 gas
+turbine compressor packages for Compressor Stations 1, 2, 6, and 7.
+
+45. On or about May 8, 2009, after RR-1, RR-2, RR-3, and others at RRESI realized
+that its margins were going to be much lower than it had first anticipated, RR-3 e-mailed
+CONTOGURIS a new commission agreement which provided for a Gravitas commission reduced
+from 2% to 1.5% on new equipment for the compressor stations on the pipeline and reduced from
+6% to 3% for aftermarket sales.
+
+46. On or about May 9, 2009, CONTOGURIS forwarded RR-3âs e-mail to TA-1 and
+wrote: âRR have told me that this is the absolute maximum they can afford in their calculation,
+whilst still remaining competitive. [TA-1] please be so kind and speak to your people and obtain
+
+their concurrence that this agreement should be countersigned and entered into.â
+
+12
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 13 of 25 PAGEID #: 15
+
+47. On or about May 12, 2009, TA-1 replied to the e-mail from CONTOGURIS
+referenced in Paragraph 46 above, stating: âJ should have a private meeting with Mr. Fox in
+several days. ... Meanwhile could you please advise â if I indicate 1,5% and then 3% and it [g]oes
+all to Fox&company where is our interest to be ingaged [sic] in the process?â
+
+48. On or about May 12, 2009, CONTOGURIS responded to the e-mail from TA-1
+referenced in Paragraph 47 above, stating: âBottom line is that I do not know how to answer your
+question. We have what we have and Fox has to at least share 2/3 1/3, we definitely do not want
+the business otherwise. . . .[I]f Fox is not agreeable to support the RR fully as and [sic] what we
+have on the table today, I will cancel the arrangement and tell them to go ahead without our
+
+support.â
+
+49. On or about June 6, 2009, TA-1 e-mailed CONTOGURIS after TA-1 met with
+
+âFox,â and wrote:
+
+Summary: R is very competitive from all points of view (technical and price). To
+
+negotiate the relations with R, at this point he indicated that 1,5 and 3 is not acceptable and
+
+proposed 3,5 and 3,5. But I clearly understood it is negotiable (I mean it should be a room
+
+for us, otherwise bringing the Client and working with him for a year for free itâs a
+
+nonsense). . . . I believe at least 0,5 should be reserved for us... .
+
+50. Onorabout June 12, 2009, CONTOGURIS sent an e-mail to TA-1 with the subject
+line âour friends in London,â explaining that CONTOGURIS tried to push Rolls-Royce to
+increase the Gravitas commission but it would not go further and was âprepared to walk away
+from the transaction completely.â CONTOGURIS noted: âThe corporate governance
+processes of this listed company is formidable, there are forty employees in a division that is
+specifically designed to avoid exactly this what your friend wants to do now.â
+
+51. On or about June 18, 2009, TA-1 responded to the e-mail from CONTOGURIS
+
+referenced in Paragraph 50 above, stating that âMr. Fox [wa]s getting angry,â that the âproposed
+
+13
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 14 of 25 PAGEID #: 16
+
+3,5 [wa]s already the lowest ever on the market,â and that â[t]he arguments â âlisted companyâ or
+âcorporate governance processâ they can leave for mass mediaâ because other âeven bigger
+caliberâ companies were always able to find a âcompromise.â
+
+52. On or about June 21, 2009, CONTOGURIS e-mailed TA-1 and TA-2 and stated:
+âTell Mr. Fuchs to proceed as is and we will cede 75% of the current agreement to your Singapore
+company. That means that you will receive 1.833.750,-USD at this stage and we will be satisfied
+with 611.000,-USD. ... As it is there are 6.7 Million lying on the table for Fuchs and 1.8 Million
+for us from phases 1 +2.â CONTOGURIS added: âThis is a listed company operating in a
+country where anti-corruption laws are the strictest in Europe. Ifit had not been for my 8 Billion
+USD track record and my business acumen shown, at least [TA-2] knows that, there would not be
+a deal on the table.â
+
+53. On or about August 3, 2009, RR-2 and RR-3 traveled to Astana, Kazakhstan and
+met with TA-1, where they discussed RRESIâs bid and prepared for AGPâs upcoming bid
+clarification meetings.
+
+34. On or about August 4, 2009, CONTOGURIS sent an e-mail to RR-3, copying TA-
+2, in which CONTOGURIS advised that he had learned that RRESTâs bid had a potential technical
+deficiency in the proposed emissions efficiency and that one way to address it involved going
+âthrough [TA-3]âs Chinese support structureâ where TA-3 had âunimaginable waysâ of âreachingâ
+into the Chinese government.
+
+55. On or about August 10, 2009, TA-1 e-mailed RR-3: âI have discussed with Fox
+the issue. Diplomatically he answered support will be provided, but now also a lot depends on
+your technical clarification.â
+
+56. On or about August 13, 2009, RR-2 and RR-3 visited CONTOGURIS at his home
+
+in Istanbul, Turkey and confirmed that they would increase the commission percentage RRESI
+14
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 15 of 25 PAGEID #: 17
+
+would pay to Gravitas for new equipment by .75% (for a total of 2.25%) if RRESI won all 14
+turbines that were up for bid (for Compressor Stations 1, 2, 6 and 7), and .25% (for a total of
+1.75%) if it won fewer than all 14.
+
+57. On or about August 14, 2009, TA-3 e-mailed CONTOGURIS and relayed that he
+had learned that âChinese preferable option is: CS No-1 for [the Competitor] (from supply
+schedule reason and âif Kazakh side can keep a faceâ). Other 3 station for RR... .â
+
+58. On or about August 14, 2009, CONTOGURIS e-mailed TA-1 and TA-2,
+summarizing the split between Foreign Official 1 and TA-1, TA-2, TA-3, and CONTOGURIS:
+âThat means the final picture is the following: In case all 14 machines are awarded the Foxtrott
+Co will receive 1.50%, the balance will go to the âQuatrumphirateâ. In case less than 14 machines,
+the 1.25% will go to Foxtrott Co and the balance will go to âQuatrumphirate.â.â
+
+59. On or about August 15, 2009, TA-1 replied to the e-mail from CONTOGURIS
+referenced in Paragraph 58 above, stating: âI made my best recently to sort out at least our
+position towards [RR-3] and lialize [sic] with Fox.â TA-1 explained that â[w]hat [wa]s more
+difficult was to influence [sic] [Technical Advisorâs] engineers!â
+
+60. On or about August 28, 2009, after individuals within the Kazakh side of AGP
+circulated an internal memorandum deeming RRESIâs bid âtechnically unacceptableâ and
+recommending disqualification, TA-2 attached the memorandum to an e-mail to TA-3, and copied
+CONTOGURIS. TA-2 noted that, âthe Kazakhs have used the weak points of RR and calculated
+very high financial losses,â and asked TA-3, âHow is the situation now?â
+
+61. On or about August 28, 2009, CONTOGURIS forwarded to RR-3 the e-mail
+referenced in Paragraph 60 above and wrote that TA-3 was âreporting from Pekingâ that a Chinese
+foreign official told him that nothing was decided yet and that they were âtrying [their] best to
+
+increase the leverage from Chinese side, to stop the bloody Kazak [sic].â
+
+15
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 16 of 25 PAGEID #: 18
+
+62. Onor about August 30, 2009, TA-1 met with Foreign Official 1 to discuss AGPâs
+internal recommendation to disqualify RRESI.
+
+63. On or about September 6, 2009, RR-3 sent an SMS. or âtext messageâ to TA-1
+saying âthe deal with fox is cancelled.â
+
+64. . On or about September 7, 2009, TA-1 e-mailed RR-3, copied RR-2 and
+CONTOGURIS, and explained that Foreign Official 1 had âinitiated an internal investigationâ
+into the memorandum disqualifying RRESI while Technical Advisor had refused to endorse it.
+TA-1 explained that â[bJecause of Fox and our company position (plus to certain extend [sic]
+Chinese position) [the disqualification] decision is blocked.â Referring to RR-3âs SMS, TA-1
+then wrote âTâm stick [sic] to . . . agreements reached, unless they are cancelled. I feel regret now
+to be involved in all this discussions (which, as gentlemen, we should keep absolutely in high
+confidentiality). Also my reputation (in front of Fox, for example) can be harmed.... Ikindly
+ask you asap to confirm/or not your sms.â
+
+65. On or about September 11, 2009, CONTOGURIS e-mailed RR-2 and RR-3,
+attaching a confidential written report from Technical Advisor setting out arguments for why the
+internal memorandum disqualifying RRESI was incorrect and proclaiming that RRESIâs bid was
+acceptable. In the e-mail, CONTOGURIS wrote: âI sincerely hope that your previously
+mentioned grievances have been put to rest. . .. 1 am sure you can âuseâ this adequately. If you
+cannot provide access of this document to your Chinese friends, please let me know and I will
+inform [TA-3] to hand it over officially.â
+
+66. On or about November 22, 2009, AGP awarded RRESI a contract to supply 11 of
+the 14 gas turbine compressor packages for approximately $145 million.
+
+67. | Approximately three days later, on or about November 25, 2009, Gravitas and
+
+RRESI executed a written advisor agreement.
+16
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 17 of 25 PAGEID #: 19
+
+68. On or about the following dates, CONTOGURIS, RR-1, RR-2, RR-3, TA-1, TA-
+2, TA-3, and others, caused AGP to make the following corrupt payments from AGPâs. bank
+accounts in Kazakhstan to bank accounts belonging to RRESI in Mount Vernon, Ohio, located in
+the Southern-District of Ohio, with the knowledge and intent to use part of the corrupt payments
+
+to bribe Foreign Official 1 in furtherance of the corrupt bribery scheme:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Overt Act Date Amount
+
+68.a. January 14, 2010 $43,589,766.00
+68.b. July 7, 2010 $10,563,820.08
+68.c. October 4, 2010 $10,563,820.08
+68.d. October 28, 2010 $10,563,820.08
+68.e. December 3, 2010 $7,920,234.52
+68.f. January 5, 2011 $10,563,820.08
+68.g. June 10, 2011 $7,920,234.52
+68.h. December 30, 2011 $14,088,937.34
+68j. June 24, 2013 $18,484,054.60
+68.k. July 5, 2013 $10,563,820.08
+
+ 
+
+ 
+
+69. On or about the following dates, CONTOGURIS, RR-1, RR-2, RR-3, TA-1, TA-
+2, TA-3, and others, caused RRESI to make the following corrupt commission payments from
+RRESIâs bank accounts in Mount Vernon, Ohio, located in the Southern District of Ohio, to
+Gravitasâs bank accounts in the United Kingdom, with the knowledge and intent to use part of the
+
+commission payments to bribe Foreign Official 1 in furtherance of the corrupt bribery scheme:
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 18 of 25 PAGEID #: 20
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Overt Act Date Amount
+
+69.a. April 27, 2010 $732,877.21
+69.b. October 1, 2010 $177,683.30
+69.c. December 14, 2010 $355,366.59
+69.d. February 24, 2011 $133,218.23
+69.e, April 19, 2011 $177,683.30
+69.F. September 21, 2011 $133,218.23
+69.g. March 8, 2012 $236,975.71
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+70. âIn or around February 2010, CONTOGURIS lobbied RR-3 for the full 2.25%
+commission even though RRESI won fewer than the 14 total units up for bid.
+
+71. On or about February 27, 2010, after RR-3 refused to pay more than the agreed
+upon 1.75%, CONTOGURIS sent RR-3 an SMS: âVery sad that after positioning RR with a lot
+of patience and continuous follow-up from my side, that you have not seen it necessary to
+personally attend to outstanding matters, which is necessary.â
+
+72. | Onor about February 27, 2010, CONTOGURIS forwarded the SMS referenced in
+Paragraph 71 above as an e-mail to TA-2 and wrote: âTell Fuchs no dice from RR.â
+
+73. In or around August 2010, TA-1 told CONTOGURIS and TA-2 that Foreign
+Official 1 would agree to accept a lump sum of $500,000 USD from CONTOGURIS as the
+payment for the RRESI award rather than wait until CONTOGURIS received all of the
+commission payments from RRESI.
+
+74. Onor about September 19, 2010, TA-1 sent an e-mail to CONTOGURIS and TA-
+2, in which he attached a document with details for his Singaporean shell corporation and wrote:
+
+âKindly asking you to proceed.â
+18
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 19 of 25 PAGEID #: 21
+
+75. On or about February 14, 2011, CONTOGURIS made the first of approximately
+six transfers of the commissions RRESI paid to Gravitas from the U.K. bank account to accounts
+in the Bahamas and Switzerland.
+
+76. On or about February 14, 2011, TA-1âs accountant sent TA-1 five invoices from
+TA-3 to TA-1âs Singaporean shell corporation. The invoices falsely stated that they were for
+partial payments for purported work done on a âbusiness development project in China carried out
+in 2008,â and were dated from 2008 and 2009.
+
+77. On or about February 17, 2011, TA-1âs Singaporean shell corporation wired
+approximately $99,230 to TA-3âs bank account in Hong Kong.
+
+78. On or about March 15, 2011, CONTOGURIS wired $500,000 from a bank account
+in the Bahamas to TA-1âs bank account in Switzerland.
+
+79. On or about March 15, 2011, CONTOGURIS sent an e-mail to TA-1 with a subject
+of âFinal payment of personal debts,â and wrote: âI finally managed to make the transfer
+yesterday and have finally been able to settle all the loans extended to me . . . as agreed, total sum
+500K.â
+
+80. On or about March 9, 2012, approximately one day after RRESI paid its last
+commission payment installment to Gravitas, CONTOGURIS transferred approximately
+$232,223 of the $236,975 to his bank account in Switzerland.
+
+81. On or about April 11, 2012, TA-3 e-mailed CONTOGURIS two invoices, both
+dated March 30, 2012, each in the amount of $25,000. The invoices requested payment for â[TA-
+3]âs fees for services rendered for successfully negotiating and signing for and on behalf of
+Gravitasâ on a project in China.
+
+82. On or about April 17, 2012, CONTOGURIS wired approximately $50,000 from a
+
+bank account in the Bahamas to TA-3âs bank account in Hong Kong.
+19
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 20 of 25 PAGEID #: 22
+
+All in violation of Title 18, United States Code, Section 371.
+
+COUNTS TWO THROUGH EIGHT
+(15 U.S.C. Â§ 78dd-2 and 18 U.S.C. Â§ 2 â Foreign Corrupt Practices Act)
+
+83. Paragraphs 1 through 16 and 19 through 82 are re-alleged and incorporated by
+reference as though fully set forth herein.
+
+84. On or about the dates set forth below, in the Southern District of Ohio and
+elsewhere, the defendant,
+
+PETROS CONTOGURIS,
+a/k/a PETROS CONTOGURIS-TROEMEL,
+
+being an agent of a domestic concern, did willfully make use of and cause to be used the mails and
+means and instrumentalities of interstate commerce corruptly in furtherance of an offer, payment,
+promise to pay, and authorization of the payment of any money, offer, gift, promise to give, and
+authorization of the giving of anything of value, to a foreign official and to any person, while
+knowing that all, or a portion of such money and things of value would be and had been offered,
+given, and promised to a foreign official, for purposes of (i) influencing acts and decisions of such
+foreign official in his or her official capacity; (ii) inducing such foreign official to do and omit to
+do acts in violation of the lawful duty of such official; (iii) securing any improper advantage; and
+(iv) inducing such foreign official to use his or her influence with a foreign government and
+agencies and instrumentalities thereof, to affect and influence acts and decisions of such
+government and agencies and instrumentalities, in order to assist RRESI and others known and
+unknown, in obtaining and retaining business for and with, and directing business to,
+CONTOGURIS, Rolls-Royce, RRESI, and others, to wit: causing the following wire transfers
+
+to be made from RRESIâs bank accounts in Mount Vernon, Ohio, located in the Southern District
+
+20
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 21 of 25 PAGEID #: 23
+
+of Ohio, to Gravitasâs bank accounts in the United Kingdom, and aiding and abetting such wire
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+transfers:
+
+COUNT DATE AMOUNT
+
+2 April 27, 2010 $732,877.21
+3 October 1, 2010 $177,683.30
+4 December 14, 2010 $355,366.59
+5 February 24, 2011 $133,218.23
+6 April 19, 2011 $177,683.30
+7 September 21, 2011 $133,218.23
+8 March 8, 2012 ; $236,975.71
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+All in violation of Title 15, United States Code, Section 78dd-2 and Title 18, United States
+
+Code, Section 2.
+COUNT NINE
+(18 U.S.C. Â§ 1956(h) â Money Laundering Conspiracy)
+
+85. Paragraphs 1 through 16 and 19 through 82 are re-alleged and incorporated by
+reference as though fully set forth herein.
+
+86. On or about the dates set forth below, in the Southern District of Ohio and
+elsewhere, the defendant,
+
+PETROS CONTOGURIS,
+a/k/a PETROS CONTOGURIS-TROEMEL,
+
+together with TA-1, TA-2, TA-3, and others known and unknown to the Grand Jury, willfully and
+knowingly did combine, conspire, confederate, and agree together with each other to commit
+
+offenses under Title 18, United States Code, Section 1956, namely, to transport, transmit, and
+
+2]
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 22 of 25 PAGEID #: 24
+
+transfera monetary instrument and funds from a place in the United States to and through a place
+outside the United States, and to a place in the United States from and through a place outside the
+United States, (A) with the intent to promote the carrying on of specified unlawful activity, namely,
+bribery of a foreign official, a felony violation of the FCPA, Title 15, United States Code, Section
+78dd-2, and (B) knowing that the monetary instrument and funds involved in the transportation,
+transmission, and transfer represented proceeds of some form of unlawful activity, namely, bribery
+of a foreign official, a felony violation of the FCPA, Title 15, United States Code, Section 78dd-
+2, and knowing that such transportation, transmission, and transfer was designed in whole or in
+part to conceal and disguise the nature, the location, the source, the ownership and the control of
+the proceeds of specified unlawful activity, in violation of Title 18, United States Code, Section
+1956(a)(2)(A), (B).
+
+All in violation of Title 18 United States Code, Section 1956(h).
+
+COUNTS TEN THROUGH NINETEEN -
+(18 U.S.C. Â§Â§ 1956(a)(2)(A), (B), & 2 â Money Laundering)
+
+87. Paragraphs 1 through 16 and 19 through 82 are re-alleged and incorporated by
+reference as though fully set forth herein.
+
+88. On or about the dates set forth below, in the Southern District of Ohio and
+elsewhere, the defendant,
+
+PETROS CONTOGURIS,
+a/k/a PETROS CONTOGURIS-TROEMEL,
+
+transported, transmitted, and transferred, and attempted to transport, transmit, and transfer, a
+monetary instrument and funds from a place in the United States to and through a place outside
+the United States, and to a place in the United States from and through a place outside the United
+
+States, (A) with the intent to promote the carrying on of specified unlawful activity, namely,
+
+22
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 23 of 25 PAGEID #: 25
+
+bribery of a foreign official, a felony violation of the FCPA, Title 15, United States Code, Section
+78dd-2, and (B) knowing that the monetary instrument and funds involved in the transportation,
+transmission, and transfer represented proceeds of some form of unlawful activity, namely, bribery
+of a foreign official, a felony violation of the FCPA, Title 15, United States Code, Section 78dd-
+2, and knowing that such transportation, transmission, and transfer was designed in whole or in
+part to conceal and disguise the nature, the location, the source, the ownership and the control of
+the proceeds of specified unlawful activity, to wit: causing the following wire transfers from
+AGPâs bank accounts in Kazakhstan to RRESIâs bank accounts in in Mount Vernon, Ohio, located
+
+in the Southern District of Ohio, and aiding and abetting such wire transfers:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COUNT DATE OF OFFENSE AMOUNT
+
+10 January 14, 2010 $43,589,766.00
+11 - | July 7, 2010 $10,563,820.08
+12 October 4, 2010 $10,563,820.08
+13 October 28, 2010 $10,563,820.08
+14 December 3, 2010 $7,920,234.52
+15 January 5, 2011 $10,563,820.08
+16 June 10, 2011 $7,920,234.52
+17 December 30, 2011 $14,088,937.34
+18 June 24, 2013 $18,484,054.60
+19 July 5, 2013 $10,563,820.08
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+All in violation of Title 18, United States Code, Sections 1956(a)(2)(A), (B), and 2.
+
+23
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 24 of 25 PAGEID #: 26
+
+CRIMINAL FORFEITURE ALLEGATION
+(18 U.S.C. Â§ 981(a\(1)(C) & 28 U.S.C. Â§ 2461(c))
+
+89. Paragraphs 1 through 88 of this Indictment are hereby re-alleged and incorporated
+by reference for the purpose of alleging forfeitures to the United States pursuant to Title 18, United
+States Code, Section 981(a)(1)(C) and Title 28, United States Code, Section 2461(c).
+
+90. Upon conviction of one or more violations of Title 15, United States Code, Section
+78dd-2 and/or Title 18, United States Code, Section 371, as alleged -in this Indictment, the
+defendant, PETROS CONTOGURIS, a/k/a PETROS CONTOGURIS-TROEMEL, shall
+forfeit to the United States, pursuant to Title 18, United States Code, Section 981(a)(1)(C) and
+Title 28, United States Code, Section 2461(c), any property, real or personal, constituting or
+derived from proceeds traceable to such offense(s).
+
+Substitute Assets
+
+91. If any of the forfeitable property described above, as a result of any act or omission
+
+by the defendant, PETROS CONTOGURIS, a/k/a PETROS CONTOGURIS-TROEMEL:
+
+a. cannot be located upon the exercise of due diligence;
+
+b. has been transferred or sold to, or deposited with, a third party;
+
+c. has been placed beyond the jurisdiction of the Court;
+
+d. has been substantially diminished in value; or
+
+e. has been commingled with other property which cannot be divided without
+
+difficulty,
+
+it is the intent of the United States of America, pursuant to Title 21, United States Code, Section
+853(p), as incorporated by Title 18, United States Code, Section 982(b)(1) and Title 28, United
+
+States Code, Section 2461(c), to seek forfeiture of any other property of the defendant, PETROS
+
+24
+Case: 2:17-cr-00233-EAS Doc #: 3 Filed: 10/12/17 Page: 25 of 25 PAGEID #: 27
+
+CONTOGURIS, a/k/a PETROS CONTOGURIS-TROEMEL, up to the value of the above
+
+forfeitable property.
+Forfeiture pursuant to Title 18, United States Code, Section 981(a)(1)(C), Title 28, United
+
+States Code, Section 2461(c), and Rule 32.2 of the Federal Rules of Criminal Procedure.
+
+A TRUE BILL.
+
+_â_
+
+SANDRA MOSER BENJAMIN C. GLASSMAN
+ACTING CHIEF, FRAUD SECTION UNITED STATES ATTORNEY
+
+a
+
+KEVIN R. GIN S
+
+ 
+
+VANESSA SNYDER .
+Trial Attorneys, Criminal Division Assistant United States Attorneys
+U.S. Department of Justice Southern District of Ohio
+
+25

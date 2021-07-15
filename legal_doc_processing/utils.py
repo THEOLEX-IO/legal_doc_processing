@@ -1,11 +1,16 @@
+# live coding
 # import re
+# from itertools import product
 
 # import requests
 # import asyncio
+
+import os
+
 import numpy as np
 import pandas as pd
-
-# import numpy as np
+from sklearn.feature_extraction.text import TfidfVectorizer
+import pdb
 
 # import heapq
 # import nltk
@@ -15,7 +20,63 @@ from transformers import pipeline
 
 # AutoModelForTokenClassification, AutoTokenizer
 
-# from itertools import product
+from legal_doc_processing import logger
+
+
+def dummy_accuracy(y, pred) -> int:
+    """ """
+
+    try:
+        y, pred = int(y), int(pred)
+        val = int(y == pred)
+        print(val)
+        return val
+
+    except Exception as e:
+        print(e)
+        print(-1)
+        return -1
+
+    print(-2)
+    return -2
+
+
+def sub_cosine_similarity(list_corpus: list) -> object:
+    """ """
+
+    vect = TfidfVectorizer(min_df=1, stop_words="english")
+
+    tfidf = vect.fit_transform(list_corpus)
+    pairwise_similarity = tfidf * tfidf.T
+
+    return pairwise_similarity
+
+
+def cosine_similarity(y: str, pred: str) -> float:
+    """eval accuracy based on cosine similarity of 2 list of answers """
+
+    # check if args are OK
+
+    # separer y et pred (string avec virgugles) en liste de string
+    y_list = [i.strip().lower() for i in y.split(",")]
+    pred_list = [i.strip().lower() for i in pred.split(",")]
+
+    # add artificialy pred at begin of y_list
+    y_pred_list = [[i] + y_list for i in pred_list]
+
+    # poiur chaque candidat pred -> evaluer la cosine similarity
+    cos_y_pred_arrays = [sub_cosine_similarity(i).toarray() for i in y_pred_list]
+
+    # prendre pour chaque pred le 1er ligne et oublier le 1er chiffre (cf matrice identité probkem)
+    cos_y_pred_list = np.array([i[0][1:] for i in cos_y_pred_arrays])
+
+    # prendre le max de chaque lignes
+    max_cos_y_pred = np.array([max(i) for i in cos_y_pred_list])
+
+    # soit retour de la liste restante
+    # soit mean de cette list
+
+    return max_cos_y_pred.mean()
 
 
 def softmax(x):
@@ -55,7 +116,7 @@ def uniquize(iterable: list) -> list:
 def strize(item_list):
     """ """
 
-    non_null = [(i, j) for i, j in item_list if j > 0]
+    non_null = [(i, j) for i, j in item_list if j > -1]
     if not non_null:
         return ""
 
@@ -63,29 +124,29 @@ def strize(item_list):
 
     unique_l = uniquize(clean_l)
 
-    return ",".join(clean_l(unique_l))
+    return ";;".join(clean_l(unique_l))
 
 
 def get_spacy():
     return spacy.load("en_core_web_sm")
 
 
-def _if_not_spacy(nlpspa):
+def _if_not_spacy(nlspa):
     """ if  not nlpipeline instance and return it else return pipeline already exists"""
 
-    return nlpspa if nlpspa else get_spacy()
+    return nlspa if nlspa else get_spacy()
 
 
-def get_label_(txt: str, label: str, nlpspa=None) -> list:
+def get_label_(txt: str, label: str, nlspa=None) -> list:
     """check if a label in a text"""
 
     # print(label)
-    nlpspa = _if_not_spacy(nlpspa)
+    nlspa = _if_not_spacy(nlspa)
 
     label = label.upper().strip()
-    assert label in ["PERSON", "ORG", "MONEY", "DATE"]
+    assert label in ["PERSON", "ORG", "MONEY", "DATE", "GPE"]
 
-    ans = [i for i in nlpspa(txt).ents if i.label_ == label]
+    ans = [i for i in nlspa(txt).ents if i.label_ == label]
     ans = [str(p) for p in ans]
 
     return ans
@@ -125,7 +186,7 @@ def _ask(txt: str, quest: str, nlpipe, topk: int = 3) -> list:
     return nlpipe(question=quest, context=txt, topk=topk)
 
 
-def ask_all(txt, quest_pairs, nlpipe) -> list:
+def ask_all(txt, quest_pairs, sent_id=None, sent=None, nlpipe=None) -> list:
     """asl all questions and return a list of dict """
 
     # txt
@@ -139,9 +200,19 @@ def ask_all(txt, quest_pairs, nlpipe) -> list:
     ans = []
 
     # loop
+    logger.info(f"quest_pairs : {quest_pairs} , len {quest_pairs} ")
+    # pdb.set_trace()
+
     for quest, label in quest_pairs:
+
+        logger.info(f"quest_pairs : {quest_pairs} ")
         ds = _ask(txt=txt, quest=quest, nlpipe=nlpipe)
         _ = [d.update({"question": label}) for d in ds]
+        if sent_id:
+            _ = [d.update({"sent_id": sent_id}) for d in ds]
+        if sent:
+            _ = [d.update({"sent": sent}) for d in ds]
+
         ans.extend(ds)
 
     # sort
@@ -179,16 +250,16 @@ def merge_ans(ans, label="new_answer", threshold=0.1):
     return ll
 
 
-# def get_pers(txt: str, nlpspa=None) -> list:
+# def get_pers(txt: str, nlspa=None) -> list:
 #     """ with spacy get entities PERSON"""
 
-#     return get_label_(txt, "PERSON", nlpspa)
+#     return get_label_(txt, "PERSON", nlspa)
 
 
-# def get_orgs(txt: str, nlpspa=None) -> list:
+# def get_orgs(txt: str, nlspa=None) -> list:
 #     """ with spacy get entities ORG"""
 
-#     return get_label_(txt, "ORG", nlpspa)
+#     return get_label_(txt, "ORG", nlspa)
 
 
 # def clean_spec_chars(text: str) -> tuple:
@@ -327,3 +398,24 @@ def merge_ans(ans, label="new_answer", threshold=0.1):
 #     df.to_csv("./data/csv/dataset.csv", index=False)
 
 #     return df
+
+
+def main_X_y(
+    path: str = "./data/csv/", y: str = "random_y", text: str = "random_text"
+) -> pd.DataFrame:
+    """ """
+
+    cands = os.listdir(path)
+    text_file = [i for i in cands if text in i][0]
+    y_file = [i for i in cands if y in i][0]
+
+    text_df = pd.read_csv(path + text_file)
+    y_df = pd.read_csv(path + y_file)
+
+    drop_cols = [i for i in y_df.columns if "link" in i]
+    y_df.drop(drop_cols, axis=1, inplace=True)
+    y_df.drop("juridiction", axis=1, inplace=True)
+
+    new_df = text_df.merge(y_df, on="folder", how="inner", copy=True)
+
+    return new_df

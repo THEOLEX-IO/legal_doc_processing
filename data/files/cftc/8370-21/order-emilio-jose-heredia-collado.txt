@@ -1,0 +1,532 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+RECEIVED CFTC
+
+ 
+
+   
+
+In the Matter of: s â5,
+3 =
+% e
+Emilio JosÃ© Heredia Collado, Kona âes
+CFTC Docket No. 21-04 Office of Proceedings
+
+Proceedings Clerk
+7:03 am, Mar 25, 2021
+
+Respondent.
+
+a ae a ae a ee
+
+ 
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+L INTRODUCTION
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+Emilio JosÃ© Heredia Collado (âHerediaâ or âRespondentââ) has violated Sections 6(c)(3) and
+9(a)(2) of the Act, 7 U.S.C. Â§Â§ 9(3), 13(a)(2) (2018), and Regulation 180.2, 17 CFR. Â§ 180.2
+(2020) of the Commission Regulations (âRegulationsâ). Therefore, the Commission deems it
+appropriate and in the public interest that public administrative proceedings be, and hereby are,
+instituted to determine whether Respondent engaged in the violations set forth herein and to
+determine whether any order should be issued imposing remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Respondent admits the facts set forth below, acknowledges that his conduct violated the Act and
+Regulations, admits the Commissionâs jurisdiction over him and the subject matter of these
+proceedings, consents to the entry of this Order Instituting Proceedings Pursuant to Section 6(c)
+and (d) of the Commodity Exchange Act, Making Findings, and Imposing Remedial Sanctions
+(âOrderâ) and acknowledges service of this Order.
+
+II. FINDINGS
+The Commission finds the following:
+A. Summary
+
+From as early as June 2012 through at least August 2016 (âRelevant Periodâ), while
+employed as a fuel oil trader in the San Francisco office of a commodity trading firm (âCompany
+Aâ) and then the UâS. affiliate of a multinational commodity trading company (âCompany Bâ)
+that acquired Company A (collectively, the âTrading Companyâ), Respondent and others at the
+Trading Company sought to increase profits from its oil products trading by manipulating a U.S.
+price-assessment benchmark relating to physical fuel oil products. Respondent and others
+engaged in the manipulation to benefit the Trading Companyâs trading positions.
+
+Respondent engaged in the manipulation, and directed and induced personnel under his
+supervision to engage in the manipulation, in order to manipulate the benchmark prices of fuel
+oil products reported by S&P Global Platts (âPlattsâ), a price reporting agency, for the purpose
+of benefiting the Trading Companyâs related trading positions, including more than
+approximately 100 multimillion-dollar oil-product trades with a large, state-owned enterprise
+(the âSOEâ) that were priced in reference to a Platts benchmark. Respondent engaged in this
+conduct with the specific intent to manipulate the price of a commodity in interstate commerce
+and to create artificial prices, and Respondent could and did create artificial prices. By this
+conduct, Respondent engaged in attempted manipulation and manipulation, in violation of
+Sections 6(c)(3) and 9(a)(2) of the Act, 7 U.S.C. Â§Â§ 9(3), 13(a)(2) (2018), and Regulation 180.2,
+17 CE.R. Â§ 180.2 (2020).
+
+In accepting Respondentâs Offer, the Commission recognizes Respondentâs entry into a
+formal cooperation agreement (âCooperation Agreementâ) with the Division of Enforcement
+(âDivisionâ), which sets forth the terms of his agreement to cooperate with the Commission and
+the Division in connection with any investigation, litigation, or proceeding to which the
+Commission is a party relating to the subject matter of this Order and/or as described in the
+Cooperation Agreement.
+
+B. Respondent
+
+Emilio JosÃ© Heredia Collado is a former fuel oil trader who resides in California.
+Throughout the Relevant Period, Heredia was a trader at the Trading Company. Heredia has
+never been registered with the Commission.
+
+C. Facts
+
+During the Relevant Period, Respondent engaged in and oversaw trading of a variety of
+oil products on behalf of the Trading Company, including fuel oil and bunker fuel, a type of fuel
+oil.
+
+1. The Trading Activity and Benchmark Exposure
+
+Among other things, the Trading Companyâs trading activities engaged in or overseen by
+Respondent included large-quantity trades, sometimes called âcargos,â of fuel oil. Respondent
+also oversaw smaller-quantity trades of bunker fuel, sometimes called âbunkers,â typically with
+end-users such as ship owners. Among the cargo trades engaged in or overseen by Respondent
+were numerous cargo trades with the SOE (the âCargo Tradesâ), including those for delivery to
+and from the Los Angeles market.
+
+During the Relevant Period, more than approximately 100 Cargo Trades with the SOE
+were priced in reference to a benchmark price assessment determined by Platts called the Bunker
+Fuel Oil 380 CST 3.5% Ex-Wharf Los Angeles (the âLos Angeles Bunker Benchmarkâ), plus or
+minus a specified dollar amount negotiated by the parties, on specified days (âCargo Pricing
+Daysâ). Like other Platts benchmarks, Platts widely reported the daily Los Angeles Bunker
+Benchmark as part of its subscription market-reporting services, which information end-users
+and other market participants used as price benchmarks in the shipping and bunker industries.
+
+During the Relevant Period, Platts generally determined the Los Angeles Bunker
+Benchmark for a given day based primarily on bids to purchase, offers to sell, and trades in
+bunker fuel during a defined period of time called the âwindowâ that Platts-authorized market
+participants reported to Platts, and which Platts then widely reported to subscribers.! Each day,
+before commencement of the trading window, Platts typically reported to market participants a
+market price level referred to as the âpeg.â The peg typically served as the starting price at the
+beginning of the trading window for Platts-authorized market participantsâ bids or offers. Platts
+typically determined the peg in part based on information about trades or other market
+information that market participants such as the Trading Company reported to Platts.
+
+On Cargo Pricing Days the Trading Companyâs trading positions generally had
+significant price exposure to the Los Angeles Bunker Benchmark. When the Cargo Trades were
+sales by the Trading Company to the SOE, the Trading Companyâs Cargo Trade position would
+be more profitable if the average Los Angeles Bunker Benchmark on the Cargo Pricing Days
+was higher: if the Los Angeles Bunker Benchmark rose, the Trading Company would sell to the
+SOE at a higher price. Conversely, when the Cargo Trades were purchases by the Trading
+Company from the SOE, the Trading Companyâs Cargo Trade positions would be more
+profitable if the average Los Angeles Bunker Benchmark on the Cargo Pricing Days was lower:
+if the Los Angeles Bunker Benchmark fell, the Trading Company would buy from the SOE at a
+lower price.
+
+2. The Manipulation
+
+During the Relevant Period, Respondent and others at the Trading Company manipulated
+the Los Angeles Bunker Benchmark in order to increase the Trading Companyâs profits on the
+Cargo Trades priced by reference to the benchmark, including by distorting the prices of the
+Cargo Trades in the Trading Companyâs favor. Typically, in furtherance of the manipulation,
+Respondent, or others at the Trading Company acting in concert with Respondent, submitted
+generally increasing bids or generally decreasing offers to Platts during the trading window,
+which Platts then reported to its subscribers. By such conduct, Respondent and others at the
+Trading Company intended to create, and did create, artificially high (or artificially low) Los
+Angeles Bunker Benchmarks on Cargo Pricing Days not reflective of legitimate forces of supply
+and demand, so that the Trading Company could sell cargos to the SOE at artificially high prices
+(or buy cargos from the SOE at artificially low prices). Respondent engaged in the price
+manipulation, directed and induced personnel under his supervision to engage in the price
+manipulation, and observed others at the Trading Company engaging in such conduct with
+respect to one or more Platts benchmarks. As a result of the manipulation, the Trading Company
+earned significant additional profits or savings.
+
+ 
+
+! As relevant to the Los Angeles Bunker Benchmark during the Relevant Period, the bids, offers, and trades reported
+in the Los Angeles Bunker Benchmark window were generally for a trade size of 1,000 metric tons of bunker fuel.
+3. Examples
+
+The following are two examples of the manipulation. In each example, Respondent acted
+with the intent to manipulate the benchmark and create an artificial price, and succeeded in
+creating artificial prices.
+
+First, in or around May 2013, the Trading Company entered into a Cargo Trade for the
+sale of approximately 40,000 metric tons of fuel oil to the SOE, priced by reference to the
+average Los Angeles Bunker Benchmark on May 28, 29, and 30, 2013. Respondent directed a
+Trading Company employee to submit bids to Platts during the window, and to increase the
+prices of those bids approximately 27 times on May 28, 23 times on May 29, and 9 times on May
+30, 2013. This trading activity led to an artificial Los Angeles Bunker Benchmark on each day
+that was significantly higher than the dayâs starting peg, to the benefit of the Trading Companyâs
+positions in the Cargo Trade that priced on those days.? The Trading Companyâs activity in the
+window on the Cargo Pricing Days of May 28, 29, and 30, 2013, resulted in improper additional
+revenue to the Trading Company of several hundred thousand dollars.
+
+Second, in or around October 2015, the Trading Company entered into two Cargo Trades
+together consisting of the purchase of approximately 40,000 metric tons of fuel oil from the
+SOE. Both trades were priced in reference to the average daily Los Angeles Bunker Benchmark
+on October 23, 26, and 27, 2015. Respondent directed a Trading Company employee to submit
+offers to Platts during the window, and to decrease the prices of those offers approximately 39
+times on October 23, 38 times on October 26, and 22 times on October 27, 2015. This trading
+activity led to an artificial Los Angeles Bunker Benchmark on each day that was significantly
+lower than the dayâs starting peg, to the benefit of the Trading Companyâs positions in the Cargo
+Trades that priced on those days.*? The Trading Companyâs activity in the window on the Cargo
+Pricing Days of October 23, 26, and 27, 2015, resulted in improper savings to the Trading
+Company of more than several hundred thousand dollars.
+
+4, Cooperation
+
+Respondent has entered into the Cooperation Agreement with the Division setting forth
+the terms of his agreement to cooperate with the Commission and the Division in connection
+with any investigation, litigation, or proceeding to which the Commission is a party relating to
+the subject matter of this Order and/or as described in the Cooperation Agreement.
+
+ 
+
+2 On May 28, 2013, Platts assessed the Los Angeles Bunker Benchmark at or around $26.50 above the dayâs starting
+peg of $585 per metric ton. On May 29, 2013, Platts assessed the Los Angeles Bunker Benchmark at $23.00 above
+the dayâs starting peg of $607.50 per metric ton. And on May 30, 2013, Platts assessed the Los Angeles Bunker
+Benchmark at $8.50 above the dayâs starting peg of $628.50 per metric ton. The Los Angeles Bunker Benchmark
+thus was assessed at an average of $19.33 above the peg on those three days.
+
+3 On October 23, 2015, Platts assessed the Los Angeles Bunker Benchmark at $39.50 below the dayâs starting peg of
+$230 per metric ton. On October 26, 2015, Platts assessed the Los Angeles Bunker Benchmark at $38.00 below the
+dayâs starting peg of $230 per metric ton. On October 27, 2015, Platts assessed the Los Angeles Bunker Benchmark
+at $22.00 below the dayâs starting peg of $210 per metric ton. The Los Angeles Bunker Benchmark was assessed at
+an average of $33.17 below the peg on those three days.
+if. LEGAL DISCUSSION
+
+A. Price Manipulation in Violation of Sections 6(c)(3) and 9(a)(2) of the Act, and
+Regulation 180.2
+
+Section 9(a)(2) of the Act makes it unlawful for â[a]ny person to manipulate or attempt to
+
+manipulate the price of any commodity in interstate commerce, or for future delivery on or
+subject to the rules of any registered entity.â 7 U.S.C. Â§ 13(a)(2) (2018).
+
+Section 6(c)(3) of the Act, 7 U.S.C. Â§ 9(3) (2018), prohibits the manipulation or
+attempted manipulation of the price of any swap, or of any commodity in interstate commerce, or
+for future delivery on or subject to the rules of any registered entity, and Regulation 180.2 makes
+it âunlawful .. . directly or indirectly, to manipulate or attempt to manipulate the price of any
+swap, or of any commodity in interstate commerce, or for future delivery on or subject to the
+rules of any registered entity.â 17 C.F.R. Â§ 180.2 (2020).
+
+Respondent specifically intended to manipulate the Los Angles Bunker Benchmark, in
+order to benefit, among other things, the Trading Companyâs contracts with SOE that were
+priced in reference to the Los Angles Bunker Benchmark. In furtherance of that intent,
+Respondent, directly and indirectly (such as through others), submitted bids, offers, and trades to
+Platts during the Los Angles Bunker Benchmark trading window in order to skew the Platts
+benchmark, and consequently the value of the Trading Companyâs Cargo Trade positions that
+were priced in reference to the benchmark, in the Trading Companyâs favor. Through these
+actions, Respondent and others at the Trading Company could and did cause artificial prices in
+the Los Angeles Bunker Benchmark and thus the Cargo Trades. By this conduct, Respondent
+violated Sections 6(c)(3) and 9(a)(2) of the Act and Regulation 180.2.
+
+IV. FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that Respondent violated Sections 6(c)(3)
+and 9(a)(2) of the Act, 7 U.S.C. Â§Â§ 9(3), 13(a)(2) (2018), and Regulation 180.2,
+17 CE.R. Â§ 180.2 (2020).
+
+V. OFFER OF SETTLEMENT
+Respondent has submitted the Offer in which Respondent:
+A. Acknowledges service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in
+this Order and for any action or proceeding brought or authorized by the
+Commission based on violation of or enforcement of this Order;
+
+C. Admits to all of the findings made in this Order;
+D. Waives:
+
+1. The filing and service of a complaint and notice of hearing;
+2. A hearing;
+
+3. All post-hearing procedures;
+4, Judicial review by any court;
+5. Any defense based on the statute of limitations applicable to any charges
+
+brought, including any sanctions or relief, in connection with this Order;
+
+6. Any and all objections to the participation by any member of the
+Commissionâs staff in the Commissionâs consideration of the Offer;
+
+7. Any and all claims that Respondent may possess under the Equal Access
+to Justice Act, 5 U.S.C. Â§ 504 (2018) and 28 U.S.C. Â§ 2412 (2018), and/or
+the rules promulgated by the Commission in conformity therewith, Part
+148 of the Regulations, 17 C.F.R. pt. 148 (2020), relating to, or arising
+from, this proceeding;
+
+8. Any and all claims that Respondent may possess under the Small Business
+Regulatory Enforcement Fairness Act of 1996, Pub. L. No. 104â
+121, Â§Â§ 201-253, 110 Stat. 847, 857-68 (codified as amended in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this
+proceeding; and
+
+9, Any claims of Double Jeopardy based on the institution of this proceeding
+or the entry in this proceeding of any order imposing a civil monetary
+penalty or any other relief:
+
+Stipulates that the record basis on which this Order is entered shall consist solely
+of the findings contained in this Order to which Respondent has consented in the
+Offer;
+
+Consents to additional proceedings to determine what, if any, additional sanctions
+or relief may be assessed against him, as provided in Part VI.B of this Order. In
+connection with such additional proceedings, Respondent further consents that:
+(a) the findings of fact in Section II of this Order shall be accepted as and deemed
+true by the Presiding Officer; (b) Respondent will be precluded from arguing that
+Respondent did not violate the federal laws as described in Sections II and IV of
+this Order; and (c) Respondent may not challenge the validity of Respondentâs
+consents and agreements in the Offer or this Order; and
+
+Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order
+that:
+
+1. Makes findings by the Commission that Respondent violated Sections
+6(c)(3) and 9(a)(2) of the Act, 7 U.S.C. Â§Â§ 9(3), 13(a)(2) (2018), and
+Regulation 180.2, 17 C.F.R. Â§ 180.2 (2020),
+2. Orders Respondent to cease and desist from violating Sections 6(c)(3) and
+9(a)(2) of the Act, and Regulation 180.2;
+
+3. Orders Respondent to pay a civil monetary penalty in the amount of one
+hundred thousand dollars ($100,000), plus post-judgment interest, within
+twenty (20) days of the date of entry of this Order (the âCMP
+Obligationâ);
+
+4, Orders that Respondent be permanently prohibited from, directly or
+indirectly, engaging in trading on or subject to the rules of any registered
+entity (as that term is defined in Section 1a(40) of the Act,
+
+7 U.S.C. Â§ la(40) (2018), and all registered entities shall refuse
+Respondent trading privileges; and
+
+5. Orders Respondent to comply with the conditions and undertakings
+consented to in the Offer and as set forth in Part VI of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent shall cease and desist from violating Sections 6(c)(3) and 9(a)(2) of
+the Act, 7 U.S.C. Â§Â§ 9(3), 13(a)(2) (2018), and Regulation 180.2,
+17 CFR. Â§ 180.2 (2020);
+
+Respondent shall pay a civil monetary penalty in the amount of one hundred
+thousand dollars ($100,000), plus post-judgment interest, within twenty (20)
+business days of the date of entry of this Order. If the CMP Obligation is not paid
+in full or otherwise satisfied within twenty business days of the date of entry of
+this Order, then post-judgment interest shall accrue on the CMP Obligation
+beginning on the date of entry of this Order and shall be determined by using the
+Treasury Bill rate prevailing on the date of entry of this Order pursuant to
+
+28 U.S.C. Â§ 1961 (2018).
+
+Respondent acknowledges that the Commission is imposing the CMP Obligation
+at this time based upon his cooperation in a Commission investigation and any
+investigation, litigation, or proceeding to which the Commission is a party
+relating to the subject matter of this Order and/or as described in the Cooperation
+Agreement (collectively, the âProceedingsâ), pursuant to the terms of the
+Cooperation Agreement, and his undertaking to continue to cooperate pursuant to
+the terms of the Cooperation Agreement, and as set forth below in Part VIL.D.3.
+If at any time the Division obtains information indicating that Respondent,
+following the entry of this Order: (1) knowingly provided materially false or
+misleading information or materials to the Commission in the investigation, this
+proceeding or in a related proceeding, or the Proceedings; or (11) violated the
+terms of his Cooperation Agreement with the Divisionâsuch as his commitment
+to continue to cooperateâthe Division may, at its sole discretion and without
+prior notice to Respondent, petition the Commission to re-open this matter and
+seek an order imposing further sanctions or relief, such as directing that
+Respondent pay a different civil monetary penalty. Respondent may contest by
+way of defense in any resulting administrative proceeding whether he knowingly
+provided materially false and misleading information, or violated the terms of his
+Cooperation Agreement with the Division, but he may not: (1) contest the
+findings in this Order; or (2) assert any defense to liability or remedy, including
+but not limited to any statute of limitations defense.
+
+Respondent shall pay the CMP Obligation and any post-judgment interest by
+electronic funds transfer, U.S. postal money order, certified check, bank cashierâs
+check, or bank money order. If payment is to be made other than by electronic
+funds transfer, then the payment shall be made payable to the Commodity Futures
+Trading Commission and sent to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+9-AMC-AR-CFTC@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact
+Marie Thorne or her successor at the above address to receive payment
+instructions and shall fully comply with those instructions. Respondent shall
+accompany payment of the CMP Obligation with a cover letter that identifies the
+Respondent and the name and docket number of this proceeding. The Respondent
+shall simultaneously transmit copies of the cover letter and the form of payment
+to the Chief Financial Officer, Commodity Futures Trading Commission, Three
+Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
+
+Respondent is permanently prohibited from, directly or indirectly, engaging in
+trading on or subject to the rules of any registered entity (as that term is defined in
+Section 1a(40) of the Act, 7 U.S.C. Â§ 1a(40) (2018)), and all registered entities
+shall refuse Respondent trading privileges.
+
+Respondent shall comply with the following conditions and undertakings set
+forth in the Offer:
+
+1. Public Statements
+
+Respondent agrees that neither Respondent nor any of Respondentâs
+agents or employees under Respondentâs authority or control shall take
+any action or make any public statement denying, directly or indirectly,
+any findings or conclusions in this Order or creating, or tending to create,
+the impression that this Order is without a factual basis; provided,
+however, that nothing in this provision shall affect Respondentâs:
+
+(i) testimonial obligations; or (11) right to take legal positions in other
+proceedings to which the Commission is not a party. Respondent shall
+comply with this agreement, and shall undertake all steps necessary to
+ensure that all of Respondentâs agents and/or employees under
+Respondentâs authority or control understand and comply with this
+agreement.
+
+Respondent agrees that Respondent shall never, directly or indirectly:
+
+a. enter into any transactions involving âcommodity interestsâ (as
+that term is defined in Regulation 1.3, 17 C.F.R. Â§ 1.3 (2020), for
+Respondentâs own personal account(s) or for any account(s) in
+which Respondent has a direct or indirect interest;
+
+b. have any commodity interests traded on Respondentâs behalf:
+
+c. control or direct the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account
+involving commodity interests;
+
+d. solicit, receive, or accept any funds from any person for the
+purpose of purchasing or selling any commodity interests;
+
+e. apply for registration or claim exemption from registration with the
+Commission in any capacity, and engage in any activity requiring
+such registration or exemption from registration with the
+Commission except as provided for in Regulation 4.14(a)(9),
+
+17 C.F.R. Â§ 4.14(a)(9) (2020); and/or
+
+f. act as a principal (as that term is defined in Regulation 3.1(a),
+17 C-F.R. Â§ 3.1(a) (2020)), agent or any other officer or employee
+of any person (as that term is defined in Section 1a(38) of the Act,
+7U.S.C. Â§ 1a(38) (2018)), registered, required to be registered, or
+exempted from registration with the Commission except as
+provided for in Regulation 4.14(a)(9).
+
+Cooperation with the Commission
+
+Respondent shall cooperate fully and expeditiously with the Commission,
+including the Division, in accordance with the terms set forth in the
+Cooperation Agreement, and in any investigation, civil litigation, or
+administrative proceeding to which the Commission is a party related to
+the subject matter of this action or any current or future Division
+investigation or Commission action related thereto. As part of such
+cooperation, Respondent agrees to:
+
+a. preserve and produce to the Commission in a responsive and
+prompt manner as requested by Division staff, all relevant non-
+privileged documents, information, and other materials wherever
+located, in the appropriate possession, custody, or control of
+Respondent;
+
+b. use Respondentâs knowledge and skill to explain transactions,
+interpret information and terminology or identify new and
+productive lines of inquiry;
+
+c. prepare and appear for interviews and testimony at such times and
+places as requested by Division staff;
+
+d. respond completely and truthfully to all inquiries and interviews,
+when requested to do so by Division staff;
+
+e. identify and authenticate relevant documents, execute affidavits or
+declarations, and testify completely and truthfully at depositions,
+trial, and other judicial proceedings, when requested to do so by
+Division staff:
+
+f. enter into tolling agreements, when requested to do so by Division
+staff, during the period of cooperation;
+
+g. waive any defense based on the statute of limitations applicable to
+any charges brought in connection with the Proceedings;
+
+h. accept service by mail, electronic mail, or facsimile transmission
+of notices or subpoenas for documents and/or testimony at
+depositions, hearings, trials, or in connection with the Proceedings;
+
+i. appoint Respondentâs attorney(s) as agent to receive service of
+such notices and subpoenas;
+
+j. waive the territorial limits on service contained in Rule 45 of the
+Federal Rules of Civil Procedure and any applicable local rules in
+connection with requests or subpoenas of Division staff; and
+
+k. serve by hand delivery or by next-day mail all written notices and
+correspondence required by or related to this Agreement to the
+Director of the Division of Enforcement, Commodity Futures
+Trading Commission, 1155 21st Street, NW, Three Lafayette
+Centre, Washington, DC 20581, with copy by e-mail to the Deputy
+Director of the Division of Enforcement, Eastern Regional Office,
+unless otherwise directed in writing by Division staff.
+
+10
+4. Partial Satisfaction
+
+Respondent understands and agrees that any acceptance by the
+Commission of any partial payment of Respondentâs CMP Obligation
+shall not be deemed a waiver of Respondentâs obligation to make further
+payments pursuant to this Order, or a waiver of the Commissionâs right to
+seek to compel payment of any remaining balance.
+
+5. Change of Address/Phone
+
+Until such time as Respondent satisfies in full his obligations as set forth
+in the Cooperation Agreement and this Order, Respondent shall provide
+written notice to the Commission by certified mail of any change to
+Respondentâs telephone number and mailing address within ten (10)
+calendar days of the change.
+
+* * *
+
+The provisions of this Order shall be effective as of this date.
+
+Doth | Peblp.
+
+Christopher J. Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+By the Commission.
+
+ 
+
+Dated: March 25, 2021
+
+1]

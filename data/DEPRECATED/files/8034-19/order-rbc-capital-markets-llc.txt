@@ -1,0 +1,677 @@
+ 
+
+UNITED STATES OF AMERICA (— RECEIVED CFTC >
+Before the
+
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+ 
+
+Office of Proceedings
+Proceedings Clerk
+
+LS 8:01 pm, Sep 30, 2019 /
+
+CETC Docket No. 19-47
+
+In the Matter of:
+
+ 
+
+ 
+
+RBC Capital Markets, LLC,
+
+Respondent
+
+ 
+
+ORDER INSTITUTION PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT,
+MAKING FINDINGS, AND IMPOSING REMEDIAL sanctions
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (““Commission” or “CFTC’”) has reason to
+believe that from on or about late 2011 through May 2017 (“Relevant Period”), RBC Capital
+Markets, LLC (“RBCCM” or “Respondent’) violated Sections 4c(a) and 4g(a) of the
+Commodity Exchange Act (“Act”), 7 U.S.C. §§ 6c(a), 6g(a) (2012), and Commission
+Regulations (“Regulations”) 1.11(e), 1.31, 1.35, 1.38, 3.3(e) and 166.3, 17 C.F_LR. §§ 1.11(e),
+1.31, 1.35, 1.38, 3.3(e), 166.3 (2018). Therefore, the Commission deems it appropriate and in
+the public interest that public administrative proceedings be, and hereby are, instituted to
+determine whether Respondent engaged in the violations set forth herein and to determine
+whether any order should be issued imposing remedial sanctions.
+
+In anticipation of the institution of administrative proceedings, Respondent has submitted
+an Offer of Settlement (“Offer”), which the Commission has determined to accept. Without
+admitting or denying any of the findings or conclusions herein, Respondent consents to the entry
+of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
+Exchange Act, Making Findings and Imposing Remedial sanctions (“Order”) and acknowledges
+service of this Order. |
+
+ 
+
+' Respondent consents to the use of the findings of fact and conclusions of law in this Order in this
+proceeding and in any other proceeding brought by the Commission or to which the Commission is a
+party or claimant, and agrees that they shall be taken as true and correct and be given preclusive effect
+therein, without further proof. Respondent does not consent, however, to the use of this Order, or the
+findings or conclusions herein as the sole basis for any other proceeding brought by the Commission or to
+which the Commission is a party or claimant other than: a proceeding in bankruptcy or receivership; or a
+proceeding to enforce the terms of this Order. Respondent does not consent to the use of the Offer or this
+Order, of the findings or conclusions in this Order, by any other party in any other proceeding.
+
+l
+Il. FINDINGS
+
+The Commission finds the following:
+
+A. Summary
+
+During the Relevant Period, RBCCM, a registered futures commission merchant
+(“FCM”), failed to supervise its FCM activities in violations of Regulation 166.3, 17 C.F.R.
+§ 166.3 (2018). RBCCM’s supervision failures resulted in hundreds of trades that violated the
+Act and Regulations, in addition to other violations.
+
+Between December 2011 and October 2015, RBCCM engaged in at least 385
+noncompetitive, fictitious, wash sale transactions known as Exchange For Physical (“EFP”)
+transactions (“Wash EFPs”),’ in violations of Section 4c(a) of the Act, 7 U.S.C. § 6c(a) (2012),
+and Regulation 1.38(a), 17 C.F.R. § 1.38(a) (2018). Notably, 217 of those Wash EFPs occurred
+after entry of a Consent Order in December 2014, which resolved a CFTC enforcement action
+against RBCCM’s parent, the Royal Bank of Canada (“RBC”), for wash and fictitious
+transactions (“Consent Order”).?
+
+In addition, as detailed below, RBCCM’s supervision failures resulted in additional
+violations, including: (1) failures to prepare, present, and timely file quarterly Risk Exposure
+Reports (“RER”) as required on five occasions between October 2014 and December 2016, in
+violations of Regulation 1.11(e), 17 C.F.R. § 1.11(e) (2018); (2) failure to disclose RBCCM’s
+violations of Regulation 1.11 as material issues of non-compliance and misstating the status and
+effectiveness of RBCCM’s Risk Management Program (“RMP”) in its Chief Compliance Officer
+(“CCO”) Reports as required by Regulation 3.3(e), 17 C.F.R. § 3.3(e) (2018); and (3) failing to
+maintain and timely produce required records, in violations of Regulations 1.31 and 1.35,
+
+17 CLFLR. §§ 1.31, 1.35 (2018).
+
+B. Respondent
+
+Respondent RBC Capital Markets is a Minnesota limited liability company and
+wholly-owned indirect subsidiary of RBC.’ In its capacity as an FCM, RBCCM executes RBC’s
+proprietary futures transactions on designated contract markets in the United States as part of
+RBC’s capital markets business. RBCCM also executes its own trades. Traders from RBCCM
+and other RBC entities trade interest rate futures and swaps from the same physical desk in New
+York City, they directly or indirectly report to the same supervisor for North American interest
+rates, and RBC’s annual report aggregates RBCCM's interest rates profits and losses with all of
+
+ 
+
+* An EFP is a transaction where the buyer of a cash commodity transfers to the seller a corresponding
+amount of long futures contracts, or receives from the seller a corresponding amount of short futures, at a
+price difference mutually agreed upon. The opposite hedges in futures of both parties are thus closed out
+simultaneously.
+
+* CFTC v. Royal Bank of Canada, No. 12-cv-2497, 2014 WL 10675544 (S.D.N.Y Dec. 18, 2014).
+
+* RBC is a Canadian bank and financial services firm headquartered in Toronto, Canada. RBC has been
+provisionally registered with the CFTC as a Swap Dealer since December 31, 2012.
+its other capital markets business. At all times relevant, RBCCM has been registered with the
+Commission as a FCM.
+
+C. Facts
+1. RBCCM’s Supervision Failures and Lack of Internal Controls
+
+RBC takes an enterprise-wide approach to managing its subsidiaries. All RBC affiliates,
+including RBCCM, must follow company-wide policies and procedures. RBCCM relied on
+RBC’s global compliance resources and enterprise-wide risk management structure to comply
+with the Act’s and Regulations’ requirements. However, RBCCM did not implement several of
+those policies and procedures, which, as relevant here, resulted in hundreds of RBCCM trades
+that violated the Act and Regulations as well as other violations described below.
+
+For example, RBCCM described its futures compliance manual as the “cornerstone” of
+the company’s regulatory risk management framework. RBC maintained the manual on an
+internal website, but until at least May 2017, RBCCM had no system to ensure that employees
+retrieved, reviewed, and followed it. As a result, RBCCM futures traders and operations
+employees with responsibility related to futures did not receive or review the manual.
+
+In addition, RBCCM entered into EFPs with itself and other RBC affiliates, but until at
+least March 2017, the manual did not set forth the requirements for EFPs to be properly executed
+within one legal entity or where there is common beneficial ownership between the parties.
+Moreover, RBCCM also failed to conduct any formal futures or EFP training for futures traders
+and operations employees until at least May 2015. As of February 2017, certain RBCCM
+operations employees with supervisory responsibilities still did not understand certain basic
+restrictions relating to the Wash EFPs at issue here.
+
+In addition, in its 2013 CCO report, RBCCM stated that RBC’s internal auditors had
+found deficiencies with RBCCM’s monitoring of futures trading, and that “RBCCM made
+significant enhancements [including that] the Firm upgraded its trade surveillance utilized to
+detect Cross transactions, Wash transactions and potential front-running.” But the former
+employee who was then in charge of futures compliance at RBCCM (“RBCCM Futures
+Compliance Officer’), and who had responsibility to review futures transactions for trading
+abnormalities or potential violations of the Act or Regulations, did not monitor for potential
+futures wash trades or randomly sample EFPs as expected until at least March 2015.
+
+Also in 2015, as part of its effort to comply with the Consent Order, RBC delegated to
+RBCCM surveillance of certain futures transactions, including off-exchange transactions,
+executed in the United States. RBCCM rolled out an electronic surveillance program designed
+to generate alerts for potential wash transactions, among other things. RBCCM expected that
+RBCCM Futures Compliance Officer would review, assess, and close out all alerts. But
+RBCCM never directed RBCCM Futures Compliance Officer to carry out those tasks, nor
+followed up or checked to ensure the tasks were completed. Instead, RBCCM Futures
+Compliance Officer only cursorily reviewed select alerts and even closed an alert (noting:
+“independent traders”) for an EFP executed by the same RBCCM trader because he failed to
+make any inquiries.
+RBCCM’s supervision failures stand out in light of the entry of a Consent Order in
+December 2014, which resolved a CFTC enforcement action against RBC for wash and fictitious
+transactions. The Consent Order, among other things, prohibited RBC from future violations of
+the Act’s and Regulations’ proscriptions against wash trading. Even though RBCCM had actual
+notice of the Consent Order and RBC delegated execution and surveillance of the bank’s futures
+transactions on exchanges in the United States to RBCCM, RBCCM failed to adequately
+implement a reasonable supervisory system overseeing its futures transactions.
+
+2. RBCCM Engaged in Prohibited Non-Competitive, Fictitious Wash EFP
+Sales
+
+Around December 2011, RBCCM began entering Wash EFPs internally to move
+positions between RBCCM accounts trading interest rates at current prices because they believed
+the exchange allowed it, and it was less costly and administratively cumbersome than other
+options to manage risk. However, the Wash EFPs did not comply with the Chicago Mercantile
+Exchange’s (“CME”) requirements for independent control of opposing accounts to EFP
+transactions. RBCCM knew or should have known that the Wash EFPs were improper.
+
+RBCCM employees asked RBCCM Futures Compliance Officer about the propriety of the Wash
+EFPs, but he failed to respond, follow up with the CME, or provide any formal training until at
+least May 2015.
+
+Between approximately December 2011 and October 13, 2015, RBCCM entered into and
+reported at least 385 Wash EFPs involving accounts that were not independently controlled. Of
+the 385 Wash EFPs, approximately 227 involved one RBCCM trader who controlled both
+accounts.
+
+3. RBCCM Failed to Prepare and Timely File Multiple Risk Exposure
+Reports
+
+Beginning in January 2014, RBCCM, as an FCM, was required by Regulation 1.11 to
+establish and enforce a system of risk management policies and procedures (the RMP).
+Regulation 1.11 also required RBCCM to prepare and file RERs on a quarterly basis for senior
+management and/or the governing body that set forth all applicable risk exposures of the FCM.
+RBCCM failed to do so in October 2014, January 2015 and April 2015.
+
+RBCCM filed its first RER for the quarter ending July 2015 late, on October 1, 2015.
+The Commission notified RBCCM of its failure in the middle of 2016. RBCCM then filed its
+October 2016 RER 106 days late on March 28, 2017 after the Commission explicitly requested
+it.
+
+4. RBCCM Failed to Disclose Material Non-Compliance Issues
+
+To comply with Regulation 3.3(e), CCOs of FCMs must prepare a report on an annual
+basis covering the firm’s most recent fiscal year and provide that report to the firm’s board of
+directors or senior managers. Until November 16, 2016, FCMs were required to electronically
+submit CCO Reports to the Commission not more than 60 days after the end of an FCM’s fiscal
+year. Regulation 3.3(f)(2). Regulation 3.3(e) provides that the annual report must “[d]escribe
+any material noncompliance issues identified, and the corresponding action taken.”
+
+4
+The CME examined RBCCM during RBCCM’s fiscal year 2015 (ending October 31,
+2015). The CME had concerns with RBCCM’s RMP and about RBCCM’s failure to file
+quarterly RERs. RBCCM did not disclose these violations as material noncompliance issues in
+its 2015 CCO Report filed in January 2016. Instead, RBCCM reported that it intended to update
+its RMP because “[m]ore specificity required; improvements to periodic risk reports.” RBCCM
+also inaccurately suggested that the “CME found no issues” with its RMP because the CME’s
+audit letter (which disclaimed any opinion on compliance with the Act and Regulations) omitted
+reference to RMP deficiencies.
+
+RBCC®M also did not disclose its failure to timely file its October 2016 RER in the 2016
+CCO Report as a material noncompliance issue. At all times relevant, RBCCM understood that
+failure to timely file an RER constitutes a material noncompliance issue requiring disclosure.
+
+5. RBCCM Failed to Maintain and Promptly Produce Required Records
+
+RBCCM disclosed to the Commission the existence of the 385 Wash EFPs in late
+January 2016, a few days before RBCCM formally disclosed the Wash EFPs in its 2015 CCO
+report (filed January 29, 2016). Upon receiving the relevant information, the Division promptly
+sought to determine, among other things, the scope of the issues, the cause of the Wash EFPs,
+who was responsible, and whether a supervisory system existed that was reasonably designed to
+detect and deter such unlawful trade practices. RBCCM and RBC, however, failed to timely and
+fully respond to the Division’s requests for production of records required to be maintained by
+registrants under the Act and Regulations and subsequent subpoenas issued by the Division.
+
+Moreover, RBCCM and RBC did not promptly produce the required records
+notwithstanding the fact that the prior Consent Order required cooperation of RBC in any
+investigation by the Division related to the subject matter of this action or any current or future
+Commission investigation related thereto. From the outset of the Division’s investigation,
+RBCCM sought to persuade Division’s staff that it was not necessary to pursue any inquiry into
+RBC’s involvement with the Wash EFPs, even from a supervisory perspective, despite the inter-
+relationship between RBCCM and RBC. Prior to June 2017, outside counsel told the Division’s
+staff that he was trying to keep the Bank out of it. The Division expended considerable resources
+trying to obtain information and timely compliance with its subpoenas from RBC and RBCCM.
+
+In June 2017, RBC retained new outside counsel, and RBC and RBCCM began to
+cooperate and respond to the Division’s requests in a meaningful way. However, even those
+efforts were hindered by RBCCM’s failure to maintain full, complete, and systematic records of
+their futures transactions in violations of the Regulations, which precluded the Division from
+readily identifying relevant traders, account controllers, and their employers.
+
+Til. LEGAL DISCUSSION
+A. RBCCM’s Supervision Failures Violated Regulation 166.3.
+
+Regulation 166.3, 17 C.F.R. § 166.3 (2018), imposes on registrants an affirmative
+duty to supervise their partners, employees and agents diligently by establishing,
+implementing and executing adequate supervisory structures and compliance programs.
+
+5
+A violations of Regulation 166.3 occurs where: (1) the registrant’s supervisory system
+was generally inadequate; or (2) the registrant failed to perform its supervisory duties
+diligently. In re GNP Commodities, Inc., CFTC No. 89-1,1992 WL 201158, at *19
+(Aug. 11, 1992), aff'd sub nom. Monieson v. CFTC, 996 F.2d 852 (7th Cir. 1993); In re
+Paragon Futures Ass’n, CFTC No. 88-18, 1992 WL 74261, at *14 (Apr. 1, 1992)
+(concluding that the “focus of any proceeding to determine whether Rule 166.3 has been
+violated will be on whether [a] review [has] occurred and, if it did, whether it was
+‘diligent’.’’”), A violations under Regulation 166.3 is an independent violations for which
+no underlying violations is necessary. Jn re Collins, No. 94-13, 1997 WL 761927, at*10
+
+(Dec. 10, 1997) (citing GNP Commodities, 1992 WL 201158, at n.11).
+
+Regulation 166.3 further provides that a registrant has a “duty to develop
+procedures for the ‘detection and deterrence of [CEA violations] by its agents.’” Samson
+Refining Co. v. Drexel Burnham Lambert, Inc., CFTC No. 82-R448, 1990 WL 282783, at
+*11 (Feb. 16, 1990) (quoting Lobb v. JT. McKerr & Co., CFTC No. 85R-185, 1989 WL
+242384, at *11 (Dec. 14, 1989)). The lack of an adequate supervisory system can be
+shown where the registrant failed to develop proper procedures for the detection of
+wrongdoing. CFTC vy. Trinity Fin. Grp, Inc., No. 92-cv-6832, 1997 WL 820970, at *29
+(S.D. Fla. Sept. 29, 1997) (controlling person failed to establish or maintain meaningful
+procedures for detecting fraud by firm’s employees and knew of specific incidents of
+misconduct, yet failed to take reasonable steps to correct the problems), aff'd in part,
+vacated in part and remanded sub nom. CFTC v. Sidoti, 178 F.3d 1132, 1137 (11th Cir.
+1999). Evidence of violations that “should be detected by a diligent system of
+supervision, either because of the nature of the violations or because the violations have
+occurred repeatedly” is probative of a failure to supervise. Paragon Futures Ass’n, 1992
+WL 74261, at *14).
+
+RBCCM management failed to diligently supervise the FCM. The supervision
+failures were systemic, occurred over a long period of time, and directly resulted in
+violations of other provisions of the Act and accompanying Regulations. Therefore,
+RBCCM’s conduct violated Regulation 166.3.
+
+B. RBCCM Engaged In Wash Sales, Fictitious Sales and Noncompetitive Trading In
+violations of Section 4c(a) of the Act
+
+Section 4c(a)(2)(A) of the Act, 7 U.S.C. § 6c(a)(2)(A) (2012), provides that it is unlawful
+for any person to offer to enter into, enter into, or confirm the execution of a commodity futures
+or swap transaction that is, of the character of, or is commonly known to the trade as, a “wash
+sale,” “accommodation trade,” or “fictitious sale.” Regulation 1.38(a), 17 C.F.R. § 1.38(a)
+(2018), also prohibits knowingly entering into illegal non-competitive transactions to buy and
+sell futures contracts.
+
+Wash sales negate the risk or price competition incident to the market. Wilson v. CFTC,
+322 F.3d 555, 559-60 (8th Cir. 2003) (affirming CFTC order finding Section 4c(a) violations).
+Wash trading produces a virtual financial nullity because the resulting net financial position is
+near or equal to zero. Jd.
+A wash sale occurs with: (1) the purchase and sale; (2) of the same delivery month of the
+same futures contract; (3) at the same (or a similar) price; and (4) with an intent to negate risk or
+price competition, or the participant’s knowledge that the transaction was designed to achieve a
+wash result. Jd. Wash sales typically are accomplished in two ways: by a trader: (1) buying and
+selling with himself or herself; or (2) buying and selling with another person pursuant to a pre-
+arranged plan or understanding. Sundheimer v. CFTC, 688 F.2d 150, 152 (2d Cir. 1982).
+
+EFPs that are equal and offsetting in quantity and price, where the same entity, or
+beneficial owner or controller is on both sides of the transactions, constitute “wash sales” within
+the meaning of Section 4c(a) of the Act. In re SG Americas Securities, RBCCM, CFTC No. 16-
+33, 2016 WL 5682204, at *8 (Sep. 28, 2016) (consent order) (citing Jn re Noble Americas Corp.,
+CFTC No. 10-12, 2010 WL 1803817 (May 3, 2010) (consent order)). That the same entity, or
+beneficial owner or controller, was on both sides of an EFP suggests intent to avoid price
+competition and market risk standing alone. See In re Three Eight Corp., CFTC No. 88-33, 1993
+WL 212489, at *10 (June 16, 1993) (paired orders for matching executions for a single account
+suggests intent to avoid a bona fide market position). Likewise, an EFP for the same contract,
+quantity and same or similar price—i.e., a wash result—reflects an intent to avoid market risk and
+price competition. /d. Failure to inquire into the legitimacy of the EFP in the face of such facts
+can support an inference of knowing participation in wash sales. Jd. Knowing participation is
+the requisite scienter for violations of Section 4c(a) of the Act and Regulation 1.38(a). In re
+Bear Stearns, CFTC No. 80-31, 1991 WL 83520, at *14-16 (Jan, 25, 1991),
+
+RBCCM knowingly executed and confirmed the execution of at least 385 EFPs where the
+opposing account controllers were not independent and the EFPs achieved a wash result.
+Accordingly, RBCCM violated Section 4c(a) of the Act.
+
+C. RBCCM’s Wash EFPs Violated Regulation 1.38(a)
+
+Regulation 1.38(a), 17 C.F.R. § 1.38(a) (2018), generally requires that all purchases and
+
+_ sales of commodity futures be executed “openly and competitively.” This requirement, however,
+“shall not apply to transactions which are executed noncompetitively in accordance with the
+written rules of the contract market which have been submitted to and approved by the
+Commission, specifically providing for the noncompetitive execution of such transactions.” Jd.
+
+CME and CBOT Rule 538 permit “Exchanges for Related Position”—of which EFPs are a
+sub-set—under certain conditions. EFPs are permissible if they are between two independently
+controlled accounts and involve privately negotiated and simultaneous exchange of a futures
+position for a corresponding and offsetting cash physical position. Exchange for Related
+Positions, CME Rulebook Rule 538 (Oct. 4, 2016). CME allows EFPs between “Independently
+controlled accounts of the same legal entity . . . [if] the account controllers operate in separate
+business units... [or] For EFPR transactions between accounts with common beneficial
+ownership, the parties to the trade must be able to demonstrate the independent control of the
+accounts and that the transaction had economic substance for each party to the trade.” /d. at Rule
+538.B; CME Group, MRAN RA1006-5 (June 11, 2010); CME Group, MRAN RA1311-5
+(Apr. 14, 2014). Ifa noncompetitive trade does not qualify for an exchange rule exception, it
+violates Regulation 1.38(a). Williams v. Lind-Waldock & Co., CFTC No. 95-R022, 1997 WL
+35391403 (July 10, 1997); GNP Commodities, Inc., 1992 WL 201158, at *14.
+
+7
+RBCCM entered into 385 EFPs that were not in accordance with CME rules because the
+RBCCM interest rate traders did not have independent control of the accounts, they operated in
+the same business unit of the company, and the profits and losses of the EFPs rolled up to the
+same account resulting in a wash for RBCCM. Therefore, RBCCM violated Regulation 1.38(a).
+
+D. RBCCM Failed to File Risk Exposure Reports in violations of Regulation 1.11
+
+Regulation 1.11, 17 C.F.R. § 1.11 (2018), went into effect January 2014. The Regulation
+was promulgated to enhance customer protections, risk management programs, internal
+monitoring and controls, capital and liquidity standards, customer disclosures, and auditing and
+examination programs for FCMs. See Enhancing Protections Afforded Customers and Customer
+Funds Held by Futures Commission Merchants and Derivatives Clearing Organizations, 78 Fed.
+Reg. 68,506, 68,512 (Nov. 14, 2013).
+
+Regulation 1.11(e)(2) requires the risk management unit of each FCM to provide to
+senior management and its governing body quarterly written RERs setting forth all applicable
+risk exposures of the FCM, any recommended or completed changes to the RMP, and the status
+of the program, among other things. An FCM is required to submit copies of its quarterly RER
+to the Commission within five business days of providing the reports to senior management.
+
+RBCCM failed to prepare and file RERs reflecting all applicable risk exposures for each
+of the three quarters between July 2014 and April 2015. RBCCM filed two other RERs up to
+106 days late despite prior notice of its violations. Therefore, RBCCM violated Regulation
+1.11(e)(2).
+
+E. RBCCM Failed to Disclose Material Non-Compliance Issues to the Commission in
+violations of Regulation 3.3
+
+Regulation 3.3(e), 17 C.F.R. § 3.3(e) (2018), requires an FCM’s CCO to annually prepare
+a written report covering the most recently completed fiscal year. Regulation 3.3(e)(2) and (5)
+provides in part that the CCO Report must include: (i) a review of each applicable requirement
+under the Act and Regulations, including identification of the policies and procedures reasonably
+designed to ensure compliance and an assessment of the effectiveness of those procedures; and
+(ii) describe any material noncompliance issues identified, and the corresponding action taken.
+
+Until November 16, 2016, FCMs had to submit their CCO Reports to the CFTC not more
+than 60 days after the end of the FCM’s fiscal year. Regulation 3.3(f), 17 C.F.R. § 3.3(f) (2016).
+The filing period was extended to 90 days thereafter. Chief Compliance Officer Annual Report
+Requirements for Futures Commission Merchants, Swap Dealers, and Major Swap Participants;
+Amendments to Filing Dates, 81 Fed. Reg. 80,563, 80,566 (Nov. 16, 2016).
+
+RBCCM was aware of its failure to timely prepare and file multiple RERs in violations of
+Regulation 1.11 at least as of 2015. RBCCM failed to disclose its violations of Regulation 1.11
+in its 2015 CCO Report, filed with the CFTC in January 2016. RBCCM also failed to disclose
+its continued violations of Regulation 1.11 as a material noncompliance issue in its 2016 CCO
+report (filed with the CFTC in January 2017). Therefore, RBCCM violated Regulation 3.3(e).
+F. RBCCM Failed to Maintain Complete and Systematic Records in violations of
+Regulations 1.31 and 1.35
+
+As an FCM, RBCCM must comply with the recordkeeping obligations set forth in
+Section 4g(a) of the Act, 7 U.S.C. § 6g(a) (2012), and Regulations 1.31(a) and 1.35(a), 17 C.F.R.
+§§ 1.31(a), 1.35(a) (2018). Failure to retain and promptly produce records required to be kept for
+inspection to Commission staff violates the Act and Regulations. See GNP Commodities, Inc.,
+1992 WL 12917230, at *15 (FCM violated Section 4g of the Act and Regulations 1.31 and 1.35
+by failing to retain office orders and carbons that were the subject of a Division investigation).
+Registrants are strictly liable for recordkeeping violations without showing scienter. See Ping
+He (Hai Nam) Co. Ltd. v. NonFerrous Metals (U.S.A.) Inc., 22 F.Supp.2d 94, 104 (S.D.N.Y.
+1998), vacated in part on other grounds, 187 F.R.D. 121 (S.D.N.Y. 1999). As explained by the
+Commission in another matter:
+
+The requirements of Regulations 1.31 and 1.35 are straightforward. Regulation
+1.35(a) required [the registrant] to keep complete and systematic records,
+‘together with all pertinent data and memoranda, of all transactions relating to its
+business of dealing in commodity futures, commodity options... .’ Further, the
+rule required [the registrant] to maintain copies of ‘al/ other records data and
+memoranda... prepared in the course of its business... .’ Jd. (emphasis
+added).... The trade sequence reports clearly relate to [the registrant’s] business
+of dealing in commodity futures and were kept in the course of [the registrant’s]
+business. Failure to maintain them thus violates Regulations 1.31 and 1.35(a).
+
+Inre JCC, Inc., CFTC No. 89-4, 1994 WL 183817, at *13 (May 12, 1994), aff'd sub nom. JCC,
+Inc. v. CFTC, 63 F.3d 1557 (11th Cir. 1995).
+
+RBCCM failed to maintain, preserve, and promptly produce for inspection complete and
+systematic records of its wash EFP transactions. RBCCM thus violated Section 4g(a) of the Act
+and Regulations 1.31(a) and 1.35(a).
+
+G. RBCCM is Liable for Its Employees’ Acts and Omissions
+
+Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2012), and Regulation 1.2,
+17 C.F.R. § 1.2 (2018), provide that the act, omission, or failure of any official, agent, or other
+person acting for any individual, association, partnership, corporation, or trust within the scope
+of his employment or office shall be deemed the act, omission, or failure of such individual,
+association, partnership, corporation or trust. Pursuant to Section 2(a)(1)(B) and Regulation 1.2,
+strict liability is imposed on principals for the actions of their agents. See, e.g., Rosenthal & Co.
+v. CFTC, 802 F.2d 963, 966 (7th Cir. 1986); Dohmen-Ramirez & Wellington Advisory, Inc. v.
+CFTC, 837 F.2d 847, 857-58 (9th Cir. 1998); but see CFTC v. Gibraltar Monetary Corp., 575
+F.3d 1180, 1188-89 (11th Cir. 2009) (Section 2(a)(1)(B) of the Act and Regulation 1.2 codify
+common law principal agent liability).
+
+The foregoing acts, omissions, and failures of RBCCM’s employees occurred within the
+scope of their employment, office, or agency with RBCCM; therefore, pursuant to Section
+2(a)(1)(B) of the Act and Regulation 1.2, RBCCM is liable for those acts, omissions, and failures
+
+9
+in violations of Sections 4c(a) and 4g of the Act, and Regulations 1.11(e), 1.31, 1.35, 1.38, 3.3(e),
+and 166.3.
+
+IV. FINDINGS OF violations
+
+Based on the foregoing, the Commission finds that during the Relevant Period RBCCM
+violated Sections 4c(a) and 4g of the Act, 7 U.S.C. §§ 6c(a), 6g (2012), and Regulations 1.11(e),
+1.31, 1.35, 1.38, 3.3(e), and 166.3, 17 C.F.R. §§ 1.11(e), 1.31, 1.35, 1.38, 3.3(e), 166.3 (2018).
+
+V. OFFER OF SETTLEMENT
+
+Respondent has submitted an Offer in which it, without admitting or denying the findings
+and conclusions herein:
+
+A. Acknowledges receipt of service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violations of or enforcement of this Order;
+
+C. Waives:
+1, The filing and service of a complaint and notice of hearing;
+2. A hearing;
+3. All post-hearing procedures;
+4. Judicial review by any court;
+5. Any and all objections to the participation by any member of the
+
+Commission’s staff in the Commission’s consideration of the Offer;
+
+6. Any and all claims that it may possess under the Equal Access to Justice Act,
+5 U.S.C. §504 (2012) and 28 U.S.C. § 2412 (2012), and/or the rules
+promulgated by the Commission in conformity therewith, Part 148 of the
+Commission’s Regulations, 17 C.F.R. §§ 148.1-30 (2018), relating to, or arising
+from, this proceeding;
+
+7. Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. II, §§ 201-53, 110
+Stat. 847, 857-74 (codified as amended at 28 U.S.C. § 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+8. Any claims of Double Jeopardy based on the institution of this proceeding or
+the entry in this proceeding of any order imposing a civil monetary penalty or
+any other relief;
+
+10
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which RBCCM has consented in the Offer; and
+
+Consents, solely on the basis of the Offer, to the Commission’s entry of this Order, that:
+
+1. Makes findings by the Commission that RBCCM violated Sections 4c(a) and
+4g of the Act, 7 U.S.C. §§ 6c(a), 6g (2012), and Regulations 1.11(e), 1.31,
+1.35, 1.38, 3.3(e), and 166.3, 17 C.F.R. §§ 1.11(e), 1.31, 1.35, 1.38, 3.3(e),
+166.3 (2018);
+
+2. Orders RBCCM to cease and desist from violating Sections 4c(a) and
+4g of the Act and Regulations 1.11(e), 1.31, 1.35, 1.38, 3.3(e), and
+166.3;
+
+3. Orders RBCCM to pay a civil monetary penalty in the amount of five
+million dollars ($5,000,000), plus post-judgment interest; and
+
+4, Orders RBCCM and its successors and assigns, to comply with the
+conditions and undertakings consented to in the Offer and as set forth
+in Part VI of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+RBCCM shall cease and desist from violating Sections 4c(a) and 4g of the Act,
+7 US.C. §§ 6c(a), 6g (2012), and Regulations 1.11(e), 1.31, 1.35, 1.38, 3.3(e), and
+166.3, 17 C.F.R. §§ 1.11(e), 1.31, 1.35, 1.38, 3.3(e), 166.3 (2018).
+
+RBCCM shall pay a civil monetary penalty in the amount of five million dollars
+($5,000,000) (“CMP Obligation”). If the CMP Obligation is not paid immediately,
+then post-judgment interest shall accrue on the CMP Obligation beginning on the date
+of entry of this Order and shall be determined by using the Treasury Bill rate prevailing
+on the date of entry of this Order pursuant to 28 U.S.C. § 1961 (2012).
+
+RBCCM shall pay the CMP Obligation and any post judgment interest by electronic
+funds transfer, U.S. postal money order, certified check, bank cashier’s check, or bank
+money order. If payment is to be made by other than electronic funds transfer, then the
+payment shall be made payable to the Commodity Futures Trading Commission and
+sent to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+1]
+Oklahoma City, OK 73169
+405-954-6569 office
+405-954-1620 fax
+9-AMC-AR-CFTC@faa.gov
+
+If payment by electronic funds transfer is chosen, RBCCM shall contact Marie Thorne or
+her successor at the above address to receive payment instructions and shall fully comply
+with those instructions. RBCCM shall accompany payment of the CMP Obligation with a
+cover letter that identifies RBCCM and the name and docket number of this proceeding.
+RBCC®M shall simultaneously transmit copies of the cover letter and the form of payment
+to the Chief Financial Officer, Commodity Futures Trading Commission, Three Lafayette
+Center, 1155 21st Street, N.W., Washington, DC 20581.
+
+. RBCCM and its successors and assigns shall comply with the following conditions and
+undertakings set forth in its Offer:
+
+1.
+
+Public Statements: RBCCM agrees that neither it nor any of its successors,
+assigns, agents, or employees under its authority or control shall take any action
+or make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect RBCCM’s:(i) testimonial obligations or (ii) right to take legal
+positions in other proceedings to which the Commission is not a party. RBCCM
+and its successors and assigns shall undertake all steps necessary to ensure that all
+of its agents and/or employees under its authority or control understand and
+comply with this agreement.
+
+Cooperation with the Commission: For a period of three years, Respondent shall
+cooperate fully and expeditiously with the Commission, including the
+Commission's Division, and any other governmental agency in this action, and in
+any investigation, civil litigation, or administrative matter related to, or arising
+from: this action; the factual subject matters of this action; and/or the legal
+provisions at issue in this action or any current or future Commission
+investigation related thereto. As part of such cooperation, Respondent agrees to:
+
+a. preserve and produce to the Commission in a responsive and prompt
+manner, as requested by the Division’s staff, all non-privileged
+documents, information, and other materials wherever located, subject to
+applicable laws and regulations, in the possession, custody, or control of
+Respondent;
+
+b. accept service by mail, electronic mail, or facsimile transmission of
+notices or subpoenas for documents and/or testimony at depositions,
+hearings, or trial;
+
+C. appoint Respondent’s attorney as agent to receive service of such notices
+and subpoenas;
+
+12
+d. waive the territorial limits on service contained in Rule 45 of:the Federal
+Rules of Civil Procedure and any applicable local rules in connection
+with requests or subpoenas of the Division’s staff; and
+
+e. not to engage inappropriately in the following uncooperative conduct:
+
+A. fail to respond in a reasonable amount of time to the
+Division’s requests for productions of records required to be
+maintained by law;
+
+B. fail to respond in a reasonably complete manner to the
+Division’s requests for production of records required to be
+maintained by law;
+
+C. fail to respond in a reasonable amount of time to a Division
+subpoena for records;
+
+D. fail to respond in a reasonably complete manner to a Division
+subpoena for records;
+
+E. fail to produce in a reasonable amount of time records subject
+to the cooperation provision of an administrative or court
+order that names RBCCM as respondent or defendant;
+
+F. fail to produce in a reasonably complete manner records
+subject to the cooperation provision of an administrative or
+court order that names RBCCM as respondent or defendant;
+
+G. claim that information is not available while knowing that it is;
+
+H. fail to take steps to preserve subpoenaed records under
+RBCCM’s control;
+
+I. advise or direct employees or their counsel not to cooperate
+fully or openly with a Division investigation;
+
+J. engage in evasive, misleading or obstructive conduct during
+Division investigative testimony or interviews; and
+
+K. fail to search computer hard drives properly for
+documents, data, and electronic images that are subject
+to subpoena.
+
+3. Partial Satisfaction: RBCCM understands and agrees that acceptance by the
+
+Commission of partial payment of RBCCM’s CMP Obligation shall not be
+deemed a waiver of its obligation to make further payments pursuant to this
+
+13
+Order, or a waiver of the Commission’s right to seek to compel payment of any
+remaining balance.
+
+4, Change of Address/Phone: Until such time as RBCCM satisfies in full its CMP
+Obligation as set forth in this Order, RBCCM shall provide written_notice to the
+Commission by certified mail of any change to its.telephone number and mailing
+address within ten (10) calendar days of the change.
+
+ 
+
+The provisions of this Order shall be effective on this date.
+
+By the Commission.
+
+Christopher J. Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+      
+
+Dated: September 30, 2019
+
+14

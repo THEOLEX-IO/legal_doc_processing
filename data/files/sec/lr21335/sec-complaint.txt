@@ -1,0 +1,388 @@
+Case 4:09-cv-03963 Document1 Filed in TXSD on 12/11/09 Page 1 of 11
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF TEXAS
+
+ 
+
+ 
+
+HOUSTON DIVISION
+SECURITIES AND EXCHANGE Â§
+COMMISSION, Â§
+Â§
+Plaintiff, Â§ Civil Action No.
+Â§
+VS. Â§
+Â§
+BOBBY BENTON, Â§
+Â§
+Defendant. Â§
+Â§
+COMPLAINT
+
+Plaintiff Securities and Exchange Commission (the âCommissionââ) alleges that:
+SUMMARY
+
+1. This case centers upon Bobby Bentonâs violations of the U.S. Foreign Corrupt
+Practices Act (âFCPAâ) while serving as Vice President, Western Hemisphere Operations for
+Pride International, Inc. (âPrideâ), one of the worldâs largest offshore drilling companies.
+
+2. From approximately 2003 to 2005, another Pride employee, the manager of the
+Venezuelan branch of a French subsidiary of Pride, authorized payments totaling approximately
+$384,000 to third-party companies believing that all or a portion of the funds would be given to
+an official of Venezuelaâs state-owned oil company in order to secure extensions of three drilling
+contracts. Benton, in an effort to conceal the bribes from Prideâs internal and external auditors,
+redacted references to the Venezuelan payments in an action plan responding to an internal audit
+report.
+
+3. In or about late 2004, Benton authorized the payment of $10,000 to a third party,
+
+believing that all or a portion of the funds would be given by the third party to a Mexican
+customs official in return for favorable treatment by the official regarding certain customs
+deficiencies identified during a customs inspection of a Pride supply boat.
+
+4. Also in or about late 2004, Benton learned that a customs agent engaged by
+Prideâs Mexican subsidiaries paid approximately $15,000 to a Mexican customs official to
+ensure that the export of a rig would not be delayed due to customs violations.
+
+5. Despite his knowledge, and in one instance authorization, of the Venezuelan and
+Mexican bribes, Benton signed two false certifications in connection with audits and reviews of
+Prideâs financial statements denying any knowledge of bribery.
+
+6. By engaging in the conduct described in this Complaint, Benton violated Sections
+13(b)(5) and 30A of the Securities Exchange Act of 1934 (âExchange Actâ) [15 U.S.C. 8Â§
+78m(b)(5) and 78dd-1] and Exchange Act Rules 13b2-1 and 13b2-2 [17 C.F.R. Â§Â§ 240.13b2-1
+and 240.13b2-2] and aided and abetted violations of Sections 13(b)(2)(A), 13(b)(2)(B), and 30A
+of the Exchange Act [15 U.S.C. Â§Â§ 78m(b)(2)(A), 78m(b)(2)(B), and 78dd-1].
+
+7. The Commission brings this action against Benton seeking a civil penalty,
+disgorgement, prejudgment interest, and injunctive relief to prevent future violations of the
+federal securities laws.
+
+JURISDICTION
+
+8. This Court has jurisdiction over this action under Sections 21(d), 21(e), and 27 of
+the Exchange Act [15 U.S.C. Â§8Â§ 78u(d), 78u(e), and 78aa]. In connection with the conduct
+described herein, Benton, directly or indirectly, made use of means or instrumentalities of
+interstate commerce, of mails, or of facilities of a national securities exchange in connection with
+
+the transactions, practices, and courses of business alleged in this Complaint.
+
+SEC v. Benton Page 2
+Complaint
+9. Venue in the Southern District of Texas is proper pursuant to Section 27 of the
+Exchange Act [15 U.S.C. Â§ 78aa] because certain acts or transactions constituting the violations
+by Benton occurred in this district.
+
+DEFENDANT AND OTHER ENTITIES
+
+10. Defendant Benton is a U.S. citizen and resident of Houston, Texas, and was, at all
+relevant times, an officer and employee of Pride. Benton joined Pride as an Operations Manager
+for the Eastern Hemisphere in 2001 when Pride acquired Marine Drilling. Benton later served as
+Vice President, Western Hemisphere Operations until he separated from Pride in December
+2006. Benton was responsible for, among other things, ensuring that Pride conducted its
+Western Hemisphere operations in compliance with the FCPA, that adequate controls were in
+place to prevent illegal payments, and that the companyâs books and records were accurate.
+When subpoenaed to testify by the Commissionâs staff during its investigation, Benton asserted
+his Fifth Amendment privilege against self-incrimination.
+
+11. Pride is a Delaware corporation headquartered in Houston, Texas. Its common
+stock is registered under Section 12(b) of the Exchange Act and trades on the New York Stock
+Exchange.
+
+12. Pride Forasol S.A.S. (âPride Forasolââ) is organized and has its principal place of
+business in France. Pride Forasol was acquired by Pride in 1997. As relevant to the conduct
+alleged, Pride Forasol operated through Pride Foramer de Venezuela S.A., a branch of Pride
+Forasolâs wholly owned subsidiary Pride Foramer S.A.S., which operated in Venezuela
+
+(hereinafter âPride Foramer Venezuelaâ).
+
+SEC v. Benton Page 3
+Complaint
+4 ~ my s Â£Â£ aid
+a; gy Sey ewe Ao oH
+
+eS PE RS Bea ee ST ea Oe
+Pb yk i eAkgte SP (abo
+
+13. Mexico Drilling Limited LLC, Pride Central America LLC, and Pride Drilling
+LLC were wholly owned subsidiaries of Pride that were formed in Delaware and operated in
+Mexico (hereinafter collectively âPride Mexicoâ).
+
+14. At all times relevant to this Complaint, the financial results of the entities
+referenced in paragraphs 12 and 13 were consolidated into the financial results for Pride.
+
+FACTUAL BACKGROUND
+Payments to Extend Contracts in Venezuela
+
+15. In early 2003, a Pride Foramer rig operated in Venezuela on a drilling contract
+with the Venezuelan state-owned oil company, Petrdleos de Venezuela S.A. (âPDVSAâ), that
+was coming up for renewal or termination in February 2003.
+
+16. In or around February 2003, an individual purporting to represent a PDVSA
+official (the âVenezuela Intermediaryâ) told Pride Foramer Venezuelaâs country manager (the
+âVenezuela Country Managerâ) that the PDVSA official could assist the company in obtaining
+an extension of the drilling contract in exchange for a payment of $60,000 per month for each
+month that the contract was extended.
+
+17. PDVSA extended the drilling contract from April 2003 to mid-July 2003. In or
+around mid-2003, the Venezuela Country Manager authorized payments totaling approximately
+$120,000, through certain vendors of Pride Foramer Venezuela, to a Miami bank account in the
+name of the Venezuela Intermediary, believing that all or a portion of the funds would be given
+to the PDVSA official.
+
+18. In or around April 2004, a Pride Foramer Venezuela operations employee
+believed that the same PDVSA official was blocking or planned to block contract extensions for
+
+two rig management contracts with PDVSA, at least in part because Pride Foramer Venezuela
+
+SEC v. Benton Page 4
+Complaint
+had refused to make a third payment of $60,000 for the 2003 drilling contract extension. In or
+around May 2004, the Venezuela Country Manager authorized additional payments to the
+Venezuela Intermediary of $60,000 in connection with the 2003 drilling contract extension and
+$12,000 per rig, per month for each month that the rig management contracts were extended,
+believing that all or a portion of the funds would be given by the Venezuela Intermediary to the
+PDVSA official.
+
+19. From approximately mid-2004 to the end of 2004, Pride Foramer Venezuela made
+the payments to the Venezuela Intermediary through certain of its local vendors. In or around
+December 2004, Pride retained a marketing agent in Venezuela (the âVenezuela Agentâ). From
+in or around January 2005 to in or around June 2005, Pride Foramer Venezuela made the
+payments to the Venezuela Intermediary through the Venezuela Agent. Pride Foramer
+Venezuela recorded the payments referenced above either as payments for goods and services
+received from the vendors or as marketing commission payments to the Venezuela Agent.
+
+20. In or around February 2005, a new Pride Foramer Venezuela country manager
+prepared a draft action plan addressing internal control weaknesses uncovered by a Pride internal
+audit relating to vendor practices in Venezuela. The draft action plan contained information
+about the vendorsâ involvement in making payments for the benefit of the PDVSA official in
+connection with extensions for the 2003 drilling contract and the rig management contracts. The
+manager forwarded the draft document via e-mail to Benton on or about February 12, 2005.
+Benton, in turn, redacted all references to the Venezuelan bribes and attached his âcleaned upâ
+version to an e-mail he sent to the new Venezuela country manager on or about February 14,
+2005. On or about February 16, 2005, Benton, in response to comments from a Pride internal
+
+auditor regarding Bentonâs revised action plan, advised the new Venezuela country manager:
+
+SEC v. Benton Page 5
+Complaint
+âAs you continue to improve the Venezuela Vender [sic] Review audit, use the attached version
+to update. All other draft versions should be deleted.â Bentonâs e-mail also confirmed that his
+revised action plan was the version submitted to Prideâs internal and external auditors.
+
+Payments to Customs Officials in Mexico
+
+21. On or about December 13, 2004, Mexican customs officials inspected port
+facilities leased by Pride Mexico. During the inspection, the officials clatmed that there were
+customs violations related to the importation status of certain equipment on board a Pride
+Mexico supply boat.
+
+22. After the inspection, a Pride Mexico manager reported to Benton that a Mexican
+customs official had solicited a payment of $10,000 for what the official stated was lenient
+treatment by customs officials related to the claimed violations found during the inspection. On
+or about December 15, 2004, Benton authorized a payment of $10,000 to the customs official.
+
+23. In or around December 2004, a representative of Pride Mexico paid $10,000 in
+cash to a person purportedly representing a customs official. Pride Mexicoâs books and records
+falsely documented the improper payment as an electricity maintenance expense.
+
+24. Also in or around December 2004, a Pride Mexico manager learned that a
+customs agent engaged by Pride Mexico to manage the export of a mat-supported jackup rig
+from Mexico (the âMexico Customs Agentâ) informed certain Pride Mexico logistics employees
+that he had made a payment of approximately $15,000 to a Mexican customs official during the
+course of the export to ensure that the export of the rig would not be delayed due to claimed
+violations related to non-conforming equipment on board the rig.
+
+25. The Mexico Customs Agent submitted invoices to Pride Mexico, seeking
+
+payment for âextra workâ performed during the export. Pride Mexico paid the invoices and,
+
+SEC v. Benton Page 6
+Complaint
+Case 4:09-cv-03963 Document1 Filed in TXSD on 12/11/09 Page 7 of 11
+
+notwithstanding the statements of the Mexico Customs Agent, falsely recorded all the payments
+to the Mexico Customs Agent in its local books as payments for customs agency services.
+
+26. Benton, on or about December 21, 2004, received an e-mail from the Pride
+Mexico manager detailing the facts surrounding the bribe and stating, âNow we need to find out
+a way to justify the extra payment to customs.â Despite his knowledge of the bribe, Benton did
+not inform Prideâs management, legal department, or internal auditors of the matter and allowed
+the false record to remain in Pride Mexicoâs books and records.
+
+False Representations to Accountants
+
+27. Benton, an officer of Pride, on or about March 3, 2005 and May 5, 2006, signed
+false certifications in connection with the companyâs 2004 and 2005 annual reports. The March
+3, 2005 certificationâexecuted less than three weeks after Benton redacted all references to
+bribery from the internal audit action planâtrepresented that he knew of no bribes paid to
+government officials to obtain or retain business. Bentonâs May 5, 2006 certification also stated
+that he was not aware of any bribes or other violations of the FCPA. Both certifications were
+false due to Bentonâs knowledge, and in one instance authorization, of the Venezuelan and
+Mexican bribes described above. But for Bentonâs false statements, Prideâs management and
+internal and external auditors would have discovered the bribery schemes and the corresponding
+false books and records.
+
+FIRST CLAIM
+Violations of Section 30A of the Exchange Act
+(Anti-Bribery)
+28. Paragraphs | through 27 above are realleged and incorporated by reference
+
+herein.
+
+SEC v. Benton Page 7
+Complaint
+Case 4:09-cv-03963 Document1 Filed in TXSD on 12/11/09 Page 8 of 11
+
+29. As described above, Benton, an âofficerâ and âemployeeâ of âissuerâ Pride acting
+on behalf of Pride and certain of its subsidiaries, made use of the mails or any means or
+instrumentality of interstate commerce corruptly in furtherance of an offer, payment, promise to
+pay, or authorization of the payment of any money, or offer, gift, promise to give, or
+authorization of the giving of anything of value, to foreign officials for the purposes of
+influencing their acts or decisions, securing an improper advantage, or inducing them to use their
+influence, to assist Pride or its subsidiaries in obtaining or retaining business.
+
+30. In addition, Benton corruptly committed acts outside the United States in
+furtherance of an offer, payment, promise to pay, or authorization of the payment of any money,
+or offer, gift, promise to give, or authorization of the giving of anything of value, to foreign
+officials for the purposes of influencing their acts or decisions, securing an improper advantage,
+or inducing them to use their influence, to assist Pride or its subsidiaries in obtaining or retaining
+business.
+
+31. By reason of the foregoing, Benton violated, and unless restrained and enjoined
+may continue to violate, Section 30A of the Exchange Act [15 U.S.C. Â§ 78dd-1].
+
+SECOND CLAIM
+Violations of Section 13(b)(5) of the Exchange Act and Exchange Act Rule 13b2-1
+
+(Circumvention of Internal Controls and Falsification of Books and Records)
+
+32. Paragraphs | through 27 above are realleged and incorporated by reference
+herein.
+
+33. Section 13(b)(5) of the Exchange Act prohibits any person from knowingly
+circumventing or knowingly failing to implement a system of internal accounting controls or
+knowingly falsifying any book, record, or account described in Section 13(b)(2) of the Exchange
+
+Act. Exchange Act Rule 13b2-1 likewise prohibits any person from directly or indirectly
+
+SEC v. Benton Page 8
+Complaint
+Case 4:09-cv-03963 Document1 Filed in TXSD on 12/11/09 Page 9 of 11
+
+falsifying, or causing to be falsified, any book, record, or account subject to Section 13(b)(2)(A)
+of the Exchange Act.
+
+34. By reason of the foregoing, Benton violated, and unless restrained and enjoined
+may continue to violate, Section 13(b)(5) of the Exchange Act and Exchange Act Rule 13b2-1
+[15 U.S.C. Â§ 78m(b)(5) and 17 C.F.R. Â§ 240.13b2-1].
+
+THIRD CLAIM
+Violations of Exchange Act Rule 13b2-2
+(False Representations to Accountants)
+
+35. Paragraphs | through 27 above are realleged and incorporated by reference
+herein.
+
+36. Exchange Act Rule 13b2-2 prohibits officers and directors of issuers from
+making, or causing to be made, materially false or misleading statements, or omitting, or causing
+to be omitted, any material fact necessary to make the statement made not misleading in light of
+the circumstances, to an accountant in connection with (i) any audit, review, or examination of
+the financial statements of an issuer or (11) the preparation or filing of any document or report
+required to be filed with the Commission.
+
+37. By reason of the foregoing, Benton violated, and unless restrained and enjoined
+may continue to violate, Exchange Act Rule 13b2-2 [17 C.F.R. Â§ 240.13b2-2].
+
+FOURTH CLAIM
+Aiding and Abetting Violations of Section 30A of the Exchange Act
+(Anti-Bribery)
+
+38. Paragraphs | through 27 above are realleged and incorporated by reference
+
+herein.
+
+39. As described above, Benton knowingly provided substantial assistance to others
+
+who, acting on behalf of Pride, made use of the mails or any means or instrumentality of
+
+SEC v. Benton Page 9
+Complaint
+Case 4:09-cv-03963 Document1 Filed in TXSD on 12/11/09 Page 10 of 11
+
+interstate commerce corruptly in furtherance of an offer, payment, promise to pay, or
+authorization of the payment of any money, or offer, gift, promise to give, or authorization of the
+giving of anything of value, to foreign officials for the purposes of influencing their acts or
+decisions, securing an improper advantage, or inducing them to use their influence, to assist
+Pride or its subsidiaries in obtaining or retaining business.
+
+AO. By reason of the foregoing, Benton aided and abetted, and unless restrained and
+enjoined may continue to aid and abet, violations of Section 30A of the Exchange Act [15 U.S.C.
+Â§ 78dd-1].
+
+FIFTH CLAIM
+Aiding and Abetting Violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act
+(Books and Records and Internal Controls)
+
+Al. Paragraphs 1 through 27 above are realleged and incorporated by reference
+herein.
+
+42. Certain of Prideâs subsidiaries operating in Venezuela and Mexico inaccurately
+recorded bribes as legitimate business expenses, causing inaccuracies in Prideâs consolidated
+books and records in violation of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15
+U.S.C. Â§Â§ 78m(b)(2)(A) and 78m(b)(2)(B)]. Through his participation in the bribery schemes as
+described above, Benton knowingly provided substantial assistance to Pride in its violations.
+
+43. By reason of the foregoing, Benton aided and abetted, and unless restrained and
+enjoined may continue to aid and abet, violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the
+
+Exchange Act [15 U.S.C. Â§Â§ 78m(b)(2)(A) and 78m(b)(2)(B)].
+
+SEC v. Benton Page 10
+Complaint
+Case 4:09-cv-03963 Document1 Filedin TXSD on 12/11/09 Page 11 of 11
+
+RELIEF REQUESTED
+
+The Commission respectfully requests that this Court:
+
+(1) enter an order permanently enjoining Defendant Benton from violating Sections
+13(b)(5) and 30A [15 U.S.C. Â§Â§ 78m(b)(5) and 78dd-1] of the Exchange Act and
+Exchange Act Rules 13b2-1 and 13b2-2 [17 C.F.R. Â§Â§ 240.13b2-1 and 240.13b2-
+2] and from aiding and abetting violations of Sections 13(b)(2)(A), 13(b)(2)(B),
+and 30A of the Exchange Act [15 U.S.C. Â§Â§ 78m(b)(2)(A), 78m(b)(2)(B), and
+78dd-1];
+
+(2) order Defendant Benton to pay a civil penalty pursuant to Sections 21(d)(3) and
+32(c) of the Exchange Act [15 U.S.C. Â§Â§ 78u(d)(3) and 78ff(c)];
+
+(3) order Defendant Benton to pay disgorgement and prejudgment interest; and
+
+(4) grant the Commission such other and further relief as is just and appropriate.
+
+DATED: December 10, 2009 Respectfully submitted,
+
+SEC v. Benton
+Complaint
+
+s/ J. Kevin Edmundson
+J. KEVIN EDMUNDSON
+Texas Bar No. 24044020
+S.D. Bar No. 24109
+JASON ROSE
+Texas Bar No. 24007946
+
+U.S. Securities and Exchange Commission
+Burnett Plaza, Suite 1900
+
+801 Cherry Street, Unit #18
+
+Fort Worth, TX 76102-6882
+
+(817) 978-6411 Gke)
+
+(817) 978-4927 (fax)
+
+Page 11

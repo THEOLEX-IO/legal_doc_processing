@@ -1,0 +1,757 @@
+Case 2:16-cv-06167 Document1 Filed 09/30/16 Page 1 of 24 PagelD: 1
+
+THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF NEW JERSEY
+
+ 
+
+U.S. COMMODITY FUTURES
+
+TRADING COMMISSION,
+
+Civil Action No.
+
+Plaintiff,
+COMPLAINT FOR INJUNCTIVE AND
+-against- OTHER EQUITABLE RELIEF AND
+
+FOR CIVIL MONETARY PENALTIES
+ALCIBIADES CIFUENTES, UNDER THE COMMODITY EXCHANGE
+JENNIFER WEE CIFUENTES, and ACT AND COMMISSION REGULATIONS
+
+CIFUENTES FUND MANAGEMENT, LLC,
+
+Defendants.
+
+ 
+
+ 
+
+Plaintiff U.S. Commodity Futures Trading Commission (âCommissionâ) alleges as
+follows:
+
+I. INTRODUCTION
+1. From at least April 2013 through March 2015 (the âRelevant Periodâ), Alcibiades
+
+Cifuentes (âCifuentesâ) and Jennifer Wee Cifuentes, f/k/a Jennifer Fernandez Wee (ââWeeâ),
+individually and as founders and principals of Cifuentes Fund Management, LLC (âCFMâ),
+(collectively, âDefendantsâ) engaged in a fraudulent scheme to solicit and misappropriate funds
+for a pooled investment vehicle in off-exchange leveraged or margined foreign currency
+exchange (âforexâ) contracts in violation of the Commodity Exchange Act (âActâ) and its
+implementing regulations (âRegulationsâ).
+
+2. Cifuentes and Wee, through CFM, devised a sham forex pool in order to finance
+their lavish lifestyles with funds misappropriated from pool participants. To execute their
+
+scheme, Cifuentes and Wee knowingly made fraudulent and materia! misrepresentations and
+Case 2:16-cv-06167 Document 1 Filed 09/30/16 Page 2 of 24 PagelD: 2
+
+omissions about their forex trading strategy and investment returns to persuade at least 24
+individuals (âpool participantsâ) to transfer approximately $590,000 to Defendants for the
+purpose of participating in a pooled forex investment vehicle.
+
+3. To entice pool participants, Cifuentes and Wee knowingly and falsely represented
+that certain fictitious practice forex trades â carefully selected from a demonstration, or âdemo,â
+account with no risk of loss â represented actual, and profitable, forex trades. Cifuentes and Wee
+also fraudulently represented that CFM would pay pool participants âguaranteedâ monthly
+returns equal to 10% of each deposit, paid quarterly. Cifuentes and Wee made these false
+representations with the intent to defraud pool participants.
+
+4. Rather than trading forex contracts with pool participantsâ funds, Cifuentes and
+Wee â often without even attempting to trade the money entrusted to them â immediately
+misappropriated all or most of pool participantsâ funds and used them to purchase luxury
+vehicles, jewelry, and clothing for themselves, among other items. To prevent their fraud from
+being uncovered, Cifuentes and Wee also diverted pool participantsâ deposits to other victims as
+âdividendsâ in the manner of a Ponzi scheme.
+
+5. To further conceal their fraud from pool participants, Cifuentes and Wee
+fabricated account statements that falsely represented to pool participants that their funds were
+deposited into CFM accounts and were generating significant returns. The fabricated account
+statements did not disclose that Cifuentes and Wee had actually stolen all or most of pool
+participantsâ funds and that the stated returns were, in fact, illusory.
+
+6. By virtue of this conduct, and as more fully set forth below, Defendants have
+
+engaged, are engaging, and/or are about to engage in acts and practices in violation of provisions
+Case 2:16-cv-06167 Document1 Filed 09/30/16 Page 3 of 24 PagelD: 3
+
+of the Act, 7 U.S.C. Â§Â§ 1-26 (2012), and the Regulations promulgated thereunder, 17 C.F.R.
+Â§Â§ 1.1-190.10 (2016).
+
+7. Accordingly, pursuant to Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), the
+Commission seeks civil monetary penalties and remedial ancillary relief including, but not
+limited to, trading and registration bans, restitution, disgorgement, rescission, pre- and post-
+
+judgment interest, and such other relief as the Court may deem necessary and appropriate.
+
+II. JURISDICTION AND VENUE
+8. This Court possesses jurisdiction over this action pursuant to Section 6c(a) of the
+
+Act, 7 U.S.C. Â§ 13a-1 (2012), which authorizes the Commission to seek injunctive and other
+relief against any person whenever it appears to the Commission that such person has engaged, is
+engaging, or is about to engage in any act or practice constituting a violation of any provision of
+the Act or any rule, regulation, or order thereunder, and Section 2(c)(2)(C) of the Act, 7 U.S.C.
+Â§ 2(c)(2)(C) (2012), which provides the Commission with jurisdiction over the forex solicitations
+and transactions at issue in this action.
+
+9. Venue lies properly in this District pursuant to Section 6c(e) of the Act, 7 U.S.C.
+Â§ 13a-1(e) (2012), because Cifuentes and Wee reside in, transacted business in, and committed
+acts and practices in violation of the Act and Regulations individually and on behalf of CFM
+within this District.
+
+Il. THE PARTIES
+
+10.â Plaintiff U.S. Commodity Futures Trading Commission is an independent federal
+regulatory agency charged by Congress with the administration and enforcement of the Act and
+Regulations. The Commission maintains its principal office at 1155 21st Street N.W.,
+
+Washington, DC 20581.
+Case 2:16-cv-06167 Document1 Filed 09/30/16 Page 4 of 24 PagelD: 4
+
+11. Defendant Alcibiades Cifuentes is the spouse of Wee and, along with Wee, is one
+of two founders and principals of CFM. During the Relevant Period, Cifuentes was the Chief
+Executive Officer, Member, and Managing Principal of CFM. Along with Wee, Cifuentes is a
+signatory on the bank accounts and forex trading accounts used by and on behalf of CFM.
+Cifuentes resides in West New York, New Jersey. Cifuentes has never been registered in any
+capacity with the Commission.
+
+12. Defendant Jennifer Wee Cifuentes is the spouse of Cifuentes and, along with
+Cifuentes, is one of two founders and principals of CFM. During the Relevant Period, Wee was
+the Head of Trading and Risk Management and the Managing Principal of CFM. Along with
+Cifuentes, Wee is a signatory on the bank accounts and forex trading accounts used by and on
+behalf of CFM. Wee resides in West New York, New Jersey. Wee has never been registered in
+any capacity with the Commission.
+
+13. Defendant Cifuentes Fund Management, LLC is a Delaware limited liability
+company organized on June 11, 2013. CFM lists its principal place of business as New York,
+New York. CFM is the alter ego of Cifuentes and Wee. During the Relevant Period, Cifuentes
+and Wee were the sole managers of CFM, Cifuentes and Wee were the only principals and
+employees of CFM, Cifuentes and Wee comingled their personal funds with the funds of CFM,
+and CFM held itself out as the âDBAâ (doing business as) entity of Cifuentes and Wee.
+
+IV. FACTS
+
+A. Operation of CFM
+
+14. Onor about November 17, 2012, Cifuentes and Wee, in their names, opened joint
+forex trading account *2899 with GFT Global Markets UK Ltd. (âGFTâ), (the âTrading
+Accountâ), a now defunct online foreign exchange trading firm based in London, United
+
+Kingdom (âUKâ). On or about February 19, 2013, Cifuentes and/or Wee made a sole deposit of
+
+-4-
+Case 2:16-cv-06167 Document1 Filed 09/30/16 Page 5 of 24 PagelD: 5
+
+$3,490.44 into the Trading Account. By April 23, 2013, loss-making forex trades by Cifuentes
+and/or Wee reduced the balance of the Trading Account to $130.94, meaning that in less than six
+months Cifuentes and/or Wee had lost 96.25% of their original balance through forex trading.
+
+15. In addition to offering live forex trading accounts, GFT permitted users to
+establish âpractice,â or âdemo,â forex trading accounts to become familiar with the GFT trading
+platform without risking real money. Trades placed in GFT practice accounts were for
+demonstration purposes only and did not involve the actual purchase or sale of forex contracts.
+
+16. In or around April 2013 Cifuentes and Wee established a GFT practice forex
+trading account (the âDemo Accountâ). While Cifuentes and Wee occasionally made a
+âprofitableâ practice trade in the Demo Account, the Demo Account on balance returned
+fictitious net âlossesâ that exceeded $5 million during the Relevant Period.
+
+17. On or about May 1, 2013, Cifuentes and Wee registered the Internet domain name
+www.cifuentesfund.com, which they used to host CFMâs public website (the âCFM Websiteâ).
+Cifuentes and Wee at all times managed and controlled the CFM Website and used the CFM
+Website to solicit pool participants to transfer funds to Defendants.
+
+18. During the Relevant Period, Cifuentes and Wee knowingly used the CFM
+Website to solicit funds for a pooled investment vehicle that is not an eligible contract participant
+in connection with off-exchange leveraged or margined forex contracts without being registered
+with the Commission and make numerous fraudulent and false misrepresentations and material
+omissions designed to attract pool participants. For example, Cifuentes and Wee selected
+screenshots of their occasional fictitious profit-generating forex trades from the Demo Account
+and posted them to the CFM Website, falsely representing that these practice trades reflected
+
+CFMâs actual forex trades. Cifuentes and Wee did not disclose to prospective pool participants
+Case 2:16-cv-06167 Document1 Filed 09/30/16 Page 6 of 24 PagelD: 6
+
+that the posted practice trades were fictitious, that the posted practice trades involved no money
+and no risk, or that overall the Demo Account was actually suffering massive net âlosses.â
+
+19. Cifuentes and Wee used the CFM Website to market CFMâs purported investment
+opportunities, including an âFX Certificate of Deposit.â Through the CFM Website, Cifuentes
+and Wee described the FX Certificate of Deposit as a forex investment that generated profits
+âguaranteed at a fixed rate of return of 10% per month,â with 6-month and 12-month deposits
+respectively yielding â60% growth on expirationâ or â120% growth on expiration.â
+
+20. In addition to the CFM Website, Cifuentes and Wee used e-mail communications,
+telephone discussions, and face-to-face meetings to solicit pool participants to make initial
+deposits into CFM or to increase their deposits into CFM. During these communications,
+Cifuentes and Wee often represented that deposits into CFM would yield âguaranteedâ returns of
+10% per month, paid quarterly.
+
+21. At the direction of Cifuentes and Wee, pool participants entered into Subscription
+Agreements with âAlcibiades Cifuentes and/or [sic] Jennifer Wee Cifuentes DBA Cifuentes
+Fund Management, LLC.â The Subscription Agreements provided that Defendants would
+transfer âsecuritiesâ reflecting a âlimited partnership interestâ to a pool participant in exchange
+for the pool participantâs transfer of funds to Defendants. The Subscription Agreements further
+provided that each pool participant would receive, on a quarterly basis, monthly dividends
+âguaranteed to be no less thanâ 10 percent of the pool participantâs principal deposits. The
+Subscription Agreements also provided that pool participants could withdraw their funds from
+CFM and would receive redemptions via wire transfer, subject to âa 30-business day waiting
+
+period.â Cifuentes and Wee often directed existing pool participants seeking to deposit
+ 
+
+Case 2:16-cv-06167 Documenti1 Filed 09/30/16 Page 7 of 24 PagelD: 7
+
+additional funds with CFM to enter into new Subscription Agreements covering the additional
+deposits.
+
+22. At the direction of Cifuentes and Wee, pool participants transferred funds via wire
+and check payments to two CFM bank accounts (Wells Fargo account *2449 and Santander
+Bank account *1166), as well as to one individual personal bank account of Cifuentes and six
+individual personal bank accounts of Wee.
+
+23. | Upon information and belief, Cifuentes and Wee never transferred pool
+participantsâ funds to the Trading Account or used pool participant funds to trade forex. Instead,
+Cifuentes and Wee misappropriated all or most of pool participantsâ funds â sometimes by
+withdrawing pool participantsâ funds the very day such funds were deposited in Defendantsâ
+bank accounts â to finance Cifuentesâs and Weeâs lavish lifestyles and pay for their personal
+expenses,
+
+24. For example, on May 20, 2014, pool participant R.V. wired $30,000 in poo!
+participant funds to Cifuentesâs Citibank account *3584, which at the time held a balance of
+$174.15. That same day, Cifuentes and/or Wee drew a $25,000 cashierâs check on Citibank
+account *3584, made payable to a luxury car dealer in Secaucus, New Jersey. Also on May 20,
+2014, Cifuentes and/or Wee used Citibank account *3584 to make a debit card purchase of
+approximately $5,000 at Omega Boutique, a high-end watch vendor in Hackensack, New Jersey.
+
+25. To prevent pool participants from discovering their fraud, Cifuentes and Wee also
+misappropriated pool participantsâ deposits in the manner of a Ponzi scheme by diverting pool
+participantsâ funds to other pool participants and falsely characterizing them as âdividends.â
+
+26. Throughout the Relevant Period, Cifuentes and Wee falsely and fraudulently
+
+represented to pool participants that their funds were used to trade or invest in forex contracts
+Case 2:16-cv-06167 Documenti Filed 09/30/16 Page 8 of 24 PagelD: 8
+
+and that money deposited with Defendants was safe, insured, and subject to rigorous risk-
+management procedures. At no point did Cifuentes or Wee disclose to poo! participants that
+their funds were being misappropriated.
+B. Fraudulent Representations to Pool Participants
+27. During the Relevant Period, Cifuentes and Wee knowingly used the CFM
+Website to make the following false and fraudulent statements and material omissions to induce
+pool participants to transfer funds to Defendants and to conceal Defendantsâ fraudulent scheme
+from detection, among others:
+a) Cifuentes and Wee posted Demo Account excerpts to the CFM Website and
+represented them as CFMâs real forex trades placed between May and June 2013.
+These representations were false and fraudulent because the Demo Account
+excerpts did not reflect actual forex trades by CFM, and Cifuentes and Wee
+selected only âprofitableâ fictitious trades to create the false impression that
+CFMâs trades were successful.
+b) Cifuentes and Wee represented, âwhat we can guarantee is that our clients [sic]
+money will always be traded by reputable and financially strong Futures &
+Commodities Merchants who are registered and regulated internationally.â This
+statement was false and fraudulent because Cifuentes and Wee did not trade pool
+participantsâ funds, and instead misappropriated such funds for their personal use.
+c) Cifuentes and Wee represented that FX Certificates of Deposit purchased from
+CFM were âguaranteed at a fixed rate of return of 10% per month,â that 6-month
+Certificates would yield â10% per month @ 60% GROWTH ON EXPIRATION,â
+
+and that 12-month Certificates would yield â10% per month @ 120% GROWTH
+Case 2:16-cv-06167 Document1 Filed 09/30/16 Page 9 of 24 PagelD: 9
+
+ON EXPIRATION.â These representations were false and fraudulent because
+
+Cifuentes and Wee knowingly misappropriated all or most of pool participantsâ
+
+funds, never purchased FX Certificates of Deposit, and because pool participants
+
+did not receive the âguaranteedâ returns.
+d) Cifuentes and Wee represented that pool participantsâ deposits were âFDIC
+
+Insuredâ and were protected from loss by an âInvestor Compensation Fund.â
+
+These representations were false and fraudulent because Cifuentes and Wee knew
+
+at the time that pool participantsâ funds were not insured and that CFM did not
+
+have an Investor Compensation Fund.
+e) Cifuentes and Wee represented that CFM achieved profitability âthrough
+
+algorithmic tradingâ involving âdiversified currencies and strategies.â These
+
+representations were false and fraudulent because Cifuentes and Wee knew at the
+
+time that CFM was not profitable, did not utilize algorithmic trading, did not trade
+
+pool participantsâ funds in currencies (or anything), and did not employ any
+
+trading strategies.
+
+f) Cifuentes and Wee made material omissions to pool participants and prospective
+
+pool participants, including by failing to disclose that: (i) Defendants did not
+
+have a history of profitable forex trading; (ii) Defendants did not trade forex with
+
+pool participantsâ funds; (iii) Cifuentes and Wee misappropriated pool
+
+participantsâ funds for their personal use and to pay âdividendsâ to other pool
+
+participants; and (iv) the Demo Account had actually âlostâ $5 million during the
+
+Relevant Period.
+Case 2:16-cv-06167 Document1 Filed 09/30/16 Page 10 of 24 PagelD: 10
+
+28. Throughout the Relevant Period, Cifuentes and Wee knowingly made additional
+false and fraudulent representations about their forex trading abilities and CFMâs âguaranteedâ
+returns to pool participants and prospective pool participants via face-to-face meetings, e-mail,
+and the telephone. These fraudulent communications were intended to lure pool participants into
+depositing funds with CFM.
+
+29. Induced by Cifuentesâs and Weeâs false and fraudulent representations, pool
+participant N.M. entered into a Subscription Agreement with Defendants on November 1, 2013.
+The Subscription Agreement falsely promised N.M. monthly dividends âguaranteed to be no less
+thanâ 10% of N.M.âs $20,000 principal deposit, paid quarterly.
+
+30. Between November 30, 2013, and April 4, 2014, N.M. entered into three
+additional Subscription Agreements with Cifuentes and Wee, each of which falsely promised
+N.M. monthly dividends of 10% of principal, paid quarterly.
+
+31. Based upon Cifuentesâs and Weeâs false and fraudulent representations, N.M.
+transferred a total of $76,000 in pool participant funds to Defendants via check and wire
+payments during the Relevant Period. Cifuentes and Wee misappropriated N.M.âs funds for their
+personal use almost immediately.
+
+32. By way of example, on April 4, 2014, N.M. wired $16,000 in pool participant
+funds to CFMâs Santander Bank account *1166, which Cifuentes and/or Wee had opened with a
+balance of $500 on the prior day. On or about April 7, 2014, Cifuentes and/or Wee drew a
+$9,500 check on Santander account *1166, made payable to a luxury car dealer in Secaucus,
+New Jersey. Three days later, on April 10, 2013, Cifuentes and/or Wee made a $6,000 cash
+
+withdrawal from Santander account *1166. The $6,000 cash withdrawal was misappropriated by
+
+-10-
+Case 2:16-cv-06167 Document 1 Filed 09/30/16 Page 11 of 24 PagelD: 11
+
+Cifuentes and/or Wee and was not used to trade or invest in forex (or anything else) on behalf of
+N.M.
+
+33. Pool participant R.V. also lost money as a result of Cifuentesâs and Weeâs false
+and fraudulent representations. Induced by Cifuentesâs and Weeâs false and fraudulent
+representations and omissions, R.V. executed three Subscription Agreements with Cifuentes and
+Wee between February 27, 2013, and May 19, 2014, each of which falsely promised R.V.
+âguaranteedâ monthly dividends equal to 10% of principal, paid quarterly.
+
+34. Based upon Cifuentesâs and Weeâs false and fraudulent representations, on May
+20, 2014, R.V. made six wire transfers to Defendants totaling $126,000. Cifuentes and Wee
+immediately misappropriated al! or most of R.V.âs funds to pay for their personal expenses
+and/or to support their lavish lifestyles, including luxury vehicles and jewelry.
+
+35. | Toconceal their misappropriation of N.M.âs and R.V.âs pool participant funds,
+Cifuentes and Wee generated false and fraudulent account statements during the Relevant
+Period. The fabricated account statements provided fake âReturns Earned,â and identified
+illusory balances in N.M.âs and R.V.âs CFM accounts. In reality, such returns did not exist, and
+Cifuentes and Wee had long since misappropriated N.M.âs and R.V.âs funds.
+
+36. To prevent their fraud from being detected, Cifuentes and Wee at various times
+during the Relevant Period provided pool participants with âdividendsâ paid by check and wire
+transfer. Contrary to Cifuentesâs and Weeâs representations, these âdividendâ checks were not
+the result of profitable forex trading or investment, but were the diverted funds of other pool
+participants. By way of example, between September 5, 2014, and January 5, 2015, Defendants
+used CFMâs Wells Fargo Bank account *2449 to write six âdividendâ checks payable to N.M.,
+
+each in the amount of $6,000. Cifuentes signed each check on behalf of CFM.
+
+-li-
+Case 2:16-cv-06167 Documenti Filed 09/30/16 Page 12 of 24 PagelD: 12
+
+37. While some pool participants during portions of the Relevant Period received the
+âdividendâ payments they expected, others did not. On or about August 14, 2014, Wee, unable
+to access sufficient funds to provide pool participant R.V. with an expected dividend of $19,400,
+wired a âpartialâ dividend of $3,939 to R.V. Between August and October 2014, Wee
+knowingly made a series of false statements to R.V. to explain why the full dividend amounts
+R.V. expected had not been paid, including that: (i) financial institution delays were to blame for
+the incomplete dividend payments; (ii) Wee had sent wire transfers to R.V. that she had not in
+fact sent; and (iii) fictitious international âbankersâ acting on behalf of CFM were unavailable to
+submit wire transfers. Wee knowingly made these false statements for the purpose of concealing
+from R.V. that Cifuentes and Wee had misappropriated all or most of R.V.âs deposits with CFM.
+
+STATUTORY AND REGULATORY VIOLATIONS
+COUNT ONE
+
+FRAUD IN CONNECTION WITH FOREX CONTRACTS
+Violations of Sections 4b(a)(2)(A)-(C) of the Act and Regulation 5.2(b)
+
+38. The allegations set forth in the foregoing paragraphs are re-alleged and
+incorporated herein by reference.
+
+39. Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. Â§ 6b(a)(2)(A)-(C) (2012), makes it
+unlawful
+
+for any person, in or in connection with any order to make, or the
+making of, any contract of sale of any commodity for future
+delivery, or swap, that is made, or to be made, for or on behalf of,
+or with, any other person other than on or subject to the rules of a
+designated contract market â (A) to cheat or defraud or attempt to
+cheat or defraud the other person; (B) willfully to make or cause to
+be made to the other person any false report or statement or
+willfully to enter or cause to be entered for the other person any
+false record; [or] (C) willfully to deceive or attempt to deceive the
+other person by any means whatsoever in regard to any order or
+contract or the disposition or execution of any order or contract, or
+in regard to any act of agency performed, with respect to any order
+
+-12-
+Case 2:16-cv-06167 Document1 Filed 09/30/16 Page 13 of 24 PagelD: 13
+
+or contract for or, in the case of paragraph (2), with the other
+person.
+
+40. Section 2(c)(2)(C)(iv) of the Act, 7 U.S.C. Â§ 2(c)(2)(C)(iv) (2012), states that
+Section 4b of the Act, 7 U.S.C. Â§ 6b (2012), applies to the forex transactions, agreements, or
+contracts offered by Defendants as if they were contracts of sale of a commodity for future
+delivery. -
+
+41. Regulation 5.2(b), 17 C.F.R. Â§ 5.2(b) (2016), makes it unlawful
+
+for any person, by use of the mails or by any means or
+instrumentality of interstate commerce, directly or indirectly, in or
+in connection with any retail forex transaction: (1) To cheat or
+defraud or attempt to cheat or defraud any person; (2) Willfully to
+make or cause to be made to any person any false report or
+statement or cause to be entered for any person any false record; or
+(3) Willfully to deceive or attempt to deceive any person by any
+means whatsoever.
+
+42. During the Relevant Period, Cifuentes and Wee cheated or defrauded or attempted
+to cheat or defraud other persons; issued or caused to be issued false statements and records; and
+willfully deceived or attempted to deceive other persons in connection with offering of, or
+entering into the off-exchange leveraged or margined forex transactions alleged herein, by,
+among other things: (i) fraudulently soliciting pool participants and prospective pool participants
+by making material misrepresentations and omissions about Defendantsâ forex trading and
+investing abilities, strategies, and profits; (ii) misappropriating pool participantsâ funds; and (iii)
+fabricating false records and account statements, all in violation of Section 4b(a)(2)(A)-(C) of the
+Act, 7 U.S.C. Â§ 6b(a)(2)(A)-(C) (2012), and Regulation 5.2(b), 17 C.F.R. Â§ 5.2(b) (2016).
+
+43.  Cifuentes and Wee engaged in the acts and practices described above knowingly,
+
+willfully or with reckless disregard for the truth.
+
+-13-
+Case 2:16-cv-06167 Document1 Filed 09/30/16 Page 14 of 24 PagelD: 14
+
+44. The foregoing acts of fraudulent solicitation, misappropriation, and false
+statements by Cifuentes and Wee occurred within the scope of their employment, office, or
+agency with CFM. Therefore, CFM is liable for Cifuentesâs and Weeâs violations of the Act and
+Regulations, as alleged in this count, pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C.
+
+Â§ 2(a)(1)(B) (2012), and Regulation 1,2, 17 C.F.R. Â§ 1.2 (2016).
+
+45. Cifuentes and Wee, directly or indirectly, controlled CFM, and did not act in good
+faith, or knowingly induced, directly or indirectly, the acts constituting CFMâs violations of the
+Act and Regulations alleged in this count. Cifuentes and Wee are thereby liable for CMFâs
+violations of the Act and Regulations, as alleged in this count, pursuant to Section 13(b) of the
+Act, 7 U.S.C. Â§ 13c(b) (2012).
+
+46. Each act of fraudulent solicitation, misappropriation, and false statement or
+report, including but not limited to those specifically alleged herein, is alleged as separate and
+distinct violations of Section 4b(a)(2)(A)-(C) of the Act, 7 U.S.C. Â§ 6b(a)(2)(A)-(C) (2012), and
+Regulation 5.2(b), 17 C.F.R. Â§ 5.2(b) (2016).
+
+COUNT TWO
+
+FRAUD BY A COMMODITY POOL OPERATOR
+Violations of Section 40(1)(A) and (B) of the Act and Regulation 4.41(a)
+
+47. The allegations set forth in preceding paragraphs are re-alleged and incorporated
+herein by reference.
+48. Section 40(1) of the Act, 7 U.S.C. Â§ 60(1) (2012), makes it unlawful for
+Commodity Pool Operators (âCPOâ) and associated persons of CPOs
+by use of the mails or any other means or instrumentality of
+interstate commerce, directly or indirectly â- (A) to employ any
+device, scheme, or artifice to defraud any client or participant or
+
+prospective client or participant; or (B) to engage in any
+transaction, practice, or course of business which operates as a
+
+-14-
+Case 2:16-cv-06167 Documenti1 Filed 09/30/16 Page 15 of 24 PagelD: 15
+
+fraud or deceit upon any client or participant or prospective client
+or participant.
+
+49. Regulation 5.4, 17 C.F.R. Â§ 5.4 (2016), states that Part 4 of the Regulations, 17
+C.F.R. Â§Â§ 4.1 â 4.41 (2016), applies to any person required to register as a CPO pursuant to Part
+5 of the Regulations related to off-exchange forex transactions, 17 C.F.R. Â§Â§ 5.1 â 5.25 (2016).
+
+50. Regulation 4.41(a), 17 C.F.R. Â§ 4.41(a) (2016), makes it unlawful for any CPO, or
+any principal thereof, to publish, distribute, or broadcast, whether by electronic media or
+otherwise, any report, letter, circular, memorandum, publication, writing, advertisement, or other
+literature or advice that (1) employs any device, scheme, or artifice to defraud any participant or
+client or prospective participant or client; or (2) involves any transaction, practice, or course of
+business which operates as a fraud or deceit upon any participant or client or any prospective
+participant or client.
+
+51. As alleged herein, CFM was required to register as a CPO during the Relevant
+Period.
+
+52. Asset forth above, during the Relevant Period, CFM, through Cifuentes and Wee,
+acted as a CPO by soliciting, accepting, or receiving funds from the public while engaged ina
+business that is of the nature of an investment trust, syndicate, or similar form of enterprise, for
+the purpose of, among other things, trading in off-exchange leveraged or margined forex
+contracts. Cifuenetes and Wee acted as associated persons of a CPO because they were partners,
+officers, employees, consultants, or agents of a CPO in a capacity that involved the solicitation of
+funds, securities, or property for participation in a commodity pool.
+
+53. | CFM, through Cifuentes and Wee, and Cifuentes and Wee in their individual
+capacities, violated Section 40(1)(A) and (B) of the Act, 7 U.S.C. Â§ 60(1)(A) and (B) (2012), and
+
+Regulation 4.41(a), 17 C.F.R. Â§ 4.41(a) (2016), in that they employed or are employing a device,
+
+-15-
+Case 2:16-cv-06167 Document1 Filed 09/30/16 Page 16 of 24 PagelD: 16
+
+scheme, or artifice to defraud actual and prospective pool participants or engaged or are
+engaging in transactions, practices, or a course of business which operated or operates as a fraud
+or deceit upon pool participants or prospective pool participants. The fraudulent acts include
+those described in Counts One and Two of this Complaint, as set forth above. 54. Cifuentes and
+Wee, directly or indirectly, controlled CFM, and did not act in good faith, or knowingly induced,
+directly or indirectly, the acts constituting CFMâs violations of the Act and Regulations alleged
+in this count. Cifuentes and Wee are thereby liable for CMFâs violations of the Act, as alleged in
+this count, pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b) (2012).
+
+54. The foregoing acts of fraudulent solicitation, misappropriation, and false
+statements by Cifuentes and Wee occurred within the scope of their employment, office, or
+agency with CFM. Therefore, CFM is liable for Cifuentesâs and Weeâs violations of the Act, as
+alleged in this count, pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1)(B) (2012), and
+Regulation 1.2, 17 C.F.R. Â§ 1.2 (2016).
+
+55. Each act of fraudulent solicitation, misappropriation, and false statement or
+report, including but not limited to those specifically alleged herein, is alleged as a separate and
+distinct violation of Section 40(1) of the Act, 7 U.S.C. Â§ 60(1) (2012), and Regulation 4.41(a), 17
+C.F.R. Â§ 4.41(a) (2016).
+
+COUNT THREE
+
+FAILURE TO REGISTER AS A COMMODITY POOL OPERATOR
+Violation of Sections 2(c)(2)(C)(iii))(cc) and 4m(1) of the Act and Regulation 5.3(a)(2)(i)
+
+56. The allegations set forth in the preceding paragraphs are re-alleged and
+
+incorporated herein by reference.
+57. Section 2(c)(2)(C)(iii)(I)(cc) of the Act, 7 U.S.C. Â§ 2(c)(2)(C)Gii) Mec) (2012),
+
+makes it unlawful for any person, unless registered in such capacity as the Commission shall
+
+-16-
+Case 2:16-cv-06167 Document1 Filed 09/30/16 Page 17 of 24 PagelD: 17
+
+determine, to operate or solicit funds, securities, or property for any pooled investment vehicle
+that is not an eligible contract participant (as defined by Section 1a(18) of the Act, 7 U.S.C.
+Â§ 1(18) (2012)) in connection with agreements, contracts, or transactions described in Section
+2(c)(2)(C)(i) of the Act, 7 U.S.C. Â§ 2(c)(2)(C)(i) (2012) (leveraged or margined forex
+transactions), entered into with or to be entered into with a person who is not described in item
+(aa), (bb), (ee), or (ff) of Section 2(c)(2)(B)(i)dID) of the Act, 7 U.S.C. Â§ 2(c)(2)(B)\@(D (2012)
+(describing counterparties such as registered futures commission merchants).
+
+58. As set forth above, during the Relevant Period, CFM, through Cifuentes and Wee,
+acted as a CPO by soliciting, accepting, or receiving funds from the public while engaged in a
+business that is of the nature of an investment trust, syndicate, or similar form of enterprise, for
+the purpose of, among other things, trading in off-exchange leveraged or margined forex
+contracts.
+
+59. Section 4m(1) of the Act, 7 U.S.C. Â§ 6m(1) (2012), makes it unlawful for any
+CPO, unless registered with the Commission, to make use of the mails or any means or
+instrumentality of interstate commerce in connection with its business as a CPO.
+
+60. During the Relevant Period, CFM, through Cifuentes and Wee, made use of the
+mails or any means or instrumentality of interstate commerce in connection with its business as a
+CPO, while failing to register with the Commission, in violation of Section 4m(1) of the Act, 7
+U.S.C. Â§ 6m(1) (2012).
+
+61. Regulation 5.3(a)(2)(i), 17 C.F.R. Â§ 5.3(a)(2)(i) (2016), requires any CPO
+engaged in retail forex transactions to register with the Commission. Regulation 5.1(d)(1), 17
+
+C.F.R. Â§ 5.1(d)(1) (2016), defines a CPO as any person who âoperates or solicits funds,
+
+-17-
+Case 2:16-cv-06167 Document1 Filed 09/30/16 Page 18 of 24 PagelD: 18
+
+securities, or property for a pooled investment vehicle . . . that engages in retail forex
+transactions.â
+
+62. During the Relevant Period CFM, through Cifuentes and Wee, acted as a CPO
+because it solicited funds, securities, or property for a pooled investment vehicle that was not an
+eligible contract participant and engaged in off-exchange leveraged or margined forex
+transactions.
+
+63. During the Relevant Period, CFM was not exempt from registering as a CPO.
+
+64.  Cifuentes and Wee, directly or indirectly, controlled CFM, and did not act in good
+faith, or knowingly induced, directly or indirectly, the acts constituting CFMâs violations of the
+Act alleged in this count. Cifuentes and Wee are thereby liable for CMFâs violations of the Act,
+as alleged in this count, pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13c(b) (2012).
+
+COUNT FOUR
+FAILURE TO REGISTER
+AS ASSOCIATED PERSONS OF A COMMODITY POOL OPERATOR
+Violation of Section 4k(2) of the Act and Regulations 3.12 and 5.3(a)(2)(ii)
+
+65. The allegations set forth in the preceding paragraphs are re-alleged and
+incorporated herein by reference.
+
+66. Section 4k(2) of the Act, 7 U.S.C. Â§ 6k(2) (2012), and Regulation 5.3(a)(2)(ii), 17
+C.F.R. Â§ 5.3(a)(2)(ii) (2016), require registration with the Commission for any person who is
+associated with a CPO as a partner, officer, employee, consultant, or agent (or any person
+occupying a similar status or performing similar functions), in any capacity that involves the
+solicitation of funds, securities, or property for participation in a commodity pool or the
+
+supervision of any person or persons so engaged.
+
+-18-
+Case 2:16-cv-06167 Documenti Filed 09/30/16 Page 19 of 24 PagelD: 19
+
+67. Section 4k(2) of the Act, 7 U.S.C. Â§ 6k(2) (2012), also makes it unlawful for any
+CPO to permit any person not registered with the Commission to become or remain associated
+with the CPO in any capacity described in the preceding paragraph when the CPO knew or
+should have known that such person was not registered with the Commission or that such
+registration had expired, been suspended (and the period of suspension has not expired), or been
+revoked.
+
+68. Regulation 3.12, 17 C.F.R. Â§ 3.12 (2016), prohibits any person from being an
+associated person of a CPO unless that person is registered with the Commission as an associated
+person of the sponsoring CPO.
+
+69. Regulation 5.1(d)(2), 17 C.F.R. Â§ 5.1(d)(2) (2016), defines an associated person,
+for purposes of the Part 5 of the Regulations relating to forex transactions, as any natural person
+associated with a CPO (as that term is defined in Regulation 5.1(d)(1), 17 C.F.R. Â§ 5.1(d)(1)
+(2016)) as a partner, officer, employee, consultant, or agent that is involved in the solicitation of
+funds, securities, or property, or the supervision of any such person so engaged.
+
+70. Regulation 5.3(a)(2)(ii), 17 C.F.R. Â§ 5.3(a)(2)(ii) (2016), requires any associated
+person of a CPO engaged in retail forex transactions to register with the Commission.
+
+71. During the Relevant Period, Cifuentes and Wee, who have never been registered
+with the Commission in any capacity, acted as associated persons of a CPO by: (i) soliciting
+funds, securities, or property for participation in a commodity pool operated by CFM and/or
+supervised persons so engaged, and (ii) operating or soliciting funds, securities, or property for
+the CFM pooled investment vehicle, which was not an eligible contract participant, in connection
+
+with off-exchange leveraged or margined forex transactions.
+
+-19-
+Case 2:16-cv-06167 Document 1 Filed 09/30/16 Page 20 of 24 PagelD: 20
+
+RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that the Court, as authorized by
+Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), and pursuant to its equitable powers, enter:
+
+a) an order finding Cifuentes and Wee liable for violating Sections
+2(c)(2)(C)(iii) (ce), 4b(a)(2)(A)-(C), 4k, 4m(1), and 40(1)(A) and (B) of the Act, 7 U.S.C.
+
+Â§Â§ 2(c)(2)(C)(iii)(T)(ec), 6b(a)(2)(A)-(C), 6k, 6m(1), and 60(1)(A) and (B) (2012), and
+Regulations 3.12, 4.41(a), 5.2(b), 5.3(a)(2)(i), and 5.3(a)(2)(ii), 17 C.F.R. Â§Â§ 3.12, 4.41(a),
+5.2(b), 5.3(a)(2)(i), and 5.3(a)(2)(ii) (2016);
+
+b) an order of permanent injunction prohibiting Cifuentes and Wee, and any other
+person or entity associated with them, from engaging in conduct that violates Sections
+2(c)(2)(C)(Gii)(D)(cc), 4b(a)(2)(A)-(C), 4k, 4m(1), and 40(1)(A) and (B) of the Act, 7 U.S.C.
+
+Â§Â§ 2(c)(2)(C)(iii)()(cc), 6b(a)(2)(A)-(C), 6k, 6m(1), and 60(1)(A) and (B) (2012), and
+Regulations 3.12, 4.41(a), 5.2(b), 5.3(a)(2)(i), and 5.3(a)(2)(ii), 17 C-F.R. Â§Â§ 3.12, 4.41(a),
+5.2(b), 5.3(a)(2)(i), and 5.3(a)(2)(ii) (2016);
+
+c) an order of permanent injunction prohibiting Cifuentes and Wee and any of their
+agents, servants, employees, assigns, attorneys, holding companies, alter egos, and persons in
+active concert or participation with Defendants, including any of their successors, from, directly
+or indirectly:
+
+(i) trading on or subject to the rules of any registered entity (as that term is
+
+defined in Section 1a(40) of the Act, 7 U.S.C. Â§ la(40) (2012));
+
+(ii) entering into any transactions involving âcommodity interestsâ (as that
+term is defined in Regulation 1.3(yy), 17 C.F.R. Â§ 1.3(yy) (2014) for their own personal
+account or for any account in which they have a direct or indirect interest; ;
+
+(iii) having any commodity interests traded on their behalf;
+
+-20-
+Case 2:16-cv-06167 Document1 Filed 09/30/16 Page 21 of 24 PagelD: 21
+
+(iv) controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account involving commodity
+interests;
+
+(v) soliciting, receiving or accepting any funds from any person for the
+purpose of purchasing or selling any commodity interests;
+
+(vi) applying for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring registration or
+exemption from registration with the Commission, except as provided for in Regulation
+4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2016);
+
+(vii) acting as a principal (as that term is defined in Regulation 3.1(a), 17
+C.F.R. Â§ 3.1(a) (2016)), agent, or any other officer or employee of any person registered,
+exempted from registration, or required to be registered with the Commission, except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2016);
+
+(viii) | Engaging in any business activities related to commodity interests;
+
+d) An order directing Defendants, as well as any successors thereof, holding
+companies, and alter egos, to disgorge, pursuant to such procedure as the Court may order, all
+benefits received from the acts or practices which constitute violations of the Act and
+Regulations, as described herein, and pre- and post-judgment interest thereon from the date of
+such violations;
+
+e) An order directing Defendants, as well as any successors thereof, to make full
+restitution to every person or entity whose funds they received or caused another person or entity
+to receive as a result of acts and practices that constituted violations of the Act and Regulations,
+
+as described herein, and pre- and post-judgment interest thereon from the date of such violations;
+
+-21-
+Case 2:16-cv-06167 Document1 Filed 09/30/16 Page 22 of 24 PagelD: 22
+
+f) An order directing Defendants, as well as any successors thereof, holding
+companies, and alter egos, to rescind, pursuant to such procedures as the Court may order, all
+contracts and agreements, whether implied or express, entered into between them and any pool
+participants whose funds were received by them as a result of the acts and practices which
+constituted violations of the Act and Regulations, as described herein;
+
+g) An order directing Defendants to pay a civil monetary penalty for each violation
+of the Act and Regulations described herein, plus post-judgment interest, in the amount of the
+higher of: 1) $140,000 for each violation of the Act and Regulations committed on or after
+October 23, 2008; or 2) triple the monetary gain to defendants for each violation of the Act and
+Regulations, plus post-judgment interest;
+
+h) An order requiring Defendants to pay costs and fees as permitted by 28 U.S.C.
+Â§Â§ 1920 and 2412(a)(2) (2012); and
+
+i) Such other and further relief as the Court deems proper.
+
+Dated: September 30, 2016 Respectfully submitted,
+
+U.S. COMMODITY FUTURES
+TRADING COMMISSION
+
+s/ Daniel J. Grimm
+Daniel J. Grimm
+
+John Einstman
+
+Paul G. Hayeck
+
+U.S. Commodity Futures Trading Commission
+Division of Enforcement
+1155 21st Street, N.W.
+Washington, D.C. 20581
+p: (202) 418-5000
+
+f: (202) 418-5523
+DGrimm@cftc.gov
+JEinstman@cftc.gov
+PHayeck@cfic.gov
+
+-22-

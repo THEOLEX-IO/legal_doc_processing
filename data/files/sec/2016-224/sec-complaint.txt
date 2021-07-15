@@ -1,0 +1,697 @@
+Case 0:16-cv-62501-XXXX Document 1 Entered on FLSD Docket 10/24/2016 Page 1 of 22
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF FLORIDA
+
+ 
+
+ 
+
+ 
+
+SECURITIES AND EXCHANGE
+COMMISSION,
+Plaintiff,
+v.
+EMBRAER, S.A.
+Defendant.
+COMPLAINT
+
+Plaintiff U.S. Securities and Exchange Commission (the âCommissionââ) alleges:
+SUMMARY
+
+1. This action arises from violations of the Foreign Corrupt Practices Act (âFCPAâ)
+by Embraer S.A. (ââEmbraerâ or the âCompanyââ), a global aircraft manufacturer for the
+commercial, defense, and executive jets markets.
+
+2. Between at least May 2008 and February 2011, Embraer paid bribes through its
+U.S.-based subsidiary to foreign government officials in the Dominican Republic, Saudi Arabia,
+and Mozambique to obtain business. Embraer realized over $83 million in profits from business
+obtained through the use of illicit payments.
+
+3. These bribes were authorized by senior executives at Embraer and its subsidiaries
+while knowing or recklessly ignoring red flags which indicated a high probability that such
+payments were intended for, or would be passed to, foreign officials.
+
+4. Embraer created false books and records to conceal the authorization of least three
+
+bribe payments to at least one government official in the Dominican Republic and another two
+bribe payments to a government official in Saudi Arabia. Embraer also created false books and
+records to conceal two bribe payments to a government official in the government of
+Mozambique. These payments were remitted from a New York-based bank account held in the
+name of Embraerâs U.S. subsidiary and paid through intermediaries from as early as April 2009
+until at least February 2011.
+
+5. These payments were improperly recorded as legitimate expenses in Embraerâs
+U.S. subsidiaryâs books and records and were consolidated into Embraerâs financial statements.
+Embraerâs internal accounting controls were inadequate because they failed to prevent such
+payments or detect red flags which should have alerted its employees that these payments, in
+whole or in part, were bribes to foreign government officials. Moreover, the internal controls
+were circumvented to allow employees to authorize payments to third parties that were illegal in
+the host country, authorized with little or no supporting documents, or concealed through
+unrelated business transactions in an effort to avoid detection.
+
+6. Additionally, from January 2005 through November 2009, Embraer, through its
+employees, improperly booked large payments to an agent, and concealed its relationship with
+this agent, while trying to obtain business in India. Embraer, through its employees, went to
+great lengths to conceal the existence of the agreement with its agent in India and falsely
+recorded a payment to this agent in order to conceal the true nature of the payment, which
+Embraer employees believed were in violation of Indian law, under a different contract serviced
+in another country which did not, in reasonable detail, accurately and fairly reflect its payments
+to this agent.
+
+7. As a result of its conduct in the Dominican Republic, Saudi Arabia, and
+
+Mozambique, Embraer violated Section 30A of the Securities Exchange Act of 1934 (âExchange
+Case 0:16-cv-62501-XXXX Document 1 Entered on FLSD Docket 10/24/2016 Page 3 of 22
+
+Actâ) [15 U.S.C. Â§ 78dd-1] when it authorized or paid bribes to foreign officials in order to
+obtain or retain business. Embraer violated Section 13(b)(2)(A) of the Exchange Act [15 U.S.C.
+Â§ 78m(b)(2)(A)] when it created false books and records to conceal the authorization of bribe
+payments in the Dominican Republic, Saudi Arabia, and Mozambique and to conceal payments
+to an agent in India. Embraer also violated Section 13(b)(2)(B) of the Exchange Act [15 U.S.C.
+Â§ 78m(b)(2)(B)] by failing to have sufficient internal accounting controls in place to detect and
+prevent the authorization or payment of bribes in the Dominican Republic, Saudi Arabia, and
+Mozambique, and detect and prevent the authorization or payment to an agent in India that
+Embraer employees had reason to believe was illegal.
+
+8. Embraer is reasonably likely, unless restrained and enjoined, to continue to
+engage in the acts and practices set forth in this complaint, and in acts and practices of similar
+purport and object.
+
+JURISDICTION AND VENUE
+
+9. This Court has jurisdiction over this action pursuant to Sections 21(d), 21(e), and
+27 of the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e), and 78aa].
+
+10. Embraer, directly or indirectly, made use of the means or instrumentalities of
+interstate commerce, of the mails, or of the facilities of a national securities exchange in
+connection with the transactions, acts, practices, and courses of business alleged in this
+Complaint. Further, Embraer has consented to venue in this Court.
+
+DEFENDANT
+
+11. Embraer S.A. is a Brazilian company incorporated and headquartered in Sao
+
+Paulo, Brazil, with its North American regional office located in Fort Lauderdale, Florida. It is
+
+the worldâs largest manufacturer of mid-size commercial jets and a leading Brazilian exporter.
+Case 0:16-cv-62501-XXXX Document 1 Entered on FLSD Docket 10/24/2016 Page 4 of 22
+
+Embraer supplies defense aircraft for the Brazilian Air Force and other countries throughout
+Africa, Asia, Europe, and Latin America. It also manufactures executive jets and regional
+aircraft and offers aviation services. In 2015, Embraer employed over 22,000 employees
+worldwide and had revenues just under $6 billion. Throughout the relevant time period,
+Embraerâs common shares were registered with the Commission pursuant to Section 12(b) of the
+Exchange Act [15 U.S.C. Â§ 781] and traded in the form of American Depositary Shares that were
+represented by American Depositary Receipts listed on the NYSE.
+
+12. As such, Embraer was required to file reports, including Form 20-F, with the
+Commission pursuant to Section 13(a) of the Exchange Act [15 U.S.C. Â§ 78m] and related rules
+thereunder, and was an âissuerâ within the meaning of the FCPA [15 U.S.C. Â§ 78dd-1].
+
+RELATED ENTITIES
+
+13. Embraer Representations LLC (âEmbraer RLââ) is a wholly-owned Embraer
+subsidiary formed in Delaware. Embraer RLâs financial statements are consolidated into the
+financial statements of Embraer at the parent level. Embraer RL held and maintained the bank
+account in New York that transacted the improper payments during the relevant time period.
+
+14. ECC Investment Switzerland AG (âEmbraer AGââ) is a wholly-owned
+subsidiary of Embraer based in Switzerland. Embraer AGâs financial statements are
+consolidated into the financial statements of Embraer at the parent level.
+
+FACTUAL ALLEGATIONS
+
+A. Embraerâs Illegal Payments in the Dominican Republic
+
+15. From August 2008 through at least October 2010, Embraer, through its employees
+and agents, agreed to pay, and did pay, $3.52 million to an official of the government of the
+
+Dominican Republic to obtain a defense contract valued at approximately $96.4 million.
+16. Beginning in 2007, employees at Embraer began efforts to sell the Super Tucano
+aircraft, a turbine driven propeller military aircraft typically used for border missions to fight
+drug trafficking, counter-insurgency missions, and training, to the Fuerza AÃ©rea de Republica
+Dominicana (âFADâ), the Dominican Republicâs air force. Embraer employees negotiated
+directly with representatives from the Dominican armed forces, including a now retired
+Dominican air force colonel (âDominican Officialââ) who was a close associate to the then-
+Secretary of the Armed Forces for the Dominican Republic. There was never a public bid or
+tender for this contract.
+
+17. During the relevant time period, the Dominican Official, who acted as the
+governmentâs primary point of contact during the negotiations with Embraer, was a military or
+government official of the Dominican Republic. Embraer employees internally referred to him
+as the General Manager or Managing Director of the Project as early as May 2007. The
+Dominican Official also held himself out as the âDirector of Programs and Projects FAD,â and
+was later appointed by special decree as the General Manager/Managing Director of Projects and
+Programs to the Secretary of the Armed Forces of the Dominican Republic.
+
+18. By mid-2008, many of the terms of the Super Tucano contract were negotiated.
+However, the legislature of the government of the Dominican Republic still had to approve the
+financing terms and the purchase agreement for this contract.
+
+19. On or about August 25, 2008, just before the Dominican Senate Finance
+Committee approved the projectâs financing, the Dominican Official requested that Embraer pay
+him a commission. The Dominican Official told at least one Embraer employee that he was
+talking to a Dominican senator about âPLR$,â which was a reference to profit sharing. This
+
+information was forwarded to a senior Embraer executive at the time.
+20. Later emails to, from, or between the Dominican Official and Embraer employees
+
+indicate that the Dominican Official proposed that three Dominican companies receive a
+distribution of the commission that he requested. These entities had not rendered any services to
+Embraer and were until then unknown to Embraer and its employees. In September 2008, a
+senior Embraer sales executive agreed to pay the Dominican Official about 3.7% of the $96.4
+million contract value, or approximately $3.52 million, to be distributed as follows:
+
+a) âDominican Agent Aâ ($100,000);
+
+b) âDominican Agent Bâ ($920,000); and,
+
+c) âDominican Agent Câ ($2.5 million).
+
+21. Embraer, through its employees, did not conduct adequate diligence on
+Dominican Agents A, B, and C, and payments to these agents were not based on any legitimate
+services these agents rendered to Embraer. The Dominican Official even questioned at least one
+Embraer employee about whether Embraer would take seriously the information contained in the
+consulting agreements because, as he explained, the executors of the agreements would not have
+the sufficient background or knowledge to provide the information requested.
+
+22. On or around September 16, 2008, the Dominican Senate approved the projectâs
+financing, a critical step in the approval process. Meanwhile, Embraer employees continued to
+discuss how to handle the commissions that the Dominican Official requested. Embraerâs
+internal policies and procedures permitted the use of third party agents for the sale of military
+aircraft. However, Embraerâs legal department viewed consulting agreements that were signed
+after the execution of a sales contract as âhigh risk.â
+
+23. On September 17, 2008, a senior Embraer sales executive sent an email to another
+
+senior Embraer executive in the Defense and Government Markets division requesting that he
+ask a senior Embraer legal executive to âfind a solutionâ for the consulting agreements the
+Dominican Official submitted.
+
+24. In December 2008, Embraer mailed official correspondence relating the sales
+contract to the Dominican Official at his office located within the office of the Secretary for the
+Armed Forces of the Dominican Republic. The government of the Dominican Republic
+approved the sale and financing for eight Super Tucano aircraft on or around December 24,
+2008.
+
+25. On December 30, 2008, the Dominican Official was formally designated General
+Manager/Managing Director of Projects and Programs to the Secretary of the Armed Forces by
+special decree.
+
+26. On January 9, 2009, Embraer publicly announced the sale of eight Super Tucano
+aircraft to the government of the Dominican Republic for approximately $96.4 million. At this
+time, however, Embraer had not yet remitted to the Dominican Official the commission that he
+requested, for himself or on behalf of others, in part because some Embraer employees raised
+questions about the sales commission and sought guidance from senior Embraer executives,
+including employees in Embraerâs legal department, about how to proceed. Rather than
+terminate the promise to pay the Dominican Official, senior executives at Embraer merely
+instructed subordinates to find a solution that did not involve the legal department.
+
+27. On April 24, 2009, Embraer RL wired $100,000 from its Citibank account in New
+York, New York to a bank account in the Dominican Republic belonging to Dominican Agent A.
+An Embraer contract manager authorized the $100,000 payment because the amount remitted
+was within his discretionary financial amount (up to $100,000) according to the Companyâs
+
+policies and procedures and did not require further approval from the legal department. As of
+the time of this payment, Embraer had not executed a formal, written consulting agreement with
+Dominican Agent A.
+
+28. The $100,000 from Embraer RL to Dominican Agent A was recorded at Embraer
+RL as âConsulting Feesâ and consolidated at the parent level under Operating Income (Expense)
+as a âSelling Expense,â specifically, âCommercialization Expense.â
+
+29. Thereafter, a senior Embraer sales executive and others met with at least one
+senior Embraer legal executive to find a solution amid growing pressure from the Dominican
+Official and general discontent from other officials in the government of the Dominican
+Republic. At the time, Company emails indicate that a senior Embraer legal executive suggested
+to other employees that they use a fourth agent, âDominican Agent D,â as a means to make the
+payments the Dominican Official requested or otherwise âcomplete the loop.â
+
+30. On or around February 3, 2010, a senior Embraer manager indicated in an internal
+email that a senior Embraer legal executive was in favor of using a consulting agreement with
+Dominican Agent D as a conduit to remit the remaining sum owed to the Dominican Official. At
+or about this time, a senior Embraer sales executive, Dominican Agent D, and the Dominican
+Official exchanged several emails discussing the roles each would play in resolving the matter.
+These emails described the Dominican Official as the interface between two groups in the
+Dominican Republic involved in obtaining the Super Tucano contract. Dominican Agent D was
+described as the âbridgeâ between Embraer and the Dominican Official.
+
+31. As aresult, Embraer decided to funnel the bribe payments to the Dominican
+Official by entering into a consulting agreement with Dominican Agent D. On March 12, 2010,
+Embraer RL and Dominican Agent D executed a consulting agreement to promote the sale of
+
+Embraer aircraft in Jordan. Embraer RL agreed to pay Dominican Agent D 8% of the total value
+ano Q ot oP
+aXe ow Ali Gig
+
+of any contract obtained in Jordan as a commission for services. In addition, Dominican Agent
+Dâs consulting agreement required Embraer RL to remit an advance lump sum payment of $3.42
+million (the outstanding amount promised to the Dominican Official). A contract to sell aircraft
+in Jordan was never awarded to Embraer, and therefore paying Dominican Agent D an advance
+lump sum payment of $3.42 million was a way to pay the Dominican Official while
+camouflaging in Embraerâs books and records that it involved a contract in the Dominican
+Republic. A senior Embraer legal executive at the time signed Dominican Agent Dâs agreement
+on behalf of Embraer RL.
+
+32. On April 6, 2010, Dominican Agent D delivered to Embraer RL (c/o Embraer in
+Brazil) two false invoices, one for $920,000 and the other for $2.5 million. The invoices stated
+that the amount owed for each invoice was for sales promotion services rendered under the
+contract to promote sales in Jordan. The internal Embraer memorandum dated April 22, 2010,
+however, indicated that the lump sum payments were related to the Super Tucano aircraft sold to
+the government of the Dominican Republic. Dominican Agent D never sold any aircraft in
+Jordan on behalf of Embraer pursuant to the March 12, 2010, consulting agreement. Dominican
+Agent D did not render any legitimate services to Embraer relating to the sale of Super Tucano
+
+aircraft in the Dominican Republic.
+Case 0:16-cv-62501-XXXX Document 1 Entered on FLSD Docket 10/24/2016 Page 10 of 22
+
+33. On May 24, 2010, Embraer RL wired $2.5 million from its New York bank
+account to a bank account in Uruguay belonging to Dominican Agent D. On June 25, 2010,
+Embraer RL also wired $920,000 from its New York bank account to a bank account in Uruguay
+belonging to Dominican Agent D. These payments bore no relation to any legitimate services
+rendered to Embraer and were intended to pay bribes to at least one government official in the
+Dominican Republic.
+
+34. Embraer mischaracterized the bribe payments as legitimate expenses in its books
+and records. Embraer RL recorded the $3.42 million paid to Dominican Agent D as âSales
+Commission.â The payments from Embraer RL to Dominican Agent D were consolidated into
+Embraerâs financial statements and booked under Operating Income (Expense) as a âSelling
+Expense,â specifically, âCommercialization Expense.â As a result, Embraer did not, in
+reasonable detail, accurately and fairly reflect its payments to Dominican Agent D in its books
+and records.
+
+35. Embraer used interstate commerce to carry out the scheme. Embraer RL wired
+the bribe payments from its New York bank account. In addition, at least one email in
+furtherance of the scheme passed through U.S. servers. For example, on or around October 21,
+2010, the Dominican Official sent an email from a server located in the U.S. to Dominican Agent
+D with further payment instructions. Specifically, the Dominican Official instructed Dominican
+Agent D to wire the funds Embraer RL remitted to Dominican Agent D to a nominee account
+located in Panama for further credit to a company domiciled in the Dominican Republic and a
+bank account held in the Dominican Republic.
+
+B. Embraerâs Illegal Payments in Saudi Arabia
+
+36. From November 2009 through February 2011, Embraer, through its employees
+
+10
+and agents, agreed to pay, and did pay, an official of the government of Saudi Arabia to obtain a
+contract for the sale of private jets valued at approximately $93 million.
+
+37. In or around 2007, Embraer learned that a Saudi Arabian state-owned enterprise
+was interested in purchasing three used executive jets to replace some of its aging aircraft.
+Employees of this Saudi state-owned enterprise are âforeign officialsâ as the term is defined in
+the FCPA, 15 U.S.C. Â§ 78dd-1(M()(A).
+
+38. In November 2009, an executive of the Saudi state-owned enterprise (âSaudi
+Arabia Officialâ) told a then-senior Embraer executive in the Executive Jets division that he
+could convince the Saudi state-owned enterprise to purchase three new executive jets from
+Embraer in exchange for an agent agreement that would pay the Saudi Arabia Official a
+commission based on that sale. The sale of these aircraft to the Saudi state-owned enterprise did
+not involve a public tender or bid.
+
+39. In December 2009, a then-senior Embraer executive in the Executive Jets division
+met with the Saudi Arabia Official to negotiate the terms of the Saudi Arabia Officialâs
+compensation, despite knowing that the Saudi Arabia Official was an employee at the Saudi
+state-owned enterprise. The senior Embraer executive and the Saudi Arabia Official agreed to a
+commission of $550,000 per aircraft sold to the Saudi state-owned enterprise, or a total
+compensation of $1.65 million.
+
+AO. During the relevant time period, other senior Embraer executives were informed
+of the negotiations with the Saudi Arabia Official and approved the compensation for the Saudi
+Arabia Official. Company emails to, from, or between these Embraer employees indicate that
+the Saudi Arabia Official requested an agent agreement, rejected an initial offer of $200,000 per
+
+aircraft as commissions, and demanded a higher commission given the total value of the contract
+
+11
+(about $90 million) and the additional lobbying the Saudi Arabia Official would have to do in
+order to influence others at the Saudi state-owned enterprise to facilitate the sale of three new
+executive jets.
+
+41. By December 17, 2009, senior Embraer executives approved a proposal to pay the
+Saudi Arabia Official $550,000 for each aircraft sold to the Saudi state-owned enterprise.
+
+42. A then-senior Embraer executive arranged to have the bribes intended for the
+Saudi Arabia Official flow through a South African company whose principal the employee
+knew personally. Using the South African company as a conduit also allowed Embraerâs
+employees involved in this scheme to circumvent two internal controls at Embraer: the
+prohibitions at Embraer against a) making payments to third parties at bank accounts located in
+jurisdictions the Company considered tax havens, and b) making payments directly to individual
+employees of a customer.
+
+43. On February 26, 2010, Embraer executives, including the same senior legal
+executive who was involved in the Dominican Republic bribery scheme, approved the selection
+of the South African company as the agent in the transaction with the Saudi state-owned
+enterprise. On March 5, 2010, Embraer RL executed a consulting agreement with the South
+African company, and the senior Embraer legal executive signed it on behalf of Embraer RL.
+There was no business justification for using the South African company as an agent given its
+lack of qualifications.
+
+44. In May 2010, Embraer finalized the purchase agreement with the Saudi state-
+owned enterpriseâs U.S.-based subsidiary for the purchase of three new E170s (70-passenger
+executive aircraft) valued at approximately $93 million.
+
+45. On December 12, 2010, after the aircraft were delivered to the Saudi state-owned
+
+12
+enterprise, the South African company used as the conduit for the bribes to the Saudi Arabia
+Official submitted three false invoices for $550,000 each to Embraer RL. These invoices were
+false because the South African company did not render to Embraer any legitimate services in
+Saudi Arabia or elsewhere.
+
+46. On December 22, 2010, Embraer RL wired $550,000 from its New York bank
+account to a bank account held in the name of the South African company. On February 18,
+2011, Embraer RL wired $1,100,000 from its New York bank account to a bank account held in
+the name of the South African company. These payments bore no relation to any legitimate
+services rendered in Saudi Arabia and were intended to pay bribes to foreign government
+officials.
+
+47. Embraer RL mischaracterized the payments to the South African company in its
+books and records as âSales Commission.â The payments from Embraer RL to the South
+African company were consolidated at the parent level under Operating Income (Expense) as a
+âSelling Expense,â specifically, âCommercialization Expense â Sales Commission.â As a result,
+Embraer did not, in reasonable detail, accurately and fairly reflect its payments to the South
+African company in its books and records.
+
+48. The South African company was nothing more than a conduit for the bribes
+Embraer paid to employees of the Saudi state-owned enterprise. On February 2, 2011, the South
+African company wired $500,000 to a bank account located in Geneva, Switzerland. On March
+8, 2011, and April 5, 2011, the South African company wired $500,000 and $434,100,
+respectively, to a bank account located in Saudi Arabia. These bank accounts were held in the
+name of the father of an employee of Saudi state-owned enterprise who was a close associate of
+
+the Saudi Arabia Official. The stated purpose for these three outgoing wire transfers was âagent
+
+13
+Case 0:16-cv-62501-XXXX Document 1 Entered on FLSD Docket 10/24/2016 Page 14 of 22
+
+feeâ or âcommission and consultingâ relating to Embraerâs sale of aircraft to the Saudi state-
+owned enterprise.
+
+C. Embraerâs Illegal Payments in Mozambique
+
+49. From approximately May 2008 through at least September 2009, Embraer,
+through its employees and agents, paid a consultant with ties to officials in the government of
+Mozambique to obtain a contract valued at approximately $65 million.
+
+50. In or around May 2008 through at least September 2008, Embraer negotiated the
+sale of two commercial aircraft to a state-owned commercial airline in Mozambique
+(âMozambican state-owned enterpriseâ). Employees of the Mozambican state-owned enterprise
+are âforeign officialsâ as the term is defined in the FCPA, 15 U.S.C. Â§ 78dd-1(f)()(A).
+
+51. Embraer, through its subsidiary and employees, submitted a formal proposal to
+the Mozambican state-owned enterprise on or around May 21, 2008, for the sale of two aircraft
+with certain options for approximately $65 million. Embraer employees and the Mozambican
+state-owned enterpriseâs officials continued negotiations through September 2008.
+
+52. On or around August 13, 2008, about one month before the purchase agreement
+with the Mozambican state-owned enterprise was signed, a Mozambique national (the
+âMozambican Agentâ) told at least one senior Embraer employee that Embraer should make a
+âgestureâ to unidentified officials in the government of Mozambique when delivering the first
+aircraft. The Embraer employees involved with the Mozambican state-owned enterprise
+negotiations believed the Mozambican Agent to be well connected with officials in the
+government of Mozambique.
+
+53. The Mozambican Agent did not have any legitimate role in the ongoing
+
+Mozambican state-owned enterprise negotiations. Instead, he appeared to be acting as a
+
+14
+middleman or agent for the government officials involved in the deal, and Embraer employees
+believed they needed to pay the Mozambican Agent in order to win the contract.
+
+54. Senior executives at Embraer approved an offer to the Mozambican Agent of
+between $50,000 and $80,000 per aircraft sold to the Mozambican state-owned enterprise even
+though the Mozambican Agent had not rendered any legitimate services to Embraer during the
+negotiations with the Mozambican state-owned enterprise. It became clear to Embraer
+employees that Embraerâs âgestureâ was too low. Less than two weeks later, on or around
+August 25, 2008, the Mozambican state-owned enterpriseâs then chief executive officer, a
+foreign government official at the time as that term is defined by the FCPA (the âMozambican
+Officialâ), called an Embraer sales employee and suggested that a $1 million âgestureâ to the
+Mozambican Agent would be appropriate, but that Embraer could âget awayâ with paying only
+$800,000. The Mozambican Official also threatened to torpedo the ongoing negotiations with
+Embraer by giving a competing bid priority over Embraerâs bid.
+
+55. On or around September 15, 2008, Embraer and the Mozambican state-owned
+enterprise executed the purchase agreement for the sale of two E190 aircraft for approximately
+$65 million. The Mozambican Official was one of three Mozambican state-owned enterprise
+executives who signed the purchase agreement on behalf of the Mozambican state-owned
+enterprise.
+
+56. On or around April 22, 2009, Embraerâs U.S.-based subsidiary, Embraer RL,
+executed a consulting agreement with a company based in the Democratic Republic of SAo TomÃ©
+and Principe that the Mozambican Agent controlled and which had only been incorporated in or
+about November 2008 (the âMozambican Consultantâ). The agreement authorized the
+
+Mozambican Consultant, among other things, to promote sales of the E190 âsolely and
+
+15
+specificallyâ to the Mozambican state-owned enterprise even though the sale of such aircraft had
+been completed seven months prior to the execution of this agreement and the Mozambican
+Consultant had not even been formed at the time the Mozambican state-owned enterprise
+purchase agreement was signed. The agreement with the Mozambican Consultant stated the
+Mozambican Consultantâs promotion efforts began in or about March 2008.
+
+57. Pursuant to the consultant agreement with the Mozambican Consultant, Embraer
+RL agreed to pay $400,000 per aircraft, or $800,000 (the amount the Mozambican Official had
+previously indicated to at least one Embraer employee was appropriate). There is no evidence
+that the Mozambican Agent or the Mozambican Consultant rendered any legitimate services to
+Embraer in Mozambique. Two senior Embraer executives signed the agreement on behalf of
+Embraer RL, including a senior Embraer legal executive and an executive vice president. The
+Mozambican Agent who had initially proposed the bribe payment as a âgestureâ signed the
+consulting agreement on behalf of the Mozambican Consultant.
+
+58. Embraer delivered the aircraft to the Mozambican state-owned enterprise on or
+around July 30, 2009, and September 2, 2009. The Mozambican Consultant submitted two
+invoices addressed to Embraer RL dated August 15, 2009, and September 24, 2009, respectively,
+each for $400,000. These invoices were false invoices because the Mozambican Consultant did
+not render to Embraer any legitimate services in Mozambique or elsewhere. An Embraer
+executive signed and approved both invoices for payment.
+
+59. On August 31, 2009, Embraer RL wired $400,000 from its U.S.-based Citibank
+account to a bank account in Portugal in the name of the Mozambican Consultant. Embraer RL
+again wired $400,000 from its Citibank bank account to the Mozambican Consultantâs Portugal
+
+bank account on October 2, 2009. These payments bore no relation to any legitimate services
+
+16
+Case 0:16-cv-62501-XXXX Document 1 Entered on FLSD Docket 10/24/2016 Page 17 of 22
+
+rendered in Mozambique and were bribes to foreign government officials.
+
+60. Embraer RL mischaracterized these payments as âSales Commissionâ in its books
+and records. The payments from Embraer RL to the Mozambican Consultant were consolidated
+at the parent level under Operating Income (Expense) as a âSellingâ expense, specifically, âSales
+Commission.â
+
+D. Embraerâs Accounting Scheme in India
+
+61. On July 3, 2008, Embraer executed a contract to develop three highly-specialized
+military aircraft for the Indian Air Force for approximately $208 million. As in the Dominican
+Republic, Saudi Arabia, and Mozambique transactions, Embraer paid an Indian national (âthe
+Indian Consultantâ), who assisted Embraer obtain this defense contract, through an intermediary
+in order to conceal the true nature of the payments, which were in violation of Indian law.
+
+62. Embraerâs employees understood that India prohibited the use of commercial
+agents for military sales. For that reason, in January 2005 Embraer executed a consulting
+agreement with a company domiciled in the UK (the âUK Entityâ), which had a relationship with
+the Indian Consultant. Even though the Indian Consultant was not mentioned in this consulting
+agreement, internal emails indicate that employees at Embraer knew that this entity was affiliated
+with the Indian Consultant.
+
+63. The executed agreement was stored in a safe deposit box in London that could
+only be opened by the simultaneous use of a key maintained by Embraerâs legal department and
+a card key in the possession of a representative of the UK Entity. Less than a month after
+executing this agreement, on February 8, 2005, Embraer announced that it had signed a
+memorandum of understanding with Indiaâs Defence, Research and Development Organisation
+
+(âDRDOâ).
+
+17
+64. Embraerâs agreement with the UK Entity had expired by the time Embraer
+executed the purchase agreement with Indiaâs DRDO in July 2008, but the Indian Consultant,
+through counsel, claimed a commission related to that contract. From February 2009 through
+July 2009, Embraer negotiated, and ultimately approved, a $5.76 settlement with the Indian
+Consultant. On November 21, 2009, Embraerâs wholly-owned Swiss subsidiary, Embraer AG,
+through senior Embraer executives, executed a consulting agreement with a company domiciled
+in Singapore (the âSingapore Entityââ).
+
+65. Pursuant to that agreement, Embraer AG authorized the Singapore Entity to
+promote the sale of two Embraer aircraft to an unrelated customer in Austria, which was a way to
+conceal that the consulting services were in fact for the Indian Consultantâs work in India.
+Embraer AG further agreed to pay the Singapore Entity a commission of $2.88 million per
+aircraft (or $5.76 million in total, the amount Embraer agreed to pay the Indian Consultant) in
+exchange for vaguely-described marketing services.
+
+66. On January 5, 2010, January 19, 2010, and February 4, 2010, Embraer AG
+transferred $1.920 million (or $5.76 million in total) from its Swiss-based investment account to
+the Singapore Entityâs bank account in Singapore.
+
+67. Embraer, through Embraer RLâs bank account in New York, transferred to
+Embraer AGâs account the funds ultimately remitted to the Singapore Entity. Embraer AGâs
+payments to the Singapore Entity were recorded and the accounting entries for these transactions
+indicate that the payments to the Singapore Entity were made âon behalf of Embraer RL.â The
+intercompany transfers from Embraer RL to Embraer AG impacted Embraerâs âAccounts
+Receivable â Intercompanyâ and âOperating Income â Intercompanyâ accounts. The payments
+
+to the Singapore Entity were consolidated at the parent level under Operating Income (Expense)
+
+18
+Case 0:16-cv-62501-XXXX Document 1 Entered on FLSD Docket 10/24/2016 Page 19 of 22
+
+and mischaracterized as a âSelling Expense,â specifically, under âCommercialization Expense.â
+
+68. The payments to the Singapore Entity were a way for Embraer to pay the Indian
+Consultant, and to conceal in its books and records that it was paying for consulting work in
+India. As a result, Embraer did not, in reasonable detail, accurately and fairly reflect its
+payments to the Singapore Entity in its books and records.
+
+E. Failure to Maintain Adequate Internal Controls
+
+69. Embraer failed to devise and maintain an adequate system of internal accounting
+controls. During the relevant time period, Embraerâs policies, procedures, or controls required
+that all commitments above a certain sum with third parties have a formal, written contract.
+However, Embraer did not enter into a written contract with the Dominican Official, the Saudi
+Arabian Official, the Mozambican Official, or the Indian Agent even though these individuals
+were the intended beneficiaries of the payments referred to in this complaint. Similarly,
+Embraerâs code of ethics and internal company directives required due diligence on sales
+representatives or agents, such as checking corporate documentation and publicly available
+information, gathering evidence of access to the customer or market, and inquiring whether the
+representative or agent was recommended by government officials. In each of the schemes
+described in this Complaint, the bribes and improper payments involved were transacted through
+third parties. Critical steps that Embraerâs internal process at the time required, such as checking
+publicly available information about the third partiesâ access to customers or relevant markets,
+were either ignored or circumvented. The information obtained, had these steps been taken,
+would have alerted Embraer employees that some or all of the agents identified in this Complaint
+lacked any experience or expertise in the aviation industry or access to the relevant markets in
+
+question.
+
+19
+Case 0:16-cv-62501-XXXX Document 1 Entered on FLSD Docket 10/24/2016 Page 20 of 22
+
+70. Lastly, Embraerâs legal department was responsible for approving the consultants
+its senior legal executive engaged on behalf of ERL. As a result, senior Embraer executives in
+Brazil, including a senior legal executive at the time, at least two other senior Embraer
+executives, and several Embraer managers, circumvented the Companyâs internal accounting
+controls by, among other things, approving the engagement of third parties through sham
+contracts to act as conduits for bribes to foreign officials, and concealing bribe payments as
+legitimate expenses under contracts obtained in countries that bore no relation to any legitimate
+services rendered and that were intended largely to pay bribes to foreign government officials.
+
+CLAIMS FOR RELIEF
+FIRST CLAIM
+Violations of Section 30A of the Exchange Act
+
+71. Paragraphs | through 70 are re-alleged and incorporated by reference.
+
+72. As described above, Embraer, through its officers, directors, employees, or agents
+corruptly offered, promised to pay, or authorized unlawful payments to one or more persons,
+while knowing that all or a portion of those payments would be offered, given, or promised,
+directly or indirectly, to foreign officials for the purposes of influencing their acts or decisions in
+their official capacity, inducing them to do or omit to do actions in violation of their lawful
+duties, securing an improper advantage, or inducing such foreign officials to use their influence
+with a foreign government or instrumentality thereof to assist Embraer in obtaining or retaining
+business.
+
+73. By reason of the foregoing, Embraer violated the anti-bribery provisions of the
+
+FCPA, as codified at Section 30A of the Exchange Act [15 U.S.C. Â§ 78dd-1].
+
+20
+Case 0:16-cv-62501-XXXX Document 1 Entered on FLSD Docket 10/24/2016 Page 21 of 22
+
+SECOND CLAIM
+Violations of Section 13(b)(2)(A) of the Exchange Act
+
+74. Paragraphs | through 70 are re-alleged and incorporated by reference.
+
+75. As described above, Embraer, through its officers, agents, subsidiaries, and
+affiliates, failed to make and keep books, records, and accounts which, in reasonable detail,
+accurately and fairly reflected its transactions and dispositions of its assets.
+
+76. By reason of the foregoing, Embraer violated the books-and-records provisions of
+the FCPA, as codified at Section 13(b)(2)(A) [15 U.S.C. Â§ 78m(b)(2)(A)].
+
+THIRD CLAIM
+Violations of Section 13(b)(2)(B) of the Exchange Act
+
+77. Paragraphs | through 70 are re-alleged and incorporated by reference.
+
+78. As described above, Embraer, through its officers, directors, employees, or agents
+acting on its behalf, failed to devise and maintain a system of internal accounting controls
+sufficient to provide reasonable assurances that: (1) payments were made in accordance with
+managementâs general or specific authorization; and (11) payments were recorded as necessary to
+permit preparation of financial statements in conformity with generally accepted accounting
+principles or any other criteria applicable to such statements, and to maintain accountability for
+its assets.
+
+79. By reason of the foregoing, Embraer violated Section 13(b)(2)(B) of the
+Exchange Act [15 U.S.C. Â§ 78m(b)(2)(B)].
+
+PRAYER FOR RELIEF
+WHEREFORE, the Commission respectfully requests that this Court enter a judgment:
+
+A. Permanently enjoining Embraer from violating Sections 30A, 13(b)(2)(A), and
+
+21
+Case 0:16-cv-62501-XXXX Document 1 Entered on FLSD Docket 10/24/2016 Page 22 of 22
+
+13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78dd-1; 78m(b)(2)(A) and (B)]; and
+
+B. Ordering Embraer to disgorge ill-gotten gains, with prejudgment interest,
+wrongfully obtained as a result of its illegal conduct.
+
+C. Granting such further relief as the Court may deem just and appropriate.
+
+D. Further, the Commission respectfully requests that the Court retain jurisdiction
+over this action in order to implement and carry out the terms of all orders and decrees that it
+may enter, or to entertain any suitable application or motion by the Commission for additional
+relief within the jurisdiction of this Court.
+
+Dated: October 24, 2016 Respectfully submitted,
+s/Andrew O. Schiff
+Andrew O. Schiff
+Regional Trial Counsel
+S.D. Fla. No. A5501900
+
+Direct Dial: (305) 982-6390
+E-mail: schiffa@sec.gov
+
+ 
+
+s/Ernesto Palacios
+
+Ernesto Palacios
+
+Senior Counsel, FCPA Unit
+Florida Bar No. 0529168
+Direct Dial: (305) 982-6306
+E-mail: palaciose @sec.gov
+
+ 
+
+Attorneys for Plaintiff
+SECURITIES AND EXCHANGE
+COMMISSION
+
+801 Brickell Avenue, Suite 1800
+Miami, Florida 33131
+
+Telephone: (305) 982-6300
+Facsimile: (305) 536-4154
+
+Of Counsel:
+
+Thierry Olivier Desmet
+
+Assistant Director, FCPA Unit
+
+U.S. Securities and Exchange Commission
+801 Brickell Avenue, Suite 1800
+
+Miami, Florida 33131
+
+22

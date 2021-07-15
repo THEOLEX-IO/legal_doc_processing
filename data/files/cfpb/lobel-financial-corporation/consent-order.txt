@@ -1,0 +1,979 @@
+2020-BCFP-0016 Documentâ Filed 09/21/2020 Page 1 of 26
+
+UNITED STATES OF AMERICA
+BUREAU OF CONSUMER FINANCIAL PROTECTION
+
+ADMINISTRATIVE PROCEEDING File
+No. 2020-BCFP- 0016
+
+ 
+
+In the Matter of:
+
+CONSENT ORDER
+LOBEL FINANCIAL
+CORPORATION
+
+ 
+
+ 
+
+The Bureau of Consumer Financial Protection (Bureau) has reviewed the
+subprime-auto-loan-servicing activities of Lobel Financial Corporation
+(Respondent, as defined below) and has identified the following violations of the
+Consumer Financial Protection Act of 2010 (CFPA), 12 U.S.C. $$ 5531(c),
+5536(a): (1) engaging in unfair acts or practices by continuing to bill borrowers for
+Loss Damage Waiver coverage but then failing to provide such coverage; and (2)
+engaging in unfair acts or practices by assessing and collecting various fees that
+borrowers were not contractually obligated to pay under the terms of the Loss
+Damage Waiver contract. Under Â§$ 1053 and 1055 of the CFPA, 12 U.S.C. Â§Â§
+
+5563, 5565, the Bureau issues this Consent Order.
+Jurisdiction
+The Bureau has jurisdiction over this matter under Â§Â§ 1053 and 1055 of the
+CFPA, 12 U.S.C. Â§Â§ 5563, 5565.
+I.
+Stipulation
+Respondent has executed a âStipulation and Consent to the Issuance of a
+Consent Order,â dated September 8, 2020 (Stipulation), which is
+incorporated here by reference and is accepted by the Bureau. By this
+Stipulation, Respondent has consented to the Bureauâs issuance of this
+Consent Order under Â§Â§ 1053 and 1055 of the CFPA, 12 U.S.C. 88 5563,
+5565, without admitting or denying any of the findings of fact or conclusions
+of law, except that Respondent admits the facts necessary to establish the
+Bureauâs jurisdiction over Respondent and the subject matter of this action.
+HII.
+Definitions
+The following definitions apply to this Consent Order:
+
+a. âAffected Consumersâ include:
+il.
+
+iil.
+
+the at least 2,919 consumers who, during the Relevant Period, paid
+Respondent monthly Loss Damage Waiver premiums when they
+were more than 10 days delinquent but who Respondent did not
+provide with coverage;
+
+the at least 451 consumers who, during the Relevant Period, paid
+Respondent monthly Loss Damage Waiver premiums when they
+were more than 10 days delinquent and who submitted claims for
+either total vehicle loss or repair that Respondent denied; and
+
+the at least 607 consumers from whom Respondent collected Loss
+Damage Waiver claim-related fees that borrowers were not
+contractually obligated to pay under their agreements with
+
+Respondent during the Relevant Period.
+
+âBoardâ means Respondentâs duly-elected and acting Board of
+
+Directors.
+
+âEffective Dateâ means the date on which the Consent Order is
+
+issued.
+
+âLoss Damage Waiverâ or âLDWâ means the product that Lobel
+
+places on borrower accounts for a monthly premium when the
+
+borrower has insufficient insurance, and which covers cancellation of
+AANA DAES ANSE Pam
+O20-BCFR-OOTG Doct
+
+PAPA LIAO â¢
+â â Â§ io vis ~
+oe We AP Je BAS
+
+os wena
+remarry oF Berta OC
+APEHSE eh g PUREOOAY Way et PP OU?
+
+Pe
+sae
+
+a
+or
+ae
+
+Pe
+whe
+
+the borrowerâs debt in the event of a total vehicle loss, or the cost of a
+repair
+
+e. âRegional Directorâ means the Bureau of Consumer Financial
+Protectionâs Regional Director for the Office of Supervisionâs West
+Region, or his or her delegate.
+
+f. âRelated Consumer Actionâ means a private action by or on behalf of
+one or more consumers or an enforcement action by another
+governmental agency brought against Respondent based on
+substantially the same facts as described in Section IV of this Consent
+Order.
+
+g. âRelevant Periodâ means from and including January 1, 2011 through
+and including July 31, 2019.
+
+h. âRespondentâ means Lobel Financial Corporation and its successors
+and assigns.
+
+IV.
+Bureau Findings and Conclusions
+
+The Bureau finds the following:
+
+4. Lobel is a California corporation with its principal place of business in
+
+Anaheim, California.
+10.
+
+Lobel indirectly originates and services subprime auto loans by taking
+assignment of retail-installment-sales contracts that automobile dealers make
+with borrowers.
+
+These activities are âconsumer financial products and servicesâ under the
+CFPA. 12 U.S.C. Â§ 5481(5), IS(A)(G) & (x).
+
+Lobel is therefore a âcovered personâ under the CFPA. 12 U.S.C. Â§ 5481(6).
+Since 2008, Lobel has used LDW. The LDW product is not an insurance
+product, though Lobel uses it as a substitute for collateral-protection
+insurance.
+
+The LDW agreement specifies that if at any time the borrower fails to
+maintain car insurance subject to certain specifications, Lobel will add LDW
+coverage to the consumerâs account. When Lobel adds LDW coverage,
+Lobel charges the consumer a monthly premium and, in the event of a repair,
+Lobel will pay the cost of the repair. In the event of a âtotal vehicle loss,â
+Lobel will cancel the borrowerâs debt.
+
+Lobel charges a $70 monthly premium, on average, for LDW coverage.
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+Findings and Conclusions as to
+Charging Delinquent Consumers for LDW
+
+The LDW agreement allows Lobel to cancel the agreement and suspend
+coverage if the borrower becomes delinquent on his or her loan by 10 or
+more days.
+
+When consumers became 10 days delinquent on their loans, however, Lobel
+did not stop charging the monthly premium or otherwise indicate that it was
+canceling the LDW coverage. Instead, Lobel continued to charge these
+consumers, even though it no longer provided them with LDW coverage.
+And when many of these consumers, who had become more than 10 days
+delinquent on their auto loans, experienced a âtotal vehicle lossâ or needed a
+repair, Lobel denied their claims and did not cancel their debts or cover their
+repairs.
+
+Since 2012, in the course of administering the LDW product, at least 2,919
+consumers paid monthly LDW premiums when they were more than 10 days
+delinquent, yet Lobel did not provide those consumers with LDW coverage.
+In addition, since 2012, at least 451 consumers submitted LDW claims for
+either âtotal vehicle lossâ or repair that Lobel denied as though their
+
+coverage had been canceled.
+16.
+
+17.
+
+18.
+
+19.
+
+Lobel improperly denied at least 261 additional consumersâ LD W claims
+and improperly furnished information to the consumer-reporting agencies
+indicating that these consumers have outstanding debts totaling at least
+$1,744,902.53, as a portion of the debts should not have been charged to the
+consumers under the LDW agreement.
+
+These acts and practices violated the CFPA, 12 U.S.C. $$ 5531(c), 5536(a).
+
+Findings and Conclusions as to
+Charging Consumers Fees in Excess of $500
+
+The LDW agreement states that when Lobel declares that a vehicle is a total
+loss, the borrower must pay the following fees and charges: the first $500 in
+damages per loss occurrence; all past-due payments; interest in arrears
+through the date of loss; all past-due LDW fees; all late charges; all legal or
+collection or repossession fees; impound fees; storage or towing costs
+exceeding $150 related to the damage occurrence; and lost-salvage fees
+resulting from a lien sale or other event where Lobel cannot recover the
+salvage value of the damaged motor vehicle.
+
+Yet, in numerous instances, Lobel assessed and collected two additional fees
+not listed in the LDW agreement: (1) the vehicleâs salvage value (even if the
+borrower did not wish to retain the vehicle for salvage) and (2) monthly loan
+
+payments from the time the LDW claim was approved and Lobel declared
+20.
+
+21.
+
+22.
+
+23.
+
+the vehicle a total loss until the debt was canceled (a process that took Lobel,
+on average, 3 months to complete).
+Since at least 2011, Lobel assessed and collected LDW claim-related fees
+that borrowers were not contractually obligated to pay under their
+agreements with Lobel.
+In total, at least 607 consumers paid $352,895 in excessive fees during this
+period.
+These acts and practices violated the CFPA, 12 U.S.C. $$ 5531(c), 5536(a).
+V.
+Prohibited Conduct
+IT IS ORDERED, under Â§Â§ 1053 and 1055 of the CFPA, that:
+Respondent and its officers, agents, servants, employees, and attorneys who
+have actual notice of this Consent Order, whether acting directly or
+indirectly, in connection with the origination and servicing of auto loans, are
+permanently restrained and enjoined from:
+a. failing to provide consumers with LDW coverage, collateral protection
+insurance, or similar products or services for which Respondent has
+charged consumers; or
+
+b. charging consumers fees that are not authorized by its LDW contracts.
+24.
+
+25.
+
+26.
+
+VI.
+Role of the Board
+IT IS FURTHER ORDERED that:
+The Board must review all submissions (including plans, reports, programs,
+policies, and procedures) required by this Consent Order before their
+submission to the Bureau.
+Although this Consent Order requires Respondent to submit certain
+documents to the Regional Director for review or non-objection, the Board
+will have the ultimate responsibility for Respondentâs proper and sound
+management and for ensuring that Respondent complies with the laws that
+the Bureau enforces, including Federal consumer financial laws and this
+Consent Order.
+Whenever this Consent Order requires the Board to perform or ensure
+Respondentâs adherence to certain obligations, the Board must:
+a. authorize whatever actions are necessary for Respondent to fully
+comply with the Consent Order;
+
+b. require timely reporting by management to the Board on the status of
+
+compliance obligations; and
+27.
+
+28.
+
+AA PE PAIE ES = .
+AAO Brew Ass
+Sa tet
+
+cH
+
+~*~. os mt ENA I ~ an EAR
+Roaciumert 7 Pilad GO/f/ed feoeo Paaa Tf of BF
+BHAA Ed POPS Ae : er
+
+an io 2
+Vie Hee
+
+C. require timely and appropriate corrective action to remedy any
+material non-compliance with any failures to comply with Board
+directives related to this Section.
+
+VIL.
+Order to Pay Redress
+
+IT IS FURTHER ORDERED that:
+
+Within 10 days of the Effective Date, Respondent must reserve or deposit
+
+$1,345,224 into a segregated deposit account for the purpose of providing
+
+redress to Affected Consumers as required by this Section.
+
+Within 30 days of the Effective Date, Respondent must submit to the
+
+Enforcement Director for review and non-objection a comprehensive written
+
+plan for providing redress consistent with this Consent Order (Redress Plan).
+
+The Enforcement Director will have the discretion to non-object to the
+
+Redress Plan or to direct Respondent to revise it. If the Enforcement
+
+Director directs Respondent to revise the Redress Plan, Respondent must
+
+revise and resubmit the Redress Plan to the Enforcement Director within 15
+
+days. After receiving notification that the Enforcement Director has no
+
+objection to the Redress Plan, Respondent must implement and adhere to the
+
+10
+29.
+
+30.
+
+AA PE PAIE ES = .
+AAO Brew Ass
+Sa tet
+
+cH
+
+~ . 4 me EN Ey ~ Aa ae
+Miners t fF Clan Malo d Pane Dawe tt at OF
+BP ASLP PERG Gk og Pikes We. 5 2 oF F Ge oe
+
+an io 2
+Vie Hee
+
+steps, recommendations, deadlines, and timeframes outlined in the Redress
+
+Plan.
+The Redress Plan must:
+a. provide the form, e.g., certified or bank check, in which the required
+
+redress shall be provided to the Affected Consumers;
+
+b. provide the method that will be used to deliver redress to the Affected
+Consumers and to ensure the redress was received; and
+
+C. provide the procedure that will be used to request that Consumer
+Reporting Agencies (CRAs) to which Respondent furnished
+inaccurate information about Affected Consumers, correct or update
+the inaccurate information in accordance with 15 U.S.C. Â§ 1681s-
+2(a)(2). Where Respondent cannot furnish a correction or update,
+Respondent will request that the CRAs to which it furnished the
+information delete the tradeline.
+
+After completing the Redress Plan, if the amount of redress provided to
+
+Affected Consumers is less than $1,345,224, within 30 days of the
+
+completion of the Redress Plan, Respondent must pay to the Bureau, by wire
+
+transfer to the Bureau or to the Bureauâs agent, and according to the
+
+11
+31.
+
+32.
+
+33.
+
+APA PAPE PS A
+SOOO Ber RAMS
+Sa tet
+
+Bureauâs wiring instructions, the difference between the amount of redress
+provided to Affected Consumers and $1,345,224.
+The Bureau may use these remaining funds to pay additional redress to
+Aftected Consumers. If the Bureau determines, in its sole discretion, that
+additional redress is wholly or partially impracticable or otherwise
+inappropriate, or if funds remain after the additional redress is completed,
+the money will not revert to Respondent. Respondent will have no right to
+challenge any actions that the Bureau or its representatives may take under
+this Section.
+Respondent may not condition the payment of any redress to any Affected
+Consumer under this Consent Order on that Affected Consumer waiving any
+right.
+VI.
+
+Order to Pay Civil Money Penalty
+IT IS FURTHER ORDERED that:
+Under Â§ 1055(c) of the CFPA, 12 U.S.C. Â§ 5565(c), by reason of the
+violations of law described in Section IV of this Consent Order and by
+taking into account the factors in 12 U.S.C. Â§ 5565(c)(3), Respondent must
+
+pay the Bureau a $100,000 civil money penalty.
+
+12
+34.
+
+35.
+
+36.
+
+37.
+
+AA PE PAIE ES = .
+AAO Brew Ass
+SSP eM
+
+cH
+
+HPN A I oa ae Nee
+AQMP fanan Saran 42 af 3Â¢
+Sia a Pra Pee ee ot g ei
+ON te PE ON ee! 5 tat athe
+
+\N
+
+Tomer ised 4 Cia
+Sse yee fk Sary : he Pi eag
+RAPASLOLE ETA EPR od PPA
+
+Within 10 days of the Effective Date, Respondent must pay the civil money
+
+penalty by wire transfer to the Bureau or to the Bureauâs agent in
+
+compliance with the Bureauâs wiring instructions.
+
+The civil money penalty paid under this Consent Order will be deposited in
+
+the Bureauâs Civil Penalty Fund, as required by Â§ 1017(d) of the CFPA, 12
+
+U.S.C. Â§ 5497(d).
+
+Respondent, for all purposes, must treat the civil money penalty paid under
+
+this Consent Order as a penalty paid to the government. Regardless of how
+
+the Bureau ultimately uses those funds, Respondent may not:
+
+a. claim, assert, or apply for a tax deduction, tax credit, or any other tax
+benefit for any civil money penalty paid under this Consent Order; or
+
+b. seek or accept, directly or indirectly, reimbursement or
+indemnification from any source, including but not limited to payment
+made under any insurance policy, for any civil money penalty paid
+under this Consent Order.
+
+To preserve the civil money penaltyâs deterrent effect, Respondent may not
+
+argue in any Related Consumer Action that Respondent is entitled to, nor
+
+may Respondent benefit by, any offset or reduction of any compensatory
+
+monetary remedies imposed in the Related Consumer Action because of the
+
+13
+38.
+
+AA PE PAIE ES = .
+AAO Brew Ass
+Sa tet
+
+cH
+
+~ a oe NE ~ aa as
+Mie issycinmt 4 Clan Malo d Pane Bane 14 at OF
+RAPASLOLE ETA EPR od yoPPRSAS Wee. 5 she rer Lb
+
+ae io a
+Vie Hee
+
+civil money penalty paid in this action or because of any payment that the
+Bureau makes from the Civil Penalty Fund. If the court in any Related
+Consumer Action offsets or otherwise reduces the amount of compensatory
+monetary remedies imposed against Respondent based on the civil money
+penalty paid in this action or based on any payment that the Bureau makes
+from the Civil Penalty Fund, Respondent must, within 30 days after entry of
+a final order granting such offset or reduction, notify the Bureau, and pay the
+amount of the offset or reduction to the U.S. Treasury. Such a payment will
+not be considered an additional civil money penalty and will not change the
+amount of the civil money penalty imposed in this action.
+
+IX.
+
+Additional Monetary Provisions
+
+IT IS FURTHER ORDERED that:
+In the event of any default on Respondentâs obligations to make payment
+under this Consent Order, interest, computed under 28 U.S.C. Â§ 1961, as
+amended, will accrue on any outstanding amounts not paid from the date of
+default to the date of payment, and will immediately become due and
+
+payable.
+
+14
+39.
+
+40.
+
+41.
+
+42.
+
+AA PE PAIE ES = .
+AAO Brew Ass
+Sa tet
+
+cH
+
+re oo pry PPA EA Ee ry ay roe
+Pinaciirpaent 4 Plan Â§OfOo4 oan Mane TH af OF
+RAPASLOLE ETA EPR od BPR eA AG, : ? war
+
+an io 2
+Vie Hee
+
+Respondent must relinquish all dominion, control, and title to the funds paid
+to the fullest extent permitted by law and no part of the funds may be
+returned to Respondent.
+Under 31 U.S.C. Â§ 7701, Respondent, unless it already has done so, must
+furnish to the Bureau its taxpayer-identification numbers, which may be
+used for purposes of collecting and reporting on any delinquent amount
+arising out of this Consent Order.
+Within 30 days of the entry of a final judgment, consent order, or settlement
+in a Related Consumer Action, Respondent must notify the Regional
+Director of the final judgment, consent order, or settlement in writing. That
+notification must indicate the amount of redress, if any, that Respondent paid
+or is required to pay to consumers and describe the consumers or classes of
+consumers to whom that redress has been or will be paid.
+
+X.
+
+Reporting Requirements
+
+IT IS FURTHER ORDERED that:
+Respondent must notify the Bureau of any development that may affect
+compliance obligations arising under this Consent Order, including but not
+
+limited to a dissolution, assignment, sale, merger, or other action that would
+
+15
+43.
+
+AAAN RAPS AMA
+IOWANS
+Bn ad athe KP LP RSE
+
+cH
+
+Pe ea ayy of Pe PN PN A Pe PS Saat awa OE EO
+Praciirnant 4 Clan OOf/odfenan Sarace 42 Af 34
+RAPASLOLE ETA EPR od BPR eA AG, : PY st
+
+an io 2
+Vie Hee
+
+result in the emergence of a successor company; the creation or dissolution
+of a subsidiary, parent, or affiliate that engages in any acts or practices
+subject to this Consent Order; the filing of any bankruptcy or insolvency
+proceeding by or against Respondent; or a change in Respondentâs name or
+address. Respondent must provide this notice, if practicable, at least 30 days
+before the development, but no later than 14 days after the development.
+Within 7 days of the Effective Date, Respondent must:
+a. designate at least one telephone number and email, physical, and
+postal addresses as points of contact that the Bureau may use to
+
+communicate with Respondent;
+
+b. identify all businesses for which Respondent is the majority owner, or
+
+that Respondent directly or indirectly controls, by all of their names,
+telephone numbers, and physical, postal, email, and Internet
+addresses; and
+
+C. describe the activities of each such business, including the products
+and services offered, and the means of advertising, marketing, and
+
+sales.
+
+16
+44,
+
+45.
+
+AAAN RAPS AMA
+IOWANS
+Bn ad athe KP LP RSE
+
+cH
+
+rw cA pry PPP PRO ry ay roe
+Mie issycinmt 4 Clan Malo d Pane Meee TF nt OF
+BASLE EER PER Od yoPPRSAS Wee. : sXe or F wal aw
+
+an io 2
+Vie Hee
+
+Respondent must report any change in the information required to be
+submitted under Paragraph 44 above at least 30 days before the change or as
+soon as practicable after the learning about the change, whichever is sooner.
+Within 90 days of the Effective Date, and again one year after the Effective
+Date, Respondent must submit to the Regional Director an accurate written
+compliance progress report (Compliance Report) that has been approved by
+the Board, sworn to under penalty of perjury, which, at a minimum:
+
+a. lists each applicable paragraph and subparagraph of the Order and
+describes in detail the manner and form in which Respondent has
+complied with each such paragraph and subparagraph of the Consent
+Order;
+
+b. describes in detail the manner and form in which Respondent has
+complied with the Redress Plan; and
+
+C. attaches a copy of each Order Acknowledgment obtained under
+
+Section XI, unless previously submitted to the Bureau.
+
+17
+46.
+
+47.
+
+48.
+
+49.
+
+AAAN RAPS AMA
+IOWANS
+Bn ad athe KP LP RSE
+
+cH
+
+~ . 8 pens . me ex ar
+Maer sone 4 Rae PAPO OAS = AO wh
+
+Po es ys carat RTA Eas er Pb ei Nee CN NT
+BA AEN Pa POPS! APG PP ola PoSAGNe Oo AS tt
+
+XI.
+Order Distribution and Acknowledgment
+
+IT IS FURTHER ORDERED that:
+Within 7 days of the Effective Date, Respondent must submit to the
+Regional Director an acknowledgment of receipt of this Consent Order,
+sworn under penalty of perjury.
+Within 30 days of the Effective Date, Respondent must deliver a copy of this
+Consent Order to each of its board members and executive officers, as well
+as to any managers, employees, service providers, or other agents and
+representatives who have responsibilities related to the subject matter of the
+Consent Order.
+For 5 years from the Effective Date, Respondent must deliver a copy of this
+Consent Order to any business entity resulting from any change in structure
+referred to in Section X, any future board members and executive officers,
+as well as to any managers, employees, service providers, or other agents
+and representatives who will have responsibilities related to the subject
+matter of the Consent Order before they assume their responsibilities.
+Respondent must secure a signed and dated statement acknowledging receipt
+
+of a copy of this Consent Order, ensuring that any electronic signatures
+
+18
+50.
+
+SI.
+
+AA PE PAIE ES = .
+AAO Brew Ass
+Sa tet
+
+cH
+
+rw. tA pry LPR PN A Pm PATE ry as 6 aAS
+Pocument 7 Pilad GO/f/ed feoeo Rane TO of BF
+BA AEN Pa POPS Ae : eR NP ME at
+
+an io 2
+Vie Hee
+
+comply with the requirements of the E-Sign Act, 15 U.S.C. Â§ 7001 ef seq.,
+
+within 30 days of delivery, from all persons receiving a copy of this Consent
+
+Order under this Section.
+
+Within 90 days of the Effective Date, Respondent must provide the Bureau
+
+with a list of all persons and their titles to whom this Consent Order was
+
+delivered through that date under Paragraphs 48-49 and a copy of all signed
+and dated statements acknowledging receipt of this Consent Order under
+
+Paragraph 51.
+
+XII.
+Recordkeeping
+
+IT IS FURTHER ORDERED that:
+
+Respondent must create and retain the following business records:
+
+a. all documents and records necessary to demonstrate full compliance
+with each provision of this Consent Order, including all submissions
+to the Bureau.
+
+b. all documents and records pertaining to the Redress Plan, described in
+Section VII, above.
+
+C. for each individual Affected Consumer and his or her enrollment in
+
+the LDW coverage plan: the consumerâs name, address, phone
+
+19
+52.
+
+53.
+
+number, email address; amount paid, the date on which the LDW
+coverage was purchased, dates when premiums were billed and paid,
+and, if applicable, dates when any claims were made and how the
+claims were resolved; and
+d. all consumer complaints and refund requests regarding the LDW
+coverage plan (whether received directly or indirectly, such as through
+a third party), and any responses to those complaints or requests.
+Within 14 days of Respondentâs receipt of a written request from the
+Bureau, Respondent must make the documents identified in Paragraph 51
+available to the Bureau.
+XII.
+Notices
+IT IS FURTHER ORDERED that:
+Unless otherwise directed in writing by the Bureau, Respondent must
+provide all submissions, requests, communications, or other documents
+relating to this Consent Order in writing, with the subject line, â/n re Lobel
+Financial Corporation, File No. 2020-BCFP- 0016 ,â and send them by
+overnight courier or first-class mail to the below addresses and
+
+~
+
+. ro ge . a a6 ot Â¢ q
+Bo fe re . Ae f swan le ena oye foe ghar, be mee S
+8 PRP SRR HH ES : CPPS EP eR EE PES SEO OPA OSÂ®
+contemporaneously by email to Enforcement Compliance@?ct HO .LOV.
+
+20
+54.
+
+AA PE PAIE ES = .
+AAO Brew Ass
+Sa tet
+
+cH
+
+rw cA peng PPP PRO ry at roe
+Pinaciirpaent 4 Plan Â§OfOo4 oan Rineven Bt at OE
+LAGOS PL] Prue le, ; Â¢ Sr
+
+an io 2
+Vie Hee
+
+Regional Director, Bureau West Region
+
+301 Howard Street, Suite 1200
+
+San Francisco, CA 94105
+
+and
+
+Assistant Director for Enforcement
+
+Bureau of Consumer Financial Protection
+
+ATTENTION: Office of Enforcement
+
+1700 G Street, N.W.
+
+Washington D.C. 20552.
+
+XIV.
+Cooperation with the Bureau
+
+IT IS FURTHER ORDERED that:
+Respondent must cooperate fully to help the Bureau determine the identity
+and location of, and the amount of injury sustained by, each Affected
+Consumer. Respondent must provide such information in its or its agentsâ
+
+possession or control within 14 days of receiving a written request from the
+
+Bureau.
+
+21
+55.
+
+56.
+
+57.
+
+AAAN RAPS AMA
+IOWANS
+Bn ad athe KP LP RSE
+
+cH
+
+~ . A puss Soe re ex ae
+Pe ea cee ene of Rha a PU Pe FOE
+PAOCUINENE % rae OY STP eb eu}
+BaP AS SPEER Pkg PoP Ae bs < :
+
+XV.
+
+Compliance Monitoring
+IT IS FURTHER ORDERED that:
+Within 14 days of Respondentâs receipt of a written request from the
+Bureau, Respondent must submit additional Compliance Reports or other
+requested non-privileged information related to requirements of this Consent
+Order, which must be made under penalty of perjury; provide sworn
+testimony related to requirements of this Consent Order and Respondentâs
+compliance with those requirements; or produce non-privileged documents
+related to requirements of this Consent Order and Respondentâs compliance
+with those requirements.
+For purposes of this Section, the Bureau may communicate directly with
+Respondent, unless Respondent retains counsel related to these
+communications.
+Respondent must permit Bureau representatives to interview any employee
+or other person affiliated with Respondent about the requirements of this
+Consent Order and Respondents compliance with those requirements, who has
+agreed to such an interview. The person interviewed may have counsel
+
+present.
+
+22
+AA PE PAIE ES = .
+AAO Brew Ass
+Sa tet
+
+cH
+
+Pe ea ayy od Pe PN PN A Pe PS oe ID AE TES
+Py TE EY SAE ; eam PAs? 2A FOOSE DF aese M2 at OS
+RAPASLOLE ETA EPR od yb! Ae.
+
+eR Pg ae âa a3 â : 2
+ete ee bwie her oe â ENT oy
+\ oie PRLS wo AST tt
+
+58. Nothing in this Consent Order will limit the Bureauâs lawful use of civil
+investigative demands under 12 C.F.R. Â§ 1080.6 or other compulsory
+process.
+
+XVI.
+Modifications to Non-Material Requirements
+IT IS FURTHER ORDERED that:
+
+59. Respondent may seek a modification to non-material requirements of this
+Consent Order (e.g., reasonable extensions of time and changes to reporting
+requirements) by submitting a written request to the Regional Director.
+
+60. The Regional Director may, in his or her discretion, modify any non-
+material requirements of this Consent Order (e.g., reasonable extensions of
+time and changes to reporting requirements) if he or she determines that
+good cause justifies the modification. Any such modification by the
+Regional Director must be in writing.
+
+XVII.
+Administrative Provisions
+IT IS FURTHER ORDERED that:
+61. The provisions of this Consent Order do not bar, estop, or otherwise prevent
+
+the Bureau from taking any other action against Respondent, except as
+
+23
+62.
+
+63.
+
+AA PE PAIE ES = .
+AAO Brew Ass
+SSP eM
+
+cH
+
+rw cA peng PPP PRO ry A roe
+Mie issycinmt 4 Clan Malo d Pane Bann 34 At OF
+BASLE EER PER Od yoPPRSAS Wee. : she ap Lb
+
+Vie Hee
+
+described in Paragraph 62. Further, for the avoidance of doubt, the
+provisions of this Consent Order do not bar, estop, or otherwise prevent any
+other person or governmental agency from taking any action against
+Respondent.
+
+The Bureau releases and discharges Respondent from all potential liability
+for law violations that the Bureau has or might have asserted based on the
+practices described in Section IV of this Consent Order, to the extent such
+practices occurred before the Effective Date and the Bureau knew about
+them on the Effective Date. The Bureau may use the practices described in
+this Consent Order in future enforcement actions against Respondent and its
+affiliates, including, without limitation, to establish a pattern or practice of
+violations or the continuation of a pattern or practice of violations or to
+calculate the amount of any penalty. This release does not preclude or affect
+any right of the Bureau to determine and ensure compliance with the
+Consent Order, or to seek penalties for any violations of the Consent Order.
+This Consent Order is intended to be, and will be construed as, a final
+Consent Order issued under Â§ 1053 of the CFPA, 12 U.S.C. Â§ 5563, and
+expressly does not form, and may not be construed to form, a contract
+
+binding the Bureau or the United States.
+
+24
+64.
+
+65.
+
+66.
+
+67.
+
+AA PE PAIE ES = .
+AAO Brew Ass
+Sa tet
+
+cH
+
+rN cA pry PPA EA Ee ry ae Lae
+Pinaciirpaent 4 Plan Â§OfOo4 oan Rare OR af OF
+RAPASLOLE ETA EPR od yb! Ae. : ew et Ad th
+
+Vie Hee
+
+This Consent Order will terminate 5 years from the Effective Date. The
+Consent Order will remain effective and enforceable until such time, except
+to the extent that any provisions of this Consent Order have been amended,
+suspended, waived, or terminated in writing by the Bureau or its designated
+agent.
+
+Calculation of time limitations will run from the Effective Date and be based
+on calendar days, unless otherwise noted.
+
+Should Respondent seek to transfer or assign all or part of its operations that
+are subject to this Consent Order, Respondent must, as a condition of sale,
+obtain the written agreement of the transferee or assignee to comply with all
+applicable provisions of this Consent Order.
+
+The provisions of this Consent Order will be enforceable by the Bureau. For
+any violation of this Consent Order, the Bureau may impose the maximum
+amount of civil money penalties allowed under Â§1055(c) of the CFPA, 12
+U.S.C. Â§ 5565(c). In connection with any attempt by the Bureau to enforce
+this Consent Order in federal district court, the Bureau may serve
+Respondent wherever Respondent may be found and Respondent may not
+
+contest that courtâs personal jurisdiction over Respondent.
+
+25
+2020-BCFP-0016 Document1 Filed 09/21/2020 Page 26 of 26
+
+68. This Consent Order and the accompanying Stipulation contain the complete
+agreement between the parties. The parties have made no promises,
+representations, or warranties other than what is contained in this Consent
+Order and the accompanying Stipulation. This Consent Order and the
+accompanying Stipulation supersede any prior oral or written
+communications, discussions, or understandings.
+
+69. Nothing in this Consent Order or the accompanying Stipulation may be
+construed as allowing Respondent, its Board, officers, or employees to
+violate any law, rule, or regulation.
+
+IT IS SO ORDERED, this {Wey of September, 2020
+
+    
+
+athleen L. Krani
+Director
+Bureau of Consumer Financial Protection
+
+26

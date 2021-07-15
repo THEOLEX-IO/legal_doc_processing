@@ -1,0 +1,385 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+ 
+
+In the Matter of:
+
+ 
+
+Gain Capital UK Limited,
+CFTC Docket No. 20-16 Proceedings Clerk
+
+\ 9:56 am, Jun 08, 2020 /
+
+ 
+
+ 
+
+Respondent.
+
+Nee eeâ ee ee NSâ
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+from on or about February 6, 2014 to March 8, 2019 (âRelevant Periodââ), Gain Capital UK
+Limited (âGain UKâ or âRespondentâ), acting through Gain Capital Forex.com UK Limited until
+its business operations were integrated into Gain UK on October 6, 2017, violated Section
+2(c)(2)(C)G1)(1)(aa) of the Commodity Exchange Act (âActâ), 7 U.S.C. Â§ 2(c)(2)(C)Gi1)(1)(aa)
+(2018), and Commission Regulations (âRegulationsâ) 5.3(a)(6)() and 166.3, 17 C.F.R.
+
+Â§Â§ 5.3(a)(6)(1), 166.3 (2019) promulgated thereunder. Therefore, the Commission deems it
+appropriate and in the public interest that public administrative proceedings be, and hereby are,
+instituted to determine whether Respondent engaged in the violations set forth herein and to
+determine whether any order should be issued imposing remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
+Exchange Act, Making Findings, and Imposing Remedial Sanctions (âOrderâ) and acknowledges
+service of this Order.â
+
+ 
+
+' Respondent consents to the use of the findings of fact and conclusions of law in this Order in this proceeding and
+in any other proceeding brought by the Commission or to which the Commission is a party or claimant, and agrees
+that they shall be taken as true and correct and be given preclusive effect therein, without further proof. Respondent
+does not consent, however, to the use of this Order, or the findings or conclusions herein, as the sole basis for any
+other proceeding brought by the Commission or to which the Commission is a party or claimant, other than: a
+proceeding in bankruptcy or receivership; or a proceeding to enforce the terms of this Order. Respondent does not
+consent to the use of the Offer or this Order, or the findings or conclusions in this Order, by any other party in any
+other proceeding.
+II. FINDINGS
+The Commission finds the following:
+A. SUMMARY
+
+From at least February 6, 2014 to March 8, 2019 (âRelevant Periodâ), Gain UK, without
+being registered with the Commission as a retail foreign exchange dealer (âRFEDâ), accepted a
+limited number of customers who were located in the United States and not Eligible Contract
+Participants (âECPsââ) to open retail forex accounts. Gain UK also failed to diligently supervise
+the handling of an account for one of the non-ECP customers (âCustomer Aââ) that was managed
+by an unregistered commodity trading advisor (âTrading Advisorâ). A Gain UK employee
+learned that Trading Advisor was required to be registered, and Gain UK failed to detect several
+warning signs that Trading Advisor was defrauding Customer A.
+
+B. RESPONDENT
+
+Gain Capital UK Limited is an unregistered RFED located in London, England. During
+the Relevant Period, Gain Capital Forex.com UK Limited was an unregistered RFED located in
+London, England until its business operations were integrated into Gain UK on October 6, 2017.
+
+C. FACTS
+
+1. Gain UK Accepted Orders for Forex Transactions from Non-ECP
+Customers Located in the United States.
+
+During the Relevant Period, Gain UK acted as a counterparty to non-ECP customers who
+were located in the United States in connection with leveraged retail forex transactions while not
+being registered as an RFED. Gain UK had a policy to prevent non-ECP customers located in
+the United States from opening retail forex accounts. Despite that policy, however, a limited
+number of customers (who provided Gain UK with information that suggested the customers
+were located in the United States) succeeded in opening accounts with Gain UK. For example,
+some retail forex customersâafter identifying U.S. mailing addresses on account applicationsâ
+provided Gain UK with documents such as lease agreements, utility bills, and health-insurance
+enrollment letters further suggesting that the customers were located in the United States.
+Similarly, Customer A (who provided a copy of her foreign government issued identification that
+matched the primary non-U.S. address on her account application) listed a U.S. mailing address
+and telephone number on her account application, and when asked by a Gain UK employee,
+informed Gain UK that she was a student at a university in the United States. Gain UK,
+nonetheless, permitted her to open a retail forex account.
+
+2. Gain UK Failed To Diligently Supervise the Handling of a Retail Forex
+Account of a Non-ECP Customer Located in the United States.
+
+Gain UK failed to diligently supervise the handling of Customer Aâs retail forex account.
+First, as relevant here, Trading Advisorâand acting through his companyâsolicited
+Customer A, to open an individually managed forex trading account with Gain UK. During the
+account opening process, Trading Advisor communicated with a Gain UK employee about
+Customer Aâs account. Even though Customer A was located in the United States, Trading
+Advisor directed her to open a managed forex account with Gain UKâbased in part on
+communications Trading Advisor had with the Gain UK employee, who advised Trading
+Advisor how Customer A could open a retail forex account with Gain UK. The employee was
+aware that Trading Advisor had been rejected from managing accounts with Gain UK, as well as
+its affiliates, because Trading Advisor may have been soliciting managed accounts through
+social media and a website while not being registered with the Commission. The employee,
+however, assisted Trading Advisor in establishing Trading Advisorâs father as the nominal
+account manager and Trading Advisorâs mother as the nominal introducing broker, even though
+Customer A listed Trading Advisorâs entity as the account manager on her application. And,
+despite Trading Advisor not being named on any of the account documents, Trading Advisor had
+extensive communications with Gain UKâs employee about Customer Aâs account, including
+about creating it, directing the trading in it, and refunding commissions to it to reimburse
+significant trading losses. Gain UK failed to promptly detect these discrepancies.
+
+Second, Gain UK permitted Trading Advisorâs mother to earn commissions based on the
+trading in Customer Aâs accountâpurportedly being managed by Trading Advisorâs fatherâ
+without regard to the trading profits earned for Customer A. When Customer Aâs account
+incurred over $250,000 in losses within the first few weeks of opening, Trading Advisor
+requested that some of the commissions earned be refunded to Customer Aâs account to
+compensate the customer for some of the trading losses. Even though the rermbursement of
+commissions was escalated to Gain UKâs compliance department, Gain UK did not perform an
+adequate investigation into the account activity and failed to detect the extensive
+communications between Trading Advisor and Gain UKâs employee. Due to Trading Advisorâs
+fraudulent conduct, Customer A suffered approximately $280,000 in losses and Gain UK earned
+$241,671.
+
+Hil. LEGAL DISCUSSION
+
+A. Gain UK Failed To Register as an RFED in Violation of
+Section 2(c)(2)(C)(iii)(D(aa) of the Act and Regulation 5.3(a)(6)(i).
+
+The Commissionâs registration requirements for commodity professionals are a
+cornerstone of the regulatory framework enacted by Congress to protect the public. See
+CFTC v. British Am. Commodity Options Corp., 560 F.2d 135, 139-40 (2d Cir. 1977); see
+also CFTC v. Savage, 611 F.2d 270, 280 (9th Cir. 1979). Failure to register 1s a serious
+offense, and not a mere technical violation. CFTC v. Heritage Capital Advisory Servs.,
+[1980-1982 Transfer Binder] Comm. Fut. L. Rep. (CCH) J 21,627 at 26,387 (N.D. Ill. Nov.
+8, 1982).
+
+Section 2(c)(2)(C)(i11)()(aa) of the Act, 7 U.S.C. Â§ 2(c)(2)(C) aii) (1) (aa) (2018),
+states that a person shall not âsolicit or accept ordersâ for an agreement, contract, or
+transaction in foreign currency âfrom any person that is not an eligible contract participantâ
+without being âregistered in such capacity as the Commissionâ requires. Section
+1a(18)(A)(x1) of the Act, 7 U.S.C. Â§ 1a(18)(A)(xi) (2018), defines an ECP, in relevant part, as an
+individual who has amounts invested on a discretionary basis, the aggregate of which exceeds
+$10 million, or $5 million if the individual enters into the transaction to manage the risk
+associated with an asset owned or liability incurred, or reasonably likely to be owned or incurred,
+by the individual.
+
+Regulation 5.1, 17 C.F.R. Â§ 5.1(h)(1) (2019), defines RFED as âany person that is, or
+that offers to be, the counterparty to a retail forex transactionâ with someone that is not an
+ECP. Regulation 5.3(a)(6)(), 17 C.F.R. Â§ 5.3(a)(6)G) (2019), requires any person that meets
+the definition of RFED to register with the Commission. See, e.g., CFTC v. Interforex, 11-
+cv-6203, 2012 WL 1190900, at *3 (N.D. Ill. Feb. 2, 2012) (consent order); In re Forex
+Capital Markets Ltd., CFTC No. 11-18, 2011 WL 3418343, at *1 (Aug. 3, 2011) (consent
+order).
+
+During the Relevant Period, Gain UK acted as an RFED without registering with the
+Commission. It was the counterparty to customers located in the United States, who were
+not ECPs, in connection with leveraged retail forex transactions.
+
+B. Gain UK Failed To Diligently Supervise the Handling of a Customerâs Retail Forex
+Account in Violation of Regulation 166.3.
+
+Regulation 166.3, 17 C.F.R. Â§ 166.3 (2019), requires â[e]ach Commission registrant,
+except an associated person who has no supervisory duties,â to âdiligently supervise the
+handling .. . of all commodity interest accounts carried, operated, advised or introduced by
+the registrant.â Under Regulation 166.3, a registrant has a âduty to develop procedures for
+the âdetection and deterrence of possible wrongdoing by its agents.ââ Samson Refining Co.
+v. Drexel Burnham Lambert, Inc., CFTC No. 82-R448, 1990 WL 282783, at *11 (Feb. 16,
+1990) (quoting Lobb v. JT McKerr & Co., CFTC No. 85-R185, 1989 WL 242384, at *11
+(Dec. 14, 1989)). Regulation 166.1 defines âCommission registrantâ as used in Part 166 as
+âany person who is registered or required to be registered with the Commission.â Because
+Gain UK was ârequired to be registeredâ during the Relevant Period, it was also subject to
+Regulation 166.3âs supervision requirements.
+
+A violation of Regulation 166.3 is established by showing either that: (1) the
+registrantâs supervisory system was generally inadequate, or (2) the registrant failed to
+perform its supervisory duties diligently. In re FCStone, LLC, CFTC No. 15-21, 2015
+WL 2066891, at *3 (May 1, 2015) (consent order) (citing In re Murlas Commodities,
+CFTC No. 85-29, 1995 WL 523563 (Sept. 1, 1995)). So, even if proper procedures are in
+place, a supervisory violation may occur if a registrant fails to implement those
+procedures, or fails to ensure that its agents follow those procedures. See, e.g., In re GNP
+Commodities, CFTC No. 89-1, 1992 WL 201158, at *17 (Aug. 11, 1992) (providing that,
+even if an adequate supervisory system is in place, Regulation 166.3 can still be violated if
+the supervisory system is not diligently administered and stating that âa proper
+determination of a FCMâs supervisory diligence must remain sensitive to the particular
+facts and circumstances that influenced the design and execution of the system at issueââ),
+aff'd sub nom. Monieson v. CFTC, 996 F.2d 852 (7th Cir. 1993).
+
+Further, a violation of Regulation 166.3 is an independent violation for which no
+underlying violation is necessary. FCStone, 2015 WL 2066891, at *3. Instead, evidence
+of underlying violations that âshould be detected by a diligent system of supervision, either
+because of the nature of the violations or because the violations have occurred repeatedlyâ
+is probative of a failure to diligently supervise. CFTC v. Sidoti, 178 F.3d 1132, 1137 (11th
+Cir. 1999) (defendant was liable for failure to diligently supervise because he âknew of
+specific instances of misconduct yet failed to take reasonable steps to correct the
+problemsâ).
+
+Gain UK violated Regulation 166.3 by failing to follow its procedures when it did
+not promptly detect the warning signs of Trading Advisorâs fraudulent conduct toward
+Customer A. Among other things, Gain UK did not investigate when Customer A listed a
+different account manager on her account application than the account manager listed on the
+power of attorney form. Furthermore, Gain UK did not detect that Trading Advisorâwho
+Gain UK previously rejected from serving as an account managerâwas directly connected
+to the entity Customer A listed in her account application and that Trading Advisor had
+extensive communications with its employee about Customer Aâs account. And when
+Trading Advisor requested that commissions be refunded to cover losses in Customer Aâs
+account, Gain UK did not adequately investigate the account activity. Trading Advisorâs
+fraudulent conduct caused Customer A to lose approximately $280,000 in less than two
+months of trading. Gain UK earned $241,671 in connection with its failure to diligently
+supervise the handling of Customer Aâs account.
+
+IV. FINDINGS OF VIOLATIONS
+Based on the foregoing, the Commission finds that, during the Relevant Period, Gain UK
+violated Section 2(c)(2)(C)aii)(1)(aa) of the Act, 7 U.S.C. Â§ 2(c)(2)(C) (1) (aa) (2018), and
+Regulations 5.3(a)(6)(i) and 166.3, 17 C.F.R. Â§Â§ 5.3(a)(6)G), 166.3 (2019).
+V. OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+A. Acknowledges service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+C. Waives:
+1. The filing and service of a complaint and notice of hearing;
+2. A hearing;
+
+3. All post-hearing procedures;
+4. Judicial review by any court;
+
+5. Any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+Any and all claims that it may possess under the Equal Access to Justice Act,
+
+5 U.S.C. Â§ 504 (2018), and 28 U.S.C. Â§ 2412 (2018), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations, 17 C.F.R.
+pt. 148 (2019), relating to, or arising from, this proceeding;
+
+Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. IL, Â§Â§ 201-253, 110
+Stat. 847, 857-74 (codified as amended at 28 U.S.C. Â§ 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order;
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer; and
+
+Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+1.
+
+Makes findings by the Commission that Respondent violated
+Section 2(c)(2)(C)Gii)()(aa) of the Act, 7 U.S.C. Â§ 2(c)(2)(C) aii) ) (aa) (2018),
+and Regulations 5.3(a)(6)(i) and 166.3, 17 C.F.R. Â§Â§ 5.3(a)(6)G), 166.3 (2019);
+
+Orders Respondent to cease and desist from violating Section 2(c)(2)(C)ai)(D)(aa)
+of the Act and Regulations 5.3(a)(6)(i) and 166.3;
+
+Orders Respondent to pay a civil monetary penalty in the amount of two hundred
+fifty thousand dollars ($250,000), plus post-judgment interest; and
+
+Orders Respondent and its successors and assigns to comply with the conditions
+and undertakings consented to in the Offer and as set forth in Part VI of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent and its successors and assigns shall cease and desist from violating
+Section 2(c)(2)(C)Gii)()(aa) of the Act, 7 U.S.C. Â§ 2(c)(2)(C) Gi) (D)(aa) (2018), and
+Regulations 5.3(a)(6)(i) and 166.3, 17 C.F.R. Â§Â§ 5.3(a)(6)@), 166.3 (2019).
+
+Respondent shall pay a civil monetary penalty in the amount of two hundred fifty
+thousand dollars ($250,000) (âCMP Obligationâ) within ten days of the date of the entry
+of the Order. If the CMP Obligation is not paid in full within ten days of the date of entry
+of the Order, then post-judgment interest shall accrue on the CMP Obligation beginning
+on the date of entry of this Order and shall be determined by using the Treasury Bill rate
+prevailing on the date of entry of this Order pursuant to 28 U.S.C. Â§ 1961 (2018).
+
+Respondent shall pay the CMP Obligation and any post-judgment interest by electronic
+funds transfer, U.S. postal money order, certified check, bank cashierâs check, or bank
+money order. If payment is to be made other than by electronic funds transfer, then the
+payment shall be made payable to the Commodity Futures Trading Commission and sent
+to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+
+9-AMC-AR-CFTC @ faa. gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Marie
+Thorne or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the Respondent and the name and docket
+number of this proceeding. The Respondent shall simultaneously transmit copies of the
+cover letter and the form of payment to the Chief Financial Officer, Commodity Futures
+Trading Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C.
+20581, and to Charles Marvine, Deputy Director, Commodity Futures Trading
+Commission, 4900 Main Street, Suite 500, Kansas City, MO 64112.
+
+Respondent shall comply with the following conditions and undertakings set forth in the
+Offer:
+
+1. Public Statements: Respondent, and its successors and assigns, agrees that neither
+it nor any of its successors and assigns, agents or employees under its authority or
+control shall take any action or make any public statement denying, directly or
+indirectly, any findings or conclusions in this Order or creating, or tending to
+create, the impression that this Order is without a factual basis; provided,
+however, that nothing in this provision shall affect Respondentâs: (i) testimonial
+obligations; or (11) right to take legal positions in other proceedings to which the
+Commission is not a party. Respondent and its successors and assigns shall
+comply with this agreement, and shall undertake all steps necessary to ensure that
+all of its agents and/or employees under its authority or control understand and
+comply with this agreement.
+
+2. Disgorgement: Respondent agrees to pay disgorgement in the amount of two
+hundred forty-one thousand, six hundred seventy-one dollars ($241,671)
+(âDisgorgement Obligationââ) to Respondentâs customer, representing the gains
+received in connection with such violations. The Disgorgement Obligation is
+deemed satisfied by payments already made to Respondentâs customer.
+
+3. Cooperation: Respondent shall cooperate fully and expeditiously with the
+Commission, including the Commissionâs Division of Enforcement, 1n this action,
+and in any current or future Commission investigation or action related thereto.
+Respondent shall also cooperate in any investigation, civil litigation, or
+administrative matter related to, or arising from, this action.
+
+4. Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission of any partial payment of Respondentâs CMP Obligation shall
+not be deemed a waiver of its obligation to make further payments pursuant to this
+Order, or a waiver of the Commissionâs right to seek to compel payment of any
+remaining balance.
+
+5. Change of Address/Phone: Until such time as Respondent satisfies in full its
+CMP Obligation as set forth in this Order, Respondent shall provide written
+notice to the Commission by certified mail of any change to its telephone number
+and mailing address within ten calendar days of the change.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+Dat | Philp.
+
+Christopher J. Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+ 
+
+Dated: June 8, 2020

@@ -1,0 +1,505 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 77145 / February 16, 2016
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3743 / February 16, 2016
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-17118
+
+ 
+
+ORDER INSTITUTING CEASE-AND-
+
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+SECTION 21C OF THE SECURITIES
+PTC INC., EXCHANGE ACT OF 1934, MAKING
+FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+
+ 
+
+ 
+
+I.
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (âExchange Actâ), against PTC Inc. (âPTCâ or âRespondentâ).
+
+I.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferâ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, Respondent admits the Commissionâs
+jurisdiction over Respondent and the subject matter of these proceedings, and consents to the entry
+of this Order Instituting Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities
+Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order (âOrderâ), as set
+forth below.
+
+Hil.
+
+On the basis of this Order and Respondentâs Offer, the Commission finds' that:
+
+ 
+
+' The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding
+on any other person or entity in this or any other proceeding.
+Summary
+
+1. This matter concerns violations of the anti-bribery, books and records and internal
+accounting controls provisions of the Foreign Corrupt Practices Act (âFCPAâ) by PTC. From at
+least 2006 into 2011, two wholly-owned PTC subsidiaries (collectively, âPTC-Chinaââ) provided
+improper payments totaling nearly $1.5 million to government officials (âChinese government
+officialsâ or âofficialsâ) who were employed by Chinese state owned entities (âSOEsâ) that were
+PTC customers. These payments were made to obtain or retain business from the SOEs.
+Specifically, PT'C-China provided non-business travel, primarily sightseeing and tourist activities,
+as well as improper gifts and entertainment, to the Chinese government officials. PTC earned
+approximately $11.85 million in profits from sales contracts with SOEs whose officials received
+the improper payments.
+
+2. PTC-China made these improper payments in two primary ways: 1) by providing at
+least $1,179,912 to third party agents, disguised as commission payments or sub-contracting fees,
+which were then used to pay for non-business related foreign travel for Chinese government
+officials; and 2) by allowing its sales staff to provide Chinese government officials with gifts and
+excessive entertainment of over $274,313. The payments were recorded as legitimate
+commissions and business expenses in PTC-Chinaâs books and records, when in fact they were
+improper payments designed to benefit the Chinese government officials. PTC-Chinaâs books and
+records were consolidated into PTCâs books and records, thereby causing PTCâs books and records
+to be inaccurate. PTC failed to devise and maintain an adequate system of internal accounting
+controls sufficient to prevent and detect these improper payments that occurred over several years.
+
+Respondent
+
+3. PTC Inc. (formerly Parametric Technology Corporation) is a Massachusetts
+corporation with its headquarters in Needham, Massachusetts. PTC designs, manufactures, and
+sells Product Lifecycle Management Systems software (1.e., software that manages a companyâs
+products from design through manufacturing and distribution) and maintains operations in the
+Americas, Europe, and Asia Pacific, including China. PTC manages its China operations through
+two wholly-owned subsidiaries, Parametric Technology (Shanghai) Software Company Limited
+and Parametric Technology (Hong Kong) Limited. PTCâs common stock is registered with the
+Commission pursuant to Section 12(b) of the Exchange Act and is listed on the NASDAQ Global
+Select Market (ticker: PTC).
+
+Facts
+A. PTC Exercised Substantial Control Over PTC-China
+4. During the relevant period, although PTC-China was structured as two entities, it
+conducted business as a single unit. Until July 2008, all China local employees were assigned to
+
+the Hong Kong subsidiary; in August 2008, they all became direct employees of the Shanghai
+
+2
+subsidiary. And throughout this period, both the Hong Kong and Shanghai subsidiaries shared
+common directors, all of whom were senior members or officers of PTCâs legal and finance
+departments.
+
+5. PTC exercised substantial control over PTC-China. The employees of PTCâs
+subsidiaries, including PTC-China, had global functional reporting lines to PTC, rather than an
+independent management structure. The functional reporting lines provided PTC with control over
+PTC-Chinaâs activities, including its sales process. PT'C-Chinaâs senior sales staff reported to a
+Division Vice President of Sales, who was a PTC employee based in China. For most of the
+relevant period, this Division Vice President either reported to the General Manager of the Asia
+Pacific Region, or directly to PTCâs Executive Vice President of Sales, who was based in
+Needham, Massachusetts. For other functions, including sales operations and global services,
+various PTC-China employees reported up to PTC employees, both based in China and the United
+States. Consistent with the functional reporting structure, PTC often moved its key employees to
+various subsidiaries throughout the world.
+
+6. For the sales, sales operations, and global services functions, the review of
+proposed transactions followed a hierarchical approach through PTC-China and, if needed, to
+employees at other PTC entities, including the parent company. PTC employees approved pricing
+discounts above certain thresholds for PTC-China and reviewed certain PTC-China contract
+documents. PTC, not PTC-China, was the counter party on most of the contracts with PTC-
+Chinaâs SOE customers.
+
+7. Further, PTC set the business and financial goals for its subsidiaries, including
+PTC-China. Each PTC function (including sales, marketing and finance) received a worldwide
+budget from PTC to allocate among its various subsidiaries. PTC also set regional sales targets
+(1.e., for the Pacific Rim, in which China was included) and had regional managers who allocated
+the sales targets among the countries and subsidiaries.
+
+B. PTC-China Used Business Partners to Pay Bribes to
+Chinese Government Officials
+
+8. For sales to Chinese SOEs, PTC-China routinely hired third parties â called
+âbusiness partnersâ â both to find deals, for which PTC-China paid a commission or âsuccess fee,â
+as well as to provide information technology and other services, which PTC-China subcontracted
+to the business partner. Business partners were generally Chinese companies, purportedly with
+specific knowledge of, and relationships with, PTC-Chinaâs customers.
+
+9. PTC employees knew that many of PTC-Chinaâs customers were SOEs whose
+employees were Chinese government officials. Certain business partners had long standing
+relationships with these Chinese government officials. Generally, the business partners provided
+PTC-China with lobbying or âinfluence servicesâ (i.e., arranging seminars and meetings with
+officials of the SOEs) and information technology services. Often the Chinese government
+officials chose the business partner with whom they wished to collaborate.
+
+3
+10. Despite the routine use of business partners in many deals, and the risk of
+corruption inherent in paying for influence services, PTC failed to conduct a sufficient review of
+the business capabilities or ethics programs of these business partners.
+
+11. Senior PTC-China sales staff had wide discretion in setting the fee arrangements
+with business partners. PTC-China did not have a fixed success fee arrangement with its business
+partners, instead negotiating the fee for each particular deal. When PTC-China initially engaged
+the business partner, its sales team generally agreed to a price range for the business partnersâ
+commission â from as low as 15% to as high as 30% of the contract price â if the deal was
+successful. PTC-Chinaâs senior sales staff finalized the commission with the business partner at or
+about the time a deal closed. PTC-Chinaâs senior sales staff reported to a PTC employee who had
+authority over the commission approval process.
+
+12. For information technology and other subcontracted services, PT'C-China relied on
+sign offs provided by the SOEâs officials as evidence that the agreed upon services had been
+performed. Once the business partner and/or the Chinese government officials confirmed that the
+business partner had completed the services, PTC-China made the agreed-upon payments to the
+business partner. PTC-China did not independently verify the extent to which, if at all, the
+business partners in fact performed the subcontracted services.
+
+13. Beginning in 2005, PTC-China recorded the commission and information
+technology subcontracting payments to business partners as âComplete Outsourced Dealsâ or
+âCODâ expenses. After 2008, PTC-China began paying commissions to business partners as it
+received customer payment on the deals. PTC-China sales staff tracked the payments to business
+partners on spreadsheets that they kept on their computers, and which were separate from PTC-
+Chinaâs electronic accounting records.
+
+14. During contract negotiations with SOEs, Chinese government officials, in
+conjunction with a business partner, often requested that PT'C-China provide them with overseas
+âtraining,â which involved primarily tourist and sightseeing visits. The three parties would settle
+on a travel budget and the Chinese government officials would typically agree to âgross upâ the
+SOEâs contract price by the amount of the anticipated travel costs. PTC-China sales staff itemized
+the overseas travel costs in the initial contract documents for approval by senior PTC-China sales
+staff. Once approved, however, PTC-China employees removed the line item for overseas travel
+from the final contract documents that were signed by PTC and the SOEs. Instead, the funds
+budgeted for the overseas travel were disguised by PTC-China personnel as COD expenses related
+to success fees or subcontracting payments for business partners.
+
+15. Because PTC-China employees negotiated success fees with a business partner on a
+deal by deal basis, they were able to include the costs of the overseas travel as part of a business
+partnerâs fees without raising suspicion. In turn, the business partner used part of its success fee to
+pay for the overseas sightseeing trips. Alternatively, PTC-China employees sometimes disguised
+the overseas travel payments as a payment purportedly for providing information technology or
+
+4
+other subcontracted services. The business partner (or customer) then provided PTC-China with
+documents indicating that it had performed the subcontracted services, and used a part of the
+subcontract fee to pay for the Chinese government officialsâ sightseeing trips. For certain more
+expensive trips, PTC-China employees spread the overseas travel payments over several contracts,
+each with its own COD budget. Because many deals with SOEs involved long term contracts that
+took several years to complete, the actual sightseeing trip sometimes occurred up to two to three
+years after the deal was negotiated.
+
+16. PTC-China sales staff tracked on spreadsheets kept separate from PTC-Chinaâs
+regularly maintained books and records the overseas travel payments made by business partners to
+or for the benefit of PTCâs SOE customers. Senior PTC-China sales staff used the spreadsheets to
+understand the composition of, and negotiate, the success and other fees with the business partners.
+
+C. PTC-China Improperly Funded Leisure Travel for Chinese
+Government Officials
+
+17. PTC-China employees and the business partners typically arranged the overseas
+sightseeing trips in conjunction with a visit to a PTC facility. Most often, PT'C-China sales staff
+arranged for Chinese government officials to visit PTCâs corporate headquarters in Massachusetts,
+for PTC to market and demonstrate the companyâs products and services. The trips typically
+consisted of one day of business activities at PTCâs facility, followed or preceded by additional
+days of sightseeing visits that lacked any business purpose, all of which were paid for by the
+business partners using funds from their grossed up success fees and subcontracting payments.
+Some PTC employees in the United States generally understood that SOE officials were spending
+additional days in the country, including for tourist activities. And certain PTC employees based
+in China were aware that PTC-China employees were accompanying Chinese government officials
+to tourist destinations.
+
+18. Typical travel destinations in the United States included New York, Las Vegas, San
+Diego, Los Angeles, and Honolulu, and involved guided tours, golfing, and other leisure activities.
+PTC-China sales staff usually accompanied the Chinese government officials on these trips. The
+Chinese government officials who went on the trips in turn were often signatories on the purchase
+agreements with PTC.
+
+19. Examples of these overseas trips are described below:
+
+e In April 2008, six officials of an SOE (âSOE Customer Aâ) and a senior PTC-
+China salesperson visited PT'Câs Massachusetts office for a one-day meeting. The
+PTC-China salesperson further arranged for a business partner to pay $51,495 for
+sightseeing visits to New York, Boston, Los Angeles and Honolulu for the Chinese
+government officials (and himself). The ten day trip included lodging at five star
+hotels; tours of Rockefeller Center, the Statue of Liberty, the United Nations, and
+the Empire State Building, along with tickets to a professional basketball game
+while in New York; tours of MIT, Harvard, and Faneuil Hall while in Boston; a
+
+5
+tour of the Grand Canyon while in Las Vegas; a city tour while in Los Angeles; and
+a city tour, a tour of Pearl Harbor, a visit to the Polynesian Cultural Center, golfing,
+and a sunset dinner cruise while in Honolulu. As a result, during 2008, PTC and
+PTC-China received an improper benefit of at least three contracts, signed by PTC,
+worth $1.2 million, from SOE Customer A.
+
+In December 2007, during contract negotiations with an SOE (âSOE Customer Bâ),
+a PTC-China employee agreed to provide its officials with over $84,000 for future
+overseas travel expenses. The PTC-China employee emailed his supervisor at
+PTC-China the terms of a deal with SOE Customer B that included $84,429 for the
+overseas travel, which he initially recorded as âoverseas training.â Later, the PTC-
+China employee disguised âoverseas trainingâ as COD costs, stating: âI replace the
+âoversea trainingâ in the sheet to the âCODI1â .... As you know, the customers just
+want sightseeing instead of oversea training.â Subsequently, the PTC-China
+employee disguised the overseas travel costs as COD expenses in three deals,
+signed by PTC, worth nearly $1.7 million, with SOE Customer B.
+
+PTC-China provided SOE Customer B with the agreed-upon overseas travel in
+2010, when it arranged for nine of its officials to visit PTCâs Massachusetts office
+for a one-day meeting. PTC-China employees concurrently had a business partner
+provide these Chinese government officials with sightseeing visits to New York,
+Washington, D.C., Los Angeles, and Honolulu, including among the activities,
+tours of West Point Academy, Rockefeller Center, and the Statue of Liberty while
+in New York; Universal Studios while in Los Angeles; and Pearl Harbor while in
+Honolulu.
+
+In December 2007, while negotiating a $3.4 million deal with an SOE (âSOE
+Customer Cââ), a PTC-China salesperson emailed his supervisors at PTC-China
+contract documents that included overseas travel expenses of $173,400. In July
+2008, while negotiating a $1.2 million deal with SOE Customer C, another PTC-
+China salesperson emailed the same supervisors contract documents that included
+overseas travel expenses of $104,000. When completing both deals, PTC-China
+employees excluded the overseas travel expenses from the final contract documents
+that were signed by PTC and SOE Customer C.
+
+PTC-China provided SOE Customer C with the agreed-upon overseas travel in May
+2010, when it arranged for five of its officials to visit PTCâs Massachusetts office
+for a one-day meeting. PTC-China employees concurrently had a business partner
+provide these Chinese government officials with a sightseeing visit to New York,
+Las Vegas, and Los Angeles, including among other activities, tours of the United
+Nations, the Statue of Liberty, and West Point while in New York; the Grand
+Canyon while in Las Vegas; and Universal Studios while in Los Angeles.
+e In May 2010, a PTC-China salesperson accompanied two officials of an SOE
+(âSOE Customer Dâ) on a visit to PT'Câs Massachusetts office for a one-day
+meeting. PTC-China sales staff concurrently had a PTC-China business partner
+provide these Chinese government officials with sightseeing visits to New York,
+Boston, Atlanta, Las Vegas, and Los Angeles, including among other activities,
+tours of the Grand Canyon while in Las Vegas; Universal Studios while in Los
+Angeles; and shopping excursions. In July 2010, another PTC-China salesperson
+accompanied seven officials of SOE Customer D on a second visit to PTCâs U.S.
+offices. Once again, PTC-China sales staff had one of its business partners provide
+these Chinese government officials with sightseeing visits to New York, Boston,
+New London, Connecticut, Washington, D.C., Las Vegas, San Diego and Los
+Angeles, including among other activities, tours of Niagara Falls, the Statue of
+Liberty, the Empire State Building, and the Intrepid Sea, Air & Space Museum
+Complex while in New York; the Submarine Force Library & Museum while in
+New London; the Grand Canyon while in Las Vegas; Universal Studios while in
+Los Angeles; and shopping excursions. These trips influenced SOE Customer D to
+purchase over $9 million of products from PTC and PTC-China.
+
+20. Overall, from 2006 into 2011, PTC-China, through its business partners, paid at
+least $1,179,912 to fund at least 10 trips for Chinese government officials that included significant
+non-business travel. The costs of these trips were improperly recorded in PTCâs books and records
+as COD or business partner related commissions or subcontracting payments, without any
+indication that they were primarily for sightseeing and other non-business related activities. PTC
+improperly profited by at least $11,858,000 from contracts obtained from the SOEs whose
+government officials participated on these trips.
+
+D. PTC-China Improperly Provided Officials of SOEs
+with Gifts and Excessive Entertainment
+
+21. From 2009 through 2011, PT'C-China sales staff corruptly provided at least
+$274,313 in improper gifts and entertainment directly to Chinese government officials. The value
+of the gifts and entertainment generally ranged from $50 to $600, and often included small
+electronics (e.g., cell phones, iPods, and GPS systems), gift cards, wine, and clothing. PT'C-China
+sales staffâs long standing practice of providing the gifts to Chinese government officials was done
+at least in part to obtain or retain SOE business.
+
+22. By providing these gifts, PTC-China violated PTCâs corporate governance and
+internal controls policies. These policies included: $50 monetary limits on the provision of gifts
+and business entertainment to government officials; requiring PTC-China sales staff to obtain pre-
+approvals for business expenses over $500; and requiring that PTC-China sales staff document the
+date, place, attendees, and purpose of business entertainment and the recipient. These gifts were
+improperly recorded as legitimate business expenses.
+E. PTC-China Failed to Devise and Maintain a System
+of Internal Accounting Controls
+
+23. From at least 2006 through 2011, PTC failed to devise and maintain an adequate
+internal accounting controls system to address the potential FCPA problems posed by its
+ownership of, and control over, PTC-China. Notably, during 2006, 2008, and 2010, PTC
+investigated compliance issues at PT'C-China, including possible corruption involving its business
+partners. However, PTC failed to identify and stop the ongoing and systemic illicit payments to
+Chinese government officials by PTC-China personnel as described above and did not undertake
+effective remedial actions.
+
+24. Despite these compliance issues, PTC failed to undertake periodic comprehensive
+risk assessments for PT'C-China and to ensure that its internal accounting controls procedures were
+suited to PTC-Chinaâs particular circumstances (in particular, its ongoing dealings with Chinese
+government officials). PTCâs Code of Ethics and Anti-Bribery policies for the provision of
+business entertainment were vague (1.e., stating that employees should use âgood tasteâ and
+consider the âcustomary business standards in the communityâ when providing business
+entertainment) and not risk-based to China. And PTC did not have independent compliance staff
+or an internal audit function that had authority to review and test its internal accounting controls
+processes or intervene into management decisions and, if appropriate, take remedial actions.
+
+25. As aresult, PTC failed to identify and correct corporate governance and compliance
+breakdowns at PTC-China. Notably, PTC failed to: properly vet PT'C-Chinaâs business partners,
+which played a significant role for PTC-China as described above; police for corrupt payments by
+its business partners; monitor and supervise PTC-Chinaâs senior sales staff to ensure that they
+enforced anti-corruption policies and kept accurate records concerning gifts to Chinese government
+officials; properly scrutinize travel related expenses to prevent reimbursement for employeesâ
+airfare, lodging, and other expenses that were either personal in nature or gifts for customers; limit
+the number or total value of gifts PTC-Chinaâs sales staff could provide to any single individual or
+entity; and provide sufficient FCPA training for its employees.
+
+Legal Standards and Violations
+
+26. Under Section 21C(a) of the Exchange Act, the Commission may impose a cease-
+and-desist order upon any person who is violating, has violated, or is about to violate any provision
+of the Exchange Act or any regulation thereunder, and upon any other person that is, was, or would
+be a cause of the violation, due to an act or omission the person knew or should have known would
+contribute to such violation.
+
+Violations of the Anti-Bribery Provisions of the FCPA
+
+27. Under Section 30A of the Exchange Acct it is unlawful for any issuer, officer,
+director, employee, or agent of such issuer or any stockholder thereof acting on behalf of the issuer
+to make use of the mails or any means or instrumentality of interstate commerce corruptly in
+
+8
+furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or
+offer, gift, promise to give, or authorization of the giving of anything of value to any foreign
+official or any person, while knowing that all or a portion of such money or thing of value will be
+offered, given, or promised, directly or indirectly, to any foreign official for the purposes of (1)
+influencing any act or decision of such foreign official in his official capacity, (11) inducing such
+foreign official to do or omit to do any act in violation of the lawful duty of such official, or (i11)
+securing any improper advantage in order to assist such issuer in obtaining or retaining business for
+or with, or directing business to, any person. [15 U.S.C. Â§ 78dd-1].
+
+28. PTC-China used third party business partners to pay bribes in the form of travel,
+gifts and entertainment to Chinese government officials to obtain and retain business. PTC
+exercised substantial control over PTC-China by, among other things, creating functional reporting
+lines, approving PTC-Chinaâs key decisions, and setting PTC-Chinaâs business and financial goals.
+PTC entered into contracts directly with the SOEs as a result of the bribes paid through PTC-
+Chinaâs business partners, and earned significant income from these contracts. Under applicable
+agency principles, PTC-China and its employees acted as agents of PTC during the relevant time
+and were acting within the scope of their authority and for the benefit of PTC when participating in
+the bribery scheme.
+
+Violations of the Recordkeeping and Internal
+Accounting Controls Provisions of the FCPA
+
+29. Section 13(b)(2)(A) of the Exchange Act requires reporting companies to make and
+keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflect the
+transactions and disposition of the assets of the issuer. 15 U.S.C. Â§ 78m(b)(2)(A).
+
+30. Section 13(b)(2)(B) of the Exchange Act requires reporting companies to devise
+and maintain a system of internal accounting controls sufficient to provide reasonable assurances
+that the transactions: (1) are executed in accordance with managementâs general or specific
+authorization; and (ii) are recorded as necessary to permit preparation of financial statements in
+conformity with generally accepted accounting principles (âGAAPâ) or any other criteria
+applicable to such statements, and to maintain accountability for assets. 15 U.S.C. Â§ 78m(b)(2)(B).
+
+31. PTC-China made payments, directly and indirectly, to Chinese government
+officials that were improperly recorded on its books and records as legitimate commissions and
+business expenses. The books and records of PTC-China were consolidated into PTCâs books and
+records. As a result of the misconduct of its China subsidiaries, PTC failed to make and keep
+books and records which, in reasonable detail, accurately and fairly reflected its transactions and
+the disposition of its assets as required by Section 13(b)(2)(A) of the Exchange Acct.
+
+32. The improper payments by PTC-China described above took place over several
+years. During the relevant period, PTC failed to implement an adequate system of internal
+controls, including an appropriate FCPA compliance and training program at PTC-China, which
+was commensurate with the risks of doing business in China, and particularly the risks of
+
+9
+businesses that regularly sold products to SOEs. Accordingly, in violation of Section 13(b)(2)(B)
+of the Exchange Act, PTC failed to devise and maintain a system of internal accounting controls
+sufficient to provide reasonable assurances that it maintained accountability for its assets, and that
+its transactions were executed in accordance with managementâs authorization.
+
+PTCâs Self-Disclosure and Remedial Efforts
+
+33. PTC only discovered the improper payments to or for the benefit of Chinese
+government officials in 2011, while investigating complaints concerning a senior PTC-China
+salesperson. Upon learning this information, PTC, with the oversight of the Audit Committee of
+the Board of Directors, engaged independent counsel and an independent forensic consulting firm
+to undertake an investigation. PTC voluntarily self-reported the results of its internal investigation
+to the Commission and responded to information requests from the Commission staff. PTC did
+not, however, uncover or disclose the full scope and extent of PTC-Chinaâs FCPA issues until
+2014.
+
+34. As part of its internal review and investigation, PTC undertook significant remedial
+measures including terminating the senior staff at PTC-China implicated in the FCPA violations.
+PTC also revised its pre-existing compliance program, updated and enhanced its financial
+accounting controls and its compliance protocols and policies worldwide, and implemented
+additional specific enhancements in China. These steps included: (1) reviewing and enhancing its
+anti-bribery policy, code of ethics, and gifts and entertainment policies to correct previous
+deficiencies; (2) establishing a dedicated compliance team, including a chief compliance officer
+and a new compliance director in China; (3) expanding its other compliance resources in China,
+including hiring a new vice president of finance for Asia and adding additional legal staff in China;
+(4) hiring a new management team in China, including a new China President; (5) enhancing its
+FCPA training for employees; (6) severing its relationships with the business partners that were
+implicated in the FCPA violations and discontinuing the use of COD partners or business referral
+partners generally; (7) implementing a comprehensive due diligence program for all other business
+partners that includes a risk-scoring system operated by a third party vendor and that includes
+FCPA training as part of the onboarding process; (8) obtaining quarterly anti-corruption
+certifications from sales staff; and (9) undertaking periodic compliance audits.
+
+Non-Prosecution Agreement
+35. Respondentâs subsidiaries have entered into non-prosecution agreements that
+acknowledge responsibility for criminal conduct relating to the findings in the Order. Specifically,
+
+Respondentâs subsidiaries acknowledge responsibility for violating Section 104A of the Foreign
+Corrupt Practices Act of 1977. 15 U.S.C. Â§ 78dd-3.
+
+10
+Non-Imposition of a Civil Penalty
+
+36. Respondent acknowledges that the Commission is not imposing a civil penalty
+based upon its payment of a $14,540,000 criminal fine as part of Respondentâs subsidiariesâ
+settlement with the United States Department of Justice.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent PTCâs Offer.
+
+Accordingly, it is hereby ORDERED that:
+
+A. Pursuant to Section 21C of the Exchange Act, Respondent PTC cease and desist
+from committing or causing any violations and any future violations of Sections 30A, 13(b)(2)(A)
+and 13(b)(2)(B) of the Exchange Act.
+
+B. Respondent shall, within ten (10) days of the entry of this Order, pay disgorgement
+of $11,858,000, which represents profits gained as a result of the conduct described herein, and
+prejudgment interest of $1,764,000 to the Securities and Exchange Commission for transfer to the
+general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). If timely
+payment is not made, additional interest shall accrue pursuant to SEC Rule of Practice 600 and 31
+U.S.C. Â§ 3717. Payment must be made in one of the following ways:
+
+(1) Respondent may transmit payment electronically to the Commission, which will
+provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov through
+the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United States
+postal money order, made payable to the Securities and Exchange Commission and hand-
+delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying PTC
+as a Respondent in these proceedings, and the file number of these proceedings; a copy of the
+
+11
+cover letter and check or money order must be sent to Paul G. Block, Assistant Director, Foreign
+Corrupt Practices Act Unit, Boston Regional Office, Securities and Exchange Commission, 33
+Arch Street, Suite 2300, Boston, Massachusetts 02110.
+
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+12

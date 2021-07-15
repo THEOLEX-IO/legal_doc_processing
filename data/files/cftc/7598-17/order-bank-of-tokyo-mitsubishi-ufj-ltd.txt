@@ -1,0 +1,365 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+ 
+
+   
+
+) RECEIVED CFTC
+In the Matter of: ) slit
+The Bank of Tokyo-Mitsubishi UFJ, ) CFTC Docket No. 17 ~ 21 âN Le
+Ltd. ) Office of Proceedings
+) Proceedings Clerk
+Respondent. ) 2:02 pm Aug 07, 2017
+
+ 
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT,
+MAKING FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I.
+
+The Commodity Futures Trading Commission (âCommissionâ or âCFTCâ) has reason to
+believe that The Bank of Tokyo-Mitsubishi UFJ, Ltd. (ââBTMUâ or âRespondentâ) has violated
+Section 4c(a)(5)(C) of the Commodity Exchange Act (the âActâ or the âCEAâ), 7 U.S.C.
+
+Â§ 6c(a)(5)(C) (2012). Therefore, the Commission deems it appropriate and in the public interest
+that public administrative proceedings be, and hereby are, instituted to determine whether the
+Respondent engaged in the violations set forth herein, and to determine whether any order shall
+be issued imposing remedial sanctions. |
+
+IL.
+
+In anticipation of the institution of administrative proceedings, the Respondent has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying the findings or conclusions herein, the Respondent herein consents
+to the entry and acknowledges service of this Order Instituting Proceedings Pursuant to Sections
+6(c) and 6(d) of the Commodity Exchange Act, Making Findings, and Imposing Remedial
+Sanctions (âOrderâ)!
+
+ 
+
+' The Respondent consents to the entry of this Order and to the use of these findings and conclusions in
+
+this proceeding and in any other proceeding brought by the Commission or to which the Commission is a
+party; provided, however, that the Respondent does not consent to the use of the Offer, or the findings or
+conclusions in this Order, as the sole basis for any other proceeding brought by the Commission, other
+than in a proceeding in bankruptcy or to enforce the terms of this Order. Nor does the Respondent
+consent to the use of the Offer or this Order, or the findings and conclusions in this Order consented to in
+the Offer, by any other party in any other proceeding. )
+Ill.
+
+The Commission finds the following:
+
+A. Summary
+
+From at least July 2009 through December 2014 (the âRelevant Periodâ), BTMU â by
+and through one of its traders (âTrader Aâ) â engaged in the disruptive trading practice of
+âspoofingâ in markets for a variety of futures products traded on designated contract markets in
+the United States. These products included futures contracts based on United States treasury
+notes, and Eurodollars. BTMUâs disruptive trading violated Section 4c(a)(5)(C) of the Act.
+
+In accepting the Respondentâs Offer, the Commission recognizes the Respondentâs
+cooperation with the Division of Enforcementâs (âDivisionâ) investigation of this matter. The
+Commission notes that the Respondent promptly self-reported the misconduct and proactively
+implemented large-scale remedial measures and process improvements to deter and detect
+similar misconduct.
+
+B. Respondent
+
+The Bank of Tokyo-Mitsubishi, UFJ Ltd. âBTMUâ) is a Japanese banking
+corporation headquartered in Tokyo, Japan. As part of its business activities, BTMU engaged
+during the Relevant Period in proprietary trading of futures contracts in the United States.
+BTMU employed Trader A in one of its Tokyo offices. BTMU has been provisionally
+registered with the Commission as a swap dealer since December 31, 2012.
+
+C. Facts
+
+ 
+
+1. BIMUâs Disruptive Trading
+
+During the Relevant Period, BTMU employed a number of traders, including Trader A,
+in its Tokyo offices. As part of his duties, Trader A traded a variety of futures contracts on the
+Chicago Mercantile Exchange (âCMEâ) and the Chicago Board of Trade (âCBOTâ), including
+futures contracts based on United States treasury notes (âTreasuriesâ) and Eurodollars
+(âEurodollarsâ). Trader A accessed these markets through a trading platform from one of
+BTMDUâs Tokyo offices.
+
+During the Relevant Period, although largely in 2010 and 2011, Trader A placed multiple
+orders for futures contracts with an intent to cancel the orders before their execution
+(âspoofingâ). Trader A spoofed a variety of futures contracts traded on the CME and CBOT,
+including Treasuries and Eurodollars. Trader Aâs spoofing strategies included submitting orders
+on opposite sides of the same market at nearly the same time. In this pattern, Trader A first
+placed one or more relatively small bids or offers (âOrder 1â). Soon thereafter, in the same
+market, Trader A entered one or more larger bids or offers (âOrder 2â) while Order 1 rested live
+in the market. Order 2 was placed on the opposite side of the market from Order 1. Hence, if
+Order 1 was a bid, Order 2 was an offer, and vice versa. In many instances, Trader A then
+received a partial or complete fill on Order 1, and then cancelled Order 2 before it was filled.
+
+2
+Trader A engaged in this spoofing activity in order to move the market in a direction favorable to
+Order 1.
+
+2. BIMU?âs Self-Reporting, Cooperation, and Remediation
+
+Once aware of Trader Aâs misconduct, BTMU promptly suspended Trader A and
+reported the conduct to the Division. BTMU commenced an expansive internal review and
+assisted the Divisionâs investigation of the conduct. BTMUâs assistance expedited the
+Divisionâs investigation. At the same time, BTMU launched an overhaul of its systems and
+controls and implemented a variety of enhancements to detect and prevent similar misconduct.
+As part of this process, BTMU revised its policies, updated its training, and implemented
+electronic systems to identify spoofing. BTMUâs automated anti-spoofing measures include
+reviewing trading data and communications for suspicious activity.
+
+IV.
+LEGAL DISCUSSION
+A, Section 4c(a)(5)(C) of the Act â Spoofing Violations
+
+Section 4c(a)(5)(C) of the Act makes it unlawful for â[a]ny person to engage in any
+trading, practice, or conduct on or subject to the rules of a registered entity that . . . is, is of the
+character of, or is commonly known to the trade as, âspoofingâ (bidding or offering with the
+intent to cancel the bid or offer before execution).â As described above, Trader A entered into
+multiple bids or offers on a registered entity with the intent to cancel the bids or offers before
+execution in violation of Section 4c(a)(5)(C) of the Act. See, e.g., CFTC v. Oystacher, No. 15-
+CV-09196 (N.D. Ill. Dec. 20, 2016); CFTC v. Nav Sarao Futures Ltd., 15-CV-3398 (N.D. Ill.
+Nov. 14, 2016); CFTC v. Khara, No. 15 cv 03497 (S.D.N.Y. Mar 31, 2016).
+
+B. Respondent B U_Is Liable for the Acts of Its Agents
+
+Section 2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1)(B) (2012), and Commission Regulation
+1.2,17C.F.R. Â§ 1.2 (2016), provide that the act, omission or failure of any official, agent or
+other person acting for any individual, association, partnership, corporation or trust within the
+scope of his employment or office shall be deemed the act, omission or failure of such
+individual, association, partnership, corporation or trust. Under Section 2(a)(1)(B) and
+Commission Regulation 1.2, principals are strictly liable for the actions of their agents. See, e.g.,
+Rosenthal & Co. v. CFTC, 802 F.2d 963, 966 (7th Cir. 1986); Dohmen-Ramirez & Wellington
+Advisory, Inc. vy. CFTC, 837 F.2d 847, 857-58 (9th Cir. 1988).
+
+Trader A engaged in the conduct described herein within the course and scope of his
+employment at BTMU. Therefore, BTMU is liable for the acts, omissions and failures of Trader
+A, as described above, that constituted violations of Section 4c(a)(5)(C) of the Act.
+
+oo
+A.
+
+B.
+
+V.
+
+FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that, during the Relevant Period, the
+Respondent violated Section 4c(a)(5)(C) of the Act.
+
+VI.
+
+OFFER OF SETTLEMENT
+
+The Respondent, without admitting or denying the findings or conclusions herein, has
+submitted the Offer in which it:
+
+Acknowledges receipt of service of this Order;
+
+Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of this Order;
+
+Waives:
+
+1, the filing and service of a complaint and notice of hearing;
+
+2. a hearing;
+
+3, all post-hearing procedures;
+
+4, judicial review by any court;
+
+5. any and all objections to the participation by any member of the Commissionâs
+staff in the Commissionâs consideration of the Offer;
+
+6. any and all claims that the Respondent may possess under the Equal Access to
+Justice Act, 5 U.S.C. Â§ 504 (2012) and 28 U.S.C. Â§ 2412 (2012), and/or the rules
+promulgated by the Commission in conformity therewith, Part 148 of the
+Commission Regulations, 17 C.F.R. Â§Â§ 148.1-30 (2016), relating to, or arising
+from, this proceeding;
+
+7. any and all claims that the Respondent may possess under the Small Business
+Regulatory Enforcement Fairness Act of 1996, Pub. L. No. 104-121, Â§Â§ 201-253,
+110 Stat. 847, 857-868 (1996), as amended by Pub. L. No. 110-28, Â§ 8302, 121
+Stat. 112, 204-205 (2007), relating to, or arising from, this proceeding; and
+
+8. any claims of Double Jeopardy based on the institution of this proceeding or the
+
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+4
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which the Respondent has consented in the Offer; and
+
+Consents, solely on the basis of the Offer, to the Commissionâs entry of this Order that:
+
+1. makes findings by the Commission that the Respondent violated Section
+4c(a)(5)(C) of the Act;
+
+2. orders the Respondent to cease and desist from violating Section 4c(a)(5)(C) of
+the Act;
+
+3. orders the Respondent to pay a civil monetary penalty in the amount of six
+
+hundred thousand dollars ($600,000) plus post-judgment interest; and
+
+4, orders the Respondent and its successors and assigns to comply with the
+conditions, undertakings, and representations consented to in the Offer and as set
+forth in Part VII of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VIL.
+
+ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+B.
+
+Respondent shall cease and desist from violating Section 4c(a)(5)(C) of the Act.
+
+Respondent shall pay a civil monetary penalty of six hundred thousand U.S. dollars
+($600,000) within ten (10) days of the date of entry of this Order (the âCMP
+Obligationâ). Ifthe CMP Obligation is not paid in full within ten (10) days of the date of
+entry of this Order, then post-judgment interest shall accrue on the CMP Obligation
+beginning on the date of entry of this Order and shall be determined by using the
+Treasury Bill rate prevailing on the date of entry of this Order pursuant to 28 U.S.C.
+
+Â§ 1961 (2012). Respondent shall pay the CMP Obligation by electronic funds transfer,
+U.S. postal money order, certified check, bank cashierâs check, or bank money order. If
+payment is to be made other than by electronic funds transfer, then the payment shall be
+made payable to the Commodity Futures Trading Commission and sent to the address
+below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables
+DOT/FAA/MMAC/AMK-326
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.
+
+5
+Oklahoma City, OK 73169
+(405) 954-7262 office
+(405) 954-1620 fax
+nikki.gibson@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Nikki
+Gibson or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. Respondent shall simultaneously transmit copies of
+the cover letter and the form of payment to the Chief Financial Officer, Commodity
+Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+
+Respondent and its successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+1. Public Statements: Respondent agrees that neither it nor any of its successors,
+assigns, agents or employees under its authority or control shall take any action or
+make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order, or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondentâs (1) testimonial obligations; or (ii) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondent and its successors and assigns shall undertake all steps necessary to
+ensure that all of its agents and/or employees under its authority or control
+understand and comply with this agreement.
+
+2. Cooperation with the Commission:
+
+ 
+
+i. Respondent shall cooperate fully and expeditiously with the Commission,
+including the Division, and any other governmental agency in this action,
+and in any investigation, civil litigation or administrative matter related to
+the subject matter of this action or any current or future Commission
+investigation related thereto. As part of such cooperation, Respondent
+agrees to the following for a period of five (5) years from the date of the
+entry of this Order, or until all related investigations and litigation are
+concluded, including through the appellate review process, whichever
+period is longer:
+
+a. Preserve all records relating to the subject matter of this
+proceeding, including, but not limited to, audio files, electronic
+mail, other documented communications, and trading records;
+
+b. Subject to applicable laws and regulations, comply fully,
+promptly, completely, and truthfully with all inquiries and requests
+for information or documents;
+
+6
+c. Provide authentication of documents and other evidentiary
+
+material;
+
+. Subject to applicable laws and regulations, provide copies of
+
+documents within Respondentâs possession, custody or control;
+
+. Subject to applicable laws and regulations, Respondent will make
+
+its best efforts to produce any current (as of the time of the request)
+officer, director, employee, or agent of Respondent, regardless of
+the individualâs location, and at such location that minimizes
+Commission travel expenditures, to provide assistance at any trial,
+proceeding, or Commission investigation related to the subject
+matter of this proceeding, including, but not limited to, requests for
+testimony, depositions, and/or interviews, and to encourage them
+to testify completely and truthfully in any such proceeding, trial, or
+investigation; and
+
+. Subject to applicable laws and regulations, Respondent will make
+
+its best efforts to assist in locating and contacting any prior (as of
+the time of the request) officer, director, employee, or agent of
+Respondent.
+
+3. Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission of partial payment of Respondentâs CMP Obligation shall not be
+deemed a waiver of its obligation to make further payments pursuant to this
+Order, or a waiver of the Commissionâs right to seek to compel payment of any
+remaining balance.
+
+4. Change of Address/Phone: Until such time as Respondent satisfies in full its
+
+ 
+
+CMP Obligation as set forth in this Consent Order, Respondent shall provide
+written notice to the Commission by certified mail of any change to its telephone
+number and mailing address within ten (10) calendar days of the change.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+Dated: August 7, 2017
+
+ 
+
+Seth Wo $edire
+
+Robert N. Sidman
+Deputy Secretary of the Commission
+Commodity Futures Trading Commission
+
+ 

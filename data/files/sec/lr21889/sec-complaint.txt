@@ -1,0 +1,352 @@
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ 
+
+U.S. SECURITIES AND EXCHANGE COMMISSION, :
+100 F Street, NE :
+
+Washington, D.C. 20549 Case: 1:11-cv-00563
+
+Assigned To : Leon, Richard J.
+
+eae Assign. Date : 3/18/2011
+7 "Description: General Civil
+INTERNATIONAL BUSINESS MACHINES : COMPLAINT
+CORPORATION :
+Defendant.
+
+ 
+
+Plaintiff, Securities and Exchange Commission (âCommissionâ), alleges:
+SUMMARY
+
+I. During the period from 1998 through 2009, in violation of the Foreign Corrupt
+Practices Act of 1977 (âFCPAâ), employees of certain of International Business Machines
+Corporationâs (âIBMâ or the âCompanyâ) subsidiaries and a majority-owned joint venture
+provided cash payments, improper gifts, as well as improper travel and entertainment to
+government officials in South Korea and China.
+
+2. From 1998 to 2003, employees of IBM Korea, Inc. (âIBM-Koreaâ), an IBM
+subsidiary, and LG IBM PC Co., Ltd. (âLG-IBMâ), a joint venture in which IBM held a majonity
+interest, made payments to various government officials in South Korea. The purpose of these
+payments was to secure the sale of IBM products through IBM-Korea and LG-IBMâs business
+partners. During the relevant period, these managers paid approximately KRW 216,832,500
+(South Korean Won), or $207,000, in cash bribes to South KorÃ©an government officials,
+
+including providing improper gifts and payments of travel and entertainment expenses.
+3: From at least 2004 to early 2009, employees of IBM (China) Investment
+Company Limited and IBM Global Services (China) Co., Ltd. (collectively, âIBM-Chinaâ), both
+wholly-owned IBM subsidiaries, engaged in a widespread practice of providing overseas trips,
+entertainment, and improper gifts to Chinese government officials. The misconduct in China
+involved several key IBM-China employees and more than 100 IBM China employees overall.
+
+4. Despite its extensive international operations, IBM lacked sufficient internal
+controls designed to prevent or detect these violations of the FCPA. During the period 1998 to
+2009, IBM had corporate policies prohibiting bribery and procedures relating to compliance with
+the FCPA; however, deficient internal controls allowed employees of IBMâs subsidiaries and
+joint venture to use local business partners and travel agencies as conduits for bribes or other
+improper payments to South Korean and Chinese government officials over long periods of time.
+
+5. During the period 1998 to 2009, IBM failed to make and keep books and records
+that accurately reflected the improper payments made in South Korea and China. Instead, these
+payments were recorded as legitimate business expenses.
+
+6. By its conduct, defendant IBM violated Sections 13(b)(2)(A) and 13(b)(2)(B) of
+the Exchange Act [15 U.S.C. Â§Â§ 78m(b)(2)(A) and 78m(b)(2)(B)] by failing to maintain an
+adequate internal control system to detect and prevent improper payments and by improperly
+recording these payments in its books and records. Unless restrained and enjoined by the Court,
+defendant IBM will continue to engage in acts and practices that constitute, or will constitute,
+violations of these provisions.
+
+JURISDICTION AND VENUE
+7. This Court has jurisdiction over this action pursuant to Sections 21(d), 21(e) and
+
+27 of the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e) and 78aaJ.
+8. Venue in the District of Columbia is proper pursuant to Section 27 of the
+Exchange Act [15 U.S.C. Â§ 78aa]}.
+
+9. In connection with the conduct described herein, IBM, directly or indirectly, made
+use of the mails or the means or instrumentalities of interstate commerce in connection with the
+acts, transactions, practices and courses of business alleged in this Complaint.
+
+DEFENDANT
+
+10. | IBMis a New York corporation based in Armonk, New York. IBM develops and
+manufactures information technology products and services worldwide. Its common stock is
+registered with the Commission pursuant to Section 12(b) of the Exchange Act and is listed on the
+New York Stock Exchange (NYSE: IBM).
+
+OTHER RELEVANT ENTITIES
+
+11. IBM-Korea is a South Korean corporation wholly-owned indirectly by IBM
+International Group B.V., which, in turn, is wholly-owned by IBM. IBM-Korea sells IBM
+products in South Korea.
+
+12. LG-IBM was a South Korean joint venture formed in 1996 by IBM-Korea and
+LG Electronics Inc. (âLGâ) to sell personal computers in South Korea. IBM-Korea owned 51%
+of LG-IBM and LG owned the remaining 49% of the joint venture.
+
+13. IBM-China is a company used by IBM for direct sales to IBMâs customers in
+China. IBM-China is owned by IBM China/Hong Kong Limited, a Hong Kong company that is
+ultimately owned by IBM.
+
+FACTS
+A. Payments To Government Officials Of South Korea
+14. From 1998 through 2002, IBM-Korea and LG-IBM employees made improper
+
+cash payments to South Korean government officials. IBM-Korea and LG-IBM employees paid
+a total of approximately $135,558 and $71,599 in cash bribes, respectively. LG-IBM also
+provided free personal computers to, and paid for the entertainment expenses of, these officials.
+The foreign government officials involved worked for sixteen South Korean government entities
+(âSKGEâ).
+IBM-Korea Paid Bribes To Government Officials Of SKGE 1
+
+15. In mid-December 1998, IBM-Koreaâs Territory Manager for the Public Sector
+(âTerritory Managerâ) met the Chief of Operations for the Electronic Operations Division of
+SKGE 1 (âSKGE 1 Operations Chiefâ) and gave him a shopping bag containing a large IBM-
+Korea envelope filled with KRW 20 million ($19,093). The Territory Manager paid similar
+bribes to the SKGE 1 Operations Chief at the same time and location between 1999 and 2001. In
+total, the Territory Manager made payments totaling KRW 80 million ($76,372) to the SKGE 1
+Operations Chief in exchange for designating IBM-Korea a preferred supplier of mainframe
+computers to SKGE 1 and for placing orders with IBM-Korea at higher prices.
+
+16. | IBM-Koreaâs Cluster Manager for the Public Sector (âCluster Managerâ) also
+paid several bribes to an employee of SKGE 1 (âSKGE 1 Officialâ). Between December 2000
+and September 2002, the Cluster Manager delivered a total of KRW 22 million ($21,000) in cash
+to the SKGE 1 Official, who was responsible for purchasing mainframe computers for SKGE 1.
+Each time, the Cluster Manager placed the cash in large IBM-Korea envelopes and handed them
+to the SKGE 1 Official at parking lots near the latterâs office and apartment complex. These
+cash payments were made in exchange for (1) maintaining IBM-Korea as the supplier of
+mainframe computers to SKGE 1; and (2) for helping an IBM-Korea business partner win bids to
+supply mainframe computers and storage equipment to SKGE 1 worth more than KRW 22
+
+billion ($21 million).
+IBM-Korea Paid Bribes To A Government Official Of SKGE 2
+
+17. In 2002, the IBM-Korea Cluster Manager made two payments totaling KRW 40
+million ($38,186) to a manager of the government-controlled SKGE 2. In each case, the Cluster
+Manager handed a shopping bag containing KRW 20 million ($19,093) in cash to SKGE 2âs
+Manager of Information Business (âSKGE 2 Managerâ) first at a parking lot of a Japanese
+restaurant and then later at a parking lot behind the SKGE 2 Managerâs apartment. The payment
+was made in exchange for the SKGE 2 Managerâs assistance to IBM-Korea in obtaining a
+contract with SKGE 2 worth approximately KRW 13.7 billion ($13 million) for the installation
+of a mainframe computer in 2002.
+
+LG-IBM Paid A Bribe And Gave Improper Gifts To Government Officials Of SKGE 3
+
+18. In September 2000, LG-IBM sold 1,596 personal computers to SKGE 3 for
+approximately KRW 1.4 billion ($1.3 million). LG-IBM was required at the time to participate
+in a benchmarking test to qualify for SKGE 3âs personal computer supply contract. During the
+test, certain problems were detected in LG-IBMâs computers. Because of these problems, LG-
+IBMâs Manager of Special Sales (âSpecial Sales Managerâ) contacted SKGE 3âs Director of
+Planning (âSKGE 3 Officialâ) to ask for help in winning SKGE 3âs personal computer supply
+contract. LG-IBM later won the contract.
+
+19. The Special Sales Manager directed one of LG-IBMâs business partners to
+âexpress his gratitudeâ to the SKGE 3 Official by providing KRW 15 million ($14,320) to the
+SKGE 3 Official. In turn, the LG-IBM business partner was âadequately compensated by
+generous installation feesâ paid by LG-IBM. This transaction was not accurately recorded in
+LG-IBMâs books and records.
+
+20. LG-IBM also provided free notebook computers to SKGE 3 employees to entice
+
+them to purchase IBM products.
+LG-IBM Paid A Bribe To A Government Official Of SKGE 4
+
+21. | SKGE 4 was a state-owned agency of the South Korean government. In late
+October or early November 2001, an employee of LG-IBMâs Public Sector Sales (âPublic Sector
+Sales Employeeâ) made an improper payment of KRW 10 million ($9,546) to an employee of
+SKGE 4 responsible for reviewing personal computer procurement bids (âSKGE 4 Managerâ).
+The purpose of the bribe was to win a contract to supply 657 (later increased to 825) personal
+computers valued at KRW 1,448,700,000 ($1,383,007).
+
+22. At the time, SKGE 4 was soliciting bids to supply personal computers to the
+agency. The Public Sector Sales Employee contacted the SKGE 4 Manager to ask for SKGE 4âs
+internal target price. The SKGE 4 Manager declined to provide that information but told the
+Public Sector Sales Employee, âYou have to win the contract, then I can bey you.â The Public
+Sector Sales Employee understood this statement to mean that he should submit a low bid and
+the SKGE 4 Manager would help him make up the difference between LG-IBMâs bid and SKGE
+4âs internal target price after LG-IBM won the contract.
+
+23. After LG-IBM won the contract, the SKGE 4 Manager took the Public Sector
+Sales Employee to the SKGE 4 Managerâs office where they replaced LG-IBMâs winning bid
+sheet with a new bid sheet. The new bid sheet showed a price that was KRW 30 million
+($28,640) higher than LG-IBMâs original bid. The new, higher price was closer to SKGE 4âs
+internal target price.
+
+24. The Public Sector Sales Employee then contacted LG-IBMâs business partner
+who was to install the computers and directed the companyâs president to make a payment to the
+SKGE 4 Manager. The LG-IBM business partner overbilled LG-IBM for the installation cost
+
+and used the extra money to pay the SKGE 4 Manager. On or about December 29, 2001, the
+president of LG-IBMâs business partner caused approximately KRW 15 million ($14,320) in
+cash to be delivered to the SKGE 4 Manager.
+
+25. In February 2002, after the installation was completed, LG-IBM made two
+separate payments to the LG-IBM business partner. The first payment was KRW 24,600,000
+($23,485), which was designated as a payment for installation services. The second payment of
+KRW 15,330,000 ($14,635) was the reimbursement for the payment to the SKGE 4 Manager.
+
+LG-IBM Paid A Bribe To A Government Official Of SKGE 5
+And Improperly Paid For Entertainment Expenses
+
+26. In August 2002, LG-IBMâs manager of Direct Sales (âDirect Sales Managerâ)
+and Special Sales Manager provided dinner and entertainment to a South Korean government
+official, who was the Director of SKGE 5âs information technology department (âSKGE 5
+Officialâ) and responsible for procurement decisions, and his subordinate. After the meal and a
+few drinks, the Special Sales Manager gave KRW 20 million ($19,093) cash to the SKGE 5
+Official. The Special Sales Manager later told the Direct Sales Manager, âI have done my part.â
+The payment of KRW 20 million ($19,093) was made to the SKGE 5 Official in exchange for
+providing LG-IBM with certain confidential information regarding the product specifications on
+SKGE 5âs request for procurement. The funds used to bribe the SKGE 5 Official was provided
+by LG-IBMâs business partner, a company that received an overpayment from LG-IBM for
+installation services. LG-IBM entered into a contract with SKGE 5 to supply 1,790 personal
+computers and 1,790 Local Area Network (LAN) cards for a total contract price of
+approximately KRW 1.74 billion ($1.7 million).
+
+LG-IBM Provided Gifts And Improperly Paid For Travel And Entertainment Expenses
+For Government Officials Of SKGE 6
+
+27. In 2001, LG-IBM sold 1,550 personal computers and other equipment to SKGE 6
+
+for a contract value of KRW 16 billion ($15.3 million). KRW 40 million ($38,186) was paid to
+
+7
+an LG-IBM business partner for software services, even though the LG-IBM business partner did
+not provide any software services. Instead, the LG-IBM business partner returned KRW 34
+million ($32,458) to the LG-IBM Direct Sales Manager and the funds were deposited in his own
+personal bank account and used to fund improper gifts for, and entertainment of, government
+officials. The LG-IBM business partner retained the difference of KRW 6 million ($5,728).
+
+28. During the period 2001 through 2003, the Direct Sales Manager entertained and
+provided gifts to employees of SKGE 6. These included payments to the bank account of a
+âhostess in a drink shop,â as well as on travel and entertainment expenses for employees of
+SKGE 6. The purpose of these improper payments was to persuade employees of SKGE 6 to
+purchase IBM products.
+
+29. The Direct Sales Manager also generated money for entertainment expenses by
+selling laptop computers that were billed to the government customer. The value of the laptop
+computers was added to orders placed by SKGE 6, and the transactions recorded as if the laptops
+were provided to the customer.
+
+30. | LG-IBM also provided free computers to certain key decision makers at SKGE 6
+to entice them to purchase IBM products.
+
+LG-IBM Gave Improper Gifts To Officials Of Other South Korean Government Entities
+
+31. | LG-IBM also provided free computers and computer equipment to key decision
+makers at ten other SKGEs to entice them to purchase IBM products or to provide information to
+assist LG-IBM in the bidding process.
+
+B. Payments to Government Officials Of China
+
+32. From at least 2004 to earlyâ 2009, IBM-China employees created slush funds at
+
+local travel agencies in China that were then used to pay for overseas and other travel expenses
+
+incurred by Chinese government officials. In addition, IBM-China employees created slush
+funds at its business partners to provide a cash payment and improper gifts, such as cameras and
+laptop computers, to Chinese government officials. IBM failed to record accurately these
+payments in its books and records.
+
+IBM-China Employees Created Slush Funds To Pay For Travel And Entertainment Expenses
+* Of Chinese Government Officials
+
+33. As part of its business, IBM-China entered into contractual agreements with its
+government-owned or controlled customers in China for hardware, software, and other services.
+These contracts contained provisions requiring IBM-China to provide training to the employees
+of these customers given the high-tech nature of IBMâs products and services. In some cases,
+IBM held this training offsite and required the customers to travel. In advance of any training
+trips, IBM-China employees were required to submit a Delegation Trip Request (âDTRâ)
+detailing the business purpose of the trip, all planned sightseeing or entertainment activities, and
+anticipated expenses. The DTRs required approval by IBM-China managers. IBM-Chinaâs
+policies required customers to pay for side-trips and stopovers unrelated to the training.
+
+34. Between 2004 and 2009, IBMâs internal controls failed to detect at least 114
+instances in which (1) IBM-China employees and its local travel agency worked together to
+create fake invoices to match approved DTRs; (2) trips were not connected to any DTRs; (3)
+trips involved unapproved sightseeing itineraries for Chinese government employees; (4) trips
+had little or no business content; (5) trips involved one or more deviations from the approved
+DTR; and (6) trips where per diem payments and gifts were provided to Chinese government
+officials. Moreover, IBM-China personnel also used its official travel agency in China to funnel
+money that was approved for legitimate business trips to fund unapproved trips. IBM-China
+personnel utilized the companyâs procurement process to designate its preferred travel agents as
+
+âauthorized training providers.â IBM-China personnel then submitted fraudulent purchase
+requests for âtraining servicesâ from these âauthorized training providersâ and caused IBM-
+China to pay these vendors. The money paid to these vendors was used to pay for unapproved
+trips by Chinese government employees.
+
+35. | The misconduct in China involved two key IBM-China managers, who planned
+customer trips, and more than 100 IBM-China employees.
+
+CLAIMS FOR RELIEF
+FIRST CLAIM
+Violations of Section 13(b)(2)(A) of the Exchange Act
+
+36. Paragraphs 1 through 35 are re-alleged and incorporated by reference.
+
+37. As detailed above, IBM failed to make and keep books, records, and accounts,
+which, in reasonable detail, accurately and fairly reflected IBMâs transactions and the disposition
+of its assets.
+
+38. By reason of the foregoing, IBM violated, and unless enjoined will continue to
+violate, Section 13(b)(2)(A) [15 U.S.C. Â§ 78m(b)(2)(A)] of the Exchange Act.
+
+SECOND CLAIM
+Violations of Section 13(b)(2)(B) of the Exchange Act
+
+39. Paragraphs 1 through 35 are re-alleged and incorporated by reference.
+
+40. As detailed above, IBM failed to devise and maintain a system of internal
+accounting controls sufficient to provide reasonable assurances, among other things, that: (i)
+transactions were executed in accordance with managementâs general or specific authorization;
+and (ii) transactions were recorded as necessary (I) to permit preparation of financial statements
+in conformity with generally accepted accounting principles or any other criteria applicable to
+
+such statements, and (II) to maintain accountability for its assets.
+
+10
+4]. By reason of the foregoing, IBM violated, and unless enjoined will continue to
+
+violate, Section 13(b)(2)(B) [15 U.S.C. Â§ 78m(b)(2)(B)] of the Exchange Act.
+PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court enter a judgment:
+
+A. Permanently restraining and enjoining Defendant IBM from violating Sections
+13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78m(b)(2)(A) and
+78m(b)(2)(B)J;
+
+B. Ordering IBM to disgorge ill-gotten gains wrongfully obtained as a result of its
+illegal conduct; and
+
+C. Granting such further relief as the Court may deem just and appropriate.
+
+ae AE AE ae
+
+Dated: March 18, 2011 Respectfully Submitted,
+
+ 
+
+Frederick L. Block (DC Bar No. 492358)
+Cheryl J.Scarboro (DC Bar No. 422175)
+Charles E. Cain
+
+Christine E. Neal
+
+Paul A. Gumagay (DC Bar No. 489813)
+
+Attormeys for Plaintiff
+
+U.S. Securities and Exchange Commission
+100 F Street, N.E.
+
+Washington, DC 20549
+
+(202) 551-4919 (Block) â Phone
+
+(202) 772-9245 (Block) â Fax
+
+1]

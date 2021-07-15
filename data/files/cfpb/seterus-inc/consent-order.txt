@@ -1,0 +1,1498 @@
+2020-BCFP-0024 Documentâ Filed 12/18/2020 Page 1 of 45
+
+UNITED STATES OF AMERICA
+BUREAU OF CONSUMER FINANCIAL PROTECTION
+
+ADMINISTRATIVE PROCEEDING File
+No. 2020-BCFP-0024
+
+ 
+
+In the Matter of: CONSENT ORDER
+
+Seterus, Inc. and
+Kyanite Services, Inc., as the
+successor in interest to Seterus, Inc.
+
+ 
+
+ 
+
+The Bureau of Consumer Financial Protection (Bureau) has reviewed the
+servicing practices of Seterus, Inc. (Seterus) relating to loss mitigation applications
+and has identified the following law violations. First, Seterus has committed unfair
+acts or practices by failing to accurately review, process, track, and communicate
+to borrowers information regarding their applications for loss mitigation options.
+Second, Seterus has committed deceptive acts or practices by sending loss
+mitigation application acknowledgment notices that misrepresented the status of
+borrower application documents as received or missing and provided inaccurate
+due dates for submission of borrower application documents. Third, Seterus has
+violated the provisions relating to loss mitigation procedures in Regulation X, 12
+
+C.F.R. Â§ 1024.41, the implementing regulation of the 2013 Real Estate Settlement
+ANN PAR PEP ON ~~ C4 wens I AA wy ~ cose
+SOOO REE IAA Maciimant 4 Ribas TO RPA Dana Gat AS
+oh. A Pe OA hk AGEiter gh of PRAGA fay bP eke PoC a war Sa
+
+Procedures Act (RESPA), 12 U.S.C. Â§ 2601, et seg., by (1) sending
+acknowledgment notices that failed to state the additional documents and
+information borrowers needed to submit to complete their loss mitigation
+applications; (2) failing to provide areasonable due date for submission of
+borrower documents; (3) failing to exercise reasonable diligence in obtaining
+documents and information necessary to complete borrowersâ loss mitigation
+applications; (4) failing to properly evaluate borrowers who submitted complete
+loss mitigation applications for all loss mitigation options available to the
+borrower; and (5) failing to treat certain applications as âfacially completeâ when
+required under Regulation X. Fourth, because Regulation X is a Federal consumer
+financial law, Seterusâs violations of Regulation X also constitute violations of the
+Consumer Financial Protection Act of 2010 (CFPA), 12 U.S.C. Â§ 5536(a)(1 (A).
+Under Â§Â§ 1053 and 1055 of the CFPA, 12 U.S.C. Â§Â§ 5563, 5565, the Bureau issues
+this Consent Order (Consent Order) against Seterus and Kyanite Services, Inc., as
+
+the successor in interest to Seterus.
+Jurisdiction
+
+The Bureau has jurisdiction over this matter under Â§Â§ 1053 and 1055 of the
+CFPA, 12 U.S.C. Â§Â§ 5563, 5565 and under RESPA, 12 U.S.C. Â§ 2601, et seq.,
+
+and its implementing regulation, Regulation X, 12 C.F.R. Part 1024.
+
+I.
+Stipulation
+
+Respondent, as defined below, has executed a âStipulation and Consent to the
+Issuance of a Consent Order,â dated December 10, 2020 (Stipulation), which
+is incorporated by reference and is accepted by the Bureau. By this
+Stipulation, Respondent has consented to the issuance of this Consent Order
+by the Bureau under Â§Â§ 1053 and 1055 of the CFPA, 12 U.S.C. Â§$Â§ 5563,
+5565, without admitting or denying any of the findings of fact or conclusions
+of law, except that Respondent admits the facts necessary to establish the
+
+Bureauâs jurisdiction over Respondent andthe subject matter of this action.
+
+Ul.
+
+Definitions
+
+The following definitions apply to this Consent Order:
+AAA Pe PePer A mo â eee ee Petr a A PP PA ee a a ae
+SHORE EAA Macument 4 Filed Te fa 8 feoeg Rar A of 45
+he LP I NE Fe Rat A Aghiter dh of PRENSA bay dk aoa ee Po Geka wwe 2
+
+âAcknowledgment Noticeâ means any notice sent to a borrower seeking
+loss mitigation that acknowledges receipt of the borrowerâs loss
+mitigation application materials, indicates that the servicer has
+determined that the loss mitigation application is either com plete or
+incomplete, and ifthe application is incomplete, purports to inform the
+borrower of the additional documents or information the borrower must
+submit to make the loss mitigation application complete and a date by
+which the borrower should submit the documents and information
+necessary to makethe loss mitigation application complete.
+âAcknowledgment Noticeâ includes â(b)(2) Noticesâ as well as any
+other notices meeting this definition of âAcknowledgment Noticeâ sent
+to the borrower, whether or not the notice was required by 12 C.F.R. Â§
+1024.41(b)(2).
+
+âAffected Consumerâ means a borrower (1) whose mortgage loan was
+secured by a property that was the borrowerâs principal residence, (11)
+whose mortgage loan was serviced by Seterus, (111) who submitted a
+Loss Mitigation Document to Seterus between January 10, 2014 and
+April 30, 2018, and (iv) to whom Seterus thereafter sent one or more
+
+Defective Acknowledgment Notices, with the following limitations:
+AAA PrP AANA my ak ett A IN mom et ae
+SHORE EAA Macument 4 Filed Te fa 8 feoeg Pane oat fs
+he LP I NE Fe Rat A Aghiter dh of PRENSA bay dk aoa ee roe wer oad ME -
+
+il.
+
+The term âAffected Consumerâ does not include any borrower for
+whom (1) the last Acknowledgment Notice sent to the borrower
+was accurate; (2) the last Acknowledgment Notice sent to the
+borrower provided at least 30 days to return documents; and (3) the
+foreclosure sale of the borrowerâs property occurred more than 30
+days after the due dateto return documents identified in the last
+Acknowledgment Notice sent to the borrower; and
+
+The term âAffected Consumerâ does not include any borrower
+whose loans were paid in full before or within 30 days of the date
+Seterus sent the first Defective Acknowledgment Notice to the
+
+borrower.
+
+ââ(b)(2) Noticeâ means the written notice a servicer is required to send
+
+to borrowers seeking loss mitigation pursuant to 12 C.F.R. Â§
+
+1024.41(b)(2).
+
+âBoardâ means Respondentâs duly-elected and acting Board of
+
+Directors or equivalent delegated person or entity vested with
+
+equivalent authority.
+
+âDefective Acknowledgment Noticeâ means:
+
+1.
+
+an Acknowledgment Notice sent between January 10, 2014 and
+
+January 5, 2015;
+AAAA Peer AAR A
+PAPAL REE EAA A
+whe ke BT Bae
+
+il.
+
+lil.
+
+an Acknowledgment Noticethat requested any document, which
+
+was sent between January 6, 2015 and January 31, 2016, to any
+
+borrower seeking a liquidation option; and
+
+an Acknowledgment Notice sent between January 6, 2015 and
+
+April 30, 2018 that contained one or more of the following defects:
+
+A. the due date for required documents to be returned was
+
+incorrect for at least one of the following reasons:
+
+1.
+
+the due date fell on, or after, the actual foreclosure sale
+date;
+
+the Acknowledgment Notice inaccurately provided 30
+days to return documents;
+
+the due date fell before the Acknowledgment Notice
+letter date;
+
+the due date was the same day as the Acknowledgment
+Notice letter date;
+
+the due date was different from the due date indicated in
+another substantively identical Acknowledgment Notice
+sent on the same day;
+
+the Acknowledgment Notice required a due date but did
+
+not contain a due date; or
+AAA PrP AANA my ak ett A IN mo et ae
+SHORE EAA Macument 7 Filed Te fa 8 feoeg Dane - af As
+he LP I NE Fe Rat A Aghiter dh of PRENSA bay dk aoa ee Po CAMS FASE ri
+
+B. the Acknowledgment Notice was sent on or after an actual
+foreclosure sale date.
+
+f. âEffective Dateâ means the date on which the Consent Order is entered
+on the administrative docket.
+
+g. âEnforcement Directorâ means the Assistant Director of the Office of
+Enforcement for the Bureau of Consumer Financial Protection, or his or
+her delegate.
+
+h. âForeclosed Group | Borrowerâ means any Affected Consumer whose
+property was sold at foreclosure within 90 days of the date that Seterus
+sent the last Defective Acknowledgment Notice to the borrower, with
+the following limitations:
+
+1. Foreclosed Group 1 Borrower does not include any borrower who
+received a loss mitigation offer, based on a full loss mitigation
+review, between the date Seterus sent the last Defective
+Acknowledgment Noticeto the borrower andthe date ofthe
+foreclosure sale; and
+
+iil. Foreclosed Group | Borrower does not include any borrower who
+received a loss mitigation dental, for a reason other than failure to
+
+submit required documents, between the date Seterus sent the last
+AANA RIES ARM A oy 4 mo AA AIA a
+DOPORGER.O004 Macoument 1 Bila POPRiegeg Pane & at &5
+ae We Pe Che Cea) Rath. Aghatar dl of PoREA A er da ea bo CAMS Le Ase ri
+
+Defective Acknowledgment Notice to the borrower and the date of
+the foreclosure sale.
+âForeclosed Group 2 Borrowerâ means any Affected Consumer who
+(1) submitted his or her documents by the latest date specified in the
+Defective Acknowledgment Notice(s) sent to the borrower, and (11) was
+approved for a loan modification, but for whom (a) a foreclosure sale
+took place prior to the expiration date by which the borrower was
+required to accept, decline, or appeal the modification decision and (b)
+the foreclosure sale was not rescinded.
+âLoss Mitigation Documentâ means any oneof the following
+documents: bank statement; profit and loss statement; pay stub;
+estimated HUD-1; sales contract; listing agreement; MLS listing
+history; hardship letter; award letter; signed credit report authorization;
+signed IRS Form 4506T-EZ; IRS Form 4506T; invalid 4506T; and
+Uniform Borrower Assistance Form.
+âââNon-Foreclosed Borrowerâ means any Affected Consumer whose
+property was not sold at foreclosure within 90 days of the date Seterus
+sent the last Defective Acknowledgment Notice to the borrower, with
+
+the following limitations:
+ARAA Pr ARTA my ak ett A IN a
+SHORE EAA Macument 4 Bila POPRiegeg Pane Goafas
+he LP I NE Fe Rat A Aghiter dh of PRENSA bay dk aoa ee PO CAMS af AE 2
+
+i. Non-Foreclosed Borrower does not include any borrower who
+received a loss mitigation offer, based on a full loss mitigation
+review, within 120 days ofthe date Seterus sent the first Defective
+Acknowledgment Noticeto the borrower;
+
+iit. | Non-Foreclosed Borrower does not include any borrower who
+received a loss mitigation denial, for a reason other than failure to
+submit required documents, within 120 days of the date Seterus
+sent the first Defective Acknowledgment Notice to the borrower;
+
+âPurchaserâ means Nationstar Mortgage LLC, doing business as Mr.
+
+Cooper.
+
+âRelated Consumer Actionâ meansa private action by or on behalf of
+
+one or more consumers or an enforcement action by another
+
+governmental agency brought against Respondent based on
+substantially the same facts as described in Section IV of this Consent
+
+Order.
+
+âRelevant Periodâ includes the period from January 10, 2014 to April
+
+30, 2018.
+
+âRespondentâ means Seterus, Inc., as it existed until February 28, 2019
+
+and thereafter refers to Kyanite Services, Inc. (Kyanite), as the
+AA PEE A A Py . oA pay ee re ee ax Agr ~ a
+SOO Dee m AWA Pree ey ceed of Wiad 4Â°94 6 FS OO Brees, AM af AR
+ee eh fae ore bead rd POSMOUCE UY TUES: of PREG OG ee Aa et eee Pe edi es Pi Fer gay
+on at ot Pt RPA TAS Pd S oPPeka of as Pa ee! 5 Rage RA A
+
+successor in interest to Seterus, and Kyaniteâs successors and assigns.
+Respondent does not include Purchaser.
+
+p. âTriggering Documentâ means a document the receipt of which
+triggered Seterusâs internal systems to initiate the automated
+
+Acknowledgment Notice process.
+
+IV.
+Bureau Findings and Conclusions
+
+The Bureau finds the following:
+
+During the Relevant Period, Seterus was a wholly-owned subsidiary of
+Kyanite. Seterus maintained its principal place of business in Raleigh, North
+Carolina.
+
+As of February 28, 2019, Seterus was sold, including all rights and certain
+liabilities, to Purchaser.
+
+At its height, Seterus serviced approximately 500,000 residential mortgage
+loans. Respondent has represented that it is no longer engaged in servicing
+mortgage loans.
+
+At all times during the Relevant Period, Respondent was a âcovered person,â
+as that term is defined by 12 U.S.C. Â§ 5481(6), because as a residential
+
+mortgage servicer, it offered or provided a consumer financial product or
+
+service. 12 U.S.C. Â§ 5481(15)(A)(i).
+10.
+
+Regulation X requires, among other things, that a mortgage servicer that
+offers loss mitigation options implement processes that: (1) inform borrowers
+of the documents and information they must provide to complete the
+application; (11) provide borrowers a reasonable dateto submit the documents
+and information necessary to complete the application; (111) evaluate complete
+applications received early enough in the foreclosure process for all
+alternatives to foreclosure available to the borrower; and (iv) provide certain
+foreclosure protections to borrowers who complete an application by certain
+points in the foreclosure process. 12 C.F.R. Â§ 1024.41.
+
+A servicer must provide a written notice to the borrower within five days of
+receipt ofa loss mitigation application acknowledging that the servicer has
+received the application and stating that the servicer has determined that the
+application is either complete or incomplete. 12 C.F.R. Â§ 1024.41(b)(2)(1)(B).
+If the application is incomplete, this (b)(2) Notice must also inform the
+borrower of the additional documents and information that the borrower must
+submit anda reasonable date by which they should be submitted to make the
+application complete. /d. at Â§$ 1024.41(b)(2)(1)(B), 1024.41(b)(2)(11).
+
+Once aservicer receives all the information it requires from the borrower to
+evaluatethe application, the application is âcomplete.â 12 C.F.R. Â§
+
+1024.41(b)(1).
+11.
+
+12.
+
+13.
+
+2020-BCFP-0024 Document1 Filed 12/18/2020 Page 12 of 45
+
+If a servicer receives a âcompleteâ application within certain specified time
+periods before a borrowerâs scheduled foreclosure sale, the servicer must
+evaluatethe borrower for all loss mitigation options available to the borrower
+and must provide the borrower with certain foreclosure protections. 12 C.F.R.
+Â§ 1024.41(c)(1)(G), (f(2), & (g).
+If the borrower has submitted all of the documents and information requested
+by the (b)(2) Notice, or the servicer does not seek additional documents in the
+(b)(2) Notice, the application is âfacially complete.â 12 C.F.R.
+Â§ 1024.41(c)(2)(iv). A borrower with a âfacially completeâ application is
+entitledto the same protections from foreclosure actions as a borrower witha
+âcompleteâ application, even iftheservicer later discovers it needs additional
+information or that the borrower must make corrections to a previously
+submitted document. /d.
+
+Seterus Failed to Accurately Review, Process, Track, and
+
+Communicate to Borrowers Information Regarding Their Applications
+for Loss Mitigation.
+
+ 
+
+ 
+
+ 
+
+As part of its efforts to comply with Regulation X, Seterus made the decision
+to issue Acknowledgment Notices in response to any document received from
+a consumer that may be in support of a loss mitigation application, in order to
+assist the consumer in the loss mitigation process. Seterus also automated its
+
+loss mitigation application and Acknowledgment Notice process, including its
+14.
+
+15.
+
+16.
+
+17.
+
+ARAN PAE AMA G ~ . 4 ots ae EA ~ ae eam
+2OOHO RED A A Mie issycinmt 4 Clan 4Â°39 74 SFA Rane Ta af AK
+SSP eM â RAP ASE EAD ERG Sys fale phere Ua PU SARIS ofa Ab Sh
+
+processes for tracking documents submitted by borrowers and populating and
+generating the Acknowledgment Notices.
+
+To facilitate that automation, and to try to meet the five-day requirement in 12
+C.F.R. 1024.41(b)(2)(1)(B), Seterus contracted with a third-party vendorto
+process all borrower documents submitted as part ofa loss mitigation
+application.
+
+Upon receipt ofa Triggering Document, the third-party vendor would
+electronically capture an image of the document and âbrandâ the imaged
+document by electronically tagging the document with the loan number, an
+index code corresponding to the document type, a unique identifier for that
+specific document, and the date the document was scanned directly on the
+document and then upload the scanned document to Seterusâs internal
+systems.
+
+After uploading a Triggering Document to Seterusâs internal systems, the
+third-party vendor would then electronically extract and validatethe data and
+text from the image of the Triggering Document and transmit that data to
+Seterusâs internal systems.
+
+Seterusâs personnel wrote code for various computer software to ensure that
+the third-party vendorâs computer system could communicate and share data
+
+with Seterusâs internal loss mitigation and mortgage servicing computer
+18.
+
+19.
+
+20.
+
+21.
+
+AAAA SOR ARN 8 PA ee, unk Py AN Ea SEE my . AA sam
+POSO.RCE EOS Pocument 7 Fidacd TDP Sfeoeg Pane dd of d&
+Ba Sf tn ST et BA AEN Pa POPS! fale ber cua : ghee ber Geb ras
+
+systems, andthat Seterusâs internal systems could communicate and share
+data with one another.
+
+Seterusâs Acknowledgment Notices provided consumers with a list of
+documents Seterus had received and their expiration dates (âDocuments we
+have receivedâ), anda list of documents Seterus still needed to evaluate the
+application (âDocuments still neededââ).
+
+Seterusâs Acknowledgment Notices also provided a date by which the
+borrower needed to retum any missing documents and informed the borrower
+that the due date provided was based on the earliest ofa set of milestones: (1)
+the date on which the documents expire; (2) the 120" day of delinquency; (3)
+90 days prior to the foreclosure sale date, if any; or (4) 38 days prior to the
+foreclosure sale date (ifthe application was made within 90 days of a
+foreclosure sale date).
+
+Seterus populated the fields in the Acknowledgment Notice that provided the
+âDocuments we have received,â âDocuments still needed,â and due dates for
+documents the borrower still needed to submit using the data its third-party
+vendor extracted from the documents submitted by the borrower.
+
+Seterusâs third-party vendor made numerous errors in branding, coding and
+extracting data from borrower documents, and Seterus used that inaccurate
+
+data to populate these fields in the Acknowledgment Notice.
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+ARAN SAP ANAS PA ee et emt ot Aa IY mo. ae oh ar
+POSO.RCE EOS Pocument 7 Pilad T3/TSseoeo Rane That ds
+than Sad an at Rad Nat BHAA Ed POPPA of ar be ee : ghe bar Geb ras
+
+Further, the coding on which Seterus relied to ensure its internal systems were
+communicating properly with each other and with the third-party vendorâs
+system was not always correct, which led to further such errors.
+
+As aresult of its relianceon this inaccurate data and coding and the faulty
+communication between various com puter systems, Seterus sent out
+thousands of Acknowledgment Notices that contained one or more errors.
+Certain Acknowledgment Notices inaccurately listed documents that Seterus
+had received as missing, inaccurately listed documents that had not been
+received as having been received, or both. This included Acknowledgment
+Notices that did not request additional documents even when required
+documents were missing and Acknowledgment Notices informing borrowers
+that their loss mitigation applications were âcompleteâ or âfacially completeâ
+when required documents were missing.
+
+Seterus also sent numerous Acknowledgment Notices that provided no due
+date; inaccurate due dates, such as dates that were the same date or prior to the
+date that the Acknowledgment Notice was sent; or unreasonable due dates,
+such as dates on or after the foreclosure sale date.
+
+Further, despite its express representations in the Acknowledgment Notices
+
+that the due date was not after the date when previously submitted documents
+27.
+
+28.
+
+29.
+
+AMAA PP ART A Pe ae Pre AON a Pe Soe AM BE A
+POO OSCE PLANS Pocument 7 Fidacd TDP Sfeoeg Pace TB of d&
+on at te PE RPA TAS Pd SOPRA be ber ee 5 Nag eB Lad OUT at
+
+would expire, Seterus sent Acknowledgment Notices that provided due dates
+that were after the date when previously submitted documents would expire.
+The unreasonable due dates in Seterusâs Acknowledgment Notices also
+rendered other statements in the Acknowledgment Notices inaccurate. For
+example, in certain instances Seterus sent Acknowledgment Notices that
+provided a due date that was just one or two days before the borrowerâs
+scheduled foreclosure sale date. Seterus represented that as long as the
+borrower provided the documents by the date indicated, he or she would be
+evaluated for loss mitigation, but that representation was not always correct
+when the due date was not sufficiently in advance of the scheduled foreclosure
+sale date.
+
+In other instances, the representation that the application would be evaluated if
+the missing documents were submitted by the due date was inaccurate because
+Seterus held foreclosure sales on the properties before the due date.
+Additionally, in an effort to better assist borrowers seeking loss mitigation,
+Seterus sent anew Acknowledgment Notice for each document a borrower
+sent in, even though these additional Acknowledgment Notices were not
+required by Regulation X. These additional Acknowledgment Notices usually
+
+provided a new due date, which resulted in some borrowers receiving multiple
+30.
+
+31.
+
+32.
+
+APA PSAP! ASA PN, nt A Pr BONE ES Nae AP ah ae
+POOL RE DIANA Paciiyent 4 Bian tOPSPomon Base TP af As
+Bn ad athe KP LP RSE BHAA Ed PoE! bea phar cue : aghe OF Fk Sapa
+
+Acknowledgment Notices with different due dates on the same day, or in
+quick succession, some of which were inaccurate.
+
+Seterus discovered the systemic errors in the data provided by its third-party
+vendor as early as the first quarter of 2014, and took steps to attempt to
+remedy the problems, but many of those attempts were either ineffective or
+compounded the problem. For example, in January 2015, Seterus instituted
+manual reviews in an attempt to correct the errors in its Acknowledgment
+Notices but continued to rely on incorrect data from its third-party vendor to
+populate its systems and to process and track the applications. Asa result,
+Seterus continued to send out Acknowledgment Notices with defects, albeit at
+a significantly lower defect rate.
+
+Further, in 2014, when Seterus first realized that some consumers had
+received inaccurate Acknowledgment Notices, Seterus issued âcorrectionâ
+Acknowledgment Notices. Because Seterus continued to rely on the
+inaccurate datafrom its vendor to generatethem, some âcorrectionâ
+Acknowledgment Notices contained the same errors as the original inaccurate
+Acknowledgment Notices.
+
+On September 4, 2014, Seterus andthe New Hampshire Banking Department
+entered into a settlement related to Seterusâs inaccurate Acknowledgment
+
+Notices.
+33.
+
+34.
+
+35.
+
+36.
+
+TN PENI IN AMA PA ee emt ot Aa IY mh... ao oh AD
+POOL RE DIANA Pinaciirpaent 4 Bian tOPSPomon Mane TR af Ad
+Ba SE BP ASLP PERG Gk og Ss oPINAS fale beer cole 3 Lage OP AL A ae
+
+On March 20, 2015, Seterus reported these issues to the Bureau.
+
+Seterus continued to send out inaccurate Acknowledgment Notices containing
+certain defects through April 2018, though the types and frequency of defects
+declined over time.
+
+Seterus took stepsto mitigate the harm caused by its inaccurate
+Acknowledgment Notices by offering streamlined loan modifications, which
+are modification offers made without requiring the borrower to submit any
+hardship or income documentation, and waiving or foregoing foreclosure
+deficiency judgments for certain borrowers who receiveda Defective
+Acknowledgment Notice.
+
+Seterusâs use of inaccurate data from its vendor, failureto provide accurate or
+complete information about what documents Seterus had received from
+consumers and what documents consumers still needed to submit to complete
+their loss mitigation applications, failure to provide due dates, and provision
+of incorrect or unreasonable due dates, delayed or deprived some borrowers of
+a reasonable opportunity to get their loss mitigation applications completed
+and evaluated, and resulted in some borrowers suffering improper foreclosure
+activity because they were either delayed in obtaining or unable to obtain a
+
+foreclosure hold.
+37.
+
+38.
+
+39.
+
+40).
+
+Al.
+
+2020-BCFP-0024 Document1 Filed 12/18/2020 Page 19 of 45
+
+Seterus Failed to Evaluate Borrowers Who Submitted Complete
+Loss Mitigation Applications for all Loss Mitigation Options Available
+to the Borrower.
+
+ 
+
+Seterusâs Loss Mitigation department was divided into two separate divisions
+â Retention and Liquidation.
+
+Seterusâs loss mitigation policies did not allow for a borrower to be reviewed
+simultaneously for both retention and liquidation options.
+
+Borrowers who failed to indicate a preference for either retention or
+liquidation, and borrowers who requested to be reviewed for both options at
+the same time, were told their applications could not be reviewed until they
+made their intention clear about whether or not they wanted to retain the
+property.
+
+If a borrower submitted a loss mitigation application that did not indicate a
+preference for either retention or liquidation, Seterus considered the document
+incomplete andthe borrower was required to resubmit the application with
+only one of the two review types selected.
+
+Borrowers who indicated a preference for retention were not reviewed for
+liquidation options unless they were denied a retention option and then
+subsequently requested a liquidation review, usually by submitting anew
+application form requesting consideration for liquidation options. If
+
+documents in their initial retention application had expired by thetime the
+42.
+
+43.
+
+44.
+
+45.
+
+46.
+
+2020-BCFP-0024 Document1 Filed 12/18/2020 Page 20 of 45
+
+borrower was denied a retention option, the borrower may have had to submit
+updated supporting documentation in addition to new documents that Seterus
+required only when evaluating a borrowerâs eligibility for a liquidation option.
+Borrowers who indicated a preference for a liquidation option were not
+reviewed for retention options unless they submitted a new loss mitigation
+application requesting areview for retention options.
+
+Seterus further divided its review of liquidation options between short sales
+and deeds in lieu of foreclosure, and did not permit borrowers to be reviewed
+simultaneously for both options.
+
+Seterus Did Not Treat Liquidation Applications as âFacially Complete.â
+
+Seterus did not treat loss mitigation applications seeking a liquidation option
+as âfacially completeâ even when those applications met the requirements of a
+âfacially completeâ application under Regulation X.
+Seterusâs Violations of the Consumer Financial Protection Act,
+12 U.S.C. Â§Â§ 5531 and 5536(a)(1)(B)
+The CFPA prohibits covered persons from engaging âin any unfair, deceptive,
+
+or abusive act or practice.â 12 U.S.C. Â§Â§ 5531, 5536(a)(1)(B).
+
+Unfair Acts and Practices
+
+ 
+
+An act or practice is unfair if it causes or is likely to cause consumers
+
+substantial injury that is not reasonably avoidable and ifthe substantial injury
+47.
+
+48.
+
+49.
+
+50.
+
+SI.
+
+ARAN RAPER AMAA PA ee et emt ot Aa IY mo oat eh aA
+POSO.RCE EOS Racument 4 Pilad T3/TSseoeo Pane 2 tof d&
+Ba Sf tn ST et BA AEN Pa POPS! fale ber cua : ghee ab Geb ras
+
+is not outweighed by countervailing benefits to consumers or to competition.
+12 U.S.C. Â§5531(c).
+
+As described in paragraphs 13 through 36, Seterusâs use of inaccurate data
+from its third-party vendor and inaccurate com puter coding delayed or
+deprived borrowers ofa reasonable opportunity to get their loss mitigation
+applications completed and evaluated.
+
+These acts or practices caused or were likely to cause substantial injury to
+borrowers in the form of additional interest, late fees, and negative credit
+reporting; failure to qualify for loss mitigation; and delayed protection from
+prohibited foreclosure activities or an inability to obtain such protection at all.
+These injuries were not reasonably avoidable by borrowers as borrowers could
+not modify their loans without the assistance of Seterus.
+
+These injuries were not outweighed by any countervailing benefits to
+consumers or competition. Neither borrowers nor competition realized a
+benefit from Seterusâs use of inaccurate data and coding to process, review,
+track, and communicate information regarding loss mitigation applications.
+Thus, during the Relevant Period, Seterus engaged in unfair acts and practices
+
+in violation of the CFPA. 12 U.S.C. Â§Â§ 5531(c)(1), 5536(a)(1)(B).
+52.
+
+53.
+
+54.
+
+2020-BCFP-0024 Document1 Filed 12/18/2020 Page 22 of 45
+
+Deceptive Acts and Practices
+
+ 
+
+An act or practice is deceptive if it involves a material representation or
+omission that misleads, or is likely to mislead, a consumer acting reasonably
+under the circumstances.
+
+As described in paragraphs 13 through 36, Seterus sent numerous
+Acknowledgment Notices during the Relevant Period that misrepresented,
+directly or indirectly, expressly or by implication, that: certain loss mitigation
+documents had been received; certain loss mitigation documents had not been
+received; the borrowerâs loss mitigation application was âcompleteâ or
+âfacially completeâ; that the due date for documents that had not been
+received was the date set forth in the Acknowledgment Notice, and/orthe
+borrowerâs application would be reviewed and evaluated for loss mitigation if
+the borrower submitted the missing documents by the due date set forth in the
+Acknowledgment Notice. It was reasonable for borrowers to believe that the
+information they received from their mortgage servicer regarding the status of
+their loss mitigation application, the documents they needed to submit, and
+due dates for those documents, was accurate.
+
+Thus, during the Relevant Period, Seterus engaged in deceptive acts and
+
+practices in violation of the CFPA. 12 U.S.C. Â§Â§ 5531(a), 5536(a)(1)(B).
+55.
+
+56.
+
+57.
+
+58.
+
+2020-BCFP-0024 Document1 Filed 12/18/2020 Page 23 of 45
+
+Seterusâs Violations of Regulation X, 12 C.F.R. Â§ 1024.41
+Violations of 12 C.F.R. Â§ 1024.41(b)(2)
+
+Regulation X requires a servicer to send a(b)(2) Notice within five days of
+receipt ofa loss mitigation application, which informs the borrower: (1) that
+the servicer has received the application; (2) that the servicer has determined
+that the application is either complete or incomplete; and (3) if the application
+is incomplete, what additional documents and information the borrower must
+submit to make the application complete and a reasonable date by which they
+should be submitted. 12 C.F.R. Â§Â§ 1024.41(b)(2)(i)(B), 1024.41(b)(2) (ii).
+As described in paragraphs 13 through 36, Seterus sent numerous purported
+(b)(2) Notices that failed to accurately or completely state the additional
+documents and information the borrower needed to submit to make their loss
+mitigation application complete.
+As described in paragraphs 13 through 36, Seterus sent numerous purported
+(b)(2) Notices that failed to provide a due date, and when due dates were
+provided, those due dates were often inaccurate or unreasonable.
+Thus, during the Relevant Period, Seterus violated 12 C.F.R. Â§Â§
+
+1024.41(b)(2)(i)(B), 1024.41 (b)(2)(ii).
+59.
+
+60.
+
+61.
+
+62.
+
+63.
+
+64.
+
+2020-BCFP-0024 Document1 Filed 12/18/2020 Page 24 of 45
+
+Violations of 12 C.F.R. Â§ 1024.41(b)(1)
+
+ 
+
+Regulation X requires servicers to exercise reasonable diligence in obtaining
+documents and information to complete a loss mitigation application. 12
+C.F.R. Â§ 1024.41(b)(1).
+
+As described in paragraphs 13 through 36, Seterus sent Acknowledgment
+Notices that failed to identify or incorrectly or incompletely identified the
+documents and information Seterus required from the borrower to complete
+their loss mitigation applications.
+
+By sending Acknowledgment Notices that failed to accurately and completely
+describe the information required to complete borrower applications, Seterus
+did not exercise reasonable diligence in obtaining documents and information
+necessary to complete the application.
+
+Thus, during the Relevant Period, Seterus violated 12 C.F.R. Â§ 1024.41(b)(1).
+
+Violations of 12 C.F.R. Â§ 1024.41(c)(1)()
+
+ 
+
+Regulation X requires a servicer to âevaluate the borrower for all loss
+mitigation options availableto the borrowerâ within 30 days, ifthe servicer
+receives a âcompleteâ loss mitigation application more than 37 days before a
+foreclosure sale. 12 C.F.R. Â§ 1024.41(c)(1).
+
+As described in paragraphs 37 through 43, Seterus bifurcated its loss
+
+mitigation review and would not review borrowers for both retention and
+65.
+
+66.
+
+67.
+
+68.
+
+69.
+
+2020-BCFP-0024 Document1 Filed 12/18/2020 Page 25 of 45
+
+liquidation options at the same time, nor would Seterus review borrowers
+seeking liquidation for all available liquidation options.
+Thus, during the Relevant Period, Seterus violated Â§ 12 C.F.R.
+1024.41(c)(1)(i).
+
+Violations of 12 C.F.R. Â§ 1024.41(c)(2)(v)
+Regulation X provides that loss mitigation applications shall be considered
+âfacially completeâ (1) when a borrower submits all the missing documents
+and information as stated in the (b)(2) Notice, or (2) when no additional
+documents or information are requested in the (b)(2) Notice. 12 C.F.R. Â§
+1024.41(c)(2)(iv).
+As described in paragraph 44, Seterus did not treat liquidation applications as
+facially complete even when those applications were facially complete as
+defined by 12 C.F.R. Â§ 1024.41(c)(2)(iv).
+By failing to treat borrowersâ liquidation applications as facially complete,
+Seterus deprived those borrowers of the protections and rights specified in 12
+C.F.R. Â§ 1024.41(d), (e), (f)(2), (g), & (h).
+Thus, during the Relevant Period, Seterus violated 12 C.F.R.
+
+Â§ 1024.41(c)(2)(iv).
+2020-BCFP-0024 Document1 Filed 12/18/2020 Page 26 of 45
+
+Seterusâs Violations of the Consumer Financial Protection Act,
+12 U.S.C. Â§ 5536(a)(1)(A)
+
+70. The CFPA provides that it is unlawful for any covered person âto offer or
+provide to a consumer any financial product or service not in conformity with
+Federal consumer financial law, or otherwise commit any act or omission in
+violation of a Federal consumer financial law.â 12 U.S.C. Â§ 5536(a)(1)(A).
+
+71. Theterm âFederal consumer financial lawâ includes any rule prescribed by
+the Bureau under an enumerated consumer law. 12 U.S.C. Â§ 5481(14).
+Regulation X is âFederal consumer financial lawâ because it is arule
+prescribed by the Bureau under RESPA, which is an âenumerated consumer
+law.â 12U.S.C. Â§5481(12)(M).
+
+72. Thus, Seterusâs violations of Regulation X described in paragraphs 13 through
+44 during the Relevant Period also constitute violations of the CFPA. 12
+U.S.C. Â§ 5536(a)(1)(A).
+
+ORDER
+
+V.
+
+Conduct Provisions
+
+IT IS ORDERED, under 88 1053 and 1055 ofthe CFPA, that:
+
+73. Respondent and its officers, agents, servants, employees, and attorneys who
+
+have actual notice of this Consent Order, whether acting directly or indirectly,
+74.
+
+AMAA AAPM ANAS PA ee emt ot Aa IY mo oy kar
+POOL RE DIANA Pinaciirpaent 4 Bian tOPSPomon Rane OF af Aw
+Sn 2 SP et BaP ASP ETA eR OT SPINA fe be ee 3 age 4. FW
+
+may not violate the loss mitigation procedures required by Regulation X, 12
+
+C.F.R. Â§ 1024.41.
+
+In the event that Respondent resumes mortgage servicing operations, whether
+
+the entity operates under the name Seterus or another name, Respondent will:
+
+a.
+
+implement policies and procedures that meet Respondentâs loss
+mitigation and foreclosure protection obligations under Regulation X,
+12 C.F.R. Â§ 1024.41;
+
+implement procedures to ensure that before a foreclosure action is taken
+it is permitted under Regulation X, 12 C.F.R. Â§ 1024.41, and implement
+testing to ensure foreclosure protections are properly being afforded to
+borrowers;
+
+implement processes and controls to oversee and monitor its vendors
+who provide services in connection with loss mitigation applications to
+ensure that Respondentâs use of those vendors does not result in
+violations of Regulation X, 12 C.F.R. Â§ 1024.41;
+
+implement policies and procedures to ensure borrowers are evaluated
+for all loss mitigation options available to the borrower based upon a
+
+single, timely, complete application;
+e. ensure that Acknowledgment Notices accurately state the documents
+and information required from borrowers to complete loss mitigation
+applications; and
+
+f. implement policies and procedures to ensurethat, once Respondent has
+received the information it requires from the borrower to evaluate the
+borrowerâs loss mitigation application for all loss mitigation options
+available to the borrower, it will provide the borrower with all
+protections required by Regulation X, 12 C.F.R. Â§ 1024.41.
+
+VI.
+Order to Pay Redress
+
+IT IS FURTHER ORDERED that:
+
+75. Within 10 days of the Effective Date, Respondent must reserve or deposit into
+a segregated deposit account $4,932,525, for the purpose of providing redress
+as required by this Section (Redress Fund). The Redress Fund will be the
+source from which Respondent will pay redress as follows:
+
+a. $1,880,025 from the Redress Fund will be distributed on a pro rata
+basis to the approximately 10,743 Non-Foreclosed Borrowers;
+b. $2,802,500 from the Redress Fund will be distributed on a pro rata
+
+basis to the approximately 1,121 Foreclosed Group | Borrowers; and
+AAA RRR ON ae cA puss SN at ro we = ~~
+SOO Dee m AWA Pree ey ceed of Wiad 4Â°94 6 FS OO Dean TO AF AR
+seb ek eae St Le bead rb ed Bora ch as aarty : Pe Peas Sos PAR et dee wee ea PES rk OE ge
+
+Ba Sf tn ST et BA AEN Pa POPS! fale ber cua : ghee ark Geb ras
+
+c. $250,000 from the Redress Fund will be distributed on a pro rata basis
+to the 2 Foreclosed Group 2 Borrowers.
+
+76. Within 45 days of the Effective Date, Respondent must submit to the
+Enforcement Director for review and non-objection a comprehensive written
+plan for providing redress consistent with this Consent Order (Redress Plan).
+The Enforcement Director will have the discretion to make a determination of
+non-objection to the Redress Plan or direct Respondentto revise it. Ifthe
+Enforcement Director directs Respondent to revise the Redress Plan,
+Respondent must make the revisions and resubmit the revised Redress Plan to
+the Enforcement Director within 30 days. After receiving notification that the
+Enforcement Director has made a determination of non-objection to the
+Redress Plan, Respondent must implement and adhere to the steps,
+recom mendations, deadlines, and timeframes outlined in the Redress Plan.
+
+77. The Redress Plan must:
+
+a. Specify how Respondent will identify the Affected Consumers entitled
+to redress for the purpose of providing redress under paragraph 75 of
+this Consent Order;
+
+b. Includethe form ofthe letter (Redress Notice) and envelopeto be sent
+notifying Affected Consumers whoare entitled to redress of their right
+
+to redress; the Redress Notice must include a statement that the
+ARAN PAE AMA G Py nt A ee AA IAA Soe ON hae
+SOOO EER AoA Miners t fF Pian TFA S Pea Bia RO At AR
+Sa tet BA AEN Pa POoEURSAS fae phe oo 5 ghee we Gab ras
+
+payment is made in accordance with the terms of this Consent Order;
+
+Respondent must not include in any envelope containing a Redress
+
+Notice any materials other than the approved Redress Notices and
+
+redress checks, unless Respondent has written confirmation from the
+
+Enforcement Director that the Bureau does not object to the inclusion of
+
+such additional materials;
+
+Describe the process for providing redress to Affected Consumers
+
+entitledto redress, and must include the following requirements:
+
+i. Priorto sending redress checks and Redress Notices, Respondent
+must make reasonable attempts to obtain a current address for each
+Affected Consumer entitledto redress using, at aminimum, the
+National Change of Address System (NCAS);
+
+li. Respondent must mail aredress check andthe Redress Notice to
+each Affected Consumer entitled to redress, or their authorized
+representative;
+
+iil. Respondent must sendthe redress check by United States Postal
+Service first-class mail, address correction service requested, to the
+most recent address for each Affected Consumer entitled to
+
+redress;
+AAA PRR AAA og
+SOARED AVA
+Ba Sf tn ST et â
+
+iV.
+
+Vi.
+
+~ . os emt ot Aa IY me a ham
+Pocument 7 Pilad T3/TSseoeo Pace Stoof d&
+BA AEN Pa PRLS fal phar awe Y CARS Ot wah MPa
+
+Respondent must send the redress check by certified mailto the
+Foreclosed Group 2 Borrowers;
+
+For Foreclosed Group | Borrowers, ifno updated address is
+provided by NCAS, Respondent must make reasonable attempts to
+obtain a current address for such customers by skip-tracing and/or
+by emailing them at their last known email address. Ifno address
+can be located by such means, Respondent may mail the check to
+the last known mailing address;
+
+For all other Affected Consumers entitled to redress, ifno updated
+address is provided by NCAS, Respondent must mail the check to
+the last known address. Ifa redress check is returnedto
+Respondent as undeliverable, Respondent must make additional
+reasonable attempts to obtain a current address for such consumers
+using acommercially available database other than the NCAS or
+by skip-tracing and/or by emailing them at their last known email
+address. Respondent must promptly re-mail all returned redress
+checks and the Redress Notice to each Affected Consumerâs
+current addresses, if any, obtained through such reasonable
+
+attempts;
+AAAS FRR ON ~~ tA eee y oa LO rae
+2OOHO RED A A Mie issycinmt 4 Pian TFA S Pea
+Cee Bhd - â LAO RSEEf HOG Pee rar cud
+
+vil. Ifaredress check that Respondent has attempted to send to an
+Affected Consumer entitledto redress, as specified under
+subparagraphs iv through vi, is retumed to Respondent,
+Respondent must retain the redress amount of such consumer fora
+period of one hundred and eighty (180) days from the date the
+check was mailed or re-mailed, whichever is later, during which
+period such amount may be claimed by such consumer upon
+appropriate proof of identity; and
+
+vill. Any redress amount remaining unclaimed after one hundred and
+eighty (180) days from the date the check was mailed or re-mailed,
+whichever is later, will be turned over to the Bureau as set forth in
+paragraph 80;
+
+d. Provide that Respondent shall pay all costs of administering the Redress
+
+Plan as required by this Section; and
+
+e. Set forth all procedures, deadlines, and timeframes for completing each
+
+step of the Redress Plan, consistent with the terms of this Consent Order.
+78. Respondent must mail all redress checks and Redress Notices within 30 days
+after the Enforcement Director has made a determination of non-objection to
+
+the Redress Plan.
+AA PEE A A Py . oA pay ee re ee ax me ~ a
+SOO Dee m AWA Pree ey ceed of Clad TÂ° F4 OFAN Meee SR AL AR
+ee eh fae ore bead rd POSMOUCE UY TUES: of PT PTEAP ER OF YF Pes i ete PY ati test OS oS fer ga}
+on at ot Pt RPA TAS Pd S oPPeka of as Pa ee! BDA Ne Wee Gab SP
+
+79. Within 60 days of completing all aspects of the Redress Plan, Respondent
+
+80.
+
+81.
+
+must submit a Redress Plan Report to the Enforcement Director, which must
+include Respondentâs review and assessment of Respondentâs compliance
+
+with the terms of the Redress Plan, including:
+
+a. thetotal number of Affected Consumers in each of the categories listed
+in paragraph 75 above;
+
+b. the procedures used to issue and track redress payments;
+
+c. the amount and status of all unclaimed redress payments; and
+
+d. the work of independent consultants that Respondent has used, ifany,
+
+to assist and review its execution of the Redress Plan.
+
+After completing the Redress Plan, ifthe amount of claimed redress provided
+to Affected Consumers entitled to redress is less than the Redress Fund,
+within 30 days of the completion of the Redress Plan, Respondent must pay to
+the Bureau, by wire transfer to the Bureau or to the Bureauâs agent, and
+according to the Bureauâs wiring instructions, the difference between the
+amountof claimed redress provided to Affected Consumers and the Redress
+Fund.
+
+The Bureau may usethese remaining funds to pay additional redress to
+Affected Consumers described in paragraph 75. Ifthe Bureau determines, in
+
+its sole discretion, that additional redress is wholly or partially impracticable
+82.
+
+APA AEA AMA ~ a ems Na EP ~ ~ a
+SAO AL Re ED LAMY Mie issycinmt 4 Clan 4Â°39 74 SFA Sere BA
+CAPA Ee Pe La APES PEE HOG Pel raped Prat 3
+
+or otherwise inappropriate, or if funds remain after the additional redress is
+completed, the Bureau will deposit any remaining funds in the U.S. Treasury
+as disgorgement. Respondent will have noright to challenge any actions that
+the Bureau or its representatives may take under this Section.
+
+Respondent may not condition the payment of any redress to any Affected
+
+Consumer on that Affected Consumer waiving any right.
+
+VIL.
+Order to Pay Civil Money Penalty
+
+IT IS FURTHER ORDERED that:
+
+83.
+
+84.
+
+85.
+
+Under Â§ 1055(c) of the CFPA, 12 U.S.C. Â§ 5565(c), by reason ofthe
+violations of law described in Section IV of this Consent Order, andtaking
+into account the factors in 12 U.S.C. Â§ 5565(c)(3), Respondent must pay a
+civil money penalty of $500,000 to the Bureau.
+
+Within 10 days of the Effective Date, Respondent must pay the civil money
+penalty by wire transfer to the Bureau or to the Bureauâs agent in compliance
+with the Bureauâs wiring instructions.
+
+The civil money penalty paid under this Consent Order will be deposited in
+the Civil Penalty Fund of the Bureau as required by Â§ 1017(d) ofthe CFPA,
+
+12 U.S.C. Â§ 5497(d).
+ARAN PAE AMA G ~ . 4 ots ae EA ~ ak am
+2OOHO RED A A Miners t fF Cilae 439F4S (OA Deeae BE Af Ag
+Sa tet = â= BA AEN Pa POoEURSAS fae phe oo y CALS out Let AP ae
+
+86. Respondent must, for all purposes, treat the civil money penalty paid under
+this Consent Order as a penalty paid to the government. Regardless of how the
+
+Bureau ultimately uses those funds, Respondent may not:
+
+a. claim, assert, or apply for a tax deduction, tax credit, or any other tax
+benefit for any civil money penalty paid under this Consent Order; or
+
+b. seek or accept, directly or indirectly, reimbursement or indemnification
+from any source, including but not limited to payment made under any
+insurance policy, with regard to any civil money penalty paid under this
+
+Consent Order.
+
+87. To preserve the deterrent effect of the civil money penalty in any Related
+Consumer Action, Respondent may not argue that Respondentis entitled to,
+nor may Respondent benefit by, any offset or reduction of any compensatory
+monetary remedies imposed in the Related Consumer Action because of the
+civil money penalty paid in this action or because of any payment that the
+Bureau makes from the Civil Penalty Fund. Ifthe court in any Related
+Consumer Action offsets or otherwise reduces the amount of compensatory
+monetary remedies imposed against Respondent based on the civil money
+penalty paid in this action or based on any payment that the Bureau makes
+from the Civil Penalty Fund, Respondent must, within 30 days after entry ofa
+
+final order granting such offset or reduction, notify the Bureau, and pay the
+amountof the offset or reduction to the U.S. Treasury. Such a payment will
+not be considered an additional civil money penalty and will not change the
+
+amountofthe civil money penalty imposed in this action.
+
+VU.
+
+Additional Monetary Provisions
+
+IT IS FURTHER ORDERED that:
+
+88.
+
+89.
+
+90.
+
+91.
+
+In the event of any default on Respondentâs obligations to make payment
+under this Consent Order, interest, computed under 28 U.S.C. Â§ 1961, as
+amended, will accrue on any outstanding amounts not paid from the date of
+default to the date of payment, and will immediately become dueand payable.
+Respondent must relinquish all dominion, control, and title to the funds paid
+to the fullest extent permitted by law and no part ofthe funds may be retumed
+to Respondent.
+
+Under 31 U.S.C. Â§ 7701, Respondent, unless it already has done so, must
+furnish to the Bureau its taxpayer identifying numbers, which may be used for
+purposes of collecting and reporting on any delinquent amount arising out of
+this Consent Order.
+
+Within 30 days of the entry ofa final judgment, consent order, or settlement in
+a Related Consumer Action, Respondent must notify the Enforcement
+
+Director of the final judgment, consent order, or settlement in writing. That
+PPA PR ER AN ae toa pens ON at OE oy aay ~ _
+2OOHO RED A A Miners t fF Clan 4Â°39 74 SFA Deas 2 Af Jak
+Ba Sf tn ST et = â= BA AEN Pa POPS! fale ber cua YO TALS 2 Ya Pa
+
+notification must indicate the amountof redress, if any, that Respondent paid
+or is required to pay to consumers and describethe consumers or classes of
+
+consumers to whom that redress has been or will be paid.
+
+IX.
+
+Reporting Requirements
+
+IT IS FURTHER ORDERED that:
+
+92.
+
+93.
+
+94.
+
+Respondent must notify the Bureau of any development that may affect
+compliance obligations arising under this Consent Order, including but not
+limited to, a dissolution, assignment, sale, merger, or other action that would
+result in the emergence of a successor company; the creation or dissolution of
+a subsidiary, parent, or affiliate that engages in any acts or practices subject to
+this Consent Order; the filing of any bankruptcy or insolvency proceeding by
+or against Respondent; or a changein Respondentâs name or address.
+Respondent must provide this notice, if practicable, at least 30 days before the
+development, but in any case, no laterthan 14 days after the development.
+Within 7 days of the Effective Date, Respondent must designate at least one
+telephone number and email, physical, and postal address as points of contact,
+which the Bureau may use to communicate with Respondent.
+
+Within 90 days of the Effective Date, and again one year after the Effective
+
+Date, Respondent must submit to the Enforcement Director an accurate
+mse a corny mile EF SE FD uaa, DO Â«af AR
+Bat LE De vt Peete cae oer a PPR PPE AES Rf aes TARE NE ALi
+poe LOGUE IGSHEE PHO PAY parcudu Pa Oo OT So
+
+written compliance progress report (Compliance Report), which, at a
+
+minimum:
+
+a. Lists each applicable paragraph and subparagraph of the Order and
+describes in detail the manner and form in which Respondent has
+complied with each such paragraph and subparagraph of the Consent
+Order;
+
+b. Describes in detail the manner and form in which Respondent has
+complied with the Redress Plan; and
+
+c. Attaches acopy of each Order Acknowledgment obtained under
+
+Section X, unless previously submitted to the Bureau.
+
+X.
+Order Distribution and Acknowledgment
+
+IT IS FURTHER ORDERED that,
+
+95. Within 7 days of the Effective Date, Respondent must submit to the
+Enforcement Director an acknowledgment of receipt of this Consent Order,
+sworn under penalty of perjury.
+
+96. Within 30 days of the Effective Date, Respondent must deliver a copy of this
+Consent Order to each of its board members and executive officers, as well as
+
+to any managers, employees, service providers, or other agents and
+97,
+
+98.
+
+99.
+
+AA PR AER AMA ~~ . oA pansy ee re ee ax ye ~ ~~
+SOO Dee m AWA Pree ey ceed of Wiad 4Â°94 6 FS OO Daan GO AF AR
+seb ek eae St Le bead rb ed Bora ch as aarty : Pe Peas Sos PAR et dee ee at at PO
+
+Bn ad athe KP LP RSE BHAA Ed PoE! bea phar cue Y CARS Ot Mat OP
+
+representatives who have responsibilities related to the subject matter ofthe
+Consent Order.
+
+For 5 years from the Effective Date, Respondent must deliver a copy of this
+Consent Order to any business entity resulting from any change in structure
+referred to in Section IX, any future board members and executive officers, as
+well as to any managers, employees, service providers, or other agents and
+representatives who will have responsibilities related to the subject matter of
+the Consent Order before they assume their responsibilities.
+
+Respondent must secure a signed and dated statement acknowledging receipt
+of a copy of this Consent Order, ensuring that any electronic signatures
+comply with the requirements of the E-Sign Act, 15 U.S.C. Â§ 7001 et seq.,
+within 30 days of delivery, from all persons receiving a copy of this Consent
+
+Order under this Section.
+
+XI.
+Recordkeeping
+
+IT IS FURTHER ORDERED that
+
+Respondent must create, or if already created, must retain for the duration of
+
+the Consent Order, the following business records:
+2020-BCFP-0024 Document1 Filed 12/18/2020 Page 40 of 45
+
+a. all documents and records necessary to demonstrate full compliance
+with each provision of this Consent Order, including all submissionsto
+the Bureau.
+
+b. all documents and records pertaining to the Redress Plan, described in
+
+Section VI above.
+
+100. Respondent must retain the documents identified in paragraph 99 for the
+duration of the Consent Order.
+101. Respondent must makethe documents identified in paragraph 99 available to
+
+the Bureau upon the Bureauâs request.
+
+XII.
+
+Notices
+IT IS FURTHER ORDERED that:
+
+102. Unless otherwise directed in writing by the Bureau, Respondent must provide
+all submissions, requests, communications, or other documents relating to this
+Consent Order in writing, with the subject line, â/n re Seterus, Inc., File No.
+2020-BCFP-0024,â and send them by overnight courier or first-class mailto
+the below address and contemporaneously by email to
+
+Enforcement Compliance@cfpb.gov:
+
+ 
+AAR PL PREP Am wy toa puss SN at oy a ~ =
+2OOHO RED A A Miners t fF Clan 4Â°39 74 SFA Beane At af fa
+Ba Sf tn ST et â= BA AEN Pa POPS! fale ber cua : ghee SPob Geb ras
+
+Assistant Director for Enforcement
+Bureau of Consumer Financial Protection
+ATTENTION: Office of Enforcement
+1700 G Street, N.W.
+
+Washington D.C. 20552
+
+XIHI.
+
+Compliance Monitoring
+
+IT IS FURTHER ORDERED that, to monitor Respondentâs compliance
+
+with this Consent Order:
+
+103. Within 14 days of receipt of a written request from the Bureau, Respondent
+must submit additional Compliance Reports or other requested non-privileged
+information, related to requirements of this Consent Order, which must be
+made under penalty of perjury; provide sworn testimony related to
+requirements of this Consent Order and Respondentâs compliance with those
+requirements; or produce non-privileged documents related to requirements
+of this Consent Order and Respondentâs compliance with those requirements.
+
+104. Respondent must permit Bureau representatives to interview about the
+requirements of this Consent Order and Respondentâs compliance with those
+requirements any employeeor other person affiliated with Respondent who
+has agreed to such an interview. The person interviewed may have counsel
+
+present.
+APA PR OAR RA Rem 8 Â»~ : of â Â» .
+APLON Per ASA PP sey en meyyoaeed of Slaw AOD Po GS PER EEP
+ee eh fae ore bead rd PM CE GE Paes rhe of Pe EERO EG Pe etd eke
+than Sad tli at Rend Sal? te AEN Ed ited PN eS
+
+105. Nothing in this Consent Order will limit the Bureauâs lawful use of civil
+
+investigative demands under 12 C.F.R. Â§ 1080.6 or other compulsory process.
+
+XIV.
+
+Modifications to Non-Material Requirements
+
+IT IS FURTHER ORDERED that:
+
+106.
+
+107.
+
+108.
+
+Respondent may seek a modification to non-material requirements of this
+Consent Order (e. g., reasonable extensions of time and changes to reporting
+requirements) by submitting a written request to the Enforcement Director.
+The Enforcement Director may, in his or her discretion, modify any non-
+material requirements of this Consent Order (e. g., reasonable extensions of
+time and changes to reporting requirements) ifhe or she determines good
+cause justifies the modification. Any such modification by the Enforcement
+
+Director must be in writing.
+
+XV.
+
+Administrative Provisions
+
+The provisions of this Consent Order do not bar, estop, or otherwise prevent
+the Bureau, or any other governmental agency, from taking any other action
+
+against Respondent, except as described in paragraph 109.
+109.
+
+110.
+
+11.
+
+PPA PR ER AN ae cA puss SN at ro te = _
+2OOHO RED A A Miners t fF Clan 4Â°39 74 SFA Rane AQ af AS
+Ba Sf tn ST et â= BA AEN Pa POPS! fale ber cua : ghee Sree Gel ras
+
+The Bureau releases and discharges Respondent from all potential liability for
+law violations that the Bureau has or might have asserted based on the
+practices described in Section IV of this Consent Order, to the extent such
+practices occurred before the Effective Date and the Bureau knows about
+them as of the Effective Date. The Bureau may use the practices described in
+this Consent Order in future enforcement actions against Respondent and its
+affiliates, including, without limitation, to establish a pattern or practice of
+violations or the continuation of a pattern or practice of violations or to
+calculate the amount of any penalty. This release does not preclude or affect
+any right of the Bureau to determine and ensure compliance with the Consent
+Order, or to seek penalties for any violations of the Consent Order.
+
+This Consent Order is intended to be, and will be construed as, a final Consent
+Order issued under Â§ 1053 of the CFPA, 12 U.S.C. Â§ 5563, and expressly does
+not form, and may not be construed to form, a contract binding the Bureau or
+the United States.
+
+This Consent Order will terminate 5 years from the Effective Date. The
+Consent Order will remain effective and enforceable until such time, except to
+the extent that any provisions of this Consent Order have been amended,
+suspended, waived, or terminated in writing by the Bureau or its designated
+
+agent.
+112.
+
+113.
+
+114,
+
+115.
+
+ARAN SAP ANAS PA ee emt ot Aa IY mh... te har
+POSO.RCE EOS Pocument 7 Pilacd TEPTRseOea Pane 44 af 45
+than Sad an at Rad Nat te AEN Ed POPPA of ar be ee : gi Srp kb Sra
+
+Calculation of time limitations will run from the Effective Date and be based
+on calendar days, unless otherwise noted.
+
+Should Respondent seek to transfer or assign, after the Effective Date, all or
+part of its operations that are subject to this Consent Order, Respondent must,
+as a condition of sale, obtain the written agreement of the transferee or
+assignee to comply with all applicable provisions of this Consent Order.
+
+The provisions of this Consent Order will be enforceable by the Bureau. For
+any violation of this Consent Order, the Bureau may impose the maximum
+amountof civil money penalties allowed under Â§ 1055(c) of the CFPA, 12
+U.S.C. Â§ 5565(c). In connection with any attempt by the Bureau to enforce
+this Consent Order in federal district court, the Bureau may serve Respondent
+wherever Respondent may be found and Respondent may not contest that
+courtâs personal jurisdiction over Respondent.
+
+This Consent Order and the accompanying Stipulation contain the complete
+agreement between the parties. The parties have made no promises,
+representations, or warranties other than what is contained in this Consent
+Order and the accompanying Stipulation. This Consent Order and the
+accompanying Stipulation supersede any prior oral or written
+
+communications, discussions, or understandings.
+2020-BCFP-0024 Document1 Filed 12/18/2020 Page 45 of 45
+
+116. Nothing in this Consent Order or the accompanying Stipulation may be
+construed as allowing Respondent, its Board, officers, or employees to violate
+
+any law, rule, or regulation.
+
+IT ISSOORDERED, this | (9 dayof e@cemSe-, 2020.
+
+r
+Kathleen L. Kraninger 0
+Director
+Bureau of Consumer Financial Protection
+
+ 
+
+   
+
+45

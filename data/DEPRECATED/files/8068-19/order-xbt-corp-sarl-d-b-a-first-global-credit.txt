@@ -1,0 +1,333 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+RECEIVED CFTC
+In the Matter of:
+
+XBT Corp. SARL d/b/a First
+
+Global Credit, CFTC Docket No. 20-04
+
+Proceedings Clerk
+8:44 am, Oct 31, 2019
+
+Respondent.
+
+ 
+
+eee
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL sanctions
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (“Commission”) has reason to believe that
+from March 2016 to July 2017 (“Relevant Period”), XBT Corp. SARL d/b/a First Global Credit
+(“FGC” or “Respondent’) violated Section 4d(a)(1) of the Commodity Exchange Act (“Act”),
+
+7 U.S.C. § 6d(a)(1) (2012). Therefore, the Commission deems it appropriate and in the public
+interest that public administrative proceedings be, and hereby are, instituted to determine
+whether Respondent engaged in the violations set forth herein and to determine whether any
+order should be issued imposing remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (“Offer’’), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
+Exchange Act, Making Findings, and Imposing Remedial sanctions (“Order”), and
+acknowledges service of this Order. !
+
+ 
+
+' Respondent consents to the use of the findings of fact and conclusions of law in this Order in this proceeding and
+in any other proceeding brought by the Commission or to which the Commission is a party or claimant, and agrees
+that they shall be taken as true and correct and be given preclusive effect therein, without further proof. Respondent
+does not consent, however, to the use of this Order, or the findings or conclusions herein, as the sole basis for any
+other proceeding brought by the Commission or to which the Commission is a party or claimant, other than: a
+proceeding in bankruptcy or receivership; or, a proceeding to enforce the terms of this Order. Respondent does not
+consent to the use of the Offer or this Order, or the findings or conclusions in this Order, by any other party in any
+other proceeding.
+II. FINDINGS
+The Commission finds the following:
+A. Summary
+
+Respondent’s website, www.firstglobalcredit.com (“website”), claimed to provide
+“Mainstream market access” for digital currency traders. During the Relevant Period, through
+the website and its electronic trading platform (“platform”) accessed through the website, FGC
+solicited or accepted orders for the purchase or sale of commodity futures from U.S. customers,
+and accepted bitcoin to margin customers’ trades, without being registered with the Commission
+as a futures commission merchant (“FCM”).
+
+Accordingly, Respondent violated Section 4d(a)(1) of the Act, 7 U.S.C. § 6d(a)(1)
+(2012).
+oe 2 oe ee ok eae
+In accepting the Offer, the Commission recognizes Respondent’s cooperation with the
+Commission’s Division of Enforcement. The Commission notes that Respondent’s cooperation
+is reflected in the form of a substantially reduced civil monetary penalty.
+
+B. Respondent
+
+XBT Corp. SARL, d/b/a First Global Credit during the Relevant Period, is a company
+organized under the laws of Switzerland and has its main office in Geneva, Switzerland.
+
+C. Facts
+1, Respondent’s Unlawful Operation as an FCM
+
+During the Relevant Period, Respondent’s website and platform solicited customers,
+including those in the United States, to engage in the purchase or sale of commodities for future
+delivery (“futures’’), such as 10-Year Treasury Note and E-Micro Gold futures, among other
+futures contracts. Trades on FGC’s platform were settled in bitcoin in accord with FGC’s claim
+of providing “Mainstream market access” for digital currency traders.
+
+In furtherance of this solicitation, in a March 2016 press release posted on its website,
+FGC announced “First Global Credit Brings Commodity Futures Trading to Digital Currency
+Holders.” The press release announced that “Commodity Futures is the next logical step in
+providing digital currency holders with the same choices fiat currency holders have” while
+“clients still get the benefit of trading a leveraged contract because in the case of futures,
+leverage is built directly into the contract.”
+
+FGC subsequently solicited or accepted orders from customers in contracts listed on the
+Chicago Mercantile Exchange Globex trading platform, including the 10-Year Treasury Note
+futures and the E-Micro Gold futures. As noted, FGC’s platform was accessed through its
+website. Prior to any transactions, FGC required customers to submit certain Know-Your-
+Customer (“K YC”) information and documents. As part of the account opening process
+customers deposited bitcoin in a bitcoin wallet controlled by FGC.
+To assist customers FGC established a separate page on its website instructing customers
+how to “Trade Futures Using bitcoins as collateral margin.” Customers entered orders using
+bitcoin as collateral margin. According to FGC’s website “Since you retain your bitcoins (and
+the growth benefit) we arrange a loan to cover the margin needed to place the trade.” FGC
+charged a financing fee for positions held overnight. FGC also charged a commission per trade.
+
+Through its platform, FGC accepted money, securities, or property (or extended credit in
+lieu thereof) to margin, guarantee, or secure such trades, including those of U.S. customers.
+Thus, FGC acted as an FCM by soliciting or accepting orders for futures. During the Relevant
+Period, FGC was not registered with the Commission as an FCM or in any other capacity, and
+FGC was not exempt from registration.
+
+Wl. LEGAL DISCUSSION
+A. Respondent’s Failure To Register as an FCM
+
+Section la(28)(A) of the Act, 7 U.S.C. § la(28)(A) (2012), defines an FCM in relevant
+part as an individual, association, partnership, corporation, or trust that is engaged in soliciting or
+in accepting orders for the purchase or sale of a commodity for future delivery and in or in
+connection with soliciting or accepting such orders, accepts any money, securities, or property
+(or extends credit in lieu thereof) to margin, guarantee, or secure any trades that result or may
+result therefrom.
+
+Section 4d(a)(1) of the Act, 7 U.S.C. § 6d(a)(1) (2012), makes it unlawful for any person
+to be an FCM unless such person is registered as such with the Commission.
+
+During the Relevant Period, Respondent solicited or accepted orders for futures from
+U.S. customers and in connection with these activities, accepted money, securities, or property in
+the form of bitcoin as margin. See CFTC v. Ipool Ltd., No. 1:18-CV-2243-TNM, 2019 WL
+1605201 (D.D.C. Mar. 4, 2019) (consent order) (finding that a foreign trading platform was
+required to be registered as an FCM because it accepted money, securities, or property in the
+form of bitcoin, to margin, guarantee, or secure trades). Respondent did this without being
+registered as an FCM. Therefore, Respondent violated Section 4d(a)(1) of the Act. See id.; see
+also Inre Davisco Foods Int'l, Inc., CFTC No. 17-11, 2017 WL 1195808, at *2 (Mar. 27, 2017)
+(consent order) (finding a cheese and food ingredient company was required to be registered as
+an FCM because it accepted orders in futures contracts from its milk suppliers and accepted
+money from, or extended credit to these suppliers by debiting or crediting the suppliers’
+accounts),
+
+IV. FINDINGS OF violations
+
+Based on the foregoing, the Commission finds that Respondent violated Section 4d(a)(1)
+of the Act, 7 U.S.C. § 6d(a)(1) (2012).
+
+Vv. OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+Acknowledges service of this Order;
+
+Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violations of or enforcement of this Order;
+
+Waives:
+
+1, The filing and service of a complaint and notice of hearing;
+
+2. A hearing;
+
+3. All post-hearing procedures;
+
+4, Judicial review by any court;
+
+5. Any and all objections to the participation by any member of the Commission’s
+staff in the Commission’s consideration of the Offer;
+
+6. Any and all claims that it may possess under the Equal Access to Justice Act,
+5 U.S.C. § 504 (2012), and 28 U.S.C. § 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations, 17 C.F.R.
+pt. 148 (2019), relating to, or arising from, this proceeding;
+
+7. Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. II, §§ 201~253, 110
+Stat. 847, 857-74 (codified as amended at 28 U.S.C. § 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+8. Any claims of Double Jeopardy based on the institution of this proceeding or the
+
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order; ,
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer;
+
+Consents, solely on the basis of the Offer, to the Commission’s entry of this Order that:
+
+1.
+
+Makes findings by the Commission that Respondent violated Section 4d(a)(1) of
+the Act, 7 U.S.C. § 6d(a)(1) (2012);
+
+Orders Respondent to cease and desist from violating Section 4d(a)(1) of the Act;
+Orders Respondent to pay a civil monetary penalty in the amount of one hundred
+
+thousand dollars ($100,000) within thirty days of the date of the entry of this
+Order; and
+4, Orders Respondent to comply with the conditions and undertakings consented to in
+the Offer and as set forth in Part VI of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent shall cease and desist from violating Section 4d(a)(1) of the Act,
+7 ULS.C. § 6d(a)(1) (2012).
+
+Respondent shall pay a civil monetary penalty in the amount of one hundred thousand
+dollars ($100,000) (“CMP Obligation”), within thirty days of the date of the entry of this
+Order. Ifthe CMP Obligation is not paid in full within thirty days of the date of entry of
+this Order, then post-judgment interest shall accrue on the CMP Obligation beginning on
+the date of entry of this Order and shall be determined by using the Treasury Bill rate
+prevailing on the date of entry of this Order pursuant to 28 U.S.C. § 1961 (2012).
+
+Respondent shall pay the CMP Obligation and any post-judgment interest by electronic
+funds transfer, U.S. postal money order, certified check, bank cashier’s check, or bank _
+money order. If payment is to be made other than by electronic funds transfer, then the
+payment shall be made payable to the Commodity Futures Trading Commission and sent
+to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+9-AMC-AR-CFTC@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Marie
+Thorne or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the Respondent and the name and docket
+number of this proceeding. Respondent shall simultaneously transmit copies of the cover
+letter and the form of payment to the Chief Financial Officer, Commodity Futures
+Trading Commission, Three Lafayette Centre, 1155 21st Street, N.W., Washington, D.C.
+20581, and to Harry E. Wedewer, Commodity Futures Trading Commission, 1155 21st
+Street, N.W., Washington, D.C. 20581.
+
+Respondent shall comply with the following conditions and undertakings set forth in the
+Offer:
+Public Statements: Respondent agrees that neither it nor any of its agents or
+employees under its authority or control shall take any action or make any public
+statement denying, directly or indirectly, any findings or conclusions in this Order
+or creating, or tending to create, the impression that this Order is without a factual
+basis; provided, however, that nothing in this provision shall affect Respondent’s:
+(i) testimonial obligations; or (ii) right to take legal positions in other proceedings
+to which the Commission is not a party. Respondent shall comply with this
+agreement, and shall undertake all steps necessary to ensure that all of its agents
+and/or employees under its authority or control understand and comply with this
+agreement. .
+
+Disgorgement: Respondent agrees to pay disgorgement in the amount of one
+thousand eight hundred ninety-five dollars ($1895) (“Disgorgement Obligation”),
+representing the gains received in connection with such violations, within thirty
+days of the date of the entry of this Order. If the Disgorgement Obligation is not
+paid or otherwise satisfied in full within thirty days of the date of entry of this
+Order, then post-judgment interest shall accrue on the Disgorgement Obligation
+beginning on the date of entry of this Order and shall be determined by using the
+Treasury Bill rate prevailing on the date of entry of this Order pursuant to 28
+U.S.C. § 1961 (2012).
+
+Respondent shall pay any portion of the Disgorgement Obligation and any post-
+judgment interest by electronic funds transfer, U.S. postal money order, certified
+check, bank cashier’s check, or bank money order. If payment is to be made other
+than by electronic funds transfer, then the payment shall be made payable to the
+Commodity Futures Trading Commission and sent to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+9-AMC-AR-CFTC@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact
+Marie Thorne or her successor at the above address to receive payment
+instructions and shall fully comply with those instructions. Respondent shall
+accompany payment of the Disgorgement Obligation with a cover letter that
+identifies the paying Respondent and the name and docket number of this
+proceeding. The paying Respondent shall simultaneously transmit copies of the
+cover letter and the form of payment to the Chief Financial Officer, Commodity
+Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, N.W.,
+Washington, D.C. 20581, and to Harry E. Wedewer, Commodity Futures Trading
+Commission, 1155 21st Street, N.W., Washington, D.C. 20581.
+3. Cooperation: Respondent shall cooperate fully and expeditiously with the
+Commission, including the Commission’s Division of Enforcement, in this action,
+and in any current or future Commission investigation or action related thereto.
+Respondent shall also cooperate in any investigation, civil litigation, or
+administrative matter related to, or arising from, the subject matter of this action.
+
+4. Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission of any partial payment of Respondent’s CMP Obligation shall
+not be deemed a waiver of its obligation to make further payments pursuant to this
+Order, or a waiver of the Commission’s right to seek to compel payment of any
+remaining balance.
+
+5. Change of Address/Phone: Until such time as Respondent satisfies in full its
+CMP Obligation as set forth in this Order, Respondent shall provide written
+notice to the Commission by certified mail of any change to its telephone number
+and mailing address within ten calendar days of the change.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+Christopher J. jcZ 3
+
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: October 31, 2019

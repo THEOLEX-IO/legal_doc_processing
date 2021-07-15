@@ -1,0 +1,1307 @@
+ 
+
+(— RECEIVED CFTC >
+
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+Office of Proceedings
+Proceedings Clerk
+
+ 
+
+ 
+
+ 
+
+\ 8:04 am, May 25, ay,
+
+In the Matter of:
+Citibank, N.A.,, CFTC Docket No. 16-16
+
+Respondent.
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT,
+MAKING FINDINGS, AND IMPOSING REMEDIAL sanctions
+
+I,
+
+The Commodity Futures Trading Commission (“Commission”) has reason to believe that
+Citibank, N.A, “Respondent,” “Citibank,” or the “Bank”’) has violated the Commodity
+Exchange Act (the “Act” or “CEA”) and Commission Regulations (“Regulations”), Therefore,
+the Commission deems it appropriate and in the public interest that public administrative
+proceedings be, and hereby are, instituted to determine whether Respondent engaged in the
+violations set forth herein, and to determine whether any order shall be issued imposing remedial
+
+sanctions.
+IL.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
+Without admitting or denying the findings or conclusions herein, Respondent consents to the
+entry and acknowledges service of this Order Instituting Proceedings Pursuant to Sections 6(c)
+and 6(d) of the Commodity Exchange Act, Making Findings, and imposing Remedial sanctions
+(“Order”).
+
+ 
+
+' Respondent consents to the entry of this Order and to the use of these findings in this proceeding and in any other
+proceeding brought by the Commission or to which the Commission is a party; provided, however, that Respondent
+does not consent to the use of the Offer, or the findings or conclusions in this Order, as the sole basis for any other
+proceeding brought by the Commission, other than in a proceeding in bankruptcy or to enforce the terms of this
+Order. Nor does Respondent consent to the use of the Offer or this Order, or the findings or conclusions in this
+Order consented to in the Offer, by any other party in any other proceeding.
+
+ 
+ILL.
+
+The Commission finds the following:
+
+A, Summary
+
+Beginning in January 2007 and continuing through January 2012 (the “Relevant
+Period”), Citibank, by and through certain of its traders, on multiple occasions attempted to
+manipulate the U.S. Dollar International Swaps and Derivatives Association Fix (“USD
+ISDAFIX” or the “benchmark’”), a leading global benchmark referenced in a range of interest
+rate products, to benefit the Bank’s derivatives positions.
+
+ISDAFIX rates and spreads are published daily and are meant to indicate the prevailing
+mid-market rate, at a specific time of day, for the fixed leg of a standard fixed-for-floating
+interest rate swap.” They are issued in several currencies. USD ISDAFIX rates and spreads are
+published for various maturities of U.S. Dollar-denominated swaps, including 1-year to 10-years,
+15-years, 20-years, and 30-years. The most widely used USD ISDAFIX rates and spreads, and
+the ones at issue in this Order, are those that are intended to indicate the prevailing market rate as
+of 11:00 a.m. Eastern Time. The 11:00 a.m. USD ISDAFIX rate is used for the cash settlement
+of options on interest rate swaps, or swaptions, and as a valuation tool for certain other interest
+rate products, including, for example, curve options.
+
+During the Relevant Period, USD ISDAFIX was set each day in a process that began at
+11:00 a.m, Eastern Time with the capture and recording of swap rates and spreads from a U.S.-
+based unit of a leading interest rate swaps broking firm (“Swaps Broker”). Swaps Broker
+disseminated rates and spreads captured in this snapshot as references to a panel of banks. These
+reference rates and spreads (which were calculated using swap spread trade data from Swaps
+Broker, U.S. Treasuries electronic trade data from Swaps Broker, and Eurodollar futures at or
+around 11:00 a.m.) were disseminated by Swaps Broker to the panel banks. The panel banks
+then made submissions to Swaps Broker. Each bank’s submission was supposed to reflect the
+midpoint of where that dealer would itself offer and bid a swap to a dealer of good credit as of
+11:00 a.m. Eastern Time. Most banks on the panel, including Citibank, usually submitted Swaps
+Broker’s reference rates and spreads as captured in the snapshot. As a result, after an averaging
+of the submissions, the reference rates and spreads became the published USD ISDAFIX almost
+every day.
+
+However, on certain days on which Citibank had a trading position settling or resetting
+against the USD ISDAFIX, Citibank attempted to manipulate USD ISDAFIX by making false
+submissions for Citibank as a panel bank to Swaps Broker, skewing the rates and spreads
+submitted in the direction that could have moved the USD ISDAFIX setting to benefit the
+Bank’s trading positions. A bank’s derivatives trading positions or profitability are not
+legitimate or permissible factors on which to base submissions in connection with a benchmark.
+Yet on multiple occasions during the Relevant Period, certain Citibank traders caused Citibank
+to make USD ISDAFIX submissions higher or lower for the purpose of benefitting positions
+
+ 
+
+* In 2014, the administration of ISDAFIX changed, and a new version of the benchmark is published under a
+different name by a new administrator using a different methodology.
+
+2
+
+ 
+priced or valued against the benchmark, including swaption and curve option positions. On
+these occasions, Citibank’s USD ISDAFIX submissions constituted false, misleading, or
+knowingly inaccurate reports because they purported to reflect Citibank’s honest view of the
+true costs of entering into a standard fixed-for-floating interest rate swap in particular tenors,
+but in fact reflected traders’ desire to move USD ISDAFIX higher or lower in order to benefit
+Citibank’s positions. These submissions were false, misleading, or knowingly inaccurate
+because they did not report where Citibank would itself bid or offer interest rate swaps to a
+dealer of good credit absent a desire to manipulate USD ISDAFIX, but rather reflected prices
+that were more favorable to the Bank on specific positions.
+
+In addition, Citibank attempted to manipulate USD ISDAFIX by bidding, offering, and
+executing transactions in targeted interest rate products, including swap spreads and U.S.
+Treasuries at or near the critical 11:00 a.m. fixing time, with the intent to affect the reference
+rates and spreads captured by Swaps Broker that Swaps Broker disseminated to submitting
+banks, and thereby to affect the published USD ISDAF (X.° On occasion, in conjunction with
+Citibank’s attempts to manipulate USD ISDAFIX by bidding, offering, and executing
+transactions in targeted interest rate products, Citibank attempted to manipulate USD ISDAFIX
+by making false USD ISDAFIX submissions. As captured in electronic communications, a
+Citibank trader boasted about “pushing out the isdafixing” or “push[ing]” the market, and
+described a Citibank’s swaps trader as being “pretty good at it.” Citibank traders also described
+USD ISDAFIX as being “suprising[ly] easy to push,” and explained the best way to “influence
+the set.”
+
+At least one Citibank customer observed trading around 11:00 a.m. and raised a question that
+was relayed to a Citibank trader:
+
+[H]ow is it that 10s30s has traded between 17.25 and 18.25 all morning but the
+ISDA fixing is 17.00? [I]’ve brought this up to several people over the last few
+months because the fix seems to go against us most of the time. [E]ach person
+tells me that there is no manipulation by the traders; however, the
+
+coincidence of us losing on everyone but one fixing , . . is starting to get old.
+
+(Emphasis added.)
+
+In the summer of 2010, Citibank traders circulated among themselves a news article
+reporting on the widespread potential manipulation of USD ISDAFIX benchmarks by trading at
+11:00 a.m. that included a quote from a broker stating that “[e]veryone plays with the number at
+11, and it can be bedlam.” Citibank traders circulated the article among themselves by email
+with comments like “GAME OVER” and “ouch... .” Upon receiving the article, one recipient
+said, “oh jesus do I want to read this?,” in response to which a Citibank swaps trader wrote that
+the article was “all about 11am isda fix.”
+
+ 
+
+* There is evidence that Citibank on occasion also attempted to manipulate on-exchange Eurodollar futures at 11:00
+a.m. to advantage its derivatives trading positions. As noted above, in the 1-year maturity, Swaps Broker used
+Eurodollar futures yields at 11:00 a.m. to generate the reference rate sent to USD ISDAFIX submitting banks.
+
+3
+
+ 
+Citibank’s unlawful conduct involved multiple traders; moreover, at least one senior-
+level individual overseeing certain of the Bank’s interest rates trading desks was aware of the
+Bank’s improper trading activity during the Relevant Period.
+
+oR RR OR
+
+In accepting the Bank’s offer, the Commission recognizes Respondent’s cooperation with
+the Division of Enforcement’s (the “Division’’) investigation in this matter. The Commission
+notes that at the outset of the Division’s investigation, Citibank’s cooperation was not sufficient.
+The Bank’s response to the Commission’s subpoena and initial document productions were
+deficient in two respects. First, the Bank did not make productions as expeditiously as the
+Division expected. Second, the Bank told the Division that certain misconduct did not occur at
+the Bank. The Bank’s cooperation improved after the Division said that it expected the Bank to .
+move more expeditiously, after which the Bank discovered and produced evidence showing that
+the Bank’s initial statements about certain misconduct were incorrect. The Commission also
+recognizes that Citibank took remedial action to improve internal controls and polices related to
+ISDAFIX submissions.
+
+B. Respondent
+
+Citibank, N.A. is a national banking association with its main office in Sioux Falls,
+South Dakota, and offices in, among other places, New York City. Citibank provides consumer
+finance, investment banking, commercial banking, and other services. It became provisionally
+registered with the Commission as a swap dealer on December 31, 2012.
+
+Cc, Facts
+1. USD ISDAFIX Setting
+
+ISDAFIX rates and spreads are benchmarks that indicate prevailing market rates for
+“nlain-vanilla” interest rate swaps.’ The 11:00 am. USD ISDAFIX was set during the Relevant
+Period using a combination of swap spread trade data from Swaps Broker,’ U.S. Treasuries
+electronic trade data from Swaps Broker, Eurodollar futures, and submissions from a panel of
+swap dealer banks, including Citibank.
+
+ 
+
+* The term “swap” is defined in CEA Section 1a(47). 7 U.S.C. § 1a(47) (2012). Here, a “plain-vanilla” interest rate
+swap is generally an exchange of fixed payments for floating payments, wherein one party to a swap pays a fixed
+rate on a set notional amount (the party who “pays fixed” is said to have “bought” the swap, or is “long” the swap)
+and the other party pays a floating rate generally tied to three-month LIBOR (the party who “receives fixed” is said
+to have “sold” the swap, or is “short” the swap). The “maturity” or “tenor” of a swap refers to the number of years
+over which counterparties exchange payments.
+
+° An interest rate swap spread trade consists of a fixed-for-floating interest rate swap and an offsetting trade in U.S.
+Treasuries of the same tenor, which allows a party to hedge part of the interest rate risk associated with the fixed-
+for-floating swap. The difference in basis points between the U.S. Treasury yield and the swap rate constitutes the
+“spread” quoted in a spread trade. The party who “receives fixed” in a swap and sells U.S. Treasuries to hedge is
+“short” spreads or has “sold” spreads, while a party who “pays fixed” in a swap and buys Treasuries to hedge is
+“long” spreads or has “bought” spreads.
+
+ 
+Swaps Broker’s medium-term USD swaps desk (“MTS Desk”) functioned much like a
+traditional futures trading pit. Brokers on the desk sat (or stood) together and each serviced a
+number of major swap dealer banks, to whom they were connected throughout the trading day
+by direct phone lines and speaker boxes. The brokers communicated their clients’ bids and
+offers by open outcry to the entire MTS Desk and all of the brokers simultaneously. Any client
+could accept a bid or offer, Once a broker confirmed that a client was “hitting” a bid, “lifting”
+an offer, or was otherwise “done” in a designated notional amount (either a minimum default
+amount or a greater amount), the trade between the counterparties was executed and the
+counterparties received a confirmation of the trade.
+
+Swaps Broker published a live feed of transaction data for USD interest rate swap
+spreads, swap rates, and U.S. Treasury yields and prices to an electronic screen, known as the
+“19901 screen,” accessible through a subscription-based market news service. The 19901
+screen reflected the levels at which those products were trading through the MTS Desk (for
+swap spreads and swap rates) and Swaps Broker’s proprietary electronic bond trading platform
+(for U.S. Treasuries). The 19901 screen is a reference used widely throughout the financial
+industry by swap dealer banks, hedge funds, asset managers, businesses, and other participants
+in interest rate markets. During the Relevant Period, levels displayed on the 19901 screen at
+precisely 11:00 a.m. were critical because they were used to set USD ISDAFTX,
+
+To set USD ISDAFIX rates for the 2-year through 30-year maturities, Swaps Broker first
+generated reference rates and spreads from the snapshot of 11:00 a.m. screen prices, reflecting
+either the last traded spread or the mid-point between the most recent executable bid and offer.
+Swaps Broker’s reference rates, for all maturities except the 1-year, were the sum of the
+reference spread and the 19901 screen’s U.S. Treasury yield in the corresponding maturity. To
+generate the 1-year reference rate (for which there was no associated swap spread), Swaps
+Broker utilized a combination of Eurodollar futures yields (based on trading on CME’s Globex
+platform) and broker “sentiment,” which was intended to reflect prevailing rates for 1-year
+swaps based on trading though Swaps Broker’s short-term swaps desk.
+
+Minutes after the 11:00 a.m. snapshot of the 19901 was taken, Swaps Broker distributed
+its reference rates and spreads to a panel of 14 or more contributing banks, which either accepted
+and submitted the reference rates and spreads as their own or submitted adjusted levels. Each
+bank, including Citibank, was expected to submit “the mean of where that dealer would itself
+offer and bid a swap in the relevant maturity for a notional equivalent amount of US $50 million
+or whatever amount is deemed market size in that currency for that tenor to an acknowledged
+dealer of good credit in the swap market.”® Banks could change the prices for all rates and
+spreads across all maturities in their submissions, or change any subset, including any single rate
+or spread, Alternatively, a panel bank could make no submission at all. After a quorum of
+contributing banks made their submissions, a calculation agent eliminated the highest and lowest
+submissions (known as “topping and tailing”) and averaged the remaining submissions. The
+submission and calculation process was generally completed in the half hour following 11:00
+
+ 
+
+© See ISDAFIX, ISDA, https://web.archive. org/web/20 140209180 148/http:/;www2.isda. org/asset-classes/interest-
+rates-derivatives/isdafix/ (last accessed April 20, 2016).
+
+ 
+a.m., after which the results were accessible to the public through a subscription-based news
+service,
+
+In practice, most panel banks, often including Citibank, accepted Swaps Broker’s
+reference rates and spreads as their default submissions. Thus after “topping and tailing,” Swaps
+Broker’s reference rates and spreads usually became the final published USD ISDAFIX
+benchmarks. However, as noted below, on multiple occasions during the Relevant Period,
+Citibank submitted a rate or spread higher or lower than Swaps Broker’s reference rates or
+spreads on certain days that Citibank had a derivatives position settling or resetting against USD
+ISDAFIX in an attempt to benefit that derivatives position.
+
+2. Citibank’s Role in USD ISDAFIX Setting
+
+Throughout the Relevant Period, Citibank was one of the panel banks that submitted rates
+and spreads for the determination of USD ISDAFIX. Middle office employees supporting
+Citibank’s North American G10 Rates U.S. Dollar Swaps Desk (the “Swaps Desk”) made
+Citibank’s daily USD ISDAFIX submissions. The Swaps Desk was a market-making desk that
+traded, among other products, fixed-for-floating interest rate swaps. The Swaps Desk acted as
+counterparty to external clients as well as internal Citibank desks in a variety of interest rate
+swap transactions.
+
+During the Relevant Period, Citibank did not have specific internal controls or
+procedures, written or otherwise, regarding how USD ISDAFIX submissions should be
+determined or monitored, ISDAFIX submitters received no formal training on making ISDAFIX
+submissions, and the Bank did not require submissions to be documented during the Relevant
+Period.
+
+3. Citibank Positions with Exposure to USD ISDAFIX
+
+Citibank traders had two primary reasons, discussed more fully below, to attempt to
+manipulate USD ISDAFIX: (a) to maximize profit (or minimize loss) for the North American
+G10 Rates USD Flow Options Desks (collectively, the ‘““Options Desk’) in connection with
+cash settling swaptions; and (b) to maximize profit (or minimize loss) for the North American
+G10 Rates U.S. Exotics Desk (“Exotics Desk’’) in connection with periodic payments (referred
+to as “resets”’) associated with certain interest rate options, including curve options.
+
+In addition to these two primary reasons, traders on the Swaps Desk had their own
+reasons to attempt to manipulate USD ISDAFIX rates. From time to time, when the Options
+Desk had a cash-settling swaption with an external counterparty, rather than carry the USD
+ISDAFIX risk associated with that position, the Options Desk coordinated with the Swaps Desk
+prior to 11:00 a.m. to “swap settle” the position (referred to herein as an “ISDAFIX Swap”),
+thereby eliminating the Options Desk’s exposure to the USD ISDAFIX and transferring that
+exposure from the Options to the Swaps Desk. By transferring its USD ISDAFIX risk to the
+Swaps Desk, the Options Desk also provided the Swaps Desk an opportunity to benefit by
+influencing the USD ISDAFIX benchmark when trading out of the ISDAFIX Swap. For
+example, if the Swaps Desk knew that it would be receiving the fixed rate on the ISDAFIX
+Swap at 11:00 a.m., the Swaps Desk could benefit by pushing the rate higher while trading out
+
+6
+
+ 
+of the ISDAFIX Swap. Conversely, if the Swaps Desk knew that it would be paying the fixed
+rate on the ISDAFIX Swap at 11:00 a.m., the Swaps Desk could benefit by pushing the rate
+lower while trading out of the ISDAFIX Swap.
+
+a. Options Desk Swaption Cash Settlements
+
+During the Relevant Period, Citibank’s Options Desk, in coordination with the Swaps
+Desk, attempted to manipulate USD ISDAFTX in order to benefit derivatives positions, by
+increasing their payments from counterparties or decreasing payments to counterparties in
+cash-settled interest rate swaptions. A so-called “European swaption,” one of the primary
+products traded by the Options Desk, is an option to enter into a plain-vanilla fixed-for-
+floating interest rate swap, which must be exercised at 11:00 a.m. on a specified “expiry” date
+in the future at a pre-agreed fixed “strike” rate. A swaption can be exercised by “physical”
+delivery of the underlying swap or by cash settlement. A swaption that expired “‘in-the-
+money” would usually physically settle. Swaption cash settlements denominated in U.S.
+Dollars are typically calculated based on USD ISDAFIX rates according to a formula which
+measures the difference between the relevant USD ISDAFIX rate on the expiry date and the
+strike rate of the swaption.
+
+Attempts to move USD ISDAFIX rates in Citibank’s favor, if successful, would hurt
+the Bank’s counterparties in cash settlement, as well as any other market participants who had
+positions referencing USD ISDAFIX on a given day that were directionally equivalent to
+Citibank’s counterparty in the same maturity. A small movement of the benchmark higher or
+lower (e.g., one basis point or less) could result in meaningful gain for the Bank on its
+swaption cash settlements,
+
+b. Exotics Desk Curve Options
+
+During the Relevant Period, Citibank’s Exotics Desk, in coordination with other Citibank
+desks including the Swaps Desk, attempted to manipulate USD ISDAFIX in order to benefit
+certain derivatives positions (most commonly, curve options) by increasing payments from
+counterparties, or decreasing payments to counterparties, in connection with periodic cash
+payments, also referred to as option “resets.” With respect to curve options, reset payments are
+generally calculated as the difference between (1) the spread between two tenors as set by the
+USD ISDAFIX benchmark (the “USD ISDAFIX tenor-spread differential”) and (2) the pre-
+agreed strike-spread of the option. The reset payment by the option writer to the option holder of
+a linear “‘cap” curve option increases as the USD ISDAFIX tenor-spread differential exceeds the
+pre-agreed strike. Conversely, the payment by the option writer to the option holder of a linear |
+“floor” curve option increases to the extent that the USD ISDAFIX tenor-spread differential is
+less than the pre-agreed strike rate. For “digital” (i.e., non-linear) options, the option holder
+receives from the option writer a pre-determined payout if the USD ISDAFIX tenor-spread
+differential exceeds the pre-agreed strike in the case of a cap, or if the USD ISDAFIX tenor-
+spread differential is less than the pre-agreed strike in the case of a floor. However, unlike linear
+curve options, for a digital option, the payment amount is fixed and does not depend on the
+degree to which the USD ISDAFIX tenor-spread differential deviates from the pre-agreed strike.
+
+ 
+Attempts on reset days to move the spread between the relevant USD ISDAFIX rates in
+Citibank’s favor, if successful, would hurt the Bank’s counterparties as well as any other market
+participants who had positions in the same spread in a direction consistent with Citibank’s
+counterparty (as well as potentially other market participants who had positions linked to the
+individual tenors comprising the USD ISDAFIX tenor-spread).
+
+4, Means Employed in Attempts to Manipulate USD ISDAFIX
+
+Certain Citibank options, exotics, and/or swaps traders understood and employed two
+primary means in their attempts to manipulate USD ISDAFIX rates:
+
+® First, by directing the relevant Citibank Swaps Desk’s middle office employees
+responsible for making USD ISDAFIX submissions (the “Submitter” or
+Submitters”) to submit rates and spreads higher or lower than the Submitters
+otherwise would, certain Citibank traders attempted to affect the final published
+USD ISDAFIX rates and spreads to benefit the Bank’s derivatives positions. One of
+Citibank’s swaps traders, Swaps Trader 1, explained to another trader that “my
+middle office [makes Citibank’s submissions] and unless we have an interest on any
+particular day they pass [what Swaps Broker’s] mid reflects.”
+
+® Second, certain Citibank traders bid, offered, and/or executed swap spreads and/or
+U.S. Treasuries, (at times in one or both of these products) at or around 11:00 a.m. to
+affect rates on the 19901 screen and thereby increase or decrease Swaps Broker’s
+reference rates and spreads and influence the final published USD ISDAFIX.
+
+Whichever the means employed, the goal was the same — to move USD ISDAFIX in the
+direction that favored Citibank on specific trading positions at the expense of its
+counterparties,
+
+a. Citibank’s False, Misleading, or Knowingly Inaccurate Submissions
+
+Citibank attempted to manipulate USD ISDAFIX by making false, misleading, or
+knowingly inaccurate submissions to Swaps Broker concerning swap rates and spreads.
+
+On multiple occasions during the Relevant Period, Citibank submitted a rate or spread
+higher or lower than Swaps Broker’s reference rates or spreads, On these occasions, certain
+traders on the Options or Exotics Desks directed the relevant Submitters to submit a rate or
+spread higher or lower than the reference rate or spread disseminated by Swaps Broker to panel
+banks. Certain traders made requests to change particular submissions by several means,
+including by: (i) walking over to the Submitters and making requests to change a particular tenor
+verbally by asking, for example, to “bump it up” or “bump it down”; (ii) providing a Submitter
+with a piece of paper with a note indicating a tenor and rate; and (iii) accessing a Submitter’s
+computer directly and/or instructing the Submitter to click on toggle buttons to make changes to
+the reference rate. The Submitters typically did not deviate from the reference rates and spreads
+provided by Swaps Broker unless they were specifically directed to do so for a particular tenor
+by a trader from the Options or Exotics Desks. Moreover, during the Relevant Period, Citibank
+
+ 
+did not itself maintain any books and records reflecting the changed submissions or otherwise
+have any controls around the submission process,
+
+Although the options and exotics traders typically approached the Submitters in person
+when directing them to change the Bank’s submissions, on at least one occasion, an options
+trader directed by email that a Submitter change the Bank’s submission, At 11:07 a.m. on
+August 15, 2008, Options Trader 1 emailed a Submitter: “What is the 2y ISDAFIX you are
+seeing|?|” When the Submitter responded “3,381,” Options Trader 1 replied, “[c]an you send
+3.383.” On that same day, Citibank had a cash settlement in a 2-year swaption with a notional
+value of $250 million, and Citibank’s payment to its counterparty in connection with that cash
+settlement would have decreased to the extent the 2-year USD ISDAFIX benchmark rate set
+higher.
+
+Citibank’s changes in its USD ISDAFIX submissions were not made to reflect the mean
+of where Citibank would itself bid or offer the swap in the relevant maturity but rather, the
+changes were made to benefit certain derivatives positions held by Citibank. Indeed, Citibank
+traders requested submissions that deviated from Swaps Broker’s reference rates and spreads on
+certain days when they had an interest (i.e., if Citibank had a cash-settling swaption, curve
+option reset, or other derivatives position tied to USD ISDAFIX). As noted, when asked by
+another trader “who’s submitting the isdafix numbers these days,” Swaps Trader | responded
+that Citibank’s practice was as follows: “believe my middle office does and unless we have an
+interest on any particular day they pass [what Swaps Broker’s] mid reflects.”” Moreover, a
+senior trader on the Options Desk, Options Trader 2, testified under oath that he was not aware
+of any legitimate reason for a trader to make such changes. Nevertheless, Options Trader 2, as
+well as other of the Bank’s options traders, directed the Submitters to submit lower or higher
+rates and spreads in an effort to benefit certain of Citibank’s derivatives trading positions, and
+the Submitters made the requested changes to the submissions,
+
+b. Citibank’s Improper Trading Conduct
+
+In addition to making false submissions in an effort to influence the final setting of USD
+ISDAFIX benchmarks, Citibank on multiple occasions attempted to manipulate USD ISDAFIX
+by bidding, offering, or trading swap spreads and U.S. Treasuries at and around Swaps Broker’s
+11:00 a.m. snapshot, in a manner designed to move USD ISDAFIX rates in a direction that
+would benefit the Bank.’ Moreover, the false submissions by Citibank’s traders, among other
+factors, evidenced an intent to manipulate the USD ISDAFIX benchmark via trading.
+
+Citibank’s traders knew that trading swap spreads and U.S. Treasuries at or around
+Swaps Broker’s 11:00 a.m. snapshot could impact where the USD ISDAFIX benchmark set.
+
+ 
+
+” Citibank traders referred to trades that they made around 11:00 a.m, for risk management purposes as hedging.
+When swaptions cash-settled, changes in the Options Desk’s risk position could potentially require traders to
+execute hedging trades, depending on a variety of factors, including the risk profile of other positions and whether
+the desk wanted to take on the risk resulting from a cash settlement at expiry. Likewise, with curve option resets and
+settlements, and ISDAFIX Swaps, the Exotics and Swaps Desks took on risk, which again, depending on a variety
+of factors, the desks might have reason to hedge, Irrespective of whether the Options, Exotics, or Swaps Desk
+traders had an interest in hedging, the traders engaged in attempted manipulation when they placed bids and offers
+or executed trades around 11:00 a.m. with the improper intent to move the USD ISDAFIX rate in Citibank’s favor.
+
+9
+
+ 
+One of the Bank’s options traders, Options Trader 3, testified under oath that there was a
+general understanding among traders on the Options Desk that trading swap spreads could
+influence the USD ISDAFIX benchmark rate. Moreover, certain Citibank traders openly
+discussed the fact that market participants attempted to influence the USD ISDAFIX benchmark
+by trading at or around 11:00 a.m. For example, in a June 2007 email, in response to the
+question of whether “there [is] a bit of gaming that goes on with the set,” one of the Bank’s
+swaps traders, Swaps Trader 2, stated that “people are always messing with the screen at that
+time [7.e., at 11:00 a.m.].” In a November 2007 instant message, when Swaps Trader 1
+commented about market illiquidity, another Citibank trader stated “[I] suspect it’s because of
+Isdafix ....[T]hat’s when people start scrooing [sic] around with things.” In another instant
+message, Swaps Trader | told a Citibank trader that “we can help u in the screens if u need” in
+connection with a “big” curve option reset, and later in that same message stated to another
+Citibank trader that “on a daily basis we see dealers pushing the curve at 11am set and it is
+obvious that it is big curve options settling.”
+
+Citibank traders also talked about the fact that traders generally avoided trading through
+Swaps Broker unless they wanted to move the market. For example, Swaps Trader | stated in a
+2010 instant message, “‘that[’s] a weird one. [I] can see going to [Swaps Broker] when u need
+the screen up or down but that one didnt [sic] move the screen.” Similarly, Options Trader 3
+stated in an October 2011 instant message that “people don [sic] want to trade [at Swaps
+Broker] because it moves [Swaps Broker’s] screen,” to which another trader responded: “hmm
+so why does [Options Trader 2] go there?” In a 2008 instant message, one of the Bank’s exotics
+traders, Exotics Trader 1, disparaged Swaps Broker as “icrap” after another trader said that “I
+genu[ine]ely think people are stupid and look at [Swaps Broker’s] page.”
+
+Moreover, Citibank had a general practice of encouraging traders to keep order flow
+internal, i.e., to trade swaps and U.S. Treasuries internally through Citibank’s Swaps and
+Treasuries Desks rather than externally through brokers, including Swaps Broker, Nevertheless,
+when Citibank had a derivatives position that could benefit from influencing the USD ISDAFIX,
+the Bank’s traders at times traded through Swaps Broker rather than internally or through other
+brokers. For example, in January 2009, on a day that Citibank was cash settling a 10-year $200
+million swaption (and in connection with which Citibank would receive a higher payment if the
+10-year USD ISDAFIX settled lower), Options Trader 2 sent an instant message to Swaps Trader
+1 stating: “I HAVE A CASH SETTLE AT 11 TODAY SOI WILL NEED TO BE IN [Swaps
+Broker] BEFOREHAND AND WILL NEED TO SELL 10 YR SPREADS.” Selling 10-year
+swap spreads at 11:00 a.m. through Swaps Broker would tend to drive the USD ISDAFIX lower,
+whereas keeping that order flow internal would not affect the benchmark.
+
+Citibank’s efforts to move Swaps Broker’s screen was openly discussed among certain
+Citibank traders, including the then head of the Bank’s North American G10 interest rates
+trading (“Head of G10 Rates 1”), who told Options Trader 2 that he, Options Trader 2, should
+trade U.S. Treasuries through other traders at the Bank rather than directly through Swaps Broker
+and that “[i]f they can’t do the job I would like to know. If you need to move the screen for a
+pricing just let them know.” (Emphasis added.)
+
+10
+
+ 
+Traders also talked about pushing swap spreads and openly boasted about how easy it
+
+was to influence the USD ISDAFIX benchmark by trading swap spreads and/or U.S. Treasuries
+through Swaps Broker. For example:
+
+On March 6, 2008, Exotics Trader | stated in separate instant messages to other market
+participants that “[I] moved the screen btw” and “[I] moved the screen to 183 on
+2810s...[/Swaps Trader 1] is pretty good at it,” and ‘“[I] push the 2s10s swap on the
+sereen to 183.4, very proud of myself.” (Emphasis added.)
+
+On April 9, 2008, Exotics Trader 1 sent an instant message to Swaps Trader 1: “I have
+an isdafix on 10s2s today ... you think we can push the 2y spread lower before
+11? [I]s the market much tougher to push these days?” (Emphasis added.) Swaps
+Trader | replied: “ONLY PROBLEM IS MOST GUYS... ARE SHORT FRONT
+END SPREADS SO YOU MAY HAVE RESISTANCE GETTING [it] DOWN. WE
+CAN DO OUR BEST THOUGH.”
+
+On October 23, 2008, Exotics Trader 1 notified Swaps Trader 1| that “[I] have a reset on
+10s30s [referring to a digital curve option] today at 11. [I] might need you guys to help
+me put 10s30s to reset below 0.” (Emphasis added.) In a later instant message, Exotics
+Trader 1 told Swaps Trader | that “looks like [T] don’t even have to push!” Swaps Trader
+1 agreed, noting that two other dealers were “pushing it for you...nice.”
+
+On October 28, 2008, Exotics Trader 1 boasted that “[I] actually push the isdafixing on
+the days when it’s close...surprising[ly] easy to push! [I] think last week, [I] pushed it
+3bps from 10:55 to 11:05 :)” (Emphasis added.)
+
+On November 18, 2008, Exotics Trader 1 indicated that he “sold 60[ ]bonds” (referring to
+Treasuries) because he was “pushing out the isdafixing” and that he had “‘a big reset
+today on a digital.” (Emphasis added.)
+
+In a September 17, 2010 instant message conversation with a junior sales analyst,
+Options Trader 3 explained a series of transactions in which the Options Desk (in
+connection with large cash-settled swaptions) transferred its risk to the Swaps Desk at
+ISDAFIX, thereby giving the Swaps Desk an opportunity to benefit by pushing up the
+benchmark at or around 11:00 a.m. As Options Trader 3 explained, the Options Desk
+“swap settled” with the Swaps Desk, and Swaps Trader 2 “took the risk... and made
+[money].” After Options Trader 3 explained the transactions, the analyst wrote back that
+Swaps Trader 2 “knows that hes [sic] gonna get long... @ 11[:00 a.m.]...so he can
+pay to cut his risk ... and ideally pu sh [sic] the mkt up,” to which Options Trader 3
+commented “u should pay for my lessons :-).”
+
+Although certain Citibank traders believed that the best way to influence USD ISDAFIX
+
+was to actually trade swap spreads and U.S. Treasuries,® the traders also understood that the
+
+ 
+
+* Indeed, Swaps Trader | told another Citibank trader that “the best way to influence the set is to hit or lift 2s or
+10s on spread [and that] it will be unlikely to have liquidity on 11am set.” (Emphasis added.)
+
+1]
+
+ 
+Bank could achieve the same goal — and at a lower cost — by bidding and offering or by
+transacting in small sizes just before 11:00 a.m. For example, when Swaps Trader 2 observed
+that exotics options traders at other banks “pushed the 30y spread down like crazy,” he told
+others that “we started bidding ... in 30y spread and pushed it back up 4 bps w/out trading
+anything,” (Emphasis added.) Likewise, Swaps Trader 2 expressed in another communication
+that he could move the benchmark with minimal trading, stating that “it’s so illiquid. [A]t lL lam,
+we moved spreads 2bps on 50mm only.” (Emphasis added.)
+
+In the summer of 2010, certain Citibank traders circulated by email among themselves a
+news article reporting on the potential manipulation of USD ISDAFIX benchmarks by trading at
+11:00 a.m. Among other things, that article quoted one broker as saying that “[e]veryone plays
+with the number at 11, and it can be bedlam.” The article was forwarded to, among others, the
+head of the Bank’s North American G10 interest rates trading (“Head of G10 Rates 2”) as well
+as to Swaps Trader 1. Swaps Trader | in turn forwarded the article in an email to Swaps Trader
+2 as well as to Citibank’s broker at Swaps Broker, adding the comment “GAME OVER.”
+
+Swaps Trader 2 forwarded the article to others at Citibank, with his own comment, “ouch... .”
+When asked by one recipient, “oh jesus do I want to read this?,” Swaps Trader 2 commented
+that the article was “all about | lam isda fix.”
+
+Notwithstanding the summer 2010 news article (and Citibank traders’ own criticism of
+Swaps Broker’s screen discussed above), Citibank nevertheless preferred to maintain the status
+quo for how the USD ISDAFIX benchmarks were set because as a dealer with access to Swaps
+Broker, the system worked to their advantage. In a December 2010 email, the ISDA Rates
+Steering Committee, in response to the summer 2010 article “criticizing page 19901,” sought
+industry feedback and commented that “[t]he feedback from [Swaps Broker] is that the market
+values the current rates/spreads and the way in which they are generated [and] so believe
+changing the process would be a bad idea. Firms are asked to revert to ISDA... with any
+thoughts or opinions on this.” (Emphasis omitted.) The Head of G10 Rates 2 sent ISDA’s request
+for feedback to Options Trader 2 and Swaps Trader | with the note that “this probably effects
+[sic] you [7.e., Options Trader 2] more than [Swaps Trader 1]. [C]an you guys come up with a
+firm view to send into ISDA?” Options Trader 2 responded that “[w]e have not had any
+problems with the current process for setting the rates... . If anyone suggests a change that they
+are considering we would like [to] comment on that change.”
+
+5. Additional Examples of Attempts To Manipulate ISDAFTIX to Benefit
+Citibank’s Derivatives Trading Positions
+
+During the Relevant Period, Citibank’s traders used various means in attempts to
+move USD ISDAFIX higher or lower to benefit their derivatives trading positions. Following
+are additional specific examples of Citibank traders relating to their attempts to manipulate
+USD ISDAFIX to benefit cash-settled swaptions or curve option positions,
+
+e On January 16, 2007, Citibank had a cash settlement on a 1-year swaption with a notional
+value of $1 billion; Citibank’s payment to its counterparty would be lower if the 1-year
+USD ISDAFIX set lower. That same day, Options Trader 2 called Swaps Broker and
+asked: “one-year rate, you guys publish, what affects that... how do you guys get that?
+
+12
+
+ 
+Do you just use the strip [7.e., Eurodollar futures] for that?,” and Citibank submitted its 1-
+year rate lower than the reference rate that Swaps Broker disseminated to panel banks.
+
+On December 7, 2007, Citibank had cash settlements on two 10-year swaptions with a
+combined notional value of over $160 million; Citibank would receive higher payments
+from its counterparties if the USD ISDAFIX benchmark set lower. At approximately
+10:54 a.m., one broker at Swaps Broker sent an instant message to another broker at
+Swaps Broker advising that Options Trader 2 is “SAYING HE HAS INTEREST I [sic]
+THE SETTING TODAY IN 10’°S WANTS THEM LOW.” On that day, Citibank bought
+10-year U.S. Treasuries through Swaps Broker before 11 a.m. and (through Options
+Trader 2) sold swap spreads through Swaps Broker, both of which would have had a
+downward impact on where the 10-year rate set. Citibank also submitted its 10-year rate
+lower than the reference rate that Swaps Broker disseminated to panel banks.
+
+On June 6, 2008, Exotics Trader | had a curve option resetting against USD ISDAFIX.
+Exotics Trader | sent an instant message to Swaps Trader 1 before 11 a.m., stating that:
+[I] have 125K 01 10s2s fixing [and] might need your help on the spreads. [I]s it easy to
+push these days?” Swaps Trader 1 replied: “FEELS LICE IT NOW BUT YOU NEVER
+KNOW WHAT OTHERS HAVE AROUND THE FIXINGS. I WILL BE HAPPY TO
+HELP.” Exotics Trader 1 further instructed, “when it’s close [to] 11am, [I] might try to
+lift the 2y spreads higher.[ ]Thanks.” Citibank sold 2-year U.S. Treasuries through Swaps
+Broker before 11 a.m. and bought 2-year swap spreads through Swaps Broker, both of
+which would have had an upward impact on where the 2-year rate set. Citibank also
+
+submitted its 2-year rate higher than the rate that Swaps Broker disseminated to panel
+banks.
+
+As noted above, on November 18, 2008, Exotics Trader 1 stated to a trader at another
+firm that he, Exotics Trader 1, “sold 60[ ]bonds” because he was “pushing out the
+isdafixing” and that he had “a big reset today on a digital.” In the minutes leading up to
+11:00 a.m., Citibank sold approximately 55 30-year U.S. Treasuries through Swaps
+Broker, Citibank also submitted its 30-year rate higher than the rate that Swaps Broker
+disseminated to panel banks,
+
+On January 12, 2009, Citibank had a cash settlement on a 10-year swaption with a
+notional value of $200 million; Citibank would receive a higher payment from its
+counterparty if the 10-year USD ISDAFIX benchmark set lower. At approximately
+10:33 a.m., Options Trader 2 notified Swaps Trader 1 that he, Options Trader 2, had a
+cash settlement “AT 11 TODAY SO I WILL NEED TO BE IN [Swaps Broker]
+BEFOREHAND AND WILL NEED TO SELL 10 YR SPREADS,” On that day, the
+Bank (including Options Trader 2) bought 10-year U.S. Treasuries before 11 a.m. and
+sold 10-year swap spreads through Swaps Broker, both of which would have had a
+downward impact on where the 10-year rate set. Citibank also submitted its 10-year rate
+lower than the reference rate that Swaps Broker disseminated to panel banks,
+
+On January 29, 2009, Citibank had a cash settlement on a 10-year swaption with a
+notional value of $200 million; Citibank would receive a higher payment from its
+
+13
+
+ 
+counterparty if the 10-year USD ISDAFIX benchmark set higher. At approximately
+10:37 a.m., one of the options brokers at Swaps Broker told another broker at Swaps
+Broker that “[Options Trader 2] at citi has an 11 oclock [sic] in 10yrs. [H]e is a payer
+and i dont [sic] think he has alot [sic] of ammo.” Approximately six minutes later,
+another individual at Swaps Broker relayed to another individual at Swaps Broker that
+“citi [was] going to buy 10 up @ 1lam.” Citibank sold 10-year U.S. Treasuries through
+Swaps Broker before 11 a.m. and (through Options Trader 2) bought 10-year swap
+spreads through Swaps Broker, both of which would have had an upward impact on
+where the 10-year rate set. Citibank also submitted its 10-year rate higher than the rate
+that Swaps Broker disseminated to panel banks.
+
+e On February 9, 2009, Citibank had a cash settlement on two 10-year swaptions with a
+combined notional value of $550 million; Citibank would receive higher payments from
+its counterparties if the 10-year USD ISDAFIX benchmark set higher, On the morning of
+February 9, 2009, Options Trader 2 sent an instant message to Swaps Trader 2, stating
+that “I AM GOING TO HAVE A CASH SETTLE LATER TODAY -- WILL GET ON
+W/ [a broker at Swaps Broker] ABOUT IT IF THAT IS OK.” Swaps Trader 2 replied,
+“sure, what do you need to do?” and Options Trader 2 responded, “I WILL BE PAYING
+10S.” Citibank sold 10-year U.S. Treasuries through Swaps Broker before 11 a.m. and
+(through Options Trader 2) bought 10-year swap spreads through Swaps Broker, both of
+which would have had an upward impact on where the 10-year rate set. Citibank also
+submitted its 10-year rate higher than the rate that Swaps Broker disseminated to panel
+banks.
+
+IV.
+LEGAL DISCUSSION
+A, Jurisdiction
+
+As set forth below, Sections 6(c), 6(d), and 9(a)(2) of the Act have long prohibited
+attempted manipulation of the prices of, or false reporting in regard to, aay commodity in
+interstate commerce or for future delivery on or subject to the rules of any registered entity. 7
+U.S.C. §§ 9, 13b, 13(a)(2) (2006). An interest rate benchmark, such as USD ISDAFIX, is a
+commodity, see Sections 1a(9) and (19) of the Act, 7 U.S.C. §§ 1a(9), (19) (2012); see also 7
+U.S.C. §§ 1a(4), (13) (2006), and therefore may be subject to illegal attempted manipulation,
+whatever the manipulative means may be, or false reporting.
+
+Here, Citibank’s attempted manipulation is also proscribed by the Act for the separate
+reason that the conduct involved swaps executed or traded on a Swaps Broker desk that operated
+in practice as a “trading facility” under the Act, see 7 U.S.C. § 1a(34) (2006) (defining trading
+facility); 7 U.S.C. §§ 2(d)(1)(B), 2(g)(3) (2006) (limiting jurisdictional exclusions to
+agreements, contracts, or transactions not executed or traded on a trading facility),
+
+Lastly, as a result of the Dodd-Frank Wall Street Reform and Consumer Protection Act of
+2010 (“Dodd-Frank Act”), the Commission also has authority to initiate proceedings and impose
+sanctions for a broader range of manipulative conduct and false reporting, including in
+
+14
+
+ 
+connection with any swap. See Sections 6(c)(1), 6(c)(1)(A), 6(c)(3), 6(d), and 9(a)(2) of the Act,
+7 ULS.C. §§ 9(1), 9(1)(A), 93), 13b, 13(a)(2) (2012), and Regulations 180.1 and 180.2, 17
+C.F.R. §§ 180.1, 180.2 (2015), The Relevant Period encompasses conduct that occurred after
+the passage and effective date of the Dodd-Frank Act.
+
+B. Respondent Attempted to Manipulate USD ISDAFIX
+
+Section 9(a)(2) of the Act makes it unlawful for “[a]ny person to manipulate or attempt
+to manipulate the price of any commodity in interstate commerce, or for future delivery on or
+subject to the rules of any registered entity.” 7 U.S.C. § 13(a)(2) (2006). With respect to conduct
+on or after July 16, 2011, amended Section 9(a)(2) of the Act also makes it unlawful to
+manipulate or attempt to manipulate the price of “any swap.” 7 U.S.C. § 13(a)(2) (2012).
+
+For conduct prior to August 15, 2011, Sections 6(c) and 6(d) of the Act authorize the
+Commission to serve a complaint and provide for the imposition of, among other things, civil
+monetary penalties and cease and desist orders if the Commission “has reason to believe that
+any person... has manipulated or attempted to manipulate the market price of any commodity,
+in interstate commerce, or for future delivery on or subject to the rules of any registered
+entity, ... or otherwise is violating or has violated any of the provisions of [the] Act.” 7 U.S.C,
+§§ 9, 13b (2006).
+
+For conduct occurring on or after August 15, 2011, the Commission is authorized to
+serve a complaint and impose penalties and orders with regard to attempted manipulation in
+violations of the broader amended provisions of Sections 6(c)(1) and 6(c)(3) of the Act and the
+Regulations implementing those provisions. See Sections 6(c)(4)(A) and 6(d) of the Act, 7
+ULS.C. §§ 9(4)(A), 13b (2012).
+
+Sections 6(c)(1) and 6(c)(1)(A) of the Act prohibit the use or attempted use of any
+manipulative device, including false reporting, in connection with any swap or contract of sale of
+any commodity in interstate commerce, or for future delivery, 7 U.S.C. §§ 9(1), 9(1)(A) (2012),
+and Regulation 180.1(a), 17 C.F.R. § 180.1(a) (2015), makes it “unlawful... , directly or
+indirectly, in connection with any swap, or contract of sale of any commodity in interstate
+commerce, or contract for future delivery on or subject to the rules of any registered entity, to...
+(1) [uJse.... or attempt to use... any manipulative device; (2) [m]ake, or attempt to make, any
+untrue or misleading statement of a material fact or to omit to state a material fact necessary in
+order to make the statements made not untrue or misleading; (3) [e]ngage, or attempt to engage,
+in any act, practice, or course of business, which operates or would operate as a fraud or deceit
+upon any person; or, (4) [d]eliver or cause to be delivered, or attempt to deliver or cause to be
+delivered, for transmission through the mails or interstate commerce, .. . a false or misleading or
+inaccurate report concerning ... market information or conditions that affect or tend to affect the
+price of any commodity in interstate commerce.”
+
+Section 6(c)(3) of the Act prohibits the attempted manipulation of the price of any
+commodity in interstate commerce, 7 U.S.C, § 9(3) (2012), and Commission Regulation 180.2,
+17 C.F_LR. § 180.2 (2015), makes it “unlawful ... directly or indirectly, to... attempt to
+manipulate the price of any swap, or of any commodity in interstate commerce, or for future
+delivery on or subject to the rules of any registered entity.”
+
+15
+
+ 
+To prove attempted manipulation under each of these provisions, the following two
+elements are required: (1) an intent to affect market price, and (2) an overt act in furtherance of
+that intent. See In re Hohenberg Bros. Co. [1975-77 Transfer Binder] Comm. Fut. L. Rep.
+(CCH) ¢ 20,271, at 21,477 (CFTC Feb. 18, 1977). To prove the intent element of attempted
+manipulation, the respondent must have “acted (or failed to act) with the purpose or conscious
+object of causing or effecting a price or price trend in the market that did not reflect the
+legitimate forces of supply and demand... .” In re Ind. Farm Bureau Coop. Ass’n, [1982-1984
+Transfer Binder] Comm. Fut. L. Rep. (CCH) ¥ 21,796, at 27,283 (CFTC Dec. 17, 1982).
+
+“TW hile knowledge of relevant market conditions is probative of intent, it is not necessary to
+prove that the accused knew to any particular degree of certainty that his actions would create
+an artificial price. It is enough to present evidence from which it may reasonably be inferred that
+the accused ‘consciously desire[d] that result, whatever the likelihood of that result happening
+from his conduct.’” Jd. (quoting United States v. U.S. Gypsum Co., 438 U.S. 442, 445 (1978)).
+A profit motive may also be evidence of intent, although profit motive is not a necessary
+element of an attempted manipulation. See In re DiPlacido [2007-2009 Transfer Binder] Comm.
+Fut. L. Rep. (CCH) 4 30,970, at 62,484 (CFTC Nov. 5, 2008) (citing In re Hohenberg Bros. Co.,
+[19751977 Transfer Binder] Comm. Fut. L. Rep. (CCH) at 21,478)), aff'd sub. nom. DiPlacido
+v. CFTC, 364 F. App’x 657 (2d Cir. 2009). It is also not necessary that there be an actual effect
+on price. See CFTC v. Amaranth Advisors, L.L.C., 554 F. Supp. 2d 523, 533 (S.D.N.Y. 2008).
+
+1. Respondent Attempted to Manipulate USD ISDAFIX Through False,
+Misleading, or Knowingly Inaccurate Submissions
+
+As evidenced by testimony of Citibank traders and others, Citibank’s USD ISDAFIX
+submissions themselves, and certain electronic communications, certain Citibank traders
+specifically intended to affect the rate at which USD ISDAFIX was set by making false,
+misleading, or knowingly inaccurate submissions to Swaps Broker for inclusion in the
+calculation of the daily rates, During the Relevant Period, Citibank submitted market
+information, specifically rates that were supposed to reflect the mean of where Citibank would
+itself offer and bid a USD denominated swap in the relevant maturity to an acknowledged
+dealer of good credit, to Swaps Broker that were used as part of the process for determining the
+daily USD ISDAFIX rate for the various maturities. However, rather than submitting rates and
+spreads that reflected Citibank’s honest view of the true costs of entering into a standard USD
+interest-rate swap in particular maturities, Citibank knowingly made submissions with the
+intent to move USD ISDAFIX rates higher or lower in order to benefit Citibank’s trading
+positions, Through its false, misleading, or knowingly inaccurate submissions, Citibank
+attempted to manipulate USD ISDAFIX for numerous tenors.
+
+The Citibank traders’ oral and written requests for certain rates to be submitted which
+would benefit their trading positions, and the submissions resulting from those requests,
+constituted overt acts in furtherance of the traders’ intent to affect USD ISDAFIX. By doing so,
+the Citibank traders engaged in acts of attempted manipulation in violations of Sections 6(c), 6(d),
+and 9(a)(2) of the Act, 7 U.S.C, §§ 9, 13b, 13(a)(2) (2006). Additionally, with respect to conduct
+occurring on or after August 15, 2011, the Citibank traders engaged in acts of attempted
+manipulation in violations of Section 6(c)(3), 7 U.S.C. § 9(3) (2012), and Regulation 180.2, 17
+C.F.R. § 180.2 (2015), and they used or attempted to use a manipulative device in violations of
+
+16
+
+ 
+Sections 6(c)(1) and 6(c)(I)(A), 7 U.S.C. $§ 9(1), 9(1)(A) (2012), and Regulation 180.1(a), 17
+C.F.R. § 180.1(a) (2015),
+
+2. Respondent Attempted to Manipulate USD ISDAFIX Through
+Improper Trading Conduct
+
+As evidenced by the communications among certain Citibank traders and between
+certain Citibank traders and their brokers, as well as certain trading conduct, Citibank traders
+specifically intended to manipulate USD ISDAFIX by placing bids or offers or executing trades
+in the moments leading into 11:00 a.m. designed in a manner, including timing and pricing, to
+increase or decrease swap spreads and U.S. Treasuries at 11:00 a.m., with the intent to affect
+levels reported on the 19901 screen and USD ISDAFIX fixings. Moreover, the evidence reflects
+that certain traders intended such trading conduct to affect the fixings in order to benefit
+Citibank’s trading positions against the Bank’s counterparties.
+
+The Citibank traders’ bids, offers, and executed trades in the moments leading into 11:00
+a.m., which were intended to affect USD ISDAFITX, as well as the traders’ communications with
+each other and with their Swaps Broker brokers to plan and execute this trading conduct,
+constituted overt acts in furtherance of their intent to affect USD ISDAFIX. The Citibank traders
+thereby engaged in acts of attempted manipulation in violations of Sections 6(c), 6(d), and 9(a)(2)
+of the Act, 7 U.S.C, §§ 9, 13b, 13(a)(2) (2006). Additionally, with respect to conduct occurring
+on or after August 15, 2011, Citibank engaged in acts of attempted manipulation in violations of
+Section 6(c)(3), 7 U.S.C. § 9(3) (2012), and Regulation 180.2, 17 C.F.R.§ 180.2 (2015), and it
+used or attempted to use a manipulative device in violations of Sections 6(c)(1) and 6(c)(1)(A) of
+the Act, 7 U.S.C. §§ 9(1), 9(1)(A) (2012), and Regulation 180.1(a), 17 C.F.R. § 180.1(a) (2015).
+
+C. Respondent Made False, Misleading, or Knowingly Inaccurate Reports
+Concerning USD ISDAFIX in violations of Section 9(a)(2) of the Act
+
+In addition to the prohibition on attempted manipulation contained in Section 9(a)(2) of
+the Act, that provision also makes it unlawful for any person “knowingly to deliver or cause to
+be delivered for transmission through the mails or interstate commerce by telegraph, telephone,
+wireless, or other means of communication false or misleading or knowingly inaccurate reports
+concerning crop or market information or conditions that affect or tend to affect the price of
+any commodity in interstate commerce.” 7 U.S.C. § 13(a)(2) (2006); see also United States v.
+Brooks, 681 F.3d 678 (Sth Cir. 2012); United States v, Valencia, 394 F.3d 352 (Sth Cir, 2004);
+CFTC vy. Johnson, 408 F. Supp. 2d 259, 267 (S.D, Tex. 2005).
+
+During the Relevant Period, Citibank, through electronic and telephonic transmission of
+information to Swaps Broker, on multiple occasions knowingly delivered or caused to be
+delivered the Bank’s USD ISDAFTX submissions through the mails or interstate commerce.
+Citibank’s submissions were also delivered through the mails or interstate commerce through
+daily dissemination and publication globally, including throughout the United States, of the
+official published rates for USD ISDAFIX, as determined by averaging the submissions of
+Citibank and other panel banks after “topping and tailing.” Data on submissions themselves were
+also disseminated, Citibank’s daily USD ISDAFIX submissions contained market information
+
+17
+
+ 
+concerning the mean of where Citibank would itself offer and bid a swap in the relevant maturity
+to an acknowledged dealer of good credit in the swap market absent intent to manipulate USD
+ISDAFIX. Such market information affected or tended to affect the prices of commodities in
+interstate commerce, including the daily fixing rates for USD ISDAFIX, as well as the on-
+exchange interest rate swap futures and other financial instruments which relied upon those rates.
+
+During the Relevant Period, Citibank’s USD ISDAFIX submissions on multiple
+occasions constituted false, misleading, or knowingly inaccurate reports because they purported
+to reflect Citibank’s honest view of the true costs of entering into a standard fixed-for-floating
+interest rate swap in particular tenors, but in fact on multiple occasions reflected traders’ desire
+to move USD ISDAFIX higher or lower in order to benefit their positions.
+
+By using these impermissible factors in making its USD ISDAFIX submissions and
+without disclosing that it based its submissions on these impermissible factors, Citibank
+conveyed false, misleading, or knowingly inaccurate information that the rates it submitted were
+based on the prices at which Citibank would offer and bid swaps to an acknowledged dealer of
+good credit in the swaps market absent intent to manipulate USD ISDAFIX. Moreover, certain
+Citibank traders knew that Citibank’s USD ISDAFIX submissions contained false, misleading,
+or knowingly inaccurate information, By such conduct, Respondent violated Section 9(a)(2) of
+the Act, 7 U.S.C. § 13(a)(2) (2006).
+
+D. Respondent Is Liable for the Acts of Its Agents
+
+Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2012), and Regulation 1,2, 17
+C.F.R. § 1.2 (2015), provide that “[t]he act, omission, or failure of any official, agent, or other
+person acting for any individual, association, partnership, corporation, or trust within the scope
+of his employment or office shall be deemed the act, omission, or failure of such individual,
+association, partnership, corporation, or trust.” Pursuant to Section 2(a)(1)(B) of the Act and
+Commission Regulation 1.2, strict liability is imposed on principals for the actions of their
+agents. See, e.g., Rosenthal & Co. v. CFTC, 802 F.2d 963, 966 (7th Cir. 1986); Dohmen-
+Ramirez & Wellington Advisory, Inc. v. CFTC, 837 F.2d 847, 857-58 (9th Cir. 1988); CFTC vy.
+Byrnes, 58 F, Supp. 3d 319, 324 (S.D.N.Y, 2014),
+
+Citibank is liable for the acts, omissions, and failures of any traders, managers, and
+Submitters who acted as its employees and/or agents in the conduct described above,
+Accordingly, as set forth above, Citibank violated Sections 6(c), 6(d), and 9(a)(2) of the Act, 7
+ULS.C. §§ 9, 13b, 13(a)(2) (2006); Sections 6(c)(1), 6(c)(1)(A), 6(c)(3), 6(d), and 9(a)(2) of the
+Act, 7 U.S.C. §§ 9(1), 9(11)(A), 9(3), 13b, 13(a)(2) (2012); and Regulations 180.1(a) and 180.2,
+17 C.FLR. §§ 180.1(a), 180.2 (2015).
+
+V.
+
+FINDINGS OF violations
+
+ 
+
+Based on the foregoing, the Commission finds that Respondent violated Sections 6(c),
+6(d), and 9(a)(2) of the Act, 7 U.S.C. §§ 9, 13b, 13(a)(2) (2006), and for conduct occurring on
+
+18
+
+ 
+or after August 15, 2011, Sections 6(c)(1), 6(c)(1)(A), 6(c)(3), 6(d), and 9(a)(2) of the Act, 7
+U.S.C, §§ 9(1), 9C1)(A), 9(3), 13b, 13(a)(2) (2012), and Regulations 180.1(a) and 180.2, 17
+C.F.R. §§ 180,1(a), 180.2 (2015).
+
+VI.
+
+OFFER OF SETTLEMENT
+
+Respondent, without admitting or denying the findings or conclusions herein, has
+submitted the Offer in which it:
+
+A, Acknowledges receipt of service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to this Order only and for
+any action or proceeding brought or authorized by the Commission based on
+violations of or enforcement of this Order;
+
+C, Waives:
+
+1. the filing and service of a complaint and notice of hearing;
+
+2. a hearing;
+
+3. all post-hearing procedures;
+
+4. judicial review by any court;
+
+5, any and all objections to the participation by any member of the
+Commission’s staff in the Commission’s consideration of the Offer;
+
+6. any and all claims that it may possess under the Equal Access to Justice
+Act, 5 U.S.C, § 504 (2012) and 28 U.S.C. § 2412 (2012), and/or the rules
+promulgated by the Commission in conformity therewith, Part 148 of the
+Commission’s Regulations, 17 C.F.R. §§ 148.1-30 (2015), relating to, or
+arising from, this proceeding;
+
+7. any and all claims that it may possess under the Small Business
+Regulatory Enforcement Fairness Act of 1996, Pub. L. No. 104-121, §§
+201-253, 110 Stat. 847, 857-868 (1996), as amended by Pub. L. No. 110-
+28, § 8302, 121 Stat. 112, 204-205 (2007), relating to, or arising from, this
+proceeding; and
+
+8. any claims of Double Jeopardy based on the institution of this proceeding
+
+or the entry in this proceeding of any order imposing a civil monetary
+penalty or any other relief;
+
+19
+
+ 
+Stipulates that the record basis on which this Order is entered shall consist
+solely of the findings contained in this Order to which Respondent has
+consented in the Offer; and
+
+Consents, solely on the basis of the Offer, to the Commission’s entry of this
+Order that:
+
+I. makes findings by the Commission that Respondent violated Sections
+6(c), 6(d), and 9(a)(2) of the Act, 7 U.S.C. §§ 9, 13b, 13(a)(2) (2006), and
+for conduct occurring on or after August 15, 2011, Sections 6(c)(1),
+6(c)(1)(A), 6(c)(3), 6(d), and 9(a)(2) of the Act, 7 U.S.C. §§ 9€1),
+9(1)(A), 9(3), 13b, 13(a)(2) (2012), and Regulations 180.1(a) and 180.2,
+17 C.F.R. §§ 180.1(a), 180.2 (2015);
+
+2, orders Respondent to cease and desist from violating Sections 6(c)(1),
+6(c)(1)(A), 6(c)(3), 6(d), and 9(a)(2) of the Act, 7 U.S.C. §§ 9(1),
+9(1)(A), 9(3), 13b, 13(a)(2) (2012), and Regulations 180.1(a) and 180.2,
+17 C.F.R. §§ 180.1(a), 180.2 (2015);
+
+3. orders Respondent to pay a civil monetary penalty in the amount of
+two hundred fifty million U.S. dollars ($250,000,000) plus post-
+judgment interest; and
+
+4, orders Respondent and its successors and assigns to comply with the
+conditions and undertakings consented to in the Offer and as set forth
+in Part VII of this Order.
+
+Respondent represents that it has already undertaken certain steps intended to
+make reasonable efforts to ensure the integrity of interest-rate swap
+benchmarks, including, but not limited to, the following:
+
+l, In October 2012, Respondent changed its USD ISDAFIX submissions
+process to use Citibank’s live trading prices from the Swaps Desk as the
+basis for submissions,
+
+2. Respondent also provided guidance and training emphasizing the need to
+prevent manipulation of benchmark rates and prohibiting improper
+communications with submitters, Respondent continues to develop and
+implement additional policies governing benchmark activity (including
+policies related to interest-rate swap benchmarks),
+
+3, Respondent has enhanced its oversight and governance over its benchmark
+activity, including through the establishment of a Benchmark Steering
+Committee to oversee a global review of Citibank’s controls surrounding
+its participation in benchmarks (including interest-rate swap benchmarks)
+and enhancements to those controls, As part of this review, Respondent
+conducted an assessment of its participation in submissions-based
+
+20
+
+ 
+benchmark rates (including interest-rate swap benchmarks). Through this
+process, Citibank exited a number of such benchmarks, including USD
+ISDAFTX in January 2014 (until it transitioned to a new administrator and
+methodology, as referenced in footnote 2 above, which captures
+Citibank’s active trading as part of the calculation methodology).
+
+4, Further, Respondent has been developing and implementing enhancements
+to its controls surrounding its participation in benchmarks (including
+interest-rate swap benchmarks), including, but not limited to:
+
+a,
+
+measures to strengthen electronic and oral communications
+surveillance, including measures designed to detect
+communications suggesting possible manipulation of benchmark
+rates (including interest-rate swap benchmarks);
+
+monitoring systems designed to detect and prevent potential
+manipulation of benchmark rates (including interest-rate swap
+benchmarks) through trading;
+
+enhanced policies and procedures relating to ethical behavior and
+prohibited conduct and escalation, as well as policies and
+procedures providing for trading desk supervision of traders’
+conduct related to interest-rate swap benchmarks;
+
+training, at least annually, of all employees involved in
+benchmark-rate related activity (including activity related to
+interest-rate swap benchmarks) that includes training about what
+constitutes prohibited submissions and/or trading practices (such as
+manipulative trading) and the importance of escalating any
+improper activity; and
+
+the development of a central process for identifying, investigating,
+escalating, documenting, and tracking discipline related to
+suspected misconduct in benchmark activity (including activity
+related to interest-rate swap benchmarks).
+
+Upon consideration, the Commission has determined to accept the Offer,
+
+VIL.
+
+ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A, Respondent shall cease and desist from violating Sections 6(c)(1), 6(c)(1)(A),
+6(c)(3), 6(d), and 9(a)(2) of the Act, 7 U.S.C. $§ 9(1), 9(1)(A), 9(3), 13b,
+
+21
+
+ 
+13(a)(2) (2012), and Regulations 180.1(a) and 180.2, 17 C.F.R. §§ 180.1(a),
+180.2 (2015),
+
+Respondent shall pay a civil monetary penalty of two hundred fifty million U.S.
+dollars ($250,000,000), within ten (10) days of the date of entry of this Order (the
+“CMP Obligation”). If the CMP Obligation is not paid in full within ten (10)
+days of the date of entry of this Order, then post-judgment interest shall accrue
+on the CMP Obligation beginning on the date of entry of this Order and shall be
+determined by using the Treasury Bill rate prevailing on the date of entry of this
+Order pursuant to 28 U.S.C. § 1961 (2012). Respondent shall pay the CMP
+Obligation by electronic funds transfer, U.S. postal money order, certified check,
+bank cashier’s check, or bank money order. If payment is to be made other than
+by electronic funds transfer, then the payment shall be made payable to the
+Commodity Futures Trading Commission and sent to the address below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables --- AMZ 340
+E-mail Box: 9-AMC-AMZ-AR-CFTC
+DOT/FAA/MMAC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+Telephone: (405) 954-7262
+
+If payment is to be made by electronic funds transfer, Respondent shall contact
+Nikki Gibson or her successor at the above address to receive payment
+instructions and shall fully comply with those instructions. Respondent shall
+accompany payment of the CMP Obligation with a cover letter that identifies the
+Respondent and the name and docket number of this proceeding. The Respondent
+shall simultaneously transmit copies of the cover letter and the form of payment
+to the Chief Financial Officer, Commodity Futures Trading Commission, Three
+Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
+
+Respondent and its successors and assigns shall comply with the following
+undertakings set forth in the Offer:
+
+1, REMEDIATION
+
+As set forth above in Section VI, paragraph F, Respondent represents that it
+has already undertaken and continues to undertake extensive remedial
+measures to implement and strengthen its internal controls and procedures
+relating to the fixing of interest-rate swaps benchmarks and related supervision
+of its swaps, options, and exotics desks, With respect to its remediation efforts
+to the extent not already undertaken, Respondent undertakes that:
+
+22
+Respondent will implement and improve its internal controls and
+procedures in a manner reasonably designed to ensure the
+integrity of the fixing of any interest-rate swap benchmark,
+including measures to identify and address internal or external
+conflicts of interest;
+
+Respondent’s remediation improvements will include
+internal controls and procedures relating to:
+
+1. measures designed to enhance the detection and deterrence
+of improper communications concerning interest-rate swap
+benchmarks, including the form and manner in which
+communications may occur;
+
+2. monitoring systems designed to enhance the detection and
+deterrence of trading or other conduct potentially intended
+to manipulate directly or indirectly swap rates, including
+benchmarks based on interest-rate swaps;
+
+3. periodic audits, at least annually, of Respondent’s
+participation in the fixing of any benchmark based on interest-
+rate swaps;
+
+4. supervision of trading desks that participate in the fixing of
+any benchmark based on interest-rate swaps;
+
+5. supervision of trading desk conduct that relates to any interest-
+rate swap benchmark;
+
+6. routine and on-going training of all traders, supervisors and
+others who are involved in the fixing of any benchmark
+based on interest-rate swaps;
+
+7. routine and on-going training of all trading desk personnel
+relating to the trading of any product that references a
+benchmark based on interest-rate swaps;
+
+8. processes for the periodic but routine review of written and oral
+communications of any traders, supervisors and others who are
+involved in the fixing of any benchmark based on interest-rate
+swaps with the review being documented and documentation
+being maintained for a period of three years; and
+
+9. continuing to implement a system for reporting, handling and
+
+investigating any suspected misconduct or questionable,
+unusual or unlawful activity relating to the fixing of any
+
+23
+benchmark based on interest-rate swaps with escalation to
+compliance and legal, and with reporting of material matters
+to the executive management of Citibank and the Commission,
+as appropriate; the Respondent shall maintain the record basis
+of the handling of each such matter for a period of three years.
+
+Within 120 days of the entry of this Order, the Respondent shall
+make a report to the Commission, through the Division,
+concerning its remediation efforts prior to and since the entry of
+this Order. Within 365 days of the entry of this Order, the
+Respondent shall submit a report to the Commission, through the
+Division, explaining how it has complied with the undertakings
+set forth herein. The report shall contain a certification from a
+representative of the Respondent’s Executive Management, after
+consultation with the Respondent’s chief compliance officer(s),
+that the Respondent has complied with the undertakings set forth
+above, and that it has established policies, procedures, and
+controls to satisfy the undertakings set forth in the Order.
+
+COOPERATION WITH THE COMMISSION
+
+In this action, and in any investigation or other action instituted by the
+Commission related to the subject matter of this action, Respondent shall
+cooperate fully and expeditiously with the Commission, including the
+Division. As part of such cooperation, Respondent agrees to the following
+for a period of three (3) years from the date of the entry of this Order, or
+until all related investigations and litigations in which the Commission,
+including the Division, is a party, are concluded, including through the
+appellate review process, whichever period is longer:
+
+a.
+
+Preserve all records relating to the subject matter of this
+proceeding, including, but not limited to, audio files,
+electronic mail, other documented communications, and
+trading records;
+
+Comply fully, promptly, completely, and truthfully with
+all inquiries and requests for non-privileged information or
+documents;
+
+Provide authentication of documents and other
+evidentiary material;
+
+Provide copies of non-privileged documents within the Bank’s
+possession, custody, or control;
+
+24
+e, Subject to applicable laws and regulations, make its best efforts to
+produce any current (as of the time of the request) officer,
+director, employee, or agent of the Bank, regardless of the
+individual’s location, and at such location that minimizes
+Commission travel expenditures, to provide assistance at any trial,
+proceeding, or Commission investigation related to the subject
+matter of this proceeding, including, but not limited to, requests
+for testimony, depositions, and/or interviews, and to encourage
+them to testify completely and truthfully in any such proceeding,
+trial, or investigation; and
+
+f. Subject to applicable laws and regulations, make its best efforts
+to assist in locating and contacting any prior (as of the time of the
+request) officer, director, employee, or agent of the Bank;
+
+Respondent also agrees that it will not undertake any act that would limit
+its ability to cooperate fully with the Commission. The Bank will
+designate an agent located in the United States of America to receive all
+requests for information pursuant to these Undertakings, and shall
+provide notice regarding the identity of such Agent to the Division upon
+entry of this Order. Should the Bank seek to change the designated agent
+to receive such requests, notice of such intention shall be given to the
+Division fourteen (14) days before it occurs. Any person designated to
+receive such request shall be located in the United States of America.
+
+PROHIBITED OR CONFLICTING UNDERTAKINGS
+
+Should the Undertakings herein be prohibited by, or be contrary to, the
+provisions of any obligations imposed on Respondent by any presently
+existing, or hereinafter enacted or promulgated laws, rules, regulations, or
+regulatory mandates, then Respondent shall promptly transmit notice to
+the Commission (through the Division) of such prohibition or conflict, and
+shall meet and confer in good faith with the Commission (through the
+Division) to reach an agreement regarding possible modifications to the
+Undertakings herein sufficient to resolve such inconsistent obligations. In
+the interim, Respondent will abide by the obligations imposed by the laws,
+rules, regulations, and regulatory mandates. Nothing in these Undertakings
+shall limit, restrict or narrow any obligations pursuant to the Act or the
+Commission’s Regulations promulgated thereunder, including, but not
+limited to, Regulations 1.31 and 1.35, 17 C.F.R. §§ 1.31, 1.35 (2015), in
+effect now or in the future.
+
+PUBLIC STATEMENTS
+
+Respondent agrees that neither it nor any of its successors and assigns,
+agents, or employees under its authority or control shall take any action or
+
+25
+
+ 
+make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression
+that this Order is without a factual basis; provided, however, that nothing
+in this provision shall affect Respondent’s (i) testimonial obligations, or
+(ii) right to take positions in other proceedings to which the Commission is
+not a party. Respondent and its successors and assigns shall undertake all
+steps necessary to ensure that all of its agents and/or employees under its
+authority or control understand and comply with this agreement.
+
+PARTIAL SATISFACTION
+
+Respondent understands and agrees that any acceptance by the
+Commission of partial payment of Respondent’s CMP Obligation shall not
+be deemed a waiver of its obligation to make further payments pursuant to
+this Order, or a waiver of the Commission’s right to seek to compel
+payment of any remaining balance.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+Dated: May 25, 2016
+
+              
+
+   
+
+Chris opher J, Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+26
+
+ 

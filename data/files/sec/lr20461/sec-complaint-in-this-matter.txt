@@ -1,0 +1,361 @@
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ 
+
+U.S. SECURITIES AND EXCHANGE
+COMMISSION,
+. 100 F. Street, NE
+
+Washington, D.C. 20549-6030
+
+Case: 1:08-cv-00294
+
+Assigned To : Sullivan, Emmet G.
+Assign. Date : 2/21/2008
+Description: General Civil
+
+Plaintiff,
+v.
+
+- FLOWSERVE CORPORATION
+-Â§215 North OâConnor Blvd.
+Suite 2300
+Irving, Texas 75039
+
+Defendant.
+
+Nome? Nee! Nome! Nee Nu! Ne Nee eeâ Nee Neeâ eeâ Ne Nee Neeâ eeeâ âeeâ Neeâ neâ
+
+ 
+
+COMPLAINT
+Plaintiff, US. Securities and Exchange Commission (the âCommissionâ), alleges:
+SUMMARY
+1. From approximately 2001 through 2003, Flowserve Corporation
+
+(âFlowserveâ) violated the books and records and internal controls provisions of the
+_ Foreign Corrupt Practices Act (the âFCPAâ) [15 U.S.C. Â§Â§ 78dd-1, et seq.] when two of
+its foreign subsidiaries entered into twenty contracts involving the payment of kickbacks
+totaling approximately $820,246 in connection with sales of industrial equipment to Iraqi
+government entities under the United Nations Oil for Food Program. Flowserve, through
+its subsidiaries, authorized or paid these kickbacks in the form of under-the-table âafter
+sales service feesâ (âASSFsâ) through third-party agents. Approximately $646,488 of the
+
+kickback payments were made, and another $173,758 were authorized.
+2. Flowserve either knew or was reckless in not knowing of the kickbacks.
+The company also knew that the ASSF payments were prohibited by the Oil for Food
+Program, as well as under U.S. and international trade sanctions.
+
+3. The Oil for Food Program was intended to provide humanitarian relief to
+âthe Iraqi population, then subject to comprehensive international trade sanctions. The
+Program allowed the Iraqi government to purchase necessary humanitarian goods, but ~
+required that all purchases be made through a U.N.-controlled escrow account. The |
+kickbacks paid in connection with Flowserveâs foreign subsidiariesâ Oil for Food
+
+contracts had the effect of diverting funds out of the escrow account and into an Iraqi
+slush fund.
+
+4. In accounting for certain of its Oil for Food Program transactions,
+Flowserve failed to accurately record the nature of the ASSF payments as kickbacks to
+the Iraqi regime. Flowserve also failed to devise and maintain.a system of internal .
+accounting controls sufficient to detect and prevent the illicit ASSF payments.
+
+5. As a result of the conduct above, Flowserve violated Sections 13(b)(2)(A)
+and 13(b)(2)(B) of the Securities Exchange Act of 1934 (the âExchange Actâ) [15 U.S.C.
+Â§Â§ 78m(b)(2)(A) and 78m(b)(2)(B)].
+
+JURISDICTION
+
+6. This Court has jurisdiction over this action under Sections 21(d), 21(e),
+and 27 of the Exchange Act [15 US.C. Â§Â§ 78u(d), 78u(e) and 78aa]. Flowserve made
+use of the means or instrumentalities of interstate commerce, of the mails, or of the
+facilities of a national securities exchange in connection with the transactions, acts,
+
+practices, and courses of business alleged in this Complaint.
+7 Venue is appropriate in this Court under Section 27 of the Exchange Act
+[15 U.S.C. Â§ 78aa] because Flowserve does business in this judicial district.
+DEFENDANT
+
+8. Flowserve is a New York corporation with its executive offices in Irving,
+Texas. Flowserve supplies pumps, valves, seals, and related automation and services to _
+the power, oil, gas, and chemical industries. Flowserve trades on the New York Stock
+Exchange under the symbol âELS,â and its common stock is registered with the
+Commission pursuant to Section 12(b) of the Exchange Act [15 US.C. Â§ 781(b)]. Two
+Flowserve subsidiaries were involved in sales to Iraq under the Oil for Food Program.
+
+RELEVANT ENTITIES
+
+9. Flowserve Pompes is a wholly-owned French subsidiary of Flowserveâs
+Pumps Division. Flowserve Pompes is based in Arnage, France. Throughout the
+relevant period, Flowserve Pompesâ financial results were included in the consolidated
+financial statements that Flowserve filed with the Commission.
+
+10. Flowserve B.V. is a wholly-owned Dutch subsidiary of Flowserveâs Seals
+Division. Flowserve B.V. is based in Roosendaal, Netherlands. Throughout the relevant
+period, Flowserve B.V.âs financial results were included in the consolidated financial
+statements that Flowserve filed with the Commission.
+
+FACTS
+I The United Nations Oil for Food Program
+
+11. . Following Iraqâs invasion of Kuwait in 1991, the United Nations Security
+
+Council and the United States imposed comprehensive economic sanctions on Iraq. Over
+
+the following years, the sanctions triggered a humanitarian crisis, with severe shortages
+of food and medical supplies. In response, the UN. Security Council authorized a relief
+- program under which the Iraqi government would be permitted to sell crude oil and use
+the proceeds to purchase humanitarian supplies. |
+
+12. Under the terms of the Oil for Food Program, the Iraqi government was
+authorized to sell crude oil to buyers of its choosing. A U.N. committee reviewed the
+commercial terms of each contract and approved each sale. The proceeds were wired by
+the purchaser directly into an escrow account maintained by the U.N. at BNP Paribas in ~
+New York. The Iraqi government was not given direct access to the proceeds of its oil
+sales, but was allowed to use the funds to purchase humanitarian goods, subject to U.N.
+review and approval. Individual Iraqi ministries could negotiate contracts for approved
+categories of products. The suppliers submitted their contracts to the U.N. committee for .
+review. Upon approval of each contract, and after verification that the goods had been
+received in Iraq, the committee authorized payment to the supplier from funds in the
+escrow account.
+
+13. The Oil for Food Program was intended to maximize the Iraqi
+governmentâs flexibility in meeting its humanitarian needs, while preventing it from
+undermining trade sanctions by diverting cash from the transactions. In practice,
+however, the Iraqi government was able to circumvent the Programâs restrictions by
+demanding massive under-the-table payments from its contract partners. Starting around .
+August 2000, each Iraqi ministry demanded a 10% âafter sales service feeâ (ââASSFââ) on
+all humanitarian goods purchased under the Program. The fee bore no relation to any
+
+actual services and was, in reality, an illicit 10% kickback to the Iraqi regime. The ASSF
+payment was not identified in the official purchase contracts that the suppliers provided
+for U.N. review and was not made through the U.N.âs authorized payment channels.
+
+4, According to the U.N.âs Independent Inquiry Committee, which was
+created to investigate corruption in the Program, the Iraqi regime collected just over
+$1 billion in ASSF payments from suppliers. Payments were typically made in cash by
+the suppliers holding the Oil for Food contracts. The associated cost of the ASSF
+payments was passed along to the U.N.-controlled escrow account as the suppliers
+inflated their contract prices to cover the illicit payments. The ultimate economic effect
+of the kickbacks, therefore, was to deprive the U.N.âs humanitarian program of over
+$1 billion in humanitarian resources that otherwise would have been available to it
+
+15. Each Iraqi ministry was responsible for collecting ASSF payments on the
+contracts it administered. In addition, the Ministry of Transportation ensured that no
+humanitarian supplies were permitted to cross Iraqâs border without proof that all
+required ASSF payments had been paid. Because the payments violated U.N.
+requirements, the collection effort was handled surreptitiously. As demanded by Iraqi
+officials, the supplier made its ASSF payment -- either directly or through an Iraqi front
+~ company -- in cash at an Iraqi embassy or by depositing the funds into Iraqi-controlled
+banks, such as the Al-Rashid Bank in Lebanon or the Al-Rafidain Bank in Jordan.
+
+16. Following the U.S. invasion and occupation of Baghdad in 2003, the
+Coalition Provisional Authority assumed responsibility for ongoing Oil for Food
+contracts. The Provisional Authority put an end to the ASSF kickback requirement and
+
+renegotiated all open contracts to remove the associated 10% markups.
+I Flowserveâs Payment of ASSFâs under the Program
+
+| 17. Flowserve engaged in Oil for Food transactions through two of its
+European subsidiaries: Flowserve Pompes and Flowserve B.V. These Flowserve
+subsidiaries entered into a total of twenty contracts in which ASSF kickback payments
+were either made or authorized. In total, Flowserve subsidiaries, working through third-
+| party agents, made ASSF payments of approximately $646,488 and authorized additional
+
+payments of $173,758.
+
+A. Contracts Involving Flowserve Pompes
+
+18. | Flowserve Pompes participated in the Oil for Food Program from
+approximately 1997 through 2003. The companyâs exclusive agent for Iraqi contracts,
+including those under the Oil for Food Pro gram, was a Jordanian entity. Once the Iraqi
+authorities began demanding kickback payments, Flowserve Pompes and its Jordanian
+agent worked in concert to channel ASSF kickback payments to Iraqi ministries, while
+concealing the payments from the UN.
+
+19. In total, Flowserve Pompes made approximately $604,651 in ASSF
+payments in connection with fifteen contracts. Flowserve Pompes agreed to, but did not
+ultimately make, an additional $173,758 in improper ASSF payments under four
+additional contracts. | Delivery under these four contracts had not been completed by the
+time of the U.S. invasion in March 2003. Following the invasion, the Coalition
+Provisional Authority, acting on behalf of the Iraqi ministries, required that Flowserve
+Pompes amend the contracts to remove the ASSF payments and lower the prices by ten
+
+percent.
+20. Senior officials at Flowserve Pompes, including the subsidiaryâs President,
+developed two different false cover stories to conceal the ASSF kickback payments. The
+companyâs internal accounting records falsely indicated that Flowserve Pompes was
+paying the Jordanian agent a ten percent fee on each contract to cover the cost of
+installing and commissioning the equipment. In reality, the agent provided no such
+services. The contract documents that Flowserve Pompes sent to the U.N. for approval
+painted a different, if equally false, picture. These documents omitted any reference to
+after sales services or related installation fees. Instead, to cover the cost of the illicit.
+ASSF payments, the company inflated the unit price of each piece of equipment without
+disclosing the price increase, or the reason for it, to the U.N.
+
+21. The contract documentation for Flowserve Pompesâ Oil for Food contracts
+was prepared both at the Arnage facility and at a Flowserve Pompes sales office in
+Beirut, Lebanon. Once an agreement was negotiated between the Beirut sales office and
+the relevant Iraqi ministry, and approved by officials in Arnage, the Beirut sales office |
+would generate a pro forma invoice reflecting the actual pricing of the goods to be
+shipped under the U.N. contract. To memorialize F lowserveâs agreement to pay the
+ASSF , the Beirut Area Manager signed a side letter to the Iraqi ministry stating that
+Flowserve Pompes would pay ten percent of the contract price to the ministry to cover
+âengineering services, installation, and commissioning.â Officials at Flowserve Pompes
+were fully aware that no engineering, installation, or commissioning services would be
+performed under the contract, but the internal documentation at Flowserve Pompes
+
+maintained the pretense that it would be. The side letter was not disclosed to the U.N.
+22. In the documents that Flowserve Pompes prepared for U.N. approval, the
+company did not pretend that the agent would provide engineering, installation, and
+commissioning services. But the U.N. documents failed to disclose that a portion of the
+contract price represented a kickback to the Iraqi ministry. The contract and pro forma
+invoice that the U.N. received contained no reference to the companyâs side letter or to
+any payment for after sales services. Instead, the unit prices of the listed equipment were
+inflated by ten percent. There was nothing in the U.N. documentation to reveal that the.
+contract prices had been inflated, or that a portion of the contract price was to be kicked
+back to the Iraqi authorities. |
+
+23. After the U.N. approved the contract, the Beirut sales office prepared an
+| internal Order Entry Form and an Order Acknowledgement Form for the Iraqi ministry,
+both of which included false line items for âafter sales servicesâ to be provided by
+Flowserve Pompesâ agent. The services were valued at ten percent of the contract.
+
+24. âPrior to the shipment of the goods into Iraq, the agent sent a written
+invoice to Flowserve Pompes in Arnage for the ASSF payment amounts to be made on
+pending contracts, identifying them as âpayments made on your behalf.â Knowing that
+the.kickback payments had to be received by Iraqi authorities before the goods would be
+allowed across the border, Flowserve Pompesâ President made arrangements for the
+agentâs ASSF invoices to be paid immediately upon receipt. The ee to the agent
+were typically made within twenty-four hours. The avent then made the ASSF kickback
+payments by depositing cash into an Iraqi-controlled account in the Jordanian Housing
+
+Bank for Trade and Finance.
+25. Officials at Flowserve Pompes either knew, or were reckless in not
+knowing, that illegal ASSF payments had been paid or offered under each of the nineteen
+contracts. |
+
+B. Contracts Involving Flowserve B.V.
+
+26.  Flowserveâs Dutch subsidiary Flowserve B.V. entered into one contract
+involving an ASSF kickback payment of $41,836. The contract was for the supply of |
+water pump spare parts to the Iraqi government-owned South Gas Company. Flowserve
+B.V.âs agent in the transaction was a Jordanian entity other than the one used by
+Flowserve Pompes.
+
+27. During August 2001, the principals of Flowserve B.V.âs Jordanian agent
+met with Flowserve B.V. officials in Roosendaal, Netherlands. At that meeting,
+Flowserve B.V. was advised that the agent would have to pay a ten percent kickback on
+the transaction on F lowserve B.V.âs behalf, for which the agent would need
+reimbursement.
+
+28. Following the meeting, the agent proposed that Flowserve B:V. conceal
+the ASSF kickback payment by having the agent serve as a distributor, rather than as an |
+agent, and make the payment out of its margin. Flowserve B.V. rejected this proposal.
+
+| 29. Instead, Flowserve B.V.âs Controller chose to conceal the payment by |
+increasing the cost of the purchase order by ten percent and passing the difference back to:
+the agent. In September 2001, Flowserve B.V. agreed to pay a supplemental commission
+-- euphemistically labeled a âspecial project discountâ -- to the agent to cover the amount
+of the kickback. The âspecial project discountâ effectively doubled the agentâs standard
+
+ten percent commission to twenty percent.
+30. The agent submitted an invoice for the combined commission and âspecial
+project discountâ in February 2002. Flowserve made the payment to the agent in March
+2002. The agent then made the ASSF payment to the Iraqi ministry on Flowserve B.V.âs
+behalf. The ASSF payment was not disclosed to the U.N.
+oui Flowserveâs Failure to Maintain Adequate Internal Controls
+
+31. Flowserve failed to maintain a system of internal controls sufficient (i) to
+ensure that the companyâs transactions under the Oil for Food Program were executed in
+accordance with managementâs authorization and (ii) to maintain accountability for the
+companyâs assets, As discussed above, Flowserve subsidiaries either made or agreed to
+make numerous illicit payments that contravened the Oil for Food Program, U.S. and
+international trade sanctions, and its own internal FCPA and anti-bribery policies.
+
+32. Flowserve failed to devise and maintain an effective system of internal
+controls to prevent or detect these violations of the FCPA, as required by Exchange Act
+Section 13(b)(2)(B).
+
+IV _ Flowserveâs Failure to Properly Maintain Its Books and Records
+
+33. As described above, Flowserveâs accounting for its Oil for Food
+transactions failed properly to record the nature of the ASSF payments. In nineteen
+Flowserve Pompes transactions, the companyâs internal accounting records indicated that
+Flowserve Pompes was paying its Jordanian agent a ten percent fee for performing
+installation and commissioning activities. In reality, that money represented a series of
+illegal kickbacks to the Iraqi regime. In one Flowserve B.V. transaction, the companyâs
+internal records indicated that Flowserve B.V. was paying a âspecial project discountâ to
+
+its agent. In reality, that money also represented an illegal kickback to the Iraqi regime.
+
+10
+CLAIMS FOR RELIEF
+FIRST CLAIM
+[Violations of Section 13(b)(2)(A) of the Exchange Act]
+
+34. Paragraphs 1 through 33 are realleged and incorporated by reference.
+
+35. As described above, Flowserve, through its officers, agents and
+subsidiaries, failed to keep books, records, and accounts, which, in reasonable detail,
+accurately and fairly reflected its transactions and dispositions of its assets.
+
+36. | By reason of the foregoing, Flowserve violated Section 13(b)(2)(A) of the
+Exchange Act [15 U.S.C. Â§ 78m(b)(2)(A)].
+
+SECOND CLAIM
+[Violations of Section 13(b)(2)(B) of the Exchange Act]
+
+37. Paragraphs 1 through 36 are realleged and incorporated by reference.
+
+38. As described above, Flowserve failed to devise and maintain a system of
+internal accounting controls sufficient to provide reasonable assurances that payments
+were: (i) made in accordance with managementâs general or specific authorization; and
+(ii) recorded as necessary to maintain accountability for its assets.
+
+39. By reason of the foregoing, Flowserve violated Section 13(b)(2)(B). of the
+Exchange Act [15 U.S.C. Â§ 78m(b)(2)(B)].
+
+PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court enter a final
+judgment: | |
+
+A. Permanently restraining and enjoining Flowserve from violating Sections
+
+13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78m(b)(2)(A) and (B)];
+
+1]
+B. Ordering Flowserve to disgorge ill-gotten gains, with prejudgment
+
+interest, wrongfully obtained as a result of its illegal conduct;
+
+C. Ordering F lowserve to pay civil penalties pursuant to Section 21(d)(3) of
+
+the Exchange Act [15 U.S.C. Â§ 78u(d)(3)]; and
+
+D. Granting such further relief as the Court may deem just and appropriate. -
+
+Dated: February 21, 2008
+
+Respectfully submitted,
+
+(bo, Face
+Cheryl J. SÃ©arÂ¥oro (DC. Bar No. 422175)
+
+Tracy L.Price
+Robert I. Dodge
+
+Attorneys for Plaintiff,
+
+U.S. Securities and Exchange Commission
+100 F Street, NE
+
+Mail Stop 6030 SPII
+
+Washington, DC 20549-6030
+
+(202) 551-4403 (Scarboro)
+
+12

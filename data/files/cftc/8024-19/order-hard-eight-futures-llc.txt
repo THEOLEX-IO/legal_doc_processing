@@ -1,0 +1,377 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+RECEIVED CFTC
+
+T
+oy Rap,
+
+ 
+
+   
+
+>,
+
+In the Matter of: %) a
+2D eS
+Hard Eight Futures, LLC, Office of Proceedings
+
+CFTC Docket No. 19-30 Proceedings Clerk
+
+Respondent. 5:48 pm, Sep 30, 2019
+
+ 
+
+Nee Nee ee Ne ee ee Seâ
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL SANCTIONS
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (âCommissionâ) has reason to believe that
+from March 2014 through March 2015 (âRelevant Periodâ), Hard Eight Futures, LLC (âHard
+Eightâ or âRespondentâ), by and through the acts of one of its traders, violated Section
+Ac(a)(5)(C) of the Commodity Exchange Act (âActâ), 7 U.S.C. Â§ 6c(a)(5)(C) (2012), Section
+6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) (2012), and Regulation 180.1(a)(1) and (3), 17 C.F.R.
+
+Â§ 180.1(a)(1), (3) (2018), of the Commission Regulations (âRegulationsâ). Therefore, the
+Commission deems it appropriate and in the public interest that public administrative
+proceedings be, and hereby are, instituted to determine whether Respondent engaged in the
+violations set forth herein and to determine whether any order should be issued imposing
+remedial sanctions. .
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferââ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
+Exchange Act, Making Findings, and Imposing Remedial Sanctions (âOrderâ) and acknowledges
+service of this Order.'
+
+ 
+
+' Respondent consents to the use of the findings of fact and conclusions of law in this Order in this proceeding and
+in any other proceeding brought by the Commission or to which the Commission is a party or claimant, and agrees
+that they shall be taken as true and correct and be given preclusive effect therein, without further proof. Respondent
+does not consent, however, to the use of this Order, or the findings or conclusions herein, as the sole basis for any
+other proceeding brought by the Commission or to which the Commission is a party or claimant, other than: a
+proceeding in bankruptcy or receivership; or a proceeding to enforce the terms of this Order. Respondent does not
+consent to the use of the Offer or this Order, or the findings or conclusions in this Order, by any other party in any
+other proceeding.
+II. FINDINGS
+The Commission finds the following:
+A. SUMMARY
+
+From March 2014 through March 2015 (âRelevant Periodâ), Hard Eight, by and through
+one of its traders, engaged in manipulative or deceptive acts, including âspoofingââbidding or
+offering with the intent to cancel the bid or offer before executionâin connection with trading
+the E-mini S&P 500 futures contract (âE-miniâ) on the Chicago Mercantile Exchange (âCMEâ),
+a registered entity, in violation of the Act and Regulations.
+
+This conduct violates Section 4c(a)(5)(C) of the Act, 7 U.S.C. Â§ 6c(a)(5)(C) (2012),
+which prohibits spoofing, as well as Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) (2012), and
+Regulation 180.1(a)(1) and (3), 17 C.F.R. Â§ 180.1(a)(1), (3) (2018), which prohibit the use of any
+manipulative or deceptive device or contrivance in connection with any contract for future
+delivery on or subject to the rules of a registered entity, here, the CME.
+
+Hard Eight committed these violations by and through Trader A, a partner of, and trader
+for, Hard Eight. Hard Eight is therefore liable for these violations pursuant to Section 2(a)(1)(B)
+of the Act, 7 U.S.C. Â§ 2(a)(1)(B) (2012), and Regulation 1.2, 17 C.F.R. Â§ 1.2 (2018).
+
+B. RESPONDENT
+
+Hard Eight Futures, LLC is an Illinois limited liability company with its principal place
+of business in Chicago, Illinois. Hard Eight was not registered with the Commission in any
+capacity during the Relevant Period.
+
+Trader A has never been registered with the Commission in any capacity.
+Cc. FACTS
+
+During the Relevant Period, Hard Eight, by and through Trader A, placed bids and offers
+for futures contracts on Globex, the CMEâs electronic trading platform, in the E-mini contract
+with the intent to cancel those orders before execution (âSpoof Ordersâ). At the time the Spoof
+
+Orders were placed and cancelled, they constituted a substantial percentage of the best bid or
+offer.
+
+Trader A placed Spoof Orders in order to create the false impression of significant buying
+or selling interest. Trader A used this false impression of buying or selling interest, or the
+sudden and dramatic removal thereof, to induce other market participants to transact with orders
+that he wanted to be executed (âGenuine Ordersââ) at prices or in quantities favorable to Trader
+
+A. Trader A engaged in this conduct on more than a thousand occasions during the Relevant
+Period.
+
+Trader Aâs manipulative trading took several forms. At times, Trader A entered Spoof
+Orders to benefit Genuine Orders resting on the opposite side of the electronic order book. For
+example, if Trader A wanted to execute a sell-side Genuine Order, he would place relatively
+larger Spoof Orders (as measured by total contracts) on the buy side. Trader A did this to create
+the false impression of increased demand to buy, which would indicate an imminent price
+increase. Trader A intended for other traders to react by placing aggressive buy orders that
+crossed the bid-ask spread and executed against his sell-side Genuine Order. Once Trader A
+started getting fills on his Genuine Orders, Trader A would cancel his Spoof Orders.
+
+At other times, traders would place orders at the same price level as Trader Aâs existing
+Spoof Orders. When this occurred, Trader A would at times send an aggressive order to âflipâ
+his bias from buy to sell (or vice versa) and use a wash-blocking functionality to virtually
+simultaneously cancel his Spoof Orders, thus, for example, replacing his Spoof Order to sell with
+an aggressive Genuine Order to buy at the same price level. This allowed Trader A to match
+with the resting orders at that price level before other traders could react to the cancellation of
+Trader Aâs Spoof Orders.
+
+Finally, Trader A also canceled his Spoof Orders in a manner designed to create what is
+sometimes referred to as a âvacuumââthat is, by canceling his Spoof Orders virtually
+simultaneously to create the false impression of a sudden and significant decline in buying or
+selling interest, thus indicating an imminent price decrease or increase. Trader A intended for
+other traders to react to this âvacuumâ by placing aggressive orders that crossed the bid-ask
+spread, to fill Genuine Orders Trader A left resting on the same side of the market as the
+âvacuumâ he had created. This often resulted in Trader A successfully moving the market an
+entire price level.
+
+Trader A committed these violations within the course and scope of his capacity as a
+partner of, and trader for, Hard Eight.
+
+Il. LEGAL DISCUSSION
+A. SPOOFING IN VIOLATION OF SECTION 4c(a)(5)(C) OF THE ACT
+
+Section 4c(a)(5)(C) of the Act, 7 U.S.C. Â§ 6c(a)(5)(C) (2012), prohibits any person from
+engaging in any trading, practice, or conduct on or subject to the rules of a registered entity that
+is, is of the character of, or is commonly known to the trade as, âspoofingâ (bidding or offering
+with the intent to cancel the bid or offer before execution).
+
+As described above, Hard Eight, by and through the acts of Trader A, entered numerous
+bids or offers on a registered entity with the intent to cancel those bids or offers before execution.
+Hard Eight therefore acted in violation of Section 4c(a)(5)\(C) of the Act. See, e.g., United States
+v. Coscia, 866 F.3d 782, 795 (7th Cir. 2017) (â[A] conviction for spoofing requires that the
+prosecution prove beyond a reasonable doubt that Mr. Coscia knowingly entered bids or offers
+with the present intent to cancel the bid or offer prior to execution.â), rehâg and suggestion for
+rehâg en banc denied (Sept. 5, 2017), cert. denied, 138 S. Ct. 1989, 201 L. Ed. 2d 249 (2018);
+CFTC v. Oystacher, 203 F. Supp. 3d 934, 942 (N.D. Ill. 2016) (denying motion for judgment on
+the pleadings for spoofing claim based on âflippingâ conduct); see also In re Mohan, CFTC No.
+19-06, 2019 WL 978808, at *3 (Feb. 25, 2019) (consent order) (finding that entry of orders with
+intent to cancel to benefit opposite-side resting orders constituted spoofing); In re Singhal, CFTC
+No. 18-11, 2018 WL 1782904, at *1 (Apr. 9, 2018) (consent order) (finding that entry of orders
+with intent to cancel to benefit opposite-side aggressive orders, i.e., âflipping,â constituted
+spoofing).
+
+B. USE OF A MANIPULATIVE OR DECEPTIVE SCHEME IN VIOLATION OF
+SECTION 6(c)(1) of THE ACT AND REGULATION 180.1(a)
+
+Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) (2012), and corresponding Regulation
+180.1(a)(1) and (3), 17 C.F.R. Â§ 180.1(a)(1), (3) (2018), prohibit any person, directly or
+indirectly, in connection with any contract for future delivery on or subject to the rules of any
+registered entity, from intentionally or recklessly using or employing, or attempting to use or
+employ, any manipulative device, scheme, or artifice to defraud or engage, or attempting to
+engage, in any act, practice, or course of business, which operates or would operate as a fraud or
+deceit upon any person.
+
+As described above, Hard Eight, by and through the acts of Trader A, recklessly or
+intentionally employed a manipulative or deceptive scheme which created the false appearance
+of buying or selling interest in the E-mini in order to induce other market participants to trade at
+prices, or in quantities, favorable to Hard Eight. Hard Eight implemented this scheme through
+the use of Spoof Orders, as described above, which were entered and cancelled in order to
+benefit orders that Hard Eight, by and through the acts of Trader A, entered with intent to trade,
+i.e., Genuine Orders. Accordingly, Hard Eight violated Section 6(c)(1) of the Act and
+Regulation 180.1(a)(1) and (3). See CFTC v. Oystacher, No. 15-CV-09196, 2016 WL 8256391,
+at *6 (N.D. Ill. Dec. 20, 2016) (consent order; finding spoofing conduct manipulative and
+deceptive within the meaning of 180.1); see also Mohan, 2019 WL 978808, at *3 (âMohan,
+along with others, employed a manipulative and deceptive scheme at Firm A wherein he entered
+Spoof Orders to intentionally send false signals to the market that he actually wanted to buy or
+sell the number of contracts specified in the Spoof Orders.â); In re Victory Asset, Inc., CFTC No.
+18-36, 2018 WL 4563040, at *3 (Sept. 19, 2018) (consent order) (âVictory, by and through the
+acts of Franko, employed a manipulative scheme wherein it created or exacerbated the
+appearance of an order book imbalance in a manner that could and did affect market activity on
+the domestic exchanges. Franko employed his scheme through Spoof Orders combined with
+Genuine Orders.â).â
+
+C. HARD EIGHT IS LIABLE FOR THE ACTS OF TRADER A
+
+Section 2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1)(B) (2012), and Regulation 1.2,
+17 C.F.R. Â§ 1.2 (2018), provide that the âact, omission, or failure of any official, agent, or other
+person acting for any individual, association, partnership, corporation, or trust within the scope
+of his employment or office shall be deemed the act, omission, or failure of such individual,
+association, partnership, corporation, or trust, as well as of such official, agent, or other person.â
+
+ 
+
+Â° Cf Coscia, 866 F.3d at 797 (affirming conviction for commodities fraud based on spoofing; â[Cosciaâs] scheme
+was deceitful because, at the time he placed the large orders, he intended to cancel the orders.â); CFTC v. Kraft
+Foods Grp., Inc., 153 F. Supp. 3d 996, 1010 (N.D, III. 2015) (denying motion to dismiss Regulation 180.1 claim,
+noting that âclaims of manipulation must involve âconduct designed to deceive or defraud investors by controlling or
+artificially affecting the price of securitiesââ (quoting Ernst & Ernst v. Hochfelder, 425 U.S. 185, 199 (1976))); SEC
+v. Lek Sec. Corp., 276 F. Supp. 3d 49, 60 (S.D.N.Y. 2017) (denying motion to dismiss; âThe SEC has consistently
+found layering and spoofing activity to violate Â§ 10(b) and Rule 10b-5.â).
+Section 2(a)(1)(B) of the Act and Regulation 1.2 impose strict liability upon principals for the
+actions of their agents acting within the scope of their employment.
+
+Trader Aâs spoofing and manipulative or deceptive conduct occurred within the course
+and scope of his employment, office, or agency as a partner and trader at Hard Eight. Therefore,
+pursuant to Section 2(a)(1)(B) of the Act, and Regulation 1.2, Hard Eight is liable for Trader Aâs
+acts, omissions, and failures in violation of the provisions of the Act and Regulations cited
+above. See Rosenthal & Co. v. CFTC, 802 F.2d 963, 966 (7th Cir. 1986) (â[W]e have no doubt
+that section 2(a)(1) imposes strict liability on the principal... , provided, of course, as the statute
+also states expressly, that the agentâs misconduct was within the scope or (equivalently but more
+precisely) in furtherance of the agent.â).
+
+IV. FINDINGS OF VIOLATIONS
+
+Based on the foregoing, the Commission finds that, during the Relevant Period,
+Respondent Hard Eight Futures, LLC violated Section 4c(a)(5)(C) of the Act, 7 U.S.C.
+Â§ 6c(a)(5)(C) (2012), Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) (2012), and Regulation
+180.1(a)(1) and (3), 17 C.F.R. Â§ 180.1(a)(1), (3) (2018).
+
+V. OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+A. Acknowledges service of the Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in the
+Order and for any action or proceeding brought or authorized by the Commission based
+on violation of or enforcement of the Order;
+
+C. Waives:
+1, The filing and service of a complaint and notice of hearing;
+
+2. A hearing;
+
+3. All post-hearing procedures;
+4, Judicial review by any court;
+5. Any and all objections to the participation by any member of the Commissionâs
+
+staff in the Commissionâs consideration of this Offer;
+
+6. Any and all claims that it may possess under the Equal Access to Justice Act,
+5 U.S.C. Â§ 504 (2012) and 28 U.S.C. Â§ 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations,
+17 C.F.R. pt. 148 (2018), relating to, or arising from, this proceeding;
+7. Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. II, Â§Â§ 201-253, 110
+Stat. 847, 857-74 (codified as amended at 28 U.S.C. Â§ 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+8. Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including the Order;
+
+Stipulates that the record basis on which the Order is entered shall consist solely of the
+findings contained in the Order to which Respondent consented in this Offer;
+
+Consents, solely on the basis of this Offer, to the Commissionâs entry of the Order in the
+form attached hereto that:
+
+1. Makes findings by the Commission that Respondent violated Section 4c(a)(5)(C)
+of the Act, 7 U.S.C. Â§ 6c(a)(5)(C) (2012), Section 6(c)(1) of the Act, 7 U.S.C.
+Â§ 9(1) (2012), and Regulation 180.1(a)(1) and (3), 17 C.F.R. Â§ 180.1(a)(1), (3)
+(2018);
+
+2. Orders Respondent to cease and desist from violating Sections 4c(a)(5)(C) and
+Section 6(c)(1) of the Act, and Regulation 180.1(a)(1) and (3);
+
+3. Orders Respondent to pay a civil monetary penalty in the amount of one million
+seven hundred fifty thousand dollars ($1,750,000);
+
+4. Orders Respondent and its successors and assigns to comply with its undertakings
+as set forth below in Part VI of the Order.
+
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent shall cease and desist from violating Section 4c(a)(5)(C) of the Act, 7 U.S.C.
+Â§ 6c(a)(5)(C) (2012), Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) (2012), and Regulation
+180.1(a)(1) and (3), 17 C.F.R. Â§ 180.1(a)(1), (3) (2018);
+
+Respondent shall pay a civil monetary penalty in the amount of one million seven
+hundred fifty thousand dollars ($1,750,000) (âCMP Obligationâ) within ten (10) days of
+the date of the entry of this Order. If the CMP Obligation is not paid within ten (10) days
+of the date of the entry of this Order, then post-judgment interest shall accrue on the CMP
+Obligation beginning on the date of entry of the Order and shall be determined by using
+the Treasury Bill rate prevailing on the date of entry of the Order pursuant to 28 U.S.C.
+
+Â§ 1961 (2012).
+
+Respondent shall pay the CMP Obligation and any post-judgment interest by electronic
+funds transfer, U.S. postal money order, certified check, bank cashierâs check, or bank
+money order. If payment is to be made other than by electronic funds transfer, then the
+payment shall be made payable to the Commodity Futures Trading Commission and sent
+to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+
+9-AMC-AR-CFTC @faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Marie
+Thorne or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581;
+
+Respondent and its successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+1. Public Statements: Respondent agrees that neither it nor any of its successors and
+assigns, agents or employees under its authority or control shall take any action or
+make any public statement denying, directly or indirectly, any findings or
+conclusions in the Order or creating, or tending to create, the impression that the
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondentâs: (i) testimonial obligations; or (ii) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondent and its successors and assigns shall comply with this agreement, and
+shall undertake all steps necessary to ensure that all of its agents and/or
+employees under its authority or control understand and comply with this
+agreement.
+
+Respondent shall cooperate fully and expeditiously with the Commission, including the
+Commissionâs Division of Enforcement, in this action, and in any current or future
+Commission investigation or action related thereto. Respondent shall also cooperate with
+the Commission in any investigation, civil litigation, or administrative matter related to,
+or arising from, the subject matter of this action.
+
+Partial Satisfaction: Respondent understands and agrees that any acceptance by the
+Commission of any partial payment of Respondentâs CMP Obligation shall not be
+deemed a waiver of its obligation to make further payments pursuant to the Order, or a
+waiver of the Commissionâs right to seek to compel payment of any remaining balance.
+
+F, Change of Address/Phone: Until such time as Respondent satisfies in full its CMP
+Obligation as set forth in the Order, Respondent shall provide written notice to the
+Commission by certified mail of any change to its telephone number and mailing
+addresses within ten calendar days of the change.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+| ALL
+
+Christopher J. Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: September 30, 2019

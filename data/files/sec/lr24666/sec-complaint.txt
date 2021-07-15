@@ -1,0 +1,527 @@
+Case 1:19-cv-10562 Documenti1 Filed 11/14/19 Page 1 of 16
+
+Marc P. Berger
+
+Sanjay Wadhwa
+
+Gerald A. Gross
+
+Jack Kaufman
+
+Liora Sukhatme
+
+Attorneys for the Plaintiff
+SECURITIES AND EXCHANGE COMMISSION
+New York Regional Office
+Brookfield Place
+
+200 Vesey Street, Suite 400
+
+New York, New York 10281-1022
+(212) 336-0106 (Kaufman)
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+ 
+
+SECURITIES AND EXCHANGE COMMISSION,
+
+Plaintiff,
+-against-
+JERRY LI,
+
+Defendant.
+
+ 
+
+COMPLAINT
+
+19 Civ. ()
+ECF CASE
+
+JURY TRIAL DEMANDED
+
+Plaintiff Securities and Exchange Commission (âCommissionâ), for its Complaint against
+
+Defendant Jerry Li (âLiâ or the âDefendantâ), alleges as follows:
+
+SUMMARY OF THE ALLEGATIONS
+
+1. This action arises from violations of the Foreign Corrupt Practices Act of 1977
+
+(âFCPAâ) by defendant Li, the former Managing Director of a direct selling company in China
+
+(âChina Subsidiaryâ), which is made up of wholly owned subsidiaries of a U.S. based direct
+
+selling company (âCompany Aâ).
+Case 1:19-cv-10562 Documenti1 Filed 11/14/19 Page 2 of 16
+
+2. From 2006 to 2016, Li orchestrated a bribery scheme in China, bribing local,
+provincial, and national government officials to obtain direct selling licenses and curtail
+government investigations of China Subsidiaryâs business practices.
+
+3. As China Subsidiaryâs Director of Sales in 2006 and 2007, and as its Managing
+Director from December 2007 until 2016, Li directed a scheme to: (1) bribe officials through
+payments of cash, gifts, travel, meals, and entertainment; (11) falsify expense reports for those
+payments; and (111) circumvent Company Aâs internal accounting controls to conceal the bribes.
+
+VIOLATIONS
+
+4. By virtue of the conduct alleged in this Complaint, Defendant has engaged in, and
+unless enjoined, will continue to engage, directly or indirectly, in transactions, acts, practices and
+courses of business that constitute violations of Sections 13(b)(2)(A), 13(b)(2)(B), 13(b)(5) and
+30A of the Securities Exchange Act of 1934 (âExchange Actâ) [15 U.S.C. Â§Â§ 78m(b)(2)(A) and
+(b)(2)(B), 78m(b)(5) and 78dd-1l] and Rule 1362-1 thereunder [17 C.F.R. Â§240.13b2-1].
+
+5. Unless the Defendant is permanently restrained and enjoined, he will again
+engage in the acts, practices, transactions, and courses of business set forth in this Complaint and
+in acts, practices, transactions, and courses of business of similar type and object. Defendant
+should also be ordered to pay appropriate civil monetary penalties.
+
+NATURE OF THE PROCEEDINGS AND RELIEF SOUGHT
+
+6. The Commission brings this action pursuant to authority conferred by Section
+21(d)(1) of the Exchange Act [15 U.S.C. Â§78u(d)(1)].
+
+7. The Commission seeks a final judgment: (a) permanently enjoining the
+Defendant from future violations of the securities laws provisions that the Defendant violated as
+
+alleged in this Complaint; (b) imposing civil money penalties on the Defendant pursuant to
+Case 1:19-cv-10562 Documenti1 Filed 11/14/19 Page 3 of 16
+
+Section 21(d)(3) of the Exchange Act [15 U.S.C. Â§78u(d)(3)]; and (c) such other relief as the
+Court deems just and appropriate.
+JURISDICTION AND VENUE
+
+8. This court has subject matter jurisdiction over this action pursuant to Sections
+21(d), 21(e), and 27 of the Exchange Act [15 U.S.C. Â§Â§78u(d), 78u(e) and 78aa].
+
+9, Venue is proper in the Southern District of New York pursuant to Section 27 of
+the Exchange Act [15 U.S.C. Â§78aa] because certain of the acts, practices, transactions, and
+courses of business constituting the violations alleged in this Complaint occurred in the Southern
+District of New York. Among other things, the Defendant gave false testimony to the
+Commission in the Southern District of New York, in the presence of an officer and other
+representatives of Company A, concerning the violations described herein.
+
+10. The Defendant, directly or indirectly, made use of the means or instrumentality of
+interstate commerce in connection with the transactions, acts, practices and courses of business
+alleged in this Complaint, including travel, the mails, telephonic communications, and electronic
+messaging. Among other things, Defendant communicated telephonically and via email with
+officers and employees of Company A in the United States regarding obtaining approvals for
+entertaining of Chinese media and Government officials that the Defendant used to bribe the
+officials. The Defendant also emailed false internal certifications to Company A management in
+connection with Company Aâs Commission filings in the United States, as described in
+paragraph 35 of this Complaint.
+
+DEFENDANT
+
+11. Li, age 51, is a Chinese national residing in China and was the Managing Director
+of China Subsidiary from December 2007 to May 2017. Prior to becoming Managing Director,
+
+Li was the Director of Sales for China Subsidiary in 2006 and 2007.
+Case 1:19-cv-10562 Documenti1 Filed 11/14/19 Page 4 of 16
+
+RELEVANT ENTITIES AND INDIVDUALS
+12. âCompany Aâ is a direct selling company incorporated in the Cayman Islands
+with headquarters in the United States. Company Aâs common stock is registered with the
+Commission pursuant to Section 12(b) of the Exchange Act. At all relevant times, its stock has
+
+been listed on the New York Stock Exchange, and it has been an âissuerâ within the meaning of
+
+the FCPA.
+
+13. âChina Subsidiaryâ is a group of wholly-owned, China-based subsidiaries of
+Company A.
+
+14. âChina Employee 1â is a Chinese national who resides in China. From 2006 to
+
+May 2017, China Employee | served as the head of the External Affairs department (âExternal
+Affairsâ) for China Subsidiary. China Employee | reported directly to Li from December 2007
+to May 2017.
+
+15. âChina Employee 2â is a Chinese national who resides in China. From at least
+2007 to at least 2008, China Employee 2 was a sales manager at China Subsidiary. From at least
+December 2007, China Employee 2 reported to L1.
+
+16. âChina Employee 3â is a Chinese national who resides in China. From at least
+2007 to 2017, China Employee 3 was a senior manager in External Affairs and reported directly
+to China Employee 1.
+
+17. âChina Employee 4â is a Chinese national who resides in China. From at least
+2007 to 2017, China Employee 4 was the head of Finance for China Subsidiary. At all relevant
+times, China Employee 4 reported directly to Company Aâs Asia regional management, and
+
+indirectly to Li.
+Case 1:19-cv-10562 Documenti1 Filed 11/14/19 Page 5 of 16
+
+FACTS
+
+18. Since at least 2006, External Affairs, headed by China Employee 1, was
+responsible for obtaining direct selling licenses from the Chinese government â a prerequisite for
+China Subsidiary to conduct its direct selling business in China. External Affairs was also
+responsible for promoting China Subsidiaryâs interests to the Chinese government, responding to
+inquiries and investigative requests from the Chinese government, and marketing China
+Subsidiary through the Chinese media. In 2007, External Affairs was comprised of 3-4
+employees, but it grew to approximately 100 employees by 2016.
+
+A. Li Bribed Chinese Government Officials
+to Obtain Licenses and Stop Government Investigations
+
+19. In late 2006, China Subsidiary submitted an application to the Chinese
+government for its first direct selling license in China. To facilitate application approval, China
+Subsidiary paid bribes to government officials employed by the China Ministry of Commerce
+(the agency responsible for awarding direct selling licenses in China), and to local offices of the
+China State Administration for Industry and Commerce (another government agency that
+participated in the licensing process). Li and China Employee | directed the payment of those
+bribes. For example, in a January 10, 2007 recorded telephone call, Li asked China Employee 1
+whether China Subsidiary had âtaken care ofâ an official at the Ministry of Commerce (âOfficial
+1â). Li then asked, âWe have given the money to [Official 1], havenât we?â to which China
+Employee | replied, âOf course we have.â Li stated, âThe money works well on him.â!
+
+20. Li also directed the payment of bribes to Chinese government officials to stop
+
+government investigations of China Subsidiary, and to prevent or reduce fines issued to China
+
+ 
+
+The telephone discussions described in this Complaint were in Chinese, and the quoted
+excerpts are English translations of those recordings.
+
+5
+Subsidiary by the Chinese government. For example, in a March 15, 2007 recorded telephone
+call, Li and China Employee 1| discussed such payments to officials in Jilin Province. Li told
+China Employee 1 that Li had paid 35,000 yuan (approximately $4,500) to officials in Jilin âto
+build the connection...I was thinking it is better to spend money beforehand than spending
+money afterwards. This money is a small sum after all, and if we were to be penalized, the
+figure will be much greater.â
+
+21. Ina December 5, 2007 recorded telephone call, Li and China Employee |
+discussed payments made by China Employee 2 to officials in Zhejiang province to stop several
+government investigations of China Subsidiary. Li told China Employee | that Li had told China
+Employee 2 âto handle those needed to be done immediately. As for how much we should give
+to those from district bureau, I told him to talk to you first.â China Employee | responded that
+she had already discussed this issue with China Employee 2, and that âwe already handled
+everything before I left yesterday, and he even bought cards...If they dare to take our money,
+then they should get this handled for us.â
+
+22. After China Subsidiary obtained its first direct selling license from the Chinese
+government, Li continued to bribe government officials to secure additional licenses. For
+example, in a September 8, 2009 recorded telephone call, Li spoke with an official from the State
+Administration for Industry and Commerce in Shaanxi Province (âOfficial 2â). Official 2 told Li
+that there may be âsome troubleâ in Beijing, and that China Subsidiary may have to pay a fine.
+Official 2 told Li that he did not âwant to discuss too much with you over the phone,â but that he
+was interested in becoming a âconsultantâ to China Subsidiary, and that this money would help
+pay for his âsonâs house purchasing fund.â Official 2 also told Li that China Subsidiaryâs
+
+licensing process in Shaanxi Province was almost complete, and Li thanked him: âYou have
+Case 1:19-cv-10562 Documenti1 Filed 11/14/19 Page 7 of 16
+
+certainly helped us to get this done.â Official 2 told Li that he will go to âBeijing to visit the
+leadership, because not only for taking care of this matter, it is the relationship for life.â
+
+B. Li Bribed Chinese State-Owned Media
+to Prevent Negative Media Coverage of China Subsidiary
+
+23. â Lialso bribed government officials at state-owned media outlets in Chinaâ to
+prevent negative media coverage of China Subsidiary. For example, in January 2013, a state-
+owned media outlet (âMedia Outlet 1â) published a negative article about China Subsidiary. In
+an April 22, 2013 recorded telephone call, China Employee 1| told Li that she had met with the
+President of Media Outlet 1 (âMedia Official 1â) and asked him to remove the negative article.
+China Employee | told Li: âHe already took what he should take, ate what he should eat, drank
+what he should drink, and used what he should use. Itâs up to him.â Li responded: âIt is time
+for him to get to work, right?â China Employee 1 told Li that she told Media Official 1 that âif
+you destroyed us, where could you get money?â to which Media Official 1 laughed and agreed to
+remove the negative articles. Li praised China Employee 1: âYou have done a great job!â
+
+24. In 2013, another state-owned media outlet (âMedia Outlet 2â) published several
+negative articles about China Subsidiary. In an August 28, 2013 recorded telephone call, China
+Employee 3 told Li that he had met with the Chief Editor of Media Outlet 2, who âhad agreed
+that they would stop after publishing two articles and we would start to negotiate collaboration.â
+China Employee 3 told Li that when the Chief Editor of Media Outlet 2 escorted him out, China
+Employee 3 âput our âgoodwillâ on the desk. He pretended he did not see it. This should not be
+a problem.â Li told China Employee 3 that they should ask Media Outlet 2 to publish positive
+
+articles before negotiating âcollaboration.â
+
+ 
+
+* Employees of state-owned media outlets in China are âforeign officialsâ under the FCPA.
+
+7
+Case 1:19-cv-10562 Documenti1 Filed 11/14/19 Page 8 of 16
+
+OF Li Approved False Expenses and Deceived Internal Auditors at China Subsidiary
+
+25. From at least 2006 to at least October 2016, Li approved reimbursement
+applications for purportedly legitimate business expenses billed to China Subsidiary that, in fact,
+were false, and that Li knew were false at the time he approved them. For example, in a
+December 30, 2006 recorded telephone call, Li and China Employee 1| discussed China
+Subsidiary expense reports that had been submitted for bribes paid to local officials in Jiangxi
+Province. China Employee | told Li that Li had signed expense reports listing âred envelopesâ
+given to certain government officials. Li told China Employee | that he had not noticed that the
+expense reports listed âred envelopesâ and asked China Employee | to send the expense reports
+back to the employee who had submitted them and ask that employee âto rewrite the form,â
+thereby concealing the nature of payments. In the context of this conversation, Li understood
+that âred envelopeâ meant a cash bribe.
+
+26. In a September 1, 2010 recorded telephone call, Li and China Employee 4
+discussed giving advance warning to and coaching an External Affairs employee for an
+investigation by the China Subsidiaryâs internal audit department (âIAâ). An IA manager had
+learned that the External Affairs employee had submitted a fake hotel receipt, and the IA
+manager told Li and China Employee 4 that the [A manager intended to confront the External
+Affairs employee about the fake receipt. Li told China Employee 4 to warn the External Affairs
+employee but to avoid using company email when doing so. Li also told China Employee 4 to
+coach the External Affairs employee to stick to his false story: âNo matter what will happen to
+him, he should tell them it came from the hotel. If he gives in, then we will fall like a
+
+landslide...He should just tell them that he was given a wrong receipt.â
+Case 1:19-cv-10562 Documenti1 Filed 11/14/19 Page 9 of 16
+
+27. In a January 9, 2012 recorded telephone call, Li and China Employee | discussed
+other fake receipts that had been identified by IA, in this case phony restaurant receipts. Li told
+China Employee | that she should try to get reissued receipts from the restaurants to avoid
+further investigation. Later that day, China Employee | told an External Affairs colleague that
+Li was worried about âwhatâs going on between us and [Company A], especially the [Company
+A] auditing department... Jerry [Li] is afraid something may go wrong.â China Employee | also
+said that Li did not want China Employee | to go to the [A committee meeting, and that Li
+would âdeal with them on [China Employee 1âs] behalf.â
+
+28. In 2015 and 2016, Li approved several expense applications submitted by an
+External Affairs employee for reimbursement of approximately $150,000 paid to a farm in
+Yantai, purportedly for shipping fruit and vegetable gifts to Chinese government officials. The
+amount of produce purportedly purchased at the farm would have weighed approximately 34.5
+metric tons, or 135 pounds per purported gift recipient and, thus, could not have been the actual
+purpose of the $150,000 expenditure. Li knew that these expense applications and the attached
+invoices were false and had been created for an illicit purpose.
+
+29. China Subsidiaryâs financial statements were consolidated into Company Aâs
+reported financial statements, which were filed in the United States. Therefore, the false
+expenses approved and facilitated by Li were incorporated into Company Aâs financial
+statements.
+
+D. Li Misled IA Concerning Unreasonable Spending and Internal Policy Violations
+
+30. Between 2012 and 2016, Li falsely assured IA that certain high, illicit External
+
+Affairs expenses were legitimate and necessary business expenses. Li also falsely assured IA
+that he was otherwise committed to improving compliance of Company Aâs internal FCPA and
+internal accounting controls.
+
+31. IA audited External Affairsâ expenses approximately twice a year, and IA issued a
+report (âEA Audit Reportâ) at the conclusion of each audit. The EA Audit Reports showed
+unreasonably large expenses and listed violations of China Subsidiaryâs policies, including fake
+receipts and verbal approval of expenses.
+
+32. For example, in 2014, Li received an EA Audit Report that found that, during one
+six-month period, China Employee 1| had spent over $1 million on restaurant meals with Chinese
+government officials. According to the report, China Employee | had attended 239 such meals,
+with a total of 4,312 participants, thus averaging $3,232 per meal. These numbers were
+implausibly high, as there were only 184 days (including weekends) during those six months.
+According to the EA Audit Report, during those six months, External Affairs treated 30,076
+Chinese government officials to meals and spent a total of approximately $3.7 million for meals,
+gifts, and entertainment of government officials.
+
+33. In April 2016, Li received another EA Audit Report covering expenses for the
+first six months of 2015. The report stated that China Employee 1| had attended 115 restaurant
+meals with Government officials during a single six-month period. The average cost per meal
+was $1,472, which was implausible on its face. During that same period, according to the EA
+Audit Report, China Employee | provided gifts to 828 government officials, totaling $146,485.
+The report stated that âvendor receipts were replaced when problems were found,â highlighting
+China Subsidiaryâs practice of allowing External Affairs to replace problematic receipts, and
+failing to highlight those problems on the final reports. Despite this practice of replacing
+
+problematic receipts, the report still found violations, such as restaurant receipts submitted by
+
+10
+Case 1:19-cv-10562 Document1 Filed 11/14/19 Page 11 of 16
+
+different employees with very close transaction times in the same restaurant. The report also
+found that External Affairs had expended a total of $811,465 without corporate approvals, and
+that seven External Affairs employees (including China Employee 1) had relied solely upon
+verbal approvals for more than 50% of their expense applications, despite China Subsidiaryâs
+internal policy that such verbal approval could be used only for emergency expenditures.
+
+34. â Lireceived copies of the above-described EA Audit Reports in advance of their
+distribution to Company A executives and board members in the U.S. After Li received the EA
+Audit Reports, he discussed the findings with IA. Li falsely assured IA that the abnormally high
+EA expenses were legitimate and necessary to conduct business in China. Li acknowledged the
+compliance problems identified in the reports, such as the use of fake receipts, and falsely
+assured IA that he would discipline and train employees to improve compliance of China
+Subsidiaryâs policies. IA purported to rely on Liâs false assurances in sending the EA Audit
+Reports (including Liâs assurances) to Company Aâs management and its Board of Directors, and
+in responding to the Board of Directorsâ subsequent inquiries regarding the high EA spending.
+
+E. Li Provided False Internal Certifications
+and Made False Statements to Company A Management
+
+35. As Managing Director of China Subsidiary, for each quarter from 2008 to 2016,
+Li signed an internal certification related to Company Aâs filings. In each instance, Li certified:
+(1) âI designed disclosure controls and procedures (meaning controls and other procedures for
+recording, processing, summarizing, and reporting information that [Company A] must disclose
+in its public report) to ensure that material information relating to my area of responsibility is
+made known to the CEO and CFOâ; (11) ânothing came to my attention that made me question
+the effectiveness of [Company Aâs] disclosure controls and proceduresâ; and (111) âI am not
+
+aware of any significant deficiencies in the design or operation of [Company Aâs] internal
+
+11
+Case 1:19-cv-10562 Document1 Filed 11/14/19 Page 12 of 16
+
+controls or any material weaknesses in internal controls or any fraud, whether material or not
+material, that involves management or other employees who have a significant role in [Company
+Aâs] internal controls.â Based on the facts summarized above, showing Liâs concealment of
+bribery, approval of false expenses, and circumvention of internal accounting controls, these
+certifications were false.
+
+36. On October 20-21, 2016, in testimony before the Commission staff â and in the
+presence of the Company A officer responsible for its FCPA compliance (and other Company A
+representatives) â Li denied knowledge of any payments to Chinese government officials on
+behalf of China Subsidiary. Specifically, Li stated that he never offered any payment to any
+official at the Ministry of Commerce or the State Administration of Industry and Commerce, and
+that he was not aware of any such payments offered by anyone at China Subsidiary. Li also
+stated that China Subsidiary was very strict about FCPA compliance. Those statements were
+false and misleading, for the reasons set forth above, and Li thus further acted to circumvent
+Company Aâs internal accounting controls. Lee further testified that he did not have a personal
+email account and that he did not use any email account other than his work email. This
+testimony was false and misleading because Li did, in fact, have a personal email account, which
+he used for work-related correspondence.
+
+FIRST CLAIM FOR RELIEF
+Violations of Section 30(A) of the Exchange Act
+(Anti-Bribery Provisions of the FCPA)
+37. Paragraphs | through 36 are re-alleged and incorporated by reference herein.
+38. Li, who was an officer, director, employee, or agent of Company A, a U.S. issuer,
+
+made use of the mails or other means or instrumentalities of interstate commerce corruptly in
+
+12
+Case 1:19-cv-10562 Document1 Filed 11/14/19 Page 13 of 16
+
+furtherance of an offer, payment, promise to pay, or authorization of the payment of any money,
+or offer, gift, promise to give, or authorization of the giving of anything of value to foreign
+officials for the purposes of influencing their acts or decisions, securing an improper advantage,
+or inducing them to use their influence to assist the issuer in obtaining or retaining business.
+39. By reason of the foregoing, Li violated Section 30A of the Exchange Act [15
+U.S.C. Â§78dd-l].
+SECOND CLAIM FOR RELIEF
+
+Li Aided and Abetted Company Aâs Violations
+of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act
+
+(Company Books and Records and Internal Accounting Controls)
+
+AQ. Paragraphs 1 through 36 are re-alleged and incorporated herein by reference.
+
+Al. Section 13(b)(2)(A) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(A)] requires
+issuers to make and keep books, records, and accounts which, in reasonable detail, accurately
+and fairly reflect the transactions and dispositions of their assets.
+
+42. Section 13(b)((2)(B) of the Exchange Act [15 U.S.C. Â§ 78m(b)(2)(B) requires
+issuers to devise and maintain a system of internal accounting controls sufficient to provide
+reasonable assurances that transactions are recorded as necessary to allow preparation of
+financial statements in conformity with generally accepted accounting principles or any other
+criteria applicable to such statements, and to maintain accountability for assets.
+
+43. Company A violated Exchange Act Sections 13(b)(2)(A) and 13(b)(2)(B) [15
+U.S.C. Â§Â§ 78m(b)(2)(A) and (b)(2)(B)].
+
+44. Li knowingly or recklessly provided substantial assistance to Company A with
+respect to Company Aâs violations of Exchange Act Sections 13(b)(2)(A) and 13(b)(2)(B) [15
+
+U.S.C. 8Â§ 78m(b)(2)(A) and (b)(2)(B)].
+
+13
+Case 1:19-cv-10562 Document1 Filed 11/14/19 Page 14 of 16
+
+45. By reason of the foregoing, Li violated Section 20(e) of the Exchange Act [15
+U.S.C. Â§ 78t(e)] by aiding and abetting Company Aâs violations of Sections 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§8 78m(b)(2)(A) and (b)(2)(B)].
+
+THIRD CLAIM FOR RELIEF
+Li Violated Section 13(b)(5) of the Exchange Act and Exchange Act Rule 13b2-1
+(Falsifying Books and Records)
+
+46. Paragraphs 1| through 36 are re-alleged and incorporated herein by reference.
+
+47. As described above, Li knowingly falsified, and directly or indirectly caused to be
+falsified books, records, or accounts of Company A, an issuer subject to Section 13(b)(2) of the
+Exchange Act [15 U.S.C. Â§78m(b)(2)]. As a result of Liâs conduct, the books and records of
+Company A falsely recorded the corrupt payments for bribes to Chinese government officials
+described above as payments for bona fide business expenses. By authorizing the falsification of
+invoices and expense applications, Li knowingly circumvented Company Aâs internal accounting
+controls.
+
+A8. By reason of the foregoing, Li violated Section 13(b)(5) of the Exchange Act [15
+U.S.C. Â§ 78m(b)(5)] and Exchange Act Rule 13b2-1 [17 C.F.R. Â§240.13b2-1].
+
+PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court enter a Final
+Judgment:
+
+L.
+
+Finding that the Defendant (A) violated Sections 13(b)(5) and 30A of the Exchange Act
+[15 U.S.C. Â§Â§ 78m(b)(5) and 78dd-l] and Rule 13b2-1 thereunder [17 C.F.R. Â§240.13b2-1]; and
+
+(B) aided and abetted Company Aâs violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the
+
+14
+Exchange Act [15 U.S.C. Â§Â§ 78m(b)(2)(A) and (b)(2)(B)] as alleged in this Complaint;
+II.
+
+Permanently enjoining the Defendant, his agents, servants, employees, attorneys-in-fact
+and assigns, and those persons in active concert or participation with him or who receive actual
+notice of the injunction by personal service or otherwise, from (A) violating or aiding and
+abetting violations of Sections 13(b)(5) and 30A of the Exchange Act [15 U.S.C. Â§Â§ 78m(b)(5)
+and 78dd-I] and Rule 13b2-1 thereunder [17 C.F.R. Â§240.13b2-1]; and (B) aiding and abetting
+violations of Sections 13(b)(2)(A) and 13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§
+78m(b)(2)(A) and (b)(2)(B)];
+
+HI.
+
+Ordering the Defendant to pay civil monetary penalties pursuant to Section 21(d)(3) of
+
+the Exchange Act [15 U.S.C. Â§ 78u(d)(3)]; and
+IV.
+
+Granting such other and further relief as the Court may deem just and proper.
+
+15
+Case t:To-cv-10562? Bocumenti Filled 1i/14/19 Page 16 of 16
+
+ae
+
+JURY DEMAND
+Pursuant to Rule 38 of the Federal Rules of Civil Procedure, Plaintiff demands trial by
+
+jury in this action of all issues so triable.
+
+Dated: New York, New York
+November 14, 2019
+
+By: VDL fix. 2
+
+Matec P. Berger
+
+Sanjay Wadhwa
+
+Gerald A. Gross
+
+Jack Kaufman
+
+Liora Sukhatme
+
+Attorneys for Plaintiff
+SECURITIES AND EXCHANGE COMMISSION
+New York Regional Office
+Brookfield Place
+
+200 Vesey Street, Suite 400
+
+New York, New York 10281-1022
+(212) 336-0106 (Kaufman)
+Kaufmanja@sec.gov
+
+16

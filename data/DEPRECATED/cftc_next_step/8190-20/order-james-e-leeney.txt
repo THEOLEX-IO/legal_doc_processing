@@ -1,0 +1,436 @@
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+(— RECEIVED CFTC >
+
+ 
+
+ 
+
+In the Matter of:
+
+ 
+
+James E. Leeney,
+CFTC Docket No. 20-18 Proceedings Clerk
+
+\ 11:46 am, Jun 29, 2020 )
+
+ 
+
+ 
+
+Respondent.
+
+Nee ee’ ee ee NS”
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND (d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS, AND IMPOSING REMEDIAL sanctions
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (“Commission”) has reason to believe that
+from in or about June 2015 to at least September 2017 (“Relevant Period”), James E. Leeney
+(“Respondent”) violated Section 4c(b) of the Commodity Exchange Act (“Act”), 7 U.S.C.
+
+§ 6c(b) (2018), Section 40 of the Act, 7 U.S.C. § 60 (2018), and Regulation 33.10, 17 C.F.R.
+§ 33.10 (2019), of the Commission Regulations (“Regulations”) promulgated thereunder.
+Therefore, the Commission deems it appropriate and in the public interest that public
+administrative proceedings be, and hereby are, instituted to determine whether Respondent
+engaged in the violations set forth herein and to determine whether any order should be issued
+imposing remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and (d) of the Commodity
+Exchange Act, Making Findings, and Imposing Remedial sanctions (“Order”), and
+acknowledges service of this Order.’
+
+ 
+
+' Respondent consents to the use of the findings of fact and conclusions of law in this Order in this proceeding and
+in any other proceeding brought by the Commission or to which the Commission is a party or claimant, and agrees
+that they shall be taken as true and correct and be given preclusive effect therein, without further proof. Respondent
+does not consent, however, to the use of this Order, or the findings or conclusions herein, as the sole basis for any
+other proceeding brought by the Commission or to which the Commission is a party or claimant, other than: a
+proceeding in bankruptcy or receivership; or a proceeding to enforce the terms of this Order. Respondent does not
+consent to the use of the Offer or this Order, or the findings or conclusions in this Order, by any other party in any
+other proceeding.
+II. FINDINGS
+The Commission finds the following:
+A. SUMMARY
+
+During the Relevant Period, Respondent, as an associated person (“AP’’) of a registered
+introducing broker (“Entity A”), knowingly defrauded customers by making misrepresentations
+and omissions of material fact about profits from Entity A’s so-called options trading program
+(“Options Program’) in violations of Section 4c(b) of the Act, 7 U.S.C. § 6c(b) (2018), and
+Regulation 33.10, 17 C.F.R. § 33.10 (2019). By so doing, Respondent is also liable for aiding
+and abetting Entity A’s violations of Section 40 of the Act, 7 U.S.C. § 60 (2018), which prohibits
+fraud by a trading advisor (“CTA”), pursuant to Section 13(a) of the Act, 7 U.S.C. § 13c(a)
+(2018).
+
+B. RESPONDENT
+
+Proposed Respondent James E. Leeney was registered with the Commission as an AP of
+Entity A from December 2013 through September 2017. Respondent has no current registration
+status. Respondent is a resident of Chicago, Illinois.
+
+C. FACTS
+
+From at least June 2015 through December 2019, Entity A, through its principals,
+employees, and agents, engaged in a scheme to defraud customers in connection with options on
+futures contracts traded on various designated contract markets.
+
+Entity A’s fraudulent scheme involved making trade recommendations to customers as
+part of its options trading program (“Options Program’’). In the Options Program, Entity A
+provided customers with trading recommendations. Each recommendation was for a different
+spread trade involving out-of-the-money options on futures contracts traded on certain
+designated contract markets.
+
+During the Relevant Period, Respondent worked for Entity A as an AP, soliciting
+customers to open accounts and trade according to Entity A’s trading recommendations.
+Respondent made numerous false and misleading statements to customers and prospective
+customers about the success of the Options Program pursuant to a script provided to him by
+Entity A’s management. For example, Respondent told customers:
+
+e Entity A wouldn’t be able to trade “millions of dollars for hundreds of customers” if
+they weren’t “being profitable for them;”
+
+e 75.6% of Options Program trades were likely to be “winning trades,” which would
+result in a “successful” outcome for customers;
+
+e It would be “easy” for customers to achieve a “12% annual return.”
+In reality, substantially all customers who participated in the Options Program lost
+money. Respondent knew this from account statements he received on a daily basis. Respondent
+also knew this from customers who called to complain about losses in their accounts.
+Respondent nonetheless continued to misrepresent that trading under the Options Program was
+profitable.
+
+Respondent deliberately withheld Entity A’s dismal account performance from customers
+and prospective customers. When customers asked about Entity A’s track record, Respondent
+told customers, pursuant to a script provided by Entity A’s management, that Respondent could
+“sit here and show you trades and WOW you or something like that,” but that the “success” of
+the Options Program was attributable to its “structure.”
+
+Entity A’s customers often had difficulty understanding the account statements they
+received from the futures commission merchant. Respondent took advantage of customer
+confusion. Sometimes Respondent would tell a customer that he or she had made money when
+in fact the customer had lost money. Other times Respondent would tell a customer that he or
+she had made money on one of the recommended trades while failing to mention the customer
+had lost money on the other three.
+
+For customers who understood they were losing money, Respondent would sometimes
+claim (falsely) that account statements did not reflect “unrealized P&L.” Other times,
+Respondent would acknowledge the losses, but claim that Entity A tended to “perform well
+coming out of [ ] periods where we take a loss” because of “volatility.” This was untrue.
+
+During the Relevant Period, Respondent earned approximately $225,000 from Entity A,
+primarily in the form of commissions from customer trades.
+
+Hil. LEGAL DISCUSSION
+
+A. Respondent Violated Section 4c(b) of the Act and Regulation 33.10 by Committing
+Fraud in Connection with Options on Futures Transactions
+
+Section 4c(b) of the Act, 7 U.S.C. § 6c(b) (2018), provides that no person shall offer to
+enter into, enter into or confirm the execution of, any transaction involving any commodity
+which is of the character of, or is commonly known to the trade as, an “option,” contrary to any
+rule, regulation, or order of the Commission prohibiting any such transaction or allowing any
+such transaction under such terms and conditions as the Commission shall prescribe.
+
+Regulation 33.10, 17 C.F.R. § 33.10 (2019), provides that it shall be unlawful for any
+person directly or indirectly to: (a) cheat or defraud or attempt to cheat or defraud any other
+person; (b) make or cause to be made to any other person any false report or statement thereof; or
+(c) deceive or attempt to deceive any other person by any means whatsoever, in or in connection
+with an offer to enter into, the entry into, the confirmation of the execution of, or the
+maintenance of, any commodity option transaction.
+
+In order to establish liability for fraud, the CFTC has the burden of proving three
+elements: (1) the making of a misrepresentation, misleading statement, or a deceptive omission;
+(2) scienter; and (3) materiality. CFTC v. R.J. Fitzgerald & Co., 310 F.3d 1321, 1328 (11th Cir.
+2002). Reliance is not an element in public enforcement cases. CFTC v. Wilson, 19 F. Supp. 3d
+352, 363 (D. Mass. 2014), aff'd sub nom. CFTC v. JBW Capital, 812 F.3d 98 (1st Cir. 2016).
+Whether a misrepresentation has been made depends on the “overall message,” and how that
+
+message would be interpreted by an objectively reasonable receiver of that information. R.J.
+Fitzgerald, 310 F.3d at 1328.
+
+Scienter is established if the defendants intended to defraud, manipulate, or deceive, or if
+the defendants’ conduct represents an extreme departure from the standards of ordinary care, 1.e.,
+recklessness. Jd. Recklessness is present when the defendant’s conduct involves highly
+unreasonable omissions or misrepresentations that present a danger of misleading customers
+which is known to the defendant or so obvious the defendant must have been aware of it. Id.
+
+A representation or omission is material if a reasonable investor would consider it
+important in deciding whether to make an investment. /d. When the language of a solicitation
+obscures the important distinction between the possibility of substantial profit and the probability
+that it will be earned, it is likely to be materially misleading to customers. CFTC v. Kratville,
+796 F.3d 873, 895 (8th Cir. 2015). Misrepresentations about profit potential and risk “go to the
+heart of a customer’s investment decision and are therefore material as a matter of law.” Jd.
+(internal quotation omitted).
+
+Respondent engaged in a fraudulent scheme with respect to trading options on futures
+contracts via the Options Program. Respondent made false and misleading statements to
+customers and prospective customers about the profitability of trading pursuant to the Options
+Program. CFTC v. Matrix Trading Grp., Inc., No. 00-8880-CIV, 2002 WL 31936799, at *6
+(S.D. Fla. Oct. 3, 2002) (finding defendants in out-of-the-money options scheme “misrepresented
+and omitted material facts concerning the likelihood and extent of profits to be made trading
+commodity options, the risks inherent in trading such options, and the actual performance record
+in trading commodity options pursuant to the [ ] strategy”). Moreover, Respondent omitted to
+advise customers and potential customers that substantially all of Entity A’s customers lost
+money. R.J. Fitzgerald, 310 F.3d at 1332 (“[A] reasonable investor surely would want to
+know—before committing money to a broker—that 95% or more of [ ] investors lost money.”’).
+
+Respondent made these misstatements and omissions knowingly or recklessly, since he
+knew from account statements and complaints from customers who had lost money trading
+pursuant to the Options Program. JBW Capital, 812 F.3d at 106 n.15 (holding defendant acted
+which scienter where he received “daily account statements” showing customer losses).
+Respondent’s false statements and omissions were material, since they related to customer
+profits and losses.
+
+ 
+
+? See also Kratville, 796 F.3d 873, 892 (finding misleading statements as to firm’s “track record” were fraudulent);
+CFTC v. Carnegie Trading Grp., Ltd., 450 F. Supp. 2d 788, 799 (N.D. Ohio 2006) (finding defendants
+“misrepresented profit potential and the risks of trading to potential customers” in out-of-the-money options
+scheme).
+B. Respondent Is Liable for Aiding and Abetting Entity A’s violations of Section 40 of
+the Act, which Prohibits Fraud by a CTA
+
+During the Relevant Period, Entity A acted as a CTA within the meaning of Section
+1a(12)(A)@)CID of the Act, 7 U.S.C. § ladd2)(A)G)CID (2018), in that it, for compensation or
+profit, engaged in the business of advising others as to the value of or the advisability of trading
+in commodity options, including options on futures contracts.”
+
+Section 40(1) of the Act, 7 U.S.C. § 60(1) (2018), provides that it shall be unlawful for a
+CTA, directly or indirectly, to: (a) employ any device, scheme, or artifice to defraud a customer
+or prospective customer; or (b) engage in any transaction, practice, or course of business which
+operates as a fraud or deceit upon any customer or prospective customer.
+
+As set forth above, Entity A engaged in a scheme to defraud customers and prospective
+customers by, among other things, knowingly making numerous false and misleading statements
+about the success of the Options Program and failing to disclose Entity A’s actual account
+performance to customers and prospective customers.
+
+Section 13(a) of the Act, 7 U.S.C. §13c(a) (2018), provides, in relevant part, that “[a]ny
+person who commits, or who willfully aids, abets, counsels, commands, induces, or procures the
+commission of, a violations of [the Act or Regulations], or who acts in combination or concert
+with any other person in any such violations ... may be held responsible for such violations as a
+principal.”
+
+Establishing aider and abettor liability requires proof that: (1) the Act was violated;
+(2) the defendant had knowledge of the wrongdoing underlying the violations; and (3) the
+defendant intentionally assisted the principal wrongdoers. In re Shahrokh Nikkhah, CFTC No.
+95-13, 2000 WL 622872, at *11 & n.28 (May 12, 2000); In re Amaranth Natural Gas
+Commodities Litig., 612 F. Supp. 2d 376 (S.D.N.Y. 2009) (citing In re: Natural Gas Commodity
+Litig., 337 F. Supp. 2d 498, 511 (S.D.N.Y. 2004)).
+
+Respondent aided and abetted Entity A’s CTA fraud by knowingly making material
+misstatements or omissions to customers and prospective customers. Respondent did so in order
+to further Entity A’s fraudulent scheme. Respondent is therefore liable for Entity A’s violations
+pursuant to Section 13(a) of the Act.
+
+ 
+
+* Although registered with the Commission as a introducing broker (“IB”), Entity A was not eligible for an
+exemption from registration as a CTA under Regulation 4.14(a)(6), 17 C.F.R. § 4.14(a)(6) (2019), because its
+trading advice program was not solely in connection with its business as an IB, but rather constituted its primary
+business activity.
+IV. FINDINGS OF violations
+
+Based on the foregoing, the Commission finds that, during the Relevant Period, James E.
+Leeney violated Section 4c(b) of the Act, 7 U.S.C. § 6c(b) (2018), Section 40 of the Act,
+7 U.S.C. § 60 (2018), and Regulation 33.10, 17 C.F.R. § 33.10 (2019).
+
+V. OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which he, without admitting or denying the
+findings and conclusions herein:
+
+A. Acknowledges service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violations of or enforcement of this Order;
+
+C. Waives:
+
+1. The filing and service of a complaint and notice of hearing;
+
+2. A hearing;
+
+3. All post-hearing procedures;
+
+4. Judicial review by any court;
+
+5. Any and all objections to the participation by any member of the Commission’s
+staff in the Commission’s consideration of the Offer;
+
+6. Any and all claims that he may possess under the Equal Access to Justice Act,
+5 U.S.C. § 504 (2018), and 28 U.S.C. § 2412 (2018), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations, 17 C.F.R.
+pt. 148 (2019), relating to, or arising from, this proceeding;
+
+7. Any and all claims that he may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, tit. II, §§ 201-253,
+110 Stat. 847, 857-74 (codified as amended at 28 U.S.C. § 2412 and in scattered
+sections of 5 U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding;
+and
+
+8. Any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief, including this Order;
+
+D. Stipulates that the record basis on which this Order is entered shall consist solely of the
+
+findings contained in this Order to which Respondent has consented in the Offer; and
+Consents, solely on the basis of the Offer, to the Commission’s entry of this Order that:
+
+1. Makes findings by the Commission that Respondent violated Section 4c(b) of the
+Act, 7 U.S.C. § 6c(b) (2018), Section 40 of the Act, 7 U.S.C. § 60 (2018), and
+Regulation 33.10, 17 C.F.R. § 33.10 (2019);
+
+2. Orders Respondent to cease and desist from violating Section 4c(b) and Section 40
+of the Act, and Regulation 33.10;
+
+3. Orders Respondent to pay a civil monetary penalty in the amount of three hundred
+fifty thousand dollars ($350,000), plus post-judgment interest;
+
+4. Orders that Respondent be prohibited from, directly or indirectly, engaging in
+trading on or subject to the rules of any registered entity (as that term is defined in
+Section la(40) of the Act, 7 U.S.C. § la(40) (2018)), for a period of five years
+after the date of entry of this Order, and all registered entities shall refuse him
+trading privileges during that period.
+
+Upon consideration, the Commission has determined to accept the Offer.
+
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+1.
+
+Respondent shall cease and desist from violating Section 4c(b) of the Act, 7 U.S.C.
+§ 6c(b) (2018), Section 40 of the Act, 7 U.S.C. § 60 (2018), and Regulation 33.10,
+17 C.F.R. § 33.10 (2019);
+
+Respondent shall pay a civil monetary penalty in the amount of three hundred fifty
+thousand dollars ($350,000) (‘CMP Obligation”). If the CMP Obligation is not paid
+immediately, then post-judgment interest shall accrue on the CMP Obligation beginning
+on the date of entry of this Order and shall be determined by using the Treasury Bill rate
+prevailing on the date of entry of this Order pursuant to 28 U.S.C. § 1961 (2018).
+
+Respondent shall pay the CMP Obligation and any post-judgment interest by electronic
+funds transfer, U.S. postal money order, certified check, bank cashier’s check, or bank
+money order. If payment is to be made other than by electronic funds transfer, then the
+payment shall be made payable to the Commodity Futures Trading Commission and sent
+to the address below:
+
+MMAC/ESC/AMK326
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+6500 S. MacArthur Blvd.
+
+HQ Room 181
+
+Oklahoma City, OK 73169
+
+(405) 954-6569 office
+
+(405) 954-1620 fax
+9-AMC-AR-CFTC @ faa. gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Marie
+Thorne or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+
+Respondent is prohibited from, directly or indirectly, engaging in trading on or subject to
+the rules of any registered entity (as that term is defined in Section la(40) of the Act,
+
+7 U.S.C. § 1a(40) (2018)), for a period of five years after the date of entry of this Order,
+and all registered entities shall refuse him trading privileges during that period; and
+
+Respondent shall comply with the following conditions and undertakings set forth in the
+Offer:
+
+1. Public Statements: Respondent agrees that neither he nor any of his successors
+and assigns, agents or employees under his authority or control shall take any
+action or make any public statement denying, directly or indirectly, any findings
+or conclusions in this Order or creating, or tending to create, the impression that
+this Order is without a factual basis; provided, however, that nothing in this
+provision shall affect Respondent’s: (i) testimonial obligations; or (11) right to
+take legal positions in other proceedings to which the Commission is not a party.
+Respondent and his successors and assigns shall comply with this agreement, and
+shall undertake all steps necessary to ensure that all of their agents and/or
+employees under their authority or control understand and comply with this
+agreement.
+
+2. Respondent agrees that he, for a period of five years after the date of entry of this
+Order, shall not, directly or indirectly:
+
+a. enter into any transactions involving commodity interests (as that term is
+defined in Regulation 1.3, 17 C.F.R. § 1.3 (2019), for Respondent’s own
+personal account or for any account in which Respondent has a direct or
+indirect interest;
+
+b. have any commodity interests traded on Respondent’s behalf;
+
+c. control or direct the trading for or on behalf of any other person or entity,
+whether by power of attorney or otherwise, in any account involving
+commodity interests;
+
+d. solicit, receive, or accept any funds from any person for the purpose of
+purchasing or selling any commodity interests;
+e. apply for registration or claim exemption from registration with the
+Commission in any capacity, and engage in any activity requiring such
+registration or exemption from registration with the Commission except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. § 4.14(a)(9) (2019); and/or
+
+f. act as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R.
+§ 3.1(a) (2019)), agent or any other officer or employee of any person (as that
+term is defined in Section 1a(38) of the Act, 7 U.S.C. § 1a(38) (2018)),
+registered, required to be registered, or exempted from registration with the
+Commission except as provided for in Regulation 4.14(a)(9).
+
+3. Cooperation, in General: Respondent shall cooperate fully and expeditiously with
+the Commission, including the Commission’s Division of Enforcement, in this
+action, and in any current or future Commission investigation or action related
+thereto. Respondent shall also cooperate in any investigation, civil litigation, or
+administrative matter related to, or arising from, this action.
+
+4. Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission of any partial payment of Respondent’s CMP Obligation shall
+not be deemed a waiver of his obligation to make further payments pursuant to
+this Order, or a waiver of the Commission’s right to seek to compel payment of
+any remaining balance.
+
+5. Change of Address/Phone: Until such time as Respondent satisfies in full his
+CMP Obligation as set forth in this Order, Respondents shall provide written
+notice to the Commission by certified mail of any change to his telephone number
+and mailing address within ten calendar days of the change.
+
+The provisions of this Order shall be effective as of this date.
+
+By the Commission.
+
+Dabbe | Dd
+
+Christopher J. Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+ 
+
+Dated: June 29, 2020

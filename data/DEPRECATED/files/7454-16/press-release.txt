@@ -1,0 +1,44 @@
+ 
+
+September 27, 2016
+
+CFTC Orders Wells Fargo Bank, N.A. to Pay a $400,000 Penalty for Inaccurate Large Trader
+Reports for Physical Commodity Swaps Positions
+
+Washington, DC - The U.S. Commodity Futures Trading Commission (CFTC) today filed and simultaneously settled
+charges against Wells Fargo Bank, N.A. (Wells Fargo) for failing to comply with its obligations to submit accurate large
+trader reports (LTRs) for physical commodity swap positions, in violations of Section 4s(f)(1)(A) of the Commodity
+Exchange Act (CEA) and CFTC Regulations 20.4 and 20.7. Wells Fargo has its main office in Sioux Falls, South Dakota,
+and has been provisionally registered with the CFTC as a Swap Dealer since December 31, 2012.
+
+The CFTC Order requires, among other things, that Wells Fargo pay a $400,000 civil monetary penalty and cease and
+desist from committing further violations of the CEA and CFTC Regulations, as charged.
+
+As provided in the Order, large trader reporting for physical commodity swaps is essential to the CFTC’s ability to conduct
+effective surveillance of markets in U.S. physical commodity futures and economically equivalent swaps. The Order
+makes clear that as of March 1, 2013, swap dealers required to submit LTRs are expected to be in full compliance with
+the requirements governing LTRs set forth in CFTC Regulations 20.4 and 20.7, in conjunction with further instructions
+provided in the Part 20 Guidebook issued by the CFTC’s Division of Market Oversight.
+
+The Order finds that from at least March 1, 2013 through November 13, 2015, every LTR submitted by Wells Fargo failed
+to meet Part 20 requirements. According to the Order, Wells Fargo submitted inaccurate LTRs that contained multiple
+errors, including both missing data and data presented in a format inconsistent with CFTC requirements. Among the
+errors described in the Order, Wells Fargo’s reports included, at various times, records that failed to use the correct
+Clearing Member Identifier and improperly formatted swaption expiration date values.
+
+The Order further states that upon receiving its first error message from the CFTC in July 2015, Wells Fargo analyzed its
+past reports and made and continues to make modifications to its data processing and reporting systems as necessary to
+comply with its LTR reporting requirements.
+
+The CFTC appreciates the assistance of Richard Galloway, Regina Sanders, and Edward Wehner of the CFTC’s Office of
+Data Technology.
+
+The CFTC Division of Enforcement staff members responsible for this case are Neel Chopra, Joseph Muoio (previously on
+detail from the U.S. Department of Justice, Antitrust Division), Michael Cazakoff, Candice Aloisi, Lenel Hickson Jr., and
+Manal Sultan.
+
+Media Contact
+Dennis Holden
+202-418-5088
+
+Last Updated: September 27, 2016

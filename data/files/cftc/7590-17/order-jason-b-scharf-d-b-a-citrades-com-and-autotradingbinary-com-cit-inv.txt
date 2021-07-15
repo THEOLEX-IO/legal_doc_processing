@@ -1,0 +1,713 @@
+IN THE UNITED STATES DISTRICT COURT
+MIDDLE DISTRICT OF FLORIDA
+JACKSONVILLE DIVISION
+
+a BT)
+
+Pope
+
+727 JUL 12 PM 318
+
+  
+
+ 
+
+Commodity Futures Trading Commission,
+Plaintiff,
+VS.
+
+Jason B. Scharf (d/b/a Citrades.com and
+AutoTradingBinary.com); CIT Investments
+LLC; Brevspand EOOD; CIT Investments
+Ltd.; A & J Media Partners, Inc.; Michael
+Shah; and Zilmil, Inc.,
+
+Defendants.
+
+ 
+
+Case No. 3:17-cv-774-J-32MCR
+
+IN CAMERA ORDER GRANTING
+PLAINTIFF COMMODITY FUTURES
+TRADING COMMISSIONâS EX PARTE
+MOTION FOR STATUTORY
+RESTRAINING ORDER,
+APPOINTMENT OF TEMPORARY
+RECEIVER, AN ACCOUNTING,
+EXPEDITED DISCOVERY, ORDER TO
+SHOW CAUSE REGARDING
+PRELIMINARY INJUNCTION, AND
+OTHER EQUITABLE RELIEF!
+
+Hon. Timothy J. Corrigan
+
+ 
+
+Plaintiff, the Commodity Futures Trading Commission (âCommissionâ), has filed a
+
+Complaint for Permanent Injunction and Other Relief and moved, pursuant to Section 6c(a)
+
+of the Commodity Exchange Act (the âActâ), 7 U.S.C. Â§ 13a-1(a) (2012), for an ex parte
+
+statutory restraining order freezing assets, appointing a Temporary Receiver, and ordering
+
+Defendants Jason Scharf, CIT Investments LLC (âCIT Investmentsâ), Brevspand EOOD
+
+(âBrevspandâ), CIT Investments, Ltd. (âCIT Anguillaâ), A & J Media Partners, Inc. (ââA&J
+
+ 
+
+' Although this Order is filed under seal, the Clerk shall provide certified copies to counsel
+for the Commission who is authorized and directed to forthwith serve copies on Defendants
+with a copy of the complaint. Once Defendants have been served, the Court will unseal the
+
+file upon motion.
+Mediaâ), Michael Shah, and Zilmil, Inc. (âZilmilâ) (collectively, âDefendantsâ) to show
+cause why a receiver should not be appointed and why a preliminary injunction should not be
+issued.
+The Court has considered the pleadings, declarations, exhibits, and memorandum
+filed in support of the Commissionâs motion for a statutory restraining order, and held a
+hearing on the motion on July 12, 2017, the record of which is incorporated by reference.
+The Court finds that:
+Ll: This Court has jurisdiction over the parties and over the subject matter of this
+action pursuant to Section 6c of the Act, 7 U.S.C. Â§ 13a-1.
+2. Venue lies properly within this District pursuant to Section 6c(e) of the Act,
+7 ULS.C. Â§13a-1(e).
+3, There is good cause to believe that Defendants Scharf, CIT Investments,
+Brevspand, CIT Anguilla, and A&J Media, by and through their agents, principals, and
+control persons, hereinafter collectively referred to as âCitrades Defendants,â have engaged
+in, are engaging in, or are about to engage in:
+a. off-exchange retail transactions in swaps, in violation of Section 2(e) of the
+Act, 7 U.S.C. Â§ 2(e) (2012);
+
+b. off-exchange transactions in commodity options, in violation of Section 4c(b)
+of the Act, 7 U.S.C.Â§ 6c(b) (2012), and Regulation 32.2, 17 C.F.R. Â§ 32.2
+(2017); and
+
+Ã©. fraud in violation of:
+I. Section 4c(b) of the Act, 7 U.S.C.Â§ 6c(b), and Regulation 32.4,
+
+17 C.F.R. Â§ 32.4 (2017), which prohibit fraud in connection with
+commodity options transactions;
+
+I. Section 40(1) of the Act, 7 U.S.C. Â§ 60(1) (2012), which prohibits
+fraud by, among others, a commodity trading advisor (âCTAâ), and
+Regulation 4.41(a), 17 C.F.R. Â§ 4.41(a) (2017), which prohibits fraud
+in advertising by, among others, a CTA or any principal thereof; and
+
+Hl. Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1) (2012), and Regulation
+180.1(a), 17 C.F.R. Â§ 180.1(a) (2017), which prohibit fraud in
+connection with swaps transactions.
+
+There is good cause to believe that from June 2013 through the present (âRelevant
+Periodâ), the Citrades Defendants, d/b/a Citrades.com and AutoTradingBinary.com, have
+operated a massive scam in which the Citrades Defendants fraudulently solicited customers
+to enter into illegal, off-exchange investments in so-called âbinary options.â During the
+Relevant Period, the Citrades Defendants received at least $16 million in customer funds and
+opened more than 140,000 accounts.
+
+4. There is good cause to believe that Defendants Shah and Zilmil; by and
+through their agents, principals, and control persons, hereinafter collectively referred to as
+âZilmil Defendants,â have engaged in, are engaging in, or are about to engage in:
+
+a. conducting activity with respect to off-exchange transactions in commodity
+
+options, in violation of Section 4c(b) of the Act, 7 U.S.C. Â§ 6c(b), and
+
+Regulation 32.2, 17 C.F.R. Â§ 32.2; and
+b. fraud in violation of:
+
+I Section 4c(b) of the Act, 7 U.S.C.Â§ 6c(b), and Regulation 32.4,
+
+17 C.F.R. Â§ 32.4, which prohibit fraud in connection with commodity
+options transactions;
+
+Il. Section 40(1) of the Act, 7 U.S.C. Â§ 60(1), which prohibits fraud by,
+among others, a commodity trading advisor (âCTAâ), and Regulation
+4.41(a), 17 C.F.R. Â§ 4.41(a), which prohibits fraud in advertising by,
+among others, a CTA or any principal thereof; and
+
+Ill. Section 6(c)(1) of the Act, 7 U.S.C. Â§ 9(1), and Regulation 180.1(a),
+17 C.F.R. Â§ 180.1(a), which prohibit fraud in connection with swaps
+transactions.
+
+5. There is good cause to believe that during the Relevant Period, the Zilmil
+Defendants acted as third-party ââaffiliate marketersâ who drive internet traffic to the Citrades
+Defendants by fraudulently soliciting customers to sign up for or purchase so-called binary
+options autotrading systems with names like âMillionaire Money Machine.â When
+customers sign up for the autotrading systems, they are instructed to send money to the
+Citrades Defendants. During the Relevant Period, the Zilmil Defendants made gross
+revenues of more than $4 million from sales of its autotrading systems and another $500,000
+in commissions from the Citrades Defendants.
+
+6. There is good cause to believe that immediate and irreparable damage to the
+Courtâs ability to grant effective final relief for customers in the form of monetary or other
+
+redress will occur from the sale, transfer, assignment, or other disposition by Defendants of
+assets or records unless Defendants are immediately restrained and enjoined by Order of the
+Court.
+
+ie Therefore, there is good cause for the Court to freeze assets owned,
+controlled, managed, or held by or on behalf of, or for the benefit of Defendants.
+
+8. There is good cause for entry of an order prohibiting Defendants, their agents,
+servants, employees, assigns, attorneys, and persons in active concert or participation with
+the Defendants, including any successor thereof, from destroying records and/or denying
+agents of the Commission access to inspect and copy records, when and as requested, to
+ensure that Commission representatives have immediate and complete access to those books
+and records,
+
+9. There is good cause for the Plaintiff to conduct expedited discovery in order
+to determine the full extent of Defendantsâ alleged wrongdoing, locate Defendantsâ other
+customers, identify customer funds and other assets of the Defendants and clarify the source
+and whereabouts of various funds.
+
+10. There is good cause for the sppointment of a Temporary Receiver to take
+control of all assets owned, controlled, managed or held by, on behalf of, or for the benefit of
+Defendants in order to preserve assets, investigate and determine customer claims, determine
+unlawful proceeds retained by Defendants and amounts due to customers as a result of
+Defendantsâ alleged violations, and distribute remaining funds under the Courtâs supervision.
+
+ll. There is good cause to require an accounting by Defendants to determine the
+
+location and disposition of customer funds.
+12. There is good cause to order repatriation of assets controlled by Defendants to
+assure payment of restitution and disgorgement as authorized and for the benefit of
+customers.
+
+13. Absent the entry of this statutory restraining order, the Defendants are likely
+to dissipate or transfer assets and destroy business records.
+
+14. Weighing the equities and considering the Commissionâs likelihood of
+success, this is a proper case for granting a statutory restraining order ex parte to preserve the
+status quo, protect public customers from loss and damage, and enable the Commission to
+fulfill its statutory duties, therefore the Court orders as follows:
+
+DEFINITIONS
+
+For the purposes of this Order, the following definitions apply:
+
+LS, The term âassetsâ means any legal or equitable interest in, right to, or claim
+to, any real or personal property, whether individually or jointly, directly or indirectly
+controlled, and wherever located, including but not limited to: chattels, goods, instruments,
+equipment, fixtures, general intangibles, effects, leaseholds mail or other deliveries,
+inventory, checks, notes, accounts (including, but not limited to, bank accounts and accounts
+at other financial institutions), credits, receivables, lines of credit, contracts (including spot,
+futures, options, or swaps contracts), insurance policies, and all cash, wherever located,
+whether in the United States or outside the United States.
+
+16. The term âdocumentâ is synonymous in meaning and equal in scope to the
+usage of the term in Federal Rule of Civil Procedure (âFed. R. Civ. P.ââ) 34(a), and includes,
+
+but is not limited to, all writings or printed matter of any kind, including without limitation:
+records, correspondence, memoranda, notes, rolodexes, address books, diaries, statistics, e-
+mail, letters, telegrams, minutes, contracts, reports, studies, checks, statements, receipts,
+returns, summaries, pamphlets, books, prospectuses, interoffice or intra-office
+communications, telephone message slips, offers, notations of conversations, bulletins,
+drawings, plans, computer printouts, computer input or output, teletypes, facsimiles,
+invoices, worksheets, ledger books, books of accounts, and all drafts, alterations,
+modifications, changes and amendments of any of the foregoing. The term âdocumentâ also
+includes graphs, charts, photographs, phonographic record, audio and video recordings,
+computer records, and other data compilations from which information can be obtained or
+translated, if necessary, through detection devices into reasonable usable form. The term
+âdocumentâ also refers to each and every document in Defendant(s)â actual or constructive
+possession, including but not limited to: (i) all documents within Defendant(s)â custody or
+control of any of Defendant(s)â present or former agents, employers, employees, partners,
+and (ii) all documents which Defendant(s) have a legal or equitable right to obtain from
+another person. A draft or non-identical copy is a separate document within the meaning of
+the term. A document also includes the file and folder tabs associated with each original and
+copy.
+
+17. âDefendant(s)â refers to Jason Scharf, CIT Investments, Brevspand, CIT
+Anguilla, A&J Media, Michael Shah, and Zilmil, and any person insofar as he or she is
+acting in the capacity of an officer, agent servant, employee, or attorney of any Defendant
+and any person who receives actual notice of this Order by personal service or otherwise
+
+insofar as he or she is acting in concert or participation with any Defendant. âDefendant(s)â
+also refers to any d/b/a, successor, affiliate, subsidiary, or other entity owned, controlled,
+managed, or held by, on behalf of, or for the benefit of Jason Scharf, CIT Investments,
+Brevspand, CIT Anguilla, A&J Media, Michael Shah, or Zilmil.
+
+RELIEF GRANTED
+
+I. Asset Freeze Order Prohibiting the Transfer, Removal, Dissipation and Disposal
+of Assets
+
+18. IT IS HEREBY ORDERED that Defendants and their agents, servants,
+employees, assigns, attorneys, and persons in active concert or participation with them,
+including any successor thereof, who receive actual notice of this Order by personal service
+or otherwise, are immediately restrained and enjoined, except as otherwise ordered by this
+Court, from directly or indirectly transferring, selling, alienating, liquidating, encumbering,
+pledging, leasing, loaning, assigning, concealing, dissipating, converting, withdrawing, or
+otherwise disposing of any Defendantsâ assets, wherever located, including Defendantsâ
+assets held outside the United States, except as provided otherwise in Sections V and VI of
+this Order, or as otherwise ordered by the Court;
+
+rg, Defendants are restrained and enjoined from directly or indirectly opening or
+causing to be opened any safe deposit boxes titled in the name of or subject to access by
+Defendants.
+
+20. | Notwithstanding the provisions of this Section I, at the request of the
+Temporary Receiver, Defendants and any other person who has possession, custody, or
+control of any of Defendantsâ assets shall transfer possession of all assets subject to this
+
+Order to the Temporary Receiver in accordance with Section VII of this Order.
+21. The assets affected by this Order shall include both existing assets and assets
+acquired after the effective date of this Order.
+
+Il. Directives to Financial Institutions and Others
+
+22. IT IS FURTHER ORDERED, pending further Order of this Court, that any
+financial or brokerage institution, business entity, or person that holds or has held, controls or
+has controlled, or maintains or has maintained custody of any account or other of
+Defendantsâ assets at any time since June 2013 shall:
+
+a. Immediately upon receipt of a copy of this Order, prohibit Defendants and all
+other persons from withdrawing, removing, assigning, transferring, pledging,
+encumbering, disbursing, dissipating, converting, selling or otherwise
+disposing of any of Defendantsâ assets, except as directed by further order of
+the Court.
+
+b. Immediately upon receipt of a copy of this Order deny Defendants and all
+other persons access to any safe deposit box that is: (a) owned, controlled,
+managed, or held by, on behalf of, or for the benefit of Defendants, either
+individually or jointly; or (b) otherwise subject to access by Defendants.
+
+& Within five (5) business days of receiving a copy of this Order, provide the
+Temporary Receiver a statement setting forth: (a) the identification number of
+each and every account or asset owned, controlled, managed, or held by, on
+behalf of, or for the benefit of Defendants, either individually or jointly; (b)
+the balance of each such account, or a description of the nature and value of
+
+such asset as of the close of business on the day on which this Order is
+received, and, if the account or other asset has been closed or removed, the
+date closed or removed, the total funds removed in order to close the account,
+and the name of the person or entity to whom such account or other asset was
+remitted; and (c) the identification of any safe deposit box that is either
+owned, controlled, managed, or held by, on behalf of, or for the benefit of
+Defendants, either individually or jointly, or is otherwise subject to access by
+any Defendants.
+
+d. Within ten (10) business days of a request by the Temporary Receiver, or such
+longer period specified by the Temporary Receiver, provide the Temporary
+Receiver with copies of all records or other documentation pertaining to such
+account or asset, including, but not limited to, originals or copies of account
+applications, account statements, signature cards, checks, drafts, deposit
+tickets, transfers to and from the accounts, all other debit and credit
+instruments or slips, currency transaction reports, 1099 forms, and safe
+deposit box logs.
+
+Ã©. Cooperate with all reasonable requests of the Temporary Receiver or the
+Commission relating to implementation of this Order, including transferring
+funds at the Temporary Receiverâs direction and producing records related to
+Defendantsâ accounts.
+
+Il. Maintenance of and Access to Business Records
+
+IT IS HEREBY ORDERED that:
+
+10
+ee Defendants, and all persons or entities who receive notice of this Order by
+personal service or otherwise, are restrained from directly or indirectly destroying,
+mutilating, erasing, altering, concealing or disposing of, in any manner any documents that
+refer or relate in any manner to any transaction or matter described in the Complaint in this
+case, including the business practices or business or personal finances of any Defendant.
+
+IV. Inspection and Copying of Books and Records
+
+IT IS FURTHER ORDERED that:
+
+24. Representatives of the Commission (accompanied by representatives of other
+state or federal authorities, including the Federal Bureau of Investigation, if the Commission
+so desires) shall be allowed immediate and continued access to inspect the books, records,
+and other documents of the Defendants and their agents that refer or relate in any manner to
+any transaction or matter described in the Complaint in this case, including, but not limited
+to, paper documents, electronically stored information, tape recordings, and computer discs,
+when and as requested wherever they may be situated and whether they are in the possession
+of the Defendants or others, and to copy said documents, data and records, either on or off
+the premises where they may be situated.
+
+25. For email or other accounts that contain personal communications of the
+individual defendants not relating in any manner to any transaction or matter described in the
+Complaint, the Commission shall not disclose such communications, and shall treat such
+communications as confidential.
+
+V. Order Appointing Temporary Receiver.
+
+IT IS FURTHER ORDERED that:
+
+11
+26.
+
+Kenneth Dante Murena of DAMIAN & VALORI LLP, 1000 Brickell Ave.,
+
+Suite 1020, Miami, FL 33131 is appointed Temporary Receiver, with the full powers of an
+
+equity receiver, for Defendants and their affiliates and subsidiaries (hereinafter referred to as
+
+the ââReceivership Defendantsâ), and of all the funds, properties, premises, accounts, income,
+
+money now or hereafter due or owing to the Receivership Defendants, and other assets
+
+directly or indirectly owned, beneficially or otherwise, by the Receivership Defendants
+
+(hereinafter, the âReceivership Estateâ). The Temporary Receiver shall be the agent of this
+
+Court in acting as Temporary Receiver under this Order.
+
+ay
+
+following:
+
+a.
+
+The Temporary Receiver is directed and authorized to accomplish the
+
+Assume full control of the Receivership Defendants by removing Defendants,
+and any officer, independent contractor, employee, or agent of the
+Receivership Defendants, from control and management of the affairs of the
+Receivership Defendants;
+
+Take exclusive custody, control, and possession of the Receivership Estate
+with the full power to sue for, collect, receive and take possession of all
+goods, chattels, rights, credits, moneys, effects, land, leases, books, records,
+work papers, and records of accounts, including computer-maintained
+information, contracts, financial records, monies on hand in banks and other
+financial institutions, and other papers and documents of the Receivership
+Defendants and customers or clients whose interests are now held by or under
+
+the direction, possession, custody or control of the Receivership Defendants;
+
+12
+Perform all acts necessary, including the suspension of operations, to
+conserve, hold, manage, and preserve the value of the Receivership Estate in
+order to prevent an irreparable loss, damage, or injury to customers;
+
+Prevent the withdrawal or misapplication of funds entrusted to the
+receivership Defendants, and otherwise protect the interests of customers or
+clients;
+
+Manage and administer the Receivership Defendants and the Receivership
+Estate by performing all acts incidental thereto that the Temporary Receiver
+deems appropriate, including hiring or dismissing any and all personnel,
+suspending operations, and/or entering into agreements, including but not
+limited to: (1) the retention and employment of investigators, attorneys, or
+accountants of the Temporary Receiverâs choice, including without limitation
+members and employees of the Temporary Receiver firm, to assist, advise,
+and represent the Temporary Receiver; and (2) the movement and storage of
+any equipment, furniture, records, files or other physical property of the
+Receivership Defendants;
+
+Collect all money owed to the Receivership Defendants;
+
+Initiate, defend, compromise, adjust, intervene in, dispose of, or become a
+party to any actions or proceedings in state, federal or foreign court that the
+Temporary Receiver deems necessary and advisable to preserve or increase
+
+the value of the Receivership Estate or that the Temporary Receiver deems
+necessary and advisable to carry out the Temporary Receiverâs mandate under
+this Order;
+
+Choose, engage and employ attorneys, accountants, appraisers, and other
+independent contractors and technical specialists, as the Temporary Receiver
+deems advisable or necessary in the performance of duties and responsibilities
+under the authority granted by this Order;
+
+Issue subpoenas to obtain documents and records pertaining to the
+Receivership and conduct discovery in this action on behalf of the
+Receivership Estate;
+
+Open one or more bank accounts and deposit all funds of the Receivership
+Estate in such designated accounts and make all payments and disbursements
+from the Receivership Estate from such accounts;
+
+Make payments and disbursements from the Receivership Estate that are
+necessary or advisable for carrying out the directions of, or exercising the
+authority granted by, this Order, provided that the Temporary Receiver shall
+apply to the Court for prior approval of any payment of any debt or obligation
+incurred by the Receivership Defendants prior to the date of entry of this
+Order, except for payments that the Temporary Receiver deems necessary or
+advisable to secure the Receivership Estate from immediate and irreparable
+loss;
+
+Maintain written accounts itemizing receipts and expenditures, describing
+
+properties held or managed, and naming the depositories holding funds or
+
+14
+other assets of the Receivership Estate; make such written accounts and
+supporting documentation available to the Commission for inspection; and,
+within sixty (60) days of being appointed and periodically thereafter, as
+directed by the Court, file with the Court and serve on the parties a report
+summarizing efforts to marshal and collect assets, administer the Receivership
+
+Estate, and otherwise perform the duties mandated by this Order.
+
+VI. Accounting and Transfer of Funds and Documents
+
+28.
+
+IT IS FURTHER ORDERED that within five (5) business days following
+
+the service of this Order, each Defendant shall:
+
+a.
+
+Provide the Temporary Receiver with a full detailed accounting of all funds,
+documents, and assets, including the assets inside and outside of the United
+States that are held by each and every Defendant, for their benefit, or under
+their direct or indirect control, whether jointly or singly.
+
+Transfer to the territory of the United States and deliver to possession,
+custody, and control of the Temporary Receiver, all funds, documents, and
+assets (other than real property) located outside of the United States that are
+held by each and every Defendant, for their benefit, or under their direct or
+indirect control, whether jointly or singly.
+
+Provide the Temporary Receiver access to all records of accounts or assets of
+the Defendant(s) held by financial institutions located within or outside the
+territorial United States by signing the Consent to Release of Financial records
+
+attached to this Order.
+
+LS
+IT IS FURTHER ORDERED, that:
+
+29. Defendants shall, within 24 hours of service of this Order, cause to be
+prepared and delivered to the Temporary Receiver, a detailed and complete schedule of all
+passwords and identification (ID) numbers for all websites, cloud storage services,
+videophone accounts and all accounts at any bank, financial institution or brokerage firm
+(including any introducing broker or futures commission merchant) operated by or to which
+any of the Defendants has access.
+
+30. Defendants shall, within 24 hour of the issuance of this Order, cause to be
+prepared and delivered to the Temporary Receiver, a detailed and complete schedule of all
+desk top computers, laptop computers and or mobile devices owned and/or used by them in
+connection with their business. The schedules required by this section shall include at a
+minimum the make, model and description of each, along with the location, the name of the
+person primarily assigned to use the computer and/or mobile device, and all passwords
+necessary to access and use the software contained on the computer and/or mobile device.
+The Commission shall be authorized to make an electronic, digital or hard copy of all of the
+data contained on the computer(s) and/or mobile device(s) that refer or relate in any manner
+to any transaction or matter described in the Complaint in this case.
+
+Sl. For email or other accounts that contain personal communications of the
+individual defendants not relating in any manner to any transaction or matter described in the
+Complaint, the Temporary Receiver shall not disclose such communications, and shall treat
+such communications as confidential.
+
+VII. Turning Over Property to the Temporary Receiver
+
+16
+IT IS FURTHER ORDERED that:
+
+D2.
+
+Immediately upon service of this Order upon them, Defendants, and any other
+
+person or entity served with a copy of this Order, shall immediately or within such time as
+
+permitted by the Temporary Receiver in writing, deliver over to the Temporary Receiver:
+
+a.
+
+Possession and custody of all funds, assets, property, and all other assets,
+owned beneficially or otherwise, wherever situated, of the Receivership
+Defendants;
+
+Possession and custody of records of the Receivership Defendants, including
+but not limited to, all books and records of accounts, all financial and
+accounting records, balance sheets, income statements, bank records
+(including monthly statements, canceled checks, records of wire transfers, and
+check registers), client lists, title documents and other records of the
+Receivership Defendants;
+
+Possession and custody of all funds and other assets belonging to members of
+the public now held by the Receivership Defendants;
+
+All keys, computer passwords, entry codes, and combinations to locks
+necessary to gain or to secure access to any of the assets or records of the
+Receivership Defendants, including but not limited to, access to the
+Receivership Defendantsâ business premises, means of communication,
+accounts, computer systems, or other property; and
+
+Information identifying the accounts, employees, properties or other assets or
+
+obligations of the Receivership Defendants.
+
+17
+VII. Directive to Cooperate with Temporary Receiver
+
+IT IS FURTHER ORDERED that:
+
+33, Defendants, and all other persons or entities served with a copy of this order
+shall cooperate fully with and assist the Temporary Receiver. This cooperation and
+assistance shall include, but not be limited to, providing any information to the Temporary
+Receiver that the Temporary Receiver deems necessary to exercising the authority as
+provided in this Order; providing any password required to access any computer or electronic
+files in any medium; and discharging the responsibilities of the Temporary Receiver under
+this Order, and advising all persons who owe money to the Receivership Defendants that all
+debts should be paid directly to the Temporary Receiver.
+
+IX. Stay on Actions By the Receivership Defendants
+
+IT IS FURTHER ORDERED that:
+
+33. Except by leave of the Court, during the pendency of the receivership ordered
+herein, the Defendants, and all other persons and entities be and hereby are stayed from
+petitioning, or assisting in the filing of a petition, that would cause the Receivership
+Defendants to be placed in bankruptcy.
+
+X. Compensation for Temporary Receiver and Personnel Hired by the Temporary
+Receiver
+
+IT IS FURTHER ORDERED that:
+34. The Temporary Receiver and all personnel hired by the Temporary Receiver
+
+shall comply with Billing Instructions attached hereto.
+
+XI. Bond Not Required of Plaintiff or the Temporary Receiver
+
+IT IS FURTHER ORDERED that:
+
+18
+35. As Plaintiff Commission is an agency of the United States of America, which
+has made a proper showing under Section 6c(b), 7 U.S.C. 13a-1(b), this restraining order is
+granted without bond. Accordingly, the Temporary Receiver need not post a bond.
+
+XII. Service of Order
+
+IT IS FURTHER ORDERED that:
+
+36. Copies of this Order may be.served by any means, including facsimile or
+email transmission, upon any financial institution or other entity or person that may have
+possession, custody, or control of any documents or assets of any Defendant, or that may be
+otherwise subject to any provision of this Order.
+
+37. Staff of the Division of Enforcement, or representatives thereof,
+representatives of the United States Marshal Service, and representatives of any state or local
+law enforcement agencies in the jurisdictions, including the Federal Bureau of Investigation,
+in which any Defendant resides are specially appointed by the Court to effect service.
+Further, service of the Summons, Complaint, or other process may be effected by any
+Commission representative, any U.S. Marshal or deputy U.S. Marshal, any representative of
+the Federal Bureau of Investigation, or in accordance with Fed. R. Civ. P. 4, and service on
+corporate entities may be effected by serving the Summons, Complaint, or other process via
+overnight delivery to the registered agent of said corporate entities.
+
+XIII. Assistance of U.S. Marshals Service and Other Law Enforcement Personnel
+
+IT IS FURTHER ORDERED that:
+38. The United States Marshalâs Service and the Federal Bureau of Investigation
+
+are authorized to accompany and assist (a) the Commissionâs representatives in the service
+
+19
+and execution of the Summons, Complaint and this Order and to undertake such efforts as
+are reasonably necessary to ensure that the Commissionâs representatives have an unimpeded
+right to inspect and copy books, records, and documents as set forth above wherever such
+books, records, and documents are or are believed by the Commission to be located, and
+
+(b) the Temporary Receiver in taking control and custody of the assets, records and business
+premises of the Receivership Defendants.
+
+XIV. Expedited Discovery
+
+IT IS FURTHER ORDERED that:
+
+39. | Notwithstanding the prohibition upon discovery before the early meeting of
+counsel pursuant to Fed. R. Civ. P. 26(f), in accordance with Fed. R. Civ. P. 26(d), the
+Commission is granted leave to conduct expedited discovery at any time after service of this
+Order, to take the deposition of and demand the production of documents from any person or
+entity for the purpose of discovering the nature, location, status, and extent of assets of the
+Defendants, and the location of documents reflecting the business transactions of the
+Defendants; forty-eight (48) hoursâ notice, personally, by facsimile or by electronic mail,
+shall be deemed sufficient for any such deposition and five (5) daysâ notice, personally, by
+facsimile or by electronic mail, shall be deemed sufficient for the production of any such
+documents.
+
+40. The Commission may conduct expedited discovery to enable the Commission
+to fulfill its statutory duties and protect investors from further loss or damage. This
+expedited discovery will allow the Commission to determine the full extent of
+
+Defendantâs/Defendantsâ alleged wrongdoing (including, but not limited to, the possible
+
+20
+involvement of others), locate Defendantâs/Defendantsâ other customers, identify customersâ
+funds and other of Defendantsâ assets, and clarify the sources of various funds.
+
+41. No deposition taken pursuant to this section XIII shall count towards the ten-
+deposition limit set forth in Fed. R. Civ. P. 30(a)(2)(A)(i).
+
+XV. Service on the Commission
+
+IT IS FURTHER ORDERED that:
+
+42. The Defendants shall comply with all electronic filing rules and requirements
+of the U.S. District Court of the Middle District of Florida, Jacksonville Division, and shall
+serve all pleadings, correspondence, notices required by this Order, and other materials on
+the Commission by delivering a copy to Senior Trial Attorney Ashley J. Burden, Division of
+Enforcement, Commodity Futures Trading Commission, 525 West Monroe Street, Suite
+1100, Chicago, Illinois 60661, aburden@cftc.gov, by electronic filing, e-mail, personal
+delivery or courier service (such as Federal Express or United Parcel Service) and not by
+regular mail due to potential delay resulting from heightened security and decontamination
+procedures applicable to the Commissionâs regular mail.
+
+XVI. Order to Show Cause
+
+IT IS FURTHER ORDERED that:
+
+43. Each of the Defendants shall appear before this Court on Wednesday, July
+26, 2017, at 2:00 p.m. before the Honorable Timothy J. Corrigan, Courtroom 10-D at the
+United States Courthouse for the Middle District of Florida at 300 N. Hogan Street,
+Jacksonville, Florida 32202, to show cause, if there be any, why an Order for Preliminary
+
+Injunction should not be granted to prohibit further violations of the Act and Regulations and
+
+21
+why this Court should not continue the freeze on the assets of the Defendants, make the
+Temporary Receiverâs appointment permanent, and order any additional Relief this Court
+deems appropriate pending trial on the merits of this action. The temporary receiver is also
+directed to appear in person at the hearing. Should any party wish to file a memorandum
+of law or other papers in opposition to the Commissionâs Motion for Preliminary Injunction
+against the Defendants, all papers shall be filed on or before Monday, July 24, 2017 at
+12:00 p.m., and upon Senior Trial Attorney Ashley J. Burden, Division of Enforcement,
+Commodity Futures Trading Commission, 525 West Monroe Street, Suite 1100, Chicago,
+Illinois 60661, aburden(@ecfitc.gov, by electronic filing, e-mail, personal delivery or courier
+service (such as Federal Express or United Parcel Service), and not by regular mail. Any
+Defendant who files such papers shall be subject to a limit of 25 pages, exclusive of exhibits.
+Service of all papers shall be by electronic mail, facsimile, or personal service.
+
+44, The Commission shall file proof of service forthwith as each Defendant is
+served.
+XVII. Force and Effect
+
+IT IS FURTHER ORDERED that:
+
+45, This Order shall remain in full force and effect until further order of this
+Court, and that this Court retains jurisdiction of this matter for all purposes. However, the
+Court recognizes that this Order is being entered on an ex parte basis and Defendants will be
+provided a full opportunity to be heard at the hearing on the Commissionâs motion for
+
+preliminary injunction.
+
+a2
+IT SO ORDERED, at Jacksonville, Florida on this 12th day of July 2017, at : â7
+
+23
+
+ 
+
+BRIAN J. DAVIS ~
+
+UNITED STATES DISTRICT JUDGE
+(for the Honorable Timothy J. Corrigan, in
+his absence)
+Copies with attached Billing Instructions and Consent form:
+
+Ashley J. Burden, Esq.
+Eric L. Schleef, Esq.
+
+Joseph Konizeski, Esq.
+
+24

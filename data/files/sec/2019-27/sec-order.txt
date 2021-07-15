@@ -1,0 +1,825 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 85261 / March 6, 2019
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4028 / March 6, 2019
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-19022
+
+ 
+
+ 
+
+ 
+
+ORDER INSTITUTING CEASE-AND-DESIST
+In the Matter of PROCEEDINGS, PURSUANT TO SECTION
+21C OF THE SECURITIES EXCHANGE ACT
+Mobile TeleSystems PJSC, OF 1934, MAKING FINDINGS, AND
+IMPOSING REMEDIAL SANCTIONS AND A
+Respondent. CEASE-AND-DESIST ORDER
+I
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate and in the
+public interest that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section
+21C of the Securities Exchange Act of 1934 (âExchange Actâ), against Mobile TeleSystems PJSC
+(âMTSâ or âRespondentâ).
+
+Il
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferâ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, and without admitting or denying the findings
+herein, except as to the Commissionâs jurisdiction over it and the subject matter of these
+proceedings, which are admitted, Respondent consents to the entry of this Order Instituting Cease-
+and-Desist Proceedings, Pursuant to 21C of the Securities Exchange Act of 1934, Making
+Findings, and Imposing Remedial Sanctions and a Cease-and-Desist Order (âOrderâ), as set forth
+below.
+lit
+
+On the basis of this Order and Respondentâs Offer, the Commission findsâ that
+
+Summary
+
+A. These proceedings arise out of violations of the anti-bribery, books and records, and
+internal accounting controls provisions of the Foreign Corrupt Practices Act (âFCPAâ) [15 U.S.C.
+8Â§ 78dd-1, 78m(b)(2)(A), and 78m(b)(2)(B)] by MTS.
+
+B. From 2004 to at least 2012, MTS offered and paid bribes in violation of Section
+30A of the Exchange Act, to a government official in Uzbekistan in connection with its Uzbek
+operations. The improper payments enabled MTS to enter the Uzbek market, to operate as a
+telecommunications provider, and to receive commercial benefits to its operations. Those benefits
+continued until 2012, when the Uzbek government expropriated MTSâs Uzbek operations. During
+the course of the scheme, MTS made at least $420 million in illicit payments for the purpose of
+obtaining and retaining business, and those payments generated more than $2.4 billion in revenues.
+These illicit payments were made through a variety of means, including equity transactions with
+the government official, sham contracts, and in the form of charitable contributions or sponsorships
+at the direction of the government official. These payments were improperly characterized as
+legitimate expenses in MTSâs books and records. MTS filed its financial statements, incorporating
+the falsely recorded payments, with the Commission throughout the relevant period.
+
+C. As aresult of the scheme, MTS violated Exchange Act Section 30A by agreeing to
+make corrupt payments to a government official in Uzbekistan for the purpose of obtaining or
+retaining business. MTS also violated Exchange Act Sections 13(b)(2)(A) and 13(b)(2)(B) by
+improperly recording the payments as legitimate expenses in its books and records and by failing
+to devise and maintain a reasonable system of internal accounting controls.
+
+Respondent
+
+D. Mobile TeleSystems PJSC is a provider of telecommunications services organized
+under the laws of Russia and headquartered in Moscow, Russia. It issues and maintains a class of
+publicly traded securities registered pursuant to Exchange Act Section 12(b) that traded on the
+New York Stock Exchange throughout the relevant period.
+
+Other Relevant Entities
+
+E. JV Uzdunrobita (âUzdunrobitaââ) was a telecommunications operator in Uzbekistan
+from the 1990s until 2012. Uzdunrobita became a subsidiary of MTS in 2004 and operated as such
+until 2012. Uzdunrobita was managed by local managers and had a supervisory board that included
+MTS senior managers.
+
+ 
+
+The findings herein are made pursuant to Respondent's Offer of Settlement and are not
+
+binding on any other person or entity in this or any other proceeding.
+F, Government Official A is a family member of the former President of Uzbekistan
+and was herself an Uzbek government official. She had influence over decisions made by UzACI,
+the regulatory authority governing telecommunications in Uzbekistan and held an ownership
+interest in Uzdunrobita through Swisdorn Ltd.
+
+G. Swisdorn Ltd is a company beneficially owned and operated by Government
+Official A. Swisdorn was formed in Gibraltar and was the entity through which MTS made most
+of its payments for the benefit of Government Official A.
+
+H. Takilant Ltd is a company beneficially owned and operated by Government
+Official A. Takilant was formed in Gibraltar and was the entity through which MTS made some
+payments for the benefit of Government Official A.
+
+Facts
+Entry Into Uzbekistan
+
+I. In July 2004 MTS entered the Uzbek telecommunications market by purchasing a
+majority interest in Uzdunrobita, a company with existing operations in Uzbekistan. At the time,
+Government Official A beneficially owned 59% of Uzdunrobitaâs shares through Swisdorn and
+chaired Uzdunrobitaâs supervisory board.
+
+J. In July 2004, MTS purchased 74% of the shares of Uzdunrobita for $121 million.
+MTS paid $100 million to Swisdorn for 33% of the shares of Uzdunrobita, which represented a
+significantly higher value per share than the amount paid to the other seller, which sold MTS 41%
+of the shares of Uzdunrobita. A majority of the payment to Swisdorn represented an illicit
+payment to Government Official A for the purpose of allowing MTSâs entry into the Uzbek
+telecommunications market.
+
+K. MTSâs Board of Directors approved the acquisition of 74% of Swisdorn on July
+26, 2004, and the members of Uzdunrobita approved the transaction on August 2, 2004. From
+that point forward until 2012, Uzdunrobita was managed by a local manager who had a personal
+relationship with Government Official A.
+
+L. From 2004 to 2012, Uzdunrobita entered into a number of transactions that
+benefitted Government Official A.
+
+Expansion of Uzbek Operations
+
+M. In 2005, MTS began investing in an expansion of its telecommunications network
+in Uzbekistan. As part of its expansion strategy, MTS sought to acquire a block of new
+telecommunications frequencies in the 900 MHz range, which would complement the emerging
+3G technology. Under Uzbek law, however, private parties were prohibited from purchasing and
+selling regulatory assets such as frequencies.
+N. In order to circumvent this prohibition, MTS entered into an agreement with a
+small telecommunications operator named Buztel that was partially owned by Government
+Official A. Buztel held a block of frequencies in the 900 MHz range. Under the agreement,
+Uzdunrobita agreed to pay Buztel $12 million, of which $4 million would go to Government
+Official A. In return, Buztel agreed to repudiate its rights to the frequencies and allow them to
+be reallocated to Uzdunrobita. Government Official A, who also exercised control over the
+Uzbek telecommunications regulatory authority, ensured that the regulator approved the intended
+reallocation.
+
+Option Amendment
+
+O. At the time MTS purchased 33% of the shares of Uzdunrobita from Swisdorn, it
+entered into a three-year put and call option agreement with Swisdorn pertaining to Swisdornâs
+remaining 26% interest in Uzdunrobita. Pursuant to the agreement, Swisdorn received a 3-year
+put option to sell its remaining 26% interest in the company to MTS. MTS received a
+corresponding 3-year call option to purchase the 26% block from Swisdorn. The exercise price
+of the put and call options was set at 26% of $145,000,000, or $37.7 million, plus five percent
+interest per annum for each year after the signing of the agreement until the put or call option
+was exercised.
+
+P. On August 17, 2006, as requested by Government Official A, MTS and Swisdorn
+entered into an amendment to the 2004 put and call option agreement that (1) eliminated MTSâs
+call option; (2) extended the expiration date of Swisdornâs put option to July 14, 2008; and
+(3) amended the purchase price to a valuation to be determined by a mutually-agreeable
+investment bank. Each of these changes provided a unilateral benefit to Swisdorn and, through
+it, to Government Official A.
+
+Q. According to an estimate prepared for MTSâs investment committee, the value of
+Swisdornâs put option increased from $44,000,000 to a fair market valuation of at least
+$150,000,000, while MTS lost its opportunity to exercise the call option at a fixed price. The
+benefit transferred to Government Official A was one of the series of payments that MTS, through
+Uzdunrobita, made to the official to ensure Uzdunrobitaâs continued operation in Uzbekistan.
+
+Option Exercise Package
+
+R. On April 2, 2007, Uzdunrobita received 3G and WiMax frequencies from the
+Uzbek telecommunications regulator that had the effect of increasing Uzdunrobitaâs fair market
+value by approximately $126 million to $140 million, and proportionally increased the value of
+Swisdornâs 26% share of Uzdunrobita.
+
+S. Following the acquisition of the 3G and WiMax licenses, Swisdorn on April 12,
+2007, gave MTS notice of its intent to exercise the put option. On April 27, 2007, consistent
+with the option amendment, Swisdorn and MTS engaged an international investment bank to
+prepare a valuation of Uzdunrobita. In its report the investment bank valued the 26% minority
+interest in Uzdunrobita, including the 3G and WiMax frequencies, at between $235 and $256. In
+June 2007, MTS paid Swisdorn $250 million for its remaining 26% interest in Uzdunrobita.
+4G/LTE Transaction
+
+T. In August 2008, an MTS subsidiary incorporated in Bermuda entered into a
+transaction in which Uzdunrobita would receive the rights to certain frequencies in the 800 MHz
+range in return for a $30 million payment to Takilant Ltd, which was beneficially owned by
+Government Official A.
+
+U. On August 21, 2008, Takilant and an MTS subsidiary executed an agreement
+under which Takilantâs subsidiary would waive its rights to the 800 MHz frequencies and return
+them to the Uzbek telecommunications regulator. On August 25, Government Official A
+exercised her control over the Uzbek telecommunications regulator to ensure that the 800 MHz
+frequency rights were assigned to Uzdunrobita.
+
+V. MTS made its $30 million payment to Takilant in six installments of $5 million
+each, beginning in October 2008 and ending in July 2009.
+
+W. In connection with the transaction, MTS retained an investigative firm to conduct
+due diligence on Takilant. When the investigator reported back that Takilant's nominal owner
+had no telecommunications background and was a known proxy for Government Official A,
+MTS ignored the information.
+
+X. MTS provided its due diligence investigator with Takilant's certificates of
+incorporation and corporate registration, both of which identified a proxy of Government
+Official A as Takilant's director and shareholder. MTS did not provide the investigator with any
+information referring to Government Official A, including whether Government Official A held
+a beneficial interest in Takilant.
+
+Y. On August 29, 2008, the investigative firm reported to MTS that "Uzbek sources
+regard Takilant Ltd as being beneficially owned by the family of the Uzbek president. ...
+Confidential sources close to, and knowledgeable about, Uzbek business and political circles,
+regard [the director of Takilant] as being a trustee of [Government Official A], a [relative] of the
+Uzbek president. Sources believe that [the director of Takilant] works for [Government Official
+A], being in charge of the latter's fashion business and PR matters."
+
+Z. After receiving the firm's findings, MTS conducted no further investigation and
+proceeded with the transaction.
+
+AA. In the months leading up to the 800 MHz transaction, senior managers at MTS
+discussed additional demands for payment from Government Official A. One senior MTS
+manager stated that the consequences for refusing payment included the possible suspension of
+Uzdunrobita's operations and Uzdunrobita's forced sale.
+
+BB. The same senior MTS manager sent a document to an MTS senior executive
+listing the status of MTS's payment commitments to Government Official A, as well as the status
+of the benefits the company had requested from the official.
+Status of our commitments
+
+1. Payment of the total amount of $50 million, with the
+following breakdown:
+
+e $30 million through the purchase of CDMA frequencies,
+prior to 01/11/08.
+
+MTS is ready to make the payment immediately.
+
+e $20 million in an agreed form, prior to 01/01/09, tied to
+the growth of the subscriber base.
+
+The basis for payment and the draft agreement are being
+worked out, but no scheme exists other than making the
+payment as a fee for services. Proposing to increase the
+amount of the contract pertaining to CDMA, with delayed
+payments.
+
+2. Beginning in 2009, for the assistance in creating favorable
+conditions for the growth of the Company and its
+subscriber base, guarantee the payment of an average of
+$20 million/year.
+
+The basis for payment and the draft agreement are being
+worked out.
+
+KolorIt Design Transaction
+
+CC. In September 2009, MTS agreed to have Uzdunrobita enter into an acquisition
+that would satisfy a portion of MTSâs obligation to confer a $20 million benefit on Government
+Official A. Uzdunrobita and MTS acquired 100% of an Uzbek advertising company named
+KolorIt Design ("KolorlIt") that Government Official A indirectly controlled. The acquisition
+was a non-core transaction for MTS because KolorIt had no telecommunications operations and
+MTS was not in the advertising business.
+
+DD. MTS engaged the same investigative firm to conduct due diligence on KolorIt that
+it had with Takilant. The firm reported that one of KolorIt's two listed shareholders was the
+same proxy of Government Official A who had appeared in the records of Takilant.
+
+EE. When MTS received the investigator's findings in August 2009 it conducted no
+further investigation and proceeded with the transaction. MTS paid the equivalent of
+approximately $40 million for KolorlIt, substantially more than the $23 million valuation of the
+company that JPMorgan had prepared at MTS's request.
+
+FF. Following the KolorlIt transaction, the senior MTS manager who had earlier
+prepared the document listing the status of MTS's payment commitments to Government Official
+A updated the document. The updated document, which now referred to Government Official A
+as âthe local partner,â stated that an obligation to pay $20 million by January 1, 2009 was
+satisfied in part by the KolorIt acquisition.
+
+July 2008' Agreements with the local partner
+status on their fulfilment (on 02.11.2009 r.)
+
+Our obligations
+
+1. To pay $50 [million] by
+
+e CDMA frequencies acquisition for $30 [million] by
+01.11.08
+
+Paid in full in July 2009
+
+e away to agree additionally $20 [million] by 01.01.09
+(linked to the customers number growth)
+
+Paid in full in September 2009 through ColorlT acquisition
+($10 [million]) and out of the vendor's additional discount
+($10 [million] )
+
+2. Starting year 2009 to pay up to $20 [million] annually for
+the assistance in creating favorable conditions for the
+operations linked to the customers number growth
+
+Contributions to Charities Supported by Government Official A
+
+GG. Acting through Uzdunrobita, MTS also made payments to charities supported by,
+and a sponsorship payment to a company connected to, Government Official A. The payments
+were made in the expectation that they were necessary to ensure Government Official Aâs
+continued support for Uzdunrobitaâs business. The payments were falsely recorded in
+Uzdunrobitaâs books and records as advertising and non-operating expenses, rather than as
+charitable expenses. The payments also failed to comply with appropriate internal controls. The
+payments were not approved until after payment was made and were not memorialized in
+agreements with anti-corruption representations. Below is a table of the payments made by
+Uzdunrobita in 2012:
+
+ 
+
+Date Payment Charity Name
+Amount
+3/27/2012 | $135,612 Center for Youth Initiatives
+âKelajak ovoziâ
+
+3/27/2012 | $135,612 Fund for Support of Social
+Initiatives
+
+3/27/2012 | $135,612 Republic Social Association
+âZhenskoye Sobraniyeâ
+3/27/2012 | $135,611 Public Fund âMehr Nuriâ
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+3/27/2012 | $189,856 Fund Forum
+3/27/2012 | $162,734 Fund Forum
+3/27/2012 | $189,856 Fund Forum
+4/24/2012 | $54,244 Terra Group
+Total $1,139,137
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Currency Conversion Transactions
+
+HH. Between 2005 and 2012, Uzdunrobita entered into equipment purchase contracts
+denominated in U.S. dollars. Due to restrictions on the conversion of Uzbek soums into U.S.
+dollars, Uzdunrobita was unable to convert enough currency to pay its equipment vendors. In
+order to make its payments under the contracts, Uzdunrobita entered into debt reassignment and
+equipment purchase agreements with third party companies who agreed to pay the required
+amounts of U.S. dollars to pay Uzdunrobitaâs vendors.
+
+Il. During the 2009-11 period, Uzdunrobita paid approximately $461.5 million to
+third party companies to effectuate purchases of network equipment in Uzbekistan. Of this total,
+approximately $142.7 million represented the difference between the Uzbek Central Bank
+exchange rate and the exchange rate agreed to by the parties and other markups. Approximately
+$92.6 million represented taxes and customs costs.
+
+JJ. Uzdunrobitaâs books and records, which were consolidated into MTS's books and
+records, did not reflect, in an appropriate level of detail and support, the $142.7 million in
+currency rate differentials and markups. These transactions had a material effect on the financial
+statements of Uzdunrobita. In addition, Uzdunrobita failed to conduct appropriate due diligence
+on the third party intermediaries to determine whether they were under the ownership or control
+of Government Official A or other Uzbek government officials.
+
+KK. As aresult of the conduct described above, MTS violated Exchange Act Sections
+30A, 13(b)(2)(A), and 13(b)(2)(B).
+
+Undertakings
+
+Cooperation
+
+LL. | Respondent undertakes to cooperate fully with the Commission in any and all
+investigations, litigation, or other proceedings relating to or arising from the matters described in
+this Order. In connection with such cooperation, Respondent shall:
+
+(1) produce, without service of a notice or subpoena, any and all non-
+privileged documents and other information requested by the Commission
+staff subject to any restrictions under the laws and regulations of any
+foreign jurisdiction;
+(2) use its best efforts to cause its current or former officers, employees,
+agents, and directors to be interviewed by Commission staff at such times
+and places as the staff reasonably may direct; and
+
+(3) use its best efforts to cause its current or former officers, employees,
+agents, and directors to appear and testify without service of a notice or
+subpoena in such investigations, depositions, hearings, or trials as may be
+requested by the Commission staff.
+
+MM. _ Should Respondent during the period which the Monitor is retained discover
+credible evidence, not previously reported to the Commission staff, that questionable or corrupt
+payments or questionable or corrupt transfers of property or interests may have been offered,
+promised, paid, or authorized by Respondent or by any entity or person while working directly
+for Respondent; that related false books and records have been maintained; or that Respondent
+has failed to implement adequate internal accounting controls, Respondent shall undertake to
+promptly report such conduct to the Commission staff.
+
+NN. During the period which the Monitor is retained, Respondent shall provide its
+external auditors with its annual internal audit plan and reports of the results of internal audit
+procedures and its assessment of its FCPA compliance policies and procedures.
+
+OO. During the period which the Monitor is retained, Respondent shall provide the
+Commission staff with any written reports or recommendations provided by Respondentâs
+external auditors in response to Respondentâs annual internal audit plan, reports of the results of
+internal audit procedures, and its assessment of its FCPA compliance policies and procedures.
+
+Retention of Monitor and Term of Engagement
+
+PP. Respondent shall engage an independent compliance monitor (the "Monitor") not
+unacceptable to the staff of the Commission within sixty (60) calendar days of the entry of the
+Order. The Monitor shall have, at a minimum, the following qualifications: (4) demonstrated
+expertise with respect to the FCPA and other applicable anti-corruption laws, including
+experience counseling on FCPA issues; (i1) experience designing or reviewing corporate
+compliance policies, procedures, and internal accounting controls, including FCPA and anti-
+corruption policies and procedures; (111) the ability to access and deploy resources as necessary to
+discharge the Monitor's duties as described in the Offer; and (iv) sufficient independence from
+Respondent to ensure effective and impartial performance of the Monitor's duties as described in
+the Offer. The Commission staff may extend Respondent's time period to retain the Monitor, in
+its sole discretion. If the Monitor resigns or is otherwise unable to fulfill the obligations
+described in the Offer, Respondent shall within forty-five (45) days retain a successor Monitor
+that has the same minimum qualifications as the original Monitor and that is not unacceptable to
+the Commission staff.
+
+QQ. Respondent shall retain the Monitor for a period of not less than thirty-six (36)
+months, unless the Commission staff finds, in its sole discretion, that there exists a change in
+circumstances sufficient to eliminate the need for the Monitor, in which case the Monitorship
+may be terminated early. The term of the Monitorship can be extended as set forth in Paragraph
+FF, below. Respondent shall provide the Commission staff with a copy of the agreement
+detailing the scope of the Monitor's responsibilities within thirty (30) days after the Monitor is
+engaged.
+
+RR. During the Term of the Monitorship and for a period of one year from the
+conclusion of the Monitorship, neither the Respondent nor any of its then-current or former
+affiliates, subsidiaries, directors, officers, employees, or agents acting in their capacity as such
+shall enter into, or discuss the possibility of, any employment, consultant, attorney-client,
+auditing, or other professional relationship with the Monitor.
+
+Respondent's Obligations
+
+SS. Respondent shall cooperate fully with the Monitor and provide the Monitor with
+access to all non-privileged information, documents, books, records, facilities, and personnel as
+reasonably requested by the Monitor; such access shall be provided consistent with Respondent's
+and the Monitor's obligations under applicable local laws and regulations, including applicable
+data privacy and national security laws and regulations. Respondent shall use its best efforts, to
+the extent reasonably requested, to provide the Monitor with access to Respondent's former
+employees, third party vendors, agents, and consultants. Respondent does not intend to waive
+the protection of the attorney work product doctrine, attorney-client privilege, or any other
+privilege applicable as to third parties.
+
+TT. The parties agree that no attorney-client relationship shall be formed between the
+Respondent and the Monitor. In the event that Respondent seeks to withhold from the Monitor
+access to information, documents, books, records, facilities, current or former personnel of the
+Respondent, its third-party vendors, agents, or consultants that may be subject to a claim of
+attorney-client privilege or to the attorney work-product doctrine, or where Respondent
+reasonably believes production would otherwise be inconsistent with the applicable laws and
+regulations, Respondent shall work cooperatively with the Monitor to resolve the matter to the
+satisfaction of the Monitor. If, during the Term of the Monitorship, the Monitor believes that
+Respondent is unreasonably withholding access on the basis of a claim of attorney-client
+privilege, attorney work-product doctrine, or other asserted applicable law, the Monitor shall
+notify the Commission staff.
+
+UU. Any disclosure by Respondent to the Monitor concerning potential corrupt
+payments, false books and records, or internal accounting control issues shall not relieve
+Respondent of any otherwise applicable obligation to truthfully disclose such matters to the
+Commission staff.
+
+Monitor's Mandate
+VV. The Monitor shall review and evaluate the effectiveness of the Respondent's
+policies, procedures, practices, internal accounting controls, recordkeeping, and financial
+
+reporting as they relate to Respondent's current and ongoing compliance with the anti-bribery,
+books and records, and internal accounting controls provisions of the FCPA and other applicable
+
+10
+anti-corruption laws, and make recommendations reasonably designed to improve the
+effectiveness of Respondent's internal accounting controls and FCPA corporate compliance
+program (the "Mandate"). This Mandate shall include an assessment of the board of directorsâ
+and senior management's commitment to, and effective implementation of, the FCPA corporate
+compliance program. In carrying out the Mandate, to the extent appropriate under the
+circumstances, the Monitor may coordinate with Respondent personnel, including in-house
+counsel, compliance personnel, and internal auditors. To the extent the Monitor deems
+appropriate, it may rely on Respondent's processes, and on sampling and testing methodologies.
+The Monitor is not expected to conduct a comprehensive review of all business lines, all business
+activities, and all markets. Any disputes between Respondent and the Monitor with respect to the
+work plan shall be decided by the Commission staff in its sole discretion.
+
+WW. During the term of the Monitorship, the Monitor shall conduct three reviews,
+issue a report following each review, and issue a final certification report, as described below.
+The Monitor's work plan for the first review shall include such steps as are reasonably necessary
+to conduct an effective first review. It is not intended that the Monitor will conduct its own
+inquiry into historical events. In developing each work plan and in carrying out the reviews
+pursuant to such plans, the Monitor is encouraged to coordinate with Respondent's personnel,
+including auditors and compliance personnel.
+
+First Review and Report
+
+XX. The Monitor shall commence the first review no later than one hundred twenty
+(120) calendar days from the date of the engagement of the Monitor (unless otherwise agreed by
+Respondent, the Monitor, and the Commission staff). Promptly upon being retained, the Monitor
+shall prepare a written work plan, which shall be submitted to Respondent and the Commission
+staff for comment no later than sixty (60) days after being retained.
+
+YY. In order to conduct an effective first review and to understand fully any existing
+deficiencies in Respondent's internal accounting controls and FCPA corporate compliance
+program, the Monitor's work plan shall include such steps as are reasonably necessary to
+understand Respondent's business and its global anti-corruption risks. The steps shall include:
+
+(1) inspection of relevant documents, including the internal accounting
+controls, recordkeeping, and financial reporting policies and procedures as
+they relate to Respondent's compliance with the books and records,
+internal accounting controls, and anti-bribery provisions of the FCPA and
+other applicable anti-corruption laws;
+
+(2) onsite observation of selected systems and procedures comprising
+Respondent's FCPA corporate compliance program, including
+anticorruption compliance procedures, internal accounting controls,
+recordkeeping, due diligence, and internal audit procedures, including at
+sample sites;
+
+(3) meetings with, and interviews of, as relevant, Respondentâs employees,
+officers, directors, and, where appropriate and feasible, its third-party
+
+11
+vendors, agents, or consultants and other persons at mutually convenient
+times and places; and
+
+(4) risk-based analyses, studies, and testing of Respondent's FCPA corporate
+compliance program.
+
+ZZ. The Monitor may take steps as reasonably necessary to develop an understanding
+of the facts and circumstances surrounding prior FCPA violations that gave rise to this action or
+violations of other applicable anti-corruption laws, but shall not conduct his or her own inquiry
+into those historical events.
+
+AAA. After receiving the first review work plan, Respondent and Commission staff
+shall provide any comments concerning the first review work plan within thirty (30) days to the
+Monitor. Any disputes between Respondent and the Monitor with respect to the first review
+work plan shall be decided by the Commission staff in its sole discretion. Following comments
+by Respondent and Commission staff, the Monitor will have fifteen (15) days to submit a final
+first review work plan.
+
+BBB. The first review shall commence no later than one hundred twenty (120) days
+from the date of the engagement of the Monitor (unless otherwise agreed by Respondent, the
+Monitor, and the Commission staff). The Monitor shall issue a written report within one hundred
+eighty (180) days of commencing the first review, setting forth the Monitor's assessment and, if
+necessary, making recommendations reasonably designed to improve the effectiveness of
+Respondent's internal accounting controls and FCPA corporate compliance program as they
+relate to Respondent's compliance with the FCPA and other applicable anti-corruption laws. The
+Monitor should consult with Respondent concerning his or her findings and recommendations on
+an ongoing basis and should consider Respondent's comments and input to the extent the
+Monitor deems appropriate. The Monitor may also choose to share a draft of his or her report
+with Respondent and Commission staff prior to finalizing it. The Monitor shall provide the
+report to the Board of Directors of Respondent and contemporaneously transmit a copy to
+Commission staff.
+
+CCC. Within one hundred eighty (180) days after receiving the Monitor's first review
+report, Respondent shall adopt and implement all recommendations in the Review, provided,
+however, that as to any recommendation that Respondent considers unduly burdensome,
+impractical, costly, or inconsistent with applicable law or regulation, Respondent need not adopt
+that recommendation at that time, but may submit in writing to the Monitor and the Commission
+staff within thirty (30) days of receiving the report an alternative policy, procedure, or system
+designed to achieve the same objective.
+
+DDD. In the event Respondent and the Monitor are unable to agree on an acceptable
+alternative proposal, Respondent shall promptly consult with the Commission staff. Any
+disputes between Respondent and the Monitor with respect to the recommendations shall be
+decided by the Commission staff in its sole discretion. The Commission staff shall consider the
+Monitor's recommendation and Respondent's reasons for not adopting the recommendation in
+
+12
+determining whether Respondent has fully complied with its obligations. Pending such
+determination, Respondent shall not be required to implement any contested recommendation(s).
+
+EEE. With respect to any recommendation that the Monitor determines cannot
+reasonably be implemented within one hundred and eighty (180) days after receiving the report,
+the Monitor may extend the time period for implementation with prior written approval of the
+Commission staff.
+
+Second Review
+
+FFF. Within one hundred twenty (120) days after the issuance of the first review report,
+the Monitor shall submit a written work plan for the second review to Respondent and
+Commission staff. Respondent and Commission staff shall provide any comments concerning the
+work plan within thirty (30) days in writing to the Monitor. Any disputes between Respondent
+and the Monitor with respect to the written work plan shall be decided by the Commission staff
+in its sole discretion. Following comments by Respondent and Commission staff, the Monitor
+will have fifteen (15) days to submit a final second review work plan.
+
+GGG. The second review shall commence no later than one hundred eighty (180) days
+after the issuance of the first review report (unless otherwise agreed by Respondent, the Monitor,
+and the Commission staff). The Monitor shall issue a written second review report within one
+hundred twenty (120) days of commencing the second review. The second review report shall
+set forth the Monitor's assessment of, and any additional recommendations regarding,
+Respondent's internal accounting controls and FCPA corporate compliance program as they
+relate to Respondent's compliance with the FCPA and other applicable anti-corruption laws; the
+Monitor's assessment of the implementation by Respondent of any recommendations made in the
+first review report; and the Monitor's assessment of the commitment of Respondent's board of
+directors and senior management to compliance with anti-corruption laws.
+
+HHH. Within one hundred twenty (120) days after receiving the Monitor's second
+review report, Respondent shall adopt and implement all recommendations in the report,
+provided, however, that as to any recommendation that Respondent considers unduly
+burdensome, impractical, costly, or inconsistent with applicable law or regulation, Respondent
+need not adopt that recommendation at that time, but may submit in writing to the Monitor and
+the Commission staff within thirty (30) days of receiving the report an alternative policy,
+procedure, or system designed to achieve the same objective.
+
+Ill. In the event Respondent and the Monitor are unable to agree on an acceptable
+alternative proposal within thirty (30) days, Respondent shall promptly consult with the
+Commission staff. Any disputes between Respondent and the Monitor with respect to the
+recommendations shall be decided by the Commission staff in its sole discretion. The
+Commission staff shall consider the Monitor's recommendation and Respondent's reasons for not
+adopting the recommendation in determining whether Respondent has fully complied with its
+obligations. Pending such determination, Respondent shall not be required to implement any
+contested recommendation(s).
+
+13
+Third Review
+
+JJJ.. |The Monitor shall commence a third review no later than one hundred twenty
+(120) days after the issuance of the second review report (unless otherwise agreed by
+Respondent, the Monitor, and the Commission staff). The monitor shall issue a written third
+review report within ninety (90) days of commencing the third review, setting forth the Monitor's
+assessment and, if necessary, making recommendations in the same fashion as with the prior
+reviews.
+
+KKK. Within ninety (90) days after receiving the Monitor's third review report,
+Respondent shall adopt and implement all recommendations in the report, provided, however,
+that as to any recommendation that Respondent considers unduly burdensome, impractical,
+costly, or inconsistent with applicable law or regulation, Respondent need not adopt that
+recommendation at that time, but may submit in writing to the Monitor and the Commission staff
+within thirty (30) days of receiving the report an alternative policy, procedure, or system
+designed to achieve the same objective.
+
+LLL. In the event Respondent and the Monitor are unable to agree on an acceptable
+alternative proposal within thirty (30) days, Respondent shall promptly consult with the
+Commission staff. Any disputes between Respondent and the Monitor with respect to the
+recommendations shall be decided by the Commission staff in its sole discretion. The
+Commission staff shall consider the Monitor's recommendation and Respondent's reasons for not
+adopting the recommendation in determining whether Respondent has fully complied with its
+obligations. Pending such determination, Respondent shall not be required to implement any
+contested recommendation(s).
+
+Certification
+
+MMM..No later than seventy-five (75) days before the end of the term of the
+Monitorship, the Monitor shall certify whether the Respondent's compliance program, including
+its policies and procedures, is reasonably designed and implemented to prevent and detect
+violations of the FCPA and is functioning effectively. Such certification shall be supported by a
+written final certification report that certifies Respondent's compliance with its obligations under
+the Order, and which shall set forth an assessment of the sustainability of the Respondent's
+remediation efforts and may also recommend areas for further follow-up by Respondent.
+
+NNN. The monitor shall orally notify the Commission staff at least fourteen (14) days
+prior to the issuance of the final certification report whether he or she expects to be able to
+certify as provided herein. In the event the Monitor is unable to certify within the three year
+term of the monitor period, the following extension provisions shall be in effect.
+
+Extension of Monitor Period
+OOO. If, as informed by the Monitor's inability to certify that the Respondent's
+compliance program, including its policies and procedures, is reasonably designed and
+
+implemented to prevent and detect violations of the FCPA and is functioning effectively, the
+Commission staff concludes that Respondent has not successfully satisfied its obligations under the
+
+14
+Monitorship, the Monitor period shall be extended for a reasonable time not to exceed one year
+absent extenuating circumstances.
+
+PPP. Under such circumstances, the Monitor shall commence a fourth review no later
+than sixty (60) days after the Commission staff concludes that Respondent has not successfully
+satisfied its compliance obligations under the Order (unless otherwise agreed by Respondent, the
+Monitor, and the Commission staff). The Monitor shall issue a written fourth review report
+within ninety (90) days of commencing the fourth review in the same fashion as set forth in
+Paragraph BBB with respect to the first review and in accordance with the procedures for follow-
+up reports set forth in Paragraphs FFF to LLL. A determination to terminate the Monitorship
+shall then be made in accordance with Paragraph MMM.
+
+QQQ. If, after completing the fourth review the Monitor is unable to certify, the
+Monitorship shall be extended, and the Monitor shall commence a fifth review (unless otherwise
+agreed by Respondent, the Monitor, and the Commission staff). The Monitor shall issue a written
+fifth review report within ninety (90) days of commencing the fifth review in the same fashion as
+set forth in Paragraph BBB with respect to the first review and in accordance with the procedures
+for follow-up reports set forth in Paragraphs FFF to LLL. These reviews shall continue until the
+Monitor is able to certify, or unless as otherwise agreed by Respondent and Commission staff.
+
+Monitor's Discovery of Potential or Actual Misconduct
+
+RRR. Throughout the term of the Monitorship, the Monitor shall disclose to the
+Commission staff any credible evidence that corrupt or otherwise suspicious transactions
+occurred, or payments or things of value were offered, promised, made, or authorized by any
+entity or person within Respondent, or any entity or person working directly or indirectly for or
+on behalf of Respondent, or that related false books and records may have been maintained by or
+on behalf of Respondent or that relevant internal accounting controls were circumvented or were
+not reasonably designed or implemented. The Monitor shall contemporaneously notify
+Respondent's general counsel, chief compliance officer, or audit committee for further action
+unless at the Monitor's discretion he or she believes disclosure to Respondent would be
+inappropriate under the circumstances. The Monitor shall address in his or her reports the
+appropriateness of Respondent's response to all improper activities, whether previously disclosed
+to the Commission staff or not.
+
+Certification of Completion
+
+SSS. No later than sixty (60) days from date of the completion of the undertakings with
+respect to the Monitorship, Respondent shall certify, in writing, compliance with the
+undertakings set forth above. The certification shall identify the undertakings, provide written
+evidence of compliance in the form of a narrative, and be supported by exhibits sufficient to
+demonstrate compliance. The Commission staff may make reasonable requests for further
+evidence of compliance, and Respondent agrees to provide such evidence.
+
+15
+Extensions of Time
+
+TTT. Upon request by the Monitor or Respondent, the Commission staff may extend
+any procedural time period set forth above for good cause shown.
+
+Confidentiality of Reports
+
+UUU. The reports submitted by the Monitor and the periodic reviews and reports
+submitted by Respondent will likely include confidential financial, proprietary, competitive
+business, or commercial information. Public disclosure of the reports could discourage
+cooperation, impede pending or potential government investigations, or undermine the objective
+of the reporting requirement. For these reasons the reports and the contents thereof are intended
+to remain and shall remain non-public, except (1) pursuant to court order, (11) as agreed to by the
+parties in writing, (i11) to the extent that the Commission determines in its sole discretion that
+disclosure would be in furtherance of the Commission's discharge of its duties and
+responsibilities, or (iv) as is otherwise required by law.
+
+Address for All Written Communications and Reports
+
+VVV. All reports or other written communications by the Monitor or Respondent
+directed to the Commission staff shall be transmitted to Charles E. Cain, Chief, FCPA Unit,
+Division of Enforcement, U.S. Securities and Exchange Commission, 100 F Street, N.E.,
+Mailstop 5631, Washington, D.C. 20549. A copy of the certification of completion and
+supporting materials shall also be transmitted to the Office of Chief Counsel of the Enforcement
+Division at the same address.
+
+IV
+Accordingly, pursuant to Section 21C of the Exchange Act, it is hereby ORDERED that:
+
+A. Respondent cease and desist from committing or causing any violations and any
+future violations of Sections 30A, 13(b)(2)(A), and 13(b)(2)(B) of the Securities Exchange Act of
+1934 [15 U.S.C. 8Â§ 78dd-1, 78m(b)(2)(A), and 78m(b)(2)(B)].
+
+B. Respondent shall, within 14 days of the entry of this Order, pay a civil money
+penalty in the amount of $100,000,000 to the Securities and Exchange Commission for transfer
+to the general fund of the United States Treasury, subject to Exchange Act Section 21F(g)(3). If
+timely payment is not made, additional interest shall accrue pursuant to 31 U.S.C. Â§3717.
+
+C. Payment must be made in one of the following ways:
+(1) Respondent may transmit payment electronically to the Commission,
+which will provide detailed ACH transfer/Fedwire instructions upon
+
+request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+16
+(3) Respondent may pay by certified check, bank cashierâs check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+D. Payments by check or money order must be accompanied by a cover letter
+identifying MTS as a Respondent in these proceedings, and the file number of these proceedings;
+a copy of the cover letter and check or money order must be sent to Charles Cain, Division of
+Enforcement, Securities and Exchange Commission, 100 F St., NE, Mailstop 5631, Washington,
+DC 20549.
+
+E. Amounts ordered to be paid as civil money penalties pursuant to this Order shall
+be treated as penalties paid to the government for all purposes, including all tax purposes. To
+preserve the deterrent effect of the civil penalty, Respondent agrees that in any Related Investor
+Action, it shall not argue that it is entitled to, nor shall it benefit by, offset or reduction of any
+award of compensatory damages by the amount of any part of Respondentâs payment of a civil
+penalty in this action ("Penalty Offsetâ). If the court in any Related Investor Action grants such
+a Penalty Offset, Respondent agrees that it shall, within 30 days after entry of a final order
+granting the Penalty Offset, notify the Commission's counsel in this action and pay the amount of
+the Penalty Offset to the Securities and Exchange Commission. Such a payment shall not be
+deemed an additional civil penalty and shall not be deemed to change the amount of the civil
+penalty imposed in this proceeding. For purposes of this paragraph, a "Related Investor Action"
+means a private damages action brought against Respondent by or on behalf of one or more
+investors based on substantially the same facts as alleged in the Order instituted by the
+Commission in this proceeding.
+
+F, Respondent shall comply with the undertakings enumerated above at Section III,
+paragraphs MM through VVV.
+
+By the Commission.
+
+Brent J. Fields
+Secretary
+
+17

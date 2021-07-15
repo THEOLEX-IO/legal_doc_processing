@@ -1,0 +1,552 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 71261 / January 9, 2014
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 3525 / January 9, 2014
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-15673
+
+ 
+
+ 
+
+ 
+
+ORDER INSTITUTING CEASE-AND-
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+SECTION 21C OF THE SECURITIES
+ALCOA INC.,, EXCHANGE ACT OF 1934, MAKING
+FINDINGS, AND IMPOSING A CEASE-
+Respondent. AND-DESIST ORDER
+I,
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate that cease-
+and-desist proceedings be, and hereby are, instituted pursuant to Section 21C of the Securities
+Exchange Act of 1934 (âExchange Actâ), against Alcoa Inc. (âAlcoaâ or âRespondentâ).
+
+Il.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferâ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, Respondent consents to the Commissionâs
+jurisdiction over the Respondent and the subject matter of these proceedings, and to the entry of
+this Order Instituting Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities
+Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order (âOrderââ), as set
+forth below.
+Hil.
+
+On the basis of this Order and Respondentâs Offer, the Commission finds' that:
+
+Summary
+
+1. These proceedings arise from violations of the Foreign Corrupt Practices Act of
+1977 (the âFCPAâ) [15 U.S.C. Â§ 78dd] by Respondent Alcoa Inc. (âAlcoaâ) concerning alumina
+sales to Aluminium Bahrain B.S.C. (âAlbaâ), an aluminum manufacturer owned primarily by the
+Kingdom of Bahrain.
+
+2. Between 1989 and 2009, Alcoa of Australia (ââAofAâ) and Alcoa World Alumina
+LLC (âAWAâ) (collectively, the âAWAC Subsidiariesâ) retained a consultant to act as their
+middleman in connection with sales of alumina to Alba and knew or consciously disregarded the
+fact that the relationship with the consultant was designed to generate funds that facilitated
+corrupt payments to Bahraini officials. The consultant was paid a commission on sales where he
+acted as an agent and received a markup on sales where he acted as a purported distributor. On
+sales where the consultant acted as a purported distributor, no legitimate services were provided
+to justify the role of the consultant as a distributor. The consultant used these funds to enrich
+himself and pay bribes to senior government officials of Bahrain.
+
+3. The commission payments to the consultant and the alumina sales to the
+consultant made pursuant to the distribution agreements were improperly recorded in Alcoaâs
+books and records as legitimate commissions or sales to a distributor and did not accurately
+reflect the transactions. The false entries were initially recorded by the AWAC Subsidiaries
+which were then consolidated into Alcoaâs books and records. During the relevant period, Alcoa
+also lacked sufficient internal controls to prevent and detect the improper payments.
+
+Respondent
+
+4. Alcoa is a corporation organized under the laws of the Commonwealth of
+Pennsylvania. Until 2006, Alcoaâs principal place of business was in Pittsburgh, Pennsylvania,
+in the Western District of Pennsylvania. In 2006, Alcoa moved its principal place of business to
+New York, New York. Alcoa issues and maintains a class of publicly traded securities registered
+pursuant to Section 12(b) of the Securities Exchange Act of 1934, which are traded on the New
+York Stock Exchange.
+
+5. Alcoa is a global provider of primary aluminum and fabricated aluminum. Alcoa
+is also a global provider of smelter grade alumina, the raw material that is supplied to smelters to
+
+ 
+
+' The findings herein are made pursuant to Respondent's Offer of Settlement and are not binding on any
+
+other person or entity in this or any other proceeding.
+produce aluminum. Alcoa refines alumina from bauxite it extracts from its global mining
+operations. Alcoa operates worldwide through subsidiaries and affiliated entities in North
+America, Asia, Australia, Europe, South America, Africa and the Caribbean.
+
+Other Relevant Entities and Persons
+
+6. Alcoa World Alumina and Chemicals (ââAWACâ) is an unincorporated global
+bauxite mining and alumina refining enterprise formed in 1995 between Alcoa and Alumina
+Limited (âAluminaâ), the majority and minority owners of AWAC, respectively. AWAC
+operates through a number of affiliated enterprise companies, including AofA and AWA, with
+each enterprise company being owned by Alcoa and Alumina in proportion to their respective
+ownership interests in the AWAC enterprise. In matters of strategy and policy, the AWAC
+enterprise companies receive direction and counsel from a âStrategic Councilâ that is chaired by
+Alcoa. Alcoa controls the Strategic Council and as such the operations and personnel of AWAC
+report to Alcoa personnel in New York.
+
+7. Alcoa of Australia Limited (âAofAâ) is the AWAC enterprise company that
+owns and operates AWACâs bauxite mining and alumina refining assets in Australia. AofAâs
+principal place of business was located in Melbourne, in the state of Victoria, Australia, until
+1996, and is now located in Perth, in the state of Western Australia. AofA owns and operates
+mines in Western Australia that extract bauxite, which AofA then processes into smelter grade
+alumina in refineries it owns and operates. AofA sells the smelter grade alumina to aluminum
+smelters it owns in the state of Victoria as well as to customers and alumina traders around the
+world. AofA maintains bank accounts in the United States. AofAâs books, records, and
+accounts are consolidated into Alcoaâs books and records and reported by Alcoa in its financial
+statements.
+
+8. Alcoa World Alumina LLC (âAWAâ) is a Limited Liability Company formed
+under Delaware law, which maintains its principal place of business in Pittsburgh, Pennsylvania,
+in the Western District of Pennsylvania. AWA owns and operates (either directly or indirectly)
+bauxite mining and alumina refining assets in North America, Europe, South America, and the
+Caribbean. AWA is an AWAC enterprise company. Beginning in or around 2000, executives at
+AWAâs offices in Pittsburgh and Knoxville, Tennessee, assumed primary responsibility for all of
+AWACâs relationships with global alumina customers, including Alba. AWA personnel
+responsible for these functions reported to Alcoa personnel in New York.
+
+9. Consultant A is an international middleman who resides in London and is a
+citizen of Canada, Jordan, and the United Kingdom. Consultant A had close contacts with
+certain members of Bahrainâs Royal Family, some of whom were senior officials in the
+Government of Bahrain. Consultant A met with Alcoa executives to discuss matters relating to
+the relationship with Alba. Consultant A operates through many shell companies, including
+Alumet Ltd (âAlumetâ) and AA Alumina and Chemicals Ltd (ââAAACââ).
+
+10. Aluminium Bahrain B.S.C. (âAlbaâ) is an aluminum smelter operating in
+Bahrain. At the relevant times, the state holding company of the Kingdom of Bahrain, the
+Mumtalakat, which was controlled by the Bahrain Ministry of Finance, held 77 percent of the
+
+3
+shares of Alba. The Saudi Basic Industries Corporation (âSABICâ), which is majority-owned
+and controlled by the government of the Kingdom of Saudi Arabia, held a twenty percent
+minority stake in Alba, and three percent of Albaâs shares were held by a German investment
+group. The majority of profits earned by Alba belonged to the Mumtalakat, though part of the
+profit was permitted to be used by Alba for its operations. The Bahrain Ministry of Finance had
+to approve any change in Albaâs capital structure and had to be consulted on any major capital
+projects or contracts material to Albaâs operations. Members of the Royal Family of Bahrain and
+representatives of the government sat on the Board of Directors of Alba, controlled its Board,
+and had primary authority in selecting its chief executive officer and chief financial officer.
+
+Facts
+
+11. â Alcoaâs global bauxite and alumina refining business (the âAlumina Segmentâ) is
+part of the Global Primary Products group, one of Alcoaâs three business lines. The Alumina
+Segment operationally consists of multiple subsidiaries. During the relevant time period, the
+Alumina Segment reported to the global head of the Global Primary Products group, who was an
+executive of Alcoa and reported directly to Alcoaâs CEO.
+
+12. Alcoa exercised control over the Alumina Segment, including the AWAC
+Subsidiaries. Alcoa appointed the majority of seats on the AWAC Strategic Council, and the
+head of Global Primary Products served as its chair. Alcoa and AofA transferred personnel
+between them, including alumina sales staff; Alcoa set the business and financial goals for
+AWAC and coordinated the legal, audit, and compliance functions of AWAC; and the AWAC
+Subsidiariesâ employees managing the Alba alumina business reported functionally to the global
+head of the Alumina Segment. Alba was a significant alumina customer for Alcoaâs Alumina
+Segment and during the relevant period, members of Alcoa senior management met both with
+Alba officials and Consultant A to discuss matters related to the Alba relationship, including a
+proposed joint venture between Alcoa and Alba. During this time, Alcoa was aware that
+Consultant A was an agent and distributor with respect to AofAâs sales of alumina to Alba and
+that terms of related contracts were reviewed and approved by senior managers of Alcoaâs
+Alumina Segment in the United States.
+
+13. From at least 1989 to 2009, AofA supplied alumina to Alba through a series of
+multi-year contracts. During this period, Alba was one of Alcoaâs largest alumina customers
+purchasing a total of nearly 19 million metric tons beginning with an annual volume of 300,000
+metric tons increasing to 1.6 million metric tons.
+
+14. Beginning in approximately 1989, AofA retained Consultant A to assist in long-
+term contract negotiations with Alba and Bahraini government officials, including the
+negotiation and execution of a new long-term alumina supply agreement in 1990 (the â1990
+Supply Agreement.â)
+
+15. By 1996, Consultant A was playing a significant role in the relationship between
+the AWAC Subsidiaries and Alba. Around this time, Alba complained to the AWAC
+Subsidiaries that it was paying an above-market price for alumina. AofA learned that Alba was
+seeking to increase its alumina supply requirements from 600,000 metric tons a year up to
+
+4
+970,000 metric tons a year, and that other major global suppliers of alumina were seeking to
+capture these additional requirements. The AWAC Subsidiariesâ sales team decided that, to
+âcomply with business norms in the Middle East[,]â the AWAC Subsidiaries would propose
+supplying some of Albaâs alumina through Alumet, which was one of Consultant Aâs shell
+companies, which would pay the ârequired commission.â An AofA manager proposed using
+Consultant A as the intermediary because Consultant A was âwell versed in the normal ways of
+Middle East businessâ and âwill keep the various stakeholders in the Alba smelter happy....â
+
+16. Despite the red flags inherent in this arrangement, AofAâs in-house counsel
+approved the arrangement without conducting any due diligence or otherwise determining
+whether there was a legitimate business purpose for the use of a third party intermediary.
+
+17. The AWAC Subsidiariesâ sales managers traveled to London in August 1996 to
+meet with Consultant A to discuss this proposal to route some of AofAâs alumina through
+Consultant Aâs company for resale to Alba. Upon their return to Australia, an AWA manager
+told other members of the AWAC Subsidiaries sales team that:
+
+It feels like we subsidise the Sheiks and end up with a 5 year outcome that is about
+$10-15/t lower than the average of the rest of our business.
+
+18. In September 1996, the AWAC Subsidiariesâ sales managers traveled to London
+to meet with Alba and Consultant A and agreed to an addendum to the 1990 Supply Agreement
+(â1996 Addendumâ). Under the 1990 Agreement, AofA was supplying 600,000 metric tons per
+year to Alba under a formula pricing structure (as opposed to a âmarketâ-based price). Under
+the 1996 Addendum, AofA agreed to supply Alba with an additional 285,000 metric tons per
+year through one of Consultant Aâs shell companies using a âmarketâ-based price that resulted in
+pricing that was, at times, actually below market and allowed Consultant A to mark up his sales
+of alumina to Alba.
+
+19. Employees at AWA and AofA either knew or were willfully blind to the high
+probability that Consultant A would use his commissions and markup to pay bribes. For
+example, in an internal document memorializing the negotiations surrounding the 1996
+Addendum, a member of AofAâs alumina sales staff wrote:
+
+The methodology of business in the Middle East is a complex web of interactions
+that are necessarily difficult to understand to disguise the payment of commissions.
+We have in the past maintained a position of paying our agent a 1% commission on
+the basis of the agent work that he has done for us. We have also, however, been
+asked by Alba to supply some cargoes through other intermediaries, including our
+agent, on various occasions and we can only assume at the purpose this
+serves....Given that we want to supply the full tonnage going into the future we
+need to fix on the best methodology for us given the commission requirements and
+the contract structure.
+
+20. The sales staff was concerned that the monies paid to Consultant A come from
+Consultant Aâs markup on sales to Alba, rather than through increased commission payments.
+
+5
+An AWA manager was concerned that the monies paid to Consultant A not come at AofAâs
+expense and that the sales to Consultant A âprotect our position.â
+
+21. In 2001, with the coming expiration of the 1990 Supply Agreement and 1996
+Addendum, AWA approached Alba to extend and expand the alumina supply relationship. Alba
+agreed to extend the existing supply relationship (â2001 Extensionâ). Following the 2001
+Extension, AofA stopped selling alumina directly to Alba; all AofA alumina destined for Alba
+was instead routed through AAAC, which was one of Consultant Aâs shell companies.
+
+22. In 2004, AofA entered into another distribution agreement with Consultant A that
+involved the sale of up to 1.6 million metric tons of alumina to Alba every year through AAAC,
+
+which was a shell company of Consultant A. This arrangement lasted until approximately
+December 31, 2009.
+
+23. The 2001 Extension and 2004 purported distributorship agreements facilitated the
+corrupt payments by allowing Consultant A to impose an inflated markup on his purported sales
+of alumina to Alba and used the markup from those sales to enrich himself and pay bribes to
+senior government officials of Bahrain.
+
+24. From 2002 to 2004, AWA caused Consultant A and AAAC, one of his shell
+companies to receive in excess of $79 million in markups on alumina sales to Alba. Consultant
+A also received a commission under the terms of the 2001 Extension. The 2001 Extension
+
+provided for a commission of 0.125 percent of all payments made by Consultant A to AofA for
+alumina. From 2002 to 2004, AofA paid Consultant A âcommissionsâ of $493,509.
+
+25. In 2002, Alcoa was attempting to negotiate a joint venture with Alba, in which
+Alcoa would supply Alba with alumina from the AWAC systemâs refineries, and, in exchange,
+Alba would supply Alcoa with aluminum. Alcoa retained Consultant A to act as a consultant
+and to privately lobby a Bahraini government official on behalf of Alcoa, and Alcoa entered a
+consulting agreement with Consultant A pursuant to which Consultant A would receive an $8
+million âsuccess feeâ based on limited specified negotiation âadvice and assistance to Alcoaâ if
+the joint venture were successful.
+
+26. As part of the negotiations, Alcoa proposed a joint venture structure that
+contemplated supplying alumina to Alba through a distributor. On or about March 26, 2003, an
+in-house attorney in Alcoaâs legal department raised questions about the deal, and requested an
+explanation for the role of the distributor. On or about March 27, 2003, AWA sales executive
+responded that â[t]he Distributorship rol[e] is something the Bahrain Government wantsâ and
+that Alcoa âshouldnât get too involved with how the Distributor and the Government interact.
+We are currently selling the alumina we supply to Alba through a Distributor.â
+
+27. On September 15, 2003, Alcoa and Alba agreed to a Memorandum of
+Understanding (âMOUâ) outlining an equity investment by Alcoa in Alba and providing for
+alumina to be sold to the Government of Bahrain, as majority shareholder of Alba, âdirectly or
+through an associated company of Alcoa satisfactory to GoB [Government of Bahrain] and
+Alcoa.â The MOU was approved by the same Bahraini government official on behalf of Alba
+
+6
+that Consultant A had been hired to lobby. Subsequently, the joint venture negotiations fell
+through, and Consultant A was never paid the $8 million success fee.
+
+28. By the summer of 2004, AofA was supplying approximately one million metric
+tons of alumina annually to Alba, but Consultant Aâs companies were invoicing Alba for the
+shipments. Unlike a true distributorship, Consultant Aâs companies never took possession of the
+alumina, assisted with the shipping arrangements, or otherwise performed any legitimate services
+for either the AWAC Subsidiaries or Alba. The only function the shell companies provided was
+to invoice Alba for the shipments at a significant markup.
+
+29. Albaâs obligations under pre-existing supply arrangements with AofA were set to
+expire at the end of 2004. In the summer of 2004, AWA sought to secure a new long term
+alumina supply agreement with Alba. On or around August 5, 2004, Alcoa management was
+advised by a former senior Alcoa executive who had a relationship with Consultant A that if they
+attempted to negotiate a direct contractual relationship between AofA and Alba, rather than
+negotiate a supply arrangement through Consultant A and one of his companies, some or all of
+Albaâs business could be lost to another alumina supplier.
+
+30. On or about August 19, 2004, AWA management met with Consultant A at
+Consultant Aâs London Office to discuss using Consultant Aâs companies âas Alcoaâs exclusive
+distributor in the region.â On or about August 22, 2004, an AWA executive negotiating with
+Consultant A sent an email documenting with more specificity certain items that were discussed
+at the meeting. Among them, the executive noted that â[W]e agreed to supply [Consultant A]
+with pricing indications for supply to [AAAC, one of Consultant Aâs shell companies] by 8/24 so
+he can have these for his meeting with [a Bahraini official]. We mentioned pricing close to
+14%.â The email also noted that â[a Bahraini official] is holding on to publishing [Albaâs]
+alumina tender [to the market] until he has further discussions with [Consultant A] on 8/29.â
+The pricing terms per metric ton of alumina that the AWA executive quoted to Consultant A at
+the meeting in London were less than the pricing terms for Alba that an AWA sales executive
+had quoted to a Bahraini official approximately one month earlier.
+
+31. On or around September 29, 2004, AWA facilitated Consultant Aâs tendering a
+bid to supply Alba up to 1.6 million metric tons of alumina for ten years commencing in 2005.
+On or about October 8, 2004, the in-house attorney responsible for supporting the alumina
+business suggested terminating the consulting agreement that Alcoa had entered with Consultant
+A in connection with the proposed joint venture, as âthe terms of [Consultant Aâs] current
+engagement created a lot of anxiety in the organization.â However, an AWA executive decided
+that the consultancy agreement should not be terminated until AofA had secured a new long-term
+alumina supply agreement with Alba.
+
+32. On or about November 1, 2004, a Bahraini official caused Alba to accept
+Consultant Aâs tender offer for a ten-year supply of alumina. On or about December 31, 2004,
+AofA entered a sham ten-year distributorship agreement with AAAC, one of Consultant Aâs
+shell companies to purportedly supply annually up to 1.78 million metric tons of alumina for sale
+to Alba from 2005 to 2014 (the â2005 Alba Supply Agreementâ). It was actually AofA that
+would continue shipping the alumina directly from its refineries in Western Australia to Alba.
+
+7
+33. On or about March 4, 2005, a representative of Consultant A sent another
+Bahraini government official a final, unexecuted contract for the purported supply agreement
+between Consultant A and Alba. On or about June 8, 2005, the final agreement negotiated
+between Consultant A and Alba was signed by that government official on behalf of Alba. The
+agreementâs effective date was January 1, 2005, and its term was through December 31, 2014.
+The agreement provided that Consultant A would supply Alba with 1.508 million metric tons of
+alumina in 2005 and 1.6 million metric tons of alumina thereafter for each remaining contract
+year. Alba was required to bear the cost of shipping and insurance.
+
+34. For sales of alumina to Alba, Consultant A did not receive payment until after
+Consultant A was bound to pay AofA. Given the discrepancy in the timing of payment,
+Consultant A sought a line of credit from Alcoa to cover the cost of alumina shipments to Alba
+until Alba remitted payment to Consultant A. Alcoaâs policies and procedures required its
+customers to submit financial statements for an extension of credit. Consultant A, however,
+refused to provide financial statements to Alcoaâs credit department. Nevertheless, in or around
+December 2004, senior management of AWA invoked an override procedure that resulted in an
+Alcoa executive approving a $23 million line of credit to Consultant Aâs companies.
+
+35. Thereafter, in each of contract years 2005 through 2009, Alcoa continued to grant
+overrides to extend increasing credit lines to Consultant Aâs purported distributorships. By
+2007, Alcoa was extending a credit line of $58 million. During this period, Alcoa granted
+Consultant A credit lines that were significantly greater than those granted by Alcoa to any other
+third party. By facilitating the extension of credit to Consultant A, AWA enabled the purported
+distributorship scheme by allowing Consultant A to defer paying AofA for the multi-million
+dollar shipments of alumina to Alba until Consultant A received payment from Alba.
+
+36. From 2005 through 2009, AWA caused Consultant A to receive in excess of $188
+million on the markup of alumina sales to Alba. This money was transferred from the initial
+accounts in which payment from Alba was received through various bank accounts controlled by
+Consultant A, including accounts in the name of shell companies.
+
+37. The AWAC Subsidiaries knew or consciously disregarded the fact that Consultant
+A was inserted into the Alba sales supply chain to generate funds to pay bribes to Bahraini
+officials. Ultimately, these funds facilitated at least $110 million in corrupt payments to Bahraini
+officials. The vast majority of those funds were generated from the markup between the price
+Consultant A sold to Alba and the price that AofA sold to Consultant A. Those funds were also
+generated from the commissions that AofA paid to Consultant A.
+
+38. The recipients of the corrupt payments included a senior Bahraini official,
+members of the board of directors of Alba, and senior management of Alba. Examples of the
+corrupt payments include:
+
+e In August 2003, Consultant Aâs shell companies made 2 payments totaling $7 million to
+accounts for the benefit of a Bahraini government official who Consultant A had been
+retained to lobby. Two weeks later, Alcoa and Alba signed an agreement in principle to
+have Alcoa participate in Albaâs plant expansion.
+
+8
+e In October 2004, Consultant Aâs shell company paid $1 million to an account for the
+benefit of that same government official. Shortly thereafter, Alba agreed in principle to
+Alcoaâs offer for the 2005 Alba Supply Agreement.
+
+e In or around the time of the execution of the final 2005 Alba Supply Agreement,
+Consultant A-controlled companies paid another Bahraini government official and/or his
+beneficiaries $41 million in three payments.
+
+Legal Standards and Violations
+
+C. Under Section 21C(a) of the Exchange Act, the Commission may impose a cease-
+and-desist order upon any person who is violating, has violated, or is about to violate any
+provision of the Exchange Act or any rule or regulation thereunder, and upon any other person
+that is, was, or would be a cause of the violation, due to an act of omission the person knew or
+should have known would contribute to such violation.
+
+FCPA Violations
+
+D. Under Section 30A(a) of the Exchange Act it is unlawful for any issuer, officer,
+director, employee, or agent of such issuer or any stockholder thereof acting on behalf of the
+issuer, to make use of the mails or any means or instrumentality of interstate commerce corruptly
+in furtherance of an offer, payment, promise to pay, or authorization of the payment of any
+money, or offer, gift, promise to give, or authorization of the giving of anything of value to any
+foreign official or any person, while knowing that all or a portion of such money or thing of
+value will be offered, given, or promised, directly or indirectly, to any foreign official for the
+purposes of (i) influencing any act or decision of such foreign official in his official capacity, (11)
+inducing such foreign official to do or omit to do any act in violation of the lawful duty of such
+official, or (111) Securing any improper advantage in order to assist such issuer in obtaining or
+retaining business for or with, or directing business to, any person. [15 U.S.C. Â§ 78dd-1].
+
+E. Additionally, under Section 30A(g) of the Exchange Act it is unlawful for any
+issuer organized under the laws of the United States, or a State, territory, possession, or
+commonwealth of the United States or for any United States person that is an officer, director,
+employee, or agent of such issuer or a stockholder thereof acting on behalf of such issuer, to
+corruptly do any act outside the United States in furtherance of an offer, payment, promise to
+pay, or authorization of the payment of any money, or offer, gift, promise to give, or
+authorization of the giving of anything of value to any of the persons or entities set forth in
+paragraphs (1), (i), and (111) of subsection (a) of this section for the purposes set forth therein,
+irrespective of whether such issuer or such officer, director, employee, agent, or stockholder
+makes use of the mails or any means or instrumentality of interstate commerce in furtherance of
+such offer, gift, payment, promise, or authorization.
+F, This Order contains no findings that an officer, director or employee of Alcoa
+knowingly engaged in the bribe scheme. As described above, Alcoa violated Section 30A of the
+Exchange Act by reason of its agents, including subsidiaries AWA and AofA, indirectly paying
+bribes to foreign officials in Bahrain in order to obtain or retain business. AWA, AofA, and their
+employees all acted as âagentsâ of Alcoa during the relevant time, and were acting within the
+scope of their authority when participating in the bribe scheme. As described above, Alcoa
+exercised control over the Alumina Segment, including the AWAC Subsidiaries. Alcoa
+appointed the majority of seats on the AWAC Strategic Council, and the head of the Global
+Primary Products group served as its chair. Alcoa and AofA transferred personnel between
+them, including alumina sales staff; Alcoa set the business and financial goals for AWAC and
+coordinated the legal, audit, and compliance functions of AWAC; and the AWAC Subsidiariesâ
+employees managing the Alba alumina business reported functionally to the global head of the
+Alumina Segment. Alba was a significant alumina customer for Alcoaâs Alumina Segment and
+during the relevant period, members of Alcoa senior management met both with Alba officials
+and Consultant A to discuss matters related to the Alba relationship, including a proposed joint
+venture between Alcoa and Alba. During this time, Alcoa was aware that Consultant A was an
+agent and distributor with respect to AofAâs sales of alumina to Alba and that terms of related
+contracts were reviewed and approved by senior managers of Alcoaâs Alumina Segment in the
+United States.
+
+G. Under Section 13(b)(2)(A) of the Exchange Act issuers are required to make and
+keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflect the
+transactions and disposition of the assets of the issuer. [15 U.S.C. Â§ 78m(b)(2)(A)].
+
+H. Under Section 13(b)(2)(B) of the Exchange Act issuers are required to devise and
+maintain a system of internal accounting controls sufficient to provide reasonable assurances that
+(1) transactions are executed in accordance with managementâs general or specific authorization;
+(11) transactions are recorded as necessary (I) to permit preparation of financial statements in
+conformity with generally accepted accounting principles or any other criteria applicable to such
+statements, and (II) to maintain accountability for assets; (111) access to assets is permitted only in
+accordance with managementâs general or specific authorization; and (iv) the recorded
+accountability for assets is compared with the existing assets at reasonable intervals and
+appropriate action is taken with respect to any differences. [15 U.S.C. Â§ 78m(b)(2)(B)].
+
+I. As described above, Alcoa violated Section 13(b)(2)(A) of the Exchange Act by
+improperly recording the payments, to Consultant A, as agent commissions when the true
+purpose of these payments was to make corrupt payments to Bahraini officials. Alcoa violated
+Section 13(b)(2)(A) when Alcoa recorded the sales to Consultant A as a distributor. The false
+entries were initially recorded by the AWAC Subsidiaries which were then consolidated and
+reported by Alcoa in its consolidated financial statements. Alcoa also violated Section
+13(b)(2)(B) by failing to devise and maintain sufficient accounting controls to detect and prevent
+the making of improper payments to foreign officials.
+
+10
+Alcoaâs Remedial Efforts
+
+J. Alcoa made an initial voluntary disclosure of certain of these issues to the
+Commission and Department of Justice in February 2008, and thereafter Alcoaâs Board of
+Directors appointed a Special Committee of the Board of Directors to oversee an internal
+investigation by independent counsel. Alcoaâs counsel regularly reported on the results of the
+investigation and fully cooperated with the staff of the Commission.
+
+K. Alcoa also undertook extensive remedial actions including: a comprehensive
+compliance review of anti-corruption policies and procedures, including its relationship with
+intermediaries; enhancing its internal controls and compliance functions; developing and
+implementing enhanced FCPA compliance procedures, including the development and
+implementation of policies and procedures such as the due diligence and contracting procedure
+for intermediaries; and conducting comprehensive anti-corruption training throughout the
+organization.
+
+Criminal Plea Agreement
+
+Respondentâs subsidiary AWA has agreed, with the United States Department of Justice,
+Criminal Division, Fraud Section, to plead guilty for criminal conduct relating to certain of the
+findings in the Order.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate to impose the sanctions
+agreed to in Respondent Alcoaâs Offer.
+
+Accordingly, it is hereby ORDERED that:
+
+A. Pursuant to Section 21C of the Exchange Act, Respondent Alcoa cease and desist
+from committing or causing any violations and any future violations of Sections 30A, 13(b)(2)(A)
+and 13(b)(2)(B) of the Exchange Act;
+
+B. Respondent shall pay disgorgement of $175,000,000. A portion of Respondentâs
+disgorgement obligation in the amount of $14,000,000 shall be deemed satisfied by Respondentâs
+payment of $14,000,000 in forfeiture as part of Respondentâs resolution with the United States
+Department of Justice (âDOJâ) filed in the Western District of Pennsylvania. In the event that
+Respondentâs resolution with DOJ requires a forfeiture payment less than $14,000,000, the
+Respondent acknowledges that its disgorgement obligation will be credited up to the amount of the
+payment required by Respondentâs resolution with DOJ, with the remaining balance due and
+payable to the Securities and Exchange Commission within 14 days of payment pursuant to
+Respondentâs resolution with DOJ. In light of the impact of the disgorgement payment upon
+Respondentâs financial condition and its potential to substantially jeopardize Alcoaâs ability to
+fund its sustaining and improving capital expenditures, its ability to invest in research and
+development, its ability to fund its pension obligations, and its ability to maintain necessary cash
+
+11
+reserves to fund its operations and meet its liabilities, Respondent shall pay the disgorgement in
+five equal payments based upon the following schedule:
+
+Amount Date Due
+
+$32,200,000 January 9, 2014
+$32,200,000 January 9, 2015
+$32,200,000 January 9, 2016
+$32,200,000 January 9, 2017
+$32,200,000 January 9, 2018
+
+If timely payment of disgorgement is not made within 14 days of when due, additional interest
+shall accrue pursuant to SEC Rule of Practice 600. Payment must be made in one of the following
+ways:
+
+(1) Respondent may transmit payment electronically to the Commission, which will
+provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov through the
+SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United States postal
+money order, made payable to the Securities and Exchange Commission and hand-
+delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying
+Alcoa Inc. as a Respondent in these proceedings, and the file number of these proceedings; a copy
+of the cover letter and check or money order must be sent to Charles Cain, Deputy Unit Chief,
+FCPA Unit, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE,
+Washington, DC 20549.
+
+By the Commission.
+
+Elizabeth M. Murphy
+Secretary
+
+12

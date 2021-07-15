@@ -1,0 +1,677 @@
+IN THE UNITED STATES DISTRICT COURT
+NORTHERN DISTRICT OF ILLINOIS
+
+ 
+
+U.S. Commodity Futures Trading
+
+Commission,
+â Case No. 14-cv-7877
+
+Plaintiff,
+
+Vv.
+
+FUTURES INTERNATIONAL LLC and
+AMEDEO CERRONE,
+
+Defendants.
+
+ 
+
+CONSENT ORDER FOR PERMANENT INJUNCTION, CIVIL MONETARY PENALTY
+AND OTHER EQUITABLE RELIEF AGAINST DEFENDANTS
+
+FUTURES INTERNATIONAL LLC AND AMEDE ON
+
+I, INTRODUCTION
+On October 9, 2014, Plaintiff U.S. Commodity Futures Trading Commission
+
+(âCommissionâ or âCFTCâ) filed a Complaint against Defendants Futures International (âFIâ) -
+and Amedeo Cerrone (âCerroneâ) (collectively, âDefendantsâ) seeking injunctive and other
+equitable relief, as well as the imposition of civil penalties, for violations of the Commodity
+Exchange Act (ââActâ), 7 U.S.C. Â§Â§ 1-26 (2012), and the Commissionâs Regulations
+(âRegulationsâ) promulgated thereunder, 17 C.F.R. Â§ 1.1 et seg. (2014). The CFTC filed an
+
+Amended Complaint the same day (hereafter, âComplaintâ).
+
+II. CONSENTS AND AGREEMENTS
+
+To effect settlement of all charges alleged in the Complaint against Defendants FI and
+Cerrone without a trial on the merits or any further judicial proceedings, Defendants FI and
+
+Cerrone:
+Case: iid-cv-07877 Document # 32 Filed: 09/21/15 Page 2of18 PagelD #215
+
+l. Consent to the entry of this Consent Order for Permanent Injunction, Civil
+Monetary Penalty and Other Equitable Relief Against Defendants FI and Cerrone (âConsent
+Orderâ);
+
+2. Affirm that they have read and agreed to this Consent Order voluntarily, and that
+no promise, other than as specifically contained herein, or threat, has been made by the CFTC or
+any member, officer, agent or representative thereof, or by any other person, to induce consent to
+this Consent Order;
+
+3. Acknowledge service of the summons and Complaint;
+
+| 4, Admit the jurisdiction of this Court over them and the subject matter of this action
+pursuant to Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012);
+
+5. Admit the jurisdiction of the CFTC over the conduct and transactions at issue in
+this action pursuant to the Act, 7 U.S.C, Â§Â§ 1-26 (2012);
+
+6, Admit that venue properly lies with this Court pursuant to Section 6c(e) of the
+Act, 7 U.S.C. Â§ 13a-1{e) (2012);
+
+7. Waive:
+
+(a) Any and all claims that they may possess under the Equal Access to Justice Act,
+
+5 U.S.C. Â§ 504 (2012) and 28 U.S.C. Â§ 2412 (2012), and/or the rules promulgated by the
+Commission in conformity therewith, Part 148 of the Regulations, 17 C.F.R. Â§Â§ 148.1 eÂ¢ seq.
+(2014), relating to, or arising from, this action;
+
+(b) Any and all claims that they may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, Â§Â§ 201-253, 110 Stat. 847, 857-868
+(1996), as amended by Pub. L. No. 110-28, Â§ 8302, 121 Stat. 112, 204-205 (2007), relating to, or
+
+arising from, this action;
+Case: Lild-ow-0787? Document # 32 Filed: 0/27/15 Page 3 of 18 PageiD 216
+
+i
+
+(c) Any claim of Double Jeopardy based upon the institution of this action or the
+entry in this action of any order imposing a civil monetary penalty or any other relief, including
+this Consent Order; and
+
+(d) Any and all rights of appeal from this action;
+
+8, Consent to the continued jurisdiction of this Court over them for the purpose of
+implementing and enforcing the terms and conditions of this Consent Order and for any other
+purpose relevant to this action, even if FI or Cerrone now or in the future reside outside the
+jurisdiction of this Court;
+
+9. Agree that they will not oppose enforcement of this Consent Order on the ground,
+if any exists, that it fails to comply with Rule 65(d) of the Federal Rules of Civil Procedure and
+hereby waive any objection based thereon;
+
+10. Agree that neither they nor any of their agents or employees under their authority
+or control shall take any action or make any public statement denying, directly or indirectly, any
+allegation in the Complaint or the Findings of Fact or Conclusions of Law in this Consent Order,
+or creating or tending to create the impression that the Complaint and/or this Consent Order is
+without a factual basis; provided, however, that nothing in this provision shall affect their:
+
+(a) testimonial obligations, or (b) right to take legal positions in other proceedings to which the
+CFTC is not a party. Defendants shall undertake all steps necessary to ensure that all of their
+agents and/or employees under their authority or control understand and comply with this
+
+agreement;
+ 
+
+ag; OGZEiS Page 4 oF 18 Pageib a2?
+
+{
+
+11. By consenting to the entry of this Consent Order, Defendants neither admit nor
+deny the allegations in the Complaint and the Findings of Fact and Conclusions of Law in this
+Consent Order, except as to jurisdiction and venue, which they admit.
+
+12. Until such time as Defendants satisfy in full their CMP Obligation as set forth in
+this Consent Order, Defendants agree to provide immediate notice to this Court and the CFTC by
+certified mail, in the manner required by paragraph 63 of Part VI of this Consent Order, of any
+bankruptcy proceeding filed by, on behalf of, or against them, whether inside or outside the
+United States; and
+
+13. Agree that no provision of this Consent Order shall in any way limit or impair the
+ability of any other person or entity to seek any legal or equitable remedy against Defendants in
+any other proceeding.
+
+Ili, FINDINGS AND CONCLUSIONS
+
+The Court, being fully advised in the premises, finds that there is good cause for the entry
+of this Consent Order and that there is no just reason for delay. The Court therefore directs the
+entry of the following Findings of Fact, Conclusions of Law, permanent injunction and equitable
+
+relief pursuant to Section 6c of the Act, 7 U.S.C. Â§ 13a-1 (2012), as set forth herein.
+
+THE COURT HEREBY FINDS:
+
+ 
+
+' Defendants consent to the entry of this Consent Order and to the use of the Findings of Fact and Conclusions of
+Law contained in the Consent Order in this proceeding or in any other proceeding brought by the Commission or to
+which the Commission is a party; provided, however, that Defendants do not consent to the use of the Consent
+Order, or the Findings of Fact and Conclusions of Law contained in the Consent Order, as the sole basis for any
+other proceeding brought by the Commission, other than in a proceeding in bankruptcy or to enforce the terms of
+this Consent Order, Nor do Defendants consent to the use of the Consent Order, or the Findings of Fact and
+Conclusions of Law contained in the Consent Order, by any other party in any other proceeding,
+Case: idd-ov-07877 Document # S2 Filed: OW27/15 Page 5 of 18 Pageif #218
+{ {
+
+A. Findings of Fact
+The Parties to this Consent Order
+
+14,â Plaintiff U.S. Commodity Futures Trading Commission (the âCFTCâ or
+âCommissionâ) is an independent federal regulatory agency charged by Congress with the
+responsibility for administering and enforcing the Commodity Exchange Act (the âActâ),
+
+7 U.S.C. Â§ 1 ef seg. (2012), and the Regulations promulgated thereunder, 17 C.F.R. Â§Â§ 1.1 et seg.
+(2014).
+
+15. Defendant Futures International LLC (âFTâ) is an Illinois limited liability
+company formed in August 2004 with a primary business address at 190 South LaSalle Street,
+Suite 1720, Chicago, Illinois, FI is an Introducing Broker (âIBâ) that trades agricultural futures
+and options on the CBOT floor of the CBOT and on Globex, CBOTâs electronic trading
+platform, including futures contracts in soybeans, soybean meal, soybean oil, and the soybean
+âcrushâ spread (a spread trade involving buying or selling soybean futures contracts and
+simultaneously selling (or buying) soybean meal and soybean oil futures contracts), During the
+relevant period (i.e., January 2009 through November 2012), FI was one of (if not the) largest
+participant(s) in the crush market on the CBOT floor. FI is a CBOT member firm and has been
+registered with the Commission as an IB since November 2004.
+
+16. Defendant Amedeo Cerrone is a resident of St. Charles, Illinois and has served
+as FIâs Chief Operating Officer since its inception, Among other general and operational duties, _
+Cerrone has been responsible for interviewing, hiring, and supervising Fl employees, He has
+been registered with the Commission as an Associated Person (âAPâ) of FI and has been an FI
+
+Principal since November 2004. Cerrone has also been registered as a floor broker since
+
+February 2003.
+
+ 
+Case: Ddd-cv-0787? Docurnent #: 32 Fiiec: OO/21/15 Page 6 of 18 PagelD #:219
+[ ( '
+
+ilure to Maintain Complete and Accurate B 5 of Futu ransactions
+
+17. Section 4g(a) of the Act, 7 U.S.C. Â§ 6g(a) (2012), provides that every person
+registered as a futures commission merchant, IB, floor broker, or floor trader is required to keep
+books and records pertaining to transactions and positions of their customers and commodities
+for future delivery, and to make such records available for inspection by the Commission.
+
+18. Regulation 1.35(a), 17 C.F.R. Â§ 1.35(a) (2013), requires IBs to keep âfull,
+complete, and systematic records, together with all pertinent data. and memoranda, of all
+transactions relating to its business of dealing in commodity futures...â Regulation 1.35(a-1),
+17 C.F.R, Â§ 1.35(a-1) (2014), further requires that any IB receiving a customer order âshall
+immediately upon receipt thereof prepare a written record of the orderâ and shall record, by
+timestamp or other device, the date and time, to the nearest minute, that the order is received.
+
+19, Regulation 1.31, 17 C.F.R. Â§Â§ 1.31 (2014), provides that âall books and records
+required to be kept by the Act or by these regulations shall be kept for a period of five years from
+the date thereof and shall be readily accessible during the first 2 years of the 5-year period.â
+
+20. âIn order to preserve an audit trail for the exchange and its members, floor brokers
+and floor traders are also required to record the time bracket on each executed order ticket, The
+time bracket is a letter or symbol corresponding to specific fifteen-minute time increments within
+a trading session. The bracketing system helps to pinpoint within a fifteen-minute window the
+time that a trade occurred.
+
+21. Beginning in at least 2009 and continuing until 2012, FI failed to record all
+customer orders immediately upon receipt and further failed to retain full, complete, and
+
+systematic records of all transactions relating to its business of dealing in commodity futures.
+22. Instead of completing order tickets documenting order instructions at the time the
+order was received, FI employees often recorded order information only after the order was
+executed or âfilled.â
+
+23. To ensure the timestamps on FI floor order tickets did not conflict with other
+timing information collected and maintained by the CME, FI employees timestamped blank
+order tickets throughout each dayâs trading session. FI employees were then able to select pre-
+timestamped order tickets reflecting a time that appeared consistent with the orderâs execution
+time, regardless of when the order was received.
+
+24. Because of its failure to immediately document orders in accordance with
+Regulation 1.35(a-1), as well as its use of pre-timestamped order tickets, some of FIâs order
+tickets bore false information regarding the time at which orders were received.
+
+25. Cerrone knew FI employees were pre-timestamping blank order tickets and using
+those tickets to document trades after execution,
+
+26. During the relevant time period, FI employees communicated electronically and
+on personal devices about FI transactions involving commodity futures and/or options, including
+by use of instant messages, FI, did not, however, retain all instant messages that related to its
+business involving commodity futures transactions,
+
+27. Cerrone knew FI employees conducted firm business through electronic
+communications and he was responsible for collecting relevant instant messages until at least
+August 2011.
+
+28. FI did not retain all of its instant messages involving commodity futures
+
+transactions during the relevant period.
+29,  FIâs inability to produce full, complete, and accurate order tickets and instant
+messages resulted in an incomplete and unreliable audit trail that hindered the Commissionâs
+ability to investigate violations of the Act and Regulations.
+
+Submissio. False t
+
+30. Section 9(a)(4) of the Act, 7 U.S.C. Â§ 13(a)(4) (2012), prohibits:
+Any person willfully to falsify, conceal, or cover up by any trick, scheme, or
+
+artifice a material fact, make any false, fictitious, or fraudulent statements or
+representations, or make or use any false writing or document knowing the same
+to contain any false, fictitious, or fraudulent statement or entry to a registered
+entity, board of trade, or futures association designed or registered under this Act
+acting in furtherance of its official duties under this Act.
+
+31. Asaresult of FIâs order ticket practices described above, FI submitted certain
+order tickets with false information to the clearing futures commission merchant (âFCMâ) for
+keypunching and that information was transmitted to CME Clearing.
+
+32. FI knew that information from its order tickets would be keypunched and
+subsequently transmitted to CME Clearing.
+
+Unauthorized Tr:
+
+33. Regulation 166.2, 17 C.F.R. Â§ 166.2 (2014), prohibits an IB or any of its
+associated persons from effecting a transaction on behalf of a customer without first obtaining
+from the customer or the person designated to control the account: (1) â[t}he precise commodity
+interest to be purchased or sold; and (2) [t]he exact amount of the commodity interest to be
+purchased or soldâ if the customer has not executed a written power of attorney.
+
+34. Throughout the relevant time period, FI did not obtain any written powers of
+
+attorney to trade its customer accounts.
+Mase: lii4-cv-O787? Document # 32 Fileck O9/21/15 Page S of 18 Pagelt #222
+(
+
+35. FI nonetheless executed trades on occasion without first receiving instructions
+from its customers as to the precise commodity interest to be purchased and the amount to be
+purchased.
+
+36. In some instances, FI employees executed or directed the execution of trades
+based on customer order instructions that failed to specify the contract month the customer
+wanted to trade and/or the amount of the commodity interest to be purchased.
+
+37, At other times during the relevant time period, FI employees executed trades
+without knowing what customer, if any, would eventually accept the trade. One FI employee
+contacted customers after execution to determine whether they wanted a trade attributed to their
+account.
+
+38. | On occasions where one FI employee was unable to find a customer willing to
+accept an executed trade, that employee assigned the trade (or directed another FI employee to
+assign the trade) to an account designated for error trades or to a personal account maintained by
+him.
+
+39,  FIâs improper use of pre-timestamped floor order tickets enabled the allocation of
+trades subsequent to their execution.
+
+Failure to Supervise
+
+40. Regulation 166.3, 17 C.F.R. Â§ 166.3 (2013), requires:
+
+Each Commission registrant, except an associate person who has no supervisory
+duties, must diligently supervise the handling by its partners, officers, employees
+and agents (or other persons occupying a similar status or performing a similar
+function) of all commodity interest accounts carried, operated, advised or
+introduced by the registrant and all other activities of its partners, officers,
+employees, and agents (or other persons occupying a similar status or performing
+a similar function) relating to its business as a registrant.
+
+41. | Throughout the relevant time period, FI and Cerrone were both registered with the
+
+Commission, and Cerrone had supervisory duties at FI.
+
+ 
+Case: idÃ©d-cv-07877 Document @ 32 Filed: OG/21/15 Page 10 of 18 Pageld #223
+|
+
+42, Notwithstanding their supervisory obligations, FI and Cerrone: (1) failed to
+establish written policies and procedures governing trading floor operations until at least
+September 2012; (ii) failed to provide adequate training to employees despite hiring some
+individuals without industry experience; and (ili) failed to implement adequate policies and
+practices to ensure compliance with the Act and Regulations, including the practices described
+above.
+
+43, For example, prior to September 2012, FI did not maintain written policies or
+procedures governing its trading or floor operations, including order intake, preparation of order
+tickets, handling error trades, trade execution, priority of customer orders, and recordkeeping.
+
+44, â FIâs compliance officer at the time was not experienced in floor operations, did
+not observe FIâs trading floor practices and did not review FIâs policies or procedures relating to
+order ticket processes. |
+
+45. Instead, another FI employee was identified as responsible for ensuring
+compliance with Commission Rules and Regulations regarding trading desk activities and the
+order ticketing process, but that employee did not know that she bore such responsibilities and
+she was principally involved in FIâs practice of pre-timestamping floor order tickets throughout
+the trading day.
+
+| 46. Throughout the relevant time period, neither FI nor Cerrone acted diligently to
+ensure that FI employees were aware of, and complied with, the requirements of the Act and
+Regulations, and neither diligently supervised FIâs trading floor and order ticket processes.
+B. Conclusions of Law
+
+Jurisdiction and Venue
+
+47. This Court has jurisdiction over this action pursuant to Section 6c of the Act,
+
+7 U.S.C. Â§ 13a-1 (2012), which provides that whenever it appears to the CFTC that any person
+
+10
+Case: Ddd-cyv-0787? Docurnent 4: 32 Fiiec: OOf/21/15 Page 11 of 18 Pageip a:224
+(
+
+has engaged, is engaging, or is about to engage in any act or practice constituting a violation of
+
+any provision of the Act or any rule, regulation, or order promulgated thereunder, the CFTC may
+bring an action in the proper district court of the United States against such person to enjoin such
+act or practice, or to enforce compliance with the Act, or any rule, regulation or order thereunder,
+
+48, Venue properly lies with this Court pursuant to Section 6c(e) of the Act, 7 U.S.C,
+Â§ 13a-1(e) (2012), because the Defendants reside in this jurisdiction and the acts and practices in
+violation of the Act occurred within this District.
+
+49, â_ By the conduct described in paragraphs 17 through 32 above, FI, through
+employees acting on its behalf, violated Section 9(a)(4) of the Act, 7 U.S.C. Â§ 13(a)(4) (2012),
+by willfully submitting order tickets for keypunching to CME Clearing with false timestamp
+information to a registered entity, board of trade, or futures association.
+
+50. By the conduct described in paragraphs 17 through 29 above, FI, through
+employees acting on its behalf, violated Section 4g(a) of the Act, 7 U.S.C. Â§ 6(a) (2012), and
+Regulations 1.31 and 1.35(a) by failing to maintain for the requisite period full, complete, and
+systematic records of all transactions relating to its business of dealing in commodity futures,
+including, but not limited to, its order tickets and instant messages.
+
+51, Cerrone controlled FI and did not act in good faith or knowingly induced, directly
+or indirectly, the acts constituting FIâs recordkeeping violations. Specifically, FIâs violations of
+Section 4g(a) of the Act, 7 U.S.C. Â§ 6(a) (2012), and Regulations 1.31 and 1.35(a). Cerrone is
+therefore liable for those violations as a controlling person pursuant to Section 13(b) of the Act,
+7 USS.C. Â§ 13(c)(b) (2012),
+
+52. By the conduct described in paragraphs 17 through 29 above, FI, through
+
+employees and principals acting on its behalf, violated Section 4g(a) of the Act, 7 U.S.C. Â§ 6(a)
+
+11
+ 
+
+(2012), and Regulation 1.35(a-1) by failing to prepare written records of orders immediately
+
+upon receipt, and instead documenting orders later in the day, at times after execution, and often
+using pre-timestamped order tickets.
+
+53, By the conduct described in paragraphs 17 through 39 above, FI, through an
+employee and principal acting on its behalf, violated Regulation 166.2, 17 C.F.R. Â§ 166.2 (2014),
+by placing orders without obtaining specific information from customers regarding the quantity
+and/or the precise commodity interest to be purchased or sold.
+
+54. By the conduct described in paragraphs 17 through 36 above, FI, through
+employees and principals acting on its behalf, and Cerrone violated Regulation 166.3, 17 C.F.R.
+Â§ 166.3 (2014), by, among other things: (i) failing to establish written policies and procedures
+governing trading floor operations until at least September 201 1; (ii) failing to provide adequate
+training to employees despite hiring some individuals without industry experience; and
+(iii) failing to implement adequate policies and practices and/or diligently supervise FI
+employees to ensure compliance with the Act and Regulations.
+
+55. Cerrone is a registrant with supervisory responsibilities at Fl. Cerrone controlled
+FI and did not act in good faith or knowingly induced, directly or indirectly, the acts and/or
+omissions constituting FIâs violations of Regulation 166.3, 17 C.F.R. Â§ 166.3 (2014), and is
+therefore liable for those violations directly and as a controlling person pursuant to Section 13(b) |
+of the Act, 7 U.S.C. Â§ 13(c)(b) (2012).
+
+56. Because the foregoing acts, omissions, and failures of FI employees and
+principals occurred within the scope of their employment, office, or agency, FI is liable for those
+
+acts, omissions, and failures constituting violations of the Act and Regulations pursuant to
+
+12
+
+ 
+Case: dild-cv-07877? Document # 32 Filed: OO/21/15 Page 18 of 18 Pagell 4226
+| |
+
+Section 2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1) (2012) and Regulation 1.2, 17 C.F.R, Â§ 1.2
+(2014).
+57, Unless restrained and enjoined by this Court, there is a reasonable likelihood that
+
+the Defendants will continue to engage in the acts and practices alleged in the Complaint,
+
+IV. PERMANENT INJUNCTION
+
+IT IS HEREBY ORDERED THAT:
+
+58. Based upon and in connection with the foregoing conduct, pursuant to Section 6c
+of the Act, 7 U.S.C. Â§ 13a-1 (2012), Defendant Futures International LLC is permanently
+restrained, enjoined and prohibited from directly or indirectly:
+
+a, willfully falsifying, concealing, or covering up by any trick, scheme, or artifice a
+
+material fact, making any false, fictitious, or fraudulent statements or representations, or
+
+making or using any false writings or documents knowing the same to contain any false,
+fictitious, or fraudulent statement or entry to a registered entity, board of trade, or futures
+
+association designed or registered under the Act in violation of Section 9(a)(4), 7 U.S.C.
+
+Â§ 13(a)(4) (2012);
+
+b, failing to immediately upon receipt thereof prepare a written record of an order
+
+including the account identification (except in certain circumstances related to bunched
+
+orders), and order number, and shall record thereon, by timestamp or other timing device,
+the date and time, to the nearest minute, the order is received, in violation of Section
+
+49(a) of the Act, 7 U.S.C. Â§ 6(a) (2012), and Commission Regulation 1,35(a-1),
+
+17 CF.R. Â§ 1.35(a-1) (2014); and
+C placing orders for customers without a written power of attorney and without
+
+obtaining specific information from its customers about the quantity and/or the precise
+
+13
+Case: Ddd-cv-O787? Docurnemt 4 Se Filed: 00/21/15 Page I4 of 18 Pageib #227
+(
+
+commodity interest to be purchased or sold in violation of Commission Regulation 166.2,
+
+17 C.F.R. Â§ 166.2 (2014),
+
+59. Based upon and in connection with the foregoing conduct, pursuant to Section 6c
+of the Act, 7 U.S.C. Â§ 13a-1 (2012), Defendants are permanently restrained, enjoined and
+prohibited from directly or indirectly:
+
+a. failing to keep full, complete, and systematic records pertaining to all transactions -
+
+relating to its business of dealing in commodity futures, including but not limited to order
+
+tickets, trading cards, confirmations, statements of purchase and sale, instant messages,
+and all other records and data prepared in the course of its business in dealing in
+commodity futures in violation of Section 4g(a) of the Act, 7 U.S.C. Â§ 6(a) (2012), and
+
+Commission Regulation 1.31, and 1.35(a), 17 C.F.R. Â§ 1.31, 1.35(a) (2014); and
+
+b, failing to diligently supervise the handling by its partners, officers, employees and
+
+agents (or other persons occupying a similar status or performing 8 similar function) of
+
+all commodity interest accounts carried, operated, advised or introduced by the registrant
+and all other activities of its partners, officers, employees, and agents (or other persons
+
+occupying a similar status or performing a similar function) relating to its business as a
+
+registrant, including by preparing and implementing adequate policies and procedures,
+
+training FI employees, and overseeing their activities related to customer order intake,
+execution, and documentation of customer orders (and related communications), in
+
+violation of Commission Regulation 166.3, 17 C.F.R. Â§ 166.3 (2014).
+
+V. CIVIL MONETARY PENALTY
+
+60. Defendants shall pay, jointly and severally, a civil monetary penalty in the amount
+
+of five hundred thousand dollars ($500,000) (âCMP Obligationâ), within ten (10) days of date of
+
+14
+Case: Tid-ow-D?877 Document # 32 Filed: 00/27/15 Page 15 of 18 PagelD #228
+( ,
+
+entry of this Consent Order, If the CMP Obligation is not paid in full within ten (10) days of the
+date of entry of this Consent Order, then post-judgment interest shall accrue on the CMP
+Obligation beginning on the date of entry of this Consent Order and shal! be determined by using
+the Treasury Bill rate prevailing on the date of entry of this Consent Order pursuant to 28 U.S.C.
+Â§ 1961 (2012).
+
+61. | Defendants shall pay their CMP Obligation by electronic funds transfer, U.S. *
+postal money order, certified check, bank cashierâs check, or bank money order. If payment is to
+be made other than by electronic funds transfer, then the payment shall be made payable to the
+Commodity Futures Trading Commission and sent to the address below:
+
+Commodity Futures Trading Commission
+
+Division of Enforcement
+
+ATTN: Accounts Receivables
+
+DOT/FAA/MMAC/AMZ-341
+
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+
+nikki.gibson@faa.gov
+If payment by electronic funds transfer is chosen, Defendants shall contact Nikki Gibson or her
+successor at the address above to receive payment instructions and shall fully comply with those
+instructions. Defendants shall accompany payment of the CMP Obligation with a cover letter
+that identifies Defendants and the name and docket number of this proceeding. Defendants shall
+simultaneously transmit copies of the cover letter and the form of payment to the Chief Financial
+
+Officer, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street,
+
+NW, Washington, D.C. 20581,
+
+15
+ 
+
+A. Provisions Related to Monetary Sanctions
+
+62. Partial Satisfaction: Acceptance by the Commission of any partial payment of
+Defendantsâ CMP Obligation shall not be deemed a waiver of their obligation to make further
+payments pursuant to this Consent Order, or a waiver of the Commission/CFTCâs right to seek to
+
+compel payment of any remaining balance,
+
+VI. MISCELLANEOUS PROVISIONS
+
+63. Notice: All notices required to be given by any provision in this Consent Order
+shall be sent certified mail, return receipt requested, as follows:
+Notice to Commission:
+
+Rosemary Hollinger
+
+Deputy Director
+
+525 West Monroe, Suite 1100
+
+Chicago, Illinois 60661
+
+Notice to Defendants:
+
+William Nissen
+
+Counsel for Defendants
+
+Sidley Austin LLP
+
+One South Dearborn
+
+Chicago, Illinois 60603
+All such notices to the Commission shall reference the name and docket number of this action.
+
+64. Change of Address/Phone: Until such time as Defendants satisfy in full their
+CMP Obligation as set forth in this Consent Order, Defendants shall provide written notice to the
+Commission by certified mail of any change to their telephone number and mailing address
+within ten (10) calendar days of the change.
+
+65. Entire Agreement and Amendments: This Consent Order incorporates all of the
+
+terms and conditions of the settlement among the parties hereto to date. Nothing shall serve to
+
+16
+Case: lib4-cv-O7 877? Document # 32 Filed: GS/2U/15 Page 17 of 18 PageiD #230
+{ (
+
+amend or modify this Consent Order in any respect whatsoever, unless: (a) reduced to writing;
+(b) signed by all parties hereto; and (c) approved by order of this Court.
+
+66.  Invalidation: If any provision of this Consent Order or if the application of any
+provision or circumstance is held invalid, then the remainder of this Consent Order and the
+application of the provision to any other person or circumstance shall not be affected by the
+holding.
+
+67. Waiver: The failure of any party to this Consent Order at any time to require
+performance of any provision of this Consent Order shall in no manner affect the right of the
+party at a-later time to enforce the same or any other provision of this Consent Order. No waiver
+in one or more instances of the breach of any provision contained in this Consent Order shall be
+deemed to be or construed as a further or continuing waiver of such breach or waiver of the
+breach of any other provision of this Consent Order.
+
+68. Continuing Jurisdiction of this Court: This Court shall retain jurisdiction of this
+action to ensure compliance with this Consent Order and for all other purposes related to this
+action, including any motion by Defendants to modify or for relief from the terms of this
+Consent Order.
+
+69.  Injunctive and Equitable Relief Provisions: The injunctive and equitable relief
+provisions of this Consent Order shall be binding upon Defendants, upon any person under their
+authority or control, and upon any person who receives actual notice of this Consent Order, by
+personal service, e-mail, facsimile or otherwise insofar as he or she is acting in active concert or
+participation with Defendants.
+
+70. | Authority: Amedeo Cerrone hereby warrants that he is the Chief Operating
+
+Officer of Futures International LLC, and that this Consent Order has been duly authorized by
+
+17
+
+ 
+
+ 
+a
+
+st
+
+4
+
+Case: 1:14-cv-07877 Document #: 32 Filed: 09/21/15 Page 18 of 18 PagelD #:231
+
+(
+
+Futures International LLC and he has been duly empowered to sign and submit this Consent
+Order on behalf of Futures International LLC,
+
+71. Counterparts and Facsimile Execution: This Consent Order may be executed in
+two or more counterparts, all of which shall be considered one and the same agreement and shall
+become effective when one or more counterparts have been signed by each of the parties hereto
+and delivered (by facsimile, e-mail, or otherwise) to thie other party, it being understood that all
+parties need not sign the same counterpart. Any counterpart or other signature to this Consent
+Order that is delivered by any means shall be deemed for all purposes as constituting good and
+valid execution and delivery by such party of this Consent Order.
+
+72. Contempt: Defendants understand that the terms of the Consent Order are
+enforceable through contempt proceedings, and that, in any such proceedings they may not
+challenge the validity of this Consent Order.
+
+73. Agreements and Undertakings: Defendants shall comply with all of the
+undertakings and agreements set forth in this Consent Order.
+
+There being no just reason for delay, the Clerk of the Court is hereby ordered to enter this
+Consent Order for Permanent Injunction, Civil Monetary Penalty, and Other Equitable Relief
+Against Defendants Futures International LLC and Amedeo Cerrone forthwith and without
+
+further notice.
+
+IT IS SO ORDERED on this a Bi of Ss phot nes _, 2015,
+
+Tolaw), (tere
+
+UNITED STATES DISTRICT JUDGE
+
+18

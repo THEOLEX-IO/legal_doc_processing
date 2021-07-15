@@ -1,0 +1,609 @@
+ 
+
+LS TRAp,
+
+(— RECEIVED CFTC \
+“by
+
+AAD
+
+   
+
+  
+
+UNITED STATES OF AMERICA AE
+Before the oS
+
+COMMODITY FUTURES TRADING COMMISSION Office of Proceedings
+Proceedings Clerk
+
+ 
+
+ 
+
+ 
+
+\ 1:11 pm, Mar 16, ay,
+
+In the Matter of:
+
+)
+)
+)
+Equinox Fund Management, ) CFTC Docket No. 16 _-99
+LLC, )
+
+)
+
+)
+
+Respondent.
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT,
+MAKING FINDINGS AND IMPOSING REMEDIAL sanctions
+
+I.
+
+The Commodity Futures Trading Commission (“Commission” or “CFTC”) has reason to
+believe that Equinox Fund Management, LLC (“Equinox” or “Respondent”) violated the
+Commodity Exchange Act (the “Act”) and Commission Regulations (“Regulations”). Therefore,
+the Commission deems it appropriate and in the public interest that public administrative
+proceedings be, and hereby are, instituted to determine whether Respondent engaged in the
+violations set forth herein and to determine whether any order should be issued imposing
+remedial sanctions.
+
+II.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, except as to the
+Commission’s jurisdiction over it and the subject matter of these proceedings, which are
+admitted, Respondent consents to the entry of this Order Instituting Proceedings Pursuant to
+Sections 6(c) and 6(d) of the Commodity Exchange Act, Making Findings and Imposing
+Remedial sanctions (“Order”) and acknowledges service of this Order. '
+
+ 
+
+' Respondent consents to the entry of this Order and to the use of these findings in this
+proceeding and in any other proceeding brought by the Commission or to which the Commission
+is a party; provided, however, that Respondent does not consent to the use of the Offer, or the
+findings or conclusions in this Order consented to in the Offer, as the sole basis for any other
+proceeding brought by the Commission, other than in a proceeding in bankruptcy or to enforce
+the terms of this Order. Nor does Respondent consent to the use of the Offer or this Order, or the
+Il.
+
+The Commission finds the following:
+
+A. Summary
+
+These proceedings arise from material misstatements and omissions made by registered
+commodity pool operator (“CPO”) Equinox in the operation of the multi-advisor commodity
+pool, the Frontier Fund (“TFF”). TFF is a managed futures fund structured as a statutory trust
+offering units of beneficial interest in several separate and distinct series, each with a specific
+trading strategy. As the CPO for TFF, Equinox was responsible for preparing the disclosures
+made in the Disclosure Documents for the pool (“Disclosure Documents”) and Annual Reports
+to pool participants concerning TFF. TFF’s offerings of units in the fund were publicly registered
+with the Securities and Exchange Commission (“SEC”) and Equinox was responsible for the
+disclosures made in TFF’s registration statements and periodic filings with the SEC. This action
+concerns the following disclosures:
+
+a. From 2004 through March 2011, Disclosure Documents for TFF disclosed that
+Equinox charged management fees based upon the net asset value (“NAV”) (ie. total
+assets, less total liabilities) of each series, when Equinox actually charged TFF
+management fees based upon the value of the notional assets it was managing in each
+series (i.e., the invested amount plus leverage used in the underlying investments;
+notional assets refers to the trading level of the aggregate attributable assets that
+Commodity Trading Advisors (“CTAs”) traded on behalf of each series) (“Notional
+Trading Value”), thereby charging TFF $5.4 million more than what would have been
+charged based upon NAV;
+
+b. The 2010 Annual Report for TFF disclosed that its methodology of valuing
+certain options was “corroborated by weekly counterparty settlement values,” when in
+fact, Equinox received information during that timeframe showing that its valuation of
+certain options was materially higher than the counterparty’s indicative settlement
+valuations; and
+
+c. Quarterly reports to pool participants were misleading in that: (1) a report for
+the second quarter of 2011 failed to disclose as a material subsequent event a series’ early
+termination of an option at a valuation that was materially different than the value that
+had been recorded for that option and (2) a report for the third quarter of 2011 disclosed
+that an option had been transferred between two series in accordance with TFF’s
+valuation policies, when, in reality, Equinox transferred the option using a valuation
+methodology that differed from the methodology used to value substantially identical
+options held by other TFF series.
+
+ 
+
+findings or conclusions in this Order consented to in the Offer, by any other party in any other
+proceeding.
+Based upon this conduct, Equinox violated Section 40(1)(B) of the Act, 7 U.S.C. § 60(1)(B), and
+Commission Regulations 4.22(c) and 4.24(d) and (i), 17 C.F.R. §§ 4.22(c) and 4.24(d) and (i)
+(2015).
+
+B. Respondent
+
+Equinox Fund Management, LLC (“Equinox”), a Delaware limited liability company
+headquartered in Denver, Colorado, is an asset management firm that specializes in managed
+futures. Equinox has been registered as a commodity pool operator with the CFTC since 2003; it
+is also registered as an investment adviser with the SEC. Currently, as CPO to TFF, Equinox
+manages approximately $268 million of assets. Equinox is responsible for the preparation and
+filing of TFF’s Disclosure Documents and Annual Reports and its SEC periodic filings.
+
+Cc. Other Relevant Entity
+
+The Frontier Fund (“TFF”), a Delaware statutory trust launched in 2004, is a
+commodity pool. Equinox serves as TFF’s CPO and managing owner. TFF operates as a series
+trust, with numerous series engaged in separate trading strategies. The assets of each TFF series
+are valued and accounted for separately, and a daily NAV is calculated for each series. The
+offering of units for each TFF series was registered under the Securities Act. During the relevant
+period (which is primarily from 2009 through 2011), TFF had approximately 15,000 to 20,000
+investors and between $800 million and $1 billion in net assets.
+
+D. Facts
+
+1. Equinox Overcharged Management Fees by Using a Methodology that
+Contradicted Disclosures to Pool Participants
+
+As the managing owner of TFF, Equinox charged each TFF series various fees, including
+a management fee. The management fees compensated Equinox for its management of the
+investments and were also used to pay CTAs their contractual fee. From the inception of various
+TFF series through March 2011, as CPO for TFF, Equinox prepared several Disclosure
+Documents for TFF (and amendments thereto), which were provided to prospective participants
+via mail or other means of interstate commerce. TFF’s Disclosure Documents consistently
+disclosed that Equinox charged management fees (ranging from 0.50% to 3.5%) based upon each
+series’ NAV. For example, TFF’s Disclosure Document, in the form of a prospectus dated
+February 4, 2009, disclosed that “[e]ach Series will pay to the Managing Owner a monthly
+management fee equal to a certain percentage of each Series’ Net Asset Value.” TFF’s
+disclosures that Equinox charged management fees as a percentage of each series’ NAV were
+repeated throughout the Disclosure Documents, including in sections regarding “fees and
+expenses,” “past performance,” “charges to be paid by the trust,” as well as the respective series’
+fee tables and appendices, including the 12 month projected break-even analysis for each series.
+However, contrary to the disclosures in TFF’s Disclosure Documents, Equinox charged
+management fees based on the Notional Trading Value of the assets it was managing in each
+series.
+
+In early March 2011, TFF’s independent auditors questioned whether Equinox’s
+assessment of management fees based on notional assets in each TFF series comported with
+TFF’s existing disclosures that management fees were calculated based on each series’ NAV.
+Thereafter, in the Disclosure Document and annual report to pool participants prepared in April
+2011, Equinox modified its disclosures regarding management fees, including adding a
+clarifying footnote to the break-even analysis, to disclose that Equinox charged management fees
+based on notional assets.
+
+Equinox did not refund to TFF the additional management fees it had collected by
+charging on notional assets prior to the modification of its disclosures. From the inception of
+various TFF series through March 2011, Equinox obtained $5,404,004 in additional management
+fees by charging TFF series on notional assets, as opposed to NAV as had been previously
+represented.
+
+2 Disclosures Regarding the Methodology of Valuing Certain Derivatives
+Were Misleading
+
+As the CPO of TFF, Equinox allocated TFF series’ funds to CTAs engaged in various
+trading strategies. In some instances, Equinox determined that it was not feasible for TFF series
+to make direct investments with desired CTAs. Therefore, Equinox obtained access to those
+CTAs’ returns by investing in customized derivatives, including total return swaps and options,
+that used the desired CTAs’ performance as the reference assets.
+
+From October 2007 through May 2009, four TFF series, through their investments in
+various subsidiary trading companies, first began investing in separate European OTC call
+options (the “Options”), all of which were written by the same counterparty (the “Option
+Counterparty”). The reference asset of each respective Option was a different private managed
+futures fund managed by a wholly-owned subsidiary of the Options Counterparty. The Options
+included:
+
+a. The RCW Option (held by TFF’s Balanced Series);
+b. The FX Enhanced Option (held by TFF’s Currency Series);
+c. The RCW2 Option (held by TFF’s Diversified Series); and
+d. The Solon Option (held by TFF’s Dynamic Series).
+
+The TFF Disclosure Documents provided that Equinox was responsible for the daily
+calculations of NAV and as a result was responsible for determining the valuation of all
+investments held by each TFF series. The Options did not have readily determinable fair values
+because they were not traded on an open market and did not have publicly-reported prices.
+Therefore, Equinox treated the Options held by TFF as Level Three assets, pursuant to
+Accounting Standards Codification (“ASC”) 820, Fair Value Measurement. From the respective
+dates of purchase through the third quarter of 2010, Equinox valued the Options using its internal
+valuation methodology.
+
+During the fourth quarter of 2010, Equinox revised its valuation methodology with
+respect to the Options to account for a valuation range provided by an outside valuation agent
+(“Valuation Agent”). Specifically, for each Option, Equinox obtained a valuation range from its
+Valuation Agent, then compared it to the valuation estimated using its own methodology. If
+Equinox’s internal valuation fell within the Valuation Agent’s range, Equinox used the midpoint
+of the Valuation Agent’s range. If its valuation fell outside of the range, then Equinox valued the
+Option at the closest bound of the Valuation Agent’s range (either the upper or lower bound).
+This valuation methodology remained in effect through July 2011.
+
+In its Annual Report for the year ending December 31, 2010 and quarterly reports for the
+first and second quarters of 2011, each of which was provided to pool participants via U.S. mail
+or other means of interstate commerce, TFF disclosed, in the notes to its financial statements,
+that certain derivatives, including the Options, were “reported at fair value based upon daily
+valuations provided by a third party pricing service and corroborated by weekly counterparty
+settlement values” (emphasis added). Equinox’s internal valuation methodology used certain
+pricing information provided on a weekly basis by a subsidiary of the Option Counterparty
+concerning the net asset value of reference assets of the respective Options. However, TFF’s
+disclosure that its valuations were “corroborated by weekly counterparty settlement values” was
+misleading because throughout this timeframe, Equinox received, but failed to consider, three
+types of information concerning the Option Counterparty’s pricing of the Options which was
+materially different than the valuation of the Options as reported by TFF.
+
+First, on each business day from late June 2009 through early May 2011, the Option
+Counterparty provided Equinox with a “Products Valuation” report that included indicative bid
+and ask prices for the RCW2 and Solon Options that were materially different from the
+valuations Equinox had assigned to these Options.
+
+Second, in connection with the audit of each TFF series’ financial statements for year-end
+2010, the Option Counterparty provided audit confirmations for each of the Options as of
+December 31, 2010 showing indicative valuations that were materially different from Equinox’s
+valuations. TFF’s independent auditor in turn provided these counterparty audit confirmations to
+Equinox.
+
+Third, between June 2009 and May 2011, various TFF series engaged in seven additional
+transactions with the Option Counterparty to increase or decrease the amount invested in the
+RCW, RCW2 and Solon Options (“Additional Transactions”). In each of the Additional
+Transactions, the parties used the Option Counterparty’s bid or ask prices to increase or decrease
+the amounts invested in the Options, and at least in certain instances, these prices were materially
+different than what was reflected in TFF’s Options valuations. Furthermore, the bid or ask prices
+for the Additional Transactions matched pricing contained in the Products Valuation reports that
+Equinox routinely received from the Option Counterparty.
+The discrepancy between Equinox’s valuations and pricing information provided to
+Equinox by the Option Counterparty demonstrated that, contrary to TFF’s disclosures, its
+valuations were not corroborated by weekly counterparty settlement values between December
+31, 2010 and June 30, 2011. Instead, on multiple occasions, TFF’s reported valuation for the
+Options was substantially higher than the Option Counterparty’s valuation of each of the
+Options.
+
+3. Certain Quarterly Reports in 2011 Were Misleading
+
+The quarterly report to TFF pool participants for the period ending June 30, 2011 failed
+to disclose a material subsequent event pursuant to ASC 855, which requires SEC filers to
+disclose material subsequent events if they are “of such a nature that they must be disclosed to
+keep the financial statements from being misleading.” Specifically, ASC 855 requires the
+disclosure of the nature of the material subsequent event, and “an estimate of its financial effect,
+or a statement that such an estimate cannot be made.” Paragraph ASC 855-10-55-2 lists various
+examples of material subsequent events, including “[c]hanges in the fair value of assets or
+liabilities (financial or nonfinancial) or foreign exchange rates after the balance sheet date but
+before financial statements are issued or are available to be issued.”
+
+In July 2011, shortly after the close of the reporting period ending June 30, 2011, TFF’s
+Currency Series liquidated the FX Enhanced Option and received an amount materially lower
+than the recorded value. The FX Enhanced Option constituted a significant portion of the
+Currency Series’ assets. TFF’s Currency Series failed to disclose both the liquidation of the FX
+Enhanced Option and the estimated financial effect, despite the fact that both were known prior
+to the issuance of the Currency Series’ June 30, 2011 financial statements. TFF’s Currency
+Series’ liquidation of the FX Enhanced Option on July 8, 2011 took place after the reporting
+period ended June 30, 2011, but prior to the publication of its quarterly report on August 12,
+2011.
+
+Also in July 2011, the Solon Option was transferred from the Dynamic Series to the
+Balanced Series.
+
+The Dynamic Series was structured such that its investment returns were almost entirely
+driven by its investment in the Solon Option.
+
+One of TFF’s larger series, the Balanced Series, held an inter-series investment in the
+Dynamic Series, such that the Balanced Series was entitled to share in 94% of the profits or
+losses of the Dynamic Series.
+
+In July 2011, the early liquidation of the FX Enhanced Option caused Equinox to
+undertake an expedited re-assessment of: (i) the appropriate valuation for the remaining three
+Options still held by other TFF series (including the Dynamic Series); and (ii) the potential
+impact of write-downs of the valuations of the three Options on the NAVs of the series that held
+the Options. Specifically, when Equinox liquidated the FX Enhanced Option on July 8, 2011, the
+Option Counterparty paid only $3,699,000 at liquidation even though the Currency Series had
+the FX Enhanced Option valued at $5,029,547, a difference of $1,330,547.
+On July 12, 2011, Equinox requested pricing for the remaining three Options, and the
+Option Counterparty provided indicative settlement valuations later that day showing that TFF’s
+valuations of the Options were substantially higher than the Option Counterparty’s settlement
+valuations as of June 30, 2011. Following receipt of this information, Equinox calculated that
+writing down the Solon Option to the Valuation Agent’s lower bound would have a material
+impact on the Dynamic Series’ NAV.
+
+By July 15, 2011, Equinox had decided to write-down the valuation of the RCW and
+RCW2 Options to the Valuation Agent’s lower bound. On July 15, 2011, Equinox also
+announced the immediate closure of the Dynamic Series, with a forced redemption of all
+investors at that day’s NAV. However, the Dynamic Series did not liquidate the Solon Option to
+make redemptions. Instead, on July 15, 2011, Equinox transferred ownership of the Solon Option
+from the Dynamic Series to the Balanced Series.
+
+On the date of the transfer of the Solon Option, Equinox did not adjust the valuation in
+any way to account for the Option Counterparty’s materially different indicative settlement
+valuations. Instead, contrary to its valuation policy, Equinox transferred the Solon Option using
+the midpoint of the Valuation Agent’s range, $10,123,315. However, the next business day after
+the inter-series transfer, the Balanced Series wrote down the valuation of the Solon Option to the
+lower bound of the Valuation Agent’s range, $9,065,685. The impact of this write-down was
+absorbed by the Balanced Series, a significantly larger series.
+
+During the third quarter of 2011, Equinox ultimately decided to use the Option
+Counterparty’s indicative settlement valuations to value the Solon Option and the other two
+remaining Options.
+
+A quarterly report to pool participants for the third quarter of 2011 contained the
+following disclosure regarding the inter-series transfer of the Solon Option:
+
+“On July 18, 2011, the Balanced Series reduced its inter-series advance to the
+Dynamic Series in exchange for ownership in a total return swap contract in the
+amount of $27,379,284 which approximated fair value in accordance with the
+Trust’s valuation policies at the time of transfer.”
+
+This disclosure was misleading because by the time the report for the third quarter of
+2011 was issued, Equinox knew or should have known that the Solon Option had not been
+transferred “in accordance with the Trust’s valuation policies.” Those policies required that
+Equinox take into account, among other things, “whether the same or similar securities are held
+by other Funds managed by Equinox and the method used to price the security in those funds.”
+
+By making an exception and transferring the Solon Option at the Valuation Agent’s
+midpoint instead of its lower bound, Equinox failed to take into account information regarding
+the same or similar securities (the RCW and RCW2 Options) held by other TFF series.
+Furthermore, Equinox had no other information to justify treating the Solon Option differently,
+nor did Equinox learn of any new information as of July 18, 2011 (the next business day after
+July 15, 2011) prompting the write-down of the Solon Option that took place on that date.
+Equinox’s delay in writing down the Solon Option to the Valuation Agent’s lower bound caused
+the Solon Option not to be transferred in accordance with Trust valuation policies.
+
+Equinox made a voluntary reimbursement to the Balanced Series to compensate its
+investors for the portion of the subsequent write down of the valuation of the Solon Option
+attributable to the Dynamic Series.
+
+IV.
+LEGAL DISCUSSION
+
+A. Respondent Violated Section 4o0(1 of the Act
+
+Section 40(1)(B) of the Act prohibits CPOs from engaging, by use of the mails or any
+means or instrumentality of interstate commerce, directly or indirectly in “any transaction,
+practice, or course of business which operates as a fraud or deceit upon any client or participant
+or prospective client or participant.” 7 U.S.C. § 60(1)(B). Scienter is not required to prove a
+violations of Section 40(1)(B). See In re Slusser, [1998-1999 Transfer Binder] Comm. Fut. L.
+Rep. (CCH) 927,701 at 48,315 (CFTC July 19, 1999), aff'd in relevant part, Slusser v. CFTC,
+210 F.3d 783 (7th Cir. 2000).
+
+During the relevant period, as set forth above, Equinox made several misleading
+disclosures in Disclosure Documents and reports distributed to pool participants and prospective
+participants. Therefore, Equinox violated Section 40(1)(B) of the Act.
+
+B. Respondent Violated Commission Regulation 4.24(d) and (i)
+
+Pursuant to Regulation 4.21 all CPOs are required to file with NFA and deliver to
+prospective pool participants a Disclosure Document. 17 C.F.R. § 4.21. Regulation 4.24(d)
+requires that, in the forefront of the Disclosure Document, a CPO must include disclosure of the
+break-even point per unit of initial investment. 17 C.F.R. § 4.24(d). Regulation 4.24(i) requires
+that the Disclosure Document must include “a complete description of each fee, commission and
+other expense which the commodity pool operator knows or should know has been incurred by
+the pool for its preceding fiscal year and is expected to be incurred by the pool in its current
+fiscal year, including . . . management fees.” Regulation 4.24(i)(3) further specifies, “where any
+fee is determined by reference to a base amount, including, but not limited to, ‘net assets’ . . . the
+[CPO] must explain how such base amount will be calculated, in a manner consistent with
+calculation of the break-even point.” 17 C.F.R. § 4.24(1).
+
+As set forth above, Equinox’s Disclosure Documents, including its break-even analysis,
+reflected that management fees would be calculated based on NAV and did not disclose that the
+fees were actually calculated based on the Notional Trading Value of the funds. Accordingly,
+Equinox violated Regulations 4.24(d) and 4.24(i).
+
+C. Respondent Violated Commission Regulation 4.22(c)
+
+Regulation 4.22(c) requires that a CPO must distribute an Annual Report to each
+participant and electronically submit a copy of the Annual Report to NFA. 17 C.F.R. § 4.22(c).
+Regulation 4.22(c)(5) specifies that the Annual report must contain “[a]ppropriate footnote
+disclosure and such further material information as may be necessary to make the required
+statements not misleading.”
+
+As set forth above, Equinox’s 2010 Annual Report included certain disclosures in the
+notes to its financial statements regarding its valuation methodology which were misleading.
+Accordingly, Equinox violated Regulation 4.22(c).
+
+V.
+FINDINGS OF violations
+
+Based on the foregoing, the Commission finds that, during the Relevant Period, Equinox
+Fund Management, LLC violated Section 40(1)(B) of the Act, 7 U.S.C. § 60(1)(B), and
+Commission Regulations 4.22 and 4.24, 17 C.F.R. §§ 4.22, 4.24 (2015).
+
+VI.
+OFFER OF SETTLEMENT
+
+Respondent has submitted an Offer in which it, without admitting or denying the findings
+and conclusions herein:
+
+A. Acknowledges receipt of service of this Order;
+
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in this
+Order and for any action or proceeding brought or authorized by the Commission based
+on violations of or enforcement of this Order;
+
+C. Waives:
+1. the filing and service of a complaint and notice of hearing;
+2. a hearing;
+3. all post-hearing procedures;
+4. judicial review by any court;
+
+5. any and all objections to the participation by any member of the Commission’s
+staff in the Commission’s consideration of the Offer;
+
+6. any and all claims that it may possess under the Equal Access to Justice Act, 5
+U.S.C. § 504 (2012) and 28 U.S.C. § 2412 (2012), and/or the rules promulgated by
+the Commission in conformity therewith, Part 148 of the Commission’s
+Regulations, 17 C.F.R. §§ 148.1-30 (2015), relating to, or arising from, this
+proceeding;
+7. any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, Pub. L. No. 104-121, §§ 201-253, 110 Stat.
+847, 857-868 (1996), as amended by Pub. L. No. 110-28, § 8302, 121 Stat. 112,
+204-205 (2007), relating to, or arising from, this proceeding; and
+
+8. any claims of Double Jeopardy based on the institution of this proceeding or the
+entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer;
+
+Consents, solely on the basis of the Offer, to the Commission’s entry of this Order that:
+
+1. makes findings by the Commission that Respondent violated Section 40(1)(B) of
+the Act, 7 U.S.C. § 60(1)(B) and Commission Regulations 4.22 and 4.24,
+17 C.F.R. §§ 4.22, 4.24;
+
+2. orders Respondent to cease and desist from violating Section 40(1)(B) of the Act, ,
+7 U.S.C. § 60(1)(B) and Commission Regulations 4.22 and 4.24, 17 C.F.R. §§
+4.22, 4.24;
+
+3. orders Respondent to pay a civil monetary penalty in the amount of two hundred
+fifty thousand dollars ($250,000) within ninety (90) days of the date of entry of
+this Order; and
+
+4. orders Respondent and its successors and assigns to comply with the conditions
+and undertakings consented to in the Offer and as set forth in Part VII of this
+Order.
+
+Upon consideration, the Commission has determined to accept Respondent’s Offer.
+VII.
+ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent shall cease and desist from violating Section 40(1)(B) of the Act, 7 U.S.C. §
+60(1)(B) and Commission Regulations 4.22 and 4.24, 17 C.F.R. §§ 4.22, 4.24.
+
+Respondent shall pay a civil monetary penalty of two hundred fifty thousand dollars
+($250,000) within ninety (90) days of the date of entry of this Order (the “CMP
+Obligation”). If the CMP Obligation is not paid in full within ninety (90) days of the date
+of entry of this Order, then post-judgement interest shall accrue on the CMP Obligation
+beginning on the date of entry of this order and shall be determined by using the Treasury
+Bill rate prevailing on the date of entry of this Order pursuant to 28 U.S.C. § 1961
+
+10
+(2012).
+
+Respondent shall pay the CMP Obligation by electronic funds transfer, U.S. postal
+money order, certified check, bank cashier’s check, or bank money order. If payment is to
+be made other than by electronic funds transfer, then the payment shall be made payable
+to the Commodity Futures Trading Commission and sent to the address below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables
+DOT/FAA/MMAC/AMZ-341
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+nikki.gibson@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Nikki
+Gibson or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies the paying Respondent and the name and
+docket number of this proceeding. The paying Respondent shall simultaneously transmit
+copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+
+Respondent and its successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+1. Disgorgement: Respondent shall pay disgorgement in the amount of five million
+four hundred and four thousand and four dollars ($5,404,004) (“Disgorgement
+Obligation”). Respondent shall make an initial payment of $4,500,000 within
+ninety (90) days of the earlier of (1) the date of entry of this Order or (2) the date
+of entry of the Order Instituting Administrative and Cease-And-Desist
+Proceedings Pursuant to Section 8a of The Securities Act Of 1933, Section 21c Of
+The Securities Exchange Act Of 1934, And Section 203(E) Of The Investment
+Advisers Act Of 1940, Making Findings, and Imposing Remedial sanctions and A
+Cease-And-Desist captioned “In the matter of Equinox Fund Management, LLC”
+promulgated by the Securities Exchange Commission (“SEC Order”).
+Respondent shal] pay the balance of the Disgorgement Obligation by September
+30, 2016.
+
+Post-judgment interest shall accrue on the Disgorgement Obligation beginning on
+the date payment is due and shall be determined by using the Treasury Bill rate
+
+11
+prevailing on the date of entry of this Order pursuant to 28 U.S.C. § 1961 (2012).
+
+Payment, up to the amount of five million four hundred and four thousand and
+four dollars ($5,404,004), made by the Respondent in satisfaction of any
+disgorgement entered in the SEC Order (including payments to an escrow account
+as provided in the SEC Order) shall offset (dollar for dollar) Respondent’s
+Disgorgement Obligation identified herein.
+
+Any payment of Disgorgement Obligations to the CFTC hereunder shall be made
+by electronic funds transfer, U.S. postal money order, certified check, bank
+cashier’s check, or bank money order. If payment is to be made other than by
+electronic funds transfer, then the payment shall be made payable to the
+Commodity Futures Trading Commission and sent to the address below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables
+DOT/FAA/MMAC/AMZ-341
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+nikki.gibson@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact
+Nikki Gibson or her successor at the above address to receive payment
+instructions and shall fully comply with those instructions. Respondent shall
+accompany payment of the Disgorgement Obligation with a cover letter that
+identifies the paying Respondent and the name and docket number of this
+proceeding. The paying Respondent shall simultaneously transmit copies of the
+cover letter and the form of payment to the Chief Financial Officer, Commodity
+Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+
+Public Statements: Respondent agrees that neither it nor any of its successors and
+assigns, agents or employees under its authority or control shall take any action or
+make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondent’s: (i) testimonial obligations; or (ii) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondent and its successors and assigns shall undertake all steps necessary to
+ensure that all of its agents and/or employees under its authority or control
+understand and comply with this agreement.
+
+12
+3. Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission of partial payment of Respondent’s Disgorgement Obligation or
+CMP Obligation shall not be deemed a waiver of its obligation to make further
+payments pursuant to this Order, or a waiver of the Commission’s right to seek to
+compel payment of any remaining balance.
+
+4, Change of Address/Phone: Until such time as Respondent satisfies in full its
+Disgorgement Obligation and CMP Obligation as set forth in this Consent Order,
+Respondent shall provide written notice to the Commission by certified mail of
+any change to its telephone number and mailing address within ten (10) calendar
+days of the change.
+
+The provisions of this Order shall be effective as of this date.
+By the Commission.
+
+Dt | Pelt
+
+Christopher J. Kirkpatrick
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: March 16, 2016
+
+13

@@ -1,0 +1,969 @@
+ase O:15-cv-61990-BR Docurnent] Entered on FLSD Docket OO/16/2015 Page 1 of 28
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE SOUTHERN DISTRICT OF FLORIDA
+FORT LAUDERDALE DIVISION
+
+ 
+
+UNITED STATES COMMODITY CIVIL ACTION NO:
+FUTURES TRADING COMMISSION,
+Plaintiff, Hon.
+
+ 
+
+Vv.
+
+MINTCO LLC, RICHARD Q.
+ZIMMERMAN, and STUART RUBIN,
+
+Defendants.
+
+Nem Neeâ âome Noweâ Neneâ Nomeâ âeeeâ Neueâ âneâ Neng Neeâ âeeâ Seeâ Neeâ Neeâ
+
+ 
+
+COMPLAINT FOR INJUNCTIVE AND OTHER EQUITABLE RELIEF AND
+PENALTIES UNDER THE COMMODITY EXCHANGE ACT
+
+The United States Commodity Futures Trading Commission (âCommissionâ or âCFTCââ),
+
+by and through its attorneys, hereby alleges as follows:
+I. SUMMARY
+
+1. From July 16, 2011, through the present (the âRelevant Periodâ), Defendant
+Mintco LLC (âMintcoâ), by and through its agents, officers, or persons acting within their
+employment, agency, or office with Mintco, including its Chief Executive Officer, Stuart Rubin
+(âRubinâ) and President, Richard Q. Zimmerman (âZimmermanâ) (collectively, âDefendantsâ),
+purported to sell âphysicalâ commodities, including gold, silver, platinum, and palladium, in
+storage (âretail commodity transactionsâ), often on a leveraged, margined, or financed basis
+(âfinanced transactionsâ), but also on a non-financed or âfully-paidâ basis, to retail customers
+
+who were not eligible contract participants (âECPsâ). In fact, the financed transactions did not
+result in actual delivery of metal to customers and Defendants have thus offered to enter into,
+accepted orders for, entered into, executed, and confirmed unlawful off-exchange precious
+metals transactions and failed to register as a futures commission merchant. In addition,
+Defendants have defrauded retail customers by misrepresenting and omitting to disclose material
+facts regarding: the past performance of both the financed and fully paid transactions they
+marketed; the break-even point for the financed transactions they marketed; and the relationship
+between Mintco and retail customers in the financed and fully-paid transactions.
+
+2. Following the enactment of Section 742 of the Dodd-Frank Wall Street Reform
+and Consumer Protection Act of 2010 (âDodd-Frank Actâ or âDodd Frankâ), Public Law 111-
+203, 124 Stat. 1376 (2010), effective July 16, 2011, retail commodity transactions must be
+executed on a regulated commodities exchange pursuant to Section 4(a) of the Commodity
+Exchange Act (âCEAâ or âActâ), 7 U.S.C. Â§ 6(a) (2012).
+
+3. Transactions that result in actual delivery of precious metals to customers within
+28 days are excepted from this requirement (the â28-day exceptionâ). To make actual delivery,
+the seller in a financed transaction must secure and deliver the contracted amount of physical
+metal for each customer within 28 days of its acceptance of the customerâs order. For actual
+delivery to result, the customer or the customerâs agent must have possession and control of the
+physical metal.
+
+4, The financed transactions Mintco markets to retail customers do not result in
+actual delivery. Mintco does not itself acquire, deliver and store any financed metal on behalf of
+any of its customers. Instead, it contracts with a third party, Worth Group Inc. (âWorthâ), to
+manage its exposure. Worth, in turn, allegedly âdeliversâ the financed precious metal that the
+
+retail customer purchases. Worth maintains a âmasterâ account and customer sub-accounts at
+Case :15-cv-61960-BB Bocumenti Entereci on FLSD Docket 09/16/2015 Page 3 of 28
+
+depositories with whom it has contracted to hold metal. Worth is the signatory on both the
+master accounts and the sub-accounts, and neither Mintco nor the retail customers have a
+contractual relationship with the depositories. For financed transactions, Worth purports to
+deliver to retail customers by âallocatingâ metal from the master account to the customer sub-
+accounts. These allocations are book entries; there are no physical transfers of metal. Worthâs
+depositories maintain possession of the allocated metal, and Worth maintains control of the
+metal, so that actual delivery to the retail customers does not occur. Because the financed
+transactions do not result in actual delivery, they are illegal, off-exchange transactions.
+
+5. By virtue of this conduct and the conduct further described herein, Defendants
+Mintco, Rubin, and Zimmerman have engaged, are engaging, or are about to engage in conduct
+in violation of Sections 4(a), 4b(a)(2)(A),(C), 4d, and 6(c)(1) of the CEA, 7 U.S.C. Â§Â§ 6(a),
+6b(a)(2)(A),(C), 6d, 9(1) (2012), and Regulation 180.1(a), 17 C.F.R. Â§ 180.1(a) (2014).
+
+6. Mintcoâs employees and agents, including Defendants Rubin and Zimmerman,
+committed the acts and omissions alleged herein within the course and scope of their
+employment, agency or office with Mintco. Therefore, Mintco is liable pursuant to Section
+2(a)(1)(B) of the Act, 7 U.S.C. Â§ 2(a)(1)(B) (2012), and Commission Regulation 1.2, 17 C.F.R.
+Â§ 1.2 (2014), as principal for the violative acts and omissions of Mintcoâs employees and agents,
+including Rubin and Zimmerman. Rubin and Zimmerman are also liable for these violations as
+controlling persons of Mintco pursuant to Section 13(b), 7 U.S.C. Â§ 13(c)(b), because they failed
+to act in good faith or knowingly induced the acts constituting Mintcoâs violations.
+
+7. Unless restrained and enjoined by this Court, Defendants are likely to continue
+
+engaging in the acts and practices alleged in this complaint, or in similar acts and practices.
+*
+
+men
+
+Mase O:15-cv-61960-BB DBocurnent i Entered on FLSD Docket OO/16/2015 Page 4 of 28
+8. The CFTC accordingly brings this action pursuant to Section 6c of the CEA,
+
+7 U.S.C. Â§ 13a-1, to enjoin Defendantsâ unlawful practices and to compel their compliance with
+
+the CEA and Regulations. In addition, the CFTC seeks restitution, rescission, civil monetary
+
+penalties, and such other equitable relief as this Court may deem appropriate.
+
+II. JURISDICTION AND VENUE
+
+9. Section 6c(a) of the CEA, 7 U.S.C. Â§ 13a-1(a), authorizes the Commission to seek
+injunctive relief against any person whenever it shall appear to the Commission that such person
+has engaged, is engaging, or is about to engage in any act or practice constituting a violation of
+the CEA or any rule, regulation, or order thereunder.
+
+10. With respect to Defendantsâ financed transactions, the Commission has
+jurisdiction over the conduct and transactions at issue pursuant to Section 2(c)(2)(D) of the CEA,
+7 U.S.C. Â§ 2(c)(2)(D).
+
+11. With respect to Defendantsâ non-financed fully-paid transactions, the
+Commission has jurisdiction over the conduct and transactions at issue pursuant to Section
+6(c)(1) of the CEA, 7 U.S.C. Â§ 9(1).
+
+12. | Venue properly lies with the Court pursuant to Section 6c(e) of the CEA, 7 U.S.C.
+Â§ 13a-1(e), because Defendants transacted business in this District and certain transactions, acts,
+practices, and business alleged in this Complaint occurred, are occurring, and/or are about to
+
+occur within this District.
+
+III. PARTIES
+
+13. _â_â Plaintiff U.S. Commodity Futures Trading Commission is an independent
+
+federal regulatory agency that is charged by Congress with the responsibility for administering
+Case O15-cv-61960-BB Documenti Entered on FLSD Docket 09/16/2015 Page 5 of 28
+
+and enforcing the provisions of the Act, 7 U.S.C. Â§Â§ 1 et seg., and the Commission Regulations
+(âRegulationsâ) promulgated thereunder, 17 C.F.R. Â§Â§1.1 et seg. (2014).
+
+14. Mintco LLC (âMintcoâ) is a Florida corporation, incorporated on July 14, 2011,
+with its principal place of business formerly in Deerfield Beach, Florida and more recently in
+Delray Beach, Florida. Mintco is 100% owned by its two principals, Rubin and Zimmerman. In
+its solicitation materials, Mintco characterizes itself as âa market maker and dealer in precious
+metals.â Mintco, using websites and telemarketers, solicited retail customers to invest in
+leveraged, margined, physical, financed or fully paid precious metals transactions. Mintco has
+never been registered with the Commission in any capacity.
+
+15. Stuart Rubin resides in Fort Lauderdale, Florida. He is the Chief Executive
+Officer, a principal, and 50% owner of Mintco. Rubin was registered as an associated person
+with the Commission while employed by various introducing brokers between 1984 and 2006.
+He is not currently registered. On April 11, 2003, Rubin was personally sanctioned by the
+National Futures Association (âNFAâ) for violation of NFA Rule C.R.2-9, which requires that
+â(e]ach member shall diligently supervise its employees and agents in the conduct of their
+commodity futures activities for or on behalf of the Member.â At that time, Rubin was fined
+$445,000, jointly and severally with the company he operated.
+
+16. Richard Zimmerman resides in Wellington, Florida. He is the President, a
+principal, and 50% owner of Mintco. He is currently registered with the Commission as an
+associated person of a registered introducing broker. On July 14, 2006, Zimmerman was
+sanctioned by the NFA for violation of NFA Rule C.R.2-2(a), which provided that NFA
+members shall not â[c]heat, defraud, or deceive, or attempt to cheat, defraud or deceive, any
+
+commodity futures customer,â and BFA Rule 2-29(a)(1), which provided that NFA members
+shall not âmake any communication with the public which operates as a fraud or deceit.â At that
+time, Zimmerman was fined $5,000, suspended from membership for three months, and required
+to tape record all customer calls for six months.
+
+IV. OTHER RELEVANT ENTITIES
+
+17. Worth Group Ine. (âWorthâ) is a Florida corporation formed in June 2002 that
+has previously operated under the names of Wilshire Capital Management Corp. and Worth
+Bullion Group Inc. Worth describes itself as ââa Florida-based precious metals wholesaler [that]
+might also be described as a dealer or broker of precious metals.â Worthâs business office is
+located at 3900 Military Trail, Ste. 500, Jupiter, Florida, 33458. Worth has never been registered
+with the Commission in any capacity.
+
+18.â Plaintiff CFTC brought an action against Worth in the Southern District of
+Florida, CFTC v. Worth Group, Inc., et al., Case No. 13-cv-80796-KLR (S.D. Fla., complaint
+filed August 13, 2013), alleging, inter alia, that Worth defrauded retail precious metals customers
+and engaged in illegal, off-exchange leveraged commodity transactions with retail customers.
+
+On January 23, 2014, the Court entered a Consent Order of Preliminary Injunction and Other
+Ancillary Relief (ECF No. 61) that, among other relief, enjoins Worth from violating certain
+provisions of the Act. On April 14, 2014, the Court denied Worthâs motion to dismiss (ECF No.
+79), finding that the CFTC had jurisdiction over the alleged transactions and that the complaint,
+as filed, stated a claim for fraud. On July 29, 2015, the Court denied the partiesâ cross-motions
+for summary judgment (ECF No. 181).
+
+V. STATUTORY BACKGROUND
+19. Effective July 16, 2011, the Dodd-Frank Act broadened the scope of the CFTCâs
+
+jurisdiction to include financed commodity transactions with retail customers. The new Section
+
+2(c)(2)(D) of the CEA, 7 U.S.C. Â§ 2(c)(2)(D), applies, subject to certain exceptions, to âany
+Case 0:15-cv-61960-BB DBoourment it Entered on FLSD Docket 09/18/2015 Page 7 of 28
+
+agreement, contract, or transaction in any commodityâ that is entered into with, or offered to, a
+person who is not an ECP âon a leveraged or margined basis, or financed by the offeror, the
+counterparty, or a person acting in concert with the offeror or counterparty on a similar basis,â
+with respect to conduct occurring on or after July 16, 2011.
+
+20. Under Section 2(c)(2)(D)(iii) of the Act, 7 U.S.C. Â§ 2(c)(2)(D)(iii), such retail
+commodity transactions are subject to Sections 4(a), 4(b), and 4b of the CEA, 7 U.S.C. Â§Â§ 6(a),
+6(b), and 6b âas ifâ they are a contract of sale of a commodity for future delivery. As a result,
+these transactions must be executed on an exchange and are subject to anti-fraud provisions as
+set forth in Sections 4(a) and 4b of the CEA, 7 U.S.C. Â§Â§ 6(a), 6b.
+
+21. The CEA defines an ECP, in relevant part, as an individual who has funds
+invested on a discretionary basis, the aggregate of which exceeds $10 million, or $5 million if the
+individual enters into the transaction to manage the risk associated with an asset owned or
+liability incurred, or reasonably likely to be owned or incurred, by the individual. Section
+1a(18)(xi) of the CEA, 7 U.S.C. Â§ 1a (18)(xi).
+
+22. Section 4(a) of the CEA, 7 U.S.C. Â§ 6(a), in relevant part, makes it unlawful for
+any person to offer to enter into, enter into, execute, confirm the execution of, or conduct any
+office or business anywhere in the United States for the purpose of soliciting, accepting any
+order for, or otherwise dealing in any transaction in, or in connection with, a contract for the
+purchase or sale of a commodity for future delivery unless the transaction is conducted on or
+subject to the rules of a board of trade that has been designated or registered by the Commission
+as a contract market.
+
+23. Section 4b(a)(2) of the CEA, 7 U.S.C. Â§ 6(a)(2), in relevant part, makes it
+
+unlawful for any person, in or in connection with any order to make, or the making of, any
+Case O15-cv-61960-BB Documenti Entered on FLSD Docket 09/16/2015 Page 8 of 28
+
+contract of sale of any commodity for future delivery that is made, or to be made, for, on behalf
+of, or with any other person, other than on or subject to the rules of a designated contract market:
+(A) to cheat or defraud or attempt to cheat or defraud the other person; or (C) willfully to deceive
+or attempt to deceive the other person by any means whatsoever in regard to any order or
+contract or the disposition or execution of any order or contract, or in regard to any act of agency
+performed, with respect to any order or contact for, on behalf of, or with the other person.
+
+24. Effective August 15, 2011, Section 753 of the Dodd Frank Act amended Section
+6(c) of the CEA, 7 U.S.C. Â§ 9(1), and broadened the CFTCâs anti-fraud jurisdiction as.set out in
+Regulation 180.1, 17 C.F.R. Â§ 180.1.
+
+25. Section 6(c)(1) of the CEA, in relevant part, makes it unlawful for any person,
+directly or indirectly, to use or employ, or attempt to use or employ, in connection with any
+swap, or a contract of sale of any commodity in interstate commerce, or for future delivery on or
+subject to the rules of any registered entity, any manipulative or deceptive device or contrivance,
+in contravention of Regulation 180.1.
+
+26. Effective August 15, 2011, Regulation 180.1, in relevant part, makes it unlawful
+for any person, directly or indirectly, in connection with any swap, or contract of sale of any
+commodity in interstate commerce, or contract for future delivery on or subject to the rules of
+any registered entity, to intentionally or recklessly: (1) use or employ, or attempt to use or
+employ, any manipulative device, scheme, or artifice to defraud; (2) make, or attempt to make,
+any untrue or misleading statement of a material fact or to omit to state a material fact necessary
+in order to make the statements made not untrue or misleading; or (3) engage, or attempt to
+engage, in any act, practice, or course of business, which operates or would operate as a fraud or
+
+deceit upon any person.
+Case (15-cyv-61960-BB Documenti fnterecd on FLSO Docket 9/16/2015 Page 9 of 25
+
+VI. DEFENDANTâS UNLAWFUL SCHEME
+A. Mintcoâs Business Activities
+1. Basic Nature of Mintcoâs Business
+
+27. Mintco holds itself out as a market maker and dealer in precious metals. The
+âWelcome to Mintcoâ section of Mintcoâs website, www.mintco.com, states, in relevant part,
+â[a]t Mintco we specialize in helping investors diversify a percentage of their portfolio into hard
+assets such as gold, silver, and platinum, investment strategies intended to maximize returns
+through the outright purchase of or through financed programs.â
+
+28. | Mintco markets stored precious metals to retail customers on both a fully-paid
+basis, in which customers pay the full purchase price in return for precious metals, as well as on
+a financed basis, in which customers pay a portion of the purchase price and finance the
+remainder through Worth.
+
+29. Mintco, by and through its employees and agents, including Defendants Rubin
+and Zimmerman, solicited customers through telemarketing and Mintcoâs website, to engage in
+leveraged, margined, or financed precious metals transactions as well as fully paid precious
+metal transactions.
+
+30. In financed transactions, customers pay a portion of the purchase price of the
+metal, which Mintco passes on to Worth, and Worth provides financing directly to the customers
+by purportedly loaning them the unpaid portion of the purchase price. The customer is then
+charged interest on that loan.
+
+31. None of the precious metals transactions Mintco markets to retail customers are
+executed on or subject to the rules of a board of trade or exchange that has been designated or
+registered by the Commission as a contract market or derivatives transaction execution facility
+
+for precious metals.
+Case O:15-cv-61960-BB Document? Entered on FLSD Docket O9/16/2015 Page 10 of 28
+
+32. Mintco serves as a soliciting firm (âintroducerâ or âretailerââ) that performs sales
+functions and introduces customers to Worth. Mintco does not generally buy or sell any
+financed or stored metal itself. Instead, it merely accepts customer orders and funds, charges a
+commission on the funds, and forwards the orders and funds to Worth or other providers of
+metal.
+
+33. The retail customers Mintco deals with consist mostly of individual retail
+investors with aggregate discretionary investments of less than $5 million who use their Mintco
+accounts for speculative purposes, rather than because they are involved in a line of business
+related to precious metals, and are not ECPs.
+
+2. Customer Account Agreement
+
+34. Mintco enters into an account agreement with financed retail customers (âthe
+Account Agreementâ) which governs the terms of the relationship and the purchase and sale of
+precious metals by retail customers. The Account Agreement provided to customers is
+approximately fourteen pages long, printed in ten point font or smaller, and includes in excess of
+50 numbered paragraphs. It provides information on the nature of the transactions, the various
+fees associated with the transactions, and information on financing.
+
+35. | The customer does not enter into the Account Agreement with Worth â the
+ultimate supplier of the metal. Instead, customers enter into the Account Agreement with Mintco
+and then Mintco enters into a virtually identical version of the Account Agreement with Worth.
+
+36. As Mintcoâs Chief Executive Officer and President, respectively, and as the two
+people primarily responsible for managing Mintco, Rubin and Zimmerman are responsible for
+the terms and representations contained in the Account Agreement that Mintco executes with
+
+retail customers.
+
+10
+Case :15-cv-61960-8B Document] Entered on FLSD Docket OG/1G/2015 Page Li of 28
+
+3. Order Placement and Transaction Completion
+
+37. Retail customers place orders to buy or sell metals by contacting Mintco. After a
+customer communicates an order to Mintco, Mintco contacts Worth to complete the customerâs
+transaction. Mintco does so by entering the transaction into Worthâs data system or submitting it
+to Worth over the phone or by fax.
+
+38. | The customerâs transaction or contract to buy or purchase metal is complete no
+later than the point at which Worth enters the transaction into its data system to finalize it and
+issues a confirmation.
+
+4. The Structure of Mintcoâs Financed Transactions
+
+39. In acommon financed transaction, customers leverage their transactions at 2.5 to
+1, meaning, for example, that a customer could deposit $10,000 to purchase $25,000 worth of
+metal. In an initial customer transaction, the customer submits his deposit, in this example the
+$10,000, to Mintco.
+
+40. Between July 2011 and January 2013, upon receipt of customer funds, Mintco
+extracted an up-front commission of between zero and fifteen percent of the full value of the
+metal purchased for its role in introducing the customer to Worth. Mintcoâs commission was
+initially taken (when it was set at between zero and fifteen percent of the full value of the metal
+purchased) not as a percentage of a customerâs initial deposit (i.e., $10,000), but instead as a
+percentage of the leveraged purchase amount (i.Â¢., $25,000, assuming 2.5 to 1 leverage), also _
+known as the âtotal metal valueâ. So, when a customer deposited $10,000 as in the example
+above, they were immediately charged an up-front commission by Mintco of $3,750, which
+represented 15% of the total metal purchased ($25,000) or 37.5% of their initial deposit
+
+($10,000).
+
+11
+ase O:15-cv-61960-BB Documenti Enterecl on FLSD Docket O8/16/2015 Page 12 of 28
+
+41. The remaining funds, in this example, $6,250, would then be submitted to Worth
+to purchase the $25,000 of metal for the customerâs account. Crediting these funds against the
+purchase amount, the remaining $18,750 is then considered the customerâs âloan balanceâ at
+Worth.
+
+42. From January 2013 to November 2014, rather than an up-front commission,
+Mintco charged its own premium or âmark upâ of between four and ten percent on the price of
+the metal purchased. This percentage was calculated based on the purchase price of the metal,
+quoted by Worth, and then added into the ultimate purchase price paid by the customer. The
+difference between the customerâs initial down payment and the total value of the metal
+purchased was considered the loan balance.
+
+43. | Newcustomers were also generally charged a $200 account opening fee, which
+was immediately added to the customerâs loan balance.
+
+44. _ The bulk of Worthâs revenues then come from: (1) charging a spread of 3-5%
+above what Worth represented to be the current spot market price of the metal; (2) charging
+customers storage fees for the metals in their accounts; and (3) charging customers interest on
+their âloan balance.â Worth sets its interest charge at 4.5% above the prime rate, which it has
+recently charged at an annual rate of 7.75%. Even though Worth often does not have metal to
+sell to customers at the time of their transaction and only secures the metal at some later time,
+Worth begins charging customers interest immediately following its acceptance of the customer
+transaction.
+
+45. The effect of these interest and storage charges is that the equity (or âmarginâ) in
+a customer account â the value of a customerâs metal less their âloan balanceâ at Worth â is
+
+constantly eroded by additions to the customerâs loan balance.
+
+12
+Case O:15-cv-61960-BB Document i Entered on FLSD Docket O9/16/2015 Page 13 of 28
+
+46. During the period Mintco was charging its up-front commission of up to 15%,
+Worth allowed it to charge and keep an additional spread or mark up of up to 1% of the price of
+the metal purchased beyond that already charged by Worth. With respect to financed customers,
+Worth also allows Mintco to charge up to an additional 2% interest beyond that charged by
+Worth, bringing potential customer interest charges to as much as 9.75%.
+
+47. These various spread and interest charges combine to quickly reduce the equity in
+customer accounts, and to place the viability of the customer account at risk. When the equity in
+a customer account is reduced to 10% (of the total value of the metal), customers are deemed
+subject to an equity call, and must send in additional funds to supplement the equity in the
+account. If they are unable to do so, Worth liquidates the customer account at a loss, which is
+done by the end of the day on which the account fell below the 10% equity threshold, without the
+customerâs permission. With certain very limited exceptions, Worth does not provide retail
+customers with any formal notice prior to liquidating their account.
+
+48. The various charges imposed on customer accounts also mean that the price of
+precious metals must appreciate tremendously just for the customer to break even on their
+investment. The price that precious metals must appreciate to in order to cover costs over a
+certain period is termed the âbreak-even point.â For instance, assuming a customer buys
+leveraged precious metal at a leverage percentage of 2.5 to 1 and is assessed an up-front Mintco
+commission of 15%, total Worth and Mintco interest charges of 9.75%, a total Worth and Mintco
+purchase price spread of 4%, and the typically assessed monthly storage fees of $.25 per ounce, a
+customer purchasing metals at a market price of $1600 per ounce would break even on their
+investment only if the metals reached a market price of $2039.58 by the end of the first year of
+
+the investment, an increase of 23.5%.
+
+13
+ 
+
+49. Thus, due to the high fees, finance charges and commissions and changes in
+metals prices, the retail customers rarely broke even on their investments, let alone earned a
+profit, because much of their principal investment was consumed by costs. During the period
+following the effective date of Dodd-Frank, over eighty percent of retail customers who
+purchased metal in storage through Mintco failed to earn enough on their investments to cover
+the costs associated with their purchases and earn a profit.
+
+50. The mechanics of the fully-paid stored transactions Mintco marketed work
+similarly to the financed transactions except that customers do not use financing to make the
+initial metals purchase and therefore are assessed the commission, account opening fee, and
+storage costs but not the same interest costs associated with leveraged purchases.
+
+B. Mintcoâs Failure to Make Actual Delivery to Retail Financed Precious Metal
+Customers.
+
+51. | Worth maintained physical metals inventories at two depositories, where it held
+its unallocated metals in a master account in Worthâs name. Worth is the signatory on this
+account.
+
+52. | When a financed retail customer enters into a transaction to purchase metal
+through Mintco, upon notice from Mintco, Worth sends instructions to the depository to
+âallocateâ the appropriate type and quantity of metal from Worthâs master account to a âsub-
+accountâ in the customerâs name. The allocation is a book entry, where the depository adjusts its
+records to reflect a paper change in the quantity of metals in Worthâs master account and the
+customer sub-account; the physical metal resides in the same vault as when it was unallocated.
+The depository, who is Worthâs agent, maintains possession of the physical metal after the
+
+allocation, not the retail customer.
+
+14
+Case O:15-cv-61960-BB Documentid fntered on FLSOD Docket OW16/2015 Page 15 of 28
+
+53. The retail customer receives a piece of paper from Worth with the words,
+âCommodity Title Transfer Notice,â on it. However, the rights conveyed by the document are
+very limited. The document expressly prohibits the retail customer from granting a security
+interest in, or conveying any right with respect to âtheirâ metal to anyone except Worth after
+they receive this document.
+
+54. | Worth is also the signatory for the depository agreements related to the customer
+sub-accounts. Neither Mintco, nor the retail customer has a contractual relationship with the
+depository. In fact, the Sub-Account and Pool Sub-Account Agreements Worth maintained with
+at least one depository contain identical language disclaiming any relationship with the retail
+customer: â[Worth] acknowledges that [Depository] has no contractual relationship with
+[Worthâs] customers and [Worth] is solely responsible for maintaining its customer
+relationships.â The significance is twofold: (1) the allocation between the master account and
+the customer sub-account is in reality an allocation from one Worth account to another; and
+(2) at the sub-account level, the depository remains an agent of Worth, not Mintco or the retail
+customer.
+
+55. Worth maintains complete control over the customer sub-account, both before and
+after any allocation. Under the agreements with both depositories, only Worth has the ability to
+transfer physical metal to and from a customer sub-account. The customer has no control over
+any metals in the customer sub-account at the depository.
+
+56. Because the retail customer never has possession and control of the metal in this
+process, Mintco has not made actual delivery of precious metals to the retail customers.
+
+57. During the Relevant Period, none of the leveraged, margined, or financed
+
+precious metals transactions entered into with, or offered to, the retail customers by Defendants
+
+15
+Case O:15-cv-61960-BB Bocumenti Enterecion FLSD Docket OG/16/2015 Page 16 af 28
+
+were conducted on or subject to the rules of any board of trade, exchange, contract market, or
+derivatives transaction execution facility.
+
+58. During the Relevant Period, Defendants Rubin and Zimmerman either personally
+solicited customers for Mintco, offered or accepted Mintco customer orders in connection with
+leveraged, margined, or financed precious metals transactions, or committed the acts described
+herein within the course and scope of their employment at, or agency with Mintco.
+
+59. During the Relevant Period, Defendants Rubin and Zimmerman were the
+principals of Mintco and the signatories on Mintco bank accounts. Rubin and Zimmerman each
+had authority to hire and fire Mintco employees and sign contracts on behalf of Mintco. They
+participated in creating Mintcoâs marketing strategy, and placed and confirmed customer orders
+for precious metals.
+
+C. Mintcoâs Fraudulent or Deceptive Misrepresentations and Omissions to Customers
+
+60. During the Relevant Period, Defendants fraudulently and deceptively
+misrepresented or omitted to disclose material facts to potential and existing retail customers
+which included: misrepresenting the nature of the relationship between Mintco and retail
+customers in financed and fully-paid stored metal transactions, misrepresenting the break-even
+price of investments in precious metal to customers in financed transactions, and omitting to
+inform customers in financed and fully-paid stored precious metal transactions that in excess of
+80% of the retail customers who purchased metal in storage, failed to cover their costs and earn a
+profit on their investments.
+
+1. Misrepresentation of Relationship Between Mintco and the Retail Customers
+in Financed and Fully-Paid Transactions for Stored Precious Metal
+
+61. | Defendants made material oral and written fraudulent or deceptive
+
+misrepresentations to potential and existing customers that Mintco would act in their best interest
+
+16
+Case (15-cv-61960-BB Document i Entered on FLSD Docket OO/T8/2018 Page 17 af 38
+
+and as customersâ agent or representative. The standard solicitation materials Mintco sent to
+customers included an introductory letter from a Mintco Account Executive which prominently
+featured the statement, âMintco, LLC is an independent Introducing Precious Metals Broker that
+will act as your representative in the area of purchasing those metals.â (emphasis added) This
+statement was also part of Mintco telephone scripts distributed to Mintco brokers, intended to be
+communicated verbally to potential customers during solicitation calls.
+
+62. | Mintcoâs September 2011 solicitation scripts include the fraudulent statement
+âYour Account Executive will work diligently with you to establish the most beneficial Precious
+Metals portfolio for your account.â
+
+63. During the Summer of 2012, Mintco mailed a document to customers titled
+âMintco Palladium Report Summer of 2012,â in which Mintco made the following fraudulent
+and deceptive misrepresentation regarding the formation of an agency relationship with its
+customers, stating:
+
+Your down payment is approximately 27% of the total metal value and Mintco
+
+LLC will act on your behalf as your agent and arrange for financing and storage
+
+of your metal through our counterparty. (Emphasis added)
+
+64. In 2013, Mintco mailed a second document to customers titled âMintco Palladium
+Report 2013,â in which Mintco again made a similarly fraudulent and deceptive
+misrepresentation regarding the formation of an agency relationship with its customers, stating:
+
+Your down payment is approximately 25% of the total metal value and Mintco,
+
+LLC will act on your behalf as your agent and arrange for financing and storage
+
+of your metal through our counterparty. (emphasis added)
+
+65. | _Mintcoâs website, on an introductory page titled ââWelcome to Mintcoâ, further
+
+stated, â[w]e always place the best interests of our clients above our own personal and business
+
+interests.â
+
+17
+Case :15-cv-61960-8B Document] Entered on FLSD Docket 09/16/2015 Page 18 of 28
+
+66. These misrepresentations by Mintco, intended to create the impression that
+Mintco would be acting in customersâ best interest or as their agent, were false and deceptive,
+and Defendants knew that these representations were false as they directly conflicted with the
+description of the customer relationship as disclosed in small print in Mintcoâs account
+agreement. Paragraph 4.2 of the Account Agreement, titled Role of Mintco, states that â[nJeither
+Mintco nor any of its employees acts as an agent or fiduciary for any of retail customers.â
+Paragraph 11 of the Account Agreement, titled Customer Acknowledgement of Risks, further
+provides, inter alia, that:
+
+Mintco and its employees and suppliers are not agents for Customer and owe no fiduciary
+
+duty to Customer.
+he
+
+Mintco and its representatives earn income based upon the volume and type of
+
+transactions with customers. In the process of selling precious metals to, and buying
+
+precious metals from, you, you should assume that the interests of Mintco and its
+
+representatives conflict with your interests.
+
+67. | These misrepresentations were material since a reasonable customer would want
+to know whether Mintco was acting in customersâ interest when Mintco was making investment
+
+recommendations.
+
+2. Misrepresentation of Break-Even Point on Investments in Financed
+Transactions for Stored Metal
+
+68. Beginning in October 2013, Defendants also made material fraudulent and
+deceptive oral misrepresentations to customers at the time financed metals were purchased
+regarding the break-even point â i.e., how much the investment in precious metal would have to
+appreciate to cover costs and earn a profit â by informing customers during tape-recorded
+telephone conversations that the break-even price was âapproximately the same as the purchase
+
+price.â
+
+18
+Case O:15-cv-61960-BB Document i Entered on FLSD Docket O9/16/2015 Page 19 of 28
+
+69. These statements were false, and Mintco sales representatives knew them to be
+false or acted in reckless disregard of the truth because, in reality, the customersâ break-even
+prices were materially higher than the purchase prices in financed transactions because of the
+significant costs and fees associated with the transactions. In fact, few if any customersâ
+investments were able to cover their costs and earn a profit.
+
+70. This misrepresentation was clearly material in that a reasonable customer would
+certainly want to know that the break-even price on his or her investment was materially
+different from and significantly higher than the purchase price.
+
+3. Failure to Disclose that Over Eighty Percent of Retail Customers Who
+
+Purchased Financed and Fully Paid Precious Metal in Storage Failed to
+Cover the Costs of their Investment and Lost Money
+
+71. Defendants also recklessly omitted to disclose to potential customers that over
+80% of the retail customersâ investments in financed and fully paid stored precious metal failed
+to appreciate enough during the relevant period to cover the costs associated with the investment
+and earn a profit.
+
+72. This failure to disclose prior customersâ losses constituted a fraudulent omission
+in light of other statements made by Mintco regarding the financial benefits of investing in
+precious metal through Mintco.
+
+73. For instance, Mintcoâs website, on an introductory page titled âWelcome to
+Mintcoâ, stated,â[w]e work hard to source and serve as many people as we can and put them on
+the road to prosperity.â It also stated, â[a]t Mintco, we specialize in helping investors diversify a
+percentage of their portfolio into hard assets such as gold, silver, and platinum, investment
+strategies intended to maximize returns through the outright purchase of or through financed
+
+programs.â (Emphasis added).
+
+19
+Mase O:15-cv-61960-BB Docurnent 1 Entered on FLSD Docket OO/16/2015 Page 20 of 28
+
+74. Furthermore, Mintcoâs September 2011 solicitation scripts used during customer
+calls informed customers, â[y]our Account Executive will work diligently with you to establish
+the most beneficial Precious Metals portfolio for your account.â (Emphasis added).
+
+75. Additionally, Mintco stated in its introductory letter to customers that, â[b]ased on
+your investment objectives and sophistication, your Mintco Account Executive will assist you in
+determining the best way to handle your precious metals investment needs.â
+
+76. Past performance of an investment program is material to a customerâs decision to
+invest. A reasonable investor would want to know that over 80% of the retail customersâ
+investments in stored precious metal failed to appreciate enough during the relevant period to
+cover the costs associated with the investment and earn a profit.
+
+Vii. VIOLATIONS OF THE COMMODITY EXCHANGE ACT AND REGULATIONS
+
+COUNT I - Violation of Section 4(a) of the Act: Unlawful Off-Exchange Transactions
+with Respect to Financed Transactions
+
+77. Paragraphs 1 through 77 are realleged and incorporated herein by reference.
+
+78. Between July 16, 2011, and the present, Mintco, Rubin, and Zimmerman have
+offered to enter into, entered into, executed, confirmed, or conducted an office or business in the
+United States for the purpose of soliciting, accepting any order for, or otherwise dealing in
+agreements, contracts, or transactions in commodities (the âretail commodity transactionsâ) on a
+leveraged or margined basis, or financed by the offeror, the counterparty, or a person acting in
+concert with the offeror or counterparty on a similar basis, with persons who are not eligible
+contract participants or eligible commercial entities as defined by the CEA, and who are not
+
+engaged in a line of business related to precious metals.
+
+20
+Case O:15-cv-61950-BB Documenti Entered on PLSD Docket OO/16/2015 Page ai of 28
+
+79. Pursuant to Section 2(c)(2)(D)(iii) of the CEA, 7US.C. Â§ 2(c)(2)(D) (iii), the
+retail commodity transactions are subject to Section 4(a) of the CEA, 7 U.S.C. Â§ 6(a), as if they
+are contracts of sale of a commodity for future delivery.
+
+80. âThe retail commodity transactions have not been made or conducted on, or
+subject to, the rules of any board of trade, exchange, or contract market, were not conducted with
+non-ECPs, and were not delivered within 28 days.
+
+81. Mintco has therefore violated Section 4(a) of the CEA, 7 U.S.C. Â§ 6(a), by
+offering to enter into, entering into, executing, confirming the execution of, or conducting any
+office or business anywhere in the United States for the purpose of soliciting, accepting any
+order, or otherwise dealing in any transaction in, or in connection with retail commodity
+transactions, other than on or subject to the rules of a board of trade that has been designated or
+registered by the Commission as a contract market.
+
+82. The acts, omissions, and failures of Rubin, Zimmerman, and other officials,
+agents, or persons acting for Mintco described in this Complaint have occurred within the scope
+of their employment, agency, or office with Mintco, and are deemed to be the acts, omissions,
+and failures of Mintco by operation of Section 2(a)(1)(B) of the CEA, 7 U.S.C. Â§ 2(a)(1)(B) and
+Regulation 1.2, 17 C.F.R. Â§ 1.2.
+
+83. Rubin and Zimmerman have controlled Mintco and have not acted in good faith
+or have knowingly induced, directly or indirectly, the acts constituting Mintcoâs violations
+alleged in this count. As a result, pursuant to Section 13(b) of the CEA, 7 U.S.C. Â§ 13c(b),
+Rubin and Zimmerman are, in addition to their direct liability, also liable for Mintcoâs violations
+
+of Section 4(a) of the CEA, 7 U.S.C. Â§6(a), as controlling persons.
+
+21
+Case O:15-cv-61960-BB Document? Entered on FLSD Docket O9/16/2015 Page 22 of 28
+
+84. _ Each act of offering to enter into, entering into, executing, confirming the
+execution of, or conducting any office or business anywhere in the United States for the purpose
+of soliciting, accepting any order for, or otherwise dealing in any transaction in, or in connection
+with, retail commodity transactions, other than on or subject to the rules of a board of trade that
+has been designated or registered by the Commission as a contract market, is alleged as a
+separate and distinct violation of Section 4(a) of the Act, 7 U.S.C. Â§ 6(a).
+
+COUNT II â Violation of Section 4d of the Act:
+Failure to Register with Respect to Financed Transactions
+
+85. Paragraphs 1 through 77 are realleged and incorporated herein by reference.
+
+86. | The Dodd-Frank Act amended the definition of âfutures commission merchantâ in
+the CEA to include any individual, association, partnership, corporation, or trust that, among
+other things, is engaged in accepting orders for any agreement, contract, or transaction described
+in Section 2(c)(2)(D)(i) of the CEA, 7 U.S.C. Â§ 2(c)(2)(D)Q).
+
+87. Between July 16, 2011 and the present, Mintco, through its agents and employees,
+accepted orders for agreements, contracts, or transactions described in Section 2(c)(2)(D)(i) of
+the CEA, 7 U.S.C. Â§ 2(c)(2)(D)(i).
+
+88. Section 4d of the CEA, 7 U.S.C. Â§ 6d, provides that it shall be unlawful for any
+person to be a futures commission merchant unless such person shall have registered with the
+Commission as a futures commission merchant.
+
+89. _ During the relevant period, Mintco has failed to register with the Commission as a
+futures commission merchant and has therefore violated Section 4d of the CEA, 7 U.S.C. Â§ 6d.
+
+90. | Rubin and Zimmerman have controlled Mintco and have not acted in good faith
+or have knowingly induced the acts constituting the violations of Mintco described in this Count.
+
+Pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13(b), Rubin and Zimmerman are therefore
+
+22
+Case O:15-cv-61950-BB Documenti Entered on PLSD Docket OO/16/2015 Page 23 of 28
+
+liable as controlling persons for Mintcoâs violations of Section 4d(a)(1) of the Act, 7 U.S.C.
+
+Â§ 6d.
+
+COUNT Ill - Violations of Sections 4b(a)(2)(A), (C) of the Act:
+
+Fraud by Material Misrepresentations and Omissions with Respect to Financed
+Transactions
+
+91. Paragraphs | through 77 are realleged and incorporated herein by reference.
+
+92. Sections 4b(a)(2)(A),(C) of the Act, 7 U.S.C. Â§Â§ 6b(a)(2)(A),(C) (2012), makes it
+unlawful for any person, in or in connection with any order to make, or the making of, any contract of
+sale of any commodity in interstate commerce or for future delivery that is made, or to be made, on or
+subject to the rules of a designated contract market, for or on behalf of any other person: (A) to cheat
+or defraud or attempt to cheat or defraud such other person; or (C) willfully to deceive or attempt to
+deceive such other person by any means whatsoever in regard to any order or contract or the
+disposition or execution of any order or contract, or in regard to any act of agency performed, with
+respect to any order or contract for such other person.
+
+93. | By making material misrepresentations and omissions to customers in connection with
+the purchase or sale of financed transactions in precious metal, Defendants defrauded, and deceived
+them in violation of Section 4b(a)(2)(A),(C).
+
+94. Each fraudulent or deceptive misrepresentation or omission made by Defendants
+constitutes a separate and distinct violation of Section 4b(a)(2)(A),(C) of the Act.
+
+95. Rubin and Zimmerman have controlled Mintco and have not acted in good faith or
+have knowingly induced the acts constituting the violations of Mintco described in this Count.
+Pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13(b), Rubin and Zimmerman are therefore liable as
+controlling persons for Mintcoâs violations of Sections 4b(a)(2)(A), (C) of the Act, 7 U.S.C. Â§Â§
+
+6b(a)(2)(A), (C).
+
+23
+Case O15-cv-61960-BB Document i Entered on FLSD Docket 09/16/2015 Page 24 of 28
+
+96. Furthermore, Mintco is liable pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C.
+Â§ 2(a)(1)(B) (2012), and Commission Regulation 1.2, 17 C.F.R. Â§ 1.2 (2014), as principal for the
+violative acts and omissions of Mintcoâs employees and agents, including Rubin and
+
+Zimmerman.
+
+COUNT IV â Violations of Section 6(c)({1) of the Act and Regulation 180.1(a):
+
+Fraud by Deceptive Device or Contrivance with Respect to Fully-Paid Transactions in
+Stored Metal
+
+97. Paragraphs | through 77 are realleged and incorporated herein by reference.
+
+98. Section 6(c)(1) of the Act, 7 U.S.C. Â§Â§ 9(1) (2012) provides, in relevant part, that â[i]t
+shall be unlawful for any person, directly or indirectly, to use or employ or attempt to use or employ,
+in connection with any swap, or a contract of sale of any commodity in interstate commerce, or for
+future delivery on or subject to the rules of any registered entity, any manipulative or deceptive device
+or contrivance, in contravention of such rules and regulations as the Commission shall promulgate.â
+
+99. __ Regulation 180.1(a), 17 C.F.R. Â§ 180.1(a) (2014) provides in relevant part, that âi]t
+shall be unlawful for any person, directly or indirectly, in connection with any swap, or contract of
+sale of any commodity in interstate commerce, or contract for future delivery on or subject to the rules
+of any registered entity, to intentionally or recklessly: Use or employ, or attempt to use or employ,
+any manipulative device, scheme, or artifice to defraud; Make, or attempt to make, any untrue or
+misleading statement of a material fact or to omit to state a material fact necessary in order to make
+the statements made not untrue or misleading; Engage, or attempt to engage, in any act, practice, or
+course of business, which operates or would operate as a fraud or deceit upon any person.â
+
+100. From July 2011 through the present date, Defendants used or employed deceptive
+devices or contrivances, in connection with a contract of sale of a commodity in interstate commerce,
+
+including, but not limited to:
+
+24
+ase O:15-cv-61960-BB Document. Enterecl on FLSD Docket O8/16/2015 Page 25 of 28
+
+(a) Misrepresenting the nature of the relationship between Mintco and customers as one in
+which Mintco would be acting in customersâ best interest as their agent or
+representative; and
+
+(b) âFailing to disclose to customers that over eighty percent of customersâ investments in
+stored precious metal failed to appreciate sufficiently to cover the associated costs of
+the investment and eam a profit.
+
+101. Defendant used the mails or other instrumentalities of interstate commerce by
+
+transmitting orders for retail commodity transactions over wires in interstate commerce.
+
+102. By this conduct, Defendants violated Section 6(c)(1) of the Act, 7 U.S.C. Â§Â§ 9(1), and
+Regulation 180.1(a).
+
+103. Defendants directly engaged in these acts knowingly or with reckless disregard for the
+truth.
+
+104. Each deceptive device or contrivance used or employed including, but not limited to
+those specifically alleged herein, is alleged as a separate and distinct violation of Section 6(c)(1) of the
+Act, 7 U.S.C. Â§Â§ 9(1) (2012), and Regulation 180.1(a) (2014).
+
+105. Rubin and Zimmerman have controlled Mintco and have not acted in good faith or
+have knowingly induced the acts constituting the violations of Mintco described in this Count.
+Pursuant to Section 13(b) of the Act, 7 U.S.C. Â§ 13(b), Rubin and Zimmerman are therefore liable as
+controlling persons for Mintcoâs violations of Section 6(c)(1) of the Act, 7 U.S.C. Â§Â§ 9(1), and
+Regulation 180.1(a).
+
+106. Furthermore, Mintco is liable pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.C.
+Â§ 2(a)(1)(B) (2012), and Commission Regulation 1.2, 17 C.F.R. Â§ 1.2 (2014), as principal for the
+
+violative acts and omissions of Mintcoâs employees and agents, including Rubin and
+
+Zimmerman.
+
+25
+Case O15-cv-61960-BB Document i Entered on FLSD Docket 09/16/2015 Page 26 of 28
+
+VII. RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that this Court, as authorized by Section
+
+6c of the Act, 7 U.S.C. Â§ 13a-1 (2006), and pursuant to the Courtâs own equitable powers, enter:
+
+a) Anorder finding that Richard Q. Zimmerman, Stuart Rubin, and Mintco LLC violated
+
+Sections 4(a), 4d, 4b(a)(2)(A),(C), and 6(c)(1) of the Act, 7 U.S.C. Â§Â§ 6(a), 6d, 6b(a)(2)(A),(C), 9(1)
+
+(2012), and Regulation 180.1(a), 17 C.F.R. Â§ 180.1(a) (2014),
+
+b) Anorder of permanent injunction prohibiting Defendants and any of their agents, servants,
+
+employees, assigns, attorneys, and persons in active concert or participation with Defendants, including
+
+any successor thereof, from, directly or indirectly:
+
+(i)
+
+(ii)
+
+(iii)
+
+(iv)
+(v)
+
+(vi)
+
+engaging in conduct in violation of Sections 4(a), 4d, 4b(a)(2)(A),(C), and 6(c)(1) of
+the Act, 7 U.S.C. Â§Â§ 6(a), 6d, 6b(a)(2)(A),(C), 9(1) (2012), and Regulation 180.1(a),
+17 CFR. Â§ 180.1 (2014);
+
+trading on or subject to the rules of any registered entity (as that term is defined in
+Section 1a of the Act, 7 U.S.C. Â§ la (2012));
+
+entering into any transactions involving âcommodity interestsâ (as that term is
+defined in Section 1.3(yy) of the Act), 7 U.S.C. Â§ 1.3(yy) (2012)), for his own
+personal account or for any account in which he has a direct or indirect interest;
+having any commodity interests traded on his behalf;
+
+controlling or directing the trading for or on behalf of any other person or entity,
+whether by power of attorney or otherwise, in any account involving commodity
+interests;
+
+soliciting, receiving, or accepting any funds from any person for the purpose of
+
+purchasing or selling any commodity interests;
+
+26
+Case O:15-cv-61960-BB Document i Entered on FLSD Docket O9/16/2015 Page 27 of 28
+
+(vii) applying for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring such
+registration or exemption from registration with the Commission, except as
+provided for in Regulation 4.14(a)(9), 17 C.F.R. Â§ 4.14(a)(9) (2014);
+
+(vill) acting as a principal (as that term is defined in Regulation 3.1(a), 17 C.F.R.
+Â§ 3.1(a) (2014)), agent or any other officer or employee of any person
+registered, exempted from registration or required to be registered with the
+Commission except as provided for in Regulation 4.14(a)(9), 17 C.F.R.
+
+Â§ 4.14(a)(9) (2014);
+
+c) An order directing Defendants, as well as any successors to Defendants, to pay
+restitution, pursuant to such procedure as the Court may order, to Defendantsâ victims;
+
+d) An order directing Defendants to pay a civil monetary penalty for each violation
+of the Act described herein, plus post-judgment interest, in the amount of the higher of: $140,000
+per violation of the Act, or triple the monetary gain to Defendants for each violation of the Act
+and Regulations;
+
+e) An order requiring Defendants to pay costs and fees as permitted by 28 U.S.C.
+Â§Â§ 1920 and 2412(a)(2) (2006); and
+
+f) Such other and further relief as the Court deems proper.
+
+Dated: September 16, 2015 Respectfully submitted,
+/s/Jon J. Kramer
+
+ 
+
+Jon J. Kramer
+Senior Trial Attorney
+Illinois ARDC # No. 6272560
+
+27
+Case O:15-cv-61960-BB Document i Entered on FLSD Docket O9/16/2015 Page 28 of 28
+
+Susan B. Padove
+Senior Trial Attorney
+Illinois ARDC No. #0341649
+
+David Terrell
+Chief Trial Attorney
+Illinois ARDC No. # 6196293
+
+Scott R. Williamson
+Deputy Regional Counsel
+Illinois ARDC No. # 06191293
+
+Rosemary Hollinger
+Regional Counsel
+Illinois ARDC No. # 3123647
+
+Attorneys for Plaintiff
+Commodity Futures Trading Commission
+
+525 West Monroe Street, Suite 1100
+Chicago, Illinois 60661
+
+(312) 596-0563 (Kramer)
+
+(312) 596-0544 (Padove)
+
+(312) 596-0546 (Terrell)
+
+(312) 596-0560 (Williamson)
+
+(312) 596-0520 (Hollinger)
+
+(312) 596-0700 (office number)
+(312) 596-0714 (facsimile)
+
+28

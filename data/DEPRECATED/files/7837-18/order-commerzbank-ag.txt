@@ -1,0 +1,943 @@
+ 
+
+UNITED STATES OF AMERICA S
+Before the Oe
+COMMODITY FUTURES TRADING COMMISSION Office of Proceedings
+Proceedings Clerk
+
+as am, Nov 08, 2018}
+
+ 
+
+ 
+
+ 
+
+ 
+
+In the Matter of:
+
+Commerzbank AG,
+CFTC Docket No. 19-03
+Respondent.
+
+Nee Ne ee ee ee “ee ee Nee “Nee”
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTION 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT,
+MAKING FINDINGS, AND IMPOSING REMEDIAL sanctions
+
+I. INTRODUCTION
+
+The Commodity Futures Trading Commission (“Commission”) has reason to believe that
+from December 31, 2012 until at least 2018 (the “Relevant Period”), Commerzbank AG
+(“Commerzbank,” “Respondent,” or the “Bank’’) violated Sections 2(a)(13)(G), 2(h)(8),
+4s(f)1 (A), 4s(h)(1)(B), and 6(c)(2) of the Commodity Exchange Act (the “Act’), 7 U.S.C. 8§
+2(a)(13)(G), 2(h)(8), 6s(f)(1)(A), 6s(h)(1)(B), 9(2) (2012), and Regulations 20.4, 20.7, 23.402(b),
+23.602, 37.9, 43.3, and 45.3, 17 C.F.R. §§ 20.4, 20.7, 23.402(b), 23.602, 37.9, 43.3, 45.3 (2018)
+of the Commission’s Regulations (“Regulations”) promulgated thereunder. Therefore, the
+Commission deems it appropriate and in the public interest that public administrative
+proceedings be, and hereby are, instituted to determine whether Respondent engaged in the
+violations set forth herein and to determine whether any order should be issued imposing
+remedial sanctions.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (“Offer”), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Section 6(c) and 6(d) of the Act,
+Making Findings, and Imposing Remedial sanctions (“Order’’) and acknowledges service of this
+Order.
+
+ 
+
+' Respondent consents to the use of the findings of fact and conclusions of law in this Order in this proceeding and
+in any other proceeding brought by the Commission or to which the Commission is a party or claimant, and agrees
+that they shall be taken as true and correct and given preclusive effect therein, without further proof. Respondent
+does not consent, however, to the use of this Order, or the findings or conclusions herein, as the sole basis for any
+Il. FINDINGS
+
+The Commission finds the following:
+A. SUMMARY
+
+From December 31, 2012, when Commerzbank provisionally registered with the
+Commission as a swap dealer (“SD”’), until at least 2018, Commerzbank management routinely
+failed to supervise its SD’s activities, in violations of Section 4s(h)(1)(B) of the Act, 7 U.S.C.
+
+§ 6s(h)(1)(B) (2012), and Regulation 23.602, 17 C.F.R. § 23.602 (2018). Commerzbank’s
+failure to supervise the operations of its SD resulted in thousands of violations of the Act. Even
+after Commerzbank management became aware of the Commission’s investigation of its SD, it
+did not effectively address many of the SD’s compliance issues. In June 2018, a Commerzbank
+internal audit report concluded that the Bank’s processes for swap reporting were still “not
+satisfactory” due to “a number of deficiencies across the risk and control management
+framework.”
+
+During the Relevant Period, Commerzbank was not transparent with the Commission
+regarding the compliance inadequacies at the SD. In 2015 and 2016, Commerzbank filed
+misleading reports with the Commission that omitted material facts regarding the state of
+compliance at the SD. The misleading statements and material omissions in these reports
+violated Section 6(c)(2) of the Act, 7 U.S.C. § 9(2) (2012).
+
+As a result of Commerzbank management’s failure to adequately supervise the SD,
+during the Relevant Period, Commerzbank violated numerous provisions of the Act and
+accompanying Regulations. These violations included failure to implement policies reasonably
+designed to determine whether swap transactions with certain non-U.S. swap counterparties were
+subject to the requirements of the Dodd-Frank Wall Street Reform and Consumer Protection
+Act of 2010 (“Dodd-Frank’’), in violations of Regulation 23.402(b), 17 C.F.R. § 23.402(b) (2018);
+failure to report swap transactions to swap data repositories (“SDRs’’) in violations of Section
+2(a)(13)(G) of the Act, 7 U.S.C. § 2(a)(13)(G) (2012), Regulations 43.3 and 45.3, 17 C.F.R.
+
+§§ 43.3. 45.3 (2018); failure to submit Large Trader Reports to the Commission consistent with
+the requirements of Section 4s(f) of the Act and Regulations 20.4 and 20.7, 17 C.F.R. §§ 20.4
+and 20.7 (2018); and failure to execute swaps on swap execution facilities (“SEFs’’) in violations
+of Section 2(h)(8) of the Act, 7 U.S.C. § 2(h)(8) (2012), and Regulation 37.9, 17 C.F.R. § 37.9
+(2018).
+
+B. RESPONDENT
+
+Commerzbank AG is headquartered in Germany and has been provisionally registered
+with the Commission as an SD since December 31, 2012.
+
+ 
+
+other proceeding brought by the Commission or to which the Commission is a party, other than a proceeding in
+bankruptcy or receivership; or a proceeding to enforce the terms of this Order. Respondent does not consent to the
+use of the Offer or this Order, or the findings or conclusions in this Order, by any other party in any other
+proceeding.
+C. FACTS
+1. Commerzbank’s Inadequate Supervision of Its Swap Dealer
+
+During the Relevant Period, Commerzbank management routinely failed to supervise its
+SD’s activities, in violations of Section 4s(h)(1)(B) of the Act, 7 U.S.C. § 6s(h)(1)(B) (2012), and
+Regulation 23.602, 17 C.F.R. § 23.602 (2018). Personnel in Commerzbank’s New York office
+were tasked with overseeing SD compliance, but did not have the authority, the funding, or the
+necessary information to effectively implement bank-wide policies and controls for swap
+transactions.
+
+During much of the Relevant Period, Commerzbank did not adopt any effective bank-
+wide process for identifying all swap transactions that were subject to Dodd-Frank requirements,
+including reporting requirements. See Section 2(a)(13)(G) of the Act, 7 U.S.C. § 2(a)(13)(G)
+(2012), and Regulations 43.3 and 45.3, 17 C.F.R. §§ 43.3, 45.3 (2018); Section 4s(f)(1)(A) of the
+Act, 7 U.S.C. § 6s(MC1)(A), and Regulations 20.4 and 20.7, 17 C.F.R. §§ 20.4 and 20.7 (2018).
+Because Commerzbank had no effective, bank-wide process to determine whether its swap
+transactions with certain non-U.S. persons were subject to Dodd-Frank requirements, it did not
+comply with legal requirements applicable to these transactions. See Section 2(a)(13)(G) and
+Regulations 43.3 and 45.3. Today, nearly two years after Commerzbank became aware that the
+Commission was investigating its SD, the Bank still has not determined whether or not
+transactions with thousands of its non-U.S. swap counterparties are subject to applicable Dodd-
+Frank legal requirements.”
+
+Commerzbank also did not implement effective processes and controls around swap
+reporting. SDs are required to report certain swap transactions to the Commission and also to
+SDRs. During the Relevant Period, Commerzbank management did not establish processes
+sufficient to comply with these reporting requirements. Commerzbank management was on
+notice of the weaknesses in the Bank’s systems for reporting at least by May 2014 when a “Big
+Four” accounting firm that had been retained by Commerzbank as an external compliance
+consultant reported to the Bank the findings of its review of compliance at the SD. This external
+compliance consultant identified, and flagged for Commerzbank management, numerous high-
+risk gaps in the Bank’s policies and processes for SD reporting and recordkeeping. Over the
+next four years, Commerzbank management made efforts to address these deficiencies in the
+Bank’s systems and controls that in many instances were ineffective. Accordingly, in June 2018,
+four years after the external compliance consultant identified numerous weaknesses in
+Commerzbank’s policies and processes for swap reporting, the Commerzbank internal auditor
+concluded that the Bank’s processes for swap reporting were still “not satisfactory” due to “a
+number of deficiencies across the risk and control management framework.” The internal
+
+ 
+
+* In 2013, the Commission issued non-binding guidance setting forth factors that may be relevant to this
+determination. See Interpretive Guidance and Policy Statement Regarding Compliance With Certain Swap
+Regulations, 78 Fed. Reg. 45,292 (July 26, 2013) (“Cross-Border Guidance”). Commerzbank failed to obtain from
+swap counterparties the information that it would have needed to apply these factors or otherwise assess the
+applicability of Dodd-Frank requirements to its swap transactions with non-U.S. persons.
+auditor also found that Commerzbank’s attempts to address other deficiencies in the SD’s
+processes and controls had been inadequate.
+
+During the Relevant Period, Commerzbank also did not effectively ensure that its swap
+transactions were executed on SEFs as required by Dodd-Frank. See Section 2(h)(8) of the Act,
+7 U.S.C. § 2(h)(8) (2012), and Regulation 37.9(a)(2), 17 C.F.R. § 37.9(a)(2) (2018).
+Commerzbank management was on notice of deficiencies in its processes and controls around
+SEF execution by at least May 2014 when its external compliance consultant identified multiple,
+specific gaps in Commerzbank’s processes and controls relating to SEF execution. Over the next
+four years, Commerzbank’s management did not effectively address these issues and, in June
+2018, a Commerzbank internal audit report concluded that Commerzbank’s internal gap analysis
+was insufficient to confirm Dodd-Frank compliance with respect to SEF execution.
+
+2. Commerzbank’s Misleading Statements and Material Omissions in Its
+Chief Compliance Officer Reports to the Commission
+
+a. Misleading Chief Compliance Officer Reports
+
+SDs provisionally registered with the Commission normally submit an annual Chief
+Compliance Officer report (““CCO report’) discussing the SD’s operations and compliance with
+the Act in the preceding calendar year.
+
+Commerzbank submitted a CCO report for the 2014 calendar year on or about April 29,
+2015 (the “2014 Report’) and a CCO report for the 2015 calendar year on or about April 28,
+2016 (the “2015 Report,” together with 2014 Report, the “CCO Reports”).° The CCO Reports
+did not adequately disclose to the Commission the numerous deficiencies in Commerzbank’ s
+systems and controls for SD compliance. Specifically, the CCO Reports, both of which were
+signed by a senior Commerzbank compliance officer, falsely imply that Commerzbank had
+sufficient systems and controls to generally ensure effective compliance with the Act and
+accompanying regulations. This depiction of the state of affairs at the Commerzbank SD was
+generally misleading regarding the overall state of compliance at the Commerzbank SD.
+
+Moreover, not only were the CCO Reports generally misleading, but they also contained
+specific statements of material fact that were misleading, and omitted material facts regarding
+compliance issues that were known internally at Commerzbank before the reports were
+submitted to the Commission (which, in turn, made other statements in the reports misleading).
+Senior Commerzbank compliance personnel knew about these compliance issues, but decided
+not to discuss them in the CCO Reports. Commerzbank’s misleading statements and omissions
+violated Section 6(c)(2) of the Act, 7 U.S.C. § 9(2) (2012).
+
+ 
+
+* These CCO reports to the Commission contained material specific to the swap dealer’s Dodd-Frank compliance
+and were submitted along with an overarching bank-wide report on compliance. The misleading statements and
+material omissions discussed in this order relate to the material that was specific to the swap dealer’s Dodd-Frank
+compliance.
+b. Misleading Statements and Material Omissions Regarding an
+External Compliance Consultant’s Findings of Compliance Gaps at
+the Swap Dealer
+
+In 2014, Commerzbank hired a “Big Four” accounting firm to conduct an eight-week
+long review of Dodd-Frank compliance at the Commerzbank SD. This external compliance
+consultant’s findings were memorialized in May 2014, and circulated contemporaneously within
+Commerzbank.
+
+The external compliance consultant found fifty regulatory gaps and twenty-two business
+gaps in the SD’s policies and processes for Dodd-Frank compliance. The external compliance
+consultant concluded that thirty-six of these gaps were “high impact,” meaning that they had a
+significant impact leading to non-compliance with the applicable Dodd-Frank requirement.
+Another thirty-five gaps were deemed “medium impact,” meaning that they could potentially
+lead to non-compliance with Dodd-Frank.
+
+Some of the specific compliance gaps identified by the external compliance consultant
+included: (1) lack of controls to verify the accuracy of swap data submitted to SDRs; (2) lack of
+system capabilities to perform storage and archiving of swap data per Commission requirements;
+(3) lack of controls to verify data regarding swap counterparties; (4) lack of controls to monitor
+abusive and manipulative trading practices; (5) no controls to prevent traders from executing,
+off-SEF, “Made Available to Trade” (““MAT’’) swaps that are legally required to be executed on-
+SEF; (6) lack of controls to ensure compliance with mandatory clearing requirements; (7) lack of
+understanding and knowledge regarding the end-user exception to mandatory clearing; and (8)
+no supervision and monitoring tools to check whether required material information is disclosed
+to swap counterparties.
+
+In early 2015, Commerzbank drafted its CCO report to the Commission for the 2014
+calendar year. During the drafting process, Commerzbank personnel discussed whether to
+include the external compliance consultant’s findings in the 2014 Report. A Commerzbank
+employee in Frankfurt initially recommended disclosing the external compliance consultant’s
+findings. However, Commerzbank compliance personnel in New York argued against this, and
+their view prevailed.
+
+Accordingly, on or about April 29, 2015, Commerzbank submitted the 2014 Report to the
+Commission. Without mentioning the external compliance consultant, the 2014 Report stated
+that between March and May of 2014 Commerzbank had conducted an eight-week long review
+of SD Dodd-Frank compliance. The 2014 Report did not disclose the external compliance
+consultant’s findings regarding seventy-two compliance gaps at the SD. This omission was
+material and, by submitting the 2014 Report to the Commission without disclosing these
+findings, Commerzbank omitted material facts that were necessary to make the 2014 Report’s
+discussion of the external compliance consultant’s SD review, as well as other statements in the
+2014 Report, not misleading in material respects.
+Additionally, Commerzbank made specific statements in the 2014 Report that were
+misleading in light of the external compliance consultant’s findings. For instance,
+Commerzbank stated that its policies and procedures for Regulation 43.3, 17 C.F.R. § 43.3
+(2018), which govern reporting to SDRs, were “effective,” and specifically asserted that the firm
+had adequate written policies and procedures to ensure that swap transactions and pricing data
+were reported in real-time. The external compliance consultant, however, found in May 2014
+that Commerzbank’s Regulation 43.3 reporting infrastructure lacked controls to verify the
+accuracy of data submitted to SDRs, and also lacked controls to verify that the data was
+submitted within the timeframe required by the Commission. Commerzbank did not include
+these findings in its 2014 Report. These omissions were both material and misleading.
+
+Commerzbank also stated in the 2014 Report that its written policies and procedures for
+compliance with Regulation 45.2, 17 C.F.R. § 45.2 (2018), the Commission rule pertaining to
+SD recordkeeping, were “effective.” The external compliance consultant, however, had reached
+the opposite conclusion, finding that, in total, there were four high-impact gaps and one medium-
+impact gap in Commerzbank’s procedures for Regulation 45.2 compliance. According to the
+external compliance consultant, Commerzbank did not have detailed procedures for record
+retention and retrieval as required by Regulation 45.2. The external compliance consultant also
+found that Commerzbank lacked system capabilities to perform storage and archiving per
+Commission requirements, did not have controls in place to verify data entered when swap
+counterparties were onboarded, and lacked ownership of and controls over the recordkeeping
+process. Commerzbank did not disclose any of these findings in the 2014 Report. These
+omissions were material, and Commerzbank’s statement to the Commission regarding the
+supposed effectiveness of its policies and procedures for Regulation 45.2 compliance was, at
+best, misleading.
+
+Moreover, Commerzbank’s 2014 Report stated that its written policies and procedures
+were effective to prevent evasion of the Commission’s mandatory clearing requirements. The
+external compliance consultant, however, had reached a different conclusion, finding multiple
+gaps in Commerzbank’s controls to ensure mandatory clearing. Commerzbank did not disclose
+these findings in its 2014 Report and, instead, stated inaccurately that its written policies and
+procedures for ensuring compliance with clearing requirements were “effective.” This statement
+was material and misleading.
+
+Accordingly, Commerzbank violated Section 6(c)(2) of the Act.
+
+Cc. Material Omissions Pertaining to Part 20 Large Trader Reporting at
+the Swap Dealer
+
+In March 2015, a Commerzbank computer specialist flagged internally several problems
+with Commerzbank’s Part 20 Large Trader reporting to the Commission. In an email chain that
+was circulated widely throughout Commerzbank, including to senior SD compliance personnel,
+the computer specialist stated that for a period of 327 days from 2013 to 2014, Commerzbank
+had made Part 20 submissions that did not comply with Commission requirements. After self-
+identifying this issue, Commerzbank corrected the reporting problem going forward. The
+computer specialist also flagged two other Part 20 reporting problems. Specifically, he stated
+that on two days, April 23, 2013, and April 1, 2014, Commerzbank did not make any Part 20
+submissions whatsoever, and that, since 2013, Commerzbank had not aggregated its Part 20
+submissions consistent with Commission requirements. The computer specialist further
+observed that he had repeatedly flagged the aggregation problem previously. In March 2015,
+Commerzbank resubmitted 325 days of data to the Commission to correct the first of these
+problems, but it did not even attempt to remediate the other two problems until well after the
+Division began to investigate the Commerzbank SD.
+
+All three of these Part 20 reporting problems (the one that was remediated in 2015 and
+the two that were not remediated until much later) were omitted from the 2014 Report that
+Commerzbank filed with the Commission on April 29, 2015, even though SD compliance
+personnel, including personnel responsible for drafting the 2014 Report, were notified of these
+problems in March 2015.
+
+In early 2016, these Part 20 reporting violations were again brought to the attention of SD
+compliance personnel. A new hire in the SD’s compliance department, who had started working
+at Commerzbank in February 2016 as a Markets Compliance officer, found the computer
+specialist’s email chain in the course of preparing the 2015 Report to the Commission. She
+promptly emailed her supervisor, a senior compliance officer in New York, and recommended in
+April 2016 that the Bank disclose these Part 20 violations to the Commission. Despite this
+recommendation, Commerzbank did not disclose these Part 20 violations in the 2015 Report,
+which was submitted to the Commission on or about April 28, 2016.
+
+The non-disclosure of Part 20 Large Trader reporting violations in the CCO Reports were
+material omissions that had the effect of misleading the Commission. The 2014 Report included
+a discussion of one issue of material non-compliance, involving confirmation reports incorrectly
+submitted to an SDR, and any reader of this Report would have reasonably (but incorrectly)
+concluded that this was Commerzbank’s only instance of material non-compliance during 2014.
+By omitting the Part 20 reporting failures from the 2014 Report, Commerzbank omitted material
+facts that were necessary to make the 2014 Report’s discussion of Commerzbank’s ostensibly
+singular issue of material non-compliance, as well as other statements in the 2014 Report, not
+misleading in material respects.
+
+The 2015 Report likewise did not discuss the Part 20 reporting issues that had previously
+been omitted from the 2014 Report. Commerzbank personnel, including senior compliance
+personnel, knew about these Part 20 violations, and discussed them internally, but decided to
+omit them from the 2015 Report. A senior compliance officer for Commerzbank in New York
+specifically considered whether to include these Part 20 violations in the 2015 Report prior to its
+submission, but decided not to include them—even though the compliance officer primarily
+responsible for drafting the 2015 Report recommended disclosing them. Moreover, the 2015
+Report discussed in some detail two different Part 20 reporting issues that were, if anything, less
+serious than the omitted Part 20 violations. A reader of the CCO Reports could reasonably, but
+incorrectly, conclude that these were Commerzbank’s only Part 20 reporting violations during
+2014 and 2015. By omitting the other Part 20 reporting violations, even though a Commerzbank
+compliance officer had recommended disclosing them, Commerzbank omitted material facts that
+were necessary to make the 2015 Report’s statements regarding Part 20 reporting issues, as well
+as other statements in the 2015 Report, not misleading in material respects. Accordingly,
+Commerzbank violated Section 6(c)(2) of the Act.
+
+3. Commerzbank’s Lack of Any Effective Bank-wide Process to
+Determine Whether Swap Transactions with Certain Non-U.S.
+Counterparties Were Subject to Dodd-Frank Requirements and Its
+Failure to Report Such Transactions to SDRs
+
+Certain swap transactions with non-U.S. entities that are related to U.S. entities must be
+reported to the Commission, reported to SDRs, and, potentially, must also comply with other
+Dodd-Frank requirements. Section 2(a)(13)(G) of the Act, 7 U.S.C. § 2(a)(13)(G) (2012), and
+Regulations 43.3 and 45.3, 17 C.F.R. §§ 43.3, 45.3 (2018); Section 4s((1)(A) of the Act, 7
+U.S.C. § 6s(MC1)(A), and Regulations 20.4 and 20.7, 17 C.F.R. §§ 20.4 and 20.7 (2018); Section
+2(h)(8) of the Act, 7 U.S.C. § 2(h)(8) (2012), and Regulation 37.9(a)(2), 17 C.F.R. § 37.9(a)(2)
+(2018); see also Section 2(4) of the Act, 7 U.S.C. § 2G) (2012).
+
+In order to comply with the legal requirements governing swap transactions of this kind,
+SDs that transact with non-U.S. persons must determine whether their swap counterparties have
+a sufficient connection to U.S. commerce such that Dodd-Frank applies . One way SDs make
+this determination is to ask their counterparties to submit a standard form Cross-Border
+Representation Letter, generated by the International Swaps and Derivatives Association
+(“ISDA,” together with Cross-Border Representation Letter, “ISDA Letter’), which summarizes
+the relevant Commission guidance and asks the counterparty to represent whether or not it has
+certain characteristics that are relevant to assessing the applicability of Dodd-Frank requirements.
+
+During the Relevant Period, Commerzbank transacted swaps with thousands of
+counterparties, many of them in Europe, that were not U.S. persons but that may have been
+sufficiently connected to the U.S. such that Dodd-Frank requirements applied. During this
+period, Commerzbank did not adopt any effective bank-wide process for determining whether it
+needed to comply with Dodd-Frank requirements in connection with these transactions. Some of
+Commerzbank’s counterparties nonetheless submitted to Commerzbank the standard form ISDA
+Letter. At least 167 of Commerzbank’s counterparties stated in letters to Commerzbank that
+they bore characteristics that the Commission has stated may indicate a sufficient connection to
+U.S. commerce to bring transactions with them within the scope of Dodd-Frank. Upon receiving
+these letters, Commerzbank did not notify the persons responsible for Commerzbank’s Dodd-
+Frank compliance that these counterparties had submitted this information. Accordingly,
+Commerzbank made no effort to comply with the Dodd-Frank rules that applied to transactions
+with these counterparties. It nevertheless entered into approximately 17,000 swap transactions
+with these counterparties that were potentially subject to Dodd-Frank requirements. See, e.g.,
+Section 2(a)(13)(G) of the Act and Regulations 43.3 and 45.3. Commerzbank did not
+contemporaneously report its transactions with these counterparties to an SDR or, during much
+of the period at issue, seek to comply with other legal requirements that were potentially
+applicable to these transactions.
+Moreover, during the Relevant Period, thousands of other Commerzbank swap
+counterparties did not submit the ISDA Letter to Commerzbank or otherwise inform
+Commerzbank of relevant criteria for determining whether Dodd-Frank applied to their swap
+transactions with Commerzbank. Commerzbank did not require these counterparties to submit
+the ISDA Letter, and did not make any other serious attempt to determine these counterparties’
+status. To date, Commerzbank still has not determined whether most of these counterparties are,
+or are not, sufficiently connected to the U.S. to make transactions with those counterparties
+subject to Dodd-Frank requirements. A Commerzbank internal audit report that was circulated
+in June 2018 concluded that the Bank’s screening and onboarding procedures were insufficient
+to make this determination.
+
+By failing to implement policies reasonably designed to determine whether its swap
+transactions with non-U.S. persons were subject to applicable legal requirements, Commerzbank
+violated Section 2(a)(13)(G) of the Act and Regulation 23.402(b). By failing to report such
+transactions to SDRs, Commerzbank violated Regulations 43.3 and 45.3. Commerzbank’s
+comprehensive failure to make these determinations may also have caused the Bank to violate
+other legal requirements that are potentially applicable to transactions with such counterparties.
+
+4. Commerzbank’s Failure to Report Swap Transactions to an SDR
+
+Commerzbank, as an SD, was a reporting counterparty required to report certain data
+about its swaps transactions to an SDR. See Section 2(a)(13)(G) of the Act, 7 U.S.C.
+§ 2(a)(13)(G) (2012), and Regulations 43.3 and 45.3, 17 C.F.R. §§ 43.3, 45.3 (2018).
+
+From December 2012 through at least 2016, Commerzbank did not implement sufficient
+processes and controls to ensure that its SDR reporting was accurate and complete. In May
+2014, Commerzbank’s external compliance consultant found that Commerzbank did not have
+adequate processes and controls to ensure the accuracy of its swap transaction reporting.
+Moreover, even after 2016, Commerzbank inadequately remediated its swap reporting
+deficiencies. A June 2018 internal audit report regarding Commerzbank’s swap transaction
+reporting processes found an overall result of “not satisfactory,” concluding that there were
+multiple, ongoing deficiencies in Commerzbank’s control framework for swap reporting.
+
+As aresult of these control failures, Commerzbank on thousands of occasions failed to
+report swap transactions to an SDR consistent with the requirements of Section 2(a)(13)(G) of
+the Act and Regulations 43.3 and 45.3.
+
+For example, in 2014, Commerzbank failed to provide trade confirmations of exotic
+equity swaps to an SDR. In its 2014 Report, Commerzbank disclosed this failure and
+represented that there was a gap in its confirmation reporting process, due to a change in the
+Bank’s manual upload process, resulting in a failure to provide confirmation reports for certain
+swap transactions to the SDR. Commerzbank represented that it remediated the issue in
+December 2014, including by reporting the backlog of approximately 1,000 confirmations.
+However, this representation was incorrect. According to Commerzbank’s 2016 CCO Report,
+the Bank discovered in November 2016 that the SDR reporting issue had not in fact been
+remediated in December 2014. As a result, according to the 2016 Report, at least 370 additional
+exotic equity swap confirmations were not reported due to “employee turnover and a
+communication breakdown.”
+
+Moreover, from 2014 through May 2017, hundreds of trade confirmations were not
+correctly submitted as a result of inaccurate information being transmitted by Commerzbank’s
+Front Office. In addition, on two occasions in May 2015 and December 2016, as a result of a
+software failure, Commerzbank reported thousands of transactions to an SDR with incorrect time
+stamps. Separately, in January 2016, because of an incorrectly-implemented software upgrade,
+Commerzbank failed to submit on a timely basis 995 real-time transaction reports. In April
+2016, as a result of server capacity limitations, there was also a several-day period during which
+reports to an SDR were not timely submitted. Additionally, as discussed above, Commerzbank
+throughout this period failed to report certain other transactions to an SDR, as required.
+
+Commerzbank’s SDR reporting failures violated Section 2(a)(13)(G) of the Act and
+Regulations 43.3 and 45.3.
+
+5. Commerzbank’s Failure to Submit Large Trader Reports Consistent
+with the Commission’s Requirements
+
+Commerzbank’s Part 20 Large Trader Reports (“LTRs”) to the Commission were also
+deficient. As a provisionally-registered SD, Commerzbank was required to submit LTRs in the
+form and manner determined by the Commission. See Section 4s(f)(1)(A), 7 U.S.C. §
+6s(f)(1)(A) (2012), and Regulations 20.4 and 20.7, 17 C.F.R. §§ 20.4, 20.7 (2018).*
+
+From 2013 to 2014, Commerzbank submitted inaccurate LTRs for over 300 days,
+including by presenting data in a format inconsistent with Commission requirements. In March
+2015, Commerzbank resubmitted corrected LTRs to the Commission for this time period. In
+addition, for one day in 2013 and one day in 2014, Commerzbank failed to submit any LTRs
+and, due to a technical failure, was unable to reproduce data for one of those two days.
+
+Separately, from March 2013, the beginning of the reporting period, through 2016,
+Commerzbank failed to report to the Commission certain categories of swap transactions that
+Commerzbank entered into with Bank affiliates. Due to technical issues, Commerzbank failed to
+submit LTRs for certain inter-affiliate swap positions in various commodities during this time
+period. Commerzbank subsequently detected and reported these errors to the CFTC’s Division
+of Market Oversight (“DMO”) in November 2016, and thereafter resubmitted LTRs covering
+these inter-affiliate positions in early 2017.
+
+ 
+
+* The Part 20 rules became effective on September 20, 2011. Following the promulgation of the Part 20 rules, the
+Commission’s Division of Market Oversight, through a series of no-action letters, provided temporary relief from
+these reporting requirements and certain safe-harbor provisions. However, by March 1, 2013, such relief was no
+longer available and Commerzbank was required to be in full compliance with the Part 20 reporting requirements.
+See CFTC No-Action Letter No. 12-51 (Dec. 14, 2012), available at
+
+https://www.cftc.gov/idc/groups/public/@ Irlettergeneral/documents/letter/12-5 1 .pdf
+
+10
+Commerzbank’s failure to submit Part 20 reports consistent with Commission
+requirements, including its failure to submit certain categories of inter-affiliate transactions to the
+Commission in its Part 20 reports, violated Section 4s((1)(A) of the Act and Regulations 20.4
+and 20.7.
+
+6. Commerzbank’s Failure to Execute Certain Swaps on SEFs
+
+During 2014-2016, Commerzbank did not have sufficient procedures to determine
+whether trades were required to be executed on a SEF. Instead, Commerzbank appeared to rely
+primarily on its counterparties to determine whether trades were required to be executed on a
+SEF.
+
+Relatedly, Commerzbank did not establish any type of monitoring program to determine
+whether swaps were incorrectly executed off a SEF until April, 2015. In 2016, a Commerzbank
+compliance officer noted in an internal email that the Bank’s compliance department was unable
+to confirm counterparties’ address information and suggested that the compliance department
+coordinate with the onboarding team in order to properly identify the status of counterparties and
+determine which trades were required to be conducted on a SEF. Most recently, a June 2018
+internal Commerzbank audit report found that Commerzbank’s internal gap analysis was
+insufficient to demonstrate Dodd-Frank Act compliance with respect to SEF execution.
+
+As an apparent result of these control infirmities, Commerzbank failed to execute certain
+swaps as required on a SEF, including multiple instances from 2014 through 2016, where MAT
+trades were improperly executed off a SEF. For example, in 2015, a London trader failed to
+recognize that the counterparty was a U.S. person (or failed to recognize that a MAT product was
+being traded) and consequently failed to execute the trade on a SEF. Similarly, in 2016, a
+London trader failed to execute a voice trade on a SEF because he incorrectly believed that voice
+trades were exempt from SEF requirements. Further in 2016, another trader failed to execute a
+trade with a U.S. person on a SEF based on the client’s incorrect understanding that it was
+exempt from SEF trading requirements.
+
+These failures to execute on a SEF swaps that were required to be executed on a SEF
+violated Section 2(h)(8) of the Act, 7 U.S.C. § 2(h)(8) (2012), and Regulation 37.9(a)(2), 17
+C.F.R. § 37.9(a)(2) (2018).
+
+Hil. LEGAL DISCUSSION
+
+A. Commerzbank’s Inadequate Supervision of Its Swap Dealer Violated Section
+4s(h)(1)(B) of the Act, 7 U.S.C. § 6s(h)(1)(B) (2012), and Regulation 23.602, 17
+C.F.R. § 23.602 (2018)
+
+Section 4s(h)(1)(B) of the Act, 7 U.S.C. § 6s(h)(1)(B) (2012), requires “diligent
+supervision of the business of the registered swap dealer.” Regulation 23.602, 17 C.F.R.
+§ 23.602 (2018), requires that SDs and major swap participants “establish and maintain a system
+to supervise, and shall diligently supervise, all activities relating to its business performed by its
+
+11
+partners, members, officers, employees, and agents (or persons occupying a similar status or
+performing a similar function).”
+
+The operative language of Regulation 23.602 (governing SDs and major swap
+participants), is similar to the language of the Commission’s longstanding supervision regulation
+for futures and options, Regulation 166.3, 17 C.F.R. § 166.3 (2018). Under Regulation 166.3,
+when a registrant’s supervisory system is generally inadequate, or the registrant fails to perform
+its supervisory duties diligently, that fact alone is sufficient to establish a violations of the
+supervision requirement. See, e.g., In re Murlas Commodities, [1994-1996 Transfer Binder]
+Comm. Fut. L. Rep. (CCH) { 26,485 at 43,161 (CFTC Sept. 1, 1995); In re Paragon Futures
+Assoc., [1990-1992 Transfer Binder] Comm. Fut. L. Rep. (CCH) J 25,266 at 38,850 (CFTC Apr.
+1, 1992). Evidence of violations that “should be detected by a diligent system of supervision,
+either because of the nature of the violations or because the violations have occurred repeatedly”
+is probative of a failure to supervise. Paragon Futures, J 25,266 at 38,850.
+
+Commerzbank management failed to diligently supervise the SD. The failure was
+systemic and occurred over a long period of ttme. Management’s failure to supervise the SD
+directly resulted in violations of other provisions of the Act and accompanying Regulations.
+Accordingly, Commerzbank’s conduct violated Section 4s(h)(1)(B) of the Act and Regulation
+23.602.
+
+B. Commerzbank’s Misleading Statements and Material Omissions in Its Chief
+Compliance Officer Reports to the Commission Violated Section 6(c)(2) of the Act, 7
+U.S.C. § 9(2) (2012)
+
+Section 6(c)(2) of the Act, 7 U.S.C. § 9(2) (2012), prohibits making “any false or
+misleading statement of a material fact to the Commission, including . . . information relating to
+aswap,...or to omit to state in any such statement any material fact that is necessary to make
+any statement of a material fact made not misleading in any material respect.”
+
+As detailed above, in its 2014 Report to the Commission, which was submitted to the
+Commission on or about April 29, 2015, Commerzbank made misleading statements of material
+fact relating to SD compliance. In the same report, Commerzbank omitted material facts that
+were necessary to make other statements of material fact in the 2014 Report not misleading in
+material respects. In its 2015 Report, which was submitted on or about April 28, 2016,
+Commerzbank likewise omitted material facts that were necessary to make other statements of
+material fact in the 2015 Report not misleading in material respects.
+
+These misleading statements and material omissions violated Section 6(c)(2) of the Act.
+
+C. Commerzbank’s Lack of Any Effective, Bank-wide Process to Determine Whether
+Swap Transactions with Certain Non-U.S. Persons Were Subject to Dodd-Frank
+Requirements Violated Regulation 23.402(b), 17 C.F.R. § 23.402(b) (2018), and Its
+Failure to Report Such Transactions to SDRs Violated Section 2(a)(13)(G) of the
+Act, 7 U.S.C. § 2(a)(13)(G) (2012), and Regulations 43.3 and 45.3, 17 C.F.R. §§ 43.3,
+
+12
+45.3 (2018)
+
+Regulation 23.402(b), 17 C.F.R. § 23.402(b) (2018), requires SDs to implement policies
+and procedures reasonably designed to obtain a record of the essential facts concerning each
+counterparty, including facts required to comply with applicable laws, regulations, and rules.
+
+Section 2(a)(13)(G) of the Act, 7 U.S.C. § 2(a)(13)(G) (2012), requires that swaps, both
+cleared and uncleared, be reported to an SDR, and establishes requirements for such reporting.
+This section of the Act and the Commission’s implementing regulations set forth in Parts 43 and
+45 of the Regulations, 17 C.F.R. pts. 43, 45 (2018), were designed to enhance transparency,
+promote standardization, and reduce systemic risk. Part 43 establishes requirements for the real-
+time reporting and public availability of swap transaction data. See Regulations 43.2 and 43.3,
+17 C.F.R. §§ 43.2, 43.3 (2018). Under Part 43, reporting parties must report a publicly
+reportable swap transaction to an SDR as soon as technologically practicable after the swap
+transaction is executed. See Regulation 43.3.
+
+Non-U.S. SDs such as Commerzbank may not be subject to SDR reporting requirements,
+depending on whether a given transaction is of a type that has a direct and significant effect on,
+or connection with, U.S. commerce. Section 2(1) of the Act, 7 U.S.C. § 2G) (2012). The
+Commission has described factors it considers relevant to that determination. See Cross-Border
+Guidance, 45,348-51 and 45,355-59.
+
+In violations of Regulation 23.402(b), Commerzbank failed to take measures sufficient to
+determine whether its swap transactions with non-U.S. persons were sufficiently connected to the
+U.S. so as to subject them to Dodd-Frank. As a result, in many instances, Commerzbank did not
+report to SDRs transactions that were subject to Dodd-Frank requirements, including Parts 43
+and 45 of the Regulations. Accordingly, Commerzbank violated Section 2(a)(13)(G) of the Act
+and Regulations 23.402(b), 43.3 and 45.3.
+
+D. Commerzbank’s Failure to Report Swap Transactions to an SDR also Violated
+Section 2(a)(13)(G) of the Act, 7 U.S.C. § 2(a)(13)(G) (2012), and Regulations 43.3
+and 45.3, 17 C.F.R. §§ 43.3, 45.3 (2018)
+
+Section 2(a)(13)(G) of the Act, 7 U.S.C. § 2(a)(13)(G) (2012), requires that swaps, both
+cleared and uncleared, be reported to an SDR and establishes requirements for such reporting.
+This section of the Act and the Commission’s implementing regulations in Parts 43 and 45 of the
+Regulations, 17 C.F.R. pts. 43, 45 (2018), were designed to enhance transparency, promote
+standardization, and reduce systemic risk. The accuracy and completeness of swap reporting are
+critical to the Commission’s mission to protect market participants and to ensure market
+integrity. See, e.g., In re Ice Futures U.S., CFTC No. 15-17, 2015 WL 1276463 (CFTC Mar. 16,
+2015) (consent order); In re Deutsche Bank Secs. Inc., CFTC No. 15-11, 2015 WL 1508451
+(CFTC Dec. 22, 2014) (consent order).
+
+Among the requirements of the Act and Regulations related to swap reporting, Part 43
+establishes requirements for the real-time reporting and public availability of swap transaction
+
+13
+data. See Regulations 43.2 and 43.3, 17 C.F.R. §§ 43.2, 43.3 (2018). Under Part 43, reporting
+parties must report a publicly-reportable swap transaction to an SDR as soon as technologically
+practicable after the swap transaction is executed. See Regulation 43.3.
+
+Part 45 of the Regulations requires reporting parties to, among other things, report swap
+creation data to an SDR. Regulation 45.3, 17 C.F.R. § 45.3 (2018), sets forth the requirements
+for reporting creation data, including primary economic terms data and confirmation data. See
+Regulation 45.3(b)(1)@), 45.3(c)()G)(A), 45.3(b)(3)@), and 45.3(c)(1) aii).
+
+From 2014 through 2016, Commerzbank experienced recurring issues with SDR
+reporting and failed to properly report swap transactions to an SDR in violations of Section
+2(a)(13)(G) of the Act and Regulations 43.3 and 45.5.
+
+E. Commerzbank’s Failure to Submit Large Trader Reports Consistent with the
+Commission’s Requirements Violated Section 4s(f)(1)(A) of the Act, 7 U.S.C.
+§ 6s(f)(1)(A) (2012), and Regulations 20.4, 20.7, 17 C.F.R. §§ 20.4, 20.7 (2018)
+
+Pursuant to Section 4s(f)(1)(A) of the Act, 7 U.S.C. § 6s(f)(1)(A) (2012), and Regulation
+20.4, 17 C.F.R. § 20.4 (2018), SDs that meet certain requirements are required to file daily LTRs
+for reportable positions in physical commodity swaps, which are populated with specific data as
+directed by the Commission. The LTRs must also conform to the form and manner for reporting
+and submitting information as set forth in Regulation 20.7, 17 C.F.R. § 20.7 (2018).
+Regulation 20.7 provides, in relevant part:
+
+Unless otherwise instructed by the Commission, a clearing
+organization or reporting entity shall submit data records and any
+other information required under this part to the Commission . . .
+(a) Using the format, coding structure, and electronic data
+transmission procedures approved in writing by the Commission.
+
+The prescribed manner and form of reporting and submitting swaps data is provided in
+the Part 20 Guidebook.”
+
+Commerzbank provisionally registered as an SD on December 31, 2012, and
+consequently was required to submit LTRs beginning March 1, 2013. In 2013 and 2014,
+Commerzbank submitted inaccurate LTRs for over 300 days in a manner that did not conform to
+the specifications required by the Commission. Additionally, for two days in 2013 and 2014,
+Commerzbank did not submit required LTRs altogether. Further, from the beginning of the
+reporting period, March 2013, through 2016, Commerzbank did not submit LTRs for certain
+inter-affiliate swap positions. Accordingly, Commerzbank violated Section 4s(f)(1)(A) of the
+
+ 
+
+> As provided for in Regulation 20.8, 17 C.F.R. § 20.8 (2018), the Commission delegated certain authority to the
+Director of DMO or others as the Director may designate from time to time. This delegated authority includes the
+authority pursuant to Regulation 20.7 “for providing instructions or determining the format, coding structure, and
+electronic data transmission procedures for submitting data records and any other information required under [Part
+20].” 17 C_F.R. § 20.7 (2018).
+
+14
+Act and Regulations 20.4 and 20.7.
+
+F. Commerzbank’s Failure to Execute Certain Swaps on SEFs Violated Section 2(h)(8)
+of the Act, 7 U.S.C. § 2(h)(8) (2012), and Regulation 37.9(a)(2), 17 C.F.R. § 37.9(a)(2)
+
+(2018)
+
+Section 2(h)(8) of the Act, 7 U.S.C. § 2(h)(8) (2012), requires that transactions involving
+swaps subject to Section 2(h)(1) of the Act’s clearing requirement, 7 U.S.C. § 2(h)(1) (2012), be
+executed on or pursuant to the rules of a designated contract market (“DCM”’) or SEF, unless no
+DCM or SEF makes such swaps available to trade or such swaps qualify for the clearing
+exception under Section 2(h)(7) of the Act, 7 U.S.C. § 2(h)(7) (2012) (the “trade execution
+requirement’).
+
+On June 4, 2013, the Commission published regulations governing SEFs.° Pursuant to
+Regulation 37.9(a)(2), 17 C.F.R. § 37.9(a)(2) (2018), a swap that is subject to the trade execution
+requirement and is not a block trade, as defined under Regulation 43.2, 17 C.F.R. § 43.2 (2018),
+shall be executed on a SEF through either (1) an Order Book or (2) a Request for Quote System
+that operates in conjunction with an Order Book.
+
+On multiple instances from 2014 through 2016, Commerzbank failed to execute certain
+MAT swaps on a SEF as required, in violations of Regulation 37.9(a)(2). Relatedly,
+Commerzbank failed to establish any type of monitoring program to determine whether swaps
+were being incorrectly transacted off a SEF until 2015.
+
+G. Commerzbank’s Liability for the Acts of Its Employees
+
+Section 2(a)(1)(B) of the Act, 7 U.S.C. § 2(a)(1)(B) (2012), and Regulation 1.2, 17
+C.F.R. § 1.2 (2018), provide that the act, omission, or failure of any official, agent, or other
+person acting for any individual, association, partnership, corporation, or trust within the scope
+of his employment or office shall be deemed the act, omission, or failure of such individual,
+association, partnership, corporation, or trust. Pursuant to Section 2(a)(1)(B) of the Act and
+Regulation 1.2, strict liability is imposed on principals for the actions of their agents. See, e.g.,
+Rosenthal & Co. v. CFTC, 802 F.2d 963, 966 (7th Cir. 1986); Dohmen-Ramirez & Wellington
+Advisory, Inc. v. CFTC, 837 F.2d 847, 857-58 (9th Cir. 1988).
+
+The foregoing acts, omissions, and failures of Commerzbank’s employees occurred
+within the scope of their employment, office, or agency with Commerzbank; therefore, pursuant
+to Section 2(a)(1)(B) of the Act, and Regulation 1.2, Commerzbank is liable for those acts,
+omissions, and failures in violations of the Act and Regulations.
+
+IV. FINDINGS OF violations
+
+Based on the foregoing, the Commission finds that Respondent violated Sections
+
+ 
+
+° Core Principles and Other Requirements for Swap Execution Facilities, 78 Fed. Reg. 33,476 (June 4, 2013).
+
+15
+2(a)(13)(G), 2(h)(8), 48(f)(1)(A), 48(h)(1)(B), and 6(c)(2) of the Act, 7 U.S.C. §§ 2(a)(13)(G),
+2(h)(8), 6s(£)(1)(A), 68(h)(1)(B), 9(2) (2012), and Regulations 20.4, 20.7, 23.402(b),
+23.602, 37.9, 43.3, and 45.3, 17 CER. §§ 20.4, 20.7, 23.402(b), 23.602, 37.9, 43.3, 45.3 (2018).
+
+A.
+
+B.
+
+V. OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+Acknowledges receipt of service of this Order;
+
+Admits the jurisdiction of the Commission to all the matters set forth in this Order and for
+any action or proceeding brought or authorized by the Commission based on a violations
+of or enforcement of this Order;
+
+Waives:
+
+1.
+
+The filing and service of a complaint and notice of hearing;
+A hearing;
+
+All post-hearing procedures;
+
+Judicial review by any court;
+
+Any and all objections to the participation by any member of the Commission’s
+staff in the Commission’s consideration of the Offer;
+
+Any and all claims that it may possess under the Equal Access to Justice Act, 5
+U.S.C. § 504 (2012) and 28 U.S.C. § 2412 (2012), and/or the rules promulgated
+by the Commission in conformity therewith, Part 148 of the Regulations,
+
+17 C.F.R. pt. 148 (2018), relating to, or arising from, this proceeding;
+
+Any and all claims that it may possess under the Small Business Regulatory
+Enforcement Fairness Act of 1996, (““SBREFA’’), Pub. L. No. 104-121, tit. I,
+§§ 201-53, 110 Stat 847-874 (codified as amended in scattered sections of 5
+U.S.C. and 15 U.S.C.), relating to, or arising from, this proceeding; and
+
+Any claims of Double Jeopardy based upon the institution of this proceeding or
+the entry in this proceeding of any order imposing a civil monetary penalty or any
+other relief;
+
+Stipulates that the record basis on which this Order is entered shall consist solely of the
+findings contained in this Order to which Respondent has consented in the Offer; and
+
+Consents, solely on the basis of the Offer, to the Commission’s entry of this Order that:
+
+16
+1. Makes findings by the Commission that Respondent violated Sections
+2(a)(13)(G), 2(h)(8), 48()(1)(A), 48(h)(1)(B), and 6(c)(2) of the Act, 7 U.S.C.
+§§ 2(a)(13)(G), 2(h)(8), 6s(f)(1)(A), 6s(h)(1)(B), 9(2) (2012), and Regulations
+20.4, 20.7, 23.402(b), 23.602, 37.9, 43.3, and 45.3, 17 C.F.R. $§ 20.4,
+20.7, 23.402(b), 23.602, 37.9, 43.3, 45.3 (2018);
+
+2. Orders Respondent to cease and desist from violating Sections 2(a)(13)(G),
+2(h)(8), 4s(f)(1)(A), 4s(h)(1)(B), and 6(c)(2) of the Act, 7 U.S.C. §§ 2(a)(13)(G),
+2(h)(8), 6s(f)(1)(A), 6s(h)(1)(B), 9(2) (2012), and Regulations 20.4, 20.7,
+23.402(b), 23.602, 37.9, 43.3, and 45.3, 17 C.F.R. §§ 20.4, 20.7, 23.402(b),
+23.602, 37.9, 43.3, 45.3 (2018);
+
+3. Orders Respondent to pay a civil monetary penalty in the amount of twelve
+million dollars ($12,000,000), plus post-judgment interest within ten days of the
+date of entry of this Order; and
+
+4. Orders Respondent and its successors and assigns to comply with the conditions
+and undertakings consented to in the Offer and set forth in Part VI of this Order.
+
+Upon consideration, the Commission has determined to accept the Offer.
+VI. ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+Respondent shall cease and desist from violating Sections 2(a)(13)(G), 2(h)(8),
+4s(f)(1)(A), 4s(h)(1)(B), and 6(c)(2) of the Act, 7 U.S.C. §§ 2(a)(13)(G), 2(h)(8),
+6s(f)(1)(A), 6s(h)(1)(B), 9(2) (2012), and Regulations 20.4, 20.7, 23.402(b), 23.602, 37.9,
+43.3, and 45.3, 17 C.F.R. §§ 20.4, 20.7, 23.402(b), 23.602, 37.9, 43.3, 45.3 (2018).
+
+Respondent shall pay a civil monetary penalty in the amount of twelve million dollars
+($12,000,000), (“CMP Obligation’). If the CMP Obligation is not paid in full within ten
+days of the date of entry of the Order, then post-judgment interest shall accrue on the
+CMP Obligation beginning on the date of entry of the Order and shall be determined by
+using the Treasury Bill rate prevailing on the date of entry of the Order pursuant to
+
+28 U.S.C. § 1961 (2012).
+
+Respondent shall pay the CMP Obligation and any post-judgment interest by electronic
+funds transfer, U.S. postal money order, certified check, bank cashier’s check, or bank
+money order. If payment is to be made other than by electronic funds transfer,
+Respondent shall make the payment payable to the Commodity Futures Trading
+Commission, and sent to the address below:
+
+MMAC/ESC/AMK326
+Commodity Futures Trading Commission
+Division of Enforcement
+
+17
+6500 S. MacArthur Blvd.
+HQ Room 181
+
+Oklahoma City, OK 73169
+(405) 954-6569 office
+
+(405) 954-1620 facsimile
+9-AMC-AR-CFTC @ faa. gov
+
+If payment is to be made by electronic transfer, Respondent shall contact Marie Thorne
+or her successor at the above address to receive payment instructions and shall fully
+comply with those instructions. Respondent shall accompany payment of the CMP
+Obligation with a cover letter that identifies Respondent and the name and docket number
+of this proceeding. Respondent shall simultaneously transmit copies of the cover letter
+and the form of payment to the Chief Financial Officer, Commodity Futures Trading
+Commission, Three Lafayette Centre, 1155 21st Street, NW, Washington, D.C. 20581.
+
+Respondent and its successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+1.
+
+Public Statements: Respondent agrees that neither it nor any of its successors,
+assigns, agents or employees under its authority or control shall take any action or
+make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order, or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondent’s (1) testimonial obligations; or (11) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondent and its successors and assigns shall comply with this agreement, and
+shall undertake all steps necessary to ensure that all of its agents and/or
+employees under its authority or control understand and comply with this
+agreement.
+
+Retention of Outside Consultant to Review Swap Dealer Compliance:
+Respondent shall retain an outside consultant to assess the SD’s compliance with
+the Commodity Exchange Act, and Commission Regulations, and make
+recommendations for improvements in the SD’s practices, policies, and
+procedures. Respondent shall select the outside consultant, subject to Division
+approval of that selection. Respondent shall pay the outside consultant. The
+outside consultant shall review the Commerzbank SD for a period of two years
+and generate, during that period, two annual reports assessing the SD’s
+compliance with the Commodity Exchange Act and Commission Regulations, and
+making specific recommendations for improvements in the SD’s practices,
+policies, and procedures. Commerzbank shall provide a copy of each of these
+annual reports to the Commission. To facilitate the outside consultant’s review,
+Commerzbank shall make available to the outside consultant all relevant
+Commerzbank records and personnel, whether located in the United States,
+Germany, or any other location. The Division, in its sole discretion, based on its
+
+ 
+
+18
+assessment of Commerzbank’s remedial efforts, shall determine whether
+Commerzbank shall also retain an outside consultant for one additional year (third
+year) to generate a third annual report regarding SD compliance. If a third report
+is required, it must satisfy the same requirements as the first two annual reports
+from the outside consultant.
+
+Submission of Certified Reports Regarding Swap Dealer Compliance:
+Respondent shall, for a period of two years, submit to the Commission an annual
+report 90 days following the outside consultant’s annual report outlined above
+that, specifically and in detail, discusses the Commerzbank SD’s compliance with
+the Commodity Exchange Act and Commission Regulations in a manner
+consistent with the requirements of Regulation 3.3(e), 17
+
+C.F.R. § 3.3(e), without regard to the Comparability Determination. These
+reports shall be signed by the Commerzbank SD’s Chief Compliance Officer.
+The Chief Compliance Officer shall certify, under penalty of perjury, that the
+reports are, to the best of the Chief Compliance Officer’s knowledge, accurate and
+complete. These reports must include a discussion of what Commerzbank is
+doing to comply with the recommendations made by the outside consultant
+regarding the SD’s policies and procedures. If Commerzbank does not adopt one
+or more of the outside consultant’s recommendations, such refusal must be
+specifically stated in Commerzbank’s report to the Commission, and the reasons
+for not following the outside consultant’s recommendations must be explained.
+The Division, in its sole discretion, based on its assessment of Commerzbank’s
+remedial efforts, shall determine whether Commerzbank shall also be required to
+submit an additional (third) annual report regarding SD compliance. If a third
+report is required, it must satisfy the same requirements as the first two annual
+reports from Commerzbank to the Commission.
+
+ 
+
+Cooperation, in General: Respondent shall cooperate fully and expeditiously with the
+
+ 
+
+Commission, including the Commission’s Division, and any other governmental agency
+in this action, and in any investigation, civil litigation, or administrative matter related to
+the subject matter of this action or any current or future Commission investigation related
+thereto for a period of three years. As part of such cooperation, Respondent agrees to:
+
+1.
+
+preserve and produce to the Commission in a responsive and prompt manner, as
+requested by the Division’s staff, all non-privileged documents, information, and
+other materials wherever located, subject to applicable laws and regulations, in
+the possession, custody, or control of Respondent;
+
+accept service by mail, electronic mail, or facsimile transmission of notices or
+subpoenas for documents and/or testimony at depositions, hearings, or trials;
+
+appoint Respondent’s attorney as agent to receive service of such notices and
+subpoenas; and
+
+19
+4. waive the territorial limits on service contained in Rule 45 of the Federal Rules of
+Civil Procedure and any applicable local rules in connection with requests or
+subpoenas of the Division’s staff;
+
+E, Partial Satisfaction: Respondent understands and agrees that any acceptance by the
+Commission of any partial payment of Respondent’s CMP Obligation shall not be
+deemed a waiver of its obligation to make further payments pursuant to this Order, or a
+waiver of the Commission’s right to seek to compel payment of any remaining balance.
+
+The provisions of this Order shall be effective on this date.
+
+By the Commission.
+
+ 
+
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+Dated: November 8, 2018
+
+20

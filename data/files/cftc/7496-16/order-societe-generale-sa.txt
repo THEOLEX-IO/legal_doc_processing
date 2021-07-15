@@ -1,0 +1,427 @@
+ 
+
+UNITED STATES OF AMERICA
+Before the
+COMMODITY FUTURES TRADING COMMISSION
+
+ 
+
+Proceedings Clerk
+
+ 
+
+ 
+
+ 
+
+\ 11:12 am, Dec 07, 2018)
+
+In the Matter of:
+
+SociÃ©tÃ© GÃ©nÃ©rale SA,
+
+Respondent. CFTC Docket No. 17-01
+
+ee ee
+
+ 
+
+ORDER INSTITUTING PROCEEDINGS PURSUANT TO
+SECTIONS 6(c) AND 6(d) OF THE COMMODITY EXCHANGE ACT, MAKING
+FINDINGS AND IMPOSING REMEDIAL SANCTIONS
+
+iF
+
+The Commodity Futures Trading Commission (ââCommissionâ or âCFTCâ ) has reason to
+believe that from approximately July 2014 through April 2015 (the ârelevant periodâ), SociÃ©tÃ©
+GÃ©nÃ©rale SA (âRespondentâ or âSociÃ©tÃ© GÃ©nÃ©raleâ) violated Sections 2(a)(13)(F) and (G) and
+4r(a)(3) of the Commodity Exchange Act (the âActâ), 7 U.S.C. 88 2(a)(13)(F), (G), 6r(a)(3)
+(2012), and Commission Regulations (âRegulationsâ) 43.3(a), 43.4(a), 45.3(c) and 45.4(a), 17
+C.F.R. Â§Â§ 43,3(a), 43.4(a), 45.3(c) and 45.4(a) (2016). Therefore, the Commission deems it
+appropriate and in the public interest that public administrative proceedings be, and hereby are,
+instituted to determine whether Respondent engaged in the violations set forth herein and to
+determine whether any order should be issued imposing remedial sanctions.
+
+I.
+
+In anticipation of the institution of an administrative proceeding, Respondent has
+submitted an Offer of Settlement (âOfferâ), which the Commission has determined to accept.
+Without admitting or denying any of the findings or conclusions herein, Respondent consents to
+the entry of this Order Instituting Proceedings Pursuant to Sections 6(c) and 6(d) of the
+Commodity Exchange Act, Making Findings and Imposing Remedial Sanctions Orderâ) and
+acknowledge service of this Order.'
+
+ 
+
+Respondent consents to the entry of this Order and to the use of these findings in this proceeding and in
+any other proceeding brought by the Commission or to which the Commission is a party; provided,
+however, that Respondent does not consent to the use of the Offer, or the findings or conclusions in this
+Order consented to in the Offer, as the sole basis for any other proceeding brought by the Commission,
+other than in a proceeding in bankruptcy or to enforce the terms of this Order. Nor does Respondent
+consent to the use of the Offer or this Order, or the findings or conclusions in this Order consented to in
+the Offer, by any other party in any other proceeding.
+III.
+The Commission finds the following:
+A. SUMMARY
+
+As a provisionally registered swap dealer, SociÃ©tÃ© GÃ©nÃ©rale is required to comply with
+certain reporting requirements related to its swap transactions. Section 2(a)(13)(F) and (G) of
+the Act, 7 U.S.C. Â§ 2(a)(13)(F), (G) (2012), requires parties to a swap transaction to report swap
+transaction information to a registered swap data repository (âSDRâ) in a timely manner, as
+prescribed by the Commission. Similarly, Section 4r(a)(3) of the Act, 7 U.S.C. Â§ 6r(a)(3) (2012)
+requires swap dealers to report swap transactions to a SDR within such time period as prescribed
+by the Commission. In particular, Commission Regulations specify requirements for real-time
+public reporting, public availability of swap transaction and pricing data, and reporting of
+creation and continuation data toa SDR. See 17 C.F.R. Â§Â§ 43, 45 (2016). The reporting
+requirements are designed to enhance transparency, promote standardization, and reduce
+systemic risk.
+
+During the relevant period, SociÃ©tÃ© GÃ©nÃ©rale inadvertently failed to properly report non-
+deliverable forward transactions to a SDR in violation of Section 2(a)(13)(F) and (G) of the Act,
+7 U.S.C. Â§ 2(a)(13)(F), (G) (2012) and Regulations 43.3(a)(3) and 43.4(a), 17 C.F.R.
+
+Â§Â§ 43,3(a)(3), 43.4(a) (2016). Similarly, during the relevant period, SociÃ©tÃ© GÃ©nÃ©rale, as the
+reporting counterparty, mistakenly failed to timely report to a SDR a large number of FX swap,
+FX forward, and non-deliverable forward transactions, including the requisite continuation data
+for those transactions, in violation of Section 4r(a)}(3) of the Act, 7 U.S.C. Â§ 6r(a)(3) (2012) and
+Regulations 45.3(c)(1) and 45.4(a), 17 CFR. Â§Â§ 45.3(c)(1), 45.4(a) 2016).
+
+Because of SociÃ©tÃ© GÃ©nÃ©raleâs reporting failures, data for the non-deliverable forward
+trades was not disseminated to the market through the real time public tape, and data for the FX
+swaps, FX forwards, and non-deliverable forwards was not reported to the Commission.
+Reporting is at the heart of the Commissionâs market and financial surveillance programs, which
+are critical to the Commissionâs mission to protect market participants and promote market
+integrity. Accurate swap data is thus essential to effective fulfillment of the regulatory functions
+of the Commission, including meaningful surveillance and enforcement programs. Moreover,
+real-time public dissemination of swap transaction and pricing data supports the fairness and
+efficiency of markets and increases transparency, which in turn improves price discovery.
+
+In accepting SociÃ©tÃ© GÃ©nÃ©raleâs Offer, the Commission recognizes Respondentâs
+significant cooperation during the investigation of this matter by the Commissionâs Division of
+Enforcement (âDivisionâ), which included self-reporting, undertaking an internal investigation,
+and taking remedial action to correct its reporting failures.â
+
+ 
+
+* The Commission has long given credit for cooperative conduct by respondents and defendants when
+determining the appropriate level of sanctions to impose or approve in enforcement actions, See CFTC
+Policy Statement Relating to the Commissionâs Authority to Impose Civil Money Penalties, [1994
+Transfer Binder] Comm. Fut. L. Rep. (CCH) 426,265 (November 1, 1994); See also 2004 Enforcement
+Advisory on Cooperation, Cooperation Factors in Enforcement Division Sanction Recommendations,
+
+2
+B, RESPONDENT
+
+SociÃ©tÃ© GÃ©nÃ©rale SA is a non-United States swap dealer headquartered in Paris, France.
+SociÃ©tÃ© GÃ©nÃ©rale was provisionally registered as a swap dealer with the Commission on
+December 31, 2012.
+
+Cc, FACTS
+
+SociÃ©tÃ© GÃ©nÃ©raleâs failure to properly report its swap transactions had its genesis in July
+2014, when it implemented a software update to its FX trading platform. That software update
+led to the trading platform incorrectly coding SociÃ©tÃ© GÃ©nÃ©raleâs counterparty as the reporting
+counterparty for certain FX swaps, FX forwards and non-deliverable forwards when the trading
+platform should have coded SociÃ©tÃ© GÃ©nÃ©rale as the reporting party. This error led to neither
+party to certain FX swaps, FX forwards, and non-deliverable forwards making any report
+regarding the swaps to the SDR.
+
+SociÃ©tÃ© GÃ©nÃ©rale first discovered the error in January 2015, during a routine control
+check, when it determined that its computer system had inadvertently flagged the counterparty as
+the reporting party for a swap transaction. Upon discovering the coding error, SociÃ©tÃ©
+GÃ©nÃ©raleâs Operations Group and IT Team worked to repair the error, which was not fixed until
+April 2015. On April 26, 2015, SociÃ©tÃ© GÃ©nÃ©rale began reporting daily snapshots for all new
+trades as well as any open positions, using the new coding. Also in late April 2015, SociÃ©tÃ©
+GÃ©nÃ©rale initiated a project to identify trades affected by the coding error. At the same time,
+SociÃ©tÃ© GÃ©nÃ©raleâs staff began discussions with its SDR, Depository Trust and Clearing
+Corporation (âDTCCâ), to determine how to back-load swap reports under Regulations 43 and
+45.
+
+On September 18, 2015, SociÃ©tÃ© GÃ©nÃ©rale notified the Commissionâs Division of Market
+Oversight (âDMOâ) staff about its failure to report a large number of swaps due to the coding
+error. For the FX swap, FX forward, and non-deliverable forward transactions, DMO staff
+confirmed the need for SociÃ©tÃ© GÃ©nÃ©rale to submit reports required under Regulations 43 and 45,
+and for DTCC to publish the Regulation 43 reports.
+
+SociÃ©tÃ© GÃ©nÃ©rale submitted its Regulation 45 SDR data related to the FX swaps, FX
+forwards and non-deliverable forward trades, by back-loading a single state data report, covering
+51,821 unreported FX swap, FX forward, and non-deliverable forward transactions on October
+27,2015. Between November 2015 and April 2016, SociÃ©tÃ© GÃ©nÃ©rale and DTCC discussed how
+to submit its Regulation 43 real time reports, covering approximately 2,024 non-deliverable
+forward transactions, in order to minimize the potential unintended consequences of publishing
+old trades to the real-time public tape. After consulting with DMO staff in late April 2016 to
+confirm the methodology for SociÃ©tÃ© GÃ©nÃ©rale to submit, and for DTCC to publish, the
+
+ 
+
+available
+
+at:http://www.cfte.gov/ucm/groups/public/@cpdisciplinaryhistory/documents/file/enfcooperation-
+advisory.pdf.
+Regulation 43 reports, SociÃ©tÃ© GÃ©nÃ©rale submitted small batches of real time messages and
+completed their Regulation 43 submissions for the non-deliverable forward transactions on May
+6, 2016.
+
+Iv.
+
+LEGAL DISCUSSION
+
+To enhance transparency, promote standardization, and reduce systemic risk, Section 727
+of the Dodd-Frank Act added to the Commodity Exchange Act a provision that requires all
+swaps, both cleared and uncleared, be reported to a registered SDR and establishes
+requirements for real-time reporting and public availability of swap transaction data. See
+7 U.S.C, Â§2(a)(13)(G)(2012). Pursuant to these requirements, the Commission adopted
+implementing regulations, including under Parts 43 and 45; the requirements under these
+regulations were phased-in based upon asset classes. See Real-Time Public Reporting of Swap
+Transaction Data, 77 Fed.Reg. 1182 (Jan. 9, 2012); Swap Data Recordkeeping and Reporting
+Requirements, 77 Fed.Reg. 2136 (Jan. 13, 2012).
+
+Part 43 establishes requirements for the real-time public reporting and public
+availability of swap transaction data. See 17 C.F.R. Â§Â§ 43.2, 43.3 (2016). Under Part 43,
+reporting parties must report a publicly reportable swap transaction to an SDR as soon as
+technologically practicable after the swap transaction is executed. See 17 C.F.R. Â§ 43.3(a)(1)
+(2016). A publicly reportable swap transaction is defined in Regulation 43.2 and includes,
+among other things, â[a]ny termination, assignment, novation, exchange, transfer, amendment,
+conveyance, or extinguishing of rights or obligations of a swap that changes the pricing of a
+swap.â 17 C.F.R Â§ 43.2 (2016).
+
+Part 45 requires reporting parties to, among other things, report swap creation and
+continuation data to ensure that all data concerning a swap remains current and accurate.
+17 C.F.R. Â§Â§ 45.3, 45.4 (2016). Reporting parties can comply with the continuation data
+requirement by âreporting life cycle event data or state data for the swap ...â 17 C.F.R.
+Â§ 45.4(a) (2016). The Regulations define a life cycle event to include âany event that would
+result in either a change to a primary economic term of a swap or to any primary economic terms
+data previously reported to a swap data repository in connection with a swap[,]â including
+among other things, a âpartial or full termination of the swap,â a âchange to the end date for the
+swap,â and âa change in the cash flows or rates originally reported.â 17 C.F.R. Â§ 45.1 (2016).
+
+The accuracy and completeness of swap reporting are critical to the Commissionâs
+mission to protect market participants and to ensure market integrity. See, e.g., In re Deutsche
+Bank AG, CFTC No. 15-40, 2015 WL 5783049 (CFTC Sept. 30, 2015) (consent order); Jn re
+ICE Futures U.S., Inc., CFTC No. 15-17, 2015 WL 1276463 (CFTC Mar. 16, 2015) (consent
+order). Market participants rely upon the public availability of swaps data for price discovery
+purposes. The Commission, in turn, requires complete and accurate reporting data to engage in
+meaningful oversight of the swaps market.
+
+During the relevant period, SociÃ©tÃ© GÃ©nÃ©rale failed to properly report non-deliverable
+forward transactions to a SDR in violation of Section 2(a)(13)(F) and (G) of the Act, 7 U.S.C. Â§
+2(a)(13){F), (G) (2012), and Regulations 43.3(a)(3) and 43.4(a), 17 C.F.R. Â§Â§ 43.3(a)(3), 43.4(a)
+
+4
+(2016). Similarly, during the relevant period, SociÃ©tÃ© GÃ©nÃ©rale, as the reporting counterparty,
+failed to timely report to a SDR a large number of FX swap, FX forward, and non-deliverable
+forward transactions, including the requisite continuation data for those transactions, in violation
+of Section 4r(a)(3) of the Act, 7 U.S.C. Â§ 6r(a)(3) (2012), and Regulations 45.3(c)(1) and 45.4(a),
+17 C.E.R. Â§Â§ 45.3(c)(1), 45.4(a) (2016). The foregoing acts, omissions, and failures of SociÃ©tÃ©
+GÃ©nÃ©raleâs employees occurred within the scope of their employment, office, or agency with
+SociÃ©tÃ© GÃ©nÃ©rale; therefore, pursuant to Section 2(a)(1)(B) of the Act, 7 U.S.D. Â§2(a)(1)(B)
+(2012), and Regulation 1.2, 17 C.F.R. Â§ 1.2 (2016), SociÃ©tÃ© GÃ©nÃ©rale is liable for those acts,
+omissions, and failures in violation of Sections 2(a)(13)(F) and (G) and 4r(a)(3) of the Act,
+TUS.C. Â§Â§ 2(a)(13)(F), (G), 6r(a)(3) (2012), and Regulations 43.3(a), 43.4(a), 45.3(c) and
+45.4(a), 17 C.F.R. Â§Â§ 43.3(a), 43.4(a), 45.3(c) and 45.4(a) (2016).
+
+Vv.
+FINDINGS OF VIOLATION
+Based on the foregoing, the Commission finds that during the relevant period, SociÃ©tÃ©
+GÃ©nÃ©rale violated Sections 2(a)(13)(F) and (G) and 4r(a)(3) of the Act, 7 U.S.C. Â§Â§ 2(a)(13(F),
+(G), 6r(a)(3) (2012), and Regulations 43.3(a)(3), 43.4(a), 45.3(c)(1) and 45.4(a), 17 C.F.R.
+Â§Â§ 43.3(a)(3), 43.4(a), 45.3(c)(1) and 45.4(a) (2016).
+VI.
+OFFER OF SETTLEMENT
+
+Respondent has submitted the Offer in which it, without admitting or denying the
+findings and conclusions herein:
+
+A. Acknowledges receipt of service of the Order;
+B. Admits the jurisdiction of the Commission with respect to all matters set forth in
+
+the Order and for any action or proceeding brought or authorized by the
+Commission based on violation of or enforcement of the Order;
+
+C. Waives:
+1. the filing and service of a complaint and notice of hearing;
+2. a hearing;
+3. all post-hearing procedures;
+4. judicial review by any court;
+5. any and all objections to the participation by any member of the
+
+Commissionâs staff in the Commissionâs consideration of this Offer;
+any and all claims that it may possess under the Equal Access to Justice
+Act, 5 U.S.C. Â§ 504 (2012) and 28 U.S.C. Â§ 2412 (2012), and/or the rules
+promulgated by the Commission in conformity therewith, Part 148 of the
+Commissionâs Regulations, 17 C.F.R. Â§Â§ 148.1-30 (2016), relating to, or
+arising from, this proceeding;
+
+any and all claims that it may possess under the Small Business
+Regulatory Enforcement Fairness Act of 1996, Pub. L. No. 104-121,
+
+Â§Â§ 201-253, 110 Stat. 847, 857-868 (1996), as amended by Pub. L. No.
+110-28, Â§ 8302, 121 Stat. 112, 204-205 (2007), relating to, or arising from,
+this proceeding; and
+
+any claims of Double Jeopardy based on the institution of this proceeding
+or the entry in this proceeding of any order imposing a civil monetary
+penalty or any other relief;
+
+Stipulates that the record basis on which the Order is entered shall consist solely
+of the findings contained in the Order to which Respondent has consented in this
+Offer; and
+
+Consents, solely on the basis of the Offer, to the Commissionâs entry of the Order
+in the form attached hereto that:
+
+1.
+
+N
+
+Makes findings by the Commission that Respondent violated Sections
+2(a)(13)(F) and (G) and 4r(a)(3) of the Act, 7 U.S.C. Â§Â§ 2(a)(13)(F), (G),
+6r(a)(3) (2012), and Regulations 43.3(a), 43.4(a), 45.3(c) and 45.4(a),
+
+17 C.F.R. Â§Â§ 43.3(a), 43.4(a), 45.3(c) and 45.4(a) (2016);
+
+Orders Respondent to cease and desist from violating Sections 2(a)(13)(F)
+and (G) and 4r(a)(3) of the Act, 7 U.S.C. Â§Â§ 2(a)(13)(F), (G), 6r(a)(3)
+(2012), and Regulations 43.3(a), 43.4(a), 45.3(c) and 45.4(a), 17 C.F.R.
+Â§Â§ 43.3(a), 43.4(a), 45.3(c) and 45.4(a) (2016);
+
+Orders Respondent to pay a civil monetary penalty (âCMP Obligationâ) in
+the amount of four hundred fifty thousand dollars ($450,000), plus post-
+judgment interest, within ten (10) days of the date of the entry of the
+Order. If the CMP Obligation is not paid in full within ten days (10) days
+of the date of entry of the Order, then post-judgment interest shall accrue
+on the CMP Obligation beginning on the date of entry of the Order and
+shall be determined by using the Treasury Bill rate prevailing on the date
+of entry of the Order pursuant to 28 U.S.C. Â§ 1961 (2012).
+
+Respondent shall pay the CMP Obligation by electronic funds transfer,
+U.S. postal money order, certified check, bank cashierâs check, or bank
+money order. If payment is to be made other than by electronic funds
+transfer, then the payment shall be made payable to the Commodity
+Futures Trading Commission, and sent to the address below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATTN: Accounts Receivables
+DOT/FAA/MMAC/AMZ-341
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.,
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+Nikki.gibson@faa.gov
+
+If payment by electronic funds transfer is chosen, Respondent shall
+contact Nikki Gibson or her successor at the above address to receive
+payment instructions and shall fully comply with those instructions.
+Respondent shall accompany payment of the CMP Obligation with a cover
+letter that identifies Respondent and the name and docket number of this
+proceeding. The paying Respondent shall simultaneously transmit copies
+of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, 1155 21" Street, N.W.,
+Washington, D.C. 20581.
+
+4. Orders Respondent and any successors or assignees of Respondent to
+comply with its undertakings set forth in Section III of this Offer.
+
+Upon consideration, the Commission has determined to accept the Offer.
+VIL.
+
+ORDER
+
+Accordingly, IT IS HEREBY ORDERED THAT:
+
+A.
+
+Respondent shall cease and desist from violating Sections 2(a)(13)(F) and (G) and
+4r(a)(3) of the Act, 7 U.S.C. Â§Â§ 2(a)(13)(F), (G), 6r(a)(3) (2012), and Regulations
+43.3(a), 43.4(a), 45.3(c) and 45.4(a), 17 C.F.R. Â§Â§ 43.3(a), 43.4(a), 45.3(c) and 45.4(a)
+(2016);
+
+Respondent shall pay a civil monetary penalty in the amount of four hundred fifty
+thousand dollars ($450,000), within ten (10) days of the date of entry of this Order (the
+âCMP Obligationâ). If the CMP Obligation is not paid in full within ten (10) days of the
+date of entry of this Order, then post-judgment interest shall accrue on the CMP
+Obligation beginning on the date of entry of this Order and shall be determined by using
+the Treasury Bill rate prevailing on the date of entry of this Order pursuant to 28 U.S.C.
+Â§ 1961 (2012).
+
+Respondent shall pay the CMP Obligation by electronic funds transfer, U.S. postal
+money order, certified check, bank cashierâs check, or bank money order. If payment is
+to be made other than by electronic funds transfer, then the payment shall be made
+payable to the Commodity Futures Trading Commission and sent to the address below:
+
+Commodity Futures Trading Commission
+Division of Enforcement
+
+ATIN: Accounts Receivables
+DOT/FAA/MMAC/AMZ-341
+CFTC/CPSC/SEC
+
+6500 S. MacArthur Blvd.
+
+Oklahoma City, OK 73169
+
+(405) 954-7262 office
+
+(405) 954-1620 fax
+nikki.gibson@faa.gov
+
+If payment is to be made by electronic funds transfer, Respondent shall contact Nikki
+Gibson or her successor at the above address to receive payment instructions and shall
+fully comply with those instructions. Respondent(s) shall accompany payment of the
+CMP Obligation with a cover letter that identifies the paying Respondent and the name
+and docket number of this proceeding. The paying Respondent shall simultaneously
+transmit copies of the cover letter and the form of payment to the Chief Financial Officer,
+Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW,
+Washington, D.C. 20581.
+
+Respondent and its successors and assigns shall comply with the following conditions
+and undertakings set forth in the Offer:
+
+1 Public Statements: Respondent agrees that neither it nor any of its successors or
+assigns, agents or employees under its authority or control shall take any action or
+make any public statement denying, directly or indirectly, any findings or
+conclusions in this Order or creating, or tending to create, the impression that this
+Order is without a factual basis; provided, however, that nothing in this provision
+shall affect Respondentâs: (i) testimonial obligations; or (ii) right to take legal
+positions in other proceedings to which the Commission is not a party.
+Respondent and its successors and assigns shall undertake all steps necessary to
+ensure that all of its agents and/or employees under its authority or control
+understand and comply with this agreement.
+
+WN
+
+Partial Satisfaction: Respondent understands and agrees that any acceptance by
+the Commission of any partial payment of Respondentâs CMP Obligation shall
+not be deemed a waiver of its obligation to make further payments pursuant to this
+Order, or a waiver of the Commissionâs right to seek to compel payment of any
+remaining balance.
+
+3, Change of Address/Phone: Until such time as Respondent satisfies in full its
+CMP Obligation as set forth in this Consent Order, Respondent shall provide
+written notice to the Commission by certified mail of any change to its telephone
+number and mailing address within ten (10) calendar days of the change
+
+The provisions of this Order shall be effective as of this date.
+By the Commission.
+Christopher J. Kirkpatrick
+
+Secretary of the Commission
+Commodity Futures Trading Commission
+
+ 
+        
+ 
+
+   
+
+ 
+ 
+
+Dated: December 7, 2016

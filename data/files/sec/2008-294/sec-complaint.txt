@@ -1,0 +1,1149 @@
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+ 
+
+)
+U.S. SECURITIES AND EXCHANGE )
+COMMISSION, )
+100 F. Street, NE )
+Washington, D.C. 20549 )
+
+Plaintiff, Case: 1:08-cv-02167
+Assigned To : Leon, Richard J.
+v. Assign. Date : 12/12/2008
+
+Description: General Civil
+SIEMENS AKTIENGESELLSCHAFT
+
+ 
+
+J
+
+Wittelsbacherplatz 2 )
+D-80333 Munich )
+Federal Republic of Germany )
+)
+
+Defendant. )
+
+)
+
+COMPLAINT
+
+Plaintiff, U.S. Securities and Exchange Commission (the âCommissionââ), alleges:
+SUMMARY
+1. Between March 12, 2001 and September 30, 2007 (the âRelevant
+
+Periodâ), Siemens Aktiengesellschaft (âSiemensâ or the âCompanyââ) violated the
+Foreign Corrupt Practices Act [15 U.S.C. Â§ 78dd-1] (the âFCPAâ) by engaging in a
+widespread and systematic practice of paying bribes to foreign government officials to â
+obtain business. Siemens created elaborate payment schemes to conceal the nature of its
+corrupt payments, and the Companyâs inadequate internal controls allowed the illicit
+conduct to flourish. The misconduct involved employees at all levels of the Company,
+
+including former senior management, and reveals a corporate culture that had long been
+
+at odds with the FCPA.
+2. During this period, Siemens made thousands of separate payments to third
+parties in ways that obscured the purpose for, and the ultimate recipients of, the money.
+At least 4,283 of those payments, totaling approximately $1.4 billion, were used to bribe
+government officials in return for business to Siemens around the world. Among the
+transactions on which Siemens paid bribes were those to design and build metro transit
+lines in Venezuela; metro trains and signaling devices in China; power plants in Israel;
+high voltage transmission lines in China; mobile telephone networks in Bangladesh;
+telecommunications projects in Nigeria; national identity cards in Argentina; medical
+devices in Vietnam, China, and Russia; traffic control systems in Russia; refineries in
+Mexico; and mobile communications networks in Vietnam. Siemens also paid kickbacks
+to iraqi ministries in connection with sales of power stations and equipment to Iraq under
+the United Nations Oil for Food Program. Siemens earned over $1.1 billion in profits on
+these fourteen categories of transactions that comprised 332 individual projects or
+individual sales.
+
+3. In November 2006, Siemensâ current management began to implement
+reforms to the Companyâs internal controls. These reforms substantially reduced, but did
+not entirely eliminate, corrupt payments. All but $27.5 million of the corrupt payments
+occurred prior to November 15, 2006.
+
+4. Siemens violated Section 30A of the Securities Exchange Act of 1934
+(âExchange Actâ) [15 U.S.C. Â§ 78dd-1] by making illicit payments to foreign
+government officials in order to obtain or retain business. Siemens violated Section
+13(b)(2)(B) of the Exchange Act by failing to have an adequate internal control system in .
+
+_place to detect and prevent the illicit payments. Siemens violated Section 13(b)(2)(A) of
+_ the Exchange Act by improperly recording each of those payments in its accounting
+books and records.
+JURISDICTION
+
+5. This Court has jurisdiction over this action under Sections 21(d), 21(e),
+' and 27 of the Exchange Act [15 U.S.C. Â§Â§ 78u(d), 78u(e) and 78aa]. Siemens, directly or
+indirectly, made use of the means or instrumentalities of interstate commerce, of the
+mails, or of the facilities of a national securities exchange in connection with the â
+transactions, acts, practices, and courses of business alleged in this Complaint.
+
+6. Venue is appropriate in this Court under Section 27 of the Exchange Act
+[15 U.S.C. Â§ 78aa] or 28 U.S.C. Â§ 1391).
+
+| DEFENDANT
+
+7. Siemens is a German corporation with its executive offices in Munich,
+Federal Republic of Germany. Siemens is one of the worldâs largest manufacturers of
+industrial and consumer products. Siemens builds locomotives, traffic control systems
+and electrical power plants. The Company also manufactures building control systems,
+medical equipment and electrical components, and formerly manufactured
+communications networks. Siemens employs approximately 428,200 people and
+operates in approximately 190 countries worldwide. Siemens reported net revenue of
+$116.5 billion and net income of $8.9 billion for its fiscal year ended September 30,
+2008.
+
+8. | In accordance with German law, Siemens has a Supervisory Board and a
+Managing Board. The Supervisory Board is generally comparable to the board of
+
+directors of a corporation in the United States in that it oversees management but with
+. less oversight power under German law. The Managing Board -- or âVorstandâ ~
+generally performs the duties and responsibilities of senior management of a corporation
+in the United States and includes the Companyâs Chief Executive Officer (âCEOâ) and
+Chief Financial Officer (âCFOâ).
+
+9. Prior to a recent reorganization, Siemens operated through a complex
+array of business groups and regional companies. The business groups are divisions
+within Siemens and are not separate legal entities. The regional companies are wholly-
+or partly-owned subsidiaries of Siemens. The thirteen principal business groups during
+the Relevant Period were: Communications (âCOMâ), Siemens Business Services
+(âSBSâ), Automation and Drives (âA&Dâ), Industrial Solutions and Services (âT&Sâ),
+Siemens Building Technologies (âSBTâ), Power Generation (âPGâ), Power Transmission
+and Distribution (âPTDâ), Transportation Systems (âTSâ), Siemens VDO Automotive
+(âSVâ), Medical Solutions (âMEDâ), Osram Middle East, Siemens Financial Services
+(âSFSâ), and Siemens Real Estate (âSREâ). In 2008, Siemens reorganized the groups
+into three Sectors â Energy, Healthcare and Industry.
+
+10. Since March 12, 2001, Siemensâ American Depository Shares have been
+registered with the Commission pursuant to Section 12(b) of the Exchange Act. {15
+U.S.C. Â§ 781(b)]. Siemensâ American Depository Shares trade on the New York Stock
+Exchange (âNYSEâ) under the symbol âSI.â
+
+| FACTS
+A. Background
+11. Siemens traces its origins to 1847 and for over 160 years has been one of
+
+the most successful conglomerate companies in Germany. After World War II, Siemens
+had difficulty competing for business in many Western countries and responded by
+seeking business opportunities in certain less developed countries where corrupt business
+practices were common.
+
+12. - During the pre-1999 period, the first period, bribery at Siemens was
+largely unregulated. German law did not prohibit foreign bribery and allowed tax
+deductions for bribes paid in foreign countries. Siemens was not yet listed on the NYSE
+and therefore was not subject to U.S. regulation. Undeterred by foreign laws that |
+prohibited bribery, Siemens put several payment mechanisms in place, including the use .
+of cash and off-books accounts, to make payments as necessary to win business.
+
+13. The term Niitzliche Aufwendungen (âNAâ) or âuseful expendituresâ was a |
+commonly used tax law term and was commonly listed on Siemens? cost calculation
+sheets to denote payments to third parties, including illicit payments to foreign officials.
+Though as-a rule Siemens required two signatures on all major documents in accordance
+with an internal control known as the âfour-eyesâ principle, many exceptions to the rule
+were made to ensure quick access to cash to make illicit payments.
+
+14. Over time, Siemens developed a ânetwork of payment mechanisms
+designed to funnel money through third parties in a way that obscured the purpose and
+ultimate recipient of the funds. On at least one project, bribes to high ranking
+government officials were arranged personally by a member of the Vorstand. The
+success of Siemensâ bribery system was maintained by lax internal controls over
+corruption related activities and an acceptance of such activities by members of senior
+
+management and the compliance, internal audit, legal and finance departments.
+1. NYSE Listing
+
+15. From 1999 to 2003, the second period, the Vorstand was ineffective in
+implementing controls to address constraints imposed by Germanyâs 1999 adoption of
+the Organization for Economic Cooperation and Development (âOECDâ) anti-bribery
+convention that outlawed foreign bribery.-On February 15, 1999, the very day that
+Germany ratified the OECD Convention, the then-CEO of Siemens âexpressed his
+concern at the number of criminal and other investigations into members of the
+Company,â further noting that â[a]s the Board could possibly be held responsible for
+various offenses, it was important to take protective measures.â However, bribery
+continued for years afterward.
+
+16. The Vorstand was also ineffective in meeting the U.S. regulatory and anti-
+bribery requirements that Siemens was subject to following its March 12, 2001, listing on
+the NYSE.
+
+17. The changes in the legal landscape caused by Germanyâs ratification of
+the OECD Convention and Siemensâ listing on the NYSE should have put an end to
+bribery at Siemens. Unfortunately, they did not. Instead, a steady flow of improper
+payments continued to emanate from the Company, in large part because of certain
+actions and inactions taken by the Vorstand.
+
+| 18. For instance in mid-2000, as Siemens prepared for its NYSE listing, its
+legal department forwarded a memorandum to the Supervisory Board Chairman and CFO
+- identifying certain off-books accounts, The memorandum made it clear that Siemensâ
+
+accounts had to be maintained âqn harmony with the principles of orderly accounting.
+Otherwise sanctions are likely under criminal law.â The Vorstand failed to act, and the
+off-books accounts continued to exist even after Siemensâ NYSE listing.
+
+19. In addition, the Vorstand failed to adopt meaningful compliance measures,
+failed to adequately-staff Siemensâ compliance function and, at times, failed to adopt
+reasonable recommendations designed to enhance compliance procedures at the
+Company. As illustrated herein, many of the improper payments made by Siemens
+involved the use of business consultants and business consulting agreements to funnel
+illicit payments to third parties, including government officials. In April 2000, the
+Vorstand rejected a proposal by the Companyâs General Counsel to create a Company-
+wide list of business consultants and a committee to review these relationships. Although
+Siemens issued various principles and recommendations regarding business consultants,
+Siemens had no mandatory and comprehensive Company-wide rules in place governing
+the use of business consultanits until June of 2005.
+
+2. Red Flags (Communications Group â Nigeria)
+
+20. From 2003 to 2006, the third period, members of the Vorstand failed to
+respond appropriately to indications that bribery was widespread at Siemens. Red flags
+that the Vorstand members missed or ignored included substantial cash payments in
+Nigeria by senior level employees within the COM business group. In the fall of 2003,
+Siemensâ outside auditor KPMG identified â¬4.12 million in cash that was brought to
+Nigeria by COM employees and flagged the payments for review. A compliance
+attorney at the Company conducted a one-day investigation of the payments and wrote a
+report indicating that COM employees admitted that it was not an isolated event and ,
+
+warned of numerous possible violations of law. Though the compliance report was
+reviewed in November 2003 by Siemensâ then-CFO, no disciplinary action was taken, no
+further investigative work was conducted, and the report was not provided to or discussed
+with the Vorstand as a whole or the Companyâs audit committee. COM employees
+identified in the report, including a former COM manager, continued to pay bribes
+through a series of slush funds until at least November 2006, when they were arrested
+following a raid of Siemensâ offices (the âDawn Raidâ) by criminal authorities in
+Munich, Germany. Had senior management responded differently, bribes paid by the
+COM group could have been reduced or eliminated.
+
+3. Red Flags (Power Generation Group - Italy)
+
+21. During the third period, the Vorstand also failed to respond appropriately
+"to multi-million dollar bribes paid in Italy by managers of the Siemens PG business
+group. In July 2003, the news media reported that prosecutors in Milan were
+investigating bribes paid to employees of ENEL, an energy company partly-owned by the
+Italian government, in connection with two power plant projects. Siemens PG managers
+made approximately â¬6 million in corrupt payments to two ENEL officials. The corrupt
+payments were routed through slush funds in Liechtenstein using a Dubai-based business
+consultant.
+
+| 22. âIn April 2004, a judge in Milan issued a written opinion concluding that
+
+the evidence indicated that Siemens viewed bribery âat least as a possible business
+strategy.â In or around May 2004, a legal memorandum concerning the ruling was sent
+to members of the Vorstand, including the then-CEO and then-CFO of the Company.
+Another memorandum, sent to members of the Vorstand, including the then-CEO and the
+
+then-CFO in April 2004, detailed severance packages that had been given to the PG
+managers and attached a September 2003 memorandum prepared by an American law
+firm. The legal memorandum suggested that Siemens should immediately review and
+assure proper functioning of its FCPA compliance program, that the allegations and steps
+taken to address them should be reported to the board, and that the employees involved
+should be disciplined.
+
+23. Subsequently, Siemens, along with two of its PG managers, entered into a
+plea bargain with criminal authorities in Italy pursuant to which Siemens paid a â¬0.5
+million fine, gave up â¬6.2 million in profits and was barred from selling gas turbines in
+Italy for one year. Despite their criminal conduct, the two PG managers involved in the
+ENEL matter received early retirement with full retirement benefits. The PG CFO
+received a â¬1.8 million severance package from Siemens when he left the Company as a
+result of the ENEL matter. Ina related criminal proceeding in Germany, the longtime
+CFO of PG confessed to authorizing the bribes. Siemensâ corporate response to bribery
+assured certain employees that they could expect to be taken care of if and when caught
+paying bribes on behalf of the Company.
+
+24. There were additional significant red flags of corruption including
+admissions of bribery or so called âbonus paymentsâ to government officials in March
+2006 by a manager at Siemens Greece of over â¬37 million, as well as an April 2006
+KPMG audit identification of over 250 suspicious payments made through an
+intermediary on behalf of Information and Communication Mobile, a corporate
+
+predecessor of COM, and Siemens S.p.A in Italy.
+4. Tone at the Top
+
+25. The Vorstandâs response to the situations in Nigeria and Italy
+demonstrated a tone at the top of Siemens that was inconsistent with an effective FCPA
+compliance program and created a corporate culture in which bribery was tolerated and
+even rewarded at the highest levels of the company.
+
+26. Siemens implemented certain improvements to its compliance program in
+response to the situation in Italy. These included an anti-bribery speech delivered by the
+__ then-CFO to high-level business managers in summier 2004 and the establishment of a |
+Corporate Compliance Office in October 2004. In addition, the Company issued policies
+over bank accounts, including requirements relating to the initiation and use of Company
+accounts and authorizations regarding cash. However, it was not until one year later, in
+June 2005, that the Company issued mandatory rules governing the use of business .
+consultants, e.g. prohibiting success fees and requiring compliance officers to sign off on
+business consulting agreements. While these measures appear to have been partially
+effective, improper payments continued at least until the Dawn Raid in November 2006.
+
+27. Despite the Vorstandâs knowledge of bribery at two of its largest eroups -
+. COM and PG - the Corporate Compliance Office continued to have a conflicted mandate
+and lacked resources. There was an inherent conflict in the Corporate Compliance Office
+mandate, which included both defending the Company, and preventing compliance
+breaches. The Corporate Compliance Office was significantly understaffed, with a part-
+time Chief Compliance Officer, and up to six full-time lawyers until 2007. Despite
+knowledge of numerous instances of corruption in multiple areas of the business, the
+
+Company did not implement mandatory FCPA compliance training until 2007.
+
+10
+'B. Hlicit Payment Mechanisms Used to Pay Bribes
+
+28. During the Relevant Period, Siemens made thousands of payments to third
+parties in ways that obscured the purpose for, and ultimate recipient of, the money. The
+principal payment mechanisms used to facilitate illicit payments were business
+consultants, payment intermediaries, slush funds, cash, and intercompany accounts.
+
+29. Through its use of business consultants and payment intermediaries,
+Siemens funneled more than $982.7 million to third parties, including government
+officials. All but $27.5 million of the payments were made prior to November 15, 2006.
+Business consultants were typically hired pursuant to business consultant agreements,
+contracts that on their face obligated Siemens to pay for legitimate consulting services. |
+In reality, many business consultant agreements were shams in that the business
+
+_ consultants performed no services beyond funneling bribes. PG had specific instructions
+on how to use a âconfidential payment systemâ to conceal payments to business
+_consultants. Payment intermediaries were additional entities and individuals through
+
+which Siemens funneled bribes. In many cases, Siemens would pay the intermediary an
+amount and simultaneously direct that the money be transferred toa third-party bank
+account, less a small portion as the intermediaryâs fee. |
+
+30. Siemens also funneled more than $211 million through slush funds for use
+
+as bribes. All but $2.3 million of the payments were made prior to September 30, 2004.
+
+Slush funds were bank accounts held in the name of current or former senior Siemens
+
+employees, third parties, or affiliated entities. The most notable slush funds were
+
+maintained by a former COM manager recently convicted in Germany for his role in the
+
+il
+payment of bribes to foreign officials, which included several slush funds held in the
+name of U.S. shell companies.
+
+3t.. Siemens also used cash and cash equivalents to funnel more than $160.4
+million to third parties. All but $9.2 million of the payments were made prior to
+September 30, 2004. Siemens COM employees used cash desks maintained by the
+Siemens Real Estate Group to obtain large amounts of cash to pay bribes. Often,
+
+employees would obtain hundreds of thousands of dollars and, at times, even $1 million .
+| in various currencies from the cash desks in Germany. The cash was transported,
+sometimes in suitcases, across international borders into various countries. At times, the
+cash was then stored in safes maintained by Siemens employees to ensure ready access to
+cash to pay bribes.
+
+32. Lastly, Siemens used various types of internal accounts to funnel more
+than $16.2 million to third parties. Approximately 99% of the payments were made prior
+to September 30, 2005. An intercompany account is a type of Siemensâ internal account
+that is used to make payments on transactions between two Siemens entities, i.e., for
+entity to entity business. Siemens used the intercompany accounts to make third party
+payments and in a number of instances, Siemens maintained the accounts in the names of
+unconsolidated entities around the globe, including Ecuador and Nicaragua, in order to
+avoid detection. Some of the intercompany accounts maintained at unconsolidated
+entities were known to, and possibly created by, a former member of the Vorstand, who
+had oversight responsibility for Latin America.
+
+33. As early as 2004, a Siemens Corporate Finance Financial Audit employee
+
+raised concerns about the use of intercompany accounts. He was phased out of his job
+
+12
+and assigned to work on âspecial projectsâ from his home until leaving the Company in
+2005. Siemens thereafter began closing some of the accounts and eventually closed all of
+them.
+
+34. Another type of internal account that employees abused was Siemens
+MED internal commission accounts. These balance-sheet accounts were intended to be
+used to record commissions MED earned on transactions with other Siemens entities.
+These accounts were used to make third party payments. Many of the intercompany
+account payments and the MED internal commission account payments were done
+manually to bypass Siemensâ automated payment system. The manual payments,
+executed through SFS, did not require the submission of documentation in support of a
+payment.
+
+35. Siemens used a host of other schemes to make more than $25.3 million in
+payments to third parties. In particular, Siemens used sham supplier agreements,
+receivables and other write-offs to generate payments.
+
+Cc. Breakdown of Third Party Payments |
+
+36. During the Relevant Period, Siemens made 4,283 separate payments
+totaling approximately $1.4 billion to bribe government officials in foreign countries
+throughout the world. An additional approximately 1,185 separate payments to third
+parties totaling approximately $391 million were not properly controlled and were used, at
+least in part, for illicit purposes, including commercial bribery and embezzlement. The
+
+following chart breaks down the $1.4 billion in illicit payments to foreign government _
+
+officials by business group.
+
+13
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Business Group Bribes to Foreign
+Officials
+Number of $Millions
+Payments
+Communications (COM) 2,505 $813.9
+Industrial Solutions T&S) | 89 $22.5
+Medical Solution (MED) 705 $92.6
+Power Generation (PG) 353 $208.7
+Power Transmission PTD) | 356 $148.2
+Transportation Systems 154 $70.0
+| (TS)
+Other 121 $44.8
+| Total 4,283 $1,400.7
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+D. Bribery of Government Officials
+
+37. The following paragraphs provide examples of bribery schemes involving
+projects and individual sales carried out by Siemens using U.S. means during the
+Relevant Period with profits of over $1.1 billion.
+
+1. Metro Transit Lines in Venezuela
+
+'38. Between 2001 and 2007, Siemens TS and Siemens S.A., a regional
+
+company in Venezuela, paid an estimated $16.7 million in bribes to Venezuelan
+government officials in connection with the construction of metro transit systems in the
+âcities of Valencia and Maracaibo, Venezuela. The two proj ects, Metro Valencia and
+Metro Maracaibo, generated approximately $642 million in revenue to Siemens. The
+Metro Valencia project was awarded to a TS entity in the United States and later
+
+transferred to Siemens, and the Metro Maracaibo project was awarded to Siemens and
+
+14
+part of the work was assigned to the U.S. TS entity. Each of the contracts was financed
+in part by the U.S. Export-Import Bank in Washington, D.C. The corrupt payments were
+made using four separate, overlapping payment schemes.
+
+39. Under the first scheme, Siemens maintained a numbered, off-books bank
+account in Panama and either maintained a similar account in Miami or had contacts to a
+banker in Miami who had access to such accounts. These accounts were controlled by
+two CEOs and two CFOs of Siemensâ regional subsidiary in Venezuela. One of the
+
+_regional CFOs estimated that between 2001 and 2003 he paid $5 to $6 million per year
+out of the accounts, a portion of which went to government officials in support of the
+Venezuelan projects. The regional CFO periodically destroyed the account statements.
+
+40. Under the second scheme, Siemens paid over $6.8 million to four U.S.-
+based entities controlled by a longtime Siemens business consultant. Siemens called
+upon the consultant, known as a political âfixerâ in Venezuela and who had been an
+advisor to former Venezuelan presidents, to ensure political support for the Maracaibo
+and Valencia projects and for Siemensâ role in them. Siemens made payments into the
+U.S. bank accounts of the four controlled entities pursuant to sham consulting agreements
+in return for no legitimate work. Bank records reveal payments to Venezuelan
+government officials and politically-connected individuals, including a high-ranking
+member of the central government, two prominent Venezuelan attorneys acting on behalf
+of government officials, a former Venezuelan defense minister and diplomat, and a
+relative of a local politician, all of whom had influence over these and other Siemens
+
+contracts in Venezuela. Siemens transferred an additional $4.9 million to one of the
+
+15
+controlled entities between 2006 and 2007 by artificially inflating the terms of a contract
+with a U.S. engineering firm.
+
+41. Under the third scheme, Siemens used a Cyprus-based business consultant
+as an intermediary to fund up to $2.5 million in bribe payments on the Valencia project.
+Sham agreements were entered into with the business consultant that purported to be for
+other Siemens projects, but were actually designed to transfer money to Valencia. This
+payment scheme was authorized by a former CFO of the Turnkey Division within the TS
+group at Siemens. | |
+
+| 42. . Under the fourth scheme, Siemens in 2002 and 2003 entered into a sham |
+agreement with a Dubai-based business consultant to supply Metro Maracaibo with
+approximately $2.6 million in workshop equipment. The equipment was actually
+supplied by another supplier, and the business consultant did not supply any goods under
+the contract. After the business consultant came under suspicion as a result of its
+involvement in the investigation of possible bribes paid to ENEL managers in Italy, the
+CFO of Siemensâ Turnkey Divisionâs successor was ordered to terminate the contract.
+Instead, the new CFO arranged the assignment of the contract to another Dubai-based
+business consultant that continued the sham workshop equipment arrangement.
+
+2. Metro Trains and Signaling Devices in China
+
+43. Between 2002 and 2007, Siemens TS paid approximately $22 million to
+business consultants who used some portion of those funds to bribe foreign officials in
+connection with seven projects for the construction of metro trains and signaling devices
+on behalf of government customers in China. The total value of the projects was over $1
+
+billion. After experiencing difficulty breaking into the modern Chinese market, Siemens
+
+16
+| began using a Hong-Kong based business consultant and related entities to pay bribes to
+influence the award of contracts to Siemens. Siemens typically hired the business
+consultant based on an oral agreement to pay a success fee equal to a percentage of the
+project value and would enter into 2 written business consulting agreement after the
+government contract was awarded to Siemens. In connection with one Shanghai project,
+four wholly-owned subsidiaries of the Hong Kong business consultant submitted invoices
+totaling $11.7 million to Siemens and requested payment routed through a U.S.
+correspondent bank and then to various Swiss accounts. The illicit arrangement was
+entered into by a Sales & Marketing manager, who later became a Vice President of
+Siemens TS in China with the knowledge and approval of his supervisors. There were
+few, if any, legitimate services provided by the business consultant; backdated
+agreements and phony work product were used to support at least some of the payments.
+E-mails relating to a variety of projects indicate that the business consultant was
+funneling money to government officials and âfriendsâ with inside information and
+influence over government contracting decisions.
+
+3. Power Plants in Israel
+44. Between 2002 and 2005, Siemens PG paid approximately $20 million in
+
+bribes to a former Director of the state-owned Israel Electric Company (âIECâ). The
+bribes were paid in connection with four contracts to build and service power plants in -
+Israel. The total value of the contracts was approximately $786 million: Siemens routed
+
+âthe corrupt payments through a business consultant owned and managed by the brother
+in-law of the CEO of Siemens Israel Limited, a regional subsidiary. The business
+
+consultant was ostensibly paid to âidentify and define sales opportunities, provide market
+
+17
+intelligence,â and support contract negotiations. In reality, the business consultant was a
+Hong Kong-based clothing company with no expertise in the power generation industry.
+The business consultant never provided the services called for under its business |
+consultant agreement.
+
+45. â Some of the money paid to the business consultant was traced to the
+former IEC Director, who was in a position to influence the award of the contracts won
+by Siemens. A portion of the funds passed through U.S. bank accounts.
+
+4. High - Voltage Transmission Lines in China -
+
+46. Between 2002 and 2003, Siemens PTD paid approximately $25 million in
+bribes to government customers in connection with two projects for the installation of
+high voltage transmission lines in South China.- The total value of the projects was
+approximately $838 million. The payments were funneled through multiple
+intermediaries, including a Dubai-based business consulting firm controlled by a former
+Siemens PTD employee and then paid to several entities associated with a Chinese
+business consultant who held a U.S passport and maintained a U.S. residence. Payments
+to the Dubai-based business consultant were supported by phony distribution contracts.
+Senior management of PTD in Germany approved the payments with the understanding
+that they would be shared with âpartnersâ in China, including government officials. In
+2002, Siemens used US. banks to funnel $1.2 million in bribes to another business
+consultant whose principal shareholders held U.S. passports. That business consultant
+also entered into a sham business consultant agreement with Siemens under which no
+
+legitimate services were provided.
+
+18
+. 5. Mobile Telephone Services in Bangladesh
+
+47. Between 2004 and 2006, Siemens COM paid approximately $5.3 million
+in bribes to government officials in Bangladesh in connection with a contract with the
+Bangladesh Telegraph & Telephone Board (âBTTBâ) to install mobile telephone
+services. The total value of the contract was approximately $40.9 million. The payments
+âwere made to three business consultants pursuant to sham agreements calling for services
+associated with the mobile telephone project. The ultimate recipients of the payments
+- included the son of the then-Prime Minister in Bangladesh, the Minister of the Ministry
+of Posts & Telecommunications in Bangladesh, and the BTTB Director of Procurement.
+In addition, Siemens Limited Bangladesh, a regional company, hired relatives of two
+other BTTB and Ministry of Post and Telecom officials. Most of the money paid to the
+business consultants was routed through correspondent accounts in the United States,
+with at least one payment originating from a U.S. account. Since approximately
+September 2004, a Siemens business consultant who served as a principal payment
+intermediary on the Bangladesh bribe payments has been resident in the United States.
+At least $1.7 million of the bribe payments made through this intermediary were paid into
+a Hong Kong bank account while the intermediary was residing in the United States.
+
+48. ~The involvement of senior officials at Siemensâ regional company in
+Bangladesh, including a former CEO and the director of the regional companyâs COM
+division, in the bribery scheme is revealed both in statements by the officials and in |
+internal email messages, several of which include the tagline, âkindly delete this mail
+
+once the purpose is done.â
+
+19
+6. Four Telecommunications Projects in Nigeria
+
+49. Siemens COM made approximately $12.7 million in suspicious payments
+in connection with Nigerian projects, with at least $4.5 million paid as bribes in
+connection with four telecommunications projects with government customers in Nigeria,
+including Nigeria Telecommunications Limited and the Ministry of Communications.
+The total value of the four contracts was approximately $130 million. The practice of
+paying bribes by Siemens COM in Nigeria was long-standing and systematic. According
+to a high ranking official within Siemens Limited Nigeria, a regional company, corrupt
+payments in 2000 and 2001 commonly reached 15 to 30% of the contractsâ value. Bribe
+payments were typically documented using fictitious business consultant agreements
+under which no actual services were performed. The CEO of Siemens Limited Nigeria
+forwarded requests for âcommissionâ payments to Siemens headquarters in Germany.
+The illicit payments were then made through a number of means, frequently including
+large cash withdrawals from cash desks that were then hand-carried in suitcases to
+Nigeria.
+
+50. _. In the four telecommunications projects, approximately $2.8 million of the
+bribe payments was routed through a bank account in Potomac, Maryland, in the name of
+the wife of a former Nigerian Vice President. The Vice Presidentâs wife, a dual U.S.-
+Nigerian citizen living in the United States, served as the representative of a business
+consultant that entered into fictitious business consultant agreements to perform âsupply,
+installation, and commissioningâ services but did no actual work for Siemens. The
+purpose of these payments was to bribe government officials. Other corrupt payments
+
+- included the purchase of approximately $172,000 in watches for Nigerian officials
+
+20
+designated in internal Siemens records as âP.â and âV-P.,â likely referring to the
+President and Vice-President of Nigeria. |
+
+7. Identity Card Project in Argentina
+
+51. Between 1998 and 2004, Siemens paid over $40 million in bribes to senior
+officials of the government of Argentina in an effort to secure a $1 billion project to
+produce national identity cards. Siemens officials between 1998 and 1999, including the
+then-CEO of Siemens regional company in Argentina, âSiemens S.A., caused $19 million
+to be paid to business consultants for bribes. At least $2.6 million was transferred from
+the business consultantsâ accounts directly to the President of Argentina, the Minister of
+the Interior, and the Head of Immigration Control to obtain the contract. During this
+period, Siemens officials promised to pay an additional $30 million or more to the
+President and his Cabinet ministers. In late 1999, the Argentine President ended his term
+when his party was voted out of office, and the new administration threatened to
+terminate the contract on the ground that it had been procured by fraud. In an effort to
+head off that possibility, Siemens paid $6 million in additional bribes to officials in the
+new Argentine administration. Despite these payments, the contract was nonetheless
+canceled in May 2001.
+
+52. Over the following four years, Siemens officials received a series of
+payment demands and threats against its employees in Argentina if it did not fulfill its
+past commitment to pay additional bribes. Between 2002 and 2004, Siemens paid over
+_ $23 million to settle these demands. The Siemens officials involved in authorizing the |
+payments included a member of the Vorstand, who in 2003 personally flew to the United
+
+States to meet with Siemensâ principal intermediary to negotiate the payment terms, as
+
+21
+well as the CEO and CFO of Siemensâ regional company in Argentina. Approximately
+$9.5 million of these payments were routed through the books of an unrelated PTD ~
+transmission project in China in an effort to conceal the payments from Siemensâ internal
+auditors. Other payments were made through USS. bank accounts based on fictitious
+invoices for non-existent past services in connection with the identity card project and
+other projects in the region, including payments to a former government Minister and
+member of the Argentine Congress. â
+
+8. Medical Devices in Vietnam .
+
+53. Siemens MED paid $183,000 in early 2005 and $200,000 in early 2006 in
+connection with the sale of approximately $6 million of medical devices on two projects
+involving the Vietnamese Ministry of Health. After learning that bribe payments were
+required in Vietnam, Siemens MED sought the name of the business consultant entrusted
+by Siemens TS to conduct business in that market, including making its bribe payments.
+Siemens MED then entered into an agreement with an affiliate of the group of Hong-
+Kong based business consultants used by Siemens TS to act as Siemens MEDâs payment .
+intermediary. The payments were routed through a U.S. correspondent bank and then to
+Singapore bank accounts of the Hong Kong business consultant. The amounts were then
+withdrawn in cash and transported to Vietnam. Project calculation sheets connected to
+the sales describe the payments to the intermediary as relating to âroom preparation.â A
+number of Siemens senior managers, including the then-CFO of Siemensâ business in
+Vietnam, admitted that the purpose of the payments was to bribe government officials.
+
+54. With regard to the $183,000 payment that was made in early 2005, the
+
+former CFO of Siemens Limited Vietnam (âSLVâ) described how he and the then CEO
+
+22
+of Siemens SLV picked up an envelope with $183,000 cash at a hotel in Singapore âfrom
+a Hong Kong business manâ and flew to the Hanoi airport where the money was left with
+the then-head of Siemens MED in Vietnam, who had primary responsibility for contract
+negotiations with officials at the Vietnamese Ministry of Health.
+
+9. Medical Devices in China
+
+55. Between 2003 and 2007, Siemens MED paid approximately $14.4 million
+in bribes to the same intermediary described above in connection with $295 million in
+sales of medical equipment to five Chinese-owned hospitals, as well as to fund lavish
+trips for Chinese doctors. The former controller of Siemens oversaw the business
+
+relationship between Siemens and the affiliate of the Hong-Kong-based intermediary that
+it used to pay the bribes. A majority of the sales on which the intermediary received a
+payment involved a bribe to a government official. The same intermediary was used by
+Siemens TS to pay bribes in China and by Siemens MED to pay bribes in Vietnam.
+
+56. For example, Siemens paid $64,800 in May 2006 in connection with the
+sale of a $1.5 million MRI system to the Songyuan City Central Hospital in China. The
+payment was sent to a U.S. bank account, and later routed to a Singapore bank account in
+the name of the intermediary. A project calculation sheet signed by the then-CFO of
+Siemens MED China described the payment as relating to âexpenses (commission)â;
+however, no services were provided by the intermediary aside from acting as a vehicle
+for the transfer of bribe payments. In or around March 2008, Songyuan Hospitalâs
+deputy director and head of the radiology department was convicted in China of
+
+corruption charges, including a charge for accepting a $60,000 bribe from a
+
+23
+Siemens salesperson in connection with the sale of the MRI system and sentenced to
+fourteen years in prison.
+
+57. Siemens also used the Hong Kong intermediary to pay $9 million in travel
+costs for âstudy tripsâ taken by doctors who worked at government-owned hospitals in
+China. The study trips, which included lavish trips to Las Vegas, Miami, and other
+vacation spots in the United States, were connected to at least 231 separate sales to
+hospitals awarded to Siemens with revenue of approximately $235 million. The former
+CFO of Siemens MED in China used the intermediary to pay for study trips because of
+- .concems about the lavishness and ânon-scientific contentâ of the trips, which were taken
+by doctors-who were in a position to award business to Siemens.
+
+58. Bribes were also paid to secure sales of medical equipment to hospitals in
+. China on behalf of two Siemens U.S.-based subsidiaries, Oncology Care Solutions
+(âOCSâ) in California and Molecular Imaging (âMIâ) in Illinois. For OCS, Siemens
+developed a scheme to minimize the risk of anti-bribery prosecution in the United States
+for these transactions by routing the approval of business consulting agreements and the
+payment of business consultants through Siemensâ headquarters in Germany rather than
+in the United States. Between 1998 and 2004, this scheme was used to approve improper
+payments of approximately $650,000 to Chinese business consultants in connection with
+the U.S.-related sales. A senior manager at Siemens MED in Germany and officials of
+the U.S.-based subsidiaries, including the CFOs of OCS and MI were aware of the
+business consultant payments and facilitated the scheme by verifying the amounts to be
+paid and that the payments were due and owing. At one point after approving twenty-six
+
+such payments, the senior manager at Siemens MED refused to continue the payment
+
+24
+scheme, citing concern for the welfare of his family if he were sent to prison. The CFO
+of MED attempted to pressure the senior manager to keep the payment scheme going, but
+without success. | |
+
+59. In 2005, these officials also verified that âclean upâ payments totaling
+over $500,000 were owed to Siemensâ Hong Kong-based intermediary in connection with
+sales by OCS and MI in China. The outstanding payments were for bribes owed to third
+parties on behalf of Siemens. After receiving confirmation from OCS and MI that the
+payments were outstanding, the former controller of Siemens Med authorized three
+âclean upâ payments in 2005 for $377,400, $140,000 and $44,000.
+
+10. Traffic Control System in Russia
+
+60. From 2004 to 2006, Siemens 1&s and OOO Siemens, a regional company
+in Russia, paid approximately $741,419 in bribes to government officials in connection
+with a World Bank-funded project for the design and installation of a $27 million traffic
+control system in Moscow called the Moscow Third Ring Project. First, Siemens paid
+money to its business consultant who simultaneously worked as a technical consultant for
+the Moscow Project Implementation Unit (the âMPIUâ), a quasi-governmental unit that
+ran the Moscow Third Ring project. The MPIU hired the technical consultant at
+Siemensâ suggestion. From 2004 to 2006, Siemens paid approximately $313,000 to three
+entities associated with the technical consultant, with at least $141,419 of the payment in
+exchange for favorable treatment in the tendering process. The technical consultant used
+his position at the MPIU to create tender specifications favorable to Siemens, to provide
+
+tender documents to Siemens before their official publication, to evaluate project bids in
+
+25
+a way that ensured Siemens would win the contract, and to assist during the
+implementation phase of the proj ect.
+
+61. Second, Siemens colluded with a competitor who agreed to inflate its
+project bid to ensure Siemens won the project. In return, Siemens hired the competitor at
+an inflated rate of approximately $800,000. Siemens also hired two of the competitorâs
+former consortium members to become subcontractors to Siemens on the project
+(âSubcontractor A and Subcontractor Bâ). Siemens paid Subcontractor A approximately
+$1.3 million for a sham traffic study and approximately $1.4 million to Subcontractor B
+for other alleged services. In fact, both subcontractors were used to funnel at least
+$600,000 of the $741,419 described in paragraph 60 to senior officials of the MPIU.
+
+11. Refinery Modernization Project in Mexico
+
+62.  Inlate 2004, Siemens PG and Siemens S.A. de CV, a regional entity,
+made three separate illicit payments totaling approximately $2.6 million to a politically-
+connected business consultant to assist in settling cost overrun claims in connection with
+three refinery modernization projects in Mexico. Some portion of these payments were
+routed through the business consultant to a senior official of the Mexican state-owned
+petroleum company, Petroleos Mexicanos (âPemexâ). The official was in a position to
+influence the settlement. The payments were made with the knowledge and approval of
+the then-CEO of Siemensâ regional company in Mexico. The payments ware supported -
+by invoices reflecting consulting services that were not provided or only vaguely
+
+| described. A portion of Siemensâ work on the contracts was performed by a regional
+subsidiary in Atlanta, and some of the contract financing was provided by the U.S.
+
+Export-Import Bank in Washington, DC.
+
+26
+12. Medical Devices in Russia
+
+63. Between 2000 and 2007, Siemens MED made improper payments of over
+$55 million to a Dubai-based business consultant in connection with sales of medical
+equipment in Russia. The business consultant was used as a payment intermediary for
+bribes to government-owned customers in Russia. The former CFO of Siemens MED
+knew of and approved the payments. Senior Siemens officials estimated that up to 80%
+of Siemensâ MED business in Russia involved illicit payments. On one such transaction
+in 2006, Siemens made payments of approximately $287,914, some of which was used
+for bribes, in connection with the $2.5 million sale of a computer tomograph system to a
+public hospital in Ekaterinburg. On this contract, the bribes were routed through the
+Dubai-based business consultant, as well as a second business consultant that was
+registered in Des Moines, Iowa.
+
+13. | GSM Mobile Network Services in Vietnam
+
+64. In 2002, Siemens COM paid approximately $140,000 in bribes in
+connection with a tender worth approximately $35 million for the supply of equipment
+and services related to a Global Systems mobile network for Vietel, a government owned
+telecommunications provider founded by the Vietnamese Ministry of Defense. Two
+separate payments totaling $140,000 were made to the Singapore account of a Siemens
+business consultant. | The payments were then routed through a U.S. correspondent
+account and likely paid to officials at the Vietnamese Ministry of Defense. The payments
+were part of a much larger bribery scheme concocted by high-level managers at Siemens |
+regional company in Vietnam, SLV, to pay bribes to government officials at Vietel and
+
+the Vietnamese Ministry of Defense in order to acquire Phase I of the Vietel GSM tender.
+
+27
+In a June 2002, facsimile that discussed the bribery scheme, the former head of COM
+sales for the regional company described Siemensâ explicit agreement to pay 8% of the
+value of the Vietel project to officials at the Ministry of Defense and 14% of the project
+value to officials at Vietel. In August and September 2002, Siemens signed agreements
+with two business consultants who were retained for the sole purpose of funneling the
+bribes to government officials connected to Vietel. Ultimately, Siemens was
+unsuccessful in its pursuit of the Vietel project and lost the tender before paying
+
+additional bribes.
+
+E. The Oil for Food Program
+
+65. The Oil for Food Program was intended to provide humanitarian relief for
+the Iraqi population, which faced severe hardship under the international trade sanctions
+that followed Iraqâs 1990 invasion of Kuwait. The Program permitted the Iraqi
+government to sell its crude oil and use the proceeds to purchase food, medicine, and
+critical infrastructure supplies. The proceeds of the oil sales were transferred directly
+from the buyers to an escrow account (the âU.N. Escrow Accountâ) maintained in New
+York by the United Nations 661 Committee. Funds in the U.N. Escrow Account were
+available for the purchase of humanitarian supplies, subject to U.N. approval and
+supervision. The intent of this structure was to prevent the proceeds of Iraqâs crude oil
+sales from undermining the sanctions regime by supplying cash to Saddam Hussein.
+
+66. Comuption was rampant within the Program. By mid-2000, Iraqi
+ministries on the instruction of top government officials instituted a policy requiring
+suppliers of humanitarian goods to pay a ten percent kickback on each contract. This
+
+kickback requirement was euphemistically referred to as an âafter-sales serviceâ fee
+
+28
+(âASSFâ); however, no services were provided. Suppliers competing to obtain contracts
+under the Program were encouraged to include a ten percent markup in their bids or
+purchase orders. The inflated contract prices were incorporated into the Oil for Food
+contracts as a way to permit the suppliers to recover from the U.N. Escrow Account the
+kickback payments they had paid secretly to Iraq. Following the 2004 release of a report
+by the U.S. General Accounting Office exposing some of the abuses, the U.N.
+commissioned an independent inquiry committee, headed by former Federal Reserve
+Chairman Paul Volcker (the âVolcker Committeeâ), to investigate the Programâs
+performance. That committeeâs October 27, 2005, final report estimated that the Iraqi
+government had diverted $1.7 billion in illicit income from the Program.
+
+1. Siemensâ Involvement in the Oil for Food Program
+
+67. Siemens participated in the Program through two of its regional
+companies, Siemens S.A.S. (âSiemens Franceâ) and Siemens Sanayi ve Ticaret A.S.
+(âSiemens Turkeyâ) and two subsidiaries, Osram Middle East FZE (âOsram MEâ) and
+Gas Turbine Technologies SpA (âGTTâ). In total, 42 Oil for Food contracts were entered
+into, and secret kickback payments of approximately $1.7 million were made to Iraqi
+controlled accounts in order to avoid detection by the U.N. Total revenues on the
+contracts were over $124 million with profits of approximately $38,226,537. The
+payments were characterized as after sales service fees; however, no services were
+actually rendered. The ASSFs were effectively bribes paid to the Iraqi regime, which
+Siemens improperly disguised on its books and records by mischaracterizing the bribes as
+
+legitimate commissions.
+
+29
+2. Siemens France .
+
+68. From approximately September 2000 to July 2001, Siemens France
+entered into twelve contracts covering power station renovation, servicing and spare parts
+with the Iraqi Ministry of Electricity and paid illicit ASSF s of approximately $321,745.
+The contracts were artificially inflated by 10% and then submitted to the U.N. for
+payment. The U.N. was not informed that the contracts had been inflated or that Siemens
+France intended to pay illicit kickbacks to Iraq.
+
+69. For instance, in July 2000 Siemens submitted a bid for the refurbishment
+of cranes at the Daura Power Station in Iraq. The purchase order was subsequently
+signed in November 2000, and included a 10% increase in the contract value. Shortly
+thereafter, in January 2001, Siemens signed a Supplement to its business consultant |
+agreement with its local agent in Iraq providing for a 10% commission to the agent for
+âafter sales services and activities.â The document was unusual because it provided a
+higher agent compensation than was usually provided on such contracts; it was
+âinconsistent with Siemensâ practiceâ which required specification and pricing of any
+true after sales services; and because there was only one Siemens signatory on the
+contract. In various letters and memoranda, one former Siemens salesman documented
+discussions that he had with Iraqi officials regarding the requirement of ASSFs. Ina
+memorandum written by another Siemens employee discussing how to make the ASSF
+payments, the employee stated that Siemensâ agent in Iraq told him that another Siemens
+subsidiary, Siemens Turkey, had chosen to pay ASSFs in cash âso that no names appear
+
+on paper.â
+
+30
+70. Siemens France used a local agent in Iraq to deposit the ASSF payments
+in cash into a Jordanian bank account held by two Iraqi officials, which were later
+transferred to an account controlled by the Iraqi Ministry of Electricity. The local agent
+confirmed the bank deposits were made on behalf of Siemens and bank records reflect the
+payments. When making the ASSF payments, the local agent used the name of an
+acquaintance who did not work for Siemens so as to conceal his true identity.
+
+3. Siemens Turkey
+
+71. From approximately September 2000 to June 2002, Siemens Turkey
+entered into twenty contracts relating to the building and rehabilitation of power stations,
+and paid after sales service fees totaling approximately $1,243,119. Many aspects of
+Siemens Turkeyâs involvement in the Oil for Food Program were similar to those of
+- Siemens France. Both companies used the same local agent in Iraq and both dealt
+principally with the Ministry of Electricity in their payment of illicit ASSFs. As
+described above, a Siemens employee stated that the agent informed him that Siemens
+Turkey was paying ASSFs in cash âso that no names appear on paper.â Siemens? local
+agent also deposited some ASSFs into a Jordanian bank account controlled by Iraqi
+| officials.
+
+4. Osram Middle East
+
+72. From approximately May 2000 to June 2002, Osram Middle East
+(âOsramâ), a Siemens subsidiary, entered into six contracts with state companies within
+the Ministry of Oil, and paid ASSFs of approximately $89,250 for the sale of lighting
+equipment. Osram employees admitted that Siemensâ local agent relayed the Ministry of
+
+Oilâs demand for ASSFs sometime in late 2000. On three of the contracts, Osram entered
+
+31
+into secret side agreements agreeing to pay a 10% kickback to the Iraqi ministry. The
+local agent signed each of the side letters on Osramâs behalf. The contracts between
+Osram and the Ministry of Oil typically contained a 10% markup for ASSFs. The
+inflated contracts were submitted to the U.N. for approval, but the U.N. was not informed
+that the contracts were inflated and the side letters were not disclosed. The agent
+admitted that he made the ASSF payments to Jordanian bank accounts held for the
+benefit of the Iraqi Ministry of Oil on Osramâs behalf.
+
+5. GIT
+
+73. Beginning in 2001, GTT entered into four contracts with the Ministry of
+Electricity in which ASSFs of $81,962 were paid. For each contract, the value of the
+contract was increased by approximately 10% between the submission of the initial bid
+and the signing of the purchase order. GIT employees admit to the ASSF kickback
+scheme, and documents reflect that GITâs agent in Iraq informed GTT that ASSF
+payments were a condition to obtaining contracts. Though all of the contracts were
+signed before 2003, none were performed before the start of the Iraqi war. After the war
+began, the U.N asked GTT to amend each contract to decrease its value by the 10%
+ASSF. | |
+F. Siemens Employed U.S. Means to Engage in Bribery
+
+74. In total, Siemens made bribe payments directly or indirectly to foreign
+government officials in connection with at least 290 projects or individual sales involving
+business in Venezuela, China, Israel, Bangladesh, Nigeria, Argentina, Vietnam, Russia,
+and Mexico that employed the mails and other means and instrumentalities of U.S.
+
+interstate commerce. The corrupt payments were made to government officials or their
+
+32
+designees for the purpose of obtaining or retaining business in connection to the above
+projects. The use of interstate commerce in connection with bribery included involving
+U.S.-based Siemens subsidiaries and their employees in the bribery schemes; financing of
+three underlying projects by the World Bank and the U.S. Export-Import Bank; making
+illegal payments through U.S. banks; using US.-based companies as intermediaries,
+business consultants, and holders of slush funds; conducting meetings in the United
+States in furtherance of a bribery scheme; and transmitting mail, electronic mail, and
+facsimile messages into and out of the United States.
+G. Siemens Failed to Maintain Its Books and Records
+
+75. During the Relevant Period, Siemens made thousands of payments to third
+parties in ways that obscured the purpose for, and the ultimate recipients of, the |
+payments. In particular, Siemens paid approximately $1.4 billion in bribes to foreign
+government officials. Doing so involved the falsification of Siemensâ books and records
+by employees throughout the Company. Specifically, Siemens failed to keep accurate
+books and records by: 1) establishing and funding secret, off-books accounts; 2)
+establishing and using a system of payment intermediaries to obscure the source and
+destination of funds; 3) making payments pursuant to business consultant agreements that
+inaccurately described the services provided; 4) generating false invoices and other false
+documents to justify payments; 5) disbursing millions in cash from cash desks with
+inaccurate documentation authorizing or supporting the withdrawals; 6) using post-it
+notes for the purpose of concealing the identity of persons authorizing illicit payments;
+
+7) recording illicit ASSF payments as legitimate commissions in Oil for Food
+
+33
+transactions; 8) falsifying U.N. documents in connection with the Oil for Food Program;
+and 9) recording bribes as payment for legitimate services. | |
+H. â Siemens Failed to Maintain Adequate Internal Controls
+
+76.. Siemens failed to implement adequate internal controls to comply with the
+Companyâs NYSE listing, including the detection and prevention of violations of the
+FCPA. First, Siemens engaged in the knowing falsification of books and records.
+Siemens established numerous off-books accounts and secret slush funds for the purpose
+of obscuring the purpose for, and ultimate recipient of, illicit payments. Elaborate
+payment mechanisms were used to conceal the fact that bribe payments were made
+around the globe to obtain business, including the PG confidential payment system and
+extensive use of business consultants and intermediaries to funnel bribes. False invoices
+and payment documentation was created to make payments to business consultants under
+false business consultant agreements that identified services that were never intended to
+be rendered. Illicit payments were falsely recorded as expenses for management fees,
+consulting fees, supply contracts, room preparation fees, and commissions. Documents
+related to its participation in the Oil for Food Program were also inaccurate. Siemens
+inflated U.N. contracts, signed side agreements with Iraqi ministries that were not
+disclosed to the U.N., and recorded the ASSF payments as legitimate commissions
+despite U.N., U.S., and international sanctions against such payments.
+
+77. Second, Siemens employees routinely circumvented the internal controls
+the Company had in place. Slush funds were opened in the names of former and current
+employees and maintained off-books. At any given point, Siemens had no central record
+
+_of the true number of bank accounts opened on its behalf, from which, millions in illicit
+
+34
+payments were made. Despite a âfour-eyesâ policy that required two signatures on
+â Company documents to authorize transactions, a significant number of business
+consultant agreements were entered into and a significant number of payments were
+authorized in violation of the policy. In many instances, signatures authorizing the
+withdrawal of hundreds of thousands of dollars from cash desks were placed on post-it
+notes and later removed in order to eradicate any permanent record of the approvals. In
+numerous instances, officials signing documents failed to conduct any review of the
+documents. For example, an official who authorized payments on behalf of Siemensâ
+Russian regional subsidiary authorized payments despite his inability to read the
+language in which the supporting documentation of the payments were prepared.
+Siemens officials frequently misused internal accounts by transferring money from-one
+Siemens entity to another without any legitimate business purpose or proper
+documentation of the disposition of the funds. Siemens officials modified the format of
+agreements to avoid internal controls on the use of business consultants by backdating
+agreements, misidentifying counterparties as âagentsâ rather than âbusiness consultants,â
+and obscuring the amounts paid to business consultants by splitting the payments among
+separate agreements. |
+
+78. Finally, Siemens failed to establish adequate internal controls despite its
+knowledge that corruption was rampant. Siemens did not issue mandatory and
+comprehensive Company-wide controls regarding the use of business consultants until
+June 2005, well after senior officials were aware of widespread bribery in the Companyâs
+two largest divisions, COM and PG. Despite those controls, due diligence on business
+
+consultants remained largely inadequate, and payments continued to be made without
+
+35
+adequate proof of services rendered. Siemens failed to establish controls over numerous
+off-books accounts held on its behalf around the world. The Company maintained no
+central list of corporate accounts held at unconsolidated entities or in the names of
+individual Siemens officials. Siemens failed to establish controls over cash
+disbursements, allowed manual payments without documentation, and failed to ensure the
+proper use of intercompany accounts. Siemens failed to establish an effective central
+compliance function. The compliance office lacked independence and was severely
+understaffed. Siemens tone at the top was inadequate for a law abiding entity, and
+
+| employees engaged in bribery and other misconduct on behalf of the Company were not
+| adequately disciplined. Siemens also failed to conduct appropriate anti-bribery and
+corruption training.
+
+CLAIMS FOR RELIEF
+FIRST CLAIM
+[Violations of Section 30A of the Exchange Act] '
+
+Paragraphs 1 through 78 are realleged and incorporated by reference. .
+
+79. As described above, Siemens, through its officers, agents, and
+subsidiaries, corruptly offered, promised to pay, or authorized payments to one or more
+persons, while knowing that all or a portion of those payments would be offered, given, â
+or promised, directly or indirectly, to foreign officials for the purpose of influencing their
+acts or decisions in their official capacity, inducing them to do or omit to do actions in
+violation of their official duties, securing an improper advantage, or inducing such
+foreign officials to use their influence with foreign governments or instrumentalities
+
+thereof to assist Siemens in obtaining or retaining business.
+
+36
+80. | By reason of the foregoing, Siemens violated, and unless enjoined will
+
+continue to violate, Section 30A of the Exchange Act. [15 U.S.C. Â§ 78dd-1]
+SECOND CLAIM |
+[Violations of Section 13(b)(2)(A) of the Exchange Act]
+
+Paragraphs 1 through 80 are realleged and incorporated by reference.
+
+81. | Asdescribed above, Siemens, through its officers, agents and subsidiaries,
+failed to keep books, records, and accounts, which, in reasonable detail, accurately and
+fairly reflected its transactions and dispositions of its assets.
+
+82. By reason of the foregoing, Siemens violated, and unless enjoined will
+continue to violate, Section 13(b)(2)(A) of the Exchange Act. [15 U.S.C.
+
+Â§ 78m(b)(2)(A)] -
+THIRD CLAIM
+[Violations of Section 13(b)(2)(B) of the Exchange Act]
+
+Paragraphs 1 through 82 are realleged and incorporated by reference.
+
+83. As described above, Siemens failed to devise and maintain a system of
+internal accounting controls sufficient to provide reasonable assurances that:
+
+. (i) transactions were executed in accordance with managementâs general or specific
+authorization; and (ii) transactions were recorded as necessary (I) to permit preparation of
+financial statements in conformity with generally accepted accounting principles or any
+other criteria applicable to such statements, and (ID) to maintain accountability for its
+
+assets.
+
+37
+84. By reason of the foregoing, Siemens violated, and unless enjoined will
+
+continue to violate, Section 13(b)(2)(B) of the Exchange Act. [15 U.S.C.
+
+Â§ Â§78m(b)2)B)]
+
+| PRAYER FOR RELIEF
+
+WHEREFORE, the Commission respectfully requests that this Court enter a final
+judgment:
+
+A. Permanently restraining and enjoining Siemens from violating Sections
+30A, 13(b)(2)(A) and 13(b)(2XB) of the Exchange Act [15 US.C. Â§Â§ 78dd-1,
+78m(b)(2)(A), and 78m(b)2)B))s |
+
+, B. Ordering Siemens to disgorge ill-gotten gains wrongfully obtained as a
+result of its illegal conduct; and
+
+Cc. Granting such further relief as the Court may deem just and appropriate.
+
+Dated: Lee /Z, 2008
+
+Respectfully submitted,
+
+Ch LiiaLen
+Cheryl J. 8Â¢arboro (D.C. Bar No. 422175)
+
+Reid A. Muoio
+Tracy L. Price
+Denise Hansberry
+Robert I. Dodge â
+
+ 
+
+Attorneys for Plaintiff, -
+
+U.S. Securities and Exchange Commission
+100 F Street, NE ,
+Mail Stop 6030 SPII
+
+Washington, DC 20549-6030
+
+(202) 551-4403 (Scarboro)
+
+38

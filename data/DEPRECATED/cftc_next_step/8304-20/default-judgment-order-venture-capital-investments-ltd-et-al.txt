@@ -1,0 +1,530 @@
+Case 1:20-cy-O0882-DDD-MEH Bocument 30 Filed 11/02/20 USDC Colorada Page laf i4
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLORADO
+Judge Daniel D. Domenico
+
+Civil Action No. 1:20-cv-00382-DDD-MEH
+COMMODITY FUTURES TRADING COMMISSION,
+
+Plaintiff,
+
+VENTURE CAPITAL INVESTMENTS LTD, and BREONNA S.
+CLARK,
+
+Defendant.
+
+ORDER GRANTING
+MOTION FOR DEFAULT JUDGMENT
+
+BACKGROUND
+
+Because this case is before the court on the Commission’s motion for entry of
+default judgment and Defendants have failed to answer or otherwise respond to the
+complaint, the court deems as true the material well-pleaded allegations in the
+complaint. Pers. Indus. Loan Corp. v. Forgay, 240 F.2d 18, 20 (10th Cir. 1956) (“By
+failing to appear and permitting a default judgment to be entered, [the defendant]
+admitted only facts well pleaded.”’). “In addition, the court accepts the undisputed
+facts set forth in any affidavits and exhibits.” Purzel Video GmbH v. Biby, 13 F.
+Supp. 3d 1127, 1135 (D. Colo. 2014).
+
+This case arises from Defendants’ fraudulent solicitations of seventytwo
+participants to trade foreign and electronic currencies (also known as “forex”),
+including Bitcoin and Altcoin in a commodity pool operated by Defendants.
+
+Compl., Doc. 1 at { 24. A “commodity pool” sounds like what it is: an entity formed
+
+-l-
+Case 1:20-cy-O0882-DDD-MEH Bocument 30 Filed 11/02/20 USDC Colorada Page 2 af 14
+
+to trade commodity interests, see 7 U.S.C. § la(10). Defendants found pool
+participants through social media, email, webinars, and face-to-face meetings. Id.
+A commodity pool isn’t necessarily illegal, but this one was. Defendants ultimately
+solicited $535,829 from the pool participants, misappropriating $450,302 of that
+sum for personal use and, in a small-time imitation of a Bernie-MadoffPonzi
+scheme, for making payments to pool members so it appeared as though the pool
+
+was profitable. Id.
+
+In the course of operating their fraudulent commodity pool, Defendants made
+numerous false statements of their experience and expertise in foreign and virtual
+currencies like Bitcoin. In October 2018, Defendants told a prospective pool
+participant that Defendants employed a “master team of traders [who could] execute
+the Foreign Exchange markets with precision and accuracy.” Id. at { 25. Earlier that
+year, Defendants posted on Facebook that in “investing in Venture you could yield
+[a] 12-16% [return] per month.” Id. Other times they promised an “18% weekly”
+return on “crypto investments” and as much as a “21%” return on investment from
+Venture Capital. Id. In reality, Clark had little to no trading experience, Venture
+Capital had no team of highly experienced traders, and the pool money actually
+
+traded by Venture Capital and Ms. Clark was lost. Id. at {{] 27-30.
+
+Defendants misrepresented the risk of investing in cryptocurrency to pool
+participants. In April 2018, Defendants told prospective pool members that, if they
+joined the pool, they would receive a “capital lock,” which would ensure the capital
+they invested would be protected from loss. Id. at | 32. Defendants reiterated this
+
+misrepresentation to potential pool participants in October 2018. Id.
+
+Defendants’ misrepresentations were successful—a total of seventytwo pool
+participants sent $534,829 to Defendants’ bank accounts. Id. at {| 35. Of this,
+Defendants invested $121,165 in cryptocurrency trades that lost approximately
+$84,000. Id. at { 36. With the remaining $450,302, Ms. Clark purchased a car,
+
+jewelry, and other personal items, and made payments to pool members so it
+Case 1:20-cy-00882-DDD-MEH OGocument30 Filed 11/02/20 USOC Colorada Page 3 of 14
+
+appeared as though the commodity pool was profitable. Id. at {| 37. Defendants’
+concealed their scheme by sending out falsified account statements that showed
+trading gains. Id. at {| 38. One of these account statements reported a 67-percent
+return over a fourteen-week period. Id. Another account statement showed a 26-
+percent return over the last month. Id. When several pool participants requested to
+withdraw their funds, Ms. Clark falsely told them that an ongoing “CFTC audit”
+
+prevented her from permitting withdrawal. Id. at J 41.
+
+After investigation, the Commission filed this suit against Venture Capital and
+Ms. Clark on February 14, 2020, asserting four claims under the Commodity
+
+Exchange Act:
+
+(1) fraud by a community pool operator or community trade advisor in violations
+
+of 7 U.S.C. § 60(1);
+(2) fraud by deceptive device in violations of 7 U.S.C. § 9(1);
+
+(3) failure to register as a community pool operator in violations of 7
+U.S.C. § 6(m)(1) and provisions implementing regulation, 17
+C.F.R. § 5.3 (a)(2)(i); and
+
+(4) failure to register as a community trade advisor in violations of 7
+U.S.C. § 6m(1) and that provision’s implementing regulation, 17
+C.E.R. § 5.3(a)(3)(i).
+
+Doc. 1. On February 18, 2020, Venture Capital and Ms. Clark were served with the
+summons and the complaint. Docs. 6, 8, 10. Venture Capital’s service agent was
+served on February 28, 2020. Doc. 7. Despite being served, Venture Capital and
+Ms. Clark did not answer or otherwise respond to the complaint, so the Commission
+moved the clerk of court for an entry of default against the Defendants. Doc. 12.
+The clerk entered default against Ms. Clark on March 17, 2020, and against Venture
+Capital on March 23, 2020. Docs. 13, 21. The Commission then moved for the now-
+
+pending motion for entry of default judgment. Doc.
+
+-3-
+Case 1:20-cy-O0882-DDD-MEH Bocument 30 Filed 11/02/20 USDC Colorada Page 4 af 14
+
+29.
+
+ANALYSIS
+
+Under Rule 55(b), after the clerk enters default, a court must enter a default
+judgment against a party that has failed to plead or otherwise defend an action
+brought against it. Default judgment may be entered by the clerk if the claim is for
+a “sum certain,” Fed. R. Civ. P. 55(b)(1), but in all other cases, “the party must
+apply to the court for a default judgment.” Fed. R. Civ. P. 55(b)(2). The purpose of
+a default judgment is to protect a diligent party against an unresponsive adversary.
+
+In re Rains, 946 F.2d 731, 732-33 (10th Cir. 1991).
+
+1. Jurisdiction
+
+Before a court can enter default judgment it must ensure it has jurisdiction over
+the matter. Dennis Garberg & Assocs., Inc. v. Pack-Tech Int’! Corp., 115 F.3d 767,
+771 (10th Cir. 1997). The Court has subject matter jurisdiction under 28 U.S.C. §
+1331, which grants jurisdiction to federal courts over questions “arising under”
+federal law, and 28 U.S.C. § 1345, which grants federal district courts jurisdiction
+over civil suits “commenced by the United States.” All of the Commission’s claims
+are asserted under federal statutes or regulations, and this is a civil suit filed by the
+
+United States.
+
+The Court also has personal jurisdiction over Defendants. The moving party
+bears the burden of proof to show that the Court has jurisdiction over Defendants
+under Colorado’s long-arm statute and that they have minimum contacts with the
+state. Dennis, 115 F.3d at 771. But in the context of a motion for default judgment,
+the petitioner’s burden is a minimal one: the petitioner “need only make a prima
+facie showing on these two questions if the motion is decided only on the basis the
+parties’ affidavits and other written materials,” as it is here. Id.; see also Fed.
+
+Deposit Ins. Corp. v. Oaklawn Apartments, 959 F.2d 170, 174 (10th Cir. 1992)
+Case 1:20-cy-O0882-DDD-MEH Bocument 30 Filed 11/02/20 USDC Colorada Page 5 af 14
+
+(explaining that well-pleaded allegations in complaint are accepted as true for
+
+purposes of determining personal jurisdiction at pleading stage).
+
+The complaint satisfies this standard. It alleges that Ms. Clark is a resident of
+Colorado and that she is the control-person of Venture Capital which is also located
+and incorporated in Colorado. Doc. 1| at §{[ 11— 12. This is sufficient for the Court
+to exercise general personal jurisdiction over a defendant. Daimler AG v. Bauman,
+571 U.S. 117, 137 (2014) (“With respect to a corporation, the place of incorporation
+and principal place of business are paradigm bases for general jurisdiction.”
+(alterations adopted; citations omitted)); Goodyear Dunlop Tires Operations, S.A.
+v. Brown, 564 U.S. 915, 924 (2011) (“For an individual, the paradigm forum for
+
+the exercise of general jurisdiction is the individual’s domicile.”’).
+
+Il. Entry of Default Judgment
+
+Having assured it has jurisdiction over this matter, the court must decide “whether
+the unchallenged facts constitute a legitimate cause of action” such that a judgment
+should be entered. Bixler v. Foster, 596 F.3d 751, 762 (10th Cir. 2010) (quoting
+10A Charles A. Wright, Arthur
+
+R. Miller & Mary K. Kane, Fed. Prac. & Proc. § 2688, at 63 (3d ed. 1998)). “There
+must be a sufficient basis in the pleadings for the judgment entered.” Id. (quoting
+Nishimatsu Constr. Co. v. Houston Nat’] Bank, 515 F.2d 1200, 1206 (5th Cir.
+1975)). “A party is not entitled to a default judgment as of right; rather the entry of
+a default judgment is entrusted to the ‘sound judicial discretion’ of the court.”
+Greenwich Ins. Co. v. Daniel Law Firm, No. 07-cv-2445- LTB-MJW, 2008 WL
+793606, at *2 (D. Colo. Mar. 22, 2008) (quoting Cablevision of S. Conn., Ltd.
+P’ship v. Smith, 141 F. Supp. 2d 277, 281 (D. Conn. 2001)).
+
+On review of a motion for default judgment, if default was properly entered, the
+moving party enjoys the benefit of deferential pleading interpretation. See Olcott v.
+Del. Flood Co., 327 F.3d 1115, 1125 (10th Cir. 2003). The court deems the well-
+pleaded facts of the complaint to be true. Vibe Tech., LLC v. Suddath, No. 06-cv-
+
+_5-
+Case 1:20-cy-00882-DDD-MEH OGocument30 Filed 11/02/20 USOC Colorada Page 6 of 14
+
+00812, 2009 WL 2055186, at *1 (D. Colo. 2009) (citing Dundee Cement Co. v.
+Howard Pipe & Concrete Prods., Inc., 722 F.2d 1319, 1323 (7th Cir. 1983)).
+Undisputed facts set forth by the moving party in affidavits and exhibits are also
+
+accepted as true. Id.
+
+A. Count I: Fraud by a community pool operator or community trade
+advisor in violations of 7 U.S.C. § 60(1)
+
+7 U.S.C. § 60(1), makes it unlawful for a commodity trading advisor,
+associated person of a commodity trading advisor, commodity pool
+operator, or associated person of a commodity pool operator, by use
+of the mails or any means or instrumentality of interstate commerce,
+
+directly or indirectly--
+
+(A) — to employ any device, scheme, or artifice to defraud
+any client or participant or prospective client or participant; or
+
+(B) to engage in any transaction, practice, or course of
+business which operates as a fraud or deceit upon any client or
+participant or prospective client or participant.
+
+Id. To be entitled to a default judgment, the undisputed facts must show that (1)
+Defendants were commodity trading advisors, commodity pool operators, or
+persons associated with them; (2) used an instrumentality of interstate commerce;
+(3) to make material misrepresentations; (4) with scienter; (5) in connection with
+the purchase or sale of a commodity. U.S. Commodity Futures Trading Comm’n v.
+Wilson, 19 F. Supp. 3d 352, 363 (D. Mass. 2014) (“The same intentional or reckless
+misappropriations, misrepresentations, and omissions of material fact violative of
+section [6]b of the Act ... also violate section [6]o(1)(A)-(B) of the Act.” (quoting
+CFTC v. Driver, 877 F.Supp.2d 968, 978 (C.D. Cal. 2012)), aff'd sub nom.
+Commodity Futures Trading Comm’n v. JBW Capital, 812 F.3d 98 (1st Cir. 2016);
+see also Stotler & Co. v. Commodity Futures Trading Comm’n, 855 F.2d 1288,
+1291 (7th Cir. 1988) (“Section 40 is a parallel statute forbidding fraud and
+
+misrepresentation by commodity trading advisors.”). Each element is present here.
+Case 1:20-cy-O0882-DDD-MEH Bocument 30 Filed 11/02/20 USDC Colorada Page ? af i4
+
+The undisputed facts show Ms. Clark meets the definition of “commodity trading
+advisor.” A commodity trading advisor is a person who “for compensation or profit,
+engages in the business of advising others, either directly or through publications,
+writings, or electronic media, as to the value of or the advisability of trading in”
+commodities. 7 U.S.C. § 1a(12)(A). Notably, a person need not be registered as a
+commodity trading advisor with the commission to be considered a commodity
+trading advisor. Id. It is undisputed that advised pool members directly and
+indirectly in the purchase and sale of foreign and virtual currencies. She thus acted
+as a commodity trading advisor.
+
+The undisputed facts likewise show that Venture Capital meets the definition of
+“commodity pool operator.” A “commodity pool operator” is a person “engaged in
+a business that is of the nature of a commodity pool, investment trust, syndicate, or
+similar form of enterprise, and who, in connection therewith, solicits, accepts, or
+receives from others, funds, securities, or property . . . for the purpose of trading in
+commodity interests.” 7 U.S.C. § la(11)(A). Notably, a person need not be
+registered as a commodity pool operator with the Commission to be considered a
+commodity pool operator. Id. Here, it is undisputed that Venture Capital operated
+a commodity pool whose purpose was to trade foreign currency and virtual
+currencies. This element is thus satisfied.
+
+The remaining elements are also present. Defendants used instrumentalities of
+interstate commerce to accomplish their scheme— namely, email and social media.
+See Utah Lighthouse Ministry v. Found. for Apologetic Info. & Research, 527 F.3d
+1045, 1054 (10th Cir. 2008) (“We agree that the Internet is generally an
+instrumentality of interstate commerce.”). They engaged in fraudulent conduct in
+relation to the sale of commodities. Among other things, Defendants (1)
+misrepresented their expertise and experience in trading foreign and virtual
+currencies; (2) misappropriated pool participants’ funds; and (3) created false
+account statements it distributed to plan participants. This kind of conduct violates
+the Section 60 of the Commodity Exchange Act. Commodity Futures Trading
+Comm’n v. Schafer, No. CIV.A. H-96-1213, 1997 WL 33547409, at *8 (S.D. Tex.
+
+-7-
+Case 1:20-cy-O0882-DDD-MEH Bocument 30 Filed 11/02/20 USDC Colorada Page 8 af 14
+
+Dec. 23, 1997) (“Accordingly, it is generally well-understood that providing false
+or misleading account statements or misrepresenting other material facts constitutes
+fraud under Section
+
+4o of the CEA.” (citing Commodity Futures Trading Comm’n v.
+Schroeder, Comm. Fut. L. Rep. (CCH) J 22, 394 at 29,805 (D. Kan. Sept.
+
+28, 1984)); see also U.S. Commodity Futures Trading Comm’n v. Driver, 877 F.
+Supp. 2d 968, 978 (C.D. Cal. 2012) (“Actionable misrepresentations include those
+made to customers when soliciting their funds.”), aff'd sub nom. Commodity
+Futures Trading Comm’n v. Driver, 585 F. App’x 366 (9th Cir. 2014).
+
+The undisputed facts thus demonstrate that Defendants violated 7 U.S.C. § 60.
+
+B. Count II: Fraud by deceptive device in violations of 7 U.S.C. § 9(1)
+and 17 C.F.R. § 180.1(a)
+
+In Count IT, the Commission alleges that Defendants violated 7
+
+U.S.C. § 9(1), and 17 C.F.R. § 180.1(a) by fraudulently deceiving pool members.
+Under 7 U.S.C. § 9(1), it is unlawful for any person to
+
+use or employ, or attempt to use or employ, in connection with any
+swap, or acontract of sale of any commodity in interstate commerce,
+or for future delivery on or subject to the rules of any registered
+entity, any manipulative or deceptive device or contrivance, in
+contravention of such rules and regulations as the Commission shall
+promulgate.
+
+And as pertinent here, 17 C.F.R. § 180.1(a) makes it
+
+unlawful for any person, directly or indirectly, in connection with
+any swap, or contract of sale of any commodity in interstate
+commerce, or contract for future delivery on or subject to the rules
+of any registered entity, to intentionally or recklessly use or employ,
+or attempt to use or employ, any manipulative device, scheme, or
+artifice to defraud; make, or attempt to make, any untrue or
+misleading statement of a material fact or to omit to state a material
+fact necessary in order to make the statements made not untrue or
+misleading; or engage, or attempt to engage, in any act, practice, or
+course of business, which operates or would operate as a fraud or
+deceit upon any person.
+Case 1:20-cy-O0882-DDD-MEH Bocument 30 Filed 11/02/20 USDC Colorada Page 9 af i4
+
+“To prove a violations of ...7 U.S.C. § 9(1)[] and Regulation 180.1(a), 17
+
+C.F.R. § 180.1(a) .. . , the Commission must show that Defendants engaged in
+prohibited conduct (ie., employed a fraudulent scheme; made a material
+misrepresentation, misleading statement[,] or deceptive omission; or engaged in a
+business practice that operated as a fraud); with scienter; and in connection with a
+contract of sale of a commodity in interstate commerce.” Commodity Futures
+Trading Comm’n v. McDonnell, 332 F. Supp. 3d 641, 717 (E.D.N.Y. 2018) (citing
+See CFTC
+
+v. McDonnell, 287 F.Supp.3d 213, 226 (E.D.N.Y. 2018); CFTC v. S. Tr. Metals,
+Inc., 894 F.3d 1313, 1325 (11th Cir. 2018); CFTC v. Hunter Wise Commodities,
+LLC, 21 F.Supp.3d 1317, 1347 (S.D. Fla. 2014)). Here, the undisputed facts
+
+establish each element.
+
+The facts show that Defendants used a deceptive device or contrivance in
+connection with the sale of a commodity in interstate commerce by
+misappropriating pool-member funds to purchase electronic currencies like Bitcoin.
+See McDonnell, 332 F.Supp.3d at 717-19, 723 (finding defendant violated 7 U.S.C.
+§ 91) and 17 C.F.R. § 180.1(a) by misappropriating funds and making
+misrepresentations); see also Commodity Futures Trading Comm’n v. My Big Coin
+Pay, Inc., 334 F. Supp. 3d 492, 498 (D. Mass. 2018) (collecting cases and noting
+that bitcoin is a commodity within the meaning of 9 U.S.C. § 9(1)). As described
+above, Defendants likewise misrepresented their expertise in trading electronic
+currencies, misappropriated pool participant funds, and lied about the profitability
+of the pool. And the facts show that they acted with scienter. They knew, for
+example, that the account statements they issued were false. The undisputed facts
+
+establish a violations of Section 9(1).
+
+C. Counts III and IV: Failure to register as a commodity pool operator
+or a commodity trade advisor in violations of 7 U.S.C. § 6(m)(1), and
+17 C_F.R. §§ 5.3 (a)(2)(i) and 5.3(a)(3)(@)
+Case 1:20-cvy-O0882-DDD-MEH Bocument 30 Filed 11/02/20 USDC Colorada Page 10 of 14
+
+7 U.S.C. § 6m(1) makes it unlawful for any Commodity Pool Operator or
+Commodity Trade Advisor to make use of the mails or any means or instrumentality
+of interstate commerce in connection with its business unless it is registered with
+the Commission. Count three of the complaint alleges that Ms. Clark and Venture
+Capital operated as an unregistered Commodity Pool Operators. And Count Four
+of the Complaint alleges that Ms. Clark operated as an unregistered Commodity
+
+Trade Advisor. The Commission is entitled to default judgment on these claims.
+
+17 C.F.R. § 5.3(a)(2)() makes it unlawful for any Commodity Pool Operator
+engaged in retail foreign-exchange transactions defined in 17 C.F.R. § 5.1(d)(1), to
+act as a Commodity Pool Operator without being registered. As pertinent here, 17
+C.F.R. § 5.1(d)(1) defines a Commodity Pool Operator as “any person who operates
+or solicits funds, securities, or property for a pooled investment vehicle . . . that
+engages in retail forex transactions.” The undisputed facts show that from March 1
+to April 2, 2018 and again from October 17, 2018 to June 30, 2019, Ms. Clark acted
+as aCommodity Pool Operator by soliciting funds for the pool and trading the funds
+in the pool. Compl. at §{[ 18-20, 24. Venture Capital performed the same function
+from April 3, 2018 to October 17, 2018, VCI acted as a CPO. Id. at Jf 20, 22.
+
+17 C.F.R. § 5.3(a)(3)G) makes it unlawful for any Commodity Trade Adviser
+engaged in foreign-exchange transactions to do so without being registered with the
+Commission. As explained above, Ms. Clark meets the definition of Commodity
+Trading Advisor and she wasn’t registered as such with the Commission. Compl.
+at { 49. The undisputed facts thus establish that the Commission is entitled to a
+
+default judgment on Counts Three and Four of the Complaint.
+Ii. Entitlement to Relief
+
+Even if a plaintiff has a legal basis for relief, a default judgment cannot be entered
+until the amount of damages or the entitlement to injunctive relief has been
+ascertained. See Herzfeld v. Parker, 100 F.R.D. 770,773 (D. Colo. 1984). Pursuant
+
+to Fed. R. Civ. P. 54(c), “[a] default judgment must not differ in kind from, or
+
+-10-
+Case 1:20-cy-O0882-DDD-MEH Bocument 30 Filed 11/02/20 USDC Colorada Page li of 14
+
+exceed in amount, what is demanded in the pleadings.” The Commission seeks (1)
+
+an injunction; (2) restitution; (3) a civil monetary penalty; and (4) costs.
+
+A. Injunctive Relief
+
+7 U.S.C. § 13a-1(a) empowers the court to enter an injunction in an action brought
+by the Commission. Id. (“Whenever it shall appear to the Commission that any
+person has engaged [in activity] constituting a violations of any provision of this
+chapter or any rule thereunder the Commission may bring an action to enjoin such
+act’) (internal omissions and ellipses omitted); see also 7 U.S.C. § 13a-1(b)(“* Upon
+a proper showing, a permanent or temporary injunction or restraining order shall be
+granted without bond.”). “An injunction prohibiting a party from engaging in
+conduct that violates the provisions of a statute is appropriate when there is a
+likelihood that, unless enjoined, the violations will continue.” Commodity Futures
+Trading Comm’n v. Am. Bd. of Trade, Inc., 803 F.2d 1242, 1250-51 (2d Cir. 1986)
+(citing CFTC v. Co Petro Marketing Group, Inc., 680 F.2d 573, 582 n. 16 (9th
+Cir.1982); SEC v. Holschuh, 694 F.2d 130, 144-45 (7th Cir. 1982)). “The
+traditional requirements for injunctive relief such as irreparable injury or
+inadequacy of other remedies are not required under § 13a—1, and the Commission
+need only show a likelihood of a violations.” Commodity Futures Trading Comm’n
+v. Clothier, 788 F. Supp. 490, 492-93 (D. Kan. 1992) (citations omitted). A district
+court may properly infer a likelihood of future violations from the defendant’s past
+
+unlawful conduct.” Am. Bd. of Trade, Inc., 803 F.2d at 1250-51.
+
+Under these standards, the Commission is entitled to an injunction. Defendants
+have committed fraud in connection with the operation of a commodity pool and
+have illegally operated an unregistered commodity pool, which is sufficient for the
+
+court to infer future illegal conduct along these lines.
+
+B. Restitution
+
+-ll-
+Case 1:20-cvy-O0882-DDD-MEH Document 30 Filed 11/02/20 USDC Colorada Page 12 of 14
+
+The court is empowered to award of restitution under the Commodity Exchange
+Act. 7 U.S.C. § 13a-1(d)(3) (“In any action brought under this section, the
+Commission may seek, and the court may impose, on a proper showing, on any
+person found in the action to have committed any violations, equitable remedies
+including restitution to persons who have sustained losses proximately caused by
+such violations (in the amount of such losses).”); see also Commodity Futures
+Trading Comm’n v. Kimberlynn Creek Ranch, Inc., 276 F.3d 187, 193 (4th Cir.
+2002) (“It is well settled that equitable remedies such as disgorgement are available
+to remedy violations of the CEA.”). “Generally, the amount of restitution in FTC
+consumer redress cases is the purchase price of the relevant product or business
+opportunity, less any refunds or money earned.” F.T.C. v. Nat’] Bus. Consultants,
+
+Inc., 781 F. Supp. 1136, 1143 (E.D. La. 1991).
+
+Based on the foregoing conduct of Defendants, the court will order restitution in
+the amount of $450,302, entailing deposits Defendants received ($534,829), less
+
+the amount Defendants repaid to their customers ($84,527).
+C. Civil Monetary Penalty
+
+The court is empowered to impose a civil monetary penalty under the Act
+“an the amount of not more than the greater of $100,000 or triple the monetary gain
+to the person for each violations.” 7 U.S.C. § 13al(d)(1)(A). The Commission
+Regulations adjust the statutory civil monetary penalty of $100,000 for inflation. 17
+C.F.R. § 143.8. For the period at issue here, the statutory civil monetary penalty is
+$185,242 for each violations. Id. “Civil penalties should be imposed to act as a
+deterrent, but should be proportional to the gravity of the offenses committed.”
+Commodity Futures Trading Comm’n v. Brockbank, 505 F. Supp. 2d 1169, 1177
+(D. Utah 2007), aff'd, 316 F. App’x 707 (10th Cir. 2008). While the Commission
+requests the maximum possible penalty—three times the amount Defendants gained
+for the conduct, or $1,350,906— the court deems this amount excessive in the light
+
+of its order for the Defendants to pay restitution. The court will order a civil
+
+-12-
+Case 1:20-cy-O0882-DDD-MEH Document 30 Filed 11/02/20 USDC Colorada Page 13 of 14
+
+monetary penalty in the amount of the gain Defendants received, or $450,302.! This
+
+amount is in addition to the restitution discussed above.
+
+CONLCUSION
+The Commission’s motion for entry of default judgment (Doc. 29) is
+GRANTED, and the clerk is directed to enter default judgment against
+Defendants in the principal sum of $900,604 and costs. It is FURTHER
+ORDERED that Defendants, their officers, agents, servants,
+
+ 
+
+employees, and attorneys, and any other persons who are in active concert or
+
+participation with them are permanently enjoined from engaging in:
+
+A. further violations of 7 U.S.C. 8§ 60(1)(A), (B), 6m(1), 9(1); and
+17 C.F.R. §§ 5.3(a)(2), (3), 180.1(a);
+
+B. entering into any transactions involving “commodity interests,” 17
+C.F.R. § 1.3, for their own personal account or for any account in which
+
+they, separately or together, have a direct or indirect interest;
+
+C. having any commodity futures, options on commodity futures,
+commodity options, security futures products, swaps, and/or forex
+
+contracts traded on their behalf, either separately or together;
+
+D. controlling or directing the trading for or on behalf of any other person
+
+or entity, whether by power of attorney or otherwise, in any account
+
+ 
+
+' The Commission also requests costs under 28 U.S.C. § 1920. The court grants
+that request. See Fed. R. Civ. P. 54(d) (“Unless a federal statute, these rules, or a
+court order provides otherwise, costs--other than attorney’s fees--should be allowed
+to the prevailing party.”).
+
+-13-
+Case 1:20-cv-00382-DDD-MEH Document 30 Filed 11/02/20 USDC Colorado Page 14 of 14
+
+involving commodity futures, options on commodity futures,
+commodity options, security futures products, swaps and/or forex
+
+contracts;
+
+E. soliciting, receiving or accepting any funds from any person for the
+purpose of purchasing or selling any commodity futures, options on
+commodity futures, commodity options, security futures products,
+
+swaps, and/or forex contracts;
+
+F. applying for registration or claiming exemption from registration with
+the Commission in any capacity, and engaging in any activity requiring
+such registration or exemption from registration with the Commission
+
+except as provided for in 17 C.F.R. § 4.14(a)(9); and/or
+
+A. acting as a principal, agent, officer or employee of any person registered,
+required to be registered, or exempted from registration or with the
+
+Commission, except as provided for in 17 C.F.R. § 4.14(a)(9).
+
+Further, the case shall be closed.
+
+DATED: November 2, 2020 BY THE COURT:
+
+Hon. Daniel D. Domenico
+
+-14-

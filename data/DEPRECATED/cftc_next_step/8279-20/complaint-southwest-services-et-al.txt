@@ -1,0 +1,662 @@
+UNITED STATES DISTRICT COURT
+FOR THE EASTERN DISTRICT OF WISCONSIN
+
+ 
+
+Case No.
+COMMODITY FUTURES TRADING
+COMMISSION,
+Plaintiff, COMPLAINT FOR INJUNCTIVE
+AND OTHER EQUITABLE RELIEF
+AND CIVIL MONETARY
+V. PENALTIES UNDER THE
+
+COMMODITY EXCHANGE ACT
+SOUTHWEST SERVICES, L.L.C. A/K/A
+SOUTH WEST SERVICES, LLC, and
+TIMOTHY A. SACK,
+
+Defendants.
+
+ 
+
+ 
+
+Plaintiff Commodity Futures Trading Commission (“Commission”) alleges as follows:
+
+I. SUMMARY
+
+1. Beginning from at least August 2016 through at least April 2018 (the “Relevant
+Period”), Southwest Services, L.L.C. a/k/a South West Services, LLC (“Southwest Services’), a
+Wisconsin limited liability company, offered to enter into and/or entered into agreements,
+contracts, or transactions in financed retail foreign currency (“forex”) with customers located in
+the United States who were not eligible contract participants (““ECPs’’) that did not result in the
+delivery of forex within two (2) days of the transaction date. Southwest Services did so without
+being registered with the Commission as a retail foreign exchange dealer (““RFED”), in violations
+of Section 2(c)(2)(C) (ii) (aa) of the Commodity Exchange Act (“CEA”), 7 U.S.C.
+
+§ 2(c)(2)(C) (1) (1) (aa) (2018), and Commission Regulation (“Regulation”) 5.3(a)(6)(),
+
+17 C.F_R. § 5.3(a)(6)G) (2019).
+
+Case 1:20-cv-01440-WCG Filed 09/15/20 Page 10f19 Document 2
+2. Throughout the Relevant Period, Timothy A. Sack (“Sack’’), who organized and
+operated Southwest Services as its sole managing member, associated himself with an
+unregistered RFED as a partner, officer, sole managing member, or employee (or occupying a
+similar status or performing similar functions), in a capacity that involved: (i) the solicitation or
+acceptance of retail forex customers’ orders; or (11) the supervision of any person so engaged.
+By associating himself with Southwest Services in such a capacity throughout the Relevant
+Period, Sack acted as an associated person (“AP”) of an RFED without being registered with the
+Commission, in violations of 7 U.S.C. § 2(c)(2)(C)(i1)(1)(aa) (2018), and Regulation 5.3(a)(6)(i1),
+17 C.F.R. § 5.3(a)(6)Gi) (2019).
+
+3. Throughout the Relevant Period, each time Southwest Services solicited an actual
+or prospective customer and/or opened an account for a retail forex customer to engage in retail
+forex transactions, it failed to provide each retail forex customer with a written “risk disclosure
+statement,” in violations of Regulation 5.5(a)(1)@), 17 C.F.R. § 5.5(a)(1)@) (2019).
+
+4. Throughout the Relevant Period, Southwest Services acted as an RFED and failed
+to maintain records required to be kept by RFEDs, in violations of Regulation 5.13(d), 17 C.F.R.
+§ 53.13(d) (2019).
+
+5. As the sole managing member of a limited liability company, Sack controlled
+Southwest Services throughout the Relevant Period and failed to act in good faith or knowingly
+induced Southwest Services’ violations alleged herein. Sack is therefore liable for Southwest
+Services’ violations as a controlling person pursuant to Section 13(b) of the CEA, 7 U.S.C. §
+13c(b) (2018).
+
+6. At all relevant times, the acts and omissions of Sack, and any other employees
+
+and/or agents of Southwest Services, were committed within the scope of their employment,
+
+¢ oN “4, .
+at tO Nowe peyaerat °
+: p AS PPP ae Ct Pee reer as
+
+eae? he Lea a a
+agency, or office with Southwest Services; therefore, Southwest Services is liable under Section
+2(a)(1)(B) of the CEA, 7 U.S.C. § 2(a)(1)(B) (2018), and Regulation 1.2, 17 C.F.R. § 1.2 (2019),
+as a principal for the actions and omissions of Sack, and any other employees or agents of
+Southwest Services, in violations of the CEA.
+
+7. By this conduct, and the conduct further alleged herein, Southwest Services and
+Sack (collectively, “Defendants”) have engaged in acts and practices that violated certain
+registration and recordkeeping provisions of the CEA and Regulations, including
+7US.C. § 2(c)(2)(C) Gi) ()(aa), 17 C.F.R. § 5.3(a)(6)G), and 17 C.F.R. § 5.3(a)(6) (G1),
+
+17 C.F.R. § 5.5, and 17 C.F.R. § 5.13(d).
+
+8. Accordingly, pursuant to Section 6c of the CEA, 7 U.S.C. § 13a-1 (2018), and
+7 U.S.C. § 2(c)(2)(C), the Commission brings this action to enjoin Defendants’ unlawful acts and
+practices, to compel their compliance with the CEA and Regulations, and to further enjoin them
+from engaging in certain commodity or forex-related activity, including soliciting or accepting
+orders from non-ECP U.S. customers and offering to be the counterparty to customers’ forex
+transactions without appropriate registration with the Commission, failing to keep required
+records, and opening accounts without the required disclosure statements.
+
+9. In addition, the Commission seeks civil monetary penalties and remedial ancillary
+relief including, but not limited to, restitution, disgorgement, trading and registration bans,
+rescission, pre- and post-judgment interest, and such other relief as the Court may deem
+necessary and appropriate.
+
+I. JURISDICTION AND VENUE
+
+10. This Court has jurisdiction over this action under 28 U.S.C. § 1331 (2018)
+(codifying federal question jurisdiction) and 28 U.S.C. § 1345 (2018) (providing that U.S.
+
+district courts have original jurisdiction over civil actions commenced by the United States or by
+
+3
+Case 1:20-cv-01440-WCG Filed 09/15/20 Page 3 0f 19 Document 2
+any agency expressly authorized to sue by Act of Congress). In addition, Section 6c(a) of the
+CEA, 7 U.S.C. § 13a-1(a) (2018), provides that district courts have jurisdiction to hear actions
+brought by the Commission for injunctive relief or to enforce compliance with the CEA
+whenever it shall appear to the Commission that any person has engaged, is engaging, or is about
+to engage in, an act or practice constituting a violations of any provision of the CEA or any rule,
+regulation, or order thereunder.
+
+11. Venue properly lies with this Court pursuant to Section 6c(e) of the CEA,
+7US.C. § 13a-1(e) (2018), because Defendants resided and/or transacted business in the Eastern
+District of Wisconsin, and certain transactions, acts, and practices alleged in this Complaint
+occurred within this District.
+
+Hr. THE PARTIES
+
+12. Plaintiff Commodity Futures Trading Commission (“Commission”) is an
+independent federal regulatory agency charged by Congress with the administration and
+enforcement of the CEA, 7 U.S.C. §§ 1-26 (2018), and the Regulations promulgated thereunder,
+17 C.F.R. §§ 1.1-190 (2019).
+
+13. Defendant Southwest Services, L.L.C., a/k/a South West Services, LLC
+(“Southwest Services”), is a Wisconsin limited liability company, formed in August 2016.
+Southwest Services maintained its principal office in Oshkosh, Wisconsin during the Relevant
+Period. Southwest Services has never been registered with the Commission in any capacity.
+
+14. Defendant Timothy A. Sack (‘Sack’) is the sole managing member of Southwest
+Services, and was responsible for creating and operating Southwest Services as a Wisconsin
+limited lability company during the Relevant Period. He is a resident of Oshkosh, Wisconsin.
+
+Sack has never been registered with the Commission in any capacity.
+
+A
+Case 1:20-cv-01440-WCG Filed 09/15/20 Page 40f19 Document 2
+IV. STATUTORY BACKGROUND
+
+15. Section 2(c)(2)(C))(1) of the CEA, 7 U.S.C. § 2(c)(2)(C)G)d) (2018), in relevant
+part, applies to any agreement, contract, or transaction in forex that is offered to, or entered into
+with, a person that is not an ECP, subject to certain exceptions not applicable herein. The
+agreement, contract, or transaction in forex must be offered or entered into on a leveraged or
+margined basis, or financed by the offeror, the counterparty, or a person acting in concert with
+the offeror or counterparty on a similar basis. /d. Section 2(c)(2)(C)G)UI)(bb) of the CEA,
+
+7 U.S.C. § 2(c)(2)(C)G)C)(bb) (2018), in relevant part, provides that Section 2(c)(2)(C)G)()
+shall not apply to a contract of sale that results in actual delivery within two (2) days of the
+transaction, or that creates an enforceable obligation to deliver between a seller and buyer that
+have the ability to deliver and accept delivery, respectively, in connection with their line of
+business.
+
+16. The CEA defines an ECP, in relevant part, as an individual: (a) who has amounts
+invested on a discretionary basis, the aggregate of which exceeds $10 million; or (b) $5 million if
+the individual enters into the transaction “to manage the risk associated with an asset owned or
+liability incurred, or reasonably likely to be owned or incurred, by the individual.” Section
+§1a(18)(xi) of the CEA, 7 U.S.C. § 1a(18) (xi) (2018).
+
+17. Regulation 5.1(h)(1), 17 C.F.R. § 5.1(h)C1) (2019), in relevant part, defines an
+RFED as “any person that is, or offers to be, the counterparty to a retail forex transaction,”
+subject to certain exceptions not applicable here. Pursuant to Section 1a(38) of the CEA,
+
+7 U.S.C. § 1a(38) (2018), “the term ‘person’ imports the plural or singular, and includes
+individuals, associates, partnerships, corporations, and trusts.”
+
+18. Regulation 5.1(m), 17 C.F.R. § 5.1¢m) (2019), in relevant part, defines a retail
+
+forex transaction as any account, agreement, contract, or transaction described in 7 U.S.C.
+
+5
+Case 1:20-cv-01440-WCG Filed 09/15/20 Page 5of19 Document 2
+§ 2(c)(2)(C). “A retail forex transaction does not include an account, agreement, contract, or
+transaction in forex that is a contract of sale of a commodity for future delivery (or an option
+thereon) that is executed, traded on or otherwise subject to the rules of a contract market
+designated pursuant to Section 5(a) of the CEA, 7 U.S.C. § 5(a) (2018).” Id.
+
+19. Regulation 5.1(h)(2), 17 C.F.R. § 5.1(h)(2) (2019), in relevant part, defines an AP
+of an RFED as any natural person associated with an RFED as a partner, officer, or employee (or
+any natural person occupying a similar status or performing similar functions) in any capacity
+that involves: (4) the solicitation or acceptance of retail forex customers’ orders; or (11) the
+supervision of any person or persons so engaged.
+
+20. Regulation 5.1(k), 17 C.F.R. § 5.1(h)(2) (2019), in relevant part, defines a “retail
+forex customer’ as a person, other than an ECP as defined in 7 U.S.C. § 1a(18)(x1), acting on its
+own behalf and trading in any account, agreement, contract, or transaction described in 7 U.S.C.
+§ 2(c)(2)(C).
+
+21. Pursuant to Regulation 5.3(a)(6)(), 17 C.F.R. § 5.3(a)(6)G) (2019), in connection
+with retail forex transactions, all RFEDs must be registered with the Commission. Pursuant to
+Regulation 5.3(a)(6)(i1), 17 C.F.R. § 5.3(a)(6)(i1) (2019), in connection with retail forex
+transactions, all APs of an RFED must be registered with the Commission. The registration
+requirements of Regulation 5.3(a)(6)() and (11) became effective October 18, 2010, prior to the
+Relevant Period identified herein.
+
+V. FACTS
+A. Financed Retail Forex Transactions
+22. During the Relevant Period, Defendants, through their website
+
+www.currencyliquidators.com (the “website’), YouTube videos, and in-person solicitations,
+
+6
+Case 1:20-cv-01440-WCG Filed 09/15/20 Page 6 of19 Document 2
+offered to enter into, and/or entered into, forex transactions in Vietnamese Dong, Iraqi Dinar, and
+other foreign currencies with retail customers who were not ECPs by offering to act as the
+counterparty to such transactions in Vietnamese Dong, Iraqi Dinar, and other foreign currencies.
+
+23. As the sole managing member of Southwest Services, and the sole person
+responsible for its creation and operation, Sack was responsible for the content of the website
+both individually, and as the agent of Southwest Services.
+
+24. During the Relevant Period, Southwest Services offered to act as the counterparty
+to three types of forex transactions: 1) sell customers forex in cash, on a fully-paid basis; 2) buy
+forex from customers for cash; and 3) sell forex via a financed retail forex transaction that
+Defendants described as their “Premium + Layaway Program.” Only the financed retail forex
+transactions Defendants offered through their “Premium + Layaway Program” are the subject of
+the Commission’s jurisdiction.
+
+25. Under the caption “Premium + Layaway Program ‘How it Works,’” Defendants,
+through their website, offered retail customers transactions in forex utilizing a variety of
+financing options, which customers could choose by selecting the “Premium + Layaway
+Program” thirty (30) day or forty-five (45) day financing options displayed on the website.
+
+26. Each of the “Premium + Layaway Program” payment plans described above were
+financed by Southwest Services, acting as the counterparty, and none of the payment plans
+offered to customers resulted in actual delivery of forex within two days of the transaction(s).
+Instead, customers received their forex, if at all, over periods of not less than thirty (30) days,
+and up to forty-five (45) days, following the date of their financed retail forex transaction. Each
+
+of these financed retail forex transactions included a significant financing charge.
+
+Pega TRO Leys
+wk. \. s
+
+oN A AS taren on -
+POM AT AADAC CR ER abean OO Pa
+we ee AT Ae OTL Sa aa! WOW Ne Ae PO PARLE APE al
+27. For example, Defendants’ “Premium + Layaway Program” thirty (30) day option,
+as described on the website, directed actual and prospective customers to make a “good faith
+down payment” then “[o]nce you’ ve made that down payment you’ll be deeded the full amount
+of your foreign currency purchase, based on your promise to pay within the agreed 30- (sic) or
+45-day term.” If customers failed to pay the balance due at the end of either the thirty (30) or
+forty-five (45) day transaction, the customer’s entire initial payment was forfeited.
+
+28. Defendants’ website offered customers a variety of options as to the amount of
+the transaction in forex they may choose to enter into with Southwest Services, each of which
+carried a significant financing charge included within the transaction. For example, if a customer
+chose to enter into a transaction nominally involving ten million dinars in twenty-five thousand
+(25,000) dinar notes, the customer would have been charged a financing charge of one hundred
+twenty-nine dollars ($129.00).
+
+29. Customers typically entered into transactions in forex with Southwest Services by
+submitting an online account application through the website. Defendants’ website advised
+actual and prospective customers that Southwest Services “accept[ed] a myriad of payment
+options such as credit cards, debit cards, eChecks, cashiers’ checks, money orders, wire transfers,
+and cash in person.”
+
+30. The financed retail forex transactions that Defendants offered to retail customers
+via the “Premium+ Layaway Program” required customers to access the website and select a
+currency, denomination, amount for purchase, and the length of time to finance the retail forex
+transaction, typically either thirty (30) days or forty-five (45) days.
+
+31. Each customer then provided his or her shipping and billing addresses and
+
+confirmed the order. The customer would immediately send a non-refundable “Premium+
+
+Pega TRO Leys
+wk. \. s
+
+oN A A AS taro on -
+
+os ATAAD AAT ES Elan MOTE;
+
+Re OTE OA EHS YA PTH Le Lesa 2 Oe ¢
+we ee AT Ae TA LSS LST OA oe BPP AL A ee ok ed
+Layaway Fee” to Southwest Services via money order or cashier’s check to cover the cost of
+sourcing and storing the currency layaway order. The customer sent final payment within the
+specified time period and once the payment cleared, the currency was mailed to the customer,
+according to the website, during the Relevant Period.
+
+32. During the Relevant Period, Southwest Services received at least $4,500,000 from
+at least 1200 customers in connection with financed retail forex and cash forex transactions.
+
+B. Failure to Keep and Maintain Required Books and Records
+
+33. During the checkout process on the website, each customer opened an account
+with Southwest Services by providing their name, billing and shipping addresses—including
+city, state/province, postal code, and country—and phone number. For each of the financed
+retail forex transactions Southwest Services entered into during the Relevant Period, Southwest
+Services failed to keep and maintain records of each customer, the transaction entered into by
+each customer, the funds paid by each customer, and the monthly and/or quarterly account
+balance for each customer.
+
+34. For each of the financed retail forex transactions Southwest Services entered into
+during the Relevant Period, it failed to provide each customer with a separate written disclosure
+statement required to be furnished to retail forex customers pursuant to Regulation 5.5(a)(1)Q),
+17 C.F.R. § 5.5(a)(1)@) (2019).
+
+35. For each of the financed retail forex transactions Southwest Services entered into
+during the Relevant Period, it failed to keep and maintain books and records required to be kept
+and maintained by an RFED pursuant to Regulation 5.13, 17 C.F.R. § 5.13 (2019), including but
+
+not limited to: a copy of each customer’s monthly statement and transaction confirmation(s).
+
+AAAAC AAO SD Cee AOQhN:
+RFE SRST PR APR Oe ew eee PL geet a,
+Sat ats SEALS AAP Nt A? PRP A ee Ak
+
+Pega TRO Leys
+wk. \. s
+
+Phos.
+Re NTN Y
+36. Southwest Services’ online account application did not seek any information
+about prospective customers’ ability to send or receive actual delivery of forex or customers’
+business need for forex. During the Relevant Period, Southwest Services failed to keep or
+maintain any records containing any information about prospective customers’ ability to send or
+receive actual delivery of forex or customers’ business need for forex.
+
+37. In addition, Southwest Services’ online account application did not inquire as to
+whether a prospective customer was an ECP or about a prospective customer’s savings and
+investments. Southwest Services failed to keep or maintain any records containing any
+information about a prospective customer’s savings and investments or whether a prospective
+customer was an ECP.
+
+38. For example, Southwest Services’ online account application did not inquire if a
+prospective customer had assets in excess of $5 million, nor did it inquire if the prospective
+customer was seeking to engage in forex transactions to manage the risk of an asset or liability
+already owned, or about to be owned, by the prospective customer.
+
+39, At no point in offering or entering into financed retail forex transactions during
+the Relevant Period did Southwest Services solicit or obtain information concerning whether
+prospective or actual customers were ECPs. Southwest Services failed to keep or maintain any
+records indicating whether its customers were ECPs.
+
+AO. Moreover, Southwest Services’ retail forex transactions neither resulted in
+delivery within two days nor created an enforceable obligation to deliver between a seller and a
+buyer who had the ability to deliver and accept delivery, respectively, in connection with their
+lines of business. Rather, retail forex customers received their forex either 30 or 45 days
+
+following the date of their forex transactions.
+41. Southwest Services’ online account application did not seek any information
+about prospective customers’ ability to send or receive actual delivery of forex or customers’
+business need for forex.
+
+42. Southwest Services’ financed forex transactions were the type of accounts,
+agreements, contracts, or transactions described in Section 2(c)(2)(C) of the CEA,
+
+7 U.S.C. § 2(c)(2)(C) (2018).
+
+43. None of Southwest Services’ financed forex transactions was a contract of sale of
+a commodity for future delivery (or an option thereon) that was executed, traded on, or otherwise
+subject to the rules of a contract market designated pursuant to Section 5(a) of the CEA, 7 U.S.C.
+§ 5(a) (2018).
+
+44. Therefore, each of Southwest Services’ financed forex transactions was a retail
+forex transaction.
+
+C. Sack Was the Controlling Person of Southwest Services
+
+45. At all times during the Relevant Period, Sack was the owner and controlling
+person of Southwest Services. Sack was the sole managing member of Southwest Services, he
+owned and operated Southwest Services’ website and business activities, he opened and
+controlled Southwest Services’ bank accounts, and he was solely responsible for creating
+Southwest Services pursuant to the laws of the State of Wisconsin. Therefore, Sack was de facto
+and de jure solely in charge of the operations of Southwest Services throughout the Relevant
+Period.
+
+46. At no time during the Relevant Period were Southwest Services and Sack
+registered as an RFED and an AP of an RFED, respectively, nor were they eligible for
+
+exemptions from the requirements to register as such with the Commission.
+VI. violations OF THE COMMODITY EXCHANGE ACT AND
+COMMISSION REGULATIONS
+
+COUNT I
+FAILURE TO REGISTER AS A RETAIL FOREIGN EXCHANGE DEALER
+
+violations of Section 2(c)(2)(C)(iii)(D(aa) of the CEA, 7 U.S.C. § 2(c)(2)(C)(iii)(T)(aa) (2018),
+and Regulation 5.3(a)(6)(i), 17 C.F.R. § 5.3(a)(6)(i) (2019)
+
+47. Paragraphs | through 46 of this Complaint are re-alleged and incorporated herein
+by reference.
+
+A8. 7 U.S.C. § 2(c)(2)(C)G1)(1)(aa) prohibits any person or entity from soliciting or
+accepting orders from non-ECPs for financed forex transactions if that person or entity is not
+registered in such capacity as the Commission shall determine, subject to certain exceptions not
+applicable here.
+
+49, Regulation 5.1(m), 17 C.F.R. § 5.1¢m) (2019), in relevant part, defines a retail
+forex transaction as any account, agreement, contract, or transaction described in 7 U.S.C.
+
+§ 2(c)(2)(C).
+
+50. Regulation 5.1(h)(1), 17 C.F.R. § 5.1(h)C1) (2019), in relevant part, defines an
+RFED as “any person that is, or offers to be, the counterparty to a retail forex transaction,”
+subject to certain exceptions not applicable here.
+
+51. Pursuant to 17 C.F.R. § 5.3(a)(6)@) (2019), an RFED, as defined in Regulation
+5.1(h)(1), is required to be registered with the Commission as such.
+
+52. During the Relevant Period, Southwest Services solicited and/or accepted orders
+from U.S. resident non-ECP customers in connection with retail forex transactions and was or
+offered to be the counterparty to those transactions. Southwest Services engaged in this conduct
+
+without being registered as an RFED.
+
+12
+Case 1:20-cv-01440-WCG Filed 09/15/20 Page 12 of 19 Document 2
+53. By this conduct and by failing to register as an RFED during the Relevant Period,
+Southwest Services violated 7 U.S.C. § 2(c)(2)(C)(ii1))(aa) and 17 C.F.R. § 5.3(a)(6)(i).
+
+54. Each instance during the Relevant Period in which Southwest Services acted as an
+unregistered RFED, including but not limited to those specifically alleged herein, and each day
+such unregistered conduct took place, is alleged as a separate and distinct violations of 7 U.S.C.
+
+§ 2(c)(2)(C)Gii)()(aa) and 17 C.F.R. § 5.3(a)(6)(@).
+
+55. Sack directly or indirectly controlled Southwest Services and did not act in good
+faith, or knowingly induced, directly or indirectly, the acts constituting Southwest Services’
+violations of 7 U.S.C. § 2(c)(2)(C)Gi)(1)(aa) and 17 C.F.R. § 5.3(a)(6)). Therefore, pursuant to
+Section 13(b) of the Act, 7 U.S.C. § 13c(b) (2018), Sack is liable as a controlling person for each
+of Southwest Services’ violations of 7 U.S.C. § 2(c)(2)(C)Gu)(D(aa) and 17 C.F.R. § 5.3(a)(6)(1).
+
+COUNT I
+FAILURE TO REGISTER AS AN ASSOCIATED PERSON OF A RETAIL FOREIGN
+EXCHANGE DEALER
+violations of Section 2(c)(2)(C)(ii)(D(aa) of the CEA, 7 U.S.C. § 2(c)(2)(C) Git) (aa) (2018),
+and Regulation 5.3(a)(6)(ii), 17 C.F.R. § 5.3(a)(6)(ii) (2019)
+
+56. Paragraphs | through 55 of this Complaint are re-alleged and incorporated herein
+by reference.
+
+57. As set forth above, during the Relevant Period, Southwest Services acted as an
+RFED by soliciting and accepting orders from U.S. resident non-ECPs in connection with retail
+forex transactions and was or offered to be the counterparty to those forex transactions.
+
+58. Regulation 5.1(h)(2), 17 C.F.R. § 5.1(h)(2) (2019), in relevant part, defines an AP
+
+of an RFED as any natural person associated with an RFED as an officer or employee in any
+
+13
+Case 1:20-cv-01440-WCG Filed 09/15/20 Page 13 0f 19 Document 2
+capacity that involves soliciting or accepting retail forex customers’ orders for retail forex
+transactions.
+
+59. Regulation 5.1(k), 17 C.F.R. § 5.1(k) (2019), in relevant part, defines a “retail
+forex customer’ as a person, other than an ECP as defined in Section §1a(18)(xi) of the CEA,
+
+7 U.S.C. § 1a(18) (xi) (2018), acting on its own behalf and trading in any account, agreement,
+contract, or transaction described in 7 U.S.C. § 2(c)(2)(C).
+
+60. Pursuant to Regulation 5.3(a)(6)(i1), 17 C.F.R. § 5.3(a)(6)Gi) (2019), any AP of an
+RFED is required to register with the Commission in that capacity.
+
+61. During the Relevant Period, Sack acted as an officer of Southwest Services in a
+capacity that involved soliciting or accepting customers’ orders for retail forex transactions.
+Sack engaged in this conduct without being registered as an AP of an RFED.
+
+62. By this conduct and by failing to register as an AP of an RFED during the
+Relevant Period, Sack violated 7 U.S.C. § 2(c)(2)(C)(ii)(1)(aa) and 17 C.F.R. § 5.3(a)(6)@i).
+
+63. Each instance during the Relevant Period in which Sack acted as an unregistered
+AP of an RFED, including but not limited to those specifically alleged herein, and each day such
+unregistered conduct took place, is alleged as a separate and distinct violations of 7 U.S.C. §
+2(c)(2)(C) G11) (aa) and 17 C.F.R. § 5.3(a)(6)(ii).
+
+64. The acts, omissions, and failures of Sack and any other employees or agents of
+Southwest Services as described in this Complaint occurred within the scope of their
+employment or agency with Southwest Services. Therefore, pursuant to 7 U.S.C. § 2(a)(1)(B)
+and 17 C.F.R. § 1.2, Southwest Services is liable as a principal for each act, omission, or failure
+of Sack and Southwest Services’ other employees and agents constituting violations of 7 U.S.C.
+
+§ 2(c)(2)(C)(iii)(D(aa) and 17 C.E.R. § 5.3(a)(6)(ii).
+COUNT I
+FAILURE TO PROVIDE WRITTEN DISCLOSURE STATEMENT
+violations of Regulation 5.5(a)(1)(), 17 C.F.R. § 5.5(a)(1)@) (2019)
+
+65. Paragraphs | through 65 of this Complaint are re-alleged and incorporated herein
+by reference.
+
+66. 17 C.F.R. § 5.5(a)(1)G) (2019) in relevant part, provides that no RFED may open
+an account that will engage in retail forex transactions for a retail forex customer unless the
+RFED first furnishes the retail forex customer with a separate written disclosure statement
+containing only the language set forth in Regulation 5.5(b), 17 C.F.R.§ 5.5(b) (2019), and the
+disclosure required by Regulation 5.5(e), 17 C.F.R. § 5.5(e) (2019).
+
+67. As set forth above, during the Relevant Period, Southwest Services acted as an
+RFED by soliciting and accepting orders from U.S. resident non-ECPs in connection with retail
+forex transactions and was or offered to be the counterparty to those forex transactions.
+
+68. At no time during the Relevant Period did Southwest Services furnish those retail
+forex customers with a separate written disclosure statement containing only the language set
+forth in 17 C.F.R. § 5.5(b) and the disclosure required by 17 C.F.R. § 5.5(e), in violations of
+17 C.F.R. § 5.5(a)C)@ -
+
+69. Each instance during the Relevant Period in which Southwest Services failed to
+furnish retail forex customers with a separate written disclosure statement containing only the
+language set forth in Regulation 5.5(b) and the disclosure required by 17 C.F.R. § 5.5(e), is
+alleged as a separate and distinct violations of violations of 17 C.F.R. § 5.5(a)(1)(i).
+
+70. Throughout the Relevant Period Sack directly or indirectly controlled Southwest
+
+Services and did not act in good faith, or knowingly induced, directly or indirectly, the acts
+
+15
+Case 1:20-cv-01440-WCG Filed 09/15/20 Page 15 of 19 Document 2
+constituting Southwest Services’ violations of 17 C.F.R. § 5.5(a)(1)G). Therefore, pursuant to
+7 U.S.C. § 13c(b), Sack is liable as a controlling person for each of Southwest Services’
+violations of Regulation 17 C.F.R. § 5.5(a)(1)(i).
+COUNT IV
+FAILURE TO KEEP REQUIRED BOOKS AND RECORDS
+violations of Regulation 5.13(d), 17 C.F.R. § 5.13(d) (2019)
+
+71. Paragraphs | through 70 of this Complaint are re-alleged and incorporated herein
+by reference.
+
+72. 17 C.F.R. § 5.13(d), in relevant part, provides that each RFED shall maintain, in
+accordance with Regulation 1.31, 17 C.F.R. § 1.31 (2019), a copy of each monthly statement and
+confirmation required by Regulation 5.13(a) and (b), 17 C.F.R. § 5.13(a), (b) (2019).
+
+73. As set forth above, during the Relevant Period, Southwest Services acted as an
+RFED by soliciting and accepting orders from U.S. resident non-ECPs in connection with retail
+forex transactions and was or offered to be the counterparty to those forex transactions.
+
+74. At no time during the Relevant Period did Southwest Services maintain, in
+accordance with Regulation 1.31, 17 C.F.R. § 1.31 (2019), a copy of each monthly statement and
+confirmation required by 17 C.F.R. § 5.13(a) and (b), in violations of 17 C.F.R. § 5.13(d).
+
+75. Each instance during the Relevant Period in which Southwest Services failed to
+maintain, in accordance with 17 C.F.R. § 1.31, a copy of each monthly statement and
+confirmation required by 17 C.F.R. § 5.13(a) and (b), is alleged as a separate and distinct
+violations of violations of 17 C.F.R. § 5.13(d).
+
+76. Throughout the Relevant Period Sack directly or indirectly controlled Southwest
+
+Services and did not act in good faith, or knowingly induced, directly or indirectly, the acts
+
+16
+Case 1:20-cv-01440-WCG Filed 09/15/20 Page 16 of 19 Document 2
+constituting Southwest Services’ violations of 17 C.F.R. § 5.13(d). Therefore, pursuant to
+7 U.S.C. § 13c(b), Sack is liable as a controlling person for each of Southwest Services’
+violations of 17 C.F.R. § 5.13(d).
+
+VIL. RELIEF REQUESTED
+
+WHEREFORE, the Commission respectfully requests that this Court, as authorized by
+Section 6c of the CEA, 7 U.S.C. § 13a-1 (2018), and pursuant to its own equitable powers,
+enters:
+
+A. An order finding that Defendants violated Section 2(c)(2)(C)Gii)(1)(aa) of the
+CEA, 7 U.S.C. § 2(c)(2)(C) aii) dd) (aa) (2018), and Regulations 5.3(a)(6)(1), 5.3(a)(6)(i1),
+5.5(a)(1)G), and 5.13(d), 17 C.F.R. §§ 5.3(a)(6)@), 5.3(a)(6)(i1), 5.5(a)C1)@), and 5.13(d) (2019);
+
+B. An order of permanent injunction permanently restraining, enjoining, and
+prohibiting Defendants, and any other person or entity associated with them, from engaging in
+conduct in violations of 7 U.S.C. § 2(c)(2)(C) (G1) C)(aa) and 17 C.F.R. §§ 5.3(a)(6)q),
+5.3(a)(6)(i), 5.5(a)C1)G), and 5.13(d);
+
+C. An order directing Defendants, as well as any successors, to disgorge pursuant to
+such procedure as the Court may order, all benefits received from the acts or practices described
+herein that constitute violations of the Act and Regulations, pre-judgment interest from the date
+of such violations, and post-judgment interest;
+
+D. An order directing Defendants, as well as any successors, to make full restitution,
+pursuant to such procedure as the Court may order, to every customer whose funds Defendants
+received or caused another person or entity to receive as a result of the acts and practices
+described herein that constitute violations of the Act and Regulations, pre-judgment interest from
+
+the date of such violations, and post-judgment interest;
+
+17
+Case 1:20-cv-01440-WCG Filed 09/15/20 Page 17 of 19 Document 2
+E. An order of permanent injunction prohibiting Defendants, and any other person or
+entity associated with them, from directly or indirectly:
+
+(1) Trading on or subject to the rules of any registered entity (as that term is
+defined in Section 1a(40) of the Act, 7 U.S.C. § 1a(40) (2018));
+
+(2) Entering into any transactions involving “commodity interests” (as that
+term is defined in Regulation 1.3, 17 C.F.R. § 1.3 (2019)), for their own personal account
+or for any account in which they have a direct or indirect interest;
+
+(3) Having any commodity interests traded on their behalf;
+
+(4) Controlling or directing the trading for or on behalf of any other person or
+entity, whether by power of attorney or otherwise, in any account involving commodity
+interests;
+
+(5) Soliciting, receiving, or accepting any funds from any person for the
+purpose of purchasing or selling any commodity interests;
+
+(6) Applying for registration or claiming exemption from registration with the
+Commission in any capacity, and engaging in any activity requiring such registration or
+exemption from registration with the Commission, except as provided for in Regulation
+4.14(a)(9), 17 C.F.R. § 4.14(a)(9) (2019);
+
+(7) Acting as a principal (as that term is defined in Regulation 3.1(a), 17
+C.F.R. § 3.1(a) (2019)), agent, or any other officer or employee of any person registered,
+exempted from registration, or required to be registered with the Commission except as
+provided for in Regulation 4.14(a)(9); and
+
+(8) Engaging in any business activity related to commodity interests;
+
+Nes Ae NAM AS TARO Me nd ATE det St Pe, as 4 “ - ~, TN ox ra 2
+
+one er lesa gE ae ene hikes gf. nae FER EN VRS bP Lecaeesy TR AS Nt Qa RO sNesE eWay
+
+Wot SED en Yo SR PR Meu Lat boy PU CAL AG ASE = LAGE PPR a
+MS
+F, An Order directing Defendants, as well as any successors, to rescind, pursuant to
+such procedure as the Court may order, all contracts and agreements, whether express or implied,
+entered into between them and any customer whose funds were received by Defendants as a
+result of the acts and practices described herein that constitute violations of the Act and
+Regulations, as described herein;
+
+G. An order directing each Defendant to pay a civil monetary penalty, to be assessed
+by the Court, in an amount not to exceed the penalty prescribed by Section 6c(d)(1) of the CEA,
+7 U.S.C. § 13a-1(d)(1) (2018), as adjusted for inflation pursuant to the Federal Civil Penalties
+Inflation Adjustment Act Improvements Act of 2015, Pub. L. 114-74, 129 Stat. 584 (2015), title
+VII, Section 701, see Regulation 143.8, 17 C.F.R. § 143.8 (2019), for each violations of the CEA
+and Regulations, as described herein;
+
+H. An order requiring Defendants to pay costs and fees as permitted by 28 U.S.C.
+
+§§ 1920 and 2412 (2018); and
+
+I. An order directing such further relief as the Court deems proper.
+
+Dated: September 14, 2020
+Respectfully submitted,
+
+COMMODITY FUTURES TRADING
+COMMISSION
+
+By: s/Kassra Goudarzi
+
+Timothy J. Mulreany (MD Bar No. 8812160123)
+Kassra Goudarzi (DC Bar No. 490709)
+
+CFTC, Division of Enforcement
+
+1155 21st Street, NW
+
+Washington, DC 20581
+
+Tel: (202) 418-5000
+
+Fax: (202) 418-5937
+
+tmulreany @cftc.gov
+
+kgoudarzi @cftc.gov
+
+ATTORNEYS FOR PLAINTIFF
+
+19
+Case 1:20-cv-01440-WCG Filed 09/15/20 Page 19 of 19 Document 2

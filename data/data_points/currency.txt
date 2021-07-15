@@ -1,0 +1,1 @@
+['USD', 'EUR', nan, 'CHF', 'GBP', 'SEK']

@@ -1,3 +1,5 @@
+from legal_doc_processing import logger
+
 from legal_doc_processing.utils import uniquize as _u
 
 from legal_doc_processing.utils import merge_ans, ask_all
@@ -40,8 +42,8 @@ def _question_selector(key: str):
     if "violate" in key:
         qs.extend(
             [
-                ("When was the violation?", "when_violation"),
-                ("When did the violation take place ?", "when_violation"),
+                ("When was the violations?", "when_violation"),
+                ("When did the violations take place ?", "when_violation"),
                 ("When did the violations take place ?", "when_violations"),
             ]
         )
@@ -119,7 +121,7 @@ def predict_decision_date(obj: dict, threshold=0.2, n_sents: int = 6) -> list:
     merged_ans = merge_ans(cleaned_ans, label=answer_label)
 
     # filert by spacy entities
-    # we are sure that a personn or an org is NOT a violation so
+    # we are sure that a personn or an org is NOT a violations so
     # if a prediction is in pers_org_entities_list, plz drop it
     consitant_ans = [i for i in merged_ans if i[answer_label] in date_all]
 
@@ -136,7 +138,7 @@ if __name__ == "__main__":
     # import
     import time
     from legal_doc_processing.utils import get_pipeline, get_spacy
-    from legal_doc_processing.legal_doc.loader import legal_doc_X_y
+    from legal_doc_processing.legal_doc.utils import legal_doc_X_y
     from legal_doc_processing.legal_doc.legal_doc import LegalDoc
 
     # laod

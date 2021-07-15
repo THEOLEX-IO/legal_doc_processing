@@ -1,0 +1,561 @@
+UNITED STATES OF AMERICA
+Before the
+SECURITIES AND EXCHANGE COMMISSION
+
+SECURITIES EXCHANGE ACT OF 1934
+Release No. 90243 / October 22, 2020
+
+ACCOUNTING AND AUDITING ENFORCEMENT
+Release No. 4191 / October 22, 2020
+
+ADMINISTRATIVE PROCEEDING
+File No. 3-20132
+
+ 
+
+ORDER INSTITUTING CEASE-AND-
+
+In the Matter of DESIST PROCEEDINGS PURSUANT TO
+SECTION 21C OF THE SECURITIES
+THE GOLDMAN SACHS EXCHANGE ACT OF 1934, MAKING
+GROUP, INC., FINDINGS, AND IMPOSING A CEASE-
+
+AND-DESIST ORDER
+Respondent.
+
+ 
+
+ 
+
+I.
+
+The Securities and Exchange Commission (âCommissionâ) deems it appropriate and in the
+public interest that cease-and-desist proceedings be, and hereby are, instituted pursuant to Section
+21C of the Securities Exchange Act of 1934 (âExchange Actâ), against The Goldman Sachs
+Group, Inc. (âGoldman Sachsâ or âRespondentâ or the âCompanyâ.
+
+I.
+
+In anticipation of the institution of these proceedings, Respondent has submitted an Offer
+of Settlement (the âOfferâ) which the Commission has determined to accept. Solely for the
+purpose of these proceedings and any other proceedings brought by or on behalf of the
+Commission, or to which the Commission is a party, Respondent admits the Commissionâs
+jurisdiction over it and the subject matter of these proceedings, and consents to the entry of this
+Order Instituting Cease-and-Desist Proceedings Pursuant to Section 21C of the Securities
+Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order (âOrderâ), as set
+forth below.
+IIl.
+On the basis of this Order and Respondentâs Offer, the Commission finds! that:
+SUMMARY
+
+1. This matter relates to a scheme perpetrated by now former senior employees of
+Goldman Sachs who authorized and paid bribes and kickbacks to government officials in Malaysia
+and the Emirate of Abu Dhabi (âAbu Dhabrâ) in order to secure lucrative business for the
+Company and benefits for themselves. Goldman Sachs violated the antibribery, books and records
+and internal accounting controls provisions of the Foreign Corrupt Practices Act (ââFCPAâ) in
+connection with the scheme.
+
+2. 1 Malaysia Development Berhad (â1 MDBâ) is a Malaysian state-owned and
+controlled investment fund created to pursue projects for the economic benefit of Malaysia and its
+people. Between approximately 2009 and 2014, as IMDB raised capital to fund its projects,
+billions of dollars were diverted from IMDB. The diverted funds included a substantial portion of
+the approximately $6.5 billion in capital that IMDB raised in 2012 and 2013 through three bond
+offerings that it executed with Goldman Sachs (the âBond Dealsâ). As part of the scheme, certain
+former senior employees of Goldman Sachs authorized and paid bribes to government officials in
+Malaysia and in Abu Dhabi to obtain and retain lucrative business for Goldman Sachs, including
+the 2012 and 2013 bond deals, from which Goldman Sachs earned approximately $600 million.
+
+Respondent
+
+3. The Goldman Sachs Group, Inc. is a U.S. based global investment banking,
+securities, and investment management firm headquartered in New York, New York. The
+common stock of the Company is registered pursuant to Section 12(b) of the Exchange Act and is
+listed for trading on the New York Stock Exchange under the stock symbol âGS.â The Company
+is and was an âissuerâ within the meaning of the Foreign Corrupt Practices Act (ââFCPAâ) during
+the relevant period.
+
+Related Entities and Individuals
+
+4. IMDB was a strategic investment and development company wholly-owned by the
+Malaysian government through the Malaysian Ministry of Finance. It was formed in 2009 when
+the Malaysian government took control of a municipal entity called Terengganu Investment
+Authority (âTIAâ). IMDB was created to pursue investment and development projects for the
+economic benefit of Malaysia and its people, primarily relying on debt to fund these investments.
+IMDBâs development projects were focused in the areas of energy, real estate, tourism and
+agribusiness. IMDB was overseen by senior Malaysian government officials, was controlled by
+the Malaysian government, and performed a government function on behalf of Malaysia.
+
+ 
+
+' The findings herein are made pursuant to Respondentâs Offer of Settlement and are not binding on any other
+person or entity in this or any other proceeding.
+5. The Middle Eastern Sovereign Wealth Fund was an investment fund wholly-
+owned by the government of Abu Dhabi. It was established by the government of Abu Dhabi
+pursuant to an Emiri Decree in or around 1984 with a mandate to advance Abu Dhabiâs natural
+petroleum wealth for the development of the emirate. The Middle Eastern Sovereign Wealth Fund
+was overseen by senior Abu Dhabi government officials, was controlled by the Abu Dhabi
+government, which appointed all the members of the Middle Eastern Sovereign Wealth Fundâs
+board of directors, and performed a government function on behalf of Abu Dhabi.
+
+6. The Middle Eastern Investment Firm, a subsidiary of the Middle Eastern
+Sovereign Wealth Fund, was a private joint stock company incorporated under the laws of Abu
+Dhabi.
+
+7. Tim Leissner, age 51, was employed by Goldman Sachs between 1998 and
+February 2016. Prior to his separation from Goldman Sachs, Leissner was a participating
+managing director (or âpartnerââ), vice chairman of Investment Banking in Asia Ex-Japan, and
+chairman of South East Asia. Leissner was a banker with relationship management responsibility
+for various clients in the Asia Ex-Japan region, including IMDB.
+
+8. Jho Low, age 38, is a Malaysian national who advised on the creation of TIA,
+1MDBâs predecessor entity. Jho Low has never held a formal position at IMDB. Jho Low
+nevertheless exercised significant control over 1MDB during the time period relevant to the Order.
+Jho Low worked as a finder and intermediary in relation to IMDB officials and other government
+officials on a number of financial transactions and projects involving Goldman Sachs.
+
+9. Roger Ng, age 47, is a Malaysian national who was employed as a Managing
+Director and acted as an agent of Goldman Sachs. He worked with Leissner at Goldman Sachs
+from approximately 2009 to May 2014.
+
+10. Najib Razak, age 67, was the Prime Minister of Malaysia from 2009 to 2018 who
+held a position of authority with IMDB.
+
+FACTS
+
+Background
+
+11. 1MDB was formed in or around 2009, when the Malaysian government asserted
+federal control over TIA, which previously had been a development fund controlled by the
+Malaysian state of Terengganu.
+
+12. 1MDB was created for the stated purpose of pursuing investment projects for the
+economic benefit of Malaysia and its people, relying mainly on debt to support these projects.
+IMDB was supervised by senior Malaysian government officials, controlled by the Malaysian
+government, and performed a government function on behalf of Malaysia. Upon 1MDBâs
+formation, Najib Razak assumed a position of authority with IMDB. Najib Razak had the
+authority to approve all appointments to, and removals from, 1 MDBâs Board of Directors and
+IMDBâs Senior Management Team. In addition, any financial commitments by IMDB, including
+investments, that were likely to affect a guarantee given by the government of Malaysia for the
+
+3
+benefit of IMDB or any policy of the Malaysian government, required the approval of Najib
+Razak.
+
+Malaysian Intermediary Jho Low
+
+13. Low, a Malaysian national with close ties to senior Malaysian government officials,
+had advised on the creation of TIA, 1MDBâs predecessor entity in 2009. Thereafter, he continued
+to act as an intermediary or finder for 1MDB in relation to a number of financial transactions and
+projects, including those involving Goldman Sachs.
+
+14. Goldman Sachs, through its participating managing director Leissner, was retained
+to provide financial advice to the government of Malaysia on the same TIA project in 2009
+(âProject Tiaraâ). Certain senior Goldman Sachs employees, including at least Leissner and Ng,
+knew that Low worked as a finder and intermediary in relation to TIA at the time of Project Tiara.
+Leissner and Ng would later work to conceal Lowâs involvement in Goldman-related transactions
+from others at the Company. They did so knowing that Low remained close to 1MDB officials
+and other government officials in Malaysia, including Najib Razak, and Abu Dhabi.
+
+Goldman Sachsâs Anti-Corruption Program and Deal Approval Process
+
+15. Goldman Sachs had a general anti-corruption policy (including both a written
+Statement of Principles Regarding Anti-Bribery and related policies and procedures, collectively
+the âAnti-Bribery Policyâ) applicable to all employees that expressly prohibited improper
+payments to government officials intended to obtain or retain business for the company. Goldman
+Sachsâs Anti-Bribery Policy was overseen and enforced by its compliance function (the
+âCompliance Groupâ) and its Business Intelligence Group (the âIntelligence Groupâ).
+
+16. In addition to the Anti-Bribery Policy aspects of Goldman Sachsâs system of
+internal accounting controls, including the committee review process, were intended to help ensure
+that transactions were executed in accordance with managementâs wishes. The Compliance Group
+and the Intelligence Group worked with, and as part of, various Goldman Sachs committees (âGS
+Committeesâ) in reviewing transactions.
+
+17. Goldman Sachsâs role as underwriter for the Bond Deals meant that the firm would
+be using its own capital to fund the initial purchase of the IMDB bonds. Accordingly, the
+transactions were formally reviewed and approved by multiple GS Committees including the
+Firmwide Capital Committee (âGS Capital Committeeâ). The GS Capital Committeeâs charter
+states as follows:
+
+The Committee provides approval and oversight globally of debt-related
+transactions, including principal commitments of the Firmâs capital. The
+Committee aims to ensure that business, reputational and suitability standards for
+underwritings and capital commitments are maintained on a global basis.
+
+18. The GS Committees played a critical role in the chain of management approvals
+necessary for transactions such as the Bond Deals to be consummated. At the time of the Bond
+Deals, transactions could be granted conditional approval by the GS Capital Committee, provided
+there was further follow-up on specified issues prior to deal execution. In terms of recordkeeping
+and documentation, the principal inputs to the GS Capital Committee were the internal memoranda
+prepared by deal team members under the supervision of senior employees such as Leissner, and
+the principal outputs were written meeting minutes that should record the GS Capital Committeeâs
+decisions and set forth any prerequisite follow-up items.
+
+Early Attempts To Do Business With Jho Low
+
+19. Following the successful establishment of IMDB in 2009, Leissner and Ng
+supported at least three separate attempts to make Low a formal client of Goldman Sachs. These
+efforts took place between September 2009 and March 2011. Leissner and Ng supported them
+because, in part, they believed that Low would work to deliver lucrative business deals, including
+from 1MDB, for the benefit of Goldman Sachs.
+
+20. These attempts were unsuccessful because certain personnel within Goldman
+Sachsâs Compliance Group and Intelligence Group refused to approve any client relationship with
+Low based, in part, on concerns that these groups had concerning the source of Lowâs wealth.
+Personnel within the Compliance Group and the Intelligence Group communicated the rejection of
+Lowâs client application to Leissner and others within Goldman Sachs.
+
+21. For example, in early 2011, another Goldman Sachs senior employee was aware
+that Leissner and Ng attempted to advise a business controlled by Low. This proposed
+engagement was declined following concerns raised by the Intelligence Group regarding Low and
+his source of wealth, among other things. Thus, the other Goldman Sachs senior employee was
+aware that the Intelligence Group was unlikely to approve proposed Goldman Sachs business
+involving Low.
+
+22. Notwithstanding Leissner, Ng and the other senior employeeâs knowledge of the
+concerns that had been raised about Low not being a suitable client for Goldman Sachs, they
+continued to work with Low based upon their belief that Low would help ensure that government
+officials in Malaysia and Abu Dhabi would deliver lucrative business deals to Goldman Sachs.
+
+The Bond Deals
+
+23. Goldman Sachs was subsequently retained by IMDB in 2012 and 2013 to assist it
+with three large debt financings â âthe Bond Deals.â Leissner and other employees of Goldman
+Sachs knew that Low was playing a central role in these transactions, including by acting as an
+intermediary between Goldman Sachs, IMDB and other Malaysian and Abu Dhabi government
+officials. Leissner and Ng also knew that Low promised to pay bribes and kickbacks to these
+officials to secure IMDB business for Goldman Sachs.
+
+24. Throughout 2012 and 2013, Leissner and Ng actively worked to obtain and retain
+business from IMDB for the benefit of Goldman Sachs through the promise and payment of bribes
+and kickbacks to government officials in Malaysia and Abu Dhabi using, in part, misappropriated
+and embezzled proceeds from the Bond Deals. During this time, through the course of the scheme,
+Leissner, Low and others paid millions of dollars in bribes and kickbacks to government officials,
+and secured IMDB business for Goldman Sachs, in particular, the three Bond Deals and related
+transactions. These three bond financing transactions were referred to internally at Goldman Sachs
+as âProject Magnolia,â âProject Maximusâ and âProject Catalyze.â
+
+25. Although the purported purpose of the approximately $6.5 billion raised by the
+three bond transactions was to support 1 MDB projects for the benefit of the Malaysian people,
+Leissner, Low and others instead planned and executed a scheme to misappropriate more than $2.7
+billion and distribute the money as bribes and kickbacks to government officials in Malaysia and
+Abu Dhabi, including but not limited to Najib Razak, as well as benefits to other participants in the
+scheme and their families, including Leissner.
+
+Goldman Sachs Obtains Project Magnolia from IMDB
+
+26. On at least two occasions in early 2012, senior employees of Goldman Sachs met
+with Low and IMDB officials to discuss IMDBâs proposed purchase of a Malaysian energy
+company, Tanjong Energy Holdings Sdn Bhd, (âTanjongâ) and Goldman Sachsâs preparedness to
+help obtain financing for the purchase. This financing transaction was known as âProject
+Magnolia,â which ultimately closed in May 2012, earning approximately $193 million for
+Goldman Sachs.
+
+27. During these early-2012 meetings in Malaysia and London, according to Leissner,
+the attendees discussed with Low the type of financial guarantee that 1MDB needed to obtain for
+the bond issuance to meet Goldman Sachsâs underwriting requirements. They ultimately agreed on
+a guarantee from Abu Dhabiâs Middle Eastern Sovereign Wealth Fund. During this time and
+afterward, Leissner and other senior employees of Goldman Sachs understood that Low was acting
+as an intermediary between IMDB, Najib Razak and other government officials from Abu Dhabi.
+
+28. During a meeting in London in February 2012, Low explained that in order to
+secure the guarantee from the Middle Eastern Sovereign Wealth Fund they would have to pay
+bribes and kickbacks to government officials, including to certain officials in Malaysia and Abu
+Dhabi. After the February 2012 meeting, Leissner, Ng and another senior employee of Goldman
+Sachs discussed this information.
+
+29. In March 2012, IMDB formally engaged Goldman Sachs to be the sole underwriter
+for the $1.75 billion debt financing transaction designed, in part, to pay for the acquisition of
+Tanjong, which was guaranteed by the Middle Eastern Sovereign Wealth Fund.
+
+30. Shortly thereafter in March 2012, Leissner and other employees of Goldman Sachs
+met in Abu Dhabi with Low and certain IMDB officials and officials of the Middle Eastern
+Sovereign Wealth Fund and the Middle Eastern Investment Firm to discuss the contemplated
+guarantee for Project Magnolia. Throughout that time, senior employees of Goldman Sachs,
+including Leissner, knew Low had arranged the meetings with the officials of the Middle Eastern
+Sovereign Wealth Fund and its subsidiary, the Middle Eastern Investment Firm, and Leissner and
+Ng also knew that some of these officials, among others, would be paid bribes by Low to secure
+the guarantee.
+31. Leissner, Ng and another senior employee of Goldman Sachs also knew that Low
+would pay bribes and kickbacks to influence Malaysian officials to obtain the necessary approvals
+to execute Project Magnolia for Goldman Sachs. During the months leading up to the issuance of
+the Project Magnolia bonds, Leissner knew that Low enlisted 1MDB officials to assist him in
+ensuring that all necessary approvals were obtained from 1MDB officials and others to complete
+the transaction, in exchange for bribes and kickbacks to those IMDB officials.
+
+32. In April 2012, before the closing of Project Magnolia, Leissner and other members
+of the deal team participated in a GS Committee meeting that included many senior Goldman
+Sachs executives participating from multiple locations globally, including New York City, New
+York. The meeting was convened for the purpose of approving Goldman Sachsâs potential
+commitment of capital in Project Magnolia. During the meeting, Leissner was directly asked
+whether Low was involved in Project Magnolia. Leissner told the GS Committee that Low was
+not involved in Project Magnolia, though he and other senior employees of Goldman Sachs knew
+at the time that this statement was false.
+
+33. In late May 2012, near the closing of Project Magnolia, Leissner actively worked
+with Ng and Low to divert some of the bond proceeds that Goldman Sachs raised from Project
+Magnolia into the bank accounts of shell companies that Leissner, Ng and Low beneficially owned
+and controlled. These individuals each understood and expected to keep some of the diverted
+funds for their personal use, and that other funds would be used to pay bribes and kickbacks to
+government officials in Malaysia and Abu Dhabi and elsewhere in exchange for their assistance in
+obtaining and retaining business for Goldman Sachs in connection with Project Magnolia.
+
+34. Goldman Sachs transferred the proceeds of the Magnolia bond offering via wire to
+the IMDB entity designated to receive the payment. At the time, Leissner, Low and others knew
+that a large portion of the proceeds of the bond offering would be diverted to themselves and
+others, including government officials, through shell companies beneficially owned and controlled
+by Low, Leissner and others.
+
+35. | Goldman Sachsâs books and records relating to the Magnolia bond offering failed
+to accurately reflect key aspects of the transaction, including the involvement of a third-party
+intermediary.
+
+36. Within three months of the May 2012 closing of Project Magnolia, millions of
+dollars of bond proceeds were transferred through shell companies beneficially owned and
+controlled by Low and other participants in the scheme into a Hong Kong bank account in the
+name of shell companies incorporated in the British Virgin Islands and controlled by Leissner.
+Leissner used a portion of these funds for his personal use and enjoyment. Leissner also knew that
+other of the bond proceeds from Project Magnolia were transferred through shell company
+accounts beneficially owned and controlled by Low and other participants in the scheme and
+ultimately into accounts of shell companies beneficially owned and controlled by Abu Dhabi
+government officials with influence over the transaction.
+Goldman Sachs Obtains Project Maximus from IMDB
+
+37. In May 2012, Goldman Sachs began to plan a second bond transaction, known
+internally as âProject Maximus.â It was designed, in part, to raise capital for 1 MDB to purchase a
+second Malaysian power generation company, Genting Berhad (âGentingâ). The mandate to
+underwrite this bond offering was awarded by IMDB to Goldman Sachs, and it was structured
+similarly to the first bond issuance but with an indirect guarantee from the Middle Eastern
+Sovereign Wealth Fund. Project Maximus ultimately closed on or about October 19, 2012, raising
+approximately $1.75 billion for the designated 1MDB entity and resulting in approximately $188
+million for Goldman Sachs. This was six months after the close of Project Magnolia. All told, in
+these two 2012 transactions, IMDB issued a total of $3.5 billion in bonds that were underwritten
+by Goldman and guaranteed by the Middle Eastern Sovereign Wealth Fund.
+
+38. Leissner and Ng understood and intended that Low and others would pay bribes
+and kickbacks to influence Malaysian and Abu Dhabi officials to obtain the necessary approvals to
+execute the Project Maximus bond offering. Although the Middle Eastern Sovereign Wealth Fund
+did not provide a direct financial guarantee of the Project Maximus bonds as it had with Project
+Magnolia, it nevertheless agreed to provide an indirect guarantee. As with Project Magnolia,
+Leissner and Ng continued to work with Low to acquire this business for Goldman Sachs.
+
+39. Leissner and Ng knew that a large portion of the proceeds of Project Maximus
+would be illegally diverted to themselves and others, including government officials, through shell
+companies beneficially owned and controlled by Leissner and others. Leissner also knew at the
+time that Najib Razak and government officials from Abu Dhabi and IMDB officials would
+receive money from the proceeds of Project Maximus that passed through various shell companies
+beneficially owned and controlled by himself, Low and others. Moreover, along with Low and
+others, it was Leissnerâs intended purpose that the payments were to flow to these government
+officials to influence the officials to execute the bond transaction with Goldman Sachs. A close
+relative of Najib Razak and a senior official with the Middle Eastern Sovereign Wealth Fund,
+among others, received some of these funds.
+
+AO. Some of the proceeds from Project Maximus were transferred by or per Low to
+Leissner in furtherance of the scheme. Thereafter, Leissner, Low and others caused some of these
+funds to be transferred to the accounts of IMDB officials or relatives of such officials, or to the
+accounts of shell companies beneficially owned by IMDB officials, in exchange for their
+assistance in obtaining and retaining business for Goldman Sachs.
+
+41. Goldman Sachsâs books and records relating to the Maximus bond offering failed to
+accurately reflect key aspects of the transaction, including the involvement of a third-party
+intermediary.
+
+Goldman Sachs Obtains Project Catalyze from IMDB
+42. In November 2012, despite having raised over $3 billion in the prior 11 months,
+
+IMDB sought to raise an additional $3 billion through a bond issuance known internally at
+Goldman Sachs as âProject Catalyze.â The stated purpose of this debt financing was to fund
+IMDBâs portion of a joint venture with the Middle Eastern Investment Firm. Goldman Sachs was
+engaged to underwrite the project in or around early 2013. The Project Catalyze bond offering
+ultimately issued on March 19, 2013, resulting in a further approximately $186 million for
+Goldman Sachs from the deal.
+
+43. As they had with the two prior IMDB bond issuances, Leissner and other Goldman
+Sachs employees continued to work on deals where Low was an intermediary between Goldman
+Sachs, IMDB officials, Najib Razak and other Malaysian government officials. A portion of the
+approximately $3 billion raised by Project Catalyze was transferred to Leissner by or at the
+direction of Low.
+
+44, Goldman Sachsâs books and records relating to the Catalyze bond offering failed to
+accurately reflect key aspects of the transaction, including the involvement of a third-party
+intermediary
+
+Goldman Sachs Obtains Further Business from Jho Low Post-Catalyze
+
+45. During and after the IMDB Bond Deals, Goldman Sachs pursued additional
+business opportunities involving Low, such as the restructuring of an investment by the Middle
+Eastern Investment Firm in a Malaysian bank with Low as âan advisorâ to the Companyâs client,
+and Lowâs acquisition of an oil company through a joint venture with a subsidiary of the Middle
+Eastern Sovereign Wealth Fund (âProject Condorâ). These transactions involved not only Low,
+but also two officials from Abu Dhabi whom Low and others had recently bribed in connection
+with the Bond Deals.
+
+46. Leissner and other Goldman Sachs employees failed to disclose Lowâs involvement
+in Project Condor to the firmâs Intelligence Group for approximately ten months. In October 2013,
+Leissner sought internal approval for Goldman Sachs to advise Lowâs business entity as a client.
+Goldman Sachs Intelligence Group personnel informed Leissner that the firm could not advise
+Lowâs business entity. Leissner and other senior Goldman Sachs employees completed the
+transaction, with Low as a minority co-investor alongside the Middle Eastern Sovereign Wealth
+Fund subsidiary that was the Companyâs client. When Project Condor ultimately closed in January
+2014, the deal was structured with Lowâs business entity contributing a minor percentage of the
+necessary capital and the Middle Eastern Sovereign Wealth Fund subsidiary responsible for the
+remainder. The transaction resulted in approximately $10 million for Goldman Sachs.
+
+Goldman Sachsâs Failure to Maintain Adequate Internal Accounting Controls
+
+47. Goldman Sachs failed to maintain a sufficient system of internal accounting
+controls between 2012 and 2015 with respect to the process by which it reviewed and approved the
+commitment of firm capital in large, significant and complex transactions, such as the Bond Deals.
+This resulted in Goldman Sachsâs failing to reasonably assure adequate documentation of the GS
+Capital Committeeâs processes, including follow-up, oversight and documentation regarding due
+diligence of concerns raised by the GS Capital Committee regarding the Bond Deals. Under the
+Companyâs policy, the GS Capital Committee was intended to serve a vital control function with
+regard to significant commitments in firm capital. Goldman Sachs initiated enhancements to its
+processes with respect to committee documentation in 2015.
+
+A8. Each of the three Bond Deals was submitted to the GS Capital Committee, and as
+was typical practice at the firm, the GS Capital Committee transaction review took place in stages.
+The Committeeâs approvals were granted conditionally, meaning that further action steps were
+needed â typically by the deal team â to address open items or conduct due diligence on significant
+concerns raised during the GS Committee process before approval of a given transaction would
+become effective. Follow-up was required on a number of items for the Bond Deals, including the
+Middle Eastern Sovereign Wealth Fund guarantee on the first Bond Deal.
+
+49. | Goldman Sachsâs Debt Underwriting Group had responsibility for confirming that
+follow-up items were completed prior to a deal closing. However, due to weaknesses in the
+implementation of this control, the results of this follow-up were not documented consistent with
+the GS Capital Committee providing its vital control function.
+
+LEGAL STANDARDS AND VIOLATIONS
+
+50. Under Section 21C(a) of the Exchange Act, the Commission, after making certain
+required findings, may impose a cease-and-desist order upon any person who is violating, has
+violated, or is about to violate any provision of the Exchange Act or any rule or regulation
+thereunder, and upon any other person that is, was, or would be a cause of the violation, due to an
+act or omission the person knew or should have known would contribute to such violation.
+
+Goldman Sachs Violated Exchange Act Section 30A
+
+51. The anti-bribery provisions of the FCPA, Section 30A of the Exchange Act, make it
+unlawful for any issuer with a class of securities registered pursuant to Section 12 of the Exchange
+Act, or any employee or agent of such issuer, to make use of the mails or any means or
+instrumentality of interstate commerce corruptly in furtherance of an offer, payment, promise to
+pay, or authorization of the payment of any money, or offer, gift or promise to give anything of
+value to any foreign official for purposes of influencing any act or decision of such foreign official
+in his official capacity in order to assist such issuer in obtaining or retaining business for or with
+any person. 15 U.S.C. Â§ 78dd-1. As a result of the conduct described above regarding payments to
+government officials, Goldman Sachs violated Exchange Act Section 30.
+
+Goldman Sachs Violated Exchange Act Section 13(b)(2)(A)
+
+52. The books and records provision of the FCPA, Section 13(b)(2)(A) of the Exchange
+Act, requires every issuer with a class of securities registered pursuant to Section 12 of the
+Exchange Act to make and keep books, records, and accounts, which, in reasonable detail,
+accurately and fairly reflect the transactions and dispositions of the assets of the issuer. 15 U.S.C.
+Â§ 78m(b)(2)(A). As described above, Goldman Sachsâs books and records did not accurately
+reflect key aspects of the Bond Deals. By this conduct Goldman Sachs violated Exchange Act
+Section 13(b)(2)(A).
+
+10
+Goldman Sachs Violated Exchange Act Section 13(b)(2)(B)
+
+53. Section 13(b)(2)(B) of the Exchange Act requires companies with a class of
+securities registered under Section 12 of the Exchange Act to devise and maintain a system of
+internal accounting controls sufficient to provide reasonable assurances that (1) transactions are
+executed in accordance with managementâs general or specific authorization; (11) transactions are
+recorded as necessary (I) to permit preparation of financial statements in conformity with generally
+accepted accounting principles or any other criteria applicable to such statements, and (II) to
+maintain accountability for assets; (111) access to assets is permitted only in accordance with
+managementâs general or specific authorization; and (iv) the recorded accountability for assets is
+compared with the existing assets at reasonable intervals and appropriate action is taken with
+respect to any differences. 15 U.S.C. Â§ 78m(b)(2)(B). As described above, Goldman Sachs failed
+to implement a system of internal accounting controls sufficient to provide reasonable assurances
+that transactions were executed in accordance with managementâs general or specific authorization
+and that access to assets was permitted only in accordance with managementâs general or specific
+authorization. By this conduct, Goldman Sachs violated Exchange Act Section 13(b)(2)(B).
+
+Criminal and Other Regulatory Dispositions
+
+54. Respondent has entered into a deferred prosecution agreement with the Department
+of Justice that acknowledges responsibility for criminal conduct relating to certain findings in the
+Order.
+
+55. Respondent has also entered into a parallel civil settlement with the Board of
+Governors of the Federal Reserve System (the âFederal Reserve Boardâ) concerning some of the
+findings in the Order.
+
+IV.
+
+In view of the foregoing, the Commission deems it appropriate and in the public interest
+to impose the sanctions agreed to in Respondentâs Offer.
+
+Accordingly, pursuant to Section 21C of the Exchange Act, it is hereby ORDERED
+that:
+
+A. Respondent Goldman Sachs cease and desist from committing or causing any
+violations and any future violations of Sections 30A, 13(b)(2)(A) and
+13(b)(2)(B) of the Exchange Act [15 U.S.C. Â§Â§ 78m(b)(2)(A), 78m(b)(2)(B),
+and 78dd-1];
+
+B. Respondent Goldman Sachs shall pay to the Commission disgorgement of
+$606,300,000, which shall be deemed satisfied by the payment previously made
+to the Government of Malaysia and IMDB pursuant to a parallel Settlement
+Agreement entered into by Goldman Sachs on August 18, 2020;
+
+C. Respondent shall, within 21 days of the entry of this Order, pay a civil money
+penalty in the amount of $400,000,000 to the Securities and Exchange
+
+11
+Commission for transfer to the general fund of the United States Treasury,
+subject to Exchange Act Section 21F(g)(3). If timely payment is not made,
+additional interest shall accrue pursuant to 31 U.S.C. Â§3717; and
+
+D. Payment must be made in one of the following ways:
+
+(1) Respondent may transmit payment electronically to the Commission, which
+will provide detailed ACH transfer/Fedwire instructions upon request;
+
+(2) Respondent may make direct payment from a bank account via Pay.gov
+through the SEC website at http://www.sec.gov/about/offices/ofm.htm; or
+
+(3) Respondent may pay by certified check, bank cashierâs check, or United
+States postal money order, made payable to the Securities and Exchange
+Commission and hand-delivered or mailed to:
+
+Enterprise Services Center
+Accounts Receivable Branch
+
+HQ Bldg., Room 181, AMZ-341
+6500 South MacArthur Boulevard
+Oklahoma City, OK 73169
+
+Payments by check or money order must be accompanied by a cover letter identifying The
+Goldman Sachs Group, Inc. as the Respondent in these proceedings, and the file number of these
+proceedings; a copy of the cover letter and check or money order must be sent to Charles Cain,
+FCPA Unit Chief, Division of Enforcement, Securities and Exchange Commission, 100 F St., NE,
+Washington, DC 20549.
+
+12
+Amounts ordered to be paid as civil money penalties pursuant to this Order shall
+be treated as penalties paid to the government for all purposes, including all tax
+purposes. To preserve the deterrent effect of the civil penalty, Respondent agrees
+that in any Related Investor Action, it shall not argue that it is entitled to, nor shall
+it benefit by, offset or reduction of any award of compensatory damages by the
+amount of any part of Respondentâs payment of a civil penalty in this action
+(âPenalty Offsetâ). Ifthe court in any Related Investor Action grants such a
+Penalty Offset, Respondent agrees that it shall, within 30 days after entry of a final
+order granting the Penalty Offset, notify the Commissionâs counsel in this action
+and pay the amount of the Penalty Offset to the Securities and Exchange
+Commission. Such a payment shall not be deemed an additional civil penalty and
+shall not be deemed to change the amount of the civil penalty imposed in this
+proceeding. For purposes of this paragraph, a âRelated Investor Actionâ means a
+private damages action brought against Respondent by or on behalf of one or
+more investors based on substantially the same facts as alleged in the Order
+instituted by the Commission in this proceeding.
+
+By the Commission,
+
+Vanessa A. Countryman
+Secretary
+
+13

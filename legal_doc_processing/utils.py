@@ -128,7 +128,16 @@ def strize(item_list):
 
 
 def get_spacy():
-    return spacy.load("en_core_web_sm")
+
+    nlspa = spacy.load("en_core_web_sm")
+    nlspa.add_pipe("sentencizer")
+
+    return nlspa
+
+
+def get_spa_pipe():
+
+    return get_spacy(), get_pipeline()
 
 
 def _if_not_spacy(nlspa):

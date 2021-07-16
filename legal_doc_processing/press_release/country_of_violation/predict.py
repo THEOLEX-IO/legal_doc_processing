@@ -39,8 +39,9 @@ def predict_country_of_violation(data: dict) -> list:
 
     ans_list = list()
     for sent, country in countries_cands:
-        quest = [["where does the violation took place?", "fine"]]
-        ans = ask_all(sent, quest, sent=sent, nlpipe=data.nlpipe)
+        quest = [["what is the country of violation?", "fine"]]
+        
+        ans = ask_all(sent, quest, sent=sent, sent_id=country, nlpipe=data.nlpipe)
         ans_list.extend(ans)
 
     # countries_lowered = _u([i.lower().strip() for i in countries_cands])

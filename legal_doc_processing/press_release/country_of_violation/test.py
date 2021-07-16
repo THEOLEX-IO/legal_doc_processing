@@ -44,6 +44,7 @@ def predict_country_of_violation(data: dict) -> list:
     juridiction = data.juridiction
     auth_list = data.feature_dict["extracted_authorities"].lower().split(";;")
 
+    # TO BE VALIDATED WITH MARTINE CFPB & CFTC --> 99 % accuracy USA
     # cfbp and cftc -> USA
     for auth in ["cfbp", "cftc"]:
         if juridiction in auth:
@@ -54,13 +55,40 @@ def predict_country_of_violation(data: dict) -> list:
 
     # find the list of countries
     countries_cands = list()
-    countries_list=[]
     for sent in sent_list:
-        countries=ask_all(txt=sent, quest_pairs=[("What is the country of violation?", "country")], nlpipe=nlpipe)
+        # find GPE
+        cand = get_label_(sent, "GPE", data.nlspa)
+        # extend countries_cands
+        countries_cands.append([sent, cand])
 
-        countries_list.append(countries)
+    # clean empty GPE item
+    countries_cands = [[i, j] for i, j in countries_cands if j]
 
-        return countries_list
+    ans_list = list()
+    for sent, country in countries_cands:
+        quest = [["where does the violation took place?", "fine"]]
+        
+        ans = ask_all(sent, quest, sent=sent, sent_id=country, nlpipe=data.nlpipe)
+        ans_list.extend(ans)
+
+    ans_list=sorted(ans_list, key=lambda i: i["score"], reverse=True)
+    is_good=lambda answer, sent_id: any([i for i in sent_id if i in answer.strip()])
+    ans_list= [i for i in ans_list if is_good(i["answer"], i["sent_id"])]
+
+
+
+
+
+    # countries_lowered = _u([i.lower().strip() for i in countries_cands])
+
+    # # filter
+    # _countries_list = [i.lower().strip() for i in countries_list]
+    # in_countries = lambda i: i.replace("the", "").strip() in _countries_list
+    # countries_filtered = [
+    #     i.replace("the", "").strip() for i in countries_lowered if in_countries(i)
+    # ]
+
+    return ans_list
 
    # spa and pipe
     nlpsa, nlpipe = get_spa_pipe()
@@ -73,7 +101,7 @@ def predict_country_of_violation(data: dict) -> list:
         sample=0.25,
     )
 
-    pr = df.pr.iloc[4]
+    pr = df.pr.iloc[6]
     pr.predict("extracted_authorities")
     data = pr.data
 

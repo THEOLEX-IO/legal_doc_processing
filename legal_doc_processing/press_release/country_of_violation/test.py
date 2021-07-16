@@ -65,3 +65,6 @@ countries = predict_country_of_violation(data)
 for cv in countries[0]:
     if cv["score"] > 0.5:
         print(cv["answer"])
+
+#tester sur un dizaine de cas
+#filtrer et ajouter une fonction de clearning

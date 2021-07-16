@@ -73,14 +73,16 @@ def predict_country_of_violation(data: dict) -> list:
         sample=0.25,
     )
 
-    pr = df.pr.iloc[0]
+    pr = df.pr.iloc[4]
     pr.predict("extracted_authorities")
     data = pr.data
 
+#test the prediction
 countries=predict_country_of_violation(data)
 
+#filter the prediction 
 for cv in countries[0]:
-     if cv["score"]>0.7:
+     if cv["score"]>0.5:
          print(cv["answer"])
 
 
@@ -97,18 +99,6 @@ if __name__ == "__main__":
     from legal_doc_processing.press_release import country_of_violation
 
 
-
-
-    import pdb
-
-from legal_doc_processing import logger
-
-from legal_doc_processing.utils import uniquize as _u
-from legal_doc_processing.utils import get_label_
-
-from legal_doc_processing.press_release.country_of_violation.countries_list import (
-    countries_list,
-)
 
 
 def predict_country_of_violation(data: dict) -> list:

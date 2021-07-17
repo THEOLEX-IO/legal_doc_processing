@@ -54,17 +54,30 @@ df = press_release_df(
     sample=0.25,
 )
 
-pr = df.pr.iloc[6]
+pr = df.pr.iloc[1]
 pr.predict("extracted_authorities")
 data = pr.data
 
 # test the prediction
 countries = predict_country_of_violation(data)
+ans_list = sorted(countries, key=lambda i: i["score"], reverse=True)
+is_good = lambda answer, sent_id: any([i for i in sent_id if i in answer.strip()])
+ans_list = [i for i in ans_list if is_good(i["answer"], i["sent_id"])]
 
 # filter the prediction
-for cv in countries[0]:
+for cv in ans_list:
     if cv["score"] > 0.5:
         print(cv["answer"])
+
+
+def clean_answer(answer_disc):
+    list_answer=[]
+    for cv in answer_disc:
+        if cv["score"] > 0.5:
+            list_answer.append(cv["answer"])
+            
+    return list(set(list_answer))
+
 
 #tester sur un dizaine de cas
 #filtrer et ajouter une fonction de clearning

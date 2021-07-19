@@ -54,7 +54,7 @@ df = press_release_df(
     sample=0.25,
 )
 
-pr = df.pr.iloc[1]
+pr = df.pr.iloc[2]
 pr.predict("extracted_authorities")
 data = pr.data
 
@@ -73,10 +73,13 @@ for cv in ans_list:
 def clean_answer(answer_disc):
     list_answer=[]
     for cv in answer_disc:
-        if cv["score"] > 0.5:
+        if cv["score"] > 0.7:
             list_answer.append(cv["answer"])
-            
+
+    
     return list(set(list_answer))
+
+
 
 
 #tester sur un dizaine de cas

@@ -6,6 +6,7 @@
 # import asyncio
 
 import os
+from subprocess import call
 
 import numpy as np
 import pandas as pd
@@ -126,9 +127,12 @@ def strize(item_list):
 
     return ";;".join(clean_l(unique_l))
 
-
 def get_spacy():
-    return spacy.load("en_core_web_sm")
+    try:
+        return spacy.load("en_core_web_sm")
+    except:
+        call(['python','-m','spacy','download','en_core_web_sm'])
+        return spacy.load("en_core_web_sm")
 
 
 def _if_not_spacy(nlspa):

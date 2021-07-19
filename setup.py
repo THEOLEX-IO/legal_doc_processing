@@ -1,5 +1,10 @@
 import setuptools
 from legal_doc_processing.version import Version
+import setuptools.command.build_py
+from subprocess import call
+from setuptools.command.develop import develop
+from setuptools.command.install import install
+from subprocess import check_call
 
 REQUIRED = [
     "pandas",

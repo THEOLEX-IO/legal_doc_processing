@@ -6,17 +6,17 @@ import requests
 
 import pandas as pd
 
-from src.google import files
-from src.filters import (
+from legal_doc_processing.downloader.google import files
+from legal_doc_processing.downloader.filters import (
     filter_juridiction,
     filter_ext,
     filter_press_release,
     select_best_file,
     handle_multiple_file_problem,
 )
-from src.clean import clean_url
-from src.get import get_text
-from src.save import save_files
+from legal_doc_processing.downloader.clean import clean_url
+from legal_doc_processing.downloader.get import get_text
+from legal_doc_processing.downloader.save import save_files
 
 
 SOURCE = "cftc"

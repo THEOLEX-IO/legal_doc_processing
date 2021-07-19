@@ -11,10 +11,13 @@ from legal_doc_processing.press_release.court.predict import (
 from legal_doc_processing.press_release.cooperation_credit.predict import (
     predict_cooperation_credit,
 )
-
-from legal_doc_processing.press_release.code_law_violation.predict import (
-    predict_code_law_violation,
+from legal_doc_processing.press_release.extracted_sanctions.predict import (
+    predict_extracted_sanctions,
 )
+
+# from legal_doc_processing.press_release.code_law_violation.predict import (
+#     predict_code_law_violation,
+# )
 from legal_doc_processing.press_release.country_of_violation.predict import (
     predict_country_of_violation,
 )

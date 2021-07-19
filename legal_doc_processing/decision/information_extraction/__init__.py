@@ -16,6 +16,9 @@ from legal_doc_processing.decision.information_extraction.cooperation_credit imp
     predict_cooperation_credit,
 )
 
+from legal_doc_processing.decision.information_extraction.extracted_sanctions import (
+    predict_extracted_sanctions,
+)
 from legal_doc_processing.decision.information_extraction.code_law_violation import (
     predict_code_law_violation,
 )

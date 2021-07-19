@@ -105,11 +105,12 @@ class Base:
             "_court",
             "_currency",
             "_decision_date",
+            "_extracted_sanctions",
             "_extracted_violations",  # ATTENTION PB extracted_violations vs _nature_of violations
             "_folder",
             "_judge",
             "_monitor",
-            "_nature_de_sanction",  # attention _penalty_details _monetary_sanction and  _compliance_obligations
+            "_nature_de_sanction",  # _nature_de_sanction needs_extracted_sanctions
             "_nature_of_violations",  ###### ATTENTION PB extracted_violations vs _nature_of violations
             "_reference",
             "_extracted_authorities",  # depends of judge
@@ -117,7 +118,7 @@ class Base:
             "_justice_type",  # depends of _extracted_authorities
             "_defendant",  # depends of _judge and _extracted_authorities
             "_country_of_violation",  # depends of _extracted_authorities
-            "_penalty_details",  # depends of _extracted_violations
+            "_penalty_details",  # depends of _extracted_sanctions
             "_monetary_sanction",  # depends of _penalty_details
             "_compliance_obligations",
             # depends of predict authorities
@@ -278,10 +279,14 @@ class Base:
             val = self._predict["judge"](self.data)
             setattr(self, "_judge", val)
 
-        # extracted_violations need penalty_details
+        # nature_de_sanction, penalty_details need extracted_sanctions
+        if feature == "nature_de_sanction":
+            val = self._predict["extracted_sanctions"](self.data)
+            setattr(self, "_extracted_sanctions", val)
+
         if feature == "penalty_details":
-            val = self._predict["extracted_violations"](self.data)
-            setattr(self, "_extracted_violations", val)
+            val = self._predict["extracted_sanctions"](self.data)
+            setattr(self, "_extracted_sanctions", val)
 
         if feature in self.feature_list:
             try:

@@ -32,7 +32,9 @@ class PressRelease(Base):
         self.set_all()
 
 
-def press_release_df(juridiction="", nlspa="", nlpipe="", sample=0.25, max_init_time=3.0):
+def press_release_df(
+    juridiction="", nlspa=None, nlpipe=None, sample=0.25, max_init_time=3.0
+):
     """ """
 
     assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
@@ -85,3 +87,4 @@ def press_release_df(juridiction="", nlspa="", nlpipe="", sample=0.25, max_init_
 class _PressRelease:
     PressRelease = PressRelease
     load_X_y = press_release_X_y
+    load_df = press_release_df

@@ -200,14 +200,14 @@ def ask_all(txt, quest_pairs, sent_id=None, sent=None, nlpipe=None) -> list:
     ans = []
 
     # loop
-    logger.info(f"quest_pairs : {quest_pairs} , len {quest_pairs} ")
+    # logger.info(f"quest_pairs : {quest_pairs} , len {quest_pairs} ")
     # pdb.set_trace()
 
     for quest, label in quest_pairs:
 
-        logger.info(f"quest_pairs : {quest_pairs} ")
+        # logger.info(f"quest_pairs : {quest_pairs} ")
         ds = _ask(txt=txt, quest=quest, nlpipe=nlpipe)
-        _ = [d.update({"question": label}) for d in ds]
+        _ = [d.update({"question": quest, "quest_label": label}) for d in ds]
         if sent_id:
             _ = [d.update({"sent_id": sent_id}) for d in ds]
         if sent:

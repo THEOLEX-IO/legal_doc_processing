@@ -7,7 +7,14 @@ def _question_helper(txt) -> list:
     _txt = txt.lower()
     res = list()
 
-    cands = ["judge ", "attorney"]
+    cands = [
+        "impose",
+        "judgment",
+        "order",
+        "settl",
+        "enters",
+        "act",
+    ]
 
     for cand in cands:
         if cand in _txt:
@@ -21,20 +28,12 @@ def _question_selector(key: str) -> list:
 
     res = list()
 
-    if "judge " in key:
+    if key in ["impose", "judgment", "order", "settl", "enters", "act"]:
         res.extend(
             [
-                ("Who is the judge? ", "who_question"),
+                ("Who is the nature of the decision?", "nature"),
             ]
         )
-
-    if "attorney" in key:
-        res.extend(
-            [
-                ("Who is the attorney? ", "who_question"),
-            ]
-        )
-
     return res
 
 

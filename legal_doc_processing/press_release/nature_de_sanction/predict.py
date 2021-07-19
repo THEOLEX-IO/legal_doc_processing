@@ -4,4 +4,7 @@ from legal_doc_processing import logger
 def predict_nature_de_sanction(data: dict) -> list:
     """ """
 
-    return [("-- DUMMY --", 1)]
+    sanctions = data._feature_dict["_extracted_sanctions"]
+    sanctions = [(i, j) for i, j in sanctions if "$" not in i]
+
+    return sanctions

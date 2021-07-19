@@ -22,4 +22,7 @@ def predict_nature_of_violations(data: dict) -> list:
     if "spoofing".lower() in violations:
         natures.append("Spoofing")
 
+    if "Fraud Scheme".lower() in violations:
+        natures.append("Fraud Scheme")
+
     return [(i, 1) for i in natures]

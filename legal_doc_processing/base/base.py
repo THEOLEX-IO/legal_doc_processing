@@ -120,7 +120,7 @@ class Base:
             "_country_of_violation",  # depends of _extracted_authorities
             "_penalty_details",  # depends of _extracted_sanctions
             "_monetary_sanction",  # depends of _penalty_details
-            "_compliance_obligations",
+            "_compliance_obligations",  # depends of _extracted_sanctions
             # depends of predict authorities
             # "_violation_date",
         ]

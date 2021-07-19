@@ -21,7 +21,7 @@ from legal_doc_processing.press_release.extracted_violations.questions import (
 def predict_extracted_violations(
     data: dict,
     h1_len_threshold: int = 15,
-    content_n_sents_threshold: int = 5,
+    content_n_sents_threshold: int = 10,
     threshold: float = 0.25,
 ) -> list:
     """ """
@@ -58,11 +58,6 @@ def predict_extracted_violations(
     if not ans_list:
         return [("", 1)]
 
-    # TODO
-    # clean
-    # for exem FCPA remplace  "Foreign Corrupt Practices Act"
-    # clean len() > 12
-
     # merged_ans
     answer_label = "answer"
     merged_ans = merge_ans(ans_list, label=answer_label)
@@ -77,50 +72,3 @@ def predict_extracted_violations(
     last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
 
     return last_ans
-
-
-# def predict_extracted_violations(obj: dict, threshold=0.4, n_sents: int = 5) -> list:
-#     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
-
-#     # pers_org_entities_list
-#     pers_org_all = obj["pers_org_all"] + _u(_clean_list_to_list(obj["pers_org_all"]))
-#     pers_org_all = _u(pers_org_all)
-
-#     # items
-#     h1, abstract = obj["h1"], obj["abstract"]
-#     abstract_sents = obj["abstract_sents"][:n_sents]
-#     ans = []
-
-#     # ask medhod h1
-#     for key_h1 in _question_helper(h1):
-#         # print(f"key_h1 : {key_h1} ")
-#         quest_pairs = _u(_question_selector(key_h1))
-#         # print(f"quest_pairs : {quest_pairs} ")
-#         ans.extend(ask_all(h1, quest_pairs, nlpipe=obj["nlpipe"]))
-
-#     # ask medhod abstract_sents
-#     for sent in abstract_sents:
-#         key_list = _question_helper(sent)
-#         for key in key_list:
-#             # print(key)
-#             quest_pairs = _u(_question_selector(key))
-#             # print(quest_pairs)
-#             ans.extend(ask_all(sent, quest_pairs, nlpipe=obj["nlpipe"]))
-
-#     # clean ans
-#     cleaned_ans = clean_ans(ans)
-#     answer_label = "new_answer"
-#     if not len(cleaned_ans):
-#         cleaned_ans = [{answer_label: "--None--", "score": -1}]
-
-#     # merge ans
-#     merged_ans = merge_ans(cleaned_ans, label=answer_label)
-
-#     # filert by spacy entities
-#     consitant_ans = [i for i in merged_ans if i[answer_label] not in pers_org_all]
-
-#     # filter by threshold
-#     flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]
-#     last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
-
-#     return [(i.lower(), j) for i, j in last_ans]

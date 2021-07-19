@@ -113,18 +113,24 @@ def uniquize(iterable: list) -> list:
         return []
 
 
-def strize(item_list):
+def strize(item_list, sep=";", force_list=False):
     """ """
 
+    # if score -1
     non_null = [(i, j) for i, j in item_list if j > -1]
     if not non_null:
         return ""
 
+    # clean and unique
     clean_l = lambda item_list: [str(i).strip() for i, j in non_null]
-
     unique_l = uniquize(clean_l)
+    str_cand = clean_l(unique_l)
 
-    return ";;".join(clean_l(unique_l))
+    # return
+    if force_list:
+        return sep.join(str_cand)
+    else:
+        return "\n".join(["- " + i for i in str_cand])
 
 
 def get_spacy():

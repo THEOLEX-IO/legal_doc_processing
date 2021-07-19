@@ -9,7 +9,11 @@ from legal_doc_processing.press_release.penalty_details.clean import clean_ans
 def predict_penalty_details(data: dict) -> list:
     """ """
 
-    return [("-- DUMMY --", 1)]
+    sanctions = data._feature_dict["_extracted_sanctions"]
+
+    sanctions = [(i, j) for i, j in sanctions if "$" in i]
+
+    return sanctions
 
 
 # def predict_penalty_details(obj: dict, threshold=0.4, n_sents: int = 5) -> list:

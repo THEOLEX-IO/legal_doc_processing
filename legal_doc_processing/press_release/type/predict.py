@@ -31,8 +31,11 @@ def predict_type(
             quest_pairs = _question_lister(key_list)
             ans_list.extend(ask_all(sent, quest_pairs, sent=sent, nlpipe=data.nlpipe))
 
-    answer_label = "answer"
+    if not ans_list:
+        return [("", 1)]
+
     # filter by threshold
+    answer_label = "answer"
     flatten_ans = [(i[answer_label], i["cum_score"]) for i in ans_list]
     last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
 

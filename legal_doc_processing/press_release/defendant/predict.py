@@ -35,12 +35,14 @@ def predict_defendant(
             quest_pairs = _question_lister(key_list)
             ans_list.extend(ask_all(sent, quest_pairs, sent=sent, nlpipe=data.nlpipe))
 
+    if not (ans_list):
+        return [("", 1)]
+
     # clean ans
     cleaned_ans = clean_ans(ans_list)
     answer_label = "new_answer"
     if not len(cleaned_ans):
-        cleaned_ans = [{answer_label: "", "score": 1}]
-        return cleaned_ans
+        return [("", 1)]
 
     # merge ans
     merged_ans = merge_ans(cleaned_ans, label=answer_label)

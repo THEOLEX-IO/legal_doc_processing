@@ -6,6 +6,7 @@ from legal_doc_processing.utils import merge_ans, ask_all, cosine_similarity
 from legal_doc_processing.press_release.defendant.questions import (
     _question_helper,
     _question_selector,
+    _question_lister,
 )
 from legal_doc_processing.press_release.defendant.clean import (
     _sub_you_shall_not_pass,
@@ -13,77 +14,51 @@ from legal_doc_processing.press_release.defendant.clean import (
 )
 
 
-def predict_defendant(data: dict) -> list:
+def predict_defendant(
+    data: dict,
+    h1_len_threshold: int = 15,
+    content_n_sents_threshold: int = 5,
+    threshold: float = 0.25,
+) -> list:
     """ """
 
     # sents
-    if len(data.h1) > 20:
-        h1 = data.h1
-    else:
-        h1 = ""
-
-    abstract_list = data.content_sents[:5]
-    sent_list = [h1] + abstract_list
-    # clean
+    h1 = [data.h1] if len(data.h1) > h1_len_threshold else [""]
+    sent_list = h1 + data.content_sents[:content_n_sents_threshold]
     sent_list = [i.replace("\n", "") for i in sent_list if i]
 
     # quest
     ans_list = list()
     for sent in sent_list:
         key_list = _question_helper(sent)
-        quest_pairs = _u([_question_selector(key) for key in key_list])
-        ans_list.extend(ask_all(sent, quest_pairs, sent=sent, nlpipe=data.nlpipe))
+        if quest_pairs:
+            quest_pairs = _question_lister(key_list)
+            ans_list.extend(ask_all(sent, quest_pairs, sent=sent, nlpipe=data.nlpipe))
 
-    return [("-- DUMMY --", 1)]
+    # clean ans
+    cleaned_ans = clean_ans(ans_list)
+    answer_label = "new_answer"
+    if not len(cleaned_ans):
+        cleaned_ans = [{answer_label: "", "score": 1}]
+        return cleaned_ans
 
+    # merge ans
+    merged_ans = merge_ans(cleaned_ans, label=answer_label)
 
-# def predict_defendant(obj: dict, threshold: float = 0.4, n_sents: int = 3) -> list:
-#     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
+    # filert by spacy entities
+    consitant_ans = [i for i in merged_ans if i[answer_label] in data.pers_org_all]
 
-#     # pipe to avoid re init a pipe each time (+/- 15 -> 60 sec)
-#     nlpipe = obj["nlpipe"]
+    # exclude judge
+    judge_list = [
+        i.lower().replace("judge", "").strip()
+        for i in data.feature_dict["judge"].split(",")
+    ]
+    exclude_judge = lambda i: i[answer_label].strip().lower() not in judge_list
+    if judge_list:
+        consitant_ans = [i for i in consitant_ans if exclude_judge(i)]
 
-#     # pers_org_entities_list
-#     pers_org_all = obj["pers_org_all"] + _u(_sub_you_shall_not_pass(obj["pers_org_all"]))
-#     pers_org_all = _u(pers_org_all)
+    # filter by threshold
+    flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]
+    last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
 
-#     # judge
-#     judge_list = [i.strip().lower() for i in obj["feature_dict"]["judge"].split(",")]
-
-#     # items
-#     h1, abstract = obj["h1"], obj["abstract"]
-#     abstract_sents = obj["abstract_sents"][:n_sents]
-#     ans = []
-
-#     # ask medhod
-#     for key_h1 in _question_helper(h1):
-#         quest_pairs = _u(_question_selector(key_h1))
-#         ans.extend(ask_all(h1, quest_pairs, nlpipe=nlpipe))
-
-#     for sent in abstract_sents:
-#         key_list = _question_helper(sent)
-#         for key in key_list:
-#             quest_pairs = _u(_question_selector(key))
-#             ans.extend(ask_all(sent, quest_pairs, nlpipe=nlpipe))
-
-#     # clean ans
-#     cleaned_ans = clean_ans(ans)
-#     answer_label = "new_answer"
-#     if not len(cleaned_ans):
-#         cleaned_ans = [{answer_label: "--None--", "score": -1}]
-
-#     # merge ans
-#     merged_ans = merge_ans(cleaned_ans, label=answer_label)
-
-#     # filert by spacy entities
-#     consitant_ans = [i for i in merged_ans if i[answer_label] in pers_org_all]
-#     # exclude judge
-#     consitant_ans = [
-#         i for i in consitant_ans if (i[answer_label].strip().lower() not in judge_list)
-#     ]
-
-#     # filter by threshold
-#     flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]
-#     last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
-
-#     return last_ans
+    return last_ans

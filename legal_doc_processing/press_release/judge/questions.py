@@ -1,10 +1,13 @@
+from legal_doc_processing.utils import uniquize as _u
+
+
 def _question_helper(txt) -> list:
     """txt"""
 
     _txt = txt.lower()
     res = list()
 
-    cands = ["judge "]
+    cands = ["judge ", "attorney"]
 
     for cand in cands:
         if cand in _txt:
@@ -25,4 +28,21 @@ def _question_selector(key: str) -> list:
             ]
         )
 
+    if "attorney" in key:
+        res.extend(
+            [
+                ("Who is the attorney? ", "who_question"),
+            ]
+        )
+
     return res
+
+
+def _question_lister(key_list: list) -> list:
+    """from key_list return question list """
+
+    question_list = []
+    for key in key_list:
+        question_list.extend(_question_selector(key))
+
+    return _u(question_list)

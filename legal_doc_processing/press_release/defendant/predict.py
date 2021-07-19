@@ -31,7 +31,7 @@ def predict_defendant(
     ans_list = list()
     for sent in sent_list:
         key_list = _question_helper(sent)
-        if quest_pairs:
+        if key_list:
             quest_pairs = _question_lister(key_list)
             ans_list.extend(ask_all(sent, quest_pairs, sent=sent, nlpipe=data.nlpipe))
 

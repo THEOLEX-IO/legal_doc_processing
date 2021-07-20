@@ -112,6 +112,11 @@ def _sub_you_shall_not_pass(
         "Commodity Pool",
         "Court",
         "Federal",
+        "Consumer Financial Protection Bureau",
+        "CFPB",
+        "Respondents",
+        "respondents",
+        "SEC",
     ]
 
     for f in forbiden:

@@ -7,8 +7,6 @@ from legal_doc_processing import logger
 from legal_doc_processing.utils import (
     _if_not_spacy,
     _if_not_pipe,
-    # get_pers,
-    # get_orgs,
     get_label_,
     _ask,
     main_X_y,
@@ -42,20 +40,20 @@ def product_juridic_form():
     return llc_list
 
 
-def get_entities_pers_orgs(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None) -> list:
-    """get entities PERSON and ORG from h1 and sub_article """
+# def get_entities_pers_orgs(struct_doc: dict, n_paragraphs: int = 2, nlpspa=None) -> list:
+#     """get entities PERSON and ORG from h1 and sub_article """
 
-    nlpspa = _if_not_spacy(nlpspa)
+#     nlpspa = _if_not_spacy(nlpspa)
 
-    # sub article
-    sub_article = "\n".join(struct_doc["article"].split("\n")[:n_paragraphs])
+#     # sub article
+#     sub_article = "\n".join(struct_doc["article"].split("\n")[:n_paragraphs])
 
-    # all pers all orgs from spacy entities
-    all_pers = get_pers(struct_doc["h1"], nlpspa) + get_pers(sub_article, nlpspa)
-    all_orgs = get_orgs(struct_doc["h1"], nlpspa) + get_orgs(sub_article, nlpspa)
-    pers_org_entities_list = all_pers + all_orgs
+#     # all pers all orgs from spacy entities
+#     all_pers = get_pers(struct_doc["h1"], nlpspa) + get_pers(sub_article, nlpspa)
+#     all_orgs = get_orgs(struct_doc["h1"], nlpspa) + get_orgs(sub_article, nlpspa)
+#     pers_org_entities_list = all_pers + all_orgs
 
-    return pers_org_entities_list
+#     return pers_org_entities_list
 
 
 def press_release_X_y(juridiction="", features="", sample=1.0):

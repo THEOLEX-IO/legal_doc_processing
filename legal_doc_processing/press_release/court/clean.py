@@ -5,7 +5,13 @@ def final_clean(txt: str) -> str:
     txt = txt.replace("United States", "U.S")
 
     # errors
-    errors_list = ["court of law", "judgment and order", "court order", "court’s order"]
+    errors_list = [
+        "court of law",
+        "judgment and order",
+        "court order",
+        "court’s order",
+        "court approval",
+    ]
     if txt.lower().strip() in errors_list:
         return ""
 

@@ -4,7 +4,7 @@ from legal_doc_processing.utils import uniquize as _u
 
 # from legal_doc_processing.utils import merge_ans, ask_all
 
-from legal_doc_processing.press_release.cooperation_credit import final_clean
+from legal_doc_processing.press_release.cooperation_credit.clean import final_clean
 
 
 def predict_cooperation_credit(

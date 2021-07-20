@@ -1,3 +1,6 @@
+from legal_doc_processing.utils import uniquize as _u
+
+
 def _question_helper(txt) -> list:
     """txt"""
 
@@ -124,3 +127,13 @@ def _question_selector(key: str) -> list:
         )
 
     return res
+
+
+def _question_lister(key_list: list) -> list:
+    """from key_list return question list """
+
+    question_list = []
+    for key in key_list:
+        question_list.extend(_question_selector(key))
+
+    return _u(question_list)

@@ -14,6 +14,8 @@ def test_preds_by(
 ):
     """ """
 
+    import random
+
     from legal_doc_processing import logger
 
     logger.info("called")

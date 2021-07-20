@@ -373,10 +373,12 @@ class Boot:
     order = order
 
     def boot() : 
-        """ """ 
-  
+        """boot module """ 
+
 
         nlpipe = get_pipeline()
         nlspa =  get_spacy()
 
-        return PressRelease(text=press_release, source="cftc",nlpipe=nlpipe, nlspa=nlspa)
+        obj = PressRelease(text=press_release, source="cftc",nlpipe=nlpipe, nlspa=nlspa)
+        obj.predict_all()
+        return obj

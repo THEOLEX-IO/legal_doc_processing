@@ -6,6 +6,8 @@ from legal_doc_processing.press_release.press_release import (
     press_release_df,
 )
 
+import random
+
 
 def test_preds_by(
     juridiction="", nlspa=None, nlpipe=None, sample=0.25, max_pred_time=11.0
@@ -19,7 +21,7 @@ def test_preds_by(
     juridiction = ""
     nlspa = None
     nlpipe = None
-    sample = 0.33
+    sample = 0.1
     max_pred_time = 11.0
 
     assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
@@ -58,7 +60,8 @@ def test_preds_by(
     # externize
     cols = ["pr", "preds", "press_release_text"]
     _df = df.drop(cols, axis=1, inplace=False)
-    fn = f"./tmp/preds_press_release_{juridiction}_{len(_df)}_lines.csv"
+    ra = random.randint(1000, 9999)
+    fn = f"./tmp/preds_press_release_{juridiction}_{len(_df)}_lines_{ra}.csv"
     _df.to_csv(fn, index=False)
 
 

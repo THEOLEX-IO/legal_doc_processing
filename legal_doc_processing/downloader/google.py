@@ -4,8 +4,8 @@ from google.cloud import storage
 def get_client(file_path="source/amiable-dynamo-245709-9dcfa045897a.json"):
     """ """
 
-    client = storage.Client.from_service_account_json(file_path)
-    return client
+    # client = storage.Client.from_service_account_json(file_path)
+    return None
 
 
 def get_buckets(client) -> list:
@@ -19,8 +19,8 @@ def get_buckets(client) -> list:
 def get_blobs(client, bucket="theolex_documents_processing") -> list:
     """ """
 
-    blobs = list(client.list_blobs(bucket))
-    return blobs
+    # blobs = list(client.list_blobs(bucket))
+    return None
 
 
 def get_file_names(client, bucket="theolex_documents_processing") -> list:
@@ -32,7 +32,9 @@ def get_file_names(client, bucket="theolex_documents_processing") -> list:
     return files
 
 
-client = get_client()
+# client = get_client()
+client = None
 # buckets = get_buckets(client)
 # blobs = get_blobs(client)
-files = get_file_names(client)
+# files = get_file_names(client)
+files = None

@@ -25,3 +25,6 @@ scikit-learn
 # misc
 dateparser
 
+# google cloud
+google-cloud-storage 
+

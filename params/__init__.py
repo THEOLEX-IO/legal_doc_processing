@@ -41,7 +41,10 @@ def setBasicConfig(filename: str, params, ext: str = ".log"):
     }
 
     # logfile
-    assert os.path.isdir(params.logs)
+    try:
+        assert os.path.isdir(params.logs)
+    except Exception as e:
+        os.mkdir(params.logs)
     logfile = f"{params.logs}{filename}{ext}"
 
     # if "w" as logging filemode rewrite logfile with header

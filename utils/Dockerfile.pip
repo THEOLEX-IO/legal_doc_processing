@@ -2,11 +2,11 @@
 FROM python:3.9-buster
 
 # pip install
-RUN pip install ipython legal-doc-processing==2.1.4
+RUN pip install ipython legal-doc-processing==2.1.7
 
 # spacy
-RUN python -m spacy download en_core_web_sm
-RUN python -m nltk.downloader stopwords punkt
+# RUN python -m spacy download en_core_web_sm
+# RUN python -m nltk.downloader stopwords punkt
 
 # app
 WORKDIR /app

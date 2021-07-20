@@ -278,3 +278,29 @@ def main_X_y(
     new_df = text_df.merge(y_df, on="folder", how="inner", copy=True)
 
     return new_df
+
+
+class Utils:
+    """ """
+
+    # df
+    main_X_y = main_X_y
+
+    # predict
+    ask = _ask
+    ask_all = ask_all
+    merge_ans = merge_ans
+
+    # pipeline
+    if_not_pipe = _if_not_pipe
+    get_pipeline = get_pipeline
+
+    # spacy
+    if_not_spacy = _if_not_spacy
+    get_spacy = get_spacy
+
+    # label
+    get_label = get_label_
+
+    # version
+    version = "2.1.7"

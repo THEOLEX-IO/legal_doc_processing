@@ -15,6 +15,8 @@ REQUIRED = [
     "clean-text",
     "word2vec",
     "dateparser",
+    "scikit-learn",
+    "google-cloud-storage",
 ]
 
 setuptools.setup(

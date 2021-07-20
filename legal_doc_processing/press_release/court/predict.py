@@ -54,5 +54,6 @@ def predict_court(data: dict, threshold: float = 0.25) -> list:
     ans_list = [final_clean(j) for j in ans_list]
 
     return [
-        (j.title().strip().replace("U.s", "US").replace("Us", "US"), 1) for j in ans_list
+        (j.title().strip().replace("U.s", "U.S").replace("Us", "U.S."), 1)
+        for j in ans_list
     ]

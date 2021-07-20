@@ -1,5 +1,3 @@
-from legal_doc_processing import logger
-
 from legal_doc_processing.press_release.compliance_obligations.predict import (
     predict_compliance_obligations,
 )
@@ -15,9 +13,6 @@ from legal_doc_processing.press_release.extracted_sanctions.predict import (
     predict_extracted_sanctions,
 )
 
-# from legal_doc_processing.press_release.code_law_violation.predict import (
-#     predict_code_law_violation,
-# )
 from legal_doc_processing.press_release.country_of_violation.predict import (
     predict_country_of_violation,
 )
@@ -45,10 +40,6 @@ from legal_doc_processing.press_release.folder.predict import (
     predict_folder,
 )
 
-
-# from legal_doc_processing.press_release.juridiction.predict import (
-#     predict_juridiction,
-# )
 from legal_doc_processing.press_release.justice_type.predict import (
     predict_justice_type,
 )
@@ -71,16 +62,10 @@ from legal_doc_processing.press_release.penalty_details.predict import (
     predict_penalty_details,
 )
 
-# from legal_doc_processing.press_release.plaintiff.predict import (
-#     predict_plaintiff,
-# )
 from legal_doc_processing.press_release.reference.predict import (
     predict_reference,
 )
 
-# from legal_doc_processing.press_release.sentence.predict import (
-#     predict_sentence,
-# )
 from legal_doc_processing.press_release.violation_date.predict import (
     predict_violation_date,
 )

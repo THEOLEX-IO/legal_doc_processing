@@ -56,10 +56,6 @@ class Base:
         # pipe and spacy
         self.nlpipe = nlpipe if nlpipe else get_pipeline()
         self.nlspa = nlspa if nlspa else get_spacy()
-        try:
-            self.nlspa.add_pipe("sentencizer")
-        except Exception as e:
-            pass
 
         ######################
 
@@ -77,10 +73,10 @@ class Base:
                 struct_text["article"].splitlines()[:abstract_n_lines]
             )
 
-        if obj_name == "LegalDoc":
-
+        elif obj_name == "LegalDoc":
             struct_text = structure_legal_doc(text, juridiction=juridiction, nlspa=nlspa)
-        if obj_name == "Decision":
+
+        elif obj_name == "Decision":
             struct_text = {}
 
         ######################
@@ -295,7 +291,7 @@ class Base:
             setattr(self, "_" + feature, val)
             return val
 
-        return "--Unknowned feature--"
+        return AttributeError(f"Unknowned feature : {feature} ")
 
     def predict_all(self) -> str:
         """return self.predict("all") """

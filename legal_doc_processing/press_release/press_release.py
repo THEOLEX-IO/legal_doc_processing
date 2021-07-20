@@ -46,10 +46,6 @@ def press_release_df(
         nlpipe = get_pipeline()
     if not nlspa:
         nlspa = get_spacy()
-    try:
-        nlspa.add_pipe("sentencizer")
-    except Exception as e:
-        pass
 
     # dataframe
     df = press_release_X_y(juridiction=juridiction, sample=sample)

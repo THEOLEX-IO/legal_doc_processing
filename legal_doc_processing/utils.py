@@ -1,24 +1,14 @@
-# live coding
-# import re
-# from itertools import product
-
-# import requests
-# import asyncio
-
 import os
+import pdb
 
 import numpy as np
 import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer
-import pdb
 
-# import heapq
-# import nltk
-# from cleantext import clean
+from sklearn.feature_extraction.text import TfidfVectorizer
+
 import spacy
 from transformers import pipeline
 
-# AutoModelForTokenClassification, AutoTokenizer
 
 from legal_doc_processing import logger
 
@@ -29,15 +19,13 @@ def dummy_accuracy(y, pred) -> int:
     try:
         y, pred = int(y), int(pred)
         val = int(y == pred)
-        print(val)
+        logger.info(f"val {val} ")
         return val
 
     except Exception as e:
-        print(e)
-        print(-1)
+        logger.info(f"e {e} ")
         return -1
 
-    print(-2)
     return -2
 
 
@@ -81,6 +69,7 @@ def cosine_similarity(y: str, pred: str) -> float:
 
 def softmax(x):
     """Compute softmax values for each sets of scores in x."""
+
     e_x = np.exp(x - np.max(x))
     return e_x / e_x.sum(axis=0)  # only difference # correct solution:
 
@@ -98,8 +87,8 @@ def load_data(file_path: str) -> str:
 
 
 def make_dataframe(path: str = "./data/csv/files.csv"):
+    """ """
 
-    # read df
     df = pd.read_csv(path)
     return df
 

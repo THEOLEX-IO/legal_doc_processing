@@ -31,10 +31,6 @@ def test_preds_by(
         nlpipe = get_pipeline()
     if not nlspa:
         nlspa = get_spacy()
-    try:
-        nlspa.add_pipe("sentencizer")
-    except Exception as e:
-        pass
 
     # dataframe
     from legal_doc_processing.press_release.press_release import press_release_df

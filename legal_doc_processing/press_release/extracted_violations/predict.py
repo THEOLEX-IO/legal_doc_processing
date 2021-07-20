@@ -10,7 +10,6 @@ from legal_doc_processing.press_release.extracted_violations.clean import (
     clean_ans,
 )
 
-
 from legal_doc_processing.press_release.extracted_violations.questions import (
     _question_helper,
     _question_selector,

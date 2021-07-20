@@ -113,7 +113,7 @@ def uniquize(iterable: list) -> list:
         return []
 
 
-def strize(item_list, sep=";", force_list=False):
+def strize(item_list, sep="\n", force_list=False):
     """ """
 
     # if score -1
@@ -122,19 +122,28 @@ def strize(item_list, sep=";", force_list=False):
         return ""
 
     # clean and unique
-    clean_l = lambda item_list: [str(i).strip() for i, j in non_null]
-    unique_l = uniquize(clean_l)
-    str_cand = clean_l(unique_l)
+    clean_l = [str(i).replace("\n", "").strip() for i, j in non_null]
+    str_cand = uniquize(clean_l)
+    if not str_cand:
+        return ""
 
     # return
-    if force_list:
-        return sep.join(str_cand)
-    else:
-        return "\n".join(["- " + i for i in str_cand])
+    if len(str_cand) == 1:
+        return str_cand[0]
+    return sep.join(str_cand)
 
 
 def get_spacy():
-    return spacy.load("en_core_web_sm")
+    """ """
+
+    nlspa = spacy.load("en_core_web_sm")
+
+    try:
+        nlspa.add_pipe("sentencizer")
+    except Exception as e:
+        pass
+
+    return nlspa
 
 
 def _if_not_spacy(nlspa):
@@ -254,156 +263,6 @@ def merge_ans(ans, label="new_answer", threshold=0.1):
     ll = sorted(ll, key=lambda i: i["cum_score"], reverse=True)
 
     return ll
-
-
-# def get_pers(txt: str, nlspa=None) -> list:
-#     """ with spacy get entities PERSON"""
-
-#     return get_label_(txt, "PERSON", nlspa)
-
-
-# def get_orgs(txt: str, nlspa=None) -> list:
-#     """ with spacy get entities ORG"""
-
-#     return get_label_(txt, "ORG", nlspa)
-
-
-# def clean_spec_chars(text: str) -> tuple:
-#     """first text cleaning based on regex, just keep text not spec chars
-#     return tupple of text"""
-
-#     # article text
-#     article_text = re.sub(r"\[[0-9]*\]", " ", text)
-#     article_text = re.sub(r"\s+", " ", article_text)
-
-#     # formated text
-#     formatted_article_text = re.sub("[^a-zA-Z]", " ", article_text)
-#     formatted_article_text = re.sub(r"\s+", " ", formatted_article_text)
-
-#     return article_text, formatted_article_text
-
-
-# def handle_encoding(text: str) -> str:
-#     """handle encoding problems and force ascii conversion ; return clean text """
-#     text_encode = text.encode(encoding="ascii", errors="ignore")
-
-#     # cleaning the text to remove extra whitespace
-#     clean_text = " ".join([word for word in text_decode.split()])
-
-#     return clean_text
-
-
-# def _boot_press_release():
-#     """test init press release """
-
-#     # from legal_doc_processing.press_release import (
-#     #     PressRelease,
-#     #     read_PressRelease,
-#     #     load_press_release_text_list,
-#     # )
-
-#     # num = "7100-15"
-#     # url = f"https://storage.googleapis.com/theolex_documents_processing/cftc/text/7100-15/order-allied-markets-llc-et-al.txt"
-#     # nlpipe = get_pipeline()
-#     # pr = PressRelease("Hello World", nlpipe=nlpipe)
-#     # # pr.predict("all")
-
-#     pass
-
-
-# def _boot_legal_doc():
-#     """ try to build and predict a LegalDoc and an PressRelease"""
-
-#     from legal_doc_processing.legal_doc import (
-#         LegalDoc,
-#         read_LegalDoc,
-#         load_legal_doc_text_list,
-#     )
-
-#     url = ""
-#     nlpipe = get_pipeline()
-#     ld = LegalDoc("Hello World", nlpipe=nlpipe)
-#     # ld.predict("all")
-
-
-# def boot():
-#     """ """
-
-#     _boot_press_release()
-#     _boot_legal_doc()
-
-
-# DEPRECATED
-# def make_dataframe(path: str = "./data/csv/original_dataset.csv", n: int = 10):
-#     """
-#     :param path  = the path to read original dataset
-#     :param n     = the n-st line to scrap, other will be droped
-#     """
-
-#     # read df
-#     df = pd.read_csv(path)
-
-#     # keep cols
-#     keep_cols = [
-#         "id",
-#         "name",
-#         "status",
-#         "reference",
-#         "document_link",
-#         "press_release_link",
-#         "monetary_sanction",
-#         "currency",
-#         "type",
-#         "justice_type",
-#         "defendant",
-#         "decision_date",
-#         "extracted_violations",
-#     ]
-
-#     drop_cols = [i for i in df.columns if i not in keep_cols]
-#     df = df.drop(drop_cols, axis=1)
-
-#     # fill rate
-#     fill_rate = lambda col: (len(df) - sum(df[col].isna())) / len(df)
-#     df_rate_fill = [(col, round(fill_rate(col), 2)) for col in df.columns]
-
-#     # press_release and document_link
-#     for col, ext in [("press_release", ".html"), ("document", ".txt")]:
-#         funct = (
-#             lambda i: np.nan if ("storage.google" not in i) else i.replace(".pdf", ext)
-#         )
-#         df[col + "_URL"] = df[col + "_link"].apply(lambda i: funct(str(i).strip()))
-
-#     # clean lines without press or document
-#     df = df.loc[~df.document_URL.isna(), :]
-#     df = df.loc[~df.press_release_URL.isna(), :]
-#     df.index = range(len(df))
-
-#     def scrap(url: str):
-#         """ """
-
-#         try:
-#             # print(url)
-#             res = requests.get(url)
-
-#             if res.status_code < 300:
-#                 return res.text
-#             else:
-#                 return res.status_code
-
-#         except Exception as e:
-#             return str(e)
-
-#     # test on 10
-#     df = df.iloc[:n, :]
-
-#     # sync version
-#     for col in ["press_release", "document"]:
-#         df[col + "_TEXT"] = df[col + "_URL"].apply(lambda i: scrap(str(i).strip()))
-
-#     df.to_csv("./data/csv/dataset.csv", index=False)
-
-#     return df
 
 
 def main_X_y(

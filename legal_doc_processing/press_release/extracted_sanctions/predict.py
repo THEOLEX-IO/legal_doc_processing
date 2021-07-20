@@ -24,8 +24,10 @@ def predict_extracted_sanctions(
     sent_list = h1 + data.content_sents[:content_n_sents_threshold]
     sent_list = [i.replace("\n", "").strip() for i in sent_list if i]
 
-    filter_sents = lambda sent: any([(key in sent.lower()) for key in _key_list])
+    filter_sents = lambda sent: any([(key.lower() in sent.lower()) for key in _key_list])
     sents_ok = [(i, j) for i, j in enumerate(sent_list) if filter_sents(j)]
+
+    logger.info(f"sents_ok : {sents_ok} ")
 
     # quest
     ans_list = list()
@@ -45,5 +47,7 @@ def predict_extracted_sanctions(
     # filter by threshold
     flatten_ans = [(i[answer_label], i["cum_score"]) for i in merged_ans]
     last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
+
+    logger.info(f"last_ans : {last_ans} ")
 
     return last_ans

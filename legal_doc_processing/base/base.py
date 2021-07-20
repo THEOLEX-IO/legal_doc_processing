@@ -269,7 +269,6 @@ class Base:
             "justice_type",
             "country_of_violation",
             "currency",
-            "penalty_details",
         ]:
             val = self._predict["extracted_authorities"](self.data)
             setattr(self, "_extracted_authorities", val)

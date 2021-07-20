@@ -13,17 +13,15 @@ from legal_doc_processing.press_release.extracted_authorities.juridiction_pairs 
 def predict_extracted_authorities(data: dict) -> list:
     """ """
 
-    # try:
-
     # juridiction
-    juridiction = [data.juridiction]
+    juridiction = [data.juridiction.upper()]
 
     # logger.info(f"juridiction : {juridiction} ")
 
     # courts
-    courts = data.feature_dict["court"]
+    courts = data._feature_dict["_court"]
     if courts:
-        courts = [i for i in courts.split(";;")]
+        courts = [i for i, j in courts]
     else:
         courts = []
 
@@ -40,11 +38,11 @@ def predict_extracted_authorities(data: dict) -> list:
     # auths list
     auths_list = [i for i in _u(juridiction + courts + filtered_orgs) if i]
 
-    # except Exception as e:
-    #     logger.error(f"e : {e} {str(e)} ")
-
-    #     pdb.set_trace()
-
-    #     raise e
-
-    return [(i, 1) for i in auths_list]
+    capitalizer = (
+        lambda i: i.replace("cfpb", "CFPB")
+        .replace("cfbp", "CFBP")
+        .replace("sec", "SEC")
+        .replace("doj", "DOJ")
+        .replace("cftc", "CFTC")
+    )
+    return [(capitalizer(i), 1) for i in auths_list]

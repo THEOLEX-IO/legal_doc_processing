@@ -16,7 +16,7 @@ def predict_handler(obj_name):
             "decision_date": press_inf_ext.predict_decision_date,
             "defendant": press_inf_ext.predict_defendant,
             "extracted_authorities": press_inf_ext.predict_extracted_authorities,
-            "extracted_sanctions": decision_inf_ext.predict_extracted_sanctions,
+            "extracted_sanctions": press_inf_ext.predict_extracted_sanctions,
             "extracted_violations": press_inf_ext.predict_extracted_violations,
             "folder": press_inf_ext.predict_folder,
             "judge": press_inf_ext.predict_judge,

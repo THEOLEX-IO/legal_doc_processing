@@ -41,4 +41,4 @@ def predict_country_of_violation(data: dict) -> list:
     # if not countries_filtered:
     #     pdb.set_trace()
 
-    return [(i, 1) for i in countries_filtered]
+    return [(i.title().strip(), 1) for i in countries_filtered]

@@ -9,8 +9,8 @@ COPY ./requirements.txt .
 RUN pip install -r requirements.txt 
 
 # assets
-RUN python -m spacy download en_core_web_sm
-RUN python -m nltk.downloader stopwords punkt
+# RUN python -m spacy download en_core_web_sm
+# RUN python -m nltk.downloader stopwords punkt
 
 # data
 WORKDIR /data
@@ -24,8 +24,8 @@ COPY . /app
 WORKDIR /app
 RUN pwd
 RUN ls
-RUN python -c "from legal_doc_processing.pr import read_PressRelease as rr; ob = rr('/data/boot/press_release.txt'); pp = ob.predict_all();print(pp)"
-RUN python -c "from legal_doc_processing.ld import read_LegalDoc as rr; ob = rr('/data/boot/order.txt'); pp = ob.predict_all() ; print(pp)"
+# RUN python -c "from legal_doc_processing.pr import read_PressRelease as rr; ob = rr('/data/boot/press_release.txt'); pp = ob.predict_all();print(pp)"
+# RUN python -c "from legal_doc_processing.ld import read_LegalDoc as rr; ob = rr('/data/boot/order.txt'); pp = ob.predict_all() ; print(pp)"
 
 # test
 # RUN pytest

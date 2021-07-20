@@ -2,7 +2,16 @@ from legal_doc_processing.utils import get_pipeline, get_spacy
 from legal_doc_processing.press_release.press_release import PressRelease
 
 
-press_release = """Release Number 7100-15
+def press_release() : 
+
+
+    try : 
+        with open("./data/boot/press_release.txt") as f : 
+            return f.read()
+        with open("./app/data/boot/press_release.txt") as f : 
+            return f.read()
+    except Exception as e : 
+        txt =  """Release Number 7100-15
 
  
 
@@ -72,8 +81,20 @@ Dennis Holden
 
 Last Updated: January 12, 2015"""
 
+        return txt
 
-order = """UNITED STATES DISTRICT COURT
+
+def order() : 
+    """ """
+
+    try : 
+        with open("./data/boot/order.txt") as f : 
+            return f.read()
+        with open("./app/data/boot/order.txt") as f : 
+            return f.read()
+    except Exception as e : 
+
+        txt =   """UNITED STATES DISTRICT COURT
 MIDDLE DISTRICT OF FLORIDA
 Jacksonville Division
 
@@ -365,20 +386,21 @@ aed
 
 UNITED STATES DISTRICT JUDGE"""
 
+        return txt
 
 class Boot:
     """ """
 
-    press_release = press_release
-    order = order
+    press_release = press_release()
+    order = order()
 
     def boot() : 
         """boot module """ 
 
-
         nlpipe = get_pipeline()
         nlspa =  get_spacy()
 
-        obj = PressRelease(text=press_release, source="cftc",nlpipe=nlpipe, nlspa=nlspa)
+        obj = PressRelease(text=press_release(), source="cftc",nlpipe=nlpipe, nlspa=nlspa)
         obj.predict_all()
+        
         return obj

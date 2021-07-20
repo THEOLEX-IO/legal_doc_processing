@@ -30,7 +30,7 @@ def predict_court(data: dict, threshold: float = 0.25) -> list:
         quest_pairs = _u(_question_selector(_question_helper(sent)))
         ans_list.extend(ask_all(sent, quest_pairs, nlpipe=data.nlpipe))
 
-    logger.info(f"ans_list : {ans_list}")
+    # logger.info(f"ans_list : {ans_list}")
 
     # threshold
     ans_list = _u([ans["answer"] for ans in ans_list if ans["score"] >= threshold])

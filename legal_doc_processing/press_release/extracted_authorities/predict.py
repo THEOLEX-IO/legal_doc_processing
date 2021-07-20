@@ -18,7 +18,7 @@ def predict_extracted_authorities(data: dict) -> list:
     # juridiction
     juridiction = [data.juridiction]
 
-    logger.info(f"juridiction : {juridiction} ")
+    # logger.info(f"juridiction : {juridiction} ")
 
     # courts
     courts = data.feature_dict["court"]

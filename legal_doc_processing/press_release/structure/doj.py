@@ -60,7 +60,7 @@ def split_intro_article(txt: str) -> str:
 
     # identifie and split
     idx_lines = [i for i, j in enumerate(lines) if splitter.lower() in j.lower()]
-    logger.info(idx_lines)
+    # logger.info(idx_lines)
     assert len(idx_lines) > 0
     idx = idx_lines[0]
     intro_lines, article_lines = lines[: idx + 1], lines[idx + 1 :]

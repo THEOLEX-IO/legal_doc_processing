@@ -16,6 +16,6 @@ def predict_compliance_obligations(data: dict) -> list:
         return [("", 1)]
 
     # clean
-    compl_sent_list = [final_clean(j) for _, j in compl_sent_list]
+    compl_sent_list = [final_clean(j) for j in compl_sent_list]
 
     return [(j, 1) for j in compl_sent_list]

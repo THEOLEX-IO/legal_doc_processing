@@ -23,20 +23,30 @@ def predict_type(
     sent_list = h1 + data.content_sents[:content_n_sents_threshold]
     sent_list = [i.replace("\n", "") for i in sent_list if i]
 
-    # quest
-    ans_list = list()
+    type_list = [
+        "enforcement",
+        "compliance",
+        "consent order",
+        "judgement",
+        "negociated ageerement",
+        "settlement",
+        "agreement",
+        "engagement",
+        "order",
+        "complaint",
+        "decision",
+    ]
+
+    # h1
+    for h in h1:
+        for type_cand in type_list:
+            if type_cand in h.lower():
+                return [(type_cand.title().strip(), 0.5)]
+
+    # sent list
     for sent in sent_list:
-        key_list = _question_helper(sent)
-        if key_list:
-            quest_pairs = _question_lister(key_list)
-            ans_list.extend(ask_all(sent, quest_pairs, sent=sent, nlpipe=data.nlpipe))
+        for type_cand in type_list:
+            if type_cand in sent.lower():
+                return [(type_cand.title().strip(), 0.5)]
 
-    if not ans_list:
-        return [("", 1)]
-
-    # filter by threshold
-    answer_label = "answer"
-    flatten_ans = [(i[answer_label], i["cum_score"]) for i in ans_list]
-    last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
-
-    return last_ans
+    return [("", 1)]

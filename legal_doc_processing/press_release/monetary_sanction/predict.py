@@ -42,7 +42,7 @@ def predict_monetary_sanction(
     else:
         return [(str(-1), -1)]
 
-    return [(str(-3),)]
+    return [(str(-3), -1)]
 
 
 # def predict_monetary_sanction(data.: dict) -> list:

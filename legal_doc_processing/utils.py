@@ -1,5 +1,6 @@
 import os
 import pdb
+from subprocess import call
 
 import numpy as np
 import pandas as pd
@@ -125,14 +126,18 @@ def strize(item_list, sep="\n", force_list=False):
 def get_spacy():
     """ """
 
-    nlspa = spacy.load("en_core_web_sm")
+    try:
+        nlspa = spacy.load("en_core_web_sm")
 
+    except Exception as e:
+        call(["python", "-m", "spacy", "download", "en_core_web_sm"])
+
+        nlspa = spacy.load("en_core_web_sm")
     try:
         nlspa.add_pipe("sentencizer")
+        return nlspa
     except Exception as e:
-        pass
-
-    return nlspa
+        return nlspa
 
 
 def _if_not_spacy(nlspa):

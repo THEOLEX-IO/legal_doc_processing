@@ -1,6 +1,8 @@
 import os
 from pprint import pformat, pprint
 
+from cleantext import clean
+
 from legal_doc_processing import logger
 
 from legal_doc_processing.utils import get_spacy, get_pipeline, get_label_
@@ -39,6 +41,8 @@ def give_cftc_press_release_file():
 
 def first_clean(txt: str) -> str:
     """ """
+
+    txt_decoded = clean(txt)
     # # clean double breaks and fake lines
     # new_txt_1 = clean_in_line_break(txt)
 

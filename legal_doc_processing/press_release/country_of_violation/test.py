@@ -77,8 +77,8 @@ def clean_answer(answer_disc):
         if cv["score"] > 0.7:
             list_answer.append(cv["answer"])
     for i in range(len(list_answer)):
-        country=list_answer[i].split(" ")
-        if "District" not  in country:
+        country=list_answer[i].lower().split(" ")
+        if "District"  not  in country:
             cleaned_countries.append(list_answer[i])
 
     

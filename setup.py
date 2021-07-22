@@ -16,7 +16,7 @@ REQUIRED = [
     "word2vec",
     "dateparser",
     "scikit-learn",
-    "google-cloud-storage",
+    "google-cloud-storage"
 ]
 
 setuptools.setup(

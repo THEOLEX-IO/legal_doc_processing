@@ -39,14 +39,6 @@ def give_cftc_press_release_file():
 
 def first_clean(txt: str) -> str:
     """ """
-
-    try:
-        btxt = txt.encode("latin-1")
-        txt_decoded = btxt.decode("utf8")
-    except Exception as e:
-        logger.critical(f"e : {e}, str e : {str(e)}  ")
-        txt_decoded = txt
-
     # # clean double breaks and fake lines
     # new_txt_1 = clean_in_line_break(txt)
 

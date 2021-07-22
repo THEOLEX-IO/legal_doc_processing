@@ -1,6 +1,8 @@
 import os
 from pprint import pformat, pprint
 
+from cleantext import clean
+
 from legal_doc_processing import logger
 
 from legal_doc_processing.utils import get_spacy, get_pipeline, get_label_
@@ -40,12 +42,7 @@ def give_doj_press_release_file():
 def first_clean(txt: str) -> str:
     """ """
 
-    try:
-        btxt = txt.encode("latin-1")
-        txt_decoded = btxt.decode("utf8")
-    except Exception as e:
-        logger.critical(f"e : {e}, str e : {str(e)}  ")
-        txt_decoded = txt
+    txt_decoded = clean(txt)
 
     # clean double breaks and fake lines
     new_txt_1 = clean_in_line_break(txt_decoded)

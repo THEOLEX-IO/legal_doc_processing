@@ -1,5 +1,5 @@
 <div align="center" >
-    <img src="./examples/legaldoc_banner_8.svg"><br>
+    <img src="./images/legaldoc_banner_8.svg"><br>
     <h1 style="display:none" >Legal-doc-processing : powerful Python legal document toolkit
     </h1>
 </div>
@@ -39,12 +39,12 @@ Initialy developped as an back end framework for a famous French Legal Tech Theo
 -----------------------------------
 <br>
 
-### [First Tour of Legal Doc Process in less than 1 minute](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/notebook/point-jawad/examples/first_tour.ipynb)
+### [First Tour of Legal Doc Process in less than 1 minute](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readmenotebooks/first_tour.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/notebook/point-jawad/examples/first_tour.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readmenotebooks/first_tour.ipynb) 
 
 
-<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/notebook/point-jawad/examples/first_tour.ipynb">  <img src="./examples/first_tour.png"><br></a>
+<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readmenotebooks/first_tour.ipynb">  <img src="./examples/first_tour.png"><br></a>
 <br>
 <br>
 
@@ -61,11 +61,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 -------------------------------------
 <br>
 
-[First Tour of Legal Doc Process in less than 1 minute](https://github.com/THEOLEX-IO/legal_doc_processing/blob/notebook/point-jawad/examples/first_tour.ipynb)
+[First Tour of Legal Doc Process in less than 1 minute](https://github.com/THEOLEX-IO/legal_doc_processing/blob/feature/readmenotebooks/first_tour.ipynb)
 <br>
 ![Alt text](examples/first_tour.png?raw=true "First Tour")
 <br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/notebook/point-jawad/examples/first_tour.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readmenotebooks/first_tour.ipynb) 
 
 <br>
 <br>
@@ -103,7 +103,7 @@ pip install -r requirements.txt
 
 at frist usage please write following command to bootstrap the package
 ```
-python -c "from legal_doc_processing import boot; boot()"
+python -c "from legal_doc_processing import boot; boot.boot()"
 ```
 this command will download data collections and mandory web assets, it can take 1/2 minutes (depends of your web  connection)
 <br>
@@ -112,12 +112,9 @@ this command will download data collections and mandory web assets, it can take 
 ## ⛏️ Contribute 
 -------------------------------------
 <br>
-
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 <br>
 <br>
-
-
-
 
 
 ## 💬 Getting Help and discussion: 
@@ -127,7 +124,6 @@ this command will download data collections and mandory web assets, it can take 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 <br>
 <br>
-
 
 
 ## 📕Documentation: 

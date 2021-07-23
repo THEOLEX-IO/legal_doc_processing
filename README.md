@@ -13,6 +13,8 @@
 
 **legal-doc-processing** is an open source NLP library dedicated to legal documents. It offers a large and various tools to analyse, structure and extract information from legal documents surch as orders, complaints, press release etc etc.
 <br>
+
+initialy developped as an back end framework for a famous French Legal Tech Theolex
 <br>
 
 
@@ -30,6 +32,12 @@
 <br>
 
 
+## Contribute
+-------------------------------------
+<br>
+
+<br>
+<br>
 
 ## Installation
 -------------------------------------

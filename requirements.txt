@@ -13,7 +13,7 @@ twine
 pandas==1.2.4
 
 # NLP
-clean-text
+clean-text==0.4.0
 tensorflow
 word2vec~=0.11.1
 nltk==3.6.2

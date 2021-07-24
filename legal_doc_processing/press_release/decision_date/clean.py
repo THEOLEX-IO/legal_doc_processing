@@ -1,4 +1,5 @@
 from legal_doc_processing import logger
+import dateparser
 
 
 def _you_shall_not_pass(date: str) -> str:
@@ -17,3 +18,18 @@ def _you_shall_not_pass(date: str) -> str:
             return "--None--"
 
     return date
+
+
+def force_dateformat(i: str) -> str:
+    """force a date parse and if not working return dummt value """
+
+    try:
+        dd = dateparser.parse(i)
+        str_dd = dd[:10]
+        return str_dd
+
+    except Exception as e:
+
+        logger.error(f"e : {e} for date  : {i} ")
+
+        return "1900-01-01"

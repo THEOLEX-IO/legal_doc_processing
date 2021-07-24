@@ -1,5 +1,5 @@
 
-<img src="./images/legaldoc_banner_8.svg"><br>
+<img src="./images/legaldoc_banner.svg"><br>
 <h1 style="display:none" >Legal-doc-processing : powerful Python legal document toolkit
 </h1>
 
@@ -67,7 +67,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/tutorial.ipynb) 
 
-<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/tutorial.ipynb">  <img src="./images/first_tour.png"><br></a>
+<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/tutorial.ipynb">  <img src="./images/first_tour.gif"><br></a>
 
 <br>
 <br>

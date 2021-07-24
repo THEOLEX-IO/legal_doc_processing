@@ -13,7 +13,7 @@ def _you_shall_not_pass(date: str) -> str:
 
     # if a feature not in date retunr --None--
     for feat, _ in features:
-        is_ok = any([funct(i) for i in feat]))
+        is_ok = any([funct(i) for i in feat])
         if not is_ok:
             return "--None--"
 
@@ -25,7 +25,7 @@ def force_dateformat(i: str) -> str:
 
     try:
         dd = dateparser.parse(i)
-        str_dd = dd[:10]
+        str_dd = str(dd)[:10]
         return str_dd
 
     except Exception as e:

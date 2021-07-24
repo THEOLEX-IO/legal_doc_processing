@@ -16,12 +16,12 @@ REQUIRED = [
     "word2vec",
     "dateparser",
     "scikit-learn",
-    "google-cloud-storage"
+    "google-cloud-storage",
 ]
 
 setuptools.setup(
     name="legal_doc_processing",
-    version=Version("2.2.1").number,
+    version=Version("2.2.3").number,
     description="Theolex document processing",
     long_description=open("README.md").read().strip(),
     long_description_content_type="text/x-rst",

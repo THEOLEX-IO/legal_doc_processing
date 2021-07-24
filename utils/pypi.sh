@@ -1,20 +1,25 @@
 #! /bin/bash
 
-# clean dist
+##################################################
+#   How To Deploy on Pypi
+##################################################
 
-sudo rm -rf dist
+
+# clean dist
+sudo rm -rf dist build legal_doc_processing.egg-info
+
+# test readme
+twine check dist/*
 
 # make dist
-# python setup.py sdist
 ./utils/create_package.sh
 
 # push
 twine upload -u $TWINE_USER -p $TWINE_PASSWORD dist/*
 
-# instructions
+# test
 # docker run -ti python:3.9-buster /bin/bash 
-# pip install ipython legal-doc-processing==2.2.1
-
+# pip install ipython legal-doc-processing==2.2.2
 # ipython 
 # from legal_doc_processing import boot ; boot()
 

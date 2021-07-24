@@ -1,5 +1,5 @@
 
-<img src="./images/legaldoc_banner_8.svg"><br>
+<img src="./images/legaldoc_banner.svg"><br>
 <h1 style="display:none" >Legal-doc-processing : powerful Python legal document toolkit
 </h1>
 
@@ -39,11 +39,11 @@ Initialy developped as an back end framework for a famous French Legal Tech Theo
 ********************************************
 <br>
 
-### [First Tour of Legal Doc Process in less than 1 minute](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/first_tour.ipynb)
+### [First Tour of Legal Doc Process in less than 1 minute](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/first_tour.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb) 
 
-<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/first_tour.ipynb">  <img src="./images/first_tour.png"><br></a>
+<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb">  <img src="./images/first_tour.png"><br></a>
 
 <br>
 <br>
@@ -63,11 +63,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 **********************
 <br>
 
-### [Tutorial of Legal Doc Processing with main features, usages and how-to](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/tutorial.ipynb)
+### [Tutorial of Legal Doc Processing with main features, usages and how-to](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/tutorial.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/tutorial.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/tutorial.ipynb) 
 
-<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/tutorial.ipynb">  <img src="./images/first_tour.png"><br></a>
+<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/tutorial.ipynb">  <img src="./images/first_tour.gif"><br></a>
 
 <br>
 <br>
@@ -76,11 +76,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 *********************************
 <br>
 
-### [First Tour of Legal Doc Process in less than 1 minute](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/first_tour.ipynb)
+### [First Tour of Legal Doc Process in less than 1 minute](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/first_tour.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb) 
 
-<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/first_tour.ipynb">  <img src="./images/first_tour.png"><br></a>
+<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb">  <img src="./images/first_tour.png"><br></a>
 
 <br>
 <br>

@@ -80,11 +80,10 @@ def from_text(txt, source, nlpipe=None, nlspa=None):
 
 def from_url(url, source, nlpipe=None, nlspa=None):
     """ """
-    
+
     txt = requests.get(url).text
 
-    return PressRelease(txt, source=, nlpipe, nlspa)
-
+    return PressRelease(txt, source, nlpipe, nlspa)
 
 
 class _PressRelease:

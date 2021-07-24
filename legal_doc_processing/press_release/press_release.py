@@ -71,11 +71,18 @@ def press_release_df(
 
 
 def from_file(file_path, source, nlpipe=None, nlspa=None):
-    return 1
+    """ """
+
+    with open(file_path, "r") as f:
+        txt = f.read()
+
+    return PressRelease(txt, source, nlpipe, nlspa)
 
 
 def from_text(txt, source, nlpipe=None, nlspa=None):
-    return 1
+    """ """
+
+    return PressRelease(txt, source, nlpipe, nlspa)
 
 
 def from_url(url, source, nlpipe=None, nlspa=None):

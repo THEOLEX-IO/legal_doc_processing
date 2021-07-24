@@ -25,6 +25,10 @@ def force_dateformat(i: str) -> str:
 
     try:
         dd = dateparser.parse(i)
+
+        if not 2025 >= int(dd.year) >= 1950:
+            dd = "1900-01-01"
+
         str_dd = str(dd)[:10]
         return str_dd
 

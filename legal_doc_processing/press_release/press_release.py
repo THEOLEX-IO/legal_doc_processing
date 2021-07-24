@@ -68,19 +68,22 @@ def press_release_df(
     return df
 
 
-# def from_file(file_path, source, nlpipe=None, nlspa=None):
-#     return base_from_file(file_path, source, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
+def from_file(file_path, source, nlpipe=None, nlspa=None):
+    return 1
 
 
-# def from_text(txt, source, nlpipe=None, nlspa=None):
-#     return base_from_text(txt, source, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
+def from_text(txt, source, nlpipe=None, nlspa=None):
+    return 1
 
 
-# def from_url(txt, source, nlpipe=None, nlspa=None):
-#     return base_from_url(txt, source, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
+def from_url(txt, source, nlpipe=None, nlspa=None):
+    return 1
 
 
 class _PressRelease:
     PressRelease = PressRelease
     load_X_y = press_release_X_y
     load_df = press_release_df
+    from_file = from_file
+    from_text = from_text
+    from_url = from_url

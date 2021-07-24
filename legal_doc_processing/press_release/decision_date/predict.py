@@ -4,7 +4,7 @@ import dateparser
 
 from legal_doc_processing import logger
 from legal_doc_processing.utils import get_label_
-from legal_doc_processing.utils import force_dateformat
+from legal_doc_processing.press_release.decision_date import force_dateformat
 
 # from legal_doc_processing.press_release.decision_date.clean import (
 #     _you_shall_not_pass,

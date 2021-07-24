@@ -1,8 +1,8 @@
-<div align="center" >
-    <img src="./images/legaldoc_banner_8.svg"><br>
-    <h1 style="display:none" >Legal-doc-processing : powerful Python legal document toolkit
-    </h1>
-</div>
+
+<img src="./images/legaldoc_banner_8.svg"><br>
+<h1 style="display:none" >Legal-doc-processing : powerful Python legal document toolkit
+</h1>
+
 
 <br>
 <br>
@@ -10,7 +10,7 @@
 
 
 ## 🥇 Badges  
---------------------
+**********************
 <br>
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
@@ -24,7 +24,7 @@
 
 
 ## 🔎 What is it ? 
---------------------
+**********************
 <br>
 
 **legal-doc-processing** is an open source NLP library dedicated to legal documents. It offers a large and various tools to analyse, structure and extract information from legal documents surch as orders, complaints, press release etc etc.
@@ -36,7 +36,7 @@ Initialy developped as an back end framework for a famous French Legal Tech Theo
 <br>
 
 ## 🏁 First Tour in 1 min 
---------------------
+********************************************
 <br>
 
 ### [First Tour of Legal Doc Process in less than 1 minute](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb)
@@ -49,7 +49,7 @@ Initialy developped as an back end framework for a famous French Legal Tech Theo
 <br>
 
 ## 🌟 Main Features
---------------------
+**********************
 
 <br>
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
@@ -60,7 +60,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 ## 🎓 Tutorial 
---------------------
+**********************
 <br>
 
 ### [Understand Basic usages and basics backgrounds in a pretty and lovely notebook](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb)
@@ -73,7 +73,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <br>
 
 ## 👨‍🔧 Behind the woods 
---------------------
+*********************************
 <br>
 
 ### [First Tour of Legal Doc Process in less than 1 minute](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/first_tour.ipynb)
@@ -87,7 +87,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 ## 🏗️ Installation
---------------------
+**********************
 <br>
 
 go in your project directory and activate virtual environnement
@@ -118,8 +118,8 @@ this command will download data collections and mandory web assets, it can take 
 <br>
 
 
-## 💬 Getting Help and discussion
---------------------
+## 💬 Help and discussion
+****************************
 <br>
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
@@ -129,7 +129,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 ## 📕 Documentation 
---------------------
+**********************
 
 <br>
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
@@ -138,7 +138,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <br>
 
 ## ⛏️ Contribute
---------------------
+**********************
 <br>
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
@@ -147,7 +147,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <br>
 
 ## 🔏 Licence
---------------------
+**********************
 <br>
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.

@@ -2,7 +2,7 @@
 FROM python:3.9-buster
 
 # pip install
-RUN pip install ipython legal-doc-processing==2.2.2
+RUN pip install ipython legal-doc-processing==2.2.3
 
 # spacy
 # RUN python -m spacy download en_core_web_sm

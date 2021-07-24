@@ -31,6 +31,7 @@
 <br>
 
 Initialy developped as an back end framework for a famous French Legal Tech Theolex
+
 <br>
 <br>
 
@@ -38,14 +39,14 @@ Initialy developped as an back end framework for a famous French Legal Tech Theo
 --------------------
 <br>
 
-### [First Tour of Legal Doc Process in less than 1 minute](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/first_tour.ipynb)
+### [First Tour of Legal Doc Process in less than 1 minute](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/first_tour.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb) 
 
+<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/master/notebooks/first_tour.ipynb">  <img src="./images/first_tour.png"><br></a>
 
-<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/first_tour.ipynb">  <img src="./images/first_tour.png"><br></a>
 <br>
-
+<br>
 
 ## 🌟 Main Features
 --------------------
@@ -55,20 +56,21 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <br>
 <br>
+<br>
 
 
 ## 🎓 Tutorial 
 --------------------
 <br>
 
-### [First Tour of Legal Doc Process in less than 1 minute](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/first_tour.ipynb)
+### [Understand Basic usages and basics backgrounds in a pretty and lovely notebook](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/first_tour.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/tutorial.ipynb) 
 
+<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/master/notebooks/tutorial.ipynb">  <img src="./images/first_tour.png"><br></a>
 
-<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/first_tour.ipynb">  <img src="./images/first_tour.png"><br></a>
 <br>
-
+<br>
 
 ## 👨‍🔧 Behind the woods 
 --------------------
@@ -80,6 +82,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 <a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/feature/readme/notebooks/first_tour.ipynb">  <img src="./images/first_tour.png"><br></a>
+<br>
 <br>
 
 
@@ -110,6 +113,7 @@ at frist usage please write following command to bootstrap the package
 python -c "from legal_doc_processing import boot; boot.boot()"
 ```
 this command will download data collections and mandory web assets, it can take 1/2 minutes (depends of your web  connection)
+
 <br>
 <br>
 
@@ -119,6 +123,7 @@ this command will download data collections and mandory web assets, it can take 
 <br>
 
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
 <br>
 <br>
 
@@ -128,6 +133,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <br>
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
 <br>
 <br>
 
@@ -135,9 +141,10 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 --------------------
 <br>
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-<br>
-<br>
 
+<br>
+<br>
+<br>
 
 ## 🔏 Licence
 --------------------

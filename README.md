@@ -1,5 +1,5 @@
 
-<img src="./images/legaldoc_banner_8.svg"><br>
+<img src="./images/legaldoc_banner.svg"><br>
 <h1 style="display:none" >Legal-doc-processing : powerful Python legal document toolkit
 </h1>
 
@@ -63,11 +63,11 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 **********************
 <br>
 
-### [First Tour of Legal Doc Process in less than 1 minute](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb)
+### [Tutorial of Legal Doc Processing with main features, usages and how-to](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/tutorial.ipynb)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/tutorial.ipynb) 
 
-<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb">  <img src="./images/first_tour.png"><br></a>
+<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/tutorial.ipynb">  <img src="./images/first_tour.gif"><br></a>
 
 <br>
 <br>
@@ -146,6 +146,15 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 <br>
+<br>
+<br>
+
+
+## 📜 Changelog
+**********************
+<br>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
 <br>
 <br>
 

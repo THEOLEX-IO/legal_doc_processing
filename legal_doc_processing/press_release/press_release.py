@@ -2,6 +2,8 @@ from time import time
 
 from legal_doc_processing import logger
 
+import requests
+
 from legal_doc_processing.utils import get_pipeline, get_spacy
 from legal_doc_processing.base.base import Base
 from legal_doc_processing.press_release.utils import press_release_X_y
@@ -68,19 +70,33 @@ def press_release_df(
     return df
 
 
-# def from_file(file_path, source, nlpipe=None, nlspa=None):
-#     return base_from_file(file_path, source, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
+def from_file(file_path, source, nlpipe=None, nlspa=None):
+    """ """
+
+    with open(file_path, "r") as f:
+        txt = f.read()
+
+    return PressRelease(txt, source, nlpipe, nlspa)
 
 
-# def from_text(txt, source, nlpipe=None, nlspa=None):
-#     return base_from_text(txt, source, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
+def from_text(txt, source, nlpipe=None, nlspa=None):
+    """ """
+
+    return PressRelease(txt, source, nlpipe, nlspa)
 
 
-# def from_url(txt, source, nlpipe=None, nlspa=None):
-#     return base_from_url(txt, source, PressRelease, nlpipe=nlpipe, nlspa=nlspa)
+def from_url(url, source, nlpipe=None, nlspa=None):
+    """ """
+
+    txt = requests.get(url).text
+
+    return PressRelease(txt, source, nlpipe, nlspa)
 
 
 class _PressRelease:
     PressRelease = PressRelease
     load_X_y = press_release_X_y
     load_df = press_release_df
+    from_file = from_file
+    from_text = from_text
+    from_url = from_url

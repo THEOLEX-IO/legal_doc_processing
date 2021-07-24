@@ -303,4 +303,4 @@ class Utils:
     get_label = get_label_
 
     # version
-    version = "2.2.4"
+    version = "2.2.5"

@@ -2,6 +2,8 @@ from time import time
 
 from legal_doc_processing import logger
 
+import requests
+
 from legal_doc_processing.utils import get_pipeline, get_spacy
 from legal_doc_processing.base.base import Base
 from legal_doc_processing.press_release.utils import press_release_X_y
@@ -76,8 +78,13 @@ def from_text(txt, source, nlpipe=None, nlspa=None):
     return 1
 
 
-def from_url(txt, source, nlpipe=None, nlspa=None):
-    return 1
+def from_url(url, source, nlpipe=None, nlspa=None):
+    """ """
+    
+    txt = requests.get(url).text
+
+    return PressRelease(txt, source=, nlpipe, nlspa)
+
 
 
 class _PressRelease:

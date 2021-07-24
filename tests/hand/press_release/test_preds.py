@@ -1,12 +1,13 @@
+import random
 from time import time
+
 from legal_doc_processing import logger
+
 from legal_doc_processing.utils import get_pipeline, get_spacy
 from legal_doc_processing.press_release.press_release import (
     PressRelease,
     press_release_df,
 )
-
-import random
 
 
 def test_preds_by(

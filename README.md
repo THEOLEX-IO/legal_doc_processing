@@ -43,7 +43,7 @@ Initialy developped as an back end framework for a famous French Legal Tech Theo
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb) 
 
-<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb">  <img src="./images/first_tour.png"><br></a>
+<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb">  <img src="./images/first_tour.gif"><br></a>
 
 <br>
 <br>

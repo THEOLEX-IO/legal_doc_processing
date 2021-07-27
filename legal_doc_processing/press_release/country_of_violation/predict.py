@@ -39,7 +39,7 @@ def predict_country_of_violation(data: dict) -> list:
 
     ans_list = list()
     for sent, country in countries_cands:
-        quest = [["where does the violation took place?", "fine"]]
+        quest = [["What is the country of violation?", "fine"]]
 
         ans = ask_all(sent, quest, sent=sent, sent_id=country, nlpipe=data.nlpipe)
         ans_list.extend(ans)
@@ -60,3 +60,20 @@ def predict_country_of_violation(data: dict) -> list:
     # return [(i, 1) for i in countries_filtered]
 
     return ans_list
+
+
+
+    def clean_answer(answer_disc):
+        list_answer=[]
+        cleaned_countries=[]
+        for cv in answer_disc:
+            if cv["score"] > 0.7:
+                list_answer.append(cv["answer"])
+        for i in range(len(list_answer)):
+            country=list_answer[i].lower().split(" ")
+            print("here country",country)
+            if "district"  not  in country:
+                cleaned_countries.append(list_answer[i])
+
+        
+        return cleaned_countries

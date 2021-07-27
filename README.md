@@ -28,9 +28,17 @@
 <br>
 
 **legal-doc-processing** is an open source NLP library dedicated to legal documents. It offers a large and various tools to analyse, structure and extract information from legal documents surch as orders, complaints, press release etc etc.
+
+<br>
 <br>
 
-Initialy developped as an back end framework for a famous French Legal Tech Theolex
+## 🕰️ Background 
+**********************
+<br>
+
+**legal-doc-processing** was initialy developped as an data science framework for a famous French Legal Tech named <a href="https://www.theolex.io/">  Theolex</a>. 
+
+This startup provides quick insights across thousands of regulatory decisions and negotiated settlements. This tools allow legal profesionnals to efficiently quantify the legal and financial risks thanks to the power of artificial intelligence.
 
 <br>
 <br>
@@ -90,19 +98,19 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 **********************
 <br>
 
-go in your project directory and activate virtual environnement
+Go in your project directory and activate virtual environnement
 ```
 cd my-project/
 python3 -m venv env
 source ./env/bin/activate
 ```
 
-then install with pypi
+Then install with pypi
 ```
 pip install legal-doc-processing
 ```
 
-or clone wit with git 
+or clone it with git 
 ```
 git clone https://github.com/THEOLEX-IO/legal_doc_processing.git
 cd legal-doc-processing
@@ -111,21 +119,11 @@ source ./env/bin/activate
 pip install -r requirements.txt
 ```
 
-at frist usage please write following command to bootstrap the package
+At frist usage please write following command to bootstrap the package
 ```
 python -c "from legal_doc_processing import boot; boot.boot()"
 ```
-this command will download data collections and mandory web assets, it can take 1/2 minutes (depends of your web connection)
-
-<br>
-<br>
-
-
-## 💬 Help and discussion
-****************************
-<br>
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+This command will download data collections and mandory web assets, it may take 1 or 2 minutes, depends of your web connection.
 
 <br>
 <br>
@@ -135,7 +133,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 **********************
 
 <br>
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+We are currently updating our documentation policy. Waiting a major release of this section please go on the <strong>legal-doc-processing</strong> <a href=https://github.com/THEOLEX-IO/legal_doc_processing/wiki> Documention page</a>
 
 <br>
 <br>
@@ -143,9 +141,21 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## ⛏️ Contribute
 **********************
 <br>
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome for <strong>legal-doc-processing</strong>.
 
-<br>
+A detailed overview on how to contribute can be found on the <a href=https://github.com/THEOLEX-IO/legal_doc_processing/wiki/changelog>Contribution page</a> of our wiki.
+
+If you are simply looking to start working with the pandas codebase, navigate to the <strong>legal-doc-processing</strong> <a href=https://github.com/THEOLEX-IO/legal_doc_processing/issues>GitHub "issues"</a> tab and start looking through interesting issues.
+
+Main topics we are looking for help regards : 
+- writing documentation and tutorial
+- cleaning and refactoring of the code
+- test policy
+- bugs fixes
+- datase manual label reveiw
+- implementing a performance framework for the package itself
+- major updated/new features 
+
 <br>
 <br>
 
@@ -153,7 +163,12 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 ## 📜 Changelog
 **********************
 <br>
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+<strong>legal-doc-processing</strong> uses standard semantic versioning with major.minor.fixes anotations. 
+
+A list of global changelog could be found on the <a href=https://github.com/THEOLEX-IO/legal_doc_processing/wiki/changelog>Changelog page </a> on our wiki.
+
+For more information on future versions please go on the <strong>legal-doc-processing</strong> <a href=https://github.com/THEOLEX-IO/legal_doc_processing/projects>GitHub "projects page" </a>.
 
 <br>
 <br>
@@ -162,6 +177,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 **********************
 <br>
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+BDS4
 <br>
 <br>

@@ -43,6 +43,9 @@ from legal_doc_processing.press_release.country_of_violation.predict import (
     predict_country_of_violation,
 )
 
+
+from geopy.geocoders import Nominatim
+
 # spa and pipe
 nlpsa, nlpipe = get_spa_pipe()
 
@@ -78,7 +81,8 @@ def clean_answer(answer_disc):
             list_answer.append(cv["answer"])
     for i in range(len(list_answer)):
         country=list_answer[i].lower().split(" ")
-        if "District"  not  in country:
+        print("here country",country)
+        if "district"  not  in country:
             cleaned_countries.append(list_answer[i])
 
     

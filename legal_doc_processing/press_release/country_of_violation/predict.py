@@ -10,6 +10,12 @@ from legal_doc_processing.press_release.country_of_violation.countries_list impo
 )
 
 
+from country_list import countries_for_language
+from geopy.geocoders import Nominatim
+
+
+
+
 def predict_country_of_violation(data: dict) -> list:
     """ """
 
@@ -62,18 +68,35 @@ def predict_country_of_violation(data: dict) -> list:
     return ans_list
 
 
+def clean_answer(answer_disc):
+    list_answer=[]
+    cleaned_countries=[]
+    country_violation=[]
+    for cv in answer_disc:
+        if cv["score"] > 0.7:
+            list_answer.append(cv["answer"])
+    for i in range(len(list_answer)):
+        country=list_answer[i].lower().split(" ")
+       # print("here country",country)
+        if "district"  not  in country:
+            cleaned_countries.append(list_answer[i])
 
-    def clean_answer(answer_disc):
-        list_answer=[]
-        cleaned_countries=[]
-        for cv in answer_disc:
-            if cv["score"] > 0.7:
-                list_answer.append(cv["answer"])
-        for i in range(len(list_answer)):
-            country=list_answer[i].lower().split(" ")
-            print("here country",country)
-            if "district"  not  in country:
-                cleaned_countries.append(list_answer[i])
 
-        
-        return cleaned_countries
+    _countries = dict(countries_for_language('en'))
+
+    list_countries=list(_countries.values())
+
+    for country in cleaned_countries:
+        if country in list_countries:
+            country_violation.append(country)
+
+    
+        else:
+            geolocator = Nominatim(user_agent="geoapiExercises")
+            location=geolocator.geocode(country)
+            country_violation.append(location.address.split(",")[-1])
+
+    
+    return country_violation
+
+

@@ -34,8 +34,7 @@ fraudulent foreign currency (forex) commodity pool in violation of the Commodity
 Regulations. In addition, none of the Defendants has ever been registered with the CFTC, as required.
 
 """
-
-test_press_obj = pr.PressRelease(test_press_txt, nlpipe=nlpipe, nlspa=nlspa)
+test_press_obj = pr.PressRelease(test_press_txt, 'cftc', nlpipe=nlpipe, nlspa=nlspa)
 test_press_preds = test_press_obj.predict_all()
 
 

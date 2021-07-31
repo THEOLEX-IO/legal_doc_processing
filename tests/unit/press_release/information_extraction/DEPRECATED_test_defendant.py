@@ -1,4 +1,6 @@
-from legal_doc_processing.press_release.information_extraction.defendant import (
+import unittest
+
+from legal_doc_processing.press_release.defendant.clean import (
     _clean_LLC_trailling_dot_comma,
     _clean_and,
     _clean_resident,

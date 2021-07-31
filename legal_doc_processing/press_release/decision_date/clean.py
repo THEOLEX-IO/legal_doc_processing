@@ -22,18 +22,21 @@ def _you_shall_not_pass(date: str) -> str:
 
 def force_dateformat(i: str) -> str:
     """force a date parse and if not working return dummt value """
+    if i != '--ERROR--':
+        try:
+            dd = dateparser.parse(i)
 
-    try:
-        dd = dateparser.parse(i)
+            if not 2025 >= int(dd.year) >= 1950:
+                dd = "1900-01-01"
 
-        if not 2025 >= int(dd.year) >= 1950:
-            dd = "1900-01-01"
+            str_dd = str(dd)[:10]
+            return str_dd
 
-        str_dd = str(dd)[:10]
-        return str_dd
+        except Exception as e:
 
-    except Exception as e:
+            logger.error(f"e : {e} for date  : {i} ")
 
-        logger.error(f"e : {e} for date  : {i} ")
+            return "1900-01-01"
 
+    else:
         return "1900-01-01"

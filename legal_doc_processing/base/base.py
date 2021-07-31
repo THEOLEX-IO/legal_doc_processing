@@ -33,7 +33,7 @@ class Base:
         juridiction_cands = [i for i in juridiction_list if i in source]
         if not any(juridiction_cands):
             raise AttributeError(f"source arg must refers to one of {juridiction_list}")
-        juridiction = juridiction_cands[0]
+        juridiction = juridiction_cands[0].strip().lower()
         obj_name_list = ["PressRelease", "Decision", "LegalDoc"]
         if not obj_name in obj_name_list:
             raise AttributeError(f"obj_name arg must refers to one of {obj_name_list}")

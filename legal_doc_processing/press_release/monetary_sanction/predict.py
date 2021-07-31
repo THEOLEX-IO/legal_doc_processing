@@ -21,7 +21,6 @@ def predict_monetary_sanction(
     # h1, abstract = data.h1, data.abstract
 
     # get_label_ h1,predict
-    # import pdb;pdb.set_trace()
     money_h1 = _u(data.cost_h1)
     money_h1_clean = _u(_cast_as_int(money_h1))
 

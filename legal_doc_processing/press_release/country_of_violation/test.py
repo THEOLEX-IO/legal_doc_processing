@@ -9,7 +9,7 @@
 #     AutoModelForQuestionAnswering,
 # )
 
-# from geopy.geocoders import Nominatim
+from geopy.geocoders import Nominatim
 
 # # ask question about the residence of the defendant
 # [
@@ -40,7 +40,7 @@ from legal_doc_processing.press_release import country_of_violation
 
 
 from legal_doc_processing.press_release.country_of_violation.predict import (
-    predict_country_of_violation,
+    predict_country_of_violation, clean_answer
 )
 
 
@@ -73,21 +73,15 @@ for cv in ans_list:
         print(cv["answer"])
 
 
-def clean_answer(answer_disc):
-    list_answer=[]
-    cleaned_countries=[]
-    for cv in answer_disc:
-        if cv["score"] > 0.7:
-            list_answer.append(cv["answer"])
-    for i in range(len(list_answer)):
-        country=list_answer[i].lower().split(" ")
-        print("here country",country)
-        if "district"  not  in country:
-            cleaned_countries.append(list_answer[i])
 
-    
-    return cleaned_countries
 
+
+
+from country_list import countries_for_language
+# countries_for_language returns a list of tuples now, might be changed to an OrderedDict
+_countries = dict(countries_for_language('en'))
+
+list_countries=list(countries.values())
 
 
 

@@ -81,9 +81,9 @@ from country_list import countries_for_language
 # countries_for_language returns a list of tuples now, might be changed to an OrderedDict
 _countries = dict(countries_for_language('en'))
 
-list_countries=list(countries.values())
+list_countries=list(_countries.values())
 
 
-
+country_violation=clean_answer(countries)
 #tester sur un dizaine de cas
 #filtrer et ajouter une fonction de clearning

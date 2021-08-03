@@ -88,16 +88,17 @@ def clean_answer(answer_disc):
 
     list_countries=list(_countries.values())
 #select all the country from the answers
+    if list_countries:
+        for country in cleaned_countries:
+            if country in list_countries:
+                country_violation.append(country)
 
-    for country in cleaned_countries:
-        if country in list_countries:
-            country_violation.append(country)
-
-    #convert the cities into country
-        else:
-            geolocator = Nominatim(user_agent="geoapiExercises")
-            location=geolocator.geocode(country)
-            country_violation.append(location.address.split(",")[-1])
+        #convert the cities into country
+            else:
+                geolocator = Nominatim(user_agent="geoapiExercises")
+                location=geolocator.geocode(country)
+                if location:
+                    country_violation.append(location.address.split(",")[-1])
 
 
     country_violation=np.array(country_violation)

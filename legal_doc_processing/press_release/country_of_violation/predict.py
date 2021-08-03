@@ -72,6 +72,7 @@ def clean_answer(answer_disc):
     list_answer=[]
     cleaned_countries=[]
     country_violation=[]
+    
     for cv in answer_disc:
         if cv["score"] > 0.7:
             list_answer.append(cv["answer"])

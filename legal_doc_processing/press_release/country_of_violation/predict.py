@@ -85,12 +85,13 @@ def clean_answer(answer_disc):
     _countries = dict(countries_for_language('en'))
 
     list_countries=list(_countries.values())
+#select all the country from the answers
 
     for country in cleaned_countries:
         if country in list_countries:
             country_violation.append(country)
 
-    
+    #convert the cities into country
         else:
             geolocator = Nominatim(user_agent="geoapiExercises")
             location=geolocator.geocode(country)

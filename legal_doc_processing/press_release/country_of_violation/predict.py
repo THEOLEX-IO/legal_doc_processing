@@ -1,4 +1,5 @@
 import pdb
+import numpy as np
 
 from legal_doc_processing import logger
 
@@ -72,7 +73,7 @@ def clean_answer(answer_disc):
     list_answer=[]
     cleaned_countries=[]
     country_violation=[]
-    
+
     for cv in answer_disc:
         if cv["score"] > 0.7:
             list_answer.append(cv["answer"])
@@ -98,7 +99,8 @@ def clean_answer(answer_disc):
             location=geolocator.geocode(country)
             country_violation.append(location.address.split(",")[-1])
 
-    
-    return country_violation
+
+    country_violation=np.array(country_violation)
+    return list(np.unique(country_violation))
 
 

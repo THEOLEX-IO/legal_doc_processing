@@ -124,6 +124,7 @@ def strize(item_list, sep="\n", force_list=False):
 
 
 def get_spacy():
+<<<<<<< HEAD
     """ """
 
     try:
@@ -138,6 +139,18 @@ def get_spacy():
         return nlspa
     except Exception as e:
         return nlspa
+=======
+
+    nlspa = spacy.load("en_core_web_sm")
+    nlspa.add_pipe("sentencizer")
+
+    return nlspa
+
+
+def get_spa_pipe():
+
+    return get_spacy(), get_pipeline()
+>>>>>>> feature/improve_country
 
 
 def _if_not_spacy(nlspa):

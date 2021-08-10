@@ -57,7 +57,7 @@ df = press_release_df(
     sample=0.25,
 )
 
-pr = df.pr.iloc[7]
+pr = df.pr.iloc[10]
 pr.predict("extracted_authorities")
 data = pr.data
 

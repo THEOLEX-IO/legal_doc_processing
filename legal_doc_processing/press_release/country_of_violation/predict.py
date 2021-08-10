@@ -103,9 +103,3 @@ def clean_answer(answer_disc):
 
     country_violation=np.array(country_violation)
     return list(np.unique(country_violation))
-
-
-<<<<<<< HEAD
-    return [(i.title().strip(), 1) for i in countries_filtered]
-=======
->>>>>>> feature/improve_country

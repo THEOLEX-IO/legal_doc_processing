@@ -38,3 +38,12 @@ def predict_decision_date(data: dict) -> list:
     date = str(date)[:10]
 
     return [(date, 1)]
+
+
+def clean_decission_date(decission: dict):
+    date = decission[0][0].split(',')[-1]
+    if int(date) not  in range(1950,2022):
+        return("January 01, 1900")
+    else:
+        return(decission)
+

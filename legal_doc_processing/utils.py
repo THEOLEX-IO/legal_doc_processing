@@ -124,22 +124,6 @@ def strize(item_list, sep="\n", force_list=False):
 
 
 def get_spacy():
-<<<<<<< HEAD
-    """ """
-
-    try:
-        nlspa = spacy.load("en_core_web_sm")
-
-    except Exception as e:
-        call(["python", "-m", "spacy", "download", "en_core_web_sm"])
-
-        nlspa = spacy.load("en_core_web_sm")
-    try:
-        nlspa.add_pipe("sentencizer")
-        return nlspa
-    except Exception as e:
-        return nlspa
-=======
 
     nlspa = spacy.load("en_core_web_sm")
     nlspa.add_pipe("sentencizer")
@@ -150,7 +134,6 @@ def get_spacy():
 def get_spa_pipe():
 
     return get_spacy(), get_pipeline()
->>>>>>> feature/improve_country
 
 
 def _if_not_spacy(nlspa):

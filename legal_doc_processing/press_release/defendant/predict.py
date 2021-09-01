@@ -17,7 +17,6 @@ def predict_defendant(data: dict) -> list:
     """ """
 
     return [("-- DUMMY --", 1)]
-
     
 # def predict_defendant(obj: dict, threshold: float = 0.4, n_sents: int = 3) -> list:
 #     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """

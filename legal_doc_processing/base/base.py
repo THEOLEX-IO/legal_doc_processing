@@ -33,7 +33,7 @@ class Base:
         juridiction_cands = [i for i in juridiction_list if i in source]
         if not any(juridiction_cands):
             raise AttributeError(f"source arg must refers to one of {juridiction_list}")
-        juridiction = juridiction_cands[0]
+        juridiction = juridiction_cands[0].strip().lower()
         obj_name_list = ["PressRelease", "Decision", "LegalDoc"]
         if not obj_name in obj_name_list:
             raise AttributeError(f"obj_name arg must refers to one of {obj_name_list}")
@@ -56,10 +56,6 @@ class Base:
         # pipe and spacy
         self.nlpipe = nlpipe if nlpipe else get_pipeline()
         self.nlspa = nlspa if nlspa else get_spacy()
-        try:
-            self.nlspa.add_pipe("sentencizer")
-        except Exception as e:
-            pass
 
         ######################
 
@@ -77,10 +73,10 @@ class Base:
                 struct_text["article"].splitlines()[:abstract_n_lines]
             )
 
-        if obj_name == "LegalDoc":
-
+        elif obj_name == "LegalDoc":
             struct_text = structure_legal_doc(text, juridiction=juridiction, nlspa=nlspa)
-        if obj_name == "Decision":
+
+        elif obj_name == "Decision":
             struct_text = {}
 
         ######################
@@ -105,11 +101,12 @@ class Base:
             "_court",
             "_currency",
             "_decision_date",
+            "_extracted_sanctions",
             "_extracted_violations",  # ATTENTION PB extracted_violations vs _nature_of violations
             "_folder",
             "_judge",
             "_monitor",
-            "_nature_de_sanction",  # attention _penalty_details _monetary_sanction and  _compliance_obligations
+            "_nature_de_sanction",  # _nature_de_sanction needs_extracted_sanctions
             "_nature_of_violations",  ###### ATTENTION PB extracted_violations vs _nature_of violations
             "_reference",
             "_extracted_authorities",  # depends of judge
@@ -117,9 +114,9 @@ class Base:
             "_justice_type",  # depends of _extracted_authorities
             "_defendant",  # depends of _judge and _extracted_authorities
             "_country_of_violation",  # depends of _extracted_authorities
-            "_penalty_details",  # depends of _extracted_violations
+            "_penalty_details",  # depends of _extracted_sanctions
             "_monetary_sanction",  # depends of _penalty_details
-            "_compliance_obligations",
+            "_compliance_obligations",  # depends of _extracted_sanctions
             # depends of predict authorities
             # "_violation_date",
         ]
@@ -268,7 +265,6 @@ class Base:
             "justice_type",
             "country_of_violation",
             "currency",
-            "penalty_details",
         ]:
             val = self._predict["extracted_authorities"](self.data)
             setattr(self, "_extracted_authorities", val)
@@ -278,10 +274,14 @@ class Base:
             val = self._predict["judge"](self.data)
             setattr(self, "_judge", val)
 
-        # extracted_violations need penalty_details
+        # nature_de_sanction, penalty_details need extracted_sanctions
+        if feature == "nature_de_sanction":
+            val = self._predict["extracted_sanctions"](self.data)
+            setattr(self, "_extracted_sanctions", val)
+
         if feature == "penalty_details":
-            val = self._predict["extracted_violations"](self.data)
-            setattr(self, "_extracted_violations", val)
+            val = self._predict["extracted_sanctions"](self.data)
+            setattr(self, "_extracted_sanctions", val)
 
         if feature in self.feature_list:
             try:
@@ -291,7 +291,7 @@ class Base:
             setattr(self, "_" + feature, val)
             return val
 
-        return "--Unknowned feature--"
+        return AttributeError(f"Unknowned feature : {feature} ")
 
     def predict_all(self) -> str:
         """return self.predict("all") """

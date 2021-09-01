@@ -1,5 +1,5 @@
 from legal_doc_processing import logger
-from legal_doc_processing._base import (
+from legal_doc_processing.base.base import (
     Base,
 )
 

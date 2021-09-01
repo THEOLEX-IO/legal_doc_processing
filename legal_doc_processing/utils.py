@@ -1,24 +1,15 @@
-# live coding
-# import re
-# from itertools import product
-
-# import requests
-# import asyncio
-
 import os
+import pdb
+from subprocess import call
 
 import numpy as np
 import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer
-import pdb
 
-# import heapq
-# import nltk
-# from cleantext import clean
+from sklearn.feature_extraction.text import TfidfVectorizer
+
 import spacy
 from transformers import pipeline
 
-# AutoModelForTokenClassification, AutoTokenizer
 
 from legal_doc_processing import logger
 
@@ -29,15 +20,13 @@ def dummy_accuracy(y, pred) -> int:
     try:
         y, pred = int(y), int(pred)
         val = int(y == pred)
-        print(val)
+        logger.info(f"val {val} ")
         return val
 
     except Exception as e:
-        print(e)
-        print(-1)
+        logger.info(f"e {e} ")
         return -1
 
-    print(-2)
     return -2
 
 
@@ -81,6 +70,7 @@ def cosine_similarity(y: str, pred: str) -> float:
 
 def softmax(x):
     """Compute softmax values for each sets of scores in x."""
+
     e_x = np.exp(x - np.max(x))
     return e_x / e_x.sum(axis=0)  # only difference # correct solution:
 
@@ -98,8 +88,8 @@ def load_data(file_path: str) -> str:
 
 
 def make_dataframe(path: str = "./data/csv/files.csv"):
+    """ """
 
-    # read df
     df = pd.read_csv(path)
     return df
 
@@ -113,21 +103,43 @@ def uniquize(iterable: list) -> list:
         return []
 
 
-def strize(item_list):
+def strize(item_list, sep="\n", force_list=False):
     """ """
 
+    # if score -1
     non_null = [(i, j) for i, j in item_list if j > -1]
     if not non_null:
         return ""
 
-    clean_l = lambda item_list: [str(i).strip() for i, j in non_null]
+    # clean and unique
+    clean_l = [str(i).replace("\n", "").strip() for i, j in non_null]
+    str_cand = uniquize(clean_l)
+    if not str_cand:
+        return ""
 
-    unique_l = uniquize(clean_l)
-
-    return ";;".join(clean_l(unique_l))
+    # return
+    if len(str_cand) == 1:
+        return str_cand[0]
+    return sep.join(str_cand)
 
 
 def get_spacy():
+<<<<<<< HEAD
+    """ """
+
+    try:
+        nlspa = spacy.load("en_core_web_sm")
+
+    except Exception as e:
+        call(["python", "-m", "spacy", "download", "en_core_web_sm"])
+
+        nlspa = spacy.load("en_core_web_sm")
+    try:
+        nlspa.add_pipe("sentencizer")
+        return nlspa
+    except Exception as e:
+        return nlspa
+=======
 
     nlspa = spacy.load("en_core_web_sm")
     nlspa.add_pipe("sentencizer")
@@ -138,6 +150,7 @@ def get_spacy():
 def get_spa_pipe():
 
     return get_spacy(), get_pipeline()
+>>>>>>> feature/improve_country
 
 
 def _if_not_spacy(nlspa):
@@ -209,14 +222,14 @@ def ask_all(txt, quest_pairs, sent_id=None, sent=None, nlpipe=None) -> list:
     ans = []
 
     # loop
-    logger.info(f"quest_pairs : {quest_pairs} , len {quest_pairs} ")
+    # logger.info(f"quest_pairs : {quest_pairs} , len {quest_pairs} ")
     # pdb.set_trace()
 
     for quest, label in quest_pairs:
 
-        logger.info(f"quest_pairs : {quest_pairs} ")
+        # logger.info(f"quest_pairs : {quest_pairs} ")
         ds = _ask(txt=txt, quest=quest, nlpipe=nlpipe)
-        _ = [d.update({"question": label}) for d in ds]
+        _ = [d.update({"question": quest, "quest_label": label}) for d in ds]
         if sent_id:
             _ = [d.update({"sent_id": sent_id}) for d in ds]
         if sent:
@@ -259,156 +272,6 @@ def merge_ans(ans, label="new_answer", threshold=0.1):
     return ll
 
 
-# def get_pers(txt: str, nlspa=None) -> list:
-#     """ with spacy get entities PERSON"""
-
-#     return get_label_(txt, "PERSON", nlspa)
-
-
-# def get_orgs(txt: str, nlspa=None) -> list:
-#     """ with spacy get entities ORG"""
-
-#     return get_label_(txt, "ORG", nlspa)
-
-
-# def clean_spec_chars(text: str) -> tuple:
-#     """first text cleaning based on regex, just keep text not spec chars
-#     return tupple of text"""
-
-#     # article text
-#     article_text = re.sub(r"\[[0-9]*\]", " ", text)
-#     article_text = re.sub(r"\s+", " ", article_text)
-
-#     # formated text
-#     formatted_article_text = re.sub("[^a-zA-Z]", " ", article_text)
-#     formatted_article_text = re.sub(r"\s+", " ", formatted_article_text)
-
-#     return article_text, formatted_article_text
-
-
-# def handle_encoding(text: str) -> str:
-#     """handle encoding problems and force ascii conversion ; return clean text """
-#     text_encode = text.encode(encoding="ascii", errors="ignore")
-
-#     # cleaning the text to remove extra whitespace
-#     clean_text = " ".join([word for word in text_decode.split()])
-
-#     return clean_text
-
-
-# def _boot_press_release():
-#     """test init press release """
-
-#     # from legal_doc_processing.press_release import (
-#     #     PressRelease,
-#     #     read_PressRelease,
-#     #     load_press_release_text_list,
-#     # )
-
-#     # num = "7100-15"
-#     # url = f"https://storage.googleapis.com/theolex_documents_processing/cftc/text/7100-15/order-allied-markets-llc-et-al.txt"
-#     # nlpipe = get_pipeline()
-#     # pr = PressRelease("Hello World", nlpipe=nlpipe)
-#     # # pr.predict("all")
-
-#     pass
-
-
-# def _boot_legal_doc():
-#     """ try to build and predict a LegalDoc and an PressRelease"""
-
-#     from legal_doc_processing.legal_doc import (
-#         LegalDoc,
-#         read_LegalDoc,
-#         load_legal_doc_text_list,
-#     )
-
-#     url = ""
-#     nlpipe = get_pipeline()
-#     ld = LegalDoc("Hello World", nlpipe=nlpipe)
-#     # ld.predict("all")
-
-
-# def boot():
-#     """ """
-
-#     _boot_press_release()
-#     _boot_legal_doc()
-
-
-# DEPRECATED
-# def make_dataframe(path: str = "./data/csv/original_dataset.csv", n: int = 10):
-#     """
-#     :param path  = the path to read original dataset
-#     :param n     = the n-st line to scrap, other will be droped
-#     """
-
-#     # read df
-#     df = pd.read_csv(path)
-
-#     # keep cols
-#     keep_cols = [
-#         "id",
-#         "name",
-#         "status",
-#         "reference",
-#         "document_link",
-#         "press_release_link",
-#         "monetary_sanction",
-#         "currency",
-#         "type",
-#         "justice_type",
-#         "defendant",
-#         "decision_date",
-#         "extracted_violations",
-#     ]
-
-#     drop_cols = [i for i in df.columns if i not in keep_cols]
-#     df = df.drop(drop_cols, axis=1)
-
-#     # fill rate
-#     fill_rate = lambda col: (len(df) - sum(df[col].isna())) / len(df)
-#     df_rate_fill = [(col, round(fill_rate(col), 2)) for col in df.columns]
-
-#     # press_release and document_link
-#     for col, ext in [("press_release", ".html"), ("document", ".txt")]:
-#         funct = (
-#             lambda i: np.nan if ("storage.google" not in i) else i.replace(".pdf", ext)
-#         )
-#         df[col + "_URL"] = df[col + "_link"].apply(lambda i: funct(str(i).strip()))
-
-#     # clean lines without press or document
-#     df = df.loc[~df.document_URL.isna(), :]
-#     df = df.loc[~df.press_release_URL.isna(), :]
-#     df.index = range(len(df))
-
-#     def scrap(url: str):
-#         """ """
-
-#         try:
-#             # print(url)
-#             res = requests.get(url)
-
-#             if res.status_code < 300:
-#                 return res.text
-#             else:
-#                 return res.status_code
-
-#         except Exception as e:
-#             return str(e)
-
-#     # test on 10
-#     df = df.iloc[:n, :]
-
-#     # sync version
-#     for col in ["press_release", "document"]:
-#         df[col + "_TEXT"] = df[col + "_URL"].apply(lambda i: scrap(str(i).strip()))
-
-#     df.to_csv("./data/csv/dataset.csv", index=False)
-
-#     return df
-
-
 def main_X_y(
     path: str = "./data/csv/", y: str = "random_y", text: str = "random_text"
 ) -> pd.DataFrame:
@@ -428,3 +291,29 @@ def main_X_y(
     new_df = text_df.merge(y_df, on="folder", how="inner", copy=True)
 
     return new_df
+
+
+class Utils:
+    """ """
+
+    # df
+    main_X_y = main_X_y
+
+    # predict
+    ask = _ask
+    ask_all = ask_all
+    merge_ans = merge_ans
+
+    # pipeline
+    if_not_pipe = _if_not_pipe
+    get_pipeline = get_pipeline
+
+    # spacy
+    if_not_spacy = _if_not_spacy
+    get_spacy = get_spacy
+
+    # label
+    get_label = get_label_
+
+    # version
+    version = "2.2.6"

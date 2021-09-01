@@ -1,8 +1,6 @@
 from tests import *
 
-from legal_doc_processing.press_release.clean.monetary_sanction import (
-    _cast_as_int,
-)
+from legal_doc_processing.press_release.monetary_sanction.clean import _cast_as_int
 
 
 class TestCastAsInt(unittest.TestCase):

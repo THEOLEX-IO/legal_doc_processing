@@ -1,4 +1,17 @@
-# Legal-doc-processing
+
+<img src="./images/legaldoc_banner.svg"><br>
+<h1 style="display:none" >Legal-doc-processing : powerful Python legal document toolkit
+</h1>
+
+
+<br>
+<br>
+<br>
+
+
+## 🥇 Badges  
+**********************
+<br>
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![codecov](https://codecov.io/gh/THEOLEX-IO/legal_doc_processing/branch/master/graph/badge.svg)](https://codecov.io/gh/THEOLEX-IO/legal_doc_processing)
@@ -6,194 +19,164 @@
 [![Requires.io](https://requires.io/github/mtchavez/python-package-boilerplate/requirements.svg?branch=master)](https://requires.io/github/mtchavez/python-package-boilerplate/requirements?branch=master)
 [![DeepSource](https://deepsource.io/gh/THEOLEX-IO/legal_doc_processing.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/THEOLEX-IO/legal_doc_processing/?ref=repository-badge)
 
+<br>
+<br>
 
-## What is it ? 
------------------------------------
+
+## 🔎 What is it ? 
+**********************
 <br>
 
 **legal-doc-processing** is an open source NLP library dedicated to legal documents. It offers a large and various tools to analyse, structure and extract information from legal documents surch as orders, complaints, press release etc etc.
+
 <br>
 <br>
 
-## Installation
--------------------------------------
+## 🕰️ Background 
+**********************
 <br>
 
-go in your project directory and activate virtual environnement
+**legal-doc-processing** was initialy developped as an data science framework for a famous French Legal Tech named <a href="https://www.theolex.io/">  Theolex</a>. 
+
+This startup provides quick insights across thousands of regulatory decisions and negotiated settlements. This tools allow legal profesionnals to efficiently quantify the legal and financial risks thanks to the power of artificial intelligence.
+
+<br>
+<br>
+
+## 🏁 First Tour in 1 min 
+********************************************
+<br>
+
+### [First Tour of Legal Doc Process in less than 1 minute](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb) 
+
+<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb">  <img src="./images/first_tour.gif"><br></a>
+
+<br>
+<br>
+
+## 🌟 Main Features
+**********************
+
+<br>
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+<br>
+<br>
+<br>
+
+
+## 🎓 Tutorial 
+**********************
+<br>
+
+### [Tutorial of Legal Doc Processing with main features, usages and how-to](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/tutorial.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/tutorial.ipynb) 
+
+<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/tutorial.ipynb">  <img src="./images/first_tour.gif"><br></a>
+
+<br>
+<br>
+
+## 👨‍🔧 Behind the woods 
+*********************************
+<br>
+
+### [First Tour of Legal Doc Process in less than 1 minute](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb) 
+
+<a href="https://colab.research.google.com/github/THEOLEX-IO/legal_doc_processing/blob/master/notebooks/first_tour.ipynb">  <img src="./images/first_tour.png"><br></a>
+
+<br>
+<br>
+
+
+## 🏗️ Installation
+**********************
+<br>
+
+Go in your project directory and activate virtual environnement
 ```
 cd my-project/
 python3 -m venv env
 source ./env/bin/activate
 ```
 
-then install with pypi
+Then install with pypi
 ```
 pip install legal-doc-processing
 ```
 
-or install with git 
+or clone it with git 
 ```
 git clone https://github.com/THEOLEX-IO/legal_doc_processing.git
+cd legal-doc-processing
+python3 -m venv env
+source ./env/bin/activate
 pip install -r requirements.txt
 ```
 
-at frist usage please write following command to bootstrap the package
+At frist usage please write following command to bootstrap the package
 ```
-python -c "from legal_doc_processing import boot; boot()"
+python -c "from legal_doc_processing import boot; boot.boot()"
 ```
-this command will download data collections and mandory web assets, it can take 1/2 minutes (depends of your web  connection)
-<br>
-<br>
-
-## Usage
-----------------------------------------------------
-<br>
-
-There is 3 main modules in legal-doc-processing : 
-- legal_doc for LegalDoc objects ie order, complaint, etc etc official documents
-- press_release for PressRelease objects for legal press release related to each case
-- decision for both LegalDoc and PressRelease documents. The Decision object is able to read both, make prediction from both documents and merge/clean prediction of both documents. If just one of them, the object will apply basic method based on LegalDoc or PressRelease object
-
-so you can :
-```
-from legal_doc_processing import *  # import all
-from legal_doc_processing import legal_doc # import legal document module
-from legal_doc_processing import press_release # import press release module
-from legal_doc_processing import decision # import decision module
-```
-<br>
-
-### Instanciation
-youn can init an object in 2 ways.
-* with text directly
-```
-from legal_doc_processing import ld
-doc = ld.LegalDoc("this is a document")
-# or better
-doc = ld.from_text("this is a document")
-```
-* with path to a file
-```
-doc = ld.from_file("this/is/my/file.txt")
-```
-
-for press release, same pattern: 
-```
-from legal_doc_processing import pr
-press = ld.PressRelease("this is a press release")
-press = ld.from_text("this is a press release")
-```
-* with path to a file
-```
-press = ld.from_file("this/is/my/file.txt")
-```
-
-once instanciated, you can print : 
-```
-print(doc)
-```
-<br>
-
-all interessing features are in feature_dict attribute
-```
-print(doc.feature_dict)
-```
-<br>
-
-### Predictions
-
-you can now make predictions : 
-```
-defendant = doc.predict("defendant")
-print(defendant)
-case = doc.predict("case")
-print(case)
-```
-<br>
-
-predict method return a something but alson work on the object itself : 
-```
-print(doc)
-print(doc.feature_dict)
-```
-<br>
-
-of course most easy is to predict all : 
-```
-features = doc.predict("all")
-print(features)
-print(doc)
-```
-<br>
-
-you can acces to final predictions or detailed prediction: 
-```
-print(doc.feature_dict) # just the results
-print(doc._feature_dict) # results + score for each result
-```
+This command will download data collections and mandory web assets, it may take 1 or 2 minutes, depends of your web connection.
 
 <br>
 <br>
 
-## Requirements
------------------------------------------------------
+
+## 📕 Documentation 
+**********************
+
 <br>
+We are currently updating our documentation policy. Waiting a major release of this section please go on the <strong>legal-doc-processing</strong> <a href=https://github.com/THEOLEX-IO/legal_doc_processing/wiki> Documention page</a>
 
-Package requirements are handled using pip. To install them do
-```
-pip install -r requirements.txt
-```
-<br>
-<br>
-
-## Tests
----------------------------------------------------------
-<br>
-
-Testing is set up using [pytest](http://pytest.org) and coverage is handled
-with the pytest-cov plugin.
-
-Run your tests with ```pytest``` in the root directory.
-
-Coverage is ran by default and is set in the ```pytest.ini``` file.
-To see an html output of coverage open ```htmlcov/index.html``` after running the tests.
 <br>
 <br>
 
-## Pipe steps:  
------------------------------------
+## ⛏️ Contribute
+**********************
 <br>
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome for <strong>legal-doc-processing</strong>.
 
-Cleaning and feature engineering --> segmentation --> classification --> information extraction
-<br>
-<br>
+A detailed overview on how to contribute can be found on the <a href=https://github.com/THEOLEX-IO/legal_doc_processing/wiki/changelog>Contribution page</a> of our wiki.
 
-## Licence:  
------------------------------------
-<br>
+If you are simply looking to start working with the pandas codebase, navigate to the <strong>legal-doc-processing</strong> <a href=https://github.com/THEOLEX-IO/legal_doc_processing/issues>GitHub "issues"</a> tab and start looking through interesting issues.
 
-lorem ipsum
-<br>
-<br>
+Main topics we are looking for help regards : 
+- writing documentation and tutorial
+- cleaning and refactoring of the code
+- test policy
+- bugs fixes
+- datase manual label reveiw
+- implementing a performance framework for the package itself
+- major updated/new features 
 
-## Getting Help and discussion:  
------------------------------------
-<br>
-
-lorem ipsum
 <br>
 <br>
 
 
-## Contributing:  
------------------------------------
+## 📜 Changelog
+**********************
 <br>
-lorem ipsum
+
+<strong>legal-doc-processing</strong> uses standard semantic versioning with major.minor.fixes anotations. 
+
+A list of global changelog could be found on the <a href=https://github.com/THEOLEX-IO/legal_doc_processing/wiki/changelog>Changelog page </a> on our wiki.
+
+For more information on future versions please go on the <strong>legal-doc-processing</strong> <a href=https://github.com/THEOLEX-IO/legal_doc_processing/projects>GitHub "projects page" </a>.
+
 <br>
 <br>
 
-## Documentation:  
------------------------------------
-lorem ipsum
+## 🔏 Licence
+**********************
+<br>
+
+BDS4
 <br>
 <br>

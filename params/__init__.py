@@ -15,7 +15,7 @@ class GeneralParams:
     tmp = "tmp/"
 
     # logging
-    logging_level = os.getenv("API_LOGLEVEL", "INFO")
+    logging_level = os.getenv("API_LOGLEVEL", "WARNING")
     log_in_file = False  # if True log in file else in stdout
     logging_filemode = "w"  # ['a', 'w'] if "w" delete old file else append
     logging_datefmt = "%Y-%m-%d %H:%M:%S"
@@ -41,7 +41,10 @@ def setBasicConfig(filename: str, params, ext: str = ".log"):
     }
 
     # logfile
-    assert os.path.isdir(params.logs)
+    # try:
+    #     assert os.path.isdir(params.logs)
+    # except Exception as e:
+    #     os.mkdir(params.logs)
     logfile = f"{params.logs}{filename}{ext}"
 
     # if "w" as logging filemode rewrite logfile with header

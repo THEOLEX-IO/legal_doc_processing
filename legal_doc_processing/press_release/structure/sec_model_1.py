@@ -40,9 +40,9 @@ def extract_id_1(intro: str) -> tuple:
 
     # slplit
     intro_lines = intro.splitlines()
-    logger.info(intro_lines)
+    # logger.info(intro_lines)
     intro_cleaned_lines = [i for i in intro_lines if i.strip()]
-    logger.info(intro_cleaned_lines)
+    # logger.info(intro_cleaned_lines)
 
     # find idx and _id
     cond_ok = lambda i: (
@@ -50,7 +50,7 @@ def extract_id_1(intro: str) -> tuple:
     ) * ("-" in i)
 
     idx_cands = [i for i, j in enumerate(intro_cleaned_lines) if cond_ok(j)]
-    logger.info(idx_cands)
+    # logger.info(idx_cands)
 
     idx = idx_cands[-1]
     _id = intro_cleaned_lines[idx]

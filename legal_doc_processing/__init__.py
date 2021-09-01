@@ -17,4 +17,8 @@ from legal_doc_processing.press_release.press_release import (
     _PressRelease as press_release,
 )
 
+from legal_doc_processing.downloader.downloader import Downloader as downloader
+from legal_doc_processing.utils import Utils as utils
+from legal_doc_processing.boot import Boot as boot
+
 # from legal_doc_processing._decision import _Decision as decision

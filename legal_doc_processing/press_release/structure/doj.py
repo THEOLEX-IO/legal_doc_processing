@@ -1,6 +1,8 @@
 import os
 from pprint import pformat, pprint
 
+from cleantext import clean
+
 from legal_doc_processing import logger
 
 from legal_doc_processing.utils import get_spacy, get_pipeline, get_label_
@@ -40,8 +42,7 @@ def give_doj_press_release_file():
 def first_clean(txt: str) -> str:
     """ """
 
-    btxt = txt.encode("latin-1")
-    txt_decoded = btxt.decode("utf8")
+    txt_decoded = clean(txt)
 
     # clean double breaks and fake lines
     new_txt_1 = clean_in_line_break(txt_decoded)
@@ -60,7 +61,7 @@ def split_intro_article(txt: str) -> str:
 
     # identifie and split
     idx_lines = [i for i, j in enumerate(lines) if splitter.lower() in j.lower()]
-    logger.info(idx_lines)
+    # logger.info(idx_lines)
     assert len(idx_lines) > 0
     idx = idx_lines[0]
     intro_lines, article_lines = lines[: idx + 1], lines[idx + 1 :]

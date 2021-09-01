@@ -6,14 +6,15 @@ from legal_doc_processing.utils import *
 
 from legal_doc_processing import logger
 
-from legal_doc_processing.legal_doc.segmentation.clean import clean_doc
-from legal_doc_processing.legal_doc.segmentation.utils import get_token, get_section_indx
+# from legal_doc_processing.legal_doc.segmentation.clean import clean_doc
+# from legal_doc_processing.legal_doc.segmentation.utils import get_token, get_section_indx
 from legal_doc_processing.utils import load_data
-from legal_doc_processing.legal_doc.segmentation import clean
-from notebooks.utils import *
+# from legal_doc_processing.legal_doc.segmentation import clean
+# from notebooks.utils import *
 
 
 def structure_legal_doc(text):
+    import pdb;pdb.set_trace()
     list_token = get_token(text)
     idx = get_section_indx(list_token)
     j = -1

@@ -103,5 +103,3 @@ def clean_answer(answer_disc):
 
     country_violation=np.array(country_violation)
     return list(np.unique(country_violation))
-
-

@@ -16,38 +16,9 @@ from legal_doc_processing.press_release.defendant.clean import (
 def predict_defendant(data: dict) -> list:
     """ """
 
-    juridiction = data.juridiction
-    auth_list = data.feature_dict["extracted_authorities"].lower().split(";;")
-    sent_list = data.content_sents
-    defendant_cand = []
-    for sent in sent_list:
-        quest = [["Who is the defendant?", 'find']]
-        ans = ask_all(sent,quest, sent=sent)
-
-        defendant_cand.append(ans[0]["answer"])
-
-        
-
-    return defendant_cand
-
-
-def clean_defendant(defendant_cand: list):
-    cleaned_answer=[]
-
-    cnt = Counter(defendant_cand)
-    valid=[k for k, v in cnt.items() if v > 1]
-    cleaned_answer.append(valid)
-
-    return cleaned_answer
+    return [("-- DUMMY --", 1)]
 
     
-
-
-
-
-
-
-
 # def predict_defendant(obj: dict, threshold: float = 0.4, n_sents: int = 3) -> list:
 #     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 

@@ -1,6 +1,5 @@
 import pytest
-from legal_doc_processing.press_release.press_release import  press_release_df
-
+from legal_doc_processing.press_release.press_release import press_release_df
 
 
 

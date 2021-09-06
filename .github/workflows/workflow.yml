@@ -2,7 +2,7 @@ name: Python package
 
 on:
   push:
-    branches: [ deploy_package ]
+    branches: [ deploy_package,fix_ci_tests ]
   pull_request:
     branches: [ master ]
 

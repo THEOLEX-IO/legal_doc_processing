@@ -26,9 +26,9 @@ def predict_monetary_sanction(
 
     # cost in h1
     if len(money_h1_clean) == 1:
-        return [(int(money_h1_clean[0]), 1)]
+        return [(str(money_h1_clean[0]), 1)]
     if len(money_h1_clean) > 1:
-        return [(int(-2), 1)]
+        return [(str(-2), 1)]
 
     # get_label abstract,predict
     money_abstract = _u(data.cost_abstract)

@@ -13,12 +13,13 @@ class TestingClass(unittest.TestCase):
         """
 
         df=press_release_df(
+            "cftc",
             
             sample=0.25,
         )
 
         df["monetary_sanction"]= df.pr.apply(lambda i: i.predict('monetary_sanction'))
-        df['monetary_sanction'].apply(lambda i: type(i[0] is str))
+        df['monetary_sanction'].apply(lambda i: type(i[0]) is str)
 
 
 unittest.main()

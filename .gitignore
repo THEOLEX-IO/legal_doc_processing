@@ -50,7 +50,7 @@ htmlcov
 # vscode
 .vscode
 
-# env 
+# env
 env
 env/*
 
@@ -67,3 +67,4 @@ env/*
 # test
 htmlcov
 .pytest_cache
+.pre-commit-config.yaml

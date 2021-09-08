@@ -15,10 +15,10 @@ def test_predict_date():
         nlpipe=nlpipe,
         nlspa=nlpsa,
         
-        sample=0.25,
+        sample=0.1,
     )
     pr = df.pr.iloc[0]
     pr.predict("extracted_authorities")
     data = pr.data
 
-    assert int(predict_decision_date(data)[0][0].split("-")[0]) in range(1900,2020)
+    assert int(predict_decision_date(data)[0][0].split("-")[0]) in range(1900,2020) or predict_decision_date(data)[0][0].split("-")[0]==""

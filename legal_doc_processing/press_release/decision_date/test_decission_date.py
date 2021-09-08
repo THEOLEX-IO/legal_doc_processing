@@ -1,3 +1,4 @@
+from datetime import datetime
 from legal_doc_processing.press_release.decision_date.predict import predict_decision_date
 from legal_doc_processing.utils import get_label_, get_pipeline, get_spacy
 from legal_doc_processing.press_release.press_release import press_release_df
@@ -23,6 +24,6 @@ def test_predict_date():
     pr = df.pr.iloc[0]
     pr.predict("extracted_authorities")
     data = pr.data
+    print("here",predict_decision_date(data))
 
-
-    print(predict_decision_date(data))
+    assert int(predict_decision_date(data)[0][0].split("-")[0]) in range(1900,2020)

@@ -5,9 +5,6 @@ from legal_doc_processing.press_release.press_release import press_release_df
 import pytest
 
 
-
-
-
 def test_predict_date():
 
     nlpsa, nlpipe = get_spacy(), get_pipeline()
@@ -18,12 +15,10 @@ def test_predict_date():
         nlpipe=nlpipe,
         nlspa=nlpsa,
         
-        sample=0.1,
+        sample=0.25,
     )
-
     pr = df.pr.iloc[0]
     pr.predict("extracted_authorities")
     data = pr.data
-    print("here",predict_decision_date(data))
 
     assert int(predict_decision_date(data)[0][0].split("-")[0]) in range(1900,2020)

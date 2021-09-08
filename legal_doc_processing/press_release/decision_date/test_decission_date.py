@@ -1,27 +1,28 @@
 from legal_doc_processing.press_release.decision_date.predict import predict_decision_date
-
-
-from geopy.geocoders import Nominatim
-
+from legal_doc_processing.utils import get_label_, get_pipeline, get_spacy
 from legal_doc_processing.press_release.press_release import press_release_df
-from legal_doc_processing.utils import get_label_, get_spa_pipe
+import pytest
 
 
 
 
-# spa and pipe
-nlpsa, nlpipe = get_spa_pipe()
 
-# make df
-df = press_release_df(
-    "doj",
-    nlpipe=nlpipe,
-    nlspa=nlpsa,
-    sample=0.25,
-)
+def test_predict_date():
 
-pr = df.pr.iloc[10]
-pr.predict("extracted_authorities")
-data = pr.data
+    nlpsa, nlpipe = get_spacy(), get_pipeline()
 
-predict_decision_date(data)
+    # make df
+    df = press_release_df(
+        
+        nlpipe=nlpipe,
+        nlspa=nlpsa,
+        
+        sample=0.1,
+    )
+
+    pr = df.pr.iloc[0]
+    pr.predict("extracted_authorities")
+    data = pr.data
+
+
+    print(predict_decision_date(data))

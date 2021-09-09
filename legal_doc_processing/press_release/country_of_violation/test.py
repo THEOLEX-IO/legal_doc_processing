@@ -32,7 +32,7 @@ from legal_doc_processing.press_release.country_of_violation.countries_list impo
     countries_list,
 )
 
-from legal_doc_processing.utils import get_label_, get_spa_pipe
+from legal_doc_processing.utils import get_label_, get_spacy, get_pipeline
 from legal_doc_processing.utils import ask_all
 
 from legal_doc_processing.press_release.press_release import press_release_df
@@ -47,7 +47,7 @@ from legal_doc_processing.press_release.country_of_violation.predict import (
 from geopy.geocoders import Nominatim
 
 # spa and pipe
-nlpsa, nlpipe = get_spa_pipe()
+nlpsa, nlpipe = get_spacy(),get_pipeline()
 
 # make df
 df = press_release_df(
@@ -78,12 +78,15 @@ for cv in ans_list:
 
 
 from country_list import countries_for_language
-# countries_for_language returns a list of tuples now, might be changed to an OrderedDict
-_countries = dict(countries_for_language('en'))
+try:
+    # countries_for_language returns a list of tuples now, might be changed to an OrderedDict
+    _countries = dict(countries_for_language('en'))
 
-list_countries=list(_countries.values())
+    list_countries=list(_countries.values())
 
 
-country_violation=clean_answer(countries)
-#tester sur un dizaine de cas
-#filtrer et ajouter une fonction de clearning
+    country_violation=clean_answer(countries)
+    #tester sur un dizaine de cas
+    #filtrer et ajouter une fonction de clearning
+except Exception as e:
+    print(e)

@@ -22,7 +22,7 @@ class TestingClass(unittest.TestCase):
         df['monetary_sanction'].apply(lambda i: type(i[0]) is str)
 
 
-unittest.main()
+# unittest.main()
 
 
 

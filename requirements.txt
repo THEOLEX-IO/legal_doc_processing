@@ -30,5 +30,5 @@ google-cloud-storage
 
 
 # country localization
-geopy
-country_list
+geopy==2.2.0
+country_list==1.0.0

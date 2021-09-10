@@ -1,4 +1,6 @@
 from time import time
+
+from numpy.lib.utils import source
 from legal_doc_processing import logger
 
 
@@ -18,7 +20,7 @@ def test_init(max_init_time=3.0, max_pred_time=11.0):
 
     nlpipe = get_pipeline()
     nlspa = get_spacy()
-    nlspa.add_pipe("sentencizer")
+    # nlspa.add_pipe("sentencizer")
 
     # dataframe
     from legal_doc_processing.legal_doc.utils import legal_doc_X_y
@@ -29,7 +31,7 @@ def test_init(max_init_time=3.0, max_pred_time=11.0):
     from legal_doc_processing.legal_doc.legal_doc import LegalDoc
 
     t = time()
-    make_ld = lambda i: LegalDoc(i, nlpipe=nlpipe, nlspa=nlspa)
+    make_ld = lambda i: LegalDoc(i,source=["cftc", "doj", "sec", "cfbp", "cfpb"], nlpipe=nlpipe, nlspa=nlspa)
     df["ld"] = df.legal_doc_text.apply(make_ld)
     tt, ttt = round(time() - t, 2), round((time() - t) / len(df), 2)
     print(f"time: {tt}s, avg obj init: {ttt}s (max_init_time: {max_init_time})s")

@@ -74,10 +74,10 @@ class Base:
             )
 
         elif obj_name == "LegalDoc":
-            struct_text = structure_legal_doc(text, juridiction=juridiction, nlspa=nlspa)
+            self.struct_text = structure_legal_doc(text, juridiction=juridiction, nlspa=nlspa)
 
         elif obj_name == "Decision":
-            struct_text = {}
+            self.struct_text = {}
 
         ######################
 

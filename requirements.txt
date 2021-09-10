@@ -28,7 +28,5 @@ dateparser
 # google cloud
 google-cloud-storage 
 
-
-# country localization
-geopy==2.2.0
-country_list==1.0.0
+geopy
+country_list

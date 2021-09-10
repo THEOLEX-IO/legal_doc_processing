@@ -14,7 +14,7 @@ pandas==1.2.4
 
 # NLP
 clean-text==0.4.0
-tensorflow
+tensorflow==2.5.0
 word2vec~=0.11.1
 nltk==3.6.2
 spacy==3.0.6
@@ -28,3 +28,7 @@ dateparser
 # google cloud
 google-cloud-storage 
 
+
+# country localization
+geopy==2.2.0
+country_list==1.0.0

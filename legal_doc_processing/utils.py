@@ -107,8 +107,13 @@ def strize(item_list, sep="\n", force_list=False):
     """ """
 
     # if score -1
-    non_null = [(i, j) for i, j in item_list if j > -1]
-    if not non_null:
+    # //TODO verify that with Alex and jawad 
+    try:
+        non_null = [(i, j) for i, j in item_list if j > -1]
+        if not non_null:
+            return ""
+    except Exception as e:
+        print(e)
         return ""
 
     # clean and unique

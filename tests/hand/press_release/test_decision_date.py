@@ -21,4 +21,4 @@ def test_predict_date():
     pr.predict("extracted_authorities")
     data = pr.data
 
-    assert int(predict_decision_date(data)[0][0].split("-")[0]) in range(1900,2020) or predict_decision_date(data)[0][0].split("-")[0]==""
+    assert int(predict_decision_date(data)[0][0].split("-")[0]) in range(1900,2022) or predict_decision_date(data)[0][0].split("-")[0]==""or predict_decision_date(data)==None

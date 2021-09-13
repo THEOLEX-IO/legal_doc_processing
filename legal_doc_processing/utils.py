@@ -107,9 +107,15 @@ def strize(item_list, sep="\n", force_list=False):
     """ """
 
     # if score -1
+    # //TODO verify that with Alex and jawad
+    # try:
     non_null = [(i, j) for i, j in item_list if j > -1]
     if not non_null:
         return ""
+    # except Exception as e:
+    #     import pdb;pdb.set_trace()
+    #     print(e)
+    #     return ""
 
     # clean and unique
     clean_l = [str(i).replace("\n", "").strip() for i, j in non_null]

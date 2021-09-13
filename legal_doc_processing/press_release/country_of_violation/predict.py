@@ -53,7 +53,7 @@ def predict_country_of_violation(data: dict) -> list:
 
     ans_list = sorted(ans_list, key=lambda i: i["score"], reverse=True)
     is_good = lambda answer, sent_id: any([i for i in sent_id if i in answer.strip()])
-    ans_list = [i for i in ans_list if is_good(i["answer"], i["sent_id"])]
+    ans_list = [(i["answer",i["score"]])for i in ans_list if is_good(i["answer"], i["sent_id"])]
 
     # countries_lowered = _u([i.lower().strip() for i in countries_cands])
 
@@ -75,13 +75,14 @@ def clean_answer(answer_disc):
     country_violation=[]
 
     for cv in answer_disc:
-        if cv["score"] > 0.7:
-            list_answer.append(cv["answer"])
-    for i in range(len(list_answer)):
-        country=list_answer[i].lower().split(" ")
-       # print("here country",country)
-        if "district"  not  in country:
-            cleaned_countries.append(list_answer[i])
+        if cv[1] > 0.7:
+            list_answer.append(cv)
+    if len(list_answer)!=0:
+        for i in range(len(list_answer)):
+            country=list_answer[i][0].lower().split(",")
+        # print("here country",country)
+            if "district"!=country:
+                cleaned_countries.append(list_answer[i])
 
 
     _countries = dict(countries_for_language('en'))
@@ -90,16 +91,17 @@ def clean_answer(answer_disc):
 #select all the country from the answers
     if list_countries:
         for country in cleaned_countries:
-            if country in list_countries:
+            if country[0] in list_countries:
                 country_violation.append(country)
 
         #convert the cities into country
             else:
                 geolocator = Nominatim(user_agent="geoapiExercises")
-                location=geolocator.geocode(country)
+                location=geolocator.geocode(country[0])
                 if location:
-                    country_violation.append(location.address.split(",")[-1])
+                    country_violation.append(tuple(location.address.split(",")[-1], country[1]))
 
 
-    country_violation=np.array(country_violation)
-    return list(np.unique(country_violation))
+    
+    
+    return answer_disc

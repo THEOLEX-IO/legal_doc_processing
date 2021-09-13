@@ -20,5 +20,10 @@ def test_predict_date():
     pr = df.pr.iloc[0]
     pr.predict("extracted_authorities")
     data = pr.data
+    if (predict_decision_date(data)[0][0].split("-")[0])=="" or  None:
+        assert predict_decision_date(data)[0][0].split("-")[0]=="" 
 
-    assert int(predict_decision_date(data)[0][0].split("-")[0]) in range(1900,2020) or predict_decision_date(data)[0][0].split("-")[0]==""
+    else:
+        assert int(predict_decision_date(data)[0][0].split("-")[0]) in range(1900,2022) 
+    # assert predict_decision_date(data)[0][0].split("-")[0]==""
+    # assert predict_decision_date(data)==None

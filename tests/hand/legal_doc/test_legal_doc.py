@@ -10,9 +10,6 @@ def test_init(max_init_time=3.0, max_pred_time=11.0):
     max_init_time = 3.0
     max_pred_time = 11.0
 
-    from time import time
-    from legal_doc_processing import logger
-
     logger.info("called")
 
     # load

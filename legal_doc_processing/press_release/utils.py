@@ -59,7 +59,8 @@ def product_juridic_form():
 def press_release_X_y(juridiction="", features="", sample=1.0):
     """ """
 
-    assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
+    if juridiction not in ["cftc", "cfbp", "doj", "sec", ""]:
+        raise AssertionError
 
     # main
     main_df = main_X_y()

@@ -26,7 +26,8 @@ def test_structure(sample=0.99, nlspa=""):
     """ """
 
     for juridiction in juridictions:
-        assert juridiction in ["cftc", "cfbp", "doj", "sec"]
+        if juridiction not in ["cftc", "cfbp", "doj", "sec"]:
+            raise AssertionError
 
         logger.info("called")
 

@@ -35,7 +35,8 @@ def download_text_from_bucket(SOURCE, STOP=10):
     """ """
 
     # check args
-    assert SOURCE in ["doj", "sec", "cftc", "cfbp"]
+    if SOURCE not in ["doj", "sec", "cftc", "cfbp"]:
+        raise AssertionError
 
     # filters
     filter__txt = lambda i: filter_juridiction(filter_ext(i, "txt"), SOURCE)

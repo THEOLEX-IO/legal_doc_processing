@@ -32,7 +32,7 @@ from legal_doc_processing.press_release.country_of_violation.countries_list impo
     countries_list,
 )
 
-from legal_doc_processing.utils import get_label_, get_spacy, get_pipeline
+from legal_doc_processing.utils import get_spacy, get_pipeline
 from legal_doc_processing.utils import ask_all
 
 from legal_doc_processing.press_release.press_release import press_release_df
@@ -42,9 +42,6 @@ from legal_doc_processing.press_release import country_of_violation
 from legal_doc_processing.press_release.country_of_violation.predict import (
     predict_country_of_violation, clean_answer
 )
-
-
-from geopy.geocoders import Nominatim
 
 # spa and pipe
 nlpsa, nlpipe = get_spacy(),get_pipeline()

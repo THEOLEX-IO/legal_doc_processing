@@ -17,11 +17,6 @@ from legal_doc_processing.press_release.structure.cfbp import (
 from legal_doc_processing.press_release.structure.sec import (
     structure_press_release as structure_sec,
 )
-# import pdb;pdb.set_trace()
-
-from time import time
-from legal_doc_processing import logger
-from legal_doc_processing.utils import get_spacy
 nlspa = get_spacy()
 # nlspa.add_pipe("sentencizer")
 auth_list = ["cftc", "cfbp", "doj", "sec"]
@@ -33,14 +28,10 @@ def test_structure(sample=0.99, nlspa=""):
     for juridiction in juridictions:
         assert juridiction in ["cftc", "cfbp", "doj", "sec"]
 
-        from time import time
-        from legal_doc_processing import logger
-
         logger.info("called")
 
         # load
         logger.info("load")
-        from legal_doc_processing.utils import get_spacy
 
         if not nlspa:
             nlspa = get_spacy()

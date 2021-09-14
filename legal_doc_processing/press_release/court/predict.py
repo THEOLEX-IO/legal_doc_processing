@@ -25,7 +25,7 @@ def predict_court(data: dict, threshold: float = 0.25) -> list:
         return [("", 1)]
 
     # questions
-    ans_list = list()
+    ans_list = []
     for i, sent in court_sent_list:
         quest_pairs = _u(_question_selector(_question_helper(sent)))
         ans_list.extend(ask_all(sent, quest_pairs, nlpipe=data.nlpipe))

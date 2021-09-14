@@ -24,7 +24,7 @@ def clean_ans(ans, clean_str=_clean_str_to_str, clean_list=_clean_list_to_list):
     _ = [d.update({"_id": i}) for i, d in enumerate(ans)]
     _ = [d.update({"new_answer": clean_list([d["answer"]], clean_str)}) for d in ans]
 
-    new_ans = list()
+    new_ans = []
     for i, d in enumerate(ans):
         if len(d["new_answer"]) == 0:
             # ans.pop(i)

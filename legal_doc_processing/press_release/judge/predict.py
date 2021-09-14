@@ -24,7 +24,7 @@ def predict_judge(data: dict, threshold: float = 0.75) -> list:
         return [("", 1)]
 
     # quest
-    ans_list = list()
+    ans_list = []
     for i, sent in judge_sent_list:
         key_list = _question_helper(sent)
         if key_list:

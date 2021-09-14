@@ -29,7 +29,7 @@ def predict_defendant(
     sent_list = [i.replace("\n", "") for i in sent_list if i]
 
     # quest
-    ans_list = list()
+    ans_list = []
     for sent in sent_list:
         key_list = _question_helper(sent)
         if key_list:

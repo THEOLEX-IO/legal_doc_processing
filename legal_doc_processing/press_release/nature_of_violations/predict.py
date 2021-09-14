@@ -6,7 +6,7 @@ def predict_nature_of_violations(data: dict) -> list:
 
     violations = data.feature_dict["extracted_violations"].lower()
 
-    natures = list()
+    natures = []
     if "money laundering" in violations.lower():
         natures.append("Money Laundering")
 

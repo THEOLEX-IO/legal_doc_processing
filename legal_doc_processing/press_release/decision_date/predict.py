@@ -23,7 +23,7 @@ def predict_decision_date(data: dict) -> list:
     date_sent_list = [(i, j) for i, j in enumerate(sent_list) if date_ok(j)]
 
     # find date ents
-    date_list = list()
+    date_list = []
     for _, sent in date_sent_list:
         date_list.extend(get_label_(sent, "DATE", nlspa=data.nlspa))
 

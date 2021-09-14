@@ -18,7 +18,7 @@ def _question_helper(txt: str) -> list:
     """txt"""
 
     _txt = txt.lower()
-    res = list()
+    res = []
 
     res = [k for k in _key_list if k in _txt]
 
@@ -28,7 +28,7 @@ def _question_helper(txt: str) -> list:
 def _question_selector(key: str) -> list:
     """based on a key from _question helper find the list of good question to ask """
 
-    qs = list()
+    qs = []
 
     if "cease" in key:
         qs.extend(

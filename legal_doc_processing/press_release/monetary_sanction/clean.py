@@ -52,7 +52,7 @@ def _cast_as_int(cleaned_ans):
     ]
     # logger.info(f"cleaned_ans: {cleaned_ans} ")
 
-    cleaned_ans_multi = list()
+    cleaned_ans_multi = []
     for ans in cleaned_ans:
         multi = ""
         for k, _ in MULTI:
@@ -64,7 +64,7 @@ def _cast_as_int(cleaned_ans):
 
     # logger.info(f"cleaned_ans_multi: {cleaned_ans_multi} ")
 
-    cleaned_ans_multi_2 = list()
+    cleaned_ans_multi_2 = []
     for numb, multi in cleaned_ans_multi:
         if not multi:
             # dump centimies

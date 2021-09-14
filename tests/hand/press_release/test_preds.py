@@ -17,10 +17,6 @@ def test_preds_by(
 ):
     """ """
 
-    import random
-
-    from legal_doc_processing import logger
-
     logger.info("called")
 
     juridiction = ""
@@ -31,23 +27,14 @@ def test_preds_by(
 
     assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
 
-    # load
-    from legal_doc_processing.utils import get_pipeline, get_spacy
-
     if not nlpipe:
         nlpipe = get_pipeline()
     if not nlspa:
         nlspa = get_spacy()
 
-    # dataframe
-    from legal_doc_processing.press_release.press_release import press_release_df
-
     df = press_release_df(
         juridiction=juridiction, sample=sample, nlspa=nlspa, nlpipe=nlpipe
     )
-
-    # preds
-    from time import time
 
     t = time()
     df["preds"] = df.pr.apply(lambda i: i.predict_all())
@@ -71,10 +58,6 @@ def test_preds_by(
 
 
 if __name__ == "__main__":
-
-    from time import time
-    from legal_doc_processing import logger
-    from legal_doc_processing.utils import get_pipeline, get_spacy
 
     nlpipe = get_pipeline()
     nlspa = get_spacy()

@@ -137,7 +137,7 @@ def predict_defendant(obj: dict, threshold=0.2, n_sents: int = 5) -> list:
     # clean ans
     cleaned_ans = clean_ans(ans)
     answer_label = "new_answer"
-    if not len(cleaned_ans):
+    if not cleaned_ans:
         cleaned_ans = [{answer_label: "--None--", "score": -1}]
 
     # merge ans

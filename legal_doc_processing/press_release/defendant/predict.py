@@ -42,7 +42,7 @@ def predict_defendant(
     # clean ans
     cleaned_ans = clean_ans(ans_list)
     answer_label = "new_answer"
-    if not len(cleaned_ans):
+    if not cleaned_ans:
         return [("", 1)]
 
     # merge ans

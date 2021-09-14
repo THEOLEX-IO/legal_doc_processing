@@ -12,7 +12,7 @@ def predict_compliance_obligations(data: dict) -> list:
     compl_sent_list = [j for j in sent_list if filter_compliant(j)]
 
     # if no sents :
-    if not len(compl_sent_list):
+    if not compl_sent_list:
         return [("", 1)]
 
     # clean

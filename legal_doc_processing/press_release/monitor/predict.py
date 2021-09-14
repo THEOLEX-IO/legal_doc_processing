@@ -10,7 +10,7 @@ def predict_monitor(data: dict) -> list:
     monitor_sent_list = [(i, j) for i, j in enumerate(sent_list) if monitor_ok(j)]
 
     # if no sents :
-    if not len(monitor_sent_list):
+    if not monitor_sent_list:
         return [(0, 1)]
 
     for _, sent in monitor_sent_list:

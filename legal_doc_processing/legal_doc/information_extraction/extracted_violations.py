@@ -84,7 +84,7 @@ def predict_extracted_violations(obj: dict, threshold=0.2, n_sents: int = 12):
     # clean ans
     cleaned_ans = ans
     answer_label = "answer"
-    if not len(cleaned_ans):
+    if not cleaned_ans:
         cleaned_ans = [{answer_label: "--None--", "score": -1}]
 
     # merge ans

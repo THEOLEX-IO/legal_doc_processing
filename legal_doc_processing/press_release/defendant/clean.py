@@ -14,7 +14,7 @@ def _clean_LLC_trailling_dot_comma(txt: str) -> str:
         txt = txt.replace(j, "")
 
     # trailling . or,
-    if len(txt):
+    if txt:
         txt = txt[:-1] if txt[-1] in [",", "."] else txt
         txt = txt[:-1] if txt[-1] in [",", "."] else txt
 

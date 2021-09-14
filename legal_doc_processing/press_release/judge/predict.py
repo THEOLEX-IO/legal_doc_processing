@@ -35,7 +35,7 @@ def predict_judge(data: dict, threshold: float = 0.75) -> list:
 
     # logger.info(f"ans_list : {ans_list}")
 
-    if not len(ans_list):
+    if not ans_list:
         return [("", 1)]
 
     # clean ans

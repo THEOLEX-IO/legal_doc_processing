@@ -18,7 +18,7 @@ def predict_cooperation_credit(
     coop_sent_list = [i for i in sent_list if filter_coop(i)]
 
     # if no sents :
-    if not len(coop_sent_list):
+    if not coop_sent_list:
         return [("", 1)]
 
     # clean

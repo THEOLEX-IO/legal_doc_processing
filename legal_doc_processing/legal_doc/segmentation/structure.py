@@ -39,7 +39,7 @@ def get_header(section):
     if len(section) == 0:
         print("This file is empty")
         return 0
-    elif len(section) > 2:
+    if len(section) > 2:
         sec0 = "".join(section[0]["content"])
         sec1 = "".join(section[1]["content"])
         entete = [sec0]

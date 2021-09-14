@@ -52,7 +52,7 @@ def predict_country_of_violation(data: dict) -> list:
         ans_list.extend(ans)
 
     ans_list = sorted(ans_list, key=lambda i: i["score"], reverse=True)
-    is_good = lambda answer, sent_id: any([i for i in sent_id if i in answer.strip()])
+    is_good = lambda answer, sent_id: any(i for i in sent_id if i in answer.strip())
     ans_list = [(i["answer",i["score"]])for i in ans_list if is_good(i["answer"], i["sent_id"])]
 
     # countries_lowered = _u([i.lower().strip() for i in countries_cands])

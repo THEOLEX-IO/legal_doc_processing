@@ -213,7 +213,7 @@ def _transfert_title_from_head_to_page(header: str, page: str) -> tuple:
 
     last_title = False
 
-    one_of_in = lambda i: any([char in i for char in list("1il.,")])
+    one_of_in = lambda i: any(char in i for char in list("1il.,"))
     if len(header[-1]) <= 3 and one_of_in(header[-1].lower()):
         last_title = True
 

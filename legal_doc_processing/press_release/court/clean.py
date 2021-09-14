@@ -18,7 +18,7 @@ def final_clean(txt: str) -> str:
     # mandatories
     mand_list = ["court", "district", "federal", "tribunal", "us", "u.s", "united states"]
     _txt = txt.lower()
-    if not any([(i in _txt) for i in mand_list]):
+    if not any((i in _txt) for i in mand_list):
         return ""
 
     # \n

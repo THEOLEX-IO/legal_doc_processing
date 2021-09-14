@@ -36,7 +36,8 @@ class TestCastAsInt(unittest.TestCase):
             preds = _cast_as_int(X)
             ans = list(zip(preds, y))
             accuracy = sum([i == j for i, j in ans]) / len(ans)
-            assert accuracy > 0.90
+            if accuracy <= 0.90:
+                raise AssertionError
 
             return list(zip(X, y, preds))
 

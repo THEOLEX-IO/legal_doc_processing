@@ -21,7 +21,10 @@ def test_predict_date():
     pr.predict("extracted_authorities")
     data = pr.data
     if (predict_decision_date(data)[0][0].split("-")[0])=="" or  None:
-        assert predict_decision_date(data)[0][0].split("-")[0]=="" 
+        if predict_decision_date(data)[0][0].split("-")[0] != "":
+            raise AssertionError
 
     else:
-        assert int(predict_decision_date(data)[0][0].split("-")[0]) in range(1900,2022) 
+        if int(predict_decision_date(data)[0][0].split("-")[0]) not in range(1900,2022):
+            raise AssertionError
+

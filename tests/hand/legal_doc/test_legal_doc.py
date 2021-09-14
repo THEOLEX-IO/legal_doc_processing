@@ -32,14 +32,16 @@ def test_init(max_init_time=3.0, max_pred_time=11.0):
     df["ld"] = df.legal_doc_text.apply(make_ld)
     tt, ttt = round(time() - t, 2), round((time() - t) / len(df), 2)
     print(f"time: {tt}s, avg obj init: {ttt}s (max_init_time: {max_init_time})s")
-    assert ttt < max_init_time
+    if ttt >= max_init_time:
+        raise AssertionError
 
     # preds
     t = time()
     df["preds"] = df.ld.apply(lambda i: i.predict_all())
     tt, ttt = round(time() - t, 2), round((time() - t) / len(df), 2)
     print(f"time: {tt}s, average pred: {ttt}s (max_pred_time: {max_pred_time})s")
-    assert ttt < max_pred_time
+    if ttt >= max_pred_time:
+        raise AssertionError
 
     # labels vs "preds"
     preds_labels = list(df.preds.iloc[0].keys())

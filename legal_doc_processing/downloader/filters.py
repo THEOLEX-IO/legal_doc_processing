@@ -47,7 +47,7 @@ def get_document_link(doc_list):
 
 
 def select_best_file(l: list) -> str:
-    if not len(l):
+    if not l:
         return ""
     if len(l) == 1:
         return l[0]

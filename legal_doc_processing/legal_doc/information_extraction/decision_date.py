@@ -111,7 +111,7 @@ def predict_decision_date(obj: dict, threshold=0.2, n_sents: int = 6) -> list:
     # for each answer we will clean this answer and create a new_answer more accurate
     cleaned_ans = clean_ans(ans)
     answer_label = "new_answer"
-    if not len(cleaned_ans):
+    if not cleaned_ans:
         cleaned_ans = [{answer_label: "--None--", "score": -1}]
 
     # merge ans

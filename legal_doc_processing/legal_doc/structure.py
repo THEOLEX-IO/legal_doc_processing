@@ -180,7 +180,7 @@ def _detect_true_text_id(first_page: str, line_length_txt=60, n_lines=4) -> int:
     # if not all then True
     cands_5th = [(i, j, k) for i, j, k in cands_3rd if j >= n_lines]
 
-    if not len(cands_5th):
+    if not cands_5th:
         return -1
     else:
         return cands_5th[0][0]

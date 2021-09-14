@@ -49,7 +49,7 @@ def split_intro_article_2(txt: str, n=30) -> str:
 
     # find v.
     cand_list = ["SEC v.", "Commission v."]
-    cond_ok = lambda i: any([cand.lower() in i.lower() for cand in cand_list])
+    cond_ok = lambda i: any(cand.lower() in i.lower() for cand in cand_list)
     idx_v_cands = [i for i, j in enumerate(txt_lines_30) if cond_ok(j)]
     # logger.info(idx_v_cands)
 
@@ -129,7 +129,7 @@ def extract_h1_2(intro: str) -> tuple:
 
     # find v.
     cand_list = ["SEC v.", "Commission v."]
-    cond_ok = lambda i: any([cand.lower() in i.lower() for cand in cand_list])
+    cond_ok = lambda i: any(cand.lower() in i.lower() for cand in cand_list)
     idx_v_cands = [i for i, j in enumerate(intro_lines) if cond_ok(j)]
     # logger.info(idx_v_cands)
 

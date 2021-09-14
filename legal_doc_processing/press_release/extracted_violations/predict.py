@@ -43,7 +43,7 @@ def predict_extracted_violations(
         "suit",
         "allege",
     ]
-    filter_sents = lambda sent: any([(key in sent.lower()) for key in keys_list])
+    filter_sents = lambda sent: any((key in sent.lower()) for key in keys_list)
     sents_ok = [(i, j) for i, j in enumerate(sent_list) if filter_sents(j)]
 
     # quest

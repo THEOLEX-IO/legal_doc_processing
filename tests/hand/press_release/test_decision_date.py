@@ -27,3 +27,4 @@ def test_predict_date():
     else:
         if int(predict_decision_date(data)[0][0].split("-")[0]) not in range(1900,2022):
             raise AssertionError
+

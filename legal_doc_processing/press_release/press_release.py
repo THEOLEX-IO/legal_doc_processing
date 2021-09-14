@@ -39,7 +39,8 @@ def press_release_df(
 ):
     """ """
 
-    assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
+    if juridiction not in ["cftc", "cfbp", "doj", "sec", ""]:
+        raise AssertionError
 
     max_init_time = 3.0
 

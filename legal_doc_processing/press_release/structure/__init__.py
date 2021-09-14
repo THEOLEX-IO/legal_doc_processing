@@ -70,7 +70,8 @@ def structure_press_release(txt, juridiction="", nlspa=None):
         extract = [auth for cand in auth_cands if cand.lower() in txt.lower()]
         final_cands.extend(extract)
 
-    assert len(final_cands) > 0
+    if len(final_cands) <= 0:
+        raise AssertionError
     auth = final_cands[0]
 
     # return funct

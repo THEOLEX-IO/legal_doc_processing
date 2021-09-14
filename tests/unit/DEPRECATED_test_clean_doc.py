@@ -10,7 +10,8 @@ class TestCleanDoc(unittest.TestCase):
         self.assertEqual(MyHelper.days_ago(date.today()), 0)
 
     def test_other_helper(self):
-        assert tests_helper.list_has(3, [1, 2, 3])
+        if not tests_helper.list_has(3, [1, 2, 3]):
+            raise AssertionError
 
     @pytest.mark.xfail
     def test_should_fail(self):

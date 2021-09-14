@@ -25,7 +25,8 @@ def test_preds_by(
     sample = 0.1
     max_pred_time = 11.0
 
-    assert juridiction in ["cftc", "cfbp", "doj", "sec", ""]
+    if juridiction not in ["cftc", "cfbp", "doj", "sec", ""]:
+        raise AssertionError
 
     if not nlpipe:
         nlpipe = get_pipeline()
@@ -42,7 +43,8 @@ def test_preds_by(
     print(
         f"time: {tt}s, n objs : {len(df)}, average pred: {ttt}s (max_pred_time: {max_pred_time})s"
     )
-    assert ttt < max_pred_time
+    if ttt >= max_pred_time:
+        raise AssertionError
 
     # labels vs "preds"
     preds_labels = list(df.preds.iloc[0].keys())

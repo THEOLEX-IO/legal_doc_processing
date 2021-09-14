@@ -27,7 +27,8 @@ class Test_clean_LLC_trailling_dot_comma(unittest.TestCase):
         res = list(zip(X, y, preds))
         eqs = [(i == j) for i, j in zip(y, preds)]
         acc = sum(eqs) / len(eqs)
-        assert acc > 0.9
+        if acc <= 0.9:
+            raise AssertionError
 
 
 class Test_clean_and(unittest.TestCase):
@@ -46,7 +47,8 @@ class Test_clean_and(unittest.TestCase):
         res = list(zip(X, y, preds))
         eqs = [(i == j) for i, j in zip(y, preds)]
         acc = sum(eqs) / len(eqs)
-        assert acc > 0.9
+        if acc <= 0.9:
+            raise AssertionError
 
 
 class Test_clean_and(unittest.TestCase):
@@ -65,7 +67,8 @@ class Test_clean_and(unittest.TestCase):
         res = list(zip(X, y, preds))
         eqs = [(i == j) for i, j in zip(y, preds)]
         acc = sum(eqs) / len(eqs)
-        assert acc > 0.9
+        if acc <= 0.9:
+            raise AssertionError
 
 
 class Test_clean_resident(unittest.TestCase):
@@ -87,7 +90,8 @@ class Test_clean_resident(unittest.TestCase):
         res = list(zip(X, y, preds))
         eqs = [(i == j) for i, j in zip(y, preds)]
         acc = sum(eqs) / len(eqs)
-        assert acc > 0.9
+        if acc <= 0.9:
+            raise AssertionError
 
 
 class Test_clean_defendants(unittest.TestCase):
@@ -108,7 +112,8 @@ class Test_clean_defendants(unittest.TestCase):
         res = list(zip(X, y, preds))
         eqs = [(i == j) for i, j in zip(y, preds)]
         acc = sum(eqs) / len(eqs)
-        assert acc > 0.9
+        if acc <= 0.9:
+            raise AssertionError
 
 
 class Test_you_shall_not_pass(unittest.TestCase):
@@ -152,4 +157,5 @@ class Test_you_shall_not_pass(unittest.TestCase):
         res = list(zip(X, y, preds))
         eqs = [(i == j) for i, j in zip(y, preds)]
         acc = sum(eqs) / len(eqs)
-        assert acc > 0.9
+        if acc <= 0.9:
+            raise AssertionError

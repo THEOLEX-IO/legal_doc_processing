@@ -162,7 +162,8 @@ def get_label_(txt: str, label: str, nlspa=None) -> list:
     nlspa = _if_not_spacy(nlspa)
 
     label = label.upper().strip()
-    assert label in ["PERSON", "ORG", "MONEY", "DATE", "GPE"]
+    if label not in ["PERSON", "ORG", "MONEY", "DATE", "GPE"]:
+        raise AssertionError
 
     ans = [i for i in nlspa(txt).ents if i.label_ == label]
     ans = [str(p) for p in ans]

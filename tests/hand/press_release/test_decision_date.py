@@ -25,4 +25,3 @@ def test_predict_date():
 
     else:
         assert int(predict_decision_date(data)[0][0].split("-")[0]) in range(1900,2022) 
-

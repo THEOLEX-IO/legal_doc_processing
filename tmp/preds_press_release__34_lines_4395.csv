@@ -1,0 +1,288 @@
+folder,press_release_link,press_release_link_new,juridiction,country_of_violation,currency,decision_date,defendant,extracted_authorities,judge,justice_type,monetary_sanction,monitor,reference,type,pred_cooperation_credit,pred_court,pred_currency,pred_decision_date,pred_extracted_sanctions,pred_extracted_violations,pred_folder,pred_judge,pred_monitor,pred_nature_de_sanction,pred_nature_of_violations,pred_reference,pred_extracted_authorities,pred_type,pred_justice_type,pred_defendant,pred_country_of_violation,pred_penalty_details,pred_monetary_sanction,pred_compliance_obligations
+rafael-e-pinto-franceschi,doj/text/rafael-e-pinto-franceschi/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/doj/text/rafael-e-pinto-franceschi/press-release.txt,doj,,USD,,,,,,,,,,,,USD,2021-09-07,,,-- DUMMY --,,0,,,-- DUMMY --,DOJ,,U.S. - Penal,,,,,
+2018-188,sec/text/2018-188/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/sec/text/2018-188/press-release.txt,sec,,USD,,,,,,,,,,,,USD,2018-09-12,"unlawful payments to Azerbaijani officials to facilitate the sales of elevator equipment
+$13.9 million
+United Technologies improperly provided trips and gifts","unlawful payments to Azerbaijani officials to facilitate the sales of elevator equipment for public housing
+the anti-bribery
+Foreign Corrupt Practices Act (FCPA)
+anti-bribery, books and records
+the Foreign Corrupt Practices Act (FCPA)
+Violating FCPA.
+United Technologies Charged With Violating FCPA
+Foreign Corrupt Practices Act
+Violating FCPA
+anti-bribery
+the Foreign Corrupt Practices Act",-- DUMMY --,,0,"unlawful payments to Azerbaijani officials to facilitate the sales of elevator equipment
+$13.9 million
+United Technologies improperly provided trips and gifts",FCPA,-- DUMMY --,SEC,Order,-- DUMMY --,"United Technologies Charged With Violating FCPA
+United Technologies",,,13900000,
+2010-115,sec/text/2010-115/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/sec/text/2010-115/press-release.txt,sec,,USD,2010-06-29,California Telecommunications ,UNITED STATES DISTRICT COURT NORTHERN DISTRICT OF CALIFORNIA,-1,-1,-1.0,-1,-1,-1,,U.S. District Court,USD,2010-06-29,"improper payments
+$40,000","California Telecommunications Company With FCPA Violations
+California Telecommunications Company
+improper payments made by Veraz to foreign officials
+improper payments
+improper payments made by Veraz to foreign officials in China and Vietnam
+books and records and internal controls provisions
+The SEC alleges that Veraz engaged a consultant in China
+books and records and internal controls
+FCPA Violations
+the books and records and internal controls provisions",-- DUMMY --,,0,"improper payments
+$40,000",,-- DUMMY --,"U.S. District Court
+SEC",,-- DUMMY --,Veraz,,,40000,
+1370540596936,sec/text/1370540596936/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/sec/text/1370540596936/press-release.txt,sec,United States of America,USD,2014-01-09,Alcoa ,UNITED STATES OF AMERICA Before the SECURITIES AND EXCHANGE COMMISSION,-1,-1,384000000.0,-1,3-15673,order,,,USD,2014-01-09,"$384 million
+illicit payments","Alcoa With FCPA Violations
+FCPA Violations
+Alcoa",-- DUMMY --,,0,"$384 million
+illicit payments",,-- DUMMY --,"SEC
+DOJ",,-- DUMMY --,Alcoa,,,384000000,
+2012-133,sec/text/2012-133/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/sec/text/2012-133/press-release.txt,sec,,USD,,,,,,,,,,,U.S. District Court,USD,2012-07-10,$5.2 million,"to obtain lucrative sales contracts with government hospitals.
+to obtain lucrative sales contracts with government hospitals
+Orthofix International With FCPA Violations
+violating the Foreign Corrupt Practices Act (FCPA)
+SEC Charges Orthofix International With FCPA Violations
+settle the SEC's charges
+FCPA Violations
+violating the Foreign Corrupt Practices Act",-- DUMMY --,,1,$5.2 million,FCPA,-- DUMMY --,"U.S. District Court
+SEC",Order,-- DUMMY --,,,,5200000,"Orthofix also agreed to certain undertakings, including monitoring its FCPA compliance program and reporting back to the SEC for a two-year period."
+7456-16,cftc/text/7456-16/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/cftc/text/7456-16/press-release.txt,cftc,United States of America,USD,,,,,,,,,,,,USD,2021-01-10,"$750,000 civil monetary penalty
+sg americas securities
+participation in wash transactions and related supervision failures",participation in wash transactions and related supervision failures,-- DUMMY --,,0,"sg americas securities
+participation in wash transactions and related supervision failures",,-- DUMMY --,CFTC,Order,U.S. - Civil,,United States,"$750,000 civil monetary penalty",750000,
+34-79005-s,sec/text/34-79005-s/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/sec/text/34-79005-s/press-release.txt,sec,,USD,,,,,,,,,,,,USD,1900-01-01,,,-- DUMMY --,,0,,,-- DUMMY --,SEC,,-- DUMMY --,,,,,
+pr7678-18,cftc/text/pr7678-18/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/cftc/text/pr7678-18/press-release.txt,cftc,United States of America,USD,,"Randall Crater,Mark Gillespie,My Big Coin Pay",,,,,,,,,,USD,1900-01-01,"my big coin
+freezing defendants' and relief defendants' assets","freezing defendants' and relief defendants' assets
+freezing defendants' and relief defendants' assets. and protecting books and records
+fraud and. misappropriation in ongoing virtual currency scam
+fraud
+fraud and. misappropriation in ongoing virtual currency scam.",-- DUMMY --,,0,"my big coin
+freezing defendants' and relief defendants' assets",,-- DUMMY --,CFTC,Order,U.S. - Civil,,United States,,6000000,
+adrian-jose-velasquez-figueroa,doj/text/adrian-jose-velasquez-figueroa/press-release-indictment.txt,https://storage.googleapis.com/theolex_documents_processing/doj/text/adrian-jose-velasquez-figueroa/press-release-indictment.txt,doj,United States of America,USD,2020-12-16,"RAUL GORRIN BELISARIO,CLAUDIA PATRICIA DIAZ GUILLEN,ADRIAN JOSE VELASQUEZ FIGUEROA,",UNITED STATES DISTRICT COURT,Jared Strauss,-1,-1.0,-1,9:18-cr-80260-WPD,-1,,,USD,2021-09-08,,,-- DUMMY --,,0,,,-- DUMMY --,DOJ,,U.S. - Penal,,,,,
+samsung-heavy-industries,doj/text/samsung-heavy-industries/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/doj/text/samsung-heavy-industries/press-release.txt,doj,,USD,,,,,,,,,,,,USD,2021-09-10,,,-- DUMMY --,,0,,,-- DUMMY --,DOJ,,U.S. - Penal,,,,,
+najib-allam,doj/text/najib-allam/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/doj/text/najib-allam/press-release.txt,doj,,USD,,,,,,,,,,,,USD,2021-09-09,,,-- DUMMY --,,0,,,-- DUMMY --,DOJ,,U.S. - Penal,,,,,
+2011-42,sec/text/2011-42/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/sec/text/2011-42/press-release.txt,sec,,USD,,Tyson Foods,,,,,,,,The SEC acknowledges the cooperation of Tyson Foods in the investigation.,Federal Court In The District Of Columbia,USD,2011-02-10,,"detect or prevent the misconduct
+no-show jobs and phony invoices
+Foreign Corrupt Practices Act (FCPA)
+Tyson Foods with FCPA Violations
+Tyson de Mexico initially concealed the improper payments
+The wives were later removed from the payroll
+FCPA Violations
+Foreign Corrupt Practices Act
+the Foreign Corrupt Practices Act
+violating the Foreign Corrupt Practices Act",-- DUMMY --,,0,,FCPA,-- DUMMY --,"Federal Court In The District Of Columbia
+SEC
+DOJ",Complaint,-- DUMMY --,,,,,
+master-halbert,doj/text/master-halbert/press-release-sentencing.txt,https://storage.googleapis.com/theolex_documents_processing/doj/text/master-halbert/press-release-sentencing.txt,doj,,USD,,,,,,,,,,,,USD,2021-09-07,,,-- DUMMY --,,0,,,-- DUMMY --,DOJ,,U.S. - Penal,,,,,
+smart-payment-plan-llc,cfbp/text/smart-payment-plan-llc/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/cfbp/text/smart-payment-plan-llc/press-release.txt,cfbp,,USD,,,,,,,,,,,,USD,2020-11-02,"$7,500,000
+smart payment plan
+consumers' bank accounts
+prevent future violations
+loan payment program for auto loans
+a judgment
+a judgment against smart","prohibition against deceptive acts or practices
+consumer redress and requirements to prevent future violations
+inability to pay more based on sworn financial statements
+prevent future violations
+smart
+the consent order imposes a judgment against smart
+deceptive sales practices",-- DUMMY --,,0,"$7,500,000
+smart payment plan
+consumers' bank accounts
+prevent future violations
+loan payment program for auto loans
+a judgment
+a judgment against smart",,-- DUMMY --,CFBP,Consent Order,-- DUMMY --,,United States,,7500000,
+lr21229,sec/text/lr21229/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/sec/text/lr21229/press-release.txt,sec,,USD,,AGCO,,,,,,,,The Commission considered remedial acts promptly undertaken by AGCO and the cooperation the company afforded the Commission staff in its investigation.,District Court For The District Of Columbia,USD,1900-01-01,"purchase humanitarian goods
+$5.9 million
+humanitarian goods","Improper Payments to Iraq
+Foreign Corrupt Practices Act books and records and internal controls charges
+Improper Payments
+Foreign Corrupt Practices Act books and records and internal controls
+For Improper Payments to Iraq
+internal controls
+certain AGCO subsidiaries made approximately $5.9 million in kickback payments",-- DUMMY --,,0,"purchase humanitarian goods
+$5.9 million
+humanitarian goods",FCPA,-- DUMMY --,"District Court For The District Of Columbia
+SEC
+DOJ",Complaint,-- DUMMY --,,,,18,
+2006-174,sec/text/2006-174/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/sec/text/2006-174/press-release.txt,sec,,USD,,,,,,,,,,Statoil cooperated with the Commission's investigation and took a number of remedial steps as outlined in the Commission's Order.,,USD,2021-10-13,"disgorgement of $10.5 million
+pay disgorgement of $10.5 million
+cease and desist
+$10.5 million","maintain a level playing field and encourage fair play and competition
+Foreign Corrupt Practices Act (FCPA)
+anti-corruption law against public companies
+to maintain a level playing field and encourage fair play and competition
+public companies to pay bribes to a foreign government official
+Foreign Corrupt Practices Act",-- DUMMY --,,0,"disgorgement of $10.5 million
+pay disgorgement of $10.5 million
+cease and desist
+$10.5 million",FCPA,-- DUMMY --,SEC,Enforcement,-- DUMMY --,Statoil,,,10500000,"The Order also requires Statoil to cease and desist from committing violations of the antibribery, internal controls and books and records provisions of the FCPA and to retain an independent compliance consultant to review and report on Statoil's compliance with the FCPA."
+td-bank-na,cfbp/text/td-bank-na/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/cfbp/text/td-bank-na/press-release.txt,cfbp,,USD,,,,,,,,,,,,USD,2020-08-20,"consumer financial protection
+a civil money penalty of $25 million
+fair credit reporting act
+civil money penalty of $25 million
+overdraft
+consumer financial protection bureau
+overdraft practices
+$25 million
+overdraft enrollment practices
+fair credit reporting
+provide an estimated $97 million in restitution
+td bank","each overdraft transaction
+overdraft fees for atm and one-time debit card transactions
+overdraft
+overdraft transaction
+illegal overdraft practices
+atm and one-time debit card transactions
+overdraft fees
+customers $35 for each overdraft transaction
+the electronic fund transfer act
+electronic fund transfer act",-- DUMMY --,,0,"consumer financial protection
+fair credit reporting act
+overdraft
+consumer financial protection bureau
+overdraft practices
+$25 million
+overdraft enrollment practices
+fair credit reporting
+provide an estimated $97 million in restitution
+td bank",,-- DUMMY --,CFBP,Settlement,-- DUMMY --,,United States,"a civil money penalty of $25 million
+civil money penalty of $25 million",97000000,
+phloans,cfbp/text/phloans/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/cfbp/text/phloans/press-release.txt,cfbp,,USD,,,,,,,,,,,,USD,2020-08-26,"consent
+consent order","for similar violations
+go direct lenders
+similar violations
+prohibition against deceptive acts and practices
+violations",-- DUMMY --,,0,"consent
+consent order",,-- DUMMY --,CFBP,Consent Order,-- DUMMY --,,United States,,260000,"the consent order also imposes injunctive relief to prevent future violations, including requiring phloans to bolster its compliance functions by designating an advertising compliance official who must review its mortgage advertisements for compliance with mortgage advertising laws prior to their use; prohibiting misrepresentations similar to those identified by the bureau; and requiring phloans to comply with certain enhanced disclosure requirements to prevent future misrepresentations.
+the bureau commenced this sweep in response to concerns about potentially unlawful advertising in the market that the va identified. accurate and legally compliant advertising provides consumers with valuable information about the different types of mortgages and terms available so they can effectively shop for products that best meet their needs."
+7776-18,cftc/text/7776-18/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/cftc/text/7776-18/press-release.txt,cftc,United States of America,USD,,,,,,,,,,,,USD,2018-09-29,"$90 million penalty for attempted manipulation and false
+$90 million
+$90 million penalty
+bnp paribas
+attempted manipulation and false","to pay $90 million penalty for attempted manipulation and false
+attempted manipulation and false",-- DUMMY --,,0,"$90 million
+attempted manipulation and false
+bnp paribas",,-- DUMMY --,CFTC,Order,U.S. - Civil,,United States,"$90 million penalty for attempted manipulation and false
+$90 million penalty",90000000,
+lr20029,sec/text/lr20029/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/sec/text/lr20029/press-release.txt,sec,,USD,,,,,,,,,,,,USD,1900-01-01,"$50,000
+a bribe of $50,000
+false invoices
+a Penalty of $30,000
+Pay a Penalty of $30,000
+illegal payment","violating and/or aiding and abetting violations
+technology-based solutions and agricultural products
+the illegal payment was made to influence the Senior Environment Official to repeal language
+to generate the funds to make the illegal $50,000 payment",-- DUMMY --,,0,"a bribe of $50,000
+false invoices
+$50,000
+illegal payment",,-- DUMMY --,SEC,Complaint,-- DUMMY --,Charles Martin,,"a Penalty of $30,000
+Pay a Penalty of $30,000",-2,
+8207-20,cftc/text/8207-20/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/cftc/text/8207-20/press-release.txt,cftc,United States of America,USD,,,,,,,,,,,,USD,2020-07-20,"florida company to pay $75,000 for registration violations
+$75,000","florida company to pay $75,000 for registration violations
+registration
+registration violations",-- DUMMY --,,0,"florida company to pay $75,000 for registration violations
+$75,000",,-- DUMMY --,CFTC,Order,U.S. - Civil,,United States,,75000,
+santander-consumer-usa-inc-2020,cfbp/text/santander-consumer-usa-inc-2020/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/cfbp/text/santander-consumer-usa-inc-2020/press-release.txt,cfbp,,USD,,,,,,,,,,,,USD,2020-12-22,"nonprime auto loans and leases
+consent
+consent order
+nonprime auto loans","charged-off accounts
+fair credit reporting act
+the fair credit reporting act
+fair credit reporting act (fcra)
+credit reporting violations
+off accounts
+credit reporting violations in connection with its auto loans
+off",-- DUMMY --,,0,"nonprime auto loans and leases
+consent
+consent order
+nonprime auto loans",,-- DUMMY --,CFBP,Consent Order,-- DUMMY --,,United States,,4750000,
+2010-258,sec/text/2010-258/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/sec/text/2010-258/press-release.txt,sec,,USD,,Alcatel-Lucent,,,,,,,,,,USD,2010-12-27,"bribes
+More Than $137 Million","to obtain or retain lucrative telecommunications contracts and other contracts
+detect or investigate numerous red flags
+violating the Foreign Corrupt Practices Act (FCPA)
+Foreign Corrupt Practices Act (FCPA)
+DOJ Charges
+Alcatel-Lucent
+paying back all net profits made on the contracts Alcatel illegally obtained
+Foreign Corrupt Practices Act
+the Foreign Corrupt Practices Act
+violating the Foreign Corrupt Practices Act",-- DUMMY --,,1,"bribes
+More Than $137 Million",FCPA,-- DUMMY --,SEC,Complaint,-- DUMMY --,"DOJ Charges
+Alcatel-Lucent",,,137000000,
+8269-20,cftc/text/8269-20/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/cftc/text/8269-20/press-release.txt,cftc,United States of America,USD,,,,,,,,,,,,USD,2020-09-30,"$5 million
+morgan stanley capital services
+$5 million for swap data","reporting failures
+reporting failures.",-- DUMMY --,,0,"$5 million
+morgan stanley capital services
+$5 million for swap data",,-- DUMMY --,CFTC,Order,U.S. - Civil,,United States,,5000000,
+8374-21,cftc/text/8374-21/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/cftc/text/8374-21/press-release.txt,cftc,United States of America,USD,, Glenn Olson,,,,,,,,,,USD,1900-01-01,"more than $1 million
+$1 million","fraudulent binary
+fraudulent binary. options scheme",-- DUMMY --,,0,"more than $1 million
+$1 million",,-- DUMMY --,CFTC,Order,U.S. - Civil,,United States,,1000000,
+teva-pharmaceutical-industries-ltd,doj/text/teva-pharmaceutical-industries-ltd/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/doj/text/teva-pharmaceutical-industries-ltd/press-release.txt,doj,United States of America,USD,2016-12-22,TEVA PHARMACEUTICAL INDUSTRIES,UNITED STATES DISTRICT COURT,Kathleen M. Williams ,-1,-1.0,-1,1:16-cr-20968-FAM,-1,,,USD,2021-09-09,,,-- DUMMY --,,0,,,-- DUMMY --,DOJ,,U.S. - Penal,,,,,
+7221-15,cftc/text/7221-15/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/cftc/text/7221-15/press-release.txt,cftc,United States of America,USD,,,,,,,,,,,,USD,2021-01-10,freezing assets and protecting. books and records,fraud and other violations,-- DUMMY --,,0,freezing assets and protecting. books and records,,-- DUMMY --,CFTC,Order,U.S. - Civil,,United States,,,
+lr15266,sec/text/lr15266/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/sec/text/lr15266/press-release.txt,sec,,USD,,,,,,,,,,,,USD,1997-02-27,,,-- DUMMY --,,0,,,-- DUMMY --,SEC,,-- DUMMY --,,,,,
+2007-230,sec/text/2007-230/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/sec/text/2007-230/press-release.txt,sec,,USD,,,,,,,,,,The Commission also acknowledges Chevron's cooperation in the investigation.,U.S. District Court For The Southern District Of New York,USD,1900-01-01,"$30 million
+illegal surcharges to Iraq
+kickback payments
+Oil for Food escrow account
+Oil for Food escrow
+Oil for Food
+illegal surcharges
+$30 Million","surcharge
+its role in illegal kickback payments
+Settle Charges For Improper Payments to Iraq
+Improper Payments to Iraq
+illegal kickback payments
+without admitting or denying the SEC's allegations
+management with reviewing each proposed Iraqi oil deal.
+illegal kickback payments that were made to Iraq in 2001 and 2002
+management
+role in illegal kickback payments
+Improper Payments
+admitting or denying the SEC's allegations
+surcharge demands
+Foreign Corrupt Practices Act
+Settle Charges For Improper Payments
+management with reviewing each proposed Iraqi oil deal
+U.N. Oil For Food Program",-- DUMMY --,,0,"$30 million
+illegal surcharges to Iraq
+kickback payments
+Oil for Food escrow account
+Oil for Food escrow
+Oil for Food
+illegal surcharges
+$30 Million",FCPA,-- DUMMY --,"U.S. District Court For The Southern District Of New York
+SEC",Complaint,-- DUMMY --,Chevron,,,30000000,"In doing so, the Commission alleges, Chevron's traders failed to follow the company-wide policy and Chevron's management did not ensure compliance."
+2015-62,sec/text/2015-62/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/sec/text/2015-62/press-release.txt,sec,,USD,,,,,,,,,,FLIR self-reported the misconduct to the SEC and cooperated with the SEC’s investigation.,,USD,2015-04-08,"a settled administrative proceeding
+settled administrative proceeding
+more than $9.5 million
+$9.5 million","Oregon-Based Defense Contractor With FCPA Violations
+catch the improper payments
+Foreign Corrupt Practices Act (FCPA)
+violating the Foreign Corrupt Practices Act (FCPA)
+Defense Contractor With FCPA Violations
+few internal controls over gifts and travel out of its foreign sales offices
+expensive watches
+SEC Charges Oregon-Based Defense Contractor With FCPA Violations
+few internal controls over gifts and travel out of its foreign sales offices.
+FCPA Violations
+Foreign Corrupt Practices Act
+the Foreign Corrupt Practices Act",-- DUMMY --,,0,"a settled administrative proceeding
+settled administrative proceeding
+more than $9.5 million
+$9.5 million",FCPA,-- DUMMY --,SEC,Decision,-- DUMMY --,,,,9500000,"FLIR, which develops infrared technology for use in binoculars and other sensing products and systems, agreed to settle the SEC’s charges by paying more than $9.5 million and reporting its FCPA compliance efforts to the agency for the next two years."
+7906-19,cftc/text/7906-19/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/cftc/text/7906-19/press-release.txt,cftc,United States of America,USD,,,,,,,,,,,,USD,1900-01-01,"restitution
+surrender to united states marshal service
+to surrender to united states marshal service",failure to pay restitution to defrauded customers,-- DUMMY --,,0,"restitution
+surrender to united states marshal service
+to surrender to united states marshal service",,-- DUMMY --,CFTC,Order,U.S. - Civil,,United States,,,
+34-51724,sec/text/34-51724/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/sec/text/34-51724/press-release.txt,sec,,USD,,,,,,,,,,,,USD,1900-01-01,,,-- DUMMY --,,0,,,-- DUMMY --,SEC,,-- DUMMY --,,,,,
+novartis-hellas-saci,doj/text/novartis-hellas-saci/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/doj/text/novartis-hellas-saci/press-release.txt,doj,,USD,,,,,,,,,,,,USD,2021-09-09,,,-- DUMMY --,,0,,,-- DUMMY --,DOJ,,U.S. - Penal,,,,,
+prime-choice-funding-inc,cfbp/text/prime-choice-funding-inc/press-release.txt,https://storage.googleapis.com/theolex_documents_processing/cfbp/text/prime-choice-funding-inc/press-release.txt,cfbp,,USD,,,,,,,,,,,,USD,2020-07-24,"consent
+consent orders","require the companies to pay civil money penalties and impose requirements to prevent future violations
+civil money penalties and impose requirements to prevent future violations
+prevent future violations
+prohibition against deceptive acts and practices",-- DUMMY --,,0,"consent
+consent orders",,-- DUMMY --,CFBP,Consent Order,-- DUMMY --,,United States,,,"the bureau commenced this sweep in response to concerns about potentially unlawful advertising in the market that the va identified. accurate and legally compliant advertising provides consumers with valuable information about the different types of mortgages and terms available so they can effectively shop for products that best meet their needs.
+the consent orders also impose injunctive relief to prevent future violations, including requiring the companies to bolster their compliance functions by designating an advertising compliance official who must review their mortgage advertisements for compliance with mortgage advertising laws prior to their use; prohibiting misrepresentations similar to those identified by the bureau; and requiring the companies to comply with certain enhanced disclosure requirements to prevent them from making future misrepresentations."

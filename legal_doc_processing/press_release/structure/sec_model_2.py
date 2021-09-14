@@ -37,8 +37,7 @@ def _detect_true_text_id(txt_lines: str, line_length_txt=50, n_lines=4) -> int:
 
     if not cands_5th:
         return -1
-    else:
-        return cands_5th[0][0]
+    return cands_5th[0][0]
 
 
 def split_intro_article_2(txt: str, n=30) -> str:

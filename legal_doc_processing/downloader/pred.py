@@ -78,7 +78,7 @@ def compute_slices(len_df, batches_size_max=30):
 
 def batch_pred_and_save(df_list, SOURCE, pred_name="__preds"):
 
-    fn_list = list()
+    fn_list = []
     rd = random.randint(1000, 9999)
 
     # for each sub df

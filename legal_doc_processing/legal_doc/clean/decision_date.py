@@ -110,7 +110,7 @@ def clean_ans(ans: list) -> list:
     _ = [d.update({"_id": i}) for i, d in enumerate(ans)]
     _ = [d.update({"new_answer": _you_shall_not_pass(d["answer"])}) for d in ans]
 
-    new_ans = list()
+    new_ans = []
     for i, d in enumerate(ans):
         if len(d["new_answer"]) == 0:
             # ans.pop(i)

@@ -20,7 +20,7 @@ def product_juridic_form():
     cands = ["inc", "llc", "ltd", "corp"]
 
     # conatiner
-    llc_list = list()
+    llc_list = []
 
     # for each
     for i in cands:

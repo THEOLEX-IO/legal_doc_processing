@@ -63,7 +63,7 @@ def structure_press_release(txt, juridiction="", nlspa=None):
 
     # pairs and cands
     pairs = [cftc_pairs, doj_pairs, cfbp_pairs, sec_pairs]
-    final_cands = list()
+    final_cands = []
 
     # find a auth
     for auth, auth_cands in pairs:

@@ -2,7 +2,7 @@ def _question_helper(txt) -> list:
     """txt"""
 
     _txt = txt.lower()
-    res = list()
+    res = []
 
     cands = [
         # "impose",
@@ -25,7 +25,7 @@ def _question_helper(txt) -> list:
 def _question_selector(key: str) -> list:
     """based on a key from _question helper find the list of good question to ask """
 
-    res = list()
+    res = []
 
     if "impose" in key:  # impose
         res.extend(

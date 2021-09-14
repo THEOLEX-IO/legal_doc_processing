@@ -5,7 +5,7 @@ def _question_helper(txt):
     """txt"""
 
     _txt = txt.lower()
-    res = list()
+    res = []
 
     # involving
 
@@ -72,7 +72,7 @@ def _question_helper(txt):
 def _question_selector(key: str):
     """based on a key from _question helper find the list of good question to ask """
 
-    qs = list()
+    qs = []
 
     if "involving" in key:
         qs.extend(

@@ -34,7 +34,7 @@ def predict_country_of_violation(data: dict) -> list:
     sent_list = data.content_sents
 
     # find the list of countries
-    countries_cands = list()
+    countries_cands = []
     for sent in sent_list:
         # find GPE
         cand = get_label_(sent, "GPE", data.nlspa)
@@ -44,7 +44,7 @@ def predict_country_of_violation(data: dict) -> list:
     # clean empty GPE item
     countries_cands = [[i, j] for i, j in countries_cands if j]
 
-    ans_list = list()
+    ans_list = []
     for sent, country in countries_cands:
         quest = [["What is the country of violation?", "fine"]]
 

@@ -119,8 +119,7 @@ def define_sec_press_release_model(txt):
 
     if "FOR IMMEDIATE RELEASE".lower() in txt[:1000].lower():
         return 1
-    else:
-        return 2
+    return 2
 
 
 def structure_press_release(txt, nlspa=""):

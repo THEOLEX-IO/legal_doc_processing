@@ -37,10 +37,9 @@ def predict_monetary_sanction(
     # cost in article
     if len(money_abstract_clean) == 1:
         return [(str(money_abstract_clean[0]), 1)]
-    elif len(money_abstract_clean) > 1:
+    if len(money_abstract_clean) > 1:
         return [(str(max(money_abstract_clean)), 1)]
-    else:
-        return [(str(-1), -1)]
+    return [(str(-1), -1)]
 
     return [(str(-3), -1)]
 

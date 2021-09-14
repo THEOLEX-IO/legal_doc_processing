@@ -62,7 +62,7 @@ def product_juridiction_pairs():
         "the Consumer Financial Protection Bureau",
     ]
 
-    cands = dict()
+    cands = {}
     for k, _list in [
         ("cftc", cftc_cands),
         ("doj", doj_cands),

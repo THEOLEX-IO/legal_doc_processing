@@ -10,7 +10,7 @@ def _question_helper(txt) -> list:
     """txt"""
 
     _txt = txt.lower()
-    res = list()
+    res = []
 
     k_list = [
         "reason",
@@ -32,7 +32,7 @@ def _question_helper(txt) -> list:
 def _question_selector(key: str):
     """based on a key from _question helper find the list of good question to ask """
 
-    qs = list()
+    qs = []
 
     if "reason" in key:
         qs.extend(

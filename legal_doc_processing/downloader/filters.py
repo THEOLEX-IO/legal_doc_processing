@@ -64,7 +64,7 @@ def handle_multiple_file_problem(doc_pair_list: list) -> list:
     tmp_df.head(10)
 
     # group by and render a list(tupple(str, list)) object
-    tmp_clean_list = list()
+    tmp_clean_list = []
     for k, sub_df in tmp_df.groupby("folder"):
         tu = (k, list(sub_df.filename.values))
         tmp_clean_list.append(tu)

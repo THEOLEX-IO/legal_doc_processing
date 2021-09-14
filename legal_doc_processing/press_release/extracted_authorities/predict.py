@@ -26,7 +26,7 @@ def predict_extracted_authorities(data: dict) -> list:
         courts = []
 
     # orgs
-    all_orgs = list()
+    all_orgs = []
     for sent in data.content_sents:
         all_orgs.extend(get_label_(sent, "ORG", nlspa=data.nlspa))
 

@@ -30,7 +30,7 @@ def predict_extracted_sanctions(
     logger.info(f"sents_ok : {sents_ok} ")
 
     # quest
-    ans_list = list()
+    ans_list = []
     for i, sent in sents_ok:
         key_list = _question_helper(sent)
         if key_list:

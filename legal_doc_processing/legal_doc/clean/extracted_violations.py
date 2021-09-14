@@ -82,7 +82,7 @@ def clean_ans(ans):
     _ = [d.update({"_id": i}) for i, d in enumerate(ans)]
     _ = [d.update({"new_answer": _clean_list_to_list([d["answer"]])}) for d in ans]
 
-    new_ans = list()
+    new_ans = []
     for i, d in enumerate(ans):
         if len(d["new_answer"]) == 0:
             # ans.pop(i)

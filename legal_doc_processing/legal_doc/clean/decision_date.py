@@ -25,7 +25,7 @@ def _clean_the_present(txt: str) -> str:
 def _strip_trailling_comma_dot(txt: str) -> str:
     """ """
 
-    if not len(txt):
+    if not txt:
         return ""
 
     if txt[0] in [",", "."]:

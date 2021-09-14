@@ -61,7 +61,7 @@ def split_intro_article(txt: str, n=30) -> str:
     is_in = lambda j: any([(j.startswith(s.lower())) for s in [s0, s1, s2]])
     idx_cands = [i for i, j in enumerate(txt_lines_30) if is_in(j.lower())]
 
-    if not len(idx_cands):
+    if not idx_cands:
         s = "washington"
         idx_cands = [i for i, j in enumerate(txt_lines_30) if j.lower().startswith(s)]
 

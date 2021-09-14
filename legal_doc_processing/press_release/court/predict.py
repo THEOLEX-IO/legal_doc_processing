@@ -21,7 +21,7 @@ def predict_court(data: dict, threshold: float = 0.25) -> list:
     court_sent_list = [(i, j) for i, j in enumerate(sent_list) if court_ok(j.lower())]
 
     # if no sents :
-    if not len(court_sent_list):
+    if not court_sent_list:
         return [("", 1)]
 
     # questions

@@ -78,11 +78,11 @@ def clean_answer(answer_disc):
         if cv[1] > 0.7:
             list_answer.append(cv)
     if len(list_answer)!=0:
-        for i in range(len(list_answer)):
-            country=list_answer[i][0].lower().split(",")
+        for index,ans in enumerate(list_answer):
+            country=ans[0].lower().split(",")
         # print("here country",country)
             if "district"!=country:
-                cleaned_countries.append(list_answer[i])
+                cleaned_countries.append(ans)
 
 
     _countries = dict(countries_for_language('en'))

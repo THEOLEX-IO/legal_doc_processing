@@ -23,30 +23,30 @@ from legal_doc_processing.press_release.country_of_violation.predict import (
 )
 
 
+def test_predict_country():
+    # spa and pipe
+    nlpsa, nlpipe = get_spacy(),get_pipeline()
 
-# spa and pipe
-nlpsa, nlpipe = get_spacy(),get_pipeline()
+    # make df
+    df = press_release_df(
+        "doj",
+        nlpipe=nlpipe,
+        nlspa=nlpsa,
+        sample=0.25,
+    )
 
-# make df
-df = press_release_df(
-    "doj",
-    nlpipe=nlpipe,
-    nlspa=nlpsa,
-    sample=0.25,
-)
+    pr = df.pr.iloc[0]
+    pr.predict("extracted_authorities")
+    data = pr.data
 
-pr = df.pr.iloc[0]
-pr.predict("extracted_authorities")
-data = pr.data
+    # test the prediction
+    countries = predict_country_of_violation(data)
+    real_countries=clean_answer(countries)
+    countries = dict(countries_for_language('en'))
+    list_countries=list(countries.values())
 
-# test the prediction
-countries = predict_country_of_violation(data)
-real_countries=clean_answer(countries)
-countries = dict(countries_for_language('en'))
-list_countries=list(countries.values())
-
-for country in real_countries:
-    assert real_countries in list_countries
+    for country in real_countries:
+        assert real_countries in list_countries
 
 
 

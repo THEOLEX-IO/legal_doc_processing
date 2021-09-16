@@ -107,7 +107,7 @@ def extract_id(intro: str, len_max=35) -> tuple:
 
     # find id list
     # intro_lines = [i for i in intro.splitlines() if len(i) < len_max]
-    intro_lines = [i for i in intro.splitlines()]
+    intro_lines = list(intro.splitlines())
 
     idx_list = [
         i for i, j in enumerate(intro_lines) if j.lower().startswith("Release".lower())

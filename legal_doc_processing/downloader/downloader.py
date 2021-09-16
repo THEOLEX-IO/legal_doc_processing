@@ -53,8 +53,8 @@ def download_text_from_bucket(SOURCE, STOP=10):
     # pairs folder / url
     make_dict = lambda i: [i.split("/")[-2], i]
     #
-    doc_pairs_ = [(i, j) for i, j in map(make_dict, doc_list_)]
-    press_pairs_ = [(i, j) for i, j in map(make_dict, press_list_)]
+    doc_pairs_ = list(map(make_dict, doc_list_))
+    press_pairs_ = list(map(make_dict, press_list_))
     # check
     print(doc_pairs_[:5])
     print(press_pairs_[:5])
@@ -72,11 +72,11 @@ def download_text_from_bucket(SOURCE, STOP=10):
     # counts_after[:5]
 
     # make a dict of each
-    doc_dict_ = {i: j for i, j in doc_pairs__cleaned}
-    press_dict_ = {i: j for i, j in press_pairs_}
+    doc_dict_ = dict(doc_pairs__cleaned)
+    press_dict_ = dict(press_pairs_)
 
-    print([(i, j) for i, j in doc_dict_.items()][:3])
-    print([(i, j) for i, j in press_dict_.items()][:3])
+    print(list(doc_dict_.items())[:3])
+    print(list(press_dict_.items())[:3])
 
     # build a df
     doc_df_dict_ = pd.DataFrame(

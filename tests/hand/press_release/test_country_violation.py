@@ -45,4 +45,4 @@ def test_predict_country():
     list_countries=list(countries.values())
 
     for country in real_countries:
-        assert real_countries in list_countries
+        assert country in list_countries

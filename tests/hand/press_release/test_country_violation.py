@@ -4,7 +4,10 @@
 
 from geopy.geocoders import Nominatim
 
+<<<<<<< HEAD
 from legal_doc_processing import logger
+=======
+>>>>>>> bcc07d80b43e6dcbd8eb4ea0b80cf2ed0410b253
 from country_list import countries_for_language
 
 
@@ -46,4 +49,4 @@ def test_predict_country():
     list_countries=list(countries.values())
 
     for country in real_countries:
-        assert real_countries in list_countries
+        assert country in list_countries

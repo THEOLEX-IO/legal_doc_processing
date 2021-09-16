@@ -3,11 +3,6 @@
 # )
 
 from geopy.geocoders import Nominatim
-
-<<<<<<< HEAD
-from legal_doc_processing import logger
-=======
->>>>>>> bcc07d80b43e6dcbd8eb4ea0b80cf2ed0410b253
 from country_list import countries_for_language
 
 

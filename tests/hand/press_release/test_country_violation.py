@@ -4,7 +4,6 @@
 
 from geopy.geocoders import Nominatim
 
-from legal_doc_processing import logger
 from country_list import countries_for_language
 
 

@@ -46,17 +46,8 @@ def test_predict_country():
     list_countries=list(countries.values())
 
     for country in real_countries:
-        assert real_countries in list_countries
-
-
-
-
-
-
-
-
-
-from country_list import countries_for_language
+        if real_countries not in list_countries:
+            raise AssertionError
 try:
     # countries_for_language returns a list of tuples now, might be changed to an OrderedDict
     _countries = dict(countries_for_language('en'))

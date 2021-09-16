@@ -47,25 +47,3 @@ def test_predict_country():
 
     for country in real_countries:
         assert real_countries in list_countries
-
-
-
-
-
-
-
-
-
-from country_list import countries_for_language
-try:
-    # countries_for_language returns a list of tuples now, might be changed to an OrderedDict
-    _countries = dict(countries_for_language('en'))
-
-    list_countries=list(_countries.values())
-
-
-    country_violation=clean_answer( list_countries)
-    #tester sur un dizaine de cas
-    #filtrer et ajouter une fonction de clearning
-except Exception as e:
-    print(e)

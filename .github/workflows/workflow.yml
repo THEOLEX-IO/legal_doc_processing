@@ -36,6 +36,8 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+        codecov -t 73c14867-ea61-45c8-952d-b639910cd07a
+        bash <(curl -s https://codecov.io/bash) -t 73c14867-ea61-45c8-952d-b639910cd07a
   # deploy:
   #   runs-on: ubuntu-latest
   #   steps:

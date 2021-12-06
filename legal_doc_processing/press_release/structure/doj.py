@@ -65,7 +65,7 @@ def split_intro_article(txt: str) -> str:
     if len(idx_lines) <= 0:
         raise AssertionError
     idx = idx_lines[0]
-    intro_lines, article_lines = lines[: idx + 1], lines[idx :]
+    intro_lines, article_lines = lines[: idx], lines[idx :]
 
     # rejoin
     intro = "\n".join(intro_lines)

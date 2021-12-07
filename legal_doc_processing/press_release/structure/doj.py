@@ -65,7 +65,8 @@ def split_intro_article(txt: str) -> str:
     if len(idx_lines) <= 0:
         raise AssertionError
     idx = idx_lines[0]
-    intro_lines, article_lines = lines[: idx + 1], lines[idx:]
+    print(len(idx_lines ))
+    intro_lines, article_lines = lines[: idx + 1], lines[idx +1 :]
 
     # rejoin
     intro = "\n".join(intro_lines)
@@ -101,16 +102,18 @@ def extract_date(intro: str, nlspa) -> tuple:
 
 def extract_h1(intro: str, nlspa) -> tuple:
     """ """
-
+    h1=[]
     light_intro = clean_very_short_lines(intro)
     intro_lines = intro.splitlines()
     idx_list = [
         i for i, j in enumerate(intro_lines) if "IMMEDIATE RELEASE".lower() in j.lower()
     ]
-    idx = idx_list[0]
-    h1_lines = intro_lines[idx + 1 :]
-    h1 = ". ".join(h1_lines).strip()
-    h1 = h1 if h1[-1] == "." else h1 + "."
+    if len(idx_list)>1:
+        idx = idx_list[0]
+        print('index', idx,  'len', len(intro_lines))
+        h1_lines = intro_lines[idx:]
+        h1 = ". ".join(h1_lines).strip()
+        h1 = h1 if h1[-1] == "." else h1 + "."
 
     return h1, intro
 

@@ -30,7 +30,7 @@ def test_predict_country():
         "doj",
         nlpipe=nlpipe,
         nlspa=nlpsa,
-        sample=0.25,
+        sample=0.25
     )
 
     pr = df.pr.iloc[0]

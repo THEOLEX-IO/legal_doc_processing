@@ -24,6 +24,7 @@ def _question_helper(txt) -> list:
         "filed",
         "judgement",
         "complaint",
+        "ordered",
     ]
     for kk in k_list:
         if kk in _txt:

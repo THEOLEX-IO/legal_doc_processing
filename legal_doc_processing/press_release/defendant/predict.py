@@ -14,54 +14,50 @@ from legal_doc_processing.press_release.defendant.clean import (
     clean_ans,
 )
 
+def correct_context(data):
+    possible_words=['monetary', 'money', 'sanction', 'monetary sanction', 'ordered', 'pay', 'defendant']
+    text=[]
+
+    if 'page' in  data.content:
+        list_pages = data.content.split('page')
+        for j in list_pages:
+            for word in possible_words:
+                if word in j:
+                    if j not in text:
+                        text.append(j) 
+    else:
+        text.append( data.content)
+    col=''.join(text)
+    data.content=col
+    return data
+
+
 
 def predict_defendant(
     data: dict,
-    h1_len_threshold: int = 15,
-    content_n_sents_threshold: int = 5,
-    threshold: float = 0.25,
+    h1_len_threshold: int = 20,
+    content_n_sents_threshold: int = 25,
+    threshold: float = 0.5,
 ) -> list:
     """ """
 
     # sents
-    h1 = [data.h1] if len(data.h1) > h1_len_threshold else [""]
-    sent_list = h1 + data.content_sents[:content_n_sents_threshold]
-    sent_list = [i.replace("\n", "") for i in sent_list if i]
-
+    # h1 = [data.h1] if len(data.h1) > h1_len_threshold else [""]
+    # sent_list = h1 + data.content_sents
+    # sent_list = [i.replace("\n", "") for i in sent_list if i]
+    data=correct_context(data)
     # quest
     ans_list = []
-    for sent in sent_list:
-        key_list = _question_helper(sent)
-        if key_list:
-            quest_pairs = _question_lister(key_list)
-            ans_list.extend(ask_all(sent, quest_pairs, sent=sent, nlpipe=data.nlpipe))
+    key_list = _question_helper(data.content)
+    if key_list:
+        quest_pairs = _question_lister(key_list)
+        ans_list.extend(ask_all(data.content, quest_pairs, sent=data.content, nlpipe=data.nlpipe))
+    score=[]
+    for an in ans_list:
+        
+        if an['answer'] not in score and an['score']>threshold:
+             score.append(an['answer'])
+        score.append("")
 
-    if not ans_list:
-        return [("", 1)]
-
-    # clean ans
-    cleaned_ans = clean_ans(ans_list)
-    answer_label = "new_answer"
-    if not cleaned_ans:
-        return [("", 1)]
-
-    # merge ans
-    merged_ans = merge_ans(cleaned_ans, label=answer_label)
-
-    # filert by spacy entities
-    consitant_ans = [i for i in merged_ans if i[answer_label] in data.pers_org_all]
-
-    # exclude judge
-    judge_list = [
-        i.lower().replace("judge", "").strip()
-        for i in data.feature_dict["judge"].split(",")
-    ]
-    exclude_judge = lambda i: i[answer_label].strip().lower() not in judge_list
-    if judge_list:
-        consitant_ans = [i for i in consitant_ans if exclude_judge(i)]
-
-    # filter by threshold
-    flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]
-    last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
-
-    return last_ans
+    
+    return score[0]

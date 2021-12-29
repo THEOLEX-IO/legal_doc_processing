@@ -41,7 +41,7 @@ def press_release_df(
     """ """
 
     if juridiction not in ["cftc", "cfbp", "doj", "sec", ""]:
-        raise AssertionError 
+        raise AssertionError
 
     max_init_time = 3.0
 
@@ -61,21 +61,15 @@ def press_release_df(
         # selec juridiction
         select_jur = lambda i: str(i).lower().strip() == juri
         df = df.loc[df.juridiction.apply(select_jur), :]
-        for i in range(len(df.press_release_text)):
-            df.press_release_text.iloc[i] = df.press_release_text.iloc[i]
         # make pr
-        df['pr']=0
-        
-        for i in range(len(df.press_release_text)):
-            df['pr'][i]=PressRelease(list(df.press_release_text[i]), source=juri, nlpipe=nlpipe, nlspa=nlspa)
-
-        
+        make_pr = lambda i: PressRelease(list(i), source=juri, nlpipe=nlpipe, nlspa=nlspa)
+        df["pr"] = df.press_release_text.apply(make_pr)
     else:
         # make pr
-        make_pr = lambda i, j: PressRelease(i, source=j, nlpipe=nlpipe, nlspa=nlspa)
-        df["pr"] = [make_pr for i, j in zip(df.press_release_text, df.juridiction)]
+        make_pr = lambda i, j: PressRelease(list(i), source=j, nlpipe=nlpipe, nlspa=nlspa)
+        df["pr"] = [make_pr(i, j) for i, j in zip(df.press_release_text, df.juridiction)]
 
-    return df  
+    return df
 
 
 def from_file(file_path, source, nlpipe=None, nlspa=None):

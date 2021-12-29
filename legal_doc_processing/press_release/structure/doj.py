@@ -19,7 +19,7 @@ from legal_doc_processing.press_release.structure.utils import (
 def give_doj_press_release_df():
     """ """
 
-    df = press_release_X_y(juridiction="doj", sample=0.9)
+    df = press_release_X_y(juridiction="doj", sample=0.2)
     cols = ["folder", "press_release_text"]
 
     return df.loc[:, cols]
@@ -65,7 +65,6 @@ def split_intro_article(txt: str) -> str:
     if len(idx_lines) <= 0:
         raise AssertionError
     idx = idx_lines[0]
-    print(len(idx_lines ))
     intro_lines, article_lines = lines[: idx + 1], lines[idx +1 :]
 
     # rejoin
@@ -108,9 +107,8 @@ def extract_h1(intro: str, nlspa) -> tuple:
     idx_list = [
         i for i, j in enumerate(intro_lines) if "IMMEDIATE RELEASE".lower() in j.lower()
     ]
-    if len(idx_list)>1:
+    if len(h1)>1:
         idx = idx_list[0]
-        print('index', idx,  'len', len(intro_lines))
         h1_lines = intro_lines[idx:]
         h1 = ". ".join(h1_lines).strip()
         h1 = h1 if h1[-1] == "." else h1 + "."

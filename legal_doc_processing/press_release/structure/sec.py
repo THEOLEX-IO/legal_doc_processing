@@ -117,7 +117,7 @@ def first_clean(txt: str) -> str:
 def define_sec_press_release_model(txt):
     """ """
 
-    if "FOR IMMEDIATE RELEASE".lower() in txt[:1000].lower():
+    if "FOR IMMEDIATE RELEASE".lower() in txt[:1000]:
         return 1
     return 2
 

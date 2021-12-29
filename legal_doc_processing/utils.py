@@ -176,10 +176,9 @@ def get_pipeline():
 
     return pipeline(
         "question-answering",
-        model="distilbert-base-cased-distilled-squad",
-        tokenizer="distilbert-base-cased",
+        model="distilbert-base-uncased-distilled-squad",
+        tokenizer="distilbert-base-uncased",
     )
-
 
 def _if_not_pipe(nlpipe):
     """ if  not nlpipeline instance and return it else return pipeline already exists"""

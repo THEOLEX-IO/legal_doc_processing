@@ -62,11 +62,11 @@ def press_release_df(
         select_jur = lambda i: str(i).lower().strip() == juri
         df = df.loc[df.juridiction.apply(select_jur), :]
         # make pr
-        make_pr = lambda i: PressRelease(list(i), source=juri, nlpipe=nlpipe, nlspa=nlspa)
+        make_pr = lambda i: PressRelease(i, source=juri, nlpipe=nlpipe, nlspa=nlspa)
         df["pr"] = df.press_release_text.apply(make_pr)
     else:
         # make pr
-        make_pr = lambda i, j: PressRelease(list(i), source=j, nlpipe=nlpipe, nlspa=nlspa)
+        make_pr = lambda i, j: PressRelease(i, source=j, nlpipe=nlpipe, nlspa=nlspa)
         df["pr"] = [make_pr(i, j) for i, j in zip(df.press_release_text, df.juridiction)]
 
     return df

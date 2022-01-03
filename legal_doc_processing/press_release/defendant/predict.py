@@ -14,25 +14,6 @@ from legal_doc_processing.press_release.defendant.clean import (
     clean_ans,
 )
 
-def correct_context(data):
-    possible_words=['monetary', 'money', 'sanction', 'monetary sanction', 'ordered', 'pay', 'defendant']
-    text=[]
-
-    if 'page' in  data.content:
-        list_pages = data.content.split('page')
-        for j in list_pages:
-            for word in possible_words:
-                if word in j:
-                    if j not in text:
-                        text.append(j) 
-    else:
-        text.append( data.content)
-    col=''.join(text)
-    data.content=col
-    return data
-
-
-
 def predict_defendant(
     data: dict,
     h1_len_threshold: int = 15,
@@ -40,7 +21,6 @@ def predict_defendant(
     threshold: float = 0.1,
 ) -> list:
     """ """
-    data=correct_context(data)
     h1 = [data.h1] if len(data.h1) > h1_len_threshold else [""]
     sent_list = h1 + data.content_sents[:content_n_sents_threshold]
     sent_list = [i.replace("\n", "") for i in sent_list if i]

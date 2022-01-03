@@ -35,27 +35,50 @@ def correct_context(data):
 
 def predict_defendant(
     data: dict,
-    h1_len_threshold: int = 20,
-    content_n_sents_threshold: int = 25,
-    threshold: float = 0.5,
+    h1_len_threshold: int = 15,
+    content_n_sents_threshold: int = 5,
+    threshold: float = 0.1,
 ) -> list:
     """ """
-    
     data=correct_context(data)
+    h1 = [data.h1] if len(data.h1) > h1_len_threshold else [""]
+    sent_list = h1 + data.content_sents[:content_n_sents_threshold]
+    sent_list = [i.replace("\n", "") for i in sent_list if i]
+
     # quest
     ans_list = []
-    key_list = _question_helper(data.content)
-    if key_list:
-        quest_pairs = _question_lister(key_list)
-        ans_list.extend(ask_all(data.content, quest_pairs, sent=data.content, nlpipe=data.nlpipe))
-    score=[]
-    for an in ans_list:
-        
-        if an['answer'] not in score and an['score']>threshold:
-             score.append([an['answer'],an['score']] )
-        else:
-            score.append(["", 0])
+    for sent in sent_list:
+        key_list = _question_helper(sent)
+        if key_list:
+            quest_pairs = _question_lister(key_list)
+            ans_list.extend(ask_all(sent, quest_pairs, sent=sent, nlpipe=data.nlpipe))
 
+    if not ans_list:
+        return [("", 1)]
 
-    
-    return score[0][0]
+    # clean ans
+    cleaned_ans = clean_ans(ans_list)
+    answer_label = "new_answer"
+    if not cleaned_ans:
+        return [("", 1)]
+
+    # merge ans
+    merged_ans = merge_ans(cleaned_ans, label=answer_label)
+
+    # filert by spacy entities
+    consitant_ans = [i for i in merged_ans if i[answer_label] in data.pers_org_all]
+
+    # exclude judge
+    judge_list = [
+        i.lower().replace("judge", "").strip()
+        for i in data.feature_dict["judge"].split(",")
+    ]
+    exclude_judge = lambda i: i[answer_label].strip().lower() not in judge_list
+    if judge_list:
+        consitant_ans = [i for i in consitant_ans if exclude_judge(i)]
+
+    # filter by threshold
+    flatten_ans = [(i[answer_label], i["cum_score"]) for i in consitant_ans]
+    last_ans = [(i, j) for i, j in flatten_ans if j > threshold]
+
+    return last_ans

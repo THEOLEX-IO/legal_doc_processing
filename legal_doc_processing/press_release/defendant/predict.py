@@ -56,8 +56,8 @@ def predict_defendant(
     for an in ans_list:
         
         if an['answer'] not in score and an['score']>threshold:
-             score.append(an['answer'])
+             score.append([an['answer'],an['score']] )
         score.append("")
 
     
-    return score[0]
+    return score[0][0]

@@ -8,8 +8,8 @@ from legal_doc_processing.utils import softmax, merge_ans
 def predict_defendant(
     press: dict,
     legal: dict,
-    threshold: float = 0.3,
-    softmax_threshold: float = 0.1,
+    threshold: float = 0.1,
+    softmax_threshold: float = 0.2,
 ) -> list:
     """ """
 
@@ -17,9 +17,6 @@ def predict_defendant(
     legal_def = legal["_defendant"]
 
     ans = []
-
-    print(press_def)
-    print(legal_def)
 
     # both null
     if (not press_def) and not (legal_def):
@@ -31,12 +28,10 @@ def predict_defendant(
         ans = press_def
 
     if ans:
-        print(str(ans) + "\n")
         return ans
 
     # join preds
     all_def = press_def + legal_def
-    print(all_def)
 
     # non null
     selected_def = [(i, j) for i, j in all_def if j > 0.1]
@@ -44,7 +39,6 @@ def predict_defendant(
         ans = [(-2, -1)]
 
     if ans:
-        print(str(ans) + "\n")
         return ans
 
     # counter
@@ -59,7 +53,6 @@ def predict_defendant(
             ans = [(i["answer"], i["cum_score"]) for i in merged_both]
 
     if ans:
-        print(str(ans) + "\n")
         return ans
 
     # softmax
@@ -88,5 +81,4 @@ def predict_defendant(
         ans = zip(keys, _values)
         ans = [(i, j) for i, j in ans if j > softmax_threshold]
 
-    print(str(ans) + "\n")
     return ans

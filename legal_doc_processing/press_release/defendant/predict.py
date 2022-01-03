@@ -40,11 +40,7 @@ def predict_defendant(
     threshold: float = 0.5,
 ) -> list:
     """ """
-
-    # sents
-    # h1 = [data.h1] if len(data.h1) > h1_len_threshold else [""]
-    # sent_list = h1 + data.content_sents
-    # sent_list = [i.replace("\n", "") for i in sent_list if i]
+    
     data=correct_context(data)
     # quest
     ans_list = []
@@ -57,7 +53,9 @@ def predict_defendant(
         
         if an['answer'] not in score and an['score']>threshold:
              score.append([an['answer'],an['score']] )
-        score.append("")
+        else:
+            score.append(["", 0])
+
 
     
     return score[0][0]

@@ -107,7 +107,7 @@ def extract_h1(intro: str, nlspa) -> tuple:
     idx_list = [
         i for i, j in enumerate(intro_lines) if "IMMEDIATE RELEASE".lower() in j.lower()
     ]
-    if len(h1)>1:
+    if len(idx_list)>0:
         idx = idx_list[0]
         h1_lines = intro_lines[idx:]
         h1 = ". ".join(h1_lines).strip()

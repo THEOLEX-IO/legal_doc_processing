@@ -125,7 +125,7 @@ def clean_ans(ans: list) -> list:
                     "end": d["end"],
                     "score": d["score"],
                     "answer": d["answer"],
-                    "new_answer": d["new_answer"][0],
+                    "new_answer": d["new_answer"],
                 }
             )
             # ans.pop(i)

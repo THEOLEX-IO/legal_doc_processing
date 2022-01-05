@@ -116,7 +116,8 @@ def clean_ans(ans: list) -> list:
             # ans.pop(i)
             pass
         elif len(d["new_answer"]) == 1:
-            # d["new_answer"] = list(d["new_answer"])[0]
+            # d["new_answer"] = list(d["new_answer"])[0]    merged_ans = merge_ans(cleaned_ans, label=answer_label)
+
             new_ans.append(
                 {
                     "_id": d["_id"],
@@ -125,7 +126,7 @@ def clean_ans(ans: list) -> list:
                     "end": d["end"],
                     "score": d["score"],
                     "answer": d["answer"],
-                    "new_answer": d["new_answer"],
+                    "new_answer": d["new_answer"][0],
                 }
             )
             # ans.pop(i)
@@ -138,11 +139,12 @@ def clean_ans(ans: list) -> list:
                     "end": d["end"],
                     "score": d["score"],
                     "answer": d["answer"],
-                    "new_answer": k,
+                    "new_answer": d["new_ans"],
                 }
-                for k in d["new_answer"]
+    
+                
             ]
-            new_ans.extend(l)
+            new_ans.extend(l) 
             # ans.pop(i)
 
     return new_ans

@@ -46,7 +46,7 @@ def predict_defendant(
     merged_ans = merge_ans(cleaned_ans, label=answer_label)
 
     # filert by spacy entities
-    consitant_ans = [i for i in merged_ans if i[answer_label] in data.pers_org_all]
+    consitant_ans = [i for i in merged_ans]
 
     # exclude judge
     judge_list = [

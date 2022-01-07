@@ -68,7 +68,6 @@ def predict_country_of_violation(data: dict) -> list:
 
     return ans_list
 
-
 def clean_answer(answer_disc):
     list_answer=[]
     cleaned_countries=[]
@@ -88,7 +87,7 @@ def clean_answer(answer_disc):
     _countries = dict(countries_for_language('en'))
 
     list_countries=list(_countries.values())
-#select all the country from the answers
+    #select all the country from the answers
     if list_countries:
         for country in cleaned_countries:
             if country[0] in list_countries:

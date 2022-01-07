@@ -17,10 +17,8 @@ from legal_doc_processing.press_release.press_release import press_release_df
 
 
 from legal_doc_processing.press_release.country_of_violation.predict import (
-    predict_country_of_violation, clean_answer
+     predict_country_of_violation, clean_answer
 )
-
-
 def test_predict_country():
     # spa and pipe
     nlpsa, nlpipe = get_spacy(),get_pipeline()

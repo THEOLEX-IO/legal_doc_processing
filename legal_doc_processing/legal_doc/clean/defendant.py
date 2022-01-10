@@ -213,10 +213,13 @@ def clean_ans(ans: list) -> list:
                     "end": d["end"],
                     "score": d["score"],
                     "answer": d["answer"],
-                    "new_answer": d["new_answer"],
+                    "new_answer": k,
                 }
+
+                for k in d["answer"]
             ]
+
             new_ans.extend(l)
             # ans.pop(i)
 
-    return new_ans
+    return new_ans 

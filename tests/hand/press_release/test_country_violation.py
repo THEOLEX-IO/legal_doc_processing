@@ -17,10 +17,8 @@ from legal_doc_processing.press_release.press_release import press_release_df
 
 
 from legal_doc_processing.press_release.country_of_violation.predict import (
-    predict_country_of_violation, clean_answer
+     predict_country_of_violation, clean_answer
 )
-
-
 def test_predict_country():
     # spa and pipe
     nlpsa, nlpipe = get_spacy(),get_pipeline()
@@ -30,7 +28,7 @@ def test_predict_country():
         "doj",
         nlpipe=nlpipe,
         nlspa=nlpsa,
-        sample=0.25,
+        sample=0.25
     )
 
     pr = df.pr.iloc[0]

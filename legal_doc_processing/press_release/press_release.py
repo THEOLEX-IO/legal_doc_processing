@@ -21,13 +21,14 @@ class PressRelease(Base):
         n_lines: int = 6,
     ):
 
-        Base.__init__(
+        Base.__init__( 
             self,
             text=text,
             obj_name="PressRelease",
             source=source,
             nlpipe=nlpipe,
             nlspa=nlspa,
+            
         )
 
         # set all

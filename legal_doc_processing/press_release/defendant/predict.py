@@ -14,16 +14,13 @@ from legal_doc_processing.press_release.defendant.clean import (
     clean_ans,
 )
 
-
 def predict_defendant(
     data: dict,
     h1_len_threshold: int = 15,
     content_n_sents_threshold: int = 5,
-    threshold: float = 0.25,
+    threshold: float = 0.1,
 ) -> list:
     """ """
-
-    # sents
     h1 = [data.h1] if len(data.h1) > h1_len_threshold else [""]
     sent_list = h1 + data.content_sents[:content_n_sents_threshold]
     sent_list = [i.replace("\n", "") for i in sent_list if i]
@@ -49,7 +46,7 @@ def predict_defendant(
     merged_ans = merge_ans(cleaned_ans, label=answer_label)
 
     # filert by spacy entities
-    consitant_ans = [i for i in merged_ans if i[answer_label] in data.pers_org_all]
+    consitant_ans = [i for i in merged_ans]
 
     # exclude judge
     judge_list = [

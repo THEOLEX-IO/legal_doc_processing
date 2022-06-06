@@ -7,47 +7,12 @@ import os
 import re
 import requests
 
-def _del_dummy_breaklines(txt: str):
-
-  new_txt = (
-      txt.replace("\n.", "$$$$")
-      .replace("\n", " ")
-      .replace("  ", " ")
-      .replace("  ", " ")
-      .replace("  ", " ")
-      .replace("$$$$", "\n")
-  )
-
-  return new_txt
-
 
 def _del_bouble_breaks_and_spaces(txt: str) -> str:
 
-  new_txt = (
-      txt.replace("\n\n", "\n")
-      .replace("\n\n", "\n")
-      .replace("\n\n", "\n")
-      .replace("\n\n", "\n")
-      .replace("\n\n", "\n")
-      .replace("\n\n", "\n")
-      .replace("\n\n", "\n")
-      .replace("  ", " ")
-      .replace("  ", " ")
-      .replace("  ", " ")
-      .replace("  ", " ")
-      .replace("  ", " ")
-      .replace("  ", " ")
-      .replace("  ", " ")
-      .replace("  ", " ")
-      .replace("\n\n", "\n")
-      .replace("\n\n", "\n")
-      .replace("\n\n", "\n")
-      .replace("\n\n", "\n")
-      .replace("\n\n", "\n")
-      .replace("\n\n", "\n")
-  )
-
-  return new_txt
+  x = re.sub("[\n]*", "", txt)
+  x1= re.sub("  ", " ",x)
+  return x1
 
 def _u(liste):
   return list(set(liste))
@@ -258,10 +223,36 @@ def _get_weight(question: str,Dict_weighted=None) -> float:
     """
     if not Dict_weighted: Dict_weighted = _get_dict_weighted()
     try:
-      return Dict_weighted[question] #return weight
+      return Dict_weighted[question]
     except:
       get_list_key = lambda x: [elt for elt in x.replace("?","").lower().split(" ") if elt]
       for quest in Dict_weighted:
         if set(get_list_key(question))==set(get_list_key(quest)):
           return Dict_weighted[quest]
       return 0
+
+def convert(lst, i):
+    return lst[i].split()
+
+def delete_uni(liste):
+  i=0
+  while (i < len(liste)):
+    j=0
+    while (j < len(liste)):
+      if (i==j):
+        j += 1
+        continue
+      l1= convert(liste, i)
+      l2=convert(liste, j)
+      t=0
+      for k in l1:
+        if (k in l2):
+          t+=1
+      if (t==len(l1)):
+        del liste[i]
+        i=0
+        j=0
+      else:
+        j+=1
+    i+=1
+  return liste

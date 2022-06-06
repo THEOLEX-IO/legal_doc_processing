@@ -6,19 +6,60 @@ nlp2 = pipeline("question-answering")
 import os 
 
 
+def _get_dict_weighted() -> dict:
+    """based on a key from _question helper find the list of good question to ask """
+
+
+    Liste_ordered = [
+                     #high
+                     "How much is ordered to pay as monetary sanction?",
+                     "How much is restituate?",
+                     
+
+                     #middle
+
+                     "How much is the monetary sanction?",
+
+
+                     
+
+                     #low
+                     "What is ordered?",
+                     "What is restituate?"
+
+    ]
+
+    # make sure there is no repetition
+    Liste_ordered = Liste_ordered
+
+    nb_items = len(Liste_ordered) #nb of questions
+    t=[0.88, 0.83, 0.79, 0.38, 0.38]
+    liste_weights = list(10*(np.power(t,2))) #get weights from 1 to 20
+
+
+    #add weight to questions and put them into a dictionnary
+    Dict_weighted = {Liste_ordered[i]:liste_weights[i] for i in range(nb_items)}
+
+    return Dict_weighted
+
+
 def _get_weight(question: str) -> float:
-  a=0.0
-  if (question=="How much is ordered to pay as monetary sanction?"):
-    a= 7.744
-  elif (question== "How much is restituate?"):
-    a= 6.888999999999999
-  elif (question== "How much is the monetary sanction?"):
-    a= 6.241000000000001
-  elif (question == "What is ordered?"):
-    a= 1.444
-  elif (question== "What is restituate?"):
-    a= 1.444
-  return a
+    """
+    input: question 
+    output: score associated 
+    usage: _get_weight("who is ordered?")
+    """
+    Dict_weighted = _get_dict_weighted()
+    try:
+      return Dict_weighted[question] #return weight
+    except:
+      get_list_key = lambda x: [elt for elt in x.replace("?","").lower().split(" ") if elt]
+      for quest in Dict_weighted:
+        if set(get_list_key(question))==set(get_list_key(quest)):
+          return Dict_weighted[quest]
+      return 0
+
+
 
 
 import logging

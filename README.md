@@ -16,7 +16,6 @@
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/)
 [![codecov](https://codecov.io/gh/THEOLEX-IO/legal_doc_processing/branch/master/graph/badge.svg)](https://codecov.io/gh/THEOLEX-IO/legal_doc_processing)
 [![Build Status](https://travis-ci.org/mtchavez/python-package-boilerplate.png?branch=master)](https://travis-ci.org/mtchavez/python-package-boilerplate)
-[![Requires.io](https://requires.io/github/mtchavez/python-package-boilerplate/requirements.svg?branch=master)](https://requires.io/github/mtchavez/python-package-boilerplate/requirements?branch=master)
 [![DeepSource](https://deepsource.io/gh/THEOLEX-IO/legal_doc_processing.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/THEOLEX-IO/legal_doc_processing/?ref=repository-badge)
 
 <br>
@@ -60,8 +59,9 @@ This startup provides quick insights across thousands of regulatory decisions an
 **********************
 
 <br>
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
+The objective of this project is to simplify the extraction of information from legal documents published by legal authorities.
+On the basis of text document (ocr has to be peformed beforehand), the package extracts several important fields such as the date, the amount of the sanction, the type of violation...
+The package manages today 4 authorities and has for objective to manage several tens of them.
 <br>
 <br>
 <br>

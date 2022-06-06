@@ -18,9 +18,6 @@ def predict_defendant(
 
     ans = []
 
-    print(press_def)
-    print(legal_def)
-
     # both null
     if (not press_def) and not (legal_def):
         ans = [(-1, -1)]
@@ -31,7 +28,6 @@ def predict_defendant(
         ans = press_def
 
     if ans:
-        print(str(ans) + "\n")
         return ans
 
     # join preds
@@ -43,7 +39,6 @@ def predict_defendant(
         ans = [(-2, -1)]
 
     if ans:
-        print(str(ans) + "\n")
         return ans
 
     # counter
@@ -58,7 +53,6 @@ def predict_defendant(
             ans = [(i["answer"], i["cum_score"]) for i in merged_both]
 
     if ans:
-        print(str(ans) + "\n")
         return ans
 
     # softmax
@@ -87,5 +81,4 @@ def predict_defendant(
         ans = zip(keys, _values)
         ans = [(i, j) for i, j in ans if j > softmax_threshold]
 
-    print(str(ans) + "\n")
     return ans

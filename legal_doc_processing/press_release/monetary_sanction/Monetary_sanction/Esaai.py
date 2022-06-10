@@ -1,4 +1,5 @@
-from utils import *
+from legal_doc_processing.press_release.monetary_sanction.Monetary_sanction import utils
+#from utils import *
 
 def predict_monetary_sanction (data: dict) -> list:
   text= "\n".join(data[key] for key in data.keys())

@@ -1,4 +1,4 @@
-from legal_doc_processing.press_release.defendant.defendant import utils_defendan
+from legal_doc_processing.press_release.defendant.defendant import utils_defendant
 #from utils_defendant import *
 
 def give_answer(df_of_top):

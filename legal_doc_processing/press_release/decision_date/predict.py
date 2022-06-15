@@ -1,41 +1,24 @@
+from transformers import pipeline
+nlp2 = pipeline("question-answering")
 import os
+import pandas as pd
+def predict_decision_date (data: dict) -> list:
+  text= "\n".join(data[key] for key in data.keys())
+  folder= data["source"]
+  final_result =[]
+  df_res = pd.DataFrame(columns=["folder","N","tag","question","answer","score","context","start","end","chosen"]) #le dataframe à remplir (au cas où)
+  N =20 #Généralement les 20premières lignes contiennent toujours la date
+  liste = text.split("\n")[:N] #les N premières lignes du texte
+  texte_tiny = "\n".join([elt for elt in liste if elt]) 
+  questions = [("what is the date?", "what_date")]
+  for question,tag in questions: 
+    res = nlp2(question=question,context=texte_tiny) #detection de la reponse dans le texte
+    s = res['answer']
+    final_result.append(s)
+    try:
+      context = texte_tiny[max(0,res.get("start")-60):min(res.get("end")+40,len(text))] #bout de texte contenant la reponse
+      df_res = df_res.append({"folder":folder,"tag":tag,"question":question,"N":N,"answer":res['answer'],"score":res.get('score'),"context":context,"start":res.get('start'),"end":res.get('end')},ignore_index=True)
+    except: #si il y a un problème
+      df_res.append({"folder":folder,"tag":tag,"question":question,"N":N,"answer":"---","score":"---","context":"---","start":"---","end":"---"},ignore_index=True)
 
-import dateparser
-
-from legal_doc_processing import logger
-from legal_doc_processing.utils import get_label_
-from legal_doc_processing.press_release.decision_date.clean import force_dateformat
-
-# from legal_doc_processing.press_release.decision_date.clean import (
-#     _you_shall_not_pass,
-# )
-
-
-def predict_decision_date(data: dict) -> list:
-    """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
-
-    if data.date:
-        return [(force_dateformat(data.date), 1)]
-
-    # sent list
-    sent_list = data.content.split("\n")
-    date_ok = lambda j: ("19" or "20") in j
-    date_sent_list = [(i, j) for i, j in enumerate(sent_list) if date_ok(j)]
-
-    # find date ents
-    date_list = []
-    for _, sent in date_sent_list:
-        date_list.extend(get_label_(sent, "DATE", nlspa=data.nlspa))
-
-    # if  not
-    if not date_list:
-        return [("1900-01-01", 1)]
-
-    # parse date
-    date_list = [dateparser.parse(i) for i in date_list if dateparser.parse(i)]
-
-    # date sort and clean
-    date = sorted(date_list)[-1]
-    date = str(date)[:10]
-
-    return [(force_dateformat(data.date), 1)]
+  return final_result

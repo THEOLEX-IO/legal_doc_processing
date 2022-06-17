@@ -257,8 +257,7 @@ def delete_uni(liste):
     i+=1
   return liste
 
-
-  def give_answer(df_of_top):
+def give_answer(df_of_top):
 
   liste= []
   l=[]

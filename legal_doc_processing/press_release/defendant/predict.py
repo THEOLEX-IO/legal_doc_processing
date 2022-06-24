@@ -2,8 +2,8 @@
 from legal_doc_processing.press_release.defendant.defendant import utils_defendant
 
 def predict_defendant (data: dict) -> list:
-  text= "\n".join(data[key] for key in data.keys())
-  folder= data["source"]
+  text=  data.raw_text
+  folder= data.source
 
 
   df_res = pd.DataFrame(columns=["folder","N","tag","question","answer","score","context","start","end","chosen"]) #le dataframe à remplir et exporter en excel

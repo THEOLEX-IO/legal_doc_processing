@@ -1,10 +1,12 @@
 from transformers import pipeline
 nlp2 = pipeline("question-answering")
+import datetime
 import os
 import pandas as pd
+import re
 def predict_decision_date (data: dict) -> list:
-  text= "\n".join(data[key] for key in data.keys())
-  folder= data["source"]
+  text= data.raw_text
+  folder= data.source
   final_result =[]
   df_res = pd.DataFrame(columns=["folder","N","tag","question","answer","score","context","start","end","chosen"]) #le dataframe à remplir (au cas où)
   N =20 #Généralement les 20premières lignes contiennent toujours la date

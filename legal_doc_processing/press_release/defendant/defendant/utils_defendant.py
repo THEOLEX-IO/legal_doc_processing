@@ -258,9 +258,8 @@ def delete_uni(liste):
   return liste
 
 def give_answer(df_of_top):
-  liste= []
+  liste=[]
   l=[]
-
   df_of_topp = df_of_top.groupby(["folder"])
   for key,item in df_of_topp:
     fichiers = df_of_topp.get_group(key)

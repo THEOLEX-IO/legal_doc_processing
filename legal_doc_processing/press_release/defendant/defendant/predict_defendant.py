@@ -67,8 +67,6 @@ def best_predict(df_res):
       p = p+1
       row = a_group.loc[i,["folder", "question","answer","norm_score","context","score","N"]]
       df_of_top=df_of_top.append(row)
-  
-
   return df_of_top
 
 

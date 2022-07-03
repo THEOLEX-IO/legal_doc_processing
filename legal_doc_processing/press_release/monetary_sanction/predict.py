@@ -47,8 +47,6 @@ def predict_monetary_sanction (data: dict) -> list:
     score = df_res_copy.loc[i,'score']
     df_res_copy.loc[i,'norm_score'] = weight*score
 
-
-
   #recherche du  top et création du dataframe contenant le top3+ best normal
   log=False
   df_res_copy_grouped = df_res_copy.groupby(["folder"]) #grouper les lignes par fichier
@@ -124,7 +122,6 @@ def predict_monetary_sanction (data: dict) -> list:
   return final_result
 
 
-# def predict_monetary_sanction(data.: dict) -> list:
 #     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
 
 #     # pipe, spa

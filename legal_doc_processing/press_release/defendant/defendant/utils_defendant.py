@@ -6,8 +6,6 @@ import numpy as np
 import os
 import re
 import requests
-
-
 def _del_bouble_breaks_and_spaces(txt: str) -> str:
 
   x = re.sub("[\n]*", "", txt)

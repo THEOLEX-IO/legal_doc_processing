@@ -10,7 +10,7 @@ REQUIRED = [
     "pandas",
     "nltk",
     "transformers",
-    "spacy",
+    "spacy==3.0.6",
     "tensorflow",
     "clean-text",
     "word2vec",

@@ -2,9 +2,8 @@
 from legal_doc_processing.press_release.monetary_sanction.monetary_sanction import utils_monetary_sanction
 
 def predict_monetary_sanction (data: dict) -> list:
-  #text= "\n".join(data[key] for key in data.keys())
-  text= data.raw_text
-  folder= data.source
+  text= "\n".join(data[key] for key in data.keys())
+  folder= data["source"]
   #On écrira ici une fonction qui prend text qui qui ressort le dataframe avec les réponses
 
   df_res = pd.DataFrame(columns=["folder","N","tag","question","answer","score","context","start","end","chosen"]) #le dataframe à remplir et exporter en excel
@@ -46,6 +45,8 @@ def predict_monetary_sanction (data: dict) -> list:
     #compute score
     score = df_res_copy.loc[i,'score']
     df_res_copy.loc[i,'norm_score'] = weight*score
+
+
 
   #recherche du  top et création du dataframe contenant le top3+ best normal
   log=False
@@ -108,21 +109,6 @@ def predict_monetary_sanction (data: dict) -> list:
       index_max=l1.index(max(l1))
       row=fichiers.loc[index_max, ["folder", "answer", "context", "score"]]
       l=l.append(row)
-  l = l.reset_index ()
   final_result= [] 
-
-  if (len(l)!=0):
-    final_result.append(l.loc[0,"answer"])
-  else:
-    final_result.append(str(0))
-  final_result= _cast_as_int(final_result)
-  if ((len(final_result)) ==0):
-    final_result.append(str(0))
-
+  final_result.append(l.loc[0,"answer"]) 
   return final_result
-
-
-#     """init a pipe if needed, then ask all questions and group all questions ans in a list sorted py accuracy """
-
-#     # pipe, spa
-#     nlpipe, nlspa = data.["nlpipe"], data.["nlspa"]

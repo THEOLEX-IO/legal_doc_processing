@@ -275,6 +275,7 @@ def give_answer(df_of_top):
   liste=delate_uni(liste)
   liste = [elt for elt in liste if type(elt)!=type(3.5)]
   answer= ';'.join(liste)
+  answer = answer.replace ('\n', ' ')
   l.append(answer)
   return l
 
